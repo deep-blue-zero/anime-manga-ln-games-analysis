@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 18 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated; EVENT_0003 historical universal screen and WXS I3/LN I1 interpretation complete; EVENT_0004 complete by retained discovery and targeted founded enrichment, all five unit dispositions integrated; EVENT_0005 corrected universal discovery and all founded unit dispositions integrated"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 17 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated; EVENT_0003 historical universal screen and WXS I3/LN I1 interpretation complete; EVENT_0004 complete by retained discovery and targeted founded enrichment, all five unit dispositions integrated; EVENT_0005 corrected universal discovery and all founded unit dispositions integrated; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,7 +14,13 @@ mutable: true
 # Project SEKAI Event Relevance and Routing Ledger
 
 
-## Current routing authority — EVENT_0005 fully integrated
+## Current routing authority — EVENT_0006 fully integrated
+
+**EVENT_0006 is fully integrated:** VBS PRIMARY/HIGH / I3 advances `VBS-REL-KH-AN-3 -> VBS-REL-KH-AN-4` through explicit reciprocal trust and an actual unequal full-effort singing test. An's operative partner understanding changes; Kohane's self-directed practice, Akito–Toya reliance and the four-person plan receive bounded I1/I2 refinements. Human IDs `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3` and `VBS-REL-GROUP-1` remain. MMJ CROSS_UNIT/MEDIUM / I1 records present Haruka–An and Minori–Kohane advice without a new MMJ group state; Leo/need, WxS and N25 are NONE / documentary I0. Street MEIKO, Miku and Len have distinct direct routes; Street Rin is reported. The frozen full envelope is 18 stories / 41 scenes / 1,231 records with verified source segments. All five human foundations and EVENT_0001–0006 unit dispositions are complete. Seventeen earlier universal screens remain: `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next historical candidate EVENT_0008. Forward N25 EVENT_0090 / next EVENT_0091 and tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No later live success, equal skill, principal-human R3 package or full synthesis is certified. This `single_operation` ends after its validated local commit; the next candidate is not authorization to proceed.
+
+Causal home: [EVENT_0006 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md). The EVENT_0005 checkpoint below is preserved as historical authority for its own cutoff.
+
+## Preserved EVENT_0005 routing checkpoint
 
 **EVENT_0005 is fully integrated:** MMJ PRIMARY/HIGH / I3 through adopted freelance activity, shared production/management work and operative identity knowledge; Leo/need, VBS, WxS and N25 are NONE / documentary I0. The four MMJ human defaults remain `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`; the unit state advances `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06`. Existing dyads receive bounded refinements and recipient-specific knowledge is separate. Stage Rin/Miku and public recordings retain distinct responsibilities. The retained complete discovery covers 18 stories / 47 scenes / 1,162 records; root wording corrections, core interpretation and bounded card rereading are reconciled. All five main-story foundations and EVENT_0001–0005 unit dispositions are complete. Eighteen earlier universal screens remain: `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. The next historical candidate is EVENT_0006. Forward EVENT_0090 / next EVENT_0091 and N25 tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No principal-human R3 package, public career outcome or final synthesis is certified. This `single_operation` ends after its validated commit; the next candidate is not authorization to proceed.
 
@@ -94,7 +100,7 @@ The table below is a routing inventory, not a substitute for detailed per-unit a
 | EVENT_0003 | 全力！ワンダーハロウィン！ | `RB_20201031T060000Z` | 8 core + 10 card halves + 8 areas = 26 verified stories / 1,456 records | `WXS PRIMARY; LEO_NEED CROSS_UNIT; MMJ/VBS/N25 NONE` | yes (universal) | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | WXS I3 and LN I1 integrated; MMJ/VBS/N25 I0; reusable record-level routes below |
 | EVENT_0004 | 走れ！体育祭！～実行委員は大忙し～ | `RB_20201109T060000Z` | 8 core + 10 card halves + 9 areas = 27 verified stories; prior26 plus area009 | `LEO_NEED, MMJ, N25, VBS, WXS` | yes (retained pass + area009 + targeted enrichment) | `I2` | `UNIVERSAL_SCREEN_COMPLETE` | MMJ/WXS I3, LN I2, VBS I1, N25 I2 integrated; shared records reconciled |
 | EVENT_0005 | ここからRE:START！ | `RB_20201119T060000Z` | 8 core + 10 card halves; 18 stories / 47 scenes / 1162 records; no linked areas | `MMJ`; separate Stage Miku/Rin and public recordings | yes | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | MMJ I3 and other human units I0; all six ledgers integrated; next historical EVENT_0006 |
-| EVENT_0006 | いつか、背中あわせのリリックを | `RB_20201130T060000Z` | review-index associations only; final analytical envelope pending | `VBS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
+| EVENT_0006 | いつか、背中あわせのリリックを | `RB_20201130T060000Z` | 8 core + 10 card halves; 18 stories / 41 scenes / 1231 records; no linked areas | VBS PRIMARY; MMJ CROSS_UNIT; Street manifestations separate; LN/WxS/N25 NONE | yes | VBS I3; MMJ I1; others I0 | `UNIVERSAL_SCREEN_COMPLETE` | all five human-unit dispositions integrated; next historical EVENT_0008 |
 | EVENT_0007 | KAMIKOU FESTIVAL！ | `RB_20201210T060000Z` | 8 core + 10 card halves + 9 area (verified completed envelope) | `N25, VBS, WXS` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
 | EVENT_0008 | 聖なる夜に、この歌声を | `RB_20201220T060000Z` | review-index associations only; final analytical envelope pending | `WXS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
 | EVENT_0009 | セカイのハッピーニューイヤー！ | `RB_20201231T060000Z` | 11 core + 12 card halves + 5 area (verified completed envelope) | `LEO_NEED, N25, VBS, WXS` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
@@ -3173,3 +3179,44 @@ The direct ball-reaction trio and later anonymous recording voices remain distin
 All 18 capsules preserve ordinary work, humor, speech, family history and learning alongside the agency decision. The four other human units and School/Street/Wonderland/Empty manifestations are NONE on complete semantic evidence, not marketing, roster or shared-setting inference. Public singer recordings carry no receipt of private human information. A later project consumes these routes rather than repeating a franchise pass.
 
 Depicted time is only partially ordered: core chapters, local day markers, the choice preceding certain cards and the Rin duet promise preceding its performance. Do not impose a total card timeline from availability. Rin receives a spoken life account plus elided present difficulty; exact last-resort bargain terms remain unestablished as her knowledge. Producer testimony establishes feared agency pressure, not actual retaliation. The quoted-speech room visit does not establish physical embodiment. Public launch, income, bookings, indefinite communication practice and encore completion remain unshown.
+
+## EVENT_0006 — one-time universal discovery and integrated routing
+
+**Release and source:** `いつか、背中あわせのリリックを`, `RB_20201130T060000Z`, frozen lock `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, primary commit `22b4d19e982feaece6cd42c074e86e2cefac5cdd`. The release manifest, event-review group and canonical source segments agree on the following **18 stories / 41 scenes / 1,231 records**. No linked/unlock/archive area or other review crosslink belongs to this EVENT6 group. All exact source-segment hashes were checked; the row digest is canonical file SHA-256. Equal availability does not force equal depicted time.
+
+| Story ID | Canonical path | Scenes | Records | File SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0006:01` | `02_CANONICAL_STORIES/EVENT/0006_01.md` | 4 | 107 | `9f5f3c482757c0ef4769d03857b2fe44df0827dc735287a62a7bddc9499cf3ba` |
+| `PJSK:event:0006:02` | `02_CANONICAL_STORIES/EVENT/0006_02.md` | 2 | 98 | `15bc60cd1a55e0ca0cd7eb7a0e49c167ab3bbd0a9866ff6176eb23b1603c7d1f` |
+| `PJSK:event:0006:03` | `02_CANONICAL_STORIES/EVENT/0006_03.md` | 2 | 57 | `a71dcf91979e9f879529f09085150c72d5a3c0b6f3bea55ae06d3a0b074206ef` |
+| `PJSK:event:0006:04` | `02_CANONICAL_STORIES/EVENT/0006_04.md` | 3 | 74 | `3f452c1690a2d605be329d0c2fe57546e513c7cf8a239f4cea99f28b3bae44ac` |
+| `PJSK:event:0006:05` | `02_CANONICAL_STORIES/EVENT/0006_05.md` | 2 | 70 | `df9f92463ae3c61192d5d1105bf08bd3c2557debd442461e6c3d42a580640124` |
+| `PJSK:event:0006:06` | `02_CANONICAL_STORIES/EVENT/0006_06.md` | 3 | 68 | `424911658ea605f74cacae39d82c8e7488ed8f6b94277cb9875906de5a4b0742` |
+| `PJSK:event:0006:07` | `02_CANONICAL_STORIES/EVENT/0006_07.md` | 4 | 90 | `dda7e4459865b71cd3aca86a917ff246f4dbaa5824fc998f93ae7c7150bd92b8` |
+| `PJSK:event:0006:08` | `02_CANONICAL_STORIES/EVENT/0006_08.md` | 3 | 85 | `6cfda1ae2e0ec6c50b74ccb3d028b2169f4840341d6d59694fc13f0729d5c57e` |
+| `PJSK:card:0134:01` | `02_CANONICAL_STORIES/CARD/0134_01.md` | 4 | 71 | `1a2d2bb47a70da1f8e54a3c5b6936fea957e2439becb0cefe9ae6506e2ddbd1d` |
+| `PJSK:card:0134:02` | `02_CANONICAL_STORIES/CARD/0134_02.md` | 1 | 62 | `d148be1e9e8167e2374b2925d2d7358187251ef5383cd2e7cc4c2c8c4ee9c56e` |
+| `PJSK:card:0135:01` | `02_CANONICAL_STORIES/CARD/0135_01.md` | 1 | 61 | `b0eb9d52e3518868d8797292e10b074ecb9f25e9fba813433b3fd8613c0d865a` |
+| `PJSK:card:0135:02` | `02_CANONICAL_STORIES/CARD/0135_02.md` | 1 | 58 | `64dc3d9ea80ba7df7b814626aee1121094ed95f4e0e7b9c4e3851a87f71e4910` |
+| `PJSK:card:0136:01` | `02_CANONICAL_STORIES/CARD/0136_01.md` | 3 | 40 | `d5c727d6ec591ad4829688d7c097a9feaae34b9c636eef028420c8f1f5b27eec` |
+| `PJSK:card:0136:02` | `02_CANONICAL_STORIES/CARD/0136_02.md` | 1 | 54 | `b59de6419530869b51fccb3d92c973e9eb2c0dfa9bcb25cdfd618d59819d54d2` |
+| `PJSK:card:0137:01` | `02_CANONICAL_STORIES/CARD/0137_01.md` | 2 | 58 | `4425e1cecf949e53ae12306f60a36d1dd0881248394ca49fe6ad1c2208904515` |
+| `PJSK:card:0137:02` | `02_CANONICAL_STORIES/CARD/0137_02.md` | 1 | 68 | `fa50b01bce5a4171e673671cf04aae97ca7df5686f1d936046e92f99948f3614` |
+| `PJSK:card:0138:01` | `02_CANONICAL_STORIES/CARD/0138_01.md` | 2 | 65 | `d87449e2d4b9919226ad644389e6721b7f2a87cf6a0946acd5807dcd31a9e4a7` |
+| `PJSK:card:0138:02` | `02_CANONICAL_STORIES/CARD/0138_02.md` | 2 | 45 | `644d5a01dca3b1c476ae623d596569707576b4ad08cce2dac03f0fa6cfe494f8` |
+
+### Discovery routes before impact
+
+| Scope / people | Relevance / future review priority | Evidence domain and exact retrieval | Status |
+|---|---|---|---|
+| VBS four / An–Kohane | PRIMARY/HIGH | Chosen battle and hidden protective asymmetry `PJSK:event:0006:01:002:0034–0067`, `PJSK:event:0006:01:004:0022–0035`; failure and divergent blame `PJSK:event:0006:02:002:0063–0094`, `PJSK:event:0006:03:002:0002–0032`; reciprocal park exchange `PJSK:event:0006:08:001:0025–0060`; tested full effort `PJSK:card:0134:02:001:0011–0049`. | Routed, VBS I3 integrated. |
+| VBS Akito–Toya / group / Ken | SECONDARY/MEDIUM-HIGH | Partner critique, school trust and group goal `PJSK:event:0006:06:003:0007–0020`, `PJSK:card:0136:01:003:0015–0034`, `PJSK:card:0136:02:001:0029–0046`, `PJSK:card:0137:02:001:0014–0067`; Ken's distinct advice `PJSK:card:0134:01:004:0009–0025`, `PJSK:card:0135:01:001:0025–0054`. | Routed, bounded VBS refinements integrated. |
+| MMJ Haruka–An | CROSS_UNIT/MEDIUM | Present meeting and An-account recipient, Haruka's first-person ASRUN report and direct advice: `PJSK:event:0006:04:003:0011–0021`, `PJSK:event:0006:05:001:0002–0027`. Childhood friendship was previously retrospective. | Routed, MMJ I1 integrated. |
+| MMJ Minori–Kohane | CROSS_UNIT/MEDIUM | Existing school relationship, bounded Kohane report, Minori novice analogy and practical advice, later recollection: `PJSK:event:0006:06:002:0007–0044`, `PJSK:event:0006:07:002:0006–0008`. Airi/Shizuku are named only as teachers. | Routed, MMJ I1 integrated. |
+| Street MEIKO | SECONDARY/MEDIUM-HIGH | Café care, post-failure account and Toya referral `PJSK:event:0006:01:002:0025–0067`, `PJSK:event:0006:07:004:0005–0065`; cleaning and Miku discussion `PJSK:card:0138:01:002:0002–0064`, `PJSK:card:0138:02:002:0009–0044`. | Routed manifestation-local. |
+| Street Miku / Len / Rin | Miku SECONDARY/MEDIUM; Len SECONDARY/MEDIUM-LOW; Rin INCIDENTAL/LOW | Miku direct inferred concern `PJSK:card:0138:02:002:0009–0024`; Len direct practice/help and café talk `PJSK:card:0136:02:001:0012–0054`, `PJSK:card:0137:01:002:0018–0039`; Rin reported prior practice `PJSK:card:0134:01:002:0002` and prospective core mention `PJSK:event:0006:08:003:0011–0014`. | Routed separately; no individual Rin change. |
+| Leo/need, WxS, N25; other manifestations | NONE/LOW | No present member, specific transaction or manifestation across the complete 18 stories. Song placeholders and audience reports do not add a recorded singer route. | Documentary I0; closed. |
+
+### Reuse and uncertainty controls
+
+Kohane experiences the auditory cue loss; other performers observe the stumble but do not thereby receive that exact sensory account. Akito's partnership semantics, Haruka's own ASRUN report, Minori's novice account, Ken's unnamed former companion and audience criticism remain attributed. Haruka did not watch STAY GOLD; Minori did not receive An's confession; An was absent when two men disparaged VBS in `PJSK:card:0135:02:001:0002–0028`. MEIKO, Miku, Len and Rin do not form a pooled Street mind or inherit other SEKAI manifestations' knowledge. Common release time does not prove total card order. A planned outdoor show, weekly café practice, later live and second SEKAI full-effort test have no completed outcome in this envelope. The [full reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md) consumes these routed sources; no duplicate unit-level source discovery is needed.

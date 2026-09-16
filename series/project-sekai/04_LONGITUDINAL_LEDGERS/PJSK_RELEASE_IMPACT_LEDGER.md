@@ -4,16 +4,22 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
+source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0090 I2 Ena expressive-method refinement; all six ledgers synchronized; current human tuple retained; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical LN EVENT_0001 I2 with preserved P04 humans; historical LN EVENT_0002–0003 I1 with preserved P04 humans; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
+analysis_cutoff: "EVENT_0090 I2 Ena expressive-method refinement; all six ledgers synchronized; current human tuple retained; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical LN EVENT_0001 I2 with preserved P04 humans; historical LN EVENT_0002–0003 I1 with preserved P04 humans; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved"
 ---
 
 # Project SEKAI Release Impact Ledger
 
-## Current EVENT_0005 checkpoint
+## Current EVENT_0006 checkpoint
+
+**EVENT_0006 is fully integrated:** VBS PRIMARY/HIGH / I3 advances `VBS-REL-KH-AN-3 -> VBS-REL-KH-AN-4` through explicit reciprocal trust and an actual unequal full-effort singing test. An's operative partner understanding changes; Kohane's self-directed practice, Akito–Toya reliance and the four-person plan receive bounded I1/I2 refinements. Human IDs `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3` and `VBS-REL-GROUP-1` remain. MMJ CROSS_UNIT/MEDIUM / I1 records present Haruka–An and Minori–Kohane advice without a new MMJ group state; Leo/need, WxS and N25 are NONE / documentary I0. Street MEIKO, Miku and Len have distinct direct routes; Street Rin is reported. The frozen full envelope is 18 stories / 41 scenes / 1,231 records with verified source segments. All five human foundations and EVENT_0001–0006 unit dispositions are complete. Seventeen earlier universal screens remain: `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next historical candidate EVENT_0008. Forward N25 EVENT_0090 / next EVENT_0091 and tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No later live success, equal skill, principal-human R3 package or full synthesis is certified. This `single_operation` ends after its validated local commit; the next candidate is not authorization to proceed.
+
+Causal home: [EVENT_0006 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md). The EVENT_0005 block below remains a preserved historical checkpoint.
+
+## Preserved EVENT_0005 checkpoint
 
 **EVENT_0005 is fully integrated:** MMJ PRIMARY/HIGH / I3 through adopted freelance activity, shared production/management work and operative identity knowledge; Leo/need, VBS, WxS and N25 are NONE / documentary I0. The four MMJ human defaults remain `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`; the unit state advances `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06`. Existing dyads receive bounded refinements and recipient-specific knowledge is separate. Stage Rin/Miku and public recordings retain distinct responsibilities. The retained complete discovery covers 18 stories / 47 scenes / 1,162 records; root wording corrections, core interpretation and bounded card rereading are reconciled. All five main-story foundations and EVENT_0001–0005 unit dispositions are complete. Eighteen earlier universal screens remain: `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. The next historical candidate is EVENT_0006. Forward EVENT_0090 / next EVENT_0091 and N25 tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No principal-human R3 package, public career outcome or final synthesis is certified. This `single_operation` ends after its validated commit; the next candidate is not authorization to proceed.
 
@@ -2602,3 +2608,29 @@ The [full event reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEE
 **I3 test:** a founding group with no settled external operating approach now chooses independent work, divides responsibilities, investigates promotion and practices recording; subsequent preparation and contact explanations show the decision operating beyond the meeting. Airi’s explicit revision of necessary idol conditions is an operative epistemic component. None requires inventing a new human personality or claiming income, public debut, audience growth or indefinite success. Evidence: `PJSK:event:0005:08:001:0012–0075`; `PJSK:card:0129:02:002:0019–0034`; `PJSK:card:0131:01:002:0002–0015`; `PJSK:card:0132:02:002:0002–0034`; `PJSK:card:0133:01:001:0002–0013`.
 
 **Transaction boundary:** all six ledgers and source-routing/coverage/current-state surfaces are reconciled in this operation. The earlier pending universal-screen count falls from 19 to 18; EVENT_0006 is the next historical candidate. Public launch, earnings, every office follow-up, enduring talk routine and the encore remain OPEN. User authorization is one event; stop after the validated checkpoint commit, without beginning EVENT6 or resuming the older continuous campaign.
+
+## Historical EVENT_0006 — integrated complete-envelope impact
+
+```yaml
+execution_scope: single_operation
+completed_operation: EVENT_0006
+next_historical_candidate: EVENT_0008
+forward_frontier_unchanged: EVENT_0090
+next_forward_candidate_unchanged: EVENT_0091
+```
+
+The [complete EVENT_0006 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md) consumes the one-time universal route from 18 verified stories, 41 scenes and 1,231 ordered records. Eight core chapters and ten card halves comprise the full group; no linked areas. The former 18-gap list falls to 17. Source discovery and baseline-relative impact remain separate responsibilities.
+
+| Scope | Relevance / impact | State, relationship and knowledge consequence | Integration |
+|---|---|---|---|
+| VBS | PRIMARY/HIGH / I3 | `VBS-REL-KH-AN-3 -> VBS-REL-KH-AN-4`; An's partner model becomes operative through confession and full-effort test. Four human IDs and `GROUP-1` retained; Kohane's practice, Akito–Toya reliance, Toya's self-description and group planning I1/I2. | INTEGRATED; no R3 principal-human package. |
+| MMJ | CROSS_UNIT/MEDIUM / I1 | Present Haruka–An and Minori–Kohane advice increments; Haruka/Minori MS-04 and MMJ GROUP-06 preserved. Airi/Shizuku name-only. | INTEGRATED, no group transition. |
+| Leo/need | NONE / I0 | No human, relation or knowledge delta. | INTEGRATED documentary. |
+| WxS | NONE / I0 | No human, relation or knowledge delta. | INTEGRATED documentary. |
+| N25 | NONE / I0 | No EVENT6 contribution; forward EVENT90 state remains separate. | INTEGRATED documentary. |
+| Street MEIKO / Miku / Len | SECONDARY, distinct local I1 | MEIKO hears bounded account and routes help; Miku reports inferred concern/non-interruption; Len invites and discusses helping. | INTEGRATED within VBS; no shared mind. |
+| Street Rin | INCIDENTAL reported / I0 individual | Earlier practice help reported and later participation proposed; no direct speaking or individual transition. | INTEGRATED documentary. |
+
+**I3 test:** the foundation's protective An–Kohane asymmetry is challenged by a failed competitive performance and both partners' separate self-assessments. They make reciprocal commitments before all four, and the associated An card depicts a harder enacted full-effort test in which Kohane still falls behind and An does not take over. This supports a relationship successor and changed operative knowledge without inventing equal proficiency or a completed future show. `PJSK:event:0006:02:002:0063–0081`; `PJSK:event:0006:08:001:0025–0060`; `PJSK:event:0006:08:003:0015–0019`; `PJSK:card:0134:02:001:0011–0049`.
+
+**Transaction boundary:** All six ledgers and routing, coverage, reading index and current-state surfaces close EVENT_0006. The next historical candidate is EVENT_0008, but this authorization ends at the validated EVENT6 checkpoint. Preserve earlier histories, forward EVENT0090/0091, all unfinished packages and syntheses; do not start another event.

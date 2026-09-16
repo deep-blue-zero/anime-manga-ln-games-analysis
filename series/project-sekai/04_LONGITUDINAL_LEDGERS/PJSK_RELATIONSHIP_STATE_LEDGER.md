@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -15,7 +15,13 @@ mutable: true
 
 # Project SEKAI Relationship State Ledger
 
-## Current EVENT_0005 checkpoint
+## Current EVENT_0006 checkpoint
+
+**EVENT_0006 is fully integrated:** VBS PRIMARY/HIGH / I3 advances `VBS-REL-KH-AN-3 -> VBS-REL-KH-AN-4` through explicit reciprocal trust and an actual unequal full-effort singing test. An's operative partner understanding changes; Kohane's self-directed practice, Akito–Toya reliance and the four-person plan receive bounded I1/I2 refinements. Human IDs `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3` and `VBS-REL-GROUP-1` remain. MMJ CROSS_UNIT/MEDIUM / I1 records present Haruka–An and Minori–Kohane advice without a new MMJ group state; Leo/need, WxS and N25 are NONE / documentary I0. Street MEIKO, Miku and Len have distinct direct routes; Street Rin is reported. The frozen full envelope is 18 stories / 41 scenes / 1,231 records with verified source segments. All five human foundations and EVENT_0001–0006 unit dispositions are complete. Seventeen earlier universal screens remain: `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next historical candidate EVENT_0008. Forward N25 EVENT_0090 / next EVENT_0091 and tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No later live success, equal skill, principal-human R3 package or full synthesis is certified. This `single_operation` ends after its validated local commit; the next candidate is not authorization to proceed.
+
+Causal home: [EVENT_0006 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md). The EVENT_0005 block below remains a preserved historical checkpoint.
+
+## Preserved EVENT_0005 checkpoint
 
 **EVENT_0005 is fully integrated:** MMJ PRIMARY/HIGH / I3 through adopted freelance activity, shared production/management work and operative identity knowledge; Leo/need, VBS, WxS and N25 are NONE / documentary I0. The four MMJ human defaults remain `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`; the unit state advances `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06`. Existing dyads receive bounded refinements and recipient-specific knowledge is separate. Stage Rin/Miku and public recordings retain distinct responsibilities. The retained complete discovery covers 18 stories / 47 scenes / 1,162 records; root wording corrections, core interpretation and bounded card rereading are reconciled. All five main-story foundations and EVENT_0001–0005 unit dispositions are complete. Eighteen earlier universal screens remain: `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. The next historical candidate is EVENT_0006. Forward EVENT_0090 / next EVENT_0091 and N25 tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No principal-human R3 package, public career outcome or final synthesis is certified. This `single_operation` ends after its validated commit; the next candidate is not authorization to proceed.
 
@@ -3272,3 +3278,41 @@ Historical EVENT_0005 — **MMJ I3**, with Leo/need, VBS, WxS and N25 NONE / doc
 **Limits / confidence:** Different conversations remain distinct. No actual retaliation, universal blacklist, agency acceptance, completed wider apologies or pooled private bargain knowledge. HIGH for depicted acts and attributed accounts; broader inference bounded below.
 
 **Explicit preservation:** `MMJ-REL-HRSZ-04`, `MMJ-REL-HRMAI-01` and the EVENT4 school relationships remain. Shared planning does not manufacture an isolated Haruka–Shizuku encounter; the unnamed ASRUN caller does not update Mai by inferred identity.
+
+## Historical EVENT_0006 — reciprocal partnership, bounded other ties
+
+The [EVENT_0006 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md) owns the causal account. The VBS relation transition is specific to An–Kohane; all unaffected dyads and historical IDs remain. Confidence HIGH for depicted interaction; durability beyond the envelope OPEN.
+
+### VBS-REL-KH-AN-4 — EVENT_0006 I3 successor
+
+**Prior:** `VBS-REL-KH-AN-3`, genuine recognition with asymmetrical protective guidance.
+
+**Bounded change:** Public failure exposes the cost of An changing her own part to follow Kohane. An acknowledges pleasure in being needed and asks to trust rather than rescue; Kohane accepts responsibility and asks to stand beside her. An asks Kohane to cover her if she falters. Kohane then requests An's unrestrained singing, and the two perform a full-effort test while Kohane admits the remaining gap.
+
+**Evidence:** `PJSK:event:0006:02:002:0063–0081`; `PJSK:event:0006:08:001:0025–0056`; `PJSK:event:0006:08:003:0015–0019`; `PJSK:card:0134:02:001:0011–0049`.
+
+**Limits:** Reciprocity of trust is shown, equality of current skill and success under a later battle audience are not. Preserve `-3` for its earlier period.
+
+### VBS-REL-AK-TY-2 — EVENT_0006 I2 refinement
+
+Akito's private training comparison and later direct acknowledgment of reliance answer Toya's expressed fear that he offers too little. Toya's own wish that all four succeed remains distinct from Akito's audience promise. Preserve `-2`; no first-contact or total reciprocal-knowledge claim. `PJSK:card:0136:01:003:0015–0028`; `PJSK:card:0136:02:001:0029–0046`; `PJSK:card:0137:02:001:0014–0040`.
+
+### VBS-REL-GROUP-1 — EVENT_0006 I2 operating refinement
+
+The four experience one failed competition, receive the pair's park disclosure and plan another audience test. Akito's coordination concerns, Toya's contribution, Kohane's practice effort and An's trust commitment are differentiated. Preserve `GROUP-1`; the group has not demonstrated a successful new live configuration. `PJSK:event:0006:03:002:0002–0032`; `PJSK:event:0006:08:001:0025–0060`; `PJSK:event:0006:08:003:0002–0019`.
+
+### VBS-REL-CROSSPAIR-E0006 — bounded teammate actions
+
+Akito's criticism reaches An; Toya gives Kohane requested guidance; Akito later encourages Kohane and moves her from hostile audience talk. These are different ties, not a pooled four-way intimacy state. `PJSK:event:0006:03:002:0018–0032`; `PJSK:event:0006:07:004:0021–0060`; `PJSK:card:0135:02:001:0024–0055`.
+
+### REL-CROSS-HARUKA-AN-E0004 — EVENT_0006 present-contact increment
+
+The E0004 record gave retrospective childhood closeness. Here Haruka presently meets An, hears a participant account, discloses a bounded ASRUN lesson and offers direct speech advice that An later uses. Preserve the earlier retrospective scope and add I1 current support; no evidence of Haruka's direct observation of the live or MMJ-wide receipt. `PJSK:event:0006:04:003:0011–0021`; `PJSK:event:0006:05:001:0002–0027`.
+
+### VBS-REL-CROSS-KOHANE-MINORI-MS0 — EVENT_0006 school increment
+
+The founded classmate/friend tie gains Minori's noticed distress, shared novice experience, practical recommendation and ordinary lunch care. Kohane later recalls the suggestion before seeking help. The friendship is not newly created here; MMJ group `GROUP-06` remains. `PJSK:event:0006:06:002:0007–0044`; `PJSK:event:0006:07:002:0006–0008`.
+
+### VBS-REL-KEN-E0006 / VBS-REL-STREET-E0006 — bounded mentors and manifestations
+
+Ken tells An an unnamed companion history, accepts Kohane's practice request and offers Toya a group-purpose reading in separate conversations. Street MEIKO listens and provides café space; Street Miku and Len choose different support methods, while Rin's prior help is reported. No shared mentor memory or unnamed-partner identity is inferred. `PJSK:card:0134:01:004:0009–0025`; `PJSK:card:0135:01:001:0025–0054`; `PJSK:card:0137:02:001:0033–0041`; `PJSK:event:0006:07:004:0005–0026`; `PJSK:card:0138:02:002:0009–0024`. LN/WxS/N25 relation states are unchanged.

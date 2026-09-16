@@ -52,3 +52,5 @@ Source statuses remain `canonical`. Empty supersession fields are represented as
 | [90_LEGACY_AND_SUPERSEDED/Conversation Archives](90_LEGACY_AND_SUPERSEDED/Conversation%20Archives/) | 0 | empty source folder preserved |
 
 The source Drive root ID is `1-W8fHu560i-B9Lg1c0MOhHFgULhNXzga`. The external source/extraction pipeline and raw media retain their existing authority. This import changes the Git analytical tree only.
+
+Current historical checkpoint: [EVENT_0006 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md) and its [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). VBS An–Kohane relationship I3 and MMJ cross-unit I1 are integrated across all six ledgers; 17 older universal screens remain, next EVENT_0008. The separate forward N25 frontier remains EVENT_0090, next EVENT_0091. The earlier import table above is a preserved import snapshot.

@@ -49,7 +49,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0005 historical transaction; forward EVENT_0090 retained
+### Current coverage — EVENT_0006 historical transaction; forward EVENT_0090 retained
+
+**EVENT_0006 is fully integrated:** VBS PRIMARY/HIGH / I3 advances `VBS-REL-KH-AN-3 -> VBS-REL-KH-AN-4` through explicit reciprocal trust and an actual unequal full-effort singing test. An's operative partner understanding changes; Kohane's self-directed practice, Akito–Toya reliance and the four-person plan receive bounded I1/I2 refinements. Human IDs `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3` and `VBS-REL-GROUP-1` remain. MMJ CROSS_UNIT/MEDIUM / I1 records present Haruka–An and Minori–Kohane advice without a new MMJ group state; Leo/need, WxS and N25 are NONE / documentary I0. Street MEIKO, Miku and Len have distinct direct routes; Street Rin is reported. The frozen full envelope is 18 stories / 41 scenes / 1,231 records with verified source segments. All five human foundations and EVENT_0001–0006 unit dispositions are complete. Seventeen earlier universal screens remain: `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next historical candidate EVENT_0008. Forward N25 EVENT_0090 / next EVENT_0091 and tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No later live success, equal skill, principal-human R3 package or full synthesis is certified. This `single_operation` ends after its validated local commit; the next candidate is not authorization to proceed.
+
+Causal home: [EVENT_0006 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md). Source discovery is recorded once in the routing ledger. The EVENT_0005 block below remains its historical checkpoint.
+
+- Complete one-time EVENT6 source screen: 18 stories / 41 scenes / 1,231 records; all six frozen manifest identities and 18 canonical story segments verified.
+- VBS I3 relationship/operative transition and bounded four-human/group/Street refinements integrated; MMJ I1 cross-unit advice integrated; LN/WxS/N25 documentary I0 closed. All six longitudinal ledgers synchronized.
+- Seventeen historical universal-screen gaps remain; next pointer EVENT_0008. EVENT_0006 authorization stops after local commit and verification; older continuous campaign remains paused.
+- Principal-human R3 packages, later material routes, unit/specialist/full-series syntheses and final audits remain unfinished.
+
+### Preserved EVENT_0005 coverage checkpoint
 
 **EVENT_0005 is fully integrated:** MMJ PRIMARY/HIGH / I3 through adopted freelance activity, shared production/management work and operative identity knowledge; Leo/need, VBS, WxS and N25 are NONE / documentary I0. The four MMJ human defaults remain `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`; the unit state advances `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06`. Existing dyads receive bounded refinements and recipient-specific knowledge is separate. Stage Rin/Miku and public recordings retain distinct responsibilities. The retained complete discovery covers 18 stories / 47 scenes / 1,162 records; root wording corrections, core interpretation and bounded card rereading are reconciled. All five main-story foundations and EVENT_0001–0005 unit dispositions are complete. Eighteen earlier universal screens remain: `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. The next historical candidate is EVENT_0006. Forward EVENT_0090 / next EVENT_0091 and N25 tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No principal-human R3 package, public career outcome or final synthesis is certified. This `single_operation` ends after its validated commit; the next candidate is not authorization to proceed.
 
@@ -1109,3 +1120,7 @@ CURRENT AUTHORITY AFTER EVENT_0090
 - Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; EVENT_0089 remains latest global human and major N25 relationship/epistemic I3.
 - EVENT_0089 unequal-knowledge/family/KAITO limits, EVENT_0080 and EVENT_0077 corrections and all unaffected prior IDs survive.
 - Four canonical foundations/material deferred integrations, 21 earlier screens, packages/readiness, syntheses, final audits and final protected integration remain incomplete.
+
+### EVENT_0006 source and reconstruction review
+
+The release manifest and review group bound eight event chapters and both halves of five associated cards. The root's source verifier matched six frozen manifest digests, all 18 canonical file digests and their pinned source segments. Core and card evidence reports covered 649 and 582 records respectively, all scenes including transitions. Root reconciled unit/person/manifestation routes before impact, then compared VBS/MMJ against their completed foundations and the existing EVENT1–5 dispositions. All seven lenses and recipient boundaries appear in the VBS event reading. The I3 proof is confined to the An–Kohane relationship and An's operative knowledge, with actual full-effort test and explicit remaining skill difference. No new global human or VBS group ID and no completed R3 package. LN/WxS/N25 NONE are complete-envelope determinations. Forward N25 EVENT90/91 remains separate.

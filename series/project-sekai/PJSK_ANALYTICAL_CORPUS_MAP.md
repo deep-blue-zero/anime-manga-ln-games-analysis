@@ -210,7 +210,31 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Single-event checkpoint — EVENT_0005
+### Single-event checkpoint — EVENT_0006
+
+```yaml
+sequential_execution:
+  mode: single_operation
+  unit_type: event
+  authorized_start: EVENT_0006
+  terminal_boundary: EVENT_0006
+  committed_high_water_mark: EVENT_0006
+  high_water_mark_semantics: latest_closed_historical_source_unit_transaction
+  entering_analysis_commit: 2e98433d16c38d36e2e1964648ba5f22711c463b
+  next_candidate_operation: EVENT_0008
+  next_operation_authorized: false
+  confirmation_between_units: true
+  run_state: stopped_after_single_operation
+  latest_closed_forward_transaction: EVENT_0090
+  next_forward_candidate: EVENT_0091
+  original_continuous_campaign: paused
+```
+
+**EVENT_0006 is fully integrated:** VBS PRIMARY/HIGH / I3 advances `VBS-REL-KH-AN-3 -> VBS-REL-KH-AN-4` through explicit reciprocal trust and an actual unequal full-effort singing test. An's operative partner understanding changes; Kohane's self-directed practice, Akito–Toya reliance and the four-person plan receive bounded I1/I2 refinements. Human IDs `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3` and `VBS-REL-GROUP-1` remain. MMJ CROSS_UNIT/MEDIUM / I1 records present Haruka–An and Minori–Kohane advice without a new MMJ group state; Leo/need, WxS and N25 are NONE / documentary I0. Street MEIKO, Miku and Len have distinct direct routes; Street Rin is reported. The frozen full envelope is 18 stories / 41 scenes / 1,231 records with verified source segments. All five human foundations and EVENT_0001–0006 unit dispositions are complete. Seventeen earlier universal screens remain: `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next historical candidate EVENT_0008. Forward N25 EVENT_0090 / next EVENT_0091 and tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No later live success, equal skill, principal-human R3 package or full synthesis is certified. This `single_operation` ends after its validated local commit; the next candidate is not authorization to proceed.
+
+The [EVENT_0006 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0006_DEEP_READING.md), [universal route](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) and six ledgers close this one transaction. The complete source inventory remains frozen. Local recovery incorporated live main and the remote series branch while preserving the entering Project SEKAI tree at EVENT_0005; the final commit and checkpoint receipt record the terminal tree.
+
+### Preserved single-event checkpoint — EVENT_0005
 
 ```yaml
 sequential_execution:
