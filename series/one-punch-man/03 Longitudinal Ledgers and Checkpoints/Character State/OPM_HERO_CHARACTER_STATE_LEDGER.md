@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Hero character state through V34
+scope: Hero character state through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -1201,3 +1201,54 @@ Propagated after the frozen [V34 reading](../../02%20Sequential%20Readings/OPM_V
 | Sekingar / Sitch | early registration request / retirement document, withheld identity, anticipated backlash and prophecy-driven force expansion | Sekingar emerging retained; Sitch remains an attributed institutional voice, not a new readiness profile. Proposed successor has no inherited rank. `175 / 0209–0211` |
 
 Genos's G-A-03 confirmation concerns preserved respectful disagreement, not the truth of every claim. Titles/cast art and collective medical language do not independently establish every absent hero's final condition or motive. Earlier consent and bodily-history contradictions remain intact.
+
+## V35 hero delta — rescue, competing ideals and psychic custody
+
+Propagated after the frozen [V35 reading](../../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Profile | New observed policy / state | Limit and evidence |
+|---|---|---|
+| Pig God | continues rubble recovery, treats surviving threats as hero responsibility, ingests Evil Natural Water and prioritizes Air's hospital care | moderate retained. Digestion is his competent report; physiology and independent eradication check remain open. `176 / 0016–0027` |
+| Genos | recognizes Pochi, argues for a second chance, delivers four-hour erased-history report and demands institutional unity/reform | strong retained. Evidence, theory and listener acceptance differ; no new Checkpoint Genos confirmation. `176,178 / 0032–0037,0088–0106` |
+| Fubuki | recruits pragmatically, intervenes for Psykos, admits school-age hierarchy/sealing and seeks the future's source; coordinates covertly with Tatsumaki | moderate retained, materially broadened history/institutional intelligence. Rescue, interrogation and control motives coexist. `180–181 / 0149–0194` |
+| Tatsumaki | arrives to finish Psykos, identifies Tsukuyomi as former captors and refuses their custody; coordinates a ruse with Fubuki | moderate retained. Lived threat knowledge and sister cooperation expand; V36 interiority/outcomes excluded. `181 / 0184–0194` |
+| Amai Mask | rejects derivative idol products, defines `華` through overwhelming strength and privately looks toward Saitama as an ideal-hero candidate | moderate retained. Intimidation and exacting standards remain his appraisal, not narrator certification. `178–179 / 0101,0114–0127` |
+| Flashy Flash | reframes Saitama from hanger-on toward a rival to defeat after the emergency meeting | moderate retained. Recognition is competitive and incomplete; no direct approach yet. `178 / 0091–0110` |
+| Metal Knight / Bofoi | defense network, cameras and records produce a level history, S-Class-or-higher estimate and potential-enemy file on Saitama | emerging retained, intelligence breadth strengthened. Partial data and remote opacity remain. `177–178 / 0050–0084` |
+| Zombieman / Sitch / Blast | limiter question / unity and campaign report / reported twenty-year cube opposition and spacetime absence | existing tiers retained. Meeting hypotheses and reported history are not exhaustive cosmology. `178 / 0085–0110` |
+| Kusarigama, Butterfly DX, Forte | ranks, ages, publicity and neighbor seniority; care for reduced monsters; Forte's rhythm isolates warning sound | no new readiness profiles. Coherent roles but current evidence is narrow and ensemble-bound. `179–bonus / 0129–0148,0196–0201` |
+
+Air's freedom/rank rhetoric and handler fatigue remain bounded minor-hero evidence; Pig God's rescue displaces the contest. Manako's testimony adds post-battle utility without resolving her final safety.
+
+## V36 hero delta — coercive protection, chosen followership and institutional leverage
+
+Propagated after the frozen [V36 reading](../../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Profile | New observed policy / state | Limit and evidence |
+|---|---|---|
+| Tatsumaki | neutralizes Tsukuyomi's signal, rescues staff, threatens Fubuki's group, enjoys testing Saitama, recalls Blast-shaped duty and later permits the group to continue | moderate materially strengthened. Guilt and hoped-for recognition explain control without excusing damage; tolerance remains conditional. `182–188 / 0015–0044,0174–0210,0230–0235` |
+| Fubuki | formally dissolves her group, attempts solitary action, then accepts members' return; extracts Psykos through a reputational/evidence bargain | moderate strengthened. Consent, protection, hierarchy and concealment coexist; better leadership is directional, not innocent. `185–188 / 0113–0116,0161–0168,0200–0206,0217–0233` |
+| Blizzard Group | returns after dissolution, explicitly accepts risk and asks to be entrusted with Fubuki | ensemble commitment confirmed; present strength, equality and future success remain open. `186–187 / 0161–0168,0200–0206` |
+| Forte / Butterfly DX / Chain'n'Toad | Forte reconstructs Saitama's scale from hospital and accepts the gap; peers are framed as same-A-Class companions | no new standalone profiles. Private respect changes without public rank correction. `183,188 / 0049–0051,0212–0216` |
+| Metal Bat | diverts toward H-City's Dragon-level Kenzan Nezumi while worried about Tama's birth | moderate retained: blunt duty and domestic urgency coexist; resolution is collateral and does not measure his ceiling. `185 / 0132–0142` |
+| Child Emperor | detects hidden intrusion and concludes headquarters contains improperly concealed wrongdoing | moderate retained, institutional-investigator direction strengthened; V37 consequences excluded. `188 / 0220,0236` |
+| Glasses | intervenes in bullying, admits his own fear, offers contact and defines telling someone as first courage | emerging retained. Ethical breadth strengthens; victim outcome remains open. `bonus / 0237–0241` |
+
+Feather's response to Erika's coercion returns agency rather than treating deception as free betrayal. His A34 profile remains bounded to this episode (`185 / 0117–0131`). Genos receives only an aftermath flower errand and no new checkpoint result (`188 / 0229`).
+
+## V37 hero delta — growth without usable metrics and conduct beyond rank
+
+Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Profile | New observed policy / state | Limit and evidence |
+|---|---|---|
+| Genos | deploys `雷光核`, judges his firepower potentially usable at Dragon level, seeks feedback, compares institutions, then drops transfer and takes the neighboring room to preserve proximity | strong retained. Upgrade and self-assessment are real; no independent Dragon matchup or solved self-measurement. G-A-03 confirms respectful disagreement in the gambling exchange. `190–193 / 0060–0098,0129–0137,0161–0165` |
+| Tanktop Master / group | Master is physically restored and stronger; departures after trauma coexist with low-ranked applicants moved by his conduct | moderate retained and materially strengthened. Reciprocity and recruitment do not certify high-level readiness. `190 / 0038–0046` |
+| Child Emperor | carries V36 suspicion into a concrete gambling-site and odds discovery, identifies McCoy's fixed match and keeps investigating | strong retained. Evidence improves; exposure, protection and institutional remedy remain open. `192 / 0130–0132` |
+| Darkshine | performs exceptional training work but battle anticipation revives fear and he says he cannot face forward | moderate retained. Bodily recovery and accessible combat readiness remain separate. `190 / 0049–0050` |
+| Mumen Rider | recognizes Wild Yankee's refusal to flee from a stronger enemy without validating the false rank | moderate retained, ethical appraisal strengthened. Influence and reciprocal recognition do not become formal discipleship. `192 / 0117–0135` |
+| Atomic Samurai / disciples | broadens his scale of strength, misreads King's inability as transcendence, lowers his self-estimate and recommits to training with willing disciples | moderate retained and broadened. Humility is real; the premise is false and no new King combat output exists. `193–194 / 0157–0160,0168–0200` |
+| Amai Mask | becomes the object of competing bodily, historical and conduct evidence in a still-open investigation | moderate retained. Special ability or monsterization is hypothesis, not verdict. `193 / 0141–0147` |
+| King | cannot draw the sword and leaves, while observers convert every failure signal into proof of impossible mastery | moderate retained. Social influence grows without demonstrated combat capacity or intentional pedagogy. `194 / 0172–0200` |
+
+Yuta and Shidou inherit grief and vengeance claims from Amahare and Zanbai, but receive no standalone readiness profiles (`193 / 0148–0150`). Axel, Raiden and the Hunters establish a competitive hero-labor field without proving Neo Heroes operations (`189 / 0015–0034`).

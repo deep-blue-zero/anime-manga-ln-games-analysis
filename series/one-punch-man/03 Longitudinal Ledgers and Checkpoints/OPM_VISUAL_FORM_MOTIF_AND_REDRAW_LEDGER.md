@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Visual form, motif, and redraw state through V34
+scope: Visual form, motif, and redraw state through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -589,3 +589,48 @@ Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_
 | Dawn carry, shared digging, bandaged sewing and palms | ordinary touch/labor retain cost inside recovery | `174–175/bonus / 0193–0194,0214–0218` |
 
 Cover/title/dojo-flap compositions remain publication framing. First-publication updates at 0219 are 2022-07-07, 2022-07-21, 2022-08-04 and 2022-08-18; the digital colophon gives 2025 without month/day. No paired web/tankobon redraw comparison or episode-ID mapping has been made. All original archive renditions remain preserved.
+
+## V35 visual delta — eyes, enclosure and category inversion
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Formal device | Interpretive consequence | Evidence / limit |
+|---|---|---|
+| Glasses reflection, cameras, monitor walls, mask, `Third Eye`, vortex | seeing fragments produces files, threat ratings, research targets and doctrine without full understanding | `0005,0078–0084,0117–0118,0149–0180`; vortex ontology open |
+| Room 104, halls, gates, underground cells and containment floor | cosmic aftermath contracts into layered domestic/institutional enclosure | `0010–0014,0044–0076,0128–0159,0193–0195` |
+| Black Sperm/Pochi scale reversal | former battlefield threats become tiny dependents while hostility and history remain | `0027–0041,0196–0201` |
+| Idol silhouettes, neighbor costume poses and literal flower | professional self-design becomes repeated visual classification and gag | `0114–0138` |
+| Clean school space to scratches/eye-like terror | Psykos's social perception collapses from individuals into species-level doctrine | `0169–0180`; not certified future geography |
+| Table inset and vertical rupture | concealed sister coordination precedes physical institutional collapse | `0189–0194`; communication mechanism unlabeled |
+
+Images 0202–0207 are credits, digital colophon/branding and labeled package reproductions. No paired web/tankobon redraw comparison or episode-ID mapping is inferred.
+
+## V36 visual delta — unmeasured force, relational cuts and official framing
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Formal device | Interpretive consequence | Evidence / limit |
+|---|---|---|
+| Rippling cup, shaking enclave and hidden basement grid | purchased safety is visually undermined before its concealed infrastructure is named | `0010–0014`; not proof that all shelter is illusory |
+| Expanding terrain, alarms and witness reaction | fight scale becomes publicly visible while Saitama remains socially illegible | `0074–0108,0174–0187`; reaction is not numeric measurement |
+| Blast receding into white space, cut to Saitama crouching | idealized absent recognition is replaced by mundane present concern | `0188–0197`; formal rhyme does not make Saitama the new Blast |
+| Head pat after property rule | ordinary recognition follows an explicit harm boundary | `0198–0199`; paternal reading remains a counter-pressure |
+| Rubble/monster fragments converted into media images | the same bodies become danger, evidence and heroic public story | `0217–0235`; story is selective rather than wholly false |
+| Bullying alley, offered contact and A-Class arrival | courage moves through disclosure and transmitted support instead of a triumphant solo blow | `0237–0241`; outcome remains open |
+
+No paired web/tankobon redraw comparison or episode-ID mapping is inferred. V37 and official-web visual continuation remain unopened.
+
+## V37 visual delta — screens, glare, backs and apples
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Formal device | Interpretive consequence | Evidence / limit |
+|---|---|---|
+| Tatsumaki commercial and executive room | spectacular image and private dependency occupy adjacent institutional registers | `0010–0020`; advertisement success is not operational legitimacy |
+| Genos's overwhelming glare around Saitama | visible upgrade becomes an obstacle to reciprocal looking and useful appraisal | `0069–0084`; formal brightness does not prove indifference or a power ceiling |
+| Broadcast/result/odds screens | rank, threat and achievement appear legible while their production is controlled | `0099–0132`; Saitama's local winner screen is true inside a corrupt system |
+| Bicycle/back motif around Wild Yankee and Mumen | admired conduct calls forth action and later recognizes it | `0100,0117–0135`; visual lineage is ethical influence, not formal discipleship |
+| Nichirin/Atomic/King apple sequence | a genuine delayed visual result becomes the template for hallucinating an absent act | `0153–0157,0174–0198`; literal panels preserve the difference |
+| Prolonged stillness and failed draw | reader-visible non-action becomes in-world transcendent technique through focalized reaction | `0190–0198`; narration never certifies a slash |
+
+Cover/endmatter apple imagery condenses the Saitama/King recognition asymmetry as paratext, not timed narrative evidence (`0001,0005,0202–0207`). No paired official-web redraw comparison is inferred.

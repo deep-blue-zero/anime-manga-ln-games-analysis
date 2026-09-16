@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Directional relationship state through V34
+scope: Directional relationship state through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -834,3 +834,49 @@ Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_
 | Tareo ↔ Waganma → peers | friendship access used for inclusion | status inequality and bullying not erased | `175 / 0204–0207` |
 
 No residential-neighbor or monster-pet relationship is admitted from V1. The unnamed final foreground remains unnamed.
+
+## V35 relationship delta — provisional shelter and contested custody
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Direction / pair | New state | Retained asymmetry / limit | Evidence |
+|---|---|---|---|
+| Saitama → Pochi / Black Sperm → Saitama | dog recognition and care priority / concealed identity and shelter gamble | Saitama does not knowingly accept Black Sperm; Pochi permission and recovery behavior open | `176–bonus / 0030–0041,0140–0152,0196–0201` |
+| Saitama ↔ A-Class neighbors | rank/seniority presentation meets indifference; challenge interrupted; neighbors later care for apparent strays | no demonstrated respect outcome or completed duel in V35 | `179–bonus / 0128–0148,0196–0201` |
+| Fubuki ↔ Psykos | former president/vice president rivalry becomes attempted preservation and interrogation | care, ego, control and desire for future knowledge remain inseparable | `180–181 / 0160–0180` |
+| Fubuki ↔ Tatsumaki | apparent custody conflict shifts to concealed coordination against Tsukuyomi | cooperation is real but ruse and later relational outcome are unfinished | `181 / 0184–0194` |
+| Hero Association ↔ Psykos ↔ Tsukuyomi | monster designation enables sale-like access and experiment; Tsukuyomi seeks brain/future sight | danger, culpability, personhood and exploitation remain simultaneous | `180–181 / 0153–0194` |
+| Genos → emergency meeting | erased-history witness becomes long report and reform demand | listeners contest temporal account; narrow God trend accepted, wider common understanding absent | `178 / 0085–0106` |
+
+Private upward Saitama recognition divides into Bofoi threat assessment, Flash rivalry, Amai idealization and Fubuki summit inference; these are not one relationship or public correction.
+
+## V36 relationship delta — labels, voluntary return and incomplete autonomy
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Direction / pair | New state | Retained asymmetry / limit | Evidence |
+|---|---|---|---|
+| Saitama ↔ Fubuki | he denies friend/comrade/friend-of-friend and retains only acquaintance while acting to protect her social sphere | conduct exceeds label but does not authorize friendship; Fubuki's reaction shows asymmetry | `183,187 / 0058–0061,0185–0187` |
+| Saitama ↔ Tatsumaki | restraint and conflict become safe-enough expression, concern, praise and an anti-harm boundary | no romance, cure or Blast replacement; she remains controlling and tells him the test continues | `182–188 / 0041–0044,0174–0210` |
+| Tatsumaki → Fubuki | Blast-linked guilt and responsibility explain a monopoly on protection; she eventually permits the group | protection remains directive, threatening and conditional; autonomy only begins | `182,187–188 / 0038–0044,0188–0210,0230–0235` |
+| Fubuki ↔ Blizzard Group | formal dissolution is followed by voluntary return and accepted risk | membership becomes more consensual without proving equal power, absence of hierarchy or durable reform | `185–187 / 0113–0116,0161–0168,0200–0206` |
+| Fubuki → Psykos | extraction combines former bond, strategic information and protection from Tsukuyomi/institutional custody | Psykos's consent is unavailable; care, leverage and concealment remain inseparable | `188 / 0217–0233` |
+| Saitama ↔ A-Class neighbors | Forte privately accepts the gap; Saitama frames same-rank residents as companions | peer respect grows, but official rank and wider public recognition do not change | `183,188 / 0049–0051,0212–0216` |
+| Glasses → bullied youth | fear is acknowledged and contact offered; disclosure becomes the first courageous act | supportive relation begins before outcome is known | `bonus / 0237–0241` |
+
+The exact terms `友達`, `仲間`, friend-of-friend and `ただの知り合い` remain distinct; 0213 `仲間` applies to the A-Class neighbors, not retroactively to Fubuki.
+
+## V37 relationship delta — proximity chosen through failed communication
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Direction / pair | New state | Retained asymmetry / limit | Evidence |
+|---|---|---|---|
+| Saitama ↔ Genos | cooperative spar produces unusable feedback; Genos considers transfer, cancels when Saitama refuses and then secures the neighboring room | behavioral attachment strengthens while communication and individuation remain incomplete; Saitama does not name the sacrifice | `191,193 / 0065–0098,0161–0165` |
+| Mumen Rider → Wild Yankee | Mumen's earlier example moves the coerced hero to stand; Mumen later recognizes conduct rather than staged rank | reciprocal ethical recognition without formal affiliation, guaranteed survival or institutional repair | `192 / 0117–0135` |
+| Tanktop Master ↔ group | trauma permits departure while conduct attracts voluntary applicants | group becomes more reciprocal without proving readiness, equality or permanence | `190 / 0038–0046` |
+| Atomic Samurai ↔ disciples | shared King misreading lowers Atomic's self-estimate and disciples voluntarily follow renewed hardship | commitment and practice are real even though the initiating inference is false | `194 / 0196–0200` |
+| Yuta / Shidou → Amahare / Zanbai | children inherit grief, identity and vengeance expectation at the memorial | lineage is explicit; readiness and whether vengeance repairs loss remain open | `193 / 0148–0150` |
+| Hero Association ↔ talent | Axel refuses, Raiden is already committed elsewhere and Genos treats membership as negotiable | affiliation becomes conditional; V37 proves recruitment pressure, not the rival's moral or operational superiority | `189,191 / 0015–0034,0085–0097` |
+
+Forte's neighbor claim is displaced by Genos's same-day move demand; this is comic proof of proximity seeking, not evidence of equal negotiation or Saitama's express endorsement (`193 / 0161–0165`).
