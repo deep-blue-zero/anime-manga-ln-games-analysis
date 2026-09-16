@@ -2,643 +2,298 @@
 title: Manga / Anime Reasoning and Model Routing Policy
 artifact_id: MANGA_ANIME_REASONING_MODEL_ROUTING_POLICY
 artifact_type: reasoning_model_routing_policy
-version: 1.0
-status: CANONICAL
-scope: corpus-wide analytical artifact generation
+version: "2.0"
+status: canonical
+scope: corpus-wide cognitive workload classification and model resolution
 created: 2026-08-27
+last_updated: 2026-09-13
 maintainer: ChatGPT + user
+do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 current_provider: OpenAI
-current_model_family: GPT-5.6
-current_chatgpt_mapping_verified: 2026-08-27
-current_pricing_verified: 2026-08-27
+current_model_families: [GPT-5.6, GPT-6]
+current_chatgpt_mapping_verified: 2026-09-13
+current_pricing_verified: 2026-09-13
+provider_verification_scope: public documentation; not the owner's live account settings
+project_mapping_status: PROPOSED_DEFAULTS_PENDING_PROJECT_CALIBRATION
+drafted_against_commit: b331a3b746622760db394ac1a79367263236336f
+canonical_home: governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 supersedes: null
 superseded_by: null
 ---
 
 # Manga / Anime Reasoning and Model Routing Policy
 
-## Governing principle
+> **Classify the intellectual workload first. Resolve its model and reasoning effort separately from execution environment, source access, handoff structure, and publication authority.**
 
-> **Route analytical work by the kind of reasoning it requires, not by document length, prestige, or habit; keep the durable reasoning class stable while treating literal model names, reasoning controls, availability, and prices as a replaceable provider snapshot.**
+This is an in-place revision of the existing policy, not a second canonical policy. Repository integration controls determine when the revision becomes current authority on main.
 
-This policy governs model/reasoning selection for future analytical artifacts in the Manga / Anime project. It is corpus-wide infrastructure, not literary evidence. It exists so that a new chat, a new series, or a new OpenAI model release does not require reasoning-budget decisions to be reconstructed from memory.
+The five established reasoning-class identifiers remain stable. Model names, reasoning controls, availability, account allowances, and prices are replaceable provider snapshots. A higher class, newer model, premium product label, or cloud/local execution site does not confer literary or repository authority.
 
-The policy has two deliberately separate layers:
+## 1. Scope, boundaries, and precedence
 
-1. **Stable project reasoning classes** describe the intellectual workload in model-agnostic terms.
-2. **Current provider mappings** translate those classes into the reasoning/model controls currently available in ChatGPT or another execution surface.
+This policy covers sequential readings, checkpoints, longitudinal and claim-revision ledgers, evidence indexes, monographs, relationship and specialist studies, continuous syntheses, reconstruction models, prediction adjudication, audits, and analytical administration.
 
-The stable class is the durable recommendation. The literal model name is a time-bounded implementation choice.
+It owns cognitive workload classification and model/effort resolution. Related documents own different responsibilities:
 
----
+| Responsibility | Governing document |
+|---|---|
+| Environment capabilities, stage ownership, and multi-environment arrangements | [Execution topology policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md) |
+| Preferred lifecycle for long-series work | [Long-series hybrid execution protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) |
+| Cross-session transfer and acceptance requirements | [Analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) |
+| Infrastructure required before sequential analysis | [Project initiation policy](MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) |
+| Authorized run extent, checkpoints, recovery, and stops | [Sequential continuation policy](MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) |
+| Evidence objects and continuous-video escalation | [Episode bundle specification](MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md) |
+| Current versus historical analytical authority | [Archive authority policy](ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md) |
+| Mutation, staging, validation, and publication | [Pre-commit checklist](../policies/CHANGE_INTEGRATION_CHECKLIST.md) |
 
-# 1. Scope and precedence
+For workload selection, follow the current explicit user instruction, then the current eligible series architecture/method, then this policy, then platform defaults. These preferences cannot override source restrictions, repository controls, or permissions. A new session does not reset the applicable rules.
 
-This policy applies to future artifacts generated for the Manga / Anime analytical corpus, including:
+## 2. Stable reasoning classes
 
-- sequential deep readings;
-- checkpoints;
-- longitudinal ledgers;
-- claim-revision ledgers;
-- evidence matrices and locator indexes;
-- character monographs;
-- relationship studies;
-- specialist syntheses;
-- full-series syntheses;
-- character reconstruction models;
-- prospective-model adjudication and experiment reports;
-- validation, consistency, contradiction, and release audits;
-- corpus maps, manifests, checksum maintenance, and other analytical administration.
+| Stable class | Intellectual responsibility |
+|---|---|
+| `ROUTINE_FAST` | Deterministic, clerical, low-ambiguity administration. |
+| `BOUNDED_STANDARD` | Narrow extraction, normalization, indexing, and readily auditable reasoning. |
+| `SUBSTANTIVE_ANALYSIS` | Serious, evidence-grounded analysis with a defined scope and manageable interactions. |
+| `DEEP_SYNTHESIS` | High-dimensional interpretation, cross-source integration, contradiction handling, and difficult retrospective reconstruction. |
+| `PREMIUM_QUALITY_FIRST` | Exceptionally difficult or propagation-sensitive work warranting additional model work and/or verification for a plausible material reliability gain. |
 
-It does **not** determine literary authority, source authority, or truth. A document produced at a higher reasoning tier is not automatically more authoritative than a lower-tier document. Authority continues to be determined by the series architecture, source boundary, evidence provenance, revision state, and `ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md`.
+These classes describe workloads, not a universal ladder of product controls. `PREMIUM_QUALITY_FIRST` does not require a product literally named Pro. Conversely, a `DEEP_SYNTHESIS` task may run in a Pro product under the owner's preferred execution arrangement without being relabeled.
 
-## Precedence
+## 3. Meaning of each class
 
-When selecting a reasoning configuration for a specific operation, use:
+### 3.1 ROUTINE_FAST
 
-1. **explicit user instruction for the current operation**;
-2. **current canonical/frozen series architecture or method**, when it assigns a reasoning class or tier to that artifact;
-3. **this corpus-wide policy**;
-4. **the platform/model default**, only when no stronger routing rule exists.
+Use for known-value copying, checksum generation, unambiguous routing metadata, and mechanical formatting explicitly permitted by the change contract. Prefer deterministic tools when they solve the task. A short claim adjudication is not routine merely because its answer fits in a paragraph.
 
-A series architecture may override the global default because some projects have unusually high contradiction density, visual/audio requirements, branching state, source ambiguity, or reconstruction complexity. Such overrides should state why.
+Escalate when interpretation, conflicting evidence, ambiguous identity, or authority adjudication is involved. A cheap cognitive task can still require strict publication checks.
 
-A new chat does not reset these routing rules.
+### 3.2 BOUNDED_STANDARD
 
----
+Use for source inventory reconciliation, locator construction after boundaries are stable, schema-driven extraction, and low-ambiguity crosswalks. Errors should be local and readily auditable. A ledger update that merely routes already-established findings can qualify; an update that changes the interpretation of earlier evidence cannot be classified as clerical simply because it edits a table.
 
-# 2. Stable reasoning classes
+### 3.3 SUBSTANTIVE_ANALYSIS
 
-Every future substantive project artifact should, when practical, be assigned one of the following stable classes.
+Use for mature-method sequential readings, interpretive ledger updates, bounded character or relationship work, narrow specialist sections, and explicit-criteria readiness assessments. This is normal serious analytical work, not a low-quality tier.
 
-| Stable class | Intended workload | Current ChatGPT mapping |
+A unit with unusual formal density, linguistic ambiguity, or retrospective significance may need escalation even when neighboring units do not.
+
+### 3.4 DEEP_SYNTHESIS
+
+Use when many evidence routes interact, later material recontextualizes earlier readings, multiple interpretations remain plausible, or a character's states, masks, relationships, and self-reports require sustained reconciliation.
+
+Typical difficulties include distinguishing explanation from justification, integrating linguistic and performance evidence, maintaining narrator/character/analyst knowledge boundaries, and evaluating adversarial counterreadings. Mature monographs and specialist syntheses normally begin here.
+
+### 3.5 PREMIUM_QUALITY_FIRST
+
+Use when additional model work or review has a plausible meaningful marginal reliability advantage. Strong indicators are propagation sensitivity, integration breadth, contradiction density, epistemic fragility, non-local validation, explicit adversarial requirements, and high downstream repair cost.
+
+Candidates include load-bearing architecture design, corpus-wide claim reconciliation, especially difficult central-character monographs, ending/causality syntheses, adversarial contradiction matrices, continuous full-series synthesis after specialist convergence, and cross-model consistency audits.
+
+Record the expected improvement and how it will be assessed. Popularity, prestige, word count, or available credits alone are insufficient justification.
+
+## 4. Decision factors
+
+Consider error propagation, evidence breadth, interpretive ambiguity, temporal/state complexity, source-perspective burden, reversibility, and evaluation clarity. Large input size is not automatically deep synthesis: a large deterministic index can remain bounded, while a short judgment can be highly consequential.
+
+Apparent contradiction may arise from chronology, unreliable narration, ignorance, propaganda, translation, paratext, adaptation divergence, continuity branches, performance versus transcript evidence, or genuine inconsistency. Preserve those possibilities before escalating a dispute into a definitive conclusion.
+
+No amount of reasoning substitutes for a missing source, an inaccessible file, or a perception channel that was never inspected.
+
+## 5. Current provider snapshot and proposed resolutions
+
+### 5.1 Officially documented product facts, checked 2026-09-13
+
+Eligible Chat accounts expose GPT-5.6 Sol reasoning choices and Pro-model options including GPT-5.6 Sol Pro and GPT-6 Pro. GPT-6 Pro is powered by Astra. Availability and the exposed controls depend on plan and workspace. [O1]
+
+Work/Codex model selection and reasoning level are separate controls. Work and Codex share usage. GPT-6 Pro Chat has separately described product limits; this does not establish a separate billing-credit pool for every plan or agreement. Increasing effort does not provide absent files or permissions, and does not guarantee better results. [O2, O5]
+
+Distinguish product usage limits from billing credits. For eligible credit-based workspace agreements, combined Chat and Work usage is measured against a shared workspace credit allocation. Verify the applicable plan or agreement before treating a move between Chat and Work/Codex as access to a financially independent pool. [O5]
+
+These statements do not verify the owner's current account, chosen model, remaining allowance, or tool configuration. Do not infer those from a subscription name or from a model's self-description.
+
+### 5.2 Project routing candidates, not published literary benchmarks
+
+| Class | Chat candidate | Work/Codex candidate |
 |---|---|---|
-| `ROUTINE_FAST` | deterministic, clerical, low-ambiguity administration | GPT-5.6 Sol Instant |
-| `BOUNDED_STANDARD` | bounded extraction, normalization, indexing, or structured synthesis with limited interpretive ambiguity | GPT-5.6 Sol Medium |
-| `SUBSTANTIVE_ANALYSIS` | serious analytical work with a well-defined scope and manageable interaction count | GPT-5.6 Sol High |
-| `DEEP_SYNTHESIS` | high-dimensional interpretation, cross-source integration, contradiction handling, retrospective synthesis, or difficult character/thematic reconstruction | GPT-5.6 Sol Extra High |
-| `PREMIUM_QUALITY_FIRST` | exceptionally difficult, propagation-sensitive, quality-first work where additional model work has a plausible material reliability advantage | GPT-5.6 Sol Pro |
+| `ROUTINE_FAST` | Instant, where an LLM is needed | Deterministic tools; an available economical model for bounded supervision |
+| `BOUNDED_STANDARD` | Sol Medium | Calibrated economical model or Sol at a suitable lower/medium effort |
+| `SUBSTANTIVE_ANALYSIS` | Sol High, unless the owner selects another adequate option | Established sequential-reading model/effort; Sol High is a historical baseline, not a mandate |
+| `DEEP_SYNTHESIS` | Sol Extra High; preferably fresh Pro Chat for substantial long-series synthesis under the owner's workflow | Calibrated Sol or Astra configuration when source/tool needs favor this surface |
+| `PREMIUM_QUALITY_FIRST` | Available Pro model, with rationale | Strongest justified configuration plus appropriate review; no assumed equivalence to Chat Pro |
 
-These names are intentionally provider-independent. A future GPT-6, GPT-7, or non-OpenAI execution surface should be mapped onto these classes without rewriting every historical series architecture.
+The default long-series arrangement selects a fresh cloud Pro session for substantial monographs, specialist syntheses, and continuous synthesis, and preferentially for architecture. It does not establish that Astra always outperforms Sol at literary analysis. Keep successful sequential configurations unless evidence supports change. Test Astra lower/medium effort against established configurations before assuming the highest setting is required.
 
----
+Exact exposed effort names must be verified on the chosen surface. No numeric conversion between Chat, Work, Codex, API, or third-party reasoning controls is asserted here.
 
-# 3. What each class means
+## 6. Provider guidance versus project judgment
 
-## 3.1 `ROUTINE_FAST`
+Official documentation establishes product names, availability, control semantics, and applicable billing rules. It does not establish this project's ideal literary methodology or prove the optimality of the owner's topology.
 
-Use when the operation is overwhelmingly deterministic and the cost of deeper interpretive reasoning is negligible.
+Keep three evidence categories distinct: `OFFICIAL_DOCUMENTATION`, `OWNER_REPORTED_WORKFLOW`, and `PROJECT_CALIBRATION_RESULT`. A proposed default based on the first two is not a completed calibration result. Fresh-context synthesis and phase specialization are adopted operational preferences subject to review, not guaranteed cognitive advantages.
 
-Typical examples:
+## 7. Cost and allowance rule
 
-- checksum regeneration;
-- simple manifest insertion once all fields are already known;
-- renaming/routing metadata operations whose target is unambiguous;
-- mechanical format normalization;
-- confirming exact counts already produced by a verified extraction step;
-- copying an already-approved value into a corpus map.
+Optimize usage only among routes adequate for the required evidence and quality. Include transfer, verification, retry, and rework costs; a cheap first pass that forces a full reread may not be cheaper overall.
 
-Do **not** use merely because the requested output is short. A one-paragraph claim adjudication can require deeper reasoning than a ten-page manifest.
+The checked Business/Enterprise/Edu credit rate card lists Sol Chat messages at approximately 10 credits and Sol Pro/GPT-6 Pro at approximately 50. This is a rate-card-specific relationship, not a universal five-times multiplier. Work/Codex token metering and Enterprise agreement-based rates require their own applicable schedules. [O3, O4]
 
-Escalate above `ROUTINE_FAST` when the operation requires deciding among competing interpretations, reconciling inconsistent sources, or inferring a new analytical state.
+Personal subscriptions, workspace seats, API keys, and independently hosted models must not be conflated. Record the applicable account/surface allowance only when known. Unknown values stay unknown. Separately metered services are not automatically included in a Chat subscription. No paid API invocation, new service, or purchase is authorized by this policy.
 
-## 3.2 `BOUNDED_STANDARD`
+Routing across separately available product limits is permitted within legitimate access and stated allowances, but it does not imply separate billing credits or additional workspace budget. A second Work/Codex session does not create another shared allowance. Record the relevant product limit and billing-credit pool separately when known. Product facts belong in the dated snapshot; the durable principle is efficient routing without weakened evidence, provenance, or review.
 
-Use for work that requires genuine reasoning but is narrow, highly structured, and easy to verify.
+## 8. Escalation and downgrade
 
-Typical examples:
+Escalate when a pilot or live operation repeatedly loses state distinctions, cannot reconcile strong evidence routes, misses consequential counterevidence, or demonstrably improves under a stronger configuration. First determine whether the actual problem is source access, poor task definition, context management, or transfer loss.
 
-- source inventory reconciliation;
-- locator index construction after source boundaries are stable;
-- schema-driven evidence extraction;
-- low-ambiguity crosswalk construction;
-- bounded metadata/source audits;
-- structured ledgers where the interpretation has already been established elsewhere and the task is primarily routing or normalization.
+Downgrade future comparable tasks when representative review demonstrates equivalent quality at lower cost. Do not silently downgrade an active sequential run, rewrite its historical model records, or weaken architecture-defined standards. Record material configuration changes and their reasons at the operation or project-profile level.
 
-The class is appropriate when errors are generally local and readily auditable rather than interpretively contagious.
+## 9. Freshness rules
 
-## 3.3 `SUBSTANTIVE_ANALYSIS`
+Recheck official documentation at model/feature releases, control renames, availability/pricing changes, observed regressions, and before a major new phase or expensive tranche when the snapshot may be stale. Roughly 30 days is a review prompt, not a guarantee of validity.
 
-Use for normal high-quality analytical work in the corpus.
+Do not require a fresh product search before every ordinary unit. Reuse a verified snapshot until a relevant trigger fires. Account access and run-specific capabilities still require operational verification.
 
-Typical examples:
+Use official product help, model-specific developer documentation, release notes, and applicable rate cards. Community reports can suggest tests but cannot define canonical product semantics. Mark a failed verification as unresolved; do not refresh a verified date without actually checking the relevant claim.
 
-- sequential volume/episode deep readings with a mature method;
-- bounded character or relationship analyses;
-- thematic ledger updates with established categories;
-- evidence-based specialist sections whose governing question is narrow and whose major concepts are already stabilized;
-- readiness assessments where state criteria are explicit;
-- source-grounded synthesis across a modest number of artifacts.
+## 10. Model-family migration
 
-This is not a “cheap” or low-quality class. It is the default for intellectually serious work that is well constrained enough that larger reasoning budgets are unlikely to change the governing conclusion materially.
+Preserve stable class identifiers, historical execution records, frozen releases, and bespoke architectures. Update the current provider resolution, verification date, and changelog in this same file. Do not perform corpus-wide model-name substitutions.
 
-## 3.4 `DEEP_SYNTHESIS`
+Update the live Git routing surface when needed. Historical references to the Drive master index do not authorize editing a frozen migration binding or using Drive as fallback analytical write authority. Apply the live Git/Drive authority contract to any separately required Drive change.
 
-Use when the task contains enough interacting evidence, ambiguity, or retrospective dependence that extended reasoning is likely to improve consistency and calibration.
+## 11. Product surface, runtime, and perception are separate
 
-Typical triggers include:
+An execution record may distinguish model provider, model label, exposed reasoning effort, Chat/Work/Codex/API surface, tool-runtime location, evidence access, and publication role. This policy owns only the cognitive resolution.
 
-- many volumes/episodes must be integrated simultaneously;
-- later evidence substantially recontextualizes earlier readings;
-- several plausible interpretations must be distinguished rather than collapsed;
-- a character has strong state changes, masks, unreliable self-reports, role-conditioned behavior, or relationship-specific policies;
-- the artifact must separate causal explanation from moral justification or responsibility;
-- visual, linguistic, institutional, thematic, and character evidence interact;
-- a contradiction could reflect chronology, source perspective, translation, unreliable narration, or genuine inconsistency;
-- the task requires an adversarial counterreading rather than only a positive synthesis.
+Do not equate `Extra High` with API `xhigh`, Pro with API `max`, or an execution mode with a particular model. API parameters must be verified for the specific model and endpoint; this revision does not certify any universal API Pro/effort pairing.
 
-Most mature full-series specialist syntheses should begin here unless their scope is unusually bounded.
+Local Work/Codex refers here to local tool and filesystem access, not necessarily local model inference. Opening a video file or running ffmpeg does not establish that a model inspected continuous audiovisual content. The capability policy governs that distinction.
 
-## 3.5 `PREMIUM_QUALITY_FIRST`
+## 12. Metadata and inheritance
 
-Use selectively. This class is not simply “more important” or “longer.” It is reserved for tasks where the additional model work of the premium/Pro mode has a plausible **meaningful marginal reliability advantage**.
-
-Strong candidates have several of the following properties:
-
-- **propagation sensitivity:** an error will become an input to many later artifacts;
-- **integration breadth:** the task must reconcile a large fraction of the corpus rather than a local subset;
-- **contradiction density:** multiple high-quality evidence routes support competing formulations;
-- **epistemic fragility:** conclusions depend on maintaining distinctions among fact, inference, speculation, narrator knowledge, character knowledge, retrospective knowledge, and present-authority claims;
-- **adversarial requirement:** the artifact must actively search for failure cases, disconfirming evidence, alternative explanations, or cross-document inconsistency;
-- **non-local validation:** quality cannot be assessed by checking one source or one section in isolation;
-- **high downstream cost of error:** the artifact defines architecture, claim routing, final integration, or model validity for many subsequent documents;
-- **clear evaluation criteria:** there is a concrete way to judge whether the extra model work improved the result.
-
-Typical examples:
-
-- corpus-wide claim-revision ledgers that route all later specialist work;
-- the most causally or psychologically difficult central-character monographs;
-- ending/causality syntheses with many competing readings and retrospective dependencies;
-- adversarial contradiction/counterreading matrices;
-- final continuous full-series syntheses written after specialist convergence;
-- cross-model consistency audits spanning multiple reconstruction models.
-
-Do **not** use Pro merely because it exists. If Extra High reliably produces equivalent quality for that artifact class, downgrade future instances.
-
----
-
-# 4. Decision factors
-
-Reasoning selection should be based on the following factors rather than word count alone.
-
-## 4.1 Error propagation
-
-Ask: **If this artifact is wrong, how many later artifacts inherit the error?**
-
-A local deep reading can often be corrected locally. A claim-revision ledger, synthesis architecture, or final cross-model audit can contaminate an entire downstream phase. Higher propagation warrants more reasoning.
-
-## 4.2 Evidence breadth
-
-Ask how many independent source regions, volumes, episodes, ledgers, or specialist analyses must remain simultaneously coherent.
-
-Large input size alone is not enough for Pro; a 500-page deterministic locator build can remain bounded. What matters is how much of that material must be *interpreted together*.
-
-## 4.3 Interpretive ambiguity
-
-Escalate when several readings remain genuinely plausible and the artifact must distinguish them by evidence rather than choose the most narratively convenient one.
-
-## 4.4 Temporal/state complexity
-
-Character and institutional analysis becomes harder when claims must be indexed to developmental state. A statement true at one point in a series may be false later without either observation being erroneous.
-
-## 4.5 Contradiction and source-perspective burden
-
-Higher reasoning is warranted when apparent contradictions may arise from:
-
-- later revision;
-- unreliable narration;
-- character ignorance;
-- propaganda;
-- translation;
-- paratext;
-- adaptation divergence;
-- continuity branches;
-- scene-performance evidence versus transcript content;
-- or actual textual inconsistency.
-
-## 4.6 Reversibility and auditability
-
-Mechanical errors that are immediately visible and cheap to repair do not justify premium reasoning as readily as subtle synthesis errors that can survive many downstream reads.
-
-## 4.7 Evaluation clarity
-
-Pro is most defensible when the result can be evaluated against explicit criteria: contradiction count, evidence coverage, prediction adjudication, source traceability, cross-model consistency, or preservation of earlier claim boundaries.
-
----
-
-# 5. Current OpenAI / ChatGPT mapping — verified 2026-08-27
-
-This section is intentionally time-sensitive and may be revised in place without changing the stable reasoning classes above.
-
-Current official OpenAI documentation describes the ChatGPT choices as:
-
-- **Instant** — fast responses for everyday questions;
-- **Medium** — standard reasoning with GPT-5.6 Sol;
-- **High** — extended reasoning with GPT-5.6 Sol;
-- **Extra High** — the highest reasoning effort available with GPT-5.6 Sol;
-- **Pro** — GPT-5.6 Sol Pro for difficult tasks and longer-running workflows.
-
-Current project mapping:
-
-```yaml
-provider: OpenAI
-surface: ChatGPT
-verified_date: 2026-08-27
-stable_class_mapping:
-  ROUTINE_FAST: "5.6 Sol Instant"
-  BOUNDED_STANDARD: "5.6 Sol Medium"
-  SUBSTANTIVE_ANALYSIS: "5.6 Sol High"
-  DEEP_SYNTHESIS: "5.6 Sol Extra High"
-  PREMIUM_QUALITY_FIRST: "5.6 Sol Pro"
-```
-
-For the currently documented Business/Enterprise/Edu credit-based ChatGPT rate card, Medium, High, and Extra High all use GPT-5.6 Sol and are charged at the same per-message rate, while Pro uses GPT-5.6 Sol Pro at five times that per-message credit rate. The project therefore should not economize among Medium/High/Extra High merely because one reasons longer when their applicable credit cost is equal. Pro requires a separate marginal-value justification.
-
-Current official-source set used for this mapping:
-
-- OpenAI Help Center — **GPT-5.6 in ChatGPT**: https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt
-- OpenAI API — **Model guidance**: https://developers.openai.com/api/docs/guides/latest-model
-- OpenAI Help Center — **ChatGPT Rate Card**: https://help.openai.com/en/articles/11481834
-- OpenAI Help Center — **ChatGPT Release Notes**: https://help.openai.com/en/articles/6825453-
-- OpenAI Help Center — **Model Release Notes**: https://help.openai.com/en/articles/9624314-model-release-notes
-
-These URLs are routing references, not frozen evidence. Their contents can change.
-
----
-
-# 6. How this policy uses OpenAI's guidance
-
-The current routing policy follows several principles stated in OpenAI's own documentation:
-
-1. reasoning effort should be selected intentionally for the workload;
-2. a medium/default level is a balanced starting point for general work;
-3. higher reasoning should be used when it produces a measurable quality gain;
-4. maximum reasoning should be reserved for the hardest quality-first workloads;
-5. Pro mode is appropriate when marginal quality improvement materially affects a difficult task;
-6. representative tasks should be compared rather than assuming the largest reasoning budget is always optimal.
-
-The project adds its own domain-specific translation of those principles into artifact classes. OpenAI does not prescribe which anime/manga document belongs to which tier.
-
----
-
-# 7. Pro cost/value rule
-
-`PREMIUM_QUALITY_FIRST` requires an explicit reason because premium execution is materially more expensive.
-
-For current ChatGPT credit-based pricing, the project assumes:
-
-```yaml
-current_credit_assumption:
-  instant: "unlimited / not charged as a Sol reasoning message under the cited rate card"
-  medium: 10
-  high: 10
-  extra_high: 10
-  pro: 50
-verified_date: 2026-08-27
-```
-
-This is a provider snapshot, not a permanent project constant.
-
-A Pro recommendation should identify the expected marginal benefit in terms such as:
-
-- reduced contradiction risk;
-- stronger adversarial verification;
-- better long-range integration;
-- more reliable claim-state reconciliation;
-- improved cross-model consistency;
-- or prevention of propagation from a load-bearing upstream artifact.
-
-A Pro recommendation should **not** be justified only by:
-
-- document length;
-- central-character popularity;
-- prestige of the project;
-- the desire to make an artifact “definitive”;
-- or the fact that credits are available.
-
----
-
-# 8. Pro downgrade and escalation rule
-
-A tier assignment is a default, not a metaphysical property of the document.
-
-## Downgrade
-
-If representative Extra High work demonstrates equivalent analytical quality for a Pro-designated artifact class, later instances should be downgraded to `DEEP_SYNTHESIS` unless a new complication appears.
-
-Evidence supporting downgrade can include:
-
-- equivalent contradiction detection;
-- equivalent evidence coverage;
-- no material difference under adversarial review;
-- stable claims across repeated runs;
-- or a later model generation that makes the premium mode unnecessary.
-
-## Escalation
-
-Escalate from High or Extra High to Pro when preliminary work exposes:
-
-- unresolved high-impact contradictions;
-- repeated loss of temporal or epistemic state distinctions;
-- failure to reconcile several strong evidence routes;
-- unusually high dependency on cross-document consistency;
-- or demonstrated quality gains from a Pro comparison pass.
-
-When escalation occurs, the artifact or series architecture should record the reason.
-
----
-
-# 9. Model-release and documentation-freshness rule
-
-Literal model names and reasoning controls are volatile. The project must not treat a historical routing table as permanent product truth.
-
-## Mandatory re-check triggers
-
-Before establishing or materially revising reasoning recommendations, consult current **official OpenAI documentation and release announcements** when any of the following is true:
-
-1. OpenAI releases a new flagship ChatGPT reasoning model or model family;
-2. the ChatGPT model picker adds, removes, or renames a reasoning level;
-3. Pro changes model family, behavior, availability, or pricing;
-4. OpenAI adds a new reasoning control that could materially affect analytical work;
-5. the current policy's provider mapping has not been verified recently and a new major analytical phase is about to begin;
-6. observed output quality suggests that the old mapping is no longer optimal;
-7. a series architecture is about to designate a large number of expensive premium operations.
-
-## Recommended freshness cadence
-
-Do **not** web-search OpenAI documentation before every deep reading. That creates noise without meaningful benefit.
-
-Instead:
-
-- re-check at **model/feature release boundaries**;
-- re-check before a **new major project phase** if the mapping has not been verified within roughly 30 days;
-- re-check before committing to a **large Pro tranche** if pricing or capability may have changed;
-- otherwise reuse the latest verified canonical mapping.
-
-## Source priority for model routing
-
-Use official OpenAI sources in this order where applicable:
-
-1. product/model-specific Help Center documentation;
-2. OpenAI developer model guidance and reasoning documentation;
-3. official ChatGPT/model release notes;
-4. official rate card/pricing documentation;
-5. official OpenAI announcements where the above have not yet incorporated a release.
-
-Third-party benchmarks and community reports may inform later empirical evaluation but do not define the canonical product mapping.
-
----
-
-# 10. Migration when a new model family appears
-
-When a new model family becomes available:
-
-1. **do not rewrite historical artifacts merely to replace old model names**;
-2. verify current OpenAI documentation and release notes;
-3. update only the **Current OpenAI / ChatGPT mapping** section of this policy unless stable class definitions themselves need revision;
-4. preserve the prior mapping in the policy changelog;
-5. update `MANGA_ANIME_DRIVE_INDEX.md` if the routing change is material;
-6. use the new mapping for future artifacts;
-7. do not change an immutable/frozen release merely because the execution model changed.
-
-Series architectures should preferably store both a stable class and the literal model mapping that was current when the recommendation was made.
-
-Example:
+Preserve existing authority metadata. The following fields describe recommendations and actual execution, not truth or authority:
 
 ```yaml
 recommended_reasoning_class: DEEP_SYNTHESIS
-recommended_reasoning_at_design_time: "5.6 Sol Extra High"
-reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
+reasoning_policy: governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
+reasoning_policy_version: "2.0"
+recommended_reasoning_at_design_time: "fresh Pro Chat for substantial synthesis"
+execution_profile_ref: "<project entrypoint or handoff section>"
 ```
 
-If a future mapping resolves `DEEP_SYNTHESIS` to a different model/tier, the stable class remains valid without rewriting the architecture.
-
----
-
-# 11. ChatGPT UI versus API / Work / Codex controls
-
-Do not assume that similarly named controls on different OpenAI surfaces are identical.
-
-As of the current verification date:
-
-- ChatGPT exposes Instant, Medium, High, Extra High, and Pro as user-facing choices for eligible plans;
-- the API exposes `reasoning.effort` values such as `medium`, `high`, `xhigh`, and `max`;
-- API **Pro mode** and **reasoning effort** are independent controls.
-
-Therefore:
-
-> **Do not encode `Extra High = API xhigh`, `Pro = API max`, or any other one-to-one equivalence as a permanent project rule.**
-
-If Codex, Work, the API, or another agent surface generates a corpus artifact, map the stable project class onto that surface using its current official documentation.
-
-The artifact's stable reasoning class is more durable than the surface-specific control used to execute it.
-
----
-
-# 12. Front-matter standard for future artifacts
-
-New Markdown analytical artifacts should normally include routing metadata in addition to their existing authority metadata.
-
-Recommended fields:
+At stage level, record actual choices only when observed:
 
 ```yaml
-recommended_reasoning_class: DEEP_SYNTHESIS
-resolved_reasoning_option: "5.6 Sol Extra High"
-reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
-reasoning_policy_version: "1.0"
-model_guidance_verified_date: "2026-08-27"
+execution_record:
+  stage_id: "<stable stage ID>"
+  provider: OpenAI
+  surface: "<observed product surface>"
+  model_label_observed: null
+  reasoning_control_observed: null
+  observation_basis: "not exposed in this session"
+  model_guidance_verified_date: "2026-09-13"
 ```
 
-For premium artifacts:
+The legacy `resolved_reasoning_option` remains readable as a historical combined label. Do not reinterpret it as evidence of unobserved settings. Retain `pro_justification`, `reasoning_override`, and `reasoning_override_reason` where already used; new profiles may use a more general `quality_first_rationale`.
 
-```yaml
-recommended_reasoning_class: PREMIUM_QUALITY_FIRST
-resolved_reasoning_option: "5.6 Sol Pro"
-pro_justification: "Propagation-sensitive cross-corpus claim reconciliation; errors would route multiple downstream specialist syntheses."
-```
+Store shared routing once in a project profile or handoff and inherit it where practical. Sidecars need not embed YAML. A multi-stage artifact must not imply that its last model produced every earlier stage.
 
-For a series-specific override:
+## 13. Defaults by artifact role
 
-```yaml
-reasoning_override: true
-reasoning_override_reason: "Series architecture requires adversarial multi-branch continuity reconciliation."
-```
-
-These fields are routing metadata, not evidence and not an authority ranking.
-
-## Non-Markdown sidecars
-
-TSV, JSON, checksum, and other sidecar files need not embed YAML. Their generating operation should inherit the reasoning class from the governing architecture, manifest, or associated Markdown artifact.
-
----
-
-# 13. Recommended default by artifact role
-
-These are corpus-wide defaults. Series architectures may override them.
-
-| Artifact role | Default class | Notes |
+| Role | Default class | Escalation or limitation |
 |---|---|---|
-| checksum / mechanical manifest regeneration | `ROUTINE_FAST` | escalate if content authority must be adjudicated |
-| source inventory / lock audit | `BOUNDED_STANDARD` | High when source identity or edition status is ambiguous |
-| locator index / crosswalk | `BOUNDED_STANDARD` | High when semantic routing requires interpretation |
-| sequential deep reading | `SUBSTANTIVE_ANALYSIS` | Extra High for unusually dense/ambiguous installments |
-| cumulative ledger update | `SUBSTANTIVE_ANALYSIS` | Extra High when reclassifying prior states |
-| checkpoint synthesis | `DEEP_SYNTHESIS` | Pro only when it defines a highly propagation-sensitive freeze |
-| claim-revision ledger | `DEEP_SYNTHESIS` | Pro for corpus-wide/load-bearing retrospective rerouting |
-| character monograph | `DEEP_SYNTHESIS` | High if narrow; Pro only for unusually difficult central cases |
-| relationship specialist | `DEEP_SYNTHESIS` | High if bounded and evidence is stable |
-| thematic/institutional specialist | `DEEP_SYNTHESIS` | High when local; Pro only for load-bearing conflict resolution |
-| continuous full-series synthesis | `PREMIUM_QUALITY_FIRST` | especially when written after many specialist documents |
-| reconstruction model | `DEEP_SYNTHESIS` | may be High for domain-limited characters |
-| prospective prediction/adjudication | `DEEP_SYNTHESIS` | Pro for final experiment-level integration if warranted |
-| adversarial contradiction audit | `PREMIUM_QUALITY_FIRST` | strong Pro candidate because failure detection is the purpose |
-| cross-model consistency audit | `PREMIUM_QUALITY_FIRST` | strong Pro candidate when many models interact |
-| release/admin audit | `SUBSTANTIVE_ANALYSIS` | lower if purely mechanical |
+| Checksums and mechanical manifests | `ROUTINE_FAST` | Authority adjudication is not mechanical |
+| Source inventory, lock audit, locator crosswalk | `BOUNDED_STANDARD` | Escalate ambiguous source identity or semantic routing |
+| Sequential deep reading; interpretive ledger update | `SUBSTANTIVE_ANALYSIS` | Escalate dense units and retrospective reclassification |
+| Checkpoint; ordinary claim-revision work | `DEEP_SYNTHESIS` | Quality-first for propagation-sensitive freezes or global rerouting |
+| Major monograph; relationship/thematic/institutional specialist | `DEEP_SYNTHESIS` | Quality-first for unusually difficult or load-bearing cases |
+| Continuous full-series synthesis | `PREMIUM_QUALITY_FIRST` | Normally after specialist convergence; bounded exceptions require rationale |
+| Reconstruction model; prospective prediction/adjudication | `DEEP_SYNTHESIS` | Classify actual state/behavior problem, not character fame |
+| Adversarial contradiction or cross-model consistency audit | `PREMIUM_QUALITY_FIRST` | Scope can justify a lower class when truly bounded |
+| Release/admin audit | `SUBSTANTIVE_ANALYSIS` | Mechanical checks can use tools/lower classes; semantic checks cannot |
+| Initial framework, architecture, or architecture-gap repair | `DEEP_SYNTHESIS` or `PREMIUM_QUALITY_FIRST` | Prefer fresh cloud Pro for long-series architecture; integration risk determines class |
 
----
+A small supporting-character study is not automatically a premium monograph. The owner's preference for substantial cloud-Pro synthesis remains the default; exceptions should be task-specific, not silent broad substitutions.
 
-# 14. Sequential-reading special rule
+## 14. Sequential-reading rule
 
-A mature sequential-reading method often benefits more from **consistency across installments** than from changing models every volume or episode.
+Preserve a successful method, reasoning class, source order, and transaction discipline. Continuity belongs in committed readings, ledgers, checkpoints, and the current entrypoint, not in one indefinitely growing chat.
 
-For an active sequential run:
+Reset or hand off a session when context quality deteriorates, while retaining the same authorized run and verified high-water mark. Do not assign extended conversational endurance as a model-quality criterion. Follow the sequential continuation policy for atomic closeout and recovery.
 
-- preserve the established reasoning class while the method and source complexity remain stable;
-- escalate a specific installment when it introduces unusually dense ambiguity, formal complexity, source defects, or major retrospective contradictions;
-- do not silently downgrade a sequence merely to save credits when Medium/High/Extra High have the same applicable per-message cost;
-- record a material tier change in the series current-state map when it changes the project method or validation comparability.
+## 15. Monograph, synthesis, and reconstruction remain distinct
 
----
+A monograph integrates development, psychology, language, relationships, form, and thematic function. A reconstruction model formalizes time-indexed behavior, speech, relationship-conditioned responses, repertoire, negative constraints, and prediction validity. A continuous synthesis integrates the work rather than concatenating specialist summaries.
 
-# 15. Full-series and reconstruction special rule
+Route each responsibility independently. Neither a premium reconstruction nor a polished monograph supersedes its supporting evidence merely because of its model or prose quality. Their source boundaries and authority states remain explicit.
 
-Full-series synthesis and character reconstruction are distinct responsibilities.
+## 16. When not to increase reasoning
 
-A literary monograph may deserve `DEEP_SYNTHESIS` or `PREMIUM_QUALITY_FIRST` because it integrates motive, development, symbolism, language, relationships, and thematic function.
+Do not escalate solely because an artifact is long, a series matters personally, unused allowance remains, an unrelated project used Pro, or an underspecified task feels difficult.
 
-A reconstruction model may require a different tier because its task is narrower: time-indexed behavior, speech, relationship-conditioning, ordinary-life repertoire, negative constraints, and prediction validity.
+Repair the question, source boundary, capability route, stopping condition, or bootstrap first. More reasoning can elaborate a defective premise. Better source access or a fresh evidence-grounded session may be the needed change rather than a higher effort setting.
 
-Do not assign Pro to both automatically. Choose based on each artifact's error topology.
+## 17. Empirical calibration
 
-Likewise, a high-tier reconstruction model never outranks the primary source, sequential reading, specialist synthesis, or evidence ledger from which it is derived.
+Use a mature sequential unit, claim-revision sample, difficult character-state problem, adversarial audit, and bounded index task. Add a multimodal case when evaluating an AV route.
 
----
+Hold the authorized source snapshot and acceptance criteria constant. Where practical use independent review or blinded comparison. Compare factual accuracy, locator validity, temporal/epistemic boundaries, counterevidence, contradiction detection, coverage, cross-document consistency, unsupported elaboration, and preservation of analytical depth. Also record latency, allowance use, and integration/rework cost.
 
-# 16. When not to increase reasoning
+Neither elegance nor word count alone establishes quality. A long-series role can warrant extensive prose; brevity is not automatically better. Product benchmarks are not a substitute for domain calibration.
 
-Higher reasoning is not always better.
+## 18. Memory and fresh-context synthesis
 
-Do not escalate merely because:
+The repository's current eligible state is durable project memory. Conversation history is a working aid. Fresh context means initialization from the authorized canonical snapshot, not an empty context and not reliance on a short handoff summary alone.
 
-- the agent has remaining context;
-- the artifact is long;
-- the series is prestigious or personally important;
-- a previous unrelated project used Pro;
-- the task feels difficult but has no clear evaluation criterion;
-- the prompt is underspecified or contradictory.
+The long-series protocol owns synthesis readiness and return-to-evidence requirements. A new session must not recreate a root or restart completed source work just to obtain familiarity.
 
-First repair the task definition, source boundary, authority routing, or stopping condition. More reasoning applied to a malformed task can produce more elaborate error rather than better analysis.
+## 19. Existing artifacts and backfill
 
----
+This revision is prospective. Existing class assignments and historical labels remain valid at their recorded boundary. Backfill only during a legitimate architecture revision, when materially useful to execution, or under explicit owner authorization.
 
-# 17. Empirical calibration
+Do not alter frozen findings, fabricate previously unrecorded model settings, add boilerplate everywhere, or reclassify an entire series based solely on model release dates.
 
-When a new model family or reasoning feature appears, use representative project tasks to calibrate the mapping.
+## 20. Maintenance and integration
 
-Good calibration probes include:
+Revise this file in place. Preserve its artifact ID and canonical home. Update snapshot claims and their verification scope truthfully, increment versions for material changes, and record changes below.
 
-- one mature sequential deep reading with known quality criteria;
-- one claim-revision sample with several genuine transitions;
-- one difficult character-state reconstruction problem;
-- one adversarial contradiction audit;
-- one bounded evidence/index task.
+Use live repository controls for routing, curation, checksums, focused/full checks, and publication. This policy does not authorize new workflows, validators, account access, source uploads, or changes to authority-scope records.
 
-Compare:
+## 21. Before generating an artifact
 
-- factual/source accuracy;
-- preservation of epistemic boundaries;
-- contradiction detection;
-- evidence traceability;
-- unwanted overinterpretation;
-- cross-document consistency;
-- latency and credit cost.
+Resolve the canonical root and current entrypoint; read the applicable method and architecture; confirm scope and source boundary; assign or inherit the class; resolve an available model/effort using the dated snapshot; verify required capabilities; identify stage and repository owners; state any quality-first rationale; and record the outcome at the appropriate shared or artifact level.
 
-Do not use prose elegance alone as the evaluation criterion.
+Generation completes only the assigned responsibility. The handoff and integration contracts determine whether additional stages, review, or promotion remain.
 
----
+## 22. Summary rule
 
-# 18. Relationship to memory and chat context
+> **Preserve stable workload classes. Resolve models and effort deliberately. Prefer the owner's long-series division of labor where adequate, and verify evidence access before optimizing allowance use. Model choice, stage completion, and analytical authority are different facts.**
 
-This file, not conversational memory, is the canonical durable home for reasoning/model-routing policy.
+## Official-source references
 
-Memory may help an agent remember that the policy exists, but it should not be relied upon for current tier names, pricing, or product semantics. Those facts are volatile and should be resolved through this policy's current mapping plus fresh official documentation when a re-check trigger fires.
+These are dated product references, not literary evidence or permanent product guarantees. Accessed 2026-09-13.
 
-The master routing index should point to this file so that future chats can recover it deterministically.
+- [O1] OpenAI Help Center, *GPT-5.6 and GPT-6 Pro in ChatGPT*: `https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt`
+- [O2] OpenAI Help Center, *Managing usage with GPT-6 Astra in Work and Codex*: `https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex`
+- [O3] OpenAI Help Center, *ChatGPT Rate Card (Business, Enterprise/Edu credit-based pricing)*: `https://help.openai.com/en/articles/11481834`
+- [O4] OpenAI Help Center, *ChatGPT Rate Card (Enterprise token-based pricing)*: `https://help.openai.com/en/articles/20001415`
+- [O5] OpenAI, [ChatGPT Work admin FAQ - Usage and cost](https://learn.chatgpt.com/docs/enterprise/work-admin-faq#usage-and-cost), checked 2026-09-13. Distinguishes shared Work/Codex usage and the shared workspace credit allocation applicable to eligible credit-based agreements.
 
----
+## Changelog
 
-# 19. Existing artifacts and backfill
+### Proposal revision 2 - 2026-09-13
 
-This policy is prospective by default.
+Distinguishes product usage limits from billing-credit pools in the provider snapshot and routing rule. Adds official workspace usage guidance; this clarification does not reverify the other dated product claims or the owner's account configuration.
 
-Do not mass-edit frozen or mature historical artifacts solely to add routing metadata. Backfill reasoning metadata only when:
+### v2.0 - 2026-09-13 - Proposed multidimensional routing revision
 
-- a series is already undergoing a legitimate architecture revision;
-- the routing information materially helps future execution;
-- or the user explicitly requests a corpus-wide migration.
+Retains all five stable class identifiers and the established distinction between workload and authority. Separates model from effort, distinguishes product facts from owner preferences and calibration, refreshes the dated provider snapshot, removes universal five-times pricing and cross-surface control equivalences, adds stage-level provenance and links to execution/handoff governance, and routes maintenance through current Git controls. This is an in-place version revision, not supersession by a second policy file.
 
-Existing series-specific reasoning recommendations remain valid where they are more specific, but future architecture updates should migrate toward stable reasoning classes plus a literal model-at-design-time field.
+Historical v1.0 provider mapping, retained for provenance: `ROUTINE_FAST` -> Sol Instant; `BOUNDED_STANDARD` -> Sol Medium; `SUBSTANTIVE_ANALYSIS` -> Sol High; `DEEP_SYNTHESIS` -> Sol Extra High; `PREMIUM_QUALITY_FIRST` -> Sol Pro. Verified date recorded by that version: 2026-08-27. Its 10/50-credit assumption was tied to the cited credit-based Chat rate card and must not govern unrelated surfaces.
 
----
-
-# 20. Maintenance requirements
-
-Whenever this policy's current provider mapping changes materially:
-
-1. consult current official OpenAI documentation and release notes;
-2. revise this file **in place** rather than creating near-duplicate policy files;
-3. increment the policy version;
-4. update `current_chatgpt_mapping_verified` and, where applicable, `current_pricing_verified`;
-5. preserve the stable reasoning-class definitions unless the analytical taxonomy itself needs revision;
-6. add a changelog entry explaining the old and new mapping;
-7. update `MANGA_ANIME_DRIVE_INDEX.md` when the change affects routing;
-8. preserve old series artifacts and frozen releases unless another architecture rule requires migration.
-
----
-
-# 21. Operational checklist before generating a new artifact
-
-Before substantive generation:
-
-1. resolve the canonical series root and current entrypoint;
-2. read the governing series architecture/method;
-3. determine whether that architecture assigns a stable reasoning class or literal tier;
-4. if not, classify the operation using this policy;
-5. check whether a model-release/documentation freshness trigger has fired;
-6. if it has, consult current official OpenAI documentation before resolving the literal model option;
-7. if Pro is proposed, state the marginal-quality justification;
-8. write routing metadata into the artifact front matter when practical;
-9. generate the artifact;
-10. update corpus maps/manifests/indexes only when project state materially changes.
-
----
-
-# 22. Current summary rule
-
-As of 2026-08-27, for ChatGPT-based project work:
-
-> **Instant for routine deterministic work; Medium for bounded structured reasoning; High for normal substantive analysis; Extra High for difficult multi-source synthesis; Pro only for difficult quality-first work where additional model work is plausibly worth a five-times-higher per-message credit cost.**
-
-And for future models:
-
-> **Preserve the stable workload class, re-check official OpenAI documentation and announcements at model/feature release boundaries, then update the current mapping rather than rewriting the intellectual architecture of the corpus.**
-
----
-
-# Changelog
-
-## v1.0 — 2026-08-27 — Corpus-wide reasoning/model routing policy established
+### v1.0 - 2026-08-27 - Corpus-wide reasoning/model routing policy established
 
 - Established five stable project reasoning classes: `ROUTINE_FAST`, `BOUNDED_STANDARD`, `SUBSTANTIVE_ANALYSIS`, `DEEP_SYNTHESIS`, and `PREMIUM_QUALITY_FIRST`.
 - Mapped the classes to the current ChatGPT GPT-5.6 Sol/Pro reasoning options after checking current official OpenAI documentation.

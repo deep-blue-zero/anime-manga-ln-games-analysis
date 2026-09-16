@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
 document_status: ACTIVE_STABILIZING
-document_revision: 2.5-authority-epoch-1
+document_revision: 2.6-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -185,6 +185,12 @@ For any analytical task after activation:
 A `MISSING` series route is legitimate only when its `series_id` appears in the reviewed `allowed_missing_canonical_entrypoints` set in `governance/repository-controls/tracked-file-policy.json`. Any other `MISSING` route, or any stale allowlist entry with no corresponding missing route, is a repository-validation failure. The current epoch-1 reviewed exception is `shuukura` only.
 
 Conversation memory, search-result ranking, file recency, and filename similarity do not outrank the live authority records.
+
+### Analytical execution routing
+
+For model/workload selection, read `source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md`. For environment capabilities and stage ownership, read `source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md`. Long-series work should normally use `source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md`; cross-session transfers follow `source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md`.
+
+The preferred long-series arrangement is fresh cloud architecture, local sequential readings and ledgers, fresh cloud substantial synthesis, then local required evidence completion and repository integration. These preferences do not grant write authority, weaken the initiation/continuation gates, or change specialized curation and housekeeping ownership. A transferred draft is not current authority until accepted through the existing process.
 
 ## 7. Change-routing matrix
 
