@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 14 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated; EVENT_0003 historical universal screen and WXS I3/LN I1 interpretation complete; EVENT_0004 complete by retained discovery and targeted founded enrichment, all five unit dispositions integrated; EVENT_0005 corrected universal discovery and all founded unit dispositions integrated; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified; historical EVENT_0011 MMJ Shizuku operative I3 and group launch I2, LN/VBS/WxS/N25 I0; 33-story envelope verified"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 13 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated; EVENT_0003 historical universal screen and WXS I3/LN I1 interpretation complete; EVENT_0004 complete by retained discovery and targeted founded enrichment, all five unit dispositions integrated; EVENT_0005 corrected universal discovery and all founded unit dispositions integrated; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified; historical EVENT_0011 MMJ Shizuku operative I3 and group launch I2, LN/VBS/WxS/N25 I0; 33-story envelope verified; historical EVENT_0012 VBS Toya operative I3; MMJ Minori and N25 Ena-context I1, LN/WxS I0; 28-story envelope verified"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,7 +14,13 @@ mutable: true
 # Project SEKAI Event Relevance and Routing Ledger
 
 
-## Current routing authority — EVENT_0011 fully integrated
+## Current routing authority — EVENT_0012 fully integrated
+
+**EVENT_0012 is fully integrated:** VBS PRIMARY/HIGH / I3 records Toya's operative distinction between loving classical music and choosing street music, `VBS-EP-TY-E0012`; `VBS-REL-TOYA-FATHER-0 -> VBS-REL-TOYA-FATHER-1` is a narrow heard-but-unresolved father contact. Four VBS human defaults, `VBS-REL-GROUP-1`, `VBS-REL-KH-AN-4` and `VBS-REL-AK-TY-2` remain, with bounded I1/I2 refinements. MMJ Minori's direct advice and N25-facing Ena testimony are CROSS_UNIT I1 without group or Ena state changes; LN/WxS are NONE/I0. Street manifestations retain separate receipts. The verified envelope is 28 stories / 59 scenes / 1,466 records, including 10 undated chapter-unlock areas. Thirteen historical universal screens remain: `0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0013. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. Toya's father's attendance is inferred from his remark, and he expressly does not understand street music; no battle win, parental reconciliation, permanent vocal cure, global human successor or principal-human R3 package is certified.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0012_DEEP_READING.md) consumes this routed envelope; the previous current block is now historical.
+
+## Historical routing authority — EVENT_0011 fully integrated
 
 **EVENT_0011 is fully integrated:** MMJ PRIMARY/HIGH / I3 records Shizuku's chosen, publicly enacted presentation of her present imperfect self, with `MMJ-EP-SZ-E0011` as operative knowledge. The group's first three actual live streams refine the EVENT5 freelance/video model at I2; four `MMJ-<MN/HR/AI/SZ>-MS-04` humans and `MMJ-REL-GROUP-06` remain. Stage Miku/Rin and newly arrived Stage Luka retain distinct direct manifestation and recipient routes; Leo/need, VBS, WxS and N25 humans are NONE/I0. The verified envelope is 33 stories / 42 scenes / 1,480 records, including 15 undated chapter-unlock areas. Fourteen historical universal screens remain: `0012–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0012. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. Audience comments are mixed, the third-stream rehearsal camera lacks Shizuku's advance explicit consent, and future programs/jobs are unshown. No global human successor, unanimous fan approval or principal-human R3 package is certified.
 
@@ -124,7 +130,7 @@ The table below is a routing inventory, not a substitute for detailed per-unit a
 | EVENT_0009 | セカイのハッピーニューイヤー！ | `RB_20201231T060000Z` | 11 core + 12 card halves + 5 area (verified completed envelope) | `LEO_NEED, N25, VBS, WXS` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
 | EVENT_0010 | 揺れるまま、でも君は前へ | `RB_20210110T060000Z` | 8 core + 10 card halves + 7 chapter-unlock areas; 25 stories / 48 scenes / 1338 records; areas undated | Leo/need PRIMARY; WxS Emu CROSS_UNIT; School manifestations separate; MMJ/VBS/N25 NONE | yes | Leo/need I3; WxS I1; others I0 | `UNIVERSAL_SCREEN_COMPLETE` | all five human-unit dispositions integrated; next historical EVENT_0011 |
 | EVENT_0011 | Color of Myself！ | `RB_20210121T060000Z` | 8 core + 10 card halves + 15 chapter-unlock areas; 33 stories / 42 scenes / 1480 records; areas undated | MMJ PRIMARY; Stage manifestations separate; LN/VBS/WxS/N25 NONE | yes | MMJ I3 Shizuku / group I2; others I0 | `UNIVERSAL_SCREEN_COMPLETE` | all five human-unit dispositions integrated; next historical EVENT_0012 |
-| EVENT_0012 | Period of NOCTURNE | `RB_20210131T060000Z` | review-index associations only; final analytical envelope pending | `VBS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
+| EVENT_0012 | Period of NOCTURNE | `RB_20210131T060000Z` | 8 core + 10 card halves + 10 areas; 28 stories / 59 scenes / 1466 records; areas undated | VBS PRIMARY; MMJ/N25 bounded cross-unit; Street manifestations separate; LN/WxS NONE | yes | VBS Toya I3; MMJ/N25 I1; LN/WxS I0 | `UNIVERSAL_SCREEN_COMPLETE` | all five human-unit dispositions integrated; next historical EVENT_0013 |
 | EVENT_0013 | 響くトワイライトパレード | `RB_20210209T060000Z` | review-index associations only; final analytical envelope pending | `LEO_NEED, WXS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
 | EVENT_0014 | 満たされないペイルカラー | `RB_20210218T060000Z` | 8 core + 10 card halves + 10 area (verified completed envelope) | `N25` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
 | EVENT_0015 | スマイルオブドリーマー | `RB_20210228T060000Z` | review-index associations only; final analytical envelope pending | `WXS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
@@ -3386,3 +3392,53 @@ The chorus is reported after it happens, whereas the class deliberation is direc
 ### Reuse and uncertainty controls
 
 The first broadcast, second image-crisis broadcast and third answer broadcast are distinct. Viewer comments are selected and mixed. Shizuku's self-authored public choice does not retroactively authorize the camera pointed toward her private rehearsal. The former producer's instruction is a recalled earlier event; Stage Luka's agency counterfactual is an attributed inference. School rooftop permission is achieved; a dedicated phone, contracts, parents' actual agreement, future work, series and Phoenix Wonderland outing are unshown. Areas have null publication timestamps and chapter-8 read unlock `101008`, which is availability only. The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md) owns impact; one-time discovery is not repeated per unit.
+
+## EVENT_0012 — one-time universal discovery and integrated routing
+
+**Source:** `Period of NOCTURNE`, core bucket `RB_20210131T060000Z`, lock `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, primary commit `22b4d19e982feaece6cd42c074e86e2cefac5cdd`. Six frozen manifests, review-group membership, all canonical files and pinned raw source segments match. **28 stories / 59 scenes / 1,466 records.** Equal availability does not prove equal depicted time; linked area dates/unlock are stated in the reading. Row digests are canonical-file SHA-256.
+
+| Story ID | Canonical path | Scenes | Records | File SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0012:01` | `02_CANONICAL_STORIES/EVENT/0012_01.md` | 6 | 94 | `50a1568ec27ef4ddb557f05c312288d584c16f834b70bf9df72d38f009ba8c2a` |
+| `PJSK:event:0012:02` | `02_CANONICAL_STORIES/EVENT/0012_02.md` | 2 | 86 | `48254e73a17631fb20634b621aef0a516d66445b5e566f6b27453366c8a6f066` |
+| `PJSK:event:0012:03` | `02_CANONICAL_STORIES/EVENT/0012_03.md` | 2 | 95 | `dbf7b2a4f6fa9d10b7ff1448d541f3b3e0157ce53cc47913d6fd60ed12f4bff1` |
+| `PJSK:event:0012:04` | `02_CANONICAL_STORIES/EVENT/0012_04.md` | 5 | 110 | `ea709825f8834babf6da59b8f0ef8bde643d9d3fb9b55605a5dd298ab9f02165` |
+| `PJSK:event:0012:05` | `02_CANONICAL_STORIES/EVENT/0012_05.md` | 2 | 83 | `c4aff36ffe61902cc49f45666dc8495ff9821ac0faf3a8442cf96573870e9f05` |
+| `PJSK:event:0012:06` | `02_CANONICAL_STORIES/EVENT/0012_06.md` | 3 | 75 | `69741be1dfadf328225627006578d3d1d9b1755a1461b99d7ccddea40effff85` |
+| `PJSK:event:0012:07` | `02_CANONICAL_STORIES/EVENT/0012_07.md` | 1 | 72 | `92ba7d32f60a41bcfb3b943e5269dc489c31c07989658cc4397dc0faf78f8dc7` |
+| `PJSK:event:0012:08` | `02_CANONICAL_STORIES/EVENT/0012_08.md` | 4 | 82 | `7426a60965c6a625b438c51e71f5e7677848a8c3400a8f47a7f1063bac04c421` |
+| `PJSK:card:0165:01` | `02_CANONICAL_STORIES/CARD/0165_01.md` | 3 | 80 | `a7c8c97e93f4144ac3bca2cc21b6252e7feebd1db89dd1656cdec104c8378b3f` |
+| `PJSK:card:0165:02` | `02_CANONICAL_STORIES/CARD/0165_02.md` | 2 | 59 | `56bf7499257bc026250c6f95fc090a119995310d1d58df94f697a7bd21f10a97` |
+| `PJSK:card:0166:01` | `02_CANONICAL_STORIES/CARD/0166_01.md` | 1 | 69 | `2012dc105bd8a5c8745abe6e7ea683f365f608fff0e9d09bb1b56b47422d8743` |
+| `PJSK:card:0166:02` | `02_CANONICAL_STORIES/CARD/0166_02.md` | 2 | 53 | `c82609aa0c16d50023fca0b9ce350029f073e0c1308e154399c4e3edd102d019` |
+| `PJSK:card:0167:01` | `02_CANONICAL_STORIES/CARD/0167_01.md` | 1 | 62 | `934663b68e15fa0ee5c145caa741a755ddc866063385211d037c0d0095af76b8` |
+| `PJSK:card:0167:02` | `02_CANONICAL_STORIES/CARD/0167_02.md` | 3 | 74 | `ea5f50185ec364f4af169eda9c9ddcd652a74b939c6eeefb532095e721754f04` |
+| `PJSK:card:0168:01` | `02_CANONICAL_STORIES/CARD/0168_01.md` | 4 | 76 | `4b5410feb1088919adf66e5ad4fce449e76342ad411cbcc981083b582cb21d13` |
+| `PJSK:card:0168:02` | `02_CANONICAL_STORIES/CARD/0168_02.md` | 3 | 57 | `9b2a102800129229db09c9c4c3628bb7cafba620348f7bb1a4557e1e0b012b4d` |
+| `PJSK:card:0169:01` | `02_CANONICAL_STORIES/CARD/0169_01.md` | 3 | 80 | `3ef5ae06e4f4bb5a605dde927ace30284a36335e876f748f11461e3aa28ba8da` |
+| `PJSK:card:0169:02` | `02_CANONICAL_STORIES/CARD/0169_02.md` | 2 | 76 | `109076733b4ad9188940b12eb567e713f1ae761de5473a0e3ea256ecbab564b4` |
+| `PJSK:area:areatalk_add_01_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_add_01_001_01.md` | 1 | 8 | `58e3fd5fa180c2ca856849cf3dabde61454c77f49e7cc3fec717cf60d25e7ddf` |
+| `PJSK:area:areatalk_add_01_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_add_01_003_01.md` | 1 | 9 | `b3121b083a07ad78ed7870784b963025a2dca10f9f9216c65488028ebbf03094` |
+| `PJSK:area:areatalk_ev_street_02_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_001_01.md` | 1 | 8 | `1de520d7276e68f8593bf119b4d6260f592f98fdcef2260b19ae0a15ae6c1a63` |
+| `PJSK:area:areatalk_ev_street_02_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_002_01.md` | 1 | 8 | `fa9917218b91126ed2bf7ed028b2da793a91262d170b48f00257876938ef3650` |
+| `PJSK:area:areatalk_ev_street_02_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_003_01.md` | 1 | 8 | `67b28977ba8ed5d9b4aa5558b85ad3be1fc66687eb2ac9f2bb41804d2ec79a14` |
+| `PJSK:area:areatalk_ev_street_02_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_004_01.md` | 1 | 8 | `11e76f9f5597aa97a25f50549635755da21faf1c3789fc1676ea1fe6cd88844f` |
+| `PJSK:area:areatalk_ev_street_02_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_005_01.md` | 1 | 8 | `ecd99394fe4eadab27643dd2438a4c63c79d54fea3f9d33357cb16d0e6dc3ee7` |
+| `PJSK:area:areatalk_ev_street_02_006:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_006_01.md` | 1 | 9 | `045a66dd63c57ddc66fe2e19fccaf3a9270ee678c0545267b60347a1e43443e1` |
+| `PJSK:area:areatalk_ev_street_02_007:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_007_01.md` | 1 | 7 | `b734e5a045009c659143421902e6f755ccff4b14b4e0431a43a1410f84a105a5` |
+| `PJSK:area:areatalk_ev_street_02_008:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_02_008_01.md` | 1 | 10 | `77ade22d3390f1e8aea2610acacf9fe7e0679f508390e2123c31b6047bb4261a` |
+
+### Discovery routes before impact
+
+| Scope / people | Relevance / priority | Exact evidence and recipient limit | Disposition |
+|---|---|---|---|
+| VBS Toya / father | PRIMARY/HIGH | Chosen music and father resistance `PJSK:event:0012:01:004:0004–0018`; second account and ticket `PJSK:event:0012:06:002:0011–0043`; performance and later paternal remark `PJSK:event:0012:07:001:0040–0071`, `PJSK:event:0012:08:003:0009–0018`; voluntary CD listening `PJSK:card:0165:01:003:0002–0045`. | `VBS-EP-TY-E0012` operative I3; father relation to `-1` contact, no approval. |
+| VBS Akito, An, Kohane / group | PRIMARY/HIGH | Akito's recognized musical choice `PJSK:event:0012:06:001:0006–0021`, waiting and Ken advice `PJSK:card:0166:01:001:0002–0068`; Kohane parent sequence and team explanation `PJSK:card:0168:01:004:0002–0056`, `PJSK:event:0012:08:002:0002–0007`; An's offer to help finish the photo book `PJSK:card:0167:01:001:0025–0061`; actual later guest live `PJSK:card:0165:02:001:0002–0012`. | Four human defaults and GROUP-1 retained with I1/I2 refinements; no declared core battle result. |
+| MMJ Minori | CROSS_UNIT/MEDIUM | Kohane directly discloses a parent restriction and obtains advice, then reports resolution `PJSK:card:0168:01:004:0002–0056`, `PJSK:card:0168:02:001:0002–0013`. | Minori-Kohane contextual I1; no MMJ-wide receipt. |
+| N25 Ena family context | CROSS_UNIT/LOW | Akito tells Ken about Ena's conflict with their father and sibling spillover `PJSK:card:0166:01:001:0028–0043`. | I1 attributed testimony; Ena absent and her N25 state unchanged. |
+| Street MEIKO/Miku/Rin/Len | DIRECT/MEDIUM | Miku's question and cup reuse `PJSK:event:0012:05:002:0018–0028`, `PJSK:event:0012:08:004:0007–0013`; MEIKO/Rin/Len first CD listening `PJSK:card:0165:01:003:0002–0049`; Len/Rin's mistaken cup guilt and actual apology `PJSK:card:0169:02:002:0013–0074`; ten area talks. | Street-local direct receipts only, no same-name SEKAI transfer. |
+| Leo/need / WxS humans | NONE/LOW | No direct human transaction. Toya privately remembers Tsukasa as a helper `PJSK:card:0165:02:002:0026–0028`, not a current message. | Documentary I0. |
+
+### Reuse and uncertainty controls
+
+The older sound worker's diagnosis is tentative, Toya's video-based self-diagnosis is first-person, Akito/Ken contest a simple flaw, and the performance gain has multiple plausible causes. Kohane's father visibly attends and later understands enough to permit activity; Toya's father's attendance is strongly implied by his own remark, while he expressly says he does not appreciate the sound. The core battle's winner is unstated; a later guest show is distinct and locally praised. An's photo book remains in progress in its card. Minori's counsel reaches Kohane, then VBS by Kohane's choice; An hears only “a school friend.” Ena is reported by Akito, not onstage. Toya's “best partner” thought is unheard by Akito. Street Len/Rin did not break the cup they handled. Areas have null dates and read unlock `101108`, which is availability only. The [full reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0012_DEEP_READING.md) owns impact; one-time discovery is not repeated per unit.

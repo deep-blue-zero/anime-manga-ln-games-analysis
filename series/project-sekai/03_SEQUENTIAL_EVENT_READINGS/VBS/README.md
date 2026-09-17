@@ -24,3 +24,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0004 — founded VBS interpretation](../MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md): EVENT_0001–0003 NONE/I0 precede EVENT_0004 I1 ordinary Kohane and retrospective An evidence; all founded human/group defaults remain. All six ledger dispositions are reconciled; no mature reconstruction or final-synthesis readiness is implied.
 
 - [EVENT_0006 — いつか、背中あわせのリリックを](PJSK_EVENT_0006_DEEP_READING.md): complete 18-story, 41-scene envelope. VBS I3 on An–Kohane's enacted reciprocal partnership; four human and group IDs preserved with bounded refinements. MMJ Haruka–An and Minori–Kohane I1; LN/WxS/N25 I0. Street MEIKO/Miku/Len direct, Rin reported. No completed later live or principal-human R3 package. Next historical candidate EVENT_0008 is not yet authorized.
+
+- [EVENT_0012 — Period of NOCTURNE](PJSK_EVENT_0012_DEEP_READING.md): complete 28-story envelope; Toya operative I3 with father contact still unresolved, VBS partners/group I1/I2, Minori and Ena-context cross-unit I1, LN/WxS I0. Street singer receipts and 10 undated area unlocks remain bounded.

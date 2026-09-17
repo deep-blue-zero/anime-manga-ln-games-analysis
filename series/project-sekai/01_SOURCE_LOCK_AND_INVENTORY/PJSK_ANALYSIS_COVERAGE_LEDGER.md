@@ -49,7 +49,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0011 historical transaction; forward EVENT_0090 retained
+### Current coverage — EVENT_0012 historical transaction; forward EVENT_0090 retained
+
+**EVENT_0012 is fully integrated:** VBS PRIMARY/HIGH / I3 records Toya's operative distinction between loving classical music and choosing street music, `VBS-EP-TY-E0012`; `VBS-REL-TOYA-FATHER-0 -> VBS-REL-TOYA-FATHER-1` is a narrow heard-but-unresolved father contact. Four VBS human defaults, `VBS-REL-GROUP-1`, `VBS-REL-KH-AN-4` and `VBS-REL-AK-TY-2` remain, with bounded I1/I2 refinements. MMJ Minori's direct advice and N25-facing Ena testimony are CROSS_UNIT I1 without group or Ena state changes; LN/WxS are NONE/I0. Street manifestations retain separate receipts. The verified envelope is 28 stories / 59 scenes / 1,466 records, including 10 undated chapter-unlock areas. Thirteen historical universal screens remain: `0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0013. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. Toya's father's attendance is inferred from his remark, and he expressly does not understand street music; no battle win, parental reconciliation, permanent vocal cure, global human successor or principal-human R3 package is certified.
+
+Causal home: [EVENT_0012 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0012_DEEP_READING.md). One-time universal routes and all five founded human-unit dispositions are integrated across the routing and six longitudinal ledgers.
+
+- Completed the one-time EVENT12 screen: 28 stories / 59 scenes / 1,466 records; all six frozen manifests and canonical/raw segments checked.
+- VBS Toya operative I3; MMJ direct advice and N25 attributed Ena-family context I1; LN/WxS I0; six ledgers reconciled with Street singer receipts.
+- Thirteen historical universal screens remain; next EVENT_0013. Forward N25 EVENT90/91, R3 packages, syntheses and final audits remain separate.
+
+### Historical coverage — EVENT_0011 historical transaction; forward EVENT_0090 retained
 
 **EVENT_0011 is fully integrated:** MMJ PRIMARY/HIGH / I3 records Shizuku's chosen, publicly enacted presentation of her present imperfect self, with `MMJ-EP-SZ-E0011` as operative knowledge. The group's first three actual live streams refine the EVENT5 freelance/video model at I2; four `MMJ-<MN/HR/AI/SZ>-MS-04` humans and `MMJ-REL-GROUP-06` remain. Stage Miku/Rin and newly arrived Stage Luka retain distinct direct manifestation and recipient routes; Leo/need, VBS, WxS and N25 humans are NONE/I0. The verified envelope is 33 stories / 42 scenes / 1,480 records, including 15 undated chapter-unlock areas. Fourteen historical universal screens remain: `0012–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0012. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. Audience comments are mixed, the third-stream rehearsal camera lacks Shizuku's advance explicit consent, and future programs/jobs are unshown. No global human successor, unanimous fan approval or principal-human R3 package is certified.
 
@@ -1166,3 +1176,7 @@ The verified group contains eight core chapters, ten card halves and seven chapt
 ### EVENT_0011 source and reconstruction review
 
 The verified group contains eight core chapters, ten card halves and fifteen linked areas with null publication timestamps and chapter-8 unlock `101008`. Bounded reports cover 16 core, 11 card and 15 area scenes, totaling 1,480 records. Root reconciled every human unit and Stage manifestation before impact. Shizuku's I3 is operative because she chooses the unedited present self, enacts that choice before a mixed audience, receives specific support and then authors a possible future program; four MS-04 humans and GROUP-06 remain. The group actually conducts three streams, while future infrastructure and show formats remain plans. Seven lenses, ordinary behavior, source chronology and individual knowledge holders appear in the full reading. No principal-human package or forward-frontier change is certified.
+
+### EVENT_0012 source and reconstruction review
+
+The verified group contains eight core chapters (25 scenes, 697 records), ten card halves (24 scenes, 686 records) and ten areas (10 scenes, 83 records). The two `areatalk_add_01_*` areas are unclassified and eight `areatalk_ev_street_02_*` areas are event-linked; all have null publication dates and chapter-8 read unlock `101108`. Bounded reports independently checked core, card and area subsets. Root reconciled VBS, MMJ, N25, Leo/need and WxS routes before impact. Toya's I3 is operative because he directly separates love of inherited classical music from compulsory practice, communicates a chosen street path to his father, sings and voluntarily re-hears the paternal music; the father's later remark strongly implies he heard the live, while he explicitly says he does not understand it. The four established VBS humans and group remain; Minori and Ena evidence have specific recipient limits. Seven lenses, competing claims, ordinary behavior and partial chronology are in the full reading. No principal-human package, forward-frontier change or global character successor is certified.
