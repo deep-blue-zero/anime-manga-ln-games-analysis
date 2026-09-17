@@ -4344,10 +4344,11 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `one-punch-man`
 - Continuity: `one-punch-man-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-v36-v37-ethical-boundaries`: MANGA VOLUME: Collected Japanese V36-V37 ledger sections: concern without ownership, limits on collateral harm, admission of competence limits, uncertain developmental possibility, failed evaluative feedback, and correction of a money-driven rescue motive. This added ethical scope follows the specific analyzed scenes, not uniform coverage of every chapter. Official-web provisional material and later collected volumes are excluded.; continuity `one-punch-man-manga`
   - `saitama-reviewed-corpus`: MANGA VOLUME: Distributed substantial analysis for a subject at the explicit current strong tier in the canonical readiness index, supported by the appropriate character-state and relationship ledgers; all per-volume and scenario limits remain in force.; continuity `one-punch-man-manga`
 - Reviewed current evidence:
   - [`opm-character-model-readiness-index` — OPM CHARACTER MODEL READINESS INDEX](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)

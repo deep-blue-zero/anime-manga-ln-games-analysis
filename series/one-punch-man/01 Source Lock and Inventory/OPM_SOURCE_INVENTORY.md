@@ -4,13 +4,13 @@ artifact_type: source_inventory
 scope: Japanese tankobon V01-V37 physically present; official web layer status
 generation: V2
 status: canonical
-source_boundary: Local Japanese tankobon V01-V37 inspected 2026-09-12; semantic lock through V34; historical Drive audit retained
+source_boundary: Local Japanese tankobon V01-V37 inspected and semantically locked; official web 232-284 source-locked 2026-09-16 with 235-284 uncollected
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-updated: 2026-09-12
-workspace_state: local_staged_unintegrated
+updated: 2026-09-16
+workspace_state: governed_series_branch
 ---
 
 
@@ -20,7 +20,7 @@ workspace_state: local_staged_unintegrated
 ## Boundary
 
 
-Current contiguous local collected holding: **V01-V37**, including newly supplied V35-V36. All archive object sizes and hashes are recorded below. Semantic source lock and completed reading are **V01-V34**. The inherited official-web folder was reported empty; Drive was not re-audited in this local bootstrap. The separate local preservation pilot is a technical test under `_staging/pilots/`, with no web narrative admitted to the analytical layer.
+Current contiguous local collected holding: **V01-V37**, including newly supplied V35-V36. All archive object sizes and hashes are recorded below. Semantic source lock and completed reading are **V01-V37**. The inherited official-web source folder was reported empty and Drive was not re-audited in this local bootstrap; the active web source is instead a provenance-complete local snapshot under excluded `_staging/current-web/tonari_2026-09-16/`. It locks provider web 232-284 (53 objects / 1,075 pages), with web 235-284 admitted only to the separate `active_provisional` analytical layer.
 
 
 ## Build-manifest summary — contiguous V01-V34 set
@@ -73,25 +73,25 @@ Current contiguous local collected holding: **V01-V37**, including newly supplie
 | V32 | `One Punch Man - Volume 32 [Japanese].cbz` | 231 | 152,226,910 | `9d19d62917c14878660a35bdf036fdded35234c13990dfa5a03b8a8b722b21d3` | 0 | archive_integrity_locked; semantic_source_locked; canonical reading; local V32 closeout complete |
 | V33 | `One Punch Man - Volume 33 [Japanese].cbz` | 223 | 107,999,277 | `121d8b45e1c0be7fbd4fe4c0121161656ecaaa693e3b63786cc5d6596e8b76fd` | 0 | archive_integrity_locked; semantic_source_locked; canonical reading; local V33 closeout complete |
 | V34 | `One Punch Man - Volume 34 [Japanese].cbz` | 224 | 97,684,009 | `2d5952153d956079fb04fe7137eb04d4b7b8ffe9dcfce6db78ba3ff21fce6bc7` | 0 | archive_integrity_locked; semantic_source_locked; canonical reading; local V34 closeout complete |
-| V35 | `One Punch Man - Volume 35 [Japanese].cbz` | 207 | 87,519,794 | `160d07bd53253d99b32e168e5b388c608327c0c6c9aa974ec291da8f54e74c9d` | 0 (fresh byte/RGB checks) | archive_integrity_locked; fresh full integrity PASS; semantic lock and prospective reading in progress; durable notes through image 0008 |
-| V36 | `One Punch Man - Volume 36 [Japanese].cbz` | 247 | 198,284,447 | `4798a23e92395acbff507b63dd11bdd624a8c507c5143a6f45eca79eed454cdb` | 0 (build manifest) | present; object_hash_verified; build_integrity_reported; fresh full integrity and semantic lock pending |
-| V37 | `One Punch Man - Volume 37 [Japanese].cbz` | 207 | 129,215,110 | `3e01ca4d5a3f7791df96b8cdb153707cd6995b22a01bcddfe373dc92578ef8b9` | n/a — outside build manifest | direct_archive_checked (inherited); object_hash_reverified; semantic_lock_pending; contiguous holding |
+| V35 | `One Punch Man - Volume 35 [Japanese].cbz` | 207 | 87,519,794 | `160d07bd53253d99b32e168e5b388c608327c0c6c9aa974ec291da8f54e74c9d` | 0 (fresh byte/RGB checks) | archive_integrity_locked; semantic_source_locked; canonical reading; local V35 closeout complete |
+| V36 | `One Punch Man - Volume 36 [Japanese].cbz` | 247 | 198,284,447 | `4798a23e92395acbff507b63dd11bdd624a8c507c5143a6f45eca79eed454cdb` | 0 (fresh byte/RGB checks) | archive_integrity_locked; semantic_source_locked; canonical reading; local V36 closeout complete |
+| V37 | `One Punch Man - Volume 37 [Japanese].cbz` | 207 | 129,215,110 | `3e01ca4d5a3f7791df96b8cdb153707cd6995b22a01bcddfe373dc92578ef8b9` | 0 (fresh byte/RGB checks) | archive_integrity_locked; semantic_source_locked; canonical reading; local V37 closeout complete |
 
 
 ## Authority
 
 
-The current local build manifest covers V01-V36, while V37 remains outside that manifest with its inherited direct archive audit and unchanged object hash. V35-V36 close the physical source gap; they do not advance the analytical boundary. V35 now has a fresh complete mechanical PASS and an open prospective reading; its semantic lock remains pending. V36 counts and duplicate-removal figures remain build-reported until its sequential turn. Historical acquisition records remain preserved. Hashes identify the exact objects. `archive_integrity_locked` does not by itself assert chapter/extra mapping or semantic source validation; those are completed per volume before claims are promoted as source-locked.
+The current local build manifest covers V01-V36, while V37 remains outside that manifest and is governed by its direct audit plus fresh per-volume verification. V35-V36 closed the physical source gap, and V01-V37 now have semantic PASS and canonical readings. Historical acquisition records remain preserved. Hashes identify the exact objects. `archive_integrity_locked` does not by itself assert chapter/extra mapping or semantic source validation; those are completed per volume before claims are promoted as source-locked.
 
 
 ## Expansion rule
 
 
-When later volumes arrive, append/reconcile rows rather than rewrite earlier source identity. V35-V36 availability and V37 identity were reconciled on 2026-09-12; advance the semantic and reading boundaries only after each intervening volume is fully closed. When official web material arrives, route it to the separate web crosswalk and `active_provisional` authority horizon.
+When later volumes arrive, append/reconcile rows rather than rewrite earlier source identity. V35-V36 availability and V37 identity were reconciled on 2026-09-12; advance the stable semantic and reading boundaries only after each intervening volume is fully closed. New official web material must be captured and diffed against the 2026-09-16 state, then routed to the separate web crosswalk and `active_provisional` authority horizon.
 
 ## Local source verification — 2026-09-12
 
-Current immutable input root: `OPM_SOURCE_ROOT`. Recursive filename inventory and direct SHA-256 checks found **V01-V37**. All 35 previously inventoried archive objects match their existing sizes and hashes; V35 and V36 are newly recorded and match their supplied build metadata. **The former physical acquisition gap is resolved.** At the bootstrap inventory check, reading and semantic mapping remained through V27; the current boundary above includes the subsequent V28 closeout.
+The immutable input corpus is held read-only outside the publication repository, with its machine-specific path intentionally excluded from governed output. Recursive filename inventory and direct SHA-256 checks found **V01-V37**. All 35 previously inventoried archive objects match their existing sizes and hashes; V35 and V36 are newly recorded and match their supplied build metadata. **The former physical acquisition gap is resolved.** At the bootstrap inventory check, reading and semantic mapping remained through V27; the current boundary above includes the subsequent V28 closeout.
 
 The supplied local build manifest now reports 36 volumes, 7,773 source pages, 7,770 retained archive images and three removed duplicates, verified `2026-09-12T20:03:15+00:00`, `ok: true`. These are supplied build results, not a claim of fresh full decoding of V29-V37. The historical V01-V34 build summary above remains intact.
 
@@ -124,3 +124,15 @@ All 223 images were directly reviewed after fresh integrity checks. Chapters 168
 ## V34 semantic closeout — 2026-09-13
 
 All 224 images were directly reviewed after fresh integrity checks. Chapters 172–175, attached art, the two-page `裁縫` bonus and endmatter are locked. Japanese/register PASS, prospective freeze, V1 comparison, checkpoint and propagation are complete. See the [source audit](OPM_V34_SOURCE_AUDIT.md) and [V34 update manifest](../08%20Audits%20and%20Manifests/OPM_V34_UPDATE_MANIFEST.md). V35 follows readback PASS. Prior entries remain historical; Git stays gated.
+
+## V35 semantic closeout — 2026-09-15
+
+All 207 images were directly reviewed after fresh integrity checks. Chapters 176–181, attached gags, `怖くないよ` and endmatter are locked. Japanese/register PASS followed 178 distinct targeted reinspections; prospective freeze, the 1,799-line combined V1 comparison, checkpoint adjudication and propagation are complete. See the [source audit](OPM_V35_SOURCE_AUDIT.md) and [V35 update manifest](../08%20Audits%20and%20Manifests/OPM_V35_UPDATE_MANIFEST.md). V36 follows only after readback PASS. Prior entries remain historical; the owner-authorized branch checkpoint governs Git publication.
+
+## V36 semantic closeout — 2026-09-15
+
+All 247 images were directly reviewed after fresh integrity checks. Chapters 182–188, `最初の勇気` and endmatter are locked. Japanese/register PASS followed 226 distinct targeted reinspections; prospective freeze, the 1,799-line combined V1 comparison, checkpoint adjudication and propagation are complete. See the [source audit](OPM_V36_SOURCE_AUDIT.md) and [V36 update manifest](../08%20Audits%20and%20Manifests/OPM_V36_UPDATE_MANIFEST.md). V37 follows only after readback PASS. Prior entries remain historical; the owner-authorized branch checkpoint governs Git publication.
+
+## V37 semantic closeout — 2026-09-16
+
+All 207 images were directly reviewed after fresh integrity checks. Chapters 189–194, bonus image 0201 and endmatter are locked. Japanese/register PASS followed 186 distinct targeted reinspections; prospective freeze, the 2,054-line V1 comparison, checkpoint adjudication, propagation and the V28–V37 corpus-wide audit are complete. See the [source audit](OPM_V37_SOURCE_AUDIT.md) and [V37 update manifest](../08%20Audits%20and%20Manifests/OPM_V37_UPDATE_MANIFEST.md). The official-web narrative now continues separately through web 284 under provisional authority.
