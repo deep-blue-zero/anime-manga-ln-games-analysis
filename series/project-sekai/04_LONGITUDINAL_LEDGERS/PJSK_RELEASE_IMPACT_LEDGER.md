@@ -4,16 +4,22 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified"
+source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0090 I2 Ena expressive-method refinement; all six ledgers synchronized; current human tuple retained; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical LN EVENT_0001 I2 with preserved P04 humans; historical LN EVENT_0002–0003 I1 with preserved P04 humans; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified"
+analysis_cutoff: "EVENT_0090 I2 Ena expressive-method refinement; all six ledgers synchronized; current human tuple retained; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical LN EVENT_0001 I2 with preserved P04 humans; historical LN EVENT_0002–0003 I1 with preserved P04 humans; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified"
 ---
 
 # Project SEKAI Release Impact Ledger
 
-## Current EVENT_0008 checkpoint
+## Current EVENT_0010 checkpoint
+
+**EVENT_0010 is fully integrated:** Leo/need PRIMARY/HIGH / I3 records Honami's fear-aware, practical class leadership and a second qualified intervention, with `LN-EP-HONAMI-E0010` as operative knowledge. Four P04 human IDs and `LN-REL-G-P04` remain. Shiho's direct STANDOUT invitation is unresolved; overheard debut/lineup talk is rumor. WxS CROSS_UNIT/MEDIUM / I1 extends `REL-CROSS-HONAMI-EMU-E0004` through Emu's survey and class support, without a WxS successor. MMJ/VBS/N25 are NONE/I0. School Miku, Luka and newly arrived School MEIKO retain distinct direct manifestation routes. The verified envelope is 25 stories / 48 scenes / 1,338 records, including seven undated chapter-unlock areas. Fifteen historical universal screens remain: `0011–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0011. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. No global human successor, permanent fear cure, confirmed STANDOUT debut or principal-human R3 package is certified.
+
+Causal home: [EVENT_0010 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0010_DEEP_READING.md). Source discovery is recorded once in the routing ledger. Earlier checkpoint bodies retain their original periods.
+
+## Historical EVENT_0008 checkpoint
 
 **EVENT_0008 is fully integrated:** WxS PRIMARY/HIGH / I3 records Nene's privately formed and repeatedly tested way to sing through role enjoyment and company, with `WXS-EP-NENE-E0008` as operative knowledge. `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06` and `REL-WXS-MS-G-P06` remain; the Christmas-show first place is separate from Phoenix Stage's cumulative lead. Leo/need CROSS_UNIT/LOW / I1 receives only Tsukasa's bounded report of Saki's family and childhood-friend holiday; MMJ/VBS/N25 are NONE/I0. Wonderland Miku, KAITO, Len and newly arrived Wonderland MEIKO remain distinct direct manifestations. The verified envelope is 26 stories / 42 scenes / 1,417 records, including eight chapter-unlock area conversations without publication dates. Sixteen historical universal screens remain: `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0010. Forward N25 EVENT_0090 / next EVENT_0091 and its current tuple remain unchanged. No global human successor, permanent anxiety cure, overall contest victory or principal-human R3 package is certified.
 
@@ -2662,3 +2668,25 @@ The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0008_DEEP_
 | Wonderland Rin / other singer manifestations | NONE / I0 | No present speaking route. | Documentary. |
 
 **I3 test:** Nene's P06 self-chosen performance was still constrained by a remembered failure. She identifies a different song method privately, asks for a SEKAI performance, sings there and outdoors, then voluntarily sings again after the public run. This is an operative, repeatedly enacted epistemic change. It does not establish permanent fear removal or global character replacement. The Christmas show wins its round while Phoenix Stage remains first overall. Preserve all historical states at their own cutoffs and continue the five-screen authorization only after this local transaction closes.
+
+## Historical EVENT_0010 — integrated complete-envelope impact
+
+```yaml
+execution_scope: five_pending_historical_screens
+completed_operation: EVENT_0010
+next_historical_candidate: EVENT_0011
+forward_frontier_unchanged: EVENT_0090
+next_forward_candidate_unchanged: EVENT_0091
+```
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0010_DEEP_READING.md) consumes one-time routing from 25 verified stories, 48 scenes and 1,338 ordered records: 8 core, 10 card halves, 7 chapter-unlock areas with null publication dates. Historical pending screens fall from 16 to 15.
+
+| Scope | Relevance / impact | State and knowledge consequence | Integration |
+|---|---|---|---|
+| Leo/need | PRIMARY/HIGH / I3 | `LN-EP-HONAMI-E0010` records enacted care/choice under fear and a second qualified speaking test; four P04 humans and `LN-REL-G-P04` retained. Shiho/Honami, Saki/Honami, class and School-singer contacts gain bounded I1/I2. | INTEGRATED; no global human or R3 successor. |
+| WxS Emu | CROSS_UNIT/MEDIUM / I1 | Existing `REL-CROSS-HONAMI-EMU-E0004` extends through concern, actual survey and class celebration report; WxS P06 humans/company unchanged. | INTEGRATED bounded school context. |
+| MMJ / VBS / N25 | NONE / I0 | No present human/guarded-information transaction. | Documentary disposition closed; forward N25 EVENT90/91 unchanged. |
+| School Miku / Luka / MEIKO | DIRECT, manifestation-local I1/I2 | MEIKO arrives, advises, plays and builds separate ordinary contacts; Miku/Luka choose to watch the quartet's direction. | INTEGRATED with no other-SEKAI transfer. |
+| Iori / STANDOUT | SECONDARY, unresolved | Iori directly invites Shiho after spectators' separate debut/lineup rumor. | Invitation recorded; answer, lineup and debut OPEN. |
+
+**I3 test:** Honami's P04 repaired affiliation already allowed honest class contact; the event challenges her remaining accommodation premise with a 16–16 split. She privately revises the premise, seeks real constraints and help, publicly presents an actionable compromise while afraid, and later intervenes under a fresh memory trigger without assuming complete knowledge. Gold is a bounded collective result, not the sole basis for tiering. Preserve the P04 human/group states and all prior cutoffs.

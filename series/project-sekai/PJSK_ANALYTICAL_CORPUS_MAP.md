@@ -210,7 +210,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Five-screen historical continuation — EVENT_0008 committed boundary
+### Five-screen historical continuation — EVENT_0010 committed boundary
+
+**EVENT_0010 is fully integrated:** Leo/need PRIMARY/HIGH / I3 records Honami's fear-aware, practical class leadership and a second qualified intervention, with `LN-EP-HONAMI-E0010` as operative knowledge. Four P04 human IDs and `LN-REL-G-P04` remain. Shiho's direct STANDOUT invitation is unresolved; overheard debut/lineup talk is rumor. WxS CROSS_UNIT/MEDIUM / I1 extends `REL-CROSS-HONAMI-EMU-E0004` through Emu's survey and class support, without a WxS successor. MMJ/VBS/N25 are NONE/I0. School Miku, Luka and newly arrived School MEIKO retain distinct direct manifestation routes. The verified envelope is 25 stories / 48 scenes / 1,338 records, including seven undated chapter-unlock areas. Fifteen historical universal screens remain: `0011–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0011. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. No global human successor, permanent fear cure, confirmed STANDOUT debut or principal-human R3 package is certified.
+
+The [EVENT_0010 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0010_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md) and six longitudinal ledgers are current EVENT10 authority. Next authorized pending screens are EVENT_0011–0013, one complete closed transaction at a time; earlier checkpoint sections describe their own cutoffs.
+
+### Historical five-screen continuation — EVENT_0008 committed boundary
 
 **EVENT_0008 is fully integrated:** WxS PRIMARY/HIGH / I3 records Nene's privately formed and repeatedly tested way to sing through role enjoyment and company, with `WXS-EP-NENE-E0008` as operative knowledge. `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06` and `REL-WXS-MS-G-P06` remain; the Christmas-show first place is separate from Phoenix Stage's cumulative lead. Leo/need CROSS_UNIT/LOW / I1 receives only Tsukasa's bounded report of Saki's family and childhood-friend holiday; MMJ/VBS/N25 are NONE/I0. Wonderland Miku, KAITO, Len and newly arrived Wonderland MEIKO remain distinct direct manifestations. The verified envelope is 26 stories / 42 scenes / 1,417 records, including eight chapter-unlock area conversations without publication dates. Sixteen historical universal screens remain: `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0010. Forward N25 EVENT_0090 / next EVENT_0091 and its current tuple remain unchanged. No global human successor, permanent anxiety cure, overall contest victory or principal-human R3 package is certified.
 

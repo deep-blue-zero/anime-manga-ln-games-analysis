@@ -26,3 +26,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0003 — bounded Saki household appendix](../WXS/PJSK_EVENT_0003_DEEP_READING.md): LN I1 with preserved P04 humans/group; existing sibling relation supplemented and exact knowledge limits kept separately. WxS owns the full event account and its I3 epistemic transition. LN EVENT4 is integrated below; later material routes remain pending.
 
 - [EVENT_0004 — participating with limits](../MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md): LN I2 for Saki's proactive informed reliance and bounded reciprocity, with I1 ordinary contributions from Ichika/Honami/Shiho. Preserve P04 humans/group and exact prior event history.
+
+- [EVENT_0010 — 揺れるまま、でも君は前へ](PJSK_EVENT_0010_DEEP_READING.md): complete 25-story envelope, Honami operative I3 with four P04 humans and group retained; WxS Emu school I1, MMJ/VBS/N25 I0. School MEIKO's arrival and Shiho's unresolved STANDOUT offer remain manifestation/person specific.

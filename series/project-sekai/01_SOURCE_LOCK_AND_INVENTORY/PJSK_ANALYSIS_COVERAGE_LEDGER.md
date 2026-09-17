@@ -49,7 +49,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0008 historical transaction; forward EVENT_0090 retained
+### Current coverage — EVENT_0010 historical transaction; forward EVENT_0090 retained
+
+**EVENT_0010 is fully integrated:** Leo/need PRIMARY/HIGH / I3 records Honami's fear-aware, practical class leadership and a second qualified intervention, with `LN-EP-HONAMI-E0010` as operative knowledge. Four P04 human IDs and `LN-REL-G-P04` remain. Shiho's direct STANDOUT invitation is unresolved; overheard debut/lineup talk is rumor. WxS CROSS_UNIT/MEDIUM / I1 extends `REL-CROSS-HONAMI-EMU-E0004` through Emu's survey and class support, without a WxS successor. MMJ/VBS/N25 are NONE/I0. School Miku, Luka and newly arrived School MEIKO retain distinct direct manifestation routes. The verified envelope is 25 stories / 48 scenes / 1,338 records, including seven undated chapter-unlock areas. Fifteen historical universal screens remain: `0011–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0011. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. No global human successor, permanent fear cure, confirmed STANDOUT debut or principal-human R3 package is certified.
+
+Causal home: [EVENT_0010 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0010_DEEP_READING.md). One-time universal routes and all five founded human-unit dispositions are integrated across the routing and six longitudinal ledgers.
+
+- Completed the one-time EVENT10 screen: 25 stories / 48 scenes / 1,338 records; six manifest hashes and every canonical/raw segment checked.
+- Leo/need Honami operative I3, WxS Emu school I1, MMJ/VBS/N25 I0; all six ledgers reconciled.
+- Fifteen historical universal screens remain; next EVENT_0011. Forward N25 EVENT90/91, R3 packages, syntheses and final audits remain separate.
+
+### Historical coverage — EVENT_0008 historical transaction; forward EVENT_0090 retained
 
 **EVENT_0008 is fully integrated:** WxS PRIMARY/HIGH / I3 records Nene's privately formed and repeatedly tested way to sing through role enjoyment and company, with `WXS-EP-NENE-E0008` as operative knowledge. `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06` and `REL-WXS-MS-G-P06` remain; the Christmas-show first place is separate from Phoenix Stage's cumulative lead. Leo/need CROSS_UNIT/LOW / I1 receives only Tsukasa's bounded report of Saki's family and childhood-friend holiday; MMJ/VBS/N25 are NONE/I0. Wonderland Miku, KAITO, Len and newly arrived Wonderland MEIKO remain distinct direct manifestations. The verified envelope is 26 stories / 42 scenes / 1,417 records, including eight chapter-unlock area conversations without publication dates. Sixteen historical universal screens remain: `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0010. Forward N25 EVENT_0090 / next EVENT_0091 and its current tuple remain unchanged. No global human successor, permanent anxiety cure, overall contest victory or principal-human R3 package is certified.
 
@@ -1138,3 +1148,7 @@ The release manifest and review group bound eight event chapters and both halves
 ### EVENT_0008 source and reconstruction review
 
 The frozen review group includes eight core chapters, ten card halves and eight chapter-unlock area conversations. All 26 file and pinned source-segment hashes match the source inventory; 42 scenes and 1,417 ordered records were read across bounded core/card/area reports and root adjudication. Universal routes were frozen before impact. WxS Nene's I3 is an operative epistemic shift, with global human/company IDs preserved; Leo/need's only new context is mediated by Tsukasa. The Christmas-round win is distinct from the cumulative contest leader. Seven lenses, knowledge recipients and ordinary behavior appear in the complete reading. No R3 package or forward-frontier advance.
+
+### EVENT_0010 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves and seven chapter-unlock area conversations with null publication timestamps. Bounded reports covered 21 core, 20 card and 7 area scenes, totaling 1,338 records. Root reconciled every human unit and School manifestation before impact. Honami's new care-and-choice model is I3 operative because her feared class statement is enacted and she later speaks under a distinct recalled fear; P04 human/company defaults remain. Emu's survey and school companionship are a present extension of an existing cross-unit relationship. The gold result is retrospective, and Shiho's STANDOUT invitation has no answer. Seven lenses, ordinary behavior and individual knowledge holders appear in the full reading. No principal-human package or forward-frontier change is certified.
