@@ -49,7 +49,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0006 historical transaction; forward EVENT_0090 retained
+### Current coverage — EVENT_0008 historical transaction; forward EVENT_0090 retained
+
+**EVENT_0008 is fully integrated:** WxS PRIMARY/HIGH / I3 records Nene's privately formed and repeatedly tested way to sing through role enjoyment and company, with `WXS-EP-NENE-E0008` as operative knowledge. `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06` and `REL-WXS-MS-G-P06` remain; the Christmas-show first place is separate from Phoenix Stage's cumulative lead. Leo/need CROSS_UNIT/LOW / I1 receives only Tsukasa's bounded report of Saki's family and childhood-friend holiday; MMJ/VBS/N25 are NONE/I0. Wonderland Miku, KAITO, Len and newly arrived Wonderland MEIKO remain distinct direct manifestations. The verified envelope is 26 stories / 42 scenes / 1,417 records, including eight chapter-unlock area conversations without publication dates. Sixteen historical universal screens remain: `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0010. Forward N25 EVENT_0090 / next EVENT_0091 and its current tuple remain unchanged. No global human successor, permanent anxiety cure, overall contest victory or principal-human R3 package is certified.
+
+Causal home: [EVENT_0008 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0008_DEEP_READING.md). Routing discovery is one-time and universal; the eight undated areas are retained. All six ledgers are synchronized. EVENT_0007/0009 source screens remain reusable with their other-unit material routes separate.
+
+- Completed one-time EVENT8 source screen: 26 stories / 42 scenes / 1,417 records; six manifests and every canonical/raw source segment checked.
+- Integrated WxS I3, mediated LN I1 and three human-unit I0 routes. Sixteen historical gaps remain; next EVENT_0010 under the clarified five-screen authorization.
+- No R3 character package, unit/full-series synthesis or final audit is certified; forward N25 EVENT90/91 is separate.
+
+### Historical coverage — EVENT_0006 transaction; forward EVENT_0090 retained
 
 **EVENT_0006 is fully integrated:** VBS PRIMARY/HIGH / I3 advances `VBS-REL-KH-AN-3 -> VBS-REL-KH-AN-4` through explicit reciprocal trust and an actual unequal full-effort singing test. An's operative partner understanding changes; Kohane's self-directed practice, Akito–Toya reliance and the four-person plan receive bounded I1/I2 refinements. Human IDs `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3` and `VBS-REL-GROUP-1` remain. MMJ CROSS_UNIT/MEDIUM / I1 records present Haruka–An and Minori–Kohane advice without a new MMJ group state; Leo/need, WxS and N25 are NONE / documentary I0. Street MEIKO, Miku and Len have distinct direct routes; Street Rin is reported. The frozen full envelope is 18 stories / 41 scenes / 1,231 records with verified source segments. All five human foundations and EVENT_0001–0006 unit dispositions are complete. Seventeen earlier universal screens remain: `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next historical candidate EVENT_0008. Forward N25 EVENT_0090 / next EVENT_0091 and tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No later live success, equal skill, principal-human R3 package or full synthesis is certified. This `single_operation` ends after its validated local commit; the next candidate is not authorization to proceed.
 
@@ -1124,3 +1134,7 @@ CURRENT AUTHORITY AFTER EVENT_0090
 ### EVENT_0006 source and reconstruction review
 
 The release manifest and review group bound eight event chapters and both halves of five associated cards. The root's source verifier matched six frozen manifest digests, all 18 canonical file digests and their pinned source segments. Core and card evidence reports covered 649 and 582 records respectively, all scenes including transitions. Root reconciled unit/person/manifestation routes before impact, then compared VBS/MMJ against their completed foundations and the existing EVENT1–5 dispositions. All seven lenses and recipient boundaries appear in the VBS event reading. The I3 proof is confined to the An–Kohane relationship and An's operative knowledge, with actual full-effort test and explicit remaining skill difference. No new global human or VBS group ID and no completed R3 package. LN/WxS/N25 NONE are complete-envelope determinations. Forward N25 EVENT90/91 remains separate.
+
+### EVENT_0008 source and reconstruction review
+
+The frozen review group includes eight core chapters, ten card halves and eight chapter-unlock area conversations. All 26 file and pinned source-segment hashes match the source inventory; 42 scenes and 1,417 ordered records were read across bounded core/card/area reports and root adjudication. Universal routes were frozen before impact. WxS Nene's I3 is an operative epistemic shift, with global human/company IDs preserved; Leo/need's only new context is mediated by Tsukasa. The Christmas-round win is distinct from the cumulative contest leader. Seven lenses, knowledge recipients and ordinary behavior appear in the complete reading. No R3 package or forward-frontier advance.
