@@ -49,7 +49,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0010 historical transaction; forward EVENT_0090 retained
+### Current coverage — EVENT_0011 historical transaction; forward EVENT_0090 retained
+
+**EVENT_0011 is fully integrated:** MMJ PRIMARY/HIGH / I3 records Shizuku's chosen, publicly enacted presentation of her present imperfect self, with `MMJ-EP-SZ-E0011` as operative knowledge. The group's first three actual live streams refine the EVENT5 freelance/video model at I2; four `MMJ-<MN/HR/AI/SZ>-MS-04` humans and `MMJ-REL-GROUP-06` remain. Stage Miku/Rin and newly arrived Stage Luka retain distinct direct manifestation and recipient routes; Leo/need, VBS, WxS and N25 humans are NONE/I0. The verified envelope is 33 stories / 42 scenes / 1,480 records, including 15 undated chapter-unlock areas. Fourteen historical universal screens remain: `0012–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0012. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. Audience comments are mixed, the third-stream rehearsal camera lacks Shizuku's advance explicit consent, and future programs/jobs are unshown. No global human successor, unanimous fan approval or principal-human R3 package is certified.
+
+Causal home: [EVENT_0011 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md). One-time universal routes and all five founded human-unit dispositions are integrated across the routing and six longitudinal ledgers.
+
+- Completed the one-time EVENT11 screen: 33 stories / 42 scenes / 1,480 records; all six frozen manifests and canonical/raw source segments checked.
+- MMJ Shizuku operative I3 and group live-launch I2; LN/VBS/WxS/N25 I0; six ledgers reconciled with separate Stage singer receipts.
+- Fourteen historical universal screens remain; next EVENT_0012. Forward N25 EVENT90/91, R3 packages, syntheses and final audits remain separate.
+
+### Historical coverage — EVENT_0010 historical transaction; forward EVENT_0090 retained
 
 **EVENT_0010 is fully integrated:** Leo/need PRIMARY/HIGH / I3 records Honami's fear-aware, practical class leadership and a second qualified intervention, with `LN-EP-HONAMI-E0010` as operative knowledge. Four P04 human IDs and `LN-REL-G-P04` remain. Shiho's direct STANDOUT invitation is unresolved; overheard debut/lineup talk is rumor. WxS CROSS_UNIT/MEDIUM / I1 extends `REL-CROSS-HONAMI-EMU-E0004` through Emu's survey and class support, without a WxS successor. MMJ/VBS/N25 are NONE/I0. School Miku, Luka and newly arrived School MEIKO retain distinct direct manifestation routes. The verified envelope is 25 stories / 48 scenes / 1,338 records, including seven undated chapter-unlock areas. Fifteen historical universal screens remain: `0011–0013`, `0015–0018`, `0020–0025`, `0027–0028`; next EVENT_0011. Forward N25 EVENT_0090 / next EVENT_0091 and its tuple remain unchanged. No global human successor, permanent fear cure, confirmed STANDOUT debut or principal-human R3 package is certified.
 
@@ -1152,3 +1162,7 @@ The frozen review group includes eight core chapters, ten card halves and eight 
 ### EVENT_0010 source and reconstruction review
 
 The verified group contains eight core chapters, ten card halves and seven chapter-unlock area conversations with null publication timestamps. Bounded reports covered 21 core, 20 card and 7 area scenes, totaling 1,338 records. Root reconciled every human unit and School manifestation before impact. Honami's new care-and-choice model is I3 operative because her feared class statement is enacted and she later speaks under a distinct recalled fear; P04 human/company defaults remain. Emu's survey and school companionship are a present extension of an existing cross-unit relationship. The gold result is retrospective, and Shiho's STANDOUT invitation has no answer. Seven lenses, ordinary behavior and individual knowledge holders appear in the full reading. No principal-human package or forward-frontier change is certified.
+
+### EVENT_0011 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves and fifteen linked areas with null publication timestamps and chapter-8 unlock `101008`. Bounded reports cover 16 core, 11 card and 15 area scenes, totaling 1,480 records. Root reconciled every human unit and Stage manifestation before impact. Shizuku's I3 is operative because she chooses the unedited present self, enacts that choice before a mixed audience, receives specific support and then authors a possible future program; four MS-04 humans and GROUP-06 remain. The group actually conducts three streams, while future infrastructure and show formats remain plans. Seven lenses, ordinary behavior, source chronology and individual knowledge holders appear in the full reading. No principal-human package or forward-frontier change is certified.
