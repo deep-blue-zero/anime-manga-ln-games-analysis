@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V008
-row_count: 41
-state: CURRENT_THROUGH_V008
+inspected_through_volume: V009
+row_count: 46
+state: CURRENT_THROUGH_V009
 ```
 
 ## Records
@@ -83,3 +83,8 @@ state: CURRENT_THROUGH_V008
 | RAG-TXN-039 | Ruka and Kazuya; sexual escalation, refusal, and kiss | No new agreement authorizes sex or the morning kiss. | Ruka displays condoms and presses intimacy; Kazuya refuses; she later initiates a kiss. | No sex occurs, and no advance agreement to the kiss is shown. | Makes the nonreciprocal status materially visible and creates a secrecy burden; RAG-E-V008-012 through RAG-E-V008-014. |
 | RAG-TXN-040 | Kazuya and Sumi; birthday-advice booking | Kazuya purchases two hours of Sumi's provider time to seek gift advice for Chizuru. | He discloses the purpose; Sumi voluntarily supplies active guidance within the booking. | Paid girlfriend-role behavior does not establish private romance or ownership of Chizuru's information. | Turns a rental date into an information and gift-support channel; RAG-E-V008-015, RAG-E-V008-016. |
 | RAG-TXN-041 | Kazuya, Sumi, and Chizuru; personal information for gift search | Sumi reports a known preference and helps evaluate options; no separate compensation beyond the booking is shown. | Her writing, gestures, choices, and contact exceed passive response while serving the declared task. | The final gift and Chizuru's consent or reaction remain unknown. | Personal knowledge passes through compensated labor without completing the gift exchange; RAG-E-V008-016. |
+| RAG-TXN-042 | Kazuya and Sumi; completed birthday-advice booking | Kazuya pays 17,000 yen for the two-hour service; Sumi performs, advises, asks his birthday, and records it. | Both use the booking for declared practical help beyond simulated romance. | Payment authorizes provider time, not a promise of later private birthday action. | Produces the gift choice and transfers June 1 knowledge; RAG-E-V009-001, RAG-E-V009-002. |
+| RAG-TXN-043 | Kazuya and Chizuru; birthday gift and written reassurance | A 2,500-yen gift is left outside her door without a new booking or reciprocal term. | Kazuya chooses a low-pressure practical object; Chizuru voluntarily accepts, eats, and thanks him. | The gift creates no entitlement, and the Ruka postscript is incomplete disclosure. | Converts paid advice into acknowledged unpriced care; RAG-E-V009-003, RAG-E-V009-004. |
+| RAG-TXN-044 | Kazuya and Chizuru; identity protection and crisis care | No agreement requires Kazuya to drink or Chizuru to escort and tend him. | He voluntarily protects the campus identity; she voluntarily stays, enters his apartment, and supplies bodily care. | Protective motive does not authorize self-harm or obligate her care. | The cover survives at the cost of intoxication, vomiting, and next-day concern; RAG-E-V009-005 through RAG-E-V009-009. |
+| RAG-TXN-045 | Chizuru and Kazuya; follow-up medicine and LINE access | No payment governs the remedy; group architecture exposes her contact profile. | Chizuru leaves medicine, while Kazuya chooses to add her without asking. | Care is voluntary, but technical availability is not consent to unrestricted messaging. | Expands non-booking access while producing an explicit boundary objection; RAG-E-V009-010, RAG-E-V009-011. |
+| RAG-TXN-046 | Ruka, Kazuya, and Mami; claimed girlfriend and sexual status | The actual relation remains a provisional trial with no completed official conversion and no sex. | Ruka voluntarily declares love and priority but adds a false sexual claim; Kazuya corrects her. | Neither unilateral speech nor provisional status creates mutual agreement or retroactive consent. | Mami receives the contradiction and begins integrating it with rental evidence; RAG-E-V009-012 through RAG-E-V009-015. |

@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V008
-row_count: 36
-state: CURRENT_THROUGH_V008
+inspected_through_volume: V009
+row_count: 40
+state: CURRENT_THROUGH_V009
 ```
 
 ## Records
@@ -78,3 +78,7 @@ state: CURRENT_THROUGH_V008
 | RAG-CHR-034 | RAG-E-V008-009 through RAG-E-V008-013 | Roughly two months into the provisional relationship, Ruka visits Kazuya's university, leads shopping and cooking, and remains overnight when a storm disrupts travel. | Explicit elapsed-duration statement plus same-day and overnight order. | The exact calendar date is not printed in the admitted evidence. |
 | RAG-CHR-035 | RAG-E-V008-014 | At the morning departure after the storm night, Ruka initiates a kiss. | Explicit next-morning placement. | No official-status change or mutual agreement follows within V008. |
 | RAG-CHR-036 | RAG-E-V008-015, RAG-E-V008-016 | Near Chizuru's April 19 birthday, Kazuya learns the date from her profile and begins a two-hour Sumi booking for gift advice. | Birthday date is explicit; the encounter follows the overnight sequence. | The volume ends before the date and gift selection finish. |
+| RAG-CHR-037 | RAG-E-V009-001 through RAG-E-V009-004, RAG-E-V009-016 | The Sumi booking continues through a hero show and gift advice; Kazuya reports June 1 as his birthday, selects the gift, and delivers it for Chizuru's birthday. | Sumi's phone explicitly records `2018/06/01`; Chizuru's April 19 birthday remains the surrounding gift anchor. | The device anchor does not assign an exact date to every page; gift selection follows advice and precedes Chizuru's thanks. |
+| RAG-CHR-038 | RAG-E-V009-005 through RAG-E-V009-009 | At a later Wednesday university drinking event, the audience collision and drinking game precede Kazuya's intoxication and Chizuru's overnight escort and care. | Wednesday is stated in the scheduling dialogue; same-evening order is explicit. | Exact calendar date and duration of care are not printed. |
+| RAG-CHR-039 | RAG-E-V009-010, RAG-E-V009-011 | The next morning, hangover memories and the new group LINE lead Kazuya to add Ichinose; Chizuru later leaves medicine. | Next-morning placement and event order are explicit. | The precise interval between their conversation and the delivered remedy is unstated. |
+| RAG-CHR-040 | RAG-E-V009-012 through RAG-E-V009-015 | Mami's karaoke visit and Ruka confrontation precede Mami's train ride, where she sees Chizuru on a rental date. | Continuous ordered sequence; exact date unknown. | V009 ends at mutual recognition before Mami's next action. |

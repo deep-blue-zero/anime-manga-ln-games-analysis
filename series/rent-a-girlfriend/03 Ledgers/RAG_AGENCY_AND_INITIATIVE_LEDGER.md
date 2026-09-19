@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V008
-row_count: 51
-state: CURRENT_THROUGH_V008
+inspected_through_volume: V009
+row_count: 57
+state: CURRENT_THROUGH_V009
 ```
 
 ## Records
@@ -93,3 +93,9 @@ state: CURRENT_THROUGH_V008
 | RAG-AGY-049 | Kazuya | Treat provisional status and storm lodging as sexual permission or refuse. | Refuses sex despite attraction and pressure; no sex occurs. | Preserves the consent boundary without pretending reciprocal love. | He continues the unresolved provisional relation; RAG-E-V008-012, RAG-E-V008-013. |
 | RAG-AGY-050 | Kazuya | Guess at a birthday gift, ignore the date, or seek informed help. | Uses Chizuru's profile birthday and books Sumi for two hours to ask for advice. | Converts limited knowledge into a paid information-gathering plan. | The gift is not selected by the cutoff; RAG-E-V008-015. |
 | RAG-AGY-051 | Sumi | Remain a passive respondent or lead the purpose-specific booking. | Uses speech, writing, gesture, shopping choices, and initiated arm contact to guide Kazuya and share a known preference. | Advances the birthday search and demonstrates increased initiative. | Communication remains effortful and the date is paid; RAG-E-V008-016. |
+| RAG-AGY-052 | Sumi | End the gift consultation with general advice or make it personally actionable. | Performs in a hero show, writes a gift principle, asks Kazuya's birthday, and records June 1. | Completes the birthday-help purpose and opens a possible future follow-up. | Shyness remains visible, and recording a date does not promise action; RAG-E-V009-001, RAG-E-V009-002. |
+| RAG-AGY-053 | Kazuya | Choose a conspicuous gift, abandon the plan, or give bounded practical support. | Spends 2,500 yen on premium pickled plums after a 17,000-yen consultation and leaves them at Chizuru's door with a card. | Supports Chizuru's acting fatigue without requiring immediate access or response. | Considerate purpose does not buy reciprocity; the note gives only a partial Ruka account; RAG-E-V009-003, RAG-E-V009-004. |
+| RAG-AGY-054 | Kazuya | Tolerate resemblance scrutiny, disclose the truth, or redirect the drinking game. | Repeatedly accepts losses and drinks to protect Ichinose's campus identity. | The identity remains unexposed, but he becomes incapacitated and transfers the bodily cost to Chizuru's care. | Protective intent does not make the method necessary or competent; RAG-E-V009-005 through RAG-E-V009-009. |
+| RAG-AGY-055 | Chizuru | Leave with the group or assist the person who overdrank for her cover. | Stays, escorts Kazuya home, tends him while he vomits, and later leaves hangover medicine. | Protects his immediate health and confirms chosen follow-up care. | Care remains bounded and verbally minimized; RAG-E-V009-008, RAG-E-V009-009, RAG-E-V009-011. |
+| RAG-AGY-056 | Ruka | Let Kazuya explain the provisional relation or assert priority to Mami. | Claims current-girlfriend status, falsely claims sex, challenges Mami, and repeats her love after doubt. | Forces the trial relation into Mami's knowledge and intensifies public rivalry. | Kazuya immediately corrects both status and sexual fact; RAG-E-V009-012 through RAG-E-V009-014. |
+| RAG-AGY-057 | Mami | Treat the workplace account as settled or examine its contradictions. | Questions Ruka's rental knowledge and claimed status, reflects afterward, and attends to Chizuru when she appears on a rental date. | Gains direct evidence that reconnects Kazuya's two claimed relationships to the service system. | Her next action and desired endpoint remain unknown; RAG-E-V009-014, RAG-E-V009-015. |

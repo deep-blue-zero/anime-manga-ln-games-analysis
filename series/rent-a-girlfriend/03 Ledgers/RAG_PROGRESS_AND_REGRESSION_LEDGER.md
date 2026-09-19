@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V008
-row_count: 47
-state: CURRENT_THROUGH_V008
+inspected_through_volume: V009
+row_count: 52
+state: CURRENT_THROUGH_V009
 ```
 ```
 
@@ -90,3 +90,8 @@ state: CURRENT_THROUGH_V008
 | RAG-PRG-045 | Kazuya support | GAIN — he states a desire to see Chizuru's dream fulfilled and internally treats the purpose as real across labels. | V007's abstract resolution becomes direct communication. | Mutual status and sustained implementation remain unresolved. | RAG-E-V008-006, RAG-E-V008-008 |
 | RAG-PRG-046 | Ruka-Kazuya provisional relation | MIXED_CHANGE — ordinary-date effort and domestic access expand, but sexual pressure, refusal, and a unilateral kiss expose the lack of reciprocity. | More shared conduct does not convert the label into agreement. | Ruka's effort and Kazuya's attraction are real but insufficient. | RAG-E-V008-009 through RAG-E-V008-014 |
 | RAG-PRG-047 | Sumi communication and agency | GAIN — she leads a purpose-specific booking through speech, writing, gesture, choices, and initiated contact. | V006's small expressive breakthrough persists into useful guidance. | Communication remains visibly effortful and the encounter is unfinished. | RAG-E-V008-015, RAG-E-V008-016 |
+| RAG-PRG-048 | Sumi communication and agency | SUSTAINED_GAIN — performance, written advice, a direct birthday question, and calendar entry complete the gift-help purpose. | Her guidance now produces an actionable gift and new personal knowledge. | Shyness and effort remain visible; independent long-term competence is untested. | RAG-E-V009-001, RAG-E-V009-002 |
+| RAG-PRG-049 | Kazuya practical support | GAIN_WITH_COST — he completes the birthday gift and links it to acting fatigue after purchasing advice. | Support becomes a delivered low-pressure object with acknowledged usefulness. | The total 19,500-yen cost and need for Sumi's help show limited ordinary knowledge and financial burden. | RAG-E-V009-003, RAG-E-V009-004 |
+| RAG-PRG-050 | Kazuya boundary and protection conduct | MIXED — he protects Chizuru's campus identity but does so through dangerous overdrinking. | The cover survives and Chizuru recognizes his purpose. | The method incapacitates him and imposes avoidable care work. | RAG-E-V009-005 through RAG-E-V009-009 |
+| RAG-PRG-051 | Kazuya-Chizuru private access | MATERIAL_GAIN_WITH_BOUNDARY — escort, bathroom care, medicine, and direct LINE access expand non-booking contact. | Chizuru chooses immediate and follow-up care. | She verbally limits interpretation and objects to the unsolicited add; no mutual status change occurs. | RAG-E-V009-008 through RAG-E-V009-011 |
+| RAG-PRG-052 | Ruka-Kazuya provisional relation | REGRESSION_IN_PUBLIC_ACCURACY — Ruka asserts current-girlfriend status and invents sexual completion after Kazuya corrects the trial label. | Mami now knows the unresolved relation and Ruka's sincere claim. | Declarative insistence widens the gap between Ruka's desired status and mutual agreement. | RAG-E-V009-012 through RAG-E-V009-014 |

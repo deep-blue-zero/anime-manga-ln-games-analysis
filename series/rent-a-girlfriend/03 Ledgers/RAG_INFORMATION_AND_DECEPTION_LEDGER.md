@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V008
-row_count: 42
-state: CURRENT_THROUGH_V008
+inspected_through_volume: V009
+row_count: 49
+state: CURRENT_THROUGH_V009
 ```
 
 ## Records
@@ -84,3 +84,10 @@ state: CURRENT_THROUGH_V008
 | RAG-INF-040 | Ruka stays overnight because of the storm, presses for sex, receives refusal, and kisses Kazuya in the morning. | Kazuya and Ruka know the event; Chizuru is not shown receiving it. | Private-space event followed by a likely secrecy burden. | The event establishes neither sex nor reciprocal love. | RAG-E-V008-011 through RAG-E-V008-014. |
 | RAG-INF-041 | Chizuru's profile lists an April 19 birthday, and Kazuya hires Sumi to help select a present. | Kazuya learns the date from the platform; Sumi learns his gift purpose when he explains it. | Public-facing profile metadata initiates a separate paid booking. | Chizuru is not shown knowing of the gift plan. | RAG-E-V008-015. |
 | RAG-INF-042 | Sumi reports that Chizuru likes *Romance of the Three Kingdoms* and supplies other shopping guidance. | Kazuya receives her direct report during the paid date. | Writing, gesture, and speech transfer personal information through a trusted colleague. | The accuracy, scope, and final use of the preference remain to be tested. | RAG-E-V008-016. |
+| RAG-INF-043 | Kazuya's birthday is June 1, and Sumi records a June 1, 2018 event. | Sumi asks directly; Kazuya answers; her phone supplies the date display. | Purpose-specific paid contact becomes a new personal-information path. | A recorded event does not establish later action; RAG-E-V009-002, RAG-E-V009-016. |
+| RAG-INF-044 | Chizuru receives a practical gift selected for acting fatigue and a claim that Kazuya and Ruka have not had sex. | The package and card communicate both propositions; Chizuru later thanks him and says she believes the sexual reassurance. | Material gift and written postscript compress career care and triangle management. | The note omits the overnight kiss and does not give a complete account; RAG-E-V009-003, RAG-E-V009-004. |
+| RAG-INF-045 | University friends know Kazuya and Ichinose share the sea-rescue history but do not know the rental or neighbor relationship. | Kazuya and Chizuru improvise a partial true account at the drinking event. | Selective disclosure stabilizes an unexpected audience collision. | Resemblance scrutiny threatens the cover, but peers do not complete the identity inference; RAG-E-V009-005, RAG-E-V009-006. |
+| RAG-INF-046 | Chizuru knows Kazuya deliberately overdrank to protect Ichinose's identity and hears his extreme protection motive. | She observes the drinking pattern and later receives his intoxicated explanation while caring for him. | Concealed purpose becomes direct but impaired speech. | The friend group does not receive the motive or rental truth; RAG-E-V009-007 through RAG-E-V009-009. |
+| RAG-INF-047 | Kazuya gains direct LINE access to Ichinose through the university group. | Group membership exposes the profile, and he adds her without asking. | Social-platform architecture bypasses booking and neighbor channels. | Chizuru objects; access does not equal permission for unrestricted contact; RAG-E-V009-010. |
+| RAG-INF-048 | Mami learns that Ruka claims to be Kazuya's current girlfriend, knows rental-girlfriend context, and claims sex; Kazuya denies official and sexual completion. | Workplace dialogue gives Mami the competing assertions directly. | Rival public speech creates an inconsistent information set. | Mami cannot yet verify every component; RAG-E-V009-012 through RAG-E-V009-014. |
+| RAG-INF-049 | Mami directly sees Chizuru performing a rental date after reflecting on the inconsistent Ruka account. | Train encounter supplies visual confirmation and mutual recognition. | Independent observation reconnects Chizuru's occupation to Kazuya's relationship network. | The sighting establishes no next action or final motive; RAG-E-V009-015. |

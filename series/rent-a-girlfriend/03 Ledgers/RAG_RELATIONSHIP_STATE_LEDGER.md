@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V008
-row_count: 45
-state: CURRENT_THROUGH_V008
+inspected_through_volume: V009
+row_count: 50
+state: CURRENT_THROUGH_V009
 ```
 ```
 
@@ -88,3 +88,8 @@ state: CURRENT_THROUGH_V008
 | RAG-REL-043 | Ruka → Kazuya | Provisional girlfriend escalating ordinary and private access | She enters his university setting, creates a shopping-and-cooking date, stays during the storm, and presses physical intimacy. | The relationship gains domestic and overnight experience. | Kazuya does not reciprocate love or consent to sex. | RAG-E-V008-009 through RAG-E-V008-013 |
 | RAG-REL-044 | Kazuya → Ruka | Nonreciprocal provisional partner enforcing a sexual limit | He recognizes her effort and attractiveness but refuses sex. | Consent remains separate from label and lodging. | He does not terminate or clearly resolve the provisional relation; Ruka later initiates a kiss. | RAG-E-V008-012 through RAG-E-V008-014 |
 | RAG-REL-045 | Kazuya ↔ Sumi | Paid provider-client relation repurposed for birthday help | Kazuya books Sumi for gift advice; she actively guides the date and shares a Chizuru preference. | Prior practice trust supports useful paid collaboration. | The encounter remains compensated and does not establish private romance. | RAG-E-V008-015, RAG-E-V008-016 |
+| RAG-REL-046 | Kazuya ↔ Sumi | Completed paid gift collaboration with new personal knowledge | Sumi performs, supplies a gift principle, asks Kazuya's birthday, and records it; Kazuya acts on the consultation. | Prior practice-client trust now supports reciprocal information flow within the booking. | The relation remains paid, and the calendar entry promises no later intimacy. | RAG-E-V009-001, RAG-E-V009-002 |
+| RAG-REL-047 | Kazuya → Chizuru | Practical birthday giver and partial triangle informant | He delivers a fatigue-oriented gift and says he and Ruka have not had sex. | Chizuru accepts the object, thanks him, and says she believes the reassurance. | The note omits the kiss and grants neither romantic status nor full transparency. | RAG-E-V009-003, RAG-E-V009-004 |
+| RAG-REL-048 | Chizuru → Kazuya | Unpriced crisis carer with interpretive boundary | She recognizes his protective drinking, escorts him, tends him while sick, and leaves medicine. | Non-booking care expands materially into his apartment and the next day. | She criticizes the method, minimizes interpretation, and does not acknowledge romance. | RAG-E-V009-007 through RAG-E-V009-011 |
+| RAG-REL-049 | Ruka → Kazuya / Mami | Provisional partner claiming completed current status | Ruka tells Mami she is Kazuya's current girlfriend and that they have had sex, then repeats her love after challenge. | The private trial becomes public rivalry and an asserted exclusive claim. | Kazuya denies sex and corrects the relation as provisional; mutual love remains absent. | RAG-E-V009-012 through RAG-E-V009-014 |
+| RAG-REL-050 | Mami → Kazuya / Chizuru / Ruka | Former partner and informed observer reconnecting the triangle | Mami visits Kazuya's workplace, questions Ruka's account, and then sees Chizuru on a rental date. | Separate observations now form one actionable relationship map. | Her desired outcome and next conduct remain unknown. | RAG-E-V009-012 through RAG-E-V009-015 |

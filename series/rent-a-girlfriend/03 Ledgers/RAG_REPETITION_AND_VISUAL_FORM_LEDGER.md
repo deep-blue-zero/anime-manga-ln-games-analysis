@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V008
-row_count: 44
-state: CURRENT_THROUGH_V008
+inspected_through_volume: V009
+row_count: 49
+state: CURRENT_THROUGH_V009
 ```
 
 ## Records
@@ -86,3 +86,8 @@ state: CURRENT_THROUGH_V008
 | RAG-FRM-042 | A morning kiss converts an unconsummated night into a unilateral intimacy marker. | Ruka initiates contact at departure after Kazuya's refusal. | The compact doorway beat supplies a decisive visual event after the longer night sequence. | The kiss changes secrecy and rivalry stakes but does not establish mutuality; RAG-E-V008-014. |
 | RAG-FRM-043 | Profile metadata turns into a personal gift problem. | A platform birthday field motivates Kazuya to purchase another provider's help. | Screen information redirects focalization from service listing to private planning. | Commercial infrastructure produces personal action without erasing either transaction; RAG-E-V008-015. |
 | RAG-FRM-044 | Sumi's silence shifts from deficit to active leadership. | She remains shy but uses writing, gesture, shopping trials, and touch to direct Kazuya. | Sparse speech is distributed across notes, poses, object choices, and physical redirection. | Communication difficulty persists while agency increases; RAG-E-V008-016. |
+| RAG-FRM-045 | A written gift note compresses care and rivalry. | The pickled plums signify practical acting support while the postscript denies sex with Ruka. | Package, card, food close-ups, and Chizuru's private reaction join vocational care to triangle management. | One object carries two messages without completing romantic or sexual disclosure; RAG-E-V009-003, RAG-E-V009-004. |
+| RAG-FRM-046 | Glasses and resemblance talk make compartmentalized identity visually unstable. | Campus Ichinose is scrutinized against the friends' image of Mizuhara during an accidental gathering. | Removing glasses, facial close-ups, and comparison dialogue place recognition just short of completion. | Audience collision raises risk without producing full exposure; RAG-E-V009-005, RAG-E-V009-006. |
+| RAG-FRM-047 | Protective repetition becomes bodily collapse and reversed care. | Kazuya repeatedly loses the drinking game, then Chizuru supports and tends the person protecting her. | Comic game rhythm gives way to apartment and bathroom bodily detail. | Sincere protection is shown together with preventable self-harm and burden; RAG-E-V009-007 through RAG-E-V009-009. |
+| RAG-FRM-048 | A small remedy object verifies an uncertain night. | Fragmentary hangover memory is followed by medicine outside Kazuya's door. | Dreamlike recall and object close-up turn ambiguous memory into material evidence. | Verification establishes care, not a unique motive or status; RAG-E-V009-010, RAG-E-V009-011. |
+| RAG-FRM-049 | A workplace claim becomes a train-window cliffhanger. | Ruka's contradictory status account primes Mami to interpret Chizuru's visible rental performance. | Interrogative interior text, transit framing, mutual recognition, and a final close-up convert thought into direct evidence. | Observation creates a V010 action question while motive remains withheld; RAG-E-V009-012 through RAG-E-V009-015. |

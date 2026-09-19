@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; character evidence inspected through V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; character evidence inspected through V009."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V008
+inspected_through_volume: V009
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -88,6 +88,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E048 | KAZ-S010 | RAG-E-V008-006 through RAG-E-V008-008 | Direct support speech and interior clarification | Says he wants Chizuru's dream fulfilled and wants to support her, then internally treats that purpose as real across relationship labels. | Converts the V007 resolution into direct communication. | Chizuru re-bounds the wording through rental service; he does not directly confess love to her. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R008 |
 | RAG-KAZ-E049 | KAZ-S010 | RAG-E-V008-009 through RAG-E-V008-014 | Provisional relationship, attraction, refusal, and received kiss | Participates in Ruka's ordinary-date and storm-overnight sequence, recognizes her effort and attractiveness, but refuses sex before receiving her morning kiss. | Keeps sexual consent separate from provisional status and physical opportunity. | He does not clearly end or resolve the asymmetric relationship, and no prior agreement to the kiss is shown. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R007 |
 | RAG-KAZ-E050 | KAZ-S010 | RAG-E-V008-015, RAG-E-V008-016 | Planning, spending, and information seeking | Learns Chizuru's birthday from her profile and books Sumi for two hours to seek gift advice. | Uses a formal transaction to reduce his lack of ordinary knowledge. | The gift choice and delivery are unresolved; the booking does not become private romance with Sumi. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R008 |
+| RAG-KAZ-E051 | KAZ-S011 | RAG-E-V009-001 through RAG-E-V009-004 | Gift planning completed; spending, acting support, and partial disclosure | Uses Sumi's principle to choose a 2,500-yen practical gift after a 17,000-yen booking, connects it to acting fatigue, and adds that he and Ruka have not had sex. | Converts vocational concern into a low-pressure delivered object and written reassurance. | Cost remains high, ordinary preference knowledge is limited, and the note omits the morning kiss. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R007, RAG-KAZ-R008 |
+| RAG-KAZ-E052 | KAZ-S011 | RAG-E-V009-005 through RAG-E-V009-009 | Audience collision, deliberate intoxication, protection, and care received | Helps improvise the sea-rescue account, repeatedly drinks to divert scrutiny from Ichinose, and later says he thought he had to protect her even if he died. | Acts decisively for another person's privacy under peer pressure. | The method is reckless, incapacitates him, and imposes avoidable bodily care on Chizuru. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
+| RAG-KAZ-E053 | KAZ-S011 | RAG-E-V009-010, RAG-E-V009-011 | Memory uncertainty, digital access, and boundary testing | Adds Ichinose through the new group LINE without asking and uses the later medicine as evidence that remembered care was real. | Turns audience collision into a direct communication channel and a hopeful interpretation. | Chizuru objects to the add and verbally limits the care's meaning. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R005 |
+| RAG-KAZ-E054 | KAZ-S011 | RAG-E-V009-012 through RAG-E-V009-015 | Workplace collision, correction, and loss of information control | Tries to keep Mami and Ruka's connection vague, then corrects Ruka's official-status and sex claims before Mami later sees Chizuru at work. | Supplies factual correction once Ruka's assertion becomes explicit. | Initial evasion fails, and he does not control Mami's subsequent observation or inference. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
 
 ## State-change summary
 
@@ -101,6 +105,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S008 — adaptive helper and explicit but unresolved chooser:** completes Sumi's practice date through responsive support, faces threatened loss of Chizuru's paid availability, nearly formalizes the Ruka trial from duty, accepts responsibility during Mami's confrontation, and finally states that Chizuru is the person he wants.
 - **KAZ-S009 — practical supporter under private access:** retreats when Chizuru directly tests his statement, then supports her after casting loss, protects her occupational privacy at bodily cost, accepts unpriced ordinary and family access, tells Sayuri he loves Chizuru, and resolves to support without requiring boyfriend status.
 - **KAZ-S010 — status-independent supporter under consent and planning tests:** gives temporary shelter and restraint, receives Chizuru's family history, states vocational support, refuses sex during Ruka's overnight escalation, and uses a Sumi booking to plan Chizuru's birthday gift.
+- **KAZ-S011 — practical giver and reckless identity protector under widening observation:** completes the acting-linked birthday gift, gives Chizuru a partial Ruka reassurance, protects her campus identity through dangerous overdrinking, receives unpriced care and direct LINE access, and corrects Ruka's false public status claims before Mami sees Chizuru working.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -123,14 +128,16 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - V008 tests that support in conduct: temporary shelter and a request to move preserve Chizuru's practical boundary, while his direct support statement survives her rental-role rebounding (RAG-E-V008-001, RAG-E-V008-002, RAG-E-V008-006 through RAG-E-V008-008).
 - With Ruka, he can refuse sex despite attraction, status pressure, condoms, and an overnight setting; he still leaves the provisional relation unresolved (RAG-E-V008-012 through RAG-E-V008-014).
 - Booking Sumi for birthday advice shows purpose-specific planning and information seeking through a formal service channel (RAG-E-V008-015, RAG-E-V008-016).
+- V009 completes that plan and shows both sides of protection: a carefully bounded gift and a reckless drinking strategy that transfers cost to Chizuru (RAG-E-V009-003, RAG-E-V009-004, RAG-E-V009-007 through RAG-E-V009-009).
+- When Ruka publicly overstates their relation, Kazuya corrects both official status and sexual history, although his earlier attempt to keep Mami uninformed still follows the concealment pattern (RAG-E-V009-012 through RAG-E-V009-014).
 
 ## Gaps and negative evidence
 
 - Paid employment is routine enough in V005 to produce first wages and a repair plan, but long-duration competence and independence from relationship pressure remain insufficiently sampled.
 - Competence outside relationship crisis remains underobserved.
-- Eight volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
+- Nine volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
-- Direct preference, love, and support for Chizuru are now spoken to different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
+- Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 
 ## Update rule
