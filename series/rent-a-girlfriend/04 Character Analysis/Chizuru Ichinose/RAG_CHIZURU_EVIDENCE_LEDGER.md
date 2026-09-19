@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; character evidence inspected through V003."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; character evidence inspected through V004."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V003
+inspected_through_volume: V004
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -61,6 +61,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E019 | CHI-S005 | RAG-E-V003-008 | Shared-space permission and direct boundary | Lets Kazuya sleep in the room, explains it through customer treatment, and threatens legal action if he touches her. | Grants the practical exception and states its consent limit in the same scene. | Customer language may be complete, partial, or defensive; permission is not romance. | RAG-CHI-R001, RAG-CHI-R004 |
 | RAG-CHI-E020 | CHI-S005 | RAG-E-V003-009, RAG-E-V003-010 | Negotiation and service policy; chosen continuation | Agrees to “a little longer,” permits other rentals, and makes a real girlfriend the condition for reporting a breakup. | Converts personal ambiguity into a legible, nonexclusive service rule. | The rule is untested against a concrete new partner. | RAG-CHI-R004 |
 | RAG-CHI-E021 | CHI-S005 | RAG-E-V003-013, RAG-E-V003-014 | Identity threat and cover performance | Deflects Ruka's accusation, stages a brochure-blocked kiss, and exits with a family explanation once the cover is temporarily preserved. | Uses the available role while withholding direct intimate contact. | The test is imposed by Ruka; cover participation is not private romantic acknowledgment. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R006 |
+| RAG-CHI-E022 | CHI-S006 | RAG-E-V004-003, RAG-E-V004-004, RAG-E-V004-005 | Rival claim, exit policy, and advice; operational ethics | Hears Ruka's demand, asks whether Kazuya likes her, applies the real-girlfriend exit rule, and encourages the trial. | Converts an identity threat into a possible closure route. | Her privacy and the grandmothers' fiction benefit; Ruka's coerced leverage complicates the solution. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R006 |
+| RAG-CHI-E023 | CHI-S006 | RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013 | Confrontation and vocational disclosure | Confronts Kazuya after discovering his surveillance and explains that Umi is an acting-school colleague, that she wants to become an actress, and that rental work funds and trains her. | Corrects the false boyfriend inference through concrete identity, money, and career facts. | Direct goal evidence does not provide a broad interior monologue or future outcome. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R007 |
+| RAG-CHI-E024 | CHI-S006 | RAG-E-V004-014 | Off-contract gift and gratitude | Asks Kazuya to wait and gives him a fish-patterned phone case selected from the Shimoda damage, citing their secret and his help. | Initiates a personalized unpriced exchange after confrontation and correction. | Gratitude, reciprocity, guilt, care, and possible personal investment remain incompletely ranked. | RAG-CHI-R004, RAG-CHI-R007 |
+| RAG-CHI-E025 | CHI-S006 | RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018 | Gift boundary, direct inquiry, advice, and service conduct | Receives Kazuya's return gift during a booking, asks whether he likes Ruka, urges serious restrained treatment, calls herself only a rental girlfriend, and leads the paid handholding. | Separates the ethical duty toward Ruka and the personal gift exchange from the service frame. | The role assertion does not uniquely establish either jealousy or emotional absence. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007 |
 
 ## State-change summary
 
@@ -69,8 +73,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S003 — bounded recurring collaborator:** neighboring residence, both grandmothers, a Wednesday contract, and a peer audience now condition her choices; she preserves compartmentalization while making limited exceptions.
 - **CHI-S004 — identity-collision participant under announced closure:** the Izu overlap joins campus, rental, friend, and former-partner audiences; she enforces payment, accepts a friend-mediated final ride, reiterates the job frame, and ends V002 unconscious after falling overboard.
 - **CHI-S005 — reciprocal rescuer under renewed terms and provider exposure:** she survives, revives Kazuya, learns his rescue action, navigates a family-engineered trip, grants bounded continuation, and is identified by another rental provider.
+- **CHI-S006 — acting student under personal reciprocity and a provisional triangle:** she operationalizes the real-girlfriend exit rule, reveals acting as her career goal and rental work as funding and practice, gives Kazuya a personalized off-contract gift, and demands responsible treatment of Ruka.
 
-The transitions are primarily context, knowledge, and relationship changes. V001-V003 do not establish a disposition change or romantic self-recognition.
+The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V004 do not establish a disposition change or romantic self-recognition.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -78,17 +83,18 @@ The transitions are primarily context, knowledge, and relationship changes. V001
 - Boundary register is direct, often imperative, and grounded in concrete consequences or rules (RAG-E-V001-005, RAG-E-V001-007, RAG-E-V001-009).
 - Family-facing speech is adaptive and face-preserving; she can improvise a shared explanation quickly (RAG-E-V001-003, RAG-E-V001-006).
 - Moral objection is concise and audience-aware rather than confessional (RAG-E-V001-013).
-- Ordinary evidence expands to travel with female university friends and seasickness/illness management, but hobbies, study routine, close-friend speech, and long-duration work practice remain underobserved.
+- Ordinary evidence expands to travel with female university friends, seasickness/illness management, acting-school peers, script work, and shopping, but hobbies, study routine, close-friend speech, and long-duration acting practice remain underobserved.
 - Positive appraisal is often followed by a role qualifier or endpoint rather than left open to personal interpretation (RAG-E-V002-006, RAG-E-V002-013, RAG-E-V002-015).
 - V003 extends that pattern to rescue, shared lodging, continued access, and a staged kiss: she pairs each with girlfriend, customer, touch, duration, or exit language (RAG-E-V003-003, RAG-E-V003-008, RAG-E-V003-009, RAG-E-V003-010, RAG-E-V003-013).
+- V004 supplies direct vocational language and an unpriced personal gift, then pairs the return exchange and handholding with provider-client and Ruka-responsibility language (RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018).
 
 ## Gaps and negative evidence
 
-- V001-V003 give no sustained first-person account of her goals, self-model, or reason for needing the job.
+- V004 establishes acting as a named goal and rental work as income and practice, but still gives no sustained first-person self-model or broad account of why this career matters to her.
 - She knows the rescue occurred, but gives no direct private evaluation of Kazuya's motive or her own feeling.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
-- No broad rule yet supports behavior with close friends, teachers, coworkers, or a mutually acknowledged partner.
+- No broad rule yet supports behavior with close friends, teachers, coworkers beyond Umi, or a mutually acknowledged partner.
 - The ledger supports no split-personality reading between “Mizuhara” and “Ichinose.”
 
 ## Update rule

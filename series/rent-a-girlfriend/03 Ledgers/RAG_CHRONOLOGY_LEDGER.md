@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V003
-row_count: 14
-state: CURRENT_THROUGH_V003
+inspected_through_volume: V004
+row_count: 18
+state: CURRENT_THROUGH_V004
 ```
 
 ## Records
@@ -56,3 +56,7 @@ state: CURRENT_THROUGH_V003
 | RAG-CHR-012 | RAG-E-V003-006, RAG-E-V003-007, RAG-E-V003-009 | The pair plan a weekend breakup disclosure; the grandmothers' hot-spring trip displaces it, and the shared night ends in a narrow rental extension. | Same-weekend sequence explicit; the trip coincides with the anniversary of Sayuri's husband's death. | The disclosure is not completed before the extension. |
 | RAG-CHR-013 | RAG-E-V003-010, RAG-E-V003-012 | After the trip, Chizuru states the real-girlfriend exit policy; Kuribayashi then arranges a double date for the following Saturday. | Relative sequence and weekday are explicit; absolute date unknown. | Ruka's first accidental encounter with Kazuya precedes her formal introduction. |
 | RAG-CHR-014 | RAG-E-V003-013, RAG-E-V003-014, RAG-E-V003-015, RAG-E-V003-016 | During and after the double date, Ruka identifies the rental secret, tests the couple, confronts Kazuya, is caught during a fall, and discloses that she is also a rental girlfriend. | Same-day sequence explicit. | V003 ends before Ruka explains her arrangement or future action. |
+| RAG-CHR-015 | RAG-E-V004-001, RAG-E-V004-003, RAG-E-V004-005 | Ruka explains the Kuribayashi rental, conditions secrecy on dating, and accepts a provisional relationship after Chizuru invokes the real-girlfriend rule. | The status change is explicitly dated 2017-10-31 at 17:29. | The preceding confrontation and request occur before that timestamp; the trial does not imply mutual love. |
+| RAG-CHR-016 | RAG-E-V004-008, RAG-E-V004-009 | During the month after the trial begins, Ruka messages frequently and has weekly dates with Kazuya; by winter she visits his university and arranges a Saturday movie before Christmas. | Explicit one-month passage followed by seasonal and relative-date anchors. | Exact dates for intervening weekly meetings are not stated. |
+| RAG-CHR-017 | RAG-E-V004-010, RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-014 | On December 24, Kazuya recognizes financial pressure, follows Chizuru and Umi, learns of her acting goal, apologizes, and receives a personalized Christmas gift. | Christmas Eve is explicit; same-day sequence is continuous. | The precise elapsed hours are not needed to establish order. |
+| RAG-CHR-018 | RAG-E-V004-015, RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-019 | After Christmas, Kazuya begins karaoke work and later books Chizuru to return a gift; Ruka intercepts him after the date and takes him into a karaoke room. | Relative ordering is explicit; exact date unknown. | V004 ends before the private-room encounter resolves. |

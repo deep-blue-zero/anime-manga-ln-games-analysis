@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V003
-row_count: 22
-state: CURRENT_THROUGH_V003
+inspected_through_volume: V004
+row_count: 28
+state: CURRENT_THROUGH_V004
 ```
 
 ## Records
@@ -64,3 +64,9 @@ state: CURRENT_THROUGH_V003
 | RAG-AGY-020 | Ruka | Ignore the suspected rental arrangement, expose it, or test it privately. | Accuses Chizuru, demands a kiss, withholds immediate disclosure, and later confronts Kazuya. | Gains information leverage and forces a cover-preserving performance. | Her goal and future terms remain unresolved; RAG-E-V003-013, RAG-E-V003-014. |
 | RAG-AGY-021 | Kazuya | Respect Ruka's no-follow boundary, seek another route, or continue pursuing her. | Follows and pleads; earlier in the pursuit he accidentally touches her breast and is directly rebuked. | Keeps the secret discussion open at the cost of violating her stated distance. | Later protective action does not erase the boundary violation; RAG-E-V003-014, RAG-E-V003-015. |
 | RAG-AGY-022 | Kazuya | Protect himself when Ruka falls or attempt a catch. | Catches her and takes the impact, then bows, invokes harm to Chizuru, and calls her the best girlfriend. | Protects Ruka and changes the informational encounter enough for her own disclosure. | The action also preserves his own deception; RAG-E-V003-015, RAG-E-V003-016. |
+| RAG-AGY-023 | Ruka | Expose the secret, seek ordinary courtship, or make silence conditional. | Conditions secrecy on Kazuya dating her, citing sincere feeling and the pulse result. | Gains a trial relationship and protects Chizuru only under negotiated pressure. | Later says she never intended disclosure, which constrains but does not erase the coercive opening; RAG-E-V004-003, RAG-E-V004-005, RAG-E-V004-009. |
+| RAG-AGY-024 | Kazuya | Refuse Ruka, accept an ordinary relationship, or enter a constrained trial. | First refuses insincere dating, then asks for a trial after Chizuru invokes the exit rule. | Protects Chizuru's privacy and the family fiction while exposing Ruka to instrumental treatment. | He does not manufacture reciprocal love and later admits its absence; RAG-E-V004-004, RAG-E-V004-005, RAG-E-V004-017. |
+| RAG-AGY-025 | Chizuru | Oppose the leverage, end the rental immediately, or encourage the real-girlfriend route. | Applies the exit rule and later tells Kazuya to take Ruka seriously and date with restraint. | Seeks a route out of the fiction while adding an ethical constraint on Kazuya's use of Ruka. | Her own privacy materially benefits, so advice and self-interest coexist; RAG-E-V004-005, RAG-E-V004-017. |
+| RAG-AGY-026 | Kazuya | Ask Chizuru directly about Umi or follow without consent. | Shadows them across several venues, constructs a boyfriend theory, and apologizes only after exposure and correction. | Gains vocational knowledge but violates Chizuru's privacy and causes confrontation. | He accepts disconfirmation and revises rather than persisting in the false claim; RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013. |
+| RAG-AGY-027 | Chizuru | Leave after confronting the surveillance or offer a personal gift. | Explains her acting goal, asks Kazuya to wait, and gives a phone case selected from their shared history. | Supplies corrective knowledge and unpriced gratitude; Kazuya begins work and reciprocates. | Gratitude and shared-secret management remain sufficient non-romantic motives; RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-015, RAG-E-V004-016. |
+| RAG-AGY-028 | Ruka | Accept the scheduled balance or challenge Kazuya after his rental date. | Intercepts him, asserts immediate priority, covers his eyes, and leads him into a private karaoke room. | Escalates the trial relationship and controls the setting at the cliffhanger. | No sexual consent or completed act is established; RAG-E-V004-019. |

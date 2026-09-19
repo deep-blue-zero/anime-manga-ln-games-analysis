@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V003
-row_count: 16
-state: CURRENT_THROUGH_V003
+inspected_through_volume: V004
+row_count: 21
+state: CURRENT_THROUGH_V004
 ```
 
 ## Records
@@ -58,3 +58,8 @@ state: CURRENT_THROUGH_V003
 | RAG-TXN-014 | Kazuya and Chizuru; real-girlfriend exit policy | Kazuya may rent Chizuru or others while seeking a real girlfriend; a real relationship triggers a reported breakup to the grandmothers. | Chizuru articulates the route and endpoint. | A future partner is not yet selected, and neither party grants exclusivity. | Makes romantic candidacy materially relevant to the transaction; RAG-E-V003-010. |
 | RAG-TXN-015 | Kazuya and Chizuru; Ruka's demanded kiss | Ruka demands a kiss as public proof; Chizuru stages the image with a brochure or card between their mouths. | The pair cooperate to protect the secret under social pressure. | No direct mouth contact is shown; a demanded demonstration is not evidence of private intimacy. | Temporarily preserves the cover while confirming Ruka's leverage; RAG-E-V003-013, RAG-E-V003-014. |
 | RAG-TXN-016 | Ruka and Kuribayashi; apparent girlfriend service | Ruka performs affection and later identifies herself as a rental girlfriend. | Her visible conduct may be service labor, but the volume withholds provider, compensation, and client knowledge. | The label cannot be converted into private romantic consent or a fully specified contract. | Opens a parallel transaction whose terms are deferred to V004; RAG-E-V003-012, RAG-E-V003-016. |
+| RAG-TXN-017 | Ruka and Kuribayashi; clarified rental service | Ruka states that Kuribayashi hired her as a rental girlfriend. | Her V003 affection is reclassified as service performance; her private motive toward him is not developed. | A client booking does not create private partnership or authorize assumptions beyond the observed performance. | Resolves the basic classification while leaving exact terms and his knowledge incomplete; RAG-E-V004-001. |
+| RAG-TXN-018 | Ruka, Kazuya, and Chizuru; secrecy-for-dating bargain | Ruka offers silence about Chizuru's job and the false couple only if Kazuya dates her; the parties settle on a provisional relationship. | Ruka's feeling is sincere; Kazuya's acceptance protects Chizuru and the deception; Chizuru encourages the route. | A threatened disclosure materially constrains assent, and trial status does not imply sexual consent or reciprocal love. | Creates recurring dates, campus access pressure, and duties toward Ruka; RAG-E-V004-003, RAG-E-V004-005, RAG-E-V004-009. |
+| RAG-TXN-019 | Chizuru and Kazuya; Christmas phone-case gift | No booking or payment governs Chizuru's gift; she selects it from the Shimoda phone damage and describes gratitude for their shared secret and his help. | Waiting for him and choosing a personalized object are voluntary acts outside service time. | The gift authorizes no further access and has several sufficient non-romantic explanations. | Creates unpriced reciprocity and motivates employment and a return gift; RAG-E-V004-014, RAG-E-V004-015. |
+| RAG-TXN-020 | Kazuya and Chizuru; aroma return gift during a booking | Kazuya buys a return object but uses paid rental access to deliver it. | The object is voluntary; the surrounding date, including handholding, remains compensated performance. | Gift exchange and paid intimacy-like conduct must be classified separately. | Chizuru questions the provider-client propriety and redirects discussion to Ruka; RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018. |
+| RAG-TXN-021 | Ruka and Kazuya; private karaoke-room escalation | Ruka claims immediate date priority, obscures his vision, leads him into a private room, and removes her coat. | She controls timing and presentation; Kazuya's agreement to the trial is the only prior relational term shown. | Trial dating does not create blanket sexual consent; the volume ends before any act or explicit agreement. | Raises a consent and boundary question for V005 without adjudicating an unseen continuation; RAG-E-V004-019. |

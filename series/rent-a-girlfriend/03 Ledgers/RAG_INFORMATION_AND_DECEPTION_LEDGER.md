@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V003
-row_count: 15
-state: CURRENT_THROUGH_V003
+inspected_through_volume: V004
+row_count: 20
+state: CURRENT_THROUGH_V004
 ```
 
 ## Records
@@ -57,3 +57,8 @@ state: CURRENT_THROUGH_V003
 | RAG-INF-013 | Kazuya privately recognizes serious feeling for Chizuru; Chizuru is not shown knowing it. | Reader and Kazuya receive his interior recognition. | He requests more rental time rather than disclosing the feeling. | The information asymmetry shapes the new agreement. | RAG-E-V003-005, RAG-E-V003-009, RAG-E-V003-010. |
 | RAG-INF-014 | Ruka knows that Chizuru is a rental girlfriend and Kazuya is a fake boyfriend; Kuribayashi is not shown receiving that truth. | Ruka infers from her own service knowledge and tests the pair; Kazuya and Chizuru recognize her knowledge. | Accusation, blocked-kiss test, temporary non-disclosure, and private threat. | Ruka can expose Chizuru's job and the couple fiction across another friendship. | RAG-E-V003-013, RAG-E-V003-014. |
 | RAG-INF-015 | Ruka says she is also a rental girlfriend, but her exact arrangement with Kuribayashi is unknown. | Kazuya and the reader receive the direct cliffhanger disclosure; Chizuru and Kuribayashi are not shown hearing it. | Private self-disclosure after Kazuya's plea and protective action. | The statement reclassifies Ruka's visible affection while leaving payment, knowledge, and motive open. | RAG-E-V003-012, RAG-E-V003-015, RAG-E-V003-016. |
+| RAG-INF-016 | Kuribayashi's apparent romance with Ruka was a rental-client arrangement. | Ruka directly tells Kazuya; the reader can reclassify the V003 performance. | Private explanation under a mutual-secret discussion. | Kazuya gains relevant context; Kuribayashi's complete understanding and exact terms remain unshown. | RAG-E-V004-001. |
+| RAG-INF-017 | Ruka knows Kazuya does not reciprocate her feeling and that he likes Chizuru. | She infers his attachment during the dating negotiation and sees his instrumental motive; Kazuya denies the explicit label. | Direct challenge, crying, and acceptance of a trial relationship. | The status label is mutually known to be provisional, which increases the duty not to treat it as ordinary mutual romance. | RAG-E-V004-004, RAG-E-V004-005. |
+| RAG-INF-018 | Ruka's represented motive joins low-pulse history, fear of emotional abnormality, rental work, and Kazuya's ninety-one reading. | The reader receives direct history; Kazuya receives her declaration and criterion but not necessarily every childhood detail. | Backstory and self-report explain why she treats him as uniquely important. | Physiological measurement supplies certainty for Ruka while remaining an insufficient general proof of compatibility. | RAG-E-V004-006, RAG-E-V004-007, RAG-E-V004-008. |
+| RAG-INF-019 | Umi is Chizuru's acting-school colleague, not her boyfriend; Chizuru is pursuing acting and uses rental work for income and practice. | Chizuru directly explains this after discovering Kazuya's surveillance. | Confrontation corrects his accumulated false inferences and reveals a previously private vocational domain. | Kazuya gains knowledge; Chizuru's other campus peers and family knowledge are not established here. | RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013. |
+| RAG-INF-020 | The Christmas gift is a personalized thank-you outside a booking, while the return gift is delivered during paid time. | Kazuya and Chizuru know the objects, circumstances, and stated gratitude; outsiders do not receive their shared context. | Chizuru cites the Shimoda phone damage and their secret; Kazuya later books her to reciprocate. | Service language continues to manage interpretation without erasing the material distinction between object exchange and paid time. | RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-018. |

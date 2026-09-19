@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V003
-row_count: 20
-state: CURRENT_THROUGH_V003
+inspected_through_volume: V004
+row_count: 26
+state: CURRENT_THROUGH_V004
+```
 ```
 
 ## Records
@@ -62,3 +63,9 @@ state: CURRENT_THROUGH_V003
 | RAG-PRG-018 | Honesty: weekend breakup disclosure is jointly planned | LOSS — the family trip and room arrangement displace disclosure despite Sayuri's hypothetical acceptance of lies. | The central pair retain truth; grandmothers retain the false couple belief. | No correction through V003. | RAG-E-V003-006, RAG-E-V003-007 |
 | RAG-PRG-019 | Privacy: the rental secret is contained among Kazuya, Chizuru, and company context | LOSS — Ruka independently recognizes Chizuru and gains leverage over the false couple. | Ruka, Kazuya, and Chizuru know of the breach; Kuribayashi is not shown knowing. | Exposure remains unresolved at the cliffhanger. | RAG-E-V003-013, RAG-E-V003-014 |
 | RAG-PRG-020 | Romance: Kazuya is attracted but no private state is acknowledged | ASYMMETRIC_GAIN — Kazuya recognizes serious feeling; Chizuru does not reciprocally acknowledge romance and preserves rental boundaries. | Kazuya and reader know his state; joint status remains unchanged. | Do not collapse one-sided recognition into couple progress. | RAG-E-V003-005, RAG-E-V003-008, RAG-E-V003-009, RAG-E-V003-010 |
+| RAG-PRG-021 | Ruka relation: informed challenger with no agreed romantic status | RECONFIGURATION — secrecy leverage and sincere feeling produce a provisional girlfriend arrangement. | Kazuya, Ruka, and Chizuru know its purpose and asymmetry. | The status persists through V004 but lacks reciprocal love and began under disclosure pressure. | RAG-E-V004-003, RAG-E-V004-004, RAG-E-V004-005 |
+| RAG-PRG-022 | Privacy: Ruka can expose the secret at will | LIMITED_GAIN — Ruka later says she never intended disclosure and understands the trial form. | Kazuya receives reassurance; Chizuru observes some of the campus encounter. | Her continuing access demands and the origin bargain prevent treating risk as eliminated. | RAG-E-V004-009 |
+| RAG-PRG-023 | Chizuru model: job and private goal underexplained | GAIN — acting school, actress ambition, tuition need, and performance practice become explicit. | Kazuya and reader gain vocational context. | Goal is durable knowledge; future success and full family awareness remain unknown. | RAG-E-V004-012 |
+| RAG-PRG-024 | Kazuya appraisal: acknowledged attachment without tested rival uncertainty | LOSS_THEN_PARTIAL_REPAIR — he surveils Chizuru under a false boyfriend theory, then accepts correction and apologizes. | Chizuru learns of the following; Kazuya revises his own belief. | Apology does not undo the boundary violation or prove future restraint. | RAG-E-V004-011, RAG-E-V004-013 |
+| RAG-PRG-025 | Reciprocity: central exchange remains primarily paid or emergency-based | GAIN — Chizuru gives a personalized off-contract gift and Kazuya begins work and returns an unpriced object. | Both know the exchange; Kazuya attaches strong personal meaning. | His delivery occurs during paid access, and no mutual romantic acknowledgment follows. | RAG-E-V004-014, RAG-E-V004-015, RAG-E-V004-016 |
+| RAG-PRG-026 | Ordinary life: Kazuya has no paid employment in observed material | GAIN — financial pressure and reciprocal obligation lead him to a karaoke job. | Kazuya and reader know; the workplace also becomes the final setting. | Initial employment is established, while sustained competence and durability remain untested. | RAG-E-V004-010, RAG-E-V004-015, RAG-E-V004-019 |

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V003
-row_count: 15
-state: CURRENT_THROUGH_V003
+inspected_through_volume: V004
+row_count: 20
+state: CURRENT_THROUGH_V004
 ```
 
 ## Records
@@ -57,3 +57,8 @@ state: CURRENT_THROUGH_V003
 | RAG-FRM-013 | Intimacy-like images are materially blocked or reclassified. | CPR is medical rescue; the shared room has separate futons and a no-touch rule; the demanded kiss has a physical barrier. | Large close-ups and romantic framing invite one reading while objects, dialogue, and sequence constrain it. | Appearance cannot substitute for agency or consent analysis; RAG-E-V003-001, RAG-E-V003-008, RAG-E-V003-013. |
 | RAG-FRM-014 | One girlfriend performance recognizes another. | Ruka's affectionate public conduct parallels Chizuru's role, then her provider disclosure explains her ability to identify the service. | Mirrored couple staging, face close-ups, and the cliffhanger isolate professional recognition. | Creates a parallel transaction without yet proving identical motives or rules; RAG-E-V003-012, RAG-E-V003-013, RAG-E-V003-016. |
 | RAG-FRM-015 | A fall repeats protective bodily action under altered knowledge. | Chizuru's overboard fall is life-threatening and initially unobserved by her; Ruka's later fall is witnessed and she sees Kazuya take the impact. | Vertical motion, abrupt page turn, and aftermath close-up make the second rescue an observable test for Ruka. | Extends fast protective conduct beyond Chizuru while keeping both events relationship-conditioned; RAG-E-V003-001, RAG-E-V003-015, RAG-E-V003-016. |
+| RAG-FRM-016 | Another exit policy expands the relationship system. | V003 names a real girlfriend as the rental endpoint; V004 turns that solution into a trial partner, secrecy bargain, and triangle. | The explicit timestamp gives apparent decisiveness to a status that dialogue immediately qualifies as provisional. | Retained change rather than reset; RAG-E-V004-003, RAG-E-V004-005. |
+| RAG-FRM-017 | A bodily number becomes a romance-authentication image. | Earlier girlfriend performances were judged by audience belief; Ruka repeatedly reads a pulse display and treats ninety-one as proof. | Numeric close-ups and heartbeat typography externalize her interior certainty. | Makes her motive legible without validating the inference as universal truth; RAG-E-V004-002, RAG-E-V004-006, RAG-E-V004-007, RAG-E-V004-008. |
+| RAG-FRM-018 | Kazuya's imagined rival story is corrected by revealed ordinary work. | Ambiguous shopping, distance, and overheard speech become a hidden-boyfriend montage before Umi and acting school reclassify them. | Long subjective surveillance gives way to direct explanatory dialogue and apology. | Repeats narration/conduct mismatch with a privacy cost; RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013. |
+| RAG-FRM-019 | Material objects cross the service boundary in opposite directions. | Chizuru gives a personalized phone case outside work; Kazuya returns an aroma gift inside a paid booking. | Object close-ups and Kazuya's tears give the exchange weight, while later handholding restores the service frame. | Keeps reciprocity, payment, and romantic inference analytically distinct; RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-018. |
+| RAG-FRM-020 | A sexualized cliffhanger withholds the governing act. | Ruka takes Kazuya into a private karaoke room, covers his sight, and removes her coat. | Controlled reveal and page-ending body presentation invite anticipation. | The formal invitation to infer cannot substitute for consent or an event not yet shown; RAG-E-V004-019. |
