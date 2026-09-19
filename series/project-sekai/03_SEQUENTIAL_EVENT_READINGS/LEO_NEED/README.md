@@ -28,3 +28,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0004 — participating with limits](../MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md): LN I2 for Saki's proactive informed reliance and bounded reciprocity, with I1 ordinary contributions from Ichika/Honami/Shiho. Preserve P04 humans/group and exact prior event history.
 
 - [EVENT_0010 — 揺れるまま、でも君は前へ](PJSK_EVENT_0010_DEEP_READING.md): complete 25-story envelope, Honami operative I3 with four P04 humans and group retained; WxS Emu school I1, MMJ/VBS/N25 I0. School MEIKO's arrival and Shiho's unresolved STANDOUT offer remain manifestation/person specific.
+
+- [EVENT_0013 — 響くトワイライトパレード](PJSK_EVENT_0013_DEEP_READING.md): complete 32-story envelope; Shiho and Leo/need unresolved I2, enacted Ichika–Nene relationship I3, Honami–Emu and Tsukasa–Saki I2, MMJ/VBS I1, N25 I0. Fourteen undated area unlocks and Wonderland singer receipts remain bounded.
