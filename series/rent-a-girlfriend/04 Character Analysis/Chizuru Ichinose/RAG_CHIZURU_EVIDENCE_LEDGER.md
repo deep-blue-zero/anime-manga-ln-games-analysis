@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; character evidence inspected through V002."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; character evidence inspected through V003."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V002
+inspected_through_volume: V003
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -56,6 +56,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E014 | CHI-S004 | RAG-E-V002-011, RAG-E-V002-013 | Booking instruction and evaluation; closure | Calls for the discharge-week booking, evaluates both unattractive and manly sides of Kazuya, says the trip was fun, and then names the job frame. | Positive appraisal is immediately bounded; private “idiot” speech adds affect without explanation. | Romance, fairness, professional encouragement, and irritation remain unranked. | RAG-CHI-R004, RAG-CHI-R005 |
 | RAG-CHI-E015 | CHI-S004 | RAG-E-V002-014, RAG-E-V002-015 | Social obligation and chosen participation; friendship audience | Accepts Kibe's ferry tickets after his childhood account and request, while stating that the relation will end afterward. | Does not refuse a sincere friend appeal, but preserves a verbal endpoint. | Kibe's false premise and her own illness constrain the act; no romantic acknowledgment follows. | RAG-CHI-R002, RAG-CHI-R004 |
 | RAG-CHI-E016 | CHI-S004 | RAG-E-V002-016, RAG-E-V002-017 | Visible illness, withdrawal, accident; vulnerability | Declines further company, seeks space while ill, and falls overboard. She is shown unconscious when Kazuya reaches her. | Requests to be alone before the accident. | No voluntary intimacy, rescue knowledge, survival outcome, or post-event appraisal is available. | State-boundary evidence only |
+| RAG-CHI-E017 | CHI-S005 | RAG-E-V003-001, RAG-E-V003-003 | Emergency care, public role, and private affect | Revives Kazuya with CPR, later says saving him was natural because she is his girlfriend, and shows private blush or agitation. | Medical action is followed by audience-compatible role language. | Visible affect does not uniquely identify romance; CPR is not consensual intimacy. | RAG-CHI-R003, RAG-CHI-R004 |
+| RAG-CHI-E018 | CHI-S005 | RAG-E-V003-006, RAG-E-V003-007 | Breakup plan, family pressure, and hypothetical disclosure | Proposes a weekend breakup, attends the engineered trip, and asks Sayuri whether love would survive deception. | Uses an indirect hypothetical rather than revealing the rental truth. | Sayuri's unconditional reply does not mean she knows the specific lie. | RAG-CHI-R002, RAG-CHI-R003 |
+| RAG-CHI-E019 | CHI-S005 | RAG-E-V003-008 | Shared-space permission and direct boundary | Lets Kazuya sleep in the room, explains it through customer treatment, and threatens legal action if he touches her. | Grants the practical exception and states its consent limit in the same scene. | Customer language may be complete, partial, or defensive; permission is not romance. | RAG-CHI-R001, RAG-CHI-R004 |
+| RAG-CHI-E020 | CHI-S005 | RAG-E-V003-009, RAG-E-V003-010 | Negotiation and service policy; chosen continuation | Agrees to “a little longer,” permits other rentals, and makes a real girlfriend the condition for reporting a breakup. | Converts personal ambiguity into a legible, nonexclusive service rule. | The rule is untested against a concrete new partner. | RAG-CHI-R004 |
+| RAG-CHI-E021 | CHI-S005 | RAG-E-V003-013, RAG-E-V003-014 | Identity threat and cover performance | Deflects Ruka's accusation, stages a brochure-blocked kiss, and exits with a family explanation once the cover is temporarily preserved. | Uses the available role while withholding direct intimate contact. | The test is imposed by Ruka; cover participation is not private romantic acknowledgment. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R006 |
 
 ## State-change summary
 
@@ -63,8 +68,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S002 — dual-identity provider under family exposure:** employment privacy, campus presentation, and Sayuri's involvement create overlapping obligations.
 - **CHI-S003 — bounded recurring collaborator:** neighboring residence, both grandmothers, a Wednesday contract, and a peer audience now condition her choices; she preserves compartmentalization while making limited exceptions.
 - **CHI-S004 — identity-collision participant under announced closure:** the Izu overlap joins campus, rental, friend, and former-partner audiences; she enforces payment, accepts a friend-mediated final ride, reiterates the job frame, and ends V002 unconscious after falling overboard.
+- **CHI-S005 — reciprocal rescuer under renewed terms and provider exposure:** she survives, revives Kazuya, learns his rescue action, navigates a family-engineered trip, grants bounded continuation, and is identified by another rental provider.
 
-The transitions are primarily context, knowledge, and relationship changes. V001 does not establish a disposition change or romantic self-recognition.
+The transitions are primarily context, knowledge, and relationship changes. V001-V003 do not establish a disposition change or romantic self-recognition.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -74,11 +80,12 @@ The transitions are primarily context, knowledge, and relationship changes. V001
 - Moral objection is concise and audience-aware rather than confessional (RAG-E-V001-013).
 - Ordinary evidence expands to travel with female university friends and seasickness/illness management, but hobbies, study routine, close-friend speech, and long-duration work practice remain underobserved.
 - Positive appraisal is often followed by a role qualifier or endpoint rather than left open to personal interpretation (RAG-E-V002-006, RAG-E-V002-013, RAG-E-V002-015).
+- V003 extends that pattern to rescue, shared lodging, continued access, and a staged kiss: she pairs each with girlfriend, customer, touch, duration, or exit language (RAG-E-V003-003, RAG-E-V003-008, RAG-E-V003-009, RAG-E-V003-010, RAG-E-V003-013).
 
 ## Gaps and negative evidence
 
-- V001-V002 give no sustained first-person account of her goals, self-model, or reason for needing the job.
-- V002 ends before she can know or evaluate Kazuya's rescue attempt.
+- V001-V003 give no sustained first-person account of her goals, self-model, or reason for needing the job.
+- She knows the rescue occurred, but gives no direct private evaluation of Kazuya's motive or her own feeling.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
 - No broad rule yet supports behavior with close friends, teachers, coworkers, or a mutually acknowledged partner.

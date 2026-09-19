@@ -4,7 +4,7 @@ artifact_id: RAG_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory_and_scope_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -28,7 +28,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 |---:|---|---:|---|---|---|---:|---:|---|
 | V001 | RAG-JP-EPUB-V001 | 75425401 | `d8cc6a8765dde4746264c56dffab36a0501bc6ddc0572c72d37cff6baa61c15f` | 彼女、お借りします（１） | `ja` | 195 | 195 | INSPECTED__CLOSED |
 | V002 | RAG-JP-EPUB-V002 | 82393537 | `0c58ab41d7ef423b3e71c7bb6ef01c0cb82c573849097cbcace22ba7d7498fde` | 彼女、お借りします（２） | `ja` | 203 | 203 | INSPECTED__CLOSED |
-| V003 | RAG-JP-EPUB-V003 | 70179579 | `d6ea6638781d9546000f3960eecfc10f914ff24371c9c5dd7887093548e700b2` | 彼女、お借りします（３） | `ja` | 195 | 195 | INVENTORIED__ACTIVE_RUN_PENDING |
+| V003 | RAG-JP-EPUB-V003 | 70179579 | `d6ea6638781d9546000f3960eecfc10f914ff24371c9c5dd7887093548e700b2` | 彼女、お借りします（３） | `ja` | 195 | 195 | INSPECTED__CLOSED |
 | V004 | RAG-JP-EPUB-V004 | 102097755 | `7d48b6b9a727e5f6bef74568d915485c639d731c55087db4e0695abe0cec6fe2` | 彼女、お借りします（４） | `en` | 195 | 196 | INVENTORIED__ACTIVE_RUN_PENDING |
 | V005 | RAG-JP-EPUB-V005 | 105411467 | `4314fc1e54b685676b406325acf4193b1f86fcdbbfe5c58eef3835d80aab20b1` | 彼女、お借りします（５） | `ja` | 195 | 196 | INVENTORIED__ACTIVE_RUN_PENDING |
 | V006 | RAG-JP-EPUB-V006 | 108830004 | `7c55b735a9bebbd868ed217e151de96ed662583b9c763cc9a5f04b40a692bfda` | 彼女、お借りします（６） | `ja` | 195 | 196 | INVENTORIED__ACTIVE_RUN_PENDING |
@@ -82,6 +82,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - V001 contains 195 spine entries, all resolving to image targets. Its extracted image set contains no exact duplicates; 194 pages are 1070×1600 pixels and the cover is 1134×1500.
 - Original-resolution inspection confirmed that V001 Japanese text and drawn detail are legible. Full sequential inspection then covered the cover, blank image `0000.jpg`, narrative and chapter matter `0001.jpg`-`0191.jpg`, disclaimer `0192.jpg`, and colophon `0193.jpg`. Five chapter title pages were verified at images `0003`, `0056`, `0107`, `0143`, and `0167`.
 - Full original-resolution inspection of V002 covered the cover, blank image `i_0000.jpg`, table of contents `i_0001.jpg`, narrative and chapter matter `i_0002.jpg`-`i_0198.jpg`, V003 teaser `i_0199.jpg`, disclaimer `i_0200.jpg`, and colophon `i_0201.jpg`. Nine chapter labels were verified from Satisfaction 6 through Satisfaction 14. The 203-entry spine is continuous and all entries resolve.
+- Full original-resolution inspection of V003 covered the cover, blank image `0000.jpg`, narrative and chapter matter `0001.jpg`-`0190.jpg`, post-chapter promotional client message `0191.jpg`, disclaimer `0192.jpg`, and colophon `0193.jpg`. Nine chapter labels were verified from Satisfaction 15 through Satisfaction 23. The 195-entry spine is continuous and all entries resolve.
 - Image-item counts may exceed spine counts by one where an image is present in the package manifest but not directly represented as a spine page. This is not yet classified as a missing or extra narrative page.
 
 ## Admission rules
@@ -92,11 +93,11 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-V001 and V002 are inspected and closed. V003 is the next eligible unit in the continuous V001-V010 run; V004-V010 remain authorized candidates that cannot be opened out of order. V011-V047 remain filename- and metadata-visible only. Their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001-V003 are inspected and closed. V004 is the next eligible unit in the continuous V001-V010 run; V005-V010 remain authorized candidates that cannot be opened out of order. V011-V047 remain filename- and metadata-visible only. Their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 
-Consequential observations use the witness ID, edition chapter label, printed page where visible, and stable EPUB image index. V001 uses four-digit image filenames; V002 uses the package's `i_`-prefixed image names. Printed numbers and filenames remain explicit rather than silently conflated.
+Consequential observations use the witness ID, edition chapter label, printed page where visible, and stable EPUB image index. V001 and V003 use four-digit image filenames; V002 uses the package's `i_`-prefixed image names. Printed numbers and filenames remain explicit rather than silently conflated.
 
 ## Known limitations
 

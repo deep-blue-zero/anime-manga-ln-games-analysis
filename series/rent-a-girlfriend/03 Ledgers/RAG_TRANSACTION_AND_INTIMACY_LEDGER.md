@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; inspected and closed through V002."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V002
-row_count: 10
-state: CURRENT_THROUGH_V002
+inspected_through_volume: V003
+row_count: 16
+state: CURRENT_THROUGH_V003
 ```
 
 ## Records
@@ -52,3 +52,9 @@ state: CURRENT_THROUGH_V002
 | RAG-TXN-008 | Mami and Kazuya; pool kiss | No agreement or game rule authorizes Mami's first pool kiss; she creates the physical setup and initiates it. | Her later statement supplies affect but not Kazuya's prior consent. | The separate Pocky game later gives Kazuya an opportunity to refuse another kiss, which he does. | Tests attachment and destabilizes the public couple; RAG-E-V002-009, RAG-E-V002-012. |
 | RAG-TXN-009 | Kibe, Chizuru, and Kazuya; ferry tickets | Kibe gives a two-person ride as a reconciliation opportunity based on the believed relationship. | Chizuru accepts from social obligation while stating an endpoint; Kazuya says she need not go. | Gift and audience pressure do not create romantic consent. | Produces shared ferry presence and exposure to the emergency; RAG-E-V002-014, RAG-E-V002-015. |
 | RAG-TXN-010 | Kazuya and Chizuru; emergency rescue attempt | No payment, request, schedule, or promised reciprocity governs the dive. | Kazuya independently accepts physical risk after identifying Chizuru as missing. | The action supports personal significance on his side without authorizing later intimacy or proving a successful rescue. | Ends V002 on unpriced care with outcome unresolved; RAG-E-V002-017. |
+| RAG-TXN-011 | Chizuru and Kazuya; CPR and reciprocal rescue | No service agreement or romantic consent governs emergency chest compressions and rescue breathing. | Chizuru independently acts to revive an unconscious person. | Medical necessity classifies the contact; it neither authorizes later touch nor functions as a consensual kiss. | Kazuya survives and the event gains public and private meaning; RAG-E-V003-001, RAG-E-V003-003. |
+| RAG-TXN-012 | Kazuya and Chizuru; hot-spring room | The grandmothers purchase or arrange the trip and place the pair in one room; no romantic lodging agreement exists. | Chizuru chooses to permit Kazuya to sleep inside after he offers to leave. | Separate futons, a no-touch rule, and threatened legal recourse define the permission. | Creates bounded private space without changing couple status; RAG-E-V003-006, RAG-E-V003-008. |
+| RAG-TXN-013 | Kazuya and Chizuru; renewed rental | Kazuya asks to continue renting; Chizuru agrees “a little longer.” | The extension is mutually stated but remains paid and temporary. | It authorizes future service bookings, not private partnership or unrestricted access. | Reconfigures the planned breakup into conditional continuation; RAG-E-V003-009. |
+| RAG-TXN-014 | Kazuya and Chizuru; real-girlfriend exit policy | Kazuya may rent Chizuru or others while seeking a real girlfriend; a real relationship triggers a reported breakup to the grandmothers. | Chizuru articulates the route and endpoint. | A future partner is not yet selected, and neither party grants exclusivity. | Makes romantic candidacy materially relevant to the transaction; RAG-E-V003-010. |
+| RAG-TXN-015 | Kazuya and Chizuru; Ruka's demanded kiss | Ruka demands a kiss as public proof; Chizuru stages the image with a brochure or card between their mouths. | The pair cooperate to protect the secret under social pressure. | No direct mouth contact is shown; a demanded demonstration is not evidence of private intimacy. | Temporarily preserves the cover while confirming Ruka's leverage; RAG-E-V003-013, RAG-E-V003-014. |
+| RAG-TXN-016 | Ruka and Kuribayashi; apparent girlfriend service | Ruka performs affection and later identifies herself as a rental girlfriend. | Her visible conduct may be service labor, but the volume withholds provider, compensation, and client knowledge. | The label cannot be converted into private romantic consent or a fully specified contract. | Opens a parallel transaction whose terms are deferred to V004; RAG-E-V003-012, RAG-E-V003-016. |

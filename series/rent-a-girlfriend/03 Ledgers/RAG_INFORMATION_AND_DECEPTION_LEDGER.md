@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; inspected and closed through V002."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V002
-row_count: 10
-state: CURRENT_THROUGH_V002
+inspected_through_volume: V003
+row_count: 15
+state: CURRENT_THROUGH_V003
 ```
 
 ## Records
@@ -52,3 +52,8 @@ state: CURRENT_THROUGH_V002
 | RAG-INF-008 | Kazuya and Chizuru plan to end the public relationship, but friends believe a real couple is breaking up. | The pair know the service truth; Kibe knows only the breakup announcement and the performed relationship. | Partial disclosure replaces the future label while preserving the historical falsehood. | Kibe's mistaken premise produces violence, moral pressure, and ferry tickets. | RAG-E-V002-008, RAG-E-V002-012, RAG-E-V002-014, RAG-E-V002-015. |
 | RAG-INF-009 | Kazuya plans fuller disclosure to Kibe and a confession to Mami after disembarkation. | Only Kazuya and the reader receive the represented intentions. | Interior plan, not completed speech. | Both intended disclosures are interrupted by the overboard emergency. | RAG-E-V002-015, RAG-E-V002-016, RAG-E-V002-017. |
 | RAG-INF-010 | At the V002 endpoint, Kazuya knows he dived after Chizuru; Chizuru is unconscious and is not shown knowing this. | Reader and Kazuya have action knowledge; every other character's knowledge is unresolved. | Emergency recognition through her dropped phone and direct action. | Later attribution, gratitude, secrecy, and public account cannot be assumed. | RAG-E-V002-017. |
+| RAG-INF-011 | Kazuya and Chizuru both survived and each directly saved the other. | Both central characters know after revival and hospital care; friends know at least that Kazuya entered the sea. | The public account uses girlfriend language while private explanations invoke customer duty and rescue debt. | The event becomes socially interpretable without producing mutual romantic disclosure. | RAG-E-V003-001, RAG-E-V003-003, RAG-E-V003-004. |
+| RAG-INF-012 | The planned breakup disclosure remains unmade despite Sayuri's stated willingness to love an imperfect or lying Chizuru. | Kazuya and Chizuru know the rental truth; Sayuri answers only a hypothetical. | Continued omission during a family-engineered trip. | The grandmothers' couple belief produces shared lodging and renewed disclosure cost. | RAG-E-V003-006, RAG-E-V003-007, RAG-E-V003-009. |
+| RAG-INF-013 | Kazuya privately recognizes serious feeling for Chizuru; Chizuru is not shown knowing it. | Reader and Kazuya receive his interior recognition. | He requests more rental time rather than disclosing the feeling. | The information asymmetry shapes the new agreement. | RAG-E-V003-005, RAG-E-V003-009, RAG-E-V003-010. |
+| RAG-INF-014 | Ruka knows that Chizuru is a rental girlfriend and Kazuya is a fake boyfriend; Kuribayashi is not shown receiving that truth. | Ruka infers from her own service knowledge and tests the pair; Kazuya and Chizuru recognize her knowledge. | Accusation, blocked-kiss test, temporary non-disclosure, and private threat. | Ruka can expose Chizuru's job and the couple fiction across another friendship. | RAG-E-V003-013, RAG-E-V003-014. |
+| RAG-INF-015 | Ruka says she is also a rental girlfriend, but her exact arrangement with Kuribayashi is unknown. | Kazuya and the reader receive the direct cliffhanger disclosure; Chizuru and Kuribayashi are not shown hearing it. | Private self-disclosure after Kazuya's plea and protective action. | The statement reclassifies Ruka's visible affection while leaving payment, knowledge, and motive open. | RAG-E-V003-012, RAG-E-V003-015, RAG-E-V003-016. |

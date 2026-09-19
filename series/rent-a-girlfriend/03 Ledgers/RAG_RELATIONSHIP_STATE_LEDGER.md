@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; inspected and closed through V002."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V002
-row_count: 12
-state: CURRENT_THROUGH_V002
+inspected_through_volume: V003
+row_count: 19
+state: CURRENT_THROUGH_V003
 ```
 
 ## Records
@@ -54,3 +54,10 @@ state: CURRENT_THROUGH_V002
 | RAG-REL-010 | Mami → Kazuya | Former girlfriend taking renewed initiative | States a goal to split the public couple, probes him, kisses him, says she lost control, and schedules a private meeting. | Converts ambiguity into repeated strategic and physical intervention. | Actively destabilizing former partner; desired final relationship remains unknown. | RAG-E-V002-003, RAG-E-V002-005, RAG-E-V002-009, RAG-E-V002-016 |
 | RAG-REL-011 | Kibe → Kazuya | Childhood friend who believes Kazuya has a real girlfriend | Punches and argues with him after the breakup announcement, then defends his persistent side to Chizuru. | Friendship loyalty becomes moral pressure because disclosure is incomplete. | Caring but misinformed friend; fuller truth is planned, not delivered. | RAG-E-V002-012, RAG-E-V002-014, RAG-E-V002-015 |
 | RAG-REL-012 | Kibe → Chizuru | Friend of her supposed boyfriend | Supplies a childhood account, gives her ferry tickets, and asks her to give Kazuya another chance. | His belief creates a new obligation that she accepts with an explicit endpoint. | Treats her as Kazuya's real partner; unaware of the service relation. | RAG-E-V002-014, RAG-E-V002-015 |
+| RAG-REL-013 | Kazuya → Chizuru | Client who entered the sea after her under an announced ending | Learns that she revived him, privately recognizes serious feeling, asks to continue renting her, and later calls her the best girlfriend. | Conscious attachment now informs renewed paid access and his defense of the secret. | In love or serious feeling by his private account; still a client, without mutual acknowledgment. | RAG-E-V003-001, RAG-E-V003-005, RAG-E-V003-009, RAG-E-V003-015 |
+| RAG-REL-014 | Chizuru → Kazuya | Unconscious provider unaware of his dive | Revives him, invokes the girlfriend role publicly, permits bounded shared lodging, and grants a short rental extension. | Learns the rescue fact while repeatedly restoring customer and consent boundaries. | Provider and deception partner under consciously extended terms; private romantic state unresolved. | RAG-E-V003-001, RAG-E-V003-003, RAG-E-V003-008, RAG-E-V003-009, RAG-E-V003-010 |
+| RAG-REL-015 | Kibe → Kazuya and Chizuru | Misinformed friend after engineering the ferry ride | Interprets Kazuya's rescue as love, asks him to conceal it from Nagomi, and tells him to get along with Chizuru. | The false couple premise continues to constrain disclosure and meaning. | Caring, causally active, and still uninformed of the rental relation. | RAG-E-V003-004 |
+| RAG-REL-016 | Nagomi and Sayuri → Kazuya and Chizuru | Grandmothers who believe the pair are lovers | Coordinate a hot-spring trip and shared room; Sayuri separately assures Chizuru that love survives ordinary human lying. | Increase private proximity while lowering one hypothetical fear of rejection. | Still believe the romantic couple claim and lack the specific rental truth. | RAG-E-V003-006, RAG-E-V003-007 |
+| RAG-REL-017 | Ruka → Kazuya and Chizuru | Apparent girlfriend of Kuribayashi and outside observer | Identifies Chizuru as a rental provider, tests the couple through a demanded kiss, withholds immediate disclosure, and confronts Kazuya. | Gains asymmetric knowledge and leverage over both the public couple and Chizuru's work identity. | Informed challenger whose secrecy terms and motive remain unresolved. | RAG-E-V003-012, RAG-E-V003-013, RAG-E-V003-014, RAG-E-V003-016 |
+| RAG-REL-018 | Ruka → Kuribayashi | Presented as his affectionate girlfriend | Performs handholding, affectionate speech, and another-date agreement, then privately discloses that she is a rental girlfriend. | The visible couple status becomes transactionally ambiguous. | Service/provider relation is implied on her side; Kuribayashi's knowledge and terms are unknown. | RAG-E-V003-012, RAG-E-V003-016 |
+| RAG-REL-019 | Kazuya → Ruka | Friend's apparent girlfriend who knows the secret | Pursues her despite a stated distance boundary, accidentally touches her breast, later catches her fall, protects Kuribayashi's perceived effort, and pleads for Chizuru. | Conflict shifts from threatened exposure to a disclosure from Ruka. | Boundary-violating pursuit coexists with protective action; no romantic status or consent. | RAG-E-V003-014, RAG-E-V003-015, RAG-E-V003-016 |

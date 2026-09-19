@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; inspected and closed through V002."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V002
-row_count: 15
-state: CURRENT_THROUGH_V002
+inspected_through_volume: V003
+row_count: 22
+state: CURRENT_THROUGH_V003
 ```
 
 ## Records
@@ -57,3 +57,10 @@ state: CURRENT_THROUGH_V002
 | RAG-AGY-013 | Chizuru | Decline Kibe's request or accept a final ferry ride. | Accepts because refusing the friend's appeal is difficult, while explicitly retaining an end boundary. | Benefits Kibe's reconciliation goal and preserves the pair's public image; exposes her to the ferry emergency. | Acceptance is not evidence of private romantic acknowledgment; RAG-E-V002-014, RAG-E-V002-015. |
 | RAG-AGY-014 | Kazuya | Ignore Chizuru's illness while pursuing the Mami meeting or supply care and closure. | Offers medicine, apologizes, and says he will stop renting her, while also accepting Mami's meeting. | Attempts to reduce Chizuru's burden before disembarkation. | Competing plans are interrupted before a choice between them; RAG-E-V002-016. |
 | RAG-AGY-015 | Kazuya | Await ship rescue after identifying the missing passenger or enter the sea. | Crosses the barrier and dives after Chizuru without a contract, request, or assured outcome. | Attempts to save Chizuru at immediate personal risk. | Outcome and reflective meaning are outside V002; RAG-E-V002-017. |
+| RAG-AGY-016 | Chizuru | Await official rescue or act on the unconscious Kazuya. | Performs chest compressions and rescue breathing until he revives, under immediate medical necessity. | Saves Kazuya and makes the rescue reciprocal. | Emergency aid is not negotiated intimacy or proof of romance; RAG-E-V003-001. |
+| RAG-AGY-017 | Kazuya | Resume the missed Mami plan, end the rental, or seek further contact with Chizuru. | Books again, recognizes serious feeling, and asks Chizuru for continued rental access. | Gains a narrow extension while leaving the feeling undisclosed. | Continued payment preserves asymmetry and does not prove mature commitment; RAG-E-V003-002, RAG-E-V003-005, RAG-E-V003-009. |
+| RAG-AGY-018 | Chizuru | Insist on the weekend breakup or accommodate the family trip and Kazuya's request. | Attends, chooses to enjoy the trip, permits him to sleep in the room under explicit limits, and grants “a little longer.” | Benefits family enjoyment and Kazuya while retaining transaction and touch boundaries. | Motive remains plural; RAG-E-V003-006, RAG-E-V003-008, RAG-E-V003-009, RAG-E-V003-010. |
+| RAG-AGY-019 | Nagomi and Sayuri | Accept the pair's distance or create shared time. | Coordinate the trip and one-room arrangement from the belief that the pair are lovers. | Produce disclosure pressure and private proximity. | Their initiative is affectionate but rests on false information; RAG-E-V003-006, RAG-E-V003-007. |
+| RAG-AGY-020 | Ruka | Ignore the suspected rental arrangement, expose it, or test it privately. | Accuses Chizuru, demands a kiss, withholds immediate disclosure, and later confronts Kazuya. | Gains information leverage and forces a cover-preserving performance. | Her goal and future terms remain unresolved; RAG-E-V003-013, RAG-E-V003-014. |
+| RAG-AGY-021 | Kazuya | Respect Ruka's no-follow boundary, seek another route, or continue pursuing her. | Follows and pleads; earlier in the pursuit he accidentally touches her breast and is directly rebuked. | Keeps the secret discussion open at the cost of violating her stated distance. | Later protective action does not erase the boundary violation; RAG-E-V003-014, RAG-E-V003-015. |
+| RAG-AGY-022 | Kazuya | Protect himself when Ruka falls or attempt a catch. | Catches her and takes the impact, then bows, invokes harm to Chizuru, and calls her the best girlfriend. | Protects Ruka and changes the informational encounter enough for her own disclosure. | The action also preserves his own deception; RAG-E-V003-015, RAG-E-V003-016. |

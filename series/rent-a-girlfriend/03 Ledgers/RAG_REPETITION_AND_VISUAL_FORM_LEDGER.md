@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; inspected and closed through V002."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V002
-row_count: 10
-state: CURRENT_THROUGH_V002
+inspected_through_volume: V003
+row_count: 15
+state: CURRENT_THROUGH_V003
 ```
 
 ## Records
@@ -52,3 +52,8 @@ state: CURRENT_THROUGH_V002
 | RAG-FRM-008 | Water stages two different intimacy events. | Pool: Mami engineers a kiss inside social play. Sea: Chizuru falls and Kazuya dives during an emergency. | Playful body framing gives way to distance, danger, ship announcement, and underwater cliffhanger. | Formal recurrence with sharply altered consent, cost, and stakes; RAG-E-V002-009, RAG-E-V002-017. |
 | RAG-FRM-009 | Role assertion follows affectively suggestive Chizuru conduct. | Consolation, a darkened reaction, favorable evaluation, and private irritation are followed or surrounded by service language. | Facial shadow and pause invite interpretation; dialogue closes it only partially. | Preserves motive plurality rather than proving or erasing affect; RAG-E-V002-001, RAG-E-V002-006, RAG-E-V002-013. |
 | RAG-FRM-010 | Kazuya's imagined future is interrupted by contrary action. | Reunion search and confession plan coexist with Pocky refusal and the rescue dive. | Dense internal captions are followed by decisive bodily actions that do not simply enact the fantasy. | Continues the narration/conduct mismatch; RAG-E-V002-005, RAG-E-V002-010, RAG-E-V002-012, RAG-E-V002-015, RAG-E-V002-017. |
+| RAG-FRM-011 | Rescue becomes reciprocal rather than a single heroic image. | V002 ends with Kazuya holding unconscious Chizuru underwater; V003 opens with Chizuru reviving unconscious Kazuya on shore. | Mirrored unconscious bodies and lifesaving contact reverse agent and recipient across the volume boundary. | Distributes agency while preserving motive ambiguity; RAG-E-V002-017, RAG-E-V003-001. |
+| RAG-FRM-012 | Attempted termination again produces expanded terms. | The weekend breakup plan becomes a shared trip, one-room night, renewed rental, and real-girlfriend exit rule. | Doorway reveal, paired futons, and a quiet final request turn engineered proximity into explicit negotiation. | Retained change rather than reset; RAG-E-V003-006, RAG-E-V003-008, RAG-E-V003-009, RAG-E-V003-010. |
+| RAG-FRM-013 | Intimacy-like images are materially blocked or reclassified. | CPR is medical rescue; the shared room has separate futons and a no-touch rule; the demanded kiss has a physical barrier. | Large close-ups and romantic framing invite one reading while objects, dialogue, and sequence constrain it. | Appearance cannot substitute for agency or consent analysis; RAG-E-V003-001, RAG-E-V003-008, RAG-E-V003-013. |
+| RAG-FRM-014 | One girlfriend performance recognizes another. | Ruka's affectionate public conduct parallels Chizuru's role, then her provider disclosure explains her ability to identify the service. | Mirrored couple staging, face close-ups, and the cliffhanger isolate professional recognition. | Creates a parallel transaction without yet proving identical motives or rules; RAG-E-V003-012, RAG-E-V003-013, RAG-E-V003-016. |
+| RAG-FRM-015 | A fall repeats protective bodily action under altered knowledge. | Chizuru's overboard fall is life-threatening and initially unobserved by her; Ruka's later fall is witnessed and she sees Kazuya take the impact. | Vertical motion, abrupt page turn, and aftermath close-up make the second rescue an observable test for Ruka. | Extends fast protective conduct beyond Chizuru while keeping both events relationship-conditioned; RAG-E-V003-001, RAG-E-V003-015, RAG-E-V003-016. |

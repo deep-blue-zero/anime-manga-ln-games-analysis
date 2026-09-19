@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; inspected and closed through V002."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V003; inspected and closed through V003."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V002
-row_count: 9
-state: CURRENT_THROUGH_V002
+inspected_through_volume: V003
+row_count: 14
+state: CURRENT_THROUGH_V003
 ```
 
 ## Records
@@ -51,3 +51,8 @@ state: CURRENT_THROUGH_V002
 | RAG-CHR-007 | RAG-E-V002-007, RAG-E-V002-009, RAG-E-V002-012 | During the Izu gathering, Mami's identity intervention precedes the pool kiss; the Pocky game and Kazuya's breakup announcement follow. | Same-trip ordering is explicit. | Do not collapse Mami's first kiss, Pocky refusal, and Kazuya's later confession plan into one choice. |
 | RAG-CHR-008 | RAG-E-V002-011, RAG-E-V002-013, RAG-E-V002-014, RAG-E-V002-015 | Nagomi expects discharge the following week; Chizuru calls for a final booking. Kibe's fight and appeal then produce a ferry ride on the trip. | “Next week” anchors the booking relative to the Izu trip; exact date unknown. | The ferry ride occurs before the planned post-disembarkation disclosures. |
 | RAG-CHR-009 | RAG-E-V002-016, RAG-E-V002-017 | Mami schedules a pool meeting for after disembarkation; before arrival Chizuru falls overboard and Kazuya dives after her. | Immediate sequence explicit; V002 ends underwater. | Rescue outcome, elapsed time, and whether the meeting occurs are unknown at the boundary. |
+| RAG-CHR-010 | RAG-E-V003-001, RAG-E-V003-002 | Chizuru revives Kazuya on shore; rescue and hospital care follow, and Mami's pool meeting is missed. | Immediate continuation of the V002 cliffhanger; exact elapsed time unknown. | The rescue outcome precedes Kibe's discussion and all later V003 events. |
+| RAG-CHR-011 | RAG-E-V003-004, RAG-E-V003-005 | After the hospital return, Kibe interprets the rescue, Kazuya makes another booking, and his attention shifts toward conscious feeling for Chizuru. | The new booking is for the following week; exact calendar date unknown. | Occurs before the weekend breakup plan. |
+| RAG-CHR-012 | RAG-E-V003-006, RAG-E-V003-007, RAG-E-V003-009 | The pair plan a weekend breakup disclosure; the grandmothers' hot-spring trip displaces it, and the shared night ends in a narrow rental extension. | Same-weekend sequence explicit; the trip coincides with the anniversary of Sayuri's husband's death. | The disclosure is not completed before the extension. |
+| RAG-CHR-013 | RAG-E-V003-010, RAG-E-V003-012 | After the trip, Chizuru states the real-girlfriend exit policy; Kuribayashi then arranges a double date for the following Saturday. | Relative sequence and weekday are explicit; absolute date unknown. | Ruka's first accidental encounter with Kazuya precedes her formal introduction. |
+| RAG-CHR-014 | RAG-E-V003-013, RAG-E-V003-014, RAG-E-V003-015, RAG-E-V003-016 | During and after the double date, Ruka identifies the rental secret, tests the couple, confronts Kazuya, is caught during a fall, and discloses that she is also a rental girlfriend. | Same-day sequence explicit. | V003 ends before Ruka explains her arrangement or future action. |
