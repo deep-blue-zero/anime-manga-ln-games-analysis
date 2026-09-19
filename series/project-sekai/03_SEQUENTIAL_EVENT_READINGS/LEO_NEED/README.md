@@ -34,3 +34,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0016 — 天馬さんちのひな祭り](PJSK_EVENT_0016_DEEP_READING.md): complete 32-story envelope; Saki–Tsukasa epistemic/relationship I3 and a new dedicated Toya–Tsukasa record for an enacted I3 transition, Honami and Toya I2, VBS/N25 I1 context, MMJ I0. Fourteen undated area unlocks and Wonderland/School singer receipts remain bounded.
 
 - [EVENT_0018 — 君と歌う、桜舞う世界で](PJSK_EVENT_0018_DEEP_READING.md): complete 29-story envelope; `LN-EP-ICHIKA-E0018` operative I3 for repeatable listener-oriented performance, new `REL-CROSS-ICHIKA-KOHANE-E0018` relationship I3, and bounded LN/VBS/WxS/MMJ/N25 I1/I2 refinements. Eleven undated area unlocks and School singer receipts remain bounded.
+
+- [EVENT_0020 — Resonate with you](PJSK_EVENT_0020_DEEP_READING.md): complete 31-story envelope; `LN-REL-G-P04 → LN-REL-G-E0020` records Leo/need's tested common professional direction at I3, while the four P04 humans and existing Ichika/Kohane/Nene routes receive bounded I1/I2 refinements. Thirteen undated area unlocks and School singer receipts remain bounded.
