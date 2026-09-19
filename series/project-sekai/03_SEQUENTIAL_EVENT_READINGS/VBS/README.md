@@ -30,3 +30,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0021 — STRAY BAD DOG](PJSK_EVENT_0021_DEEP_READING.md): complete 23-story envelope; new `VBS-EP-AK-E0021`, `VBS-REL-AK-TY-2 → VBS-REL-AK-TY-3` and new `VBS-REL-AK-ARATA-E0021` record distinct operative, partner and rivalry I3 changes. VBS group, Kohane–Minori and Street-singer receipts remain bounded.
 
 - [EVENT_0028 — Awakening Beat](PJSK_EVENT_0028_DEEP_READING.md): complete 26-story envelope; new `VBS-EP-KH-E0028` records Kohane's tested relational-confidence method at I3, founded An–Kohane and group topology receive strong I2, An-side comparison remains OPEN, and Street singer evidence stays manifestation-local.
+
+- [EVENT_0097 — Light Up the Fire](PJSK_EVENT_0097_DEEP_READING.md): complete 26-story envelope; new `VBS-EP-AN-E0097` grief-aware informed-pursuit operative I3, An–Ken concealment-rupture successor I3 with repair open, bounded high-I2 An–Nagi posthumous relation, and preserved VBS/Street topology without validating coercion.
