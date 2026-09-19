@@ -28,3 +28,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0004 — school friendship and smile-making limits](PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md): WXS I3 for continuing Haruka–Emu friendship; all four P06 humans/company retained with Emu I2 and ordinary I1 increments. Shared knowledge and relationship records reconciled with MMJ, LN/VBS and retained N25.
 
 - [EVENT_0008 — 聖なる夜に、この歌声を](PJSK_EVENT_0008_DEEP_READING.md): complete 26-story envelope, WxS Nene operative I3 with P06 human/company IDs retained; Leo/need reported I1, MMJ/VBS/N25 I0. Eight linked areas have chapter-8 unlock rather than publication dates.
+
+- [EVENT_0015 — スマイルオブドリーマー](PJSK_EVENT_0015_DEEP_READING.md): complete 29-story envelope; WxS I2 for a shared but unresolved park threat and enacted planning, Ichika–Nene and Tsukasa–Saki I2 continuity, MMJ/VBS/N25 I0. Eleven undated area unlocks and Wonderland singer receipts remain bounded.
