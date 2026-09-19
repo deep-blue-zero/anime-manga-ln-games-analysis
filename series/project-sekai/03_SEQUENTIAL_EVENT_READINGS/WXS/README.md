@@ -32,3 +32,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0015 — スマイルオブドリーマー](PJSK_EVENT_0015_DEEP_READING.md): complete 29-story envelope; WxS I2 for a shared but unresolved park threat and enacted planning, Ichika–Nene and Tsukasa–Saki I2 continuity, MMJ/VBS/N25 I0. Eleven undated area unlocks and Wonderland singer receipts remain bounded.
 
 - [EVENT_0024 — 純白の貴方へ、誓いの歌を！](PJSK_EVENT_0024_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-RUI-E0024` and `REL-CROSS-TOYA-RUI-E0024` record distinct outsider-cooperation and relationship I3 changes, `VBS-REL-TOYA-FATHER-2` records de-escalation without reconciliation, and `REL-CROSS-AKITO-RUI-E0024` records bounded I2 respect/access. Existing humans/groups remain.
+
+- [EVENT_0025 — ワンダーマジカルショウタイム！](PJSK_EVENT_0025_DEEP_READING.md): complete 30-story envelope; `WXS-EP-PARK-E0015-OPEN → WXS-EP-PARK-E0025` records one provisional institutional I3, while founded humans, group, park-support, cross-unit and Wonderland routes receive bounded I1/I2.
