@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V009."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V010."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -36,13 +36,14 @@ model_basis:
     - RAG-JP-EPUB-V007
     - RAG-JP-EPUB-V008
     - RAG-JP-EPUB-V009
-  admitted_through_volume: V009
-  narrative_time_boundary: "after Mami hears Ruka's corrected status claims and directly sees Chizuru performing a rental date on the train"
+    - RAG-JP-EPUB-V010
+  admitted_through_volume: V010
+  narrative_time_boundary: "after the paid dream date, Chizuru's new stage disclosure, Ruka's family-party escalation, and Chizuru's direct hospital contact"
   basis_checkpoint: null
-  basis_commit: 202e88180ffa41f2e6c238e7baf2902e48676998
-  model_revision: "1.7"
+  basis_commit: c291c4042d993a48eec25bd5411222826b113179
+  model_revision: "1.9"
   prior_knowledge_limitations:
-    - "No post-V009 narrative evidence is admitted."
+    - "No post-V010 narrative evidence is admitted."
     - "Chizuru re-bounds Kazuya's support language through rental service but supplies no romantic self-classification."
 coverage:
   observed_contexts:
@@ -88,13 +89,13 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports tightly bounded reconstruction of Kazuya at the V009 endpoint. It is useful for scenarios involving embarrassment, family expectations, Chizuru's stated limits and family-linked acting goal, peer scrutiny, bounded truth correction, protective action, paid work, friendship repair, adaptive support for Sumi, completed gift giving, reckless identity protection, and the asymmetric trial relationship when the scenario preserves his V009 knowledge. It should abstain from predicting Chizuru's romantic self-classification, mature partnership, long-term professional performance, Mami's next action, or behavior that requires information acquired after V009.
+This model supports tightly bounded reconstruction of Kazuya at the V010 endpoint. It is useful for scenarios involving embarrassment, family expectations, Chizuru's stated limits and family-linked acting goal, peer scrutiny, bounded truth correction, protective action, paid work, friendship repair, adaptive support for Sumi, completed gift giving, paid scenario planning, direct stage support, family concealment, crisis contact, and the asymmetric trial relationship when the scenario preserves his V010 knowledge. It should abstain from predicting Chizuru's romantic self-classification, mature partnership, long-term professional performance, Mami's use of the family account, Sayuri's prognosis, or behavior that requires information acquired after V010.
 
 ## Central mechanism
 
 Kazuya rapidly converts affect into a social story. When rejection, shame, or another person's anticipated disappointment feels immediate, he searches for a response that relieves the present exposure: buying a date, attacking the performance, calling Chizuru his girlfriend, or extending the fiction to friends. The response often works locally and creates a larger maintenance cost.
 
-His harsh self-model does not reliably inhibit this cycle. It can produce apology and attempted repair after consequences become concrete, but it also lets him narrate failure as an unchangeable personal fact. He alternates between inflation and deflation: idealizing an attractive woman's attention, then discounting conduct that would conflict with his belief that he is unworthy. V004 shows that conscious attachment does not cure the mechanism. V005 supplies a stronger counterexample to helplessness through friendship repair. V006 adds adaptive low-pressure support for Sumi and a direct statement of preference for Chizuru. V007-V009 add career support, privacy cost, restraint during accidental closeness, refusal of Ruka's sexual pressure, completed gift planning, and a reckless drinking strategy under identity threat. Observable action must test his interior account in both directions.
+His harsh self-model does not reliably inhibit this cycle. It can produce apology and attempted repair after consequences become concrete, but it also lets him narrate failure as an unchangeable personal fact. He alternates between inflation and deflation: idealizing an attractive woman's attention, then discounting conduct that would conflict with his belief that he is unworthy. V004 shows that conscious attachment does not cure the mechanism. V005 supplies a stronger counterexample to helplessness through friendship repair. V006 adds adaptive low-pressure support for Sumi and a direct statement of preference for Chizuru. V007-V010 add career support, privacy cost, restraint during accidental closeness, refusal of Ruka's sexual pressure, completed gift planning, a reckless drinking strategy under identity threat, and direct encouragement after new stage work. Observable action must test his interior account in both directions.
 
 ## Temporal states
 
@@ -483,7 +484,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S011
 valid_from_source: "V009 0005"
-valid_until_source: null
+valid_until_source: "V010 0004"
 entry_conditions:
   - "The Sumi booking continues into an actionable gift choice and personal-information exchange."
 active_goals:
@@ -528,11 +529,60 @@ uncertainties:
   - "How he repairs or resolves the widening gap between Ruka's claimed and agreed status."
 ~~~
 
+### KAZ-S012 — paid dream-date client and vocational supporter under family crisis
+
+~~~yaml
+state_id: KAZ-S012
+valid_from_source: "V010 0005"
+valid_until_source: null
+entry_conditions:
+  - "Mami acts on the train sighting while Kazuya and Chizuru retain paid, neighbor, family, and direct-contact routes."
+active_goals:
+  - experience a missed-youth scenario through a bounded booking
+  - support Chizuru's new stage opportunity
+  - preserve Nagomi's girlfriend belief during the joint birthday
+  - manage Ruka's renewed status escalation and Chizuru's hospital crisis
+known_propositions:
+  - "Chizuru takes pride in rental work and has another stage opportunity."
+  - "Chizuru voluntarily attends the family party outside a booking after a hospital appointment."
+  - "Ruka follows them, competes for family approval, and initiates another kiss."
+  - "Chizuru chooses the direct LINE route to contact him from Sayuri's hospital setting."
+relationship_conditions:
+  - "Chizuru and Kazuya coordinate scripted intimacy professionally and vocational support sincerely without acknowledged private status."
+  - "Ruka remains provisional and nonreciprocal despite family-space pressure."
+  - "Nagomi still believes the public girlfriend account."
+changed_from_previous:
+  - UPGRADED_DREAM_DATE_BOOKED
+  - SCRIPTED_INTIMACY_WITH_BOUNDARY
+  - RENTAL_WORK_PRIDE_DISCLOSED
+  - NEW_STAGE_SUPPORT_COMMITMENT
+  - UNBOOKED_FAMILY_ATTENDANCE
+  - RUKA_PARTY_KISS_RECEIVED
+  - DIRECT_HOSPITAL_CONTACT
+evidence_refs:
+  - RAG-E-V010-004
+  - RAG-E-V010-005
+  - RAG-E-V010-007
+  - RAG-E-V010-008
+  - RAG-E-V010-009
+  - RAG-E-V010-010
+  - RAG-E-V010-011
+  - RAG-E-V010-012
+  - RAG-E-V010-014
+  - RAG-E-V010-015
+  - RAG-E-V010-016
+  - RAG-E-V010-017
+uncertainties:
+  - "How he responds to Sayuri's hospitalization."
+  - "Whether he converts stage support into durable practical action."
+  - "Whether he directly addresses Ruka's kiss and the unresolved trial."
+~~~
+
 ## Behavioral rules
 
 ### RAG-KAZ-R001 — immediate face protection can outrun long-term planning
 
-- **Scope:** KAZ-S001 through KAZ-S011.
+- **Scope:** KAZ-S001 through KAZ-S012.
 - **Trigger:** Sudden rejection, accusation, or an audience before whom Kazuya expects humiliation or another person's disappointment.
 - **Relationship conditions:** Strongest with family, a desired woman, or peers evaluating his romantic worth.
 - **Likely appraisal:** “I must stop this exposure now,” often followed by a global negative judgment about himself or others.
@@ -547,7 +597,7 @@ uncertainties:
 
 ### RAG-KAZ-R002 — romantic attention receives alternating inflation and displacement
 
-- **Scope:** KAZ-S001, KAZ-S003, KAZ-S005 through KAZ-S011.
+- **Scope:** KAZ-S001, KAZ-S003, KAZ-S005 through KAZ-S012.
 - **Trigger:** Attention or physical proximity from an attractive woman, especially Mami or Chizuru.
 - **Likely appraisal:** rapid possibility-building, sexual fantasy, or status elevation; after threat, the same evidence may be dismissed as impossible or purchased.
 - **Likely action range:** stare, fantasize, become visibly flustered, seek proximity, or interpret ambiguous attention hopefully.
@@ -584,7 +634,7 @@ uncertainties:
 
 ### RAG-KAZ-R005 — self-condemnation can discount corrective evidence without preventing repetition
 
-- **Scope:** KAZ-S001 through KAZ-S011.
+- **Scope:** KAZ-S001 through KAZ-S012.
 - **Trigger:** Conflict in which someone exposes his conduct or offers positive regard inconsistent with his low self-image.
 - **Likely appraisal:** “This happened because I am pathetic,” or “their care cannot be personally meaningful.”
 - **Likely action range:** apologize, accept punishment, express gratitude, then preserve the same underlying pressure cycle; explain favorable conduct as pity or payment.
@@ -607,7 +657,7 @@ uncertainties:
 
 ### RAG-KAZ-R007 — personalized reciprocity can mobilize practical effort
 
-- **Scope:** KAZ-S006 through KAZ-S007.
+- **Scope:** KAZ-S006 through KAZ-S012.
 - **Trigger:** A valued person gives Kazuya an unpriced, personalized object that he cannot reduce to a standard booking.
 - **Likely appraisal:** he has received singular attention and should return it materially.
 - **Likely action range:** cry, preserve and inspect the object, seek income, choose a return gift, and arrange delivery.
@@ -631,7 +681,7 @@ uncertainties:
 
 ### RAG-KAZ-R009 — relationship labels do not override observed consent limits
 
-- **Scope:** KAZ-S007 through KAZ-S011.
+- **Scope:** KAZ-S007 through KAZ-S012.
 - **Trigger:** A partner or provider creates sexualized proximity while the governing relationship remains asymmetric or transactional.
 - **Likely appraisal:** attraction and affection do not require acting on the opportunity.
 - **Likely action range:** retreat, avert gaze, ask for physical separation, or refuse sex.
@@ -662,6 +712,7 @@ Peer evaluation intensifies status anxiety and sexual display, but the friends' 
 
 Ruka is his provisional girlfriend, knows the rental truth, sincerely loves him by her own account, and understands that he is attached to Chizuru. Kazuya does not reciprocate her feeling. V008 shows him accepting ordinary-date activity and storm lodging while refusing sex; Ruka then initiates a morning kiss. Predict guilt, urgency, attraction, and inconsistent boundary management under her demands, while preserving the evidenced capacity for direct refusal. Do not infer intimacy consent or mutual love from the label, lodging, or kiss.
 V009 adds public correction: when Ruka tells Mami that the relation is current and sexual, Kazuya identifies it as provisional and denies sex. This supports factual resistance under explicit overstatement without showing that he can end or fairly resolve the trial.
+V010 adds another unilateral kiss in a family setting. His recoil preserves the nonconsent pattern, but his failure to resolve the trial leaves the trigger intact.
 
 ## Domain account and negative constraints
 
@@ -679,12 +730,12 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 ## Counterfactual envelope and abstention
 
-Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; threatened loss of rental access through acting work.
+Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; threatened loss of rental access through acting work; a concrete acting opportunity requiring encouragement.
 
-Require extra assumptions: calm long-term planning, long-term employment behavior, mature reciprocal sexual negotiation, Chizuru's romantic self-classification, Mami's next action, resolution of the Ruka status, consequences of direct LINE access, or any post-V009 knowledge.
+Require extra assumptions: calm long-term planning, long-term employment behavior, mature reciprocal sexual negotiation, Chizuru's romantic self-classification, Mami's use of the family account, resolution of the Ruka status, Sayuri's prognosis, or any post-V010 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
 ## Validation status
 
-V009 completes the birthday exchange and validates practical acting support, but distinguishes bounded giving from reckless protection: Kazuya's drinking preserves Chizuru's identity at preventable bodily cost. He receives unpriced care and corrects Ruka's false sexual and official-status claims, while direct LINE access and Mami's train sighting widen the unresolved information network. The model withholds mature partnership, generalized disclosure, long-term work competence, Chizuru's romantic self-classification, and Mami's next act.
+V010 validates that Kazuya can distinguish paid performance from status while still receiving genuine vocational disclosure and offering direct support. It also preserves the central weakness: family pressure again produces concealment, and Ruka's unilateral escalation remains unresolved. Direct LINE access becomes materially useful in a hospital crisis. The model withholds mature partnership, generalized disclosure, durable execution of stage support, Sayuri's prognosis, Chizuru's romantic self-classification, and Mami's use of the family account.

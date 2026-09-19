@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; character evidence inspected through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; character evidence inspected through V010."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V009
+inspected_through_volume: V010
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -92,6 +92,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E052 | KAZ-S011 | RAG-E-V009-005 through RAG-E-V009-009 | Audience collision, deliberate intoxication, protection, and care received | Helps improvise the sea-rescue account, repeatedly drinks to divert scrutiny from Ichinose, and later says he thought he had to protect her even if he died. | Acts decisively for another person's privacy under peer pressure. | The method is reckless, incapacitates him, and imposes avoidable bodily care on Chizuru. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
 | RAG-KAZ-E053 | KAZ-S011 | RAG-E-V009-010, RAG-E-V009-011 | Memory uncertainty, digital access, and boundary testing | Adds Ichinose through the new group LINE without asking and uses the later medicine as evidence that remembered care was real. | Turns audience collision into a direct communication channel and a hopeful interpretation. | Chizuru objects to the add and verbally limits the care's meaning. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R005 |
 | RAG-KAZ-E054 | KAZ-S011 | RAG-E-V009-012 through RAG-E-V009-015 | Workplace collision, correction, and loss of information control | Tries to keep Mami and Ruka's connection vague, then corrects Ruka's official-status and sex claims before Mami later sees Chizuru at work. | Supplies factual correction once Ruka's assertion becomes explicit. | Initial evasion fails, and he does not control Mami's subsequent observation or inference. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E055 | KAZ-S012 | RAG-E-V010-004 through RAG-E-V010-008 | Paid planning, scripted intimacy, and bodily boundary | Books the promoted provider and a uniform option, participates in the dream date, and accepts fault after accidental Ferris-wheel contact. | Uses a formal service to stage missed youth while retaining awareness of the paid role and immediate boundary. | Intense response and purchased intimacy do not establish reciprocity. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R009 |
+| RAG-KAZ-E056 | KAZ-S012 | RAG-E-V010-009, RAG-E-V010-010 | Vocational listening and explicit future support | Hears Chizuru explain pride in rental work and another stage opportunity, promises to attend and support her, and resolves to help. | Responds to concrete career success with direct enthusiasm rather than only private fantasy. | Implementation and durability remain untested; his hand pressure briefly exceeds comfort. | RAG-KAZ-R002, RAG-KAZ-R007, RAG-KAZ-R008, RAG-KAZ-R009 |
+| RAG-KAZ-E057 | KAZ-S012 | RAG-E-V010-011 through RAG-E-V010-014 | Family pressure, concealment, and non-booked participation | Panics at Nagomi's demand, does not disclose the rental truth, and accepts Chizuru's chosen family attendance while belatedly explaining Ruka's involvement. | Continues the family fiction even as access expands beyond payment. | Chizuru absorbs substantial social cost, and durable honesty does not improve. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E058 | KAZ-S012 | RAG-E-V010-015 through RAG-E-V010-017 | Received unilateral kiss and crisis contact | Recoils from Ruka's party kiss and receives Chizuru's direct hospital communication through LINE. | Preserves nonconsent evidence while the previously contested contact route becomes useful in crisis. | He has not yet resolved Ruka's status or responded to Sayuri's condition within V010. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R009 |
 
 ## State-change summary
 
@@ -106,6 +110,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S009 — practical supporter under private access:** retreats when Chizuru directly tests his statement, then supports her after casting loss, protects her occupational privacy at bodily cost, accepts unpriced ordinary and family access, tells Sayuri he loves Chizuru, and resolves to support without requiring boyfriend status.
 - **KAZ-S010 — status-independent supporter under consent and planning tests:** gives temporary shelter and restraint, receives Chizuru's family history, states vocational support, refuses sex during Ruka's overnight escalation, and uses a Sumi booking to plan Chizuru's birthday gift.
 - **KAZ-S011 — practical giver and reckless identity protector under widening observation:** completes the acting-linked birthday gift, gives Chizuru a partial Ruka reassurance, protects her campus identity through dangerous overdrinking, receives unpriced care and direct LINE access, and corrects Ruka's false public status claims before Mami sees Chizuru working.
+- **KAZ-S012 — paid dream-date client and vocational supporter under family crisis:** designs a commercial missed-youth date, receives Chizuru's work and stage disclosure, promises support, preserves the family fiction, recoils from Ruka's renewed unilateral kiss, and receives Chizuru's direct hospital contact.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -130,12 +135,14 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Booking Sumi for birthday advice shows purpose-specific planning and information seeking through a formal service channel (RAG-E-V008-015, RAG-E-V008-016).
 - V009 completes that plan and shows both sides of protection: a carefully bounded gift and a reckless drinking strategy that transfers cost to Chizuru (RAG-E-V009-003, RAG-E-V009-004, RAG-E-V009-007 through RAG-E-V009-009).
 - When Ruka publicly overstates their relation, Kazuya corrects both official status and sexual history, although his earlier attempt to keep Mami uninformed still follows the concealment pattern (RAG-E-V009-012 through RAG-E-V009-014).
+- V010 again separates domains: he can plan a paid scenario, respect an immediate bodily correction, and respond directly to vocational success, while family scrutiny still produces concealment and reliance on Chizuru's cooperation (RAG-E-V010-004 through RAG-E-V010-014).
+- When Ruka initiates another kiss, his recoil supplies additional nonconsent evidence; the direct LINE route then becomes materially useful for Chizuru's hospital crisis (RAG-E-V010-015 through RAG-E-V010-017).
 
 ## Gaps and negative evidence
 
 - Paid employment is routine enough in V005 to produce first wages and a repair plan, but long-duration competence and independence from relationship pressure remain insufficiently sampled.
 - Competence outside relationship crisis remains underobserved.
-- Nine volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
+- Ten volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.

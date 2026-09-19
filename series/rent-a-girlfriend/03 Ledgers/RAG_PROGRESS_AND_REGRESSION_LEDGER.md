@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V009
-row_count: 52
-state: CURRENT_THROUGH_V009
+inspected_through_volume: V010
+row_count: 59
+state: CURRENT_THROUGH_V010
 ```
 ```
 
@@ -95,3 +95,10 @@ state: CURRENT_THROUGH_V009
 | RAG-PRG-050 | Kazuya boundary and protection conduct | MIXED — he protects Chizuru's campus identity but does so through dangerous overdrinking. | The cover survives and Chizuru recognizes his purpose. | The method incapacitates him and imposes avoidable care work. | RAG-E-V009-005 through RAG-E-V009-009 |
 | RAG-PRG-051 | Kazuya-Chizuru private access | MATERIAL_GAIN_WITH_BOUNDARY — escort, bathroom care, medicine, and direct LINE access expand non-booking contact. | Chizuru chooses immediate and follow-up care. | She verbally limits interpretation and objects to the unsolicited add; no mutual status change occurs. | RAG-E-V009-008 through RAG-E-V009-011 |
 | RAG-PRG-052 | Ruka-Kazuya provisional relation | REGRESSION_IN_PUBLIC_ACCURACY — Ruka asserts current-girlfriend status and invents sexual completion after Kazuya corrects the trial label. | Mami now knows the unresolved relation and Ruka's sincere claim. | Declarative insistence widens the gap between Ruka's desired status and mutual agreement. | RAG-E-V009-012 through RAG-E-V009-014 |
+| RAG-PRG-053 | Mami investigation | ESCALATION — a direct question and family-account follow convert a chance sighting into sustained inquiry. | Mami gains a second public information route and a contradiction to test. | Her desired endpoint remains unknown. | RAG-E-V010-001, RAG-E-V010-002 |
+| RAG-PRG-054 | Kazuya-Chizuru coordination | MATERIAL_GAIN_WITH_SERVICE_BOUNDARY — the planned dream date sustains handholding, food sharing, and scripted intimate poses. | Both coordinate successfully and Kazuya continues to recognize the paid role. | The service frame prevents treating performance as mutual status. | RAG-E-V010-004 through RAG-E-V010-008 |
+| RAG-PRG-055 | Chizuru vocational identity | GAIN — she articulates pride in rental work and reports another stage opportunity. | Work is represented as chosen practice as well as economic service. | Career outcome and eventual rental exit remain unknown. | RAG-E-V010-009, RAG-E-V010-010 |
+| RAG-PRG-056 | Kazuya vocational support | GAIN — he responds to the new stage opportunity with direct excitement, promised attendance, and a plan to help. | Support becomes future-oriented and openly communicated. | Execution and durability remain untested. | RAG-E-V010-010 |
+| RAG-PRG-057 | Kazuya-Chizuru private access | MATERIAL_GAIN_WITH_DECEPTION_COST — Chizuru attends an unbooked family party and later uses direct LINE during a hospital crisis. | Two non-booking routes now carry chosen contact. | Family access still depends on a false label, and the digital route remains context-bounded. | RAG-E-V010-011 through RAG-E-V010-017 |
+| RAG-PRG-058 | Ruka-Kazuya provisional relation | REGRESSION_AFTER_LOCAL_REPAIR — Ruka apologizes for the Mami confrontation, then resumes conversion pressure through family competition and a unilateral kiss. | She can acknowledge one harmful episode but does not revise the governing status strategy. | Mutual agreement and reciprocal love remain absent. | RAG-E-V010-003, RAG-E-V010-014, RAG-E-V010-015 |
+| RAG-PRG-059 | Sumi predicted birthday follow-up | NONCONFIRMING_CASE — the represented June 1 interval passes without an observed message, gift, meeting, or other action. | A prospectively frozen expectation fails at its stated horizon. | The absence establishes no motive and does not erase earlier communication gains. | RAG-E-V010-018 |

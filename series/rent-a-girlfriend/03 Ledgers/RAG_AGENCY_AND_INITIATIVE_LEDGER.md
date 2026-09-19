@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V009
-row_count: 57
-state: CURRENT_THROUGH_V009
+inspected_through_volume: V010
+row_count: 65
+state: CURRENT_THROUGH_V010
 ```
 
 ## Records
@@ -99,3 +99,11 @@ state: CURRENT_THROUGH_V009
 | RAG-AGY-055 | Chizuru | Leave with the group or assist the person who overdrank for her cover. | Stays, escorts Kazuya home, tends him while he vomits, and later leaves hangover medicine. | Protects his immediate health and confirms chosen follow-up care. | Care remains bounded and verbally minimized; RAG-E-V009-008, RAG-E-V009-009, RAG-E-V009-011. |
 | RAG-AGY-056 | Ruka | Let Kazuya explain the provisional relation or assert priority to Mami. | Claims current-girlfriend status, falsely claims sex, challenges Mami, and repeats her love after doubt. | Forces the trial relation into Mami's knowledge and intensifies public rivalry. | Kazuya immediately corrects both status and sexual fact; RAG-E-V009-012 through RAG-E-V009-014. |
 | RAG-AGY-057 | Mami | Treat the workplace account as settled or examine its contradictions. | Questions Ruka's rental knowledge and claimed status, reflects afterward, and attends to Chizuru when she appears on a rental date. | Gains direct evidence that reconnects Kazuya's two claimed relationships to the service system. | Her next action and desired endpoint remain unknown; RAG-E-V009-014, RAG-E-V009-015. |
+| RAG-AGY-058 | Mami | Accept Chizuru's denial or extend the inquiry. | Questions her directly, searches the Kinoshita family account, and follows it. | Converts a chance sighting into a durable family-information route. | The intended use remains unknown; RAG-E-V010-001, RAG-E-V010-002. |
+| RAG-AGY-059 | Ruka | Defend the Mami confrontation or acknowledge harm. | Apologizes to Kazuya and names the rivalry trigger. | Repairs the immediate interaction. | She does not revise the underlying status strategy; RAG-E-V010-003. |
+| RAG-AGY-060 | Kazuya | Continue an ordinary booking pattern or design a missed-youth scenario. | Books the upgraded provider and selects school uniforms for May 20. | Turns private regret into a planned paid experience. | Payment and planning do not create reciprocal private dating; RAG-E-V010-004. |
+| RAG-AGY-061 | Chizuru | Execute the date minimally or lead the requested scenario. | Takes his hand, shares food, selects lovers mode, and directs photo-booth poses. | Delivers a coordinated girlfriend performance and protects her public identity. | Initiative remains compatible with professional skill; RAG-E-V010-005, RAG-E-V010-007. |
+| RAG-AGY-062 | Chizuru | Keep work and acting information separate from the booking or explain their connection. | Describes pride in rental work and discloses another stage opportunity. | Gives Kazuya a clearer vocational model and a concrete support target. | Disclosure grants no romantic status; RAG-E-V010-009, RAG-E-V010-010. |
+| RAG-AGY-063 | Kazuya | Respond to the stage news with private fantasy or concrete encouragement. | Promises to attend and support her and resolves to help the acting goal. | Extends career support beyond the earlier casting loss. | Durability and execution remain future tests; RAG-E-V010-010. |
+| RAG-AGY-064 | Chizuru | Decline an unbooked family demand or honor the prior promise. | Volunteers to attend after the hospital appointment, brings a gift, and participates in the joint celebration. | Chosen family access expands outside a booking. | The false girlfriend premise and professional justification remain active; RAG-E-V010-011 through RAG-E-V010-014. |
+| RAG-AGY-065 | Ruka / Chizuru | Compete for access through different initiatives. | Ruka follows, attends, performs for approval, kisses Kazuya, and declares love; Chizuru later initiates direct crisis contact from the hospital. | Rivalry and care both bypass formal booking routes. | Ruka's acts remain unilateral, while Chizuru's message is crisis-bounded; RAG-E-V010-014 through RAG-E-V010-017. |

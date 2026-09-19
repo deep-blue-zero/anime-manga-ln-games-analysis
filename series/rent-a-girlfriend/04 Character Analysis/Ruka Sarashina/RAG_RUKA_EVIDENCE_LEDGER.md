@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V009; character evidence inspected through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V010; character evidence inspected through V010."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V009
+inspected_through_volume: V010
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -68,6 +68,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E028 | RUK-S008 | RAG-E-V009-004 | Overnight consequence received through rival communication | Kazuya tells Chizuru in writing that he and Ruka have not had sex, and Chizuru says she believes him. | The private overnight becomes a comparison and reassurance issue outside Ruka's control. | Ruka is not shown knowing about the note; it omits her morning kiss. | RAG-RUK-R001, RAG-RUK-R002 |
 | RAG-RUK-E029 | RUK-S008 | RAG-E-V009-012, RAG-E-V009-013 | Former-partner discovery, public status assertion, and false sexual claim | Learns Mami's identity, declares herself Kazuya's current girlfriend, and says they have had sex. | Uses categorical speech to claim present priority before a newly identified rival. | Kazuya immediately calls the relation provisional and denies sex. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R005 |
 | RAG-RUK-E030 | RUK-S008 | RAG-E-V009-014 | Challenge, tears, and intensified declaration | Responds to Mami's doubts and rental-girlfriend comparison by crying and repeating that she is Kazuya's girlfriend and loves him most. | Threat to recognition intensifies the existing certainty claim rather than producing revision. | Sincerity does not establish mutual agreement, and Mami leaves unconvinced. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R004 |
+| RAG-RUK-E031 | RUK-S009 | RAG-E-V010-003 | Apology and trigger account | Apologizes to Kazuya for the Mami confrontation and explains the ex-girlfriend and coworker collision. | Shows capacity to acknowledge a local excess after the threat passes. | She does not retract the false sex claim or revise the larger status goal. | RAG-RUK-R002, RAG-RUK-R005 |
+| RAG-RUK-E032 | RUK-S009 | RAG-E-V010-013 | Direct birthday access | Calls Kazuya by video to wish him happy birthday. | Uses established personal access rather than a public performance. | Timely attention does not establish reciprocity or official conversion. | RAG-RUK-R001, RAG-RUK-R005 |
+| RAG-RUK-E033 | RUK-S009 | RAG-E-V010-014 | Pursuit into family space and approval competition | Follows Kazuya and Chizuru, insists on attending, uses the friend label, and competes through service and domestic performance. | Converts family recognition into a new status arena. | The public label remains below her desired status, and the family lacks full information. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R005 |
+| RAG-RUK-E034 | RUK-S009 | RAG-E-V010-015 | Unilateral kiss and public priority claim | Initiates a kiss, then says the friendship description need not remain true and declares herself the person who likes Kazuya most. | Escalates physical and verbal claiming when competition is immediate. | Kazuya recoils; no mutual agreement or reciprocal love follows. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R004, RAG-RUK-R005 |
 
 ## State-change summary
 
@@ -79,8 +83,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S006 — provisional girlfriend receiving an interrupted conversion attempt at work: an ordinary date nearly produces official status from Kazuya's duty-based reasoning, but the proposal and her workplace inquiry are both interrupted before she gains either reciprocal love or full information.
 - RUK-S007 — domestic and overnight escalator under explicit nonreciprocity: rival discovery and two months without recognition lead her to enter Kazuya's university, create an ordinary date and storm overnight, press for sex, receive refusal, and initiate a morning kiss.
 - RUK-S008 — public status claimant under former-partner challenge: the overnight becomes a reassurance issue between Kazuya and Chizuru; Ruka learns Mami's identity, asserts current-girlfriend status, falsely claims sex, and answers skepticism with tears and a renewed love declaration.
+- RUK-S009 — locally apologetic but family-space escalator: she apologizes for the Mami confrontation, maintains direct birthday access, follows the pair into Kazuya's family home, competes for approval, initiates another kiss, and publicly renews her priority claim.
 
-V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, while V009 tests that state before Mami.
+V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, while V009-V010 test that state before Mami and Kazuya's family.
 
 These are evidence configurations, not a diagnosis or a claim that physiology determines emotion.
 
@@ -93,6 +98,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - She can revise an immediate plan when refusal or another person's concrete emotional cost becomes salient, while preserving the larger romantic goal.
 - V008 shows that short-term cessation after refusal can coexist with renewed proximity pressure and a later unilateral kiss.
 - V009 shows that status threat can produce factual overstatement: Ruka claims sex after a night explicitly established as unconsummated and persists after Kazuya's correction.
+- V010 shows local remorse without strategic revision: she can apologize for one confrontation, then return to pursuit, approval competition, and unilateral intimacy in a new audience (RAG-E-V010-003, RAG-E-V010-014, RAG-E-V010-015).
 - She does not immediately expose the central secret and later explicitly says she never intended to do so, supplying counterevidence to a purely destructive or manipulative model.
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, university visits, and karaoke coworker access are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 
@@ -104,7 +110,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - Her stated love is direct evidence of her represented belief, not proof of Kazuya's feeling or her later conduct.
 - The V005 and V008 continuations establish Kazuya's refusals and no completed sexual act; Ruka's contrary V009 claim is explicitly denied and does not establish intimacy.
 - Kazuya's interrupted attempt to make the relationship official is not reciprocal-love evidence, and Ruka does not know his later direct preference or support language to Chizuru.
-- No evidence supports performed voice, acoustic delivery, a clinical label, or Ruka's behavior after the V009 confrontation.
+- No evidence supports performed voice, acoustic delivery, a clinical label, or a stable response to repeated nonreciprocity beyond V010.
 
 ## Update rule
 

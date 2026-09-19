@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V009
-row_count: 49
-state: CURRENT_THROUGH_V009
+inspected_through_volume: V010
+row_count: 56
+state: CURRENT_THROUGH_V010
 ```
 
 ## Records
@@ -91,3 +91,10 @@ state: CURRENT_THROUGH_V009
 | RAG-FRM-047 | Protective repetition becomes bodily collapse and reversed care. | Kazuya repeatedly loses the drinking game, then Chizuru supports and tends the person protecting her. | Comic game rhythm gives way to apartment and bathroom bodily detail. | Sincere protection is shown together with preventable self-harm and burden; RAG-E-V009-007 through RAG-E-V009-009. |
 | RAG-FRM-048 | A small remedy object verifies an uncertain night. | Fragmentary hangover memory is followed by medicine outside Kazuya's door. | Dreamlike recall and object close-up turn ambiguous memory into material evidence. | Verification establishes care, not a unique motive or status; RAG-E-V009-010, RAG-E-V009-011. |
 | RAG-FRM-049 | A workplace claim becomes a train-window cliffhanger. | Ruka's contradictory status account primes Mami to interpret Chizuru's visible rental performance. | Interrogative interior text, transit framing, mutual recognition, and a final close-up convert thought into direct evidence. | Observation creates a V010 action question while motive remains withheld; RAG-E-V009-012 through RAG-E-V009-015. |
+| RAG-FRM-050 | The train cliffhanger resolves into a question and a social-media follow. | Mami waits for the client to leave, tests Chizuru's account, then reads the family profile. | Direct dialogue gives way to screen-mediated investigation. | The account follow records access rather than final intent; RAG-E-V010-001, RAG-E-V010-002. |
+| RAG-FRM-051 | Matching uniforms manufacture a visible shared youth. | Kazuya's missed-school fantasy becomes a coordinated costume date at an amusement venue. | Clothing, handholding, and food sharing create the surface of a private school romance. | Platform booking and costume choice remain causally present; RAG-E-V010-004, RAG-E-V010-005. |
+| RAG-FRM-052 | Photo-booth prompts expose intimacy as reproducible performance. | Lovers mode sequences hand-heart, shoulder, embrace, and close-contact poses. | Machine instructions and timed frames make each romantic image an explicit task. | Skilled performance may coexist with feeling but cannot prove it; RAG-E-V010-007. |
+| RAG-FRM-053 | Ferris-wheel enclosure shifts scripted proximity into accidental contact and correction. | The cabin jolt interrupts conversation and produces immediate bodily reaction. | Confined framing heightens contact while the strike and apology restore the boundary. | Accident and visual eroticism do not supply consent; RAG-E-V010-008. |
+| RAG-FRM-054 | A commercial date becomes a stage-work conversation without leaving its frame. | Chizuru's account of rental pride leads into news of another acting opportunity and Kazuya's support. | Dialogue reinterprets girlfriend performance as labor, practice, and chosen service. | Genuine vocational exchange does not erase payment; RAG-E-V010-009, RAG-E-V010-010. |
+| RAG-FRM-055 | Two birthday routes converge in a family-home contest. | Chizuru's promised attendance and Ruka's pursuit place both women before Nagomi under incompatible labels. | Gifts, food service, greetings, and domestic performance become rivalry signs. | Family approval cannot settle private status; RAG-E-V010-011 through RAG-E-V010-015. |
+| RAG-FRM-056 | A LINE notification turns the party into a hospital cliffhanger. | Chizuru's direct message interrupts family rivalry and relocates attention to Sayuri's condition. | Screen text connects separated family spaces and converts prior technical access into urgent communication. | The cut establishes crisis, not diagnosis or outcome; RAG-E-V010-016, RAG-E-V010-017. |

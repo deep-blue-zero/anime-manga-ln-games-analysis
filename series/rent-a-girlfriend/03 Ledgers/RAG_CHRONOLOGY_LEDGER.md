@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V009
-row_count: 40
-state: CURRENT_THROUGH_V009
+inspected_through_volume: V010
+row_count: 45
+state: CURRENT_THROUGH_V010
 ```
 
 ## Records
@@ -82,3 +82,8 @@ state: CURRENT_THROUGH_V009
 | RAG-CHR-038 | RAG-E-V009-005 through RAG-E-V009-009 | At a later Wednesday university drinking event, the audience collision and drinking game precede Kazuya's intoxication and Chizuru's overnight escort and care. | Wednesday is stated in the scheduling dialogue; same-evening order is explicit. | Exact calendar date and duration of care are not printed. |
 | RAG-CHR-039 | RAG-E-V009-010, RAG-E-V009-011 | The next morning, hangover memories and the new group LINE lead Kazuya to add Ichinose; Chizuru later leaves medicine. | Next-morning placement and event order are explicit. | The precise interval between their conversation and the delivered remedy is unstated. |
 | RAG-CHR-040 | RAG-E-V009-012 through RAG-E-V009-015 | Mami's karaoke visit and Ruka confrontation precede Mami's train ride, where she sees Chizuru on a rental date. | Continuous ordered sequence; exact date unknown. | V009 ends at mutual recognition before Mami's next action. |
+| RAG-CHR-041 | RAG-E-V010-001, RAG-E-V010-002 | Immediately after the train sighting, Mami questions Chizuru and then follows the Kinoshita family liquor-store account. | Direct V009 continuation; exact date unknown. | The confrontation precedes the social-account research. |
+| RAG-CHR-042 | RAG-E-V010-003 through RAG-E-V010-010 | After Ruka apologizes, Kazuya books Chizuru for May 20; the uniform date, photo booth, rides, work discussion, and stage disclosure follow in sequence. | May 20 is explicit; same-day order is continuous. | The precise timing of Chizuru's stage production remains unstated. |
+| RAG-CHR-043 | RAG-E-V010-011 through RAG-E-V010-013 | Nagomi calls before Kazuya's June 1 birthday; Chizuru agrees to attend the family celebration after a hospital appointment, and both Chizuru and Ruka deliver birthday greetings. | June 1 is explicit from the V009 calendar anchor and V010 birthday event. | Chizuru's own missed April birthday is celebrated jointly but does not change the June 1 event date. |
+| RAG-CHR-044 | RAG-E-V010-014, RAG-E-V010-015 | Chizuru and Ruka converge at the Kinoshita family gathering; rivalry and Ruka's initiated kiss occur during the party. | Same-evening sequence explicit. | The party preserves the false public girlfriend premise. |
+| RAG-CHR-045 | RAG-E-V010-016, RAG-E-V010-017 | Near the party's end, Chizuru uses LINE from Sayuri's hospital setting and asks to speak with Kazuya. | Direct cross-location sequence; V010 endpoint. | Diagnosis, prognosis, and subsequent response are outside the admitted boundary. |

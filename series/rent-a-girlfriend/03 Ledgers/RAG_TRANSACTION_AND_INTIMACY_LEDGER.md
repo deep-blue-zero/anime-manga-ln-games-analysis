@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V009
-row_count: 46
-state: CURRENT_THROUGH_V009
+inspected_through_volume: V010
+row_count: 52
+state: CURRENT_THROUGH_V010
 ```
 
 ## Records
@@ -88,3 +88,9 @@ state: CURRENT_THROUGH_V009
 | RAG-TXN-044 | Kazuya and Chizuru; identity protection and crisis care | No agreement requires Kazuya to drink or Chizuru to escort and tend him. | He voluntarily protects the campus identity; she voluntarily stays, enters his apartment, and supplies bodily care. | Protective motive does not authorize self-harm or obligate her care. | The cover survives at the cost of intoxication, vomiting, and next-day concern; RAG-E-V009-005 through RAG-E-V009-009. |
 | RAG-TXN-045 | Chizuru and Kazuya; follow-up medicine and LINE access | No payment governs the remedy; group architecture exposes her contact profile. | Chizuru leaves medicine, while Kazuya chooses to add her without asking. | Care is voluntary, but technical availability is not consent to unrestricted messaging. | Expands non-booking access while producing an explicit boundary objection; RAG-E-V009-010, RAG-E-V009-011. |
 | RAG-TXN-046 | Ruka, Kazuya, and Mami; claimed girlfriend and sexual status | The actual relation remains a provisional trial with no completed official conversion and no sex. | Ruka voluntarily declares love and priority but adds a false sexual claim; Kazuya corrects her. | Neither unilateral speech nor provisional status creates mutual agreement or retroactive consent. | Mami receives the contradiction and begins integrating it with rental evidence; RAG-E-V009-012 through RAG-E-V009-015. |
+| RAG-TXN-047 | Kazuya and Chizuru; upgraded uniform booking | Kazuya pays Chizuru's promoted rate plus a costume option for a May 20 dream date. | He requests the scenario; she accepts and actively performs it. | Payment authorizes the bounded service, not private relationship status. | Creates an intense but explicitly commercial shared experience; RAG-E-V010-004, RAG-E-V010-005. |
+| RAG-TXN-048 | Kazuya and Chizuru; photo-booth intimacy and accident | Lovers-mode poses are prompted inside the paid date; the Ferris-wheel contact is accidental. | Chizuru leads scripted poses, then immediately marks the accidental bodily boundary. | Poses, proximity, and accidental touching provide no general consent or romantic entitlement. | Professional coordination and bodily limits remain simultaneously visible; RAG-E-V010-007, RAG-E-V010-008. |
+| RAG-TXN-049 | Chizuru and Kazuya; work meaning and stage disclosure | The conversation occurs during paid time, but no separate exchange purchases vocational information or encouragement. | Chizuru voluntarily explains pride and acting overlap; Kazuya promises attendance and support. | Genuine disclosure and support do not dissolve the commercial frame or create reciprocity. | Vocational trust deepens within a bounded service relation; RAG-E-V010-009, RAG-E-V010-010. |
+| RAG-TXN-050 | Chizuru, Kazuya, and Nagomi; joint birthday attendance | No booking governs Chizuru's family visit; Nagomi's request and Chizuru's prior promise create social obligation. | Chizuru voluntarily attends and brings a gift. | Family gratitude and public girlfriend treatment do not validate the false status. | Unpriced family access expands while disclosure cost rises; RAG-E-V010-011 through RAG-E-V010-014. |
+| RAG-TXN-051 | Ruka and Kazuya; party kiss and status declaration | Provisional dating supplies no advance consent to the kiss or official conversion. | Ruka follows the pair, initiates contact, and declares priority; Kazuya recoils. | Unilateral physical and verbal acts cannot create mutual agreement. | The gap between claimed and accepted status widens; RAG-E-V010-014, RAG-E-V010-015. |
+| RAG-TXN-052 | Chizuru and Kazuya; crisis LINE contact | No payment or standing agreement governs the hospital message. | Chizuru chooses to use the direct route for a bounded family crisis. | Technical access permits this exchange but does not authorize unrestricted future contact. | Direct non-booking coordination becomes real under crisis conditions; RAG-E-V010-016, RAG-E-V010-017. |

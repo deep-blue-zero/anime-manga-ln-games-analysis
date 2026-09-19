@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V009
-row_count: 49
-state: CURRENT_THROUGH_V009
+inspected_through_volume: V010
+row_count: 56
+state: CURRENT_THROUGH_V010
 ```
 
 ## Records
@@ -91,3 +91,10 @@ state: CURRENT_THROUGH_V009
 | RAG-INF-047 | Kazuya gains direct LINE access to Ichinose through the university group. | Group membership exposes the profile, and he adds her without asking. | Social-platform architecture bypasses booking and neighbor channels. | Chizuru objects; access does not equal permission for unrestricted contact; RAG-E-V009-010. |
 | RAG-INF-048 | Mami learns that Ruka claims to be Kazuya's current girlfriend, knows rental-girlfriend context, and claims sex; Kazuya denies official and sexual completion. | Workplace dialogue gives Mami the competing assertions directly. | Rival public speech creates an inconsistent information set. | Mami cannot yet verify every component; RAG-E-V009-012 through RAG-E-V009-014. |
 | RAG-INF-049 | Mami directly sees Chizuru performing a rental date after reflecting on the inconsistent Ruka account. | Train encounter supplies visual confirmation and mutual recognition. | Independent observation reconnects Chizuru's occupation to Kazuya's relationship network. | The sighting establishes no next action or final motive; RAG-E-V009-015. |
+| RAG-INF-050 | Chizuru tells Mami she is no longer seeing Kazuya. | Mami asks directly after the observed rental date; Chizuru answers while recalling Ruka's request. | A protective or compliant answer conceals continuing contact. | The statement conflicts with later paid and family contact but does not by itself reveal Chizuru's motive; RAG-E-V010-001. |
+| RAG-INF-051 | Mami learns that Kazuya's family publicly describes a beloved only grandson with a girlfriend. | She finds and follows the liquor-store social account. | Public family metadata extends her inquiry beyond the rental platform and workplace. | She has not yet verified the identity or acted on the follow; RAG-E-V010-002. |
+| RAG-INF-052 | Kazuya learns that Chizuru has advanced provider class and now costs 1,000 yen more. | The rental platform exposes the promotion, availability, and rate. | Service metadata initiates the May 20 booking. | Platform status does not reveal private feeling; RAG-E-V010-004. |
+| RAG-INF-053 | Chizuru tells Kazuya that she values rental work and has obtained another stage opportunity. | She discloses both during the booked date. | Professional conversation carries genuine vocational information through a commercial encounter. | Future production success and private romantic meaning remain unknown; RAG-E-V010-009, RAG-E-V010-010. |
+| RAG-INF-054 | Nagomi believes Chizuru is Kazuya's private girlfriend and treats the joint birthday as a family event. | Kazuya and Chizuru preserve the representation; Ruka attends under a friend label. | Multiple actors manage incompatible public and private classifications. | The family does not learn the rental or provisional-girlfriend truth; RAG-E-V010-011 through RAG-E-V010-015. |
+| RAG-INF-055 | Ruka's public friend label conflicts with her claimed desired status and initiated kiss. | Family witnesses the friend presentation and parts of her conduct, while Kazuya knows the provisional relation. | Audience management lets rivalry enter the family home without full disclosure. | Neither family approval nor Ruka's declaration creates agreement; RAG-E-V010-014, RAG-E-V010-015. |
+| RAG-INF-056 | Chizuru can reach Kazuya directly and uses that route from Sayuri's hospital setting. | A LINE message and call request carry the crisis across locations. | The V009 technical path becomes chosen information transfer. | Diagnosis and unrestricted-contact permission remain unknown; RAG-E-V010-016, RAG-E-V010-017. |

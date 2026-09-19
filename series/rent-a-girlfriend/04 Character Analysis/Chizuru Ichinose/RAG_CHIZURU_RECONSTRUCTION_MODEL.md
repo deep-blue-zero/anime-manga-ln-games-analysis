@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V009."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V010."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -36,13 +36,14 @@ model_basis:
     - RAG-JP-EPUB-V007
     - RAG-JP-EPUB-V008
     - RAG-JP-EPUB-V009
-  admitted_through_volume: V009
-  narrative_time_boundary: "after Chizuru accepts an acting-linked gift, provides bounded hangover care, and recognizes Mami during a rental date on the train"
+    - RAG-JP-EPUB-V010
+  admitted_through_volume: V010
+  narrative_time_boundary: "after Chizuru leads a paid dream date, discloses a new stage opportunity, attends the Kinoshita birthday, and contacts Kazuya from Sayuri's hospital setting"
   basis_checkpoint: null
-  basis_commit: 202e88180ffa41f2e6c238e7baf2902e48676998
-  model_revision: "1.7"
+  basis_commit: c291c4042d993a48eec25bd5411222826b113179
+  model_revision: "1.9"
   prior_knowledge_limitations:
-    - "No post-V009 narrative evidence is admitted."
+    - "No post-V010 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru's response to Kazuya's direct preference statement is not shown."
 coverage:
@@ -88,13 +89,13 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports narrow reconstruction of Chizuru at the V009 endpoint when professional rules, family welfare, privacy, audience management, public unfairness, informed paid work, family-linked acting purpose, practical gifts, or bounded unpaid care are salient. Because the manga rarely supplies her interior narration, the model predicts action ranges from conduct and speech rather than inventing a hidden monologue. It must abstain on romantic feeling, later career outcomes, intimate partnership, Mami's next action, and unseen ordinary preferences.
+This model supports narrow reconstruction of Chizuru at the V010 endpoint when professional rules, family welfare, privacy, audience management, public unfairness, informed paid work, family-linked acting purpose, scripted service intimacy, stage opportunity, or bounded unpaid contact are salient. Because the manga rarely supplies her interior narration, the model predicts action ranges from conduct and speech rather than inventing a hidden monologue. It must abstain on romantic feeling, the new stage outcome, intimate partnership, Mami's use of the family account, Sayuri's prognosis, and unseen ordinary preferences.
 
 ## Central mechanism
 
 Chizuru manages competing obligations through compartmentalization and bounded exceptions. She can perform warmth as skilled labor, protect a separate campus identity, and speak bluntly when a client threatens those boundaries. When new information reveals a concrete family or dignity cost, she may revise an earlier refusal. She then tends to specify a rule, payment frame, audience story, or exit that limits what the exception means.
 
-The minimum supported motive is responsive responsibility organized around work, privacy, family, and a named vocational project. Professional pride, acting practice, income, the wish to show Sayuri her success, fairness toward Kazuya and Ruka, protection of her own work, and possible personal investment can all contribute. V005 shows informed performance and professional coordination. V006 validates the Sumi referral and makes acting a possible reason to leave rental work. V007-V009 add career defeat, renewed work, selective private access, a first-person family account, an accepted practical gift, and substantial care followed by verbal rebounding. None of the nine volumes justifies selecting romance as the hidden master explanation or treating professional conduct as emotionally unreal.
+The minimum supported motive is responsive responsibility organized around work, privacy, family, and a named vocational project. Professional pride, acting practice, income, the wish to show Sayuri her success, fairness toward Kazuya and Ruka, protection of her own work, and possible personal investment can all contribute. V005 shows informed performance and professional coordination. V006 validates the Sumi referral and makes acting a possible reason to leave rental work. V007-V010 add career defeat, renewed work, selective private access, a first-person family account, an accepted practical gift, substantial care followed by verbal rebounding, explicit work pride, a new stage opportunity, and crisis contact. None of the ten volumes justifies selecting romance as the hidden master explanation or treating professional conduct as emotionally unreal.
 
 ## Temporal states
 
@@ -475,7 +476,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S011
 valid_from_source: "V009 0005"
-valid_until_source: null
+valid_until_source: "V010 0004"
 entry_conditions:
   - "Kazuya completes the Sumi-assisted birthday plan and sends a practical gift with a partial Ruka reassurance."
 active_goals:
@@ -517,11 +518,60 @@ uncertainties:
   - "Whether direct LINE access becomes routine or remains tightly bounded."
 ~~~
 
+### CHI-S012 — professionally self-defining actor under family and hospital pressure
+
+~~~yaml
+state_id: CHI-S012
+valid_from_source: "V010 0005"
+valid_until_source: null
+entry_conditions:
+  - "Mami questions her after the train sighting, and the May 20 booking tests work identity, intimacy performance, and acting disclosure together."
+active_goals:
+  - contain Mami's inquiry and protect the cross-audience secret
+  - deliver the booked dream-date scenario competently
+  - continue acting after securing another stage opportunity
+  - honor a family promise while responding to Sayuri's hospital condition
+known_propositions:
+  - "Mami doubts that her repeated contact with Kazuya is ordinary rental distance."
+  - "Kazuya responds enthusiastically to her stage news and promises support."
+  - "Nagomi expects her at the joint birthday, and Ruka is also competing in the family space."
+  - "The direct LINE route can reach Kazuya during Sayuri's hospital crisis."
+relationship_conditions:
+  - "Paid girlfriend performance and genuine vocational exchange coexist without a romantic self-report."
+  - "Family access is chosen but still rests on the false girlfriend premise."
+  - "Direct contact becomes useful by her initiative and remains crisis-bounded."
+changed_from_previous:
+  - MAMI_DENIAL_AND_CONTAINMENT
+  - DREAM_DATE_LEADERSHIP
+  - SCRIPTED_INTIMACY_WITH_BOUNDARY
+  - RENTAL_WORK_PRIDE_ARTICULATED
+  - NEW_STAGE_OPPORTUNITY_DISCLOSED
+  - UNBOOKED_FAMILY_ATTENDANCE
+  - DIRECT_HOSPITAL_CONTACT
+evidence_refs:
+  - RAG-E-V010-001
+  - RAG-E-V010-004
+  - RAG-E-V010-005
+  - RAG-E-V010-007
+  - RAG-E-V010-008
+  - RAG-E-V010-009
+  - RAG-E-V010-010
+  - RAG-E-V010-011
+  - RAG-E-V010-012
+  - RAG-E-V010-014
+  - RAG-E-V010-016
+  - RAG-E-V010-017
+uncertainties:
+  - "Sayuri's diagnosis, prognosis, and immediate care need."
+  - "Whether the new stage work changes rental availability."
+  - "Her private evaluation of Kazuya's support and the family-party rivalry."
+~~~
+
 ## Behavioral rules
 
 ### RAG-CHI-R001 — entitlement or identity risk prompts direct private correction
 
-- **Scope:** CHI-S001 through CHI-S011.
+- **Scope:** CHI-S001 through CHI-S012.
 - **Trigger:** A client treats performance as ownership, threatens her work identity, or assumes access from physical proximity.
 - **Relationship conditions:** Strongest with Kazuya when no outside audience requires the girlfriend performance.
 - **Likely appraisal:** the role boundary has been misread and must be made explicit.
@@ -535,7 +585,7 @@ uncertainties:
 
 ### RAG-CHI-R002 — concrete family welfare can justify a bounded exception
 
-- **Scope:** CHI-S001 through CHI-S008.
+- **Scope:** CHI-S001 through CHI-S012.
 - **Trigger:** Immediate knowledge that disclosure, absence, or refusal will significantly distress Nagomi or Sayuri.
 - **Likely appraisal:** the family benefit can justify temporary participation, but the exception needs containment.
 - **Likely action range:** improvise the public girlfriend role, supply practical help, delay truth, then propose breakup or explicit operating terms.
@@ -547,7 +597,7 @@ uncertainties:
 
 ### RAG-CHI-R003 — audience determines register without defining authenticity
 
-- **Scope:** CHI-S001 through CHI-S008.
+- **Scope:** CHI-S001 through CHI-S012.
 - **Trigger:** Shift among client date, campus, family, peer group, or private conflict.
 - **Likely appraisal:** the audience requires a presentation that protects the relevant role and information.
 - **Likely action range:** warm girlfriend performance; subdued student presentation; adaptive family improvisation; direct private correction.
@@ -560,7 +610,7 @@ uncertainties:
 
 ### RAG-CHI-R004 — after voluntary help, she restores a legible boundary
 
-- **Scope:** CHI-S003 through CHI-S008.
+- **Scope:** CHI-S003 through CHI-S012.
 - **Trigger:** She has supplied help that could be interpreted as free personal intimacy or unlimited access.
 - **Likely appraisal:** the practical benefit can stand, but its future meaning must not remain open-ended.
 - **Likely action range:** insist on payment, state duration and routing, prohibit other contact, or exit the scene.
@@ -583,7 +633,7 @@ uncertainties:
 
 ### RAG-CHI-R006 — exposure tests prompt minimal cover performance with retained physical limits
 
-- **Scope:** CHI-S005 through CHI-S007.
+- **Scope:** CHI-S005 through CHI-S012.
 - **Trigger:** An informed outsider challenges the rental identity and demands visible proof of the public relationship.
 - **Likely appraisal:** the cover must be preserved without granting the outsider authority over private intimacy.
 - **Likely action range:** deflect the accusation, construct a visually sufficient performance, retain a material barrier or explicit limit, then exit with a plausible audience story.
@@ -594,7 +644,7 @@ uncertainties:
 
 ### RAG-CHI-R007 — vocational and personal exchanges remain explicitly classified
 
-- **Scope:** CHI-S006 through CHI-S011.
+- **Scope:** CHI-S006 through CHI-S012.
 - **Trigger:** Work identity, acting ambition, or personal gratitude crosses an existing provider-client relation.
 - **Likely appraisal:** the practical or personal act can be acknowledged while its obligations and audience meaning remain bounded.
 - **Likely action range:** disclose concrete career facts; give a tailored gift; question the propriety of a return gift; restate the service or another person's claim.
@@ -616,7 +666,7 @@ uncertainties:
 
 ### RAG-CHI-R009 — vocational defeat can coexist with renewed work and selective personal access
 
-- **Scope:** CHI-S009 through CHI-S011.
+- **Scope:** CHI-S009 through CHI-S012.
 - **Trigger:** A career setback occurs while a trusted client offers concrete support and a family need creates a reason for private contact.
 - **Likely appraisal:** failure warrants grief and renewed effort; support should remain bounded and financially fair; private access can be granted for a chosen purpose.
 - **Likely action range:** cry in private, resume script work, accept but regulate bookings, initiate ordinary activity, and recruit Kazuya for a family visit or practical need.
@@ -629,7 +679,7 @@ uncertainties:
 
 ### Toward Kazuya
 
-Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V009 shows her escorting and tending him after he protects her identity, then leaving medicine while objecting to unsolicited LINE access and romantic overreading. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, practical gratitude, controlled coordination, and adaptive audience performance while withholding romantic self-classification.
+Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V009 shows her escorting and tending him after he protects her identity, then leaving medicine while objecting to unsolicited LINE access and romantic overreading. V010 adds active dream-date leadership, another stage disclosure, chosen family attendance, and direct hospital contact. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, practical gratitude, controlled coordination, and adaptive audience performance while withholding romantic self-classification.
 
 ### Toward Nagomi
 
@@ -665,12 +715,12 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 ## Counterfactual envelope and abstention
 
-Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work may constrain rental availability; a practical need creates temporary private access; support language risks implying personal status.
+Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work may constrain rental availability; a practical need creates temporary private access; support language risks implying personal status; a family crisis requires bounded direct contact.
 
-Require extra assumptions: sustained private friendship routine, later acting success, explicit romantic self-report, sustained cohabitation, sexual intimacy, full knowledge of Ruka's overnight event and kiss, Mami's next action, or behavior after V009.
+Require extra assumptions: sustained private friendship routine, outcome of the new stage work, explicit romantic self-report, sustained cohabitation, sexual intimacy, full knowledge of Ruka's overnight event and kisses, Mami's use of the family account, Sayuri's prognosis, or behavior after V010.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
 ## Validation status
 
-V009 shows Chizuru accepting the acting-linked birthday gift and extending unpaid access through escort, apartment care, and follow-up medicine. She preserves the established pattern by criticizing reckless protection, objecting to the unsolicited LINE add, and minimizing interpretation. The model abstains on romantic self-classification, later acting success, full knowledge of Ruka's overnight event and kiss, and conduct after recognizing Mami on the train.
+V010 validates that Chizuru can treat intimate-looking performance as skilled work, describe that work with pride, and volunteer genuine vocational information in the same paid encounter. Her unbooked family attendance and chosen crisis message extend access while preserving purpose boundaries. The model abstains on romantic self-classification, the new stage outcome, full knowledge of Ruka's prior overnight kiss, Mami's use of the family account, and Sayuri's prognosis.

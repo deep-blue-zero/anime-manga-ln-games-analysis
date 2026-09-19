@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; inspected and closed through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V009
-row_count: 50
-state: CURRENT_THROUGH_V009
+inspected_through_volume: V010
+row_count: 56
+state: CURRENT_THROUGH_V010
 ```
 ```
 
@@ -93,3 +93,9 @@ state: CURRENT_THROUGH_V009
 | RAG-REL-048 | Chizuru → Kazuya | Unpriced crisis carer with interpretive boundary | She recognizes his protective drinking, escorts him, tends him while sick, and leaves medicine. | Non-booking care expands materially into his apartment and the next day. | She criticizes the method, minimizes interpretation, and does not acknowledge romance. | RAG-E-V009-007 through RAG-E-V009-011 |
 | RAG-REL-049 | Ruka → Kazuya / Mami | Provisional partner claiming completed current status | Ruka tells Mami she is Kazuya's current girlfriend and that they have had sex, then repeats her love after challenge. | The private trial becomes public rivalry and an asserted exclusive claim. | Kazuya denies sex and corrects the relation as provisional; mutual love remains absent. | RAG-E-V009-012 through RAG-E-V009-014 |
 | RAG-REL-050 | Mami → Kazuya / Chizuru / Ruka | Former partner and informed observer reconnecting the triangle | Mami visits Kazuya's workplace, questions Ruka's account, and then sees Chizuru on a rental date. | Separate observations now form one actionable relationship map. | Her desired outcome and next conduct remain unknown. | RAG-E-V009-012 through RAG-E-V009-015 |
+| RAG-REL-051 | Mami → Chizuru / Kazuya's family | Observer with a direct rental sighting | Mami questions Chizuru, receives a denial of continuing contact, and follows the family liquor-store account. | Her investigation now reaches the public family network and a contradiction between Chizuru's answer and the family-facing girlfriend story. | Active informed observer; final aim remains unknown. | RAG-E-V010-001, RAG-E-V010-002 |
+| RAG-REL-052 | Kazuya ↔ Chizuru | Paid client-provider pair with vocational trust | Kazuya books a uniform dream date; Chizuru leads scripted intimacy, discusses pride in the work, and discloses another stage opportunity; he promises support. | Genuine disclosure and encouragement occur inside compensated service. | Stronger vocational alliance without acknowledged private romance. | RAG-E-V010-004 through RAG-E-V010-010 |
+| RAG-REL-053 | Chizuru → Kazuya / Kinoshita family | Provider and deception partner with prior family promise | She volunteers for an unbooked birthday gathering, brings a gift, and performs the family-recognized girlfriend role. | Family access expands beyond booking because of promise and chosen participation. | Non-booked collaborator still using a false public label. | RAG-E-V010-011 through RAG-E-V010-014 |
+| RAG-REL-054 | Ruka → Kazuya / Kinoshita family | Provisional partner competing without family recognition | She follows the pair, attends as a friend, competes for approval, initiates a kiss, and publicly asserts singular love. | Family space becomes a conversion strategy and unilateral intimacy site. | Sincere attachment remains nonreciprocal and the trial remains unresolved. | RAG-E-V010-014, RAG-E-V010-015 |
+| RAG-REL-055 | Kazuya → Ruka | Provisional partner under renewed escalation | He withholds the party conflict in advance and recoils from Ruka's initiated kiss. | Avoidance continues, but the bodily response supplies no reciprocal consent. | Relation remains unresolved and publicly misclassified. | RAG-E-V010-014, RAG-E-V010-015 |
+| RAG-REL-056 | Chizuru ↔ Kazuya | Direct-contact neighbors and family collaborators | Chizuru chooses LINE to reach Kazuya from Sayuri's hospital setting during the family party. | A contested technical route becomes a bounded crisis channel. | Chosen non-booking communication expands; diagnosis and next response remain open. | RAG-E-V010-016, RAG-E-V010-017 |

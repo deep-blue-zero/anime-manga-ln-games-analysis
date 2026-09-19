@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V009; character evidence inspected through V009."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; character evidence inspected through V010."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V009
+inspected_through_volume: V010
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -86,6 +86,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E044 | CHI-S011 | RAG-E-V009-003, RAG-E-V009-004 | Acting-linked gift received; gratitude and triangle information | Receives premium pickled plums chosen for fatigue, eats them, smiles, thanks Kazuya, and says she believes his no-sex reassurance about Ruka. | Accepts practical support and answers the written status concern without opening a broader relation discussion. | The gift and response do not establish romance; she does not receive a complete account of the overnight kiss. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007, RAG-CHI-R009 |
 | RAG-CHI-E045 | CHI-S011 | RAG-E-V009-005 through RAG-E-V009-009 | Campus identity pressure, improvised cover, and embodied care | Helps maintain a partial sea-rescue account, recognizes Kazuya's deliberate drinking, escorts him home, and tends him while he vomits. | Moves from protected identity to voluntary private care while criticizing the reckless method. | The crisis is partly created by his choice, and care does not reveal a unique private motive. | RAG-CHI-R001, RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R009 |
 | RAG-CHI-E046 | CHI-S011 | RAG-E-V009-010, RAG-E-V009-011 | Digital boundary, verbal minimization, and follow-up care | Objects when Kazuya adds Ichinose without asking, discourages romantic overreading, and later leaves hangover medicine outside his door. | Pairs chosen unpriced care with explicit control over access and interpretation. | Professional concern, neighborly ethics, gratitude, and personal attachment remain compatible explanations. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R009 |
+| RAG-CHI-E047 | CHI-S012 | RAG-E-V010-001 | Mami confrontation and protective denial | Tells Mami she is no longer seeing Kazuya after recalling Ruka's request. | Uses a minimal answer to contain an identity and rivalry threat. | Later paid and family contact makes the proposition false as a complete account; motive remains plural. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R006 |
+| RAG-CHI-E048 | CHI-S012 | RAG-E-V010-004 through RAG-E-V010-008 | Upgraded service, dream-date leadership, and bodily correction | Actively performs the uniform date and lovers-mode poses, protects identity, and responds immediately to accidental contact. | Demonstrates skilled service initiative with retained physical limits. | Performance and enjoyment do not establish private romantic classification. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R006 |
+| RAG-CHI-E049 | CHI-S012 | RAG-E-V010-009, RAG-E-V010-010 | Work pride and new stage opportunity | Explains rental work as enjoyable, useful, and acting-adjacent, then discloses another stage opportunity. | Integrates professional identity with vocational purpose instead of treating rental work only as compromise. | Future success and any exit date remain unknown. | RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R009 |
+| RAG-CHI-E050 | CHI-S012 | RAG-E-V010-011 through RAG-E-V010-014 | Prior promise and chosen family attendance | Volunteers for an unbooked joint birthday after a hospital appointment, brings a gift, and participates in the family role. | Extends selective family access on terms she helps set. | The girlfriend premise remains false and professional language remains available. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R009 |
+| RAG-CHI-E051 | CHI-S012 | RAG-E-V010-016, RAG-E-V010-017 | Direct crisis communication and family vulnerability | Uses LINE to ask Kazuya to speak while she is with Sayuri at the hospital. | Converts contested technical access into a chosen, bounded care route. | Diagnosis, next response, and general contact permission remain unobserved. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R009 |
 
 ## State-change summary
 
@@ -100,8 +105,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S009 — defeated but recommitting actor granting selective private access:** she seeks clarification and reacts privately, loses a role but resumes work, accepts and regulates paid support, values Kazuya's judgment and privacy protection, and initiates ordinary and family access outside bookings.
 - **CHI-S010 — self-disclosing actor who re-bounds private support:** she accepts temporary lost-key help, supplies a first-person family history and grandparent-linked acting purpose, receives Kazuya's explicit support, and classifies the implied closeness through rental service.
 - **CHI-S011 — grateful gift recipient and bounded crisis carer under campus exposure:** she accepts acting-linked practical support and partial Ruka reassurance, protects her university identity, chooses sustained apartment and follow-up care after Kazuya's reckless protection, and objects to unsolicited digital access while limiting interpretation.
+- **CHI-S012 — professionally self-defining actor under family and hospital pressure:** she contains Mami's inquiry, leads an upgraded dream date, articulates pride in rental labor, discloses another stage opportunity, chooses an unbooked family visit, and uses direct LINE during Sayuri's hospital crisis.
 
-The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V008 do not establish a disposition change or romantic self-recognition.
+The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V010 do not establish a disposition change or romantic self-recognition.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -117,10 +123,12 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - V006 gives acting a direct scheduling and employment consequence, then places professional self-defense beside a sustained moral defense of Kazuya's feeling (RAG-E-V006-006 through RAG-E-V006-014).
 - V008 supplies her strongest first-person account of acting's family purpose, while her rental-role response preserves the established pattern of disclosure followed by interpretive constraint (RAG-E-V008-004 through RAG-E-V008-008).
 - V009 extends the same structure from speech to care: Chizuru accepts a practical acting-linked gift, performs substantial unpaid crisis and follow-up care, and pairs the conduct with criticism, contact limits, and verbal minimization (RAG-E-V009-003, RAG-E-V009-004, RAG-E-V009-008 through RAG-E-V009-011).
+- V010 makes her work account more explicit: she can lead intimate-looking service, identify its value, disclose acting progress, and retain immediate bodily boundaries within the same date (RAG-E-V010-004 through RAG-E-V010-010).
+- Prior family promise and acute hospital need can justify chosen non-booking access, but each route remains purpose-bounded (RAG-E-V010-011 through RAG-E-V010-017).
 
 ## Gaps and negative evidence
 
-- V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason for the goal, but sustained vocational experience and outcome remain sparse.
+- V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason, and V010 supplies another stage opportunity and explicit work pride, but sustained vocational outcome remains sparse.
 - She knows the rescue occurred, but gives no direct private evaluation of Kazuya's motive or her own feeling.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
