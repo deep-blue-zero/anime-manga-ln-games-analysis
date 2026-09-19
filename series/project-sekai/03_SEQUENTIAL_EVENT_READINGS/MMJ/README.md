@@ -30,3 +30,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0005 — choosing how these four can be idols](PJSK_EVENT_0005_DEEP_READING.md): all 18 source responsibilities, I3 unit/operative knowledge change, differentiated ordinary behavior and exact recipient limits; six ledgers and reconstruction review integrated, no mature package certified.
 
 - [EVENT_0011 — Color of Myself！](PJSK_EVENT_0011_DEEP_READING.md): complete 33-story envelope; Shizuku operative I3, group streaming I2 with four MS-04 humans and GROUP-06 retained, other human units I0. Stage Luka's arrival, mixed fan response and separate knowledge receipts remain bounded.
+
+- [EVENT_0017 — 届け！HOPEFUL STAGE♪](PJSK_EVENT_0017_DEEP_READING.md): complete 25-story envelope; `MMJ-EP-MN-E0017` operative I3 for an enacted recipient-specific hope model, MMJ group and established mentorship dyads I2, Leo/need ordinary I1, VBS/WxS/N25 I0. Seven undated area unlocks and Stage singer receipts remain bounded.
