@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; character evidence inspected through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; character evidence inspected through V008."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V007
+inspected_through_volume: V008
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -80,6 +80,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E038 | CHI-S009 | RAG-E-V007-009 through RAG-E-V007-011 | Protected privacy, gratitude, and professional fairness | Learns Kazuya accepted injury to protect her job secret, thanks him, values his talent judgment, and checks whether weekly bookings are excessive. | Personal gratitude coexists with regulation of the paid relation. | Concern can be professional, ethical, personal, or mixed. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007 |
 | RAG-CHI-E039 | CHI-S009 | RAG-E-V007-012, RAG-E-V007-013, RAG-E-V007-017 | Unpriced ordinary, family, and practical access | Initiates a batting outing, brings Kazuya to Sayuri, and later seeks his help after losing her key. | Selectively expands access beyond rental time while retaining purpose and initiative. | The boyfriend cover and practical need remain sufficient explanations; V008 must resolve the key request. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R009 |
 | RAG-CHI-E040 | CHI-S009 | RAG-E-V007-014 | Close-relative childhood report | Sayuri describes a clingy, lonely child beneath Chizuru's adult strength and frames that strength as protective armor. | Adds a family-sourced vulnerability model that can guide bounded reconstruction. | This is not Chizuru's direct present-tense self-report. | RAG-CHI-R003, RAG-CHI-R009 |
+| RAG-CHI-E041 | CHI-S010 | RAG-E-V008-001 through RAG-E-V008-003 | Practical need, temporary private access, and rival discovery | Accepts Kazuya's apartment help after losing her key and explains the practical cause when Ruka discovers them. | Uses selective dependence and corrective information rather than treating the access as standing intimacy. | Ruka's discovery still increases rivalry and surveillance pressure. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R009 |
+| RAG-CHI-E042 | CHI-S010 | RAG-E-V008-004, RAG-E-V008-005 | First-person family history and vocational purpose | Describes parental absence or death, upbringing by her grandparents, her grandfather's encouragement, and her wish to show Sayuri her acting success. | Supplies the strongest direct account yet of why the career matters. | The compact account does not establish every chronology detail or future outcome. | RAG-CHI-R002, RAG-CHI-R007, RAG-CHI-R009 |
+| RAG-CHI-E043 | CHI-S010 | RAG-E-V008-006 through RAG-E-V008-008 | Support received and role rebounding | Hears Kazuya say he wants her dream fulfilled and wants to support her, then says that being beside someone is a function a rental girlfriend can fulfill. | Accepts the conversation while constraining its relational interpretation through service language. | The classification neither proves emotional absence nor supplies a romantic answer. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007, RAG-CHI-R009 |
 
 ## State-change summary
 
@@ -92,8 +95,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S007 — informed professional coordinator inside an enlarged relationship network:** she contests Ruka at New Year, knowingly supports the Kuribayashi repair, and privately recruits Kazuya as Sumi's practice client while the acting goal receives no new practical evidence.
 - **CHI-S008 — acting-linked exit planner and advocate under direct address:** her Sumi referral produces a successful practice outcome, an acting opportunity makes rental-work departure concrete, Mami turns the service into a moral interrogation, and Chizuru defends Kazuya's feeling before receiving his direct statement that he wants her.
 - **CHI-S009 — defeated but recommitting actor granting selective private access:** she seeks clarification and reacts privately, loses a role but resumes work, accepts and regulates paid support, values Kazuya's judgment and privacy protection, and initiates ordinary and family access outside bookings.
+- **CHI-S010 — self-disclosing actor who re-bounds private support:** she accepts temporary lost-key help, supplies a first-person family history and grandparent-linked acting purpose, receives Kazuya's explicit support, and classifies the implied closeness through rental service.
 
-The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V006 do not establish a disposition change or romantic self-recognition.
+The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V008 do not establish a disposition change or romantic self-recognition.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -107,16 +111,17 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - V004 supplies direct vocational language and an unpriced personal gift, then pairs the return exchange and handholding with provider-client and Ruka-responsibility language (RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018).
 - V005 shows her sustaining paid work for a known reparative purpose and privately coordinating a novice provider's practice with a trusted client (RAG-E-V005-010, RAG-E-V005-012, RAG-E-V005-014).
 - V006 gives acting a direct scheduling and employment consequence, then places professional self-defense beside a sustained moral defense of Kazuya's feeling (RAG-E-V006-006 through RAG-E-V006-014).
+- V008 supplies her strongest first-person account of acting's family purpose, while her rental-role response preserves the established pattern of disclosure followed by interpretive constraint (RAG-E-V008-004 through RAG-E-V008-008).
 
 ## Gaps and negative evidence
 
-- V004 establishes acting as a named goal and rental work as income and practice; V006 makes a possible rental-work exit concrete but still supplies no sustained first-person account of why the career matters to her.
+- V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason for the goal, but sustained vocational experience and outcome remain sparse.
 - She knows the rescue occurred, but gives no direct private evaluation of Kazuya's motive or her own feeling.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
 - No broad rule yet supports behavior with close friends, teachers, coworkers beyond Umi, or a mutually acknowledged partner.
 - The ledger supports no split-personality reading between “Mizuhara” and “Ichinose.”
-- Kazuya directly states that she is the person he wants, but V006 ends before her answer; no reciprocal feeling or relationship transition may be supplied.
+- Kazuya's preference and support are direct, but Chizuru answers the support language through rental service; no reciprocal feeling or relationship transition may be supplied.
 
 ## Update rule
 

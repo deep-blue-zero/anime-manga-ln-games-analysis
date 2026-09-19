@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-row_count: 31
-state: CURRENT_THROUGH_V007
+inspected_through_volume: V008
+row_count: 36
+state: CURRENT_THROUGH_V008
 ```
 
 ## Records
@@ -73,3 +73,8 @@ state: CURRENT_THROUGH_V007
 | RAG-CHR-029 | RAG-E-V007-003 through RAG-E-V007-006 | Kazuya attends Chizuru's play; casting loss is followed by his support offer, future bookings, and her renewed script work. | Ordered sequence; exact performance date unknown. | The loss precedes the decision to continue rental work. |
 | RAG-CHR-030 | RAG-E-V007-008 through RAG-E-V007-010 | During spring break, Kazuo confronts Kazuya about the earlier money exchange; Kazuya later explains the privacy choice to Chizuru. | Seasonal placement explicit; exact date unknown. | The father's inference follows the observed exchange and precedes the second-year sequence. |
 | RAG-CHR-031 | RAG-E-V007-011 through RAG-E-V007-017 | At the start of the second university year, booking discussion leads to an unbooked batting outing, Sayuri's hospital visit, Kazuya's declaration, and Chizuru's lost-key arrival. | Academic-year anchor and immediate ordering explicit. | V007 ends before the key problem is resolved. |
+| RAG-CHR-032 | RAG-E-V008-001 through RAG-E-V008-003 | The lost-key arrival immediately produces temporary access, an accidental fall, and Ruka's unexpected discovery. | Direct continuation of the V007 endpoint; same-night sequence explicit. | Ruka learns the private access but not every preceding detail. |
+| RAG-CHR-033 | RAG-E-V008-004 through RAG-E-V008-008 | During the same private-access sequence, Chizuru explains her family and acting history before Kazuya states support and she invokes the rental role. | Ordered dialogue before the later campus sequence. | Exact clock time and duration are unstated. |
+| RAG-CHR-034 | RAG-E-V008-009 through RAG-E-V008-013 | Roughly two months into the provisional relationship, Ruka visits Kazuya's university, leads shopping and cooking, and remains overnight when a storm disrupts travel. | Explicit elapsed-duration statement plus same-day and overnight order. | The exact calendar date is not printed in the admitted evidence. |
+| RAG-CHR-035 | RAG-E-V008-014 | At the morning departure after the storm night, Ruka initiates a kiss. | Explicit next-morning placement. | No official-status change or mutual agreement follows within V008. |
+| RAG-CHR-036 | RAG-E-V008-015, RAG-E-V008-016 | Near Chizuru's April 19 birthday, Kazuya learns the date from her profile and begins a two-hour Sumi booking for gift advice. | Birthday date is explicit; the encounter follows the overnight sequence. | The volume ends before the date and gift selection finish. |

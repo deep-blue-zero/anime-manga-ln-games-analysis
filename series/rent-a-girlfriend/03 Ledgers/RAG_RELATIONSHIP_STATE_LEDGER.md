@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-row_count: 40
-state: CURRENT_THROUGH_V007
+inspected_through_volume: V008
+row_count: 45
+state: CURRENT_THROUGH_V008
 ```
 ```
 
@@ -83,3 +83,8 @@ state: CURRENT_THROUGH_V007
 | RAG-REL-038 | Chizuru → Kazuya | Selective personal and family access | She initiates a batting outing and hospital visit outside a booking. | Trust and family need expand access. | Boyfriend premise remains false; romantic motive remains open. | RAG-E-V007-012, RAG-E-V007-013 |
 | RAG-REL-039 | Kazuya ↔ Kazuo | Family discipline under false girlfriend premise | Kazuo punishes apparent borrowing; Kazuya protects the rental secret. | Partial observation and family financial norms govern the encounter. | Truth is withheld. | RAG-E-V007-008, RAG-E-V007-009 |
 | RAG-REL-040 | Kazuya → Sayuri / Chizuru | True love declaration to family witness | Kazuya tells Sayuri he loves Chizuru. | Truthful feeling occurs inside a false couple context. | Chizuru does not hear it. | RAG-E-V007-015 |
+| RAG-REL-041 | Chizuru → Kazuya | Temporary private access and first-person vulnerability | She accepts lost-key help and describes her family history and acting purpose. | Practical reliance expands into personal knowledge. | She re-bounds intimate wording through rental service; no romantic declaration occurs. | RAG-E-V008-001, RAG-E-V008-004, RAG-E-V008-005, RAG-E-V008-007 |
+| RAG-REL-042 | Kazuya → Chizuru | Status-independent vocational supporter | He states that he wants her dream fulfilled and wants to become her strength across available labels. | Support becomes direct speech rather than only private resolution. | It grants no status, reciprocity, or entitlement. | RAG-E-V008-006, RAG-E-V008-008 |
+| RAG-REL-043 | Ruka → Kazuya | Provisional girlfriend escalating ordinary and private access | She enters his university setting, creates a shopping-and-cooking date, stays during the storm, and presses physical intimacy. | The relationship gains domestic and overnight experience. | Kazuya does not reciprocate love or consent to sex. | RAG-E-V008-009 through RAG-E-V008-013 |
+| RAG-REL-044 | Kazuya → Ruka | Nonreciprocal provisional partner enforcing a sexual limit | He recognizes her effort and attractiveness but refuses sex. | Consent remains separate from label and lodging. | He does not terminate or clearly resolve the provisional relation; Ruka later initiates a kiss. | RAG-E-V008-012 through RAG-E-V008-014 |
+| RAG-REL-045 | Kazuya ↔ Sumi | Paid provider-client relation repurposed for birthday help | Kazuya books Sumi for gift advice; she actively guides the date and shares a Chizuru preference. | Prior practice trust supports useful paid collaboration. | The encounter remains compensated and does not establish private romance. | RAG-E-V008-015, RAG-E-V008-016 |

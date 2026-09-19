@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; character evidence inspected through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; character evidence inspected through V008."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V007
+inspected_through_volume: V008
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -83,6 +83,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E043 | KAZ-S009 | RAG-E-V007-003 through RAG-E-V007-006 | Performance appraisal, encouragement, labor, and paid support | Attends Chizuru's play, argues that her performance has talent, and commits work income and future bookings after she loses the next role. | Converts admiration into an actionable support structure. | Paid support preserves a client relation and creates no entitlement to reciprocity. | RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R008 |
 | RAG-KAZ-E044 | KAZ-S009 | RAG-E-V007-008 through RAG-E-V007-010 | Family accusation, injury, privacy protection, and gratitude | Accepts his father's false borrowing accusation rather than expose Chizuru's occupation; later explains the choice to her. | Bears a concrete cost to protect another person's private information. | Silence also maintains the broader false-girlfriend system. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
 | RAG-KAZ-E045 | KAZ-S009 | RAG-E-V007-012 through RAG-E-V007-016 | Unpriced access, family testimony, direct declaration, and support reframing | Joins Chizuru's batting outing and Sayuri visit, tells Sayuri he loves Chizuru, and resolves to support her without boyfriend status. | Speaks truthfully to a family witness and frames support without relational entitlement. | Chizuru does not hear the declaration; the resolution awaits testing at the lost-key boundary. | RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
+| RAG-KAZ-E046 | KAZ-S010 | RAG-E-V008-001 through RAG-E-V008-003 | Practical help, accidental proximity, and concealment pressure | Lets Chizuru wait inside after the lost key and asks her to move after a fall, then tries to manage Ruka's unexpected arrival. | Supplies help and restraint before reverting to concealment under audience collision. | One response does not establish generalized maturity, and Ruka still discovers the private access. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
+| RAG-KAZ-E047 | KAZ-S010 | RAG-E-V008-004, RAG-E-V008-005 | Received disclosure; family and vocation | Learns Chizuru's first-person family history and the grandparent-linked purpose of acting. | Listens while the abstract career goal becomes a personal intergenerational promise. | Receipt of vulnerability does not establish complete understanding or reciprocity. | RAG-KAZ-R002, RAG-KAZ-R008 |
+| RAG-KAZ-E048 | KAZ-S010 | RAG-E-V008-006 through RAG-E-V008-008 | Direct support speech and interior clarification | Says he wants Chizuru's dream fulfilled and wants to support her, then internally treats that purpose as real across relationship labels. | Converts the V007 resolution into direct communication. | Chizuru re-bounds the wording through rental service; he does not directly confess love to her. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R008 |
+| RAG-KAZ-E049 | KAZ-S010 | RAG-E-V008-009 through RAG-E-V008-014 | Provisional relationship, attraction, refusal, and received kiss | Participates in Ruka's ordinary-date and storm-overnight sequence, recognizes her effort and attractiveness, but refuses sex before receiving her morning kiss. | Keeps sexual consent separate from provisional status and physical opportunity. | He does not clearly end or resolve the asymmetric relationship, and no prior agreement to the kiss is shown. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R007 |
+| RAG-KAZ-E050 | KAZ-S010 | RAG-E-V008-015, RAG-E-V008-016 | Planning, spending, and information seeking | Learns Chizuru's birthday from her profile and books Sumi for two hours to seek gift advice. | Uses a formal transaction to reduce his lack of ordinary knowledge. | The gift choice and delivery are unresolved; the booking does not become private romance with Sumi. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R008 |
 
 ## State-change summary
 
@@ -95,6 +100,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S007 — employed repair agent and recruited practice client:** refuses Ruka's immediate escalation, protects the family fiction at her expense, uses wages and self-disclosure to repair Kuribayashi, then accepts Chizuru's request to help Sumi while the Mami question remains unresolved.
 - **KAZ-S008 — adaptive helper and explicit but unresolved chooser:** completes Sumi's practice date through responsive support, faces threatened loss of Chizuru's paid availability, nearly formalizes the Ruka trial from duty, accepts responsibility during Mami's confrontation, and finally states that Chizuru is the person he wants.
 - **KAZ-S009 — practical supporter under private access:** retreats when Chizuru directly tests his statement, then supports her after casting loss, protects her occupational privacy at bodily cost, accepts unpriced ordinary and family access, tells Sayuri he loves Chizuru, and resolves to support without requiring boyfriend status.
+- **KAZ-S010 — status-independent supporter under consent and planning tests:** gives temporary shelter and restraint, receives Chizuru's family history, states vocational support, refuses sex during Ruka's overnight escalation, and uses a Sumi booking to plan Chizuru's birthday gift.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -114,14 +120,17 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - With Sumi, he can reduce performance pressure, monitor discomfort, and protect a partner's face without turning help into a claim on her (RAG-E-V006-001 through RAG-E-V006-004).
 - V006 supplies his clearest direct preference statement so far, but its addressee's response and durable behavioral effect remain outside the boundary (RAG-E-V006-016, RAG-E-V006-017).
 - V007 separates audience effects: he retreats under Chizuru's direct question but tells Sayuri plainly that he loves Chizuru, while practical support and privacy protection continue (RAG-E-V007-001, RAG-E-V007-005, RAG-E-V007-009, RAG-E-V007-015).
+- V008 tests that support in conduct: temporary shelter and a request to move preserve Chizuru's practical boundary, while his direct support statement survives her rental-role rebounding (RAG-E-V008-001, RAG-E-V008-002, RAG-E-V008-006 through RAG-E-V008-008).
+- With Ruka, he can refuse sex despite attraction, status pressure, condoms, and an overnight setting; he still leaves the provisional relation unresolved (RAG-E-V008-012 through RAG-E-V008-014).
+- Booking Sumi for birthday advice shows purpose-specific planning and information seeking through a formal service channel (RAG-E-V008-015, RAG-E-V008-016).
 
 ## Gaps and negative evidence
 
 - Paid employment is routine enough in V005 to produce first wages and a repair plan, but long-duration competence and independence from relationship pressure remain insufficiently sampled.
 - Competence outside relationship crisis remains underobserved.
-- Seven volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
+- Eight volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
-- Direct preference and love for Chizuru are now spoken to different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
+- Direct preference, love, and support for Chizuru are now spoken to different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 
 ## Update rule

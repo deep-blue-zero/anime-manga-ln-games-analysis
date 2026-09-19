@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V007; V007 supplies no direct Ruka evidence."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V008."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -32,15 +32,16 @@ model_basis:
     - RAG-JP-EPUB-V005
     - RAG-JP-EPUB-V006
     - RAG-JP-EPUB-V007
-  admitted_through_volume: V007
-  narrative_time_boundary: "after Ruka's workplace inquiry and Kazuya's attempt to formalize their relationship are interrupted"
+    - RAG-JP-EPUB-V008
+  admitted_through_volume: V008
+  narrative_time_boundary: "after Ruka's storm overnight, Kazuya's refusal of sex, and Ruka's initiated morning kiss"
   basis_checkpoint: null
-  basis_commit: 22b9fda6379812118b3cc2a676756232effd5c1d
-  model_revision: "1.2"
+  basis_commit: 2429cd9f5a3dee3ab12e788ada14cdac0cd29eba
+  model_revision: "1.3"
   prior_knowledge_limitations:
-    - "No post-V006 narrative evidence is admitted."
+    - "No post-V008 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
-    - "Kazuya retreats from the private-room escalation; no completed kiss or sexual act is shown."
+    - "Kazuya refuses sex during the V008 overnight; Ruka later initiates a morning kiss without shown advance agreement."
 coverage:
   observed_contexts:
     - rental-girlfriend performance
@@ -82,7 +83,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports tightly bounded reconstruction of Ruka at the V006 endpoint when bodily self-monitoring, romantic certainty, rivalry with Chizuru, secrecy, provisional dating, family recognition, or workplace access are salient. It can model her direct speech, high initiative, capacity to stop after immediate refusal, and immediate pursuit when coworker access exposes unexplained conduct. It must abstain on a precise diagnosis, family life, later development, durable rejection, knowledge she does not receive, and any assumption that her pulse or Kazuya's interrupted proposal proves mutual love.
+This model supports tightly bounded reconstruction of Ruka at the V008 endpoint when bodily self-monitoring, romantic certainty, rivalry with Chizuru, secrecy, provisional dating, family recognition, campus or workplace access, and domestic escalation are salient. It can model her direct speech, high initiative, ordinary-date effort, sexual pressure, response to immediate refusal, and tactical conversion of an unconsummated night into a morning kiss. It must abstain on a precise diagnosis, family life, later development, durable rejection, knowledge she does not receive, and any assumption that her pulse, provisional label, or physical initiative proves mutual love.
 
 ## Central mechanism
 
@@ -90,7 +91,7 @@ Ruka converts a long-standing feeling of physiological and social difference int
 
 Kazuya's defense of Chizuru produces the first reading above ninety. Ruka therefore treats him as a unique answer rather than one promising person among alternatives. That certainty compresses deliberation. She investigates, declares love, bargains with the secret, accepts a nonreciprocal trial, and repeatedly creates access. High initiative and genuine vulnerability coexist with coercive pressure.
 
-The model must preserve counterevidence. Ruka does not immediately expose Chizuru, later says she never intended to, understands that the relationship is provisional, and accepts that Kazuya is attached elsewhere. In V005 she stops after Kazuya retreats, abandons a prepared disclosure when Nagomi's attachment becomes concrete, joins Kazuya's workplace, and plants underwear to mislead Chizuru. V006 nearly grants the official status she wants, but Kazuya's reasoning is duty-based and the speech is interrupted. She is neither a purely calculating blackmailer nor a purely innocent romantic claimant.
+The model must preserve counterevidence. Ruka does not immediately expose Chizuru, later says she never intended to, understands that the relationship is provisional, and accepts that Kazuya is attached elsewhere. In V005 she stops after Kazuya retreats, abandons a prepared disclosure when Nagomi's attachment becomes concrete, joins Kazuya's workplace, and plants underwear to mislead Chizuru. V008 shows sincere ordinary-date effort and cooking alongside intrusion, sexual pressure, and a unilateral kiss after refusal. She is neither a purely calculating blackmailer nor a purely innocent romantic claimant.
 
 ## Temporal states
 
@@ -262,7 +263,7 @@ uncertainties:
 ~~~yaml
 state_id: RUK-S006
 valid_from_source: "V006 0091"
-valid_until_source: null
+valid_until_source: "V008 0004"
 entry_conditions:
   - "An ordinary date leads Kazuya to begin proposing that the provisional relationship become official."
 active_goals:
@@ -288,28 +289,68 @@ uncertainties:
   - "How Ruka responds if she learns the booking's content or Kazuya's direct preference."
 ~~~
 
+### RUK-S007 — domestic and overnight escalator under explicit nonreciprocity
+
+~~~yaml
+state_id: RUK-S007
+valid_from_source: "V008 0005"
+valid_until_source: null
+entry_conditions:
+  - "Ruka discovers Chizuru's temporary private access and judges that roughly two months of provisional dating have not produced recognition."
+active_goals:
+  - make Kazuya experience her as an ordinary girlfriend
+  - convert private and domestic access into reciprocal intimacy
+  - preserve advantage over Chizuru while avoiding immediate exposure of the central secret
+known_propositions:
+  - "Chizuru can enter Kazuya's apartment under practical need."
+  - "Kazuya accepts shopping, cooking, and storm lodging but refuses sex."
+  - "The provisional label has not produced reciprocal love or spontaneous physical initiative."
+relationship_conditions:
+  - "Ruka and Kazuya remain provisional and nonreciprocal after the overnight."
+  - "Chizuru does not know about the overnight stay or morning kiss."
+changed_from_previous:
+  - RIVAL_PRIVATE_ACCESS_DISCOVERY
+  - UNIVERSITY_INTRUSION
+  - ORDINARY_DATE_AND_DOMESTIC_EFFORT
+  - STORM_OVERNIGHT
+  - SEXUAL_REFUSAL_RECEIVED
+  - UNILATERAL_KISS
+evidence_refs:
+  - RAG-E-V008-003
+  - RAG-E-V008-009
+  - RAG-E-V008-010
+  - RAG-E-V008-011
+  - RAG-E-V008-012
+  - RAG-E-V008-013
+  - RAG-E-V008-014
+uncertainties:
+  - "What secrecy or status consequence follows the overnight and kiss."
+  - "Whether repeated explicit nonreciprocity changes her larger pursuit."
+  - "How she responds if Chizuru learns the event."
+~~~
+
 ## Behavioral rules
 
 ### RAG-RUK-R001 — bodily excitement prompts rapid access seeking
 
-- Scope: RUK-S002 through RUK-S006.
+- Scope: RUK-S002 through RUK-S007.
 - Trigger: Kazuya produces or appears capable of producing a pulse increase that Ruka associates with love.
 - Likely appraisal: he is the unique person who proves she can feel and must not be lost to Chizuru.
 - Likely action range: measure, declare, message, schedule, visit, claim priority, or create a more private setting.
 - Inhibitors/escalators: immediate refusal and concrete harm to Nagomi can inhibit a tactic; contact failures and Chizuru's continued access escalate pursuit.
-- Support: RAG-E-V004-002, RAG-E-V004-003, RAG-E-V004-008, RAG-E-V004-009, RAG-E-V004-019, RAG-E-V005-001, RAG-E-V005-002, RAG-E-V005-007, RAG-E-V006-009, RAG-E-V006-010.
+- Support: RAG-E-V004-002, RAG-E-V004-003, RAG-E-V004-008, RAG-E-V004-009, RAG-E-V004-019, RAG-E-V005-001, RAG-E-V005-002, RAG-E-V005-007, RAG-E-V006-009, RAG-E-V006-010, RAG-E-V008-003, RAG-E-V008-009 through RAG-E-V008-014.
 - Counterevidence/gap: her pulse does not always rise during direct contact, and V005 shows short-term inhibition without revision of the larger uniqueness claim.
 - Disconfirming observation: repeated low or declining responses followed by calm revision of Kazuya's unique status.
 - Class/confidence: STRONG_INFERENCE; moderate within the V004 romance context.
 
 ### RAG-RUK-R002 — asymmetric information becomes negotiated pressure
 
-- Scope: RUK-S001, RUK-S002, and RUK-S004 through RUK-S006.
+- Scope: RUK-S001, RUK-S002, and RUK-S004 through RUK-S007.
 - Trigger: Ruka knows a secret or rival fact that Kazuya and Chizuru need contained.
 - Likely appraisal: the information can force a clear answer or access that ordinary waiting will not produce.
 - Likely action range: test the cover, threaten consequence, condition silence, demand dating, or confront schedule violations.
 - Boundary condition: she may withhold disclosure, reassure, or abandon exposure when its human cost becomes concrete, so pressure does not predict automatic revelation.
-- Support: RAG-E-V003-013, RAG-E-V003-014, RAG-E-V004-003, RAG-E-V004-005, RAG-E-V004-009, RAG-E-V004-019, RAG-E-V005-003, RAG-E-V005-006, RAG-E-V005-013, RAG-E-V006-010.
+- Support: RAG-E-V003-013, RAG-E-V003-014, RAG-E-V004-003, RAG-E-V004-005, RAG-E-V004-009, RAG-E-V004-019, RAG-E-V005-003, RAG-E-V005-006, RAG-E-V005-013, RAG-E-V006-010, RAG-E-V008-003, RAG-E-V008-009, RAG-E-V008-012, RAG-E-V008-014.
 - Counterevidence/gap: she preserves Nagomi's bond and accepts a trial rather than full status, but later manufactures rival evidence.
 - Disconfirming observation: repeated high-value secret leverage followed by low-pressure direct requests and acceptance of refusal.
 - Class/confidence: STRONG_INFERENCE; moderate.
@@ -338,11 +379,11 @@ uncertainties:
 
 ### RAG-RUK-R005 — concrete relational cost redirects tactics without dissolving the goal
 
-- Scope: RUK-S005 through RUK-S006.
+- Scope: RUK-S005 through RUK-S007.
 - Trigger: Ruka receives direct evidence that immediate disclosure or pressure would injure someone she does not want to harm, or Kazuya gives an immediate refusal.
 - Likely appraisal: this route or timing is wrong, but the girlfriend goal remains valid.
 - Likely action range: stop the immediate act, delay disclosure, reframe the contest as long-term, or seek access through another channel.
-- Support: RAG-E-V005-001, RAG-E-V005-002, RAG-E-V005-006, RAG-E-V005-007, RAG-E-V006-009.
+- Support: RAG-E-V005-001, RAG-E-V005-002, RAG-E-V005-006, RAG-E-V005-007, RAG-E-V006-009, RAG-E-V008-010 through RAG-E-V008-014.
 - Counterevidence/gap: one refusal and one family disclosure decision; planted underwear shows that redirection can become a different manipulation rather than simple restraint.
 - Disconfirming observation: repeated comparable concrete harm or refusal followed by unchanged immediate escalation.
 - Class/confidence: WORKING_HYPOTHESIS; low-to-moderate within V005.
@@ -351,11 +392,11 @@ uncertainties:
 
 ### Toward Kazuya
 
-Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V006 brings an interrupted attempt by Kazuya to make that trial official, but his interior reasoning is duty-based rather than reciprocal love. Predict direct pursuit, monitoring, and rivalry; do not infer consent or mutual love from the provisional label or unfinished proposal.
+Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V008 shows her answering two months without recognition through university intrusion, shopping, cooking, storm lodging, sexual pressure, and a morning kiss after refusal. Predict direct pursuit, ordinary-date effort, monitoring, and rivalry; do not infer consent or mutual love from the provisional label, shared lodging, or unilateral kiss.
 
 ### Toward Chizuru
 
-Chizuru is both a recognized fellow rental provider and the person Ruka correctly identifies as Kazuya's emotional priority. Ruka asks her directly to yield if she does not love Kazuya, preserves her family relation after hearing Nagomi, and later plants underwear to imply private intimacy. Do not flatten this mixture of restraint and manipulation into friendship or assume Ruka knows Chizuru's hidden feeling.
+Chizuru is both a recognized fellow rental provider and the person Ruka correctly identifies as Kazuya's emotional priority. Ruka asks her directly to yield if she does not love Kazuya, preserves her family relation after hearing Nagomi, plants underwear to imply private intimacy, and later discovers her inside Kazuya's apartment for a lost-key reason. Do not flatten this mixture of restraint and manipulation into friendship or assume Ruka knows Chizuru's hidden feeling.
 
 ### Toward Kuribayashi
 
@@ -368,7 +409,7 @@ Kuribayashi is a former rental client whose public couple display Ruka performed
 - Decision process: collects bodily and behavioral evidence, reaches categorical conclusions quickly, and acts directly to change access; immediate refusal or visible third-party harm can redirect method and timing.
 - Emotional regulation: tears, urgency, measurement, rivalry, overt demands, short-term inhibition, and strategic delay are observed; calm acceptance of durable rejection is not.
 - Agency and competence: high initiative in observation, testing, disclosure, bargaining, scheduling, physical staging, and workplace pursuit; sustained coworker competence remains sparsely observed.
-- Intimacy and dependency: seeks closeness and relationship status but also explicitly protests accidental unwanted contact. Trial status supplies no blanket consent in either direction.
+- Intimacy and dependency: seeks closeness and relationship status, explicitly protests accidental unwanted contact to herself, yet later pressures Kazuya for sex and initiates a kiss after his refusal. Trial status supplies no blanket consent in either direction.
 - Contradiction: she can coerce through secrecy and sincerely promise not to expose; both are evidenced.
 - Medical constraint: reproduce only low pulse, exertional symptoms, medication, monitoring, and her subjective robot metaphor. Do not assign a diagnosis.
 
@@ -380,10 +421,10 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after repeated definitive rejection, long-term workplace conduct, the content of Mami's booking, Kazuya's direct preference statement to Chizuru, or any post-V006 Ruka conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after repeated definitive rejection, long-term workplace conduct, the content of Mami's booking, Kazuya's direct preference and support statements to Chizuru, consequences of the morning kiss, or any post-V008 Ruka conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
-The model is supported by direct Ruka evidence through V006; inspected V007 supplies no Ruka appearance and therefore no new state. RAG-RUK-R001 and RAG-RUK-R002 have repeated conduct across several scenes; RAG-RUK-R003 remains recognition-specific; RAG-RUK-R004 is strong as a represented self-model and invalid as a medical conclusion; RAG-RUK-R005 records observed tactical redirection without predicting acceptance of durable rejection. Local readiness remains PARTIAL_MODEL because ordinary life, informed response to the V006 confrontation, and long-term conduct are sparse.
+V008 materially extends Ruka's model from interrupted workplace pursuit into ordinary-date, domestic, overnight, and sexual-pressure contexts. RAG-RUK-R001 and RAG-RUK-R002 now have broader repeated conduct; RAG-RUK-R003 remains recognition-specific; RAG-RUK-R004 is strong as a represented self-model and invalid as a medical conclusion; RAG-RUK-R005 records tactical redirection but cannot predict acceptance of durable rejection. Local readiness remains PARTIAL_MODEL because family life, school routine, informed response to Kazuya's direct support of Chizuru, and long-term conduct are sparse.

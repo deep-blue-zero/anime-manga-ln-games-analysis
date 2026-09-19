@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-row_count: 42
-state: CURRENT_THROUGH_V007
+inspected_through_volume: V008
+row_count: 47
+state: CURRENT_THROUGH_V008
 ```
 ```
 
@@ -85,3 +85,8 @@ state: CURRENT_THROUGH_V007
 | RAG-PRG-040 | Kazuya-Chizuru access | MATERIAL_GAIN_WITHOUT_STATUS — repeated paid bookings expand to an unbooked outing and family visit. | Chizuru initiates both forms of private access. | Mutual romantic status remains unacknowledged. | RAG-E-V007-011 through RAG-E-V007-013 |
 | RAG-PRG-041 | Kazuya support | GAIN — work, bookings, privacy protection, and status-independent commitment make support more concrete. | Conduct now carries financial, bodily, and relational cost. | Paid access and continuing deception remain limits. | RAG-E-V007-005, RAG-E-V007-009, RAG-E-V007-016 |
 | RAG-PRG-042 | Sumi communication and work | LIMITED_GAIN — she continues preparation and client work despite severe difficulty. | Supplemental evidence shows persistence and reflective concern. | Stable independent competence is not established. | RAG-E-V007-007 |
+| RAG-PRG-043 | Kazuya boundary conduct | GAIN — he gives practical shelter but asks Chizuru to move after accidental closeness. | Status-independent support becomes observable restraint under private-space pressure. | One response does not establish general sexual or relational competence. | RAG-E-V008-001, RAG-E-V008-002 |
+| RAG-PRG-044 | Chizuru disclosure | MATERIAL_GAIN_WITH_REBOUNDING — she gives a first-person family and vocational account, then classifies closeness through rental service. | Kazuya gains reliable personal context beyond Sayuri's report. | Romantic self-classification remains absent. | RAG-E-V008-004 through RAG-E-V008-007 |
+| RAG-PRG-045 | Kazuya support | GAIN — he states a desire to see Chizuru's dream fulfilled and internally treats the purpose as real across labels. | V007's abstract resolution becomes direct communication. | Mutual status and sustained implementation remain unresolved. | RAG-E-V008-006, RAG-E-V008-008 |
+| RAG-PRG-046 | Ruka-Kazuya provisional relation | MIXED_CHANGE — ordinary-date effort and domestic access expand, but sexual pressure, refusal, and a unilateral kiss expose the lack of reciprocity. | More shared conduct does not convert the label into agreement. | Ruka's effort and Kazuya's attraction are real but insufficient. | RAG-E-V008-009 through RAG-E-V008-014 |
+| RAG-PRG-047 | Sumi communication and agency | GAIN — she leads a purpose-specific booking through speech, writing, gesture, choices, and initiated contact. | V006's small expressive breakthrough persists into useful guidance. | Communication remains visibly effortful and the encounter is unfinished. | RAG-E-V008-015, RAG-E-V008-016 |

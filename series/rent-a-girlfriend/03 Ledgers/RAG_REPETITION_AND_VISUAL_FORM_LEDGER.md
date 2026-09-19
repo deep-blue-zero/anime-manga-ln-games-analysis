@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-row_count: 37
-state: CURRENT_THROUGH_V007
+inspected_through_volume: V008
+row_count: 44
+state: CURRENT_THROUGH_V008
 ```
 
 ## Records
@@ -79,3 +79,10 @@ state: CURRENT_THROUGH_V007
 | RAG-FRM-035 | Rental polish opens into an ordinary skilled body. | Chizuru moves from booking discussion to baseball practice and asks Kazuya to relax. | Batting action replaces girlfriend performance as the organizing image. | Unpriced access matters without proving romance; RAG-E-V007-011, RAG-E-V007-012. |
 | RAG-FRM-036 | Declaration is displaced to a family witness. | Sayuri describes guarded vulnerability and Kazuya tells her, rather than Chizuru, that he loves Chizuru. | Intimate testimony and direct speech occur while the person discussed is absent. | Truth increases without mutual recognition; RAG-E-V007-014, RAG-E-V007-015. |
 | RAG-FRM-037 | Emotional resolve ends in a practical access cliffhanger. | Kazuya resolves to support without status; Chizuru immediately arrives because she lost her key. | Abstract interior commitment cuts to a doorway and concrete need. | V008 must test the resolution in conduct; RAG-E-V007-016, RAG-E-V007-017. |
+| RAG-FRM-038 | A practical key crisis creates accidental proximity and an observer collision. | Temporary shelter leads to a spill and fall before Ruka arrives and discovers private access. | Confined-room body framing is interrupted by the door and an outside observer's inference. | Restraint and practical explanation limit the erotic image without erasing rivalry; RAG-E-V008-001 through RAG-E-V008-003. |
+| RAG-FRM-039 | Vulnerable family testimony is re-bounded as rental service. | Chizuru gives a personal history and Kazuya offers support; she answers through the provider role. | Extended dialogue and memory imagery deepen intimacy before a classification line constrains it. | Disclosure and professional framing remain simultaneously valid; RAG-E-V008-004 through RAG-E-V008-008. |
+| RAG-FRM-040 | An ordinary girlfriend date becomes a storm overnight and sexual test. | Lecture intrusion, shopping, curry, and transport disruption accumulate domestic signs before Ruka escalates. | Everyday montage gives way to closed-room erotic staging. | The sequence expands access without supplying consent or reciprocity; RAG-E-V008-009 through RAG-E-V008-012. |
+| RAG-FRM-041 | Condoms and an oversized shirt invite consummation inference while refusal constrains the act. | Ruka presents sexual readiness, but Kazuya refuses and the night ends without sex. | Object and body close-ups stage possibility; dialogue and morning continuity establish the limit. | Sexualized form cannot substitute for completed action or agreement; RAG-E-V008-012, RAG-E-V008-013. |
+| RAG-FRM-042 | A morning kiss converts an unconsummated night into a unilateral intimacy marker. | Ruka initiates contact at departure after Kazuya's refusal. | The compact doorway beat supplies a decisive visual event after the longer night sequence. | The kiss changes secrecy and rivalry stakes but does not establish mutuality; RAG-E-V008-014. |
+| RAG-FRM-043 | Profile metadata turns into a personal gift problem. | A platform birthday field motivates Kazuya to purchase another provider's help. | Screen information redirects focalization from service listing to private planning. | Commercial infrastructure produces personal action without erasing either transaction; RAG-E-V008-015. |
+| RAG-FRM-044 | Sumi's silence shifts from deficit to active leadership. | She remains shy but uses writing, gesture, shopping trials, and touch to direct Kazuya. | Sparse speech is distributed across notes, poses, object choices, and physical redirection. | Communication difficulty persists while agency increases; RAG-E-V008-016. |

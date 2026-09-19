@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-row_count: 44
-state: CURRENT_THROUGH_V007
+inspected_through_volume: V008
+row_count: 51
+state: CURRENT_THROUGH_V008
 ```
 
 ## Records
@@ -86,3 +86,10 @@ state: CURRENT_THROUGH_V007
 | RAG-AGY-042 | Chizuru | Read casting loss as an endpoint or continue acting and rental work. | Accepts bookings, annotates her script, and continues while checking whether Kazuya's spending is excessive. | Preserves a career path while retaining professional fairness. | Long-term success remains unknown; RAG-E-V007-004, RAG-E-V007-006, RAG-E-V007-011. |
 | RAG-AGY-043 | Chizuru | Keep Kazuya inside paid access or initiate private ordinary and family contact. | Invites him to a batting center and then to Sayuri's hospital room. | Grants unpriced access while controlling its purpose. | The visit still uses the public boyfriend premise; RAG-E-V007-012, RAG-E-V007-013. |
 | RAG-AGY-044 | Kazuya | Preserve ambiguity when Sayuri tests the relationship or speak truthfully about his feeling. | States plainly that he loves Chizuru and resolves to support her without requiring boyfriend status. | Gives Sayuri true affective information and limits entitlement in his stated aim. | Chizuru does not hear the declaration; RAG-E-V007-015, RAG-E-V007-016. |
+| RAG-AGY-045 | Kazuya | Exploit accidental closeness after offering shelter or preserve Chizuru's practical boundary. | Gives temporary access after the lost key and asks Chizuru to move after their accidental fall. | Chizuru receives immediate help without the accident being converted into permission. | One restrained response does not prove general competence; RAG-E-V008-001, RAG-E-V008-002. |
+| RAG-AGY-046 | Chizuru | Keep family history private or explain why acting matters. | Describes parental loss or absence, her grandparents' upbringing, and the dream of showing Sayuri her success, then reclassifies Kazuya's desired closeness through rental service. | Kazuya gains personal and vocational knowledge while the relation remains bounded. | Disclosure and professional rebounding coexist; RAG-E-V008-004, RAG-E-V008-005, RAG-E-V008-007. |
+| RAG-AGY-047 | Kazuya | Treat labels as decisive or state a purpose independent of status. | Says he wants to see Chizuru's dream fulfilled and internally commits to becoming her strength across available classifications. | Chizuru receives an explicit support commitment. | Interior clarity does not create reciprocity or resolve Ruka; RAG-E-V008-006, RAG-E-V008-008. |
+| RAG-AGY-048 | Ruka | Accept the provisional relation's limited effect or create additional ordinary and private access. | Enters Kazuya's lecture, leads shopping, cooks, remains during the storm, and presses sexual intimacy. | Produces girlfriend-like experience and an overnight setting. | Initiative includes intrusion and pressure; RAG-E-V008-009 through RAG-E-V008-013. |
+| RAG-AGY-049 | Kazuya | Treat provisional status and storm lodging as sexual permission or refuse. | Refuses sex despite attraction and pressure; no sex occurs. | Preserves the consent boundary without pretending reciprocal love. | He continues the unresolved provisional relation; RAG-E-V008-012, RAG-E-V008-013. |
+| RAG-AGY-050 | Kazuya | Guess at a birthday gift, ignore the date, or seek informed help. | Uses Chizuru's profile birthday and books Sumi for two hours to ask for advice. | Converts limited knowledge into a paid information-gathering plan. | The gift is not selected by the cutoff; RAG-E-V008-015. |
+| RAG-AGY-051 | Sumi | Remain a passive respondent or lead the purpose-specific booking. | Uses speech, writing, gesture, shopping choices, and initiated arm contact to guide Kazuya and share a known preference. | Advances the birthday search and demonstrates increased initiative. | Communication remains effortful and the date is paid; RAG-E-V008-016. |

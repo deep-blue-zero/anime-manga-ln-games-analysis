@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-row_count: 36
-state: CURRENT_THROUGH_V007
+inspected_through_volume: V008
+row_count: 42
+state: CURRENT_THROUGH_V008
 ```
 
 ## Records
@@ -78,3 +78,9 @@ state: CURRENT_THROUGH_V007
 | RAG-INF-034 | Sayuri describes Chizuru's childhood vulnerability and interprets adult strength as armor. | Kazuya receives her close-relative report; Chizuru is not shown hearing this conversation. | Family testimony supplies an explanatory model. | It is not direct present-tense interior access. | RAG-E-V007-014. |
 | RAG-INF-035 | Sayuri knows Kazuya says he loves Chizuru; Chizuru does not hear the declaration. | Direct answer to Sayuri's question. | Truthful affective disclosure occurs inside the still-false public couple premise. | No mutual recognition follows. | RAG-E-V007-015. |
 | RAG-INF-036 | Chizuru has lost her key and seeks Kazuya's help. | She directly reports the practical problem at his apartment. | Private need creates immediate access pressure. | Resolution is deferred to V008. | RAG-E-V007-017. |
+| RAG-INF-037 | Ruka learns that Chizuru and Kazuya were alone in his apartment because Chizuru lost her key. | Ruka observes enough of the encounter to identify private access; Chizuru supplies the practical explanation. | An unexpected visit defeats attempted concealment. | Ruka does not witness a sexual act or receive every detail of the accidental fall. | RAG-E-V008-001 through RAG-E-V008-003. |
+| RAG-INF-038 | Chizuru's parents are absent or dead, her grandparents raised her, and her acting dream is tied to showing Sayuri success on screen. | Kazuya receives Chizuru's first-person account. | Voluntary family and vocational disclosure replaces reliance on Sayuri's indirect testimony. | Exact dates and complete family circumstances remain unspecified. | RAG-E-V008-004, RAG-E-V008-005. |
+| RAG-INF-039 | Kazuya wants to support Chizuru independent of relationship label. | Chizuru hears his outward support statement; the reader also receives his internal classification-independent conclusion. | Direct speech plus interior report. | Chizuru does not receive the full interior formulation or an explicit romantic declaration. | RAG-E-V008-006 through RAG-E-V008-008. |
+| RAG-INF-040 | Ruka stays overnight because of the storm, presses for sex, receives refusal, and kisses Kazuya in the morning. | Kazuya and Ruka know the event; Chizuru is not shown receiving it. | Private-space event followed by a likely secrecy burden. | The event establishes neither sex nor reciprocal love. | RAG-E-V008-011 through RAG-E-V008-014. |
+| RAG-INF-041 | Chizuru's profile lists an April 19 birthday, and Kazuya hires Sumi to help select a present. | Kazuya learns the date from the platform; Sumi learns his gift purpose when he explains it. | Public-facing profile metadata initiates a separate paid booking. | Chizuru is not shown knowing of the gift plan. | RAG-E-V008-015. |
+| RAG-INF-042 | Sumi reports that Chizuru likes *Romance of the Three Kingdoms* and supplies other shopping guidance. | Kazuya receives her direct report during the paid date. | Writing, gesture, and speech transfer personal information through a trusted colleague. | The accuracy, scope, and final use of the preference remain to be tested. | RAG-E-V008-016. |

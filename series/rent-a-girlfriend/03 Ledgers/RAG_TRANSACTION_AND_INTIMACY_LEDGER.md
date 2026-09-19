@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-row_count: 35
-state: CURRENT_THROUGH_V007
+inspected_through_volume: V008
+row_count: 41
+state: CURRENT_THROUGH_V008
 ```
 
 ## Records
@@ -77,3 +77,9 @@ state: CURRENT_THROUGH_V007
 | RAG-TXN-033 | Chizuru and Kazuya; batting center and hospital time | No booking or payment governs the outing or visit. | Chizuru initiates both and controls their immediate purposes. | Unpriced access does not imply unrestricted access or romance. | Expands ordinary and family intimacy; RAG-E-V007-012, RAG-E-V007-013. |
 | RAG-TXN-034 | Kazuya and Sayuri; love declaration | No exchange or promise governs Kazuya's direct answer. | He supplies true feeling without demanding status from Chizuru. | Chizuru is absent and grants no reciprocal term. | Sayuri receives true information within the false couple frame; RAG-E-V007-015, RAG-E-V007-016. |
 | RAG-TXN-035 | Chizuru and Kazuya; lost-key request | Chizuru requests practical help at his apartment after losing her key. | The request is voluntary and outside a booking. | Scope and resolution remain unshown. | Creates a V008 private-space question; RAG-E-V007-017. |
+| RAG-TXN-036 | Chizuru and Kazuya; temporary lost-key shelter | No booking or payment governs Kazuya's apartment access. | Chizuru accepts practical help; Kazuya does not convert an accidental fall into permission. | Emergency access is temporary, and he asks her to move. | Resolves the immediate request while Ruka's arrival creates an information cost; RAG-E-V008-001 through RAG-E-V008-003. |
+| RAG-TXN-037 | Chizuru and Kazuya; family history and support exchange | No compensation governs Chizuru's disclosure or Kazuya's support statement. | She voluntarily supplies personal history; he offers vocational support. | Her rental-role answer limits interpretation and grants no romantic status. | Personal knowledge and commitment expand without a new agreement; RAG-E-V008-004 through RAG-E-V008-008. |
+| RAG-TXN-038 | Ruka and Kazuya; ordinary date, cooking, and storm lodging | Provisional dating is the existing term; shopping and cooking are unpriced, and weather creates lodging need. | Ruka initiates the ordinary activities and domestic effort. | Neither the label nor the storm authorizes sexual activity. | Expands private access and sets up a consent test; RAG-E-V008-009 through RAG-E-V008-011. |
+| RAG-TXN-039 | Ruka and Kazuya; sexual escalation, refusal, and kiss | No new agreement authorizes sex or the morning kiss. | Ruka displays condoms and presses intimacy; Kazuya refuses; she later initiates a kiss. | No sex occurs, and no advance agreement to the kiss is shown. | Makes the nonreciprocal status materially visible and creates a secrecy burden; RAG-E-V008-012 through RAG-E-V008-014. |
+| RAG-TXN-040 | Kazuya and Sumi; birthday-advice booking | Kazuya purchases two hours of Sumi's provider time to seek gift advice for Chizuru. | He discloses the purpose; Sumi voluntarily supplies active guidance within the booking. | Paid girlfriend-role behavior does not establish private romance or ownership of Chizuru's information. | Turns a rental date into an information and gift-support channel; RAG-E-V008-015, RAG-E-V008-016. |
+| RAG-TXN-041 | Kazuya, Sumi, and Chizuru; personal information for gift search | Sumi reports a known preference and helps evaluate options; no separate compensation beyond the booking is shown. | Her writing, gestures, choices, and contact exceed passive response while serving the declared task. | The final gift and Chizuru's consent or reaction remain unknown. | Personal knowledge passes through compensated labor without completing the gift exchange; RAG-E-V008-016. |

@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007; predictions frozen before V008."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V008; inspected and closed through V008; predictions frozen before V009."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V007
-current_claim_count: 19
+inspected_through_volume: V008
+current_claim_count: 21
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V007__PREDICTIONS_FROZEN_FOR_V008
+state: CURRENT_THROUGH_V008__PREDICTIONS_FROZEN_FOR_V009
 ```
 
 ## Current claims
@@ -62,6 +62,8 @@ state: CURRENT_THROUGH_V007__PREDICTIONS_FROZEN_FOR_V008
 | RAG-CLM-017 | Kazuya's clearest romantic self-knowledge emerges through moral admiration and cumulative care, while communication still fails or remains incomplete at direct address. | STRONG_INFERENCE | RAG-E-V006-007, RAG-E-V006-012, RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017 | Chizuru's interpretation and response are withheld; clarity of preference does not establish relational competence or reciprocity. | ADDED and supported in V006. |
 | RAG-CLM-018 | Chizuru can respond to vocational defeat while preserving professional classification and selectively granting a trusted client unpriced ordinary and family access. | STRONG_INFERENCE | RAG-E-V007-004 through RAG-E-V007-006, RAG-E-V007-011 through RAG-E-V007-013 | Acting persistence, professional fairness, trust, family need, and personal attachment remain compatible motives; no romantic self-report occurs. | ADDED and supported in V007. |
 | RAG-CLM-019 | Sayuri's family account identifies Chizuru's visible strength as protective performance around vulnerability. | WORKING_HYPOTHESIS | RAG-E-V007-014 | The account is close-observer testimony rather than Chizuru's direct present-tense interior report. | ADDED in V007 with source limit retained. |
+| RAG-CLM-020 | Chizuru can disclose core family and vocational history while reclassifying the closeness produced by that disclosure through rental-girlfriend language. | STRONG_INFERENCE | RAG-E-V008-004 through RAG-E-V008-008 | Disclosure and re-bounding coexist; neither proves romantic acknowledgment or emotional absence. | ADDED and supported in V008. |
+| RAG-CLM-021 | Provisional girlfriend status does not settle consent or reciprocity: ordinary couple conduct and sexual pressure can coexist with refusal and nonreciprocal feeling. | STRONG_INFERENCE | RAG-E-V008-009 through RAG-E-V008-014 | Ruka's effort and Kazuya's attraction are represented, but no sex, reciprocal love, or completed official conversion follows. | ADDED and supported in V008. |
 
 ## Competing hypotheses
 
@@ -125,24 +127,34 @@ state: CURRENT_THROUGH_V007__PREDICTIONS_FROZEN_FOR_V008
 | RAG-PRED-023 | SUPPORTED | Casting loss postpones retirement and produces new bookings, income support, and continuing access; RAG-E-V007-004 through RAG-E-V007-006. | Long-term employment and acting outcome remain unknown. |
 | RAG-PRED-024 | INCONCLUSIVE | Ruka does not appear. | V007 neither revisits the proposal nor treats her status as settled. |
 
-## Frozen predictions for V008
+## Adjudicated predictions from the V007 boundary
+
+| Prediction ID | Adjudication | V008 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-025 | SUPPORTED | The lost key immediately produces temporary apartment access and practical help; RAG-E-V008-001. | The access remains temporary and does not establish cohabitation. |
+| RAG-PRED-026 | SUPPORTED | Kazuya asks Chizuru to move after accidental closeness, refuses Ruka's sexual escalation, and states non-entitled support; RAG-E-V008-002, RAG-E-V008-006, RAG-E-V008-012. | These bounded acts do not establish generalized maturity. |
+| RAG-PRED-027 | SUPPORTED | Chizuru's family-linked acting dream reorganizes Kazuya's support purpose, while platform access also supplies the birthday and Sumi booking; RAG-E-V008-005, RAG-E-V008-006, RAG-E-V008-015. | Long-term acting and financial outcomes remain unknown. |
+| RAG-PRED-028 | SUPPORTED | Kazuya answers private need with temporary help and restraint, then listens to Chizuru's family account and offers support; RAG-E-V008-001, RAG-E-V008-002, RAG-E-V008-004 through RAG-E-V008-008. | Chizuru re-bounds the exchange through rental service. |
+
+## Frozen predictions for V009
 
 | Prediction ID | Observable expectation | Source basis | Disconfirmation |
 |---|---|---|---|
-| RAG-PRED-025 | Chizuru's lost-key arrival will require immediate apartment access, practical help, or substitute-lodging resolution. | RAG-E-V007-017 | V008 bypasses the key problem without showing or reporting a practical resolution. |
-| RAG-PRED-026 | Kazuya's commitment to support Chizuru beyond boyfriend status will produce a concrete act of support or restraint. | RAG-E-V007-016 | V008 supplies no behavior bearing on the commitment. |
-| RAG-PRED-027 | The renewed rental schedule and acting setback will continue to affect money, access, or career conduct. | RAG-E-V007-004 through RAG-E-V007-006, RAG-E-V007-011 | V008 treats both the bookings and setback as immaterial. |
-| RAG-PRED-028 | Sayuri's account of vulnerability and Kazuya's declaration will alter how he handles Chizuru's next private difficulty. | RAG-E-V007-014 through RAG-E-V007-017 | His next response shows no observable connection to care, restraint, or acceptance of vulnerability. |
+| RAG-PRED-029 | Sumi's birthday-help date will produce a concrete gift choice or reliable information that Kazuya uses for Chizuru's birthday. | RAG-E-V008-015, RAG-E-V008-016 | V009 abandons the gift problem without a choice, delivery, or use of Sumi's information. |
+| RAG-PRED-030 | Ruka's overnight stay or morning kiss will create a secrecy, comparison, access, or status consequence. | RAG-E-V008-011 through RAG-E-V008-014 | The event remains isolated and produces no observable later consequence in V009. |
+| RAG-PRED-031 | Chizuru's family-linked acting dream will continue to condition Kazuya's practical support, spending, or planning. | RAG-E-V008-004 through RAG-E-V008-008 | V009 presents relevant support choices without any observable connection to the acting goal. |
+| RAG-PRED-032 | Sumi's increased initiative and communication will persist far enough to shape the continuing birthday-help encounter while difficulty remains observable. | RAG-E-V008-016 | The continuation returns her to wholly passive or noncommunicative conduct without affecting the date. |
 
 ## Adjudications and revisions
 
-At the V007 horizon, RAG-PRED-021 and RAG-PRED-023 are supported, RAG-PRED-022 is disconfirmed, and RAG-PRED-024 remains inconclusive because Ruka is absent. V007 strengthens RAG-CLM-001, RAG-CLM-002, RAG-CLM-003, RAG-CLM-004, RAG-CLM-006, RAG-CLM-013, and RAG-CLM-017 through clarification, paid support, career response, family-belief cost, privacy protection, and unpriced access. RAG-CLM-018 and RAG-CLM-019 record Chizuru's combined career/professional/private response and Sayuri's source-limited vulnerability model. Predictions RAG-PRED-025 through RAG-PRED-028 are frozen before V008.
+At the V008 horizon, RAG-PRED-025 through RAG-PRED-028 are supported. V008 strengthens RAG-CLM-001, RAG-CLM-002, RAG-CLM-003, RAG-CLM-004, RAG-CLM-010, RAG-CLM-013, RAG-CLM-015, RAG-CLM-017, RAG-CLM-018, and RAG-CLM-019 through temporary private access, first-person family testimony, role rebounding, consent refusal, and a repurposed Sumi booking. RAG-CLM-020 and RAG-CLM-021 record the coexistence of disclosure and rebounding and the separation of provisional status from consent and reciprocity. Predictions RAG-PRED-029 through RAG-PRED-032 are frozen before V009.
 
 ## Open evidence questions
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
-- Will Chizuru's acting setback, renewed rental work, and selective unpriced access alter her longer-term career or relationship classification?
+- Will Chizuru's family-linked acting purpose and selective unpriced access alter her longer-term career or relationship classification?
 - What final relationship state does Mami seek through separation?
 - Can Kazuya generalize the completed Kuribayashi disclosure to Kibe, family, or another audience?
 - Can Kazuya treat Ruka's sincere feeling responsibly after nearly formalizing from duty while explicitly preferring Chizuru?
-- Will Kazuya's status-independent support commitment survive private-space pressure at the V007 lost-key boundary?
+- What consequence will follow Ruka's storm overnight and unilateral morning kiss, which Chizuru does not know about?
+- How will Kazuya use Sumi's birthday guidance, and how will Chizuru classify the resulting gift?
