@@ -4,7 +4,7 @@ artifact_id: RAG_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory_and_scope_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -26,7 +26,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 
 | Volume | Witness ID | Bytes | SHA-256 | EPUB title | OPF language | Spine entries | Image items | Inspection state |
 |---:|---|---:|---|---|---|---:|---:|---|
-| V001 | RAG-JP-EPUB-V001 | 75425401 | `d8cc6a8765dde4746264c56dffab36a0501bc6ddc0572c72d37cff6baa61c15f` | 彼女、お借りします（１） | `ja` | 195 | 195 | STRUCTURAL_PROBE_COMPLETE__NARRATIVE_PENDING |
+| V001 | RAG-JP-EPUB-V001 | 75425401 | `d8cc6a8765dde4746264c56dffab36a0501bc6ddc0572c72d37cff6baa61c15f` | 彼女、お借りします（１） | `ja` | 195 | 195 | INSPECTED__CLOSED |
 | V002 | RAG-JP-EPUB-V002 | 82393537 | `0c58ab41d7ef423b3e71c7bb6ef01c0cb82c573849097cbcace22ba7d7498fde` | 彼女、お借りします（２） | `ja` | 203 | 203 | INVENTORIED__ACTIVE_RUN_PENDING |
 | V003 | RAG-JP-EPUB-V003 | 70179579 | `d6ea6638781d9546000f3960eecfc10f914ff24371c9c5dd7887093548e700b2` | 彼女、お借りします（３） | `ja` | 195 | 195 | INVENTORIED__ACTIVE_RUN_PENDING |
 | V004 | RAG-JP-EPUB-V004 | 102097755 | `7d48b6b9a727e5f6bef74568d915485c639d731c55087db4e0695abe0cec6fe2` | 彼女、お借りします（４） | `en` | 195 | 196 | INVENTORIED__ACTIVE_RUN_PENDING |
@@ -80,7 +80,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - Every package identifies the Japanese title `彼女、お借りします` and creator `宮島礼吏`.
 - OPF language metadata is `ja` except V004 and V031, which incorrectly declare `en`. Those values are recorded as package-metadata defects, not accepted as evidence that the images are English. Each affected witness requires a visual language confirmation when it becomes eligible.
 - V001 contains 195 spine entries, all resolving to image targets. Its extracted image set contains no exact duplicates; 194 pages are 1070×1600 pixels and the cover is 1134×1500.
-- Original-resolution inspection confirmed that V001 Japanese text and drawn detail are legible. The bootstrap probe did not create narrative findings.
+- Original-resolution inspection confirmed that V001 Japanese text and drawn detail are legible. Full sequential inspection then covered the cover, blank image `0000.jpg`, narrative and chapter matter `0001.jpg`-`0191.jpg`, disclaimer `0192.jpg`, and colophon `0193.jpg`. Five chapter title pages were verified at images `0003`, `0056`, `0107`, `0143`, and `0167`.
 - Image-item counts may exceed spine counts by one where an image is present in the package manifest but not directly represented as a spine page. This is not yet classified as a missing or extra narrative page.
 
 ## Admission rules
@@ -91,11 +91,11 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-At bootstrap V001-V010 are authorized candidates but only the next unit may be admitted in sequence. V011-V047 remain filename- and metadata-visible only. Their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001 is inspected and closed. V002 is the next eligible unit in the continuous V001-V010 run; V003-V010 remain authorized candidates that cannot be opened out of order. V011-V047 remain filename- and metadata-visible only. Their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 
-Consequential V001 observations will use witness `RAG-JP-EPUB-V001`, the edition's chapter label where visible, and the stable EPUB spine/image index. Printed page numbers are recorded separately and never substituted for the file image number. Later witnesses follow the same pattern after their own page-map verification.
+Consequential V001 observations use witness `RAG-JP-EPUB-V001`, the edition's chapter label, printed page where visible, and the stable EPUB image index. In V001 the printed narrative number agrees with the four-digit image filename where displayed, but both remain explicit rather than silently conflated. Later witnesses follow the same convention after their own page-map verification.
 
 ## Known limitations
 
