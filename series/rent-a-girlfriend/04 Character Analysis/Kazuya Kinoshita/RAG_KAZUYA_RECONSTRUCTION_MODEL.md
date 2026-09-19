@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witness RAG-JP-EPUB-V001."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V002."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -28,14 +28,15 @@ model_identity:
 model_basis:
   source_witnesses:
     - RAG-JP-EPUB-V001
-  admitted_through_volume: V001
-  narrative_time_boundary: "after the V001 drinking gathering and Mami's renewed approach"
+    - RAG-JP-EPUB-V002
+  admitted_through_volume: V002
+  narrative_time_boundary: "after Kazuya dives after Chizuru at the unresolved V002 ferry cliffhanger"
   basis_checkpoint: null
   basis_commit: 3d79472fb72ccb6d7670a4e0735b6f52ea41d81c
-  model_revision: "1.0"
+  model_revision: "1.1"
   prior_knowledge_limitations:
-    - "No post-V001 narrative evidence is admitted."
-    - "The same reading supplied the evidence and initial rules; no prospective validation has yet occurred."
+    - "No post-V002 narrative evidence is admitted."
+    - "The rescue outcome and all later reflection are unknown."
 coverage:
   observed_contexts:
     - breakup and acute loneliness
@@ -45,6 +46,9 @@ coverage:
     - neighbor boundary negotiation
     - former-partner recontact
     - sexual fantasy and embarrassment
+    - overnight peer travel and identity collision
+    - partial public correction and friend conflict
+    - acute physical emergency
   missing_contexts:
     - sustained study or employment
     - long-term friendship outside romantic crisis
@@ -60,13 +64,13 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports tightly bounded reconstruction of Kazuya at the V001 endpoint. It is useful for scenarios involving embarrassment, family expectations, Chizuru's stated limits, Mami's attention, and peer scrutiny when the scenario preserves his V001 knowledge. It should abstain from predicting mature partnership, professional performance, later development, or behavior that requires information acquired after V001.
+This model supports tightly bounded reconstruction of Kazuya at the V002 endpoint. It is useful for scenarios involving embarrassment, family expectations, Chizuru's stated limits, Mami's attention, peer scrutiny, partial truth correction, and immediate emergency response when the scenario preserves his V002 knowledge. It should abstain from predicting rescue outcome, mature partnership, professional performance, later development, or behavior that requires information acquired after V002.
 
 ## Central mechanism
 
 Kazuya rapidly converts affect into a social story. When rejection, shame, or another person's anticipated disappointment feels immediate, he searches for a response that relieves the present exposure: buying a date, attacking the performance, calling Chizuru his girlfriend, or extending the fiction to friends. The response often works locally and creates a larger maintenance cost.
 
-His harsh self-model does not reliably inhibit this cycle. It can produce apology and attempted repair after consequences become concrete, but it also lets him narrate failure as an unchangeable personal fact. He alternates between inflation and deflation: idealizing an attractive woman's attention, then discounting conduct that would conflict with his belief that he is unworthy. Observable action must therefore test his interior account in both directions.
+His harsh self-model does not reliably inhibit this cycle. It can produce apology and attempted repair after consequences become concrete, but it also lets him narrate failure as an unchangeable personal fact. He alternates between inflation and deflation: idealizing an attractive woman's attention, then discounting conduct that would conflict with his belief that he is unworthy. V002 prospectively supports this oscillation while also supplying contrary action: he refuses a second kiss, makes a partial public correction, and dives after Chizuru. Observable action must therefore test his interior account in both directions.
 
 ## Temporal states
 
@@ -129,7 +133,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S003
 valid_from_source: "V001 p.103"
-valid_until_source: null
+valid_until_source: "V002 i_0118"
 entry_conditions:
   - "Kazuya and Chizuru discover adjacent apartments."
 active_goals:
@@ -158,6 +162,42 @@ uncertainties:
   - "Which loyalty or desire would govern a direct Mami-Chizuru conflict."
 ~~~
 
+### KAZ-S004 — attempted closer under divided attachment and emergency
+
+~~~yaml
+state_id: KAZ-S004
+valid_from_source: "V002 i_0119"
+valid_until_source: null
+entry_conditions:
+  - "Nagomi's discharge schedule and the Izu audience make an endpoint immediately actionable."
+active_goals:
+  - complete the final family-linked booking
+  - tell friends that the public couple is ending
+  - confess to Mami after disembarkation
+  - eventually disclose the rental truth to Kibe
+known_propositions:
+  - "Mami deliberately kissed him and wants a private meeting."
+  - "Kibe believes Chizuru is a real partner being discarded."
+  - "Chizuru considers the upcoming booking the final hospital-linked use."
+  - "Chizuru is missing overboard at the volume endpoint."
+relationship_conditions:
+  - "Chizuru is an announced former/final rental partner whose rescue he attempts."
+  - "Mami is a desired former partner awaiting a meeting."
+  - "Kibe is a caring but deceived friend."
+changed_from_previous:
+  - GOAL_CHANGE
+  - PUBLIC_RELATIONSHIP_CHANGE
+  - EMERGENCY_CONTEXT_CHANGE
+evidence_refs:
+  - RAG-E-V002-011
+  - RAG-E-V002-012
+  - RAG-E-V002-015
+  - RAG-E-V002-016
+  - RAG-E-V002-017
+uncertainties:
+  - "Rescue outcome and whether the planned breakup, meeting, or disclosures survive it."
+~~~
+
 ## Behavioral rules
 
 ### RAG-KAZ-R001 — immediate face protection can outrun long-term planning
@@ -170,8 +210,8 @@ uncertainties:
 - **Inhibitors/escalators:** time to reflect and concrete recognition of harm can inhibit; surprise, beauty/status attention, and family disappointment escalate.
 - **Written-speech constraints:** stammering, self-interruption, exaggerated certainty, then plain apology.
 - **Alternatives:** completed confession is possible when disappointment becomes visible, but V001 shows interruption before completion.
-- **Support:** RAG-E-V001-002, RAG-E-V001-003, RAG-E-V001-006, RAG-E-V001-008, RAG-E-V001-011.
-- **Counterevidence/gap:** he attempts confession and can accept explicit rules; no later persistence test.
+- **Support:** RAG-E-V001-002, RAG-E-V001-003, RAG-E-V001-006, RAG-E-V001-008, RAG-E-V001-011, RAG-E-V002-005, RAG-E-V002-008, RAG-E-V002-012.
+- **Counterevidence/gap:** he makes a costly partial public correction and plans fuller disclosure, so avoidance is neither total nor immutable.
 - **Disconfirming observation:** repeated comparable pressures followed by timely truthful disclosure without another person forcing the correction.
 - **Class/confidence:** STRONG_INFERENCE; moderate within V001 crisis contexts.
 
@@ -183,8 +223,8 @@ uncertainties:
 - **Likely action range:** stare, fantasize, become visibly flustered, seek proximity, or interpret ambiguous attention hopefully.
 - **Inhibitors/escalators:** explicit service rules and shame inhibit action; loneliness, peer gaze, and former-partner familiarity escalate.
 - **Negative constraint:** arousal should not be reconstructed as proof that he ignores every explicit refusal; V001 shows both pressure and moments of retreat/apology.
-- **Support:** RAG-E-V001-001, RAG-E-V001-010, RAG-E-V001-012, RAG-E-V001-015.
-- **Counterevidence/gap:** little evidence of low-stakes interaction with women outside romantic framing.
+- **Support:** RAG-E-V001-001, RAG-E-V001-010, RAG-E-V001-012, RAG-E-V001-015, RAG-E-V002-005, RAG-E-V002-006, RAG-E-V002-009, RAG-E-V002-010.
+- **Counterevidence/gap:** he refuses the Pocky kiss and acts for Chizuru under emergency; little low-stakes interaction with women exists outside romantic framing.
 - **Disconfirming observation:** stable, proportionate interpretation of comparable ambiguous attention across several contexts.
 - **Class/confidence:** WORKING_HYPOTHESIS; moderate-low outside the observed relationships.
 
@@ -195,8 +235,8 @@ uncertainties:
 - **Likely appraisal:** the lie has become morally costly and must be confessed.
 - **Likely action range:** move from delay toward direct disclosure; accept a face-saving intervention if it arrives before the confession completes.
 - **Motives in conflict:** honesty and responsibility versus preserving family happiness and avoiding shame.
-- **Support:** RAG-E-V001-003, RAG-E-V001-004, RAG-E-V001-006, RAG-E-V001-008.
-- **Counterevidence/gap:** every V001 confession opportunity ends without full disclosure.
+- **Support:** RAG-E-V001-003, RAG-E-V001-004, RAG-E-V001-006, RAG-E-V001-008, RAG-E-V002-011, RAG-E-V002-012, RAG-E-V002-015, RAG-E-V002-016.
+- **Counterevidence/gap:** V002 supplies a public breakup claim and planned fuller disclosure, but still no completed rental-truth disclosure.
 - **Disconfirming observation:** repeated clear family harm with no movement toward disclosure or repair.
 - **Class/confidence:** WORKING_HYPOTHESIS; moderate for Nagomi-specific pressure.
 
@@ -218,20 +258,32 @@ uncertainties:
 - **Trigger:** Conflict in which someone exposes his conduct or offers positive regard inconsistent with his low self-image.
 - **Likely appraisal:** “This happened because I am pathetic,” or “their care cannot be personally meaningful.”
 - **Likely action range:** apologize, accept punishment, express gratitude, then preserve the same underlying pressure cycle; explain favorable conduct as pity or payment.
-- **Support:** RAG-E-V001-002, RAG-E-V001-004, RAG-E-V001-014.
-- **Counterevidence/gap:** his conservative reading of paid conduct may sometimes be accurate; later learning is unobserved.
+- **Support:** RAG-E-V001-002, RAG-E-V001-004, RAG-E-V001-014, RAG-E-V002-006, RAG-E-V002-013, RAG-E-V002-017.
+- **Counterevidence/gap:** his conservative reading of paid conduct may sometimes be accurate; the rescue has not yet been reflected upon.
 - **Disconfirming observation:** calibrated acceptance of positive and negative evidence followed by sustained behavioral change.
 - **Class/confidence:** WORKING_HYPOTHESIS; moderate.
+
+### RAG-KAZ-R006 — acute threat can compress rumination into direct protective action
+
+- **Scope:** KAZ-S004.
+- **Trigger:** Concrete evidence that Chizuru is in immediate physical danger and delay may be fatal.
+- **Likely appraisal:** the missing passenger is Chizuru and action cannot wait for certainty or social permission.
+- **Likely action range:** infer rapidly from available evidence and accept personal risk before narrating a complete motive.
+- **Inhibitors/escalators:** acute time pressure escalates action; no comparable non-romantic emergency is available.
+- **Support:** RAG-E-V002-017.
+- **Counterevidence/gap:** one cliffhanger event; rescue success, later account, and cross-context generality are unknown.
+- **Disconfirming observation:** repeated comparable immediate danger to a valued person followed by self-protective delay despite feasible action.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and emergency-specific.
 
 ## Directed relationship conditioning
 
 ### Toward Chizuru
 
-Kazuya knows she is a paid provider and repeatedly idealizes her beyond that fact. He also knows her major V001 limits. He expects refusal, punishment, or pity more readily than freely chosen personal regard. Under family or peer pressure, he may invoke the public girlfriend label before consulting her. A responsible reconstruction must preserve both his attraction and her explicit boundaries; it cannot convert his fantasy into her knowledge or consent.
+Kazuya knows she is a paid provider and repeatedly idealizes her beyond that fact. He also knows her major limits and says he will stop renting her. He expects refusal, punishment, or role duty more readily than freely chosen personal regard. His rescue dive demonstrates personal significance in action while Chizuru is unconscious; it cannot be converted into her knowledge, consent, or reciprocation.
 
 ### Toward Mami
 
-Mami has unusual power to reactivate hope and self-comparison because she is his first former partner and the object of unresolved fantasy. At V001's endpoint he has not integrated her breakup with her renewed familiarity. Predict hopeful responsiveness before confident rejection, while abstaining on what he would do under a direct exclusive choice.
+Mami has unusual power to reactivate hope and self-comparison because she is his first former partner and the object of unresolved fantasy. V002 shows hopeful responsiveness to her kiss and a plan to confess, alongside refusal of a second game-induced kiss. Predict appraisal inflation and divided action rather than automatic compliance; her scheduled meeting is interrupted before resolution.
 
 ### Toward Nagomi
 
@@ -259,10 +311,10 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami offering ambiguous attention; Chizuru restating a known boundary; an opportunity to confess with Nagomi visibly hurt.
 
-Require extra assumptions: calm long-term planning, employment behavior, mature sexual negotiation, interaction with strangers outside romantic service, or any post-V001 knowledge.
+Require extra assumptions: calm long-term planning, employment behavior, mature sexual negotiation, rescue outcome, interaction with strangers outside romantic service, or any post-V002 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
 ## Validation status
 
-No prospective prediction has yet been tested. The rules have only same-volume cross-scene support and adversarial review against V001 counterexamples. The most fragile rules are RAG-KAZ-R003 and RAG-KAZ-R004 because each depends on a narrow relationship/context sample. The V002 frozen predictions in the claims ledger are the first prospective tests.
+V002 supports the frozen appraisal-oscillation prediction and supplies prospective evidence for RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R003, and RAG-KAZ-R005. RAG-KAZ-R004 remains narrow; RAG-KAZ-R006 is new and rests on one emergency. The rescue attempt is retained as high-value action evidence without extrapolating success, romance, or stable competence.

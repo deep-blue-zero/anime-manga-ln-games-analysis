@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witness RAG-JP-EPUB-V001; inspected and closed through V001."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; inspected and closed through V002."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V001
-row_count: 6
-state: CURRENT_THROUGH_V001
+inspected_through_volume: V002
+row_count: 12
+state: CURRENT_THROUGH_V002
 ```
 
 ## Records
@@ -48,3 +48,9 @@ state: CURRENT_THROUGH_V001
 | RAG-REL-004 | Mami → Kazuya | Initiator of breakup | She resumes familiar address, publicly narrates his dependency, then follows and leans on him. | Reopens proximity after seeing him with Chizuru; intention is withheld. | Former girlfriend taking renewed initiative; motive unresolved. | RAG-E-V001-012, RAG-E-V001-015 |
 | RAG-REL-005 | Nagomi → Kazuya and Chizuru | Grandmother worried Kazuya may never form a relationship | Treats Chizuru as a dream fulfilled, presses marriage/sexual continuity, and schedules visits. | Her happiness creates a strong disclosure cost and recurring access condition. | Believes the pair are a serious couple; unaware of payment. | RAG-E-V001-003, RAG-E-V001-008, RAG-E-V001-009 |
 | RAG-REL-006 | Sayuri → Chizuru and Kazuya | Chizuru's grandmother; no prior relationship with Kazuya shown | Accepts the couple claim after the hospital coincidence and joins Nagomi's celebration. | Her involvement joins both family networks to the same false proposition. | Believes Kazuya is Chizuru's boyfriend; unaware of the service relation. | RAG-E-V001-006 |
+| RAG-REL-007 | Kazuya → Chizuru | Recurring client, neighbor, and deception partner | Thanks her for consolation, preserves the Izu cover, announces a future breakup, apologizes, says he will stop renting her, then dives after her. | Moves toward formal termination while performing an unpriced high-cost rescue attempt. | Paid relationship announced for closure; personal significance evident in action; no mutual romance or rescue outcome established. | RAG-E-V002-001, RAG-E-V002-005, RAG-E-V002-008, RAG-E-V002-012, RAG-E-V002-016, RAG-E-V002-017 |
+| RAG-REL-008 | Chizuru → Kazuya | Bounded recurring provider and public girlfriend performer | Enforces the extension charge, attributes consolation to work, reacts ambiguously to the Mami question, accepts a final ferry ride, and reiterates the job frame. | Context collision increases exposure; planned access contracts toward a final booking and announced end. | Provider/collaborator under identity collision; affective evidence expands but romantic acknowledgment remains absent. | RAG-E-V002-002, RAG-E-V002-006, RAG-E-V002-013, RAG-E-V002-014, RAG-E-V002-015, RAG-E-V002-016 |
+| RAG-REL-009 | Kazuya → Mami | Former boyfriend hopeful about renewed proximity | Searches for reunion advice, responds to the kiss and origin memory, refuses the Pocky kiss, and plans a later confession. | Attachment remains active but does not produce uniform compliance. | Plans a private confession after disembarkation; no restored relationship. | RAG-E-V002-005, RAG-E-V002-009, RAG-E-V002-010, RAG-E-V002-012, RAG-E-V002-015 |
+| RAG-REL-010 | Mami → Kazuya | Former girlfriend taking renewed initiative | States a goal to split the public couple, probes him, kisses him, says she lost control, and schedules a private meeting. | Converts ambiguity into repeated strategic and physical intervention. | Actively destabilizing former partner; desired final relationship remains unknown. | RAG-E-V002-003, RAG-E-V002-005, RAG-E-V002-009, RAG-E-V002-016 |
+| RAG-REL-011 | Kibe → Kazuya | Childhood friend who believes Kazuya has a real girlfriend | Punches and argues with him after the breakup announcement, then defends his persistent side to Chizuru. | Friendship loyalty becomes moral pressure because disclosure is incomplete. | Caring but misinformed friend; fuller truth is planned, not delivered. | RAG-E-V002-012, RAG-E-V002-014, RAG-E-V002-015 |
+| RAG-REL-012 | Kibe → Chizuru | Friend of her supposed boyfriend | Supplies a childhood account, gives her ferry tickets, and asks her to give Kazuya another chance. | His belief creates a new obligation that she accepts with an explicit endpoint. | Treats her as Kazuya's real partner; unaware of the service relation. | RAG-E-V002-014, RAG-E-V002-015 |

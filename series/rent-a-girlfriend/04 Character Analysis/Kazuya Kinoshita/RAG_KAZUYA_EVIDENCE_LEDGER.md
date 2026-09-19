@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witness RAG-JP-EPUB-V001; character evidence inspected through V001 only."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; character evidence inspected through V002."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V001
+inspected_through_volume: V002
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -49,12 +49,22 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E009 | KAZ-S003 | RAG-E-V001-011 | Public action; defense and social face | Defends Chizuru from objectifying friends and insists she is his girlfriend and likes him. | More direct and morally certain than his ordinary self-deprecating register. | The defense includes a false or unsupported claim that increases pressure on Chizuru. | RAG-KAZ-R004 |
 | RAG-KAZ-E010 | KAZ-S003 | RAG-E-V001-012, RAG-E-V001-015 | Interior and event; former-partner conditioning | Remains highly responsive to Mami's attention and accepts renewed physical proximity after her public diminishment. | Offers assistance and nearby rest while reading her approach hopefully. | V001 does not show whether he would choose Mami over the existing family fiction in a direct conflict. | RAG-KAZ-R002, RAG-KAZ-R005 |
 | RAG-KAZ-E011 | KAZ-S003 | RAG-E-V001-013, RAG-E-V001-014 | Interior and dialogue; self-model | Answers Chizuru's defense by saying he is always “like this,” then reduces her conduct to contract and pity while admitting happiness. | Self-minimizing explanation contains both caution and selective discounting. | Professional motive remains plausible, so his interpretation is not simply false. | RAG-KAZ-R005 |
+| RAG-KAZ-E012 | KAZ-S003 | RAG-E-V002-001, RAG-E-V002-005, RAG-E-V002-010 | Interior, search, memory, and dialogue; attachment | Continues to like Mami, searches for reconciliation guidance, and rebuilds hope from her kiss and their first-date memory. | Possibility-building remains rapid and former-partner specific. | His later Pocky refusal prevents a uniform-compliance reading. | RAG-KAZ-R002 |
+| RAG-KAZ-E013 | KAZ-S003 | RAG-E-V002-002 | Payment response; accountability | Receives the 17,000-yen charge for the earlier extension under Chizuru's no-special-treatment rule. | Accepts the transaction as a debt rather than free personal access. | Financial compliance does not establish consistent boundary control elsewhere. | RAG-KAZ-R005 |
+| RAG-KAZ-E014 | KAZ-S004 | RAG-E-V002-005, RAG-E-V002-008 | Concealment and stated intention; truth management | Withholds the rental truth from Mami and friends, then states that he will announce a breakup after the trip. | Substitutes a socially manageable ending for full retrospective disclosure. | The later public announcement is real progress but preserves the causal falsehood. | RAG-KAZ-R001, RAG-KAZ-R003 |
+| RAG-KAZ-E015 | KAZ-S004 | RAG-E-V002-009, RAG-E-V002-012 | Received kiss, refusal, and public speech; choice under peer pressure | Receives Mami's pool kiss, later breaks the Pocky rather than repeat it, thanks Chizuru, and announces the breakup. | Shows attachment to Mami without automatic compliance and accepts immediate peer cost. | The breakup account remains incomplete and precipitates Kibe's attack. | RAG-KAZ-R001, RAG-KAZ-R002 |
+| RAG-KAZ-E016 | KAZ-S004 | RAG-E-V002-012, RAG-E-V002-014 | Fight and friend report; moral self-presentation | Defends the depth of his prior attachment during the fight; Kibe separately describes his foolish persistence through a childhood metaphor. | Kazuya's speech is direct under challenge; Kibe supplies an affectionate outside model. | Friend report is conditioned by long history and false couple information. | RAG-KAZ-R004, RAG-KAZ-R005 |
+| RAG-KAZ-E017 | KAZ-S004 | RAG-E-V002-011, RAG-E-V002-013 | Schedule, appraisal, and response; closure | Accepts the final discharge-week booking and responds strongly to Chizuru's mixed evaluation of the trip. | Calls her amazing after she restores the job frame. | His positive interpretation remains vulnerable to role discounting. | RAG-KAZ-R002, RAG-KAZ-R005 |
+| RAG-KAZ-E018 | KAZ-S004 | RAG-E-V002-015 | Interior plan; prospective honesty and desire | Plans to confess to Mami after disembarking and later tell Kibe that Chizuru is a rental girlfriend. | Separates romantic confession from corrective disclosure. | Neither speech occurs within V002. | RAG-KAZ-R001, RAG-KAZ-R003 |
+| RAG-KAZ-E019 | KAZ-S004 | RAG-E-V002-016 | Care, apology, and termination statement | Offers Chizuru medicine, apologizes for the imposed burden, and says he will no longer rent her while agreeing to meet Mami. | Attempts a bounded repair before pursuing the former relationship. | The emergency interrupts both plans. | RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E020 | KAZ-S004 | RAG-E-V002-017 | Emergency inference and action; risk | Infers Chizuru is overboard from her dropped phone and dives after her without payment, request, audience reward, or assured outcome. | Action overrides stated distance and immediate self-protection. | Outcome, reflection, and generalization to mature care remain unknown. | RAG-KAZ-R005, RAG-KAZ-R006 |
 
 ## State-change summary
 
 - **KAZ-S001 — displaced post-breakup client:** emotionally dysregulated, idealizing Mami, and using purchase to seek substitute intimacy.
 - **KAZ-S002 — family-fiction maintainer:** knows the girlfriend claim is false, values Nagomi's happiness, and repeatedly chooses immediate face protection over durable correction.
 - **KAZ-S003 — recurring public-performance participant:** has explicit boundary knowledge, a weekly arrangement, peer exposure, and renewed contact with Mami; retains the same shame-driven escalation mechanism under higher social cost.
+- **KAZ-S004 — attempted closer under divided attachment and emergency:** makes a partial public correction, plans fuller disclosure and a confession to Mami, supplies care and an intended rental endpoint, then abandons the planned sequence to dive after Chizuru.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -64,13 +74,15 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Stammers, delays, or blurts under sudden social scrutiny; his most consequential false claims arrive before deliberation (RAG-E-V001-003, RAG-E-V001-011).
 - Can become unusually direct when another person's dignity is at stake (RAG-E-V001-011).
 - Uses extreme self-description after conflict, often treating it as a complete causal account (RAG-E-V001-014).
-- Ordinary repertoire remains sparse: V001 shows student and apartment life, but little sustained study, work, hobby, or low-stakes friendship conduct.
+- Ordinary repertoire remains sparse: V001-V002 show student, travel, apartment, and friendship crisis contexts, but little sustained study, work, hobby, or low-stakes routine.
+- Under peer pressure he can refuse a desired kiss and accept public conflict rather than enact the immediate romantic opportunity (RAG-E-V002-012).
+- Under acute physical danger, inference and action become rapid and less self-narrated than his ordinary romantic deliberation (RAG-E-V002-017).
 
 ## Gaps and negative evidence
 
 - No paid employment is shown; V001 explicitly says he has none at the opening.
 - Competence outside relationship crisis is insufficiently sampled.
-- No reliable long-duration evidence yet distinguishes acute breakup behavior from persistent regulation style.
+- Two volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains underobserved.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 

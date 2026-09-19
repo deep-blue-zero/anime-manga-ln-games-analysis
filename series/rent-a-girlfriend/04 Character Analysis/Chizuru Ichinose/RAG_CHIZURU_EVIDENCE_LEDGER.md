@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witness RAG-JP-EPUB-V001; character evidence inspected through V001 only."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V002; character evidence inspected through V002."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V001
+inspected_through_volume: V002
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -49,12 +49,20 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E007 | CHI-S003 | RAG-E-V001-011 | Girlfriend-role performance under peer scrutiny | Supports the public couple presentation after Kazuya's friends intrude. | Uses service-compatible warmth while facial reactions show embarrassment or strain. | Expression does not uniquely reveal motive or consent to Kazuya's claim about her feelings. | RAG-CHI-R003 |
 | RAG-CHI-E008 | CHI-S003 | RAG-E-V001-013 | Direct public correction; fairness and relationship performance | Calls Mami's humiliation of Kazuya unpleasant, uses “my Kazuya-san,” identifies the tact violation, and exits. | Firm, concise moral objection within girlfriend register. | Professional defense, fairness, personal identification, and irritation remain jointly possible. | RAG-CHI-R004, RAG-CHI-R005 |
 | RAG-CHI-E009 | CHI-S003 | RAG-E-V001-016 | Ordinary conduct and formal coda | At a video-rental counter, asks for a one-week extension. | Mundane commercial speech echoes the manga's central vocabulary. | This is not direct evidence that she extends the girlfriend agreement or saw Mami with Kazuya. | Ordinary-repertoire note only |
+| RAG-CHI-E010 | CHI-S003 | RAG-E-V002-001, RAG-E-V002-002 | Consolation, invoice, and policy; professional accountability | Offers partnership to a lonely former boyfriend within the rental role, then later bills the extension and denies special treatment. | Warm role-compatible aid is followed by exact accounting. | Payment neither erases chosen care nor proves private feeling. | RAG-CHI-R003, RAG-CHI-R004 |
+| RAG-CHI-E011 | CHI-S004 | RAG-E-V002-004, RAG-E-V002-005, RAG-E-V002-007 | Visual presentation and concealment; identity risk | Her Ichinose presentation initially prevents recognition at Izu, but Mami can invoke the Mizuhara name before the shared group. | Cooperates with emergency cover repair after the identities collide. | The accidental encounter is not chosen; continued concealment is. | RAG-CHI-R001, RAG-CHI-R003 |
+| RAG-CHI-E012 | CHI-S004 | RAG-E-V002-006 | Direct explanation and represented affect; boundary | Attributes her consolation to rental work and denies concern about Kazuya reconciling with Mami after a visibly darkened response. | Uses blunt role language and physical dismissal to close interpretation. | Expression supports affect, not a unique label such as jealousy. | RAG-CHI-R001, RAG-CHI-R004 |
+| RAG-CHI-E013 | CHI-S004 | RAG-E-V002-008, RAG-E-V002-009 | Public performance and observation; peer pressure | Preserves the couple cover under friend pressure, tries to withdraw, and witnesses Mami kiss Kazuya. | Requests a plausible explanation rather than disclosing the service herself. | V002 provides no direct interior account of the observed kiss. | RAG-CHI-R003 |
+| RAG-CHI-E014 | CHI-S004 | RAG-E-V002-011, RAG-E-V002-013 | Booking instruction and evaluation; closure | Calls for the discharge-week booking, evaluates both unattractive and manly sides of Kazuya, says the trip was fun, and then names the job frame. | Positive appraisal is immediately bounded; private “idiot” speech adds affect without explanation. | Romance, fairness, professional encouragement, and irritation remain unranked. | RAG-CHI-R004, RAG-CHI-R005 |
+| RAG-CHI-E015 | CHI-S004 | RAG-E-V002-014, RAG-E-V002-015 | Social obligation and chosen participation; friendship audience | Accepts Kibe's ferry tickets after his childhood account and request, while stating that the relation will end afterward. | Does not refuse a sincere friend appeal, but preserves a verbal endpoint. | Kibe's false premise and her own illness constrain the act; no romantic acknowledgment follows. | RAG-CHI-R002, RAG-CHI-R004 |
+| RAG-CHI-E016 | CHI-S004 | RAG-E-V002-016, RAG-E-V002-017 | Visible illness, withdrawal, accident; vulnerability | Declines further company, seeks space while ill, and falls overboard. She is shown unconscious when Kazuya reaches her. | Requests to be alone before the accident. | No voluntary intimacy, rescue knowledge, survival outcome, or post-event appraisal is available. | State-boundary evidence only |
 
 ## State-change summary
 
 - **CHI-S001 — professional provider with dissatisfied client:** skilled, satisfaction-oriented, and willing to correct entitlement directly.
 - **CHI-S002 — dual-identity provider under family exposure:** employment privacy, campus presentation, and Sayuri's involvement create overlapping obligations.
 - **CHI-S003 — bounded recurring collaborator:** neighboring residence, both grandmothers, a Wednesday contract, and a peer audience now condition her choices; she preserves compartmentalization while making limited exceptions.
+- **CHI-S004 — identity-collision participant under announced closure:** the Izu overlap joins campus, rental, friend, and former-partner audiences; she enforces payment, accepts a friend-mediated final ride, reiterates the job frame, and ends V002 unconscious after falling overboard.
 
 The transitions are primarily context, knowledge, and relationship changes. V001 does not establish a disposition change or romantic self-recognition.
 
@@ -64,11 +72,13 @@ The transitions are primarily context, knowledge, and relationship changes. V001
 - Boundary register is direct, often imperative, and grounded in concrete consequences or rules (RAG-E-V001-005, RAG-E-V001-007, RAG-E-V001-009).
 - Family-facing speech is adaptive and face-preserving; she can improvise a shared explanation quickly (RAG-E-V001-003, RAG-E-V001-006).
 - Moral objection is concise and audience-aware rather than confessional (RAG-E-V001-013).
-- Ordinary evidence is limited to student presentation, apartment cooking, hospital visiting, and a DVD counter; hobbies, study routine, friendships, and long-duration work practice remain underobserved.
+- Ordinary evidence expands to travel with female university friends and seasickness/illness management, but hobbies, study routine, close-friend speech, and long-duration work practice remain underobserved.
+- Positive appraisal is often followed by a role qualifier or endpoint rather than left open to personal interpretation (RAG-E-V002-006, RAG-E-V002-013, RAG-E-V002-015).
 
 ## Gaps and negative evidence
 
-- V001 gives no sustained first-person account of her goals, self-model, or reason for needing the job.
+- V001-V002 give no sustained first-person account of her goals, self-model, or reason for needing the job.
+- V002 ends before she can know or evaluate Kazuya's rescue attempt.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
 - No broad rule yet supports behavior with close friends, teachers, coworkers, or a mutually acknowledged partner.

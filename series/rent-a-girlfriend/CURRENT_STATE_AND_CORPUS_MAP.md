@@ -4,13 +4,13 @@ artifact_id: RAG_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga EPUB inventory V001-V047; V001 inspected and closed; active prospective analysis authorized through V010 with V002 next."
+source_boundary: "Japanese manga EPUB inventory V001-V047; V001-V002 inspected and closed; active prospective analysis authorized through V010 with V003 next."
 ---
 
 # Rent-a-Girlfriend — current state and corpus map
@@ -23,7 +23,7 @@ This is the canonical first-read surface for the Git analytical corpus. Primary 
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
-  analytical_phase: READY_FOR_V002
+  analytical_phase: READY_FOR_V003
   source_reconnaissance_complete: true
   governing_method: "00 Frameworks and Methods/RAG_ANALYTICAL_METHOD.md"
   method_status: canonical
@@ -45,7 +45,7 @@ project_initialization:
   sequential_analysis_lock: OPEN
 ```
 
-The gate remains open because the stable root and identity were resolved against current Git authority; the Japanese V001-V047 inventory is continuous and hash-locked; V001 received complete sequential visual inspection and an atomic analytical close; the three governing foundations remain current-eligible; and the cumulative ledgers and central character models are synchronized through V001.
+The gate remains open because the stable root and identity were resolved against current Git authority; the Japanese V001-V047 inventory is continuous and hash-locked; V001 and V002 received complete sequential visual inspection and atomic analytical closes; the three governing foundations remain current-eligible; and the cumulative ledgers and central character models are synchronized through V002.
 
 ## Active sequential authorization
 
@@ -55,8 +55,8 @@ sequential_execution:
   unit_type: volume
   authorized_start: V001
   terminal_boundary: V010
-  committed_high_water_mark: V001
-  next_candidate_operation: V002
+  committed_high_water_mark: V002
+  next_candidate_operation: V003
   confirmation_between_units: false
   run_state: active
 ```
@@ -85,13 +85,13 @@ V011 is inventory-visible but narratively inadmissible in this run. Each volume 
 | Responsibility | State |
 |---|---|
 | Foundation method, architecture, reconstruction specification | Canonical and adopted |
-| Source map and next inspection route | V001 closed; V002 is next |
-| Longitudinal ledgers | Synchronized through V001 |
-| Character evidence ledgers and models | Kazuya and Chizuru at project-local `PARTIAL_MODEL` through V001 |
-| Sequential deep readings | V001 closed |
+| Source map and next inspection route | V001-V002 closed; V003 is next |
+| Longitudinal ledgers | Synchronized through V002 |
+| Character evidence ledgers and models | Kazuya and Chizuru at project-local `PARTIAL_MODEL` through V002 |
+| Sequential deep readings | V001-V002 closed |
 | Latest checkpoint | None |
 | Reconstruction audit | None |
-| Repository publication | Stable branch `series/rent-a-girlfriend`; V001 transaction included in the current branch state |
+| Repository publication | Stable branch `series/rent-a-girlfriend`; V002 transaction included in the current branch state |
 
 ## Execution profile
 
@@ -100,7 +100,7 @@ execution_profile:
   product_surface: Codex desktop
   tool_runtime_location: owner-controlled local runtime
   observation_date: "2026-09-19"
-  capability_scope: "Japanese image-based EPUB manga; V001 metadata, spine mapping, and original-resolution page inspection"
+  capability_scope: "Japanese image-based EPUB manga; V001-V002 metadata, spine mapping, and original-resolution page inspection"
   source_transport: owner-authorized local evidence path
   filesystem_read: VERIFIED
   filesystem_write: VERIFIED
@@ -113,12 +113,12 @@ execution_profile:
 
 ## Next operation
 
-Before inspecting V002 narrative pages, recover the V001 exiting freeze, current claims, frozen predictions `RAG-PRED-001` through `RAG-PRED-004`, and the Kazuya/Chizuru V001 models. Verify witness `RAG-JP-EPUB-V002`, create the V002 entering freeze, and close V002 as its own transaction before opening V003.
+Before inspecting V003 narrative pages, recover the V002 exiting freeze, current claims, frozen predictions `RAG-PRED-005` through `RAG-PRED-008`, and the Kazuya/Chizuru V002 models. Verify witness `RAG-JP-EPUB-V003`, create the V003 entering freeze, and close V003 as its own transaction before opening V004.
 
 ## Current analytical routes
 
-- Latest closed reading: [RAG_V001_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20001-010/RAG_V001_DEEP_READING.md)
-- Current claims and V002 predictions: [RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md](03%20Ledgers/RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md)
+- Latest closed reading: [RAG_V002_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20001-010/RAG_V002_DEEP_READING.md)
+- Current claims and V003 predictions: [RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md](03%20Ledgers/RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md)
 - Kazuya evidence/model: [evidence ledger](04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_RECONSTRUCTION_MODEL.md)
 - Chizuru evidence/model: [evidence ledger](04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_RECONSTRUCTION_MODEL.md)
 - No block checkpoint or reconstruction audit is due until V010 closes.

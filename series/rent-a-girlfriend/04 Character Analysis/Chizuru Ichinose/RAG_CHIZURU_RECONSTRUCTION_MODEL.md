@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witness RAG-JP-EPUB-V001."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V002."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -28,15 +28,16 @@ model_identity:
 model_basis:
   source_witnesses:
     - RAG-JP-EPUB-V001
-  admitted_through_volume: V001
-  narrative_time_boundary: "after the V001 drinking gathering and video-rental coda"
+    - RAG-JP-EPUB-V002
+  admitted_through_volume: V002
+  narrative_time_boundary: "after Chizuru falls overboard and is shown unconscious at the unresolved V002 ferry cliffhanger"
   basis_checkpoint: null
   basis_commit: 3d79472fb72ccb6d7670a4e0735b6f52ea41d81c
-  model_revision: "1.0"
+  model_revision: "1.1"
   prior_knowledge_limitations:
-    - "No post-V001 narrative evidence is admitted."
+    - "No post-V002 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
-    - "The same reading supplied the evidence and initial rules; no prospective validation has yet occurred."
+    - "Chizuru is not shown knowing about Kazuya's dive; rescue outcome is unknown."
 coverage:
   observed_contexts:
     - rental-girlfriend work
@@ -46,6 +47,9 @@ coverage:
     - neighbor boundary negotiation
     - public peer conflict
     - limited private apartment conduct
+    - university-friend travel and identity collision
+    - transaction settlement and announced closure
+    - illness and acute physical vulnerability
   missing_contexts:
     - sustained study and friendships
     - reason for needing the job
@@ -62,13 +66,13 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports narrow reconstruction of Chizuru at the V001 endpoint when professional rules, family welfare, privacy, audience management, and public unfairness are salient. Because the volume rarely supplies her interior narration, the model predicts action ranges from conduct and speech rather than inventing a hidden monologue. It must abstain on romantic feeling, career goals, intimate partnership, and unseen ordinary preferences.
+This model supports narrow reconstruction of Chizuru at the V002 endpoint when professional rules, family welfare, privacy, audience management, public unfairness, or a socially requested exception are salient. Because the manga rarely supplies her interior narration, the model predicts action ranges from conduct and speech rather than inventing a hidden monologue. It must abstain on rescue knowledge, romantic feeling, career goals, intimate partnership, and unseen ordinary preferences.
 
 ## Central mechanism
 
 Chizuru manages competing obligations through compartmentalization and bounded exceptions. She can perform warmth as skilled labor, protect a separate campus identity, and speak bluntly when a client threatens those boundaries. When new information reveals a concrete family or dignity cost, she may revise an earlier refusal. She then tends to specify a rule, payment frame, audience story, or exit that limits what the exception means.
 
-The minimum supported motive is responsive responsibility. Professional pride, empathy for the grandmothers, fairness toward Kazuya, protection of her own work, and possible personal investment can all contribute. V001 does not justify selecting romance as the hidden master explanation, nor does it justify treating professional conduct as emotionally unreal.
+The minimum supported motive is responsive responsibility. Professional pride, empathy for the grandmothers, fairness toward Kazuya, social obligation to Kibe, protection of her own work, and possible personal investment can all contribute. V002 prospectively supports her tendency to restore a role or endpoint after suggestive conduct. Neither volume justifies selecting romance as the hidden master explanation or treating professional conduct as emotionally unreal.
 
 ## Temporal states
 
@@ -131,7 +135,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S003
 valid_from_source: "V001 p.107"
-valid_until_source: null
+valid_until_source: "V002 i_0041"
 entry_conditions:
   - "Adjacent apartments create an unplanned private-space overlap."
 active_goals:
@@ -157,6 +161,42 @@ uncertainties:
   - "Whether chosen defense and care contain a romantic component."
 ~~~
 
+### CHI-S004 — identity-collision participant under announced closure
+
+~~~yaml
+state_id: CHI-S004
+valid_from_source: "V002 i_0042"
+valid_until_source: null
+entry_conditions:
+  - "The Izu trip brings her university presentation into Kazuya's friend and former-partner audience."
+active_goals:
+  - prevent disclosure of the Mizuhara/Ichinose identity link
+  - contain the public couple performance
+  - complete the final family-linked booking
+  - end the recurring service relation without needless friend harm
+known_propositions:
+  - "Mami is actively probing the couple account and kissed Kazuya."
+  - "Kibe believes the pair are a real couple."
+  - "Nagomi expects discharge the following week."
+relationship_conditions:
+  - "Kazuya is a client under announced closure and shared peer exposure."
+  - "Kibe is a sincere but misinformed friend whose request creates pressure."
+changed_from_previous:
+  - CONTEXT_CHANGE
+  - PUBLIC_RELATIONSHIP_CHANGE
+  - ACCESS_CONTRACTION
+evidence_refs:
+  - RAG-E-V002-004
+  - RAG-E-V002-006
+  - RAG-E-V002-008
+  - RAG-E-V002-013
+  - RAG-E-V002-015
+  - RAG-E-V002-016
+uncertainties:
+  - "Her private emotional response to Mami, Kazuya, and the announced ending."
+  - "Whether she survives and later learns of Kazuya's dive."
+~~~
+
 ## Behavioral rules
 
 ### RAG-CHI-R001 — entitlement or identity risk prompts direct private correction
@@ -168,7 +208,7 @@ uncertainties:
 - **Likely action range:** identify the violated rule or concrete consequence; use imperatives; refuse contact; threaten or enact exit.
 - **Inhibitors/escalators:** family audience inhibits blunt disclosure; repeated pressure escalates directness.
 - **Written-speech constraints:** concise questions and commands, specific reference to work rules or consequences.
-- **Support:** RAG-E-V001-002, RAG-E-V001-005, RAG-E-V001-007.
+- **Support:** RAG-E-V001-002, RAG-E-V001-005, RAG-E-V001-007, RAG-E-V002-004, RAG-E-V002-006.
 - **Counterevidence/gap:** she later enters Kazuya's residence, but only after changed family information and with immediate re-bounding.
 - **Disconfirming observation:** comparable entitlement repeatedly met with permissive access and no compensating rule or contextual reason.
 - **Class/confidence:** STRONG_INFERENCE; moderate within client/privacy contexts.
@@ -180,8 +220,8 @@ uncertainties:
 - **Likely appraisal:** the family benefit can justify temporary participation, but the exception needs containment.
 - **Likely action range:** improvise the public girlfriend role, supply practical help, delay truth, then propose breakup or explicit operating terms.
 - **Motives in conflict:** privacy and professional rules versus family empathy, face protection, and possibly personal concern.
-- **Support:** RAG-E-V001-003, RAG-E-V001-004, RAG-E-V001-006, RAG-E-V001-008, RAG-E-V001-009.
-- **Counterevidence/gap:** no case yet tests a high personal cost or direct conflict between the two grandmothers' interests.
+- **Support:** RAG-E-V001-003, RAG-E-V001-004, RAG-E-V001-006, RAG-E-V001-008, RAG-E-V001-009, RAG-E-V002-011, RAG-E-V002-013, RAG-E-V002-015.
+- **Counterevidence/gap:** Kibe's appeal extends the rule beyond family welfare into sincere social obligation, but no case yet tests a high deliberate personal cost.
 - **Disconfirming observation:** repeated concrete family distress met with unchanged refusal where she has the same knowledge and feasible low-cost option.
 - **Class/confidence:** STRONG_INFERENCE; moderate, family-specific.
 
@@ -193,7 +233,7 @@ uncertainties:
 - **Likely action range:** warm girlfriend performance; subdued student presentation; adaptive family improvisation; direct private correction.
 - **Written-speech constraints:** affectionate address and invitation in service mode; imperatives in boundary mode; face-preserving explanations before family.
 - **Negative constraint:** do not model one register as the only “real” Chizuru or split aliases into separate people.
-- **Support:** RAG-E-V001-002, RAG-E-V001-003, RAG-E-V001-005, RAG-E-V001-006, RAG-E-V001-011.
+- **Support:** RAG-E-V001-002, RAG-E-V001-003, RAG-E-V001-005, RAG-E-V001-006, RAG-E-V001-011, RAG-E-V002-002, RAG-E-V002-004, RAG-E-V002-007, RAG-E-V002-008.
 - **Counterevidence/gap:** private low-stakes speech with trusted friends is absent.
 - **Disconfirming observation:** sustained failure to vary presentation across audiences despite unchanged identity/privacy stakes.
 - **Class/confidence:** STRONG_INFERENCE; moderate-high for the observed contexts.
@@ -204,8 +244,8 @@ uncertainties:
 - **Trigger:** She has supplied help that could be interpreted as free personal intimacy or unlimited access.
 - **Likely appraisal:** the practical benefit can stand, but its future meaning must not remain open-ended.
 - **Likely action range:** insist on payment, state duration and routing, prohibit other contact, or exit the scene.
-- **Support:** RAG-E-V001-008, RAG-E-V001-009, with RAG-E-V001-013 as a possible exit variant.
-- **Counterevidence/gap:** only one full negotiation; the drinking defense's compensation and exact time boundary are not independently resolved.
+- **Support:** RAG-E-V001-008, RAG-E-V001-009, RAG-E-V001-013, RAG-E-V002-002, RAG-E-V002-006, RAG-E-V002-013, RAG-E-V002-015.
+- **Counterevidence/gap:** role qualifiers recur, but whether they express only professional clarity or also defensive emotional control remains unresolved.
 - **Disconfirming observation:** repeated chosen extensions followed by no boundary clarification despite foreseeable entitlement.
 - **Class/confidence:** WORKING_HYPOTHESIS; moderate-low.
 
@@ -225,7 +265,7 @@ uncertainties:
 
 ### Toward Kazuya
 
-Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor who must not treat proximity as access, and a co-maintainer of a family fiction. She can recognize his family motive and defend his dignity while still refusing personal entitlement. A reconstruction should predict more direct speech in private and more adaptive performance before shared audiences. It must not assign romantic awareness without new evidence.
+Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor who must not treat proximity as access, and a co-maintainer of family and peer fictions. She can evaluate him favorably, respond to his friends, and still return the conduct to a job or ending frame. At the V002 boundary she is unconscious and cannot be modeled as knowing about his dive. A reconstruction should predict direct private correction and adaptive shared-audience performance without assigning romantic awareness.
 
 ### Toward Nagomi
 
@@ -237,7 +277,7 @@ Sayuri's happiness and hospitalization constrain disclosure. Chizuru conceals th
 
 ### Toward Mami
 
-Chizuru knows Mami as Kazuya's former girlfriend and observes her public diminishment of him. The only supported response is direct moral objection within the current girlfriend role. Jealousy, rivalry, or knowledge of Mami's later approach should not be inserted.
+Chizuru knows Mami as Kazuya's former girlfriend, observes her public diminishment and later kiss, and experiences her active probing of the public relationship. A darkened expression and other reactions establish affect but do not identify jealousy, rivalry, or romantic self-knowledge. No represented knowledge of Mami's private separation goal should be inserted.
 
 ## Domain account and negative constraints
 
@@ -259,10 +299,10 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a low-cost practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access.
 
-Require extra assumptions: private friendship routine, career ambition, romantic confession, sustained cohabitation, sexual intimacy, or behavior after later manga development.
+Require extra assumptions: rescue survival or knowledge, private friendship routine, career ambition, romantic confession, sustained cohabitation, sexual intimacy, or behavior after V002.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
 ## Validation status
 
-No prospective prediction has yet been tested. RAG-CHI-R001 through R003 have support across multiple V001 contexts; RAG-CHI-R004 and R005 are narrow rules with limited opportunities. The model has been checked against the negative inference that every chosen extension is romantic and against the opposite claim that paid conduct is necessarily empty. Both overextensions fail at the V001 boundary.
+V002 prospectively supports audience-conditioned presentation and the post-help return to a legible role or endpoint. RAG-CHI-R001 through R004 now have evidence across two volumes; RAG-CHI-R005 remains narrow. The model has been checked against the inference that every chosen extension or facial reaction is romantic and against the opposite claim that paid conduct is emotionally empty. Both overextensions fail at the V002 boundary.
