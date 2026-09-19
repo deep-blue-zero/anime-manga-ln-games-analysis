@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V006
-row_count: 39
-state: CURRENT_THROUGH_V006
+inspected_through_volume: V007
+row_count: 44
+state: CURRENT_THROUGH_V007
 ```
 
 ## Records
@@ -81,3 +81,8 @@ state: CURRENT_THROUGH_V006
 | RAG-AGY-037 | Kazuya | Leave Ruka provisional, end the relation, or try to make it official. | Decides he must try to like Ruka and begins an official-status proposal when Chizuru's retirement seems possible. | Attempts responsibility through a partner he does not love, then abandons the discussion during the workplace collision. | The proposal is unfinished and avoidance of Chizuru's loss remains a live motive; RAG-E-V006-009, RAG-E-V006-010. |
 | RAG-AGY-038 | Chizuru | Accept Mami's accusation as a client boundary or challenge her treatment of Kazuya's feeling. | Stops Mami, reports Kazuya's sincere attachment, and asks whether Mami ever seriously faced or accepted it. | Protects the dignity of Kazuya's feeling and forces the former girlfriend to answer. | Professional ethics, empathy, guilt, and personal attachment remain plural motives; RAG-E-V006-011, RAG-E-V006-013, RAG-E-V006-014. |
 | RAG-AGY-039 | Kazuya | Keep his preference private or communicate after thanking Chizuru. | Distinguishes attraction from moral admiration and calls after her that she is the person he wants. | Converts internal attachment into direct but incomplete speech. | Chizuru's interpretation and response are deferred; RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017. |
+| RAG-AGY-040 | Kazuya | Treat Chizuru's casting loss as final, offer praise only, or supply practical support. | Attends the play, argues for her talent, commits work income, and books future dates. | Helps preserve acting effort and rental income. | Paid support does not purchase private status; RAG-E-V007-003 through RAG-E-V007-006. |
+| RAG-AGY-041 | Kazuya | Expose Chizuru's work to correct his father's accusation or absorb the consequence. | Keeps the occupational secret and accepts injury and blame. | Protects Chizuru's privacy at direct personal cost. | This does not justify the wider deception system; RAG-E-V007-008, RAG-E-V007-009. |
+| RAG-AGY-042 | Chizuru | Read casting loss as an endpoint or continue acting and rental work. | Accepts bookings, annotates her script, and continues while checking whether Kazuya's spending is excessive. | Preserves a career path while retaining professional fairness. | Long-term success remains unknown; RAG-E-V007-004, RAG-E-V007-006, RAG-E-V007-011. |
+| RAG-AGY-043 | Chizuru | Keep Kazuya inside paid access or initiate private ordinary and family contact. | Invites him to a batting center and then to Sayuri's hospital room. | Grants unpriced access while controlling its purpose. | The visit still uses the public boyfriend premise; RAG-E-V007-012, RAG-E-V007-013. |
+| RAG-AGY-044 | Kazuya | Preserve ambiguity when Sayuri tests the relationship or speak truthfully about his feeling. | States plainly that he loves Chizuru and resolves to support her without requiring boyfriend status. | Gives Sayuri true affective information and limits entitlement in his stated aim. | Chizuru does not hear the declaration; RAG-E-V007-015, RAG-E-V007-016. |

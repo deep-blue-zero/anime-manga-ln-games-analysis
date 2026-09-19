@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V006
-row_count: 37
-state: CURRENT_THROUGH_V006
+inspected_through_volume: V007
+row_count: 42
+state: CURRENT_THROUGH_V007
 ```
 ```
 
@@ -80,3 +80,8 @@ state: CURRENT_THROUGH_V006
 | RAG-PRG-035 | Ruka relation: provisional and emotionally mismatched | FALSE_START — Kazuya begins an official-status proposal from duty and anticipated loss, then the workplace collision interrupts it. | Ruka receives evidence of possible conversion but no completed agreement. | Underlying nonreciprocity persists and must be revisited. | RAG-E-V006-009, RAG-E-V006-010 |
 | RAG-PRG-036 | Mami trajectory: observation without known action | ESCALATION — research, paid access, and direct accusation turn observation into strategic intervention. | Mami and Chizuru exchange privileged relationship information; Kazuya overhears. | Mami's desired final state and response to Chizuru's challenge remain unknown. | RAG-E-V006-005, RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-013, RAG-E-V006-014 |
 | RAG-PRG-037 | Kazuya attachment: conscious but private and appearance-heavy | GAIN_WITH_OPEN_RECEPTION — he distinguishes admiration of Chizuru's conduct from physical attraction and directly names her as his preference. | Kazuya and reader receive the full synthesis; Chizuru receives the final statement. | Her interpretation, reciprocation, and any relationship change remain unobserved. | RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017 |
+| RAG-PRG-038 | Kazuya communication | MIXED — he retreats under Chizuru's direct question, then later speaks plainly to Sayuri. | Audience and risk still govern communicative competence. | Chizuru still lacks his explicit love declaration. | RAG-E-V007-001, RAG-E-V007-015 |
+| RAG-PRG-039 | Chizuru career | REGRESSION_THEN_RECOVERY — she loses a role and questions her talent, then resumes script work and rental income. | Persistence follows observable defeat. | Long-term career success remains unknown. | RAG-E-V007-003 through RAG-E-V007-006 |
+| RAG-PRG-040 | Kazuya-Chizuru access | MATERIAL_GAIN_WITHOUT_STATUS — repeated paid bookings expand to an unbooked outing and family visit. | Chizuru initiates both forms of private access. | Mutual romantic status remains unacknowledged. | RAG-E-V007-011 through RAG-E-V007-013 |
+| RAG-PRG-041 | Kazuya support | GAIN — work, bookings, privacy protection, and status-independent commitment make support more concrete. | Conduct now carries financial, bodily, and relational cost. | Paid access and continuing deception remain limits. | RAG-E-V007-005, RAG-E-V007-009, RAG-E-V007-016 |
+| RAG-PRG-042 | Sumi communication and work | LIMITED_GAIN — she continues preparation and client work despite severe difficulty. | Supplemental evidence shows persistence and reflective concern. | Stable independent competence is not established. | RAG-E-V007-007 |

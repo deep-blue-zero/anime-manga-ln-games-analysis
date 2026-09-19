@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V003-V006."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V007; V007 supplies no direct Ruka evidence."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -31,7 +31,8 @@ model_basis:
     - RAG-JP-EPUB-V004
     - RAG-JP-EPUB-V005
     - RAG-JP-EPUB-V006
-  admitted_through_volume: V006
+    - RAG-JP-EPUB-V007
+  admitted_through_volume: V007
   narrative_time_boundary: "after Ruka's workplace inquiry and Kazuya's attempt to formalize their relationship are interrupted"
   basis_checkpoint: null
   basis_commit: 22b9fda6379812118b3cc2a676756232effd5c1d
@@ -379,10 +380,10 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after repeated definitive rejection, long-term workplace conduct, the content of Mami's booking, Kazuya's direct preference statement to Chizuru, or any post-V006 knowledge.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after repeated definitive rejection, long-term workplace conduct, the content of Mami's booking, Kazuya's direct preference statement to Chizuru, or any post-V006 Ruka conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
-The model is supported by four observed volumes, with direct interior history concentrated in V004, strategic counterevidence in V005, and an interrupted status decision under workplace collision in V006. RAG-RUK-R001 and RAG-RUK-R002 have repeated conduct across several scenes; RAG-RUK-R003 remains recognition-specific; RAG-RUK-R004 is strong as a represented self-model and invalid as a medical conclusion; RAG-RUK-R005 records observed tactical redirection without predicting acceptance of durable rejection. Local readiness remains PARTIAL_MODEL because ordinary life, informed response to the V006 confrontation, and long-term conduct are sparse.
+The model is supported by direct Ruka evidence through V006; inspected V007 supplies no Ruka appearance and therefore no new state. RAG-RUK-R001 and RAG-RUK-R002 have repeated conduct across several scenes; RAG-RUK-R003 remains recognition-specific; RAG-RUK-R004 is strong as a represented self-model and invalid as a medical conclusion; RAG-RUK-R005 records observed tactical redirection without predicting acceptance of durable rejection. Local readiness remains PARTIAL_MODEL because ordinary life, informed response to the V006 confrontation, and long-term conduct are sparse.

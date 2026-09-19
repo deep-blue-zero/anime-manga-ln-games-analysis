@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; character evidence inspected through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; character evidence inspected through V007."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V006
+inspected_through_volume: V007
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -75,6 +75,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E033 | CHI-S008 | RAG-E-V006-008, RAG-E-V006-011 | Client booking and hostile interrogation; professional conduct | Accepts Mami's booking under the client name Maya, maintains the service frame, and is accused of taking Kazuya's money while playing girlfriend without loving him. | Begins from professional restraint under a transaction that converts private history into client scrutiny. | Mami's accusation is an interested interpretation, not proof of Chizuru's motive or feeling. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R007 |
 | RAG-CHI-E034 | CHI-S008 | RAG-E-V006-013, RAG-E-V006-014 | Moral confrontation and relational advocacy | Tells Mami that Kazuya loved her deeply, treats romantic feeling as difficult and valuable, and asks whether Mami truly faced it or could make him happy. | Uses direct ethical questions beyond the minimum needed to defend her work. | Fairness, anger, professional self-defense, concern for Kazuya, and possible personal investment remain plural explanations. | RAG-CHI-R003, RAG-CHI-R005, RAG-CHI-R007 |
 | RAG-CHI-E035 | CHI-S008 | RAG-E-V006-015, RAG-E-V006-017 | Post-confrontation apology and direct address received | Apologizes that she could not restore Mami as Kazuya's girlfriend, then receives Kazuya's statement that she is the one he wants. | Frames her intervention as attempted repair before the volume places her under unambiguous personal address. | Her response is withheld; receipt does not establish reciprocity, self-recognition, or a new status. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007 |
+| RAG-CHI-E036 | CHI-S009 | RAG-E-V007-001, RAG-E-V007-002 | Direct clarification and private affect | Asks Kazuya what he meant, accepts his rental explanation aloud, then blushes and curls up alone. | Actively seeks classification while private reaction exceeds the neutral surface answer. | The reaction does not identify romance or authorize a new status. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007 |
+| RAG-CHI-E037 | CHI-S009 | RAG-E-V007-003 through RAG-E-V007-006 | Stage performance, casting loss, self-appraisal, and recommitment | Performs successfully for the audience, loses the next lead, questions her talent, accepts future bookings, and returns to script work. | Responds to vocational defeat through both emotion and renewed labor. | Kazuya's praise is interested, and the casting cause and long-term outcome remain unknown. | RAG-CHI-R004, RAG-CHI-R007 |
+| RAG-CHI-E038 | CHI-S009 | RAG-E-V007-009 through RAG-E-V007-011 | Protected privacy, gratitude, and professional fairness | Learns Kazuya accepted injury to protect her job secret, thanks him, values his talent judgment, and checks whether weekly bookings are excessive. | Personal gratitude coexists with regulation of the paid relation. | Concern can be professional, ethical, personal, or mixed. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007 |
+| RAG-CHI-E039 | CHI-S009 | RAG-E-V007-012, RAG-E-V007-013, RAG-E-V007-017 | Unpriced ordinary, family, and practical access | Initiates a batting outing, brings Kazuya to Sayuri, and later seeks his help after losing her key. | Selectively expands access beyond rental time while retaining purpose and initiative. | The boyfriend cover and practical need remain sufficient explanations; V008 must resolve the key request. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R009 |
+| RAG-CHI-E040 | CHI-S009 | RAG-E-V007-014 | Close-relative childhood report | Sayuri describes a clingy, lonely child beneath Chizuru's adult strength and frames that strength as protective armor. | Adds a family-sourced vulnerability model that can guide bounded reconstruction. | This is not Chizuru's direct present-tense self-report. | RAG-CHI-R003, RAG-CHI-R009 |
 
 ## State-change summary
 
@@ -86,6 +91,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S006 — acting student under personal reciprocity and a provisional triangle:** she operationalizes the real-girlfriend exit rule, reveals acting as her career goal and rental work as funding and practice, gives Kazuya a personalized off-contract gift, and demands responsible treatment of Ruka.
 - **CHI-S007 — informed professional coordinator inside an enlarged relationship network:** she contests Ruka at New Year, knowingly supports the Kuribayashi repair, and privately recruits Kazuya as Sumi's practice client while the acting goal receives no new practical evidence.
 - **CHI-S008 — acting-linked exit planner and advocate under direct address:** her Sumi referral produces a successful practice outcome, an acting opportunity makes rental-work departure concrete, Mami turns the service into a moral interrogation, and Chizuru defends Kazuya's feeling before receiving his direct statement that he wants her.
+- **CHI-S009 — defeated but recommitting actor granting selective private access:** she seeks clarification and reacts privately, loses a role but resumes work, accepts and regulates paid support, values Kazuya's judgment and privacy protection, and initiates ordinary and family access outside bookings.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V006 do not establish a disposition change or romantic self-recognition.
 

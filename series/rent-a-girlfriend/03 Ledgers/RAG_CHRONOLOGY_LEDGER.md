@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V006
-row_count: 27
-state: CURRENT_THROUGH_V006
+inspected_through_volume: V007
+row_count: 31
+state: CURRENT_THROUGH_V007
 ```
 
 ## Records
@@ -69,3 +69,7 @@ state: CURRENT_THROUGH_V006
 | RAG-CHR-025 | RAG-E-V006-006, RAG-E-V006-007, RAG-E-V006-008 | A 9 p.m. balcony conversation about Sumi and Chizuru's possible retirement precedes the next shown client booking, where “MAYA” is revealed as Mami. | Balcony time is explicit; elapsed interval to the booking is represented as the following day. | Proposed retirement is not yet completed. |
 | RAG-CHR-026 | RAG-E-V006-009 through RAG-E-V006-012 | Ruka's date and interrupted official-status discussion occur at the karaoke workplace while Mami rents Chizuru; Kazuya overhears the confrontation and runs after them. | Same-day overlap and event order are explicit. | Ruka does not receive the complete conversation or a completed status change. |
 | RAG-CHR-027 | RAG-E-V006-013 through RAG-E-V006-017 | Chizuru confronts Mami, Mami leaves, and Kazuya then thanks Chizuru and calls her the person he wants. | Continuous immediate sequence; V006 ends on Chizuru turning back. | Her interpretation and reply belong to V007 or later evidence. |
+| RAG-CHR-028 | RAG-E-V007-001, RAG-E-V007-002 | Chizuru immediately asks what Kazuya meant; he retreats into rental language, after which she reacts privately at home. | Direct continuation of the V006 endpoint. | Public clarification precedes the private affective reaction. |
+| RAG-CHR-029 | RAG-E-V007-003 through RAG-E-V007-006 | Kazuya attends Chizuru's play; casting loss is followed by his support offer, future bookings, and her renewed script work. | Ordered sequence; exact performance date unknown. | The loss precedes the decision to continue rental work. |
+| RAG-CHR-030 | RAG-E-V007-008 through RAG-E-V007-010 | During spring break, Kazuo confronts Kazuya about the earlier money exchange; Kazuya later explains the privacy choice to Chizuru. | Seasonal placement explicit; exact date unknown. | The father's inference follows the observed exchange and precedes the second-year sequence. |
+| RAG-CHR-031 | RAG-E-V007-011 through RAG-E-V007-017 | At the start of the second university year, booking discussion leads to an unbooked batting outing, Sayuri's hospital visit, Kazuya's declaration, and Chizuru's lost-key arrival. | Academic-year anchor and immediate ordering explicit. | V007 ends before the key problem is resolved. |

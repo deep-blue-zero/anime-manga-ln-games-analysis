@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V006."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V007."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -33,13 +33,14 @@ model_basis:
     - RAG-JP-EPUB-V004
     - RAG-JP-EPUB-V005
     - RAG-JP-EPUB-V006
-  admitted_through_volume: V006
-  narrative_time_boundary: "after Kazuya tells Chizuru that she is the person he wants and before her response"
+    - RAG-JP-EPUB-V007
+  admitted_through_volume: V007
+  narrative_time_boundary: "after Chizuru arrives at Kazuya's apartment because she lost her key and before the practical resolution"
   basis_checkpoint: null
   basis_commit: 22b9fda6379812118b3cc2a676756232effd5c1d
   model_revision: "1.5"
   prior_knowledge_limitations:
-    - "No post-V006 narrative evidence is admitted."
+    - "No post-V007 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru's response to Kazuya's direct preference statement is not shown."
 coverage:
@@ -342,7 +343,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S008
 valid_from_source: "V006 0005"
-valid_until_source: null
+valid_until_source: "V007 0004"
 entry_conditions:
   - "Sumi's practice date continues under the referral Chizuru arranged."
 active_goals:
@@ -379,6 +380,50 @@ uncertainties:
   - "Her private interpretation and response to Kazuya's statement."
   - "Whether acting work produces actual rental retirement."
   - "Whether her defense of Kazuya is best explained by fairness, professional self-defense, personal concern, or a combination."
+~~~
+
+### CHI-S009 — defeated but recommitting actor granting selective private access
+
+~~~yaml
+state_id: CHI-S009
+valid_from_source: "V007 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru asks Kazuya to clarify his direct V006 statement."
+active_goals:
+  - preserve a legible professional relation while processing its affective disturbance
+  - continue acting after losing the next role
+  - regulate Kazuya's repeated paid support
+  - meet Sayuri's family need through controlled access
+known_propositions:
+  - "Kazuya reclassifies his statement as rental preference."
+  - "Her stage performance affected the audience, but she did not receive the next lead."
+  - "Kazuya will work and book her to support acting and protected her work secret from Kazuo."
+  - "Sayuri wants to see Kazuya during hospitalization."
+relationship_conditions:
+  - "Kazuya remains a client and neighbor but now receives unpriced ordinary and family access."
+  - "Sayuri accepts the public couple premise and privately tests Kazuya."
+  - "Sumi remains a junior provider whose V007 supplemental account shows continued effort."
+changed_from_previous:
+  - PRIVATE_AFFECT_AFTER_CLARIFICATION
+  - CASTING_LOSS_AND_RECOMMITMENT
+  - PAID_SUPPORT_REGULATION
+  - UNPRICED_ACCESS_EXPANSION
+evidence_refs:
+  - RAG-E-V007-001
+  - RAG-E-V007-002
+  - RAG-E-V007-003
+  - RAG-E-V007-004
+  - RAG-E-V007-006
+  - RAG-E-V007-010
+  - RAG-E-V007-011
+  - RAG-E-V007-012
+  - RAG-E-V007-013
+  - RAG-E-V007-017
+uncertainties:
+  - "Her romantic self-classification."
+  - "Whether acting work later succeeds or again changes rental availability."
+  - "How the lost-key request is resolved."
 ~~~
 
 ## Behavioral rules
@@ -458,18 +503,18 @@ uncertainties:
 
 ### RAG-CHI-R007 — vocational and personal exchanges remain explicitly classified
 
-- **Scope:** CHI-S006 through CHI-S008.
+- **Scope:** CHI-S006 through CHI-S009.
 - **Trigger:** Work identity, acting ambition, or personal gratitude crosses an existing provider-client relation.
 - **Likely appraisal:** the practical or personal act can be acknowledged while its obligations and audience meaning remain bounded.
 - **Likely action range:** disclose concrete career facts; give a tailored gift; question the propriety of a return gift; restate the service or another person's claim.
-- **Support:** RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018, RAG-E-V005-010, RAG-E-V005-012, RAG-E-V005-014, RAG-E-V006-006, RAG-E-V006-007, RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-013, RAG-E-V006-015.
+- **Support:** RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018, RAG-E-V005-010, RAG-E-V005-012, RAG-E-V005-014, RAG-E-V006-006, RAG-E-V006-007, RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-013, RAG-E-V006-015, RAG-E-V007-004, RAG-E-V007-006, RAG-E-V007-010, RAG-E-V007-011.
 - **Counterevidence/gap:** one vocational disclosure and one gift cycle; acting receives no V005 consequence, and private motive remains sparse.
 - **Disconfirming observation:** repeated comparable cross-boundary exchanges with no classification, limit, or practical explanation.
 - **Class/confidence:** WORKING_HYPOTHESIS; low-to-moderate within the observed gift and career context.
 
 ### RAG-CHI-R008 — trusted-client knowledge can support controlled professional coordination
 
-- **Scope:** CHI-S007 through CHI-S008.
+- **Scope:** CHI-S007 through CHI-S009.
 - **Trigger:** A provider or friend needs a client encounter whose risks can be reduced through someone Chizuru already knows.
 - **Likely appraisal:** Kazuya's known conduct and responsiveness make him usable for a bounded professional purpose.
 - **Likely action range:** arrange private discussion, explain the need, recruit his cooperation, and route the encounter through a formal booking.
@@ -478,11 +523,22 @@ uncertainties:
 - **Disconfirming observation:** repeated comparable training needs where Chizuru treats Kazuya as interchangeable or unsafe despite unchanged evidence.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and coordination-specific.
 
+### RAG-CHI-R009 — vocational defeat can coexist with renewed work and selective personal access
+
+- **Scope:** CHI-S009.
+- **Trigger:** A career setback occurs while a trusted client offers concrete support and a family need creates a reason for private contact.
+- **Likely appraisal:** failure warrants grief and renewed effort; support should remain bounded and financially fair; private access can be granted for a chosen purpose.
+- **Likely action range:** cry in private, resume script work, accept but regulate bookings, initiate ordinary activity, and recruit Kazuya for a family visit or practical need.
+- **Support:** RAG-E-V007-004, RAG-E-V007-006, RAG-E-V007-010 through RAG-E-V007-013, RAG-E-V007-017.
+- **Counterevidence/gap:** one casting loss and a short cluster of private-access choices; romantic motive and durable pattern remain unknown.
+- **Disconfirming observation:** repeated comparable setbacks producing abandonment or indiscriminate dependence without boundary regulation.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and V007-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor who must not treat proximity as access, and a co-maintainer of family and peer fictions. His conduct with Sumi validates her use of him as a known collaborator. V006 also gives her his direct statement that she is the person he wants. A reconstruction should predict direct correction, bounded exceptions, practical gratitude, controlled coordination, and adaptive audience performance while withholding her unshown answer and romantic self-classification.
+Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She tests his V006 statement, receives a professional retreat, values his career praise and privacy protection, regulates his spending, and initiates unpaid ordinary and family access. A reconstruction should predict direct correction, bounded exceptions, practical gratitude, controlled coordination, and adaptive audience performance while withholding romantic self-classification.
 
 ### Toward Nagomi
 
@@ -520,10 +576,10 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work may constrain rental availability.
 
-Require extra assumptions: private friendship routine, later acting success, Chizuru's answer to Kazuya, sustained cohabitation, sexual intimacy, or behavior after V006.
+Require extra assumptions: sustained private friendship routine, later acting success, explicit romantic self-report, sustained cohabitation, sexual intimacy, the lost-key resolution, or behavior after V007.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
 ## Validation status
 
-V006 strengthens audience-conditioned presentation, vocational classification, and coordination through known relationships. RAG-CHI-R008 gains its first observed referral outcome; RAG-CHI-R007 now covers acting-linked exit planning and a hostile booking that crosses professional and private domains. Her defense of Kazuya broadens the evidence for moral intervention, while the volume endpoint requires strict abstention on her response to his direct preference statement.
+V007 strengthens vocational persistence, professional fairness, private affect, and selective unpriced access. Casting loss produces grief and renewed work rather than a completed exit; Kazuya's paid support is accepted but regulated. Sayuri's vulnerability account remains indirect evidence. The model abstains on romantic self-classification and the unresolved lost-key continuation.

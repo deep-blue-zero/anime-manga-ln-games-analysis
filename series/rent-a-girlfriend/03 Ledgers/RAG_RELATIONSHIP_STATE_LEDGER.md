@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V006
-row_count: 35
-state: CURRENT_THROUGH_V006
+inspected_through_volume: V007
+row_count: 40
+state: CURRENT_THROUGH_V007
 ```
 ```
 
@@ -78,3 +78,8 @@ state: CURRENT_THROUGH_V006
 | RAG-REL-033 | Mami → Chizuru and Kazuya | Investigating former girlfriend using client access | Identifies Sumi, rents Chizuru, and attacks the girlfriend performance while refusing Chizuru's standing to question her. | Moves from distant observer to informed intervention inside the service system. | Motive and desired endpoint remain unresolved; Chizuru's challenge visibly affects her. | RAG-E-V006-005, RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-014 |
 | RAG-REL-034 | Kazuya → Ruka | Provisional boyfriend attempting duty-based conversion | Recognizes Ruka's value and begins making the relationship official because he believes he must stop relying on Chizuru. | Gives Ruka an incomplete signal of advancement without reciprocal love. | Proposal interrupted; provisional status and ethical obligation remain active. | RAG-E-V006-009, RAG-E-V006-010 |
 | RAG-REL-035 | Kazuya ↔ Chizuru | Client/collaborator relation under threatened retirement and direct preference | Chizuru announces a possible rental exit, defends Kazuya's feelings before Mami, and apologizes for not restoring Mami; Kazuya thanks her and names her as the person he wants. | Their relation gains explicit one-sided preference and stronger noncommercial moral recognition. | Chizuru's romantic self-report, interpretation, and mutual status remain unresolved. | RAG-E-V006-006, RAG-E-V006-013, RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017 |
+| RAG-REL-036 | Kazuya ↔ Chizuru | Clarified professional classification with private affect | Kazuya retreats to rental preference; Chizuru accepts aloud and reacts alone. | Immediate continuation of direct address. | No mutual romantic recognition. | RAG-E-V007-001, RAG-E-V007-002 |
+| RAG-REL-037 | Kazuya → Chizuru | Practical career support | He commits wages and repeated bookings after the casting loss. | Paid mechanism serves an evidenced support purpose. | Does not grant partnership or entitlement. | RAG-E-V007-003 through RAG-E-V007-006 |
+| RAG-REL-038 | Chizuru → Kazuya | Selective personal and family access | She initiates a batting outing and hospital visit outside a booking. | Trust and family need expand access. | Boyfriend premise remains false; romantic motive remains open. | RAG-E-V007-012, RAG-E-V007-013 |
+| RAG-REL-039 | Kazuya ↔ Kazuo | Family discipline under false girlfriend premise | Kazuo punishes apparent borrowing; Kazuya protects the rental secret. | Partial observation and family financial norms govern the encounter. | Truth is withheld. | RAG-E-V007-008, RAG-E-V007-009 |
+| RAG-REL-040 | Kazuya → Sayuri / Chizuru | True love declaration to family witness | Kazuya tells Sayuri he loves Chizuru. | Truthful feeling occurs inside a false couple context. | Chizuru does not hear it. | RAG-E-V007-015 |

@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V006
-row_count: 30
-state: CURRENT_THROUGH_V006
+inspected_through_volume: V007
+row_count: 36
+state: CURRENT_THROUGH_V007
 ```
 
 ## Records
@@ -72,3 +72,9 @@ state: CURRENT_THROUGH_V006
 | RAG-INF-028 | Chizuru may leave rental work because acting opportunities are becoming practical. | Chizuru tells Kazuya directly; other relevant audiences are not shown receiving the plan. | Private balcony disclosure converts a durable ambition into a possible endpoint. | Retirement, income sufficiency, and exact timing remain unsettled. | RAG-E-V006-006, RAG-E-V006-007. |
 | RAG-INF-029 | Mami knows Chizuru's rental identity and the continuing Kazuya performance; Chizuru knows Mami was Kazuya's deeply loved former girlfriend. | Mami uses paid access to accuse Chizuru; Chizuru cites Kazuya's account and challenges Mami. | Each woman enters with different privileged information and uses it selectively. | Kazuya overhears much of the exchange; Ruka detects a workplace anomaly but not its contents. | RAG-E-V006-008, RAG-E-V006-010, RAG-E-V006-011, RAG-E-V006-013. |
 | RAG-INF-030 | Kazuya now identifies Chizuru, rather than Mami or Ruka, as the person he wants. | The reader receives his internal comparison; Chizuru hears a direct but context-sensitive statement; Ruka and Mami do not. | Interior synthesis becomes shouted address at the volume boundary. | Whether Chizuru understands the statement as intended is unknown. | RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017. |
+| RAG-INF-031 | Chizuru hears Kazuya reclassify his preference as rental choice; the reader sees a later private reaction. | Both hear the clarification, while only Chizuru and the reader have access to her solitary response. | Panic-driven reclassification preserves the professional account. | Kazuya does not learn her reaction. | RAG-E-V007-001, RAG-E-V007-002. |
+| RAG-INF-032 | Chizuru performed effectively but did not receive the next lead. | Kazuya, Sumi, the audience, and Chizuru observe the performance; Chizuru receives the casting result. | Audience response and selection outcome carry different information. | Cause of casting choice remains unproved. | RAG-E-V007-003, RAG-E-V007-004. |
+| RAG-INF-033 | Kazuo believes Kazuya borrowed money from a girlfriend; Kazuya and Chizuru know the exchange belongs to the rental arrangement. | Kazuo relies on partial observation. | Kazuya withholds the occupational truth to protect Chizuru. | The false belief produces injury and family blame. | RAG-E-V007-008, RAG-E-V007-009. |
+| RAG-INF-034 | Sayuri describes Chizuru's childhood vulnerability and interprets adult strength as armor. | Kazuya receives her close-relative report; Chizuru is not shown hearing this conversation. | Family testimony supplies an explanatory model. | It is not direct present-tense interior access. | RAG-E-V007-014. |
+| RAG-INF-035 | Sayuri knows Kazuya says he loves Chizuru; Chizuru does not hear the declaration. | Direct answer to Sayuri's question. | Truthful affective disclosure occurs inside the still-false public couple premise. | No mutual recognition follows. | RAG-E-V007-015. |
+| RAG-INF-036 | Chizuru has lost her key and seeks Kazuya's help. | She directly reports the practical problem at his apartment. | Private need creates immediate access pressure. | Resolution is deferred to V008. | RAG-E-V007-017. |

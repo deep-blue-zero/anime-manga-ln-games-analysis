@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V006."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V007."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -33,13 +33,14 @@ model_basis:
     - RAG-JP-EPUB-V004
     - RAG-JP-EPUB-V005
     - RAG-JP-EPUB-V006
-  admitted_through_volume: V006
-  narrative_time_boundary: "after Kazuya tells Chizuru that she is the person he wants and before her response"
+    - RAG-JP-EPUB-V007
+  admitted_through_volume: V007
+  narrative_time_boundary: "after Chizuru arrives at Kazuya's apartment because she lost her key and before the practical resolution"
   basis_checkpoint: null
   basis_commit: 22b9fda6379812118b3cc2a676756232effd5c1d
   model_revision: "1.5"
   prior_knowledge_limitations:
-    - "No post-V006 narrative evidence is admitted."
+    - "No post-V007 narrative evidence is admitted."
     - "Chizuru's response to Kazuya's direct preference statement is not shown."
 coverage:
   observed_contexts:
@@ -348,7 +349,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S008
 valid_from_source: "V006 0005"
-valid_until_source: null
+valid_until_source: "V007 0004"
 entry_conditions:
   - "Sumi's practice date continues and requires Kazuya to replace ordinary conversation with responsive support."
 active_goals:
@@ -384,6 +385,50 @@ uncertainties:
   - "How Chizuru interprets or answers the direct preference statement."
   - "Whether Kazuya revisits or abandons the interrupted Ruka formalization."
   - "Whether acting work changes Chizuru's rental availability."
+~~~
+
+### KAZ-S009 — practical supporter under private access
+
+~~~yaml
+state_id: KAZ-S009
+valid_from_source: "V007 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru immediately asks Kazuya to classify his V006 preference statement."
+active_goals:
+  - preserve the relation after retreating into rental language
+  - support Chizuru's acting effort through labor and bookings
+  - protect her occupational privacy
+  - become a supporter without requiring boyfriend status
+known_propositions:
+  - "Chizuru lost the next acting role but continues rehearsing and accepting bookings."
+  - "Chizuru values his judgment that she has talent and worries about excessive spending."
+  - "Sayuri interprets Chizuru's strength as armor around vulnerability."
+  - "Chizuru has lost her key and seeks immediate help at his apartment."
+relationship_conditions:
+  - "Chizuru grants unpriced ordinary and family access but has not acknowledged romance."
+  - "Sayuri knows Kazuya says he loves Chizuru."
+  - "Ruka remains provisional and absent from V007."
+changed_from_previous:
+  - CLARIFICATION_RETREAT
+  - PRACTICAL_CAREER_SUPPORT
+  - PRIVACY_COST
+  - UNPRICED_ACCESS_GAIN
+  - LOVE_DISCLOSURE_TO_FAMILY_WITNESS
+evidence_refs:
+  - RAG-E-V007-001
+  - RAG-E-V007-003
+  - RAG-E-V007-005
+  - RAG-E-V007-009
+  - RAG-E-V007-012
+  - RAG-E-V007-014
+  - RAG-E-V007-015
+  - RAG-E-V007-016
+  - RAG-E-V007-017
+uncertainties:
+  - "How he handles the lost-key request and private-space pressure."
+  - "Whether support remains non-entitled over time."
+  - "Whether the interrupted Ruka formalization is revisited."
 ~~~
 
 ## Behavioral rules
@@ -491,7 +536,7 @@ uncertainties:
 
 ### Toward Chizuru
 
-Kazuya knows she is a paid provider and acting student whose new opportunity may end rental access. Her personalized Christmas gift motivates work, her Sumi referral positions him as a trusted practice client, and her defense of his past feeling sharpens his appraisal of her character. He now tells her directly that she is the person he wants. Her response is unknown, and the statement does not establish reciprocation.
+Kazuya knows she is a paid provider and actor whose setback has postponed rental retirement. Her personalized gift motivates work, her Sumi referral positions him as a trusted practice client, and her casting loss elicits wages-and-bookings support. He retreats when she tests his direct statement but later tells Sayuri that he loves her. Chizuru grants unpriced ordinary and family access and seeks help after losing her key; none of these acts establishes reciprocation.
 
 ### Toward Mami
 
@@ -527,10 +572,10 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; threatened loss of rental access through acting work.
 
-Require extra assumptions: calm long-term planning, long-term employment behavior, mature sexual negotiation, Chizuru's response to his statement, Mami's next action, interaction with strangers outside romantic service, or any post-V006 knowledge.
+Require extra assumptions: calm long-term planning, long-term employment behavior, mature sexual negotiation, Chizuru's romantic self-classification, Mami's next action, resolution of the Ruka status, the lost-key continuation, or any post-V007 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
 ## Validation status
 
-V006 strengthens adaptive practice-client conduct, responsibility-taking, and direct preference speech while preserving face protection, duty-based substitution, and crisis lying. The Sumi outcome supplies a bounded competence counterexample; the Mami confrontation converts observation into active pressure; and Kazuya's final statement removes uncertainty about whom he presently wants without resolving reciprocity or status. The model withholds mature partnership, generalized disclosure, long-term work competence, Chizuru's response, and the fate of the interrupted Ruka proposal.
+V007 strengthens practical support, privacy protection, and status-independent care while preserving face-protective retreat under direct romantic scrutiny. Kazuya can name love plainly to Sayuri, yet Chizuru still lacks that explicit statement. The model withholds mature partnership, generalized disclosure, long-term work competence, the lost-key resolution, and the fate of the interrupted Ruka proposal.

@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V006; character evidence inspected through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V007; character evidence inspected through V007; V007 supplies no direct Ruka evidence."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V006
+inspected_through_volume: V007
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -70,6 +70,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S005 — strategic rival under family and workplace expansion: stops after private refusal, contests family recognition, preserves the secret when Nagomi's attachment becomes concrete, joins Kazuya's workplace, and plants rival evidence.
 - RUK-S006 — provisional girlfriend receiving an interrupted conversion attempt at work: an ordinary date nearly produces official status from Kazuya's duty-based reasoning, but the proposal and her workplace inquiry are both interrupted before she gains either reciprocal love or full information.
 
+V007 supplies no direct Ruka appearance or conduct. RUK-S006 therefore remains the current evidenced state rather than being replaced by a manufactured no-change state.
+
 These are evidence configurations, not a diagnosis or a claim that physiology determines emotion.
 
 ## Written-speech and ordinary-conduct notes
@@ -90,7 +92,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - Her stated love is direct evidence of her represented belief, not proof of Kazuya's feeling or her later conduct.
 - The V005 continuation establishes Kazuya's retreat and no completed sexual act; it does not establish mature negotiated intimacy.
 - Kazuya's interrupted attempt to make the relationship official is not reciprocal-love evidence, and Ruka does not yet know his later direct preference for Chizuru.
-- No evidence supports performed voice, acoustic delivery, a clinical label, or behavior after V006.
+- No evidence supports performed voice, acoustic delivery, a clinical label, or Ruka's behavior after V006; V007 was inspected and contains no direct Ruka evidence.
 
 ## Update rule
 

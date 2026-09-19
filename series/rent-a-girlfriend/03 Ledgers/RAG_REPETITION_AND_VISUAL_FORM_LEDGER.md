@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V006
-row_count: 31
-state: CURRENT_THROUGH_V006
+inspected_through_volume: V007
+row_count: 37
+state: CURRENT_THROUGH_V007
 ```
 
 ## Records
@@ -73,3 +73,9 @@ state: CURRENT_THROUGH_V006
 | RAG-FRM-029 | Another planned ending enlarges the relationship problem. | Chizuru's possible rental retirement prompts Kazuya to support her aloud, suppress his preference, and attempt an official relation with Ruka. | Balcony distance, solitary collapse, and karaoke interruption convert an exit into competing obligations. | Retained change rather than reset; RAG-E-V006-006, RAG-E-V006-007, RAG-E-V006-009, RAG-E-V006-010. |
 | RAG-FRM-030 | A paid performance becomes the forum for attacking paid performance. | Mami rents Chizuru, then accuses her of using money and the girlfriend role to sustain a false bond. | Payment envelope, karaoke performance, and corridor pursuit keep commercial procedure visible during moral confrontation. | Transaction supplies access without settling who bears responsibility for the lie; RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-012. |
 | RAG-FRM-031 | Clearer confession ends on withheld reception. | Kazuya moves from unspoken balcony preference to an explicit “You're the one I want,” but the volume cuts after Chizuru turns. | Memory montage, isolated text, shouted address, and reaction close-up increase clarity while preserving response suspense. | The statement is evidence of his preference, not mutual status; RAG-E-V006-015 through RAG-E-V006-017. |
+| RAG-FRM-032 | Withheld reception resolves into clarification and retreat. | Chizuru asks directly; Kazuya restores the rental frame, followed by her private blush and insult. | Public dialogue closes one reading while a solitary reaction reopens affective ambiguity. | No mutual status change; RAG-E-V007-001, RAG-E-V007-002. |
+| RAG-FRM-033 | Stage applause is paired with casting loss. | Visible audience success precedes Chizuru's failure to receive the next lead. | Performance panels and later private tears separate artistic effect from institutional reward. | The selection cause remains unknown; RAG-E-V007-003, RAG-E-V007-004, RAG-E-V007-006. |
+| RAG-FRM-034 | Money produces another false relationship inference. | Kazuo reads a rental-linked exchange as borrowing from a private girlfriend. | A remembered visual fragment governs punishment until Kazuya chooses silence. | Material evidence acts as a misleading social sign; RAG-E-V007-008, RAG-E-V007-009. |
+| RAG-FRM-035 | Rental polish opens into an ordinary skilled body. | Chizuru moves from booking discussion to baseball practice and asks Kazuya to relax. | Batting action replaces girlfriend performance as the organizing image. | Unpriced access matters without proving romance; RAG-E-V007-011, RAG-E-V007-012. |
+| RAG-FRM-036 | Declaration is displaced to a family witness. | Sayuri describes guarded vulnerability and Kazuya tells her, rather than Chizuru, that he loves Chizuru. | Intimate testimony and direct speech occur while the person discussed is absent. | Truth increases without mutual recognition; RAG-E-V007-014, RAG-E-V007-015. |
+| RAG-FRM-037 | Emotional resolve ends in a practical access cliffhanger. | Kazuya resolves to support without status; Chizuru immediately arrives because she lost her key. | Abstract interior commitment cuts to a doorway and concrete need. | V008 must test the resolution in conduct; RAG-E-V007-016, RAG-E-V007-017. |

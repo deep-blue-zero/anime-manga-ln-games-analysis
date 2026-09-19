@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V007; inspected and closed through V007."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V006
-row_count: 30
-state: CURRENT_THROUGH_V006
+inspected_through_volume: V007
+row_count: 35
+state: CURRENT_THROUGH_V007
 ```
 
 ## Records
@@ -72,3 +72,8 @@ state: CURRENT_THROUGH_V006
 | RAG-TXN-028 | Mami and Chizuru; investigative rental booking | Mami books and pays Chizuru under the client name “MAYA.” | Chizuru performs requested karaoke conduct while both women pursue information outside an ordinary date purpose. | Payment authorizes client time, not moral control over Chizuru or disclosure of Kazuya's private life. | The transaction becomes a confrontation over the Kazuya-Chizuru performance; RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-013. |
 | RAG-TXN-029 | Ruka and Kazuya; attempted official conversion | Existing terms define a provisional relationship; Kazuya begins proposing an official one without new compensation. | Ruka offers ordinary affection; Kazuya's initiative is voluntary but driven by duty and feared loss of Chizuru. | No completed agreement or reciprocal love is established before interruption. | Leaves a relationship obligation open at the workplace; RAG-E-V006-009, RAG-E-V006-010. |
 | RAG-TXN-030 | Kazuya and Chizuru; direct preference outside a booking | No payment or scheduled service governs the post-confrontation exchange. | Chizuru has voluntarily defended his feelings; Kazuya thanks her and states that she is the person he wants. | Speech communicates his preference but creates no entitlement or mutual partnership. | Opens an interpretation and response question for V007; RAG-E-V006-013, RAG-E-V006-015 through RAG-E-V006-017. |
+| RAG-TXN-031 | Kazuya and Chizuru; repeated bookings as career support | Kazuya proposes to earn and purchase future rental time so Chizuru can continue acting. | Support purpose is voluntary; the dates remain compensated service. | Payment grants only booked access and cannot buy romantic reciprocity. | Postpones rental retirement; RAG-E-V007-005, RAG-E-V007-006, RAG-E-V007-011. |
+| RAG-TXN-032 | Kazuya, Chizuru, and Kazuo; misread money and secrecy cost | Kazuo treats an observed exchange as private borrowing. | Kazuya chooses not to disclose Chizuru's occupation. | Bodily punishment and family blame are real costs of concealment. | Protects privacy while preserving the larger false account; RAG-E-V007-008, RAG-E-V007-009. |
+| RAG-TXN-033 | Chizuru and Kazuya; batting center and hospital time | No booking or payment governs the outing or visit. | Chizuru initiates both and controls their immediate purposes. | Unpriced access does not imply unrestricted access or romance. | Expands ordinary and family intimacy; RAG-E-V007-012, RAG-E-V007-013. |
+| RAG-TXN-034 | Kazuya and Sayuri; love declaration | No exchange or promise governs Kazuya's direct answer. | He supplies true feeling without demanding status from Chizuru. | Chizuru is absent and grants no reciprocal term. | Sayuri receives true information within the false couple frame; RAG-E-V007-015, RAG-E-V007-016. |
+| RAG-TXN-035 | Chizuru and Kazuya; lost-key request | Chizuru requests practical help at his apartment after losing her key. | The request is voluntary and outside a booking. | Scope and resolution remain unshown. | Creates a V008 private-space question; RAG-E-V007-017. |
