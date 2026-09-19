@@ -30,3 +30,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0010 — 揺れるまま、でも君は前へ](PJSK_EVENT_0010_DEEP_READING.md): complete 25-story envelope, Honami operative I3 with four P04 humans and group retained; WxS Emu school I1, MMJ/VBS/N25 I0. School MEIKO's arrival and Shiho's unresolved STANDOUT offer remain manifestation/person specific.
 
 - [EVENT_0013 — 響くトワイライトパレード](PJSK_EVENT_0013_DEEP_READING.md): complete 32-story envelope; Shiho and Leo/need unresolved I2, enacted Ichika–Nene relationship I3, Honami–Emu and Tsukasa–Saki I2, MMJ/VBS I1, N25 I0. Fourteen undated area unlocks and Wonderland singer receipts remain bounded.
+
+- [EVENT_0016 — 天馬さんちのひな祭り](PJSK_EVENT_0016_DEEP_READING.md): complete 32-story envelope; Saki–Tsukasa epistemic/relationship I3 and a new dedicated Toya–Tsukasa record for an enacted I3 transition, Honami and Toya I2, VBS/N25 I1 context, MMJ I0. Fourteen undated area unlocks and Wonderland/School singer receipts remain bounded.
