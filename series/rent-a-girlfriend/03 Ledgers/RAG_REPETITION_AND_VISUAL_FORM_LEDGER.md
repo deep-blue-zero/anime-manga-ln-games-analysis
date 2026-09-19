@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V004
-row_count: 20
-state: CURRENT_THROUGH_V004
+inspected_through_volume: V005
+row_count: 26
+state: CURRENT_THROUGH_V005
 ```
 
 ## Records
@@ -62,3 +62,9 @@ state: CURRENT_THROUGH_V004
 | RAG-FRM-018 | Kazuya's imagined rival story is corrected by revealed ordinary work. | Ambiguous shopping, distance, and overheard speech become a hidden-boyfriend montage before Umi and acting school reclassify them. | Long subjective surveillance gives way to direct explanatory dialogue and apology. | Repeats narration/conduct mismatch with a privacy cost; RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013. |
 | RAG-FRM-019 | Material objects cross the service boundary in opposite directions. | Chizuru gives a personalized phone case outside work; Kazuya returns an aroma gift inside a paid booking. | Object close-ups and Kazuya's tears give the exchange weight, while later handholding restores the service frame. | Keeps reciprocity, payment, and romantic inference analytically distinct; RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-018. |
 | RAG-FRM-020 | A sexualized cliffhanger withholds the governing act. | Ruka takes Kazuya into a private karaoke room, covers his sight, and removes her coat. | Controlled reveal and page-ending body presentation invite anticipation. | The formal invitation to infer cannot substitute for consent or an event not yet shown; RAG-E-V004-019. |
+| RAG-FRM-021 | The withheld private-room act resolves into pressure and refusal. | V004 ends on Ruka's controlled body reveal; V005 supplies her argument, bodily approach, Kazuya's retreat, and her later self-inhibition. | Anticipatory erotic framing gives way to dialogue, comic withdrawal, and a solitary pulse display. | Retroactively constrains the cliffhanger without erasing coercive pressure; RAG-E-V005-001, RAG-E-V005-002. |
+| RAG-FRM-022 | Girlfriend labels collide before the family audience. | Chizuru performs the recognized role while Ruka declares the privately agreed provisional status. | Seating, feeding, direct declaration, and Nagomi's anger turn labels into public choreography. | Neither visible intimacy nor spoken status alone maps cleanly to the underlying relationships; RAG-E-V005-003, RAG-E-V005-005. |
+| RAG-FRM-023 | Intended exposure is interrupted by humanizing audience information. | Ruka approaches Nagomi to disclose but hears the daughter-like attachment before she can speak. | Suspense built around an expected revelation reverses through Nagomi's extended request and Ruka's silence. | Repetition of deferred truth with a new agent and moral cost; RAG-E-V005-006. |
+| RAG-FRM-024 | Rental performance becomes a device for explaining rental performance. | Kazuya pays Chizuru to date Kuribayashi, whose enjoyable outing prepares him to reinterpret Ruka and hear Kazuya's confession. | Profile images, handholding, attraction shots, and later fee disclosure separate felt effect from contractual fact. | A staged relation can transmit truth without ceasing to be labor; RAG-E-V005-009, RAG-E-V005-010, RAG-E-V005-011. |
+| RAG-FRM-025 | An intimate-looking object has a fabricated causal history. | Women's underwear appears near Kazuya's room, he assigns it to Chizuru, and Ruka later reveals she planted it. | Body and object close-ups, frantic concealment, and door interruptions maximize sexual inference before correction. | Repeats the gap between image and material relation; RAG-E-V005-013. |
+| RAG-FRM-026 | A new woman enters through observer and communication asymmetry. | Sumi can barely greet Kazuya while Mami sees only a visually legible boy-girl outing. | Silence, trembling, internal captions, and the final reaction shot give each observer a different story. | Opens a new misrecognition channel without establishing Mami's conclusion or Sumi's stable traits; RAG-E-V005-016, RAG-E-V005-017. |

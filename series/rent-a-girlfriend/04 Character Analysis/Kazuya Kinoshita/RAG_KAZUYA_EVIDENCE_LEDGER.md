@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; character evidence inspected through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; character evidence inspected through V005."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V004
+inspected_through_volume: V005
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -68,6 +68,12 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E028 | KAZ-S006 | RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013 | Surveillance, inference, disconfirmation, and repair | Follows Chizuru and Umi for hours, repeatedly constructs a boyfriend theory, then apologizes and revises after learning the acting context. | Attachment amplifies threat inference and boundary violation; direct evidence still produces correction. | Apology does not undo surveillance or show prospective restraint. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R005 |
 | RAG-KAZ-E029 | KAZ-S006 | RAG-E-V004-014, RAG-E-V004-015, RAG-E-V004-016 | Gift received, employment, and reciprocity | Cries over Chizuru's personalized phone case, begins karaoke work, and buys a return gift delivered through a booking. | Unpriced reciprocity motivates effort outside romantic fantasy and opens the employment domain. | Strong personal meaning is asymmetric; the delivery still uses paid access. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R007 |
 | RAG-KAZ-E030 | KAZ-S006 | RAG-E-V004-017, RAG-E-V004-018, RAG-E-V004-019 | Direct answer, service conduct, and competing demands | Tells Chizuru he does not like Ruka romantically, follows Chizuru's lead during the booked handholding, then is intercepted and led into a private room by Ruka. | Has explicit knowledge that his status and feeling diverge but lacks an observed stable way to manage the triangle. | V004 ends before his consent, refusal, or next action in the room is established. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E031 | KAZ-S007 | RAG-E-V005-001, RAG-E-V005-002 | Refusal, withdrawal, and observed inhibition; intimacy boundary | Retreats when Ruka presses sexual and relational availability and leaves for the family obligation. | Does not treat provisional status as sexual consent. | He avoids a fuller relationship resolution and Ruka's preceding pressure remains material. | RAG-KAZ-R001, RAG-KAZ-R005 |
+| RAG-KAZ-E032 | KAZ-S007 | RAG-E-V005-003, RAG-E-V005-005 | Public cover repair and interior comparison; relational ethics | Calls Ruka's true provisional claim a lying habit before Nagomi, then privately recognizes the sincerity of her attachment. | Protects the central secret through immediate face-saving speech. | Recognition does not prevent public humiliation or produce reciprocation. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E033 | KAZ-S007 | RAG-E-V005-007, RAG-E-V005-008 | Work routine, friendship observation, first wages, and planning | Becomes more accustomed to karaoke work, notices Kuribayashi's distress, and converts first pay into a repair plan. | Employment expands practical agency beyond the gift-return motive. | One successful use of wages does not establish long-term financial competence. | RAG-KAZ-R007, RAG-KAZ-R008 |
+| RAG-KAZ-E034 | KAZ-S007 | RAG-E-V005-009, RAG-E-V005-011 | Paid arrangement, direct confession, and friendship repair | Funds Chizuru's date with Kuribayashi and admits his own rental-girlfriend deception to show that his friend was not uniquely foolish. | Uses money and personal shame as reparative resources. | Disclosure remains bounded to one friend and still exposes Chizuru's work identity in a controlled context. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
+| RAG-KAZ-E035 | KAZ-S007 | RAG-E-V005-013 | Mistaken inference, concealment, and comic panic | Assumes planted underwear belongs to Chizuru, pockets it, and becomes trapped between her and Ruka. | Rapid romanticized inference again drives concealment before verification. | Ruka engineered the cue, so Kazuya did not create the initial false evidence. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R005 |
+| RAG-KAZ-E036 | KAZ-S007 | RAG-E-V005-014, RAG-E-V005-015, RAG-E-V005-016 | Private request, unresolved former attachment, and adaptive client conduct | Accepts Chizuru's request to practice-date Sumi, admits uncertainty about Mami, and begins leading when Sumi cannot communicate normally. | Responds to trust with practical cooperation rather than immediate entitlement. | The date has barely begun, and Mami's observation may alter the context. | RAG-KAZ-R002, RAG-KAZ-R008 |
 
 ## State-change summary
 
@@ -77,6 +83,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S004 — attempted closer under divided attachment and emergency:** makes a partial public correction, plans fuller disclosure and a confession to Mami, supplies care and an intended rental endpoint, then abandons the planned sequence to dive after Chizuru.
 - **KAZ-S005 — consciously attached client under renewed terms and third-party exposure:** survives reciprocal rescue, recognizes serious feeling for Chizuru, requests continued rental access, accepts a real-girlfriend exit rule, and faces Ruka's informed challenge.
 - **KAZ-S006 — provisional boyfriend under vocational, financial, and reciprocity pressure:** accepts an asymmetric trial with Ruka to protect Chizuru, violates Chizuru's privacy under rival anxiety, corrects after disconfirmation, receives and returns a personal gift, and begins paid karaoke work.
+- **KAZ-S007 — employed repair agent and recruited practice client:** refuses Ruka's immediate escalation, protects the family fiction at her expense, uses wages and self-disclosure to repair Kuribayashi, then accepts Chizuru's request to help Sumi while the Mami question remains unresolved.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -86,18 +93,19 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Stammers, delays, or blurts under sudden social scrutiny; his most consequential false claims arrive before deliberation (RAG-E-V001-003, RAG-E-V001-011).
 - Can become unusually direct when another person's dignity is at stake (RAG-E-V001-011).
 - Uses extreme self-description after conflict, often treating it as a complete causal account (RAG-E-V001-014).
-- Ordinary repertoire remains sparse: V001-V004 show student, travel, apartment, family-trip, friendship crisis, and the beginning of karaoke employment, but little sustained study, work performance, hobby, or low-stakes routine.
+- Ordinary repertoire remains sparse: V001-V005 show student, travel, apartment, family-trip, friendship crisis, recurring karaoke employment, and use of first wages, but little sustained study, hobby, or low-stakes routine.
 - Under peer pressure he can refuse a desired kiss and accept public conflict rather than enact the immediate romantic opportunity (RAG-E-V002-012).
 - Under acute physical danger, inference and action become rapid and less self-narrated than his ordinary romantic deliberation (RAG-E-V002-017).
 - When pleading with Ruka, he can explain the arrangement through concrete family consequences rather than only call himself worthless, although he still violates her requested distance (RAG-E-V003-014, RAG-E-V003-015).
 - Under romantic uncertainty he can build a detailed rival story from ambiguous cues and cross privacy boundaries; once directly corrected, he apologizes and updates rather than insisting on the fantasy (RAG-E-V004-011, RAG-E-V004-013).
 - A personalized gift produces crying, practical reciprocity, and entry into paid work, extending his action beyond immediate social performance (RAG-E-V004-014, RAG-E-V004-015, RAG-E-V004-016).
+- First wages become a planned repair for Kuribayashi, and completed self-disclosure supplies counterevidence to the idea that Kazuya can only imagine honesty (RAG-E-V005-008, RAG-E-V005-011).
 
 ## Gaps and negative evidence
 
-- Paid employment begins in V004, but competence, duration, schedule, and independence from relationship pressure are insufficiently sampled.
+- Paid employment is routine enough in V005 to produce first wages and a repair plan, but long-duration competence and independence from relationship pressure remain insufficiently sampled.
 - Competence outside relationship crisis remains underobserved.
-- Four volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
+- Five volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 

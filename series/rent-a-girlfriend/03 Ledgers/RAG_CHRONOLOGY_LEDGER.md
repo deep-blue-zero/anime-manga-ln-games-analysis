@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V004
-row_count: 18
-state: CURRENT_THROUGH_V004
+inspected_through_volume: V005
+row_count: 23
+state: CURRENT_THROUGH_V005
 ```
 
 ## Records
@@ -60,3 +60,8 @@ state: CURRENT_THROUGH_V004
 | RAG-CHR-016 | RAG-E-V004-008, RAG-E-V004-009 | During the month after the trial begins, Ruka messages frequently and has weekly dates with Kazuya; by winter she visits his university and arranges a Saturday movie before Christmas. | Explicit one-month passage followed by seasonal and relative-date anchors. | Exact dates for intervening weekly meetings are not stated. |
 | RAG-CHR-017 | RAG-E-V004-010, RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-014 | On December 24, Kazuya recognizes financial pressure, follows Chizuru and Umi, learns of her acting goal, apologizes, and receives a personalized Christmas gift. | Christmas Eve is explicit; same-day sequence is continuous. | The precise elapsed hours are not needed to establish order. |
 | RAG-CHR-018 | RAG-E-V004-015, RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-019 | After Christmas, Kazuya begins karaoke work and later books Chizuru to return a gift; Ruka intercepts him after the date and takes him into a karaoke room. | Relative ordering is explicit; exact date unknown. | V004 ends before the private-room encounter resolves. |
+| RAG-CHR-019 | RAG-E-V005-001, RAG-E-V005-002, RAG-E-V005-003 | The private-room continuation ends before Kazuya's January 3 meeting; on January 3 Chizuru attends the family greeting and Ruka appears. | January 3 and the 10 a.m. meeting instruction are explicit. | Ruka's retreat precedes the family contest; no sexual act occurs in the interval. |
+| RAG-CHR-020 | RAG-E-V005-006, RAG-E-V005-007 | During the January 3 outing Ruka abandons disclosure; roughly one week into the new year Kazuya is more accustomed to work and Ruka joins the venue. | Relative one-week anchor; exact calendar date after January 3 is not stated. | The shrine decision precedes workplace entry. |
+| RAG-CHR-021 | RAG-E-V005-008, RAG-E-V005-009, RAG-E-V005-011 | Kazuya receives first wages, arranges Chizuru's Asakusa date with Kuribayashi, and discloses his own deception after the date. | Appointment occurs Sunday at 1 p.m.; absolute date unknown. | Work and first pay precede the funded booking and confession. |
+| RAG-CHR-022 | RAG-E-V005-013 | Two and a half months pass before the warmer-season underwear incident at the apartments. | Explicit elapsed-time caption; exact starting and ending dates remain uncertain. | Occurs after the Kuribayashi repair and before the balcony appointment. |
+| RAG-CHR-023 | RAG-E-V005-014, RAG-E-V005-016, RAG-E-V005-017 | Chizuru requests a 9 p.m. balcony meeting; she later schedules Sumi's practice date for 1 p.m. at Tobu-Nerima Station, where Mami observes the pair. | Explicit clock times and ordered appointments; exact date not printed in the admitted evidence. | Balcony request precedes Sumi's date; Mami's observation closes V005. |

@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V004
-row_count: 28
-state: CURRENT_THROUGH_V004
+inspected_through_volume: V005
+row_count: 34
+state: CURRENT_THROUGH_V005
 ```
 
 ## Records
@@ -70,3 +70,9 @@ state: CURRENT_THROUGH_V004
 | RAG-AGY-026 | Kazuya | Ask Chizuru directly about Umi or follow without consent. | Shadows them across several venues, constructs a boyfriend theory, and apologizes only after exposure and correction. | Gains vocational knowledge but violates Chizuru's privacy and causes confrontation. | He accepts disconfirmation and revises rather than persisting in the false claim; RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013. |
 | RAG-AGY-027 | Chizuru | Leave after confronting the surveillance or offer a personal gift. | Explains her acting goal, asks Kazuya to wait, and gives a phone case selected from their shared history. | Supplies corrective knowledge and unpriced gratitude; Kazuya begins work and reciprocates. | Gratitude and shared-secret management remain sufficient non-romantic motives; RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-015, RAG-E-V004-016. |
 | RAG-AGY-028 | Ruka | Accept the scheduled balance or challenge Kazuya after his rental date. | Intercepts him, asserts immediate priority, covers his eyes, and leads him into a private karaoke room. | Escalates the trial relationship and controls the setting at the cliffhanger. | No sexual consent or completed act is established; RAG-E-V004-019. |
+| RAG-AGY-029 | Ruka | Continue private physical pressure after Kazuya retreats or stop and reassess. | Presses sexual and relational availability, then stops when he withdraws and later tells herself not to rush. | Tests the trial boundary without completing the anticipated kiss or sexual act. | Self-inhibition does not erase the preceding pressure; RAG-E-V005-001, RAG-E-V005-002. |
+| RAG-AGY-030 | Ruka | Reveal the rental truth to Nagomi or preserve the family bond. | Prepares to disclose, then abandons the attempt after Nagomi asks to love Chizuru like a daughter. | Protects Nagomi's attachment while shifting to a longer contest for recognition. | Disclosure leverage and rivalry remain active; RAG-E-V005-006, RAG-E-V005-007. |
+| RAG-AGY-031 | Ruka | Rely on weekly dates or create additional access and rival evidence. | Joins Kazuya's workplace and later plants underwear where Chizuru can see it. | Gains routine proximity and manufactures an implication of intimacy. | The planted object proves no sexual relation; RAG-E-V005-007, RAG-E-V005-013. |
+| RAG-AGY-032 | Kazuya | Avoid Kuribayashi's hurt, explain only Ruka, or expose his own deception. | Uses first wages to fund Chizuru's date with Kuribayashi and admits his own rental-girlfriend lie. | Repairs the friendship by sharing cost, context, and personal shame. | Disclosure remains bounded to one friend; RAG-E-V005-008, RAG-E-V005-009, RAG-E-V005-011. |
+| RAG-AGY-033 | Chizuru | Treat the Kuribayashi assignment as a minimal reveal or sustain the date. | Invites him to continue after he tries to leave, leads the outing, and knowingly supports Kazuya's repair plan. | Helps the disclosure become an intelligible experience rather than another humiliation. | The outing remains compensated labor; RAG-E-V005-010, RAG-E-V005-012. |
+| RAG-AGY-034 | Chizuru | Leave Sumi's weak client communication to the platform or recruit a known practice client. | Privately asks Kazuya to book Sumi and explains the training need. | Gives Sumi a controlled practice opportunity and extends Kazuya's collaborator role. | The referral does not establish romance or Sumi's later success; RAG-E-V005-014, RAG-E-V005-016. |

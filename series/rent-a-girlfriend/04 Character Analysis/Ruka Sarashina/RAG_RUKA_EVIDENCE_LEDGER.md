@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V004; character evidence inspected through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V005; character evidence inspected through V005."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V004
+inspected_through_volume: V005
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -52,6 +52,12 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E012 | RUK-S004 | RAG-E-V004-009 | Surprise visit, reassurance, and scheduling | Appears at Kazuya's university after he fails to contact her, says she never intended disclosure, acknowledges the trial, and requests a movie date. | Combines access pressure with a direct attempt to reassure. | Reassurance limits a purely punitive model but does not erase the original bargain. | RAG-RUK-R001, RAG-RUK-R002 |
 | RAG-RUK-E013 | RUK-S004 | RAG-E-V004-017 | Rival belief received indirectly; relationship expectations | Remains convinced Chizuru is a rival strongly enough that Chizuru raises the issue with Kazuya and urges him to take Ruka seriously. | Her continuing rivalry affects the central pair even when she is absent. | Chizuru's report is not direct access to every Ruka belief. | RAG-RUK-R001, RAG-RUK-R002 |
 | RAG-RUK-E014 | RUK-S004 | RAG-E-V004-019 | Interception, asserted priority, sensory control, and cliffhanger | Confronts Kazuya after his date with Chizuru, claims his immediate time, covers his eyes, leads him into a private karaoke room, and removes her coat. | Escalates setting and presentation through direct physical initiative. | No sexual consent, completed act, or resolved goal is shown before the volume ends. | RAG-RUK-R001, RAG-RUK-R002 |
+| RAG-RUK-E015 | RUK-S005 | RAG-E-V005-001, RAG-E-V005-002 | Sexual and relational pressure, refusal received, and self-inhibition | Presents herself as physically available, asks for family recognition, presses close, then stops after Kazuya retreats and tells herself not to rush. | Direct escalation gives way to a sequence-based restraint rule. | Respecting one refusal does not erase the pressure or prove stable restraint. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R004 |
+| RAG-RUK-E016 | RUK-S005 | RAG-E-V005-003, RAG-E-V005-004, RAG-E-V005-005 | Public declaration, rival challenge, and hurt | Claims girlfriend status to Nagomi, is recast as a liar, asks Chizuru to yield if she does not love Kazuya, and protests being treated only as a friend. | Pursues recognition through direct speech even when it creates public conflict. | Her provisional status is real to the three informed participants but not to the family audience. | RAG-RUK-R001, RAG-RUK-R002 |
+| RAG-RUK-E017 | RUK-S005 | RAG-E-V005-006 | Planned disclosure, new information, and chosen silence | Prepares to expose Chizuru's work but stops after Nagomi describes wanting to love her like a daughter. | Revises immediate action when human cost becomes concrete. | She does not abandon rivalry or future leverage. | RAG-RUK-R002, RAG-RUK-R005 |
+| RAG-RUK-E018 | RUK-S005 | RAG-E-V005-007 | Long-horizon declaration and workplace entry | Says she will win Nagomi's recognition and begins work at Kazuya's karaoke venue to reduce distance. | Converts immediate exposure into recurring access and monitoring. | Job durability and ordinary work competence remain unobserved. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R005 |
+| RAG-RUK-E019 | RUK-S005 | RAG-E-V005-008, RAG-E-V005-011 | Former-client consequence received indirectly | Kuribayashi's hurt becomes visible to Kazuya and is later repaired through disclosure of the shared rental context. | Ruka is not present for the final repair, but her prior labor remains the causal object. | Her own appraisal of Kuribayashi's hurt and the repair is unavailable. | RAG-RUK-R003 |
+| RAG-RUK-E020 | RUK-S005 | RAG-E-V005-013 | Deliberate material cue and rivalry | Plants her underwear where Chizuru can see it to imply intimacy with Kazuya. | Uses fabricated evidence rather than direct disclosure to shape a rival's belief. | The tactic proves no sexual intimacy and is exposed within the scene. | RAG-RUK-R002, RAG-RUK-R005 |
 
 ## State-change summary
 
@@ -59,6 +65,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S002 — self-disclosed provider seeking Kazuya: clarifies the client relationship, tests bodily response, declares love, and uses secrecy to seek a date.
 - RUK-S003 — low-pulse self-narrator: childhood medical history and the rental-work experiment explain why a reading of ninety-one becomes proof that she is emotionally alive.
 - RUK-S004 — provisional girlfriend pressing for greater access: accepts nonreciprocal trial terms, maintains frequent contact, offers reassurance about secrecy, and escalates to a private-room encounter.
+- RUK-S005 — strategic rival under family and workplace expansion: stops after private refusal, contests family recognition, preserves the secret when Nagomi's attachment becomes concrete, joins Kazuya's workplace, and plants rival evidence.
 
 These are evidence configurations, not a diagnosis or a claim that physiology determines emotion.
 
@@ -68,6 +75,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - She combines high-energy public performance with private numeric self-monitoring.
 - She can state and enforce a bodily boundary when accidental contact occurs.
 - Her initiative is high across investigation, disclosure, bargaining, campus visits, scheduling, and physical staging.
+- She can revise an immediate plan when refusal or another person's concrete emotional cost becomes salient, while preserving the larger romantic goal.
 - She does not immediately expose the central secret and later explicitly says she never intended to do so, supplying counterevidence to a purely destructive or manipulative model.
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, and university visits are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 
@@ -75,10 +83,10 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 
 - No precise medical diagnosis is established; do not invent one from the represented low pulse and symptoms.
 - The pulse reading is Ruka's personal authenticity test, not objective evidence that a relationship is healthy or reciprocal.
-- Exact rental-platform terms, compensation, duration, and Kuribayashi's complete knowledge remain incomplete.
+- Exact rental-platform terms, compensation, and duration remain incomplete; Kuribayashi now knows the basic shared rental context.
 - Her stated love is direct evidence of her represented belief, not proof of Kazuya's feeling or her later conduct.
-- The V004 cliffhanger does not establish consent to sexual activity or any completed act.
-- No evidence supports performed voice, acoustic delivery, a clinical label, or behavior after V004.
+- The V005 continuation establishes Kazuya's retreat and no completed sexual act; it does not establish mature negotiated intimacy.
+- No evidence supports performed voice, acoustic delivery, a clinical label, or behavior after V005.
 
 ## Update rule
 

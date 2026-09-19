@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V004
-row_count: 26
-state: CURRENT_THROUGH_V004
+inspected_through_volume: V005
+row_count: 32
+state: CURRENT_THROUGH_V005
 ```
 ```
 
@@ -69,3 +69,9 @@ state: CURRENT_THROUGH_V004
 | RAG-PRG-024 | Kazuya appraisal: acknowledged attachment without tested rival uncertainty | LOSS_THEN_PARTIAL_REPAIR — he surveils Chizuru under a false boyfriend theory, then accepts correction and apologizes. | Chizuru learns of the following; Kazuya revises his own belief. | Apology does not undo the boundary violation or prove future restraint. | RAG-E-V004-011, RAG-E-V004-013 |
 | RAG-PRG-025 | Reciprocity: central exchange remains primarily paid or emergency-based | GAIN — Chizuru gives a personalized off-contract gift and Kazuya begins work and returns an unpriced object. | Both know the exchange; Kazuya attaches strong personal meaning. | His delivery occurs during paid access, and no mutual romantic acknowledgment follows. | RAG-E-V004-014, RAG-E-V004-015, RAG-E-V004-016 |
 | RAG-PRG-026 | Ordinary life: Kazuya has no paid employment in observed material | GAIN — financial pressure and reciprocal obligation lead him to a karaoke job. | Kazuya and reader know; the workplace also becomes the final setting. | Initial employment is established, while sustained competence and durability remain untested. | RAG-E-V004-010, RAG-E-V004-015, RAG-E-V004-019 |
+| RAG-PRG-027 | Consent clarity: V004 ends before the private-room act | GAIN — Kazuya retreats from Ruka's sexual and relational pressure, and she stops rather than completing the anticipated act. | Both know the refusal; Ruka later frames sequence and patience as necessary. | One respected refusal does not neutralize the trial's coercive origin or future pressure. | RAG-E-V005-001, RAG-E-V005-002 |
+| RAG-PRG-028 | Family exposure: Ruka prepares to reveal the rental truth | INTERRUPTION_AND_RECONFIGURATION — Nagomi's daughter-like attachment to Chizuru causes Ruka to preserve the secret and seek recognition instead. | Ruka gains new family-affect information; Nagomi remains uninformed. | Disclosure risk falls immediately but becomes a long contest rather than disappearing. | RAG-E-V005-006, RAG-E-V005-007 |
+| RAG-PRG-029 | Employment: Kazuya has only begun work | GAIN — the job becomes routine, supplies first wages, exposes Kuribayashi's hurt, and funds a repair booking. | Work now has financial, relational, and logistical consequence. | Long-term competence remains underobserved, while Ruka's entry adds secrecy pressure. | RAG-E-V005-007, RAG-E-V005-008, RAG-E-V005-009 |
+| RAG-PRG-030 | Honesty: Kazuya repeatedly plans but fails to disclose | BOUNDED_GAIN — he completes a direct confession to Kuribayashi about the rental-girlfriend deception. | Kuribayashi updates and accepts the apology; other audiences retain false beliefs. | The gain is durable for one friendship and cannot be generalized to family or Kibe. | RAG-E-V005-011 |
+| RAG-PRG-031 | Chizuru collaboration: provider, neighbor, and deception partner | GAIN — she knowingly supports the Kuribayashi repair and privately recruits Kazuya for Sumi's practice date. | Both gain an off-platform coordination channel tied to paid work. | No mutual romance is acknowledged, and acting ambition receives no V005 consequence. | RAG-E-V005-012, RAG-E-V005-014 |
+| RAG-PRG-032 | Mami trajectory: dormant after the missed meeting | REACTIVATION_SIGNAL — Mami sees Kazuya with Sumi and reacts in surprise. | Only observation is established at the boundary. | Her inference and action remain deferred to V006. | RAG-E-V005-017 |

@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V004
-row_count: 20
-state: CURRENT_THROUGH_V004
+inspected_through_volume: V005
+row_count: 26
+state: CURRENT_THROUGH_V005
 ```
 
 ## Records
@@ -62,3 +62,9 @@ state: CURRENT_THROUGH_V004
 | RAG-INF-018 | Ruka's represented motive joins low-pulse history, fear of emotional abnormality, rental work, and Kazuya's ninety-one reading. | The reader receives direct history; Kazuya receives her declaration and criterion but not necessarily every childhood detail. | Backstory and self-report explain why she treats him as uniquely important. | Physiological measurement supplies certainty for Ruka while remaining an insufficient general proof of compatibility. | RAG-E-V004-006, RAG-E-V004-007, RAG-E-V004-008. |
 | RAG-INF-019 | Umi is Chizuru's acting-school colleague, not her boyfriend; Chizuru is pursuing acting and uses rental work for income and practice. | Chizuru directly explains this after discovering Kazuya's surveillance. | Confrontation corrects his accumulated false inferences and reveals a previously private vocational domain. | Kazuya gains knowledge; Chizuru's other campus peers and family knowledge are not established here. | RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013. |
 | RAG-INF-020 | The Christmas gift is a personalized thank-you outside a booking, while the return gift is delivered during paid time. | Kazuya and Chizuru know the objects, circumstances, and stated gratitude; outsiders do not receive their shared context. | Chizuru cites the Shimoda phone damage and their secret; Kazuya later books her to reciprocate. | Service language continues to manage interpretation without erasing the material distinction between object exchange and paid time. | RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-018. |
+| RAG-INF-021 | Ruka is Kazuya's provisional girlfriend, but his family recognizes only Chizuru. | Kazuya, Ruka, and Chizuru know the trial status; Nagomi receives Ruka's claim as a supposed lie after Kazuya's cover repair. | Direct declaration followed by false recategorization as a lying habit. | Protecting the central secret publicly humiliates Ruka and increases the contest for family recognition. | RAG-E-V005-003, RAG-E-V005-004. |
+| RAG-INF-022 | Nagomi wants a daughter-like bond with Chizuru and does not know the rental truth. | Ruka receives this direct statement while preparing to disclose; Chizuru and Kazuya arrive after the critical request. | Nagomi's uninformed affection becomes new information that changes Ruka's action. | The family belief becomes harder to destroy even for the rival who holds the secret. | RAG-E-V005-006. |
+| RAG-INF-023 | Kuribayashi's relationship with Ruka was a rental encounter, and Kazuya's relationship with Chizuru began the same way. | Kuribayashi learns Chizuru's professional identity during the date and Kazuya's deception through direct confession. | Paid encounter plus bounded self-disclosure corrects his belief that he was uniquely deceived. | Kibe, Nagomi, and the broader group still lack the truth. | RAG-E-V005-009, RAG-E-V005-011. |
+| RAG-INF-024 | Chizuru knows the Asakusa booking is part of Kazuya's attempt to encourage Kuribayashi. | She recognizes Kuribayashi and later tells Kazuya she understood the plan. | Knowledge is withheld during the performance and acknowledged afterward. | Her informed cooperation exceeds a blind assignment without removing compensation. | RAG-E-V005-010, RAG-E-V005-012. |
+| RAG-INF-025 | The underwear implies Kazuya-Ruka intimacy only because Ruka planted it for Chizuru to see. | Ruka knows the tactic; Kazuya first misattributes the object to Chizuru; Chizuru encounters the confused concealment. | Fabricated material cue and mistaken possession create false inference. | Appearance is disconnected from sexual history and instead records rival signaling. | RAG-E-V005-013. |
+| RAG-INF-026 | Sumi is a new rental girlfriend with severe communication difficulty, referred privately by Chizuru for practice. | Chizuru tells Kazuya the training purpose; Kazuya recognizes the difficulty on meeting Sumi; Mami only sees them together. | Off-platform request produces a platform booking with unequal audience knowledge. | Mami's interpretation and Sumi's wider history remain unknown. | RAG-E-V005-014, RAG-E-V005-016, RAG-E-V005-017. |

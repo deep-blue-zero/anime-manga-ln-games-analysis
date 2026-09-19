@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; character evidence inspected through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; character evidence inspected through V005."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V004
+inspected_through_volume: V005
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -65,6 +65,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E023 | CHI-S006 | RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013 | Confrontation and vocational disclosure | Confronts Kazuya after discovering his surveillance and explains that Umi is an acting-school colleague, that she wants to become an actress, and that rental work funds and trains her. | Corrects the false boyfriend inference through concrete identity, money, and career facts. | Direct goal evidence does not provide a broad interior monologue or future outcome. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R007 |
 | RAG-CHI-E024 | CHI-S006 | RAG-E-V004-014 | Off-contract gift and gratitude | Asks Kazuya to wait and gives him a fish-patterned phone case selected from the Shimoda damage, citing their secret and his help. | Initiates a personalized unpriced exchange after confrontation and correction. | Gratitude, reciprocity, guilt, care, and possible personal investment remain incompletely ranked. | RAG-CHI-R004, RAG-CHI-R007 |
 | RAG-CHI-E025 | CHI-S006 | RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018 | Gift boundary, direct inquiry, advice, and service conduct | Receives Kazuya's return gift during a booking, asks whether he likes Ruka, urges serious restrained treatment, calls herself only a rental girlfriend, and leads the paid handholding. | Separates the ethical duty toward Ruka and the personal gift exchange from the service frame. | The role assertion does not uniquely establish either jealousy or emotional absence. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007 |
+| RAG-CHI-E026 | CHI-S007 | RAG-E-V005-003, RAG-E-V005-004 | Family performance and rival dialogue | Maintains the recognized girlfriend role at New Year and privately hears Ruka's ethical challenge and direct question about love. | Manages the family setting while refusing a direct romantic self-report. | Silence and visible hesitation do not identify a unique feeling. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R006 |
+| RAG-CHI-E027 | CHI-S007 | RAG-E-V005-006 | Family attachment received indirectly; disclosure risk | Arrives after Nagomi's daughter-like request has already caused Ruka to preserve the secret. | Benefits from a family bond she did not solicit in the scene. | The evidence primarily records Nagomi and Ruka; Chizuru's exact awareness of the statement is unclear. | RAG-CHI-R002, RAG-CHI-R006 |
+| RAG-CHI-E028 | CHI-S007 | RAG-E-V005-009, RAG-E-V005-010, RAG-E-V005-012 | Paid performance, informed cooperation, and post-date disclosure | Meets Kuribayashi as a rental girlfriend, continues when he tries to leave, and later confirms she understood Kazuya's encouragement plan. | Uses professional skill inside a purpose she knowingly supports. | Compensation and care coexist; neither uniquely establishes private romance. | RAG-CHI-R001, RAG-CHI-R004, RAG-CHI-R005 |
+| RAG-CHI-E029 | CHI-S007 | RAG-E-V005-013 | Neighbor collision and rival signaling | Encounters Kazuya concealing underwear that Ruka planted to imply intimacy. | Requests an explanation rather than receiving reliable evidence from the object. | The sexualized cue is fabricated and supplies no valid relationship inference. | RAG-CHI-R003, RAG-CHI-R006 |
+| RAG-CHI-E030 | CHI-S007 | RAG-E-V005-014, RAG-E-V005-015 | Private referral, advice, and off-platform coordination | Leaves a balcony appointment, asks Kazuya to rent Sumi for practice, and questions his unresolved response to Mami. | Treats him as a known, usable collaborator and presses for emotional clarification without disclosing her own state. | Trust, professional coordination, risk management, and personal interest remain incompletely ranked. | RAG-CHI-R004, RAG-CHI-R008 |
 
 ## State-change summary
 
@@ -74,8 +79,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S004 — identity-collision participant under announced closure:** the Izu overlap joins campus, rental, friend, and former-partner audiences; she enforces payment, accepts a friend-mediated final ride, reiterates the job frame, and ends V002 unconscious after falling overboard.
 - **CHI-S005 — reciprocal rescuer under renewed terms and provider exposure:** she survives, revives Kazuya, learns his rescue action, navigates a family-engineered trip, grants bounded continuation, and is identified by another rental provider.
 - **CHI-S006 — acting student under personal reciprocity and a provisional triangle:** she operationalizes the real-girlfriend exit rule, reveals acting as her career goal and rental work as funding and practice, gives Kazuya a personalized off-contract gift, and demands responsible treatment of Ruka.
+- **CHI-S007 — informed professional coordinator inside an enlarged relationship network:** she contests Ruka at New Year, knowingly supports the Kuribayashi repair, and privately recruits Kazuya as Sumi's practice client while the acting goal receives no new practical evidence.
 
-The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V004 do not establish a disposition change or romantic self-recognition.
+The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V005 do not establish a disposition change or romantic self-recognition.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -87,10 +93,11 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - Positive appraisal is often followed by a role qualifier or endpoint rather than left open to personal interpretation (RAG-E-V002-006, RAG-E-V002-013, RAG-E-V002-015).
 - V003 extends that pattern to rescue, shared lodging, continued access, and a staged kiss: she pairs each with girlfriend, customer, touch, duration, or exit language (RAG-E-V003-003, RAG-E-V003-008, RAG-E-V003-009, RAG-E-V003-010, RAG-E-V003-013).
 - V004 supplies direct vocational language and an unpriced personal gift, then pairs the return exchange and handholding with provider-client and Ruka-responsibility language (RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-016, RAG-E-V004-017, RAG-E-V004-018).
+- V005 shows her sustaining paid work for a known reparative purpose and privately coordinating a novice provider's practice with a trusted client (RAG-E-V005-010, RAG-E-V005-012, RAG-E-V005-014).
 
 ## Gaps and negative evidence
 
-- V004 establishes acting as a named goal and rental work as income and practice, but still gives no sustained first-person self-model or broad account of why this career matters to her.
+- V004 establishes acting as a named goal and rental work as income and practice, but V005 gives the goal no practical consequence and still supplies no sustained first-person account of why the career matters to her.
 - She knows the rescue occurred, but gives no direct private evaluation of Kazuya's motive or her own feeling.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.

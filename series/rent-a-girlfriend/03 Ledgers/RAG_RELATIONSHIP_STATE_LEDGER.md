@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V004; inspected and closed through V004."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V004
-row_count: 24
-state: CURRENT_THROUGH_V004
+inspected_through_volume: V005
+row_count: 31
+state: CURRENT_THROUGH_V005
 ```
 ```
 
@@ -67,3 +67,10 @@ state: CURRENT_THROUGH_V004
 | RAG-REL-022 | Kazuya → Chizuru | Consciously attached client under a real-girlfriend exit rule | Follows her under a false rival theory, apologizes after correction, admires her acting goal, receives her Christmas gift, and returns a gift through a booking. | Gains vocational knowledge and an unpriced personalized object while paid access remains the delivery channel for his response. | Attachment is explicit only on his side; surveillance and correction coexist. | RAG-E-V004-011, RAG-E-V004-012, RAG-E-V004-013, RAG-E-V004-014, RAG-E-V004-016 |
 | RAG-REL-023 | Chizuru → Kazuya | Provider and deception partner who has encouraged the Ruka trial | Reveals her acting goal, gives an off-contract personalized gift, asks about his feeling for Ruka, and urges responsible, restrained dating. | Adds reciprocal personal exchange and ethical direction without removing service boundaries. | Provider, neighbor, and personal beneficiary of secrecy; private romantic state unresolved. | RAG-E-V004-012, RAG-E-V004-014, RAG-E-V004-017, RAG-E-V004-018 |
 | RAG-REL-024 | Ruka → Kuribayashi | Publicly affectionate apparent girlfriend | Explains that he hired her through a rental service and that their visible affection belonged to that arrangement. | Reclassifies the V003 couple display as provider-client performance. | Former or bounded client relation; exact terms and his full knowledge remain underobserved. | RAG-E-V004-001, RAG-E-V004-007 |
+| RAG-REL-025 | Ruka → Kazuya | Provisional girlfriend escalating in a private karaoke room | Presses sexual availability and asks for family introduction, then stops after he retreats and adopts a do-not-rush rule. | Clarifies that she seeks stronger status and bodily closeness but can respond to immediate refusal. | Provisional girlfriend pursuing recognition; no sexual transition or reciprocal love. | RAG-E-V005-001, RAG-E-V005-002 |
+| RAG-REL-026 | Ruka → Chizuru and Nagomi | Rival with disclosure leverage but no family recognition | Challenges Chizuru to yield, claims girlfriend status to Nagomi, then preserves the secret after hearing Nagomi's daughter-like wish. | Moves from immediate exposure toward a long family contest and workplace access. | Active rival who protects one family bond while trying to replace Chizuru's public role. | RAG-E-V005-003, RAG-E-V005-004, RAG-E-V005-006, RAG-E-V005-007, RAG-E-V005-013 |
+| RAG-REL-027 | Kazuya → Ruka | Nonreciprocating provisional boyfriend under private pressure | Retreats from escalation, publicly recasts her claim as lying, and recognizes her sincere attachment. | Enforces one immediate bodily limit while continuing status denial before family. | Owes responsible treatment but remains attached to Chizuru and unable to give Ruka public recognition. | RAG-E-V005-001, RAG-E-V005-003, RAG-E-V005-005 |
+| RAG-REL-028 | Kazuya → Kuribayashi | Friend carrying guilt about Ruka's rental performance | Funds a date with Chizuru and discloses his own rental-girlfriend deception. | Converts hidden shared vulnerability into explicit friendship repair. | Kuribayashi knows the basic truth and accepts the apology; wider audiences remain deceived. | RAG-E-V005-008, RAG-E-V005-009, RAG-E-V005-011 |
+| RAG-REL-029 | Chizuru → Kuribayashi | Paid provider assigned to a distressed friend of Kazuya | Continues the date after he tries to leave and performs a complete outing while understanding Kazuya's purpose. | Professional agency supports a reparative goal without creating private romance. | Completed provider-client encounter; Kuribayashi leaves with revised context. | RAG-E-V005-009, RAG-E-V005-010, RAG-E-V005-012 |
+| RAG-REL-030 | Chizuru → Kazuya | Provider, neighbor, and personal collaborator | Privately asks him to practice-date Sumi and reopens his unresolved Mami attachment. | Adds trust, coordination, and advice outside their own booked date. | Known client and collaborator; private romantic state remains unresolved. | RAG-E-V005-014, RAG-E-V005-015 |
+| RAG-REL-031 | Kazuya → Sumi | Known client recruited for provider training | Accepts Chizuru's request, meets Sumi, and begins leading when her communication stalls. | His client role becomes a practice and support function rather than passive evaluation. | Practice date just begun; no private romance or outcome established. | RAG-E-V005-014, RAG-E-V005-016 |
