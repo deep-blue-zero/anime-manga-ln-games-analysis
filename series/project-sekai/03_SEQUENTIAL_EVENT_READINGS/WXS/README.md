@@ -34,3 +34,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0024 — 純白の貴方へ、誓いの歌を！](PJSK_EVENT_0024_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-RUI-E0024` and `REL-CROSS-TOYA-RUI-E0024` record distinct outsider-cooperation and relationship I3 changes, `VBS-REL-TOYA-FATHER-2` records de-escalation without reconciliation, and `REL-CROSS-AKITO-RUI-E0024` records bounded I2 respect/access. Existing humans/groups remain.
 
 - [EVENT_0025 — ワンダーマジカルショウタイム！](PJSK_EVENT_0025_DEEP_READING.md): complete 30-story envelope; `WXS-EP-PARK-E0015-OPEN → WXS-EP-PARK-E0025` records one provisional institutional I3, while founded humans, group, park-support, cross-unit and Wonderland routes receive bounded I1/I2.
+
+- [EVENT_0095 — カナリアは窮境に歌う](PJSK_EVENT_0095_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-NENE-E0095` records integrated musical acting and experience seeking, new `WXS-REL-NENE-YUKA-E0095` is bounded high I2, and the WxS group, Rui, Sakurako and Wonderland relations receive strong-I2 reuse while unsafe overwork and unresolved troupe direction remain explicit.
