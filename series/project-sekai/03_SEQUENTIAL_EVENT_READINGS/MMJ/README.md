@@ -36,3 +36,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0022 — お悩み聞かせて！わくわくピクニック](../N25/PJSK_EVENT_0022_DEEP_READING.md): complete 26-story mixed N25/MMJ envelope; new `REL-CROSS-ENA-AIRI-E0022` records durable cross-unit friendship at I3. `REL-N25-EMZ-1`, Rui–Mizuki, family, MMJ-group and Stage routes receive bounded I1/I2 evidence while disclosure remains unresolved.
 
 - [EVENT_0023 — 頑張るあなたにBreak Time！](PJSK_EVENT_0023_DEEP_READING.md): complete 29-story envelope; new `MMJ-EP-HR-E0023` records Haruka's enacted self-directed-rest distinction at I3 while existing humans/group remain. New `MMJ-VS-STAGE-MEIKO-E0023` is manifestation-local; dyad, class and An routes stay bounded.
+
+- [EVENT_0092 — Re-tie Friendship](PJSK_EVENT_0092_DEEP_READING.md): complete 26-story envelope; new `MMJ-EP-AI-E0092` records Airi's bounded communication method, new `MMJ-REL-AIRI-AYUMI-E0092` records restored reciprocal access, and new `MMJ-VS-STAGE-KAITO-E0092` records a Stage-local I2 role, while `MMJ-REL-GROUP-06` remains strong I2 and all cross-unit/manifestation routes stay recipient-bounded.
