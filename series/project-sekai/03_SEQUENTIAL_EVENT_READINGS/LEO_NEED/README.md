@@ -40,3 +40,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0027 — Unnamed Harmony](PJSK_EVENT_0027_DEEP_READING.md): complete 27-story envelope; new `LN-EP-SAKI-E0027` records a demonstrated recipient-and-feeling composition method at I3, new local `LN-VS-SCHOOL-RIN-E0027` records Rin's School-local profile at I2, and founded LN group/care/sibling routes receive bounded I1/I2.
 
 - [EVENT_0091 — Get over it.](PJSK_EVENT_0091_DEEP_READING.md): complete 25-story envelope; new `LN-EP-SAKI-E0091` records Saki's two-aim professional decision rule and new `LN-REL-SOLIS-E0091` records prospective Solis affiliation under review, while `LN-REL-G-E0020` remains the strong-I2 group owner and MMJ/VBS/School routes stay recipient- and manifestation-bounded.
+
+- [EVENT_0096 — 隣に立つ、優しいあなたへ](PJSK_EVENT_0096_DEEP_READING.md): complete 24-story envelope; relationship-centered I2 with no new I3, very strong-I2 Kanade–Honami, strong-I2 Honami operative, bounded Honami–Mizuki I2, and proportionate Kanade, Honami–Emu, School, and WxS reuse while crisis and care limits remain explicit.
