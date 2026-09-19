@@ -34,3 +34,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0017 — 届け！HOPEFUL STAGE♪](PJSK_EVENT_0017_DEEP_READING.md): complete 25-story envelope; `MMJ-EP-MN-E0017` operative I3 for an enacted recipient-specific hope model, MMJ group and established mentorship dyads I2, Leo/need ordinary I1, VBS/WxS/N25 I0. Seven undated area unlocks and Stage singer receipts remain bounded.
 
 - [EVENT_0022 — お悩み聞かせて！わくわくピクニック](../N25/PJSK_EVENT_0022_DEEP_READING.md): complete 26-story mixed N25/MMJ envelope; new `REL-CROSS-ENA-AIRI-E0022` records durable cross-unit friendship at I3. `REL-N25-EMZ-1`, Rui–Mizuki, family, MMJ-group and Stage routes receive bounded I1/I2 evidence while disclosure remains unresolved.
+
+- [EVENT_0023 — 頑張るあなたにBreak Time！](PJSK_EVENT_0023_DEEP_READING.md): complete 29-story envelope; new `MMJ-EP-HR-E0023` records Haruka's enacted self-directed-rest distinction at I3 while existing humans/group remain. New `MMJ-VS-STAGE-MEIKO-E0023` is manifestation-local; dyad, class and An routes stay bounded.
