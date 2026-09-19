@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V005
-row_count: 26
-state: CURRENT_THROUGH_V005
+inspected_through_volume: V006
+row_count: 30
+state: CURRENT_THROUGH_V006
 ```
 
 ## Records
@@ -68,3 +68,7 @@ state: CURRENT_THROUGH_V005
 | RAG-INF-024 | Chizuru knows the Asakusa booking is part of Kazuya's attempt to encourage Kuribayashi. | She recognizes Kuribayashi and later tells Kazuya she understood the plan. | Knowledge is withheld during the performance and acknowledged afterward. | Her informed cooperation exceeds a blind assignment without removing compensation. | RAG-E-V005-010, RAG-E-V005-012. |
 | RAG-INF-025 | The underwear implies Kazuya-Ruka intimacy only because Ruka planted it for Chizuru to see. | Ruka knows the tactic; Kazuya first misattributes the object to Chizuru; Chizuru encounters the confused concealment. | Fabricated material cue and mistaken possession create false inference. | Appearance is disconnected from sexual history and instead records rival signaling. | RAG-E-V005-013. |
 | RAG-INF-026 | Sumi is a new rental girlfriend with severe communication difficulty, referred privately by Chizuru for practice. | Chizuru tells Kazuya the training purpose; Kazuya recognizes the difficulty on meeting Sumi; Mami only sees them together. | Off-platform request produces a platform booking with unequal audience knowledge. | Mami's interpretation and Sumi's wider history remain unknown. | RAG-E-V005-014, RAG-E-V005-016, RAG-E-V005-017. |
+| RAG-INF-027 | Sumi is a rental girlfriend, and her outing with Kazuya was a practice booking. | Kazuya, Chizuru, and Sumi know the training purpose; Mami identifies Sumi's professional profile after observing the pair. | A visually ordinary date becomes legible to Mami through platform research. | Mami gains the occupational link but not the full private referral context. | RAG-E-V006-001, RAG-E-V006-004, RAG-E-V006-005. |
+| RAG-INF-028 | Chizuru may leave rental work because acting opportunities are becoming practical. | Chizuru tells Kazuya directly; other relevant audiences are not shown receiving the plan. | Private balcony disclosure converts a durable ambition into a possible endpoint. | Retirement, income sufficiency, and exact timing remain unsettled. | RAG-E-V006-006, RAG-E-V006-007. |
+| RAG-INF-029 | Mami knows Chizuru's rental identity and the continuing Kazuya performance; Chizuru knows Mami was Kazuya's deeply loved former girlfriend. | Mami uses paid access to accuse Chizuru; Chizuru cites Kazuya's account and challenges Mami. | Each woman enters with different privileged information and uses it selectively. | Kazuya overhears much of the exchange; Ruka detects a workplace anomaly but not its contents. | RAG-E-V006-008, RAG-E-V006-010, RAG-E-V006-011, RAG-E-V006-013. |
+| RAG-INF-030 | Kazuya now identifies Chizuru, rather than Mami or Ruka, as the person he wants. | The reader receives his internal comparison; Chizuru hears a direct but context-sensitive statement; Ruka and Mami do not. | Interior synthesis becomes shouted address at the volume boundary. | Whether Chizuru understands the statement as intended is unknown. | RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017. |

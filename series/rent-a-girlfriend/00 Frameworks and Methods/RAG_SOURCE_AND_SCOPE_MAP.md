@@ -4,7 +4,7 @@ artifact_id: RAG_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory_and_scope_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -31,7 +31,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 | V003 | RAG-JP-EPUB-V003 | 70179579 | `d6ea6638781d9546000f3960eecfc10f914ff24371c9c5dd7887093548e700b2` | 彼女、お借りします（３） | `ja` | 195 | 195 | INSPECTED__CLOSED |
 | V004 | RAG-JP-EPUB-V004 | 102097755 | `7d48b6b9a727e5f6bef74568d915485c639d731c55087db4e0695abe0cec6fe2` | 彼女、お借りします（４） | `en` | 195 | 196 | INSPECTED__CLOSED |
 | V005 | RAG-JP-EPUB-V005 | 105411467 | `4314fc1e54b685676b406325acf4193b1f86fcdbbfe5c58eef3835d80aab20b1` | 彼女、お借りします（５） | `ja` | 195 | 196 | INSPECTED__CLOSED |
-| V006 | RAG-JP-EPUB-V006 | 108830004 | `7c55b735a9bebbd868ed217e151de96ed662583b9c763cc9a5f04b40a692bfda` | 彼女、お借りします（６） | `ja` | 195 | 196 | INVENTORIED__ACTIVE_RUN_PENDING |
+| V006 | RAG-JP-EPUB-V006 | 108830004 | `7c55b735a9bebbd868ed217e151de96ed662583b9c763cc9a5f04b40a692bfda` | 彼女、お借りします（６） | `ja` | 195 | 196 | INSPECTED__CLOSED |
 | V007 | RAG-JP-EPUB-V007 | 104897407 | `99bf23e1f4fde524d01234eb5a6e46b280a6ec445a2029d0397c87529426e0b4` | 彼女、お借りします（７） | `ja` | 196 | 197 | INVENTORIED__ACTIVE_RUN_PENDING |
 | V008 | RAG-JP-EPUB-V008 | 99518605 | `96284cab8650e9f3f4e5b35b5ddc10bf9cad0a3a509936c3d83bfc1965bc3c9c` | 彼女、お借りします（８） | `ja` | 195 | 196 | INVENTORIED__ACTIVE_RUN_PENDING |
 | V009 | RAG-JP-EPUB-V009 | 94897168 | `088faf7192e93bc6219d65016f6a0ee02cd93bf54a219a9cba78b5ae7de36a2c` | 彼女、お借りします（９） | `ja` | 195 | 196 | INVENTORIED__ACTIVE_RUN_PENDING |
@@ -85,6 +85,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - Full original-resolution inspection of V003 covered the cover, blank image `0000.jpg`, narrative and chapter matter `0001.jpg`-`0190.jpg`, post-chapter promotional client message `0191.jpg`, disclaimer `0192.jpg`, and colophon `0193.jpg`. Nine chapter labels were verified from Satisfaction 15 through Satisfaction 23. The 195-entry spine is continuous and all entries resolve.
 - Full original-resolution inspection of V004 covered the spine cover `0001.jpg`, blank `0002.jpg`, recap `0003.jpg`, contents `0004.jpg`, narrative and chapter matter `0005.jpg`-`0192.jpg`, post-chapter client note `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 24 through Satisfaction 32. Visible text is Japanese despite the erroneous `en` OPF value. The 195-entry spine is continuous; the 196th image item is a manifest-only duplicate cover at `OPS/OPS/cover.jpg`, not missing narrative matter.
 - Full original-resolution inspection of V005 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 33 through Satisfaction 41. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image item is a manifest-only alternate layout of the same cover artwork with an added magazine spine and changed crop, not missing narrative matter.
+- Full original-resolution inspection of V006 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0174.jpg`, blank divider `0175.jpg`, labeled *Rent-a-Girlfriend × Senryu Girl* crossover `0176.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Eight chapter labels were verified from Satisfaction 42 through Satisfaction 49. The crossover is recorded but excluded from main-continuity claim updates. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image item is a manifest-only alternate layout of the Sumi-on-skates cover artwork with an added magazine spine and changed crop, not missing narrative matter.
 - Image-item counts may exceed spine counts by one where an image is present in the package manifest but not directly represented as a spine page. This is not yet classified as a missing or extra narrative page.
 
 ## Admission rules
@@ -95,7 +96,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-V001-V005 are inspected and closed. V006 is the next eligible unit in the continuous V001-V010 run; V007-V010 remain authorized candidates that cannot be opened out of order. V011-V047 remain filename- and metadata-visible only. Their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001-V006 are inspected and closed. V007 is the next eligible unit in the continuous V001-V010 run; V008-V010 remain authorized candidates that cannot be opened out of order. V011-V047 remain filename- and metadata-visible only. Their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 

@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V005
-row_count: 31
-state: CURRENT_THROUGH_V005
+inspected_through_volume: V006
+row_count: 35
+state: CURRENT_THROUGH_V006
 ```
 ```
 
@@ -74,3 +74,7 @@ state: CURRENT_THROUGH_V005
 | RAG-REL-029 | Chizuru → Kuribayashi | Paid provider assigned to a distressed friend of Kazuya | Continues the date after he tries to leave and performs a complete outing while understanding Kazuya's purpose. | Professional agency supports a reparative goal without creating private romance. | Completed provider-client encounter; Kuribayashi leaves with revised context. | RAG-E-V005-009, RAG-E-V005-010, RAG-E-V005-012 |
 | RAG-REL-030 | Chizuru → Kazuya | Provider, neighbor, and personal collaborator | Privately asks him to practice-date Sumi and reopens his unresolved Mami attachment. | Adds trust, coordination, and advice outside their own booked date. | Known client and collaborator; private romantic state remains unresolved. | RAG-E-V005-014, RAG-E-V005-015 |
 | RAG-REL-031 | Kazuya → Sumi | Known client recruited for provider training | Accepts Chizuru's request, meets Sumi, and begins leading when her communication stalls. | His client role becomes a practice and support function rather than passive evaluation. | Practice date just begun; no private romance or outcome established. | RAG-E-V005-014, RAG-E-V005-016 |
+| RAG-REL-032 | Kazuya → Sumi | Practice client and situational protector | Adapts activities, avoids exploiting accidental exposure, extracts her from unwanted attention, and receives a smile and spoken farewell. | Helps complete a bounded training success without claiming private status. | Practice encounter closed positively; no romantic transition or stable competence established. | RAG-E-V006-001, RAG-E-V006-002, RAG-E-V006-003 |
+| RAG-REL-033 | Mami → Chizuru and Kazuya | Investigating former girlfriend using client access | Identifies Sumi, rents Chizuru, and attacks the girlfriend performance while refusing Chizuru's standing to question her. | Moves from distant observer to informed intervention inside the service system. | Motive and desired endpoint remain unresolved; Chizuru's challenge visibly affects her. | RAG-E-V006-005, RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-014 |
+| RAG-REL-034 | Kazuya → Ruka | Provisional boyfriend attempting duty-based conversion | Recognizes Ruka's value and begins making the relationship official because he believes he must stop relying on Chizuru. | Gives Ruka an incomplete signal of advancement without reciprocal love. | Proposal interrupted; provisional status and ethical obligation remain active. | RAG-E-V006-009, RAG-E-V006-010 |
+| RAG-REL-035 | Kazuya ↔ Chizuru | Client/collaborator relation under threatened retirement and direct preference | Chizuru announces a possible rental exit, defends Kazuya's feelings before Mami, and apologizes for not restoring Mami; Kazuya thanks her and names her as the person he wants. | Their relation gains explicit one-sided preference and stronger noncommercial moral recognition. | Chizuru's romantic self-report, interpretation, and mutual status remain unresolved. | RAG-E-V006-006, RAG-E-V006-013, RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017 |

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V005
-row_count: 26
-state: CURRENT_THROUGH_V005
+inspected_through_volume: V006
+row_count: 31
+state: CURRENT_THROUGH_V006
 ```
 
 ## Records
@@ -68,3 +68,8 @@ state: CURRENT_THROUGH_V005
 | RAG-FRM-024 | Rental performance becomes a device for explaining rental performance. | Kazuya pays Chizuru to date Kuribayashi, whose enjoyable outing prepares him to reinterpret Ruka and hear Kazuya's confession. | Profile images, handholding, attraction shots, and later fee disclosure separate felt effect from contractual fact. | A staged relation can transmit truth without ceasing to be labor; RAG-E-V005-009, RAG-E-V005-010, RAG-E-V005-011. |
 | RAG-FRM-025 | An intimate-looking object has a fabricated causal history. | Women's underwear appears near Kazuya's room, he assigns it to Chizuru, and Ruka later reveals she planted it. | Body and object close-ups, frantic concealment, and door interruptions maximize sexual inference before correction. | Repeats the gap between image and material relation; RAG-E-V005-013. |
 | RAG-FRM-026 | A new woman enters through observer and communication asymmetry. | Sumi can barely greet Kazuya while Mami sees only a visually legible boy-girl outing. | Silence, trembling, internal captions, and the final reaction shot give each observer a different story. | Opens a new misrecognition channel without establishing Mami's conclusion or Sumi's stable traits; RAG-E-V005-016, RAG-E-V005-017. |
+| RAG-FRM-027 | Support reverses inside the practice date. | Kazuya first leads and protects a nearly silent Sumi; when Mami appears, Sumi performs girlfriend closeness to protect his cover. | Repeated hand contact changes from guided practice to active role performance. | Training produces observable agency without proving private romance; RAG-E-V006-001 through RAG-E-V006-004. |
+| RAG-FRM-028 | Visual suspicion becomes platform-mediated confrontation. | Mami's V005 reaction shot leads to a profile search, a disguised booking, and a paid interrogation of Chizuru. | Screen close-ups and client reveal turn looking into controlled access. | Observer asymmetry becomes action while motive remains deferred; RAG-E-V006-005, RAG-E-V006-008, RAG-E-V006-011. |
+| RAG-FRM-029 | Another planned ending enlarges the relationship problem. | Chizuru's possible rental retirement prompts Kazuya to support her aloud, suppress his preference, and attempt an official relation with Ruka. | Balcony distance, solitary collapse, and karaoke interruption convert an exit into competing obligations. | Retained change rather than reset; RAG-E-V006-006, RAG-E-V006-007, RAG-E-V006-009, RAG-E-V006-010. |
+| RAG-FRM-030 | A paid performance becomes the forum for attacking paid performance. | Mami rents Chizuru, then accuses her of using money and the girlfriend role to sustain a false bond. | Payment envelope, karaoke performance, and corridor pursuit keep commercial procedure visible during moral confrontation. | Transaction supplies access without settling who bears responsibility for the lie; RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-012. |
+| RAG-FRM-031 | Clearer confession ends on withheld reception. | Kazuya moves from unspoken balcony preference to an explicit “You're the one I want,” but the volume cuts after Chizuru turns. | Memory montage, isolated text, shouted address, and reaction close-up increase clarity while preserving response suspense. | The statement is evidence of his preference, not mutual status; RAG-E-V006-015 through RAG-E-V006-017. |

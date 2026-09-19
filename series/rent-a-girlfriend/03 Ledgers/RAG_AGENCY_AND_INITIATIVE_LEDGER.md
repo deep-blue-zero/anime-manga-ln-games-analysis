@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V005
-row_count: 34
-state: CURRENT_THROUGH_V005
+inspected_through_volume: V006
+row_count: 39
+state: CURRENT_THROUGH_V006
 ```
 
 ## Records
@@ -76,3 +76,8 @@ state: CURRENT_THROUGH_V005
 | RAG-AGY-032 | Kazuya | Avoid Kuribayashi's hurt, explain only Ruka, or expose his own deception. | Uses first wages to fund Chizuru's date with Kuribayashi and admits his own rental-girlfriend lie. | Repairs the friendship by sharing cost, context, and personal shame. | Disclosure remains bounded to one friend; RAG-E-V005-008, RAG-E-V005-009, RAG-E-V005-011. |
 | RAG-AGY-033 | Chizuru | Treat the Kuribayashi assignment as a minimal reveal or sustain the date. | Invites him to continue after he tries to leave, leads the outing, and knowingly supports Kazuya's repair plan. | Helps the disclosure become an intelligible experience rather than another humiliation. | The outing remains compensated labor; RAG-E-V005-010, RAG-E-V005-012. |
 | RAG-AGY-034 | Chizuru | Leave Sumi's weak client communication to the platform or recruit a known practice client. | Privately asks Kazuya to book Sumi and explains the training need. | Gives Sumi a controlled practice opportunity and extends Kazuya's collaborator role. | The referral does not establish romance or Sumi's later success; RAG-E-V005-014, RAG-E-V005-016. |
+| RAG-AGY-035 | Kazuya | Treat Sumi as a failing provider, remain passive, or adapt to the training purpose. | Changes activities, reassures her, averts his gaze after accidental exposure, and supplies an exit from unwanted male attention. | Helps Sumi complete the practice date and reach a small communication success. | Situational care does not establish global maturity or private romance; RAG-E-V006-001, RAG-E-V006-002, RAG-E-V006-003. |
+| RAG-AGY-036 | Mami | Leave the Sumi sighting unexplained or investigate through the service system. | Identifies Sumi's profile, books Chizuru under a client name, and challenges the girlfriend performance. | Gains paid private access and converts observation into direct pressure. | Her desired endpoint remains unknown; RAG-E-V006-005, RAG-E-V006-008, RAG-E-V006-011. |
+| RAG-AGY-037 | Kazuya | Leave Ruka provisional, end the relation, or try to make it official. | Decides he must try to like Ruka and begins an official-status proposal when Chizuru's retirement seems possible. | Attempts responsibility through a partner he does not love, then abandons the discussion during the workplace collision. | The proposal is unfinished and avoidance of Chizuru's loss remains a live motive; RAG-E-V006-009, RAG-E-V006-010. |
+| RAG-AGY-038 | Chizuru | Accept Mami's accusation as a client boundary or challenge her treatment of Kazuya's feeling. | Stops Mami, reports Kazuya's sincere attachment, and asks whether Mami ever seriously faced or accepted it. | Protects the dignity of Kazuya's feeling and forces the former girlfriend to answer. | Professional ethics, empathy, guilt, and personal attachment remain plural motives; RAG-E-V006-011, RAG-E-V006-013, RAG-E-V006-014. |
+| RAG-AGY-039 | Kazuya | Keep his preference private or communicate after thanking Chizuru. | Distinguishes attraction from moral admiration and calls after her that she is the person he wants. | Converts internal attachment into direct but incomplete speech. | Chizuru's interpretation and response are deferred; RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017. |

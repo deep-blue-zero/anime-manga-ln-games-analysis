@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V005
-row_count: 26
-state: CURRENT_THROUGH_V005
+inspected_through_volume: V006
+row_count: 30
+state: CURRENT_THROUGH_V006
 ```
 
 ## Records
@@ -68,3 +68,7 @@ state: CURRENT_THROUGH_V005
 | RAG-TXN-024 | Kazuya and Kuribayashi; personal truth as reparative resource | No commercial agreement governs Kazuya's admission that he too hired and misrepresented a rental girlfriend. | Kazuya accepts shame and reputational cost to show his friend he was not uniquely foolish. | Bounded disclosure to one friend does not authorize broader exposure of Chizuru. | Repairs friendship while leaving the larger secrecy system intact; RAG-E-V005-011. |
 | RAG-TXN-025 | Ruka, Kazuya, and Chizuru; planted underwear | No intimate act or exchange produced the object in Kazuya's apartment area. | Ruka deliberately places her underwear to imply closeness; Kazuya mistakenly conceals it as Chizuru's. | Fabricated evidence cannot establish sexual consent or history. | Produces comic sexual framing and rival conflict; RAG-E-V005-013. |
 | RAG-TXN-026 | Chizuru, Kazuya, and Sumi; practice booking | Chizuru privately asks Kazuya to rent Sumi through the service so the new provider can practice. | The referral and training purpose are unpriced coordination; Sumi's time remains a rental booking. | Kazuya is a known client, not entitled to private intimacy or diagnostic authority over Sumi. | Begins a training encounter under communication difficulty; RAG-E-V005-014, RAG-E-V005-016. |
+| RAG-TXN-027 | Kazuya and Sumi; completed practice booking | Paid provider time is used for training under Chizuru's private referral. | Kazuya adapts activities and protects Sumi; Sumi chooses handholding, a smile, protective role performance, and a spoken farewell. | Accidental exposure and unwanted male attention create no entitlement; Kazuya averts his gaze and supplies an exit. | Produces a bounded practice success without private romance; RAG-E-V006-001 through RAG-E-V006-004. |
+| RAG-TXN-028 | Mami and Chizuru; investigative rental booking | Mami books and pays Chizuru under the client name “MAYA.” | Chizuru performs requested karaoke conduct while both women pursue information outside an ordinary date purpose. | Payment authorizes client time, not moral control over Chizuru or disclosure of Kazuya's private life. | The transaction becomes a confrontation over the Kazuya-Chizuru performance; RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-013. |
+| RAG-TXN-029 | Ruka and Kazuya; attempted official conversion | Existing terms define a provisional relationship; Kazuya begins proposing an official one without new compensation. | Ruka offers ordinary affection; Kazuya's initiative is voluntary but driven by duty and feared loss of Chizuru. | No completed agreement or reciprocal love is established before interruption. | Leaves a relationship obligation open at the workplace; RAG-E-V006-009, RAG-E-V006-010. |
+| RAG-TXN-030 | Kazuya and Chizuru; direct preference outside a booking | No payment or scheduled service governs the post-confrontation exchange. | Chizuru has voluntarily defended his feelings; Kazuya thanks her and states that she is the person he wants. | Speech communicates his preference but creates no entitlement or mutual partnership. | Opens an interpretation and response question for V007; RAG-E-V006-013, RAG-E-V006-015 through RAG-E-V006-017. |

@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V005
-row_count: 23
-state: CURRENT_THROUGH_V005
+inspected_through_volume: V006
+row_count: 27
+state: CURRENT_THROUGH_V006
 ```
 
 ## Records
@@ -65,3 +65,7 @@ state: CURRENT_THROUGH_V005
 | RAG-CHR-021 | RAG-E-V005-008, RAG-E-V005-009, RAG-E-V005-011 | Kazuya receives first wages, arranges Chizuru's Asakusa date with Kuribayashi, and discloses his own deception after the date. | Appointment occurs Sunday at 1 p.m.; absolute date unknown. | Work and first pay precede the funded booking and confession. |
 | RAG-CHR-022 | RAG-E-V005-013 | Two and a half months pass before the warmer-season underwear incident at the apartments. | Explicit elapsed-time caption; exact starting and ending dates remain uncertain. | Occurs after the Kuribayashi repair and before the balcony appointment. |
 | RAG-CHR-023 | RAG-E-V005-014, RAG-E-V005-016, RAG-E-V005-017 | Chizuru requests a 9 p.m. balcony meeting; she later schedules Sumi's practice date for 1 p.m. at Tobu-Nerima Station, where Mami observes the pair. | Explicit clock times and ordered appointments; exact date not printed in the admitted evidence. | Balcony request precedes Sumi's date; Mami's observation closes V005. |
+| RAG-CHR-024 | RAG-E-V006-001 through RAG-E-V006-005 | Sumi's practice date continues from the V005 boundary through café, bowling, Mami's interruption, parting, and Mami's profile search. | Same-day sequence explicit; exact date unknown. | The profile search follows direct observation and precedes Mami's booking of Chizuru. |
+| RAG-CHR-025 | RAG-E-V006-006, RAG-E-V006-007, RAG-E-V006-008 | A 9 p.m. balcony conversation about Sumi and Chizuru's possible retirement precedes the next shown client booking, where “MAYA” is revealed as Mami. | Balcony time is explicit; elapsed interval to the booking is represented as the following day. | Proposed retirement is not yet completed. |
+| RAG-CHR-026 | RAG-E-V006-009 through RAG-E-V006-012 | Ruka's date and interrupted official-status discussion occur at the karaoke workplace while Mami rents Chizuru; Kazuya overhears the confrontation and runs after them. | Same-day overlap and event order are explicit. | Ruka does not receive the complete conversation or a completed status change. |
+| RAG-CHR-027 | RAG-E-V006-013 through RAG-E-V006-017 | Chizuru confronts Mami, Mami leaves, and Kazuya then thanks Chizuru and calls her the person he wants. | Continuous immediate sequence; V006 ends on Chizuru turning back. | Her interpretation and reply belong to V007 or later evidence. |

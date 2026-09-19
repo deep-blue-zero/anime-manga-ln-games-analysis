@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V005; inspected and closed through V005."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V006; inspected and closed through V006."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V005
-row_count: 32
-state: CURRENT_THROUGH_V005
+inspected_through_volume: V006
+row_count: 37
+state: CURRENT_THROUGH_V006
 ```
 ```
 
@@ -75,3 +75,8 @@ state: CURRENT_THROUGH_V005
 | RAG-PRG-030 | Honesty: Kazuya repeatedly plans but fails to disclose | BOUNDED_GAIN — he completes a direct confession to Kuribayashi about the rental-girlfriend deception. | Kuribayashi updates and accepts the apology; other audiences retain false beliefs. | The gain is durable for one friendship and cannot be generalized to family or Kibe. | RAG-E-V005-011 |
 | RAG-PRG-031 | Chizuru collaboration: provider, neighbor, and deception partner | GAIN — she knowingly supports the Kuribayashi repair and privately recruits Kazuya for Sumi's practice date. | Both gain an off-platform coordination channel tied to paid work. | No mutual romance is acknowledged, and acting ambition receives no V005 consequence. | RAG-E-V005-012, RAG-E-V005-014 |
 | RAG-PRG-032 | Mami trajectory: dormant after the missed meeting | REACTIVATION_SIGNAL — Mami sees Kazuya with Sumi and reacts in surprise. | Only observation is established at the boundary. | Her inference and action remain deferred to V006. | RAG-E-V005-017 |
+| RAG-PRG-033 | Sumi practice: date begins under near-total communication failure | GAIN — supported activity, protection, role performance, a smile, and a spoken name create a small successful training arc. | Sumi, Kazuya, and reader observe the change; Chizuru later receives a favorable account. | One encounter does not establish stable communication or independent provider competence. | RAG-E-V006-001 through RAG-E-V006-004 |
+| RAG-PRG-034 | Chizuru career: acting goal has not altered practical conditions | DELAYED_GAIN — a new opportunity leads her to consider retiring from rental work. | Kazuya learns that the relationship's commercial access route may end. | Opportunity and proposed exit are not completed outcomes. | RAG-E-V006-006, RAG-E-V006-007 |
+| RAG-PRG-035 | Ruka relation: provisional and emotionally mismatched | FALSE_START — Kazuya begins an official-status proposal from duty and anticipated loss, then the workplace collision interrupts it. | Ruka receives evidence of possible conversion but no completed agreement. | Underlying nonreciprocity persists and must be revisited. | RAG-E-V006-009, RAG-E-V006-010 |
+| RAG-PRG-036 | Mami trajectory: observation without known action | ESCALATION — research, paid access, and direct accusation turn observation into strategic intervention. | Mami and Chizuru exchange privileged relationship information; Kazuya overhears. | Mami's desired final state and response to Chizuru's challenge remain unknown. | RAG-E-V006-005, RAG-E-V006-008, RAG-E-V006-011, RAG-E-V006-013, RAG-E-V006-014 |
+| RAG-PRG-037 | Kazuya attachment: conscious but private and appearance-heavy | GAIN_WITH_OPEN_RECEPTION — he distinguishes admiration of Chizuru's conduct from physical attraction and directly names her as his preference. | Kazuya and reader receive the full synthesis; Chizuru receives the final statement. | Her interpretation, reciprocation, and any relationship change remain unobserved. | RAG-E-V006-015, RAG-E-V006-016, RAG-E-V006-017 |
