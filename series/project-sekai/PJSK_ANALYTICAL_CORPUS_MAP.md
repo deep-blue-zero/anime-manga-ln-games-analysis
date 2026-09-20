@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0099
+## Current state — founded units synchronized through EVENT_0100
 
-All five human units now track the same continuous event history through `EVENT_0099`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0099 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0100`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0100 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0099–0115 continuation — EVENT_0099 committed boundary
+### EVENT_0099–0115 continuation — EVENT_0100 committed boundary
+
+**EVENT_0100 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH with four distinct I3 successors. `MF-E0100-01` advances Mafuyu from context-dependent wanting into explicit self-description, sustained refusal, survival departure, and chosen refuge. `REL-FAMILY-MAFUYU-MOTHER-E0100` advances the family conflict into directly rejected disclosure, device-access rupture, and physical separation while attachment continues. `REL-N25-KM-E0100` makes Kanade's protective commitment an enacted refuge. `REL-N25-VS-KAITO-GROUP-E0100` makes Empty KAITO a bounded crisis collaborator who combines urgent challenge with Miku's reassurance, reports through the group, limits interference, and receives Mafuyu's thanks. Preserve `K-E0089-01`, `REL-N25-G-7`, `REL-N25-MZM-3`, and `REL-N25-VS-MIKU-MAFUYU-E0042` at strong I2. MMJ is CROSS_UNIT/LOW I1; LN, VBS, and WxS are NONE/I0. The verified envelope is 23 stories / 42 scenes / 1,770 records: eight core chapters, ten card halves, and five linked areas. No permanent housing, legal independence, settled vocation, repaired device, maternal understanding, reconciliation, completed estrangement, universal recovery, public SEKAI knowledge, or global singer state is certified. The boundary advances EVENT_0099 to EVENT_0100; EVENT_0101 is next and 15 events remain through EVENT_0115.
+
+The [EVENT_0100 reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0100_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 2 of the EVENT_0099–0115 goal sequence. The boundary advances from EVENT_0099 to EVENT_0100; EVENT_0101 is next and 15 events remain.
+
+### Historical continuation — EVENT_0099 committed boundary
 
 **EVENT_0099 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH I3 with two distinct new owners. `WXS-EP-RUI-E0099` records Rui's durable move from show-bound social expectation to self-chosen mutual understanding and shared laughter outside performance. `WXS-REL-RUI-CLASSMATES-E0099` records Miyake, Hayashi, and Taniyama's reciprocal approach, shared ordinary time, explicit friendship, and post-trip continuity. Preserve `WXS-EP-RUI-E0024` separately as task-based outsider collaboration authority. New `REL-CROSS-MAFUYU-AIRI-E0099` is bounded public-school I2; preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `MF-E0072-01`, `REL-N25-G-7`, `REL-N25-VS-MIKU-MAFUYU-E0042`, `MMJ-REL-GROUP-06`, `REL-WXS-MS-G-P06`, and `REL-WXS-WONDERLAND-E0003` proportionally without successors. N25 is SECONDARY/HIGH I2, MMJ is SECONDARY/MEDIUM I2, and LN/VBS are CROSS_UNIT/LOW I1. The verified envelope is 24 stories / 44 scenes / 1,678 records: eight core chapters, ten card halves, and six linked areas. No universal social mastery, permanent classmate intimacy, public SEKAI knowledge, private N25 disclosure to MMJ, global singer state, or professional outcome is certified. The boundary advances EVENT_0098 to EVENT_0099; EVENT_0100 is next and 16 events remain through EVENT_0115.
 
@@ -431,13 +437,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0099`. The complete 24-story envelope creates `WXS-EP-RUI-E0099` and `WXS-REL-RUI-CLASSMATES-E0099` at I3 and bounded `REL-CROSS-MAFUYU-AIRI-E0099` at I2. Preserve `WXS-EP-RUI-E0024`, WxS group and Wonderland authority, Mafuyu and N25 group/Empty Miku authority, Mafuyu–Shizuku, and MMJ group authority. N25 and MMJ are I2; LN and VBS are I1. EVENT_0100 is next; 16 events remain through EVENT_0115.
+`ANALYSIS_CURRENT` is `EVENT_0100`. The complete 23-story envelope advances Mafuyu, the Mafuyu-mother relationship, Kanade-Mafuyu refuge, and Empty KAITO group participation to distinct I3 successors. Preserve Kanade's human state and N25 group, Mizuki, and Empty Miku authority at strong I2. MMJ is I1; LN, VBS, and WxS are I0. EVENT_0101 is next; 15 events remain through EVENT_0115.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0099` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0100` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0099_DEEP_READING.md) closes `EVENT_0099 — 一期一会な百鬼夜行！？`, bucket `RB_20230630T060000Z`: eight core chapters, cards `0672–0676` both halves, and six linked areas. WxS is I3 with new Rui operative and Rui–classmates relation; N25/MMJ are I2, LN/VBS I1. EVENT_0100 is next.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0100_DEEP_READING.md) closes `EVENT_0100 — 仮面の私にさよならを`, bucket `RB_20230711T060000Z`: eight core chapters, cards `0677–0681` both halves, and five linked areas. N25 is I3 with four distinct successors; MMJ is I1 and LN/VBS/WxS are I0. EVENT_0101 is next.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
