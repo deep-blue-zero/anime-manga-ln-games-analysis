@@ -4,6 +4,8 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
+current_event_boundary: EVENT_0141
+reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
 superseded_by: []
@@ -14,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0140
+## Current coverage — all five human units synchronized through EVENT_0141
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0140 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0140`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0141 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0141`.
 
 Artifacts:
 
@@ -66,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0140 forward transaction; EVENT_0116–0140 sequence complete
+### Current coverage — EVENT_0141 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0141 is fully integrated:** `WXS-EP-EMU-E0131 → WXS-EP-EMU-E0141` advances audience-perspective performance into participant-centered implementation through failed-attempt learning, place and stakeholder inspection, complementary recruitment, inclusive design, distributed operations, and participant/community receipt. `REL-CROSS-MAFUYU-EMU-E0004 → REL-CROSS-MAFUYU-EMU-E0141` advances tentative discrepant observation into sustained joint work, direct affect disclosure, Mafuyu's explicit inquiry and self-authored comparison with Kanade's care, genuine gratitude, and continuing committee access. `REL-CROSS-HONAMI-MAFUYU-E0112` receives strong I2 support; Shizuku and Mizuki receive bounded craft and ordinary-life I2 evidence. The verified envelope is 23 stories / 48 scenes / 1,476 records. No universal event-design formula, guaranteed participant conversion, mandatory smiling, objective affect detection, cured Mafuyu, recovered preference set, central-attachment status, family or Nightcord disclosure, permanent mixed group, ghost cosmology, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0140 to EVENT_0141. EVENT_0142 is next; 28 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0141 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0141_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0141: 23 stories / 48 scenes / 1,476 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH I3 through Emu; Nightcord at 25:00 is CO_PRIMARY/VERY HIGH I3 through the Mafuyu–Emu relation; Leo/need is SECONDARY/HIGH I2 through Honami; MORE MORE JUMP! and Mizuki are SECONDARY/MEDIUM I2; Vivid BAD SQUAD is CROSS_UNIT/LOW I1.
+- The shared analysis boundary is EVENT_0141. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0140 forward transaction; EVENT_0116–0140 sequence complete
 
 **EVENT_0140 is fully integrated:** `EPI-PJSK-SEKAI-E0105 → EPI-PJSK-SEKAI-E0140` advances bounded cross-SEKAI ontology through a SEKAI-originating signal, origin-fragment access, newborn-manifestation observation, retained six-observer comparison, repeatable Interstice viewing, selected sensory leakage, and a strongly supported but still provisional shared growth space. All five units receive high-I2 founding reconstructions of local singer care while their current human owners remain unchanged. `CR-PJSK-SEKAI-040` is revised/strengthened and provisional `CR-PJSK-SEKAI-041` is strengthened. The verified envelope is 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified. The boundary advances EVENT_0139 to EVENT_0140. The EVENT_0116–0140 continuation is complete.
 
@@ -2097,3 +2109,7 @@ The verified group contains 23 stories / 33 scenes / 1,584 records. No universal
 ### EVENT_0140 source and reconstruction review
 
 The verified group contains 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified.
+
+### EVENT_0141 source and reconstruction review
+
+The verified group contains 23 stories / 48 scenes / 1,476 records. No universal event-design formula, guaranteed participant conversion, mandatory smiling, objective affect detection, cured Mafuyu, recovered preference set, central-attachment status, family or Nightcord disclosure, permanent mixed group, ghost cosmology, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.

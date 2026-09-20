@@ -48,3 +48,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0139 — 鳴らせビューティフルサウンド！](PJSK_EVENT_0139_DEEP_READING.md): complete 23-story mixed envelope; recovered musical joy becomes Toya's recipient-tested persistence method and a reciprocal Toya–Kanade creative channel.
 
 - [EVENT_0140 — キミと、セカイの始まりで](PJSK_EVENT_0140_DEEP_READING.md): complete 36-story universal envelope; origin fragments, early local care, repeatable counterpart observation, and a provisional shared growth space advance bounded SEKAI ontology.
+
+- [EVENT_0141 — わんだほら～！？な肝だめし！](PJSK_EVENT_0141_DEEP_READING.md): complete 23-story mixed envelope; Emu turns shared-joy intent into participant-centered implementation, while her tentative Mafuyu contact advances through explicit affect feedback, Mafuyu's inquiry, and reciprocal gratitude.
