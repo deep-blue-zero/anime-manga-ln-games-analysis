@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
 ---
 
 # Information and deception ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-row_count: 90
+row_count: 94
 state: CURRENT_THROUGH_V018
 ```
 
@@ -144,3 +144,7 @@ state: CURRENT_THROUGH_V018
 | RAG-INF-100 | Sayuri knows she has received the film footage and attributes the route to Chizuru and Kazuya. | She praises the film and asks that Kazuya be thanked. | The intended family audience acknowledges the delivered result before death. | She does not see a finished public exhibition; RAG-E-V018-007, RAG-E-V018-008. |
 | RAG-INF-101 | Kazuya's belief that Chizuru can survive alone is explicitly contested. | Sumi says no person lives alone, while Nagomi later reports private crying beneath Chizuru's public composure. | Kazuya receives independent evidence against equating control with absent need. | Neither observer knows Chizuru's complete preference for support; RAG-E-V018-009 through RAG-E-V018-013. |
 | RAG-INF-102 | Kazuya's support plan becomes known to Ruka, the karaoke manager, and the rental platform in different forms. | He discusses encouraging Chizuru with Ruka, requests an advance for a girl, and submits a booking with an itinerary. | A private care intention becomes operational information across work and service systems. | Chizuru's acceptance and knowledge of the underlying plan are not shown; RAG-E-V018-016 through RAG-E-V018-020. |
+| RAG-INF-103 | The submitted request becomes a known ten-hour September 24 booking. | Chizuru accepts and appears at Shinjuku-sanchome; both principals know the unusual duration. | The V018 prospective route becomes shared operational fact. | The platform price breakdown and every prior message are not shown; RAG-E-V019-001. |
+| RAG-INF-104 | Chizuru identifies the date's bereavement purpose and tells Kazuya that the projector reached Sayuri and that he has done enough. | She questions the elaboration, thanks him, and relays Sayuri's praise. | Kazuya receives direct confirmation of the bedside act's value and her resistance to added debt. | She does not yet state the depth of her loneliness; RAG-E-V019-004 through RAG-E-V019-006. |
+| RAG-INF-105 | Kazuya communicates precise recognition through the ideal-girlfriend speech but states his love only internally. | Chizuru hears the description and responds with tears; the love statement remains in narration. | Recognition becomes shared while romantic self-classification remains private. | Chizuru's interpretation of the speech is reported only later to Mini; RAG-E-V019-013 through RAG-E-V019-017. |
+| RAG-INF-106 | Mini learns that Kazuya is not Chizuru's boyfriend and that crying relieved unbearable loneliness. | Chizuru gives Mini the direct account after Kazuya withholds details. | Mini gains unique access to Chizuru's interpretation while the principals still lack mutual discussion of it. | Mini's romantic inference is not validated, and Kazuya does not hear the report; RAG-E-V019-018 through RAG-E-V019-020. |

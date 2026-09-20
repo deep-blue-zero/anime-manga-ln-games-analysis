@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
 ---
 
 # Directed relationship state ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-row_count: 88
+row_count: 92
 state: CURRENT_THROUGH_V018
 ```
 ```
@@ -142,3 +142,7 @@ state: CURRENT_THROUGH_V018
 | RAG-REL-097 | Sumi → Kazuya | Paid practice partner becoming self-designated friend and support teacher | Ends the consultation, funds travel, and models a grief-support method. | Their interaction gains unpriced companionship and consequential advice. | Kazuya does not receive or reciprocate her romantic feeling. | RAG-E-V018-012 through RAG-E-V018-015 |
 | RAG-REL-098 | Ruka → Kazuya / Chizuru | Truce-bound rival allowing crisis priority while preserving a date claim | Shows sympathy, discusses encouragement, and asks for an amusement-park outing with Kazuya. | Immediate conflict is deferred rather than erased. | No schedule, official status, or durable concession follows. | RAG-E-V018-016 |
 | RAG-REL-099 | Kazuya → Chizuru | Prospective paying client using contract access for care | Raises funds, builds a plan, submits a rental request, and promises the best date. | He channels intimacy desire through an answerable professional route. | Chizuru has not accepted, and payment creates no emotional obligation or reciprocity. | RAG-E-V018-017 through RAG-E-V018-020 |
+| RAG-REL-100 | Kazuya → Chizuru | Paying client who completes a tailored grief-support date | Funds and executes activities, answers her cost objections, recognizes her grief wall, and offers permission to cry without asking for status. | Support competence moves from planning to an accepted emotional outcome. | His love remains internal and the successful episode creates no entitlement. | RAG-E-V019-001 through RAG-E-V019-017 |
+| RAG-REL-101 | Chizuru → Kazuya | Provider who accepts bounded personal grief support | Participates actively, thanks him, crosses the distance during collapse, then restores public control and retains the non-boyfriend classification. | She chooses bodily reliance beyond ordinary performance without supplying romantic reclassification. | Motive and durability remain mixed; her direct relief report goes to Mini, not Kazuya. | RAG-E-V019-002 through RAG-E-V019-006, RAG-E-V019-015, RAG-E-V019-016, RAG-E-V019-020 |
+| RAG-REL-102 | Mini ↔ Chizuru | Romantic intermediary becoming a direct confidant | Mini seeks Chizuru's account and hears both the rental boundary and the subjective relief. | Their information relation becomes consequential to the central pair's interpretation. | Mini's broader reliability and use of the disclosure remain untested. | RAG-E-V019-018 through RAG-E-V019-020 |
+| RAG-REL-103 | Ruka → Kazuya / Chizuru | Provisional girlfriend relation stalled offstage | Neither Ruka nor a consequence to her truce and requested outing appears. | The trial remains an unresolved obligation while Kazuya completes the Chizuru booking. | No V019 evidence shows her knowledge, response, or changed status. | RAG-E-V019-021 |

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
 ---
 
 # Repetition and visual form ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-row_count: 89
+row_count: 93
 state: CURRENT_THROUGH_V018
 ```
 
@@ -142,3 +142,7 @@ state: CURRENT_THROUGH_V018
 | RAG-FRM-098 | Repeated smiles become evidence of grief masking rather than simple stability. | Chizuru smiles after staying overnight and performs formal composure at the funeral while others report or infer private pain. | The prior ideal-girlfriend smile is recontextualized by bereavement. | Masking does not identify a single desired helper or prove conscious deception; RAG-E-V018-009 through RAG-E-V018-013. |
 | RAG-FRM-099 | Train, sea, written notes, and sand writing externalize a nonverbal support lesson. | Sumi moves Kazuya through transit and play, then writes guidance where speech is difficult. | Landscape and inscription convert her communication constraint into experiential pedagogy. | The form shows her intended lesson, not its later effectiveness with Chizuru; RAG-E-V018-014, RAG-E-V018-015. |
 | RAG-FRM-100 | Money, itinerary, platform screen, and final close-up stage resolve as prospective action. | Wage advance, printed plan, booking interface, banknotes, and Kazuya's declaration form a planning montage. | Material preparation replaces the prior running cliffhanger with a new acceptance-and-outcome threshold. | Resolve and montage do not establish successful care or reciprocity; RAG-E-V018-017 through RAG-E-V018-020. |
+| RAG-FRM-101 | Outfit, handholding, film, bouldering, and meal montage mixes commercial date form with observable care and pleasure. | Repeated activities alternate role-coded intimacy, Chizuru's competence, cost objections, and reciprocal service. | The sequence prevents either payment or enjoyment from becoming a total explanation. | Montage compression cannot expose every motive; RAG-E-V019-001 through RAG-E-V019-008. |
+| RAG-FRM-102 | Elder-child imagery and sparklers turn entertainment into a family-memory breach. | Ordinary visual resemblance leads into Sayuri and Katsuhito recollection, trembling, and the smoke explanation. | Repetition converts a bright activity into evidence against the restored smile's completeness. | Memory association does not establish a stable later trigger pattern; RAG-E-V019-009 through RAG-E-V019-011. |
+| RAG-FRM-103 | The ideal-girlfriend speech repeats familiar praise while adding a permission-bearing final clause. | Kazuya lists beauty, style, kindness, firmness, and smiles, then names crying when truly sad as part of the same ideal. | The revised formula recognizes vulnerability without opposing it to valued strength. | The theatrical device does not state love aloud or guarantee accurate interpretation; RAG-E-V019-012 through RAG-E-V019-014. |
+| RAG-FRM-104 | Prolonged crying pages, bodily collapse, station reset, and later self-report separate release from status change. | Sparse speech and repeated sobbing give way to restored composure, then Chizuru's verbal account to Mini. | Form makes the release undeniable while preserving the discontinuity between private support and public classification. | Duration and contrast do not prove durable recovery or romance; RAG-E-V019-015 through RAG-E-V019-020. |

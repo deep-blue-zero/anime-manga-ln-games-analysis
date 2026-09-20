@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
 ---
 
 # Transaction and intimacy ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-row_count: 84
+row_count: 88
 state: CURRENT_THROUGH_V018
 ```
 
@@ -136,3 +136,7 @@ state: CURRENT_THROUGH_V018
 | RAG-TXN-092 | Kazuya and Sumi; practice booking transformed into friendship labor | A paid practice interval begins, then Sumi ends the rental frame, buys travel, and treats the rest as friendship. | Sumi contributes money, time, emotional labor, and instruction beyond the booked service. | Unpriced care creates no romantic obligation, and her unspoken feeling is not consented status. | Kazuya receives a usable support method; RAG-E-V018-012 through RAG-E-V018-015. |
 | RAG-TXN-093 | Kazuya, Ruka, and karaoke manager; truce, labor, and wage advance | Ruka allows the immediate Chizuru-support route while requesting a later outing; the manager advances wages after hearing Kazuya's purpose. | Both accommodations are conditional social or employment resources rather than gifts of status. | Neither creates romantic entitlement, and the advance remains Kazuya's earned-income obligation. | The support plan becomes financially feasible while the Ruka trial stays open; RAG-E-V018-016, RAG-E-V018-017. |
 | RAG-TXN-094 | Kazuya and Chizuru; prospective paid grief-support date | Kazuya submits a rental request and prepares to fund an itinerary through the platform relation. | Chizuru retains the right to accept, refuse, or bound the booking. | Payment can buy scheduled provider time, not emotional disclosure, crying, touch, or reciprocity. | V018 ends with a proposed transaction and no observed acceptance or outcome; RAG-E-V018-018 through RAG-E-V018-020. |
+| RAG-TXN-095 | Kazuya and Chizuru; accepted ten-hour grief-support booking | Payment supplies September 24 provider time and a legitimate access route. | Chizuru accepts, appears, participates, and recognizes the care purpose. | The booking does not price or require grief, emotional recovery, touch, or romance. | A paid frame enables but does not explain the later crying; RAG-E-V019-001 through RAG-E-V019-006. |
+| RAG-TXN-096 | Kazuya and Chizuru; purchased outfit, activities, and meals | Kazuya funds a costly itinerary while Chizuru chooses an outfit and repeatedly challenges excess cost. | She accepts specific goods and experiences and continues after he explains his aim. | Spending creates no repayment duty beyond the agreed service and no romantic debt. | Enjoyment and provider labor coexist; RAG-E-V019-002 through RAG-E-V019-010. |
+| RAG-TXN-097 | Chizuru and Kazuya; differentiated touch across the date | Handholding is role-framed and initiated by Chizuru; armrest contact is incidental; stretching and feeding are activity or service acts; the grief embrace is initiated by Chizuru. | Each act has its own context, agency, and consent basis. | No one act generalizes permission to other touch or proves couple status. | The final bodily support exceeds routine activity while remaining nonsexual and unpriced; RAG-E-V019-002, RAG-E-V019-003, RAG-E-V019-007, RAG-E-V019-008, RAG-E-V019-015. |
+| RAG-TXN-098 | Chizuru and Kazuya; unpriced recognition and crying support | Kazuya asks for no confession or return when he names permitted sadness and receives her collapse. | Chizuru accepts his presence for prolonged grief and later reports relief. | Emotional benefit creates no debt, exclusive access, or automatic romantic reclassification. | The station reset and non-boyfriend statement preserve the boundary; RAG-E-V019-013 through RAG-E-V019-020. |

@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018; predictions frozen before V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019; predictions frozen before V020."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-current_claim_count: 66
+current_claim_count: 70
 frozen_prediction_count: 4
 state: CURRENT_THROUGH_V018__PREDICTIONS_FROZEN_FOR_V019
 ```
@@ -109,6 +109,10 @@ state: CURRENT_THROUGH_V018__PREDICTIONS_FROZEN_FOR_V019
 | RAG-CLM-064 | Chizuru's polished `fine` presentation persists through bereavement and funeral labor, while Sumi, Nagomi, and Kazuya supply independent evidence that composure is not equivalent to absent support need. | STRONG_INFERENCE | RAG-E-V018-009 through RAG-E-V018-013 | Observers cannot identify her complete interior state or preferred helper. | ADDED and supported in V018. |
 | RAG-CLM-065 | Sumi's support competence includes converting empathy into an experiential method of low-demand enjoyment and direct encouragement. | STRONG_INFERENCE | RAG-E-V018-012 through RAG-E-V018-015 | The method's effect on Chizuru and Sumi's broader competence remain untested. | ADDED and supported in V018. |
 | RAG-CLM-066 | Kazuya can operationalize care through consultation, earned resources, planning, and an answerable rental request rather than claiming informal lover access. | STRONG_INFERENCE | RAG-E-V018-014 through RAG-E-V018-020 | The booking is prospective; acceptance, helpfulness, and reciprocity remain unknown. | ADDED and supported in V018. |
+| RAG-CLM-067 | A paid all-day route can contain sincere enjoyment and effective support while payment remains insufficient to buy grief disclosure, bodily reliance, or romantic status. | STRONG_INFERENCE | RAG-E-V019-001 through RAG-E-V019-008, RAG-E-V019-015, RAG-E-V019-020 | The mixture is established for one unusually long booking and should not be generalized to every rental interaction. | ADDED and supported in V019. |
+| RAG-CLM-068 | Chizuru's controlled strength can break when precise recognition permits rather than demands grief; her later reset does not negate the release. | STRONG_INFERENCE | RAG-E-V019-009 through RAG-E-V019-016, RAG-E-V019-020 | One acute episode does not establish a stable support rule or completed bereavement. | ADDED and supported in V019. |
+| RAG-CLM-069 | Kazuya shows improved support competence by combining tailored activity, cost-bearing action, recognition of concealment, and non-demanding presence. | STRONG_INFERENCE | RAG-E-V019-001 through RAG-E-V019-017 | His method is expensive, context-specific, and validated by one later self-report rather than a general test. | ADDED and supported in V019. |
+| RAG-CLM-070 | Chizuru directly reports that crying before Kazuya relieved severe loneliness while explicitly retaining the rental-girlfriend and non-boyfriend classification. | OBSERVATION | RAG-E-V019-020 | Relief does not reveal durable recovery, romantic motive, or future relationship choice. | ADDED and supported in V019. |
 
 ## Competing hypotheses
 
@@ -219,9 +223,9 @@ state: CURRENT_THROUGH_V018__PREDICTIONS_FROZEN_FOR_V019
 
 ## Adjudications and revisions
 
-At the V018 horizon, RAG-PRED-065 through RAG-PRED-068 are supported. Kazuya projects unfinished footage at Sayuri's bedside; Chizuru attempts the central truth correction; Sayuri briefly regains responsiveness and then dies after a reciprocal love exchange; and Kazuya converts support concern into a funded rental plan after respecting Chizuru's immediate refusal. V018 adds adaptive delivery, partial truth correction, relational closure amid factual ambiguity, grief masking, Sumi's support method, and resource-backed bounded care as RAG-CLM-061 through RAG-CLM-066.
+At the V019 horizon, RAG-PRED-069 through RAG-PRED-071 are supported and RAG-PRED-072 is disconfirmed. The rental request becomes a ten-hour date; the funded plan produces concrete activities and an effective support exchange; and Chizuru's controlled bereavement breaks into accepted crying followed by a direct report of relief. Ruka is absent, so her truce and requested outing receive no V019 consequence. V019 adds mixed commercial and sincere participation, permission-bearing recognition, improved support competence, and relief without romantic reclassification as RAG-CLM-067 through RAG-CLM-070.
 
-The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V018 continues the next block without revising that historical checkpoint. Its close raises the live claim count to sixty-six and freezes four prospective tests for V019.
+The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V019 continues the next block without revising that historical checkpoint. Its close raises the live claim count to seventy and freezes four prospective tests for V020.
 
 ## Adjudicated predictions from the V012 boundary
 
@@ -312,6 +316,24 @@ The V010 checkpoint remains the latest block synthesis and local reconstruction 
 | RAG-PRED-070 | The funded best-date plan will produce a concrete activity, spending, support, comfort, boundary, or failure consequence. | RAG-E-V018-015, RAG-E-V018-017 through RAG-E-V018-020 | V019 supplies no observable consequence to the planned intervention. |
 | RAG-PRED-071 | Chizuru's controlled bereavement presentation will produce an observable continuation, crack, self-report, refusal, crying episode, or accepted support. | RAG-E-V018-008 through RAG-E-V018-011 | V019 supplies no grief-presentation or support-reception consequence. |
 | RAG-PRED-072 | Ruka's truce and amusement-park request will produce a scheduling, cooperation, conflict, status, or access consequence. | RAG-E-V018-016 | V019 supplies no consequence to the request or truce. |
+
+## Adjudicated predictions from the V018 boundary
+
+| Prediction ID | Adjudication | V019 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-069 | SUPPORTED | Chizuru accepts the request and appears for a ten-hour September 24 booking; RAG-E-V019-001. | Acceptance does not determine every activity or emotional outcome. |
+| RAG-PRED-070 | SUPPORTED | The itinerary produces clothing, film, restaurant, bouldering, crab dinner, sparklers, and a consequential support exchange; RAG-E-V019-002 through RAG-E-V019-017. | Expense and activity alone do not prove recovery or romance. |
+| RAG-PRED-071 | SUPPORTED | Chizuru's composure visibly cracks, she cries against Kazuya, and later reports severe loneliness and relief; RAG-E-V019-009 through RAG-E-V019-020. | The episode does not establish durable bereavement resolution. |
+| RAG-PRED-072 | DISCONFIRMED | Ruka is absent and the request and truce receive no scheduling, cooperation, conflict, status, or access consequence; RAG-E-V019-021. | A later consequence remains possible. |
+
+## Frozen predictions for V020
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-073 | The scheduled film screening will produce an observable attendance, performance, audience, grief, professional, or relationship consequence. | RAG-E-V017-005, RAG-E-V017-008, RAG-E-V019-019 | V020 supplies no consequence to the announced screening. |
+| RAG-PRED-074 | Chizuru's reported relief after crying will produce an observable change, continuation, denial, boundary, self-report, or support interaction. | RAG-E-V019-015, RAG-E-V019-016, RAG-E-V019-020 | V020 supplies no consequence to the V019 grief release. |
+| RAG-PRED-075 | Mini's direct inquiry and romantic interpretation will produce an observable disclosure, pressure, plan, misunderstanding, or relationship consequence. | RAG-E-V019-018 through RAG-E-V019-020 | V020 supplies no consequence to Mini's intervention. |
+| RAG-PRED-076 | Kazuya's explicit internal love and resolve to continue supporting Chizuru will produce an observable action, restraint, disclosure attempt, ordinary-date move, or conflict. | RAG-E-V019-017 through RAG-E-V019-019 | V020 supplies no consequence to that resolved position. |
 
 ## Open evidence questions
 

@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
 ---
 
 # Chronology ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-row_count: 72
+row_count: 75
 state: CURRENT_THROUGH_V018
 ```
 
@@ -123,3 +123,6 @@ state: CURRENT_THROUGH_V018
 | RAG-CHR-079 | RAG-E-V018-009 through RAG-E-V018-011 | After the death, Chizuru stays until morning, begins funeral preparation, and later hosts the wake and funeral while Kazuya and Nagomi attend. | Overnight stay precedes funeral arrangements and service. | Exact dates and interval between death, wake, and funeral are unstated. |
 | RAG-CHR-080 | RAG-E-V018-012 through RAG-E-V018-015 | After the funeral Kazuya books Sumi for advice; the paid interval becomes a same-day Shonan and Enoshima excursion that ends with a support lesson. | Consultation precedes transit, sightseeing, beach play, and return. | Exact calendar date and travel duration are unstated. |
 | RAG-CHR-081 | RAG-E-V018-016 through RAG-E-V018-020 | Back in Tokyo, Kazuya consults Ruka, obtains a wage advance, prepares a plan, and submits a next-day rental request to Chizuru. | The next-day intention is explicit at the volume close. | Acceptance and all date events fall beyond V018. |
+| RAG-CHR-082 | RAG-E-V019-001 through RAG-E-V019-010 | On September 24, Chizuru and Kazuya begin a ten-hour Shinjuku-sanchome booking and proceed through clothing, film, restaurant, bouldering, crab dinner, and sparklers. | The date and activity order are directly represented. | Exact clock durations for individual activities are unavailable. |
+| RAG-CHR-083 | RAG-E-V019-011 through RAG-E-V019-017 | Near the date's end, Chizuru's controlled presentation breaks; she cries against Kazuya for roughly ten minutes, then resets and says goodbye at the station. | Breakdown, duration estimate, and station aftermath are ordered in one continuous evening. | The precise start and end times are unstated. |
+| RAG-CHR-084 | RAG-E-V019-018 through RAG-E-V019-020 | After the date, Mini questions Kazuya and then Chizuru; Chizuru also continues ordinary preparation for the coming screening. | Inquiry follows the crying event and precedes the still-future public screening. | Exact day and interval among these follow-up scenes are not securely stated. |

@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
 ---
 
 # Progress and regression ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-row_count: 93
+row_count: 98
 state: CURRENT_THROUGH_V018
 ```
 ```
@@ -147,3 +147,8 @@ state: CURRENT_THROUGH_V018
 | RAG-PRG-102 | Sayuri's health and family bond | TERMINAL_LOSS_WITH_RELATIONAL_CLOSURE — limited responsiveness permits film acknowledgment and reciprocal love before death. | The family promise and direct affection receive a final observable outcome. | Death is irreversible; exact diagnosis and medical mechanism remain unknown. | RAG-E-V018-004, RAG-E-V018-007, RAG-E-V018-008 |
 | RAG-PRG-103 | Chizuru's grief support | NEED_RECOGNIZED_WITH_ACCESS_STALL — Kazuya, Sumi, and Nagomi recognize strain while Chizuru says she is fine and initially declines help. | Grief becomes socially legible despite controlled presentation. | No accepted direct support or crying before Kazuya occurs within V018. | RAG-E-V018-009 through RAG-E-V018-013 |
 | RAG-PRG-104 | Kazuya's support competence | PLANNING_GAIN_WITH_OUTCOME_PENDING — he learns from Sumi, obtains funds, builds an itinerary, and uses a rental request to create bounded access. | Concern becomes a concrete, resourced plan. | Acceptance, usefulness, emotional outcome, and reciprocity remain unobserved. | RAG-E-V018-014 through RAG-E-V018-020 |
+| RAG-PRG-105 | Kazuya's planned support intervention | COMPLETED_ACTION_GAIN — the booking is accepted and the funded itinerary is carried through a ten-hour date. | A prospective plan becomes observable sustained conduct. | Expense and completion do not establish effectiveness or reciprocity by themselves. | RAG-E-V019-001 through RAG-E-V019-010 |
+| RAG-PRG-106 | Chizuru's bereavement support route | MAJOR_ACCEPTED_SUPPORT_GAIN — controlled presentation breaks into prolonged crying, followed by a direct report of relief. | Severe isolation becomes shared bodily experience and later articulated outcome. | One release does not resolve bereavement or determine future access. | RAG-E-V019-011 through RAG-E-V019-020 |
+| RAG-PRG-107 | Kazuya-Chizuru access and trust | GAIN_WITHOUT_RECLASSIFICATION — Chizuru initiates role-framed touch, later seeks unpriced bodily support, and reports relief while retaining the non-boyfriend label. | Access becomes more personally consequential than the booking alone predicts. | Neither principal states mutual romance or a new relationship status. | RAG-E-V019-002, RAG-E-V019-015, RAG-E-V019-020 |
+| RAG-PRG-108 | Mini's intermediary role | INFORMATION_GAIN_WITH_PRESSURE_RISK — she moves from speculation based on Kazuya's guarded account to direct knowledge of Chizuru's experience. | A third party now knows the event's subjective effect. | Her couple-oriented reading may distort later pressure, and the principals have not discussed the report. | RAG-E-V019-018 through RAG-E-V019-020 |
+| RAG-PRG-109 | Ruka's truce and requested outing | STALL_BY_ABSENCE — Ruka and the promised consequence are absent from V019. | The support date advances while the provisional relationship remains unresolved. | Absence neither cancels the request nor predicts its later outcome. | RAG-E-V019-021 |

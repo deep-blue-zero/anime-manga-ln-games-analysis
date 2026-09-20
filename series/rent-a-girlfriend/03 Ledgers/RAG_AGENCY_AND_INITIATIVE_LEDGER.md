@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
 ---
 
 # Agency and initiative ledger
@@ -34,7 +34,7 @@ Update after each eligible volume only when inspected evidence materially affect
 ```yaml
 initialized: true
 inspected_through_volume: V018
-row_count: 106
+row_count: 111
 state: CURRENT_THROUGH_V018
 ```
 
@@ -162,3 +162,8 @@ state: CURRENT_THROUGH_V018
 | RAG-AGY-118 | Sumi | Give verbal sympathy only or construct an experiential lesson. | Ends the paid consultation, buys travel, leads a friend excursion, and models play and direct encouragement. | Converts empathy into a practical support method for Kazuya. | Her method remains untested with Chizuru and her own romantic feeling is not received; RAG-E-V018-014, RAG-E-V018-015. |
 | RAG-AGY-119 | Ruka | Block a Chizuru-focused intervention or allow it while preserving her own request. | Shows sympathy, discusses encouragement, and asks for a later amusement-park outing. | Locally accommodates crisis support without surrendering the trial claim. | The truce, outing, and status remain unresolved; RAG-E-V018-016. |
 | RAG-AGY-120 | Kazuya | Continue informal offers or use Chizuru's professional access route with concrete resources. | Obtains a wage advance, prepares an itinerary, submits a rental request, and promises the best date. | Makes support answerable through scheduled, paid, bounded access. | Acceptance, consent to the itinerary, helpfulness, and emotional result are deferred; RAG-E-V018-017 through RAG-E-V018-020. |
+| RAG-AGY-121 | Chizuru | Refuse or bound the unusually long booking, or participate within the provider role. | Accepts ten hours, chooses and wears an outfit, initiates role-framed handholding, and questions the cost and care purpose. | Exercises active choice inside a paid structure while preserving cost and purpose scrutiny. | Participation and enjoyment do not establish off-contract romance; RAG-E-V019-001 through RAG-E-V019-005. |
+| RAG-AGY-122 | Kazuya | Demand grief disclosure or implement the support plan without making recovery a condition. | Executes the multi-activity itinerary, answers Chizuru's objections, and lets her decide whether to continue. | Turns preparation into sustained care while leaving disclosure and emotional outcome with her. | High spending does not buy grief, touch, or romantic reciprocity; RAG-E-V019-003 through RAG-E-V019-008. |
+| RAG-AGY-123 | Kazuya | Accept the restored smile, accuse Chizuru of concealment, or offer recognition without forced touch. | Identifies the smile as a wall and describes an ideal girlfriend who may cry, then receives rather than initiates contact. | Creates permission for grief while preserving Chizuru's bodily initiative. | One successful intervention does not prove universal accuracy or relationship entitlement; RAG-E-V019-011 through RAG-E-V019-017. |
+| RAG-AGY-124 | Chizuru | Continue denying need, withdraw, or accept support and later describe it. | Crosses the distance, clutches Kazuya while crying, later restores public control, and tells Mini that the release relieved severe loneliness. | Makes both support acceptance and her own interpretation directly observable. | She retains the non-boyfriend classification and does not disclose the report to Kazuya; RAG-E-V019-015, RAG-E-V019-016, RAG-E-V019-020. |
+| RAG-AGY-125 | Mini | Rely on Kazuya's guarded report or seek Chizuru's account directly. | Questions Kazuya, advances a romantic interpretation, then visits Chizuru and elicits her account. | Becomes an information intermediary across an event neither principal discusses directly together. | Her romantic theory is interested and Chizuru explicitly denies boyfriend status; RAG-E-V019-018 through RAG-E-V019-020. |

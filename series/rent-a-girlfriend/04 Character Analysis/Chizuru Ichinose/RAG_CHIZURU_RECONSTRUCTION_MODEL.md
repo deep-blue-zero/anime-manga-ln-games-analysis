@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V018."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V019."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -45,13 +45,14 @@ model_basis:
     - RAG-JP-EPUB-V016
     - RAG-JP-EPUB-V017
     - RAG-JP-EPUB-V018
-  admitted_through_volume: V018
-  narrative_time_boundary: "after Sayuri receives unfinished film footage, Chizuru attempts the central relationship correction, grandmother and granddaughter exchange final love, Sayuri dies, and Chizuru carries grief through controlled funeral conduct and an immediate refusal of help"
+    - RAG-JP-EPUB-V019
+  admitted_through_volume: V019
+  narrative_time_boundary: "after Chizuru accepts a ten-hour care-motivated booking, enjoys its activities, breaks controlled bereavement presentation, cries against Kazuya, restores public composure, and directly reports severe loneliness and relief while retaining the non-boyfriend classification"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.18"
+  model_revision: "1.19"
   prior_knowledge_limitations:
-    - "No post-V018 narrative evidence is admitted."
+    - "No post-V019 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru privately revisits her qualified non-negation and directly values Kazuya's life and work, but Kazuya receives no affirmative romantic answer and no mutual status follows."
 coverage:
@@ -923,7 +924,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S020
 valid_from_source: "V018 0005"
-valid_until_source: null
+valid_until_source: "V019 0004"
 entry_conditions:
   - "Sayuri remains critically ill while the promised film is unfinished and Kazuya has initiated an unknown action."
 active_goals:
@@ -966,6 +967,61 @@ uncertainties:
   - "Whether controlled presentation breaks into direct grief expression before Kazuya."
   - "Whether the film is finished and publicly screened after Sayuri's death."
   - "Whether she communicates any romantic classification to Kazuya."
+~~~
+
+### CHI-S021 — bereaved provider after accepted grief release
+
+~~~yaml
+state_id: CHI-S021
+valid_from_source: "V019 0005"
+valid_until_source: null
+entry_conditions:
+  - "Sayuri has died, Chizuru has maintained controlled funeral conduct, and Kazuya's unusually long rental request is available for acceptance."
+active_goals:
+  - complete the coming public film screening and continue acting-related obligations
+  - retain agency over grief disclosure, bodily support, and relationship classification
+  - resume ordinary functioning without denying the relief she received
+known_propositions:
+  - "Kazuya planned the elaborate date because of Sayuri and had already delivered the bedside projection she values."
+  - "She can enjoy clothing, film, climbing, and food while grief remains active and family cues still breach composure."
+  - "Kazuya's ideal-girlfriend speech recognizes sadness without requiring a direct reply."
+  - "Before crying she felt so lonely she thought she might die, and crying before someone left her refreshed."
+relationship_conditions:
+  - "She initiates role-framed handholding and later initiates unpriced bodily reliance during grief."
+  - "She restores public control after crying and does not discuss the episode with Kazuya in the observed follow-up."
+  - "She tells Mini that Kazuya is not her boyfriend and that she remains his rental girlfriend."
+changed_from_previous:
+  - TEN_HOUR_BOOKING_ACCEPTED
+  - CARE_PURPOSE_RECOGNIZED_AND_QUESTIONED
+  - ACTIVITY_ENJOYMENT_OBSERVED
+  - FAMILY_MEMORY_TRIGGERS_BREACH_CONTROL
+  - GRIEF_WALL_BROKEN
+  - SELF_INITIATED_BODILY_SUPPORT_ACCEPTED
+  - DIRECT_LONELINESS_AND_RELIEF_REPORT
+  - NON_BOYFRIEND_CLASSIFICATION_RETAINED
+evidence_refs:
+  - RAG-E-V019-001
+  - RAG-E-V019-002
+  - RAG-E-V019-003
+  - RAG-E-V019-004
+  - RAG-E-V019-005
+  - RAG-E-V019-006
+  - RAG-E-V019-007
+  - RAG-E-V019-008
+  - RAG-E-V019-009
+  - RAG-E-V019-010
+  - RAG-E-V019-011
+  - RAG-E-V019-013
+  - RAG-E-V019-014
+  - RAG-E-V019-015
+  - RAG-E-V019-016
+  - RAG-E-V019-019
+  - RAG-E-V019-020
+uncertainties:
+  - "Whether relief changes her later willingness to seek or discuss support with Kazuya."
+  - "Whether the public screening is completed and how bereavement affects it."
+  - "How she interprets Kazuya romantically beyond the explicit non-boyfriend classification."
+  - "Whether one acute release changes her longer-term controlled presentation."
 ~~~
 
 ## Behavioral rules
@@ -1136,11 +1192,23 @@ uncertainties:
 - **Disconfirming observation:** comparable terminal family threat produces unconstrained emotional disclosure or factual correction without concern for the recipient's experienced comfort.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and crisis-specific.
 
+### RAG-CHI-R015 — precise recognition can permit grief release without immediate romantic reclassification
+
+- **Scope:** CHI-S021.
+- **Trigger:** Sustained low-demand care is followed by language that recognizes concealed sadness without demanding disclosure, touch, or a relationship answer.
+- **Likely appraisal:** strength and grief need not be mutually exclusive, and accepting another person's presence does not require surrendering classification control.
+- **Likely action range:** resist tears, approach on her own initiative, accept prolonged bodily support, restore public composure afterward, and disclose the subjective effect selectively to a third party.
+- **Inhibitors/escalators:** family-memory cues and accurate recognition escalate release; cost awareness, professional role, and concern about interpretation inhibit open reclassification.
+- **Support:** RAG-E-V019-009 through RAG-E-V019-016, RAG-E-V019-019, RAG-E-V019-020.
+- **Counterevidence/gap:** one acute bereavement episode; later support-seeking, disclosure to Kazuya, and romantic meaning remain unknown.
+- **Disconfirming observation:** comparable precise, non-demanding recognition repeatedly produces only performance or categorical withdrawal under otherwise similar grief conditions.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and bereavement-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V011 places them in explicit disagreement over truth and comfort. V012-V014 add a distinct project relation in which she evaluates, requests, launches, staffs, and promotes the film while controlling personal exposure. V015 adds a qualified non-negation to Umi after she credits Kazuya's restorative support. V016 rejects Kazuya's status hierarchy, allows bounded travel and room access, thanks him while naming the film's family function, completes the final scene, and privately revisits the qualified answer without communicating it to him. V017 shows her coordinate the screening, wait for and thank him again, receive his crisis challenge, and preserve her own decision authority. V018 has her receive his bedside projection, attempt the central correction, and decline immediate help while he remains outside the final family exchange. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, feasibility testing, project-specific consent, controlled coordination, and qualified rather than invented romantic language.
+Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V011 places them in explicit disagreement over truth and comfort. V012-V014 add a distinct project relation in which she evaluates, requests, launches, staffs, and promotes the film while controlling personal exposure. V015 adds a qualified non-negation to Umi after she credits Kazuya's restorative support. V016 rejects Kazuya's status hierarchy, allows bounded travel and room access, thanks him while naming the film's family function, completes the final scene, and privately revisits the qualified answer without communicating it to him. V017 shows her coordinate the screening, wait for and thank him again, receive his crisis challenge, and preserve her own decision authority. V018 has her receive his bedside projection, attempt the central correction, and decline immediate help while he remains outside the final family exchange. V019 has her accept his paid care route, enjoy it, initiate the decisive grief contact, and report relief to Mini while explicitly retaining the non-boyfriend classification. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, feasibility testing, project-specific consent, controlled coordination, self-initiated support under acute grief, and qualified rather than invented romantic language.
 
 ### Toward Nagomi
 
@@ -1164,10 +1232,10 @@ Chizuru knows that Ruka recognizes the rental identity, sincerely wants Kazuya, 
 - **Motivational architecture:** acting ambition, satisfaction-oriented work, income, privacy, family welfare, and fairness are supported. Relative priority under high conflict remains uncertain.
 - **Decision process:** gathers situational information, can reverse a refusal after new evidence, acts practically, and then constrains interpretation through rules.
 - **Models of others:** accurately recognizes Kazuya's desperation and family motive in several scenes; may underestimate how quickly he expands a public story. Evidence is too sparse for a broad theory.
-- **Emotional regulation:** anger and embarrassment are visible, but she usually converts them into direct speech, role performance, or exit rather than prolonged public dysregulation.
+- **Emotional regulation:** anger and embarrassment are usually converted into direct speech, role performance, or exit; V019 adds a prolonged private grief release after controlled presentation fails under family cues and precise recognition.
 - **Agency and competence:** strong within improvisation, presentation, boundary articulation, informed paid performance, controlled referral, and direct moral confrontation. V015-V016 add disciplined on-set preparation, a locally moving take, a completed final performance, and controlled travel decisions; V018 adds attempted truth correction and bereavement duty. Broader career outcome remains underobserved.
 - **Project agency:** can evaluate and launch a proposal, foreground deadline risk, approve source and director routes, join campaign correction, contribute selected rewards, use a professional network, perform as lead, coordinate family access to a dated venue, and receive private bedside projection of unfinished footage. Finished editing and public screening remain unobserved.
-- **Intimacy and dependency:** gives emergency care, permits bounded shared lodging, continues paid contact, and initiates a personalized gift; her qualified non-negation is direct evidence of ambiguity, not a declaration of desire or dependency.
+- **Intimacy and dependency:** gives emergency care, permits bounded shared lodging, continues paid contact, initiates a personalized gift, and chooses bodily reliance during acute grief; her qualified non-negation and later non-boyfriend statement preserve ambiguity rather than declaring desire or dependency.
 - **Contradiction:** strict rules coexist with chosen exceptions. The supported explanation is context-sensitive responsibility plus re-bounding, not hypocrisy or hidden romance by default.
 - **Thresholds:** concrete harm to family or overt public degradation can shift her from refusal/pleasant performance to intervention.
 
@@ -1179,12 +1247,12 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work competes with family care; a practical need creates temporary private access; a researched film proposal requires feasibility review and bounded project consent.
 
-Require extra assumptions: sustained private friendship routine, completed public film exhibition, affirmative romantic confession, sustained cohabitation, sexual intimacy, Mami's later use of the family account, acceptance of Kazuya's planned date, or behavior after V018.
+Require extra assumptions: sustained private friendship routine, completed public film exhibition, affirmative romantic confession, sustained cohabitation, sexual intimacy, Mami's later use of the family account, durable bereavement recovery, or behavior after V019.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
 ## Validation status
 
-V018 validates that Chizuru's comfort-first ethic can coexist with an explicit central correction when Sayuri regains consciousness. She receives film acknowledgment, touch, and reciprocal final love before Sayuri's death, then carries grief through overnight vigil, funeral duty, smiling composure, and an immediate refusal of help. The model abstains on the completeness of Sayuri's factual knowledge, acceptance and outcome of Kazuya's planned date, finished public exhibition, public career outcome, and any affirmative romantic classification.
+V019 validates that Chizuru can accept a paid care route, experience real enjoyment, and still retain agency over its meaning. Family cues breach her controlled presentation; precise recognition precedes her self-initiated collapse, and her later report confirms both severe loneliness and relief. The model abstains on durable recovery, later disclosure to Kazuya, the finished public exhibition, public career outcome, and any affirmative romantic classification.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named professional, family-welfare, identity, vocational, and bounded-care domains. It assigns no global capability grade and preserves motive underdetermination.
