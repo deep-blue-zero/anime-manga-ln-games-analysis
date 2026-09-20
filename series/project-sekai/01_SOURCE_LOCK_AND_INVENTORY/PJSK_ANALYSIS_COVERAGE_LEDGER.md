@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0138
+## Current coverage — all five human units synchronized through EVENT_0139
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0138 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0138`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0139 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0139`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0138 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0139 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0139 is fully integrated:** `VBS-EP-TY-E0125 → VBS-EP-TY-E0139` advances Toya's integrated musical history into a recipient-tested method that joins original admiration, bounded struggle disclosure, technical diagnosis, outside insight, intended sound, and recipient-owned success. New scoped I3 `REL-CROSS-TOYA-KANADE-E0139` records joint aid, parallel family-rooted musical memories, reciprocal craft recognition, mutual instruction offers, and a continuing composition channel. N25, Saki, Tenma, VBS-group, and Street owners receive bounded applications. The verified envelope is 23 stories / 33 scenes / 1,584 records. No universal music-teaching formula, brass-instrument mastery, claim that love alone defeats technical limits, safe or painless persistence, guaranteed child ensemble career, completed Toya–Kanade collaboration, N25 identity disclosure, Mafuyu paternal report or receipt, family reconciliation, permanent VBS readiness for the world, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0138 to EVENT_0139. EVENT_0140 is next and 1 events remain through EVENT_0140.
+
+Causal home: [EVENT_0139 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0139_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0139: 23 stories / 33 scenes / 1,584 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD and Nightcord at 25:00 are CO_PRIMARY/VERY HIGH. Advance `VBS-EP-TY-E0125 → VBS-EP-TY-E0139` and create scoped I3 `REL-CROSS-TOYA-KANADE-E0139`. Preserve `VBS-REL-GROUP-E0135`, `VBS-REL-STREET-VS-HUMANS-1`, `K-E0116-01`, `MF-E0134-01`, `REL-N25-G-7`, `REL-N25-KM-8`, `REL-FAMILY-KANADE-FATHER-E0116`, and `REL-FAMILY-MAFUYU-FATHER-E0134`. Leo/need is SECONDARY/HIGH I2 through preserved `LN-EP-SAKI-E0106`; Wonderlands×Showtime is SECONDARY/MEDIUM I2 through preserved `REL-CROSS-TOYA-TSUKASA-E0016`; MORE MORE JUMP! is RECONSTRUCTION/LOW I1.
+- The shared boundary is EVENT_0139; EVENT_0140 is next and 1 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0138 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0138 is fully integrated:** new I3 `MMJ-EP-AI-E0138` records Airi's tested method of removing a self-assigned specialty boundary, seeking missing technique, integrating it with existing audience skill, and testing the composite publicly. New scoped I3 `MMJ-REL-AIRI-AKARI-E0138` records reciprocal professional admiration and enacted challenge through mutual performance effect, specific credit, direct thanks, and an open shared-purpose horizon. MMJ group, manager, prior Airi, and Stage owners remain distinct. The verified envelope is 29 stories / 49 scenes / 1,456 records. No total performance mastery, safe unlimited training, permanent removal of role assumptions, objective superiority over ReLight, durable fame, causal explanation for the missing work mail, guaranteed future collaboration, private Airi–Akari friendship, formal rivalry, validation of every Hiiragi judgment, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0137 to EVENT_0138. EVENT_0139 is next and 2 events remain through EVENT_0140.
 
@@ -2069,3 +2079,7 @@ The verified group contains 30 stories / 44 scenes / 1,781 records. No literal t
 ### EVENT_0138 source and reconstruction review
 
 The verified group contains 29 stories / 49 scenes / 1,456 records. No total performance mastery, safe unlimited training, permanent removal of role assumptions, objective superiority over ReLight, durable fame, causal explanation for the missing work mail, guaranteed future collaboration, private Airi–Akari friendship, formal rivalry, validation of every Hiiragi judgment, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0139 source and reconstruction review
+
+The verified group contains 23 stories / 33 scenes / 1,584 records. No universal music-teaching formula, brass-instrument mastery, claim that love alone defeats technical limits, safe or painless persistence, guaranteed child ensemble career, completed Toya–Kanade collaboration, N25 identity disclosure, Mafuyu paternal report or receipt, family reconciliation, permanent VBS readiness for the world, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.

@@ -44,3 +44,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0126 — Rise as ONE！](PJSK_EVENT_0126_DEEP_READING.md): complete 23-story envelope; Honami's guidance helps Akito build specific trust with Max and complete one competition without generalizing a cure.
 
 - [EVENT_0132 — みんなで配信♡WEDDING LIVE！](PJSK_EVENT_0132_DEEP_READING.md): complete 23-story mixed envelope; accidental cohosting becomes reciprocal craft rescue, public credit, and chosen ordinary time.
+
+- [EVENT_0139 — 鳴らせビューティフルサウンド！](PJSK_EVENT_0139_DEEP_READING.md): complete 23-story mixed envelope; recovered musical joy becomes Toya's recipient-tested persistence method and a reciprocal Toya–Kanade creative channel.
