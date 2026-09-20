@@ -4,7 +4,7 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -39,9 +39,9 @@ model_basis:
     - RAG-JP-EPUB-V010
   admitted_through_volume: V010
   narrative_time_boundary: "after Chizuru leads a paid dream date, discloses a new stage opportunity, attends the Kinoshita birthday, and contacts Kazuya from Sayuri's hospital setting"
-  basis_checkpoint: null
-  basis_commit: c291c4042d993a48eec25bd5411222826b113179
-  model_revision: "1.9"
+  basis_checkpoint: RAG_CP_V010
+  basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
+  model_revision: "1.10"
   prior_knowledge_limitations:
     - "No post-V010 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
@@ -724,3 +724,5 @@ Abstain whenever the outcome depends on ranking professional pride, family empat
 ## Validation status
 
 V010 validates that Chizuru can treat intimate-looking performance as skilled work, describe that work with pride, and volunteer genuine vocational information in the same paid encounter. Her unbooked family attendance and chosen crisis message extend access while preserving purpose boundaries. The model abstains on romantic self-classification, the new stage outcome, full knowledge of Ruka's prior overnight kiss, Mami's use of the family account, and Sayuri's prognosis.
+
+The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named professional, family-welfare, identity, vocational, and bounded-care domains. It assigns no global capability grade and preserves motive underdetermination.

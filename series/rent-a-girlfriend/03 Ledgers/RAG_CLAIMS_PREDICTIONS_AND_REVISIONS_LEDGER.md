@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010; V010 predictions adjudicated and checkpoint due."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected, closed, and checkpointed through V010; no V011 prediction frozen."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -36,7 +36,7 @@ initialized: true
 inspected_through_volume: V010
 current_claim_count: 26
 frozen_prediction_count: 0
-state: CURRENT_THROUGH_V010__CHECKPOINT_DUE
+state: CHECKPOINTED_THROUGH_V010__NO_NEXT_VOLUME_AUTHORITY
 ```
 
 ## Current claims
@@ -162,6 +162,8 @@ state: CURRENT_THROUGH_V010__CHECKPOINT_DUE
 ## Adjudications and revisions
 
 At the V010 horizon, RAG-PRED-033 through RAG-PRED-035 are supported and RAG-PRED-036 is disconfirmed. The disconfirming case is retained because recorded information and prior initiative did not produce the predicted birthday action within the declared test window. V010 strengthens the commercial-boundary, vocational-support, Mami-investigation, family-access, and provisional-status claims. RAG-CLM-024 records the coexistence of scripted intimacy and genuine vocational exchange; RAG-CLM-025 limits non-booking access by context; RAG-CLM-026 records the growing gap between Ruka's sincere claim and mutual agreement. No V011 prediction is frozen because V011 inspection is outside the authorized block.
+
+The V010 checkpoint preserves the current twenty-six claims, rejects physical or visual intimacy as sufficient proof of mutual consent or relationship status, and revises any simple stagnation account toward domain-specific durable change inside repeated public structures. It downgrades the expectation that newly recorded personal knowledge reliably produces prompt follow-up. Exact checkpoint reasoning is frozen in `02 Block Syntheses/RAG_CP_V010.md`; model-level tests are frozen in `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V010.md`.
 
 ## Open evidence questions
 

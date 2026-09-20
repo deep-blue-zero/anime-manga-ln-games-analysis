@@ -4,7 +4,7 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -27,7 +27,7 @@ character_entity_id: null
 analysis_subject_id: null
 continuity: manga
 inspected_through_volume: V010
-local_readiness: PARTIAL_MODEL
+local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
 ## Record schema

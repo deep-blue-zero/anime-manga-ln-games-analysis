@@ -4,7 +4,7 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -39,9 +39,9 @@ model_basis:
     - RAG-JP-EPUB-V010
   admitted_through_volume: V010
   narrative_time_boundary: "after the paid dream date, Chizuru's new stage disclosure, Ruka's family-party escalation, and Chizuru's direct hospital contact"
-  basis_checkpoint: null
-  basis_commit: c291c4042d993a48eec25bd5411222826b113179
-  model_revision: "1.9"
+  basis_checkpoint: RAG_CP_V010
+  basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
+  model_revision: "1.10"
   prior_knowledge_limitations:
     - "No post-V010 narrative evidence is admitted."
     - "Chizuru re-bounds Kazuya's support language through rental service but supplies no romantic self-classification."
@@ -739,3 +739,5 @@ Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal
 ## Validation status
 
 V010 validates that Kazuya can distinguish paid performance from status while still receiving genuine vocational disclosure and offering direct support. It also preserves the central weakness: family pressure again produces concealment, and Ruka's unilateral escalation remains unresolved. Direct LINE access becomes materially useful in a hospital crisis. The model withholds mature partnership, generalized disclosure, durable execution of stage support, Sayuri's prognosis, Chizuru's romantic self-classification, and Mami's use of the family account.
+
+The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

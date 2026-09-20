@@ -4,7 +4,7 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -37,9 +37,9 @@ model_basis:
     - RAG-JP-EPUB-V010
   admitted_through_volume: V010
   narrative_time_boundary: "after Ruka apologizes for the Mami confrontation, enters Kazuya's family birthday, initiates another kiss, and publicly renews her priority claim"
-  basis_checkpoint: null
-  basis_commit: c291c4042d993a48eec25bd5411222826b113179
-  model_revision: "1.9"
+  basis_checkpoint: RAG_CP_V010
+  basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
+  model_revision: "1.10"
   prior_knowledge_limitations:
     - "No post-V010 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
@@ -508,3 +508,5 @@ Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objec
 ## Validation status
 
 V010 distinguishes local apology from strategic revision. Ruka acknowledges the Mami confrontation, then uses direct birthday access, pursuit into family space, approval competition, another unilateral kiss, and a renewed love claim. RAG-RUK-R001 and RAG-RUK-R002 now include family-audience escalation; RAG-RUK-R005 predicts temporary tactical repair without loss of the larger goal. Local readiness remains PARTIAL_MODEL because her own family life, school routine, informed response to Kazuya's stage support, reaction to the hospital crisis, and long-term conduct are sparse.
+
+The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.
