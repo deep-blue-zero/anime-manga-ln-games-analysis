@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0121
+## Current coverage — all five human units synchronized through EVENT_0122
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0121 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0121`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0122 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0122`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0121 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0122 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0122 is fully integrated:** `MMJ-EP-MN-E0017 → MMJ-EP-MN-E0122` advances Minori's hope method to disappointed audiences she cannot satisfy by substitution. `MMJ-REL-GROUP-06 → MMJ-REL-GROUP-E0122` records a completed professional stress test and secured independent work base. New bounded I2 `MMJ-REL-GROUP-LANDLORD-E0122` records selection, key transfer, access, and reciprocal care while the landlord's past remains unconfirmed. The verified envelope is 27 stories / 47 scenes / 1,578 records. No universal audience conversion, equivalence to LiLia, guaranteed television success, completed move-in operations, safe workload, stable revenue, mass fame, confirmed legendary-idol identity for the landlord, formal mentorship, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0121 to EVENT_0122. EVENT_0123 is next and 18 events remain through EVENT_0140.
+
+Causal home: [EVENT_0122 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0122_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0122: 27 stories / 47 scenes / 1,578 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! is PRIMARY/VERY HIGH I3. Advance `MMJ-EP-MN-E0017 → MMJ-EP-MN-E0122` and `MMJ-REL-GROUP-06 → MMJ-REL-GROUP-E0122`; create bounded I2 `MMJ-REL-GROUP-LANDLORD-E0122`. Preserve `MMJ-EP-MN-E0098`, `MMJ-REL-GROUP-SAITO-E0111`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02`. Leo/need is REPORTED_CONTEXT/LOW I1; Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0122; EVENT_0123 is next and 18 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0121 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0121 is fully integrated:** Leo/need becomes a leader-coordinated professional band. `LN-EP-HONAMI-E0010 → LN-EP-HONAMI-E0121` advances care into drum-led ensemble guidance, and `LN-REL-G-E0020 → LN-REL-G-E0121` records a shared listener-facing purpose, unanimous leader appointment, demonstrated coordination, and scheduled debut. Solis, the other individual operatives, and School-singer topology remain proportionally preserved. The verified envelope is 24 stories / 42 scenes / 1,526 records. No unilateral leader authority, permanent technical mastery, safe workload practice, completed debut performance or release, confirmed festival placement, commercial success, guaranteed future cohesion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0120 to EVENT_0121. EVENT_0122 is next and 19 events remain through EVENT_0140.
 
@@ -1831,3 +1841,7 @@ The verified group contains 23 stories / 55 scenes / 1,636 records. No new I3 op
 ### EVENT_0121 source and reconstruction review
 
 The verified group contains 24 stories / 42 scenes / 1,526 records. No unilateral leader authority, permanent technical mastery, safe workload practice, completed debut performance or release, confirmed festival placement, commercial success, guaranteed future cohesion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0122 source and reconstruction review
+
+The verified group contains 27 stories / 47 scenes / 1,578 records. No universal audience conversion, equivalence to LiLia, guaranteed television success, completed move-in operations, safe workload, stable revenue, mass fame, confirmed legendary-idol identity for the landlord, formal mentorship, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
