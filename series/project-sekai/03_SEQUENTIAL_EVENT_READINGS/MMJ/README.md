@@ -11,7 +11,15 @@ do_not_use_as_current_authority: false
 
 # MMJ
 
-Current ordered authority: the MMJ main-story foundation is complete. EVENT_0001 I1 and EVENT_0002–0003 NONE/I0 precede EVENT_0004 I3 school relationships; four MS-04 human defaults remain. Later complete-envelope readings retain pending interpretation until their intervening routes are integrated.
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current ordered authority
+
+[MORE MORE JUMP! EVENT_0029–0090 backfill checkpoint](PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) resolves every formerly deferred founded-unit route and every documentary I0 cell in that interval. Together with the integrated EVENT_0001–0028 and EVENT_0091–0098 histories, MORE MORE JUMP! now has continuous event-history tracking through `EVENT_0098`. Older deferred statements below preserve their historical transaction boundaries and are superseded for current coverage by this checkpoint.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
+Current ordered authority: [EVENT_0011](PJSK_EVENT_0011_DEEP_READING.md) integrates Shizuku's operative I3 and the group's I2 public launch after [EVENT_0005](PJSK_EVENT_0005_DEEP_READING.md); four MS-04 humans and `MMJ-REL-GROUP-06` remain. The next pending historical screen is EVENT_0012. Later complete-envelope readings retain pending interpretation until intervening routes are integrated.
+
+Historical foundation/EVENT5 snapshot: the MMJ main-story foundation is complete. EVENT_0001 I1 and EVENT_0002–0003 NONE/I0 precede EVENT_0004 I3 school relationships and EVENT_0005 I3 freelance/shared production. The single-event checkpoint then stopped before EVENT_0006.
 
 This directory mirrors an empty folder in the supplied Project SEKAI Drive analytical corpus at import time. This README preserves the folder in Git; it is not a completed analytical artifact.
 
@@ -24,3 +32,19 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 [EVENT_0085](PJSK_EVENT_0085_DEEP_READING.md) adds 26 canonical surfaces on Shizuku's public self-authorship, former-group history, unequal opportunity, incomplete reconciliation and reciprocal care. MMJ PRIMARY/VERY_HIGH/R3-yield and the direct Shiho sibling-support route remain deferred pending their intervening ordered routes. N25 is I0; Stage manifestations retain their distinct experience and knowledge limits.
 
 - [EVENT_0004 — founded MMJ interpretation](PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md): EVENT_0001 I1 and EVENT_0002–0003 NONE/I0 precede EVENT_0004 I3 school relationships; four MS-04 human defaults remain. All six ledger dispositions are reconciled; no mature reconstruction or final-synthesis readiness is implied.
+
+- [EVENT_0005 — choosing how these four can be idols](PJSK_EVENT_0005_DEEP_READING.md): all 18 source responsibilities, I3 unit/operative knowledge change, differentiated ordinary behavior and exact recipient limits; six ledgers and reconstruction review integrated, no mature package certified.
+
+- [EVENT_0011 — Color of Myself！](PJSK_EVENT_0011_DEEP_READING.md): complete 33-story envelope; Shizuku operative I3, group streaming I2 with four MS-04 humans and GROUP-06 retained, other human units I0. Stage Luka's arrival, mixed fan response and separate knowledge receipts remain bounded.
+
+- [EVENT_0017 — 届け！HOPEFUL STAGE♪](PJSK_EVENT_0017_DEEP_READING.md): complete 25-story envelope; `MMJ-EP-MN-E0017` operative I3 for an enacted recipient-specific hope model, MMJ group and established mentorship dyads I2, Leo/need ordinary I1, VBS/WxS/N25 I0. Seven undated area unlocks and Stage singer receipts remain bounded.
+
+- [EVENT_0022 — お悩み聞かせて！わくわくピクニック](../N25/PJSK_EVENT_0022_DEEP_READING.md): complete 26-story mixed N25/MMJ envelope; new `REL-CROSS-ENA-AIRI-E0022` records durable cross-unit friendship at I3. `REL-N25-EMZ-1`, Rui–Mizuki, family, MMJ-group and Stage routes receive bounded I1/I2 evidence while disclosure remains unresolved.
+
+- [EVENT_0023 — 頑張るあなたにBreak Time！](PJSK_EVENT_0023_DEEP_READING.md): complete 29-story envelope; new `MMJ-EP-HR-E0023` records Haruka's enacted self-directed-rest distinction at I3 while existing humans/group remain. New `MMJ-VS-STAGE-MEIKO-E0023` is manifestation-local; dyad, class and An routes stay bounded.
+
+- [EVENT_0092 — Re-tie Friendship](PJSK_EVENT_0092_DEEP_READING.md): complete 26-story envelope; new `MMJ-EP-AI-E0092` records Airi's bounded communication method, new `MMJ-REL-AIRI-AYUMI-E0092` records restored reciprocal access, and new `MMJ-VS-STAGE-KAITO-E0092` records a Stage-local I2 role, while `MMJ-REL-GROUP-06` remains strong I2 and all cross-unit/manifestation routes stay recipient-bounded.
+
+- [EVENT_0094 — One-Day Trip Before Setting Sail](PJSK_EVENT_0094_DEEP_READING.md): complete 23-story envelope; new `MMJ-EP-HR-E0094` records Haruka's chosen-friendship procedure, `MMJ-EP-HR-E0023` remains separate, and only `REL-CROSS-LN-MMJ-SCHOOL-E0001` / `REL-CROSS-ICHIKA-NENE-E0013` increment at strong I2 while MMJ group and Stage topology remain preserved.
+
+- [EVENT_0098 — STEP by STEP！](PJSK_EVENT_0098_DEEP_READING.md): complete 24-story envelope; sole new `MMJ-EP-MN-E0098` structural-choice operative I3, bounded local `MMJ-VS-STAGE-LEN-E0098` I2 distinct from Stage KAITO, and preserved Minori, Haruka, MMJ, school, cross-unit, and Stage authority with transition outcomes open.
