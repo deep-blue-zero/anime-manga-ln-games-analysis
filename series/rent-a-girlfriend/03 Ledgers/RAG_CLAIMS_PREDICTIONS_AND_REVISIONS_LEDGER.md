@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014; predictions frozen before V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015; predictions frozen before V016."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-current_claim_count: 42
+inspected_through_volume: V015
+current_claim_count: 48
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V014__PREDICTIONS_FROZEN_FOR_V015
+state: CURRENT_THROUGH_V015__PREDICTIONS_FROZEN_FOR_V016
 ```
 
 ## Current claims
@@ -85,6 +85,12 @@ state: CURRENT_THROUGH_V014__PREDICTIONS_FROZEN_FOR_V015
 | RAG-CLM-040 | Mini's creator and crowdfunding literacy is consequential labor, while her romantic interpretations remain separate claims requiring independent evidence. | STRONG_INFERENCE | RAG-E-V014-004, RAG-E-V014-005, RAG-E-V014-011 through RAG-E-V014-013, RAG-E-V014-019 | Her campaign work is observed; her relationship claim is not yet tested by Chizuru's response. | ADDED and supported in V014; extends RAG-CLM-036. |
 | RAG-CLM-041 | Chizuru governs project exposure by calibrated consent: she can offer image, story, labor, and personal property while preserving a distinct intimate boundary and withholding romantic reclassification. | STRONG_INFERENCE | RAG-E-V014-003, RAG-E-V014-007, RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-016, RAG-E-V014-017 | The later reward publication and response to Mini's disclosure are unknown. | ADDED and supported in V014. |
 | RAG-CLM-042 | Ruka's rivalry can coexist with costly prosocial support when Kazuya's burden is concrete, without repairing the unresolved provisional relation or consent history. | STRONG_INFERENCE | RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015, RAG-E-V014-020 | One flyer sequence does not establish durable subordination of rivalry or broader change. | ADDED and supported in V014. |
+| RAG-CLM-043 | An unauthorized third-party disclosure can change information and interaction without making the discloser's romantic interpretation authoritative. | STRONG_INFERENCE | RAG-E-V015-001, RAG-E-V015-002 | Chizuru responds and conduct changes, but Mini's confidence remains her inference. | ADDED and supported in V015. |
+| RAG-CLM-044 | Chizuru's direct classification shifts from separating gratitude and romance to a qualified non-negation, but the shift remains ambivalent and creates no mutual status. | STRONG_INFERENCE | RAG-E-V014-017, RAG-E-V015-005, RAG-E-V015-007 | The paired statements include explicit negation, no affirmative confession, and no response from Kazuya. | ADDED and supported in V015. |
+| RAG-CLM-045 | Distributed promotional labor becomes financially consequential when it crosses an all-or-nothing threshold; gross support, net transfer, and total bank balance remain distinct quantities. | STRONG_INFERENCE | RAG-E-V015-003, RAG-E-V015-004, RAG-E-V015-008, RAG-E-V015-009 | The evidence cannot allocate marginal causal value among tactics or treat the account balance as campaign support. | ADDED and supported in V015. |
+| RAG-CLM-046 | Umi's campaign help and romantic self-positioning coexist, so useful social capital does not require assigning either pure altruism or a proved quid pro quo. | STRONG_INFERENCE | RAG-E-V015-003, RAG-E-V015-006 through RAG-E-V015-008 | Timing and topic shift support mixed motives, but no explicit bargain or coercive condition is stated. | ADDED and supported in V015. |
+| RAG-CLM-047 | The film converts Kazuya's attachment-driven preparation into an operational producer role inside specialist-led production, where his value lies largely in coordination, endurance, and bottleneck removal rather than artistic command. | STRONG_INFERENCE | RAG-E-V015-010 through RAG-E-V015-015 | Principal photography is incomplete, bodily risk complicates competence, and Tabuse and crew hold specialist authority. | ADDED and supported in V015. |
+| RAG-CLM-048 | Ruka can repeat project-first cooperation when Sayuri's welfare and Kazuya's burden are concrete, while rivalry and the unresolved provisional relation remain intact. | STRONG_INFERENCE | RAG-E-V014-015, RAG-E-V015-004, RAG-E-V015-017 | Two campaign sequences do not establish generalized restraint or repair earlier consent failures. | ADDED and supported in V015; strengthens RAG-CLM-042. |
 
 ## Competing hypotheses
 
@@ -195,9 +201,9 @@ state: CURRENT_THROUGH_V014__PREDICTIONS_FROZEN_FOR_V015
 
 ## Adjudications and revisions
 
-At the V014 horizon, RAG-PRED-049 through RAG-PRED-052 are supported. The campaign gains hundreds of backers before stalling; Mini becomes an active strategist; Kazuya secures source permission and a director route; and public exposure creates analytics, reward, flyer, and platform-recommendation work. V014 adds distributed project agency, attachment converted into production labor, separation of Mini's expertise from her romantic interpretation, calibrated exposure, and rivalry-compatible support as RAG-CLM-038 through RAG-CLM-042.
+At the V015 horizon, RAG-PRED-053 through RAG-PRED-056 are supported. Mini's disclosure changes interaction and produces discussion; final-day tactics and Umi's reach precede a funded close; specialist agreements become a functioning shoot; and Ruka repeats project labor while regulating rivalry. V015 adds disclosure consequence without interpretive authority, Chizuru's qualified non-negation, exact funding distinctions, mixed social-capital motives, operational producer labor, and repeated rivalry-compatible support as RAG-CLM-043 through RAG-CLM-048.
 
-The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V014 continues the next block without revising that historical checkpoint. Its close raises the live claim count to forty-two and freezes four prospective tests for V015.
+The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V015 continues the next block without revising that historical checkpoint. Its close raises the live claim count to forty-eight and freezes four prospective tests for V016.
 
 ## Adjudicated predictions from the V012 boundary
 
@@ -217,14 +223,23 @@ The V010 checkpoint remains the latest block synthesis and local reconstruction 
 | RAG-PRED-051 | SUPPORTED | Story search, adaptation outreach, repeated director contact, permission, and crew recruitment occur; RAG-E-V014-007 through RAG-E-V014-009. | Agreements precede actual preproduction and filming. |
 | RAG-PRED-052 | SUPPORTED | Publication creates a stalled-audience problem, analytics review, reward redesign, flyer distribution, and conditional platform-recommendation work; RAG-E-V014-010 through RAG-E-V014-014, RAG-E-V014-018. | No privacy breach or reputational harm is established. |
 
-## Frozen predictions for V015
+## Adjudicated predictions from the V014 boundary
+
+| Prediction ID | Adjudication | V015 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-053 | SUPPORTED | Chizuru responds defensively and acts more coldly; Mini and Kazuya discuss the disclosure, and Chizuru later supplies a qualified non-negation; RAG-E-V015-001, RAG-E-V015-002, RAG-E-V015-007. | Response does not validate Mini's interpretation or establish reciprocity. |
+| RAG-PRED-054 | SUPPORTED | Umi's post produces visible audience response, and the campaign closes at 1,850,000 yen against a 1,820,000-yen target; RAG-E-V015-008, RAG-E-V015-009. | Marginal attribution among simultaneous tactics remains unknown. |
+| RAG-PRED-055 | SUPPORTED | The project advances beyond preproduction into a scheduled, staffed shoot under Tabuse; RAG-E-V015-011 through RAG-E-V015-015. | Principal photography, postproduction, and delivery remain incomplete. |
+| RAG-PRED-056 | SUPPORTED | Ruka endorses the Umi route, checks Kazuya's rivalry response, and performs final-day flyer labor; RAG-E-V015-004. | Cooperation remains local and the provisional relation persists. |
+
+## Frozen predictions for V016
 
 | Prediction ID | Observable expectation | Source basis | Disconfirmation |
 |---|---|---|---|
-| RAG-PRED-053 | Mini's direct statement that Kazuya likes Chizuru will produce an observable response, relationship discussion, or changed interaction. | RAG-E-V014-017, RAG-E-V014-019 | V015 supplies no response or consequence. |
-| RAG-PRED-054 | The revised campaign strategy will produce a measurable support, reach, reward, or platform-promotion change. | RAG-E-V014-010 through RAG-E-V014-013, RAG-E-V014-018 | V015 shows no campaign consequence from the new tactics. |
-| RAG-PRED-055 | The secured source and director route will produce at least one concrete preproduction step such as screenplay work, casting, location planning, test shooting, or scheduling. | RAG-E-V014-007 through RAG-E-V014-009 | Production capacity does not advance in V015. |
-| RAG-PRED-056 | Ruka's participation in the film effort will produce at least one further project action or rivalry-shaped conflict. | RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015 | Her project role has no V015 consequence. |
+| RAG-PRED-057 | Active principal photography will produce at least one concrete completion, pickup, travel, postproduction, scheduling, or resource consequence. | RAG-E-V015-011 through RAG-E-V015-015 | V016 shows no further production consequence. |
+| RAG-PRED-058 | Chizuru's demonstrated on-camera work will produce an explicit evaluation, opportunity, visibility, rehearsal choice, or production decision. | RAG-E-V015-013, RAG-E-V015-015 | Her acting has no observable V016 consequence. |
+| RAG-PRED-059 | Kazuya's producer labor and unsafe bottleneck response will produce a direct interpersonal, crew, health, or role consequence beyond his private self-appraisal. | RAG-E-V015-012, RAG-E-V015-014 | No one responds and his conduct changes nothing beyond the completed take. |
+| RAG-PRED-060 | The widening film-and-career relation will produce an observable question, negotiation, or pressure concerning Kazuya's future role, access, or distance from Chizuru. | RAG-E-V015-005, RAG-E-V015-007, RAG-E-V015-016 | V016 contains no such status or access consequence. |
 
 ## Open evidence questions
 
@@ -238,6 +253,6 @@ The V010 checkpoint remains the latest block synthesis and local reconstruction 
 - How will Kazuya address Ruka's repeated unilateral kisses and widening status conflict?
 - What diagnosis, prognosis, and disclosure decision follow Sayuri's hospitalization?
 - What consequence follows Kazuya's custody of the family ring after no V012 use?
-- Can Kazuya and Chizuru convert a researched proposal and joint promise into a feasible campaign and completed film?
+- Can Kazuya and Chizuru convert a funded campaign and active shoot into a completed, edited, and exhibited film?
 - How will Chizuru exercise agency inside the film project, and which third parties will supply missing production competence?
 - Can Sumi's consequential emotional support coexist with an unheard confession without distorting the practice relationship?

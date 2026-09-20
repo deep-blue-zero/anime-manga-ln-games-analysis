@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V014, with V012-V013 negative-evidence review."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V015, with V012-V013 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -39,13 +39,14 @@ model_basis:
     - RAG-JP-EPUB-V012
     - RAG-JP-EPUB-V013
     - RAG-JP-EPUB-V014
-  admitted_through_volume: V014
-  narrative_time_boundary: "after Ruka joins the film campaign strategy and performs public flyer labor for a project centered on Chizuru"
+    - RAG-JP-EPUB-V015
+  admitted_through_volume: V015
+  narrative_time_boundary: "after Ruka endorses Chizuru's Umi route, checks Kazuya's jealousy, and repeats final-day project labor"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.12"
+  model_revision: "1.13"
   prior_knowledge_limitations:
-    - "No post-V014 narrative evidence is admitted."
+    - "No post-V015 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -458,7 +459,7 @@ uncertainties:
 ~~~yaml
 state_id: RUK-S011
 valid_from_source: "V014 0126"
-valid_until_source: null
+valid_until_source: "V015 0046"
 entry_conditions:
   - "The film campaign is stalled, Mini convenes a recovery team, and Kazuya's burden is directly visible."
 active_goals:
@@ -486,6 +487,41 @@ evidence_refs:
 uncertainties:
   - "Whether project cooperation persists when rivalry becomes immediate again."
   - "Whether helping the film changes her treatment of Kazuya's refusal or Chizuru's priority."
+~~~
+
+### RUK-S012 — rival regulating an immediate threat for project welfare
+
+~~~yaml
+state_id: RUK-S012
+valid_from_source: "V015 0047"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru proposes using Umi's large audience on the campaign's final day, creating both a project opportunity and an immediate rivalry cue."
+active_goals:
+  - help the campaign reach its target for Sayuri
+  - keep Kazuya focused on useful final-day work
+  - preserve her romantic claim while tolerating Chizuru's contact with Umi
+known_propositions:
+  - "Umi's audience can materially expand campaign reach."
+  - "Kazuya is reacting jealously and the final day leaves little time."
+  - "Chizuru says Umi is an acting colleague, while the project still needs outreach."
+relationship_conditions:
+  - "Ruka remains Chizuru's rival but accepts a tactic that benefits Chizuru and requires trust in her professional contact."
+  - "Ruka can correct Kazuya's rivalry response while continuing to seek him romantically."
+  - "The provisional relation and prior consent failures remain unresolved."
+changed_from_previous:
+  - IMMEDIATE_RIVALRY_CUE_CONTAINED
+  - UMI_ROUTE_ENDORSED
+  - KAZUYA_JEALOUSY_CHECKED
+  - SAYURI_WELFARE_INVOKED
+  - FINAL_DAY_LABOR_REPEATED
+evidence_refs:
+  - RAG-E-V015-004
+  - RAG-E-V015-017
+uncertainties:
+  - "Whether project-first regulation persists after the funding emergency."
+  - "Whether similar restraint applies when no third-party welfare goal is available."
+  - "Whether she will address status and consent directly."
 ~~~
 
 ## Behavioral rules
@@ -547,15 +583,15 @@ uncertainties:
 - Disconfirming observation: repeated comparable concrete harm or refusal followed by unchanged immediate escalation.
 - Class/confidence: WORKING_HYPOTHESIS; low-to-moderate within V005.
 
-### RAG-RUK-R006 — visible burden can redirect rivalry into costly support without revising the romantic goal
+### RAG-RUK-R006 — visible burden and shared welfare can redirect rivalry into costly support without revising the romantic goal
 
-- Scope: RUK-S011.
-- Trigger: Kazuya's effort and distress are concrete, and a shared external task offers a way to help.
+- Scope: RUK-S011 through RUK-S012.
+- Trigger: Kazuya's effort, a shared welfare goal, or a measurable project emergency is concrete and offers a useful task.
 - Likely appraisal: work for the project is justified as support for Kazuya even when it benefits Chizuru.
-- Likely action range: join group strategy, accept an assigned task, prepare promotional material, tolerate public rejection, and use collective project language.
-- Inhibitors/escalators: immediate romantic comparison may inhibit cooperation; visible exhaustion and a measurable all-or-nothing threat escalate it.
-- Support: RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015.
-- Counterevidence/gap: one short campaign sequence; no later conflict tests durability.
+- Likely action range: join group strategy, accept an assigned task, endorse a rival's high-reach route, check jealousy, invoke the beneficiary, tolerate public rejection, and use collective project language.
+- Inhibitors/escalators: direct status threat may inhibit cooperation; visible exhaustion, Sayuri's welfare, and a measurable all-or-nothing deadline escalate it.
+- Support: RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015, RAG-E-V015-004.
+- Counterevidence/gap: two connected campaign sequences; no post-funding test of durability.
 - Disconfirming observation: comparable visible burden produces sabotage, refusal, or purely competitive action despite a feasible shared task.
 - Class/confidence: WORKING_HYPOTHESIS; low and project-specific.
 
@@ -592,12 +628,12 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, or any post-V014 Ruka conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, or any post-V015 Ruka conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
-V014 adds a different redirection test: Kazuya's visible burden and the campaign's measurable risk produce cooperative flyer labor for Chizuru's film without dissolving Ruka's larger romantic goal. RAG-RUK-R006 is therefore limited to concrete shared tasks, while RAG-RUK-R005 remains the stronger rule for third-party crisis and the V011 consent counterevidence remains intact. Local readiness remains PARTIAL_MODEL because her own family life, school routine, response to a definitive end of the trial, and long-term conduct are sparse.
+V015 strengthens the project-redirection rule under a harder discriminator: Umi creates an immediate rivalry cue, yet Ruka endorses Chizuru's high-reach route, checks Kazuya's jealousy, invokes Sayuri, and repeats final-day labor. RAG-RUK-R006 remains limited to concrete shared tasks and welfare deadlines; RAG-RUK-R005 remains the stronger rule for third-party crisis, and the V011 consent counterevidence remains intact. Local readiness remains PARTIAL_MODEL because her own family life, school routine, response to a definitive end of the trial, and long-term conduct are sparse.
 
 The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.

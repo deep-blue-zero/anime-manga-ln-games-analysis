@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-row_count: 71
-state: CURRENT_THROUGH_V014
+inspected_through_volume: V015
+row_count: 77
+state: CURRENT_THROUGH_V015
 ```
 ```
 
@@ -125,3 +125,9 @@ state: CURRENT_THROUGH_V014
 | RAG-PRG-080 | Kazuya's project competence | GAIN_UNDER_PUBLIC_REJECTION — he sustains story search, specialist negotiation, direct expense, and flyer work while funding stalls. | Devotion is converted into revisable, distributed labor. | Self-blame and weak personal finances remain risks. | RAG-E-V014-007 through RAG-E-V014-010, RAG-E-V014-014 |
 | RAG-PRG-081 | Ruka's project participation | GAIN_WITH_UNRESOLVED_RIVALRY — she performs unpriced public labor for the film and adopts collective language. | Her conduct expands beyond competition for Kazuya. | No repair of provisional status or prior unilateral intimacy occurs. | RAG-E-V014-015, RAG-E-V014-020 |
 | RAG-PRG-082 | Kazuya-Chizuru romantic information | PRESSURE_INCREASE_WITHOUT_RECLASSIFICATION — Chizuru distinguishes gratitude from romance before Mini tells her that Kazuya likes her. | The central preference becomes direct information rather than observer-only inference. | Her response and any mutual discussion are deferred. | RAG-E-V014-017, RAG-E-V014-019 |
+| RAG-PRG-083 | Kazuya-Chizuru romantic information | QUALIFIED_RECLASSIFICATION_WITHOUT_MUTUALITY — Chizuru contests Mini's conclusion, then tells Umi it is not that she does not like Kazuya. | Flat romantic negation becomes harder to maintain as a complete account. | The statement includes explicit negation, remains unknown to Kazuya, and creates no mutual status. | RAG-E-V015-001, RAG-E-V015-005, RAG-E-V015-007 |
+| RAG-PRG-084 | Campaign funding | MAJOR_GAIN — the all-or-nothing threshold is crossed and 1,535,500 yen is transferred after fees. | The private promise gains usable production finance. | Final support exceeds the target by only 30,000 yen, attribution is distributed, and later costs remain unknown. | RAG-E-V015-008, RAG-E-V015-009 |
+| RAG-PRG-085 | Film production capacity | MAJOR_GAIN_WITH_DELIVERY_GAP — a scheduled cast and crew conduct principal photography under Tabuse. | Source and director routes become filmed scenes rather than preparatory agreements. | Remaining photography, postproduction, exhibition, and delivery are open. | RAG-E-V015-011 through RAG-E-V015-015 |
+| RAG-PRG-086 | Kazuya's project competence | GAIN_WITH_SAFETY_COST — he coordinates logistics and removes a time-sensitive sound bottleneck. | His producer role becomes useful inside a real set. | He remains inexperienced and nearly falls while solving the problem. | RAG-E-V015-011, RAG-E-V015-012, RAG-E-V015-014 |
+| RAG-PRG-087 | Chizuru's acting route | GAIN_IN_RECORDED_OUTPUT — preparation and direction yield a completed crying take that moves crew members. | The career goal now has project-specific filmed evidence and local reception. | No public release, professional offer, or broad evaluation follows yet. | RAG-E-V015-013, RAG-E-V015-015 |
+| RAG-PRG-088 | Truth, ring, Ruka, and Mami routes | STALL_BY_ABSENCE — none is resolved while funding and filming advance. | Project progress remains domain-specific. | Romantic ambiguity and project success do not correct dormant obligations. | RAG-E-V015-017 |

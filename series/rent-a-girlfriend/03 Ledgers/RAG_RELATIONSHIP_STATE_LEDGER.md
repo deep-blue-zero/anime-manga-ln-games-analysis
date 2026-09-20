@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-row_count: 67
-state: CURRENT_THROUGH_V014
+inspected_through_volume: V015
+row_count: 72
+state: CURRENT_THROUGH_V015
 ```
 ```
 
@@ -121,3 +121,8 @@ state: CURRENT_THROUGH_V014
 | RAG-REL-076 | Kazuya ↔ Itohara and Tabuse | Producer seeking specialist collaboration | Requests adaptation permission and repeatedly approaches a director until story and directing routes are secured. | Attachment-driven work becomes a multi-party production relation. | Exact contracts, completed screenplay, and delivery remain unknown. | RAG-E-V014-007 through RAG-E-V014-009 |
 | RAG-REL-077 | Ruka → Kazuya / film team | Rival becoming costly project supporter | Accepts a strategy role and joins public flyer distribution for "our" project after expressing concern for Kazuya. | Sincere support coexists with romantic competition. | The provisional relation and prior consent conflict remain unresolved. | RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015, RAG-E-V014-020 |
 | RAG-REL-078 | Chizuru → Kazuya / Mini | Grateful collaborator maintaining classification and privacy | Permits personal-item rewards, blocks intimate dresser access, calls Kazuya kind, and separates film gratitude from romance before Mini states his preference. | Project exposure and relationship information reach a new threshold. | Chizuru's response to the direct claim is not shown. | RAG-E-V014-016, RAG-E-V014-017, RAG-E-V014-019 |
+| RAG-REL-079 | Chizuru ↔ Mini / Kazuya | Disclosure-aware collaborators under relational discomfort | Chizuru contests Mini's interpretation and acts more coldly toward Kazuya; Kazuya later learns what Mini said. | All three now know that the preference claim is active inside the project group. | Chizuru and Kazuya do not directly resolve it, and Mini's disclosure was unauthorized. | RAG-E-V015-001, RAG-E-V015-002 |
+| RAG-REL-080 | Chizuru ↔ Umi | Acting colleagues with useful reach and asymmetric romantic probing | Chizuru accepts a play invitation, describes the project, refuses dinner, and receives promotion after Umi discloses a breakup and asks about Kazuya. | Professional network access and romantic self-positioning occupy the same encounter. | No bargain, coercion, or new couple status is established. | RAG-E-V015-003, RAG-E-V015-005 through RAG-E-V015-008 |
+| RAG-REL-081 | Chizuru → Kazuya | Grateful project principal with qualified romantic non-negation | Credits his effort with restoring action and tells Umi it is not that she does not like him. | Her earlier gratitude-only boundary becomes a less categorical private classification. | Kazuya does not hear it, and no mutual acknowledgment follows. | RAG-E-V015-005, RAG-E-V015-007 |
+| RAG-REL-082 | Kazuya ↔ Chizuru | Producer and lead actress inside specialist-led filming | Observe role distance, work under Tabuse, and contribute different labor to a completed take. | Their voluntary project relation becomes sustained on-set interdependence. | Collaboration, admiration, and local reception create no romantic entitlement or future-status guarantee. | RAG-E-V015-011 through RAG-E-V015-016 |
+| RAG-REL-083 | Ruka → Kazuya / Chizuru / film team | Rival repeating project-first support | Endorses Chizuru's high-reach route, checks Kazuya's jealousy, and performs final-day outreach for Sayuri's film. | Cooperative action survives an immediate Umi rivalry cue. | Her romantic claim, provisional label, and consent history remain unresolved. | RAG-E-V015-004, RAG-E-V015-017 |

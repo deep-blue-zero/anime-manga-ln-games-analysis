@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-row_count: 56
-state: CURRENT_THROUGH_V014
+inspected_through_volume: V015
+row_count: 60
+state: CURRENT_THROUGH_V015
 ```
 
 ## Records
@@ -107,3 +107,7 @@ state: CURRENT_THROUGH_V014
 | RAG-CHR-063 | RAG-E-V014-009, RAG-E-V014-010 | By the director meeting, the summer production has a source and director; with fourteen campaign days left, support has stalled near 837,000 yen and 328 backers. | Deadline and campaign metrics are explicit. | The elapsed interval between the meeting and displayed analytics is not precise. |
 | RAG-CHR-064 | RAG-E-V014-011 through RAG-E-V014-015 | Analytics review leads directly to the four-person strategy meeting and next-day flyer distribution by Kazuya and Ruka. | Strategy-to-execution order is explicit. | The exact date and duration of flyer work are unstated. |
 | RAG-CHR-065 | RAG-E-V014-016 through RAG-E-V014-019 | Reward-item selection in room 204 proceeds while platform recommendation is discussed; Mini then tells Chizuru that Kazuya likes her. | Same-operation ordering and the volume endpoint are explicit. | Chizuru's response belongs to V015 or later evidence. |
+| RAG-CHR-066 | RAG-E-V015-001 through RAG-E-V015-004 | Mini's disclosure receives an immediate response; the group then plans the campaign's July 28 final day, with Chizuru taking the Umi route and Kazuya, Ruka, and Mini covering flyers. | Direct V014 continuation and final-day date are explicit. | Exact elapsed days between the disclosure and meeting are unstated. |
+| RAG-CHR-067 | RAG-E-V015-005 through RAG-E-V015-009 | After the play, Umi's breakup disclosure and relationship questions precede Chizuru's return to outreach, his promotional post, and the funded campaign close. | Dialogue and final-day sequence are continuous. | The precise minute of each pledge and tactic-specific causation are unknown. |
+| RAG-CHR-068 | RAG-E-V015-009 through RAG-E-V015-011 | Funding closes at 1,850,000 yen; summer vacation begins, and by August 17 roughly half a month of filming has passed. | Financial close, seasonal transition, date, and elapsed interval are stated. | Exact dates of each intervening shoot are not shown. |
+| RAG-CHR-069 | RAG-E-V015-011 through RAG-E-V015-016 | During the August 17 shoot, logistics and takes lead to a late-day cicada interruption, Kazuya's climb, recovery, scene 138, and his future-distance thought. | Same-day ordering and sunset pressure are explicit. | Remaining shoot schedule and later consequence belong to V016 or later evidence. |

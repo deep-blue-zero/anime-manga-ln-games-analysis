@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; character evidence inspected through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; character evidence inspected through V015."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V014
+inspected_through_volume: V015
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -107,6 +107,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E065 | CHI-S016 | RAG-E-V014-009 through RAG-E-V014-013 | Director meeting and funding-recovery participation | Meets Tabuse, accepts Mini's campaign diagnosis, joins the four-person meeting, and agrees to search for personal-item rewards. | Participates in production staffing and adaptive campaign governance. | The campaign remains below target and exact authority divisions stay informal. | RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R011, RAG-CHI-R012 |
 | RAG-CHI-E066 | CHI-S016 | RAG-E-V014-016 | Personal-property contribution and intimate boundary | Supplies clothes, accessories, and ordinary items while physically stopping access to the underwear area of her dresser. | Expands project exposure through selective consent without surrendering private control. | The later use and public circulation of each item are unknown. | RAG-CHI-R003, RAG-CHI-R006, RAG-CHI-R011, RAG-CHI-R012 |
 | RAG-CHI-E067 | CHI-S016 | RAG-E-V014-017, RAG-E-V014-019 | Gratitude classification and preference information received | Calls Kazuya kind, expresses deep gratitude for the film, separates that from romance, and then hears Mini state that Kazuya likes her. | Preserves a bounded self-classification at the moment new relationship information arrives. | Her response to Mini's direct claim is outside V014. | RAG-CHI-R003, RAG-CHI-R006, RAG-CHI-R012 |
+| RAG-CHI-E068 | CHI-S017 | RAG-E-V015-001, RAG-E-V015-002 | Direct preference claim received and bounded response | Blushes, invokes gratitude, acting, Sayuri, and rental rules, and becomes colder with Kazuya after Mini's disclosure. | Responds without adopting Mini's romantic certainty and uses familiar role boundaries under pressure. | Defensive framing and altered conduct do not establish either reciprocity or emotional absence. | RAG-CHI-R003, RAG-CHI-R006, RAG-CHI-R012, RAG-CHI-R013 |
+| RAG-CHI-E069 | CHI-S017 | RAG-E-V015-003 through RAG-E-V015-005 | Network initiative and direct credit to Kazuya | Identifies Umi's reach, presents the play route to the team, and later says Kazuya's belief and effort restored action for Sayuri. | Uses an acting relationship for project reach while articulating Kazuya's concrete importance. | Strategic use and gratitude do not isolate romantic motive. | RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R010, RAG-CHI-R012 |
+| RAG-CHI-E070 | CHI-S017 | RAG-E-V015-006 through RAG-E-V015-008 | Dinner refusal and qualified romantic self-report | Receives Umi's breakup disclosure, refuses dinner for the campaign, first denies liking Kazuya, then says it is not that she does not like him. | Moves from categorical separation toward explicit ambiguity while preserving immediate project priority. | The statement is not an affirmative confession, is not received by Kazuya, and creates no mutual status. | RAG-CHI-R003, RAG-CHI-R006, RAG-CHI-R012, RAG-CHI-R013 |
+| RAG-CHI-E071 | CHI-S017 | RAG-E-V015-011 through RAG-E-V015-013 | Lead-actress role, preparation, and production boundary | Introduces herself as lead, studies a heavily marked script, responds to direction, and asks Kazuya to preserve concentration distance. | Converts the family-linked acting goal into disciplined filmed work while governing on-set access. | Kazuya's admiration is not an objective career evaluation. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R010, RAG-CHI-R013 |
+| RAG-CHI-E072 | CHI-S017 | RAG-E-V015-015, RAG-E-V015-016 | Completed take and local reception | Delivers a crying performance that visibly moves crew members while Kazuya imagines her future fame. | Produces recorded vocational output with immediate audience effect. | Local response supplies neither broad acclaim nor her own romantic answer to Kazuya. | RAG-CHI-R007, RAG-CHI-R010, RAG-CHI-R013 |
 
 ## State-change summary
 
@@ -126,6 +131,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S014 — grieving actor and voluntary film principal under deadline:** she sustains an intensive care-and-work system, relives the screen legacy and death that formed her acting promise, persists after another rejection, tests Kazuya's proposal against Sayuri's remaining time, and explicitly requests the film.
 - **CHI-S015 — publicly exposed film principal in governed collaboration:** formalizes acting and agency terms, shares budget and campaign decisions, initiates private work access, recruits Mini, secures Sayuri's permission, and launches the campaign without romantically reclassifying Kazuya.
 - **CHI-S016 — campaign principal under calibrated exposure and direct preference information:** helps choose the source and director route, participates in recovery strategy, offers personal items under a firm intimate limit, distinguishes gratitude from romance, and receives Mini's direct claim about Kazuya before responding.
+- **CHI-S017 — filming lead under qualified romantic ambiguity:** answers Mini through role boundaries, uses Umi's network while refusing dinner for the campaign, describes Kazuya as restorative support, qualifies her denial of liking him, and converts disciplined preparation into locally moving filmed work.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
@@ -150,6 +156,8 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - V012 makes her vocational burden concrete through a dense labor montage and a second screen-role rejection, then supplies the extended family history that joins Sayuri's acting legacy, Katsuhito's encouragement and death, and Chizuru's continuing effort (RAG-E-V012-008 through RAG-E-V012-015).
 - When Kazuya offers a researched route, she does not accept from enthusiasm alone: she questions feasibility, names the time cost, conditions assent on persistence, and then requests the film (RAG-E-V012-016 through RAG-E-V012-022).
 - V014 extends the same governance pattern: she tempers opening celebration, approves a source, joins corrective strategy, permits selected property exposure, and physically enforces the point where project need no longer authorizes access (RAG-E-V014-002, RAG-E-V014-003, RAG-E-V014-007, RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-016).
+- V015 supplies her first direct qualified non-negation about Kazuya: she refuses to affirm love, yet also refuses a complete negative after crediting his concrete support. This is bounded self-report, not a confession or mutual status (RAG-E-V015-005 through RAG-E-V015-007).
+- On set she joins close preparation and responsive acting to an explicit concentration boundary, extending controlled responsibility from campaign governance into performance practice (RAG-E-V015-011 through RAG-E-V015-015).
 
 ## Gaps and negative evidence
 
@@ -160,7 +168,7 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - No broad rule yet supports behavior with close friends, teachers, coworkers beyond Umi, or a mutually acknowledged partner.
 - The ledger supports no split-personality reading between “Mizuhara” and “Ichinose.”
 - Kazuya's preference and support are direct, and Chizuru accepts a gift, provides unpaid care, and defends a comforting family representation, but no reciprocal feeling or relationship transition may be supplied.
-- Film collaboration now includes source choice, director contact, campaign strategy, and reward contribution; it does not supply completed production, a career result, or romantic reclassification.
+- Film collaboration now includes funded principal photography and a locally moving completed take; it does not supply completed production, a public career result, or mutual romantic reclassification.
 
 ## Update rule
 

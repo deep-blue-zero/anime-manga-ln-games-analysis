@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-row_count: 66
-state: CURRENT_THROUGH_V014
+inspected_through_volume: V015
+row_count: 71
+state: CURRENT_THROUGH_V015
 ```
 
 ## Records
@@ -119,3 +119,8 @@ state: CURRENT_THROUGH_V014
 | RAG-FRM-075 | A strategy meeting converts romantic rivals into a temporary production diagram. | Kazuya, Chizuru, Ruka, and Mini share one room while tasks and rewards are assigned. | Dense group framing makes conflict visually subordinate to the campaign bottleneck. | Cooperation does not dissolve competing relationship goals; RAG-E-V014-012, RAG-E-V014-013. |
 | RAG-FRM-076 | Repeated flyer rejection turns devotion into visible bodily labor. | Kazuya's ignored approaches are followed by Ruka's sign, attractiveness, and shared distribution. | Street repetition measures cost and persistence more directly than self-description. | Public effort does not prove final efficacy or romantic entitlement; RAG-E-V014-014, RAG-E-V014-015. |
 | RAG-FRM-077 | Personal objects move toward public reward while a dresser preserves private space. | Clothes, accessories, and a costume are photographed until Chizuru physically blocks deeper access. | Object accumulation stages exposure, then bodily restraint marks its limit. | The sequence supports calibrated consent, not total openness or total refusal; RAG-E-V014-016. |
+| RAG-FRM-078 | Repeated questions convert categorical denial into qualified language. | Mini's disclosure and Umi's successive questions surround Chizuru's gratitude account, `好きじゃない`, and `好きじゃなくもない`. | Dialogue repetition makes the instability of a binary classification visible. | Qualification is not an affirmative confession or mutual exchange; RAG-E-V015-001, RAG-E-V015-005 through RAG-E-V015-007. |
+| RAG-FRM-079 | Parallel final-day labor distributes campaign causation. | Chizuru attends the play and returns to flyers while Kazuya, Ruka, and Mini work outreach and Umi posts to his audience. | Crosscut activity frames threshold success as collective rather than attributable to one heroic act. | The sequence does not quantify each tactic's contribution; RAG-E-V015-003, RAG-E-V015-004, RAG-E-V015-008, RAG-E-V015-009. |
+| RAG-FRM-080 | Interfaces separate gross support, transfer, and account balance. | The target, 1,850,000-yen close, 1,535,500-yen transfer, and 1,849,829-yen bank balance appear in sequence. | Numerical screens make fees and pre-existing money analytically visible. | Similar-looking totals invite confusion and do not reveal every production expense; RAG-E-V015-009. |
+| RAG-FRM-081 | Production montage converts a declared title into distributed bodily work. | Introductions, tripods, food, equipment, marked script, takes, and direction occupy successive pages. | Repetition places producer and actress inside a collective system rather than a two-person fantasy. | Montage compression does not sample every day or prove completion; RAG-E-V015-011 through RAG-E-V015-013. |
+| RAG-FRM-082 | A comic near-fall becomes the condition for a serious performance close. | Kazuya's exaggerated bridge climb and recovery precede Chizuru's crying take, crew reaction, and his future-distance thought. | Tonal transition links reckless support to art while ending on asymmetry rather than reward. | Formal linkage does not make the risk prudent or the imagined future factual; RAG-E-V015-014 through RAG-E-V015-016. |

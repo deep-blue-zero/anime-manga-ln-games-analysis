@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-row_count: 67
-state: CURRENT_THROUGH_V014
+inspected_through_volume: V015
+row_count: 72
+state: CURRENT_THROUGH_V015
 ```
 
 ## Records
@@ -121,3 +121,8 @@ state: CURRENT_THROUGH_V014
 | RAG-INF-077 | Mini converts creator and crowdfunding knowledge into team strategy. | She discloses prior experience, reads analytics, explains the all-or-nothing condition, and assigns publicity and reward work. | Information asymmetry inside the team decreases. | Her proposed tactics remain outcome-dependent; RAG-E-V014-004, RAG-E-V014-011 through RAG-E-V014-013. |
 | RAG-INF-078 | Chizuru states a bounded current classification of Kazuya. | She calls him kind, acknowledges substantial gratitude, and says romance is a different matter. | Mini receives direct evidence that gratitude and romance are not interchangeable in Chizuru's account. | The statement does not prove permanent emotional absence; RAG-E-V014-017. |
 | RAG-INF-079 | Mini tells Chizuru that Kazuya likes her. | The claim is delivered directly during reward photography. | Kazuya's preference moves from Mini's interpretation into Chizuru's information state. | Kazuya did not authorize the disclosure, and Chizuru's response is outside V014; RAG-E-V014-019. |
+| RAG-INF-080 | Chizuru receives and contests Mini's romantic interpretation. | She invokes gratitude, acting, Sayuri, the temporary arrangement, and rental rules. | Mini learns that direct disclosure produces a response but not assent. | Chizuru's defensive framing and blush do not settle her full private state; RAG-E-V015-001. |
+| RAG-INF-081 | Kazuya learns that Mini disclosed his preference. | Mini tells him directly; he fears loss of trust while she advances a theory about Chizuru's self-knowledge. | Unauthorized preference disclosure becomes shared knowledge between Mini, Chizuru, and Kazuya. | Chizuru and Kazuya do not directly discuss the claim in V015; RAG-E-V015-002. |
+| RAG-INF-082 | Umi reveals a recent breakup and asks for Chizuru's classification of Kazuya. | He says the Nanaho relationship ended about a week earlier, invites dinner, and asks repeated questions. | Chizuru gains relevant context before answering. | His broader motive and any prior intention are not fully known; RAG-E-V015-006. |
+| RAG-INF-083 | Chizuru supplies a qualified non-negation. | She first says she does not like Kazuya, then says it is not that she does not like him. | Umi receives bounded evidence that a simple negative is incomplete. | Kazuya does not receive the statement, and it creates no mutual agreement; RAG-E-V015-007. |
+| RAG-INF-084 | Campaign and production states become shared quantitative and role information. | The team observes target success, gross support, net transfer, a functioning shoot, Tabuse's direction, and Kazuya's producer role. | Private commitment becomes funded, staffed, and externally inspectable. | Bank balance must not be confused with support, and production remains incomplete; RAG-E-V015-009 through RAG-E-V015-015. |

@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-row_count: 80
-state: CURRENT_THROUGH_V014
+inspected_through_volume: V015
+row_count: 86
+state: CURRENT_THROUGH_V015
 ```
 
 ## Records
@@ -136,3 +136,9 @@ state: CURRENT_THROUGH_V014
 | RAG-AGY-092 | Ruka | Refuse work centered on Chizuru or assist Kazuya and the team. | Accepts a task, prepares a sign, and joins flyer distribution using collective language. | Subordinates rivalry to costly project support for the observed action. | Romantic competition and prior consent problems remain active; RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015. |
 | RAG-AGY-093 | Chizuru | Withhold personal property or expose it without limit for funding. | Offers clothes, accessories, and ordinary items while stopping access to intimate dresser contents. | Exercises calibrated consent over project exposure. | The full reward list and later public consequences are unknown; RAG-E-V014-016. |
 | RAG-AGY-094 | Mini | Keep her relationship inference private or intervene directly. | Questions Chizuru, receives a gratitude-without-romance account, and then states that Kazuya likes her. | Changes Chizuru's information state and creates a response threshold. | The disclosure is unauthorized and its consequence is outside V014; RAG-E-V014-017, RAG-E-V014-019. |
+| RAG-AGY-095 | Chizuru | Accept Mini's romantic interpretation or preserve a bounded account. | Responds through gratitude, acting, Sayuri, and rental rules, then treats Kazuya more coldly. | Makes the disclosure consequential without affirming Mini's conclusion. | A defensive response and blush do not establish emotional absence or reciprocity; RAG-E-V015-001. |
+| RAG-AGY-096 | Chizuru | Remain in final-day flyer work or pursue a high-reach acting-network route. | Presents Umi's audience to the team, attends the play, and returns to distribution rather than dinner. | Combines professional learning and promotion while preserving the campaign deadline. | Umi's motives are mixed and the marginal funding impact is unknown; RAG-E-V015-003, RAG-E-V015-006 through RAG-E-V015-008. |
+| RAG-AGY-097 | Ruka | Block Chizuru's outing or help cover the campaign work. | Endorses the route, checks Kazuya's jealousy, invokes Sayuri, and performs final-day flyer labor. | Repeats project-first cooperation under an immediate rivalry cue. | The provisional relationship and romantic competition remain unresolved; RAG-E-V015-004. |
+| RAG-AGY-098 | Chizuru | Accept Umi's dinner invitation or return to the campaign. | Refuses dinner because Kazuya has worked hard and the final day matters, then resumes outreach. | Gives the shared project priority over the new private invitation. | The choice does not by itself identify a unique romantic motive; RAG-E-V015-005 through RAG-E-V015-008. |
+| RAG-AGY-099 | Kazuya | Treat funding as completion or assume an operational production role. | Accepts peer advice, introduces himself as producer, performs logistics, and follows Tabuse's direction. | Converts campaign success into accountable work within a specialist hierarchy. | The film and his competence remain incomplete; RAG-E-V015-010 through RAG-E-V015-013. |
+| RAG-AGY-100 | Kazuya | Wait for the cicadas or intervene before light and continuity are lost. | Climbs the bridge structure, removes the sound obstacle, nearly falls, and enables scene 138. | Solves the immediate bottleneck at direct bodily risk. | Utility does not make the method safe or create any claim on Chizuru; RAG-E-V015-014, RAG-E-V015-015. |

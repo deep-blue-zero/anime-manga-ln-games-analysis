@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V014
-row_count: 63
-state: CURRENT_THROUGH_V014
+inspected_through_volume: V015
+row_count: 68
+state: CURRENT_THROUGH_V015
 ```
 
 ## Records
@@ -115,3 +115,8 @@ state: CURRENT_THROUGH_V014
 | RAG-TXN-071 | Mini and film team; volunteer strategy labor | No wage or formal authority is shown. | Mini contributes analytics, campaign experience, meeting leadership, reward design, and publicity planning. | Volunteering does not authorize her to define the principals' relationship. | Her labor becomes operationally valuable while role boundaries remain informal; RAG-E-V014-004, RAG-E-V014-011 through RAG-E-V014-013. |
 | RAG-TXN-072 | Kazuya and Ruka; flyer distribution | Kazuya pays production costs; neither participant receives personal compensation. | Both expose time, money, and social effort to recruit strangers for the shared campaign. | Project labor creates no romantic debt or status entitlement. | Rivalry coexists with cooperative public work; RAG-E-V014-014, RAG-E-V014-015. |
 | RAG-TXN-073 | Chizuru and prospective backers; personal-item rewards | Chizuru permits selected possessions to become finite campaign rewards. | Clothes, accessories, and ordinary goods are offered as value because of association with her. | Her intimate dresser boundary remains outside project consent. | Public financing reaches personal property without erasing bodily privacy; RAG-E-V014-013, RAG-E-V014-016. |
+| RAG-TXN-074 | Mini, Chizuru, and Kazuya; unauthorized preference disclosure | No project role or friendship term authorizes Mini to disclose Kazuya's preference. | Mini chooses to intervene; Chizuru responds and Kazuya later learns of it. | Useful volunteer labor does not create ownership of private relationship information. | The project group gains shared tension without mutual romantic clarification; RAG-E-V015-001, RAG-E-V015-002. |
+| RAG-TXN-075 | Chizuru and Umi; play invitation, promotion, and dinner refusal | The play seat arises from a cancellation; no explicit exchange conditions promotion on dinner or romantic access. | Chizuru attends for acting study, discusses the campaign, refuses dinner, and receives a promotional post. | Social help and romantic probing coexist without a proved bargain. | Umi's audience becomes useful while Chizuru preserves final-day priority; RAG-E-V015-003, RAG-E-V015-006 through RAG-E-V015-008. |
+| RAG-TXN-076 | Ruka, Kazuya, Mini, and film project; final-day outreach | No compensation is shown for the team's flyer labor. | Ruka voluntarily supports the Umi route and joins the remaining work for Sayuri's film. | Labor creates no romantic debt or claim against Chizuru. | Cooperative effort persists under rivalry pressure; RAG-E-V015-004. |
+| RAG-TXN-077 | Backers, platform, and film principals; funded campaign | Backers pledge 1,850,000 yen against a 1,820,000-yen all-or-nothing target; platform fees reduce the transfer to 1,535,500 yen. | The principals receive conditional public financing after the threshold is met. | Gross pledges, transferred funds, and Kazuya's full bank balance are separate resources. | Funding becomes spendable production capacity; RAG-E-V015-008, RAG-E-V015-009. |
+| RAG-TXN-078 | Kazuya, Chizuru, Tabuse, and crew; film production labor | The funded project assigns producer, director, lead, cast, and crew functions; exact contracts and wages are not shown. | Participants supply logistics, direction, performance, equipment, and physical effort toward recorded scenes. | Project participation governs role access and creates no private romantic entitlement. | A functioning set and completed scene 138 result, while delivery remains open; RAG-E-V015-011 through RAG-E-V015-015. |
