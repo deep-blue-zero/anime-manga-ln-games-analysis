@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0122
+## Current coverage — all five human units synchronized through EVENT_0123
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0122 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0122`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0123 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0123`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0122 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0123 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0123 is fully integrated as a mixed high-I2 event with no new I3 or named I2 owner:** Kanade and Ichika convert gift uncertainty into recipient research, individualized tea, and a completed joint gathering. `REL-CROSS-KANADE-ICHIKA-E0042` receives a very strong I2 increment while existing N25, LN, MMJ, Nene, group, and singer authorities remain in force. The verified envelope is 23 stories / 44 scenes / 1,466 records. No new operative, universal gift-fit method, permanent cross-unit cohort, resolved Kanade self-neglect, Mafuyu recovery or settled social tolerance, public Nightcord disclosure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0122 to EVENT_0123. EVENT_0124 is next and 17 events remain through EVENT_0140.
+
+Causal home: [EVENT_0123 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0123_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0123: 23 stories / 44 scenes / 1,466 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create no new I3 or named I2 owner. Preserve and strongly apply `REL-CROSS-KANADE-ICHIKA-E0042`, `K-E0116-01`, `MF-E0112-01`, `LN-EP-ICHIKA-E0101`, `LN-REL-G-E0121`, `MMJ-EP-MN-E0122`, `MMJ-REL-GROUP-E0122`, `REL-CROSS-ICHIKA-NENE-E0013`, and `REL-N25-G-7`. Nightcord at 25:00 and Leo/need are PRIMARY/CO_PRIMARY HIGH I2; MORE MORE JUMP! is CROSS_UNIT/HIGH I2; Wonderlands×Showtime is CROSS_UNIT/MEDIUM I2; Vivid BAD SQUAD is NONE/I0.
+- The shared boundary is EVENT_0123; EVENT_0124 is next and 17 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0122 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0122 is fully integrated:** `MMJ-EP-MN-E0017 → MMJ-EP-MN-E0122` advances Minori's hope method to disappointed audiences she cannot satisfy by substitution. `MMJ-REL-GROUP-06 → MMJ-REL-GROUP-E0122` records a completed professional stress test and secured independent work base. New bounded I2 `MMJ-REL-GROUP-LANDLORD-E0122` records selection, key transfer, access, and reciprocal care while the landlord's past remains unconfirmed. The verified envelope is 27 stories / 47 scenes / 1,578 records. No universal audience conversion, equivalence to LiLia, guaranteed television success, completed move-in operations, safe workload, stable revenue, mass fame, confirmed legendary-idol identity for the landlord, formal mentorship, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0121 to EVENT_0122. EVENT_0123 is next and 18 events remain through EVENT_0140.
 
@@ -1845,3 +1855,7 @@ The verified group contains 24 stories / 42 scenes / 1,526 records. No unilatera
 ### EVENT_0122 source and reconstruction review
 
 The verified group contains 27 stories / 47 scenes / 1,578 records. No universal audience conversion, equivalence to LiLia, guaranteed television success, completed move-in operations, safe workload, stable revenue, mass fame, confirmed legendary-idol identity for the landlord, formal mentorship, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0123 source and reconstruction review
+
+The verified group contains 23 stories / 44 scenes / 1,466 records. No new operative, universal gift-fit method, permanent cross-unit cohort, resolved Kanade self-neglect, Mafuyu recovery or settled social tolerance, public Nightcord disclosure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
