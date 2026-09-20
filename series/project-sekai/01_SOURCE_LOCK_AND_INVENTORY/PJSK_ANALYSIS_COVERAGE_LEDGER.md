@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0141
+current_event_boundary: EVENT_0142
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0141
+## Current coverage — all five human units synchronized through EVENT_0142
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0141 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0141`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0142 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0142`.
 
 Artifacts:
 
@@ -2113,3 +2113,7 @@ The verified group contains 36 stories / 54 scenes / 2,131 records. No unrestric
 ### EVENT_0141 source and reconstruction review
 
 The verified group contains 23 stories / 48 scenes / 1,476 records. No universal event-design formula, guaranteed participant conversion, mandatory smiling, objective affect detection, cured Mafuyu, recovered preference set, central-attachment status, family or Nightcord disclosure, permanent mixed group, ghost cosmology, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0142 source and reconstruction review
+
+The verified group contains 23 stories / 43 scenes / 1,625 records. No causal explanation for the missing work mail, universal training-safety rule, safe personal pacing, guaranteed audience conversion, victory, professional athletic status, permanent mixed team, broad fame, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
