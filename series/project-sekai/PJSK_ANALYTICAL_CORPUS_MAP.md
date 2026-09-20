@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0104
+## Current state — founded units synchronized through EVENT_0105
 
-All five human units now track the same continuous event history through `EVENT_0104`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0104 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0105`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0105 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0099–0115 continuation — EVENT_0104 committed boundary
+### EVENT_0099–0115 continuation — EVENT_0105 committed boundary
+
+**EVENT_0105 is fully integrated:** the release is UNIVERSAL/VERY HIGH at franchise-ontology I3. `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105` advances exceptional cross-SEKAI permeability from brief perception to an audible signal, fragment-mediated temporary relocation, direct reciprocal conversation, distinct-counterpart recognition, retained encounter memory, and local action after return. The connection remains accidental, selective, temporary, and uncontrolled. All five founded human units are CO_PRIMARY/HIGH I2 recipients of completed manifestation performances: preserve `LN-REL-SCHOOL-VS-MS`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, `VBS-REL-STREET-VS-HUMANS-1`, `REL-WXS-WONDERLAND-E0003`, `REL-N25-GM-E0054`, `REL-N25-VS-RIN-E0014`, and `REL-N25-VS-MEIKO-E0019` at strong local I2. Revise/strengthen `CR-PJSK-SEKAI-040` and provisionally strengthen `CR-PJSK-SEKAI-041`. The verified envelope is 25 stories / 47 scenes / 1,444 records: eight core chapters, twelve card halves, and five linked areas. No routine travel, permanent portal, guaranteed recurrence, shared singer mind, global singer identity, complete biography transfer, public or human knowledge of the meeting, human successor, performance mastery, guaranteed professional success, or complete reconstruction is certified. The boundary advances EVENT_0104 to EVENT_0105; EVENT_0106 is next and 10 events remain through EVENT_0115.
+
+The [EVENT_0105 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0105_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 7 of the EVENT_0099–0115 goal sequence. The boundary advances from EVENT_0104 to EVENT_0105; EVENT_0106 is next and 10 events remain.
+
+### Historical continuation — EVENT_0104 committed boundary
 
 **EVENT_0104 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with three distinct I3 advances. New `WXS-EP-EMU-E0104` records Emu preserving her park purpose while revising its exclusive means from staying alone to shared stewardship, outside learning, and intended return; it also allows grief to be shared instead of hidden behind mandatory smiles. `REL-WXS-MS-G-P06 → REL-WXS-G-E0104` records the four's informed, negotiated, approved, and publicly enacted transition from a park-based company to one independent freelance troupe. `WXS-EP-PARK-E0025 → WXS-EP-PARK-E0104` records a bounded institutional handoff after observed visitor and satisfaction gains, management and staff ownership, replacement performance coverage, and a future offer channel. Preserve Nene, Rui, Sakurako, park-support, and Wonderland relations at strong I2. LN and VBS receive low-I1 reports of intended final-show attendance; MMJ and N25 are I0. The verified envelope is 23 stories / 41 scenes / 1,830 records: eight core chapters, ten card halves, and five linked areas. No permanent park rescue, audited profit, final Riley terms, guaranteed return, completed external work, professional mastery, grief cure, legal management transfer, lifelong troupe continuity, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0103 to EVENT_0104; EVENT_0105 is next and 11 events remain through EVENT_0115.
 
@@ -461,13 +467,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0104`. The complete 23-story envelope creates Emu's stewardship operative and advances the independent four-person troupe and bounded park handoff at I3. EVENT_0105 is next; 11 events remain through EVENT_0115.
+`ANALYSIS_CURRENT` is `EVENT_0105`. The complete 25-story universal envelope advances bounded cross-SEKAI direct-contact knowledge at I3 and preserves all five manifestation-support routes at strong I2. EVENT_0106 is next; 10 events remain through EVENT_0115.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0104` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0105` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0104_DEEP_READING.md) closes `EVENT_0104 — あたしたちのハッピーエンド`, bucket `RB_20230821T060000Z`: eight core chapters, cards `0700–0704` both halves, and five linked areas. Emu, the independent troupe, and the bounded park handoff advance at I3; future professional and institutional results remain open.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0105_DEEP_READING.md) closes `EVENT_0105 — セカイに響け！Your Song`, bucket `RB_20230831T060000Z`: eight core chapters, cards `0707–0712` both halves, and five linked areas. The cross-SEKAI epistemic successor advances at I3; five local manifestation-support routes remain bounded I2.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 

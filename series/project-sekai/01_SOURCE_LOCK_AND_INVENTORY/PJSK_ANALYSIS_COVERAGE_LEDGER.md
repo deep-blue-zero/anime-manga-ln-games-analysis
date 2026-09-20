@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0104
+## Current coverage — all five human units synchronized through EVENT_0105
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0104 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0104`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0105 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0105`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0104 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0105 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0105 is fully integrated:** the release is UNIVERSAL/VERY HIGH at franchise-ontology I3. `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105` advances exceptional cross-SEKAI permeability from brief perception to an audible signal, fragment-mediated temporary relocation, direct reciprocal conversation, distinct-counterpart recognition, retained encounter memory, and local action after return. The connection remains accidental, selective, temporary, and uncontrolled. All five founded human units are CO_PRIMARY/HIGH I2 recipients of completed manifestation performances: preserve `LN-REL-SCHOOL-VS-MS`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, `VBS-REL-STREET-VS-HUMANS-1`, `REL-WXS-WONDERLAND-E0003`, `REL-N25-GM-E0054`, `REL-N25-VS-RIN-E0014`, and `REL-N25-VS-MEIKO-E0019` at strong local I2. Revise/strengthen `CR-PJSK-SEKAI-040` and provisionally strengthen `CR-PJSK-SEKAI-041`. The verified envelope is 25 stories / 47 scenes / 1,444 records: eight core chapters, twelve card halves, and five linked areas. No routine travel, permanent portal, guaranteed recurrence, shared singer mind, global singer identity, complete biography transfer, public or human knowledge of the meeting, human successor, performance mastery, guaranteed professional success, or complete reconstruction is certified. The boundary advances EVENT_0104 to EVENT_0105; EVENT_0106 is next and 10 events remain through EVENT_0115.
+
+Causal home: [EVENT_0105 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0105_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0105: 25 stories / 47 scenes / 1,444 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105`; revise/strengthen `CR-PJSK-SEKAI-040` and strengthen provisional `CR-PJSK-SEKAI-041`.
+- Preserve all five manifestation↔human routes at strong local I2; create no human successor or global singer identity.
+- The shared boundary is EVENT_0105; EVENT_0106 is next and 10 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0104 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0104 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with three distinct I3 advances. New `WXS-EP-EMU-E0104` records Emu preserving her park purpose while revising its exclusive means from staying alone to shared stewardship, outside learning, and intended return; it also allows grief to be shared instead of hidden behind mandatory smiles. `REL-WXS-MS-G-P06 → REL-WXS-G-E0104` records the four's informed, negotiated, approved, and publicly enacted transition from a park-based company to one independent freelance troupe. `WXS-EP-PARK-E0025 → WXS-EP-PARK-E0104` records a bounded institutional handoff after observed visitor and satisfaction gains, management and staff ownership, replacement performance coverage, and a future offer channel. Preserve Nene, Rui, Sakurako, park-support, and Wonderland relations at strong I2. LN and VBS receive low-I1 reports of intended final-show attendance; MMJ and N25 are I0. The verified envelope is 23 stories / 41 scenes / 1,830 records: eight core chapters, ten card halves, and five linked areas. No permanent park rescue, audited profit, final Riley terms, guaranteed return, completed external work, professional mastery, grief cure, legal management transfer, lifelong troupe continuity, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0103 to EVENT_0104; EVENT_0105 is next and 11 events remain through EVENT_0115.
 
@@ -1581,3 +1592,7 @@ The verified group contains eight core chapters (23 scenes, 904 records), ten as
 ### EVENT_0104 source and reconstruction review
 
 The verified group contains eight core chapters (18 scenes, 1,143 records), ten associated card halves (18 scenes, 634 records), and five linked areas (5 scenes, 53 records). `WXS-EP-EMU-E0104`, `REL-WXS-G-E0104`, and `WXS-EP-PARK-E0104` own distinct I3 changes. Nene, Rui, Sakurako, park-support, and Wonderland relations remain proportionally bounded. LN/VBS receive reported I1; MMJ/N25 are I0. Park durability, profit, external work, mastery, return, grief resolution, future rivalry, global singers, and complete reconstruction remain uncertified.
+
+### EVENT_0105 source and reconstruction review
+
+The verified group contains eight core chapters (27 scenes, 696 records), twelve associated card halves (15 scenes, 697 records), and five linked areas (5 scenes, 51 records). `EPI-PJSK-SEKAI-E0105` owns the sole I3 transition. All five units receive completed local support performances at I2 under existing manifestation relationships. Routine travel, global singer identity, human knowledge of the meeting, human successors, mastery, professional outcomes, and complete reconstruction remain uncertified.

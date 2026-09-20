@@ -26,3 +26,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [PJSK_EVENT_0084_DEEP_READING](PJSK_EVENT_0084_DEEP_READING.md)
 - [PJSK_EVENT_0087_DEEP_READING](PJSK_EVENT_0087_DEEP_READING.md)
 - [PJSK_EVENT_0090_DEEP_READING](PJSK_EVENT_0090_DEEP_READING.md)
+
+- [EVENT_0105 — セカイに響け！Your Song](PJSK_EVENT_0105_DEEP_READING.md): complete 25-story universal envelope; `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105` advances exceptional permeability to bounded direct counterpart contact, while all five human units receive completed local manifestation support at I2.
