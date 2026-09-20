@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0133
+## Current coverage — all five human units synchronized through EVENT_0134
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0133 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0133`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0134 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0134`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0133 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0134 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0134 is fully integrated:** `MF-E0112-01 → MF-E0134-01` advances Mafuyu's identity search into fear-aware, self-chosen disclosure grounded in mixed memory and present evidence. `REL-FAMILY-MAFUYU-FATHER-E0116 → REL-FAMILY-MAFUYU-FATHER-E0134` advances bounded visits into reciprocal crisis knowledge, apology, explicit autonomy, and enacted paternal alliance. Maternal repair, treatment outcome, home return, and Mizuki's disclosure remain open. The verified envelope is 28 stories / 53 scenes / 1,542 records. No settled vocation, recovered taste, cured fear, completed treatment, home return, maternal receipt or reconciliation, proven paternal follow-through, universal disclosure safety, Mizuki disclosure, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0133 to EVENT_0134. EVENT_0135 is next and 6 events remain through EVENT_0140.
+
+Causal home: [EVENT_0134 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0134_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0134: 28 stories / 53 scenes / 1,542 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Nightcord at 25:00 is PRIMARY/VERY HIGH I3. Advance `MF-E0112-01 → MF-E0134-01` and `REL-FAMILY-MAFUYU-FATHER-E0116 → REL-FAMILY-MAFUYU-FATHER-E0134`. Preserve `MZ-E0117-01`, `REL-FAMILY-MAFUYU-MOTHER-E0100`, `REL-N25-G-7`, `REL-N25-KM-E0100`, `REL-N25-VS-RIN-E0014`, `REL-N25-VS-MIKU-MAFUYU-E0042`, and `REL-CROSS-HONAMI-MAFUYU-E0112` proportionally. Leo/need is CROSS_UNIT/LOW I1; MORE MORE JUMP!, Vivid BAD SQUAD, and Wonderlands×Showtime are NONE/I0.
+- The shared boundary is EVENT_0134; EVENT_0135 is next and 6 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0133 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0133 is fully integrated:** new I3 `MMJ-EP-HR-E0133` records Haruka's tested production method across purpose, reach, distinctiveness, continuity, consultation, offer comparison, recipient learning, collaborative revision, and outcome review. `MMJ-REL-GROUP-E0130 → MMJ-REL-GROUP-E0133` installs Haruka as internal producer under collective decision authority and distributed support. Existing friendship, capacity, manager, member, and Stage owners remain distinct. The verified envelope is 26 stories / 52 scenes / 1,497 records. No universal job-ranking formula, guarantee that lower reach produces deeper loyalty, unedited authenticity, permanent producer authority, sole Haruka decision power, safe workload, audited town revival, guaranteed repeat program success, formal agency structure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0132 to EVENT_0133. EVENT_0134 is next and 7 events remain through EVENT_0140.
 
@@ -1999,3 +2009,7 @@ The verified group contains 23 stories / 33 scenes / 1,638 records. No original-
 ### EVENT_0133 source and reconstruction review
 
 The verified group contains 26 stories / 52 scenes / 1,497 records. No universal job-ranking formula, guarantee that lower reach produces deeper loyalty, unedited authenticity, permanent producer authority, sole Haruka decision power, safe workload, audited town revival, guaranteed repeat program success, formal agency structure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0134 source and reconstruction review
+
+The verified group contains 28 stories / 53 scenes / 1,542 records. No settled vocation, recovered taste, cured fear, completed treatment, home return, maternal receipt or reconciliation, proven paternal follow-through, universal disclosure safety, Mizuki disclosure, global singer identity, or complete reconstruction is certified.

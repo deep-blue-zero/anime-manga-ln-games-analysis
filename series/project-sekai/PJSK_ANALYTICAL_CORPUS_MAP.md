@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0133
+## Current state — founded units synchronized through EVENT_0134
 
-All five human units now track the same continuous event history through `EVENT_0133`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0133 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0134`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0134 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0133 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0134 committed boundary
+
+**EVENT_0134 is fully integrated:** `MF-E0112-01 → MF-E0134-01` advances Mafuyu's identity search into fear-aware, self-chosen disclosure grounded in mixed memory and present evidence. `REL-FAMILY-MAFUYU-FATHER-E0116 → REL-FAMILY-MAFUYU-FATHER-E0134` advances bounded visits into reciprocal crisis knowledge, apology, explicit autonomy, and enacted paternal alliance. Maternal repair, treatment outcome, home return, and Mizuki's disclosure remain open. The verified envelope is 28 stories / 53 scenes / 1,542 records. No settled vocation, recovered taste, cured fear, completed treatment, home return, maternal receipt or reconciliation, proven paternal follow-through, universal disclosure safety, Mizuki disclosure, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0133 to EVENT_0134. EVENT_0135 is next and 6 events remain through EVENT_0140.
+
+The [EVENT_0134 reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0134_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 19 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0133 committed boundary
 
 **EVENT_0133 is fully integrated:** new I3 `MMJ-EP-HR-E0133` records Haruka's tested production method across purpose, reach, distinctiveness, continuity, consultation, offer comparison, recipient learning, collaborative revision, and outcome review. `MMJ-REL-GROUP-E0130 → MMJ-REL-GROUP-E0133` installs Haruka as internal producer under collective decision authority and distributed support. Existing friendship, capacity, manager, member, and Stage owners remain distinct. The verified envelope is 26 stories / 52 scenes / 1,497 records. No universal job-ranking formula, guarantee that lower reach produces deeper loyalty, unedited authenticity, permanent producer authority, sole Haruka decision power, safe workload, audited town revival, guaranteed repeat program success, formal agency structure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0132 to EVENT_0133. EVENT_0134 is next and 7 events remain through EVENT_0140.
 
@@ -635,13 +641,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0133`. Haruka now owns a tested producer method; MMJ has a consensual internal producer role constrained by collective decisions and shared labor. `EVENT_0134` is next; 7 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0134`. Mafuyu can now choose disclosure through fear using mixed evidence; her father has received the full account, apologized, and explicitly committed to her autonomy. `EVENT_0135` is next; 6 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0133` for all five human units. The EVENT_0116–0140 continuation is active with 7 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0134` for all five human units. The EVENT_0116–0140 continuation is active with 6 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0133_DEEP_READING.md) closes `EVENT_0133 — Lead to shine more`, bucket `RB_20240610T060000Z`: 26 stories / 52 scenes / 1,497 records. Haruka now owns a tested producer method; MMJ has a consensual internal producer role constrained by collective decisions and shared labor.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0134_DEEP_READING.md) closes `EVENT_0134 — 灯を手繰りよせて`, bucket `RB_20240620T060000Z`: 28 stories / 53 scenes / 1,542 records. Mafuyu can now choose disclosure through fear using mixed evidence; her father has received the full account, apologized, and explicitly committed to her autonomy.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
