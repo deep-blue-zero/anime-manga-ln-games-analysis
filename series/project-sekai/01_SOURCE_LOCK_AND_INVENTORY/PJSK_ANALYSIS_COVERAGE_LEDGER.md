@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0123
+## Current coverage — all five human units synchronized through EVENT_0124
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0123 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0123`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0124 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0124`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0123 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0124 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0124 is fully integrated:** new I3 `EPI-WXS-WONDERLAND-E0124` records the responsive harbor, ship, past-show map, blocked Star Island, and sprout as bounded material evidence of accumulated and future-directed feeling. `REL-WXS-G-E0104 → REL-WXS-G-E0124` advances the independent troupe into an explicit shared growth journey across different dreams. The four recent character operatives and Wonderland-local singer relations receive strong I2 applications. The verified envelope is 30 stories / 60 scenes / 1,963 records. No deterministic SEKAI symbolism, universal growth-to-geography rule, access to Star Island, captured phoenix, fear cure, guaranteed dream attainment, permanent troupe co-location, identical career destination, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0123 to EVENT_0124. EVENT_0125 is next and 16 events remain through EVENT_0140.
+
+Causal home: [EVENT_0124 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0124_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0124: 30 stories / 60 scenes / 1,963 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH I3. Create `EPI-WXS-WONDERLAND-E0124` and advance `REL-WXS-G-E0104 → REL-WXS-G-E0124`. Preserve `WXS-EP-TSUKASA-E0113`, `WXS-EP-EMU-E0104`, `WXS-EP-NENE-E0114`, `WXS-EP-NENE-E0095`, `WXS-EP-RUI-E0119`, and `REL-WXS-WONDERLAND-E0003` at strong I2. Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0124; EVENT_0125 is next and 16 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0123 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0123 is fully integrated as a mixed high-I2 event with no new I3 or named I2 owner:** Kanade and Ichika convert gift uncertainty into recipient research, individualized tea, and a completed joint gathering. `REL-CROSS-KANADE-ICHIKA-E0042` receives a very strong I2 increment while existing N25, LN, MMJ, Nene, group, and singer authorities remain in force. The verified envelope is 23 stories / 44 scenes / 1,466 records. No new operative, universal gift-fit method, permanent cross-unit cohort, resolved Kanade self-neglect, Mafuyu recovery or settled social tolerance, public Nightcord disclosure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0122 to EVENT_0123. EVENT_0124 is next and 17 events remain through EVENT_0140.
 
@@ -1859,3 +1869,7 @@ The verified group contains 27 stories / 47 scenes / 1,578 records. No universal
 ### EVENT_0123 source and reconstruction review
 
 The verified group contains 23 stories / 44 scenes / 1,466 records. No new operative, universal gift-fit method, permanent cross-unit cohort, resolved Kanade self-neglect, Mafuyu recovery or settled social tolerance, public Nightcord disclosure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0124 source and reconstruction review
+
+The verified group contains 30 stories / 60 scenes / 1,963 records. No deterministic SEKAI symbolism, universal growth-to-geography rule, access to Star Island, captured phoenix, fear cure, guaranteed dream attainment, permanent troupe co-location, identical career destination, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
