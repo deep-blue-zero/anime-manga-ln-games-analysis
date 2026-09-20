@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0098
+## Current coverage — all five human units synchronized through EVENT_0099
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0098 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0098`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0099 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0099`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0098 forward transaction; historical universal queue complete
+### Current coverage — EVENT_0099 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0099 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH I3 with two distinct new owners. `WXS-EP-RUI-E0099` records Rui's durable move from show-bound social expectation to self-chosen mutual understanding and shared laughter outside performance. `WXS-REL-RUI-CLASSMATES-E0099` records Miyake, Hayashi, and Taniyama's reciprocal approach, shared ordinary time, explicit friendship, and post-trip continuity. Preserve `WXS-EP-RUI-E0024` separately as task-based outsider collaboration authority. New `REL-CROSS-MAFUYU-AIRI-E0099` is bounded public-school I2; preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `MF-E0072-01`, `REL-N25-G-7`, `REL-N25-VS-MIKU-MAFUYU-E0042`, `MMJ-REL-GROUP-06`, `REL-WXS-MS-G-P06`, and `REL-WXS-WONDERLAND-E0003` proportionally without successors. N25 is SECONDARY/HIGH I2, MMJ is SECONDARY/MEDIUM I2, and LN/VBS are CROSS_UNIT/LOW I1. The verified envelope is 24 stories / 44 scenes / 1,678 records: eight core chapters, ten card halves, and six linked areas. No universal social mastery, permanent classmate intimacy, public SEKAI knowledge, private N25 disclosure to MMJ, global singer state, or professional outcome is certified. The boundary advances EVENT_0098 to EVENT_0099; EVENT_0100 is next and 16 events remain through EVENT_0115.
+
+Causal home: [EVENT_0099 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0099_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0099: 24 stories / 44 scenes / 1,678 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create `WXS-EP-RUI-E0099` and `WXS-REL-RUI-CLASSMATES-E0099` at I3; create bounded `REL-CROSS-MAFUYU-AIRI-E0099` at I2.
+- Preserve Rui E0024, WxS group, Wonderland, Mafuyu, N25 group, Empty Miku, Mafuyu–Shizuku, and MMJ group authority without successors.
+- The shared boundary is EVENT_0099; EVENT_0100 is next and 16 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0098 forward transaction; historical universal queue complete
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.
 
@@ -1491,3 +1502,7 @@ The verified group contains eight core chapters (33 scenes, 1,590 records), ten 
 ### EVENT_0098 source and reconstruction review
 
 The verified group contains eight core chapters (24 scenes, 769 records), ten associated card halves (16 scenes, 590 records), and six linked areas (6 scenes, 62 records). The root decision reconciles all five human-unit routes and Stage manifestation boundaries. `MMJ-EP-MN-E0098` alone owns structural choice under schedule conflict, verified academic burden, consulted costs, accepted loss, reported decision, café notice, and transition preparation. `MMJ-EP-MN-E0017`, `MMJ-EP-HR-E0094`, and `MMJ-EP-HR-E0023` remain separate. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 and distinct from Stage KAITO. The MMJ group, Airi, Minori–Airi, school network, Kohane–Minori, bounded An relations, and collective Stage owners remain without successors. MMJ is I3, LN I2, VBS relationship-specific I2, and WxS/N25 I0. Transfer, post-transfer schedules, academic/work/café results, blacklist, training completion, official singer membership, public singer embodiment, and cross-manifestation outcomes remain uncertified.
+
+### EVENT_0099 source and reconstruction review
+
+The verified group contains eight core chapters (21 scenes, 901 records), ten card halves (17 scenes, 707 records), and six linked areas (6 scenes, 70 records). Two distinct I3 responsibilities are created: Rui's generalized outside-show friendship operative and the durable classmate relationship that tests it. One bounded public-school Airi–Mafuyu I2 relation is added. N25 and MMJ authorities receive proportional I2 evidence; LN and VBS receive bounded I1 contact. Universal social mastery, private N25 disclosure, public singer embodiment, global manifestation continuity, and professional outcomes remain uncertified.

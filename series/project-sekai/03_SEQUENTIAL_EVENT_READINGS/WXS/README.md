@@ -46,3 +46,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0062 — 絶体絶命！？アイランドパニック！](PJSK_EVENT_0062_DEEP_READING.md): complete-envelope reading centered on Nene's fear/courage mechanism and the troupe's portable role structure under material uncertainty; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
 
 - [EVENT_0095 — カナリアは窮境に歌う](PJSK_EVENT_0095_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-NENE-E0095` records integrated musical acting and experience seeking, new `WXS-REL-NENE-YUKA-E0095` is bounded high I2, and the WxS group, Rui, Sakurako and Wonderland relations receive strong-I2 reuse while unsafe overwork and unresolved troupe direction remain explicit.
+
+- [EVENT_0099 — 一期一会な百鬼夜行！？](PJSK_EVENT_0099_DEEP_READING.md): complete 24-story envelope; new `WXS-EP-RUI-E0099` outside-show friendship operative I3, new `WXS-REL-RUI-CLASSMATES-E0099` I3, bounded `REL-CROSS-MAFUYU-AIRI-E0099` I2, and preserved Rui E0024, WxS, N25, MMJ, cross-unit, and manifestation authority.
