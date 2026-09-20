@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0105
+## Current coverage — all five human units synchronized through EVENT_0106
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0105 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0105`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0106 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0106`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0105 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0106 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0106 is fully integrated:** Leo/need is PRIMARY/VERY HIGH and MORE MORE JUMP! is CO_PRIMARY/VERY HIGH through three distinct I3 owners. New `LN-EP-SAKI-E0106` records Saki transforming a hospital-era survival and anti-erasure list into visible evidence of reciprocal belonging, returned photos and written thanks, and renewable shared future aims. `REL-CROSS-HARUKA-SAKI-E0004 → REL-CROSS-HARUKA-SAKI-E0106` advances practical trust into enacted chosen friendship through tailored help, mutual album-making, direct affirmation, ordinary follow-up, and planned future contact. New `REL-CROSS-SAKI-AIRI-E0106` records mediated hope becoming a directly known reciprocal support channel through a completed private live, Saki's hospital-history letter, continued fan support, Airi's received thanks and renewed hope-bearing commitment, and ordinary continuity. Preserve LN/MMJ group and School routes at strong I2. WxS and N25 are CROSS_UNIT/HIGH I2; VBS is CROSS_UNIT/MEDIUM I2. The verified envelope is 23 stories / 44 scenes / 1,500 records: eight core chapters, ten card halves, and five linked areas. No permanent health or abandonment-fear cure, universal memory, equal network intimacy, implemented Haruka transfer schedule, booked travel, unlimited idol access, broad fame, new unit successor, new Mafuyu state, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0105 to EVENT_0106; EVENT_0107 is next and 9 events remain through EVENT_0115.
+
+Causal home: [EVENT_0106 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0106_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0106: 23 stories / 44 scenes / 1,500 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `LN-EP-SAKI-E0106`; advance I3 `REL-CROSS-HARUKA-SAKI-E0106`; create I3 `REL-CROSS-SAKI-AIRI-E0106`.
+- Preserve LN/MMJ group and School routes plus WxS/N25 participant routes at strong I2; VBS is participant-bounded I2.
+- The shared boundary is EVENT_0106; EVENT_0107 is next and 9 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0105 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0105 is fully integrated:** the release is UNIVERSAL/VERY HIGH at franchise-ontology I3. `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105` advances exceptional cross-SEKAI permeability from brief perception to an audible signal, fragment-mediated temporary relocation, direct reciprocal conversation, distinct-counterpart recognition, retained encounter memory, and local action after return. The connection remains accidental, selective, temporary, and uncontrolled. All five founded human units are CO_PRIMARY/HIGH I2 recipients of completed manifestation performances: preserve `LN-REL-SCHOOL-VS-MS`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, `VBS-REL-STREET-VS-HUMANS-1`, `REL-WXS-WONDERLAND-E0003`, `REL-N25-GM-E0054`, `REL-N25-VS-RIN-E0014`, and `REL-N25-VS-MEIKO-E0019` at strong local I2. Revise/strengthen `CR-PJSK-SEKAI-040` and provisionally strengthen `CR-PJSK-SEKAI-041`. The verified envelope is 25 stories / 47 scenes / 1,444 records: eight core chapters, twelve card halves, and five linked areas. No routine travel, permanent portal, guaranteed recurrence, shared singer mind, global singer identity, complete biography transfer, public or human knowledge of the meeting, human successor, performance mastery, guaranteed professional success, or complete reconstruction is certified. The boundary advances EVENT_0104 to EVENT_0105; EVENT_0106 is next and 10 events remain through EVENT_0115.
 
@@ -1596,3 +1607,7 @@ The verified group contains eight core chapters (18 scenes, 1,143 records), ten 
 ### EVENT_0105 source and reconstruction review
 
 The verified group contains eight core chapters (27 scenes, 696 records), twelve associated card halves (15 scenes, 697 records), and five linked areas (5 scenes, 51 records). `EPI-PJSK-SEKAI-E0105` owns the sole I3 transition. All five units receive completed local support performances at I2 under existing manifestation relationships. Routine travel, global singer identity, human knowledge of the meeting, human successors, mastery, professional outcomes, and complete reconstruction remain uncertified.
+
+### EVENT_0106 source and reconstruction review
+
+The verified group contains eight core chapters (24 scenes, 831 records), ten associated card halves (15 scenes, 627 records), and five linked areas (5 scenes, 42 records). `LN-EP-SAKI-E0106`, `REL-CROSS-HARUKA-SAKI-E0106`, and `REL-CROSS-SAKI-AIRI-E0106` own distinct I3 changes. LN/MMJ group, School-singer, WxS, N25, and VBS evidence remains proportionally bounded. Health permanence, universal memory, equal intimacy, transfer schedules, travel, idol access, fame, unit successors, Mafuyu successor, global singers, and complete reconstruction remain uncertified.
