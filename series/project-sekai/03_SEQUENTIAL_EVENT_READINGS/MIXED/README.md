@@ -30,3 +30,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0105 — セカイに響け！Your Song](PJSK_EVENT_0105_DEEP_READING.md): complete 25-story universal envelope; `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105` advances exceptional permeability to bounded direct counterpart contact, while all five human units receive completed local manifestation support at I2.
 
 - [EVENT_0106 — 君と紡ぐPrecious memories](PJSK_EVENT_0106_DEEP_READING.md): complete 23-story envelope; new `LN-EP-SAKI-E0106` records reciprocal memory and renewable shared aims, `REL-CROSS-HARUKA-SAKI-E0004 → REL-CROSS-HARUKA-SAKI-E0106` records enacted chosen friendship, and new `REL-CROSS-SAKI-AIRI-E0106` records a reciprocal hope and support channel.
+
+- [EVENT_0107 — Let's study hard！](PJSK_EVENT_0107_DEEP_READING.md): complete 23-story envelope; `REL-CROSS-MIZUKI-AN-E0007 → REL-CROSS-MIZUKI-AN-E0107` advances safe ordinary friendship into historically understood, reciprocally enacted, future-continuing school friendship.

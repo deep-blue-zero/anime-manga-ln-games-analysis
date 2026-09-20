@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0106
+## Current coverage — all five human units synchronized through EVENT_0107
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0106 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0106`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0107 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0107`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0106 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0107 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0107 is fully integrated:** Vivid BAD SQUAD is PRIMARY/HIGH and Nightcord at 25:00 is CO_PRIMARY/HIGH through one I3 relationship successor. `REL-CROSS-MIZUKI-AN-E0007 → REL-CROSS-MIZUKI-AN-E0107` advances safe ordinary friendship under incomplete disclosure into a historically understood and reciprocally enacted school friendship: the pair reconstruct An's non-exceptional approach during classroom stigma, interpret why the relation matters, exchange person-specific costly care through Mizuki's tailored notebook and An's remembered-preference gift, state continuity across class separation, and complete further chosen leisure. Preserve `VBS-AN-MS4`, `VBS-EP-AN-E0097`, and `MZ-E0093-01`; An's social explanation is retrospective and Mizuki's guarded issue remains undisclosed. WxS is CROSS_UNIT/HIGH I2 through Rui's adaptive teaching, mixed-group responsibility, and shared-memory framing. Leo/need is REPORTED_CONTEXT/LOW I1 and MMJ is NONE/I0. The verified envelope is 23 stories / 52 scenes / 1,498 records: eight core chapters, ten card halves, and five linked areas. No resolved guarded disclosure, stable attendance, permanent academic mastery, savior account, equal study-group intimacy, new character operative, unit successor, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0106 to EVENT_0107; EVENT_0108 is next and 8 events remain through EVENT_0115.
+
+Causal home: [EVENT_0107 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0107_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0107: 23 stories / 52 scenes / 1,498 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `REL-CROSS-MIZUKI-AN-E0007 → REL-CROSS-MIZUKI-AN-E0107`; create no character operative.
+- Preserve VBS, N25, WxS, Street, and family authorities proportionally; LN is reported I1 and MMJ I0.
+- The shared boundary is EVENT_0107; EVENT_0108 is next and 8 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0106 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0106 is fully integrated:** Leo/need is PRIMARY/VERY HIGH and MORE MORE JUMP! is CO_PRIMARY/VERY HIGH through three distinct I3 owners. New `LN-EP-SAKI-E0106` records Saki transforming a hospital-era survival and anti-erasure list into visible evidence of reciprocal belonging, returned photos and written thanks, and renewable shared future aims. `REL-CROSS-HARUKA-SAKI-E0004 → REL-CROSS-HARUKA-SAKI-E0106` advances practical trust into enacted chosen friendship through tailored help, mutual album-making, direct affirmation, ordinary follow-up, and planned future contact. New `REL-CROSS-SAKI-AIRI-E0106` records mediated hope becoming a directly known reciprocal support channel through a completed private live, Saki's hospital-history letter, continued fan support, Airi's received thanks and renewed hope-bearing commitment, and ordinary continuity. Preserve LN/MMJ group and School routes at strong I2. WxS and N25 are CROSS_UNIT/HIGH I2; VBS is CROSS_UNIT/MEDIUM I2. The verified envelope is 23 stories / 44 scenes / 1,500 records: eight core chapters, ten card halves, and five linked areas. No permanent health or abandonment-fear cure, universal memory, equal network intimacy, implemented Haruka transfer schedule, booked travel, unlimited idol access, broad fame, new unit successor, new Mafuyu state, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0105 to EVENT_0106; EVENT_0107 is next and 9 events remain through EVENT_0115.
 
@@ -1611,3 +1622,7 @@ The verified group contains eight core chapters (27 scenes, 696 records), twelve
 ### EVENT_0106 source and reconstruction review
 
 The verified group contains eight core chapters (24 scenes, 831 records), ten associated card halves (15 scenes, 627 records), and five linked areas (5 scenes, 42 records). `LN-EP-SAKI-E0106`, `REL-CROSS-HARUKA-SAKI-E0106`, and `REL-CROSS-SAKI-AIRI-E0106` own distinct I3 changes. LN/MMJ group, School-singer, WxS, N25, and VBS evidence remains proportionally bounded. Health permanence, universal memory, equal intimacy, transfer schedules, travel, idol access, fame, unit successors, Mafuyu successor, global singers, and complete reconstruction remain uncertified.
+
+### EVENT_0107 source and reconstruction review
+
+The verified group contains eight core chapters (28 scenes, 833 records), ten associated card halves (19 scenes, 613 records), and five linked areas (5 scenes, 52 records). `REL-CROSS-MIZUKI-AN-E0107` owns the sole I3 change. An, Mizuki, VBS, N25, WxS, Street, family, LN, and MMJ evidence remains proportionally bounded. Guarded disclosure, attendance, academic permanence, equal group intimacy, character successors, unit successors, global singers, and complete reconstruction remain uncertified.
