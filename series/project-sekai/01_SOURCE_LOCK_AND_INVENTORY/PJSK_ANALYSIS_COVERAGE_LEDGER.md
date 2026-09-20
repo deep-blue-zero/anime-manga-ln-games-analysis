@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0111
+## Current coverage — all five human units synchronized through EVENT_0112
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0111 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0111`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0112 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0112`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0111 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0112 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0112 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MF-E0100-01 → MF-E0112-01` advances Mafuyu's survival departure into a shared identity search: she preserves contradictory pain and warmth, retrieves personally necessary artifacts, names a tentative wish to stay beside suffering people, and accepts change with companions. New I3 `EPI-N25-SEKAI-E0112` records the Empty SEKAI lake as an incomplete, owner-specific material archive of painful and sustaining feelings; the closed door and sprout remain unresolved. New bounded I2 `REL-CROSS-HONAMI-MAFUYU-E0112` records Honami learning of the temporary stay, provisioning meals, and offering help without receiving the family history. Preserve `K-E0089-01`, `E-E0070-01`, `MZ-E0093-01`, `REL-N25-G-7`, `REL-N25-KM-E0100`, established family and Empty-singer authority, and Honami–Kanade care proportionally. Leo/need is CROSS_UNIT/MEDIUM I2; MMJ, VBS, and WxS are NONE/I0. The verified envelope is 30 stories / 60 scenes / 2,057 records: ten core chapters, ten card halves, and ten World Link areas. No permanent housing, family reconciliation, settled vocation, admissions result, Mizuki disclosure, rescue completion, universal symbolism, opened door, mature sprout, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0111 to EVENT_0112; EVENT_0113 is next and 3 events remain through EVENT_0115.
+
+Causal home: [EVENT_0112 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0112_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0112: 30 stories / 60 scenes / 2,057 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `MF-E0100-01 → MF-E0112-01`; create I3 `EPI-N25-SEKAI-E0112`; create bounded I2 `REL-CROSS-HONAMI-MAFUYU-E0112`.
+- Preserve the other N25 humans, group, dyads, Empty singers, Honami, and Honami–Kanade authority proportionally.
+- MMJ, VBS, and WxS are NONE/I0. The shared boundary is EVENT_0112; EVENT_0113 is next and 3 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0111 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0111 is fully integrated:** MORE MORE JUMP! is PRIMARY/VERY HIGH with three distinct I3 responsibilities. New `MMJ-EP-SZ-E0111` records Shizuku converting regret about responsibility-only performance into a demonstrated choice-support method: disclose relevant failure, invite pause and consultation, distinguish duty from sustainable desire, preserve the other person's authority, and incorporate family and institutional alternatives. New `MMJ-REL-GROUP-SAITO-E0111` advances Saito from trusted recurring helper to mutually accepted manager with immediate administrative implementation and a shared long horizon while pay, scope, and contract remain open. New `MMJ-REL-SAITO-FAMILY-E0111` records the move from mutual protective silence and assumed only-daughter duty to direct permission, nonfamily succession alternatives, and supported vocational choice. Preserve `MMJ-EP-SZ-E0011`, `MMJ-REL-GROUP-06`, all four MS-04 humans, and Stage authority proportionally. Leo/need, VBS, WxS, and N25 are NONE/I0. The verified envelope is 25 stories / 34 scenes / 1,507 records: eight core chapters, ten card halves, five linked areas, and two monthly Stage areas. No coercive rescue, finalized manager terms, durable employment proof, hired inn successor, completed live, Budokan readiness, broad fame, More More House, safe workload, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0110 to EVENT_0111; EVENT_0112 is next and 4 events remain through EVENT_0115.
 
@@ -1686,3 +1697,7 @@ The verified group contains eight core chapters (25 scenes, 782 records), ten as
 ### EVENT_0111 source and reconstruction review
 
 The verified group contains eight core chapters (15 scenes, 834 records), ten associated card halves (12 scenes, 597 records), five event-linked areas, and two monthly Stage areas (7 area scenes, 76 records). `MMJ-EP-SZ-E0111`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-SAITO-FAMILY-E0111` own the I3 changes. Finalized manager terms, durable employment, inn succession implementation, a completed live, Budokan readiness, broad fame, More More House, safe workload, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0112 source and reconstruction review
+
+The verified group contains ten core chapters, ten associated card halves, and ten World Link Nightcord areas: 30 stories / 60 scenes / 2,057 records. `MF-E0112-01` and `EPI-N25-SEKAI-E0112` own the I3 changes; `REL-CROSS-HONAMI-MAFUYU-E0112` is bounded I2. Permanent housing, reconciliation, settled careers, admissions, disclosure, completed rescue, universal symbolic decoding, an opened door, a mature plant, and global singer identity remain uncertified.

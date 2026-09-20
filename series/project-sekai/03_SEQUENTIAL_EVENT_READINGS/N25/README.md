@@ -44,3 +44,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0093 — Our Escape for Survival](PJSK_EVENT_0093_DEEP_READING.md): complete 25-story envelope; new `MZ-E0093-01` records Mizuki's bounded survival-retreat method, new `REL-FAMILY-MAFUYU-MOTHER-E0093` records material restriction and fear-bound resistance, and scoped `EPI-N25-MF-E0093` / `EPI-N25-G-E0093` preserve receipt boundaries while `REL-N25-MZM-3` and `REL-N25-G-7` remain strong I2.
 
 - [EVENT_0100 — 仮面の私にさよならを](PJSK_EVENT_0100_DEEP_READING.md): complete 23-story envelope; `MF-E0100-01`, `REL-FAMILY-MAFUYU-MOTHER-E0100`, `REL-N25-KM-E0100`, and `REL-N25-VS-KAITO-GROUP-E0100` are distinct I3 successors; N25 group, Mizuki, Miku, and Kanade human authority are preserved at strong I2.
+
+- [EVENT_0112 — 水底に影を探して](PJSK_EVENT_0112_DEEP_READING.md): complete 30-story World Link envelope; Mafuyu advances from survival departure into shared identity search, the Empty SEKAI lake becomes a bounded material archive, and Honami–Mafuyu domestic support begins at I2.

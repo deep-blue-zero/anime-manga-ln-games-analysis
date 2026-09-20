@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0111
+## Current state — founded units synchronized through EVENT_0112
 
-All five human units now track the same continuous event history through `EVENT_0111`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0111 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0112`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0112 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0099–0115 continuation — EVENT_0111 committed boundary
+### EVENT_0099–0115 continuation — EVENT_0112 committed boundary
+
+**EVENT_0112 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MF-E0100-01 → MF-E0112-01` advances Mafuyu's survival departure into a shared identity search: she preserves contradictory pain and warmth, retrieves personally necessary artifacts, names a tentative wish to stay beside suffering people, and accepts change with companions. New I3 `EPI-N25-SEKAI-E0112` records the Empty SEKAI lake as an incomplete, owner-specific material archive of painful and sustaining feelings; the closed door and sprout remain unresolved. New bounded I2 `REL-CROSS-HONAMI-MAFUYU-E0112` records Honami learning of the temporary stay, provisioning meals, and offering help without receiving the family history. Preserve `K-E0089-01`, `E-E0070-01`, `MZ-E0093-01`, `REL-N25-G-7`, `REL-N25-KM-E0100`, established family and Empty-singer authority, and Honami–Kanade care proportionally. Leo/need is CROSS_UNIT/MEDIUM I2; MMJ, VBS, and WxS are NONE/I0. The verified envelope is 30 stories / 60 scenes / 2,057 records: ten core chapters, ten card halves, and ten World Link areas. No permanent housing, family reconciliation, settled vocation, admissions result, Mizuki disclosure, rescue completion, universal symbolism, opened door, mature sprout, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0111 to EVENT_0112; EVENT_0113 is next and 3 events remain through EVENT_0115.
+
+The [EVENT_0112 reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0112_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 14 of the EVENT_0099–0115 goal sequence. The boundary advances from EVENT_0111 to EVENT_0112; EVENT_0113 is next and 3 events remain.
+
+### Historical continuation — EVENT_0111 committed boundary
 
 **EVENT_0111 is fully integrated:** MORE MORE JUMP! is PRIMARY/VERY HIGH with three distinct I3 responsibilities. New `MMJ-EP-SZ-E0111` records Shizuku converting regret about responsibility-only performance into a demonstrated choice-support method: disclose relevant failure, invite pause and consultation, distinguish duty from sustainable desire, preserve the other person's authority, and incorporate family and institutional alternatives. New `MMJ-REL-GROUP-SAITO-E0111` advances Saito from trusted recurring helper to mutually accepted manager with immediate administrative implementation and a shared long horizon while pay, scope, and contract remain open. New `MMJ-REL-SAITO-FAMILY-E0111` records the move from mutual protective silence and assumed only-daughter duty to direct permission, nonfamily succession alternatives, and supported vocational choice. Preserve `MMJ-EP-SZ-E0011`, `MMJ-REL-GROUP-06`, all four MS-04 humans, and Stage authority proportionally. Leo/need, VBS, WxS, and N25 are NONE/I0. The verified envelope is 25 stories / 34 scenes / 1,507 records: eight core chapters, ten card halves, five linked areas, and two monthly Stage areas. No coercive rescue, finalized manager terms, durable employment proof, hired inn successor, completed live, Budokan readiness, broad fame, More More House, safe workload, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0110 to EVENT_0111; EVENT_0112 is next and 4 events remain through EVENT_0115.
 
@@ -503,13 +509,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0111`. The complete 25-story envelope creates Shizuku's choice-support operative, the MMJ–Saito manager relationship, and the Saito-family permission transition. EVENT_0112 is next; 4 events remain through EVENT_0115.
+`ANALYSIS_CURRENT` is `EVENT_0112`. The complete 30-story envelope advances Mafuyu into shared identity search, creates the Empty-SEKAI lake authority, and adds bounded Honami–Mafuyu support. EVENT_0113 is next; 3 events remain through EVENT_0115.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0111` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0112` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0111_DEEP_READING.md) closes `EVENT_0111 — その手導くぬくもりは`, bucket `RB_20231031T060000Z`: eight core chapters, cards `0779–0783` both halves, five linked areas, and two monthly Stage areas. Shizuku, MMJ–Saito, and the Saito family receive distinct I3 responsibility.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0112_DEEP_READING.md) closes `EVENT_0112 — 水底に影を探して`, bucket `RB_20231108T110000Z`: ten core chapters, cards `0785–0789` both halves, and ten World Link areas. Mafuyu and the Empty-SEKAI lake receive I3 responsibility; Honami–Mafuyu receives bounded I2.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
