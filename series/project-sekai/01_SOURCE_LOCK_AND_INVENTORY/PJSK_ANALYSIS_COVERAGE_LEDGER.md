@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0134
+## Current coverage — all five human units synchronized through EVENT_0135
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0134 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0134`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0135 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0135`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0134 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0135 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0135 is fully integrated:** `VBS-EP-KH-E0103 → VBS-EP-KH-E0135` converts Kohane's pride into an audience-facing excitement rule; `VBS-REL-GROUP-1 → VBS-REL-GROUP-E0135` records coordinated completion of the founding goal and adoption of a world horizon; `VBS-REL-GROUP-KEN-E0109 → VBS-REL-GROUP-KEN-E0135` completes the mentorship; and `VBS-REL-STREET-AUDIENCE-E0129 → VBS-REL-STREET-AUDIENCE-E0135` records public surpassal receipt and changed Street practice. The verified envelope is 24 stories / 50 scenes / 2,265 records. No universal or objective performance scale, permanent technical supremacy, safe training doctrine, professional contract, broad fame, settled world route, guaranteed future victory, completed Akito–Arata rematch, cured grief, erased legend, permanent coalition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0134 to EVENT_0135. EVENT_0136 is next and 5 events remain through EVENT_0140.
+
+Causal home: [EVENT_0135 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0135_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0135: 24 stories / 50 scenes / 2,265 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH I3. Advance `VBS-EP-KH-E0103 → VBS-EP-KH-E0135`, `VBS-REL-GROUP-1 → VBS-REL-GROUP-E0135`, `VBS-REL-GROUP-KEN-E0109 → VBS-REL-GROUP-KEN-E0135`, and `VBS-REL-STREET-AUDIENCE-E0129 → VBS-REL-STREET-AUDIENCE-E0135`. Preserve `VBS-EP-AN-E0129`, `VBS-EP-AK-E0109`, `VBS-EP-TY-E0125`, `VBS-REL-KH-AN-E0129`, `VBS-REL-AK-TY-3`, `VBS-REL-AK-ARATA-E0021`, and `VBS-REL-STREET-VS-HUMANS-1`. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0135; EVENT_0136 is next and 5 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0134 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0134 is fully integrated:** `MF-E0112-01 → MF-E0134-01` advances Mafuyu's identity search into fear-aware, self-chosen disclosure grounded in mixed memory and present evidence. `REL-FAMILY-MAFUYU-FATHER-E0116 → REL-FAMILY-MAFUYU-FATHER-E0134` advances bounded visits into reciprocal crisis knowledge, apology, explicit autonomy, and enacted paternal alliance. Maternal repair, treatment outcome, home return, and Mizuki's disclosure remain open. The verified envelope is 28 stories / 53 scenes / 1,542 records. No settled vocation, recovered taste, cured fear, completed treatment, home return, maternal receipt or reconciliation, proven paternal follow-through, universal disclosure safety, Mizuki disclosure, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0133 to EVENT_0134. EVENT_0135 is next and 6 events remain through EVENT_0140.
 
@@ -2013,3 +2023,7 @@ The verified group contains 26 stories / 52 scenes / 1,497 records. No universal
 ### EVENT_0134 source and reconstruction review
 
 The verified group contains 28 stories / 53 scenes / 1,542 records. No settled vocation, recovered taste, cured fear, completed treatment, home return, maternal receipt or reconciliation, proven paternal follow-through, universal disclosure safety, Mizuki disclosure, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0135 source and reconstruction review
+
+The verified group contains 24 stories / 50 scenes / 2,265 records. No universal or objective performance scale, permanent technical supremacy, safe training doctrine, professional contract, broad fame, settled world route, guaranteed future victory, completed Akito–Arata rematch, cured grief, erased legend, permanent coalition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
