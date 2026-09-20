@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0125
+## Current coverage — all five human units synchronized through EVENT_0126
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0125 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0125`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0126 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0126`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0125 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0126 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0126 is fully integrated:** bounded I2 owner `REL-CROSS-AKITO-HONAMI-E0126` records Honami's consent-sensitive guidance and Akito's consequential receipt. Akito and Max complete one competition after gradual observation and trust-building, while the final startle preserves dog fear as unresolved beyond this specific partnership. Existing character and unit owners remain operative. The verified envelope is 23 stories / 32 scenes / 1,662 records. No generalized cure of dog fear, clinical diagnosis or treatment claim, forced exposure, permanent sport skill, competition victory, replacement of Ishihara as Max's partner, permanent mixed team, durable Honami authority, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0125 to EVENT_0126. EVENT_0127 is next and 14 events remain through EVENT_0140.
+
+Causal home: [EVENT_0126 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0126_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0126: 23 stories / 32 scenes / 1,662 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD and Leo/need are PRIMARY/HIGH I2 and CO-PRIMARY/HIGH I2; MORE MORE JUMP! and Wonderlands×Showtime are SUPPORTING/MEDIUM I2; Nightcord at 25:00 is NONE/I0. Create bounded relationship owner `REL-CROSS-AKITO-HONAMI-E0126`. Preserve `VBS-EP-AK-E0109`, `LN-EP-HONAMI-E0121`, `MMJ-EP-MN-E0122`, `WXS-EP-RUI-E0119`, and `REL-CROSS-LN-MMJ-SCHOOL-E0001`.
+- The shared boundary is EVENT_0126; EVENT_0127 is next and 14 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0125 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0125 is fully integrated:** `VBS-EP-TY-E0012 → VBS-EP-TY-E0125` records Toya's enacted ability to retain classical love and training as owned musical material without excusing coercion or abandoning street music. `VBS-REL-TOYA-FATHER-3 → VBS-REL-TOYA-FATHER-4` records direct craft intervention and explicit paternal pride in Toya's twelve musical years. The accepted first challenge song advances group preparation while the event and victory remain open. The verified envelope is 24 stories / 51 scenes / 1,615 records. No justification of coercive training, erased pain, safe workload, completed event or victory, permanent composition mastery, paternal apology or street-music endorsement, ongoing father mentorship, full family reconciliation, Arata return, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0124 to EVENT_0125. EVENT_0126 is next and 15 events remain through EVENT_0140.
 
@@ -1887,3 +1897,7 @@ The verified group contains 30 stories / 60 scenes / 1,963 records. No determini
 ### EVENT_0125 source and reconstruction review
 
 The verified group contains 24 stories / 51 scenes / 1,615 records. No justification of coercive training, erased pain, safe workload, completed event or victory, permanent composition mastery, paternal apology or street-music endorsement, ongoing father mentorship, full family reconciliation, Arata return, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0126 source and reconstruction review
+
+The verified group contains 23 stories / 32 scenes / 1,662 records. No generalized cure of dog fear, clinical diagnosis or treatment claim, forced exposure, permanent sport skill, competition victory, replacement of Ishihara as Max's partner, permanent mixed team, durable Honami authority, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
