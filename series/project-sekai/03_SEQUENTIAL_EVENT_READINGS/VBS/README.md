@@ -37,4 +37,12 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 
 - [EVENT_0028 — Awakening Beat](PJSK_EVENT_0028_DEEP_READING.md): complete 26-story envelope; new `VBS-EP-KH-E0028` records Kohane's tested relational-confidence method at I3, founded An–Kohane and group topology receive strong I2, An-side comparison remains OPEN, and Street singer evidence stays manifestation-local.
 
+- [EVENT_0059 — THE POWER OF UNITY](PJSK_EVENT_0059_DEEP_READING.md): complete-envelope reading centered on Akito's revision of competitive intensity toward people, handoff, and shared heat; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
+
+- [EVENT_0060 — 青空に願うユア・ハピネス！](PJSK_EVENT_0060_DEEP_READING.md): complete-envelope reading centered on An's borrowed self-presentation failure and the distinction between present authenticity and future aspiration, with substantial MMJ/Shizuku support; current founded-unit consequences are governed by the relevant EVENT_0029–0090 backfill checkpoints.
+
+- [EVENT_0064 — The Vivid Old Tale](PJSK_EVENT_0064_DEEP_READING.md): complete-envelope reading centered on An, Nagi, and Vivid Street's intergenerational social and musical ecology; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
+
+- [EVENT_0071 — Walk on and on](PJSK_EVENT_0071_DEEP_READING.md): complete-envelope reading centered on Toya's recipient-directed composition and recovery of inherited skill for chosen goals; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
+
 - [EVENT_0097 — Light Up the Fire](PJSK_EVENT_0097_DEEP_READING.md): complete 26-story envelope; new `VBS-EP-AN-E0097` grief-aware informed-pursuit operative I3, An–Ken concealment-rupture successor I3 with repair open, bounded high-I2 An–Nagi posthumous relation, and preserved VBS/Street topology without validating coercion.

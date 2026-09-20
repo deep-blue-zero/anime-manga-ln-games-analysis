@@ -41,4 +41,8 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 
 - [EVENT_0025 — ワンダーマジカルショウタイム！](PJSK_EVENT_0025_DEEP_READING.md): complete 30-story envelope; `WXS-EP-PARK-E0015-OPEN → WXS-EP-PARK-E0025` records one provisional institutional I3, while founded humans, group, park-support, cross-unit and Wonderland routes receive bounded I1/I2.
 
+- [EVENT_0055 — まばゆい光のステージで](PJSK_EVENT_0055_DEEP_READING.md): complete-envelope reading centered on Tsukasa's role diagnosis and perspective taking as an acting method; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
+
+- [EVENT_0062 — 絶体絶命！？アイランドパニック！](PJSK_EVENT_0062_DEEP_READING.md): complete-envelope reading centered on Nene's fear/courage mechanism and the troupe's portable role structure under material uncertainty; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
+
 - [EVENT_0095 — カナリアは窮境に歌う](PJSK_EVENT_0095_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-NENE-E0095` records integrated musical acting and experience seeking, new `WXS-REL-NENE-YUKA-E0095` is bounded high I2, and the WxS group, Rui, Sakurako and Wonderland relations receive strong-I2 reuse while unsafe overwork and unresolved troupe direction remain explicit.
