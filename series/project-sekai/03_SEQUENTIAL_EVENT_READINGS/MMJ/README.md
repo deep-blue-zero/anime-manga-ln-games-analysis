@@ -62,3 +62,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0130 — いつか花咲くステージへ](PJSK_EVENT_0130_DEEP_READING.md): complete 30-story World Link envelope; returned audience hope blooms into a Stage flower field and a shared MMJ growth criterion.
 
 - [EVENT_0133 — Lead to shine more](PJSK_EVENT_0133_DEEP_READING.md): complete 26-story envelope; a tested documentary choice becomes Haruka's producer method and MMJ's shared governance model.
+
+- [EVENT_0138 — Chase my IDEAL IDOL！](PJSK_EVENT_0138_DEEP_READING.md): complete 29-story envelope; Airi removes a self-imposed performance ceiling and turns peer admiration into reciprocal public challenge.

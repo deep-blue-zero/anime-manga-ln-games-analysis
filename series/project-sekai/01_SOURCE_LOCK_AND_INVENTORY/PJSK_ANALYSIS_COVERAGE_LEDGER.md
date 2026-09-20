@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0137
+## Current coverage — all five human units synchronized through EVENT_0138
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0137 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0137`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0138 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0138`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0137 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0138 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0138 is fully integrated:** new I3 `MMJ-EP-AI-E0138` records Airi's tested method of removing a self-assigned specialty boundary, seeking missing technique, integrating it with existing audience skill, and testing the composite publicly. New scoped I3 `MMJ-REL-AIRI-AKARI-E0138` records reciprocal professional admiration and enacted challenge through mutual performance effect, specific credit, direct thanks, and an open shared-purpose horizon. MMJ group, manager, prior Airi, and Stage owners remain distinct. The verified envelope is 29 stories / 49 scenes / 1,456 records. No total performance mastery, safe unlimited training, permanent removal of role assumptions, objective superiority over ReLight, durable fame, causal explanation for the missing work mail, guaranteed future collaboration, private Airi–Akari friendship, formal rivalry, validation of every Hiiragi judgment, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0137 to EVENT_0138. EVENT_0139 is next and 2 events remain through EVENT_0140.
+
+Causal home: [EVENT_0138 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0138_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0138: 29 stories / 49 scenes / 1,456 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! is PRIMARY/VERY HIGH I3. Create `MMJ-EP-AI-E0138` and scoped I3 `MMJ-REL-AIRI-AKARI-E0138`. Preserve `MMJ-EP-AI-E0092`, `MMJ-EP-AI-E0005`, `MMJ-REL-GROUP-E0133`, `MMJ-REL-GROUP-SAITO-E0111`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, and `REL-CROSS-LN-MMJ-SCHOOL-E0001`. Leo/need, Vivid BAD SQUAD, and Wonderlands×Showtime are CROSS_UNIT/LOW I1; Nightcord at 25:00 is NONE/I0.
+- The shared boundary is EVENT_0138; EVENT_0139 is next and 2 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0137 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0137 is fully integrated:** new I3 `EPI-LN-SEKAI-E0137` records the responsive School-SEKAI station, destinationless train, past-facing routes, star-field rails, and sprout as bounded material evidence. `LN-REL-G-E0121 → LN-REL-G-E0137` advances professional coordination into a jointly interpreted four-person journey: different past fears, explicit refusal of solitary advance, and collective boarding toward an undefined future. Current member, professional, and School-singer owners receive strong I2 applications. The verified envelope is 30 stories / 44 scenes / 1,781 records. No literal time travel, exact archival playback, deterministic station or sprout symbolism, known train destination, guaranteed professional success, stable mass fame, permanent group cohesion, identical ambition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0136 to EVENT_0137. EVENT_0138 is next and 3 events remain through EVENT_0140.
 
@@ -2055,3 +2065,7 @@ The verified group contains 28 stories / 49 scenes / 1,632 records. No universal
 ### EVENT_0137 source and reconstruction review
 
 The verified group contains 30 stories / 44 scenes / 1,781 records. No literal time travel, exact archival playback, deterministic station or sprout symbolism, known train destination, guaranteed professional success, stable mass fame, permanent group cohesion, identical ambition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0138 source and reconstruction review
+
+The verified group contains 29 stories / 49 scenes / 1,456 records. No total performance mastery, safe unlimited training, permanent removal of role assumptions, objective superiority over ReLight, durable fame, causal explanation for the missing work mail, guaranteed future collaboration, private Airi–Akari friendship, formal rivalry, validation of every Hiiragi judgment, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
