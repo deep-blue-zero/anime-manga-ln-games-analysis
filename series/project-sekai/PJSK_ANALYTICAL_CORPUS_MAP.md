@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0139
+## Current state — founded units synchronized through EVENT_0140
 
-All five human units now track the same continuous event history through `EVENT_0139`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0139 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0140`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0140 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0139 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0140 committed boundary
+
+**EVENT_0140 is fully integrated:** `EPI-PJSK-SEKAI-E0105 → EPI-PJSK-SEKAI-E0140` advances bounded cross-SEKAI ontology through a SEKAI-originating signal, origin-fragment access, newborn-manifestation observation, retained six-observer comparison, repeatable Interstice viewing, selected sensory leakage, and a strongly supported but still provisional shared growth space. All five units receive high-I2 founding reconstructions of local singer care while their current human owners remain unchanged. `CR-PJSK-SEKAI-040` is revised/strengthened and provisional `CR-PJSK-SEKAI-041` is strengthened. The verified envelope is 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified. The boundary advances EVENT_0139 to EVENT_0140. The EVENT_0116–0140 continuation is complete.
+
+The [EVENT_0140 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0140_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 25 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0139 committed boundary
 
 **EVENT_0139 is fully integrated:** `VBS-EP-TY-E0125 → VBS-EP-TY-E0139` advances Toya's integrated musical history into a recipient-tested method that joins original admiration, bounded struggle disclosure, technical diagnosis, outside insight, intended sound, and recipient-owned success. New scoped I3 `REL-CROSS-TOYA-KANADE-E0139` records joint aid, parallel family-rooted musical memories, reciprocal craft recognition, mutual instruction offers, and a continuing composition channel. N25, Saki, Tenma, VBS-group, and Street owners receive bounded applications. The verified envelope is 23 stories / 33 scenes / 1,584 records. No universal music-teaching formula, brass-instrument mastery, claim that love alone defeats technical limits, safe or painless persistence, guaranteed child ensemble career, completed Toya–Kanade collaboration, N25 identity disclosure, Mafuyu paternal report or receipt, family reconciliation, permanent VBS readiness for the world, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0138 to EVENT_0139. EVENT_0140 is next and 1 events remain through EVENT_0140.
 
@@ -671,13 +677,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0139`. Toya now uses recovered musical admiration and joy as both recipient-facing teaching evidence and a future hardship anchor; Kanade and Toya have an explicit reciprocal composition channel. `EVENT_0140` is next; 1 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0140`. Bounded cross-SEKAI ontology now includes retained origin-fragment access, repeatable Interstice observation of distinct local counterparts, selected sensory leakage, and a provisional shared growth space; all five founding care routes are reconstructed without new human successors. The EVENT_0116–0140 continuation is complete.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0139` for all five human units. The EVENT_0116–0140 continuation is active with 1 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0140` for all five human units. The EVENT_0116–0140 continuation is complete.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0139_DEEP_READING.md) closes `EVENT_0139 — 鳴らせビューティフルサウンド！`, bucket `RB_20240809T060000Z`: 23 stories / 33 scenes / 1,584 records. Toya now uses recovered musical admiration and joy as both recipient-facing teaching evidence and a future hardship anchor; Kanade and Toya have an explicit reciprocal composition channel.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0140_DEEP_READING.md) closes `EVENT_0140 — キミと、セカイの始まりで`, bucket `RB_20240817T110000Z`: 36 stories / 54 scenes / 2,131 records. Bounded cross-SEKAI ontology now includes retained origin-fragment access, repeatable Interstice observation of distinct local counterparts, selected sensory leakage, and a provisional shared growth space; all five founding care routes are reconstructed without new human successors.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 

@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0139
+## Current coverage — all five human units synchronized through EVENT_0140
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0139 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0139`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0140 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0140`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0139 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0140 forward transaction; EVENT_0116–0140 sequence complete
+
+**EVENT_0140 is fully integrated:** `EPI-PJSK-SEKAI-E0105 → EPI-PJSK-SEKAI-E0140` advances bounded cross-SEKAI ontology through a SEKAI-originating signal, origin-fragment access, newborn-manifestation observation, retained six-observer comparison, repeatable Interstice viewing, selected sensory leakage, and a strongly supported but still provisional shared growth space. All five units receive high-I2 founding reconstructions of local singer care while their current human owners remain unchanged. `CR-PJSK-SEKAI-040` is revised/strengthened and provisional `CR-PJSK-SEKAI-041` is strengthened. The verified envelope is 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified. The boundary advances EVENT_0139 to EVENT_0140. The EVENT_0116–0140 continuation is complete.
+
+Causal home: [EVENT_0140 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0140_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0140: 36 stories / 54 scenes / 2,131 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- The release is UNIVERSAL/VERY HIGH at franchise-ontology I3. Advance `EPI-PJSK-SEKAI-E0105 → EPI-PJSK-SEKAI-E0140`; revise/strengthen `CR-PJSK-SEKAI-040` and strengthen provisional `CR-PJSK-SEKAI-041`. Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are CO_PRIMARY/HIGH reconstruction I2. Preserve `LN-REL-SCHOOL-VS-MS`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, `VBS-REL-STREET-VS-HUMANS-1`, `REL-WXS-WONDERLAND-E0003`, `REL-N25-GM-E0054`, `REL-N25-VS-RIN-E0014`, and `REL-N25-VS-MEIKO-E0019`; create no current human successor.
+- The shared boundary is EVENT_0140; the EVENT_0116–0140 continuation is complete.
+
+### Historical coverage — EVENT_0139 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0139 is fully integrated:** `VBS-EP-TY-E0125 → VBS-EP-TY-E0139` advances Toya's integrated musical history into a recipient-tested method that joins original admiration, bounded struggle disclosure, technical diagnosis, outside insight, intended sound, and recipient-owned success. New scoped I3 `REL-CROSS-TOYA-KANADE-E0139` records joint aid, parallel family-rooted musical memories, reciprocal craft recognition, mutual instruction offers, and a continuing composition channel. N25, Saki, Tenma, VBS-group, and Street owners receive bounded applications. The verified envelope is 23 stories / 33 scenes / 1,584 records. No universal music-teaching formula, brass-instrument mastery, claim that love alone defeats technical limits, safe or painless persistence, guaranteed child ensemble career, completed Toya–Kanade collaboration, N25 identity disclosure, Mafuyu paternal report or receipt, family reconciliation, permanent VBS readiness for the world, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0138 to EVENT_0139. EVENT_0140 is next and 1 events remain through EVENT_0140.
 
@@ -2083,3 +2093,7 @@ The verified group contains 29 stories / 49 scenes / 1,456 records. No total per
 ### EVENT_0139 source and reconstruction review
 
 The verified group contains 23 stories / 33 scenes / 1,584 records. No universal music-teaching formula, brass-instrument mastery, claim that love alone defeats technical limits, safe or painless persistence, guaranteed child ensemble career, completed Toya–Kanade collaboration, N25 identity disclosure, Mafuyu paternal report or receipt, family reconciliation, permanent VBS readiness for the world, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0140 source and reconstruction review
+
+The verified group contains 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified.
