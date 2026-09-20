@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
 inventory_date: "2026-09-19"
-source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V015 inspected and closed, V010 checkpointed, and V016 next within the admitted V011-V020 run."
+source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V015 inspected and closed, V010 checkpointed, and V016 structurally verified and open within the admitted V011-V020 run."
 ---
 
 # Source and scope map
@@ -41,7 +41,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 | V013 | RAG-JP-EPUB-V013 | 91611550 | `f5ae389c6d458917ec43768604f4ad7bbc150841e007251a7760da520e231095` | 彼女、お借りします（１３） | `ja` | 195 | 196 | INSPECTED__CLOSED |
 | V014 | RAG-JP-EPUB-V014 | 93549400 | `bfaa9dc1d853fa7edb2088ab594c0652970db6585db186ce064f3e3445766cfa` | 彼女、お借りします（１４） | `ja` | 195 | 196 | INSPECTED__CLOSED |
 | V015 | RAG-JP-EPUB-V015 | 88836588 | `900975b67a2af3a5b8dc793c86e5fa7d7cd48ffaa30ed31f77f7b38af3cc1271` | 彼女、お借りします（１５） | `ja` | 195 | 196 | INSPECTED__CLOSED |
-| V016 | RAG-JP-EPUB-V016 | 97713337 | `93d15dcf6451f4997e11aa271b90469aebd3a19030544d9b8f0f01147ef2c890` | 彼女、お借りします（１６） | `ja` | 195 | 196 | INVENTORIED__NEXT_CANDIDATE |
+| V016 | RAG-JP-EPUB-V016 | 97713337 | `93d15dcf6451f4997e11aa271b90469aebd3a19030544d9b8f0f01147ef2c890` | 彼女、お借りします（１６） | `ja` | 195 | 196 | VERIFIED__ACTIVE_RUN_OPEN |
 | V017 | RAG-JP-EPUB-V017 | 97675741 | `287e41100066f3407e39dba482b12e0f6b2ef30a550936760d06634696a435eb` | 彼女、お借りします（１７） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
 | V018 | RAG-JP-EPUB-V018 | 99892358 | `ab643da4889afc7cd51441072c108e614576c45c55805ff0ffd0997193016f61` | 彼女、お借りします（１８） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
 | V019 | RAG-JP-EPUB-V019 | 98723881 | `94883ed90bee95609d76c9be7380bf92ceb7f8dfe1919adebd46cb1d4ebd6eb3` | 彼女、お借りします（１９） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
@@ -105,7 +105,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-V001-V015 are inspected and closed; V001-V010 are checkpointed and locally audited. V016-V020 remain admitted in order, with V016 the next candidate. V021-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001-V015 are inspected and closed; V001-V010 are checkpointed and locally audited. V016 is structurally verified and open under its entering freeze; V017-V020 remain admitted in order. V021-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 
