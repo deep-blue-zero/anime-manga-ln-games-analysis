@@ -12,5 +12,5 @@
   "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260919",
   "authority_status": "GIT_PRIMARY",
   "project_initiation_gate": "REQUIRED",
-  "catalog_note": "Japanese manga V001-V047 inventoried and hash-locked locally; the authorized continuous run is V001-V010. Foundations and day-one longitudinal instruments are initialized, with V001 the next analytical unit."
+  "catalog_note": "Japanese manga V001-V047 inventoried and hash-locked locally; V001-V020 are inspected, closed, checkpointed, and locally audited. V021 is the next sequential candidate and requires new explicit authorization before narrative inspection."
 }
