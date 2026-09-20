@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V022
-row_count: 113
-state: CURRENT_THROUGH_V022
+inspected_through_volume: V023
+row_count: 119
+state: CURRENT_THROUGH_V023
 ```
 
 ## Records
@@ -155,3 +155,9 @@ state: CURRENT_THROUGH_V022
 | RAG-TXN-111 | Chizuru, Kazuya, and Nagomi; heirloom ring and return obligation | Nagomi previously transferred the ring under an engagement premise; Chizuru retains it while intending return and asks Kazuya to help explain. | Possession and family care do not equal acceptance of engagement or ownership free of ethical burden. | Kazuya cannot unilaterally convert the object into a valid relationship agreement. | The pair coordinate around an unresolved material obligation; RAG-E-V022-010, RAG-E-V022-011. |
 | RAG-TXN-112 | Mami and the Kinoshita group; lodging and invitation access | Mami's family-manager connection supplies prior resort access, and Nagomi extends group inclusion through their active route. | Legitimate venue and social access permit presence, not unrestricted use of private relationship information. | The same access may support ordinary contact and strategic intervention; purpose remains unresolved. | Mami becomes embedded in the trip without a disclosed relational contract; RAG-E-V022-014 through RAG-E-V022-018. |
 | RAG-TXN-113 | Kazuya and Chizuru; direct confession attempt in room 8504 | No payment, project duty, or family bargain governs Kazuya's attempted answer to Chizuru's earlier question. | He may offer a confession, and Chizuru may hear, refuse, leave, delay, or answer on her own terms. | Recognition of the attempt creates no duty to accept, reciprocate, or remain in the room. | The attempt is legible but incomplete after avoidance and interruption; RAG-E-V022-021 through RAG-E-V022-023. |
+| RAG-TXN-114 | Kazuya and Chizuru; resort slide pairing and safety contact | Admission to the attraction supplies activity access, while attendants define the raft posture and safety holds. | Both participate and may accept, refuse, or stop the ride under those terms. | Public couple appearance and required contact create no romantic or sexual agreement. | Staged intimacy remains activity-bounded; RAG-E-V023-002, RAG-E-V023-003. |
+| RAG-TXN-115 | Kazuya and Chizuru; swimsuit recovery and fastening | A missing top creates a practical vulnerability; Kazuya offers a specific task and Chizuru agrees. | He retrieves, turns away, ties, and stops. | Consent applies only to solving the clothing problem and does not generalize to touch. | The sequence models clear act-specific permission under sexualized framing; RAG-E-V023-005. |
+| RAG-TXN-116 | Mami and Ruka; information and prospective support offer | No friendship, payment, or alliance contract governs Mami's questions and offer to contact Ruka. | Ruka may answer, refuse, use, or distrust the route. | Concern language and shared opposition to the public story create no authority over Chizuru or Kazuya. | A coalition possibility opens without agreement; RAG-E-V023-004, RAG-E-V023-014 through RAG-E-V023-016. |
+| RAG-TXN-117 | Kazuya and Mami; selective disclosure and requested cover cooperation | Former-partner history supplies context but no duty to conceal or expose. | Kazuya admits the lie and requests temporary unawareness; Mami questions trust and timing. | Candor to Mami does not authorize indefinite family deception or compel her cooperation. | A negotiated information problem replaces pure mutual suspicion without reaching agreement; RAG-E-V023-008 through RAG-E-V023-011. |
+| RAG-TXN-118 | Ruka, Kazuya, and Chizuru; false access pretext and fabricated sexual evidence | Neither disputed trial status nor rivalry authorizes deceptive isolation, touch, or false sexual claims. | Kazuya may refuse, remove Ruka, and deny the event; Chizuru may verify independently. | Ruka's feeling and the wrapper's material form create no consent, truth, or relational debt. | The tactic becomes directly contested but not fully repaired; RAG-E-V023-012, RAG-E-V023-013, RAG-E-V023-016 through RAG-E-V023-018. |
+| RAG-TXN-119 | Nagomi, Chizuru, and the group; hospitality and chosen-family benefit | Nagomi's organized trip and group access are supplied as care under the believed couple relation. | Chizuru may receive and value the experience while retaining control over truth and status. | Emotional benefit creates gratitude and pressure but no duty to marry, remain deceptive, or reciprocate romantically. | The day becomes explicitly valuable while the premise remains uncorrected; RAG-E-V023-020 through RAG-E-V023-022. |

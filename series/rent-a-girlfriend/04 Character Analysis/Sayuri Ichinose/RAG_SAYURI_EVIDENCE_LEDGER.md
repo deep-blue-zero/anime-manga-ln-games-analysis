@@ -4,13 +4,13 @@ artifact_id: RAG_SAYURI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; direct character evidence inspected through Sayuri's death in V018 and later memory references reviewed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; direct character evidence inspected through Sayuri's death in V018 and later memory references reviewed through V023."
 ---
 
 # Sayuri Ichinose evidence ledger
@@ -29,7 +29,7 @@ former_screen_name: 鳳小百合
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V023
 last_direct_conduct_volume: V018
 local_readiness: UNMODELED
 ~~~
@@ -65,6 +65,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-SAY-E021 | SAY-S005 | RAG-E-V018-008 | Final mutual recognition; death | Exchanges love with Chizuru and dies before the later funeral. | Closes the direct grandmother-granddaughter relation through explicit affection. | The scene supplies no precise medical mechanism and no later conduct can test generalization. | none; model withheld |
 | RAG-SAY-E022 | POST-SAY | RAG-E-V019-004, RAG-E-V019-005, RAG-E-V019-009, RAG-E-V019-010 | Later report and memory; continuing influence | Chizuru relays Sayuri's praise, and ordinary family images and sparklers activate memories of Sayuri and Katsuhito. | Sayuri remains consequential through reported judgment and grief memory. | These are other characters' later states, not new Sayuri conduct. | none; historical influence only |
 | RAG-SAY-E023 | POST-SAY | RAG-E-V020-002 | Posthumous vocational consequence; limit | Chizuru affirms continued acting after Sayuri's death. | The family-linked vocation persists beyond its original intended witness. | The decision belongs to Chizuru and cannot be back-projected as new Sayuri intent. | none; historical influence only |
+| RAG-SAY-E024 | POST-SAY | RAG-E-V023-020 through RAG-E-V023-022 | Remembered happiness teaching and chosen-family consequence; continuing influence | Chizuru recalls Sayuri teaching her to recognize happiness within difficult circumstances and to trust that people who want to remain nearby will gather, then applies it to the resort group. | Sayuri's guidance remains behaviorally and emotionally consequential after death. | The memory is Chizuru's present reconstruction and cannot establish Sayuri's view of the full rental truth or current group. | none; historical influence only |
 
 ## State-change summary
 
@@ -73,7 +74,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - SAY-S003 — hospitalized former performer inside a truth conflict: her health crisis raises disclosure stakes while her screen history supplies the inherited vocational route.
 - SAY-S004 — consenting film recipient under declining health: authorizes story use, receives the project as hope, evaluates Chizuru's acting and Kazuya's support, and collapses before the planned screening.
 - SAY-S005 — terminal recipient of partial truth, unfinished film, and final love: responds, hears a non-dating correction, leaves the answer with Chizuru, praises the film, and dies.
-- POST-SAY — later influence: her judgments and family rituals persist through report, memory, grief, and Chizuru's continuing vocation; these are not additional character states.
+- POST-SAY — later influence: her judgments and family rituals persist through report, memory, grief, Chizuru's continuing vocation, and V023's explicit application of her happiness teaching to chosen-family recognition; these are not additional character states.
 
 ## Written-speech and ordinary-conduct notes
 

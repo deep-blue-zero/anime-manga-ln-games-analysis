@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V022
-row_count: 128
-state: CURRENT_THROUGH_V022
+inspected_through_volume: V023
+row_count: 136
+state: CURRENT_THROUGH_V023
 ```
 
 ## Records
@@ -170,3 +170,11 @@ state: CURRENT_THROUGH_V022
 | RAG-INF-126 | Nagomi knows accurate public facts about Chizuru's acting and Kazuya's crowdfunding-producer work while remaining outside the rental truth. | She praises the film activity during the hotel arrival. | Professional truth enters a family model still anchored in romantic falsehood. | The source and timing of every fact are not fully shown; RAG-E-V022-018, RAG-E-V022-019. |
 | RAG-INF-127 | Kuribayashi and Mami establish mutual awareness that Chizuru remains connected to rental work. | He asks directly, and Mami gives a limited confirmation. | Two partly informed observers can now recognize a shared hidden premise inside the trip. | Neither reveals the complete deception network or a coordinated plan; RAG-E-V022-020. |
 | RAG-INF-128 | Chizuru recognizes Kazuya's intended confession before he completes it, while Kazuya infers that his meaning was legible. | He begins answering her Saizeriya question; she retreats, and he interprets the avoidance afterward. | Romantic information becomes mutually recognizable without reaching a proposition or answer. | Kazuya's explanation of her flight is inference rather than her admitted motive; RAG-E-V022-021 through RAG-E-V022-023. |
+| RAG-INF-129 | Mami learns more about Ruka's attachment and positions herself as a possible support route. | She asks whether Ruka loves Kazuya, invokes rental rules and consequences, and says she will contact her. | The embedded trip creates direct information exchange between two rivals. | Ruka does not accept an alliance or disclose every fact; RAG-E-V023-004. |
+| RAG-INF-130 | Mami independently confirms Chizuru's visible rental profile. | She searches for and views the profile on her phone. | Platform evidence supplements her earlier public-project and apartment-residue evidence. | A current profile does not reveal off-platform conduct, feeling, or every term; RAG-E-V023-006. |
+| RAG-INF-131 | Chizuru receives a conditional disclosure assurance from Mami. | Mami says she will not suddenly expose the rental arrangement without warning. | Immediate uncertainty narrows from arbitrary surprise to an explicit threat-and-warning structure. | The statement promises neither silence nor good-faith notice in every circumstance; RAG-E-V023-008. |
+| RAG-INF-132 | Mami learns directly that Kazuya lied about Chizuru's presence, that Nagomi remains uninformed, and that he sequences correction after confession. | Kazuya voluntarily admits the facts and asks Mami to act unaware; she tests his trust and timing. | A formerly inferred deception becomes explicit shared knowledge between former partners. | Nagomi and the wider group remain uninformed, and Kazuya's plan is prospective; RAG-E-V023-008 through RAG-E-V023-010. |
+| RAG-INF-133 | Kibe and Kuribayashi hear Ruka call herself Kazuya's girlfriend while Kazuya objects. | The contradictory claims occur before the mixed peer audience. | The audience now receives visible status conflict rather than only ambiguous closeness. | Neither peer receives the complete breakup, trial, or fabrication history; RAG-E-V023-012. |
+| RAG-INF-134 | Mami tells Ruka the family believes Chizuru is a future bride, asks whether Chizuru likes Kazuya, and tests whether Ruka will tell Nagomi. | A private dialogue integrates rental, family, and rivalry propositions. | Mami uses one partly informed actor to test both romantic inference and disclosure capacity. | Suspicion is not Chizuru's self-report, and no disclosure pact follows; RAG-E-V023-014 through RAG-E-V023-016. |
+| RAG-INF-135 | Ruka repeats the false sex claim before Kazuya and Chizuru, and Kazuya directly denies it. | The fabricated wrapper and verbal account meet immediate contradictory testimony from the alleged participant. | Chizuru's information state now contains a direct dispute rather than unchallenged material appearance. | Kazuya does not yet provide a full history of the trial or fabrication; RAG-E-V023-016, RAG-E-V023-017. |
+| RAG-INF-136 | Chizuru directly checks the disputed claim with Kazuya. | She pulls him aside and asks whether he lied. | Verification becomes an interpersonal test rather than a private inference. | The volume withholds a complete answer exchange and her final belief; RAG-E-V023-018. |

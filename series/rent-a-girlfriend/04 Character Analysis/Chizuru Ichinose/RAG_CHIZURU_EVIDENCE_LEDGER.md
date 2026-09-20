@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; character evidence inspected through V022."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; character evidence inspected through V023."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V022
+inspected_through_volume: V023
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -148,6 +148,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E106 | CHI-S024 | RAG-E-V022-010 through RAG-E-V022-012 | Ring ethics, operational alliance, and family-memory disclosure | Shows Kazuya the ring, maintains her intent to return it, offers to help explain, agrees to get through the trip, and says she wanted a family-trip experience she never had. | Joins material correction, reciprocal coordination, and a direct personal reason for accepting family access. | No return, disclosure, or couple classification is completed. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R005, RAG-CHI-R018 |
 | RAG-CHI-E107 | CHI-S024 | RAG-E-V022-014 through RAG-E-V022-018 | Mami's embedded access and family information transfer | Encounters Mami inside the trip, exchanges wary looks, and sees Nagomi reveal knowledge of the acting and film route. | Faces the information threat in the family setting she had agreed to enter. | Her appraisal and next action toward Mami remain withheld. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R017 |
 | RAG-CHI-E108 | CHI-S024 | RAG-E-V022-021, RAG-E-V022-022, RAG-E-V022-025 | Recognition and avoidance of immediate confession | Understands that Kazuya is beginning to answer her Saizeriya question, retreats into the bathroom, and later rejoins the pool group. | Preserves control of response timing by leaving a private, high-pressure exchange. | Avoidance supplies neither rejection nor acceptance, and the group interruption prevents follow-up. | RAG-CHI-R003, RAG-CHI-R016, RAG-CHI-R018 |
+| RAG-CHI-E109 | CHI-S025 | RAG-E-V023-002, RAG-E-V023-003, RAG-E-V023-005 | Activity consent and bounded practical vulnerability | Accepts the two-person raft and required hold, then asks for help after losing her top and agrees to Kazuya fastening it. | Controls participation and specific bodily assistance inside an exposed setting. | Consent remains activity- and task-specific and supplies no romantic classification. | RAG-CHI-R003, RAG-CHI-R018 |
+| RAG-CHI-E110 | CHI-S025 | RAG-E-V023-007 | Role-framed compliment request and relationship monitoring | Asks Kazuya for a swimsuit opinion as girlfriend practice, accepts the detailed praise, and asks whether something happened with Ruka. | Combines playful provider language with active information seeking. | The role frame and inquiry do not identify a romantic self-answer. | RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R016 |
+| RAG-CHI-E111 | CHI-S025 | RAG-E-V023-008 | Conditional disclosure warning under family inclusion | Receives Nagomi's embrace and Mami's promise not to expose the rental arrangement without warning while remaining wary of the proposed rescue. | Holds family care and disclosure threat in the same immediate setting. | Wariness does not establish Mami's motive or Chizuru's final response plan. | RAG-CHI-R002, RAG-CHI-R017, RAG-CHI-R018 |
+| RAG-CHI-E112 | CHI-S025 | RAG-E-V023-016 through RAG-E-V023-018 | Wrapper discovery and direct source checking | Sees the wrapper, hears Ruka repeat the sex claim and Kazuya deny it, then pulls Kazuya aside and asks whether he lied. | Converts a consequential rival claim into a direct verification question. | The exchange does not record a complete debrief, final belief, or romantic answer. | RAG-CHI-R016, RAG-CHI-R017, RAG-CHI-R019 |
+| RAG-CHI-E113 | CHI-S025 | RAG-E-V023-020 through RAG-E-V023-022 | Sayuri-guided chosen-family recognition | Recalls Sayuri's teaching about finding present happiness, recognizes the gathered group as people beside her, and calls the day the best. | Gives explicit personal value to post-bereavement family inclusion. | Belonging does not validate the false couple premise, return the ring, or classify Kazuya romantically. | RAG-CHI-R004, RAG-CHI-R014, RAG-CHI-R018 |
 
 ## State-change summary
 
@@ -175,6 +180,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S022 — continuing actor and direct questioner under incomplete romantic information:** receives public film exhibition, reaffirms acting as her own choice, initiates unbooked contact, reaccounts for the crying, accepts ordinary food and wine, asks whether Kazuya likes her, hears his partly delivered answer, and later avoids public discussion without supplying a final classification.
 - **CHI-S023 — professional-world host and deception monitor under direct Mami pressure:** invites Kazuya into her acting network, gives a conditional account of wanted partnership, reconstructs the apartment information leak, forms a mutual-watch route, answers Mami's evidence-backed challenge, and decides to help Kazuya while her response and method remain withheld.
 - **CHI-S024 — family-trip participant under fabricated rivalry evidence and immediate confession pressure:** accepts Nagomi's bereavement care, holds Ruka's false wrapper claim, coordinates the ring and cover problem with Kazuya, names her own missing family-trip experience, faces Mami inside the group, and avoids a confession she recognizes before it is completed.
+- **CHI-S025 — chosen-family participant under direct credibility testing:** controls exposed practical help through specific agreement, playfully seeks appraisal within a role frame, receives Mami's conditional disclosure warning, checks Ruka's repeated sex claim with Kazuya directly, and identifies the group experience as her best day through Sayuri's teaching without supplying a romantic answer.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
@@ -209,6 +215,7 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - V020 makes direct romantic information consequential without completing it: Chizuru initiates ordinary access, asks whether Kazuya likes her, hears him identify her as his ideal girlfriend, privately replays the interrupted declaration, and later prevents a public discussion before friends (RAG-E-V020-009 through RAG-E-V020-024).
 - V021 extends selective access into her acting network and gives direct conditional partnership language, then shifts her attention to evidence reconstruction and controlled response when Mami combines apartment residue, public project data, and former-partner testimony (RAG-E-V021-002 through RAG-E-V021-009, RAG-E-V021-014 through RAG-E-V021-024).
 - V022 shows that grief-linked family inclusion can outweigh a planned professional refusal while Chizuru retains ethical control over the ring, chooses a reciprocal get-through alliance, and leaves an immediate confession rather than supply an answer under compounded pressure (RAG-E-V022-003 through RAG-E-V022-012, RAG-E-V022-021, RAG-E-V022-022).
+- V023 shows controlled participation across different domains: Chizuru gives specific permission for practical help, asks Kazuya about Ruka, receives Mami's disclosure warning, converts the wrapper conflict into a direct source check, and explicitly values the group as chosen family while leaving the false premise and romantic classification unresolved (RAG-E-V023-002, RAG-E-V023-003, RAG-E-V023-005 through RAG-E-V023-008, RAG-E-V023-016 through RAG-E-V023-022).
 
 ## Gaps and negative evidence
 

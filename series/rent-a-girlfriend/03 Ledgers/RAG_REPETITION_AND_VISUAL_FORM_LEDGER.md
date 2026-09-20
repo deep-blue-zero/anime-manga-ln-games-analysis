@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V022
-row_count: 122
-state: CURRENT_THROUGH_V022
+inspected_through_volume: V023
+row_count: 128
+state: CURRENT_THROUGH_V023
 ```
 
 ## Records
@@ -164,3 +164,9 @@ state: CURRENT_THROUGH_V022
 | RAG-FRM-120 | Ring close-ups, travel views, and grandparent memories join material obligation to desired family experience. | Chizuru pairs the need to return the heirloom with an admission that she wanted the trip. | The sequence permits care and ethical burden to coexist without resolving either into romance. | Memory and object emphasis do not complete disclosure or define her romantic feeling; RAG-E-V022-010 through RAG-E-V022-012. |
 | RAG-FRM-121 | The lobby reveal gathers Mami, Ruka, Chizuru, Kazuya, Nagomi, Kibe, and Kuribayashi into one reaction field. | Mami's quiet seated presence collapses compartments that had been maintained across separate locations and audiences. | Spatial convergence makes the information threat immediate before any overt exposure. | Group shock does not prove a shared understanding or Mami's exact plan; RAG-E-V022-014 through RAG-E-V022-020. |
 | RAG-FRM-122 | Room keys, a bathroom door, interrupted speech, and pool spectacle repeatedly stage access without completed classification. | Kazuya reaches a private confession opening, Chizuru closes a door, others arrive, and the volume ends on public bodily display. | Hotel architecture converts lodging into alternating intimacy and interruption pressure. | Neither proximity nor spectacle supplies consent, confession, or an answer; RAG-E-V022-021 through RAG-E-V022-025. |
+| RAG-FRM-123 | Raft seating, safety holds, a drifting top, turned gaze, and tied strap distinguish staged proximity from task-bounded care. | The pool sequence escalates spectacle, then resolves the actual problem through explicit offer and agreement. | Visual form tests whether erotic framing will be mistaken for consent and supplies a contrary act-by-act record. | Panel emphasis and Kazuya's focalization do not broaden Chizuru's permission; RAG-E-V023-001 through RAG-E-V023-005. |
+| RAG-FRM-124 | Phone profile, private corners, and soft warning language turn resort leisure into distributed information work. | Mami moves among Ruka, Chizuru, Kazuya, and the platform while maintaining different registers. | Interfaces and spatial separation let one actor test several compartments without public exposure. | Parallel staging does not prove a single master plan or insincerity in every register; RAG-E-V023-004, RAG-E-V023-006, RAG-E-V023-008 through RAG-E-V023-011. |
+| RAG-FRM-125 | Public girlfriend declaration and a false lost-key route convert ordinary resort objects into status and access tools. | Ruka moves from group speech to grotto isolation by inventing a practical need. | The form makes public appearance and private coercion part of one escalation. | Object pretext does not create consent or validate the declared status; RAG-E-V023-012, RAG-E-V023-013. |
+| RAG-FRM-126 | The torn wrapper returns from hidden portable evidence to a shared visible dispute. | Ruka displays and narrates it, Kazuya denies the event, and Chizuru initiates a source check. | Repetition changes the prop from unilateral persuasion into contested evidence. | Visibility and repetition cannot make the fabricated event true or settle Chizuru's final belief; RAG-E-V023-016 through RAG-E-V023-018. |
+| RAG-FRM-127 | A sleeve pull and the short question about lying compress a large relational conflict into direct private address. | Chizuru exits the group flow long enough to test Kazuya's credibility. | Minimal dialogue marks a shift from silent possession of the wrapper to active verification. | Brevity withholds the complete answer and should not be read as romantic resolution; RAG-E-V023-018. |
+| RAG-FRM-128 | Sayuri flashback, group tableau, tearful close-ups, and Chizuru's final smile convert a resort show into chosen-family recognition. | Remembered teaching about finding present happiness is visually answered by the people gathered around her. | Cross-temporal montage gives bereavement memory a current social consequence. | Formal linkage does not validate the false couple story or identify one person as Chizuru's romantic choice; RAG-E-V023-020 through RAG-E-V023-022. |

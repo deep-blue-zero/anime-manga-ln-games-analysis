@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V022
-row_count: 127
-state: CURRENT_THROUGH_V022
+inspected_through_volume: V023
+row_count: 133
+state: CURRENT_THROUGH_V023
 ```
 ```
 
@@ -170,3 +170,9 @@ state: CURRENT_THROUGH_V022
 | RAG-PRG-125 | Mami's family intervention route | MAJOR ACCESS_GAIN — Mami's Nagomi and venue routes place her inside the shared trip with project knowledge and a retained ending objective. | She can now act before family, peers, rivals, and both principals in one setting. | Exact planning, motive, and intended intervention remain withheld. | RAG-E-V022-014 through RAG-E-V022-019 |
 | RAG-PRG-126 | Deception-correction pressure | COMPOUND ESCALATION — the ring, mixed knowledge sets, Mami's presence, Kibe's family appeal, and Kazuya's broader truth resolve converge at the hotel. | Multiple independent routes can now expose or correct the public account. | No truth correction occurs, and Ruka adds a new falsehood to the system. | RAG-E-V022-008 through RAG-E-V022-011, RAG-E-V022-016 through RAG-E-V022-024 |
 | RAG-PRG-127 | Kazuya's confession route | DIRECT ATTEMPT_WITH_ACTIVE_AVOIDANCE — he imposes a trip deadline and begins answering Chizuru's prior question before she retreats and others interrupt. | The intended confession is now mutually legible in a direct private encounter. | No proposition or response completes; renewed resolve does not ensure execution. | RAG-E-V022-013, RAG-E-V022-019, RAG-E-V022-021 through RAG-E-V022-023 |
+| RAG-PRG-128 | Kazuya-Chizuru bodily coordination | BOUNDED_CONSENT_GAIN — slide contact remains activity-governed, and the swimsuit problem is solved after a specific offer and agreement. | High-arousal proximity produces practical care without boundary collapse. | One emergency-like task does not establish general intimacy or romantic classification. | RAG-E-V023-002, RAG-E-V023-003, RAG-E-V023-005 |
+| RAG-PRG-129 | Mami's intervention route | MULTI_TARGET_OPERATIONAL_GAIN — she probes Ruka, verifies Chizuru's profile, warns Chizuru, tests Kazuya, and raises Nagomi disclosure. | Embedded access becomes observable action across four information routes. | No final motive, alliance, or public intervention is established. | RAG-E-V023-004, RAG-E-V023-006, RAG-E-V023-008 through RAG-E-V023-016 |
+| RAG-PRG-130 | Kazuya's truth correction | SELECTIVE_CANDOR_WITH_PUBLIC_STALL — he admits the cover lie to Mami and requests temporary cooperation while tying correction to confession. | He acts before exposure and gives one informed observer an accurate account. | Nagomi remains deceived, and both confession and correction are deferred. | RAG-E-V023-008 through RAG-E-V023-010, RAG-E-V023-019 |
+| RAG-PRG-131 | Ruka separation and consent | FURTHER_REGRESSION_THROUGH_PUBLIC_AND_PRIVATE_PRESSURE — she asserts girlfriend status, uses a false key story for bodily access, and repeats fabricated sexual evidence. | The attempted termination is answered by expanded coercive and deceptive conduct. | Kazuya objects, removes her, and denies the claim; no mutual status returns. | RAG-E-V023-012, RAG-E-V023-013, RAG-E-V023-017 |
+| RAG-PRG-132 | Wrapper verification | CORRECTION_GAIN_WITH_INCOMPLETE_RESOLUTION — Kazuya denies the claim and Chizuru questions him directly. | The fabricated object no longer operates as uncontested evidence. | The volume supplies no complete debrief or final belief statement. | RAG-E-V023-016 through RAG-E-V023-018 |
+| RAG-PRG-133 | Chizuru's family inclusion | MAJOR_AFFECTIVE_GAIN_WITH_DECEPTION_COST — Sayuri's remembered teaching lets Chizuru recognize the gathered group as present happiness and call the day the best. | The trip supplies explicit chosen-family value after bereavement. | The care remains organized through a false couple premise, and no ring or truth correction follows. | RAG-E-V023-020 through RAG-E-V023-022 |

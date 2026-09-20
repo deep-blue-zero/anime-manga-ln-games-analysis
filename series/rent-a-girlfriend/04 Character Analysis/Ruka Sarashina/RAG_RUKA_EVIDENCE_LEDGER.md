@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V022; character evidence inspected through V022, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V023; character evidence inspected through V023, with V012-V013 and V019 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V022
+inspected_through_volume: V023
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -95,6 +95,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E055 | RUK-S018 | RAG-E-V022-003, RAG-E-V022-004 | Family-trip entry and direct rival monitoring | Immediately accepts Nagomi's Hawaiians invitation, then questions why Chizuru did not refuse it. | Preserves close access and tests her rival's choice inside a family-care setting. | Nagomi's invitation is not recognition of Ruka's claimed romantic status. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R010 |
 | RAG-RUK-E056 | RUK-S018 | RAG-E-V022-005, RAG-E-V022-006 | Deliberate sexual-evidence fabrication | Shows Chizuru a torn condom wrapper, falsely says she and Kazuya had sex, and privately identifies the lie as a wedge based on suspicion that Chizuru likes him. | Targets the rival's information state with portable material evidence rather than only asserting status. | The sexual event did not occur, and the volume does not show how long the claim succeeds. | RAG-RUK-R002, RAG-RUK-R007, RAG-RUK-R010, RAG-RUK-R011 |
 | RAG-RUK-E057 | RUK-S018 | RAG-E-V022-008, RAG-E-V022-016, RAG-E-V022-025 | Public closeness and trip-group monitoring | Clings to Kazuya before the mixed audience, recognizes Mami as his former girlfriend, and later leads the group toward the pool. | Continues status display while tracking an additional rival inside the shared trip. | Display and group leadership establish no mutual romantic agreement. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R007, RAG-RUK-R011 |
+| RAG-RUK-E058 | RUK-S019 | RAG-E-V023-004 | Mami probe and prospective coalition contact | Answers Mami's questions about loving Kazuya while hearing rental-rule consequences and an offer of future contact. | Becomes a direct target of another informed actor's intervention strategy. | The exchange establishes no trust, alliance, or surrender of Ruka's own goal. | RAG-RUK-R002, RAG-RUK-R010 |
+| RAG-RUK-E059 | RUK-S019 | RAG-E-V023-012, RAG-E-V023-013 | Public girlfriend claim and deceptive physical isolation | Declares herself Kazuya's girlfriend, fabricates a lost-key problem, isolates him, and presses against him before he removes her. | Carries unilateral status into both peer display and private bodily pressure. | Kazuya objects and does not consent or restore the trial. | RAG-RUK-R001, RAG-RUK-R005, RAG-RUK-R010, RAG-RUK-R012 |
+| RAG-RUK-E060 | RUK-S019 | RAG-E-V023-014 through RAG-E-V023-016 | Real-status and Nagomi-disclosure test from Mami | Hears Mami contrast paid performance with the family's bride belief, ask whether Chizuru likes Kazuya, and test whether Ruka will tell Nagomi. | Forces Ruka to evaluate rivalry and exposure through another actor's framework. | Her internal response does not become a completed coalition or disclosure. | RAG-RUK-R002, RAG-RUK-R011, RAG-RUK-R012 |
+| RAG-RUK-E061 | RUK-S019 | RAG-E-V023-016, RAG-E-V023-017 | Repetition of fabricated sexual evidence under direct challenge | Reintroduces the wrapper, calls it a first-time keepsake, tells Chizuru the sex claim again, and asks Kazuya to affirm their relationship. | Attempts to preserve the wedge after it enters a shared confrontation. | Kazuya immediately denies the claim, and Chizuru begins independent verification. | RAG-RUK-R002, RAG-RUK-R011, RAG-RUK-R012 |
 
 ## State-change summary
 
@@ -116,8 +120,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S016 — post-truce pursuer obtaining negotiated local access: asks for reciprocal attention, accepts refusal of overnight travel, substitutes a nearby bath outing, obtains explicit permission for a five-second hug, and seeks ordinary recognition without changing the provisional status.
 - RUK-S017 — rejected-trial terminus resister: acknowledges Kazuya's love for Chizuru but refuses his breakup request, asserts unilateral feeling and fate as sufficient, promises further rule violations, and increases contact pressure.
 - RUK-S018 — coercive rival using fabricated evidence after termination: attempts overnight access, forces another kiss, enters the family trip, monitors Chizuru, and deliberately manufactures a sexual claim and material prop to wedge the pair apart.
+- RUK-S019 — public claimant repeating a fabricated wedge under challenge: receives Mami's possible-coalition and disclosure tests, declares girlfriend status before peers, uses a false-key pretext for bodily access, and repeats the wrapper-backed sex claim after Kazuya's withdrawal while he denies it and Chizuru verifies independently.
 
-V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, V020 shows a request-and-permission consequence, V021 shows explicit refusal of a breakup with renewed access pressure, and V022 escalates into forced contact and deliberate sexual-evidence fabrication.
+V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, V020 shows a request-and-permission consequence, V021 shows explicit refusal of a breakup with renewed access pressure, V022 escalates into forced contact and deliberate sexual-evidence fabrication, and V023 repeats the fabrication inside a direct multi-party credibility contest.
 
 These are evidence configurations, not a diagnosis or a claim that physiology determines emotion.
 
@@ -139,6 +144,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - V018 repeats her crisis-redirection pattern: she shows sympathy and allows Kazuya's immediate Chizuru-focused support route, then preserves her own future access through an amusement-park request (RAG-E-V018-016).
 - V020 adds a better consent-form case: she accepts refusal of an overnight trip, narrows the outing, requests a five-second hug, and waits for Kazuya's verbal permission before contact, while continuing status and reciprocity pressure (RAG-E-V020-005 through RAG-E-V020-008).
 - V022 demonstrates that the V020 negotiated form does not generalize under termination and rival threat: Ruka attempts overnight access, forces a kiss, and fabricates material evidence of sex to alter Chizuru's conduct (RAG-E-V022-001 through RAG-E-V022-006).
+- V023 shows persistence after direct contradiction: Ruka uses a false-key pretext, presses bodily access, and repeats the fabricated claim in front of both principals after Kazuya objects to her public status declaration; his denial and Chizuru's source check prevent the claim from being treated as settled evidence (RAG-E-V023-012 through RAG-E-V023-017).
 - She does not immediately expose the central secret and later explicitly says she never intended to do so, supplying counterevidence to a purely destructive or manipulative model.
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, university visits, and karaoke coworker access are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 
@@ -148,9 +154,9 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - The pulse reading is Ruka's personal authenticity test, not objective evidence that a relationship is healthy or reciprocal.
 - Exact rental-platform terms, compensation, and duration remain incomplete; Kuribayashi now knows the basic shared rental context.
 - Her stated love is direct evidence of her represented belief, not proof of Kazuya's feeling or her later conduct.
-- The V005 and V008 continuations establish Kazuya's refusals and no completed sexual act; Ruka's contrary V009 claim is explicitly denied and does not establish intimacy.
+- The V005 and V008 continuations establish Kazuya's refusals and no completed sexual act; Ruka's contrary V009 and V022-V023 claims are explicitly fabricated or denied and do not establish intimacy.
 - Kazuya's interrupted attempt to make the relationship official is not reciprocal-love evidence, and Ruka does not know his later direct preference or support language to Chizuru.
-- No evidence supports performed voice, acoustic delivery, a clinical label, or a stable response to repeated nonreciprocity beyond V020; one negotiated hug does not establish durable restraint or relationship conversion.
+- No evidence supports performed voice, acoustic delivery, a clinical label, or durable restraint under repeated nonreciprocity; the V020 negotiated hug does not generalize to her post-withdrawal conduct in V021-V023.
 
 ## Update rule
 

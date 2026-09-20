@@ -4,13 +4,13 @@ artifact_id: RAG_KIBE_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; character evidence inspected through V022."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; character evidence inspected through V023."
 ---
 
 # Kibe evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V022
+inspected_through_volume: V023
 local_readiness: UNMODELED
 ~~~
 
@@ -53,6 +53,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KIB-E012 | KIB-S005 | RAG-E-V021-017 | Family testimony and truth norm; moral pressure | Describes Nagomi's daily grave visits and prayers for Kazuya's happiness, then condemns lying to someone who cares so deeply. | Converts family knowledge into a direct honesty demand. | He does not know that full truth would expose the rental history and his own earlier interventions. | none; model withheld |
 | RAG-KIB-E013 | KIB-S006 | RAG-E-V022-008 | Family-trip inclusion and mixed-audience presence; ordinary contact | Joins Nagomi's Hawaiians group alongside Kuribayashi, Ruka, Kazuya, and Chizuru. | Brings his public-couple belief into a setting where others hold incompatible private knowledge. | He is not shown learning the rental or trial history. | none; model withheld |
 | RAG-KIB-E014 | KIB-S006 | RAG-E-V022-024 | Distress observation and grief-grounded reminder; friendship | Notices Kazuya is not behaving normally, recalls the earlier breakup concern, and invokes Nagomi's grief and anticipation of the trip. | Repeats moral support as immediate family-duty pressure. | His advice remains calibrated to a genuine-couple model that is false. | none; model withheld |
+| RAG-KIB-E015 | KIB-S007 | RAG-E-V023-012 | Contradictory girlfriend claim before an uninformed peer; information limit | Hears Ruka call herself Kazuya's girlfriend while Kazuya objects. | Receives an explicit status conflict inside the trip rather than only ambiguous closeness. | He is not shown learning the trial, withdrawal, rental history, or fabricated sexual claim. | none; information limit only |
 
 ## State-change summary
 
@@ -62,6 +63,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - KIB-S004 — V020 intermediary: connects Mami to Nagomi through his network and accidentally interrupts a confession he does not hear.
 - KIB-S005 — preference-aware but deception-unaware moral adviser: learns that Kazuya chooses Chizuru and invokes relationship care and Nagomi's devotion while still believing the public couple.
 - KIB-S006 — trip companion renewing family-duty pressure: enters the mixed audience without corrected information, notices Kazuya's distress, and invokes Nagomi's grief and trust to reinforce the public relation.
+- KIB-S007 — uninformed recipient of a direct status contradiction: hears Ruka call herself Kazuya's girlfriend and Kazuya object, but receives none of the trial, withdrawal, rental, or fabricated-evidence history needed to resolve the conflict.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -72,7 +74,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 
 ## Gaps and negative evidence
 
-- Kibe has not been observed receiving the complete rental, provisional-relationship, and deception history through V022.
+- Kibe has not been observed receiving the complete rental, provisional-relationship, and deception history through V023.
 - His V002 intervention is based on a false breakup account; it cannot establish calibrated behavior under full information.
 - The V020 interruption is accidental in the represented evidence and must not be written as intentional prevention.
 - Given name, family life, work, independent goals, broader friendships, and response to correction remain unknown.

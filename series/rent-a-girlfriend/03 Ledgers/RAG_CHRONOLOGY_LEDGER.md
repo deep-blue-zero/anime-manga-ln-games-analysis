@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V022
-row_count: 101
-state: CURRENT_THROUGH_V022
+inspected_through_volume: V023
+row_count: 107
+state: CURRENT_THROUGH_V023
 ```
 
 ## Records
@@ -143,3 +143,9 @@ state: CURRENT_THROUGH_V022
 | RAG-CHR-099 | RAG-E-V022-018, RAG-E-V022-019 | Nagomi's disclosure of her film knowledge causes Kazuya to recognize compartment collapse and renew immediate confession and truth intent. | Information receipt and his resolve are causally ordered. | When Nagomi first acquired each project fact is not specified. |
 | RAG-CHR-100 | RAG-E-V022-020 through RAG-E-V022-022 | After room assignment, Kuribayashi probes Mami; Kazuya then begins answering Chizuru's earlier question before her bathroom retreat and the others' arrival. | The hotel-room sequence preserves the order of information test, confession attempt, avoidance, and interruption. | Exact room-assignment timing and elapsed minutes are unstated. |
 | RAG-CHR-101 | RAG-E-V022-023 through RAG-E-V022-025 | Kazuya recommits after the failed attempt, Kibe invokes Nagomi's grief, and the group converges at the pool before the main narrative ends. | End-of-volume order is explicit. | Confession, ring, wrapper, and Mami consequences remain beyond V022. |
+| RAG-CHR-102 | RAG-E-V023-001 through RAG-E-V023-005 | The pool convergence continues into the two-person slide, Chizuru's missing top, and Kazuya's consent-bounded fastening help. | Direct continuation from V022 and same-activity order are explicit. | Exact minutes and how long the tie remains secure are unstated. |
+| RAG-CHR-103 | RAG-E-V023-004, RAG-E-V023-006 | During the pool interval, Mami's private Ruka probe precedes her independent search for Chizuru's rental profile. | Scene order and the phone search are represented. | Whether the search began before the conversation or uses newly learned facts is not stated. |
+| RAG-CHR-104 | RAG-E-V023-007 through RAG-E-V023-011 | Chizuru's swimsuit discussion and Ruka question precede Mami's disclosure warning and Kazuya's private admission of the cover lie and correction plan. | The resort sequence preserves the move from ordinary interaction to selective truth management. | Exact elapsed time and Mami's private motive remain unknown. |
+| RAG-CHR-105 | RAG-E-V023-012 through RAG-E-V023-016 | Ruka's public girlfriend declaration is followed by the false-key isolation, Mami's status and disclosure tests, and the wrapper's changing-room reappearance. | The sequence moves from public claim to private pressure and coalition testing. | Some conversations occur in adjacent resort spaces without precise clock times. |
+| RAG-CHR-106 | RAG-E-V023-017, RAG-E-V023-018 | Ruka repeats the sex claim before Kazuya, he denies it, and Chizuru then asks him directly whether he lied. | Contradiction and source check occur in immediate order. | The following response is not fully articulated before the group continues. |
+| RAG-CHR-107 | RAG-E-V023-019 through RAG-E-V023-022 | At dinner and the resort show, Kazuya renews his trip-ending vow; Chizuru recalls Sayuri's teaching, recognizes the gathered group, and calls the day the best. | Same-evening order and the memory-to-appraisal sequence are explicit. | The volume does not establish the calendar date, confession completion, or later night events. |
