@@ -4,7 +4,7 @@ artifact_id: RAG_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -91,7 +91,7 @@ V020 is checkpointed and locally audited and ends the authorized run. V021 is in
 | Sequential deep readings | V001-V020 closed |
 | Latest checkpoint | `02 Block Syntheses/RAG_CP_V020.md` complete |
 | Reconstruction audit | `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V020.md` complete |
-| Repository publication | Stable branch `series/rent-a-girlfriend`; V020 close published; checkpoint and audit prepared for publication |
+| Repository publication | Stable branch `series/rent-a-girlfriend`; V020 close and checkpoint/audit published through `dbf7b9fb33112a05ac07072e380176be4f23ade6` |
 
 ## Execution profile
 
