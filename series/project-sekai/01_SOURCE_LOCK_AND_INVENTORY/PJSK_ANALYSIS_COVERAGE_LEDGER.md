@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0110
+## Current coverage — all five human units synchronized through EVENT_0111
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0110 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0110`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0111 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0111`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0110 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0111 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0111 is fully integrated:** MORE MORE JUMP! is PRIMARY/VERY HIGH with three distinct I3 responsibilities. New `MMJ-EP-SZ-E0111` records Shizuku converting regret about responsibility-only performance into a demonstrated choice-support method: disclose relevant failure, invite pause and consultation, distinguish duty from sustainable desire, preserve the other person's authority, and incorporate family and institutional alternatives. New `MMJ-REL-GROUP-SAITO-E0111` advances Saito from trusted recurring helper to mutually accepted manager with immediate administrative implementation and a shared long horizon while pay, scope, and contract remain open. New `MMJ-REL-SAITO-FAMILY-E0111` records the move from mutual protective silence and assumed only-daughter duty to direct permission, nonfamily succession alternatives, and supported vocational choice. Preserve `MMJ-EP-SZ-E0011`, `MMJ-REL-GROUP-06`, all four MS-04 humans, and Stage authority proportionally. Leo/need, VBS, WxS, and N25 are NONE/I0. The verified envelope is 25 stories / 34 scenes / 1,507 records: eight core chapters, ten card halves, five linked areas, and two monthly Stage areas. No coercive rescue, finalized manager terms, durable employment proof, hired inn successor, completed live, Budokan readiness, broad fame, More More House, safe workload, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0110 to EVENT_0111; EVENT_0112 is next and 4 events remain through EVENT_0115.
+
+Causal home: [EVENT_0111 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0111_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0111: 25 stories / 34 scenes / 1,507 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `MMJ-EP-SZ-E0111`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-SAITO-FAMILY-E0111`.
+- Preserve the four-person MMJ group, prior human operatives, and Stage topology proportionally.
+- LN, VBS, WxS, and N25 are NONE/I0. The shared boundary is EVENT_0111; EVENT_0112 is next and 4 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0110 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0110 is fully integrated:** Leo/need is PRIMARY/VERY HIGH with new I3 `LN-EP-SHIHO-E0110`. Shiho reconstructs the childhood collision between uncompromising work and relational cost, Sumire's direct bass instruction and modeled commitment, and the Iolite performance that gave her permission to choose music. She turns the longstanding wish to move hearts into a recipient-defined rule: pursue the non-negotiable musical standard honestly, make that pursuit audible, and give people like her younger self strength to live straight in their own way. New bounded historical I2 `LN-REL-SHIHO-SUMIRE-E0110` records direct instruction, modeled commitment, performance receipt, and Shiho's future vow without claiming current reciprocity. Preserve `LN-REL-G-E0020`, `LN-REL-SOLIS-E0101`, `LN-EP-ICHIKA-E0101`, `LN-EP-SAKI-E0106`, `LN-EP-HONAMI-E0010`, `LN-VS-SCHOOL-RIN-E0027`, and `LN-REL-SCHOOL-VS-MS` at strong or local I2. Honami's answer, a collective musical-purpose synthesis, debut outputs, and leadership remain open. MORE MORE JUMP! is CROSS_UNIT/LOW I1 through Shizuku's brief ordinary sister contact; VBS, WxS, and N25 are NONE/I0. The verified envelope is 28 stories / 54 scenes / 1,406 records: eight core chapters, ten card halves, five linked areas, and five November School areas. No completed debut, leader appointment, technical mastery, harmlessness of uncompromising pursuit, current Sumire mentorship, retroactive Rin presence, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0109 to EVENT_0110; EVENT_0111 is next and 5 events remain through EVENT_0115.
 
@@ -1671,3 +1682,7 @@ The verified group contains eight core chapters (29 scenes, 1,022 records), ten 
 ### EVENT_0110 source and reconstruction review
 
 The verified group contains eight core chapters (25 scenes, 782 records), ten associated card halves (19 scenes, 523 records), five event-linked School areas, and five November School areas (10 area scenes, 101 records). `LN-EP-SHIHO-E0110` owns the I3 change; `LN-REL-SHIHO-SUMIRE-E0110` is bounded historical I2. A collective purpose, Honami answer, leader appointment, debut output, technical mastery, harmless commitment, current Sumire mentorship, retroactive Rin presence, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0111 source and reconstruction review
+
+The verified group contains eight core chapters (15 scenes, 834 records), ten associated card halves (12 scenes, 597 records), five event-linked areas, and two monthly Stage areas (7 area scenes, 76 records). `MMJ-EP-SZ-E0111`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-SAITO-FAMILY-E0111` own the I3 changes. Finalized manager terms, durable employment, inn succession implementation, a completed live, Budokan readiness, broad fame, More More House, safe workload, global singer identity, and complete reconstruction remain uncertified.
