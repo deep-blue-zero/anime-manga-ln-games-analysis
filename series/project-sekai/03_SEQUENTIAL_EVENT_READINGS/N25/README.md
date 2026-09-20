@@ -54,3 +54,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0127 — Knowing the Unseen](PJSK_EVENT_0127_DEEP_READING.md): complete 27-story envelope; Ena reads her father's hidden artistic history, chooses life with painting, and receives bounded permission without reconciliation.
 
 - [EVENT_0134 — 灯を手繰りよせて](PJSK_EVENT_0134_DEEP_READING.md): complete 28-story envelope; mixed evidence supports Mafuyu's chosen disclosure and a reciprocal paternal alliance.
+
+- [EVENT_0145 — 荊棘の道は何処へ](PJSK_EVENT_0145_DEEP_READING.md): complete 22-story envelope; Mizuki's chosen disclosure attempt is preempted by third-party exposure, advancing the Ena–Mizuki relation and its asymmetric knowledge into an unresolved rupture.
