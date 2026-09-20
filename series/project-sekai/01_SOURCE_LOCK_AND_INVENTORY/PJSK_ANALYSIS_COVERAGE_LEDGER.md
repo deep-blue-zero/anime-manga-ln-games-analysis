@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0109
+## Current coverage — all five human units synchronized through EVENT_0110
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0109 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0109`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0110 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0110`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0109 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0110 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0110 is fully integrated:** Leo/need is PRIMARY/VERY HIGH with new I3 `LN-EP-SHIHO-E0110`. Shiho reconstructs the childhood collision between uncompromising work and relational cost, Sumire's direct bass instruction and modeled commitment, and the Iolite performance that gave her permission to choose music. She turns the longstanding wish to move hearts into a recipient-defined rule: pursue the non-negotiable musical standard honestly, make that pursuit audible, and give people like her younger self strength to live straight in their own way. New bounded historical I2 `LN-REL-SHIHO-SUMIRE-E0110` records direct instruction, modeled commitment, performance receipt, and Shiho's future vow without claiming current reciprocity. Preserve `LN-REL-G-E0020`, `LN-REL-SOLIS-E0101`, `LN-EP-ICHIKA-E0101`, `LN-EP-SAKI-E0106`, `LN-EP-HONAMI-E0010`, `LN-VS-SCHOOL-RIN-E0027`, and `LN-REL-SCHOOL-VS-MS` at strong or local I2. Honami's answer, a collective musical-purpose synthesis, debut outputs, and leadership remain open. MORE MORE JUMP! is CROSS_UNIT/LOW I1 through Shizuku's brief ordinary sister contact; VBS, WxS, and N25 are NONE/I0. The verified envelope is 28 stories / 54 scenes / 1,406 records: eight core chapters, ten card halves, five linked areas, and five November School areas. No completed debut, leader appointment, technical mastery, harmlessness of uncompromising pursuit, current Sumire mentorship, retroactive Rin presence, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0109 to EVENT_0110; EVENT_0111 is next and 5 events remain through EVENT_0115.
+
+Causal home: [EVENT_0110 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0110_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0110: 28 stories / 54 scenes / 1,406 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `LN-EP-SHIHO-E0110` and bounded historical I2 `LN-REL-SHIHO-SUMIRE-E0110`.
+- Preserve Leo/need group, Solis, individual-purpose, and School-singer authorities proportionally; Honami and leadership remain open.
+- MMJ is CROSS_UNIT/LOW I1; VBS, WxS, and N25 are NONE/I0. The shared boundary is EVENT_0110; EVENT_0111 is next and 5 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0109 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0109 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three I3 responsibilities and one bounded local I2 record. New `VBS-EP-AK-E0109` records Akito's tested expressive-performance method: retain disciplined labor and accepted help, recognize experience suppressed by goal-focused self-control, direct joy, fear, grief, gratitude, and ambition toward a meaningful recipient or audience, and verify the result in listener action. Preserve `VBS-EP-AK-E0021` separately as reciprocal-reliance authority. `VBS-REL-GROUP-KEN-E0103 → VBS-REL-GROUP-KEN-E0109` advances the accepted mentorship compact through sustained external battle training, adult transport/network labor, differentiated roles, individual coaching, a provisional group threshold, and the first completed role. New scoped `VBS-REL-STREET-AUDIENCE-E0109` records the move from defeat rumor and chilled expectation to public proof of continued pursuit, renewed anticipation, Koutaro's tested return, and a future COL invitation. New `VBS-VS-STREET-LUKA-E0109` is local I2 for Luka's tailored musical intervention and recipient-aware stopping. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0. The verified envelope is 24 stories / 56 scenes / 1,666 records: eight core chapters, ten card halves, five linked areas, and one December Street area. No final victory, permanent mastery, safe workload, completed remaining roles, repaired An–Ken trust, reopened venue, professional status, unanimous public support, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0108 to EVENT_0109; EVENT_0110 is next and 6 events remain through EVENT_0115.
 
@@ -1656,3 +1667,7 @@ The verified group contains eight core chapters (15 scenes, 559 records), ten as
 ### EVENT_0109 source and reconstruction review
 
 The verified group contains eight core chapters (29 scenes, 1,022 records), ten associated card halves (21 scenes, 581 records), five event-linked Street areas, and one December Street area (6 area scenes, 63 records). `VBS-EP-AK-E0109`, `VBS-REL-GROUP-KEN-E0109`, and `VBS-REL-STREET-AUDIENCE-E0109` own the I3 changes; `VBS-VS-STREET-LUKA-E0109` is bounded local I2. Final victory, permanent mastery, safe workload, remaining-role completion, restored coalition, venue reopening, professional status, unanimous support, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0110 source and reconstruction review
+
+The verified group contains eight core chapters (25 scenes, 782 records), ten associated card halves (19 scenes, 523 records), five event-linked School areas, and five November School areas (10 area scenes, 101 records). `LN-EP-SHIHO-E0110` owns the I3 change; `LN-REL-SHIHO-SUMIRE-E0110` is bounded historical I2. A collective purpose, Honami answer, leader appointment, debut output, technical mastery, harmless commitment, current Sumire mentorship, retroactive Rin presence, global singer identity, and complete reconstruction remain uncertified.

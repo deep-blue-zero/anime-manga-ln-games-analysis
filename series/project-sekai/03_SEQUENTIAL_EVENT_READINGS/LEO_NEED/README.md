@@ -56,3 +56,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0096 — 隣に立つ、優しいあなたへ](PJSK_EVENT_0096_DEEP_READING.md): complete 24-story envelope; relationship-centered I2 with no new I3, very strong-I2 Kanade–Honami, strong-I2 Honami operative, bounded Honami–Mizuki I2, and proportionate Kanade, Honami–Emu, School, and WxS reuse while crisis and care limits remain explicit.
 
 - [EVENT_0101 — つなぐ、星の歌](PJSK_EVENT_0101_DEEP_READING.md): complete 23-story envelope; `LN-REL-SOLIS-E0101` records formal affiliation and `LN-EP-ICHIKA-E0101` records a tested recursive connection purpose; Leo/need group, School singers, and four cross-unit routes are preserved at strong, recipient-bounded I2.
+
+- [EVENT_0110 — Stick to your faith](PJSK_EVENT_0110_DEEP_READING.md): complete 28-story envelope; Shiho turns uncompromising pursuit into a recipient-defined musical-purpose operative, with bounded historical Sumire responsibility while Honami, collective synthesis, and leadership remain open.
