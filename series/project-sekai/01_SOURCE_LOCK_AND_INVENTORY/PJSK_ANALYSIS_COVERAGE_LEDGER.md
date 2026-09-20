@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0114
+## Current coverage — all five human units synchronized through EVENT_0115
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0114 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0114`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0115 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0115`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0114 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0115 forward transaction; EVENT_0099–0115 sequence complete
+
+**EVENT_0115 is fully integrated as an ensemble I2 event with no new I3 or named I2 owner:** MORE MORE JUMP! is PRIMARY/HIGH through Minori and Haruka's established capacities and Stage-local support; Leo/need is CO_PRIMARY/HIGH through Shiho and Ichika's recipient-aware work, shared rest, and result reporting. `REL-CROSS-LN-MMJ-SCHOOL-E0001` receives a very strong I2 increment through Minori and Shiho's completed practicum and safety response, Haruka and Ichika's chosen participation, and Haruka–Shiho's enacted follow-up leisure. Preserve `MMJ-EP-MN-E0098`, `MMJ-EP-HR-E0094`, `LN-EP-SHIHO-E0110`, `LN-EP-ICHIKA-E0101`, both groups, and collective Stage topology. VBS, WxS, and N25 are NONE/I0. The verified envelope is 24 stories / 41 scenes / 1,280 records: eight core chapters, ten card halves, and six areas. No new operative, universal animal affinity, professional keeper competence, permanent cross-unit intimacy, completed future outing, mass fame, public SEKAI knowledge, persistent singer embodiment, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0114 to EVENT_0115; the authorized EVENT_0099–0115 goal boundary is reached and there is `NO_NEXT_AUTHORIZED_EVENT`.
+
+Causal home: [EVENT_0115 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0115_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0115: 24 stories / 41 scenes / 1,280 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Record no new I3 or named I2 owner; strengthen `REL-CROSS-LN-MMJ-SCHOOL-E0001` and preserve established human, group, and Stage authorities proportionally.
+- MMJ is PRIMARY/HIGH I2; LN is CO_PRIMARY/HIGH I2; VBS, WxS, and N25 are NONE/I0.
+- The shared boundary is EVENT_0115. The 17-event EVENT_0099–0115 goal sequence is complete; there is `NO_NEXT_AUTHORIZED_EVENT`.
+
+### Historical coverage — EVENT_0114 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0114 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with new I3 `WXS-EP-NENE-E0114`, a tested collaborative-directing method that replaces type-based distance with person-specific inquiry, distributes work around actual skill and desire, coaches anxiety through experience, and answers disruption by recombining team resources while protecting participants from avoidable blame and regret. New scoped I3 `WXS-REL-NENE-CLASSMATES-E0114` records reciprocal movement from unfamiliar crowd to differentiated collaborators and continuing ordinary companions. Preserve `WXS-EP-NENE-E0095` separately as Nene's own musical-acting authority. VBS is CO_PRIMARY/HIGH I2 through An, Akito, and Toya's direct production work; N25 is CROSS_UNIT/MEDIUM I2 through Mizuki's bounded costume teaching; LN and MMJ are NONE/I0. The verified envelope is 23 stories / 54 scenes / 1,600 records: eight core chapters, ten card halves, and five linked areas. No permanent directing mastery, universal social ease, equal intimacy with every classmate, guaranteed future continuity, professional film status, new VBS or N25 operative, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0113 to EVENT_0114; EVENT_0115 is next and 1 event remains through the goal boundary.
 
@@ -1731,3 +1742,7 @@ The verified group contains eight core chapters, ten card halves, five event-lin
 ### EVENT_0114 source and reconstruction review
 
 The verified group contains eight core chapters, ten card halves, and five event-linked areas: 23 stories / 54 scenes / 1,600 records. `WXS-EP-NENE-E0114` and `WXS-REL-NENE-CLASSMATES-E0114` own the I3 changes. Permanent directing mastery, universal social ease, equal class intimacy, guaranteed continuity, professional film status, new VBS or N25 operatives, public SEKAI knowledge, and global singer identity remain uncertified.
+
+### EVENT_0115 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves, and six areas: 24 stories / 41 scenes / 1,280 records. No new I3 or named I2 owner is created. Animal-care competence, distributed safety response, cross-unit chosen leisure, public recognition, and Stage-local support strengthen existing authorities. Universal animal affinity, professional keeper status, permanent cross-unit intimacy, completed future outings, mass fame, public SEKAI knowledge, persistent singer embodiment, and global singer identity remain uncertified. The EVENT_0099–0115 goal boundary is complete.

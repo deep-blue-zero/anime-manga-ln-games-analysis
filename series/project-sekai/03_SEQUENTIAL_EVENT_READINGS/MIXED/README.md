@@ -34,3 +34,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0107 — Let's study hard！](PJSK_EVENT_0107_DEEP_READING.md): complete 23-story envelope; `REL-CROSS-MIZUKI-AN-E0007 → REL-CROSS-MIZUKI-AN-E0107` advances safe ordinary friendship into historically understood, reciprocally enacted, future-continuing school friendship.
 
 - [EVENT_0108 — ハロー・グッド・デイ！](PJSK_EVENT_0108_DEEP_READING.md): complete 28-story ensemble envelope; Ichika directly enacts `LN-EP-ICHIKA-E0101`, Kanade receives ordinary motivation, and all five groups advance proportionally at I2 without a new I3 owner.
+
+- [EVENT_0115 — あっちこっち飼育員体験！](PJSK_EVENT_0115_DEEP_READING.md): complete 24-story ensemble envelope; MMJ and LN deepen animal-care, safety, chosen-leisure, and Stage-local continuity at I2 without a new I3 owner.
