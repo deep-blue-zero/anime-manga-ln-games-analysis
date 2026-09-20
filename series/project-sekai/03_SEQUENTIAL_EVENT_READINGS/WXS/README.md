@@ -26,3 +26,13 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0003 — 全力！ワンダーハロウィン！](PJSK_EVENT_0003_DEEP_READING.md): WXS I3 on Rui's operative self-knowledge transition; character/relationship I2 and ordinary I1 evidence retain separate scope. Includes the bounded LN I1 household appendix. All six ledgers integrated; EVENT4 ordered interpretation is also integrated below; subsequent material routes remain pending.
 
 - [EVENT_0004 — school friendship and smile-making limits](PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md): WXS I3 for continuing Haruka–Emu friendship; all four P06 humans/company retained with Emu I2 and ordinary I1 increments. Shared knowledge and relationship records reconciled with MMJ, LN/VBS and retained N25.
+
+- [EVENT_0008 — 聖なる夜に、この歌声を](PJSK_EVENT_0008_DEEP_READING.md): complete 26-story envelope, WxS Nene operative I3 with P06 human/company IDs retained; Leo/need reported I1, MMJ/VBS/N25 I0. Eight linked areas have chapter-8 unlock rather than publication dates.
+
+- [EVENT_0015 — スマイルオブドリーマー](PJSK_EVENT_0015_DEEP_READING.md): complete 29-story envelope; WxS I2 for a shared but unresolved park threat and enacted planning, Ichika–Nene and Tsukasa–Saki I2 continuity, MMJ/VBS/N25 I0. Eleven undated area unlocks and Wonderland singer receipts remain bounded.
+
+- [EVENT_0024 — 純白の貴方へ、誓いの歌を！](PJSK_EVENT_0024_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-RUI-E0024` and `REL-CROSS-TOYA-RUI-E0024` record distinct outsider-cooperation and relationship I3 changes, `VBS-REL-TOYA-FATHER-2` records de-escalation without reconciliation, and `REL-CROSS-AKITO-RUI-E0024` records bounded I2 respect/access. Existing humans/groups remain.
+
+- [EVENT_0025 — ワンダーマジカルショウタイム！](PJSK_EVENT_0025_DEEP_READING.md): complete 30-story envelope; `WXS-EP-PARK-E0015-OPEN → WXS-EP-PARK-E0025` records one provisional institutional I3, while founded humans, group, park-support, cross-unit and Wonderland routes receive bounded I1/I2.
+
+- [EVENT_0095 — カナリアは窮境に歌う](PJSK_EVENT_0095_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-NENE-E0095` records integrated musical acting and experience seeking, new `WXS-REL-NENE-YUKA-E0095` is bounded high I2, and the WxS group, Rui, Sakurako and Wonderland relations receive strong-I2 reuse while unsafe overwork and unresolved troupe direction remain explicit.
