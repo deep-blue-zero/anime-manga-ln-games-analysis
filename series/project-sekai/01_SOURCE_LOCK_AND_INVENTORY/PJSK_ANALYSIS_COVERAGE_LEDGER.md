@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0102
+## Current coverage — all five human units synchronized through EVENT_0103
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0102 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0102`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0103 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0103`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0102 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0103 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0103 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three distinct I3 advances. `VBS-EP-KH-E0028 → VBS-EP-KH-E0103` records Kohane's move from borrowed grounded confidence to internally held singer pride: she recognizes frustration as evidence of serious investment, preserves it as forward support, and acts while fear remains. New scoped `VBS-REL-GROUP-KEN-E0103` records Ken's temporary closure of WEEKEND GARAGE, offer of all available time and knowledge, demanding terms, and acceptance by all four; no training session or result is yet shown. `VBS-REL-TOYA-FATHER-2 → VBS-REL-TOYA-FATHER-3` records conditional practical permission and partial receipt of Toya as a musician without endorsement or reconciliation. Preserve `VBS-REL-AN-KEN-E0097` with forgiveness and repair OPEN, and preserve `VBS-REL-AK-ARATA-E0021` at negative/open I2 after Arata's reported departure. Leo/need is a bounded cross-unit I2 route through Shiho's experience-based encouragement; MMJ, WxS, and N25 are I0. The verified envelope is 23 stories / 45 scenes / 1,539 records: eight core chapters, ten card halves, and five linked areas. No permanent confidence, skill parity, victory, completed or proven-safe Ken training, restored coalition, permanent Arata retirement, repaired An–Ken trust, paternal endorsement, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0102 to EVENT_0103; EVENT_0104 is next and 12 events remain through EVENT_0115.
+
+Causal home: [EVENT_0103 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0103_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0103: 23 stories / 45 scenes / 1,539 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `VBS-EP-KH-E0103` and `VBS-REL-TOYA-FATHER-3`; create scoped I3 `VBS-REL-GROUP-KEN-E0103`.
+- Preserve An–Ken and Akito–Arata as unresolved, with established VBS group, partner, individual, and Street authority proportionally retained.
+- The shared boundary is EVENT_0103; EVENT_0104 is next and 12 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0102 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0102 is fully integrated:** MORE MORE JUMP! and Nightcord at 25:00 share the highest cross-unit consequence through one scoped I3 owner. New `REL-CROSS-AIRI-MIZUKI-E0102` records Airi's informed selection of Mizuki for consequential help, Mizuki's accepted and completed work, reciprocal thanks and burden awareness, an explicitly chosen and completed first two person outing, mutual learning, and continuing direct access. New `REL-CROSS-SAKI-MIZUKI-E0102` is bounded I2 for first direct contact, training, high pressure service coordination, a shared recipient quality rule, and later ordinary fashion advice. Preserve `MMJ-AI-MS-04`, `MMJ-EP-AI-E0092`, and `MMJ-REL-GROUP-06`: Airi's acclaimed live media adaptation is strong I2 application of founded variety, organization, and program skill, not a new operative. Preserve Saki, Mizuki, Minori, park, Wonderland, and Stage authority proportionally. The verified envelope is 23 stories / 40 scenes / 1,389 records: eight core chapters, ten card halves, and five linked areas. No permanent television success, guaranteed repeat booking, broad fame, sole Airi causation, mature Saki–Mizuki friendship, private N25 disclosure, completed Stage café, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0101 to EVENT_0102; EVENT_0103 is next and 13 events remain through EVENT_0115.
 
@@ -1551,3 +1562,7 @@ The verified group contains eight core chapters (25 scenes, 938 records), ten ca
 ### EVENT_0102 source and reconstruction review
 
 The verified group contains eight core chapters (18 scenes, 738 records), ten associated card halves (17 scenes, 603 records), and five linked areas (5 scenes, 48 records). `REL-CROSS-AIRI-MIZUKI-E0102` is the sole new I3 owner. `REL-CROSS-SAKI-MIZUKI-E0102` is new bounded I2. Airi's professional work and the MMJ group receive strong I2 application; founded Mizuki, Saki, Minori, park, Wonderland, and Stage authority remains. Television success, repeat work, broad fame, sole causation, mature Saki–Mizuki friendship, private N25 disclosure, permanent café employment, completed Stage café, global singer state, and complete reconstruction remain uncertified.
+
+### EVENT_0103 source and reconstruction review
+
+The verified group contains eight core chapters (23 scenes, 904 records), ten associated card halves (17 scenes, 586 records), and five linked areas (5 scenes, 49 records). `VBS-EP-KH-E0103`, `VBS-REL-GROUP-KEN-E0103`, and `VBS-REL-TOYA-FATHER-3` own distinct I3 changes. An–Ken remains unresolved; Akito–Arata remains negative/open; VBS group, partner, Akito, Toya, and Street relations are preserved. LN receives bounded I2 routing; MMJ/WxS/N25 are I0. Permanent confidence, skill parity, victory, training success or safety, coalition return, permanent Arata retirement, trust repair, parental endorsement, global singer identity, and complete reconstruction remain uncertified.

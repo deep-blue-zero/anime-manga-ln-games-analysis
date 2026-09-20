@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0102
+## Current state — founded units synchronized through EVENT_0103
 
-All five human units now track the same continuous event history through `EVENT_0102`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0102 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0103`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0103 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0099–0115 continuation — EVENT_0102 committed boundary
+### EVENT_0099–0115 continuation — EVENT_0103 committed boundary
+
+**EVENT_0103 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three distinct I3 advances. `VBS-EP-KH-E0028 → VBS-EP-KH-E0103` records Kohane's move from borrowed grounded confidence to internally held singer pride: she recognizes frustration as evidence of serious investment, preserves it as forward support, and acts while fear remains. New scoped `VBS-REL-GROUP-KEN-E0103` records Ken's temporary closure of WEEKEND GARAGE, offer of all available time and knowledge, demanding terms, and acceptance by all four; no training session or result is yet shown. `VBS-REL-TOYA-FATHER-2 → VBS-REL-TOYA-FATHER-3` records conditional practical permission and partial receipt of Toya as a musician without endorsement or reconciliation. Preserve `VBS-REL-AN-KEN-E0097` with forgiveness and repair OPEN, and preserve `VBS-REL-AK-ARATA-E0021` at negative/open I2 after Arata's reported departure. Leo/need is a bounded cross-unit I2 route through Shiho's experience-based encouragement; MMJ, WxS, and N25 are I0. The verified envelope is 23 stories / 45 scenes / 1,539 records: eight core chapters, ten card halves, and five linked areas. No permanent confidence, skill parity, victory, completed or proven-safe Ken training, restored coalition, permanent Arata retirement, repaired An–Ken trust, paternal endorsement, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0102 to EVENT_0103; EVENT_0104 is next and 12 events remain through EVENT_0115.
+
+The [EVENT_0103 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0103_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 5 of the EVENT_0099–0115 goal sequence. The boundary advances from EVENT_0102 to EVENT_0103; EVENT_0104 is next and 12 events remain.
+
+### Historical continuation — EVENT_0102 committed boundary
 
 **EVENT_0102 is fully integrated:** MORE MORE JUMP! and Nightcord at 25:00 share the highest cross-unit consequence through one scoped I3 owner. New `REL-CROSS-AIRI-MIZUKI-E0102` records Airi's informed selection of Mizuki for consequential help, Mizuki's accepted and completed work, reciprocal thanks and burden awareness, an explicitly chosen and completed first two person outing, mutual learning, and continuing direct access. New `REL-CROSS-SAKI-MIZUKI-E0102` is bounded I2 for first direct contact, training, high pressure service coordination, a shared recipient quality rule, and later ordinary fashion advice. Preserve `MMJ-AI-MS-04`, `MMJ-EP-AI-E0092`, and `MMJ-REL-GROUP-06`: Airi's acclaimed live media adaptation is strong I2 application of founded variety, organization, and program skill, not a new operative. Preserve Saki, Mizuki, Minori, park, Wonderland, and Stage authority proportionally. The verified envelope is 23 stories / 40 scenes / 1,389 records: eight core chapters, ten card halves, and five linked areas. No permanent television success, guaranteed repeat booking, broad fame, sole Airi causation, mature Saki–Mizuki friendship, private N25 disclosure, completed Stage café, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0101 to EVENT_0102; EVENT_0103 is next and 13 events remain through EVENT_0115.
 
@@ -449,13 +455,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0102`. The complete 23-story envelope creates scoped I3 `REL-CROSS-AIRI-MIZUKI-E0102` and bounded I2 `REL-CROSS-SAKI-MIZUKI-E0102`. Airi's professional skill and MMJ's group response remain strong I2 applications of founded authority. EVENT_0103 is next; 13 events remain through EVENT_0115.
+`ANALYSIS_CURRENT` is `EVENT_0103`. The complete 23-story envelope advances Kohane's singer-pride operative and Toya–father relation at I3 and creates scoped group–Ken mentorship I3. An–Ken and Akito–Arata remain open. EVENT_0104 is next; 12 events remain through EVENT_0115.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0102` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0103` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0102_DEEP_READING.md) closes `EVENT_0102 — ドタバタ cafe ●REC!!`, bucket `RB_20230731T060000Z`: eight core chapters, cards `0689–0693` both halves, and five linked areas. Airi–Mizuki is scoped I3; Saki–Mizuki is bounded I2; Airi professional and MMJ group authority remain strong I2. EVENT_0103 is next.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0103_DEEP_READING.md) closes `EVENT_0103 — On Your Feet`, bucket `RB_20230810T060000Z`: eight core chapters, cards `0694–0698` both halves, and five linked areas. Kohane's singer-pride operative, group–Ken mentorship, and Toya–father conditional permission are I3; unresolved relations and prospective training stay bounded.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
