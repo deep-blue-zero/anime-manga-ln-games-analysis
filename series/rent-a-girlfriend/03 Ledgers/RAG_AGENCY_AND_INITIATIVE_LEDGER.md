@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-row_count: 65
-state: CURRENT_THROUGH_V010
+inspected_through_volume: V011
+row_count: 73
+state: CURRENT_THROUGH_V011
 ```
 
 ## Records
@@ -107,3 +107,11 @@ state: CURRENT_THROUGH_V010
 | RAG-AGY-063 | Kazuya | Respond to the stage news with private fantasy or concrete encouragement. | Promises to attend and support her and resolves to help the acting goal. | Extends career support beyond the earlier casting loss. | Durability and execution remain future tests; RAG-E-V010-010. |
 | RAG-AGY-064 | Chizuru | Decline an unbooked family demand or honor the prior promise. | Volunteers to attend after the hospital appointment, brings a gift, and participates in the joint celebration. | Chosen family access expands outside a booking. | The false girlfriend premise and professional justification remain active; RAG-E-V010-011 through RAG-E-V010-014. |
 | RAG-AGY-065 | Ruka / Chizuru | Compete for access through different initiatives. | Ruka follows, attends, performs for approval, kisses Kazuya, and declares love; Chizuru later initiates direct crisis contact from the hospital. | Rivalry and care both bypass formal booking routes. | Ruka's acts remain unilateral, while Chizuru's message is crisis-bounded; RAG-E-V010-014 through RAG-E-V010-017. |
+| RAG-AGY-066 | Chizuru | Remain with Sayuri or honor the Kinoshita-family promise after the immediate crisis eases. | Calls Kazuya directly and returns to the birthday gathering after testing stabilizes Sayuri. | Preserves both family obligations and keeps Kazuya informed. | The girlfriend role remains false and the medical prognosis is unknown; RAG-E-V011-001. |
+| RAG-AGY-067 | Ruka | Treat Kazuya's recoil and request to stop as a boundary or intensify the claim. | Pulls him aside and kisses him repeatedly, then says she does not regret acting. | Produces an intimacy marker for her rivalry campaign. | Kazuya's verbal and physical resistance establishes nonconsent; RAG-E-V011-004, RAG-E-V011-005. |
+| RAG-AGY-068 | Kazuya | Continue concealment or tell the family truth during the birthday gathering. | Searches for an opening and begins a confession before hospital news interrupts it. | Attempts to correct the family account. | The interruption preserves the false belief without proving voluntary retreat; RAG-E-V011-003, RAG-E-V011-007. |
+| RAG-AGY-069 | Kazuya / Chizuru | Correct Sayuri's belief under limited time or preserve comfort. | Kazuya argues for disclosure; Chizuru stops him and chooses the consoling breakup account over factual correction. | Competing care ethics produce an unresolved decision conflict. | Neither character can know the full consequence of disclosure; RAG-E-V011-008 through RAG-E-V011-010. |
+| RAG-AGY-070 | Nagomi | Withdraw the heirloom after Chizuru refuses or convert it into emergency support. | Asks Chizuru to hold the ring and authorizes pawning it under financial or emotional burden. | Tries to protect Chizuru against anticipated isolation. | The care remains entangled with a false engagement premise; RAG-E-V011-006, RAG-E-V011-011. |
+| RAG-AGY-071 | Chizuru | Keep the ring and crisis private or redirect material and social resources. | Places the ring in Kazuya's bag and contacts Sumi, later arranging another practice date. | Returns the inherited burden to Kazuya and reopens a support route around him. | Her complete motive for contacting Sumi is not stated; RAG-E-V011-012, RAG-E-V011-015. |
+| RAG-AGY-072 | Ruka | Continue immediate rivalry during Sayuri's crisis or alter timing. | Declares a temporary truce, gives Kazuya a birthday gift, then kisses his cheek and lifts the kiss ban unilaterally. | Sympathy moderates the target and timing while preserving the conversion goal. | The new rule has no mutual assent; RAG-E-V011-013, RAG-E-V011-014. |
+| RAG-AGY-073 | Sumi | Attend as a passive practice partner or design care around observed preferences. | Chooses a school uniform, plans the Aqua Park itinerary, leads each activity, and secures dolphin-show seats. | Gives Kazuya coordinated enjoyment while demonstrating practical growth. | The date route originates through Chizuru and spoken communication remains difficult; RAG-E-V011-016 through RAG-E-V011-018. |

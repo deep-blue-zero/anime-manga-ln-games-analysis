@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-row_count: 59
-state: CURRENT_THROUGH_V010
+inspected_through_volume: V011
+row_count: 65
+state: CURRENT_THROUGH_V011
 ```
 ```
 
@@ -102,3 +102,9 @@ state: CURRENT_THROUGH_V010
 | RAG-PRG-057 | Kazuya-Chizuru private access | MATERIAL_GAIN_WITH_DECEPTION_COST — Chizuru attends an unbooked family party and later uses direct LINE during a hospital crisis. | Two non-booking routes now carry chosen contact. | Family access still depends on a false label, and the digital route remains context-bounded. | RAG-E-V010-011 through RAG-E-V010-017 |
 | RAG-PRG-058 | Ruka-Kazuya provisional relation | REGRESSION_AFTER_LOCAL_REPAIR — Ruka apologizes for the Mami confrontation, then resumes conversion pressure through family competition and a unilateral kiss. | She can acknowledge one harmful episode but does not revise the governing status strategy. | Mutual agreement and reciprocal love remain absent. | RAG-E-V010-003, RAG-E-V010-014, RAG-E-V010-015 |
 | RAG-PRG-059 | Sumi predicted birthday follow-up | NONCONFIRMING_CASE — the represented June 1 interval passes without an observed message, gift, meeting, or other action. | A prospectively frozen expectation fails at its stated horizon. | The absence establishes no motive and does not erase earlier communication gains. | RAG-E-V010-018 |
+| RAG-PRG-060 | Chizuru-Kazuya direct crisis coordination | GAIN_WITH_FAMILY_COST — direct contact now coordinates Chizuru's return to and departure from the family gathering. | The technical route has a second chosen use with real movement consequence. | Access remains crisis-specific and returns both characters to the false family role. | RAG-E-V011-001, RAG-E-V011-007 |
+| RAG-PRG-061 | Ruka-Kazuya consent and status | REGRESSION — repeated kissing continues after surprise, verbal objection, and recoil. | Physical escalation now has explicit resistance evidence and enters Chizuru's knowledge. | Kazuya's causal self-blame does not supply consent or resolve the trial. | RAG-E-V011-002, RAG-E-V011-004, RAG-E-V011-005 |
+| RAG-PRG-062 | Family deception | MATERIAL_ESCALATION_WITH_FAILED_CORRECTION — the ring gives the false partner role inherited property while a confession is interrupted. | Family belief becomes a portable obligation and an explicit truth problem. | Chizuru redirects the object to Kazuya; no audience correction occurs. | RAG-E-V011-006, RAG-E-V011-007, RAG-E-V011-011, RAG-E-V011-012 |
+| RAG-PRG-063 | Kazuya-Chizuru deception partnership | ETHICAL_DIVERGENCE — Kazuya prioritizes truth under limited time, while Chizuru prioritizes Sayuri's comfort. | Both now state incompatible next actions rather than sharing a single concealment strategy. | Neither position is acted through to completion in V011. | RAG-E-V011-009, RAG-E-V011-010, RAG-E-V011-012 |
+| RAG-PRG-064 | Ruka's tactical regulation | MIXED — concern for Sayuri produces a temporary truce, but Ruka preserves status escalation through a gift, cheek kiss, and unilateral rule change. | The target and timing can change without revision of the conversion goal. | Sympathy is real; mutual agreement remains absent. | RAG-E-V011-013, RAG-E-V011-014 |
+| RAG-PRG-065 | Sumi's communication and initiative | GAIN — observed preference, written explanation, and detailed itinerary turn constrained speech into effective care and coordination. | She leads a multi-step outing and succeeds in giving Kazuya pleasure. | The aquarium exchange is unfinished at the cutoff and begins through a practice-date route. | RAG-E-V011-015 through RAG-E-V011-018 |

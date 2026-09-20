@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-row_count: 52
-state: CURRENT_THROUGH_V010
+inspected_through_volume: V011
+row_count: 58
+state: CURRENT_THROUGH_V011
 ```
 
 ## Records
@@ -94,3 +94,9 @@ state: CURRENT_THROUGH_V010
 | RAG-TXN-050 | Chizuru, Kazuya, and Nagomi; joint birthday attendance | No booking governs Chizuru's family visit; Nagomi's request and Chizuru's prior promise create social obligation. | Chizuru voluntarily attends and brings a gift. | Family gratitude and public girlfriend treatment do not validate the false status. | Unpriced family access expands while disclosure cost rises; RAG-E-V010-011 through RAG-E-V010-014. |
 | RAG-TXN-051 | Ruka and Kazuya; party kiss and status declaration | Provisional dating supplies no advance consent to the kiss or official conversion. | Ruka follows the pair, initiates contact, and declares priority; Kazuya recoils. | Unilateral physical and verbal acts cannot create mutual agreement. | The gap between claimed and accepted status widens; RAG-E-V010-014, RAG-E-V010-015. |
 | RAG-TXN-052 | Chizuru and Kazuya; crisis LINE contact | No payment or standing agreement governs the hospital message. | Chizuru chooses to use the direct route for a bounded family crisis. | Technical access permits this exchange but does not authorize unrestricted future contact. | Direct non-booking coordination becomes real under crisis conditions; RAG-E-V010-016, RAG-E-V010-017. |
+| RAG-TXN-053 | Chizuru and Kazuya; hospital-to-party coordination | No payment governs Chizuru's direct call or return to the family gathering. | She chooses to report Sayuri's condition and continue the prior family promise. | Crisis access and social obligation do not create private couple status. | Non-booking coordination gains a concrete movement consequence; RAG-E-V011-001, RAG-E-V011-003. |
+| RAG-TXN-054 | Ruka and Kazuya; repeated private kisses | The provisional trial contains no agreement authorizing repeated kissing. | Ruka initiates and persists; Kazuya objects and recoils. | Verbal and bodily resistance establish a consent failure. | Kazuya's later causal self-blame concerns the unresolved relation, not permission for the acts; RAG-E-V011-004, RAG-E-V011-005. |
+| RAG-TXN-055 | Nagomi, Chizuru, and Kazuya; family heirloom | The ring is offered under the mistaken prospective-marriage premise and later reframed as pawnable emergency support. | Nagomi insists from care; Chizuru reluctantly receives it and places it in Kazuya's bag. | Custody creates neither engagement nor entitlement. | Material aid and deception cost become inseparable in one object; RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012. |
+| RAG-TXN-056 | Kazuya, Chizuru, and Sayuri; truth versus comfort | No contract governs what Sayuri must be told. | Kazuya chooses factual disclosure; Chizuru chooses preservation of a comforting belief. | Each claims care, while Sayuri lacks the information needed for an informed response. | The deception partnership develops an explicit ethical split; RAG-E-V011-009, RAG-E-V011-010. |
+| RAG-TXN-057 | Ruka and Kazuya; delayed birthday gift and cheek kiss | The outing provides no mutual agreement to a new kiss rule. | Ruka offers a gift and declares a temporary truce, then kisses him and lifts the ban herself. | Gift exchange and sympathy do not authorize physical access. | Tactical softening coexists with continued unilateral intimacy; RAG-E-V011-013, RAG-E-V011-014. |
+| RAG-TXN-058 | Sumi and Kazuya; practice route and care itinerary | Chizuru reopens the practice-date route; no additional compensation details are shown in V011. | Sumi independently chooses costume, venue, schedule, and activities to entertain him. | Planned care does not establish private status or erase the service origin. | Nonverbal and logistical effort become a substantial intimacy-adjacent resource; RAG-E-V011-015 through RAG-E-V011-018. |

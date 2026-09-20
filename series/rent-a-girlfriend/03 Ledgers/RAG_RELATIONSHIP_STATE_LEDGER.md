@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-row_count: 56
-state: CURRENT_THROUGH_V010
+inspected_through_volume: V011
+row_count: 62
+state: CURRENT_THROUGH_V011
 ```
 ```
 
@@ -99,3 +99,9 @@ state: CURRENT_THROUGH_V010
 | RAG-REL-054 | Ruka → Kazuya / Kinoshita family | Provisional partner competing without family recognition | She follows the pair, attends as a friend, competes for approval, initiates a kiss, and publicly asserts singular love. | Family space becomes a conversion strategy and unilateral intimacy site. | Sincere attachment remains nonreciprocal and the trial remains unresolved. | RAG-E-V010-014, RAG-E-V010-015 |
 | RAG-REL-055 | Kazuya → Ruka | Provisional partner under renewed escalation | He withholds the party conflict in advance and recoils from Ruka's initiated kiss. | Avoidance continues, but the bodily response supplies no reciprocal consent. | Relation remains unresolved and publicly misclassified. | RAG-E-V010-014, RAG-E-V010-015 |
 | RAG-REL-056 | Chizuru ↔ Kazuya | Direct-contact neighbors and family collaborators | Chizuru chooses LINE to reach Kazuya from Sayuri's hospital setting during the family party. | A contested technical route becomes a bounded crisis channel. | Chosen non-booking communication expands; diagnosis and next response remain open. | RAG-E-V010-016, RAG-E-V010-017 |
+| RAG-REL-057 | Chizuru ↔ Kazuya / Kinoshita family | Crisis-connected deception partners | Chizuru returns to the party; Kazuya searches for a disclosure opportunity while family celebration treats her as the partner. | Hospital information and family performance now share one continuous event. | Cooperation persists, but Kazuya is actively attempting correction. | RAG-E-V011-001, RAG-E-V011-003 |
+| RAG-REL-058 | Ruka → Kazuya / Chizuru | Provisional partner after a public priority claim | Ruka tells Chizuru about the kiss, then repeatedly kisses a resisting Kazuya in private. | Rival information and physical escalation widen the gap between claimed and accepted status. | Kazuya accepts responsibility for leaving the trial unresolved but does not consent or reciprocate. | RAG-E-V011-002, RAG-E-V011-004, RAG-E-V011-005 |
+| RAG-REL-059 | Chizuru ↔ Kazuya / Sayuri | Family collaborators with incompatible disclosure ethics | Kazuya urges truth before time runs out; Chizuru stops him and chooses Sayuri's comfort. | The pair no longer share one strategy for the core deception. | Public relation remains false and privately disputed. | RAG-E-V011-008 through RAG-E-V011-010 |
+| RAG-REL-060 | Chizuru / Kazuya ↔ Nagomi | False prospective couple receiving family support | Nagomi transfers the heirloom as both engagement symbol and emergency resource; Chizuru places it in Kazuya's bag. | Care becomes materially entangled with the false status. | Kazuya holds the ring while Nagomi remains uninformed. | RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012 |
+| RAG-REL-061 | Ruka → Kazuya | Provisional partner under crisis-adjusted pursuit | Ruka declares a temporary truce, gives a birthday gift, kisses his cheek, and lifts the kiss ban. | She can suspend one rivalry front while defining intimacy rules unilaterally. | Conversion goal persists without reciprocal love or consent. | RAG-E-V011-013, RAG-E-V011-014 |
+| RAG-REL-062 | Sumi → Kazuya / Chizuru | Practice provider and prior gift adviser | Through a route reopened by Chizuru, Sumi designs an aquarium outing around Kazuya's perceived preferences and enjoyment. | Care and initiative expand from advice into coordinated personal attention. | The date remains tied to practice, and its deeper conversation is unfinished. | RAG-E-V011-015 through RAG-E-V011-018 |

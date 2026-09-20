@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected, closed, and checkpointed through V010; predictions frozen before V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011; predictions frozen before V012."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-current_claim_count: 26
+inspected_through_volume: V011
+current_claim_count: 29
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V010__PREDICTIONS_FROZEN_FOR_V011
+state: CURRENT_THROUGH_V011__PREDICTIONS_FROZEN_FOR_V012
 ```
 
 ## Current claims
@@ -67,8 +67,11 @@ state: CURRENT_THROUGH_V010__PREDICTIONS_FROZEN_FOR_V011
 | RAG-CLM-022 | Kazuya can convert social-identity threat into costly protection, while Chizuru can answer the resulting burden with chosen care and still verbally constrain its meaning. | STRONG_INFERENCE | RAG-E-V009-005 through RAG-E-V009-011 | The protection method is reckless, the care motive remains plural, and no mutual status change follows. | ADDED and supported in V009. |
 | RAG-CLM-023 | Mami converts both researched and incidental relationship anomalies into new investigative access or attention. | STRONG_INFERENCE | RAG-E-V005-017, RAG-E-V006-005, RAG-E-V006-008, RAG-E-V006-011, RAG-E-V009-012 through RAG-E-V009-015 | The operational pattern repeats, but her desired endpoint and the next action after the train sighting remain unknown. | ADDED and supported in V009; extends RAG-CLM-016. |
 | RAG-CLM-024 | Paid relationship performance can contain scripted physical intimacy and genuine information, pride, or encouragement simultaneously; the service frame neither proves nor erases private feeling. | STRONG_INFERENCE | RAG-E-V010-004 through RAG-E-V010-010 | The evidence distinguishes observable conduct and stated work meaning from unreported romantic motive. | ADDED and supported in V010. |
-| RAG-CLM-025 | Technical and family-mediated routes can convert contingent contact into chosen non-booking coordination, but each use remains bounded by context rather than creating general entitlement. | STRONG_INFERENCE | RAG-E-V009-010, RAG-E-V010-011 through RAG-E-V010-014, RAG-E-V010-016, RAG-E-V010-017 | One family visit and one crisis message do not establish unrestricted future access. | ADDED and supported in V010. |
-| RAG-CLM-026 | Ruka's status strategy converts perceived competition into unilateral physical and public escalation, widening the gap between sincere claim and mutual agreement. | STRONG_INFERENCE | RAG-E-V008-012 through RAG-E-V008-014, RAG-E-V009-013, RAG-E-V009-014, RAG-E-V010-003, RAG-E-V010-014, RAG-E-V010-015 | Her apology and sincere feeling are real counterweights but do not supply Kazuya's consent or reciprocation. | ADDED and supported in V010. |
+| RAG-CLM-025 | Technical and family-mediated routes can convert contingent contact into chosen non-booking coordination, but each use remains bounded by context rather than creating general entitlement. | STRONG_INFERENCE | RAG-E-V009-010, RAG-E-V010-011 through RAG-E-V010-014, RAG-E-V010-016, RAG-E-V010-017, RAG-E-V011-001, RAG-E-V011-007 | Repeated crisis use strengthens the route but still does not establish unrestricted access. | STRENGTHENED through V011. |
+| RAG-CLM-026 | Ruka's status strategy converts perceived competition into unilateral physical and public escalation, widening the gap between sincere claim and mutual agreement. | STRONG_INFERENCE | RAG-E-V008-012 through RAG-E-V008-014, RAG-E-V009-013, RAG-E-V009-014, RAG-E-V010-003, RAG-E-V010-014, RAG-E-V010-015, RAG-E-V011-002, RAG-E-V011-004, RAG-E-V011-013, RAG-E-V011-014 | Sympathy, apology, and sincere feeling are real counterweights but do not supply Kazuya's consent or reciprocation. | STRENGTHENED through V011. |
+| RAG-CLM-027 | Family belief can become a material obligation: the heirloom ring carries care, emergency value, and coercive pressure through the same object. | STRONG_INFERENCE | RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012 | Chizuru redirects custody to Kazuya, and no engagement or later use is established. | ADDED and supported in V011. |
+| RAG-CLM-028 | Limited time converts the false relationship into an explicit ethical conflict between factual disclosure and protective comfort. | STRONG_INFERENCE | RAG-E-V011-007 through RAG-E-V011-012 | Neither strategy is completed in V011, and Sayuri's own informed preference is unavailable. | ADDED and supported in V011. |
+| RAG-CLM-029 | Communication competence can grow through observation, writing, itinerary design, and execution even when spontaneous speech remains difficult. | STRONG_INFERENCE | RAG-E-V011-015 through RAG-E-V011-018 | The aquarium sequence remains unfinished and does not establish broad independent provider competence. | ADDED and supported in V011. |
 
 ## Competing hypotheses
 
@@ -159,20 +162,29 @@ state: CURRENT_THROUGH_V010__PREDICTIONS_FROZEN_FOR_V011
 | RAG-PRED-035 | SUPPORTED | Chizuru accepts an unbooked family visit and uses direct LINE for a hospital crisis; RAG-E-V010-012, RAG-E-V010-016, RAG-E-V010-017. | Each access event remains context-bounded. |
 | RAG-PRED-036 | DISCONFIRMED | June 1 and its family celebration pass without an observed Sumi message, gift, meeting, or other follow-up; RAG-E-V010-018. | The result is horizon-bounded and does not establish motive or any later conduct. |
 
+## Adjudicated predictions from the V010 boundary
+
+| Prediction ID | Adjudication | V011 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-037 | SUPPORTED | Sayuri's hospitalization produces direct calling, Chizuru's return and later departure from the party, hospital coordination, and a truth crisis; RAG-E-V011-001, RAG-E-V011-007 through RAG-E-V011-012. | Diagnosis and longer prognosis remain unknown. |
+| RAG-PRED-038 | DISCONFIRMED | No attendance, planning, spending, or practical-help action concerning the new stage opportunity occurs; RAG-E-V011-019. | The horizon-bounded result does not revoke Kazuya's earlier promise. |
+| RAG-PRED-039 | DISCONFIRMED | Mami does not appear and her family-account route has no observed consequence; RAG-E-V011-020. | Later use remains possible. |
+| RAG-PRED-040 | SUPPORTED | Ruka informs Chizuru, repeats unilateral kissing, then changes timing through a truce while preserving pursuit through a gift, cheek kiss, and declared rule change; RAG-E-V011-002, RAG-E-V011-004, RAG-E-V011-013, RAG-E-V011-014. | Tactical change does not resolve consent or status. |
+
 ## Adjudications and revisions
 
-At the V010 horizon, RAG-PRED-033 through RAG-PRED-035 are supported and RAG-PRED-036 is disconfirmed. The disconfirming case is retained because recorded information and prior initiative did not produce the predicted birthday action within the declared test window. V010 strengthens the commercial-boundary, vocational-support, Mami-investigation, family-access, and provisional-status claims. RAG-CLM-024 records the coexistence of scripted intimacy and genuine vocational exchange; RAG-CLM-025 limits non-booking access by context; RAG-CLM-026 records the growing gap between Ruka's sincere claim and mutual agreement. No V011 prediction is frozen because V011 inspection is outside the authorized block.
+At the V011 horizon, RAG-PRED-037 and RAG-PRED-040 are supported while RAG-PRED-038 and RAG-PRED-039 are disconfirmed. The mixed result distinguishes immediate crisis and rivalry consequences from dormant vocational and investigative routes. V011 strengthens the bounded-contact and consent claims, then adds material-family obligation, limited-time information ethics, and practical communication growth as RAG-CLM-027 through RAG-CLM-029.
 
-The V010 checkpoint preserves the current twenty-six claims, rejects physical or visual intimacy as sufficient proof of mutual consent or relationship status, and revises any simple stagnation account toward domain-specific durable change inside repeated public structures. It downgrades the expectation that newly recorded personal knowledge reliably produces prompt follow-up. Exact checkpoint reasoning is frozen in `02 Block Syntheses/RAG_CP_V010.md`; model-level tests are frozen in `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V010.md`.
+The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V011 begins the next block without revising that historical checkpoint. Its volume close raises the live claim count to twenty-nine and freezes four prospective tests for V012.
 
-## Frozen predictions for V011
+## Frozen predictions for V012
 
 | Prediction ID | Observable expectation | Source basis | Disconfirmation |
 |---|---|---|---|
-| RAG-PRED-037 | Sayuri's hospitalization will produce immediate non-booking coordination or care and an observable consequence for the Kinoshita birthday gathering. | RAG-E-V010-016, RAG-E-V010-017 | The hospitalization has no effect on contact, movement, information, or family conduct in V011. |
-| RAG-PRED-038 | Kazuya's stated support for Chizuru's new stage opportunity will produce a concrete attendance, planning, spending, or practical-help action. | RAG-E-V010-010 | The stage opportunity receives no observable support consequence in V011. |
-| RAG-PRED-039 | Mami's access to the Kinoshita family account will produce family-directed observation, contact, information gathering, or intervention. | RAG-E-V010-002 | The new route has no observable consequence in V011. |
-| RAG-PRED-040 | Ruka's family-party kiss and public priority claim will produce a correction, confrontation, concealment cost, or tactical change involving Kazuya or Chizuru. | RAG-E-V010-014, RAG-E-V010-015 | The escalation is not revisited and creates no observable consequence in V011. |
+| RAG-PRED-041 | Sumi's aquarium care plan will produce a substantive disclosure, guidance, or coping consequence concerning Chizuru and Sayuri. | RAG-E-V011-015 through RAG-E-V011-018 | The outing ends without any such exchange or consequence in V012. |
+| RAG-PRED-042 | Kazuya and Chizuru's disagreement about Sayuri will produce another decision or action to reveal, maintain, or manage the false relationship account. | RAG-E-V011-009, RAG-E-V011-010, RAG-E-V011-012 | The conflict is neither revisited nor acted on in V012. |
+| RAG-PRED-043 | Custody of the Kinoshita ring will produce observable handling, attempted return, concealment, disclosure, or support use. | RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012 | The ring has no V012 consequence. |
+| RAG-PRED-044 | Ruka's temporary truce and self-declared lifted kiss ban will produce renewed rivalry, another access tactic, or an explicit consent/status consequence. | RAG-E-V011-013, RAG-E-V011-014 | Neither declaration affects V012 conduct. |
 
 ## Open evidence questions
 
@@ -181,8 +193,10 @@ The V010 checkpoint preserves the current twenty-six claims, rejects physical or
 - What final relationship state does Mami seek through separation?
 - Can Kazuya generalize the completed Kuribayashi disclosure to Kibe, family, or another audience?
 - Can Kazuya treat Ruka's sincere feeling responsibly after nearly formalizing from duty while explicitly preferring Chizuru?
-- What use will Mami make of the Kinoshita family account after Chizuru's denial?
+- What later use, if any, will Mami make of the Kinoshita family account after no V011 consequence?
 - Will direct LINE access remain crisis-bounded or become routine communication?
-- How will Kazuya address Ruka's unilateral kiss and widening family-status conflict?
-- What diagnosis, prognosis, and family response follow Sayuri's hospitalization?
-- Can Kazuya convert stated support for Chizuru's new stage opportunity into durable practical help?
+- How will Kazuya address Ruka's repeated unilateral kisses and widening status conflict?
+- What diagnosis, prognosis, and disclosure decision follow Sayuri's hospitalization?
+- What consequence follows Kazuya's custody of the family ring?
+- Can Kazuya convert stated support for Chizuru's stage work into durable practical help after no V011 execution?
+- Can Sumi's practical communication gains produce substantive emotional guidance at the aquarium?

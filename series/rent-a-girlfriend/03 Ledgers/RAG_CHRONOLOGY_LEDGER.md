@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-row_count: 45
-state: CURRENT_THROUGH_V010
+inspected_through_volume: V011
+row_count: 51
+state: CURRENT_THROUGH_V011
 ```
 
 ## Records
@@ -87,3 +87,9 @@ state: CURRENT_THROUGH_V010
 | RAG-CHR-043 | RAG-E-V010-011 through RAG-E-V010-013 | Nagomi calls before Kazuya's June 1 birthday; Chizuru agrees to attend the family celebration after a hospital appointment, and both Chizuru and Ruka deliver birthday greetings. | June 1 is explicit from the V009 calendar anchor and V010 birthday event. | Chizuru's own missed April birthday is celebrated jointly but does not change the June 1 event date. |
 | RAG-CHR-044 | RAG-E-V010-014, RAG-E-V010-015 | Chizuru and Ruka converge at the Kinoshita family gathering; rivalry and Ruka's initiated kiss occur during the party. | Same-evening sequence explicit. | The party preserves the false public girlfriend premise. |
 | RAG-CHR-045 | RAG-E-V010-016, RAG-E-V010-017 | Near the party's end, Chizuru uses LINE from Sayuri's hospital setting and asks to speak with Kazuya. | Direct cross-location sequence; V010 endpoint. | Diagnosis, prognosis, and subsequent response are outside the admitted boundary. |
+| RAG-CHR-046 | RAG-E-V011-001 through RAG-E-V011-003 | The hospital call continues directly: Sayuri's immediate condition eases, Chizuru returns to the June 1 gathering, and Ruka tells her about the kiss. | Direct V010 continuation during the same family birthday. | Exact test results and elapsed hospital time are unstated. |
+| RAG-CHR-047 | RAG-E-V011-004 through RAG-E-V011-007 | During the continuing party, Ruka's private kissing precedes Nagomi's ring gift and Kazuya's interrupted confession. | Same-evening order is continuous. | The call interruption prevents completion of the disclosure. |
+| RAG-CHR-048 | RAG-E-V011-008 through RAG-E-V011-012 | At the hospital, Sayuri stabilizes; Kazuya and Chizuru disagree about truth, Nagomi renews the ring transfer, and the pair return to their apartments. | Same-night sequence is explicit. | Long-term prognosis and the interval before later events remain unknown. |
+| RAG-CHR-049 | RAG-E-V011-013, RAG-E-V011-014 | Ruka's delayed birthday outing at Omotesando follows the family crisis; she declares a truce, gives a gift, and kisses Kazuya at departure. | Presented as a make-up birthday event after June 1. | Exact calendar date is not printed. |
+| RAG-CHR-050 | RAG-E-V011-015, RAG-E-V011-016 | After Chizuru contacts Sumi, a Saturday 10:00 practice meeting begins at Shinagawa; Sumi arrives in a school uniform. | Day and time are stated; relation to the prior outing is ordered but not dated. | The precise Saturday date is unknown. |
+| RAG-CHR-051 | RAG-E-V011-017, RAG-E-V011-018 | Sumi leads the Aqua Park itinerary through the 11:30 dolphin-show seating. | Schedule order and 11:30 show time are visible. | V011 ends before the show starts. |

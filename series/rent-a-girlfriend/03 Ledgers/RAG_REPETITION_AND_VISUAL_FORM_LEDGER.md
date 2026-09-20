@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-row_count: 56
-state: CURRENT_THROUGH_V010
+inspected_through_volume: V011
+row_count: 61
+state: CURRENT_THROUGH_V011
 ```
 
 ## Records
@@ -98,3 +98,8 @@ state: CURRENT_THROUGH_V010
 | RAG-FRM-054 | A commercial date becomes a stage-work conversation without leaving its frame. | Chizuru's account of rental pride leads into news of another acting opportunity and Kazuya's support. | Dialogue reinterprets girlfriend performance as labor, practice, and chosen service. | Genuine vocational exchange does not erase payment; RAG-E-V010-009, RAG-E-V010-010. |
 | RAG-FRM-055 | Two birthday routes converge in a family-home contest. | Chizuru's promised attendance and Ruka's pursuit place both women before Nagomi under incompatible labels. | Gifts, food service, greetings, and domestic performance become rivalry signs. | Family approval cannot settle private status; RAG-E-V010-011 through RAG-E-V010-015. |
 | RAG-FRM-056 | A LINE notification turns the party into a hospital cliffhanger. | Chizuru's direct message interrupts family rivalry and relocates attention to Sayuri's condition. | Screen text connects separated family spaces and converts prior technical access into urgent communication. | The cut establishes crisis, not diagnosis or outcome; RAG-E-V010-016, RAG-E-V010-017. |
+| RAG-FRM-057 | The hospital cliffhanger folds back into the birthday party. | Chizuru's direct call produces return rather than simple withdrawal, while Ruka carries the prior kiss into direct rival speech. | Cross-location dialogue and arrival panels bind crisis, rivalry, and family performance. | Return does not resolve Sayuri's condition or Chizuru's private response; RAG-E-V011-001, RAG-E-V011-002. |
+| RAG-FRM-058 | Repeated kiss panels are interrupted by recoil and self-blame. | Ruka intensifies the V010 kiss while Kazuya's body and speech reject the contact; later interior narration assigns himself causal responsibility for the situation. | Close physical framing gives way to isolated interior appraisal. | Formal intensity and self-blame cannot be read as mutual consent; RAG-E-V011-004, RAG-E-V011-005. |
+| RAG-FRM-059 | A ring turns audience belief into portable material weight. | The family role moves from celebration speech to an heirloom case that passes from Nagomi to Chizuru and then Kazuya. | Object close-ups connect engagement symbolism, emergency value, and concealed custody. | The object represents care and pressure without establishing an engagement; RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012. |
+| RAG-FRM-060 | Hospital stillness stages opposed definitions of care. | Kazuya's truth demand and Chizuru's protective-memory argument occupy the same limited-time crisis. | Extended dialogue and close reaction panels replace comic party motion. | The form sharpens disagreement but does not adjudicate the ethical outcome; RAG-E-V011-008 through RAG-E-V011-010. |
+| RAG-FRM-061 | The school-uniform motif changes from purchased fantasy to observed care. | Sumi repeats the V010 costume after seeing the dream date, then embeds it in her own aquarium itinerary. | Written phone text, schedule fragments, and successive activity tableaux make planning visible. | The visual echo shows inference and effort, not equivalent relationship status; RAG-E-V011-016 through RAG-E-V011-018. |

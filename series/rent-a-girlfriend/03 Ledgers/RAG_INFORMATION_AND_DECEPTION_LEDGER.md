@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected and closed through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V010
-row_count: 56
-state: CURRENT_THROUGH_V010
+inspected_through_volume: V011
+row_count: 62
+state: CURRENT_THROUGH_V011
 ```
 
 ## Records
@@ -98,3 +98,9 @@ state: CURRENT_THROUGH_V010
 | RAG-INF-054 | Nagomi believes Chizuru is Kazuya's private girlfriend and treats the joint birthday as a family event. | Kazuya and Chizuru preserve the representation; Ruka attends under a friend label. | Multiple actors manage incompatible public and private classifications. | The family does not learn the rental or provisional-girlfriend truth; RAG-E-V010-011 through RAG-E-V010-015. |
 | RAG-INF-055 | Ruka's public friend label conflicts with her claimed desired status and initiated kiss. | Family witnesses the friend presentation and parts of her conduct, while Kazuya knows the provisional relation. | Audience management lets rivalry enter the family home without full disclosure. | Neither family approval nor Ruka's declaration creates agreement; RAG-E-V010-014, RAG-E-V010-015. |
 | RAG-INF-056 | Chizuru can reach Kazuya directly and uses that route from Sayuri's hospital setting. | A LINE message and call request carry the crisis across locations. | The V009 technical path becomes chosen information transfer. | Diagnosis and unrestricted-contact permission remain unknown; RAG-E-V010-016, RAG-E-V010-017. |
+| RAG-INF-057 | Chizuru reports Sayuri's acute illness directly and then returns to the family party. | Kazuya receives the hospital update through LINE/telephone rather than a booking or family intermediary. | Crisis information changes movement and party participation. | Immediate stabilization does not establish prognosis; RAG-E-V011-001. |
+| RAG-INF-058 | Chizuru learns that Ruka kissed Kazuya and claims ownership. | Ruka supplies the information directly before Chizuru returns to the party. | Rival disclosure makes the prior concealed kiss part of Chizuru's decision environment. | Ruka's claim overstates mutual status; Chizuru's incomplete private sentence cannot be completed; RAG-E-V011-002. |
+| RAG-INF-059 | The Kinoshita family still believes Chizuru is Kazuya's private partner and potential spouse. | The birthday celebration and heirloom transfer operationalize the maintained story. | Childhood materials, gifts, and the ring add evidence inside the false audience model. | Kazuya's attempted correction is interrupted; RAG-E-V011-003, RAG-E-V011-006, RAG-E-V011-007. |
+| RAG-INF-060 | Kazuya and Chizuru explicitly disagree about what Sayuri should be told. | He names the relationship a lie and argues for disclosure; she argues that the comforting belief should be preserved. | Private debate exposes incompatible information ethics within the deception partnership. | Sayuri does not receive the corrected account in V011; RAG-E-V011-009, RAG-E-V011-010. |
+| RAG-INF-061 | The ring's support rationale and custody diverge. | Nagomi tells Chizuru to hold or pawn it; Chizuru places the case in Kazuya's bag. | Material transfer carries both family belief and a private redirection unknown to Nagomi. | No later use or disclosure occurs within V011; RAG-E-V011-011, RAG-E-V011-012. |
+| RAG-INF-062 | Sumi infers that Kazuya likes uniforms and uses the inference to plan care. | Her earlier sighting and written explanation disclose the basis; a detailed itinerary carries the broader intention. | Observation becomes purpose-specific costume and activity design. | The inference embarrasses Kazuya and does not establish a general preference; RAG-E-V011-016 through RAG-E-V011-018. |

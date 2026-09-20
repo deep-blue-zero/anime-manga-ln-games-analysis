@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; character evidence inspected through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; character evidence inspected through V011."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V010
+inspected_through_volume: V011
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -96,6 +96,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E056 | KAZ-S012 | RAG-E-V010-009, RAG-E-V010-010 | Vocational listening and explicit future support | Hears Chizuru explain pride in rental work and another stage opportunity, promises to attend and support her, and resolves to help. | Responds to concrete career success with direct enthusiasm rather than only private fantasy. | Implementation and durability remain untested; his hand pressure briefly exceeds comfort. | RAG-KAZ-R002, RAG-KAZ-R007, RAG-KAZ-R008, RAG-KAZ-R009 |
 | RAG-KAZ-E057 | KAZ-S012 | RAG-E-V010-011 through RAG-E-V010-014 | Family pressure, concealment, and non-booked participation | Panics at Nagomi's demand, does not disclose the rental truth, and accepts Chizuru's chosen family attendance while belatedly explaining Ruka's involvement. | Continues the family fiction even as access expands beyond payment. | Chizuru absorbs substantial social cost, and durable honesty does not improve. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
 | RAG-KAZ-E058 | KAZ-S012 | RAG-E-V010-015 through RAG-E-V010-017 | Received unilateral kiss and crisis contact | Recoils from Ruka's party kiss and receives Chizuru's direct hospital communication through LINE. | Preserves nonconsent evidence while the previously contested contact route becomes useful in crisis. | He has not yet resolved Ruka's status or responded to Sayuri's condition within V010. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R009 |
+| RAG-KAZ-E059 | KAZ-S013 | RAG-E-V011-001, RAG-E-V011-003, RAG-E-V011-007 | Crisis response and attempted family confession | Receives Chizuru's call, searches for an opening at the party, and begins to disclose the lie before hospital news interrupts him. | Moves beyond imagined honesty into another initiated correction attempt. | No audience receives the completed truth. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E060 | KAZ-S013 | RAG-E-V011-004, RAG-E-V011-005 | Repeated nonconsensual kissing and causal self-account | Objects and recoils while Ruka kisses him repeatedly, then says he cornered her by sustaining the trial. | Maintains the bodily refusal while accepting responsibility for the unresolved structure. | Self-blame risks conflating structural responsibility with responsibility for another person's act. | RAG-KAZ-R001, RAG-KAZ-R005, RAG-KAZ-R009 |
+| RAG-KAZ-E061 | KAZ-S013 | RAG-E-V011-008 through RAG-E-V011-010 | Limited-time moral reasoning and direct disagreement | Decides to tell Nagomi and Sayuri the truth and argues that continued lying is wrong when time may be short. | Turns care into a clear factual-disclosure position rather than immediate face protection. | Chizuru rejects the plan and the consequence remains unknown. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
+| RAG-KAZ-E062 | KAZ-S013 | RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012 | Inherited object and renewed resolution | Objects to the family ring, later finds it in his bag, and renews his decision to tell Sayuri. | Materialized family expectation intensifies rather than suppresses his correction goal. | He does not execute the disclosure in V011. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E063 | KAZ-S013 | RAG-E-V011-015 through RAG-E-V011-018 | Support received and competence recognition | Accepts the Sumi practice route, recognizes her detailed planning as communication growth, and responds openly to the aquarium itinerary. | Can receive care and assess competence outside his central romantic script. | His focus remains partly on what he can do for Chizuru and Sayuri; the outing is unfinished. | RAG-KAZ-R002, RAG-KAZ-R006, RAG-KAZ-R008 |
 
 ## State-change summary
 
@@ -111,6 +116,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S010 — status-independent supporter under consent and planning tests:** gives temporary shelter and restraint, receives Chizuru's family history, states vocational support, refuses sex during Ruka's overnight escalation, and uses a Sumi booking to plan Chizuru's birthday gift.
 - **KAZ-S011 — practical giver and reckless identity protector under widening observation:** completes the acting-linked birthday gift, gives Chizuru a partial Ruka reassurance, protects her campus identity through dangerous overdrinking, receives unpriced care and direct LINE access, and corrects Ruka's false public status claims before Mami sees Chizuru working.
 - **KAZ-S012 — paid dream-date client and vocational supporter under family crisis:** designs a commercial missed-youth date, receives Chizuru's work and stage disclosure, promises support, preserves the family fiction, recoils from Ruka's renewed unilateral kiss, and receives Chizuru's direct hospital contact.
+- **KAZ-S013 — truth advocate under crisis, coercion, and inherited obligation:** attempts family disclosure, resists Ruka's repeated kisses, distinguishes his responsibility for the trial from her conduct imperfectly, argues for truth before time runs out, receives the ring, and recognizes Sumi's practical care.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -137,12 +143,14 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - When Ruka publicly overstates their relation, Kazuya corrects both official status and sexual history, although his earlier attempt to keep Mami uninformed still follows the concealment pattern (RAG-E-V009-012 through RAG-E-V009-014).
 - V010 again separates domains: he can plan a paid scenario, respect an immediate bodily correction, and respond directly to vocational success, while family scrutiny still produces concealment and reliance on Chizuru's cooperation (RAG-E-V010-004 through RAG-E-V010-014).
 - When Ruka initiates another kiss, his recoil supplies additional nonconsent evidence; the direct LINE route then becomes materially useful for Chizuru's hospital crisis (RAG-E-V010-015 through RAG-E-V010-017).
+- V011 supplies the strongest counterexample yet to automatic family concealment: he begins a confession, argues directly for telling Sayuri, and renews that intention after receiving the ring, although interruption and disagreement prevent execution (RAG-E-V011-003, RAG-E-V011-007, RAG-E-V011-009, RAG-E-V011-012).
+- He can recognize Sumi's itinerary design as real communication competence and receive care without converting it into an immediate status claim (RAG-E-V011-015 through RAG-E-V011-018).
 
 ## Gaps and negative evidence
 
 - Paid employment is routine enough in V005 to produce first wages and a repair plan, but long-duration competence and independence from relationship pressure remain insufficiently sampled.
 - Competence outside relationship crisis remains underobserved.
-- Ten volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
+- Eleven volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
