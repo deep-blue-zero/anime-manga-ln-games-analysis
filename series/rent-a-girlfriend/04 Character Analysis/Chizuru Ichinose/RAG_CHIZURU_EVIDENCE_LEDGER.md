@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; character evidence inspected through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; character evidence inspected through V017."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V016
+inspected_through_volume: V017
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -117,6 +117,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E075 | CHI-S018 | RAG-E-V016-005, RAG-E-V016-014 | Private romantic recall and nighttime activation | Recalls her qualified non-negation, later approaches the sleeping Kazuya while recalling the supporter promise, and cannot sleep. | Prior ambiguity remains active in private rather than only under Umi's questioning. | The sequence establishes neither a kiss, contact, affirmative conclusion, nor shared knowledge. | RAG-CHI-R003, RAG-CHI-R006, RAG-CHI-R013 |
 | RAG-CHI-E076 | CHI-S018 | RAG-E-V016-010 through RAG-E-V016-012 | Explicit family purpose, gratitude, and final performance | Names Katsuhito's death and Sayuri as the film's remaining recipient, thanks Kazuya, and completes the final scene. | Joins family history, direct appreciation, and vocational output in one chosen disclosure. | Gratitude and performance do not create romantic confession or public career success. | RAG-CHI-R002, RAG-CHI-R007, RAG-CHI-R009, RAG-CHI-R010, RAG-CHI-R013 |
 | RAG-CHI-E077 | CHI-S018 | RAG-E-V016-015 through RAG-E-V016-017 | Trial inquiry, post-film distance, unplanned contact, and rival confrontation | Asks Kazuya about Ruka and careful feeling, hears his true-love standard, sleeps on his shoulder, and later denies any kiss when Ruka confronts them. | Directly tests an unresolved relationship route while preserving factual bodily limits. | She gives no direct answer to Kazuya, and her reception of his shouted preference is unproved. | RAG-CHI-R003, RAG-CHI-R006, RAG-CHI-R013 |
+| RAG-CHI-E078 | CHI-S019 | RAG-E-V017-005, RAG-E-V017-006 | Dated film update, happy narration, and family interpretation | Tells Sumi and Sayuri that editing continues and the screening is set for September 30, then happily recounts the project and Kazuya. | Makes progress and gratitude visible enough for Sayuri to infer that love may be sprouting. | Sayuri lacks the rental truth, and Chizuru does not affirm the romantic interpretation. | RAG-CHI-R002, RAG-CHI-R007, RAG-CHI-R013 |
+| RAG-CHI-E079 | CHI-S019 | RAG-E-V017-011, RAG-E-V017-012 | Chosen vocation and inherited support | Tells Sayuri that acting is difficult but she likes pursuing dreams and expects to continue; the scene recalls Katsuhito asking Sayuri to keep supporting her. | Reaffirms personal choice inside a family-supported vocation. | Choice does not erase grief, obligation, or outcome uncertainty. | RAG-CHI-R007, RAG-CHI-R009, RAG-CHI-R010 |
+| RAG-CHI-E080 | CHI-S019 | RAG-E-V017-008, RAG-E-V017-013 | Accessible exhibition planning and chosen gratitude | Brings Sayuri to the wheelchair-accessible cinema, waits for Kazuya after his private conversation, and thanks him again. | Sustains non-rental coordination and chooses a direct post-conversation acknowledgment. | The film has not screened, and gratitude is not a romantic classification. | RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R011 |
+| RAG-CHI-E081 | CHI-S019 | RAG-E-V017-014 through RAG-E-V017-016 | Family medical crisis, controlled self-report, and visible strain | Accompanies Sayuri through collapse and critical prognosis, tells Kazuya she did everything possible and has no regret, then cries and clenches her hand. | Uses controlled language during terminal risk while visual conduct shows unresolved distress. | Visible strain does not identify one hidden wish or invalidate every part of her statement. | RAG-CHI-R002, RAG-CHI-R009, RAG-CHI-R014 |
+| RAG-CHI-E082 | CHI-S019 | RAG-E-V017-017, RAG-E-V017-018 | Comfort-first ethics under terminal risk | Defends leaving Sayuri's happy belief intact, says she hates sad truths, accepts possible resentment, and enters the room after Kazuya asks her to prioritize her feelings. | Reapplies the protective-deception rule under its most urgent observed condition. | Sayuri cannot state an informed preference, and Chizuru's final action and medical outcome remain unknown. | RAG-CHI-R002, RAG-CHI-R006, RAG-CHI-R014 |
 
 ## State-change summary
 
@@ -138,6 +143,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S016 — campaign principal under calibrated exposure and direct preference information:** helps choose the source and director route, participates in recovery strategy, offers personal items under a firm intimate limit, distinguishes gratitude from romance, and receives Mini's direct claim about Kazuya before responding.
 - **CHI-S017 — filming lead under qualified romantic ambiguity:** answers Mini through role boundaries, uses Umi's network while refusing dinner for the campaign, describes Kazuya as restorative support, qualifies her denial of liking him, and converts disciplined preparation into locally moving filmed work.
 - **CHI-S018 — final-scene lead under direct gratitude and private affective activation:** rejects Kazuya's self-demotion, governs engineered travel and room access, names the film's family purpose, completes principal photography, privately revisits her qualified answer, and tests the unresolved Ruka route without offering mutual romantic classification.
+- **CHI-S019 — family-purpose actor under terminal-risk truth conflict:** coordinates a dated accessible screening, reaffirms acting as chosen, waits for and thanks Kazuya again, receives Sayuri's critical prognosis, and reapplies comfort-first ethics while visible strain complicates her no-regret account.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
@@ -166,6 +172,7 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - On set she joins close preparation and responsive acting to an explicit concentration boundary, extending controlled responsibility from campaign governance into performance practice (RAG-E-V015-011 through RAG-E-V015-015).
 - V016 expands controlled access through a two-person trip and one-room decision, but she states the financial and project conditions, sleeps separately, and later supplies a factual denial of kissing (RAG-E-V016-003, RAG-E-V016-006, RAG-E-V016-008, RAG-E-V016-014, RAG-E-V016-017).
 - Her direct thanks and private recall strengthen evidence of personal investment while preserving the distinction between affective activation and an affirmative, shared romantic classification (RAG-E-V016-005, RAG-E-V016-011, RAG-E-V016-014 through RAG-E-V016-016).
+- V017 joins chosen vocation, accessible family exhibition planning, and repeated gratitude to a terminal-risk truth decision; controlled no-regret speech coexists with tears and clenched posture without supplying a single hidden motive (RAG-E-V017-005, RAG-E-V017-011 through RAG-E-V017-017).
 
 ## Gaps and negative evidence
 
@@ -176,7 +183,7 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - No broad rule yet supports behavior with close friends, teachers, coworkers beyond Umi, or a mutually acknowledged partner.
 - The ledger supports no split-personality reading between “Mizuhara” and “Ichinose.”
 - Kazuya's preference and support are direct, and Chizuru accepts a gift, provides unpaid care, and defends a comforting family representation, but no reciprocal feeling or relationship transition may be supplied.
-- Film collaboration now includes completed principal photography, direct family-purpose disclosure, and an editing handoff; it does not supply a finished film, delivery to Sayuri, a public career result, or mutual romantic reclassification.
+- Film collaboration now includes completed principal photography, direct family-purpose disclosure, editing, a September 30 plan, and an inspected accessible venue; it does not supply a finished screening, delivery to Sayuri, a public career result, or mutual romantic reclassification.
 
 ## Update rule
 

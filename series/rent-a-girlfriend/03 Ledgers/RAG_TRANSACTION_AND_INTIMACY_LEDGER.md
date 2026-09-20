@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V016
-row_count: 73
-state: CURRENT_THROUGH_V016
+inspected_through_volume: V017
+row_count: 78
+state: CURRENT_THROUGH_V017
 ```
 
 ## Records
@@ -125,3 +125,8 @@ state: CURRENT_THROUGH_V016
 | RAG-TXN-081 | Chizuru and Kazuya; film labor, gratitude, and family purpose | Kazuya's producer labor is not priced as personal access; Chizuru names its value and thanks him. | The film becomes a reciprocally acknowledged support act directed toward Sayuri and Katsuhito's promise. | Gratitude and family fulfillment create no romantic debt. | The last scene is completed without formal relationship change; RAG-E-V016-001, RAG-E-V016-002, RAG-E-V016-010 through RAG-E-V016-012. |
 | RAG-TXN-082 | Kazuya and Chizuru; proximity during travel and lodging | Shared food, bath accident, separate futons, nighttime approach, and shoulder sleep have different agency and consent conditions. | Ordinary care and involuntary or accidental proximity coexist with chosen collaboration. | Formal intimacy-like imagery cannot collapse those distinct conditions into sexual or romantic agreement. | Affective pressure rises while mutual classification remains absent; RAG-E-V016-006, RAG-E-V016-014, RAG-E-V016-016. |
 | RAG-TXN-083 | Ruka and Kazuya; birthday wish and claimed project compensation | Ruka invokes her birthday, film labor, and exclusion from the location trip while requesting bodily touch. | She asks directly for a specific intimacy act. | Prior labor, provisional status, and birthday framing do not supply Kazuya's consent. | The volume ends before answer or contact; RAG-E-V016-017, RAG-E-V016-018. |
+| RAG-TXN-084 | Ruka and Kazuya; sunscreen application | Ruka clarifies the requested touch as applying sunscreen; Kazuya agrees to that task. | He applies it to her back and legs and stops when the finite task ends. | Consent is act-specific and does not extend to broader bodily or relationship access. | The prior cliffhanger resolves into bounded contact; RAG-E-V017-001, RAG-E-V017-002. |
+| RAG-TXN-085 | Ruka and Kazuya; blocked hug and naming permission | Kazuya does not accept the attempted embrace; Ruka then asks for first-name address and receives agreement. | A higher-intimacy request is replaced by a narrower symbolic permission. | Naming access does not retroactively authorize the hug or create official status. | The new address becomes visible later without changing the trial; RAG-E-V017-004, RAG-E-V017-007. |
+| RAG-TXN-086 | Ruka and Kazuya; apartment access and domestic labor | Ruka invokes girlfriend-like proximity, proposes a shared bath, and performs laundry and household work. | Kazuya permits the room presence and work shown but does not accept the sexual proposal. | Domestic labor creates no romantic debt or sexual consent. | Status performance expands while mutual classification remains absent; RAG-E-V017-007. |
+| RAG-TXN-087 | Kazuya, Chizuru, Sayuri, and cinema; exhibition access and support labor | Kazuya arranges a 200-seat wheelchair-accessible venue for the September 30 film screening. | Chizuru and Sayuri inspect the space, and Sayuri thanks Kazuya for enabling the route. | Venue coordination creates no authority over Chizuru or guarantee of delivery. | Concrete family access is achieved before the edit or screening is complete; RAG-E-V017-008 through RAG-E-V017-013. |
+| RAG-TXN-088 | Chizuru, Kazuya, and Sayuri; critical care and truth-versus-comfort decision | No contract governs whether the rental-and-family account is corrected during the critical night. | Chizuru chooses comfort-first silence; Kazuya challenges it and asks her to prioritize her own feelings. | Sayuri cannot express an informed preference, and Kazuya neither forces disclosure nor assumes touch rights. | The decision and his initiated alternative action remain incomplete; RAG-E-V017-015 through RAG-E-V017-018. |

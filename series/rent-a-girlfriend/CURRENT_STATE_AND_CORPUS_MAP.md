@@ -4,13 +4,13 @@ artifact_id: RAG_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga EPUB inventory V001-V047; V001-V016 inspected and closed; V010 checkpoint and local audit remain the latest block boundary; V017 structurally verified and open under a committed entering freeze."
+source_boundary: "Japanese manga EPUB inventory V001-V047; V001-V017 inspected and closed; V010 checkpoint and local audit remain the latest block boundary; V018 is the next admitted unit."
 ---
 
 # Rent-a-Girlfriend — current state and corpus map
@@ -23,7 +23,7 @@ This is the canonical first-read surface for the Git analytical corpus. Primary 
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
-  analytical_phase: V017_ENTERING_FREEZE
+  analytical_phase: V017_CLOSED__V018_ENTRY_NEXT
   source_reconnaissance_complete: true
   governing_method: "00 Frameworks and Methods/RAG_ANALYTICAL_METHOD.md"
   method_status: canonical
@@ -45,7 +45,7 @@ project_initialization:
   sequential_analysis_lock: OPEN
 ```
 
-The first block gate is closed and the V010 checkpoint is the committed recovery boundary. V011-V016 are inspected and closed in the authorized V011-V020 block. Sequential analysis remains locked to unit order: V017 must close before V018 can open, and no V021 narrative evidence is admitted.
+The first block gate is closed and the V010 checkpoint is the committed recovery boundary. V011-V017 are inspected and closed in the authorized V011-V020 block. Sequential analysis remains locked to unit order: V018 must close before V019 can open, and no V021 narrative evidence is admitted.
 
 ## Active sequential authorization
 
@@ -55,18 +55,18 @@ sequential_execution:
   unit_type: volume
   authorized_start: V001
   terminal_boundary: V020
-  committed_high_water_mark: V016
-  next_candidate_operation: INSPECT_V017
+  committed_high_water_mark: V017
+  next_candidate_operation: V018_ENTRY_FREEZE
   confirmation_between_units: false
   run_state: active
 ```
 
-V017 is the open unit; V018-V020 remain admitted in order for this run. V021 is inventory-visible but narratively inadmissible. Each volume must close as an independent transaction before the next begins.
+V018 is the next unit; V018-V020 remain admitted in order for this run. V021 is inventory-visible but narratively inadmissible. Each volume must close as an independent transaction before the next begins.
 
 ## Source boundary
 
 - Available inventory: 47 Japanese collected-volume EPUB witnesses, numbered V001-V047 without gaps.
-- Active admitted run: V001-V020, with V001-V016 closed and V017-V020 remaining in order.
+- Active admitted run: V001-V020, with V001-V017 closed and V018-V020 remaining in order.
 - Primary continuity: main manga.
 - Excluded unless separately admitted: anime, spin-offs, alternate translations, interviews, reception, fan material, and future releases.
 - Exact hashes, package metadata, page-spine counts, anomaly notes, and inspection state live in [RAG_SOURCE_AND_SCOPE_MAP.md](00%20Frameworks%20and%20Methods/RAG_SOURCE_AND_SCOPE_MAP.md).
@@ -85,13 +85,13 @@ V017 is the open unit; V018-V020 remain admitted in order for this run. V021 is 
 | Responsibility | State |
 |---|---|
 | Foundation method, architecture, reconstruction specification | Canonical and adopted |
-| Source map and next inspection route | V001-V016 closed; V017 structurally verified and open |
-| Longitudinal ledgers | Synchronized through V016 |
-| Character evidence ledgers and models | Kazuya, Chizuru, and Ruka updated through V016; Mini role expanded in readiness |
-| Sequential deep readings | V001-V016 closed; V017 entering freeze prepared |
+| Source map and next inspection route | V001-V017 closed; V018 is next |
+| Longitudinal ledgers | Synchronized through V017 |
+| Character evidence ledgers and models | Kazuya, Chizuru, and Ruka updated through V017; Sayuri and Sumi routes expanded in readiness |
+| Sequential deep readings | V001-V017 closed; V018 entry freeze next |
 | Latest checkpoint | `02 Block Syntheses/RAG_CP_V010.md` complete |
 | Reconstruction audit | `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V010.md` complete |
-| Repository publication | Stable branch `series/rent-a-girlfriend`; V016 published and V017 entering freeze prepared |
+| Repository publication | Stable branch `series/rent-a-girlfriend`; V017 close prepared for publication |
 
 ## Execution profile
 
@@ -100,7 +100,7 @@ execution_profile:
   product_surface: Codex desktop
   tool_runtime_location: owner-controlled local runtime
   observation_date: "2026-09-19"
-  capability_scope: "Japanese image-based EPUB manga; V001-V016 original-resolution page inspection and V017 structural verification"
+  capability_scope: "Japanese image-based EPUB manga; V001-V017 original-resolution page inspection"
   source_transport: owner-authorized local evidence path
   filesystem_read: VERIFIED
   filesystem_write: VERIFIED
@@ -113,16 +113,16 @@ execution_profile:
 
 ## Next operation
 
-Inspect witness RAG-JP-EPUB-V017 completely under frozen predictions RAG-PRED-061 through RAG-PRED-064. Close and synchronize V017 as its own transaction before opening V018.
+Open witness RAG-JP-EPUB-V018 only after committing and publishing the V017 close transaction. Freeze RAG-PRED-065 through RAG-PRED-068 before inspecting V018 narrative pages.
 
 ## Current analytical routes
 
-- Latest closed reading: [RAG_V016_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20011-020/RAG_V016_DEEP_READING.md)
-- Open reading and entering freeze: [RAG_V017_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20011-020/RAG_V017_DEEP_READING.md)
-- Current claims, adjudicated V016 predictions, and frozen V017 predictions: [RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md](03%20Ledgers/RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md)
+- Latest closed reading: [RAG_V017_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20011-020/RAG_V017_DEEP_READING.md)
+- Next reading: `01 Sequential Readings/Volumes 011-020/RAG_V018_DEEP_READING.md` after its entering freeze is committed
+- Current claims, adjudicated V017 predictions, and frozen V018 predictions: [RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md](03%20Ledgers/RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md)
 - V010 checkpoint: [RAG_CP_V010.md](02%20Block%20Syntheses/RAG_CP_V010.md)
 - V010 local reconstruction audit: [RAG_RECONSTRUCTION_AUDIT_V010.md](07%20Audits%20and%20Handoffs/RAG_RECONSTRUCTION_AUDIT_V010.md)
 - Kazuya evidence/model: [evidence ledger](04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_RECONSTRUCTION_MODEL.md)
 - Chizuru evidence/model: [evidence ledger](04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_RECONSTRUCTION_MODEL.md)
 - Ruka evidence/model: [evidence ledger](04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_RECONSTRUCTION_MODEL.md)
-- The first block checkpoint and reconstruction audit are closed; V017 is the active authorized unit.
+- The first block checkpoint and reconstruction audit are closed; V017 is closed and V018 is the next authorized unit.

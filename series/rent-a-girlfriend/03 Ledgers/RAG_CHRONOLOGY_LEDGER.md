@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V016
-row_count: 64
-state: CURRENT_THROUGH_V016
+inspected_through_volume: V017
+row_count: 68
+state: CURRENT_THROUGH_V017
 ```
 
 ## Records
@@ -115,3 +115,7 @@ state: CURRENT_THROUGH_V016
 | RAG-CHR-071 | RAG-E-V016-003 through RAG-E-V016-009 | On the following Thursday, Kazuya and Chizuru depart from Ueno, travel alone after Mini's engineered absences, share a meal, discover the one-room booking, and scout Madarao. | Weekday, departure sequence, and same-day travel order are explicit. | Calendar date and precise travel times are unstated. |
 | RAG-CHR-072 | RAG-E-V016-010 through RAG-E-V016-017 | That night Chizuru explains the family purpose and completes the final scene; after the accidental bath encounter and separate-futon night, the pair return by bus and face Ruka at Iiyama Station. | Overnight and next-day ordering are explicit. | The exact clock time of the final take and whether Chizuru hears Kazuya's shout are unknown. |
 | RAG-CHR-073 | RAG-E-V016-013, RAG-E-V016-018 | By August 26 footage has gone to editing with a September completion target and Kazuya is arranging a theater; the same date is Ruka's birthday and pool outing. | August 26 and the September target are explicit. | Finished-edit, screening, and Sayuri-delivery dates remain unknown. |
+| RAG-CHR-074 | RAG-E-V017-001 through RAG-E-V017-004 | The August 26 pool outing continues through bounded sunscreen contact; that night Ruka's blocked hug becomes a permitted first-name address. | Same birthday and same-night ordering are explicit. | Exact pool and evening clock times are unstated. |
+| RAG-CHR-075 | RAG-E-V017-005, RAG-E-V017-006 | Later, Sumi visits Sayuri while the film remains in editing and Chizuru reports a September 30 screening date. | The dated future screening is explicit. | The visit's calendar date and the edit-completion date are unstated. |
+| RAG-CHR-076 | RAG-E-V017-008 through RAG-E-V017-014 | Chizuru, Kazuya, and Sayuri inspect the accessible cinema before Sayuri collapses in its lobby and is taken by ambulance. | Cinema visit, conversation, collapse, and transport form one ordered event. | Exact date and elapsed hospital transit time are unstated. |
+| RAG-CHR-077 | RAG-E-V017-015 through RAG-E-V017-018 | That night a critical prognosis precedes Chizuru's no-regret claim, the truth-versus-comfort dispute, and Kazuya's LINE-and-running action. | Medical urgency and sequence are explicit. | Recipient, destination, action result, and Sayuri's subsequent condition fall beyond V017. |

@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V016, with V012-V013 negative-evidence review."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V017, with V012-V013 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -41,13 +41,14 @@ model_basis:
     - RAG-JP-EPUB-V014
     - RAG-JP-EPUB-V015
     - RAG-JP-EPUB-V016
-  admitted_through_volume: V016
-  narrative_time_boundary: "after Mini uses Ruka's name without consent, Ruka confronts the final-location trip, and her birthday request for bodily touch remains unanswered"
+    - RAG-JP-EPUB-V017
+  admitted_through_volume: V017
+  narrative_time_boundary: "after bounded sunscreen contact, a blocked hug, permitted first-name address, and public domestic status pressure"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.14"
+  model_revision: "1.15"
   prior_knowledge_limitations:
-    - "No post-V016 narrative evidence is admitted."
+    - "No post-V017 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -530,7 +531,7 @@ uncertainties:
 ~~~yaml
 state_id: RUK-S013
 valid_from_source: "V016 0047"
-valid_until_source: null
+valid_until_source: "V017 0004"
 entry_conditions:
   - "Mini has used Ruka's name without consent to exclude her from a two-person final-location trip involving Kazuya and Chizuru."
 active_goals:
@@ -560,6 +561,47 @@ uncertainties:
   - "How Kazuya answers the bodily-contact request."
   - "Whether Ruka accepts a clear boundary or escalates after it."
   - "Whether project cooperation persists after the funding emergency and final-trip exclusion."
+~~~
+
+### RUK-S014 — bounded-request pursuer with first-name privilege
+
+~~~yaml
+state_id: RUK-S014
+valid_from_source: "V017 0005"
+valid_until_source: null
+entry_conditions:
+  - "Kazuya must answer the birthday bodily-contact request made after Ruka's exclusion from the final-location trip."
+active_goals:
+  - obtain chosen physical and symbolic recognition from Kazuya
+  - preserve and publicly display the provisional-girlfriend claim
+  - extend access through time together and domestic performance
+known_propositions:
+  - "Kazuya consents to applying sunscreen but limits the act to that task."
+  - "Her pulse reaches ninety-four, which she interprets within her established love model."
+  - "Kazuya blocks an attempted hug but permits her to call him Kazuya without an honorific."
+  - "Chizuru and Mini can observe the first-name address and her girlfriend claim."
+relationship_conditions:
+  - "Ruka treats the narrow naming privilege as meaningful recognition while Kazuya does not formalize the trial."
+  - "She describes her pursuit as chosen and uses route selection to maximize time with him."
+  - "Apartment access and domestic labor expand her performed status, but a shared-bath proposal is not accepted."
+changed_from_previous:
+  - SUNSCREEN_CONTACT_GRANTED_WITH_BOUNDED_SCOPE
+  - PULSE_NINETY_FOUR_SELF_INTERPRETED
+  - DELIBERATE_EXTENDED_PROXIMITY_EXPLAINED
+  - HUG_BLOCKED
+  - FIRST_NAME_PERMISSION_GRANTED
+  - FIRST_NAME_USED_PUBLICLY
+  - DOMESTIC_STATUS_PRESSURE_CONTINUED
+evidence_refs:
+  - RAG-E-V017-001
+  - RAG-E-V017-002
+  - RAG-E-V017-003
+  - RAG-E-V017-004
+  - RAG-E-V017-007
+uncertainties:
+  - "Whether she preserves request specificity across later intimacy pressure."
+  - "Whether first-name permission changes the trial or only its public appearance."
+  - "How she responds to a definitive relationship decision."
 ~~~
 
 ## Behavioral rules
@@ -645,11 +687,23 @@ uncertainties:
 - Disconfirming observation: comparable exclusion followed by acceptance of the existing boundary without investigation, status assertion, or compensating demand.
 - Class/confidence: WORKING_HYPOTHESIS; low and tested in one linked sequence.
 
+### RAG-RUK-R008 — resistance to a higher-intimacy request can redirect pursuit toward narrower symbolic recognition
+
+- Scope: RUK-S014.
+- Trigger: Kazuya blocks or hesitates at a requested intimacy act while Ruka still seeks visible birthday recognition.
+- Likely appraisal: the larger romantic goal remains valid, but a smaller mutually acknowledged change can still count as progress.
+- Likely action range: stop the resisted act, request naming or another bounded privilege, practice it, and later display it before rivals.
+- Inhibitors/escalators: immediate bodily resistance redirects the tactic; rivalry audiences and status insecurity escalate public use of the narrower permission.
+- Support: RAG-E-V017-004, RAG-E-V017-007.
+- Counterevidence/gap: one sequence; later domestic and status pressure shows that tactical narrowing is not general goal revision.
+- Disconfirming observation: repeated resisted requests produce no narrower negotiation and only unchanged physical escalation.
+- Class/confidence: WORKING_HYPOTHESIS; low and sequence-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V008 shows her answering two months without recognition through university intrusion, shopping, cooking, storm lodging, sexual pressure, and a morning kiss after refusal. V009 shows her overstating that trial as current and sexual before Mami, even while Kazuya corrects her. V010 shows local apology followed by family escalation. V011 shows repeated kissing through resistance and then a crisis truce that preserves pursuit through gift giving and another kiss. V016 adds investigation and confrontation after Mini uses her name to exclude her, followed by a direct but unanswered request for bodily touch. Predict direct pursuit, ordinary-date effort, monitoring, rivalry, and categorical defense under challenge; do not infer consent or mutual love from her declared label, labor, lodging, gift, kiss, request, or false sex claim.
+Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V008 shows sexual pressure and a morning kiss after refusal; V009-V011 show status overstatement, local apology, repeated kissing through resistance, and a crisis truce that preserves pursuit. V016 adds investigation and confrontation after Mini uses her name to exclude her. V017 answers the resulting request with bounded sunscreen contact, records a pulse of ninety-four, and shows her redirect a blocked hug into first-name permission before using that permission publicly and continuing domestic status pressure. Predict direct pursuit, ordinary-date effort, monitoring, rivalry, and tactical narrowing after resistance; do not infer consent or mutual love from her declared label, labor, lodging, gift, kiss, request, pulse, or naming privilege.
 
 ### Toward Chizuru
 
@@ -678,12 +732,12 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, Kazuya's answer to the birthday request, response after a definitive end of the trial, long-term workplace conduct, or any post-V016 Ruka conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, durable boundary revision, or any post-V017 Ruka conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
-V016 establishes a boundary on the project-redirection rule. Once Mini uses Ruka's name to exclude her from private rival access, she investigates, confronts the trip, reasserts status, and later asks for bodily touch while invoking birthday and project-labor context. The request remains an unanswered verbal act, so the model cannot supply Kazuya's response or Ruka's conduct after a clear answer. RAG-RUK-R006 remains limited to concrete shared tasks and welfare deadlines; RAG-RUK-R007 captures the observed exclusion trigger, and the V011 consent counterevidence remains intact. Local readiness remains PARTIAL_MODEL because her own family life, school routine, response to definitive boundaries, and long-term conduct are sparse.
+V017 validates a limited redirection pattern. Ruka receives bounded sunscreen contact, integrates a pulse of ninety-four into her existing love model, stops when an attempted hug meets resistance, and seeks first-name permission instead. She later uses that permission as public status evidence and continues apartment and domestic pressure, so the sequence does not establish generalized restraint or mutual classification. RAG-RUK-R008 captures tactical narrowing after resistance while the V011 consent counterevidence remains intact. Local readiness remains PARTIAL_MODEL because her family life, school routine, response to definitive boundaries, and long-term conduct are sparse.
 
 The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.

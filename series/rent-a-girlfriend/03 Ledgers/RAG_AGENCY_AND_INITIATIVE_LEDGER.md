@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V016
-row_count: 93
-state: CURRENT_THROUGH_V016
+inspected_through_volume: V017
+row_count: 100
+state: CURRENT_THROUGH_V017
 ```
 
 ## Records
@@ -149,3 +149,10 @@ state: CURRENT_THROUGH_V016
 | RAG-AGY-105 | Kazuya | Treat the final take as project completion or continue into delivery work. | Sends footage to the film or research club, adopts a September target, and seeks a theater. | Extends producer responsibility into postproduction and exhibition planning. | No finished film or screening is yet observed; RAG-E-V016-013. |
 | RAG-AGY-106 | Ruka | Accept the unexplained absence and trip or investigate and confront it. | Questions Mini until she confesses, meets the returning pair, challenges the overnight arrangement, and asserts her status. | Restores her own agency after her name was used without consent. | The confrontation preserves rather than resolves the provisional relationship; RAG-E-V016-004, RAG-E-V016-017. |
 | RAG-AGY-107 | Ruka | Keep birthday desire implicit or make a specific bodily request. | Frames the pool outing as her wish and asks Kazuya to touch her body. | Creates an explicit answerable consent threshold. | V016 ends before Kazuya answers or acts; RAG-E-V016-018. |
+| RAG-AGY-108 | Kazuya | Treat Ruka's request as open-ended access or require a specific act. | Asks what she means, accepts only sunscreen application, and stops when the cream is applied. | Converts the cliffhanger into task-specific consent rather than general bodily permission. | The bounded contact does not resolve the trial or imply reciprocal desire; RAG-E-V017-001. |
+| RAG-AGY-109 | Ruka | Escalate after Kazuya blocks a hug or request narrower recognition. | Stops the attempted embrace and asks permission to call him Kazuya without an honorific; he agrees. | Gains a mutually acknowledged naming privilege after a higher-intimacy boundary. | The permission changes address, not official status or blanket touch consent; RAG-E-V017-004. |
+| RAG-AGY-110 | Sumi | Remain outside the family-film route or offer bounded support. | Visits Sayuri with flowers and asks about the film through a phone memo. | Extends her support practice into the intended recipient's hospital context. | She receives only the update shown and does not enter project authority; RAG-E-V017-005. |
+| RAG-AGY-111 | Kazuya | Leave exhibition planning abstract or secure concrete access. | Arranges a 200-seat wheelchair-accessible cinema for the September 30 screening. | Moves postproduction toward a dated, usable delivery setting. | The edit and screening remain incomplete; RAG-E-V017-005, RAG-E-V017-008. |
+| RAG-AGY-112 | Chizuru | Attribute acting only to grandparent obligation or state her own choice. | Acknowledges hardship and says she likes pursuing dreams and expects to continue. | Reaffirms the vocation as chosen while retaining its family history. | Choice does not guarantee career success or eliminate grief-linked duty; RAG-E-V017-011. |
+| RAG-AGY-113 | Kazuya | Accept Chizuru's comfort-first decision or force correction or touch. | Challenges leaving the deception uncorrected, asks about guilt and regret, and tells her to prioritize her own feelings without touching her. | Presses the ethical question while preserving her bodily and decisional agency. | No disclosure decision or mutual relationship reclassification follows; RAG-E-V017-016, RAG-E-V017-017. |
+| RAG-AGY-114 | Kazuya | Remain in the hospital impasse or pursue a feasible remaining action. | Opens LINE, identifies something still possible, and runs. | Converts moral and medical urgency into an initiated coordination action. | Recipient, exact act, and outcome are withheld at the V017 boundary; RAG-E-V017-018. |

@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V016
-row_count: 78
-state: CURRENT_THROUGH_V016
+inspected_through_volume: V017
+row_count: 84
+state: CURRENT_THROUGH_V017
 ```
 
 ## Records
@@ -132,3 +132,9 @@ state: CURRENT_THROUGH_V016
 | RAG-INF-088 | Kazuya says a future family introduction should concern someone he can truly say he loves. | Chizuru hears the standard while discussing Ruka and family deception. | His truth goal and romantic criterion become shared in indirect form. | He does not name Chizuru or formally end the Ruka trial; RAG-E-V016-015. |
 | RAG-INF-089 | Principal photography is complete and postproduction has begun. | Kazuya knows footage is with the film or research club, a September completion is planned, and a theater is being sought. | The project state advances from active shooting to editing and exhibition planning. | Completion, screening, and delivery remain future states; RAG-E-V016-012, RAG-E-V016-013. |
 | RAG-INF-090 | The false family account, ring custody, and Mami route receive no new disclosure or correction. | Full V016 coverage adds Ruka-status pressure and Sayuri-linked urgency without resolving those information routes. | Dormant deceptions and obligations persist alongside project completion. | Absence does not establish abandonment, and Sayuri's prognosis remains unknown; RAG-E-V016-010, RAG-E-V016-015, RAG-E-V016-018. |
+| RAG-INF-091 | Kazuya and Ruka share the bounded terms of sunscreen contact and first-name permission. | He asks for specificity, performs only the named task, blocks a hug, and separately grants the naming request. | Their common information distinguishes two permissions from general intimacy. | Ruka's public status claim and the unresolved trial exceed those permissions; RAG-E-V017-001, RAG-E-V017-004. |
+| RAG-INF-092 | The film remains in editing with a September 30 screening and a 200-seat accessible venue arranged. | Chizuru tells Sumi and Sayuri about the schedule, and the family visits the cinema. | Postproduction and access become dated shared information. | No finished edit or completed screening is shown; RAG-E-V017-005, RAG-E-V017-008. |
+| RAG-INF-093 | Sayuri interprets Chizuru's happy account of Kazuya and the film as evidence that love is sprouting. | The inference is delivered directly by a close family observer. | Chizuru receives a relationship interpretation linked to her own narration. | Sayuri lacks the rental truth, and Chizuru gives no affirmative agreement; RAG-E-V017-006. |
+| RAG-INF-094 | Kazuya tells Sayuri that he wants to support Chizuru even if they cease being lovers. | Sayuri hears a status-independent commitment during the private cinema conversation. | His support aim becomes direct family knowledge while the current account remains uncorrected. | The statement neither discloses the rental origin nor proves current or future couple status; RAG-E-V017-009, RAG-E-V017-010. |
+| RAG-INF-095 | The physician, Chizuru, and Kazuya know that Sayuri's recovery is difficult and the night may be critical. | The prognosis follows the ambulance transfer and hospital assessment. | Family and support decisions now occur under terminal-risk information. | Exact diagnosis and final outcome remain unknown; RAG-E-V017-014, RAG-E-V017-015. |
+| RAG-INF-096 | The rental-and-family deception remains uncorrected after Kazuya renews the question and Chizuru defends a comforting final belief. | They explicitly dispute sad truth, happiness, guilt, and regret while Sayuri may hear but cannot respond. | The ethics and cost of concealment become shared again under acute time pressure. | Sayuri has no informed opportunity to state a preference, and Kazuya's final action is unfinished; RAG-E-V017-016 through RAG-E-V017-018. |

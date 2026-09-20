@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V016
-row_count: 83
-state: CURRENT_THROUGH_V016
+inspected_through_volume: V017
+row_count: 88
+state: CURRENT_THROUGH_V017
 ```
 ```
 
@@ -137,3 +137,8 @@ state: CURRENT_THROUGH_V016
 | RAG-PRG-092 | Kazuya-Chizuru romantic information | PRESSURE_INCREASE_WITH_RECEPTION_GAP — Chizuru privately revisits her qualified answer while Kazuya names a true-love standard and shouts his preference. | Both sides show stronger affective activation around post-film distance. | Her recall remains private, his shout may be unheard, and no direct exchange occurs. | RAG-E-V016-005, RAG-E-V016-014 through RAG-E-V016-016 |
 | RAG-PRG-093 | Ruka trial and consent conflict | PRESSURE_AND_UNRESOLVED_THRESHOLD — Ruka investigates the trip, reasserts status, and asks for bodily touch as a birthday wish. | The dormant trial returns as direct rivalry and an answerable request. | Prior labor and status do not supply consent, and V016 gives no answer or act. | RAG-E-V016-017, RAG-E-V016-018 |
 | RAG-PRG-094 | Truth, ring, Mami, and Sayuri outcome routes | MIXED_STALL_WITH_URGENCY — Kazuya repeats the need for genuine family introduction and the film gains a Sayuri-linked deadline, but no truth correction, ring action, Mami consequence, prognosis, or delivery occurs. | Ethical intent and family purpose remain active. | None of the underlying obligations is resolved. | RAG-E-V016-010, RAG-E-V016-013, RAG-E-V016-015 |
+| RAG-PRG-095 | Ruka trial, consent, and recognition | BOUNDED_GAIN_WITH_STATUS_STALL — Kazuya consents to sunscreen and later permits first-name address while stopping a hug. | Direct requests produce differentiated answers rather than blanket acceptance or refusal. | Ruka's categorical status claim and the trial remain unresolved. | RAG-E-V017-001 through RAG-E-V017-004 |
+| RAG-PRG-096 | Film delivery | GAIN_WITH_COMPLETION_GAP — editing continues while a September 30 screening and accessible 200-seat venue are arranged. | A planned exhibition becomes concrete enough for Sayuri to inspect. | The edit, screening, and delivery are still incomplete. | RAG-E-V017-005, RAG-E-V017-008 |
+| RAG-PRG-097 | Chizuru's acting route | GAIN_IN_CHOSEN_COMMITMENT — she states that hardship exists but she likes pursuing dreams and expects to continue. | The vocation is reaffirmed as her choice under direct family questioning. | Future career outcome and the effect of bereavement remain unknown. | RAG-E-V017-011, RAG-E-V017-012 |
+| RAG-PRG-098 | Sayuri's health and family-film delivery | SEVERE_REGRESSION_WITH_UNFINISHED_ACCESS — a cinema visit and gratitude precede collapse, ambulance transport, and a critical prognosis. | The intended recipient reaches the planned venue but not the completed screening. | Medical outcome and film receipt remain unknown. | RAG-E-V017-008 through RAG-E-V017-015 |
+| RAG-PRG-099 | Kazuya-Chizuru truth and support route | ETHICAL_CONFLICT_REACTIVATED_WITH_ACTION_PENDING — Kazuya challenges comfort-first concealment and prioritizes Chizuru's feelings before initiating an unspecified action. | Crisis pressure moves the dispute from abstract principle toward conduct. | No correction, mutual status change, or completed intervention occurs within V017. | RAG-E-V017-016 through RAG-E-V017-018 |

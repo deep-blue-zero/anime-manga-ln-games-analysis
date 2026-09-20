@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V016
-row_count: 77
-state: CURRENT_THROUGH_V016
+inspected_through_volume: V017
+row_count: 83
+state: CURRENT_THROUGH_V017
 ```
 
 ## Records
@@ -130,3 +130,9 @@ state: CURRENT_THROUGH_V016
 | RAG-FRM-086 | Intimacy-like lodging images are separated by agency and interruption. | One room, two futons, an accidental bath entry, a sleeping Kazuya, and Chizuru's wakefulness recur across the overnight sequence. | Repeated spatial closeness increases pressure while cuts and exits withhold completed contact. | The framing proves neither a kiss nor sexual consent; RAG-E-V016-008, RAG-E-V016-014. |
 | RAG-FRM-087 | Sleep and station transitions keep declaration from becoming mutual exchange. | Chizuru sleeps on Kazuya's shoulder, his shouted preference lacks proved reception, and Ruka interrupts the return at Iiyama Station. | The sequence converts private feeling into near-public sound and then rival conflict. | Neither sleep contact nor an unheard statement establishes reciprocity; RAG-E-V016-016, RAG-E-V016-017. |
 | RAG-FRM-088 | Pool spectacle narrows into a direct consent cliffhanger. | Crowds, swimwear, bodily attention, and repeated proximity culminate in Ruka's request that Kazuya touch her. | Visual eroticization is followed by an explicit verbal request whose answer is withheld. | The cliffhanger supplies no consent, contact, or completed intimacy; RAG-E-V016-018. |
+| RAG-FRM-089 | Pool spectacle resolves into a task-specific contact sequence. | The abstract request is clarified as sunscreen, then shown through back and leg application before stopping. | Verbal scope and finite cream application interrupt the invitation to read contact as unlimited intimacy. | Erotic framing does not erase Kazuya's bounded answer; RAG-E-V017-001, RAG-E-V017-002. |
+| RAG-FRM-090 | A train-route comparison makes deliberate extended proximity legible. | Ruka contrasts the faster Chuo route with the slower Yamanote route and explains choosing more time together. | Transit geography externalizes intention without requiring narrator inference. | Chosen duration establishes effort, not reciprocity; RAG-E-V017-003. |
+| RAG-FRM-091 | Repeated first-name address turns permission into a visible status marker. | Ruka practices `和也`, then uses it before Chizuru and Mini. | A small linguistic change travels from private negotiation into public rivalry. | Repetition cannot enlarge the original permission into couple status; RAG-E-V017-004, RAG-E-V017-007. |
+| RAG-FRM-092 | Empty cinema space and wheelchair staging join future exhibition to family time. | Rows of seats, the screen, wheelchair access, and Sayuri's visit visualize a planned audience before the film is finished. | The promised delivery becomes materially present while remaining temporally incomplete. | Venue access is not a completed screening; RAG-E-V017-008 through RAG-E-V017-013. |
+| RAG-FRM-093 | Controlled speech is contradicted by face, hands, and posture. | Chizuru says she did everything possible and has no regret while tears, clenched hands, and lowered posture show strain. | Visual evidence prevents the sentence from functioning as a total emotional account. | Strain does not disclose a unique hidden wish; RAG-E-V017-016. |
+| RAG-FRM-094 | Withheld embrace and phone interface convert helplessness into an action cliffhanger. | Kazuya imagines that a real boyfriend could hold Chizuru, does not touch her, then opens LINE and runs. | Counterfactual intimacy is separated from enacted support before the volume cuts on motion. | Recipient, action, and success are unavailable at the boundary; RAG-E-V017-016 through RAG-E-V017-018. |

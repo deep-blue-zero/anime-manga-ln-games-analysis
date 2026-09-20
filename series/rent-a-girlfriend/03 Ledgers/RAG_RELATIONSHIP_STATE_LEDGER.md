@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V016
-row_count: 77
-state: CURRENT_THROUGH_V016
+inspected_through_volume: V017
+row_count: 83
+state: CURRENT_THROUGH_V017
 ```
 ```
 
@@ -131,3 +131,9 @@ state: CURRENT_THROUGH_V016
 | RAG-REL-086 | Chizuru → Kazuya | Privately activated but unclassified supporter relation | Recalls her qualified non-negation, approaches him while he sleeps, questions the Ruka trial, and later sleeps on his shoulder. | Affective evidence accumulates outside rental performance and public audiences. | The night proves no contact, the shoulder sleep is unplanned, and she gives Kazuya no affirmative answer. | RAG-E-V016-005, RAG-E-V016-014 through RAG-E-V016-016 |
 | RAG-REL-087 | Ruka → Kazuya / Chizuru / Mini | Excluded rival investigating engineered access | Questions Mini, confronts the returning pair, rejects the overnight arrangement, and reasserts girlfriend status. | The trip converts project cooperation back into direct status conflict. | Ruka did not authorize Mini's message, and no definitive status decision occurs. | RAG-E-V016-004, RAG-E-V016-017 |
 | RAG-REL-088 | Ruka → Kazuya | Provisional girlfriend making an explicit bodily-contact request | Frames a birthday outing as owed recognition and asks Kazuya to touch her body. | Status pressure becomes a direct consent threshold. | V016 ends before his answer, contact, withdrawal, or resolution. | RAG-E-V016-018 |
+| RAG-REL-089 | Ruka → Kazuya | Pursuer receiving bounded touch consent | Clarifies that she wants sunscreen applied; Kazuya agrees only to that task and completes it. | A requested physical act occurs under explicit scope. | Contact does not establish broad consent, reciprocity, or official status. | RAG-E-V017-001, RAG-E-V017-002 |
+| RAG-REL-090 | Ruka → Kazuya / Chizuru | Provisional girlfriend with permitted first-name address | After Kazuya blocks a hug, she asks to call him Kazuya, receives permission, and later uses the name publicly to assert closeness. | A narrow mutual privilege becomes a portable status signal. | Chizuru witnesses the display, but naming permission does not prove the asserted relationship. | RAG-E-V017-004, RAG-E-V017-007 |
+| RAG-REL-091 | Chizuru ↔ Kazuya | Postproduction and family-access collaborators | Coordinate editing, theater access, and Sayuri's cinema visit; Chizuru waits for and thanks Kazuya afterward. | Their non-rental collaboration persists beyond principal photography. | The film and mutual romantic classification remain incomplete. | RAG-E-V017-005, RAG-E-V017-008, RAG-E-V017-013 |
+| RAG-REL-092 | Sayuri → Kazuya / Chizuru | Grateful close observer without full relationship truth | Thanks Kazuya for creating a film route and interprets Chizuru's happy account as possible love. | Family approval and gratitude intensify around the project. | Her romantic inference is constrained by incomplete information. | RAG-E-V017-006, RAG-E-V017-009 |
+| RAG-REL-093 | Kazuya → Chizuru | Status-independent lifelong supporter | Tells Sayuri he wants to support Chizuru even if they are no longer lovers. | He separates the support commitment from maintaining the public label. | The statement does not settle current truth, reciprocity, or future access. | RAG-E-V017-010 |
+| RAG-REL-094 | Kazuya ↔ Chizuru | Crisis collaborators divided over truth and comfort | Chizuru defends Sayuri's happy belief; Kazuya challenges the choice, notices concealed pain, avoids uninvited touch, and initiates another action. | Ethical disagreement becomes urgent without ending mutual support. | Disclosure, medical outcome, film delivery, and relationship status remain open. | RAG-E-V017-015 through RAG-E-V017-018 |

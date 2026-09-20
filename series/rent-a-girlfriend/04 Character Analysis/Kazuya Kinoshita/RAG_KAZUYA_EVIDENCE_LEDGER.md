@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; character evidence inspected through V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; character evidence inspected through V017."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V016
+inspected_through_volume: V017
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -123,6 +123,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E083 | KAZ-S018 | RAG-E-V016-015, RAG-E-V016-016 | Truth criterion, distance disclosure, and unreceived preference expression | Says a future family introduction should concern someone he truly loves, admits expected estrangement feels lonely, thanks Chizuru, and shouts his preference without proved reception. | Moves from private future-distance anxiety toward indirect and partly external speech. | He does not name Chizuru in the family statement, verify reception, or create a mutual exchange. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R005 |
 | RAG-KAZ-E084 | KAZ-S018 | RAG-E-V016-013 | Postproduction follow-through | Sends footage to the film or research club, adopts a September completion target, and seeks a theater. | Treats principal photography as a milestone rather than completion. | Editing quality, venue success, screening, and delivery remain unproved. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R013 |
 | RAG-KAZ-E085 | KAZ-S018 | RAG-E-V016-017, RAG-E-V016-018 | Rival confrontation, bodily-distance maintenance, and unanswered request | Rejects Ruka's forecast of greater trip intimacy, tries to preserve distance at the pool, and receives her request for bodily touch. | Prior refusal capacity remains relevant under a new explicit threshold. | V016 ends before his answer; the unresolved trial continues to create pressure. | RAG-KAZ-R003, RAG-KAZ-R009 |
+| RAG-KAZ-E086 | KAZ-S019 | RAG-E-V017-001 through RAG-E-V017-004 | Consent differentiation under birthday pressure | Requires Ruka to specify sunscreen, applies it within that scope, later blocks a hug, and separately permits first-name address. | Gives distinct answers to distinct requests rather than treating provisional status as blanket consent. | He does not resolve the trial, and the bounded permissions do not establish reciprocal love. | RAG-KAZ-R003, RAG-KAZ-R009, RAG-KAZ-R014 |
+| RAG-KAZ-E087 | KAZ-S019 | RAG-E-V017-005, RAG-E-V017-008 | Postproduction and access coordination | Continues editing oversight and arranges a September 30 screening in a 200-seat wheelchair-accessible cinema. | Converts the exhibition plan into concrete family access. | The edit, screening, and delivery are incomplete. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R013 |
+| RAG-KAZ-E088 | KAZ-S019 | RAG-E-V017-009, RAG-E-V017-010 | Gratitude received and status-independent support declared | Hears Sayuri credit him with making the film route possible and says he wants to support Chizuru even if they stop being lovers. | Separates durable support intent from preserving the public label. | He does not correct the current rental truth or receive reciprocal status. | RAG-KAZ-R001, RAG-KAZ-R005, RAG-KAZ-R007 |
+| RAG-KAZ-E089 | KAZ-S019 | RAG-E-V017-015 through RAG-E-V017-017 | Terminal-risk appraisal, withheld touch, and truth challenge | Receives the critical prognosis, recognizes strain beneath Chizuru's no-regret claim, imagines but does not enact an embrace, challenges concealment, and tells her to prioritize her feelings. | Moves from boyfriend-status fantasy to noncontact ethical support. | He cannot know her complete inner state and does not obtain a disclosure decision. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R014 |
+| RAG-KAZ-E090 | KAZ-S019 | RAG-E-V017-018 | Crisis initiative with withheld outcome | Opens LINE, identifies something still possible, and runs. | Converts perceived regret and a concrete route into immediate coordination effort. | Recipient, destination, exact act, and result are unavailable at the volume boundary. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R014 |
 
 ## State-change summary
 
@@ -144,6 +149,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S016 — cross-functional producer under funding stall:** turns initial pledges into further work, secures source permission and a director route through sustained outreach, accepts Mini's corrective strategy, and absorbs direct cost and public rejection while the campaign remains short of its target.
 - **KAZ-S017 — operational producer under specialist authority and future-distance anxiety:** carries a funded campaign into principal photography, accepts logistics and role distance, removes a sound bottleneck at unsafe bodily cost, and ends by imagining Chizuru's career advance without presuming a place beside her.
 - **KAZ-S018 — post-shoot producer under value recognition and consent pressure:** receives Chizuru's rejection of his self-demotion, completes the final-location work, carries footage into editing and theater planning, moves his preference toward partly external speech, and faces Ruka's unanswered bodily-contact request.
+- **KAZ-S019 — boundary-setting supporter under terminal family crisis:** differentiates Ruka's requests, arranges an accessible screening venue, declares status-independent support, recognizes Chizuru's concealed strain, withholds imagined boyfriend touch, and initiates a LINE-and-running response under Sayuri's critical prognosis.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -179,6 +185,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - His endpoint question about where he will be if Chizuru becomes famous is direct status anxiety, not evidence of her future plan or a relationship promise (RAG-E-V015-016).
 - V016 answers that self-demotion with Chizuru's direct value recognition, then tests him as sole camera operator on the final trip and carries his producer role into editing and theater planning (RAG-E-V016-001 through RAG-E-V016-013).
 - His true-love standard, thanks, and shouted preference move feeling toward speech, but indirect wording and unproved reception preserve the gap between self-knowledge and mutual communication (RAG-E-V016-015, RAG-E-V016-016).
+- V017 shows that he can preserve act-specific consent under Ruka's pressure, separate support from lover status before Sayuri, and answer visible crisis strain through questions and logistics without assuming touch rights (RAG-E-V017-001, RAG-E-V017-004, RAG-E-V017-010, RAG-E-V017-015 through RAG-E-V017-018).
 
 ## Gaps and negative evidence
 
@@ -187,7 +194,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Twelve volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
-- Film work now extends through completed principal photography, editing handoff, a September target, and theater search, but no finished edit, exhibition, delivery, or public career consequence is yet observed.
+- Film work now extends through completed principal photography, editing, a September 30 target, and an accessible 200-seat venue, but no finished edit, exhibition, delivery, or public career consequence is yet observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 
 ## Update rule

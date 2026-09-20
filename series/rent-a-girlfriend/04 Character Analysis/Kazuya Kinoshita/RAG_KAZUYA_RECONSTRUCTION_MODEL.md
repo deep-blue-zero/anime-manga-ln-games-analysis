@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V016."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V017."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -43,13 +43,14 @@ model_basis:
     - RAG-JP-EPUB-V014
     - RAG-JP-EPUB-V015
     - RAG-JP-EPUB-V016
-  admitted_through_volume: V016
-  narrative_time_boundary: "after principal-photography completion, editing handoff, theater planning, Chizuru's direct value recognition, and Ruka's unanswered bodily-contact request"
+    - RAG-JP-EPUB-V017
+  admitted_through_volume: V017
+  narrative_time_boundary: "during Sayuri's critical hospital night after bounded answers to Ruka, accessible-cinema planning, status-independent support speech, and an initiated LINE-and-running action"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.16"
+  model_revision: "1.17"
   prior_knowledge_limitations:
-    - "No post-V016 narrative evidence is admitted."
+    - "No post-V017 narrative evidence is admitted."
     - "Chizuru privately revisits her qualified non-negation and directly values Kazuya's life and work, but she supplies him no affirmative romantic answer or mutual status."
 coverage:
   observed_contexts:
@@ -824,7 +825,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S018
 valid_from_source: "V016 0005"
-valid_until_source: null
+valid_until_source: "V017 0004"
 entry_conditions:
   - "Principal photography is nearing its final scene while Kazuya treats Chizuru's acting success as evidence of status distance."
 active_goals:
@@ -867,6 +868,56 @@ uncertainties:
   - "Whether the edit, screening, and delivery to Sayuri are completed."
   - "Whether Chizuru hears or later responds to his preference."
   - "How he answers Ruka's explicit request and whether he resolves the trial fairly."
+~~~
+
+### KAZ-S019 — boundary-setting supporter under terminal family crisis
+
+~~~yaml
+state_id: KAZ-S019
+valid_from_source: "V017 0005"
+valid_until_source: null
+entry_conditions:
+  - "Ruka's birthday request requires an answer while film postproduction and Sayuri delivery remain incomplete."
+active_goals:
+  - answer Ruka's requests without converting trial status into blanket consent
+  - finish and deliver the film through a concrete accessible screening route
+  - support Chizuru and Sayuri without requiring romantic status or uninvited bodily access
+  - identify a feasible final action under Sayuri's critical prognosis
+known_propositions:
+  - "Ruka accepts sunscreen scope, later receives first-name permission, and continues to assert girlfriend status."
+  - "A 200-seat wheelchair-accessible cinema is available for September 30, but the edit and screening are incomplete."
+  - "Sayuri credits him with making the film route possible and then collapses after visiting the cinema."
+  - "The physician says recovery is difficult and the night may be critical."
+  - "Chizuru defends a happy final belief and says she hates sad truths while showing visible strain."
+relationship_conditions:
+  - "He tells Sayuri that he wants to support Chizuru even if they are no longer lovers."
+  - "He blocks Ruka's hug after accepting sunscreen and separately permits first-name address."
+  - "He imagines embracing Chizuru but does not touch her, then asks her to prioritize her own feelings."
+changed_from_previous:
+  - RUKA_REQUESTS_ANSWERED_BY_SCOPE
+  - ACCESSIBLE_SCREENING_VENUE_ARRANGED
+  - STATUS_INDEPENDENT_SUPPORT_DECLARED
+  - SAYURI_COLLAPSE_AND_CRITICAL_PROGNOSIS_RECEIVED
+  - UNINVITED_CRISIS_TOUCH_WITHHELD
+  - TRUTH_CONFLICT_REOPENED
+  - LINE_AND_RUNNING_ACTION_INITIATED
+evidence_refs:
+  - RAG-E-V017-001
+  - RAG-E-V017-004
+  - RAG-E-V017-005
+  - RAG-E-V017-008
+  - RAG-E-V017-009
+  - RAG-E-V017-010
+  - RAG-E-V017-014
+  - RAG-E-V017-015
+  - RAG-E-V017-016
+  - RAG-E-V017-017
+  - RAG-E-V017-018
+uncertainties:
+  - "Whether his final action delivers the film or changes Sayuri's condition or access."
+  - "Whether the rental-and-family truth is disclosed."
+  - "Whether Chizuru accepts comfort, access, or a changed support role."
+  - "Whether he fairly resolves the Ruka trial."
 ~~~
 
 ## Behavioral rules
@@ -1029,11 +1080,23 @@ uncertainties:
 - **Disconfirming observation:** comparable production pressure produces status-seeking, refusal of ordinary work, or avoidable paralysis despite clear feasible tasks.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and production-specific.
 
+### RAG-KAZ-R014 — visible concealed regret plus a concrete route can shift status fantasy into noncontact challenge and logistical action
+
+- **Scope:** KAZ-S019.
+- **Trigger:** Chizuru's controlled crisis statement conflicts with visible strain while time is critically limited and a practical route may remain.
+- **Likely appraisal:** imagined boyfriend privileges are unavailable and unnecessary; useful support requires asking what she wants and acting on a feasible task.
+- **Likely action range:** withhold uninvited touch, challenge a total no-regret account, separate support from formal status, use communication tools, and move immediately toward delivery or coordination.
+- **Inhibitors/escalators:** uncertainty about Chizuru's wishes inhibits physical comfort; critical prognosis, unfinished film delivery, and visible regret escalate action.
+- **Support:** RAG-E-V017-010, RAG-E-V017-015 through RAG-E-V017-018.
+- **Counterevidence/gap:** one acute crisis; the LINE recipient, exact action, result, and safety of execution remain unknown.
+- **Disconfirming observation:** comparable visible crisis with a concrete feasible route produces only status rumination or uninvited intimacy without practical action.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and crisis-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Chizuru
 
-Kazuya knows she is a paid provider and actor whose family-linked dream is to show Sayuri her success on screen. Her personalized gift motivates work, her Sumi referral positions him as a trusted practice client, and her casting loss elicits wages-and-bookings support. He retreats when she tests his direct preference but later tells Sayuri he loves her and tells Chizuru he wants to support her dream. V011 makes their ethical difference explicit: he argues that limited time requires truth, while she chooses Sayuri's comforting belief and redirects the family ring to him. V012 moves one support route from speech into an agreed film project. V013-V014 make him its named producer and test that role through launch, specialist recruitment, analytics, and public rejection. V015 funds the campaign and makes that role operational beneath Tabuse's authority. V016 gives him direct correction of his status self-demotion, Chizuru's family-purpose disclosure and thanks, final-scene camera responsibility, and postproduction follow-through. It also moves his future-distance anxiety into indirect speech and an unproved shouted preference. This establishes consequential collaboration and value recognition, not reciprocated romance or a shared disclosure plan; he still does not receive Chizuru's qualified private appraisal.
+Kazuya knows she is a paid provider and actor whose family-linked dream is to show Sayuri her success on screen. Her casting loss elicits wages-and-bookings support, and V011 makes their ethical difference explicit: he argues that limited time requires truth while she chooses Sayuri's comforting belief. V012-V015 move support into an agreed, funded film project and operational producer role. V016 gives him direct correction of his status self-demotion, Chizuru's family-purpose disclosure and thanks, final-scene camera responsibility, and postproduction follow-through. V017 has him arrange accessible cinema access, tell Sayuri that support survives the lover label, recognize Chizuru's concealed strain, withhold imagined boyfriend touch, and initiate a practical response. This establishes consequential collaboration and value recognition, not reciprocated romance or a shared disclosure plan; he still does not receive Chizuru's qualified private appraisal.
 
 ### Toward Mami
 
@@ -1051,7 +1114,7 @@ Peer evaluation intensifies status anxiety and sexual display, but the friends' 
 
 Ruka is his provisional girlfriend, knows the rental truth, sincerely loves him by her own account, and understands that he is attached to Chizuru. Kazuya does not reciprocate her feeling. V008 shows him accepting ordinary-date activity and storm lodging while refusing sex; Ruka then initiates a morning kiss. Predict guilt, urgency, attraction, and inconsistent boundary management under her demands, while preserving the evidenced capacity for direct refusal. Do not infer intimacy consent or mutual love from the label, lodging, or kiss.
 V009 adds public correction: when Ruka tells Mami that the relation is current and sexual, Kazuya identifies it as provisional and denies sex. This supports factual resistance under explicit overstatement without showing that he can end or fairly resolve the trial.
-V010 adds another unilateral kiss in a family setting. V011 adds repeated kissing through objection and recoil, followed by Kazuya's recognition that sustaining the trial helped create the situation. Preserve both facts: he is responsible for leaving the asymmetric relation unresolved, and Ruka remains responsible for unilateral contact.
+V010 adds another unilateral kiss in a family setting. V011 adds repeated kissing through objection and recoil, followed by Kazuya's recognition that sustaining the trial helped create the situation. V017 shows improved differentiation: he accepts sunscreen, blocks a hug, and separately permits first-name address. Preserve all facts: he remains responsible for leaving the asymmetric relation unresolved, Ruka remains responsible for unilateral contact and status overstatement, and a narrow permission must stay narrow.
 
 ## Domain account and negative constraints
 
@@ -1059,7 +1122,7 @@ V010 adds another unilateral kiss in a family setting. V011 adds repeated kissin
 - **Motivational architecture:** immediate relief and romantic validation compete with family loyalty, fairness, and a wish to become more responsible. Immediate relief often wins before reflection; repair motives become stronger after harm is concrete.
 - **Emotional regulation:** fantasy, rumination, masturbation reference, comic panic, self-attack, and avoidance are observed. Recovery is often externally prompted.
 - **Agency and competence:** capable of booking, negotiating, apologizing, public defense, gift selection, routine paid work, first-wage allocation, controlled disclosure, adapting to a practice-client role, and giving low-pressure practical protection. Long-term planning and generalized honesty remain weakly evidenced.
-- **Project competence:** can launch and revise a campaign, research costs and source material, recruit rights and directing specialists, accept analytics, and perform public promotion. Full financing, shooting, production management, and delivery remain untested.
+- **Project competence:** can launch and revise a campaign, recruit specialists, coordinate production, complete camera work, hand footage to editing, and arrange a dated accessible venue. Finished editing, exhibition, and delivery remain untested.
 - **Ordinary repertoire:** insufficient. Do not fabricate hobbies, tastes, study habits, or financial discipline beyond the shown savings, apartment life, bouldering date, travel contexts, and initial karaoke employment.
 - **Contradiction:** his self-description as powerless coexists with socially consequential initiative; his moral concern coexists with harassment and pressure.
 - **Thresholds:** visible harm to a loved person or disrespect toward Chizuru can shift him from avoidance to action. Whether that action is truthful remains context-dependent.
@@ -1072,12 +1135,12 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, Mami's later use of the family account, resolution of the Ruka status, Sayuri's prognosis, execution of the truth plan, film delivery, or any post-V016 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, Mami's later use of the family account, resolution of the Ruka status, Sayuri's medical outcome, execution of the truth plan, film delivery, or any post-V017 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
 ## Validation status
 
-V016 validates that Kazuya can extend operational set labor through a final-location camera task, completed principal photography, editing handoff, and theater planning. Chizuru's direct correction supplies strong counterevidence to his self-demoting account without giving him romantic status. His true-love criterion, thanks, and shouted preference move feeling toward speech, but indirect wording and unproved reception preserve the communication gap. The model still withholds mature partnership, generalized disclosure, finished-film delivery, a response to Ruka's request, execution of the truth plan, Sayuri's prognosis, and Mami's later use of the family account.
+V017 validates that Kazuya can answer distinct intimacy requests with distinct boundaries, arrange accessible exhibition infrastructure, and state that support for Chizuru survives formal status. Under Sayuri's critical prognosis, he recognizes strain beneath controlled speech, withholds uninvited touch, reopens the truth question, and initiates a practical action. The model still withholds mature partnership, generalized disclosure, finished-film delivery, fair resolution of the Ruka trial, Sayuri's outcome, the result of the LINE-and-running action, and Mami's later use of the family account.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.
