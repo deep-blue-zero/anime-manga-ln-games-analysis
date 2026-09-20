@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0108
+## Current state — founded units synchronized through EVENT_0109
 
-All five human units now track the same continuous event history through `EVENT_0108`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0108 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0109`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0109 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0099–0115 continuation — EVENT_0108 committed boundary
+### EVENT_0099–0115 continuation — EVENT_0109 committed boundary
+
+**EVENT_0109 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three I3 responsibilities and one bounded local I2 record. New `VBS-EP-AK-E0109` records Akito's tested expressive-performance method: retain disciplined labor and accepted help, recognize experience suppressed by goal-focused self-control, direct joy, fear, grief, gratitude, and ambition toward a meaningful recipient or audience, and verify the result in listener action. Preserve `VBS-EP-AK-E0021` separately as reciprocal-reliance authority. `VBS-REL-GROUP-KEN-E0103 → VBS-REL-GROUP-KEN-E0109` advances the accepted mentorship compact through sustained external battle training, adult transport/network labor, differentiated roles, individual coaching, a provisional group threshold, and the first completed role. New scoped `VBS-REL-STREET-AUDIENCE-E0109` records the move from defeat rumor and chilled expectation to public proof of continued pursuit, renewed anticipation, Koutaro's tested return, and a future COL invitation. New `VBS-VS-STREET-LUKA-E0109` is local I2 for Luka's tailored musical intervention and recipient-aware stopping. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0. The verified envelope is 24 stories / 56 scenes / 1,666 records: eight core chapters, ten card halves, five linked areas, and one December Street area. No final victory, permanent mastery, safe workload, completed remaining roles, repaired An–Ken trust, reopened venue, professional status, unanimous public support, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0108 to EVENT_0109; EVENT_0110 is next and 6 events remain through EVENT_0115.
+
+The [EVENT_0109 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0109_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 11 of the EVENT_0099–0115 goal sequence. The boundary advances from EVENT_0108 to EVENT_0109; EVENT_0110 is next and 6 events remain.
+
+### Historical continuation — EVENT_0108 committed boundary
 
 **EVENT_0108 is fully integrated as an ensemble I2 event with no new I3 owner:** Leo/need is PRIMARY/HIGH through Ichika's direct enactment of `LN-EP-ICHIKA-E0101`, and Nightcord at 25:00 is CO_PRIMARY/HIGH through Kanade's receipt of ordinary motivation and Mafuyu's bounded post-departure support. Vivid BAD SQUAD, MORE MORE JUMP!, and Wonderlands×Showtime are each CROSS_UNIT/HIGH I2. Preserve `REL-CROSS-KANADE-ICHIKA-E0042`, `REL-CROSS-ICHIKA-NENE-E0013`, and `REL-CROSS-ICHIKA-KOHANE-E0018`; preserve `VBS-EP-KH-E0103`, `MMJ-EP-MN-E0098`, `MF-E0100-01`, `K-E0089-01`, `WXS-EP-EMU-E0104`, and `REL-WXS-G-E0104`. The verified envelope is 28 stories / 42 scenes / 1,284 records: eight core chapters, ten card halves, five event-linked areas, and five October Wonderland areas. No universal motivation rule, resolved rescue burden, resolved future or family conflict, stable academic balance, permanent social confidence, new unit successor, global school cohort, or global singer identity is certified. The boundary advances EVENT_0107 to EVENT_0108; EVENT_0109 is next and 7 events remain through EVENT_0115.
 
@@ -485,13 +491,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0108`. The complete 28-story ensemble envelope directly enacts Ichika's recursive connection purpose and strengthens bounded school and post-crisis continuity for all five groups at I2 without a new I3 owner. EVENT_0109 is next; 7 events remain through EVENT_0115.
+`ANALYSIS_CURRENT` is `EVENT_0109`. The complete 24-story envelope creates Akito's expressive-release operative and the first scoped post-defeat Street-audience rekindling, while advancing the group–Ken compact through executed mentorship. EVENT_0110 is next; 6 events remain through EVENT_0115.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0108` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0109` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0108_DEEP_READING.md) closes `EVENT_0108 — ハロー・グッド・デイ！`, bucket `RB_20230930T060000Z`: eight core chapters, cards `0762–0766` both halves, five event-linked areas, and five October Wonderland areas. All five groups receive high I2 evidence; no new I3 owner is created.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0109_DEEP_READING.md) closes `EVENT_0109 — BURN MY SOUL`, bucket `RB_20231012T060000Z`: eight core chapters, cards `0768–0772` both halves, five linked Street areas, and one December Street area. Akito, group–Ken mentorship, and the Street audience receive distinct I3 responsibility.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 

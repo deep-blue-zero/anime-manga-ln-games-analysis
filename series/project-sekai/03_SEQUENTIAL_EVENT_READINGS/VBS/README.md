@@ -48,3 +48,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0097 — Light Up the Fire](PJSK_EVENT_0097_DEEP_READING.md): complete 26-story envelope; new `VBS-EP-AN-E0097` grief-aware informed-pursuit operative I3, An–Ken concealment-rupture successor I3 with repair open, bounded high-I2 An–Nagi posthumous relation, and preserved VBS/Street topology without validating coercion.
 
 - [EVENT_0103 — On Your Feet](PJSK_EVENT_0103_DEEP_READING.md): complete 23-story envelope; `VBS-EP-KH-E0028 → VBS-EP-KH-E0103` records internally held singer pride, new `VBS-REL-GROUP-KEN-E0103` records an accepted mentoring compact before training results, and `VBS-REL-TOYA-FATHER-2 → VBS-REL-TOYA-FATHER-3` records conditional permission without endorsement or reconciliation.
+
+- [EVENT_0109 — BURN MY SOUL](PJSK_EVENT_0109_DEEP_READING.md): complete 24-story envelope; Akito gains a tested expressive-release operative, the group–Ken compact advances through executed mentorship, and Akito's solo creates the first scoped post-defeat Street-audience rekindling.

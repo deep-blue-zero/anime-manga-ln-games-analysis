@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0108
+## Current coverage — all five human units synchronized through EVENT_0109
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0108 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0108`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0109 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0109`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0108 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0109 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0109 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three I3 responsibilities and one bounded local I2 record. New `VBS-EP-AK-E0109` records Akito's tested expressive-performance method: retain disciplined labor and accepted help, recognize experience suppressed by goal-focused self-control, direct joy, fear, grief, gratitude, and ambition toward a meaningful recipient or audience, and verify the result in listener action. Preserve `VBS-EP-AK-E0021` separately as reciprocal-reliance authority. `VBS-REL-GROUP-KEN-E0103 → VBS-REL-GROUP-KEN-E0109` advances the accepted mentorship compact through sustained external battle training, adult transport/network labor, differentiated roles, individual coaching, a provisional group threshold, and the first completed role. New scoped `VBS-REL-STREET-AUDIENCE-E0109` records the move from defeat rumor and chilled expectation to public proof of continued pursuit, renewed anticipation, Koutaro's tested return, and a future COL invitation. New `VBS-VS-STREET-LUKA-E0109` is local I2 for Luka's tailored musical intervention and recipient-aware stopping. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0. The verified envelope is 24 stories / 56 scenes / 1,666 records: eight core chapters, ten card halves, five linked areas, and one December Street area. No final victory, permanent mastery, safe workload, completed remaining roles, repaired An–Ken trust, reopened venue, professional status, unanimous public support, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0108 to EVENT_0109; EVENT_0110 is next and 6 events remain through EVENT_0115.
+
+Causal home: [EVENT_0109 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0109_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0109: 24 stories / 56 scenes / 1,666 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create `VBS-EP-AK-E0109` and scoped `VBS-REL-STREET-AUDIENCE-E0109`; advance `VBS-REL-GROUP-KEN-E0103 → VBS-REL-GROUP-KEN-E0109`.
+- Create bounded local I2 `VBS-VS-STREET-LUKA-E0109`; preserve the VBS group, partner, individual, and Street topology proportionally.
+- The other four human units are NONE/I0. The shared boundary is EVENT_0109; EVENT_0110 is next and 6 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0108 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0108 is fully integrated as an ensemble I2 event with no new I3 owner:** Leo/need is PRIMARY/HIGH through Ichika's direct enactment of `LN-EP-ICHIKA-E0101`, and Nightcord at 25:00 is CO_PRIMARY/HIGH through Kanade's receipt of ordinary motivation and Mafuyu's bounded post-departure support. Vivid BAD SQUAD, MORE MORE JUMP!, and Wonderlands×Showtime are each CROSS_UNIT/HIGH I2. Preserve `REL-CROSS-KANADE-ICHIKA-E0042`, `REL-CROSS-ICHIKA-NENE-E0013`, and `REL-CROSS-ICHIKA-KOHANE-E0018`; preserve `VBS-EP-KH-E0103`, `MMJ-EP-MN-E0098`, `MF-E0100-01`, `K-E0089-01`, `WXS-EP-EMU-E0104`, and `REL-WXS-G-E0104`. The verified envelope is 28 stories / 42 scenes / 1,284 records: eight core chapters, ten card halves, five event-linked areas, and five October Wonderland areas. No universal motivation rule, resolved rescue burden, resolved future or family conflict, stable academic balance, permanent social confidence, new unit successor, global school cohort, or global singer identity is certified. The boundary advances EVENT_0107 to EVENT_0108; EVENT_0109 is next and 7 events remain through EVENT_0115.
 
@@ -1641,3 +1652,7 @@ The verified group contains eight core chapters (28 scenes, 833 records), ten as
 ### EVENT_0108 source and reconstruction review
 
 The verified group contains eight core chapters (15 scenes, 559 records), ten associated card halves (17 scenes, 624 records), five event-linked areas, and five October Wonderland areas (10 area scenes, 101 records). No new I3 or named I2 owner is created. Ichika's recursive connection purpose, Kanade's ordinary post-crisis access, Mafuyu's bounded support, Kohane's confidence generalization, Minori's course implementation, and WxS outside-learning continuity remain proportionally bounded. Universal efficacy, resolved crisis states, stable academic outcomes, global school identity, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0109 source and reconstruction review
+
+The verified group contains eight core chapters (29 scenes, 1,022 records), ten associated card halves (21 scenes, 581 records), five event-linked Street areas, and one December Street area (6 area scenes, 63 records). `VBS-EP-AK-E0109`, `VBS-REL-GROUP-KEN-E0109`, and `VBS-REL-STREET-AUDIENCE-E0109` own the I3 changes; `VBS-VS-STREET-LUKA-E0109` is bounded local I2. Final victory, permanent mastery, safe workload, remaining-role completion, restored coalition, venue reopening, professional status, unanimous support, global singer identity, and complete reconstruction remain uncertified.
