@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0126
+## Current state — founded units synchronized through EVENT_0127
 
-All five human units now track the same continuous event history through `EVENT_0126`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0126 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0127`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0127 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0126 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0127 committed boundary
+
+**EVENT_0127 is fully integrated:** `E-E0070-01 → E-E0127-01` records Ena's explicit commitment to art-school preparation and a painter's life under unresolved talent and suffering. `REL-FAMILY-ENA-FATHER-E0014 → REL-FAMILY-ENA-FATHER-E0127` records direct disclosure of the father's hidden artistic history and bounded permission for Ena to continue. The exchange revises mutual knowledge without erasing injury or completing reconciliation. The verified envelope is 27 stories / 43 scenes / 1,460 records. No art-university admission, professional success, talent proof, stable confidence, healthy pacing, necessary-suffering rule, paternal retraction or apology, promised instruction, warm ordinary access, full father-daughter reconciliation, Akito receipt, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0126 to EVENT_0127. EVENT_0128 is next and 13 events remain through EVENT_0140.
+
+The [EVENT_0127 reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0127_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 12 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0126 committed boundary
 
 **EVENT_0126 is fully integrated:** bounded I2 owner `REL-CROSS-AKITO-HONAMI-E0126` records Honami's consent-sensitive guidance and Akito's consequential receipt. Akito and Max complete one competition after gradual observation and trust-building, while the final startle preserves dog fear as unresolved beyond this specific partnership. Existing character and unit owners remain operative. The verified envelope is 23 stories / 32 scenes / 1,662 records. No generalized cure of dog fear, clinical diagnosis or treatment claim, forced exposure, permanent sport skill, competition victory, replacement of Ishihara as Max's partner, permanent mixed team, durable Honami authority, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0125 to EVENT_0126. EVENT_0127 is next and 14 events remain through EVENT_0140.
 
@@ -593,13 +599,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0126`. Akito and Max have completed one disc-dog competition through gradual, consent-sensitive trust-building; Akito's broader dog fear remains. `EVENT_0127` is next; 14 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0127`. Ena has chosen art-school preparation and a painter's life; her father has disclosed his hidden artistic struggle and granted bounded permission without retracting prior harm. `EVENT_0128` is next; 13 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0126` for all five human units. The EVENT_0116–0140 continuation is active with 14 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0127` for all five human units. The EVENT_0116–0140 continuation is active with 13 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0126_DEEP_READING.md) closes `EVENT_0126 — Rise as ONE！`, bucket `RB_20240330T060000Z`: 23 stories / 32 scenes / 1,662 records. Akito and Max have completed one disc-dog competition through gradual, consent-sensitive trust-building; Akito's broader dog fear remains.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0127_DEEP_READING.md) closes `EVENT_0127 — Knowing the Unseen`, bucket `RB_20240410T060000Z`: 27 stories / 43 scenes / 1,460 records. Ena has chosen art-school preparation and a painter's life; her father has disclosed his hidden artistic struggle and granted bounded permission without retracting prior harm.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
