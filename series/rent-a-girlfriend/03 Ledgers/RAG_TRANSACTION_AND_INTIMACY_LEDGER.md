@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-row_count: 68
-state: CURRENT_THROUGH_V015
+inspected_through_volume: V016
+row_count: 73
+state: CURRENT_THROUGH_V016
 ```
 
 ## Records
@@ -120,3 +120,8 @@ state: CURRENT_THROUGH_V015
 | RAG-TXN-076 | Ruka, Kazuya, Mini, and film project; final-day outreach | No compensation is shown for the team's flyer labor. | Ruka voluntarily supports the Umi route and joins the remaining work for Sayuri's film. | Labor creates no romantic debt or claim against Chizuru. | Cooperative effort persists under rivalry pressure; RAG-E-V015-004. |
 | RAG-TXN-077 | Backers, platform, and film principals; funded campaign | Backers pledge 1,850,000 yen against a 1,820,000-yen all-or-nothing target; platform fees reduce the transfer to 1,535,500 yen. | The principals receive conditional public financing after the threshold is met. | Gross pledges, transferred funds, and Kazuya's full bank balance are separate resources. | Funding becomes spendable production capacity; RAG-E-V015-008, RAG-E-V015-009. |
 | RAG-TXN-078 | Kazuya, Chizuru, Tabuse, and crew; film production labor | The funded project assigns producer, director, lead, cast, and crew functions; exact contracts and wages are not shown. | Participants supply logistics, direction, performance, equipment, and physical effort toward recorded scenes. | Project participation governs role access and creates no private romantic entitlement. | A functioning set and completed scene 138 result, while delivery remains open; RAG-E-V015-011 through RAG-E-V015-015. |
+| RAG-TXN-079 | Kazuya, Chizuru, and film team; reduced-crew final-location work | The final scene requires travel and limited equipment; Mini removes other companions through unauthorized deception. | Kazuya and Chizuru proceed as producer-camera operator and lead performer. | Project necessity explains the trip but does not authorize Mini's deception or create a date contract. | Principal photography is completed; RAG-E-V016-003, RAG-E-V016-004, RAG-E-V016-009, RAG-E-V016-012. |
+| RAG-TXN-080 | Kazuya and Chizuru; 18,000-yen shared room | One reservation and no vacancy leave a two-futon room; Chizuru explicitly accepts it on cost and prior-proximity grounds. | The pair share bounded sleeping space during the shoot. | Consent to the room is neither sexual consent nor a couple-status agreement. | Separate futons and an accidental bath encounter preserve the distinction; RAG-E-V016-008, RAG-E-V016-014. |
+| RAG-TXN-081 | Chizuru and Kazuya; film labor, gratitude, and family purpose | Kazuya's producer labor is not priced as personal access; Chizuru names its value and thanks him. | The film becomes a reciprocally acknowledged support act directed toward Sayuri and Katsuhito's promise. | Gratitude and family fulfillment create no romantic debt. | The last scene is completed without formal relationship change; RAG-E-V016-001, RAG-E-V016-002, RAG-E-V016-010 through RAG-E-V016-012. |
+| RAG-TXN-082 | Kazuya and Chizuru; proximity during travel and lodging | Shared food, bath accident, separate futons, nighttime approach, and shoulder sleep have different agency and consent conditions. | Ordinary care and involuntary or accidental proximity coexist with chosen collaboration. | Formal intimacy-like imagery cannot collapse those distinct conditions into sexual or romantic agreement. | Affective pressure rises while mutual classification remains absent; RAG-E-V016-006, RAG-E-V016-014, RAG-E-V016-016. |
+| RAG-TXN-083 | Ruka and Kazuya; birthday wish and claimed project compensation | Ruka invokes her birthday, film labor, and exclusion from the location trip while requesting bodily touch. | She asks directly for a specific intimacy act. | Prior labor, provisional status, and birthday framing do not supply Kazuya's consent. | The volume ends before answer or contact; RAG-E-V016-017, RAG-E-V016-018. |

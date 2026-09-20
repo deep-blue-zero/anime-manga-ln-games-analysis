@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015; predictions frozen before V016."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016; predictions frozen before V017."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-current_claim_count: 48
+inspected_through_volume: V016
+current_claim_count: 54
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V015__PREDICTIONS_FROZEN_FOR_V016
+state: CURRENT_THROUGH_V016__PREDICTIONS_FROZEN_FOR_V017
 ```
 
 ## Current claims
@@ -91,6 +91,12 @@ state: CURRENT_THROUGH_V015__PREDICTIONS_FROZEN_FOR_V016
 | RAG-CLM-046 | Umi's campaign help and romantic self-positioning coexist, so useful social capital does not require assigning either pure altruism or a proved quid pro quo. | STRONG_INFERENCE | RAG-E-V015-003, RAG-E-V015-006 through RAG-E-V015-008 | Timing and topic shift support mixed motives, but no explicit bargain or coercive condition is stated. | ADDED and supported in V015. |
 | RAG-CLM-047 | The film converts Kazuya's attachment-driven preparation into an operational producer role inside specialist-led production, where his value lies largely in coordination, endurance, and bottleneck removal rather than artistic command. | STRONG_INFERENCE | RAG-E-V015-010 through RAG-E-V015-015 | Principal photography is incomplete, bodily risk complicates competence, and Tabuse and crew hold specialist authority. | ADDED and supported in V015. |
 | RAG-CLM-048 | Ruka can repeat project-first cooperation when Sayuri's welfare and Kazuya's burden are concrete, while rivalry and the unresolved provisional relation remain intact. | STRONG_INFERENCE | RAG-E-V014-015, RAG-E-V015-004, RAG-E-V015-017 | Two campaign sequences do not establish generalized restraint or repair earlier consent failures. | ADDED and supported in V015; strengthens RAG-CLM-042. |
+| RAG-CLM-049 | Chizuru directly rejects the hierarchy Kazuya builds from her acting success and validates his producer labor without changing their formal relationship. | STRONG_INFERENCE | RAG-E-V016-001, RAG-E-V016-002 | Her statements establish value and no regret, not romantic love or a new label. | ADDED and supported in V016. |
+| RAG-CLM-050 | The film completes principal photography and enters editing, September-target planning, and theater arrangement, while completion, screening, and delivery remain open. | OBSERVATION | RAG-E-V016-012, RAG-E-V016-013 | No finished edit, booked exhibition, or delivery to Sayuri is observed. | ADDED and supported in V016. |
+| RAG-CLM-051 | Chizuru identifies the film as a route for fulfilling a family promise after Katsuhito's death and thanks Kazuya for making that route possible. | STRONG_INFERENCE | RAG-E-V016-010 through RAG-E-V016-012 | Family purpose, happiness, and gratitude do not constitute romantic confession. | ADDED and supported in V016. |
+| RAG-CLM-052 | Chizuru's private recall, chosen travel care, nighttime wakefulness, and return-trip response strengthen evidence of affective activation while stopping short of shared or affirmative romantic classification. | WORKING_HYPOTHESIS | RAG-E-V016-005, RAG-E-V016-006, RAG-E-V016-014 through RAG-E-V016-016 | Motives remain plural; the nighttime framing proves no contact, and Kazuya receives no direct answer. | ADDED in V016 with ambiguity preserved. |
+| RAG-CLM-053 | Mini's unauthorized engineering creates two-person privacy and a conditional shared-room decision, then produces Ruka's confrontation; spatial access changes without sexual consent or couple status. | STRONG_INFERENCE | RAG-E-V016-004, RAG-E-V016-008, RAG-E-V016-014, RAG-E-V016-017 | Project necessity and financial choice constrain the access, and Ruka did not consent to the false absence story. | ADDED and supported in V016. |
+| RAG-CLM-054 | Ruka turns a birthday wish and prior project labor into an explicit request for bodily contact, but V016 ends before Kazuya answers or any act occurs. | OBSERVATION | RAG-E-V016-018 | The request cannot be treated as consent, contact, or reciprocal intimacy. | ADDED and supported in V016. |
 
 ## Competing hypotheses
 
@@ -201,9 +207,9 @@ state: CURRENT_THROUGH_V015__PREDICTIONS_FROZEN_FOR_V016
 
 ## Adjudications and revisions
 
-At the V015 horizon, RAG-PRED-053 through RAG-PRED-056 are supported. Mini's disclosure changes interaction and produces discussion; final-day tactics and Umi's reach precede a funded close; specialist agreements become a functioning shoot; and Ruka repeats project labor while regulating rivalry. V015 adds disclosure consequence without interpretive authority, Chizuru's qualified non-negation, exact funding distinctions, mixed social-capital motives, operational producer labor, and repeated rivalry-compatible support as RAG-CLM-043 through RAG-CLM-048.
+At the V016 horizon, RAG-PRED-057 through RAG-PRED-060 are supported. The final location trip completes principal photography and produces an editing handoff, September target, and theater planning; Chizuru's final performance receives explicit evaluation; Kazuya's labor receives direct interpersonal validation; and the pair negotiate status, room access, post-film distance, and rival pressure. V016 adds hierarchy rejection, a closed shoot with open delivery, the film's explicit family function, bounded affective activation, engineered privacy with consent limits, and an unanswered bodily-contact request as RAG-CLM-049 through RAG-CLM-054.
 
-The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V015 continues the next block without revising that historical checkpoint. Its close raises the live claim count to forty-eight and freezes four prospective tests for V016.
+The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V016 continues the next block without revising that historical checkpoint. Its close raises the live claim count to fifty-four and freezes four prospective tests for V017.
 
 ## Adjudicated predictions from the V012 boundary
 
@@ -240,6 +246,24 @@ The V010 checkpoint remains the latest block synthesis and local reconstruction 
 | RAG-PRED-058 | Chizuru's demonstrated on-camera work will produce an explicit evaluation, opportunity, visibility, rehearsal choice, or production decision. | RAG-E-V015-013, RAG-E-V015-015 | Her acting has no observable V016 consequence. |
 | RAG-PRED-059 | Kazuya's producer labor and unsafe bottleneck response will produce a direct interpersonal, crew, health, or role consequence beyond his private self-appraisal. | RAG-E-V015-012, RAG-E-V015-014 | No one responds and his conduct changes nothing beyond the completed take. |
 | RAG-PRED-060 | The widening film-and-career relation will produce an observable question, negotiation, or pressure concerning Kazuya's future role, access, or distance from Chizuru. | RAG-E-V015-005, RAG-E-V015-007, RAG-E-V015-016 | V016 contains no such status or access consequence. |
+
+## Adjudicated predictions from the V015 boundary
+
+| Prediction ID | Adjudication | V016 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-057 | SUPPORTED | The final location trip completes principal photography; footage then enters editing with a September target while Kazuya begins theater arrangements; RAG-E-V016-003, RAG-E-V016-009, RAG-E-V016-012, RAG-E-V016-013. | The finished edit, screening, and delivery remain unobserved. |
+| RAG-PRED-058 | SUPPORTED | Chizuru performs the final scene, and Kazuya evaluates it as her brightest performance before the take closes shooting; RAG-E-V016-012. | His response is local evaluation, not a public or professional opportunity. |
+| RAG-PRED-059 | SUPPORTED | Chizuru rejects Kazuya's self-demotion, identifies his work as being for her, calls his life wonderful, and says she never regretted meeting him; RAG-E-V016-001, RAG-E-V016-002. | Validation does not make the earlier unsafe method prudent. |
+| RAG-PRED-060 | SUPPORTED | Chizuru rejects the different-world hierarchy; the trip forces two-person travel and room-access decisions; Kazuya names expected post-film estrangement, and Ruka challenges the overnight access; RAG-E-V016-001, RAG-E-V016-003, RAG-E-V016-008, RAG-E-V016-016, RAG-E-V016-017. | Access and distance change without mutual romantic classification. |
+
+## Frozen predictions for V017
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-061 | Ruka's explicit request for bodily touch will receive an observable answer, boundary, contact, withdrawal, or conflict consequence. | RAG-E-V016-018 | V017 supplies no consequence to the request. |
+| RAG-PRED-062 | Editing and theater planning will produce a concrete completion, technical, scheduling, screening, delivery, or Sayuri-access consequence. | RAG-E-V016-012, RAG-E-V016-013 | V017 shows no film or postproduction consequence. |
+| RAG-PRED-063 | Sayuri's health and the family promise attached to the film will produce a direct visit, disclosure, urgency, access, or medical-state consequence. | RAG-E-V016-010 through RAG-E-V016-013 | V017 shows no such consequence. |
+| RAG-PRED-064 | The post-shoot Kazuya-Chizuru relation will produce an observable access, distance, role, or status discussion or a changed non-rental interaction. | RAG-E-V016-001, RAG-E-V016-002, RAG-E-V016-005, RAG-E-V016-008, RAG-E-V016-016 | V017 shows no such relationship consequence. |
 
 ## Open evidence questions
 

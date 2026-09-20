@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-row_count: 86
-state: CURRENT_THROUGH_V015
+inspected_through_volume: V016
+row_count: 93
+state: CURRENT_THROUGH_V016
 ```
 
 ## Records
@@ -142,3 +142,10 @@ state: CURRENT_THROUGH_V015
 | RAG-AGY-098 | Chizuru | Accept Umi's dinner invitation or return to the campaign. | Refuses dinner because Kazuya has worked hard and the final day matters, then resumes outreach. | Gives the shared project priority over the new private invitation. | The choice does not by itself identify a unique romantic motive; RAG-E-V015-005 through RAG-E-V015-008. |
 | RAG-AGY-099 | Kazuya | Treat funding as completion or assume an operational production role. | Accepts peer advice, introduces himself as producer, performs logistics, and follows Tabuse's direction. | Converts campaign success into accountable work within a specialist hierarchy. | The film and his competence remain incomplete; RAG-E-V015-010 through RAG-E-V015-013. |
 | RAG-AGY-100 | Kazuya | Wait for the cicadas or intervene before light and continuity are lost. | Climbs the bridge structure, removes the sound obstacle, nearly falls, and enables scene 138. | Solves the immediate bottleneck at direct bodily risk. | Utility does not make the method safe or create any claim on Chizuru; RAG-E-V015-014, RAG-E-V015-015. |
+| RAG-AGY-101 | Chizuru | Accept Kazuya's self-demoting account or correct it. | Rejects the different-world hierarchy, compares their family-linked purposes, and states that she never regretted meeting him. | Gives direct interpersonal value to his labor and presence. | The correction creates no romantic label or promise; RAG-E-V016-001, RAG-E-V016-002. |
+| RAG-AGY-102 | Mini | Preserve the planned group trip or engineer private access for the pair. | Uses false absence information, including Ruka's name, to produce a two-person trip. | Changes logistics according to her romantic interpretation. | Ruka did not consent, and the resulting privacy does not validate Mini's theory; RAG-E-V016-004. |
+| RAG-AGY-103 | Chizuru | Cancel after discovering the manipulation or complete the necessary shoot under bounded conditions. | Proceeds, shares travel care, explicitly accepts the two-futon room for cost reasons, and helps scout the location. | Preserves project purpose while choosing specific access limits. | Proceeding does not consent to sexual contact or endorse the deception; RAG-E-V016-003, RAG-E-V016-006, RAG-E-V016-008, RAG-E-V016-009. |
+| RAG-AGY-104 | Chizuru | Leave the film's family function implicit or explain it before the final scene. | Describes Katsuhito's death, names Sayuri as the intended recipient, thanks Kazuya, and performs the last scene. | Converts private family purpose into shared information and completed performance. | The film is not yet edited or delivered, and gratitude is not romantic confession; RAG-E-V016-010 through RAG-E-V016-012. |
+| RAG-AGY-105 | Kazuya | Treat the final take as project completion or continue into delivery work. | Sends footage to the film or research club, adopts a September target, and seeks a theater. | Extends producer responsibility into postproduction and exhibition planning. | No finished film or screening is yet observed; RAG-E-V016-013. |
+| RAG-AGY-106 | Ruka | Accept the unexplained absence and trip or investigate and confront it. | Questions Mini until she confesses, meets the returning pair, challenges the overnight arrangement, and asserts her status. | Restores her own agency after her name was used without consent. | The confrontation preserves rather than resolves the provisional relationship; RAG-E-V016-004, RAG-E-V016-017. |
+| RAG-AGY-107 | Ruka | Keep birthday desire implicit or make a specific bodily request. | Frames the pool outing as her wish and asks Kazuya to touch her body. | Creates an explicit answerable consent threshold. | V016 ends before Kazuya answers or acts; RAG-E-V016-018. |

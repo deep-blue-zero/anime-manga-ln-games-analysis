@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-row_count: 72
-state: CURRENT_THROUGH_V015
+inspected_through_volume: V016
+row_count: 77
+state: CURRENT_THROUGH_V016
 ```
 ```
 
@@ -126,3 +126,8 @@ state: CURRENT_THROUGH_V015
 | RAG-REL-081 | Chizuru → Kazuya | Grateful project principal with qualified romantic non-negation | Credits his effort with restoring action and tells Umi it is not that she does not like him. | Her earlier gratitude-only boundary becomes a less categorical private classification. | Kazuya does not hear it, and no mutual acknowledgment follows. | RAG-E-V015-005, RAG-E-V015-007 |
 | RAG-REL-082 | Kazuya ↔ Chizuru | Producer and lead actress inside specialist-led filming | Observe role distance, work under Tabuse, and contribute different labor to a completed take. | Their voluntary project relation becomes sustained on-set interdependence. | Collaboration, admiration, and local reception create no romantic entitlement or future-status guarantee. | RAG-E-V015-011 through RAG-E-V015-016 |
 | RAG-REL-083 | Ruka → Kazuya / Chizuru / film team | Rival repeating project-first support | Endorses Chizuru's high-reach route, checks Kazuya's jealousy, and performs final-day outreach for Sayuri's film. | Cooperative action survives an immediate Umi rivalry cue. | Her romantic claim, provisional label, and consent history remain unresolved. | RAG-E-V015-004, RAG-E-V015-017 |
+| RAG-REL-084 | Chizuru → Kazuya | Grateful project principal rejecting status hierarchy | Rejects his different-world inference, values his family-linked work, calls his life wonderful, and says she has never regretted meeting him. | Kazuya receives direct interpersonal validation for his support role. | The statements do not supply romantic confession or a new formal label. | RAG-E-V016-001, RAG-E-V016-002 |
+| RAG-REL-085 | Kazuya ↔ Chizuru | Final-location collaborators under chosen, bounded proximity | Travel alone, share food and one two-futon room, complete the last scene, and return together. | Project collaboration expands into ordinary travel and conditional room access. | Financial and production conditions matter; no sexual consent or couple agreement follows. | RAG-E-V016-003, RAG-E-V016-006, RAG-E-V016-008 through RAG-E-V016-014 |
+| RAG-REL-086 | Chizuru → Kazuya | Privately activated but unclassified supporter relation | Recalls her qualified non-negation, approaches him while he sleeps, questions the Ruka trial, and later sleeps on his shoulder. | Affective evidence accumulates outside rental performance and public audiences. | The night proves no contact, the shoulder sleep is unplanned, and she gives Kazuya no affirmative answer. | RAG-E-V016-005, RAG-E-V016-014 through RAG-E-V016-016 |
+| RAG-REL-087 | Ruka → Kazuya / Chizuru / Mini | Excluded rival investigating engineered access | Questions Mini, confronts the returning pair, rejects the overnight arrangement, and reasserts girlfriend status. | The trip converts project cooperation back into direct status conflict. | Ruka did not authorize Mini's message, and no definitive status decision occurs. | RAG-E-V016-004, RAG-E-V016-017 |
+| RAG-REL-088 | Ruka → Kazuya | Provisional girlfriend making an explicit bodily-contact request | Frames a birthday outing as owed recognition and asks Kazuya to touch her body. | Status pressure becomes a direct consent threshold. | V016 ends before his answer, contact, withdrawal, or resolution. | RAG-E-V016-018 |

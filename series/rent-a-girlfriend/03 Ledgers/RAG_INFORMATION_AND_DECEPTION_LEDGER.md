@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-row_count: 72
-state: CURRENT_THROUGH_V015
+inspected_through_volume: V016
+row_count: 78
+state: CURRENT_THROUGH_V016
 ```
 
 ## Records
@@ -126,3 +126,9 @@ state: CURRENT_THROUGH_V015
 | RAG-INF-082 | Umi reveals a recent breakup and asks for Chizuru's classification of Kazuya. | He says the Nanaho relationship ended about a week earlier, invites dinner, and asks repeated questions. | Chizuru gains relevant context before answering. | His broader motive and any prior intention are not fully known; RAG-E-V015-006. |
 | RAG-INF-083 | Chizuru supplies a qualified non-negation. | She first says she does not like Kazuya, then says it is not that she does not like him. | Umi receives bounded evidence that a simple negative is incomplete. | Kazuya does not receive the statement, and it creates no mutual agreement; RAG-E-V015-007. |
 | RAG-INF-084 | Campaign and production states become shared quantitative and role information. | The team observes target success, gross support, net transfer, a functioning shoot, Tabuse's direction, and Kazuya's producer role. | Private commitment becomes funded, staffed, and externally inspectable. | Bank balance must not be confused with support, and production remains incomplete; RAG-E-V015-009 through RAG-E-V015-015. |
+| RAG-INF-085 | Chizuru tells Kazuya that the film serves the promise made around Katsuhito and the remaining wish to show Sayuri. | Kazuya receives the family purpose and her direct thanks before the final scene. | A motive previously distributed across history becomes shared present-tense information. | The disclosure supplies no prognosis or romantic confession; RAG-E-V016-010, RAG-E-V016-011. |
+| RAG-INF-086 | Mini falsely presents the companions' absence under Ruka's name to engineer a two-person trip. | Chizuru recognizes the strategy; Kazuya proceeds; Ruka later questions Mini and learns the truth. | Romantic interpretation becomes logistical deception and later rival conflict. | Ruka is not a co-conspirator, and Mini's belief is not authoritative; RAG-E-V016-004. |
+| RAG-INF-087 | Chizuru privately recalls her qualified non-negation about Kazuya. | The information remains internal to her during the trip. | Prior speech to Umi stays active in her self-appraisal without becoming mutual knowledge. | Recall does not establish an affirmative conclusion; RAG-E-V016-005. |
+| RAG-INF-088 | Kazuya says a future family introduction should concern someone he can truly say he loves. | Chizuru hears the standard while discussing Ruka and family deception. | His truth goal and romantic criterion become shared in indirect form. | He does not name Chizuru or formally end the Ruka trial; RAG-E-V016-015. |
+| RAG-INF-089 | Principal photography is complete and postproduction has begun. | Kazuya knows footage is with the film or research club, a September completion is planned, and a theater is being sought. | The project state advances from active shooting to editing and exhibition planning. | Completion, screening, and delivery remain future states; RAG-E-V016-012, RAG-E-V016-013. |
+| RAG-INF-090 | The false family account, ring custody, and Mami route receive no new disclosure or correction. | Full V016 coverage adds Ruka-status pressure and Sayuri-linked urgency without resolving those information routes. | Dormant deceptions and obligations persist alongside project completion. | Absence does not establish abandonment, and Sayuri's prognosis remains unknown; RAG-E-V016-010, RAG-E-V016-015, RAG-E-V016-018. |

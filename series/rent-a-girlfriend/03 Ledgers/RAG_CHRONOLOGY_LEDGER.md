@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-row_count: 60
-state: CURRENT_THROUGH_V015
+inspected_through_volume: V016
+row_count: 64
+state: CURRENT_THROUGH_V016
 ```
 
 ## Records
@@ -111,3 +111,7 @@ state: CURRENT_THROUGH_V015
 | RAG-CHR-067 | RAG-E-V015-005 through RAG-E-V015-009 | After the play, Umi's breakup disclosure and relationship questions precede Chizuru's return to outreach, his promotional post, and the funded campaign close. | Dialogue and final-day sequence are continuous. | The precise minute of each pledge and tactic-specific causation are unknown. |
 | RAG-CHR-068 | RAG-E-V015-009 through RAG-E-V015-011 | Funding closes at 1,850,000 yen; summer vacation begins, and by August 17 roughly half a month of filming has passed. | Financial close, seasonal transition, date, and elapsed interval are stated. | Exact dates of each intervening shoot are not shown. |
 | RAG-CHR-069 | RAG-E-V015-011 through RAG-E-V015-016 | During the August 17 shoot, logistics and takes lead to a late-day cicada interruption, Kazuya's climb, recovery, scene 138, and his future-distance thought. | Same-day ordering and sunset pressure are explicit. | Remaining shoot schedule and later consequence belong to V016 or later evidence. |
+| RAG-CHR-070 | RAG-E-V016-001 through RAG-E-V016-003 | After the active shoot, Chizuru rejects Kazuya's different-world inference; with nearly all scheduled work complete, the final starry-sky scene is planned as a location trip. | Direct continuation from the August 17 production period. | Exact date of the conversation and interval before departure are not stated. |
+| RAG-CHR-071 | RAG-E-V016-003 through RAG-E-V016-009 | On the following Thursday, Kazuya and Chizuru depart from Ueno, travel alone after Mini's engineered absences, share a meal, discover the one-room booking, and scout Madarao. | Weekday, departure sequence, and same-day travel order are explicit. | Calendar date and precise travel times are unstated. |
+| RAG-CHR-072 | RAG-E-V016-010 through RAG-E-V016-017 | That night Chizuru explains the family purpose and completes the final scene; after the accidental bath encounter and separate-futon night, the pair return by bus and face Ruka at Iiyama Station. | Overnight and next-day ordering are explicit. | The exact clock time of the final take and whether Chizuru hears Kazuya's shout are unknown. |
+| RAG-CHR-073 | RAG-E-V016-013, RAG-E-V016-018 | By August 26 footage has gone to editing with a September completion target and Kazuya is arranging a theater; the same date is Ruka's birthday and pool outing. | August 26 and the September target are explicit. | Finished-edit, screening, and Sayuri-delivery dates remain unknown. |

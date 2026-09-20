@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-row_count: 71
-state: CURRENT_THROUGH_V015
+inspected_through_volume: V016
+row_count: 77
+state: CURRENT_THROUGH_V016
 ```
 
 ## Records
@@ -124,3 +124,9 @@ state: CURRENT_THROUGH_V015
 | RAG-FRM-080 | Interfaces separate gross support, transfer, and account balance. | The target, 1,850,000-yen close, 1,535,500-yen transfer, and 1,849,829-yen bank balance appear in sequence. | Numerical screens make fees and pre-existing money analytically visible. | Similar-looking totals invite confusion and do not reveal every production expense; RAG-E-V015-009. |
 | RAG-FRM-081 | Production montage converts a declared title into distributed bodily work. | Introductions, tripods, food, equipment, marked script, takes, and direction occupy successive pages. | Repetition places producer and actress inside a collective system rather than a two-person fantasy. | Montage compression does not sample every day or prove completion; RAG-E-V015-011 through RAG-E-V015-013. |
 | RAG-FRM-082 | A comic near-fall becomes the condition for a serious performance close. | Kazuya's exaggerated bridge climb and recovery precede Chizuru's crying take, crew reaction, and his future-distance thought. | Tonal transition links reckless support to art while ending on asymmetry rather than reward. | Formal linkage does not make the risk prudent or the imagined future factual; RAG-E-V015-014 through RAG-E-V015-016. |
+| RAG-FRM-083 | Different-world imagery is answered by parallel family purpose. | Kazuya elevates the actress and lowers himself; Chizuru places acting and the family store beside one another as meaningful lives. | Dialogue reverses the hierarchy produced by his admiring gaze. | Parallel purpose does not imply identical careers or romantic equality; RAG-E-V016-001, RAG-E-V016-002. |
+| RAG-FRM-084 | Seats, food, and luggage turn a work trip into ordinary proximity. | Chizuru closes the train-seat gap, offers paired bentos, and travels with camera equipment. | Mundane travel panels hold project logistics and intimacy-like form together. | Shared food and seating do not settle motive or status; RAG-E-V016-003, RAG-E-V016-006, RAG-E-V016-007. |
+| RAG-FRM-085 | Star-field performance joins family memory to the supporter behind the camera. | Katsuhito's promise that support will appear precedes Kazuya filming Chizuru's final scene. | Flashback and present visual alignment convert a family promise into completed production. | The linkage establishes function and Kazuya's viewpoint, not a romantic confession or career guarantee; RAG-E-V016-010 through RAG-E-V016-012. |
+| RAG-FRM-086 | Intimacy-like lodging images are separated by agency and interruption. | One room, two futons, an accidental bath entry, a sleeping Kazuya, and Chizuru's wakefulness recur across the overnight sequence. | Repeated spatial closeness increases pressure while cuts and exits withhold completed contact. | The framing proves neither a kiss nor sexual consent; RAG-E-V016-008, RAG-E-V016-014. |
+| RAG-FRM-087 | Sleep and station transitions keep declaration from becoming mutual exchange. | Chizuru sleeps on Kazuya's shoulder, his shouted preference lacks proved reception, and Ruka interrupts the return at Iiyama Station. | The sequence converts private feeling into near-public sound and then rival conflict. | Neither sleep contact nor an unheard statement establishes reciprocity; RAG-E-V016-016, RAG-E-V016-017. |
+| RAG-FRM-088 | Pool spectacle narrows into a direct consent cliffhanger. | Crowds, swimwear, bodily attention, and repeated proximity culminate in Ruka's request that Kazuya touch her. | Visual eroticization is followed by an explicit verbal request whose answer is withheld. | The cliffhanger supplies no consent, contact, or completed intimacy; RAG-E-V016-018. |

@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.15"
+version: "1.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; inspected and closed through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; inspected and closed through V016."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V015
-row_count: 77
-state: CURRENT_THROUGH_V015
+inspected_through_volume: V016
+row_count: 83
+state: CURRENT_THROUGH_V016
 ```
 ```
 
@@ -131,3 +131,9 @@ state: CURRENT_THROUGH_V015
 | RAG-PRG-086 | Kazuya's project competence | GAIN_WITH_SAFETY_COST — he coordinates logistics and removes a time-sensitive sound bottleneck. | His producer role becomes useful inside a real set. | He remains inexperienced and nearly falls while solving the problem. | RAG-E-V015-011, RAG-E-V015-012, RAG-E-V015-014 |
 | RAG-PRG-087 | Chizuru's acting route | GAIN_IN_RECORDED_OUTPUT — preparation and direction yield a completed crying take that moves crew members. | The career goal now has project-specific filmed evidence and local reception. | No public release, professional offer, or broad evaluation follows yet. | RAG-E-V015-013, RAG-E-V015-015 |
 | RAG-PRG-088 | Truth, ring, Ruka, and Mami routes | STALL_BY_ABSENCE — none is resolved while funding and filming advance. | Project progress remains domain-specific. | Romantic ambiguity and project success do not correct dormant obligations. | RAG-E-V015-017 |
+| RAG-PRG-089 | Film production capacity | MAJOR_GAIN_WITH_DELIVERY_GAP — the final scene completes principal photography and footage enters editing. | A September target and theater search extend the project toward exhibition. | No finished edit, screening, or Sayuri delivery is observed. | RAG-E-V016-009, RAG-E-V016-012, RAG-E-V016-013 |
+| RAG-PRG-090 | Chizuru's acting and family route | GAIN_IN_PURPOSE_AND_OUTPUT — she states the film's family function, thanks Kazuya, and completes the last performance. | Family promise, supporter relation, and recorded acting converge in an observable result. | Public career consequence and Sayuri's receipt remain open. | RAG-E-V016-010 through RAG-E-V016-012 |
+| RAG-PRG-091 | Kazuya-Chizuru status and access | GAIN_WITHOUT_MUTUAL_RECLASSIFICATION — Chizuru rejects status hierarchy and grants bounded travel and room access. | Kazuya receives direct value recognition and the collaboration survives engineered privacy. | No affirmative confession, sexual consent, or mutual status agreement follows. | RAG-E-V016-001, RAG-E-V016-002, RAG-E-V016-006, RAG-E-V016-008 |
+| RAG-PRG-092 | Kazuya-Chizuru romantic information | PRESSURE_INCREASE_WITH_RECEPTION_GAP — Chizuru privately revisits her qualified answer while Kazuya names a true-love standard and shouts his preference. | Both sides show stronger affective activation around post-film distance. | Her recall remains private, his shout may be unheard, and no direct exchange occurs. | RAG-E-V016-005, RAG-E-V016-014 through RAG-E-V016-016 |
+| RAG-PRG-093 | Ruka trial and consent conflict | PRESSURE_AND_UNRESOLVED_THRESHOLD — Ruka investigates the trip, reasserts status, and asks for bodily touch as a birthday wish. | The dormant trial returns as direct rivalry and an answerable request. | Prior labor and status do not supply consent, and V016 gives no answer or act. | RAG-E-V016-017, RAG-E-V016-018 |
+| RAG-PRG-094 | Truth, ring, Mami, and Sayuri outcome routes | MIXED_STALL_WITH_URGENCY — Kazuya repeats the need for genuine family introduction and the film gains a Sayuri-linked deadline, but no truth correction, ring action, Mami consequence, prognosis, or delivery occurs. | Ethical intent and family purpose remain active. | None of the underlying obligations is resolved. | RAG-E-V016-010, RAG-E-V016-013, RAG-E-V016-015 |

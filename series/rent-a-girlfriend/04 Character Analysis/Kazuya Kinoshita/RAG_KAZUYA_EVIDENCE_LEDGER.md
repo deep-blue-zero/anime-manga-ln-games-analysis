@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V015; character evidence inspected through V015."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V016; character evidence inspected through V016."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V015
+inspected_through_volume: V016
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -117,6 +117,12 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E077 | KAZ-S017 | RAG-E-V015-008 through RAG-E-V015-011 | Funded close and operational transition | Receives the successful campaign result, distinguishes transferred funds in practice, accepts peer encouragement, and enters a staffed shoot. | Converts fundraising success into further accountable work rather than treating it as completion. | Gross support, transfer, and full bank balance differ; remaining production is substantial. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R012, RAG-KAZ-R013 |
 | RAG-KAZ-E078 | KAZ-S017 | RAG-E-V015-011 through RAG-E-V015-013 | Producer role inside specialist hierarchy | Introduces himself as producer, promises completion, performs setup and errands, and respects Chizuru's request for on-set distance while Tabuse directs. | The named role becomes useful through coordination and subordination to expertise. | He remains inexperienced, and intense observation of Chizuru still shapes his attention. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R013 |
 | RAG-KAZ-E079 | KAZ-S017 | RAG-E-V015-014 through RAG-E-V015-017 | Bottleneck removal, unsafe risk, and future-distance projection | Climbs to stop a cicada, nearly falls, enables scene 138, then imagines Chizuru's fame and wonders about his future place. | Commitment can produce immediate production value and status-independent support. | The method is unsafe, the future thought is private, and no dormant obligation is resolved. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R013 |
+| RAG-KAZ-E080 | KAZ-S018 | RAG-E-V016-001, RAG-E-V016-002 | Self-demotion corrected and value recognition received | Frames Chizuru as belonging to another world and himself as a burden; receives her comparison of family purposes, praise of his life, and no-regret statement. | Direct external correction challenges his global inadequacy account. | He receives no romantic label, and one correction does not dissolve the self-model. | RAG-KAZ-R005, RAG-KAZ-R007, RAG-KAZ-R013 |
+| RAG-KAZ-E081 | KAZ-S018 | RAG-E-V016-003, RAG-E-V016-007 through RAG-E-V016-009 | Final-location responsibility under engineered privacy | Travels with Chizuru, acknowledges distributed support, accepts the one-room constraint, scouts the location, and handles the camera despite fear of failure. | Sustains project work under heightened personal anxiety without abandoning the task. | Mini manipulated the logistics, and Kazuya remains technically insecure. | RAG-KAZ-R002, RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R013 |
+| RAG-KAZ-E082 | KAZ-S018 | RAG-E-V016-010 through RAG-E-V016-012 | Family disclosure received, final performance filmed, and principal photography completed | Hears why the film serves Katsuhito and Sayuri, receives Chizuru's thanks, films the final scene, cries, and calls it her brightest performance. | Producer labor reaches a concrete milestone and gains direct beneficiary recognition. | His evaluation is not industry authority, and the film remains unfinished. | RAG-KAZ-R005, RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R013 |
+| RAG-KAZ-E083 | KAZ-S018 | RAG-E-V016-015, RAG-E-V016-016 | Truth criterion, distance disclosure, and unreceived preference expression | Says a future family introduction should concern someone he truly loves, admits expected estrangement feels lonely, thanks Chizuru, and shouts his preference without proved reception. | Moves from private future-distance anxiety toward indirect and partly external speech. | He does not name Chizuru in the family statement, verify reception, or create a mutual exchange. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R005 |
+| RAG-KAZ-E084 | KAZ-S018 | RAG-E-V016-013 | Postproduction follow-through | Sends footage to the film or research club, adopts a September completion target, and seeks a theater. | Treats principal photography as a milestone rather than completion. | Editing quality, venue success, screening, and delivery remain unproved. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R013 |
+| RAG-KAZ-E085 | KAZ-S018 | RAG-E-V016-017, RAG-E-V016-018 | Rival confrontation, bodily-distance maintenance, and unanswered request | Rejects Ruka's forecast of greater trip intimacy, tries to preserve distance at the pool, and receives her request for bodily touch. | Prior refusal capacity remains relevant under a new explicit threshold. | V016 ends before his answer; the unresolved trial continues to create pressure. | RAG-KAZ-R003, RAG-KAZ-R009 |
 
 ## State-change summary
 
@@ -137,6 +143,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S015 — named producer with a live unfunded campaign:** accepts task division and expert correction, sustains detailed collaboration with Chizuru, adds Mini to the project, secures platform approval, and launches a quantified forty-five-day campaign whose production outcome remains unproved.
 - **KAZ-S016 — cross-functional producer under funding stall:** turns initial pledges into further work, secures source permission and a director route through sustained outreach, accepts Mini's corrective strategy, and absorbs direct cost and public rejection while the campaign remains short of its target.
 - **KAZ-S017 — operational producer under specialist authority and future-distance anxiety:** carries a funded campaign into principal photography, accepts logistics and role distance, removes a sound bottleneck at unsafe bodily cost, and ends by imagining Chizuru's career advance without presuming a place beside her.
+- **KAZ-S018 — post-shoot producer under value recognition and consent pressure:** receives Chizuru's rejection of his self-demotion, completes the final-location work, carries footage into editing and theater planning, moves his preference toward partly external speech, and faces Ruka's unanswered bodily-contact request.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -170,6 +177,8 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - V014 extends planning into execution across source evaluation, rights contact, director recruitment, analytics, team delegation, and street promotion; the same sequence retains self-blame and weak personal finances as limits (RAG-E-V014-007 through RAG-E-V014-014).
 - V015 makes the producer title operational: he works beneath specialist authority, accepts menial logistics and Chizuru's concentration boundary, and solves a time-sensitive sound problem, although the near-fall preserves reckless self-endangerment as a cost (RAG-E-V015-011 through RAG-E-V015-015).
 - His endpoint question about where he will be if Chizuru becomes famous is direct status anxiety, not evidence of her future plan or a relationship promise (RAG-E-V015-016).
+- V016 answers that self-demotion with Chizuru's direct value recognition, then tests him as sole camera operator on the final trip and carries his producer role into editing and theater planning (RAG-E-V016-001 through RAG-E-V016-013).
+- His true-love standard, thanks, and shouted preference move feeling toward speech, but indirect wording and unproved reception preserve the gap between self-knowledge and mutual communication (RAG-E-V016-015, RAG-E-V016-016).
 
 ## Gaps and negative evidence
 
@@ -178,7 +187,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Twelve volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
-- Film work now extends through funded campaigning and active principal photography, but no completed shoot, edit, exhibition, or finished artifact is yet observed.
+- Film work now extends through completed principal photography, editing handoff, a September target, and theater search, but no finished edit, exhibition, delivery, or public career consequence is yet observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 
 ## Update rule
