@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0098
+## Current coverage — all five human units synchronized through EVENT_0115
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0098 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0098`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0115 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0115`.
 
 Artifacts:
 
@@ -66,7 +66,194 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0098 forward transaction; historical universal queue complete
+### Current coverage — EVENT_0115 forward transaction; EVENT_0099–0115 sequence complete
+
+**EVENT_0115 is fully integrated as an ensemble I2 event with no new I3 or named I2 owner:** MORE MORE JUMP! is PRIMARY/HIGH through Minori and Haruka's established capacities and Stage-local support; Leo/need is CO_PRIMARY/HIGH through Shiho and Ichika's recipient-aware work, shared rest, and result reporting. `REL-CROSS-LN-MMJ-SCHOOL-E0001` receives a very strong I2 increment through Minori and Shiho's completed practicum and safety response, Haruka and Ichika's chosen participation, and Haruka–Shiho's enacted follow-up leisure. Preserve `MMJ-EP-MN-E0098`, `MMJ-EP-HR-E0094`, `LN-EP-SHIHO-E0110`, `LN-EP-ICHIKA-E0101`, both groups, and collective Stage topology. VBS, WxS, and N25 are NONE/I0. The verified envelope is 24 stories / 41 scenes / 1,280 records: eight core chapters, ten card halves, and six areas. No new operative, universal animal affinity, professional keeper competence, permanent cross-unit intimacy, completed future outing, mass fame, public SEKAI knowledge, persistent singer embodiment, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0114 to EVENT_0115; the authorized EVENT_0099–0115 goal boundary is reached and there is `NO_NEXT_AUTHORIZED_EVENT`.
+
+Causal home: [EVENT_0115 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0115_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0115: 24 stories / 41 scenes / 1,280 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Record no new I3 or named I2 owner; strengthen `REL-CROSS-LN-MMJ-SCHOOL-E0001` and preserve established human, group, and Stage authorities proportionally.
+- MMJ is PRIMARY/HIGH I2; LN is CO_PRIMARY/HIGH I2; VBS, WxS, and N25 are NONE/I0.
+- The shared boundary is EVENT_0115. The 17-event EVENT_0099–0115 goal sequence is complete; there is `NO_NEXT_AUTHORIZED_EVENT`.
+
+### Historical coverage — EVENT_0114 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0114 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with new I3 `WXS-EP-NENE-E0114`, a tested collaborative-directing method that replaces type-based distance with person-specific inquiry, distributes work around actual skill and desire, coaches anxiety through experience, and answers disruption by recombining team resources while protecting participants from avoidable blame and regret. New scoped I3 `WXS-REL-NENE-CLASSMATES-E0114` records reciprocal movement from unfamiliar crowd to differentiated collaborators and continuing ordinary companions. Preserve `WXS-EP-NENE-E0095` separately as Nene's own musical-acting authority. VBS is CO_PRIMARY/HIGH I2 through An, Akito, and Toya's direct production work; N25 is CROSS_UNIT/MEDIUM I2 through Mizuki's bounded costume teaching; LN and MMJ are NONE/I0. The verified envelope is 23 stories / 54 scenes / 1,600 records: eight core chapters, ten card halves, and five linked areas. No permanent directing mastery, universal social ease, equal intimacy with every classmate, guaranteed future continuity, professional film status, new VBS or N25 operative, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0113 to EVENT_0114; EVENT_0115 is next and 1 event remains through the goal boundary.
+
+Causal home: [EVENT_0114 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0114_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0114: 23 stories / 54 scenes / 1,600 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `WXS-EP-NENE-E0114` and scoped I3 `WXS-REL-NENE-CLASSMATES-E0114`.
+- Preserve Nene's acting authority, the current WxS group, Wonderland singers, VBS humans, and Nene–Toya relation proportionally.
+- VBS is CO_PRIMARY/HIGH I2; N25 is CROSS_UNIT/MEDIUM I2; LN and MMJ are NONE/I0. The shared boundary is EVENT_0114; EVENT_0115 is next and 1 event remains through the goal boundary.
+
+### Historical coverage — EVENT_0113 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0113 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with new I3 `WXS-EP-TSUKASA-E0113`, a tested sparse-role method that combines historical research, multiple imagined life histories, collaborative selection, embodiment, audience testing, and explicit diagnosis of overpresence within the whole play. New scoped I3 `WXS-REL-TSUKASA-REKI-E0113` records reciprocal craft change: Reki supplies method and collaboration; Tsukasa's response helps Reki stop treating lead/support labels as fixed moral categories and accept a film lead. Preserve `WXS-MS-TSUKASA-P06`, `REL-WXS-G-E0104`, the other three current humans, and Wonderland singer topology. Leo/need is CROSS_UNIT/MEDIUM I2 through Saki–Tsukasa support; MMJ, VBS, and N25 are NONE/I0. The verified envelope is 24 stories / 39 scenes / 1,592 records: eight core chapters, ten card halves, five linked areas, and one December Wonderland area. No permanent mastery, perfect ensemble balance, canonical truth of invented biographies, Harunaza membership, completed film, permanent mentorship, professional status, safe workload, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0112 to EVENT_0113; EVENT_0114 is next and 2 events remain through EVENT_0115.
+
+Causal home: [EVENT_0113 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0113_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0113: 24 stories / 39 scenes / 1,592 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `WXS-EP-TSUKASA-E0113` and scoped I3 `WXS-REL-TSUKASA-REKI-E0113`.
+- Preserve the independent troupe, established humans, Wonderland singers, and Saki–Tsukasa sibling authority proportionally.
+- MMJ, VBS, and N25 are NONE/I0. The shared boundary is EVENT_0113; EVENT_0114 is next and 2 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0112 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0112 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MF-E0100-01 → MF-E0112-01` advances Mafuyu's survival departure into a shared identity search: she preserves contradictory pain and warmth, retrieves personally necessary artifacts, names a tentative wish to stay beside suffering people, and accepts change with companions. New I3 `EPI-N25-SEKAI-E0112` records the Empty SEKAI lake as an incomplete, owner-specific material archive of painful and sustaining feelings; the closed door and sprout remain unresolved. New bounded I2 `REL-CROSS-HONAMI-MAFUYU-E0112` records Honami learning of the temporary stay, provisioning meals, and offering help without receiving the family history. Preserve `K-E0089-01`, `E-E0070-01`, `MZ-E0093-01`, `REL-N25-G-7`, `REL-N25-KM-E0100`, established family and Empty-singer authority, and Honami–Kanade care proportionally. Leo/need is CROSS_UNIT/MEDIUM I2; MMJ, VBS, and WxS are NONE/I0. The verified envelope is 30 stories / 60 scenes / 2,057 records: ten core chapters, ten card halves, and ten World Link areas. No permanent housing, family reconciliation, settled vocation, admissions result, Mizuki disclosure, rescue completion, universal symbolism, opened door, mature sprout, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0111 to EVENT_0112; EVENT_0113 is next and 3 events remain through EVENT_0115.
+
+Causal home: [EVENT_0112 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0112_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0112: 30 stories / 60 scenes / 2,057 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `MF-E0100-01 → MF-E0112-01`; create I3 `EPI-N25-SEKAI-E0112`; create bounded I2 `REL-CROSS-HONAMI-MAFUYU-E0112`.
+- Preserve the other N25 humans, group, dyads, Empty singers, Honami, and Honami–Kanade authority proportionally.
+- MMJ, VBS, and WxS are NONE/I0. The shared boundary is EVENT_0112; EVENT_0113 is next and 3 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0111 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0111 is fully integrated:** MORE MORE JUMP! is PRIMARY/VERY HIGH with three distinct I3 responsibilities. New `MMJ-EP-SZ-E0111` records Shizuku converting regret about responsibility-only performance into a demonstrated choice-support method: disclose relevant failure, invite pause and consultation, distinguish duty from sustainable desire, preserve the other person's authority, and incorporate family and institutional alternatives. New `MMJ-REL-GROUP-SAITO-E0111` advances Saito from trusted recurring helper to mutually accepted manager with immediate administrative implementation and a shared long horizon while pay, scope, and contract remain open. New `MMJ-REL-SAITO-FAMILY-E0111` records the move from mutual protective silence and assumed only-daughter duty to direct permission, nonfamily succession alternatives, and supported vocational choice. Preserve `MMJ-EP-SZ-E0011`, `MMJ-REL-GROUP-06`, all four MS-04 humans, and Stage authority proportionally. Leo/need, VBS, WxS, and N25 are NONE/I0. The verified envelope is 25 stories / 34 scenes / 1,507 records: eight core chapters, ten card halves, five linked areas, and two monthly Stage areas. No coercive rescue, finalized manager terms, durable employment proof, hired inn successor, completed live, Budokan readiness, broad fame, More More House, safe workload, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0110 to EVENT_0111; EVENT_0112 is next and 4 events remain through EVENT_0115.
+
+Causal home: [EVENT_0111 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0111_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0111: 25 stories / 34 scenes / 1,507 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `MMJ-EP-SZ-E0111`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-SAITO-FAMILY-E0111`.
+- Preserve the four-person MMJ group, prior human operatives, and Stage topology proportionally.
+- LN, VBS, WxS, and N25 are NONE/I0. The shared boundary is EVENT_0111; EVENT_0112 is next and 4 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0110 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0110 is fully integrated:** Leo/need is PRIMARY/VERY HIGH with new I3 `LN-EP-SHIHO-E0110`. Shiho reconstructs the childhood collision between uncompromising work and relational cost, Sumire's direct bass instruction and modeled commitment, and the Iolite performance that gave her permission to choose music. She turns the longstanding wish to move hearts into a recipient-defined rule: pursue the non-negotiable musical standard honestly, make that pursuit audible, and give people like her younger self strength to live straight in their own way. New bounded historical I2 `LN-REL-SHIHO-SUMIRE-E0110` records direct instruction, modeled commitment, performance receipt, and Shiho's future vow without claiming current reciprocity. Preserve `LN-REL-G-E0020`, `LN-REL-SOLIS-E0101`, `LN-EP-ICHIKA-E0101`, `LN-EP-SAKI-E0106`, `LN-EP-HONAMI-E0010`, `LN-VS-SCHOOL-RIN-E0027`, and `LN-REL-SCHOOL-VS-MS` at strong or local I2. Honami's answer, a collective musical-purpose synthesis, debut outputs, and leadership remain open. MORE MORE JUMP! is CROSS_UNIT/LOW I1 through Shizuku's brief ordinary sister contact; VBS, WxS, and N25 are NONE/I0. The verified envelope is 28 stories / 54 scenes / 1,406 records: eight core chapters, ten card halves, five linked areas, and five November School areas. No completed debut, leader appointment, technical mastery, harmlessness of uncompromising pursuit, current Sumire mentorship, retroactive Rin presence, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0109 to EVENT_0110; EVENT_0111 is next and 5 events remain through EVENT_0115.
+
+Causal home: [EVENT_0110 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0110_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0110: 28 stories / 54 scenes / 1,406 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `LN-EP-SHIHO-E0110` and bounded historical I2 `LN-REL-SHIHO-SUMIRE-E0110`.
+- Preserve Leo/need group, Solis, individual-purpose, and School-singer authorities proportionally; Honami and leadership remain open.
+- MMJ is CROSS_UNIT/LOW I1; VBS, WxS, and N25 are NONE/I0. The shared boundary is EVENT_0110; EVENT_0111 is next and 5 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0109 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0109 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three I3 responsibilities and one bounded local I2 record. New `VBS-EP-AK-E0109` records Akito's tested expressive-performance method: retain disciplined labor and accepted help, recognize experience suppressed by goal-focused self-control, direct joy, fear, grief, gratitude, and ambition toward a meaningful recipient or audience, and verify the result in listener action. Preserve `VBS-EP-AK-E0021` separately as reciprocal-reliance authority. `VBS-REL-GROUP-KEN-E0103 → VBS-REL-GROUP-KEN-E0109` advances the accepted mentorship compact through sustained external battle training, adult transport/network labor, differentiated roles, individual coaching, a provisional group threshold, and the first completed role. New scoped `VBS-REL-STREET-AUDIENCE-E0109` records the move from defeat rumor and chilled expectation to public proof of continued pursuit, renewed anticipation, Koutaro's tested return, and a future COL invitation. New `VBS-VS-STREET-LUKA-E0109` is local I2 for Luka's tailored musical intervention and recipient-aware stopping. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0. The verified envelope is 24 stories / 56 scenes / 1,666 records: eight core chapters, ten card halves, five linked areas, and one December Street area. No final victory, permanent mastery, safe workload, completed remaining roles, repaired An–Ken trust, reopened venue, professional status, unanimous public support, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0108 to EVENT_0109; EVENT_0110 is next and 6 events remain through EVENT_0115.
+
+Causal home: [EVENT_0109 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0109_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0109: 24 stories / 56 scenes / 1,666 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create `VBS-EP-AK-E0109` and scoped `VBS-REL-STREET-AUDIENCE-E0109`; advance `VBS-REL-GROUP-KEN-E0103 → VBS-REL-GROUP-KEN-E0109`.
+- Create bounded local I2 `VBS-VS-STREET-LUKA-E0109`; preserve the VBS group, partner, individual, and Street topology proportionally.
+- The other four human units are NONE/I0. The shared boundary is EVENT_0109; EVENT_0110 is next and 6 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0108 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0108 is fully integrated as an ensemble I2 event with no new I3 owner:** Leo/need is PRIMARY/HIGH through Ichika's direct enactment of `LN-EP-ICHIKA-E0101`, and Nightcord at 25:00 is CO_PRIMARY/HIGH through Kanade's receipt of ordinary motivation and Mafuyu's bounded post-departure support. Vivid BAD SQUAD, MORE MORE JUMP!, and Wonderlands×Showtime are each CROSS_UNIT/HIGH I2. Preserve `REL-CROSS-KANADE-ICHIKA-E0042`, `REL-CROSS-ICHIKA-NENE-E0013`, and `REL-CROSS-ICHIKA-KOHANE-E0018`; preserve `VBS-EP-KH-E0103`, `MMJ-EP-MN-E0098`, `MF-E0100-01`, `K-E0089-01`, `WXS-EP-EMU-E0104`, and `REL-WXS-G-E0104`. The verified envelope is 28 stories / 42 scenes / 1,284 records: eight core chapters, ten card halves, five event-linked areas, and five October Wonderland areas. No universal motivation rule, resolved rescue burden, resolved future or family conflict, stable academic balance, permanent social confidence, new unit successor, global school cohort, or global singer identity is certified. The boundary advances EVENT_0107 to EVENT_0108; EVENT_0109 is next and 7 events remain through EVENT_0115.
+
+Causal home: [EVENT_0108 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0108_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0108: 28 stories / 42 scenes / 1,284 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Record no new I3 or named I2 owner; preserve and strengthen established character, relationship, group, and institutional authorities proportionally.
+- All five human units receive high I2 evidence, with Leo/need PRIMARY and N25 CO_PRIMARY.
+- The shared boundary is EVENT_0108; EVENT_0109 is next and 7 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0107 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0107 is fully integrated:** Vivid BAD SQUAD is PRIMARY/HIGH and Nightcord at 25:00 is CO_PRIMARY/HIGH through one I3 relationship successor. `REL-CROSS-MIZUKI-AN-E0007 → REL-CROSS-MIZUKI-AN-E0107` advances safe ordinary friendship under incomplete disclosure into a historically understood and reciprocally enacted school friendship: the pair reconstruct An's non-exceptional approach during classroom stigma, interpret why the relation matters, exchange person-specific costly care through Mizuki's tailored notebook and An's remembered-preference gift, state continuity across class separation, and complete further chosen leisure. Preserve `VBS-AN-MS4`, `VBS-EP-AN-E0097`, and `MZ-E0093-01`; An's social explanation is retrospective and Mizuki's guarded issue remains undisclosed. WxS is CROSS_UNIT/HIGH I2 through Rui's adaptive teaching, mixed-group responsibility, and shared-memory framing. Leo/need is REPORTED_CONTEXT/LOW I1 and MMJ is NONE/I0. The verified envelope is 23 stories / 52 scenes / 1,498 records: eight core chapters, ten card halves, and five linked areas. No resolved guarded disclosure, stable attendance, permanent academic mastery, savior account, equal study-group intimacy, new character operative, unit successor, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0106 to EVENT_0107; EVENT_0108 is next and 8 events remain through EVENT_0115.
+
+Causal home: [EVENT_0107 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0107_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0107: 23 stories / 52 scenes / 1,498 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `REL-CROSS-MIZUKI-AN-E0007 → REL-CROSS-MIZUKI-AN-E0107`; create no character operative.
+- Preserve VBS, N25, WxS, Street, and family authorities proportionally; LN is reported I1 and MMJ I0.
+- The shared boundary is EVENT_0107; EVENT_0108 is next and 8 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0106 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0106 is fully integrated:** Leo/need is PRIMARY/VERY HIGH and MORE MORE JUMP! is CO_PRIMARY/VERY HIGH through three distinct I3 owners. New `LN-EP-SAKI-E0106` records Saki transforming a hospital-era survival and anti-erasure list into visible evidence of reciprocal belonging, returned photos and written thanks, and renewable shared future aims. `REL-CROSS-HARUKA-SAKI-E0004 → REL-CROSS-HARUKA-SAKI-E0106` advances practical trust into enacted chosen friendship through tailored help, mutual album-making, direct affirmation, ordinary follow-up, and planned future contact. New `REL-CROSS-SAKI-AIRI-E0106` records mediated hope becoming a directly known reciprocal support channel through a completed private live, Saki's hospital-history letter, continued fan support, Airi's received thanks and renewed hope-bearing commitment, and ordinary continuity. Preserve LN/MMJ group and School routes at strong I2. WxS and N25 are CROSS_UNIT/HIGH I2; VBS is CROSS_UNIT/MEDIUM I2. The verified envelope is 23 stories / 44 scenes / 1,500 records: eight core chapters, ten card halves, and five linked areas. No permanent health or abandonment-fear cure, universal memory, equal network intimacy, implemented Haruka transfer schedule, booked travel, unlimited idol access, broad fame, new unit successor, new Mafuyu state, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0105 to EVENT_0106; EVENT_0107 is next and 9 events remain through EVENT_0115.
+
+Causal home: [EVENT_0106 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0106_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0106: 23 stories / 44 scenes / 1,500 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `LN-EP-SAKI-E0106`; advance I3 `REL-CROSS-HARUKA-SAKI-E0106`; create I3 `REL-CROSS-SAKI-AIRI-E0106`.
+- Preserve LN/MMJ group and School routes plus WxS/N25 participant routes at strong I2; VBS is participant-bounded I2.
+- The shared boundary is EVENT_0106; EVENT_0107 is next and 9 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0105 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0105 is fully integrated:** the release is UNIVERSAL/VERY HIGH at franchise-ontology I3. `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105` advances exceptional cross-SEKAI permeability from brief perception to an audible signal, fragment-mediated temporary relocation, direct reciprocal conversation, distinct-counterpart recognition, retained encounter memory, and local action after return. The connection remains accidental, selective, temporary, and uncontrolled. All five founded human units are CO_PRIMARY/HIGH I2 recipients of completed manifestation performances: preserve `LN-REL-SCHOOL-VS-MS`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, `VBS-REL-STREET-VS-HUMANS-1`, `REL-WXS-WONDERLAND-E0003`, `REL-N25-GM-E0054`, `REL-N25-VS-RIN-E0014`, and `REL-N25-VS-MEIKO-E0019` at strong local I2. Revise/strengthen `CR-PJSK-SEKAI-040` and provisionally strengthen `CR-PJSK-SEKAI-041`. The verified envelope is 25 stories / 47 scenes / 1,444 records: eight core chapters, twelve card halves, and five linked areas. No routine travel, permanent portal, guaranteed recurrence, shared singer mind, global singer identity, complete biography transfer, public or human knowledge of the meeting, human successor, performance mastery, guaranteed professional success, or complete reconstruction is certified. The boundary advances EVENT_0104 to EVENT_0105; EVENT_0106 is next and 10 events remain through EVENT_0115.
+
+Causal home: [EVENT_0105 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0105_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0105: 25 stories / 47 scenes / 1,444 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `EPI-PJSK-SEKAI-E0054 → EPI-PJSK-SEKAI-E0105`; revise/strengthen `CR-PJSK-SEKAI-040` and strengthen provisional `CR-PJSK-SEKAI-041`.
+- Preserve all five manifestation↔human routes at strong local I2; create no human successor or global singer identity.
+- The shared boundary is EVENT_0105; EVENT_0106 is next and 10 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0104 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0104 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with three distinct I3 advances. New `WXS-EP-EMU-E0104` records Emu preserving her park purpose while revising its exclusive means from staying alone to shared stewardship, outside learning, and intended return; it also allows grief to be shared instead of hidden behind mandatory smiles. `REL-WXS-MS-G-P06 → REL-WXS-G-E0104` records the four's informed, negotiated, approved, and publicly enacted transition from a park-based company to one independent freelance troupe. `WXS-EP-PARK-E0025 → WXS-EP-PARK-E0104` records a bounded institutional handoff after observed visitor and satisfaction gains, management and staff ownership, replacement performance coverage, and a future offer channel. Preserve Nene, Rui, Sakurako, park-support, and Wonderland relations at strong I2. LN and VBS receive low-I1 reports of intended final-show attendance; MMJ and N25 are I0. The verified envelope is 23 stories / 41 scenes / 1,830 records: eight core chapters, ten card halves, and five linked areas. No permanent park rescue, audited profit, final Riley terms, guaranteed return, completed external work, professional mastery, grief cure, legal management transfer, lifelong troupe continuity, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0103 to EVENT_0104; EVENT_0105 is next and 11 events remain through EVENT_0115.
+
+Causal home: [EVENT_0104 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0104_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0104: 23 stories / 41 scenes / 1,830 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `WXS-EP-EMU-E0104`; advance I3 `REL-WXS-G-E0104` and bounded institutional I3 `WXS-EP-PARK-E0104`.
+- Preserve Nene, Rui, Sakurako, park-support, and Wonderland authority at strong I2; LN/VBS reported I1; MMJ/N25 I0.
+- The shared boundary is EVENT_0104; EVENT_0105 is next and 11 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0103 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0103 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three distinct I3 advances. `VBS-EP-KH-E0028 → VBS-EP-KH-E0103` records Kohane's move from borrowed grounded confidence to internally held singer pride: she recognizes frustration as evidence of serious investment, preserves it as forward support, and acts while fear remains. New scoped `VBS-REL-GROUP-KEN-E0103` records Ken's temporary closure of WEEKEND GARAGE, offer of all available time and knowledge, demanding terms, and acceptance by all four; no training session or result is yet shown. `VBS-REL-TOYA-FATHER-2 → VBS-REL-TOYA-FATHER-3` records conditional practical permission and partial receipt of Toya as a musician without endorsement or reconciliation. Preserve `VBS-REL-AN-KEN-E0097` with forgiveness and repair OPEN, and preserve `VBS-REL-AK-ARATA-E0021` at negative/open I2 after Arata's reported departure. Leo/need is a bounded cross-unit I2 route through Shiho's experience-based encouragement; MMJ, WxS, and N25 are I0. The verified envelope is 23 stories / 45 scenes / 1,539 records: eight core chapters, ten card halves, and five linked areas. No permanent confidence, skill parity, victory, completed or proven-safe Ken training, restored coalition, permanent Arata retirement, repaired An–Ken trust, paternal endorsement, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0102 to EVENT_0103; EVENT_0104 is next and 12 events remain through EVENT_0115.
+
+Causal home: [EVENT_0103 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0103_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0103: 23 stories / 45 scenes / 1,539 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance I3 `VBS-EP-KH-E0103` and `VBS-REL-TOYA-FATHER-3`; create scoped I3 `VBS-REL-GROUP-KEN-E0103`.
+- Preserve An–Ken and Akito–Arata as unresolved, with established VBS group, partner, individual, and Street authority proportionally retained.
+- The shared boundary is EVENT_0103; EVENT_0104 is next and 12 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0102 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0102 is fully integrated:** MORE MORE JUMP! and Nightcord at 25:00 share the highest cross-unit consequence through one scoped I3 owner. New `REL-CROSS-AIRI-MIZUKI-E0102` records Airi's informed selection of Mizuki for consequential help, Mizuki's accepted and completed work, reciprocal thanks and burden awareness, an explicitly chosen and completed first two person outing, mutual learning, and continuing direct access. New `REL-CROSS-SAKI-MIZUKI-E0102` is bounded I2 for first direct contact, training, high pressure service coordination, a shared recipient quality rule, and later ordinary fashion advice. Preserve `MMJ-AI-MS-04`, `MMJ-EP-AI-E0092`, and `MMJ-REL-GROUP-06`: Airi's acclaimed live media adaptation is strong I2 application of founded variety, organization, and program skill, not a new operative. Preserve Saki, Mizuki, Minori, park, Wonderland, and Stage authority proportionally. The verified envelope is 23 stories / 40 scenes / 1,389 records: eight core chapters, ten card halves, and five linked areas. No permanent television success, guaranteed repeat booking, broad fame, sole Airi causation, mature Saki–Mizuki friendship, private N25 disclosure, completed Stage café, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0101 to EVENT_0102; EVENT_0103 is next and 13 events remain through EVENT_0115.
+
+Causal home: [EVENT_0102 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0102_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0102: 23 stories / 40 scenes / 1,389 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create scoped I3 `REL-CROSS-AIRI-MIZUKI-E0102` and bounded I2 `REL-CROSS-SAKI-MIZUKI-E0102`.
+- Preserve Airi professional, MMJ group, Mizuki, Saki, Minori, park, Wonderland, and Stage authority proportionally.
+- The shared boundary is EVENT_0102; EVENT_0103 is next and 13 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0101 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0101 is fully integrated:** Leo/need is PRIMARY/VERY HIGH with two distinct I3 successors. `LN-REL-SOLIS-E0101` closes the pending contract boundary through signed, accepted contracts and formal Solis artist affiliation while debut, promotion, release, income, and durable agency alignment remain open. `LN-EP-ICHIKA-E0101` advances the listener-oriented state into recipient-traced impact, shared causal attribution, a tested recursive connection purpose, and a future singing vow. Preserve `LN-REL-G-E0020` and `LN-REL-SCHOOL-VS-MS` at strong I2. MMJ, VBS, WxS, and N25 are CROSS_UNIT/HIGH I2 through distinct invitation, support, attendance, and receipt routes. The verified envelope is 23 stories / 45 scenes / 1,670 records: eight core chapters, ten card halves, and five linked areas. No completed debut, broad fame, public SEKAI knowledge, global singer state, universal listener transformation, permanent band continuity, or complete reconstruction package is certified. The boundary advances EVENT_0100 to EVENT_0101; EVENT_0102 is next and 14 events remain through EVENT_0115.
+
+Causal home: [EVENT_0101 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0101_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0101: 23 stories / 45 scenes / 1,670 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance formal Solis affiliation and Ichika's recursive connection purpose to two distinct I3 successors.
+- Preserve Leo/need group and School-singer topology at strong I2; route all four other human units at recipient-bounded I2.
+- The shared boundary is EVENT_0101; EVENT_0102 is next and 14 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0100 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0100 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH with four distinct I3 successors. `MF-E0100-01` advances Mafuyu from context-dependent wanting into explicit self-description, sustained refusal, survival departure, and chosen refuge. `REL-FAMILY-MAFUYU-MOTHER-E0100` advances the family conflict into directly rejected disclosure, device-access rupture, and physical separation while attachment continues. `REL-N25-KM-E0100` makes Kanade's protective commitment an enacted refuge. `REL-N25-VS-KAITO-GROUP-E0100` makes Empty KAITO a bounded crisis collaborator who combines urgent challenge with Miku's reassurance, reports through the group, limits interference, and receives Mafuyu's thanks. Preserve `K-E0089-01`, `REL-N25-G-7`, `REL-N25-MZM-3`, and `REL-N25-VS-MIKU-MAFUYU-E0042` at strong I2. MMJ is CROSS_UNIT/LOW I1; LN, VBS, and WxS are NONE/I0. The verified envelope is 23 stories / 42 scenes / 1,770 records: eight core chapters, ten card halves, and five linked areas. No permanent housing, legal independence, settled vocation, repaired device, maternal understanding, reconciliation, completed estrangement, universal recovery, public SEKAI knowledge, or global singer state is certified. The boundary advances EVENT_0099 to EVENT_0100; EVENT_0101 is next and 15 events remain through EVENT_0115.
+
+Causal home: [EVENT_0100 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0100_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0100: 23 stories / 42 scenes / 1,770 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance Mafuyu, Mafuyu-mother, Kanade-Mafuyu, and Empty KAITO group responsibilities to four distinct I3 successors.
+- Preserve Kanade's human state and N25 group, Mizuki, and Empty Miku authority at strong I2.
+- The shared boundary is EVENT_0100; EVENT_0101 is next and 15 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0099 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0099 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH I3 with two distinct new owners. `WXS-EP-RUI-E0099` records Rui's durable move from show-bound social expectation to self-chosen mutual understanding and shared laughter outside performance. `WXS-REL-RUI-CLASSMATES-E0099` records Miyake, Hayashi, and Taniyama's reciprocal approach, shared ordinary time, explicit friendship, and post-trip continuity. Preserve `WXS-EP-RUI-E0024` separately as task-based outsider collaboration authority. New `REL-CROSS-MAFUYU-AIRI-E0099` is bounded public-school I2; preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `MF-E0072-01`, `REL-N25-G-7`, `REL-N25-VS-MIKU-MAFUYU-E0042`, `MMJ-REL-GROUP-06`, `REL-WXS-MS-G-P06`, and `REL-WXS-WONDERLAND-E0003` proportionally without successors. N25 is SECONDARY/HIGH I2, MMJ is SECONDARY/MEDIUM I2, and LN/VBS are CROSS_UNIT/LOW I1. The verified envelope is 24 stories / 44 scenes / 1,678 records: eight core chapters, ten card halves, and six linked areas. No universal social mastery, permanent classmate intimacy, public SEKAI knowledge, private N25 disclosure to MMJ, global singer state, or professional outcome is certified. The boundary advances EVENT_0098 to EVENT_0099; EVENT_0100 is next and 16 events remain through EVENT_0115.
+
+Causal home: [EVENT_0099 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0099_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0099: 24 stories / 44 scenes / 1,678 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create `WXS-EP-RUI-E0099` and `WXS-REL-RUI-CLASSMATES-E0099` at I3; create bounded `REL-CROSS-MAFUYU-AIRI-E0099` at I2.
+- Preserve Rui E0024, WxS group, Wonderland, Mafuyu, N25 group, Empty Miku, Mafuyu–Shizuku, and MMJ group authority without successors.
+- The shared boundary is EVENT_0099; EVENT_0100 is next and 16 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0098 forward transaction; historical universal queue complete
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.
 
@@ -1491,3 +1678,71 @@ The verified group contains eight core chapters (33 scenes, 1,590 records), ten 
 ### EVENT_0098 source and reconstruction review
 
 The verified group contains eight core chapters (24 scenes, 769 records), ten associated card halves (16 scenes, 590 records), and six linked areas (6 scenes, 62 records). The root decision reconciles all five human-unit routes and Stage manifestation boundaries. `MMJ-EP-MN-E0098` alone owns structural choice under schedule conflict, verified academic burden, consulted costs, accepted loss, reported decision, café notice, and transition preparation. `MMJ-EP-MN-E0017`, `MMJ-EP-HR-E0094`, and `MMJ-EP-HR-E0023` remain separate. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 and distinct from Stage KAITO. The MMJ group, Airi, Minori–Airi, school network, Kohane–Minori, bounded An relations, and collective Stage owners remain without successors. MMJ is I3, LN I2, VBS relationship-specific I2, and WxS/N25 I0. Transfer, post-transfer schedules, academic/work/café results, blacklist, training completion, official singer membership, public singer embodiment, and cross-manifestation outcomes remain uncertified.
+
+### EVENT_0099 source and reconstruction review
+
+The verified group contains eight core chapters (21 scenes, 901 records), ten card halves (17 scenes, 707 records), and six linked areas (6 scenes, 70 records). Two distinct I3 responsibilities are created: Rui's generalized outside-show friendship operative and the durable classmate relationship that tests it. One bounded public-school Airi–Mafuyu I2 relation is added. N25 and MMJ authorities receive proportional I2 evidence; LN and VBS receive bounded I1 contact. Universal social mastery, private N25 disclosure, public singer embodiment, global manifestation continuity, and professional outcomes remain uncertified.
+
+### EVENT_0100 source and reconstruction review
+
+The verified group contains eight core chapters (23 scenes, 937 records), ten card halves (14 scenes, 784 records), and five linked areas (5 scenes, 49 records). Four I3 responsibilities advance: Mafuyu's bounded self-authored survival action, the family relationship's direct rejection and separation, Kanade-Mafuyu enacted refuge, and Empty KAITO's bounded crisis-collaboration relation. Group, Mizuki, Miku, and Kanade human authority receive proportional I2 evidence. MMJ receives I1 contact; LN, VBS, and WxS are I0. Permanent independence, cohabitation, repaired access, settled vocation, family resolution, universal recovery, public SEKAI knowledge, and global singer state remain uncertified.
+
+### EVENT_0101 source and reconstruction review
+
+The verified group contains eight core chapters (25 scenes, 938 records), ten card halves (15 scenes, 677 records), and five linked areas (5 scenes, 55 records). Two I3 responsibilities advance: formal Solis affiliation and Ichika's recursive connection-purpose operative. Leo/need group and School topology receive strong I2 evidence. MMJ, VBS, WxS, and N25 each receive high, recipient-specific I2 without successors. Debut, commercial outcomes, universal listener change, broad fame, public SEKAI knowledge, global singer state, permanent band continuity, and complete reconstruction remain uncertified.
+
+### EVENT_0102 source and reconstruction review
+
+The verified group contains eight core chapters (18 scenes, 738 records), ten associated card halves (17 scenes, 603 records), and five linked areas (5 scenes, 48 records). `REL-CROSS-AIRI-MIZUKI-E0102` is the sole new I3 owner. `REL-CROSS-SAKI-MIZUKI-E0102` is new bounded I2. Airi's professional work and the MMJ group receive strong I2 application; founded Mizuki, Saki, Minori, park, Wonderland, and Stage authority remains. Television success, repeat work, broad fame, sole causation, mature Saki–Mizuki friendship, private N25 disclosure, permanent café employment, completed Stage café, global singer state, and complete reconstruction remain uncertified.
+
+### EVENT_0103 source and reconstruction review
+
+The verified group contains eight core chapters (23 scenes, 904 records), ten associated card halves (17 scenes, 586 records), and five linked areas (5 scenes, 49 records). `VBS-EP-KH-E0103`, `VBS-REL-GROUP-KEN-E0103`, and `VBS-REL-TOYA-FATHER-3` own distinct I3 changes. An–Ken remains unresolved; Akito–Arata remains negative/open; VBS group, partner, Akito, Toya, and Street relations are preserved. LN receives bounded I2 routing; MMJ/WxS/N25 are I0. Permanent confidence, skill parity, victory, training success or safety, coalition return, permanent Arata retirement, trust repair, parental endorsement, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0104 source and reconstruction review
+
+The verified group contains eight core chapters (18 scenes, 1,143 records), ten associated card halves (18 scenes, 634 records), and five linked areas (5 scenes, 53 records). `WXS-EP-EMU-E0104`, `REL-WXS-G-E0104`, and `WXS-EP-PARK-E0104` own distinct I3 changes. Nene, Rui, Sakurako, park-support, and Wonderland relations remain proportionally bounded. LN/VBS receive reported I1; MMJ/N25 are I0. Park durability, profit, external work, mastery, return, grief resolution, future rivalry, global singers, and complete reconstruction remain uncertified.
+
+### EVENT_0105 source and reconstruction review
+
+The verified group contains eight core chapters (27 scenes, 696 records), twelve associated card halves (15 scenes, 697 records), and five linked areas (5 scenes, 51 records). `EPI-PJSK-SEKAI-E0105` owns the sole I3 transition. All five units receive completed local support performances at I2 under existing manifestation relationships. Routine travel, global singer identity, human knowledge of the meeting, human successors, mastery, professional outcomes, and complete reconstruction remain uncertified.
+
+### EVENT_0106 source and reconstruction review
+
+The verified group contains eight core chapters (24 scenes, 831 records), ten associated card halves (15 scenes, 627 records), and five linked areas (5 scenes, 42 records). `LN-EP-SAKI-E0106`, `REL-CROSS-HARUKA-SAKI-E0106`, and `REL-CROSS-SAKI-AIRI-E0106` own distinct I3 changes. LN/MMJ group, School-singer, WxS, N25, and VBS evidence remains proportionally bounded. Health permanence, universal memory, equal intimacy, transfer schedules, travel, idol access, fame, unit successors, Mafuyu successor, global singers, and complete reconstruction remain uncertified.
+
+### EVENT_0107 source and reconstruction review
+
+The verified group contains eight core chapters (28 scenes, 833 records), ten associated card halves (19 scenes, 613 records), and five linked areas (5 scenes, 52 records). `REL-CROSS-MIZUKI-AN-E0107` owns the sole I3 change. An, Mizuki, VBS, N25, WxS, Street, family, LN, and MMJ evidence remains proportionally bounded. Guarded disclosure, attendance, academic permanence, equal group intimacy, character successors, unit successors, global singers, and complete reconstruction remain uncertified.
+
+### EVENT_0108 source and reconstruction review
+
+The verified group contains eight core chapters (15 scenes, 559 records), ten associated card halves (17 scenes, 624 records), five event-linked areas, and five October Wonderland areas (10 area scenes, 101 records). No new I3 or named I2 owner is created. Ichika's recursive connection purpose, Kanade's ordinary post-crisis access, Mafuyu's bounded support, Kohane's confidence generalization, Minori's course implementation, and WxS outside-learning continuity remain proportionally bounded. Universal efficacy, resolved crisis states, stable academic outcomes, global school identity, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0109 source and reconstruction review
+
+The verified group contains eight core chapters (29 scenes, 1,022 records), ten associated card halves (21 scenes, 581 records), five event-linked Street areas, and one December Street area (6 area scenes, 63 records). `VBS-EP-AK-E0109`, `VBS-REL-GROUP-KEN-E0109`, and `VBS-REL-STREET-AUDIENCE-E0109` own the I3 changes; `VBS-VS-STREET-LUKA-E0109` is bounded local I2. Final victory, permanent mastery, safe workload, remaining-role completion, restored coalition, venue reopening, professional status, unanimous support, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0110 source and reconstruction review
+
+The verified group contains eight core chapters (25 scenes, 782 records), ten associated card halves (19 scenes, 523 records), five event-linked School areas, and five November School areas (10 area scenes, 101 records). `LN-EP-SHIHO-E0110` owns the I3 change; `LN-REL-SHIHO-SUMIRE-E0110` is bounded historical I2. A collective purpose, Honami answer, leader appointment, debut output, technical mastery, harmless commitment, current Sumire mentorship, retroactive Rin presence, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0111 source and reconstruction review
+
+The verified group contains eight core chapters (15 scenes, 834 records), ten associated card halves (12 scenes, 597 records), five event-linked areas, and two monthly Stage areas (7 area scenes, 76 records). `MMJ-EP-SZ-E0111`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-SAITO-FAMILY-E0111` own the I3 changes. Finalized manager terms, durable employment, inn succession implementation, a completed live, Budokan readiness, broad fame, More More House, safe workload, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0112 source and reconstruction review
+
+The verified group contains ten core chapters, ten associated card halves, and ten World Link Nightcord areas: 30 stories / 60 scenes / 2,057 records. `MF-E0112-01` and `EPI-N25-SEKAI-E0112` own the I3 changes; `REL-CROSS-HONAMI-MAFUYU-E0112` is bounded I2. Permanent housing, reconciliation, settled careers, admissions, disclosure, completed rescue, universal symbolic decoding, an opened door, a mature plant, and global singer identity remain uncertified.
+
+### EVENT_0113 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves, five event-linked areas, and one December Wonderland area: 24 stories / 39 scenes / 1,592 records. `WXS-EP-TSUKASA-E0113` and `WXS-REL-TSUKASA-REKI-E0113` own the I3 changes. Permanent mastery, ensemble balance, canonical biographies, Harunaza membership, completed film, permanent mentorship, professional status, and global singer identity remain uncertified.
+
+### EVENT_0114 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves, and five event-linked areas: 23 stories / 54 scenes / 1,600 records. `WXS-EP-NENE-E0114` and `WXS-REL-NENE-CLASSMATES-E0114` own the I3 changes. Permanent directing mastery, universal social ease, equal class intimacy, guaranteed continuity, professional film status, new VBS or N25 operatives, public SEKAI knowledge, and global singer identity remain uncertified.
+
+### EVENT_0115 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves, and six areas: 24 stories / 41 scenes / 1,280 records. No new I3 or named I2 owner is created. Animal-care competence, distributed safety response, cross-unit chosen leisure, public recognition, and Stage-local support strengthen existing authorities. Universal animal affinity, professional keeper status, permanent cross-unit intimacy, completed future outings, mass fame, public SEKAI knowledge, persistent singer embodiment, and global singer identity remain uncertified. The EVENT_0099–0115 goal boundary is complete.
