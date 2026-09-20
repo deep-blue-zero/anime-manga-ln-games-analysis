@@ -48,3 +48,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0112 — 水底に影を探して](PJSK_EVENT_0112_DEEP_READING.md): complete 30-story World Link envelope; Mafuyu advances from survival departure into shared identity search, the Empty SEKAI lake becomes a bounded material archive, and Honami–Mafuyu domestic support begins at I2.
 
 - [EVENT_0116 — あの日、奏でた音色を](PJSK_EVENT_0116_DEEP_READING.md): complete 28-story envelope; Kanade permits and enacts personal longing beside unresolved rescue duty, with bounded Kanade–father I3 and Mafuyu–father I2 family states.
+
+- [EVENT_0117 — 変わらぬあたたかさの隣で](PJSK_EVENT_0117_DEEP_READING.md): complete 24-story envelope; Mizuki converts sister-supported self-authorship into a recipient-choice rule while disclosure and universal safety remain open.

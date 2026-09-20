@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0116
+## Current coverage — all five human units synchronized through EVENT_0117
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0116 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0116`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0117 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0117`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0116 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0117 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0117 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MZ-E0093-01 → MZ-E0117-01` advances Mizuki into an enacted preference-support rule grounded in their sister's fear-respecting acceptance; `REL-FAMILY-MIZUKI-SISTER-E0068 → REL-FAMILY-MIZUKI-SISTER-E0117` integrates reciprocal creative influence and present distance-stable care. Leo/need receives high I2 application through Shiho's recipient-owned use and sibling gift; MMJ receives Shizuku's bounded receipt. The verified envelope is 24 stories / 39 scenes / 1,500 records. No completed guarded disclosure, universal acceptance, permanent safety, Mafuyu taste or preference recovery, new professional status, globally shared SEKAI identity, or complete reconstruction is certified. The boundary advances EVENT_0116 to EVENT_0117. EVENT_0118 is next and 23 events remain through EVENT_0140.
+
+Causal home: [EVENT_0117 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0117_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0117: 24 stories / 39 scenes / 1,500 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Nightcord at 25:00 is PRIMARY/VERY HIGH/I3. Advance `MZ-E0093-01 → MZ-E0117-01` and `REL-FAMILY-MIZUKI-SISTER-E0068 → REL-FAMILY-MIZUKI-SISTER-E0117`. Preserve `REL-N25-G-7`, `MF-E0112-01`, `LN-EP-SHIHO-E0110`, and established sibling and School-singer topology. Leo/need is CO_PRIMARY/HIGH I2, MORE MORE JUMP! is CROSS_UNIT/MEDIUM I2, Wonderlands×Showtime is REPORTED_CONTEXT/LOW I1, and Vivid BAD SQUAD is NONE/I0.
+- The shared boundary is EVENT_0117; EVENT_0118 is next and 23 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0116 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0116 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `K-E0089-01 → K-E0116-01` advances Kanade from protection under persistent penance into an enacted capacity to preserve personal longing beside rescue work: she reconstructs early creative pleasure and family warmth, composes from the wish for renewed recognition, shares the result, and voices the wish to her father. New one-sided I3 `REL-FAMILY-KANADE-FATHER-E0116` integrates loving origin, catastrophic guilt, present care, and permitted hope without claiming paternal receipt. New bounded I2 `REL-FAMILY-MAFUYU-FATHER-E0116` records honest taste-loss disclosure inside repeated voluntary visits. Preserve the other N25 humans, group, dyads, and Empty singers proportionally. LN and MMJ are CROSS_UNIT/LOW I1; VBS and WxS are NONE/I0. The verified envelope is 28 stories / 52 scenes / 1,519 records: eight core chapters, ten card halves, and ten areas. No guilt cure, safe workload, settled career, restored family, paternal recognition, Mafuyu return, taste recovery, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0115 to EVENT_0116; EVENT_0117 is next and 24 events remain through EVENT_0140.
 
@@ -1761,3 +1771,7 @@ The verified group contains eight core chapters, ten card halves, and six areas:
 ### EVENT_0116 source and reconstruction review
 
 The verified group contains eight core chapters, ten card halves, and ten areas: 28 stories / 52 scenes / 1,519 records. Kanade receives an I3 successor and two family relationships receive bounded authority. Resolved guilt, safe self-care, a decided future, restored family life, paternal recognition, Mafuyu’s return, taste recovery, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0117 source and reconstruction review
+
+The verified group contains 24 stories / 39 scenes / 1,500 records. No completed guarded disclosure, universal acceptance, permanent safety, Mafuyu taste or preference recovery, new professional status, globally shared SEKAI identity, or complete reconstruction is certified.

@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0116
+## Current state — founded units synchronized through EVENT_0117
 
-All five human units now track the same continuous event history through `EVENT_0116`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0116 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0117`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0117 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0116 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0117 committed boundary
+
+**EVENT_0117 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MZ-E0093-01 → MZ-E0117-01` advances Mizuki into an enacted preference-support rule grounded in their sister's fear-respecting acceptance; `REL-FAMILY-MIZUKI-SISTER-E0068 → REL-FAMILY-MIZUKI-SISTER-E0117` integrates reciprocal creative influence and present distance-stable care. Leo/need receives high I2 application through Shiho's recipient-owned use and sibling gift; MMJ receives Shizuku's bounded receipt. The verified envelope is 24 stories / 39 scenes / 1,500 records. No completed guarded disclosure, universal acceptance, permanent safety, Mafuyu taste or preference recovery, new professional status, globally shared SEKAI identity, or complete reconstruction is certified. The boundary advances EVENT_0116 to EVENT_0117. EVENT_0118 is next and 23 events remain through EVENT_0140.
+
+The [EVENT_0117 reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0117_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 2 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0116 committed boundary
 
 **EVENT_0116 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `K-E0089-01 → K-E0116-01` advances Kanade from protection under persistent penance into an enacted capacity to preserve personal longing beside rescue work: she reconstructs early creative pleasure and family warmth, composes from the wish for renewed recognition, shares the result, and voices the wish to her father. New one-sided I3 `REL-FAMILY-KANADE-FATHER-E0116` integrates loving origin, catastrophic guilt, present care, and permitted hope without claiming paternal receipt. New bounded I2 `REL-FAMILY-MAFUYU-FATHER-E0116` records honest taste-loss disclosure inside repeated voluntary visits. Preserve the other N25 humans, group, dyads, and Empty singers proportionally. LN and MMJ are CROSS_UNIT/LOW I1; VBS and WxS are NONE/I0. The verified envelope is 28 stories / 52 scenes / 1,519 records: eight core chapters, ten card halves, and ten areas. No guilt cure, safe workload, settled career, restored family, paternal recognition, Mafuyu return, taste recovery, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0115 to EVENT_0116; EVENT_0117 is next and 24 events remain through EVENT_0140.
 
@@ -533,13 +539,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0116`. Kanade’s permitted-desire successor and two bounded family relationship records are integrated from the complete 28-story envelope. `EVENT_0117` is next; 24 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0117`. Mizuki's preference-support successor and reciprocal sister relationship are integrated; Shiho and Shizuku receive bounded I2 applications. `EVENT_0118` is next; 23 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0116` for all five human units. The EVENT_0116–0140 continuation is active with 24 events remaining. Source availability extends beyond this boundary but does not alter current analytical authority until screened and integrated.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0117` for all five human units. The EVENT_0116–0140 continuation is active with 23 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0116_DEEP_READING.md) closes `EVENT_0116 — あの日、奏でた音色を`, bucket `RB_20231220T060000Z`: eight core chapters, cards `0833–0837` both halves, and ten areas. Kanade receives one I3 successor; the family records remain explicitly asymmetric and bounded.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0117_DEEP_READING.md) closes `EVENT_0117 — 変わらぬあたたかさの隣で`, bucket `RB_20231231T060000Z`: 24 stories / 39 scenes / 1,500 records. Mizuki's preference-support successor and reciprocal sister relationship are integrated; Shiho and Shizuku receive bounded I2 applications.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
