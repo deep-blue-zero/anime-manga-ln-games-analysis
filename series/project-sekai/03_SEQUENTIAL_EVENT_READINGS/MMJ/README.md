@@ -58,3 +58,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0111 — その手導くぬくもりは](PJSK_EVENT_0111_DEEP_READING.md): complete 25-story envelope; Shizuku gains a choice-support operative, Saito becomes MMJ's mutually accepted manager, and Saito's family converts inherited expectation into explicit permission and succession alternatives.
 
 - [EVENT_0122 — 刻まれた傷は、やがて](PJSK_EVENT_0122_DEEP_READING.md): complete 27-story envelope; Minori serves an audience she cannot satisfy by substitution, and MMJ earns a physical home for its freelance work.
+
+- [EVENT_0130 — いつか花咲くステージへ](PJSK_EVENT_0130_DEEP_READING.md): complete 30-story World Link envelope; returned audience hope blooms into a Stage flower field and a shared MMJ growth criterion.

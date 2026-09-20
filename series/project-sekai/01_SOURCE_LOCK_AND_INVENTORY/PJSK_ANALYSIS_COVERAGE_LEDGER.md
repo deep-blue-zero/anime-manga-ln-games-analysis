@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0129
+## Current coverage — all five human units synchronized through EVENT_0130
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0129 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0129`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0130 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0130`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0129 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0130 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0130 is fully integrated:** new I3 `EPI-MMJ-STAGE-FLOWERS-E0130` records the responsive path, flower field, distant stage, and member-specific audience memories as bounded material evidence of hope received. `MMJ-REL-GROUP-E0122 → MMJ-REL-GROUP-E0130` advances the secured work base into a shared long-range direction governed by hope delivery across changing forms, new and existing viewers, and the still-future dome horizon. Current member, Saito, and Stage owners receive strong I2 applications. The verified envelope is 30 stories / 54 scenes / 1,845 records. No deterministic flower symbolism, omniscient or repeatable memory mechanism, guaranteed audience conversion, unanimous old-fan retention, booked or completed dome live, stable mass fame, permanent workload safety, completed new stream, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0129 to EVENT_0130. EVENT_0131 is next and 10 events remain through EVENT_0140.
+
+Causal home: [EVENT_0130 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0130_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0130: 30 stories / 54 scenes / 1,845 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! is PRIMARY/VERY HIGH I3. Create `EPI-MMJ-STAGE-FLOWERS-E0130` and advance `MMJ-REL-GROUP-E0122 → MMJ-REL-GROUP-E0130`. Preserve `MMJ-EP-MN-E0122`, `MMJ-EP-HR-E0094`, `MMJ-EP-AI-E0092`, `MMJ-EP-SZ-E0111`, `MMJ-REL-GROUP-SAITO-E0111`, and Stage-local topology at strong I2. Leo/need, Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0130; EVENT_0131 is next and 10 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0129 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0129 is fully integrated:** `VBS-EP-AN-E0097 → VBS-EP-AN-E0129` records disclosure and action through comparative fear; `VBS-REL-KH-AN-E0037 → VBS-REL-KH-AN-E0129` records reciprocal rivalry as part of partnership; `VBS-REL-STREET-AUDIENCE-E0109 → VBS-REL-STREET-AUDIENCE-E0129` records witnessed vulnerability, renewed endorsement, and returned participation. An wins this duel, while fear and the final RAD challenge remain open. The verified envelope is 27 stories / 54 scenes / 1,649 records. No permanent fear cure, fixed skill rank, equal ability, endlessly safe competition, compulsory-duel rule, complete An–Ken repair, restored Nagi future, unanimous or durable Street coalition, completed RAD challenge, surpassed RAD WEEKEND, professional status, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0128 to EVENT_0129. EVENT_0130 is next and 11 events remain through EVENT_0140.
 
@@ -1943,3 +1953,7 @@ The verified group contains 27 stories / 46 scenes / 1,481 records. No universal
 ### EVENT_0129 source and reconstruction review
 
 The verified group contains 27 stories / 54 scenes / 1,649 records. No permanent fear cure, fixed skill rank, equal ability, endlessly safe competition, compulsory-duel rule, complete An–Ken repair, restored Nagi future, unanimous or durable Street coalition, completed RAD challenge, surpassed RAD WEEKEND, professional status, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0130 source and reconstruction review
+
+The verified group contains 30 stories / 54 scenes / 1,845 records. No deterministic flower symbolism, omniscient or repeatable memory mechanism, guaranteed audience conversion, unanimous old-fan retention, booked or completed dome live, stable mass fame, permanent workload safety, completed new stream, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
