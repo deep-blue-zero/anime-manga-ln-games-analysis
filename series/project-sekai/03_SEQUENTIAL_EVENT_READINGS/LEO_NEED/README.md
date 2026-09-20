@@ -11,6 +11,12 @@ do_not_use_as_current_authority: false
 
 # LEO_NEED
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current ordered authority
+
+[Leo/need EVENT_0029–0090 backfill checkpoint](PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) resolves every formerly deferred founded-unit route and every documentary I0 cell in that interval. Together with the integrated EVENT_0001–0028 and EVENT_0091–0098 histories, Leo/need now has continuous event-history tracking through `EVENT_0098`. Older deferred statements below preserve their historical transaction boundaries and are superseded for current coverage by this checkpoint.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 This directory was empty in the supplied analytical corpus at import time. It now contains complete source-envelope readings and ordered interpretations. The main-story foundation is complete; EVENT_0001 is integrated at LN I2, the bounded EVENT_0002 Honami route at I1 and EVENT_0003 household route at I1, followed by EVENT_0004 at I2; later readings retain their pending baseline-relative dispositions until the intervening history is handled.
 
 - [EVENT_0076 — Echo my melody](PJSK_EVENT_0076_DEEP_READING.md): all 25 canonical surfaces read; Ichika's first completed composition, choice under uncertainty, Honami's production work, audience-sensitive performance and distinct Miku contexts. Leo/need PRIMARY / VERY_HIGH / R3 event-local yield, `DEFERRED_PENDING_FOUNDATION`; N25 CROSS_UNIT / I1 with no successor human state.

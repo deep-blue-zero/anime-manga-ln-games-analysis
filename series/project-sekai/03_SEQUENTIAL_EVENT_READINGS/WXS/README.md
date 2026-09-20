@@ -11,6 +11,12 @@ do_not_use_as_current_authority: false
 
 # WXS
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current ordered authority
+
+[Wonderlands×Showtime EVENT_0029–0090 backfill checkpoint](PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) resolves every formerly deferred founded-unit route and every documentary I0 cell in that interval. Together with the integrated EVENT_0001–0028 and EVENT_0091–0098 histories, Wonderlands×Showtime now has continuous event-history tracking through `EVENT_0098`. Older deferred statements below preserve their historical transaction boundaries and are superseded for current coverage by this checkpoint.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 Current ordered authority: the WxS main-story foundation is complete. EVENT_0001 I1 and EVENT_0002 NONE/I0 precede the integrated EVENT_0003 I3 epistemic transition and EVENT_0004 I3 school-friendship transition. All four human P06 IDs and company P06 remain, with precise event refinements. Later complete-source readings below retain pending chronological interpretation; foundation completion alone does not close their intervening routes.
 
 This directory mirrors an empty folder in the supplied Project SEKAI Drive analytical corpus at import time. This README preserves the folder in Git; it is not a completed analytical artifact.

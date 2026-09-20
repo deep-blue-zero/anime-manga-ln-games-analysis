@@ -13,6 +13,23 @@ do_not_use_as_current_authority: false
 
 # Project SEKAI Analysis Coverage Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current coverage — all five human units synchronized through EVENT_0098
+
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0098 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0098`.
+
+Artifacts:
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Authoritative release-impact matrix](../04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090)
+- [Routing resolution](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#current-founded-unit-backfill--event_00290090)
+
+This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 
 ## Purpose
 

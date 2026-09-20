@@ -15,6 +15,26 @@ mutable: true
 
 # Project SEKAI Claim Revision Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current founded-unit claim backfill — EVENT_0029–0090
+
+The backfill routes every non-N25 material event through claim review. I3 rows add or revise the named durable rule; I2 rows revise or strongly strengthen an existing interpretation; I1 rows preserve the governing model while adding evidence. I0 rows are explicit PRESERVE dispositions.
+
+| Unit | NEW/REVISE I3 events | REVISE/STRENGTHEN I2 events | PRESERVE/STRENGTHEN I1 events |
+|---|---|---|---|
+| Leo/need | `EVENT_0034`, `EVENT_0040`, `EVENT_0056`, `EVENT_0065`, `EVENT_0069`, `EVENT_0076`, `EVENT_0083` | `EVENT_0033`, `EVENT_0042`, `EVENT_0045`, `EVENT_0046`, `EVENT_0047`, `EVENT_0048`, `EVENT_0050`, `EVENT_0051`, `EVENT_0054`, `EVENT_0055`, `EVENT_0063`, `EVENT_0070`, `EVENT_0072`, `EVENT_0075`, `EVENT_0077`, `EVENT_0080`, `EVENT_0081`, `EVENT_0084`, `EVENT_0085`, `EVENT_0087`, `EVENT_0088`, `EVENT_0090` | `EVENT_0030`, `EVENT_0049`, `EVENT_0052`, `EVENT_0060`, `EVENT_0073`, `EVENT_0078`, `EVENT_0079`, `EVENT_0082`, `EVENT_0089` |
+| MORE MORE JUMP! | `EVENT_0052`, `EVENT_0057`, `EVENT_0078`, `EVENT_0085` | `EVENT_0031`, `EVENT_0033`, `EVENT_0036`, `EVENT_0043`, `EVENT_0045`, `EVENT_0047`, `EVENT_0048`, `EVENT_0050`, `EVENT_0051`, `EVENT_0054`, `EVENT_0060`, `EVENT_0063`, `EVENT_0067`, `EVENT_0072`, `EVENT_0073`, `EVENT_0075`, `EVENT_0080`, `EVENT_0081`, `EVENT_0083` | `EVENT_0029`, `EVENT_0041`, `EVENT_0049`, `EVENT_0068`, `EVENT_0076`, `EVENT_0077`, `EVENT_0084`, `EVENT_0086`, `EVENT_0087`, `EVENT_0090` |
+| Vivid BAD SQUAD | `EVENT_0037`, `EVENT_0066`, `EVENT_0071`, `EVENT_0079`, `EVENT_0086` | `EVENT_0029`, `EVENT_0036`, `EVENT_0041`, `EVENT_0044`, `EVENT_0045`, `EVENT_0049`, `EVENT_0051`, `EVENT_0054`, `EVENT_0055`, `EVENT_0058`, `EVENT_0059`, `EVENT_0060`, `EVENT_0064`, `EVENT_0072`, `EVENT_0075`, `EVENT_0077`, `EVENT_0081`, `EVENT_0083`, `EVENT_0087`, `EVENT_0088`, `EVENT_0090` | `EVENT_0030`, `EVENT_0047`, `EVENT_0048`, `EVENT_0050`, `EVENT_0052`, `EVENT_0076` |
+| Wonderlands×Showtime | `EVENT_0038`, `EVENT_0046`, `EVENT_0055`, `EVENT_0066`, `EVENT_0074`, `EVENT_0088` | `EVENT_0032`, `EVENT_0036`, `EVENT_0048`, `EVENT_0051`, `EVENT_0054`, `EVENT_0058`, `EVENT_0062`, `EVENT_0070`, `EVENT_0072`, `EVENT_0075`, `EVENT_0081`, `EVENT_0082`, `EVENT_0083`, `EVENT_0084`, `EVENT_0087`, `EVENT_0090` | `EVENT_0030`, `EVENT_0050`, `EVENT_0056`, `EVENT_0061`, `EVENT_0069`, `EVENT_0076`, `EVENT_0079`, `EVENT_0086` |
+
+The unit checkpoints state the bounded consequence and evidence authority for every listed event. Later EVENT_0091–0098 claim actions remain later historical operations and are not rewritten by this backfill.
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 ## Current EVENT_0098 checkpoint
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.

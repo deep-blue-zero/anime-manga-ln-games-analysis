@@ -13,6 +13,21 @@ do_not_use_as_current_authority: false
 
 # Project SEKAI Analytical Corpus Map
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current state — founded units synchronized through EVENT_0098
+
+All five human units now track the same continuous event history through `EVENT_0098`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0098 readings remain authoritative at their own cutoffs.
+
+- [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Release-impact matrix](04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090)
+- [Routing resolution](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#current-founded-unit-backfill--event_00290090)
+
+Older statements that a non-N25 route was deferred preserve the entering state of those historical transactions and are superseded for current coverage by these checkpoints. Reconstruction packages and synthesis completion remain separate work.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 
 ## Purpose
 

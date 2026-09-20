@@ -15,6 +15,24 @@ mutable: true
 
 # Project SEKAI Theme and Motif Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current founded-unit theme backfill — EVENT_0029–0090
+
+The synchronized interval strengthens four unit-specific thematic chains without flattening them into a franchise-wide claim:
+
+- **Leo/need:** self-authored musical purpose, audience-directed creation, painful autobiographical material, full expression under skill asymmetry, and professional costs chosen by the performers.
+- **MORE MORE JUMP!:** recipient-preserving help, person-specific visibility, imposed image versus self-authored presentation, distributed idol labor, public accountability and larger collective aspiration.
+- **Vivid BAD SQUAD:** inherited scene history, contribution through chosen skill, solitary proof versus socially enabled growth, supported competence, comparative pressure and recipient-directed composition.
+- **Wonderlands×Showtime:** dream generation plus implementation reality, performance as perspective taking, safety and self-risk, present attachment versus future opportunity, uneven embodied learning and responsive collaboration.
+
+Cross-unit festivals, craft, seasonal ritual and Virtual Singer care remain context-specific recurrence evidence. They do not collapse separate manifestations, guarantee outcomes or erase unresolved conflict. The event-level I2/I3 owners are enumerated in the claim and release-impact ledgers.
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 ## Current EVENT_0098 checkpoint
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.

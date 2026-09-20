@@ -13,6 +13,19 @@ mutable: true
 
 # Project SEKAI Event Relevance and Routing Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current founded-unit backfill — EVENT_0029–0090
+
+The four non-N25 human-unit foundations have now consumed every retained route from `EVENT_0029` through `EVENT_0090`. The final consequence judgments live in the release-impact ledger and the four unit checkpoints below. Together they resolve **310 unit-event cells** across the five human units; every cell is I0, I1, I2 or I3.
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+
+Older route blocks and event readings retain `DEFERRED_PENDING_FOUNDATION` as an entering-state annotation. That status is superseded for every human-unit route through `EVENT_0090` by these checkpoints. It remains useful provenance for showing why the evidence was preserved before the foundations existed; it is no longer a current gap. EVENT_0091–0098 dispositions were already integrated separately and remain authoritative.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 
 ## Current routing authority — EVENT_0098 fully integrated
 
