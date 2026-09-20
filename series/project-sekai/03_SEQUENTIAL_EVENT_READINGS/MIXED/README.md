@@ -36,3 +36,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0108 — ハロー・グッド・デイ！](PJSK_EVENT_0108_DEEP_READING.md): complete 28-story ensemble envelope; Ichika directly enacts `LN-EP-ICHIKA-E0101`, Kanade receives ordinary motivation, and all five groups advance proportionally at I2 without a new I3 owner.
 
 - [EVENT_0115 — あっちこっち飼育員体験！](PJSK_EVENT_0115_DEEP_READING.md): complete 24-story ensemble envelope; MMJ and LN deepen animal-care, safety, chosen-leisure, and Stage-local continuity at I2 without a new I3 owner.
+
+- [EVENT_0120 — Take the Best Shot！](PJSK_EVENT_0120_DEEP_READING.md): complete 23-story envelope; two cross-unit teams turn a photo contest into specific craft growth, reciprocal recognition, and shared memory.

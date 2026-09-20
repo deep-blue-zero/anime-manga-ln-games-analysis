@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0119
+## Current coverage — all five human units synchronized through EVENT_0120
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0119 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0119`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0120 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0120`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0119 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0120 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0120 is fully integrated as a mixed high-I2 event:** Kohane/Toya/Haruka and Ena/Airi/Shizuku complete rival photo projects whose specific comparison raises both works. New bounded I2 `REL-CROSS-KOHANE-ENA-E0120` records direct competition, mutual acknowledgment, accepted result, prize transfer, and a shared candid memory; existing character and group authorities remain in force. The verified envelope is 23 stories / 55 scenes / 1,636 records. No new I3 operative, universal artistic ranking, professional photography or modeling status, permanent cross-unit team, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0119 to EVENT_0120. EVENT_0121 is next and 20 events remain through EVENT_0140.
+
+Causal home: [EVENT_0120 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0120_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0120: 23 stories / 55 scenes / 1,636 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- No new I3 owner. Create bounded I2 `REL-CROSS-KOHANE-ENA-E0120`. Preserve `VBS-EP-KH-E0103`, `E-E0070-01`, `MMJ-EP-HR-E0094`, `REL-CROSS-ENA-AIRI-E0022`, VBS/MMJ/N25 group authorities, and local singer routes. Vivid BAD SQUAD, Nightcord at 25:00, and MORE MORE JUMP! are CO_PRIMARY/HIGH I2; Leo/need is REPORTED_CONTEXT/LOW I1; Wonderlands×Showtime is NONE/I0.
+- The shared boundary is EVENT_0120; EVENT_0121 is next and 20 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0119 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0119 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH. New I3 `WXS-EP-RUI-E0119` records medium-aware, performer-specific diagnosis and Rui's capacity to treat a better executed solution as knowledge. New bounded `WXS-REL-RUI-OHARA-E0119` records supervised production work, convergent diagnosis, credit, result receipt, and an open return channel. The verified envelope is 23 stories / 37 scenes / 1,363 records. No film mastery, formal employment, permanent apprenticeship, universal rule that silence is superior, completed future collaboration, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0118 to EVENT_0119. EVENT_0120 is next and 21 events remain through EVENT_0140.
 
@@ -1803,3 +1813,7 @@ The verified group contains 35 stories / 62 scenes / 1,667 records. No surpassed
 ### EVENT_0119 source and reconstruction review
 
 The verified group contains 23 stories / 37 scenes / 1,363 records. No film mastery, formal employment, permanent apprenticeship, universal rule that silence is superior, completed future collaboration, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0120 source and reconstruction review
+
+The verified group contains 23 stories / 55 scenes / 1,636 records. No new I3 operative, universal artistic ranking, professional photography or modeling status, permanent cross-unit team, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
