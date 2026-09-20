@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0113
+## Current state — founded units synchronized through EVENT_0114
 
-All five human units now track the same continuous event history through `EVENT_0113`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0113 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0114`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0114 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0099–0115 continuation — EVENT_0113 committed boundary
+### EVENT_0099–0115 continuation — EVENT_0114 committed boundary
+
+**EVENT_0114 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with new I3 `WXS-EP-NENE-E0114`, a tested collaborative-directing method that replaces type-based distance with person-specific inquiry, distributes work around actual skill and desire, coaches anxiety through experience, and answers disruption by recombining team resources while protecting participants from avoidable blame and regret. New scoped I3 `WXS-REL-NENE-CLASSMATES-E0114` records reciprocal movement from unfamiliar crowd to differentiated collaborators and continuing ordinary companions. Preserve `WXS-EP-NENE-E0095` separately as Nene's own musical-acting authority. VBS is CO_PRIMARY/HIGH I2 through An, Akito, and Toya's direct production work; N25 is CROSS_UNIT/MEDIUM I2 through Mizuki's bounded costume teaching; LN and MMJ are NONE/I0. The verified envelope is 23 stories / 54 scenes / 1,600 records: eight core chapters, ten card halves, and five linked areas. No permanent directing mastery, universal social ease, equal intimacy with every classmate, guaranteed future continuity, professional film status, new VBS or N25 operative, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0113 to EVENT_0114; EVENT_0115 is next and 1 event remains through the goal boundary.
+
+The [EVENT_0114 reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0114_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 16 of the EVENT_0099–0115 goal sequence. The boundary advances from EVENT_0113 to EVENT_0114; EVENT_0115 is next and 1 event remains.
+
+### Historical continuation — EVENT_0113 committed boundary
 
 **EVENT_0113 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with new I3 `WXS-EP-TSUKASA-E0113`, a tested sparse-role method that combines historical research, multiple imagined life histories, collaborative selection, embodiment, audience testing, and explicit diagnosis of overpresence within the whole play. New scoped I3 `WXS-REL-TSUKASA-REKI-E0113` records reciprocal craft change: Reki supplies method and collaboration; Tsukasa's response helps Reki stop treating lead/support labels as fixed moral categories and accept a film lead. Preserve `WXS-MS-TSUKASA-P06`, `REL-WXS-G-E0104`, the other three current humans, and Wonderland singer topology. Leo/need is CROSS_UNIT/MEDIUM I2 through Saki–Tsukasa support; MMJ, VBS, and N25 are NONE/I0. The verified envelope is 24 stories / 39 scenes / 1,592 records: eight core chapters, ten card halves, five linked areas, and one December Wonderland area. No permanent mastery, perfect ensemble balance, canonical truth of invented biographies, Harunaza membership, completed film, permanent mentorship, professional status, safe workload, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0112 to EVENT_0113; EVENT_0114 is next and 2 events remain through EVENT_0115.
 
@@ -515,13 +521,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0113`. The complete 24-story envelope creates Tsukasa's sparse-role acting method and the reciprocal Tsukasa–Reki professional relation. EVENT_0114 is next; 2 events remain through EVENT_0115.
+`ANALYSIS_CURRENT` is `EVENT_0114`. The complete 23-story envelope creates Nene's person-specific collaborative-directing method and the reciprocal Nene–classmates integration owner. EVENT_0115 is next; 1 event remains through the goal boundary.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0113` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0114` for all five human units. Source availability extends beyond this boundary but does not alter current analytical authority until each event is screened and integrated.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0113_DEEP_READING.md) closes `EVENT_0113 — 君が主役の物語を`, bucket `RB_20231122T060000Z`: eight core chapters, cards `0791–0795` both halves, five linked areas, and one December Wonderland area. Tsukasa and the Tsukasa–Reki professional relation receive distinct I3 responsibility.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0114_DEEP_READING.md) closes `EVENT_0114 — 最高のクランクアップ！`, bucket `RB_20231130T060000Z`: eight core chapters, cards `0796–0800` both halves, and five linked areas. Nene's directing method and her reciprocal classmate integration receive distinct I3 responsibility.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
