@@ -60,12 +60,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Airi analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Airi analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Airi analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Aizawa Shota
@@ -1689,12 +1693,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Haruka analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Haruka analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Haruka analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Harumi Kajika
@@ -3519,12 +3527,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Minori analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Minori analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Minori analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Misaki Nagisa
@@ -4824,12 +4836,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Shizuku analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Shizuku analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Shizuku analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Shoji Mezo
