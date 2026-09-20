@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0142
+current_event_boundary: EVENT_0143
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0142
+## Current state — founded units synchronized through EVENT_0143
 
-All five human units now track the same continuous event history through `EVENT_0142`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0142 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0143`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0143 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,11 +235,17 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0142 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0143 committed boundary
+
+**EVENT_0143 is fully integrated:** `LN-EP-ICHIKA-E0128 → LN-EP-ICHIKA-E0143` advances recipient-led creation into song-by-song professional authorship through detected value conflict, reconstructed musical and relational history, consultation with band and intended singer, rejection of a blanket versioning mandate, acceptance of one aligned tie-in, and explicit willingness to bear a harder professional path. New scoped I3 `LN-REL-ICHIKA-SCHOOL-MIKU-E0143` records childhood cultural-Miku mediation without identity collapse, a current friend/mentor relationship, reciprocal valuation of Ichika's songs, non-coercive counsel, and returned decision authority. `LN-REL-SOLIS-E0128 → LN-REL-SOLIS-E0143` adds time for deliberation, producer/manager role separation, conviction-sensitive advocacy, manager-backed song-by-song autonomy, and a warned cost. `LN-EP-HONAMI-E0121`, `LN-REL-G-E0137`, and `LN-REL-ICHIKA-SAKI-E0128` receive strong I2 support. The verified envelope is 24 stories / 44 scenes / 1,351 records. No completed tie-in song or commercial, shown company-wide acceptance or durable implementation of the policy, Jam Fest result, future sales, chart success, stable mass fame, total workload safety, global Miku identity, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0142 to EVENT_0143. EVENT_0144 is next; 26 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+The [EVENT_0143 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0143_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record the compact EVENT_0141–0143 package deltas for the next synthesis checkpoint.
+
+### Historical continuation — EVENT_0142 committed boundary
 
 **EVENT_0142 is fully integrated:** `MMJ-EP-HR-E0133 → MMJ-EP-HR-E0142` advances tested producer judgment into recipient-responsive public challenge through audience-need detection, public-risk review, collective and fan explanation, tailored and scalable preparation, visible effort, contingency adaptation, and recipient receipt independent of victory. `REL-CROSS-HARUKA-AN-E0004 → REL-CROSS-HARUKA-AN-E0142` advances childhood closest-friend/rival memory and bounded present advice into consequential consultation, volunteered network labor, calibrated live intervention, reciprocal trust, public support, and ordinary follow-up. MMJ group, Akito, Tsukasa, and Stage MEIKO owners receive strong/local I2 support. The verified envelope is 23 stories / 43 scenes / 1,625 records. No causal explanation for the missing work mail, universal training-safety rule, safe personal pacing, guaranteed audience conversion, victory, professional athletic status, permanent mixed team, broad fame, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0141 to EVENT_0142. EVENT_0143 is next; 27 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
-The [EVENT_0142 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0142_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record the compact EVENT_0141–0142 package deltas for the next synthesis checkpoint.
+The [EVENT_0142 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0142_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers remain historical EVENT_0142 authority.
 
 ### Historical continuation — EVENT_0141 committed boundary
 
@@ -699,13 +705,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0142`. Haruka now owns a recipient-responsive public-challenge method whose proof is a recipient's chosen retry rather than victory, and her relation with An now includes consequential current consultation, calibrated intervention, reciprocal trust, and ordinary follow-up. `EVENT_0143` is next; 27 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
+`ANALYSIS_CURRENT` is `EVENT_0143`. Ichika now owns a song-by-song professional-authorship method; her scoped relation with School Miku includes reciprocal valuation and returned authority, while Solis management backs the harder policy and one aligned tie-in. `EVENT_0144` is next; 26 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0142` for all five human units. The EVENT_0141–0170 continuation is active.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0143` for all five human units. The EVENT_0141–0170 continuation is active.
 
 `RECONSTRUCTION_CURRENT` is provisional generation 1 through `EVENT_0140`: 20 principal-human packages, 60 package artifacts, and one cross-character readiness audit. Every principal human independently passes `R3_RECONSTRUCTION_READY` for bounded textual scenario use; none passes R4 or performed-voice readiness. Event-local `reconstruction_yield` annotations remain evidence-yield assessments and are not themselves the certification. Unit and warranted specialist syntheses, full-series synthesis, later-generation contradiction work, and protected integration remain separate dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0142_DEEP_READING.md) closes `EVENT_0142 — 鍛えてFLY！Muscle Training！`, bucket `RB_20240910T060000Z`: 23 stories / 43 scenes / 1,625 records. Haruka's producer judgment now extends through governed public challenge, tailored preparation, adaptation, and recipient-chosen uptake independent of victory; her An relation becomes current and consequential.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0143_DEEP_READING.md) closes `EVENT_0143 — This moment with you！`, bucket `RB_20240920T060000Z`: 24 stories / 44 scenes / 1,351 records. Ichika's recipient-led creation now extends through song-specific professional choice; School Miku returns authority through reciprocal counsel, and Shindo backs the harder policy while one aligned tie-in proceeds.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
