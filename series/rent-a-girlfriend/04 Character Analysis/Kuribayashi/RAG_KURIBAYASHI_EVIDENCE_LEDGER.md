@@ -4,13 +4,13 @@ artifact_id: RAG_KURIBAYASHI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; character evidence inspected through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; character evidence inspected through V022, with no material V021 conduct."
 ---
 
 # Kuribayashi evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V022
 local_readiness: UNMODELED
 ~~~
 
@@ -47,6 +47,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KUR-E006 | KUR-S003 | RAG-E-V005-009, RAG-E-V005-010 | Paid date and truth discovery; service context | Attends a Kazuya-funded date with Chizuru and learns that she is also a rental girlfriend. | Gains comparison evidence that reframes his humiliation as part of a wider concealed system. | The date is a repair intervention and cannot establish ordinary provider preference. | none; model withheld |
 | RAG-KUR-E007 | KUR-S003 | RAG-E-V005-011, RAG-E-V005-012 | Direct confession, anger, and friendship repair | Hears Kazuya confess his own rental deception and accepts the repair because Kazuya exposes comparable shame; Chizuru's knowing participation is also visible. | Responds to costly self-disclosure rather than being told only that his feelings were mistaken. | Acceptance of this event does not establish durable trust or response to later deception. | none; model withheld |
 | RAG-KUR-E008 | KUR-S004 | RAG-E-V020-004 | University routine and widened peer network; ordinary contact | Meets Mini when university resumes and hears her call Kazuya “Master.” | Encounters a new visible relation around Kazuya without receiving its full history. | No reaction is developed enough to infer a new pattern. | none; model withheld |
+| RAG-KUR-E009 | KUR-S005 | RAG-E-V022-008, RAG-E-V022-009 | Family-trip inclusion and contradictory status display; information use | Joins the Hawaiians group, sees Ruka cling to Kazuya, and privately asks why she is present. | Applies his prior rental knowledge to recognize a current account conflict. | He does not yet know the complete trial, breakup, or Chizuru evidence history. | none; model withheld |
+| RAG-KUR-E010 | KUR-S005 | RAG-E-V022-009 | Friend request and split-audience containment; secrecy management | Receives Kazuya's plea to manage what Kuribayashi knows while Kibe and Nagomi retain the public story. | Becomes an active participant in local information containment. | Compliance under pressure does not prove approval or a general secrecy preference. | none; model withheld |
+| RAG-KUR-E011 | KUR-S005 | RAG-E-V022-020 | Direct probe to Mami; continuing rental context | Asks Mami whether she knows Chizuru and whether Chizuru still performs rental-girlfriend work. | Tests another partly informed traveler rather than relying only on Kazuya's account. | Mami's limited answer does not give him the full network or establish coordination. | none; model withheld |
 
 ## State-change summary
 
@@ -54,6 +57,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - KUR-S002 — hurt observer: later service context and the sight of Ruka with Kazuya contribute to distress.
 - KUR-S003 — recipient of bounded truth and repair: learns Chizuru's provider role, hears Kazuya expose his own shame, expresses anger, and accepts a local friendship repair.
 - KUR-S004 — later peer-network witness: returns in V020 to meet Mini without enough conduct for a new general rule.
+- KUR-S005 — informed trip participant managing a split audience: recognizes Ruka's contradictory presence, accepts Kazuya's containment request, and independently probes Mami about Chizuru's continuing rental work.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -63,10 +67,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 
 ## Gaps and negative evidence
 
-- His given name is not established through V020.
+- His given name is not established through V022.
 - The manga does not provide his full understanding of Ruka's motives, the contract, or the later Kazuya–Ruka provisional relation.
 - One successful repair does not establish a general forgiveness rule or durable friendship outcome.
-- V006-V019 provide no material new conduct, and V020 supplies only a brief peer encounter.
+- V006-V019 and V021 provide no material new conduct; V020 supplies a brief peer encounter, and V022 supplies one concentrated information-management sequence.
 - The evidence supports a dedicated ledger but not behavioral generalization across contexts.
 
 ## Update rule

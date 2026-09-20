@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.21"
+version: "1.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V021
-row_count: 121
-state: CURRENT_THROUGH_V021
+inspected_through_volume: V022
+row_count: 127
+state: CURRENT_THROUGH_V022
 ```
 ```
 
@@ -164,3 +164,9 @@ state: CURRENT_THROUGH_V021
 | RAG-PRG-119 | Mami's family and Chizuru routes | EVIDENCE_CONSOLIDATION_AND_DIRECT_INTERVENTION — public project data and apartment residue support a direct meeting, alliance claim, and Nagomi call. | Mami moves from plausible access to coordinated pressure across principal and family audiences. | Her final motive, proposed method, and call content remain unknown. | RAG-E-V021-001, RAG-E-V021-018 through RAG-E-V021-024 |
 | RAG-PRG-120 | Deception-correction pressure | MAJOR_PRESSURE_INCREASE — Chizuru identifies leakage, Kibe makes honesty a duty to Nagomi, and Mami offers to end the arrangement. | Multiple routes now converge on correction of the public couple account. | No full disclosure occurs, and each actor holds a different information set. | RAG-E-V021-014 through RAG-E-V021-021 |
 | RAG-PRG-121 | Kazuya's ordinary functioning | REGRESSION_UNDER_RELATIONSHIP_PRESSURE — repeated confession rehearsal, increased Ruka messaging, and a displayed score decline make immediate functional cost visible. | Romantic and deception strain now affects study performance in the sampled interval. | One score comparison cannot establish a durable academic decline or isolate one cause. | RAG-E-V021-022 |
+| RAG-PRG-122 | Ruka separation and consent | SEVERE_REGRESSION_THROUGH_COERCIVE_ESCALATION — after Kazuya's explicit withdrawal, Ruka attempts overnight access, forces another kiss, and fabricates evidence of sex. | The earlier ambiguous trial is no longer a sufficient description of the represented conduct; refusal and deception are explicit. | Ruka's sincere attachment does not mitigate the consent breach or make the false claim true. | RAG-E-V022-001 through RAG-E-V022-006 |
+| RAG-PRG-123 | Kazuya-Chizuru coordination | OPERATIONAL_GAIN_WITH_CLASSIFICATION_STALL — they share the ring problem, agree to get through the trip, and recognize a confession attempt, but do not complete it. | Reciprocal planning and mutually legible romantic pressure increase outside a booking. | The alliance remains task-specific, and Chizuru avoids an immediate answer. | RAG-E-V022-010, RAG-E-V022-011, RAG-E-V022-021 through RAG-E-V022-023 |
+| RAG-PRG-124 | Family inclusion and grief support | ACCESS_GAIN_WITH_DECEPTION_COST — Nagomi creates a substantial family trip that Chizuru accepts partly for care and missing family experience. | Chizuru receives chosen-family access and ordinary memory-making after Sayuri's death. | The invitation and ring remain tied to an uncorrected couple premise. | RAG-E-V022-003, RAG-E-V022-004, RAG-E-V022-008, RAG-E-V022-012 |
+| RAG-PRG-125 | Mami's family intervention route | MAJOR ACCESS_GAIN — Mami's Nagomi and venue routes place her inside the shared trip with project knowledge and a retained ending objective. | She can now act before family, peers, rivals, and both principals in one setting. | Exact planning, motive, and intended intervention remain withheld. | RAG-E-V022-014 through RAG-E-V022-019 |
+| RAG-PRG-126 | Deception-correction pressure | COMPOUND ESCALATION — the ring, mixed knowledge sets, Mami's presence, Kibe's family appeal, and Kazuya's broader truth resolve converge at the hotel. | Multiple independent routes can now expose or correct the public account. | No truth correction occurs, and Ruka adds a new falsehood to the system. | RAG-E-V022-008 through RAG-E-V022-011, RAG-E-V022-016 through RAG-E-V022-024 |
+| RAG-PRG-127 | Kazuya's confession route | DIRECT ATTEMPT_WITH_ACTIVE_AVOIDANCE — he imposes a trip deadline and begins answering Chizuru's prior question before she retreats and others interrupt. | The intended confession is now mutually legible in a direct private encounter. | No proposition or response completes; renewed resolve does not ensure execution. | RAG-E-V022-013, RAG-E-V022-019, RAG-E-V022-021 through RAG-E-V022-023 |

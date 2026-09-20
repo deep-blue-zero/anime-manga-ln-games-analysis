@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; character evidence inspected through V021, including negative-evidence review for V011-V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; character evidence inspected through V022, including negative-evidence review for V011-V019."
 ---
 
 # Mami Nanami evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 七海麻美
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V021
+inspected_through_volume: V022
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -59,6 +59,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MAM-E019 | MAM-S006 | RAG-E-V021-018 through RAG-E-V021-020 | Public research, private residue, and direct coherence challenge | Finds the crowdfunding page, approaches Chizuru, probes her work and producer relation, and confirms seeing her bag in Kazuya's room. | Combines documentary and private evidence to test the continuing connection. | Contact evidence does not by itself establish romance, exploitation, or the whole private history. | RAG-MAM-R001, RAG-MAM-R002, RAG-MAM-R006 |
 | RAG-MAM-E020 | MAM-S006 | RAG-E-V021-021 | Former-partner testimony and claimed alliance | Describes her feeling cooling, characterizes Kazuya's post-breakup pursuit as dangerous, warns Chizuru, takes her hand, and offers to end everything together. | Converts personal testimony into a direct intervention proposal. | The account is interested first-person evidence, and the proposal's scope, method, and sincerity remain unknown. | RAG-MAM-R003, RAG-MAM-R004, RAG-MAM-R006 |
 | RAG-MAM-E021 | MAM-S006 | RAG-E-V021-024 | Direct family call; operational continuation | Calls Nagomi at the volume close after the Chizuru meeting. | Moves from mediated family access to direct communication. | The call content and relation to the proposed alliance are withheld. | RAG-MAM-R005, RAG-MAM-R006 |
+| RAG-MAM-E022 | MAM-S007 | RAG-E-V022-014, RAG-E-V022-015 | Prior lodging and family invitation; venue access | Appears at the Hawaiians hotel, explains that her parents know the manager and that she has stayed since the previous day, and is incorporated into Nagomi's group. | Combines an independent venue basis with the active family route to gain sustained shared access. | The exact V021 call content and degree of advance planning remain withheld. | RAG-MAM-R003, RAG-MAM-R005, RAG-MAM-R007 |
+| RAG-MAM-E023 | MAM-S007 | RAG-E-V022-016 through RAG-E-V022-019 | Mixed-audience presence and project-information transfer | Exchanges guarded looks with Chizuru, is recognized by Ruka, retains an intention to end the situation, and is present when Nagomi reveals film knowledge. | Brings earlier evidence and intervention pressure into a shared family setting without immediate full exposure. | Presence and intention do not establish a specific plan, harmful act, or desired endpoint. | RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R007 |
+| RAG-MAM-E024 | MAM-S007 | RAG-E-V022-020 | Limited answer to an informed peer; calibrated disclosure | Responds when Kuribayashi asks whether she knows Chizuru and whether Chizuru still performs rental work. | Gives enough confirmation to preserve coherence while withholding the wider relation network. | The short exchange does not establish an alliance with Kuribayashi or full mutual knowledge. | RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R007 |
 
 ## State-change summary
 
@@ -68,8 +71,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MAM-S004 — contradiction integrator with a dormant family route: receives conflicting Ruka/Kazuya claims, directly observes Chizuru working, challenges her account, and follows the Kinoshita business account.
 - MAM-S005 — family-access operator under a professional account: returns after a long observed gap through Kibe, pitches Nagomi, requests selective secrecy, and promises follow-up.
 - MAM-S006 — evidence-consolidating direct intervener: builds repeat family credibility, combines the public film record with apartment residue, gives Chizuru an interested former-partner account, claims ally status, proposes ending the situation, and calls Nagomi directly.
+- MAM-S007 — embedded trip observer with calibrated disclosure: combines prior resort lodging and the Nagomi route to join the family group, carries project knowledge and an ending objective into the mixed audience, and answers Kuribayashi without revealing her full position.
 
-V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, and V021 makes its use direct without retroactively filling those gaps. Absence from the page is not evidence of inactivity or a stable plan.
+V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, V021 makes its use direct, and V022 converts family and venue access into trip inclusion without retroactively filling the earlier gaps. Absence from the page is not evidence of inactivity or a stable plan.
 
 ## Written-speech and ordinary-conduct notes
 

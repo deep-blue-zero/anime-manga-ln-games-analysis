@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V021; character evidence inspected through V021, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V022; character evidence inspected through V022, with V012-V013 and V019 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V021
+inspected_through_volume: V022
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -91,6 +91,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E051 | RUK-S016 | RAG-E-V020-008 | Ordinary local outing and recognition seeking | Attends separate baths, appears in yukata, asks to be called cute, and accepts practical help with clothing and an umbrella. | Uses lower-stakes ordinary access and direct recognition seeking after the negotiated contact. | Kazuya internally remains in love with Chizuru and does not reciprocally reclassify the trial. | RAG-RUK-R001, RAG-RUK-R008, RAG-RUK-R009 |
 | RAG-RUK-E052 | RUK-S017 | RAG-E-V021-011, RAG-E-V021-012 | Breakup refusal and nonseverability claim | Says she already knows Kazuya loves Chizuru, rejects his direct breakup request, cries, physically presses him, and says her own love and fate claim are sufficient. | Responds to explicit nonreciprocity by denying that the trial can end through his withdrawal. | Sincerity and prior trial status do not create reciprocal love or consent to future contact. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R005, RAG-RUK-R010 |
 | RAG-RUK-E053 | RUK-S017 | RAG-E-V021-012, RAG-E-V021-022 | Declared rule violation and increased monitoring pressure | Says she will violate rental-girlfriend rules repeatedly if needed and increases LINE messaging by roughly fifty percent after the breakup attempt. | Escalates access pressure rather than accepting distance. | Message volume is reported through Kazuya's experience, and later content or response remains unknown. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R010 |
+| RAG-RUK-E054 | RUK-S018 | RAG-E-V022-001, RAG-E-V022-002 | Overnight attempt and forced kiss after withdrawal | Comes to Kazuya's apartment at night, tries to stay, demands an account of his confession plan, and kisses him after he repeats his love for Chizuru. | Converts declared nonseverability into immediate bodily and spatial pressure. | Kazuya does not consent to the kiss or restore the trial; her feeling does not supply either. | RAG-RUK-R001, RAG-RUK-R005, RAG-RUK-R010, RAG-RUK-R011 |
+| RAG-RUK-E055 | RUK-S018 | RAG-E-V022-003, RAG-E-V022-004 | Family-trip entry and direct rival monitoring | Immediately accepts Nagomi's Hawaiians invitation, then questions why Chizuru did not refuse it. | Preserves close access and tests her rival's choice inside a family-care setting. | Nagomi's invitation is not recognition of Ruka's claimed romantic status. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R010 |
+| RAG-RUK-E056 | RUK-S018 | RAG-E-V022-005, RAG-E-V022-006 | Deliberate sexual-evidence fabrication | Shows Chizuru a torn condom wrapper, falsely says she and Kazuya had sex, and privately identifies the lie as a wedge based on suspicion that Chizuru likes him. | Targets the rival's information state with portable material evidence rather than only asserting status. | The sexual event did not occur, and the volume does not show how long the claim succeeds. | RAG-RUK-R002, RAG-RUK-R007, RAG-RUK-R010, RAG-RUK-R011 |
+| RAG-RUK-E057 | RUK-S018 | RAG-E-V022-008, RAG-E-V022-016, RAG-E-V022-025 | Public closeness and trip-group monitoring | Clings to Kazuya before the mixed audience, recognizes Mami as his former girlfriend, and later leads the group toward the pool. | Continues status display while tracking an additional rival inside the shared trip. | Display and group leadership establish no mutual romantic agreement. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R007, RAG-RUK-R011 |
 
 ## State-change summary
 
@@ -111,8 +115,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S015 — truce-bound rival allowing bereavement support while preserving future access: responds sympathetically to Chizuru's loss, discusses encouragement, does not block the immediate plan, and asks Kazuya for an amusement-park outing.
 - RUK-S016 — post-truce pursuer obtaining negotiated local access: asks for reciprocal attention, accepts refusal of overnight travel, substitutes a nearby bath outing, obtains explicit permission for a five-second hug, and seeks ordinary recognition without changing the provisional status.
 - RUK-S017 — rejected-trial terminus resister: acknowledges Kazuya's love for Chizuru but refuses his breakup request, asserts unilateral feeling and fate as sufficient, promises further rule violations, and increases contact pressure.
+- RUK-S018 — coercive rival using fabricated evidence after termination: attempts overnight access, forces another kiss, enters the family trip, monitors Chizuru, and deliberately manufactures a sexual claim and material prop to wedge the pair apart.
 
-V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, V020 shows a request-and-permission consequence, and V021 shows explicit refusal of a breakup with renewed access pressure.
+V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, V020 shows a request-and-permission consequence, V021 shows explicit refusal of a breakup with renewed access pressure, and V022 escalates into forced contact and deliberate sexual-evidence fabrication.
 
 These are evidence configurations, not a diagnosis or a claim that physiology determines emotion.
 
@@ -133,6 +138,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - V017 shows local response to differentiated boundaries: she accepts sunscreen scope, stops a resisted hug, and asks for the narrower first-name privilege, then uses that privilege publicly without revising the larger status goal (RAG-E-V017-001 through RAG-E-V017-004, RAG-E-V017-007).
 - V018 repeats her crisis-redirection pattern: she shows sympathy and allows Kazuya's immediate Chizuru-focused support route, then preserves her own future access through an amusement-park request (RAG-E-V018-016).
 - V020 adds a better consent-form case: she accepts refusal of an overnight trip, narrows the outing, requests a five-second hug, and waits for Kazuya's verbal permission before contact, while continuing status and reciprocity pressure (RAG-E-V020-005 through RAG-E-V020-008).
+- V022 demonstrates that the V020 negotiated form does not generalize under termination and rival threat: Ruka attempts overnight access, forces a kiss, and fabricates material evidence of sex to alter Chizuru's conduct (RAG-E-V022-001 through RAG-E-V022-006).
 - She does not immediately expose the central secret and later explicitly says she never intended to do so, supplying counterevidence to a purely destructive or manipulative model.
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, university visits, and karaoke coworker access are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 

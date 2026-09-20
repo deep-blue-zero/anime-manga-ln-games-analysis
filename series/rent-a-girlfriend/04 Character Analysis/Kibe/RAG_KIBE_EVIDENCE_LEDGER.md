@@ -4,13 +4,13 @@ artifact_id: RAG_KIBE_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; character evidence inspected through V021."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; character evidence inspected through V022."
 ---
 
 # Kibe evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V021
+inspected_through_volume: V022
 local_readiness: UNMODELED
 ~~~
 
@@ -51,6 +51,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KIB-E010 | KIB-S004 | RAG-E-V020-022 | Twitter contact and family introduction; intermediary action | Reports that Mami contacted him and that he brought her into a meeting with Nagomi about smartphone support. | Uses social trust to connect Mami to Kazuya's family. | He lacks Mami's final motive and may not know the significance of their past. | none; model withheld |
 | RAG-KIB-E011 | KIB-S005 | RAG-E-V021-016 | Direct preference question and relationship advice; friendship | Asks Kazuya whether he likes Ruka or Chizuru, accepts Chizuru as the sincere answer, and tells him to value the partner Kibe believes he already has. | Gains accurate preference information and responds with a continuity ethic. | His advice still rests on the false public-couple premise. | none; model withheld |
 | RAG-KIB-E012 | KIB-S005 | RAG-E-V021-017 | Family testimony and truth norm; moral pressure | Describes Nagomi's daily grave visits and prayers for Kazuya's happiness, then condemns lying to someone who cares so deeply. | Converts family knowledge into a direct honesty demand. | He does not know that full truth would expose the rental history and his own earlier interventions. | none; model withheld |
+| RAG-KIB-E013 | KIB-S006 | RAG-E-V022-008 | Family-trip inclusion and mixed-audience presence; ordinary contact | Joins Nagomi's Hawaiians group alongside Kuribayashi, Ruka, Kazuya, and Chizuru. | Brings his public-couple belief into a setting where others hold incompatible private knowledge. | He is not shown learning the rental or trial history. | none; model withheld |
+| RAG-KIB-E014 | KIB-S006 | RAG-E-V022-024 | Distress observation and grief-grounded reminder; friendship | Notices Kazuya is not behaving normally, recalls the earlier breakup concern, and invokes Nagomi's grief and anticipation of the trip. | Repeats moral support as immediate family-duty pressure. | His advice remains calibrated to a genuine-couple model that is false. | none; model withheld |
 
 ## State-change summary
 
@@ -59,6 +61,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - KIB-S003 — rescue interpreter and selective secrecy participant: reads protective action romantically and withholds it from Nagomi while still lacking the rental truth.
 - KIB-S004 — V020 intermediary: connects Mami to Nagomi through his network and accidentally interrupts a confession he does not hear.
 - KIB-S005 — preference-aware but deception-unaware moral adviser: learns that Kazuya chooses Chizuru and invokes relationship care and Nagomi's devotion while still believing the public couple.
+- KIB-S006 — trip companion renewing family-duty pressure: enters the mixed audience without corrected information, notices Kazuya's distress, and invokes Nagomi's grief and trust to reinforce the public relation.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -69,7 +72,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 
 ## Gaps and negative evidence
 
-- Kibe has not been observed receiving the complete rental, provisional-relationship, and deception history through V021.
+- Kibe has not been observed receiving the complete rental, provisional-relationship, and deception history through V022.
 - His V002 intervention is based on a false breakup account; it cannot establish calibrated behavior under full information.
 - The V020 interruption is accidental in the represented evidence and must not be written as intentional prevention.
 - Given name, family life, work, independent goals, broader friendships, and response to correction remain unknown.

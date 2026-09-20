@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.21"
+version: "1.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V021
-row_count: 93
-state: CURRENT_THROUGH_V021
+inspected_through_volume: V022
+row_count: 101
+state: CURRENT_THROUGH_V022
 ```
 
 ## Records
@@ -135,3 +135,11 @@ state: CURRENT_THROUGH_V021
 | RAG-CHR-091 | RAG-E-V021-014 through RAG-E-V021-018 | Chizuru's bag-based inference and co-monitoring proposal precede Kibe's advice; Mami then approaches Chizuru after obtaining the crowdfunding page. | The represented order moves from suspected leakage to family-truth pressure and direct contact. | The precise interval and when Mami first found the public page are unknown. |
 | RAG-CHR-092 | RAG-E-V021-019 through RAG-E-V021-021 | At Mister Donut, Mami explains the search route, confirms the bag observation, gives her former-partner account, and offers an alliance to end the situation. | One continuous meeting supplies the order of disclosures and proposal. | Exact meeting duration and Mami's intended next act are withheld. |
 | RAG-CHR-093 | RAG-E-V021-022 through RAG-E-V021-024 | Kazuya's failed confession attempt and observed study cost precede Nagomi's call, Chizuru's overnight question and batting practice, and Mami's direct call to Nagomi. | End-of-volume order is represented; the family call closes the main narrative. | Destination, trip timing, call content, and Chizuru's completed final thought fall beyond V021. |
+| RAG-CHR-094 | RAG-E-V022-001 through RAG-E-V022-003 | After Kazuya's V021 withdrawal, Ruka comes to his apartment at night, forces a kiss, and is present when Nagomi proposes the family trip. | Immediate continuation from the rejected breakup into the trip invitation is represented. | Exact elapsed days from V021 are not stated. |
+| RAG-CHR-095 | RAG-E-V022-004 through RAG-E-V022-007 | Ruka challenges Chizuru's acceptance, fabricates the sex claim with a condom wrapper, and leaves before Chizuru decides to travel. | Confrontation, deception, private intent, and Chizuru's response occur in that order. | The duration of Chizuru's reflection and how long she retains the wrapper are unstated. |
+| RAG-CHR-096 | RAG-E-V022-008, RAG-E-V022-009 | On the departure day at Ueno, Nagomi reveals Kibe and Kuribayashi as additional travelers; Ruka's public closeness then prompts Kuribayashi's private question. | Same-day travel order is explicit. | The exact calendar date and train schedule are not supplied. |
+| RAG-CHR-097 | RAG-E-V022-010 through RAG-E-V022-013 | During travel and arrival, the ring discussion and get-through agreement precede Chizuru's family-memory account and Kazuya's confession deadline. | Ring, alliance, memory, and resolve form a continuous trip sequence. | Exact transit intervals are not material or stated. |
+| RAG-CHR-098 | RAG-E-V022-014 through RAG-E-V022-017 | At hotel arrival, Mami is revealed after having stayed since the previous day; the group introductions and guarded reactions follow. | Her earlier lodging is explicit relative to the Kinoshita group's arrival. | When Nagomi learned of the lodging and the exact V021 call content remain unknown. |
+| RAG-CHR-099 | RAG-E-V022-018, RAG-E-V022-019 | Nagomi's disclosure of her film knowledge causes Kazuya to recognize compartment collapse and renew immediate confession and truth intent. | Information receipt and his resolve are causally ordered. | When Nagomi first acquired each project fact is not specified. |
+| RAG-CHR-100 | RAG-E-V022-020 through RAG-E-V022-022 | After room assignment, Kuribayashi probes Mami; Kazuya then begins answering Chizuru's earlier question before her bathroom retreat and the others' arrival. | The hotel-room sequence preserves the order of information test, confession attempt, avoidance, and interruption. | Exact room-assignment timing and elapsed minutes are unstated. |
+| RAG-CHR-101 | RAG-E-V022-023 through RAG-E-V022-025 | Kazuya recommits after the failed attempt, Kibe invokes Nagomi's grief, and the group converges at the pool before the main narrative ends. | End-of-volume order is explicit. | Confession, ring, wrapper, and Mami consequences remain beyond V022. |

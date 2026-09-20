@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.21"
+version: "1.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V021
-row_count: 140
-state: CURRENT_THROUGH_V021
+inspected_through_volume: V022
+row_count: 149
+state: CURRENT_THROUGH_V022
 ```
 
 ## Records
@@ -182,3 +182,12 @@ state: CURRENT_THROUGH_V021
 | RAG-AGY-138 | Kibe | Offer generic romance advice or test Kazuya's preference and invoke family responsibility. | Asks whom Kazuya likes, accepts Chizuru as the answer, and argues that honesty is owed to Nagomi. | Makes romantic choice and truth correction morally urgent for Kazuya. | The counsel rests on Kibe's false belief that Chizuru is already Kazuya's real girlfriend; RAG-E-V021-016, RAG-E-V021-017. |
 | RAG-AGY-139 | Mami | Keep accumulated evidence private or confront Chizuru directly. | Researches the public film record, discloses the apartment-bag observation, gives her former-partner account, claims ally status, and offers to end everything together. | Converts information advantage into a direct proposed intervention. | Her testimony is interested and the proposed method and endpoint remain withheld; RAG-E-V021-018 through RAG-E-V021-021. |
 | RAG-AGY-140 | Chizuru and Kazuya | Remain passive under Mami's pressure or form intentions to act. | Chizuru decides to help Kazuya and opens an overnight-access question; Kazuya repeatedly plans confession and truth correction. | Both move toward action as Mami calls Nagomi directly. | No shared plan, completed confession, or response to the call is observed; RAG-E-V021-013, RAG-E-V021-023, RAG-E-V021-024. |
+| RAG-AGY-141 | Ruka | Accept Kazuya's withdrawal and distance, or continue pursuing access. | Comes to his apartment at night, tries to stay, forces a kiss after he repeats his love for Chizuru, and promises continued declarations. | Preserves immediate proximity and her own pursuit through unilateral escalation. | Kazuya's withdrawal remains explicit, and her feeling supplies neither status nor consent; RAG-E-V022-001, RAG-E-V022-002. |
+| RAG-AGY-142 | Nagomi | Leave Chizuru's bereavement support informal or create a family-care event. | Organizes a two-night, three-day Hawaiians trip, invites Chizuru, and broadens the party to Ruka, Kibe, and Kuribayashi. | Converts care into travel, lodging, and group access. | The invitation rests on an uncorrected couple story and exposes Chizuru to rival and secrecy pressure; RAG-E-V022-003, RAG-E-V022-008. |
+| RAG-AGY-143 | Ruka | Rely on her own relation claim or manipulate Chizuru's information state. | Produces a torn condom wrapper, falsely claims sex with Kazuya, and deliberately leaves the evidence as a wedge. | Creates immediate uncertainty and distress for Chizuru. | The event is explicitly fabricated, and its durability is unknown; RAG-E-V022-004 through RAG-E-V022-006. |
+| RAG-AGY-144 | Chizuru | Refuse the trip under rental rules or accept Nagomi's care despite the conflict. | Chooses to travel after recognizing Nagomi's sincere grief support and her own desire for family experience. | Enters a family setting through autonomous but mixed motives. | Participation does not settle romance, endorse the public lie, or validate Ruka's claim; RAG-E-V022-004, RAG-E-V022-007, RAG-E-V022-012. |
+| RAG-AGY-145 | Chizuru and Kazuya | Handle the ring and family cover separately or coordinate. | Chizuru shows the ring, maintains her intent to return it, offers to help explain, and agrees with Kazuya to get through the trip together. | Forms a reciprocal operational alliance around material and truth obligations. | No return, disclosure, or romantic reclassification is completed; RAG-E-V022-010, RAG-E-V022-011. |
+| RAG-AGY-146 | Kazuya | Postpone confession again or impose a time-bounded truth deadline. | Resolves to confess during the trip, begins answering Chizuru's Saizeriya question, and recommits after she retreats. | Produces a mutually legible confession attempt and retains active truth-correction agency. | Chizuru avoids the attempt, interruption follows, and no proposition or answer is completed; RAG-E-V022-013, RAG-E-V022-019, RAG-E-V022-021 through RAG-E-V022-023. |
+| RAG-AGY-147 | Mami | Remain outside the family trip or convert existing access into embedded presence. | Uses prior resort lodging and her Nagomi route to join the group while preserving an undisclosed intent to end the situation. | Gains sustained proximity to family, rivals, and both principals. | The volume does not expose every causal step or her final method; RAG-E-V022-014 through RAG-E-V022-018. |
+| RAG-AGY-148 | Kuribayashi | Ignore the contradictory Ruka display, expose it publicly, or manage it privately. | Questions Kazuya, accepts a request to contain the split audience, and later probes Mami about Chizuru's rental work. | Becomes an active manager and tester of partial information. | Cooperation does not prove approval, and he still lacks the complete current history; RAG-E-V022-009, RAG-E-V022-020. |
+| RAG-AGY-149 | Kibe | Ignore Kazuya's visible distress or renew his earlier relationship advice. | Invokes Nagomi's grief and anticipation of the trip when urging Kazuya to protect the relation he believes is real. | Reinforces the practical cost of deception and family disappointment. | His advice remains conditioned by the false public-couple premise; RAG-E-V022-024. |

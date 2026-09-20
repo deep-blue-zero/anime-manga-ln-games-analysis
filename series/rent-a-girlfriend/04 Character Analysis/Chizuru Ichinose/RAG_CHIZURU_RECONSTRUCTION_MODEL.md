@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V021."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V022."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -48,13 +48,14 @@ model_basis:
     - RAG-JP-EPUB-V019
     - RAG-JP-EPUB-V020
     - RAG-JP-EPUB-V021
-  admitted_through_volume: V021
-  narrative_time_boundary: "after Chizuru invites Kazuya into her acting network, gives a conditional account of desired partnership, reconstructs Mami's information access, hears Mami's former-partner testimony and alliance offer, and decides to help Kazuya while opening an overnight question"
+    - RAG-JP-EPUB-V022
+  admitted_through_volume: V022
+  narrative_time_boundary: "after Chizuru accepts Nagomi's family trip under Ruka's fabricated sexual evidence, coordinates the ring and cover problem with Kazuya, names her own desire for family experience, faces Mami inside the group, and avoids a confession she recognizes"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.21"
+  model_revision: "1.22"
   prior_knowledge_limitations:
-    - "No post-V021 narrative evidence is admitted."
+    - "No post-V022 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru privately revisits her qualified non-negation and directly values Kazuya's life and work, but Kazuya receives no affirmative romantic answer and no mutual status follows."
 coverage:
@@ -1087,7 +1088,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S023
 valid_from_source: "V021 0005"
-valid_until_source: null
+valid_until_source: "V022 0004"
 entry_conditions:
   - "Kazuya's romantic intent is partly heard but unanswered, her acting vocation continues, and Mami has recurring family access under an app-work account."
 active_goals:
@@ -1135,6 +1136,61 @@ uncertainties:
   - "How she evaluates Mami's testimony and claimed alliance."
   - "What action she intends by helping Kazuya and asking about overnight availability."
   - "Whether her conditional partner account has any current identified referent."
+~~~
+
+### CHI-S024 — family-trip participant under fabricated rivalry evidence and immediate confession pressure
+
+~~~yaml
+state_id: CHI-S024
+valid_from_source: "V022 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru has decided to help Kazuya under Mami's pressure and receives Nagomi's invitation to a bereavement-care family trip."
+active_goals:
+  - accept or limit family care without pretending the ring and public couple premise are ethically settled
+  - evaluate Ruka's sexual claim and Mami's embedded presence without surrendering response control
+  - coordinate the trip and eventual explanation with Kazuya
+  - govern when and under what conditions Kazuya's romantic answer can be heard
+known_propositions:
+  - "She sees Ruka kissing Kazuya but does not hear his preceding refusal."
+  - "Ruka claims sex with Kazuya and leaves a torn wrapper; Chizuru has no verification, while the manga directly establishes that Ruka fabricated the event."
+  - "Nagomi organizes the trip to comfort her after Sayuri's death."
+  - "She still has Nagomi's ring, intends to return it, and has Kazuya's cooperation in getting through the trip."
+  - "Mami is embedded in the group, and Nagomi knows the public acting, crowdfunding, and producer facts."
+  - "Kazuya begins answering her earlier question about whether he likes her."
+relationship_conditions:
+  - "Nagomi's care is personally valuable but remains structured by the false girlfriend premise."
+  - "Chizuru and Kazuya form a reciprocal operational alliance without mutual romantic status."
+  - "Ruka and Mami each apply different information pressure, while Chizuru controls neither source fully."
+changed_from_previous:
+  - FAMILY_TRIP_ACCEPTED
+  - RUKA_KISS_OBSERVED_WITH_PARTIAL_CONTEXT
+  - FABRICATED_SEX_CLAIM_RECEIVED
+  - RING_RETURN_INTENT_REASSERTED
+  - GET_THROUGH_ALLIANCE_FORMED
+  - MISSING_FAMILY_TRIP_EXPERIENCE_DISCLOSED
+  - MAMI_TRIP_PRESENCE_RECEIVED
+  - IMMEDIATE_CONFESSION_RECOGNIZED_AND_AVOIDED
+evidence_refs:
+  - RAG-E-V022-001
+  - RAG-E-V022-003
+  - RAG-E-V022-004
+  - RAG-E-V022-005
+  - RAG-E-V022-006
+  - RAG-E-V022-007
+  - RAG-E-V022-010
+  - RAG-E-V022-011
+  - RAG-E-V022-012
+  - RAG-E-V022-014
+  - RAG-E-V022-016
+  - RAG-E-V022-018
+  - RAG-E-V022-021
+  - RAG-E-V022-022
+  - RAG-E-V022-025
+uncertainties:
+  - "Whether and how she verifies or corrects Ruka's fabricated claim."
+  - "Whether she returns the ring or participates in a full family correction."
+  - "Whether leaving the confession reflects timing, pressure, fear, rejection, or a mixture."
 ~~~
 
 ## Behavioral rules
@@ -1341,11 +1397,23 @@ uncertainties:
 - **Disconfirming observation:** under another credible leak with comparable family stakes, she neither verifies the source nor coordinates, differentiates claims, or forms a response despite having time and access.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and information-threat-specific.
 
+### RAG-CHI-R018 — valued family inclusion can override a professional refusal while ethical and response control remain active
+
+- **Scope:** CHI-S024.
+- **Trigger:** Nagomi offers concrete bereavement care and family experience at the same time that rental rules, the ring, rival evidence, and a likely confession make participation costly.
+- **Likely appraisal:** the family offer has real personal value and should not be reduced to the false couple premise, but accepting it does not settle the ring, romance, or another person's access to her answer.
+- **Likely action range:** accept bounded travel, name the personal family meaning, preserve intent to return a status-loaded object, coordinate practical explanation with Kazuya, and leave when romantic speech becomes immediate under compounded pressure.
+- **Inhibitors/escalators:** grief, missing family experience, and Nagomi's sincerity support participation; fabricated sexual evidence, Mami's presence, and direct confession pressure increase control and avoidance.
+- **Support:** RAG-E-V022-003 through RAG-E-V022-007, RAG-E-V022-010 through RAG-E-V022-012, RAG-E-V022-021, RAG-E-V022-022.
+- **Counterevidence/gap:** one family trip; the ring, false claim, and confession all remain unresolved, so durable response is unknown.
+- **Disconfirming observation:** under another personally valued family invitation with comparable ethical burden, she either refuses solely by professional rule or accepts while abandoning object correction and answer control.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and family-inclusion-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V011 places them in explicit disagreement over truth and comfort. V012-V014 add a distinct project relation in which she evaluates, requests, launches, staffs, and promotes the film while controlling personal exposure. V015 adds a qualified non-negation to Umi after she credits Kazuya's restorative support. V016 rejects Kazuya's status hierarchy, allows bounded travel and room access, thanks him while naming the film's family function, completes the final scene, and privately revisits the qualified answer without communicating it to him. V017 shows her coordinate the screening, wait for and thank him again, receive his crisis challenge, and preserve her own decision authority. V018 has her receive his bedside projection, attempt the central correction, and decline immediate help while he remains outside the final family exchange. V019 has her accept his paid care route, enjoy it, initiate the decisive grief contact, and report relief to Mini while explicitly retaining the non-boyfriend classification. V020 completes the public project, adds voluntary ordinary time, moves her from Mini's information to a direct question, and shows private activation plus public deferral after Kazuya's interrupted answer. V021 adds voluntary acting-network access, a conditional description of desired partnership, and shared threat monitoring without a present romantic answer. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, feasibility testing, project-specific consent, controlled coordination, source checking under credible leakage, self-initiated support under acute grief, and qualified rather than invented romantic language.
+Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V011 places them in explicit disagreement over truth and comfort. V012-V014 add a distinct project relation in which she evaluates, requests, launches, staffs, and promotes the film while controlling personal exposure. V015 adds a qualified non-negation to Umi after she credits Kazuya's restorative support. V016 rejects Kazuya's status hierarchy, allows bounded travel and room access, thanks him while naming the film's family function, completes the final scene, and privately revisits the qualified answer without communicating it to him. V017 shows her coordinate the screening, wait for and thank him again, receive his crisis challenge, and preserve her own decision authority. V018 has her receive his bedside projection, attempt the central correction, and decline immediate help while he remains outside the final family exchange. V019 has her accept his paid care route, enjoy it, initiate the decisive grief contact, and report relief to Mini while explicitly retaining the non-boyfriend classification. V020 completes the public project, adds voluntary ordinary time, moves her from Mini's information to a direct question, and shows private activation plus public deferral after Kazuya's interrupted answer. V021 adds voluntary acting-network access, a conditional description of desired partnership, and shared threat monitoring without a present romantic answer. V022 adds ring-and-cover coordination, a direct account of missing family-trip experience, and active avoidance when Kazuya's answer becomes immediate. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, feasibility testing, project-specific consent, controlled coordination, source checking under credible leakage, self-initiated support under acute grief, and qualified rather than invented romantic language.
 
 ### Toward Nagomi
 
@@ -1357,7 +1425,7 @@ Sayuri's happiness and hospitalization constrain disclosure. Chizuru asks whethe
 
 ### Toward Mami
 
-Chizuru knows Mami as Kazuya's former girlfriend, observes her public diminishment and later kiss, and asks Kazuya in V005 whether the attachment remains unresolved. In V006 Mami books her as a client and accuses her of exploiting Kazuya. V021 reverses the questioning direction: Chizuru reconstructs Mami's bag knowledge, then hears her combine project evidence, former-partner testimony, ally language, and an offer to end everything. Chizuru answers factual work questions and decides to help Kazuya, but her appraisal of Mami and intended method remain withheld.
+Chizuru knows Mami as Kazuya's former girlfriend, observes her public diminishment and later kiss, and asks Kazuya in V005 whether the attachment remains unresolved. In V006 Mami books her as a client and accuses her of exploiting Kazuya. V021 reverses the questioning direction: Chizuru reconstructs Mami's bag knowledge, then hears her combine project evidence, former-partner testimony, ally language, and an offer to end everything. V022 places Mami inside Nagomi's family trip with public film knowledge crossing into the family route. Chizuru remains guarded, and her appraisal of Mami and intended response remain withheld.
 
 ### Toward Ruka
 

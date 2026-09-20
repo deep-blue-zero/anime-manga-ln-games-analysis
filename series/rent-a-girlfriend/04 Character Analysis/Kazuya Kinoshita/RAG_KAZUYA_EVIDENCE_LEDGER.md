@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; character evidence inspected through V021."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; character evidence inspected through V022."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V021
+inspected_through_volume: V022
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -149,6 +149,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E109 | KAZ-S023 | RAG-E-V021-011, RAG-E-V021-012 | Explicit withdrawal and acknowledged nonreciprocity | Asks Ruka to break up, names his love for Chizuru and lack of romantic feeling for Ruka, and apologizes for keeping her in the trial. | Replaces prolonged ambiguity with a direct ending request and ownership of his misuse. | Ruka refuses the label change and increases pressure; clear speech does not by itself create workable separation. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R013, RAG-KAZ-R017 |
 | RAG-KAZ-E110 | KAZ-S023 | RAG-E-V021-014 through RAG-E-V021-017 | Information-threat coordination and family-truth constraint | Receives Chizuru's bag inference and mutual-watch proposal, tells Kibe he likes Chizuru, and hears honesty framed as a duty to Nagomi. | Gains a co-monitoring route while the cost of full correction becomes explicit. | Kibe's advice rests on a false couple premise, and Kazuya still does not disclose the rental history. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R017 |
 | RAG-KAZ-E111 | KAZ-S023 | RAG-E-V021-013, RAG-E-V021-022 through RAG-E-V021-024 | Repeated confession intent under functional and family pressure | Rehearses and misses confession opportunities, experiences increased Ruka messaging and a sharp displayed score decline, and renews resolve as Mami calls Nagomi. | Romantic intention becomes persistent and costly without becoming effective communication. | One score comparison is local evidence, and he does not know Mami's call content or Chizuru's planned response. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R016, RAG-KAZ-R017 |
+| RAG-KAZ-E112 | KAZ-S024 | RAG-E-V022-001 through RAG-E-V022-003 | Post-withdrawal boundary pressure and family-trip opening | Resists Ruka's overnight attempt, repeats that he loves Chizuru, receives another forced kiss, and then faces Nagomi's Hawaiians invitation. | Maintains stated nonreciprocity while the rejected relation is carried into a new family setting. | He does not control Ruka's kiss or know what Chizuru infers from seeing it. | RAG-KAZ-R003, RAG-KAZ-R009, RAG-KAZ-R017 |
+| RAG-KAZ-E113 | KAZ-S024 | RAG-E-V022-007 through RAG-E-V022-009 | Travel participation and split-audience management | Recommits to confession, enters the trip, and asks Kuribayashi to help contain the conflict between his knowledge and Kibe's public-couple belief. | Moves from private intention into active information management under a mixed audience. | He does not know Ruka fabricated sexual evidence for Chizuru. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R017, RAG-KAZ-R018 |
+| RAG-KAZ-E114 | KAZ-S024 | RAG-E-V022-010 through RAG-E-V022-013 | Ring coordination, family memory, and trip deadline | Hears Chizuru's return intent, accepts her help agreement, learns why the family trip matters to her, and resolves to confess and make the lie true during the trip. | Joins material truth obligation to a specific romantic and disclosure deadline. | Shared planning and private resolve do not complete ring return, truth, or relationship status. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R016, RAG-KAZ-R018 |
+| RAG-KAZ-E115 | KAZ-S024 | RAG-E-V022-014 through RAG-E-V022-019 | Mami-driven compartment collapse and broadened truth resolve | Sees Mami embedded in the trip, learns Nagomi knows the film and producer route, and decides to confess immediately and tell the wider group if the apparent relation fails. | Converts family-route threat into an explicit multi-audience correction contingency. | He does not know Mami's full plan or how each audience would respond. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R017, RAG-KAZ-R018 |
+| RAG-KAZ-E116 | KAZ-S024 | RAG-E-V022-021 through RAG-E-V022-024 | Mutually legible confession attempt and renewed family-duty pressure | Begins answering Chizuru's Saizeriya question, asks her to wait when she retreats, recommits after interruption, and hears Kibe invoke Nagomi's grief. | Produces direct action rather than rehearsal while retaining truth intent after failure. | The proposition is incomplete, Chizuru supplies no answer, and Kibe's counsel rests on false information. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R016, RAG-KAZ-R018 |
 
 ## State-change summary
 
@@ -175,6 +180,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S021 — support-date executor after accepted grief release:** completes the expensive ten-hour plan, recognizes the limit of distraction, gives permission-bearing recognition without demanded touch, receives Chizuru's collapse, explicitly acknowledges his love internally, and resists treating the event as proof of reciprocity.
 - **KAZ-S022 — direct but interrupted romantic declarant under renewed network pressure:** receives public film completion, differentiates Ruka's requests, accepts Chizuru's ordinary invitation, disputes her professional-failure account, names her as his ideal girlfriend, begins a confession, and then faces both Chizuru's avoidance and Mami's new family-business access.
 - **KAZ-S023 — explicit trial terminator and confession planner under converging pressure:** enters Chizuru's professional network, hears her conditional partnership account, directly withdraws from the Ruka trial, joins Chizuru's Mami-monitoring route, receives Kibe's family-truth challenge, and repeatedly plans but fails to complete a confession while ordinary functioning deteriorates.
+- **KAZ-S024 — trip-bounded declarant under compartment collapse:** resists Ruka's post-withdrawal access pressure, manages a mixed-information travel group, coordinates the ring and cover problem with Chizuru, sets the trip as a confession deadline, recognizes Mami's embedded family route, and makes a mutually legible but incomplete direct attempt.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 

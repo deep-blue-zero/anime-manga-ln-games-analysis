@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021; predictions frozen before V022 narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022; predictions frozen before V023 narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -372,6 +372,24 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 | RAG-PRED-083 | Ruka's rejected breakup and increased messaging will produce another status claim, access demand, monitoring act, tactical change, boundary, or response to the attempted ending. | RAG-E-V021-011, RAG-E-V021-012, RAG-E-V021-022 | V022 supplies no consequence to the breakup attempt or intensified contact. |
 | RAG-PRED-084 | Kazuya's renewed confession plan and Chizuru's decision to help under Mami's intervention will produce a confession attempt, truth-correction attempt, explicit classification pressure, coordinated response, or observable deferral. | RAG-E-V021-013 through RAG-E-V021-017, RAG-E-V021-021 through RAG-E-V021-024 | V022 supplies no consequence to either person's stated intention or to Mami's proposed ending. |
 
+## Adjudicated predictions from the V021 boundary
+
+| Prediction ID | Adjudication | V022 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-081 | SUPPORTED | Mami's Nagomi route culminates in her inclusion in the Kinoshita family trip, where she brings project knowledge and intervention pressure into the shared setting; RAG-E-V022-014 through RAG-E-V022-019. | The exact content and full causal contribution of the V021 call remain withheld; prior lodging and the manager connection also enable the encounter. |
+| RAG-PRED-082 | SUPPORTED | The overnight question becomes a two-night, three-day Hawaiians trip with lodging, family care, rental-rule negotiation, the ring problem, and changed access; RAG-E-V022-003, RAG-E-V022-004, RAG-E-V022-008 through RAG-E-V022-013. | The trip does not resolve the relationship or family deception. |
+| RAG-PRED-083 | SUPPORTED | Ruka answers the rejected breakup with an overnight attempt, a forced kiss, continued status pressure, monitoring, and the deliberate condom-wrapper fabrication; RAG-E-V022-001 through RAG-E-V022-007. | Escalation supplies no reciprocal status and does not establish Chizuru's lasting belief. |
+| RAG-PRED-084 | SUPPORTED | Kazuya sets and attempts a confession deadline; Chizuru and Kazuya coordinate around the trip and ring; Mami's presence and Chizuru's avoidance keep completion deferred; RAG-E-V022-010 through RAG-E-V022-022. | No confession, truth correction, ring return, or alliance with Mami is completed. |
+
+## Frozen predictions for V023
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-085 | Kazuya's renewed on-trip deadline will produce another confession or truth-correction attempt, a completed proposition, an answer, an interruption, or an explicit deferral. | RAG-E-V022-013, RAG-E-V022-019, RAG-E-V022-021 through RAG-E-V022-024 | V023 supplies no consequence to the renewed deadline or the interrupted room attempt. |
+| RAG-PRED-086 | Mami's embedded trip presence and stated intention to end the situation will produce a direct probe, disclosure threat, information move, alliance test, or family-facing intervention. | RAG-E-V022-014 through RAG-E-V022-020 | V023 supplies no observable use of Mami's trip access or intervention stance. |
+| RAG-PRED-087 | Ruka's condom-wrapper fabrication and active monitoring will produce a Chizuru reaction, confrontation, changed status judgment, further rivalry pressure, or discovery or correction of the lie. | RAG-E-V022-004 through RAG-E-V022-007, RAG-E-V022-016 | V023 supplies no consequence to the fabricated evidence or its intended wedge. |
+| RAG-PRED-088 | The ring-return plan, shared agreement to get through the trip, and mixed family/peer audience will produce coordination about the ring or cover story, an exposure event, a revised arrangement, or another explicit truth-management action. | RAG-E-V022-008 through RAG-E-V022-011, RAG-E-V022-018 through RAG-E-V022-020 | V023 supplies no consequence to the ring obligation, operational alliance, or split-audience problem. |
+
 ## Open evidence questions
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
@@ -381,10 +399,11 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 - Can Kazuya and Ruka establish workable separation terms after his explicit withdrawal and her refusal to recognize the breakup?
 - Will Chizuru's direct LINE access and unbooked ordinary contact become durable communication?
 - What boundary or escalation follows Ruka's declared rule violations and increased messaging after the breakup attempt?
-- What consequence follows Kazuya's custody of the family ring after no V012 use?
+- Can Chizuru and Kazuya complete the planned return or correction around Nagomi's family ring?
 - Can Kazuya and Chizuru complete the interrupted confession while responding to Mami's family-route pressure?
 - Will Chizuru's acting career and family-linked vocational purpose develop after the public screening?
 - Does Chizuru's accepted support produce durable bereavement recovery or only a bounded release?
 - Can Sumi's consequential emotional support coexist with an unheard confession without distorting the practice relationship?
 - What does Mami mean by ending “everything,” and how will Chizuru evaluate the claimed alliance?
-- What travel or family event is opened by Nagomi's call and Chizuru's question about overnight availability?
+- How will the mixed Nagomi, Kibe, Kuribayashi, Mami, Ruka, Kazuya, and Chizuru audience handle its incompatible knowledge sets?
+- When and how will Ruka's fabricated sex evidence be corrected, discovered, or made consequential?

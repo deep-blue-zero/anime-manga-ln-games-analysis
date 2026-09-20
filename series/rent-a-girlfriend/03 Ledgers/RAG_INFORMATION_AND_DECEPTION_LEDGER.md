@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.21"
+version: "1.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V022; inspected and closed through V022."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V021
-row_count: 120
-state: CURRENT_THROUGH_V021
+inspected_through_volume: V022
+row_count: 128
+state: CURRENT_THROUGH_V022
 ```
 
 ## Records
@@ -162,3 +162,11 @@ state: CURRENT_THROUGH_V021
 | RAG-INF-118 | Kibe knows Kazuya prefers Chizuru but still believes they form a genuine couple; he does not know the rental history. | Kazuya answers his direct preference question, and Kibe gives relationship and family-truth advice from the public premise. | Accurate preference information enters an otherwise false model. | His moral counsel cannot be treated as informed approval of the deception; RAG-E-V021-016, RAG-E-V021-017. |
 | RAG-INF-119 | Mami has public crowdfunding evidence, apartment-bag evidence, and former-partner information that Chizuru did not know. | She shows or cites the project page, confirms seeing the bag, and narrates her prior relation before offering alliance. | Separate public and private traces become a direct coherence challenge to Chizuru. | Mami's self-report is interested evidence and does not make her omniscient; RAG-E-V021-018 through RAG-E-V021-021. |
 | RAG-INF-120 | Mami and Nagomi have a direct communication route, while Kazuya and Chizuru separately know the family channel is dangerous but not what the final call contains. | Mami calls Nagomi after Chizuru receives her own Nagomi contact and considers helping Kazuya. | The information threat becomes immediate across separate audiences. | Call content, trip relation, and subsequent disclosures are withheld at V021; RAG-E-V021-023, RAG-E-V021-024. |
+| RAG-INF-121 | Chizuru sees Ruka force physical closeness after Kazuya's withdrawal but does not receive the preceding full exchange. | She arrives at the apartment during the kiss scene. | A visually strong but context-poor signal enters her model of the trial relation. | Observation does not establish Kazuya's consent or override his explicit withdrawal; RAG-E-V022-001 through RAG-E-V022-003. |
+| RAG-INF-122 | Ruka knowingly gives Chizuru a false belief that she and Kazuya had sex. | She uses a torn condom wrapper, states the false event, and privately identifies the wedge strategy. | Deliberate verbal deception is reinforced by fabricated material evidence. | Kazuya does not know the claim, and Chizuru cannot verify it within V022; RAG-E-V022-004 through RAG-E-V022-007. |
+| RAG-INF-123 | The travel party contains incompatible knowledge sets. | Kuribayashi knows the rental history and Ruka's client origin; Kibe and Nagomi accept the public couple account; Ruka, Mami, Kazuya, and Chizuru each hold different private facts. | Ordinary group interaction becomes a compartment-management problem. | No participant possesses the entire current history; RAG-E-V022-008, RAG-E-V022-009, RAG-E-V022-016, RAG-E-V022-020. |
+| RAG-INF-124 | Kazuya and Chizuru share the ring-return problem and an agreement to get through the trip together. | Chizuru displays the ring, states her intended return, offers to explain, and receives Kazuya's cooperation. | A previously distributed material obligation becomes reciprocal operational knowledge. | Shared knowledge does not complete return or establish a shared disclosure script; RAG-E-V022-010, RAG-E-V022-011. |
+| RAG-INF-125 | Mami's family and venue routes are partly disclosed to the trip group. | Mami reports prior lodging through her parents' manager connection, while Nagomi says she learned Mami would be nearby and included her. | The V021 access route produces embedded presence with a plausible independent venue basis. | The precise call wording, planning sequence, and degree of strategy remain unknown; RAG-E-V022-014, RAG-E-V022-015. |
+| RAG-INF-126 | Nagomi knows accurate public facts about Chizuru's acting and Kazuya's crowdfunding-producer work while remaining outside the rental truth. | She praises the film activity during the hotel arrival. | Professional truth enters a family model still anchored in romantic falsehood. | The source and timing of every fact are not fully shown; RAG-E-V022-018, RAG-E-V022-019. |
+| RAG-INF-127 | Kuribayashi and Mami establish mutual awareness that Chizuru remains connected to rental work. | He asks directly, and Mami gives a limited confirmation. | Two partly informed observers can now recognize a shared hidden premise inside the trip. | Neither reveals the complete deception network or a coordinated plan; RAG-E-V022-020. |
+| RAG-INF-128 | Chizuru recognizes Kazuya's intended confession before he completes it, while Kazuya infers that his meaning was legible. | He begins answering her Saizeriya question; she retreats, and he interprets the avoidance afterward. | Romantic information becomes mutually recognizable without reaching a proposition or answer. | Kazuya's explanation of her flight is inference rather than her admitted motive; RAG-E-V022-021 through RAG-E-V022-023. |
