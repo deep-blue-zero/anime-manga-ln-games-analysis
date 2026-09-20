@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0128
+## Current state — founded units synchronized through EVENT_0129
 
-All five human units now track the same continuous event history through `EVENT_0128`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0128 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0129`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0129 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0128 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0129 committed boundary
+
+**EVENT_0129 is fully integrated:** `VBS-EP-AN-E0097 → VBS-EP-AN-E0129` records disclosure and action through comparative fear; `VBS-REL-KH-AN-E0037 → VBS-REL-KH-AN-E0129` records reciprocal rivalry as part of partnership; `VBS-REL-STREET-AUDIENCE-E0109 → VBS-REL-STREET-AUDIENCE-E0129` records witnessed vulnerability, renewed endorsement, and returned participation. An wins this duel, while fear and the final RAD challenge remain open. The verified envelope is 27 stories / 54 scenes / 1,649 records. No permanent fear cure, fixed skill rank, equal ability, endlessly safe competition, compulsory-duel rule, complete An–Ken repair, restored Nagi future, unanimous or durable Street coalition, completed RAD challenge, surpassed RAD WEEKEND, professional status, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0128 to EVENT_0129. EVENT_0130 is next and 11 events remain through EVENT_0140.
+
+The [EVENT_0129 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0129_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 14 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0128 committed boundary
 
 **EVENT_0128 is fully integrated:** `LN-EP-ICHIKA-E0101 → LN-EP-ICHIKA-E0128` records recipient-led arrangement as an executed connection method; `LN-REL-ICHIKA-SAKI-MS → LN-REL-ICHIKA-SAKI-E0128` records repaired creative collision and one deliberately asymmetric coauthorship; `LN-REL-SOLIS-E0101 → LN-REL-SOLIS-E0128` records the approved, recorded, promoted, and publicly received debut release. Equal dual-intention coauthorship and durable fame remain open. The verified envelope is 27 stories / 46 scenes / 1,481 records. No universal mediation mastery, completed equal coauthorship, conflict-free future work, singular-author credit, safe workload, durable mass fame, sales or chart result, financial success, completed festival, public SEKAI knowledge, cross-manifestation identity, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0127 to EVENT_0128. EVENT_0129 is next and 12 events remain through EVENT_0140.
 
@@ -605,13 +611,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0128`. Leo/need's debut song has been approved, recorded, released, advertised, and sampled in public receipt; Ichika and Saki have promised a future equal-intention collaboration. `EVENT_0129` is next; 12 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0129`. An has disclosed her fear of being surpassed, won one full contest with Kohane, and reactivated key Street participants who commit to witness VBS's path. `EVENT_0130` is next; 11 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0128` for all five human units. The EVENT_0116–0140 continuation is active with 12 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0129` for all five human units. The EVENT_0116–0140 continuation is active with 11 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0128_DEEP_READING.md) closes `EVENT_0128 — Parallel Harmonies`, bucket `RB_20240420T060000Z`: 27 stories / 46 scenes / 1,481 records. Leo/need's debut song has been approved, recorded, released, advertised, and sampled in public receipt; Ichika and Saki have promised a future equal-intention collaboration.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0129_DEEP_READING.md) closes `EVENT_0129 — Whip the wimp girl!!`, bucket `RB_20240430T060000Z`: 27 stories / 54 scenes / 1,649 records. An has disclosed her fear of being surpassed, won one full contest with Kohane, and reactivated key Street participants who commit to witness VBS's path.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
