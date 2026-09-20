@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V011
+inspected_through_volume: V012
 row_count: 62
-state: CURRENT_THROUGH_V011
+state: CURRENT_THROUGH_V012
 ```
 
 ## Records
@@ -104,3 +104,9 @@ state: CURRENT_THROUGH_V011
 | RAG-INF-060 | Kazuya and Chizuru explicitly disagree about what Sayuri should be told. | He names the relationship a lie and argues for disclosure; she argues that the comforting belief should be preserved. | Private debate exposes incompatible information ethics within the deception partnership. | Sayuri does not receive the corrected account in V011; RAG-E-V011-009, RAG-E-V011-010. |
 | RAG-INF-061 | The ring's support rationale and custody diverge. | Nagomi tells Chizuru to hold or pawn it; Chizuru places the case in Kazuya's bag. | Material transfer carries both family belief and a private redirection unknown to Nagomi. | No later use or disclosure occurs within V011; RAG-E-V011-011, RAG-E-V011-012. |
 | RAG-INF-062 | Sumi infers that Kazuya likes uniforms and uses the inference to plan care. | Her earlier sighting and written explanation disclose the basis; a detailed itinerary carries the broader intention. | Observation becomes purpose-specific costume and activity design. | The inference embarrasses Kazuya and does not establish a general preference; RAG-E-V011-016 through RAG-E-V011-018. |
+| RAG-INF-063 | Sumi directly says that she likes Kazuya, but he does not hear her. | She redirects to fishing when asked to repeat herself. | The reader and Sumi hold a proposition that does not enter Kazuya's knowledge. | The utterance establishes neither reception nor reciprocity; RAG-E-V012-002. |
+| RAG-INF-064 | Kazuya gives Sumi a partial, third-person account of Chizuru and Sayuri's crisis. | He supplies illness, isolation, work, dream, and helplessness while withholding names and the false relationship structure. | Partial disclosure becomes sufficient for emotional support without full information transfer. | Sumi cannot infer the complete deception or relationship network from the account; RAG-E-V012-004 through RAG-E-V012-007. |
+| RAG-INF-065 | Chizuru's family history expands from a compact prior account to Sayuri's screen identity, Katsuhito's promise, collision, and death. | The reader receives the history through an extended flashback. | Acting is reclassified as a vocation tied to imitation, encouragement, bereavement, and obligation. | Kazuya is not shown receiving every flashback detail in V012; RAG-E-V012-010 through RAG-E-V012-015. |
+| RAG-INF-066 | Kazuya discloses his crowdfunding plan and preliminary production estimates to Chizuru. | He presents a possible budget, personnel needs, campaign timing, filming, editing, and exhibition route. | Private concern becomes shared project information open to evaluation. | Research is preliminary and does not prove feasibility; RAG-E-V012-016 through RAG-E-V012-020. |
+| RAG-INF-067 | Chizuru explicitly discloses willingness to undertake the film if Kazuya will finish it. | Her request and his answer become mutual knowledge. | The pair gain a shared project commitment outside rental booking. | The agreement supplies no hidden romantic proposition or completed production; RAG-E-V012-021, RAG-E-V012-022. |
+| RAG-INF-068 | The false relationship dispute, family ring, Ruka trial, and Mami family-account route receive no new information consequence. | Full V012 coverage contains no revisit, transfer, disclosure, or action on those routes. | Dormant information states are preserved rather than silently resolved. | One-volume absence cannot establish abandonment; RAG-E-V012-023, RAG-E-V012-024. |

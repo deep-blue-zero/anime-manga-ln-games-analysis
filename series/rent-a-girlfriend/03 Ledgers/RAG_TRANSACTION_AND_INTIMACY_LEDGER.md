@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V011
+inspected_through_volume: V012
 row_count: 58
-state: CURRENT_THROUGH_V011
+state: CURRENT_THROUGH_V012
 ```
 
 ## Records
@@ -100,3 +100,8 @@ state: CURRENT_THROUGH_V011
 | RAG-TXN-056 | Kazuya, Chizuru, and Sayuri; truth versus comfort | No contract governs what Sayuri must be told. | Kazuya chooses factual disclosure; Chizuru chooses preservation of a comforting belief. | Each claims care, while Sayuri lacks the information needed for an informed response. | The deception partnership develops an explicit ethical split; RAG-E-V011-009, RAG-E-V011-010. |
 | RAG-TXN-057 | Ruka and Kazuya; delayed birthday gift and cheek kiss | The outing provides no mutual agreement to a new kiss rule. | Ruka offers a gift and declares a temporary truce, then kisses him and lifts the ban herself. | Gift exchange and sympathy do not authorize physical access. | Tactical softening coexists with continued unilateral intimacy; RAG-E-V011-013, RAG-E-V011-014. |
 | RAG-TXN-058 | Sumi and Kazuya; practice route and care itinerary | Chizuru reopens the practice-date route; no additional compensation details are shown in V011. | Sumi independently chooses costume, venue, schedule, and activities to entertain him. | Planned care does not establish private status or erase the service origin. | Nonverbal and logistical effort become a substantial intimacy-adjacent resource; RAG-E-V011-015 through RAG-E-V011-018. |
+| RAG-TXN-059 | Sumi and Kazuya; completed aquarium practice date | The outing continues from the practice route; V012 supplies no new fee or private-status agreement. | Sumi chooses shared discomfort, leads fishing, treats a cut, gives a birthday gift, and speaks affection. | Service origin and chosen care coexist; intimate-looking conduct does not establish reciprocity. | The date becomes personally consequential while the confession goes unheard; RAG-E-V012-001 through RAG-E-V012-003. |
+| RAG-TXN-060 | Sumi and Kazuya; disclosure and handhold | No separate payment or promise governs the phone-memo question, shared crying, reassurance, or handhold. | Kazuya chooses partial disclosure; Sumi chooses emotional presence. | Disclosure access creates neither ownership of the information nor romantic status. | Produces measurable relief and a new action frame; RAG-E-V012-004 through RAG-E-V012-007. |
+| RAG-TXN-061 | Kazuya and Chizuru; crowdfunding proposal | No booking or compensation governs Kazuya's researched proposal. | He voluntarily offers planning labor and a possible financing and exhibition route. | The proposal grants no authority over Chizuru's career or person. | Converts support into an evaluable project offer; RAG-E-V012-016 through RAG-E-V012-020. |
+| RAG-TXN-062 | Chizuru and Kazuya; film request | Chizuru conditions assent on Kazuya not abandoning the effort midway. | She voluntarily requests the film after questioning feasibility. | Consent is project-scoped and does not generalize to personal or romantic access. | Makes Chizuru a principal in the undertaking rather than a passive proposed star; RAG-E-V012-019 through RAG-E-V012-021. |
+| RAG-TXN-063 | Chizuru and Kazuya; joint production commitment | No payment, ownership split, or formal production contract is shown. | Kazuya promises to continue to the end, and Chizuru accepts the shared work. | Mutual commitment concerns the film; completion, financing, and relationship status remain open. | Establishes voluntary collaboration beyond paid dating and verbal encouragement; RAG-E-V012-021, RAG-E-V012-022. |

@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V011
+inspected_through_volume: V012
 row_count: 65
-state: CURRENT_THROUGH_V011
+state: CURRENT_THROUGH_V012
 ```
 ```
 
@@ -108,3 +108,9 @@ state: CURRENT_THROUGH_V011
 | RAG-PRG-063 | Kazuya-Chizuru deception partnership | ETHICAL_DIVERGENCE — Kazuya prioritizes truth under limited time, while Chizuru prioritizes Sayuri's comfort. | Both now state incompatible next actions rather than sharing a single concealment strategy. | Neither position is acted through to completion in V011. | RAG-E-V011-009, RAG-E-V011-010, RAG-E-V011-012 |
 | RAG-PRG-064 | Ruka's tactical regulation | MIXED — concern for Sayuri produces a temporary truce, but Ruka preserves status escalation through a gift, cheek kiss, and unilateral rule change. | The target and timing can change without revision of the conversion goal. | Sympathy is real; mutual agreement remains absent. | RAG-E-V011-013, RAG-E-V011-014 |
 | RAG-PRG-065 | Sumi's communication and initiative | GAIN — observed preference, written explanation, and detailed itinerary turn constrained speech into effective care and coordination. | She leads a multi-step outing and succeeds in giving Kazuya pleasure. | The aquarium exchange is unfinished at the cutoff and begins through a practice-date route. | RAG-E-V011-015 through RAG-E-V011-018 |
+| RAG-PRG-066 | Sumi's communication and emotional support | GAIN — planning, care, a written question, sparse speech, shared tears, and touch produce a substantive coping consequence. | Kazuya says that speaking lightened him and leaves able to imagine action. | Her confession is unheard, and she does not prescribe the film plan. | RAG-E-V012-001 through RAG-E-V012-007 |
+| RAG-PRG-067 | Kazuya's coping and project agency | GAIN_WITH_EXECUTION_GAP — he moves from helplessness to research and a concrete crowdfunding proposal. | The plan includes personnel, budget, timing, editing, and exhibition questions. | No campaign, funds, script, or staff exist yet. | RAG-E-V012-007, RAG-E-V012-016 through RAG-E-V012-020 |
+| RAG-PRG-068 | Chizuru's vocational persistence | GAIN_WITH_GRIEF_COST — another rejection and family-memory activation lead to renewed commitment rather than withdrawal. | She sustains a dense labor system and later requests the film. | Persistence remains tied to loss, deadline pressure, and uncertain feasibility. | RAG-E-V012-008 through RAG-E-V012-015, RAG-E-V012-019 through RAG-E-V012-021 |
+| RAG-PRG-069 | Kazuya-Chizuru relationship | PROJECT_ESCALATION — verbal support becomes a mutual, non-booked production undertaking. | Chizuru exercises agency by evaluating and requesting; Kazuya accepts completion responsibility. | Project commitment does not establish romance or successful delivery. | RAG-E-V012-016 through RAG-E-V012-022 |
+| RAG-PRG-070 | Family deception and ring route | STALL — neither the truth dispute nor ring custody produces an observed V012 action. | The unresolved state is preserved without invented resolution. | Later consequences remain possible. | RAG-E-V012-023 |
+| RAG-PRG-071 | Ruka trial and consent conflict | STALL_BY_ABSENCE — Ruka and her declared rule change have no V012 consequence. | No further regression is observed in this volume. | Absence does not repair status or consent. | RAG-E-V012-024 |

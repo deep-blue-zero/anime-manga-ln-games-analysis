@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; character evidence inspected through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; character evidence inspected through V012."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V011
+inspected_through_volume: V012
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -101,6 +101,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E061 | KAZ-S013 | RAG-E-V011-008 through RAG-E-V011-010 | Limited-time moral reasoning and direct disagreement | Decides to tell Nagomi and Sayuri the truth and argues that continued lying is wrong when time may be short. | Turns care into a clear factual-disclosure position rather than immediate face protection. | Chizuru rejects the plan and the consequence remains unknown. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R008 |
 | RAG-KAZ-E062 | KAZ-S013 | RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012 | Inherited object and renewed resolution | Objects to the family ring, later finds it in his bag, and renews his decision to tell Sayuri. | Materialized family expectation intensifies rather than suppresses his correction goal. | He does not execute the disclosure in V011. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
 | RAG-KAZ-E063 | KAZ-S013 | RAG-E-V011-015 through RAG-E-V011-018 | Support received and competence recognition | Accepts the Sumi practice route, recognizes her detailed planning as communication growth, and responds openly to the aquarium itinerary. | Can receive care and assess competence outside his central romantic script. | His focus remains partly on what he can do for Chizuru and Sayuri; the outing is unfinished. | RAG-KAZ-R002, RAG-KAZ-R006, RAG-KAZ-R008 |
+| RAG-KAZ-E064 | KAZ-S014 | RAG-E-V012-001 through RAG-E-V012-007 | Care received, partial disclosure, and emotional regulation | Completes Sumi's itinerary, answers her written question through a third-person crisis account, accepts shared grief, and reports feeling lighter. | Uses a bounded relationship for consequential disclosure and can receive support without asserting status. | He does not hear Sumi's confession, withholds identities, and does not resolve the underlying crisis. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R010 |
+| RAG-KAZ-E065 | KAZ-S014 | RAG-E-V012-007, RAG-E-V012-016 through RAG-E-V012-020 | Project ideation, research, and proposal | Converts a film-rental association into research on crowdfunding, personnel, budget, timing, editing, and exhibition, then proposes a film starring Chizuru. | Replaces undirected helplessness with a concrete support route that does not demand relational status. | Research does not establish production competence, funds, staff, or delivery. | RAG-KAZ-R007, RAG-KAZ-R008, RAG-KAZ-R010 |
+| RAG-KAZ-E066 | KAZ-S014 | RAG-E-V012-019 through RAG-E-V012-022 | Risk response and completion commitment | Answers Chizuru's feasibility concern by distinguishing guaranteed failure from an attempt, then promises to continue after she requests the film. | Accepts responsibility for carrying a shared vocational project toward completion. | Determination cannot substitute for resources, skill, collaboration, or outcome. | RAG-KAZ-R007, RAG-KAZ-R010 |
+| RAG-KAZ-E067 | KAZ-S014 | RAG-E-V012-023, RAG-E-V012-024 | Negative evidence; unresolved obligations | Takes no observed action on the family truth, ring, Ruka trial, or Mami route while the film plan forms. | Attention shifts to an actionable support project. | One-volume silence does not revoke his truth position or resolve any dormant relationship route. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005 |
 
 ## State-change summary
 
@@ -117,6 +121,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S011 — practical giver and reckless identity protector under widening observation:** completes the acting-linked birthday gift, gives Chizuru a partial Ruka reassurance, protects her campus identity through dangerous overdrinking, receives unpriced care and direct LINE access, and corrects Ruka's false public status claims before Mami sees Chizuru working.
 - **KAZ-S012 — paid dream-date client and vocational supporter under family crisis:** designs a commercial missed-youth date, receives Chizuru's work and stage disclosure, promises support, preserves the family fiction, recoils from Ruka's renewed unilateral kiss, and receives Chizuru's direct hospital contact.
 - **KAZ-S013 — truth advocate under crisis, coercion, and inherited obligation:** attempts family disclosure, resists Ruka's repeated kisses, distinguishes his responsibility for the trial from her conduct imperfectly, argues for truth before time runs out, receives the ring, and recognizes Sumi's practical care.
+- **KAZ-S014 — prospective producer under time-limited vocational commitment:** discloses distress to Sumi and accepts support, converts relief into film research, presents an independent-production route to Chizuru, and promises to carry their requested project to the end while the truth, ring, and Ruka routes remain dormant.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -145,14 +150,17 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - When Ruka initiates another kiss, his recoil supplies additional nonconsent evidence; the direct LINE route then becomes materially useful for Chizuru's hospital crisis (RAG-E-V010-015 through RAG-E-V010-017).
 - V011 supplies the strongest counterexample yet to automatic family concealment: he begins a confession, argues directly for telling Sayuri, and renews that intention after receiving the ring, although interruption and disagreement prevent execution (RAG-E-V011-003, RAG-E-V011-007, RAG-E-V011-009, RAG-E-V011-012).
 - He can recognize Sumi's itinerary design as real communication competence and receive care without converting it into an immediate status claim (RAG-E-V011-015 through RAG-E-V011-018).
+- V012 extends reception into disclosure: he uses third-person framing to explain the crisis, accepts Sumi's grief and handhold, and reports that being heard lightens him without recognizing her unheard confession (RAG-E-V012-002, RAG-E-V012-004 through RAG-E-V012-007).
+- A concrete screen route turns that relief into unusually detailed planning: he researches crowdfunding and production constraints, proposes the film, answers Chizuru's caution, and promises completion without demanding personal status (RAG-E-V012-016 through RAG-E-V012-022).
 
 ## Gaps and negative evidence
 
 - Paid employment is routine enough in V005 to produce first wages and a repair plan, but long-duration competence and independence from relationship pressure remain insufficiently sampled.
 - Competence outside relationship crisis remains underobserved.
-- Eleven volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
+- Twelve volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
+- Film research and commitment add project-planning evidence, but no campaign execution, production competence, fundraising result, or finished artifact is yet observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 
 ## Update rule

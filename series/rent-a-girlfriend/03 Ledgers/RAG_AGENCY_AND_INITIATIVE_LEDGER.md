@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V011
+inspected_through_volume: V012
 row_count: 73
-state: CURRENT_THROUGH_V011
+state: CURRENT_THROUGH_V012
 ```
 
 ## Records
@@ -115,3 +115,11 @@ state: CURRENT_THROUGH_V011
 | RAG-AGY-071 | Chizuru | Keep the ring and crisis private or redirect material and social resources. | Places the ring in Kazuya's bag and contacts Sumi, later arranging another practice date. | Returns the inherited burden to Kazuya and reopens a support route around him. | Her complete motive for contacting Sumi is not stated; RAG-E-V011-012, RAG-E-V011-015. |
 | RAG-AGY-072 | Ruka | Continue immediate rivalry during Sayuri's crisis or alter timing. | Declares a temporary truce, gives Kazuya a birthday gift, then kisses his cheek and lifts the kiss ban unilaterally. | Sympathy moderates the target and timing while preserving the conversion goal. | The new rule has no mutual assent; RAG-E-V011-013, RAG-E-V011-014. |
 | RAG-AGY-073 | Sumi | Attend as a passive practice partner or design care around observed preferences. | Chooses a school uniform, plans the Aqua Park itinerary, leads each activity, and secures dolphin-show seats. | Gives Kazuya coordinated enjoyment while demonstrating practical growth. | The date route originates through Chizuru and spoken communication remains difficult; RAG-E-V011-016 through RAG-E-V011-018. |
+| RAG-AGY-074 | Sumi | End the itinerary at entertainment or use the remaining time for care and inquiry. | Chooses the splash zone, leads fishing, treats Kazuya's cut, gives a birthday gift, and asks about the wall he faces. | Extends practical communication into a voluntary opening for emotional disclosure. | The practice-date origin remains, and her confession is not received; RAG-E-V012-001 through RAG-E-V012-004. |
+| RAG-AGY-075 | Sumi | Retreat from Kazuya's indirect crisis account or remain with his distress. | Cries with him, says she understands and is present, and holds his hand. | Gives consequential emotional support without demanding names, fluent speech, or romantic recognition. | Her care does not establish reciprocity or authorship of the later film plan; RAG-E-V012-005 through RAG-E-V012-007. |
+| RAG-AGY-076 | Kazuya | Keep the family crisis private or accept Sumi's bounded invitation to speak. | Uses third-person framing to disclose Chizuru's isolation, acting effort, Sayuri's danger, and his own helplessness. | Gains relief while preserving some identities and relationship details. | Partial disclosure does not resolve the family lie or grant Sumi complete information; RAG-E-V012-004 through RAG-E-V012-007. |
+| RAG-AGY-077 | Chizuru | Reduce work after repeated rejection and hospital strain or continue the existing system. | Maintains hospital visits, acting classes, troupe rehearsal, auditions, rental work, diet, study, and financial obligations. | Preserves vocational effort under declining time and high workload. | Persistence cannot guarantee success and may be costly; RAG-E-V012-008, RAG-E-V012-009. |
+| RAG-AGY-078 | Chizuru | Treat a new rejection as proof that the inherited dream is false or continue acting. | Revisits Sayuri's screen legacy and Katsuhito's promise, grieves, and refuses to abandon the goal. | Keeps a family-linked vocation active after loss. | The choice is burdened by bereavement and does not establish outcome; RAG-E-V012-010 through RAG-E-V012-015. |
+| RAG-AGY-079 | Chizuru | Wait passively during Katsuhito's likely fatal injury or attempt an available act. | Runs an ohyakudo shrine circuit because crying at the hospital appears ineffective. | Converts helplessness into effort even where efficacy is uncertain. | Ritual action does not prove supernatural causation or prevent his death; RAG-E-V012-012 through RAG-E-V012-014. |
+| RAG-AGY-080 | Kazuya | Accept that Chizuru cannot reach a screen role in time or research another route. | Studies crowdfunding, personnel, budgets, timing, editing, and exhibition, then proposes an independent film. | Converts concern into a concrete, non-entitlement support plan. | No funds, script, staff, or production are secured; RAG-E-V012-016 through RAG-E-V012-020. |
+| RAG-AGY-081 | Chizuru and Kazuya | Reject an uncertain project, leave it aspirational, or accept a shared undertaking. | Chizuru tests feasibility and requests the film if Kazuya will not quit; he promises to continue to the end. | Establishes mutual project agency and a joint production commitment. | Agreement does not ensure completion or change romantic status; RAG-E-V012-019 through RAG-E-V012-022. |

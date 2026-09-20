@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V011
+inspected_through_volume: V012
 row_count: 61
-state: CURRENT_THROUGH_V011
+state: CURRENT_THROUGH_V012
 ```
 
 ## Records
@@ -103,3 +103,9 @@ state: CURRENT_THROUGH_V011
 | RAG-FRM-059 | A ring turns audience belief into portable material weight. | The family role moves from celebration speech to an heirloom case that passes from Nagomi to Chizuru and then Kazuya. | Object close-ups connect engagement symbolism, emergency value, and concealed custody. | The object represents care and pressure without establishing an engagement; RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012. |
 | RAG-FRM-060 | Hospital stillness stages opposed definitions of care. | Kazuya's truth demand and Chizuru's protective-memory argument occupy the same limited-time crisis. | Extended dialogue and close reaction panels replace comic party motion. | The form sharpens disagreement but does not adjudicate the ethical outcome; RAG-E-V011-008 through RAG-E-V011-010. |
 | RAG-FRM-061 | The school-uniform motif changes from purchased fantasy to observed care. | Sumi repeats the V010 costume after seeing the dream date, then embeds it in her own aquarium itinerary. | Written phone text, schedule fragments, and successive activity tableaux make planning visible. | The visual echo shows inference and effort, not equivalent relationship status; RAG-E-V011-016 through RAG-E-V011-018. |
+| RAG-FRM-062 | Water changes from spectacle to shared vulnerability. | The dolphin splash first produces comic soaking and practical clothing care; later tears and joined hands carry grief. | Repeated liquid imagery moves the outing from managed entertainment to emotional presence. | Formal continuity does not erase the date's service origin or prove romance; RAG-E-V012-001, RAG-E-V012-006. |
+| RAG-FRM-063 | Sparse speech opens a long disclosure rather than blocking communication. | Sumi's phone memo supplies a precise question, after which Kazuya delivers an extended third-person crisis account. | Screen text and quiet reaction panels redistribute communicative labor between them. | Sumi's romantic sentence remains unheard and full fluency is not established; RAG-E-V012-002, RAG-E-V012-004 through RAG-E-V012-006. |
+| RAG-FRM-064 | A labor montage measures the pressure behind Chizuru's composed surface. | Hospital, school, rehearsal, auditions, rental work, diet, cost, and study appear as compressed successive demands. | Montage converts abstract effort into competing uses of limited time. | Compression cannot supply a complete routine or diagnose endurance; RAG-E-V012-008, RAG-E-V012-009. |
+| RAG-FRM-065 | A screen within the manga turns vocation into inheritance. | Young Chizuru watches Sayuri Otori, declares her dream, then carries Katsuhito's promise through accident, shrine circuit, death, and memorial address. | Recorded performance and repeated promise language bind image-making to family memory. | The structure explains pressure without guaranteeing artistic success; RAG-E-V012-010 through RAG-E-V012-015. |
+| RAG-FRM-066 | A door threshold and laptop transform support speech into a project proposal. | Kazuya arrives at Chizuru's apartment with crowdfunding examples, production estimates, and a cinema route. | Interface pages and numerical planning externalize work that previously existed as feeling. | Research imagery is evidence of preparation, not completed production; RAG-E-V012-016 through RAG-E-V012-020. |
+| RAG-FRM-067 | Matched request and promise close the volume on mutual resolve. | Chizuru asks Kazuya to make the film if he will not quit, and he answers with an end-to-end commitment. | Alternating close panels and emphatic posture make consent to the project reciprocal. | Formal intensity establishes a shared undertaking, not romantic reciprocity or completion; RAG-E-V012-021, RAG-E-V012-022. |

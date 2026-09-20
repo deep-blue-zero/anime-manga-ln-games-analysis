@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V011
+inspected_through_volume: V012
 row_count: 51
-state: CURRENT_THROUGH_V011
+state: CURRENT_THROUGH_V012
 ```
 
 ## Records
@@ -93,3 +93,8 @@ state: CURRENT_THROUGH_V011
 | RAG-CHR-049 | RAG-E-V011-013, RAG-E-V011-014 | Ruka's delayed birthday outing at Omotesando follows the family crisis; she declares a truce, gives a gift, and kisses Kazuya at departure. | Presented as a make-up birthday event after June 1. | Exact calendar date is not printed. |
 | RAG-CHR-050 | RAG-E-V011-015, RAG-E-V011-016 | After Chizuru contacts Sumi, a Saturday 10:00 practice meeting begins at Shinagawa; Sumi arrives in a school uniform. | Day and time are stated; relation to the prior outing is ordered but not dated. | The precise Saturday date is unknown. |
 | RAG-CHR-051 | RAG-E-V011-017, RAG-E-V011-018 | Sumi leads the Aqua Park itinerary through the 11:30 dolphin-show seating. | Schedule order and 11:30 show time are visible. | V011 ends before the show starts. |
+| RAG-CHR-052 | RAG-E-V012-001 through RAG-E-V012-007 | The same aquarium outing continues through the dolphin show, fishing, birthday gift, crisis disclosure, shared grief, and station departure. | Direct continuation from V011; internal sequence is clear. | Exact calendar date remains unknown beyond the stated Saturday. |
+| RAG-CHR-053 | RAG-E-V012-007 | After leaving Sumi, Kazuya sees a station film-rental advertisement and identifies a possible way to help Chizuru. | Occurs immediately after the aquarium disclosure. | Research duration before the proposal is not stated. |
+| RAG-CHR-054 | RAG-E-V012-008, RAG-E-V012-009 | Chizuru continues hospital visits, classes, rehearsal, rental work, study, and auditions before receiving another film rejection. | Occurs after the aquarium sequence and while Sayuri remains hospitalized. | The montage spans an unstated interval. |
+| RAG-CHR-055 | RAG-E-V012-010 through RAG-E-V012-014 | A flashback begins in Chizuru's first year of middle school, covers discovery of Sayuri's screen career and the acting promise, then Katsuhito's collision, hospitalization, and death. | The opening school year and causal order are explicit. | Exact dates and elapsed time within the flashback are not supplied. |
+| RAG-CHR-056 | RAG-E-V012-015 through RAG-E-V012-022 | In the present, Chizuru recommits after rejection; later Kazuya brings his crowdfunding research, and the pair agree to make the film. | Present return and proposal sequence are explicit. | Exact elapsed time between rejection, research, and the night meeting is unknown. |

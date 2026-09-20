@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; character evidence inspected through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; character evidence inspected through V012."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V011
+inspected_through_volume: V012
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -95,6 +95,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E053 | CHI-S013 | RAG-E-V011-006 through RAG-E-V011-011 | Heirloom pressure and limited-time information ethics | Resists the ring, stops Kazuya from telling Sayuri, and argues that a comforting belief should be preserved. | Converts visible crisis into a protective-deception rule while rejecting prospective-marriage material. | Care does not make the account true, and Sayuri's informed preference is unknown. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R006 |
 | RAG-CHI-E054 | CHI-S013 | RAG-E-V011-011, RAG-E-V011-012 | Emergency-support offer, material redirection, and private strain | Receives the ring after Nagomi authorizes emergency use, places it in Kazuya's bag, and is shown distressed in the shower. | Accepts the care long enough to redirect the object rather than claim it. | Visual strain does not reveal a complete motive or future decision. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R009 |
 | RAG-CHI-E055 | CHI-S013 | RAG-E-V011-012, RAG-E-V011-015 | Social coordination under concealed burden | Contacts Sumi and arranges another practice date for Kazuya while continuing to say she has done everything she can for Sayuri. | Directs attention and support outward during her own family crisis. | The text does not state her full purpose for reopening the Sumi route. | RAG-CHI-R003, RAG-CHI-R008, RAG-CHI-R009 |
+| RAG-CHI-E056 | CHI-S014 | RAG-E-V012-008, RAG-E-V012-009 | Work system, care burden, and renewed rejection | Sustains hospital visits, acting classes, rehearsal, auditions, rental work, finances, diet, and study, then receives another film rejection. | Answers publicly with continued effort while privately asking what more she can do. | The montage does not establish unlimited endurance, objective talent, or outcome. | RAG-CHI-R007, RAG-CHI-R009, RAG-CHI-R010 |
+| RAG-CHI-E057 | CHI-S014 | RAG-E-V012-010, RAG-E-V012-011 | Family screen legacy and declared vocation | Discovers Sayuri's celebrated screen work, declares a wish to become an actress like her, and receives Katsuhito's promise of total support. | Converts an interest in stories into a spoken family project. | Encouragement does not guarantee success or isolate a single adult motive. | RAG-CHI-R002, RAG-CHI-R007, RAG-CHI-R010 |
+| RAG-CHI-E058 | CHI-S014 | RAG-E-V012-012 through RAG-E-V012-015 | Bereavement, ritual action, and vocational persistence | Responds to Katsuhito's collision with an ohyakudo circuit, receives his final assurance, grieves his death, and later refuses to abandon the promise after rejection. | Converts helplessness and loss into repeated action while retaining doubt about the promise. | Ritual and persistence do not establish supernatural belief, efficacy, or eventual success. | RAG-CHI-R009, RAG-CHI-R010 |
+| RAG-CHI-E059 | CHI-S014 | RAG-E-V012-016 through RAG-E-V012-022 | Proposal reception, feasibility judgment, and project consent | Hears Kazuya's crowdfunding plan, names the risk of wasting Sayuri's time, then explicitly requests the film if he will not quit. | Exercises project agency by evaluating conditions and authorizing a shared undertaking. | Consent is film-specific and no production, career outcome, or romantic transition is yet established. | RAG-CHI-R007, RAG-CHI-R009, RAG-CHI-R010 |
 
 ## State-change summary
 
@@ -111,8 +115,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S011 — grateful gift recipient and bounded crisis carer under campus exposure:** she accepts acting-linked practical support and partial Ruka reassurance, protects her university identity, chooses sustained apartment and follow-up care after Kazuya's reckless protection, and objects to unsolicited digital access while limiting interpretation.
 - **CHI-S012 — professionally self-defining actor under family and hospital pressure:** she contains Mami's inquiry, leads an upgraded dream date, articulates pride in rental labor, discloses another stage opportunity, chooses an unbooked family visit, and uses direct LINE during Sayuri's hospital crisis.
 - **CHI-S013 — protective-deception advocate under inherited burden:** she returns to the family party, receives Ruka's claim, resists and redirects the family ring, opposes truth-telling to Sayuri, shows private strain, and reopens the Sumi practice route.
+- **CHI-S014 — grieving actor and voluntary film principal under deadline:** she sustains an intensive care-and-work system, relives the screen legacy and death that formed her acting promise, persists after another rejection, tests Kazuya's proposal against Sayuri's remaining time, and explicitly requests the film.
 
-The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V011 do not establish a disposition change or romantic self-recognition.
+The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -132,16 +137,19 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - Prior family promise and acute hospital need can justify chosen non-booking access, but each route remains purpose-bounded (RAG-E-V010-011 through RAG-E-V010-017).
 - V011 supplies her clearest stated deception ethic: when time is limited, she prioritizes Sayuri's comforting belief over factual correction, while rejecting and redirecting the ring that materializes the same belief (RAG-E-V011-006 through RAG-E-V011-012).
 - Contacting Sumi while visibly strained extends controlled coordination beyond immediate self-protection, but the exact purpose remains underdetermined (RAG-E-V011-012, RAG-E-V011-015).
+- V012 makes her vocational burden concrete through a dense labor montage and a second screen-role rejection, then supplies the extended family history that joins Sayuri's acting legacy, Katsuhito's encouragement and death, and Chizuru's continuing effort (RAG-E-V012-008 through RAG-E-V012-015).
+- When Kazuya offers a researched route, she does not accept from enthusiasm alone: she questions feasibility, names the time cost, conditions assent on persistence, and then requests the film (RAG-E-V012-016 through RAG-E-V012-022).
 
 ## Gaps and negative evidence
 
-- V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason, and V010 supplies another stage opportunity and explicit work pride, but sustained vocational outcome remains sparse.
+- V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason, V010 supplies another stage opportunity and explicit work pride, and V012 supplies the detailed origin and a film-project request, but sustained vocational outcome remains sparse.
 - She knows the rescue occurred, but gives no direct private evaluation of Kazuya's motive or her own feeling.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
 - No broad rule yet supports behavior with close friends, teachers, coworkers beyond Umi, or a mutually acknowledged partner.
 - The ledger supports no split-personality reading between “Mizuhara” and “Ichinose.”
 - Kazuya's preference and support are direct, and Chizuru accepts a gift, provides unpaid care, and defends a comforting family representation, but no reciprocal feeling or relationship transition may be supplied.
+- The film request authorizes project collaboration and shows agency under deadline; it does not supply completed production, a career result, or romantic self-classification.
 
 ## Update rule
 

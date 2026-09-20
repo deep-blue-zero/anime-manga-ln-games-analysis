@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V011; inspected and closed through V011."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V011
+inspected_through_volume: V012
 row_count: 62
-state: CURRENT_THROUGH_V011
+state: CURRENT_THROUGH_V012
 ```
 ```
 
@@ -105,3 +105,9 @@ state: CURRENT_THROUGH_V011
 | RAG-REL-060 | Chizuru / Kazuya ↔ Nagomi | False prospective couple receiving family support | Nagomi transfers the heirloom as both engagement symbol and emergency resource; Chizuru places it in Kazuya's bag. | Care becomes materially entangled with the false status. | Kazuya holds the ring while Nagomi remains uninformed. | RAG-E-V011-006, RAG-E-V011-011, RAG-E-V011-012 |
 | RAG-REL-061 | Ruka → Kazuya | Provisional partner under crisis-adjusted pursuit | Ruka declares a temporary truce, gives a birthday gift, kisses his cheek, and lifts the kiss ban. | She can suspend one rivalry front while defining intimacy rules unilaterally. | Conversion goal persists without reciprocal love or consent. | RAG-E-V011-013, RAG-E-V011-014 |
 | RAG-REL-062 | Sumi → Kazuya / Chizuru | Practice provider and prior gift adviser | Through a route reopened by Chizuru, Sumi designs an aquarium outing around Kazuya's perceived preferences and enjoyment. | Care and initiative expand from advice into coordinated personal attention. | The date remains tied to practice, and its deeper conversation is unfinished. | RAG-E-V011-015 through RAG-E-V011-018 |
+| RAG-REL-063 | Sumi → Kazuya | Practice provider and personal admirer | Completes the outing, gives care and a birthday gift, makes an unheard confession, and invites discussion of his crisis. | Becomes a consequential confidant without gaining romantic recognition. | The service origin remains and Kazuya does not receive her confession. | RAG-E-V012-001 through RAG-E-V012-006 |
+| RAG-REL-064 | Kazuya → Sumi | Practice client receiving voluntary support | Gives a partial crisis account, accepts her shared grief and handhold, and reports emotional relief. | Can use a bounded relationship for honest coping without converting it into a status claim. | He withholds identities and does not recognize her romantic declaration. | RAG-E-V012-004 through RAG-E-V012-007 |
+| RAG-REL-065 | Chizuru ↔ Sayuri / Katsuhito | Granddaughter shaped by screen legacy and grandparent support | Sayuri's former acting and Katsuhito's promise and death make Chizuru's vocation an intergenerational obligation. | Family love, grief, imitation, and career effort become inseparable. | Katsuhito is dead, Sayuri's time is limited, and success is not guaranteed. | RAG-E-V012-010 through RAG-E-V012-015 |
+| RAG-REL-066 | Kazuya → Chizuru | Status-independent supporter becoming prospective producer | Brings researched crowdfunding and production estimates designed to put Chizuru on screen for Sayuri. | Support moves from paid bookings and encouragement into project infrastructure. | Competence, financing, and delivery remain untested. | RAG-E-V012-016 through RAG-E-V012-020 |
+| RAG-REL-067 | Chizuru ↔ Kazuya | Family collaborators and disputed-deception partners | Chizuru requests the film after testing feasibility; Kazuya promises completion. | They become voluntary film collaborators with a shared external goal. | The truth disagreement remains dormant and project consent creates no romantic status. | RAG-E-V012-019 through RAG-E-V012-023 |
+| RAG-REL-068 | Ruka / Mami / Kinoshita family routes | Unresolved peripheral relationships | V012 gives no new conduct concerning Ruka, Mami, the false family account, or ring custody. | Existing states remain live but inactive. | Absence supplies no repair, abandonment, or knowledge change. | RAG-E-V012-023, RAG-E-V012-024 |
