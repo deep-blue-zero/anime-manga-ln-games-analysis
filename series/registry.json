@@ -441,6 +441,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "rent-a-girlfriend",
+      "stable_slug": "rent-a-girlfriend",
+      "canonical_title": "Rent-a-Girlfriend",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/rent-a-girlfriend/",
+      "canonical_entrypoint": "series/rent-a-girlfriend/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260919",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga V001-V047 inventoried and hash-locked locally; the authorized continuous run is V001-V010. Foundations and day-one longitudinal instruments are initialized, with V001 the next analytical unit."
+    },
+    {
       "series_id": "revue-starlight",
       "stable_slug": "revue-starlight",
       "canonical_title": "Revue Starlight",
