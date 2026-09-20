@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0120
+## Current state — founded units synchronized through EVENT_0121
 
-All five human units now track the same continuous event history through `EVENT_0120`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0120 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0121`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0121 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0120 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0121 committed boundary
+
+**EVENT_0121 is fully integrated:** Leo/need becomes a leader-coordinated professional band. `LN-EP-HONAMI-E0010 → LN-EP-HONAMI-E0121` advances care into drum-led ensemble guidance, and `LN-REL-G-E0020 → LN-REL-G-E0121` records a shared listener-facing purpose, unanimous leader appointment, demonstrated coordination, and scheduled debut. Solis, the other individual operatives, and School-singer topology remain proportionally preserved. The verified envelope is 24 stories / 42 scenes / 1,526 records. No unilateral leader authority, permanent technical mastery, safe workload practice, completed debut performance or release, confirmed festival placement, commercial success, guaranteed future cohesion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0120 to EVENT_0121. EVENT_0122 is next and 19 events remain through EVENT_0140.
+
+The [EVENT_0121 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0121_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 6 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0120 committed boundary
 
 **EVENT_0120 is fully integrated as a mixed high-I2 event:** Kohane/Toya/Haruka and Ena/Airi/Shizuku complete rival photo projects whose specific comparison raises both works. New bounded I2 `REL-CROSS-KOHANE-ENA-E0120` records direct competition, mutual acknowledgment, accepted result, prize transfer, and a shared candid memory; existing character and group authorities remain in force. The verified envelope is 23 stories / 55 scenes / 1,636 records. No new I3 operative, universal artistic ranking, professional photography or modeling status, permanent cross-unit team, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0119 to EVENT_0120. EVENT_0121 is next and 20 events remain through EVENT_0140.
 
@@ -557,13 +563,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0120`. A bounded Kohane–Ena competitive relationship and distributed cross-unit craft applications are integrated; no governing operative changes. `EVENT_0121` is next; 20 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0121`. Honami's care has become self-chosen musical guidance; Leo/need now has a shared purpose, formal leader, tested coordination method, and scheduled debut. `EVENT_0122` is next; 19 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0120` for all five human units. The EVENT_0116–0140 continuation is active with 20 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0121` for all five human units. The EVENT_0116–0140 continuation is active with 19 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0120_DEEP_READING.md) closes `EVENT_0120 — Take the Best Shot！`, bucket `RB_20240131T110000Z`: 23 stories / 55 scenes / 1,636 records. A bounded Kohane–Ena competitive relationship and distributed cross-unit craft applications are integrated; no governing operative changes.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0121_DEEP_READING.md) closes `EVENT_0121 — 導く勇気、優しさを胸に`, bucket `RB_20240210T060000Z`: 24 stories / 42 scenes / 1,526 records. Honami's care has become self-chosen musical guidance; Leo/need now has a shared purpose, formal leader, tested coordination method, and scheduled debut.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
