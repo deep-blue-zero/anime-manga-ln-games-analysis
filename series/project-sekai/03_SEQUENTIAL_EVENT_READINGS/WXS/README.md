@@ -48,3 +48,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0095 — カナリアは窮境に歌う](PJSK_EVENT_0095_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-NENE-E0095` records integrated musical acting and experience seeking, new `WXS-REL-NENE-YUKA-E0095` is bounded high I2, and the WxS group, Rui, Sakurako and Wonderland relations receive strong-I2 reuse while unsafe overwork and unresolved troupe direction remain explicit.
 
 - [EVENT_0099 — 一期一会な百鬼夜行！？](PJSK_EVENT_0099_DEEP_READING.md): complete 24-story envelope; new `WXS-EP-RUI-E0099` outside-show friendship operative I3, new `WXS-REL-RUI-CLASSMATES-E0099` I3, bounded `REL-CROSS-MAFUYU-AIRI-E0099` I2, and preserved Rui E0024, WxS, N25, MMJ, cross-unit, and manifestation authority.
+
+- [EVENT_0104 — あたしたちのハッピーエンド](PJSK_EVENT_0104_DEEP_READING.md): complete 23-story envelope; new `WXS-EP-EMU-E0104` records shared stewardship and outside learning, `REL-WXS-MS-G-P06 → REL-WXS-G-E0104` records the independent four-person troupe, and `WXS-EP-PARK-E0025 → WXS-EP-PARK-E0104` records the bounded institutional handoff.

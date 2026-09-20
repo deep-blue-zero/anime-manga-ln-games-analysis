@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0103
+## Current coverage — all five human units synchronized through EVENT_0104
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0103 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0103`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0104 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0104`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0103 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0104 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0104 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with three distinct I3 advances. New `WXS-EP-EMU-E0104` records Emu preserving her park purpose while revising its exclusive means from staying alone to shared stewardship, outside learning, and intended return; it also allows grief to be shared instead of hidden behind mandatory smiles. `REL-WXS-MS-G-P06 → REL-WXS-G-E0104` records the four's informed, negotiated, approved, and publicly enacted transition from a park-based company to one independent freelance troupe. `WXS-EP-PARK-E0025 → WXS-EP-PARK-E0104` records a bounded institutional handoff after observed visitor and satisfaction gains, management and staff ownership, replacement performance coverage, and a future offer channel. Preserve Nene, Rui, Sakurako, park-support, and Wonderland relations at strong I2. LN and VBS receive low-I1 reports of intended final-show attendance; MMJ and N25 are I0. The verified envelope is 23 stories / 41 scenes / 1,830 records: eight core chapters, ten card halves, and five linked areas. No permanent park rescue, audited profit, final Riley terms, guaranteed return, completed external work, professional mastery, grief cure, legal management transfer, lifelong troupe continuity, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0103 to EVENT_0104; EVENT_0105 is next and 11 events remain through EVENT_0115.
+
+Causal home: [EVENT_0104 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0104_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0104: 23 stories / 41 scenes / 1,830 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `WXS-EP-EMU-E0104`; advance I3 `REL-WXS-G-E0104` and bounded institutional I3 `WXS-EP-PARK-E0104`.
+- Preserve Nene, Rui, Sakurako, park-support, and Wonderland authority at strong I2; LN/VBS reported I1; MMJ/N25 I0.
+- The shared boundary is EVENT_0104; EVENT_0105 is next and 11 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0103 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0103 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH with three distinct I3 advances. `VBS-EP-KH-E0028 → VBS-EP-KH-E0103` records Kohane's move from borrowed grounded confidence to internally held singer pride: she recognizes frustration as evidence of serious investment, preserves it as forward support, and acts while fear remains. New scoped `VBS-REL-GROUP-KEN-E0103` records Ken's temporary closure of WEEKEND GARAGE, offer of all available time and knowledge, demanding terms, and acceptance by all four; no training session or result is yet shown. `VBS-REL-TOYA-FATHER-2 → VBS-REL-TOYA-FATHER-3` records conditional practical permission and partial receipt of Toya as a musician without endorsement or reconciliation. Preserve `VBS-REL-AN-KEN-E0097` with forgiveness and repair OPEN, and preserve `VBS-REL-AK-ARATA-E0021` at negative/open I2 after Arata's reported departure. Leo/need is a bounded cross-unit I2 route through Shiho's experience-based encouragement; MMJ, WxS, and N25 are I0. The verified envelope is 23 stories / 45 scenes / 1,539 records: eight core chapters, ten card halves, and five linked areas. No permanent confidence, skill parity, victory, completed or proven-safe Ken training, restored coalition, permanent Arata retirement, repaired An–Ken trust, paternal endorsement, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0102 to EVENT_0103; EVENT_0104 is next and 12 events remain through EVENT_0115.
 
@@ -1566,3 +1577,7 @@ The verified group contains eight core chapters (18 scenes, 738 records), ten as
 ### EVENT_0103 source and reconstruction review
 
 The verified group contains eight core chapters (23 scenes, 904 records), ten associated card halves (17 scenes, 586 records), and five linked areas (5 scenes, 49 records). `VBS-EP-KH-E0103`, `VBS-REL-GROUP-KEN-E0103`, and `VBS-REL-TOYA-FATHER-3` own distinct I3 changes. An–Ken remains unresolved; Akito–Arata remains negative/open; VBS group, partner, Akito, Toya, and Street relations are preserved. LN receives bounded I2 routing; MMJ/WxS/N25 are I0. Permanent confidence, skill parity, victory, training success or safety, coalition return, permanent Arata retirement, trust repair, parental endorsement, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0104 source and reconstruction review
+
+The verified group contains eight core chapters (18 scenes, 1,143 records), ten associated card halves (18 scenes, 634 records), and five linked areas (5 scenes, 53 records). `WXS-EP-EMU-E0104`, `REL-WXS-G-E0104`, and `WXS-EP-PARK-E0104` own distinct I3 changes. Nene, Rui, Sakurako, park-support, and Wonderland relations remain proportionally bounded. LN/VBS receive reported I1; MMJ/N25 are I0. Park durability, profit, external work, mastery, return, grief resolution, future rivalry, global singers, and complete reconstruction remain uncertified.
