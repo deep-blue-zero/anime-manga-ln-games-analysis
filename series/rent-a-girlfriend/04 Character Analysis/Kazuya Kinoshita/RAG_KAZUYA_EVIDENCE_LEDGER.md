@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; character evidence inspected through V013."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; character evidence inspected through V014."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V013
+inspected_through_volume: V014
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -109,6 +109,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E069 | KAZ-S015 | RAG-E-V013-007 through RAG-E-V013-011 | Joint work, budgeting, contribution boundary, and care received | Hosts the non-booked session, constructs the budget with Chizuru, refuses her savings burden, states his support motive, and receives a meal. | Sustains reciprocal work while preserving project-specific limits. | Intense private access and care do not establish romantic reciprocity. | RAG-KAZ-R002, RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011 |
 | RAG-KAZ-E070 | KAZ-S015 | RAG-E-V013-012 through RAG-E-V013-016 | Discovery, bounded explanation, and producer assignment | Participates in explaining the relation to Mini, accepts her help, and is identified by Chizuru as producer. | Gains role recognition and a third collaborator. | Mini's romantic inference and title do not prove competence or couple status. | RAG-KAZ-R001, RAG-KAZ-R005, RAG-KAZ-R011 |
 | RAG-KAZ-E071 | KAZ-S015 | RAG-E-V013-020 through RAG-E-V013-022 | Revision, approval, deadline, and public launch | Returns after platform approval and activates a 1.82-million-yen campaign for forty-five days. | Converts a promise into a public outcome test after criticism. | Launch begins at zero yen and zero supporters. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011 |
+| RAG-KAZ-E072 | KAZ-S016 | RAG-E-V014-002, RAG-E-V014-003 | Initial campaign traction and next-bottleneck search | Reports real pledges to Chizuru, accepts her caution, and begins searching for a script through the route she supplies. | Treats launch success as a transition into further production work. | Early support and searching do not secure the project. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R012 |
+| RAG-KAZ-E073 | KAZ-S016 | RAG-E-V014-007 through RAG-E-V014-009 | Source evaluation, rights outreach, and director persistence | Reads large numbers of submissions, seeks author permission, and contacts Tabuse repeatedly for roughly three weeks until story and directing routes are secured. | Demonstrates cross-functional producer labor and tolerance for specialist refusal. | Screenplay, schedule, filming, and delivery remain open. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R012 |
+| RAG-KAZ-E074 | KAZ-S016 | RAG-E-V014-010 through RAG-E-V014-014 | Stall response, collective strategy, financial strain, and public rejection | Initially seeks personal cash, then accepts Mini's analytics and team plan, pays for flyers, and continues distributing them despite repeated rejection. | Moves from self-blame toward distributed correction while sustaining costly effort. | Personal funds are weak, and final campaign efficacy is unknown. | RAG-KAZ-R003, RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R012 |
+| RAG-KAZ-E075 | KAZ-S016 | RAG-E-V014-015, RAG-E-V014-019, RAG-E-V014-020 | Support received and unauthorized preference disclosure | Receives Ruka's public project help while Mini tells Chizuru that he likes her; he takes no observed action on the truth, ring, Mami, or Ruka-status routes. | His attachment now motivates a coalition and becomes direct information for Chizuru without his participation. | Chizuru's response is unseen, and dormant obligations remain unresolved. | RAG-KAZ-R001, RAG-KAZ-R005, RAG-KAZ-R012 |
 
 ## State-change summary
 
@@ -127,6 +131,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S013 — truth advocate under crisis, coercion, and inherited obligation:** attempts family disclosure, resists Ruka's repeated kisses, distinguishes his responsibility for the trial from her conduct imperfectly, argues for truth before time runs out, receives the ring, and recognizes Sumi's practical care.
 - **KAZ-S014 — prospective producer under time-limited vocational commitment:** discloses distress to Sumi and accepts support, converts relief into film research, presents an independent-production route to Chizuru, and promises to carry their requested project to the end while the truth, ring, and Ruka routes remain dormant.
 - **KAZ-S015 — named producer with a live unfunded campaign:** accepts task division and expert correction, sustains detailed collaboration with Chizuru, adds Mini to the project, secures platform approval, and launches a quantified forty-five-day campaign whose production outcome remains unproved.
+- **KAZ-S016 — cross-functional producer under funding stall:** turns initial pledges into further work, secures source permission and a director route through sustained outreach, accepts Mini's corrective strategy, and absorbs direct cost and public rejection while the campaign remains short of its target.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -157,6 +162,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - He can recognize Sumi's itinerary design as real communication competence and receive care without converting it into an immediate status claim (RAG-E-V011-015 through RAG-E-V011-018).
 - V012 extends reception into disclosure: he uses third-person framing to explain the crisis, accepts Sumi's grief and handhold, and reports that being heard lightens him without recognizing her unheard confession (RAG-E-V012-002, RAG-E-V012-004 through RAG-E-V012-007).
 - A concrete screen route turns that relief into unusually detailed planning: he researches crowdfunding and production constraints, proposes the film, answers Chizuru's caution, and promises completion without demanding personal status (RAG-E-V012-016 through RAG-E-V012-022).
+- V014 extends planning into execution across source evaluation, rights contact, director recruitment, analytics, team delegation, and street promotion; the same sequence retains self-blame and weak personal finances as limits (RAG-E-V014-007 through RAG-E-V014-014).
 
 ## Gaps and negative evidence
 
@@ -165,7 +171,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Twelve volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
-- Film research and commitment add project-planning evidence, but no campaign execution, production competence, fundraising result, or finished artifact is yet observed.
+- Film research now extends through live fundraising, source permission, a director route, strategy revision, and public promotion, but no completed screenplay, funded campaign, shoot, or finished artifact is yet observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 
 ## Update rule

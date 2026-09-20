@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V011."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V014, with V012-V013 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -36,13 +36,16 @@ model_basis:
     - RAG-JP-EPUB-V009
     - RAG-JP-EPUB-V010
     - RAG-JP-EPUB-V011
-  admitted_through_volume: V011
-  narrative_time_boundary: "after Ruka tells Chizuru about the kiss, repeatedly kisses a resisting Kazuya, then declares a crisis truce while preserving unilateral intimacy"
+    - RAG-JP-EPUB-V012
+    - RAG-JP-EPUB-V013
+    - RAG-JP-EPUB-V014
+  admitted_through_volume: V014
+  narrative_time_boundary: "after Ruka joins the film campaign strategy and performs public flyer labor for a project centered on Chizuru"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.11"
+  model_revision: "1.12"
   prior_knowledge_limitations:
-    - "No post-V011 narrative evidence is admitted."
+    - "No post-V014 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -86,7 +89,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports tightly bounded reconstruction of Ruka at the V011 endpoint when bodily self-monitoring, romantic certainty, rivalry, provisional dating, family crisis, and status challenge are salient. It can model her direct speech, high initiative, ordinary-date effort, local apology, sexual pressure, unilateral intimacy, crisis-triggered tactical delay, and categorical overstatement. It must abstain on a precise diagnosis, family life, later development, durable rejection, knowledge she does not receive, and any assumption that her pulse, provisional label, gift, or physical initiative proves mutual love or consent.
+This model supports tightly bounded reconstruction of Ruka at the V014 endpoint when bodily self-monitoring, romantic certainty, rivalry, provisional dating, family crisis, status challenge, and shared project work are salient. It can model her direct speech, high initiative, ordinary-date effort, local apology, sexual pressure, unilateral intimacy, crisis-triggered tactical delay, categorical overstatement, and burden-triggered support. It must abstain on a precise diagnosis, family life, later development, durable rejection, knowledge she does not receive, and any assumption that her pulse, provisional label, gift, or physical initiative proves mutual love or consent.
 
 ## Central mechanism
 
@@ -94,7 +97,7 @@ Ruka converts a long-standing feeling of physiological and social difference int
 
 Kazuya's defense of Chizuru produces the first reading above ninety. Ruka therefore treats him as a unique answer rather than one promising person among alternatives. That certainty compresses deliberation. She investigates, declares love, bargains with the secret, accepts a nonreciprocal trial, and repeatedly creates access. High initiative and genuine vulnerability coexist with coercive pressure.
 
-The model must preserve counterevidence. Ruka does not immediately expose Chizuru, later says she never intended to, understands that the relationship is provisional, and accepts that Kazuya is attached elsewhere. In V005 she stops after Kazuya retreats, abandons a prepared disclosure when Nagomi's attachment becomes concrete, joins Kazuya's workplace, and plants underwear to mislead Chizuru. V008 shows sincere ordinary-date effort and cooking alongside intrusion, sexual pressure, and a unilateral kiss after refusal. V009 shows sincere tears and love language alongside a false claim of completed sexual intimacy. V010 shows an apology followed by family pursuit and another unilateral kiss. V011 weakens a broad refusal-sensitive model because she continues kissing through objection, while the later temporary truce shows that third-party crisis can redirect timing. She is neither a purely calculating blackmailer nor a purely innocent romantic claimant.
+The model must preserve counterevidence. Ruka does not immediately expose Chizuru, later says she never intended to, understands that the relationship is provisional, and accepts that Kazuya is attached elsewhere. In V005 she stops after Kazuya retreats, abandons a prepared disclosure when Nagomi's attachment becomes concrete, joins Kazuya's workplace, and plants underwear to mislead Chizuru. V008 shows sincere ordinary-date effort and cooking alongside intrusion, sexual pressure, and a unilateral kiss after refusal. V009 shows sincere tears and love language alongside a false claim of completed sexual intimacy. V010 shows an apology followed by family pursuit and another unilateral kiss. V011 weakens a broad refusal-sensitive model because she continues kissing through objection, while the later temporary truce shows that third-party crisis can redirect timing. V014 adds costly cooperation on Chizuru's film when Kazuya's burden is visible. She is neither a purely calculating blackmailer nor a purely innocent romantic claimant.
 
 ## Temporal states
 
@@ -415,7 +418,7 @@ uncertainties:
 ~~~yaml
 state_id: RUK-S010
 valid_from_source: "V011 0003"
-valid_until_source: null
+valid_until_source: "V014 0125"
 entry_conditions:
   - "The family-party kiss has become a direct rivalry fact while Sayuri's hospitalization raises a concrete third-party cost."
 active_goals:
@@ -448,6 +451,41 @@ uncertainties:
   - "Whether the truce constrains later conduct."
   - "Whether she distinguishes Kazuya's guilt from consent."
   - "How she would respond to a definitive end of the trial."
+~~~
+
+### RUK-S011 — rival acting as project supporter
+
+~~~yaml
+state_id: RUK-S011
+valid_from_source: "V014 0126"
+valid_until_source: null
+entry_conditions:
+  - "The film campaign is stalled, Mini convenes a recovery team, and Kazuya's burden is directly visible."
+active_goals:
+  - help Kazuya prevent the campaign from failing
+  - remain involved while Chizuru is the film's heroine
+  - preserve her romantic claim despite temporary cooperative labor
+known_propositions:
+  - "The campaign needs roughly one million yen more and fails completely if the target is missed."
+  - "Kazuya is exhausting his money and effort on promotion for Chizuru."
+  - "Mini has assigned a broad publicity and reward strategy."
+relationship_conditions:
+  - "Rivalry with Chizuru coexists with membership in the same project team."
+  - "Concern for Kazuya can produce unpriced work that materially benefits Chizuru."
+  - "The provisional relationship and prior consent conflict remain unresolved."
+changed_from_previous:
+  - FILM_TEAM_JOINED
+  - CAMPAIGN_TASK_ACCEPTED
+  - PUBLIC_FLYER_LABOR_PERFORMED
+  - COLLECTIVE_PROJECT_LANGUAGE_USED
+evidence_refs:
+  - RAG-E-V014-012
+  - RAG-E-V014-013
+  - RAG-E-V014-015
+  - RAG-E-V014-020
+uncertainties:
+  - "Whether project cooperation persists when rivalry becomes immediate again."
+  - "Whether helping the film changes her treatment of Kazuya's refusal or Chizuru's priority."
 ~~~
 
 ## Behavioral rules
@@ -509,6 +547,18 @@ uncertainties:
 - Disconfirming observation: repeated comparable concrete harm or refusal followed by unchanged immediate escalation.
 - Class/confidence: WORKING_HYPOTHESIS; low-to-moderate within V005.
 
+### RAG-RUK-R006 — visible burden can redirect rivalry into costly support without revising the romantic goal
+
+- Scope: RUK-S011.
+- Trigger: Kazuya's effort and distress are concrete, and a shared external task offers a way to help.
+- Likely appraisal: work for the project is justified as support for Kazuya even when it benefits Chizuru.
+- Likely action range: join group strategy, accept an assigned task, prepare promotional material, tolerate public rejection, and use collective project language.
+- Inhibitors/escalators: immediate romantic comparison may inhibit cooperation; visible exhaustion and a measurable all-or-nothing threat escalate it.
+- Support: RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015.
+- Counterevidence/gap: one short campaign sequence; no later conflict tests durability.
+- Disconfirming observation: comparable visible burden produces sabotage, refusal, or purely competitive action despite a feasible shared task.
+- Class/confidence: WORKING_HYPOTHESIS; low and project-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
@@ -542,12 +592,12 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, Kazuya's direct preference and support statements to Chizuru, or any post-V011 Ruka conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, or any post-V014 Ruka conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
-V011 distinguishes sensitivity to third-party crisis from respect for Kazuya's refusal. Ruka continues repeated kissing through resistance, but Sayuri's collapse produces a temporary truce and ordinary birthday care without dissolving the larger goal. RAG-RUK-R005 therefore predicts redirection under concrete third-party cost more reliably than under refusal alone. Local readiness remains PARTIAL_MODEL because her own family life, school routine, informed response to Kazuya's stage support, reaction to a definitive end of the trial, and long-term conduct are sparse.
+V014 adds a different redirection test: Kazuya's visible burden and the campaign's measurable risk produce cooperative flyer labor for Chizuru's film without dissolving Ruka's larger romantic goal. RAG-RUK-R006 is therefore limited to concrete shared tasks, while RAG-RUK-R005 remains the stronger rule for third-party crisis and the V011 consent counterevidence remains intact. Local readiness remains PARTIAL_MODEL because her own family life, school routine, response to a definitive end of the trial, and long-term conduct are sparse.
 
 The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.

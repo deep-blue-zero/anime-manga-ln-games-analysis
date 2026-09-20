@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V013
-row_count: 58
-state: CURRENT_THROUGH_V013
+inspected_through_volume: V014
+row_count: 63
+state: CURRENT_THROUGH_V014
 ```
 
 ## Records
@@ -110,3 +110,8 @@ state: CURRENT_THROUGH_V013
 | RAG-TXN-066 | Chizuru and Kazuya; private room production session | No booking or payment governs the room visit, budgeting, campaign choices, or meal. | Chizuru initiates access and both perform project labor; food care is voluntary. | Private space and domestic conduct remain project-scoped. | Deepens non-transactional coordination without romantic reclassification; RAG-E-V013-007 through RAG-E-V013-011. |
 | RAG-TXN-067 | Mini, Chizuru, and Kazuya; volunteer recruitment | No wage, authority, or formal role is specified. | Mini offers labor after receiving a bounded explanation, and Chizuru accepts. | Volunteering creates no right to expose or redefine the pair. | Adds capacity while leaving role terms open; RAG-E-V013-012 through RAG-E-V013-016. |
 | RAG-TXN-068 | Chizuru, Sayuri, Kazuya, and public backers; campaign publication | Sayuri authorizes the family story; Kazuya and Chizuru request public funding toward 1.82 million yen over forty-five days. | The principals expose controlled personal information and offer campaign rewards. | Publication creates no guarantee, and zero support is shown at launch. | Converts private collaboration into a public financing transaction; RAG-E-V013-017 through RAG-E-V013-022. |
+| RAG-TXN-069 | Kazuya, Chizuru, and public backers; live campaign | Existing reward tiers exchange money for event access, credit, or thanks under an all-or-nothing target. | At least 328 supporters pledge toward the film. | Pledges remain conditional on reaching the full target. | Public support becomes material but incomplete; RAG-E-V014-002, RAG-E-V014-010, RAG-E-V014-012. |
+| RAG-TXN-070 | Kazuya, Itohara, and Tabuse; story and directing access | Kazuya requests adaptation rights and production labor through disclosed project purpose rather than personal entitlement. | The author permits the source route, and Tabuse agrees after repeated professional approach. | Agreement grants project participation, not private access or guaranteed delivery. | Expands the film into specialist collaboration; RAG-E-V014-007 through RAG-E-V014-009. |
+| RAG-TXN-071 | Mini and film team; volunteer strategy labor | No wage or formal authority is shown. | Mini contributes analytics, campaign experience, meeting leadership, reward design, and publicity planning. | Volunteering does not authorize her to define the principals' relationship. | Her labor becomes operationally valuable while role boundaries remain informal; RAG-E-V014-004, RAG-E-V014-011 through RAG-E-V014-013. |
+| RAG-TXN-072 | Kazuya and Ruka; flyer distribution | Kazuya pays production costs; neither participant receives personal compensation. | Both expose time, money, and social effort to recruit strangers for the shared campaign. | Project labor creates no romantic debt or status entitlement. | Rivalry coexists with cooperative public work; RAG-E-V014-014, RAG-E-V014-015. |
+| RAG-TXN-073 | Chizuru and prospective backers; personal-item rewards | Chizuru permits selected possessions to become finite campaign rewards. | Clothes, accessories, and ordinary goods are offered as value because of association with her. | Her intimate dresser boundary remains outside project consent. | Public financing reaches personal property without erasing bodily privacy; RAG-E-V014-013, RAG-E-V014-016. |

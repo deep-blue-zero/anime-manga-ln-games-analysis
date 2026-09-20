@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V013
-row_count: 61
-state: CURRENT_THROUGH_V013
+inspected_through_volume: V014
+row_count: 66
+state: CURRENT_THROUGH_V014
 ```
 
 ## Records
@@ -114,3 +114,8 @@ state: CURRENT_THROUGH_V013
 | RAG-FRM-070 | Food supplies intimacy-like form while dialogue restores project context. | Chizuru cooks omurice; Mini later uses curry comparison to test Kazuya and the pair. | Domestic images become evidence inside a third party's romance narrative. | Care and comparison create no couple agreement; RAG-E-V013-011, RAG-E-V013-016. |
 | RAG-FRM-071 | Sayuri's bedside advice crosscuts project permission with relationship interpretation. | Candy, film discussion, family permission, and a complementary-pair speech share one hospital scene. | Vocational and relational inheritance become visually inseparable without becoming identical. | Sayuri's limited knowledge constrains the interpretation; RAG-E-V013-017 through RAG-E-V013-019. |
 | RAG-FRM-072 | The final interface converts prayer into a measurable zero state. | Both characters pray before the published page shows 0 yen, 0 supporters, and 45 days. | The close replaces triumphant launch rhetoric with explicit exposure to outcome. | Zero is the opening condition, not evidence of eventual failure; RAG-E-V013-020 through RAG-E-V013-022. |
+| RAG-FRM-073 | Campaign interfaces convert hope into a rise-and-stall graph. | Opening pledges, supporter counts, remaining days, zero-support time, and page-view analysis recur across the volume. | Numerical screens pace the shift from celebration to tactical crisis. | Metrics show response conditions, not the private motives of backers; RAG-E-V014-002, RAG-E-V014-010, RAG-E-V014-011. |
+| RAG-FRM-074 | Repeated reading and messaging externalize devotion as production search. | Web-novel pages, printouts, email, calls, and a director meeting replace purely interior resolve. | Interfaces and documents make persistence inspectable by others. | Work volume does not guarantee artistic or managerial quality; RAG-E-V014-003, RAG-E-V014-007 through RAG-E-V014-009. |
+| RAG-FRM-075 | A strategy meeting converts romantic rivals into a temporary production diagram. | Kazuya, Chizuru, Ruka, and Mini share one room while tasks and rewards are assigned. | Dense group framing makes conflict visually subordinate to the campaign bottleneck. | Cooperation does not dissolve competing relationship goals; RAG-E-V014-012, RAG-E-V014-013. |
+| RAG-FRM-076 | Repeated flyer rejection turns devotion into visible bodily labor. | Kazuya's ignored approaches are followed by Ruka's sign, attractiveness, and shared distribution. | Street repetition measures cost and persistence more directly than self-description. | Public effort does not prove final efficacy or romantic entitlement; RAG-E-V014-014, RAG-E-V014-015. |
+| RAG-FRM-077 | Personal objects move toward public reward while a dresser preserves private space. | Clothes, accessories, and a costume are photographed until Chizuru physically blocks deeper access. | Object accumulation stages exposure, then bodily restraint marks its limit. | The sequence supports calibrated consent, not total openness or total refusal; RAG-E-V014-016. |

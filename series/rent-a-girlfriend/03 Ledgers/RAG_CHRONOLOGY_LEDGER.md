@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V013
-row_count: 51
-state: CURRENT_THROUGH_V013
+inspected_through_volume: V014
+row_count: 56
+state: CURRENT_THROUGH_V014
 ```
 
 ## Records
@@ -102,3 +102,8 @@ state: CURRENT_THROUGH_V013
 | RAG-CHR-058 | RAG-E-V013-007 through RAG-E-V013-011 | Chizuru enters Kazuya's room that night for budgeting, campaign work, and an improvised meal. | One continuous late-night session. | Clock times are not supplied. |
 | RAG-CHR-059 | RAG-E-V013-012 through RAG-E-V013-016 | Mini discovers the room visit immediately afterward and is accepted into the project. | Doorway encounter follows the work session directly. | Duration of the subsequent discussion is unknown. |
 | RAG-CHR-060 | RAG-E-V013-017 through RAG-E-V013-022 | Chizuru visits Sayuri; Kazuya then reports campaign approval, and the pair publish with forty-five days remaining. | Hospital and launch order is explicit. | Exact calendar date and interval since the first consultation are unknown. |
+| RAG-CHR-061 | RAG-E-V014-001 through RAG-E-V014-003 | Sayuri receives the film as a hope; during the first campaign day support rises from zero through 118,000 yen and roughly 150,000 yen, after which script search begins. | First-day placement and causal order are explicit. | Exact clock times and the interval before later campaign scenes are unstated. |
+| RAG-CHR-062 | RAG-E-V014-004 through RAG-E-V014-009 | Mini commits support; Kazuya and Chizuru select a story, obtain adaptation permission, and meet Tabuse after roughly three weeks of Kazuya's repeated contact. | The three-week outreach interval and order from search to specialist agreement are represented. | Exact calendar dates and every negotiation step are unknown. |
+| RAG-CHR-063 | RAG-E-V014-009, RAG-E-V014-010 | By the director meeting, the summer production has a source and director; with fourteen campaign days left, support has stalled near 837,000 yen and 328 backers. | Deadline and campaign metrics are explicit. | The elapsed interval between the meeting and displayed analytics is not precise. |
+| RAG-CHR-064 | RAG-E-V014-011 through RAG-E-V014-015 | Analytics review leads directly to the four-person strategy meeting and next-day flyer distribution by Kazuya and Ruka. | Strategy-to-execution order is explicit. | The exact date and duration of flyer work are unstated. |
+| RAG-CHR-065 | RAG-E-V014-016 through RAG-E-V014-019 | Reward-item selection in room 204 proceeds while platform recommendation is discussed; Mini then tells Chizuru that Kazuya likes her. | Same-operation ordering and the volume endpoint are explicit. | Chizuru's response belongs to V015 or later evidence. |

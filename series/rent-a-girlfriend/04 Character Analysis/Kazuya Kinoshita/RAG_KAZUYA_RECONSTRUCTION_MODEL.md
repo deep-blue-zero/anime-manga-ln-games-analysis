@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V013."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V014."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -40,13 +40,14 @@ model_basis:
     - RAG-JP-EPUB-V011
     - RAG-JP-EPUB-V012
     - RAG-JP-EPUB-V013
-  admitted_through_volume: V013
-  narrative_time_boundary: "after expert campaign correction, detailed collaboration, producer assignment, platform approval, and public launch"
+    - RAG-JP-EPUB-V014
+  admitted_through_volume: V014
+  narrative_time_boundary: "after initial campaign traction, source permission, director recruitment, campaign stall analysis, and distributed public outreach"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.13"
+  model_revision: "1.14"
   prior_knowledge_limitations:
-    - "No post-V013 narrative evidence is admitted."
+    - "No post-V014 narrative evidence is admitted."
     - "Chizuru re-bounds Kazuya's support language through rental service but supplies no romantic self-classification."
 coverage:
   observed_contexts:
@@ -103,7 +104,7 @@ This model supports tightly bounded reconstruction of Kazuya at the V012 endpoin
 
 Kazuya rapidly converts affect into a social story. When rejection, shame, or another person's anticipated disappointment feels immediate, he searches for a response that relieves the present exposure: buying a date, attacking the performance, calling Chizuru his girlfriend, or extending the fiction to friends. The response often works locally and creates a larger maintenance cost.
 
-His harsh self-model does not reliably inhibit this cycle. It can produce apology and attempted repair after consequences become concrete, but it also lets him narrate failure as an unchangeable personal fact. He alternates between inflation and deflation: idealizing an attractive woman's attention, then discounting conduct that would conflict with his belief that he is unworthy. V004 shows that conscious attachment does not cure the mechanism. V005 supplies a stronger counterexample to helplessness through friendship repair. V006 adds adaptive low-pressure support for Sumi and a direct statement of preference for Chizuru. V007-V010 add career support, privacy cost, restraint during accidental closeness, refusal of Ruka's sexual pressure, completed gift planning, a reckless drinking strategy under identity threat, and direct encouragement after new stage work. V011 supplies a stronger honesty counterexample: he begins a family confession and argues for truth before time runs out, although interruption and disagreement stop execution. V012 supplies a different competence path: after accepting Sumi's support, he researches a concrete film route, submits it to Chizuru's scrutiny, and accepts a project-completion obligation. Observable action must still test both the plan and his interior account.
+His harsh self-model does not reliably inhibit this cycle. It can produce apology and attempted repair after consequences become concrete, but it also lets him narrate failure as an unchangeable personal fact. He alternates between inflation and deflation: idealizing an attractive woman's attention, then discounting conduct that would conflict with his belief that he is unworthy. V004 shows that conscious attachment does not cure the mechanism. V005 supplies a stronger counterexample to helplessness through friendship repair. V006 adds adaptive low-pressure support for Sumi and a direct statement of preference for Chizuru. V007-V010 add career support, privacy cost, restraint during accidental closeness, refusal of Ruka's sexual pressure, completed gift planning, a reckless drinking strategy under identity threat, and direct encouragement after new stage work. V011 supplies a stronger honesty counterexample: he begins a family confession and argues for truth before time runs out, although interruption and disagreement stop execution. V012-V014 supply a different competence path: after accepting Sumi's support, he researches and launches a concrete film route, revises under expert and metric feedback, recruits specialists, and sustains public outreach. Observable action must still test completion and his interior account.
 
 ## Temporal states
 
@@ -683,7 +684,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S015
 valid_from_source: "V013 0005"
-valid_until_source: null
+valid_until_source: "V014 0004"
 entry_conditions:
   - "Kazuya and Chizuru have promised the film but lack an approved campaign, budget, team, and production route."
 active_goals:
@@ -723,6 +724,52 @@ uncertainties:
   - "Whether public support arrives and reaches the target."
   - "Whether Mini completes useful work and further specialists join."
   - "Whether Kazuya can move from campaign preparation to production management."
+~~~
+
+### KAZ-S016 — cross-functional producer under funding stall
+
+~~~yaml
+state_id: KAZ-S016
+valid_from_source: "V014 0005"
+valid_until_source: null
+entry_conditions:
+  - "The live campaign begins attracting support while script, director, remaining finance, and production execution are unresolved."
+active_goals:
+  - reach the 1.82-million-yen all-or-nothing target
+  - secure source permission, director, crew, and preproduction capacity
+  - sustain public outreach despite rejection and limited personal funds
+known_propositions:
+  - "Early campaign support is real but later stalls below target with roughly two weeks left."
+  - "Chizuru approves the selected source, and adaptation permission and Tabuse's direction are secured."
+  - "Mini has campaign experience and has converted analytics into a distributed recovery plan."
+  - "Ruka is willing to perform public labor for the film despite rivalry."
+relationship_conditions:
+  - "Chizuru remains an active project principal and has not romantically reclassified him."
+  - "Mini is both a useful strategist and an unauthorized interpreter of his preference."
+  - "Ruka's support coexists with an unresolved provisional relation and consent history."
+changed_from_previous:
+  - INITIAL_BACKING_RECEIVED
+  - SOURCE_SELECTED_AND_PERMISSIONED
+  - DIRECTOR_AND_CREW_ROUTE_SECURED
+  - CAMPAIGN_STALL_DIAGNOSED
+  - TEAM_STRATEGY_ACCEPTED
+  - PUBLIC_FLYER_LABOR_PERFORMED
+evidence_refs:
+  - RAG-E-V014-002
+  - RAG-E-V014-003
+  - RAG-E-V014-007
+  - RAG-E-V014-008
+  - RAG-E-V014-009
+  - RAG-E-V014-010
+  - RAG-E-V014-011
+  - RAG-E-V014-012
+  - RAG-E-V014-013
+  - RAG-E-V014-014
+  - RAG-E-V014-015
+uncertainties:
+  - "Whether the revised tactics close the funding gap."
+  - "Whether specialist agreements become an executable screenplay, schedule, and shoot."
+  - "How Chizuru responds after Mini discloses Kazuya's preference."
 ~~~
 
 ## Behavioral rules
@@ -845,7 +892,7 @@ uncertainties:
 - **Likely action range:** disclose enough distress to become less dysregulated, investigate costs and timing, present an actionable route, accept scrutiny, and commit to sustained work without demanding relationship status.
 - **Inhibitors/escalators:** lack of a concrete mechanism inhibits action; visible deadline, personalized support, and Chizuru's explicit request escalate commitment.
 - **Support:** RAG-E-V012-004 through RAG-E-V012-007, RAG-E-V012-016 through RAG-E-V012-022.
-- **Counterevidence/gap:** one sequence; no campaign launch, team recruitment, money raised, production, or completed film is yet observed.
+- **Counterevidence/gap:** V013-V014 supply campaign launch, team recruitment, pledges, and specialist agreements, but no completed funding, shoot, or film.
 - **Disconfirming observation:** the plan remains rhetorical or is abandoned once execution requires ordinary coordination and sustained labor.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and project-specific.
 
@@ -861,11 +908,23 @@ uncertainties:
 - **Disconfirming observation:** comparable external correction produces abandonment or unchanged resubmission rather than revision.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and project-specific.
 
+### RAG-KAZ-R012 — a measurable external goal can sustain effort across rejection and distribute responsibility
+
+- **Scope:** KAZ-S016.
+- **Trigger:** A valued project has a public deficit that cannot be solved by private feeling or one person's cash.
+- **Likely appraisal:** failure remains personally painful, but the next useful act is to find missing expertise, accept diagnostic correction, and keep performing concrete tasks.
+- **Likely action range:** search large candidate sets, approach rights holders and specialists repeatedly, share analytics with a team, spend bounded personal money, and tolerate public rejection.
+- **Inhibitors/escalators:** self-blame and weak finances inhibit judgment; Chizuru's participation, visible metrics, specialist response, and assigned tasks escalate persistence.
+- **Support:** RAG-E-V014-007 through RAG-E-V014-015.
+- **Counterevidence/gap:** one time-limited project; completion, sustainable budgeting, and general management competence remain unobserved.
+- **Disconfirming observation:** comparable measurable failure produces solitary panic or abandonment despite available collaborative correction.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and project-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Chizuru
 
-Kazuya knows she is a paid provider and actor whose family-linked dream is to show Sayuri her success on screen. Her personalized gift motivates work, her Sumi referral positions him as a trusted practice client, and her casting loss elicits wages-and-bookings support. He retreats when she tests his direct preference but later tells Sayuri he loves her and tells Chizuru he wants to support her dream. V011 makes their ethical difference explicit: he argues that limited time requires truth, while she chooses Sayuri's comforting belief and redirects the family ring to him. V012 moves one support route from speech into an agreed film project: he supplies research, she tests and requests, and he promises completion. This establishes collaboration, not reciprocated romance or a shared disclosure plan.
+Kazuya knows she is a paid provider and actor whose family-linked dream is to show Sayuri her success on screen. Her personalized gift motivates work, her Sumi referral positions him as a trusted practice client, and her casting loss elicits wages-and-bookings support. He retreats when she tests his direct preference but later tells Sayuri he loves her and tells Chizuru he wants to support her dream. V011 makes their ethical difference explicit: he argues that limited time requires truth, while she chooses Sayuri's comforting belief and redirects the family ring to him. V012 moves one support route from speech into an agreed film project. V013-V014 make him its named producer and test that role through launch, specialist recruitment, analytics, and public rejection. This establishes consequential collaboration, not reciprocated romance or a shared disclosure plan.
 
 ### Toward Mami
 
@@ -891,7 +950,7 @@ V010 adds another unilateral kiss in a family setting. V011 adds repeated kissin
 - **Motivational architecture:** immediate relief and romantic validation compete with family loyalty, fairness, and a wish to become more responsible. Immediate relief often wins before reflection; repair motives become stronger after harm is concrete.
 - **Emotional regulation:** fantasy, rumination, masturbation reference, comic panic, self-attack, and avoidance are observed. Recovery is often externally prompted.
 - **Agency and competence:** capable of booking, negotiating, apologizing, public defense, gift selection, routine paid work, first-wage allocation, controlled disclosure, adapting to a practice-client role, and giving low-pressure practical protection. Long-term planning and generalized honesty remain weakly evidenced.
-- **Project competence:** can identify a crowdfunding route, research preliminary costs and timing, and present a structured proposal. Recruitment, financing, production management, and delivery remain untested.
+- **Project competence:** can launch and revise a campaign, research costs and source material, recruit rights and directing specialists, accept analytics, and perform public promotion. Full financing, shooting, production management, and delivery remain untested.
 - **Ordinary repertoire:** insufficient. Do not fabricate hobbies, tastes, study habits, or financial discipline beyond the shown savings, apartment life, bouldering date, travel contexts, and initial karaoke employment.
 - **Contradiction:** his self-description as powerless coexists with socially consequential initiative; his moral concern coexists with harassment and pressure.
 - **Thresholds:** visible harm to a loved person or disrespect toward Chizuru can shift him from avoidance to action. Whether that action is truthful remains context-dependent.
@@ -904,12 +963,12 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, Chizuru's romantic self-classification, Mami's later use of the family account, resolution of the Ruka status, Sayuri's prognosis, execution of the truth plan, completed fundraising or film delivery, or any post-V013 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, Chizuru's romantic self-classification, Mami's later use of the family account, resolution of the Ruka status, Sayuri's prognosis, execution of the truth plan, completed fundraising or film delivery, or any post-V014 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
 ## Validation status
 
-V012 validates that Kazuya can receive support through partial disclosure and convert reduced distress into a researched, non-entitlement project proposal. Chizuru's explicit request elicits a completion promise, but no execution evidence yet supports fundraising or production competence. The model withholds mature partnership, generalized disclosure, execution of the truth plan, successful film delivery, Sayuri's prognosis, Chizuru's romantic self-classification, and Mami's later use of the family account.
+V014 validates that Kazuya can extend a researched proposal into campaign traction, rights outreach, director recruitment, collective correction, and public promotional labor. It still withholds mature partnership, generalized disclosure, full funding, production delivery, execution of the truth plan, Sayuri's prognosis, Chizuru's romantic self-classification, and Mami's later use of the family account.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

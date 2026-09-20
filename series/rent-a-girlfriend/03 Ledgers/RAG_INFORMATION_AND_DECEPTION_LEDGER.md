@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V013
-row_count: 62
-state: CURRENT_THROUGH_V013
+inspected_through_volume: V014
+row_count: 67
+state: CURRENT_THROUGH_V014
 ```
 
 ## Records
@@ -116,3 +116,8 @@ state: CURRENT_THROUGH_V013
 | RAG-INF-072 | Sayuri learns the film plan and permits public use of her story. | Chizuru asks directly during a hospital visit. | Campaign self-disclosure becomes authorized rather than appropriated. | The separate false-couple account remains uncorrected; RAG-E-V013-017 through RAG-E-V013-019. |
 | RAG-INF-073 | Sayuri tells Chizuru that Kazuya is uniquely suitable for her. | The appraisal is explicit and received by Chizuru. | A close family observer supplies a complementary-partner model. | Sayuri lacks the rental truth and Chizuru gives no romantic agreement; RAG-E-V013-019. |
 | RAG-INF-074 | Campaign publication makes a controlled identity and family story public. | The approved page opens with Chizuru's image and a forty-five-day window. | Private vocational need becomes audience-facing information. | Reach and downstream identity consequences remain unknown; RAG-E-V013-020 through RAG-E-V013-022. |
+| RAG-INF-075 | Campaign performance becomes shared quantitative information. | Backer totals, yen totals, remaining days, a zero-support interval, and page-view analytics are observed by the team. | Public response can now govern project decisions rather than remain an abstract hope. | Metrics do not explain every backer's motive or predict final funding; RAG-E-V014-002, RAG-E-V014-010, RAG-E-V014-011. |
+| RAG-INF-076 | Source and production information move across specialist boundaries. | Chizuru shares a submission route; Kazuya and Chizuru select a story; its author receives the project account; Tabuse receives Kazuya's appeal and meets Chizuru. | The private promise becomes a disclosed production network. | Exact contractual and crew information remains incomplete; RAG-E-V014-003, RAG-E-V014-007 through RAG-E-V014-009. |
+| RAG-INF-077 | Mini converts creator and crowdfunding knowledge into team strategy. | She discloses prior experience, reads analytics, explains the all-or-nothing condition, and assigns publicity and reward work. | Information asymmetry inside the team decreases. | Her proposed tactics remain outcome-dependent; RAG-E-V014-004, RAG-E-V014-011 through RAG-E-V014-013. |
+| RAG-INF-078 | Chizuru states a bounded current classification of Kazuya. | She calls him kind, acknowledges substantial gratitude, and says romance is a different matter. | Mini receives direct evidence that gratitude and romance are not interchangeable in Chizuru's account. | The statement does not prove permanent emotional absence; RAG-E-V014-017. |
+| RAG-INF-079 | Mini tells Chizuru that Kazuya likes her. | The claim is delivered directly during reward photography. | Kazuya's preference moves from Mini's interpretation into Chizuru's information state. | Kazuya did not authorize the disclosure, and Chizuru's response is outside V014; RAG-E-V014-019. |

@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V014; inspected and closed through V014."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V013
-row_count: 73
-state: CURRENT_THROUGH_V013
+inspected_through_volume: V014
+row_count: 80
+state: CURRENT_THROUGH_V014
 ```
 
 ## Records
@@ -129,3 +129,10 @@ state: CURRENT_THROUGH_V013
 | RAG-AGY-085 | Mini | Keep a discovered secret, expose it, or join the work. | Hears the family purpose, offers labor, and is accepted as an additional hand. | Expands the project beyond two people. | Her exact role and first completed task remain unseen; RAG-E-V013-012 through RAG-E-V013-016. |
 | RAG-AGY-086 | Chizuru and Sayuri | Keep the film private or authorize public personal disclosure. | Chizuru asks permission; Sayuri supports the plan and permits campaign use of her story. | Removes a disclosure barrier while preserving Sayuri's agency. | Permission does not correct the separate couple fiction; RAG-E-V013-017 through RAG-E-V013-019. |
 | RAG-AGY-087 | Kazuya and Chizuru | Wait after approval or publish under the medical deadline. | Activate a forty-five-day campaign and publicly expose the project to measurable support. | Begins fundraising at zero yen and zero supporters. | Launch does not establish traction or completion; RAG-E-V013-020 through RAG-E-V013-022. |
+| RAG-AGY-088 | Chizuru | Celebrate early funding or identify the next bottleneck. | Acknowledges support, warns against optimism, and supplies a script-search route. | Keeps production rather than launch emotion in control of the work. | The route does not itself secure a script; RAG-E-V014-002, RAG-E-V014-003. |
+| RAG-AGY-089 | Kazuya | Wait for a script and director or pursue outside specialists. | Reads submissions, proposes a source, requests adaptation permission, and repeatedly approaches Tabuse. | Secures story permission, director agreement, and a crew route. | Completed screenplay, schedule, and shoot remain unresolved; RAG-E-V014-007 through RAG-E-V014-009. |
+| RAG-AGY-090 | Mini | Remain a sympathetic observer or apply creator and campaign competence. | Presents her platform knowledge, analyzes the stall, convenes the team, and proposes a recovery plan. | Converts a volunteer offer into consequential coordination. | Campaign outcome and the reliability of every tactic remain untested; RAG-E-V014-004, RAG-E-V014-011 through RAG-E-V014-013. |
+| RAG-AGY-091 | Kazuya | Treat stalled funding as defeat or continue public outreach under personal cost. | Pays for 500 flyers and absorbs repeated rejection while distributing them. | Maintains action under measurable failure signals. | One campaign does not establish broad judgment or sustainable spending; RAG-E-V014-010, RAG-E-V014-014. |
+| RAG-AGY-092 | Ruka | Refuse work centered on Chizuru or assist Kazuya and the team. | Accepts a task, prepares a sign, and joins flyer distribution using collective language. | Subordinates rivalry to costly project support for the observed action. | Romantic competition and prior consent problems remain active; RAG-E-V014-012, RAG-E-V014-013, RAG-E-V014-015. |
+| RAG-AGY-093 | Chizuru | Withhold personal property or expose it without limit for funding. | Offers clothes, accessories, and ordinary items while stopping access to intimate dresser contents. | Exercises calibrated consent over project exposure. | The full reward list and later public consequences are unknown; RAG-E-V014-016. |
+| RAG-AGY-094 | Mini | Keep her relationship inference private or intervene directly. | Questions Chizuru, receives a gratitude-without-romance account, and then states that Kazuya likes her. | Changes Chizuru's information state and creates a response threshold. | The disclosure is unauthorized and its consequence is outside V014; RAG-E-V014-017, RAG-E-V014-019. |
