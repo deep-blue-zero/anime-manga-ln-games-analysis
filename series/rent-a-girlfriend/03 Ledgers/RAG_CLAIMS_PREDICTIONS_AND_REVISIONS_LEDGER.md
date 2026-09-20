@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected, closed, checkpointed, and locally audited through V020; no V021 predictions frozen outside the authorized run."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected, closed, checkpointed, and locally audited through V020; predictions frozen before V021 narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -35,8 +35,8 @@ Update after each eligible volume only when inspected evidence materially affect
 initialized: true
 inspected_through_volume: V020
 current_claim_count: 76
-frozen_prediction_count: 0
-state: CHECKPOINTED_THROUGH_V020__NO_NEXT_VOLUME_AUTHORIZATION
+frozen_prediction_count: 4
+state: CURRENT_THROUGH_V020__PREDICTIONS_FROZEN_FOR_V021
 ```
 
 ## Current claims
@@ -341,9 +341,18 @@ The V020 checkpoint and local reconstruction audit are the latest block-level sy
 | RAG-PRED-075 | SUPPORTED | Chizuru explicitly cites Mini's disclosure while asking Kazuya whether he likes her; RAG-E-V020-015, RAG-E-V020-016. | The outcome does not validate Mini's theory or authorization. |
 | RAG-PRED-076 | SUPPORTED | Kazuya initiates ordinary food access, names Mizuhara as his ideal girlfriend, and begins a confession before interruption; RAG-E-V020-013, RAG-E-V020-019, RAG-E-V020-020. | The final proposition is incomplete and unanswered. |
 
-## Terminal prediction disposition
+## V020 terminal prediction disposition
 
-No predictions are frozen for V021. The authorized sequential run ends at V020, and V021 narrative evidence remains inadmissible unless a later authorization opens a new transaction.
+At the V020 close, no predictions were frozen for V021 because the then-authorized sequential run ended at V020. The later V021-V030 authorization opens a new transaction and supplies the prospective freeze below without altering that historical boundary.
+
+## Frozen predictions for V021
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-077 | Chizuru's replay and public denial of Kazuya's partly delivered declaration will produce a private answer, renewed confession attempt, evasion, boundary, access change, or explicit classification pressure. | RAG-E-V020-019 through RAG-E-V020-021, RAG-E-V020-024, RAG-E-V020-025 | V021 supplies no consequence to the partly heard declaration or Chizuru's avoidance. |
+| RAG-PRED-078 | Mami's scheduled app follow-up and request to conceal her past with Kazuya will produce a business step, family contact, information request, disclosure pressure, conflict, or other observable use of the Kibe-Nagomi route. | RAG-E-V020-022, RAG-E-V020-023 | V021 supplies no consequence to the scheduled proposal or newly active family route. |
+| RAG-PRED-079 | Kazuya's continued preference for Chizuru and Ruka's unresolved provisional status will produce an observable breakup attempt, status negotiation, jealousy response, access demand, consent boundary, or tactical change. | RAG-E-V020-005 through RAG-E-V020-008 | V021 supplies no consequence to the unresolved trial or the unequal romantic positions. |
+| RAG-PRED-080 | Chizuru's stated intention to continue acting and her new capacity for direct unbooked contact will produce an observable acting, professional-network, ordinary-contact, invitation, or boundary consequence. | RAG-E-V020-002, RAG-E-V020-009, RAG-E-V020-013, RAG-E-V020-014 | V021 supplies no acting/career consequence and no consequence to the new ordinary-access route. |
 
 ## Open evidence questions
 

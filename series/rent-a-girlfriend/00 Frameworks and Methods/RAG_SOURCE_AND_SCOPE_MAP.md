@@ -4,14 +4,14 @@ artifact_id: RAG_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory_and_scope_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
 inventory_date: "2026-09-19"
-source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V020 inspected, closed, checkpointed, and locally audited; V021-V047 remain outside the active narrative run."
+source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V020 inspected, closed, checkpointed, and locally audited; V021-V030 admitted in order, with V021 structurally verified and open."
 ---
 
 # Source and scope map
@@ -46,7 +46,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 | V018 | RAG-JP-EPUB-V018 | 99892358 | `ab643da4889afc7cd51441072c108e614576c45c55805ff0ffd0997193016f61` | 彼女、お借りします（１８） | `ja` | 195 | 196 | INSPECTED__CLOSED |
 | V019 | RAG-JP-EPUB-V019 | 98723881 | `94883ed90bee95609d76c9be7380bf92ceb7f8dfe1919adebd46cb1d4ebd6eb3` | 彼女、お借りします（１９） | `ja` | 195 | 196 | INSPECTED__CLOSED |
 | V020 | RAG-JP-EPUB-V020 | 98350761 | `a2834542ec3c283868f2b3c00161d9d16f85e1ed1c05124cdf3783704803551b` | 彼女、お借りします（２０） | `ja` | 195 | 196 | INSPECTED__CLOSED |
-| V021 | RAG-JP-EPUB-V021 | 96840574 | `39db910d7023030a16e524be93eb4cc967b6d8c9a822d9b38375d4dbb4b99747` | 彼女、お借りします（２１） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V021 | RAG-JP-EPUB-V021 | 96840574 | `39db910d7023030a16e524be93eb4cc967b6d8c9a822d9b38375d4dbb4b99747` | 彼女、お借りします（２１） | `ja` | 195 | 196 | VERIFIED__ACTIVE_RUN_OPEN |
 | V022 | RAG-JP-EPUB-V022 | 117566247 | `21b4d7b192bf3c42b83ec9a6a5d4ec58f04e095b65e568555f6ef75975e4030c` | 彼女、お借りします（２２） | `ja` | 237 | 238 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
 | V023 | RAG-JP-EPUB-V023 | 97974304 | `13c523f4253e2d4096ae345bc8de078759eaa2968964d6f4180a7d3b44bba952` | 彼女、お借りします（２３） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
 | V024 | RAG-JP-EPUB-V024 | 106701917 | `78a7737e40dfdc72b25ac077c0f0978e0e7f11ce7e69b0062f908efc3991f026` | 彼女、お借りします（２４） | `ja` | 209 | 210 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
@@ -100,6 +100,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - Full original-resolution inspection of V018 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0190.jpg`, author afterword `0191.jpg`-`0192.jpg`, illustration `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 149 through Satisfaction 157. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only alternate cover at `OPS/OPS/cover.jpg`.
 - Full original-resolution inspection of V019 covered the spine cover and front matter `0001.jpg`-`0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 158 through Satisfaction 166. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
 - Full original-resolution inspection of V020 covered the spine cover and front matter `0001.jpg`-`0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0188.jpg`, author and puzzle back matter `0189.jpg`-`0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 167 through Satisfaction 175. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Structural verification of V021 confirms the inventoried SHA-256, a passing ZIP CRC check, rootfile `OPS/standard.opf`, and a continuous 195-entry spine resolving once each to `OPS/images/0001.jpg`-`0195.jpg`. The sole manifest image outside that sequence is `OPS/OPS/cover.jpg`. Direct visible-language confirmation, page classification, and narrative inspection remain pending under the committed entering freeze.
 - Image-item counts may exceed spine counts by one where an image is present in the package manifest but not directly represented as a spine page. This is not yet classified as a missing or extra narrative page.
 
 ## Admission rules
@@ -110,7 +111,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-V001-V020 are inspected, closed, checkpointed, and locally audited. V021-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001-V020 are inspected, closed, checkpointed, and locally audited. V021-V030 are admitted in order for the active run; V021 is structurally verified and open under its entering freeze. V031-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 
