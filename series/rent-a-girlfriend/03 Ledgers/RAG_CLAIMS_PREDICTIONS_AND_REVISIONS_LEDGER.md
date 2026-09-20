@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017; predictions frozen before V018."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018; predictions frozen before V019."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-current_claim_count: 60
+inspected_through_volume: V018
+current_claim_count: 66
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V017__PREDICTIONS_FROZEN_FOR_V018
+state: CURRENT_THROUGH_V018__PREDICTIONS_FROZEN_FOR_V019
 ```
 
 ## Current claims
@@ -103,6 +103,12 @@ state: CURRENT_THROUGH_V017__PREDICTIONS_FROZEN_FOR_V018
 | RAG-CLM-058 | Sayuri is a consequential close observer and grateful project recipient, but her romantic inference about Chizuru and Kazuya is constrained by incomplete relationship information. | STRONG_INFERENCE | RAG-E-V017-006, RAG-E-V017-009, RAG-E-V017-010 | She lacks the rental truth, and neither principal supplies mutual romantic classification. | ADDED and supported in V017. |
 | RAG-CLM-059 | Chizuru reaffirms acting as a chosen pursuit despite hardship and family obligation, while Sayuri's collapse threatens the intended film-delivery function. | STRONG_INFERENCE | RAG-E-V017-011 through RAG-E-V017-015 | Chosen vocation does not guarantee career success, medical recovery, or completed delivery. | ADDED and supported in V017. |
 | RAG-CLM-060 | Sayuri's critical state reopens the truth-versus-comfort conflict: Chizuru defends a happy final belief, Kazuya prioritizes her feelings and initiates an alternative action, but no correction or outcome is yet shown. | STRONG_INFERENCE | RAG-E-V017-015 through RAG-E-V017-018 | Sayuri supplies no informed preference, Chizuru's full wish remains conflicted, and the LINE-and-running action is incomplete. | ADDED and supported in V017. |
+| RAG-CLM-061 | Under terminal time pressure, incomplete creative work can still perform its core care function when Kazuya adapts available footage and equipment to Sayuri's bedside. | STRONG_INFERENCE | RAG-E-V018-001, RAG-E-V018-007 | Private access does not equal finished editing, public screening, or full fulfillment of every production promise. | ADDED and supported in V018. |
+| RAG-CLM-062 | Chizuru's comfort-first ethic is not simple refusal of truth: she attempts the central correction, while Sayuri responds by entrusting the answer rather than demanding exhaustive fact. | STRONG_INFERENCE | RAG-E-V018-002, RAG-E-V018-005, RAG-E-V018-006 | Rental details and Sayuri's final factual belief remain unknown. | ADDED and supported in V018. |
+| RAG-CLM-063 | The final grandmother-granddaughter exchange achieves direct relational closure through film acknowledgment, touch, and reciprocal love even though factual relationship knowledge remains incomplete. | STRONG_INFERENCE | RAG-E-V018-004 through RAG-E-V018-008 | Emotional closure does not retroactively make the deception informed or establish Kazuya-Chizuru couple status. | ADDED and supported in V018. |
+| RAG-CLM-064 | Chizuru's polished `fine` presentation persists through bereavement and funeral labor, while Sumi, Nagomi, and Kazuya supply independent evidence that composure is not equivalent to absent support need. | STRONG_INFERENCE | RAG-E-V018-009 through RAG-E-V018-013 | Observers cannot identify her complete interior state or preferred helper. | ADDED and supported in V018. |
+| RAG-CLM-065 | Sumi's support competence includes converting empathy into an experiential method of low-demand enjoyment and direct encouragement. | STRONG_INFERENCE | RAG-E-V018-012 through RAG-E-V018-015 | The method's effect on Chizuru and Sumi's broader competence remain untested. | ADDED and supported in V018. |
+| RAG-CLM-066 | Kazuya can operationalize care through consultation, earned resources, planning, and an answerable rental request rather than claiming informal lover access. | STRONG_INFERENCE | RAG-E-V018-014 through RAG-E-V018-020 | The booking is prospective; acceptance, helpfulness, and reciprocity remain unknown. | ADDED and supported in V018. |
 
 ## Competing hypotheses
 
@@ -213,9 +219,9 @@ state: CURRENT_THROUGH_V017__PREDICTIONS_FROZEN_FOR_V018
 
 ## Adjudications and revisions
 
-At the V017 horizon, RAG-PRED-061 through RAG-PRED-064 are supported. Ruka's bodily request receives bounded answers, postproduction gains a dated accessible venue, Sayuri visits that venue before collapsing and receiving a critical prognosis, and the Kazuya-Chizuru support relation produces repeated thanks and status-independent commitment. V017 adds differentiated consent, Ruka's unchanged nonreciprocal certainty, concrete but unfinished exhibition planning, Sayuri's limited observer position, chosen-vocation reaffirmation, and renewed truth-versus-comfort conflict as RAG-CLM-055 through RAG-CLM-060.
+At the V018 horizon, RAG-PRED-065 through RAG-PRED-068 are supported. Kazuya projects unfinished footage at Sayuri's bedside; Chizuru attempts the central truth correction; Sayuri briefly regains responsiveness and then dies after a reciprocal love exchange; and Kazuya converts support concern into a funded rental plan after respecting Chizuru's immediate refusal. V018 adds adaptive delivery, partial truth correction, relational closure amid factual ambiguity, grief masking, Sumi's support method, and resource-backed bounded care as RAG-CLM-061 through RAG-CLM-066.
 
-The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V017 continues the next block without revising that historical checkpoint. Its close raises the live claim count to sixty and freezes four prospective tests for V018.
+The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V018 continues the next block without revising that historical checkpoint. Its close raises the live claim count to sixty-six and freezes four prospective tests for V019.
 
 ## Adjudicated predictions from the V012 boundary
 
@@ -289,6 +295,24 @@ The V010 checkpoint remains the latest block synthesis and local reconstruction 
 | RAG-PRED-067 | Sayuri's critical state will produce a medical update, consciousness change, family response, death, or stabilization. | RAG-E-V017-014, RAG-E-V017-015 | V018 supplies no medical or family-state consequence. |
 | RAG-PRED-068 | Kazuya's instruction to prioritize Chizuru's feelings will produce an observable support, access, comfort, boundary, or role consequence between them. | RAG-E-V017-016 through RAG-E-V017-018 | V018 supplies no interpersonal consequence. |
 
+## Adjudicated predictions from the V017 boundary
+
+| Prediction ID | Adjudication | V018 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-065 | SUPPORTED | Kazuya's action produces laptop-and-projector delivery of unfinished footage at Sayuri's bedside; RAG-E-V018-001. | The edit and public screening remain incomplete. |
+| RAG-PRED-066 | SUPPORTED | Chizuru says that she and Kazuya are not dating and apologizes; Sayuri responds by entrusting the answer to her; RAG-E-V018-005, RAG-E-V018-006. | Rental details and Sayuri's final factual belief remain ambiguous. |
+| RAG-PRED-067 | SUPPORTED | Sayuri regains limited responsiveness, exchanges touch and final love with Chizuru, and dies before the funeral; RAG-E-V018-004, RAG-E-V018-008. | Exact diagnosis and medical mechanism remain unknown. |
+| RAG-PRED-068 | SUPPORTED | Kazuya urges self-directed speech, offers help, respects refusal, consults Sumi, and constructs a funded rental-support plan; RAG-E-V018-003, RAG-E-V018-010, RAG-E-V018-012 through RAG-E-V018-020. | Chizuru has not accepted or experienced the planned date. |
+
+## Frozen predictions for V019
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-069 | Kazuya's rental request will receive an observable acceptance, refusal, modification, scheduling, or platform consequence. | RAG-E-V018-019, RAG-E-V018-020 | V019 supplies no consequence to the submitted booking. |
+| RAG-PRED-070 | The funded best-date plan will produce a concrete activity, spending, support, comfort, boundary, or failure consequence. | RAG-E-V018-015, RAG-E-V018-017 through RAG-E-V018-020 | V019 supplies no observable consequence to the planned intervention. |
+| RAG-PRED-071 | Chizuru's controlled bereavement presentation will produce an observable continuation, crack, self-report, refusal, crying episode, or accepted support. | RAG-E-V018-008 through RAG-E-V018-011 | V019 supplies no grief-presentation or support-reception consequence. |
+| RAG-PRED-072 | Ruka's truce and amusement-park request will produce a scheduling, cooperation, conflict, status, or access consequence. | RAG-E-V018-016 | V019 supplies no consequence to the request or truce. |
+
 ## Open evidence questions
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
@@ -299,8 +323,8 @@ The V010 checkpoint remains the latest block synthesis and local reconstruction 
 - What later use, if any, will Mami make of the Kinoshita family account after no V011 consequence?
 - Will direct LINE access remain crisis-bounded or become routine communication?
 - How will Kazuya address Ruka's repeated unilateral kisses and widening status conflict?
-- What medical outcome, film-delivery result, and disclosure decision follow Sayuri's critical night?
+- Will the private bedside projection be completed, edited, or publicly exhibited after Sayuri's death?
 - What consequence follows Kazuya's custody of the family ring after no V012 use?
-- Can Kazuya and Chizuru convert completed photography and a reserved accessible venue into a finished and exhibited film?
+- Can Kazuya and Chizuru convert completed photography, private projection, and a reserved accessible venue into a finished and exhibited film?
 - How will Chizuru exercise agency inside the film project, and which third parties will supply missing production competence?
 - Can Sumi's consequential emotional support coexist with an unheard confession without distorting the practice relationship?

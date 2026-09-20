@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V017, with V012-V013 negative-evidence review."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V018, with V012-V013 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -42,13 +42,14 @@ model_basis:
     - RAG-JP-EPUB-V015
     - RAG-JP-EPUB-V016
     - RAG-JP-EPUB-V017
-  admitted_through_volume: V017
-  narrative_time_boundary: "after bounded sunscreen contact, a blocked hug, permitted first-name address, and public domestic status pressure"
+    - RAG-JP-EPUB-V018
+  admitted_through_volume: V018
+  narrative_time_boundary: "after Ruka responds sympathetically to Chizuru's bereavement, allows Kazuya's immediate support route during the truce, and preserves future access through an amusement-park request"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.15"
+  model_revision: "1.16"
   prior_knowledge_limitations:
-    - "No post-V017 narrative evidence is admitted."
+    - "No post-V018 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -568,7 +569,7 @@ uncertainties:
 ~~~yaml
 state_id: RUK-S014
 valid_from_source: "V017 0005"
-valid_until_source: null
+valid_until_source: "V018 0170"
 entry_conditions:
   - "Kazuya must answer the birthday bodily-contact request made after Ruka's exclusion from the final-location trip."
 active_goals:
@@ -601,6 +602,37 @@ evidence_refs:
 uncertainties:
   - "Whether she preserves request specificity across later intimacy pressure."
   - "Whether first-name permission changes the trial or only its public appearance."
+  - "How she responds to a definitive relationship decision."
+~~~
+
+### RUK-S015 — truce-bound rival allowing bereavement support while preserving future access
+
+~~~yaml
+state_id: RUK-S015
+valid_from_source: "V018 0171"
+valid_until_source: null
+entry_conditions:
+  - "Sayuri has died, Kazuya wants to encourage Chizuru, and Ruka's earlier crisis truce remains relevant."
+active_goals:
+  - allow an immediate bereavement-support action without surrendering her own claim
+  - retain a future date and visible relationship access with Kazuya
+known_propositions:
+  - "Chizuru is bereaved and Kazuya wants to encourage her."
+  - "Direct encouragement may help or may become excessive depending on delivery."
+  - "Kazuya is preparing action centered on Chizuru during the truce."
+relationship_conditions:
+  - "Ruka shows sympathy and does not block the immediate plan."
+  - "She asks Kazuya to take her to an amusement park, preserving future access."
+changed_from_previous:
+  - CHIZURU_BEREAVEMENT_ACKNOWLEDGED
+  - IMMEDIATE_SUPPORT_ROUTE_ALLOWED
+  - ENCOURAGEMENT_ADVICE_OFFERED
+  - FUTURE_AMUSEMENT_DATE_REQUESTED
+evidence_refs:
+  - RAG-E-V018-016
+uncertainties:
+  - "Whether the amusement-park request is scheduled or fulfilled."
+  - "Whether the truce survives Kazuya's planned rental date."
   - "How she responds to a definitive relationship decision."
 ~~~
 
@@ -732,12 +764,12 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, durable boundary revision, or any post-V017 Ruka conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, durable boundary revision, or any post-V018 Ruka conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
-V017 validates a limited redirection pattern. Ruka receives bounded sunscreen contact, integrates a pulse of ninety-four into her existing love model, stops when an attempted hug meets resistance, and seeks first-name permission instead. She later uses that permission as public status evidence and continues apartment and domestic pressure, so the sequence does not establish generalized restraint or mutual classification. RAG-RUK-R008 captures tactical narrowing after resistance while the V011 consent counterevidence remains intact. Local readiness remains PARTIAL_MODEL because her family life, school routine, response to definitive boundaries, and long-term conduct are sparse.
+V018 validates another bounded redirection pattern under third-party harm. Ruka responds sympathetically to Chizuru's bereavement, allows Kazuya's immediate encouragement route during the truce, and then preserves her own future access through an amusement-park request. The sequence supports tactical accommodation without establishing surrender of status claims, generalized restraint, or mutual classification. Local readiness remains PARTIAL_MODEL because her family life, school routine, response to definitive boundaries, and long-term conduct are sparse.
 
 The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.

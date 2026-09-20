@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-row_count: 84
-state: CURRENT_THROUGH_V017
+inspected_through_volume: V018
+row_count: 90
+state: CURRENT_THROUGH_V018
 ```
 
 ## Records
@@ -138,3 +138,9 @@ state: CURRENT_THROUGH_V017
 | RAG-INF-094 | Kazuya tells Sayuri that he wants to support Chizuru even if they cease being lovers. | Sayuri hears a status-independent commitment during the private cinema conversation. | His support aim becomes direct family knowledge while the current account remains uncorrected. | The statement neither discloses the rental origin nor proves current or future couple status; RAG-E-V017-009, RAG-E-V017-010. |
 | RAG-INF-095 | The physician, Chizuru, and Kazuya know that Sayuri's recovery is difficult and the night may be critical. | The prognosis follows the ambulance transfer and hospital assessment. | Family and support decisions now occur under terminal-risk information. | Exact diagnosis and final outcome remain unknown; RAG-E-V017-014, RAG-E-V017-015. |
 | RAG-INF-096 | The rental-and-family deception remains uncorrected after Kazuya renews the question and Chizuru defends a comforting final belief. | They explicitly dispute sad truth, happiness, guilt, and regret while Sayuri may hear but cannot respond. | The ethics and cost of concealment become shared again under acute time pressure. | Sayuri has no informed opportunity to state a preference, and Kazuya's final action is unfinished; RAG-E-V017-016 through RAG-E-V017-018. |
+| RAG-INF-097 | Kazuya's V017 action is a film-delivery intervention. | Chizuru and Sayuri directly observe him arrive with a laptop and projector and play unfinished footage. | The previously withheld action target and result become shared. | The exact LINE recipient and edit provenance are not shown; RAG-E-V018-001. |
+| RAG-INF-098 | Chizuru remembers Sayuri's view that many lies may protect one truth. | The doctrine appears as Chizuru's family memory during the hospital conflict. | Her comfort-first ethics gain a represented family source. | A remembered principle does not justify every lie or prove Sayuri's present preference; RAG-E-V018-002. |
+| RAG-INF-099 | Sayuri hears that Chizuru and Kazuya are not dating but does not receive a complete rental-history account. | Chizuru states the non-dating fact and apologizes; Sayuri says she both wants and does not want to know and trusts Chizuru's answer. | The deception changes from total concealment to partial correction with ambiguous reception. | Sayuri's final belief, knowledge of payment, and understanding of the public account remain unknown; RAG-E-V018-005, RAG-E-V018-006. |
+| RAG-INF-100 | Sayuri knows she has received the film footage and attributes the route to Chizuru and Kazuya. | She praises the film and asks that Kazuya be thanked. | The intended family audience acknowledges the delivered result before death. | She does not see a finished public exhibition; RAG-E-V018-007, RAG-E-V018-008. |
+| RAG-INF-101 | Kazuya's belief that Chizuru can survive alone is explicitly contested. | Sumi says no person lives alone, while Nagomi later reports private crying beneath Chizuru's public composure. | Kazuya receives independent evidence against equating control with absent need. | Neither observer knows Chizuru's complete preference for support; RAG-E-V018-009 through RAG-E-V018-013. |
+| RAG-INF-102 | Kazuya's support plan becomes known to Ruka, the karaoke manager, and the rental platform in different forms. | He discusses encouraging Chizuru with Ruka, requests an advance for a girl, and submits a booking with an itinerary. | A private care intention becomes operational information across work and service systems. | Chizuru's acceptance and knowledge of the underlying plan are not shown; RAG-E-V018-016 through RAG-E-V018-020. |

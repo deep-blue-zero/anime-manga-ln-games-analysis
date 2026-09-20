@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-row_count: 100
-state: CURRENT_THROUGH_V017
+inspected_through_volume: V018
+row_count: 106
+state: CURRENT_THROUGH_V018
 ```
 
 ## Records
@@ -156,3 +156,9 @@ state: CURRENT_THROUGH_V017
 | RAG-AGY-112 | Chizuru | Attribute acting only to grandparent obligation or state her own choice. | Acknowledges hardship and says she likes pursuing dreams and expects to continue. | Reaffirms the vocation as chosen while retaining its family history. | Choice does not guarantee career success or eliminate grief-linked duty; RAG-E-V017-011. |
 | RAG-AGY-113 | Kazuya | Accept Chizuru's comfort-first decision or force correction or touch. | Challenges leaving the deception uncorrected, asks about guilt and regret, and tells her to prioritize her own feelings without touching her. | Presses the ethical question while preserving her bodily and decisional agency. | No disclosure decision or mutual relationship reclassification follows; RAG-E-V017-016, RAG-E-V017-017. |
 | RAG-AGY-114 | Kazuya | Remain in the hospital impasse or pursue a feasible remaining action. | Opens LINE, identifies something still possible, and runs. | Converts moral and medical urgency into an initiated coordination action. | Recipient, exact act, and outcome are withheld at the V017 boundary; RAG-E-V017-018. |
+| RAG-AGY-115 | Kazuya | Accept that the unfinished film cannot reach Sayuri or improvise private access. | Brings a laptop and projector and plays available footage on the hospital wall. | Converts an unfinished production asset into time-critical family care. | The private projection is neither a finished edit nor the promised public screening; RAG-E-V018-001. |
+| RAG-AGY-116 | Chizuru | Preserve the comforting account or attempt factual correction. | Says that she and Kazuya are not dating and apologizes before Sayuri redirects the exchange. | Moves from defended concealment to attempted disclosure under final family access. | The rental history is not fully explained, and Sayuri's final belief remains ambiguous; RAG-E-V018-005, RAG-E-V018-006. |
+| RAG-AGY-117 | Kazuya | Read Chizuru's composure as no need or seek another support model. | Offers help, accepts her immediate refusal, then consults Sumi rather than forcing access. | Preserves Chizuru's boundary while continuing to search for a feasible care route. | Third-party advice cannot determine what Chizuru will accept; RAG-E-V018-009 through RAG-E-V018-013. |
+| RAG-AGY-118 | Sumi | Give verbal sympathy only or construct an experiential lesson. | Ends the paid consultation, buys travel, leads a friend excursion, and models play and direct encouragement. | Converts empathy into a practical support method for Kazuya. | Her method remains untested with Chizuru and her own romantic feeling is not received; RAG-E-V018-014, RAG-E-V018-015. |
+| RAG-AGY-119 | Ruka | Block a Chizuru-focused intervention or allow it while preserving her own request. | Shows sympathy, discusses encouragement, and asks for a later amusement-park outing. | Locally accommodates crisis support without surrendering the trial claim. | The truce, outing, and status remain unresolved; RAG-E-V018-016. |
+| RAG-AGY-120 | Kazuya | Continue informal offers or use Chizuru's professional access route with concrete resources. | Obtains a wage advance, prepares an itinerary, submits a rental request, and promises the best date. | Makes support answerable through scheduled, paid, bounded access. | Acceptance, consent to the itinerary, helpfulness, and emotional result are deferred; RAG-E-V018-017 through RAG-E-V018-020. |

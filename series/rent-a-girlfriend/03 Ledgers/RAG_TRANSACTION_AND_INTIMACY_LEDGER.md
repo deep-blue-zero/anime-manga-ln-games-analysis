@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-row_count: 78
-state: CURRENT_THROUGH_V017
+inspected_through_volume: V018
+row_count: 84
+state: CURRENT_THROUGH_V018
 ```
 
 ## Records
@@ -130,3 +130,9 @@ state: CURRENT_THROUGH_V017
 | RAG-TXN-086 | Ruka and Kazuya; apartment access and domestic labor | Ruka invokes girlfriend-like proximity, proposes a shared bath, and performs laundry and household work. | Kazuya permits the room presence and work shown but does not accept the sexual proposal. | Domestic labor creates no romantic debt or sexual consent. | Status performance expands while mutual classification remains absent; RAG-E-V017-007. |
 | RAG-TXN-087 | Kazuya, Chizuru, Sayuri, and cinema; exhibition access and support labor | Kazuya arranges a 200-seat wheelchair-accessible venue for the September 30 film screening. | Chizuru and Sayuri inspect the space, and Sayuri thanks Kazuya for enabling the route. | Venue coordination creates no authority over Chizuru or guarantee of delivery. | Concrete family access is achieved before the edit or screening is complete; RAG-E-V017-008 through RAG-E-V017-013. |
 | RAG-TXN-088 | Chizuru, Kazuya, and Sayuri; critical care and truth-versus-comfort decision | No contract governs whether the rental-and-family account is corrected during the critical night. | Chizuru chooses comfort-first silence; Kazuya challenges it and asks her to prioritize her own feelings. | Sayuri cannot express an informed preference, and Kazuya neither forces disclosure nor assumes touch rights. | The decision and his initiated alternative action remain incomplete; RAG-E-V017-015 through RAG-E-V017-018. |
+| RAG-TXN-089 | Kazuya, Chizuru, and Sayuri; unfinished footage and bedside access | No payment or public ticket governs the private projection; Kazuya supplies equipment and labor. | Sayuri and Chizuru receive the footage under time pressure. | Technical delivery gives Kazuya no authority over disclosure, grief, or touch. | The family promise gains a partial material fulfillment before death; RAG-E-V018-001, RAG-E-V018-007. |
+| RAG-TXN-090 | Chizuru and Sayuri; truth, care, and final affection | Chizuru volunteers the non-dating fact; Sayuri declines a full factual demand and entrusts the answer to her. | Reciprocal love and embrace are freely exchanged. | Family intimacy does not retroactively make the deception informed or establish couple status. | The emotional relationship closes while factual knowledge remains incomplete; RAG-E-V018-005 through RAG-E-V018-008. |
+| RAG-TXN-091 | Kazuya and Chizuru; offered bereavement help | Kazuya offers assistance as a neighbor; Chizuru says she is fine and leaves for funeral preparation. | The offer is voluntary and no service or compensation is attached. | Her immediate refusal controls access and creates no debt. | Support remains desired but unaccepted in this exchange; RAG-E-V018-010. |
+| RAG-TXN-092 | Kazuya and Sumi; practice booking transformed into friendship labor | A paid practice interval begins, then Sumi ends the rental frame, buys travel, and treats the rest as friendship. | Sumi contributes money, time, emotional labor, and instruction beyond the booked service. | Unpriced care creates no romantic obligation, and her unspoken feeling is not consented status. | Kazuya receives a usable support method; RAG-E-V018-012 through RAG-E-V018-015. |
+| RAG-TXN-093 | Kazuya, Ruka, and karaoke manager; truce, labor, and wage advance | Ruka allows the immediate Chizuru-support route while requesting a later outing; the manager advances wages after hearing Kazuya's purpose. | Both accommodations are conditional social or employment resources rather than gifts of status. | Neither creates romantic entitlement, and the advance remains Kazuya's earned-income obligation. | The support plan becomes financially feasible while the Ruka trial stays open; RAG-E-V018-016, RAG-E-V018-017. |
+| RAG-TXN-094 | Kazuya and Chizuru; prospective paid grief-support date | Kazuya submits a rental request and prepares to fund an itinerary through the platform relation. | Chizuru retains the right to accept, refuse, or bound the booking. | Payment can buy scheduled provider time, not emotional disclosure, crying, touch, or reciprocity. | V018 ends with a proposed transaction and no observed acceptance or outcome; RAG-E-V018-018 through RAG-E-V018-020. |

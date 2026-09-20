@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-row_count: 88
-state: CURRENT_THROUGH_V017
+inspected_through_volume: V018
+row_count: 93
+state: CURRENT_THROUGH_V018
 ```
 ```
 
@@ -142,3 +142,8 @@ state: CURRENT_THROUGH_V017
 | RAG-PRG-097 | Chizuru's acting route | GAIN_IN_CHOSEN_COMMITMENT — she states that hardship exists but she likes pursuing dreams and expects to continue. | The vocation is reaffirmed as her choice under direct family questioning. | Future career outcome and the effect of bereavement remain unknown. | RAG-E-V017-011, RAG-E-V017-012 |
 | RAG-PRG-098 | Sayuri's health and family-film delivery | SEVERE_REGRESSION_WITH_UNFINISHED_ACCESS — a cinema visit and gratitude precede collapse, ambulance transport, and a critical prognosis. | The intended recipient reaches the planned venue but not the completed screening. | Medical outcome and film receipt remain unknown. | RAG-E-V017-008 through RAG-E-V017-015 |
 | RAG-PRG-099 | Kazuya-Chizuru truth and support route | ETHICAL_CONFLICT_REACTIVATED_WITH_ACTION_PENDING — Kazuya challenges comfort-first concealment and prioritizes Chizuru's feelings before initiating an unspecified action. | Crisis pressure moves the dispute from abstract principle toward conduct. | No correction, mutual status change, or completed intervention occurs within V017. | RAG-E-V017-016 through RAG-E-V017-018 |
+| RAG-PRG-100 | Film delivery | PRIVATE_DELIVERY_GAIN_WITH_PUBLIC_COMPLETION_GAP — Kazuya projects unfinished footage at Sayuri's bedside. | The intended recipient sees Chizuru act before death. | Editing and public screening remain incomplete. | RAG-E-V018-001, RAG-E-V018-007 |
+| RAG-PRG-101 | Truth correction | PARTIAL_GAIN_WITH_IRRECOVERABLE_AMBIGUITY — Chizuru states that she and Kazuya are not dating, but Sayuri declines a complete factual demand and entrusts the answer to her. | Total concealment ends at one central proposition. | Rental details and Sayuri's final belief remain unknown after death. | RAG-E-V018-005, RAG-E-V018-006 |
+| RAG-PRG-102 | Sayuri's health and family bond | TERMINAL_LOSS_WITH_RELATIONAL_CLOSURE — limited responsiveness permits film acknowledgment and reciprocal love before death. | The family promise and direct affection receive a final observable outcome. | Death is irreversible; exact diagnosis and medical mechanism remain unknown. | RAG-E-V018-004, RAG-E-V018-007, RAG-E-V018-008 |
+| RAG-PRG-103 | Chizuru's grief support | NEED_RECOGNIZED_WITH_ACCESS_STALL — Kazuya, Sumi, and Nagomi recognize strain while Chizuru says she is fine and initially declines help. | Grief becomes socially legible despite controlled presentation. | No accepted direct support or crying before Kazuya occurs within V018. | RAG-E-V018-009 through RAG-E-V018-013 |
+| RAG-PRG-104 | Kazuya's support competence | PLANNING_GAIN_WITH_OUTCOME_PENDING — he learns from Sumi, obtains funds, builds an itinerary, and uses a rental request to create bounded access. | Concern becomes a concrete, resourced plan. | Acceptance, usefulness, emotional outcome, and reciprocity remain unobserved. | RAG-E-V018-014 through RAG-E-V018-020 |

@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; character evidence inspected through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; character evidence inspected through V018."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V017
+inspected_through_volume: V018
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -128,6 +128,12 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E088 | KAZ-S019 | RAG-E-V017-009, RAG-E-V017-010 | Gratitude received and status-independent support declared | Hears Sayuri credit him with making the film route possible and says he wants to support Chizuru even if they stop being lovers. | Separates durable support intent from preserving the public label. | He does not correct the current rental truth or receive reciprocal status. | RAG-KAZ-R001, RAG-KAZ-R005, RAG-KAZ-R007 |
 | RAG-KAZ-E089 | KAZ-S019 | RAG-E-V017-015 through RAG-E-V017-017 | Terminal-risk appraisal, withheld touch, and truth challenge | Receives the critical prognosis, recognizes strain beneath Chizuru's no-regret claim, imagines but does not enact an embrace, challenges concealment, and tells her to prioritize her feelings. | Moves from boyfriend-status fantasy to noncontact ethical support. | He cannot know her complete inner state and does not obtain a disclosure decision. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R014 |
 | RAG-KAZ-E090 | KAZ-S019 | RAG-E-V017-018 | Crisis initiative with withheld outcome | Opens LINE, identifies something still possible, and runs. | Converts perceived regret and a concrete route into immediate coordination effort. | Recipient, destination, exact act, and result are unavailable at the volume boundary. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R014 |
+| RAG-KAZ-E091 | KAZ-S020 | RAG-E-V018-001 | Adaptive terminal-risk film delivery | Brings a laptop and projector and plays unfinished footage at Sayuri's bedside. | Completes the withheld crisis action through technically improvised family access. | The edit and public screening remain incomplete. | RAG-KAZ-R007, RAG-KAZ-R010, RAG-KAZ-R011, RAG-KAZ-R014 |
+| RAG-KAZ-E092 | KAZ-S020 | RAG-E-V018-003 through RAG-E-V018-008 | Outsider framing, self-directed speech, and final family outcome | Calls himself a neighbor and outsider, urges Chizuru to speak as herself, and remains outside while Sayuri and Chizuru exchange final love. | Uses role humility to press an opportunity without entering the family exchange or claiming touch. | He still exerts ethical pressure and cannot determine Chizuru's disclosure choice. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R014 |
+| RAG-KAZ-E093 | KAZ-S020 | RAG-E-V018-009 through RAG-E-V018-013 | Grief appraisal corrected by others | Initially says Chizuru may survive alone because she is strong, accepts Sumi's correction, offers Chizuru help, respects refusal, attends the funeral, and seeks advice. | Updates from solitary-strength reasoning toward support inquiry. | He still lacks direct access to Chizuru's preferred form of care. | RAG-KAZ-R001, RAG-KAZ-R005, RAG-KAZ-R014 |
+| RAG-KAZ-E094 | KAZ-S020 | RAG-E-V018-014, RAG-E-V018-015 | Receiving experiential support instruction | Follows Sumi's friend-led excursion and recognizes play and direct encouragement as a model for Chizuru. | Learns through participation rather than assuming his first plan is sufficient. | One borrowed method may not generalize to Chizuru. | RAG-KAZ-R005, RAG-KAZ-R006, RAG-KAZ-R014 |
+| RAG-KAZ-E095 | KAZ-S020 | RAG-E-V018-016, RAG-E-V018-017 | Rival consultation and earned-resource mobilization | Discusses encouragement with Ruka and obtains a wage advance from the karaoke manager. | Accepts socially bounded input and converts employment into support capacity. | The Ruka trial remains unresolved, and spending does not create access rights. | RAG-KAZ-R005, RAG-KAZ-R007, RAG-KAZ-R009 |
+| RAG-KAZ-E096 | KAZ-S020 | RAG-E-V018-018 through RAG-E-V018-020 | Funded professional-access support plan | Integrates prior advice, prepares an itinerary, submits a rental request, and promises the best possible date. | Channels care through an answerable professional structure with concrete cost and preparation. | Acceptance, usefulness, emotional outcome, and reciprocity remain pending. | RAG-KAZ-R005, RAG-KAZ-R006, RAG-KAZ-R007, RAG-KAZ-R014 |
 
 ## State-change summary
 
@@ -150,6 +156,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S017 — operational producer under specialist authority and future-distance anxiety:** carries a funded campaign into principal photography, accepts logistics and role distance, removes a sound bottleneck at unsafe bodily cost, and ends by imagining Chizuru's career advance without presuming a place beside her.
 - **KAZ-S018 — post-shoot producer under value recognition and consent pressure:** receives Chizuru's rejection of his self-demotion, completes the final-location work, carries footage into editing and theater planning, moves his preference toward partly external speech, and faces Ruka's unanswered bodily-contact request.
 - **KAZ-S019 — boundary-setting supporter under terminal family crisis:** differentiates Ruka's requests, arranges an accessible screening venue, declares status-independent support, recognizes Chizuru's concealed strain, withholds imagined boyfriend touch, and initiates a LINE-and-running response under Sayuri's critical prognosis.
+- **KAZ-S020 — bereavement-support planner after adaptive delivery:** projects unfinished footage for Sayuri, urges but does not control Chizuru's disclosure, updates after Sumi rejects solitary-strength reasoning, respects an immediate refusal, and turns consultation, wages, itinerary work, and a rental request into a bounded plan.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -186,6 +193,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - V016 answers that self-demotion with Chizuru's direct value recognition, then tests him as sole camera operator on the final trip and carries his producer role into editing and theater planning (RAG-E-V016-001 through RAG-E-V016-013).
 - His true-love standard, thanks, and shouted preference move feeling toward speech, but indirect wording and unproved reception preserve the gap between self-knowledge and mutual communication (RAG-E-V016-015, RAG-E-V016-016).
 - V017 shows that he can preserve act-specific consent under Ruka's pressure, separate support from lover status before Sayuri, and answer visible crisis strain through questions and logistics without assuming touch rights (RAG-E-V017-001, RAG-E-V017-004, RAG-E-V017-010, RAG-E-V017-015 through RAG-E-V017-018).
+- V018 completes the prior action through improvised projection, then shows corrective updating: after misreading composure as possible self-sufficiency, he accepts Sumi's challenge, respects Chizuru's refusal, seeks instruction, and builds a paid support route without assuming lover privileges (RAG-E-V018-001, RAG-E-V018-009 through RAG-E-V018-020).
 
 ## Gaps and negative evidence
 
@@ -194,7 +202,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Twelve volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
 - Direct preference, love, support, and reckless protection for Chizuru are now spoken or enacted before different audiences, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
-- Film work now extends through completed principal photography, editing, a September 30 target, and an accessible 200-seat venue, but no finished edit, exhibition, delivery, or public career consequence is yet observed.
+- Film work now extends through completed principal photography, editing, a September 30 target, an accessible 200-seat venue, and private projection of unfinished footage, but no finished edit, public exhibition, or public career consequence is yet observed.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 
 ## Update rule

@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V017; character evidence inspected through V017, with V012-V013 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V018; character evidence inspected through V018, with V012-V013 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V017
+inspected_through_volume: V018
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -85,6 +85,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E045 | RUK-S014 | RAG-E-V017-003 | Chosen persistence, extended proximity, and destiny claim | Says she is not forcing herself, describes the birthday as princess treatment, explains choosing the slower Yamanote route for more time, and calls Kazuya her one person of destiny. | Frames sustained pursuit as deliberate personal choice rather than mere status maintenance. | Her certainty does not establish Kazuya's feeling or objective destiny. | RAG-RUK-R001, RAG-RUK-R004, RAG-RUK-R008 |
 | RAG-RUK-E046 | RUK-S014 | RAG-E-V017-004 | Blocked hug and narrower recognition request | Stops when Kazuya raises his hands against the embrace, then asks to call him Kazuya without an honorific and receives permission. | Redirects a resisted higher-intimacy act into an explicitly negotiated symbolic privilege. | One sequence does not prove durable boundary revision, and naming does not create official status. | RAG-RUK-R005, RAG-RUK-R008 |
 | RAG-RUK-E047 | RUK-S014 | RAG-E-V017-007 | Public naming, status assertion, and domestic pressure | Uses `和也` before Chizuru and Mini, calls herself his girlfriend, enters his apartment, proposes a shared bath, and performs laundry and household work. | Carries the narrow permission into a broader public and domestic status performance. | Kazuya does not accept the sexual proposal, and the trial remains unresolved. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R007, RAG-RUK-R008 |
+| RAG-RUK-E048 | RUK-S015 | RAG-E-V018-016 | Crisis sympathy, encouragement advice, and preserved access request | Recognizes Chizuru's bereavement, discusses how direct encouragement may affect her, allows Kazuya's immediate support effort, and asks for a later amusement-park outing. | Repeats tactical accommodation under third-party harm while preserving her own desired date. | Sympathy and delay do not resolve the trial, consent history, or future schedule. | RAG-RUK-R002, RAG-RUK-R005, RAG-RUK-R007 |
 
 ## State-change summary
 
@@ -102,8 +103,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S012 — rival regulating an immediate threat for project welfare: she endorses Chizuru's contact with Umi, suppresses Kazuya's jealous response, invokes Sayuri, and repeats final-day labor without revising the provisional romance.
 - RUK-S013 — excluded project supporter renewing status and intimacy pressure: learns Mini used her name without consent, investigates and confronts the location trip, then frames a birthday outing and explicit bodily-contact request through the unresolved trial and her prior labor.
 - RUK-S014 — bounded-request pursuer with first-name privilege: receives task-specific sunscreen contact, interprets a pulse of ninety-four, redirects a blocked hug into negotiated naming permission, and carries that privilege into public and domestic status pressure.
+- RUK-S015 — truce-bound rival allowing bereavement support while preserving future access: responds sympathetically to Chizuru's loss, discusses encouragement, does not block the immediate plan, and asks Kazuya for an amusement-park outing.
 
-V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, and V016 shows renewed status and intimacy pressure after exclusion from the final trip.
+V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, and V018 returns to crisis-timed accommodation without ending her claim.
 
 These are evidence configurations, not a diagnosis or a claim that physiology determines emotion.
 
@@ -122,6 +124,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - V015 strengthens that local rule because she endorses Chizuru's high-reach outing and checks Kazuya's jealousy before repeating outreach; project welfare can govern one decision even when a plausible romantic rival is present (RAG-E-V015-004).
 - V016 limits generalization from that cooperation: after Mini excludes her without consent, Ruka investigates, directly confronts the trip, and later invokes project labor inside a birthday request for bodily contact (RAG-E-V016-004, RAG-E-V016-017, RAG-E-V016-018).
 - V017 shows local response to differentiated boundaries: she accepts sunscreen scope, stops a resisted hug, and asks for the narrower first-name privilege, then uses that privilege publicly without revising the larger status goal (RAG-E-V017-001 through RAG-E-V017-004, RAG-E-V017-007).
+- V018 repeats her crisis-redirection pattern: she shows sympathy and allows Kazuya's immediate Chizuru-focused support route, then preserves her own future access through an amusement-park request (RAG-E-V018-016).
 - She does not immediately expose the central secret and later explicitly says she never intended to do so, supplying counterevidence to a purely destructive or manipulative model.
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, university visits, and karaoke coworker access are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 
@@ -133,7 +136,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - Her stated love is direct evidence of her represented belief, not proof of Kazuya's feeling or her later conduct.
 - The V005 and V008 continuations establish Kazuya's refusals and no completed sexual act; Ruka's contrary V009 claim is explicitly denied and does not establish intimacy.
 - Kazuya's interrupted attempt to make the relationship official is not reciprocal-love evidence, and Ruka does not know his later direct preference or support language to Chizuru.
-- No evidence supports performed voice, acoustic delivery, a clinical label, or a stable response to repeated nonreciprocity beyond V017; one bounded response sequence does not establish durable restraint or relationship conversion.
+- No evidence supports performed voice, acoustic delivery, a clinical label, or a stable response to repeated nonreciprocity beyond V018; tactical crisis accommodation does not establish durable restraint or relationship conversion.
 
 ## Update rule
 

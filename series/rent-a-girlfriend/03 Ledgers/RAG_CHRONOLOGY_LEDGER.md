@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-row_count: 68
-state: CURRENT_THROUGH_V017
+inspected_through_volume: V018
+row_count: 72
+state: CURRENT_THROUGH_V018
 ```
 
 ## Records
@@ -119,3 +119,7 @@ state: CURRENT_THROUGH_V017
 | RAG-CHR-075 | RAG-E-V017-005, RAG-E-V017-006 | Later, Sumi visits Sayuri while the film remains in editing and Chizuru reports a September 30 screening date. | The dated future screening is explicit. | The visit's calendar date and the edit-completion date are unstated. |
 | RAG-CHR-076 | RAG-E-V017-008 through RAG-E-V017-014 | Chizuru, Kazuya, and Sayuri inspect the accessible cinema before Sayuri collapses in its lobby and is taken by ambulance. | Cinema visit, conversation, collapse, and transport form one ordered event. | Exact date and elapsed hospital transit time are unstated. |
 | RAG-CHR-077 | RAG-E-V017-015 through RAG-E-V017-018 | That night a critical prognosis precedes Chizuru's no-regret claim, the truth-versus-comfort dispute, and Kazuya's LINE-and-running action. | Medical urgency and sequence are explicit. | Recipient, destination, action result, and Sayuri's subsequent condition fall beyond V017. |
+| RAG-CHR-078 | RAG-E-V018-001 through RAG-E-V018-008 | During the same critical night Kazuya projects the unfinished film, Sayuri regains limited responsiveness, Chizuru attempts disclosure, and grandmother and granddaughter exchange final love before Sayuri's death. | Direct continuation from V017; projection precedes speech, embrace, and later funeral confirmation. | Exact clock times, diagnosis, and moment of death are unstated. |
+| RAG-CHR-079 | RAG-E-V018-009 through RAG-E-V018-011 | After the death, Chizuru stays until morning, begins funeral preparation, and later hosts the wake and funeral while Kazuya and Nagomi attend. | Overnight stay precedes funeral arrangements and service. | Exact dates and interval between death, wake, and funeral are unstated. |
+| RAG-CHR-080 | RAG-E-V018-012 through RAG-E-V018-015 | After the funeral Kazuya books Sumi for advice; the paid interval becomes a same-day Shonan and Enoshima excursion that ends with a support lesson. | Consultation precedes transit, sightseeing, beach play, and return. | Exact calendar date and travel duration are unstated. |
+| RAG-CHR-081 | RAG-E-V018-016 through RAG-E-V018-020 | Back in Tokyo, Kazuya consults Ruka, obtains a wage advance, prepares a plan, and submits a next-day rental request to Chizuru. | The next-day intention is explicit at the volume close. | Acceptance and all date events fall beyond V018. |

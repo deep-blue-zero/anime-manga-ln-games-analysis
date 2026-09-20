@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-row_count: 83
-state: CURRENT_THROUGH_V017
+inspected_through_volume: V018
+row_count: 88
+state: CURRENT_THROUGH_V018
 ```
 ```
 
@@ -137,3 +137,8 @@ state: CURRENT_THROUGH_V017
 | RAG-REL-092 | Sayuri → Kazuya / Chizuru | Grateful close observer without full relationship truth | Thanks Kazuya for creating a film route and interprets Chizuru's happy account as possible love. | Family approval and gratitude intensify around the project. | Her romantic inference is constrained by incomplete information. | RAG-E-V017-006, RAG-E-V017-009 |
 | RAG-REL-093 | Kazuya → Chizuru | Status-independent lifelong supporter | Tells Sayuri he wants to support Chizuru even if they are no longer lovers. | He separates the support commitment from maintaining the public label. | The statement does not settle current truth, reciprocity, or future access. | RAG-E-V017-010 |
 | RAG-REL-094 | Kazuya ↔ Chizuru | Crisis collaborators divided over truth and comfort | Chizuru defends Sayuri's happy belief; Kazuya challenges the choice, notices concealed pain, avoids uninvited touch, and initiates another action. | Ethical disagreement becomes urgent without ending mutual support. | Disclosure, medical outcome, film delivery, and relationship status remain open. | RAG-E-V017-015 through RAG-E-V017-018 |
+| RAG-REL-095 | Sayuri ↔ Chizuru | Grandmother and granddaughter in final reciprocal recognition | Sayuri touches Chizuru, accepts her chosen answer, praises the film, calls her a treasure, and receives an embrace and reciprocal love. | Family attachment closes through direct speech and touch. | Sayuri dies with the rental facts and final couple belief incomplete. | RAG-E-V018-004 through RAG-E-V018-008 |
+| RAG-REL-096 | Kazuya → Chizuru | Crisis supporter who enables family access without claiming touch | Delivers the projection, urges self-directed speech, then accepts Chizuru's immediate post-death refusal of help. | Support crosses technical, ethical, and boundary-respecting domains. | He remains outside family and official partner status. | RAG-E-V018-001, RAG-E-V018-003, RAG-E-V018-010 |
+| RAG-REL-097 | Sumi → Kazuya | Paid practice partner becoming self-designated friend and support teacher | Ends the consultation, funds travel, and models a grief-support method. | Their interaction gains unpriced companionship and consequential advice. | Kazuya does not receive or reciprocate her romantic feeling. | RAG-E-V018-012 through RAG-E-V018-015 |
+| RAG-REL-098 | Ruka → Kazuya / Chizuru | Truce-bound rival allowing crisis priority while preserving a date claim | Shows sympathy, discusses encouragement, and asks for an amusement-park outing with Kazuya. | Immediate conflict is deferred rather than erased. | No schedule, official status, or durable concession follows. | RAG-E-V018-016 |
+| RAG-REL-099 | Kazuya → Chizuru | Prospective paying client using contract access for care | Raises funds, builds a plan, submits a rental request, and promises the best date. | He channels intimacy desire through an answerable professional route. | Chizuru has not accepted, and payment creates no emotional obligation or reciprocity. | RAG-E-V018-017 through RAG-E-V018-020 |

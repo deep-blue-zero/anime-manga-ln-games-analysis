@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V017; inspected and closed through V017."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V018; inspected and closed through V018."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V017
-row_count: 83
-state: CURRENT_THROUGH_V017
+inspected_through_volume: V018
+row_count: 89
+state: CURRENT_THROUGH_V018
 ```
 
 ## Records
@@ -136,3 +136,9 @@ state: CURRENT_THROUGH_V017
 | RAG-FRM-092 | Empty cinema space and wheelchair staging join future exhibition to family time. | Rows of seats, the screen, wheelchair access, and Sayuri's visit visualize a planned audience before the film is finished. | The promised delivery becomes materially present while remaining temporally incomplete. | Venue access is not a completed screening; RAG-E-V017-008 through RAG-E-V017-013. |
 | RAG-FRM-093 | Controlled speech is contradicted by face, hands, and posture. | Chizuru says she did everything possible and has no regret while tears, clenched hands, and lowered posture show strain. | Visual evidence prevents the sentence from functioning as a total emotional account. | Strain does not disclose a unique hidden wish; RAG-E-V017-016. |
 | RAG-FRM-094 | Withheld embrace and phone interface convert helplessness into an action cliffhanger. | Kazuya imagines that a real boyfriend could hold Chizuru, does not touch her, then opens LINE and runs. | Counterfactual intimacy is separated from enacted support before the volume cuts on motion. | Recipient, action, and success are unavailable at the boundary; RAG-E-V017-016 through RAG-E-V017-018. |
+| RAG-FRM-095 | Hospital wall projection converts an absent cinema into intimate exhibition space. | Laptop, projector beam, wall image, bedside faces, and Chizuru's performed footage compress production and family care into one room. | The visual promise of the empty cinema is fulfilled privately under medical urgency. | The form must not be misread as a completed edit or public screening; RAG-E-V018-001. |
+| RAG-FRM-096 | Flashback doctrine and present disclosure intercut lie with protected truth. | Sayuri's lesson about acting and lies precedes Chizuru's statement that she and Kazuya are not dating. | Memory supplies an ethical frame while the present action refuses a simple concealment/disclosure binary. | The montage does not certify every lie as protective; RAG-E-V018-002, RAG-E-V018-005, RAG-E-V018-006. |
+| RAG-FRM-097 | Touch shifts from face to embrace as responsiveness contracts. | Sayuri reaches for Chizuru's face; later Chizuru embraces Sayuri during reciprocal declarations of love. | Sparse bodily contact carries the final family recognition more directly than factual exposition. | The sequence leaves exact medical timing and factual belief unresolved; RAG-E-V018-004 through RAG-E-V018-008. |
+| RAG-FRM-098 | Repeated smiles become evidence of grief masking rather than simple stability. | Chizuru smiles after staying overnight and performs formal composure at the funeral while others report or infer private pain. | The prior ideal-girlfriend smile is recontextualized by bereavement. | Masking does not identify a single desired helper or prove conscious deception; RAG-E-V018-009 through RAG-E-V018-013. |
+| RAG-FRM-099 | Train, sea, written notes, and sand writing externalize a nonverbal support lesson. | Sumi moves Kazuya through transit and play, then writes guidance where speech is difficult. | Landscape and inscription convert her communication constraint into experiential pedagogy. | The form shows her intended lesson, not its later effectiveness with Chizuru; RAG-E-V018-014, RAG-E-V018-015. |
+| RAG-FRM-100 | Money, itinerary, platform screen, and final close-up stage resolve as prospective action. | Wage advance, printed plan, booking interface, banknotes, and Kazuya's declaration form a planning montage. | Material preparation replaces the prior running cliffhanger with a new acceptance-and-outcome threshold. | Resolve and montage do not establish successful care or reciprocity; RAG-E-V018-017 through RAG-E-V018-020. |
