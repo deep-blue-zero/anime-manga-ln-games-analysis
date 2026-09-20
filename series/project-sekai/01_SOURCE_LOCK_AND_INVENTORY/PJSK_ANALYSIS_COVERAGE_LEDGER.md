@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0117
+## Current coverage — all five human units synchronized through EVENT_0118
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0117 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0117`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0118 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0118`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0117 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0118 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0118 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH. New bounded I3 `EPI-VBS-SEKAI-E0118` records the expanded Street SEKAI as a shared but incomplete map of the quartet's inherited benchmark and wider horizon. Four distinct memory routes converge on a collective inscription goal while existing human operatives, group authority, and Street-singer identities remain separate. The verified envelope is 35 stories / 62 scenes / 1,667 records. No surpassed RAD WEEKEND, destroyed wall, achieved world standing, literal Nagi survival, restored coalition, solved grief, decoded sprout, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0117 to EVENT_0118. EVENT_0119 is next and 22 events remain through EVENT_0140.
+
+Causal home: [EVENT_0118 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0118_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0118: 35 stories / 62 scenes / 1,667 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH/I3. Create `EPI-VBS-SEKAI-E0118`; preserve `VBS-REL-GROUP-1`, `VBS-EP-AN-E0097`, `VBS-EP-KH-E0103`, `VBS-EP-AK-E0109`, `VBS-EP-TY-E0012`, and Street-singer topology. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0118; EVENT_0119 is next and 22 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0117 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0117 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MZ-E0093-01 → MZ-E0117-01` advances Mizuki into an enacted preference-support rule grounded in their sister's fear-respecting acceptance; `REL-FAMILY-MIZUKI-SISTER-E0068 → REL-FAMILY-MIZUKI-SISTER-E0117` integrates reciprocal creative influence and present distance-stable care. Leo/need receives high I2 application through Shiho's recipient-owned use and sibling gift; MMJ receives Shizuku's bounded receipt. The verified envelope is 24 stories / 39 scenes / 1,500 records. No completed guarded disclosure, universal acceptance, permanent safety, Mafuyu taste or preference recovery, new professional status, globally shared SEKAI identity, or complete reconstruction is certified. The boundary advances EVENT_0116 to EVENT_0117. EVENT_0118 is next and 23 events remain through EVENT_0140.
 
@@ -1775,3 +1785,7 @@ The verified group contains eight core chapters, ten card halves, and ten areas:
 ### EVENT_0117 source and reconstruction review
 
 The verified group contains 24 stories / 39 scenes / 1,500 records. No completed guarded disclosure, universal acceptance, permanent safety, Mafuyu taste or preference recovery, new professional status, globally shared SEKAI identity, or complete reconstruction is certified.
+
+### EVENT_0118 source and reconstruction review
+
+The verified group contains 35 stories / 62 scenes / 1,667 records. No surpassed RAD WEEKEND, destroyed wall, achieved world standing, literal Nagi survival, restored coalition, solved grief, decoded sprout, global singer identity, or complete reconstruction is certified.

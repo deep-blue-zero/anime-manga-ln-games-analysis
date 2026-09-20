@@ -50,3 +50,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0103 — On Your Feet](PJSK_EVENT_0103_DEEP_READING.md): complete 23-story envelope; `VBS-EP-KH-E0028 → VBS-EP-KH-E0103` records internally held singer pride, new `VBS-REL-GROUP-KEN-E0103` records an accepted mentoring compact before training results, and `VBS-REL-TOYA-FATHER-2 → VBS-REL-TOYA-FATHER-3` records conditional permission without endorsement or reconciliation.
 
 - [EVENT_0109 — BURN MY SOUL](PJSK_EVENT_0109_DEEP_READING.md): complete 24-story envelope; Akito gains a tested expressive-release operative, the group–Ken compact advances through executed mentorship, and Akito's solo creates the first scoped post-defeat Street-audience rekindling.
+
+- [EVENT_0118 — BREAK DOWN THE WALL](PJSK_EVENT_0118_DEEP_READING.md): complete 35-story World Link envelope; the RAD WEEKEND wall, wider music, blank inscription, and unexplained sprout form a bounded collective map.
