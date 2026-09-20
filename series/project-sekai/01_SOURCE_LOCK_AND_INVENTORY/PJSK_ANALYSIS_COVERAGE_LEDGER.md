@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0143
+current_event_boundary: EVENT_0144
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0143
+## Current coverage — all five human units synchronized through EVENT_0144
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0143 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0143`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0144 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0144`.
 
 Artifacts:
 
@@ -68,15 +68,21 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0143 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0144 forward transaction; EVENT_0141–0170 sequence active
 
-**EVENT_0143 is fully integrated:** `LN-EP-ICHIKA-E0128 → LN-EP-ICHIKA-E0143` advances recipient-led creation into song-by-song professional authorship through detected value conflict, reconstructed musical and relational history, consultation with band and intended singer, rejection of a blanket versioning mandate, acceptance of one aligned tie-in, and explicit willingness to bear a harder professional path. New scoped I3 `LN-REL-ICHIKA-SCHOOL-MIKU-E0143` records childhood cultural-Miku mediation without identity collapse, a current friend/mentor relationship, reciprocal valuation of Ichika's songs, non-coercive counsel, and returned decision authority. `LN-REL-SOLIS-E0128 → LN-REL-SOLIS-E0143` adds time for deliberation, producer/manager role separation, conviction-sensitive advocacy, manager-backed song-by-song autonomy, and a warned cost. `LN-EP-HONAMI-E0121`, `LN-REL-G-E0137`, and `LN-REL-ICHIKA-SAKI-E0128` receive strong I2 support. The verified envelope is 24 stories / 44 scenes / 1,351 records. No completed tie-in song or commercial, shown company-wide acceptance or durable implementation of the policy, Jam Fest result, future sales, chart success, stable mass fame, total workload safety, global Miku identity, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0142 to EVENT_0143. EVENT_0144 is next; 26 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+**EVENT_0144 is fully integrated:** `WXS-EP-NENE-E0114 → WXS-EP-NENE-E0144` advances person-specific collaborative direction into proactive cross-school, multi-discipline production leadership through chosen challenge, inclusive form design, role-fit recruitment, distributed work, interdisciplinary translation, lead performance, live coordination, and public/peer receipt. `WXS-EP-RUI-E0099 → WXS-EP-RUI-E0144` integrates childhood loneliness as continuing causal knowledge rather than a discarded self: Rui recognizes it as what makes Wonderlands×Showtime's miracle and value legible, explains his refusal of a four-person split, and accepts the fragment back. `WXS-EP-RUI-E0119` remains separate. `LN-EP-SHIHO-E0110`, `VBS-EP-TY-E0139`, Airi/Ena/Mizuki current owners, the WxS group and Wonderland relation, and established cross-unit channels receive proportional I2 support; `EPI-PJSK-SEKAI-E0140` receives strong I2 from Interstice Rin's observation of distinct local counterparts. The verified envelope is 29 stories / 55 scenes / 2,202 records. No universal leadership rule, permanent social ease, safe overwork, sole authorship, permanent festival cohort, guaranteed Morinomiya outcome, erased loneliness, permanent troupe co-location, public SEKAI knowledge, shared/global Rin identity, automatic cross-manifestation memory, or complete reconstruction is certified. The boundary advances EVENT_0143 to EVENT_0144. EVENT_0145 is next; 25 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
-Causal home: [EVENT_0143 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0143_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+Causal home: [EVENT_0144 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0144_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
 
-- Completed EVENT_0143: 24 stories / 44 scenes / 1,351 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
-- Leo/need is PRIMARY/VERY HIGH I3 through Ichika, CO_PRIMARY/VERY HIGH I3 through the Ichika–School Miku relation, CO_PRIMARY/HIGH I3 through Solis, and SECONDARY/HIGH I2 through group, Saki, and Honami owners; WxS is CROSS_UNIT/LOW I1; MMJ, VBS, and N25 are documentary I0.
-- The shared analysis boundary is EVENT_0143. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0143 deltas are recorded for the next synthesis checkpoint.
+- Completed EVENT_0144: 29 stories / 55 scenes / 2,202 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH I3 through Nene and CO_PRIMARY/VERY HIGH I3 through Rui; franchise ontology, Leo/need, Vivid BAD SQUAD, MORE MORE JUMP!, Nightcord at 25:00, the WxS group, Wonderland singers, and established cross-unit channels receive proportional I2 routes. No human unit is I0.
+- The shared analysis boundary is EVENT_0144. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0144 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0143 forward transaction
+
+**EVENT_0143 is fully integrated:** `LN-EP-ICHIKA-E0128 → LN-EP-ICHIKA-E0143` advances recipient-led creation into song-by-song professional authorship through detected value conflict, reconstructed musical and relational history, consultation with band and intended singer, rejection of a blanket versioning mandate, acceptance of one aligned tie-in, and explicit willingness to bear a harder professional path. New scoped I3 `LN-REL-ICHIKA-SCHOOL-MIKU-E0143` records childhood cultural-Miku mediation without identity collapse, a current friend/mentor relationship, reciprocal valuation of Ichika's songs, non-coercive counsel, and returned decision authority. `LN-REL-SOLIS-E0128 → LN-REL-SOLIS-E0143` adds time for deliberation, producer/manager role separation, conviction-sensitive advocacy, manager-backed song-by-song autonomy, and a warned cost. `LN-EP-HONAMI-E0121`, `LN-REL-G-E0137`, and `LN-REL-ICHIKA-SAKI-E0128` receive strong I2 support. The verified envelope is 24 stories / 44 scenes / 1,351 records. No completed tie-in song or commercial, shown company-wide acceptance or durable implementation of the policy, Jam Fest result, future sales, chart success, stable mass fame, total workload safety, global Miku identity, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0142 to EVENT_0143.
+
+Causal home: [EVENT_0143 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0143_DEEP_READING.md).
 
 ### Historical coverage — EVENT_0142 forward transaction
 
@@ -2137,3 +2143,7 @@ The verified group contains 23 stories / 43 scenes / 1,625 records. No causal ex
 ### EVENT_0143 source and reconstruction review
 
 The verified group contains 24 stories / 44 scenes / 1,351 records. No completed tie-in song or commercial, shown company-wide acceptance or durable policy implementation, Jam Fest result, future sales, chart success, stable mass fame, total workload safety, global Miku identity, public SEKAI knowledge, or complete reconstruction is certified.
+
+### EVENT_0144 source and reconstruction review
+
+The verified group contains 29 stories / 55 scenes / 2,202 records. No universal leadership formula, permanent social ease, safe overwork, sole authorship, permanent festival cohort, professional directing, acting, or composition mastery, guaranteed Morinomiya outcome, permanent troupe co-location, erased loneliness, universal value in suffering, public SEKAI knowledge, shared/global Rin identity, automatic cross-manifestation memory, or complete reconstruction is certified.
