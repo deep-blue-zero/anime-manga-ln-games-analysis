@@ -46,3 +46,11 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0100 — 仮面の私にさよならを](PJSK_EVENT_0100_DEEP_READING.md): complete 23-story envelope; `MF-E0100-01`, `REL-FAMILY-MAFUYU-MOTHER-E0100`, `REL-N25-KM-E0100`, and `REL-N25-VS-KAITO-GROUP-E0100` are distinct I3 successors; N25 group, Mizuki, Miku, and Kanade human authority are preserved at strong I2.
 
 - [EVENT_0112 — 水底に影を探して](PJSK_EVENT_0112_DEEP_READING.md): complete 30-story World Link envelope; Mafuyu advances from survival departure into shared identity search, the Empty SEKAI lake becomes a bounded material archive, and Honami–Mafuyu domestic support begins at I2.
+
+- [EVENT_0116 — あの日、奏でた音色を](PJSK_EVENT_0116_DEEP_READING.md): complete 28-story envelope; Kanade permits and enacts personal longing beside unresolved rescue duty, with bounded Kanade–father I3 and Mafuyu–father I2 family states.
+
+- [EVENT_0117 — 変わらぬあたたかさの隣で](PJSK_EVENT_0117_DEEP_READING.md): complete 24-story envelope; Mizuki converts sister-supported self-authorship into a recipient-choice rule while disclosure and universal safety remain open.
+
+- [EVENT_0127 — Knowing the Unseen](PJSK_EVENT_0127_DEEP_READING.md): complete 27-story envelope; Ena reads her father's hidden artistic history, chooses life with painting, and receives bounded permission without reconciliation.
+
+- [EVENT_0134 — 灯を手繰りよせて](PJSK_EVENT_0134_DEEP_READING.md): complete 28-story envelope; mixed evidence supports Mafuyu's chosen disclosure and a reciprocal paternal alliance.

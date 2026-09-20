@@ -36,3 +36,15 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0108 — ハロー・グッド・デイ！](PJSK_EVENT_0108_DEEP_READING.md): complete 28-story ensemble envelope; Ichika directly enacts `LN-EP-ICHIKA-E0101`, Kanade receives ordinary motivation, and all five groups advance proportionally at I2 without a new I3 owner.
 
 - [EVENT_0115 — あっちこっち飼育員体験！](PJSK_EVENT_0115_DEEP_READING.md): complete 24-story ensemble envelope; MMJ and LN deepen animal-care, safety, chosen-leisure, and Stage-local continuity at I2 without a new I3 owner.
+
+- [EVENT_0120 — Take the Best Shot！](PJSK_EVENT_0120_DEEP_READING.md): complete 23-story envelope; two cross-unit teams turn a photo contest into specific craft growth, reciprocal recognition, and shared memory.
+
+- [EVENT_0123 — リラックスティータイム](PJSK_EVENT_0123_DEEP_READING.md): complete 23-story envelope; Kanade and Ichika turn gift uncertainty into research, individualized tea, and one completed cross-network gathering.
+
+- [EVENT_0126 — Rise as ONE！](PJSK_EVENT_0126_DEEP_READING.md): complete 23-story envelope; Honami's guidance helps Akito build specific trust with Max and complete one competition without generalizing a cure.
+
+- [EVENT_0132 — みんなで配信♡WEDDING LIVE！](PJSK_EVENT_0132_DEEP_READING.md): complete 23-story mixed envelope; accidental cohosting becomes reciprocal craft rescue, public credit, and chosen ordinary time.
+
+- [EVENT_0139 — 鳴らせビューティフルサウンド！](PJSK_EVENT_0139_DEEP_READING.md): complete 23-story mixed envelope; recovered musical joy becomes Toya's recipient-tested persistence method and a reciprocal Toya–Kanade creative channel.
+
+- [EVENT_0140 — キミと、セカイの始まりで](PJSK_EVENT_0140_DEEP_READING.md): complete 36-story universal envelope; origin fragments, early local care, repeatable counterpart observation, and a provisional shared growth space advance bounded SEKAI ontology.

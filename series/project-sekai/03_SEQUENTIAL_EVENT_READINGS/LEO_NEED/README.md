@@ -58,3 +58,9 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0101 — つなぐ、星の歌](PJSK_EVENT_0101_DEEP_READING.md): complete 23-story envelope; `LN-REL-SOLIS-E0101` records formal affiliation and `LN-EP-ICHIKA-E0101` records a tested recursive connection purpose; Leo/need group, School singers, and four cross-unit routes are preserved at strong, recipient-bounded I2.
 
 - [EVENT_0110 — Stick to your faith](PJSK_EVENT_0110_DEEP_READING.md): complete 28-story envelope; Shiho turns uncompromising pursuit into a recipient-defined musical-purpose operative, with bounded historical Sumire responsibility while Honami, collective synthesis, and leadership remain open.
+
+- [EVENT_0121 — 導く勇気、優しさを胸に](PJSK_EVENT_0121_DEEP_READING.md): complete 24-story envelope; Honami turns care into drum-led guidance as Leo/need formalizes shared purpose, leadership, and a scheduled debut.
+
+- [EVENT_0128 — Parallel Harmonies](PJSK_EVENT_0128_DEEP_READING.md): complete 27-story envelope; creative collision becomes recipient-led coauthorship and Leo/need's first released, promoted debut song.
+
+- [EVENT_0137 — あの日見た夜空は、いつかの未来へ](PJSK_EVENT_0137_DEEP_READING.md): complete 30-story World Link envelope; four past-facing routes converge at a responsive station and a collective departure into an undefined future.
