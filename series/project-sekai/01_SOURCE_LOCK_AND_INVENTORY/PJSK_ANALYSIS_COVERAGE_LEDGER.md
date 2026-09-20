@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0135
+## Current coverage — all five human units synchronized through EVENT_0136
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0135 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0135`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0136 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0136`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0135 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0136 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0136 is fully integrated:** `WXS-EP-TSUKASA-E0113 → WXS-EP-TSUKASA-E0136` advances Tsukasa's role-construction method into embodied acting through capacity diagnosis, foundational training, recovery, comparable expertise, mechanical revision, collaborative risk control, and audience-tested transfer. New scoped I3 `WXS-REL-TSUKASA-ONIJIMA-E0136` records sustained tailored mentorship and reciprocal craft correction. The verified envelope is 28 stories / 49 scenes / 1,632 records. No universal physical-acting formula, unrestricted stunt safety, permanent fitness, mastery of every bodily role, justification of solo pursuit, permanent Onijima mentorship, Mikazuki membership, settled next production, completed world career, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0135 to EVENT_0136. EVENT_0137 is next and 4 events remain through EVENT_0140.
+
+Causal home: [EVENT_0136 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0136_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0136: 28 stories / 49 scenes / 1,632 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH I3. Advance `WXS-EP-TSUKASA-E0113 → WXS-EP-TSUKASA-E0136` and create scoped I3 `WXS-REL-TSUKASA-ONIJIMA-E0136`. Preserve `REL-WXS-G-E0104`, `WXS-EP-EMU-E0131`, `WXS-EP-NENE-E0095`, `WXS-EP-RUI-E0119`, `REL-WXS-WONDERLAND-E0003`, and `EPI-CROSS-SAKI-TSUKASA-E0016`. Leo/need and Vivid BAD SQUAD are CROSS_UNIT/LOW I1; MORE MORE JUMP! and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0136; EVENT_0137 is next and 4 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0135 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0135 is fully integrated:** `VBS-EP-KH-E0103 → VBS-EP-KH-E0135` converts Kohane's pride into an audience-facing excitement rule; `VBS-REL-GROUP-1 → VBS-REL-GROUP-E0135` records coordinated completion of the founding goal and adoption of a world horizon; `VBS-REL-GROUP-KEN-E0109 → VBS-REL-GROUP-KEN-E0135` completes the mentorship; and `VBS-REL-STREET-AUDIENCE-E0129 → VBS-REL-STREET-AUDIENCE-E0135` records public surpassal receipt and changed Street practice. The verified envelope is 24 stories / 50 scenes / 2,265 records. No universal or objective performance scale, permanent technical supremacy, safe training doctrine, professional contract, broad fame, settled world route, guaranteed future victory, completed Akito–Arata rematch, cured grief, erased legend, permanent coalition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0134 to EVENT_0135. EVENT_0136 is next and 5 events remain through EVENT_0140.
 
@@ -2027,3 +2037,7 @@ The verified group contains 28 stories / 53 scenes / 1,542 records. No settled v
 ### EVENT_0135 source and reconstruction review
 
 The verified group contains 24 stories / 50 scenes / 2,265 records. No universal or objective performance scale, permanent technical supremacy, safe training doctrine, professional contract, broad fame, settled world route, guaranteed future victory, completed Akito–Arata rematch, cured grief, erased legend, permanent coalition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0136 source and reconstruction review
+
+The verified group contains 28 stories / 49 scenes / 1,632 records. No universal physical-acting formula, unrestricted stunt safety, permanent fitness, mastery of every bodily role, justification of solo pursuit, permanent Onijima mentorship, Mikazuki membership, settled next production, completed world career, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
