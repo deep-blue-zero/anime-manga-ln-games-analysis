@@ -42,3 +42,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0123 — リラックスティータイム](PJSK_EVENT_0123_DEEP_READING.md): complete 23-story envelope; Kanade and Ichika turn gift uncertainty into research, individualized tea, and one completed cross-network gathering.
 
 - [EVENT_0126 — Rise as ONE！](PJSK_EVENT_0126_DEEP_READING.md): complete 23-story envelope; Honami's guidance helps Akito build specific trust with Max and complete one competition without generalizing a cure.
+
+- [EVENT_0132 — みんなで配信♡WEDDING LIVE！](PJSK_EVENT_0132_DEEP_READING.md): complete 23-story mixed envelope; accidental cohosting becomes reciprocal craft rescue, public credit, and chosen ordinary time.

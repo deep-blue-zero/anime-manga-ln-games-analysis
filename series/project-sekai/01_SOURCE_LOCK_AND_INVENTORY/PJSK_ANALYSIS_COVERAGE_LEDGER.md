@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0131
+## Current coverage — all five human units synchronized through EVENT_0132
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0131 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0131`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0132 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0132`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0131 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0132 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0132 is fully integrated:** new scoped I3 `REL-CROSS-MINORI-NENE-E0132` records accepted cohosting, privacy-aware distributed support, emergency role substitution, reciprocal craft teaching, mutual performance rescue, public credit, footage permission, and chosen post-work time. Minori's recipient-hope method and Nene's musical-acting and collaborative-direction methods receive strong I2 application; Leo/need and N25 friends provide bounded social support. The verified envelope is 23 stories / 33 scenes / 1,638 records. No original-cast equivalence, permanent media confidence, general crisis mastery, future cohosting contract, repeat booking, universal audience conversion, private identity disclosure, equal cross-unit intimacy, merged-unit route, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0131 to EVENT_0132. EVENT_0133 is next and 8 events remain through EVENT_0140.
+
+Causal home: [EVENT_0132 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0132_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0132: 23 stories / 33 scenes / 1,638 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! and Wonderlands×Showtime are CO_PRIMARY/VERY HIGH through new scoped I3 `REL-CROSS-MINORI-NENE-E0132`. Preserve `MMJ-EP-MN-E0122`, `MMJ-REL-GROUP-E0130`, `WXS-EP-NENE-E0114`, `WXS-EP-NENE-E0095`, `REL-WXS-G-E0124`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, and `REL-WXS-WONDERLAND-E0003` at strong I2. Leo/need and Nightcord at 25:00 are SECONDARY/MEDIUM I2; Vivid BAD SQUAD is NONE/I0.
+- The shared boundary is EVENT_0132; EVENT_0133 is next and 8 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0131 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0131 is fully integrated:** new I3 `WXS-EP-EMU-E0131` records a tested method for converting intuitive character feeling into audience-legible performance through bodily control, differentiated viewer perspectives, recordings, response comparison, revision, and retest. New bounded I3 `WXS-REL-G-MIKAZUKI-E0131` records sustained supervised training, evaluated work, and a confirmed next production. Existing Emu stewardship, WxS group, member, family, and Wonderland owners remain in force. The verified envelope is 23 stories / 37 scenes / 1,495 records. No universal audience-reading ability, surrender of Emu's own interpretation, professional acting mastery, safe high-risk near-miss rule, permanent workload safety, Mikazuki membership, settled play or roles, completed historical-village production, contract, guaranteed career outcome, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0130 to EVENT_0131. EVENT_0132 is next and 9 events remain through EVENT_0140.
 
@@ -1971,3 +1981,7 @@ The verified group contains 30 stories / 54 scenes / 1,845 records. No determini
 ### EVENT_0131 source and reconstruction review
 
 The verified group contains 23 stories / 37 scenes / 1,495 records. No universal audience-reading ability, surrender of Emu's own interpretation, professional acting mastery, safe high-risk near-miss rule, permanent workload safety, Mikazuki membership, settled play or roles, completed historical-village production, contract, guaranteed career outcome, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0132 source and reconstruction review
+
+The verified group contains 23 stories / 33 scenes / 1,638 records. No original-cast equivalence, permanent media confidence, general crisis mastery, future cohosting contract, repeat booking, universal audience conversion, private identity disclosure, equal cross-unit intimacy, merged-unit route, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.

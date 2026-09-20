@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0131
+## Current state — founded units synchronized through EVENT_0132
 
-All five human units now track the same continuous event history through `EVENT_0131`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0131 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0132`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0132 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0131 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0132 committed boundary
+
+**EVENT_0132 is fully integrated:** new scoped I3 `REL-CROSS-MINORI-NENE-E0132` records accepted cohosting, privacy-aware distributed support, emergency role substitution, reciprocal craft teaching, mutual performance rescue, public credit, footage permission, and chosen post-work time. Minori's recipient-hope method and Nene's musical-acting and collaborative-direction methods receive strong I2 application; Leo/need and N25 friends provide bounded social support. The verified envelope is 23 stories / 33 scenes / 1,638 records. No original-cast equivalence, permanent media confidence, general crisis mastery, future cohosting contract, repeat booking, universal audience conversion, private identity disclosure, equal cross-unit intimacy, merged-unit route, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0131 to EVENT_0132. EVENT_0133 is next and 8 events remain through EVENT_0140.
+
+The [EVENT_0132 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0132_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 17 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0131 committed boundary
 
 **EVENT_0131 is fully integrated:** new I3 `WXS-EP-EMU-E0131` records a tested method for converting intuitive character feeling into audience-legible performance through bodily control, differentiated viewer perspectives, recordings, response comparison, revision, and retest. New bounded I3 `WXS-REL-G-MIKAZUKI-E0131` records sustained supervised training, evaluated work, and a confirmed next production. Existing Emu stewardship, WxS group, member, family, and Wonderland owners remain in force. The verified envelope is 23 stories / 37 scenes / 1,495 records. No universal audience-reading ability, surrender of Emu's own interpretation, professional acting mastery, safe high-risk near-miss rule, permanent workload safety, Mikazuki membership, settled play or roles, completed historical-village production, contract, guaranteed career outcome, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0130 to EVENT_0131. EVENT_0132 is next and 9 events remain through EVENT_0140.
 
@@ -623,13 +629,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0131`. Emu can now revise acting through differentiated audience perspectives; WxS has earned a confirmed next production with Mikazuki troupe. `EVENT_0132` is next; 9 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0132`. Minori and Nene now have a tested reciprocal public-work relation with ordinary post-work access; their current individual and group operatives remain distinct. `EVENT_0133` is next; 8 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0131` for all five human units. The EVENT_0116–0140 continuation is active with 9 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0132` for all five human units. The EVENT_0116–0140 continuation is active with 8 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0131_DEEP_READING.md) closes `EVENT_0131 — perspective for smile`, bucket `RB_20240523T060000Z`: 23 stories / 37 scenes / 1,495 records. Emu can now revise acting through differentiated audience perspectives; WxS has earned a confirmed next production with Mikazuki troupe.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0132_DEEP_READING.md) closes `EVENT_0132 — みんなで配信♡WEDDING LIVE！`, bucket `RB_20240531T060000Z`: 23 stories / 33 scenes / 1,638 records. Minori and Nene now have a tested reciprocal public-work relation with ordinary post-work access; their current individual and group operatives remain distinct.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
