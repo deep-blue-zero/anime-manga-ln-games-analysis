@@ -25,8 +25,16 @@ All five human units now track the same continuous event history through `EVENT_
 - [Release-impact matrix](04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090)
 - [Routing resolution](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#current-founded-unit-backfill--event_00290090)
 
-Older statements that a non-N25 route was deferred preserve the entering state of those historical transactions and are superseded for current coverage by these checkpoints. Reconstruction packages and synthesis completion remain separate work.
+Older statements that a non-N25 route was deferred preserve the entering state of those historical transactions and are superseded for current coverage by these checkpoints. Provisional reconstruction generation 1 is now complete for all 20 principal humans through `EVENT_0140`; synthesis completion remains separate work.
 <!-- UNIT_BACKFILL_0029_0090_END -->
+
+<!-- RECONSTRUCTION_GENERATION_1_START -->
+## Current reconstruction generation — principal humans through EVENT_0140
+
+The [character reconstruction router](05_CHARACTER_RECONSTRUCTION/README.md) exposes 20 principal-human packages, each containing a monograph, reconstruction model, and evidence index. The [readiness matrix](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md) independently tests current state, ordinary behavior, conflict/high stakes, multiple relationships, public/private presentation, and textual speech. All 20 pass `R3_RECONSTRUCTION_READY`; none is promoted to R4 or performed-voice readiness.
+
+The exact narrative boundary is `EVENT_0140`, analytical commit `9de1cbf9efaba5c66946ec2d5dc0419e568da7c7`. The source lock remains `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, but the packages use no post-`EVENT_0140` knowledge. EVENT_0140 preserves all current human owners and does not transmit its origin memories to the humans. Global character discovery outputs remain curation-owned and were not edited by this project-local generation.
+<!-- RECONSTRUCTION_GENERATION_1_END -->
 
 
 ## Purpose
@@ -681,7 +689,7 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 **Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0140` for all five human units. The EVENT_0116–0140 continuation is complete.
 
-`RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
+`RECONSTRUCTION_CURRENT` is provisional generation 1 through `EVENT_0140`: 20 principal-human packages, 60 package artifacts, and one cross-character readiness audit. Every principal human independently passes `R3_RECONSTRUCTION_READY` for bounded textual scenario use; none passes R4 or performed-voice readiness. Event-local `reconstruction_yield` annotations remain evidence-yield assessments and are not themselves the certification. Unit and warranted specialist syntheses, full-series synthesis, later-generation contradiction work, and protected integration remain separate dependencies.
 
 The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0140_DEEP_READING.md) closes `EVENT_0140 — キミと、セカイの始まりで`, bucket `RB_20240817T110000Z`: 36 stories / 54 scenes / 2,131 records. Bounded cross-SEKAI ontology now includes retained origin-fragment access, repeatable Interstice observation of distinct local counterparts, selected sensory leakage, and a provisional shared growth space; all five founding care routes are reconstructed without new human successors.
 
