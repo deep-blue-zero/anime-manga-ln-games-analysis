@@ -1,6 +1,86 @@
 {
   "schema": "repository-test-catalog/v1",
   "tests": {
+    "test_nightly_integration.SourceAuditWaitTests.test_queued_source_audit_finishes_before_any_write": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "queued source audit finishes before any write."
+    },
+    "test_nightly_integration.SourceAuditWaitTests.test_absent_failed_or_unreported_source_audits_never_allow_writes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "absent failed or unreported source audits never allow writes."
+    },
+    "test_nightly_integration.SourceAuditWaitTests.test_reporter_completing_between_reads_is_rechecked": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "reporter completing between reads is rechecked."
+    },
+    "test_nightly_integration.SourceAuditWaitTests.test_source_or_main_drift_during_initial_wait_stops_before_writes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "source or main drift during initial wait stops before writes."
+    },
+    "test_nightly_integration.SourceAuditWaitTests.test_initial_wait_timeout_is_bounded_by_source_and_run_deadlines": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "initial wait timeout is bounded by source and run deadlines."
+    },
+    "test_nightly_integration.SourceAuditWaitTests.test_initial_wait_and_housekeeping_share_one_source_budget": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "initial wait and housekeeping share one source budget."
+    },
+    "test_nightly_integration.SourceAuditWaitTests.test_preview_reports_unfinished_source_without_polling": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "preview reports unfinished source without polling."
+    },
+    "test_nightly_integration.SourceAuditWaitTests.test_source_run_discovery_binds_identity_branch_and_exact_commit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "source run discovery binds identity branch and exact commit."
+    },
     "test_audit_execution.ExecutionPlanTests.test_current_registry_paths_support_shadow_planning": {
       "group": "live_corpus",
       "smoke": false,
