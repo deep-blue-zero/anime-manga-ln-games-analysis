@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0101
+## Current coverage — all five human units synchronized through EVENT_0102
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0101 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0101`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0102 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0102`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0101 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0102 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0102 is fully integrated:** MORE MORE JUMP! and Nightcord at 25:00 share the highest cross-unit consequence through one scoped I3 owner. New `REL-CROSS-AIRI-MIZUKI-E0102` records Airi's informed selection of Mizuki for consequential help, Mizuki's accepted and completed work, reciprocal thanks and burden awareness, an explicitly chosen and completed first two person outing, mutual learning, and continuing direct access. New `REL-CROSS-SAKI-MIZUKI-E0102` is bounded I2 for first direct contact, training, high pressure service coordination, a shared recipient quality rule, and later ordinary fashion advice. Preserve `MMJ-AI-MS-04`, `MMJ-EP-AI-E0092`, and `MMJ-REL-GROUP-06`: Airi's acclaimed live media adaptation is strong I2 application of founded variety, organization, and program skill, not a new operative. Preserve Saki, Mizuki, Minori, park, Wonderland, and Stage authority proportionally. The verified envelope is 23 stories / 40 scenes / 1,389 records: eight core chapters, ten card halves, and five linked areas. No permanent television success, guaranteed repeat booking, broad fame, sole Airi causation, mature Saki–Mizuki friendship, private N25 disclosure, completed Stage café, global singer state, or complete reconstruction is certified. The boundary advances EVENT_0101 to EVENT_0102; EVENT_0103 is next and 13 events remain through EVENT_0115.
+
+Causal home: [EVENT_0102 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0102_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0102: 23 stories / 40 scenes / 1,389 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create scoped I3 `REL-CROSS-AIRI-MIZUKI-E0102` and bounded I2 `REL-CROSS-SAKI-MIZUKI-E0102`.
+- Preserve Airi professional, MMJ group, Mizuki, Saki, Minori, park, Wonderland, and Stage authority proportionally.
+- The shared boundary is EVENT_0102; EVENT_0103 is next and 13 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0101 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0101 is fully integrated:** Leo/need is PRIMARY/VERY HIGH with two distinct I3 successors. `LN-REL-SOLIS-E0101` closes the pending contract boundary through signed, accepted contracts and formal Solis artist affiliation while debut, promotion, release, income, and durable agency alignment remain open. `LN-EP-ICHIKA-E0101` advances the listener-oriented state into recipient-traced impact, shared causal attribution, a tested recursive connection purpose, and a future singing vow. Preserve `LN-REL-G-E0020` and `LN-REL-SCHOOL-VS-MS` at strong I2. MMJ, VBS, WxS, and N25 are CROSS_UNIT/HIGH I2 through distinct invitation, support, attendance, and receipt routes. The verified envelope is 23 stories / 45 scenes / 1,670 records: eight core chapters, ten card halves, and five linked areas. No completed debut, broad fame, public SEKAI knowledge, global singer state, universal listener transformation, permanent band continuity, or complete reconstruction package is certified. The boundary advances EVENT_0100 to EVENT_0101; EVENT_0102 is next and 14 events remain through EVENT_0115.
 
@@ -1536,3 +1547,7 @@ The verified group contains eight core chapters (23 scenes, 937 records), ten ca
 ### EVENT_0101 source and reconstruction review
 
 The verified group contains eight core chapters (25 scenes, 938 records), ten card halves (15 scenes, 677 records), and five linked areas (5 scenes, 55 records). Two I3 responsibilities advance: formal Solis affiliation and Ichika's recursive connection-purpose operative. Leo/need group and School topology receive strong I2 evidence. MMJ, VBS, WxS, and N25 each receive high, recipient-specific I2 without successors. Debut, commercial outcomes, universal listener change, broad fame, public SEKAI knowledge, global singer state, permanent band continuity, and complete reconstruction remain uncertified.
+
+### EVENT_0102 source and reconstruction review
+
+The verified group contains eight core chapters (18 scenes, 738 records), ten associated card halves (17 scenes, 603 records), and five linked areas (5 scenes, 48 records). `REL-CROSS-AIRI-MIZUKI-E0102` is the sole new I3 owner. `REL-CROSS-SAKI-MIZUKI-E0102` is new bounded I2. Airi's professional work and the MMJ group receive strong I2 application; founded Mizuki, Saki, Minori, park, Wonderland, and Stage authority remains. Television success, repeat work, broad fame, sole causation, mature Saki–Mizuki friendship, private N25 disclosure, permanent café employment, completed Stage café, global singer state, and complete reconstruction remain uncertified.

@@ -52,3 +52,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0094 — One-Day Trip Before Setting Sail](PJSK_EVENT_0094_DEEP_READING.md): complete 23-story envelope; new `MMJ-EP-HR-E0094` records Haruka's chosen-friendship procedure, `MMJ-EP-HR-E0023` remains separate, and only `REL-CROSS-LN-MMJ-SCHOOL-E0001` / `REL-CROSS-ICHIKA-NENE-E0013` increment at strong I2 while MMJ group and Stage topology remain preserved.
 
 - [EVENT_0098 — STEP by STEP！](PJSK_EVENT_0098_DEEP_READING.md): complete 24-story envelope; sole new `MMJ-EP-MN-E0098` structural-choice operative I3, bounded local `MMJ-VS-STAGE-LEN-E0098` I2 distinct from Stage KAITO, and preserved Minori, Haruka, MMJ, school, cross-unit, and Stage authority with transition outcomes open.
+
+- [EVENT_0102 — ドタバタ cafe ●REC!!](PJSK_EVENT_0102_DEEP_READING.md): complete 23-story envelope; new `REL-CROSS-AIRI-MIZUKI-E0102` records a scoped direct relationship at I3 and `REL-CROSS-SAKI-MIZUKI-E0102` records bounded work continuity at I2; Airi's acclaimed media adaptation and the MMJ group remain strong I2 applications of founded authority.
