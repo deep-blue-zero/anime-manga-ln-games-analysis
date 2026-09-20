@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
+inspected_through_volume: V013
 row_count: 61
-state: CURRENT_THROUGH_V012
+state: CURRENT_THROUGH_V013
 ```
 
 ## Records
@@ -109,3 +109,8 @@ state: CURRENT_THROUGH_V012
 | RAG-FRM-065 | A screen within the manga turns vocation into inheritance. | Young Chizuru watches Sayuri Otori, declares her dream, then carries Katsuhito's promise through accident, shrine circuit, death, and memorial address. | Recorded performance and repeated promise language bind image-making to family memory. | The structure explains pressure without guaranteeing artistic success; RAG-E-V012-010 through RAG-E-V012-015. |
 | RAG-FRM-066 | A door threshold and laptop transform support speech into a project proposal. | Kazuya arrives at Chizuru's apartment with crowdfunding examples, production estimates, and a cinema route. | Interface pages and numerical planning externalize work that previously existed as feeling. | Research imagery is evidence of preparation, not completed production; RAG-E-V012-016 through RAG-E-V012-020. |
 | RAG-FRM-067 | Matched request and promise close the volume on mutual resolve. | Chizuru asks Kazuya to make the film if he will not quit, and he answers with an end-to-end commitment. | Alternating close panels and emphatic posture make consent to the project reciprocal. | Formal intensity establishes a shared undertaking, not romantic reciprocity or completion; RAG-E-V012-021, RAG-E-V012-022. |
+| RAG-FRM-068 | Lists and numerical interfaces turn feeling into production structure. | Tasks, rental prices, personnel costs, the 1.82-million-yen total, and campaign requirements occupy successive pages. | Quantification makes support testable and exposes missing competence. | Numerical density does not itself make the project feasible; RAG-E-V013-002, RAG-E-V013-005, RAG-E-V013-008. |
+| RAG-FRM-069 | Apartment thresholds repeatedly convert private access into audience collision. | Chizuru enters for work and Mini later catches her leaving. | The doorway makes a project-scoped exception look romantically legible to an observer. | Spatial framing does not override the stated work purpose; RAG-E-V013-007, RAG-E-V013-012, RAG-E-V013-013. |
+| RAG-FRM-070 | Food supplies intimacy-like form while dialogue restores project context. | Chizuru cooks omurice; Mini later uses curry comparison to test Kazuya and the pair. | Domestic images become evidence inside a third party's romance narrative. | Care and comparison create no couple agreement; RAG-E-V013-011, RAG-E-V013-016. |
+| RAG-FRM-071 | Sayuri's bedside advice crosscuts project permission with relationship interpretation. | Candy, film discussion, family permission, and a complementary-pair speech share one hospital scene. | Vocational and relational inheritance become visually inseparable without becoming identical. | Sayuri's limited knowledge constrains the interpretation; RAG-E-V013-017 through RAG-E-V013-019. |
+| RAG-FRM-072 | The final interface converts prayer into a measurable zero state. | Both characters pray before the published page shows 0 yen, 0 supporters, and 45 days. | The close replaces triumphant launch rhetoric with explicit exposure to outcome. | Zero is the opening condition, not evidence of eventual failure; RAG-E-V013-020 through RAG-E-V013-022. |

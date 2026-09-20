@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V012."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V013."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -39,13 +39,14 @@ model_basis:
     - RAG-JP-EPUB-V010
     - RAG-JP-EPUB-V011
     - RAG-JP-EPUB-V012
-  admitted_through_volume: V012
-  narrative_time_boundary: "after Sumi's emotional support, Kazuya's crowdfunding research, Chizuru's film request, and their joint completion commitment"
+    - RAG-JP-EPUB-V013
+  admitted_through_volume: V013
+  narrative_time_boundary: "after expert campaign correction, detailed collaboration, producer assignment, platform approval, and public launch"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.12"
+  model_revision: "1.13"
   prior_knowledge_limitations:
-    - "No post-V012 narrative evidence is admitted."
+    - "No post-V013 narrative evidence is admitted."
     - "Chizuru re-bounds Kazuya's support language through rental service but supplies no romantic self-classification."
 coverage:
   observed_contexts:
@@ -635,7 +636,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S014
 valid_from_source: "V012 0005"
-valid_until_source: null
+valid_until_source: "V013 0004"
 entry_conditions:
   - "Sumi's completed care itinerary and invitation to speak give Kazuya a bounded route for disclosing distress before a film-rental advertisement makes an actionable association available."
 active_goals:
@@ -675,6 +676,53 @@ uncertainties:
   - "Whether research becomes a launched and funded campaign."
   - "Whether he can recruit production competence and sustain execution."
   - "How the project interacts with the dormant truth, ring, and Ruka obligations."
+~~~
+
+### KAZ-S015 — named producer with a live unfunded campaign
+
+~~~yaml
+state_id: KAZ-S015
+valid_from_source: "V013 0005"
+valid_until_source: null
+entry_conditions:
+  - "Kazuya and Chizuru have promised the film but lack an approved campaign, budget, team, and production route."
+active_goals:
+  - launch and fund the 1.82-million-yen campaign within forty-five days
+  - obtain missing script and production competence
+  - coordinate Chizuru and Mini without converting project access into romantic entitlement
+known_propositions:
+  - "CAMPFIRE rejected the first draft and later approved the revision."
+  - "Chizuru's manager and Sayuri permit the campaign's controlled identity disclosure."
+  - "Chizuru identifies him as producer and Mini has offered labor."
+  - "The campaign begins at zero yen and zero supporters."
+relationship_conditions:
+  - "Chizuru is an active project principal who shares work, cost decisions, private space, and a public outcome test."
+  - "Mini is an informed volunteer whose romantic interpretation is not authoritative."
+  - "Sayuri endorses the project and Kazuya's suitability while lacking the rental truth."
+changed_from_previous:
+  - EXPERT_CORRECTION_RECEIVED
+  - PROJECT_BUDGET_FIXED
+  - CHIZURU_COLLABORATION_DEEPENED
+  - MINI_RECRUITED
+  - PRODUCER_ROLE_NAMED
+  - CAMPAIGN_APPROVED_AND_PUBLISHED
+evidence_refs:
+  - RAG-E-V013-001
+  - RAG-E-V013-002
+  - RAG-E-V013-005
+  - RAG-E-V013-007
+  - RAG-E-V013-008
+  - RAG-E-V013-009
+  - RAG-E-V013-010
+  - RAG-E-V013-014
+  - RAG-E-V013-015
+  - RAG-E-V013-020
+  - RAG-E-V013-021
+  - RAG-E-V013-022
+uncertainties:
+  - "Whether public support arrives and reaches the target."
+  - "Whether Mini completes useful work and further specialists join."
+  - "Whether Kazuya can move from campaign preparation to production management."
 ~~~
 
 ## Behavioral rules
@@ -801,6 +849,18 @@ uncertainties:
 - **Disconfirming observation:** the plan remains rhetorical or is abandoned once execution requires ordinary coordination and sustained labor.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and project-specific.
 
+### RAG-KAZ-R011 — concrete criticism can elicit revision when a valued external goal is measurable
+
+- **Scope:** KAZ-S015.
+- **Trigger:** An expert rejects an inadequate plan whose failure would harm a time-limited goal.
+- **Likely appraisal:** personal inexperience is a problem to research and revise rather than proof that action is impossible.
+- **Likely action range:** solicit criticism, endure discouragement, return to joint planning, quantify costs, recruit help, revise the campaign, and publish once approved.
+- **Inhibitors/escalators:** global self-condemnation inhibits action; Chizuru's explicit reliance, a public deadline, and concrete reviewer demands escalate revision.
+- **Support:** RAG-E-V013-001 through RAG-E-V013-010, RAG-E-V013-014, RAG-E-V013-015, RAG-E-V013-020 through RAG-E-V013-022.
+- **Counterevidence/gap:** approval and launch are observed, but funding, staffing, filming, and delivery are not.
+- **Disconfirming observation:** comparable external correction produces abandonment or unchanged resubmission rather than revision.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and project-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Chizuru
@@ -844,7 +904,7 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, Chizuru's romantic self-classification, Mami's later use of the family account, resolution of the Ruka status, Sayuri's prognosis, execution of the truth plan, completed fundraising or film delivery, or any post-V012 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, Chizuru's romantic self-classification, Mami's later use of the family account, resolution of the Ruka status, Sayuri's prognosis, execution of the truth plan, completed fundraising or film delivery, or any post-V013 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 

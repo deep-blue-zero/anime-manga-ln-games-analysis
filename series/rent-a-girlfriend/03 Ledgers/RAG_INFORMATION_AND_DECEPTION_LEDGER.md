@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
+inspected_through_volume: V013
 row_count: 62
-state: CURRENT_THROUGH_V012
+state: CURRENT_THROUGH_V013
 ```
 
 ## Records
@@ -110,3 +110,9 @@ state: CURRENT_THROUGH_V012
 | RAG-INF-066 | Kazuya discloses his crowdfunding plan and preliminary production estimates to Chizuru. | He presents a possible budget, personnel needs, campaign timing, filming, editing, and exhibition route. | Private concern becomes shared project information open to evaluation. | Research is preliminary and does not prove feasibility; RAG-E-V012-016 through RAG-E-V012-020. |
 | RAG-INF-067 | Chizuru explicitly discloses willingness to undertake the film if Kazuya will finish it. | Her request and his answer become mutual knowledge. | The pair gain a shared project commitment outside rental booking. | The agreement supplies no hidden romantic proposition or completed production; RAG-E-V012-021, RAG-E-V012-022. |
 | RAG-INF-068 | The false relationship dispute, family ring, Ruka trial, and Mami family-account route receive no new information consequence. | Full V012 coverage contains no revisit, transfer, disclosure, or action on those routes. | Dormant information states are preserved rather than silently resolved. | One-volume absence cannot establish abandonment; RAG-E-V012-023, RAG-E-V012-024. |
+| RAG-INF-069 | Chizuru's agency and manager know and approve her film participation. | She reports approval while accepting identity exposure risk. | The project becomes professionally disclosed beyond the pair. | Exact agency conditions remain unknown; RAG-E-V013-001, RAG-E-V013-006. |
+| RAG-INF-070 | Sayuri and Nagomi initially do not receive the uncertain production plan. | Kazuya and Chizuru jointly defer disclosure to avoid burdening Sayuri. | Information withholding now serves project timing as well as the older couple fiction. | Sayuri later receives and approves the film; RAG-E-V013-003, RAG-E-V013-017 through RAG-E-V013-019. |
+| RAG-INF-071 | Mini learns the rental-client relation and family purpose. | Her discovery prompts Chizuru's bounded explanation. | A neighbor becomes an informed collaborator and enthusiastic relationship interpreter. | She does not receive the whole family-deception history; RAG-E-V013-012 through RAG-E-V013-016. |
+| RAG-INF-072 | Sayuri learns the film plan and permits public use of her story. | Chizuru asks directly during a hospital visit. | Campaign self-disclosure becomes authorized rather than appropriated. | The separate false-couple account remains uncorrected; RAG-E-V013-017 through RAG-E-V013-019. |
+| RAG-INF-073 | Sayuri tells Chizuru that Kazuya is uniquely suitable for her. | The appraisal is explicit and received by Chizuru. | A close family observer supplies a complementary-partner model. | Sayuri lacks the rental truth and Chizuru gives no romantic agreement; RAG-E-V013-019. |
+| RAG-INF-074 | Campaign publication makes a controlled identity and family story public. | The approved page opens with Chizuru's image and a forty-five-day window. | Private vocational need becomes audience-facing information. | Reach and downstream identity consequences remain unknown; RAG-E-V013-020 through RAG-E-V013-022. |

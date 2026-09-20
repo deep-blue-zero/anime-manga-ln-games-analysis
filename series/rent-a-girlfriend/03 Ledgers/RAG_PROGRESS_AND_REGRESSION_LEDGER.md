@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
+inspected_through_volume: V013
 row_count: 65
-state: CURRENT_THROUGH_V012
+state: CURRENT_THROUGH_V013
 ```
 ```
 
@@ -114,3 +114,8 @@ state: CURRENT_THROUGH_V012
 | RAG-PRG-069 | Kazuya-Chizuru relationship | PROJECT_ESCALATION — verbal support becomes a mutual, non-booked production undertaking. | Chizuru exercises agency by evaluating and requesting; Kazuya accepts completion responsibility. | Project commitment does not establish romance or successful delivery. | RAG-E-V012-016 through RAG-E-V012-022 |
 | RAG-PRG-070 | Family deception and ring route | STALL — neither the truth dispute nor ring custody produces an observed V012 action. | The unresolved state is preserved without invented resolution. | Later consequences remain possible. | RAG-E-V012-023 |
 | RAG-PRG-071 | Ruka trial and consent conflict | STALL_BY_ABSENCE — Ruka and her declared rule change have no V012 consequence. | No further regression is observed in this volume. | Absence does not repair status or consent. | RAG-E-V012-024 |
+| RAG-PRG-072 | Film execution | MAJOR_GAIN_WITH_OUTCOME_GAP — task division, expert review, budget, revision, approval, and publication replace a verbal promise. | The project is public with a target and deadline. | It has zero support at the cutoff and no script or production team. | RAG-E-V013-001 through RAG-E-V013-010, RAG-E-V013-020 through RAG-E-V013-022 |
+| RAG-PRG-073 | Kazuya's project competence | GAIN_UNDER_CORRECTION — he seeks expertise, receives rejection, revises, and gains approval. | Persistence now survives external evaluation. | Fundraising and production delivery remain untested. | RAG-E-V013-005, RAG-E-V013-015, RAG-E-V013-020 |
+| RAG-PRG-074 | Chizuru's project agency | GAIN — she controls professional disclosure, money, imagery, rewards, work setting, family permission, and publication timing. | She acts as principal rather than passive star. | The project remains unfinished and her romantic classification unchanged. | RAG-E-V013-001 through RAG-E-V013-011, RAG-E-V013-018, RAG-E-V013-021 |
+| RAG-PRG-075 | Project coalition | GAIN_WITH_ROLE_GAP — Mini volunteers and is accepted. | The team expands beyond the central pair. | No assigned or completed Mini task is yet shown. | RAG-E-V013-012 through RAG-E-V013-016 |
+| RAG-PRG-076 | Truth, ring, Ruka, and Mami routes | STALL_BY_ABSENCE — no action occurs while the film launches. | The corpus preserves each unresolved state. | Project urgency does not repair or revoke them. | RAG-E-V013-003, RAG-E-V013-022 |

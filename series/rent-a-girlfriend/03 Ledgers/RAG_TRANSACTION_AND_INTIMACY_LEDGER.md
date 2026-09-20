@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
+inspected_through_volume: V013
 row_count: 58
-state: CURRENT_THROUGH_V012
+state: CURRENT_THROUGH_V013
 ```
 
 ## Records
@@ -105,3 +105,8 @@ state: CURRENT_THROUGH_V012
 | RAG-TXN-061 | Kazuya and Chizuru; crowdfunding proposal | No booking or compensation governs Kazuya's researched proposal. | He voluntarily offers planning labor and a possible financing and exhibition route. | The proposal grants no authority over Chizuru's career or person. | Converts support into an evaluable project offer; RAG-E-V012-016 through RAG-E-V012-020. |
 | RAG-TXN-062 | Chizuru and Kazuya; film request | Chizuru conditions assent on Kazuya not abandoning the effort midway. | She voluntarily requests the film after questioning feasibility. | Consent is project-scoped and does not generalize to personal or romantic access. | Makes Chizuru a principal in the undertaking rather than a passive proposed star; RAG-E-V012-019 through RAG-E-V012-021. |
 | RAG-TXN-063 | Chizuru and Kazuya; joint production commitment | No payment, ownership split, or formal production contract is shown. | Kazuya promises to continue to the end, and Chizuru accepts the shared work. | Mutual commitment concerns the film; completion, financing, and relationship status remain open. | Establishes voluntary collaboration beyond paid dating and verbal encouragement; RAG-E-V012-021, RAG-E-V012-022. |
+| RAG-TXN-064 | Chizuru and Kazuya; restaurant planning and split bill | The meeting concerns the film, and Chizuru requires equal payment while denying girlfriend status in that setting. | Both contribute planning labor outside service time. | Collaboration grants no paid-romance entitlement and is not a date by their account. | Establishes financial parity for an initial work meeting; RAG-E-V013-001 through RAG-E-V013-004. |
+| RAG-TXN-065 | Kazuya and crowdfunding planner; expert consultation | Kazuya seeks platform guidance; no personal-intimacy term exists. | The planner supplies criticism and withholds approval. | Professional access depends on campaign quality rather than relationship leverage. | External evaluation forces revision; RAG-E-V013-005, RAG-E-V013-020. |
+| RAG-TXN-066 | Chizuru and Kazuya; private room production session | No booking or payment governs the room visit, budgeting, campaign choices, or meal. | Chizuru initiates access and both perform project labor; food care is voluntary. | Private space and domestic conduct remain project-scoped. | Deepens non-transactional coordination without romantic reclassification; RAG-E-V013-007 through RAG-E-V013-011. |
+| RAG-TXN-067 | Mini, Chizuru, and Kazuya; volunteer recruitment | No wage, authority, or formal role is specified. | Mini offers labor after receiving a bounded explanation, and Chizuru accepts. | Volunteering creates no right to expose or redefine the pair. | Adds capacity while leaving role terms open; RAG-E-V013-012 through RAG-E-V013-016. |
+| RAG-TXN-068 | Chizuru, Sayuri, Kazuya, and public backers; campaign publication | Sayuri authorizes the family story; Kazuya and Chizuru request public funding toward 1.82 million yen over forty-five days. | The principals expose controlled personal information and offer campaign rewards. | Publication creates no guarantee, and zero support is shown at launch. | Converts private collaboration into a public financing transaction; RAG-E-V013-017 through RAG-E-V013-022. |

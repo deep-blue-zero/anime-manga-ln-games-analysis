@@ -4,13 +4,13 @@ artifact_id: RAG_CAST_AND_RECONSTRUCTION_READINESS
 artifact_type: cast_reconstruction_readiness
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012; checkpointed and locally audited through V010."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013; checkpointed and locally audited through V010."
 ---
 
 # Cast and reconstruction readiness
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
-row_count: 13
-state: CURRENT_THROUGH_V012
+inspected_through_volume: V013
+row_count: 14
+state: CURRENT_THROUGH_V013
 ```
 
 ## Project-local cast router
@@ -44,11 +44,12 @@ No listed person has been enrolled or graded in the global character registry by
 
 | Local character key | Preferred name / verified aliases | First evidence | Evidence ledger / model / monograph | Observed and missing domains | Local readiness | Last review |
 |---|---|---|---|---|---|---|
-| RAG-LOCAL-KAZUYA | Kazuya Kinoshita; 木ノ下和也 | RAG-E-V001-001 | `04 Character Analysis/Kazuya Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md`; `RAG_KAZUYA_RECONSTRUCTION_MODEL.md`; no monograph | Observed: breakup response, family/friend pressure, transactional conflict, sexual fantasy, apology, reciprocal rescue, conscious attachment, surveillance and correction, gift reciprocity, paid employment, bounded truth disclosure, friendship repair, practice-client adaptation, career support, privacy cost, direct preference and love, private-space restraint, refusal of sexual pressure, completed birthday giving, reckless identity protection, paid scenario planning, stage-opportunity support, family concealment, direct crisis contact, correction of false status claims, attempted family confession, limited-time truth advocacy, response to repeated nonconsensual kissing, partial emotional disclosure to Sumi, support reception, crowdfunding and production research, and a completion promise for Chizuru's film. Missing: broad ordinary routine, durable honesty across audiences, demonstrated production competence, Chizuru's romantic reception, acknowledged reciprocal partnership. | OPERATIONAL_CANDIDATE | V012 volume update |
-| RAG-LOCAL-CHIZURU | Chizuru Ichinose; rental alias Chizuru Mizuhara / 水原千鶴; campus surname Ichinose / 一ノ瀬 | RAG-E-V001-002 | `04 Character Analysis/Chizuru Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md`; `RAG_CHIZURU_RECONSTRUCTION_MODEL.md`; no monograph | Observed: professional, campus, family, neighbor, conflict, payment, rescue, acting ambition, casting loss, recommitment, financial fairness, personal gift exchange, private affective reaction, ordinary baseball skill, selective unpriced family access, temporary practical dependence, first-person family history, service-based rebounding, crisis care, work pride, scripted-intimacy leadership, new stage opportunity, chosen direct crisis contact, protective-deception reasoning, heirloom refusal/redirection, visible private strain, Sumi-route coordination, dense work and care management, extended acting-origin history, grief-linked persistence, project-risk assessment, and an explicit film request. Missing: sustained private routine, completed career or film outcome, broad interior access, and romantic self-report. | OPERATIONAL_CANDIDATE | V012 volume update |
+| RAG-LOCAL-KAZUYA | Kazuya Kinoshita; 木ノ下和也 | RAG-E-V001-001 | `04 Character Analysis/Kazuya Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md`; `RAG_KAZUYA_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V013: expert consultation, revision after rejection, joint budgeting, producer assignment, campaign approval, and public launch under a deadline, in addition to prior relational and support evidence. Missing: broad ordinary routine, durable honesty across audiences, funded production competence, Chizuru's romantic reception, acknowledged reciprocal partnership. | OPERATIONAL_CANDIDATE | V013 volume update |
+| RAG-LOCAL-CHIZURU | Chizuru Ichinose; rental alias Chizuru Mizuhara / 水原千鶴; campus surname Ichinose / 一ノ瀬 | RAG-E-V001-002 | `04 Character Analysis/Chizuru Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md`; `RAG_CHIZURU_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V013: agency disclosure, identity-risk acceptance, private work initiation, joint budgeting, fee waiver, savings offer, campaign decisions, Mini recruitment, Sayuri permission, and public launch, in addition to prior professional and family evidence. Missing: sustained ordinary routine, completed career or film outcome, broad interior access, and romantic self-report. | OPERATIONAL_CANDIDATE | V013 volume update |
 | RAG-LOCAL-MAMI | Mami Nanami; 七海麻美 | RAG-E-V001-001 | none | Observed: breakup, public social performance, explicit separation goal, identity appropriation, deliberate kiss, missed private meeting, no-love self-report, platform research, paid access to Chizuru, direct attack on the continuing girlfriend performance, karaoke-workplace inquiry, challenge to Ruka's status claim, direct observation of Chizuru on a rental date, post-sighting confrontation, and family-account research. Missing: private motive, ordinary routine, desired endpoint, and use of the new family route; V011-V012 supply no consequence. | EVIDENCE_LEDGER_ELIGIBLE | V012 negative-evidence review |
 | RAG-LOCAL-NAGOMI | Nagomi Kinoshita; 和 | RAG-E-V001-003 | none | Observed: family expectations, hospital visits, discharge, emotional investment, engineered hot-spring trip, desire to love Chizuru like a daughter, orchestration of a joint family birthday, heirloom transfer, and emergency-support reasoning. Missing: broader history and conduct under corrected relationship information. | EVIDENCE_LEDGER_ELIGIBLE | V011 |
-| RAG-LOCAL-SAYURI | Sayuri Ichinose; former screen name Sayuri Otori / 鳳小百合; 一ノ瀬小百合 | RAG-E-V001-006 | none | Observed: hospital relation, acceptance of couple claim, widowhood anniversary, stated unconditional love under hypothetical deception, childhood testimony about Chizuru, vulnerability interpretation, direct testing of Kazuya's feeling, acute collapse and stabilization, declining appetite, former celebrated screen work, and causal role in Chizuru's acting goal and the truth-versus-comfort conflict. Missing: diagnosis, prognosis, informed preference about the current deception, current independent goals, and broader career and relationship history. | EVIDENCE_LEDGER_ELIGIBLE | V012 |
+| RAG-LOCAL-SAYURI | Sayuri Ichinose; former screen name Sayuri Otori / 鳳小百合; 一ノ瀬小百合 | RAG-E-V001-006 | none | Observed through V013: film-project permission, complementary-imperfection advice, and explicit endorsement of Kazuya's suitability in addition to prior hospital, family, and screen-work evidence. Missing: diagnosis, prognosis, informed preference about the current deception, current independent goals, and broader career history. | EVIDENCE_LEDGER_ELIGIBLE | V013 |
+| RAG-LOCAL-MINI | Mini Yaemori; 八重森みに | RAG-E-V013-012 | none | Observed as the new room-202 neighbor, university junior, cosplayer and online creator; she discovers the private session, learns a bounded rental-and-film account, makes an enthusiastic romantic inference, and volunteers for the project. Missing: broader history, stable role, work output, reliability, boundaries, and independent goals beyond the first offer. | EVIDENCE_LEDGER_ELIGIBLE | V013 |
 | RAG-LOCAL-KATSUHITO | Katsuhito Ichinose; 一ノ瀬勝人 | RAG-E-V012-011 | none | Observed: Chizuru's grandfather and supporter, dream-focused encouragement, taxi work, traffic collision, brief return to consciousness, final reassurance, and death. Missing: broader history, ordinary routine, relationships outside the household, and any direct present-day evidence. | EVIDENCE_LEDGER_ELIGIBLE | V012 |
 | RAG-LOCAL-KAZUO | Kazuo Kinoshita; 和男 | RAG-E-V001-003 | none | Observed in family/hospital context and in a financially framed confrontation based on a misread money exchange. Missing: broader routine and calibrated conduct under full information. | UNMODELED | V007 |
 | RAG-LOCAL-HARUMI | Harumi Kinoshita; 晴美 | RAG-E-V001-003 | none | Observed only in family/hospital context. | UNMODELED | V001 |

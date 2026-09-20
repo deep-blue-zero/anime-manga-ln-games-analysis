@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
+inspected_through_volume: V013
 row_count: 73
-state: CURRENT_THROUGH_V012
+state: CURRENT_THROUGH_V013
 ```
 
 ## Records
@@ -123,3 +123,9 @@ state: CURRENT_THROUGH_V012
 | RAG-AGY-079 | Chizuru | Wait passively during Katsuhito's likely fatal injury or attempt an available act. | Runs an ohyakudo shrine circuit because crying at the hospital appears ineffective. | Converts helplessness into effort even where efficacy is uncertain. | Ritual action does not prove supernatural causation or prevent his death; RAG-E-V012-012 through RAG-E-V012-014. |
 | RAG-AGY-080 | Kazuya | Accept that Chizuru cannot reach a screen role in time or research another route. | Studies crowdfunding, personnel, budgets, timing, editing, and exhibition, then proposes an independent film. | Converts concern into a concrete, non-entitlement support plan. | No funds, script, staff, or production are secured; RAG-E-V012-016 through RAG-E-V012-020. |
 | RAG-AGY-081 | Chizuru and Kazuya | Reject an uncertain project, leave it aspirational, or accept a shared undertaking. | Chizuru tests feasibility and requests the film if Kazuya will not quit; he promises to continue to the end. | Establishes mutual project agency and a joint production commitment. | Agreement does not ensure completion or change romantic status; RAG-E-V012-019 through RAG-E-V012-022. |
+| RAG-AGY-082 | Chizuru and Kazuya | Leave the promise general or define work, money, and professional constraints. | Divide tasks, notify her agency, split costs, budget 1.82 million yen, and build campaign material. | Converts commitment into governed production labor. | The campaign initially fails expert review and remains unfunded at launch; RAG-E-V013-001 through RAG-E-V013-010. |
+| RAG-AGY-083 | Kazuya | Treat rejection as proof of incapacity or revise under expert criticism. | Consults CAMPFIRE, receives refusal, returns to the work, and secures platform approval. | Demonstrates correction and persistence in an unfamiliar role. | Approval does not prove fundraising or film-production competence; RAG-E-V013-005, RAG-E-V013-020. |
+| RAG-AGY-084 | Chizuru | Remain only the proposed performer or share project costs and decisions. | Supplies agency approval, imagery and reward judgments, fee waiver, savings offer, room access, cooking, and publication consent. | Makes her an active film principal. | Project agency remains distinct from romantic status; RAG-E-V013-006 through RAG-E-V013-011, RAG-E-V013-021. |
+| RAG-AGY-085 | Mini | Keep a discovered secret, expose it, or join the work. | Hears the family purpose, offers labor, and is accepted as an additional hand. | Expands the project beyond two people. | Her exact role and first completed task remain unseen; RAG-E-V013-012 through RAG-E-V013-016. |
+| RAG-AGY-086 | Chizuru and Sayuri | Keep the film private or authorize public personal disclosure. | Chizuru asks permission; Sayuri supports the plan and permits campaign use of her story. | Removes a disclosure barrier while preserving Sayuri's agency. | Permission does not correct the separate couple fiction; RAG-E-V013-017 through RAG-E-V013-019. |
+| RAG-AGY-087 | Kazuya and Chizuru | Wait after approval or publish under the medical deadline. | Activate a forty-five-day campaign and publicly expose the project to measurable support. | Begins fundraising at zero yen and zero supporters. | Launch does not establish traction or completion; RAG-E-V013-020 through RAG-E-V013-022. |

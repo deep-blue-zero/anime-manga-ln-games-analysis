@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; character evidence inspected through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; character evidence inspected through V013."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V012
+inspected_through_volume: V013
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -99,6 +99,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E057 | CHI-S014 | RAG-E-V012-010, RAG-E-V012-011 | Family screen legacy and declared vocation | Discovers Sayuri's celebrated screen work, declares a wish to become an actress like her, and receives Katsuhito's promise of total support. | Converts an interest in stories into a spoken family project. | Encouragement does not guarantee success or isolate a single adult motive. | RAG-CHI-R002, RAG-CHI-R007, RAG-CHI-R010 |
 | RAG-CHI-E058 | CHI-S014 | RAG-E-V012-012 through RAG-E-V012-015 | Bereavement, ritual action, and vocational persistence | Responds to Katsuhito's collision with an ohyakudo circuit, receives his final assurance, grieves his death, and later refuses to abandon the promise after rejection. | Converts helplessness and loss into repeated action while retaining doubt about the promise. | Ritual and persistence do not establish supernatural belief, efficacy, or eventual success. | RAG-CHI-R009, RAG-CHI-R010 |
 | RAG-CHI-E059 | CHI-S014 | RAG-E-V012-016 through RAG-E-V012-022 | Proposal reception, feasibility judgment, and project consent | Hears Kazuya's crowdfunding plan, names the risk of wasting Sayuri's time, then explicitly requests the film if he will not quit. | Exercises project agency by evaluating conditions and authorizing a shared undertaking. | Consent is film-specific and no production, career outcome, or romantic transition is yet established. | RAG-CHI-R007, RAG-CHI-R009, RAG-CHI-R010 |
+| RAG-CHI-E060 | CHI-S015 | RAG-E-V013-001 through RAG-E-V013-006 | Professional disclosure, task division, financial parity, and identity risk | Requires agency notice and actress treatment, divides labor, splits the meal, reports manager approval, and accepts possible campus exposure. | Governs the project through professional and personal boundaries. | Exposure and planning do not prove success or romance. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R010, RAG-CHI-R011 |
+| RAG-CHI-E061 | CHI-S015 | RAG-E-V013-007 through RAG-E-V013-011 | Private work initiative, budget agency, voluntary contribution, and care | Initiates room access, budgets, selects campaign material, waives pay, offers savings, and cooks after Kazuya skips dinner. | Supplies substantial project and practical labor outside a booking. | Domestic form and tears do not settle romantic motive. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R010, RAG-CHI-R011 |
+| RAG-CHI-E062 | CHI-S015 | RAG-E-V013-012 through RAG-E-V013-016 | Boundary explanation, audience management, and recruitment | Explains the rental rule and film purpose to Mini, resists her romantic interpretation, accepts her labor, and calls Kazuya producer. | Protects classification while expanding the team. | Mini's reading remains external and her role undefined. | RAG-CHI-R003, RAG-CHI-R006, RAG-CHI-R011 |
+| RAG-CHI-E063 | CHI-S015 | RAG-E-V013-017 through RAG-E-V013-022 | Family permission, relational advice received, and publication | Secures Sayuri's consent, hears that Kazuya is suitable for her, reports permission, and helps launch the campaign. | Balances family agency, public exposure, and deadline action. | She does not reciprocally classify the relation, and launch begins unfunded. | RAG-CHI-R002, RAG-CHI-R009, RAG-CHI-R010, RAG-CHI-R011 |
 
 ## State-change summary
 
@@ -116,6 +120,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S012 — professionally self-defining actor under family and hospital pressure:** she contains Mami's inquiry, leads an upgraded dream date, articulates pride in rental labor, discloses another stage opportunity, chooses an unbooked family visit, and uses direct LINE during Sayuri's hospital crisis.
 - **CHI-S013 — protective-deception advocate under inherited burden:** she returns to the family party, receives Ruka's claim, resists and redirects the family ring, opposes truth-telling to Sayuri, shows private strain, and reopens the Sumi practice route.
 - **CHI-S014 — grieving actor and voluntary film principal under deadline:** she sustains an intensive care-and-work system, relives the screen legacy and death that formed her acting promise, persists after another rejection, tests Kazuya's proposal against Sayuri's remaining time, and explicitly requests the film.
+- **CHI-S015 — publicly exposed film principal in governed collaboration:** formalizes acting and agency terms, shares budget and campaign decisions, initiates private work access, recruits Mini, secures Sayuri's permission, and launches the campaign without romantically reclassifying Kazuya.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 

@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V012."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V013."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -39,13 +39,14 @@ model_basis:
     - RAG-JP-EPUB-V010
     - RAG-JP-EPUB-V011
     - RAG-JP-EPUB-V012
-  admitted_through_volume: V012
-  narrative_time_boundary: "after Chizuru's extended acting-origin history, another rejection, her feasibility challenge, and explicit request for Kazuya to make the film"
+    - RAG-JP-EPUB-V013
+  admitted_through_volume: V013
+  narrative_time_boundary: "after agency approval, joint budgeting, Mini recruitment, Sayuri's campaign permission, and public launch"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.12"
+  model_revision: "1.13"
   prior_knowledge_limitations:
-    - "No post-V012 narrative evidence is admitted."
+    - "No post-V013 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru's response to Kazuya's direct preference statement is not shown."
 coverage:
@@ -623,7 +624,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S014
 valid_from_source: "V012 0005"
-valid_until_source: null
+valid_until_source: "V013 0004"
 entry_conditions:
   - "Sayuri remains hospitalized while Chizuru sustains acting, rental work, study, care, and repeated auditions under a shrinking time horizon."
 active_goals:
@@ -667,6 +668,58 @@ uncertainties:
   - "Whether the campaign and film can be completed before Sayuri's condition worsens."
   - "How Chizuru divides project agency, acting labor, and existing work obligations."
   - "Whether the dormant truth, ring, and relationship routes re-enter the production effort."
+~~~
+
+### CHI-S015 — publicly exposed film principal in governed collaboration
+
+~~~yaml
+state_id: CHI-S015
+valid_from_source: "V013 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru has requested the film but professional terms, money, disclosure, collaborators, and campaign approval remain unresolved."
+active_goals:
+  - make the film for Sayuri without wasting her remaining time
+  - preserve acting professionalism and controlled identity disclosure
+  - contribute materially without bearing every project cost
+  - expand project capacity while keeping work access correctly classified
+known_propositions:
+  - "Her manager approves the film and Sayuri permits campaign use of the family story."
+  - "The budget target is 1.82 million yen and the campaign window is forty-five days."
+  - "Mini knows a bounded account and has offered help."
+  - "Sayuri calls Kazuya suitable for her, but Chizuru has not adopted that romantic classification."
+relationship_conditions:
+  - "Kazuya is the named producer and a sustained non-booked collaborator."
+  - "Mini is a recruited volunteer and active audience whose inference requires correction."
+  - "Sayuri is informed about the film but not the rental truth."
+changed_from_previous:
+  - AGENCY_APPROVAL_REPORTED
+  - PRIVATE_WORK_ACCESS_INITIATED
+  - BUDGET_AND_CAMPAIGN_AGENCY_EXERCISED
+  - MINI_RECRUITED
+  - SAYURI_PERMISSION_SECURED
+  - CAMPAIGN_PUBLISHED
+evidence_refs:
+  - RAG-E-V013-001
+  - RAG-E-V013-003
+  - RAG-E-V013-004
+  - RAG-E-V013-006
+  - RAG-E-V013-007
+  - RAG-E-V013-008
+  - RAG-E-V013-010
+  - RAG-E-V013-011
+  - RAG-E-V013-013
+  - RAG-E-V013-014
+  - RAG-E-V013-015
+  - RAG-E-V013-017
+  - RAG-E-V013-018
+  - RAG-E-V013-019
+  - RAG-E-V013-021
+  - RAG-E-V013-022
+uncertainties:
+  - "Whether funding and production can finish in time."
+  - "How public exposure affects university and acting work."
+  - "Whether Sayuri's suitability judgment changes Chizuru's private appraisal."
 ~~~
 
 ## Behavioral rules
@@ -788,6 +841,18 @@ uncertainties:
 - **Counterevidence/gap:** one extended sequence; no campaign launch, production decision history, or completed outcome is yet available.
 - **Disconfirming observation:** comparable concrete project routes are accepted or rejected without feasibility review, family-time appraisal, or bounded terms.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and vocation-specific.
+
+### RAG-CHI-R011 — project intimacy is governed through explicit scope, parity, and audience correction
+
+- **Scope:** CHI-S015.
+- **Trigger:** A high-stakes collaboration requires private access, money, identity exposure, and third-party participation.
+- **Likely appraisal:** closeness is acceptable when tied to the film, but its terms must remain explicit and usable by all participants.
+- **Likely action range:** state professional obligations, split costs, initiate bounded work access, offer labor or funds, correct romantic interpretation, recruit useful help, ask family permission, and authorize timely publication.
+- **Inhibitors/escalators:** vague purpose and unilateral burden inhibit access; concrete tasks, parity, and Sayuri's deadline escalate collaboration.
+- **Support:** RAG-E-V013-001 through RAG-E-V013-019, RAG-E-V013-021, RAG-E-V013-022.
+- **Counterevidence/gap:** one production-preparation sequence; sustained team conflict and public consequences are unobserved.
+- **Disconfirming observation:** comparable project access proceeds without scope statements, parity, or audience correction.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and project-specific.
 
 ## Directed relationship conditioning
 

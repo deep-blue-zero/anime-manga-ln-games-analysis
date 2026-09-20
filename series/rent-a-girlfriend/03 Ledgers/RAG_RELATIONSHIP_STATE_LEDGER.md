@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
+inspected_through_volume: V013
 row_count: 62
-state: CURRENT_THROUGH_V012
+state: CURRENT_THROUGH_V013
 ```
 ```
 
@@ -111,3 +111,8 @@ state: CURRENT_THROUGH_V012
 | RAG-REL-066 | Kazuya → Chizuru | Status-independent supporter becoming prospective producer | Brings researched crowdfunding and production estimates designed to put Chizuru on screen for Sayuri. | Support moves from paid bookings and encouragement into project infrastructure. | Competence, financing, and delivery remain untested. | RAG-E-V012-016 through RAG-E-V012-020 |
 | RAG-REL-067 | Chizuru ↔ Kazuya | Family collaborators and disputed-deception partners | Chizuru requests the film after testing feasibility; Kazuya promises completion. | They become voluntary film collaborators with a shared external goal. | The truth disagreement remains dormant and project consent creates no romantic status. | RAG-E-V012-019 through RAG-E-V012-023 |
 | RAG-REL-068 | Ruka / Mami / Kinoshita family routes | Unresolved peripheral relationships | V012 gives no new conduct concerning Ruka, Mami, the false family account, or ring custody. | Existing states remain live but inactive. | Absence supplies no repair, abandonment, or knowledge change. | RAG-E-V012-023, RAG-E-V012-024 |
+| RAG-REL-069 | Chizuru ↔ Kazuya | Voluntary producer-performer collaboration | Divide labor, share a private work session, construct the budget, negotiate contribution, and publish the campaign. | The relation gains sustained ordinary coordination and mutual project dependence. | Both reject date/couple classification for the work, and no romantic acknowledgment occurs. | RAG-E-V013-001 through RAG-E-V013-011, RAG-E-V013-020 through RAG-E-V013-022 |
+| RAG-REL-070 | Mini ↔ Kazuya and Chizuru | Informed neighbor becoming collaborator | Discovers the private session, hears a bounded account, and offers labor. | Adds a supportive third party who openly reads the pair romantically. | Her interpretation is not their self-classification, and her role remains undefined. | RAG-E-V013-012 through RAG-E-V013-016 |
+| RAG-REL-071 | Chizuru ↔ Sayuri | Granddaughter seeking informed project permission | Chizuru discloses the film and asks to publish family material; Sayuri consents and advises her. | Restores Sayuri's agency over this project information. | She still lacks the rental truth and prognosis remains unknown. | RAG-E-V013-017 through RAG-E-V013-019 |
+| RAG-REL-072 | Sayuri → Kazuya-Chizuru pair | Family observer endorsing suitability | Frames them as imperfect people who can compensate for one another. | Supplies explicit relational approval at the family level. | The appraisal rests on incomplete information and creates no mutual agreement. | RAG-E-V013-019 |
+| RAG-REL-073 | Kazuya and Chizuru → public audience | Campaign principals seeking collective support | Publish Chizuru's image and family-linked goal under a quantified target and deadline. | A private promise becomes a public dependency. | The audience has supplied no support at the cutoff. | RAG-E-V013-020 through RAG-E-V013-022 |

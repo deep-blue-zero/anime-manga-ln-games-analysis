@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
+inspected_through_volume: V013
 row_count: 51
-state: CURRENT_THROUGH_V012
+state: CURRENT_THROUGH_V013
 ```
 
 ## Records
@@ -98,3 +98,7 @@ state: CURRENT_THROUGH_V012
 | RAG-CHR-054 | RAG-E-V012-008, RAG-E-V012-009 | Chizuru continues hospital visits, classes, rehearsal, rental work, study, and auditions before receiving another film rejection. | Occurs after the aquarium sequence and while Sayuri remains hospitalized. | The montage spans an unstated interval. |
 | RAG-CHR-055 | RAG-E-V012-010 through RAG-E-V012-014 | A flashback begins in Chizuru's first year of middle school, covers discovery of Sayuri's screen career and the acting promise, then Katsuhito's collision, hospitalization, and death. | The opening school year and causal order are explicit. | Exact dates and elapsed time within the flashback are not supplied. |
 | RAG-CHR-056 | RAG-E-V012-015 through RAG-E-V012-022 | In the present, Chizuru recommits after rejection; later Kazuya brings his crowdfunding research, and the pair agree to make the film. | Present return and proposal sequence are explicit. | Exact elapsed time between rejection, research, and the night meeting is unknown. |
+| RAG-CHR-057 | RAG-E-V013-001 through RAG-E-V013-006 | Soon after the agreement, the pair divide work; Kazuya consults CAMPFIRE and returns after the first draft is refused. | Direct project continuation. | Exact days between agreement, meeting, and consultation are unstated. |
+| RAG-CHR-058 | RAG-E-V013-007 through RAG-E-V013-011 | Chizuru enters Kazuya's room that night for budgeting, campaign work, and an improvised meal. | One continuous late-night session. | Clock times are not supplied. |
+| RAG-CHR-059 | RAG-E-V013-012 through RAG-E-V013-016 | Mini discovers the room visit immediately afterward and is accepted into the project. | Doorway encounter follows the work session directly. | Duration of the subsequent discussion is unknown. |
+| RAG-CHR-060 | RAG-E-V013-017 through RAG-E-V013-022 | Chizuru visits Sayuri; Kazuya then reports campaign approval, and the pair publish with forty-five days remaining. | Hospital and launch order is explicit. | Exact calendar date and interval since the first consultation are unknown. |

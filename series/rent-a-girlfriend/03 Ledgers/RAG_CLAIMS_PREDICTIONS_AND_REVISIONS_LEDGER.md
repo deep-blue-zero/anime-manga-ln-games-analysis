@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V012; inspected and closed through V012; predictions frozen before V013."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V013; inspected and closed through V013; predictions frozen before V014."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V012
-current_claim_count: 33
+inspected_through_volume: V013
+current_claim_count: 37
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V012__PREDICTIONS_FROZEN_FOR_V013
+state: CURRENT_THROUGH_V013__PREDICTIONS_FROZEN_FOR_V014
 ```
 
 ## Current claims
@@ -76,6 +76,10 @@ state: CURRENT_THROUGH_V012__PREDICTIONS_FROZEN_FOR_V013
 | RAG-CLM-031 | When emotional concern acquires a concrete route, Kazuya can convert helplessness into researched, non-entitlement project support. | STRONG_INFERENCE | RAG-E-V012-005, RAG-E-V012-007, RAG-E-V012-016 through RAG-E-V012-020 | Research and commitment precede execution; competence, funds, personnel, and delivery remain untested. | ADDED and supported in V012. |
 | RAG-CLM-032 | Chizuru's acting purpose is an intergenerational promise rooted in Sayuri's screen legacy and Katsuhito's encouragement and death, so vocational failure can reactivate grief and family obligation. | STRONG_INFERENCE | RAG-E-V012-008 through RAG-E-V012-015 | The history explains represented pressure without reducing every acting decision to one motive or guaranteeing success. | ADDED and supported in V012. |
 | RAG-CLM-033 | The film agreement crosses from paid access and verbal support into a voluntary joint production commitment without itself establishing romantic reciprocity. | STRONG_INFERENCE | RAG-E-V012-016 through RAG-E-V012-022 | No campaign, contract, production result, or mutual romantic classification exists at the cutoff. | ADDED and supported in V012. |
+| RAG-CLM-034 | The film project creates a distinct work relation with professional disclosure, financial parity, task division, and private access whose scope is repeatedly distinguished from girlfriend service and romance. | STRONG_INFERENCE | RAG-E-V013-001 through RAG-E-V013-004, RAG-E-V013-007 through RAG-E-V013-011 | Shared labor and domestic-looking care do not reveal a unique private motive. | ADDED and supported in V013. |
+| RAG-CLM-035 | Kazuya can respond to external correction by revising a concrete plan rather than collapsing into self-description or abandoning it. | STRONG_INFERENCE | RAG-E-V013-005, RAG-E-V013-015, RAG-E-V013-020 through RAG-E-V013-022 | Platform approval precedes fundraising and production; general competence remains unproved. | ADDED and supported in V013. |
+| RAG-CLM-036 | Third-party observers can interpret project intimacy romantically while also supplying real labor, so social reading and operational contribution must be tracked separately. | STRONG_INFERENCE | RAG-E-V013-012 through RAG-E-V013-016 | Mini's first task and reliability remain unobserved, and her reading is not the pair's self-report. | ADDED and supported in V013. |
+| RAG-CLM-037 | Informed project consent can coexist with incomplete relationship information: Sayuri authorizes the film campaign and endorses Kazuya while still lacking the rental truth. | STRONG_INFERENCE | RAG-E-V013-017 through RAG-E-V013-019 | Her campaign consent is valid within its disclosed scope, but relational advice rests on a false premise. | ADDED and supported in V013. |
 
 ## Competing hypotheses
 
@@ -186,18 +190,27 @@ state: CURRENT_THROUGH_V012__PREDICTIONS_FROZEN_FOR_V013
 
 ## Adjudications and revisions
 
-At the V012 horizon, RAG-PRED-041 is supported while RAG-PRED-042 through RAG-PRED-044 are disconfirmed. The result distinguishes Sumi's immediate coping consequence from the dormant truth, ring, and Ruka routes. V012 strengthens practical communication as RAG-CLM-029 and adds separated romantic recognition and disclosure access, actionable project support, acting as intergenerational promise, and voluntary film collaboration as RAG-CLM-030 through RAG-CLM-033.
+At the V013 horizon, RAG-PRED-045 through RAG-PRED-048 are supported. The film agreement produces task division, budgeting, expert consultation, direct non-booking collaboration, third-party recruitment, family permission, platform approval, and public launch. V013 adds the project work relation, revision under correction, separation of third-party romantic reading from labor, and scoped informed consent as RAG-CLM-034 through RAG-CLM-037.
 
-The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V012 continues the next block without revising that historical checkpoint. Its volume close raises the live claim count to thirty-three and freezes four prospective tests for V013.
+The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V013 continues the next block without revising that historical checkpoint. Its close raises the live claim count to thirty-seven and freezes four prospective tests for V014.
 
-## Frozen predictions for V013
+## Adjudicated predictions from the V012 boundary
+
+| Prediction ID | Adjudication | V013 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-045 | SUPPORTED | Task allocation, expert review, budgeting, revision, approval, and publication; RAG-E-V013-001 through RAG-E-V013-010, RAG-E-V013-020 through RAG-E-V013-022. | Launch begins at zero support and does not establish completion. |
+| RAG-PRED-046 | SUPPORTED | Chizuru initiates and shapes non-booked work, contributions, and publication; RAG-E-V013-006 through RAG-E-V013-011, RAG-E-V013-021. | Project agency does not establish romance. |
+| RAG-PRED-047 | SUPPORTED | Sayuri's time drives initial withholding, later permission, and rapid publication; RAG-E-V013-003, RAG-E-V013-017 through RAG-E-V013-022. | Exact prognosis remains unknown. |
+| RAG-PRED-048 | SUPPORTED | Kazuya consults a CAMPFIRE planner and Mini joins as volunteer labor; RAG-E-V013-005, RAG-E-V013-014. | Their later contributions and production outcome remain unknown. |
+
+## Frozen predictions for V014
 
 | Prediction ID | Observable expectation | Source basis | Disconfirmation |
 |---|---|---|---|
-| RAG-PRED-045 | The film agreement will produce at least one concrete production step such as task allocation, campaign drafting, budgeting, script selection, schedule construction, or launch. | RAG-E-V012-016 through RAG-E-V012-022 | The plan receives no operational step in V013. |
-| RAG-PRED-046 | Chizuru's explicit request will produce direct non-booking collaboration with Kazuya on the film and at least one decision in which she exercises project agency. | RAG-E-V012-019 through RAG-E-V012-022 | She remains only the proposed star or the pair do not collaborate in V013. |
-| RAG-PRED-047 | Sayuri's limited time will produce an observable deadline, hospital-linked decision, or schedule tradeoff in the film effort. | RAG-E-V012-008, RAG-E-V012-017, RAG-E-V012-019 | Medical urgency has no V013 planning or conduct consequence. |
-| RAG-PRED-048 | The two-person plan will require Kazuya or Chizuru to identify, recruit, or negotiate with at least one third party for production competence, labor, financing, or distribution. | RAG-E-V012-016 through RAG-E-V012-022 | V013 remains entirely two-person research with no third-party route. |
+| RAG-PRED-049 | The live campaign will receive at least one observable pledge or public traction signal. | RAG-E-V013-020 through RAG-E-V013-022 | V014 shows no contribution, supporter, or reach consequence. |
+| RAG-PRED-050 | Mini's accepted offer will become a concrete campaign or production task. | RAG-E-V013-012 through RAG-E-V013-016 | She performs no project labor in V014. |
+| RAG-PRED-051 | Unresolved script or staffing will produce a search, approach, or negotiation with another specialist. | RAG-E-V013-002, RAG-E-V013-008, RAG-E-V013-014 | V014 adds no screenplay or production-capacity route. |
+| RAG-PRED-052 | Public campaign exposure will produce an observable identity, reputation, or audience-management consequence for Chizuru or Kazuya. | RAG-E-V013-006, RAG-E-V013-018, RAG-E-V013-021, RAG-E-V013-022 | Publication remains socially consequence-free in V014. |
 
 ## Open evidence questions
 
