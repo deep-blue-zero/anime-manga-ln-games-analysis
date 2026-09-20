@@ -60,3 +60,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0110 — Stick to your faith](PJSK_EVENT_0110_DEEP_READING.md): complete 28-story envelope; Shiho turns uncompromising pursuit into a recipient-defined musical-purpose operative, with bounded historical Sumire responsibility while Honami, collective synthesis, and leadership remain open.
 
 - [EVENT_0121 — 導く勇気、優しさを胸に](PJSK_EVENT_0121_DEEP_READING.md): complete 24-story envelope; Honami turns care into drum-led guidance as Leo/need formalizes shared purpose, leadership, and a scheduled debut.
+
+- [EVENT_0128 — Parallel Harmonies](PJSK_EVENT_0128_DEEP_READING.md): complete 27-story envelope; creative collision becomes recipient-led coauthorship and Leo/need's first released, promoted debut song.

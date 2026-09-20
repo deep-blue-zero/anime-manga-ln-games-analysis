@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0127
+## Current state — founded units synchronized through EVENT_0128
 
-All five human units now track the same continuous event history through `EVENT_0127`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0127 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0128`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0128 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0127 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0128 committed boundary
+
+**EVENT_0128 is fully integrated:** `LN-EP-ICHIKA-E0101 → LN-EP-ICHIKA-E0128` records recipient-led arrangement as an executed connection method; `LN-REL-ICHIKA-SAKI-MS → LN-REL-ICHIKA-SAKI-E0128` records repaired creative collision and one deliberately asymmetric coauthorship; `LN-REL-SOLIS-E0101 → LN-REL-SOLIS-E0128` records the approved, recorded, promoted, and publicly received debut release. Equal dual-intention coauthorship and durable fame remain open. The verified envelope is 27 stories / 46 scenes / 1,481 records. No universal mediation mastery, completed equal coauthorship, conflict-free future work, singular-author credit, safe workload, durable mass fame, sales or chart result, financial success, completed festival, public SEKAI knowledge, cross-manifestation identity, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0127 to EVENT_0128. EVENT_0129 is next and 12 events remain through EVENT_0140.
+
+The [EVENT_0128 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0128_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 13 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0127 committed boundary
 
 **EVENT_0127 is fully integrated:** `E-E0070-01 → E-E0127-01` records Ena's explicit commitment to art-school preparation and a painter's life under unresolved talent and suffering. `REL-FAMILY-ENA-FATHER-E0014 → REL-FAMILY-ENA-FATHER-E0127` records direct disclosure of the father's hidden artistic history and bounded permission for Ena to continue. The exchange revises mutual knowledge without erasing injury or completing reconciliation. The verified envelope is 27 stories / 43 scenes / 1,460 records. No art-university admission, professional success, talent proof, stable confidence, healthy pacing, necessary-suffering rule, paternal retraction or apology, promised instruction, warm ordinary access, full father-daughter reconciliation, Akito receipt, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0126 to EVENT_0127. EVENT_0128 is next and 13 events remain through EVENT_0140.
 
@@ -599,13 +605,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0127`. Ena has chosen art-school preparation and a painter's life; her father has disclosed his hidden artistic struggle and granted bounded permission without retracting prior harm. `EVENT_0128` is next; 13 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0128`. Leo/need's debut song has been approved, recorded, released, advertised, and sampled in public receipt; Ichika and Saki have promised a future equal-intention collaboration. `EVENT_0129` is next; 12 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0127` for all five human units. The EVENT_0116–0140 continuation is active with 13 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0128` for all five human units. The EVENT_0116–0140 continuation is active with 12 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0127_DEEP_READING.md) closes `EVENT_0127 — Knowing the Unseen`, bucket `RB_20240410T060000Z`: 27 stories / 43 scenes / 1,460 records. Ena has chosen art-school preparation and a painter's life; her father has disclosed his hidden artistic struggle and granted bounded permission without retracting prior harm.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0128_DEEP_READING.md) closes `EVENT_0128 — Parallel Harmonies`, bucket `RB_20240420T060000Z`: 27 stories / 46 scenes / 1,481 records. Leo/need's debut song has been approved, recorded, released, advertised, and sampled in public receipt; Ichika and Saki have promised a future equal-intention collaboration.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 

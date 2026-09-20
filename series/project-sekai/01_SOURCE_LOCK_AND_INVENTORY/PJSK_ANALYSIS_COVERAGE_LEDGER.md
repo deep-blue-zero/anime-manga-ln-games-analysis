@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0127
+## Current coverage — all five human units synchronized through EVENT_0128
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0127 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0127`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0128 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0128`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0127 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0128 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0128 is fully integrated:** `LN-EP-ICHIKA-E0101 → LN-EP-ICHIKA-E0128` records recipient-led arrangement as an executed connection method; `LN-REL-ICHIKA-SAKI-MS → LN-REL-ICHIKA-SAKI-E0128` records repaired creative collision and one deliberately asymmetric coauthorship; `LN-REL-SOLIS-E0101 → LN-REL-SOLIS-E0128` records the approved, recorded, promoted, and publicly received debut release. Equal dual-intention coauthorship and durable fame remain open. The verified envelope is 27 stories / 46 scenes / 1,481 records. No universal mediation mastery, completed equal coauthorship, conflict-free future work, singular-author credit, safe workload, durable mass fame, sales or chart result, financial success, completed festival, public SEKAI knowledge, cross-manifestation identity, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0127 to EVENT_0128. EVENT_0129 is next and 12 events remain through EVENT_0140.
+
+Causal home: [EVENT_0128 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0128_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0128: 27 stories / 46 scenes / 1,481 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Leo/need is PRIMARY/VERY HIGH I3. Advance `LN-EP-ICHIKA-E0101 → LN-EP-ICHIKA-E0128`, `LN-REL-ICHIKA-SAKI-MS → LN-REL-ICHIKA-SAKI-E0128`, and `LN-REL-SOLIS-E0101 → LN-REL-SOLIS-E0128`. Preserve `LN-EP-SAKI-E0027`, `LN-EP-SAKI-E0106`, `LN-REL-G-E0121`, and `LN-REL-SCHOOL-VS-MS`. Wonderlands×Showtime is REPORTED_CONTEXT/LOW I1; MORE MORE JUMP!, Vivid BAD SQUAD, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0128; EVENT_0129 is next and 12 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0127 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0127 is fully integrated:** `E-E0070-01 → E-E0127-01` records Ena's explicit commitment to art-school preparation and a painter's life under unresolved talent and suffering. `REL-FAMILY-ENA-FATHER-E0014 → REL-FAMILY-ENA-FATHER-E0127` records direct disclosure of the father's hidden artistic history and bounded permission for Ena to continue. The exchange revises mutual knowledge without erasing injury or completing reconciliation. The verified envelope is 27 stories / 43 scenes / 1,460 records. No art-university admission, professional success, talent proof, stable confidence, healthy pacing, necessary-suffering rule, paternal retraction or apology, promised instruction, warm ordinary access, full father-daughter reconciliation, Akito receipt, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0126 to EVENT_0127. EVENT_0128 is next and 13 events remain through EVENT_0140.
 
@@ -1915,3 +1925,7 @@ The verified group contains 23 stories / 32 scenes / 1,662 records. No generaliz
 ### EVENT_0127 source and reconstruction review
 
 The verified group contains 27 stories / 43 scenes / 1,460 records. No art-university admission, professional success, talent proof, stable confidence, healthy pacing, necessary-suffering rule, paternal retraction or apology, promised instruction, warm ordinary access, full father-daughter reconciliation, Akito receipt, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0128 source and reconstruction review
+
+The verified group contains 27 stories / 46 scenes / 1,481 records. No universal mediation mastery, completed equal coauthorship, conflict-free future work, singular-author credit, safe workload, durable mass fame, sales or chart result, financial success, completed festival, public SEKAI knowledge, cross-manifestation identity, global singer identity, or complete reconstruction is certified.
