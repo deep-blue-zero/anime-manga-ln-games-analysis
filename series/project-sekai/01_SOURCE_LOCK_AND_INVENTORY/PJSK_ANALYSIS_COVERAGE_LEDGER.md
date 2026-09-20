@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0115
+## Current coverage — all five human units synchronized through EVENT_0140
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0115 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0115`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0140 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0140`.
 
 Artifacts:
 
@@ -66,7 +66,258 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0115 forward transaction; EVENT_0099–0115 sequence complete
+### Current coverage — EVENT_0140 forward transaction; EVENT_0116–0140 sequence complete
+
+**EVENT_0140 is fully integrated:** `EPI-PJSK-SEKAI-E0105 → EPI-PJSK-SEKAI-E0140` advances bounded cross-SEKAI ontology through a SEKAI-originating signal, origin-fragment access, newborn-manifestation observation, retained six-observer comparison, repeatable Interstice viewing, selected sensory leakage, and a strongly supported but still provisional shared growth space. All five units receive high-I2 founding reconstructions of local singer care while their current human owners remain unchanged. `CR-PJSK-SEKAI-040` is revised/strengthened and provisional `CR-PJSK-SEKAI-041` is strengthened. The verified envelope is 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified. The boundary advances EVENT_0139 to EVENT_0140. The EVENT_0116–0140 continuation is complete.
+
+Causal home: [EVENT_0140 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0140_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0140: 36 stories / 54 scenes / 2,131 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- The release is UNIVERSAL/VERY HIGH at franchise-ontology I3. Advance `EPI-PJSK-SEKAI-E0105 → EPI-PJSK-SEKAI-E0140`; revise/strengthen `CR-PJSK-SEKAI-040` and strengthen provisional `CR-PJSK-SEKAI-041`. Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are CO_PRIMARY/HIGH reconstruction I2. Preserve `LN-REL-SCHOOL-VS-MS`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, `VBS-REL-STREET-VS-HUMANS-1`, `REL-WXS-WONDERLAND-E0003`, `REL-N25-GM-E0054`, `REL-N25-VS-RIN-E0014`, and `REL-N25-VS-MEIKO-E0019`; create no current human successor.
+- The shared boundary is EVENT_0140; the EVENT_0116–0140 continuation is complete.
+
+### Historical coverage — EVENT_0139 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0139 is fully integrated:** `VBS-EP-TY-E0125 → VBS-EP-TY-E0139` advances Toya's integrated musical history into a recipient-tested method that joins original admiration, bounded struggle disclosure, technical diagnosis, outside insight, intended sound, and recipient-owned success. New scoped I3 `REL-CROSS-TOYA-KANADE-E0139` records joint aid, parallel family-rooted musical memories, reciprocal craft recognition, mutual instruction offers, and a continuing composition channel. N25, Saki, Tenma, VBS-group, and Street owners receive bounded applications. The verified envelope is 23 stories / 33 scenes / 1,584 records. No universal music-teaching formula, brass-instrument mastery, claim that love alone defeats technical limits, safe or painless persistence, guaranteed child ensemble career, completed Toya–Kanade collaboration, N25 identity disclosure, Mafuyu paternal report or receipt, family reconciliation, permanent VBS readiness for the world, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0138 to EVENT_0139. EVENT_0140 is next and 1 events remain through EVENT_0140.
+
+Causal home: [EVENT_0139 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0139_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0139: 23 stories / 33 scenes / 1,584 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD and Nightcord at 25:00 are CO_PRIMARY/VERY HIGH. Advance `VBS-EP-TY-E0125 → VBS-EP-TY-E0139` and create scoped I3 `REL-CROSS-TOYA-KANADE-E0139`. Preserve `VBS-REL-GROUP-E0135`, `VBS-REL-STREET-VS-HUMANS-1`, `K-E0116-01`, `MF-E0134-01`, `REL-N25-G-7`, `REL-N25-KM-8`, `REL-FAMILY-KANADE-FATHER-E0116`, and `REL-FAMILY-MAFUYU-FATHER-E0134`. Leo/need is SECONDARY/HIGH I2 through preserved `LN-EP-SAKI-E0106`; Wonderlands×Showtime is SECONDARY/MEDIUM I2 through preserved `REL-CROSS-TOYA-TSUKASA-E0016`; MORE MORE JUMP! is RECONSTRUCTION/LOW I1.
+- The shared boundary is EVENT_0139; EVENT_0140 is next and 1 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0138 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0138 is fully integrated:** new I3 `MMJ-EP-AI-E0138` records Airi's tested method of removing a self-assigned specialty boundary, seeking missing technique, integrating it with existing audience skill, and testing the composite publicly. New scoped I3 `MMJ-REL-AIRI-AKARI-E0138` records reciprocal professional admiration and enacted challenge through mutual performance effect, specific credit, direct thanks, and an open shared-purpose horizon. MMJ group, manager, prior Airi, and Stage owners remain distinct. The verified envelope is 29 stories / 49 scenes / 1,456 records. No total performance mastery, safe unlimited training, permanent removal of role assumptions, objective superiority over ReLight, durable fame, causal explanation for the missing work mail, guaranteed future collaboration, private Airi–Akari friendship, formal rivalry, validation of every Hiiragi judgment, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0137 to EVENT_0138. EVENT_0139 is next and 2 events remain through EVENT_0140.
+
+Causal home: [EVENT_0138 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0138_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0138: 29 stories / 49 scenes / 1,456 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! is PRIMARY/VERY HIGH I3. Create `MMJ-EP-AI-E0138` and scoped I3 `MMJ-REL-AIRI-AKARI-E0138`. Preserve `MMJ-EP-AI-E0092`, `MMJ-EP-AI-E0005`, `MMJ-REL-GROUP-E0133`, `MMJ-REL-GROUP-SAITO-E0111`, `MMJ-VS-STAGE-02`, `MMJ-REL-HUMAN-STAGE-02`, and `REL-CROSS-LN-MMJ-SCHOOL-E0001`. Leo/need, Vivid BAD SQUAD, and Wonderlands×Showtime are CROSS_UNIT/LOW I1; Nightcord at 25:00 is NONE/I0.
+- The shared boundary is EVENT_0138; EVENT_0139 is next and 2 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0137 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0137 is fully integrated:** new I3 `EPI-LN-SEKAI-E0137` records the responsive School-SEKAI station, destinationless train, past-facing routes, star-field rails, and sprout as bounded material evidence. `LN-REL-G-E0121 → LN-REL-G-E0137` advances professional coordination into a jointly interpreted four-person journey: different past fears, explicit refusal of solitary advance, and collective boarding toward an undefined future. Current member, professional, and School-singer owners receive strong I2 applications. The verified envelope is 30 stories / 44 scenes / 1,781 records. No literal time travel, exact archival playback, deterministic station or sprout symbolism, known train destination, guaranteed professional success, stable mass fame, permanent group cohesion, identical ambition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0136 to EVENT_0137. EVENT_0138 is next and 3 events remain through EVENT_0140.
+
+Causal home: [EVENT_0137 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0137_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0137: 30 stories / 44 scenes / 1,781 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Leo/need is PRIMARY/VERY HIGH I3. Create `EPI-LN-SEKAI-E0137` and advance `LN-REL-G-E0121 → LN-REL-G-E0137`. Preserve `LN-EP-SAKI-E0106`, `LN-EP-HONAMI-E0121`, `LN-EP-SHIHO-E0110`, `LN-EP-ICHIKA-E0128`, `LN-REL-SOLIS-E0128`, `LN-REL-ICHIKA-SAKI-E0128`, and `LN-REL-SCHOOL-VS-MS` at strong I2. Wonderlands×Showtime is CROSS_UNIT/LOW I1 through `REL-CROSS-ICHIKA-NENE-E0013` and `EPI-CROSS-SAKI-TSUKASA-E0016`; MORE MORE JUMP!, Vivid BAD SQUAD, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0137; EVENT_0138 is next and 3 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0136 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0136 is fully integrated:** `WXS-EP-TSUKASA-E0113 → WXS-EP-TSUKASA-E0136` advances Tsukasa's role-construction method into embodied acting through capacity diagnosis, foundational training, recovery, comparable expertise, mechanical revision, collaborative risk control, and audience-tested transfer. New scoped I3 `WXS-REL-TSUKASA-ONIJIMA-E0136` records sustained tailored mentorship and reciprocal craft correction. The verified envelope is 28 stories / 49 scenes / 1,632 records. No universal physical-acting formula, unrestricted stunt safety, permanent fitness, mastery of every bodily role, justification of solo pursuit, permanent Onijima mentorship, Mikazuki membership, settled next production, completed world career, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0135 to EVENT_0136. EVENT_0137 is next and 4 events remain through EVENT_0140.
+
+Causal home: [EVENT_0136 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0136_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0136: 28 stories / 49 scenes / 1,632 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH I3. Advance `WXS-EP-TSUKASA-E0113 → WXS-EP-TSUKASA-E0136` and create scoped I3 `WXS-REL-TSUKASA-ONIJIMA-E0136`. Preserve `REL-WXS-G-E0104`, `WXS-EP-EMU-E0131`, `WXS-EP-NENE-E0095`, `WXS-EP-RUI-E0119`, `REL-WXS-WONDERLAND-E0003`, and `EPI-CROSS-SAKI-TSUKASA-E0016`. Leo/need and Vivid BAD SQUAD are CROSS_UNIT/LOW I1; MORE MORE JUMP! and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0136; EVENT_0137 is next and 4 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0135 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0135 is fully integrated:** `VBS-EP-KH-E0103 → VBS-EP-KH-E0135` converts Kohane's pride into an audience-facing excitement rule; `VBS-REL-GROUP-1 → VBS-REL-GROUP-E0135` records coordinated completion of the founding goal and adoption of a world horizon; `VBS-REL-GROUP-KEN-E0109 → VBS-REL-GROUP-KEN-E0135` completes the mentorship; and `VBS-REL-STREET-AUDIENCE-E0129 → VBS-REL-STREET-AUDIENCE-E0135` records public surpassal receipt and changed Street practice. The verified envelope is 24 stories / 50 scenes / 2,265 records. No universal or objective performance scale, permanent technical supremacy, safe training doctrine, professional contract, broad fame, settled world route, guaranteed future victory, completed Akito–Arata rematch, cured grief, erased legend, permanent coalition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0134 to EVENT_0135. EVENT_0136 is next and 5 events remain through EVENT_0140.
+
+Causal home: [EVENT_0135 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0135_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0135: 24 stories / 50 scenes / 2,265 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH I3. Advance `VBS-EP-KH-E0103 → VBS-EP-KH-E0135`, `VBS-REL-GROUP-1 → VBS-REL-GROUP-E0135`, `VBS-REL-GROUP-KEN-E0109 → VBS-REL-GROUP-KEN-E0135`, and `VBS-REL-STREET-AUDIENCE-E0129 → VBS-REL-STREET-AUDIENCE-E0135`. Preserve `VBS-EP-AN-E0129`, `VBS-EP-AK-E0109`, `VBS-EP-TY-E0125`, `VBS-REL-KH-AN-E0129`, `VBS-REL-AK-TY-3`, `VBS-REL-AK-ARATA-E0021`, and `VBS-REL-STREET-VS-HUMANS-1`. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0135; EVENT_0136 is next and 5 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0134 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0134 is fully integrated:** `MF-E0112-01 → MF-E0134-01` advances Mafuyu's identity search into fear-aware, self-chosen disclosure grounded in mixed memory and present evidence. `REL-FAMILY-MAFUYU-FATHER-E0116 → REL-FAMILY-MAFUYU-FATHER-E0134` advances bounded visits into reciprocal crisis knowledge, apology, explicit autonomy, and enacted paternal alliance. Maternal repair, treatment outcome, home return, and Mizuki's disclosure remain open. The verified envelope is 28 stories / 53 scenes / 1,542 records. No settled vocation, recovered taste, cured fear, completed treatment, home return, maternal receipt or reconciliation, proven paternal follow-through, universal disclosure safety, Mizuki disclosure, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0133 to EVENT_0134. EVENT_0135 is next and 6 events remain through EVENT_0140.
+
+Causal home: [EVENT_0134 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0134_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0134: 28 stories / 53 scenes / 1,542 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Nightcord at 25:00 is PRIMARY/VERY HIGH I3. Advance `MF-E0112-01 → MF-E0134-01` and `REL-FAMILY-MAFUYU-FATHER-E0116 → REL-FAMILY-MAFUYU-FATHER-E0134`. Preserve `MZ-E0117-01`, `REL-FAMILY-MAFUYU-MOTHER-E0100`, `REL-N25-G-7`, `REL-N25-KM-E0100`, `REL-N25-VS-RIN-E0014`, `REL-N25-VS-MIKU-MAFUYU-E0042`, and `REL-CROSS-HONAMI-MAFUYU-E0112` proportionally. Leo/need is CROSS_UNIT/LOW I1; MORE MORE JUMP!, Vivid BAD SQUAD, and Wonderlands×Showtime are NONE/I0.
+- The shared boundary is EVENT_0134; EVENT_0135 is next and 6 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0133 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0133 is fully integrated:** new I3 `MMJ-EP-HR-E0133` records Haruka's tested production method across purpose, reach, distinctiveness, continuity, consultation, offer comparison, recipient learning, collaborative revision, and outcome review. `MMJ-REL-GROUP-E0130 → MMJ-REL-GROUP-E0133` installs Haruka as internal producer under collective decision authority and distributed support. Existing friendship, capacity, manager, member, and Stage owners remain distinct. The verified envelope is 26 stories / 52 scenes / 1,497 records. No universal job-ranking formula, guarantee that lower reach produces deeper loyalty, unedited authenticity, permanent producer authority, sole Haruka decision power, safe workload, audited town revival, guaranteed repeat program success, formal agency structure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0132 to EVENT_0133. EVENT_0134 is next and 7 events remain through EVENT_0140.
+
+Causal home: [EVENT_0133 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0133_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0133: 26 stories / 52 scenes / 1,497 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! is PRIMARY/VERY HIGH I3. Create `MMJ-EP-HR-E0133` and advance `MMJ-REL-GROUP-E0130 → MMJ-REL-GROUP-E0133`. Preserve `MMJ-EP-HR-E0094`, `MMJ-EP-HR-E0023`, `MMJ-REL-GROUP-SAITO-E0111`, `MMJ-REL-HUMAN-STAGE-02`, and the other current member operatives at strong I2. Leo/need is CROSS_UNIT/LOW I1 through `REL-CROSS-LN-MMJ-SCHOOL-E0001`; Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0133; EVENT_0134 is next and 7 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0132 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0132 is fully integrated:** new scoped I3 `REL-CROSS-MINORI-NENE-E0132` records accepted cohosting, privacy-aware distributed support, emergency role substitution, reciprocal craft teaching, mutual performance rescue, public credit, footage permission, and chosen post-work time. Minori's recipient-hope method and Nene's musical-acting and collaborative-direction methods receive strong I2 application; Leo/need and N25 friends provide bounded social support. The verified envelope is 23 stories / 33 scenes / 1,638 records. No original-cast equivalence, permanent media confidence, general crisis mastery, future cohosting contract, repeat booking, universal audience conversion, private identity disclosure, equal cross-unit intimacy, merged-unit route, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0131 to EVENT_0132. EVENT_0133 is next and 8 events remain through EVENT_0140.
+
+Causal home: [EVENT_0132 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0132_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0132: 23 stories / 33 scenes / 1,638 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! and Wonderlands×Showtime are CO_PRIMARY/VERY HIGH through new scoped I3 `REL-CROSS-MINORI-NENE-E0132`. Preserve `MMJ-EP-MN-E0122`, `MMJ-REL-GROUP-E0130`, `WXS-EP-NENE-E0114`, `WXS-EP-NENE-E0095`, `REL-WXS-G-E0124`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, and `REL-WXS-WONDERLAND-E0003` at strong I2. Leo/need and Nightcord at 25:00 are SECONDARY/MEDIUM I2; Vivid BAD SQUAD is NONE/I0.
+- The shared boundary is EVENT_0132; EVENT_0133 is next and 8 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0131 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0131 is fully integrated:** new I3 `WXS-EP-EMU-E0131` records a tested method for converting intuitive character feeling into audience-legible performance through bodily control, differentiated viewer perspectives, recordings, response comparison, revision, and retest. New bounded I3 `WXS-REL-G-MIKAZUKI-E0131` records sustained supervised training, evaluated work, and a confirmed next production. Existing Emu stewardship, WxS group, member, family, and Wonderland owners remain in force. The verified envelope is 23 stories / 37 scenes / 1,495 records. No universal audience-reading ability, surrender of Emu's own interpretation, professional acting mastery, safe high-risk near-miss rule, permanent workload safety, Mikazuki membership, settled play or roles, completed historical-village production, contract, guaranteed career outcome, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0130 to EVENT_0131. EVENT_0132 is next and 9 events remain through EVENT_0140.
+
+Causal home: [EVENT_0131 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0131_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0131: 23 stories / 37 scenes / 1,495 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH I3. Create `WXS-EP-EMU-E0131` and `WXS-REL-G-MIKAZUKI-E0131`. Preserve `WXS-EP-EMU-E0104`, `REL-WXS-G-E0124`, `WXS-EP-TSUKASA-E0113`, `WXS-EP-NENE-E0114`, `WXS-EP-NENE-E0095`, `WXS-EP-RUI-E0119`, and `REL-WXS-WONDERLAND-E0003` at strong I2. Leo/need and Vivid BAD SQUAD are CROSS_UNIT/LOW I1; MORE MORE JUMP! and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0131; EVENT_0132 is next and 9 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0130 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0130 is fully integrated:** new I3 `EPI-MMJ-STAGE-FLOWERS-E0130` records the responsive path, flower field, distant stage, and member-specific audience memories as bounded material evidence of hope received. `MMJ-REL-GROUP-E0122 → MMJ-REL-GROUP-E0130` advances the secured work base into a shared long-range direction governed by hope delivery across changing forms, new and existing viewers, and the still-future dome horizon. Current member, Saito, and Stage owners receive strong I2 applications. The verified envelope is 30 stories / 54 scenes / 1,845 records. No deterministic flower symbolism, omniscient or repeatable memory mechanism, guaranteed audience conversion, unanimous old-fan retention, booked or completed dome live, stable mass fame, permanent workload safety, completed new stream, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0129 to EVENT_0130. EVENT_0131 is next and 10 events remain through EVENT_0140.
+
+Causal home: [EVENT_0130 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0130_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0130: 30 stories / 54 scenes / 1,845 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! is PRIMARY/VERY HIGH I3. Create `EPI-MMJ-STAGE-FLOWERS-E0130` and advance `MMJ-REL-GROUP-E0122 → MMJ-REL-GROUP-E0130`. Preserve `MMJ-EP-MN-E0122`, `MMJ-EP-HR-E0094`, `MMJ-EP-AI-E0092`, `MMJ-EP-SZ-E0111`, `MMJ-REL-GROUP-SAITO-E0111`, and Stage-local topology at strong I2. Leo/need, Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0130; EVENT_0131 is next and 10 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0129 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0129 is fully integrated:** `VBS-EP-AN-E0097 → VBS-EP-AN-E0129` records disclosure and action through comparative fear; `VBS-REL-KH-AN-E0037 → VBS-REL-KH-AN-E0129` records reciprocal rivalry as part of partnership; `VBS-REL-STREET-AUDIENCE-E0109 → VBS-REL-STREET-AUDIENCE-E0129` records witnessed vulnerability, renewed endorsement, and returned participation. An wins this duel, while fear and the final RAD challenge remain open. The verified envelope is 27 stories / 54 scenes / 1,649 records. No permanent fear cure, fixed skill rank, equal ability, endlessly safe competition, compulsory-duel rule, complete An–Ken repair, restored Nagi future, unanimous or durable Street coalition, completed RAD challenge, surpassed RAD WEEKEND, professional status, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0128 to EVENT_0129. EVENT_0130 is next and 11 events remain through EVENT_0140.
+
+Causal home: [EVENT_0129 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0129_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0129: 27 stories / 54 scenes / 1,649 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH I3. Advance `VBS-EP-AN-E0097 → VBS-EP-AN-E0129`, `VBS-REL-KH-AN-E0037 → VBS-REL-KH-AN-E0129`, and `VBS-REL-STREET-AUDIENCE-E0109 → VBS-REL-STREET-AUDIENCE-E0129`. Preserve `VBS-EP-KH-E0103`, `VBS-EP-AK-E0109`, `VBS-EP-TY-E0125`, `VBS-REL-GROUP-1`, `VBS-REL-GROUP-KEN-E0109`, `VBS-REL-AN-KEN-E0097`, and `VBS-REL-STREET-VS-HUMANS-1`. Wonderlands×Showtime is REPORTED_CONTEXT/LOW I1; Leo/need, MORE MORE JUMP!, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0129; EVENT_0130 is next and 11 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0128 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0128 is fully integrated:** `LN-EP-ICHIKA-E0101 → LN-EP-ICHIKA-E0128` records recipient-led arrangement as an executed connection method; `LN-REL-ICHIKA-SAKI-MS → LN-REL-ICHIKA-SAKI-E0128` records repaired creative collision and one deliberately asymmetric coauthorship; `LN-REL-SOLIS-E0101 → LN-REL-SOLIS-E0128` records the approved, recorded, promoted, and publicly received debut release. Equal dual-intention coauthorship and durable fame remain open. The verified envelope is 27 stories / 46 scenes / 1,481 records. No universal mediation mastery, completed equal coauthorship, conflict-free future work, singular-author credit, safe workload, durable mass fame, sales or chart result, financial success, completed festival, public SEKAI knowledge, cross-manifestation identity, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0127 to EVENT_0128. EVENT_0129 is next and 12 events remain through EVENT_0140.
+
+Causal home: [EVENT_0128 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0128_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0128: 27 stories / 46 scenes / 1,481 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Leo/need is PRIMARY/VERY HIGH I3. Advance `LN-EP-ICHIKA-E0101 → LN-EP-ICHIKA-E0128`, `LN-REL-ICHIKA-SAKI-MS → LN-REL-ICHIKA-SAKI-E0128`, and `LN-REL-SOLIS-E0101 → LN-REL-SOLIS-E0128`. Preserve `LN-EP-SAKI-E0027`, `LN-EP-SAKI-E0106`, `LN-REL-G-E0121`, and `LN-REL-SCHOOL-VS-MS`. Wonderlands×Showtime is REPORTED_CONTEXT/LOW I1; MORE MORE JUMP!, Vivid BAD SQUAD, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0128; EVENT_0129 is next and 12 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0127 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0127 is fully integrated:** `E-E0070-01 → E-E0127-01` records Ena's explicit commitment to art-school preparation and a painter's life under unresolved talent and suffering. `REL-FAMILY-ENA-FATHER-E0014 → REL-FAMILY-ENA-FATHER-E0127` records direct disclosure of the father's hidden artistic history and bounded permission for Ena to continue. The exchange revises mutual knowledge without erasing injury or completing reconciliation. The verified envelope is 27 stories / 43 scenes / 1,460 records. No art-university admission, professional success, talent proof, stable confidence, healthy pacing, necessary-suffering rule, paternal retraction or apology, promised instruction, warm ordinary access, full father-daughter reconciliation, Akito receipt, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0126 to EVENT_0127. EVENT_0128 is next and 13 events remain through EVENT_0140.
+
+Causal home: [EVENT_0127 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0127_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0127: 27 stories / 43 scenes / 1,460 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Nightcord at 25:00 is PRIMARY/VERY HIGH I3. Advance `E-E0070-01 → E-E0127-01` and `REL-FAMILY-ENA-FATHER-E0014 → REL-FAMILY-ENA-FATHER-E0127`. Preserve `REL-N25-G-7`, `MZ-E0093-01`, `K-E0116-01`, `MF-E0112-01`, and the Empty-SEKAI manifestation topology. Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, and Wonderlands×Showtime are NONE/I0.
+- The shared boundary is EVENT_0127; EVENT_0128 is next and 13 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0126 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0126 is fully integrated:** bounded I2 owner `REL-CROSS-AKITO-HONAMI-E0126` records Honami's consent-sensitive guidance and Akito's consequential receipt. Akito and Max complete one competition after gradual observation and trust-building, while the final startle preserves dog fear as unresolved beyond this specific partnership. Existing character and unit owners remain operative. The verified envelope is 23 stories / 32 scenes / 1,662 records. No generalized cure of dog fear, clinical diagnosis or treatment claim, forced exposure, permanent sport skill, competition victory, replacement of Ishihara as Max's partner, permanent mixed team, durable Honami authority, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0125 to EVENT_0126. EVENT_0127 is next and 14 events remain through EVENT_0140.
+
+Causal home: [EVENT_0126 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0126_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0126: 23 stories / 32 scenes / 1,662 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD and Leo/need are PRIMARY/HIGH I2 and CO-PRIMARY/HIGH I2; MORE MORE JUMP! and Wonderlands×Showtime are SUPPORTING/MEDIUM I2; Nightcord at 25:00 is NONE/I0. Create bounded relationship owner `REL-CROSS-AKITO-HONAMI-E0126`. Preserve `VBS-EP-AK-E0109`, `LN-EP-HONAMI-E0121`, `MMJ-EP-MN-E0122`, `WXS-EP-RUI-E0119`, and `REL-CROSS-LN-MMJ-SCHOOL-E0001`.
+- The shared boundary is EVENT_0126; EVENT_0127 is next and 14 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0125 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0125 is fully integrated:** `VBS-EP-TY-E0012 → VBS-EP-TY-E0125` records Toya's enacted ability to retain classical love and training as owned musical material without excusing coercion or abandoning street music. `VBS-REL-TOYA-FATHER-3 → VBS-REL-TOYA-FATHER-4` records direct craft intervention and explicit paternal pride in Toya's twelve musical years. The accepted first challenge song advances group preparation while the event and victory remain open. The verified envelope is 24 stories / 51 scenes / 1,615 records. No justification of coercive training, erased pain, safe workload, completed event or victory, permanent composition mastery, paternal apology or street-music endorsement, ongoing father mentorship, full family reconciliation, Arata return, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0124 to EVENT_0125. EVENT_0126 is next and 15 events remain through EVENT_0140.
+
+Causal home: [EVENT_0125 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0125_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0125: 24 stories / 51 scenes / 1,615 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH I3. Advance `VBS-EP-TY-E0012 → VBS-EP-TY-E0125` and `VBS-REL-TOYA-FATHER-3 → VBS-REL-TOYA-FATHER-4`. Preserve `VBS-REL-GROUP-1`, `VBS-REL-GROUP-KEN-E0109`, `VBS-EP-KH-E0103`, `VBS-EP-AN-E0097`, `VBS-EP-AK-E0109`, `VBS-REL-AK-TY-3`, and `EPI-VBS-SEKAI-E0118`. MORE MORE JUMP! is REPORTED_CONTEXT/LOW I1; Leo/need, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0125; EVENT_0126 is next and 15 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0124 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0124 is fully integrated:** new I3 `EPI-WXS-WONDERLAND-E0124` records the responsive harbor, ship, past-show map, blocked Star Island, and sprout as bounded material evidence of accumulated and future-directed feeling. `REL-WXS-G-E0104 → REL-WXS-G-E0124` advances the independent troupe into an explicit shared growth journey across different dreams. The four recent character operatives and Wonderland-local singer relations receive strong I2 applications. The verified envelope is 30 stories / 60 scenes / 1,963 records. No deterministic SEKAI symbolism, universal growth-to-geography rule, access to Star Island, captured phoenix, fear cure, guaranteed dream attainment, permanent troupe co-location, identical career destination, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0123 to EVENT_0124. EVENT_0125 is next and 16 events remain through EVENT_0140.
+
+Causal home: [EVENT_0124 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0124_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0124: 30 stories / 60 scenes / 1,963 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH I3. Create `EPI-WXS-WONDERLAND-E0124` and advance `REL-WXS-G-E0104 → REL-WXS-G-E0124`. Preserve `WXS-EP-TSUKASA-E0113`, `WXS-EP-EMU-E0104`, `WXS-EP-NENE-E0114`, `WXS-EP-NENE-E0095`, `WXS-EP-RUI-E0119`, and `REL-WXS-WONDERLAND-E0003` at strong I2. Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0124; EVENT_0125 is next and 16 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0123 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0123 is fully integrated as a mixed high-I2 event with no new I3 or named I2 owner:** Kanade and Ichika convert gift uncertainty into recipient research, individualized tea, and a completed joint gathering. `REL-CROSS-KANADE-ICHIKA-E0042` receives a very strong I2 increment while existing N25, LN, MMJ, Nene, group, and singer authorities remain in force. The verified envelope is 23 stories / 44 scenes / 1,466 records. No new operative, universal gift-fit method, permanent cross-unit cohort, resolved Kanade self-neglect, Mafuyu recovery or settled social tolerance, public Nightcord disclosure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0122 to EVENT_0123. EVENT_0124 is next and 17 events remain through EVENT_0140.
+
+Causal home: [EVENT_0123 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0123_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0123: 23 stories / 44 scenes / 1,466 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create no new I3 or named I2 owner. Preserve and strongly apply `REL-CROSS-KANADE-ICHIKA-E0042`, `K-E0116-01`, `MF-E0112-01`, `LN-EP-ICHIKA-E0101`, `LN-REL-G-E0121`, `MMJ-EP-MN-E0122`, `MMJ-REL-GROUP-E0122`, `REL-CROSS-ICHIKA-NENE-E0013`, and `REL-N25-G-7`. Nightcord at 25:00 and Leo/need are PRIMARY/CO_PRIMARY HIGH I2; MORE MORE JUMP! is CROSS_UNIT/HIGH I2; Wonderlands×Showtime is CROSS_UNIT/MEDIUM I2; Vivid BAD SQUAD is NONE/I0.
+- The shared boundary is EVENT_0123; EVENT_0124 is next and 17 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0122 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0122 is fully integrated:** `MMJ-EP-MN-E0017 → MMJ-EP-MN-E0122` advances Minori's hope method to disappointed audiences she cannot satisfy by substitution. `MMJ-REL-GROUP-06 → MMJ-REL-GROUP-E0122` records a completed professional stress test and secured independent work base. New bounded I2 `MMJ-REL-GROUP-LANDLORD-E0122` records selection, key transfer, access, and reciprocal care while the landlord's past remains unconfirmed. The verified envelope is 27 stories / 47 scenes / 1,578 records. No universal audience conversion, equivalence to LiLia, guaranteed television success, completed move-in operations, safe workload, stable revenue, mass fame, confirmed legendary-idol identity for the landlord, formal mentorship, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0121 to EVENT_0122. EVENT_0123 is next and 18 events remain through EVENT_0140.
+
+Causal home: [EVENT_0122 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0122_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0122: 27 stories / 47 scenes / 1,578 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- MORE MORE JUMP! is PRIMARY/VERY HIGH I3. Advance `MMJ-EP-MN-E0017 → MMJ-EP-MN-E0122` and `MMJ-REL-GROUP-06 → MMJ-REL-GROUP-E0122`; create bounded I2 `MMJ-REL-GROUP-LANDLORD-E0122`. Preserve `MMJ-EP-MN-E0098`, `MMJ-REL-GROUP-SAITO-E0111`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02`. Leo/need is REPORTED_CONTEXT/LOW I1; Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0122; EVENT_0123 is next and 18 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0121 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0121 is fully integrated:** Leo/need becomes a leader-coordinated professional band. `LN-EP-HONAMI-E0010 → LN-EP-HONAMI-E0121` advances care into drum-led ensemble guidance, and `LN-REL-G-E0020 → LN-REL-G-E0121` records a shared listener-facing purpose, unanimous leader appointment, demonstrated coordination, and scheduled debut. Solis, the other individual operatives, and School-singer topology remain proportionally preserved. The verified envelope is 24 stories / 42 scenes / 1,526 records. No unilateral leader authority, permanent technical mastery, safe workload practice, completed debut performance or release, confirmed festival placement, commercial success, guaranteed future cohesion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0120 to EVENT_0121. EVENT_0122 is next and 19 events remain through EVENT_0140.
+
+Causal home: [EVENT_0121 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0121_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0121: 24 stories / 42 scenes / 1,526 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Leo/need is PRIMARY/VERY HIGH I3. Advance `LN-EP-HONAMI-E0010 → LN-EP-HONAMI-E0121` and `LN-REL-G-E0020 → LN-REL-G-E0121`. Preserve `LN-REL-SOLIS-E0101`, `LN-EP-ICHIKA-E0101`, `LN-EP-SAKI-E0106`, `LN-EP-SHIHO-E0110`, and `LN-REL-SCHOOL-VS-MS`. MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0121; EVENT_0122 is next and 19 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0120 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0120 is fully integrated as a mixed high-I2 event:** Kohane/Toya/Haruka and Ena/Airi/Shizuku complete rival photo projects whose specific comparison raises both works. New bounded I2 `REL-CROSS-KOHANE-ENA-E0120` records direct competition, mutual acknowledgment, accepted result, prize transfer, and a shared candid memory; existing character and group authorities remain in force. The verified envelope is 23 stories / 55 scenes / 1,636 records. No new I3 operative, universal artistic ranking, professional photography or modeling status, permanent cross-unit team, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0119 to EVENT_0120. EVENT_0121 is next and 20 events remain through EVENT_0140.
+
+Causal home: [EVENT_0120 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0120_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0120: 23 stories / 55 scenes / 1,636 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- No new I3 owner. Create bounded I2 `REL-CROSS-KOHANE-ENA-E0120`. Preserve `VBS-EP-KH-E0103`, `E-E0070-01`, `MMJ-EP-HR-E0094`, `REL-CROSS-ENA-AIRI-E0022`, VBS/MMJ/N25 group authorities, and local singer routes. Vivid BAD SQUAD, Nightcord at 25:00, and MORE MORE JUMP! are CO_PRIMARY/HIGH I2; Leo/need is REPORTED_CONTEXT/LOW I1; Wonderlands×Showtime is NONE/I0.
+- The shared boundary is EVENT_0120; EVENT_0121 is next and 20 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0119 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0119 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH. New I3 `WXS-EP-RUI-E0119` records medium-aware, performer-specific diagnosis and Rui's capacity to treat a better executed solution as knowledge. New bounded `WXS-REL-RUI-OHARA-E0119` records supervised production work, convergent diagnosis, credit, result receipt, and an open return channel. The verified envelope is 23 stories / 37 scenes / 1,363 records. No film mastery, formal employment, permanent apprenticeship, universal rule that silence is superior, completed future collaboration, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0118 to EVENT_0119. EVENT_0120 is next and 21 events remain through EVENT_0140.
+
+Causal home: [EVENT_0119 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0119_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0119: 23 stories / 37 scenes / 1,363 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Wonderlands×Showtime is PRIMARY/VERY HIGH/I3. Create `WXS-EP-RUI-E0119` and bounded professional `WXS-REL-RUI-OHARA-E0119`. Preserve `WXS-EP-RUI-E0024`, `WXS-EP-RUI-E0099`, `REL-WXS-MS-G-P06`, and Wonderland-singer topology. Vivid BAD SQUAD, Nightcord at 25:00, and Leo/need are CROSS_UNIT/LOW I1; MORE MORE JUMP! is NONE/I0.
+- The shared boundary is EVENT_0119; EVENT_0120 is next and 21 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0118 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0118 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH. New bounded I3 `EPI-VBS-SEKAI-E0118` records the expanded Street SEKAI as a shared but incomplete map of the quartet's inherited benchmark and wider horizon. Four distinct memory routes converge on a collective inscription goal while existing human operatives, group authority, and Street-singer identities remain separate. The verified envelope is 35 stories / 62 scenes / 1,667 records. No surpassed RAD WEEKEND, destroyed wall, achieved world standing, literal Nagi survival, restored coalition, solved grief, decoded sprout, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0117 to EVENT_0118. EVENT_0119 is next and 22 events remain through EVENT_0140.
+
+Causal home: [EVENT_0118 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0118_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0118: 35 stories / 62 scenes / 1,667 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH/I3. Create `EPI-VBS-SEKAI-E0118`; preserve `VBS-REL-GROUP-1`, `VBS-EP-AN-E0097`, `VBS-EP-KH-E0103`, `VBS-EP-AK-E0109`, `VBS-EP-TY-E0012`, and Street-singer topology. Leo/need, MORE MORE JUMP!, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0118; EVENT_0119 is next and 22 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0117 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0117 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MZ-E0093-01 → MZ-E0117-01` advances Mizuki into an enacted preference-support rule grounded in their sister's fear-respecting acceptance; `REL-FAMILY-MIZUKI-SISTER-E0068 → REL-FAMILY-MIZUKI-SISTER-E0117` integrates reciprocal creative influence and present distance-stable care. Leo/need receives high I2 application through Shiho's recipient-owned use and sibling gift; MMJ receives Shizuku's bounded receipt. The verified envelope is 24 stories / 39 scenes / 1,500 records. No completed guarded disclosure, universal acceptance, permanent safety, Mafuyu taste or preference recovery, new professional status, globally shared SEKAI identity, or complete reconstruction is certified. The boundary advances EVENT_0116 to EVENT_0117. EVENT_0118 is next and 23 events remain through EVENT_0140.
+
+Causal home: [EVENT_0117 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0117_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0117: 24 stories / 39 scenes / 1,500 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Nightcord at 25:00 is PRIMARY/VERY HIGH/I3. Advance `MZ-E0093-01 → MZ-E0117-01` and `REL-FAMILY-MIZUKI-SISTER-E0068 → REL-FAMILY-MIZUKI-SISTER-E0117`. Preserve `REL-N25-G-7`, `MF-E0112-01`, `LN-EP-SHIHO-E0110`, and established sibling and School-singer topology. Leo/need is CO_PRIMARY/HIGH I2, MORE MORE JUMP! is CROSS_UNIT/MEDIUM I2, Wonderlands×Showtime is REPORTED_CONTEXT/LOW I1, and Vivid BAD SQUAD is NONE/I0.
+- The shared boundary is EVENT_0117; EVENT_0118 is next and 23 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0116 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0116 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `K-E0089-01 → K-E0116-01` advances Kanade from protection under persistent penance into an enacted capacity to preserve personal longing beside rescue work: she reconstructs early creative pleasure and family warmth, composes from the wish for renewed recognition, shares the result, and voices the wish to her father. New one-sided I3 `REL-FAMILY-KANADE-FATHER-E0116` integrates loving origin, catastrophic guilt, present care, and permitted hope without claiming paternal receipt. New bounded I2 `REL-FAMILY-MAFUYU-FATHER-E0116` records honest taste-loss disclosure inside repeated voluntary visits. Preserve the other N25 humans, group, dyads, and Empty singers proportionally. LN and MMJ are CROSS_UNIT/LOW I1; VBS and WxS are NONE/I0. The verified envelope is 28 stories / 52 scenes / 1,519 records: eight core chapters, ten card halves, and ten areas. No guilt cure, safe workload, settled career, restored family, paternal recognition, Mafuyu return, taste recovery, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0115 to EVENT_0116; EVENT_0117 is next and 24 events remain through EVENT_0140.
+
+Causal home: [EVENT_0116 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0116_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0116: 28 stories / 52 scenes / 1,519 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance `K-E0089-01 → K-E0116-01`; create bounded family records `REL-FAMILY-KANADE-FATHER-E0116` and `REL-FAMILY-MAFUYU-FATHER-E0116`.
+- N25 is PRIMARY/VERY HIGH I3; LN and MMJ are CROSS_UNIT/LOW I1; VBS and WxS are NONE/I0.
+- The shared boundary is EVENT_0116; EVENT_0117 is next and 24 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0115 forward transaction; EVENT_0099–0115 sequence complete
 
 **EVENT_0115 is fully integrated as an ensemble I2 event with no new I3 or named I2 owner:** MORE MORE JUMP! is PRIMARY/HIGH through Minori and Haruka's established capacities and Stage-local support; Leo/need is CO_PRIMARY/HIGH through Shiho and Ichika's recipient-aware work, shared rest, and result reporting. `REL-CROSS-LN-MMJ-SCHOOL-E0001` receives a very strong I2 increment through Minori and Shiho's completed practicum and safety response, Haruka and Ichika's chosen participation, and Haruka–Shiho's enacted follow-up leisure. Preserve `MMJ-EP-MN-E0098`, `MMJ-EP-HR-E0094`, `LN-EP-SHIHO-E0110`, `LN-EP-ICHIKA-E0101`, both groups, and collective Stage topology. VBS, WxS, and N25 are NONE/I0. The verified envelope is 24 stories / 41 scenes / 1,280 records: eight core chapters, ten card halves, and six areas. No new operative, universal animal affinity, professional keeper competence, permanent cross-unit intimacy, completed future outing, mass fame, public SEKAI knowledge, persistent singer embodiment, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0114 to EVENT_0115; the authorized EVENT_0099–0115 goal boundary is reached and there is `NO_NEXT_AUTHORIZED_EVENT`.
 
@@ -1746,3 +1997,103 @@ The verified group contains eight core chapters, ten card halves, and five event
 ### EVENT_0115 source and reconstruction review
 
 The verified group contains eight core chapters, ten card halves, and six areas: 24 stories / 41 scenes / 1,280 records. No new I3 or named I2 owner is created. Animal-care competence, distributed safety response, cross-unit chosen leisure, public recognition, and Stage-local support strengthen existing authorities. Universal animal affinity, professional keeper status, permanent cross-unit intimacy, completed future outings, mass fame, public SEKAI knowledge, persistent singer embodiment, and global singer identity remain uncertified. The EVENT_0099–0115 goal boundary is complete.
+
+### EVENT_0116 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves, and ten areas: 28 stories / 52 scenes / 1,519 records. Kanade receives an I3 successor and two family relationships receive bounded authority. Resolved guilt, safe self-care, a decided future, restored family life, paternal recognition, Mafuyu’s return, taste recovery, global singer identity, and complete reconstruction remain uncertified.
+
+### EVENT_0117 source and reconstruction review
+
+The verified group contains 24 stories / 39 scenes / 1,500 records. No completed guarded disclosure, universal acceptance, permanent safety, Mafuyu taste or preference recovery, new professional status, globally shared SEKAI identity, or complete reconstruction is certified.
+
+### EVENT_0118 source and reconstruction review
+
+The verified group contains 35 stories / 62 scenes / 1,667 records. No surpassed RAD WEEKEND, destroyed wall, achieved world standing, literal Nagi survival, restored coalition, solved grief, decoded sprout, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0119 source and reconstruction review
+
+The verified group contains 23 stories / 37 scenes / 1,363 records. No film mastery, formal employment, permanent apprenticeship, universal rule that silence is superior, completed future collaboration, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0120 source and reconstruction review
+
+The verified group contains 23 stories / 55 scenes / 1,636 records. No new I3 operative, universal artistic ranking, professional photography or modeling status, permanent cross-unit team, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0121 source and reconstruction review
+
+The verified group contains 24 stories / 42 scenes / 1,526 records. No unilateral leader authority, permanent technical mastery, safe workload practice, completed debut performance or release, confirmed festival placement, commercial success, guaranteed future cohesion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0122 source and reconstruction review
+
+The verified group contains 27 stories / 47 scenes / 1,578 records. No universal audience conversion, equivalence to LiLia, guaranteed television success, completed move-in operations, safe workload, stable revenue, mass fame, confirmed legendary-idol identity for the landlord, formal mentorship, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0123 source and reconstruction review
+
+The verified group contains 23 stories / 44 scenes / 1,466 records. No new operative, universal gift-fit method, permanent cross-unit cohort, resolved Kanade self-neglect, Mafuyu recovery or settled social tolerance, public Nightcord disclosure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0124 source and reconstruction review
+
+The verified group contains 30 stories / 60 scenes / 1,963 records. No deterministic SEKAI symbolism, universal growth-to-geography rule, access to Star Island, captured phoenix, fear cure, guaranteed dream attainment, permanent troupe co-location, identical career destination, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0125 source and reconstruction review
+
+The verified group contains 24 stories / 51 scenes / 1,615 records. No justification of coercive training, erased pain, safe workload, completed event or victory, permanent composition mastery, paternal apology or street-music endorsement, ongoing father mentorship, full family reconciliation, Arata return, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0126 source and reconstruction review
+
+The verified group contains 23 stories / 32 scenes / 1,662 records. No generalized cure of dog fear, clinical diagnosis or treatment claim, forced exposure, permanent sport skill, competition victory, replacement of Ishihara as Max's partner, permanent mixed team, durable Honami authority, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0127 source and reconstruction review
+
+The verified group contains 27 stories / 43 scenes / 1,460 records. No art-university admission, professional success, talent proof, stable confidence, healthy pacing, necessary-suffering rule, paternal retraction or apology, promised instruction, warm ordinary access, full father-daughter reconciliation, Akito receipt, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0128 source and reconstruction review
+
+The verified group contains 27 stories / 46 scenes / 1,481 records. No universal mediation mastery, completed equal coauthorship, conflict-free future work, singular-author credit, safe workload, durable mass fame, sales or chart result, financial success, completed festival, public SEKAI knowledge, cross-manifestation identity, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0129 source and reconstruction review
+
+The verified group contains 27 stories / 54 scenes / 1,649 records. No permanent fear cure, fixed skill rank, equal ability, endlessly safe competition, compulsory-duel rule, complete An–Ken repair, restored Nagi future, unanimous or durable Street coalition, completed RAD challenge, surpassed RAD WEEKEND, professional status, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0130 source and reconstruction review
+
+The verified group contains 30 stories / 54 scenes / 1,845 records. No deterministic flower symbolism, omniscient or repeatable memory mechanism, guaranteed audience conversion, unanimous old-fan retention, booked or completed dome live, stable mass fame, permanent workload safety, completed new stream, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0131 source and reconstruction review
+
+The verified group contains 23 stories / 37 scenes / 1,495 records. No universal audience-reading ability, surrender of Emu's own interpretation, professional acting mastery, safe high-risk near-miss rule, permanent workload safety, Mikazuki membership, settled play or roles, completed historical-village production, contract, guaranteed career outcome, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0132 source and reconstruction review
+
+The verified group contains 23 stories / 33 scenes / 1,638 records. No original-cast equivalence, permanent media confidence, general crisis mastery, future cohosting contract, repeat booking, universal audience conversion, private identity disclosure, equal cross-unit intimacy, merged-unit route, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0133 source and reconstruction review
+
+The verified group contains 26 stories / 52 scenes / 1,497 records. No universal job-ranking formula, guarantee that lower reach produces deeper loyalty, unedited authenticity, permanent producer authority, sole Haruka decision power, safe workload, audited town revival, guaranteed repeat program success, formal agency structure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0134 source and reconstruction review
+
+The verified group contains 28 stories / 53 scenes / 1,542 records. No settled vocation, recovered taste, cured fear, completed treatment, home return, maternal receipt or reconciliation, proven paternal follow-through, universal disclosure safety, Mizuki disclosure, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0135 source and reconstruction review
+
+The verified group contains 24 stories / 50 scenes / 2,265 records. No universal or objective performance scale, permanent technical supremacy, safe training doctrine, professional contract, broad fame, settled world route, guaranteed future victory, completed Akito–Arata rematch, cured grief, erased legend, permanent coalition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0136 source and reconstruction review
+
+The verified group contains 28 stories / 49 scenes / 1,632 records. No universal physical-acting formula, unrestricted stunt safety, permanent fitness, mastery of every bodily role, justification of solo pursuit, permanent Onijima mentorship, Mikazuki membership, settled next production, completed world career, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0137 source and reconstruction review
+
+The verified group contains 30 stories / 44 scenes / 1,781 records. No literal time travel, exact archival playback, deterministic station or sprout symbolism, known train destination, guaranteed professional success, stable mass fame, permanent group cohesion, identical ambition, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0138 source and reconstruction review
+
+The verified group contains 29 stories / 49 scenes / 1,456 records. No total performance mastery, safe unlimited training, permanent removal of role assumptions, objective superiority over ReLight, durable fame, causal explanation for the missing work mail, guaranteed future collaboration, private Airi–Akari friendship, formal rivalry, validation of every Hiiragi judgment, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0139 source and reconstruction review
+
+The verified group contains 23 stories / 33 scenes / 1,584 records. No universal music-teaching formula, brass-instrument mastery, claim that love alone defeats technical limits, safe or painless persistence, guaranteed child ensemble career, completed Toya–Kanade collaboration, N25 identity disclosure, Mafuyu paternal report or receipt, family reconciliation, permanent VBS readiness for the world, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0140 source and reconstruction review
+
+The verified group contains 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified.

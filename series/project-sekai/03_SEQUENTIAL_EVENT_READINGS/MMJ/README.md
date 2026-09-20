@@ -56,3 +56,11 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0102 — ドタバタ cafe ●REC!!](PJSK_EVENT_0102_DEEP_READING.md): complete 23-story envelope; new `REL-CROSS-AIRI-MIZUKI-E0102` records a scoped direct relationship at I3 and `REL-CROSS-SAKI-MIZUKI-E0102` records bounded work continuity at I2; Airi's acclaimed media adaptation and the MMJ group remain strong I2 applications of founded authority.
 
 - [EVENT_0111 — その手導くぬくもりは](PJSK_EVENT_0111_DEEP_READING.md): complete 25-story envelope; Shizuku gains a choice-support operative, Saito becomes MMJ's mutually accepted manager, and Saito's family converts inherited expectation into explicit permission and succession alternatives.
+
+- [EVENT_0122 — 刻まれた傷は、やがて](PJSK_EVENT_0122_DEEP_READING.md): complete 27-story envelope; Minori serves an audience she cannot satisfy by substitution, and MMJ earns a physical home for its freelance work.
+
+- [EVENT_0130 — いつか花咲くステージへ](PJSK_EVENT_0130_DEEP_READING.md): complete 30-story World Link envelope; returned audience hope blooms into a Stage flower field and a shared MMJ growth criterion.
+
+- [EVENT_0133 — Lead to shine more](PJSK_EVENT_0133_DEEP_READING.md): complete 26-story envelope; a tested documentary choice becomes Haruka's producer method and MMJ's shared governance model.
+
+- [EVENT_0138 — Chase my IDEAL IDOL！](PJSK_EVENT_0138_DEEP_READING.md): complete 29-story envelope; Airi removes a self-imposed performance ceiling and turns peer admiration into reciprocal public challenge.

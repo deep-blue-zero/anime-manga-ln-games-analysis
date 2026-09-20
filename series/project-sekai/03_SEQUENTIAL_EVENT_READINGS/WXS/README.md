@@ -54,3 +54,11 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0113 — 君が主役の物語を](PJSK_EVENT_0113_DEEP_READING.md): complete 24-story envelope; Tsukasa gains a tested sparse-role construction method with ensemble-control limits, and his reciprocal craft relation with Reki changes both actors' choices.
 
 - [EVENT_0114 — 最高のクランクアップ！](PJSK_EVENT_0114_DEEP_READING.md): complete 23-story envelope; Nene builds a person-specific collaborative-directing method and turns class project work into reciprocal, continuing classmate relations.
+
+- [EVENT_0119 — 逆光のレンズフレア](PJSK_EVENT_0119_DEEP_READING.md): complete 23-story envelope; Rui learns to adapt script, medium, and performer, then accepts a stronger directorial solution without claiming film mastery.
+
+- [EVENT_0124 — 星を目指して、ヨーソロー！](PJSK_EVENT_0124_DEEP_READING.md): complete 30-story World Link envelope; a responsive harbor and route map make WxS's accumulated shows and shared future voyage material.
+
+- [EVENT_0131 — perspective for smile](PJSK_EVENT_0131_DEEP_READING.md): complete 23-story envelope; Emu tests audience-perspective acting and WxS earns Mikazuki's next production.
+
+- [EVENT_0136 — お縄を頂戴！？天馬捕物帳](PJSK_EVENT_0136_DEEP_READING.md): complete 28-story envelope; a physical limit becomes Tsukasa's repeatable embodied-acting method through reciprocal mentorship.
