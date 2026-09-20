@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0124
+## Current coverage — all five human units synchronized through EVENT_0125
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0124 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0124`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0125 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0125`.
 
 Artifacts:
 
@@ -66,7 +66,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0124 forward transaction; EVENT_0116–0140 sequence active
+### Current coverage — EVENT_0125 forward transaction; EVENT_0116–0140 sequence active
+
+**EVENT_0125 is fully integrated:** `VBS-EP-TY-E0012 → VBS-EP-TY-E0125` records Toya's enacted ability to retain classical love and training as owned musical material without excusing coercion or abandoning street music. `VBS-REL-TOYA-FATHER-3 → VBS-REL-TOYA-FATHER-4` records direct craft intervention and explicit paternal pride in Toya's twelve musical years. The accepted first challenge song advances group preparation while the event and victory remain open. The verified envelope is 24 stories / 51 scenes / 1,615 records. No justification of coercive training, erased pain, safe workload, completed event or victory, permanent composition mastery, paternal apology or street-music endorsement, ongoing father mentorship, full family reconciliation, Arata return, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0124 to EVENT_0125. EVENT_0126 is next and 15 events remain through EVENT_0140.
+
+Causal home: [EVENT_0125 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0125_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0125: 24 stories / 51 scenes / 1,615 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH I3. Advance `VBS-EP-TY-E0012 → VBS-EP-TY-E0125` and `VBS-REL-TOYA-FATHER-3 → VBS-REL-TOYA-FATHER-4`. Preserve `VBS-REL-GROUP-1`, `VBS-REL-GROUP-KEN-E0109`, `VBS-EP-KH-E0103`, `VBS-EP-AN-E0097`, `VBS-EP-AK-E0109`, `VBS-REL-AK-TY-3`, and `EPI-VBS-SEKAI-E0118`. MORE MORE JUMP! is REPORTED_CONTEXT/LOW I1; Leo/need, Wonderlands×Showtime, and Nightcord at 25:00 are NONE/I0.
+- The shared boundary is EVENT_0125; EVENT_0126 is next and 15 events remain through EVENT_0140.
+
+### Historical coverage — EVENT_0124 forward transaction; EVENT_0116–0140 sequence active
 
 **EVENT_0124 is fully integrated:** new I3 `EPI-WXS-WONDERLAND-E0124` records the responsive harbor, ship, past-show map, blocked Star Island, and sprout as bounded material evidence of accumulated and future-directed feeling. `REL-WXS-G-E0104 → REL-WXS-G-E0124` advances the independent troupe into an explicit shared growth journey across different dreams. The four recent character operatives and Wonderland-local singer relations receive strong I2 applications. The verified envelope is 30 stories / 60 scenes / 1,963 records. No deterministic SEKAI symbolism, universal growth-to-geography rule, access to Star Island, captured phoenix, fear cure, guaranteed dream attainment, permanent troupe co-location, identical career destination, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0123 to EVENT_0124. EVENT_0125 is next and 16 events remain through EVENT_0140.
 
@@ -1873,3 +1883,7 @@ The verified group contains 23 stories / 44 scenes / 1,466 records. No new opera
 ### EVENT_0124 source and reconstruction review
 
 The verified group contains 30 stories / 60 scenes / 1,963 records. No deterministic SEKAI symbolism, universal growth-to-geography rule, access to Star Island, captured phoenix, fear cure, guaranteed dream attainment, permanent troupe co-location, identical career destination, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0125 source and reconstruction review
+
+The verified group contains 24 stories / 51 scenes / 1,615 records. No justification of coercive training, erased pain, safe workload, completed event or victory, permanent composition mastery, paternal apology or street-music endorsement, ongoing father mentorship, full family reconciliation, Arata return, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.

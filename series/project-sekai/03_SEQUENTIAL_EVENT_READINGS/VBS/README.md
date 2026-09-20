@@ -52,3 +52,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0109 — BURN MY SOUL](PJSK_EVENT_0109_DEEP_READING.md): complete 24-story envelope; Akito gains a tested expressive-release operative, the group–Ken compact advances through executed mentorship, and Akito's solo creates the first scoped post-defeat Street-audience rekindling.
 
 - [EVENT_0118 — BREAK DOWN THE WALL](PJSK_EVENT_0118_DEEP_READING.md): complete 35-story World Link envelope; the RAD WEEKEND wall, wider music, blank inscription, and unexplained sprout form a bounded collective map.
+
+- [EVENT_0125 — The first concerto](PJSK_EVENT_0125_DEEP_READING.md): complete 24-story envelope; Toya reclaims a conflicted classical past, receives bounded paternal recognition, and completes VBS's first challenge song.

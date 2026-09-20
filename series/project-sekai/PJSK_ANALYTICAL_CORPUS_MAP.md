@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0124
+## Current state — founded units synchronized through EVENT_0125
 
-All five human units now track the same continuous event history through `EVENT_0124`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0124 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0125`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0125 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0124 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0125 committed boundary
+
+**EVENT_0125 is fully integrated:** `VBS-EP-TY-E0012 → VBS-EP-TY-E0125` records Toya's enacted ability to retain classical love and training as owned musical material without excusing coercion or abandoning street music. `VBS-REL-TOYA-FATHER-3 → VBS-REL-TOYA-FATHER-4` records direct craft intervention and explicit paternal pride in Toya's twelve musical years. The accepted first challenge song advances group preparation while the event and victory remain open. The verified envelope is 24 stories / 51 scenes / 1,615 records. No justification of coercive training, erased pain, safe workload, completed event or victory, permanent composition mastery, paternal apology or street-music endorsement, ongoing father mentorship, full family reconciliation, Arata return, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0124 to EVENT_0125. EVENT_0126 is next and 15 events remain through EVENT_0140.
+
+The [EVENT_0125 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0125_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 10 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0124 committed boundary
 
 **EVENT_0124 is fully integrated:** new I3 `EPI-WXS-WONDERLAND-E0124` records the responsive harbor, ship, past-show map, blocked Star Island, and sprout as bounded material evidence of accumulated and future-directed feeling. `REL-WXS-G-E0104 → REL-WXS-G-E0124` advances the independent troupe into an explicit shared growth journey across different dreams. The four recent character operatives and Wonderland-local singer relations receive strong I2 applications. The verified envelope is 30 stories / 60 scenes / 1,963 records. No deterministic SEKAI symbolism, universal growth-to-geography rule, access to Star Island, captured phoenix, fear cure, guaranteed dream attainment, permanent troupe co-location, identical career destination, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0123 to EVENT_0124. EVENT_0125 is next and 16 events remain through EVENT_0140.
 
@@ -581,13 +587,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0124`. Wonderland SEKAI now materially maps the troupe's past and open route; WxS explicitly commits to mutual growth across different dreams. `EVENT_0125` is next; 16 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0125`. Toya has completed the first accepted RAD challenge song by treating his classical past as owned material rather than a verdict of failure. `EVENT_0126` is next; 15 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0124` for all five human units. The EVENT_0116–0140 continuation is active with 16 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0125` for all five human units. The EVENT_0116–0140 continuation is active with 15 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0124_DEEP_READING.md) closes `EVENT_0124 — 星を目指して、ヨーソロー！`, bucket `RB_20240308T110000Z`: 30 stories / 60 scenes / 1,963 records. Wonderland SEKAI now materially maps the troupe's past and open route; WxS explicitly commits to mutual growth across different dreams.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0125_DEEP_READING.md) closes `EVENT_0125 — The first concerto`, bucket `RB_20240322T060000Z`: 24 stories / 51 scenes / 1,615 records. Toya has completed the first accepted RAD challenge song by treating his classical past as owned material rather than a verdict of failure.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
