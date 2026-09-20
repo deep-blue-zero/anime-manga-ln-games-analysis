@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0112
+## Current coverage — all five human units synchronized through EVENT_0113
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0112 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0112`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0113 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0113`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0112 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0113 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0113 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH with new I3 `WXS-EP-TSUKASA-E0113`, a tested sparse-role method that combines historical research, multiple imagined life histories, collaborative selection, embodiment, audience testing, and explicit diagnosis of overpresence within the whole play. New scoped I3 `WXS-REL-TSUKASA-REKI-E0113` records reciprocal craft change: Reki supplies method and collaboration; Tsukasa's response helps Reki stop treating lead/support labels as fixed moral categories and accept a film lead. Preserve `WXS-MS-TSUKASA-P06`, `REL-WXS-G-E0104`, the other three current humans, and Wonderland singer topology. Leo/need is CROSS_UNIT/MEDIUM I2 through Saki–Tsukasa support; MMJ, VBS, and N25 are NONE/I0. The verified envelope is 24 stories / 39 scenes / 1,592 records: eight core chapters, ten card halves, five linked areas, and one December Wonderland area. No permanent mastery, perfect ensemble balance, canonical truth of invented biographies, Harunaza membership, completed film, permanent mentorship, professional status, safe workload, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0112 to EVENT_0113; EVENT_0114 is next and 2 events remain through EVENT_0115.
+
+Causal home: [EVENT_0113 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0113_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0113: 24 stories / 39 scenes / 1,592 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Create I3 `WXS-EP-TSUKASA-E0113` and scoped I3 `WXS-REL-TSUKASA-REKI-E0113`.
+- Preserve the independent troupe, established humans, Wonderland singers, and Saki–Tsukasa sibling authority proportionally.
+- MMJ, VBS, and N25 are NONE/I0. The shared boundary is EVENT_0113; EVENT_0114 is next and 2 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0112 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0112 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH. `MF-E0100-01 → MF-E0112-01` advances Mafuyu's survival departure into a shared identity search: she preserves contradictory pain and warmth, retrieves personally necessary artifacts, names a tentative wish to stay beside suffering people, and accepts change with companions. New I3 `EPI-N25-SEKAI-E0112` records the Empty SEKAI lake as an incomplete, owner-specific material archive of painful and sustaining feelings; the closed door and sprout remain unresolved. New bounded I2 `REL-CROSS-HONAMI-MAFUYU-E0112` records Honami learning of the temporary stay, provisioning meals, and offering help without receiving the family history. Preserve `K-E0089-01`, `E-E0070-01`, `MZ-E0093-01`, `REL-N25-G-7`, `REL-N25-KM-E0100`, established family and Empty-singer authority, and Honami–Kanade care proportionally. Leo/need is CROSS_UNIT/MEDIUM I2; MMJ, VBS, and WxS are NONE/I0. The verified envelope is 30 stories / 60 scenes / 2,057 records: ten core chapters, ten card halves, and ten World Link areas. No permanent housing, family reconciliation, settled vocation, admissions result, Mizuki disclosure, rescue completion, universal symbolism, opened door, mature sprout, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0111 to EVENT_0112; EVENT_0113 is next and 3 events remain through EVENT_0115.
 
@@ -1701,3 +1712,7 @@ The verified group contains eight core chapters (15 scenes, 834 records), ten as
 ### EVENT_0112 source and reconstruction review
 
 The verified group contains ten core chapters, ten associated card halves, and ten World Link Nightcord areas: 30 stories / 60 scenes / 2,057 records. `MF-E0112-01` and `EPI-N25-SEKAI-E0112` own the I3 changes; `REL-CROSS-HONAMI-MAFUYU-E0112` is bounded I2. Permanent housing, reconciliation, settled careers, admissions, disclosure, completed rescue, universal symbolic decoding, an opened door, a mature plant, and global singer identity remain uncertified.
+
+### EVENT_0113 source and reconstruction review
+
+The verified group contains eight core chapters, ten card halves, five event-linked areas, and one December Wonderland area: 24 stories / 39 scenes / 1,592 records. `WXS-EP-TSUKASA-E0113` and `WXS-REL-TSUKASA-REKI-E0113` own the I3 changes. Permanent mastery, ensemble balance, canonical biographies, Harunaza membership, completed film, permanent mentorship, professional status, and global singer identity remain uncertified.
