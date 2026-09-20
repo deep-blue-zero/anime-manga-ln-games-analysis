@@ -4,14 +4,14 @@ artifact_id: RAG_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory_and_scope_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
 inventory_date: "2026-09-19"
-source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V020 inspected and closed, V010 checkpointed, and the V020 checkpoint transaction pending."
+source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V020 inspected, closed, checkpointed, and locally audited; V021-V047 remain outside the active narrative run."
 ---
 
 # Source and scope map
@@ -110,7 +110,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-V001-V020 are inspected and closed; V001-V010 are checkpointed and locally audited, with the V020 checkpoint and audit pending. V021-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001-V020 are inspected, closed, checkpointed, and locally audited. V021-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 

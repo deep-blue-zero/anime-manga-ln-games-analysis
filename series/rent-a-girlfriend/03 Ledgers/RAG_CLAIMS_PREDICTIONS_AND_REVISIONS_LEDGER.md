@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.22"
+version: "1.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020; no V021 predictions frozen outside the authorized run."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected, closed, checkpointed, and locally audited through V020; no V021 predictions frozen outside the authorized run."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -36,7 +36,7 @@ initialized: true
 inspected_through_volume: V020
 current_claim_count: 76
 frozen_prediction_count: 0
-state: CURRENT_THROUGH_V020__CHECKPOINT_PENDING
+state: CHECKPOINTED_THROUGH_V020__NO_NEXT_VOLUME_AUTHORIZATION
 ```
 
 ## Current claims
@@ -231,7 +231,7 @@ state: CURRENT_THROUGH_V020__CHECKPOINT_PENDING
 
 At the V020 horizon, RAG-PRED-073 through RAG-PRED-076 are supported. Public screening completes the film's exhibition route; Chizuru reopens the grief episode through refund, self-description, gratitude, and ordinary access; Mini's disclosure directly prompts Chizuru's question; and Kazuya turns internal love into personally identifying but interrupted speech. V020 adds public completion, continuing vocation, mixed ordinary and professional access, a Mini-triggered question, an incomplete direct confession, and Mami's active family-business route as RAG-CLM-071 through RAG-CLM-076.
 
-The V010 checkpoint remains the latest block synthesis and local reconstruction audit until the V020 checkpoint transaction closes. V020 completes the authorized V011-V020 read and raises the live claim count to seventy-six. No V021 prediction set is frozen because V021 lies outside the authorized narrative run.
+The V020 checkpoint and local reconstruction audit are the latest block-level synthesis and recovery boundary. The cumulative prediction record through V020 contains seventy-six adjudications: sixty-six supported, eight disconfirmed, one inconclusive, and one no-diagnostic. The V011-V020 block contributes forty adjudications: thirty-four supported and six disconfirmed. No V021 prediction set is frozen because V021 lies outside the authorized narrative run.
 
 ## Adjudicated predictions from the V012 boundary
 
@@ -349,14 +349,13 @@ No predictions are frozen for V021. The authorized sequential run ends at V020, 
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
 - Will Chizuru's family-linked acting purpose and selective unpriced access alter her longer-term career or relationship classification?
-- What final relationship state does Mami seek through separation?
+- What relationship or family outcome does Mami seek through the senior-smartphone business route?
 - Can Kazuya generalize the completed Kuribayashi disclosure to Kibe, family, or another audience?
 - Can Kazuya treat Ruka's sincere feeling responsibly after nearly formalizing from duty while explicitly preferring Chizuru?
-- What later use, if any, will Mami make of the Kinoshita family account after no V011 consequence?
-- Will direct LINE access remain crisis-bounded or become routine communication?
+- Will Chizuru's direct LINE access and unbooked ordinary contact become durable communication?
 - How will Kazuya address Ruka's repeated unilateral kisses and widening status conflict?
-- Will the private bedside projection be completed, edited, or publicly exhibited after Sayuri's death?
 - What consequence follows Kazuya's custody of the family ring after no V012 use?
-- Can Kazuya and Chizuru convert completed photography, private projection, and a reserved accessible venue into a finished and exhibited film?
-- How will Chizuru exercise agency inside the film project, and which third parties will supply missing production competence?
+- Can Kazuya and Chizuru complete the interrupted confession and reach an explicit shared relationship classification?
+- Will Chizuru's acting career and family-linked vocational purpose develop after the public screening?
+- Does Chizuru's accepted support produce durable bereavement recovery or only a bounded release?
 - Can Sumi's consequential emotional support coexist with an unheard confession without distorting the practice relationship?

@@ -4,13 +4,13 @@ artifact_id: RAG_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga EPUB inventory V001-V047; V001-V020 inspected and closed; V010 checkpoint and local audit remain the latest block boundary while the V020 checkpoint transaction is pending."
+source_boundary: "Japanese manga EPUB inventory V001-V047; V001-V020 inspected, closed, checkpointed, and locally audited; V020 is the latest block boundary."
 ---
 
 # Rent-a-Girlfriend — current state and corpus map
@@ -23,7 +23,7 @@ This is the canonical first-read surface for the Git analytical corpus. Primary 
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
-  analytical_phase: V020_CLOSED_CHECKPOINT_PENDING
+  analytical_phase: V020_CHECKPOINT_CLOSED
   source_reconnaissance_complete: true
   governing_method: "00 Frameworks and Methods/RAG_ANALYTICAL_METHOD.md"
   method_status: canonical
@@ -45,7 +45,7 @@ project_initialization:
   sequential_analysis_lock: OPEN
 ```
 
-The first block gate is closed and the V010 checkpoint remains the committed recovery boundary until the V020 checkpoint transaction is published. V011-V020 are inspected and closed in the authorized second block. No V021 narrative evidence is admitted.
+The second block gate is closed. V001-V020 are inspected and closed, and the V020 checkpoint and local reconstruction audit establish the latest recovery boundary. No V021 narrative evidence is admitted.
 
 ## Active sequential authorization
 
@@ -56,12 +56,12 @@ sequential_execution:
   authorized_start: V001
   terminal_boundary: V020
   committed_high_water_mark: V020
-  next_candidate_operation: PRODUCE_V020_CHECKPOINT_AND_AUDIT
+  next_candidate_operation: AWAIT_V021_AUTHORIZATION
   confirmation_between_units: false
-  run_state: checkpoint_pending
+  run_state: complete
 ```
 
-V020 is closed and ends the authorized run. V021 is inventory-visible but narratively inadmissible. The V020 checkpoint and reconstruction audit are the only eligible next operations.
+V020 is checkpointed and locally audited and ends the authorized run. V021 is inventory-visible but narratively inadmissible until a later authorization opens a new sequential transaction.
 
 ## Source boundary
 
@@ -89,9 +89,9 @@ V020 is closed and ends the authorized run. V021 is inventory-visible but narrat
 | Longitudinal ledgers | Synchronized through V020 |
 | Character evidence ledgers and models | Kazuya, Chizuru, and Ruka updated through V020 |
 | Sequential deep readings | V001-V020 closed |
-| Latest checkpoint | `02 Block Syntheses/RAG_CP_V010.md` complete |
-| Reconstruction audit | `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V010.md` complete |
-| Repository publication | Stable branch `series/rent-a-girlfriend`; V020 close prepared for publication; checkpoint and audit pending |
+| Latest checkpoint | `02 Block Syntheses/RAG_CP_V020.md` complete |
+| Reconstruction audit | `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V020.md` complete |
+| Repository publication | Stable branch `series/rent-a-girlfriend`; V020 close published; checkpoint and audit prepared for publication |
 
 ## Execution profile
 
@@ -113,15 +113,15 @@ execution_profile:
 
 ## Next operation
 
-Publish the synchronized V020 close, then produce the V020 block checkpoint and local reconstruction audit from that committed freeze without admitting V021 narrative evidence.
+Await explicit authorization for V021 or a later volume block. Do not inspect or admit V021 narrative evidence before that authorization.
 
 ## Current analytical routes
 
 - Latest closed reading: [RAG_V020_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20011-020/RAG_V020_DEEP_READING.md)
 - Current claims and adjudicated predictions through V020: [RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md](03%20Ledgers/RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md)
-- V010 checkpoint: [RAG_CP_V010.md](02%20Block%20Syntheses/RAG_CP_V010.md)
-- V010 local reconstruction audit: [RAG_RECONSTRUCTION_AUDIT_V010.md](07%20Audits%20and%20Handoffs/RAG_RECONSTRUCTION_AUDIT_V010.md)
+- V020 checkpoint: [RAG_CP_V020.md](02%20Block%20Syntheses/RAG_CP_V020.md)
+- V020 local reconstruction audit: [RAG_RECONSTRUCTION_AUDIT_V020.md](07%20Audits%20and%20Handoffs/RAG_RECONSTRUCTION_AUDIT_V020.md)
 - Kazuya evidence/model: [evidence ledger](04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_RECONSTRUCTION_MODEL.md)
 - Chizuru evidence/model: [evidence ledger](04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_RECONSTRUCTION_MODEL.md)
 - Ruka evidence/model: [evidence ledger](04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_RECONSTRUCTION_MODEL.md)
-- The first block checkpoint and reconstruction audit are closed; the V020 checkpoint and audit are pending against the closed second block.
+- The second block checkpoint and reconstruction audit are closed at V020; V021 remains outside the authorized narrative boundary.
