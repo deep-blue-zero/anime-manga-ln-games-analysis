@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0100
+## Current coverage — all five human units synchronized through EVENT_0101
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0100 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0100`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0101 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0101`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0100 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0101 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0101 is fully integrated:** Leo/need is PRIMARY/VERY HIGH with two distinct I3 successors. `LN-REL-SOLIS-E0101` closes the pending contract boundary through signed, accepted contracts and formal Solis artist affiliation while debut, promotion, release, income, and durable agency alignment remain open. `LN-EP-ICHIKA-E0101` advances the listener-oriented state into recipient-traced impact, shared causal attribution, a tested recursive connection purpose, and a future singing vow. Preserve `LN-REL-G-E0020` and `LN-REL-SCHOOL-VS-MS` at strong I2. MMJ, VBS, WxS, and N25 are CROSS_UNIT/HIGH I2 through distinct invitation, support, attendance, and receipt routes. The verified envelope is 23 stories / 45 scenes / 1,670 records: eight core chapters, ten card halves, and five linked areas. No completed debut, broad fame, public SEKAI knowledge, global singer state, universal listener transformation, permanent band continuity, or complete reconstruction package is certified. The boundary advances EVENT_0100 to EVENT_0101; EVENT_0102 is next and 14 events remain through EVENT_0115.
+
+Causal home: [EVENT_0101 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0101_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0101: 23 stories / 45 scenes / 1,670 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Advance formal Solis affiliation and Ichika's recursive connection purpose to two distinct I3 successors.
+- Preserve Leo/need group and School-singer topology at strong I2; route all four other human units at recipient-bounded I2.
+- The shared boundary is EVENT_0101; EVENT_0102 is next and 14 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0100 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0100 is fully integrated:** Nightcord at 25:00 is PRIMARY/VERY HIGH with four distinct I3 successors. `MF-E0100-01` advances Mafuyu from context-dependent wanting into explicit self-description, sustained refusal, survival departure, and chosen refuge. `REL-FAMILY-MAFUYU-MOTHER-E0100` advances the family conflict into directly rejected disclosure, device-access rupture, and physical separation while attachment continues. `REL-N25-KM-E0100` makes Kanade's protective commitment an enacted refuge. `REL-N25-VS-KAITO-GROUP-E0100` makes Empty KAITO a bounded crisis collaborator who combines urgent challenge with Miku's reassurance, reports through the group, limits interference, and receives Mafuyu's thanks. Preserve `K-E0089-01`, `REL-N25-G-7`, `REL-N25-MZM-3`, and `REL-N25-VS-MIKU-MAFUYU-E0042` at strong I2. MMJ is CROSS_UNIT/LOW I1; LN, VBS, and WxS are NONE/I0. The verified envelope is 23 stories / 42 scenes / 1,770 records: eight core chapters, ten card halves, and five linked areas. No permanent housing, legal independence, settled vocation, repaired device, maternal understanding, reconciliation, completed estrangement, universal recovery, public SEKAI knowledge, or global singer state is certified. The boundary advances EVENT_0099 to EVENT_0100; EVENT_0101 is next and 15 events remain through EVENT_0115.
 
@@ -1521,3 +1532,7 @@ The verified group contains eight core chapters (21 scenes, 901 records), ten ca
 ### EVENT_0100 source and reconstruction review
 
 The verified group contains eight core chapters (23 scenes, 937 records), ten card halves (14 scenes, 784 records), and five linked areas (5 scenes, 49 records). Four I3 responsibilities advance: Mafuyu's bounded self-authored survival action, the family relationship's direct rejection and separation, Kanade-Mafuyu enacted refuge, and Empty KAITO's bounded crisis-collaboration relation. Group, Mizuki, Miku, and Kanade human authority receive proportional I2 evidence. MMJ receives I1 contact; LN, VBS, and WxS are I0. Permanent independence, cohabitation, repaired access, settled vocation, family resolution, universal recovery, public SEKAI knowledge, and global singer state remain uncertified.
+
+### EVENT_0101 source and reconstruction review
+
+The verified group contains eight core chapters (25 scenes, 938 records), ten card halves (15 scenes, 677 records), and five linked areas (5 scenes, 55 records). Two I3 responsibilities advance: formal Solis affiliation and Ichika's recursive connection-purpose operative. Leo/need group and School topology receive strong I2 evidence. MMJ, VBS, WxS, and N25 each receive high, recipient-specific I2 without successors. Debut, commercial outcomes, universal listener change, broad fame, public SEKAI knowledge, global singer state, permanent band continuity, and complete reconstruction remain uncertified.
