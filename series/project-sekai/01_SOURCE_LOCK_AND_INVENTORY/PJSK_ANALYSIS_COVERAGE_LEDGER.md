@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0107
+## Current coverage — all five human units synchronized through EVENT_0108
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0107 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0107`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0108 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0108`.
 
 Artifacts:
 
@@ -66,7 +66,18 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0107 forward transaction; EVENT_0099–0115 sequence active
+### Current coverage — EVENT_0108 forward transaction; EVENT_0099–0115 sequence active
+
+**EVENT_0108 is fully integrated as an ensemble I2 event with no new I3 owner:** Leo/need is PRIMARY/HIGH through Ichika's direct enactment of `LN-EP-ICHIKA-E0101`, and Nightcord at 25:00 is CO_PRIMARY/HIGH through Kanade's receipt of ordinary motivation and Mafuyu's bounded post-departure support. Vivid BAD SQUAD, MORE MORE JUMP!, and Wonderlands×Showtime are each CROSS_UNIT/HIGH I2. Preserve `REL-CROSS-KANADE-ICHIKA-E0042`, `REL-CROSS-ICHIKA-NENE-E0013`, and `REL-CROSS-ICHIKA-KOHANE-E0018`; preserve `VBS-EP-KH-E0103`, `MMJ-EP-MN-E0098`, `MF-E0100-01`, `K-E0089-01`, `WXS-EP-EMU-E0104`, and `REL-WXS-G-E0104`. The verified envelope is 28 stories / 42 scenes / 1,284 records: eight core chapters, ten card halves, five event-linked areas, and five October Wonderland areas. No universal motivation rule, resolved rescue burden, resolved future or family conflict, stable academic balance, permanent social confidence, new unit successor, global school cohort, or global singer identity is certified. The boundary advances EVENT_0107 to EVENT_0108; EVENT_0109 is next and 7 events remain through EVENT_0115.
+
+Causal home: [EVENT_0108 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0108_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers.
+
+- Completed EVENT_0108: 28 stories / 42 scenes / 1,284 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Record no new I3 or named I2 owner; preserve and strengthen established character, relationship, group, and institutional authorities proportionally.
+- All five human units receive high I2 evidence, with Leo/need PRIMARY and N25 CO_PRIMARY.
+- The shared boundary is EVENT_0108; EVENT_0109 is next and 7 events remain through EVENT_0115.
+
+### Historical coverage — EVENT_0107 forward transaction; EVENT_0099–0115 sequence active
 
 **EVENT_0107 is fully integrated:** Vivid BAD SQUAD is PRIMARY/HIGH and Nightcord at 25:00 is CO_PRIMARY/HIGH through one I3 relationship successor. `REL-CROSS-MIZUKI-AN-E0007 → REL-CROSS-MIZUKI-AN-E0107` advances safe ordinary friendship under incomplete disclosure into a historically understood and reciprocally enacted school friendship: the pair reconstruct An's non-exceptional approach during classroom stigma, interpret why the relation matters, exchange person-specific costly care through Mizuki's tailored notebook and An's remembered-preference gift, state continuity across class separation, and complete further chosen leisure. Preserve `VBS-AN-MS4`, `VBS-EP-AN-E0097`, and `MZ-E0093-01`; An's social explanation is retrospective and Mizuki's guarded issue remains undisclosed. WxS is CROSS_UNIT/HIGH I2 through Rui's adaptive teaching, mixed-group responsibility, and shared-memory framing. Leo/need is REPORTED_CONTEXT/LOW I1 and MMJ is NONE/I0. The verified envelope is 23 stories / 52 scenes / 1,498 records: eight core chapters, ten card halves, and five linked areas. No resolved guarded disclosure, stable attendance, permanent academic mastery, savior account, equal study-group intimacy, new character operative, unit successor, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0106 to EVENT_0107; EVENT_0108 is next and 8 events remain through EVENT_0115.
 
@@ -1626,3 +1637,7 @@ The verified group contains eight core chapters (24 scenes, 831 records), ten as
 ### EVENT_0107 source and reconstruction review
 
 The verified group contains eight core chapters (28 scenes, 833 records), ten associated card halves (19 scenes, 613 records), and five linked areas (5 scenes, 52 records). `REL-CROSS-MIZUKI-AN-E0107` owns the sole I3 change. An, Mizuki, VBS, N25, WxS, Street, family, LN, and MMJ evidence remains proportionally bounded. Guarded disclosure, attendance, academic permanence, equal group intimacy, character successors, unit successors, global singers, and complete reconstruction remain uncertified.
+
+### EVENT_0108 source and reconstruction review
+
+The verified group contains eight core chapters (15 scenes, 559 records), ten associated card halves (17 scenes, 624 records), five event-linked areas, and five October Wonderland areas (10 area scenes, 101 records). No new I3 or named I2 owner is created. Ichika's recursive connection purpose, Kanade's ordinary post-crisis access, Mafuyu's bounded support, Kohane's confidence generalization, Minori's course implementation, and WxS outside-learning continuity remain proportionally bounded. Universal efficacy, resolved crisis states, stable academic outcomes, global school identity, global singer identity, and complete reconstruction remain uncertified.
