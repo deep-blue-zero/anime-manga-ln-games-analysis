@@ -15,6 +15,44 @@ mutable: true
 
 # Project SEKAI Character State Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current founded-unit character backfill — EVENT_0029–0090
+
+The formerly deferred interval is now integrated against all four non-N25 foundations. The durable I3 handoffs are listed below; their full causal bounds and all I2/I1 evidence increments live in the unit checkpoints. Historical states remain append-only, and later EVENT_0091–0098 states retain their existing authority.
+
+| Unit | Event | Durable checkpoint handoff |
+|---|---|---|
+| Leo/need | `EVENT_0034` | `LN-G-E0034`: future-facing full-effort commitment becomes an enacted group rule |
+| Leo/need | `EVENT_0040` | `LN-SH-E0040`: Shiho verbalizes and owns her present band commitment rather than leaving it implicit |
+| Leo/need | `EVENT_0056` | `LN-ICHIKA-E0056`: Ichika adopts an audience-directed songwriting and communicative-performance method |
+| Leo/need | `EVENT_0065` | `LN-SAKI-E0065`: Saki integrates painful autobiographical affect into self-authored composition |
+| Leo/need | `EVENT_0069` | `LN-G-E0069`: the band adopts full Shiho expression plus shared development as its skill-asymmetry rule |
+| Leo/need | `EVENT_0076` | `LN-ICHIKA-E0076`: first completed composition and first published band video establish durable creative agency |
+| Leo/need | `EVENT_0083` | `LN-G-E0083`: the band makes self-chosen artistic purpose govern professional and promotional decisions |
+| MORE MORE JUMP! | `EVENT_0052` | `MMJ-SZ-E0052`: Shizuku converts costume and presentation into self-authored expressive choice |
+| MORE MORE JUMP! | `EVENT_0057` | `MMJ-HR-E0057`: Haruka adopts a bounded helping ethic that preserves recipient agency |
+| MORE MORE JUMP! | `EVENT_0078` | `MMJ-G-E0078`: the group adopts a larger self-authored audience goal after Haruka's origin disclosure |
+| MORE MORE JUMP! | `EVENT_0085` | `MMJ-SZ-E0085`: Shizuku publicly owns her account, limits and continuing need for help |
+| Vivid BAD SQUAD | `EVENT_0037` | `VBS-REL-KH-AN-E0037`: partner conflict and repair produce a durable relation handoff |
+| Vivid BAD SQUAD | `EVENT_0066` | `REL-CROSS-NENE-TOYA-E0066`: reciprocal gaming respect and post-event practice establish a durable friendship |
+| Vivid BAD SQUAD | `EVENT_0071` | `VBS-TY-E0071`: Toya adopts recipient-directed composition and reclaims inherited skill for chosen goals |
+| Vivid BAD SQUAD | `EVENT_0079` | `VBS-AK-E0079`: Akito reinterprets growth as socially enabled rather than solitary proof |
+| Vivid BAD SQUAD | `EVENT_0086` | `VBS-KH-E0086`: Kohane owns chosen risk and supported competence in a self-directed public project |
+| Wonderlands×Showtime | `EVENT_0038` | `WXS-G-E0038`: the troupe converts a threatened dream into an explicit shared continuation commitment |
+| Wonderlands×Showtime | `EVENT_0046` | `WXS-EMU-E0046`: Emu integrates dream generation with implementation reality and opportunity cost |
+| Wonderlands×Showtime | `EVENT_0055` | `WXS-TS-E0055`: Tsukasa adopts role-diagnosis and perspective taking as an acting method |
+| Wonderlands×Showtime | `EVENT_0066` | `REL-CROSS-NENE-TOYA-E0066`: reciprocal gaming respect and post-event practice establish a durable friendship |
+| Wonderlands×Showtime | `EVENT_0074` | `WXS-RUI-E0074`: Rui chooses the irreplaceable present troupe while keeping professional possibility legible |
+| Wonderlands×Showtime | `EVENT_0088` | `WXS-TS-E0088`: Tsukasa integrates embodied role research, self-relevant affect and partner response into a successful audition while retaining limits on general mastery |
+
+I2 rows refine the founded character or group model without a successor ID. I1 rows add ordinary, speech, preference or context evidence. I0 rows create no character mutation. The complete impact matrix in `PJSK_RELEASE_IMPACT_LEDGER.md` prevents unlisted events from being mistaken for missing review.
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 ## Current EVENT_0098 checkpoint
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.

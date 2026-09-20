@@ -11,6 +11,12 @@ do_not_use_as_current_authority: false
 
 # MMJ
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current ordered authority
+
+[MORE MORE JUMP! EVENT_0029–0090 backfill checkpoint](PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) resolves every formerly deferred founded-unit route and every documentary I0 cell in that interval. Together with the integrated EVENT_0001–0028 and EVENT_0091–0098 histories, MORE MORE JUMP! now has continuous event-history tracking through `EVENT_0098`. Older deferred statements below preserve their historical transaction boundaries and are superseded for current coverage by this checkpoint.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 Current ordered authority: [EVENT_0011](PJSK_EVENT_0011_DEEP_READING.md) integrates Shizuku's operative I3 and the group's I2 public launch after [EVENT_0005](PJSK_EVENT_0005_DEEP_READING.md); four MS-04 humans and `MMJ-REL-GROUP-06` remain. The next pending historical screen is EVENT_0012. Later complete-envelope readings retain pending interpretation until intervening routes are integrated.
 
 Historical foundation/EVENT5 snapshot: the MMJ main-story foundation is complete. EVENT_0001 I1 and EVENT_0002–0003 NONE/I0 precede EVENT_0004 I3 school relationships and EVENT_0005 I3 freelance/shared production. The single-event checkpoint then stopped before EVENT_0006.

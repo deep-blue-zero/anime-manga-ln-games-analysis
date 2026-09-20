@@ -11,6 +11,12 @@ do_not_use_as_current_authority: false
 
 # Project SEKAI analytical corpus
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current analytical boundary
+
+All five human units have continuous event-history dispositions through `EVENT_0098`. The [release-impact matrix](04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090) closes every formerly deferred EVENT_0029–0090 unit route, backed by founded [Leo/need](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [MMJ](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [VBS](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) and [WxS](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) checkpoints. Older deferred wording records historical entering state and is superseded for current coverage.
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 This tree imports all 58 analytical documents from the owner-supplied Drive folder, preserving its 23-subfolder hierarchy. The original corpus was omitted from the initial repository bootstrap because it was stored outside that bootstrap's directory scope.
 
 Start with the [analytical corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md), then the relevant foundation, event reading, or longitudinal ledger. The [import report](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_REPORT.md) and [source/path/hash manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_MANIFEST.json) describe coverage, mechanical conversions, and source provenance.

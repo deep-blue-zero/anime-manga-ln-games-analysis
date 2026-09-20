@@ -15,6 +15,26 @@ mutable: true
 
 # Project SEKAI Relationship State Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current founded-unit relationship backfill — EVENT_0029–0090
+
+Relationship history is synchronized through the formerly deferred interval. The principal durable relationship handoffs are:
+
+- `VBS-REL-KH-AN-E0037`: partner conflict and repair produce a durable VBS relation handoff.
+- `WXS-G-E0038`: the troupe's threatened dream becomes an explicit shared continuation commitment.
+- `REL-CROSS-NENE-TOYA-E0066`: reciprocal competitive respect, cooperation and later practice establish a bounded friendship owned independently by VBS and WxS.
+- `MMJ-G-E0078`: Haruka's origin disclosure and the accepted larger audience goal change the MMJ group direction.
+- `WXS-RUI-E0074`: Rui chooses the irreplaceable present troupe while keeping future professional possibility legible.
+- `LN-G-E0034`, `LN-G-E0069` and `LN-G-E0083`: Leo/need's full-effort commitment, skill-asymmetry rule and self-chosen professional purpose remain distinct historical group responsibilities.
+
+All other material relationship routes are I1/I2 increments bounded by the relevant checkpoint. Recipient-specific knowledge remains separate, and no shared event grants unit-wide knowledge by default.
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 ## Current EVENT_0098 checkpoint
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.

@@ -13,6 +13,86 @@ analysis_cutoff: "EVENT_0098 sole Minori operative I3 and bounded local-I2 Stage
 
 # Project SEKAI Release Impact Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current founded-unit backfill — complete unit impact matrix through EVENT_0090
+
+The table below is the authoritative baseline-relative consequence matrix for the formerly deferred interval. It preserves the existing N25 judgments and adds founded Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD and Wonderlands×Showtime judgments. Explicit I0 cells are documentary closures, so absence from an event's cast cannot become a silent history gap.
+
+Older paragraphs that say a non-N25 impact was deferred record the state at the time of the original screen. They are superseded by this matrix and the linked unit checkpoints. I3 handoffs are append-only historical states; I2/I1 entries update only the named responsibility and do not imply a global successor.
+
+| Event | Title | Leo/need | MMJ | VBS | WxS | N25 | Evidence authority |
+|---|---|---:|---:|---:|---:|---:|---|
+| `EVENT_0029` | 夏祭り、鳴り響く音は | **I0** | **I1** | **I2** | **I0** | **I2** | [`PJSK_EVENT_0029_N25_INTEGRATION_CHECKPOINT.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0029_N25_INTEGRATION_CHECKPOINT.md) |
+| `EVENT_0030` | きっと最高のsummer！ | **I1** | **I0** | **I1** | **I1** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0031` | ハッピー・ラブリー・エブリデイ！ | **I0** | **I2** | **I0** | **I0** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0032` | マーメイドにあこがれて | **I0** | **I0** | **I0** | **I2** | **I1** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0033` | ふたり、月うさぎ | **I2** | **I2** | **I0** | **I0** | **I2** | [`PJSK_EVENT_0033_N25_INTEGRATION_CHECKPOINT.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0033_N25_INTEGRATION_CHECKPOINT.md) |
+| `EVENT_0034` | Knock the Future!! | **I3** | **I0** | **I0** | **I0** | **I2** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0035` | 灯のミラージュ | **I0** | **I0** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0035_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0035_DEEP_READING.md) |
+| `EVENT_0036` | スクランブル・ファンフェスタ！ | **I0** | **I2** | **I2** | **I2** | **I2** | [`PJSK_EVENT_0036_N25_INTEGRATION_CHECKPOINT.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0036_N25_INTEGRATION_CHECKPOINT.md) |
+| `EVENT_0037` | Bout for Beside You | **I0** | **I0** | **I3** | **I0** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0038` | Revival my dream | **I0** | **I0** | **I0** | **I3** | **I1** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0039` | ボクのあしあと キミのゆくさき | **I0** | **I0** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0039_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0039_DEEP_READING.md) |
+| `EVENT_0040` | 揺るがぬ想い、今言葉にして | **I3** | **I0** | **I0** | **I0** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0041` | バディ・ファニー・スペンドタイム♪ | **I0** | **I1** | **I2** | **I0** | **I1** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0042` | 交わる旋律 灯るぬくもり | **I2** | **I0** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0042_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0042_DEEP_READING.md) |
+| `EVENT_0043` | MOREMOREMakingXmas | **I0** | **I2** | **I0** | **I0** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0044` | Same Dreams,Same Colors | **I0** | **I0** | **I2** | **I0** | **I2** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0045` | 祈りの先 願う明日は | **I2** | **I2** | **I2** | **I0** | **I2** | [`PJSK_EVENT_0045_N25_INTEGRATION_CHECKPOINT.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0045_N25_INTEGRATION_CHECKPOINT.md) |
+| `EVENT_0046` | POP IN MY HEART!! | **I2** | **I0** | **I0** | **I3** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0047` | いつか、絶望の底から | **I2** | **I2** | **I1** | **I0** | **I2** | [`PJSK_EVENT_0047_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0047_DEEP_READING.md) |
+| `EVENT_0048` | 秘密の♡バレンタイン大作戦！ | **I2** | **I2** | **I1** | **I2** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0049` | Legend still vivid | **I1** | **I1** | **I2** | **I0** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0050` | あの日、空は遠かった | **I2** | **I2** | **I1** | **I1** | **I0** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0051` | 怪盗紳士のハラハラ！？ホワイトデー | **I2** | **I2** | **I2** | **I2** | **I2** | [`PJSK_EVENT_0051_N25_INTEGRATION_CHECKPOINT.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0051_N25_INTEGRATION_CHECKPOINT.md) |
+| `EVENT_0052` | Cast Spell on You | **I1** | **I3** | **I1** | **I0** | **I1** | [`PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md`](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) |
+| `EVENT_0053` | 空白のキャンバスに描く私は | **I0** | **I0** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0053_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0053_DEEP_READING.md) |
+| `EVENT_0054` | セカイの桜、つながる想い | **I2** | **I2** | **I2** | **I2** | **I3** | [`PJSK_EVENT_0054_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0054_DEEP_READING.md) |
+| `EVENT_0055` | まばゆい光のステージで | **I2** | **I0** | **I2** | **I3** | **I0** | [`PJSK_EVENT_0055_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0055_DEEP_READING.md) |
+| `EVENT_0056` | Live with memories | **I3** | **I0** | **I0** | **I1** | **I1** | [`PJSK_EVENT_0056_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0056_DEEP_READING.md) |
+| `EVENT_0057` | つなぐPainful Hope | **I0** | **I3** | **I0** | **I0** | **I1** | [`PJSK_EVENT_0057_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0057_DEEP_READING.md) |
+| `EVENT_0058` | 白熱！神高応援団！ | **I0** | **I0** | **I2** | **I2** | **I2** | [`PJSK_EVENT_0058_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0058_DEEP_READING.md) |
+| `EVENT_0059` | THE POWER OF UNITY | **I0** | **I0** | **I2** | **I0** | **I0** | [`PJSK_EVENT_0059_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0059_DEEP_READING.md) |
+| `EVENT_0060` | 青空に願うユア・ハピネス！ | **I1** | **I2** | **I2** | **I0** | **I0** | [`PJSK_EVENT_0060_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0060_DEEP_READING.md) |
+| `EVENT_0061` | 迷い子の手を引く、そのさきは | **I0** | **I0** | **I0** | **I1** | **I3** | [`PJSK_EVENT_0061_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0061_DEEP_READING.md) |
+| `EVENT_0062` | 絶体絶命！？アイランドパニック！ | **I0** | **I0** | **I0** | **I2** | **I0** | [`PJSK_EVENT_0062_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0062_DEEP_READING.md) |
+| `EVENT_0063` | みんなでエンジョイ！スポジョイパーク | **I2** | **I2** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0063_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0063_DEEP_READING.md) |
+| `EVENT_0064` | The Vivid Old Tale | **I0** | **I0** | **I2** | **I0** | **I0** | [`PJSK_EVENT_0064_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0064_DEEP_READING.md) |
+| `EVENT_0065` | No seek No find | **I3** | **I0** | **I0** | **I0** | **I0** | [`PJSK_EVENT_0065_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0065_DEEP_READING.md) |
+| `EVENT_0066` | close game／OFFLINE | **I0** | **I0** | **I3** | **I3** | **I0** | [`PJSK_EVENT_0066_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0066_DEEP_READING.md) |
+| `EVENT_0067` | 青空の先、輝きを追いかけて | **I0** | **I2** | **I0** | **I0** | **I0** | [`PJSK_EVENT_0067_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0067_DEEP_READING.md) |
+| `EVENT_0068` | そしていま、リボンを結んで | **I0** | **I1** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0068_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0068_DEEP_READING.md) |
+| `EVENT_0069` | Don't lose faith! | **I3** | **I0** | **I0** | **I1** | **I0** | [`PJSK_EVENT_0069_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0069_DEEP_READING.md) |
+| `EVENT_0070` | 好きを描いて♪レインボーキャンバス | **I2** | **I0** | **I0** | **I2** | **I3** | [`PJSK_EVENT_0070_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0070_DEEP_READING.md) |
+| `EVENT_0071` | Walk on and on | **I0** | **I0** | **I3** | **I0** | **I0** | [`PJSK_EVENT_0071_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0071_DEEP_READING.md) |
+| `EVENT_0072` | この祭に 夕闇色も | **I2** | **I2** | **I2** | **I2** | **I3** | [`PJSK_EVENT_0072_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0072_DEEP_READING.md) |
+| `EVENT_0073` | 拝啓、あの頃のわたしへ | **I1** | **I2** | **I0** | **I0** | **I0** | [`PJSK_EVENT_0073_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md) |
+| `EVENT_0074` | カーテンコールに惜別を | **I0** | **I0** | **I0** | **I3** | **I0** | [`PJSK_EVENT_0074_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0074_DEEP_READING.md) |
+| `EVENT_0075` | 絶叫！？ オオカミの森へようこそ！ | **I2** | **I2** | **I2** | **I2** | **I1** | [`PJSK_EVENT_0075_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md) |
+| `EVENT_0076` | Echo my melody | **I3** | **I1** | **I1** | **I1** | **I1** | [`PJSK_EVENT_0076_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) |
+| `EVENT_0077` | 願いは、いつか朝をこえて | **I2** | **I1** | **I2** | **I0** | **I3** | [`PJSK_EVENT_0077_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md) |
+| `EVENT_0078` | あの日の夢の、彼方向こうへ | **I1** | **I3** | **I0** | **I0** | **I0** | [`PJSK_EVENT_0078_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0078_DEEP_READING.md) |
+| `EVENT_0079` | Find A Way Out | **I1** | **I0** | **I3** | **I1** | **I1** | [`PJSK_EVENT_0079_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md) |
+| `EVENT_0080` | 弓引け、白の世界で | **I2** | **I2** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0080_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md) |
+| `EVENT_0081` | 新春！ 獅子舞ロボのお正月ショー！ | **I2** | **I2** | **I2** | **I2** | **I1** | [`PJSK_EVENT_0081_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md) |
+| `EVENT_0082` | 夢の途中、輝く星たちへ | **I1** | **I0** | **I0** | **I2** | **I0** | [`PJSK_EVENT_0082_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0082_DEEP_READING.md) |
+| `EVENT_0083` | Little Bravers！ | **I3** | **I2** | **I2** | **I2** | **I1** | [`PJSK_EVENT_0083_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0083_DEEP_READING.md) |
+| `EVENT_0084` | キャンドルの香りは思い出と共に | **I2** | **I1** | **I0** | **I2** | **I2** | [`PJSK_EVENT_0084_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0084_DEEP_READING.md) |
+| `EVENT_0085` | ほどかれた糸のその先に | **I2** | **I3** | **I0** | **I0** | **I0** | [`PJSK_EVENT_0085_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0085_DEEP_READING.md) |
+| `EVENT_0086` | Kick it up a notch | **I0** | **I1** | **I3** | **I1** | **I0** | [`PJSK_EVENT_0086_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0086_DEEP_READING.md) |
+| `EVENT_0087` | Never Give Up Cooking！ | **I2** | **I1** | **I2** | **I2** | **I1** | [`PJSK_EVENT_0087_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0087_DEEP_READING.md) |
+| `EVENT_0088` | 天の果てのフェニックスへ | **I2** | **I0** | **I2** | **I3** | **I0** | [`PJSK_EVENT_0088_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0088_DEEP_READING.md) |
+| `EVENT_0089` | イミシブル・ディスコード | **I1** | **I0** | **I0** | **I0** | **I3** | [`PJSK_EVENT_0089_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0089_DEEP_READING.md) |
+| `EVENT_0090` | 交響する街の片隅で | **I2** | **I1** | **I2** | **I2** | **I2** | [`PJSK_EVENT_0090_DEEP_READING.md`](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0090_DEEP_READING.md) |
+
+Unit authorities:
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 ## Current EVENT_0098 checkpoint
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.

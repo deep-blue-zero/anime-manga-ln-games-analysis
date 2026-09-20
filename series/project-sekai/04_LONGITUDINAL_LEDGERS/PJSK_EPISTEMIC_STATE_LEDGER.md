@@ -15,6 +15,19 @@ mutable: true
 
 # Project SEKAI Epistemic State Ledger
 
+<!-- UNIT_BACKFILL_0029_0090_START -->
+## Current founded-unit epistemic backfill — EVENT_0029–0090
+
+The four founded units now have explicit knowledge-state treatment for every event in the formerly deferred interval. I3 operative handoffs include Ichika's audience-directed composition (`EVENT_0056`) and completed composition/publication agency (`EVENT_0076`), Saki's autobiographical integration (`EVENT_0065`), Haruka's helping ethic (`EVENT_0057`), Shizuku's self-authored presentation and public account (`EVENT_0052`, `EVENT_0085`), Toya's recipient-directed composition (`EVENT_0071`), Akito's socially enabled growth model (`EVENT_0079`), Kohane's ownership of supported competence (`EVENT_0086`), Tsukasa's role-diagnosis acting method (`EVENT_0055`) and later integration of embodied research, self-relevant affect and partner response (`EVENT_0088`), Emu's dream/implementation integration (`EVENT_0046`), and Rui's chosen present-troupe priority (`EVENT_0074`).
+
+I1/I2 receipts preserve who directly learned, inferred, reported or merely witnessed each fact. Cross-unit witnesses do not receive private SEKAI, family, disclosure or internal-unit history unless the retained locator depicts transmission. Explicit I0 cells receive no knowledge mutation.
+
+- [Leo/need checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [MORE MORE JUMP! checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Vivid BAD SQUAD checkpoint](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+- [Wonderlands×Showtime checkpoint](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
+<!-- UNIT_BACKFILL_0029_0090_END -->
+
 ## Current EVENT_0098 checkpoint
 
 **EVENT_0098 is fully integrated as the final authorized forward event:** MORE MORE JUMP! is PRIMARY/HIGH I3 with exactly one new I3 owner. `MMJ-EP-MN-E0098` records Minori's bounded structural-choice procedure when ordinary school and expanded idol work conflict: model both schedules, verify academic requirements, consult affected friends and family, name and accept ordinary-life costs, choose the credit course, report the choice, give café notice, and begin transition preparation. Preserve `MMJ-EP-MN-E0017` separately as recipient-specific hope authority. Preserve `MMJ-EP-HR-E0094` and `MMJ-EP-HR-E0023`; EVENT_0098 applies Haruka's friendship and capacity rules but creates no successor. New `MMJ-VS-STAGE-LEN-E0098` is bounded local I2 for the causally used schedule-modeling prompt, non-substitution of Airi's answer, contextual observation, result receipt, one rehearsal assessment, and accepted paired practice; it remains distinct from `MMJ-VS-STAGE-KAITO-E0092`. Preserve `MMJ-REL-GROUP-06`, `MMJ-EP-AI-E0092`, `MMJ-REL-MNAI-03`, `REL-CROSS-LN-MMJ-SCHOOL-E0001`, `VBS-REL-CROSS-KOHANE-MINORI-MS0`, `VBS-REL-KH-AN-4`, `REL-CROSS-HARUKA-AN-E0004`, `MMJ-VS-STAGE-02`, and `MMJ-REL-HUMAN-STAGE-02` proportionally without successors. LN is CO_PRIMARY/HIGH I2; VBS is CROSS_UNIT/HIGH relationship-specific I2; WxS and N25 are NONE/I0. The verified envelope is 24 stories / 46 scenes / 1,421 records: eight core chapters, ten card halves, and six linked areas. Transfer remains unimplemented; schedules remain modeled or provisional; the broadcaster blacklist is counterfactual; study, work, café, post-transfer, and Len-practice outcomes remain open; singers remain private, Stage-local, and unofficial. This is operation 20; zero historical screens and zero authorized operations remain; the boundary advances EVENT_0097 to EVENT_0098; `NO_NEXT_AUTHORIZED_EVENT`.
