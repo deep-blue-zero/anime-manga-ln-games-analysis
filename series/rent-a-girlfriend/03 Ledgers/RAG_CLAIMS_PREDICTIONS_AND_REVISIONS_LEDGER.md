@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.21"
+version: "1.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019; predictions frozen before V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020; no V021 predictions frozen outside the authorized run."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-current_claim_count: 70
-frozen_prediction_count: 4
-state: CURRENT_THROUGH_V018__PREDICTIONS_FROZEN_FOR_V019
+inspected_through_volume: V020
+current_claim_count: 76
+frozen_prediction_count: 0
+state: CURRENT_THROUGH_V020__CHECKPOINT_PENDING
 ```
 
 ## Current claims
@@ -113,6 +113,12 @@ state: CURRENT_THROUGH_V018__PREDICTIONS_FROZEN_FOR_V019
 | RAG-CLM-068 | Chizuru's controlled strength can break when precise recognition permits rather than demands grief; her later reset does not negate the release. | STRONG_INFERENCE | RAG-E-V019-009 through RAG-E-V019-016, RAG-E-V019-020 | One acute episode does not establish a stable support rule or completed bereavement. | ADDED and supported in V019. |
 | RAG-CLM-069 | Kazuya shows improved support competence by combining tailored activity, cost-bearing action, recognition of concealment, and non-demanding presence. | STRONG_INFERENCE | RAG-E-V019-001 through RAG-E-V019-017 | His method is expensive, context-specific, and validated by one later self-report rather than a general test. | ADDED and supported in V019. |
 | RAG-CLM-070 | Chizuru directly reports that crying before Kazuya relieved severe loneliness while explicitly retaining the rental-girlfriend and non-boyfriend classification. | OBSERVATION | RAG-E-V019-020 | Relief does not reveal durable recovery, romantic motive, or future relationship choice. | ADDED and supported in V019. |
+| RAG-CLM-071 | The crowdfunded film reaches public exhibition and receives local applause, completing the delivery sequence without establishing wider distribution or career breakthrough. | OBSERVATION | RAG-E-V020-001 | One screening and audience response do not establish commercial or professional success. | ADDED and supported in V020. |
+| RAG-CLM-072 | Chizuru's acting commitment survives Sayuri's death as an explicitly self-endorsed vocation: she says production was enjoyable, acting is something she likes, and she expects to continue. | STRONG_INFERENCE | RAG-E-V020-002 | Intention and enjoyment do not guarantee a next role or stable career. | ADDED and supported in V020. |
+| RAG-CLM-073 | Unbooked ordinary access, professional reaccounting, gratitude, direct romantic inquiry, and renewed rental classification can coexist in one interaction without reducing to either pure service or established couplehood. | STRONG_INFERENCE | RAG-E-V020-009 through RAG-E-V020-018 | The sequence is shaped by bereavement aftermath, alcohol, and an unresolved question. | ADDED and supported in V020. |
+| RAG-CLM-074 | Mini's unauthorized romantic disclosure has a direct causal consequence when Chizuru cites it while asking Kazuya whether he likes her. | OBSERVATION | RAG-E-V020-015, RAG-E-V020-016 | Causal use does not validate Mini's interpretation or authorize the disclosure. | ADDED and supported in V020. |
+| RAG-CLM-075 | Kazuya converts internal love into personally identifying speech by naming Chizuru as his ideal girlfriend and beginning a direct declaration, but interruption prevents a completed mutual confession. | OBSERVATION | RAG-E-V020-019 through RAG-E-V020-021 | Chizuru's affected replay supplies no affirmative answer or final classification. | ADDED and supported in V020. |
+| RAG-CLM-076 | Mami can turn accumulated social information into legitimate-looking family access through Kibe and a business proposal while her desired endpoint remains opaque. | STRONG_INFERENCE | RAG-E-V020-022, RAG-E-V020-023 | Genuine work interest and instrumental access can coexist; sabotage or renewed romance is not established. | ADDED and supported in V020. |
 
 ## Competing hypotheses
 
@@ -223,9 +229,9 @@ state: CURRENT_THROUGH_V018__PREDICTIONS_FROZEN_FOR_V019
 
 ## Adjudications and revisions
 
-At the V019 horizon, RAG-PRED-069 through RAG-PRED-071 are supported and RAG-PRED-072 is disconfirmed. The rental request becomes a ten-hour date; the funded plan produces concrete activities and an effective support exchange; and Chizuru's controlled bereavement breaks into accepted crying followed by a direct report of relief. Ruka is absent, so her truce and requested outing receive no V019 consequence. V019 adds mixed commercial and sincere participation, permission-bearing recognition, improved support competence, and relief without romantic reclassification as RAG-CLM-067 through RAG-CLM-070.
+At the V020 horizon, RAG-PRED-073 through RAG-PRED-076 are supported. Public screening completes the film's exhibition route; Chizuru reopens the grief episode through refund, self-description, gratitude, and ordinary access; Mini's disclosure directly prompts Chizuru's question; and Kazuya turns internal love into personally identifying but interrupted speech. V020 adds public completion, continuing vocation, mixed ordinary and professional access, a Mini-triggered question, an incomplete direct confession, and Mami's active family-business route as RAG-CLM-071 through RAG-CLM-076.
 
-The V010 checkpoint remains the latest block synthesis and local reconstruction audit. V019 continues the next block without revising that historical checkpoint. Its close raises the live claim count to seventy and freezes four prospective tests for V020.
+The V010 checkpoint remains the latest block synthesis and local reconstruction audit until the V020 checkpoint transaction closes. V020 completes the authorized V011-V020 read and raises the live claim count to seventy-six. No V021 prediction set is frozen because V021 lies outside the authorized narrative run.
 
 ## Adjudicated predictions from the V012 boundary
 
@@ -326,14 +332,18 @@ The V010 checkpoint remains the latest block synthesis and local reconstruction 
 | RAG-PRED-071 | SUPPORTED | Chizuru's composure visibly cracks, she cries against Kazuya, and later reports severe loneliness and relief; RAG-E-V019-009 through RAG-E-V019-020. | The episode does not establish durable bereavement resolution. |
 | RAG-PRED-072 | DISCONFIRMED | Ruka is absent and the request and truce receive no scheduling, cooperation, conflict, status, or access consequence; RAG-E-V019-021. | A later consequence remains possible. |
 
-## Frozen predictions for V020
+## Adjudicated predictions from the V019 boundary
 
-| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+| Prediction ID | Adjudication | V020 basis | Limit |
 |---|---|---|---|
-| RAG-PRED-073 | The scheduled film screening will produce an observable attendance, performance, audience, grief, professional, or relationship consequence. | RAG-E-V017-005, RAG-E-V017-008, RAG-E-V019-019 | V020 supplies no consequence to the announced screening. |
-| RAG-PRED-074 | Chizuru's reported relief after crying will produce an observable change, continuation, denial, boundary, self-report, or support interaction. | RAG-E-V019-015, RAG-E-V019-016, RAG-E-V019-020 | V020 supplies no consequence to the V019 grief release. |
-| RAG-PRED-075 | Mini's direct inquiry and romantic interpretation will produce an observable disclosure, pressure, plan, misunderstanding, or relationship consequence. | RAG-E-V019-018 through RAG-E-V019-020 | V020 supplies no consequence to Mini's intervention. |
-| RAG-PRED-076 | Kazuya's explicit internal love and resolve to continue supporting Chizuru will produce an observable action, restraint, disclosure attempt, ordinary-date move, or conflict. | RAG-E-V019-017 through RAG-E-V019-019 | V020 supplies no consequence to that resolved position. |
+| RAG-PRED-073 | SUPPORTED | The scheduled film screens before an applauding audience, and Chizuru reaffirms acting as a continuing vocation; RAG-E-V020-001, RAG-E-V020-002. | Local reception does not establish wider career success. |
+| RAG-PRED-074 | SUPPORTED | Chizuru initiates an unbooked meeting, returns money, admits possible weakness, accepts an ordinary meal, and says the support helped; RAG-E-V020-009, RAG-E-V020-011 through RAG-E-V020-018. | The sequence does not establish durable bereavement recovery or couple status. |
+| RAG-PRED-075 | SUPPORTED | Chizuru explicitly cites Mini's disclosure while asking Kazuya whether he likes her; RAG-E-V020-015, RAG-E-V020-016. | The outcome does not validate Mini's theory or authorization. |
+| RAG-PRED-076 | SUPPORTED | Kazuya initiates ordinary food access, names Mizuhara as his ideal girlfriend, and begins a confession before interruption; RAG-E-V020-013, RAG-E-V020-019, RAG-E-V020-020. | The final proposition is incomplete and unanswered. |
+
+## Terminal prediction disposition
+
+No predictions are frozen for V021. The authorized sequential run ends at V020, and V021 narrative evidence remains inadmissible unless a later authorization opens a new transaction.
 
 ## Open evidence questions
 

@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-row_count: 98
-state: CURRENT_THROUGH_V018
+inspected_through_volume: V020
+row_count: 115
+state: CURRENT_THROUGH_V020
 ```
 ```
 
@@ -152,3 +152,9 @@ state: CURRENT_THROUGH_V018
 | RAG-PRG-107 | Kazuya-Chizuru access and trust | GAIN_WITHOUT_RECLASSIFICATION — Chizuru initiates role-framed touch, later seeks unpriced bodily support, and reports relief while retaining the non-boyfriend label. | Access becomes more personally consequential than the booking alone predicts. | Neither principal states mutual romance or a new relationship status. | RAG-E-V019-002, RAG-E-V019-015, RAG-E-V019-020 |
 | RAG-PRG-108 | Mini's intermediary role | INFORMATION_GAIN_WITH_PRESSURE_RISK — she moves from speculation based on Kazuya's guarded account to direct knowledge of Chizuru's experience. | A third party now knows the event's subjective effect. | Her couple-oriented reading may distort later pressure, and the principals have not discussed the report. | RAG-E-V019-018 through RAG-E-V019-020 |
 | RAG-PRG-109 | Ruka's truce and requested outing | STALL_BY_ABSENCE — Ruka and the promised consequence are absent from V019. | The support date advances while the provisional relationship remains unresolved. | Absence neither cancels the request nor predicts its later outcome. | RAG-E-V019-021 |
+| RAG-PRG-110 | Film delivery and exhibition | PUBLIC_COMPLETION_GAIN — the finished film reaches an applauding audience at the scheduled screening. | Crowdfunding, production, private bedside delivery, editing, and venue work culminate in public exhibition. | Local applause does not establish distribution, revenue, or career breakthrough. | RAG-E-V020-001 |
+| RAG-PRG-111 | Chizuru's acting route | GAIN_IN_SELF_AUTHORED_CONTINUITY — after public exhibition she says that production was enjoyable, acting is something she likes, and she expects to continue. | The vocation persists beyond Sayuri's death as a stated personal choice. | No next role or sustainable career outcome is shown. | RAG-E-V020-002 |
+| RAG-PRG-112 | Kazuya-Chizuru access and romantic knowledge | MAJOR_GAIN_WITH_INCOMPLETE_MUTUALITY — unbooked contact becomes an ordinary meal and direct like-question; Kazuya names Chizuru as his ideal girlfriend and begins a confession. | Access and shared romantic information pass prior thresholds. | The sentence is interrupted, Chizuru gives no answer, and she later avoids the exchange. | RAG-E-V020-009 through RAG-E-V020-021, RAG-E-V020-024 |
+| RAG-PRG-113 | Ruka trial and consent differentiation | BOUNDED_GAIN_WITH_STATUS_STALL — a rejected overnight proposal becomes a local outing, and a five-second hug occurs after explicit permission. | Request-and-answer conduct improves for the observed embrace. | One bounded success does not repair earlier violations or end nonreciprocity. | RAG-E-V020-005 through RAG-E-V020-008 |
+| RAG-PRG-114 | Mami's family route | REACTIVATED_ACCESS_WITH_OPAQUE_GOAL — Twitter contact, Kibe, a senior-app proposal, and Nagomi create an ongoing legitimate-looking channel. | Dormant research becomes direct family-business participation. | The work may be genuine, instrumental, or both; the desired endpoint is unknown. | RAG-E-V020-022, RAG-E-V020-023 |
+| RAG-PRG-115 | Ordinary repertoire | GAIN_WITH_CONTEXT_LIMITS — university resumption, a local bath, café accounting, family-restaurant dining, drinking, and campus-friend passage expand low-stakes settings. | The block ends with more ordinary conduct than crisis and production scenes alone supplied. | Romance pressure, alcohol, and unresolved deception still shape most sampled interactions. | RAG-E-V020-004 through RAG-E-V020-014, RAG-E-V020-024 |

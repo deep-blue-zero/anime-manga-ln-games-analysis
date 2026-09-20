@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-row_count: 88
-state: CURRENT_THROUGH_V018
+inspected_through_volume: V020
+row_count: 102
+state: CURRENT_THROUGH_V020
 ```
 
 ## Records
@@ -140,3 +140,7 @@ state: CURRENT_THROUGH_V018
 | RAG-TXN-096 | Kazuya and Chizuru; purchased outfit, activities, and meals | Kazuya funds a costly itinerary while Chizuru chooses an outfit and repeatedly challenges excess cost. | She accepts specific goods and experiences and continues after he explains his aim. | Spending creates no repayment duty beyond the agreed service and no romantic debt. | Enjoyment and provider labor coexist; RAG-E-V019-002 through RAG-E-V019-010. |
 | RAG-TXN-097 | Chizuru and Kazuya; differentiated touch across the date | Handholding is role-framed and initiated by Chizuru; armrest contact is incidental; stretching and feeding are activity or service acts; the grief embrace is initiated by Chizuru. | Each act has its own context, agency, and consent basis. | No one act generalizes permission to other touch or proves couple status. | The final bodily support exceeds routine activity while remaining nonsexual and unpriced; RAG-E-V019-002, RAG-E-V019-003, RAG-E-V019-007, RAG-E-V019-008, RAG-E-V019-015. |
 | RAG-TXN-098 | Chizuru and Kazuya; unpriced recognition and crying support | Kazuya asks for no confession or return when he names permitted sadness and receives her collapse. | Chizuru accepts his presence for prolonged grief and later reports relief. | Emotional benefit creates no debt, exclusive access, or automatic romantic reclassification. | The station reset and non-boyfriend statement preserve the boundary; RAG-E-V019-013 through RAG-E-V019-020. |
+| RAG-TXN-099 | Ruka and Kazuya; rejected travel and negotiated five-second hug | No prior labor, truce, or provisional label authorizes travel or touch. | Kazuya refuses the overnight proposal, accepts a local outing, and verbally permits the timed embrace. | Consent and refusal are act-specific; the hug does not authorize overnight or future contact. | One negotiated sequence coexists with unresolved status and earlier violations; RAG-E-V020-005 through RAG-E-V020-008. |
+| RAG-TXN-100 | Chizuru and Kazuya; refund after the ten-hour date | Chizuru regards crying as failure to deliver the paid role and returns money; Kazuya regards the unperformed response as the valuable result. | Both contest how professional failure and personal benefit should be priced. | Neither refund nor refusal of her accounting settles romance, debt, or provider standards generally. | The transaction is corrected while the emotional event remains real; RAG-E-V020-011, RAG-E-V020-012. |
+| RAG-TXN-101 | Chizuru and Kazuya; unbooked café extension and ordinary meal | Chizuru initiates the meeting, pays the café bill, and accepts Kazuya's invitation to inexpensive food without service or project terms. | Voluntary time, food, and relaxed conversation occur outside the rental contract. | Unpriced access creates no entitlement, standing schedule, or agreed date label. | Ordinary intimacy expands before Chizuru restores rental classification; RAG-E-V020-009, RAG-E-V020-012 through RAG-E-V020-018. |
+| RAG-TXN-102 | Chizuru and Kazuya; direct question and partly delivered confession | No payment or reciprocal-status promise governs Chizuru's question or Kazuya's answer attempt. | She asks whether he likes her; he identifies her as his ideal girlfriend and begins a longer declaration. | Honest speech does not compel a response, and interruption prevents a completed proposition. | Romantic information increases without a mutual agreement; RAG-E-V020-015 through RAG-E-V020-021. |

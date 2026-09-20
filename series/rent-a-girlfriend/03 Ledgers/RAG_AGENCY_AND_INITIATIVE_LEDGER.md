@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-row_count: 111
-state: CURRENT_THROUGH_V018
+inspected_through_volume: V020
+row_count: 132
+state: CURRENT_THROUGH_V020
 ```
 
 ## Records
@@ -167,3 +167,10 @@ state: CURRENT_THROUGH_V018
 | RAG-AGY-123 | Kazuya | Accept the restored smile, accuse Chizuru of concealment, or offer recognition without forced touch. | Identifies the smile as a wall and describes an ideal girlfriend who may cry, then receives rather than initiates contact. | Creates permission for grief while preserving Chizuru's bodily initiative. | One successful intervention does not prove universal accuracy or relationship entitlement; RAG-E-V019-011 through RAG-E-V019-017. |
 | RAG-AGY-124 | Chizuru | Continue denying need, withdraw, or accept support and later describe it. | Crosses the distance, clutches Kazuya while crying, later restores public control, and tells Mini that the release relieved severe loneliness. | Makes both support acceptance and her own interpretation directly observable. | She retains the non-boyfriend classification and does not disclose the report to Kazuya; RAG-E-V019-015, RAG-E-V019-016, RAG-E-V019-020. |
 | RAG-AGY-125 | Mini | Rely on Kazuya's guarded report or seek Chizuru's account directly. | Questions Kazuya, advances a romantic interpretation, then visits Chizuru and elicits her account. | Becomes an information intermediary across an event neither principal discusses directly together. | Her romantic theory is interested and Chizuru explicitly denies boyfriend status; RAG-E-V019-018 through RAG-E-V019-020. |
+| RAG-AGY-126 | Chizuru | Treat public exhibition as completion of an inherited duty or choose a continuing vocation. | Receives the screening audience, says production was enjoyable, and states that she likes acting and expects to continue. | Converts the family-linked film result into renewed first-person career agency. | Intention supplies no professional opportunity or guaranteed outcome; RAG-E-V020-001, RAG-E-V020-002. |
+| RAG-AGY-127 | Ruka | Preserve an overnight demand after refusal or seek narrower access. | Replaces the rejected trip with a local bath outing and asks for a five-second hug. | Redirects pursuit into two answerable, limited requests. | The trial and status pressure remain unresolved; RAG-E-V020-005 through RAG-E-V020-007. |
+| RAG-AGY-128 | Kazuya | Treat Ruka's requests as blanket access or answer each scope separately. | Refuses the overnight trip, accepts the local outing, and verbally permits the five-second embrace. | Gives differentiated answers rather than using guilt or status as the sole rule. | He still fails to address the provisional relationship while internally choosing Chizuru; RAG-E-V020-006 through RAG-E-V020-008. |
+| RAG-AGY-129 | Chizuru | Leave the crying episode unaddressed or reopen it under controlled terms. | Initiates an unbooked café meeting, returns money, admits possible weakness, accepts a meal extension, and asks whether Kazuya likes her. | Turns private aftermath into direct accounting and an answerable relationship question. | Alcohol and role language complicate the setting, and she supplies no romantic self-answer; RAG-E-V020-009, RAG-E-V020-011 through RAG-E-V020-016. |
+| RAG-AGY-130 | Kazuya | Accept the restored rental boundary or identify his intended person. | Invites Chizuru to eat, promises support, names her as his ideal girlfriend, and begins a direct confession. | Converts internal love into voluntary ordinary action and personally identifying speech. | Kibe interrupts before the final proposition, and no answer follows; RAG-E-V020-013, RAG-E-V020-019, RAG-E-V020-020. |
+| RAG-AGY-131 | Chizuru | Answer the partly delivered declaration, reject it, or control when it is discussable. | Replays it privately, says she must do something, then denies any exchange when Kazuya raises it before campus friends. | Preserves her control over response timing after a consequential hearing. | Avoidance does not identify acceptance, rejection, or final motive; RAG-E-V020-021, RAG-E-V020-024. |
+| RAG-AGY-132 | Mami | Leave family research dormant or create a legitimate-looking access route. | Contacts Kibe, pitches Nagomi an older-user app service, frames the work as career-related, and schedules follow-up. | Converts background information into active family and business access. | Her desired endpoint and candor remain unknown; RAG-E-V020-022, RAG-E-V020-023. |

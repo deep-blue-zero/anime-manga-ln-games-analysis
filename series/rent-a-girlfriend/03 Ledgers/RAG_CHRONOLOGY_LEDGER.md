@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-row_count: 75
-state: CURRENT_THROUGH_V018
+inspected_through_volume: V020
+row_count: 88
+state: CURRENT_THROUGH_V020
 ```
 
 ## Records
@@ -126,3 +126,7 @@ state: CURRENT_THROUGH_V018
 | RAG-CHR-082 | RAG-E-V019-001 through RAG-E-V019-010 | On September 24, Chizuru and Kazuya begin a ten-hour Shinjuku-sanchome booking and proceed through clothing, film, restaurant, bouldering, crab dinner, and sparklers. | The date and activity order are directly represented. | Exact clock durations for individual activities are unavailable. |
 | RAG-CHR-083 | RAG-E-V019-011 through RAG-E-V019-017 | Near the date's end, Chizuru's controlled presentation breaks; she cries against Kazuya for roughly ten minutes, then resets and says goodbye at the station. | Breakdown, duration estimate, and station aftermath are ordered in one continuous evening. | The precise start and end times are unstated. |
 | RAG-CHR-084 | RAG-E-V019-018 through RAG-E-V019-020 | After the date, Mini questions Kazuya and then Chizuru; Chizuru also continues ordinary preparation for the coming screening. | Inquiry follows the crying event and precedes the still-future public screening. | Exact day and interval among these follow-up scenes are not securely stated. |
+| RAG-CHR-085 | RAG-E-V020-001 through RAG-E-V020-003 | The announced public screening occurs before Chizuru's backstage vocational reaffirmation and Kibe's meeting with Mami. | Screening, backstage conversation, and the chapter-ending Kibe route are ordered. | Exact calendar date and elapsed interval among venues are not stated. |
+| RAG-CHR-086 | RAG-E-V020-004 through RAG-E-V020-008 | On October 2 university resumes and Ruka raises her request at karaoke; the next day she and Kazuya visit nearby Hisamatsuyu after the bounded hug agreement. | October 2 and the next-day relation are explicit. | Exact work shift, hug, and bath clock times are unstated. |
+| RAG-CHR-087 | RAG-E-V020-009 through RAG-E-V020-021 | Chizuru arranges a Saturday café meeting that extends into Saizeriya and a walk home; her direct question precedes Kazuya's interrupted confession, private replay, and return to her room. | Same-day ordering and the interruption are continuous. | The Saturday date and exact duration of the meal are unstated. |
+| RAG-CHR-088 | RAG-E-V020-022 through RAG-E-V020-025 | Mami's Twitter contact with Kibe leads to the Nagomi app meeting and a later campus encounter with Kazuya; Kazuya then encounters Chizuru and her friends. | Contact, meeting, and campus convergence are narrated in that order. | Exact dates and the interval between the business meeting and campus encounters are not secure. |

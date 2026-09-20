@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-row_count: 92
-state: CURRENT_THROUGH_V018
+inspected_through_volume: V020
+row_count: 109
+state: CURRENT_THROUGH_V020
 ```
 ```
 
@@ -146,3 +146,9 @@ state: CURRENT_THROUGH_V018
 | RAG-REL-101 | Chizuru → Kazuya | Provider who accepts bounded personal grief support | Participates actively, thanks him, crosses the distance during collapse, then restores public control and retains the non-boyfriend classification. | She chooses bodily reliance beyond ordinary performance without supplying romantic reclassification. | Motive and durability remain mixed; her direct relief report goes to Mini, not Kazuya. | RAG-E-V019-002 through RAG-E-V019-006, RAG-E-V019-015, RAG-E-V019-016, RAG-E-V019-020 |
 | RAG-REL-102 | Mini ↔ Chizuru | Romantic intermediary becoming a direct confidant | Mini seeks Chizuru's account and hears both the rental boundary and the subjective relief. | Their information relation becomes consequential to the central pair's interpretation. | Mini's broader reliability and use of the disclosure remain untested. | RAG-E-V019-018 through RAG-E-V019-020 |
 | RAG-REL-103 | Ruka → Kazuya / Chizuru | Provisional girlfriend relation stalled offstage | Neither Ruka nor a consequence to her truce and requested outing appears. | The trial remains an unresolved obligation while Kazuya completes the Chizuru booking. | No V019 evidence shows her knowledge, response, or changed status. | RAG-E-V019-021 |
+| RAG-REL-104 | Kazuya ↔ Chizuru | Former project partners entering voluntary ordinary access | Chizuru initiates a café meeting; Kazuya extends it to food; they choose Saizeriya and remain together through a relaxed meal. | Direct contact now supports unbooked time without project, family, or service necessity. | Neither labels the extension a romantic date or grants standing access. | RAG-E-V020-009, RAG-E-V020-013, RAG-E-V020-014 |
+| RAG-REL-105 | Chizuru → Kazuya | Grateful provider directly testing his romantic classification | Returns money, admits possible weakness, invokes Mini and Ruka, and asks whether he likes her. | She moves from third-party knowledge and role framing to an answerable direct question. | She does not state her own romantic answer and later reasserts the rental role. | RAG-E-V020-011, RAG-E-V020-012, RAG-E-V020-015 through RAG-E-V020-018 |
+| RAG-REL-106 | Kazuya → Chizuru | Direct but interrupted romantic declarant | Says his grief speech was sincere, identifies Mizuhara as his ideal girlfriend, and begins saying he has long felt something toward her. | His love becomes partly shared information rather than internal narration. | Kibe interrupts the sentence and Chizuru supplies no answer. | RAG-E-V020-019 through RAG-E-V020-021 |
+| RAG-REL-107 | Ruka → Kazuya | Provisional girlfriend receiving negotiated local access | Accepts refusal of an overnight trip, obtains a local bath outing and five-second hug, and seeks ordinary recognition afterward. | Pursuit produces one explicit request-and-permission sequence. | Kazuya remains in love with Chizuru, and the trial remains nonreciprocal and unresolved. | RAG-E-V020-005 through RAG-E-V020-008 |
+| RAG-REL-108 | Mami ↔ Kibe / Nagomi | Former partner entering the Kinoshita network as a prospective business collaborator | Contacts Kibe and pitches Nagomi a smartphone-support service for older users. | A socially legitimate work relation now gives Mami direct family access. | Kibe and Nagomi lack the known full relationship history, and Mami's endpoint is withheld. | RAG-E-V020-022 |
+| RAG-REL-109 | Mami → Kazuya | Former partner requesting secrecy inside renewed practical access | Frames the app as future-oriented work, asks that their past remain private, and promises follow-up. | Their old intimacy becomes concealed context for an active family-business route. | No renewed romance or explicit sabotage goal is established. | RAG-E-V020-023 |

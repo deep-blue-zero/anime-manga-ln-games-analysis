@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-row_count: 94
-state: CURRENT_THROUGH_V018
+inspected_through_volume: V020
+row_count: 112
+state: CURRENT_THROUGH_V020
 ```
 
 ## Records
@@ -148,3 +148,9 @@ state: CURRENT_THROUGH_V018
 | RAG-INF-104 | Chizuru identifies the date's bereavement purpose and tells Kazuya that the projector reached Sayuri and that he has done enough. | She questions the elaboration, thanks him, and relays Sayuri's praise. | Kazuya receives direct confirmation of the bedside act's value and her resistance to added debt. | She does not yet state the depth of her loneliness; RAG-E-V019-004 through RAG-E-V019-006. |
 | RAG-INF-105 | Kazuya communicates precise recognition through the ideal-girlfriend speech but states his love only internally. | Chizuru hears the description and responds with tears; the love statement remains in narration. | Recognition becomes shared while romantic self-classification remains private. | Chizuru's interpretation of the speech is reported only later to Mini; RAG-E-V019-013 through RAG-E-V019-017. |
 | RAG-INF-106 | Mini learns that Kazuya is not Chizuru's boyfriend and that crying relieved unbearable loneliness. | Chizuru gives Mini the direct account after Kazuya withholds details. | Mini gains unique access to Chizuru's interpretation while the principals still lack mutual discussion of it. | Mini's romantic inference is not validated, and Kazuya does not hear the report; RAG-E-V019-018 through RAG-E-V019-020. |
+| RAG-INF-107 | The film has reached a public audience and Chizuru intends to continue acting. | Kazuya, Chizuru, and attendees observe the screening and applause; Kazuya hears her backstage self-report. | Project completion and vocational continuation become shared facts rather than plans. | Public reception does not establish later employment or fame; RAG-E-V020-001, RAG-E-V020-002. |
+| RAG-INF-108 | Kazuya and Ruka share the differentiated terms of travel, local access, and a five-second embrace. | He refuses the overnight proposal, accepts Hisamatsuyu, and says he permits the timed hug. | The pair possess a common scope for the contact that follows. | Shared terms do not resolve status or generalize consent; RAG-E-V020-006 through RAG-E-V020-008. |
+| RAG-INF-109 | Chizuru tells Kazuya that she regards the crying as professional failure and may be a little weak; he tells her it was real and helpful. | Their unbooked café meeting reopens the episode through refund and direct disagreement. | Information previously divided between Chizuru, Mini, and Kazuya becomes partly mutual. | Kazuya still does not hear Chizuru's full V019 loneliness report; RAG-E-V020-011, RAG-E-V020-012. |
+| RAG-INF-110 | Chizuru reveals that Mini told her Kazuya likes her and asks him directly whether it is true. | She cites the ideal-girlfriend speech, Mini, Ruka, and the customer relation. | Mini's unauthorized interpretation becomes common knowledge and triggers a direct answer threshold. | Chizuru gives no reciprocal classification; RAG-E-V020-015, RAG-E-V020-016. |
+| RAG-INF-111 | Kazuya tells Chizuru that the speech was sincere and that Mizuhara is his ideal girlfriend, then begins an unfinished declaration she hears. | His direct speech is interrupted by Kibe, and Chizuru later replays it privately. | Romantic self-knowledge becomes partially shared rather than wholly internal. | The sentence is incomplete, unanswered, and later publicly denied as an event; RAG-E-V020-019 through RAG-E-V020-021, RAG-E-V020-024. |
+| RAG-INF-112 | Mami, Kibe, Nagomi, and Kazuya acquire different pieces of the app route while Mami asks that her past with Kazuya remain private. | Twitter contact produces a business meeting, direct pitch, campus explanation, secrecy request, and promised follow-up. | An old relationship secret now conditions a current family-business channel. | Kibe and Nagomi's knowledge of the prior romance is unclear, and Mami's endpoint remains unknown; RAG-E-V020-022, RAG-E-V020-023. |

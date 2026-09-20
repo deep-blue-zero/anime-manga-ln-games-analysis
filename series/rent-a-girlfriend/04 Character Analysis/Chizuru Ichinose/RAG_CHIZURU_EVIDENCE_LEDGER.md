@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; character evidence inspected through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; character evidence inspected through V020."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V019
+inspected_through_volume: V020
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -132,6 +132,12 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E090 | CHI-S021 | RAG-E-V019-011 through RAG-E-V019-016 | Controlled grief, self-initiated support, and public reset | Covers trembling with a smoke explanation, later fails to contain tears, crosses the distance, clutches Kazuya, cries for both grandparents, and restores composure at the station. | Chooses bodily reliance after precise recognition while retaining control over initiation and later presentation. | The episode is nonsexual and supplies no confession or relationship label. | RAG-CHI-R003, RAG-CHI-R009, RAG-CHI-R014, RAG-CHI-R015 |
 | RAG-CHI-E091 | CHI-S021 | RAG-E-V019-019 | Ordinary continuity after acute grief | Discusses the coming screening and clothing in neighbor space without volunteering the crying episode. | Returns to practical vocational conduct while controlling disclosure. | Silence does not prove shame, regret, performance, or emotional reversal. | RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R015 |
 | RAG-CHI-E092 | CHI-S021 | RAG-E-V019-020 | Direct report of loneliness, relief, and retained classification | Tells Mini that Kazuya is not her boyfriend, recounts his speech, says she felt so lonely she might die, and reports feeling refreshed after crying before someone. | Supplies first-person confirmation that the support mattered without abandoning the rental boundary. | One report does not establish durable recovery, romantic motive, or what she will tell Kazuya. | RAG-CHI-R003, RAG-CHI-R013, RAG-CHI-R015 |
+| RAG-CHI-E093 | CHI-S022 | RAG-E-V020-001, RAG-E-V020-002 | Public film reception and self-endorsed vocational continuity | Receives audience applause, bows, says filmmaking was extremely enjoyable, and states that she likes acting and expects to continue. | Reclaims the career as present personal choice after the family promise reaches exhibition. | Intent and local reception do not establish a next role or stable livelihood. | RAG-CHI-R007, RAG-CHI-R009, RAG-CHI-R010, RAG-CHI-R016 |
+| RAG-CHI-E094 | CHI-S022 | RAG-E-V020-009 through RAG-E-V020-012 | Self-initiated ordinary access and professional reaccounting | Invites Kazuya directly, returns money because crying felt like service failure, admits possible weakness, pays the café bill, and jokes about the tears. | Reopens the grief event on terms she can account for rather than leaving it silent. | Refund and humor preserve classification control but do not reveal full motive. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R007, RAG-CHI-R015 |
+| RAG-CHI-E095 | CHI-S022 | RAG-E-V020-013, RAG-E-V020-014 | Unbooked meal and lowered ordinary register | Accepts Kazuya's food invitation, rejects unnecessary expense, chooses Saizeriya, drinks, laughs, and orders freely. | Adds voluntary low-cost time and relaxed conduct outside project or service terms. | Alcohol affects presentation, and the meal is not explicitly classified as romantic. | RAG-CHI-R003, RAG-CHI-R004, RAG-CHI-R016 |
+| RAG-CHI-E096 | CHI-S022 | RAG-E-V020-015 through RAG-E-V020-018 | Direct inquiry followed by role restoration | Asks whether Kazuya likes her, cites Mini, Ruka, the customer relation, and his ideal-girlfriend speech, then says she will continue as rental girlfriend until he finds someone. | Converts third-party information into direct testing while retaining a fallback classification. | The sequence gives no affirmative self-report and dessert interrupts the first answer threshold. | RAG-CHI-R003, RAG-CHI-R007, RAG-CHI-R013, RAG-CHI-R016 |
+| RAG-CHI-E097 | CHI-S022 | RAG-E-V020-019 through RAG-E-V020-021 | Hearing a personally identifying but incomplete declaration | Hears Kazuya call her his ideal girlfriend and begin “for a long time,” then privately replays the words, hides, and says she must do something. | His feeling becomes consequential information rather than Mini's interpretation alone. | Affect does not identify acceptance, rejection, or a settled romantic conclusion. | RAG-CHI-R003, RAG-CHI-R013, RAG-CHI-R016 |
+| RAG-CHI-E098 | CHI-S022 | RAG-E-V020-024, RAG-E-V020-025 | Public avoidance after private activation | Tells Kazuya nothing happened when he raises the exchange before her campus friends and walks on with a sigh. | Restores audience control while leaving the private response unresolved. | Campus presentation and peer presence may constrain speech; avoidance is not an answer. | RAG-CHI-R001, RAG-CHI-R003, RAG-CHI-R016 |
 
 ## State-change summary
 
@@ -156,6 +162,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S019 — family-purpose actor under terminal-risk truth conflict:** coordinates a dated accessible screening, reaffirms acting as chosen, waits for and thanks Kazuya again, receives Sayuri's critical prognosis, and reapplies comfort-first ethics while visible strain complicates her no-regret account.
 - **CHI-S020 — bereaved granddaughter after partial truth and final recognition:** receives the unfinished film at Sayuri's bedside, attempts the central relationship correction, exchanges final reciprocal love, then carries grief through overnight vigil, funeral duty, controlled smiling, and an immediate refusal of help.
 - **CHI-S021 — bereaved provider after accepted grief release:** accepts and actively shapes a ten-hour booking, recognizes and questions its care purpose, experiences real pleasure and family-memory breaches, initiates prolonged bodily support, then directly reports severe loneliness and relief while retaining the non-boyfriend classification.
+- **CHI-S022 — continuing actor and direct questioner under incomplete romantic information:** receives public film exhibition, reaffirms acting as her own choice, initiates unbooked contact, reaccounts for the crying, accepts ordinary food and wine, asks whether Kazuya likes her, hears his partly delivered answer, and later avoids public discussion without supplying a final classification.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
@@ -187,17 +194,18 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - V017 joins chosen vocation, accessible family exhibition planning, and repeated gratitude to a terminal-risk truth decision; controlled no-regret speech coexists with tears and clenched posture without supplying a single hidden motive (RAG-E-V017-005, RAG-E-V017-011 through RAG-E-V017-017).
 - V018 shows that comfort-first ethics can still yield a central factual correction when Sayuri regains consciousness. Final love is direct, while post-death `fine` speech and smiling remain visibly incomplete accounts of grief (RAG-E-V018-002 through RAG-E-V018-011).
 - V019 makes that incompleteness actionable: family cues breach her composure, Kazuya's recognition permits a self-initiated crying episode, and her later report to Mini confirms both severe loneliness and relief while preserving professional classification (RAG-E-V019-009 through RAG-E-V019-020).
+- V020 makes direct romantic information consequential without completing it: Chizuru initiates ordinary access, asks whether Kazuya likes her, hears him identify her as his ideal girlfriend, privately replays the interrupted declaration, and later prevents a public discussion before friends (RAG-E-V020-009 through RAG-E-V020-024).
 
 ## Gaps and negative evidence
 
-- V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason, V010 supplies another stage opportunity and explicit work pride, and V012 supplies the detailed origin and a film-project request, but sustained vocational outcome remains sparse.
+- V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason, V010 supplies another stage opportunity and explicit work pride, V012 supplies the detailed origin and film request, and V020 supplies public exhibition plus a continuing-vocation statement, but sustained professional outcome remains sparse.
 - She knows the rescue occurred, but gives no direct private evaluation of Kazuya's motive or her own feeling.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
 - No broad rule yet supports behavior with close friends, teachers, coworkers beyond Umi, or a mutually acknowledged partner.
 - The ledger supports no split-personality reading between “Mizuhara” and “Ichinose.”
-- Kazuya's preference and support are direct, and Chizuru accepts a gift, provides unpaid care, chooses bodily grief support, and reports relief, but no reciprocal romantic feeling or relationship transition may be supplied.
-- Film collaboration now includes completed principal photography, direct family-purpose disclosure, editing, a September 30 plan, an inspected accessible venue, unfinished bedside projection, and continued screening preparation; it does not supply a finished public screening, public career result, or mutual romantic reclassification.
+- Kazuya's preference and support are direct, and Chizuru accepts a gift, provides unpaid care, chooses bodily grief support, reports relief, asks whether he likes her, and hears a partly delivered direct answer, but no reciprocal romantic feeling or relationship transition may be supplied.
+- Film collaboration now includes completed principal photography, family-purpose disclosure, private bedside projection, finished public screening, applause, and Chizuru's intention to continue acting; it does not supply wider public career results or mutual romantic reclassification.
 
 ## Update rule
 

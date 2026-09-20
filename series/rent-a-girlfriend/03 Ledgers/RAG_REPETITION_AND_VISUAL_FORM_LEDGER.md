@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V019; inspected and closed through V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V018
-row_count: 93
-state: CURRENT_THROUGH_V018
+inspected_through_volume: V020
+row_count: 110
+state: CURRENT_THROUGH_V020
 ```
 
 ## Records
@@ -146,3 +146,9 @@ state: CURRENT_THROUGH_V018
 | RAG-FRM-102 | Elder-child imagery and sparklers turn entertainment into a family-memory breach. | Ordinary visual resemblance leads into Sayuri and Katsuhito recollection, trembling, and the smoke explanation. | Repetition converts a bright activity into evidence against the restored smile's completeness. | Memory association does not establish a stable later trigger pattern; RAG-E-V019-009 through RAG-E-V019-011. |
 | RAG-FRM-103 | The ideal-girlfriend speech repeats familiar praise while adding a permission-bearing final clause. | Kazuya lists beauty, style, kindness, firmness, and smiles, then names crying when truly sad as part of the same ideal. | The revised formula recognizes vulnerability without opposing it to valued strength. | The theatrical device does not state love aloud or guarantee accurate interpretation; RAG-E-V019-012 through RAG-E-V019-014. |
 | RAG-FRM-104 | Prolonged crying pages, bodily collapse, station reset, and later self-report separate release from status change. | Sparse speech and repeated sobbing give way to restored composure, then Chizuru's verbal account to Mini. | Form makes the release undeniable while preserving the discontinuity between private support and public classification. | Duration and contrast do not prove durable recovery or romance; RAG-E-V019-015 through RAG-E-V019-020. |
+| RAG-FRM-105 | Theater screen, audience applause, and backstage brightness convert the family project into public vocation. | The completed film moves from screen to bow to Chizuru's statement that acting was enjoyable. | Exhibition form links collective reception to a continuing personal choice. | Applause is not a career contract or romantic validation; RAG-E-V020-001, RAG-E-V020-002. |
+| RAG-FRM-106 | Envelope, café bill, cheap restaurant, and extra orders rework transaction into ordinary time. | Chizuru returns money, covers the café charge, rejects waste, and becomes relaxed over food and wine. | Repeated prices make changing terms visible without pretending money has disappeared from the relation. | Lower cost and unbooked time do not define the meeting as romance; RAG-E-V020-011 through RAG-E-V020-014. |
+| RAG-FRM-107 | Repeated direct questions are interrupted by dessert service. | Chizuru asks whether Kazuya likes her, adds Mini and role context, asks again, and the server arrives before his answer. | Mundane service timing turns a decisive dialogue into deferred information. | Interruption supplies no answer from either principal; RAG-E-V020-015 through RAG-E-V020-017. |
+| RAG-FRM-108 | Stairway distance and Kibe's car interrupt a confession at the point of completion. | Kazuya names Mizuhara as his ideal girlfriend and begins “for a long time,” but a horn and Kibe's arrival break the sequence. | The form permits direct identification while withholding a completed mutual exchange. | Chizuru hears the fragment, but no full proposition or response occurs; RAG-E-V020-019, RAG-E-V020-020. |
+| RAG-FRM-109 | Private replay and public denial stage unequal registers around the same speech. | Chizuru hides under bedding and repeats Kazuya's words, then later says nothing happened before campus friends. | Interior aftermath and audience-facing control make consequential hearing visible without verbal resolution. | Blush, concealment, and sigh do not uniquely identify romantic acceptance; RAG-E-V020-021, RAG-E-V020-024. |
+| RAG-FRM-110 | App diagrams, an elderly-user book, messages, and a three-face close turn information access into a threat-shaped montage. | Mami's apparently practical proposal is followed by secrecy language and final juxtaposition with Kazuya and Chizuru. | Interface and montage reactivate a former-partner route beside the stalled confession. | Juxtaposition cannot prove sabotage, shared knowledge, or a specific future act; RAG-E-V020-022 through RAG-E-V020-025. |
