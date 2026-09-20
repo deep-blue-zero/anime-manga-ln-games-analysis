@@ -14,9 +14,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0118
+## Current state — founded units synchronized through EVENT_0119
 
-All five human units now track the same continuous event history through `EVENT_0118`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0118 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0119`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0119 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -225,7 +225,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0116–0140 continuation — EVENT_0118 committed boundary
+### EVENT_0116–0140 continuation — EVENT_0119 committed boundary
+
+**EVENT_0119 is fully integrated:** Wonderlands×Showtime is PRIMARY/VERY HIGH. New I3 `WXS-EP-RUI-E0119` records medium-aware, performer-specific diagnosis and Rui's capacity to treat a better executed solution as knowledge. New bounded `WXS-REL-RUI-OHARA-E0119` records supervised production work, convergent diagnosis, credit, result receipt, and an open return channel. The verified envelope is 23 stories / 37 scenes / 1,363 records. No film mastery, formal employment, permanent apprenticeship, universal rule that silence is superior, completed future collaboration, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0118 to EVENT_0119. EVENT_0120 is next and 21 events remain through EVENT_0140.
+
+The [EVENT_0119 reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0119_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared authority. This is event 4 of 25 in the EVENT_0116–0140 continuation.
+
+### Historical continuation — EVENT_0118 committed boundary
 
 **EVENT_0118 is fully integrated:** Vivid BAD SQUAD is PRIMARY/VERY HIGH. New bounded I3 `EPI-VBS-SEKAI-E0118` records the expanded Street SEKAI as a shared but incomplete map of the quartet's inherited benchmark and wider horizon. Four distinct memory routes converge on a collective inscription goal while existing human operatives, group authority, and Street-singer identities remain separate. The verified envelope is 35 stories / 62 scenes / 1,667 records. No surpassed RAD WEEKEND, destroyed wall, achieved world standing, literal Nagi survival, restored coalition, solved grief, decoded sprout, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0117 to EVENT_0118. EVENT_0119 is next and 22 events remain through EVENT_0140.
 
@@ -545,13 +551,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0118`. The expanded Street SEKAI becomes a bounded shared epistemic owner while existing VBS human and relationship authorities remain in force. `EVENT_0119` is next; 22 events remain through `EVENT_0140`.
+`ANALYSIS_CURRENT` is `EVENT_0119`. Rui's medium-aware direction operative and bounded Ohara professional relationship are integrated from the completed film production. `EVENT_0120` is next; 21 events remain through `EVENT_0140`.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0118` for all five human units. The EVENT_0116–0140 continuation is active with 22 events remaining.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0119` for all five human units. The EVENT_0116–0140 continuation is active with 21 events remaining.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0118_DEEP_READING.md) closes `EVENT_0118 — BREAK DOWN THE WALL`, bucket `RB_20240109T110000Z`: 35 stories / 62 scenes / 1,667 records. The expanded Street SEKAI becomes a bounded shared epistemic owner while existing VBS human and relationship authorities remain in force.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0119_DEEP_READING.md) closes `EVENT_0119 — 逆光のレンズフレア`, bucket `RB_20240123T060000Z`: 23 stories / 37 scenes / 1,363 records. Rui's medium-aware direction operative and bounded Ohara professional relationship are integrated from the completed film production.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
