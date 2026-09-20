@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V020
-row_count: 115
-state: CURRENT_THROUGH_V020
+inspected_through_volume: V021
+row_count: 121
+state: CURRENT_THROUGH_V021
 ```
 ```
 
@@ -158,3 +158,9 @@ state: CURRENT_THROUGH_V020
 | RAG-PRG-113 | Ruka trial and consent differentiation | BOUNDED_GAIN_WITH_STATUS_STALL — a rejected overnight proposal becomes a local outing, and a five-second hug occurs after explicit permission. | Request-and-answer conduct improves for the observed embrace. | One bounded success does not repair earlier violations or end nonreciprocity. | RAG-E-V020-005 through RAG-E-V020-008 |
 | RAG-PRG-114 | Mami's family route | REACTIVATED_ACCESS_WITH_OPAQUE_GOAL — Twitter contact, Kibe, a senior-app proposal, and Nagomi create an ongoing legitimate-looking channel. | Dormant research becomes direct family-business participation. | The work may be genuine, instrumental, or both; the desired endpoint is unknown. | RAG-E-V020-022, RAG-E-V020-023 |
 | RAG-PRG-115 | Ordinary repertoire | GAIN_WITH_CONTEXT_LIMITS — university resumption, a local bath, café accounting, family-restaurant dining, drinking, and campus-friend passage expand low-stakes settings. | The block ends with more ordinary conduct than crisis and production scenes alone supplied. | Romance pressure, alcohol, and unresolved deception still shape most sampled interactions. | RAG-E-V020-004 through RAG-E-V020-014, RAG-E-V020-024 |
+| RAG-PRG-116 | Kazuya's professional access | NETWORK_GAIN_WITH_UNCERTAIN_DURABILITY — Chizuru brings him to an acting party, Umi introduces and posts him as producer, and they exchange contact. | The completed film now produces visible access beyond the original team. | One party and post do not establish continuing work or belonging. | RAG-E-V021-002 through RAG-E-V021-006 |
+| RAG-PRG-117 | Kazuya-Chizuru romantic classification | PRESSURE_GAIN_WITH_EXECUTION_STALL — Umi's phrase probe and Chizuru's conditional partner account increase information, while Kazuya repeatedly plans but fails to complete a confession. | The pair can discuss partnership and indirect feeling more openly than before. | Chizuru gives no current romantic self-classification and Kazuya's decisive speech remains absent. | RAG-E-V021-006 through RAG-E-V021-010, RAG-E-V021-013, RAG-E-V021-022 |
+| RAG-PRG-118 | Ruka trial and consent | ETHICAL_CORRECTION_ATTEMPT_WITH_STATUS_REGRESSION — Kazuya explicitly withdraws and apologizes, but Ruka refuses, physically pressures him, and declares continued rule violations. | Nonreciprocity is now mutually explicit and Kazuya no longer presents the trial as viable. | The label remains contested and contact pressure increases. | RAG-E-V021-011, RAG-E-V021-012, RAG-E-V021-022 |
+| RAG-PRG-119 | Mami's family and Chizuru routes | EVIDENCE_CONSOLIDATION_AND_DIRECT_INTERVENTION — public project data and apartment residue support a direct meeting, alliance claim, and Nagomi call. | Mami moves from plausible access to coordinated pressure across principal and family audiences. | Her final motive, proposed method, and call content remain unknown. | RAG-E-V021-001, RAG-E-V021-018 through RAG-E-V021-024 |
+| RAG-PRG-120 | Deception-correction pressure | MAJOR_PRESSURE_INCREASE — Chizuru identifies leakage, Kibe makes honesty a duty to Nagomi, and Mami offers to end the arrangement. | Multiple routes now converge on correction of the public couple account. | No full disclosure occurs, and each actor holds a different information set. | RAG-E-V021-014 through RAG-E-V021-021 |
+| RAG-PRG-121 | Kazuya's ordinary functioning | REGRESSION_UNDER_RELATIONSHIP_PRESSURE — repeated confession rehearsal, increased Ruka messaging, and a displayed score decline make immediate functional cost visible. | Romantic and deception strain now affects study performance in the sampled interval. | One score comparison cannot establish a durable academic decline or isolate one cause. | RAG-E-V021-022 |

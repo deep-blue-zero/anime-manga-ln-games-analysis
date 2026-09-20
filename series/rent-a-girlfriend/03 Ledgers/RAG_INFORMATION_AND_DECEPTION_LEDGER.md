@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V020
-row_count: 112
-state: CURRENT_THROUGH_V020
+inspected_through_volume: V021
+row_count: 120
+state: CURRENT_THROUGH_V021
 ```
 
 ## Records
@@ -154,3 +154,11 @@ state: CURRENT_THROUGH_V020
 | RAG-INF-110 | Chizuru reveals that Mini told her Kazuya likes her and asks him directly whether it is true. | She cites the ideal-girlfriend speech, Mini, Ruka, and the customer relation. | Mini's unauthorized interpretation becomes common knowledge and triggers a direct answer threshold. | Chizuru gives no reciprocal classification; RAG-E-V020-015, RAG-E-V020-016. |
 | RAG-INF-111 | Kazuya tells Chizuru that the speech was sincere and that Mizuhara is his ideal girlfriend, then begins an unfinished declaration she hears. | His direct speech is interrupted by Kibe, and Chizuru later replays it privately. | Romantic self-knowledge becomes partially shared rather than wholly internal. | The sentence is incomplete, unanswered, and later publicly denied as an event; RAG-E-V020-019 through RAG-E-V020-021, RAG-E-V020-024. |
 | RAG-INF-112 | Mami, Kibe, Nagomi, and Kazuya acquire different pieces of the app route while Mami asks that her past with Kazuya remain private. | Twitter contact produces a business meeting, direct pitch, campus explanation, secrecy request, and promised follow-up. | An old relationship secret now conditions a current family-business channel. | Kibe and Nagomi's knowledge of the prior romance is unclear, and Mami's endpoint remains unknown; RAG-E-V020-022, RAG-E-V020-023. |
+| RAG-INF-113 | Kazuya learns that Mami and Nagomi have met repeatedly and that Nagomi accepts Mami's alcohol-incident account. | Nagomi supplies the information directly while treating Mami as a credible app contact. | Mami's family access is no longer only a promised follow-up. | Kazuya still lacks evidence of her endpoint and cannot correct Nagomi with a complete account; RAG-E-V021-001. |
+| RAG-INF-114 | Chizuru's acting network learns Kazuya's producer role, and Kazuya receives public professional recognition. | Umi introduces him, Chizuru affirms the account, and Umi posts their photograph. | Previously local project labor becomes socially legible outside the crowdfunding team. | Visibility does not create continuing industry membership; RAG-E-V021-002 through RAG-E-V021-005. |
+| RAG-INF-115 | Umi and Kazuya share an interpretation of Chizuru's `好きじゃなくもない`, while Chizuru knows they have discussed it. | Umi probes, Kazuya interprets, Chizuru deflects, and Umi requests a private follow-up. | Chizuru's earlier qualified answer becomes distributed romantic information. | The men's reading is not her final answer and the private talk is withheld; RAG-E-V021-006, RAG-E-V021-007. |
+| RAG-INF-116 | Kazuya and Ruka now share his explicit withdrawal, love for Chizuru, and lack of romantic feeling for Ruka. | He states all three propositions during the breakup request; she says she already knows and refuses. | The relation's nonreciprocity is fully explicit between them. | Shared knowledge does not produce a shared status label or authorize continued intimacy; RAG-E-V021-010 through RAG-E-V021-012. |
+| RAG-INF-117 | Chizuru reconstructs that Mami likely saw her bag in Kazuya's room and shares the inference with Kazuya. | Item timing and prior apartment access support the deduction and a mutual-watch proposal. | The principals now know that Mami may possess evidence of continued private access. | At this point it remains an inference, later confirmed only in Mami's separate meeting with Chizuru; RAG-E-V021-014, RAG-E-V021-015. |
+| RAG-INF-118 | Kibe knows Kazuya prefers Chizuru but still believes they form a genuine couple; he does not know the rental history. | Kazuya answers his direct preference question, and Kibe gives relationship and family-truth advice from the public premise. | Accurate preference information enters an otherwise false model. | His moral counsel cannot be treated as informed approval of the deception; RAG-E-V021-016, RAG-E-V021-017. |
+| RAG-INF-119 | Mami has public crowdfunding evidence, apartment-bag evidence, and former-partner information that Chizuru did not know. | She shows or cites the project page, confirms seeing the bag, and narrates her prior relation before offering alliance. | Separate public and private traces become a direct coherence challenge to Chizuru. | Mami's self-report is interested evidence and does not make her omniscient; RAG-E-V021-018 through RAG-E-V021-021. |
+| RAG-INF-120 | Mami and Nagomi have a direct communication route, while Kazuya and Chizuru separately know the family channel is dangerous but not what the final call contains. | Mami calls Nagomi after Chizuru receives her own Nagomi contact and considers helping Kazuya. | The information threat becomes immediate across separate audiences. | Call content, trip relation, and subsequent disclosures are withheld at V021; RAG-E-V021-023, RAG-E-V021-024. |

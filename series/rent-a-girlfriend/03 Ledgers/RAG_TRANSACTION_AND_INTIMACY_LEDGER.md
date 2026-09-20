@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V020
-row_count: 102
-state: CURRENT_THROUGH_V020
+inspected_through_volume: V021
+row_count: 107
+state: CURRENT_THROUGH_V021
 ```
 
 ## Records
@@ -144,3 +144,8 @@ state: CURRENT_THROUGH_V020
 | RAG-TXN-100 | Chizuru and Kazuya; refund after the ten-hour date | Chizuru regards crying as failure to deliver the paid role and returns money; Kazuya regards the unperformed response as the valuable result. | Both contest how professional failure and personal benefit should be priced. | Neither refund nor refusal of her accounting settles romance, debt, or provider standards generally. | The transaction is corrected while the emotional event remains real; RAG-E-V020-011, RAG-E-V020-012. |
 | RAG-TXN-101 | Chizuru and Kazuya; unbooked café extension and ordinary meal | Chizuru initiates the meeting, pays the café bill, and accepts Kazuya's invitation to inexpensive food without service or project terms. | Voluntary time, food, and relaxed conversation occur outside the rental contract. | Unpriced access creates no entitlement, standing schedule, or agreed date label. | Ordinary intimacy expands before Chizuru restores rental classification; RAG-E-V020-009, RAG-E-V020-012 through RAG-E-V020-018. |
 | RAG-TXN-102 | Chizuru and Kazuya; direct question and partly delivered confession | No payment or reciprocal-status promise governs Chizuru's question or Kazuya's answer attempt. | She asks whether he likes her; he identifies her as his ideal girlfriend and begins a longer declaration. | Honest speech does not compel a response, and interruption prevents a completed proposition. | Romantic information increases without a mutual agreement; RAG-E-V020-015 through RAG-E-V020-021. |
+| RAG-TXN-103 | Chizuru and Kazuya; guest invitation to an acting-network party | Umi supplies one guest invitation, and Chizuru voluntarily allocates it to Kazuya on the basis of his producer role and campaign gratitude. | She chooses his access and accepts host responsibility without a rental booking or payment. | Guest status creates no romantic entitlement, standing professional membership, or further invitation. | Project labor gains a social consequence outside the original transaction; RAG-E-V021-002 through RAG-E-V021-004. |
+| RAG-TXN-104 | Umi and Kazuya; public promotion and direct contact | Umi provides praise, a social post, and LINE exchange without requesting compensation. | The resources are voluntary network recognition and access. | Promotion creates no friendship debt, romantic obligation, or guaranteed work. | The pair can now communicate directly after the completed film; RAG-E-V021-005, RAG-E-V021-006. |
+| RAG-TXN-105 | Kazuya and Ruka; attempted termination of the provisional trial | Kazuya withdraws romantic participation, states nonreciprocity, and apologizes; Ruka refuses to recognize the requested breakup. | Each person controls their own feeling and future voluntary participation. | Ruka may contest the label but cannot convert refusal into Kazuya's consent to relationship or touch. | The represented status becomes directional and disputed rather than mutually provisional; RAG-E-V021-010 through RAG-E-V021-012. |
+| RAG-TXN-106 | Mami and Chizuru; direct conversation and claimed alliance | No rental booking or compensation governs the Mister Donut meeting; Mami requests private attention and offers information and help. | Chizuru hears the account and proposal without accepting a contract or alliance on-page. | Confidentiality language, handholding, and ally framing do not create trust, authority, or consent to a plan. | Mami gains an intervention opportunity while Chizuru's response remains withheld; RAG-E-V021-018 through RAG-E-V021-021. |
+| RAG-TXN-107 | Mami and Nagomi; app-service route and direct call | A plausible service proposal continues to provide family contact, but exact work terms and compensation remain unstated. | Repeated meetings and direct calling may be ordinary project coordination, strategic access, or both. | Professional plausibility does not authorize disclosure of private relationship information or prove exploitation. | The route is operational at V021 but its next use is deferred; RAG-E-V021-001, RAG-E-V021-024. |

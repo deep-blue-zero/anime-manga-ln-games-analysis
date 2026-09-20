@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V020
-row_count: 88
-state: CURRENT_THROUGH_V020
+inspected_through_volume: V021
+row_count: 93
+state: CURRENT_THROUGH_V021
 ```
 
 ## Records
@@ -130,3 +130,8 @@ state: CURRENT_THROUGH_V020
 | RAG-CHR-086 | RAG-E-V020-004 through RAG-E-V020-008 | On October 2 university resumes and Ruka raises her request at karaoke; the next day she and Kazuya visit nearby Hisamatsuyu after the bounded hug agreement. | October 2 and the next-day relation are explicit. | Exact work shift, hug, and bath clock times are unstated. |
 | RAG-CHR-087 | RAG-E-V020-009 through RAG-E-V020-021 | Chizuru arranges a Saturday café meeting that extends into Saizeriya and a walk home; her direct question precedes Kazuya's interrupted confession, private replay, and return to her room. | Same-day ordering and the interruption are continuous. | The Saturday date and exact duration of the meal are unstated. |
 | RAG-CHR-088 | RAG-E-V020-022 through RAG-E-V020-025 | Mami's Twitter contact with Kibe leads to the Nagomi app meeting and a later campus encounter with Kazuya; Kazuya then encounters Chizuru and her friends. | Contact, meeting, and campus convergence are narrated in that order. | Exact dates and the interval between the business meeting and campus encounters are not secure. |
+| RAG-CHR-089 | RAG-E-V021-001 through RAG-E-V021-007 | After Nagomi reports repeated Mami contact, Chizuru invites Kazuya to an October 25 acting-network party where Umi introduces, posts, and questions him before taking Chizuru aside. | October 25 and the party's internal order are explicit. | The interval from V020 and the content of Umi's private talk with Chizuru are unstated. |
+| RAG-CHR-090 | RAG-E-V021-008 through RAG-E-V021-013 | After the party, the park conversation about partnership precedes Kazuya's later breakup request to Ruka and renewed confession planning. | Dialogue, decision, breakup attempt, and subsequent resolve are narrated in causal order. | Exact days and elapsed intervals are not stated. |
+| RAG-CHR-091 | RAG-E-V021-014 through RAG-E-V021-018 | Chizuru's bag-based inference and co-monitoring proposal precede Kibe's advice; Mami then approaches Chizuru after obtaining the crowdfunding page. | The represented order moves from suspected leakage to family-truth pressure and direct contact. | The precise interval and when Mami first found the public page are unknown. |
+| RAG-CHR-092 | RAG-E-V021-019 through RAG-E-V021-021 | At Mister Donut, Mami explains the search route, confirms the bag observation, gives her former-partner account, and offers an alliance to end the situation. | One continuous meeting supplies the order of disclosures and proposal. | Exact meeting duration and Mami's intended next act are withheld. |
+| RAG-CHR-093 | RAG-E-V021-022 through RAG-E-V021-024 | Kazuya's failed confession attempt and observed study cost precede Nagomi's call, Chizuru's overnight question and batting practice, and Mami's direct call to Nagomi. | End-of-volume order is represented; the family call closes the main narrative. | Destination, trip timing, call content, and Chizuru's completed final thought fall beyond V021. |

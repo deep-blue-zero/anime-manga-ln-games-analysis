@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V020
-row_count: 110
-state: CURRENT_THROUGH_V020
+inspected_through_volume: V021
+row_count: 116
+state: CURRENT_THROUGH_V021
 ```
 
 ## Records
@@ -152,3 +152,9 @@ state: CURRENT_THROUGH_V020
 | RAG-FRM-108 | Stairway distance and Kibe's car interrupt a confession at the point of completion. | Kazuya names Mizuhara as his ideal girlfriend and begins “for a long time,” but a horn and Kibe's arrival break the sequence. | The form permits direct identification while withholding a completed mutual exchange. | Chizuru hears the fragment, but no full proposition or response occurs; RAG-E-V020-019, RAG-E-V020-020. |
 | RAG-FRM-109 | Private replay and public denial stage unequal registers around the same speech. | Chizuru hides under bedding and repeats Kazuya's words, then later says nothing happened before campus friends. | Interior aftermath and audience-facing control make consequential hearing visible without verbal resolution. | Blush, concealment, and sigh do not uniquely identify romantic acceptance; RAG-E-V020-021, RAG-E-V020-024. |
 | RAG-FRM-110 | App diagrams, an elderly-user book, messages, and a three-face close turn information access into a threat-shaped montage. | Mami's apparently practical proposal is followed by secrecy language and final juxtaposition with Kazuya and Chizuru. | Interface and montage reactivate a former-partner route beside the stalled confession. | Juxtaposition cannot prove sabotage, shared knowledge, or a specific future act; RAG-E-V020-022 through RAG-E-V020-025. |
+| RAG-FRM-111 | Formal clothing, terrace space, producer introduction, and jealous focalization relocate Kazuya inside Chizuru's acting world. | He moves from outsider panic to public project recognition while Chizuru repeatedly returns to her invited guest. | The party frames expanded access through both status difference and voluntary attention. | Kazuya's jealousy is his focalization, not evidence of Chizuru-Umi romance; RAG-E-V021-002 through RAG-E-V021-004. |
+| RAG-FRM-112 | A social post, follower display, quoted phrase, and private-talk ellipsis make information circulate through interfaces and withheld speech. | Umi publicly links Kazuya, asks him to interpret Chizuru, and then removes Chizuru into an unseen exchange. | The form increases consequence while preserving epistemic gaps at each handoff. | Neither the post nor ellipsis supplies a final romantic answer; RAG-E-V021-005 through RAG-E-V021-007. |
+| RAG-FRM-113 | Park stillness and conditional grammar convert support talk into an abstract partner model before Kazuya's resolve. | Chizuru's “if I came to like someone” formulation precedes Kazuya's internal decision to end the trial. | The sequence makes a conditional answer causally important without turning it into confession. | Panel emphasis cannot remove the grammatical condition or identify Kazuya; RAG-E-V021-008 through RAG-E-V021-010. |
+| RAG-FRM-114 | Kazuya's bowing apology and explicit breakup language collide with Ruka's crying, grabbing, and categorical refusal. | Verbal withdrawal and bodily contest occupy the same scene while the label diverges by direction. | Form makes nonreciprocity and contested severability visible rather than resolving them through one speaker. | Emotional intensity does not give either character authority over the other's feeling or bodily consent; RAG-E-V021-011, RAG-E-V021-012. |
+| RAG-FRM-115 | Bag comparison and crowdfunding interfaces convert small residue and public data into documentary pressure. | Chizuru reconstructs the apartment clue before Mami confirms it and displays the public project link. | Repeated object and screen evidence turns hidden continuity into a challengeable information structure. | Evidence of contact does not itself establish romance or Mami's full theory; RAG-E-V021-014, RAG-E-V021-018 through RAG-E-V021-020. |
+| RAG-FRM-116 | Confession rehearsals, Mami's handclasp, Nagomi calls, batting practice, and a cut-off final clause crosscut incompatible plans. | Kazuya wants to make the lie true, Mami offers to end it, and Chizuru resolves to help before her thought is withheld. | Parallel form aligns urgency while refusing to identify the eventual coordinated action. | Crosscutting does not prove shared knowledge, agreement, or outcome; RAG-E-V021-021 through RAG-E-V021-024. |

@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; character evidence inspected through V020, including negative-evidence review for V011-V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; character evidence inspected through V021, including negative-evidence review for V011-V019."
 ---
 
 # Mami Nanami evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 七海麻美
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V021
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -55,6 +55,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MAM-E015 | MAM-S005 | RAG-E-V020-022 | Twitter contact, business proposal, and family meeting; converted access | Contacts Kibe and has him bring her to Nagomi, where she pitches smartphone support for older users. | Converts dormant family-account knowledge into current business and family access. | The service may be genuine, instrumental, or both; the evidence does not decide. | RAG-MAM-R002, RAG-MAM-R005 |
 | RAG-MAM-E016 | MAM-S005 | RAG-E-V020-023 | Private meeting and selective secrecy request; route maintenance | Frames the app as future-oriented work, asks Kazuya to keep their past private, and schedules follow-up. | Maintains the professional account while controlling which relationship history reaches the new audience. | The request does not prove a harmful plan, and Kazuya has not tested its terms. | RAG-MAM-R003, RAG-MAM-R005 |
 | RAG-MAM-E017 | MAM-S005 | RAG-E-V020-025 | Visual juxtaposition; formal limit | The volume closes by placing renewed Mami access beside Kazuya's unfinished declaration to Chizuru. | No new Mami speech or knowledge is supplied. | Juxtaposition cannot establish that Mami knows the confession or determine her response. | none; formal boundary only |
+| RAG-MAM-E018 | MAM-S006 | RAG-E-V021-001 | Repeated family contact and credibility; route consolidation | Has met Nagomi more than once around the app route, and her alcohol-incident account matches Kazuya's in Nagomi's appraisal. | Accumulates direct access and trust before revealing the prior relationship to the family audience. | Repetition and corroboration do not establish her final objective. | RAG-MAM-R003, RAG-MAM-R005, RAG-MAM-R006 |
+| RAG-MAM-E019 | MAM-S006 | RAG-E-V021-018 through RAG-E-V021-020 | Public research, private residue, and direct coherence challenge | Finds the crowdfunding page, approaches Chizuru, probes her work and producer relation, and confirms seeing her bag in Kazuya's room. | Combines documentary and private evidence to test the continuing connection. | Contact evidence does not by itself establish romance, exploitation, or the whole private history. | RAG-MAM-R001, RAG-MAM-R002, RAG-MAM-R006 |
+| RAG-MAM-E020 | MAM-S006 | RAG-E-V021-021 | Former-partner testimony and claimed alliance | Describes her feeling cooling, characterizes Kazuya's post-breakup pursuit as dangerous, warns Chizuru, takes her hand, and offers to end everything together. | Converts personal testimony into a direct intervention proposal. | The account is interested first-person evidence, and the proposal's scope, method, and sincerity remain unknown. | RAG-MAM-R003, RAG-MAM-R004, RAG-MAM-R006 |
+| RAG-MAM-E021 | MAM-S006 | RAG-E-V021-024 | Direct family call; operational continuation | Calls Nagomi at the volume close after the Chizuru meeting. | Moves from mediated family access to direct communication. | The call content and relation to the proposed alliance are withheld. | RAG-MAM-R005, RAG-MAM-R006 |
 
 ## State-change summary
 
@@ -63,8 +67,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MAM-S003 — platform investigator and client: follows a chance sighting into targeted rental-platform research and books Chizuru to test the continuing lie.
 - MAM-S004 — contradiction integrator with a dormant family route: receives conflicting Ruka/Kazuya claims, directly observes Chizuru working, challenges her account, and follows the Kinoshita business account.
 - MAM-S005 — family-access operator under a professional account: returns after a long observed gap through Kibe, pitches Nagomi, requests selective secrecy, and promises follow-up.
+- MAM-S006 — evidence-consolidating direct intervener: builds repeat family credibility, combines the public film record with apartment residue, gives Chizuru an interested former-partner account, claims ally status, proposes ending the situation, and calls Nagomi directly.
 
-V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, and V020 reactivates rather than retroactively fills those gaps. Absence from the page is not evidence of inactivity or a stable plan.
+V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, and V021 makes its use direct without retroactively filling those gaps. Absence from the page is not evidence of inactivity or a stable plan.
 
 ## Written-speech and ordinary-conduct notes
 

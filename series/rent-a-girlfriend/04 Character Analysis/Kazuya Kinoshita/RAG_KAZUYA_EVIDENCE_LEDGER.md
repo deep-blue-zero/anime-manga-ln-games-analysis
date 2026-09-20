@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.21"
+version: "1.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; character evidence inspected through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; character evidence inspected through V021."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V021
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -144,6 +144,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E104 | KAZ-S022 | RAG-E-V020-009 through RAG-E-V020-014 | Romantic expectation, ordinary initiative, and transaction dispute | Overprepares for Chizuru's invitation, rejects her professional-failure account, asks her to eat, and participates in a relaxed unbooked meal. | Converts love into ordinary access seeking while arguing that the authentic response, rather than perfect service, mattered. | His fantasy and sleep loss show continuing dysregulation; the meal is not labeled romantic. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R015 |
 | RAG-KAZ-E105 | KAZ-S022 | RAG-E-V020-015 through RAG-E-V020-021 | Direct romantic answer under interruption | Tries to answer Chizuru's repeated question, promises protection, says the prior speech was sincere, names Mizuhara as his ideal girlfriend, and begins a longer declaration. | Moves internal love into personally identifying speech addressed to her. | Dessert and Kibe interrupt the exchange; the final proposition is incomplete and unanswered. | RAG-KAZ-R001, RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R016 |
 | RAG-KAZ-E106 | KAZ-S022 | RAG-E-V020-022 through RAG-E-V020-025 | Former-partner family access and stalled clarification | Learns that Mami reached Nagomi through Kibe, hears Mami's professional explanation and secrecy request, then fails to reopen the confession with Chizuru before friends. | Encounters simultaneous information and relationship pressure without resolving either route. | He does not know Mami's endpoint or Chizuru's private response. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R016 |
+| RAG-KAZ-E107 | KAZ-S023 | RAG-E-V021-002 through RAG-E-V021-007 | Professional-network inclusion and romantic-information pressure | Accepts Chizuru's acting-party invitation, receives public producer recognition, exchanges LINE with Umi, and hears a favorable interpretation of Chizuru's qualified phrase. | Moves from completed project labor into visible social access while seeking direct clarification. | His jealousy and Umi's interpretation do not establish Chizuru's feeling or a continuing industry role. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R010, RAG-KAZ-R016 |
+| RAG-KAZ-E108 | KAZ-S023 | RAG-E-V021-008 through RAG-E-V021-010 | Conditional partnership discussion and ethical sequencing | Hears Chizuru's conditional dating account and decides he must end the Ruka trial before confessing. | Connects romantic intent to correction of an unfair existing arrangement. | Chizuru does not identify him as the hypothetical person, and the plan has not yet succeeded. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R017 |
+| RAG-KAZ-E109 | KAZ-S023 | RAG-E-V021-011, RAG-E-V021-012 | Explicit withdrawal and acknowledged nonreciprocity | Asks Ruka to break up, names his love for Chizuru and lack of romantic feeling for Ruka, and apologizes for keeping her in the trial. | Replaces prolonged ambiguity with a direct ending request and ownership of his misuse. | Ruka refuses the label change and increases pressure; clear speech does not by itself create workable separation. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R013, RAG-KAZ-R017 |
+| RAG-KAZ-E110 | KAZ-S023 | RAG-E-V021-014 through RAG-E-V021-017 | Information-threat coordination and family-truth constraint | Receives Chizuru's bag inference and mutual-watch proposal, tells Kibe he likes Chizuru, and hears honesty framed as a duty to Nagomi. | Gains a co-monitoring route while the cost of full correction becomes explicit. | Kibe's advice rests on a false couple premise, and Kazuya still does not disclose the rental history. | RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R017 |
+| RAG-KAZ-E111 | KAZ-S023 | RAG-E-V021-013, RAG-E-V021-022 through RAG-E-V021-024 | Repeated confession intent under functional and family pressure | Rehearses and misses confession opportunities, experiences increased Ruka messaging and a sharp displayed score decline, and renews resolve as Mami calls Nagomi. | Romantic intention becomes persistent and costly without becoming effective communication. | One score comparison is local evidence, and he does not know Mami's call content or Chizuru's planned response. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R016, RAG-KAZ-R017 |
 
 ## State-change summary
 
@@ -169,6 +174,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S020 — bereavement-support planner after adaptive delivery:** projects unfinished footage for Sayuri, urges but does not control Chizuru's disclosure, updates after Sumi rejects solitary-strength reasoning, respects an immediate refusal, and turns consultation, wages, itinerary work, and a rental request into a bounded plan.
 - **KAZ-S021 — support-date executor after accepted grief release:** completes the expensive ten-hour plan, recognizes the limit of distraction, gives permission-bearing recognition without demanded touch, receives Chizuru's collapse, explicitly acknowledges his love internally, and resists treating the event as proof of reciprocity.
 - **KAZ-S022 — direct but interrupted romantic declarant under renewed network pressure:** receives public film completion, differentiates Ruka's requests, accepts Chizuru's ordinary invitation, disputes her professional-failure account, names her as his ideal girlfriend, begins a confession, and then faces both Chizuru's avoidance and Mami's new family-business access.
+- **KAZ-S023 — explicit trial terminator and confession planner under converging pressure:** enters Chizuru's professional network, hears her conditional partnership account, directly withdraws from the Ruka trial, joins Chizuru's Mami-monitoring route, receives Kibe's family-truth challenge, and repeatedly plans but fails to complete a confession while ordinary functioning deteriorates.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -208,6 +214,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - V018 completes the prior action through improvised projection, then shows corrective updating: after misreading composure as possible self-sufficiency, he accepts Sumi's challenge, respects Chizuru's refusal, seeks instruction, and builds a paid support route without assuming lover privileges (RAG-E-V018-001, RAG-E-V018-009 through RAG-E-V018-020).
 - V019 tests that route in conduct: he completes the funded itinerary, revises distraction into permission for grief, receives rather than initiates the decisive contact, and resists Mini's attempt to convert the outcome into proof of couple possibility (RAG-E-V019-001 through RAG-E-V019-019).
 - V020 moves restraint into direct speech: Kazuya does not force the grief topic at the screening, answers Ruka's travel and hug requests separately, extends Chizuru's invitation into an ordinary meal, and identifies her as his ideal girlfriend before interruption prevents a complete confession (RAG-E-V020-001 through RAG-E-V020-021).
+- V021 converts the unresolved trial into an explicit withdrawal: Kazuya states nonreciprocity and apologizes, but Ruka contests the ending; he also gains acting-network access, accepts a shared Mami-monitoring route, and repeatedly fails to translate confession intent into completed speech (RAG-E-V021-002 through RAG-E-V021-017, RAG-E-V021-022 through RAG-E-V021-024).
 
 ## Gaps and negative evidence
 
@@ -215,7 +222,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Competence outside relationship crisis remains underobserved.
 - Twelve volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
-- Direct preference, love, support, and reckless protection for Chizuru are now spoken, enacted, or internally explicit before different audiences; V020 adds direct identification of Chizuru and a partly delivered confession, but no reciprocal answer, mutually defined status, or completed resolution with Ruka is observed.
+- Direct preference, love, support, and reckless protection for Chizuru are now spoken, enacted, or internally explicit before different audiences; V021 adds an explicit breakup request to Ruka and repeated confession planning, but no reciprocal answer, mutually defined central status, or mutually accepted separation terms are observed.
 - Film work now extends through completed principal photography, private bedside projection, finished public exhibition, audience applause, and Chizuru's continuing-vocation statement; distribution, revenue, career conversion, and Kazuya's future production role remain unobserved.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 

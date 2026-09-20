@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V020, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V021, with V012-V013 and V019 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -45,13 +45,14 @@ model_basis:
     - RAG-JP-EPUB-V018
     - RAG-JP-EPUB-V019
     - RAG-JP-EPUB-V020
-  admitted_through_volume: V020
-  narrative_time_boundary: "after Ruka follows crisis accommodation with a reciprocity request, accepts refusal of overnight travel, substitutes a local bath outing, obtains explicit permission for a five-second hug, and seeks ordinary recognition while Kazuya remains nonreciprocal"
+    - RAG-JP-EPUB-V021
+  admitted_through_volume: V021
+  narrative_time_boundary: "after Ruka acknowledges Kazuya's love for Chizuru, refuses his direct breakup request, asserts unilateral feeling and fate as sufficient, declares future rental-rule violations, and increases message pressure"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.17"
+  model_revision: "1.18"
   prior_knowledge_limitations:
-    - "No post-V020 narrative evidence is admitted."
+    - "No post-V021 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -643,7 +644,7 @@ uncertainties:
 ~~~yaml
 state_id: RUK-S016
 valid_from_source: "V020 0046"
-valid_until_source: null
+valid_until_source: "V021 0084"
 entry_conditions:
   - "Ruka's crisis accommodation has received no V019 consequence, and Kazuya has completed the Chizuru-focused support date."
 active_goals:
@@ -672,6 +673,42 @@ uncertainties:
   - "Whether specific request-and-answer conduct persists under stronger rivalry threat."
   - "Whether she recognizes Kazuya's direct declaration to Chizuru."
   - "How she responds to a definitive end of the trial."
+~~~
+
+### RUK-S017 — rejected-trial terminus resister
+
+~~~yaml
+state_id: RUK-S017
+valid_from_source: "V021 0085"
+valid_until_source: null
+entry_conditions:
+  - "Ruka has obtained one negotiated outing and hug, while Kazuya remains in love with Chizuru and now seeks to end the trial explicitly."
+active_goals:
+  - prevent the provisional relation from being treated as ended
+  - preserve access to Kazuya despite acknowledged nonreciprocity
+  - outlast Chizuru's priority through persistence
+known_propositions:
+  - "Kazuya loves Chizuru from the bottom of his heart."
+  - "He says he has no romantic feeling for Ruka and apologizes for continuing the trial."
+  - "He asks her directly to break up."
+relationship_conditions:
+  - "Ruka refuses the requested shared ending and continues to claim the relation."
+  - "Kazuya's withdrawal means her label does not establish his ongoing consent."
+changed_from_previous:
+  - BREAKUP_REQUEST_RECEIVED
+  - NONRECIPROCITY_EXPLICITLY_ACKNOWLEDGED
+  - TERMINATION_REFUSED
+  - FATE_AND_UNILATERAL_LOVE_ASSERTED
+  - RULE_VIOLATION_DECLARED
+  - MESSAGE_PRESSURE_INCREASED
+evidence_refs:
+  - RAG-E-V021-011
+  - RAG-E-V021-012
+  - RAG-E-V021-022
+uncertainties:
+  - "Whether she will negotiate practical distance or intensify contact further."
+  - "How she responds to a completed Kazuya-Chizuru classification or family disclosure."
+  - "Whether increased messages include threats, ordinary contact, or both."
 ~~~
 
 ## Behavioral rules
@@ -781,11 +818,23 @@ uncertainties:
 - Disconfirming observation: under another clear refusal, she treats the bounded permission as authority for broader contact or resumes unilateral physical escalation without a new request.
 - Class/confidence: WORKING_HYPOTHESIS; low and provisional.
 
+### RAG-RUK-R010 — definitive breakup pressure can intensify nonseverability claims and access persistence
+
+- Scope: RUK-S017.
+- Trigger: Kazuya names Chizuru as his preferred person, denies romantic feeling for Ruka, apologizes, and asks to end the trial.
+- Likely appraisal: her own love and destiny claim make the relation worth preserving even without his reciprocal classification.
+- Likely action range: reject termination, cry, use physical pressure, invoke fate, promise continued rule violations, and increase messaging.
+- Inhibitors/escalators: acknowledged rivalry and loss of status escalate persistence; no successful durable inhibitor is observed in V021.
+- Support: RAG-E-V021-011, RAG-E-V021-012, RAG-E-V021-022.
+- Counterevidence/gap: one breakup sequence; earlier episodes show local narrowing after refusal but not acceptance of a durable relationship ending.
+- Disconfirming observation: after another explicit withdrawal, she promptly accepts distance and ceases status or access pressure without an external crisis forcing delay.
+- Class/confidence: WORKING_HYPOTHESIS; low and termination-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V008 shows sexual pressure and a morning kiss after refusal; V009-V011 show status overstatement, local apology, repeated kissing through resistance, and a crisis truce that preserves pursuit. V016 adds investigation and confrontation after Mini uses her name to exclude her. V017 answers the resulting request with bounded sunscreen contact, records a pulse of ninety-four, and shows her redirect a blocked hug into first-name permission before using that permission publicly and continuing domestic status pressure. V018-V020 move crisis accommodation into later reciprocity pressure, but also add a clear overnight refusal, local-plan substitution, and five-second hug after verbal permission. Predict direct pursuit, ordinary-date effort, monitoring, rivalry, and tactical narrowing after resistance; do not infer consent or mutual love from her declared label, labor, lodging, gift, kiss, request, pulse, naming privilege, or one negotiated hug.
+Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V008 shows sexual pressure and a morning kiss after refusal; V009-V011 show status overstatement, local apology, repeated kissing through resistance, and a crisis truce that preserves pursuit. V016 adds investigation and confrontation after Mini uses her name to exclude her. V017 answers the resulting request with bounded sunscreen contact, records a pulse of ninety-four, and shows her redirect a blocked hug into first-name permission before using that permission publicly and continuing domestic status pressure. V018-V020 move crisis accommodation into later reciprocity pressure, but also add a clear overnight refusal, local-plan substitution, and five-second hug after verbal permission. V021 shows a qualitatively stronger boundary: Kazuya withdraws from the trial, and Ruka refuses the ending and increases pressure. Predict direct pursuit, monitoring, rivalry, and possible tactical narrowing, but do not treat her claim as Kazuya's consent or infer mutual love from any label, labor, contact, request, or pulse.
 
 ### Toward Chizuru
 
@@ -814,7 +863,7 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, response after a definitive end of the trial, long-term workplace conduct, durable boundary revision, or any post-V020 Ruka conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, workable conduct after Kazuya's withdrawal, long-term workplace conduct, durable boundary revision, or any post-V021 Ruka conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 

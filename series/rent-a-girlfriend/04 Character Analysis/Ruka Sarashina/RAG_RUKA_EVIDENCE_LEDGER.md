@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V020; character evidence inspected through V020, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V021; character evidence inspected through V021, with V012-V013 and V019 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V021
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -89,6 +89,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E049 | RUK-S016 | RAG-E-V020-005, RAG-E-V020-006 | Post-truce reciprocity claim and narrowed outing | Asks about Chizuru's condition, invokes her prior accommodation, requests care for her own feelings, proposes overnight travel, and accepts a nearby day outing after refusal. | Converts deferred access into a direct request while changing scope under a clear answer. | Prior accommodation creates no debt, and the trial remains unresolved. | RAG-RUK-R001, RAG-RUK-R005, RAG-RUK-R008 |
 | RAG-RUK-E050 | RUK-S016 | RAG-E-V020-007 | Explicit timed hug request and accepted contact | Requests a five-second embrace, arranges the approach, waits for Kazuya's verbal permission, and then hugs him. | Supplies a specifically negotiated bodily-contact sequence after earlier unilateral kisses. | One successful request does not establish blanket consent or durable boundary reform. | RAG-RUK-R005, RAG-RUK-R008, RAG-RUK-R009 |
 | RAG-RUK-E051 | RUK-S016 | RAG-E-V020-008 | Ordinary local outing and recognition seeking | Attends separate baths, appears in yukata, asks to be called cute, and accepts practical help with clothing and an umbrella. | Uses lower-stakes ordinary access and direct recognition seeking after the negotiated contact. | Kazuya internally remains in love with Chizuru and does not reciprocally reclassify the trial. | RAG-RUK-R001, RAG-RUK-R008, RAG-RUK-R009 |
+| RAG-RUK-E052 | RUK-S017 | RAG-E-V021-011, RAG-E-V021-012 | Breakup refusal and nonseverability claim | Says she already knows Kazuya loves Chizuru, rejects his direct breakup request, cries, physically presses him, and says her own love and fate claim are sufficient. | Responds to explicit nonreciprocity by denying that the trial can end through his withdrawal. | Sincerity and prior trial status do not create reciprocal love or consent to future contact. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R005, RAG-RUK-R010 |
+| RAG-RUK-E053 | RUK-S017 | RAG-E-V021-012, RAG-E-V021-022 | Declared rule violation and increased monitoring pressure | Says she will violate rental-girlfriend rules repeatedly if needed and increases LINE messaging by roughly fifty percent after the breakup attempt. | Escalates access pressure rather than accepting distance. | Message volume is reported through Kazuya's experience, and later content or response remains unknown. | RAG-RUK-R001, RAG-RUK-R002, RAG-RUK-R010 |
 
 ## State-change summary
 
@@ -108,8 +110,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S014 — bounded-request pursuer with first-name privilege: receives task-specific sunscreen contact, interprets a pulse of ninety-four, redirects a blocked hug into negotiated naming permission, and carries that privilege into public and domestic status pressure.
 - RUK-S015 — truce-bound rival allowing bereavement support while preserving future access: responds sympathetically to Chizuru's loss, discusses encouragement, does not block the immediate plan, and asks Kazuya for an amusement-park outing.
 - RUK-S016 — post-truce pursuer obtaining negotiated local access: asks for reciprocal attention, accepts refusal of overnight travel, substitutes a nearby bath outing, obtains explicit permission for a five-second hug, and seeks ordinary recognition without changing the provisional status.
+- RUK-S017 — rejected-trial terminus resister: acknowledges Kazuya's love for Chizuru but refuses his breakup request, asserts unilateral feeling and fate as sufficient, promises further rule violations, and increases contact pressure.
 
-V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, and V020 shows a later request-and-permission consequence without ending her claim.
+V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, V020 shows a request-and-permission consequence, and V021 shows explicit refusal of a breakup with renewed access pressure.
 
 These are evidence configurations, not a diagnosis or a claim that physiology determines emotion.
 

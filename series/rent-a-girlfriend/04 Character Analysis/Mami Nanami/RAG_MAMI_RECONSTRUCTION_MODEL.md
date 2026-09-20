@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V020, with V011-V019 treated as a negative-evidence interval."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V021, with V011-V019 treated as a negative-evidence interval."
 ---
 
 # Mami Nanami reconstruction model
@@ -47,13 +47,14 @@ model_basis:
     - RAG-JP-EPUB-V018
     - RAG-JP-EPUB-V019
     - RAG-JP-EPUB-V020
-  admitted_through_volume: V020
-  narrative_time_boundary: "after Mami converts Kibe contact and Kinoshita-family research into a Nagomi-facing smartphone-service proposal, requests that her past with Kazuya remain private, and schedules follow-up"
+    - RAG-JP-EPUB-V021
+  admitted_through_volume: V021
+  narrative_time_boundary: "after Mami builds repeat Nagomi credibility, combines crowdfunding and apartment evidence in a direct Chizuru meeting, gives her former-partner account, claims ally status, offers to end everything, and calls Nagomi directly"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.0"
+  model_revision: "1.1"
   prior_knowledge_limitations:
-    - "No post-V020 narrative evidence is admitted."
+    - "No post-V021 narrative evidence is admitted."
     - "Mami's final motive and desired endpoint remain unknown."
     - "V011-V019 contain no material observed Mami conduct and cannot be filled with inferred hidden actions."
 coverage:
@@ -93,7 +94,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports bounded reconstruction when Mami encounters inconsistent relationship accounts, possesses an information advantage, or can approach Kazuya's network through a socially legitimate route. It can estimate likely questioning, information collection, selective disclosure, audience-specific presentation, and attempts to preserve or widen access. It must abstain on her final motive, family history, private routine, a definitive romantic endpoint, and any action that depends on post-V020 knowledge.
+This model supports bounded reconstruction when Mami encounters inconsistent relationship accounts, possesses an information advantage, or can approach Kazuya's network through a socially legitimate route. It can estimate likely questioning, information collection, selective disclosure, audience-specific presentation, and attempts to preserve or widen access. It must abstain on her final motive, family history, private routine, a definitive romantic endpoint, and any action that depends on post-V021 knowledge.
 
 ## Central mechanism
 
@@ -230,7 +231,7 @@ uncertainties:
 ~~~yaml
 state_id: MAM-S005
 valid_from_source: "V020 0019"
-valid_until_source: "V020 endpoint"
+valid_until_source: "V021 0004"
 entry_conditions:
   - "Mami has made contact with Kibe and reaches Nagomi through him."
 active_goals:
@@ -253,6 +254,50 @@ evidence_refs:
 uncertainties:
   - "Whether the service is independently pursued, strategically instrumental, or both."
   - "How she would respond if Kazuya or Nagomi rejects the secrecy or access terms."
+~~~
+
+### MAM-S006 — evidence-consolidating direct intervener across Chizuru and family routes
+
+~~~yaml
+state_id: MAM-S006
+valid_from_source: "V021 0005"
+valid_until_source: null
+entry_conditions:
+  - "Mami has legitimate-looking access to Nagomi, knows Kazuya and Chizuru remain connected, and can research the public film record."
+active_goals:
+  - preserve credibility and access with Nagomi
+  - test Chizuru's current relation to Kazuya through concrete evidence
+  - persuade Chizuru to accept Mami's interpretation and proposed intervention
+  - control disclosure of her former relationship across audiences
+known_propositions:
+  - "Nagomi accepts her incident account and has met her repeatedly."
+  - "The crowdfunding page publicly links Chizuru's film and Kazuya's producer role."
+  - "Chizuru's bag was present in Kazuya's room during Mami's prior visit."
+  - "Chizuru distinguishes sincere project participation from rental-girlfriend work."
+relationship_conditions:
+  - "Mami presents herself to Nagomi through work and to Chizuru as an informed former partner and ally."
+  - "Her negative account of Kazuya is first-person testimony rather than independently settled fact."
+  - "The scope of ending everything and the content of her direct Nagomi call remain withheld."
+changed_from_previous:
+  - REPEAT_FAMILY_CREDIBILITY_ESTABLISHED
+  - PUBLIC_PROJECT_EVIDENCE_ACQUIRED
+  - APARTMENT_RESIDUE_CONFIRMED
+  - CHIZURU_DIRECTLY_CONFRONTED
+  - FORMER_PARTNER_ACCOUNT_DISCLOSED
+  - ALLY_STATUS_CLAIMED
+  - JOINT_ENDING_PROPOSED
+  - NAGOMI_DIRECTLY_CALLED
+evidence_refs:
+  - RAG-E-V021-001
+  - RAG-E-V021-018
+  - RAG-E-V021-019
+  - RAG-E-V021-020
+  - RAG-E-V021-021
+  - RAG-E-V021-024
+uncertainties:
+  - "Whether protection, control, punishment, truth correction, renewed attachment, or a mixture governs the intervention."
+  - "What action she proposes by ending everything."
+  - "What she tells Nagomi and whether the app work remains independently active."
 ~~~
 
 ## Behavioral rules
@@ -322,15 +367,28 @@ uncertainties:
 - Disconfirming observation: the proposal proceeds transparently as ordinary work with no use of relationship information or special access.
 - Class/confidence: WORKING_HYPOTHESIS; low and specific to the V020 route.
 
+### RAG-MAM-R006 — public documentation and private residue can be combined into audience-specific direct pressure
+
+- Scope: MAM-S006.
+- Trigger: the crowdfunding page and remembered apartment object jointly contradict a simple discontinued-customer account.
+- Relationship conditions: Mami can reach Chizuru privately while preserving a different professional presentation with Nagomi and Kibe.
+- Likely appraisal: specific evidence and personal testimony can make Chizuru question both Kazuya's account and her own role in maintaining the deception.
+- Likely action range: present documentary links, reveal private observation, distinguish trusted family members from Kazuya, narrate the former relationship, claim ally status, and offer coordinated intervention.
+- Support: RAG-E-V021-018 through RAG-E-V021-021, with direct family continuation at RAG-E-V021-024.
+- Counterevidence/gap: one extended meeting; Chizuru's acceptance, Mami's proposed method, and independent verification of the former-partner account are unavailable.
+- Alternative: sincere protective concern and strategic control may coexist rather than forming exclusive explanations.
+- Disconfirming observation: when comparable public and private evidence is available, Mami discloses it uniformly to all audiences without tailoring, pressure, or an attempt to influence the target's response.
+- Class/confidence: WORKING_HYPOTHESIS; low and motive-bounded.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Mami knows Kazuya as a former boyfriend who remains responsive to her and later becomes entangled in contradictory relationship presentations. She can pressure him publicly, approach privately, create physical or scheduled access, ask for selective secrecy, and withhold her own endpoint. Do not predict reunion, harm, or confession from former-partner status alone.
+Mami knows Kazuya as a former boyfriend who remained responsive after the breakup and later became entangled in contradictory relationship presentations. V021 adds her own negative account of his pursuit, but that testimony must remain attributed. She can pressure him publicly, approach privately, create physical or scheduled access, ask for selective secrecy, and withhold her own endpoint. Do not predict reunion, harm, protection, or confession from former-partner status alone.
 
 ### Toward Chizuru
 
-Chizuru is first the publicly presented girlfriend, then a verified rental provider whose continued involvement Mami challenges. Mami uses identity details, client access, and direct questioning. Chizuru's defense of Kazuya visibly affects her, but the model cannot determine which interpretation she accepts.
+Chizuru is first the publicly presented girlfriend, then a verified rental provider whose continued involvement Mami challenges. Mami uses identity details, client access, public project documentation, apartment residue, and direct testimony. V021 shows her claim ally status and propose a joint ending, but the model cannot determine whether protection, control, punishment, truth correction, or mixed motive governs the offer.
 
 ### Toward Ruka
 
@@ -338,7 +396,7 @@ Ruka supplies a rival status claim and a false sex claim that Kazuya corrects. M
 
 ### Toward Kibe and Nagomi
 
-Kibe becomes an intermediary, and Nagomi becomes the audience for a smartphone-service proposal. Mami presents herself through future-oriented work and suppresses former-partner history. Predict route maintenance and calibrated disclosure within this one setting; abstain on trust, exploitation, and durability.
+Kibe becomes an intermediary, and Nagomi becomes the audience for a smartphone-service proposal. Mami presents herself through future-oriented work, suppresses former-partner history, builds repeated credibility, and calls Nagomi directly after confronting Chizuru. Predict route maintenance and calibrated disclosure within this setting; abstain on call content, trust, exploitation, and durability.
 
 ## Domain account and negative constraints
 

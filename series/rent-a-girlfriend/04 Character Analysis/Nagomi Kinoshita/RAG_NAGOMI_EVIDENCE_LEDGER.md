@@ -4,13 +4,13 @@ artifact_id: RAG_NAGOMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; character evidence inspected through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; character evidence inspected through V021."
 ---
 
 # Nagomi Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V021
 local_readiness: UNMODELED
 ~~~
 
@@ -49,6 +49,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-NAG-E009 | NAG-S003 | RAG-E-V013-003 | Information distribution; project boundary | Is initially outside the film-project information route. | Her omission shows that strong family inclusion does not equal access to every project decision. | The later extent of her project knowledge is not established here. | none; model withheld |
 | RAG-NAG-E010 | NAG-S004 | RAG-E-V018-011 | Funeral support and relationship interpretation; grief | Brings Kazuya to Sayuri's funeral, says only a lover can help Chizuru, and reports that Chizuru cried through the night. | Uses her couple belief to route support during bereavement. | The report is second-hand evidence of Chizuru's grief; the lover premise remains false and potentially constraining. | none; model withheld |
 | RAG-NAG-E011 | NAG-S005 | RAG-E-V020-022 | Business meeting and receptive evaluation; external contact | Meets Mami through Kibe and hears an older-user smartphone support proposal. | Gives the proposal enough consideration for a continuing route to exist. | She does not know Mami's history with Kazuya or final purpose. | none; model withheld |
+| RAG-NAG-E012 | NAG-S006 | RAG-E-V021-001 | Repeated contact and credibility judgment; external relation | Meets Mami again, regards her alcohol-incident account as consistent with Kazuya's, and describes her favorably. | Extends the business introduction into a trusted recurring contact. | She still lacks the former-relationship and rental-history context. | none; model withheld |
+| RAG-NAG-E013 | NAG-S006 | RAG-E-V021-023, RAG-E-V021-024 | Direct calls and scheduling consequence; family route | Calls Chizuru before the overnight-availability question and receives a later direct call from Mami. | Becomes the communication hub for a still-withheld family or travel development. | The content and relation among the calls are not established in V021. | none; model withheld |
 
 ## State-change summary
 
@@ -57,20 +59,21 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - NAG-S003 — material supporter under an engagement premise: transfers an heirloom and broadens its use into emergency support while remaining uninformed about the underlying fiction.
 - NAG-S004 — bereavement support router: uses the believed lover relation to bring Kazuya into Chizuru's funeral context and report her hidden grief.
 - NAG-S005 — recipient of Mami's professional approach: evaluates a smartphone-service proposal without knowledge of the prior relationship.
+- NAG-S006 — recurring external contact and family-call hub: treats Mami as credible across repeated meetings and participates in separate direct calls whose next scheduling or disclosure consequence is withheld.
 
 ## Written-speech and ordinary-conduct notes
 
 - Nagomi speaks directly and often converts family feeling into concrete access, events, objects, or introductions.
 - Her attachment to Chizuru expands from girlfriend approval into daughter-like language and material support.
 - She can reinterpret a symbolic object pragmatically when Chizuru resists its formal meaning.
-- Evidence outside the central couple premise is limited to hospital routine, family-business context, event organization, bereavement response, and the V020 service meeting.
+- Evidence outside the central couple premise is limited to hospital routine, family-business context, event organization, bereavement response, and the V020-V021 service contact.
 
 ## Gaps and negative evidence
 
 - Nagomi has not been observed responding to the full rental-girlfriend history or to a truthful correction of the couple premise.
 - Her broader history, independent friendships, ordinary business decision-making, and long-term response to disagreement are sparse.
 - Strong care does not erase the pressure created by family expectation, lover classification, or the engagement ring.
-- She does not know Mami's former relationship with Kazuya at the V020 boundary.
+- No V021 evidence shows that she knows Mami's former relationship with Kazuya.
 - The available contexts are too concentrated in one false family premise for reliable behavior generalization.
 
 ## Update rule

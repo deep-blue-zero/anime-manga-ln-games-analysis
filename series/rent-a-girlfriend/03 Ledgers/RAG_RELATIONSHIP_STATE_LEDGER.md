@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected and closed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; inspected and closed through V021."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V020
-row_count: 109
-state: CURRENT_THROUGH_V020
+inspected_through_volume: V021
+row_count: 115
+state: CURRENT_THROUGH_V021
 ```
 ```
 
@@ -152,3 +152,9 @@ state: CURRENT_THROUGH_V020
 | RAG-REL-107 | Ruka → Kazuya | Provisional girlfriend receiving negotiated local access | Accepts refusal of an overnight trip, obtains a local bath outing and five-second hug, and seeks ordinary recognition afterward. | Pursuit produces one explicit request-and-permission sequence. | Kazuya remains in love with Chizuru, and the trial remains nonreciprocal and unresolved. | RAG-E-V020-005 through RAG-E-V020-008 |
 | RAG-REL-108 | Mami ↔ Kibe / Nagomi | Former partner entering the Kinoshita network as a prospective business collaborator | Contacts Kibe and pitches Nagomi a smartphone-support service for older users. | A socially legitimate work relation now gives Mami direct family access. | Kibe and Nagomi lack the known full relationship history, and Mami's endpoint is withheld. | RAG-E-V020-022 |
 | RAG-REL-109 | Mami → Kazuya | Former partner requesting secrecy inside renewed practical access | Frames the app as future-oriented work, asks that their past remain private, and promises follow-up. | Their old intimacy becomes concealed context for an active family-business route. | No renewed romance or explicit sabotage goal is established. | RAG-E-V020-023 |
+| RAG-REL-110 | Chizuru ↔ Kazuya | Former project partners entering Chizuru's professional network together | Chizuru invites Kazuya, affirms him publicly as producer, and attends to him as her chosen guest. | Their voluntary ordinary access now includes an acting-world setting and shared project recognition. | The event remains professionally grounded and receives no couple label. | RAG-E-V021-002 through RAG-E-V021-004 |
+| RAG-REL-111 | Umi ↔ Kazuya | Acting-network colleague and former producer becoming direct contacts | Umi praises, publicly posts, probes Chizuru's phrase through Kazuya, and exchanges LINE. | A previously indirect rivalry or colleague route becomes reciprocal social contact. | Friendship, work continuity, and Umi's romantic objective remain unestablished. | RAG-E-V021-005 through RAG-E-V021-007 |
+| RAG-REL-112 | Kazuya → Ruka | Provisional partner explicitly withdrawing from the trial | Requests breakup, states love for Chizuru and nonreciprocity toward Ruka, and apologizes for continuing. | Kazuya no longer treats the trial as ethically sustainable. | Ruka refuses the requested shared label change; later interaction remains to be observed. | RAG-E-V021-010, RAG-E-V021-011 |
+| RAG-REL-113 | Ruka → Kazuya | Pursuer refusing the attempted termination | Claims fate and unilateral love as sufficient, physically presses him, promises rule violations, and increases messaging. | Her represented label remains active from her direction despite his withdrawal. | Her refusal creates no reciprocal romance, blanket access, or power to compel participation. | RAG-E-V021-012, RAG-E-V021-022 |
+| RAG-REL-114 | Mami → Chizuru | Evidence-backed former-partner intervener claiming alliance | Presents project and apartment evidence, gives her own relationship history, warns Chizuru, and offers to end everything together. | Mami seeks direct influence over Chizuru's response to Kazuya and the family deception. | Ally language and testimony do not prove trustworthiness, fabrication, or a known endpoint. | RAG-E-V021-018 through RAG-E-V021-021 |
+| RAG-REL-115 | Kibe → Kazuya | Childhood friend advising from a partly false couple model | Learns Kazuya prefers Chizuru and urges him to value her and be honest with Nagomi. | Friendship becomes a source of explicit truth and family-duty pressure. | Kibe still lacks the rental and provisional-relationship history. | RAG-E-V021-016, RAG-E-V021-017 |
