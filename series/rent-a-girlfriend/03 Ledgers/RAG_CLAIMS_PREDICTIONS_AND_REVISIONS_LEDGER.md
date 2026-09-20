@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected, closed, and checkpointed through V010; no V011 prediction frozen."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V010; inspected, closed, and checkpointed through V010; predictions frozen before V011."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -35,8 +35,8 @@ Update after each eligible volume only when inspected evidence materially affect
 initialized: true
 inspected_through_volume: V010
 current_claim_count: 26
-frozen_prediction_count: 0
-state: CHECKPOINTED_THROUGH_V010__NO_NEXT_VOLUME_AUTHORITY
+frozen_prediction_count: 4
+state: CURRENT_THROUGH_V010__PREDICTIONS_FROZEN_FOR_V011
 ```
 
 ## Current claims
@@ -164,6 +164,15 @@ state: CHECKPOINTED_THROUGH_V010__NO_NEXT_VOLUME_AUTHORITY
 At the V010 horizon, RAG-PRED-033 through RAG-PRED-035 are supported and RAG-PRED-036 is disconfirmed. The disconfirming case is retained because recorded information and prior initiative did not produce the predicted birthday action within the declared test window. V010 strengthens the commercial-boundary, vocational-support, Mami-investigation, family-access, and provisional-status claims. RAG-CLM-024 records the coexistence of scripted intimacy and genuine vocational exchange; RAG-CLM-025 limits non-booking access by context; RAG-CLM-026 records the growing gap between Ruka's sincere claim and mutual agreement. No V011 prediction is frozen because V011 inspection is outside the authorized block.
 
 The V010 checkpoint preserves the current twenty-six claims, rejects physical or visual intimacy as sufficient proof of mutual consent or relationship status, and revises any simple stagnation account toward domain-specific durable change inside repeated public structures. It downgrades the expectation that newly recorded personal knowledge reliably produces prompt follow-up. Exact checkpoint reasoning is frozen in `02 Block Syntheses/RAG_CP_V010.md`; model-level tests are frozen in `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V010.md`.
+
+## Frozen predictions for V011
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-037 | Sayuri's hospitalization will produce immediate non-booking coordination or care and an observable consequence for the Kinoshita birthday gathering. | RAG-E-V010-016, RAG-E-V010-017 | The hospitalization has no effect on contact, movement, information, or family conduct in V011. |
+| RAG-PRED-038 | Kazuya's stated support for Chizuru's new stage opportunity will produce a concrete attendance, planning, spending, or practical-help action. | RAG-E-V010-010 | The stage opportunity receives no observable support consequence in V011. |
+| RAG-PRED-039 | Mami's access to the Kinoshita family account will produce family-directed observation, contact, information gathering, or intervention. | RAG-E-V010-002 | The new route has no observable consequence in V011. |
+| RAG-PRED-040 | Ruka's family-party kiss and public priority claim will produce a correction, confrontation, concealment cost, or tactical change involving Kazuya or Chizuru. | RAG-E-V010-014, RAG-E-V010-015 | The escalation is not revisited and creates no observable consequence in V011. |
 
 ## Open evidence questions
 
