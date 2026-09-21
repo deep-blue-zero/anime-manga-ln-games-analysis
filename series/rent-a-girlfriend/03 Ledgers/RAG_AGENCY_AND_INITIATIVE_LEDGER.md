@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.24"
+version: "1.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V024
-row_count: 163
-state: CURRENT_THROUGH_V024
+inspected_through_volume: V025
+row_count: 170
+state: CURRENT_THROUGH_V025
 ```
 
 ## Records
@@ -205,3 +205,10 @@ state: CURRENT_THROUGH_V024
 | RAG-AGY-161 | Nagomi | Let the trip remain leisure and keep Mami contact informal, or state its family meaning and initiate a direct talk. | Links the site to Kazuo and Harumi's wedding, thanks Kazuya for twenty-one years, and messages Mami to speak privately. | Turns memory and concern into two direct relational actions. | She remains uninformed about the rental, former-partner, and rival histories; RAG-E-V024-016, RAG-E-V024-017, RAG-E-V024-019. |
 | RAG-AGY-162 | Kuribayashi | Continue observing Ruka through Kazuya's account or seek her directly. | Finds Ruka and states that he came to see her. | Opens an answerable interaction between former client and provider. | Purpose, her response, and any durable consequence are withheld; RAG-E-V024-018. |
 | RAG-AGY-163 | Kazuya | Preserve the confession as internal resolve or accept anticipated rejection and address Chizuru directly. | Reviews the costs, runs to the chapel, and asks Chizuru to listen. | Repeated intention becomes observable initiated speech before the intended recipient. | The proposition, truth correction, and answer remain beyond V024; RAG-E-V024-020 through RAG-E-V024-022. |
+| RAG-AGY-164 | Kazuya | Continue the chapel speech, allow Chizuru to leave, or use bodily contact to hold the exchange open. | States that he expects no forgiveness, asks for time, catches her wrist, and begins before Mami's message interrupts. | Advances the direct attempt but fails to secure freely sustained attention or complete the proposition. | Chizuru is moving away, the grip creates no consent, and the outcome is interruption and flight; RAG-E-V025-003, RAG-E-V025-004. |
+| RAG-AGY-165 | Mami | Let Chizuru choose whether and how to disclose, or impose an immediate rescue plan. | Directs her to bring the ring to room 8504, produces a document, dismisses her objections, and asks to “rent” her for the disclosure. | Converts family access and information leverage into a concrete intervention route. | Claimed concern does not authorize control over Chizuru's participation; RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010. |
+| RAG-AGY-166 | Chizuru | Follow Mami's plan, deny all responsibility, or refuse the method while arguing for Kazuya's agency. | Defends the reality of Nagomi's smile, demands retraction of an insult, pulls away, refuses to go, and repeatedly asks for another chance. | Preserves decisional agency under coercive truth pressure without denying the lie's cost. | The refusal delays correction and does not make the family account true; RAG-E-V025-012 through RAG-E-V025-014. |
+| RAG-AGY-167 | Kuribayashi | Confront Ruka as an angry former client or disclose his own shame and concern. | Says that he was glad to see her, worried after she left the service, and is ashamed of his status performance rather than angry at her. | Reframes their prior encounter through vulnerable direct speech. | The exchange creates no romance, broad absolution, or continuing access; RAG-E-V025-011. |
+| RAG-AGY-168 | Kazuya | Verify why Chizuru fled or treat the event as rejection and withdraw. | Categorizes the apology and departure as rejection, imagines rivals, breaks down, and later cancels the chapel topic before she explains. | Protects against a feared answer at the cost of new misunderstanding. | Chizuru never states rejection, and he lacks the Mami context; RAG-E-V025-015 through RAG-E-V025-017. |
+| RAG-AGY-169 | Chizuru and Mami | Proceed to immediate disclosure, separate, or preserve secrecy through a conditional bargain. | Mami agrees to defer if Chizuru supplies an aligned financial-dispute cover and hides the exchange from Kazuya; Chizuru complies. | Prevents the planned room confrontation while coordinating another layer of concealment. | The bargain is asymmetric, conditional, and unstable; RAG-E-V025-018. |
+| RAG-AGY-170 | Mami and the gathered group | Preserve the apparent truce or allow the rental identity to enter the mixed audience. | Nagomi's dropped phone displays Chizuru's profile while Mami smiles and the principals react. | The profile becomes direct visible evidence outside the private intervention route. | Mami's orchestration is strongly implied but the precise phone action is not shown, and no response completes; RAG-E-V025-021, RAG-E-V025-022. |

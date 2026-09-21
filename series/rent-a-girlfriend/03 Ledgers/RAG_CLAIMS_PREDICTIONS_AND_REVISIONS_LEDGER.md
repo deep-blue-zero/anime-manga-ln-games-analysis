@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024; predictions frozen before V025 narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025; predictions frozen before V026 narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V024
+inspected_through_volume: V025
 current_claim_count: 82
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V024__PREDICTIONS_FROZEN_FOR_V025
+state: CURRENT_THROUGH_V025__PREDICTIONS_FROZEN_FOR_V026
 ```
 
 ## Current claims
@@ -432,6 +432,24 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 | RAG-PRED-095 | Kuribayashi's direct statement that he came to see Ruka will produce a relationship-history discussion, support attempt, status response, rejection, or changed access between them. | RAG-E-V024-018 | V025 supplies no consequence to the initiated Kuribayashi-Ruka contact. |
 | RAG-PRED-096 | Harumi's permission to return the ring, Nagomi's family and wedding framing, and Ruka's disclosure pressure will produce a return attempt, explanation, continued concealment, family boundary, cover story, or exposure consequence. | RAG-E-V024-002, RAG-E-V024-007 through RAG-E-V024-009, RAG-E-V024-011 through RAG-E-V024-013, RAG-E-V024-016, RAG-E-V024-017 | V025 supplies no consequence to the ring-release and family-obligation conflict. |
 
+## Adjudicated predictions from the V024 boundary
+
+| Prediction ID | Adjudication | V025 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-093 | SUPPORTED | Kazuya continues the chapel attempt, but Mami's arrival message prompts Chizuru to apologize and run before a proposition or answer; RAG-E-V025-003, RAG-E-V025-004. | The consequence is interruption, flight, and explicit deferral rather than a completed confession. |
+| RAG-PRED-094 | SUPPORTED | Mami creates an immediate room-and-ring disclosure plan, Chizuru refuses and obtains a tactical delay, and the volume ends with the rental profile exposed on Nagomi's phone; RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021. | Mami's smile strongly implies orchestration, but V025 does not directly show the exact phone mechanism or resulting family conversation. |
+| RAG-PRED-095 | SUPPORTED | Kuribayashi tells Ruka that he is glad to see her, worried after she left the service, and ashamed of his own status display rather than angry at her; RAG-E-V025-011. | The clarification does not establish romance, reconciliation, or continuing access. |
+| RAG-PRED-096 | SUPPORTED | Mami makes the inherited ring part of the planned disclosure, Chizuru refuses the method and supplies a cover story, and the false family account reaches profile exposure without a completed ring return; RAG-E-V025-005, RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021. | The ring remains unreturned and is not itself displayed to the group at the cliffhanger. |
+
+## Frozen predictions for V026
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-097 | The visible Diamond profile on Nagomi's fallen phone will produce an identification, question, denial, explanation, interruption, removal attempt, or other immediate exposure consequence. | RAG-E-V025-021, RAG-E-V025-022 | V026 supplies no consequence to the displayed profile. |
+| RAG-PRED-098 | Kazuya and Chizuru's shared exposure crisis will produce coordination, divergent accounts, a protective action, blame allocation, status clarification, or an observable failure to coordinate. | RAG-E-V025-017, RAG-E-V025-018, RAG-E-V025-021, RAG-E-V025-022 | V026 supplies no joint or contrasting response from the two principals. |
+| RAG-PRED-099 | Mami's prior disclosure plan, conditional truce, and smile at the profile reveal will produce an intervention, explanation, denial, rescue framing, accountability test, or further information move. | RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-018, RAG-E-V025-021 | V026 supplies no consequence to Mami's position at the exposure. |
+| RAG-PRED-100 | Nagomi's explicit chosen-family commitment, the unresolved inherited ring, and the rental-profile display will produce a family judgment, care response, anger, boundary, factual question, ring consequence, or changed relationship belief. | RAG-E-V024-002, RAG-E-V024-008, RAG-E-V025-005, RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-021 | V026 supplies no family or ring consequence to the corrected-information threat. |
+
 ## Open evidence questions
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
@@ -450,6 +468,6 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 - How will the mixed Nagomi, Kibe, Kuribayashi, Mami, Ruka, Kazuya, and Chizuru audience handle its incompatible knowledge sets?
 - Will Kazuya's direct denial and Chizuru's source check produce a complete correction of Ruka's fabricated sex evidence?
 - How will Chizuru balance newly explicit chosen-family value against the ring and false couple premise?
-- What proposition or truth account follows Kazuya's initiated chapel address, and how does Chizuru respond?
-- What information or intervention follows Nagomi's direct request to speak with Mami?
-- Why does Kuribayashi seek Ruka directly, and how does their former client-provider history affect the exchange?
+- Can Kazuya complete the proposition after interpreting Chizuru's Mami-driven flight as rejection and withdrawing the subject?
+- How will the mixed group interpret and respond to Chizuru's rental profile on Nagomi's phone?
+- Will Mami acknowledge, deny, or reframe responsibility for the profile exposure after the conditional truce?

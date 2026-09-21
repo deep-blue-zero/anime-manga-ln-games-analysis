@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V024, with V011-V019 treated as a negative-evidence interval."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V025, with V011-V019 treated as a negative-evidence interval."
 ---
 
 # Mami Nanami reconstruction model
@@ -51,13 +51,14 @@ model_basis:
     - RAG-JP-EPUB-V022
     - RAG-JP-EPUB-V023
     - RAG-JP-EPUB-V024
-  admitted_through_volume: V024
-  narrative_time_boundary: "after Mami treats Chizuru's souvenir-ring participation as contradictory, appears in a locked-account sequence framing restraint as help while resenting likely blame, and receives Nagomi's direct request to talk"
+    - RAG-JP-EPUB-V025
+  admitted_through_volume: V025
+  narrative_time_boundary: "after Mami converts rescue framing into a coercive room-and-ring disclosure plan, reveals a controlled childhood and failed Tarou route behind her anti-romance conclusion, conditionally retreats after Chizuru's refusal, and smiles at the public Diamond-profile display"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.4"
+  model_revision: "1.5"
   prior_knowledge_limitations:
-    - "No post-V024 narrative evidence is admitted."
+    - "No post-V025 narrative evidence is admitted."
     - "Mami's final motive and desired endpoint remain unknown."
     - "V011-V019 contain no material observed Mami conduct and cannot be filled with inferred hidden actions."
 coverage:
@@ -80,9 +81,8 @@ coverage:
     - business proposal to Nagomi
     - selective secrecy request and follow-up planning
   missing_contexts:
-    - reason for the original breakup
     - stable private motive and desired endpoint
-    - family and home life
+    - broader current family and home life beyond the concentrated childhood history
     - sustained work or study routine
     - close friendship outside Kazuya's network
     - response to a complete truthful account
@@ -97,7 +97,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports bounded reconstruction when Mami encounters inconsistent relationship accounts, possesses an information advantage, or can approach Kazuya's network through a socially legitimate route. It can estimate likely questioning, information collection, selective disclosure, audience-specific presentation, parallel target testing, contradiction judgment, and attempts to preserve or widen access. It must abstain on her final motive, family history, private routine, a definitive romantic endpoint, the result of Nagomi's requested talk, and any action that depends on post-V024 knowledge.
+This model supports bounded reconstruction when Mami encounters inconsistent relationship accounts, possesses an information advantage, or can approach Kazuya's network through a socially legitimate route. It can estimate likely questioning, information collection, selective disclosure, audience-specific presentation, parallel target testing, contradiction judgment, coercive rescue framing, and attempts to preserve or widen access. It may use the admitted controlled-childhood and Tarou history as represented context, while abstaining on a single final motive, unshown current family conditions, a definitive romantic endpoint, the exact phone mechanism, and any action after the V025 profile display.
 
 ## Central mechanism
 
@@ -105,7 +105,7 @@ Mami repeatedly responds to unresolved access and contradictory accounts by test
 
 This information asymmetry can support destabilizing conduct. In V002 she explicitly wants to separate Kazuya and Chizuru, uses identity knowledge in public, kisses Kazuya, and schedules a meeting. In V005-V006 a sighting of Sumi becomes a platform search and a booking of Chizuru. In V009-V010 conflicting status claims and a direct rental sighting become questioning and family-account research. In V020 the dormant family route becomes contact through Kibe and a plausible older-user smartphone proposal to Nagomi.
 
-The model cannot convert this recurrence into a solved motive. Mami can be affected, jealous, concerned, controlling, resentful, professionally interested, or several at once. Her self-report that she decided not to fall in love again and her request for secrecy constrain interpretation but do not establish which motive governs. Predictions should therefore be about method and access, not final purpose.
+V025 adds a direct represented history rather than merely another access method. Paternal control, an arranged future, the failed Tarou route, and Mami's stated wish to destroy couples she sees performing love constrain the model toward autonomy threat and anti-romance hostility. They do not solve every present motive, validate coercion, or prove that concern is wholly false. Predictions should therefore remain about observable method, appraisal, and access rather than a single final purpose.
 
 ## Temporal states
 
@@ -435,6 +435,62 @@ uncertainties:
   - "Whether Mami's help framing reflects protection, control, punishment, truth correction, or a mixture."
 ~~~
 
+### MAM-S010 — coercive rescuer with disclosed anti-romance history and exposure-linked affect
+
+~~~yaml
+state_id: MAM-S010
+valid_from_source: "V025 0005"
+valid_until_source: null
+entry_conditions:
+  - "Mami has family access, Chizuru's verified rental profile, Kazuya's confession-first plan, Nagomi's request to talk, and a judgment that Chizuru's ring participation contradicts her disclaimers."
+active_goals:
+  - make Chizuru participate in a family-facing correction on Mami's timetable
+  - frame the intervention as rescue while assigning wrongdoing to Kazuya
+  - test whether Chizuru will defend Kazuya, Nagomi, or the value created by the lie
+  - preserve information and exposure leverage after resistance
+known_propositions:
+  - "Chizuru says she is at her limit but raises practical objections to immediate disclosure."
+  - "The inherited ring can function as family evidence even though Chizuru says she has never worn it."
+  - "Chizuru admits responsibility, defends Kazuya's correction agency, and treats Nagomi's smile as real despite the lie."
+  - "Chizuru will align a financial-dispute cover and hide the bargain from Kazuya to obtain delay."
+  - "Nagomi's fallen phone displays Chizuru's Diamond profile before the group."
+relationship_conditions:
+  - "Mami's claimed alliance with Chizuru is directly contested by Chizuru's refusal of her method."
+  - "Nagomi remains the family audience Mami can reach, while Mami's former-partner stake remains hidden from her."
+  - "The public profile display follows a conditional truce, and Mami's smile supports but does not mechanically prove orchestration."
+changed_from_previous:
+  - MORNING_VICTIM_FRAMING_OVERHEARD
+  - ROOM_8504_DISCLOSURE_ROUTE_SPECIFIED
+  - INHERITED_RING_REQUIRED_AS_EVIDENCE
+  - ENVELOPE_OR_DOCUMENT_PRODUCED
+  - CHIZURU_OPINION_DISMISSED
+  - CONTROLLED_CHILDHOOD_AND_ARRANGED_FUTURE_DISCLOSED
+  - TAROU_RELATION_AND_BREAKUP_DISCLOSED
+  - COUPLE_DESTRUCTION_IMPULSE_STATED
+  - CHIZURU_REFUSAL_RECEIVED
+  - CONDITIONAL_STORY_ALIGNMENT_TRUCE_CREATED
+  - PROFILE_EXPOSURE_LINKED_SMILE_OBSERVED
+evidence_refs:
+  - RAG-E-V025-001
+  - RAG-E-V025-005
+  - RAG-E-V025-006
+  - RAG-E-V025-007
+  - RAG-E-V025-008
+  - RAG-E-V025-009
+  - RAG-E-V025-010
+  - RAG-E-V025-012
+  - RAG-E-V025-013
+  - RAG-E-V025-014
+  - RAG-E-V025-018
+  - RAG-E-V025-020
+  - RAG-E-V025-021
+  - RAG-E-V025-022
+uncertainties:
+  - "The precise action that opened the profile or caused the phone drop."
+  - "Whether Mami acknowledges responsibility and how she frames the display to Nagomi and the group."
+  - "How much sincere concern, control, punishment, truth correction, and anti-romance hostility coexist in the intervention."
+~~~
+
 ## Behavioral rules
 
 ### RAG-MAM-R001 — contradictory relationship accounts prompt targeted coherence testing
@@ -554,15 +610,28 @@ uncertainties:
 - Disconfirming observation: comparable apparent contradiction produces neither judgment nor controlled delay and instead leads to an unrelated transparent response.
 - Class/confidence: WORKING_HYPOTHESIS; low and attribution-bounded.
 
+### RAG-MAM-R010 — autonomy-threat and anti-romance appraisal can turn claimed rescue into control over another person's correction
+
+- Scope: MAM-S010.
+- Trigger: A couple-like arrangement appears false or socially compelled, the participant resists leaving, and Mami has a route to an invested family audience.
+- Relationship conditions: Mami identifies with constrained autonomy, regards romantic performance as suspect, and possesses evidence the target needs contained.
+- Likely appraisal: the participant is a victim whose continued defense demonstrates the depth of the false system, so outside intervention remains justified even against stated preference.
+- Likely action range: name a wrongdoer and victim, specify an exit route, mobilize objects or documents, dismiss practical objections, control movement and timing, then convert refusal into a conditional information bargain or exposure move.
+- Support: RAG-E-V025-005 through RAG-E-V025-010, RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021.
+- Counterevidence/gap: one concentrated intervention; Chizuru successfully refuses the immediate plan, and exact responsibility for the phone display remains inferential.
+- Alternative: sincere protection, control, punishment, truth correction, anti-romance hostility, and tactical self-interest may coexist.
+- Disconfirming observation: comparable autonomy and false-couple cues produce respect for an informed refusal, transparent disclosure of Mami's own stake, and no conditional leverage or exposure action.
+- Class/confidence: WORKING_HYPOTHESIS; low and intervention-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Mami knows Kazuya as a former boyfriend who remained responsive after the breakup and later became entangled in contradictory relationship presentations. V021 adds her own negative account of his pursuit, but that testimony must remain attributed. V023 gives her his direct admission of the cover lie and his confession-first correction plan while she presents concern for his happiness. V024 does not give her his chapel speech or Chizuru's answer; it places her own route under Nagomi's direct request. She can pressure him publicly, approach privately, create physical or scheduled access, test trust, and withhold her own endpoint. Do not predict reunion, harm, protection, or confession from former-partner status alone.
+Mami knows Kazuya as a former boyfriend who remained responsive after the breakup and later became entangled in contradictory relationship presentations. V021 adds her own negative account of his pursuit, but that testimony must remain attributed. V023 gives her his direct admission of the cover lie and his confession-first correction plan while she presents concern for his happiness. V024 places her own route under Nagomi's direct request. V025 has her assign Kazuya primary wrongdoing, require that Chizuru hide their bargain from him, and remain outside his knowledge while the profile appears. She can pressure him publicly, approach privately, test trust, and withhold her endpoint; former-partner status alone does not predict reunion, protection, or harm.
 
 ### Toward Chizuru
 
-Chizuru is first the publicly presented girlfriend, then a verified rental provider whose continued involvement Mami challenges. Mami uses identity details, client access, public project documentation, apartment residue, direct testimony, and V023 profile verification. She claims ally status, proposes a joint ending, and later promises warning rather than sudden exposure. V024 adds an explicit liar judgment after the souvenir-ring scene and a private sequence framing Mami's restraint as help. The model cannot determine whether protection, control, punishment, truth correction, or mixed motive governs the offer, warning, and delay.
+Chizuru is first the publicly presented girlfriend, then a verified rental provider whose continued involvement Mami challenges. Mami uses identity details, client access, public project documentation, apartment residue, direct testimony, and V023 profile verification. She claims ally status, proposes a joint ending, and later promises warning rather than sudden exposure. V024 adds an explicit liar judgment. V025 turns the alliance into a nonoptional room-and-ring plan, meets direct refusal, bargains for an aligned cover, and ends with Mami smiling at the profile display. Protection, control, punishment, truth correction, and anti-romance hostility remain potentially mixed, while the exact display mechanism is unshown.
 
 ### Toward Ruka
 
@@ -570,11 +639,11 @@ Ruka supplies a rival status claim and a false sex claim that Kazuya corrects. I
 
 ### Toward Kibe and Nagomi
 
-Kibe becomes an intermediary, and Nagomi becomes the audience for a smartphone-service proposal. Mami presents herself through future-oriented work, suppresses former-partner history, builds repeated credibility, calls Nagomi directly, and then joins Nagomi's Hawaiians group while already present through a family-manager lodging route. V023 makes Nagomi disclosure an explicit option in Mami's Ruka test without carrying it out. V024 reverses direction when Nagomi asks Mami to talk. Predict route maintenance and calibrated disclosure within this setting; abstain on the requested topic, resulting disclosure, trust, exploitation, and durability.
+Kibe becomes an intermediary, and Nagomi becomes the audience for a smartphone-service proposal. Mami presents herself through future-oriented work, suppresses former-partner history, builds repeated credibility, calls Nagomi directly, and then joins Nagomi's Hawaiians group while already present through a family-manager lodging route. V023 makes Nagomi disclosure an explicit option in Mami's Ruka test. V024 reverses direction when Nagomi asks Mami to talk. V025 specifies a planned room disclosure, accepts a temporary financial-dispute cover, and ends with the profile on Nagomi's phone. Predict calibrated use of the route; abstain on the exact phone mechanism and Nagomi's response.
 
 ## Domain account and negative constraints
 
-- Motivational architecture: access, information advantage, relationship-status challenge, and control of self-disclosure are supported. A final motive is not.
+- Motivational architecture: access, information advantage, relationship-status challenge, control of self-disclosure, represented autonomy loss, and explicit anti-romance hostility are supported. A single final motive is not.
 - Decision process: concrete contradictions and available routes often precede research, questioning, or contact; the evidence does not establish exhaustive long-range planning.
 - Emotional regulation: she can maintain a pleasant or professional surface and also show visible affect. Surface control does not prove emotional absence.
 - Agency and competence: initiative is observed in questioning, research, booking, network contact, proposal framing, and follow-up scheduling. Actual business execution remains untested.
@@ -590,10 +659,10 @@ Use Japanese manga written speech only. Mami can place pointed questions or stat
 
 Supported with caution: a new inconsistency in a relationship account; public information that opens a contact route; an audience before whom former-partner history is costly; a target who denies an observed fact; a follow-up meeting after the V020 proposal.
 
-Require extra assumptions: family life, workplace competence beyond the pitch, whether she still wants Kazuya romantically, response to full truth, response to firm exclusion, willingness to harm Nagomi, the result of Nagomi's requested talk, or any post-V024 conduct.
+Require extra assumptions: current family life beyond the disclosed history, workplace competence beyond the pitch, whether she still wants Kazuya romantically, response to full truth, durable response to firm exclusion, willingness to harm Nagomi, exact responsibility for the phone mechanics, or any post-V025 conduct.
 
 Abstain whenever the outcome depends on solving her motive, inventing V011-V019 conduct, treating research as omniscience, or assuming that professional plausibility proves either innocence or deception. Generated scenarios cannot become canon evidence.
 
 ## Validation status
 
-The model is admitted as `PARTIAL_MODEL`. Repeated information acquisition, audience-sensitive presentation, contradiction testing, and access-building recur across peer, platform, workplace, online, business, venue, and family contexts. V023 validates parallel target-specific probes inside embedded mixed-audience access; V024 adds contradiction judgment, a restraint-as-help self-framing, and family-initiated contact. The method remains more generalizable than the motive, the long negative-evidence interval remains substantial, and ordinary routine is sparse. Operational use is therefore limited to named information-and-access pressures with explicit abstention on endpoint and intent.
+The model is admitted as `PARTIAL_MODEL`. Repeated information acquisition, audience-sensitive presentation, contradiction testing, and access-building recur across peer, platform, workplace, online, business, venue, and family contexts. V025 adds direct formative history and validates that Mami can convert claimed rescue into coercive timing, movement, evidence use, and conditional secrecy after resistance. The history narrows plausible appraisals without solving motive; the long negative-evidence interval and sparse ordinary routine remain substantial. Operational use is limited to named information, autonomy-threat, and access pressures with explicit abstention on endpoint and exact exposure mechanics.

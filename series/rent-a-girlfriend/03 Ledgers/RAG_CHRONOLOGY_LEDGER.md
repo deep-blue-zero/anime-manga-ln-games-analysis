@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.24"
+version: "1.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V024
-row_count: 112
-state: CURRENT_THROUGH_V024
+inspected_through_volume: V025
+row_count: 117
+state: CURRENT_THROUGH_V025
 ```
 
 ## Records
@@ -154,3 +154,8 @@ state: CURRENT_THROUGH_V024
 | RAG-CHR-110 | RAG-E-V024-010 through RAG-E-V024-013 | The next morning, Chizuru sees Ruka beside Kazuya; Kazuya sets a same-day confession deadline; Ruka then confronts Chizuru twice around Nagomi's interruptions. | Morning order and the confession's “today” anchor are explicit. | No calendar date or precise hour beyond the pool plan is established. |
 | RAG-CHR-111 | RAG-E-V024-014 through RAG-E-V024-019 | Chizuru's Mami question and Kazuya's denial precede Nagomi's wedding-site walk, her thanks for Kazuya's twenty-one years, Kuribayashi's approach to Ruka, and Nagomi's message to Mami. | The resort sequence converges several direct-contact routes before the chapel climax. | Some adjacent scenes are crosscut, and their minute-level simultaneity is not established. |
 | RAG-CHR-112 | RAG-E-V024-020 through RAG-E-V024-022 | Kazuya's review of accumulated costs becomes a run to the chapel and a direct request that Chizuru listen. | This is the final main-narrative action of V024. | The proposition, wider truth account, and response occur beyond the volume boundary. |
+| RAG-CHR-113 | RAG-E-V025-001 through RAG-E-V025-006 | Mami's warning and Chizuru's limit message precede Kazuya's continued chapel attempt, Mami's arrival text, Chizuru's flight, and the room-and-ring disclosure plan. | The sequence directly continues V024's final chapel action during the resort's departure day. | Exact minute intervals and the full document content are not established. |
+| RAG-CHR-114 | RAG-E-V025-007 through RAG-E-V025-009 | Mami's retrospective history moves from controlled childhood and an arranged future through her Tarou relationship, paternal breakup order, and later anti-romance conclusion. | Internal order is explicit within the backstory. | Calendar dates, ages after nine, and independent verification of Tarou's breakup motive remain unavailable. |
+| RAG-CHR-115 | RAG-E-V025-010 through RAG-E-V025-014 | Mami's corridor pressure and the Kuribayashi-Ruka exchange lead into the ring dispute, Chizuru's defense, and her refusal to proceed to the room. | Crosscut events occur before the group reconvenes at the pool. | Their minute-level simultaneity is not established. |
+| RAG-CHR-116 | RAG-E-V025-015 through RAG-E-V025-020 | Kazuya's presumed-rejection spiral precedes Chizuru's renewed protection exchange, the revealed conditional truce, and the group's resumed pool and departure routine. | The narrative later identifies November 24 at approximately 15:35-15:37 and says eighteen months have passed since the principals met. | One caption shows 15:37 while the phone screen shows 15:35, so exact minute precision is withheld. |
+| RAG-CHR-117 | RAG-E-V025-021, RAG-E-V025-022 | At departure, Nagomi drops her phone, the group sees Chizuru's rental profile, Mami smiles, and Kazuya reacts before the cut. | This is the final main-narrative event of V025. | The display's preparation, every observer's comprehension, and all responses occur beyond the volume boundary. |

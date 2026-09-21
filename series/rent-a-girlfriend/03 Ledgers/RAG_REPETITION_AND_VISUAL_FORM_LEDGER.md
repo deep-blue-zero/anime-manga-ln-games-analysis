@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.24"
+version: "1.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V024
-row_count: 134
-state: CURRENT_THROUGH_V024
+inspected_through_volume: V025
+row_count: 141
+state: CURRENT_THROUGH_V025
 ```
 
 ## Records
@@ -176,3 +176,10 @@ state: CURRENT_THROUGH_V024
 | RAG-FRM-132 | Chizuru's direct Mami question, Kazuya's denial, and a locked social feed distribute former-partner interpretation across speech and screen. | One route gives Chizuru a direct answer; the other gives the reader an interested restraint-and-resentment self-framing. | Alternating access preserves incompatible appraisals without collapsing them into a single motive. | Account attribution is sequence-supported, and neither inner sequence supplies Chizuru's romantic answer; RAG-E-V024-014, RAG-E-V024-015. |
 | RAG-FRM-133 | Resort paths and the wedding-site revelation turn an ordinary walk into multigenerational memory. | Nagomi links the current trip to Kazuo and Harumi's wedding, mortality, and twenty-one years of Kazuya's life. | Place repetition makes the family setting both a gift and a pressure amplifier. | Memorial framing does not show that Nagomi knows the rental truth; RAG-E-V024-016, RAG-E-V024-017. |
 | RAG-FRM-134 | An extended memory montage and running sequence terminate at the chapel threshold and a cut-off request to listen. | Repeated recollections of Chizuru's care convert Kazuya's internal resolve into direct physical approach and speech. | The volume-ending cut establishes initiation while withholding proposition and answer. | Montage intensity and chapel imagery do not complete confession or create reciprocal status; RAG-E-V024-020 through RAG-E-V024-022. |
+| RAG-FRM-135 | Repeated speech openings, a wrist catch, and Mami's phone message convert the chapel climax into another interrupted threshold. | Kazuya moves from request to attempted statement while Chizuru's unseen disclosure pressure pulls her away. | Cross-channel interruption makes the same flight mean emergency to Chizuru and rejection to Kazuya. | The sequence supplies no completed proposition or stated rejection; RAG-E-V025-001 through RAG-E-V025-004. |
+| RAG-FRM-136 | Corridor handholding, room numbers, an envelope, the inherited ring, and an embrace stage rescue and coercion in the same visual route. | Mami repeatedly positions Chizuru as a person being led and saved while denying that her opinion controls the plan. | Care imagery remains formally inseparable from imposed movement and disclosure timing. | Visual tenderness cannot establish voluntary agreement; RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010. |
+| RAG-FRM-137 | Childhood objects, controlled spaces, message screens, and the metaphor of a tiny dead “baby” compress Mami's autonomy history into one retrospective chapter. | Hope linked to Tarou and escape is followed by paternal prohibition, breakup, and an anti-romance conclusion. | The inner-child image marks lost possibility rather than a literal reproductive event. | Symbolic compression does not independently verify every causal link or excuse present conduct; RAG-E-V025-007 through RAG-E-V025-009. |
+| RAG-FRM-138 | Chizuru's demand for retraction and repeated full-body bows reverse the earlier image of being led. | She moves from following Mami to physically pulling free and holding a refusal posture. | Repetition gives a low-power request sustained force without erasing her admitted responsibility. | Bowing does not equal agreement to Mami's method or resolution of the lie; RAG-E-V025-012 through RAG-E-V025-014. |
+| RAG-FRM-139 | A crossed-out series title and extended explicit jealousy montage externalize Kazuya's belief that the rental-girlfriend relation has ended. | Imagined sexual scenes with other men intercut with his pool breakdown after the presumed rejection. | Focalization makes catastrophic interpretation visually overwhelming while preserving its unreal status. | The imagined scenes are not evidence of Chizuru's conduct or preference; RAG-E-V025-015, RAG-E-V025-016. |
+| RAG-FRM-140 | Friendly pool tableaux and Chizuru-Mami surface warmth precede a narrated “end” forecast. | Apparent ordinary closure gives Kazuya confidence immediately before the information system fails. | Calm group form heightens the contrast between managed surface and latent disclosure. | Kazuya lacks the truce terms and cannot authenticate the apparent safety; RAG-E-V025-018 through RAG-E-V025-020. |
+| RAG-FRM-141 | A dropped phone, reaction close-ups, Mami's small smile, and a full-page Diamond profile create the exposure cliffhanger. | The portable screen turns compartmented service identity into group-visible evidence without explanatory dialogue. | Object fall and page-scale reveal shift authority from competing speech to an apparently direct record. | The exact setup and every observer's interpretation remain withheld; RAG-E-V025-021, RAG-E-V025-022. |

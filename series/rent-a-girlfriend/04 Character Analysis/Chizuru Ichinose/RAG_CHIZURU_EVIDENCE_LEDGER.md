@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; character evidence inspected through V024."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; character evidence inspected through V025."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V024
+inspected_through_volume: V025
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -157,6 +157,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E115 | CHI-S026 | RAG-E-V024-007 through RAG-E-V024-009 | Maternal care and release from compulsory ring retention | Hears Harumi's family history, receives consultation access, and is told that the inherited ring may be returned without resentment before trying a souvenir ring. | Gains family care and a reduced object obligation from the apparent maternal gatekeeper. | She cannot explain the rental truth, and no return or engagement intent follows. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R018, RAG-CHI-R020 |
 | RAG-CHI-E116 | CHI-S026 | RAG-E-V024-011 through RAG-E-V024-015 | Direct status pressure and former-partner clarification | Denies a marriage plan, acknowledges responsibility, cannot answer favorite person versus customer, hears the false sex claim again, and directly asks whether Kazuya still wants Mami. | Holds emotional classification open while obtaining one factual present-preference answer. | Kazuya's denial does not complete the wrapper debrief or supply Chizuru's own answer. | RAG-CHI-R016, RAG-CHI-R017, RAG-CHI-R019, RAG-CHI-R020 |
 | RAG-CHI-E117 | CHI-S026 | RAG-E-V024-019, RAG-E-V024-022 | Same-day pressure and receipt of initiated chapel speech | Waits at the chapel under unresolved intervention pressure and is directly called upon by Kazuya to listen. | Reaches the threshold of a private answerable confession event. | Her response and the content she receives are beyond V024. | RAG-CHI-R016, RAG-CHI-R018, RAG-CHI-R020 |
+| RAG-CHI-E118 | CHI-S027 | RAG-E-V025-001 through RAG-E-V025-004 | Overload message and Mami-driven chapel flight | Tells Kazuya that she may be at her limit, receives his continued attempt, and leaves after Mami announces arrival. | Acts under an immediate competing disclosure threat rather than supplying a romantic answer. | Kazuya does not know the cause, and her apology does not semantically equal rejection. | RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R021 |
+| RAG-CHI-E119 | CHI-S027 | RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010 | Coercive rescue route and practical resistance | Receives the room-and-ring plan, raises booking, money, lodging, and concealment problems, and is told that her opinion does not control participation. | Tests Mami's proposal against concrete obligations before direct refusal. | Following initially does not establish free agreement, and the document's status remains unknown. | RAG-CHI-R003, RAG-CHI-R017, RAG-CHI-R021 |
+| RAG-CHI-E120 | CHI-S027 | RAG-E-V025-012 through RAG-E-V025-014 | Direct ethical defense and refusal | Demands retraction of an insult to Nagomi, admits her own failure, defends Kazuya's correction agency and Nagomi's real smile, pulls away, and refuses the plan. | Makes her mixed-truth ethics and decisional boundary explicit under pressure. | The defense does not make the lie factually true or remove her responsibility to correct it. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R017, RAG-CHI-R018, RAG-CHI-R021 |
+| RAG-CHI-E121 | CHI-S027 | RAG-E-V025-017, RAG-E-V025-018 | Accepted protection and conditional secrecy bargain | Repeats Kazuya's wish that Nagomi keep dreaming, accepts his protection promise, and conceals the Mami exchange after supplying an aligned financial-dispute cover. | Preserves family care and immediate safety through selective disclosure. | Kazuya cannot consent to a plan hidden from him, and the bargain deepens the deception it postpones. | RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R018, RAG-CHI-R021 |
+| RAG-CHI-E122 | CHI-S027 | RAG-E-V025-019 through RAG-E-V025-022 | Friendly surface and public profile exposure | Resumes the group setting, presents calm interaction with Mami, and reacts in shock when her Diamond profile appears on Nagomi's phone. | Her controlled surface fails to prevent a direct identity-compartment breach. | The volume gives no explanation, family response, or evidence that Chizuru knows the exact mechanism. | RAG-CHI-R002, RAG-CHI-R017, RAG-CHI-R018, RAG-CHI-R021 |
 
 ## State-change summary
 
@@ -186,6 +191,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S024 — family-trip participant under fabricated rivalry evidence and immediate confession pressure:** accepts Nagomi's bereavement care, holds Ruka's false wrapper claim, coordinates the ring and cover problem with Kazuya, names her own missing family-trip experience, faces Mami inside the group, and avoids a confession she recognizes before it is completed.
 - **CHI-S025 — chosen-family participant under direct credibility testing:** controls exposed practical help through specific agreement, playfully seeks appraisal within a role frame, receives Mami's conditional disclosure warning, checks Ruka's repeated sex claim with Kazuya directly, and identifies the group experience as her best day through Sayuri's teaching without supplying a romantic answer.
 - **CHI-S026 — explicitly included family participant under released ring obligation and direct answer pressure:** receives Nagomi's family assurance and Harumi's permission to return the ring, preserves transaction accounting, positively appraises the trip, withstands Ruka's status pressure, directly clarifies Kazuya's present preference about Mami, and reaches the chapel threshold without a supplied romantic self-classification.
+- **CHI-S027 — method-refusing participant under conditional secrecy and identity exposure:** leaves the chapel under Mami's arrival pressure, resists a coerced room-and-ring disclosure, defends Kazuya's agency and Nagomi's real smile while admitting her own failure, enters a conditional cover bargain, accepts Kazuya's protection without revealing it, and then sees her Diamond profile exposed before the group.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 

@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.24"
+version: "1.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V024
-row_count: 139
-state: CURRENT_THROUGH_V024
+inspected_through_volume: V025
+row_count: 145
+state: CURRENT_THROUGH_V025
 ```
 ```
 
@@ -182,3 +182,9 @@ state: CURRENT_THROUGH_V024
 | RAG-PRG-137 | Mami's intervention route | FAMILY_FACING_ESCALATION_WITH_WITHHELD_ACTION — Mami judges the ring scene, privately frames restraint as help, and receives Nagomi's request to talk. | Her distributed pressure now converges with a direct family-initiated contact. | No disclosure, alliance, or conversation result completes. | RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019 |
 | RAG-PRG-138 | Kuribayashi-Ruka relation | NEW_DIRECT_ROUTE — Kuribayashi seeks Ruka out and states that he came to see her. | Former client and provider gain direct access outside Kazuya's management. | The purpose and response are withheld, so support, rejection, or status change cannot yet be assigned. | RAG-E-V024-018 |
 | RAG-PRG-139 | Kazuya's confession route | DIRECT_INITIATION_WITH_CONTENT_WITHHELD — after accepting anticipated rejection and loss, Kazuya runs to the chapel and asks Chizuru to listen. | Repeated internal deadlines become an observable direct address before the intended recipient. | The proposition, truth correction, and answer remain incomplete at the volume cut. | RAG-E-V024-020 through RAG-E-V024-022 |
+| RAG-PRG-140 | Kazuya's confession route | CONTINUED_ATTEMPT_WITH_INTERRUPTION_AND_MISREAD — he begins again, Mami's message prompts Chizuru's flight, and he later withdraws the topic as if rejected. | The V024 initiation receives a direct consequence rather than disappearing. | No proposition or answer completes, and Kazuya's rejection belief is unsupported by Chizuru's stated position. | RAG-E-V025-003, RAG-E-V025-004, RAG-E-V025-015, RAG-E-V025-017 |
+| RAG-PRG-141 | Chizuru's autonomy under intervention pressure | SIGNIFICANT_BOUNDARY_GAIN_WITH_TRUTH_COST — she rejects Mami's unilateral plan, defends Kazuya's agency, and refuses to go. | Chizuru becomes an active ethical disputant rather than a passive disclosure object. | Her successful delay preserves and then coordinates another cover story. | RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-018 |
+| RAG-PRG-142 | Mami's intervention route | COERCIVE_ESCALATION_WITH_TEMPORARY_SETBACK — rescue language becomes a room, ring, and document plan before Chizuru's refusal produces a conditional truce. | The route acquires concrete execution capacity and then appears to pause. | The endpoint profile display defeats the appearance of stable de-escalation, but its exact mechanics remain unshown. | RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021 |
+| RAG-PRG-143 | Kuribayashi-Ruka relation | BOUNDED_CLARIFICATION_GAIN — Kuribayashi replaces anticipated blame with concern, self-criticism, and relief at seeing Ruka. | Their former client-provider relation receives direct interpersonal repair information. | No continuing relation, romance, or broad reconciliation is established. | RAG-E-V025-011 |
+| RAG-PRG-144 | Kazuya's emotional calibration | ACUTE_REGRESSION_UNDER_ASYMMETRIC_INFORMATION — he treats flight as rejection, imagines rival sexual scenarios, breaks down, and cancels clarification. | Fear and incomplete information overwhelm the accepted-loss stance that enabled the chapel approach. | He still renews his protection promise, so the regression does not erase care or all action capacity. | RAG-E-V025-015 through RAG-E-V025-017 |
+| RAG-PRG-145 | Family-cover stability | MAJOR_COMPARTMENT_FAILURE_AT_UNRESOLVED_CUT — Chizuru's rental profile becomes visible on Nagomi's phone before the mixed group. | The long-maintained service identity enters the family and peer audience as direct screen evidence. | No explanation, judgment, or durable relationship consequence completes within V025. | RAG-E-V025-021, RAG-E-V025-022 |

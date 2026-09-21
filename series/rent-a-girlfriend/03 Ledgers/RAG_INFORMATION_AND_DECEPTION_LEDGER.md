@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.24"
+version: "1.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V024
-row_count: 143
-state: CURRENT_THROUGH_V024
+inspected_through_volume: V025
+row_count: 150
+state: CURRENT_THROUGH_V025
 ```
 
 ## Records
@@ -185,3 +185,10 @@ state: CURRENT_THROUGH_V024
 | RAG-INF-141 | Chizuru receives a direct present-preference answer about Mami. | She asks whether Kazuya knew Mami would attend and still cares for her; he says he does not want Mami and regards her as dangerous. | A former-partner ambiguity becomes directly answerable between Kazuya and Chizuru. | Kazuya's answer does not reveal Mami's motive, settle the wrapper dispute in full, or classify Chizuru; RAG-E-V024-014, RAG-E-V024-015. |
 | RAG-INF-142 | Nagomi supplies accurate family-history and age anchors while continuing the false couple account. | She identifies Hawaiians as Kazuo and Harumi's wedding site and thanks Kazuya for twenty-one years. | True chronology deepens an inaccurate relational interpretation and raises correction cost. | Kazuya's brief fear that Nagomi knows the truth is unsupported by her speech; RAG-E-V024-016, RAG-E-V024-017. |
 | RAG-INF-143 | Three consequential conversations are initiated without their content completing. | Kuribayashi tells Ruka he came to see her, Nagomi asks Mami to talk, and Kazuya asks Chizuru to listen at the chapel. | The volume endpoint converts separate information routes into direct access events. | Purpose, disclosed propositions, and responses remain beyond V024; RAG-E-V024-018 through RAG-E-V024-022. |
+| RAG-INF-144 | Chizuru knows that Mami overheard the morning victim framing and intends to act, while Kazuya knows only that Chizuru feels near her limit. | Mami tells Chizuru directly; Chizuru sends a limited message before he arrives. | The principals enter the chapel exchange with materially unequal information. | Kazuya receives no Mami context, and Chizuru does not explain it before leaving; RAG-E-V025-001 through RAG-E-V025-004. |
+| RAG-INF-145 | Mami presents a concrete Nagomi-facing disclosure account using the ring, room 8504, and a document. | She directs Chizuru's movement, dismisses objections, and frames her as a victim to be saved. | The intervention moves from general threat to a specified audience, place, object, and timetable. | The exact document status and Nagomi's then-current knowledge remain uncertain; RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010. |
+| RAG-INF-146 | The reader receives Mami's controlled-childhood, Tarou, arranged-marriage, and anti-romance self-account. | A direct retrospective sequence connects lost autonomy and romantic disappointment to her stated wish to destroy performing couples. | A previously withheld history becomes admissible motive evidence. | Other characters are not shown receiving this full account, and history does not prove a single present motive; RAG-E-V025-007 through RAG-E-V025-009. |
+| RAG-INF-147 | Chizuru tells Mami that Kazuya's correction timing belongs to him and that Nagomi's smile can be real despite the lie. | She admits her own failure, cites his prior truth attempts and care, and rejects Mami's method. | Chizuru's ethical position becomes explicit rather than inferred from continued participation. | Positive consequence does not make the false account accurate or harmless; RAG-E-V025-012 through RAG-E-V025-014. |
+| RAG-INF-148 | Kuribayashi corrects Ruka's expectation that he approached to blame her. | He says he is not angry, was glad to see her, worried after she left the service, and criticizes his own status performance. | Their former rental history gains a direct, unmediated interpretation. | Ruka's surprise does not establish romance or future contact; RAG-E-V025-011. |
+| RAG-INF-149 | Mami and Chizuru align a financial-dispute cover for Nagomi and exclude Kazuya from the bargain. | Mami makes silence conditional on story alignment and concealment; Chizuru reports the supplied account. | A planned truth intervention becomes coordinated deception and preserves Mami's asymmetrical knowledge. | The truce is conditional and does not guarantee non-disclosure; RAG-E-V025-018. |
+| RAG-INF-150 | Chizuru's Diamond rental profile becomes visible on Nagomi's phone before the mixed group. | The phone falls face-up, Chizuru reacts, Mami smiles, and Kazuya sees the display. | The central service identity crosses from compartmented knowledge into direct public evidence. | The exact opening/drop mechanism and each observer's settled understanding remain beyond V025; RAG-E-V025-021, RAG-E-V025-022. |
