@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0153
+current_event_boundary: EVENT_0154
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0153
+## Current state — founded units synchronized through EVENT_0154
 
-All five human units now track the same continuous event history through `EVENT_0153`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0153 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0154`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0154 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0153 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0154 committed boundary
+
+**EVENT_0154 is fully integrated:** `VBS-EP-TY-E0139 → VBS-EP-TY-E0154` retains Toya's recipient-facing musical-history method and adds tested cross-genre encounter, deliberate revision of inherited categorical distance, and chosen synthesis of classical, street, jazz, and other practices. `VBS-REL-GROUP-E0146 → VBS-REL-GROUP-E0154` turns the chosen New York route into executed international travel, distributed logistical adaptation, and reciprocal cross-genre performance. New scoped I3 `VBS-REL-TOYA-SHUJI-E0154` records Shūji's apology, corrected assumption, evidence-based artistic recognition, Toya's accepted reliance, effective help, reciprocal thanks, and an open future talk. `VBS-REL-TOYA-FATHER-4 → VBS-REL-TOYA-FATHER-E0154` joins direct craft recognition to credible reconstruction of Harumichi's plural musical history, possible father–son likeness, protected disclosure agency, and Toya's chosen future answer-check. Lloyd, the academy, Ken, and Taiga receive bounded high-I2; Akito–Toya, Ena–Akito, Kohane's family and language routes, and Street singers receive proportional I1/I2. Nightcord is reported-context I1; Leo/need, MORE MORE JUMP!, and Wonderlands×Showtime are I0. The verified envelope is 25 stories / 36 scenes / 1,383 records. No proved cause for paternal hostility, justification of coercion, direct father–son repair, complete sibling-family reconciliation, universal genre sameness, language-barrier erasure, permanent English fluency, effortless travel, parity with elite global musicians, professional contract, guaranteed world success, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0153 to EVENT_0154. EVENT_0155 is next; 15 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+The [EVENT_0154 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0154_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record the compact EVENT_0141–0154 package deltas for the next synthesis checkpoint.
+
+### Historical continuation — EVENT_0153 committed boundary
 
 **EVENT_0153 is fully integrated:** new I3 `MMJ-EP-HR-E0153` records Haruka reconstructing parent-directed guilt, distinguishing parental worry from a mandatory vocational exit, and choosing a pride-directed idol future. `VBS-EP-AN-E0129 → VBS-EP-AN-E0153` integrates An's admitted wish to forget betrayal and grief into supported memory recovery, continuing anger/love, and chosen legacy. New scoped I3 `REL-CROSS-AIRI-AKITO-E0153` confirms that Airi's middle-school request changed Akito's conduct and advances independently carried gratitude and burden fear into direct correction, mutual credit, encouragement, and ordinary cooperation. New `EPI-PJSK-THOUGHT-SHARD-E0153` and bounded `CR-PJSK-SEKAI-042` establish a repeated local thought-shard pattern with owner-specific fields, personified avoided positions, and bounded body/memory effects; preserve the cross-SEKAI lineage separately. New bounded high-I2 `MMJ-REL-HARUKA-PARENTS-E0153` records family worry, collapse support, permission to return, gratitude/guilt, and current concealment. `REL-CROSS-ENA-AIRI-E0022`, `REL-FAMILY-ENA-AKITO-E0014`, MMJ/VBS groups, and Stage/Street singer routes receive proportional I2; N25 is relationship-specific high I2; LN and WxS are I0. The verified envelope is 27 stories / 56 scenes / 1,821 records. No sole-rescuer account, permanent caretaker duty, close or exclusive Airi–Akito friendship, frictionless sibling repair, guarantee that Haruka can prevent parental worry, stable job recovery, completed parental disclosure, easy or required forgiveness, erased betrayal/grief, restored Nagi future, guaranteed world success, controllable/safe thought-shard access, deterministic therapy, physical transformation outside the fields, complete memory rewriting, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0152 to EVENT_0153. EVENT_0154 is next; 16 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -765,13 +771,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0152`. Rui now owns a recipient-responsive direction operative that preserves an intended effect through functional substitution and participant co-authorship; his scoped relation with Kohane records consequential fan feedback, enacted help, returned evidence, and bounded origin-revisiting access. `EVENT_0153` is next; 17 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
+`ANALYSIS_CURRENT` is `EVENT_0154`. Toya now owns an evidence-sensitive cross-genre synthesis operative; Vivid BAD SQUAD has executed its New York route; Shūji's belated listening has become usable sibling support; and the father relation now contains a bounded plural-history reconstruction plus a future direct answer-check. `EVENT_0155` is next; 15 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0152` for all five human units. The EVENT_0141–0170 continuation is active.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0154` for all five human units. The EVENT_0141–0170 continuation is active.
 
 `RECONSTRUCTION_CURRENT` is provisional generation 1 through `EVENT_0140`: 20 principal-human packages, 60 package artifacts, and one cross-character readiness audit. Every principal human independently passes `R3_RECONSTRUCTION_READY` for bounded textual scenario use; none passes R4 or performed-voice readiness. Event-local `reconstruction_yield` annotations remain evidence-yield assessments and are not themselves the certification. Unit and warranted specialist syntheses, full-series synthesis, later-generation contradiction work, and protected integration remain separate dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0152_DEEP_READING.md) closes `EVENT_0152 — Special present for YOU！`, bucket `RB_20241221T060000Z`: 23 stories / 41 scenes / 1,405 records. Rui converts equipment failure into recipient-responsive participant staging; Kohane becomes a bounded creator–recipient collaborator, while invited co-authorship remains distinct from compulsory audience labor.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0154_DEEP_READING.md) closes `EVENT_0154 — Time to take off！`, bucket `RB_20250111T060000Z`: 25 stories / 36 scenes / 1,383 records. Toya revises inherited genre categories through reciprocal performance, VBS executes its New York route, and sibling and paternal-history changes remain distinct from complete family repair.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
