@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0152
+current_event_boundary: EVENT_0153
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0152
+## Current coverage — all five human units synchronized through EVENT_0153
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0152 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0152`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0153 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0153`.
 
 Artifacts:
 
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0152 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0153 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0153 is fully integrated:** new I3 `MMJ-EP-HR-E0153` records Haruka reconstructing parent-directed guilt, distinguishing parental worry from a mandatory vocational exit, and choosing a pride-directed idol future. `VBS-EP-AN-E0129 → VBS-EP-AN-E0153` integrates An's admitted wish to forget betrayal and grief into supported memory recovery, continuing anger/love, and chosen legacy. New scoped I3 `REL-CROSS-AIRI-AKITO-E0153` confirms that Airi's middle-school request changed Akito's conduct and advances independently carried gratitude and burden fear into direct correction, mutual credit, encouragement, and ordinary cooperation. New `EPI-PJSK-THOUGHT-SHARD-E0153` and bounded `CR-PJSK-SEKAI-042` establish a repeated local thought-shard pattern with owner-specific fields, personified avoided positions, and bounded body/memory effects; preserve the cross-SEKAI lineage separately. New bounded high-I2 `MMJ-REL-HARUKA-PARENTS-E0153` records family worry, collapse support, permission to return, gratitude/guilt, and current concealment. `REL-CROSS-ENA-AIRI-E0022`, `REL-FAMILY-ENA-AKITO-E0014`, MMJ/VBS groups, and Stage/Street singer routes receive proportional I2; N25 is relationship-specific high I2; LN and WxS are I0. The verified envelope is 27 stories / 56 scenes / 1,821 records. No sole-rescuer account, permanent caretaker duty, close or exclusive Airi–Akito friendship, frictionless sibling repair, guarantee that Haruka can prevent parental worry, stable job recovery, completed parental disclosure, easy or required forgiveness, erased betrayal/grief, restored Nagi future, guaranteed world success, controllable/safe thought-shard access, deterministic therapy, physical transformation outside the fields, complete memory rewriting, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0152 to EVENT_0153. EVENT_0154 is next; 16 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0153 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0153_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0153: 27 stories / 56 scenes / 1,821 records / 232,028 canonical bytes; canonical files, pinned raw segments, manifests, anchors, projections, locators, and all routes verified.
+- Airi–Akito is PRIMARY/VERY HIGH scoped I3; Haruka and An are CO_PRIMARY/VERY HIGH I3; thought-shard ontology is UNIVERSAL/HIGH I3; Haruka–parents, Ena's established dyads, MMJ/VBS groups, local singers, and relationship-specific N25 routes receive proportional I2. Leo/need and Wonderlands×Showtime are documentary I0.
+- The shared analysis boundary is EVENT_0153. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0153 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0152 forward transaction
 
 **EVENT_0152 is fully integrated:** `WXS-EP-RUI-E0119 → WXS-EP-RUI-E0152` advances Rui's medium-aware direction into recipient-responsive functional substitution: he separates plot minimum from desired effect, receives Kohane's volunteered help as design evidence, converts unavailable lantern machinery into opt-in participant staging, coordinates fiction/logistics/safety, completes the show, inspects receipt, and credits collaborators. New scoped I3 `REL-CROSS-RUI-KOHANE-E0152` records fan testimony changing the work, enacted recruitment and participation, returned praise and photographs, mutual craft reflection, and archive-bounded origin-revisiting access. `REL-WXS-G-E0124`, `VBS-REL-GROUP-E0146`, `REL-WXS-WONDERLAND-E0003`, and `VBS-REL-STREET-VS-HUMANS-1` receive strong/local I2; `VBS-EP-KH-E0135` is preserved; Leo/need receives ordinary archive I1; MMJ and N25 are I0. The verified envelope is 23 stories / 41 scenes / 1,405 records. No universal crisis-adaptation formula, proof that failure inherently improves art, compulsory audience participation, representative or exclusive fan authority, guaranteed recurring co-production, permanent directing mastery, stable show recovery, literal Santa identity, proved parental authorship of the childhood letter, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0151 to EVENT_0152. EVENT_0153 is next; 17 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 

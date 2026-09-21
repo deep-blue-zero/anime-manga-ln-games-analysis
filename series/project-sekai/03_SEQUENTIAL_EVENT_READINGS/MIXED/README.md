@@ -57,3 +57,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0148 — また、木の葉の色づく頃に](PJSK_EVENT_0148_DEEP_READING.md): complete 24-story mixed-family envelope; Shiho turns chosen rest, enabling planning, received perspective, and contingency into an ordinary-life operative, while the Hinomori sisters establish a bounded reciprocal care route.
 
 - [EVENT_0152 — Special present for YOU！](PJSK_EVENT_0152_DEEP_READING.md): complete 23-story mixed envelope; Rui advances medium-aware direction into participant-authored crisis adaptation, while Kohane becomes a bounded reciprocal creator–recipient collaborator.
+
+- [EVENT_0153 — Unfading wishing](PJSK_EVENT_0153_DEEP_READING.md): complete 27-story mixed envelope; Airi–Akito reciprocal support, Haruka's family-aware idol choice, An's grief-memory integration, and repeated local thought-shard ontology receive distinct durable owners.
