@@ -472,6 +472,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "sayonara-lara",
+      "stable_slug": "sayonara-lara",
+      "canonical_title": "Sayonara Lara",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/sayonara-lara/",
+      "canonical_entrypoint": "series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260920",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately."
+    },
+    {
       "series_id": "shine-post",
       "stable_slug": "shine-post",
       "canonical_title": "SHINE POST",
