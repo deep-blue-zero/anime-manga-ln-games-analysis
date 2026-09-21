@@ -40,7 +40,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
 - [Re:ZERO -Starting Life in Another World-](../series/re-zero/) — `series/re-zero/` — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
-- [Rent-a-Girlfriend](../series/rent-a-girlfriend/) — `series/rent-a-girlfriend/` — Japanese manga V001-V047 inventoried and hash-locked locally; the authorized continuous run is V001-V010. Foundations and day-one longitudinal instruments are initialized, with V001 the next analytical unit.
+- [Rent-a-Girlfriend](../series/rent-a-girlfriend/) — `series/rent-a-girlfriend/` — Japanese manga V001-V047 inventoried and hash-locked locally; V001-V020 are inspected, closed, checkpointed, and locally audited. V021 is the next sequential candidate and requires new explicit authorization before narrative inspection.
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
