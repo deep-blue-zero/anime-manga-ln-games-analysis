@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0160
+current_event_boundary: EVENT_0161
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0155
+## Current coverage — all five human units synchronized through EVENT_0161
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0155 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0155`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0161 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0161`.
 
 Artifacts:
 
@@ -68,7 +68,13 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0160 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0161 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0161 is fully integrated:** scoped `REL-FAMILY-MAFUYU-MOTHER-E0100 → REL-FAMILY-MAFUYU-MOTHER-E0161` at I3 changes separation into a Mafuyu-chosen *possibility* of father-mediated contact with Kanade present. Mother memory and self-questioning, father testimony, Mafuyu's actual warmth memory, and Kanade's contrary felt impression remain separately attributed. Kanade's exhausted collapse, subsequent rest, and distributed N25/Empty singer help are strong I2 applications, not a new healthy-work operative. The verified envelope is 25 stories / 48 scenes / 1,671 records. Two monthly archival talks carry anomalous 2023 release metadata and do not date the family encounter. No completed meeting, apology, safe reconciliation, accepted maternal plan, finished equivalent song, clinical diagnosis, permanent workload cure, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0160 to EVENT_0161. EVENT_0162 is next; eight source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
+
+Causal home: [EVENT_0161 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0161_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+### Historical coverage — EVENT_0160 forward transaction
 
 **EVENT_0160 is fully integrated:** `WXS-EP-TSUKASA-E0136 → WXS-EP-TSUKASA-E0160` records Tsukasa's recipient-faithful old-show reconstruction, distributed performer/costumer work, adaptation to a real wheel inspection without usurping safety authority, invited audience participation, and direct owner/child receipt. Nene, Airi, Minori, Mizuki, their bounded cross-unit collaborations, and separate Wonderland/N25 singer routes receive proportional I2/I1. Leo/need has only a prospective photo-recipient I1; VBS is I0. The verified envelope is 23 stories / 37 scenes / 1,361 records. The fictional stolen switch is not the real fault, nor do performers repair the wheel. No saved park, known cat motive, Airi diagnosis, aired MMJ segment, absent-singer receipt, full WxS troupe show, public SEKAI identity, or complete reconstruction is certified. The boundary advances EVENT_0159 to EVENT_0160. EVENT_0161 is next; nine source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
