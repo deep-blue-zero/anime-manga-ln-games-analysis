@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E05 closed; static visual and Japanese textual form"
+source_boundary: "E06 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -46,3 +46,8 @@ source_boundary: "E05 closed; static visual and Japanese textual form"
 | SYL-F0026 | E05 S04-S05/S08-S10 | Manager calls work torture; later says it is enjoyable “today” | Repetitive labor, a successful shared product, serious error, collective repair, and welcome coexist | Static progression + JP text | Refuses both vocational romance and permanent misery; work changes with task, competence, relation, and day | Revises the title's total death pledge into Lara's modest decision to stay “at least today” | sheets 010-019, 024-033; cues 98-172, 205-290 |
 | SYL-F0027 | E05 S02/S10-S12 | Makoto says a photograph cannot be erased like a phone image | Lara photographs the cake-shop façade; a workplace group photo materializes belonging; later photographs/faces enter Lisa's ominous field around Mari and the house | Static progression + JP text | Durable representation can preserve inclusion and expose attachments to surveillance or threat | Develops the ring/mirror archive problem through ordinary human media; exact provenance of later images remains open | sheets 007, 032-038; cues 55-65, 267-323 |
 | SYL-F0028 | E05 S12-S13 | Lisa's exclusionary language and the fish-marked-object/Kōta sequence make Lara anticipate catastrophe | Post-credit return reveals the household intact; Lara hugs Mari and admits she jumped to conclusions | Static progression + JP text | Comic false alarm corrects Lara's immediate inference while leaving Lisa's ideology and unexplained material menace active | Repeats Lara's catastrophic overreading of ordinary situations, now grounded in a genuine hostile statement rather than pure unfamiliarity | sheets 036-041; cues 317-338; motion boundary D0002 |
+| SYL-F0029 | E06 S03/S06 | Humans exhibit Lisa as a dangerous, seductive aquatic body while denying her speech and movement | In 2026 Lisa becomes an aquarium/museum guide who authoritatively explains fish migration to human children while concealing her own mermaid body | Static progression + JP text | Reverses who explains aquatic life and who controls the frame without erasing the concealment required for Lisa's authority | The biwa trout's return to its native river quietly mirrors Lisa's century-long displaced homecoming project | sheets 004-006, 012-016; cues 23-45, 95-132 |
+| SYL-F0030 | E06 throughout | Light begins as Kōta's literal lure and the title's relational address | Rowan calls princess light a restoration resource; Seizō pursues invisible life-light; Lisa asks why Lara will not illuminate the family | Static progression + JP text | Differentiates recognition, political extraction, scientific unknown, vitality, and family demand while keeping them materially entangled | Extends F0004/F0016 beyond a single magic/love equivalence | cues 1-5, 46-71, 133-196, 212-250; sheets 001, 007-009, 016-028 |
+| SYL-F0031 | E06 S10-S13 | A near-immortal mermaid entrusts taboo medicine to a finite human researcher | Newspapers, laboratories, aging, a grave, 1984 presentation, 2026 employment, and failing vials compress nearly a century of partial reproduction | Static progression + JP text | Makes hypothesis and verification a cross-generational montage whose incomplete result still sustains life beyond Seizō's own | Lisa mocks decorated short lives while continuing to consume the material residue of one such life | sheets 024-031; cues 197-266 |
+| SYL-F0032 | E06 S03/S10-S12 | Lisa and her companion begin as displaced nonhumans under royal identities | Documents and public signs stabilize Shiomi Lisa (`潮見リサ`) and Minase Kōta (`水瀬光太`) inside museum, residence, and research institutions | Static signs + JP text | Human naming is not cosmetic disguise alone; it becomes infrastructure for long survival, work, search, and archival continuity | Contrasts Rowan's fixed princess roles with identities Lisa actively assigns and maintains | sheets 004-006, 024-029; cues 23-45, 197-235 |
+| SYL-F0033 | E06 S14-S15 | An emptied imitation-medicine vial breaks a mirror and exposes Grace's location | After credits, Lara's potion-maintained public body also breaks concealment when her red tail becomes visible beside Mari and an unidentified passerby | Static progression + sparse JP text | Joins exhausted magical mediation to fractured visual secrecy: surfaces that protected identities become sites of disclosure | Exact mirror mechanics, phone relation, witness sightline, and transformation trigger remain bounded by D0002 | sheets 031-032, 036-039; cues 267-279; frames `000953`-`001153` |
