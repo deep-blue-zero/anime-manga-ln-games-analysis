@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0149
+current_event_boundary: EVENT_0150
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0148
+## Current coverage — all five human units synchronized through EVENT_0150
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0148 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0148`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0150 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0150`.
 
 Artifacts:
 
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0149 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0150 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0150 is fully integrated:** `MZ-E0145-01 → MZ-E0150-01` advances acute withdrawal into a conditional chosen return, first-person group disclosure, and resumed ordinary/creative presence while preserving future fear. `REL-N25-EMZ-E0145 → REL-N25-EMZ-E0150` repairs the rupture through protected disclosure authority, direct conflict, reciprocal truth, explicit unchanged attachment, and restoration of Mizuki's final choice. `REL-N25-G-7 → REL-N25-G-E0150` records content-blind search support, receipt of Mizuki's authored account, explicit unchanged belonging, and restored work. `REL-N25-VS-MEIKO-E0019 → REL-N25-VS-MEIKO-E0150` records confidential, non-omniscient observation becoming timing-aware intervention. `EPI-N25-ENA-MZ-E0145 → EPI-N25-ENA-MZ-E0150` and new scoped `EPI-N25-G-MZ-E0150` preserve first-person receipt and the black-cut limit on exact content. Rui/WxS and VBS receive proportional I2, LN low I1, and MMJ I0. The verified envelope is 31 stories / 43 scenes / 1,581 records. No exact self-authored identity label, permanent fear cure, guaranteed future nonflight, universal endorsement of pursuit or forced confrontation, guaranteed disclosure safety, equal recipient knowledge, school-wide/public disclosure, suicide attempt or plan, complete recovery, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0149 to EVENT_0150. EVENT_0151 is next; 19 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0150 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0150_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0150: 31 stories / 43 scenes / 1,581 records; canonical files, pinned raw segments, manifests, anchors, projections, locators, and all routes verified.
+- Nightcord / Mizuki is PRIMARY/VERY HIGH I3; Ena–Mizuki, Nightcord group, knowledge, and MEIKO routes receive linked I3 successors. Rui/WxS and VBS receive proportional I2, Leo/need low I1, and MMJ documentary I0.
+- The shared analysis boundary is EVENT_0150. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0150 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0149 forward transaction
 
 **EVENT_0149 is fully integrated:** `WXS-EP-NENE-E0095 → WXS-EP-NENE-E0149` advances integrated musical acting and experience seeking into full-stake competitive practice: Nene accepts a contested role, concentrates prior craft and troupe feedback into a specific interpretation, completes the bid, receives defeat as a specific acting gap, recognizes reciprocal peer effect, and turns regret into further work without abandoning kindness. New scoped I3 `WXS-REL-NENE-BYAKKOMACHI-E0149` records orientation, direct challenge, reciprocal performance effect, result receipt, shared craft purpose, and an open competition channel. Nene–Imura, `REL-WXS-G-E0124`, `WXS-EP-EMU-E0104`, `WXS-EP-TSUKASA-E0136`, and `REL-WXS-WONDERLAND-E0003` receive proportional I2; LN is low I1; MMJ, VBS, and N25 are I0. The verified envelope is 25 stories / 44 scenes / 1,547 records. No cruelty or indifference doctrine, universal competition method, institutional-severity endorsement, inevitable growth through defeat, lead or understudy role for Nene, completed show result, Morinomiya admission or membership, permanent acting mastery, formal Byakkomachi mentorship, guaranteed rivalry or friendship, safe overwork, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0148 to EVENT_0149. EVENT_0150 is next; 20 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -2213,3 +2223,11 @@ The verified group contains 26 stories / 33 scenes / 1,232 records. `LN-EP-SAKI-
 ### EVENT_0148 source and reconstruction review
 
 The verified group contains 24 stories / 32 scenes / 1,397 records. `LN-EP-SHIHO-E0148` and scoped `REL-FAMILY-SHIHO-SHIZUKU-E0148` are new I3 owners; Shizuku, Saki–Tsukasa, and manifestation-local singer authorities receive bounded I2 without successors. No anti-planning doctrine, permanent work-life balance, fatigue cure, professional deintensification, dependency, erased sibling boundaries, universal value in disruption, guaranteed future travel, completed family or group transformation, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0149 source and reconstruction review
+
+The verified group contains 25 stories / 44 scenes / 1,547 records. `WXS-EP-NENE-E0095 → WXS-EP-NENE-E0149` and scoped `WXS-REL-NENE-BYAKKOMACHI-E0149` are I3 successors; Nene–Imura, the troupe, individual, and Wonderland routes receive bounded I2. No cruelty or indifference doctrine, universal competition method, institutional-severity endorsement, inevitable growth through defeat, lead or understudy status for Nene, completed show result, Morinomiya admission or membership, permanent acting mastery, formal Byakkomachi mentorship, guaranteed rivalry or friendship, safe overwork, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0150 source and reconstruction review
+
+The verified group contains 31 stories / 43 scenes / 1,581 records. `MZ-E0150-01`, `REL-N25-EMZ-E0150`, `REL-N25-G-E0150`, `REL-N25-VS-MEIKO-E0150`, `EPI-N25-ENA-MZ-E0150`, and scoped `EPI-N25-G-MZ-E0150` are linked I3 successors; Rui/WxS, VBS, and LN receive proportional I2/I1 evidence. No exact self-authored identity label, permanent fear cure, guaranteed future nonflight, universal endorsement of pursuit or forced confrontation, guaranteed disclosure safety, equal recipient knowledge, school-wide/public disclosure, suicide attempt or plan, complete recovery, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
