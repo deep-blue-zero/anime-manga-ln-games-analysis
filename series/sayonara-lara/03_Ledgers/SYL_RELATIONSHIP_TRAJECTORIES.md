@@ -4,14 +4,14 @@ artifact_id: SYL_RELATIONSHIP_TRAJECTORIES
 artifact_type: relationship_trajectory_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E01 closed; relationship events through the 2026 meeting"
+source_boundary: "E02 closed; relationship events through first shared night"
 ---
 
 # Relationship trajectories ledger
@@ -24,5 +24,9 @@ source_boundary: "E01 closed; relationship events through the 2026 meeting"
 | SYL-R0004 | E01 | Grace -> Lara | `SYL-H0008` mentor/manipulator alternative | Names herself aunt, exposes Lara's wish, offers routes beyond law, removes voice, withholds information, preserves the family, and imposes a violent trial | Aunt / niece; magical sponsor / test subject | Enablement and control are simultaneous rather than mutually exclusive | Grace may be using the only workable pedagogy/mechanism available | E01 S07-S08, S12; cues 134-215, 289-313 |
 | SYL-R0005 | E01 | Lara -> family | Family duty as possible imposed role | After seeing the collapse, Lara accepts total blame and offers body and life to restore father and everyone | Daughter/sister/princess | Attachment becomes self-sacrificial obligation before causal responsibility is established | The offer may express chosen love and courage rather than only internalized duty | E01 S11-S12; cues 273-303 |
 | SYL-R0006 | E01 | Mari -> Lara / Lara -> Mari | Central bond expected from legacy discussion | Mari intercepts Lara's arrival; both react with surprise; episode calls this a meeting | None stated | Relationship ground zero only; no friendship, romance, or durable care yet established | Rescue/collision can become an origin trope, but future category cannot be back-projected | E01 S13-S14; cues 314-323; sheets 039-041 |
+| SYL-R0007 | E02 | Mari -> Lara | Impact-only meeting | Objects to Grace making Lara cry; initially refuses pursuit; later rescues Lara from drowning, provides warmth, returns her home, and permits household care | Household assumes “friend”; neither girl adopts the label | Costly practical care with boundaries; Mari minimizes rescue as `別に` | Destruction-risk warning may motivate pursuit; hospitality may be situational | E02 S06-S07, S11-S13; cues 139-165, 258-322 |
+| SYL-R0008 | E02 | Lara -> Mari | Human as frightening / possible witch servant | Blames Mari for ring loss, then thanks her for rescue, accepts correction, repeats her name, calls it lovely, and calls Mari strange | None stated | Fear becomes individualized recognition and provisional trust; no romance/friendship claim | Gratitude and admiration may remain rescue dependence | E02 S11-S13; cues 263-319 |
+| SYL-R0009 | E02 | Mari -> Grace/Gon | Unknown witch-servant hierarchy | Mari says she found near-dead Gon and made the fish a pet; refuses commands and criticizes tactlessness | Pet / caretaker (Mari's account) | Grace's social authority is inverted inside Mari's household despite informational power over Lara | Grace may be exploiting or tolerating the arrangement for strategic reasons | E02 cues 125-145, 287-305 |
+| SYL-R0010 | E02 | Lisa -> Lara | Candidate sisterly attachment | Ring resonates; Lisa searches Okinoshima, identifies the chosen princess, and calls Lara `愛するララ` | Both are royal princesses; exact sibling wording not spoken here | Strong love and active search established; purpose after recovery open | “Beloved” may combine personal attachment with dynastic need | E02 S08/S15; cues 166-180, 323-327 |
 
 Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points.

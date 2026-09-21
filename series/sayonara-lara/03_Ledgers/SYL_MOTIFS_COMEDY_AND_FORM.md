@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E01 closed; static visual and Japanese textual form"
+source_boundary: "E02 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -25,3 +25,7 @@ source_boundary: "E01 closed; static visual and Japanese textual form"
 | SYL-F0005 | E01 S09-S13 | Foam marks bodily failure/death | Wave and foam later become the vehicle of Lara's 2026 arrival | Static progression | Reverses the medium of erasure into mobility and renewed narrative possibility | Dissolution on ship; wave transit to city | sheets 027-028, 037-040 |
 | SYL-F0006 | E01 S13-S14 | Tragic historical saga enters an ordinary street as a celestial/wave projectile | Mari and Gon notice, Mari acts, and the girls finish inverted and startled under an enlarged moon | Static progression; JP cues | Tonal release converts mythic arrival into a bodily collision and postpones relationship classification | First local comic setup; no later recurrence yet | cues 314-323; sheets 039-041; motion/audio timing deferred D0001-D0002 |
 | SYL-F0007 | E01 S15 | Blue-field end matter credits Hans Christian Andersen | The canonical mermaid tragedy has already become this series' prehistory rather than ending | Static progression | Makes adaptation lineage explicit while the episode's title story begins after death | End-credit frame in sheet 043 | sheet 043 |
+| SYL-F0008 | E02 S03-S05, S09 | Lara applies mythic threat categories to household technology, modern movement, civic aid, and retail procedure | Smart speaker, traffic, police/strangers, mascots, and points campaign remain mundane to locals | Static progression + JP text | Comedy marks institutional illegibility and permits correction rather than punishing ignorance | Repeated escalation from bedroom to city; Mari/household often supply flat local context | sheets 006-015, 022-027; cues 16-88, 181-217 |
+| SYL-F0009 | E02 S04-S06, S13 | Terrifying witch reappears as aquarium fish | Mari calls Grace a rescued pet and ignores command authority | Static progression + JP text | Status inversion gives Lara and Mari incompatible but corrigible frames of the same being | Aquarium glass repeatedly frames Grace behind Lara/Mari; Grace's shadow remains visually imposing | sheets 012-020, 035-037; cues 51-58, 89-145, 287-305 |
+| SYL-F0010 | E02 S07-S13 | Ring as lost royal object | Lara's wording turns it into family/home; inability to recover it leads into water where the new body fails | Static progression + JP text | Converts portable identity into a dangerous substitute for actual return | Extends E01 ring permission/restriction and E02 opening's love-duty wish | sheets 018-034; cues 146-165, 218-283 |
+| SYL-F0011 | E02 S11-S13 | Containers recur as aquarium, lake, cup, bath, bed, shell | Open water threatens; ordinary small containers and rooms restore warmth/safety | Static progression | Refuses a simple water=home code; care depends on fit between body and environment | Aquarium contains Grace; lake nearly kills Lara; drink/bath/bed sustain her | sheets 015-017, 030-037, 041-042 |

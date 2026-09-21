@@ -4,14 +4,14 @@ artifact_id: SYL_WORLD_RULES_AND_CAUSALITY
 artifact_type: world_rules_causality_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E01 closed; rules remain speaker-attributed where not independently demonstrated"
+source_boundary: "E02 closed; rules remain speaker-attributed where not independently demonstrated"
 ---
 
 # World rules and causality ledger
@@ -26,3 +26,6 @@ source_boundary: "E01 closed; rules remain speaker-attributed where not independ
 | SYL-W0006 | Rowan | His last remaining light can be given to Lara so that she may someday revive. | Mirror history shows the transfer; Lara is awake in the distant ruins. | E01 | Strongly presented but mirror-mediated; mechanism provisional | The awakening occurs before Lara watches the explanation, so subjective chronology and exact causal chain remain unclear | E01 S10-S11; cues 273-279; sheets 028, 032-033 |
 | SYL-W0007 | Grace | She collected the family's fading light into shells; they sleep rather than die, and only Lara can wake them. | Ruins contain many closed shells; no awakening is completed in E01. | E01 | CHARACTER_ASSERTION with matching static objects; outcome untested | Grace withheld the information until after Lara offered her life | E01 S12; cues 297-308; sheets 034-036 |
 | SYL-W0008 | Grace | Magic mirrors show desired or remote events and test the viewer's heart; breaking reflects strong movement of heart. | Mirror displays Lara's wish and later historical scenes; both displays break during emotional decisions. | E01 | Function OBSERVED; truth conditions and causal explanation provisional | Grace owns/controls the device, and desire-responsive images need not be neutral records | E01 S07, S10-S12; cues 158-169, 246-251; sheets 018-020, 029-036 |
+| SYL-W0009 | Lisa/Luna / royal doctrine | The queen generated the castle's life-giving light; one chosen princess can generate it through true love; all six princesses seek love to fulfill that duty. | Lisa's ring resonates with Lara; dormant site later glows and Lisa identifies a chosen special princess, but no restoration occurs. | E02 | CHARACTER_ASSERTION with partial magical correlation; production mechanism untested | Grace frames the same task as Lara-exclusive punishment/repair; voluntariness of mission unknown | E02 S01, S08, S10, S15; cues 1-15, 171-175, 221-239, 323-327 |
+| SYL-W0010 | Grace / observed body | Second potion gives Lara human legs in Shiga, but the body cannot breathe or move normally underwater. | Lara walks on land, enters Lake Biwa, loses mobility/breath, and requires Mari's rescue. | E02 | Bodily consequence strongly OBSERVED in static/text scope | Duration and reversibility unknown; E01 potion had temporary/foam rules that may or may not apply identically | E02 S03, S10-S11; cues 16-29, 248-272; sheets 006-010, 030-032 |
+| SYL-W0011 | Lisa's and Lara's rings | Royal rings can resonate across distance with royal/chosen-princess light. | Lisa's ring lights on Okinoshima while Lara searches in Shiga; Lisa infers Lara. | E02 | OBSERVED correlation and CHARACTER INFERENCE; range/mechanism open | Lara's own ring is missing and its location is not shown | E02 S08/S15; cues 170-175, 323-327; sheets 021, 041-042 |
