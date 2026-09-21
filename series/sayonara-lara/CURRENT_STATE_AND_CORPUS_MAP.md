@@ -4,7 +4,7 @@ artifact_id: SYL_CURRENT_STATE
 artifact_type: corpus_map
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -33,7 +33,7 @@ project_initialization:
     - 03_Ledgers/SYL_MOTIFS_COMEDY_AND_FORM.md
     - 03_Ledgers/SYL_LANGUAGE_AND_PERFORMANCE.md
     - 08_Validation/SYL_BLOCKERS_AND_EVIDENCE_DEBTS.md
-  sequential_analysis_lock: CLOSED_AT_E12
+  sequential_analysis_lock: OPEN
 ---
 
 # Sayonara Lara: current state and corpus map
@@ -44,14 +44,14 @@ This is the single canonical first-read surface for the project. Primary media, 
 
 - Canonical root: `series/sayonara-lara/`
 - Continuing branch: `series/sayonara-lara`
-- `SEQUENTIAL_ANALYSIS_LOCK = CLOSED_AT_E12` for declared text/static scope
+- `SEQUENTIAL_ANALYSIS_LOCK = OPEN` for active analysis/revision; authorized E01-E12 sequential transactions are complete for declared text/static scope
 - Planned and source-locked narrative boundary: E01-E12
 - Verified narrative transaction boundary: E12
 - Audiovisual closure: E01-E12 text/static transactions complete; no episode certified for auditory or continuous-video coverage
 - Knowledge mode: source-bounded chronological reread with disclosed prior exposure to E01-E04 discussion and the ending
-- Current operation: close and commit E12 atomic transaction/checkpoint, then write evidence-bounded monographs and specialist synthesis
+- Current operation: semantic and repository acceptance of the completed bounded literary synthesis
 - Next sequential candidate: none within authorized E01-E12 corpus
-- Publication state: branch push remains pending until synthesis and final audits complete
+- Publication state: local synthesis authored; validation, routing synchronization and branch push pending
 
 ## Authorized sequential execution
 
@@ -61,13 +61,13 @@ sequential_execution:
   unit_type: episode
   authorized_start: E01
   terminal_boundary: E12
-  committed_high_water_mark: E11
-  next_candidate_operation: synthesis_after_E12_commit
+  committed_high_water_mark: E12
+  next_candidate_operation: final_audit_and_routing
   confirmation_between_units: false
-  run_state: sequential_closing
+  run_state: synthesis_authored
 ```
 
-Each episode closed with its deep reading, applicable ledger changes, evidence debts, knowledge freeze, current-state update, checks, and commit before the next opened. E04/E08 contradiction checkpoints and the E12 sequential closeout are complete for the declared scope. Synthesis can begin after this transaction's validation/commit.
+Each episode closed with its deep reading, applicable ledger changes, evidence debts, knowledge freeze, current-state update, checks, and commit before the next opened. E04/E08 contradiction checkpoints and E12 sequential closeout are complete for the declared scope. The bounded literary synthesis now awaits final semantic and repository acceptance.
 
 ## Source and capability boundary
 
@@ -87,7 +87,7 @@ This runtime can read text, inspect original-resolution still images, decode/pro
 
 ## Adopted architecture amendment
 
-The owner requested a dedicated Rowan monograph because the king represents a major ideological axis. The adopted architecture therefore plans `04_Characters/SYL_ROWAN_MONOGRAPH.md` as a substantive synthesis-stage responsibility, subject to evidence readiness rather than placeholder creation.
+The owner requested a dedicated Rowan monograph because the king represents a major ideological axis. [His substantive monograph](04_Characters/SYL_ROWAN_MONOGRAPH.md) tests paternal sacrifice, dynastic need and sovereign coercion against each other.
 
 ## Current artifact state
 
@@ -98,8 +98,9 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 | Six longitudinal ledgers | Synchronized through E12 |
 | Legacy register | Historical/legacy and non-evidentiary |
 | Sequential readings | E01-E12 complete for declared Japanese-text/static-visual scope; [E04](02_Episode_Readings/SYL_E04_CHECKPOINT.md), [E08](02_Episode_Readings/SYL_E08_CHECKPOINT.md) and [E12 closeout](02_Episode_Readings/SYL_E12_SEQUENTIAL_CLOSEOUT.md) passed |
-| Monographs, relationship study, specialists, full synthesis | Literary lane ready after E12 commit; AV-dependent and external lanes bounded by debts |
-| Rowan monograph | Substantive dedicated synthesis target confirmed by E11-E12 conflict; no placeholder |
+| Character monographs | [Lara](04_Characters/SYL_LARA_MONOGRAPH.md), [Mari](04_Characters/SYL_MARI_MONOGRAPH.md), [Grace](04_Characters/SYL_GRACE_MONOGRAPH.md), [Rowan](04_Characters/SYL_ROWAN_MONOGRAPH.md), [Lisa](04_Characters/SYL_LISA_MONOGRAPH.md) and [ensemble](04_Characters/SYL_SUPPORTING_ENSEMBLE.md) authored for bounded literary lane |
+| Relationship and specialists | [Lara/Mari](05_Relationships/SYL_LARA_MARI_RELATIONSHIP.md); [alienation](06_Specialist_Studies/SYL_ALIENATION_EMBODIMENT_AND_SELF_AUTHORSHIP.md), [love](06_Specialist_Studies/SYL_LOVE_FAIRYTALE_AND_RELATIONSHIP_CLASSIFICATION.md), [comedy/form](06_Specialist_Studies/SYL_COMEDY_VOICE_AND_AUDIOVISUAL_FORM.md), [family/law](06_Specialist_Studies/SYL_FAMILY_LAW_LIGHT_AND_CAUSALITY.md), [ending](06_Specialist_Studies/SYL_ENDING_AND_DRAMATIC_CLOSURE.md), [creator/reception](06_Specialist_Studies/SYL_CREATOR_CONTEXT_AND_RECEPTION.md) authored with channel limits |
+| Series convergence and retrieval | [Full synthesis](07_Series_Synthesis/SYL_FULL_SERIES_SYNTHESIS.md), [comparative guide](07_Series_Synthesis/SYL_COMPARATIVE_ANALYSIS_GUIDE.md), [final claim/coverage audit](08_Validation/SYL_FINAL_CLAIM_AND_COVERAGE_AUDIT.md) authored; repository gate pending |
 
 ## Active blockers and debts
 
@@ -107,7 +108,7 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 - `SYL-D0002`: continuous video is outside the supplied input boundary; motion, microperformance, editing-rhythm, and AV-synchrony claims may require targeted later escalation.
 - `SYL-D0003`: the supplied bundle contains the aligned Japanese caption derivative and provenance metadata but not the untouched ABEMA caption witness; disputed exact-wording claims require recovery of that witness.
 
-These debts do not authorize invented observations and do not block text/static literary synthesis where supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01-E12 assign claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in their readings and the debt register. `SYL-D0004` requires actual external-source verification.
+These debts do not authorize invented observations and do not block text/static literary synthesis where supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01-E12 assign claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in their readings and the debt register. `SYL-D0004` is narrowly satisfied for four directly retrieved pages, with wider reception comparison unperformed.
 
 ## Latest closed transaction
 
@@ -115,4 +116,4 @@ These debts do not authorize invented observations and do not block text/static 
 
 ## Next operation
 
-Validate and commit E12, then write Lara, Mari, Grace, Rowan and Lisa monographs, supporting ensemble, Lara/Mari dyad, independent specialist studies, full-series convergence and retrieval guide. The final claim/coverage audit must explicitly carry audio, motion, caption and creator/reception debts rather than declare a frozen all-channel release. Synchronize global routing indexes under housekeeping ownership before the final push.
+Run semantic and link/authority validation, correct material errors, commit the synthesis transaction, synchronize the three global routing indexes under housekeeping ownership, run final repository checks, then push the continuing branch. This is a bounded literary acceptance, not a frozen all-channel AV release.
