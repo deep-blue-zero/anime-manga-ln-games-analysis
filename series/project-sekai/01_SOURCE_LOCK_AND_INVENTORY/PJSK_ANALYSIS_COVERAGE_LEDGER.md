@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0162
+current_event_boundary: EVENT_0163
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0162
+## Current coverage — all five human units synchronized through EVENT_0163
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0162 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0162`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0163 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0163`.
 
 Artifacts:
 
@@ -68,7 +68,13 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0162 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0163 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0163 is fully integrated:** scoped `VBS-REL-GROUP-E0154 → VBS-REL-GROUP-E0163` captures the four's renewed present commitment after a shared dreamlike alternative in which partnerships fractured; `EPI-VBS-SEKAI-E0118 → EPI-VBS-SEKAI-E0163` records their unresponsive bodies, compatible experience, faint singer contact and the Street tree's observed growth and recovery. Those possible lives are not present biography; Miku's account of a black thought shard and the singers' growth interpretation are not an established causal law. The four character histories, actual overseas collaboration, Natsuomi's supportive message, local singer vigil and MEIKO's rest intervention receive bounded I2. Leo/need, MMJ, WxS and N25 have no actual unit successor. The verified envelope is 24 stories / 47 scenes / 1,699 records. No actual VBS breakup, compulsory hardship, guaranteed reunion, predictable shard access, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0162 to EVENT_0163. EVENT_0164 is next; six source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
+
+Causal home: [EVENT_0163 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0163_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+### Historical coverage — EVENT_0162 forward transaction
 
 **EVENT_0162 is fully integrated:** `LN-EP-SHIHO-E0110 → LN-EP-SHIHO-E0162` advances recipient-purpose into whole-set staging, tested before an arena audience and coupled to Shiho's own joy. Scoped `LN-REL-G-E0137 → LN-REL-G-E0162` records the four's collective design, performance and shared aim to earn a main-band arena stage. Honami's self-conversation, Interstice Luka's selected counterpart encounter, School singer help, Naruse's counsel, particular listener feedback, and Saki's unresolved fan-distance worry have bounded I2/I1 routes. The verified envelope is 33 stories / 52 scenes / 1,823 records. Six monthly archival talks carry anomalous 2023 release metadata; neither a 15,000-capacity venue nor the positive feedback certifies attendance or universal conversion. No completed headline, booked co-bill, general fragment mechanism, global singer mind, public SEKAI disclosure, or complete reconstruction is certified. The boundary advances EVENT_0161 to EVENT_0162. EVENT_0163 is next; seven source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
 

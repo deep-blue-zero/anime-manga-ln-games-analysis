@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0162
+current_event_boundary: EVENT_0163
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0162
+## Current state — founded units synchronized through EVENT_0163
 
-All five human units now track the same continuous event history through `EVENT_0162`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0162 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0163`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0163 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0162 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0163 committed boundary
+
+**EVENT_0163 is fully integrated:** scoped `VBS-REL-GROUP-E0154 → VBS-REL-GROUP-E0163` records a four-person recommitment after a shared, nonactual possible-world split and convergence; `EPI-VBS-SEKAI-E0118 → EPI-VBS-SEKAI-E0163` captures bounded observation of the black shard, singer vigil, partially heard calls, restored awareness and Street-tree transformation. Toya's Vienna path, Akito's solo U.S. path, Kohane's stage retreat and An's solo promise are the field's scenario, not actual biography. The four's differentiated present operatives, local Street singer care and actual overseas experience persist; Leo/need, MMJ, WxS and N25 have no new material unit route. The verified envelope is 24 stories / 47 scenes / 1,699 records. Fragment origin, deterministic growth, pain's necessity and future recovery are unproved. No public SEKAI disclosure, global singer mind or complete reconstruction is certified. The boundary advances EVENT_0162 to EVENT_0163. EVENT_0164 is next; six source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
+
+The [EVENT_0163 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0163_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record compact EVENT_0141–0163 deltas for later synthesis.
+
+### Historical continuation — EVENT_0162 committed boundary
 
 **EVENT_0162 is fully integrated:** `LN-EP-SHIHO-E0110 → LN-EP-SHIHO-E0162` and scoped `LN-REL-G-E0137 → LN-REL-G-E0162` record the quartet's co-designed arena opener, specific audience and professional feedback, Shiho's recipient-facing whole-set technique and felt joy, and a shared self-earned headline goal. Honami, Ichika, Saki, local School singers, Interstice Luka, and professional contacts receive bounded evidence; Shizuku/Haruka have ordinary I1, VBS/WxS/N25 I0. The verified envelope is 33 stories / 52 scenes / 1,823 records. Fragment spaces do not establish a global singer mind or general access; an offered co-bill is not booked, and the opener is not a Leo/need headline. No exact attendance, unanimous conversion, resolved fan-distance worry, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0161 to EVENT_0162. EVENT_0163 is next; seven source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
 
