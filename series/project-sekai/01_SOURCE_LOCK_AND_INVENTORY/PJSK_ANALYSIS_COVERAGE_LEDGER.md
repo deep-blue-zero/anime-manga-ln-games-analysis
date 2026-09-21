@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0154
+current_event_boundary: EVENT_0155
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0154
+## Current coverage — all five human units synchronized through EVENT_0155
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0154 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0154`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0155 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0155`.
 
 Artifacts:
 
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0154 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0155 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0155 is fully integrated:** `LN-EP-SAKI-E0147 → LN-EP-SAKI-E0155` extends Saki's situated recipient-attention method into consent-aware, subject-informed visual expression through detected intention–output mismatch, distributed consultation, qualified interpretation, cross-medium translation, and separate subject/teacher receipt. New scoped I3 `REL-CROSS-SAKI-KANADE-E0155` records careful intervention, preference-sensitive practical help, chosen direct contact, reciprocal creative labor, bounded personal inquiry, mutual artistic receipt, and enacted ordinary follow-up. Preserve `K-E0116-01` at strong I2; strengthen `REL-N25-G-E0150`, `REL-CROSS-KANADE-ICHIKA-E0042`, `REL-CROSS-SAKI-MIZUKI-E0102`, and `REL-N25-VS-RIN-E0014` proportionally. VBS and MMJ receive bounded craft-support I2; Wonderlands×Showtime is I0. The verified envelope is 23 stories / 44 scenes / 1,458 records. No professional fashion or photography mastery, objective access to another person's essence, universal person-learning rule, unrestricted inquiry, exclusive friendship, Kanade fashion conversion or self-image cure, private N25 crisis transfer, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0154 to EVENT_0155. EVENT_0156 is next; 14 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0155 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0155_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0155: 23 stories / 44 scenes / 1,458 records / 181,009 canonical bytes; canonical files, pinned raw segments, manifests, anchors, projections, locators, and all routes verified.
+- Leo/need / Saki and the Saki–Kanade relation are linked PRIMARY/CO_PRIMARY I3 routes. Kanade, N25, Ichika, Mizuki, Empty Rin, VBS photography support, and MMJ clothing support receive proportional I1/I2; Wonderlands×Showtime is documentary I0.
+- The shared analysis boundary is EVENT_0155. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0155 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0154 forward transaction
 
 **EVENT_0154 is fully integrated:** `VBS-EP-TY-E0139 → VBS-EP-TY-E0154` retains Toya's recipient-facing musical-history method and adds tested cross-genre encounter, deliberate revision of inherited categorical distance, and chosen synthesis of classical, street, jazz, and other practices. `VBS-REL-GROUP-E0146 → VBS-REL-GROUP-E0154` turns the chosen New York route into executed international travel, distributed logistical adaptation, and reciprocal cross-genre performance. New scoped I3 `VBS-REL-TOYA-SHUJI-E0154` records Shūji's apology, corrected assumption, evidence-based artistic recognition, Toya's accepted reliance, effective help, reciprocal thanks, and an open future talk. `VBS-REL-TOYA-FATHER-4 → VBS-REL-TOYA-FATHER-E0154` joins direct craft recognition to credible reconstruction of Harumichi's plural musical history, possible father–son likeness, protected disclosure agency, and Toya's chosen future answer-check. Lloyd, the academy, Ken, and Taiga receive bounded high-I2; Akito–Toya, Ena–Akito, Kohane's family and language routes, and Street singers receive proportional I1/I2. Nightcord is reported-context I1; Leo/need, MORE MORE JUMP!, and Wonderlands×Showtime are I0. The verified envelope is 25 stories / 36 scenes / 1,383 records. No proved cause for paternal hostility, justification of coercion, direct father–son repair, complete sibling-family reconciliation, universal genre sameness, language-barrier erasure, permanent English fluency, effortless travel, parity with elite global musicians, professional contract, guaranteed world success, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0153 to EVENT_0154. EVENT_0155 is next; 15 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
