@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0151
+current_event_boundary: EVENT_0152
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0151
+## Current coverage — all five human units synchronized through EVENT_0152
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0151 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0151`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0152 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0152`.
 
 Artifacts:
 
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0151 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0152 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0152 is fully integrated:** `WXS-EP-RUI-E0119 → WXS-EP-RUI-E0152` advances Rui's medium-aware direction into recipient-responsive functional substitution: he separates plot minimum from desired effect, receives Kohane's volunteered help as design evidence, converts unavailable lantern machinery into opt-in participant staging, coordinates fiction/logistics/safety, completes the show, inspects receipt, and credits collaborators. New scoped I3 `REL-CROSS-RUI-KOHANE-E0152` records fan testimony changing the work, enacted recruitment and participation, returned praise and photographs, mutual craft reflection, and archive-bounded origin-revisiting access. `REL-WXS-G-E0124`, `VBS-REL-GROUP-E0146`, `REL-WXS-WONDERLAND-E0003`, and `VBS-REL-STREET-VS-HUMANS-1` receive strong/local I2; `VBS-EP-KH-E0135` is preserved; Leo/need receives ordinary archive I1; MMJ and N25 are I0. The verified envelope is 23 stories / 41 scenes / 1,405 records. No universal crisis-adaptation formula, proof that failure inherently improves art, compulsory audience participation, representative or exclusive fan authority, guaranteed recurring co-production, permanent directing mastery, stable show recovery, literal Santa identity, proved parental authorship of the childhood letter, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0151 to EVENT_0152. EVENT_0153 is next; 17 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0152 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0152_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0152: 23 stories / 41 scenes / 1,405 records; canonical files, pinned raw segments, manifests, anchors, projections, locators, and all routes verified.
+- Wonderlands×Showtime / Rui is PRIMARY/VERY HIGH I3; Rui–Kohane is CO_PRIMARY/VERY HIGH scoped I3; WxS, VBS, Wonderland, and Street routes receive proportional I2. Leo/need is low I1; MMJ and N25 are documentary I0.
+- The shared analysis boundary is EVENT_0152. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0152 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0151 forward transaction
 
 **EVENT_0151 is fully integrated:** `MMJ-EP-SZ-E0011 → MMJ-EP-SZ-E0151` reincorporates Shizuku's former performance intensity as chosen responsibility: she inspects a peer's strength and her own history, distinguishes assigned burden from voluntarily carried shared stakes, accepts support, and completes a public test without restoring the old isolated regime. New scoped I3 `MMJ-REL-SHIZUKU-YUU-E0151` records Hagiyama Yuu's movement from familiar professional contact into reciprocal competitor and co-star. `MMJ-REL-GROUP-E0133`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-HUMAN-STAGE-02` receive strong/local I2; Leo/need receives ordinary archived I1; VBS, WxS, and N25 are I0. The verified envelope is 24 stories / 43 scenes / 1,431 records. No known cause for the missing work, stable booking recovery, objective aura, universal top-idol method, safe or necessary overwork, sole-leader status, fixed rank, formal Yuu mentorship, guaranteed reunion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0150 to EVENT_0151. EVENT_0152 is next; 18 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -2245,3 +2255,7 @@ The verified group contains 31 stories / 43 scenes / 1,581 records. `MZ-E0150-01
 ### EVENT_0151 source and reconstruction review
 
 The verified group contains 24 stories / 43 scenes / 1,431 records. `MMJ-EP-SZ-E0011 → MMJ-EP-SZ-E0151` and scoped `MMJ-REL-SHIZUKU-YUU-E0151` are I3 changes; MMJ group, Saito, and Stage routes receive bounded I2 and Leo/need ordinary I1. No known cause for the missing work, stable booking recovery, guaranteed Budokan progress, objective aura, inherent superiority, universal top-idol method, safe or necessary overwork, sole-rescuer or sole-leader status, fixed rank, formal mentorship, guaranteed future rivalry or collaboration, durable mass fame, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0152 source and reconstruction review
+
+The verified group contains 23 stories / 41 scenes / 1,405 records. `WXS-EP-RUI-E0119 → WXS-EP-RUI-E0152` and scoped `REL-CROSS-RUI-KOHANE-E0152` are I3 changes; WxS group, VBS group, Kohane, Wonderland, and Street routes receive bounded I2 and Leo/need ordinary I1. No universal crisis-adaptation formula, proof that failure inherently improves art, compulsory audience participation, representative or exclusive fan authority, guaranteed recurring co-production, permanent directing mastery, stable show recovery, literal Santa identity, proved parental authorship of the childhood letter, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.

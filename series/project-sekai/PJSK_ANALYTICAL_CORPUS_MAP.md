@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0151
+current_event_boundary: EVENT_0152
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0151
+## Current state — founded units synchronized through EVENT_0152
 
-All five human units now track the same continuous event history through `EVENT_0151`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0151 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0152`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0152 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,11 +235,17 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0151 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0152 committed boundary
+
+**EVENT_0152 is fully integrated:** `WXS-EP-RUI-E0119 → WXS-EP-RUI-E0152` advances Rui's medium-aware direction into recipient-responsive functional substitution: he separates plot minimum from desired effect, receives Kohane's volunteered help as design evidence, converts unavailable lantern machinery into opt-in participant staging, coordinates fiction/logistics/safety, completes the show, inspects receipt, and credits collaborators. New scoped I3 `REL-CROSS-RUI-KOHANE-E0152` records fan testimony changing the work, enacted recruitment and participation, returned praise and photographs, mutual craft reflection, and archive-bounded origin-revisiting access. `REL-WXS-G-E0124`, `VBS-REL-GROUP-E0146`, `REL-WXS-WONDERLAND-E0003`, and `VBS-REL-STREET-VS-HUMANS-1` receive strong/local I2; `VBS-EP-KH-E0135` is preserved; Leo/need receives ordinary archive I1; MMJ and N25 are I0. The verified envelope is 23 stories / 41 scenes / 1,405 records. No universal crisis-adaptation formula, proof that failure inherently improves art, compulsory audience participation, representative or exclusive fan authority, guaranteed recurring co-production, permanent directing mastery, stable show recovery, literal Santa identity, proved parental authorship of the childhood letter, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0151 to EVENT_0152. EVENT_0153 is next; 17 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+The [EVENT_0152 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0152_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record the compact EVENT_0141–0152 package deltas for the next synthesis checkpoint.
+
+### Historical continuation — EVENT_0151 committed boundary
 
 **EVENT_0151 is fully integrated:** `MMJ-EP-SZ-E0011 → MMJ-EP-SZ-E0151` reincorporates Shizuku's former performance intensity as chosen responsibility: she inspects a peer's strength and her own history, distinguishes assigned burden from voluntarily carried shared stakes, accepts support, and completes a public test without restoring the old isolated regime. New scoped I3 `MMJ-REL-SHIZUKU-YUU-E0151` records Hagiyama Yuu's movement from familiar professional contact into reciprocal competitor and co-star. `MMJ-REL-GROUP-E0133`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-HUMAN-STAGE-02` receive strong/local I2; Leo/need receives ordinary archived I1; VBS, WxS, and N25 are I0. The verified envelope is 24 stories / 43 scenes / 1,431 records. No known cause for the missing work, stable booking recovery, objective aura, universal top-idol method, safe or necessary overwork, sole-leader status, fixed rank, formal Yuu mentorship, guaranteed reunion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0150 to EVENT_0151. EVENT_0152 is next; 18 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
-The [EVENT_0151 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0151_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record the compact EVENT_0141–0151 package deltas for the next synthesis checkpoint.
+The [EVENT_0151 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0151_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers remain historical EVENT_0151 authority. Reconstruction generation 1 remains certified only through EVENT_0140; the reading records the compact EVENT_0141–0151 package delta at that historical boundary.
 
 ### Historical continuation — EVENT_0150 committed boundary
 
@@ -753,13 +759,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0151`. Shizuku now owns a chosen-responsibility operative that reincorporates former professional intensity without restoring imposed isolation; her scoped relation with Hagiyama Yuu records reciprocal craft rivalry, while MMJ group, Saito, and Stage routes preserve shared support and bounded knowledge. `EVENT_0152` is next; 18 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
+`ANALYSIS_CURRENT` is `EVENT_0152`. Rui now owns a recipient-responsive direction operative that preserves an intended effect through functional substitution and participant co-authorship; his scoped relation with Kohane records consequential fan feedback, enacted help, returned evidence, and bounded origin-revisiting access. `EVENT_0153` is next; 17 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0151` for all five human units. The EVENT_0141–0170 continuation is active.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0152` for all five human units. The EVENT_0141–0170 continuation is active.
 
 `RECONSTRUCTION_CURRENT` is provisional generation 1 through `EVENT_0140`: 20 principal-human packages, 60 package artifacts, and one cross-character readiness audit. Every principal human independently passes `R3_RECONSTRUCTION_READY` for bounded textual scenario use; none passes R4 or performed-voice readiness. Event-local `reconstruction_yield` annotations remain evidence-yield assessments and are not themselves the certification. Unit and warranted specialist syntheses, full-series synthesis, later-generation contradiction work, and protected integration remain separate dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0151_DEEP_READING.md) closes `EVENT_0151 — Grow glorious glow`, bucket `RB_20241211T060000Z`: 24 stories / 43 scenes / 1,431 records. Shizuku reincorporates former intensity as chosen shared-stakes responsibility; Hagiyama Yuu becomes a bounded professional rival, while the event's successful overextension remains analytically unsafe rather than exemplary.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0152_DEEP_READING.md) closes `EVENT_0152 — Special present for YOU！`, bucket `RB_20241221T060000Z`: 23 stories / 41 scenes / 1,405 records. Rui converts equipment failure into recipient-responsive participant staging; Kohane becomes a bounded creator–recipient collaborator, while invited co-authorship remains distinct from compulsory audience labor.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
