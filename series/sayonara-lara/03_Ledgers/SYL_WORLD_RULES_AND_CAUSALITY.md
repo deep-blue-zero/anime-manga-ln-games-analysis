@@ -4,14 +4,14 @@ artifact_id: SYL_WORLD_RULES_AND_CAUSALITY
 artifact_type: world_rules_causality_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E04 closed; rules remain speaker-attributed where not independently demonstrated"
+source_boundary: "E05 closed; rules remain speaker-attributed where not independently demonstrated"
 ---
 
 # World rules and causality ledger
@@ -32,3 +32,6 @@ source_boundary: "E04 closed; rules remain speaker-attributed where not independ
 | SYL-W0012 | Lisa / observed event | Lara's heart can become light that saves the displaced merfolk. | Immediately after Lara chooses land and Mari renews shelter/positive preference, golden light spreads across the lake and Lara's ring rises; Lisa identifies the heart/light relation. | E03 | CHARACTER_ASSERTION with strong event-level correlation; completed restoration and “true love” condition untested | Trigger may be general resolve, relief, attachment, or an unshown magical process; Lisa separately urges Lara to find true love | E03 S13-S14; cues 358-380; sheets 037-040; frames `001254`-`001292` |
 | SYL-W0013 | Lisa | Only Lisa and Kōta are currently awake in this world; the remaining family state is not restated. | Lisa and Kōta act in modern Shiga and establish contact with Lara; no other family member is shown awake in E04. | E04 | CHARACTER_ASSERTION with compatible sampled evidence; not an independent census | Grace earlier said the family sleeps in shells and only Lara can wake them; why Lisa and Kōta are exceptions remains unexplained | E04 S16-S18; cues 364-416; sheets 030-031, 035-036 |
 | SYL-W0014 | Kōta / observed mediation | Kōta can connect Lara and distant Lisa through an ordinary-looking mobile phone while Lisa cannot yet meet in person. | Static sequence shows masked Kōta presenting the device and Lisa speaking through it; Lisa claims great distance and promises to come. | E04 | Communication event OBSERVED; location, distance, and reason for delay OPEN | The visually ordinary device does not explain how Lisa located Lara or Kōta's altered identity | E04 S16-S18; cues 364-416; frames `001100`-`001110`, `001209`-`001230` |
+| SYL-W0015 | Lisa / observed body | A witch's potion gives Lisa human legs; Lisa calls the resulting body an ugly form. | E05 static sequence shows Lisa standing on human legs and meeting Lara on land; no transformation interval is supplied. | E05 | Human-legged state OBSERVED; potion source/rules and aesthetic judgment are CHARACTER_ASSERTION | Lara also received a potion but experienced different stated conditions; whether Grace supplied both and whether the rules match are unverified | E05 S11, cues 291-304; sheets 034-036 |
+| SYL-W0016 | Lisa / royal doctrine | Lara is a special princess whose light can save the family, and saving them requires rejecting mermaid-human love after the prior catastrophe. | Lara has already produced a correlated light event and Lisa's ring recovered, but no family restoration or incompatibility test is completed. | E05 | Light role remains CHARACTER_ASSERTION with prior correlation; absolute species incompatibility is contradicted as settled knowledge by Lara, not experimentally resolved | Lisa uses the same catastrophe both as historical evidence and future prohibition; Lara still believes union with a human is necessary to save them | E05 S11, cues 299-317; E03 W0012 |
+| SYL-W0017 | Lisa / observed static sequence | An unidentified fish-marked bladelike object has begun to move or activate; Kōta is involved in the event. | Static progression shows the object in flight/air, Lara running, masked Kōta driving, and Lisa reacting `動き出した` then `コータ！`; Lara later finds the Otsu household intact. | E05 | Object existence and event alignment OBSERVED at sampled endpoints; agency, path, target, control, impact, and Kōta's outcome CAUSALITY OPEN | Lara says she jumped to conclusions about immediate danger to Mari; this rejects that inference, not the object's existence or Lisa's preceding exclusionary language | E05 S12-S13, cues 317-338; sheets 036-041; D0002 |

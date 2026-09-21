@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E04 closed; static visual and Japanese textual form"
+source_boundary: "E05 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -41,3 +41,8 @@ source_boundary: "E04 closed; static visual and Japanese textual form"
 | SYL-F0021 | E04 S14 | Himeka supplies `友達` and asks Mari to confirm | Static frames prolong reactions among all three before Mari's minimal `うん` | Complete static progression + JP text | Makes relationship naming a witnessed social act rather than a private inference | Advances E03's unnamed future commitment into explicit friendship | sheets 027-028; cues 333-342; frames `000977`-`000997` |
 | SYL-F0022 | E04 S14-S16 | Mari redirects prince speculation toward choosing oysters and forgotten pork | Lara correctly selects food, volunteers, and completes a purchase before family contact interrupts the errand | Static progression + JP text | Ordinary competence becomes the measure of integration, not just magical success | Develops E03 domestic apprenticeship and shared food | sheets 028-030; cues 343-363 |
 | SYL-F0023 | E04 S16-S18 | Lara's recovered voice permits mediated reunion by phone | Physical reunion remains deferred; the call restores sisterhood while preserving distance and withheld information | Static progression + JP text | Voice becomes connection without guaranteeing access or transparency | Reverses E01 voiceless courtship and extends E03's deceptive guardian call | sheets 030-031, 035-036; cues 364-416 |
+| SYL-F0024 | E05 S01/S09 | Ema announces a new household `ルール` and cites restitution | Rule applies to both Lara and Mari, sends them into paid work, and returns Lara a personal balance after the household share | Static progression + JP text | Comically echoes royal law while replacing purity/confinement with negotiated contribution, unequal pressure, and partial economic agency | Contrasts Rowan's E01 prohibition and Grace's exclusive mission without making domestic authority innocent | sheets 002-004, 030-031; cues 1-26, 248-266 |
+| SYL-F0025 | E05 S02/S07-S09 | Makoto distinguishes the easy camera button from professional work and irreversible photographs | Lara later equates advancement with oven-button access, violates a boundary, ruins cakes, and must repair socially rather than merely operate the machine | Static progression + JP text | Repetition makes the button a figure for compressed expertise: control access is not system knowledge | Extends E02-E03 technology errors from household comedy into consequential public labor | sheets 005-008, 022-030; cues 46-65, 178-266 |
+| SYL-F0026 | E05 S04-S05/S08-S10 | Manager calls work torture; later says it is enjoyable “today” | Repetitive labor, a successful shared product, serious error, collective repair, and welcome coexist | Static progression + JP text | Refuses both vocational romance and permanent misery; work changes with task, competence, relation, and day | Revises the title's total death pledge into Lara's modest decision to stay “at least today” | sheets 010-019, 024-033; cues 98-172, 205-290 |
+| SYL-F0027 | E05 S02/S10-S12 | Makoto says a photograph cannot be erased like a phone image | Lara photographs the cake-shop façade; a workplace group photo materializes belonging; later photographs/faces enter Lisa's ominous field around Mari and the house | Static progression + JP text | Durable representation can preserve inclusion and expose attachments to surveillance or threat | Develops the ring/mirror archive problem through ordinary human media; exact provenance of later images remains open | sheets 007, 032-038; cues 55-65, 267-323 |
+| SYL-F0028 | E05 S12-S13 | Lisa's exclusionary language and the fish-marked-object/Kōta sequence make Lara anticipate catastrophe | Post-credit return reveals the household intact; Lara hugs Mari and admits she jumped to conclusions | Static progression + JP text | Comic false alarm corrects Lara's immediate inference while leaving Lisa's ideology and unexplained material menace active | Repeats Lara's catastrophic overreading of ordinary situations, now grounded in a genuine hostile statement rather than pure unfamiliarity | sheets 036-041; cues 317-338; motion boundary D0002 |
