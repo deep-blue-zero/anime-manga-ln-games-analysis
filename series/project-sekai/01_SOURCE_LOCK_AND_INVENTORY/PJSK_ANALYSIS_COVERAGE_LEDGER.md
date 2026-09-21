@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0155
+current_event_boundary: EVENT_0156
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0155 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0156 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0156 is fully integrated:** new independent I3 `MMJ-EP-SZ-E0156` records Shizuku's grandmother-inherited, recipient-specific embroidery practice becoming differentiated teaching, individually designed and received gifts, and a voluntary public craft lesson. `REL-CROSS-MAFUYU-SHIZUKU-E0080 → REL-CROSS-MAFUYU-SHIZUKU-E0156` advances established nonexclusive school/archery support through chosen shared work, bounded personal testimony, mutually remembered snow-rabbit gifts, and ordinary club/shopping follow-up. Preserve `MF-E0134-01` at strong I2; MMJ, N25, Stage, and Empty routes receive proportional I2. Leo/need, VBS, and WxS are I0. The verified envelope is 23 stories / 53 scenes / 1,407 records. No compulsory response to handmade gifts, recovered Mafuyu taste set or cured fear, exclusive confidence, Shizuku's access to private Nightcord/SEKAI history, completed future workshop, professional craft enterprise, resolved MMJ work uncertainty, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0155 to EVENT_0156. EVENT_0157 is next; 13 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0156 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0156_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+- Completed EVENT_0156: 23 stories / 53 scenes / 1,407 records / 186,479 canonical bytes; canonical files, pinned raw segments, manifests, projections, chronology, and locators verified.
+- Shizuku's craft operative and the Shizuku–Mafuyu relation are distinct I3 routes; Mafuyu's own choices, MMJ/N25 groups, Saito, Stage and Empty manifestations receive bounded I2.
+- The shared analysis boundary is EVENT_0156. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0156 deltas await synthesis.
+
+### Historical coverage — EVENT_0155 forward transaction
 
 **EVENT_0155 is fully integrated:** `LN-EP-SAKI-E0147 → LN-EP-SAKI-E0155` extends Saki's situated recipient-attention method into consent-aware, subject-informed visual expression through detected intention–output mismatch, distributed consultation, qualified interpretation, cross-medium translation, and separate subject/teacher receipt. New scoped I3 `REL-CROSS-SAKI-KANADE-E0155` records careful intervention, preference-sensitive practical help, chosen direct contact, reciprocal creative labor, bounded personal inquiry, mutual artistic receipt, and enacted ordinary follow-up. Preserve `K-E0116-01` at strong I2; strengthen `REL-N25-G-E0150`, `REL-CROSS-KANADE-ICHIKA-E0042`, `REL-CROSS-SAKI-MIZUKI-E0102`, and `REL-N25-VS-RIN-E0014` proportionally. VBS and MMJ receive bounded craft-support I2; Wonderlands×Showtime is I0. The verified envelope is 23 stories / 44 scenes / 1,458 records. No professional fashion or photography mastery, objective access to another person's essence, universal person-learning rule, unrestricted inquiry, exclusive friendship, Kanade fashion conversion or self-image cure, private N25 crisis transfer, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0154 to EVENT_0155. EVENT_0156 is next; 14 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 

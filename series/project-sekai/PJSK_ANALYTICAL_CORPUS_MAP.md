@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0155
+current_event_boundary: EVENT_0156
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0155
+## Current state — founded units synchronized through EVENT_0156
 
-All five human units now track the same continuous event history through `EVENT_0155`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0155 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0156`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0156 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0155 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0156 committed boundary
+
+**EVENT_0156 is fully integrated:** new independent I3 `MMJ-EP-SZ-E0156` records Shizuku's grandmother-inherited, recipient-specific handwork becoming differentiated teaching, completed gifts with direct receipt, and voluntary MMJ public instruction. `REL-CROSS-MAFUYU-SHIZUKU-E0080 → REL-CROSS-MAFUYU-SHIZUKU-E0156` advances nonexclusive school/archery support through chosen creative time, bounded personal testimony, mutually remembered snow-rabbit gifts, and ordinary follow-up. Preserve `MF-E0134-01` at strong I2; strengthen N25, MMJ, Saito, Stage, and Empty routes proportionally. Leo/need, VBS, and WxS are I0. The verified envelope is 23 stories / 53 scenes / 1,407 records. No universal handmade-gift formula, settled Mafuyu preferences, exclusive confidant status, private N25/SEKAI disclosure to Shizuku, completed future workshop, solved MMJ work uncertainty, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0155 to EVENT_0156. EVENT_0157 is next; 13 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+The [EVENT_0156 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0156_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record compact EVENT_0141–0156 deltas for later synthesis.
+
+### Historical continuation — EVENT_0155 committed boundary
 
 **EVENT_0155 is fully integrated:** `LN-EP-SAKI-E0147 → LN-EP-SAKI-E0155` extends Saki's situated recipient-attention method into consent-aware, subject-informed visual expression through detected intention–output mismatch, distributed consultation, qualified interpretation, cross-medium translation, and separate subject/teacher receipt. New scoped I3 `REL-CROSS-SAKI-KANADE-E0155` records careful intervention, preference-sensitive practical help, chosen direct contact, reciprocal creative labor, bounded personal inquiry, mutual artistic receipt, and enacted ordinary follow-up. Preserve `K-E0116-01` at strong I2; strengthen `REL-N25-G-E0150`, `REL-CROSS-KANADE-ICHIKA-E0042`, `REL-CROSS-SAKI-MIZUKI-E0102`, and `REL-N25-VS-RIN-E0014` proportionally. VBS and MMJ receive bounded craft-support I2; Wonderlands×Showtime is I0. The verified envelope is 23 stories / 44 scenes / 1,458 records. No professional fashion or photography mastery, objective access to another person's essence, universal person-learning rule, unrestricted inquiry, exclusive friendship, Kanade fashion conversion or self-image cure, private N25 crisis transfer, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0154 to EVENT_0155. EVENT_0156 is next; 14 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -777,13 +783,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0155`. Saki now owns a consent-aware, subject-informed visual-expression successor, and her connection with Kanade has become a reciprocal creative and ordinary cross-unit channel. `EVENT_0156` is next; 14 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
+`ANALYSIS_CURRENT` is `EVENT_0156`. Shizuku now owns an independent recipient-specific craft-teaching operative, and her established school/archery connection with Mafuyu advances through reciprocal creative gifts. `EVENT_0157` is next; 13 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0155` for all five human units. The EVENT_0141–0170 continuation is active.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0156` for all five human units. The EVENT_0141–0170 continuation is active.
 
 `RECONSTRUCTION_CURRENT` is provisional generation 1 through `EVENT_0140`: 20 principal-human packages, 60 package artifacts, and one cross-character readiness audit. Every principal human independently passes `R3_RECONSTRUCTION_READY` for bounded textual scenario use; none passes R4 or performed-voice readiness. Event-local `reconstruction_yield` annotations remain evidence-yield assessments and are not themselves the certification. Unit and warranted specialist syntheses, full-series synthesis, later-generation contradiction work, and protected integration remain separate dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0154_DEEP_READING.md) closes `EVENT_0154 — Time to take off！`, bucket `RB_20250111T060000Z`: 25 stories / 36 scenes / 1,383 records. Toya revises inherited genre categories through reciprocal performance, VBS executes its New York route, and sibling and paternal-history changes remain distinct from complete family repair.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0156_DEEP_READING.md) closes `EVENT_0156 — このひと針に想いを込めて`, bucket `RB_20250131T060000Z`: 23 stories / 53 scenes / 1,407 records. Shizuku's inherited recipient-aware craft becomes shared teaching, while Mafuyu's chosen gifts deepen their bounded school relationship.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 
