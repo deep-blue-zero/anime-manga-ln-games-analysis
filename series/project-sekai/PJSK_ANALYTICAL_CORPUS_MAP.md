@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0158
+current_event_boundary: EVENT_0159
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0158
+## Current state — founded units synchronized through EVENT_0159
 
-All five human units now track the same continuous event history through `EVENT_0158`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0158 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0159`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0159 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0158 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0159 committed boundary
+
+**EVENT_0159 is fully integrated:** scoped I3 `REL-CROSS-SAKI-EMU-E0004 → REL-CROSS-SAKI-EMU-E0159` extends the earlier committee-limited relation through voluntary company study, completed paid event work, direct Saki-to-Emu appreciation and receipt, and chosen post-work leisure. Saki's existing reciprocal-memory and recipient-attentive owners, Emu's participant-centered implementation and stewardship, Shiho's group/family routes, and distinct School/Wonderland singer continuities receive proportionate I2. MMJ has school/sister I1; VBS and N25 are I0. The verified envelope is 23 stories / 52 scenes / 1,442 records. The company already planned a similar event; no adopted student proposal, professional-planner status, universal card-mediated repair, real card magic, completed joint LN–WxS live, public SEKAI disclosure, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0158 to EVENT_0159. EVENT_0160 is next; ten source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+The [EVENT_0159 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0159_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record compact EVENT_0141–0159 deltas for later synthesis.
+
+### Historical continuation — EVENT_0158 committed boundary
 
 **EVENT_0158 is fully integrated:** new independent I3 `LN-EP-HONAMI-E0158` records Honami turning a personally received picture book into a child-perspective-tested, coached, technically supported, live-adapted reading with direct and later home-reading response. New scoped I3 `REL-CROSS-HONAMI-NENE-E0158` joins remembered practical help, shared but distinct performance origins, voluntary co-performance, live mutual adaptation, audience receipt, mutual credit, and completed chosen leisure. Preserve Honami's band-leadership operative, Nene's acting/direction, Rui's subordinate medium-aware craft, LN/WxS groups, and distinct School/Wonderland manifestations proportionally. MMJ, VBS, and N25 are I0. The verified envelope is 23 stories / 39 scenes / 1,180 records. No literal wish-granting or real medicine claim, universal identical child response, professional voice-acting mastery, recurring reading, public School-MEIKO identification, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0157 to EVENT_0158. EVENT_0159 is next; 11 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -795,13 +801,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0158`. Honami's child-tested reading and her reciprocal co-performance with Nene extend a personally received story into a new audience. `EVENT_0159` is next; 11 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
+`ANALYSIS_CURRENT` is `EVENT_0159`. Saki, Emu, and Shiho apply audience-specific work at an independently planned mall event, and Saki–Emu friendship persists beyond the earlier committee. `EVENT_0160` is next; ten source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0158` for all five human units. The EVENT_0141–0170 continuation is active.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0159` for all five human units. The EVENT_0141–0170 continuation is active.
 
 `RECONSTRUCTION_CURRENT` is provisional generation 1 through `EVENT_0140`: 20 principal-human packages, 60 package artifacts, and one cross-character readiness audit. Every principal human independently passes `R3_RECONSTRUCTION_READY` for bounded textual scenario use; none passes R4 or performed-voice readiness. Event-local `reconstruction_yield` annotations remain evidence-yield assessments and are not themselves the certification. Unit and warranted specialist syntheses, full-series synthesis, later-generation contradiction work, and protected integration remain separate dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0158_DEEP_READING.md) closes `EVENT_0158 — 昔日のRead-aloud`, bucket `RB_20250220T060000Z`: 23 stories / 39 scenes / 1,180 records. Honami and Nene turn a remembered picture book into a child-facing co-performance with direct and later receipt.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0159_DEEP_READING.md) closes `EVENT_0159 — Connect hearts message`, bucket `RB_20250228T060000Z`: 23 stories / 52 scenes / 1,442 records. A recipient-aware workshop and differentiated gratitude deepen Saki–Emu school friendship beyond committee work.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 

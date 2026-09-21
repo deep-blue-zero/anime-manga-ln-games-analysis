@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0158
+current_event_boundary: EVENT_0159
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0158 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0159 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0159 is fully integrated:** scoped I3 `REL-CROSS-SAKI-EMU-E0004 → REL-CROSS-SAKI-EMU-E0159` advances earlier committee-bounded cooperation through renewed school access, chosen company study, completed paid collaboration, Saki's explicit gratitude and Emu's receipt, and post-task leisure. Saki's existing reciprocal-memory and recipient-attentive practices, Emu's implementation and stewardship, Shiho's musical and family routes, and the LN/WxS groups receive strong/local I2. MMJ receives bounded school/sister I1; VBS and N25 are I0. The verified envelope is 23 stories / 52 scenes / 1,442 records. The company had independently planned a similar client event; no adoption of the students' proposal, guaranteed card-driven repair, permanent employment, unshown family receipt, literal card magic, public singer identity, or complete reconstruction is certified. The boundary advances EVENT_0158 to EVENT_0159. EVENT_0160 is next; ten source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0159 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0159_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+- Completed EVENT_0159: 23 stories / 52 scenes / 1,442 records / 204,639 canonical bytes; canonical files, normalized pinned raw segments, manifests, projections, chronology, and locators verified.
+- Separate customer accounts, an independently planned commercial event, hidden School Rin and Wonderland MEIKO help, and the Wonderland fictional show retain distinct evidence/knowledge boundaries.
+- The shared analysis boundary is EVENT_0159. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0159 deltas await synthesis.
+
+### Historical coverage — EVENT_0158 forward transaction
 
 **EVENT_0158 is fully integrated:** new independent I3 `LN-EP-HONAMI-E0158` records Honami's personally received picture-book experience becoming a child-perspective-tested, coached, technically supported, live-adapted reading with direct audience and later home-reading response. New scoped I3 `REL-CROSS-HONAMI-NENE-E0158` records returned practical help, shared performance origins, chosen co-performance, reciprocal credit, and completed two-person leisure. Preserve Honami's band leadership, Nene's acting/direction, Rui's medium-aware craft, LN/WxS group, and School/Wonderland-local singer routes proportionally. MMJ, VBS, and N25 are I0. The verified envelope is 23 stories / 39 scenes / 1,180 records. No literal magic, professional voice-acting mastery, universal child response, recurring reading, public School singer identity, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0157 to EVENT_0158. EVENT_0159 is next; 11 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
