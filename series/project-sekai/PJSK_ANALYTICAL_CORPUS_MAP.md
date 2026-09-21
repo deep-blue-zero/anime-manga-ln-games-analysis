@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0165
+current_event_boundary: EVENT_0167
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0165
+## Current state — founded units synchronized through EVENT_0167
 
-All five human units now track the same continuous event history through `EVENT_0165`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0165 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0167`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0167 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,11 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0165 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0167 committed boundary
+
+**EVENT_0167 is fully integrated:** `REL-WXS-G-E0124 → REL-WXS-G-E0167` advances the actual independent troupe's explicit shared-growth commitment after a nonactual disbandment/reunion interval. Local `EPI-WXS-WONDERLAND-E0124 → EPI-WXS-WONDERLAND-E0167` records the observed four-person sleep, compatible experience, white flash and harbor-tree change, not a known cause. Actual card rehearsal retains distinct character operatives; hypothetical future jobs, the emergency show and Swan's departure are not biography. The verified envelope is 26 stories / 59 scenes / 1,908 records. Two monthly school/family area rows have anomalous 2023 publication metadata. Leo/need I1, MMJ/VBS/N25 I0; no deterministic pain-to-growth law, guaranteed co-location, public SEKAI disclosure or complete reconstruction. The boundary advances EVENT_0165 to EVENT_0167, skipping source-absent EVENT_0166. EVENT_0168 is next; three source-present events remain through EVENT_0170.
+
+The [EVENT_0167 reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0167_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the forward readings record compact EVENT_0141–0167 deltas for later synthesis.
 
 **EVENT_0165 is fully integrated:** scoped `REL-FAMILY-MAFUYU-MOTHER-E0161 → REL-FAMILY-MAFUYU-MOTHER-E0165`, `MF-E0134-01 → MF-E0165-01`, `REL-N25-KM-E0100 → REL-N25-KM-E0165`, and local `EPI-N25-SEKAI-E0112 → EPI-N25-SEKAI-E0165` distinguish a direct mother–daughter apology and real trial return from later reactivated pressure, self-blame and renewed shelter, plus a possible untested lake-door key. The verified envelope is 24 stories / 48 scenes / 1,557 records. Father/group/singers have bounded I2; Ichika and Emu ordinary I1, MMJ/VBS I0. No stable reconciliation, completed counseling, decided nursing school, key fit, public SEKAI disclosure or complete reconstruction is certified. The boundary advances EVENT_0164 to EVENT_0165. EVENT_0167 is next; four source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
 
