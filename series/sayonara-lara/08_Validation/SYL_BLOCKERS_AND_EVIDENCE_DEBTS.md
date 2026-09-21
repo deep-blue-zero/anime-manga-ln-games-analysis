@@ -4,14 +4,14 @@ artifact_id: SYL_BLOCKERS_AND_EVIDENCE_DEBTS
 artifact_type: blockers_evidence_debts
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E11 closed; general debts plus E01-E11 claim-linked assignments"
+source_boundary: "E12 closed; general debts plus E01-E12 claim-linked assignments"
 ---
 
 # Blockers and evidence debts
@@ -57,4 +57,12 @@ The table's first three rows retain their E01-E07 interval history; E08 adds the
 | SYL-D0002 | 03:19-08:27 mirror/flashback provenance; 11:37-15:35 rejection, blade contact, Rigmor death; 16:19-20:18 mirror and revival/court sleep; 21:13-24:00 child-Mari rescue flashback, light and present transition. W0041-W0047. | Continuous source-linked inspection or strict sampled-endpoint narrowing; avoid precise strike, movement path, altered-body mechanics and resolved location; do not infer survival after E10 from historical scene. |
 | SYL-D0003 | `双子`, `城のためなんかじゃない`, `私自身が`, `ローワンのこと`, `光によって`, `ことばによって`, `私は人間だ`, `愛のために`, `掟を作った`, `泡を集めて`, `涙で殺めた`, `眠らせねば`, `小さな器`, `最後の光`, `まだ死なんでいい`, `掟ではなく`; cues 1-330 as localized in L0079-L0083. | Untouched ABEMA caption witness, derivative history and audible adjudication for contested register/speaker. |
 
-No current debt blocks opening E12 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.
+## E12 claim-linked assignments
+
+| Debt | E12 source intervals and claims | Required future acceptance |
+|---|---|---|
+| SYL-D0001 | 00:00-04:24 voices/Rowan/collapse; 06:10-12:20 Lisa/Mari confrontation; 12:20-18:14 strike/light/revival; 18:14-24:00 political coda and station. C0058-C0062; L0084-L0089. | Direct interval-linked listening for voice attribution, emotional delivery, impact, music and final departure sound/image relations. |
+| SYL-D0002 | 00:00-04:24 spear/architecture; 06:10-08:55 shore positions; 09:55-18:14 blade, strike, death/revival and light; 18:14-24:00 time jump, ring and train departure. W0048-W0052; F0060-F0065. | Continuous source-linked inspection or strict sampled-endpoint narrowing; do not infer exact victim/weapon path or light's exclusive cause from stills. |
+| SYL-D0003 | `王家の槍`, `愛する者を`, `近づかんと`, `喰らい合う`, `消えればいい`, `一人じゃない`, `生まれてきた`, `よみがえってよかった`, `本当の愛なんか要らない`, `あなたがいる世界`, `半年後`, `何度でも`, `私と生きたい`, `さびしい`, `このキズが私`; cues 1-376 as localized in L0084-L0089. | Untouched ABEMA caption witness, derivative/correction history and audible adjudication if wording/speaker remains contested. |
+
+`SYL-D0004` remains open for creator context and reception; historical search leads are not verified sources. E01-E12 text/static literary synthesis may proceed with claim-specific qualifications. A performance/music analysis cannot be promoted to completed status merely because the FLAC files exist, and a necessary continuous movement explanation must remain bounded rather than fabricated.

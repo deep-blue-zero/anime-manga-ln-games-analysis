@@ -4,14 +4,14 @@ artifact_id: SYL_LANGUAGE_AND_PERFORMANCE
 artifact_type: language_performance_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E11 closed; Japanese textual observations only, no auditory performance claims"
+source_boundary: "E12 closed; Japanese textual observations only, no auditory performance claims"
 ---
 
 # Language and performance ledger
@@ -107,4 +107,11 @@ source_boundary: "E11 closed; Japanese textual observations only, no auditory pe
 | SYL-L0082 | cues 235-304; 16:33-21:05 | `泡を集めて`; `愛する者を守った`; `涙で殺めた`; `光を吸いつくし`; `眠らせねば`; `小さな器`; `最後の光` | Gather foam; protected a loved one; killed with tears; drained light; must sleep them; small vessel; last light | Mirror history and Grace's revivification project | Complete aligned JP read; sheets 023-029 | Lara's blade refusal and Grace's killing are contrasted, while preservation entails instrumental choices | High for text; mechanics and speaker staging pending | C0055-C0056; W0044-W0046; F0058 |
 | SYL-L0083 | cues 305-330; 21:13-23:42 | `最期くらい`; `まだ死なんでいい`; `見える`; `光`; `ララ`; `まり`; `掟ではなく 愛のために生きろ` | At least let last moments; need not die yet; can see; light; Lara; Mari; live for love not law | Young Mari/Grace historical shore scene and closing mirror transition | Complete aligned JP read; sheets 030-035 | Grace's historical renewed sight and the anti-law imperative are explicit words; final speaker, referent and magic link need AV; no present survival inference | High for supplied text; attribution/delivery pending D0001-D0003 | C0057; W0047; F0059 |
 
-No E01-E11 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E11's mirror flashback, rejection/blade, revival and fish rescue remain text/static observations; performed rhythm, motion and sound remain deferred.
+| SYL-L0084 | cues 17-85; 00:58-04:24 | `王家の槍`; `愛する者をさしつらぬき`; `人間たちは醜くなんかない`; `できるわけない`; `泣いてるんでしょ` | Royal spear; pierce loved one; humans are not ugly; cannot do it; you are crying | Rowan's last demand and Lara's refusal | Complete aligned JP read; sheets 002-009 | The daughter names human worth and paternal grief rather than executing his remedy | High for supplied text; delivery/strike order pending D0001-D0003 | C0058; W0048; F0060 |
+| SYL-L0085 | cues 101-132; 07:11-08:47 | `見えない`; `人間なんだから`; `近づかんと分からへん`; `愛する人が僕にも居る` | Cannot see; because human; cannot know without approaching; I too have someone I love | Lisa, Mari and Kōta on shore | Complete aligned JP read; sheets 013-015 | Mari's Kansai answer accepts epistemic limits and makes approach a choice, while Kōta counters the required sacrifice from within mermaid kinship | High for supplied text; vocal force pending D0001-D0003 | C0059; R0054; F0061 |
+| SYL-L0086 | cues 159-206; 09:55-12:20 | `殺してしまう`; `消えればいい`; `一人じゃない`; `私とあんたは違う`; `誰かを愛するために` | Might kill; should disappear; not alone; you and I differ; born to love someone | Lara/Mari confrontation | Complete aligned JP read; sheets 017-020 | Neither difference nor care is erased; Mari's stated effect is less solitude, not a named romance | High for supplied text; delivery/timing pending D0001-D0003 | C0059-C0060; R0054-R0055 |
+| SYL-L0087 | cues 207-285; 12:46-18:07 | `光`; `よみがえってよかった`; `まだこの世界にいたい`; `本当の愛なんか要らない`; `あなたがいる世界`; `死んでた` | Light; glad I revived; still want this world; no need for true love; world you inhabit; was I dead | Lara's correction and Mari's revival joke | Complete aligned JP read; sheets 020-032 | Prescribed true-love test is refused amid a particular life-affirming attachment; Mari's death/revival is textual, with mechanism AV-bounded | High for supplied text; speaker at `光` and physical timing pending D0001-D0003 | C0060; W0049-W0050; F0062 |
+| SYL-L0088 | cues 286-311; 18:14-19:42 | `半年後`; `何もなかったとは言えません`; `今までのプリンセスのものとは違う`; `何度でも`; `こわかった` | Six months later; cannot say nothing happened; unlike former princesses; as often as needed; I was afraid | News, Lisa/Lara political conversation and ring | Complete aligned JP read; sheets 032-034 | Recovery is measured and incomplete, family reconciliation promised only as future work; Lisa admits fear of change | High for supplied text; delivery pending D0001-D0003 | C0061; W0050-W0051; F0063 |
+| SYL-L0089 | cues 312-376; 19:51-23:09 | `付き合うたり`; `別れたい`; `私と生きたい`; `さびしいわ`; `このキズが私`; `この脚で歩いていく` | Dated; wanted to break up; want to live with me; I am lonely; this scar is me; walk on these legs | Luca discussion, Mari's departure challenge, station | Complete aligned JP read; sheets 034-038 | Actual Lara/Luca dating is distinct from Lara/Mari shared-life avowal; present separation and embodied autonomy coexist | High for supplied text; station speaker/delivery pending D0001-D0003 | C0062; R0057-R0058; F0064-F0065 |
+
+No E01-E12 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E12's strike, light, resurrection and train departure remain text/static observations; performed rhythm, motion and sound remain deferred.

@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E11 closed; static visual and Japanese textual form"
+source_boundary: "E12 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -77,3 +77,9 @@ source_boundary: "E11 closed; static visual and Japanese textual form"
 | SYL-F0057 | E11 S05-S08 | Rigmor/Rowan light floods castle; human lover's accusation and soldiers turn Grace's land dream into catastrophe | Rigmor follows ring-light, affirms Grace, and Rowan narrates ban/exile | Static retrospective + JP text | Light and blade images cannot be assigned univocal virtue or culprit; sovereign law is a reaction to a conflicted chain | E07 Lara's rejected heart-blade, E10 cleansing command | sheets 013-023; cues 124-234; D0002 |
 | SYL-F0058 | E11 S09-S11 | Mirror jumps from daughters and Lara's birth to her foam, Grace's extraction and Rowan's light donation | Grace sleeps court, takes fish vessel, and waits for Lara as her last visible light | Static montage + JP text | The supposed neutral salvation tale exposes two elders' competing appropriations and costs of suspended lives | E06 century-long Lisa waiting; E09 second birth | sheets 023-029; cues 235-304; D0002 |
 | SYL-F0059 | E11 S12-S13 historical retrospect / present transition | Depleted fish asks for quiet and child Mari insists it need not die | Young Mari's shore rescue and Grace's renewed sight precede broken mirror and present confrontation imagery | Static progression + JP text | Historical human care counters the king's anti-human rhetoric without proving the E10 death report false or identifying a magical source or romantic target | E02 Gon household inversion, E09 tank maintenance, E10 reported death | sheets 030-035; cues 305-330; original `000948`; D0001-D0002 |
+| SYL-F0060 | E12 S01-S03 | Lara hears a collage of names and “what did you want?” while Rowan stages an ideal mermaid body | Human search and royal cavern collapse intercut with rejected loved-one stabbing | Static montage + JP text | External naming/ideal form compete with Lara's own answer; the father's tears expose grief inside absolutism without excusing demanded blood | E01 original sacrifice, E10 blade coercion, E11 mirror | sheets 001-009; cues 1-85; D0001-D0002 |
+| SYL-F0061 | E12 S04-S07 | Public news, missing boat, weak phone and shore encounter oppose invisible blade rhetoric | Mari admits she cannot see Lara's heart and walks toward the danger; Kōta invokes his own love | Static progression + JP text | Ordinary limited knowledge and infrastructure enable approach where royal omniscience claims fail; vision is ethical attention, not acquired magic sight | E07 phone, E10 lake restriction, E11 child-Mari rescue | sheets 005-018; cues 86-205; D0001-D0002 |
+| SYL-F0062 | E12 S08-S10 | Dark maw/weapon, falling Mari, white rose, shell-field and bright fragments | Lara says she wants a world with Mari tomorrow; weapon falls and Mari reports resurrection | Static progression + JP text | Fairy-tale foam and blade become a hazardous transition to a non-sacrificial life, not proof of a particular transfer formula | E01 foam, E03 light, E07 blade, E11 Rigmor counsel | sheets 018-032; cues 207-285; D0001-D0002 |
+| SYL-F0063 | E12 S11 | Lake news refuses “nothing happened” after a six-month cut | Ring returned by Lisa while recovery remains slow and the court asleep | Static montage + JP text | Social and environmental traces resist a spotless reset; inherited sign of royalty can be held without adopting its violent law | E02 ring search, E06 scientific investigation, E10 ecological news | sheets 032-034; cues 286-311; D0002 |
+| SYL-F0064 | E12 S12 | Finished portrait, household offers, boxing routine and move preparations | Luca recounts dating/breakup; Mari quotes Lara's wish to live together and names loneliness | Static montage + JP text | Comedy of abrupt change does not annul the serious asymmetry between Lara's autonomy and Mari's desire for proximity | E05 bakery skill, E07 unfinished painting, E08 cake and boxing, E09 pacing | sheets 034-036; cues 312-363; D0001-D0002 |
+| SYL-F0065 | E12 S13 | Train doors and scarred legs answer shell, ring and once-feared human feet | Lara says the wound is part of her and she will walk on those legs; Mari remains on platform and smiles | Static progression + JP text | Belonging is mobile, embodied and painful; the closing image leaves relation open rather than curing injury or arranging cohabitation | E01 legs cost, E02 inability to return, E08 departure/return | sheets 036-038; cues 364-376; D0001-D0002 |

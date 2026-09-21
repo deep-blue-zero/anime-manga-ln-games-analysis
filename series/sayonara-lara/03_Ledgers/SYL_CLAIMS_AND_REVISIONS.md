@@ -4,14 +4,14 @@ artifact_id: SYL_CLAIMS_AND_REVISIONS
 artifact_type: claims_revisions_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E11 closed; Japanese-caption and static-visual scope"
+source_boundary: "E12 closed; Japanese-caption and static-visual scope"
 ---
 
 # Claims and revisions ledger
@@ -82,4 +82,10 @@ This is the cumulative spine for consequential interpretive claims. Every claim 
 | SYL-C0056 | E11 | CHARACTER INTERPRETATION + COUNTEREXAMPLE | C0050: blade must consume beloved to become proper light | CONTRADICT INEVITABLE VIOLENCE | Grace says Lara previously refused the blade's demand for recompense and protected a loved one even at cost of life; Rigmor's final counsel says light can exist anywhere if one lives for love. Neither identifies exclusive target or certifies the present cure. | E11 S07/S09, cues 207-216, 255-263, sheets 022, 026-027; counterevidence: Grace projects her unresolved land dream onto Lara. | Love/violence specialist; Lara/Grace | W0046; D0002-D0003 |
 | SYL-C0057 | E11 | HISTORICAL RETROSPECT + CAUSE OPEN | C0048: Grace gone/dead after creature confrontation; Mari/Gon household origin | REVISE CHRONOLOGY / HOLD FATE | Young Mari finds a depleted fish-form Grace, takes her home despite her wish to die, and Grace says she sees beautiful light. This is the childhood origin of their bond, not evidence of survival after E10. The light's causal mechanism and Grace's present fate remain open. | E11 S12-S13, cues 305-330, sheets 030-035, original `000948`; child Mari's clothes/scale and flashback framing distinguish the event from the present boat mission. | Grace/Mari study; causality | W0047; D0001-D0003 |
 
-`SYL-H0001`-`SYL-H0012` remain historical research questions. Only explicitly recorded transitions enter current analysis. E11 makes Rowan's prohibition a decision born from a contested tragedy, not natural law; gives Grace a prior dream and compromised restorative history; and makes Mari's uncalculated care a counterexample to both anti-human absolutism and Grace's despair. No single romantic target or final light mechanism is certified.
+| SYL-C0058 | E12 | OBSERVED REFUSAL + CHARACTER THEORY | C0050/C0056: blood sacrifice required for proper princess light | REJECT COERCIVE RULE | Lara tells Rowan humans are not ugly, their days matter, and she cannot stab a loved person. His spear/purification proposal is refused; changed light later occurs without a shown chosen victim. | E12 S02-S03/S09-S11, cues 17-30, 50-85, 263-305, sheets 002-009, 026-033; rival: no controlled mechanism test or evidence that inherited light played no role. | Rowan/Lara; law specialist | W0048-W0050; D0001-D0003 |
+| SYL-C0059 | E12 | OBSERVED ACTION + REPORTED DEATH | C0039/C0052: named friendship under mortal risk | STRENGTHEN / COST | Mari admits she cannot see Lara's heart, approaches anyway, affirms different lives and her diminished loneliness with Lara, suffers an apparent fatal strike, and is later told she died and revived. Her conduct is not evidence of magical sight or declared romantic category. | E12 S05/S07-S10, cues 101-125, 159-215, 274-280, sheets 013-022, 030-032; exact strike path open. | Mari/dyad/ending | R0054-R0055; W0049; D0001-D0003 |
+| SYL-C0060 | E12 | CHARACTER AVOWAL + CORRELATED LIGHT | Grace's human “true love” route and Rowan's blood remedy | DIFFERENTIATE / REVISION | Lara rejects disappearance and says she wants tomorrow in the world where Mari lives, while explicitly rejecting prescribed `本当の愛`; altered light follows and family later begins recovering. Love as attachment is not equivalent to a dynastic detection protocol or an exclusive romance certificate. | E12 S09-S11, cues 216-268, 292-305, sheets 021-032; mechanism/mortality unisolated. | Lara/dyad/love specialist | W0049-W0050; D0001-D0003 |
+| SYL-C0061 | E12 | POST-CRISIS OBSERVATION + FORECAST | C0029/C0055: restoration mission and sleeping court | PARTIAL RESTORATION / FUTURE OPEN | Six months later ecological measures have improved but leave traces; Lisa reports unusual princess light and gradual family recovery, expects persistent hatred, returns the ring; Lara promises repeated dialogue with them. None shows actual waking/reconciliation. | E12 S11, cues 286-311, sheets 032-034; rival: Lisa's forecast need not fix future choices. | Ending/Rowan/Lisa | W0050-W0051; D0001-D0003 |
+| SYL-C0062 | E12 | OBSERVED PARTING + RELATIONAL AVOWAL | E08 future cake and E10 farewell as potentially final | REVISE / OPEN PRACTICE | Lara leaves Otsu household for independent life, affirms Mari's citation of her wish to live together, and admits painful scarred legs as part of herself; Mari speaks loneliness, then remains on platform. The series does not define a settled couple, severance, or next meeting. | E12 S12-S13, cues 312-376, sheets 034-038; continuous departure timing pending. | Lara/Mari relationship; ending | R0057-R0058; F0064-F0065; D0001-D0003 |
+
+`SYL-H0001`-`SYL-H0012` remain historical research questions. Only explicitly recorded transitions enter current analysis. At E12 the refusal of coerced blood, Mari's reported revival, an unusual restorative light and Lara's commitment to continuing life are strongly supported; the light's necessary mechanism, Grace's present bodily fate, sleeping family's later political choices, and Lara/Mari's practical future remain unresolved. These are bounded conclusions, not license to call the entire ending unknowable.

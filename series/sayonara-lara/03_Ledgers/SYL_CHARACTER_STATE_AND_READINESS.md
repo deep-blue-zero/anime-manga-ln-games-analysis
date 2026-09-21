@@ -4,14 +4,14 @@ artifact_id: SYL_CHARACTER_STATE_AND_READINESS
 artifact_type: character_state_readiness_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E11 closed; identities and states verified only through E11"
+source_boundary: "E12 closed; identities and states verified only through E12"
 ---
 
 # Character state and readiness ledger
@@ -72,4 +72,12 @@ This local ledger tracks verified identity, temporal state, desires/knowledge/co
 | Mari Otsu (`大津 茉里`) | VERIFIED_FULL_NAME | E11 historical flashback | As a child found fish-form Grace and refused her wish to die quietly, leading to household care; Grace says she sees beautiful light | Exact historical magic link and present E10 boat journey need E12/continuous sequence; no present E11 rescue established | Major monograph; FULL_SERIES_NOT_READY |
 | Lisa / Shiomi Lisa (`潮見リサ`) | VERIFIED_SISTER_RELATION / HUMAN IDENTITY | E11 | Repeats Rowan's claim that land life soiled Lara, while royal flashback and Grace's preservation strategy reveal conflict behind father's law | Response to Grace's uncertain present fate and divided family loyalty awaits E12 | Dedicated monograph; FULL_SERIES_NOT_READY |
 
-Readiness is dimension-specific. Literary synthesis, voice/performance analysis, and behavioral reconstruction never inherit readiness from one another automatically. The repeated subjects above preserve dated state transitions, not duplicate identities.
+| Lara | VERIFIED_LOCAL_IDENTITY | E12 / six-month coda | Refuses Rowan's loved-one stabbing and her own erasure, avows wanting tomorrow in Mari's world while rejecting prescribed true-love test; revives Mari with changed light correlation; pledges dialogue with family, receives ring, then leaves Otsu home for independent life on painful scarred legs | Exact revival/mortality mechanism, future living arrangement and court reconciliation unshown; no auditory performance | Major literary monograph READY within text/static scope; AV-dependent claims provisional |
+| Mari Otsu (`大津 茉里`) | VERIFIED_FULL_NAME | E12 / six-month coda | Searches alone, admits not seeing Lara's heart, approaches, names different lives and diminished loneliness; reportedly dies and revives; keeps training, voices loneliness at Lara's departure and smiles at train end | Fatal strike mechanics, future professional outcome and dyadic category not settled | Major literary monograph READY within text/static scope; AV-dependent claims provisional |
+| Rowan | VERIFIED_LOCAL_IDENTITY / FRAIL KING | E12 | Claims spear purged medicine, reiterates blood-purification demand, loses power as Grace's magic fades; family later slowly regains light while Lara refuses hatred and offers future dialogue | Survival/awakening horizon reported by Lisa; no observed change of heart or legitimate consent to law | Owner-requested ideological monograph READY within text/static scope |
+| Lisa / Shiomi Lisa (`潮見リサ`) | VERIFIED_SISTER_RELATION / HUMAN IDENTITY | E12 / six-month coda | Warns Mari of invisible blade and human epistemic limits, nevertheless directs her toward Lara; observes novel restorative light, predicts father's hatred, admits fear of Lara's change, returns ring | Prophecy and magic explanation are interested testimony; sisterly trust repaired only partially | Dedicated literary monograph READY within text/static scope |
+| Grace / Gon | VERIFIED_LOCAL_IDENTITY / RIGMOR TWIN | E12 | Her long sleep spell visibly loosens and castle collapses; E11 historical rescue remains distinct from E10 reported death | No independent present bodily survival or death certification in E12; legacy control and sacrifice require synthesis without false closure | Dedicated literary monograph READY with final-fate caveat |
+| Luca | VERIFIED DISTINCT HUMAN IDENTITY | E12 / six-month coda | Concerned for missing Lara, admits he hurt her; later reflects on their abrupt dating/breakup and shows completed painting, with an invitation to return | No resumed partnership or magical true-love status established | Supporting ensemble and Lara/Luca comparator READY |
+| Kōta | VERIFIED HUMAN NAME / ALTERED BODY | E12 | Wounded beside Lisa, says he loves someone and opposes a forced stabbing of Lara's beloved | His love's exact reciprocal category and wound recovery not established | Ensemble/Lisa relationship READY within textual scope |
+
+Readiness is dimension-specific. Literary synthesis, voice/performance analysis, and behavioral reconstruction never inherit readiness from one another automatically. The repeated subjects above preserve dated state transitions, not duplicate identities. E12 opens full-series *literary* synthesis with explicit AV debts, not a performance certification.
