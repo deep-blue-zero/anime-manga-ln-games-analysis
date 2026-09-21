@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V029
-row_count: 177
-state: CURRENT_THROUGH_V029
+inspected_through_volume: V030
+row_count: 180
+state: CURRENT_THROUGH_V030
 ```
 
 ## Records
@@ -219,3 +219,6 @@ state: CURRENT_THROUGH_V029
 | RAG-INF-175 | Housing loss and limited funds become common practical facts; Mini presses a shared-home interpretation. | Chizuru hears the proposal and Kazuya's concern about Ruka and propriety. | Access decisions move from private expectation to direct discussion. | Mini's romantic reading is not Chizuru's answer; RAG-E-V029-004 through RAG-E-V029-008. |
 | RAG-INF-176 | Chizuru admits loneliness and considers another kiss while drunk, then offers a one-month separate room when sober. | Kazuya hears uncertain feeling and receives explicit practical terms. | The inquiry gains ordinary domestic observation while retaining unknown outcome. | Taxi interruption prevents kiss evidence; room access is not dating status; RAG-E-V029-007 through RAG-E-V029-012. |
 | RAG-INF-177 | Nagomi reads the principals as a genuine couple; Ruka is not shown informed of the move. | Kazuya holds a different account from family and has voiced Ruka concern to Mini/Chizuru. | Cohabitation creates new potential audience asymmetry under the residual lie. | No exposure, correction, or Ruka response is established in V029; RAG-E-V029-005, RAG-E-V029-010, RAG-E-V029-011. |
+| RAG-INF-178 | Kazuya tells Ruka a family-home destination and lets Nagomi continue assuming genuine dating. | Both audiences lack the actual Chizuru-house arrangement, while Kazuya and the housemates know it. | V029's possible asymmetry becomes active concealment. | Neither Ruka nor Nagomi receives the full truth or an informed response opportunity; RAG-E-V030-001. |
+| RAG-INF-179 | Chizuru states household terms and a no-present request before her April 19 birthday. | Kazuya receives explicit practical limits but overreads some ordinary phrases through desire and anxiety. | Direct speech and private focalization must remain distinct. | The no-present wording neither invites a gift nor forbids all care; RAG-E-V030-002, RAG-E-V030-004, RAG-E-V030-006. |
+| RAG-INF-180 | Mami asks about Kazuya's apology without declaring her purpose; Sumi hears only the birthday concern and treats his cut. | Kazuya cannot know Mami's endpoint, and Sumi does not receive Chizuru's private answer. | The two meetings distribute partial knowledge differently. | Neither woman's response supplies Chizuru's feeling classification; RAG-E-V030-007, RAG-E-V030-008. |

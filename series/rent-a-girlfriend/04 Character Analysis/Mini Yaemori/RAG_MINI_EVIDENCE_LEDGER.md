@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V029; character evidence inspected through V029, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V030; character evidence inspected through V030, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -61,6 +61,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E021 | MIN-S006 | RAG-E-V028-005 | Follow-up inquiry and speculative test framing | Asks Kazuya what happened, hears that Chizuru will investigate, and speculates about observation and bodily or romantic compatibility. | Remains an active interpreter after her intervention produces direct contact. | Her proposed tests are speculation and must not be assigned to Chizuru or treated as the investigation method. | RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006 |
 | RAG-MIN-E022 | MIN-S007 | RAG-E-V029-004 through RAG-E-V029-008 | Displacement response and forceful housing intervention | Faces building closure, proposes family-house cohabitation, contacts Chizuru at the bar, and offers herself as a third resident. | Coordinates a practical solution while continuing romantic interpretation. | Her initiative is not a substitute for Chizuru's consent or a reliable love diagnosis; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E023 | MIN-S007 | RAG-E-V029-008, RAG-E-V029-009, RAG-E-V029-012 | Kiss suggestion, taxi interruption, and accepted invitation | Suggests a kiss test, is stopped, calls transport, interrupts the approach, and later accepts Chizuru's house invitation. | Her mediation has both boundary-testing and concrete logistical effects. | The suggestion does not authorize an intimate test; no completed kiss is shown; RAG-MIN-R002, RAG-MIN-R004, RAG-MIN-R006. |
+| RAG-MIN-E024 | MIN-S008 | RAG-E-V030-002 through RAG-E-V030-004 | Third-resident implementation and commentary | Moves belongings into the house, coordinates bath access, and comments on Kazuya's anxious interpretations. | Her practical third-party role becomes enacted residence, not just proposal. | Her romantic diagnosis remains an interpretation, and residence grants no authority over the principals' private answer; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 
 ## State-change summary
 
@@ -71,6 +72,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S005 — returned intermediary under prolonged silence: diagnoses Kazuya's rejection spiral, obtains Chizuru's current account, presses a love label that Chizuru resists, prompts self-investigation, and relays a bounded correction that enables paid recontact.
 - MIN-S006 — outcome-seeking intermediary after direct recontact: asks for the result, learns that investigation rather than classification followed, and immediately generates possible tests whose authority remains only speculative.
 - MIN-S007 — displaced logistical intermediary and invited third housemate: advocates cohabitation, crosses a boundary with a suggested kiss demonstration, arranges the taxi, and later accepts Chizuru's separate invitation into a bounded household.
+- MIN-S008 — active third resident and informal interpreter: moves into the family house, participates in facility coordination, and comments on Kazuya's anxious reading without acquiring authority over Chizuru's answer.
 
 ## Written-speech and ordinary-conduct notes
 

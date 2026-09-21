@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V029
-row_count: 170
-state: CURRENT_THROUGH_V029
+inspected_through_volume: V030
+row_count: 174
+state: CURRENT_THROUGH_V030
 ```
 
 ## Records
@@ -212,3 +212,7 @@ state: CURRENT_THROUGH_V029
 | RAG-PRG-168 | Ordinary access | APARTMENT_PROXIMITY_LOSS_WITH_PRACTICAL_ROUTE — quake damage displaces the neighbors, and independent housing is financially constrained. | A familiar route regresses before a new arrangement is chosen. | Physical loss is not emotional rejection or completed house sale. | RAG-E-V029-003 through RAG-E-V029-005 |
 | RAG-PRG-169 | Investigation | LONELINESS_DISCLOSURE_AND_INTERRUPTED_TEST — Chizuru admits loneliness but a drunken approach to a kiss ends with taxi arrival. | Feeling is articulated without a settled classification. | No kiss or sober answer is shown. | RAG-E-V029-007 through RAG-E-V029-009 |
 | RAG-PRG-170 | Domestic access | BOUNDED_COHABITATION_GAIN_WITH_STATUS_STALL — Chizuru offers a one-month spare room and invites Mini. | The inquiry gains an everyday three-person setting. | Shelter is not a relationship agreement and Ruka remains uninformed on page. | RAG-E-V029-010 through RAG-E-V029-012 |
+| RAG-PRG-171 | Domestic operation | ENACTED_ROUTINE_WITH_BOUNDED_ACCESS — room, key, shared facilities, separate bath turns, and Mini's occupancy become practical. | The shelter premise develops observable daily coordination. | Routine neither extends the month nor converts status. | RAG-E-V030-002 through RAG-E-V030-005 |
+| RAG-PRG-172 | Audience truth | NEW_CONCEALMENT_COST — Kazuya misstates his residence to Ruka and leaves Nagomi's false couple premise intact. | Greater intimacy with one audience increases the information debt to others. | Their informed reactions are untested. | RAG-E-V030-001 |
+| RAG-PRG-173 | Birthday care | REQUESTED_LIMIT_WITH_UNPERFORMED_INTENTION — Chizuru says no present, and Sumi helps Kazuya consider a modest acknowledgment. | Care becomes a specific boundary test rather than a general romantic proof. | No birthday outcome or gift acceptance is shown. | RAG-E-V030-006, RAG-E-V030-008 |
+| RAG-PRG-174 | Former-partner contact | REOPENED_MAMI_ROUTE_WITH_OPAQUE_END — she initiates a meeting and hears Kazuya's apology. | Silence after the resort is broken without resolving her goal. | Warm presentation and abrupt exit do not identify motive. | RAG-E-V030-007 |

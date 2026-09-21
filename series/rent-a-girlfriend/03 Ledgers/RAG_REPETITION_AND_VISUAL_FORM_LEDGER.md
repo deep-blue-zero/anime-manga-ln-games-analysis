@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V029
-row_count: 168
-state: CURRENT_THROUGH_V029
+inspected_through_volume: V030
+row_count: 172
+state: CURRENT_THROUGH_V030
 ```
 
 ## Records
@@ -210,3 +210,7 @@ state: CURRENT_THROUGH_V029
 | RAG-FRM-166 | Fire response, prohibited-entry signs, keys, separated rooms, bank balance, and apartment listing externalize displacement. | The former apartment route becomes a visible material constraint. | Screens and doors anchor the housing problem beyond inner monologue. | Housing need does not determine Chizuru's feeling; RAG-E-V029-003 through RAG-E-V029-005. |
 | RAG-FRM-167 | The bar's repeated drinks, enlarged blushing close-ups, taxi interruption, and next-day quiet rooms distinguish impulse from decision. | Drunken feeling talk and interrupted approach yield to sober bounded residence. | Formal separation prevents a near-kiss from becoming an assumed completed test. | Intoxicated gestures do not equal a stable answer; RAG-E-V029-007 through RAG-E-V029-012. |
 | RAG-FRM-168 | A one-month utterance, spare-room staging, and Mini's sudden entrance set domestic proximity beside an explicit limit. | The new house is a practical, three-person arrangement rather than a two-person romantic tableau. | The boundary is shown before routine begins. | Future implementation and relationship outcome are unknown; RAG-E-V029-011, RAG-E-V029-012. |
+| RAG-FRM-169 | Key, threshold, spare room, baths, washing, and sink sequence repeat close views of everyday space. | The serial setting makes minor access decisions salient without a new official status. | Kazuya's enlarged fantasy panels are corrected by separate schedules and ordinary speech. | Visual intimacy is not shared bath or mutual dating; RAG-E-V030-002 through RAG-E-V030-004. |
+| RAG-FRM-170 | A neighborhood cat moves from Kazuya's room to Chizuru's family yard amid laundry and Sayuri memory. | The animal gives household continuity and an observational bridge. | Gentle action is visible while Kazuya's loneliness theory remains a hypothesis. | The cat cannot answer Chizuru's romantic inquiry; RAG-E-V030-005. |
+| RAG-FRM-171 | Calendar and phone screens introduce April 19 and Mami's message; an apology scene ends before explanatory closure. | Specific timing makes the birthday actionable while the former-partner route remains open. | Interfaces convey contact and deadline, not private motive. | No completed birthday gesture or Mami endpoint; RAG-E-V030-006, RAG-E-V030-007. |
+| RAG-FRM-172 | Sumi's arrival, cut finger, bandaging hands, and quiet pauses replace Kazuya's spiraling interior monologue with care. | A small injury supports a concrete, local response and a second perspective on the birthday. | The hand image is an act of treatment, not an intimacy claim. | Bonus pages and teaser cannot supply subsequent outcome; RAG-E-V030-008, RAG-E-V030-009. |

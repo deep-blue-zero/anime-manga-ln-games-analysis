@@ -4,13 +4,13 @@ artifact_id: RAG_NAGOMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; character evidence inspected through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030."
 ---
 
 # Nagomi Kinoshita evidence ledger
@@ -65,6 +65,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-NAG-E025 | NAG-S012 | RAG-E-V027-001, RAG-E-V027-005 | Immediate post-disclosure normalization | Frames close relationships as able to accumulate secrets and distorted time, supports a return to ordinary dinner and lodging, and stops Kuribayashi's escalation. | Converts acceptance into continued social inclusion rather than immediate exclusion or surveillance. | Her response still rests on the false genuine-dating premise and does not establish reaction to its correction. | none; model withheld |
 | RAG-NAG-E026 | NAG-S012 | RAG-E-V028-009 | Family-expectation message under residual status error | Tells Kazuya that winter passed without seeing “Princess Chizuru.” | Keeps Chizuru's expected family presence active after the near-complete disclosure. | The message still rests on the false genuine-dating premise and supplies no direct Chizuru response. | none; model withheld |
 | RAG-NAG-E027 | NAG-S013 | RAG-E-V029-010 | Family lodging and mistaken investigation inference | Receives Kazuya after the damaged building, expresses a wish to see the apparent couple, and misreads his mention of investigation as a potential breakup. | Family pressure and concern persist in a practical housing crisis. | She does not know the actual unresolved status or receive full correction; none; model withheld. |
+| RAG-NAG-E028 | NAG-S013 | RAG-E-V030-001 | Housing question under false couple premise | Asks why Kazuya does not stay with Chizuru, still assuming genuine dating; he does not explain the actual arrangement. | Family expectation remains active in a housing decision. | Her response to full residence and relationship facts remains untested; none; model withheld. |
 
 ## State-change summary
 

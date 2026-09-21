@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V029
-row_count: 168
-state: CURRENT_THROUGH_V029
+inspected_through_volume: V030
+row_count: 172
+state: CURRENT_THROUGH_V030
 ```
 
 ## Records
@@ -210,3 +210,7 @@ state: CURRENT_THROUGH_V029
 | RAG-REL-166 | Mini → principals | Intermediary confronting housing and emotional uncertainty | Recommends house-sharing, contacts Chizuru, and offers to join as a third resident. | She helps translate separation into a practical proposal. | Her interpretations and kiss suggestion cannot substitute for either principal's choice; RAG-E-V029-005 through RAG-E-V029-008. |
 | RAG-REL-167 | Chizuru ↔ Kazuya | Intoxicated pair considering an inquiry test | Chizuru acknowledges loneliness and asks about kissing again; Kazuya repeats love; taxi arrival interrupts their approach. | A direct but inconclusive feeling exchange precedes sober terms. | No completed kiss, final answer, or dating agreement; RAG-E-V029-007 through RAG-E-V029-009. |
 | RAG-REL-168 | Chizuru ↔ Kazuya / Mini | One-month household under explicit uncertainty | Chizuru offers Kazuya a separate room and invites Mini into shared residence. | A bounded three-person domestic relation starts. | Ruka's response, everyday rules, and investigation result remain open; RAG-E-V029-010 through RAG-E-V029-012. |
+| RAG-REL-169 | Kazuya ↔ Chizuru / Mini | Active three-person household with separate private space | Room and key, practical cost and facility talks, separated bath turns, and sink proximity establish routine. | Their relationship acquires ordinary observation and co-residence. | Neither partner acknowledges mutual dating; month and boundaries remain; RAG-E-V030-002 through RAG-E-V030-005. |
+| RAG-REL-170 | Kazuya ↔ Ruka / Nagomi | Uninformed rival and family audiences | Kazuya conceals Chizuru-house residence from Ruka and leaves Nagomi's genuine-couple inference uncorrected. | The household deepens an information asymmetry beyond V029's concern. | Neither audience's reaction to full facts is known; RAG-E-V030-001. |
+| RAG-REL-171 | Kazuya ↔ Mami | Former partners after public exposure | Mami seeks a public meeting; Kazuya apologizes; she asks and leaves without a settled explanation. | Direct contact resumes, with no named endpoint. | Attraction, retaliation, forgiveness, and business motive are underdetermined; RAG-E-V030-007. |
+| RAG-REL-172 | Kazuya ↔ Sumi | Friend and support-seeker in a new domestic setting | Sumi arrives, treats his cut, hears birthday worry, and offers quiet perspective. | Her prior adaptive care recurs in practical and conversational form. | She does not speak for Chizuru or receive a romantic answer; RAG-E-V030-008. |

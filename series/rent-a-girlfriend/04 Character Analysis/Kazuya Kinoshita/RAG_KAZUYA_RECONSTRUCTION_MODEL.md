@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V029."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V030."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -56,13 +56,14 @@ model_basis:
     - RAG-JP-EPUB-V027
     - RAG-JP-EPUB-V028
     - RAG-JP-EPUB-V029
-  admitted_through_volume: V029
-  narrative_time_boundary: "after maternal-photo disclosure, quake shielding, forced displacement, anxious housing search, an interrupted drunken near-kiss, and acceptance of a bounded separate room at Chizuru's house"
+    - RAG-JP-EPUB-V030
+  admitted_through_volume: V030
+  narrative_time_boundary: "after entering the one-month household, concealing residence from Ruka and Nagomi, meeting Mami, and receiving Sumi's first aid and birthday counsel"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.29"
+  model_revision: "1.30"
   prior_knowledge_limitations:
-    - "No post-V029 narrative evidence is admitted."
+    - "No post-V030 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -1547,7 +1548,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S031
 valid_from_source: "V029 0005"
-valid_until_source: null
+valid_until_source: "V030 0004"
 entry_conditions:
   - "Kazuya hears Chizuru identify her mother, shields her during a quake, and loses the adjacent apartment route."
 active_goals:
@@ -1582,6 +1583,46 @@ uncertainties:
   - "Whether he can sustain calibrated conduct in the household."
   - "How Ruka and family audiences learn the actual arrangement."
   - "What Chizuru's sober investigation concludes."
+~~~
+
+### KAZ-S032 — anxious housemate under explicit limits and new concealment
+
+~~~yaml
+state_id: KAZ-S032
+valid_from_source: "V030 0005"
+valid_until_source: null
+entry_conditions:
+  - "Kazuya enters Chizuru's one-month, three-person house arrangement after losing apartment access."
+active_goals:
+  - maintain ordinary proximity without exceeding her room, facility, and birthday limits
+  - acknowledge her April 19 birthday without imposing an unwanted present
+  - keep Ruka and Nagomi from confronting the actual residence, despite the resulting information debt
+known_propositions:
+  - "Chizuru has given him a separate room and key and specified shared-use practices."
+  - "Ruka has heard his family-home account, and Nagomi still believes the pair date genuinely."
+  - "Mami has renewed direct contact without explaining her goal; Sumi offers concrete care."
+relationship_conditions:
+  - "He is a temporary housemate and still awaits Chizuru's own feeling answer."
+  - "Ruka has not consented to or responded to the actual housing facts."
+changed_from_previous:
+  - HOUSEHOLD_RULES_ENACTED
+  - RUKA_DESTINATION_CONCEALED
+  - NAGOMI_PREMISE_LEFT_UNCORRECTED
+  - MAMI_APOLOGY_OFFERED
+  - BIRTHDAY_NO_PRESENT_REQUEST_RECEIVED
+  - SUMI_FIRST_AID_AND_COUNSEL_RECEIVED
+evidence_refs:
+  - RAG-E-V030-001
+  - RAG-E-V030-002
+  - RAG-E-V030-003
+  - RAG-E-V030-004
+  - RAG-E-V030-006
+  - RAG-E-V030-007
+  - RAG-E-V030-008
+uncertainties:
+  - "Whether he respects Chizuru's birthday limit in action."
+  - "When he corrects Ruka and Nagomi and how they respond."
+  - "Whether the household ends on schedule or yields a direct answer."
 ~~~
 
 ## Behavioral rules
@@ -1921,7 +1962,7 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the initial offer, or any post-V029 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the one-month arrangement, or any post-V030 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
@@ -1930,5 +1971,7 @@ Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal
 V028 validates a discriminating countercondition to the ambiguity-collapse rule: when Chizuru supplies a direct uncertain account, a promised process, and specific voluntary access, Kazuya can ask the central question, reject self-punitive job loss, tolerate delay, and perform practical tasks without claiming mutual status. His exaggerated test fantasies and ten-or-twenty-year waiting language preserve calibration limits. The model still withholds mature partnership, durable long-term communication, repeat production competence, workable separation, Chizuru's investigation result, and correction of the residual dating lie.
 
 V029 tests material disruption against the V028 patient-inquiry behavior. Kazuya shields Chizuru during a quake, worries that displacement will end access, names Ruka and financial constraints, expresses feeling while drunk, and accepts a sober limited room offer (RAG-E-V029-002 through RAG-E-V029-012). Practical care and direct objection are supported, while emotional forecast and sexualized interpretation remain unreliable. The interrupted near-kiss and temporary cohabitation supply no evidence for mature reciprocal intimacy or mutual dating status.
+
+V030 tests ordinary residence against the same anxious appraisal. He accepts room, key, and separate bath use, but sexualizes proximity and misreads general speech. He also avoids the harder audience truth by concealing his destination from Ruka and leaving Nagomi's premise intact. His Mami apology is a counterexample to total inability to address prior wrong, while Sumi's bandage and counsel give him a concrete route under Chizuru's no-present request (RAG-E-V030-001 through RAG-E-V030-008). No birthday action, relationship answer, or informed rival response is observed; do not forecast success as accomplished.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

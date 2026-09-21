@@ -4,13 +4,13 @@ artifact_id: RAG_SAYURI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; direct character evidence inspected through Sayuri's death in V018 and later memory or household references reviewed through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; direct character evidence through Sayuri's death in V018 and later memory or household references reviewed through V030."
 ---
 
 # Sayuri Ichinose evidence ledger
@@ -68,6 +68,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-SAY-E024 | POST-SAY | RAG-E-V023-020 through RAG-E-V023-022 | Remembered happiness teaching and chosen-family consequence; continuing influence | Chizuru recalls Sayuri teaching her to recognize happiness within difficult circumstances and to trust that people who want to remain nearby will gather, then applies it to the resort group. | Sayuri's guidance remains behaviorally and emotionally consequential after death. | The memory is Chizuru's present reconstruction and cannot establish Sayuri's view of the full rental truth or current group. | none; historical influence only |
 | RAG-SAY-E025 | POST-SAY | RAG-E-V028-013 through RAG-E-V028-015 | Empty family house, retained objects, and memorial presence; continuing influence | Chizuru identifies the house as Sayuri's, reports that Sayuri did not discard Katsuhito's collected stones, sorts the remaining household, and encounters the grandparents through altar photographs. | Sayuri's household choices and memorial presence remain materially consequential during the contemplated sale. | Chizuru supplies the retrospective report; it does not establish Sayuri's reason for each object or a new posthumous decision. | none; historical influence only |
 | RAG-SAY-E026 | POST-SAY | RAG-E-V029-001, RAG-E-V029-005 | Maternal photo and remembered household presence | Her former house and Chizuru's recollection of living with her frame the now-empty residence and rare portrait of Chizuru's mother. | Bereavement and retained space influence Chizuru's temporary housing choice. | Present-day framing is Chizuru's memory; no new posthumous agency or complete prior family account; none; historical influence only. |
+| RAG-SAY-E027 | POST-SAY | RAG-E-V030-005 | Remembered neighborhood cat feeding | Chizuru links the familiar cat Peter to the household's earlier care, including Sayuri. | A small retained routine makes the inherited house a lived memory site. | Chizuru's retrospective report is not new Sayuri conduct or a general rule; none; historical influence only. |
 
 ## State-change summary
 

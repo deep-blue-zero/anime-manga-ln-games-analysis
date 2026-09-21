@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; character evidence inspected through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -188,6 +188,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E148 | KAZ-S031 | RAG-E-V029-004 through RAG-E-V029-006 | Housing scarcity and separation panic | Loses apartment access, searches within limited funds, worries the inquiry will stall, and hesitates over Mini's proposal because of Ruka and imposition. | Material constraint amplifies anxious relational forecasting but he names a real rival complication. | His expectations are not Chizuru's intentions; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R017. |
 | RAG-KAZ-E149 | KAZ-S031 | RAG-E-V029-007 through RAG-E-V029-009 | Drunken confession and interrupted near-kiss | Cries, says he loves and trusts Chizuru, and approaches after she asks about another kiss. | Feeling is direct while self-control and interpretation are impaired by alcohol. | No completed kiss, affirmative answer, or enduring permission; RAG-KAZ-R002, RAG-KAZ-R016, RAG-KAZ-R024. |
 | RAG-KAZ-E150 | KAZ-S031 | RAG-E-V029-010 through RAG-E-V029-012 | Family expectation and bounded residence | Hears Nagomi's false-premise pressure, then receives Chizuru's sober one-month separate-room offer and Mini's inclusion. | Can accept concrete terms despite continuing anxiety and lack of romantic certainty. | Acceptance does not solve Ruka's claim, financial independence, or the family lie; RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R024. |
+| RAG-KAZ-E151 | KAZ-S032 | RAG-E-V030-001, RAG-E-V030-002 | Audience protection and actual move | Conceals the house destination from Ruka, leaves Nagomi's couple premise intact, and accepts a separate room and key. | Material shelter and desired proximity coexist with a new preventable information debt. | His avoidance is not informed consent from either audience; RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E152 | KAZ-S032 | RAG-E-V030-003 through RAG-E-V030-005 | Domestic routine and misreading | Negotiates bath/sink proximity, fantasizes about shared intimacy, and reads Chizuru's general cleanliness remark personally. | Ordinary observation extends without reliable interpretation of her private feeling. | No shared bath, sex, or romantic answer; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R024. |
+| RAG-KAZ-E153 | KAZ-S032 | RAG-E-V030-006, RAG-E-V030-008 | Birthday boundary and practical support | Learns April 19 is imminent, hears the no-present request, cuts a finger, receives Sumi's bandage, and considers modest acknowledgment. | His care intent remains susceptible to all-or-nothing fear but can be revised through concrete counsel. | Intention is not a completed gift or Chizuru's acceptance; RAG-KAZ-R002, RAG-KAZ-R015, RAG-KAZ-R024. |
+| RAG-KAZ-E154 | KAZ-S032 | RAG-E-V030-007 | Public apology to Mami | Meets Mami after her message and apologizes for his lies and trouble while she leaves her purpose unstated. | Can offer direct accountability to a former partner outside a confrontation. | Her response and his full understanding of her history remain unknown; RAG-KAZ-R001, RAG-KAZ-R003. |
 
 ## State-change summary
 
@@ -222,6 +226,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S029 — deteriorated interpreter recovering through bounded recontact:** receives a private debrief, converts ambiguity and prolonged silence into feared rejection, accepts Mini's limited correction, books a paid date, and reaches the direct-speech threshold while still unable to ask first.
 - **KAZ-S030 — direct questioner and patient inquiry participant under expanding ordinary access:** asks about the kisses, restates his feeling without demanding an immediate answer, supports Chizuru's work choice, accepts her investigation, resumes direct messaging and private time, apologizes to Kibe, and performs task-bound labor in Chizuru's childhood home.
 - **KAZ-S031 — displaced, anxious prospective housemate:** loses neighboring housing, confronts limited independent options, confesses while drunk, then accepts Chizuru's sober one-month separate-room offer with Mini also invited; investigation and Ruka status remain unresolved.
+- **KAZ-S032 — anxious housemate under explicit limits and new concealment:** takes a key and separate room, overreads ordinary proximity, hides residence from Ruka and Nagomi, apologizes to Mami, and receives Sumi's aid and counsel about Chizuru's no-present request without completing a birthday gesture.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 

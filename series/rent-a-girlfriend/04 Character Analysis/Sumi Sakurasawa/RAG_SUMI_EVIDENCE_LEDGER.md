@@ -4,13 +4,13 @@ artifact_id: RAG_SUMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V028; direct character conduct inspected through V018, with a silent V028 appearance and negative-evidence review completed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V030; direct conduct through V030 after a silent V028 appearance."
 ---
 
 # Sumi Sakurasawa evidence ledger
@@ -62,6 +62,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-SUM-E021 | SUM-S005 | RAG-E-V018-015 | Experiential teaching and encouragement; care planning | Leads play and models direct encouragement as a way Kazuya might support Chizuru. | Converts abstract empathy into a low-pressure experiential lesson. | The method is not yet tested with Chizuru in Sumi's presence. | RAG-SUM-R002, RAG-SUM-R006 |
 | RAG-SUM-E022 | SUM-S005 | RAG-E-V018-018 | Later integration by Kazuya; consequence | Kazuya integrates the excursion's lesson into his support plan. | Confirms that Sumi's intervention changes another character's available action model. | Kazuya remains responsible for the later plan and outcome. | RAG-SUM-R006 |
 | RAG-SUM-E023 | SUM-S005 | RAG-E-V028-012 | Silent campus appearance; negative information boundary | Appears near the April 7 campus sequence without an observed exchange. | Re-establishes physical presence in Kazuya's university environment after a long conduct gap. | No speech, action, knowledge state, motive, or relationship consequence is shown, so no new temporal state or model rule follows. | none; appearance limit only |
+| RAG-SUM-E024 | SUM-S006 | RAG-E-V030-008 | House visit, first aid, and birthday counsel | Appears at Chizuru's house while she is absent, bandages Kazuya's cut finger, and listens to his worry about the no-present request. | Repeats adaptive practical care after a long conduct gap and helps him consider a bounded acknowledgment. | Her counsel cannot waive Chizuru's limit or establish a birthday outcome; RAG-SUM-R002, RAG-SUM-R003, RAG-SUM-R006. |
 
 ## State-change summary
 
@@ -70,8 +71,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - SUM-S003 — prepared care planner and grief listener: designs an itinerary, gives practical care and a gift, asks a bounded question, and remains with Kazuya's distress.
 - SUM-S004 — family-context supporter: visits Sayuri with flowers and uses a phone memo to ask about the film.
 - SUM-S005 — friend-framed support teacher: listens to a new grief problem, rejects solitary-strength logic, ends the transaction, self-funds an excursion, and models play plus direct encouragement.
+- SUM-S006 — practical visitor and birthday confidant: visits the family house, treats Kazuya's cut finger, and helps him think about Chizuru's no-present limit without speaking for her.
 
-V013-V016 and V019-V027 supply no material new Sumi conduct. V028 supplies only a silent campus appearance, not a new action state. That long gap prevents a continuous-development claim and leaves the consequences of her own romantic feeling unresolved.
+V013-V016 and V019-V027 supply no material new Sumi conduct. V028 supplies only a silent campus appearance; V029 has no direct conduct. V030 resumes practical care after that long gap without resolving her own unheard romantic feeling.
 
 ## Written-speech and ordinary-conduct notes
 

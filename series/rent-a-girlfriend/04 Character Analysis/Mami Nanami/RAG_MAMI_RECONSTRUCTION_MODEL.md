@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V026, with V011-V019 treated as a negative-evidence interval."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V030, with V011-V019 and V027-V029 treated as negative-evidence intervals."
 ---
 
 # Mami Nanami reconstruction model
@@ -53,13 +53,17 @@ model_basis:
     - RAG-JP-EPUB-V024
     - RAG-JP-EPUB-V025
     - RAG-JP-EPUB-V026
-  admitted_through_volume: V026
-  narrative_time_boundary: "after Mami acknowledges dropping Ruka's phone, converts the Diamond-profile display into a selective whistleblower accusation, and twice demands kissing as proof before the principals preserve family access"
+    - RAG-JP-EPUB-V027
+    - RAG-JP-EPUB-V028
+    - RAG-JP-EPUB-V029
+    - RAG-JP-EPUB-V030
+  admitted_through_volume: V030
+  narrative_time_boundary: "after Mami initiates a public tea meeting with Kazuya, hears his apology, and ends it without declaring a goal"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.6"
+  model_revision: "1.7"
   prior_knowledge_limitations:
-    - "No post-V026 narrative evidence is admitted."
+    - "No post-V030 narrative evidence is admitted."
     - "Mami's final motive and desired endpoint remain unknown."
     - "V011-V019 contain no material observed Mami conduct and cannot be filled with inferred hidden actions."
 coverage:
@@ -499,7 +503,7 @@ uncertainties:
 ~~~yaml
 state_id: MAM-S011
 valid_from_source: "V026 0005"
-valid_until_source: null
+valid_until_source: "V030 0144"
 entry_conditions:
   - "Ruka's phone has fallen with Chizuru's Diamond profile visible, and Mami possesses the accumulated family, money, ring, and service information needed to frame it."
 active_goals:
@@ -544,6 +548,32 @@ uncertainties:
   - "The exact pre-drop preparation of the Diamond profile."
   - "How Mami interprets and responds to the pair's survival of her public test."
   - "How much protection, control, punishment, truth correction, and anti-romance hostility coexist in the intervention."
+~~~
+
+### MAM-S012 — former partner renewing private contact after public failure
+
+~~~yaml
+state_id: MAM-S012
+valid_from_source: "V030 0145"
+valid_until_source: null
+entry_conditions:
+  - "The principals survived her public verification demands; no V027-V029 direct Mami conduct is shown."
+active_goals:
+  - request direct access to Kazuya and hear his account
+known_propositions:
+  - "Kazuya apologizes for lies and trouble, but Mami does not state how she interprets the apology."
+relationship_conditions:
+  - "Former-partner contact resumes publicly without a stated reunion, alliance, or confrontation endpoint."
+changed_from_previous:
+  - DIRECT_MESSAGE_SENT
+  - PUBLIC_TEA_MEETING_INITIATED
+  - KAZUYA_APOLOGY_RECEIVED
+  - MEETING_ENDED_WITHOUT_DECLARED_GOAL
+evidence_refs:
+  - RAG-E-V030-007
+uncertainties:
+  - "Her motive and next action remain underdetermined."
+  - "A gentle surface may coexist with more than one private aim."
 ~~~
 
 ## Behavioral rules
@@ -727,10 +757,12 @@ Use Japanese manga written speech only. Mami can place pointed questions or stat
 
 Supported with caution: a new inconsistency in a relationship account; public information that opens a contact route; an audience before whom former-partner history is costly; a target who denies an observed fact; a follow-up meeting after the V020 proposal.
 
-Require extra assumptions: current family life beyond the disclosed history, workplace competence beyond the pitch, whether she still wants Kazuya romantically, response to complete truth, durable response to firm exclusion, willingness to harm Nagomi, exact pre-drop screen preparation, or any post-V026 conduct.
+Require extra assumptions: current family life beyond the disclosed history, workplace competence beyond the pitch, whether she still wants Kazuya romantically, response to complete truth, durable response to firm exclusion, willingness to harm Nagomi, exact pre-drop screen preparation, or any post-V030 conduct.
 
 Abstain whenever the outcome depends on solving her motive, inventing V011-V019 conduct, treating research as omniscience, or assuming that professional plausibility proves either innocence or deception. Generated scenarios cannot become canon evidence.
 
 ## Validation status
 
 The model is admitted as `PARTIAL_MODEL`. Repeated information acquisition, audience-sensitive presentation, contradiction testing, and access-building recur across peer, platform, workplace, online, business, venue, and family contexts. V025 adds formative history and coercive private intervention; V026 validates selective public accusation and repeated bodily verification after resistance. These additions narrow method and appraisal without solving motive, while the long negative-evidence interval and sparse ordinary routine remain substantial. Operational use is limited to named information, autonomy-threat, access, and public-verification pressures with explicit abstention on endpoint and post-setback conduct.
+
+V030 supplies the first observed post-setback contact: Mami requests a public meeting, hears Kazuya's apology, asks a probing question, and ends the encounter (RAG-E-V030-007). Renewed access is supported; a specific motive, forgiveness, or renewed antagonism is not. The V027-V029 gap and brief exchange prevent promotion beyond PARTIAL_MODEL.

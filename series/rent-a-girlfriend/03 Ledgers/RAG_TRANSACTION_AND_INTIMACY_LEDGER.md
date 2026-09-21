@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V029
-row_count: 155
-state: CURRENT_THROUGH_V029
+inspected_through_volume: V030
+row_count: 158
+state: CURRENT_THROUGH_V030
 ```
 
 ## Records
@@ -197,3 +197,6 @@ state: CURRENT_THROUGH_V029
 | RAG-TXN-153 | Mini's house-sharing and kiss-test suggestions | Housing scarcity supports a proposal, but Mini's romantic interpretations are not the principals' terms. | Chizuru may refuse, invite a third resident, or set limits; Kazuya may name Ruka and his reluctance. | Intermediary confidence does not authorize intimacy. | Chizuru rejects Mini's demonstration and later sets her own terms; RAG-E-V029-005 through RAG-E-V029-008. |
 | RAG-TXN-154 | Drunken near-kiss outside the bar | Chizuru asks about another kiss as a possible self-test, while both have been drinking. | Either may stop; taxi arrival interrupts before a completed kiss. | Alcohol, proximity, and Kazuya's confession do not supply a settled or continuing intimate license. | No completed kiss is observed; RAG-E-V029-009. |
 | RAG-TXN-155 | One-month spare room in Chizuru's family house | The old apartment is unavailable and alternatives are costly; Chizuru offers separate lodging and discusses ordinary use and expenses, then invites Mini. | Household participants may negotiate space, costs, and duration. | Shelter or shared rooms do not buy a romantic answer or override Ruka-related disclosure concerns. | Bounded three-person residence begins without final dating status; RAG-E-V029-010 through RAG-E-V029-012. |
+| RAG-TXN-156 | Actual room, key, facilities, and bath scheduling | Chizuru provides shelter and discusses household costs and shared-use logistics; Mini occupies the third place. | Residents can negotiate chores, timing, privacy, and exit when the month ends. | The key and unpriced access do not purchase romance, imply shared bathing, or override a refusal. | Separate turns and common sink coexist with continued inquiry; RAG-E-V030-002 through RAG-E-V030-004. |
+| RAG-TXN-157 | Birthday acknowledgment after a no-present request | Chizuru asks Kazuya not to buy a gift amid displacement and limited money; Sumi later helps him think about care. | Kazuya can speak, listen, or offer a modest noncoercive gesture subject to Chizuru's response. | Desire to celebrate cannot negate her explicit boundary or infer acceptance in advance. | Only an intention develops; no gift transaction or birthday result is depicted; RAG-E-V030-006, RAG-E-V030-008. |
+| RAG-TXN-158 | Sumi's first aid | Kazuya cuts his finger and Sumi applies a bandage. | He receives specific practical care, which he could decline or stop. | Bodily contact for treatment supplies no broader romantic permission. | Local injury care occurs without a couple-status change; RAG-E-V030-008. |

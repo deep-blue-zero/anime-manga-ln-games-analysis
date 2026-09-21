@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V029; character evidence inspected through V029, with V012-V013, V019, and V029 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V030; character evidence inspected through V030, with V012-V013, V019, and V029 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -110,6 +110,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E070 | RUK-S023 | RAG-E-V027-002 | Direct confrontation over kisses and professional rules | Follows Chizuru into the restroom, demands whether she likes Kazuya, grabs her, rejects necessity as a work explanation, and attempts to contact the rental agency. | Converts the V026 endpoint stare into direct emotional, bodily, and institutional pressure. | Her own sudden kiss history and disputed claim complicate the moral position; grievance does not authorize grabbing or compelled classification. | RAG-RUK-R002, RAG-RUK-R005, RAG-RUK-R010, RAG-RUK-R015 |
 | RAG-RUK-E071 | RUK-S023 | RAG-E-V027-007, RAG-E-V027-009 | No-count framing, access demand, and later reduced vigilance | Calls the resort kisses a necessary evil that protected her boyfriend, demands that Chizuru reduce ordinary access, and later relaxes full-alert monitoring during the three-month silence. | Preserves her own status account while seeking a practical boundary against her rival. | She does not obtain Chizuru's agreement, restore Kazuya's consent, or create workable separation terms. | RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R014, RAG-RUK-R015 |
 | RAG-RUK-E072 | RUK-S024 | RAG-E-V028-009 | Workplace status persistence and direct health concern | Appears at Kazuya's karaoke job in uniform, calls herself his girlfriend, notices that he looks pale, and worries because he nearly collapsed. | Combines continued claim performance with concrete care after the long silence interval. | Care does not answer Kazuya's withdrawal, restore mutual trial terms, or repair the fabricated sex claim. | RAG-RUK-R001, RAG-RUK-R006, RAG-RUK-R010, RAG-RUK-R016 |
+| RAG-RUK-E073 | RUK-S025 | RAG-E-V030-001 | Housing inquiry under concealment | Learns that Kazuya has left the damaged apartment, asks about his destination, and receives his family-home account while expressing attachment. | Her direct access continues under materially incomplete information. | She is not shown knowing the Chizuru-house residence or responding to the full facts; RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R016. |
 
 ## State-change summary
 
@@ -137,6 +138,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S022 — self-costly exposure resister with unresolved claim: identifies the fallen phone as hers, attempts a cover, recognizes Mami's orchestration, apologizes and argues that the group should accept the pair's account, then leaves the near-complete explanation still attached and visibly unsettled.
 - RUK-S023 — professional and access enforcer after self-costly protection: confronts Chizuru over the kisses, threatens agency action, accepts a necessary-exception frame only insofar as it preserves her own claim, and demands reduced rival access.
 - RUK-S024 — workplace caregiver preserving a disputed label: approaches Kazuya at work, presents herself as his girlfriend, and expresses direct concern for his physical condition without a revised mutual agreement.
+- RUK-S025 — attached claimant asking about a concealed move: asks Kazuya where he is staying after the quake, receives his family-home account, and expresses attachment without knowing the Chizuru-house destination.
 
 V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, V020 shows a request-and-permission consequence, V021 shows explicit refusal of a breakup with renewed access pressure, V022 escalates into forced contact and deliberate sexual-evidence fabrication, V023 repeats the fabrication inside a direct multi-party credibility contest, V024 combines moral pressure with repeated protection of the cover she could expose, and V025 supplies a bounded former-client clarification before the group exposure.
 

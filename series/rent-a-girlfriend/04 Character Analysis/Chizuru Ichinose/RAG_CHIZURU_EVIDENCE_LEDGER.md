@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; character evidence inspected through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -184,6 +184,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E142 | CHI-S031 | RAG-E-V029-004, RAG-E-V029-005 | Displaced resident at Sayuri's house | Leaves the damaged apartment, returns alone to the childhood house, and recalls Sayuri there. | The family property becomes present shelter as well as bereavement archive. | Her eventual sale decision remains open; RAG-CHI-R004, RAG-CHI-R018, RAG-CHI-R024. |
 | RAG-CHI-E143 | CHI-S031 | RAG-E-V029-007 through RAG-E-V029-009 | Loneliness, caution, and interrupted intoxicated test | Acknowledges loneliness, resists Mini's simple cohabitation and kiss logic, asks Kazuya about another kiss, and is interrupted by the taxi. | Shows personally salient uncertainty and some initiative. | Both have drunk; no kiss or final feeling is established; RAG-CHI-R016, RAG-CHI-R017, RAG-CHI-R024. |
 | RAG-CHI-E144 | CHI-S031 | RAG-E-V029-010 through RAG-E-V029-012 | Sober one-month, separate-room offer | Visits Kazuya and offers a spare room in her family house, discussing practical limits and inviting Mini. | Expands the inquiry setting to everyday, bounded, three-person living. | Shelter is not an affirmative private romantic answer or unrestricted access; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E145 | CHI-S032 | RAG-E-V030-001 through RAG-E-V030-004 | Implemented household boundaries | Welcomes Kazuya, assigns separate space, gives a key, and discusses one-month, three-person, cost, laundry, bath, and common-area use. | Converts a sober offer into chosen daily access under explicit rules. | No automatic couplehood or unrestricted intimacy; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E146 | CHI-S032 | RAG-E-V030-004, RAG-E-V030-005 | Ordinary speech and remembered domestic care | Shares sink routine, remarks generally about conscientious people, and interacts with Peter, a cat connected to the family's feeding habits. | Small, nonprofessional acts become observable without requiring romantic performance. | Kazuya's interpretation of a phrase or cat behavior cannot resolve her private feeling; RAG-CHI-R004, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E147 | CHI-S032 | RAG-E-V030-006 | Birthday cost and boundary | Acknowledges the upcoming April 19 birthday and requests no present during Kazuya's housing and money strain. | States a specific limit while allowing the matter to become discussable. | No birthday outcome or blanket ban on care is shown; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 
 ## State-change summary
 
@@ -218,6 +221,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S029 — professionally conflicted avoider entering explicit self-investigation:** admits the kiss violation, shares responsibility, privately frames customer-directed feeling as prohibited, sustains roughly three months of silence, resists Mini's love label, commits to inquiry, and reopens paid contact by speaking first.
 - **CHI-S030 — direct investigator expanding ordinary and family access under rival-harm accounting:** apologizes and explains the silence, distinguishes the provider role from her whole person, promises an answer, asks directly about Ruka, sustains unpriced communication and vocational access, and invites Kazuya into task-bound childhood-house labor without final romantic classification.
 - **CHI-S031 — displaced householder offering a bounded inquiry setting:** identifies maternal loss, acknowledges loneliness during a drunken conversation, and later soberly offers one month of separate-room shelter to Kazuya and invites Mini, without resolving the investigation or house disposition.
+- **CHI-S032 — temporary host governing ordinary observation:** implements a separate room, key, facility and expense terms for a three-person month, continues ordinary interaction and inherited household care, and specifies a no-present birthday limit without giving an investigation answer.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 

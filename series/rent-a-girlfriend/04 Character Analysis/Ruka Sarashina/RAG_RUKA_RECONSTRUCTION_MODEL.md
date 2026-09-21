@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V028, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V030, with V012-V013, V019, and V029 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -53,13 +53,15 @@ model_basis:
     - RAG-JP-EPUB-V026
     - RAG-JP-EPUB-V027
     - RAG-JP-EPUB-V028
-  admitted_through_volume: V028
-  narrative_time_boundary: "after Ruka follows rival-directed boundary pressure with a quieter karaoke visit in which she preserves the girlfriend label and expresses concrete concern for Kazuya's health"
+    - RAG-JP-EPUB-V029
+    - RAG-JP-EPUB-V030
+  admitted_through_volume: V030
+  narrative_time_boundary: "after Ruka asks about Kazuya's post-quake move, receives a false family-home destination, and remains unaware of the Chizuru-house arrangement"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.25"
+  model_revision: "1.26"
   prior_knowledge_limitations:
-    - "No post-V028 narrative evidence is admitted."
+    - "No post-V030 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -993,7 +995,7 @@ uncertainties:
 ~~~yaml
 state_id: RUK-S024
 valid_from_source: "V028 0133"
-valid_until_source: null
+valid_until_source: "V030 0004"
 entry_conditions:
   - "Ruka's demand for reduced Chizuru access has not produced accepted terms, while Kazuya remains physically depleted after the long silence period."
 active_goals:
@@ -1016,6 +1018,33 @@ evidence_refs:
 uncertainties:
   - "Whether Ruka learns of Chizuru's private-room, theater, messaging, or family-house access."
   - "Whether care can coexist with an accepted separation or accountability for prior fabrication."
+~~~
+
+### RUK-S025 — attached claimant asking about a concealed move
+
+~~~yaml
+state_id: RUK-S025
+valid_from_source: "V030 0005"
+valid_until_source: null
+entry_conditions:
+  - "The earthquake has displaced Kazuya from the neighboring apartment."
+active_goals:
+  - learn where he is staying and maintain access
+  - express attachment under her still-disputed girlfriend claim
+known_propositions:
+  - "Kazuya says he is staying at his family home."
+  - "She does not receive his actual Chizuru-house destination on page."
+relationship_conditions:
+  - "The previous trial withdrawal remains unresolved and no renewed mutual agreement is shown."
+changed_from_previous:
+  - POST_QUAKE_DESTINATION_QUESTIONED
+  - FALSE_FAMILY_HOME_ACCOUNT_RECEIVED
+  - ATTACHMENT_REASSERTED
+evidence_refs:
+  - RAG-E-V030-001
+uncertainties:
+  - "How she would respond to the actual shared residence."
+  - "Whether she can accept corrected status and information."
 ~~~
 
 ## Behavioral rules
@@ -1241,12 +1270,14 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, workable conduct after Kazuya's withdrawal, long-term workplace conduct, durable correction after the fabrication, romantic meaning in Kuribayashi's concern, completed agency action, or any post-V028 conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, workable conduct after Kazuya's withdrawal, long-term workplace conduct, durable correction after the fabrication, romantic meaning in Kuribayashi's concern, completed agency action, informed response to the house move, or any post-V030 conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
 V028 adds a discriminating ordinary-care observation after V027's high-conflict enforcement: Ruka approaches Kazuya at work, repeats the girlfriend label, notices his poor condition, and expresses worry. The scene supports coexistence of real care and disputed status persistence without showing mutual restoration, accountability, or a workable boundary. Local readiness remains PARTIAL_MODEL because family life, school routine, response to accepted separation, accountability after fabrication, and long-term conduct remain sparse.
+
+V030 shows Ruka asking directly about Kazuya's new residence and expressing attachment, but he supplies a false family-home destination (RAG-E-V030-001). The model can describe her inquiry and continuing claim; it cannot predict her response to the actual shared house as if she knew it. The V029 nonappearance and this information asymmetry leave the separation and accountability gaps intact.
 
 The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.

@@ -4,13 +4,13 @@ artifact_id: RAG_KIBE_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; character evidence inspected through V028, with no material V024 or V027 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030, with no material V024, V027, or V029 conduct."
 ---
 
 # Kibe evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V028
+inspected_through_volume: V030
 local_readiness: UNMODELED
 ~~~
 
@@ -58,6 +58,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KIB-E017 | KIB-S009 | RAG-E-V026-006 | Trust rupture, ring inference, and physical violence | Points to the inherited ring and accumulated closeness, then punches Kazuya before the full history is explained. | Converts friendship betrayal and concern into immediate punitive action. | His evidence does not establish the complete relation, and violence supplies no factual proof or justified correction. | none; model withheld |
 | RAG-KIB-E018 | KIB-S009 | RAG-E-V026-011 | Friendship memory and coerced verification | A memory with Kuribayashi states a trust ethic; in the present Kibe reinforces the demand that the pair kiss as proof. | Treats visible bodily performance as the decisive test after verbal contradiction. | The demand is coercive, Kibe remains incompletely informed, and a kiss cannot establish private status. | none; model withheld |
 | RAG-KIB-E019 | KIB-S010 | RAG-E-V028-011 | Apology reception and friendship repair under residual error | Hears Kazuya apologize for lying and causing hurt, says people lie and that falsehood does not automatically prove malice, and resumes a demanding protective friendship stance. | Revises the immediate punitive judgment into a more differentiated account of motive and valued ties. | He still believes Kazuya and Chizuru genuinely date, so repair is not calibrated to the complete truth. | none; model withheld |
+| RAG-KIB-E020 | KIB-S010 | RAG-E-V030-001 | Practical housing advice under incomplete information | Suggests sharing an apartment and dividing rent after the old building becomes unusable. | Offers ordinary peer advice without knowing Kazuya's intended household. | He is not informed of Chizuru's house, the one-month terms, or the unresolved romantic status; advice is no response to the actual move. | none; information limit only |
 
 ## State-change summary
 
@@ -79,6 +80,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - He acts through peer speech, material opportunity, selective secrecy, and later social introduction.
 - Ordinary independent routine is limited to university friendship, café-linked contact, and network mediation.
 - V028 shows that he can revise an immediate punitive judgment after apology, but the revision remains protected from the final status truth.
+- V030's apartment-share suggestion is practical friendship contact under a further housing information gap.
 
 ## Gaps and negative evidence
 

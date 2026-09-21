@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029; predictions frozen before V030 narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030; no V031 narrative prediction frozen."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V029
-current_claim_count: 109
-frozen_prediction_count: 4
-state: CURRENT_THROUGH_V029__PREDICTIONS_FROZEN_FOR_V030
+inspected_through_volume: V030
+current_claim_count: 114
+frozen_prediction_count: 0
+state: CURRENT_THROUGH_V030__BLOCK_CLOSE
 ```
 
 ## Current claims
@@ -150,8 +150,13 @@ state: CURRENT_THROUGH_V029__PREDICTIONS_FROZEN_FOR_V030
 | RAG-CLM-105 | The altar portrait identifies Chizuru's mother, who died when Chizuru was four, and a rare surviving photograph remains valuable. | OBSERVATION | RAG-E-V029-001 | The image and Chizuru's account do not reveal a complete family history. | ADDED and supported in V029. |
 | RAG-CLM-106 | Quake damage displaces the former neighbors and converts the family house from a possible sale/cleanup site into temporary shelter. | OBSERVATION | RAG-E-V029-003 through RAG-E-V029-005, RAG-E-V029-011 | Final property disposition and building repairs are unknown. | ADDED and supported in V029. |
 | RAG-CLM-107 | Chizuru explicitly acknowledges loneliness and considers a kiss as an inquiry test while drinking, but the approach is interrupted. | OBSERVATION | RAG-E-V029-007 through RAG-E-V029-009 | No completed kiss or sober romantic conclusion follows. | ADDED and supported in V029. |
-| RAG-CLM-108 | A sober, one-month separate-room offer with Mini as another resident creates bounded domestic access without a mutual dating agreement. | STRONG_INFERENCE | RAG-E-V029-010 through RAG-E-V029-012 | Actual routine, duration, and final inquiry answer remain open. | ADDED and supported in V029. |
-| RAG-CLM-109 | The new arrangement carries explicit concern about Ruka and continuing family belief in a genuine couple, while neither audience receives full on-page correction. | STRONG_INFERENCE | RAG-E-V029-005, RAG-E-V029-010 through RAG-E-V029-012 | Ruka's informed reaction and Nagomi's response to full truth remain unknown. | ADDED and supported in V029. |
+| RAG-CLM-108 | A sober, one-month separate-room offer with Mini as another resident creates bounded domestic access without a mutual dating agreement; V030 implements the room, key, cost, and facility terms. | STRONG_INFERENCE | RAG-E-V029-010 through RAG-E-V029-012, RAG-E-V030-002 through RAG-E-V030-004 | Actual routine now begins; full duration and final inquiry answer remain open. | ADDED in V029; extended in V030. |
+| RAG-CLM-109 | The new arrangement carries explicit concern about Ruka and continuing family belief in a genuine couple; Kazuya now conceals his destination from Ruka and leaves Nagomi's premise uncorrected. | STRONG_INFERENCE | RAG-E-V029-005, RAG-E-V029-010 through RAG-E-V029-012, RAG-E-V030-001 | Ruka's informed reaction and Nagomi's response to full truth remain unknown. | ADDED in V029; concealment confirmed in V030. |
+| RAG-CLM-110 | Three-person cohabitation makes intimate-looking space a routine of separable room, key, bath, sink, and cost decisions without producing mutual dating status. | STRONG_INFERENCE | RAG-E-V030-002 through RAG-E-V030-004 | Kazuya's fantasies cannot establish shared bodily access or Chizuru's answer. | ADDED and supported in V030. |
+| RAG-CLM-111 | Domestic inquiry advances through ordinary observation and explicit limits, while the cat scene and Kazuya's interpretation do not disclose Chizuru's private classification. | STRONG_INFERENCE | RAG-E-V030-002 through RAG-E-V030-005 | No completed sober kiss test or final answer is observed. | ADDED and supported in V030. |
+| RAG-CLM-112 | The birthday request distinguishes an explicit no-present limit from Kazuya's desire for a modest acknowledgment; neither giving nor acceptance occurs in V030. | OBSERVATION | RAG-E-V030-006, RAG-E-V030-008 | Sumi's counsel cannot waive Chizuru's boundary. | ADDED and supported in V030. |
+| RAG-CLM-113 | Mami's initiated meeting and Kazuya's apology reopen contact while her purpose remains indeterminate. | OBSERVATION | RAG-E-V030-007 | Surface warmth, probing, and early departure support multiple motives. | ADDED and supported in V030. |
+| RAG-CLM-114 | Sumi's practical first aid and quiet birthday counsel recur as bounded care without speaking for Chizuru or resolving her own relation to Kazuya. | STRONG_INFERENCE | RAG-E-V030-008 | No birthday outcome or Chizuru response follows. | ADDED and supported in V030. |
 
 ## Competing hypotheses
 
@@ -555,6 +560,17 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 | RAG-PRED-115 | The move produces disclosure, concealment, status discussion, changed access, or confrontation concerning Ruka's disputed claim. | RAG-E-V029-005, RAG-E-V029-011 | V030 gives no Ruka-related response or accounting. |
 | RAG-PRED-116 | Lost apartment, Nagomi's false premise, and temporary family-house arrangement produce a practical or audience-facing housing/family consequence. | RAG-E-V029-004, RAG-E-V029-010 through RAG-E-V029-012 | V030 supplies no such consequence. |
 
+## Adjudicated predictions from the V029 boundary
+
+| Prediction ID | Adjudication | V030 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-113 | SUPPORTED | Separate room and key, month and three-person terms, expenses, bath order, and sink routine; RAG-E-V030-002 through RAG-E-V030-004. | Operating access is bounded. |
+| RAG-PRED-114 | SUPPORTED, limited | Sober household observation and explicit limits operate in ordinary routines; RAG-E-V030-002 through RAG-E-V030-005. | No direct new answer or completed kiss test. |
+| RAG-PRED-115 | SUPPORTED | Kazuya conceals the Chizuru-house destination when Ruka asks about his move; RAG-E-V030-001. | No informed reaction or separation. |
+| RAG-PRED-116 | SUPPORTED | Displacement shapes practical room/cost terms and the incomplete Ruka/Nagomi accounts; RAG-E-V030-001, RAG-E-V030-002. | Sale and audience correction remain open. |
+
+The V021-V030 block ends here. No V031 prediction is frozen or narrative source admitted at this boundary.
+
 ## Open evidence questions
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
@@ -577,4 +593,6 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 - Will Nagomi's expectation and Kibe's partial repair remain stable if the residual dating lie is corrected?
 - How does the newly identified maternal portrait inform the remaining Ichinose family history without filling unsupported gaps?
 - What practical disposition follows for Sayuri's house, the collected stones, and other retained family objects?
-- How will the one-month, three-person household operate, and what will Ruka be told?
+- How will the operating one-month household respond to privacy, cost, and exit decisions, and when will Ruka receive an accurate account of Kazuya's residence?
+- Will Chizuru's April 19 no-present request permit any chosen acknowledgment, and how will she respond if Kazuya attempts one?
+- Why did Mami renew contact, and what did she make of Kazuya's apology?

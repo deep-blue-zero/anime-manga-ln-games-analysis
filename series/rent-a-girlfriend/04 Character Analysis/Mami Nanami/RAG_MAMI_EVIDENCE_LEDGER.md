@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; character evidence inspected through V026, including negative-evidence review for V011-V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; material direct conduct through V026 and V030, with V027-V029 negative-evidence review."
 ---
 
 # Mami Nanami evidence ledger
@@ -76,6 +76,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MAM-E036 | MAM-S011 | RAG-E-V026-001 through RAG-E-V026-003 | Acknowledged drop and control of immediate interpretation | Says that she dropped Ruka's phone, defeats Ruka's joke-image cover, then kneels and apologizes to both principals while saying that she can no longer hide the situation. | Converts her direct role in the device event into a performance of reluctant disclosure before Nagomi's status question. | She does not disclose her drop role or prior bargain in the apology, and the exact pre-drop screen preparation remains unstated. | RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R011 |
 | RAG-MAM-E037 | MAM-S011 | RAG-E-V026-004 | Whistleblower accusation using true facts and strategic omissions | Presents herself as reluctant, invokes money, the ring, heir expectations, and Sayuri's death, and alleges that Chizuru ignored warnings. | Builds a coherent family accusation from prior research and access. | She omits her drop responsibility and conditional bargain, so the account is interested rather than complete. | RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R009, RAG-MAM-R010, RAG-MAM-R011 |
 | RAG-MAM-E038 | MAM-S011 | RAG-E-V026-009, RAG-E-V026-015 | Repeated bodily proof demand after verbal accounts | Demands a kiss to validate Kazuya's claimed relation, then disputes the first kiss's visibility and demands repetition. | Escalates from factual accusation to control over what embodied evidence the audience must accept. | Coercive verification supplies no neutral authority, and Chizuru's compliance does not validate Mami's framing or establish private status. | RAG-MAM-R003, RAG-MAM-R008, RAG-MAM-R010, RAG-MAM-R011 |
+| RAG-MAM-E039 | MAM-S012 | RAG-E-V030-007 | Initiated meeting and unresolved apology | Messages Kazuya, meets him for tea, asks what he means by his apology, and ends the encounter without an explicit goal. | Public former-partner access resumes after the failed Paradise separation. | Her expression and short talk cannot identify forgiveness, renewed romance, surveillance, or future strategy; RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R010. |
 
 ## State-change summary
 
@@ -90,8 +91,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MAM-S009 — contradiction judge under family-initiated contact: treats Chizuru's souvenir-ring participation as inconsistent with her disclaimers, privately frames withheld action as help while anticipating villain status, and receives Nagomi's direct request to talk before any public disclosure completes.
 - MAM-S010 — coercive rescuer with disclosed anti-romance history and exposure-linked affect: turns family access into a room-and-ring plan, reveals a controlled childhood and failed Tarou route behind her stated wish to destroy performing couples, conditionally retreats after Chizuru's refusal, preserves story-alignment leverage, and smiles at the public profile display before V026 clarifies the phone owner and her drop acknowledgment.
 - MAM-S011 — staged whistleblower and coercive verifier: acknowledges dropping Ruka's phone, controls the profile's public interpretation through selective accusation, conceals her own bargain and drop role from that framing, and twice demands kissing as proof before the pair preserve family access.
+- MAM-S012 — former partner renewing private contact after public failure: messages Kazuya, meets him for tea, hears his apology, and ends the encounter without a declared goal.
 
-V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, V021 makes its use direct, V022 converts family and venue access into trip inclusion, V023 uses that access for parallel probes, V024 adds explicit contradiction judgment and family-initiated contact, and V025 supplies both formative history and a coercive disclosure attempt without retroactively filling the earlier gaps. Absence from the page is not evidence of inactivity or a stable plan.
+V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, V021 makes its use direct, V022 converts family and venue access into trip inclusion, V023 uses that access for parallel probes, V024 adds explicit contradiction judgment and family-initiated contact, and V025 supplies both formative history and a coercive disclosure attempt without retroactively filling the earlier gaps. V027-V029 have no direct Mami conduct; V030 resumes a brief meeting. Absence from the page is not evidence of inactivity or a stable plan.
 
 ## Written-speech and ordinary-conduct notes
 

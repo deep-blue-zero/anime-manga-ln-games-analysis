@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V029
-row_count: 138
-state: CURRENT_THROUGH_V029
+inspected_through_volume: V030
+row_count: 141
+state: CURRENT_THROUGH_V030
 ```
 
 ## Records
@@ -180,3 +180,6 @@ state: CURRENT_THROUGH_V029
 | RAG-CHR-136 | RAG-E-V029-001 through RAG-E-V029-004 | The altar question leads to maternal-photo disclosure, quake-caused shielding, a conversation outside, and discovery of the damaged apartment. | Family disclosure, contact, ideal, and forced displacement occur in that order on the house-visit night. | Exact clock times and engineering outcome are unstated. |
 | RAG-CHR-137 | RAG-E-V029-005 through RAG-E-V029-009 | After temporary separation, Mini and Kazuya discuss the move; Chizuru joins them at a late April 11 izakaya meeting; Mini's taxi arrival interrupts the near-kiss. | The bar, intoxication, and interrupted test precede sober housing terms. | Do not infer a completed kiss from proximity. |
 | RAG-CHR-138 | RAG-E-V029-010 through RAG-E-V029-012 | Separate taxi destinations, Kazuya's sleep and family encounter, then Chizuru's next-day invitation precede the one-month house offer and Mini's acceptance. | Sober invitation follows, rather than precedes, the drunken episode. | Exact move-in hour and future month endpoint are not fully fixed. |
+| RAG-CHR-139 | RAG-E-V030-001 through RAG-E-V030-005 | Kazuya moves into the family house, receives a separate room and key, Mini joins, and daily bath/sink/cat routines follow. | The offer becomes actual residence after the family/Ruka conversations. | The scenes do not establish a long-term residential endpoint. |
+| RAG-CHR-140 | RAG-E-V030-006 | On April 16 Kazuya realizes Chizuru's birthday is April 19, three days away, and she asks him not to prepare a present. | Explicit dates constrain the near-term birthday question. | No birthday celebration occurs in V030. |
+| RAG-CHR-141 | RAG-E-V030-007, RAG-E-V030-008 | Mami's public meeting and Kazuya's apology precede Sumi's unexpected house visit; Sumi treats his cut and they discuss the birthday. | Distinguishes encounters and audiences before the V030 cut. | Exact elapsed hours and later acts remain unshown. |
