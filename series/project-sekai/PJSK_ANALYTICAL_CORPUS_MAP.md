@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0145
+current_event_boundary: EVENT_0146
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0145
+## Current state — founded units synchronized through EVENT_0146
 
-All five human units now track the same continuous event history through `EVENT_0145`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0145 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0146`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0146 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0145 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0146 committed boundary
+
+**EVENT_0146 is fully integrated:** `VBS-EP-AK-E0109 → VBS-EP-AK-E0146` records Akito distinguishing sincere commitment from missing heat, disclosing post-goal depletion, accepting differentiated counsel, and converting an unfamiliar rival's performance into full-effort response and a concrete wish to see the world. `VBS-REL-GROUP-E0135 → VBS-REL-GROUP-E0146` turns an undefined world horizon into self-governed practice and outreach plus a shared decision to travel to New York. New scoped `VBS-REL-AK-SLADE-E0146` records admiration, direct critique, reciprocal performance, and an open world-rivalry channel. `EPI-VBS-SEKAI-E0118 → EPI-VBS-SEKAI-E0146` advances a cracked benchmark wall to destroyed and open paths after RAD BLAST while keeping the mechanism unknown. Partner, Street-audience, Kohane, and Street-singer owners receive strong I2; WxS and MMJ receive ordinary I1 routes; Leo/need and N25 are I0. The verified envelope is 28 stories / 51 scenes / 1,489 records. No professional status, completed America trip, world success, permanent motivation cure, objective equality with Slade, guaranteed rematch, decoded twins–Nagi history, exact SEKAI mechanism, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0145 to EVENT_0146. EVENT_0147 is next; 23 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+The [EVENT_0146 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0146_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record the compact EVENT_0141–0146 package deltas for the next synthesis checkpoint.
+
+### Historical continuation — EVENT_0145 committed boundary
 
 **EVENT_0145 is fully integrated:** `MZ-E0117-01 → MZ-E0145-01` records a self-chosen plan to disclose, an enacted request for private conversation, loss of timing through third-party exposure, and acute withdrawal after Mizuki distinguishes Ena's surprise from rejection but cannot tolerate kindness newly conditioned by the knowledge. `REL-N25-EMZ-2 → REL-N25-EMZ-E0145` advances non-extractive waiting into attempted disclosure, involuntary knowledge transfer, pursuit, and an unresolved rupture without a shared account. `EPI-N25-ENA-MZ-E0039 → EPI-N25-ENA-MZ-E0145` records Ena's forced receipt while preserving the distinction between reported history and Mizuki's own identity account. `REL-N25-G-7`, Rui, Toya, and Empty-singer owners receive proportional I2 support. The verified envelope is 22 stories / 38 scenes / 1,592 records. No self-authored identity label, completed disclosure, rejection, acceptance, reconciliation, permanent departure, group-wide knowledge, school-wide/public disclosure, causal omen, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0144 to EVENT_0145. EVENT_0146 is next; 24 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -717,13 +723,13 @@ The [EVENT_0005 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_R
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` is `EVENT_0145`. Mizuki now owns the chosen-disclosure-attempt and withdrawal state; the Ena–Mizuki relation contains forced knowledge without shared narration, and Ena's receipt remains distinct from Mizuki's identity account. `EVENT_0146` is next; 24 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
+`ANALYSIS_CURRENT` is `EVENT_0146`. Akito now owns a post-goal, world-facing expressive successor; VBS has chosen a concrete New York route, the Akito–Slade rivalry is open, and the Street-SEKAI benchmark wall is destroyed without a decoded mechanism. `EVENT_0147` is next; 23 source-present events remain through `EVENT_0170`, with `EVENT_0166` absent from the frozen source lock.
 
-**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0145` for all five human units. The EVENT_0141–0170 continuation is active.
+**Coverage qualification:** every historical universal screen remains closed through `EVENT_0028`; the founded-unit matrix closes `EVENT_0029–0090`; and complete-envelope forward integration now reaches `EVENT_0146` for all five human units. The EVENT_0141–0170 continuation is active.
 
 `RECONSTRUCTION_CURRENT` is provisional generation 1 through `EVENT_0140`: 20 principal-human packages, 60 package artifacts, and one cross-character readiness audit. Every principal human independently passes `R3_RECONSTRUCTION_READY` for bounded textual scenario use; none passes R4 or performed-voice readiness. Event-local `reconstruction_yield` annotations remain evidence-yield assessments and are not themselves the certification. Unit and warranted specialist syntheses, full-series synthesis, later-generation contradiction work, and protected integration remain separate dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0145_DEEP_READING.md) closes `EVENT_0145 — 荊棘の道は何処へ`, bucket `RB_20241012T090000Z`: 22 stories / 38 scenes / 1,592 records. Mizuki's chosen disclosure attempt is preempted by third-party exposure; Ena receives guarded history without Mizuki's own account, and the dyad ends in unresolved rupture.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0146_DEEP_READING.md) closes `EVENT_0146 — Rekindle the flame`, bucket `RB_20241021T060000Z`: 28 stories / 51 scenes / 1,489 records. Akito turns post-goal depletion into renewed world-facing motion through accepted support and Slade's challenge; VBS chooses a New York route, and the Street-SEKAI wall opens under bounded causal uncertainty.
 
 Local continuation recovered the existing `series/project-sekai` branch at `a13b31d743af25fad6dcd23aa6647c81412b6b45` and verified EVENT_0089 as the last closed event. Reconciliation commit `76e1a6c3ab710555e04d5b5656aa5916409d0b4a` joins current-main ancestry without changing the analytical candidate tree relative to `2a9d39efe4bfd0ca0c54f910ff9dce27f0186f40`. The staged author preflight passed at 3,515 indexed paths. Six source-lock manifest hashes and each EVENT_0090 canonical digest were independently verified against the locked corpus. This recovery establishes the execution prerequisite, not additional analytical coverage.
 

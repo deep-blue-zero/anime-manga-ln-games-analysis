@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0145
+current_event_boundary: EVENT_0146
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0145
+## Current coverage — all five human units synchronized through EVENT_0146
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0145 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0145`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0146 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0146`.
 
 Artifacts:
 
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0145 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0146 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0146 is fully integrated:** `VBS-EP-AK-E0109 → VBS-EP-AK-E0146` records Akito distinguishing sincere commitment from missing heat, disclosing post-goal depletion, accepting differentiated counsel, and converting an unfamiliar rival's performance into full-effort response and a concrete wish to see the world. `VBS-REL-GROUP-E0135 → VBS-REL-GROUP-E0146` turns an undefined world horizon into self-governed practice and outreach plus a shared decision to travel to New York. New scoped `VBS-REL-AK-SLADE-E0146` records admiration, direct critique, reciprocal performance, and an open world-rivalry channel. `EPI-VBS-SEKAI-E0118 → EPI-VBS-SEKAI-E0146` advances a cracked benchmark wall to destroyed and open paths after RAD BLAST while keeping the mechanism unknown. Partner, Street-audience, Kohane, and Street-singer owners receive strong I2; WxS and MMJ receive ordinary I1 routes; Leo/need and N25 are I0. The verified envelope is 28 stories / 51 scenes / 1,489 records. No professional status, completed America trip, world success, permanent motivation cure, objective equality with Slade, guaranteed rematch, decoded twins–Nagi history, exact SEKAI mechanism, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0145 to EVENT_0146. EVENT_0147 is next; 23 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0146 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0146_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0146: 28 stories / 51 scenes / 1,489 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Vivid BAD SQUAD is PRIMARY/VERY HIGH I3 through Akito and CO_PRIMARY through the group, Akito–Slade relation, and Street-SEKAI epistemic state; partner, Street-audience, Kohane, and Street-singer owners receive strong I2. WxS and MMJ are ordinary I1; Leo/need and N25 are documentary I0.
+- The shared analysis boundary is EVENT_0146. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0146 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0145 forward transaction
 
 **EVENT_0145 is fully integrated:** `MZ-E0117-01 → MZ-E0145-01` records a self-chosen plan to disclose, an enacted request for private conversation, loss of timing through third-party exposure, and acute withdrawal after Mizuki distinguishes Ena's surprise from rejection but cannot tolerate kindness newly conditioned by the knowledge. `REL-N25-EMZ-2 → REL-N25-EMZ-E0145` advances non-extractive waiting into attempted disclosure, involuntary knowledge transfer, pursuit, and an unresolved rupture without a shared account. `EPI-N25-ENA-MZ-E0039 → EPI-N25-ENA-MZ-E0145` records Ena's forced receipt while preserving the distinction between reported history and Mizuki's own identity account. `REL-N25-G-7`, Rui, Toya, and Empty-singer owners receive proportional I2 support. The verified envelope is 22 stories / 38 scenes / 1,592 records. No self-authored identity label, completed disclosure, rejection, acceptance, reconciliation, permanent departure, group-wide knowledge, school-wide/public disclosure, causal omen, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0144 to EVENT_0145. EVENT_0146 is next; 24 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -2161,3 +2171,7 @@ The verified group contains 29 stories / 55 scenes / 2,202 records. No universal
 ### EVENT_0145 source and reconstruction review
 
 The verified group contains 22 stories / 38 scenes / 1,592 records. No self-authored identity label, completed disclosure, rejection, acceptance, reconciliation, permanent departure, group-wide knowledge, school-wide/public disclosure, causal omen, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0146 source and reconstruction review
+
+The verified group contains 28 stories / 51 scenes / 1,489 records. No professional contract or status, demonstrated English fluency, completed America trip, international performance, world success or supremacy, permanent motivation cure, proof that competition is Akito's only motive, objective equality or superiority to Slade, completed recurring rivalry, decoded twins–Nagi history, guaranteed future meeting, exact Street-SEKAI mechanism, universal barrier removal, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified.

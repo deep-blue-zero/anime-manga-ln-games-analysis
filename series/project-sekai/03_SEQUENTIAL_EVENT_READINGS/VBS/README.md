@@ -58,3 +58,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0129 — Whip the wimp girl!!](PJSK_EVENT_0129_DEEP_READING.md): complete 27-story envelope; An turns hidden comparative fear into reciprocal rivalry and a Street-reengaging public contest.
 
 - [EVENT_0135 — OVER RAD SQUAD!!](PJSK_EVENT_0135_DEEP_READING.md): complete 24-story envelope; RAD BLAST completes the founding goal and converts the Street's inherited legend into a new collective horizon.
+
+- [EVENT_0146 — Rekindle the flame](PJSK_EVENT_0146_DEEP_READING.md): complete 28-story envelope; Akito converts post-goal depletion into renewed world-facing motion through reciprocal support and Slade's challenge, VBS chooses a concrete New York route, and the Street-SEKAI benchmark wall opens without a decoded mechanism.

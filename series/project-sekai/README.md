@@ -4,7 +4,7 @@ artifact_type: repository_entrypoint
 scope: DRIVE_ANALYTICAL_CORPUS_IMPORT
 generation: V1_import_2026_09_05
 status: canonical
-current_event_boundary: EVENT_0145
+current_event_boundary: EVENT_0146
 reconstruction_package_cutoff: EVENT_0140
 supersedes: []
 superseded_by: []
@@ -16,7 +16,7 @@ do_not_use_as_current_authority: false
 <!-- UNIT_BACKFILL_0029_0090_START -->
 ## Current analytical boundary
 
-All five human units have continuous event-history dispositions through `EVENT_0145`. The [release-impact matrix](04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090) closes every formerly deferred EVENT_0029–0090 unit route, backed by founded [Leo/need](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [MMJ](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [VBS](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) and [WxS](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) checkpoints. Older deferred wording records historical entering state and is superseded for current coverage.
+All five human units have continuous event-history dispositions through `EVENT_0146`. The [release-impact matrix](04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090) closes every formerly deferred EVENT_0029–0090 unit route, backed by founded [Leo/need](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [MMJ](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [VBS](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) and [WxS](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) checkpoints. Older deferred wording records historical entering state and is superseded for current coverage.
 
 [Provisional reconstruction generation 1](05_CHARACTER_RECONSTRUCTION/README.md) now provides a monograph, reconstruction model, and evidence index for each of the 20 principal human characters. The [cross-character readiness matrix](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md) records 20 independent R3 passes, no R2 holdovers, and no R4 or performed-voice promotions. Its exact narrative boundary is EVENT_0140 commit `9de1cbf9efaba5c66946ec2d5dc0419e568da7c7`.
 <!-- UNIT_BACKFILL_0029_0090_END -->
@@ -25,9 +25,9 @@ This tree imports all 58 analytical documents from the owner-supplied Drive fold
 
 Start with the [analytical corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md), then the relevant foundation, event reading, or longitudinal ledger. The [import report](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_REPORT.md) and [source/path/hash manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_MANIFEST.json) describe coverage, mechanical conversions, and source provenance.
 
-The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous forward integration through EVENT_0145, and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
+The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous forward integration through EVENT_0146, and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
 
-The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0145; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0145 deltas recorded for the next synthesis checkpoint. Final unit/specialist and full-series syntheses remain separate unfinished layers.
+The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0146; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0146 deltas recorded for the next synthesis checkpoint. Final unit/specialist and full-series syntheses remain separate unfinished layers.
 
 The governing [analytical method](00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md) and [synthesis architecture](00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md) remain current. The [character reconstruction method](00_FRAMEWORKS_AND_METHODS/PJSK_CHARACTER_RECONSTRUCTION_METHOD.md) and [live-service integration method](00_FRAMEWORKS_AND_METHODS/PJSK_LIVE_SERVICE_INTEGRATION_METHOD.md) govern their respective later layers.
 
@@ -207,6 +207,8 @@ Prior EVENT_0143 checkpoint: [EVENT_0143 full reading](03_SEQUENTIAL_EVENT_READI
 
 Prior EVENT_0144 checkpoint: [EVENT_0144 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0144_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Nene owns distributed cross-school production leadership; Rui retains childhood loneliness as causal knowledge of present companionship; Interstice Rin strengthens bounded counterpart plurality without identity merger.
 
-Current forward checkpoint: [EVENT_0145 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0145_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Mizuki's chosen disclosure attempt is preempted by third-party exposure; Ena receives guarded history without Mizuki's own account, and their relation ends in unresolved rupture. EVENT_0146 is next; 24 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+Prior EVENT_0145 checkpoint: [EVENT_0145 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0145_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Mizuki's chosen disclosure attempt is preempted by third-party exposure; Ena receives guarded history without Mizuki's own account, and their relation ends in unresolved rupture.
+
+Current forward checkpoint: [EVENT_0146 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0146_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Akito turns post-goal depletion into renewed world-facing motion through accepted support and Slade's challenge; VBS chooses a New York route, and the Street-SEKAI benchmark wall opens without a decoded mechanism. EVENT_0147 is next; 23 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
 Current reconstruction checkpoint: [generation 1 router](05_CHARACTER_RECONSTRUCTION/README.md) and [readiness matrix](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md). All 20 principal humans now have the required three-file package and independently pass R3 for bounded textual scenario use. No package is promoted to R4 or performed-voice readiness, and no later event work is authorized by this checkpoint.
