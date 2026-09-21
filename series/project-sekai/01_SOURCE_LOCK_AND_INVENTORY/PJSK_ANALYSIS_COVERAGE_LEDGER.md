@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0161
+current_event_boundary: EVENT_0162
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0161
+## Current coverage — all five human units synchronized through EVENT_0162
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0161 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0161`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0162 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0162`.
 
 Artifacts:
 
@@ -68,7 +68,13 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0161 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0162 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0162 is fully integrated:** `LN-EP-SHIHO-E0110 → LN-EP-SHIHO-E0162` advances recipient-purpose into whole-set staging, tested before an arena audience and coupled to Shiho's own joy. Scoped `LN-REL-G-E0137 → LN-REL-G-E0162` records the four's collective design, performance and shared aim to earn a main-band arena stage. Honami's self-conversation, Interstice Luka's selected counterpart encounter, School singer help, Naruse's counsel, particular listener feedback, and Saki's unresolved fan-distance worry have bounded I2/I1 routes. The verified envelope is 33 stories / 52 scenes / 1,823 records. Six monthly archival talks carry anomalous 2023 release metadata; neither a 15,000-capacity venue nor the positive feedback certifies attendance or universal conversion. No completed headline, booked co-bill, general fragment mechanism, global singer mind, public SEKAI disclosure, or complete reconstruction is certified. The boundary advances EVENT_0161 to EVENT_0162. EVENT_0163 is next; seven source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
+
+Causal home: [EVENT_0162 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0162_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+### Historical coverage — EVENT_0161 forward transaction
 
 **EVENT_0161 is fully integrated:** scoped `REL-FAMILY-MAFUYU-MOTHER-E0100 → REL-FAMILY-MAFUYU-MOTHER-E0161` at I3 changes separation into a Mafuyu-chosen *possibility* of father-mediated contact with Kanade present. Mother memory and self-questioning, father testimony, Mafuyu's actual warmth memory, and Kanade's contrary felt impression remain separately attributed. Kanade's exhausted collapse, subsequent rest, and distributed N25/Empty singer help are strong I2 applications, not a new healthy-work operative. The verified envelope is 25 stories / 48 scenes / 1,671 records. Two monthly archival talks carry anomalous 2023 release metadata and do not date the family encounter. No completed meeting, apology, safe reconciliation, accepted maternal plan, finished equivalent song, clinical diagnosis, permanent workload cure, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0160 to EVENT_0161. EVENT_0162 is next; eight source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
 

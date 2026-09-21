@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0161
+current_event_boundary: EVENT_0162
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0161
+## Current state — founded units synchronized through EVENT_0162
 
-All five human units now track the same continuous event history through `EVENT_0161`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0161 readings remain authoritative at their own cutoffs.
+All five human units now track the same continuous event history through `EVENT_0162`. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0162 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0161 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0162 committed boundary
+
+**EVENT_0162 is fully integrated:** `LN-EP-SHIHO-E0110 → LN-EP-SHIHO-E0162` and scoped `LN-REL-G-E0137 → LN-REL-G-E0162` record the quartet's co-designed arena opener, specific audience and professional feedback, Shiho's recipient-facing whole-set technique and felt joy, and a shared self-earned headline goal. Honami, Ichika, Saki, local School singers, Interstice Luka, and professional contacts receive bounded evidence; Shizuku/Haruka have ordinary I1, VBS/WxS/N25 I0. The verified envelope is 33 stories / 52 scenes / 1,823 records. Fragment spaces do not establish a global singer mind or general access; an offered co-bill is not booked, and the opener is not a Leo/need headline. No exact attendance, unanimous conversion, resolved fan-distance worry, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0161 to EVENT_0162. EVENT_0163 is next; seven source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
+
+The [EVENT_0162 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0162_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the readings record compact EVENT_0141–0162 deltas for later synthesis.
+
+### Historical continuation — EVENT_0161 committed boundary
 
 **EVENT_0161 is fully integrated:** scoped I3 `REL-FAMILY-MAFUYU-MOTHER-E0100 → REL-FAMILY-MAFUYU-MOTHER-E0161` records a conditional channel for Mafuyu-chosen conversation: the mother privately questions her methods and makes a scarf, the father relays an invitation without pressure, and Mafuyu requests Kanade's presence. Kanade's partial-perspective compositional block, collapse after inadequate food and sleep, and N25/Empty singer care receive strong I2; `K-E0116-01`, `MF-E0134-01`, father alliance and group owners persist. Leo/need, MMJ, VBS and WxS have no new material route. The verified envelope is 25 stories / 48 scenes / 1,671 records. No completed meeting, apology, maternal repair, reconciled home, finished song reproducing Mafuyu's memory, medical diagnosis, permanent workload cure, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0160 to EVENT_0161. EVENT_0162 is next; eight source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
 
