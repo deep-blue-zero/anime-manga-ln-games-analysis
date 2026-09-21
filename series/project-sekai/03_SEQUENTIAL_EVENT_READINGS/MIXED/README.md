@@ -67,3 +67,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0158 — 昔日のRead-aloud](PJSK_EVENT_0158_DEEP_READING.md): complete 23-story mixed envelope; Honami turns a personally received picture book into audience-tested participatory reading, while Nene becomes a reciprocal co-performer and chosen ordinary companion.
 
 - [EVENT_0159 — Connect hearts message](PJSK_EVENT_0159_DEEP_READING.md): complete 23-story mixed envelope; Saki, Emu, and Shiho move a company-study exercise into differentiated paid event work, while Saki–Emu school friendship gains beyond-committee reciprocal continuity.
+
+- [EVENT_0160 — You are my HERO!!](PJSK_EVENT_0160_DEEP_READING.md): complete 23-story mixed envelope; Tsukasa reconstructs a retiring owner's original show and adapts it around an independently inspected ride stoppage with audience participation and direct recipient feedback.
