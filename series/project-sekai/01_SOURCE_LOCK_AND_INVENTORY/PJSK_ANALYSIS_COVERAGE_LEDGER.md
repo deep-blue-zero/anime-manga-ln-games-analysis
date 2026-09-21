@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0157
+current_event_boundary: EVENT_0158
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0157 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0158 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0158 is fully integrated:** new independent I3 `LN-EP-HONAMI-E0158` records Honami's personally received picture-book experience becoming a child-perspective-tested, coached, technically supported, live-adapted reading with direct audience and later home-reading response. New scoped I3 `REL-CROSS-HONAMI-NENE-E0158` records returned practical help, shared performance origins, chosen co-performance, reciprocal credit, and completed two-person leisure. Preserve Honami's band leadership, Nene's acting/direction, Rui's medium-aware craft, LN/WxS group, and School/Wonderland-local singer routes proportionally. MMJ, VBS, and N25 are I0. The verified envelope is 23 stories / 39 scenes / 1,180 records. No literal magic, professional voice-acting mastery, universal child response, recurring reading, public School singer identity, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0157 to EVENT_0158. EVENT_0159 is next; 11 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0158 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0158_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+- Completed EVENT_0158: 23 stories / 39 scenes / 1,180 records / 157,467 canonical bytes; canonical files, pinned raw segments, manifests, projections, chronology, and locators verified.
+- The nested picture-book narrative, child audience testimony, hidden School-MEIKO phone contact, and Wonderland reenactment retain distinct knowledge boundaries.
+- The shared analysis boundary is EVENT_0158. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0158 deltas await synthesis.
+
+### Historical coverage — EVENT_0157 forward transaction
 
 **EVENT_0157 is fully integrated:** Haruka tests an unconfirmed work-drought rumor directly with Hiiragi, hears his unbroken-light standard, acknowledges real hurt from her prior interruption, and chooses a fallible hope-bearing vow. MMJ shares production, training, pitches, and program preparation without an immediate recovery. Arisawa discloses her LUMINA and Grand Prix organizer identity and invites the quartet. Existing Haruka, group, Saito, landlord, and Stage owners receive high/local I2; Honami's school contact is I1, while VBS, WxS, and N25 are I0. No new I3 owner is certified. The verified envelope is 26 stories / 50 scenes / 1,440 records. The boundary advances EVENT_0156 to EVENT_0157. EVENT_0158 is next; 12 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 

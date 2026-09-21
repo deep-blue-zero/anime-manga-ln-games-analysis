@@ -63,3 +63,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0155 — Show your shine](PJSK_EVENT_0155_DEEP_READING.md): complete 23-story mixed envelope; Saki advances recipient attention into consent-aware, subject-informed visual expression, while practical help and reciprocal creative work establish a durable Saki–Kanade channel.
 
 - [EVENT_0156 — このひと針に想いを込めて](PJSK_EVENT_0156_DEEP_READING.md): complete 23-story mixed envelope; Shizuku turns inherited recipient-specific embroidery into shared teaching and gifts, while established school care with Mafuyu becomes reciprocal creative receipt.
+
+- [EVENT_0158 — 昔日のRead-aloud](PJSK_EVENT_0158_DEEP_READING.md): complete 23-story mixed envelope; Honami turns a personally received picture book into audience-tested participatory reading, while Nene becomes a reciprocal co-performer and chosen ordinary companion.
