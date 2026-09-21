@@ -4,13 +4,13 @@ artifact_id: RAG_SUMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V020; direct character evidence inspected through V018 and negative-evidence review completed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V028; direct character conduct inspected through V018, with a silent V028 appearance and negative-evidence review completed through V028."
 ---
 
 # Sumi Sakurasawa evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 桜沢墨
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V028
 last_direct_conduct_volume: V018
 local_readiness: PARTIAL_MODEL
 ~~~
@@ -61,6 +61,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-SUM-E020 | SUM-S005 | RAG-E-V018-014 | Transaction termination and self-funded transition; friendship | Ends the paid consultation and pays for a friend excursion herself. | Explicitly changes the relation frame before continuing care. | One self-funded outing does not erase the wider rental history or settle romantic feeling. | RAG-SUM-R006 |
 | RAG-SUM-E021 | SUM-S005 | RAG-E-V018-015 | Experiential teaching and encouragement; care planning | Leads play and models direct encouragement as a way Kazuya might support Chizuru. | Converts abstract empathy into a low-pressure experiential lesson. | The method is not yet tested with Chizuru in Sumi's presence. | RAG-SUM-R002, RAG-SUM-R006 |
 | RAG-SUM-E022 | SUM-S005 | RAG-E-V018-018 | Later integration by Kazuya; consequence | Kazuya integrates the excursion's lesson into his support plan. | Confirms that Sumi's intervention changes another character's available action model. | Kazuya remains responsible for the later plan and outcome. | RAG-SUM-R006 |
+| RAG-SUM-E023 | SUM-S005 | RAG-E-V028-012 | Silent campus appearance; negative information boundary | Appears near the April 7 campus sequence without an observed exchange. | Re-establishes physical presence in Kazuya's university environment after a long conduct gap. | No speech, action, knowledge state, motive, or relationship consequence is shown, so no new temporal state or model rule follows. | none; appearance limit only |
 
 ## State-change summary
 
@@ -70,7 +71,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - SUM-S004 — family-context supporter: visits Sayuri with flowers and uses a phone memo to ask about the film.
 - SUM-S005 — friend-framed support teacher: listens to a new grief problem, rejects solitary-strength logic, ends the transaction, self-funds an excursion, and models play plus direct encouragement.
 
-V013-V016 and V019-V020 supply no material new Sumi conduct. That absence prevents a continuous-development claim and leaves the consequences of her own romantic feeling unresolved.
+V013-V016 and V019-V027 supply no material new Sumi conduct. V028 supplies only a silent campus appearance, not a new action state. That long gap prevents a continuous-development claim and leaves the consequences of her own romantic feeling unresolved.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -88,6 +89,7 @@ V013-V016 and V019-V020 supply no material new Sumi conduct. That absence preven
 - Carefully prepared success does not establish broad spontaneous speech or stable independent provider competence.
 - Most evidence concerns helping Kazuya or Chizuru; Sumi's goals, conflict behavior, and routine when no one needs care remain underobserved.
 - Her methods influence Kazuya, but she does not control Chizuru's grief response or author Kazuya's later support act.
+- The V028 cameo supplies no basis for assigning knowledge of the resort exposure, the investigation, or Kazuya's current relationship state.
 
 ## Update rule
 

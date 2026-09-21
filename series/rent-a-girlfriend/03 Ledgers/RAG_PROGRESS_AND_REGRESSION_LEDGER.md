@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
 ---
 
 # Progress and regression ledger
@@ -33,10 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V027
-row_count: 159
-state: CURRENT_THROUGH_V027
-```
+inspected_through_volume: V028
+row_count: 166
+state: CURRENT_THROUGH_V028
 ```
 
 ## Records
@@ -202,3 +201,10 @@ state: CURRENT_THROUGH_V027
 | RAG-PRG-157 | Mini's intermediary route | REACTIVATED_INTERVENTION_WITH_LABELING_RISK — Mini corrects Kazuya's rejection inference, reaches Chizuru, labels the feeling love, and prompts a commitment to investigate. | Her intervention restores motion and creates a concrete self-inquiry task. | Helpful consequence does not validate her label, omniscience, or authority to manage both parties. | RAG-E-V027-010 through RAG-E-V027-012 |
 | RAG-PRG-158 | Kazuya's action capacity | RECOVERY_FROM_PASSIVE_DETERIORATION_THROUGH_BOUNDED_RECONTACT — after learning that he is not blocked or hated, he resolves to act and submits an accepted rental request. | He replaces three-month paralysis with an observable access step. | The paid route preserves the customer category and does not establish personal acceptance. | RAG-E-V027-013, RAG-E-V027-014 |
 | RAG-PRG-159 | Principal mutual classification | PAID_RECONTACT_WITH_DIRECT_SPEECH_THRESHOLD — both recall the kisses and remain strongly affected; Kazuya cannot ask, but Chizuru initiates serious speech before time expires. | Contact and conversational initiative return after the long separation. | The volume withholds the statement, answer, and any client-versus-person reclassification. | RAG-E-V027-014, RAG-E-V027-015 |
+| RAG-PRG-160 | Principal communication | DIRECT_ACCOUNTING_GAIN_AFTER_PROLONGED_SILENCE — Chizuru apologizes, explains Ruka-linked avoidance, and discusses the kisses and feeling with Kazuya. | The withheld V027 speech becomes substantive first-person information. | Directness does not erase the harm of silence or produce a final answer. | RAG-E-V028-001 through RAG-E-V028-004 |
+| RAG-PRG-161 | Chizuru's self-knowledge | STRUCTURED_UNCERTAINTY_GAIN_WITH_RESULT_STALL — she rejects a false certainty, commits to investigation, and promises an answer. | Unnamed feeling becomes an observable prospective process rather than indefinite avoidance. | She has no fixed method and reaches no conclusion in V028. | RAG-E-V028-003, RAG-E-V028-004, RAG-E-V028-006 |
+| RAG-PRG-162 | Principal ordinary access | MAJOR_UNPRICED_ACCESS_EXPANSION_WITH_BOUNDARIES — practical LINE, private-room time, YouTube, theater access, and sustained messaging follow the paid date. | Communication survives outside the booking and enters ordinary and vocational domains. | Privacy and frequency do not create mutual dating or unrestricted access. | RAG-E-V028-004 through RAG-E-V028-010 |
+| RAG-PRG-163 | Ruka conflict | EXPLICIT_HARM_ACCOUNTING_WITH_STATUS_STALL — Chizuru asks about Ruka and limits her own access reasoning, while Ruka continues care and the girlfriend claim. | Rival impact becomes a shared operating issue rather than an implicit barrier. | No accepted breakup, corrected fabrication, or workable boundary follows. | RAG-E-V028-006, RAG-E-V028-009 |
+| RAG-PRG-164 | Film and vocational route | PROJECT_CLOSURE_WITH_NEW_VOCATIONAL_ACCESS — stored film materials are returned as the project ends, while Chizuru directly invites Kazuya to her next play. | One joint-work route closes and another observational work route opens. | A ticket does not create a new collaboration, career outcome, or romantic status. | RAG-E-V028-008, RAG-E-V028-009 |
+| RAG-PRG-165 | Kibe-Kazuya trust | PARTIAL_FRIENDSHIP_REPAIR_UNDER_RESIDUAL_ERROR — Kibe accepts an apology and distinguishes lying from automatic malice. | Distance after exposure gives way to renewed peer contact. | Kibe still believes the genuine-couple claim and has not been tested under complete truth. | RAG-E-V028-011 |
+| RAG-PRG-166 | Chizuru-Kazuya private-domain access | FAMILY_HISTORY_ACCESS_GAIN_THROUGH_PRACTICAL_LABOR — Chizuru invites Kazuya into her childhood home and shares property and grandparent-linked material history. | Trust extends into bereavement property work and the family archive. | Task need explains the access, the house decision is open, and romantic classification does not change. | RAG-E-V028-013 through RAG-E-V028-015 |

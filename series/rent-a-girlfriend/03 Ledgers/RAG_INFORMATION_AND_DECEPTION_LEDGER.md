@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V027
-row_count: 166
-state: CURRENT_THROUGH_V027
+inspected_through_volume: V028
+row_count: 173
+state: CURRENT_THROUGH_V028
 ```
 
 ## Records
@@ -208,3 +208,10 @@ state: CURRENT_THROUGH_V027
 | RAG-INF-164 | Mini acquires the post-resort accounts from both principals and supplies interested interpretations to each. | She hears Kazuya's hatred conclusion, obtains Chizuru's account of nonregret, guilt, and unnamed feeling, and labels the feeling love. | Mini again becomes a high-information intermediary between separated parties. | Separate confidences do not make her omniscient or authorize unrestricted retransmission; RAG-E-V027-010 through RAG-E-V027-012. |
 | RAG-INF-165 | Chizuru distinguishes uncertainty from absence by saying that the feeling lacks a sufficient name and resolving to investigate it. | She rejects Mini's easy classification while agreeing to stop fleeing and face the issue. | Her state becomes explicit uncertainty with prospective inquiry rather than denial or accepted romance. | The inquiry's method and result remain beyond the observed conversation; RAG-E-V027-011, RAG-E-V027-012. |
 | RAG-INF-166 | Kazuya learns that he is not blocked and that Chizuru does not hate him, then reopens contact through a paid date whose decisive conversation is withheld. | Mini supplies the limited correction, the platform accepts his request, and Chizuru begins serious speech with thirty minutes remaining. | A rejection belief is corrected enough to enable action while the substantive answer remains pending. | Mini's report is filtered, platform acceptance is not romantic acceptance, and Chizuru's statement is beyond the cut; RAG-E-V027-013 through RAG-E-V027-015. |
+| RAG-INF-167 | Chizuru directly explains that concern for Ruka contributed to her silence and apologizes for avoiding Kazuya and reading without replying. | Kazuya receives the cause and responsibility account during the paid-date endpoint. | The V027 information asymmetry contracts through first-person disclosure. | The account does not make prolonged nonresponse harmless or exhaust every motive; RAG-E-V028-001. |
+| RAG-INF-168 | Chizuru says her feeling is unknown and questions whether Kazuya loves the professional “Mizuhara” presentation rather than her whole person. | Kazuya answers that the person cannot be cleanly divided, while Chizuru refuses both a final label and pure absence. | The central information problem becomes explicit uncertainty plus a role-person distinction. | The manga supports no split-personality reading, and neither statement supplies mutual status; RAG-E-V028-003, RAG-E-V028-004. |
+| RAG-INF-169 | Chizuru commits to investigating her feeling and later promises Kazuya a definite answer for what she did. | She states the inquiry at the date and repeats its prospective consequence in his room. | Uncertainty gains an observable process and answer obligation. | She admits that she lacks a concrete method, and V028 supplies no final result; RAG-E-V028-004, RAG-E-V028-006. |
+| RAG-INF-170 | Chizuru asks directly about Ruka and learns that the status quo persists despite greater distance after Hawaiians. | Kazuya reports that Ruka remains vigilant; Chizuru then identifies Ruka's real feeling and private-room access as concerns. | Rival status becomes shared operating information rather than an unspoken inhibitor. | Kazuya's summary does not establish Ruka's agreement, a restored trial, or complete current terms; RAG-E-V028-006. |
+| RAG-INF-171 | Ordinary contact expands beyond the rental booking through LINE, private-room time, a theater ticket, work talk, and a multi-hour message exchange. | Both principals directly share practical and vocational information rather than relying on Mini or a paid script. | The information channel becomes durable and less mediated. | Warmth and duration do not reveal Chizuru's final feeling or create unrestricted access; RAG-E-V028-004 through RAG-E-V028-010. |
+| RAG-INF-172 | Kibe accepts Kazuya's apology and interprets the couple as genuine, while Nagomi continues family expectation without the final status correction. | Kibe's reconciliation and Nagomi's message both operate on the residual dating lie. | Peer and family relations stabilize without full information. | Acceptance under the false premise cannot predict their response to later correction; RAG-E-V028-009, RAG-E-V028-011. |
+| RAG-INF-173 | Chizuru discloses that Sayuri's house is empty and may be sold, that Katsuhito collected stones during taxi work, and that Sayuri kept them. | Kazuya receives the information while helping sort the childhood home and viewing the altar. | Family history, property transition, and retained objects become shared information through practical access. | The reasons for every retained object and the second photograph's identity remain unshown; RAG-E-V028-013 through RAG-E-V028-015. |

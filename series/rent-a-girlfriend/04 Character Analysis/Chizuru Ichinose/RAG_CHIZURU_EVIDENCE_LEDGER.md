@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; character evidence inspected through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; character evidence inspected through V028."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V027
+inspected_through_volume: V028
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -173,6 +173,13 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E131 | CHI-S029 | RAG-E-V027-007 through RAG-E-V027-009 | Access pressure and deliberate prolonged avoidance | Hears Ruka's demand to reduce access, remains inside during Kazuya's door visit, reads his practical message without replying, and sustains roughly three months without contact. | Uses withdrawal to defer a conflict she cannot yet classify. | She does not communicate a usable boundary, and the silence causes severe asymmetrical harm. | RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R020, RAG-CHI-R023 |
 | RAG-CHI-E132 | CHI-S029 | RAG-E-V027-010 through RAG-E-V027-012 | Mini confrontation, unnamed feeling, and investigation resolve | Says she would repeat the rescue, describes guilt toward Ruka and inability to name why she protected Kazuya, rejects a simple love label, and resolves to face and examine the feeling. | Converts avoidance into an explicit self-inquiry commitment while retaining uncertainty. | Mini's diagnosis is not Chizuru's accepted classification, and the inquiry result remains unobserved. | RAG-CHI-R016, RAG-CHI-R017, RAG-CHI-R020, RAG-CHI-R023 |
 | RAG-CHI-E133 | CHI-S029 | RAG-E-V027-013 through RAG-E-V027-015 | Paid recontact and initiated serious speech | Accepts the platform booking, appears in Harajuku with the kisses salient, proceeds through the café date, and begins serious speech before Kazuya asks. | Ends prolonged silence through a professional route and takes the conversational initiative. | Booking acceptance, performance, food sharing, and nervousness do not establish final status; her statement is beyond V027. | RAG-CHI-R003, RAG-CHI-R016, RAG-CHI-R017, RAG-CHI-R023 |
+| RAG-CHI-E134 | CHI-S030 | RAG-E-V028-001 through RAG-E-V028-004 | Direct apology, role conflict, and investigation commitment | Gives late chocolate, apologizes for silence, names Ruka concern, accepts responsibility for the kisses, says her feeling is unknown, and commits to investigation. | Replaces avoidance with direct uncertainty and a prospective answer while retaining the work's value. | Apology does not erase harm, contemplated resignation is not completed, and uncertainty is neither love nor rejection. | RAG-CHI-R002, RAG-CHI-R003, RAG-CHI-R016, RAG-CHI-R023, RAG-CHI-R024 |
+| RAG-CHI-E135 | CHI-S030 | RAG-E-V028-004 through RAG-E-V028-006 | Ordinary recontact, private entry, and rival-status inquiry | Sends LINE about the flyer, enters Kazuya's room, asks about Ruka, treats Ruka's feeling as real, names a private-access concern, and promises an answer. | Operationalizes inquiry through direct information gathering and explicit harm accounting. | She admits having no concrete method, and Ruka concern supplies no authority over Chizuru's final choice. | RAG-CHI-R016, RAG-CHI-R017, RAG-CHI-R023, RAG-CHI-R024 |
+| RAG-CHI-E136 | CHI-S030 | RAG-E-V028-007 | Sustained unpriced ordinary time and response-timing negotiation | Stays to watch YouTube, laughs at Mini's channel, remains until after 20:00, warns Kazuya about the cost of indefinite waiting, and says she will try. | Extends observation beyond the serious talk while acknowledging that delay affects another person. | Enjoyment and reassurance do not establish a final answer or dating status. | RAG-CHI-R003, RAG-CHI-R016, RAG-CHI-R024 |
+| RAG-CHI-E137 | CHI-S030 | RAG-E-V028-008 through RAG-E-V028-010 | Vocational invitation and sustained ordinary messaging | Gives Kazuya a ticket to her next play and later exchanges LINE messages for more than three hours across film, work, clothes, career, and jokes. | Opens direct vocational observation and a durable ordinary communication channel. | A ticket and warm messages do not establish unrestricted access or romantic classification. | RAG-CHI-R007, RAG-CHI-R011, RAG-CHI-R024 |
+| RAG-CHI-E138 | CHI-S030 | RAG-E-V028-013 | Childhood-house invitation and property transition | Asks Kazuya to help at Sayuri's empty house, says sale is under consideration, and defines the need as cleanup and lifting before a contractor. | Extends chosen access into a private family domain through a concrete task. | Practical need is sufficient to explain the invitation, and no property decision or partnership follows. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R018, RAG-CHI-R024 |
+| RAG-CHI-E139 | CHI-S030 | RAG-E-V028-014 | Family-object history and shared labor | Explains Katsuhito's stone collecting and Sayuri's retention, sorts possessions, cleans, and divides removal work with Kazuya. | Makes family history available through material decisions and coordinated ordinary labor. | The report is retrospective and does not reveal every reason an object was kept. | RAG-CHI-R002, RAG-CHI-R010, RAG-CHI-R024 |
+| RAG-CHI-E140 | CHI-S030 | RAG-E-V028-015 | Selected retention, situational support, and altar disclosure | Keeps a teddy bear, steadies Kazuya around a heavy stone, comments on strength when another is in trouble, and identifies Katsuhito in the altar photograph. | Combines practical care with bounded family-history disclosure at the volume endpoint. | Contact is task-caused, and the second photograph's identity and emotional consequence remain beyond V028. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R024 |
 
 ## State-change summary
 
@@ -204,6 +211,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S026 — explicitly included family participant under released ring obligation and direct answer pressure:** receives Nagomi's family assurance and Harumi's permission to return the ring, preserves transaction accounting, positively appraises the trip, withstands Ruka's status pressure, directly clarifies Kazuya's present preference about Mami, and reaches the chapel threshold without a supplied romantic self-classification.
 - **CHI-S027 — method-refusing participant under conditional secrecy and identity exposure:** leaves the chapel under Mami's arrival pressure, resists a coerced room-and-ring disclosure, defends Kazuya's agency and Nagomi's real smile while admitting her own failure, enters a conditional cover bargain, accepts Kazuya's protection without revealing it, and then sees her Diamond profile exposed on Ruka's phone before the group.
 - **CHI-S028 — publicly acting protector inside near-complete correction:** absorbs Mami's accusation, initiates two real kisses under coercive verification, discloses her real name and rental role, names Kazuya as important, and preserves genuine dating as the sole lie in the later family account without a private relationship agreement.
+- **CHI-S029 — professionally conflicted avoider entering explicit self-investigation:** admits the kiss violation, shares responsibility, privately frames customer-directed feeling as prohibited, sustains roughly three months of silence, resists Mini's love label, commits to inquiry, and reopens paid contact by speaking first.
+- **CHI-S030 — direct investigator expanding ordinary and family access under rival-harm accounting:** apologizes and explains the silence, distinguishes the provider role from her whole person, promises an answer, asks directly about Ruka, sustains unpriced communication and vocational access, and invites Kazuya into task-bound childhood-house labor without final romantic classification.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
@@ -242,16 +251,17 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - V024 separates received care from compelled status more explicitly: Nagomi names family, Harumi permits ring return, and Chizuru still preserves accounting and answer control while directly testing Kazuya's present preference about Mami (RAG-E-V024-002, RAG-E-V024-005 through RAG-E-V024-009, RAG-E-V024-011 through RAG-E-V024-015).
 - V025-V026 stress that answer control can fail under audience coercion without eliminating Chizuru's agency: she refuses Mami's private method, then chooses two public kisses, identity disclosure, and near-complete correction while still withholding a truthful mutual-status classification (RAG-E-V025-012 through RAG-E-V025-018, RAG-E-V026-011 through RAG-E-V026-016).
 - V027 makes the internal constraint and its cost more explicit: she admits the professional violation, privately frames liking a customer as prohibited, avoids Kazuya for roughly three months, then accepts an investigation task and initiates serious speech during paid recontact (RAG-E-V027-002 through RAG-E-V027-015).
+- V028 turns that commitment into conduct: she apologizes, states uncertainty, preserves the work's financial and vocational reality, asks about Ruka, promises an answer, sustains ordinary contact, grants theater access, and later chooses practical family-house collaboration (RAG-E-V028-001 through RAG-E-V028-015).
 
 ## Gaps and negative evidence
 
 - V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason, V010 supplies another stage opportunity and explicit work pride, V012 supplies the detailed origin and film request, and V020 supplies public exhibition plus a continuing-vocation statement, but sustained professional outcome remains sparse.
-- She privately links Kazuya's rescue and accumulated care to a customer-love prohibition and later calls her feeling unnamed, but she gives no final classification or investigation result.
+- She privately links Kazuya's rescue and accumulated care to a customer-love prohibition, later calls her feeling unnamed, and begins an investigation through direct inquiry and expanded ordinary access, but she gives no final classification or result.
 - No evidence supports performed voice, acoustic manner, or anime-derived delivery.
 - Chosen care does not identify romantic motive; strict boundaries do not prove emotional absence.
 - No broad rule yet supports behavior with close friends, teachers, coworkers beyond Umi, or a mutually acknowledged partner.
 - The ledger supports no split-personality reading between “Mizuhara” and “Ichinose.”
-- Kazuya's preference and love are direct, and Chizuru has initiated two kisses, disclosed that he became important, admitted personally salient but unnamed feeling, and initiated a paid-date conversation, but the endpoint still withholds a private reciprocal classification or truthful relationship transition.
+- Kazuya's preference and love are direct, and Chizuru has initiated two kisses, disclosed that he became important, admitted personally salient but unnamed feeling, apologized, promised an answer, and expanded unpriced access, but she still withholds a private reciprocal classification or truthful relationship transition.
 - Film collaboration now includes completed principal photography, family-purpose disclosure, private bedside projection, finished public screening, applause, and Chizuru's intention to continue acting; it does not supply wider public career results or mutual romantic reclassification.
 
 ## Update rule

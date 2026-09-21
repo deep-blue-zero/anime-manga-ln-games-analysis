@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V027
-row_count: 129
-state: CURRENT_THROUGH_V027
+inspected_through_volume: V028
+row_count: 135
+state: CURRENT_THROUGH_V028
 ```
 
 ## Records
@@ -171,3 +171,9 @@ state: CURRENT_THROUGH_V027
 | RAG-CHR-127 | RAG-E-V027-010 through RAG-E-V027-012 | Mini returns from India after about one month away, finds Kazuya deteriorated, then contacts Chizuru and urges her to investigate the unnamed feeling. | The intervention occurs during the long no-contact interval and before February 19. | Mini's precise return date and the interval between her two conversations are unstated. |
 | RAG-CHR-128 | RAG-E-V027-013 | On February 19, Kazuya confirms he is not blocked, receives Mini's report, resolves to act, and submits a rental request that is accepted. | The date is explicit and precedes the scheduled March meeting. | The exact booking acceptance time and any intermediary exchange are not shown. |
 | RAG-CHR-129 | RAG-E-V027-014, RAG-E-V027-015 | On March 1 at 12:59 in Harajuku, the paid date begins; after roughly ninety minutes, a receipt near 28,860 yen and thirty minutes remaining precede Chizuru's initiated speech. | Date, time, elapsed duration, and remaining-time expressions directly order the endpoint. | The speech content and events after the V027 cut remain outside the volume. |
+| RAG-CHR-130 | RAG-E-V028-001 through RAG-E-V028-004 | The March 1 paid-date endpoint continues through Chizuru's late Valentine chocolate, apology for silence, discussion of the kisses and work, and commitment to investigate her feeling. | V028 directly continues the V027 speech threshold before the pair separate. | The precise remaining booking minutes and exact departure time are not stated. |
+| RAG-CHR-131 | RAG-E-V028-004 through RAG-E-V028-006 | After parting, Chizuru sends a practical LINE message; Kazuya walks roughly two hours home, reports to Mini, and later admits Chizuru for a private Ruka-status conversation. | Message, walk, Mini exchange, flyer retrieval, room entry, and status inquiry are narrated in that order. | The exact interval between Kazuya's return and Chizuru's visit is not securely stated. |
+| RAG-CHR-132 | RAG-E-V028-006, RAG-E-V028-007 | Chizuru's private visit continues from the Ruka inquiry through ordinary YouTube viewing until shortly after 20:00, when theater work prompts her departure. | The after-20:00 departure and same-visit continuity are explicit. | The exact start time and total visit duration are not supplied. |
+| RAG-CHR-133 | RAG-E-V028-008 through RAG-E-V028-010 | A later laundromat encounter and theater-ticket invitation precede closure of the film-storage task, Ruka's karaoke visit, and a LINE exchange lasting more than three hours. | Narrative order and the message duration are explicit. | Exact calendar dates and intervals among these later events are unstated. |
+| RAG-CHR-134 | RAG-E-V028-011, RAG-E-V028-012 | On April 7, the third university year begins; Kazuya apologizes to Kibe, their contact partially repairs, and Sumi appears silently nearby. | April 7 and the start of the school year are explicit. | Sumi's arrival purpose, knowledge, and any later exchange are unshown. |
+| RAG-CHR-135 | RAG-E-V028-013 through RAG-E-V028-015 | After a further interval, Chizuru asks Kazuya to help at Sayuri's empty house; sorting, stone removal, and cleaning continue into night before the altar-photograph question. | Invitation, travel, labor, nightfall, and photograph endpoint occur in that order. | The exact date, elapsed interval from April 7, and remaining cleanup schedule are not secure. |

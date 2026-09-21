@@ -4,13 +4,13 @@ artifact_id: RAG_KIBE_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; character evidence inspected through V026, with no material V024 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; character evidence inspected through V028, with no material V024 or V027 conduct."
 ---
 
 # Kibe evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V026
+inspected_through_volume: V028
 local_readiness: UNMODELED
 ~~~
 
@@ -57,6 +57,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KIB-E016 | KIB-S008 | RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001 | Direct rental-profile exposure before an uninformed peer | Is present and reacts when Ruka's fallen phone displays Chizuru's Diamond profile to the group. | Gains direct evidence that the woman he understood as Kazuya's genuine girlfriend is listed as a rental provider. | V026 corrects the phone attribution; V025 itself cuts before his interpretation or action. | none; information limit only |
 | RAG-KIB-E017 | KIB-S009 | RAG-E-V026-006 | Trust rupture, ring inference, and physical violence | Points to the inherited ring and accumulated closeness, then punches Kazuya before the full history is explained. | Converts friendship betrayal and concern into immediate punitive action. | His evidence does not establish the complete relation, and violence supplies no factual proof or justified correction. | none; model withheld |
 | RAG-KIB-E018 | KIB-S009 | RAG-E-V026-011 | Friendship memory and coerced verification | A memory with Kuribayashi states a trust ethic; in the present Kibe reinforces the demand that the pair kiss as proof. | Treats visible bodily performance as the decisive test after verbal contradiction. | The demand is coercive, Kibe remains incompletely informed, and a kiss cannot establish private status. | none; model withheld |
+| RAG-KIB-E019 | KIB-S010 | RAG-E-V028-011 | Apology reception and friendship repair under residual error | Hears Kazuya apologize for lying and causing hurt, says people lie and that falsehood does not automatically prove malice, and resumes a demanding protective friendship stance. | Revises the immediate punitive judgment into a more differentiated account of motive and valued ties. | He still believes Kazuya and Chizuru genuinely date, so repair is not calibrated to the complete truth. | none; model withheld |
 
 ## State-change summary
 
@@ -69,6 +70,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - KIB-S007 — uninformed recipient of a direct status contradiction: hears Ruka call herself Kazuya's girlfriend and Kazuya object, but receives none of the trial, withdrawal, rental, or fabricated-evidence history needed to resolve the conflict.
 - KIB-S008 — newly exposed but not yet calibrated peer: directly encounters Chizuru's Diamond profile on Ruka's phone after years of treating the couple as genuine, with no V025 explanation or response beyond immediate reaction.
 - KIB-S009 — punitive trust enforcer under incomplete correction: uses the ring and observed closeness against Mami's reduction, punches Kazuya for the deception, and later makes a public kiss the condition of belief before the near-complete explanation occurs.
+- KIB-S010 — partially repairing friend under residual status error: receives Kazuya's apology, distinguishes lying from automatic malice, and restores contact while continuing to treat the apparent couple as real.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -76,6 +78,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - His childhood knowledge of Kazuya is substantial but does not correct present information gaps.
 - He acts through peer speech, material opportunity, selective secrecy, and later social introduction.
 - Ordinary independent routine is limited to university friendship, café-linked contact, and network mediation.
+- V028 shows that he can revise an immediate punitive judgment after apology, but the revision remains protected from the final status truth.
 
 ## Gaps and negative evidence
 
@@ -83,7 +86,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - His V002 intervention is based on a false breakup account; it cannot establish calibrated behavior under full information.
 - The V020 interruption is accidental in the represented evidence and must not be written as intentional prevention.
 - Given name, family life, work, independent goals, broader friendships, and response to correction remain unknown.
-- Repeated forceful, high-stakes interventions remain too narrow and ethically unstable to support a general operational model.
+- V028 supplies one nonviolent repair response, but repeated forceful, high-stakes interventions and incomplete information remain too narrow and ethically unstable to support a general operational model.
 
 ## Update rule
 

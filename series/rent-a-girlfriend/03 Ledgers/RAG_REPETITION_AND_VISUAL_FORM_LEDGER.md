@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V027
-row_count: 157
-state: CURRENT_THROUGH_V027
+inspected_through_volume: V028
+row_count: 164
+state: CURRENT_THROUGH_V028
 ```
 
 ## Records
@@ -199,3 +199,10 @@ state: CURRENT_THROUGH_V027
 | RAG-FRM-155 | Block status, date captions, the rental interface, receipt total, elapsed time, and remaining minutes make the recontact visibly transactional. | Romantic anticipation unfolds inside explicit platform and clock boundaries. | Interface and accounting motifs preserve the client-provider frame at the moment it is most emotionally contested. | Transactional form does not prove that every gesture is performed or that no personal feeling exists; RAG-E-V027-013 through RAG-E-V027-015. |
 | RAG-FRM-156 | Mirrored kiss flashbacks and mutual nervous close-ups precede Kazuya's repeated failed starts and Chizuru's final “hey.” | Both principals carry the same event into the date while the page sequence withholds whether their meanings match. | Parallel focal cues create a direct-speech threshold without resolving classification. | Shared salience is not shared interpretation, and the statement remains beyond the cut; RAG-E-V027-014, RAG-E-V027-015. |
 | RAG-FRM-157 | An explicit creator note interrupts apparent continuity before six polished cut pages that resemble the resort aftermath. | Paratext marks the main story as complete and recodes the following phone and Mami imagery as manuscript memorial material. | The formal boundary demonstrates why visual continuity alone cannot determine canonical sequence. | Cut pages cannot support Mami action, chronology, or character state; RAG-E-V027-016. |
+| RAG-FRM-158 | The visible booking clock gives way to late chocolate, apology, and speech about the kisses as paid time expires. | A transactional endpoint becomes the place where withheld personal information finally enters direct dialogue. | The wrapper remains visible while Chizuru chooses content it does not require. | Romantic salience does not make every paid gesture personal or complete the answer; RAG-E-V028-001 through RAG-E-V028-004. |
+| RAG-FRM-159 | “Mizuhara” naming and LINE screens place professional persona and ordinary personhood in the same formal sequence. | Chizuru questions whether the performed name governs Kazuya's attachment, then immediately opens a practical private-message route. | Interface form shows contact crossing the booking boundary without erasing the role problem. | Alias and presentation do not support separate selves, and messaging does not settle motive; RAG-E-V028-004. |
+| RAG-FRM-160 | A requested door closure, close private-room staging, and an abrupt Ruka-status question displace expected romantic testing. | The inquiry becomes information gathering and harm accounting before it becomes ordinary shared viewing. | Spatial intimacy is formally checked by explicit concern over whether the meeting is justified. | Private space and later enjoyment do not create unrestricted access or dating status; RAG-E-V028-005 through RAG-E-V028-007. |
+| RAG-FRM-161 | Underwear close-ups and Kazuya's panicked focalization construct an intimate assumption that the older owner then corrects. | Comic misidentification is followed by Chizuru's concrete theater-ticket invitation. | The sequence contrasts imagined bodily access with an actual, bounded vocational offer. | The bra supplies no fact about Chizuru, and the ticket is not a romantic classification; RAG-E-V028-008. |
+| RAG-FRM-162 | Repeated LINE panels compress more than three hours of work, clothing, career, and joke exchange before Chizuru falls asleep holding the phone. | Interface montage makes sustained ordinary reciprocity legible outside paid time. | Duration and topic breadth register expanded access while preserving separate locations. | Warm messaging does not identify a final feeling or shared status; RAG-E-V028-009, RAG-E-V028-010. |
+| RAG-FRM-163 | Kibe's extended friendship speech and Sumi's silent campus appearance place explicit moral interpretation beside unreadable cameo. | One peer explains his revised judgment while another is visually present without dialogue. | The contrast preserves the difference between narrated reconciliation and mere appearance. | Sumi's knowledge, purpose, and feeling cannot be inferred from the panel; RAG-E-V028-011, RAG-E-V028-012. |
+| RAG-FRM-164 | Repeated stones, sorting gestures, retained objects, rooms at night, and altar photographs turn family memory into material labor. | The childhood house shifts from setting to an archive whose objects require decisions and bodily work. | The final photograph question converts practical cleanup into a family-history cliffhanger. | Task-caused proximity and memorial imagery do not settle romance or the unidentified photograph; RAG-E-V028-013 through RAG-E-V028-015. |

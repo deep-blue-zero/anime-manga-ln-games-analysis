@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
 ---
 
 # Directed relationship state ledger
@@ -33,10 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V027
-row_count: 156
-state: CURRENT_THROUGH_V027
-```
+inspected_through_volume: V028
+row_count: 163
+state: CURRENT_THROUGH_V028
 ```
 
 ## Records
@@ -199,3 +198,10 @@ state: CURRENT_THROUGH_V027
 | RAG-REL-154 | Mini → Kazuya | Self-appointed supporter returning after prolonged separation | Rejects his hatred conclusion, supplies a favorable-feeling interpretation, and later tells him Chizuru's feeling is unnamed. | Restores enough hope and information for Kazuya to act. | Her account is selective and interpretive rather than a direct answer from Chizuru. | RAG-E-V027-010, RAG-E-V027-013 |
 | RAG-REL-155 | Mini → Chizuru | Confidant and forceful romantic intermediary | Seeks Chizuru directly, labels the feeling love, challenges professional suppression, and urges investigation and contact. | Converts avoidance into a stated commitment to examine the issue. | Chizuru rejects the label as simple or settled, and Mini's initiative was not requested by both principals. | RAG-E-V027-010 through RAG-E-V027-012 |
 | RAG-REL-156 | Kazuya ↔ Chizuru | Three-month separation reopened through a paid rental date | Kazuya books through the platform, Chizuru appears, both recall the kisses, and Chizuru initiates serious speech before the booking ends. | Mutual access and direct-conversation potential are restored within a bounded professional encounter. | Payment, nervous arousal, offered food, and attendance do not establish shared romantic status; the speech content is withheld. | RAG-E-V027-013 through RAG-E-V027-015 |
+| RAG-REL-157 | Chizuru → Kazuya | Provider and neighbor answering after prolonged silence | Apologizes, explains Ruka-linked avoidance, accepts responsibility for the kisses, says her feeling is unknown, and commits to investigation and a later answer. | Silence becomes an explicit but unresolved interpersonal process. | Uncertainty is neither rejection nor love, and a promised answer is not a dating agreement. | RAG-E-V028-001 through RAG-E-V028-004 |
+| RAG-REL-158 | Kazuya → Chizuru | Confessor seeking the kisses' personal meaning | Distinguishes rescue breathing from the kisses, restates his feeling, rejects self-punitive job exit, and agrees to wait without demanding an immediate answer. | His direct request becomes patient participation in Chizuru's inquiry. | Extreme waiting language does not waive his future needs or determine her result. | RAG-E-V028-002 through RAG-E-V028-004, RAG-E-V028-007 |
+| RAG-REL-159 | Kazuya ↔ Chizuru | Paid recontact moving into ordinary private access | Exchange practical LINE messages, meet privately in Kazuya's room, watch YouTube, and sustain later ordinary messaging beyond the booking. | Their relation gains repeated unpriced communication and domestic-looking time. | Frequency, enjoyment, and privacy do not establish mutual dating or unrestricted access. | RAG-E-V028-004 through RAG-E-V028-007, RAG-E-V028-009, RAG-E-V028-010 |
+| RAG-REL-160 | Chizuru → Ruka | Rival-harm concern carried into self-investigation | Names Ruka as a cause of avoidance, asks Kazuya for current status, treats Ruka's feeling as real, and questions private-room meetings. | Ruka's welfare becomes an explicit operating condition on Chizuru's access choices. | Concern grants Ruka no authority over either principal and produces no workable separation rule. | RAG-E-V028-001, RAG-E-V028-006 |
+| RAG-REL-161 | Ruka → Kazuya | Self-claimed girlfriend after his explicit withdrawal | Appears at his workplace, uses the girlfriend label, notices that he looks pale, and worries because he nearly collapsed. | Claim persistence coexists with direct care and workplace monitoring. | Care does not restore the trial, answer his withdrawal, or correct the fabricated sex claim. | RAG-E-V028-009 |
+| RAG-REL-162 | Kibe → Kazuya | Hurt friend keeping distance after exposure | Receives Kazuya's apology, distinguishes lying from automatic malice, and resumes friendship under a protection ethic. | Immediate punitive rupture gives way to partial interpersonal repair. | Kibe still believes the couple is genuine, so the repair is not tested under full truth. | RAG-E-V028-011 |
+| RAG-REL-163 | Chizuru → Kazuya | Investigator extending purpose-bound access | Invites Kazuya to Sayuri's empty house, shares property and family history, and works with him on sorting and removal. | Kazuya gains voluntary access to Chizuru's childhood home and material family archive. | The access is explained by practical labor and does not settle romantic classification. | RAG-E-V028-013 through RAG-E-V028-015 |

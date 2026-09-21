@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V027; character evidence inspected through V027, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V028; character evidence inspected through V028, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V027
+inspected_through_volume: V028
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -58,6 +58,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E018 | MIN-S005 | RAG-E-V027-010 through RAG-E-V027-012 | Direct confidant access and post-resort account | Encounters Chizuru with groceries, hugs her, enters her room, and receives the account of the kisses, nonregret, Ruka guilt, and unnamed feeling. | Gains current private information after the principals' long silence. | Friendship and useful access do not automatically authorize touch, entry, or later retransmission. | RAG-MIN-R003, RAG-MIN-R004, RAG-MIN-R006 |
 | RAG-MIN-E019 | MIN-S005 | RAG-E-V027-011, RAG-E-V027-012 | Confident labeling and self-inquiry prompt | Calls the feeling love, argues that rental work may suppress recognition, and urges Chizuru to investigate, contact Kazuya, and face his feeling. | Her pressure produces Chizuru's observable resolve to act. | Chizuru explicitly resists the label as simple or settled, so outcome does not validate Mini's diagnosis. | RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006 |
 | RAG-MIN-E020 | MIN-S005 | RAG-E-V027-013 | Bounded relay and recontact consequence | Tells Kazuya that she spoke to Chizuru, takes responsibility for pushing both parties, and reports that Chizuru does not hate him and has an unnamed feeling. | Corrects a harmful inference enough to restore Kazuya's action capacity. | The relay is selective and interpretive rather than Chizuru's direct answer or permission for broader disclosure. | RAG-MIN-R003, RAG-MIN-R004, RAG-MIN-R006 |
+| RAG-MIN-E021 | MIN-S006 | RAG-E-V028-005 | Follow-up inquiry and speculative test framing | Asks Kazuya what happened, hears that Chizuru will investigate, and speculates about observation and bodily or romantic compatibility. | Remains an active interpreter after her intervention produces direct contact. | Her proposed tests are speculation and must not be assigned to Chizuru or treated as the investigation method. | RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006 |
 
 ## State-change summary
 
@@ -66,6 +67,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S003 — access engineer under accountability pressure: uses false absence information to isolate the pair, admits the deception when questioned, and gains direct evidence of Ruka's competing status claim.
 - MIN-S004 — aftermath interpreter and confidant: questions both principals separately, carries an interested romantic theory, receives Chizuru's grief account, keeps a visible “Master” relation, and remains causally relevant to the V020 direct question.
 - MIN-S005 — returned intermediary under prolonged silence: diagnoses Kazuya's rejection spiral, obtains Chizuru's current account, presses a love label that Chizuru resists, prompts self-investigation, and relays a bounded correction that enables paid recontact.
+- MIN-S006 — outcome-seeking intermediary after direct recontact: asks for the result, learns that investigation rather than classification followed, and immediately generates possible tests whose authority remains only speculative.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -73,6 +75,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - She can translate creator experience into analytics, task distribution, and deadline response when the goal is measurable.
 - She frequently treats relational inertia as a problem to solve, which produces useful disclosure and nonconsensual engineering in the same evidence set.
 - V027 shows the same duality without logistical deception: direct pressure and selective relay help end paralysis, while confident labeling and unrequested mediation remain authorization risks.
+- V028 preserves that calibration problem after success: Mini accurately learns that inquiry began but fills the unspecified method with her own compatibility theories (RAG-E-V028-005).
 - She can state her own privacy boundary clearly and can admit a deception after direct questioning.
 - Ordinary-life coverage includes university adjacency, creator/streamer identity, room access, group work, public peer contact, and confidant visits; independent friendships, family, finances, creator routine, and non-support goals remain thin.
 
@@ -81,9 +84,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - Mini does not possess direct access to every private event she interprets and should not be written as an omniscient romance narrator.
 - Her “Master” language is a chosen social relation, not proof of formal hierarchy or unquestioned obedience.
 - Successful campaign help does not validate her romantic predictions or her use of Ruka's identity.
-- Chizuru's V019 report preserves severe loneliness and relief while explicitly denying boyfriend status; V027 adds an unnamed feeling and investigation commitment while still rejecting Mini's simple love label.
+- Chizuru's V019 report preserves severe loneliness and relief while explicitly denying boyfriend status; V027 adds an unnamed feeling and investigation commitment, and V028 confirms the inquiry without validating Mini's simple love label or proposed tests.
 - Long-term reliability, confidentiality, response to a firm request to stop intervening, and independent creator performance are insufficiently tested.
-- No V027 endpoint consequence may be imported to complete Chizuru's initiated speech or validate Mini's relationship theory.
+- V028 supplies a direct-conversation consequence and explicit investigation, but it does not validate Mini's love diagnosis or speculative bodily tests.
 
 ## Update rule
 

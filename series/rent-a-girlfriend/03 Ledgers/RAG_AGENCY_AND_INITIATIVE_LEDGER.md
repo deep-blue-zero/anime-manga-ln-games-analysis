@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V027
-row_count: 187
-state: CURRENT_THROUGH_V027
+inspected_through_volume: V028
+row_count: 194
+state: CURRENT_THROUGH_V028
 ```
 
 ## Records
@@ -229,3 +229,10 @@ state: CURRENT_THROUGH_V027
 | RAG-AGY-185 | Chizuru | Continue indefinite avoidance or commit to examining the feeling and facing Kazuya. | Explains her nonregret and Ruka guilt, says the feeling lacks a sufficient name, and resolves to act after Mini's challenge. | Turns private conflict into a prospective investigation rather than a final answer. | The volume does not yet show the investigation's method or conclusion; RAG-E-V027-011, RAG-E-V027-012. |
 | RAG-AGY-186 | Kazuya | Wait for Chizuru to contact him, treat silence as rejection, or create a bounded re-entry route. | Confirms he is not blocked, accepts Mini's limited correction, resolves to act with his own strength, and submits an accepted rental request. | Replaces passive deterioration with a concrete access attempt through an established system. | Payment and platform acceptance do not establish personal or romantic acceptance; RAG-E-V027-013, RAG-E-V027-014. |
 | RAG-AGY-187 | Chizuru and Kazuya | Complete the paid date as routine performance or use its remaining time for the unresolved conversation. | Kazuya repeatedly prepares but cannot ask; with about thirty minutes left, Chizuru initiates serious speech first. | Places direct conversation at the endpoint through Chizuru's observable initiative. | The volume cuts before the content, answer, or wrapper consequence is known; RAG-E-V027-015. |
+| RAG-AGY-188 | Chizuru | Offer a convenient answer, continue silence, or explain uncertainty and accept a future burden. | Apologizes, accounts for Ruka-linked avoidance, accepts responsibility for the kisses, and commits to investigating her feeling. | Replaces indefinite avoidance with direct uncertainty and a prospective answer. | The process remains undefined and does not settle status; RAG-E-V028-001 through RAG-E-V028-004. |
+| RAG-AGY-189 | Kazuya | Demand an immediate answer, encourage Chizuru to quit, or state his concern while preserving her choice. | Asks about the kisses, restates his feeling, rejects sole blame and self-punitive resignation, and accepts waiting. | Makes the central question explicit without imposing a deadline or job outcome. | His willingness to wait does not determine Chizuru's answer or erase his own future costs; RAG-E-V028-002 through RAG-E-V028-004, RAG-E-V028-007. |
+| RAG-AGY-190 | Chizuru | Keep post-date contact functional, avoid private access, or test the situation directly. | Sends LINE, visits Kazuya's room, asks about Ruka, states an access concern, promises an answer, and stays for ordinary time. | Operationalizes investigation through information gathering and bounded observation. | She lacks a fixed method, and one private visit does not create general access; RAG-E-V028-004 through RAG-E-V028-007. |
+| RAG-AGY-191 | Chizuru | Keep work and ordinary life compartmented or grant additional voluntary access. | Gives Kazuya a theater ticket and participates in a sustained LINE exchange about work, film, clothes, and career. | Expands direct vocational and ordinary communication beyond service time. | Invitation and messaging create no romantic classification or duty to continue; RAG-E-V028-008 through RAG-E-V028-010. |
+| RAG-AGY-192 | Ruka | Avoid Kazuya after his withdrawal or continue status and care through workplace access. | Appears at karaoke, calls herself his girlfriend, notices his poor condition, and expresses worry. | Preserves a direct care route alongside the disputed claim. | The act does not restore mutually accepted trial terms; RAG-E-V028-009. |
+| RAG-AGY-193 | Kibe | Maintain distance, renew punishment, or hear Kazuya's apology and revise his moral judgment. | Accepts the apology, says a lie need not imply malice, and resumes friendship while retaining a demanding protection ethic. | Converts distance into partial repair and a more differentiated account of deception. | His judgment remains based on a false current-couple premise; RAG-E-V028-011. |
+| RAG-AGY-194 | Chizuru | Handle the empty family house alone, leave all work to contractors, or invite bounded help. | Asks Kazuya to accompany her, explains the contemplated sale, divides cleanup labor, and shares family-object history. | Turns bereavement property work into chosen practical collaboration. | Practical need fully explains the invitation, and the property decision remains open; RAG-E-V028-013 through RAG-E-V028-015. |

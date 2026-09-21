@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V027, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V028, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -42,14 +42,15 @@ model_basis:
     - RAG-JP-EPUB-V025
     - RAG-JP-EPUB-V026
     - RAG-JP-EPUB-V027
-  admitted_through_volume: V027
-  narrative_time_boundary: "after Mini returns from India, diagnoses Kazuya's rejection spiral, obtains Chizuru's unnamed-feeling account, presses a love interpretation that Chizuru resists, and relays a bounded correction that enables paid recontact"
+    - RAG-JP-EPUB-V028
+  admitted_through_volume: V028
+  narrative_time_boundary: "after Mini's relay enables direct recontact, Kazuya reports that Chizuru will investigate, and Mini immediately proposes speculative compatibility tests without direct knowledge of Chizuru's method"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.1"
+  model_revision: "1.2"
   prior_knowledge_limitations:
-    - "No post-V027 narrative evidence is admitted."
-    - "Mini does not witness the V027 paid-date conversation and cannot be assigned Chizuru's missing endpoint statement."
+    - "No post-V028 narrative evidence is admitted."
+    - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
   observed_contexts:
@@ -73,6 +74,8 @@ coverage:
     - return after international travel
     - intervention during prolonged romantic silence and visible deterioration
     - direct post-crisis confidant account and bounded relay
+    - follow-up questioning after successful recontact
+    - speculative romantic and bodily test framing
   missing_contexts:
     - family and home history
     - sustained university routine
@@ -91,7 +94,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports bounded reconstruction of Mini when a measurable group problem invites coordination, when she interprets relational inertia as solvable, or when she moves information between Kazuya and Chizuru. It can estimate direct questions, rapid labeling, volunteer labor, analytics-based planning, access engineering, distress-triggered contact, and interested mediation. It must abstain on private facts she has not received, broad creator competence, independent life goals, confidentiality under a clear prohibition, and any completion of the V027 paid-date conversation.
+This model supports bounded reconstruction of Mini when a measurable group problem invites coordination, when she interprets relational inertia as solvable, or when she moves information between Kazuya and Chizuru. It can estimate direct questions, rapid labeling, volunteer labor, analytics-based planning, access engineering, distress-triggered contact, and interested mediation. It must abstain on private facts she has not received, Chizuru's actual investigation method, broad creator competence, independent life goals, and confidentiality under a clear prohibition.
 
 ## Central mechanism
 
@@ -228,7 +231,7 @@ uncertainties:
 ~~~yaml
 state_id: MIN-S005
 valid_from_source: "V027 0106"
-valid_until_source: null
+valid_until_source: "V028 0049"
 entry_conditions:
   - "Mini returns after about a month in India and finds Kazuya and his room visibly deteriorated after roughly three months without Chizuru contact."
 active_goals:
@@ -261,8 +264,37 @@ evidence_refs:
   - RAG-E-V027-013
 uncertainties:
   - "Whether either principal asked Mini to relay the private account."
-  - "Whether she changes her theory after Chizuru's investigation or endpoint statement."
+  - "Whether she changes her theory after Chizuru's investigation reaches a result."
   - "How she responds to an explicit request to stop mediating."
+~~~
+
+### MIN-S006 — outcome-seeking intermediary after direct recontact
+
+~~~yaml
+state_id: MIN-S006
+valid_from_source: "V028 0049"
+valid_until_source: null
+entry_conditions:
+  - "Mini's bounded relay has enabled the paid date, and Kazuya returns with a report that Chizuru will investigate rather than give an immediate classification."
+active_goals:
+  - learn whether her intervention produced romantic progress
+  - convert the unspecified investigation into imaginable next actions
+  - preserve her preferred mutual-interest theory
+known_propositions:
+  - "Kazuya reports that Chizuru did not reject him and intends to investigate her feeling."
+  - "Mini did not witness the conversation and has no direct account of Chizuru's chosen method."
+relationship_conditions:
+  - "Kazuya continues to treat Mini as an involved supporter while retaining responsibility for his own contact."
+  - "Chizuru has not authorized Mini to design or conduct the investigation."
+changed_from_previous:
+  - PAID_RECONTACT_OUTCOME_REQUESTED
+  - INVESTIGATION_REPORT_RECEIVED_FROM_KAZUYA
+  - COMPATIBILITY_TESTS_SPECULATED
+evidence_refs:
+  - RAG-E-V028-005
+uncertainties:
+  - "Whether Mini later receives Chizuru's direct account or revises her love diagnosis."
+  - "How she responds if either principal rejects her proposed framing."
 ~~~
 
 ## Behavioral rules
@@ -290,7 +322,7 @@ uncertainties:
 - Likely appraisal: waiting preserves a solvable misunderstanding, so a push is justified.
 - Likely action range: ask direct questions, state a romantic interpretation, disclose one person's feeling, engineer private time, or urge an ordinary date.
 - Support: RAG-E-V013-016, RAG-E-V014-005, RAG-E-V014-017, RAG-E-V014-019, RAG-E-V015-002, RAG-E-V016-004, RAG-E-V019-018, RAG-E-V020-016, RAG-E-V027-010 through RAG-E-V027-012.
-- Counterevidence/gap: Kazuya limits the earlier paid-date inference, Chizuru denies boyfriend status and later rejects love as a simple label, and the V027 endpoint statement is incomplete.
+- Counterevidence/gap: Kazuya limits the earlier paid-date inference, Chizuru denies boyfriend status and rejects love as a simple label, and V028 produces structured investigation rather than the classification Mini predicts.
 - Alternative: her conduct may be driven partly by enthusiasm for a narrative rather than calibrated confidence in mutual desire.
 - Disconfirming observation: clear evidence that one principal rejects the romantic premise causes sustained withdrawal from intervention.
 - Class/confidence: STRONG_INFERENCE for intervention; low for the underlying romance conclusion.
@@ -336,14 +368,14 @@ uncertainties:
 
 ### RAG-MIN-R006 — visible prolonged distress prompts direct cross-party intervention with a compressed diagnosis
 
-- Scope: MIN-S005, with antecedent support in MIN-S002 and MIN-S004.
+- Scope: MIN-S005 through MIN-S006, with antecedent support in MIN-S002 and MIN-S004.
 - Trigger: Mini encounters severe deterioration that she attributes to avoidable relational silence and has plausible access to both parties.
 - Relationship conditions: she identifies as Kazuya's supporter and has prior confidant access to Chizuru, but neither party has delegated relationship management.
 - Character knowledge required: Kazuya's current account, Chizuru's current account once obtained, and the distinction between their statements and Mini's theory.
 - Likely appraisal: waiting is causing preventable harm, so direct contact, labeling, and a concrete next action are justified.
-- Likely action range: challenge self-pity, contact the absent party, ask for the full account, name a theory emphatically, press investigation, and relay a limited corrective result.
-- Support: RAG-E-V027-010 through RAG-E-V027-013.
-- Counterevidence/gap: Chizuru resists the love label, permission for relay is unshown, and the resulting paid date has no observed outcome within V027.
+- Likely action range: challenge self-pity, contact the absent party, ask for the full account, name a theory emphatically, press investigation, relay a limited corrective result, then seek the outcome and generate possible tests.
+- Support: RAG-E-V027-010 through RAG-E-V027-013, RAG-E-V028-005.
+- Counterevidence/gap: Chizuru resists the love label, permission for relay is unshown, and V028's successful recontact produces investigation rather than validation of Mini's diagnosis or proposed method.
 - Alternative: Mini may be responding to Kazuya's acute condition rather than following a general mediation rule.
 - Disconfirming observation: comparable prolonged distress produces passive observation or a careful consent-first process without diagnosis, direct contact, or relay.
 - Class/confidence: WORKING_HYPOTHESIS; moderate for response form and low for diagnostic accuracy.
@@ -352,11 +384,11 @@ uncertainties:
 
 ### Toward Kazuya
 
-Mini calls Kazuya “Master,” volunteers for his film effort, applies useful campaign knowledge, and sees his hesitation with Chizuru as a problem requiring action. V027 shows her challenge his hatred conclusion, recognize severe deterioration, take responsibility for pushing both parties, and relay enough of Chizuru's account to restore action. Predict active help and relational pushing when she sees a concrete opening; do not infer that he delegates romantic decisions or accepts all of her conclusions.
+Mini calls Kazuya “Master,” volunteers for his film effort, applies useful campaign knowledge, and sees his hesitation with Chizuru as a problem requiring action. V027 shows her challenge his hatred conclusion, recognize severe deterioration, take responsibility for pushing both parties, and relay enough of Chizuru's account to restore action. V028 has her ask for the result and immediately supply speculative compatibility tests. Predict active help and relational pushing when she sees a concrete opening; do not infer that he delegates romantic decisions or accepts all of her conclusions.
 
 ### Toward Chizuru
 
-Mini moves from project teammate to direct questioner and confidant. She tells Chizuru that Kazuya likes her without his permission and later receives Chizuru's account of loneliness and grief relief. V027 adds a current account of the kisses, nonregret, Ruka guilt, and an unnamed feeling. Mini presses a love label that Chizuru resists, but her narrower instruction to investigate produces an observable commitment. Do not make Mini's label authoritative or predict disclosure beyond the bounded correction shown.
+Mini moves from project teammate to direct questioner and confidant. She tells Chizuru that Kazuya likes her without his permission and later receives Chizuru's account of loneliness and grief relief. V027 adds a current account of the kisses, nonregret, Ruka guilt, and an unnamed feeling. Mini presses a love label that Chizuru resists, but her narrower instruction to investigate produces an observable commitment. V028 confirms that investigation begins while Mini remains outside its direct conversation and method. Do not make Mini's label or speculative tests authoritative.
 
 ### Toward Ruka
 
@@ -380,10 +412,10 @@ Use Japanese manga written speech only. Mini tends toward explicit labels, enthu
 
 Supported with caution: a stalled measurable group project; a concealed collaboration she accidentally discovers; Kazuya and Chizuru separately giving her incomplete accounts; an opportunity to create private access; direct challenge to a logistical deception; a peer encounter in which her supporter identity is visible.
 
-Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, or any post-V027 relationship result.
+Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's investigation method, or any post-V028 relationship result.
 
 Abstain whenever the outcome requires treating Mini's romantic theory as fact, granting permission she was not given, or converting a useful campaign intervention into general moral or professional reliability. Generated scenarios cannot become canon evidence.
 
 ## Validation status
 
-The model remains `PARTIAL_MODEL`. V027 materially strengthens the intervention pattern: visible prolonged distress prompts Mini to contact both principals, compress ambiguity into a love diagnosis, press a self-inquiry task, and relay a bounded correction that enables recontact. Chizuru's resistance to the label preserves the calibration limit, while the missing permission and endpoint consequence preserve confidentiality and outcome gaps. The model is strongest on response form—volunteer, analyze, label, ask, coordinate, push—and weakest on diagnostic accuracy, authorization, independent goals, and long-term consequences. Those gaps bar operational-candidate status.
+The model remains `PARTIAL_MODEL`. V028 supplies the immediate consequence of Mini's V027 intervention: direct recontact and an explicit investigation occur, but Mini learns this only through Kazuya and immediately fills the unspecified method with compatibility theories. The useful causal result strengthens her intervention pattern while the unvalidated diagnosis, missing authorization, and speculative method preserve the calibration limit. The model is strongest on response form—volunteer, analyze, label, ask, coordinate, push—and weakest on diagnostic accuracy, authorization, independent goals, and long-term consequences. Those gaps bar operational-candidate status.

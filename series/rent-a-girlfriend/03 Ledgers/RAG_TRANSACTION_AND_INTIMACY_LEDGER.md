@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V027
-row_count: 145
-state: CURRENT_THROUGH_V027
+inspected_through_volume: V028
+row_count: 151
+state: CURRENT_THROUGH_V028
 ```
 
 ## Records
@@ -187,3 +187,9 @@ state: CURRENT_THROUGH_V027
 | RAG-TXN-143 | Mini, Kazuya, and Chizuru; cross-party information relay | Separate confidant access supplies no blanket permission to retransmit private detail. | Mini may share bounded corrections or encourage direct conversation while preserving uncertainty and confidentiality. | Her report that Chizuru does not hate Kazuya and has an unnamed feeling is filtered through her own theory. | The relay enables Kazuya's action without constituting Chizuru's direct answer; RAG-E-V027-010 through RAG-E-V027-013. |
 | RAG-TXN-144 | Kazuya and Chizuru; paid recontact after three months | Kazuya submits a rental request and the platform accepts it; the date remains time-bounded and compensated, with a visible total around 28,860 yen. | Either party may keep the booking professional, raise the unresolved issue, set limits, or end at the contracted boundary. | Platform acceptance and paid girlfriend performance create no personal or romantic obligation. | The wrapper restores access while preserving the client category Chizuru experiences as a barrier; RAG-E-V027-013 through RAG-E-V027-015. |
 | RAG-TXN-145 | Chizuru and Kazuya; café care and initiated speech inside the booking | Offered tea and food occur within paid time and do not independently distinguish professional performance from personal care. | Kazuya may ask his question; Chizuru may initiate her own statement, defer, or define the client-person boundary. | Attraction, shared food, kiss memories, and cost create no entitlement to a romantic answer. | Chizuru speaks first with about thirty minutes left, but content and consequence are withheld; RAG-E-V027-015. |
+| RAG-TXN-146 | Chizuru and Kazuya; paid-date endpoint, late chocolate, and apology | The booking provides the meeting but does not require a personal apology, delayed Valentine gift, or explanation of silence. | Chizuru may end with the clock, while Kazuya may accept the gift and ask about the kisses without demanding an immediate answer. | Payment does not buy emotional disclosure, and the gift does not create reciprocal status. | The professional encounter produces voluntary personal accounting before separation; RAG-E-V028-001 through RAG-E-V028-004. |
+| RAG-TXN-147 | Chizuru, Kazuya, and rental work; rule breach, resignation possibility, and person-role distinction | Chizuru considers quitting after the kisses but states that the work matters and funds tuition and expenses. | She may retain, alter, or leave employment; Kazuya may reject sole blame without controlling that choice. | A professional presentation does not become a separate person, and job violation does not settle romantic feeling. | The work remains active while investigation replaces immediate self-punishment; RAG-E-V028-003, RAG-E-V028-004. |
+| RAG-TXN-148 | Chizuru and Kazuya; flyer LINE and private-room conversation | A misdelivered flyer supplies a practical reason to message and visit, but no payment governs the apartment exchange. | Either may limit the meeting; Chizuru requests entry and Kazuya permits it before she raises Ruka and the inquiry. | Neighbor access and a closed door create no general entitlement to private meetings. | The contact route becomes ordinary and unpriced while an explicit Ruka-related limit remains; RAG-E-V028-004 through RAG-E-V028-006. |
+| RAG-TXN-149 | Chizuru and Kazuya; extended unbooked visit and prospective waiting | YouTube viewing and conversation continue voluntarily after the practical purpose and serious talk conclude. | Either may leave or stop; Kazuya may offer patience and Chizuru may warn of family and marriage costs. | Enjoyment and an open-ended wait promise do not bind Chizuru to a favorable answer or Kazuya to permanent suspension. | Ordinary time and a mutual process acknowledgment emerge without dating status; RAG-E-V028-007. |
+| RAG-TXN-150 | Chizuru and Kazuya; theater ticket and sustained LINE contact | Chizuru voluntarily offers vocational access, and later messages occur without a booking or project obligation. | Kazuya may attend or decline; both may continue or end the conversation message by message. | A ticket, responsiveness, jokes, and duration create no romantic debt or unrestricted availability. | Work and ordinary life become directly shareable beyond the closed film project; RAG-E-V028-008 through RAG-E-V028-010. |
+| RAG-TXN-151 | Chizuru and Kazuya; childhood-house cleanup and family-object access | Chizuru requests practical lifting and sorting help before a possible sale; no compensation or romantic agreement is stated. | Kazuya may accept the bounded task, while Chizuru retains control over property, disclosure, kept objects, and access. | Labor, family history, task-caused bodily support, and altar access do not create partnership or property rights. | Shared work expands trust and private-domain access while house disposition remains Chizuru's decision; RAG-E-V028-013 through RAG-E-V028-015. |

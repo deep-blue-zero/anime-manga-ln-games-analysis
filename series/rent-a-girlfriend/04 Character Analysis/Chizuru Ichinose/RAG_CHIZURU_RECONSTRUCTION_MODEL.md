@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V027."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V028."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -54,15 +54,16 @@ model_basis:
     - RAG-JP-EPUB-V025
     - RAG-JP-EPUB-V026
     - RAG-JP-EPUB-V027
-  admitted_through_volume: V027
-  narrative_time_boundary: "after Chizuru admits the kiss rule violation, shares responsibility, privately treats liking a customer as prohibited, avoids Kazuya for roughly three months, resolves to investigate an unnamed feeling, and initiates serious speech during a paid recontact"
+    - RAG-JP-EPUB-V028
+  admitted_through_volume: V028
+  narrative_time_boundary: "after Chizuru apologizes for the silence, states unresolved feeling and work stakes, commits to investigation and a later answer, asks about Ruka, sustains ordinary and vocational contact, and invites Kazuya into task-bound childhood-house labor"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.27"
+  model_revision: "1.28"
   prior_knowledge_limitations:
-    - "No post-V027 narrative evidence is admitted."
+    - "No post-V028 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
-    - "Chizuru has supplied a private rule-conflict account and committed to inquiry, but the content of her V027 endpoint statement and any final mutual classification remain unavailable."
+    - "Chizuru has directly explained the silence and operationalized inquiry, but its result and any final mutual classification remain unavailable."
 coverage:
   observed_contexts:
     - rental-girlfriend work
@@ -98,13 +99,16 @@ coverage:
     - direct rival confrontation over professional rule violation
     - prolonged deliberate neighbor avoidance
     - confidant-prompted self-investigation and paid recontact
+    - direct apology and uncertainty conversation
+    - unpriced private-room and multi-hour messaging contact
+    - theater invitation and childhood-house cleanup
   missing_contexts:
     - sustained study and friendships
-    - affirmative romantic confession or mutual discussion
+    - affirmative romantic self-classification or mutual status agreement
     - long-term acting and rental-work practice
     - acknowledged reciprocal partnership
     - broad private routine
-    - completed film production or public career outcome
+    - repeat post-film professional outcome
   translation_limitations:
     - "Model derives from the Japanese witness; no licensed translation was admitted for comparison."
   written_speech: PARTIALLY_MODELED
@@ -114,7 +118,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports narrow reconstruction of Chizuru at the V027 endpoint when professional rules, family welfare, privacy, audience management, protective deception, bodily initiative, avoidance, emotional self-inquiry, inherited obligation, or chosen-family access are salient. The manga supplies one direct customer-love prohibition and an explicit unnamed-feeling account, but interior access remains sparse; the model must not turn those moments into a completed hidden monologue. It must abstain on final romantic classification, the content of her endpoint statement, intimate partnership, completed ring return, and unseen ordinary preferences.
+This model supports narrow reconstruction of Chizuru at the V028 endpoint when professional rules, family welfare, privacy, audience management, protective deception, bodily initiative, avoidance, emotional self-inquiry, rival-harm accounting, inherited obligation, or task-bound family access are salient. The manga supplies one direct customer-love prohibition, an explicit unnamed-feeling account, and a stated investigation, but interior access remains sparse; the model must not turn those moments into a completed hidden monologue. It must abstain on the investigation result, final romantic classification, intimate partnership, completed ring return, and unseen ordinary preferences.
 
 ## Central mechanism
 
@@ -1420,7 +1424,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S029
 valid_from_source: "V027 0005"
-valid_until_source: null
+valid_until_source: "V028 0005"
 entry_conditions:
   - "The near-complete family explanation has ended, Ruka demands the kisses' meaning and professional consequence, and Kazuya seeks a private account."
 active_goals:
@@ -1466,6 +1470,60 @@ uncertainties:
   - "What Chizuru says after initiating the V027 endpoint conversation."
   - "How she distinguishes professional care, attraction, love, obligation, and chosen-family value."
   - "Whether she changes the rental wrapper, Ruka boundary, residual dating lie, or ring disposition."
+~~~
+
+### CHI-S030 — direct investigator expanding ordinary and family access under rival-harm accounting
+
+~~~yaml
+state_id: CHI-S030
+valid_from_source: "V028 0005"
+valid_until_source: null
+entry_conditions:
+  - "The paid-date speech threshold is open, and Chizuru must address prolonged silence, two kisses, the customer category, Ruka's harm, and her own unresolved feeling."
+active_goals:
+  - explain and take responsibility for avoidance without inventing certainty
+  - preserve valued rental work while accounting for its violated rule
+  - investigate whether her feeling can be held as love or another durable attachment
+  - give Kazuya an eventual answer while avoiding further harm to Ruka
+  - manage Sayuri's empty house and family objects before possible sale
+known_propositions:
+  - "Kazuya distinguishes rescue breathing from the two resort kisses and still states that he likes Chizuru."
+  - "Kazuya rejects a resignation framed as Chizuru's sole punishment and says the professional presentation cannot be separated from her whole person."
+  - "Ruka's disputed claim remains active, Kazuya reports greater distance after Hawaiians, and private access creates a fairness concern."
+  - "Ordinary LINE, private-room time, theater access, and family-house labor can continue without a paid booking."
+relationship_conditions:
+  - "Chizuru and Kazuya have direct communication and expanding unpriced access but no mutual dating agreement."
+  - "Ruka's sincere feeling remains an explicit constraint without controlling Chizuru's work or final answer."
+  - "Nagomi and Kibe continue to act under the residual genuine-dating lie."
+changed_from_previous:
+  - SILENCE_DIRECTLY_APOLOGIZED_FOR
+  - RUKA_LINKED_CAUSE_DISCLOSED
+  - FEELING_UNCERTAINTY_STATED_TO_KAZUYA
+  - RENTAL_WORK_VALUE_AND_FINANCIAL_STAKES_STATED
+  - INVESTIGATION_AND_ANSWER_COMMITTED
+  - RUKA_STATUS_DIRECTLY_QUERIED
+  - PRIVATE_AND_ORDINARY_CONTACT_REOPENED
+  - THEATER_ACCESS_GRANTED
+  - CHILDHOOD_HOUSE_LABOR_SHARED
+  - FAMILY_OBJECT_HISTORY_DISCLOSED
+evidence_refs:
+  - RAG-E-V028-001
+  - RAG-E-V028-002
+  - RAG-E-V028-003
+  - RAG-E-V028-004
+  - RAG-E-V028-005
+  - RAG-E-V028-006
+  - RAG-E-V028-007
+  - RAG-E-V028-008
+  - RAG-E-V028-009
+  - RAG-E-V028-010
+  - RAG-E-V028-013
+  - RAG-E-V028-014
+  - RAG-E-V028-015
+uncertainties:
+  - "How Chizuru will determine or state the investigation result."
+  - "Whether expanded access changes after Ruka learns or challenges it."
+  - "How the altar photograph, house disposition, ring, and residual dating lie are resolved."
 ~~~
 
 ## Behavioral rules
@@ -1744,11 +1802,23 @@ uncertainties:
 - **Disconfirming observation:** comparable role conflict repeatedly produces immediate confident classification or permanent withdrawal without inquiry, bounded recontact, or self-initiated speech.
 - **Class/confidence:** WORKING_HYPOTHESIS; moderate for high-stakes professional-romantic conflict and low outside it.
 
+### RAG-CHI-R024 — explicit uncertainty can become bounded investigation through voluntary cross-domain access
+
+- **Scope:** CHI-S030, with antecedent support in CHI-S009, CHI-S015, CHI-S022, and CHI-S029.
+- **Trigger:** Chizuru has admitted a personally consequential action and cannot yet name the feeling behind it, while another person awaits an answer and a rival may be harmed.
+- **Likely appraisal:** a false immediate answer would be irresponsible, but direct inquiry and ordinary observation can replace silence if access remains voluntary and contextual.
+- **Likely action range:** apologize, state uncertainty, protect valued work from self-punishment, ask about affected third parties, promise a later answer, create practical private contact, share vocational and ordinary information, and invite task-bound help in a family domain.
+- **Inhibitors/escalators:** Ruka's sincere feeling, professional rules, and fear of persona-based attachment inhibit confident classification; Kazuya's nonpunitive patience, practical needs, and shared history expand observation and disclosure.
+- **Support:** RAG-E-V028-001 through RAG-E-V028-010, RAG-E-V028-013 through RAG-E-V028-015.
+- **Counterevidence/gap:** one early investigation interval; the method remains partly improvised, access has practical explanations, and no result is available.
+- **Disconfirming observation:** comparable stated uncertainty repeatedly produces either renewed total avoidance or unrestricted romantic access without questions, limits, or harm accounting.
+- **Class/confidence:** WORKING_HYPOTHESIS; moderate for inquiry form and low for eventual emotional outcome.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V011-V020 move that relation through truth disagreement, film collaboration, bereavement support, ordinary access, and a direct romantic question without mutual classification. V021-V024 add acting-network access, ring-and-cover coordination, direct source checking, chosen-family value, and receipt of an initiated chapel request. V025 has her leave under Mami's competing pressure and refuse the coerced private method. V026 has her answer Kazuya's public love and failed bluff with two kisses, identity disclosure, and personal-importance language. V027 adds a private responsibility debrief and direct interior conflict over liking a customer, followed by roughly three months of deliberate silence, an unnamed-feeling account, and paid recontact in which she speaks first. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, avoidance under unresolved role conflict, and eventual structured inquiry while withholding a final romantic classification.
+Chizuru regards Kazuya as a client who has violated and learned some boundaries, a neighbor, a known collaborator, and a co-maintainer of family and peer fictions. She values his career praise and privacy protection, regulates his spending, initiates unpaid ordinary and family access, accepts lost-key help and an acting-linked gift, and tells him the family purpose behind acting. V011-V020 move that relation through truth disagreement, film collaboration, bereavement support, ordinary access, and a direct romantic question without mutual classification. V021-V024 add acting-network access, ring-and-cover coordination, direct source checking, chosen-family value, and receipt of an initiated chapel request. V025 has her leave under Mami's competing pressure and refuse the coerced private method. V026 has her answer Kazuya's public love and failed bluff with two kisses, identity disclosure, and personal-importance language. V027 adds a private responsibility debrief and direct interior conflict over liking a customer, followed by roughly three months of deliberate silence, an unnamed-feeling account, and paid recontact in which she speaks first. V028 gives the speech content: she apologizes, states uncertainty, distinguishes role from whole person, promises investigation and an answer, then opens private-room, ordinary-message, theater, and childhood-house access. A reconstruction should predict direct correction, bounded exceptions, selective disclosure, avoidance under unresolved role conflict, and structured inquiry while withholding a final romantic classification.
 
 ### Toward Nagomi
 
@@ -1768,9 +1838,11 @@ Chizuru knows that Ruka recognizes the rental identity, sincerely wants Kazuya, 
 
 V027 turns that unsettled position into direct conflict: Chizuru admits the professional violation, stops Ruka's agency call, tells her to examine her own true feelings, and later identifies harm to Ruka as a central reason she cannot accept a simple label. Fairness to Ruka can inhibit Chizuru's action, but Ruka's disputed claim and pressure do not determine Chizuru's status or employment choices.
 
+V028 carries that concern into the investigation itself: Chizuru says Ruka contributed to her avoidance, asks Kazuya for the current status, treats Ruka's feeling as real, and questions private-room meetings. Model the concern as a self-imposed fairness constraint, not recognition of Ruka's authority or restoration of the trial.
+
 ### Toward Mini
 
-Mini is a project collaborator and confidant whose earlier unauthorized disclosure became causally useful. V027 shows Chizuru admit Mini into a current private account, resist her confident love label, and nevertheless accept the more bounded instruction to investigate and face Kazuya. Model Mini as a forceful prompt and information holder, not an authoritative interpreter of Chizuru's feeling.
+Mini is a project collaborator and confidant whose earlier unauthorized disclosure became causally useful. V027 shows Chizuru admit Mini into a current private account, resist her confident love label, and nevertheless accept the more bounded instruction to investigate and face Kazuya. V028 confirms that inquiry and direct contact followed without adopting Mini's diagnosis or speculative test method. Model Mini as a forceful prompt and information holder, not an authoritative interpreter of Chizuru's feeling.
 
 ## Domain account and negative constraints
 
@@ -1778,10 +1850,10 @@ Mini is a project collaborator and confidant whose earlier unauthorized disclosu
 - **Motivational architecture:** acting ambition, satisfaction-oriented work, income, privacy, family welfare, and fairness are supported. Relative priority under high conflict remains uncertain.
 - **Decision process:** gathers situational information, can reverse a refusal after new evidence, acts practically, and then constrains interpretation through rules.
 - **Models of others:** accurately recognizes Kazuya's desperation and family motive in several scenes; may underestimate how quickly he expands a public story. Evidence is too sparse for a broad theory.
-- **Emotional regulation:** anger and embarrassment are usually converted into direct speech, role performance, or exit; V019 adds prolonged private grief release, V020 adds direct inquiry and audience-sensitive deferral, and V027 shows role conflict becoming prolonged avoidance before bounded inquiry.
+- **Emotional regulation:** anger and embarrassment are usually converted into direct speech, role performance, or exit; V019 adds prolonged private grief release, V020 adds direct inquiry and audience-sensitive deferral, V027 shows role conflict becoming prolonged avoidance, and V028 shows explicit uncertainty becoming apology and bounded inquiry.
 - **Agency and competence:** strong within improvisation, presentation, boundary articulation, informed paid performance, controlled referral, and direct moral confrontation. V015-V016 add disciplined on-set preparation, a locally moving take, a completed final performance, and controlled travel decisions; V018 adds attempted truth correction and bereavement duty. Broader career outcome remains underobserved.
 - **Project agency:** can evaluate and launch a proposal, foreground deadline risk, approve source and director routes, join campaign correction, contribute selected rewards, use a professional network, perform as lead, coordinate family access, receive private bedside projection, and stand before an applauding public screening. Wider career conversion remains unobserved.
-- **Intimacy and dependency:** gives emergency care, permits bounded shared lodging, continues paid contact, initiates a personalized gift, chooses bodily reliance during acute grief, and later initiates two kisses under public pressure. V027 makes the resulting customer-directed feeling salient but unnamed, preserving ambiguity rather than declaring partnership.
+- **Intimacy and dependency:** gives emergency care, permits bounded shared lodging, continues paid contact, initiates a personalized gift, chooses bodily reliance during acute grief, and later initiates two kisses under public pressure. V027 makes the resulting customer-directed feeling salient but unnamed; V028 expands unpriced observation and family-domain access while preserving ambiguity rather than declaring partnership.
 - **Contradiction:** strict rules coexist with chosen exceptions. The supported explanation is context-sensitive responsibility plus re-bounding, not hypocrisy or hidden romance by default.
 - **Thresholds:** concrete harm to family or overt public degradation can shift her from refusal/pleasant performance to intervention.
 
@@ -1793,12 +1865,12 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work competes with family care; a practical need creates temporary private access; a researched film proposal requires feasibility review and bounded project consent.
 
-Require extra assumptions: sustained private friendship routine, an affirmative private romantic answer, the content of the V027 endpoint statement, sustained cohabitation, sexual intimacy, a wider acting-career result, durable bereavement recovery, or behavior after V027.
+Require extra assumptions: sustained private friendship routine beyond the observed inquiry period, an affirmative private romantic answer, sustained cohabitation, sexual intimacy, a wider acting-career result, durable bereavement recovery, the altar photograph's explanation, or behavior after V028.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
 ## Validation status
 
-V027 validates a role-conflict sequence that the public crisis alone could not show: Chizuru admits professional wrongdoing, shares blame, privately frames liking a customer as prohibited, and sustains roughly three months of avoidance. Mini's intervention then produces a bounded investigation commitment rather than accepted labeling, and Chizuru reopens contact through paid work before initiating serious speech herself. The model abstains on the statement's content, investigation outcome, durable direct communication, ring return, correction of the residual lie, and final romantic classification.
+V028 validates the next step of the role-conflict sequence: Chizuru converts initiated speech into apology, explicit uncertainty, work-value disclosure, investigation, and a promised answer. She then asks about Ruka, sustains direct unpriced communication, grants vocational access, and invites practical help in her childhood home. These acts support bounded inquiry through voluntary cross-domain contact while practical causes and rival-harm accounting remain active. The model abstains on the investigation outcome, durable long-term communication, altar-photograph consequence, ring return, correction of the residual lie, and final romantic classification.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named professional, family-welfare, identity, vocational, and bounded-care domains. It assigns no global capability grade and preserves motive underdetermination.
