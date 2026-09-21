@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E07 closed; static visual and Japanese textual form"
+source_boundary: "E08 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -57,3 +57,9 @@ source_boundary: "E07 closed; static visual and Japanese textual form"
 | SYL-F0037 | E07 S08/S11 | Luca says beauty is found with the heart and preserved as color, not just seen | Lara's remembered heart-light takes the shape of a predatory eye-marked blade under rejection | Static visual + JP text | Juxtaposes an open, fallible human aesthetic with the dangerous capacity of interior feeling; “heart” is neither automatically kind nor measurable by surface | Extends E06's plural lights and Rowan's instrumental heart-light doctrine | sheets 022-032; cues 182-193, 243-267 |
 | SYL-F0038 | E07 S12-S15 | Mari offers an annual family fireworks view and asks who Lara might want nearby | Luca and Lara negotiate distance and refusal, then face public fireworks as Lara wishes to draw closer | Static progression + JP text | Fireworks supply shared visible beauty without proving a supernatural princess-light event or exclusive two-person destiny | Plays against Rowan's demand for productive light and E03's golden lake event | sheets 032-039; cues 268-317; AV synchronization pending D0001-D0002 |
 | SYL-F0039 | E07 S09/S11/S13 | A hovering dark blade appears near Lara after she encounters Luca's image of her | Flashback and Lara's words connect a prior blade to rejected heart-light; she first withdraws, then faces a conversation rather than deploying it | Static progression + JP text | A dangerous image interrupts the romance plot and forces ethical consideration of the beloved's vulnerability | Possible design relation to E05 object is thematic only until provenance and motion are established | sheets 025-032, 034-036; cues 217-220, 251-267, 282-315; D0002 |
+| SYL-F0040 | E08 S02-S06 | Lara decorates a tournament banner and enumerates tomorrow's small tasks | Weakness, temporary medicine, fear, quarrel, and departure interrupt the very ordinary future she describes | Static progression + JP text | The threatened life is made legible as futon, laundry, work, friendship, boxing attendance, and possible Luca closeness rather than an abstract romance goal | Develops E05 labor and E07 borrowed-phone/contact infrastructure; the phone is left behind | sheets 006-016; cues 23-49, 98-155 |
+| SYL-F0041 | E08 S03-S08 | A tray of Seizō's imitation vials travels from Lisa through Mari to Lara | The liquid relieves Lara but cannot settle opposing rules for salvation | Static progression + JP text | Material cross-species care complicates Lisa's anti-human doctrine and the fairy-tale cure while preserving mortality | Continues E06 finite medicine and Seizō's incomplete scientific work | sheets 010-016; cues 49-105, 151-179 |
+| SYL-F0042 | E08 S09-S12 | Lara's recollection juxtaposes Rowan, prince, Lisa, Luca, and Grace | Her `私ってなんなの` shifts to a land-facing account of people who take her hand and felt light | Static montage endpoints + JP text | Competing identities and incompatible uses of light become visible as a choice about place and relations, not a completed magical proof | Reverses E01 sea/land ban and E06 plural lights; E07 blade remains counterimage | sheets 020-028; cues 201-206, 249-271; D0002 for montage rhythm |
+| SYL-F0043 | E08 S10-S14 | Mari's coach demands a decision to fight while Luca asks Lara what she truly wants | Ferry, shoreline, ringside, bouts, and Lara's return are intercut; Mari resumes fighting after a call from Lara | Static progression + JP text | Parallel risk and accompaniment, not a literal equivalence or causal attribution of a boxing win to Lara | Mari's mother's image of someone beside her looking the same way expands E03 strength lesson | sheets 022-034; cues 207-300; D0001-D0002 |
+| SYL-F0044 | E08 S15-S16 | Two sleeping faces appear alike after a day of conflict | Balcony conversation contrasts Lara's land-love search with Mari's escalating boxing future, and learned custard becomes a promised cake | Static progression + JP text | Reciprocal promise uses differentiated ambitions and acquired competence rather than absorbing Mari into Lara's rescue plot | Extends E05 repairable bakery work, E07 family fireworks, and E03 maternal counsel | sheets 034-036; cues 302-336 |
+| SYL-F0045 | E08 S16 | A trophy/certificate image of Mari and Lara follows the world-title/cake promise | `つづく` immediately separates this future-facing image from closing credits | Original still `001160` + complete sheet 036 + JP text | Visualizes a shared possible horizon but does not announce the August 23 final result or certify a literal later world title | Counterpoint to E07 unfinished painting: images of a future/person remain interpretable, not sovereign verdicts | 22:19-22:29; cues 333-336; sheet 036; D0002 |

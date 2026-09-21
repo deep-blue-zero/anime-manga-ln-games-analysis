@@ -4,14 +4,14 @@ artifact_id: SYL_CLAIMS_AND_REVISIONS
 artifact_type: claims_revisions_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E07 closed; Japanese-caption and static-visual scope"
+source_boundary: "E08 closed with contradiction/readiness checkpoint; Japanese-caption and static-visual scope"
 ---
 
 # Claims and revisions ledger
@@ -58,4 +58,10 @@ This is the cumulative spine for consequential interpretive claims. Every claim 
 | SYL-C0036 | E07 | OBSERVED + INTERPRETATION | C0026: friendship as Lara's principal active human bond | DIFFERENTIATE / STRENGTHEN | Mari lends a phone, asks Lara to hear Luca's feelings, and invites her to family fireworks; Luca declares a desire to stay because Lara is Lara, and Lara tentatively wants to draw nearer. These are distinct relations and neither a declared couple nor certified royal true love. | E07 S04/S12-S15, cues 54-80, 268-323, sheets 012, 032-039; counterevidence: Luca's avowal and Lara's response are romantically suggestive but no mechanism test or stable category follows. | Relationship study; Lara/Mari/Luca | E08-E12 development; W0025; D0001-D0003 |
 | SYL-C0037 | E07 | CHARACTER ASSERTION + INTERPRETATION | C0030: Lisa's human-life dependence and family retrieval project | STRENGTHEN / HOLD | As medicine fails, Lisa says Grace has noticed them, predicts exclusion if they approach Lara, refuses Kōta's offer, and promises to recover Lara by other means before time expires. | E07 S10, cues 227-233; counterevidence: Grace's exact knowledge, disposition, and Lisa's alternative action are not independently shown. | Lisa/Kōta/Grace study; family-law specialist | E08 outcome; W0020-W0021; D0001-D0003 |
 
-`SYL-H0001`-`SYL-H0012` remain historical research questions. Only the transitions explicitly named above have entered current analysis. The E04 checkpoint preserves friendship as an observed present name rather than a terminal relationship verdict. E07 adds Luca's stated attraction and Lara's tentative desire for nearness without converting any relationship into a certified true-love mechanism; the recalled heart-blade prevents treating all light as benign. Rowan's E06 ideological axis remains a dedicated monograph target.
+| SYL-C0038 | E08 | OBSERVED + CHARACTER PROGNOSIS | C0037/W0020: Lisa's urgency and failing medicine | STRENGTHEN / LIMIT | Lara visibly weakens; Lisa discloses foaming risk and gives Mari temporary imitation medicine, which Lara says relieves her. Grace does not deny the danger. Exact expiry, inevitability, and cure remain unknown. | E08 S02-S05, cues 49-105, sheets 006-015; counterevidence: Lisa's prediction is not a timed independent test and medicine seems effective for a while. | Lara/Lisa/medicine study | W0026; D0001-D0003 |
+| SYL-C0039 | E08 | OBSERVED + INTERPRETATION | C0020/C0036: named friendship and Luca's distinct potential romance | REVISE / STRENGTHEN | Mari urges Lara to return to Lisa out of fear of death; Lara admits fear, leaves, then returns to cheer. Their shared rest and future promise survive rupture; the bond remains friendship by explicit name, not a newly declared romance. | E08 S05-S06/S13-S16, cues 115-140, 143-155, 281-336, sheets 013-016, 031-036; counterevidence: Mari's intervention constrains Lara's choice and the coda's status is open. | Lara/Mari relationship | R0035-R0037; D0001-D0002 |
+| SYL-C0040 | E08 | CHARACTER ASSERTIONS + CONTRADICTION | W0019/W0025: Rowan's unique light and Grace's human true-love route | CONTRADICT / HOLD | Lisa asserts an exceptionless sea-world-love generation rule while Lara says she feels light on land. Neither a sufficient light event nor family restoration follows; speakers' doctrines and Lara's felt orientation must remain distinct. | E08 S08/S09/S12, cues 175-179, 201-206, 256-271; E03 C0016, E07 C0035; counterevidence: no controlled mechanism test or independent ancient record. | Rowan/Lisa/Grace monographs; love/causality specialist | W0027-W0028; D0003 |
+| SYL-C0041 | E08 | OBSERVED + INTERPRETATION | C0036: tentative nearness after Luca's avowal | EXPAND | Luca asks what Lara wants during a broken ferry call; Lara chooses return to land despite possible failure. Mari responds to the coach's demand to decide to fight and later imagines a boxing future. Their parallel decisions and promise do not make either outcome inevitable. | E08 S10-S16, cues 207-336, sheets 022-036; counterevidence: Lara had independently valued Mari, work, and land before Luca's question. | Lara/Mari/Luca relationship and form | R0038-R0040; D0001-D0002 |
+| SYL-C0042 | E08 | FORMAL / RESULT BOUNDARY | Final bout may be inferred from later trophy image | HOLD | The earlier victory and progression to the final are announced; the final's winner is not. The trophy-and-certificate shot after the world-title/cake promise is temporally unanchored and cannot establish the August 23 result or achieved world title. | E08 S07/S10/S13/S16, cues 159-163, 207, 240-248, 281-291, 324-336, sheet 036, original frame `001160`; rival: coda might depict an eventual achievement. | Mari monograph; form specialist | W0029; D0002 |
+
+`SYL-H0001`-`SYL-H0012` remain historical research questions. Only explicitly recorded transitions enter current analysis. The E04 friend label is present fact rather than final category; E07 adds Luca's person-directed avowal and Lara's tentative nearness; E08 tests both relationships under mortality and articulates incompatible light doctrines without resolving the mechanism. Rowan's ideological axis remains a dedicated monograph target.

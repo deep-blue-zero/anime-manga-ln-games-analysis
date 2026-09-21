@@ -4,14 +4,14 @@ artifact_id: SYL_LANGUAGE_AND_PERFORMANCE
 artifact_type: language_performance_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E07 closed; Japanese textual observations only, no auditory performance claims"
+source_boundary: "E08 closed; Japanese textual observations only, no auditory performance claims"
 ---
 
 # Language and performance ledger
@@ -80,4 +80,12 @@ source_boundary: "E07 closed; Japanese textual observations only, no auditory pe
 | SYL-L0059 | cues 291-315; 19:59-22:06 | `人魚だから？`; `もう会いたくない`; `はじめは人魚やから興味持ってん`; `今はちゃう`; `俺が人間やから嫌なん`; `ララやから一緒にいたい`; `待っていた`; `ありがとう` | Because I'm a mermaid; don't want to see you; initially because mermaid; not now; dislike me because human; together because Lara is Lara; waited; thank you | Lara sets a boundary; Luca accepts, then acknowledges it and avows changed desire | Complete aligned JP cue read; sheets 034-037 | Exoticizing curiosity versus person-specific avowal is explicit; refusal and response cannot be collapsed into automatic consent or true-love proof | High for text; pacing/affect pending | C0034/C0036; R0032; W0025 |
 | SYL-L0060 | cues 316-323; 23:19-23:54 | `この人にもっと近づきたい`; `ただいま`; `花火すごかった` | Want to get closer to this person; we're home; fireworks were wonderful | Lara's internal aim and household return | Complete aligned JP cue read; sheets 038-039 | Chosen nearness is followed by domestic continuity, not explicit magical restoration | High for text; festival sound deferred | C0036; R0032-R0033; F0038 |
 
-No E01-E07 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. The E04 friendship sequence, E05 object/Kōta sequence, E06 rescue/mirror/tail disclosure, and E07 date, blade memory, refusal, and fireworks are static evidence; performed rhythm, motion, and sound remain deferred.
+| SYL-L0061 | SYL-B08 cues 1-49; 00:04-03:40 | `温かさみたいなもの`; `見つかりそう?`; `こわいもの`; `横断幕` | Something like warmth; close to finding it?; something feared; cheering banner | Lara/Mari after fireworks and before the boxing meet | All 336 aligned JP cues read; sheets 001-008 | Luca's warmth is felt but not identified as magical true love; Lara asks Mari about fear while preparing visible support | High for supplied text/static context; delivery pending D0001 | C0039/C0041; F0040 |
+| SYL-L0062 | cues 49-105; 03:43-08:16 | `返して`; `泡になる`; `誰から聞いた`; `一時しのぎ`; `楽になった` | Return her; become foam; who told you; temporary stopgap; feel better | Lisa's disclosure, Grace's reply, and Mari's administration | Complete aligned JP cue read; sheets 009-014 | Differentiates observed relief and non-denial from Lisa's untested deadline and human-love prediction | High for words; exact medical duration and performed urgency pending | C0038; R0035; W0026 |
+| SYL-L0063 | cues 107-140; 08:20-10:00 | `ここにいさせて`; `平気なフリ`; `お布団`; `アンデケン`; `ルカとも`; `こわいに決まってるでしょ`; `死んでほしくない` | Let me stay; pretending to be fine; futon; Andeken; Luca too; of course I am scared; I do not want you to die | Lara and Mari's waterfront argument | Complete aligned JP cue read; sheets 012-015 | Ordinary tomorrow is the threatened value; both speakers name fear without settling authority over Lara's choice | High for wording; vocal intensity and pause structure pending D0001 | C0039; R0036; F0040 |
+| SYL-L0064 | cues 151-179; 11:13-13:16 | `しばらくは持つ`; `まだ眠り続けている`; `邪魔はさせない`; `海の世界への深い愛`; `例外は無い`; `泡にならずに` | Last a while; still sleeping; won't let interference; deep love for sea world; no exceptions; avoid foaming | Lisa receives Lara and articulates royal tradition | Complete aligned JP cue read; sheets 016-021 | Sea-world-love object conflicts with Grace's human true-love route; medicine duration remains indefinite | High for supplied text; historical truth and exact fidelity pending D0003 | C0040; R0037; W0027 |
+| SYL-L0065 | cues 190-215; 13:52-15:44 | `人魚のことなんか分からん`; `人間どもは醜く`; `私ってなんなの`; `戦うって決めた奴` | I know nothing about mermaids; humans are ugly; what am I; one who decides to fight | Mari's frustration, Lara's competing-memory voices, coach's challenge | Complete aligned JP cue read; sheets 020-023 | Mari's epistemic limit and Lara's identity crisis are not solved by the sporting maxim, which addresses Mari's own decision | High for text; memory-voice ownership and delivery pending | C0040-C0041; F0042-F0043 |
+| SYL-L0066 | cues 218-271; 15:55-18:43 | `もう会えないかもしれない`; `どうしたいん`; `無理かもしれない`; `手を引いてくれる人`; `この地上にこそ光を感じる`; `止まらない` | Might never meet; what do you want; may be impossible; people take my hand; on this land I feel light; I will not stop | Lara/Luca ferry call, then Lara/Lisa confrontation | Complete aligned JP cue read; sheets 023-028 | Luca asks rather than prescribes; Lara's concession of possible failure makes her choice neither a cure claim nor naïve certainty | High for wording; wind is textually named, actual sound not interpreted | C0040-C0041; R0037-R0038; W0028 |
+| SYL-L0067 | cues 281-336; 19:23-22:26 | `負けたくない`; `横に並んで同じ方を見てくれる人`; `地上の世界で愛を探す`; `プロ`; `世界一`; `カスタード`; `約束` | Do not want to lose; someone beside looking same way; seek love on land; pro; world's best; custard; promise | Mari's match, mother's recollection, and Lara/Mari balcony | Complete aligned JP cue read; sheets 031-036; original still `001160` | No announced final score; a mother's capacious companion phrase and differentiated future pledge resist automatic romantic or result classification | High for text/static; match motion/sound and coda time pending D0001-D0002 | C0039/C0041-C0042; R0036/R0040; F0043-F0045 |
+
+No E01-E08 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E08's argument, ferry wind, boxing, maternal recollection, and future-facing coda remain static/text observations; performed rhythm, motion, and sound remain deferred.

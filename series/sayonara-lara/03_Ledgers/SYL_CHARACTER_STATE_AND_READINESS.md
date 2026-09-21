@@ -4,14 +4,14 @@ artifact_id: SYL_CHARACTER_STATE_AND_READINESS
 artifact_type: character_state_readiness_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E07 closed; identities and states verified only through E07"
+source_boundary: "E08 closed; identities and states verified only through E08"
 ---
 
 # Character state and readiness ledger
@@ -39,4 +39,12 @@ This local ledger tracks verified identity, temporal state, desires/knowledge/co
 | Otsu household adults (Ema and Makoto) | VERIFIED_GIVEN_NAMES / RELATIONS PARTIAL | E05 | Ema institutes a work rule for Lara and Mari, cites window restitution, takes a household share and returns Lara's balance; Makoto explains professional photography and says he met his wife through work | Exact household relations/full names; fairness of 100,000-yen pressure; current work and family structure | Supporting ensemble with household-governance relevance; NOT_READY |
 | Supporting ensemble | PARTIAL_LOCAL_IDENTITIES | E07 | Prior household, school, boxing, work, and historical ensemble plus Luca's brother Leo, classmates, ropeway/café staff, and fireworks spectators; Omi Bridge observer now identified as Luca | Keiko, Yoshiya's full identity/household relation, boxing peers, workers, research successors, and spectator roles require exact verification | Ensemble study planned; NOT_READY |
 
-Readiness is dimension-specific. Literary synthesis, voice/performance analysis, and behavioral reconstruction never inherit readiness from one another automatically.
+| Lara | VERIFIED_LOCAL_IDENTITY | E08 | Weakness and relief after Lisa's partial medicine; names fear of death, leaves Mari a note and phone, tests sea/land and human-love doctrines, calls Luca, chooses the land and people despite uncertainty, and promises Mari cake from learned custard skill | Restoration mechanism, survival horizon, exact relation to Luca, and sustainable autonomy remain unresolved | Bounded E01-E08 literary model mature; final monograph after E12; FULL_SERIES_NOT_READY |
+| Mari Otsu (`大津 茉里`) | VERIFIED_FULL_NAME | E08 | Receives Lisa's medicine/prognosis, confronts Lara's pretense and admits not wanting her to die; wins an earlier bout, struggles in the final, responds to Lara's return, and imagines a professional/world-level path | Protective insistence versus Lara's autonomy; final bout result; mother's current status; dyad category beyond friendship | Bounded E01-E08 literary model mature; final monograph after E12; FULL_SERIES_NOT_READY |
+| Lisa / Shiomi Lisa (`潮見リサ`) | VERIFIED_SISTER_RELATION / HUMAN IDENTITY | E08 | Approaches Mari, gives life-extending medicine, receives Lara on the boat, says family sleeps in Grace's mansion, asserts exceptionless sea-world-love light, allows Lara time, but rejects human love and land choice | Whether this doctrine is historical fact or persuasion; actual medicine reserve; response to Lara's return | Strong bounded protection/control study; final monograph after E12; FULL_SERIES_NOT_READY |
+| Grace / Gon | VERIFIED_LOCAL_IDENTITY / ALTERED BODY | E08 | Does not deny Mari's foaming question, notes Lisa's changed request and does not immediately order Lara back | Why prognosis was withheld, whether she accepts sea-world-light claim, and medicine control | Strong bounded authority study; final monograph after E12; FULL_SERIES_NOT_READY |
+| Rowan | VERIFIED_LOCAL_IDENTITY | E08 (present state reported by Lisa) | Remains sleeping with the family according to Lisa; his anti-human maxim is recalled during Lara's identity crisis | No present direct speech; how his dynastic extraction thesis relates to Lisa's sea-love account and Lara's land light | Owner-requested dedicated ideological monograph after E12; substantive bounded thesis but FULL_SERIES_NOT_READY |
+| Luca Akizuki (`秋月ルカ`) | VERIFIED_GIVEN NAME / SURNAME ON CONTACT | E08 | Lara cites his warmth and desire for further closeness; he worries during a wind-obscured ferry call, watches Mari's match expecting Lara, and asks her what she wants | His role in true-love claims and the durability of his person-directed regard untested | Conditional monograph/relationship treatment; FULL_SERIES_NOT_READY |
+| Mari's mother | VERIFIED_RELATION / NAME UNSTATED | E08 recollection | Says Mari may become strong enough to live alone, yet someone will stand alongside and look in the same direction | Present status and intended referent of “someone” unknown; no exclusive romantic identification | Supporting figure essential to Mari's monograph; NOT_READY |
+
+Readiness is dimension-specific. Literary synthesis, voice/performance analysis, and behavioral reconstruction never inherit readiness from one another automatically. The repeated subjects above preserve dated state transitions, not duplicate identities.

@@ -4,14 +4,14 @@ artifact_id: SYL_BLOCKERS_AND_EVIDENCE_DEBTS
 artifact_type: blockers_evidence_debts
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E07 closed; general debts plus E01-E07 claim-linked assignments"
+source_boundary: "E08 closed; general debts plus E01-E08 claim-linked assignments"
 ---
 
 # Blockers and evidence debts
@@ -23,4 +23,14 @@ source_boundary: "E07 closed; general debts plus E01-E07 claim-linked assignment
 | SYL-D0003 | REQUIRED for disputed exact wording | High-impact lexical/register claims where aligned caption fidelity is contested | Untouched ABEMA Japanese caption witness and, where needed, audible adjudication | E01 cues 191-195, 199-211, 273-279; E02 cues 1-15 (`役目`), 108-118 (`お前のせい`), 221-239 (`使命`), 279-298 (`別に`), 323-327 (`愛するララ`); E03 cues 95-116 (`唯一の方法`, `うまくだまして`), 178-190 (`目そらしたら負け`), 247-254 (`利用する`, `頼って`), 315-330 (`私から目そらすなよ`), 355-380 (`醜い`, `好き`, heart/light wording); E04 cues 117-140 (`推し`, `付き合うだけがゴールちゃう`), 180-199 (`ずっと今のまま`, `好き`), 264-300 (voice/speech wording), 315-342 (`恋愛感情`, `友達`), 364-416 (`今はコータと名乗っています`, `目覚めている`, `特別なプリンセス`); E05 title/death joke, work as `苦行`/`今日はな`, `人間たちのことを知りたかった`, true-love linkage, Lisa's `醜い姿`, `特別なプリンセス`, `愛し合うなんてできるわけない`, `明日は違うかもしれない`, `あの家も……あの娘も`, `動き出した`; E06 title `私を照らす光`, Rowan's `醜い人間ども`, Grace's `頼りにならんローワン`, Kōta's finding language, Lisa's `光になって`, Rowan's `光が欲しい` / `一族の栄光` / `私の代わりに`, potion expiry / `何だってやる`, `仮定と検証`, short human life / `ニセモノ`, `どうして私たちを照らしてくれない`, `ずっと見張られていた`, `やっと見つけた`; E07 `心が大きく動いた`, Grace's `可能性`, `美しいもの`, `心で見つけて`, `ほんまの俺`, `ララの美しさ`, `私の光が刃へ`, `私の心そのもの`, `取り戻す`, `もう会いたくない`, `はじめは人魚やから`, `ララやから一緒にいたい`, `もっと近づきたい` | Source owner / later evidence-completion stage | Untouched witness recovered and derivative/correction history checked | OPEN / current claims explicitly limited to supplied aligned witness |
 | SYL-D0004 | REQUIRED before creator/reception specialist | Creator-context dates/passages and sampled reception arguments | Direct retrieval in this execution | SYL-EXT-001 through SYL-EXT-004 | Later external-source stage | Page metadata and relevant passage verified; reception sample scoped | OPEN / later phase |
 
-No current debt blocks opening E08 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.
+## E08 claim-linked assignments
+
+The table's first three rows retain their E01-E07 interval history; E08 adds the following explicit assignments without treating availability as coverage.
+
+| Debt | E08 source intervals and claims | Required future acceptance |
+|---|---|---|
+| SYL-D0001 | 03:43-10:00 (Lisa's disclosure, Mari/Lara's fear and quarrel); 12:01-14:49 (competing light accounts); 15:01-20:10 (wind-interrupted call, Lara's declaration, match and call); 20:16-22:28 (mother recollection, rest, promise/coda). C0038-C0042; L0062-L0067. | Direct interval-linked listening, including voices, sporting sound, music, and the sound/image relation; no inference from captioned `シュッ` alone. |
+| SYL-D0002 | 02:12-10:00 (weakness, treatment, confrontation); 10:27-18:43 (departure, boat and return); 15:01-20:10 (boxing/crosscut and score); 20:16-22:28 (vehicle, balcony, trophy coda). C0038-C0042; W0026-W0029. | Continuous source-linked inspection or strict sampled-endpoint narrowing; do not certify final-bout result or coda temporality from the still. |
+| SYL-D0003 | Exact force of `泡になる`, `一時しのぎ`, `こわいに決まってる`, `死んでほしくない`, Lisa's `海の世界への深い愛` / `例外は無い`, `私ってなんなの`, `どうしたいん`, `この地上にこそ光を感じる`, the mother's `横に並んで同じ方`, and `約束`; E08 cues 49-105, 107-140, 175-179, 201-206, 218-271, 292-336. | Untouched ABEMA caption witness and derivative history, with audible adjudication if exact wording is disputed. |
+
+No current debt blocks opening E09 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.
