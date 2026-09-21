@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0168
+current_event_boundary: EVENT_0169
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0168
+## Current coverage — all five human units synchronized through EVENT_0169
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0168 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0168` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0169 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0169` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -68,7 +68,13 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0168 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0169 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0169 is fully integrated:** scoped `VBS-REL-GROUP-E0163 → VBS-REL-GROUP-E0169` records the actual New York experience, direct observation of Ken–Taiga's RaveN set, the quartet's shared definition of a worldwide audience-facing goal and a conditional RUSH BEATS route to Lasting ECHO Fes. Kohane's illys improvisation and particular later recognition, Embers' reported RADder inheritance and renewed rivalry, An's Nagi-directed wish, Toya/Akito's differentiated response and discreet Street-singer care remain bounded I2. Leo/need/MMJ/WxS/N25 receive I0 for unit-state change; gift ideas do not prove delivery. The verified envelope is 24 stories / 39 scenes / 1,414 records; one monthly row has anomalous 2023 release metadata. No completed tournament entry or win, festival set, audited mass attendance, new SEKAI stadium, public SEKAI knowledge or complete reconstruction is certified. The boundary advances EVENT_0168 to EVENT_0169. EVENT_0170 is next; one source-present event remains.
+
+Causal home: [EVENT_0169 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0169_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+### Historical coverage — EVENT_0168 forward transaction
 
 **EVENT_0168 is fully integrated:** scoped `MMJ-REL-GROUP-E0133 → MMJ-REL-GROUP-E0168` records the quartet's informed Grand Prix entry choice and coordinated preparation under a continuously streamed, partly undisclosed contest format. Airi's childhood audition failures and one baseball recipient, Hiyori's televised motto and its reported Arisawa source clarify her hope-delivery ideal at high I2, without replacing her E0138 operative. Haruka/Minori/Shizuku, Saito and local Stage singers receive differentiated I2; Ichika/Leo/need ordinary monthly I1, VBS/WxS/N25 I0. The verified envelope is 27 stories / 54 scenes / 1,267 records; four monthly rows carry anomalous 2023 release metadata. No contest stage completed, finalist berth, victory, assured global reach, safe overwork, public SEKAI knowledge or complete reconstruction is certified. The boundary advances EVENT_0167 to EVENT_0168. EVENT_0169 is next; two source-present events remain through EVENT_0170.
 

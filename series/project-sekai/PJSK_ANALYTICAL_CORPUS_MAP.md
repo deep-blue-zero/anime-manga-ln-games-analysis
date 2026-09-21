@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0168
+current_event_boundary: EVENT_0169
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0168
+## Current state — founded units synchronized through EVENT_0169
 
-All five human units now track the same source-present event history through `EVENT_0168`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0168 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0169`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0169 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,13 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### EVENT_0141–0170 continuation — EVENT_0168 committed boundary
+### EVENT_0141–0170 continuation — EVENT_0169 committed boundary
+
+**EVENT_0169 is fully integrated:** `VBS-REL-GROUP-E0163 → VBS-REL-GROUP-E0169` advances an actual New York group experience into a shared world-audience definition and conditional tournament-to-festival route. Kohane's invited illys street improvisation receives particular local response; Embers' reported RADder rescue history and an open reciprocal rivalry strengthen existing relations without guaranteeing a matchup. Ken and Taiga perform at SONIC NOTES, then describe their future Lasting ECHO Fes selection and the alleged RUSH BEATS young-opener route. The quartet is still a spectator at the festival, not a performer or entered tournament contender. The verified envelope is 24 stories / 39 scenes / 1,414 records. One monthly area has anomalous 2023 release metadata; Leo/need/MMJ/WxS/N25 are I0 for unit-state changes. No registered or won tournament, booked VBS festival set, audited audience size, universally effective rescue by music, new SEKAI stadium, public disclosure or complete reconstruction. The boundary advances EVENT_0168 to EVENT_0169. EVENT_0170 is next; one source-present event remains.
+
+The [EVENT_0169 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0169_DEEP_READING.md), [routing ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md), [coverage ledger](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYSIS_COVERAGE_LEDGER.md), and six longitudinal ledgers are current shared analysis authority. Reconstruction generation 1 remains certified only through EVENT_0140; the forward readings record compact EVENT_0141–0169 deltas for later synthesis.
+
+### Historical continuation — EVENT_0168 committed boundary
 
 **EVENT_0168 is fully integrated:** `MMJ-REL-GROUP-E0133 → MMJ-REL-GROUP-E0168` records informed collective entry into LUMINA and differentiated preparation, not a completed broadcast or victory. Airi's childhood losses and one unexpected recipient explain her heart/hope motive; a preserved TV profile reports Hiyori took the motto from Arisawa, without proving every link of direct mentorship or future audience conversion. Haruka producer planning, Minori training, Shizuku care, Saito's risk counsel and Stage-local singers remain distinct I2. The verified envelope is 27 stories / 54 scenes / 1,267 records. Four monthly area rows have anomalous 2023 publication metadata; Ichika/Leo/need is ordinary I1 and VBS/WxS/N25 I0. No actual finalist berth, guaranteed worldwide reach, safe endless exertion, public SEKAI disclosure or complete reconstruction. The boundary advances EVENT_0167 to EVENT_0168. EVENT_0169 is next; two source-present events remain through EVENT_0170.
 
