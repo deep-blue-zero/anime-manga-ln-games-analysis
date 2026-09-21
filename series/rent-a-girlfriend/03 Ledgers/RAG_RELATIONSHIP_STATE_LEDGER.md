@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V028
-row_count: 163
-state: CURRENT_THROUGH_V028
+inspected_through_volume: V029
+row_count: 168
+state: CURRENT_THROUGH_V029
 ```
 
 ## Records
@@ -205,3 +205,8 @@ state: CURRENT_THROUGH_V028
 | RAG-REL-161 | Ruka → Kazuya | Self-claimed girlfriend after his explicit withdrawal | Appears at his workplace, uses the girlfriend label, notices that he looks pale, and worries because he nearly collapsed. | Claim persistence coexists with direct care and workplace monitoring. | Care does not restore the trial, answer his withdrawal, or correct the fabricated sex claim. | RAG-E-V028-009 |
 | RAG-REL-162 | Kibe → Kazuya | Hurt friend keeping distance after exposure | Receives Kazuya's apology, distinguishes lying from automatic malice, and resumes friendship under a protection ethic. | Immediate punitive rupture gives way to partial interpersonal repair. | Kibe still believes the couple is genuine, so the repair is not tested under full truth. | RAG-E-V028-011 |
 | RAG-REL-163 | Chizuru → Kazuya | Investigator extending purpose-bound access | Invites Kazuya to Sayuri's empty house, shares property and family history, and works with him on sorting and removal. | Kazuya gains voluntary access to Chizuru's childhood home and material family archive. | The access is explained by practical labor and does not settle romantic classification. | RAG-E-V028-013 through RAG-E-V028-015 |
+| RAG-REL-164 | Chizuru → Kazuya | Family-history keeper responding to his altar question | Identifies her mother, recounts her early death, and values the surviving photo. | Personal disclosure deepens access beyond the cleanup task. | His imagined embrace is not enacted; RAG-E-V029-001. |
+| RAG-REL-165 | Kazuya ↔ Chizuru | Displaced neighbors with unfinished inquiry | He shields her during a quake; they exchange a hypothetical marriage ideal; loss of their building then separates ordinary residences. | Care and domestic imagination coexist with a concrete access regression. | Safety contact and idealized speech do not form a couple; RAG-E-V029-002 through RAG-E-V029-005. |
+| RAG-REL-166 | Mini → principals | Intermediary confronting housing and emotional uncertainty | Recommends house-sharing, contacts Chizuru, and offers to join as a third resident. | She helps translate separation into a practical proposal. | Her interpretations and kiss suggestion cannot substitute for either principal's choice; RAG-E-V029-005 through RAG-E-V029-008. |
+| RAG-REL-167 | Chizuru ↔ Kazuya | Intoxicated pair considering an inquiry test | Chizuru acknowledges loneliness and asks about kissing again; Kazuya repeats love; taxi arrival interrupts their approach. | A direct but inconclusive feeling exchange precedes sober terms. | No completed kiss, final answer, or dating agreement; RAG-E-V029-007 through RAG-E-V029-009. |
+| RAG-REL-168 | Chizuru ↔ Kazuya / Mini | One-month household under explicit uncertainty | Chizuru offers Kazuya a separate room and invites Mini into shared residence. | A bounded three-person domestic relation starts. | Ruka's response, everyday rules, and investigation result remain open; RAG-E-V029-010 through RAG-E-V029-012. |

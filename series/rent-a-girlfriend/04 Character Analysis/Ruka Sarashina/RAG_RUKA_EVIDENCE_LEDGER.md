@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V028; character evidence inspected through V028, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V029; character evidence inspected through V029, with V012-V013, V019, and V029 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V028
+inspected_through_volume: V029
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -170,6 +170,8 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, university visits, and karaoke coworker access are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 
 ## Gaps and negative evidence
+
+- V029 contains Kazuya's explicit concern about Ruka during the proposed move but no direct Ruka appearance, knowledge of the household, consent, or response. Preserve her V028 status as the last directly observed state (RAG-E-V029-005, RAG-E-V029-011).
 
 - No precise medical diagnosis is established; do not invent one from the represented low pulse and symptoms.
 - The pulse reading is Ruka's personal authenticity test, not objective evidence that a relationship is healthy or reciprocal.

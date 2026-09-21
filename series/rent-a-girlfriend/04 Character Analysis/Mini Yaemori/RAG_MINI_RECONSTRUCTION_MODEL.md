@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V028, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V029, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -43,13 +43,14 @@ model_basis:
     - RAG-JP-EPUB-V026
     - RAG-JP-EPUB-V027
     - RAG-JP-EPUB-V028
-  admitted_through_volume: V028
-  narrative_time_boundary: "after Mini's relay enables direct recontact, Kazuya reports that Chizuru will investigate, and Mini immediately proposes speculative compatibility tests without direct knowledge of Chizuru's method"
+    - RAG-JP-EPUB-V029
+  admitted_through_volume: V029
+  narrative_time_boundary: "after forced housing displacement, Mini's shared-house proposal, her rejected kiss demonstration, transport coordination, and acceptance of Chizuru's third-housemate invitation"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.2"
+  model_revision: "1.3"
   prior_knowledge_limitations:
-    - "No post-V028 narrative evidence is admitted."
+    - "No post-V029 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
@@ -273,7 +274,7 @@ uncertainties:
 ~~~yaml
 state_id: MIN-S006
 valid_from_source: "V028 0049"
-valid_until_source: null
+valid_until_source: "V029 0043"
 entry_conditions:
   - "Mini's bounded relay has enabled the paid date, and Kazuya returns with a report that Chizuru will investigate rather than give an immediate classification."
 active_goals:
@@ -295,6 +296,43 @@ evidence_refs:
 uncertainties:
   - "Whether Mini later receives Chizuru's direct account or revises her love diagnosis."
   - "How she responds if either principal rejects her proposed framing."
+~~~
+
+### MIN-S007 — displaced logistical intermediary and invited third housemate
+
+~~~yaml
+state_id: MIN-S007
+valid_from_source: "V029 0043"
+valid_until_source: null
+entry_conditions:
+  - "The damaged apartment displaces Mini and both principals, and Kazuya fears loss of ordinary access."
+active_goals:
+  - solve a housing problem through the available family house
+  - put the principals in everyday contact while Chizuru investigates
+  - join the residence and coordinate immediate logistics
+known_propositions:
+  - "The inquiry is unresolved and Kazuya's housing options are constrained."
+  - "Chizuru resists a simple romantic reading and rejects Mini's kiss demonstration."
+relationship_conditions:
+  - "Chizuru invites Mini as a third housemate alongside Kazuya for the temporary arrangement."
+  - "Mini's diagnostic confidence exceeds Chizuru's own stated certainty."
+changed_from_previous:
+  - COHABITATION_PROPOSED
+  - CHIZURU_RECRUITED_TO_BAR
+  - KISS_DEMONSTRATION_REJECTED
+  - TAXI_COORDINATED
+  - THIRD_HOUSEMATE_INVITATION_ACCEPTED
+evidence_refs:
+  - RAG-E-V029-004
+  - RAG-E-V029-005
+  - RAG-E-V029-006
+  - RAG-E-V029-007
+  - RAG-E-V029-008
+  - RAG-E-V029-009
+  - RAG-E-V029-012
+uncertainties:
+  - "Whether Mini respects limits during daily shared residence."
+  - "Whether her romantic diagnosis gains evidence independent of practical success."
 ~~~
 
 ## Behavioral rules
@@ -412,10 +450,12 @@ Use Japanese manga written speech only. Mini tends toward explicit labels, enthu
 
 Supported with caution: a stalled measurable group project; a concealed collaboration she accidentally discovers; Kazuya and Chizuru separately giving her incomplete accounts; an opportunity to create private access; direct challenge to a logistical deception; a peer encounter in which her supporter identity is visible.
 
-Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's investigation method, or any post-V028 relationship result.
+Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's final investigation method, or any post-V029 relationship result.
 
 Abstain whenever the outcome requires treating Mini's romantic theory as fact, granting permission she was not given, or converting a useful campaign intervention into general moral or professional reliability. Generated scenarios cannot become canon evidence.
 
 ## Validation status
 
 The model remains `PARTIAL_MODEL`. V028 supplies the immediate consequence of Mini's V027 intervention: direct recontact and an explicit investigation occur, but Mini learns this only through Kazuya and immediately fills the unspecified method with compatibility theories. The useful causal result strengthens her intervention pattern while the unvalidated diagnosis, missing authorization, and speculative method preserve the calibration limit. The model is strongest on response form—volunteer, analyze, label, ask, coordinate, push—and weakest on diagnostic accuracy, authorization, independent goals, and long-term consequences. Those gaps bar operational-candidate status.
+
+V029 supports Mini's response-form prediction under a housing crisis: she diagnoses, pushes a concrete shared-house proposal, recruits Chizuru, offers herself as a third resident, and coordinates transport (RAG-E-V029-004 through RAG-E-V029-012). Chizuru later accepts a bounded household proposal, but rejects Mini's suggested kiss demonstration and does not endorse her love label. Practical success strengthens logistical initiative without upgrading diagnostic accuracy or intervention authorization.

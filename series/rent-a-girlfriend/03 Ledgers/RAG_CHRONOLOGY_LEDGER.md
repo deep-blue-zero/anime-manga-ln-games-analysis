@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V028
-row_count: 135
-state: CURRENT_THROUGH_V028
+inspected_through_volume: V029
+row_count: 138
+state: CURRENT_THROUGH_V029
 ```
 
 ## Records
@@ -177,3 +177,6 @@ state: CURRENT_THROUGH_V028
 | RAG-CHR-133 | RAG-E-V028-008 through RAG-E-V028-010 | A later laundromat encounter and theater-ticket invitation precede closure of the film-storage task, Ruka's karaoke visit, and a LINE exchange lasting more than three hours. | Narrative order and the message duration are explicit. | Exact calendar dates and intervals among these later events are unstated. |
 | RAG-CHR-134 | RAG-E-V028-011, RAG-E-V028-012 | On April 7, the third university year begins; Kazuya apologizes to Kibe, their contact partially repairs, and Sumi appears silently nearby. | April 7 and the start of the school year are explicit. | Sumi's arrival purpose, knowledge, and any later exchange are unshown. |
 | RAG-CHR-135 | RAG-E-V028-013 through RAG-E-V028-015 | After a further interval, Chizuru asks Kazuya to help at Sayuri's empty house; sorting, stone removal, and cleaning continue into night before the altar-photograph question. | Invitation, travel, labor, nightfall, and photograph endpoint occur in that order. | The exact date, elapsed interval from April 7, and remaining cleanup schedule are not secure. |
+| RAG-CHR-136 | RAG-E-V029-001 through RAG-E-V029-004 | The altar question leads to maternal-photo disclosure, quake-caused shielding, a conversation outside, and discovery of the damaged apartment. | Family disclosure, contact, ideal, and forced displacement occur in that order on the house-visit night. | Exact clock times and engineering outcome are unstated. |
+| RAG-CHR-137 | RAG-E-V029-005 through RAG-E-V029-009 | After temporary separation, Mini and Kazuya discuss the move; Chizuru joins them at a late April 11 izakaya meeting; Mini's taxi arrival interrupts the near-kiss. | The bar, intoxication, and interrupted test precede sober housing terms. | Do not infer a completed kiss from proximity. |
+| RAG-CHR-138 | RAG-E-V029-010 through RAG-E-V029-012 | Separate taxi destinations, Kazuya's sleep and family encounter, then Chizuru's next-day invitation precede the one-month house offer and Mini's acceptance. | Sober invitation follows, rather than precedes, the drunken episode. | Exact move-in hour and future month endpoint are not fully fixed. |

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V028
-row_count: 164
-state: CURRENT_THROUGH_V028
+inspected_through_volume: V029
+row_count: 168
+state: CURRENT_THROUGH_V029
 ```
 
 ## Records
@@ -206,3 +206,7 @@ state: CURRENT_THROUGH_V028
 | RAG-FRM-162 | Repeated LINE panels compress more than three hours of work, clothing, career, and joke exchange before Chizuru falls asleep holding the phone. | Interface montage makes sustained ordinary reciprocity legible outside paid time. | Duration and topic breadth register expanded access while preserving separate locations. | Warm messaging does not identify a final feeling or shared status; RAG-E-V028-009, RAG-E-V028-010. |
 | RAG-FRM-163 | Kibe's extended friendship speech and Sumi's silent campus appearance place explicit moral interpretation beside unreadable cameo. | One peer explains his revised judgment while another is visually present without dialogue. | The contrast preserves the difference between narrated reconciliation and mere appearance. | Sumi's knowledge, purpose, and feeling cannot be inferred from the panel; RAG-E-V028-011, RAG-E-V028-012. |
 | RAG-FRM-164 | Repeated stones, sorting gestures, retained objects, rooms at night, and altar photographs turn family memory into material labor. | The childhood house shifts from setting to an archive whose objects require decisions and bodily work. | The final photograph question converts practical cleanup into a family-history cliffhanger. | Task-caused proximity and memorial imagery do not settle romance or the unidentified photograph; RAG-E-V028-013 through RAG-E-V028-015. |
+| RAG-FRM-165 | The altar photo and memory sequences give the empty house a familial past; quake panels shift quickly to a near-kiss composition and a leaf correction. | Material memory and physical closeness receive distinct resolutions. | The leaf punctures Kazuya's anticipated romantic image while the mother identification remains direct testimony. | No kiss follows the tremor; RAG-E-V029-001, RAG-E-V029-002. |
+| RAG-FRM-166 | Fire response, prohibited-entry signs, keys, separated rooms, bank balance, and apartment listing externalize displacement. | The former apartment route becomes a visible material constraint. | Screens and doors anchor the housing problem beyond inner monologue. | Housing need does not determine Chizuru's feeling; RAG-E-V029-003 through RAG-E-V029-005. |
+| RAG-FRM-167 | The bar's repeated drinks, enlarged blushing close-ups, taxi interruption, and next-day quiet rooms distinguish impulse from decision. | Drunken feeling talk and interrupted approach yield to sober bounded residence. | Formal separation prevents a near-kiss from becoming an assumed completed test. | Intoxicated gestures do not equal a stable answer; RAG-E-V029-007 through RAG-E-V029-012. |
+| RAG-FRM-168 | A one-month utterance, spare-room staging, and Mini's sudden entrance set domestic proximity beside an explicit limit. | The new house is a practical, three-person arrangement rather than a two-person romantic tableau. | The boundary is shown before routine begins. | Future implementation and relationship outcome are unknown; RAG-E-V029-011, RAG-E-V029-012. |

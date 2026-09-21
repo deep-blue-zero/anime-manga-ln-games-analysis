@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; character evidence inspected through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; character evidence inspected through V029."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V028
+inspected_through_volume: V029
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -180,6 +180,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E138 | CHI-S030 | RAG-E-V028-013 | Childhood-house invitation and property transition | Asks Kazuya to help at Sayuri's empty house, says sale is under consideration, and defines the need as cleanup and lifting before a contractor. | Extends chosen access into a private family domain through a concrete task. | Practical need is sufficient to explain the invitation, and no property decision or partnership follows. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R018, RAG-CHI-R024 |
 | RAG-CHI-E139 | CHI-S030 | RAG-E-V028-014 | Family-object history and shared labor | Explains Katsuhito's stone collecting and Sayuri's retention, sorts possessions, cleans, and divides removal work with Kazuya. | Makes family history available through material decisions and coordinated ordinary labor. | The report is retrospective and does not reveal every reason an object was kept. | RAG-CHI-R002, RAG-CHI-R010, RAG-CHI-R024 |
 | RAG-CHI-E140 | CHI-S030 | RAG-E-V028-015 | Selected retention, situational support, and altar disclosure | Keeps a teddy bear, steadies Kazuya around a heavy stone, comments on strength when another is in trouble, and identifies Katsuhito in the altar photograph. | Combines practical care with bounded family-history disclosure at the volume endpoint. | Contact is task-caused, and the second photograph's identity and emotional consequence remain beyond V028. | RAG-CHI-R002, RAG-CHI-R004, RAG-CHI-R024 |
+| RAG-CHI-E141 | CHI-S031 | RAG-E-V029-001 through RAG-E-V029-003 | Maternal photograph and ordinary marriage ideal | Identifies her mother, deceased when she was four, values a rare photo, and describes a hypothetical marriage with shared laughter after hardship. | Discloses family loss and a chosen domestic ideal. | Neither a full parental history nor an agreement to marry Kazuya; RAG-CHI-R002, RAG-CHI-R018, RAG-CHI-R024. |
+| RAG-CHI-E142 | CHI-S031 | RAG-E-V029-004, RAG-E-V029-005 | Displaced resident at Sayuri's house | Leaves the damaged apartment, returns alone to the childhood house, and recalls Sayuri there. | The family property becomes present shelter as well as bereavement archive. | Her eventual sale decision remains open; RAG-CHI-R004, RAG-CHI-R018, RAG-CHI-R024. |
+| RAG-CHI-E143 | CHI-S031 | RAG-E-V029-007 through RAG-E-V029-009 | Loneliness, caution, and interrupted intoxicated test | Acknowledges loneliness, resists Mini's simple cohabitation and kiss logic, asks Kazuya about another kiss, and is interrupted by the taxi. | Shows personally salient uncertainty and some initiative. | Both have drunk; no kiss or final feeling is established; RAG-CHI-R016, RAG-CHI-R017, RAG-CHI-R024. |
+| RAG-CHI-E144 | CHI-S031 | RAG-E-V029-010 through RAG-E-V029-012 | Sober one-month, separate-room offer | Visits Kazuya and offers a spare room in her family house, discussing practical limits and inviting Mini. | Expands the inquiry setting to everyday, bounded, three-person living. | Shelter is not an affirmative private romantic answer or unrestricted access; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 
 ## State-change summary
 
@@ -213,6 +217,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S028 — publicly acting protector inside near-complete correction:** absorbs Mami's accusation, initiates two real kisses under coercive verification, discloses her real name and rental role, names Kazuya as important, and preserves genuine dating as the sole lie in the later family account without a private relationship agreement.
 - **CHI-S029 — professionally conflicted avoider entering explicit self-investigation:** admits the kiss violation, shares responsibility, privately frames customer-directed feeling as prohibited, sustains roughly three months of silence, resists Mini's love label, commits to inquiry, and reopens paid contact by speaking first.
 - **CHI-S030 — direct investigator expanding ordinary and family access under rival-harm accounting:** apologizes and explains the silence, distinguishes the provider role from her whole person, promises an answer, asks directly about Ruka, sustains unpriced communication and vocational access, and invites Kazuya into task-bound childhood-house labor without final romantic classification.
+- **CHI-S031 — displaced householder offering a bounded inquiry setting:** identifies maternal loss, acknowledges loneliness during a drunken conversation, and later soberly offers one month of separate-room shelter to Kazuya and invites Mini, without resolving the investigation or house disposition.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
@@ -254,6 +259,8 @@ The transitions are primarily context, knowledge, relationship, and vocational c
 - V028 turns that commitment into conduct: she apologizes, states uncertainty, preserves the work's financial and vocational reality, asks about Ruka, promises an answer, sustains ordinary contact, grants theater access, and later chooses practical family-house collaboration (RAG-E-V028-001 through RAG-E-V028-015).
 
 ## Gaps and negative evidence
+
+- V029 increases family and household observations but does not identify Chizuru's final feeling. The interrupted drunken approach cannot stand in for a completed kiss or sober decision; the one-month offer supplies explicit practical limits (RAG-E-V029-001 through RAG-E-V029-012).
 
 - V004 establishes acting as a named goal and rental work as income and practice; V008 supplies a direct family-linked reason, V010 supplies another stage opportunity and explicit work pride, V012 supplies the detailed origin and film request, and V020 supplies public exhibition plus a continuing-vocation statement, but sustained professional outcome remains sparse.
 - She privately links Kazuya's rescue and accumulated care to a customer-love prohibition, later calls her feeling unnamed, and begins an investigation through direct inquiry and expanded ordinary access, but she gives no final classification or result.

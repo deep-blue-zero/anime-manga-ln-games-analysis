@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; character evidence inspected through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; character evidence inspected through V029."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V028
+inspected_through_volume: V029
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -184,6 +184,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E144 | KAZ-S030 | RAG-E-V028-009 | Ruka workplace contact and unresolved status boundary | Is approached by Ruka at karaoke as she uses the girlfriend label and expresses health concern after his near-collapse. | Receives care from a claimant whose trial he previously ended. | No observable acceptance restores the trial or resolves separation. | RAG-KAZ-R009, RAG-KAZ-R017, RAG-KAZ-R024 |
 | RAG-KAZ-E145 | KAZ-S030 | RAG-E-V028-011 | Friendship apology and partial repair under residual deception | Apologizes to Kibe for lying and hurting him, hears that a lie need not imply malice, and resumes contact under Kibe's protection ethic. | Takes direct responsibility and receives a less punitive peer judgment. | Kibe still believes the couple is genuine, so the repair is not fully informed. | RAG-KAZ-R003, RAG-KAZ-R019, RAG-KAZ-R024 |
 | RAG-KAZ-E146 | KAZ-S030 | RAG-E-V028-013 through RAG-E-V028-015 | Childhood-house labor and family-history reception | Accepts Chizuru's cleanup request, moves stones and refuse, receives grandparent history, accepts situational support around a heavy object, and asks about the altar photographs. | Converts invitation into practical service and attentive family inquiry. | Labor and access do not create romantic status, and the second photograph's identity remains unavailable. | RAG-KAZ-R005, RAG-KAZ-R008, RAG-KAZ-R024 |
+| RAG-KAZ-E147 | KAZ-S031 | RAG-E-V029-001 through RAG-E-V029-003 | Family disclosure, shielding, and idealized marriage response | Hears of Chizuru's mother, imagines support, shields her from falling items, and agrees with her laughing-after-hardship ideal. | Care and aspiration coexist with direct material danger. | Imagined embrace and anticipated kiss are not enacted or reciprocated; RAG-KAZ-R005, RAG-KAZ-R008, RAG-KAZ-R024. |
+| RAG-KAZ-E148 | KAZ-S031 | RAG-E-V029-004 through RAG-E-V029-006 | Housing scarcity and separation panic | Loses apartment access, searches within limited funds, worries the inquiry will stall, and hesitates over Mini's proposal because of Ruka and imposition. | Material constraint amplifies anxious relational forecasting but he names a real rival complication. | His expectations are not Chizuru's intentions; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R017. |
+| RAG-KAZ-E149 | KAZ-S031 | RAG-E-V029-007 through RAG-E-V029-009 | Drunken confession and interrupted near-kiss | Cries, says he loves and trusts Chizuru, and approaches after she asks about another kiss. | Feeling is direct while self-control and interpretation are impaired by alcohol. | No completed kiss, affirmative answer, or enduring permission; RAG-KAZ-R002, RAG-KAZ-R016, RAG-KAZ-R024. |
+| RAG-KAZ-E150 | KAZ-S031 | RAG-E-V029-010 through RAG-E-V029-012 | Family expectation and bounded residence | Hears Nagomi's false-premise pressure, then receives Chizuru's sober one-month separate-room offer and Mini's inclusion. | Can accept concrete terms despite continuing anxiety and lack of romantic certainty. | Acceptance does not solve Ruka's claim, financial independence, or the family lie; RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R024. |
 
 ## State-change summary
 
@@ -217,6 +221,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S028 — publicly confessing protector inside near-complete correction:** responds to exposure with a false mutual timeline and a true love declaration, abandons the bluff under coercive proof pressure, receives two Chizuru-initiated kisses and her identity account, and joins a family explanation that preserves only the genuine-dating lie while peer and paternal violence remain consequences.
 - **KAZ-S029 — deteriorated interpreter recovering through bounded recontact:** receives a private debrief, converts ambiguity and prolonged silence into feared rejection, accepts Mini's limited correction, books a paid date, and reaches the direct-speech threshold while still unable to ask first.
 - **KAZ-S030 — direct questioner and patient inquiry participant under expanding ordinary access:** asks about the kisses, restates his feeling without demanding an immediate answer, supports Chizuru's work choice, accepts her investigation, resumes direct messaging and private time, apologizes to Kibe, and performs task-bound labor in Chizuru's childhood home.
+- **KAZ-S031 — displaced, anxious prospective housemate:** loses neighboring housing, confronts limited independent options, confesses while drunk, then accepts Chizuru's sober one-month separate-room offer with Mini also invited; investigation and Ruka status remain unresolved.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 
@@ -266,6 +271,8 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - V028 shows improved response once direct information becomes available: Kazuya asks the central question, rejects punitive job loss, accepts uncertainty without forcing an answer, and follows offered ordinary, vocational, and family-house access, although sexualized imagination and extreme waiting language preserve calibration limits (RAG-E-V028-001 through RAG-E-V028-015).
 
 ## Gaps and negative evidence
+
+- V029 adds a real housing constraint and temporary domestic access, but not evidence of durable cohabitation competence, a completed drunken kiss, mutual dating status, or informed resolution with Ruka (RAG-E-V029-004 through RAG-E-V029-012).
 
 - Paid employment is routine enough in V005 to produce first wages and a repair plan, but long-duration competence and independence from relationship pressure remain insufficiently sampled.
 - Competence outside relationship crisis remains underobserved.

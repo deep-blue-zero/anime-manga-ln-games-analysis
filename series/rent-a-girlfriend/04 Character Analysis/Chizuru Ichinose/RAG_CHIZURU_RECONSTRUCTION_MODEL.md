@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V028."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V029."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -55,13 +55,14 @@ model_basis:
     - RAG-JP-EPUB-V026
     - RAG-JP-EPUB-V027
     - RAG-JP-EPUB-V028
-  admitted_through_volume: V028
-  narrative_time_boundary: "after Chizuru apologizes for the silence, states unresolved feeling and work stakes, commits to investigation and a later answer, asks about Ruka, sustains ordinary and vocational contact, and invites Kazuya into task-bound childhood-house labor"
+    - RAG-JP-EPUB-V029
+  admitted_through_volume: V029
+  narrative_time_boundary: "after maternal-photo disclosure, housing displacement, an interrupted drunken kiss inquiry, and a sober one-month, three-person family-house offer with separate room"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.28"
+  model_revision: "1.29"
   prior_knowledge_limitations:
-    - "No post-V028 narrative evidence is admitted."
+    - "No post-V029 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru has directly explained the silence and operationalized inquiry, but its result and any final mutual classification remain unavailable."
 coverage:
@@ -1477,7 +1478,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S030
 valid_from_source: "V028 0005"
-valid_until_source: null
+valid_until_source: "V029 0005"
 entry_conditions:
   - "The paid-date speech threshold is open, and Chizuru must address prolonged silence, two kisses, the customer category, Ruka's harm, and her own unresolved feeling."
 active_goals:
@@ -1524,6 +1525,46 @@ uncertainties:
   - "How Chizuru will determine or state the investigation result."
   - "Whether expanded access changes after Ruka learns or challenges it."
   - "How the altar photograph, house disposition, ring, and residual dating lie are resolved."
+~~~
+
+### CHI-S031 — displaced householder offering a bounded inquiry setting
+
+~~~yaml
+state_id: CHI-S031
+valid_from_source: "V029 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru has begun opening her childhood home and family history to Kazuya; a quake then removes their adjacent apartment access."
+active_goals:
+  - continue the unresolved investigation without inventing a love label
+  - manage the temporarily occupied family house and practical housing need
+  - avoid treating intoxicated intimacy or shared residence as automatic commitment
+known_propositions:
+  - "Her mother died when she was four and few photographs survive."
+  - "Kazuya has stated love and support, and the old apartment is unavailable."
+  - "Mini proposes a three-person residence, while Ruka's claim remains unresolved."
+relationship_conditions:
+  - "Kazuya receives a separate spare room for one month, and Mini is invited as a third resident."
+  - "No mutual dating agreement, sober final answer, or Ruka disclosure is observed."
+changed_from_previous:
+  - MATERNAL_PORTRAIT_IDENTIFIED
+  - APARTMENT_ACCESS_LOST
+  - LONELINESS_ACKNOWLEDGED_WHILE_DRINKING
+  - KISS_TEST_INTERRUPTED
+  - BOUNDED_THREE_PERSON_HOUSING_OFFERED
+evidence_refs:
+  - RAG-E-V029-001
+  - RAG-E-V029-003
+  - RAG-E-V029-004
+  - RAG-E-V029-007
+  - RAG-E-V029-008
+  - RAG-E-V029-009
+  - RAG-E-V029-011
+  - RAG-E-V029-012
+uncertainties:
+  - "What sober observations or words determine the investigation result."
+  - "How shared-house boundaries operate and how Ruka responds."
+  - "Whether the house is sold and the family dating lie corrected."
 ~~~
 
 ## Behavioral rules
@@ -1865,12 +1906,14 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work competes with family care; a practical need creates temporary private access; a researched film proposal requires feasibility review and bounded project consent.
 
-Require extra assumptions: sustained private friendship routine beyond the observed inquiry period, an affirmative private romantic answer, sustained cohabitation, sexual intimacy, a wider acting-career result, durable bereavement recovery, the altar photograph's explanation, or behavior after V028.
+Require extra assumptions: sustained private friendship routine beyond the observed inquiry period, an affirmative private romantic answer, durable cohabitation beyond the one-month offer, sexual intimacy, a wider acting-career result, durable bereavement recovery, or behavior after V029.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
 ## Validation status
 
 V028 validates the next step of the role-conflict sequence: Chizuru converts initiated speech into apology, explicit uncertainty, work-value disclosure, investigation, and a promised answer. She then asks about Ruka, sustains direct unpriced communication, grants vocational access, and invites practical help in her childhood home. These acts support bounded inquiry through voluntary cross-domain contact while practical causes and rival-harm accounting remain active. The model abstains on the investigation outcome, durable long-term communication, altar-photograph consequence, ring return, correction of the residual lie, and final romantic classification.
+
+V029 validates a constrained extension of the bounded-care rule: Chizuru identifies her mother at the altar, speaks of a hypothetical shared-laughter marriage, acknowledges loneliness while drinking, resists Mini's simple inference, and later soberly offers a separate room for one month with Mini invited (RAG-E-V029-001, RAG-E-V029-003, RAG-E-V029-007 through RAG-E-V029-012). Quake shielding is Kazuya's safety action; a taxi interrupts the contemplated drunken kiss. The model can predict the form of a practical, limited access choice, but cannot equate it with final romantic classification, stable household routine, or Ruka settlement.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named professional, family-welfare, identity, vocational, and bounded-care domains. It assigns no global capability grade and preserves motive underdetermination.

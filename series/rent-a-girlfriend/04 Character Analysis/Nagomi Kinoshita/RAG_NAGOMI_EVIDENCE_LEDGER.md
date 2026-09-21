@@ -4,13 +4,13 @@ artifact_id: RAG_NAGOMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; character evidence inspected through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; character evidence inspected through V029."
 ---
 
 # Nagomi Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V028
+inspected_through_volume: V029
 local_readiness: UNMODELED
 ~~~
 
@@ -64,6 +64,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-NAG-E024 | NAG-S011 | RAG-E-V026-016 | Acceptance and apology under near-complete disclosure | Hears roughly two hours of explanation, accepts the account, and apologizes to Chizuru. | Preserves immediate family inclusion after learning most of the rental and deception history. | The narrator states that genuine dating remains the sole lie, so her acceptance is not fully informed. | none; model withheld |
 | RAG-NAG-E025 | NAG-S012 | RAG-E-V027-001, RAG-E-V027-005 | Immediate post-disclosure normalization | Frames close relationships as able to accumulate secrets and distorted time, supports a return to ordinary dinner and lodging, and stops Kuribayashi's escalation. | Converts acceptance into continued social inclusion rather than immediate exclusion or surveillance. | Her response still rests on the false genuine-dating premise and does not establish reaction to its correction. | none; model withheld |
 | RAG-NAG-E026 | NAG-S012 | RAG-E-V028-009 | Family-expectation message under residual status error | Tells Kazuya that winter passed without seeing “Princess Chizuru.” | Keeps Chizuru's expected family presence active after the near-complete disclosure. | The message still rests on the false genuine-dating premise and supplies no direct Chizuru response. | none; model withheld |
+| RAG-NAG-E027 | NAG-S013 | RAG-E-V029-010 | Family lodging and mistaken investigation inference | Receives Kazuya after the damaged building, expresses a wish to see the apparent couple, and misreads his mention of investigation as a potential breakup. | Family pressure and concern persist in a practical housing crisis. | She does not know the actual unresolved status or receive full correction; none; model withheld. |
 
 ## State-change summary
 
@@ -79,6 +80,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - NAG-S010 — covered concern at an identity-exposure threshold: is the intended audience of Mami's disclosure plan, apparently receives Chizuru's aligned financial-dispute explanation, and then witnesses Chizuru's Diamond profile on Ruka's phone before her own knowledge and response can be established.
 - NAG-S011 — partially corrected family accepter: stops the crowd, asks Kazuya directly, invokes Sayuri's trust, hears the near-complete room account, and apologizes to Chizuru while remaining misinformed only about the principals' genuine-dating status.
 - NAG-S012 — normalizing family claimant under residual error: resumes ordinary treatment, restrains peer escalation, and later signals that Chizuru's absence remains noticed and family access expected while the final dating premise stays false.
+- NAG-S013 — family host under a still-false couple premise: shelters Kazuya after apartment loss and mistakes his mention of Chizuru's investigation for a relationship breakdown, without receiving a full status correction.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -88,6 +90,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - Evidence outside the central couple premise is limited to hospital routine, family-business context, event and travel organization, bereavement response, and the V020-V028 service, trip, and message contacts.
 
 ## Gaps and negative evidence
+
+- V029 adds family-home shelter and a mistaken inference about Chizuru's investigation, not a test of Nagomi's response to the fully corrected couple status (RAG-E-V029-010).
 
 - Nagomi has responded to a near-complete rental-girlfriend history, but she has not received a truthful correction of the final genuine-dating premise.
 - Her broader history, independent friendships, ordinary business decision-making, and long-term response to disagreement are sparse.

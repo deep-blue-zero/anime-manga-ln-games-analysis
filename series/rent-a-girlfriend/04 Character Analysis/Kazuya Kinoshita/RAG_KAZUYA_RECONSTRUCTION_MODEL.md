@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V028."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V029."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -55,14 +55,15 @@ model_basis:
     - RAG-JP-EPUB-V026
     - RAG-JP-EPUB-V027
     - RAG-JP-EPUB-V028
-  admitted_through_volume: V028
-  narrative_time_boundary: "after Kazuya directly asks about the kisses, accepts Chizuru's uncertain investigation without forcing an answer, resumes ordinary and vocational contact, repairs with Kibe under incomplete truth, and helps clean Chizuru's childhood home"
+    - RAG-JP-EPUB-V029
+  admitted_through_volume: V029
+  narrative_time_boundary: "after maternal-photo disclosure, quake shielding, forced displacement, anxious housing search, an interrupted drunken near-kiss, and acceptance of a bounded separate room at Chizuru's house"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.28"
+  model_revision: "1.29"
   prior_knowledge_limitations:
-    - "No post-V028 narrative evidence is admitted."
-    - "Kazuya knows Chizuru's stated reason for the long avoidance and her investigation commitment, but not the result, the altar photograph's explanation, or her final romantic classification."
+    - "No post-V029 narrative evidence is admitted."
+    - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
     - breakup and acute loneliness
@@ -1492,7 +1493,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S030
 valid_from_source: "V028 0005"
-valid_until_source: null
+valid_until_source: "V029 0005"
 entry_conditions:
   - "Chizuru has initiated serious speech inside the paid date, while Kazuya still needs an account of the kisses, silence, and customer boundary."
 active_goals:
@@ -1539,6 +1540,48 @@ uncertainties:
   - "Whether Kazuya can sustain patience without converting ordinary access into certainty or self-erasure."
   - "How he responds to the investigation result or renewed Ruka conflict."
   - "Whether he helps complete the house transition and receives the remaining family-history disclosure."
+~~~
+
+### KAZ-S031 — displaced, anxious prospective housemate
+
+~~~yaml
+state_id: KAZ-S031
+valid_from_source: "V029 0005"
+valid_until_source: null
+entry_conditions:
+  - "Kazuya hears Chizuru identify her mother, shields her during a quake, and loses the adjacent apartment route."
+active_goals:
+  - find affordable shelter while remaining able to hear Chizuru's answer
+  - avoid imposing or treating housing as romantic entitlement
+  - account for Ruka's continuing disputed claim
+known_propositions:
+  - "The former apartment is unavailable and a replacement prospect is delayed."
+  - "Chizuru acknowledges loneliness while drinking but makes no final classification."
+  - "She soberly offers one month in a separate room and invites Mini."
+relationship_conditions:
+  - "Kazuya accepts temporary three-person residence without mutual dating status."
+  - "Nagomi still believes the pair are a genuine couple; Ruka has no observed informed response."
+changed_from_previous:
+  - MATERNAL_PORTRAIT_EXPLANATION_RECEIVED
+  - QUAKE_SHIELDING_PERFORMED
+  - ADJACENT_HOUSING_LOST
+  - RUKA_CONCERN_STATED
+  - DRUNKEN_CONFESSION_AND_INTERRUPTED_APPROACH
+  - ONE_MONTH_ROOM_OFFER_ACCEPTED
+evidence_refs:
+  - RAG-E-V029-001
+  - RAG-E-V029-002
+  - RAG-E-V029-004
+  - RAG-E-V029-005
+  - RAG-E-V029-007
+  - RAG-E-V029-009
+  - RAG-E-V029-010
+  - RAG-E-V029-011
+  - RAG-E-V029-012
+uncertainties:
+  - "Whether he can sustain calibrated conduct in the household."
+  - "How Ruka and family audiences learn the actual arrangement."
+  - "What Chizuru's sober investigation concludes."
 ~~~
 
 ## Behavioral rules
@@ -1878,12 +1921,14 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable communication beyond the observed inquiry period, the altar photograph's explanation, or any post-V028 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the initial offer, or any post-V029 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
 ## Validation status
 
 V028 validates a discriminating countercondition to the ambiguity-collapse rule: when Chizuru supplies a direct uncertain account, a promised process, and specific voluntary access, Kazuya can ask the central question, reject self-punitive job loss, tolerate delay, and perform practical tasks without claiming mutual status. His exaggerated test fantasies and ten-or-twenty-year waiting language preserve calibration limits. The model still withholds mature partnership, durable long-term communication, repeat production competence, workable separation, Chizuru's investigation result, and correction of the residual dating lie.
+
+V029 tests material disruption against the V028 patient-inquiry behavior. Kazuya shields Chizuru during a quake, worries that displacement will end access, names Ruka and financial constraints, expresses feeling while drunk, and accepts a sober limited room offer (RAG-E-V029-002 through RAG-E-V029-012). Practical care and direct objection are supported, while emotional forecast and sexualized interpretation remain unreliable. The interrupted near-kiss and temporary cohabitation supply no evidence for mature reciprocal intimacy or mutual dating status.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V028
-row_count: 151
-state: CURRENT_THROUGH_V028
+inspected_through_volume: V029
+row_count: 155
+state: CURRENT_THROUGH_V029
 ```
 
 ## Records
@@ -193,3 +193,7 @@ state: CURRENT_THROUGH_V028
 | RAG-TXN-149 | Chizuru and Kazuya; extended unbooked visit and prospective waiting | YouTube viewing and conversation continue voluntarily after the practical purpose and serious talk conclude. | Either may leave or stop; Kazuya may offer patience and Chizuru may warn of family and marriage costs. | Enjoyment and an open-ended wait promise do not bind Chizuru to a favorable answer or Kazuya to permanent suspension. | Ordinary time and a mutual process acknowledgment emerge without dating status; RAG-E-V028-007. |
 | RAG-TXN-150 | Chizuru and Kazuya; theater ticket and sustained LINE contact | Chizuru voluntarily offers vocational access, and later messages occur without a booking or project obligation. | Kazuya may attend or decline; both may continue or end the conversation message by message. | A ticket, responsiveness, jokes, and duration create no romantic debt or unrestricted availability. | Work and ordinary life become directly shareable beyond the closed film project; RAG-E-V028-008 through RAG-E-V028-010. |
 | RAG-TXN-151 | Chizuru and Kazuya; childhood-house cleanup and family-object access | Chizuru requests practical lifting and sorting help before a possible sale; no compensation or romantic agreement is stated. | Kazuya may accept the bounded task, while Chizuru retains control over property, disclosure, kept objects, and access. | Labor, family history, task-caused bodily support, and altar access do not create partnership or property rights. | Shared work expands trust and private-domain access while house disposition remains Chizuru's decision; RAG-E-V028-013 through RAG-E-V028-015. |
+| RAG-TXN-152 | Quake shielding and hypothetical marriage talk | A safety event prompts bodily closeness, followed by an idealized domestic conversation. | Either may withdraw; Chizuru corrects the anticipated kiss with a leaf observation. | Emergency aid and marriage ideals create no entitlement or status. | Contact ends without kiss, and the building's damage forces a separate practical choice; RAG-E-V029-002 through RAG-E-V029-004. |
+| RAG-TXN-153 | Mini's house-sharing and kiss-test suggestions | Housing scarcity supports a proposal, but Mini's romantic interpretations are not the principals' terms. | Chizuru may refuse, invite a third resident, or set limits; Kazuya may name Ruka and his reluctance. | Intermediary confidence does not authorize intimacy. | Chizuru rejects Mini's demonstration and later sets her own terms; RAG-E-V029-005 through RAG-E-V029-008. |
+| RAG-TXN-154 | Drunken near-kiss outside the bar | Chizuru asks about another kiss as a possible self-test, while both have been drinking. | Either may stop; taxi arrival interrupts before a completed kiss. | Alcohol, proximity, and Kazuya's confession do not supply a settled or continuing intimate license. | No completed kiss is observed; RAG-E-V029-009. |
+| RAG-TXN-155 | One-month spare room in Chizuru's family house | The old apartment is unavailable and alternatives are costly; Chizuru offers separate lodging and discusses ordinary use and expenses, then invites Mini. | Household participants may negotiate space, costs, and duration. | Shelter or shared rooms do not buy a romantic answer or override Ruka-related disclosure concerns. | Bounded three-person residence begins without final dating status; RAG-E-V029-010 through RAG-E-V029-012. |

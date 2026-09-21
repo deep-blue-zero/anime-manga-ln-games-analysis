@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V028
-row_count: 194
-state: CURRENT_THROUGH_V028
+inspected_through_volume: V029
+row_count: 198
+state: CURRENT_THROUGH_V029
 ```
 
 ## Records
@@ -236,3 +236,7 @@ state: CURRENT_THROUGH_V028
 | RAG-AGY-192 | Ruka | Avoid Kazuya after his withdrawal or continue status and care through workplace access. | Appears at karaoke, calls herself his girlfriend, notices his poor condition, and expresses worry. | Preserves a direct care route alongside the disputed claim. | The act does not restore mutually accepted trial terms; RAG-E-V028-009. |
 | RAG-AGY-193 | Kibe | Maintain distance, renew punishment, or hear Kazuya's apology and revise his moral judgment. | Accepts the apology, says a lie need not imply malice, and resumes friendship while retaining a demanding protection ethic. | Converts distance into partial repair and a more differentiated account of deception. | His judgment remains based on a false current-couple premise; RAG-E-V028-011. |
 | RAG-AGY-194 | Chizuru | Handle the empty family house alone, leave all work to contractors, or invite bounded help. | Asks Kazuya to accompany her, explains the contemplated sale, divides cleanup labor, and shares family-object history. | Turns bereavement property work into chosen practical collaboration. | Practical need fully explains the invitation, and the property decision remains open; RAG-E-V028-013 through RAG-E-V028-015. |
+| RAG-AGY-195 | Kazuya | Treat safety contact as romance or respond to falling material. | Shields Chizuru during the quake and withdraws after the leaf correction. | Performs immediate care without requiring a reciprocal kiss. | His imagined kiss is not her initiative; RAG-E-V029-002. |
+| RAG-AGY-196 | Mini | Leave the displaced pair to separate housing or propose shared shelter. | Presses cohabitation, contacts Chizuru, and proposes herself as a third resident. | An intermediary creates a practical proposal and a nonexclusive arrangement. | Her feeling interpretation and suggested kiss demonstration do not bind either principal; RAG-E-V029-005 through RAG-E-V029-008. |
+| RAG-AGY-197 | Chizuru | Refuse the proposal, act on drunken impulse, or set later sober terms. | Acknowledges loneliness, considers a kiss, stops Mini's demonstration, and subsequently offers a separate room for one month with Mini invited. | Turns uncertainty into bounded practical access while preserving inquiry. | The near-kiss is interrupted; cohabitation does not settle love; RAG-E-V029-007 through RAG-E-V029-012. |
+| RAG-AGY-198 | Kazuya | Demand an answer or accept a practical arrangement while naming a rival concern. | Worries about imposing and Ruka, expresses love while drunk, and accepts Chizuru's limited room offer. | States his preference while the housing choice remains Chizuru's. | Alcohol and anxious fantasy do not create informed mutual dating status; RAG-E-V029-005, RAG-E-V029-007, RAG-E-V029-011. |

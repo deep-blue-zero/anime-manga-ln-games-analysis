@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V028
-row_count: 173
-state: CURRENT_THROUGH_V028
+inspected_through_volume: V029
+row_count: 177
+state: CURRENT_THROUGH_V029
 ```
 
 ## Records
@@ -215,3 +215,7 @@ state: CURRENT_THROUGH_V028
 | RAG-INF-171 | Ordinary contact expands beyond the rental booking through LINE, private-room time, a theater ticket, work talk, and a multi-hour message exchange. | Both principals directly share practical and vocational information rather than relying on Mini or a paid script. | The information channel becomes durable and less mediated. | Warmth and duration do not reveal Chizuru's final feeling or create unrestricted access; RAG-E-V028-004 through RAG-E-V028-010. |
 | RAG-INF-172 | Kibe accepts Kazuya's apology and interprets the couple as genuine, while Nagomi continues family expectation without the final status correction. | Kibe's reconciliation and Nagomi's message both operate on the residual dating lie. | Peer and family relations stabilize without full information. | Acceptance under the false premise cannot predict their response to later correction; RAG-E-V028-009, RAG-E-V028-011. |
 | RAG-INF-173 | Chizuru discloses that Sayuri's house is empty and may be sold, that Katsuhito collected stones during taxi work, and that Sayuri kept them. | Kazuya receives the information while helping sort the childhood home and viewing the altar. | Family history, property transition, and retained objects become shared information through practical access. | The reasons for every retained object and the second photograph's identity remain unshown; RAG-E-V028-013 through RAG-E-V028-015. |
+| RAG-INF-174 | Chizuru identifies her mother in the altar photo and says she died when Chizuru was four. | Kazuya receives direct family history through the retained image. | The V028 photo uncertainty closes with a maternal-loss fact. | No complete account of her mother's life or death circumstances follows; RAG-E-V029-001. |
+| RAG-INF-175 | Housing loss and limited funds become common practical facts; Mini presses a shared-home interpretation. | Chizuru hears the proposal and Kazuya's concern about Ruka and propriety. | Access decisions move from private expectation to direct discussion. | Mini's romantic reading is not Chizuru's answer; RAG-E-V029-004 through RAG-E-V029-008. |
+| RAG-INF-176 | Chizuru admits loneliness and considers another kiss while drunk, then offers a one-month separate room when sober. | Kazuya hears uncertain feeling and receives explicit practical terms. | The inquiry gains ordinary domestic observation while retaining unknown outcome. | Taxi interruption prevents kiss evidence; room access is not dating status; RAG-E-V029-007 through RAG-E-V029-012. |
+| RAG-INF-177 | Nagomi reads the principals as a genuine couple; Ruka is not shown informed of the move. | Kazuya holds a different account from family and has voiced Ruka concern to Mini/Chizuru. | Cohabitation creates new potential audience asymmetry under the residual lie. | No exposure, correction, or Ruka response is established in V029; RAG-E-V029-005, RAG-E-V029-010, RAG-E-V029-011. |

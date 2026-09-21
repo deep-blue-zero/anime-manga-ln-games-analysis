@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V028; character evidence inspected through V028, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V029; character evidence inspected through V029, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V028
+inspected_through_volume: V029
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -59,6 +59,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E019 | MIN-S005 | RAG-E-V027-011, RAG-E-V027-012 | Confident labeling and self-inquiry prompt | Calls the feeling love, argues that rental work may suppress recognition, and urges Chizuru to investigate, contact Kazuya, and face his feeling. | Her pressure produces Chizuru's observable resolve to act. | Chizuru explicitly resists the label as simple or settled, so outcome does not validate Mini's diagnosis. | RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006 |
 | RAG-MIN-E020 | MIN-S005 | RAG-E-V027-013 | Bounded relay and recontact consequence | Tells Kazuya that she spoke to Chizuru, takes responsibility for pushing both parties, and reports that Chizuru does not hate him and has an unnamed feeling. | Corrects a harmful inference enough to restore Kazuya's action capacity. | The relay is selective and interpretive rather than Chizuru's direct answer or permission for broader disclosure. | RAG-MIN-R003, RAG-MIN-R004, RAG-MIN-R006 |
 | RAG-MIN-E021 | MIN-S006 | RAG-E-V028-005 | Follow-up inquiry and speculative test framing | Asks Kazuya what happened, hears that Chizuru will investigate, and speculates about observation and bodily or romantic compatibility. | Remains an active interpreter after her intervention produces direct contact. | Her proposed tests are speculation and must not be assigned to Chizuru or treated as the investigation method. | RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006 |
+| RAG-MIN-E022 | MIN-S007 | RAG-E-V029-004 through RAG-E-V029-008 | Displacement response and forceful housing intervention | Faces building closure, proposes family-house cohabitation, contacts Chizuru at the bar, and offers herself as a third resident. | Coordinates a practical solution while continuing romantic interpretation. | Her initiative is not a substitute for Chizuru's consent or a reliable love diagnosis; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E023 | MIN-S007 | RAG-E-V029-008, RAG-E-V029-009, RAG-E-V029-012 | Kiss suggestion, taxi interruption, and accepted invitation | Suggests a kiss test, is stopped, calls transport, interrupts the approach, and later accepts Chizuru's house invitation. | Her mediation has both boundary-testing and concrete logistical effects. | The suggestion does not authorize an intimate test; no completed kiss is shown; RAG-MIN-R002, RAG-MIN-R004, RAG-MIN-R006. |
 
 ## State-change summary
 
@@ -68,6 +70,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S004 — aftermath interpreter and confidant: questions both principals separately, carries an interested romantic theory, receives Chizuru's grief account, keeps a visible “Master” relation, and remains causally relevant to the V020 direct question.
 - MIN-S005 — returned intermediary under prolonged silence: diagnoses Kazuya's rejection spiral, obtains Chizuru's current account, presses a love label that Chizuru resists, prompts self-investigation, and relays a bounded correction that enables paid recontact.
 - MIN-S006 — outcome-seeking intermediary after direct recontact: asks for the result, learns that investigation rather than classification followed, and immediately generates possible tests whose authority remains only speculative.
+- MIN-S007 — displaced logistical intermediary and invited third housemate: advocates cohabitation, crosses a boundary with a suggested kiss demonstration, arranges the taxi, and later accepts Chizuru's separate invitation into a bounded household.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -80,6 +83,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - Ordinary-life coverage includes university adjacency, creator/streamer identity, room access, group work, public peer contact, and confidant visits; independent friendships, family, finances, creator routine, and non-support goals remain thin.
 
 ## Gaps and negative evidence
+
+- V029 shows Mini's practical advocacy accepted in bounded form, but she still treats another person's unnamed feeling as more settled than Chizuru does. Her kiss demonstration is rejected; the later three-person residence does not validate that test or authorize future intervention (RAG-E-V029-005 through RAG-E-V029-012).
 
 - Mini does not possess direct access to every private event she interprets and should not be written as an omniscient romance narrator.
 - Her “Master” language is a chosen social relation, not proof of formal hierarchy or unquestioned obedience.

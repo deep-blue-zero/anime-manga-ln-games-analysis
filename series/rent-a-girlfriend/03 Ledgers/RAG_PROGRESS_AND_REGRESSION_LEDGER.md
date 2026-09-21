@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; inspected and closed through V028."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V029; inspected and closed through V029."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V028
-row_count: 166
-state: CURRENT_THROUGH_V028
+inspected_through_volume: V029
+row_count: 170
+state: CURRENT_THROUGH_V029
 ```
 
 ## Records
@@ -208,3 +208,7 @@ state: CURRENT_THROUGH_V028
 | RAG-PRG-164 | Film and vocational route | PROJECT_CLOSURE_WITH_NEW_VOCATIONAL_ACCESS — stored film materials are returned as the project ends, while Chizuru directly invites Kazuya to her next play. | One joint-work route closes and another observational work route opens. | A ticket does not create a new collaboration, career outcome, or romantic status. | RAG-E-V028-008, RAG-E-V028-009 |
 | RAG-PRG-165 | Kibe-Kazuya trust | PARTIAL_FRIENDSHIP_REPAIR_UNDER_RESIDUAL_ERROR — Kibe accepts an apology and distinguishes lying from automatic malice. | Distance after exposure gives way to renewed peer contact. | Kibe still believes the genuine-couple claim and has not been tested under complete truth. | RAG-E-V028-011 |
 | RAG-PRG-166 | Chizuru-Kazuya private-domain access | FAMILY_HISTORY_ACCESS_GAIN_THROUGH_PRACTICAL_LABOR — Chizuru invites Kazuya into her childhood home and shares property and grandparent-linked material history. | Trust extends into bereavement property work and the family archive. | Task need explains the access, the house decision is open, and romantic classification does not change. | RAG-E-V028-013 through RAG-E-V028-015 |
+| RAG-PRG-167 | Family history | MATERNAL_IDENTITY_DISCLOSURE — Chizuru identifies the altar photo and early death. | A withheld object gains direct family meaning. | The disclosure is bounded and does not resolve grief or all family history. | RAG-E-V029-001 |
+| RAG-PRG-168 | Ordinary access | APARTMENT_PROXIMITY_LOSS_WITH_PRACTICAL_ROUTE — quake damage displaces the neighbors, and independent housing is financially constrained. | A familiar route regresses before a new arrangement is chosen. | Physical loss is not emotional rejection or completed house sale. | RAG-E-V029-003 through RAG-E-V029-005 |
+| RAG-PRG-169 | Investigation | LONELINESS_DISCLOSURE_AND_INTERRUPTED_TEST — Chizuru admits loneliness but a drunken approach to a kiss ends with taxi arrival. | Feeling is articulated without a settled classification. | No kiss or sober answer is shown. | RAG-E-V029-007 through RAG-E-V029-009 |
+| RAG-PRG-170 | Domestic access | BOUNDED_COHABITATION_GAIN_WITH_STATUS_STALL — Chizuru offers a one-month spare room and invites Mini. | The inquiry gains an everyday three-person setting. | Shelter is not a relationship agreement and Ruka remains uninformed on page. | RAG-E-V029-010 through RAG-E-V029-012 |
