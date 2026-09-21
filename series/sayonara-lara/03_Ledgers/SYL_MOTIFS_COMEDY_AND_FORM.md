@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E03 closed; static visual and Japanese textual form"
+source_boundary: "E04 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -34,3 +34,10 @@ source_boundary: "E03 closed; static visual and Japanese textual form"
 | SYL-F0014 | E03 S07-S11, S16 | Lara treats domestic devices and commerce as direct wish fulfillment | Water overflows, online cakes multiply, gift purchase requires help, and ordered cakes become shared food | Static progression + JP text | Comedy makes acclimation a material apprenticeship rather than effortless innocence | Extends E02 institutional illegibility into household labor and money | sheets 015-025, 043-044; cues 119-165, 225-255, 393-399 |
 | SYL-F0015 | E03 S12 | Lara mistakes rule-governed sparring for mutual killing and enters the ring | Her protective accusation produces laughter, interrupts Mari's fixation, and precedes a repaired second round | Static progression + JP text | Comic category error becomes socially consequential care rather than disposable gag | Repeats mythic/mundane mismatch while changing Mari's peer field | sheets 032-035; cues 298-330 |
 | SYL-F0016 | E03 S13-S14 | Qualified shelter and positive preference remain small, uncertain speech acts | Golden light expands across Lake Biwa; Lara's ring rises and reaches Lisa | Static progression + JP text | Links private relation to public magical consequence without fixing true-love taxonomy | Reverses lost-ring/drowning sequence; Lisa separately keeps true love prospective | sheets 037-040; cues 358-380; frames `001254`-`001292` |
+| SYL-F0017 | E04 S01/S05-S07/S14 | `王子さま` begins as a romance-media composite | Peers distribute it across boyfriend, idol, comedian, VTuber, proper-name pun, and future possibility | Static progression + JP text | Makes the prince a contested interpretive form rather than a singular answer | Extends Lara's E03 “prince in Shiga” search while multiplying non-dating relations | sheets 001, 013-020, 027-028; cues 1-18, 102-179, 343-347 |
+| SYL-F0018 | E04 S05 | Schoolgirls answer romance search with `推し` and non-dating admiration | Yoshiya repeatedly offers embodied availability while the girls prefer mediated figures | Static progression + JP text | Comedy exposes incompatible economies of desire without treating fandom as deficient | Links Lara's television education to modern parasocial vocabulary | sheets 014-015; cues 120-148 |
+| SYL-F0019 | E04 S11-S13 | Grace says one word can exclude and removes Lara's voice | Lara's inability to say the decisive words becomes her reason to push Himeka toward confession | Static progression + JP text | Converts silence from romantic purity/protection into an injury that produces a speech ethic | Reopens E01's wordless-light formulation from Lara's later viewpoint | sheets 024-027; cues 264-300 |
+| SYL-F0020 | E04 S10 | Television melodrama presents escalating rejection, alien departure, and impossible union | Lara treats each turn as existential evidence; Mari comments on her susceptibility | Static progression + JP text | Comedy shows media literacy as affective openness and conceptual overfitting at once | Continues E02-E03 institutional category errors while giving them romantic content | sheets 022-023; cues 240-263 |
+| SYL-F0021 | E04 S14 | Himeka supplies `友達` and asks Mari to confirm | Static frames prolong reactions among all three before Mari's minimal `うん` | Complete static progression + JP text | Makes relationship naming a witnessed social act rather than a private inference | Advances E03's unnamed future commitment into explicit friendship | sheets 027-028; cues 333-342; frames `000977`-`000997` |
+| SYL-F0022 | E04 S14-S16 | Mari redirects prince speculation toward choosing oysters and forgotten pork | Lara correctly selects food, volunteers, and completes a purchase before family contact interrupts the errand | Static progression + JP text | Ordinary competence becomes the measure of integration, not just magical success | Develops E03 domestic apprenticeship and shared food | sheets 028-030; cues 343-363 |
+| SYL-F0023 | E04 S16-S18 | Lara's recovered voice permits mediated reunion by phone | Physical reunion remains deferred; the call restores sisterhood while preserving distance and withheld information | Static progression + JP text | Voice becomes connection without guaranteeing access or transparency | Reverses E01 voiceless courtship and extends E03's deceptive guardian call | sheets 030-031, 035-036; cues 364-416 |

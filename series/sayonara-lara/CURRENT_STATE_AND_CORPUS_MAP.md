@@ -4,14 +4,14 @@ artifact_id: SYL_CURRENT_STATE
 artifact_type: corpus_map
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "Japanese-language TV anime E01-E03 closed at Japanese-caption and complete static-visual scope; E04-E12 inventoried"
+source_boundary: "Japanese-language TV anime E01-E04 closed at Japanese-caption and complete static-visual scope; E04 checkpoint complete; E05-E12 inventoried"
 canonical_home: series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -46,12 +46,12 @@ This is the single canonical first-read surface for the project. Primary media, 
 - Continuing branch: `series/sayonara-lara`
 - `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 - Planned and source-locked narrative boundary: E01-E12
-- Verified narrative transaction boundary: E03
-- Audiovisual closure: E01-E03 text/static transactions complete; no episode certified for auditory or continuous-video coverage
+- Verified narrative transaction boundary: E04 + E04 checkpoint
+- Audiovisual closure: E01-E04 text/static transactions complete; no episode certified for auditory or continuous-video coverage
 - Knowledge mode: source-bounded chronological reread with disclosed prior exposure to E01-E04 discussion and the ending
-- Current operation: open the E04 atomic transaction and complete the first scheduled checkpoint
-- Next sequential candidate: E04
-- Publication state: E03 is the current transaction boundary; branch push remains pending until the requested goal is complete
+- Current operation: close and commit the E04 atomic transaction and first scheduled checkpoint, then open E05
+- Next sequential candidate: E05
+- Publication state: E04 plus checkpoint is the current transaction boundary; branch push remains pending until the requested goal is complete
 
 ## Authorized sequential execution
 
@@ -61,8 +61,8 @@ sequential_execution:
   unit_type: episode
   authorized_start: E01
   terminal_boundary: E12
-  committed_high_water_mark: E03
-  next_candidate_operation: E04
+  committed_high_water_mark: E04
+  next_candidate_operation: E05
   confirmation_between_units: false
   run_state: active
 ```
@@ -94,10 +94,10 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 | Responsibility | State |
 |---|---|
 | Method, synthesis architecture, AV protocol, design sources | Canonical and adopted |
-| Source register and execution record | E01-E03 inspection recorded; E04-E12 inventory locked |
-| Six longitudinal ledgers | Synchronized through E03 |
+| Source register and execution record | E01-E04 inspection recorded; E05-E12 inventory locked |
+| Six longitudinal ledgers | Synchronized through E04 |
 | Legacy register | Historical/legacy and non-evidentiary |
-| Sequential readings | E01-E03 complete for declared Japanese-text/static-visual scope |
+| Sequential readings | E01-E04 complete for declared Japanese-text/static-visual scope; [E04 checkpoint](02_Episode_Readings/SYL_E04_CHECKPOINT.md) passed |
 | Monographs, relationship study, specialists, full synthesis | Not created; later phase/readiness gated |
 | Rowan monograph | Planned dedicated synthesis target; no placeholder |
 
@@ -107,12 +107,12 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 - `SYL-D0002`: continuous video is outside the supplied input boundary; motion, microperformance, editing-rhythm, and AV-synchrony claims may require targeted later escalation.
 - `SYL-D0003`: the supplied bundle contains the aligned Japanese caption derivative and provenance metadata but not the untouched ABEMA caption witness; disputed exact-wording claims require recovery of that witness.
 
-These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01 assigns claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in its reading and the debt register.
+These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01-E04 assign claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in their readings and the debt register.
 
 ## Latest closed transaction
 
-[Episode 03: Do Not Look Away](02_Episode_Readings/SYL_EP03_DEEP_READING.md) establishes Mari's inherited attention ethic and its tunnel-vision failure, Lara's rejection of exploiting Mari, the pair's future-directed but unnamed commitment, and the first event-level correlation among Lara's heart, generated light, and recovery of her lost ring. Grace's false guardian account makes continued shelter possible but ethically compromised.
+[Episode 04: Friends, Princes, and the Words Not Said](02_Episode_Readings/SYL_EP04_DEEP_READING.md) pluralizes the prince beyond dating, turns Lara's coerced voicelessness into an ethic of speech before regret, records Mari's first explicit acceptance of `友達`, and restores mediated sisterly contact through Kōta and Lisa. The [E04 checkpoint](02_Episode_Readings/SYL_E04_CHECKPOINT.md) passes G2 for declared text/static scope: friendship is current text, romance and the true-love mechanism remain open, and Lisa's affection coexists with information control.
 
 ## Next operation
 
-Open E04 from the locked source bundle, read the complete aligned Japanese witness, inspect all E04 contact sheets and necessary full-resolution frames, build an analyst scene map, then execute the required E04 checkpoint before proceeding to E05.
+After committing the closed E04 transaction and checkpoint, open E05 from the locked source bundle, read the complete aligned Japanese witness, inspect all E05 contact sheets and necessary full-resolution frames, and build the next analyst scene map before synchronization and commit.

@@ -4,14 +4,14 @@ artifact_id: SYL_RELATIONSHIP_TRAJECTORIES
 artifact_type: relationship_trajectory_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E03 closed; relationship events through negotiated continued shelter"
+source_boundary: "E04 closed; relationship events through named friendship and mediated sister contact"
 ---
 
 # Relationship trajectories ledger
@@ -34,5 +34,10 @@ source_boundary: "E03 closed; relationship events through negotiated continued s
 | SYL-R0014 | E03 | Mari -> Lara | Costly care with explicit short-term household boundary | Apologizes for tension, asks Lara not to look away, investigates her condition, offers uncertain help, restores shelter, and contextualizes Lara as a liked foolish/interesting person | None stated | Care becomes future-directed commitment and positive preference without a named relationship | Pity, responsibility, danger containment, or comic interest remain viable motives | E03 S12-S13; cues 327-374; sheets 034-038 |
 | SYL-R0015 | E03 | Grace -> Mari / Otsu household | Dependent pet with residual authority | Recommends deceiving Mari, minimizes rescue while admitting tank comfort, and later fabricates a guardian account to secure Lara's stay | Pet/household member only in Mari's framing | Grace depends on care while instrumentalizing the caregivers' trust | Deception may be the only available route to safe shelter | E03 S07/S11/S16; cues 112-116, 237-246, 381-392 |
 | SYL-R0016 | E03 | Lisa -> Lara | Loving but politically unreadable search | Recovers Lara's ring after a light event, identifies Lara's heart as saving light, and urges her toward true love | Royal-family relation still not exactly spoken | Search gains proof and a potential restoration instrument; intended encounter remains unknown | Recovery may be protective family action rather than instrumental pursuit | E03 S14; cues 375-380; sheets 039-040 |
+| SYL-R0017 | E04 | Himeka -> Ouji / Ouji -> Himeka | Names and shared history presumed to mean destined mutual romance | Himeka admits concealed love and confesses; Ouji says she is family-like and important but denies romantic feeling | Childhood family friends; asymmetric romance | Truth ends concealment without ending care; importance, family intimacy, and attraction remain distinct | Earlier confession might have altered timing, but the episode supplies no evidence it would create reciprocity | E04 S06-S13; cues 159-199, 238-240, 273-332 |
+| SYL-R0018 | E04 | Lara -> original prince | E01 established sincere unilateral love and violent rejection | Lara remembers him asking her name, calling their meeting destiny, and becoming important while she believed they communicated without words; she regrets being unable to say what mattered | Unnamed past courtship in Lara's account | Lara experienced apparent intimacy before disclosure, but reciprocity remains unverified and later rejection remains decisive | Memory framing may idealize the earlier interval; the prince's independent interiority is still absent | E04 S11-S12; cues 282-300; sheets 024-026 |
+| SYL-R0019 | E04 | Lara <-> Himeka | New school acquaintance | Lara listens, projects her own regret, presses Himeka to speak, and remains through rejection; Himeka resists, then thanks Lara and invites future visits | New acquaintance; Himeka calls Mari Lara's friend | Lara can affect and sustain a relation outside the household; help remains intrusive and imperfect | Himeka's decision may have arisen independently, and Lara's analogy may obscure important differences | E04 S06-S14; cues 155-179, 180-220, 221-300, 301-342 |
+| SYL-R0020 | E04 | Lara <-> Mari | Future-directed but unnamed commitment | Mari brings Lara to school under rules, retrieves her, stays through Himeka's crisis, entrusts a shopping errand, and answers `うん` when Himeka asks if she is Lara's friend | Friends | First mutually applicable explicit name; public/social and practical fields now join household care | Friendship does not decide whether later attraction or another category emerges | E04 S02-S04/S07/S13-S15; cues 28-90, 202-220, 302-363; frames `000977`-`000997` |
+| SYL-R0021 | E04 | Lisa -> Kōta -> Lara / Lara -> Lisa | Lisa's search and ring recovery without direct contact | Kōta approaches on Lisa's orders and mediates a phone call; sisters affirm survival and love; Lisa delays reunion, withholds location, and repeats Lara's exceptional status | Sisters explicitly; Kōta as present-named messenger/associate | Reciprocal family contact restored under Lisa's information control | Distance/danger may explain mediation; control is observed but motive remains open | E04 S16-S18; cues 364-416; sheets 030-031, 035-036 |
 
-Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points.
+Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points. At E04, `友達` is the observed current name of the dyad; it is not a final-exclusivity claim.

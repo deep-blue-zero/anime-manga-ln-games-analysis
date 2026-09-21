@@ -4,14 +4,14 @@ artifact_id: SYL_CLAIMS_AND_REVISIONS
 artifact_type: claims_revisions_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E03 closed; Japanese-caption and static-visual scope"
+source_boundary: "E04 closed; Japanese-caption and static-visual scope"
 ---
 
 # Claims and revisions ledger
@@ -37,5 +37,10 @@ This is the cumulative spine for consequential interpretive claims. Every claim 
 | SYL-C0015 | E03 | INTERPRETATION | Lara as passive object of Grace's direction | STRENGTHEN / COMPLICATE C0003 | Lara distinguishes reliance from exploitation and rejects Grace's proposal to deceive Mari, although her continued shelter later depends on Grace's deceptive guardian story. | E03 S07, S11, S16, cues 105-126, 231-255, 381-392; counterevidence: leaving may reproduce self-erasure rather than sustainable autonomy. | Lara and Grace monographs; ethics specialist | Later truth disclosure and independence evidence |
 | SYL-C0016 | E03 | OBSERVED + CAUSALITY OPEN | W0009 as inherited doctrine only | STRENGTHEN / TEST | Lara's emotionally charged exchange with Mari is formally and materially correlated with generated light and recovery of her lost ring; Lisa attributes saving light to Lara's heart, but no true-love object or completed mechanism is identified. | E03 S13-S14, cues 358-380, sheets 037-040, frames `001254`-`001292`; rival triggers include land-choice, relief, general connection, or unshown magic. | Love and causality specialists | Continuous interval D0002; later mechanism and relationship naming |
 | SYL-C0017 | E03 | INTERPRETATION | Otsu household as uncomplicated refuge | REVISE | The household practices bounded, negotiated care: its guardian inquiry is reasonable, while Lara's continuing practical belonging rests on Grace's false account and Lara's concealment. | E03 S10/S16, cues 193-204, 381-399; counterevidence: the household's welcome and material care remain genuine despite informational asymmetry. | Family/alienation specialist | Consequences of deception; household identities |
+| SYL-C0018 | E04 | OBSERVED + INTERPRETATION | Lara's prince as a stable romantic role | REVISE / EXPAND | “Prince” functions across physical projection, boyfriend, idol/favorite, non-dating admiration, punning proper name, and Lara's destined-partner quest; E04 explicitly denies that dating is the only relational goal. | E04 S01/S05-S07/S14, cues 1-18, 102-179, 343-347; counterevidence: Lara continues to use prince language for her own true-love search. | Love and form specialists; Lara monograph | Later prince candidates and true-love mechanism; D0001-D0003 |
+| SYL-C0019 | E04 | INTERPRETATION | Grace's removal of Lara's voice as protective necessity | STRENGTHEN / COMPLICATE C0003 | Lara converts coerced voicelessness and loss into an ethic of speaking before regret; Grace's intervention may reduce one social risk but removes Lara's self-naming and contestation capacity. | E04 S11-S13, cues 264-300; counterevidence: speech would not necessarily have changed the prince's rejection or Himeka's outcome. | Grace and Lara monographs; language/ethics specialist | Exact performance D0001; later voice/mechanism evidence |
+| SYL-C0020 | E04 | OBSERVED | C0006/C0014: reciprocal but unnamed Lara/Mari bond | STRENGTHEN / NAME | Mari explicitly accepts Himeka's `友達` description after an extended static reaction sequence. Friendship is current textual fact; romance, exclusivity, and final category remain unestablished. | E04 S14, cues 333-342, frames `000977`, `000979`, `000983`, `000986`, `000997`; counterevidence: no romantic lexicon or mutual romantic recognition appears. | Relationship study; Lara and Mari monographs | E05-E12 continuity; D0001-D0002 for performed pause |
+| SYL-C0021 | E04 | INTERPRETATION | Lara's land integration as rescue-dependent acclimation | STRENGTHEN / EXPAND | Lara begins limited independent social and practical participation: she seeks multiple viewpoints, sustains an acquaintance, recognizes food quality, volunteers for an errand, and completes a purchase. | E04 S05-S09/S12-S15; counterevidence: Mari still controls access, housing, rules, and most local legibility. | Lara monograph; alienation specialist | Later livelihood, mobility, disclosure, and reciprocal competence |
+| SYL-C0022 | E04 | OBSERVED + INTERPRETATION | C0012: Lisa as loving but politically unreadable seeker | STRENGTHEN / COMPLICATE | Lisa establishes reciprocal sisterly contact while controlling the timing, location, and information of reunion and reasserting Lara's exceptional-princess identity. | E04 S16-S18, cues 364-416; counterevidence: distance or danger may justify mediation, and the unfinished reservation is not yet interpretable. | Lisa readiness; family/law specialist | Later meeting, motive, and family-state verification; D0001-D0003 |
 
-`SYL-H0001`-`SYL-H0012` remain historical research questions. Only the transitions explicitly named above have entered current analysis.
+`SYL-H0001`-`SYL-H0012` remain historical research questions. Only the transitions explicitly named above have entered current analysis. The E04 checkpoint preserves friendship as an observed present name rather than a terminal relationship verdict.
