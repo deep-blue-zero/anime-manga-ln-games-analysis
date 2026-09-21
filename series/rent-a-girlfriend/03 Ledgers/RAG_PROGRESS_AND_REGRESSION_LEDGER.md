@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V023
-row_count: 133
-state: CURRENT_THROUGH_V023
+inspected_through_volume: V024
+row_count: 139
+state: CURRENT_THROUGH_V024
 ```
 ```
 
@@ -176,3 +176,9 @@ state: CURRENT_THROUGH_V023
 | RAG-PRG-131 | Ruka separation and consent | FURTHER_REGRESSION_THROUGH_PUBLIC_AND_PRIVATE_PRESSURE — she asserts girlfriend status, uses a false key story for bodily access, and repeats fabricated sexual evidence. | The attempted termination is answered by expanded coercive and deceptive conduct. | Kazuya objects, removes her, and denies the claim; no mutual status returns. | RAG-E-V023-012, RAG-E-V023-013, RAG-E-V023-017 |
 | RAG-PRG-132 | Wrapper verification | CORRECTION_GAIN_WITH_INCOMPLETE_RESOLUTION — Kazuya denies the claim and Chizuru questions him directly. | The fabricated object no longer operates as uncontested evidence. | The volume supplies no complete debrief or final belief statement. | RAG-E-V023-016 through RAG-E-V023-018 |
 | RAG-PRG-133 | Chizuru's family inclusion | MAJOR_AFFECTIVE_GAIN_WITH_DECEPTION_COST — Sayuri's remembered teaching lets Chizuru recognize the gathered group as present happiness and call the day the best. | The trip supplies explicit chosen-family value after bereavement. | The care remains organized through a false couple premise, and no ring or truth correction follows. | RAG-E-V023-020 through RAG-E-V023-022 |
+| RAG-PRG-134 | Chizuru's family inclusion | EXPLICIT_KINSHIP_GAIN_WITH_DECEPTION_COST — Nagomi directly tells Chizuru that her family is present and wants her happiness. | The implicit daughter-like route becomes stated chosen family after Chizuru's best-day appraisal. | Nagomi still acts under the false couple premise, so belonging and correction pressure rise together. | RAG-E-V024-002 |
+| RAG-PRG-135 | Ring obligation | PARTIAL_ETHICAL_RELEASE_WITH_EXECUTION_STALL — Harumi explicitly permits return without blame and separates care from retention. | A presumed family barrier to returning the ring is reduced. | Chizuru still cannot explain the false premise and does not complete the return. | RAG-E-V024-007 through RAG-E-V024-009, RAG-E-V024-011 |
+| RAG-PRG-136 | Ruka separation, truth, and consent | CONTINUED_REGRESSION_WITH_TACTICAL_NONDISCLOSURE — Ruka repeats fabricated sex evidence and demands classification while twice preserving the family cover herself. | Pressure on Chizuru intensifies without restoring reciprocal status or factual accuracy. | Her restraint before Nagomi prevents immediate exposure but does not correct the fabrication or create workable separation. | RAG-E-V024-003, RAG-E-V024-004, RAG-E-V024-011 through RAG-E-V024-013 |
+| RAG-PRG-137 | Mami's intervention route | FAMILY_FACING_ESCALATION_WITH_WITHHELD_ACTION — Mami judges the ring scene, privately frames restraint as help, and receives Nagomi's request to talk. | Her distributed pressure now converges with a direct family-initiated contact. | No disclosure, alliance, or conversation result completes. | RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019 |
+| RAG-PRG-138 | Kuribayashi-Ruka relation | NEW_DIRECT_ROUTE — Kuribayashi seeks Ruka out and states that he came to see her. | Former client and provider gain direct access outside Kazuya's management. | The purpose and response are withheld, so support, rejection, or status change cannot yet be assigned. | RAG-E-V024-018 |
+| RAG-PRG-139 | Kazuya's confession route | DIRECT_INITIATION_WITH_CONTENT_WITHHELD — after accepting anticipated rejection and loss, Kazuya runs to the chapel and asks Chizuru to listen. | Repeated internal deadlines become an observable direct address before the intended recipient. | The proposition, truth correction, and answer remain incomplete at the volume cut. | RAG-E-V024-020 through RAG-E-V024-022 |

@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023; predictions frozen before V024 narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024; predictions frozen before V025 narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V023
+inspected_through_volume: V024
 current_claim_count: 82
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V023__PREDICTIONS_FROZEN_FOR_V024
+state: CURRENT_THROUGH_V024__PREDICTIONS_FROZEN_FOR_V025
 ```
 
 ## Current claims
@@ -414,6 +414,24 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 | RAG-PRED-091 | Chizuru's direct wrapper question and Kazuya's denial will produce a clarification, trust judgment, confrontation, changed status inference, or further verification of Ruka's claim. | RAG-E-V023-016 through RAG-E-V023-018 | V024 supplies no consequence to the direct source check or contradictory accounts. |
 | RAG-PRED-092 | Chizuru's explicit best-day appraisal and chosen-family recognition inside a still-false family account will produce further family participation, care, guilt, boundary, ring, cover-story, or exposure consequence. | RAG-E-V023-020 through RAG-E-V023-022 | V024 supplies no consequence to the strengthened family belonging or its conflict with the uncorrected premise. |
 
+## Adjudicated predictions from the V023 boundary
+
+| Prediction ID | Adjudication | V024 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-089 | SUPPORTED | Kazuya fixes a same-day deadline, searches for Chizuru, reaches the chapel, and initiates direct speech; RAG-E-V024-010, RAG-E-V024-020 through RAG-E-V024-022. | The proposition, wider truth correction, and answer remain beyond the volume boundary. |
+| RAG-PRED-090 | SUPPORTED | Mami judges the souvenir-ring scene, a locked account in her sequence frames withheld action as help, same-day answer pressure remains active, and Nagomi requests a private talk; RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019. | No public disclosure or completed Nagomi-Mami conversation occurs. |
+| RAG-PRED-091 | SUPPORTED | Ruka repeats the wrapper claim and demands emotional classification; Chizuru then directly asks whether Kazuya still cares for Mami, and he denies wanting her while offering limited interpretive help; RAG-E-V024-012 through RAG-E-V024-015. | The wrapper receives no full factual debrief, and Chizuru's final trust judgment remains unstated. |
+| RAG-PRED-092 | SUPPORTED | Nagomi explicitly names Chizuru as family; Harumi offers care and releases her from compulsory ring retention; Ruka demands return and truth; and wedding and mortality history intensify the same obligation; RAG-E-V024-002, RAG-E-V024-007 through RAG-E-V024-009, RAG-E-V024-011 through RAG-E-V024-013, RAG-E-V024-016, RAG-E-V024-017. | Family care continues under the false premise, and neither ring return nor exposure completes. |
+
+## Frozen predictions for V025
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-093 | Kazuya's direct chapel approach and request that Chizuru listen will produce a completed romantic proposition or truth statement, an answer, an interruption, a flight, or another explicit deferral. | RAG-E-V024-020 through RAG-E-V024-022 | V025 supplies no consequence to the initiated chapel speech. |
+| RAG-PRED-094 | Mami's ring-scene judgment, intervention self-framing, same-day pressure, and Nagomi's request to talk will produce a family-facing conversation, disclosure threat or action, tactical delay, alliance test, or material information change. | RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019 | V025 supplies no consequence to Nagomi's message or Mami's active intervention stance. |
+| RAG-PRED-095 | Kuribayashi's direct statement that he came to see Ruka will produce a relationship-history discussion, support attempt, status response, rejection, or changed access between them. | RAG-E-V024-018 | V025 supplies no consequence to the initiated Kuribayashi-Ruka contact. |
+| RAG-PRED-096 | Harumi's permission to return the ring, Nagomi's family and wedding framing, and Ruka's disclosure pressure will produce a return attempt, explanation, continued concealment, family boundary, cover story, or exposure consequence. | RAG-E-V024-002, RAG-E-V024-007 through RAG-E-V024-009, RAG-E-V024-011 through RAG-E-V024-013, RAG-E-V024-016, RAG-E-V024-017 | V025 supplies no consequence to the ring-release and family-obligation conflict. |
+
 ## Open evidence questions
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
@@ -432,3 +450,6 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 - How will the mixed Nagomi, Kibe, Kuribayashi, Mami, Ruka, Kazuya, and Chizuru audience handle its incompatible knowledge sets?
 - Will Kazuya's direct denial and Chizuru's source check produce a complete correction of Ruka's fabricated sex evidence?
 - How will Chizuru balance newly explicit chosen-family value against the ring and false couple premise?
+- What proposition or truth account follows Kazuya's initiated chapel address, and how does Chizuru respond?
+- What information or intervention follows Nagomi's direct request to speak with Mami?
+- Why does Kuribayashi seek Ruka directly, and how does their former client-provider history affect the exchange?

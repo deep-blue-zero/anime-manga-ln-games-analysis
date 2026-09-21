@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V023
-row_count: 128
-state: CURRENT_THROUGH_V023
+inspected_through_volume: V024
+row_count: 134
+state: CURRENT_THROUGH_V024
 ```
 
 ## Records
@@ -170,3 +170,9 @@ state: CURRENT_THROUGH_V023
 | RAG-FRM-126 | The torn wrapper returns from hidden portable evidence to a shared visible dispute. | Ruka displays and narrates it, Kazuya denies the event, and Chizuru initiates a source check. | Repetition changes the prop from unilateral persuasion into contested evidence. | Visibility and repetition cannot make the fabricated event true or settle Chizuru's final belief; RAG-E-V023-016 through RAG-E-V023-018. |
 | RAG-FRM-127 | A sleeve pull and the short question about lying compress a large relational conflict into direct private address. | Chizuru exits the group flow long enough to test Kazuya's credibility. | Minimal dialogue marks a shift from silent possession of the wrapper to active verification. | Brevity withholds the complete answer and should not be read as romantic resolution; RAG-E-V023-018. |
 | RAG-FRM-128 | Sayuri flashback, group tableau, tearful close-ups, and Chizuru's final smile convert a resort show into chosen-family recognition. | Remembered teaching about finding present happiness is visually answered by the people gathered around her. | Cross-temporal montage gives bereavement memory a current social consequence. | Formal linkage does not validate the false couple story or identify one person as Chizuru's romantic choice; RAG-E-V023-020 through RAG-E-V023-022. |
+| RAG-FRM-129 | Parallel night-bath and family-room conversations divide the lie into ethical intention and received belonging. | Kazuya is asked whether his wish for Chizuru's happiness is true while Nagomi tells Chizuru that her family is present. | Crosscut private conversations align the principals around care without giving either a shared factual correction. | The formal parallel does not justify the deception or prove romantic reciprocity; RAG-E-V024-001, RAG-E-V024-002. |
+| RAG-FRM-130 | The inherited ring is repeated through an 800-yen souvenir ring under Mami's gaze. | Harumi verbally releases the old ring's obligation, then a playful substitute recreates family and bridal imagery. | Object repetition lets care, reduced compulsion, and Mami's contradiction judgment occupy the same sequence. | Visual bridal coding does not establish Chizuru's intent or make Mami's reading authoritative; RAG-E-V024-007 through RAG-E-V024-009. |
+| RAG-FRM-131 | Restroom doors, repeated entrances, and birthday-gift cover stories interrupt Ruka's direct status interrogation. | Ruka presses for ring return and favorite-person classification but twice protects the deception when Nagomi appears. | Threshold staging makes public exposure physically near while preserving private rivalry. | Near exposure is not completed disclosure, and repetition does not validate Ruka's fabricated claim; RAG-E-V024-011 through RAG-E-V024-013. |
+| RAG-FRM-132 | Chizuru's direct Mami question, Kazuya's denial, and a locked social feed distribute former-partner interpretation across speech and screen. | One route gives Chizuru a direct answer; the other gives the reader an interested restraint-and-resentment self-framing. | Alternating access preserves incompatible appraisals without collapsing them into a single motive. | Account attribution is sequence-supported, and neither inner sequence supplies Chizuru's romantic answer; RAG-E-V024-014, RAG-E-V024-015. |
+| RAG-FRM-133 | Resort paths and the wedding-site revelation turn an ordinary walk into multigenerational memory. | Nagomi links the current trip to Kazuo and Harumi's wedding, mortality, and twenty-one years of Kazuya's life. | Place repetition makes the family setting both a gift and a pressure amplifier. | Memorial framing does not show that Nagomi knows the rental truth; RAG-E-V024-016, RAG-E-V024-017. |
+| RAG-FRM-134 | An extended memory montage and running sequence terminate at the chapel threshold and a cut-off request to listen. | Repeated recollections of Chizuru's care convert Kazuya's internal resolve into direct physical approach and speech. | The volume-ending cut establishes initiation while withholding proposition and answer. | Montage intensity and chapel imagery do not complete confession or create reciprocal status; RAG-E-V024-020 through RAG-E-V024-022. |

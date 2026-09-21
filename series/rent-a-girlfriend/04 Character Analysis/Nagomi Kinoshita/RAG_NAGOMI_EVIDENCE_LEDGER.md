@@ -4,13 +4,13 @@ artifact_id: RAG_NAGOMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; character evidence inspected through V023."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; character evidence inspected through V024."
 ---
 
 # Nagomi Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V023
+inspected_through_volume: V024
 local_readiness: UNMODELED
 ~~~
 
@@ -55,6 +55,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-NAG-E015 | NAG-S007 | RAG-E-V022-008, RAG-E-V022-015, RAG-E-V022-016 | Group expansion and external-contact inclusion; social coordination | Adds Kibe and Kuribayashi for peer company and incorporates Mami after learning she will be nearby, while introducing Ruka as Chizuru's close friend. | Builds a socially rich support group from relations she understands only partly. | She does not know the rental, former-partner, trial, or rivalry facts that structure the group. | none; model withheld |
 | RAG-NAG-E016 | NAG-S007 | RAG-E-V022-018 | Public-project knowledge and family praise; information state | States knowledge of Chizuru's acting and Kazuya's crowdfunding-producer work and evaluates it positively. | Extends her model of the apparent couple through accurate professional facts. | Accurate project knowledge does not correct the romantic falsehood or establish its source in full. | none; model withheld |
 | RAG-NAG-E017 | NAG-S008 | RAG-E-V023-008, RAG-E-V023-020 through RAG-E-V023-022 | Continued daughter-like inclusion and received care; chosen family | Embraces Chizuru and sustains the group experience that Chizuru later interprets through Sayuri's teaching and calls the best. | Her organized care has a directly observed positive consequence for Chizuru after bereavement. | Nagomi remains outside the rental, breakup, former-partner, and fabricated-evidence facts; positive effect does not validate the premise. | none; model withheld |
+| RAG-NAG-E018 | NAG-S009 | RAG-E-V024-002 | Explicit family assurance after bereavement | Tells Chizuru that Sayuri cannot be replaced, that people who want her happiness are present, and that her family is here. | Converts daughter-like conduct into direct chosen-family language. | The assurance remains attached to the false belief that Chizuru is Kazuya's genuine partner. | none; model withheld |
+| RAG-NAG-E019 | NAG-S009 | RAG-E-V024-003, RAG-E-V024-016, RAG-E-V024-017 | Conditional support, wedding-site memory, and maternal-family history | Tells Ruka she would support the person Kazuya chooses, identifies the resort as Kazuo and Harumi's wedding site, invokes mortality, and thanks Kazuya for twenty-one years. | Makes Kazuya's happiness and durable family memory explicit values. | Her statements are made without the rental, breakup, or rival-fabrication facts. | none; model withheld |
+| RAG-NAG-E020 | NAG-S009 | RAG-E-V024-019 | Direct request to speak with Mami | Messages Mami that she wants to talk. | Initiates a private family-facing contact with the embedded former partner. | Topic, purpose, and outcome remain withheld. | none; model withheld |
 
 ## State-change summary
 
@@ -66,20 +69,21 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - NAG-S006 — recurring external contact and family-call hub: treats Mami as credible across repeated meetings and participates in separate direct calls whose next scheduling or disclosure consequence is withheld.
 - NAG-S007 — bereavement-care trip organizer under compounded false premises: creates sustained family access for Chizuru, adds peers and Mami, and praises the film route while remaining unaware of the rental, former-partner, and rivalry histories.
 - NAG-S008 — chosen-family caregiver with an observed positive consequence: sustains daughter-like inclusion during the trip, and Chizuru explicitly interprets the resulting group experience through Sayuri's teaching and calls the day the best while Nagomi remains uninformed about the account's false basis.
+- NAG-S009 — explicit family assurer and direct contact initiator: tells Chizuru that her family is present, says Kazuya's chosen happiness would govern her support, links the resort to Kazuo and Harumi's wedding, thanks Kazuya for twenty-one years, and asks Mami to speak while remaining uninformed about the central account conflicts.
 
 ## Written-speech and ordinary-conduct notes
 
 - Nagomi speaks directly and often converts family feeling into concrete access, events, objects, or introductions.
 - Her attachment to Chizuru expands from girlfriend approval into daughter-like language and material support.
 - She can reinterpret a symbolic object pragmatically when Chizuru resists its formal meaning.
-- Evidence outside the central couple premise is limited to hospital routine, family-business context, event and travel organization, bereavement response, and the V020-V023 service and trip contacts.
+- Evidence outside the central couple premise is limited to hospital routine, family-business context, event and travel organization, bereavement response, and the V020-V024 service and trip contacts.
 
 ## Gaps and negative evidence
 
 - Nagomi has not been observed responding to the full rental-girlfriend history or to a truthful correction of the couple premise.
 - Her broader history, independent friendships, ordinary business decision-making, and long-term response to disagreement are sparse.
 - Strong care does not erase the pressure created by family expectation, lover classification, or the engagement ring.
-- No evidence through V023 shows that she knows Mami's former relationship with Kazuya, Ruka's claimed trial relation, Chizuru's rental history, or the fabricated wrapper claim.
+- No evidence through V024 shows that she knows Mami's former relationship with Kazuya, Ruka's claimed trial relation, Chizuru's rental history, or the fabricated wrapper claim.
 - The available contexts are too concentrated in one false family premise for reliable behavior generalization.
 
 ## Update rule

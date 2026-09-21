@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V023
-row_count: 119
-state: CURRENT_THROUGH_V023
+inspected_through_volume: V024
+row_count: 125
+state: CURRENT_THROUGH_V024
 ```
 
 ## Records
@@ -161,3 +161,9 @@ state: CURRENT_THROUGH_V023
 | RAG-TXN-117 | Kazuya and Mami; selective disclosure and requested cover cooperation | Former-partner history supplies context but no duty to conceal or expose. | Kazuya admits the lie and requests temporary unawareness; Mami questions trust and timing. | Candor to Mami does not authorize indefinite family deception or compel her cooperation. | A negotiated information problem replaces pure mutual suspicion without reaching agreement; RAG-E-V023-008 through RAG-E-V023-011. |
 | RAG-TXN-118 | Ruka, Kazuya, and Chizuru; false access pretext and fabricated sexual evidence | Neither disputed trial status nor rivalry authorizes deceptive isolation, touch, or false sexual claims. | Kazuya may refuse, remove Ruka, and deny the event; Chizuru may verify independently. | Ruka's feeling and the wrapper's material form create no consent, truth, or relational debt. | The tactic becomes directly contested but not fully repaired; RAG-E-V023-012, RAG-E-V023-013, RAG-E-V023-016 through RAG-E-V023-018. |
 | RAG-TXN-119 | Nagomi, Chizuru, and the group; hospitality and chosen-family benefit | Nagomi's organized trip and group access are supplied as care under the believed couple relation. | Chizuru may receive and value the experience while retaining control over truth and status. | Emotional benefit creates gratitude and pressure but no duty to marry, remain deceptive, or reciprocate romantically. | The day becomes explicitly valuable while the premise remains uncorrected; RAG-E-V023-020 through RAG-E-V023-022. |
+| RAG-TXN-120 | Chizuru and Kazuya; unreportable trip compensation | Chizuru says the lodging cannot be submitted through the agency and proposes approximately two empty-date payments. | She voluntarily preserves a professional account while also naming the trip's personal enjoyment. | Payment discussion creates no romantic entitlement, and no exact amount or platform-approved process is settled. | The family event remains economically ambiguous but not silently free; RAG-E-V024-005, RAG-E-V024-006. |
+| RAG-TXN-121 | Harumi and Chizuru; inherited ring, consultation, and souvenir ring | Harumi offers maternal support, explicitly permits return of the inherited ring, and buys an 800-yen souvenir ring. | Care and a small gift are voluntary; retention of the engagement-coded object is not made obligatory. | Family affection creates no marriage duty or requirement to keep either ring. | Chizuru receives care without completing the truthful explanation or inherited-ring return; RAG-E-V024-007 through RAG-E-V024-009. |
+| RAG-TXN-122 | Ruka and Chizuru; ring, status, and sexual-history interrogation | No contract authorizes Ruka to compel emotional classification, ring disposition, or acceptance of a fabricated sex claim. | Chizuru may answer, refuse, verify, or disclose on her own terms; Ruka may argue for truth but not manufacture evidence. | Nagomi's entrances do not impose disclosure, and Ruka herself chooses cover stories. | Private pressure increases while factual and relational resolution remains absent; RAG-E-V024-011 through RAG-E-V024-013. |
+| RAG-TXN-123 | Chizuru and Kazuya; former-partner clarification outside booking | No payment or family bargain governs Chizuru's direct question or Kazuya's answer about Mami. | She may ask, and he may deny, explain, or offer limited help without receiving romantic consideration. | Information exchange does not compel Chizuru to classify herself or accept a plan. | Present preference becomes clearer while Mami's motive and the shared response remain unresolved; RAG-E-V024-014, RAG-E-V024-015. |
+| RAG-TXN-124 | Kuribayashi and Ruka; direct former-client/provider contact | Kuribayashi seeks Ruka without a shown booking, payment, or mediated obligation. | He may request conversation, and she may accept, refuse, or redefine the access. | Their prior rental history creates context but no standing personal entitlement. | Direct access opens without an observed response or outcome; RAG-E-V024-018. |
+| RAG-TXN-125 | Kazuya and Chizuru; initiated chapel confession | No service, project, family, or prior-care debt requires Chizuru to hear indefinitely, answer, accept, or reciprocate. | Kazuya may offer truthful speech and accept rejection; Chizuru retains control over response and classification. | The request to listen grants no romantic status or bodily access. | Direct initiation occurs, but content and outcome are withheld; RAG-E-V024-020 through RAG-E-V024-022. |

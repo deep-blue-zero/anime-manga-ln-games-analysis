@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V023
-row_count: 107
-state: CURRENT_THROUGH_V023
+inspected_through_volume: V024
+row_count: 112
+state: CURRENT_THROUGH_V024
 ```
 
 ## Records
@@ -149,3 +149,8 @@ state: CURRENT_THROUGH_V023
 | RAG-CHR-105 | RAG-E-V023-012 through RAG-E-V023-016 | Ruka's public girlfriend declaration is followed by the false-key isolation, Mami's status and disclosure tests, and the wrapper's changing-room reappearance. | The sequence moves from public claim to private pressure and coalition testing. | Some conversations occur in adjacent resort spaces without precise clock times. |
 | RAG-CHR-106 | RAG-E-V023-017, RAG-E-V023-018 | Ruka repeats the sex claim before Kazuya, he denies it, and Chizuru then asks him directly whether he lied. | Contradiction and source check occur in immediate order. | The following response is not fully articulated before the group continues. |
 | RAG-CHR-107 | RAG-E-V023-019 through RAG-E-V023-022 | At dinner and the resort show, Kazuya renews his trip-ending vow; Chizuru recalls Sayuri's teaching, recognizes the gathered group, and calls the day the best. | Same-evening order and the memory-to-appraisal sequence are explicit. | The volume does not establish the calendar date, confession completion, or later night events. |
+| RAG-CHR-108 | RAG-E-V024-001 through RAG-E-V024-004 | The night-bath lie discussion precedes Nagomi's explicit family assurance to Chizuru and Ruka's private hypothetical test of Nagomi, after which Ruka withholds disclosure. | All events occur during the first resort night after V023's show sequence. | Exact clock times and the older man's identity are not fully specified. |
+| RAG-CHR-109 | RAG-E-V024-005 through RAG-E-V024-009 | Chizuru's vending-area payment proposal and positive trip appraisal precede Harumi's fertility history, ring-release permission, souvenir-ring gift, and Mami's judgment. | Vending, private talk, and souvenir-shop order are represented. | Exact duration and whether Mami hears the private Harumi conversation are unstated. |
+| RAG-CHR-110 | RAG-E-V024-010 through RAG-E-V024-013 | The next morning, Chizuru sees Ruka beside Kazuya; Kazuya sets a same-day confession deadline; Ruka then confronts Chizuru twice around Nagomi's interruptions. | Morning order and the confession's “today” anchor are explicit. | No calendar date or precise hour beyond the pool plan is established. |
+| RAG-CHR-111 | RAG-E-V024-014 through RAG-E-V024-019 | Chizuru's Mami question and Kazuya's denial precede Nagomi's wedding-site walk, her thanks for Kazuya's twenty-one years, Kuribayashi's approach to Ruka, and Nagomi's message to Mami. | The resort sequence converges several direct-contact routes before the chapel climax. | Some adjacent scenes are crosscut, and their minute-level simultaneity is not established. |
+| RAG-CHR-112 | RAG-E-V024-020 through RAG-E-V024-022 | Kazuya's review of accumulated costs becomes a run to the chapel and a direct request that Chizuru listen. | This is the final main-narrative action of V024. | The proposition, wider truth account, and response occur beyond the volume boundary. |

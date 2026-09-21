@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V023
-row_count: 136
-state: CURRENT_THROUGH_V023
+inspected_through_volume: V024
+row_count: 143
+state: CURRENT_THROUGH_V024
 ```
 
 ## Records
@@ -178,3 +178,10 @@ state: CURRENT_THROUGH_V023
 | RAG-INF-134 | Mami tells Ruka the family believes Chizuru is a future bride, asks whether Chizuru likes Kazuya, and tests whether Ruka will tell Nagomi. | A private dialogue integrates rental, family, and rivalry propositions. | Mami uses one partly informed actor to test both romantic inference and disclosure capacity. | Suspicion is not Chizuru's self-report, and no disclosure pact follows; RAG-E-V023-014 through RAG-E-V023-016. |
 | RAG-INF-135 | Ruka repeats the false sex claim before Kazuya and Chizuru, and Kazuya directly denies it. | The fabricated wrapper and verbal account meet immediate contradictory testimony from the alleged participant. | Chizuru's information state now contains a direct dispute rather than unchallenged material appearance. | Kazuya does not yet provide a full history of the trial or fabrication; RAG-E-V023-016, RAG-E-V023-017. |
 | RAG-INF-136 | Chizuru directly checks the disputed claim with Kazuya. | She pulls him aside and asks whether he lied. | Verification becomes an interpersonal test rather than a private inference. | The volume withholds a complete answer exchange and her final belief; RAG-E-V023-018. |
+| RAG-INF-137 | Ruka learns that Nagomi would support the person Kazuya actually chooses, even if that person were not Chizuru. | She tests Nagomi through a hypothetical real-girlfriend claim and marriage question. | Ruka approaches disclosure but withholds her own claim, leaving Nagomi's false model intact. | Nagomi's answer is uninformed and does not establish acceptance of Ruka under full facts; RAG-E-V024-003, RAG-E-V024-004. |
+| RAG-INF-138 | Chizuru and Kazuya share both a proposed accounting workaround and her direct positive appraisal of the trip. | She says lodging cannot be reported, proposes approximately two date payments, and calls the ordinary activities refreshing and fun. | Professional and personal information coexist in one unbooked exchange. | The amount is not settled, and enjoyment does not answer Kazuya romantically; RAG-E-V024-005, RAG-E-V024-006. |
+| RAG-INF-139 | Harumi knows that Chizuru retains the family ring and tells her that return is permissible. | She asks directly, gives family history, and releases Chizuru from anticipated resentment. | One apparent family authority removes a presumed barrier to return while remaining outside the rental truth. | Harumi still believes Chizuru is Kazuya's genuine partner, and no return occurs; RAG-E-V024-007, RAG-E-V024-008. |
+| RAG-INF-140 | Mami observes Chizuru accept souvenir-ring participation and interprets it as contradicting her earlier denials. | She watches the shop scene, calls Chizuru a liar, and appears in a locked-account sequence that frames silence as help. | Visual family participation becomes new evidence inside Mami's intervention model. | The interpretation is Mami's, and the account's public identity is not verified; RAG-E-V024-009, RAG-E-V024-015. |
+| RAG-INF-141 | Chizuru receives a direct present-preference answer about Mami. | She asks whether Kazuya knew Mami would attend and still cares for her; he says he does not want Mami and regards her as dangerous. | A former-partner ambiguity becomes directly answerable between Kazuya and Chizuru. | Kazuya's answer does not reveal Mami's motive, settle the wrapper dispute in full, or classify Chizuru; RAG-E-V024-014, RAG-E-V024-015. |
+| RAG-INF-142 | Nagomi supplies accurate family-history and age anchors while continuing the false couple account. | She identifies Hawaiians as Kazuo and Harumi's wedding site and thanks Kazuya for twenty-one years. | True chronology deepens an inaccurate relational interpretation and raises correction cost. | Kazuya's brief fear that Nagomi knows the truth is unsupported by her speech; RAG-E-V024-016, RAG-E-V024-017. |
+| RAG-INF-143 | Three consequential conversations are initiated without their content completing. | Kuribayashi tells Ruka he came to see her, Nagomi asks Mami to talk, and Kazuya asks Chizuru to listen at the chapel. | The volume endpoint converts separate information routes into direct access events. | Purpose, disclosed propositions, and responses remain beyond V024; RAG-E-V024-018 through RAG-E-V024-022. |

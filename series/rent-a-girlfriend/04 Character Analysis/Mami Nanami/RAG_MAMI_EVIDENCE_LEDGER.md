@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; character evidence inspected through V023, including negative-evidence review for V011-V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; character evidence inspected through V024, including negative-evidence review for V011-V019."
 ---
 
 # Mami Nanami evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 七海麻美
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V023
+inspected_through_volume: V024
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -66,6 +66,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MAM-E026 | MAM-S008 | RAG-E-V023-006, RAG-E-V023-008 | Independent profile verification and conditional disclosure warning | Searches Chizuru's rental profile and tells her that exposure will not occur suddenly without warning. | Combines documentary verification with explicit control over disclosure timing. | Warning language promises neither permanent silence nor a benign endpoint. | RAG-MAM-R002, RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R008 |
 | RAG-MAM-E027 | MAM-S008 | RAG-E-V023-008 through RAG-E-V023-011 | Kazuya truth-plan test and concern presentation | Receives his admission of the cover lie, asks whether he trusts her and will correct it, and says she wants him happy while recalling their dating month. | Elicits explicit sequencing information while preserving a caring former-partner register. | Later private affect permits strategic interpretation but does not invalidate every stated concern. | RAG-MAM-R003, RAG-MAM-R004, RAG-MAM-R006, RAG-MAM-R008 |
 | RAG-MAM-E028 | MAM-S008 | RAG-E-V023-014 through RAG-E-V023-016 | Ruka status, Chizuru-feeling, and Nagomi-disclosure test | Contrasts paid performance with the family's bride belief, asks whether Chizuru likes Kazuya, and asks what Ruka will do when disclosure becomes possible. | Tests both the rival's insecurity and her usefulness as a family-facing actor. | No alliance, public disclosure, or final intended beneficiary is established. | RAG-MAM-R001, RAG-MAM-R006, RAG-MAM-R008 |
+| RAG-MAM-E029 | MAM-S009 | RAG-E-V024-009, RAG-E-V024-015 | Ring-scene contradiction judgment and private restraint framing | Watches Chizuru try Harumi's souvenir ring, privately calls her a liar, and appears in a locked-account sequence framing silence as help while resenting likely villain status. | Converts family-coded participation into new evidence and presents her own delay as intervention on Chizuru's behalf. | The judgment is interested, account attribution is sequence-supported, and mixed motive remains possible. | RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R008, RAG-MAM-R009 |
+| RAG-MAM-E030 | MAM-S009 | RAG-E-V024-019 | Direct family-initiated contact under same-day pressure | Receives Nagomi's message requesting a private talk while the chapel deadline converges. | Her family route becomes answerable from Nagomi's direction rather than only through Mami's initiative. | The conversation content, her response, and any disclosure remain beyond V024. | RAG-MAM-R005, RAG-MAM-R007, RAG-MAM-R008, RAG-MAM-R009 |
 
 ## State-change summary
 
@@ -77,8 +79,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MAM-S006 — evidence-consolidating direct intervener: builds repeat family credibility, combines the public film record with apartment residue, gives Chizuru an interested former-partner account, claims ally status, proposes ending the situation, and calls Nagomi directly.
 - MAM-S007 — embedded trip observer with calibrated disclosure: combines prior resort lodging and the Nagomi route to join the family group, carries project knowledge and an ending objective into the mixed audience, and answers Kuribayashi without revealing her full position.
 - MAM-S008 — parallel target tester with controlled disclosure leverage: probes Ruka's attachment and willingness to involve Nagomi, verifies Chizuru's active profile, promises warning rather than silence, elicits Kazuya's cover admission and confession-first correction plan, and preserves a caring register while her endpoint remains unknown.
+- MAM-S009 — contradiction judge under family-initiated contact: treats Chizuru's souvenir-ring participation as inconsistent with her disclaimers, privately frames withheld action as help while anticipating villain status, and receives Nagomi's direct request to talk before any public disclosure completes.
 
-V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, V021 makes its use direct, V022 converts family and venue access into trip inclusion, and V023 uses that access for parallel probes of Ruka, Chizuru, and Kazuya without retroactively filling the earlier gaps. Absence from the page is not evidence of inactivity or a stable plan.
+V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, V021 makes its use direct, V022 converts family and venue access into trip inclusion, V023 uses that access for parallel probes, and V024 adds explicit contradiction judgment and family-initiated contact without retroactively filling the earlier gaps. Absence from the page is not evidence of inactivity or a stable plan.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -87,6 +90,7 @@ V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Ma
 - Her information work crosses direct observation, platform search, alternate-name booking, social-account following, Twitter contact, and an intermediary-assisted family meeting.
 - She often preserves asymmetric knowledge: she asks others to explain more than she discloses about her own endpoint.
 - V023 shows a repeatable parallel-probe form: she adapts concern, trust, service-rule, and family-disclosure language to different targets while collecting their attachment, belief, and intended-action information (RAG-E-V023-004, RAG-E-V023-006, RAG-E-V023-008 through RAG-E-V023-016).
+- V024 adds a private self-framing in which silence is help and likely blame is unfair, while the souvenir-ring scene supplies a new contradiction in her model and Nagomi initiates the next contact (RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019).
 - Ordinary-life coverage remains narrow. University peer contact, café-linked social access, smartphone-service planning, and online research are shown, but sustained work, home, family, friendship, and low-stakes routine are not.
 
 ## Gaps and negative evidence

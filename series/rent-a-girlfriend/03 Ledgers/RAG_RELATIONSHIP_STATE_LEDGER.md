@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; inspected and closed through V023."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; inspected and closed through V024."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V023
-row_count: 128
-state: CURRENT_THROUGH_V023
+inspected_through_volume: V024
+row_count: 135
+state: CURRENT_THROUGH_V024
 ```
 ```
 
@@ -171,3 +171,10 @@ state: CURRENT_THROUGH_V023
 | RAG-REL-126 | Ruka → Kazuya | Unilateral claimant expanding public and bodily pressure after withdrawal | Declares girlfriend status, engineers isolation through a false key story, presses him, and demands affirmation of a sexual relation. | Pursuit crosses peer display, deception, and bodily access. | Kazuya objects, removes her, and denies the claim; no reciprocal status exists. | RAG-E-V023-012, RAG-E-V023-013, RAG-E-V023-017 |
 | RAG-REL-127 | Chizuru ↔ Kazuya | Operational allies entering direct credibility testing | Chizuru hears his denial of Ruka's sex claim, pulls him aside, and asks whether he lied. | Rival-produced uncertainty becomes a direct question between the principals. | The exchange does not supply a complete answer, trust verdict, or romantic classification. | RAG-E-V023-016 through RAG-E-V023-018 |
 | RAG-REL-128 | Nagomi → Chizuru | Chosen-family host whose care becomes explicitly meaningful | Embraces and includes Chizuru in the group experience that Chizuru later identifies as the best and interprets through Sayuri's family teaching. | Daughter-like care gains direct positive reception after bereavement. | Nagomi still acts from the false girlfriend premise and lacks the intervention history. | RAG-E-V023-008, RAG-E-V023-020 through RAG-E-V023-022 |
+| RAG-REL-129 | Nagomi → Chizuru | Chosen-family caregiver whose inclusion has been positively received | Explicitly says that Sayuri cannot be replaced but that Chizuru's family is present and wants her happiness. | Daughter-like conduct becomes direct kinship language. | The assurance remains conditioned by an uncorrected belief that Chizuru is Kazuya's partner. | RAG-E-V024-002 |
+| RAG-REL-130 | Harumi → Chizuru | Kazuya's mother addressing an apparent future family member | Shares fertility history, calls Chizuru her treasure's treasure, offers consultation, and permits ring return without blame. | Maternal care is separated from compulsory retention of the engagement-coded object. | Harumi lacks the rental truth, and the permission does not itself correct the relationship premise. | RAG-E-V024-007 through RAG-E-V024-009 |
+| RAG-REL-131 | Ruka → Nagomi | Rival testing a family gatekeeper while preserving the cover | Uses a hypothetical real-girlfriend claim, hears that Kazuya's choice controls Nagomi's support, and stops before self-disclosure. | Ruka gains direct information about the family's conditional acceptance without changing Nagomi's factual model. | Tactical silence does not establish acceptance of Chizuru or abandonment of later disclosure. | RAG-E-V024-003, RAG-E-V024-004 |
+| RAG-REL-132 | Ruka → Chizuru | Rival using moral, status, and fabricated-evidence pressure | Demands ring return and truth, asks favorite person versus customer, repeats the false sex claim, and twice covers before Nagomi. | Direct classification pressure intensifies while public exposure remains deferred by Ruka herself. | Chizuru supplies no answer, and Ruka's moral argument does not make the fabricated event true. | RAG-E-V024-011 through RAG-E-V024-013 |
+| RAG-REL-133 | Kazuya ↔ Chizuru | Operational allies under former-partner ambiguity and a confession deadline | Chizuru positively appraises the trip, directly asks whether Kazuya still wants Mami, receives his denial, and is approached at the chapel for direct speech. | Their unbooked credibility route now includes present-preference clarification and initiated confession access. | Chizuru gives no romantic classification, and the chapel proposition and answer are withheld. | RAG-E-V024-006, RAG-E-V024-014, RAG-E-V024-015, RAG-E-V024-020 through RAG-E-V024-022 |
+| RAG-REL-134 | Mami → Chizuru | Embedded intervener evaluating inconsistency between disclaimers and family participation | Watches the souvenir-ring scene, privately judges Chizuru a liar, and appears in a sequence framing restraint as help while resenting likely villain status. | Mami's relation to Chizuru now includes explicit moral judgment and same-day result pressure. | Her private framing is interested, account attribution is sequence-supported, and no public intervention completes. | RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019 |
+| RAG-REL-135 | Kuribayashi → Ruka | Former rental client initiating direct contact with the former provider | Seeks Ruka out and says that he came to see her. | A relation previously mediated through Kazuya gains direct voluntary access. | Purpose, response, and any revised client-provider or peer classification remain deferred. | RAG-E-V024-018 |

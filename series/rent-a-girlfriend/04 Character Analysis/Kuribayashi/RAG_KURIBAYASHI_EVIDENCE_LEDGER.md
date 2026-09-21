@@ -4,13 +4,13 @@ artifact_id: RAG_KURIBAYASHI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V023; character evidence inspected through V023, with no material V021 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V024; character evidence inspected through V024, with no material V021 conduct."
 ---
 
 # Kuribayashi evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V023
+inspected_through_volume: V024
 local_readiness: UNMODELED
 ~~~
 
@@ -51,6 +51,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KUR-E010 | KUR-S005 | RAG-E-V022-009 | Friend request and split-audience containment; secrecy management | Receives Kazuya's plea to manage what Kuribayashi knows while Kibe and Nagomi retain the public story. | Becomes an active participant in local information containment. | Compliance under pressure does not prove approval or a general secrecy preference. | none; model withheld |
 | RAG-KUR-E011 | KUR-S005 | RAG-E-V022-020 | Direct probe to Mami; continuing rental context | Asks Mami whether she knows Chizuru and whether Chizuru still performs rental-girlfriend work. | Tests another partly informed traveler rather than relying only on Kazuya's account. | Mami's limited answer does not give him the full network or establish coordination. | none; model withheld |
 | RAG-KUR-E012 | KUR-S006 | RAG-E-V023-012 | Public Ruka status claim under prior rental knowledge; information conflict | Hears Ruka declare that she is Kazuya's girlfriend while Kazuya objects. | His earlier rental and trip knowledge now meets a direct competing current-status claim. | He still lacks the complete breakup, wrapper, and Mami-intervention history, and no response is developed enough to infer approval. | none; information limit only |
+| RAG-KUR-E013 | KUR-S007 | RAG-E-V024-018 | Direct initiative toward former provider; relationship access | Seeks Ruka out and tells her that he came to see her. | Moves from observing her through Kazuya's conflicts to initiating an unmediated encounter. | His purpose, Ruka's response, and any support, rejection, or status consequence are withheld. | none; model withheld |
 
 ## State-change summary
 
@@ -60,6 +61,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - KUR-S004 — later peer-network witness: returns in V020 to meet Mini without enough conduct for a new general rule.
 - KUR-S005 — informed trip participant managing a split audience: recognizes Ruka's contradictory presence, accepts Kazuya's containment request, and independently probes Mami about Chizuru's continuing rental work.
 - KUR-S006 — partly informed recipient of a direct status contradiction: hears Ruka declare herself Kazuya's girlfriend while Kazuya objects, adding a public conflict to his prior rental and split-audience knowledge without supplying the full breakup or fabrication history.
+- KUR-S007 — former client initiating direct contact: seeks Ruka without Kazuya's mediation and states that he came to see her, opening a new route whose purpose and consequence remain unknown.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -69,10 +71,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 
 ## Gaps and negative evidence
 
-- His given name is not established through V023.
+- His given name is not established through V024.
 - The manga does not provide his full understanding of Ruka's motives, the contract, or the later Kazuya–Ruka provisional relation.
 - One successful repair does not establish a general forgiveness rule or durable friendship outcome.
-- V006-V019 and V021 provide no material new conduct; V020 supplies a brief peer encounter, V022 supplies one concentrated information-management sequence, and V023 adds a direct but unresolved status contradiction.
+- V006-V019 and V021 provide no material new conduct; V020 supplies a brief peer encounter, V022 supplies one concentrated information-management sequence, V023 adds a direct status contradiction, and V024 adds one initiated but unresolved encounter with Ruka.
 - The evidence supports a dedicated ledger but not behavioral generalization across contexts.
 
 ## Update rule
