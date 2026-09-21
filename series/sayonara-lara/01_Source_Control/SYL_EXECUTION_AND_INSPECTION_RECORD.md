@@ -4,7 +4,7 @@ artifact_id: SYL_EXECUTION_AND_INSPECTION_RECORD
 artifact_type: execution_inspection_record
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -44,7 +44,8 @@ execution_profile:
 
 | Episode | Japanese text | English aid | Static visual | Audio transport/decode | Auditory interpretation | Continuous AV | Narrative transaction |
 |---|---|---|---|---|---|---|---|
-| E01-E12 | AVAILABLE / NOT YET INSPECTED | AVAILABLE / SECONDARY | AVAILABLE / NOT YET INSPECTED | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | NOT STARTED |
+| E01 | COMPLETE: all 323 aligned cues read | COMPLETE AS SECONDARY AID | COMPLETE_FOR_DECLARED_SCOPE: all 43 sheets plus targeted original frames | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | CLOSED: text/static scope |
+| E02-E12 | AVAILABLE / NOT YET INSPECTED | AVAILABLE / SECONDARY | AVAILABLE / NOT YET INSPECTED | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | NOT STARTED |
 
 This table is updated episode by episode. `COMPLETE_FOR_DECLARED_SCOPE` will always name the inspected channel and boundary. Contact-sheet review is static visual coverage, not continuous-video viewing.
 
@@ -60,3 +61,4 @@ This table is updated episode by episode. `COMPLETE_FOR_DECLARED_SCOPE` will alw
 | Record | Boundary | Operation | Result | Limitations |
 |---|---|---|---|---|
 | SYL-X0001 | Bootstrap | Verified package hashes, live governance, authority tuple, branch/root absence, E01-E12 bundle inventory, local tool and Git routes | Foundation accepted; sequential gate opened | No episode narrative admitted; auditory and continuous-video routes unavailable |
+| SYL-X0002 | E01 | Read all 323 aligned Japanese cues; inspected all 43 contact sheets and selected original-resolution frames; constructed analyst scene map; synchronized six ledgers and evidence debts | E01 narrative transaction closed for declared text/static scope | No auditory interpretation; no continuous video; mirror truth conditions and catastrophe causality remain provisional |

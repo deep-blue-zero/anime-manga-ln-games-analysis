@@ -4,14 +4,14 @@ artifact_id: SYL_CURRENT_STATE
 artifact_type: corpus_map
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "Japanese-language TV anime E01-E12 bundles inventoried; no sequential episode transaction closed at bootstrap"
+source_boundary: "Japanese-language TV anime E01 closed at Japanese-caption and complete static-visual scope; E02-E12 inventoried"
 canonical_home: series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -46,12 +46,12 @@ This is the single canonical first-read surface for the project. Primary media, 
 - Continuing branch: `series/sayonara-lara`
 - `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 - Planned and source-locked narrative boundary: E01-E12
-- Verified narrative transaction boundary: E00
-- Audiovisual closure: none certified
+- Verified narrative transaction boundary: E01
+- Audiovisual closure: E01 text/static transaction complete; no episode certified for auditory or continuous-video coverage
 - Knowledge mode: source-bounded chronological reread with disclosed prior exposure to E01-E04 discussion and the ending
-- Current operation: begin the E01 atomic transaction
-- Next sequential candidate: E01
-- Publication state: bootstrap working tree; commit and push are recorded only after they occur
+- Current operation: open the E02 atomic transaction
+- Next sequential candidate: E02
+- Publication state: E01 is the current transaction boundary; branch push remains pending until the requested goal is complete
 
 ## Authorized sequential execution
 
@@ -61,8 +61,8 @@ sequential_execution:
   unit_type: episode
   authorized_start: E01
   terminal_boundary: E12
-  committed_high_water_mark: E00
-  next_candidate_operation: E01
+  committed_high_water_mark: E01
+  next_candidate_operation: E02
   confirmation_between_units: false
   run_state: active
 ```
@@ -94,10 +94,10 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 | Responsibility | State |
 |---|---|
 | Method, synthesis architecture, AV protocol, design sources | Canonical and adopted |
-| Source register and execution record | Initialized; E01-E12 inventory locked |
-| Six longitudinal ledgers | Initialized at E00; no episode findings admitted |
+| Source register and execution record | E01 inspection recorded; E02-E12 inventory locked |
+| Six longitudinal ledgers | Synchronized through E01 |
 | Legacy register | Historical/legacy and non-evidentiary |
-| Sequential readings | None yet; created only when the episode is analyzed |
+| Sequential readings | E01 complete for declared Japanese-text/static-visual scope |
 | Monographs, relationship study, specialists, full synthesis | Not created; later phase/readiness gated |
 | Rowan monograph | Planned dedicated synthesis target; no placeholder |
 
@@ -107,8 +107,12 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 - `SYL-D0002`: continuous video is outside the supplied input boundary; motion, microperformance, editing-rhythm, and AV-synchrony claims may require targeted later escalation.
 - `SYL-D0003`: the supplied bundle contains the aligned Japanese caption derivative and provenance metadata but not the untouched ABEMA caption witness; disputed exact-wording claims require recovery of that witness.
 
-These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels.
+These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01 assigns claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in its reading and the debt register.
+
+## Latest closed transaction
+
+[Episode 01: The Law That Names the Monster](02_Episode_Readings/SYL_EP01_DEEP_READING.md) reconstructs the fairy-tale prehistory and the 2026 Lara/Mari meeting. It establishes that Lara's curiosity predates the prince, confirms Rowan as a dedicated ideological subject, preserves Grace's enablement/control tension, and distinguishes `本当の愛` from `恋心` without deciding the later relationship taxonomy.
 
 ## Next operation
 
-Open E01 from the locked source bundle, read the complete aligned Japanese witness, inspect all E01 contact sheets and necessary full-resolution frames, build an analyst scene map, and close the first episode transaction without using later episodes as support.
+Open E02 from the locked source bundle, read the complete aligned Japanese witness, inspect all E02 contact sheets and necessary full-resolution frames, build an analyst scene map, and test the modern encounter from the E01 knowledge freeze without importing later relationship classification.
