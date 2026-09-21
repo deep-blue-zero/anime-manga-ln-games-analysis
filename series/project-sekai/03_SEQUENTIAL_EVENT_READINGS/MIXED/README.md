@@ -53,3 +53,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0142 — 鍛えてFLY！Muscle Training！](PJSK_EVENT_0142_DEEP_READING.md): complete 23-story mixed envelope; Haruka turns a fan barrier into a governed, tailored, public challenge whose recipient effect survives defeat, while her childhood relation with An becomes consequential present-day reciprocal access.
 
 - [EVENT_0144 — 想いをのせて！Dream Stage](PJSK_EVENT_0144_DEEP_READING.md): complete 29-story mixed envelope; Nene scales person-specific direction into distributed cross-school production leadership, while Rui integrates childhood loneliness as causal knowledge of why Wonderlands×Showtime is his greatest treasure.
+
+- [EVENT_0148 — また、木の葉の色づく頃に](PJSK_EVENT_0148_DEEP_READING.md): complete 24-story mixed-family envelope; Shiho turns chosen rest, enabling planning, received perspective, and contingency into an ordinary-life operative, while the Hinomori sisters establish a bounded reciprocal care route.

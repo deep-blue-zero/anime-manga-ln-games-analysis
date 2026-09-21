@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0147
+current_event_boundary: EVENT_0148
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0147
+## Current coverage — all five human units synchronized through EVENT_0148
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0147 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0147`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0148 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0148`.
 
 Artifacts:
 
@@ -68,7 +68,27 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0146 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0148 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0148 is fully integrated:** new I3 `LN-EP-SHIHO-E0148` records Shiho choosing bounded rest, retaining practical planning, receiving Shizuku's perspective and competence, distinguishing contingency from relational failure, attending to unplanned present value, and reopening possible ordinary time without weakening professional standards. New scoped I3 `REL-FAMILY-SHIHO-SHIZUKU-E0148` records choice-respecting concern, conditional acceptance, reciprocal contribution, thanks, and possible future travel while preserving refusal and practical limits. `MMJ-EP-SZ-E0111`, `LN-EP-SAKI-E0106`, `REL-WXS-MS-TS-P01`, `EPI-CROSS-SAKI-TSUKASA-E0016`, and manifestation-local singer owners receive proportional I2; VBS and N25 are I0. The verified envelope is 24 stories / 32 scenes / 1,397 records. No anti-planning doctrine, permanent work-life balance, fatigue cure, professional deintensification, dependency, erased sibling boundaries, universal value in disruption, guaranteed future travel, completed family or group transformation, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0147 to EVENT_0148. EVENT_0149 is next; 21 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0148 reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0148_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0148: 24 stories / 32 scenes / 1,397 records; canonical files, pinned raw segments, manifests, anchors, projections, and all routes verified.
+- Leo/need / Shiho is PRIMARY/VERY HIGH I3; the Hinomori-sister relation is CO_PRIMARY/HIGH scoped I3; Shizuku/MMJ, Saki–Tsukasa/WxS, and School/Stage/Wonderland singer routes receive proportional I2. VBS and N25 are documentary I0.
+- The shared analysis boundary is EVENT_0148. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0148 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0147 forward transaction
+
+**EVENT_0147 is fully integrated:** new I3 `LN-EP-SAKI-E0147` records Saki diagnosing audience conditions, choosing music she can inhabit sincerely, making enjoyment legible, reading live response, inviting participation, adapting, and verifying connection in recipient action. New scoped I3 `LN-REL-SAKI-IORI-E0147` records sought professional advice, attributed judgment, direct live receipt, ordinary music-community access, and an unresolved final question. `LN-REL-SOLIS-E0143 → LN-REL-SOLIS-E0147` closes one song-specific commission and the first post-debut live without proving durable company policy. The verified envelope is 26 stories / 33 scenes / 1,232 records. No universal audience-conversion formula, resolved large-versus-intimate performance preference, formal Iori mentorship, permanent group axis, company-wide policy, stable mass fame, sales or chart result, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0146 to EVENT_0147. EVENT_0148 is next; 22 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0147 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0147_DEEP_READING.md). Complete routes and all five founded human-unit dispositions remain integrated across routing and the six longitudinal ledgers. Reconstruction generation 1 remains explicitly cut off at EVENT_0140.
+
+- Completed EVENT_0147: 26 stories / 33 scenes / 1,232 records; canonical files, pinned raw segments, manifests, anchors, reports, and all routes verified.
+- Leo/need / Saki is PRIMARY/VERY HIGH I3; Saki–Iori and Leo/need–Solis are CO_PRIMARY/HIGH I3; group, individual, and School-singer owners receive bounded I2, WxS receives I1, and MMJ/VBS/N25 are I0.
+- The historical analysis boundary is EVENT_0147. Reconstruction generation 1 remains certified only through EVENT_0140.
+
+### Historical coverage — EVENT_0146 forward transaction
 
 **EVENT_0146 is fully integrated:** `VBS-EP-AK-E0109 → VBS-EP-AK-E0146` records Akito distinguishing sincere commitment from missing heat, disclosing post-goal depletion, accepting differentiated counsel, and converting an unfamiliar rival's performance into full-effort response and a concrete wish to see the world. `VBS-REL-GROUP-E0135 → VBS-REL-GROUP-E0146` turns an undefined world horizon into self-governed practice and outreach plus a shared decision to travel to New York. New scoped `VBS-REL-AK-SLADE-E0146` records admiration, direct critique, reciprocal performance, and an open world-rivalry channel. `EPI-VBS-SEKAI-E0118 → EPI-VBS-SEKAI-E0146` advances a cracked benchmark wall to destroyed and open paths after RAD BLAST while keeping the mechanism unknown. Partner, Street-audience, Kohane, and Street-singer owners receive strong I2; WxS and MMJ receive ordinary I1 routes; Leo/need and N25 are I0. The verified envelope is 28 stories / 51 scenes / 1,489 records. No professional status, completed America trip, world success, permanent motivation cure, objective equality with Slade, guaranteed rematch, decoded twins–Nagi history, exact SEKAI mechanism, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0145 to EVENT_0146. EVENT_0147 is next; 23 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -2179,3 +2199,7 @@ The verified group contains 28 stories / 51 scenes / 1,489 records. No professio
 ### EVENT_0147 source and reconstruction review
 
 The verified group contains 26 stories / 33 scenes / 1,232 records. `LN-EP-SAKI-E0147` and scoped `LN-REL-SAKI-IORI-E0147` are new I3 owners; `LN-REL-SOLIS-E0143 → LN-REL-SOLIS-E0147` closes one song-specific commission and the first post-debut live. No universal audience-conversion formula, resolved large-versus-intimate performance preference, formal Iori mentorship, permanent group axis, company-wide or durable song-specific policy, stable mass fame, sales or chart result, professional mastery, safe unlimited preparation, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0148 source and reconstruction review
+
+The verified group contains 24 stories / 32 scenes / 1,397 records. `LN-EP-SHIHO-E0148` and scoped `REL-FAMILY-SHIHO-SHIZUKU-E0148` are new I3 owners; Shizuku, Saki–Tsukasa, and manifestation-local singer authorities receive bounded I2 without successors. No anti-planning doctrine, permanent work-life balance, fatigue cure, professional deintensification, dependency, erased sibling boundaries, universal value in disruption, guaranteed future travel, completed family or group transformation, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified.
