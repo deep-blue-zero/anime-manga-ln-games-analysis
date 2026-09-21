@@ -4,14 +4,14 @@ artifact_id: SYL_LANGUAGE_AND_PERFORMANCE
 artifact_type: language_performance_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E09 closed; Japanese textual observations only, no auditory performance claims"
+source_boundary: "E10 closed; Japanese textual observations only, no auditory performance claims"
 ---
 
 # Language and performance ledger
@@ -94,4 +94,11 @@ source_boundary: "E09 closed; Japanese textual observations only, no auditory pe
 | SYL-L0071 | cues 250-300; 15:55-19:42 | `恋人になりたい`; `俺もそうなりたい`; `ちょっとずつ`; `私にはもう時間がない`; `本当の愛ってなに` | Want to be lovers; I want that too; little by little; I have no time; what is true love? | Lara and Luca, after wider kinds-of-love conversation | Complete aligned JP read; sheets 025-030 | Mutual desire for a relationship, physical pacing boundary and mortality-clock disclosure are separate utterances | High for wording; embodied rhythm and vocal response pending D0001-D0002 | C0044; R0041; W0031; F0049 |
 | SYL-L0072 | cues 301-320; 19:42-24:00 | `さらば だ……`; `ま……り……`; `連れ去られて`; `膳所城`; `沖島へ向かう` | Farewell…; ma…ri… (segmented, speaker unresolved); taken; Zeze Castle; heading to Okinoshima | Attack field and post-credit report/prediction | Complete aligned JP read; sheets 030-037; selected original stills | Removal and predicted route are dialogically framed; the two farewell fragments must not be fused or assigned a speaker without AV | High for supplied words; attribution and motion pending D0001-D0003 | C0047; W0033-W0034; F0050 |
 
-No E01-E09 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E09 karaoke, boundary negotiation, creature incursion and post-credit calls remain static/text observations; performed rhythm, motion and sound remain deferred.
+| SYL-L0073 | SYL-B10 cues 1-57; 00:05-06:01 | `迎えに来た`; `利用したかっただけ`; `魔女は消えた`; `一時的に`; `光を与えなければ` | Came to retrieve; only wanted to exploit; witch gone; temporary; must give light | Lisa's account and demand as Rowan wakes | All 341 aligned JP cues read; sheets 001-015 | Accusation, verdict and prognosis are separate attributed claims, not omniscient narration | High for supplied text; fight/speaker/delivery pending | C0048; W0035-W0036; F0051 |
+| SYL-L0074 | cues 72-135; 07:51-11:43 | `醜い脚`; `誇り高い`; `リグモア`; `人間どものせい`; `忘れない`; `仮そめの形`; `無限の命`; `我々人魚にしか見えぬ` | Ugly legs; proud; Rigmor; because of humans; never forget; provisional form; endless life; only we mermaids can see | Rowan's first present account and blade theory | Complete aligned JP read; sheets 017-023 | Bereavement and species indictment are his rhetoric; blade ontology is not independently established | High for words; exact historical fidelity and delivery pending | C0049-C0050; W0037-W0038; F0052 |
+| SYL-L0075 | cues 136-199; 11:43-14:52 | `白い花`; `沖島`; `異臭`; `航行禁止`; `身分も何も無い`; `警察` | White flowers; Okinoshima; odor; no navigation; no legal identity; police | News/harbor and Mari/Luca practical search | Complete aligned JP read; sheets 022-026 | Separates public reports, regulatory barrier and Lara's identity problem from Rowan's unseen-light assertion | High for text; news sound and causal chain pending | C0051; W0040; F0053 |
+| SYL-L0076 | cues 200-264; 15:03-18:33 | `刺し貫けば良い`; `愛する者を`; `血によって清める`; `だれだ`; `全部ウソ`; `ララは人魚` | Pierce; the loved one; cleanse by blood; who; all lies; Lara is a mermaid | Rowan's demand, Mari's family disclosure | Complete aligned JP read; sheets 027-031 | A proposed killing and an actual truth-telling are intercut; neither identifies a magical target | High for wording; performed coercion/response pending | C0050/C0052; W0039; F0054 |
+| SYL-L0077 | cues 265-303; 19:00-21:00 | `来ないで`; `もう会えない`; `ありがとう`; `死んじゃった`; `迷惑でいい`; `さびしがり` | Do not come; cannot meet again; thank you; died; trouble is fine; lonely | Lara/Mari phone, Lisa's interruption, Mari afterward | Complete aligned JP read; sheets 032-034 | Lara's farewell and Mari's wish for continued presence are distinct; Grace death remains reported | High for text; vocal dynamics and call perspective pending | C0052; R0047; F0054 |
+| SYL-L0078 | cues 304-341; 21:11-22:29 | `ごめん`; `ボート`; `免許なし`; `危ない`; `ライフジャケット`; `行く` | Sorry; boat; without license; dangerous; life jacket; go | Luca, Mari's older brother, Mari at rescue departure | Complete aligned JP read; sheets 035-036 | Shared aid includes apology and arguments about material safety, not a magical resolution | High for text; comic timing/motion pending | C0052; R0048-R0049; F0055 |
+
+No E01-E10 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E10's creature fight, Rowan's speech, news broadcast, phone and boat argument remain text/static observations; performed rhythm, motion and sound remain deferred.

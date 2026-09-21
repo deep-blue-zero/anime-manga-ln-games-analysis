@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E09 closed; static visual and Japanese textual form"
+source_boundary: "E10 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -68,3 +68,8 @@ source_boundary: "E09 closed; static visual and Japanese textual form"
 | SYL-F0048 | E09 S09-S10 | Grace's complaining tank-fish persona appears to require domestic maintenance | Makoto's water, sand, vegetation and temperature recollection accompanies unusual sleep and a second-birth maxim | Static progression + JP text | Care infrastructure complicates a sovereign witch image without resolving her power or goodness | Counterpoint to Rowan's survival-for-future-dynasty program and Lisa's inherited trauma | sheets 022-025; cues 209-249; D0001-D0002 |
 | SYL-F0049 | E09 S11-S13 | Church discussion multiplies forms of being loved; Lara prepares a romantic confession | Mutual lover intention meets Luca's slow pace and Lara's foaming clock at the waterfront | Static progression + JP text | The title's singular “true love” is interrogated by several attachments and two unequal experiences of time | E08's parallel ambition and Rowan/Grace/Lisa incompatible light programs | sheets 025-030; cues 250-300; D0001 for vocal pauses |
 | SYL-F0050 | E09 S14-S17 | Pale roses, a giant tooth-rimmed dark form, smaller creature/hooded imagery, mist and a descending blade interrupt confession | Lara disappears and post-credit pursuit language points toward Okinoshima | Static sampled endpoints + JP text | Public romance space becomes a contested supernatural field, not a light-producing proof; visual recurrence cannot establish one weapon or creature | E05 fish-marked object and E07 heart-blade; exact motion/agent deferred | sheets 030-037; cues 301-320; frames `000950`, `000991`, `001042`; D0002 |
+| SYL-F0051 | E10 S01-S04 | E09's apparent Grace-led removal is replayed from inside shell/chamber | Lisa's retrieval account and Grace's creature confrontation reveal multiple agents; Rowan wakes but cannot fully see | Static progression + JP text | Cliffhanger retroactively redistributes agency without granting a final cause or permanent death verdict | E09's separated farewell fragments and Okinoshima prediction | sheets 001-007, 011-015; cues 1-57; D0002 |
+| SYL-F0052 | E10 S05-S06/S09 | Rowan contrasts beloved dead mother/decaying castle with humans' conquest and forgetting | A star, dagger and vertical lake object accompany his later demand that Lara cleanse light with a beloved's blood | Static progression + JP text | Royal elegy becomes violent extraction; spectacle magnifies ideology without verifying its causal theorem | E06 dynastic light, E07 heart-blade and E08 incompatible sea/land light | sheets 017-023, 027-029; cues 72-135, 200-239; D0001-D0002 |
+| SYL-F0053 | E10 S07-S08 | White flower motif crosses from bridge intrusion into public lake news | Harbor, regulatory desk, live reports and barred boats interrupt a private rescue fantasy | Static public interfaces + JP text | Human institutions cannot see Rowan's alleged mermaid-only light but respond to shared material consequences | E05 labor infrastructure and E07 phone mediation; exact ecological causation open | sheets 022-026; cues 136-199; D0002 |
+| SYL-F0054 | E10 S09-S12 | Rowan's `だれだ` about the blade's loved target is intercut with Mari's household interrogation | Mari names mermaid truth to parents, then Lara uses a phone to forbid rescue while Mari says she wanted troubled companions to stay | Static progression + JP text | Juxtaposition makes Mari a possible endangered loved person, not a named target or romantic solution; secrecy has household costs | E09 `大事な……` and unequal clocks; no automatic completion of interrupted phrase | sheets 029-034; cues 237-303; D0001-D0002 |
+| SYL-F0055 | E10 S13 | A license-free small boat, life-jacket argument and a possible snake-like presence close the rescue setup | Mari, Luca and brother form a fragile practical coalition under a lake ban | Static sampled endpoints + JP text | Mundane safety comedy refuses omnipotent rescue and makes care a distributed rather than fairy-prince function | E07 phone, E08 boxing parallel risk, E09 abduction | sheets 035-036; cues 304-341; creature identity D0002 |

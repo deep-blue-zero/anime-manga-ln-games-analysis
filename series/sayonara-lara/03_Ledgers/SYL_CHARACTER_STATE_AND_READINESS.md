@@ -4,14 +4,14 @@ artifact_id: SYL_CHARACTER_STATE_AND_READINESS
 artifact_type: character_state_readiness_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E09 closed; identities and states verified only through E09"
+source_boundary: "E10 closed; identities and states verified only through E10"
 ---
 
 # Character state and readiness ledger
@@ -55,5 +55,14 @@ This local ledger tracks verified identity, temporal state, desires/knowledge/co
 | Kōta / Minase Kōta (`水瀬 光太`) | VERIFIED_HUMAN_NAME / ORIGINAL NONHUMAN FORM | E09 | Helps Lisa investigate Grace and appears masked amid the attack/post-credit response | Exact role and allegiance in each attack image require continuous sequence; no independent romance evidence | Paired Lisa study/conditional monograph; FULL_SERIES_NOT_READY |
 | Rowan | VERIFIED_LOCAL_IDENTITY | E09 (still absent) | His dynastic light program and reported sleep remain context while Lara pursues a human-love route and Grace's second-birth line distinguishes mere existence from living | No direct E09 testimony; cannot assign his agreement with Grace, Lisa, or Lara | Dedicated ideological monograph after E12; FULL_SERIES_NOT_READY |
 | Himeka / Leo / Otsu household adults | PARTIAL LOCAL IDENTITIES | E09 | Himeka reports a different dating partner, Leo questions Lara/Luca's status, adults say dating can reveal love's shape without being required; Makoto describes Grace's tank care | Their advice is situated, not magic-rule testimony; household kinship details remain partial | Supporting ensemble and relationship context; NOT_READY |
+
+| Rowan | VERIFIED_LOCAL_IDENTITY / PRESENT AGED BODY | E10 | Wakes partly blind/depleted as Grace's spell weakens; condemns Lisa's legs, invokes Rigmor's human killing and pre-departure castle dimming, identifies blade as princess-light and demands a loved one's blood | His historical testimony, universal blame, mermaid-only visibility and blood-purification mechanism unverified; love and violence fused by his demand | Dedicated ideological monograph now strongly evidenced; E11-E12 outcome still needed; FULL_SERIES_NOT_READY |
+| Lara | VERIFIED_LOCAL_IDENTITY | E10 | Retransported into shell/refuge, sees Rowan's frailty and Grace/creature conflict, rejects blade as cursed, says she cannot command it, calls Mari to forbid rescue and thank her under royal pressure | Whether distancing protects Mari; identity of loved target; survival, coercion and Grace's fate open | Major monograph; FULL_SERIES_NOT_READY |
+| Lisa / Shiomi Lisa (`潮見リサ`) | VERIFIED_SISTER_RELATION / HUMAN IDENTITY | E10 | Says she retrieved Lara, accuses Grace of exploitation, pronounces witch gone, directs Lara to restore family, and tells her to cut off human matters | Her accusations and death conclusion may be sincere but unverified; protects father who calls her human legs ugly | Major monograph; FULL_SERIES_NOT_READY |
+| Grace / Gon | VERIFIED_LOCAL_IDENTITY / ALTERED BODY | E10 | Confronts dark creature in sampled progression; Lisa calls her gone and Lara later says she died; household notices her absence | No independently verified permanent death or complete fight choreography; spell link and motive remain open | Major monograph pending E11-E12 and AV debt; FULL_SERIES_NOT_READY |
+| Mari Otsu (`大津 茉里`) | VERIFIED_FULL NAME | E10 | Searches through lake restrictions, resists one-sided goodbye, confesses Lara's mermaid identity to parents, says she wanted troublesome Lara/Gon to stay because she is lonely, and joins brother's boat | Parents' response, rescue outcome, whether Lara's warning is protective, and dyad beyond named friendship open | Major monograph; FULL_SERIES_NOT_READY |
+| Luca Akizuki (`秋月ルカ`) | VERIFIED_GIVEN NAME / SURNAME ON CONTACT | E10 | Searches with Mari, considers police and asks what Lara is, apologizes for his prior failure, objects to unsafe boat, and remains willing to help | Mortal deadline and royal command not fully conveyed to him; subsequent actions and romantic negotiation open | Relationship study/conditional monograph; FULL_SERIES_NOT_READY |
+| Otsu parents and Mari's older brother | VERIFIED RELATIONS / PARTIAL NAMES | E10 | Parents confront Mari about absence, window and invented sister; brother procures a small boat and insists on accompanying her | Immediate response to mermaid disclosure, legal/safety status of actual voyage and exact kinship names require verification | Supporting household axis now substantial; NOT_READY |
+| Rigmor (`リグモア`) | NAME VIA ROWAN TESTIMONY / MOTHER | E10 historical report | Rowan names her as Lara's mother killed by humans, connecting personal bereavement to prior castle dimming | No direct independent flashback of killing or her own speech; collective guilt is Rowan's inference | Supporting historical figure for Rowan/Lara study; NOT_READY |
 
 Readiness is dimension-specific. Literary synthesis, voice/performance analysis, and behavioral reconstruction never inherit readiness from one another automatically. The repeated subjects above preserve dated state transitions, not duplicate identities.

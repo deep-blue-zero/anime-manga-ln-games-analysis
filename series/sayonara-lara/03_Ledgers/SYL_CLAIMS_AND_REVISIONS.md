@@ -4,14 +4,14 @@ artifact_id: SYL_CLAIMS_AND_REVISIONS
 artifact_type: claims_revisions_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E09 closed; Japanese-caption and static-visual scope"
+source_boundary: "E10 closed; Japanese-caption and static-visual scope"
 ---
 
 # Claims and revisions ledger
@@ -70,4 +70,10 @@ This is the cumulative spine for consequential interpretive claims. Every claim 
 | SYL-C0046 | E09 | OBSERVED + CHARACTER INFERENCE | Grace as only a controlling witch; Lisa as only rescuer | COMPLICATE / HOLD | Grace sleeps unusually and depends on household tank care; Lisa/Kōta inspect a mansion trace and infer she is neither mermaid nor human, but do not finish the taxonomy. Illness and care do not absolve her authority or verify the inference. | E09 S09-S10, cues 209-249, sheets 022-025; counterevidence: Lisa expresses a wish to remove the witch and remains an adversarial investigator. | Grace/Lisa/household study | R0043; W0032; D0001-D0003 |
 | SYL-C0047 | E09 | OBSERVED CONSEQUENCE / CAUSALITY OPEN | E05/E07 blade recurrence and Grace/Lisa pursuit | EXPAND / HOLD AGENT | A supernatural incursion interrupts Lara/Luca, Lara is removed, and post-credit dialogue predicts a route toward Okinoshima. Grace-like imagery, creature(s), masked Kōta, and descending blade are visible, but their exact alignment, agency, and object identity are unresolved. | E09 S14-S17, cues 301-320, sheets 030-037, frames `000950`, `000991`, `001025`, `001042`; rival: Grace may rescue and abduct simultaneously, but stills do not decide. | Causality, Grace/Lisa, form studies | W0033-W0034; D0001-D0003 |
 
-`SYL-H0001`-`SYL-H0012` remain historical research questions. Only explicitly recorded transitions enter current analysis. E09 confirms a reciprocal wish to be lovers without certifying royal true love, preserves Mari's unfinished characterization, and ends with Lara's removal under disputed supernatural agency. Rowan's ideological axis remains a dedicated monograph target.
+| SYL-C0048 | E10 | OBSERVED + CONFLICTING TESTIMONY | C0047: Grace-like carrier and disputed E09 agent | REVISE / HOLD | Lisa says she retrieved Lara when “that” moved; Grace confronts the creature in a magical rupture; Lisa calls the witch gone and Rowan temporarily wakes. Grace's irreversible death or sole abductor agency is not independently verified. | E10 S01-S04, cues 1-57, sheets 001-007, 011-015; counterevidence: Lara later says Grace died, but her report may inherit the same limited view. | Grace/Lisa causality study | W0035-W0036; D0001-D0003 |
+| SYL-C0049 | E10 | ROWAN TESTIMONY + OBSERVED BODY | C0029/C0040: sacrificial father and dynastic extraction | EXPAND / COMPLICATE | Rowan wakes aged and partially sightless, reviles Lisa's human legs, denies Lara's remorse, says Rigmor was killed by humans and the castle dimmed before Lara departed, and generalizes conquest/pollution into human collective guilt. | E10 S05, cues 72-111, sheets 017-021; counterevidence: Lisa's human life and Seizō's aid contradict the universal indictment; Rigmor's circumstances are not independently shown. | Rowan monograph; historical grievance specialist | R0046; W0037; D0003 |
+| SYL-C0050 | E10 | CHARACTER THEORY + VIOLENT DEMAND | C0035/C0040: blade as rejected heart-light, royal cure disputed | CONTRADICT BENIGN LIGHT / HOLD | Rowan names the blade princess-light, calls its shape provisional, claims unbounded vitality and mermaid-only visibility, then orders Lara to pierce a loved one for blood/soul cleansing into proper light. No killing or restoration tests his mechanism. | E10 S06/S09, cues 112-135, 200-239, sheets 021-022, 027-029; counterevidence: Lara rejects it as cursed and cannot command it. | Rowan/Lara monographs; love/violence causality | W0038-W0039; D0001-D0003 |
+| SYL-C0051 | E10 | PUBLIC REPORT + OBSERVED ACCESS BARRIER | C0047: island destination prediction | STRENGTHEN CONSEQUENCE / HOLD CAUSE | White flower-like forms, a vertical lake structure, altered color/odor/weed conditions and official boating restrictions surround Okinoshima. Mari recognizes the flowers and cannot secure passage; news reports are not laboratory proof of blade causation. | E10 S07-S08, cues 136-199, sheets 022-026; counterevidence: reports mix observation, administrative forecast and montage imagery. | Ecology/public witness/form specialist | W0040; D0001-D0002 |
+| SYL-C0052 | E10 | OBSERVED RELATIONAL ACTION | C0039/C0045: Mari's protective friendship and incomplete importance | EXPAND / TEST | Mari reveals Lara's mermaid identity to her parents after evasions, refuses Lara's goodbye, says she wanted troublesome Lara and Gon to stay because she is lonely, and joins a boat plan with brother and apologetic Luca. No new romantic label follows. | E10 S03/S08/S10-S13, cues 41-52, 187-199, 240-341, sheets 013-015, 026, 030-036; counterevidence: Lara's threat assessment and parents' response remain incomplete. | Lara/Mari/Luca/household relationship | R0047-R0049; D0001-D0002 |
+
+`SYL-H0001`-`SYL-H0012` remain historical research questions. Only explicitly recorded transitions enter current analysis. E10 reveals Rowan as an active ideological antagonist with an untested blood-purification demand, qualifies Grace's removal/death attribution, and moves Mari's friendship from secret-keeping to disclosure and rescue. The named relationship categories remain distinct from magical claims.

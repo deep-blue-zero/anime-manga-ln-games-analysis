@@ -4,14 +4,14 @@ artifact_id: SYL_BLOCKERS_AND_EVIDENCE_DEBTS
 artifact_type: blockers_evidence_debts
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E09 closed; general debts plus E01-E09 claim-linked assignments"
+source_boundary: "E10 closed; general debts plus E01-E10 claim-linked assignments"
 ---
 
 # Blockers and evidence debts
@@ -41,4 +41,12 @@ The table's first three rows retain their E01-E07 interval history; E08 adds the
 | SYL-D0002 | 04:16-05:33 lakeside incident; 09:41-11:27 Luca/Mari cut and incomplete phrase; 17:13-19:42 approach/withdrawal; 19:42-21:43 creature, carrier and Lara's removal; 21:43-22:29 blade; 23:34-24:00 post-credit route. C0044-C0047; W0031-W0034. | Continuous source-linked inspection or strict sampled-endpoint wording; no confident choreography, object identity, agent or arrival inferred from adjacent frames. |
 | SYL-D0003 | `ちがう`, `付き合わないと`, `愛の形`, `大事な`, `二度生まれる`, `恋人になりたい`, `俺もそうなりたい`, `ちょっとずつ`, `時間がない`, `本当の愛ってなに`, separate `さらば だ……` / `ま……り……`, `沖島へ向かう`; E09 cues 1-320 as localized in L0068-L0072. | Untouched ABEMA caption witness and derivative history; audible adjudication for contested wording or speaker. |
 
-No current debt blocks opening E10 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.
+## E10 claim-linked assignments
+
+| Debt | E10 source intervals and claims | Required future acceptance |
+|---|---|---|
+| SYL-D0001 | 00:05-02:41 retrieval, Grace/creature, Rowan; 05:42-11:43 royal speech/blade; 11:43-14:05 news; 15:03-20:29 blood command, family disclosure and phone; 20:41-22:29 loneliness and boat. C0048-C0052; L0073-L0078. | Interval-linked listening before vocal, creature, broadcast, music, or comic-timing claims. |
+| SYL-D0002 | 01:18-02:41 creature fight/death; 07:51-11:43 awakening/demonstration; 11:43-14:05 lake effects; 15:03-17:11 Rowan's demand/intercut; 19:00-20:29 phone geography; 21:11-22:29 boat and snake-like presence. W0035-W0040. | Continuous source-linked inspection or strict static-endpoint description; no permanent death, weapon identity, natural-cause conclusion or creature identification from isolated frames. |
+| SYL-D0003 | `リグモア`, `人間どものせい`, `光なんかじゃない`, `仮そめの形`, `無限の命`, `刺し貫けば良い`, `愛する者を`, `血によって清める`, `だれだ`, `ララは人魚`, `来ないで`, `迷惑でいい`, `さびしがり`; cues 1-341 as localized in L0073-L0078. | Untouched ABEMA witness/derivative history, with audible adjudication for contested exact wording or speaker. |
+
+No current debt blocks opening E11 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.
