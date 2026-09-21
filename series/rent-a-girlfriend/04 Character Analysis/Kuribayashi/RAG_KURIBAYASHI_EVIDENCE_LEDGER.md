@@ -4,13 +4,13 @@ artifact_id: RAG_KURIBAYASHI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; character evidence inspected through V026, with no material V021 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; character evidence inspected through V027, with no material V021 conduct."
 ---
 
 # Kuribayashi evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V026
+inspected_through_volume: V027
 local_readiness: UNMODELED
 ~~~
 
@@ -55,6 +55,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KUR-E014 | KUR-S008 | RAG-E-V025-002, RAG-E-V025-011 | Former-client concern and self-account; direct clarification | Tells Ruka that seeing her made him happy, that he worried after she left the service, and that he is not angry; he criticizes his own attempt to display a girlfriend. | Uses vulnerable self-attribution rather than provider blame to revise the meaning of their prior encounter. | One exchange does not establish romance, durable repair, or broad accountability behavior. | none; model withheld |
 | RAG-KUR-E015 | KUR-S008 | RAG-E-V025-021, RAG-E-V026-001 | Partly informed peer at public profile exposure | Is positioned with the group when Chizuru's Diamond profile becomes visible on Ruka's phone. | His prior rental knowledge now enters an exposure event before a less-informed family and peer audience. | V026 corrects the phone attribution; V025 does not isolate his comprehension, speech, or response. | none; information limit only |
 | RAG-KUR-E016 | KUR-S009 | RAG-E-V026-006, RAG-E-V026-011 | Restraint during Kibe's violent trust response | Helps restrain Kibe after the punch and appears in the remembered friendship-trust sequence that precedes Kibe's renewed proof demand. | Takes a limiting role when another peer turns betrayal into force. | Restraint does not establish his complete knowledge, approval of the retained lie, or a broad nonviolence rule. | none; model withheld |
+| RAG-KUR-E017 | KUR-S010 | RAG-E-V027-001, RAG-E-V027-005 | Direct challenge to retained dating claim | Presses Kazuya on whether he and Chizuru really date and repeatedly invokes the kisses after the near-complete family explanation. | Converts partly informed observation into explicit peer scrutiny of the one status lie still preserved. | His method is confrontational, and the scene does not establish his final belief, complete knowledge, or durable friendship judgment. | none; model withheld |
 
 ## State-change summary
 
@@ -76,10 +77,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 
 ## Gaps and negative evidence
 
-- His given name is not established through V026.
+- His given name is not established through V027.
 - The manga does not provide his full understanding of Ruka's motives, the contract, or the later Kazuya–Ruka provisional relation.
 - One successful repair does not establish a general forgiveness rule or durable friendship outcome.
-- V006-V019 and V021 provide no material new conduct; V020 supplies a brief peer encounter, V022 one concentrated information-management sequence, V023 a direct status contradiction, V024-V025 the Ruka clarification, and V026 one restraint act under exposure.
+- V006-V019 and V021 provide no material new conduct; V020 supplies a brief peer encounter, V022 one concentrated information-management sequence, V023 a direct status contradiction, V024-V025 the Ruka clarification, V026 one restraint act under exposure, and V027 a direct challenge to the retained couple claim.
 - The evidence supports a dedicated ledger but not behavioral generalization across contexts.
 
 ## Update rule

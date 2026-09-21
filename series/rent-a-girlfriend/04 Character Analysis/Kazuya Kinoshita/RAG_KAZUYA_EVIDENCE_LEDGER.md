@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; character evidence inspected through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; character evidence inspected through V027."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V026
+inspected_through_volume: V027
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -172,6 +172,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E132 | KAZ-S028 | RAG-E-V026-009 through RAG-E-V026-011 | Coercive proof demand, allied intervention, and surrender | Faces Mami's kiss demand, receives Ruka's unexpected defense, then abandons the cover and apologizes comprehensively when Kibe enforces the test. | Moves from protective fabrication to public surrender after the audience refuses speech as sufficient proof. | His surrender does not authorize bodily proof or resolve what Chizuru wants. | RAG-KAZ-R001, RAG-KAZ-R003, RAG-KAZ-R009, RAG-KAZ-R022 |
 | RAG-KAZ-E133 | KAZ-S028 | RAG-E-V026-012 through RAG-E-V026-015 | Recipient of two Chizuru-initiated kisses and identity disclosure | Remains stunned as Chizuru cups his face and sustains a first kiss, hears her real-name, rental-role, and personal-importance account, and is repositioned for a second kiss. | Receives unprecedented deliberate bodily and verbal action from Chizuru after his love declaration. | He supplies no contemporaneous verbal assent or private status agreement; both acts occur under public coercive verification. | RAG-KAZ-R002, RAG-KAZ-R009, RAG-KAZ-R016, RAG-KAZ-R022 |
 | RAG-KAZ-E134 | KAZ-S028 | RAG-E-V026-016 | Near-complete family disclosure, residual lie, and paternal violence | Joins roughly two hours of explanation, preserves only the claim that he and Chizuru are genuinely dating, receives Nagomi's acceptance, and is struck by Kazuo. | Narrows the deception substantially and retains family access at immediate physical and ethical cost. | The central status claim remains false, the ring is not visibly returned, and no private debrief with Chizuru occurs. | RAG-KAZ-R003, RAG-KAZ-R008, RAG-KAZ-R019, RAG-KAZ-R022 |
+| RAG-KAZ-E135 | KAZ-S029 | RAG-E-V027-001, RAG-E-V027-003 through RAG-E-V027-005 | Peer scrutiny and private kiss interpretation | Faces Kuribayashi's direct question, replays the kisses as possible love evidence, then hears Chizuru frame them as emergency action while sharing responsibility. | Receives a private debrief and a correction to total self-blame. | He reads the account as nonromantic, but his inference does not settle Chizuru's private feeling. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R019, RAG-KAZ-R023 |
+| RAG-KAZ-E136 | KAZ-S029 | RAG-E-V027-007 through RAG-E-V027-009 | Kiss distinction, failed neighbor contact, and prolonged deterioration | Distinguishes the resort kisses from rescue contact, rings Chizuru's door, sends a practical message, and becomes disheveled during roughly three months without reply. | Continues seeking meaning but converts missing information into feared hatred and severe decline. | He does not know that she was inside or read the message immediately; silence is not stated rejection. | RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R021, RAG-KAZ-R023 |
+| RAG-KAZ-E137 | KAZ-S029 | RAG-E-V027-010, RAG-E-V027-013 | Mini-mediated correction and recovered action capacity | Tells Mini that Chizuru hates him, hears that this is self-pity and later that the feeling is unnamed, cries with relief, and resolves to act with his own strength. | Revises a catastrophic belief enough to leave passive waiting. | Mini's report is interpretive and does not constitute Chizuru's direct answer. | RAG-KAZ-R005, RAG-KAZ-R016, RAG-KAZ-R021, RAG-KAZ-R023 |
+| RAG-KAZ-E138 | KAZ-S029 | RAG-E-V027-013, RAG-E-V027-014 | Paid recontact initiative | Confirms he is not blocked, submits an accepted rental request, and meets Chizuru in Harajuku on March 1 with the kisses salient. | Uses an established bounded system to reopen access after the long separation. | Platform acceptance and attendance do not establish personal acceptance or romantic status. | RAG-KAZ-R008, RAG-KAZ-R016, RAG-KAZ-R019, RAG-KAZ-R023 |
+| RAG-KAZ-E139 | KAZ-S029 | RAG-E-V027-015 | Date paralysis and receipt of Chizuru's speech initiative | Resolves to ask about her feelings but remains distracted and silent through roughly ninety minutes until Chizuru begins serious speech first. | Shows recovered logistical action coexisting with impaired direct communication under high emotional stakes. | The speech content, answer, and client-versus-person outcome are beyond V027. | RAG-KAZ-R005, RAG-KAZ-R016, RAG-KAZ-R020, RAG-KAZ-R023 |
 
 ## State-change summary
 
@@ -248,6 +253,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - V024 supplies a stronger action threshold: family gratitude and anticipated rejection no longer remain only inhibitors, and Kazuya converts the trip deadline into a run and direct chapel address while the actual proposition is withheld (RAG-E-V024-016, RAG-E-V024-017, RAG-E-V024-020 through RAG-E-V024-022).
 - V025 sharply bounds that threshold: when Chizuru's unexplained flight resembles rejection, he catastrophizes, imagines rivals, and withdraws the subject, yet retains a protection commitment before the public profile display forces a new crisis (RAG-E-V025-003, RAG-E-V025-004, RAG-E-V025-015 through RAG-E-V025-022).
 - V026 distinguishes feeling from status truth: Kazuya states his love directly, but places it inside a protective false timeline; he later abandons that bluff, receives Chizuru's two public kisses, and narrows the family deception to one explicit dating lie without obtaining a private mutual classification (RAG-E-V026-007 through RAG-E-V026-016).
+- V027 extends his ambiguity response across a longer interval: a private debrief does not stop catastrophic interpretation, roughly three months of silence produce marked deterioration, and Mini's bounded correction enables a paid recontact even though Kazuya cannot initiate the intended question before Chizuru speaks (RAG-E-V027-003 through RAG-E-V027-015).
 
 ## Gaps and negative evidence
 
@@ -255,7 +261,7 @@ These are evidence configurations, not diagnoses or claims of wholesale personal
 - Competence outside relationship crisis remains underobserved.
 - Twelve volumes prospectively support appraisal oscillation and face-protection pressure, but ordinary low-stakes duration remains sparse.
 - His sexual focalization is well represented; his capacity for consensual intimacy in an acknowledged relationship is not.
-- Direct preference, love, support, and reckless protection for Chizuru are now spoken, enacted, or internally explicit before different audiences; V026 completes a public love statement and a near-complete family correction, but no private proposition and answer, mutually defined central status, full correction of the residual dating lie, or mutually accepted separation terms are observed.
+- Direct preference, love, support, and reckless protection for Chizuru are now spoken, enacted, or internally explicit before different audiences; V027 adds paid recontact after prolonged avoidance, but no completed direct conversation, mutually defined central status, full correction of the residual dating lie, or mutually accepted separation terms are observed.
 - Film work now extends through completed principal photography, private bedside projection, finished public exhibition, audience applause, and Chizuru's continuing-vocation statement; distribution, revenue, career conversion, and Kazuya's future production role remain unobserved.
 - The ledger supports no clinical label, fixed moral essence, or universal response rule.
 

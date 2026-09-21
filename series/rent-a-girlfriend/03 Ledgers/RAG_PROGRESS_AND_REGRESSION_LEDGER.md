@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V026
-row_count: 152
-state: CURRENT_THROUGH_V026
+inspected_through_volume: V027
+row_count: 159
+state: CURRENT_THROUGH_V027
 ```
 ```
 
@@ -195,3 +195,10 @@ state: CURRENT_THROUGH_V026
 | RAG-PRG-150 | Ruka's conduct under rivalry | SELF_COSTLY_PROTECTIVE_GAIN_WITH_CLAIM_STALL — she recognizes Mami's orchestration, apologizes, and asks the group to accept the pair's account. | Ruka rejects a method that could advance her own position and protects Kazuya from immediate collapse. | She does not withdraw her disputed claim or repair the earlier fabricated sex evidence. | RAG-E-V026-009, RAG-E-V026-010 |
 | RAG-PRG-151 | Family and peer trust | PARTIAL_REPAIR_WITH_VIOLENCE_AND_RESIDUAL_ERROR — Nagomi hears the account, accepts it, and apologizes while Kibe and Kazuo each strike Kazuya during the crisis. | Immediate exclusion is avoided and family access continues. | The repair is not fully informed, and physical punishment is a separate regression rather than evidence of restored trust. | RAG-E-V026-006, RAG-E-V026-016 |
 | RAG-PRG-152 | Principal mutual classification | HIGH_PUBLIC_INTIMACY_WITH_PRIVATE_STATUS_STALL — confession, two kisses, personal-importance language, and a public girlfriend claim occur without a private agreement. | The volume creates major observable affective and bodily change. | The narrator preserves genuine dating as the sole lie and the volume ends before private debrief. | RAG-E-V026-008, RAG-E-V026-012 through RAG-E-V026-016 |
+| RAG-PRG-153 | Family and peer trust | IMMEDIATE_NORMALIZATION_WITH_RESIDUAL_SCRUTINY — ordinary group treatment resumes, but Kuribayashi directly questions whether the couple claim is real. | Exposure does not produce immediate exclusion, and peer doubt becomes answerable speech. | Continued inclusion still rests on the residual dating lie and supplies no durable repair across all observers. | RAG-E-V027-001, RAG-E-V027-005 |
+| RAG-PRG-154 | Ruka's post-exposure conduct | DIRECT_BOUNDARY_ACTION_WITH_UNRESOLVED_CLAIM — Ruka confronts Chizuru, threatens agency contact, and demands reduced access while preserving her own status position. | The V026 stare develops into observable professional and relational action. | She does not accept separation, correct the fabricated sex claim, or establish legitimate authority over Chizuru. | RAG-E-V027-002, RAG-E-V027-007 |
+| RAG-PRG-155 | Chizuru's responsibility and self-knowledge | ACCOUNTABILITY_GAIN_WITH_UNNAMED_AFFECT — she admits the rule violation, shares blame, rejects Kazuya's unilateral sacrifice, and privately frames liking a customer as prohibited. | Responsibility and internal conflict become more explicit than the V026 public performance allowed. | She supplies no final feeling label, direct romantic answer, or truthful couple classification. | RAG-E-V027-002, RAG-E-V027-004, RAG-E-V027-006 |
+| RAG-PRG-156 | Principal communication | SEVERE_CONTACT_REGRESSION_AFTER_PARTIAL_DEBRIEF — Chizuru remains silent at her door, reads without replying, and sustains roughly three months without contact. | The pair move from intense public and private interaction to prolonged avoidant separation. | Silence does not prove hatred or permanent withdrawal, and their physical adjacency remains. | RAG-E-V027-008, RAG-E-V027-009 |
+| RAG-PRG-157 | Mini's intermediary route | REACTIVATED_INTERVENTION_WITH_LABELING_RISK — Mini corrects Kazuya's rejection inference, reaches Chizuru, labels the feeling love, and prompts a commitment to investigate. | Her intervention restores motion and creates a concrete self-inquiry task. | Helpful consequence does not validate her label, omniscience, or authority to manage both parties. | RAG-E-V027-010 through RAG-E-V027-012 |
+| RAG-PRG-158 | Kazuya's action capacity | RECOVERY_FROM_PASSIVE_DETERIORATION_THROUGH_BOUNDED_RECONTACT — after learning that he is not blocked or hated, he resolves to act and submits an accepted rental request. | He replaces three-month paralysis with an observable access step. | The paid route preserves the customer category and does not establish personal acceptance. | RAG-E-V027-013, RAG-E-V027-014 |
+| RAG-PRG-159 | Principal mutual classification | PAID_RECONTACT_WITH_DIRECT_SPEECH_THRESHOLD — both recall the kisses and remain strongly affected; Kazuya cannot ask, but Chizuru initiates serious speech before time expires. | Contact and conversational initiative return after the long separation. | The volume withholds the statement, answer, and any client-versus-person reclassification. | RAG-E-V027-014, RAG-E-V027-015 |

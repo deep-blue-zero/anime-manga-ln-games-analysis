@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V026
-row_count: 148
-state: CURRENT_THROUGH_V026
+inspected_through_volume: V027
+row_count: 156
+state: CURRENT_THROUGH_V027
 ```
 ```
 
@@ -191,3 +191,11 @@ state: CURRENT_THROUGH_V026
 | RAG-REL-146 | Nagomi → Chizuru and Kazuya | Family gatekeeper directly confronting the service identity | Requests an explanation, hears the near-complete room account, accepts it, and apologizes to Chizuru. | Immediate family access and chosen-family treatment survive substantial correction. | Her acceptance still rests on the false claim that the pair are actually dating. | RAG-E-V026-003, RAG-E-V026-006, RAG-E-V026-016 |
 | RAG-REL-147 | Kibe → Kazuya | Friend whose trust model collides with evidence of long deception | Punches Kazuya and later enforces the kiss-as-proof demand. | Friendship becomes punitive and coercive during the truth crisis. | Violence and bodily proof do not establish truth, consent, or durable repair. | RAG-E-V026-006, RAG-E-V026-011 |
 | RAG-REL-148 | Kazuo → Kazuya | Father recalling a suspicious payment and hearing a near-complete account | Raises the payment before the group and later strikes Kazuya. | Paternal doubt and anger become explicit physical consequences of exposure. | No separate repaired father-son state is established, and the accepted account retains one lie. | RAG-E-V026-002, RAG-E-V026-016 |
+| RAG-REL-149 | Nagomi / group → Kazuya and Chizuru | Near-complete account accepted under a residual status error | Resumes ordinary dinner and lodging treatment while Nagomi frames close relations as able to survive accumulated secrets. | Immediate inclusion continues after exposure rather than collapsing into expulsion. | Continued treatment still depends on the false genuine-dating premise. | RAG-E-V027-001, RAG-E-V027-005 |
+| RAG-REL-150 | Kuribayashi → Kazuya | Partly informed friend after the public kisses and family explanation | Grabs and presses Kazuya on whether the pair truly date and treats the kisses as evidence requiring interpretation. | Friendship moves from restraint during violence to direct trust scrutiny. | Challenge does not establish Kuribayashi's final belief, full knowledge, or durable friendship outcome. | RAG-E-V027-001, RAG-E-V027-005 |
+| RAG-REL-151 | Ruka → Chizuru | Rival and self-claimed partner confronting a professional boundary violation | Demands the kisses' meaning, threatens agency contact, rejects the work account, and later asks for reduced ordinary access to Kazuya. | Rivalry becomes a direct professional and access-boundary conflict rather than only public status display. | Ruka's own disputed claim and earlier fabrications remain uncorrected and grant no control over Chizuru. | RAG-E-V027-002, RAG-E-V027-007 |
+| RAG-REL-152 | Chizuru → Kazuya | Protective collaborator after two public kisses | Privately explains emergency action, shares blame, rejects his unilateral heroic ending, and internally treats liking a customer as prohibited. | Care, responsibility, and personally salient feeling become stronger while classification remains unresolved. | She provides no mutual-dating agreement and later withdraws from contact for roughly three months. | RAG-E-V027-004, RAG-E-V027-006 |
+| RAG-REL-153 | Chizuru → Kazuya | Adjacent neighbor and former active collaborator avoiding unresolved contact | Remains silent behind her door, reads a practical message without reply, and sustains roughly three months without contact. | Access regresses sharply despite physical proximity and accumulated care. | Silence does not prove hatred or terminate the relation, and Kazuya lacks her internal explanation. | RAG-E-V027-008, RAG-E-V027-009 |
+| RAG-REL-154 | Mini → Kazuya | Self-appointed supporter returning after prolonged separation | Rejects his hatred conclusion, supplies a favorable-feeling interpretation, and later tells him Chizuru's feeling is unnamed. | Restores enough hope and information for Kazuya to act. | Her account is selective and interpretive rather than a direct answer from Chizuru. | RAG-E-V027-010, RAG-E-V027-013 |
+| RAG-REL-155 | Mini → Chizuru | Confidant and forceful romantic intermediary | Seeks Chizuru directly, labels the feeling love, challenges professional suppression, and urges investigation and contact. | Converts avoidance into a stated commitment to examine the issue. | Chizuru rejects the label as simple or settled, and Mini's initiative was not requested by both principals. | RAG-E-V027-010 through RAG-E-V027-012 |
+| RAG-REL-156 | Kazuya ↔ Chizuru | Three-month separation reopened through a paid rental date | Kazuya books through the platform, Chizuru appears, both recall the kisses, and Chizuru initiates serious speech before the booking ends. | Mutual access and direct-conversation potential are restored within a bounded professional encounter. | Payment, nervous arousal, offered food, and attendance do not establish shared romantic status; the speech content is withheld. | RAG-E-V027-013 through RAG-E-V027-015 |

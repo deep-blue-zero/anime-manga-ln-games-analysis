@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V026
-row_count: 138
-state: CURRENT_THROUGH_V026
+inspected_through_volume: V027
+row_count: 145
+state: CURRENT_THROUGH_V027
 ```
 
 ## Records
@@ -180,3 +180,10 @@ state: CURRENT_THROUGH_V026
 | RAG-TXN-136 | Chizuru and Kazuya; identity disclosure, public claim, and second kiss | Chizuru voluntarily gives her real name and role, then responds to Mami's renewed visibility demand by repositioning Kazuya and kissing him again. | Repetition is her observable choice within a constrained public situation. | One protective performance does not obligate either person to repeat contact or accept dating status afterward. | The second kiss strengthens evidence of deliberate care while the public girlfriend label remains false; RAG-E-V026-014, RAG-E-V026-015. |
 | RAG-TXN-137 | Chizuru, Kazuya, and the Kinoshita family; near-complete account and ring obligation | The pair disclose almost everything but preserve actual dating as false; the inherited ring is discussed without an observable return. | Nagomi may accept, question, or withdraw care; Chizuru retains the right and obligation to address the ring apart from romantic status. | Family hospitality and apology create no duty to date, marry, retain the ring, or keep the residual lie. | Immediate access is restored under materially improved but incomplete information; RAG-E-V026-016. |
 | RAG-TXN-138 | Kibe, Kazuo, and Kazuya; physical punishment during disclosure | Friendship, parenthood, anger, and deception create no agreement or right to strike Kazuya. | Both men can question, withdraw trust, set boundaries, or hear the account without violence. | Bodily force supplies neither consent nor evidentiary proof and remains a separate harm. | Kibe punches during the public scene and Kazuo strikes after the room explanation; RAG-E-V026-006, RAG-E-V026-016. |
+| RAG-TXN-139 | Ruka and Chizuru; kiss interpretation, grabbing, and threatened agency report | No romantic claim grants Ruka authority to seize Chizuru, compel an emotional label, or report selectively on another person's behalf. | Ruka may state harm or contact the agency with accurate facts; Chizuru may stop unwanted contact, answer, refuse, or self-report. | Chizuru admits a professional violation, but that admission does not validate bodily pressure or Ruka's control over access. | The call is stopped and the conflict remains unresolved; RAG-E-V027-002. |
+| RAG-TXN-140 | Chizuru and Kazuya; private debrief after public kisses | No payment or new relationship agreement governs the conversation, and neither party owes the other a preferred interpretation. | Chizuru may explain her choice and responsibility; Kazuya may ask, interpret, or accept uncertainty. | Prior rescue, confession, and public pressure create no duty to date or to absorb all blame. | Responsibility is shared while romantic classification remains open; RAG-E-V027-003 through RAG-E-V027-005. |
+| RAG-TXN-141 | Chizuru and Kazuya; door visit, delivered flyer, and unanswered message | Neighbor proximity and misdelivered mail permit a practical contact attempt but create no right to entry, reply, or repeated access. | Kazuya may leave the flyer or message; Chizuru may decline contact or communicate a boundary. | Silent avoidance is within her control but leaves Kazuya without usable information and carries relational cost. | She remains inside, reads without replying, and no contact continues for roughly three months; RAG-E-V027-008, RAG-E-V027-009. |
+| RAG-TXN-142 | Mini and Chizuru; unbooked doorstep and room contact | Friendship permits a request for contact but does not automatically authorize hugging, entry, emotional diagnosis, or relationship management. | Chizuru may admit, refuse, correct, or end the conversation; Mini may offer interpretation and support. | Helpful intervention and confident labeling remain distinct from consent or factual authority. | Chizuru engages and resolves to investigate while rejecting a simple love classification; RAG-E-V027-010 through RAG-E-V027-012. |
+| RAG-TXN-143 | Mini, Kazuya, and Chizuru; cross-party information relay | Separate confidant access supplies no blanket permission to retransmit private detail. | Mini may share bounded corrections or encourage direct conversation while preserving uncertainty and confidentiality. | Her report that Chizuru does not hate Kazuya and has an unnamed feeling is filtered through her own theory. | The relay enables Kazuya's action without constituting Chizuru's direct answer; RAG-E-V027-010 through RAG-E-V027-013. |
+| RAG-TXN-144 | Kazuya and Chizuru; paid recontact after three months | Kazuya submits a rental request and the platform accepts it; the date remains time-bounded and compensated, with a visible total around 28,860 yen. | Either party may keep the booking professional, raise the unresolved issue, set limits, or end at the contracted boundary. | Platform acceptance and paid girlfriend performance create no personal or romantic obligation. | The wrapper restores access while preserving the client category Chizuru experiences as a barrier; RAG-E-V027-013 through RAG-E-V027-015. |
+| RAG-TXN-145 | Chizuru and Kazuya; café care and initiated speech inside the booking | Offered tea and food occur within paid time and do not independently distinguish professional performance from personal care. | Kazuya may ask his question; Chizuru may initiate her own statement, defer, or define the client-person boundary. | Attraction, shared food, kiss memories, and cost create no entitlement to a romantic answer. | Chizuru speaks first with about thirty minutes left, but content and consequence are withheld; RAG-E-V027-015. |

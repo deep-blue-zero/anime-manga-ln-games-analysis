@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V026
-row_count: 178
-state: CURRENT_THROUGH_V026
+inspected_through_volume: V027
+row_count: 187
+state: CURRENT_THROUGH_V027
 ```
 
 ## Records
@@ -220,3 +220,12 @@ state: CURRENT_THROUGH_V026
 | RAG-AGY-176 | Kibe | Wait for explanation, challenge the evidence verbally, or use force and public proof. | Punches Kazuya, invokes the ring and their apparent closeness, and later enforces Mami's kiss demand. | Accelerates surrender and public demonstration while pursuing his trust standard. | Violence and coerced proof establish neither truth nor consent; Kibe lacks the complete history; RAG-E-V026-006, RAG-E-V026-011. |
 | RAG-AGY-177 | Chizuru and Kazuya | Disclose the complete relation history, preserve the old cover, or narrow the deception. | Explain almost everything in room 8504 while retaining only the claim that they are genuinely dating. | Replace a broad false history with one explicit residual status lie and regain immediate family acceptance. | Near-complete disclosure is still not full correction, and no private romantic agreement is observed; RAG-E-V026-016. |
 | RAG-AGY-178 | Kazuo | Ask about the witnessed payment, wait for explanation, or respond physically. | Raises the money exchange during exposure and later strikes Kazuya after the room account. | Makes paternal suspicion and anger explicit. | Physical violence is not an evidentiary or restorative act, and the accepted account remains partly false; RAG-E-V026-002, RAG-E-V026-016. |
+| RAG-AGY-179 | Nagomi and Kuribayashi | Resume ordinary group treatment, withdraw trust, or question the retained couple claim. | Nagomi supports continued relations and stops escalation; Kuribayashi directly presses Kazuya on whether the pair truly date and invokes the kisses. | Produces immediate social continuation and peer scrutiny after the family account. | Both responses occur under the residual dating lie and do not establish durable trust repair; RAG-E-V027-001, RAG-E-V027-005. |
+| RAG-AGY-180 | Ruka | Accept the kisses as an emergency act, withdraw her own claim, or demand consequences from Chizuru. | Confronts Chizuru, grabs her, attempts an agency call, rejects the work explanation, and later demands reduced ordinary access to Kazuya. | Converts the endpoint stare into professional, emotional, and access pressure. | Her claim supplies no authority over Chizuru's employment or access, and no workable separation results; RAG-E-V027-002, RAG-E-V027-007. |
+| RAG-AGY-181 | Chizuru | Deny responsibility, accept Ruka's framing, or define her own account of the crisis. | Stops the agency call, admits a complete rule violation, tells Ruka to examine her own feelings, shares responsibility with Kazuya, and rejects his unilateral heroic ending. | Preserves answer control and distributes moral responsibility rather than leaving either rival or Kazuya to define the act. | She still gives no settled romantic classification and maintains the false dating cover; RAG-E-V027-002, RAG-E-V027-004. |
+| RAG-AGY-182 | Chizuru | Reply to Kazuya's door visit and practical message, set an explicit boundary, or remain silent. | Stays inside while he rings, reads his message immediately, does not answer, and sustains no contact for roughly three months. | Uses nonresponse to defer the unresolved interaction. | Kazuya cannot know her presence or motive, and silence creates severe cost without communicating a usable boundary; RAG-E-V027-008, RAG-E-V027-009. |
+| RAG-AGY-183 | Mini | Observe Kazuya's deterioration or intervene in his interpretation and contact route. | Rejects his belief that Chizuru hates him, argues for some favorable feeling, and seeks Chizuru directly. | Reopens a stalled information route and interrupts Kazuya's self-confirming rejection account. | Her feeling judgment is interested interpretation, and neither principal requested the intervention; RAG-E-V027-010. |
+| RAG-AGY-184 | Mini | Accept Chizuru's unnamed feeling or press a specific romantic label and next action. | Calls the feeling love, argues that rental work may suppress recognition, and urges investigation, contact, and direct engagement with Kazuya. | Converts ambiguity into an explicit self-inquiry task. | Chizuru does not accept the label as simple or settled; useful pressure does not make Mini's diagnosis authoritative; RAG-E-V027-011, RAG-E-V027-012. |
+| RAG-AGY-185 | Chizuru | Continue indefinite avoidance or commit to examining the feeling and facing Kazuya. | Explains her nonregret and Ruka guilt, says the feeling lacks a sufficient name, and resolves to act after Mini's challenge. | Turns private conflict into a prospective investigation rather than a final answer. | The volume does not yet show the investigation's method or conclusion; RAG-E-V027-011, RAG-E-V027-012. |
+| RAG-AGY-186 | Kazuya | Wait for Chizuru to contact him, treat silence as rejection, or create a bounded re-entry route. | Confirms he is not blocked, accepts Mini's limited correction, resolves to act with his own strength, and submits an accepted rental request. | Replaces passive deterioration with a concrete access attempt through an established system. | Payment and platform acceptance do not establish personal or romantic acceptance; RAG-E-V027-013, RAG-E-V027-014. |
+| RAG-AGY-187 | Chizuru and Kazuya | Complete the paid date as routine performance or use its remaining time for the unresolved conversation. | Kazuya repeatedly prepares but cannot ask; with about thirty minutes left, Chizuru initiates serious speech first. | Places direct conversation at the endpoint through Chizuru's observable initiative. | The volume cuts before the content, answer, or wrapper consequence is known; RAG-E-V027-015. |

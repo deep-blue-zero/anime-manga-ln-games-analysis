@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.24"
+version: "1.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V026; character evidence inspected through V026, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V027; character evidence inspected through V027, with V012-V013 and V019 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V026
+inspected_through_volume: V027
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -107,6 +107,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E067 | RUK-S022 | RAG-E-V026-001, RAG-E-V026-002 | Phone ownership and failed cover attempt | Identifies the device as hers, challenges Mami's role, and tries to dismiss the display as a joke image before Mami surfaces the service evidence. | Attempts to contain the exposure rather than exploit it for immediate advantage. | The cover is false and fails; exact pre-drop screen preparation remains unknown. | RAG-RUK-R002, RAG-RUK-R005, RAG-RUK-R013, RAG-RUK-R014 |
 | RAG-RUK-E068 | RUK-S022 | RAG-E-V026-009, RAG-E-V026-010 | Self-costly resistance to Mami's verification regime | Recalls her continuing love and Kazuya's preference, recognizes deliberate Mami action, apologizes to Kazuya, and asks the group to accept the principals' stated relation. | Protects Kazuya and Chizuru from immediate collapse even though their survival obstructs her own romantic goal. | She does not withdraw her own claim or correct the prior fabricated sex account. | RAG-RUK-R005, RAG-RUK-R006, RAG-RUK-R010, RAG-RUK-R014 |
 | RAG-RUK-E069 | RUK-S022 | RAG-E-V026-016 | Residual claim after near-complete explanation | Leaves room 8504 under the account that only genuine dating remains false and fixes the pair with a hard stare. | Shows that the protective intervention has not resolved her attachment or opposition. | The volume ends before a confrontation, withdrawal, demand, or access change. | RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R014 |
+| RAG-RUK-E070 | RUK-S023 | RAG-E-V027-002 | Direct confrontation over kisses and professional rules | Follows Chizuru into the restroom, demands whether she likes Kazuya, grabs her, rejects necessity as a work explanation, and attempts to contact the rental agency. | Converts the V026 endpoint stare into direct emotional, bodily, and institutional pressure. | Her own sudden kiss history and disputed claim complicate the moral position; grievance does not authorize grabbing or compelled classification. | RAG-RUK-R002, RAG-RUK-R005, RAG-RUK-R010, RAG-RUK-R015 |
+| RAG-RUK-E071 | RUK-S023 | RAG-E-V027-007, RAG-E-V027-009 | No-count framing, access demand, and later reduced vigilance | Calls the resort kisses a necessary evil that protected her boyfriend, demands that Chizuru reduce ordinary access, and later relaxes full-alert monitoring during the three-month silence. | Preserves her own status account while seeking a practical boundary against her rival. | She does not obtain Chizuru's agreement, restore Kazuya's consent, or create workable separation terms. | RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R014, RAG-RUK-R015 |
 
 ## State-change summary
 
@@ -159,6 +161,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - V024 makes her selective nondisclosure observable twice: she stops before naming herself to Nagomi and later invents cover explanations during the ring and status confrontation, even while repeating the false sex claim to Chizuru (RAG-E-V024-003, RAG-E-V024-004, RAG-E-V024-011 through RAG-E-V024-013).
 - V025 gives her a direct correction of the grievance she anticipated from Kuribayashi, but supplies too little follow-through to generalize how she handles nonromantic accountability or former-client concern (RAG-E-V025-011).
 - V026 adds a discriminating counterexample to pure rivalry: Ruka resists Mami's exposure and proof regime at direct cost to her own goal, yet the final stare and lack of withdrawal show that local protection does not dissolve her attachment or disputed claim (RAG-E-V026-001, RAG-E-V026-009, RAG-E-V026-010, RAG-E-V026-016).
+- V027 shows the next action: Ruka directly pressures Chizuru over the kisses, threatens agency involvement, and demands reduced access while reframing the kisses as a necessary exception that leaves her own claim intact (RAG-E-V027-002, RAG-E-V027-007).
 - She does not immediately expose the central secret and later explicitly says she never intended to do so, supplying counterevidence to a purely destructive or manipulative model.
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, university visits, and karaoke coworker access are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 
@@ -170,7 +173,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - Her stated love is direct evidence of her represented belief, not proof of Kazuya's feeling or her later conduct.
 - The V005 and V008 continuations establish Kazuya's refusals and no completed sexual act; Ruka's contrary V009 and V022-V023 claims are explicitly fabricated or denied and do not establish intimacy.
 - Kazuya's interrupted attempt to make the relationship official is not reciprocal-love evidence, and Ruka does not know his later direct preference or support language to Chizuru.
-- No evidence supports performed voice, acoustic delivery, a clinical label, or durable restraint under repeated nonreciprocity; the V026 protective intervention is material but does not yet establish workable separation or repair of prior coercion and fabrication.
+- No evidence supports performed voice, acoustic delivery, a clinical label, or durable restraint under repeated nonreciprocity; the V026 protective intervention and V027 boundary confrontation do not establish workable separation or repair of prior coercion and fabrication.
 
 ## Update rule
 

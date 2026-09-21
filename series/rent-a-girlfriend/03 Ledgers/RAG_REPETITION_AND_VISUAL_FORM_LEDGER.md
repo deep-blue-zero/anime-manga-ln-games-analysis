@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V026
-row_count: 148
-state: CURRENT_THROUGH_V026
+inspected_through_volume: V027
+row_count: 157
+state: CURRENT_THROUGH_V027
 ```
 
 ## Records
@@ -190,3 +190,12 @@ state: CURRENT_THROUGH_V026
 | RAG-FRM-146 | Mami's demand that the kiss be more visible produces a repeated hand-taking, repositioning, and second kiss. | The romantic image becomes an evidentiary test performed for observers rather than a private exchange. | Repetition confirms Chizuru's deliberate action and the audience's coercive control at the same time. | A second act under the same pressure does not create a broader bodily or relational agreement; RAG-E-V026-015. |
 | RAG-FRM-147 | A compressed room montage and explicit narrator sentence replace spectacle with account-level classification. | Roughly two hours of explanation remove nearly every prior concealment while one dating lie remains. | Summary form makes the informational result precise even though individual disclosures are not dramatized. | Compression cannot establish unshown private debrief, ring return, or complete truth; RAG-E-V026-016. |
 | RAG-FRM-148 | The author afterword precedes nine pages of a rejected alternate Satisfaction 220 route. | Creator commentary explicitly separates discarded construction from the published continuity just inspected. | Paratext and alternate pages provide process evidence without entering narrative sequence or character state. | Visual completeness does not make the rejected version canonical; RAG-E-V026-017. |
+| RAG-FRM-149 | Repeated kiss images return first through Kazuya's intrusive replay rather than new bodily contact. | The public act continues to govern his attention during ordinary post-resort scenes. | Memory repetition preserves affective consequence while distinguishing recollection from event. | Replayed and idealized panels are not additional kisses or Chizuru's current response; RAG-E-V027-003. |
+| RAG-FRM-150 | The confined restroom confrontation uses close bodily spacing, a grabbed garment or shoulder, a raised phone, and stopped hand. | Professional rule, rivalry, and disclosure threat become visible physical contest. | Escalating gesture turns abstract status conflict into bounded control over body, device, and exit. | Visual intensity does not authorize Ruka's pressure or solve either woman's feeling; RAG-E-V027-002. |
+| RAG-FRM-151 | Chizuru's solitary pool sequence layers memories of rescue, film labor, ideal-girlfriend speech, and Sayuri before the customer-love prohibition. | Accumulated relationship evidence becomes interior conflict rather than public performance. | Montage links repeated care to a newly explicit professional inhibitor. | Memory convergence and blush do not settle the final label or future act; RAG-E-V027-006. |
+| RAG-FRM-152 | A closed apartment door, unheard ringing, delayed peephole view, and read-without-reply phone screen stage asymmetrical access. | Kazuya experiences absence while the reader sees Chizuru actively withholding response nearby. | Spatial proximity and interface confirmation make silence an action rather than an empty gap. | Form reveals nonresponse but not her complete motive; RAG-E-V027-008, RAG-E-V027-009. |
+| RAG-FRM-153 | Calendar and condition montage compresses roughly three months as Kazuya becomes disheveled and ordinary contact disappears. | A long relational regression is represented through repetition, elapsed-time text, and bodily deterioration. | Compression distinguishes sustained separation from one missed encounter. | The montage does not enumerate every day or establish permanent withdrawal; RAG-E-V027-009. |
+| RAG-FRM-154 | Mini's emphatic love label is placed against Chizuru's quieter insistence that the feeling lacks a sufficient name. | Competing speech forms externalize certainty versus unresolved self-knowledge. | The contrast prevents the intermediary's confidence from silently becoming narrator authority. | Chizuru's resolve is to investigate, not to adopt Mini's label; RAG-E-V027-011, RAG-E-V027-012. |
+| RAG-FRM-155 | Block status, date captions, the rental interface, receipt total, elapsed time, and remaining minutes make the recontact visibly transactional. | Romantic anticipation unfolds inside explicit platform and clock boundaries. | Interface and accounting motifs preserve the client-provider frame at the moment it is most emotionally contested. | Transactional form does not prove that every gesture is performed or that no personal feeling exists; RAG-E-V027-013 through RAG-E-V027-015. |
+| RAG-FRM-156 | Mirrored kiss flashbacks and mutual nervous close-ups precede Kazuya's repeated failed starts and Chizuru's final “hey.” | Both principals carry the same event into the date while the page sequence withholds whether their meanings match. | Parallel focal cues create a direct-speech threshold without resolving classification. | Shared salience is not shared interpretation, and the statement remains beyond the cut; RAG-E-V027-014, RAG-E-V027-015. |
+| RAG-FRM-157 | An explicit creator note interrupts apparent continuity before six polished cut pages that resemble the resort aftermath. | Paratext marks the main story as complete and recodes the following phone and Mami imagery as manuscript memorial material. | The formal boundary demonstrates why visual continuity alone cannot determine canonical sequence. | Cut pages cannot support Mami action, chronology, or character state; RAG-E-V027-016. |

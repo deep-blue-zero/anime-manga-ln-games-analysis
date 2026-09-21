@@ -4,20 +4,20 @@ artifact_id: RAG_NAGOMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; character evidence inspected through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; character evidence inspected through V027."
 ---
 
 # Nagomi Kinoshita evidence ledger
 
 ## Responsibility and identity
 
-This ledger owns Nagomi's project-local evidence trace across family expectation, kinship extension, material support, bereavement response, and the V020 business approach. Her conduct remains conditioned by an uncorrected belief that Kazuya and Chizuru form a genuine couple.
+This ledger owns Nagomi's project-local evidence trace across family expectation, kinship extension, material support, bereavement response, and the V020 business approach. Her conduct remains conditioned by the residual false belief that Kazuya and Chizuru form a genuine couple.
 
 ~~~yaml
 local_character_key: RAG-LOCAL-NAGOMI
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V026
+inspected_through_volume: V027
 local_readiness: UNMODELED
 ~~~
 
@@ -62,6 +62,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-NAG-E022 | NAG-S010 | RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001 | Phone-based rental-profile exposure | Witnesses Chizuru's Diamond profile on Ruka's fallen phone; V026 records Mami saying that she dropped it. | Becomes part of the immediate audience for direct service-identity evidence after years of apparent-couple belief. | V025 withholds her settled interpretation, and exact pre-drop screen preparation remains unknown. | none; model withheld |
 | RAG-NAG-E023 | NAG-S011 | RAG-E-V026-002, RAG-E-V026-003, RAG-E-V026-006 | Direct family question under accusation and violence | Stops the crowd, hears Kazuo's payment suspicion and Mami's framing, invokes Sayuri's trust, and asks Kazuya whether Chizuru is a rental rather than his real girlfriend. | Converts shock into a direct answerable question and later requests explanation. | The surrounding accusation and Kibe's violence constrain the setting, and Nagomi still lacks the complete history. | none; model withheld |
 | RAG-NAG-E024 | NAG-S011 | RAG-E-V026-016 | Acceptance and apology under near-complete disclosure | Hears roughly two hours of explanation, accepts the account, and apologizes to Chizuru. | Preserves immediate family inclusion after learning most of the rental and deception history. | The narrator states that genuine dating remains the sole lie, so her acceptance is not fully informed. | none; model withheld |
+| RAG-NAG-E025 | NAG-S012 | RAG-E-V027-001, RAG-E-V027-005 | Immediate post-disclosure normalization | Frames close relationships as able to accumulate secrets and distorted time, supports a return to ordinary dinner and lodging, and stops Kuribayashi's escalation. | Converts acceptance into continued social inclusion rather than immediate exclusion or surveillance. | Her response still rests on the false genuine-dating premise and does not establish reaction to its correction. | none; model withheld |
 
 ## State-change summary
 
@@ -89,7 +90,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - Nagomi has responded to a near-complete rental-girlfriend history, but she has not received a truthful correction of the final genuine-dating premise.
 - Her broader history, independent friendships, ordinary business decision-making, and long-term response to disagreement are sparse.
 - Strong care does not erase the pressure created by family expectation, lover classification, or the engagement ring.
-- V026 establishes direct questioning, acceptance, and apology under a broad explanation, but the summarized account does not enumerate her exact knowledge of Mami's former relationship, Ruka's disputed trial, or the fabricated wrapper claim.
+- V026 establishes direct questioning, acceptance, and apology under a broad explanation; V027 adds immediate normalization, but neither volume enumerates her exact knowledge of Mami's former relationship, Ruka's disputed trial, or the fabricated wrapper claim.
 - The available contexts are too concentrated in one false family premise for reliable behavior generalization.
 
 ## Update rule

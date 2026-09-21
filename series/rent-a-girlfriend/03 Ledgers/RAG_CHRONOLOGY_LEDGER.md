@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V026
-row_count: 122
-state: CURRENT_THROUGH_V026
+inspected_through_volume: V027
+row_count: 129
+state: CURRENT_THROUGH_V027
 ```
 
 ## Records
@@ -164,3 +164,10 @@ state: CURRENT_THROUGH_V026
 | RAG-CHR-120 | RAG-E-V026-007 through RAG-E-V026-011 | Kazuya decides on a protective bluff, claims an earlier genuine relationship and confesses love; Mami demands a kiss, Ruka intervenes, Kibe reinforces the demand, and Kazuya abandons the cover. | The single public confrontation supplies the ordering. | Internal memories do not establish separate present-time intervals. |
 | RAG-CHR-121 | RAG-E-V026-012 through RAG-E-V026-015 | Chizuru initiates and sustains a first kiss, discloses her name and role, makes the public girlfriend claim, then initiates a second kiss after Mami demands clearer repetition. | The two kisses are distinct and ordered around the identity disclosure. | Their precise clock duration is unstated despite prolonged page treatment. |
 | RAG-CHR-122 | RAG-E-V026-016 | The pair then spend roughly two hours explaining the history in room 8504, retain only the genuine-dating lie, receive Nagomi's acceptance and apology, and leave under Ruka's stare after Kazuo strikes Kazuya. | The room account follows both kisses and precedes departure from the explanation. | The exact content order inside the summarized interval and subsequent private aftermath remain unstated. |
+| RAG-CHR-123 | RAG-E-V027-001 through RAG-E-V027-003 | Immediate post-room social treatment and Kuribayashi's challenge precede Ruka's restroom confrontation and Kazuya's private kiss replay. | These events continue the resort departure period after V026 without a large indicated interval. | Exact minute ordering among adjacent group and private transitions is not stated. |
+| RAG-CHR-124 | RAG-E-V027-004 through RAG-E-V027-006 | The principals' private debrief precedes Kazuya's renewed doubt and Chizuru's solitary pool reflection on liking a customer. | Speech, group return, and interior reflection are sequentially represented before the trip ends. | The exact duration and a final emotional classification remain unstated. |
+| RAG-CHR-125 | RAG-E-V027-007, RAG-E-V027-008 | Two days after the return, Kazuya distinguishes the kisses from rescue contact, Ruka demands access limits, and Kazuya later brings the misdelivered flyer while Chizuru stays silent inside. | The text explicitly marks the two-day interval from the resort return. | Exact hours between the station exchange and apartment visit are not stated. |
+| RAG-CHR-126 | RAG-E-V027-009 | Kazuya sends the flyer message at 20:18; Chizuru reads without replying, and narration states that roughly three months pass without contact after the November 25 return. | November 25 and 20:18 are explicit anchors; the three-month interval is explicit but approximate. | The exact date of the message and each day of the separation are not enumerated. |
+| RAG-CHR-127 | RAG-E-V027-010 through RAG-E-V027-012 | Mini returns from India after about one month away, finds Kazuya deteriorated, then contacts Chizuru and urges her to investigate the unnamed feeling. | The intervention occurs during the long no-contact interval and before February 19. | Mini's precise return date and the interval between her two conversations are unstated. |
+| RAG-CHR-128 | RAG-E-V027-013 | On February 19, Kazuya confirms he is not blocked, receives Mini's report, resolves to act, and submits a rental request that is accepted. | The date is explicit and precedes the scheduled March meeting. | The exact booking acceptance time and any intermediary exchange are not shown. |
+| RAG-CHR-129 | RAG-E-V027-014, RAG-E-V027-015 | On March 1 at 12:59 in Harajuku, the paid date begins; after roughly ninety minutes, a receipt near 28,860 yen and thirty minutes remaining precede Chizuru's initiated speech. | Date, time, elapsed duration, and remaining-time expressions directly order the endpoint. | The speech content and events after the V027 cut remain outside the volume. |

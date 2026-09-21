@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; inspected and closed through V027."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V026
-row_count: 157
-state: CURRENT_THROUGH_V026
+inspected_through_volume: V027
+row_count: 166
+state: CURRENT_THROUGH_V027
 ```
 
 ## Records
@@ -199,3 +199,12 @@ state: CURRENT_THROUGH_V026
 | RAG-INF-155 | Chizuru publicly corrects her real name and rental role while making a false current-status claim. | She identifies herself as Ichinose Chizuru, says Kazuya began as a customer and became important, and calls herself his genuine girlfriend. | Significant identity and valuation truth are coupled to emergency continuation of the couple cover. | The later narrator identifies actual dating as the remaining lie; RAG-E-V026-014, RAG-E-V026-016. |
 | RAG-INF-156 | The room 8504 account reveals almost the entire history and preserves exactly one central deception. | The narrator states that only the lie that the pair are really dating remains. | The family information state changes from broad false biography to near-complete knowledge with a bounded status error. | The manga does not enumerate every sentence of the two-hour explanation; RAG-E-V026-016. |
 | RAG-INF-157 | Nagomi accepts and apologizes under the near-complete account rather than the full truth. | She hears the explanation after the public crisis and restores immediate family access. | Her judgment is materially better informed than before exposure but still depends on the false mutual-dating premise. | Acceptance cannot be treated as a fully informed endorsement of either prior deception or present status; RAG-E-V026-016. |
+| RAG-INF-158 | Immediate social continuation does not equal settled belief in the residual dating claim. | Nagomi encourages continued relations while Kuribayashi asks Kazuya directly whether the pair really date and cites the kisses. | The accepted account remains open to peer verification even as ordinary treatment resumes. | Kuribayashi's challenge and Nagomi's normalization do not reveal every audience member's final belief; RAG-E-V027-001, RAG-E-V027-005. |
+| RAG-INF-159 | Ruka and Chizuru explicitly disclose conflicting interpretations of the kisses and the professional boundary. | Ruka asks whether Chizuru likes Kazuya and threatens agency contact; Chizuru admits a rule violation but refuses a settled romantic answer. | Previously inferred rivalry and ethics become direct speech between the two women. | Neither account settles mutual dating, future access, or the agency's actual response; RAG-E-V027-002. |
+| RAG-INF-160 | The principals' private debrief corrects blame allocation without correcting the residual dating lie. | Chizuru calls the kisses emergency action, acknowledges factual guilt, shares responsibility, and rejects Kazuya's unilateral heroic ending. | Kazuya receives a bounded explanation and evidence that Chizuru does not assign all fault to him. | He interprets it as nonromantic, but she does not supply a final feeling label; RAG-E-V027-003 through RAG-E-V027-005. |
+| RAG-INF-161 | Chizuru privately recognizes a customer-directed feeling as personally salient and professionally prohibited. | Her pool reflection links Kazuya's accumulated care to the thought that she cannot like a customer. | The reader gains interior information unavailable to Kazuya, Ruka, and the family. | The thought does not establish a final love label, intention, or mutual status; RAG-E-V027-006. |
+| RAG-INF-162 | Chizuru's avoidance creates an asymmetric information state. | She remains inside during Kazuya's door visit and immediately reads his later practical message without replying, while he believes she is absent and may hate him. | The audience knows that silence is chosen and that Kazuya's rejection inference lacks full access. | Her complete reason and intended duration remain unstated; RAG-E-V027-008, RAG-E-V027-009. |
+| RAG-INF-163 | The resort return and separation receive explicit temporal correction. | Narration places the return on November 25 and states that roughly three months pass without contact. | The gap is a prolonged state rather than a brief cooling-off period. | Approximate duration does not enumerate every attempted or unattempted contact; RAG-E-V027-009. |
+| RAG-INF-164 | Mini acquires the post-resort accounts from both principals and supplies interested interpretations to each. | She hears Kazuya's hatred conclusion, obtains Chizuru's account of nonregret, guilt, and unnamed feeling, and labels the feeling love. | Mini again becomes a high-information intermediary between separated parties. | Separate confidences do not make her omniscient or authorize unrestricted retransmission; RAG-E-V027-010 through RAG-E-V027-012. |
+| RAG-INF-165 | Chizuru distinguishes uncertainty from absence by saying that the feeling lacks a sufficient name and resolving to investigate it. | She rejects Mini's easy classification while agreeing to stop fleeing and face the issue. | Her state becomes explicit uncertainty with prospective inquiry rather than denial or accepted romance. | The inquiry's method and result remain beyond the observed conversation; RAG-E-V027-011, RAG-E-V027-012. |
+| RAG-INF-166 | Kazuya learns that he is not blocked and that Chizuru does not hate him, then reopens contact through a paid date whose decisive conversation is withheld. | Mini supplies the limited correction, the platform accepts his request, and Chizuru begins serious speech with thirty minutes remaining. | A rejection belief is corrected enough to enable action while the substantive answer remains pending. | Mini's report is filtered, platform acceptance is not romantic acceptance, and Chizuru's statement is beyond the cut; RAG-E-V027-013 through RAG-E-V027-015. |

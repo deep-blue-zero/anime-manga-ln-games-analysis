@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V020; character evidence inspected through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V027; character evidence inspected through V027, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V027
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -54,6 +54,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E014 | MIN-S004 | RAG-E-V019-020 | Direct confidant access; grief and classification | Visits Chizuru and elicits her account of severe loneliness, crying, relief, and retained non-boyfriend classification. | Obtains information neither principal has directly exchanged with the other. | Confidential access does not authorize retransmission, and Chizuru rejects the boyfriend label. | RAG-MIN-R003, RAG-MIN-R004 |
 | RAG-MIN-E015 | MIN-S004 | RAG-E-V020-004 | Public address and peer-network expansion; social conduct | Calls Kazuya “Master” in front of Kuribayashi when university resumes. | Makes the chosen supporter relation visible to another peer. | The address does not reveal the complete film or romantic history. | RAG-MIN-R005 |
 | RAG-MIN-E016 | MIN-S004 | RAG-E-V020-016 | Later causal reference; intervention consequence | Chizuru cites Mini's earlier disclosure when directly asking Kazuya whether he likes her. | Confirms that Mini's intervention remains an active information cause at V020. | Kazuya's incomplete answer still does not prove Mini's full mutual-romance theory. | RAG-MIN-R002, RAG-MIN-R003 |
+| RAG-MIN-E017 | MIN-S005 | RAG-E-V027-010 | Return, distress diagnosis, and renewed intervention | Returns from about a month in India, finds Kazuya and his room deteriorated, rejects his belief that Chizuru hates him, and seeks Chizuru directly. | Rapidly converts observed distress into an information and contact intervention. | Her favorable-feeling inference is not yet based on Chizuru's current account, and neither principal requested mediation. | RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006 |
+| RAG-MIN-E018 | MIN-S005 | RAG-E-V027-010 through RAG-E-V027-012 | Direct confidant access and post-resort account | Encounters Chizuru with groceries, hugs her, enters her room, and receives the account of the kisses, nonregret, Ruka guilt, and unnamed feeling. | Gains current private information after the principals' long silence. | Friendship and useful access do not automatically authorize touch, entry, or later retransmission. | RAG-MIN-R003, RAG-MIN-R004, RAG-MIN-R006 |
+| RAG-MIN-E019 | MIN-S005 | RAG-E-V027-011, RAG-E-V027-012 | Confident labeling and self-inquiry prompt | Calls the feeling love, argues that rental work may suppress recognition, and urges Chizuru to investigate, contact Kazuya, and face his feeling. | Her pressure produces Chizuru's observable resolve to act. | Chizuru explicitly resists the label as simple or settled, so outcome does not validate Mini's diagnosis. | RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006 |
+| RAG-MIN-E020 | MIN-S005 | RAG-E-V027-013 | Bounded relay and recontact consequence | Tells Kazuya that she spoke to Chizuru, takes responsibility for pushing both parties, and reports that Chizuru does not hate him and has an unnamed feeling. | Corrects a harmful inference enough to restore Kazuya's action capacity. | The relay is selective and interpretive rather than Chizuru's direct answer or permission for broader disclosure. | RAG-MIN-R003, RAG-MIN-R004, RAG-MIN-R006 |
 
 ## State-change summary
 
@@ -61,12 +65,14 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S002 — campaign analyst and direct intermediary: demonstrates creator-domain competence, coordinates recovery, maintains a local privacy boundary, and discloses Kazuya's feeling to Chizuru without permission.
 - MIN-S003 — access engineer under accountability pressure: uses false absence information to isolate the pair, admits the deception when questioned, and gains direct evidence of Ruka's competing status claim.
 - MIN-S004 — aftermath interpreter and confidant: questions both principals separately, carries an interested romantic theory, receives Chizuru's grief account, keeps a visible “Master” relation, and remains causally relevant to the V020 direct question.
+- MIN-S005 — returned intermediary under prolonged silence: diagnoses Kazuya's rejection spiral, obtains Chizuru's current account, presses a love label that Chizuru resists, prompts self-investigation, and relays a bounded correction that enables paid recontact.
 
 ## Written-speech and ordinary-conduct notes
 
 - Mini favors explicit labels, fast interpretations, direct questions, and action proposals.
 - She can translate creator experience into analytics, task distribution, and deadline response when the goal is measurable.
 - She frequently treats relational inertia as a problem to solve, which produces useful disclosure and nonconsensual engineering in the same evidence set.
+- V027 shows the same duality without logistical deception: direct pressure and selective relay help end paralysis, while confident labeling and unrequested mediation remain authorization risks.
 - She can state her own privacy boundary clearly and can admit a deception after direct questioning.
 - Ordinary-life coverage includes university adjacency, creator/streamer identity, room access, group work, public peer contact, and confidant visits; independent friendships, family, finances, creator routine, and non-support goals remain thin.
 
@@ -75,9 +81,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - Mini does not possess direct access to every private event she interprets and should not be written as an omniscient romance narrator.
 - Her “Master” language is a chosen social relation, not proof of formal hierarchy or unquestioned obedience.
 - Successful campaign help does not validate her romantic predictions or her use of Ruka's identity.
-- Chizuru's V019 report preserves severe loneliness and relief while explicitly denying boyfriend status; both facts constrain Mini's theory.
+- Chizuru's V019 report preserves severe loneliness and relief while explicitly denying boyfriend status; V027 adds an unnamed feeling and investigation commitment while still rejecting Mini's simple love label.
 - Long-term reliability, confidentiality, response to a firm request to stop intervening, and independent creator performance are insufficiently tested.
-- No post-V020 consequence may be imported to complete Kazuya's interrupted answer.
+- No V027 endpoint consequence may be imported to complete Chizuru's initiated speech or validate Mini's relationship theory.
 
 ## Update rule
 
