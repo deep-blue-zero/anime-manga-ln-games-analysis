@@ -4,14 +4,14 @@ artifact_id: SYL_CURRENT_STATE
 artifact_type: corpus_map
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "Japanese-language TV anime E01-E06 closed at Japanese-caption and complete static-visual scope; E04 checkpoint complete; E07-E12 inventoried"
+source_boundary: "Japanese-language TV anime E01-E07 closed at Japanese-caption and complete static-visual scope; E04 checkpoint complete; E08-E12 inventoried"
 canonical_home: series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -46,12 +46,12 @@ This is the single canonical first-read surface for the project. Primary media, 
 - Continuing branch: `series/sayonara-lara`
 - `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 - Planned and source-locked narrative boundary: E01-E12
-- Verified narrative transaction boundary: E06
-- Audiovisual closure: E01-E06 text/static transactions complete; no episode certified for auditory or continuous-video coverage
+- Verified narrative transaction boundary: E07
+- Audiovisual closure: E01-E07 text/static transactions complete; no episode certified for auditory or continuous-video coverage
 - Knowledge mode: source-bounded chronological reread with disclosed prior exposure to E01-E04 discussion and the ending
-- Current operation: close and commit the E06 atomic transaction, then open E07
-- Next sequential candidate: E07
-- Publication state: E06 is the current transaction boundary; branch push remains pending until the requested goal is complete
+- Current operation: close and commit the E07 atomic transaction, then open E08 and its checkpoint
+- Next sequential candidate: E08
+- Publication state: E07 is the current transaction boundary; branch push remains pending until the requested goal is complete
 
 ## Authorized sequential execution
 
@@ -61,8 +61,8 @@ sequential_execution:
   unit_type: episode
   authorized_start: E01
   terminal_boundary: E12
-  committed_high_water_mark: E06
-  next_candidate_operation: E07
+  committed_high_water_mark: E07
+  next_candidate_operation: E08
   confirmation_between_units: false
   run_state: active
 ```
@@ -94,10 +94,10 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 | Responsibility | State |
 |---|---|
 | Method, synthesis architecture, AV protocol, design sources | Canonical and adopted |
-| Source register and execution record | E01-E06 inspection recorded; E07-E12 inventory locked |
-| Six longitudinal ledgers | Synchronized through E06 |
+| Source register and execution record | E01-E07 inspection recorded; E08-E12 inventory locked |
+| Six longitudinal ledgers | Synchronized through E07 |
 | Legacy register | Historical/legacy and non-evidentiary |
-| Sequential readings | E01-E06 complete for declared Japanese-text/static-visual scope; [E04 checkpoint](02_Episode_Readings/SYL_E04_CHECKPOINT.md) passed |
+| Sequential readings | E01-E07 complete for declared Japanese-text/static-visual scope; [E04 checkpoint](02_Episode_Readings/SYL_E04_CHECKPOINT.md) passed; E08 checkpoint next |
 | Monographs, relationship study, specialists, full synthesis | Not created; later phase/readiness gated |
 | Rowan monograph | Planned dedicated synthesis target; no placeholder |
 
@@ -107,12 +107,12 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 - `SYL-D0002`: continuous video is outside the supplied input boundary; motion, microperformance, editing-rhythm, and AV-synchrony claims may require targeted later escalation.
 - `SYL-D0003`: the supplied bundle contains the aligned Japanese caption derivative and provenance metadata but not the untouched ABEMA caption witness; disputed exact-wording claims require recovery of that witness.
 
-These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01-E06 assign claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in their readings and the debt register.
+These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01-E07 assign claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in their readings and the debt register.
 
 ## Latest closed transaction
 
-[Episode 06: The Light That Illuminates Me](02_Episode_Readings/SYL_EP06_DEEP_READING.md) establishes Lisa and Kōta's bond as reciprocal finding rather than romance, grounds Lisa's anti-human doctrine in captivity while complicating it through Kōta's rescue and Horikoshi Seizō's collaboration, and makes Rowan's dynastic demand for Lara's light and delegated labor explicit. The bridge collapse and Kōta's injury partially resolve E05's cliffhanger, while exact causality, the mirror's surveillance history, and the public-tail observer remain open.
+[Episode 07: Being Seen, the Blade of Rejection, and Chosen Nearness](02_Episode_Readings/SYL_EP07_DEEP_READING.md) identifies the E06 observer as Luca Akizuki, separates Grace's heart/reversion hypothesis from established causality, and tests his initial mermaid fascination against his claim to value Lara as herself. Lara remembers her rejected heart-light taking blade form, withdraws for fear of harm, then hears Luca's avowal and wishes to draw closer. Mari's friendship remains active; neither a couple label nor royal true-love restoration is certified.
 
 ## Next operation
 
-After committing the closed E06 transaction, open E07 from the locked source bundle, read the complete aligned Japanese witness, inspect all E07 contact sheets and necessary full-resolution frames, and build the next analyst scene map before synchronization and commit.
+After committing the closed E07 transaction, open E08 from the locked source bundle, read the complete aligned Japanese witness, inspect all E08 contact sheets and necessary full-resolution frames, build the analyst scene map, and complete the required E08 contradiction/readiness checkpoint before synchronization and commit.
