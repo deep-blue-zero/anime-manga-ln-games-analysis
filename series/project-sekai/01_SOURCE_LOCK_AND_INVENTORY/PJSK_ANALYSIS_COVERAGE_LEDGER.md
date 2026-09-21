@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0146
+current_event_boundary: EVENT_0147
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0146
+## Current coverage — all five human units synchronized through EVENT_0147
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0146 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0146`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0147 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0147`.
 
 Artifacts:
 
@@ -2175,3 +2175,7 @@ The verified group contains 22 stories / 38 scenes / 1,592 records. No self-auth
 ### EVENT_0146 source and reconstruction review
 
 The verified group contains 28 stories / 51 scenes / 1,489 records. No professional contract or status, demonstrated English fluency, completed America trip, international performance, world success or supremacy, permanent motivation cure, proof that competition is Akito's only motive, objective equality or superiority to Slade, completed recurring rivalry, decoded twins–Nagi history, guaranteed future meeting, exact Street-SEKAI mechanism, universal barrier removal, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0147 source and reconstruction review
+
+The verified group contains 26 stories / 33 scenes / 1,232 records. `LN-EP-SAKI-E0147` and scoped `LN-REL-SAKI-IORI-E0147` are new I3 owners; `LN-REL-SOLIS-E0143 → LN-REL-SOLIS-E0147` closes one song-specific commission and the first post-debut live. No universal audience-conversion formula, resolved large-versus-intimate performance preference, formal Iori mentorship, permanent group axis, company-wide or durable song-specific policy, stable mass fame, sales or chart result, professional mastery, safe unlimited preparation, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified.

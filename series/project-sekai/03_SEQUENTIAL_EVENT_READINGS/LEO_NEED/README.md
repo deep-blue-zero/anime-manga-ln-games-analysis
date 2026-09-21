@@ -66,3 +66,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0137 — あの日見た夜空は、いつかの未来へ](PJSK_EVENT_0137_DEEP_READING.md): complete 30-story World Link envelope; four past-facing routes converge at a responsive station and a collective departure into an undefined future.
 
 - [EVENT_0143 — This moment with you！](PJSK_EVENT_0143_DEEP_READING.md): complete 24-story envelope; Ichika converts commercial discomfort and musical history into song-by-song professional authorship, School Miku returns final authority through reciprocal counsel, and Shindo backs the harder policy while one aligned tie-in proceeds.
+
+- [EVENT_0147 — Happy Enjoy Music！](PJSK_EVENT_0147_DEEP_READING.md): complete 26-story envelope; Saki turns sincere enjoyment, room-reading, invitation, and adaptation into a tested audience-participation method, Iori opens a scoped professional/community channel, and one song-specific Solis commission reaches completed public execution.
