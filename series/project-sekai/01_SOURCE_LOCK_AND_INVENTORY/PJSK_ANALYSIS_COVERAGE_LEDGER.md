@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0148
+current_event_boundary: EVENT_0149
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0148 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0149 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0149 is fully integrated:** `WXS-EP-NENE-E0095 → WXS-EP-NENE-E0149` advances integrated musical acting and experience seeking into full-stake competitive practice: Nene accepts a contested role, concentrates prior craft and troupe feedback into a specific interpretation, completes the bid, receives defeat as a specific acting gap, recognizes reciprocal peer effect, and turns regret into further work without abandoning kindness. New scoped I3 `WXS-REL-NENE-BYAKKOMACHI-E0149` records orientation, direct challenge, reciprocal performance effect, result receipt, shared craft purpose, and an open competition channel. Nene–Imura, `REL-WXS-G-E0124`, `WXS-EP-EMU-E0104`, `WXS-EP-TSUKASA-E0136`, and `REL-WXS-WONDERLAND-E0003` receive proportional I2; LN is low I1; MMJ, VBS, and N25 are I0. The verified envelope is 25 stories / 44 scenes / 1,547 records. No cruelty or indifference doctrine, universal competition method, institutional-severity endorsement, inevitable growth through defeat, lead or understudy role for Nene, completed show result, Morinomiya admission or membership, permanent acting mastery, formal Byakkomachi mentorship, guaranteed rivalry or friendship, safe overwork, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0148 to EVENT_0149. EVENT_0150 is next; 20 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0149 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0149_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0149: 25 stories / 44 scenes / 1,547 records; canonical files, pinned raw segments, manifests, anchors, projections, and all routes verified.
+- Wonderlands×Showtime / Nene is PRIMARY/VERY HIGH I3; Nene–Byakkomachi is CO_PRIMARY/HIGH scoped I3; Nene–Imura, troupe, individual, and Wonderland routes receive proportional I2. Leo/need is low I1; MMJ, VBS, and N25 are documentary I0.
+- The shared analysis boundary is EVENT_0149. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0149 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0148 forward transaction
 
 **EVENT_0148 is fully integrated:** new I3 `LN-EP-SHIHO-E0148` records Shiho choosing bounded rest, retaining practical planning, receiving Shizuku's perspective and competence, distinguishing contingency from relational failure, attending to unplanned present value, and reopening possible ordinary time without weakening professional standards. New scoped I3 `REL-FAMILY-SHIHO-SHIZUKU-E0148` records choice-respecting concern, conditional acceptance, reciprocal contribution, thanks, and possible future travel while preserving refusal and practical limits. `MMJ-EP-SZ-E0111`, `LN-EP-SAKI-E0106`, `REL-WXS-MS-TS-P01`, `EPI-CROSS-SAKI-TSUKASA-E0016`, and manifestation-local singer owners receive proportional I2; VBS and N25 are I0. The verified envelope is 24 stories / 32 scenes / 1,397 records. No anti-planning doctrine, permanent work-life balance, fatigue cure, professional deintensification, dependency, erased sibling boundaries, universal value in disruption, guaranteed future travel, completed family or group transformation, public SEKAI knowledge, cross-manifestation transfer, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0147 to EVENT_0148. EVENT_0149 is next; 21 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 

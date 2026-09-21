@@ -62,3 +62,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0131 — perspective for smile](PJSK_EVENT_0131_DEEP_READING.md): complete 23-story envelope; Emu tests audience-perspective acting and WxS earns Mikazuki's next production.
 
 - [EVENT_0136 — お縄を頂戴！？天馬捕物帳](PJSK_EVENT_0136_DEEP_READING.md): complete 28-story envelope; a physical limit becomes Tsukasa's repeatable embodied-acting method through reciprocal mentorship.
+
+- [EVENT_0149 — The Power Of Regret](PJSK_EVENT_0149_DEEP_READING.md): complete 25-story envelope; Nene advances musical acting into full-stake competitive practice, establishes a reciprocal craft rivalry with Byakkomachi, and preserves apology and collaborative reflection after defeat.
