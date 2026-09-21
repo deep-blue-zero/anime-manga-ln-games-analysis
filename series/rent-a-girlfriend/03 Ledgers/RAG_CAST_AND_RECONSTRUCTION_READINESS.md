@@ -4,13 +4,13 @@ artifact_id: RAG_CAST_AND_RECONSTRUCTION_READINESS
 artifact_type: cast_reconstruction_readiness
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030; block checkpoint and local audits pending at the V030 close."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected, closed, checkpointed, and locally audited through V030."
 ---
 
 # Cast and reconstruction readiness
@@ -35,7 +35,7 @@ Update after each eligible volume only when inspected evidence materially affect
 initialized: true
 inspected_through_volume: V030
 row_count: 14
-state: CURRENT_THROUGH_V030__PROMOTION_AUDITED_THROUGH_V020
+state: CURRENT_THROUGH_V030__PROMOTION_AUDITED_THROUGH_V030
 ```
 
 ## Project-local cast router
@@ -59,4 +59,4 @@ No listed person has been enrolled or graded in the global character registry by
 | RAG-LOCAL-UMI | Umi; 海くん; surname not established through V021 | RAG-E-V004-011 | `04 Character Analysis/Umi/RAG_UMI_EVIDENCE_LEDGER.md`; no model; no monograph | Direct conduct is observed through V021 as Chizuru's acting colleague with a displayed audience near 270,000; he supplies invitations and campaign promotion, introduces and posts Kazuya as producer, probes Chizuru's qualified phrase through Kazuya, exchanges LINE, and seeks a private Chizuru follow-up. Missing: surname, broader history, independent routine, long-term motive, and the private conversation's content. | UNMODELED | V021 close |
 | RAG-LOCAL-SUMI | Sumi Sakurasawa; 桜沢墨 | RAG-E-V005-014 | `04 Character Analysis/Sumi Sakurasawa/RAG_SUMI_EVIDENCE_LEDGER.md`; `RAG_SUMI_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V030: visits the house, bandages Kazuya's cut finger, listens to his birthday concern, and helps frame a bounded acknowledgment while Chizuru is absent. Missing: broad spontaneous speech, stable independent provider competence, independent goals, conflict response, and Kazuya's reception of her romantic feeling. | PARTIAL_MODEL | V030 close |
 
-The cast router records identity and artifact availability only. Character-state history belongs in each listed evidence ledger; operational rules belong in the six listed models. V030 updates nine evidence homes, including Kibe's information-limited housing advice, and revises six models without changing readiness grades. A short-term household stay does not fill the corrected-facts, independent-life, or prospective-validation gaps that govern promotion. The V020 promotion rationale, including deliberate nonpromotions, remains recorded in `07 Audits and Handoffs/RAG_CHARACTER_ANALYSIS_PROMOTION_AUDIT_V020.md`; a V030 promotion audit remains pending.
+The cast router records identity and artifact availability only. Character-state history belongs in each listed evidence ledger; operational rules belong in the six listed models. V030 updates nine evidence homes, including Kibe's information-limited housing advice, and revises six models without changing readiness grades. A short-term household stay does not fill the corrected-facts, independent-life, or prospective-validation gaps that govern promotion. The V030 fourteen-row review and deliberate nonpromotions are recorded in `07 Audits and Handoffs/RAG_CHARACTER_ANALYSIS_PROMOTION_AUDIT_V030.md`.

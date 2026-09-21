@@ -4,7 +4,7 @@ artifact_id: RAG_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory_and_scope_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.50"
+version: "1.51"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -120,7 +120,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-V001-V030 are inspected and closed; V001-V020 are also checkpointed and locally audited. V021-V030 checkpoint and local audits remain pending after the V030 close. V031-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001-V030 are inspected, closed, checkpointed, and locally audited, with V021-V030 synthesized in `02 Block Syntheses/RAG_CP_V030.md`. V031-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 
