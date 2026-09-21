@@ -60,3 +60,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0150 — 傷だらけの手で、私達は](PJSK_EVENT_0150_DEEP_READING.md): complete 31-story envelope; Mizuki chooses a conditional return, Ena–Mizuki and group belonging repair without erasing fear, MEIKO's support becomes timing-aware, and Mizuki authors a bounded group disclosure whose exact wording remains withheld.
 
 - [EVENT_0161 — Unreliable Notes](PJSK_EVENT_0161_DEEP_READING.md): complete 25-story envelope; Mafuyu chooses a conditional mother-conversation with Kanade present after partial, conflicting memories and a Kanade overwork collapse. The mother's question and scarf reopen possible contact without certifying direct repair.
+
+- [EVENT_0165 — そして、針は動き出す](PJSK_EVENT_0165_DEEP_READING.md): complete 24-story envelope; an actual apology and trial home return coexist with renewed indirect pressure and guilt-driven silence, then a return to Kanade's refuge. The possible Empty-SEKAI lake-door key remains untested.

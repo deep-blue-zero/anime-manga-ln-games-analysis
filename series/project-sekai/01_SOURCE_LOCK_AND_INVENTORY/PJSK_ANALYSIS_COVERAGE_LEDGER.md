@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0164
+current_event_boundary: EVENT_0165
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0164
+## Current coverage — all five human units synchronized through EVENT_0165
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0164 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0164`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0165 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0165`.
 
 Artifacts:
 
@@ -68,7 +68,11 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0164 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0165 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0165 is fully integrated:** `REL-FAMILY-MAFUYU-MOTHER-E0161 → REL-FAMILY-MAFUYU-MOTHER-E0165` records direct apology, Mafuyu's account, chosen trial return, warmth, recurring indirect steering, guilt and renewed temporary refuge. `MF-E0134-01 → MF-E0165-01` preserves both active trust/speech and nonmonotonic self-silencing. `REL-N25-KM-E0100 → REL-N25-KM-E0165` captures accompaniment, choice-testing question and shelter; local `EPI-N25-SEKAI-E0112 → EPI-N25-SEKAI-E0165` records a possible untested door key. The verified envelope is 24 stories / 48 scenes / 1,557 records. Father, N25 companions and Empty singers are bounded I2; Ichika/Leo/need and Emu/WxS ordinary I1, MMJ/VBS I0. Anomalous 2023 monthly area metadata is not event chronology. No stable reconciliation, completed counseling, nursing enrollment, open door, public SEKAI knowledge, or complete reconstruction is certified. The boundary advances EVENT_0164 to EVENT_0165. EVENT_0167 is next; four source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
+
+Causal home: [EVENT_0165 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0165_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140.
 
 **EVENT_0164 is fully integrated:** scoped `WXS-EP-EMU-E0141 → WXS-EP-EMU-E0164` records Emu's institution-facing implementation: private research and trust, price/casting tradeoffs, coauthored formal argument with Ryō, executive authorization and a particular first-audience test. `REL-WXS-EMU-RYO-E0164` captures their reciprocal confidence and work, while preserving Nene's different Ryō rivalry. The verified envelope is 23 stories / 46 scenes / 1,416 records. Nene, Tsukasa, Rui, brothers and Wonderland KAITO receive bounded I2; Leo/need, MMJ, VBS and N25 have no unit successor. The original confidential dissolution decision is displaced by an approved experiment, not a certified durable business rescue; outsider trainees do not enter the student audition, comic imagined boardrooms are not actual, and ticket forecasts are not final sales. The boundary advances EVENT_0163 to EVENT_0164. EVENT_0165 is next; five source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
 
