@@ -4,14 +4,14 @@ artifact_id: SYL_BLOCKERS_AND_EVIDENCE_DEBTS
 artifact_type: blockers_evidence_debts
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E10 closed; general debts plus E01-E10 claim-linked assignments"
+source_boundary: "E11 closed; general debts plus E01-E11 claim-linked assignments"
 ---
 
 # Blockers and evidence debts
@@ -49,4 +49,12 @@ The table's first three rows retain their E01-E07 interval history; E08 adds the
 | SYL-D0002 | 01:18-02:41 creature fight/death; 07:51-11:43 awakening/demonstration; 11:43-14:05 lake effects; 15:03-17:11 Rowan's demand/intercut; 19:00-20:29 phone geography; 21:11-22:29 boat and snake-like presence. W0035-W0040. | Continuous source-linked inspection or strict static-endpoint description; no permanent death, weapon identity, natural-cause conclusion or creature identification from isolated frames. |
 | SYL-D0003 | `リグモア`, `人間どものせい`, `光なんかじゃない`, `仮そめの形`, `無限の命`, `刺し貫けば良い`, `愛する者を`, `血によって清める`, `だれだ`, `ララは人魚`, `来ないで`, `迷惑でいい`, `さびしがり`; cues 1-341 as localized in L0073-L0078. | Untouched ABEMA witness/derivative history, with audible adjudication for contested exact wording or speaker. |
 
-No current debt blocks opening E11 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.
+## E11 claim-linked assignments
+
+| Debt | E11 source intervals and claims | Required future acceptance |
+|---|---|---|
+| SYL-D0001 | 00:01-01:07 twin dream; 03:19-08:27 royal/potion/sister rupture; 09:26-15:35 productive light, rejection, Rigmor's arrival; 15:35-20:18 law, revival and fish vessel; 20:18-24:00 historical child-Mari care and present mirror transition. C0053-C0057; L0079-L0083. | Direct interval-linked listening for delivery, mirror sound, blade violence, final speaker, music and sound/image. |
+| SYL-D0002 | 03:19-08:27 mirror/flashback provenance; 11:37-15:35 rejection, blade contact, Rigmor death; 16:19-20:18 mirror and revival/court sleep; 21:13-24:00 child-Mari rescue flashback, light and present transition. W0041-W0047. | Continuous source-linked inspection or strict sampled-endpoint narrowing; avoid precise strike, movement path, altered-body mechanics and resolved location; do not infer survival after E10 from historical scene. |
+| SYL-D0003 | `双子`, `城のためなんかじゃない`, `私自身が`, `ローワンのこと`, `光によって`, `ことばによって`, `私は人間だ`, `愛のために`, `掟を作った`, `泡を集めて`, `涙で殺めた`, `眠らせねば`, `小さな器`, `最後の光`, `まだ死なんでいい`, `掟ではなく`; cues 1-330 as localized in L0079-L0083. | Untouched ABEMA caption witness, derivative history and audible adjudication for contested register/speaker. |
+
+No current debt blocks opening E12 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.

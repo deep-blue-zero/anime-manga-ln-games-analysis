@@ -4,7 +4,7 @@ artifact_id: SYL_EXECUTION_AND_INSPECTION_RECORD
 artifact_type: execution_inspection_record
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -54,7 +54,8 @@ execution_profile:
 | E08 | COMPLETE: all 336 aligned cues read | COMPLETE AS SECONDARY AID | COMPLETE_FOR_DECLARED_SCOPE: all 39 sheets plus targeted original frames | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | CLOSED: text/static scope + checkpoint |
 | E09 | COMPLETE: all 320 aligned cues read | COMPLETE AS SECONDARY AID | COMPLETE_FOR_DECLARED_SCOPE: all 37 sheets plus targeted original frames | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | CLOSED: text/static scope |
 | E10 | COMPLETE: all 341 aligned cues read | COMPLETE AS SECONDARY AID | COMPLETE_FOR_DECLARED_SCOPE: all 40 sheets | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | CLOSED: text/static scope |
-| E11-E12 | AVAILABLE / NOT YET INSPECTED | AVAILABLE / SECONDARY | AVAILABLE / NOT YET INSPECTED | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | NOT STARTED |
+| E11 | COMPLETE: all 330 aligned cues read | COMPLETE AS SECONDARY AID | COMPLETE_FOR_DECLARED_SCOPE: all 35 sheets | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | CLOSED: text/static scope |
+| E12 | AVAILABLE / NOT YET INSPECTED | AVAILABLE / SECONDARY | AVAILABLE / NOT YET INSPECTED | VERIFIED AVAILABLE | UNAVAILABLE | UNAVAILABLE IN SUPPLIED INPUT | NOT STARTED |
 
 This table is updated episode by episode. `COMPLETE_FOR_DECLARED_SCOPE` will always name the inspected channel and boundary. Contact-sheet review is static visual coverage, not continuous-video viewing.
 
@@ -80,3 +81,4 @@ This table is updated episode by episode. `COMPLETE_FOR_DECLARED_SCOPE` will alw
 | SYL-X0009 | E08 + checkpoint | Read all 336 aligned Japanese cues; inspected all 39 contact sheets and selected original-resolution frames including the trophy/certificate coda; constructed analyst scene map, contradiction/readiness checkpoint, six ledger changes, and debts | E08 narrative transaction and second G2 checkpoint closed for declared text/static scope | No auditory interpretation or continuous video; Lisa/Grace light doctrines conflict, potion horizon and final-bout score remain open |
 | SYL-X0010 | E09 | Read all 320 aligned Japanese cues; inspected all 37 contact sheets and targeted original stills around the creature/removal; constructed analyst scene map; synchronized six ledgers and debts | E09 narrative transaction closed for declared text/static scope | No auditory interpretation or continuous video; Grace's taxonomy, attack choreography, blade identity, destination, and true-love mechanism remain open |
 | SYL-X0011 | E10 | Read all 341 aligned Japanese cues; inspected all 40 contact sheets; constructed analyst scene map and synchronized six ledgers/debts | E10 narrative transaction closed for declared text/static scope | No auditory interpretation or continuous video; Grace's permanent fate, exact blade/creature agency, Rowan's blood theorem, target of love and ecology causation remain open |
+| SYL-X0012 | E11 | Read all 330 aligned Japanese cues; inspected all 35 contact sheets; constructed analyst scene map, mirror provenance boundary, six ledger changes and debts | E11 narrative transaction closed for declared text/static scope | No auditory interpretation or continuous video; Rigmor death's physical chain, Grace's renewed-light source, mirror selection and final line's speaker remain open |

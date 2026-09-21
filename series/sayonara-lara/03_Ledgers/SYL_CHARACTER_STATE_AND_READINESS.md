@@ -4,14 +4,14 @@ artifact_id: SYL_CHARACTER_STATE_AND_READINESS
 artifact_type: character_state_readiness_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E10 closed; identities and states verified only through E10"
+source_boundary: "E11 closed; identities and states verified only through E11"
 ---
 
 # Character state and readiness ledger
@@ -64,5 +64,12 @@ This local ledger tracks verified identity, temporal state, desires/knowledge/co
 | Luca Akizuki (`秋月ルカ`) | VERIFIED_GIVEN NAME / SURNAME ON CONTACT | E10 | Searches with Mari, considers police and asks what Lara is, apologizes for his prior failure, objects to unsafe boat, and remains willing to help | Mortal deadline and royal command not fully conveyed to him; subsequent actions and romantic negotiation open | Relationship study/conditional monograph; FULL_SERIES_NOT_READY |
 | Otsu parents and Mari's older brother | VERIFIED RELATIONS / PARTIAL NAMES | E10 | Parents confront Mari about absence, window and invented sister; brother procures a small boat and insists on accompanying her | Immediate response to mermaid disclosure, legal/safety status of actual voyage and exact kinship names require verification | Supporting household axis now substantial; NOT_READY |
 | Rigmor (`リグモア`) | NAME VIA ROWAN TESTIMONY / MOTHER | E10 historical report | Rowan names her as Lara's mother killed by humans, connecting personal bereavement to prior castle dimming | No direct independent flashback of killing or her own speech; collective guilt is Rowan's inference | Supporting historical figure for Rowan/Lara study; NOT_READY |
+
+| Grace / Gon | VERIFIED_LOCAL_IDENTITY / RIGMOR TWIN / FISH VESSEL | E11 | Originally desired human land and experimentation; rejected by human lover, implicated in twin's death, exiled; collected Lara's foam, spent Rowan's light to revive her, slept court, waited in fish form; young Mari historically found and cared for that depleted fish, after which Grace reported seeing light | Her historical guilt, rescue/control mixture, source of renewed historical light and fate after E10 need E12; mirror mediation/AV limits | Major monograph urgently ready after E12 for literary scope; FULL_SERIES_NOT_READY |
+| Rigmor (`リグモア`) | VERIFIED TWIN / LARA'S MOTHER | E11 historical retrospect | Shared Grace's dream, chose Rowan, generated castle light with him, pursued sister via ring and affirmed light anywhere through living for love before dying | Exact injury chain in mirror, whether Rowan's later doctrine distorts her outlook, and all own later actions limited | Substantive supporting figure in Grace/Rowan histories; FULL_SERIES_NOT_READY |
+| Rowan | VERIFIED_LOCAL_IDENTITY / PRESENT AGED BODY | E11 | Once defended Grace, loved Rigmor and shared castle light; after her death made anti-human ban and exiled Grace, donated all his light to revive Lara but hoped for anti-human weapon, now uses mirror to test her heart | His blame versus Grace's implication, coercive remedy, daughter autonomy and potential revision await E12 | Owner-requested ideological monograph indispensable; FULL_SERIES_NOT_READY |
+| Lara | VERIFIED_LOCAL_IDENTITY | E11 | Views mirror-staged generational history, is described by Grace as having refused blade's demand even at cost of first life, learns of Rowan's donated light and Grace's wait, faces Grace-like imagery at mirror break | Own response/choice in E12, target of love, blade mechanism and Grace's present fate open | Major monograph; FULL_SERIES_NOT_READY |
+| Mari Otsu (`大津 茉里`) | VERIFIED_FULL_NAME | E11 historical flashback | As a child found fish-form Grace and refused her wish to die quietly, leading to household care; Grace says she sees beautiful light | Exact historical magic link and present E10 boat journey need E12/continuous sequence; no present E11 rescue established | Major monograph; FULL_SERIES_NOT_READY |
+| Lisa / Shiomi Lisa (`潮見リサ`) | VERIFIED_SISTER_RELATION / HUMAN IDENTITY | E11 | Repeats Rowan's claim that land life soiled Lara, while royal flashback and Grace's preservation strategy reveal conflict behind father's law | Response to Grace's uncertain present fate and divided family loyalty awaits E12 | Dedicated monograph; FULL_SERIES_NOT_READY |
 
 Readiness is dimension-specific. Literary synthesis, voice/performance analysis, and behavioral reconstruction never inherit readiness from one another automatically. The repeated subjects above preserve dated state transitions, not duplicate identities.

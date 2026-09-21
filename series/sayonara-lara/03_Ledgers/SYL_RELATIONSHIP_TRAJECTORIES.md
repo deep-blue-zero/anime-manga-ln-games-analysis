@@ -4,14 +4,14 @@ artifact_id: SYL_RELATIONSHIP_TRAJECTORIES
 artifact_type: relationship_trajectory_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E10 closed; Rowan's violent demand, Mari's disclosure and rescue network"
+source_boundary: "E11 closed; twin rupture, Rowan/Rigmor, Grace/Lara, and Mari/Grace care"
 ---
 
 # Relationship trajectories ledger
@@ -71,4 +71,9 @@ source_boundary: "E10 closed; Rowan's violent demand, Mari's disclosure and resc
 | SYL-R0048 | E10 | Mari <-> parents / older brother | Household cover for Lara/Gon and property damage | Parents question school absence and invented sister; Mari discloses Lara's mermaid identity. Brother acquires small boat and insists on accompanying her. | Daughter/sibling; practical rescue allies with trust strain | Secrecy is no longer free protection; disclosure and practical aid may repair or deepen familial trust | Adults' immediate response to the mermaid claim and viability of boat passage not yet established | E10 S03/S08/S10/S13, cues 41-52, 187-199, 240-264, 304-341; sheets 013-015, 026, 030-036 |
 | SYL-R0049 | E10 | Mari <-> Luca | Shared concern but asymmetric knowledge after romantic rupture | Luca asks what Lara is and considers police; Mari argues papers/identity complicate it. He apologizes for yesterday and offers safety objections as the boat plan forms | Concerned collaborators; Luca/Lara mutual lover intention remains interrupted | His ordinary help is neither a cure nor an automatic right to Lara's full history; Mari's withholding is constrained by Lara's secrecy and real danger | His apology does not resolve Lara's consent/pacing conflict or negate institutional rescue options | E10 S03/S07-S08/S13, cues 41-52, 187-199, 304-341; sheets 013, 026, 035-036 |
 
-Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points. At E10, Lara/Luca's mutual lover intention remains interrupted; Lara/Mari's explicitly named friendship persists through unilateral farewell and Mari's refusal. Rowan's demand that Lara identify a loved one is an external coercive question, not relationship evidence that names its answer.
+| SYL-R0050 | E11 | Grace <-> Rigmor | Rowan's E10 report of Rigmor's death without her own voice | Twins share a land dream; Rigmor chooses Rowan, Grace leaves hurt; Rigmor follows Grace through ring/light during persecution and affirms a dream that can find light anywhere | Twins; love and rupture, not interchangeable princesses | Different chosen loves need not negate the other; last reconciliation challenges law against land | Grace's later culpability in Rigmor's death is stated, but exact wound chain remains AV-bounded | E11 S01/S03-S07, cues 1-21, 35-216; sheets 001, 008-022 |
+| SYL-R0051 | E11 | Rowan <-> Rigmor / Grace | E10 father and king condemns witch/humans | Young Rowan defends Grace, marries Rigmor and shares productive light; after her death he bans human approach and exiles her twin | Husband/king; earlier Grace ally turned punisher | Grief and dynastic dependence turn a contingent trauma into total prohibition, without erasing initial support or real human rejection | His retrospective is mediated; exact death causality and later possibility of revision open | E11 S03-S08, cues 35-234, sheets 008-023 |
+| SYL-R0052 | E11 | Grace -> Lara / Rowan -> Lara | Rival guardianship and restoration mission | Grace gathers foam and spends Rowan's donated light to revive Lara, then sleeps court and waits in fish form; Rowan hopes her power can defeat humans | Witch/guardian; father/king | Both preserve Lara for a future they shape; one opposes killing while still treating Lara as proof of an inherited dream | Grace's concealment/romance prescription and Rowan's blood demand each constrain Lara; no final autonomy settlement | E11 S09-S11, cues 244-304, sheets 025-029 |
+| SYL-R0053 | E11 historical flashback | Young Mari -> Grace / Grace -> Mari | Previously known household tank care, origin unknown | Child Mari finds depleted fish Grace on shore, takes her home despite its wish to die; Grace says beautiful light is visible again | Origin of Gon household bond; care precedes present crisis | Human practical mercy contests Grace's claim there may be no light on land and Rowan's species-wide condemnation | Light's supernatural source and Grace's present condition after E10 not established | E11 S12-S13, cues 305-330, sheets 030-035; original `000948` |
+
+Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points. E11's `愛する者` in Rowan's and Grace's accounts is not a revealed exclusive name for Mari or Luca. Rigmor's love of Rowan, Grace's sisterly dream, Grace's conflicted care for Lara, and young Mari's historical rescue of Grace cannot be reduced to the same magical input.

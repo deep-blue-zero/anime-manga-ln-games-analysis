@@ -4,14 +4,14 @@ artifact_id: SYL_LANGUAGE_AND_PERFORMANCE
 artifact_type: language_performance_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E10 closed; Japanese textual observations only, no auditory performance claims"
+source_boundary: "E11 closed; Japanese textual observations only, no auditory performance claims"
 ---
 
 # Language and performance ledger
@@ -101,4 +101,10 @@ source_boundary: "E10 closed; Japanese textual observations only, no auditory pe
 | SYL-L0077 | cues 265-303; 19:00-21:00 | `来ないで`; `もう会えない`; `ありがとう`; `死んじゃった`; `迷惑でいい`; `さびしがり` | Do not come; cannot meet again; thank you; died; trouble is fine; lonely | Lara/Mari phone, Lisa's interruption, Mari afterward | Complete aligned JP read; sheets 032-034 | Lara's farewell and Mari's wish for continued presence are distinct; Grace death remains reported | High for text; vocal dynamics and call perspective pending | C0052; R0047; F0054 |
 | SYL-L0078 | cues 304-341; 21:11-22:29 | `ごめん`; `ボート`; `免許なし`; `危ない`; `ライフジャケット`; `行く` | Sorry; boat; without license; dangerous; life jacket; go | Luca, Mari's older brother, Mari at rescue departure | Complete aligned JP read; sheets 035-036 | Shared aid includes apology and arguments about material safety, not a magical resolution | High for text; comic timing/motion pending | C0052; R0048-R0049; F0055 |
 
-No E01-E10 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E10's creature fight, Rowan's speech, news broadcast, phone and boat argument remain text/static observations; performed rhythm, motion and sound remain deferred.
+| SYL-L0079 | SYL-B11 cues 1-103; 00:01-06:59 | `新たな世界`; `あなたの夢`; `城のためなんかじゃない`; `私自身が`; `人間へと変える薬` | New world; your dream; not for castle; I myself; medicine to become human | Grace/Rigmor dream, court demand, Rowan's defense and potion | All 330 aligned JP cues read; sheets 001, 007-012 | Grace's landward orientation is first-person aspiration, not merely dynastic service | High for text; voice/historical fidelity pending | C0053; W0041-W0042; F0056 |
+| SYL-L0080 | cues 104-163; 07:09-11:30 | `ローワンのこと`; `求める光は美しい`; `本当の愛`; `双子`; `光によって`; `ことばによって` | Rowan; desired light beautiful; true love; twins; by light; by words | Twin separation, couple's celebrated light, Rowan's species theory | Complete aligned JP read; sheets 012-018 | An actual couple's light and Rowan's exclusionary account are not the same claim | High for text; delivery and universal truth pending | C0053; R0050-R0051; W0041 |
+| SYL-L0081 | cues 164-234; 11:37-16:30 | `わたしは人間だ`; `化物`; `指輪の光`; `愛のために生きる`; `掟を作った`; `追放した`; `心をためす` | I am human; monster; ring-light; live for love; I made the law; exiled; tests the heart | Rejection, Rigmor's return, Rowan's legislative retelling | Complete aligned JP read; sheets 018-023 | Human violence, blade and twin's death complicate collective blame; law has an author | High for words; exact injury/delivery pending | C0054; W0043; F0057 |
+| SYL-L0082 | cues 235-304; 16:33-21:05 | `泡を集めて`; `愛する者を守った`; `涙で殺めた`; `光を吸いつくし`; `眠らせねば`; `小さな器`; `最後の光` | Gather foam; protected a loved one; killed with tears; drained light; must sleep them; small vessel; last light | Mirror history and Grace's revivification project | Complete aligned JP read; sheets 023-029 | Lara's blade refusal and Grace's killing are contrasted, while preservation entails instrumental choices | High for text; mechanics and speaker staging pending | C0055-C0056; W0044-W0046; F0058 |
+| SYL-L0083 | cues 305-330; 21:13-23:42 | `最期くらい`; `まだ死なんでいい`; `見える`; `光`; `ララ`; `まり`; `掟ではなく 愛のために生きろ` | At least let last moments; need not die yet; can see; light; Lara; Mari; live for love not law | Young Mari/Grace historical shore scene and closing mirror transition | Complete aligned JP read; sheets 030-035 | Grace's historical renewed sight and the anti-law imperative are explicit words; final speaker, referent and magic link need AV; no present survival inference | High for supplied text; attribution/delivery pending D0001-D0003 | C0057; W0047; F0059 |
+
+No E01-E11 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E11's mirror flashback, rejection/blade, revival and fish rescue remain text/static observations; performed rhythm, motion and sound remain deferred.

@@ -4,7 +4,7 @@ artifact_id: SYL_SOURCE_REGISTER
 artifact_type: source_register
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -60,4 +60,4 @@ The aligned-caption metadata reports constant-offset alignment from an ABEMA Jap
 
 ## Inspection state
 
-All twelve containers and key derivatives are inventory-verified and hash-locked. E01-E10 narrative inspection is complete for each reading's declared Japanese-caption and static-visual scope. E10 coverage includes all 341 aligned Japanese cues and all 40 contact sheets, including the royal blade, island and household/rescue sequences. Auditory interpretation and continuous-video inspection were not performed. E11-E12 remain available but narratively uninspected at this boundary. Per-episode completion is recorded in the execution record and episode reading; file availability must never be reported as inspection coverage.
+All twelve containers and key derivatives are inventory-verified and hash-locked. E01-E11 narrative inspection is complete for each reading's declared Japanese-caption and static-visual scope. E11 coverage includes all 330 aligned Japanese cues and all 35 contact sheets, including the mirror retrospection and fish/shore sequence. Auditory interpretation and continuous-video inspection were not performed. E12 remains available but narratively uninspected at this boundary. Per-episode completion is recorded in the execution record and episode reading; file availability must never be reported as inspection coverage.

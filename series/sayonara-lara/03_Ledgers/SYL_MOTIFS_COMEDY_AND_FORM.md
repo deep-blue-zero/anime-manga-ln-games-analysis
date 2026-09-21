@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E10 closed; static visual and Japanese textual form"
+source_boundary: "E11 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -73,3 +73,7 @@ source_boundary: "E10 closed; static visual and Japanese textual form"
 | SYL-F0053 | E10 S07-S08 | White flower motif crosses from bridge intrusion into public lake news | Harbor, regulatory desk, live reports and barred boats interrupt a private rescue fantasy | Static public interfaces + JP text | Human institutions cannot see Rowan's alleged mermaid-only light but respond to shared material consequences | E05 labor infrastructure and E07 phone mediation; exact ecological causation open | sheets 022-026; cues 136-199; D0002 |
 | SYL-F0054 | E10 S09-S12 | Rowan's `だれだ` about the blade's loved target is intercut with Mari's household interrogation | Mari names mermaid truth to parents, then Lara uses a phone to forbid rescue while Mari says she wanted troubled companions to stay | Static progression + JP text | Juxtaposition makes Mari a possible endangered loved person, not a named target or romantic solution; secrecy has household costs | E09 `大事な……` and unequal clocks; no automatic completion of interrupted phrase | sheets 029-034; cues 237-303; D0001-D0002 |
 | SYL-F0055 | E10 S13 | A license-free small boat, life-jacket argument and a possible snake-like presence close the rescue setup | Mari, Luca and brother form a fragile practical coalition under a lake ban | Static sampled endpoints + JP text | Mundane safety comedy refuses omnipotent rescue and makes care a distributed rather than fairy-prince function | E07 phone, E08 boxing parallel risk, E09 abduction | sheets 035-036; cues 304-341; creature identity D0002 |
+| SYL-F0056 | E11 S01-S04 | Twin princesses first imagine land together; their mirror pictures strange human legs | Rowan makes present Lara look into Grace's hidden mirror while an earlier court demands princess light | Static retrospective + JP text | A mirror that supposedly reveals a heart's desired world is also an instrument of royal selection and instruction; dream predates prohibition | E01 mirror and E06 cracked search; E10 Rowan's revulsion at Lisa's legs | sheets 001, 007-012; cues 1-103; D0002 |
+| SYL-F0057 | E11 S05-S08 | Rigmor/Rowan light floods castle; human lover's accusation and soldiers turn Grace's land dream into catastrophe | Rigmor follows ring-light, affirms Grace, and Rowan narrates ban/exile | Static retrospective + JP text | Light and blade images cannot be assigned univocal virtue or culprit; sovereign law is a reaction to a conflicted chain | E07 Lara's rejected heart-blade, E10 cleansing command | sheets 013-023; cues 124-234; D0002 |
+| SYL-F0058 | E11 S09-S11 | Mirror jumps from daughters and Lara's birth to her foam, Grace's extraction and Rowan's light donation | Grace sleeps court, takes fish vessel, and waits for Lara as her last visible light | Static montage + JP text | The supposed neutral salvation tale exposes two elders' competing appropriations and costs of suspended lives | E06 century-long Lisa waiting; E09 second birth | sheets 023-029; cues 235-304; D0002 |
+| SYL-F0059 | E11 S12-S13 historical retrospect / present transition | Depleted fish asks for quiet and child Mari insists it need not die | Young Mari's shore rescue and Grace's renewed sight precede broken mirror and present confrontation imagery | Static progression + JP text | Historical human care counters the king's anti-human rhetoric without proving the E10 death report false or identifying a magical source or romantic target | E02 Gon household inversion, E09 tank maintenance, E10 reported death | sheets 030-035; cues 305-330; original `000948`; D0001-D0002 |
