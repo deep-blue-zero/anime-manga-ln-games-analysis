@@ -4,13 +4,13 @@ artifact_id: RAG_SUMI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V005-V020, with V013-V016 and V019-V020 treated as negative-evidence intervals."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V005-V030, with long V019-V027 and V029 negative-evidence intervals."
 ---
 
 # Sumi Sakurasawa reconstruction model
@@ -43,13 +43,23 @@ model_basis:
     - RAG-JP-EPUB-V018
     - RAG-JP-EPUB-V019
     - RAG-JP-EPUB-V020
-  admitted_through_volume: V020
-  narrative_time_boundary: "after Sumi ends a paid consultation, self-funds a friend excursion, models play and direct encouragement, and Kazuya integrates that lesson into a bereavement-support plan"
+    - RAG-JP-EPUB-V021
+    - RAG-JP-EPUB-V022
+    - RAG-JP-EPUB-V023
+    - RAG-JP-EPUB-V024
+    - RAG-JP-EPUB-V025
+    - RAG-JP-EPUB-V026
+    - RAG-JP-EPUB-V027
+    - RAG-JP-EPUB-V028
+    - RAG-JP-EPUB-V029
+    - RAG-JP-EPUB-V030
+  admitted_through_volume: V030
+  narrative_time_boundary: "after Sumi visits Chizuru's house, bandages Kazuya's cut, and hears his concern about the no-present birthday request"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.0"
+  model_revision: "1.1"
   prior_knowledge_limitations:
-    - "No post-V020 narrative evidence is admitted."
+    - "No post-V030 narrative evidence is admitted."
     - "Kazuya does not hear Sumi's V012 confession."
     - "No precise diagnosis for Sumi's severe communication difficulty is established."
     - "V013-V016 and V019-V020 contain no material observed Sumi conduct."
@@ -86,7 +96,7 @@ coverage:
     - spontaneous conflict and disagreement
     - response to direct romantic acceptance or rejection
     - self-directed goals when no one needs support
-    - long-duration conduct after V018
+    - sustained independent conduct between V018 and V030
   translation_limitations:
     - "Model derives from the Japanese witness; no licensed translation was admitted for comparison."
   written_speech: PARTIALLY_MODELED
@@ -235,7 +245,7 @@ uncertainties:
 ~~~yaml
 state_id: SUM-S005
 valid_from_source: "V018 0088"
-valid_until_source: "V020 endpoint"
+valid_until_source: "V030 0166"
 entry_conditions:
   - "Kazuya asks Sumi for help after Sayuri's death and Chizuru's refusal of direct support."
 active_goals:
@@ -261,6 +271,34 @@ evidence_refs:
 uncertainties:
   - "No direct Sumi conduct is observed in V019-V020."
   - "Her response to Kazuya's continued focus on Chizuru remains unknown."
+~~~
+
+### SUM-S006 — practical visitor and birthday confidant after a long gap
+
+~~~yaml
+state_id: SUM-S006
+valid_from_source: "V030 0167"
+valid_until_source: null
+entry_conditions:
+  - "Sumi visits the house before Chizuru's birthday while the three-person residence is active."
+active_goals:
+  - respond to Kazuya's immediate cut with first aid
+  - understand his worry about Chizuru's stated no-present limit
+known_propositions:
+  - "Kazuya lives at Chizuru's house and has heard her request."
+  - "Chizuru's private feeling and her response to any later gesture are unknown to Sumi."
+relationship_conditions:
+  - "Friend-framed care occurs outside a shown booking; her V012 confession remains unheard by Kazuya."
+changed_from_previous:
+  - HOUSE_VISIT_OBSERVED
+  - CUT_FINGER_BANDAGED
+  - BIRTHDAY_CONCERN_HEARD
+  - MODEST_ACKNOWLEDGMENT_CONSIDERED
+evidence_refs:
+  - RAG-E-V030-008
+uncertainties:
+  - "Whether she directly speaks with Chizuru about the birthday."
+  - "Whether any gesture occurs or is welcomed."
 ~~~
 
 ## Behavioral rules
@@ -379,10 +417,12 @@ Use Japanese manga written speech and represented nonverbal channels only. Sumi 
 
 Supported with caution: a patient one-to-one conversation with a concrete purpose; a gift or outing that permits preparation; an indirect grief disclosure; a hospital visit with a simple support goal; a paid consultation that she can explicitly end before offering friendship help.
 
-Require extra assumptions: unfamiliar large-group improvisation, family response, independent work management, direct romantic rejection, conflict with another friend, financial sustainability, or any action after V018.
+Require extra assumptions: unfamiliar large-group improvisation, family response, independent work management, direct romantic rejection, conflict with another friend, financial sustainability, or any action after V030.
 
 Abstain whenever the outcome depends on diagnosing her communication difficulty, treating silence as consent, assuming Kazuya heard the confession, or converting planned supportive competence into whole-person social fluency. Generated scenarios cannot become canon evidence.
 
 ## Validation status
 
-The model is admitted as `PARTIAL_MODEL`. Channel substitution, preparation, care planning, and co-presence recur across practice dates, gift consultation, a planned aquarium route, hospital visiting, grief disclosure, and a self-funded friend excursion. The recurring method is supported, but nearly all strong cases involve Kazuya and structured helping. Sparse independent goals, ordinary routine, spontaneous conflict, broad provider performance, and post-V018 conduct prevent operational-candidate status.
+The model is admitted as `PARTIAL_MODEL`. Channel substitution, preparation, care planning, and co-presence recur across practice dates, gift consultation, a planned aquarium route, hospital visiting, grief disclosure, and a self-funded friend excursion. The recurring method is supported, but nearly all strong cases involve Kazuya and structured helping. Sparse independent goals, ordinary routine, spontaneous conflict, broad provider performance, and sparse conduct after V018 prevent operational-candidate status.
+
+V030 adds direct conduct after the gap: Sumi visits, treats Kazuya's cut, and listens to his specific birthday boundary concern (RAG-E-V030-008). The small care route recurs in a less formally prepared setting, but one instance does not validate broad spontaneous competence, a romantic outcome, or authority to override Chizuru's request. The local readiness remains PARTIAL_MODEL.

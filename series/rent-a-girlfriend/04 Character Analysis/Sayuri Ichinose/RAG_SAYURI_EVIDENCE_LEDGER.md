@@ -4,13 +4,13 @@ artifact_id: RAG_SAYURI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; direct character evidence inspected through Sayuri's death in V018 and later memory references reviewed through V020."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; direct character evidence through Sayuri's death in V018 and later memory or household references reviewed through V030."
 ---
 
 # Sayuri Ichinose evidence ledger
@@ -29,7 +29,7 @@ former_screen_name: 鳳小百合
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V029
 last_direct_conduct_volume: V018
 local_readiness: UNMODELED
 ~~~
@@ -65,6 +65,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-SAY-E021 | SAY-S005 | RAG-E-V018-008 | Final mutual recognition; death | Exchanges love with Chizuru and dies before the later funeral. | Closes the direct grandmother-granddaughter relation through explicit affection. | The scene supplies no precise medical mechanism and no later conduct can test generalization. | none; model withheld |
 | RAG-SAY-E022 | POST-SAY | RAG-E-V019-004, RAG-E-V019-005, RAG-E-V019-009, RAG-E-V019-010 | Later report and memory; continuing influence | Chizuru relays Sayuri's praise, and ordinary family images and sparklers activate memories of Sayuri and Katsuhito. | Sayuri remains consequential through reported judgment and grief memory. | These are other characters' later states, not new Sayuri conduct. | none; historical influence only |
 | RAG-SAY-E023 | POST-SAY | RAG-E-V020-002 | Posthumous vocational consequence; limit | Chizuru affirms continued acting after Sayuri's death. | The family-linked vocation persists beyond its original intended witness. | The decision belongs to Chizuru and cannot be back-projected as new Sayuri intent. | none; historical influence only |
+| RAG-SAY-E024 | POST-SAY | RAG-E-V023-020 through RAG-E-V023-022 | Remembered happiness teaching and chosen-family consequence; continuing influence | Chizuru recalls Sayuri teaching her to recognize happiness within difficult circumstances and to trust that people who want to remain nearby will gather, then applies it to the resort group. | Sayuri's guidance remains behaviorally and emotionally consequential after death. | The memory is Chizuru's present reconstruction and cannot establish Sayuri's view of the full rental truth or current group. | none; historical influence only |
+| RAG-SAY-E025 | POST-SAY | RAG-E-V028-013 through RAG-E-V028-015 | Empty family house, retained objects, and memorial presence; continuing influence | Chizuru identifies the house as Sayuri's, reports that Sayuri did not discard Katsuhito's collected stones, sorts the remaining household, and encounters the grandparents through altar photographs. | Sayuri's household choices and memorial presence remain materially consequential during the contemplated sale. | Chizuru supplies the retrospective report; it does not establish Sayuri's reason for each object or a new posthumous decision. | none; historical influence only |
+| RAG-SAY-E026 | POST-SAY | RAG-E-V029-001, RAG-E-V029-005 | Maternal photo and remembered household presence | Her former house and Chizuru's recollection of living with her frame the now-empty residence and rare portrait of Chizuru's mother. | Bereavement and retained space influence Chizuru's temporary housing choice. | Present-day framing is Chizuru's memory; no new posthumous agency or complete prior family account; none; historical influence only. |
+| RAG-SAY-E027 | POST-SAY | RAG-E-V030-005 | Remembered neighborhood cat feeding | Chizuru links the familiar cat Peter to the household's earlier care, including Sayuri. | A small retained routine makes the inherited house a lived memory site. | Chizuru's retrospective report is not new Sayuri conduct or a general rule; none; historical influence only. |
 
 ## State-change summary
 
@@ -73,7 +77,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - SAY-S003 — hospitalized former performer inside a truth conflict: her health crisis raises disclosure stakes while her screen history supplies the inherited vocational route.
 - SAY-S004 — consenting film recipient under declining health: authorizes story use, receives the project as hope, evaluates Chizuru's acting and Kazuya's support, and collapses before the planned screening.
 - SAY-S005 — terminal recipient of partial truth, unfinished film, and final love: responds, hears a non-dating correction, leaves the answer with Chizuru, praises the film, and dies.
-- POST-SAY — later influence: her judgments and family rituals persist through report, memory, grief, and Chizuru's continuing vocation; these are not additional character states.
+- POST-SAY — later influence: her judgments, family rituals, retained household objects, memorial presence, Chizuru's continuing vocation, and explicit happiness teaching remain consequential after death; these are not additional character states.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -84,10 +88,12 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 
 ## Gaps and negative evidence
 
+- V029's remembered domestic presence and empty house do not establish an independent new Sayuri decision or authorize a model of her response to cohabitation (RAG-E-V029-001, RAG-E-V029-005).
+
 - Sayuri never receives a complete on-page account of the rental arrangement. Her final belief about the couple cannot be stated more precisely than the evidence permits.
 - General statements about lies and unconditional love must not be converted into advance approval of a specific deception she has not heard.
 - Medical diagnosis, prognosis details, and death mechanism remain unspecified.
-- Her screen career, friendships, finances, ordinary household role, and behavior outside Chizuru/Katsuhito-centered family evidence remain thin.
+- Her screen career, friendships, finances, and behavior outside Chizuru/Katsuhito-centered family evidence remain thin; V028 adds one reported household-retention choice without enough breadth for a general domestic rule.
 - Death makes prospective behavioral validation impossible; later memories are evidence about survivors, not new observations of Sayuri.
 - The evidence is rich enough for a dedicated historical ledger but too terminal, family-concentrated, and knowledge-incomplete for an operational model.
 

@@ -454,7 +454,7 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260919",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Japanese manga V001-V047 inventoried and hash-locked locally; V001-V020 are inspected, closed, checkpointed, and locally audited. V021 is the next sequential candidate and requires new explicit authorization before narrative inspection."
+      "catalog_note": "Japanese manga V001-V047 inventoried and hash-locked locally; V001-V030 are inspected, closed, checkpointed, and locally audited. V031 is the next sequential candidate and requires new explicit authorization before narrative inspection."
     },
     {
       "series_id": "revue-starlight",
