@@ -4,7 +4,7 @@ artifact_type: repository_entrypoint
 scope: DRIVE_ANALYTICAL_CORPUS_IMPORT
 generation: V1_import_2026_09_05
 status: canonical
-current_event_boundary: EVENT_0167
+current_event_boundary: EVENT_0168
 reconstruction_package_cutoff: EVENT_0140
 supersedes: []
 superseded_by: []
@@ -25,9 +25,9 @@ This tree imports all 58 analytical documents from the owner-supplied Drive fold
 
 Start with the [analytical corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md), then the relevant foundation, event reading, or longitudinal ledger. The [import report](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_REPORT.md) and [source/path/hash manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_MANIFEST.json) describe coverage, mechanical conversions, and source provenance.
 
-The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous source-present forward integration through EVENT_0167 (EVENT_0166 absent), and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
+The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous source-present forward integration through EVENT_0168 (EVENT_0166 absent), and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
 
-The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0167; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0167 deltas recorded for the next synthesis checkpoint. Final unit/specialist and full-series syntheses remain separate unfinished layers.
+The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0168; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0168 deltas recorded for the next synthesis checkpoint. Final unit/specialist and full-series syntheses remain separate unfinished layers.
 
 The governing [analytical method](00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md) and [synthesis architecture](00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md) remain current. The [character reconstruction method](00_FRAMEWORKS_AND_METHODS/PJSK_CHARACTER_RECONSTRUCTION_METHOD.md) and [live-service integration method](00_FRAMEWORKS_AND_METHODS/PJSK_LIVE_SERVICE_INTEGRATION_METHOD.md) govern their respective later layers.
 
@@ -249,6 +249,8 @@ Prior EVENT_0164 checkpoint: [EVENT_0164 full reading](03_SEQUENTIAL_EVENT_READI
 
 Prior EVENT_0165 checkpoint: [EVENT_0165 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0165_DEEP_READING.md). Mafuyu's direct family conversation and trial return are real, but renewed pressure and self-blame lead back to Kanade's refuge.
 
-Current forward checkpoint: [EVENT_0167 full reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0167_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). A shared nonactual separation clarifies the actual quartet's reciprocal commitment; the harbor tree changes observably but its mechanism is unproved. EVENT_0168 is next; three source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+Prior EVENT_0167 checkpoint: [EVENT_0167 full reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0167_DEEP_READING.md). A shared nonactual separation clarifies the actual quartet's reciprocal commitment; the harbor tree changes observably but its mechanism is unproved.
+
+Current forward checkpoint: [EVENT_0168 full reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0168_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). MMJ chooses the Grand Prix after a substantive briefing and prepares as a group; Airi traces her recipient-facing “heart” ideal without claiming contest success. EVENT_0169 is next; two source-present events remain through EVENT_0170.
 
 Current reconstruction checkpoint: [generation 1 router](05_CHARACTER_RECONSTRUCTION/README.md) and [readiness matrix](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md). All 20 principal humans now have the required three-file package and independently pass R3 for bounded textual scenario use. No package is promoted to R4 or performed-voice readiness, and no later event work is authorized by this checkpoint.

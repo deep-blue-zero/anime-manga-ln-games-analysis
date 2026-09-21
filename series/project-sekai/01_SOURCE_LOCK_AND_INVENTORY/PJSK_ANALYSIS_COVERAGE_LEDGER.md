@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0167
+current_event_boundary: EVENT_0168
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0167
+## Current coverage — all five human units synchronized through EVENT_0168
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0167 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0167` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0168 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0168` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -68,7 +68,11 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0167 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0168 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0168 is fully integrated:** scoped `MMJ-REL-GROUP-E0133 → MMJ-REL-GROUP-E0168` records the quartet's informed Grand Prix entry choice and coordinated preparation under a continuously streamed, partly undisclosed contest format. Airi's childhood audition failures and one baseball recipient, Hiyori's televised motto and its reported Arisawa source clarify her hope-delivery ideal at high I2, without replacing her E0138 operative. Haruka/Minori/Shizuku, Saito and local Stage singers receive differentiated I2; Ichika/Leo/need ordinary monthly I1, VBS/WxS/N25 I0. The verified envelope is 27 stories / 54 scenes / 1,267 records; four monthly rows carry anomalous 2023 release metadata. No contest stage completed, finalist berth, victory, assured global reach, safe overwork, public SEKAI knowledge or complete reconstruction is certified. The boundary advances EVENT_0167 to EVENT_0168. EVENT_0169 is next; two source-present events remain through EVENT_0170.
+
+Causal home: [EVENT_0168 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0168_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140.
 
 **EVENT_0167 is fully integrated:** scoped `REL-WXS-G-E0124 → REL-WXS-G-E0167` records the actual four-person troupe's renewed commitment after a compatible, nonactual separation and reunion-show experience. Local `EPI-WXS-WONDERLAND-E0124 → EPI-WXS-WONDERLAND-E0167` records unresponsive bodies and the observed harbor tree/shard change; causal theories remain tentative. Tsukasa, Emu, Nene, Rui, Ootori family and Wonderland singers receive differentiated I2, while the two anomalously 2023-dated monthly Saki/Shiho contacts are ordinary Leo/need I1; MMJ/VBS/N25 are I0. The verified envelope is 26 stories / 59 scenes / 1,908 records. No actual troupe breakup, U.S. transfer, Swan resignation, emergency Wonder Stage show, necessary suffering, deterministic tree mechanism, public SEKAI knowledge or complete reconstruction is certified. The boundary advances EVENT_0165 to EVENT_0167 because EVENT_0166 is absent from the frozen lock. EVENT_0168 is next; three source-present events remain through EVENT_0170.
 
