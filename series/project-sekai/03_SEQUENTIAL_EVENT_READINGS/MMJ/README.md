@@ -11,6 +11,8 @@ do_not_use_as_current_authority: false
 
 # MMJ
 
+Current forward reading: [EVENT_0157 — Rise and Strive](PJSK_EVENT_0157_DEEP_READING.md), a verified 26-story envelope. Haruka's inquiry, former-break concern, and fallible continuity vow meet MMJ's distributed response to scarce work; Arisawa reveals her organizer identity and offers Grand Prix entry. This is high I2 under existing owners, not proven Hiiragi sabotage, restored bookings, or a completed contest. Reconstruction generation 1 remains cut off at EVENT_0140.
+
 <!-- UNIT_BACKFILL_0029_0090_START -->
 ## Current ordered authority
 
@@ -64,3 +66,6 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0133 — Lead to shine more](PJSK_EVENT_0133_DEEP_READING.md): complete 26-story envelope; a tested documentary choice becomes Haruka's producer method and MMJ's shared governance model.
 
 - [EVENT_0138 — Chase my IDEAL IDOL！](PJSK_EVENT_0138_DEEP_READING.md): complete 29-story envelope; Airi removes a self-imposed performance ceiling and turns peer admiration into reciprocal public challenge.
+
+- [EVENT_0151 — Grow glorious glow](PJSK_EVENT_0151_DEEP_READING.md): complete 24-story envelope; Shizuku reincorporates former intensity as chosen shared-stakes responsibility, while Hagiyama Yuu becomes a bounded reciprocal professional rival and the event's successful overextension remains analytically unsafe rather than exemplary.
+- [EVENT_0168 — Cheer with my Heart!](PJSK_EVENT_0168_DEEP_READING.md): complete 27-story envelope; MMJ makes an informed LUMINA Grand Prix entry decision and begins differentiated preparation. Airi's remembered audition loss and particular recipient, Hiyori's televised “heart” principle, and its reported Arisawa source clarify a transmitted ideal without a completed contest or guaranteed audience reach.

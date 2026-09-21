@@ -62,3 +62,9 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0131 — perspective for smile](PJSK_EVENT_0131_DEEP_READING.md): complete 23-story envelope; Emu tests audience-perspective acting and WxS earns Mikazuki's next production.
 
 - [EVENT_0136 — お縄を頂戴！？天馬捕物帳](PJSK_EVENT_0136_DEEP_READING.md): complete 28-story envelope; a physical limit becomes Tsukasa's repeatable embodied-acting method through reciprocal mentorship.
+
+- [EVENT_0149 — The Power Of Regret](PJSK_EVENT_0149_DEEP_READING.md): complete 25-story envelope; Nene advances musical acting into full-stake competitive practice, establishes a reciprocal craft rivalry with Byakkomachi, and preserves apology and collaborative reflection after defeat.
+
+- [EVENT_0164 — Choices for the future](PJSK_EVENT_0164_DEEP_READING.md): complete 23-story envelope; Emu and Ryō co-design and defend a lower-priced experimental Kikyo production, gain executive approval, and test it with a particular audience. Long-term financial and fan outcomes remain open; Nene's Ryō rivalry and independent WxS craft remain distinct.
+
+- [EVENT_0167 — Dear my fellows](PJSK_EVENT_0167_DEEP_READING.md): complete 26-story World Link envelope; the shared dream of separate possible futures and an imagined Wonder Stage reunion strengthens the actual independent quartet's reciprocal commitment. A changed harbor tree and shard remain locally observed without a proven causal law; four individual routes and public-knowledge limits remain distinct.

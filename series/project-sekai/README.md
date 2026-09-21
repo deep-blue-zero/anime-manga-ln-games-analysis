@@ -4,6 +4,8 @@ artifact_type: repository_entrypoint
 scope: DRIVE_ANALYTICAL_CORPUS_IMPORT
 generation: V1_import_2026_09_05
 status: canonical
+current_event_boundary: EVENT_0170
+reconstruction_package_cutoff: EVENT_0140
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,7 +16,7 @@ do_not_use_as_current_authority: false
 <!-- UNIT_BACKFILL_0029_0090_START -->
 ## Current analytical boundary
 
-All five human units have continuous event-history dispositions through `EVENT_0140`. The [release-impact matrix](04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090) closes every formerly deferred EVENT_0029–0090 unit route, backed by founded [Leo/need](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [MMJ](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [VBS](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) and [WxS](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) checkpoints. Older deferred wording records historical entering state and is superseded for current coverage.
+All five human units have continuous event-history dispositions through `EVENT_0170` (EVENT_0166 source-absent). The [release-impact matrix](04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#current-founded-unit-backfill--complete-unit-impact-matrix-through-event_0090) closes every formerly deferred EVENT_0029–0090 unit route, backed by founded [Leo/need](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [MMJ](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md), [VBS](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_VBS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) and [WxS](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_WXS_EVENT_0029_0090_BACKFILL_CHECKPOINT.md) checkpoints. Older deferred wording records historical entering state and is superseded for current coverage.
 
 [Provisional reconstruction generation 1](05_CHARACTER_RECONSTRUCTION/README.md) now provides a monograph, reconstruction model, and evidence index for each of the 20 principal human characters. The [cross-character readiness matrix](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md) records 20 independent R3 passes, no R2 holdovers, and no R4 or performed-voice promotions. Its exact narrative boundary is EVENT_0140 commit `9de1cbf9efaba5c66946ec2d5dc0419e568da7c7`.
 <!-- UNIT_BACKFILL_0029_0090_END -->
@@ -23,9 +25,9 @@ This tree imports all 58 analytical documents from the owner-supplied Drive fold
 
 Start with the [analytical corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md), then the relevant foundation, event reading, or longitudinal ledger. The [import report](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_REPORT.md) and [source/path/hash manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_MANIFEST.json) describe coverage, mechanical conversions, and source provenance.
 
-The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous forward integration through EVENT_0140, and the first complete principal-human reconstruction generation. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
+The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous source-present forward integration through EVENT_0170 (EVENT_0166 absent), and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
 
-The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` and `RECONSTRUCTION_CURRENT` are both bounded to EVENT_0140; final unit/specialist and full-series syntheses remain separate unfinished layers.
+The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0170; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0170 deltas recorded for the next synthesis checkpoint. Final unit/specialist and full-series syntheses remain separate unfinished layers.
 
 The governing [analytical method](00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md) and [synthesis architecture](00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md) remain current. The [character reconstruction method](00_FRAMEWORKS_AND_METHODS/PJSK_CHARACTER_RECONSTRUCTION_METHOD.md) and [live-service integration method](00_FRAMEWORKS_AND_METHODS/PJSK_LIVE_SERVICE_INTEGRATION_METHOD.md) govern their respective later layers.
 
@@ -195,6 +197,64 @@ Prior EVENT_0138 checkpoint: [EVENT_0138 full reading](03_SEQUENTIAL_EVENT_READI
 
 Prior EVENT_0139 checkpoint: [EVENT_0139 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0139_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Toya now uses recovered musical admiration and joy as both recipient-facing teaching evidence and a future hardship anchor; Kanade and Toya have an explicit reciprocal composition channel. EVENT_0140 is next; 1 events remain through EVENT_0140.
 
-Current forward checkpoint: [EVENT_0140 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0140_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Bounded cross-SEKAI ontology now includes retained origin-fragment access, repeatable Interstice observation of distinct local counterparts, selected sensory leakage, and a provisional shared growth space; all five founding care routes are reconstructed without new human successors. The EVENT_0116–0140 continuation is complete.
+Prior EVENT_0140 checkpoint: [EVENT_0140 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0140_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Bounded cross-SEKAI ontology now includes retained origin-fragment access, repeatable Interstice observation of distinct local counterparts, selected sensory leakage, and a provisional shared growth space; all five founding care routes are reconstructed without new human successors. The EVENT_0116–0140 continuation is complete.
+
+Prior EVENT_0141 checkpoint: [EVENT_0141 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0141_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Emu now owns a tested participant-centered implementation method, while her Mafuyu relation advances through direct affect feedback, recipient-owned interpretation, and reciprocal gratitude.
+
+Prior EVENT_0142 checkpoint: [EVENT_0142 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0142_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Haruka owns a recipient-responsive public-challenge method whose demonstrated value survives defeat, while her An relation advances from remembered origin and bounded advice into current consequential reciprocity.
+
+Prior EVENT_0143 checkpoint: [EVENT_0143 full reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0143_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Ichika owns a song-by-song professional-authorship method; her scoped relation with School Miku includes reciprocal valuation and returned authority, while Solis management backs the harder policy and one aligned tie-in.
+
+Prior EVENT_0144 checkpoint: [EVENT_0144 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0144_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Nene owns distributed cross-school production leadership; Rui retains childhood loneliness as causal knowledge of present companionship; Interstice Rin strengthens bounded counterpart plurality without identity merger.
+
+Prior EVENT_0145 checkpoint: [EVENT_0145 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0145_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Mizuki's chosen disclosure attempt is preempted by third-party exposure; Ena receives guarded history without Mizuki's own account, and their relation ends in unresolved rupture.
+
+Prior EVENT_0146 checkpoint: [EVENT_0146 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0146_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Akito turns post-goal depletion into renewed world-facing motion through accepted support and Slade's challenge; VBS chooses a New York route, and the Street-SEKAI benchmark wall opens without a decoded mechanism.
+
+Prior EVENT_0147 checkpoint: [EVENT_0147 full reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0147_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Saki tests a room-sensitive audience-participation method, Iori opens a bounded professional/community channel, and one song-specific Solis commission reaches completed public execution.
+
+Prior EVENT_0148 checkpoint: [EVENT_0148 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0148_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Shiho turns chosen rest, enabling planning, received perspective, and contingency into a distinct ordinary-life operative; the Hinomori sisters establish a bounded reciprocal care route.
+
+Prior EVENT_0149 checkpoint: [EVENT_0149 full reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0149_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Nene turns experience seeking into full-stake competitive acting, receives defeat as specific diagnosis, and forms a reciprocal craft-rivalry route with Byakkomachi while Imura's later repair preserves recipient-sensitive care.
+
+Prior EVENT_0150 checkpoint: [EVENT_0150 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0150_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Mizuki chooses a conditional return, Ena–Mizuki and Nightcord group belonging repair without erasing fear, MEIKO's support becomes timing-aware, and Mizuki authors a bounded group disclosure whose exact wording remains withheld.
+
+Prior EVENT_0151 checkpoint: [EVENT_0151 full reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0151_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Shizuku reincorporates former professional intensity as chosen shared-stakes responsibility, Hagiyama Yuu becomes a bounded reciprocal rival, and MMJ's support remains distinct from any endorsement of unsafe overwork.
+
+Prior EVENT_0152 checkpoint: [EVENT_0152 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0152_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Rui advances medium-aware direction into recipient-responsive functional substitution and participant co-authorship; Kohane becomes a bounded creator–recipient collaborator through causal fan testimony, enacted help, returned evidence, and origin-revisiting access.
+
+Prior EVENT_0153 checkpoint: [EVENT_0153 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0153_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Airi and Akito convert delegated care and privately carried debt into reciprocal recognition; Haruka chooses a family-aware idol future; An retains grief and betrayal as part of chosen memory; repeated local thought-shard fields become a bounded franchise ontology.
+
+Prior EVENT_0154 checkpoint: [EVENT_0154 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0154_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Toya turns plural musical history and direct cross-genre encounter into chosen synthesis; Vivid BAD SQUAD executes its New York route; Shūji becomes usable sibling support; and the paternal relation gains a bounded future answer-check.
+
+Prior EVENT_0155 checkpoint: [EVENT_0155 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0155_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Saki turns recipient attention into consent-aware, subject-informed visual expression; practical help and reciprocal creative work establish a continuing Saki–Kanade channel.
+
+Prior EVENT_0156 checkpoint: [EVENT_0156 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0156_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Shizuku shares grandmother-inherited recipient-specific embroidery through differentiated teaching and gifts; her school/archery relationship with Mafuyu gains chosen creative reciprocity. EVENT_0157 was the next forward route at this checkpoint.
+
+Prior EVENT_0157 checkpoint: [EVENT_0157 full reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0157_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Haruka tests the work rumor, confronts Hiiragi's unbroken-light ideal, and shares a fallible response with MMJ; Arisawa invites them to the Grand Prix. EVENT_0158 was the next forward route at this checkpoint.
+
+Prior EVENT_0158 checkpoint: [EVENT_0158 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0158_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Honami makes a personally received story accessible to a child audience with Nene's reciprocal co-performance; direct and later recipient responses ground both routes. EVENT_0159 was the next forward route at this checkpoint.
+
+Prior EVENT_0159 checkpoint: [EVENT_0159 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0159_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Saki, Emu, and Shiho do paid recipient-facing work after a company study; Saki–Emu friendship moves beyond its earlier committee-bound evidence. EVENT_0160 was next at this checkpoint.
+
+Prior EVENT_0160 checkpoint: [EVENT_0160 full reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0160_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Tsukasa and cross-unit collaborators stage Inuyama's reconstructed farewell show while staff separately resolve a real ride stoppage. EVENT_0161 was next at this checkpoint.
+
+Prior EVENT_0161 checkpoint: [EVENT_0161 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0161_DEEP_READING.md). Mafuyu elects a conditional conversation with her mother after Kanade's partial-perspective creative block and collapse; the meeting and repair are still unshown.
+
+Prior EVENT_0162 checkpoint: [EVENT_0162 full reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0162_DEEP_READING.md). Leo/need executes a co-designed arena opening set and names a future self-earned headline; the possible co-bill and Saki's fan-distance worry remain open.
+
+Prior EVENT_0163 checkpoint: [EVENT_0163 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0163_DEEP_READING.md). VBS returns from a shared possible-world split and renews its four-person direction while the Street tree visibly changes; the alternate histories and shard mechanism remain bounded.
+
+Prior EVENT_0164 checkpoint: [EVENT_0164 full reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0164_DEEP_READING.md). Emu and Ryō win approval for an experimental Kikyo production and witness a favorable first response; its durable business result remains open.
+
+Prior EVENT_0165 checkpoint: [EVENT_0165 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0165_DEEP_READING.md). Mafuyu's direct family conversation and trial return are real, but renewed pressure and self-blame lead back to Kanade's refuge.
+
+Prior EVENT_0167 checkpoint: [EVENT_0167 full reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0167_DEEP_READING.md). A shared nonactual separation clarifies the actual quartet's reciprocal commitment; the harbor tree changes observably but its mechanism is unproved.
+
+Prior EVENT_0168 checkpoint: [EVENT_0168 full reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0168_DEEP_READING.md). MMJ chooses the Grand Prix after a substantive briefing and prepares as a group; Airi traces her recipient-facing “heart” ideal without claiming contest success.
+
+Prior EVENT_0169 checkpoint: [EVENT_0169 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0169_DEEP_READING.md). VBS witnesses Ken and Taiga's world-scale set and chooses a conditional RUSH BEATS route, without completed entry or result.
+
+Current forward checkpoint: [EVENT_0170 full reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0170_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Nightcord's shared nonactual separation resolves in actual four-person recommitment and bounded Empty-tree observation. The authorized source-present EVENT_0116–0170 continuation is closed; later analysis needs its own boundary.
 
 Current reconstruction checkpoint: [generation 1 router](05_CHARACTER_RECONSTRUCTION/README.md) and [readiness matrix](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md). All 20 principal humans now have the required three-file package and independently pass R3 for bounded textual scenario use. No package is promoted to R4 or performed-voice readiness, and no later event work is authorized by this checkpoint.
