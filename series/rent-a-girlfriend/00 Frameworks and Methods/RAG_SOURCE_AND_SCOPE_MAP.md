@@ -1,0 +1,121 @@
+---
+title: "Rent-a-Girlfriend - Source and Scope Map"
+artifact_id: RAG_SOURCE_AND_SCOPE_MAP
+artifact_type: source_inventory_and_scope_map
+series: Rent-a-Girlfriend
+generation: V1
+version: "1.30"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+created: "2026-09-19"
+inventory_date: "2026-09-19"
+source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V020 inspected, closed, checkpointed, and locally audited; V021-V047 remain outside the active narrative run."
+---
+
+# Source and scope map
+
+## Authority and storage
+
+The Japanese EPUBs are primary manga witnesses in the owner-authorized local evidence plane. Raw pages, EPUBs, bulk OCR, and extraction products are excluded from Git. This file records public-safe witness identities, integrity hashes, structural metadata, and analytical admission state.
+
+The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EPUB container checks, and packaging-conformance checks passing, with no exact duplicate archive groups. On 2026-09-19 the project independently calculated SHA-256 for every EPUB and parsed each OPF package without reading later narrative content.
+
+## Inventory
+
+| Volume | Witness ID | Bytes | SHA-256 | EPUB title | OPF language | Spine entries | Image items | Inspection state |
+|---:|---|---:|---|---|---|---:|---:|---|
+| V001 | RAG-JP-EPUB-V001 | 75425401 | `d8cc6a8765dde4746264c56dffab36a0501bc6ddc0572c72d37cff6baa61c15f` | 彼女、お借りします（１） | `ja` | 195 | 195 | INSPECTED__CLOSED |
+| V002 | RAG-JP-EPUB-V002 | 82393537 | `0c58ab41d7ef423b3e71c7bb6ef01c0cb82c573849097cbcace22ba7d7498fde` | 彼女、お借りします（２） | `ja` | 203 | 203 | INSPECTED__CLOSED |
+| V003 | RAG-JP-EPUB-V003 | 70179579 | `d6ea6638781d9546000f3960eecfc10f914ff24371c9c5dd7887093548e700b2` | 彼女、お借りします（３） | `ja` | 195 | 195 | INSPECTED__CLOSED |
+| V004 | RAG-JP-EPUB-V004 | 102097755 | `7d48b6b9a727e5f6bef74568d915485c639d731c55087db4e0695abe0cec6fe2` | 彼女、お借りします（４） | `en` | 195 | 196 | INSPECTED__CLOSED |
+| V005 | RAG-JP-EPUB-V005 | 105411467 | `4314fc1e54b685676b406325acf4193b1f86fcdbbfe5c58eef3835d80aab20b1` | 彼女、お借りします（５） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V006 | RAG-JP-EPUB-V006 | 108830004 | `7c55b735a9bebbd868ed217e151de96ed662583b9c763cc9a5f04b40a692bfda` | 彼女、お借りします（６） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V007 | RAG-JP-EPUB-V007 | 104897407 | `99bf23e1f4fde524d01234eb5a6e46b280a6ec445a2029d0397c87529426e0b4` | 彼女、お借りします（７） | `ja` | 196 | 197 | INSPECTED__CLOSED |
+| V008 | RAG-JP-EPUB-V008 | 99518605 | `96284cab8650e9f3f4e5b35b5ddc10bf9cad0a3a509936c3d83bfc1965bc3c9c` | 彼女、お借りします（８） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V009 | RAG-JP-EPUB-V009 | 94897168 | `088faf7192e93bc6219d65016f6a0ee02cd93bf54a219a9cba78b5ae7de36a2c` | 彼女、お借りします（９） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V010 | RAG-JP-EPUB-V010 | 93376184 | `a0c645089097e3ed476d99616f718850e27715a27566480ad5271feda9dc2013` | 彼女、お借りします（１０） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V011 | RAG-JP-EPUB-V011 | 96037533 | `7c147cb2c4e7e063283fea9409dee11f3851633af0e2ed8afdc2351dfc963151` | 彼女、お借りします（１１） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V012 | RAG-JP-EPUB-V012 | 97544128 | `a074736c16b27d5bd6cece079887bd6084dadb781fc66c502d5f665bec4b8571` | 彼女、お借りします（１２） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V013 | RAG-JP-EPUB-V013 | 91611550 | `f5ae389c6d458917ec43768604f4ad7bbc150841e007251a7760da520e231095` | 彼女、お借りします（１３） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V014 | RAG-JP-EPUB-V014 | 93549400 | `bfaa9dc1d853fa7edb2088ab594c0652970db6585db186ce064f3e3445766cfa` | 彼女、お借りします（１４） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V015 | RAG-JP-EPUB-V015 | 88836588 | `900975b67a2af3a5b8dc793c86e5fa7d7cd48ffaa30ed31f77f7b38af3cc1271` | 彼女、お借りします（１５） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V016 | RAG-JP-EPUB-V016 | 97713337 | `93d15dcf6451f4997e11aa271b90469aebd3a19030544d9b8f0f01147ef2c890` | 彼女、お借りします（１６） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V017 | RAG-JP-EPUB-V017 | 97675741 | `287e41100066f3407e39dba482b12e0f6b2ef30a550936760d06634696a435eb` | 彼女、お借りします（１７） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V018 | RAG-JP-EPUB-V018 | 99892358 | `ab643da4889afc7cd51441072c108e614576c45c55805ff0ffd0997193016f61` | 彼女、お借りします（１８） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V019 | RAG-JP-EPUB-V019 | 98723881 | `94883ed90bee95609d76c9be7380bf92ceb7f8dfe1919adebd46cb1d4ebd6eb3` | 彼女、お借りします（１９） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V020 | RAG-JP-EPUB-V020 | 98350761 | `a2834542ec3c283868f2b3c00161d9d16f85e1ed1c05124cdf3783704803551b` | 彼女、お借りします（２０） | `ja` | 195 | 196 | INSPECTED__CLOSED |
+| V021 | RAG-JP-EPUB-V021 | 96840574 | `39db910d7023030a16e524be93eb4cc967b6d8c9a822d9b38375d4dbb4b99747` | 彼女、お借りします（２１） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V022 | RAG-JP-EPUB-V022 | 117566247 | `21b4d7b192bf3c42b83ec9a6a5d4ec58f04e095b65e568555f6ef75975e4030c` | 彼女、お借りします（２２） | `ja` | 237 | 238 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V023 | RAG-JP-EPUB-V023 | 97974304 | `13c523f4253e2d4096ae345bc8de078759eaa2968964d6f4180a7d3b44bba952` | 彼女、お借りします（２３） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V024 | RAG-JP-EPUB-V024 | 106701917 | `78a7737e40dfdc72b25ac077c0f0978e0e7f11ce7e69b0062f908efc3991f026` | 彼女、お借りします（２４） | `ja` | 209 | 210 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V025 | RAG-JP-EPUB-V025 | 100029433 | `deda931c3b5b72d2e2078df876e81dd196ac67aa99450dfd30b4bcf843f654bc` | 彼女、お借りします（２５） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V026 | RAG-JP-EPUB-V026 | 93792935 | `9a2dbd8c056e2b7fc3cf3396344902bf1e90913235afa2c3d1bdeb8f4bbcf51f` | 彼女、お借りします（２６） | `ja` | 195 | 196 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V027 | RAG-JP-EPUB-V027 | 105110620 | `38630a67d0e8bc7cd0bfcb9b292ba4776b001546818c843226ec0fc74cd249aa` | 彼女、お借りします（２７） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V028 | RAG-JP-EPUB-V028 | 100649795 | `3f9ac4561313e237c854f7402c4b44e8f58f77d2a0cb4f524368a49f22710061` | 彼女、お借りします（２８） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V029 | RAG-JP-EPUB-V029 | 103145031 | `a10f53fbb7642d481d22f5be85762905d5827049e22c079a02dc7c95f91d33b4` | 彼女、お借りします（２９） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V030 | RAG-JP-EPUB-V030 | 100029160 | `23d6fbf306db55dee1c982907b1f65b9f3c3f6fa53f7a29fdc312c4bfe3f5004` | 彼女、お借りします（３０） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V031 | RAG-JP-EPUB-V031 | 65400483 | `d3acd779ec38b5e48ff2e4b2f319f46d989e7b7ad738418f6fced4aceffcce59` | 彼女、お借りします（３１） | `en` | 204 | 204 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V032 | RAG-JP-EPUB-V032 | 103379452 | `67d88ed8538b4cbe77dfe44126d8c4a2af27d102a514c8efc187a0e107e08d00` | 彼女、お借りします（３２） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V033 | RAG-JP-EPUB-V033 | 96385640 | `115830b31bf72abaf25e6191b9088dddc365c79c992847fa017c7d2df39bb7f3` | 彼女、お借りします（３３） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V034 | RAG-JP-EPUB-V034 | 91958318 | `b36d66e3583c63dab2a117d68a763cbbf0cb6641a48a9eb7bac14a7c04c22633` | 彼女、お借りします（３４） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V035 | RAG-JP-EPUB-V035 | 94953899 | `458e5f8738cc9dbd2d380a65a09d3346b342c58eb9b784cfc044bd16588e0c82` | 彼女、お借りします（３５） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V036 | RAG-JP-EPUB-V036 | 93680978 | `1c9c5293bf5c98affd54bdb2d2532d198ce40d9042373fa54c1d113ef3029905` | 彼女、お借りします（３６） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V037 | RAG-JP-EPUB-V037 | 94993153 | `c5dfee2598062b95df98a0de189daeb4f5a6d62e26b1b495b3e4b78375fdba44` | 彼女、お借りします（３７） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V038 | RAG-JP-EPUB-V038 | 95541332 | `c480cc177aca4f4c78e8ded167b9e3d52098d775d574bb7b470be43a30a383c2` | 彼女、お借りします（３８） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V039 | RAG-JP-EPUB-V039 | 100445576 | `08c3753f17ee3c988841906d447d3107f1d66568050be666cb8f87aa19f78f90` | 彼女、お借りします（３９） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V040 | RAG-JP-EPUB-V040 | 70775255 | `ecd9f8ce650bccf5990e7b2af04705c9341f0fc8630ff6048c50ca228d108630` | 彼女、お借りします（４０） | `ja` | 204 | 204 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V041 | RAG-JP-EPUB-V041 | 100845690 | `23bbe6bc63e26c44321d326f718f05ca5cc8a3436ce93855b9e126fdb0246c82` | 彼女、お借りします（４１） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V042 | RAG-JP-EPUB-V042 | 103550635 | `7a74709a780009fa46fe807a8e52b46022d1955eb96fb640ad423e25c93861fe` | 彼女、お借りします（４２） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V043 | RAG-JP-EPUB-V043 | 114996133 | `33c9fd6fb04c5c9ba4f7bd69f1671f218798ace7cde8440539c96630ca193663` | 彼女、お借りします（４３） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V044 | RAG-JP-EPUB-V044 | 105783050 | `cb016a95a71e07736102dad74fd9dfe3772532e54040e89a1340e81bf7383e4f` | 彼女、お借りします（４４） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V045 | RAG-JP-EPUB-V045 | 70951575 | `75c674a3215c5c275bf2d9e8af969b9d6bb60310cbfcaf43f3779f1241913f81` | 彼女、お借りします（４５） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V046 | RAG-JP-EPUB-V046 | 70231352 | `f5bb1608f9ae782a253820b8dd136c8c9aeaac6cada08b5f97c41a38519bf200` | 彼女、お借りします（４６） | `ja` | 204 | 204 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V047 | RAG-JP-EPUB-V047 | 68348160 | `a0b385b8db18a0561eebb4b9688f70128a414ddf8876d7fd73eea98f5aa13796` | 彼女、お借りします（４７） | `ja` | 204 | 204 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+
+## Reconnaissance findings
+
+- The inventory is continuous from V001 through V047 with no filename or ordinal gap.
+- Every package identifies the Japanese title `彼女、お借りします` and creator `宮島礼吏`.
+- OPF language metadata is `ja` except V004 and V031, which incorrectly declare `en`. Those values are recorded as package-metadata defects, not accepted as evidence that the images are English. Each affected witness requires a visual language confirmation when it becomes eligible.
+- V001 contains 195 spine entries, all resolving to image targets. Its extracted image set contains no exact duplicates; 194 pages are 1070×1600 pixels and the cover is 1134×1500.
+- Original-resolution inspection confirmed that V001 Japanese text and drawn detail are legible. Full sequential inspection then covered the cover, blank image `0000.jpg`, narrative and chapter matter `0001.jpg`-`0191.jpg`, disclaimer `0192.jpg`, and colophon `0193.jpg`. Five chapter title pages were verified at images `0003`, `0056`, `0107`, `0143`, and `0167`.
+- Full original-resolution inspection of V002 covered the cover, blank image `i_0000.jpg`, table of contents `i_0001.jpg`, narrative and chapter matter `i_0002.jpg`-`i_0198.jpg`, V003 teaser `i_0199.jpg`, disclaimer `i_0200.jpg`, and colophon `i_0201.jpg`. Nine chapter labels were verified from Satisfaction 6 through Satisfaction 14. The 203-entry spine is continuous and all entries resolve.
+- Full original-resolution inspection of V003 covered the cover, blank image `0000.jpg`, narrative and chapter matter `0001.jpg`-`0190.jpg`, post-chapter promotional client message `0191.jpg`, disclaimer `0192.jpg`, and colophon `0193.jpg`. Nine chapter labels were verified from Satisfaction 15 through Satisfaction 23. The 195-entry spine is continuous and all entries resolve.
+- Full original-resolution inspection of V004 covered the spine cover `0001.jpg`, blank `0002.jpg`, recap `0003.jpg`, contents `0004.jpg`, narrative and chapter matter `0005.jpg`-`0192.jpg`, post-chapter client note `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 24 through Satisfaction 32. Visible text is Japanese despite the erroneous `en` OPF value. The 195-entry spine is continuous; the 196th image item is a manifest-only duplicate cover at `OPS/OPS/cover.jpg`, not missing narrative matter.
+- Full original-resolution inspection of V005 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 33 through Satisfaction 41. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image item is a manifest-only alternate layout of the same cover artwork with an added magazine spine and changed crop, not missing narrative matter.
+- Full original-resolution inspection of V006 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0174.jpg`, blank divider `0175.jpg`, labeled *Rent-a-Girlfriend × Senryu Girl* crossover `0176.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Eight chapter labels were verified from Satisfaction 42 through Satisfaction 49. The crossover is recorded but excluded from main-continuity claim updates. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image item is a manifest-only alternate layout of the Sumi-on-skates cover artwork with an added magazine spine and changed crop, not missing narrative matter.
+- Full original-resolution inspection of V007 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative `0005.jpg`-`0090.jpg` and `0112.jpg`-`0192.jpg`, labeled Sumi supplemental vignette `0091.jpg`-`0111.jpg`, author afterword `0193.jpg`, advertisement `0194.jpg`, disclaimer `0195.jpg`, and colophon `0196.jpg`. Satisfaction 50 through 58 are represented, with the labeled supplemental item between 53 and 55. Visible text and OPF language are Japanese. The 196-entry spine is continuous; the 197th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V008 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0190.jpg`, author afterword `0191.jpg`, advertisement `0192.jpg`, V009 preview `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 59 through Satisfaction 67. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V009 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 68 through Satisfaction 76. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is a manifest-only alternate cover at `OPS/OPS/cover.jpg` with the magazine spine and altered crop.
+- Full original-resolution inspection of V010 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0186.jpg`, author process bonus and afterword `0187.jpg`-`0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 77 through Satisfaction 85. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V011 covered the spine cover `0001.jpg`, blank `0002.jpg`, interleaved chapter/title/contents matter and main-continuity narrative `0003.jpg`-`0190.jpg`, afterword `0191.jpg`, bonus comic `0192.jpg`, notice `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 86 through Satisfaction 94. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V012 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 95 through Satisfaction 103. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is a manifest-only alternate cover at `OPS/OPS/cover.jpg` with a magazine spine and changed crop.
+- Full original-resolution inspection of V013 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0188.jpg`, author process and adaptation afterword `0189.jpg`-`0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 104 through Satisfaction 112. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only alternate cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V014 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 113 through Satisfaction 121. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only alternate cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V015 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0184.jpg`, author process and anime-production afterword `0185.jpg`-`0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 122 through Satisfaction 130. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only alternate cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V016 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0190.jpg`, author process afterword `0191.jpg`-`0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 131 through Satisfaction 139. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only alternate cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V017 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 140 through Satisfaction 148. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V018 covered the spine cover `0001.jpg`, blank `0002.jpg`, title `0003.jpg`, contents `0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0190.jpg`, author afterword `0191.jpg`-`0192.jpg`, illustration `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 149 through Satisfaction 157. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only alternate cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V019 covered the spine cover and front matter `0001.jpg`-`0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0192.jpg`, author afterword `0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 158 through Satisfaction 166. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Full original-resolution inspection of V020 covered the spine cover and front matter `0001.jpg`-`0004.jpg`, main-continuity narrative and chapter matter `0005.jpg`-`0188.jpg`, author and puzzle back matter `0189.jpg`-`0193.jpg`, disclaimer `0194.jpg`, and colophon `0195.jpg`. Nine chapter labels were verified from Satisfaction 167 through Satisfaction 175. Visible text and OPF language are Japanese. The 195-entry spine is continuous; the 196th image is the manifest-only cover at `OPS/OPS/cover.jpg`.
+- Image-item counts may exceed spine counts by one where an image is present in the package manifest but not directly represented as a spine page. This is not yet classified as a missing or extra narrative page.
+
+## Admission rules
+
+- `AVAILABLE` means a witness exists in inventory.
+- `VERIFIED` means its recorded structural/integrity checks passed.
+- `ADMITTED` means its narrative content may be inspected under the current run.
+- `INSPECTED` means the full declared narrative coverage was actually read.
+- `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
+
+V001-V020 are inspected, closed, checkpointed, and locally audited. V021-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+
+## Locator convention
+
+Consequential observations use the witness ID, edition chapter label, printed page where visible, and stable EPUB image index. V001 and V003 use four-digit image filenames; V002 uses the package's `i_`-prefixed image names. Printed numbers and filenames remain explicit rather than silently conflated.
+
+## Known limitations
+
+No alternate Japanese printing or licensed translation has been admitted. Source acquisition provenance and private absolute filesystem paths are intentionally excluded from this public analytical file. Page-level crop, spread, blank-page, chapter-boundary, and narrative-extra classification is complete only after each eligible volume's full visual transaction.

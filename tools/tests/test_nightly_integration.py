@@ -9,6 +9,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+import urllib.parse
 from pathlib import Path
 from unittest import mock
 
@@ -379,6 +380,141 @@ class ControllerTests(unittest.TestCase):
                     with self.assertRaisesRegex(Halt, 'did not finish'):
                         worker.wait_post_merge(M, 12)
                 runs['actions/runs/42'] = original
+
+
+class SourceAuditWaitTests(unittest.TestCase):
+    def worker(self, preview=False):
+        worker = Integrator(FakeAPI(), graph_mock(), preview=preview, controller_sha=B)
+        worker.save = mock.Mock()
+        worker.api.source_audit = mock.Mock(return_value={
+            'id': 42, 'status': 'in_progress', 'conclusion': None,
+        })
+        worker.api.status = mock.Mock(return_value=None)
+        return worker
+
+    def test_queued_source_audit_finishes_before_any_write(self):
+        worker = self.worker()
+        worker.api.source_audit.side_effect = [
+            {'id': 42, 'status': 'queued', 'conclusion': None},
+            {'id': 42, 'status': 'in_progress', 'conclusion': None},
+        ]
+        polls = []
+        def advance(seconds):
+            self.assertEqual(worker.api.writes, [])
+            worker.graph.push.assert_not_called()
+            polls.append(seconds)
+            if len(polls) == 2:
+                worker.api.status.side_effect = lambda sha: FakeAPI.status(worker.api, sha)
+        with mock.patch('nightly_integration.time.sleep', side_effect=advance):
+            self.assertEqual(worker.process('series/a', S, B, {}), M)
+        self.assertEqual(polls, [15, 15])
+        self.assertEqual(worker.api.writes[0][0], 'PUT')
+
+    def test_absent_failed_or_unreported_source_audits_never_allow_writes(self):
+        for case in ('absent', 'failure_status', 'error_status', 'failure', 'cancelled',
+                     'timed_out', 'skipped', 'success_without_reporter'):
+            with self.subTest(case=case):
+                worker = self.worker()
+                if case == 'absent':
+                    worker.api.source_audit.return_value = None
+                elif case.endswith('_status'):
+                    worker.api.status.return_value = {'state': case.removesuffix('_status')}
+                else:
+                    worker.api.source_audit.return_value.update(
+                        status='completed', conclusion='success' if case == 'success_without_reporter' else case)
+                with mock.patch('nightly_integration.time.sleep') as sleep, self.assertRaises(Blocked):
+                    worker.process('series/a', S, B, {})
+                sleep.assert_not_called()
+                self.assertEqual(worker.api.writes, [])
+                worker.graph.push.assert_not_called()
+
+    def test_reporter_completing_between_reads_is_rechecked(self):
+        worker = self.worker()
+        worker.api.source_audit.return_value.update(status='completed', conclusion='success')
+        worker.api.status.side_effect = [None, {'state': 'pending'}]
+        with mock.patch('nightly_integration.time.sleep') as sleep:
+            worker.wait_source('series/a', S, B, worker.deadline)
+        self.assertEqual(worker.api.status.call_count, 2)
+        sleep.assert_not_called()
+        self.assertEqual(worker.api.writes, [])
+
+    def test_source_or_main_drift_during_initial_wait_stops_before_writes(self):
+        for field, error in (('source', Blocked), ('main', Halt)):
+            with self.subTest(field=field):
+                worker = self.worker()
+                with mock.patch('nightly_integration.time.sleep', side_effect=lambda _: setattr(worker.api, field, G)):
+                    with self.assertRaises(error):
+                        worker.process('series/a', S, B, {})
+                self.assertEqual(worker.api.writes, [])
+                worker.graph.push.assert_not_called()
+
+    def test_initial_wait_timeout_is_bounded_by_source_and_run_deadlines(self):
+        for budget, wait_seconds in ((100, 20), (20, 100)):
+            with self.subTest(budget=budget, wait_seconds=wait_seconds):
+                worker = self.worker()
+                worker.deadline, worker.wait_seconds = budget, wait_seconds
+                clock = [0]
+                with mock.patch('nightly_integration.time.monotonic', side_effect=lambda: clock[0]), \
+                        mock.patch('nightly_integration.time.sleep', side_effect=lambda seconds: clock.__setitem__(0, clock[0] + seconds)):
+                    with self.assertRaisesRegex(Blocked, 'Timed out awaiting the source audit'):
+                        worker.process('series/a', S, B, {})
+                self.assertEqual(clock[0], 20)
+                self.assertEqual(worker.api.writes, [])
+                worker.graph.push.assert_not_called()
+
+    def test_initial_wait_and_housekeeping_share_one_source_budget(self):
+        worker = self.worker()
+        worker.deadline, worker.wait_seconds = 10000, 100
+        clock = [0]
+        def advance(seconds):
+            clock[0] += seconds
+            if clock[0] >= 60:
+                # A passed authored-content audit permits waiting for housekeeping,
+                # but does not itself certify integration readiness.
+                worker.api.status.return_value = {'state': 'pending'}
+        with mock.patch('nightly_integration.time.monotonic', side_effect=lambda: clock[0]), \
+                mock.patch('nightly_integration.time.sleep', side_effect=advance):
+            with self.assertRaisesRegex(Blocked, 'Timed out awaiting housekeeping'):
+                worker.process('series/a', S, B, {})
+        self.assertEqual(clock[0], 100)
+        self.assertEqual(worker.api.writes, [])
+
+    def test_preview_reports_unfinished_source_without_polling(self):
+        worker = self.worker(preview=True)
+        with mock.patch('nightly_integration.time.sleep') as sleep, self.assertRaises(Blocked):
+            worker.process('series/a', S, B, {})
+        sleep.assert_not_called()
+        worker.api.source_audit.assert_not_called()
+        self.assertEqual(worker.api.writes, [])
+
+    def test_source_run_discovery_binds_identity_branch_and_exact_commit(self):
+        api = GitHub('test')
+        run = {'id': 42, 'path': AUDIT_WORKFLOW, 'head_sha': S, 'head_branch': 'series/a',
+               'event': 'push', 'actor': {'login': OWNER}, 'triggering_actor': {'login': OWNER},
+               'head_repository': {'full_name': REPOSITORY}, 'status': 'in_progress', 'conclusion': None}
+        api.request = mock.Mock(return_value={'workflow_runs': [run]})
+        self.assertEqual(api.source_audit('series/a', S), run)
+        method, path = api.request.call_args.args
+        endpoint, query = path.split('?')
+        self.assertEqual(method, 'GET')
+        self.assertEqual(endpoint, 'actions/workflows/repository-audit.yml/runs')
+        self.assertEqual(urllib.parse.parse_qs(query), {
+            'branch': ['series/a'], 'head_sha': [S], 'event': ['push'], 'per_page': ['1'],
+        })
+        for field, invalid in (
+            ('path', '.github/workflows/other.yml'), ('head_sha', G), ('head_branch', 'series/b'),
+            ('event', 'repository_dispatch'), ('actor', {'login': 'someone-else'}),
+            ('triggering_actor', {'login': 'someone-else'}), ('head_repository', {'full_name': 'fork/repo'}),
+        ):
+            with self.subTest(field=field):
+                api.request.return_value = {'workflow_runs': [dict(run, **{field: invalid})]}
+                self.assertIsNone(api.source_audit('series/a', S))
+        api.request.return_value = {'workflow_runs': []}
+        self.assertIsNone(api.source_audit('series/a', S))
+        # A completed failure must remain visible, not be hidden by a status filter.
+        failed = dict(run, status='completed', conclusion='failure')
+        api.request.return_value = {'workflow_runs': [failed]}
+        self.assertEqual(api.source_audit('series/a', S), failed)
 
 
 class PreviewResultTests(unittest.TestCase):

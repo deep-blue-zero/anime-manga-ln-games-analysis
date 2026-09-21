@@ -41,4 +41,24 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 
 - [EVENT_0025 — ワンダーマジカルショウタイム！](PJSK_EVENT_0025_DEEP_READING.md): complete 30-story envelope; `WXS-EP-PARK-E0015-OPEN → WXS-EP-PARK-E0025` records one provisional institutional I3, while founded humans, group, park-support, cross-unit and Wonderland routes receive bounded I1/I2.
 
+- [EVENT_0055 — まばゆい光のステージで](PJSK_EVENT_0055_DEEP_READING.md): complete-envelope reading centered on Tsukasa's role diagnosis and perspective taking as an acting method; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
+
+- [EVENT_0062 — 絶体絶命！？アイランドパニック！](PJSK_EVENT_0062_DEEP_READING.md): complete-envelope reading centered on Nene's fear/courage mechanism and the troupe's portable role structure under material uncertainty; current founded-unit consequence is governed by the EVENT_0029–0090 backfill checkpoint.
+
 - [EVENT_0095 — カナリアは窮境に歌う](PJSK_EVENT_0095_DEEP_READING.md): complete 25-story envelope; new `WXS-EP-NENE-E0095` records integrated musical acting and experience seeking, new `WXS-REL-NENE-YUKA-E0095` is bounded high I2, and the WxS group, Rui, Sakurako and Wonderland relations receive strong-I2 reuse while unsafe overwork and unresolved troupe direction remain explicit.
+
+- [EVENT_0099 — 一期一会な百鬼夜行！？](PJSK_EVENT_0099_DEEP_READING.md): complete 24-story envelope; new `WXS-EP-RUI-E0099` outside-show friendship operative I3, new `WXS-REL-RUI-CLASSMATES-E0099` I3, bounded `REL-CROSS-MAFUYU-AIRI-E0099` I2, and preserved Rui E0024, WxS, N25, MMJ, cross-unit, and manifestation authority.
+
+- [EVENT_0104 — あたしたちのハッピーエンド](PJSK_EVENT_0104_DEEP_READING.md): complete 23-story envelope; new `WXS-EP-EMU-E0104` records shared stewardship and outside learning, `REL-WXS-MS-G-P06 → REL-WXS-G-E0104` records the independent four-person troupe, and `WXS-EP-PARK-E0025 → WXS-EP-PARK-E0104` records the bounded institutional handoff.
+
+- [EVENT_0113 — 君が主役の物語を](PJSK_EVENT_0113_DEEP_READING.md): complete 24-story envelope; Tsukasa gains a tested sparse-role construction method with ensemble-control limits, and his reciprocal craft relation with Reki changes both actors' choices.
+
+- [EVENT_0114 — 最高のクランクアップ！](PJSK_EVENT_0114_DEEP_READING.md): complete 23-story envelope; Nene builds a person-specific collaborative-directing method and turns class project work into reciprocal, continuing classmate relations.
+
+- [EVENT_0119 — 逆光のレンズフレア](PJSK_EVENT_0119_DEEP_READING.md): complete 23-story envelope; Rui learns to adapt script, medium, and performer, then accepts a stronger directorial solution without claiming film mastery.
+
+- [EVENT_0124 — 星を目指して、ヨーソロー！](PJSK_EVENT_0124_DEEP_READING.md): complete 30-story World Link envelope; a responsive harbor and route map make WxS's accumulated shows and shared future voyage material.
+
+- [EVENT_0131 — perspective for smile](PJSK_EVENT_0131_DEEP_READING.md): complete 23-story envelope; Emu tests audience-perspective acting and WxS earns Mikazuki's next production.
+
+- [EVENT_0136 — お縄を頂戴！？天馬捕物帳](PJSK_EVENT_0136_DEEP_READING.md): complete 28-story envelope; a physical limit becomes Tsukasa's repeatable embodied-acting method through reciprocal mentorship.
