@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0163
+current_event_boundary: EVENT_0164
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0163
+## Current coverage — all five human units synchronized through EVENT_0164
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0163 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0163`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0164 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0164`.
 
 Artifacts:
 
@@ -68,7 +68,11 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0163 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0164 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0164 is fully integrated:** scoped `WXS-EP-EMU-E0141 → WXS-EP-EMU-E0164` records Emu's institution-facing implementation: private research and trust, price/casting tradeoffs, coauthored formal argument with Ryō, executive authorization and a particular first-audience test. `REL-WXS-EMU-RYO-E0164` captures their reciprocal confidence and work, while preserving Nene's different Ryō rivalry. The verified envelope is 23 stories / 46 scenes / 1,416 records. Nene, Tsukasa, Rui, brothers and Wonderland KAITO receive bounded I2; Leo/need, MMJ, VBS and N25 have no unit successor. The original confidential dissolution decision is displaced by an approved experiment, not a certified durable business rescue; outsider trainees do not enter the student audition, comic imagined boardrooms are not actual, and ticket forecasts are not final sales. The boundary advances EVENT_0163 to EVENT_0164. EVENT_0165 is next; five source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
+
+Causal home: [EVENT_0164 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0164_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140.
 
 **EVENT_0163 is fully integrated:** scoped `VBS-REL-GROUP-E0154 → VBS-REL-GROUP-E0163` captures the four's renewed present commitment after a shared dreamlike alternative in which partnerships fractured; `EPI-VBS-SEKAI-E0118 → EPI-VBS-SEKAI-E0163` records their unresponsive bodies, compatible experience, faint singer contact and the Street tree's observed growth and recovery. Those possible lives are not present biography; Miku's account of a black thought shard and the singers' growth interpretation are not an established causal law. The four character histories, actual overseas collaboration, Natsuomi's supportive message, local singer vigil and MEIKO's rest intervention receive bounded I2. Leo/need, MMJ, WxS and N25 have no actual unit successor. The verified envelope is 24 stories / 47 scenes / 1,699 records. No actual VBS breakup, compulsory hardship, guaranteed reunion, predictable shard access, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0162 to EVENT_0163. EVENT_0164 is next; six source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen lock.
 

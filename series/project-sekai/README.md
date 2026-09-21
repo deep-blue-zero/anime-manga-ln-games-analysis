@@ -4,7 +4,7 @@ artifact_type: repository_entrypoint
 scope: DRIVE_ANALYTICAL_CORPUS_IMPORT
 generation: V1_import_2026_09_05
 status: canonical
-current_event_boundary: EVENT_0163
+current_event_boundary: EVENT_0164
 reconstruction_package_cutoff: EVENT_0140
 supersedes: []
 superseded_by: []
@@ -25,9 +25,9 @@ This tree imports all 58 analytical documents from the owner-supplied Drive fold
 
 Start with the [analytical corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md), then the relevant foundation, event reading, or longitudinal ledger. The [import report](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_REPORT.md) and [source/path/hash manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_IMPORT_MANIFEST.json) describe coverage, mechanical conversions, and source provenance.
 
-The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous forward integration through EVENT_0163, and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
+The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous forward integration through EVENT_0164, and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
 
-The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0163; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0163 deltas recorded for the next synthesis checkpoint. Final unit/specialist and full-series syntheses remain separate unfinished layers.
+The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0164; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0164 deltas recorded for the next synthesis checkpoint. Final unit/specialist and full-series syntheses remain separate unfinished layers.
 
 The governing [analytical method](00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md) and [synthesis architecture](00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md) remain current. The [character reconstruction method](00_FRAMEWORKS_AND_METHODS/PJSK_CHARACTER_RECONSTRUCTION_METHOD.md) and [live-service integration method](00_FRAMEWORKS_AND_METHODS/PJSK_LIVE_SERVICE_INTEGRATION_METHOD.md) govern their respective later layers.
 
@@ -243,6 +243,8 @@ Prior EVENT_0161 checkpoint: [EVENT_0161 full reading](03_SEQUENTIAL_EVENT_READI
 
 Prior EVENT_0162 checkpoint: [EVENT_0162 full reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0162_DEEP_READING.md). Leo/need executes a co-designed arena opening set and names a future self-earned headline; the possible co-bill and Saki's fan-distance worry remain open.
 
-Current forward checkpoint: [EVENT_0163 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0163_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). VBS returns from a shared possible-world split and renews its four-person direction while the Street tree visibly changes; the alternate histories and shard mechanism remain bounded. EVENT_0164 is next; six source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+Prior EVENT_0163 checkpoint: [EVENT_0163 full reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0163_DEEP_READING.md). VBS returns from a shared possible-world split and renews its four-person direction while the Street tree visibly changes; the alternate histories and shard mechanism remain bounded.
+
+Current forward checkpoint: [EVENT_0164 full reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0164_DEEP_READING.md) and [corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md). Emu and Ryō win approval for an experimental Kikyo production and witness a favorable first response; its durable business result remains open. EVENT_0165 is next; five source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
 Current reconstruction checkpoint: [generation 1 router](05_CHARACTER_RECONSTRUCTION/README.md) and [readiness matrix](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md). All 20 principal humans now have the required three-file package and independently pass R3 for bounded textual scenario use. No package is promoted to R4 or performed-voice readiness, and no later event work is authorized by this checkpoint.
