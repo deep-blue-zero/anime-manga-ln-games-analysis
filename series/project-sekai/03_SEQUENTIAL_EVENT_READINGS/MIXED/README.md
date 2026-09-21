@@ -48,3 +48,24 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0139 — 鳴らせビューティフルサウンド！](PJSK_EVENT_0139_DEEP_READING.md): complete 23-story mixed envelope; recovered musical joy becomes Toya's recipient-tested persistence method and a reciprocal Toya–Kanade creative channel.
 
 - [EVENT_0140 — キミと、セカイの始まりで](PJSK_EVENT_0140_DEEP_READING.md): complete 36-story universal envelope; origin fragments, early local care, repeatable counterpart observation, and a provisional shared growth space advance bounded SEKAI ontology.
+
+- [EVENT_0141 — わんだほら～！？な肝だめし！](PJSK_EVENT_0141_DEEP_READING.md): complete 23-story mixed envelope; Emu turns shared-joy intent into participant-centered implementation, while her tentative Mafuyu contact advances through explicit affect feedback, Mafuyu's inquiry, and reciprocal gratitude.
+- [EVENT_0142 — 鍛えてFLY！Muscle Training！](PJSK_EVENT_0142_DEEP_READING.md): complete 23-story mixed envelope; Haruka turns a fan barrier into a governed, tailored, public challenge whose recipient effect survives defeat, while her childhood relation with An becomes consequential present-day reciprocal access.
+
+- [EVENT_0144 — 想いをのせて！Dream Stage](PJSK_EVENT_0144_DEEP_READING.md): complete 29-story mixed envelope; Nene scales person-specific direction into distributed cross-school production leadership, while Rui integrates childhood loneliness as causal knowledge of why Wonderlands×Showtime is his greatest treasure.
+
+- [EVENT_0148 — また、木の葉の色づく頃に](PJSK_EVENT_0148_DEEP_READING.md): complete 24-story mixed-family envelope; Shiho turns chosen rest, enabling planning, received perspective, and contingency into an ordinary-life operative, while the Hinomori sisters establish a bounded reciprocal care route.
+
+- [EVENT_0152 — Special present for YOU！](PJSK_EVENT_0152_DEEP_READING.md): complete 23-story mixed envelope; Rui advances medium-aware direction into participant-authored crisis adaptation, while Kohane becomes a bounded reciprocal creator–recipient collaborator.
+
+- [EVENT_0153 — Unfading wishing](PJSK_EVENT_0153_DEEP_READING.md): complete 27-story mixed envelope; Airi–Akito reciprocal support, Haruka's family-aware idol choice, An's grief-memory integration, and repeated local thought-shard ontology receive distinct durable owners.
+
+- [EVENT_0155 — Show your shine](PJSK_EVENT_0155_DEEP_READING.md): complete 23-story mixed envelope; Saki advances recipient attention into consent-aware, subject-informed visual expression, while practical help and reciprocal creative work establish a durable Saki–Kanade channel.
+
+- [EVENT_0156 — このひと針に想いを込めて](PJSK_EVENT_0156_DEEP_READING.md): complete 23-story mixed envelope; Shizuku turns inherited recipient-specific embroidery into shared teaching and gifts, while established school care with Mafuyu becomes reciprocal creative receipt.
+
+- [EVENT_0158 — 昔日のRead-aloud](PJSK_EVENT_0158_DEEP_READING.md): complete 23-story mixed envelope; Honami turns a personally received picture book into audience-tested participatory reading, while Nene becomes a reciprocal co-performer and chosen ordinary companion.
+
+- [EVENT_0159 — Connect hearts message](PJSK_EVENT_0159_DEEP_READING.md): complete 23-story mixed envelope; Saki, Emu, and Shiho move a company-study exercise into differentiated paid event work, while Saki–Emu school friendship gains beyond-committee reciprocal continuity.
+
+- [EVENT_0160 — You are my HERO!!](PJSK_EVENT_0160_DEEP_READING.md): complete 23-story mixed envelope; Tsukasa reconstructs a retiring owner's original show and adapts it around an independently inspected ride stoppage with audience participation and direct recipient feedback.

@@ -58,3 +58,11 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0129 — Whip the wimp girl!!](PJSK_EVENT_0129_DEEP_READING.md): complete 27-story envelope; An turns hidden comparative fear into reciprocal rivalry and a Street-reengaging public contest.
 
 - [EVENT_0135 — OVER RAD SQUAD!!](PJSK_EVENT_0135_DEEP_READING.md): complete 24-story envelope; RAD BLAST completes the founding goal and converts the Street's inherited legend into a new collective horizon.
+
+- [EVENT_0146 — Rekindle the flame](PJSK_EVENT_0146_DEEP_READING.md): complete 28-story envelope; Akito converts post-goal depletion into renewed world-facing motion through reciprocal support and Slade's challenge, VBS chooses a concrete New York route, and the Street-SEKAI benchmark wall opens without a decoded mechanism.
+
+- [EVENT_0154 — Time to take off！](PJSK_EVENT_0154_DEEP_READING.md): complete 25-story envelope; Toya revises inherited genre categories through direct encounter, Shūji's belated listening becomes usable sibling support, paternal history becomes a bounded future question, and VBS executes its New York route through reciprocal cross-genre practice.
+
+- [EVENT_0163 — Turning Pain into Drive](PJSK_EVENT_0163_DEEP_READING.md): complete 24-story World Link envelope; a shared possible-world split converges through four-person song, followed by actual return, renewed collective commitment and observed Street-tree change. The alternate losses are not current biography and the shard's origin remains conjectural.
+
+- [EVENT_0169 — Aim higher and higher!](PJSK_EVENT_0169_DEEP_READING.md): complete 24-story envelope; the quartet witnesses Ken and Taiga's world-scale performance, defines a shared audience-facing goal and declares a conditional RUSH BEATS route to Lasting ECHO Fes. Kohane's particular street receipt and Embers' reported RADder history remain bounded; no tournament or festival result is achieved.
