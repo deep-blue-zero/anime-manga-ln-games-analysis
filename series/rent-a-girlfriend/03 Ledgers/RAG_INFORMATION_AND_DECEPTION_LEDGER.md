@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V025
-row_count: 150
-state: CURRENT_THROUGH_V025
+inspected_through_volume: V026
+row_count: 157
+state: CURRENT_THROUGH_V026
 ```
 
 ## Records
@@ -191,4 +191,11 @@ state: CURRENT_THROUGH_V025
 | RAG-INF-147 | Chizuru tells Mami that Kazuya's correction timing belongs to him and that Nagomi's smile can be real despite the lie. | She admits her own failure, cites his prior truth attempts and care, and rejects Mami's method. | Chizuru's ethical position becomes explicit rather than inferred from continued participation. | Positive consequence does not make the false account accurate or harmless; RAG-E-V025-012 through RAG-E-V025-014. |
 | RAG-INF-148 | Kuribayashi corrects Ruka's expectation that he approached to blame her. | He says he is not angry, was glad to see her, worried after she left the service, and criticizes his own status performance. | Their former rental history gains a direct, unmediated interpretation. | Ruka's surprise does not establish romance or future contact; RAG-E-V025-011. |
 | RAG-INF-149 | Mami and Chizuru align a financial-dispute cover for Nagomi and exclude Kazuya from the bargain. | Mami makes silence conditional on story alignment and concealment; Chizuru reports the supplied account. | A planned truth intervention becomes coordinated deception and preserves Mami's asymmetrical knowledge. | The truce is conditional and does not guarantee non-disclosure; RAG-E-V025-018. |
-| RAG-INF-150 | Chizuru's Diamond rental profile becomes visible on Nagomi's phone before the mixed group. | The phone falls face-up, Chizuru reacts, Mami smiles, and Kazuya sees the display. | The central service identity crosses from compartmented knowledge into direct public evidence. | The exact opening/drop mechanism and each observer's settled understanding remain beyond V025; RAG-E-V025-021, RAG-E-V025-022. |
+| RAG-INF-150 | Chizuru's Diamond rental profile becomes visible on Ruka's phone before the mixed group. | The phone falls face-up, Chizuru reacts, Mami smiles, and Kazuya sees the display; V026 identifies Ruka as owner and records Mami saying that she dropped it. | The central service identity crosses from compartmented knowledge into direct public evidence. | The exact pre-drop screen preparation remains unknown; RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001. |
+| RAG-INF-151 | The mixed audience rapidly connects the profile to rental work, prior payment, and the public girlfriend claim. | Mami identifies the Diamond page, Kazuo raises the payment he witnessed, and Nagomi asks Kazuya directly whether Chizuru is a rental rather than real girlfriend. | Distributed fragments become one answerable family proposition. | A profile and payment establish service facts, not the complete history or present status; RAG-E-V026-002, RAG-E-V026-003. |
+| RAG-INF-152 | Mami's whistleblower account combines material truths with selective omissions and interested inference. | She invokes money, the inherited ring, heir expectations, Sayuri's death, and alleged ignored warnings while hiding her drop role and prior bargain. | The gathered audience receives a coherent accusation whose framing source controls context. | The represented facts require separate evaluation; claimed reluctance does not verify motive or neutrality; RAG-E-V026-001, RAG-E-V026-004. |
+| RAG-INF-153 | Kazuya publicly supplies one sincere proposition inside a fabricated relationship timeline. | He truthfully states that he loves Chizuru while falsely claiming that they became a genuine couple before Sayuri died and might later separate. | The audience receives affective truth and status deception in the same speech. | Sincerity about his feeling cannot validate mutual dating or Chizuru's agreement; RAG-E-V026-007, RAG-E-V026-008. |
+| RAG-INF-154 | Ruka recognizes Mami's action as deliberate and tells the audience to accept the principals' own stated classification. | Her memories, apology, and intervention reveal both continued attachment and rejection of the exposure method. | A previously adversarial informed observer becomes a temporary protective witness. | She does not disclose every fact, withdraw her claim, or correct the fabricated sex story; RAG-E-V026-009, RAG-E-V026-010. |
+| RAG-INF-155 | Chizuru publicly corrects her real name and rental role while making a false current-status claim. | She identifies herself as Ichinose Chizuru, says Kazuya began as a customer and became important, and calls herself his genuine girlfriend. | Significant identity and valuation truth are coupled to emergency continuation of the couple cover. | The later narrator identifies actual dating as the remaining lie; RAG-E-V026-014, RAG-E-V026-016. |
+| RAG-INF-156 | The room 8504 account reveals almost the entire history and preserves exactly one central deception. | The narrator states that only the lie that the pair are really dating remains. | The family information state changes from broad false biography to near-complete knowledge with a bounded status error. | The manga does not enumerate every sentence of the two-hour explanation; RAG-E-V026-016. |
+| RAG-INF-157 | Nagomi accepts and apologizes under the near-complete account rather than the full truth. | She hears the explanation after the public crisis and restores immediate family access. | Her judgment is materially better informed than before exposure but still depends on the false mutual-dating premise. | Acceptance cannot be treated as a fully informed endorsement of either prior deception or present status; RAG-E-V026-016. |

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V025
-row_count: 141
-state: CURRENT_THROUGH_V025
+inspected_through_volume: V026
+row_count: 148
+state: CURRENT_THROUGH_V026
 ```
 
 ## Records
@@ -182,4 +182,11 @@ state: CURRENT_THROUGH_V025
 | RAG-FRM-138 | Chizuru's demand for retraction and repeated full-body bows reverse the earlier image of being led. | She moves from following Mami to physically pulling free and holding a refusal posture. | Repetition gives a low-power request sustained force without erasing her admitted responsibility. | Bowing does not equal agreement to Mami's method or resolution of the lie; RAG-E-V025-012 through RAG-E-V025-014. |
 | RAG-FRM-139 | A crossed-out series title and extended explicit jealousy montage externalize Kazuya's belief that the rental-girlfriend relation has ended. | Imagined sexual scenes with other men intercut with his pool breakdown after the presumed rejection. | Focalization makes catastrophic interpretation visually overwhelming while preserving its unreal status. | The imagined scenes are not evidence of Chizuru's conduct or preference; RAG-E-V025-015, RAG-E-V025-016. |
 | RAG-FRM-140 | Friendly pool tableaux and Chizuru-Mami surface warmth precede a narrated “end” forecast. | Apparent ordinary closure gives Kazuya confidence immediately before the information system fails. | Calm group form heightens the contrast between managed surface and latent disclosure. | Kazuya lacks the truce terms and cannot authenticate the apparent safety; RAG-E-V025-018 through RAG-E-V025-020. |
-| RAG-FRM-141 | A dropped phone, reaction close-ups, Mami's small smile, and a full-page Diamond profile create the exposure cliffhanger. | The portable screen turns compartmented service identity into group-visible evidence without explanatory dialogue. | Object fall and page-scale reveal shift authority from competing speech to an apparently direct record. | The exact setup and every observer's interpretation remain withheld; RAG-E-V025-021, RAG-E-V025-022. |
+| RAG-FRM-141 | Ruka's fallen phone, reaction close-ups, Mami's small smile, and a full-page Diamond profile create the exposure cliffhanger. | The portable screen turns compartmented service identity into group-visible evidence without explanatory dialogue; V026 identifies Ruka as owner and Mami as the person who says she dropped it. | Object fall and page-scale reveal shift authority from competing speech to an apparently direct record. | The exact pre-drop setup remains withheld; RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001. |
+| RAG-FRM-142 | Rapid close-ups, attempted screen-cover comedy, and expanding speech bubbles convert the static profile reveal into a controlled public accusation. | Ruka's joke-image deflection fails as Mami names the service and links separate family suspicions. | Alternation between faces, screen, and declarative speech shows evidence acquiring meaning through an interested narrator. | Visual confidence does not make Mami's framing complete or neutral; RAG-E-V026-001 through RAG-E-V026-004. |
+| RAG-FRM-143 | Kazuya's confession repeats the series' interrupted declaration form but embeds it inside a protective false timeline. | A real first-person love statement arrives only after he decides that ordinary truth cannot save Chizuru. | Close focalization distinguishes sincere affect from fabricated mutual status in the same speech event. | Emotional intensity cannot merge those propositions into one truth; RAG-E-V026-007, RAG-E-V026-008. |
+| RAG-FRM-144 | The first kiss unfolds through approach, face-cupping, contact, reaction panels, and prolonged page turns. | Chizuru replaces Kazuya's surrendered speech with bodily action before the gathered audience. | Duration and tearful/stunned close-ups make actual contact and cost legible while retaining coercive context. | Page length does not establish freely negotiated mutual status or general consent; RAG-E-V026-011 through RAG-E-V026-013. |
+| RAG-FRM-145 | Real-name disclosure and customer-to-important-person narration interrupt the kiss-proof spectacle with identity correction. | Chizuru strips away the Mizuhara/service compartment and then supplies a public girlfriend label. | Speech moves from verifiable identity and history toward a status claim the later narrator marks as false. | Formal climax cannot override the explicit sole-lie classification; RAG-E-V026-014, RAG-E-V026-016. |
+| RAG-FRM-146 | Mami's demand that the kiss be more visible produces a repeated hand-taking, repositioning, and second kiss. | The romantic image becomes an evidentiary test performed for observers rather than a private exchange. | Repetition confirms Chizuru's deliberate action and the audience's coercive control at the same time. | A second act under the same pressure does not create a broader bodily or relational agreement; RAG-E-V026-015. |
+| RAG-FRM-147 | A compressed room montage and explicit narrator sentence replace spectacle with account-level classification. | Roughly two hours of explanation remove nearly every prior concealment while one dating lie remains. | Summary form makes the informational result precise even though individual disclosures are not dramatized. | Compression cannot establish unshown private debrief, ring return, or complete truth; RAG-E-V026-016. |
+| RAG-FRM-148 | The author afterword precedes nine pages of a rejected alternate Satisfaction 220 route. | Creator commentary explicitly separates discarded construction from the published continuity just inspected. | Paratext and alternate pages provide process evidence without entering narrative sequence or character state. | Visual completeness does not make the rejected version canonical; RAG-E-V026-017. |

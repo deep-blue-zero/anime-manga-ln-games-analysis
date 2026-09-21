@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V025
-row_count: 170
-state: CURRENT_THROUGH_V025
+inspected_through_volume: V026
+row_count: 178
+state: CURRENT_THROUGH_V026
 ```
 
 ## Records
@@ -211,4 +211,12 @@ state: CURRENT_THROUGH_V025
 | RAG-AGY-167 | Kuribayashi | Confront Ruka as an angry former client or disclose his own shame and concern. | Says that he was glad to see her, worried after she left the service, and is ashamed of his status performance rather than angry at her. | Reframes their prior encounter through vulnerable direct speech. | The exchange creates no romance, broad absolution, or continuing access; RAG-E-V025-011. |
 | RAG-AGY-168 | Kazuya | Verify why Chizuru fled or treat the event as rejection and withdraw. | Categorizes the apology and departure as rejection, imagines rivals, breaks down, and later cancels the chapel topic before she explains. | Protects against a feared answer at the cost of new misunderstanding. | Chizuru never states rejection, and he lacks the Mami context; RAG-E-V025-015 through RAG-E-V025-017. |
 | RAG-AGY-169 | Chizuru and Mami | Proceed to immediate disclosure, separate, or preserve secrecy through a conditional bargain. | Mami agrees to defer if Chizuru supplies an aligned financial-dispute cover and hides the exchange from Kazuya; Chizuru complies. | Prevents the planned room confrontation while coordinating another layer of concealment. | The bargain is asymmetric, conditional, and unstable; RAG-E-V025-018. |
-| RAG-AGY-170 | Mami and the gathered group | Preserve the apparent truce or allow the rental identity to enter the mixed audience. | Nagomi's dropped phone displays Chizuru's profile while Mami smiles and the principals react. | The profile becomes direct visible evidence outside the private intervention route. | Mami's orchestration is strongly implied but the precise phone action is not shown, and no response completes; RAG-E-V025-021, RAG-E-V025-022. |
+| RAG-AGY-170 | Mami and the gathered group | Preserve the apparent truce or allow the rental identity to enter the mixed audience. | Ruka's phone falls with Chizuru's profile visible while Mami smiles and the principals react. | The profile becomes direct visible evidence outside the private intervention route. | V026 identifies the device as Ruka's and records Mami saying that she dropped it; the exact pre-drop screen preparation remains unshown; RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001. |
+| RAG-AGY-171 | Mami | Acknowledge the drop and permit open explanation, or control the audience's interpretation. | Presents herself as a reluctant truth teller, combines the rental identity with money, ring, heir, and Sayuri claims, and later demands two visible kisses as proof. | Forces a public accountability event and makes bodily verification the condition of belief. | She omits her drop responsibility and conditional bargain from the accusation; concern does not authorize coercive proof; RAG-E-V026-001 through RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-015. |
+| RAG-AGY-172 | Kazuya | Give the complete history, remain silent, or protect Chizuru through a new cover. | Accepts blame, falsely claims that the relationship became genuine before Sayuri died, proposes a later-breakup story, and publicly says that he loves Chizuru. | Shields Chizuru from Mami's reduction and makes his feeling explicit at the cost of renewing the central status deception. | Sincere love does not make the claimed mutual timeline true or create Chizuru's agreement; RAG-E-V026-007, RAG-E-V026-008. |
+| RAG-AGY-173 | Ruka | Benefit from the exposure, remain silent, or resist Mami's method at personal cost. | Attempts an image-cover explanation, recognizes deliberate orchestration, apologizes to Kazuya, and asks the group to accept the pair's stated relation. | Protects the principals from the immediate proof regime despite her continuing attachment. | She neither withdraws her own claim nor corrects her earlier sex fabrication; RAG-E-V026-001, RAG-E-V026-009, RAG-E-V026-010. |
+| RAG-AGY-174 | Chizuru | Leave Kazuya's failed bluff unanswered, deny involvement, or act before the gathered audience. | Initiates a prolonged kiss, gives her real name and rental role, describes Kazuya as personally important, makes a public girlfriend claim, and initiates a second kiss when Mami demands repetition. | Protects Kazuya and supplies identity correction and visible commitment at high public and bodily cost. | Coercive audience conditions and the later sole-lie narration prevent classifying the acts as a private mutual dating agreement; RAG-E-V026-012 through RAG-E-V026-015. |
+| RAG-AGY-175 | Nagomi | Reject Chizuru immediately, defer to the crowd, or request and hear an account. | Stops the crowd, asks Kazuya directly, hears the later room explanation, accepts it, and apologizes to Chizuru. | Preserves family access after substantial truth correction. | Acceptance rests on the remaining false claim that the principals are actually dating; RAG-E-V026-003, RAG-E-V026-006, RAG-E-V026-016. |
+| RAG-AGY-176 | Kibe | Wait for explanation, challenge the evidence verbally, or use force and public proof. | Punches Kazuya, invokes the ring and their apparent closeness, and later enforces Mami's kiss demand. | Accelerates surrender and public demonstration while pursuing his trust standard. | Violence and coerced proof establish neither truth nor consent; Kibe lacks the complete history; RAG-E-V026-006, RAG-E-V026-011. |
+| RAG-AGY-177 | Chizuru and Kazuya | Disclose the complete relation history, preserve the old cover, or narrow the deception. | Explain almost everything in room 8504 while retaining only the claim that they are genuinely dating. | Replace a broad false history with one explicit residual status lie and regain immediate family acceptance. | Near-complete disclosure is still not full correction, and no private romantic agreement is observed; RAG-E-V026-016. |
+| RAG-AGY-178 | Kazuo | Ask about the witnessed payment, wait for explanation, or respond physically. | Raises the money exchange during exposure and later strikes Kazuya after the room account. | Makes paternal suspicion and anger explicit. | Physical violence is not an evidentiary or restorative act, and the accepted account remains partly false; RAG-E-V026-002, RAG-E-V026-016. |

@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; character evidence inspected through V025, including negative-evidence review for V011-V019."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; character evidence inspected through V026, including negative-evidence review for V011-V019."
 ---
 
 # Mami Nanami evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 七海麻美
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V025
+inspected_through_volume: V026
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -72,7 +72,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MAM-E032 | MAM-S010 | RAG-E-V025-007, RAG-E-V025-008 | Controlled childhood, arranged future, and Tarou relationship | Recalls paternal removal of valued objects, restricted schooling, an expected marriage, and a private relationship that became an imagined route to freedom before forced separation. | Supplies direct history for autonomy threat and distrust of romantic promises. | The concentrated retrospective does not independently verify every causal detail or determine all present motives. | RAG-MAM-R004, RAG-MAM-R010 |
 | RAG-MAM-E033 | MAM-S010 | RAG-E-V025-009 | Anti-romance conclusion and destructive impulse | Describes an inner child or future dying, calls herself unable to resist social structure, dismisses romance labels, and says she wants to destroy couples she sees performing love. | Makes a previously inferred destructive orientation explicit in her represented self-account. | The “baby” is metaphorical in context; history neither excuses coercion nor proves that every caring claim is false. | RAG-MAM-R004, RAG-MAM-R006, RAG-MAM-R010 |
 | RAG-MAM-E034 | MAM-S010 | RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-018 | Resistance, conditional retreat, and story alignment | Receives Chizuru's defense and refusal, agrees to forget the issue only if Chizuru aligns a financial-dispute cover and hides the exchange from Kazuya. | Adapts after direct resistance while preserving asymmetric information and future leverage. | Conditional retreat is not durable de-escalation or proof of protection. | RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R008, RAG-MAM-R009, RAG-MAM-R010 |
-| RAG-MAM-E035 | MAM-S010 | RAG-E-V025-020 through RAG-E-V025-022 | Friendly surface and exposure-linked smile | Reassures Chizuru before departure and smiles when Nagomi's fallen phone displays the Diamond profile. | Places her at the exposure with affect strongly consistent with orchestration after the conditional truce. | V025 does not directly show the precise phone action, so mechanical responsibility remains an inference. | RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R008, RAG-MAM-R009, RAG-MAM-R010 |
+| RAG-MAM-E035 | MAM-S010 | RAG-E-V025-020 through RAG-E-V025-022, RAG-E-V026-001 | Friendly surface and exposure-linked smile | Reassures Chizuru before departure and smiles when Ruka's fallen phone displays the Diamond profile. | Places her at the exposure with affect strongly consistent with orchestration after the conditional truce. | V026 records Mami saying that she dropped Ruka's phone; exact pre-drop screen preparation remains unshown. | RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R008, RAG-MAM-R009, RAG-MAM-R010 |
+| RAG-MAM-E036 | MAM-S011 | RAG-E-V026-001 through RAG-E-V026-003 | Acknowledged drop and control of immediate interpretation | Says that she dropped Ruka's phone, defeats Ruka's joke-image cover, then kneels and apologizes to both principals while saying that she can no longer hide the situation. | Converts her direct role in the device event into a performance of reluctant disclosure before Nagomi's status question. | She does not disclose her drop role or prior bargain in the apology, and the exact pre-drop screen preparation remains unstated. | RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R011 |
+| RAG-MAM-E037 | MAM-S011 | RAG-E-V026-004 | Whistleblower accusation using true facts and strategic omissions | Presents herself as reluctant, invokes money, the ring, heir expectations, and Sayuri's death, and alleges that Chizuru ignored warnings. | Builds a coherent family accusation from prior research and access. | She omits her drop responsibility and conditional bargain, so the account is interested rather than complete. | RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R009, RAG-MAM-R010, RAG-MAM-R011 |
+| RAG-MAM-E038 | MAM-S011 | RAG-E-V026-009, RAG-E-V026-015 | Repeated bodily proof demand after verbal accounts | Demands a kiss to validate Kazuya's claimed relation, then disputes the first kiss's visibility and demands repetition. | Escalates from factual accusation to control over what embodied evidence the audience must accept. | Coercive verification supplies no neutral authority, and Chizuru's compliance does not validate Mami's framing or establish private status. | RAG-MAM-R003, RAG-MAM-R008, RAG-MAM-R010, RAG-MAM-R011 |
 
 ## State-change summary
 
@@ -85,7 +88,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MAM-S007 — embedded trip observer with calibrated disclosure: combines prior resort lodging and the Nagomi route to join the family group, carries project knowledge and an ending objective into the mixed audience, and answers Kuribayashi without revealing her full position.
 - MAM-S008 — parallel target tester with controlled disclosure leverage: probes Ruka's attachment and willingness to involve Nagomi, verifies Chizuru's active profile, promises warning rather than silence, elicits Kazuya's cover admission and confession-first correction plan, and preserves a caring register while her endpoint remains unknown.
 - MAM-S009 — contradiction judge under family-initiated contact: treats Chizuru's souvenir-ring participation as inconsistent with her disclaimers, privately frames withheld action as help while anticipating villain status, and receives Nagomi's direct request to talk before any public disclosure completes.
-- MAM-S010 — coercive rescuer with disclosed anti-romance history and exposure-linked affect: turns family access into a room-and-ring plan, reveals a controlled childhood and failed Tarou route behind her stated wish to destroy performing couples, conditionally retreats after Chizuru's refusal, preserves story-alignment leverage, and smiles at the public profile display without the precise mechanism being shown.
+- MAM-S010 — coercive rescuer with disclosed anti-romance history and exposure-linked affect: turns family access into a room-and-ring plan, reveals a controlled childhood and failed Tarou route behind her stated wish to destroy performing couples, conditionally retreats after Chizuru's refusal, preserves story-alignment leverage, and smiles at the public profile display before V026 clarifies the phone owner and her drop acknowledgment.
+- MAM-S011 — staged whistleblower and coercive verifier: acknowledges dropping Ruka's phone, controls the profile's public interpretation through selective accusation, conceals her own bargain and drop role from that framing, and twice demands kissing as proof before the pair preserve family access.
 
 V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Mami conduct, V020 reactivates the route, V021 makes its use direct, V022 converts family and venue access into trip inclusion, V023 uses that access for parallel probes, V024 adds explicit contradiction judgment and family-initiated contact, and V025 supplies both formative history and a coercive disclosure attempt without retroactively filling the earlier gaps. Absence from the page is not evidence of inactivity or a stable plan.
 
@@ -98,13 +102,14 @@ V004 supplies only non-resumption, V007-V008 and V011-V019 supply no material Ma
 - V023 shows a repeatable parallel-probe form: she adapts concern, trust, service-rule, and family-disclosure language to different targets while collecting their attachment, belief, and intended-action information (RAG-E-V023-004, RAG-E-V023-006, RAG-E-V023-008 through RAG-E-V023-016).
 - V024 adds a private self-framing in which silence is help and likely blame is unfair, while the souvenir-ring scene supplies a new contradiction in her model and Nagomi initiates the next contact (RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019).
 - V025 connects represented autonomy loss and romantic disillusionment to an explicit desire to destroy performing couples, then shows rescue language become control over Chizuru's movement, evidence, and disclosure timing (RAG-E-V025-005 through RAG-E-V025-010).
+- V026 makes that control audience-facing: Mami acknowledges the phone drop, performs reluctance while omitting her own role and bargain, and escalates to repeated bodily proof demands when speech does not secure the desired judgment (RAG-E-V026-001, RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-015).
 - Ordinary-life coverage remains narrow. University peer contact, café-linked social access, smartphone-service planning, and online research are shown, but sustained work, home, family, friendship, and low-stakes routine are not.
 
 ## Gaps and negative evidence
 
-- No admitted evidence resolves why Mami ended the original relationship, why she later intervenes, or whether she wants reunion, control, truth, protection, punishment, work access, or some mixture.
+- No admitted evidence resolves why Mami ended the original relationship or reduces her later intervention to reunion, control, truth, protection, punishment, work access, or any single motive.
 - Her self-report about avoiding love is evidence of a represented self-account, not a diagnosis or complete causal explanation.
-- Research and selective presentation do not prove omniscience. She receives false and partial claims and does not know Kazuya's V020 unfinished confession.
+- Research and selective presentation do not prove omniscience. V026 confirms her role in dropping Ruka's phone but not the exact pre-drop screen preparation or a complete knowledge state.
 - The V020 business proposal has enough operational detail to be plausible, but its independent viability and intended use are untested.
 - The long V011-V019 gap blocks a continuous-planning claim. Do not invent hidden actions to bridge it.
 - Manga evidence supports written speech and drawn presentation only; performed voice is outside scope.

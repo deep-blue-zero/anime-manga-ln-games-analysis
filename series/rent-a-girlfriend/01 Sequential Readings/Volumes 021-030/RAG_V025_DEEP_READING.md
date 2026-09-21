@@ -4,13 +4,13 @@ artifact_id: RAG_V025_DEEP_READING
 artifact_type: deep_reading
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese collected-volume EPUB V025, witness RAG-JP-EPUB-V025; all 195 spine images inspected in order."
+source_boundary: "Japanese collected-volume EPUB V025, witness RAG-JP-EPUB-V025; all 195 spine images inspected in order; endpoint phone attribution corrected by the direct V026 continuation."
 ---
 
 # Volume 025 deep reading
@@ -66,6 +66,10 @@ The entering state remains concentrated at the Hawaiians trip climax. Kazuya has
 
 The main narrative ends at image `0192.jpg`. The short author afterword, legal notice, and colophon do not alter main-continuity claims.
 
+## Retrospective endpoint correction
+
+The original V025 close misidentified the fallen device as Nagomi's phone and described Nagomi as dropping it. V026 `0013.jpg` directly identifies the device as Ruka's phone, and Mami says that she dropped it. Reinspection of V025 `0183.jpg` through `0190.jpg` is consistent with that continuation: Nagomi reacts as a nearby witness, while the V025-only pages do not safely establish ownership or mechanical responsibility. The corrected endpoint account below preserves what V025 directly shows and routes the settled attribution to RAG-E-V026-001.
+
 ## Sequential account
 
 ### The chapel attempt becomes an interruption rather than a completed confession
@@ -108,7 +112,7 @@ When Chizuru arrives, Kazuya withdraws the chapel subject before she can explain
 
 The group resumes pool activity and prepares to leave. Chizuru and Mami present a friendly surface, and Kazuya takes Chizuru's calm appearance as evidence that the situation is safe. He reflects on the eighteen months since meeting her and describes the trip as a final rental-girlfriend memory. The narrative supplies an explicit November 24 afternoon anchor: a caption shows 15:37, while the exposed phone later shows 15:35, so the endpoint is best treated as approximately 15:35-15:37 rather than assigned false minute precision.
 
-As the group departs, Nagomi drops her phone. Kibe, Kuribayashi, Ruka, Chizuru, Kazuya, and others are positioned around the visible screen. Chizuru reacts in shock, and Mami gives a small smile. A full-page image then shows Chizuru's Diamond rental-girlfriend profile on Nagomi's phone. The smile and prior intervention make orchestration a strong inference, but V025 does not directly show the precise action by which the profile was opened or the phone was dropped. The volume ends before any observer explains, denies, or processes the display.
+As the group departs, Ruka's phone falls before the mixed group with Chizuru's Diamond rental-girlfriend profile visible. Kibe, Kuribayashi, Ruka, Chizuru, Kazuya, Nagomi, and others are positioned around the screen. Chizuru reacts in shock, and Mami gives a small smile. V025 does not by itself safely establish ownership, the exact drop action, or the prior screen preparation; the direct V026 continuation identifies the phone as Ruka's and has Mami say that she dropped it. The volume ends before any observer explains, denies, or processes the display.
 
 ## Diagnostic evidence records
 
@@ -134,7 +138,7 @@ As the group departs, Nagomi drops her phone. Kibe, Kuribayashi, Ruka, Chizuru, 
 | RAG-E-V025-018 | 0163-0170 | In flashback, Mami agrees to forget the matter if Chizuru aligns a cover story and hides the exchange from Kazuya; Chizuru later reports that she told Nagomi of a resolved financial dispute. | Establishes a conditional truce and coordinated deception across Mami and Chizuru. | Mami's compliance is conditional, and the cover leaves Nagomi and Kazuya uninformed. |
 | RAG-E-V025-019 | 0171-0172 | The narrative anchors the day to November 24 around 15:37, notes eighteen months since Kazuya met Chizuru, and forecasts the end of his lie-filled rental-girlfriend life. | Supplies calendar, interval, and explicit endpoint framing. | The forecast is prospective narration, not yet a completed relational outcome. |
 | RAG-E-V025-020 | 0173-0182 | The group resumes pool activity and prepares to leave; Chizuru and Mami present a friendly surface, and Kazuya interprets the trip as a final rental-girlfriend memory. | Shows apparent stabilization immediately before exposure. | Kazuya does not know the conditional truce and cannot validate the surface as safety. |
-| RAG-E-V025-021 | 0183-0190 | Nagomi drops her phone before the gathered group; Chizuru reacts in shock, Mami smiles, and the screen shows Chizuru's Diamond rental-girlfriend profile at 15:35. | Produces the first direct mixed-audience display of the service identity and a strong orchestration inference. | V025 does not show the precise opening/drop mechanism or complete each observer's comprehension. |
+| RAG-E-V025-021 | 0183-0190 | A phone falls before the gathered group; Chizuru reacts in shock, Mami smiles, and the screen shows Chizuru's Diamond rental-girlfriend profile at 15:35. The direct V026 continuation identifies it as Ruka's phone and has Mami say that she dropped it. | Produces the first direct mixed-audience display of the service identity; RAG-E-V026-001 supplies the corrected ownership and drop attribution. | V025 alone does not safely establish ownership, the prior screen preparation, or each observer's comprehension. |
 | RAG-E-V025-022 | 0191-0192 | Kazuya sees the screen and reacts in stunned confusion before the volume cuts. | Fixes the cliffhanger at immediate recognition rather than explanation or repair. | No denial, admission, family response, or status consequence is admitted within V025. |
 
 ## Prediction adjudication
@@ -142,7 +146,7 @@ As the group departs, Nagomi drops her phone. Kibe, Kuribayashi, Ruka, Chizuru, 
 | Prediction ID | Adjudication | V025 basis | Limit |
 |---|---|---|---|
 | RAG-PRED-093 | SUPPORTED | Kazuya continues the chapel attempt, but Mami's arrival message prompts Chizuru to apologize and run before a proposition or answer; RAG-E-V025-003, RAG-E-V025-004. | The consequence is interruption, flight, and explicit deferral rather than a completed confession. |
-| RAG-PRED-094 | SUPPORTED | Mami creates an immediate room-and-ring disclosure plan, Chizuru refuses and obtains a tactical delay, and the volume ends with the rental profile exposed on Nagomi's phone; RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021. | Mami's smile strongly implies orchestration, but V025 does not directly show the exact phone mechanism or the resulting family conversation. |
+| RAG-PRED-094 | SUPPORTED | Mami creates an immediate room-and-ring disclosure plan, Chizuru refuses and obtains a tactical delay, and the volume ends with the rental profile exposed on a fallen phone before Nagomi and the mixed group; RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021. | V025 does not safely establish ownership or the exact mechanics; RAG-E-V026-001 later identifies Ruka's phone and Mami's drop. |
 | RAG-PRED-095 | SUPPORTED | Kuribayashi tells Ruka that he is glad to see her, worried after she left the service, and ashamed of his own status display rather than angry at her; RAG-E-V025-011. | The clarification does not establish romance, reconciliation, or continuing access. |
 | RAG-PRED-096 | SUPPORTED | Mami makes the inherited ring part of the planned disclosure, Chizuru refuses the method and supplies a cover story, and the false family account reaches profile exposure without a completed ring return; RAG-E-V025-005, RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021. | The ring remains unreturned and is not itself displayed to the group at the cliffhanger. |
 
@@ -150,4 +154,4 @@ As the group departs, Nagomi drops her phone. Kibe, Kuribayashi, Ruka, Chizuru, 
 
 Kazuya's chapel attempt is interrupted before a proposition, and his incomplete information turns Chizuru's flight into presumed rejection, acute jealousy, and withdrawal of the subject. He nevertheless renews his promise to protect her. Chizuru has directly refused Mami's coerced disclosure method, defended Kazuya's agency and the reality of Nagomi's smile, accepted responsibility for the lie, and then entered a conditional secrecy bargain that hides the exchange from Kazuya. Mami's childhood and Tarou history supply an explicit represented basis for romantic hostility, while her present intervention advances from claimed rescue to coercion and an exposure strongly implied, but not mechanically proven, to be orchestrated. Kuribayashi and Ruka complete a bounded clarification of their former rental relation. The inherited ring remains unreturned.
 
-At the endpoint, Nagomi's fallen phone visibly displays Chizuru's Diamond rental-girlfriend profile to the mixed family and peer group. Chizuru and Kazuya react, Mami smiles, and no explanation or audience response completes. The profile display, resulting information cascade, principal response, Mami's responsibility and framing, family judgment, ring status, and workable Ruka separation form the V026 prediction basis; no V026 narrative image was inspected while closing V025.
+At the endpoint, a fallen phone visibly displays Chizuru's Diamond rental-girlfriend profile to the mixed family and peer group. Chizuru and Kazuya react, Mami smiles, and no explanation or audience response completes. The direct V026 continuation later corrects the device as Ruka's phone and attributes the drop to Mami. The profile display, resulting information cascade, principal response, Mami's responsibility and framing, family judgment, ring status, and workable Ruka separation formed the V026 prediction basis; no V026 narrative image was inspected during the original V025 close.

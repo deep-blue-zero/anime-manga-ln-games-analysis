@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V025
-row_count: 141
-state: CURRENT_THROUGH_V025
+inspected_through_volume: V026
+row_count: 148
+state: CURRENT_THROUGH_V026
 ```
 ```
 
@@ -183,4 +183,11 @@ state: CURRENT_THROUGH_V025
 | RAG-REL-138 | Mami ↔ Tarou | Retrospective private adolescent relation under paternal control | Mutual messages, dates, promises, and imagined independence end after Mami's father orders separation and Tarou sends a breakup message. | The relation becomes part of Mami's represented distrust of romantic labels and personal power. | Tarou's independent motive and later state are unverified, and the history does not determine every present action. | RAG-E-V025-007 through RAG-E-V025-009 |
 | RAG-REL-139 | Kuribayashi → Ruka | Former client approaching a provider who expects grievance | Says that seeing her made him happy, that he worried after she left the service, and that he blames his own status performance rather than her. | Direct clarification reduces the specific assumed grievance and humanizes the former service relation. | No romance, renewed booking, friendship, or durable access is established. | RAG-E-V025-011 |
 | RAG-REL-140 | Kazuya ↔ Chizuru | Misread rejection followed by restored operational care | Kazuya cancels the chapel topic and promises protection; Chizuru accepts and repeats his wish that Nagomi keep dreaming while hiding the Mami bargain. | Mutual care survives the failed attempt, but information asymmetry replaces romantic clarification. | The protection promise is not an answer, and concealment prevents a fully informed shared plan. | RAG-E-V025-015 through RAG-E-V025-018 |
-| RAG-REL-141 | Nagomi / mixed group → Chizuru | Chosen-family and peer audience confronted with direct rental-profile evidence | Nagomi's dropped phone displays Chizuru's Diamond profile as Chizuru and Kazuya react and Mami smiles. | The apparent-girlfriend relation enters an exposure state before several differently informed observers. | V025 supplies no completed belief revision, blame, acceptance, or family response. | RAG-E-V025-021, RAG-E-V025-022 |
+| RAG-REL-141 | Nagomi / mixed group → Chizuru | Chosen-family and peer audience confronted with direct rental-profile evidence | Ruka's phone displays Chizuru's Diamond profile as Chizuru and Kazuya react and Mami smiles; V026 records Mami saying that she dropped it. | The apparent-girlfriend relation enters an exposure state before several differently informed observers. | V025 supplies no completed belief revision; V026 corrects the phone ownership and drop attribution. | RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001 |
+| RAG-REL-142 | Mami → Chizuru and Kazuya | Embedded intervener with a conditional truce and information leverage | Frames herself as a reluctant whistleblower, mobilizes money, ring, family, and bereavement facts, and twice demands kisses as proof. | Intervention becomes public accusation and control over acceptable evidence. | The pair survive the immediate test, while Mami's omissions and coercion prevent neutral-witness status. | RAG-E-V026-001, RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-015 |
+| RAG-REL-143 | Kazuya → Chizuru | Protector whose direct confession has repeatedly failed to complete | Publicly accepts blame, fabricates an earlier mutual timeline, and says that he loves Chizuru. | His romantic feeling becomes explicit to Chizuru and the group, but it is bundled with renewed status deception. | Public declaration creates no mutual dating agreement or right to an answer. | RAG-E-V026-007, RAG-E-V026-008 |
+| RAG-REL-144 | Chizuru → Kazuya | Operational ally facing his surrendered cover and a coercive proof demand | Initiates two kisses, gives her real identity and role, says he became important, and publicly claims genuine-girlfriend status. | Her direction gains repeated bodily initiative, personal valuation, and public protection. | The narrator identifies genuine dating as the sole remaining lie, and no private romantic classification completes. | RAG-E-V026-012 through RAG-E-V026-016 |
+| RAG-REL-145 | Ruka → Kazuya and Chizuru | Disputed claimant positioned to benefit from their exposure | Apologizes to Kazuya and asks the group to accept the principals' stated relation after recognizing Mami's deliberate act. | Rivalry temporarily yields to self-costly protection of their agency. | Ruka retains her attachment and claim, and the volume ends on her hard stare. | RAG-E-V026-009, RAG-E-V026-010, RAG-E-V026-016 |
+| RAG-REL-146 | Nagomi → Chizuru and Kazuya | Family gatekeeper directly confronting the service identity | Requests an explanation, hears the near-complete room account, accepts it, and apologizes to Chizuru. | Immediate family access and chosen-family treatment survive substantial correction. | Her acceptance still rests on the false claim that the pair are actually dating. | RAG-E-V026-003, RAG-E-V026-006, RAG-E-V026-016 |
+| RAG-REL-147 | Kibe → Kazuya | Friend whose trust model collides with evidence of long deception | Punches Kazuya and later enforces the kiss-as-proof demand. | Friendship becomes punitive and coercive during the truth crisis. | Violence and bodily proof do not establish truth, consent, or durable repair. | RAG-E-V026-006, RAG-E-V026-011 |
+| RAG-REL-148 | Kazuo → Kazuya | Father recalling a suspicious payment and hearing a near-complete account | Raises the payment before the group and later strikes Kazuya. | Paternal doubt and anger become explicit physical consequences of exposure. | No separate repaired father-son state is established, and the accepted account retains one lie. | RAG-E-V026-002, RAG-E-V026-016 |

@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V025; character evidence inspected through V025, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V026; character evidence inspected through V026, with V012-V013 and V019 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V025
+inspected_through_volume: V026
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -103,7 +103,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E063 | RUK-S020 | RAG-E-V024-010 through RAG-E-V024-013 | Ring, emotional-classification, and repeated fabrication pressure | Follows Chizuru, demands ring return and truth, asks favorite person versus customer, repeats the false sex claim, and twice diverts Nagomi with a birthday-gift story. | Combines moral argument with continued tactical concealment and fabricated evidence. | Covering locally protects the group but does not make her sexual claim true or create reciprocal status. | RAG-RUK-R002, RAG-RUK-R010, RAG-RUK-R011, RAG-RUK-R012, RAG-RUK-R013 |
 | RAG-RUK-E064 | RUK-S020 | RAG-E-V024-018 | Direct approach from former client | Is sought out by Kuribayashi, who says that he came to see her. | Her former rental relation becomes an immediate direct-contact context. | Ruka's response and the purpose of the meeting are withheld. | RAG-RUK-R002, RAG-RUK-R013 |
 | RAG-RUK-E065 | RUK-S021 | RAG-E-V025-002, RAG-E-V025-011 | Former-client clarification and revised grievance expectation | Anticipates blame, but hears Kuribayashi say that seeing her made him happy, that he worried after she left the service, and that he criticizes his own status performance rather than her. | Receives direct evidence that the prior client's current approach is not an anger or repayment demand. | Surprise and relief do not establish romance, friendship, or continuing access. | RAG-RUK-R002, RAG-RUK-R013 |
-| RAG-RUK-E066 | RUK-S021 | RAG-E-V025-015, RAG-E-V025-016, RAG-E-V025-021 | Affection during Kazuya's distress and presence at exposure | Calls Kazuya to the pool, expresses affection, and later stands in the group when Chizuru's profile appears on Nagomi's phone. | Her pursuit and her prior knowledge enter the same public exposure context. | Kazuya supplies no reciprocal status answer, and V025 gives no developed Ruka response to the profile display. | RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R013 |
+| RAG-RUK-E066 | RUK-S021 | RAG-E-V025-015, RAG-E-V025-016, RAG-E-V025-021, RAG-E-V026-001 | Affection during Kazuya's distress and presence at exposure | Calls Kazuya to the pool, expresses affection, and later sees Chizuru's profile on her own fallen phone. | Her pursuit, prior knowledge, and device become part of the same public exposure context. | Kazuya supplies no reciprocal status answer; V026 records Mami saying that she dropped the phone. | RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R013 |
+| RAG-RUK-E067 | RUK-S022 | RAG-E-V026-001, RAG-E-V026-002 | Phone ownership and failed cover attempt | Identifies the device as hers, challenges Mami's role, and tries to dismiss the display as a joke image before Mami surfaces the service evidence. | Attempts to contain the exposure rather than exploit it for immediate advantage. | The cover is false and fails; exact pre-drop screen preparation remains unknown. | RAG-RUK-R002, RAG-RUK-R005, RAG-RUK-R013, RAG-RUK-R014 |
+| RAG-RUK-E068 | RUK-S022 | RAG-E-V026-009, RAG-E-V026-010 | Self-costly resistance to Mami's verification regime | Recalls her continuing love and Kazuya's preference, recognizes deliberate Mami action, apologizes to Kazuya, and asks the group to accept the principals' stated relation. | Protects Kazuya and Chizuru from immediate collapse even though their survival obstructs her own romantic goal. | She does not withdraw her own claim or correct the prior fabricated sex account. | RAG-RUK-R005, RAG-RUK-R006, RAG-RUK-R010, RAG-RUK-R014 |
+| RAG-RUK-E069 | RUK-S022 | RAG-E-V026-016 | Residual claim after near-complete explanation | Leaves room 8504 under the account that only genuine dating remains false and fixes the pair with a hard stare. | Shows that the protective intervention has not resolved her attachment or opposition. | The volume ends before a confrontation, withdrawal, demand, or access change. | RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R014 |
 
 ## State-change summary
 
@@ -128,6 +131,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - RUK-S019 — public claimant repeating a fabricated wedge under challenge: receives Mami's possible-coalition and disclosure tests, declares girlfriend status before peers, uses a false-key pretext for bodily access, and repeats the wrapper-backed sex claim after Kazuya's withdrawal while he denies it and Chizuru verifies independently.
 - RUK-S020 — selective cover preserver under ring and classification pressure: tests Nagomi and withholds self-disclosure, confronts Chizuru about truth and the ring, repeats the fabricated sexual claim, protects the cover during interruptions, and becomes the recipient of Kuribayashi's direct approach.
 - RUK-S021 — former-provider recipient of bounded clarification at an exposure threshold: learns that Kuribayashi's approach concerns relief, worry, and his own shame rather than blame, continues direct affection toward Kazuya without reciprocal reclassification, and is present when Chizuru's rental profile enters the mixed audience.
+- RUK-S022 — self-costly exposure resister with unresolved claim: identifies the fallen phone as hers, attempts a cover, recognizes Mami's orchestration, apologizes and argues that the group should accept the pair's account, then leaves the near-complete explanation still attached and visibly unsettled.
 
 V007 supplies no direct Ruka appearance or conduct; V008 resumes and materially revises her state, V009-V011 test that state before Mami, Kazuya's family, and a concrete family crisis, V012-V013 add no conduct, V014 adds project support, V015 tests that support under an immediate Umi rivalry cue, V016-V017 show renewed status pressure and bounded responses, V018 returns to crisis-timed accommodation, V019 supplies no appearance, V020 shows a request-and-permission consequence, V021 shows explicit refusal of a breakup with renewed access pressure, V022 escalates into forced contact and deliberate sexual-evidence fabrication, V023 repeats the fabrication inside a direct multi-party credibility contest, V024 combines moral pressure with repeated protection of the cover she could expose, and V025 supplies a bounded former-client clarification before the group exposure.
 
@@ -154,6 +158,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - V023 shows persistence after direct contradiction: Ruka uses a false-key pretext, presses bodily access, and repeats the fabricated claim in front of both principals after Kazuya objects to her public status declaration; his denial and Chizuru's source check prevent the claim from being treated as settled evidence (RAG-E-V023-012 through RAG-E-V023-017).
 - V024 makes her selective nondisclosure observable twice: she stops before naming herself to Nagomi and later invents cover explanations during the ring and status confrontation, even while repeating the false sex claim to Chizuru (RAG-E-V024-003, RAG-E-V024-004, RAG-E-V024-011 through RAG-E-V024-013).
 - V025 gives her a direct correction of the grievance she anticipated from Kuribayashi, but supplies too little follow-through to generalize how she handles nonromantic accountability or former-client concern (RAG-E-V025-011).
+- V026 adds a discriminating counterexample to pure rivalry: Ruka resists Mami's exposure and proof regime at direct cost to her own goal, yet the final stare and lack of withdrawal show that local protection does not dissolve her attachment or disputed claim (RAG-E-V026-001, RAG-E-V026-009, RAG-E-V026-010, RAG-E-V026-016).
 - She does not immediately expose the central secret and later explicitly says she never intended to do so, supplying counterevidence to a purely destructive or manipulative model.
 - Ordinary-life evidence remains narrow: childhood health management, peer comparison, rental work, dates, messaging, university visits, and karaoke coworker access are shown, but family, school routine, friendships, and non-romantic interests remain sparse.
 
@@ -165,7 +170,7 @@ These are evidence configurations, not a diagnosis or a claim that physiology de
 - Her stated love is direct evidence of her represented belief, not proof of Kazuya's feeling or her later conduct.
 - The V005 and V008 continuations establish Kazuya's refusals and no completed sexual act; Ruka's contrary V009 and V022-V023 claims are explicitly fabricated or denied and do not establish intimacy.
 - Kazuya's interrupted attempt to make the relationship official is not reciprocal-love evidence, and Ruka does not know his later direct preference or support language to Chizuru.
-- No evidence supports performed voice, acoustic delivery, a clinical label, or durable restraint under repeated nonreciprocity; the V020 negotiated hug does not generalize to her post-withdrawal conduct in V021-V025.
+- No evidence supports performed voice, acoustic delivery, a clinical label, or durable restraint under repeated nonreciprocity; the V026 protective intervention is material but does not yet establish workable separation or repair of prior coercion and fabrication.
 
 ## Update rule
 

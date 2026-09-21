@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V025
-row_count: 117
-state: CURRENT_THROUGH_V025
+inspected_through_volume: V026
+row_count: 122
+state: CURRENT_THROUGH_V026
 ```
 
 ## Records
@@ -158,4 +158,9 @@ state: CURRENT_THROUGH_V025
 | RAG-CHR-114 | RAG-E-V025-007 through RAG-E-V025-009 | Mami's retrospective history moves from controlled childhood and an arranged future through her Tarou relationship, paternal breakup order, and later anti-romance conclusion. | Internal order is explicit within the backstory. | Calendar dates, ages after nine, and independent verification of Tarou's breakup motive remain unavailable. |
 | RAG-CHR-115 | RAG-E-V025-010 through RAG-E-V025-014 | Mami's corridor pressure and the Kuribayashi-Ruka exchange lead into the ring dispute, Chizuru's defense, and her refusal to proceed to the room. | Crosscut events occur before the group reconvenes at the pool. | Their minute-level simultaneity is not established. |
 | RAG-CHR-116 | RAG-E-V025-015 through RAG-E-V025-020 | Kazuya's presumed-rejection spiral precedes Chizuru's renewed protection exchange, the revealed conditional truce, and the group's resumed pool and departure routine. | The narrative later identifies November 24 at approximately 15:35-15:37 and says eighteen months have passed since the principals met. | One caption shows 15:37 while the phone screen shows 15:35, so exact minute precision is withheld. |
-| RAG-CHR-117 | RAG-E-V025-021, RAG-E-V025-022 | At departure, Nagomi drops her phone, the group sees Chizuru's rental profile, Mami smiles, and Kazuya reacts before the cut. | This is the final main-narrative event of V025. | The display's preparation, every observer's comprehension, and all responses occur beyond the volume boundary. |
+| RAG-CHR-117 | RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001 | At departure, Ruka's phone falls with Chizuru's rental profile visible, the group reacts, and Mami smiles before the V025 cut; V026 immediately identifies Ruka as owner and Mami as the person who says she dropped it. | This is the final main-narrative event of V025 and the first resolved fact of V026. | The exact pre-drop preparation of the display remains unshown. |
+| RAG-CHR-118 | RAG-E-V026-001 through RAG-E-V026-003 | Ruka identifies the phone, attempts a joke-image cover, Mami surfaces the Diamond evidence, Kazuya tries to remove Chizuru, Kazuo raises the witnessed payment, and Nagomi asks the direct status question. | V026 continues the V025 endpoint without an indicated interval. | Minute-level duration and the screen's preparation are unstated. |
+| RAG-CHR-119 | RAG-E-V026-004 through RAG-E-V026-006 | Mami's accusation precedes Chizuru's Sayuri memory, Kibe's punch, and Nagomi's request for an explanation. | Audience framing, remembered stakes, violence, and the family question occur in that order. | Exact elapsed time within the gathered scene is not stated. |
+| RAG-CHR-120 | RAG-E-V026-007 through RAG-E-V026-011 | Kazuya decides on a protective bluff, claims an earlier genuine relationship and confesses love; Mami demands a kiss, Ruka intervenes, Kibe reinforces the demand, and Kazuya abandons the cover. | The single public confrontation supplies the ordering. | Internal memories do not establish separate present-time intervals. |
+| RAG-CHR-121 | RAG-E-V026-012 through RAG-E-V026-015 | Chizuru initiates and sustains a first kiss, discloses her name and role, makes the public girlfriend claim, then initiates a second kiss after Mami demands clearer repetition. | The two kisses are distinct and ordered around the identity disclosure. | Their precise clock duration is unstated despite prolonged page treatment. |
+| RAG-CHR-122 | RAG-E-V026-016 | The pair then spend roughly two hours explaining the history in room 8504, retain only the genuine-dating lie, receive Nagomi's acceptance and apology, and leave under Ruka's stare after Kazuo strikes Kazuya. | The room account follows both kisses and precedes departure from the explanation. | The exact content order inside the summarized interval and subsequent private aftermath remain unstated. |

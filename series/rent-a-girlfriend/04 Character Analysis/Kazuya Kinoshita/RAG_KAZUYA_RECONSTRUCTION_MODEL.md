@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V025."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V026."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -52,14 +52,15 @@ model_basis:
     - RAG-JP-EPUB-V023
     - RAG-JP-EPUB-V024
     - RAG-JP-EPUB-V025
-  admitted_through_volume: V025
-  narrative_time_boundary: "after Kazuya continues but cannot complete the chapel speech, misreads Chizuru's Mami-driven flight as rejection, experiences acute jealousy and distress, renews a protection promise, and sees Chizuru's Diamond profile on Nagomi's phone"
+    - RAG-JP-EPUB-V026
+  admitted_through_volume: V026
+  narrative_time_boundary: "after Kazuya answers public exposure with a false dating timeline and a true love declaration, abandons the bluff under coerced verification, receives two Chizuru-initiated kisses and her identity disclosure, and joins a near-complete family account that retains genuine dating as the sole lie"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.25"
+  model_revision: "1.26"
   prior_knowledge_limitations:
-    - "No post-V025 narrative evidence is admitted."
-    - "Kazuya does not know that Mami's arrival caused Chizuru's flight or that Chizuru entered a conditional cover bargain; he has no admitted response to the profile display."
+    - "No post-V026 narrative evidence is admitted."
+    - "Kazuya has no admitted private debrief with Chizuru after the kisses and no observed resolution of Ruka's claim, Mami's setback, or the residual dating lie."
 coverage:
   observed_contexts:
     - breakup and acute loneliness
@@ -109,7 +110,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports tightly bounded reconstruction of Kazuya at the V025 endpoint. It is useful for scenarios involving embarrassment, family expectations, bounded truth correction, practical support, consent differentiation, compartment pressure, ambiguous rejection, intrusive jealousy, public profile exposure, and the terminated but contested Ruka trial when the scenario preserves his V025 knowledge. It should abstain from supplying a completed chapel proposition, Chizuru's romantic self-classification, knowledge of the hidden Mami bargain, mature partnership, workable separation from Ruka, or any response after the displayed profile.
+This model supports tightly bounded reconstruction of Kazuya at the V026 endpoint. It is useful for scenarios involving embarrassment, family expectations, protective status deception, public confession, bounded truth correction, practical support, consent differentiation, compartment failure, and the terminated but contested Ruka trial when the scenario preserves his V026 knowledge. It should abstain from supplying Chizuru's private romantic self-classification, mature partnership, workable separation from Ruka, a private meaning for the public kisses, or any response after the near-complete family explanation.
 
 ## Central mechanism
 
@@ -1343,7 +1344,7 @@ known_propositions:
   - "Chizuru said she might be at her limit, apologized, and ran after Kazuya began the chapel speech."
   - "Kazuya interprets the flight as rejection, but Chizuru did not state rejection."
   - "Chizuru later accepts his renewed promise to protect her and repeats his wish that Nagomi keep dreaming."
-  - "Nagomi's fallen phone visibly displays Chizuru's Diamond rental-girlfriend profile."
+  - "Ruka's fallen phone visibly displays Chizuru's Diamond rental-girlfriend profile; V026 records Mami saying that she dropped it."
   - "Kazuya does not know Mami's room-and-ring plan, Chizuru's refusal, or their conditional cover bargain."
 relationship_conditions:
   - "Kazuya and Chizuru retain mutual care but have no completed proposition, answer, or fully informed shared plan."
@@ -1374,6 +1375,59 @@ uncertainties:
   - "How he responds to the profile display and allocates responsibility before Nagomi, Kibe, Kuribayashi, Ruka, and Mami."
   - "Whether he learns why Chizuru fled or that she hid the Mami exchange."
   - "Whether the incomplete confession can resume after public exposure."
+~~~
+
+### KAZ-S028 — publicly confessing protector inside near-complete correction
+
+~~~yaml
+state_id: KAZ-S028
+valid_from_source: "V026 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru's Diamond profile has entered the mixed audience on Ruka's phone, and Mami says that she dropped the device."
+active_goals:
+  - protect Chizuru from being reduced to a paid deceiver
+  - answer family and peer demands while carrying primary blame
+  - preserve immediate family access through a narrowed account
+  - understand Chizuru's two kisses and personal-importance disclosure without inventing a private agreement
+known_propositions:
+  - "Mami turned the display into a selective accusation and twice demanded kissing as proof."
+  - "Kazuya publicly said that he loves Chizuru while knowingly fabricating an earlier mutual dating timeline."
+  - "Chizuru initiated two real kisses, disclosed her real name and rental role, and said that Kazuya became important."
+  - "The room account revealed almost everything while preserving only the lie that the pair are genuinely dating."
+relationship_conditions:
+  - "Kazuya and Chizuru have major public affective and bodily evidence but no private mutual status agreement."
+  - "Nagomi accepts the near-complete account, while Kibe and Kazuo have each used physical violence against Kazuya."
+  - "Ruka protected the pair from Mami's method without withdrawing her own attachment or claim."
+changed_from_previous:
+  - PROFILE_EXPOSURE_RESPONSE_COMPLETED
+  - PROTECTIVE_DATING_TIMELINE_FABRICATED
+  - LOVE_DECLARATION_PUBLICLY_COMPLETED
+  - KIBE_VIOLENCE_RECEIVED
+  - PROOF_DEMAND_REFUSED_THEN_SURRENDERED
+  - TWO_CHIZURU_INITIATED_KISSES_RECEIVED
+  - CHIZURU_IDENTITY_AND_PERSONAL_IMPORTANCE_DISCLOSED
+  - FAMILY_ACCOUNT_NARROWED_TO_ONE_RESIDUAL_LIE
+  - KAZUO_VIOLENCE_RECEIVED
+evidence_refs:
+  - RAG-E-V026-001
+  - RAG-E-V026-002
+  - RAG-E-V026-003
+  - RAG-E-V026-006
+  - RAG-E-V026-007
+  - RAG-E-V026-008
+  - RAG-E-V026-009
+  - RAG-E-V026-010
+  - RAG-E-V026-011
+  - RAG-E-V026-012
+  - RAG-E-V026-013
+  - RAG-E-V026-014
+  - RAG-E-V026-015
+  - RAG-E-V026-016
+uncertainties:
+  - "How Kazuya and Chizuru privately interpret and bound the two kisses."
+  - "Whether Ruka, Mami, family, or peers change access or trust after the explanation."
+  - "Whether the inherited ring and final dating lie are corrected."
 ~~~
 
 ## Behavioral rules
@@ -1632,29 +1686,41 @@ uncertainties:
 - **Disconfirming observation:** repeated comparable ambiguous departures produce calibrated verification before self-blame, rival fantasy, or topic withdrawal.
 - **Class/confidence:** WORKING_HYPOTHESIS; low and ambiguity-specific.
 
+### RAG-KAZ-R022 — exposure can combine sincere feeling with protective status fabrication before surrender
+
+- **Scope:** KAZ-S028, with antecedent support in KAZ-S023, KAZ-S025, and KAZ-S027.
+- **Trigger:** A mixed family and peer audience directly confronts the rental identity while Chizuru appears at risk of total blame or exclusion.
+- **Likely appraisal:** full truth will leave Chizuru unprotected, so Kazuya should carry blame and stabilize the audience with the relationship outcome he wishes were true.
+- **Likely action range:** attempt removal, accept blame, fabricate a mutual timeline, state his own feeling truthfully, endure challenge, then abandon the bluff and apologize when verification pressure defeats it.
+- **Inhibitors/escalators:** direct correction from Chizuru or safe private explanation may inhibit fabrication; family pain, Mami's reduction, and public urgency escalate it.
+- **Support:** RAG-E-V026-002 through RAG-E-V026-011.
+- **Counterevidence/gap:** one acute public crisis; the later near-complete explanation shows corrective capacity but still preserves one status lie.
+- **Disconfirming observation:** comparable exposure repeatedly produces immediate complete truth without blame-taking, desired-status substitution, or confession embedded in a cover.
+- **Class/confidence:** WORKING_HYPOTHESIS; low and exposure-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Chizuru
 
-Kazuya knows she is a paid provider and actor whose family-linked dream is to show Sayuri her success on screen. Her casting loss elicits wages-and-bookings support, and V011 makes their ethical difference explicit: he argues that limited time requires truth while she chooses Sayuri's comforting belief. V012-V015 move support into an agreed, funded film project and operational producer role. V016 gives him direct correction of his status self-demotion, Chizuru's family-purpose disclosure and thanks, final-scene camera responsibility, and postproduction follow-through. V017 has him arrange accessible cinema access, tell Sayuri that support survives the lover label, recognize Chizuru's concealed strain, withhold imagined boyfriend touch, and initiate a practical response. V018 completes that response through bedside projection, then shows him respect her immediate refusal, seek Sumi's method, and submit a paid support booking. V019 has him complete that route, revise distraction into permission for grief, receive her collapse, acknowledge his love internally, and refuse to treat the result as proof of reciprocity. V020 completes public exhibition, adds unbooked ordinary time and Chizuru's direct question, and moves him into an interrupted declaration that names her as his ideal girlfriend. V021 extends that route through acting-network access and a conditional partner discussion, after which he explicitly withdraws from the Ruka trial and repeatedly tries but fails to complete a confession. V022 adds a shared ring-and-cover alliance, Chizuru's family-trip self-disclosure, and a direct attempted answer that she recognizes and avoids before completion. V023 adds act-specific practical help, her direct credibility question about Ruka's false claim, and her explicit best-day family appraisal. V024 adds her positive trip account, his direct denial of present desire for Mami, and an accepted-loss run to the chapel. V025 continues but interrupts the attempt, after which he misreads her flight, withdraws the subject, renews protection, and sees the public profile display without knowing her Mami bargain. This establishes consequential collaboration, updating, partly shared romantic information, and persistent care, not a completed proposition, reciprocated romance, or a fully informed shared plan.
+Kazuya knows she is a paid provider and actor whose family-linked dream is to show Sayuri her success on screen. Her casting loss elicits wages-and-bookings support, and V011 makes their ethical difference explicit: he argues that limited time requires truth while she chooses Sayuri's comforting belief. V012-V015 move support into an agreed, funded film project and operational producer role. V016 gives him direct correction of his status self-demotion, Chizuru's family-purpose disclosure and thanks, final-scene camera responsibility, and postproduction follow-through. V017 has him arrange accessible cinema access, tell Sayuri that support survives the lover label, recognize Chizuru's concealed strain, withhold imagined boyfriend touch, and initiate a practical response. V018 completes that response through bedside projection, then shows him respect her immediate refusal, seek Sumi's method, and submit a paid support booking. V019 has him complete that route, revise distraction into permission for grief, receive her collapse, acknowledge his love internally, and refuse to treat the result as proof of reciprocity. V020 completes public exhibition, adds unbooked ordinary time and Chizuru's direct question, and moves him into an interrupted declaration that names her as his ideal girlfriend. V021-V024 extend that route through acting-network access, ring-and-cover coordination, direct source checking, and an accepted-loss chapel approach. V025 interrupts the attempt and triggers a misread rejection. V026 then makes his love declaration public, gives him two Chizuru-initiated kisses plus her real-name and personal-importance account, and narrows the family deception to the sole lie that they are genuinely dating. This establishes consequential collaboration, updating, explicit one-way love, deliberate bodily intimacy, and persistent care, while withholding a private mutual classification or fully truthful shared plan.
 
 ### Toward Mami
 
-Mami has unusual power to reactivate shame and threat appraisal because she is his first former partner and possesses evidence across his family and Chizuru routes. V006 shows her researching Sumi and booking Chizuru; V020-V021 show her reach Nagomi through Kibe, preserve selective secrecy, confront Chizuru with the public film record and apartment residue, and call Nagomi directly. V022 embeds her in the trip. V023 has Kazuya initiate a selective truth exchange, so he knows she has his cover admission and confession-first correction plan. V024 has him explicitly deny wanting her while offering to help Chizuru interpret her. V025 leaves him unaware of Mami's coercive plan, history, truce conditions, and exposure role; he sees only the resulting profile display.
+Mami has unusual power to reactivate shame and threat appraisal because she is his first former partner and possesses evidence across his family and Chizuru routes. V006 shows her researching Sumi and booking Chizuru; V020-V024 build her family access and give her Kazuya's cover admission and confession-first plan. V025 leaves him unaware of her coercive plan and conditional bargain. V026 directly exposes her acknowledged role in dropping Ruka's phone, selective whistleblower framing, and repeated kiss demands. Kazuya now knows her public method but not a single final motive or the exact pre-drop screen preparation.
 
 ### Toward Nagomi
 
-Nagomi's happiness is a protected value and a source of shame. Kazuya wants to meet her expectations and fears making her feel foolish or disappointed. V024 links the resort to his parents' wedding and gives him Nagomi's thanks for twenty-one years. V025 places Chizuru's Diamond profile on Nagomi's fallen phone before him, converting anticipated family pain into immediate exposure without yet showing Nagomi's interpretation or Kazuya's response.
+Nagomi's happiness is a protected value and a source of shame. Kazuya wants to meet her expectations and fears making her feel foolish or disappointed. V024 links the resort to his parents' wedding and gives him Nagomi's thanks for twenty-one years. V025 places Chizuru's Diamond profile on Ruka's fallen phone before the group. V026 has Nagomi ask directly, hear the near-complete account, accept it, and apologize to Chizuru while the genuine-dating lie remains.
 
 ### Toward male friends
 
-Peer evaluation intensifies status anxiety and sexual display, but the friends' disrespect toward Chizuru can elicit direct opposition. His behavior should not be modeled as uniform submission to peer pressure.
+Peer evaluation intensifies status anxiety and sexual display, but the friends' disrespect toward Chizuru can elicit direct opposition. V026 adds Kibe's punch and enforced kiss demand plus Kuribayashi's restraint. His behavior should not be modeled as uniform submission to peer pressure or the violence as justified accountability.
 
 ### Toward Ruka
 
 Ruka is his provisional girlfriend, knows the rental truth, sincerely loves him by her own account, and understands that he is attached to Chizuru. Kazuya does not reciprocate her feeling. V008 shows him accepting ordinary-date activity and storm lodging while refusing sex; Ruka then initiates a morning kiss. Predict guilt, urgency, attraction, and inconsistent boundary management under her demands, while preserving the evidenced capacity for direct refusal. Do not infer intimacy consent or mutual love from the label, lodging, or kiss.
 V009 adds public correction: when Ruka tells Mami that the relation is current and sexual, Kazuya identifies it as provisional and denies sex. This supports factual resistance under explicit overstatement without showing that he can end or fairly resolve the trial.
-V010 adds another unilateral kiss in a family setting. V011 adds repeated kissing through objection and recoil, followed by Kazuya's recognition that sustaining the trial helped create the situation. V017 shows improved differentiation: he accepts sunscreen, blocks a hug, and separately permits first-name address. V021 shows him explicitly withdraw, state nonreciprocity, and apologize; Ruka refuses and increases pressure. V022 shows him resist an overnight attempt and repeat his love for Chizuru before Ruka forces another kiss. V023 shows him object to her public girlfriend claim, remove her after false-pretext physical pressure, and deny the fabricated sex claim. V024 shows Ruka continue the claim before Chizuru while withholding family disclosure. V025 gives Kazuya a distress-driven thought that he should accept Ruka and shows her affection at the pool, but no reciprocal declaration or revised agreement follows. Preserve all facts: his delayed correction caused harm, her refusal cannot create his continued consent, and an unacted thought under acute distress does not restore status.
+V010 adds another unilateral kiss in a family setting. V011 adds repeated kissing through objection and recoil, followed by Kazuya's recognition that sustaining the trial helped create the situation. V017 shows improved differentiation: he accepts sunscreen, blocks a hug, and separately permits first-name address. V021 shows him explicitly withdraw, state nonreciprocity, and apologize; Ruka refuses and increases pressure. V022-V024 add a forced kiss, fabricated sex evidence, and continued unilateral status pressure. V025 gives Kazuya a distress-driven thought that he should accept Ruka but no revised agreement. V026 has Ruka resist Mami's exposure and ask the group to accept the pair's claim at personal cost; her final stare and lack of withdrawal leave the contested relation unresolved. Preserve all facts: his delayed correction caused harm, her refusal cannot create his continued consent, and her protective intervention does not restore reciprocal status.
 
 ## Domain account and negative constraints
 
@@ -1675,12 +1741,12 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, Mami's exact role in the phone exposure, workable post-breakup boundaries with Ruka, durable success of the support method, a completed chapel proposition and answer, or any post-V025 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable success of the support method, the private meaning of the public kisses, or any post-V026 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
 ## Validation status
 
-V025 bounds the stronger confession-action threshold: Kazuya continues direct speech, but an unexplained flight turns anticipated rejection into catastrophic certainty, intrusive rival fantasy, acute distress, and preemptive topic withdrawal. His renewed protection promise supplies counterevidence to total relational collapse, while the Diamond-profile display begins a crisis whose response is withheld. The model still withholds mature partnership, generalized disclosure, repeat production competence, workable separation, completed confession, and final exposure outcome.
+V026 validates a public confession threshold while sharply bounding its truthfulness: Kazuya says that he loves Chizuru but protects her through a false mutual timeline, then surrenders and apologizes when the audience demands bodily proof. Chizuru's two initiated kisses and personal-importance disclosure are consequential evidence, yet the narrator preserves genuine dating as the sole lie and no private debrief occurs. The model still withholds mature partnership, generalized full disclosure, repeat production competence, workable separation, private kiss interpretation, and correction of the final status lie.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

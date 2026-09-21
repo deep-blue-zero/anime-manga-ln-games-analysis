@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V025, with V012-V013 and V019 negative-evidence review."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V026, with V012-V013 and V019 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -50,13 +50,14 @@ model_basis:
     - RAG-JP-EPUB-V023
     - RAG-JP-EPUB-V024
     - RAG-JP-EPUB-V025
-  admitted_through_volume: V025
-  narrative_time_boundary: "after Ruka receives Kuribayashi's direct clarification that he is concerned rather than angry, expresses affection toward Kazuya without reciprocal reclassification, and stands in the group when Chizuru's Diamond profile appears on Nagomi's phone"
+    - RAG-JP-EPUB-V026
+  admitted_through_volume: V026
+  narrative_time_boundary: "after Ruka identifies the exposed phone as hers, attempts a cover, recognizes Mami's deliberate intervention, protects the principals at personal cost, and leaves the near-complete explanation visibly unsettled without withdrawing her claim"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.22"
+  model_revision: "1.23"
   prior_knowledge_limitations:
-    - "No post-V025 narrative evidence is admitted."
+    - "No post-V026 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -100,7 +101,7 @@ local_readiness: PARTIAL_MODEL
 
 ## Intended use
 
-This model supports tightly bounded reconstruction of Ruka at the V025 endpoint when bodily self-monitoring, romantic certainty, rivalry, disputed termination, family exposure, former-client contact, and status challenge are salient. It can model her direct speech, high initiative, ordinary-date effort, local apology, sexual pressure, unilateral intimacy, categorical overstatement, evidence fabrication, selective nondisclosure, and alliance testing. It must abstain on a precise diagnosis, family life, workable separation, a romantic meaning for Kuribayashi's clarification, her response after the profile display, knowledge she does not receive, and any assumption that pulse, a former provisional label, gifts, or physical initiative prove mutual love or consent.
+This model supports tightly bounded reconstruction of Ruka at the V026 endpoint when bodily self-monitoring, romantic certainty, rivalry, disputed termination, family exposure, former-client contact, status challenge, and self-costly crisis protection are salient. It can model her direct speech, high initiative, local apology, sexual pressure, unilateral intimacy, categorical overstatement, evidence fabrication, selective nondisclosure, and tactical resistance to another intervener. It must abstain on a precise diagnosis, family life, workable separation, a romantic meaning for Kuribayashi's clarification, her next response to the kisses and retained cover, and any assumption that pulse, a former provisional label, gifts, or physical initiative prove mutual love or consent.
 
 ## Central mechanism
 
@@ -871,7 +872,7 @@ active_goals:
 known_propositions:
   - "Kuribayashi is glad to see Ruka, worried after she left the service, and blames his own status performance rather than her."
   - "Kazuya is visibly distressed at the pool, but he gives Ruka no reciprocal status answer."
-  - "Chizuru's Diamond profile is visible on Nagomi's fallen phone before the group."
+  - "Chizuru's Diamond profile is visible on Ruka's fallen phone before the group; Mami says that she dropped it."
 relationship_conditions:
   - "The former client-provider grievance Ruka anticipated is reduced, but no new personal relation is agreed."
   - "Kazuya's withdrawal remains explicit despite Ruka's affection and physical proximity."
@@ -892,6 +893,53 @@ uncertainties:
   - "Whether she answers Kuribayashi with gratitude, distance, support, or another status interpretation."
   - "Whether the exposure causes her to correct, repeat, or strategically use prior claims."
   - "How she behaves when Nagomi and Kibe can directly question Chizuru's service identity."
+~~~
+
+### RUK-S022 — self-costly exposure resister with unresolved claim
+
+~~~yaml
+state_id: RUK-S022
+valid_from_source: "V026 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru's Diamond profile is visible on Ruka's fallen phone before the mixed audience, and Mami says that she dropped it."
+active_goals:
+  - contain the exposure and resist Mami's control over the outcome
+  - protect Kazuya from immediate public collapse despite romantic cost
+  - preserve her own attachment and future claim after the pair's public survival
+  - respond to the two kisses and the retained genuine-dating cover
+known_propositions:
+  - "Kazuya loves Chizuru and falsely claims an earlier genuine relationship to protect her."
+  - "Mami's drop and accusation are deliberate enough for Ruka to identify the intervention as orchestrated."
+  - "Chizuru initiates two real kisses and publicly claims girlfriend status."
+  - "The room account leaves genuine dating as the sole lie."
+relationship_conditions:
+  - "Ruka protects the principals' right to state their relation without withdrawing her own attachment or claim."
+  - "Her former-client interaction with Kuribayashi remains bounded concern rather than a new relationship."
+  - "The volume ends on Ruka's hard stare before any workable separation, confrontation, or access change."
+changed_from_previous:
+  - PHONE_OWNERSHIP_IDENTIFIED
+  - JOKE_IMAGE_COVER_ATTEMPTED
+  - MAMI_ORCHESTRATION_RECOGNIZED
+  - KAZUYA_APOLOGY_OFFERED
+  - PRINCIPALS_PUBLIC_ACCOUNT_DEFENDED
+  - TWO_CHIZURU_KISSES_WITNESSED
+  - NEAR_COMPLETE_ACCOUNT_RECEIVED
+  - ATTACHMENT_AND_CLAIM_LEFT_UNRESOLVED
+evidence_refs:
+  - RAG-E-V026-001
+  - RAG-E-V026-002
+  - RAG-E-V026-009
+  - RAG-E-V026-010
+  - RAG-E-V026-012
+  - RAG-E-V026-013
+  - RAG-E-V026-014
+  - RAG-E-V026-015
+  - RAG-E-V026-016
+uncertainties:
+  - "Whether Ruka confronts, withdraws, demands status, changes access, or attempts another tactic."
+  - "Whether she corrects the fabricated sex claim or accepts Kazuya's prior withdrawal."
+  - "How she interprets Kuribayashi's concern after the exposure crisis."
 ~~~
 
 ## Behavioral rules
@@ -1048,15 +1096,27 @@ uncertainties:
 - Disconfirming observation: repeated comparable access to an invested family audience produces either automatic exposure or complete withdrawal from private pressure rather than the observed split.
 - Class/confidence: WORKING_HYPOTHESIS; low and family-exposure-specific.
 
+### RAG-RUK-R014 — direct coercive threat to Kazuya can redirect rivalry into self-costly protection without dissolving attachment
+
+- Scope: RUK-S022, with antecedent support in RUK-S005, RUK-S010, RUK-S015, and RUK-S020.
+- Trigger: Another informed rival turns the shared secret into a public accusation and uses bodily proof to control whether Kazuya's account is believed.
+- Likely appraisal: Mami's method is deliberate and unacceptable even if its success could remove Chizuru as a rival.
+- Likely action range: attempt a cover, name the orchestration, apologize to Kazuya, argue that the principals' own statement should govern, and defer her own claim until the immediate threat passes.
+- Inhibitors/escalators: personal jealousy and fear of loss inhibit protection; Kazuya's distress, public coercion, and Mami's manipulation escalate it.
+- Support: RAG-E-V026-001, RAG-E-V026-009, RAG-E-V026-010.
+- Counterevidence/gap: one crisis; Ruka neither withdraws her claim nor repairs earlier coercion and fabrication, and the endpoint stare preserves conflict.
+- Disconfirming observation: comparable direct coercive threats consistently produce opportunistic support for exposure or no protective action when rival removal is available.
+- Class/confidence: WORKING_HYPOTHESIS; low and crisis-specific.
+
 ## Directed relationship conditioning
 
 ### Toward Kazuya
 
-Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V008 shows sexual pressure and a morning kiss after refusal; V009-V011 show status overstatement, local apology, repeated kissing through resistance, and a crisis truce that preserves pursuit. V016 adds investigation and confrontation after Mini uses her name to exclude her. V017 answers the resulting request with bounded sunscreen contact, records a pulse of ninety-four, and shows her redirect a blocked hug into first-name permission before using that permission publicly and continuing domestic status pressure. V018-V020 move crisis accommodation into later reciprocity pressure, but also add a clear overnight refusal, local-plan substitution, and five-second hug after verbal permission. V021 shows a qualitatively stronger boundary: Kazuya withdraws from the trial, and Ruka refuses the ending and increases pressure. V022 answers that boundary with an overnight attempt, forced kiss, and fabricated wrapper. V023 adds public girlfriend declaration, false-pretext isolation, and repetition of the sex claim under direct denial. V024 does not restore access or status; it shifts her pressure toward Chizuru and Nagomi while Kazuya prepares direct speech elsewhere. Predict direct pursuit, monitoring, rivalry, and tactical change, but do not treat her claim as Kazuya's consent or infer mutual love from any label, labor, contact, request, or pulse.
+Ruka regards Kazuya as the first person who made her pulse exceed ninety and therefore as proof that she is capable of love and excitement. She knows he does not reciprocate and is attached to Chizuru, yet accepts a trial rather than leave. V008-V020 show alternating sexual and status pressure, local apology, crisis truce, bounded permission, and persistent pursuit. V021 gives a stronger boundary when Kazuya withdraws; V022-V024 answer it with a forced kiss, fabricated wrapper, false-pretext isolation, repeated sex claim, and selective family cover. V026 adds a new limit: Ruka protects Kazuya from Mami's coercive exposure at direct cost to her own goal, yet does not withdraw her claim after witnessing Chizuru's two kisses. Predict direct pursuit, monitoring, rivalry, and tactical redirection, but do not treat her claim as Kazuya's consent or infer mutual love from any label, labor, contact, request, pulse, or one protective intervention.
 
 ### Toward Chizuru
 
-Chizuru is both a recognized fellow rental provider and the person Ruka correctly identifies as Kazuya's emotional priority. Ruka asks her directly to yield, preserves her family relation after hearing Nagomi, plants underwear to imply intimacy, and in V011 tells her directly about kissing Kazuya before declaring a temporary truce during Sayuri's crisis. V022 adds an explicit planned lie: Ruka uses a torn condom wrapper and a false sex claim because she suspects Chizuru may like Kazuya. V023 shows her repeat that claim after the wrapper reappears, while Kazuya denies it and Chizuru checks him directly. V024 adds ring-return and favorite-person/customer pressure, another repetition of the false account, and two cover stories before Nagomi. Do not flatten this mixture of sympathy, restraint, moral argument, and manipulation into friendship or treat suspicion as knowledge of Chizuru's feeling.
+Chizuru is both a recognized fellow rental provider and the person Ruka correctly identifies as Kazuya's emotional priority. Ruka asks her to yield, preserves her family relation after hearing Nagomi, plants underwear, and later declares a crisis truce. V022-V024 add the fabricated wrapper and sex claim, repetition under denial, ring and classification pressure, and selective family cover. V026 has Ruka resist Mami's exposure, defend the pair's stated account, witness Chizuru's two kisses, and leave the near-complete explanation visibly unsettled. Do not flatten this mixture of sympathy, restraint, moral argument, manipulation, and self-costly protection into friendship or treat it as withdrawal.
 
 ### Toward Kuribayashi
 
@@ -1081,12 +1141,12 @@ Use Japanese manga speech only. Ruka tends toward direct declaratives, questions
 
 Supported with caution: Kazuya misses expected contact; Chizuru receives visible priority; the secret is threatened; a pulse reading changes; family recognition becomes available; immediate refusal occurs; workplace proximity creates access.
 
-Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, workable conduct after Kazuya's withdrawal, long-term workplace conduct, durable correction after the fabrication, romantic meaning in Kuribayashi's concern, her response after the profile display, or any post-V025 conduct.
+Require extra assumptions: her own family reaction, school routine, precise medical prognosis, mature reciprocal partnership, workable conduct after Kazuya's withdrawal, long-term workplace conduct, durable correction after the fabrication, romantic meaning in Kuribayashi's concern, her next response to the kisses and retained cover, or any post-V026 conduct.
 
 Abstain whenever the outcome depends on diagnosing Ruka, treating pulse as objective love proof, or assuming consent from the provisional label. Generated scenarios can test the behavioral rules but cannot become canon evidence.
 
 ## Validation status
 
-V020 validates one stronger request-and-answer case: Ruka accepts refusal of an overnight trip, narrows the outing, states a five-second hug request, and waits for permission. V022-V023 sharply bound that success because definitive withdrawal and rival threat produce a forced kiss, deliberate sexual-evidence fabrication, deceptive isolation, and repeated falsehood under challenge. V024 validates a narrower family-exposure inhibitor. V025 resolves Kuribayashi's purpose into concern and self-critique but gives too little Ruka response for a new rule, then places her at the profile exposure without follow-through. Local readiness remains PARTIAL_MODEL because family life, school routine, response after correction, and long-term conduct are sparse.
+V020 validates one stronger request-and-answer case; V022-V023 sharply bound it through forced kissing, deliberate sexual-evidence fabrication, deceptive isolation, and repeated falsehood under challenge. V024 validates a narrower family-exposure inhibitor. V026 adds a stronger self-costly protection counterexample when Ruka resists Mami's method and defends the principals, but her final stare, unresolved claim, and uncorrected fabrication prevent a separation or broad-restraint rule. Local readiness remains PARTIAL_MODEL because family life, school routine, post-crisis conduct, and long-term behavior are sparse.
 
 The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.

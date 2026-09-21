@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V025
-row_count: 131
-state: CURRENT_THROUGH_V025
+inspected_through_volume: V026
+row_count: 138
+state: CURRENT_THROUGH_V026
 ```
 
 ## Records
@@ -173,3 +173,10 @@ state: CURRENT_THROUGH_V025
 | RAG-TXN-129 | Kuribayashi and Ruka; post-service direct clarification | No booking or payment governs Kuribayashi's statement that he was glad to see Ruka and does not blame her. | He may disclose concern and self-criticism; she may receive, reject, or end the contact. | Prior client status creates no entitlement to friendship, romance, or ongoing access. | A bounded grievance correction occurs without a new arrangement; RAG-E-V025-011. |
 | RAG-TXN-130 | Ruka and Kazuya; pool affection during presumed rejection | Ruka's direct affection and Kazuya's thought of accepting her do not by themselves create a renewed mutually agreed trial or sexual access. | Each may state or reconsider status, but reciprocity requires an observable answer rather than distress-driven inference. | Kazuya's jealousy and breakdown make no promise to Ruka and do not restore consent he previously withdrew. | The volume supplies contact and feeling but no reciprocal reclassification; RAG-E-V025-015, RAG-E-V025-016. |
 | RAG-TXN-131 | Chizuru, Nagomi, and the group; public rental-profile display | A publicly accessible service profile does not make involuntary family presentation consensual or settle the meaning of prior care. | Observers may ask and principals may explain; Chizuru retains interests in context, safety, and accurate attribution. | Screen evidence establishes the listed service identity but not every booking, motive, feeling, or current relation. | Exposure begins without a completed response or repair; RAG-E-V025-021, RAG-E-V025-022. |
+| RAG-TXN-132 | Ruka, Mami, Chizuru, and the group; phone and profile exposure | Ruka owns the fallen phone and Mami says that she dropped it; no permission is shown for using the device to present Chizuru's profile. | Ruka attempts to cover the display while Mami names and develops its meaning. | Public availability of a profile does not authorize staged family exposure or erase contextual privacy. | The service identity becomes shared evidence while exact pre-drop preparation remains unshown; RAG-E-V026-001 through RAG-E-V026-003. |
+| RAG-TXN-133 | Mami, Chizuru, Kazuya, and the family group; accusation and demanded proof | No agreement grants Mami authority to define a kiss as the price of being believed. | The pair may explain, refuse, or leave; observers may evaluate speech and evidence without requiring bodily performance. | Information asymmetry and social pressure make the proof demand coercive even though Mami cannot physically compel compliance. | The group permits the demand to govern the scene; RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-011. |
+| RAG-TXN-134 | Kazuya and Chizuru; public confession and protective cover | Kazuya offers his feeling without payment or reciprocal-status agreement and fabricates a genuine-dating timeline to protect Chizuru. | He may confess and accept refusal; Chizuru owes no answer or performance. | Love, blame-taking, prior care, and family pressure create no entitlement to reciprocity. | The confession becomes shared knowledge while the false timeline increases truth debt; RAG-E-V026-007, RAG-E-V026-008. |
+| RAG-TXN-135 | Chizuru and Kazuya; first kiss under public verification pressure | No prior contract or explicit present verbal agreement governs the contact; Chizuru deliberately initiates after Kazuya apologizes and gives up. | Her bodily initiative is clear, while Kazuya is stunned and supplies no contemporaneous verbal assent. | Audience coercion and absence of a negotiated private context prevent generalizing the act to mutual status or future access. | Genuine prolonged contact occurs without resolving classification; RAG-E-V026-011 through RAG-E-V026-013. |
+| RAG-TXN-136 | Chizuru and Kazuya; identity disclosure, public claim, and second kiss | Chizuru voluntarily gives her real name and role, then responds to Mami's renewed visibility demand by repositioning Kazuya and kissing him again. | Repetition is her observable choice within a constrained public situation. | One protective performance does not obligate either person to repeat contact or accept dating status afterward. | The second kiss strengthens evidence of deliberate care while the public girlfriend label remains false; RAG-E-V026-014, RAG-E-V026-015. |
+| RAG-TXN-137 | Chizuru, Kazuya, and the Kinoshita family; near-complete account and ring obligation | The pair disclose almost everything but preserve actual dating as false; the inherited ring is discussed without an observable return. | Nagomi may accept, question, or withdraw care; Chizuru retains the right and obligation to address the ring apart from romantic status. | Family hospitality and apology create no duty to date, marry, retain the ring, or keep the residual lie. | Immediate access is restored under materially improved but incomplete information; RAG-E-V026-016. |
+| RAG-TXN-138 | Kibe, Kazuo, and Kazuya; physical punishment during disclosure | Friendship, parenthood, anger, and deception create no agreement or right to strike Kazuya. | Both men can question, withdraw trust, set boundaries, or hear the account without violence. | Bodily force supplies neither consent nor evidentiary proof and remains a separate harm. | Kibe punches during the public scene and Kazuo strikes after the room explanation; RAG-E-V026-006, RAG-E-V026-016. |

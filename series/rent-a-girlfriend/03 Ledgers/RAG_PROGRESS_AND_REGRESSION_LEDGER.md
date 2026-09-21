@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.25"
+version: "1.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V025; inspected and closed through V025."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V026; inspected and closed through V026."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V025
-row_count: 145
-state: CURRENT_THROUGH_V025
+inspected_through_volume: V026
+row_count: 152
+state: CURRENT_THROUGH_V026
 ```
 ```
 
@@ -187,4 +187,11 @@ state: CURRENT_THROUGH_V025
 | RAG-PRG-142 | Mami's intervention route | COERCIVE_ESCALATION_WITH_TEMPORARY_SETBACK — rescue language becomes a room, ring, and document plan before Chizuru's refusal produces a conditional truce. | The route acquires concrete execution capacity and then appears to pause. | The endpoint profile display defeats the appearance of stable de-escalation, but its exact mechanics remain unshown. | RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021 |
 | RAG-PRG-143 | Kuribayashi-Ruka relation | BOUNDED_CLARIFICATION_GAIN — Kuribayashi replaces anticipated blame with concern, self-criticism, and relief at seeing Ruka. | Their former client-provider relation receives direct interpersonal repair information. | No continuing relation, romance, or broad reconciliation is established. | RAG-E-V025-011 |
 | RAG-PRG-144 | Kazuya's emotional calibration | ACUTE_REGRESSION_UNDER_ASYMMETRIC_INFORMATION — he treats flight as rejection, imagines rival sexual scenarios, breaks down, and cancels clarification. | Fear and incomplete information overwhelm the accepted-loss stance that enabled the chapel approach. | He still renews his protection promise, so the regression does not erase care or all action capacity. | RAG-E-V025-015 through RAG-E-V025-017 |
-| RAG-PRG-145 | Family-cover stability | MAJOR_COMPARTMENT_FAILURE_AT_UNRESOLVED_CUT — Chizuru's rental profile becomes visible on Nagomi's phone before the mixed group. | The long-maintained service identity enters the family and peer audience as direct screen evidence. | No explanation, judgment, or durable relationship consequence completes within V025. | RAG-E-V025-021, RAG-E-V025-022 |
+| RAG-PRG-145 | Family-cover stability | MAJOR_COMPARTMENT_FAILURE_AT_UNRESOLVED_CUT — Chizuru's rental profile becomes visible on Ruka's phone before the mixed group; V026 identifies Mami as the person who says she dropped it. | The long-maintained service identity enters the family and peer audience as direct screen evidence. | No explanation, judgment, or durable relationship consequence completes within V025 itself; the attribution is revised by V026. | RAG-E-V025-021, RAG-E-V025-022, RAG-E-V026-001 |
+| RAG-PRG-146 | Mami's intervention route | MAJOR_EXECUTION_WITH_CONTROL_SETBACK — Mami turns the drop into an accusation and twice demands kissing as proof, but Ruka resists and the pair survive the immediate test. | The planned family-facing route fully activates and governs the public scene. | Failure to secure rejection does not end Mami's access, motive, or capacity for another move. | RAG-E-V026-001, RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-015 |
+| RAG-PRG-147 | Kazuya's confession route | EXPLICIT_AFFECTIVE_GAIN_WITH_STATUS_DECEPTION — Kazuya publicly says that he loves Chizuru while embedding the declaration in a false genuine-dating timeline. | His feeling becomes direct shared knowledge after repeated interrupted attempts. | The confession receives no private negotiated answer and does not make the status claim true. | RAG-E-V026-007, RAG-E-V026-008 |
+| RAG-PRG-148 | Chizuru's agency and intimacy | MAJOR_INITIATIVE_GAIN_UNDER_COERCIVE_CONDITIONS — Chizuru initiates two prolonged kisses, gives her real name and rental role, and calls Kazuya important. | She acts publicly and repeatedly rather than remaining an object of competing explanations. | Audience pressure, absent contemporaneous verbal assent, and the residual lie prevent a clean mutual-status classification. | RAG-E-V026-012 through RAG-E-V026-015 |
+| RAG-PRG-149 | Family-cover truthfulness | LARGE_CORRECTION_WITH_ONE_STRUCTURAL_LIE — the room account reveals almost everything while preserving only genuine dating as false. | Broad biography and transaction concealment contract to one explicit status deception. | The remaining lie governs the very relation under dispute and continues to shape family acceptance. | RAG-E-V026-016 |
+| RAG-PRG-150 | Ruka's conduct under rivalry | SELF_COSTLY_PROTECTIVE_GAIN_WITH_CLAIM_STALL — she recognizes Mami's orchestration, apologizes, and asks the group to accept the pair's account. | Ruka rejects a method that could advance her own position and protects Kazuya from immediate collapse. | She does not withdraw her disputed claim or repair the earlier fabricated sex evidence. | RAG-E-V026-009, RAG-E-V026-010 |
+| RAG-PRG-151 | Family and peer trust | PARTIAL_REPAIR_WITH_VIOLENCE_AND_RESIDUAL_ERROR — Nagomi hears the account, accepts it, and apologizes while Kibe and Kazuo each strike Kazuya during the crisis. | Immediate exclusion is avoided and family access continues. | The repair is not fully informed, and physical punishment is a separate regression rather than evidence of restored trust. | RAG-E-V026-006, RAG-E-V026-016 |
+| RAG-PRG-152 | Principal mutual classification | HIGH_PUBLIC_INTIMACY_WITH_PRIVATE_STATUS_STALL — confession, two kisses, personal-importance language, and a public girlfriend claim occur without a private agreement. | The volume creates major observable affective and bodily change. | The narrator preserves genuine dating as the sole lie and the volume ends before private debrief. | RAG-E-V026-008, RAG-E-V026-012 through RAG-E-V026-016 |
