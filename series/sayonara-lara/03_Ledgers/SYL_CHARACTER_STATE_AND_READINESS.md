@@ -4,14 +4,14 @@ artifact_id: SYL_CHARACTER_STATE_AND_READINESS
 artifact_type: character_state_readiness_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E08 closed; identities and states verified only through E08"
+source_boundary: "E09 closed; identities and states verified only through E09"
 ---
 
 # Character state and readiness ledger
@@ -46,5 +46,14 @@ This local ledger tracks verified identity, temporal state, desires/knowledge/co
 | Rowan | VERIFIED_LOCAL_IDENTITY | E08 (present state reported by Lisa) | Remains sleeping with the family according to Lisa; his anti-human maxim is recalled during Lara's identity crisis | No present direct speech; how his dynastic extraction thesis relates to Lisa's sea-love account and Lara's land light | Owner-requested dedicated ideological monograph after E12; substantive bounded thesis but FULL_SERIES_NOT_READY |
 | Luca Akizuki (`秋月ルカ`) | VERIFIED_GIVEN NAME / SURNAME ON CONTACT | E08 | Lara cites his warmth and desire for further closeness; he worries during a wind-obscured ferry call, watches Mari's match expecting Lara, and asks her what she wants | His role in true-love claims and the durability of his person-directed regard untested | Conditional monograph/relationship treatment; FULL_SERIES_NOT_READY |
 | Mari's mother | VERIFIED_RELATION / NAME UNSTATED | E08 recollection | Says Mari may become strong enough to live alone, yet someone will stand alongside and look in the same direction | Present status and intended referent of “someone” unknown; no exclusive romantic identification | Supporting figure essential to Mari's monograph; NOT_READY |
+
+| Lara | VERIFIED_LOCAL_IDENTITY | E09 | Three weeks closer to Luca, rejects warmth as already true love, seeks lover status under medicine's unknown horizon, reveals no time after his pacing boundary, and is removed in supernatural interruption | True-love mechanism, consent/pace negotiation after interrupted disclosure, location and bodily condition, relation of rescue to control | Major monograph after E12; bounded E01-E09 model; FULL_SERIES_NOT_READY |
+| Mari Otsu (`大津 茉里`) | VERIFIED_FULL_NAME | E09 | Helps Lara consider Luca, reassures him, calls Lara important in unfinished phrase, and reports removal near Zeze Castle | Phrase cannot be completed; rescue role, exact attack choreography, and category beyond named friendship open | Major monograph after E12; FULL_SERIES_NOT_READY |
+| Luca Akizuki (`秋月ルカ`) | VERIFIED_GIVEN NAME / SURNAME ON CONTACT | E09 | Paints Lara, admits distance from her hidden self, reciprocates her request to be lovers, asks gradual physical pace, and only then hears her lack of time | No opportunity to respond to full mortality account before interruption; subsequent conduct and magical relevance unknown | Relationship study and conditional monograph; FULL_SERIES_NOT_READY |
+| Grace / Gon | VERIFIED_LOCAL_IDENTITY / ALTERED BODY | E09 | Sleeps unusually, receives household tank care, speaks of two births, is investigated through a mansion trace by Lisa/Kōta, and appears in blue-haired humanlike imagery with Lara during removal | Bodily taxonomy, motive, relation to creatures/blade, illness and destination unverified | Major monograph after E12; FULL_SERIES_NOT_READY |
+| Lisa / Shiomi Lisa (`潮見リサ`) | VERIFIED_SISTER_RELATION / HUMAN IDENTITY | E09 | Wishes the witch out of the way, investigates her trace with Kōta, watches incursion, and predicts an Okinoshima route after Lara's removal | Trace interpretation and incident agency unproven; protective mission and coercive retrieval still in tension | Major monograph after E12; FULL_SERIES_NOT_READY |
+| Kōta / Minase Kōta (`水瀬 光太`) | VERIFIED_HUMAN_NAME / ORIGINAL NONHUMAN FORM | E09 | Helps Lisa investigate Grace and appears masked amid the attack/post-credit response | Exact role and allegiance in each attack image require continuous sequence; no independent romance evidence | Paired Lisa study/conditional monograph; FULL_SERIES_NOT_READY |
+| Rowan | VERIFIED_LOCAL_IDENTITY | E09 (still absent) | His dynastic light program and reported sleep remain context while Lara pursues a human-love route and Grace's second-birth line distinguishes mere existence from living | No direct E09 testimony; cannot assign his agreement with Grace, Lisa, or Lara | Dedicated ideological monograph after E12; FULL_SERIES_NOT_READY |
+| Himeka / Leo / Otsu household adults | PARTIAL LOCAL IDENTITIES | E09 | Himeka reports a different dating partner, Leo questions Lara/Luca's status, adults say dating can reveal love's shape without being required; Makoto describes Grace's tank care | Their advice is situated, not magic-rule testimony; household kinship details remain partial | Supporting ensemble and relationship context; NOT_READY |
 
 Readiness is dimension-specific. Literary synthesis, voice/performance analysis, and behavioral reconstruction never inherit readiness from one another automatically. The repeated subjects above preserve dated state transitions, not duplicate identities.

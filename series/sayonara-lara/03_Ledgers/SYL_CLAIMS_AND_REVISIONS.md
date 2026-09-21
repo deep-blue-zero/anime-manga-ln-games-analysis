@@ -4,14 +4,14 @@ artifact_id: SYL_CLAIMS_AND_REVISIONS
 artifact_type: claims_revisions_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E08 closed with contradiction/readiness checkpoint; Japanese-caption and static-visual scope"
+source_boundary: "E09 closed; Japanese-caption and static-visual scope"
 ---
 
 # Claims and revisions ledger
@@ -64,4 +64,10 @@ This is the cumulative spine for consequential interpretive claims. Every claim 
 | SYL-C0041 | E08 | OBSERVED + INTERPRETATION | C0036: tentative nearness after Luca's avowal | EXPAND | Luca asks what Lara wants during a broken ferry call; Lara chooses return to land despite possible failure. Mari responds to the coach's demand to decide to fight and later imagines a boxing future. Their parallel decisions and promise do not make either outcome inevitable. | E08 S10-S16, cues 207-336, sheets 022-036; counterevidence: Lara had independently valued Mari, work, and land before Luca's question. | Lara/Mari/Luca relationship and form | R0038-R0040; D0001-D0002 |
 | SYL-C0042 | E08 | FORMAL / RESULT BOUNDARY | Final bout may be inferred from later trophy image | HOLD | The earlier victory and progression to the final are announced; the final's winner is not. The trophy-and-certificate shot after the world-title/cake promise is temporally unanchored and cannot establish the August 23 result or achieved world title. | E08 S07/S10/S13/S16, cues 159-163, 207, 240-248, 281-291, 324-336, sheet 036, original frame `001160`; rival: coda might depict an eventual achievement. | Mari monograph; form specialist | W0029; D0002 |
 
-`SYL-H0001`-`SYL-H0012` remain historical research questions. Only explicitly recorded transitions enter current analysis. The E04 friend label is present fact rather than final category; E07 adds Luca's person-directed avowal and Lara's tentative nearness; E08 tests both relationships under mortality and articulates incompatible light doctrines without resolving the mechanism. Rowan's ideological axis remains a dedicated monograph target.
+| SYL-C0043 | E09 | OBSERVED + INTERPRETATION | C0036/C0041: Luca's warmth and Lara's tentative approach | STRENGTHEN / HOLD | Three weeks of dating-like contact, painting and family encounters deepen Lara's liking, yet she expressly denies that warmth already is true love; she imagines finding an answer with Luca. | E09 S01-S05, cues 1-104, sheets 001-012; counterevidence: narration's hopeful prince language may anticipate a later answer, not certify a current one. | Lara/Luca relationship; love specialist | W0030; D0001-D0003 |
+| SYL-C0044 | E09 | OBSERVED + INTERPRETATION | R0038: no stable couple label; Grace's instant true-love route | REVISE / CONTRADICT SHORTCUT | Lara asks Luca to become her lover and he reciprocates, but he requests slower physical progress; Lara's hidden foaming deadline turns pacing into a crisis and she says she has no time. Mutual romantic intention is not immediate magical cure or blanket physical consent. | E09 S12-S13, cues 271-300, sheets 026-030; counterevidence: abduction interrupts rather than tests their subsequent conduct or magical output. | Lara/Luca relationship; consent and time study | R0041; W0031; D0001-D0003 |
+| SYL-C0045 | E09 | TEXTUAL BOUNDARY + INTERPRETATION | C0039: Lara/Mari named friendship tested by danger | STRENGTHEN / HOLD WORDING | Mari tells Luca Lara is important in an unfinished `大事な……` phrase, while mediating his concern and knowing the mortality premise he does not. Importance is clear; completing her category as friend, family or lover is not licensed. | E09 S07, cues 165-182, sheets 017-019; counterevidence: E04 explicitly names friendship, which remains valid but does not supply the missing E09 predicate. | Mari monograph; Lara/Mari/Luca study | R0042; D0001-D0003 |
+| SYL-C0046 | E09 | OBSERVED + CHARACTER INFERENCE | Grace as only a controlling witch; Lisa as only rescuer | COMPLICATE / HOLD | Grace sleeps unusually and depends on household tank care; Lisa/Kōta inspect a mansion trace and infer she is neither mermaid nor human, but do not finish the taxonomy. Illness and care do not absolve her authority or verify the inference. | E09 S09-S10, cues 209-249, sheets 022-025; counterevidence: Lisa expresses a wish to remove the witch and remains an adversarial investigator. | Grace/Lisa/household study | R0043; W0032; D0001-D0003 |
+| SYL-C0047 | E09 | OBSERVED CONSEQUENCE / CAUSALITY OPEN | E05/E07 blade recurrence and Grace/Lisa pursuit | EXPAND / HOLD AGENT | A supernatural incursion interrupts Lara/Luca, Lara is removed, and post-credit dialogue predicts a route toward Okinoshima. Grace-like imagery, creature(s), masked Kōta, and descending blade are visible, but their exact alignment, agency, and object identity are unresolved. | E09 S14-S17, cues 301-320, sheets 030-037, frames `000950`, `000991`, `001025`, `001042`; rival: Grace may rescue and abduct simultaneously, but stills do not decide. | Causality, Grace/Lisa, form studies | W0033-W0034; D0001-D0003 |
+
+`SYL-H0001`-`SYL-H0012` remain historical research questions. Only explicitly recorded transitions enter current analysis. E09 confirms a reciprocal wish to be lovers without certifying royal true love, preserves Mari's unfinished characterization, and ends with Lara's removal under disputed supernatural agency. Rowan's ideological axis remains a dedicated monograph target.

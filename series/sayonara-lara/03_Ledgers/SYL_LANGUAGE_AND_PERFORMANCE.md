@@ -4,14 +4,14 @@ artifact_id: SYL_LANGUAGE_AND_PERFORMANCE
 artifact_type: language_performance_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E08 closed; Japanese textual observations only, no auditory performance claims"
+source_boundary: "E09 closed; Japanese textual observations only, no auditory performance claims"
 ---
 
 # Language and performance ledger
@@ -88,4 +88,10 @@ source_boundary: "E08 closed; Japanese textual observations only, no auditory pe
 | SYL-L0066 | cues 218-271; 15:55-18:43 | `もう会えないかもしれない`; `どうしたいん`; `無理かもしれない`; `手を引いてくれる人`; `この地上にこそ光を感じる`; `止まらない` | Might never meet; what do you want; may be impossible; people take my hand; on this land I feel light; I will not stop | Lara/Luca ferry call, then Lara/Lisa confrontation | Complete aligned JP cue read; sheets 023-028 | Luca asks rather than prescribes; Lara's concession of possible failure makes her choice neither a cure claim nor naïve certainty | High for wording; wind is textually named, actual sound not interpreted | C0040-C0041; R0037-R0038; W0028 |
 | SYL-L0067 | cues 281-336; 19:23-22:26 | `負けたくない`; `横に並んで同じ方を見てくれる人`; `地上の世界で愛を探す`; `プロ`; `世界一`; `カスタード`; `約束` | Do not want to lose; someone beside looking same way; seek love on land; pro; world's best; custard; promise | Mari's match, mother's recollection, and Lara/Mari balcony | Complete aligned JP cue read; sheets 031-036; original still `001160` | No announced final score; a mother's capacious companion phrase and differentiated future pledge resist automatic romantic or result classification | High for text/static; match motion/sound and coda time pending D0001-D0002 | C0039/C0041-C0042; R0036/R0040; F0043-F0045 |
 
-No E01-E08 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E08's argument, ferry wind, boxing, maternal recollection, and future-facing coda remain static/text observations; performed rhythm, motion, and sound remain deferred.
+| SYL-L0068 | SYL-B09 cues 1-104; 00:14-06:16 | `本当の愛`; `温かい`; `ちがう`; `見つかるかもしれない` | True love; warm; no, it is not; might find it | Episode title, Lara's narration, Mari's question and Lara's answer | All 320 aligned JP cues read; sheets 001-011 | Lara rejects a premature equation of felt warmth and certified true love while retaining hope | High for text; delivery and untouched caption witness pending | C0043; W0030; F0046 |
+| SYL-L0069 | cues 105-208; 06:16-12:35 | `付き合ってる`; `付き合わないと`; `愛の形`; `大事な……` | Dating?; unless dating; shape of love; important… | Leo, household advice, Mari's interrupted answer to Luca, Himeka's experience | Complete aligned JP read; sheets 012-021 | Dating is not named a prerequisite; Mari's incomplete phrase may not be completed by the analyst | High for words; exact referent/pause and delivery pending D0001-D0003 | C0045; R0042/R0044; F0047 |
+| SYL-L0070 | cues 209-249; 12:47-15:35 | `魔女さえいなくなれば`; `二度生まれる`; `存在するために`; `生きるために`; `人魚でも人間でもない` | If only the witch were gone; born twice; to exist; to live; neither mermaid nor human | Lisa's hostility, Grace's maxim, Lisa/Kōta's unfinished inference | Complete aligned JP read; sheets 022-025 | Existence/living distinction illuminates competing obligations; unfinished taxonomy remains attributed inference | High for text; provenance and delivery pending | C0046; W0032; F0048 |
+| SYL-L0071 | cues 250-300; 15:55-19:42 | `恋人になりたい`; `俺もそうなりたい`; `ちょっとずつ`; `私にはもう時間がない`; `本当の愛ってなに` | Want to be lovers; I want that too; little by little; I have no time; what is true love? | Lara and Luca, after wider kinds-of-love conversation | Complete aligned JP read; sheets 025-030 | Mutual desire for a relationship, physical pacing boundary and mortality-clock disclosure are separate utterances | High for wording; embodied rhythm and vocal response pending D0001-D0002 | C0044; R0041; W0031; F0049 |
+| SYL-L0072 | cues 301-320; 19:42-24:00 | `さらば だ……`; `ま……り……`; `連れ去られて`; `膳所城`; `沖島へ向かう` | Farewell…; ma…ri… (segmented, speaker unresolved); taken; Zeze Castle; heading to Okinoshima | Attack field and post-credit report/prediction | Complete aligned JP read; sheets 030-037; selected original stills | Removal and predicted route are dialogically framed; the two farewell fragments must not be fused or assigned a speaker without AV | High for supplied words; attribution and motion pending D0001-D0003 | C0047; W0033-W0034; F0050 |
+
+No E01-E09 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing. E09 karaoke, boundary negotiation, creature incursion and post-credit calls remain static/text observations; performed rhythm, motion and sound remain deferred.

@@ -4,14 +4,14 @@ artifact_id: SYL_BLOCKERS_AND_EVIDENCE_DEBTS
 artifact_type: blockers_evidence_debts
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E08 closed; general debts plus E01-E08 claim-linked assignments"
+source_boundary: "E09 closed; general debts plus E01-E09 claim-linked assignments"
 ---
 
 # Blockers and evidence debts
@@ -33,4 +33,12 @@ The table's first three rows retain their E01-E07 interval history; E08 adds the
 | SYL-D0002 | 02:12-10:00 (weakness, treatment, confrontation); 10:27-18:43 (departure, boat and return); 15:01-20:10 (boxing/crosscut and score); 20:16-22:28 (vehicle, balcony, trophy coda). C0038-C0042; W0026-W0029. | Continuous source-linked inspection or strict sampled-endpoint narrowing; do not certify final-bout result or coda temporality from the still. |
 | SYL-D0003 | Exact force of `泡になる`, `一時しのぎ`, `こわいに決まってる`, `死んでほしくない`, Lisa's `海の世界への深い愛` / `例外は無い`, `私ってなんなの`, `どうしたいん`, `この地上にこそ光を感じる`, the mother's `横に並んで同じ方`, and `約束`; E08 cues 49-105, 107-140, 175-179, 201-206, 218-271, 292-336. | Untouched ABEMA caption witness and derivative history, with audible adjudication if exact wording is disputed. |
 
-No current debt blocks opening E09 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.
+## E09 claim-linked assignments
+
+| Debt | E09 source intervals and claims | Required future acceptance |
+|---|---|---|
+| SYL-D0001 | 00:14-01:27 karaoke; 03:48-08:03 painting, bird disturbance and Leo; 09:41-12:35 Mari/Luca and Himeka; 12:47-15:35 Grace/household; 17:13-21:43 confession and intrusion; 23:34-24:00 post-credit voices. C0043-C0047; L0068-L0072. | Direct interval-linked listening before claims about singing, emotional delivery, creature sound, music, or speaker attribution. |
+| SYL-D0002 | 04:16-05:33 lakeside incident; 09:41-11:27 Luca/Mari cut and incomplete phrase; 17:13-19:42 approach/withdrawal; 19:42-21:43 creature, carrier and Lara's removal; 21:43-22:29 blade; 23:34-24:00 post-credit route. C0044-C0047; W0031-W0034. | Continuous source-linked inspection or strict sampled-endpoint wording; no confident choreography, object identity, agent or arrival inferred from adjacent frames. |
+| SYL-D0003 | `ちがう`, `付き合わないと`, `愛の形`, `大事な`, `二度生まれる`, `恋人になりたい`, `俺もそうなりたい`, `ちょっとずつ`, `時間がない`, `本当の愛ってなに`, separate `さらば だ……` / `ま……り……`, `沖島へ向かう`; E09 cues 1-320 as localized in L0068-L0072. | Untouched ABEMA caption witness and derivative history; audible adjudication for contested wording or speaker. |
+
+No current debt blocks opening E10 because the authorized episode responsibility is explicitly bounded to complete Japanese-caption reading plus full static visual progression and does not claim auditory or continuous-video completion. Any episode whose central narrative fact cannot be established without a missing channel must stop at that episode.

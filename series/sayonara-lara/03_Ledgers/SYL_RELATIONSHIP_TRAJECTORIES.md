@@ -4,14 +4,14 @@ artifact_id: SYL_RELATIONSHIP_TRAJECTORIES
 artifact_type: relationship_trajectory_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E08 closed; mortality disclosure, separation, land return, and differentiated future promises"
+source_boundary: "E09 closed; mutual lover intention, unequal clocks, household care, and Lara's removal"
 ---
 
 # Relationship trajectories ledger
@@ -60,4 +60,9 @@ source_boundary: "E08 closed; mortality disclosure, separation, land return, and
 | SYL-R0039 | E08 | Mari <-> coach/boxing peers | Strong-opponent pursuit strained by Lara's absence | Coach challenges her readiness for the final; peers question Lara's absence; Mari fights, struggles, and responds to Lara's call | Coach, team/peers, boxer | Sporting identity continues outside the dyad and the result is not reduced to Lara's support | Sampled endpoints cannot give an official final result or credit one spectator causally for athletic success | E08 S09-S13, cues 181-215, 240-291, sheets 017-034 |
 | SYL-R0040 | E08 | Mari <-> mother's remembered counsel / Lara | Mother's strength lesson might be read as solitary self-sufficiency | Memory says someone can stand beside Mari looking in the same direction; shared sleeping faces and later distinct future promises give the image present resonance | Mother/daughter; Lara/Mari remain friends | Parallel rather than possessive accompaniment becomes a relational possibility, not a predestined exclusive referent | Memory does not name Lara or a romantic partner; coda image is temporally unanchored | E08 S14-S16, cues 292-336, sheets 034-036 |
 
-Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points. At E08, `友達` remains the observed name of the Lara/Mari dyad through rupture and return. Luca's relation remains separately active, and neither a couple nor royal true-love mechanism is certified. Lisa/Kōta reciprocity is likewise not assigned a romantic category without textual evidence.
+| SYL-R0041 | E09 | Lara <-> Luca | Person-directed avowal and tentative nearness, not an established couple | Three weeks of shared time and art lead Lara to say she likes him but not to equate warmth with true love; she asks to become lovers, he reciprocates, then asks for gradual physical pace as she reveals she has no time | Explicit mutual desire for lover status; actual subsequent practice interrupted | Mutual affirmation revises the category without erasing individual consent, withheld mortality information, or her need for time | His boundary is not rejection of Lara; neither the kiss attempt nor formal declaration proves a curative light event | E09 S01-S05/S07/S12-S13, cues 1-104, 165-182, 271-300, sheets 001-012, 017-019, 026-030 |
+| SYL-R0042 | E09 | Mari -> Lara / Luca | Named friendship, mortality knowledge, and separate possible romance | Mari coaches Lara, reassures Luca that she advances slowly, and begins an unfinished characterization of Lara as `大事な……`; she later reports Lara taken | Mari/Lara friendship remains the last completed category; Luca/Mari confidants in this conversation | Mari's mediating labor and asymmetric knowledge matter even when Lara romantically addresses Luca | Neither the interrupted word nor later rescue urgency authorizes a new exclusive relationship label | E09 S04/S07/S10/S17, cues 107-114, 165-182, 231-240, 310-320; sheets 017-019, 035-037 |
+| SYL-R0043 | E09 | Grace <-> Otsu household / Lara / Lisa | Witch, guardian and adversary whose potion/dwelling sustain vulnerable mermaids | Household members notice unusual sleep; Makoto recalls assembling and adjusting her tank, and Lara receives her second-birth maxim; Lisa/Kōta seek bodily clues at her mansion and wish her gone | Dependence, care and conflict coexist; no benevolence verdict | Material maintenance gives Grace a reciprocal domestic history without converting her doctrine into fact; Lisa's hostile view is not neutral diagnosis | Her illness, body classification and role in Lara's removal await later evidence | E09 S02/S09-S10/S14-S17, cues 44-62, 209-249, 301-320; sheets 006-008, 022-025, 030-037 |
+| SYL-R0044 | E09 | Lara <-> Himeka / Leo / Otsu adults | Himeka's earlier rivalry, Leo's sibling role, household advice | Himeka reports dating someone else; Leo asks if Lara and Luca date; adults distinguish dating from a requirement for love while suggesting it may reveal feelings | Distinct advisers, not magic authorities | A network of situated accounts prompts Lara's choice but cannot jointly guarantee true-love production | Lara's urgent procedural reading compresses advice under mortality pressure | E09 S05-S08, cues 105-208; sheets 012-021 |
+
+Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points. At E09, Lara/Luca mutually request lover status but the relationship's duration and magical significance remain untested; Lara/Mari's explicitly named friendship is not overwritten by Mari's unfinished `大事な……`. Lisa/Kōta reciprocity is likewise not assigned romance without evidence.

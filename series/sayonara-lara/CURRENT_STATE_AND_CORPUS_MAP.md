@@ -4,14 +4,14 @@ artifact_id: SYL_CURRENT_STATE
 artifact_type: corpus_map
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "Japanese-language TV anime E01-E08 closed at Japanese-caption and complete static-visual scope; E04/E08 checkpoints complete; E09-E12 inventoried"
+source_boundary: "Japanese-language TV anime E01-E09 closed at Japanese-caption and complete static-visual scope; E04/E08 checkpoints complete; E10-E12 inventoried"
 canonical_home: series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -94,10 +94,10 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 | Responsibility | State |
 |---|---|
 | Method, synthesis architecture, AV protocol, design sources | Canonical and adopted |
-| Source register and execution record | E01-E08 inspection recorded; E09-E12 inventory locked |
-| Six longitudinal ledgers | Synchronized through E08 |
+| Source register and execution record | E01-E09 inspection recorded; E10-E12 inventory locked |
+| Six longitudinal ledgers | Synchronized through E09 |
 | Legacy register | Historical/legacy and non-evidentiary |
-| Sequential readings | E01-E08 complete for declared Japanese-text/static-visual scope; [E04](02_Episode_Readings/SYL_E04_CHECKPOINT.md) and [E08](02_Episode_Readings/SYL_E08_CHECKPOINT.md) checkpoints passed; E09 next |
+| Sequential readings | E01-E09 complete for declared Japanese-text/static-visual scope; [E04](02_Episode_Readings/SYL_E04_CHECKPOINT.md) and [E08](02_Episode_Readings/SYL_E08_CHECKPOINT.md) checkpoints passed; E10 next |
 | Monographs, relationship study, specialists, full synthesis | Not created; later phase/readiness gated |
 | Rowan monograph | Planned dedicated synthesis target; no placeholder |
 
@@ -107,12 +107,12 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 - `SYL-D0002`: continuous video is outside the supplied input boundary; motion, microperformance, editing-rhythm, and AV-synchrony claims may require targeted later escalation.
 - `SYL-D0003`: the supplied bundle contains the aligned Japanese caption derivative and provenance metadata but not the untouched ABEMA caption witness; disputed exact-wording claims require recovery of that witness.
 
-These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01-E08 assign claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in their readings and the debt register.
+These debts do not authorize invented observations and do not block text/static narrative reconstruction where the supplied evidence is adequate. They do block unqualified final claims in their affected channels. E01-E09 assign claim-linked intervals and actions to `SYL-D0001`-`SYL-D0003` in their readings and the debt register.
 
 ## Latest closed transaction
 
-[Episode 08: Fear, Contested Light, and Parallel Futures](02_Episode_Readings/SYL_EP08_DEEP_READING.md) follows Lisa's mortality disclosure and temporary medicine, Mari/Lara's fearful rupture and return, and the intercut boxing final. The [E08 checkpoint](02_Episode_Readings/SYL_E08_CHECKPOINT.md) holds Rowan's dynastic purpose, Grace's human-love route, Lisa's sea-world-love rule, and Lara's land-light experience apart. Mari and Lara promise distinct futures; no final score, cure, couple label, or restored family is certified.
+[Episode 09: True Love, Unequal Clocks, and Abduction](02_Episode_Readings/SYL_EP09_DEEP_READING.md) follows the three-week Lara/Luca approach, multiple accounts of love, their mutual request to be lovers and disagreement about pace under Lara's hidden deadline. A supernatural intrusion removes Lara; Grace's exact role, the blade's provenance, and Lisa's Okinoshima prediction remain open. No cure or royal light is certified.
 
 ## Next operation
 
-After committing the closed E08/checkpoint transaction, open E09 from the locked source bundle, read the complete aligned Japanese witness, inspect all E09 contact sheets and necessary full-resolution frames, build the analyst scene map, synchronize ledgers and debts, validate, and commit before E10.
+After committing the closed E09 transaction, open E10 from the locked source bundle, read the complete aligned Japanese witness, inspect all E10 contact sheets and necessary full-resolution frames, build the analyst scene map, synchronize ledgers and debts, validate, and commit before E11.

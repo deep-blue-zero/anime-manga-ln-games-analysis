@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E08 closed; static visual and Japanese textual form"
+source_boundary: "E09 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -63,3 +63,8 @@ source_boundary: "E08 closed; static visual and Japanese textual form"
 | SYL-F0043 | E08 S10-S14 | Mari's coach demands a decision to fight while Luca asks Lara what she truly wants | Ferry, shoreline, ringside, bouts, and Lara's return are intercut; Mari resumes fighting after a call from Lara | Static progression + JP text | Parallel risk and accompaniment, not a literal equivalence or causal attribution of a boxing win to Lara | Mari's mother's image of someone beside her looking the same way expands E03 strength lesson | sheets 022-034; cues 207-300; D0001-D0002 |
 | SYL-F0044 | E08 S15-S16 | Two sleeping faces appear alike after a day of conflict | Balcony conversation contrasts Lara's land-love search with Mari's escalating boxing future, and learned custard becomes a promised cake | Static progression + JP text | Reciprocal promise uses differentiated ambitions and acquired competence rather than absorbing Mari into Lara's rescue plot | Extends E05 repairable bakery work, E07 family fireworks, and E03 maternal counsel | sheets 034-036; cues 302-336 |
 | SYL-F0045 | E08 S16 | A trophy/certificate image of Mari and Lara follows the world-title/cake promise | `つづく` immediately separates this future-facing image from closing credits | Original still `001160` + complete sheet 036 + JP text | Visualizes a shared possible horizon but does not announce the August 23 final result or certify a literal later world title | Counterpoint to E07 unfinished painting: images of a future/person remain interpretable, not sovereign verdicts | 22:19-22:29; cues 333-336; sheet 036; D0002 |
+| SYL-F0046 | E09 S01-S04 | A three-week ellipsis and karaoke establish imperfect shared time | Repeated painting attempts and a lakeside disruption replace the idealized prince's single defining glance | Static progression + JP text | Ordinary repetition makes Lara's liking credible while leaving her own refusal to equate warmth with true love intact | E07's unfinished portrait and E01's prince gaze recur under revision | sheets 001-011; cues 1-104; D0001-D0002 |
+| SYL-F0047 | E09 S05-S08 | Leo, household adults, and Himeka give inconsistent practical dating perspectives | Lara turns a suggestion for discovering love's shape into a time-sensitive production plan | JP text + static domestic/park images | Comedy and consultation disclose the gap between social experiment and magical guarantee; urgency explains but cannot validate the shortcut | E08's ordinary tomorrow becomes a compressed countdown | sheets 012-021; cues 105-208 |
+| SYL-F0048 | E09 S09-S10 | Grace's complaining tank-fish persona appears to require domestic maintenance | Makoto's water, sand, vegetation and temperature recollection accompanies unusual sleep and a second-birth maxim | Static progression + JP text | Care infrastructure complicates a sovereign witch image without resolving her power or goodness | Counterpoint to Rowan's survival-for-future-dynasty program and Lisa's inherited trauma | sheets 022-025; cues 209-249; D0001-D0002 |
+| SYL-F0049 | E09 S11-S13 | Church discussion multiplies forms of being loved; Lara prepares a romantic confession | Mutual lover intention meets Luca's slow pace and Lara's foaming clock at the waterfront | Static progression + JP text | The title's singular “true love” is interrogated by several attachments and two unequal experiences of time | E08's parallel ambition and Rowan/Grace/Lisa incompatible light programs | sheets 025-030; cues 250-300; D0001 for vocal pauses |
+| SYL-F0050 | E09 S14-S17 | Pale roses, a giant tooth-rimmed dark form, smaller creature/hooded imagery, mist and a descending blade interrupt confession | Lara disappears and post-credit pursuit language points toward Okinoshima | Static sampled endpoints + JP text | Public romance space becomes a contested supernatural field, not a light-producing proof; visual recurrence cannot establish one weapon or creature | E05 fish-marked object and E07 heart-blade; exact motion/agent deferred | sheets 030-037; cues 301-320; frames `000950`, `000991`, `001042`; D0002 |
