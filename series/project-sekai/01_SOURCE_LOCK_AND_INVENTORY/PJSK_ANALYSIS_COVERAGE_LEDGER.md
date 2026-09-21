@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0156
+current_event_boundary: EVENT_0157
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0156 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0157 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0157 is fully integrated:** Haruka tests an unconfirmed work-drought rumor directly with Hiiragi, hears his unbroken-light standard, acknowledges real hurt from her prior interruption, and chooses a fallible hope-bearing vow. MMJ shares production, training, pitches, and program preparation without an immediate recovery. Arisawa discloses her LUMINA and Grand Prix organizer identity and invites the quartet. Existing Haruka, group, Saito, landlord, and Stage owners receive high/local I2; Honami's school contact is I1, while VBS, WxS, and N25 are I0. No new I3 owner is certified. The verified envelope is 26 stories / 50 scenes / 1,440 records. The boundary advances EVENT_0156 to EVENT_0157. EVENT_0158 is next; 12 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0157 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0157_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. Reconstruction generation 1 remains cut off at EVENT_0140.
+
+- Completed EVENT_0157: 26 stories / 50 scenes / 1,440 records / 193,847 canonical bytes; canonical files, pinned raw segments, manifests, projections, chronology, and locators verified.
+- Rumor, direct professional statements, staff explanation, and outcomes remain distinct; Haruka's vow and the Grand Prix invitation are open tests rather than completed recoveries.
+- The shared analysis boundary is EVENT_0157. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0157 deltas await synthesis.
+
+### Historical coverage — EVENT_0156 forward transaction
 
 **EVENT_0156 is fully integrated:** new independent I3 `MMJ-EP-SZ-E0156` records Shizuku's grandmother-inherited, recipient-specific embroidery practice becoming differentiated teaching, individually designed and received gifts, and a voluntary public craft lesson. `REL-CROSS-MAFUYU-SHIZUKU-E0080 → REL-CROSS-MAFUYU-SHIZUKU-E0156` advances established nonexclusive school/archery support through chosen shared work, bounded personal testimony, mutually remembered snow-rabbit gifts, and ordinary club/shopping follow-up. Preserve `MF-E0134-01` at strong I2; MMJ, N25, Stage, and Empty routes receive proportional I2. Leo/need, VBS, and WxS are I0. The verified envelope is 23 stories / 53 scenes / 1,407 records. No compulsory response to handmade gifts, recovered Mafuyu taste set or cured fear, exclusive confidence, Shizuku's access to private Nightcord/SEKAI history, completed future workshop, professional craft enterprise, resolved MMJ work uncertainty, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0155 to EVENT_0156. EVENT_0157 is next; 13 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 

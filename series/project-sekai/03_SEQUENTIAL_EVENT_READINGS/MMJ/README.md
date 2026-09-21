@@ -11,6 +11,8 @@ do_not_use_as_current_authority: false
 
 # MMJ
 
+Current forward reading: [EVENT_0157 — Rise and Strive](PJSK_EVENT_0157_DEEP_READING.md), a verified 26-story envelope. Haruka's inquiry, former-break concern, and fallible continuity vow meet MMJ's distributed response to scarce work; Arisawa reveals her organizer identity and offers Grand Prix entry. This is high I2 under existing owners, not proven Hiiragi sabotage, restored bookings, or a completed contest. Reconstruction generation 1 remains cut off at EVENT_0140.
+
 <!-- UNIT_BACKFILL_0029_0090_START -->
 ## Current ordered authority
 
