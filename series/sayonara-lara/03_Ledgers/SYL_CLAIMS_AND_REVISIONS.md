@@ -4,14 +4,14 @@ artifact_id: SYL_CLAIMS_AND_REVISIONS
 artifact_type: claims_revisions_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E02 closed; Japanese-caption and static-visual scope"
+source_boundary: "E03 closed; Japanese-caption and static-visual scope"
 ---
 
 # Claims and revisions ledger
@@ -32,5 +32,10 @@ This is the cumulative spine for consequential interpretive claims. Every claim 
 | SYL-C0010 | E02 | INTERPRETATION | C0003: Grace controls Lara's available choices | STRENGTHEN | Grace intensifies Lara's self-blame by asserting a contested causal chain and making family rescue an exclusive princess duty. | E02 cues 97-118, 131-145; counterevidence: ring resonance and dormant shells suggest Lara may have unique capacity. | Grace monograph; causality study | W0005/W0007; later causal tests |
 | SYL-C0011 | E02 | INTERPRETATION | Ring as royal permission/restriction | STRENGTHEN / EXPAND | For Lara, the ring functions as portable identity, family, and imagined route home; its loss exposes her new body's inability to return to the sea. | E02 S07, S10-S11, cues 146-165, 245-272; rival: magical functionality may independently motivate the search. | Lara monograph; form study | Ring mechanics and recovery; D0002 for continuous rescue |
 | SYL-C0012 | E02 | OBSERVED + INTERPRETATION | Lisa unverified | OPEN | Lisa is a loving but politically unreadable seeker whose ring responds to Lara and who identifies her as the chosen special princess. | E02 S08/S15, cues 166-180, 323-327; counterevidence: purpose after finding Lara is unstated. | Lisa readiness; family/relationship study | E03 onward |
+| SYL-C0013 | E03 | INTERPRETATION | Mari's strength as simple admirable independence | REVISE / EXPAND | Mari's inherited refusal to look away enables desire and confrontation but becomes tunnel vision until she turns it into reciprocal accountability through apology and direct address. | E03 S05-S06, S09, S12: mother's maxim, coach's “look around,” narrowed-opponent language, breakdown, apology, `私から目そらすなよ`; rival: the maxim itself may be healthy and Mari's rigidity independently produced. | Mari monograph; language/form specialist | Later competition and relational conduct; D0001-D0003 |
+| SYL-C0014 | E03 | OBSERVED + INTERPRETATION | C0006-C0007: unnamed collision and bounded care | STRENGTHEN / NARROW | Lara and Mari now make future-directed choices toward one another: Lara protects and attempts repayment; Mari apologizes, requests continued attention, offers uncertain help and renews shelter. The relationship remains unnamed. | E03 S10-S13, cues 205-224, 298-330, 338-374; counterevidence: actions may express situational responsibility, pity, or comic interest rather than a stable category. | Relationship study; Lara and Mari monographs | E04-E12 naming/continuity; D0001/D0002 |
+| SYL-C0015 | E03 | INTERPRETATION | Lara as passive object of Grace's direction | STRENGTHEN / COMPLICATE C0003 | Lara distinguishes reliance from exploitation and rejects Grace's proposal to deceive Mari, although her continued shelter later depends on Grace's deceptive guardian story. | E03 S07, S11, S16, cues 105-126, 231-255, 381-392; counterevidence: leaving may reproduce self-erasure rather than sustainable autonomy. | Lara and Grace monographs; ethics specialist | Later truth disclosure and independence evidence |
+| SYL-C0016 | E03 | OBSERVED + CAUSALITY OPEN | W0009 as inherited doctrine only | STRENGTHEN / TEST | Lara's emotionally charged exchange with Mari is formally and materially correlated with generated light and recovery of her lost ring; Lisa attributes saving light to Lara's heart, but no true-love object or completed mechanism is identified. | E03 S13-S14, cues 358-380, sheets 037-040, frames `001254`-`001292`; rival triggers include land-choice, relief, general connection, or unshown magic. | Love and causality specialists | Continuous interval D0002; later mechanism and relationship naming |
+| SYL-C0017 | E03 | INTERPRETATION | Otsu household as uncomplicated refuge | REVISE | The household practices bounded, negotiated care: its guardian inquiry is reasonable, while Lara's continuing practical belonging rests on Grace's false account and Lara's concealment. | E03 S10/S16, cues 193-204, 381-399; counterevidence: the household's welcome and material care remain genuine despite informational asymmetry. | Family/alienation specialist | Consequences of deception; household identities |
 
 `SYL-H0001`-`SYL-H0012` remain historical research questions. Only the transitions explicitly named above have entered current analysis.

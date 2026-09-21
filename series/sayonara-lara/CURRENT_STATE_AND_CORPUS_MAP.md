@@ -4,14 +4,14 @@ artifact_id: SYL_CURRENT_STATE
 artifact_type: corpus_map
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "Japanese-language TV anime E01-E02 closed at Japanese-caption and complete static-visual scope; E03-E12 inventoried"
+source_boundary: "Japanese-language TV anime E01-E03 closed at Japanese-caption and complete static-visual scope; E04-E12 inventoried"
 canonical_home: series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -46,12 +46,12 @@ This is the single canonical first-read surface for the project. Primary media, 
 - Continuing branch: `series/sayonara-lara`
 - `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 - Planned and source-locked narrative boundary: E01-E12
-- Verified narrative transaction boundary: E02
-- Audiovisual closure: E01-E02 text/static transactions complete; no episode certified for auditory or continuous-video coverage
+- Verified narrative transaction boundary: E03
+- Audiovisual closure: E01-E03 text/static transactions complete; no episode certified for auditory or continuous-video coverage
 - Knowledge mode: source-bounded chronological reread with disclosed prior exposure to E01-E04 discussion and the ending
-- Current operation: open the E03 atomic transaction
-- Next sequential candidate: E03
-- Publication state: E02 is the current transaction boundary; branch push remains pending until the requested goal is complete
+- Current operation: open the E04 atomic transaction and complete the first scheduled checkpoint
+- Next sequential candidate: E04
+- Publication state: E03 is the current transaction boundary; branch push remains pending until the requested goal is complete
 
 ## Authorized sequential execution
 
@@ -61,8 +61,8 @@ sequential_execution:
   unit_type: episode
   authorized_start: E01
   terminal_boundary: E12
-  committed_high_water_mark: E02
-  next_candidate_operation: E03
+  committed_high_water_mark: E03
+  next_candidate_operation: E04
   confirmation_between_units: false
   run_state: active
 ```
@@ -94,10 +94,10 @@ The owner requested a dedicated Rowan monograph because the king represents a ma
 | Responsibility | State |
 |---|---|
 | Method, synthesis architecture, AV protocol, design sources | Canonical and adopted |
-| Source register and execution record | E01-E02 inspection recorded; E03-E12 inventory locked |
-| Six longitudinal ledgers | Synchronized through E02 |
+| Source register and execution record | E01-E03 inspection recorded; E04-E12 inventory locked |
+| Six longitudinal ledgers | Synchronized through E03 |
 | Legacy register | Historical/legacy and non-evidentiary |
-| Sequential readings | E01-E02 complete for declared Japanese-text/static-visual scope |
+| Sequential readings | E01-E03 complete for declared Japanese-text/static-visual scope |
 | Monographs, relationship study, specialists, full synthesis | Not created; later phase/readiness gated |
 | Rowan monograph | Planned dedicated synthesis target; no placeholder |
 
@@ -111,8 +111,8 @@ These debts do not authorize invented observations and do not block text/static 
 
 ## Latest closed transaction
 
-[Episode 02: Care Before Comprehension](02_Episode_Readings/SYL_EP02_DEEP_READING.md) establishes Mari's bounded practical care, the new body's inability to return underwater, Grace's explicit blame, the ring as home/family substitute, and the royal doctrine that makes true love a princess's public labor. Lara/Mari remain unnamed as a relationship; Lisa is independently searching for Lara.
+[Episode 03: Do Not Look Away](02_Episode_Readings/SYL_EP03_DEEP_READING.md) establishes Mari's inherited attention ethic and its tunnel-vision failure, Lara's rejection of exploiting Mari, the pair's future-directed but unnamed commitment, and the first event-level correlation among Lara's heart, generated light, and recovery of her lost ring. Grace's false guardian account makes continued shelter possible but ethically compromised.
 
 ## Next operation
 
-Open E03 from the locked source bundle, read the complete aligned Japanese witness, inspect all E03 contact sheets and necessary full-resolution frames, build an analyst scene map, and test whether provisional hospitality becomes reciprocal participation without importing later relationship classification.
+Open E04 from the locked source bundle, read the complete aligned Japanese witness, inspect all E04 contact sheets and necessary full-resolution frames, build an analyst scene map, then execute the required E04 checkpoint before proceeding to E05.

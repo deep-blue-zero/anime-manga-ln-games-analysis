@@ -4,14 +4,14 @@ artifact_id: SYL_RELATIONSHIP_TRAJECTORIES
 artifact_type: relationship_trajectory_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E02 closed; relationship events through first shared night"
+source_boundary: "E03 closed; relationship events through negotiated continued shelter"
 ---
 
 # Relationship trajectories ledger
@@ -28,5 +28,11 @@ source_boundary: "E02 closed; relationship events through first shared night"
 | SYL-R0008 | E02 | Lara -> Mari | Human as frightening / possible witch servant | Blames Mari for ring loss, then thanks her for rescue, accepts correction, repeats her name, calls it lovely, and calls Mari strange | None stated | Fear becomes individualized recognition and provisional trust; no romance/friendship claim | Gratitude and admiration may remain rescue dependence | E02 S11-S13; cues 263-319 |
 | SYL-R0009 | E02 | Mari -> Grace/Gon | Unknown witch-servant hierarchy | Mari says she found near-dead Gon and made the fish a pet; refuses commands and criticizes tactlessness | Pet / caretaker (Mari's account) | Grace's social authority is inverted inside Mari's household despite informational power over Lara | Grace may be exploiting or tolerating the arrangement for strategic reasons | E02 cues 125-145, 287-305 |
 | SYL-R0010 | E02 | Lisa -> Lara | Candidate sisterly attachment | Ring resonates; Lisa searches Okinoshima, identifies the chosen princess, and calls Lara `愛するララ` | Both are royal princesses; exact sibling wording not spoken here | Strong love and active search established; purpose after recovery open | “Beloved” may combine personal attachment with dynastic need | E02 S08/S15; cues 166-180, 323-327 |
+| SYL-R0011 | E03 | Mari's mother -> child Mari | Fighting framed as incompatible with being a good/gentle child | Redirects conflict into a staring game, then tells Mari to do what she loves and not avert her eyes at important moments | Mother / daughter | Affection authorizes boxing and directness; Mari later turns the maxim into isolating fixation | Later rigidity may be Mari's adaptation, not the mother's intended lesson | E03 S05/S09; cues 50-74, 172-190; sheets 011-013, 019-021 |
+| SYL-R0012 | E03 | Mari <-> Nagahama | Senior hostility toward uncharming exceptional first-year | Fight over rules/status; full-contact spar; Mari admits inconsideration and looking away; Nagahama accepts another round; both pass | Senior/captain and junior; same-weight rivals | Rivalry becomes rule-governed mutual challenge without erasing friction | Acceptance may reflect boxing norms rather than broader reconciliation | E03 S02/S06/S12-S13; cues 18-22, 75-94, 257-337 |
+| SYL-R0013 | E03 | Lara -> Mari | Gratitude and provisional trust | Learns Mari's habits, returns mother's cross, refuses to exploit her, brings a thank-you gift, enters ring to prevent perceived harm, and exposes fear of rejection | None stated | Care becomes active protection and attempted reciprocity, though competence is low | Actions may derive from debt/dependence rather than durable attachment | E03 S10-S13; cues 205-255, 298-313, 338-362 |
+| SYL-R0014 | E03 | Mari -> Lara | Costly care with explicit short-term household boundary | Apologizes for tension, asks Lara not to look away, investigates her condition, offers uncertain help, restores shelter, and contextualizes Lara as a liked foolish/interesting person | None stated | Care becomes future-directed commitment and positive preference without a named relationship | Pity, responsibility, danger containment, or comic interest remain viable motives | E03 S12-S13; cues 327-374; sheets 034-038 |
+| SYL-R0015 | E03 | Grace -> Mari / Otsu household | Dependent pet with residual authority | Recommends deceiving Mari, minimizes rescue while admitting tank comfort, and later fabricates a guardian account to secure Lara's stay | Pet/household member only in Mari's framing | Grace depends on care while instrumentalizing the caregivers' trust | Deception may be the only available route to safe shelter | E03 S07/S11/S16; cues 112-116, 237-246, 381-392 |
+| SYL-R0016 | E03 | Lisa -> Lara | Loving but politically unreadable search | Recovers Lara's ring after a light event, identifies Lara's heart as saving light, and urges her toward true love | Royal-family relation still not exactly spoken | Search gains proof and a potential restoration instrument; intended encounter remains unknown | Recovery may be protective family action rather than instrumental pursuit | E03 S14; cues 375-380; sheets 039-040 |
 
 Lara -> Mari and Mari -> Lara remain separate evidentiary directions. Affection, attraction, dependence, obligation, family, care, and named relationship are distinct dimensions rather than additive romance points.

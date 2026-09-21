@@ -4,14 +4,14 @@ artifact_id: SYL_MOTIFS_COMEDY_AND_FORM
 artifact_type: motifs_comedy_form_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E02 closed; static visual and Japanese textual form"
+source_boundary: "E03 closed; static visual and Japanese textual form"
 ---
 
 # Motifs, comedy, and form ledger
@@ -29,3 +29,8 @@ source_boundary: "E02 closed; static visual and Japanese textual form"
 | SYL-F0009 | E02 S04-S06, S13 | Terrifying witch reappears as aquarium fish | Mari calls Grace a rescued pet and ignores command authority | Static progression + JP text | Status inversion gives Lara and Mari incompatible but corrigible frames of the same being | Aquarium glass repeatedly frames Grace behind Lara/Mari; Grace's shadow remains visually imposing | sheets 012-020, 035-037; cues 51-58, 89-145, 287-305 |
 | SYL-F0010 | E02 S07-S13 | Ring as lost royal object | Lara's wording turns it into family/home; inability to recover it leads into water where the new body fails | Static progression + JP text | Converts portable identity into a dangerous substitute for actual return | Extends E01 ring permission/restriction and E02 opening's love-duty wish | sheets 018-034; cues 146-165, 218-283 |
 | SYL-F0011 | E02 S11-S13 | Containers recur as aquarium, lake, cup, bath, bed, shell | Open water threatens; ordinary small containers and rooms restore warmth/safety | Static progression | Refuses a simple water=home code; care depends on fit between body and environment | Aquarium contains Grace; lake nearly kills Lara; drink/bath/bed sustain her | sheets 015-017, 030-037, 041-042 |
+| SYL-F0012 | E03 S05-S06, S09, S12 | Mother's staring game: looking away means losing | Coach demands wider vision; Mari's opponent-only fixation collapses; apology and `私から目そらすなよ` make sight reciprocal | Static progression + JP text | Turns vision from competitive endurance into attention, answerability, and a request to remain in relation | Eye close-ups, sightline isolation, cross pendant, sparring breakdown, direct address | sheets 011-014, 019-021, 029-035; cues 47-94, 166-190, 275-330 |
+| SYL-F0013 | E03 S09-S12 | Mother's cross pendant interrupts Mari's training focus | Lara returns it before Mari rejects her pursuit; cross images recur during the spar and apology | Static progression + JP text | Carries inherited permission and unresolved family attachment into Mari's present ethics | Cross in childhood, locker, Lara's hand, imagined floor images | sheets 020-023, 029-031; frame `000689` |
+| SYL-F0014 | E03 S07-S11, S16 | Lara treats domestic devices and commerce as direct wish fulfillment | Water overflows, online cakes multiply, gift purchase requires help, and ordered cakes become shared food | Static progression + JP text | Comedy makes acclimation a material apprenticeship rather than effortless innocence | Extends E02 institutional illegibility into household labor and money | sheets 015-025, 043-044; cues 119-165, 225-255, 393-399 |
+| SYL-F0015 | E03 S12 | Lara mistakes rule-governed sparring for mutual killing and enters the ring | Her protective accusation produces laughter, interrupts Mari's fixation, and precedes a repaired second round | Static progression + JP text | Comic category error becomes socially consequential care rather than disposable gag | Repeats mythic/mundane mismatch while changing Mari's peer field | sheets 032-035; cues 298-330 |
+| SYL-F0016 | E03 S13-S14 | Qualified shelter and positive preference remain small, uncertain speech acts | Golden light expands across Lake Biwa; Lara's ring rises and reaches Lisa | Static progression + JP text | Links private relation to public magical consequence without fixing true-love taxonomy | Reverses lost-ring/drowning sequence; Lisa separately keeps true love prospective | sheets 037-040; cues 358-380; frames `001254`-`001292` |

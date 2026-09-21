@@ -4,14 +4,14 @@ artifact_id: SYL_LANGUAGE_AND_PERFORMANCE
 artifact_type: language_performance_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E02 closed; Japanese textual observations only, no auditory performance claims"
+source_boundary: "E03 closed; Japanese textual observations only, no auditory performance claims"
 ---
 
 # Language and performance ledger
@@ -32,5 +32,13 @@ source_boundary: "E02 closed; Japanese textual observations only, no auditory pe
 | SYL-L0012 | cues 245-255; 15:47-16:27 | `私の指輪`; `私の家族`; `私の帰る場所`; `もうどこにも帰れないの` | My ring; my family; my place to return; nowhere to return | Lara searching and drowning | Complete aligned JP cue read; sheets 029-031 | Explicit lexical sequence compresses object, kin, and home into one loss | High for text; delivery pending | C0011 |
 | SYL-L0013 | cues 279-298; 19:20-20:14 | `ありがとう`; `助けてくれて`; Mari's `別に`; `大津 茉里`; `ステキな名前` | Thank you for saving me; no big deal; full name; lovely name | Lara and Mari at station | Complete aligned JP cue read; sheets 034-035; frame `001126` | First reciprocal recognition after conflict; `別に` minimizes act without denying it | High for text; pragmatic tone cannot be finalized without audio | C0007; R0007-R0008 |
 | SYL-L0014 | cues 323-327; 23:42-23:58 | `選ばれし 特別な プリンセス`; `必ず見つけ出す`; `愛するララ` | Chosen special princess; will surely find; beloved Lara | Lisa at dormant site | Complete aligned JP cue read; sheets 041-042 | Joins love, pursuit, and exceptional royal identity; does not specify intended action after discovery | High for text; exact relationship term absent | C0012 |
+| SYL-L0015 | SYL-B03 cues 95-116; 06:41-07:39 | `新たな王子`; `人間との間に 新たな愛`; `唯一の方法`; `うまくだまして` | New prince; new love with a human; only way; deceive her skillfully | Grace directs frightened Lara and proposes using Mari | Complete aligned JP cue read; sheets 014-015; frame `000427` | Grace collapses open “true love” into prince/human repetition and explicitly licenses manipulation | High for supplied text; delivery and exact caption fidelity pending if disputed | C0003, C0015 |
+| SYL-L0016 | cues 119-126; 07:45-08:04 | `今のままじゃぜったいだめ`; `この地上に`; `もっと触れないと`; `もっと知らないと 人間のことを` | Cannot remain as I am; must touch this land/world more; must know humans more | Lara answers Grace's manipulation plan | Complete aligned JP cue read; sheets 015-016 | Recasts the task from acquiring a prince to experiential learning and acclimation | High for text; ensuing activity shown only through static progression | C0001, C0015 |
+| SYL-L0017 | cues 178-190; 10:27-11:08 | `ボクシングしたい`; `大事なときに目そらす子`; `自分のすきなことやったらええ`; `目そらしたら負け` | I want to box; child who looks away at important time; do what you like; looking away means losing | Child Mari and mother | Complete aligned JP cue read; sheets 020-021 | Mother's maxim authorizes desire and attention, not simple aggression; Mari later rigidifies it | High for text; mother’s present status not stated | C0013 |
+| SYL-L0018 | cues 247-254; 14:06-14:25 | `私は魔女さまとはちがう`; `誰かを利用するなんてできない`; `人に頼ってばかりじゃだめ`; `まりに迷惑かけたくない` | I am different from the witch; cannot use someone; cannot only depend; do not want to burden Mari | Lara decides to leave | Complete aligned JP cue read; sheets 024-025 | Explicit ethical distinction between help and instrumentalization, complicated by self-removal and later deception | High for text; motive mixture remains open | C0015 |
+| SYL-L0019 | cues 315-330; 17:52-18:46 | `気使ったりするの下手`; `カッコ悪かった`; `目そらしてすいません`; `私から目そらすなよ` | Bad at consideration; I was uncool; sorry I looked away; do not look away from me | Mari to Nagahama, then Lara | Complete aligned JP cue read; sheets 033-035; frames `001123`, `001145` | Turns sight from competitive fixation into self-accountability and a relational demand | High for supplied wording; pragmatic force/performance pending D0001 | C0013-C0014 |
+| SYL-L0020 | cues 355-373; 19:49-20:53 | `海でも陸でも生きられない人魚`; `人間にまた醜いって思われる`; `この陸で生きていく`; `何とかしたる`; `あほで……おもろい奴はすき` | Mermaid unable to live sea or land; feared ugly again; live on this land; I will do something; like foolish/interesting people | Mari asks; Lara discloses; Mari commits | Complete aligned JP cue read; sheets 036-038; frames `001207`, `001225`, `001245` | Joins vulnerability, land-choice, qualified help, and positive preference without grammatically fixing a named relation or romantic confession | High for text; elided subject and dialect nuance counsel against over-translation | C0005, C0014 |
+| SYL-L0021 | cues 375-380; 21:14-21:35 | `あの子の心が`; `私たちを救う光になる`; `ララ はやく見つけて`; `本当の愛を` | Her heart will become saving light; Lara, quickly find us / true love | Kota and Lisa during ring recovery | Complete aligned JP cue read; sheets 039-040; frames `001272`-`001292` | Supports heart/light causality while syntactically leaving completed true love prospective | High for text and sampled endpoints; continuous causal transition pending D0002 | C0016; W0009-W0012 |
+| SYL-L0022 | cues 381-392; 23:08-23:40 | `お父様`; `他のご家族`; `よろしくお願いします`; `高くつく`; `ボロを出さなければ` | Father/other family; please care for her; this will cost; if you do not give us away | False guardian telephone settlement and Grace/Lara aftermath | Complete aligned JP cue read; sheets 043-044 | Makes shelter administratively legible through deception and renders Grace's assistance transactional | High for text; exact speaker/voice performance and mechanism pending D0001-D0002 | C0015, C0017 |
 
-No E01-E02 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing.
+No E01-E03 performance observation is admitted. Punctuation, caption overlap, and English speaker labels were not used to infer delivery, pitch, laughter quality, silence, or timing.

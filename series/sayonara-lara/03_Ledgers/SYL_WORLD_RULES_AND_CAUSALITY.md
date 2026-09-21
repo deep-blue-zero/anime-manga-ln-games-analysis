@@ -4,14 +4,14 @@ artifact_id: SYL_WORLD_RULES_AND_CAUSALITY
 artifact_type: world_rules_causality_ledger
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-20"
-source_boundary: "E02 closed; rules remain speaker-attributed where not independently demonstrated"
+source_boundary: "E03 closed; rules remain speaker-attributed where not independently demonstrated"
 ---
 
 # World rules and causality ledger
@@ -28,4 +28,5 @@ source_boundary: "E02 closed; rules remain speaker-attributed where not independ
 | SYL-W0008 | Grace | Magic mirrors show desired or remote events and test the viewer's heart; breaking reflects strong movement of heart. | Mirror displays Lara's wish and later historical scenes; both displays break during emotional decisions. | E01 | Function OBSERVED; truth conditions and causal explanation provisional | Grace owns/controls the device, and desire-responsive images need not be neutral records | E01 S07, S10-S12; cues 158-169, 246-251; sheets 018-020, 029-036 |
 | SYL-W0009 | Lisa/Luna / royal doctrine | The queen generated the castle's life-giving light; one chosen princess can generate it through true love; all six princesses seek love to fulfill that duty. | Lisa's ring resonates with Lara; dormant site later glows and Lisa identifies a chosen special princess, but no restoration occurs. | E02 | CHARACTER_ASSERTION with partial magical correlation; production mechanism untested | Grace frames the same task as Lara-exclusive punishment/repair; voluntariness of mission unknown | E02 S01, S08, S10, S15; cues 1-15, 171-175, 221-239, 323-327 |
 | SYL-W0010 | Grace / observed body | Second potion gives Lara human legs in Shiga, but the body cannot breathe or move normally underwater. | Lara walks on land, enters Lake Biwa, loses mobility/breath, and requires Mari's rescue. | E02 | Bodily consequence strongly OBSERVED in static/text scope | Duration and reversibility unknown; E01 potion had temporary/foam rules that may or may not apply identically | E02 S03, S10-S11; cues 16-29, 248-272; sheets 006-010, 030-032 |
-| SYL-W0011 | Lisa's and Lara's rings | Royal rings can resonate across distance with royal/chosen-princess light. | Lisa's ring lights on Okinoshima while Lara searches in Shiga; Lisa infers Lara. | E02 | OBSERVED correlation and CHARACTER INFERENCE; range/mechanism open | Lara's own ring is missing and its location is not shown | E02 S08/S15; cues 170-175, 323-327; sheets 021, 041-042 |
+| SYL-W0011 | Lisa's and Lara's rings | Royal rings can resonate across distance with royal/chosen-princess light. | Lisa's ring lights on Okinoshima in E02; in E03 a golden event exposes Lara's lost ring and Lisa's party recovers it. | E03 | OBSERVED correlations; range, transport, and trigger remain open | Spatial continuity from Lara's lakeside exchange to the recovery site is not continuously inspected | E02 S08/S15; E03 S14; E02 cues 170-175, 323-327; E03 sheets 038-040 |
+| SYL-W0012 | Lisa / observed event | Lara's heart can become light that saves the displaced merfolk. | Immediately after Lara chooses land and Mari renews shelter/positive preference, golden light spreads across the lake and Lara's ring rises; Lisa identifies the heart/light relation. | E03 | CHARACTER_ASSERTION with strong event-level correlation; completed restoration and “true love” condition untested | Trigger may be general resolve, relief, attachment, or an unshown magical process; Lisa separately urges Lara to find true love | E03 S13-S14; cues 358-380; sheets 037-040; frames `001254`-`001292` |
