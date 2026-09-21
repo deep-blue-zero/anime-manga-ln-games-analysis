@@ -64,3 +64,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0133 — Lead to shine more](PJSK_EVENT_0133_DEEP_READING.md): complete 26-story envelope; a tested documentary choice becomes Haruka's producer method and MMJ's shared governance model.
 
 - [EVENT_0138 — Chase my IDEAL IDOL！](PJSK_EVENT_0138_DEEP_READING.md): complete 29-story envelope; Airi removes a self-imposed performance ceiling and turns peer admiration into reciprocal public challenge.
+
+- [EVENT_0151 — Grow glorious glow](PJSK_EVENT_0151_DEEP_READING.md): complete 24-story envelope; Shizuku reincorporates former intensity as chosen shared-stakes responsibility, while Hagiyama Yuu becomes a bounded reciprocal professional rival and the event's successful overextension remains analytically unsafe rather than exemplary.

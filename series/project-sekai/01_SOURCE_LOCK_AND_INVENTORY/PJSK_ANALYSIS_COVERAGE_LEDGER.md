@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0150
+current_event_boundary: EVENT_0151
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0150
+## Current coverage — all five human units synchronized through EVENT_0151
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0150 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0150`.
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and EVENT_0091–0151 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0151`.
 
 Artifacts:
 
@@ -68,7 +68,17 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0150 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0151 forward transaction; EVENT_0141–0170 sequence active
+
+**EVENT_0151 is fully integrated:** `MMJ-EP-SZ-E0011 → MMJ-EP-SZ-E0151` reincorporates Shizuku's former performance intensity as chosen responsibility: she inspects a peer's strength and her own history, distinguishes assigned burden from voluntarily carried shared stakes, accepts support, and completes a public test without restoring the old isolated regime. New scoped I3 `MMJ-REL-SHIZUKU-YUU-E0151` records Hagiyama Yuu's movement from familiar professional contact into reciprocal competitor and co-star. `MMJ-REL-GROUP-E0133`, `MMJ-REL-GROUP-SAITO-E0111`, and `MMJ-REL-HUMAN-STAGE-02` receive strong/local I2; Leo/need receives ordinary archived I1; VBS, WxS, and N25 are I0. The verified envelope is 24 stories / 43 scenes / 1,431 records. No known cause for the missing work, stable booking recovery, objective aura, universal top-idol method, safe or necessary overwork, sole-leader status, fixed rank, formal Yuu mentorship, guaranteed reunion, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0150 to EVENT_0151. EVENT_0152 is next; 18 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
+
+Causal home: [EVENT_0151 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0151_DEEP_READING.md). Complete routes and all five founded human-unit dispositions are integrated across routing and the six longitudinal ledgers. This transaction advances the shared analysis boundary; reconstruction generation 1 remains explicitly cut off at EVENT_0140 until the next synthesis checkpoint.
+
+- Completed EVENT_0151: 24 stories / 43 scenes / 1,431 records; canonical files, pinned raw segments, manifests, anchors, projections, locators, and all routes verified.
+- MORE MORE JUMP! / Shizuku is PRIMARY/VERY HIGH I3; Shizuku–Yuu is CO_PRIMARY/VERY HIGH scoped I3; MMJ group, Saito, and Stage routes receive proportional I2. Leo/need is low I1; VBS, WxS, and N25 are documentary I0.
+- The shared analysis boundary is EVENT_0151. Reconstruction generation 1 remains certified only through EVENT_0140; EVENT_0141–0151 deltas are recorded for the next synthesis checkpoint.
+
+### Historical coverage — EVENT_0150 forward transaction
 
 **EVENT_0150 is fully integrated:** `MZ-E0145-01 → MZ-E0150-01` advances acute withdrawal into a conditional chosen return, first-person group disclosure, and resumed ordinary/creative presence while preserving future fear. `REL-N25-EMZ-E0145 → REL-N25-EMZ-E0150` repairs the rupture through protected disclosure authority, direct conflict, reciprocal truth, explicit unchanged attachment, and restoration of Mizuki's final choice. `REL-N25-G-7 → REL-N25-G-E0150` records content-blind search support, receipt of Mizuki's authored account, explicit unchanged belonging, and restored work. `REL-N25-VS-MEIKO-E0019 → REL-N25-VS-MEIKO-E0150` records confidential, non-omniscient observation becoming timing-aware intervention. `EPI-N25-ENA-MZ-E0145 → EPI-N25-ENA-MZ-E0150` and new scoped `EPI-N25-G-MZ-E0150` preserve first-person receipt and the black-cut limit on exact content. Rui/WxS and VBS receive proportional I2, LN low I1, and MMJ I0. The verified envelope is 31 stories / 43 scenes / 1,581 records. No exact self-authored identity label, permanent fear cure, guaranteed future nonflight, universal endorsement of pursuit or forced confrontation, guaranteed disclosure safety, equal recipient knowledge, school-wide/public disclosure, suicide attempt or plan, complete recovery, public SEKAI knowledge, global singer identity, or complete reconstruction is certified. The boundary advances EVENT_0149 to EVENT_0150. EVENT_0151 is next; 19 source-present events remain through EVENT_0170, with EVENT_0166 absent from the frozen source lock.
 
@@ -2231,3 +2241,7 @@ The verified group contains 25 stories / 44 scenes / 1,547 records. `WXS-EP-NENE
 ### EVENT_0150 source and reconstruction review
 
 The verified group contains 31 stories / 43 scenes / 1,581 records. `MZ-E0150-01`, `REL-N25-EMZ-E0150`, `REL-N25-G-E0150`, `REL-N25-VS-MEIKO-E0150`, `EPI-N25-ENA-MZ-E0150`, and scoped `EPI-N25-G-MZ-E0150` are linked I3 successors; Rui/WxS, VBS, and LN receive proportional I2/I1 evidence. No exact self-authored identity label, permanent fear cure, guaranteed future nonflight, universal endorsement of pursuit or forced confrontation, guaranteed disclosure safety, equal recipient knowledge, school-wide/public disclosure, suicide attempt or plan, complete recovery, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
+
+### EVENT_0151 source and reconstruction review
+
+The verified group contains 24 stories / 43 scenes / 1,431 records. `MMJ-EP-SZ-E0011 → MMJ-EP-SZ-E0151` and scoped `MMJ-REL-SHIZUKU-YUU-E0151` are I3 changes; MMJ group, Saito, and Stage routes receive bounded I2 and Leo/need ordinary I1. No known cause for the missing work, stable booking recovery, guaranteed Budokan progress, objective aura, inherent superiority, universal top-idol method, safe or necessary overwork, sole-rescuer or sole-leader status, fixed rank, formal mentorship, guaranteed future rivalry or collaboration, durable mass fame, public SEKAI knowledge, global singer identity, or complete reconstruction is certified.
