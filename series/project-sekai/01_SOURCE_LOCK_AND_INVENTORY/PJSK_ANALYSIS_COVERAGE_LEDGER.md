@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0169
+current_event_boundary: EVENT_0170
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0169
+## Current coverage — all five human units synchronized through EVENT_0170
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0169 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0169` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0170 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0170` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -68,7 +68,13 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — EVENT_0169 forward transaction; EVENT_0141–0170 sequence active
+### Current coverage — EVENT_0170 forward transaction; EVENT_0141–0170 sequence complete
+
+**EVENT_0170 is fully integrated:** scoped `REL-N25-G-E0150 → REL-N25-G-E0170` records a shared but nonactual Nightcord-less life, differentiated memory/contact, return and actual four-person creative recommitment. Local `EPI-N25-SEKAI-E0165 → EPI-N25-SEKAI-E0170` records a black-covered Empty lake tree, four unresponsive bodies, singer song contact and observed larger tree with the covering gone; shard origin and mechanism are unproved, and the earlier possible key remains untested. Kanade/Mafuyu/Ena/Mizuki and six local singers receive distinct I2. Airi/Shizuku/Rui have ordinary monthly I1; scenario Airi/Rui are not actual recipients. Leo/need/VBS I0. The verified envelope is 29 stories / 77 scenes / 1,726 records; five monthly rows carry anomalous 2023 release metadata. No actual recovery of Kanade's father, Mafuyu family reconciliation, changed school or career paths, guaranteed future rescue, beneficial-suffering rule, public SEKAI knowledge or complete reconstruction is certified. The boundary advances EVENT_0169 to EVENT_0170 and closes the authorized source-present EVENT_0116–0170 sequence (EVENT_0166 absent).
+
+Causal home: [EVENT_0170 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0170_DEEP_READING.md). All five human-unit dispositions, routing and six longitudinal ledgers are synchronized. Reconstruction generation 1 remains cut off at EVENT_0140; any later source reading requires a new authorized boundary.
+
+### Historical coverage — EVENT_0169 forward transaction
 
 **EVENT_0169 is fully integrated:** scoped `VBS-REL-GROUP-E0163 → VBS-REL-GROUP-E0169` records the actual New York experience, direct observation of Ken–Taiga's RaveN set, the quartet's shared definition of a worldwide audience-facing goal and a conditional RUSH BEATS route to Lasting ECHO Fes. Kohane's illys improvisation and particular later recognition, Embers' reported RADder inheritance and renewed rivalry, An's Nagi-directed wish, Toya/Akito's differentiated response and discreet Street-singer care remain bounded I2. Leo/need/MMJ/WxS/N25 receive I0 for unit-state change; gift ideas do not prove delivery. The verified envelope is 24 stories / 39 scenes / 1,414 records; one monthly row has anomalous 2023 release metadata. No completed tournament entry or win, festival set, audited mass attendance, new SEKAI stadium, public SEKAI knowledge or complete reconstruction is certified. The boundary advances EVENT_0168 to EVENT_0169. EVENT_0170 is next; one source-present event remains.
 

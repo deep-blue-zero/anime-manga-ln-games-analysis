@@ -62,3 +62,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0161 — Unreliable Notes](PJSK_EVENT_0161_DEEP_READING.md): complete 25-story envelope; Mafuyu chooses a conditional mother-conversation with Kanade present after partial, conflicting memories and a Kanade overwork collapse. The mother's question and scarf reopen possible contact without certifying direct repair.
 
 - [EVENT_0165 — そして、針は動き出す](PJSK_EVENT_0165_DEEP_READING.md): complete 24-story envelope; an actual apology and trial home return coexist with renewed indirect pressure and guilt-driven silence, then a return to Kanade's refuge. The possible Empty-SEKAI lake-door key remains untested.
+
+- [EVENT_0170 — 泡沫に抱かれて](PJSK_EVENT_0170_DEEP_READING.md): complete 29-story World Link envelope; four shared possible lives without Nightcord converge through Kanade's song and direct contact, followed by actual four-person recommitment and an observed change in the Empty lake tree. The alternate family, school, art and fashion paths are not present biography; singer contact and shard cause stay bounded.
