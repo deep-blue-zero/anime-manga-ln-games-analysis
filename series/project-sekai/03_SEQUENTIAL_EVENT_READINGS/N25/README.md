@@ -1,0 +1,66 @@
+---
+series: PJSK
+artifact_type: event_reading_index
+scope: SEQUENTIAL_EVENT_READINGS_N25_INDEX
+generation: V1_2026_09_19
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Nightcord at 25:00
+
+This directory contains complete-envelope Nightcord event readings and bounded N25 integration checkpoints. Current authority is defined by the project corpus map, routing ledger, coverage ledger, and six longitudinal ledgers; this file is a navigation index.
+
+## Existing readings and checkpoints
+
+- [PJSK_EVENT_0002_DEEP_READING](PJSK_EVENT_0002_DEEP_READING.md)
+- [PJSK_EVENT_0014_DEEP_READING](PJSK_EVENT_0014_DEEP_READING.md)
+- [PJSK_EVENT_0019_DEEP_READING](PJSK_EVENT_0019_DEEP_READING.md)
+- [PJSK_EVENT_0022_DEEP_READING](PJSK_EVENT_0022_DEEP_READING.md)
+- [PJSK_EVENT_0026_DEEP_READING](PJSK_EVENT_0026_DEEP_READING.md)
+- [PJSK_EVENT_0029_N25_INTEGRATION_CHECKPOINT](PJSK_EVENT_0029_N25_INTEGRATION_CHECKPOINT.md)
+- [PJSK_EVENT_0033_N25_INTEGRATION_CHECKPOINT](PJSK_EVENT_0033_N25_INTEGRATION_CHECKPOINT.md)
+- [PJSK_EVENT_0035_DEEP_READING](PJSK_EVENT_0035_DEEP_READING.md)
+- [PJSK_EVENT_0036_N25_INTEGRATION_CHECKPOINT](PJSK_EVENT_0036_N25_INTEGRATION_CHECKPOINT.md)
+- [PJSK_EVENT_0039_DEEP_READING](PJSK_EVENT_0039_DEEP_READING.md)
+- [PJSK_EVENT_0042_DEEP_READING](PJSK_EVENT_0042_DEEP_READING.md)
+- [PJSK_EVENT_0045_N25_INTEGRATION_CHECKPOINT](PJSK_EVENT_0045_N25_INTEGRATION_CHECKPOINT.md)
+- [PJSK_EVENT_0047_DEEP_READING](PJSK_EVENT_0047_DEEP_READING.md)
+- [PJSK_EVENT_0051_N25_INTEGRATION_CHECKPOINT](PJSK_EVENT_0051_N25_INTEGRATION_CHECKPOINT.md)
+- [PJSK_EVENT_0053_DEEP_READING](PJSK_EVENT_0053_DEEP_READING.md)
+- [PJSK_EVENT_0054_DEEP_READING__drive_1-E9yURU_EhmTnWqh0XqmcZ6hLLAHCSDLdsTWF_KeMlA](PJSK_EVENT_0054_DEEP_READING__drive_1-E9yURU_EhmTnWqh0XqmcZ6hLLAHCSDLdsTWF_KeMlA.md)
+- [PJSK_EVENT_0054_DEEP_READING](PJSK_EVENT_0054_DEEP_READING.md)
+- [PJSK_EVENT_0058_DEEP_READING](PJSK_EVENT_0058_DEEP_READING.md)
+- [PJSK_EVENT_0061_DEEP_READING](PJSK_EVENT_0061_DEEP_READING.md)
+- [PJSK_EVENT_0063_DEEP_READING](PJSK_EVENT_0063_DEEP_READING.md)
+- [PJSK_EVENT_0068_DEEP_READING](PJSK_EVENT_0068_DEEP_READING.md)
+- [PJSK_EVENT_0070_DEEP_READING](PJSK_EVENT_0070_DEEP_READING.md)
+- [PJSK_EVENT_0072_DEEP_READING](PJSK_EVENT_0072_DEEP_READING.md)
+- [PJSK_EVENT_0077_DEEP_READING](PJSK_EVENT_0077_DEEP_READING.md)
+- [PJSK_EVENT_0089_DEEP_READING](PJSK_EVENT_0089_DEEP_READING.md)
+
+- [EVENT_0093 — Our Escape for Survival](PJSK_EVENT_0093_DEEP_READING.md): complete 25-story envelope; new `MZ-E0093-01` records Mizuki's bounded survival-retreat method, new `REL-FAMILY-MAFUYU-MOTHER-E0093` records material restriction and fear-bound resistance, and scoped `EPI-N25-MF-E0093` / `EPI-N25-G-E0093` preserve receipt boundaries while `REL-N25-MZM-3` and `REL-N25-G-7` remain strong I2.
+
+- [EVENT_0100 — 仮面の私にさよならを](PJSK_EVENT_0100_DEEP_READING.md): complete 23-story envelope; `MF-E0100-01`, `REL-FAMILY-MAFUYU-MOTHER-E0100`, `REL-N25-KM-E0100`, and `REL-N25-VS-KAITO-GROUP-E0100` are distinct I3 successors; N25 group, Mizuki, Miku, and Kanade human authority are preserved at strong I2.
+
+- [EVENT_0112 — 水底に影を探して](PJSK_EVENT_0112_DEEP_READING.md): complete 30-story World Link envelope; Mafuyu advances from survival departure into shared identity search, the Empty SEKAI lake becomes a bounded material archive, and Honami–Mafuyu domestic support begins at I2.
+
+- [EVENT_0116 — あの日、奏でた音色を](PJSK_EVENT_0116_DEEP_READING.md): complete 28-story envelope; Kanade permits and enacts personal longing beside unresolved rescue duty, with bounded Kanade–father I3 and Mafuyu–father I2 family states.
+
+- [EVENT_0117 — 変わらぬあたたかさの隣で](PJSK_EVENT_0117_DEEP_READING.md): complete 24-story envelope; Mizuki converts sister-supported self-authorship into a recipient-choice rule while disclosure and universal safety remain open.
+
+- [EVENT_0127 — Knowing the Unseen](PJSK_EVENT_0127_DEEP_READING.md): complete 27-story envelope; Ena reads her father's hidden artistic history, chooses life with painting, and receives bounded permission without reconciliation.
+
+- [EVENT_0134 — 灯を手繰りよせて](PJSK_EVENT_0134_DEEP_READING.md): complete 28-story envelope; mixed evidence supports Mafuyu's chosen disclosure and a reciprocal paternal alliance.
+
+- [EVENT_0145 — 荊棘の道は何処へ](PJSK_EVENT_0145_DEEP_READING.md): complete 22-story envelope; Mizuki's chosen disclosure attempt is preempted by third-party exposure, advancing the Ena–Mizuki relation and its asymmetric knowledge into an unresolved rupture.
+
+- [EVENT_0150 — 傷だらけの手で、私達は](PJSK_EVENT_0150_DEEP_READING.md): complete 31-story envelope; Mizuki chooses a conditional return, Ena–Mizuki and group belonging repair without erasing fear, MEIKO's support becomes timing-aware, and Mizuki authors a bounded group disclosure whose exact wording remains withheld.
+
+- [EVENT_0161 — Unreliable Notes](PJSK_EVENT_0161_DEEP_READING.md): complete 25-story envelope; Mafuyu chooses a conditional mother-conversation with Kanade present after partial, conflicting memories and a Kanade overwork collapse. The mother's question and scarf reopen possible contact without certifying direct repair.
+
+- [EVENT_0165 — そして、針は動き出す](PJSK_EVENT_0165_DEEP_READING.md): complete 24-story envelope; an actual apology and trial home return coexist with renewed indirect pressure and guilt-driven silence, then a return to Kanade's refuge. The possible Empty-SEKAI lake-door key remains untested.
+
+- [EVENT_0170 — 泡沫に抱かれて](PJSK_EVENT_0170_DEEP_READING.md): complete 29-story World Link envelope; four shared possible lives without Nightcord converge through Kanade's song and direct contact, followed by actual four-person recommitment and an observed change in the Empty lake tree. The alternate family, school, art and fashion paths are not present biography; singer contact and shard cause stay bounded.

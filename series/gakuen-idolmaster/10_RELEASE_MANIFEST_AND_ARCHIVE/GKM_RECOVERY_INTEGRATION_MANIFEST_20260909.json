@@ -1,0 +1,1120 @@
+{
+  "schema": "gkm/recovery-integration/v1",
+  "audit_date": "2026-09-09",
+  "reviewed_repository_base_commit": "e0d07a6cc4709d6e3be562a273b2a947b4ff0fe3",
+  "recovery_scope": "Recovered release-package support artifacts and historical provenance, not a new analytical pass.",
+  "original_named_support_targets": 33,
+  "original_named_targets_recovered_with_expected_sha256": 32,
+  "original_named_targets_not_found": 1,
+  "additional_current_dataset_correction": "Temari current-generation music JSON replaces the displaced predecessor JSON; predecessor JSON is preserved separately.",
+  "archive_policy": "ZIP payloads, media, image assets, full dialogue extracts, and Phase-1 source/work files remain external; only reviewed analytical prose, small structured support, and provenance enter Git.",
+  "text_derivative_policy": "Preserve source bytes unless the per-file receipt declares a transformation. No measurements recalculated. Saki source-dialogue text fields are omitted from two metric derivatives; source IDs, timing, and numerical values remain unchanged. The current Temari music filename uses Unicode NFC as required for repository JSON. Historical execution paths in source-probe metadata are provenance strings, not live retrieval instructions.",
+  "historical_checksum_policy": "Existing release checksum manifests remain unchanged. Their original package paths and hashes describe frozen releases; use these integration receipts for current repository destinations and byte identities.",
+  "archives": [
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE1_CONTINUITY_AND_STORY_STATE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE1_CONTINUITY_AND_STORY_STATE.zip"
+      ],
+      "bytes": 1405039,
+      "sha256": "1d970baf2407ee47e0f2eb4dc9fcd683283381640a3a60694a525ee7e6ec3baf",
+      "file_count": 46,
+      "crc_check": "PASS",
+      "kind": "phase1_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Canonical analytical artifacts already represented; 36 additional source/work files retained externally, including script-dialogue extracts and historical analysis scripts."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE2_SHARED_NARRATIVE_AND_INSTITUTIONAL_SPINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE2_SHARED_NARRATIVE_AND_INSTITUTIONAL_SPINE.zip"
+      ],
+      "bytes": 52759,
+      "sha256": "a444b7bb8d5e5ee271097bc6ca1a217855eb2ef2b5cb07052909472fe75b01c6",
+      "file_count": 9,
+      "crc_check": "PASS",
+      "kind": "phase2_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Represented historical release; retain current continuity revision and cumulative ledger state."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_CHINA_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_CHINA_CHARACTER_CORE.zip"
+      ],
+      "bytes": 151919,
+      "sha256": "1418074563be8e7424a22ab46cdca1ce9a4759f183c2cacfdf71b338522b36d6",
+      "file_count": 22,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_CHINA_INTEGRATED_AV_R1.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_CHINA_INTEGRATED_AV_R1.zip"
+      ],
+      "bytes": 185402,
+      "sha256": "329f228d6b23b9a6483f67535277091e03242fbcfc2bc5482094a0738d098cd5",
+      "file_count": 18,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_HIRO_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_HIRO_CHARACTER_CORE.zip"
+      ],
+      "bytes": 155531,
+      "sha256": "f50ecf0145b2cced7abea75551a4f1939e97f1875dd54b7582a4a11f94a762f7",
+      "file_count": 22,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.zip"
+      ],
+      "bytes": 39813,
+      "sha256": "2b69f3bd5243864faf1314ced0fdea2142c25af4cc73e3b4a288ac8add0fdb3a",
+      "file_count": 11,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_KOTONE_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_KOTONE_CHARACTER_CORE.zip"
+      ],
+      "bytes": 127583,
+      "sha256": "eec6662c07d6f74536b62692fad9d51910cd8ad62e4ad98242b62429f0d92fb1",
+      "file_count": 21,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_KOTONE_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_KOTONE_COMPLETE_AUDIOVISUAL_BASELINE.zip"
+      ],
+      "bytes": 73915,
+      "sha256": "1536c19e575479685cace3da859fc67aa98ab207270628f667fd8e74b15d13de",
+      "file_count": 10,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_LILJA_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_LILJA_CHARACTER_CORE.zip"
+      ],
+      "bytes": 129983,
+      "sha256": "8b28d8a806763472826b800c2a0e5b34f749c86154cf5a251a82036ac81dadd2",
+      "file_count": 21,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip"
+      ],
+      "bytes": 78522,
+      "sha256": "9218bf3fede11e5280985ab2af38a42e374099b9724d5036b8f41f79fb5cf4aa",
+      "file_count": 21,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Full owner-supplied R1 archive verified against its supplied outer sidecar; distinct from the 246-byte and 398-byte historical Drive wrappers."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_MAO_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_MAO_CHARACTER_CORE.zip"
+      ],
+      "bytes": 131234,
+      "sha256": "169016ff9c47e966bacef91df8c239e16ea3c5c8d6bb98d01b4fdfc4309ce7e7",
+      "file_count": 21,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip"
+      ],
+      "bytes": 85444,
+      "sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "file_count": 22,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_MISUZU_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_MISUZU_CHARACTER_CORE.zip"
+      ],
+      "bytes": 33421,
+      "sha256": "4c010d4952815d12f06b53530f142d23ff39a5aec72be303f8182c03ebaa90e5",
+      "file_count": 6,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_MISUZU_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_MISUZU_COMPLETE_AUDIOVISUAL_BASELINE.zip"
+      ],
+      "bytes": 35848,
+      "sha256": "b3d5e31561ffa2866a8eef0b2bc1133a630144415b670f3c767e23dc58886eba",
+      "file_count": 11,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_RINAMI_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_RINAMI_CHARACTER_CORE.zip"
+      ],
+      "bytes": 172456,
+      "sha256": "02f622bb220e9b3516136a9297409124435642ef5a3cd0fec05a98ebabf1d7dd",
+      "file_count": 23,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1.zip"
+      ],
+      "bytes": 89092,
+      "sha256": "1c83bd073ce78d66897c6a523f679602a94e6c01656cb5d2db958169c4e4730a",
+      "file_count": 23,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R2.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R2.zip"
+      ],
+      "bytes": 99527,
+      "sha256": "62603b68f5fc3dee9192d7c1e527046a9290c4375409874350d16ed40e8f9ea5",
+      "file_count": 28,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SAKI_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SAKI_CHARACTER_CORE.zip"
+      ],
+      "bytes": 103687,
+      "sha256": "0a25ae947148eb03668ae06687cd863a1aff8b357254ce9d7b89a65952f3a293",
+      "file_count": 19,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+        "saki-av-169572.zip"
+      ],
+      "bytes": 169572,
+      "sha256": "762df23bd4ea2d5820a213329cc85737f6acd9633f3877b46873efd0724ec70c",
+      "file_count": 26,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SENA_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SENA_CHARACTER_CORE.zip"
+      ],
+      "bytes": 38314,
+      "sha256": "c138ba92c5435ec83d5d812702ce311dac62036d378fafe76cf3f6e775464571",
+      "file_count": 6,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SENA_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SENA_COMPLETE_AUDIOVISUAL_BASELINE(1).zip"
+      ],
+      "bytes": 44934,
+      "sha256": "e3998c4792fd01e10416ca7f9aab4c94b8084094ed21c0885697e2aa3535a677",
+      "file_count": 11,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Exact current release; all 11 members already represented, including eight analytical bodies with documented import metadata transformations."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SENA_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SENA_COMPLETE_AUDIOVISUAL_BASELINE.zip"
+      ],
+      "bytes": 47031,
+      "sha256": "df5bc6ed3ecb9edde1453275adf58ee1e6dcba0802ae2f76010aa143df3ad961",
+      "file_count": 11,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Alternate collected release; not the exact current 44,934-byte archive."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_CHARACTER_CORE.zip"
+      ],
+      "bytes": 171193,
+      "sha256": "5ed646bb19772f7ed2168f50280d573a6ffbba0f88afa2054d5733f176207732",
+      "file_count": 22,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV.zip"
+      ],
+      "bytes": 39652,
+      "sha256": "6474328c4ddf04416cf3f30a70a3bab7af1eab4db0030beabfeb24c61f0b9c9c",
+      "file_count": 9,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip"
+      ],
+      "bytes": 67830,
+      "sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "file_count": 20,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_TEMARI_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_TEMARI_CHARACTER_CORE.zip"
+      ],
+      "bytes": 122672,
+      "sha256": "40b355004c1b176f39779303b60dbd33415a0bb88810d3132df7e22c86376a1b",
+      "file_count": 21,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip"
+      ],
+      "bytes": 119231,
+      "sha256": "ab99e59ef30f1af4ef2443779489d254735499803d8bcb255b23c8aa27e3bc90",
+      "file_count": 22,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Alternate collected release; not the current 131,808-byte archive used to restore metrics."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "temari-current-131808.zip"
+      ],
+      "bytes": 131808,
+      "sha256": "af05ee2c76b35e2d84344e2070fb24b84c0c26e6e44a835d6835cd94bc4206d7",
+      "file_count": 22,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Current release; restores dialogue metrics and the current music dataset. Existing current analytical Markdown retained."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "collected_names": [
+        "temari-historical-429394.zip"
+      ],
+      "bytes": 429394,
+      "sha256": "7656ee5e8fd5cdf4909da218f35138d8f074754b19cf04b282186656df727294",
+      "file_count": 25,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Distinct predecessor generation; restores its historical matrix without replacing current analysis."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_TSUBAME_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_TSUBAME_CHARACTER_CORE.zip"
+      ],
+      "bytes": 36032,
+      "sha256": "d154a8dab8471ef680c492c123ff2c9a108449bfb2415dfd943916f624978474",
+      "file_count": 6,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_TSUBAME_INTEGRATED_AV_R1.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_TSUBAME_INTEGRATED_AV_R1.zip"
+      ],
+      "bytes": 48959,
+      "sha256": "9bc28de319f4212d01159f5f5d9aa44a790087a0800cc286b6c8a7db72e17c35",
+      "file_count": 14,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_UME_CHARACTER_CORE.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_UME_CHARACTER_CORE.zip"
+      ],
+      "bytes": 32671,
+      "sha256": "ceb8a933bea43ea8b340420f0349cb067b55b623fdd7c0a53dc56294ad8b242f",
+      "file_count": 6,
+      "crc_check": "PASS",
+      "kind": "character_core",
+      "disposition": "external_archive_only",
+      "analytical_disposition": "Core reading and evidence matrix already represented; do not overwrite them with archive copies or historical ledger snapshots."
+    },
+    {
+      "archive_name": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1.zip",
+      "collected_names": [
+        "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1.zip"
+      ],
+      "bytes": 63969,
+      "sha256": "c149b763b2f010ed067f7549616ecaa38922dc6be1a09ceb49b88a1a09e97cba",
+      "file_count": 17,
+      "crc_check": "PASS",
+      "kind": "phase3_audiovisual_release",
+      "disposition": "external_archive_only"
+    },
+    {
+      "archive_name": "Temari-MusicalIdentity.zip",
+      "collected_names": [
+        "Temari-MusicalIdentity.zip"
+      ],
+      "bytes": 392080,
+      "sha256": "4e6fee824ffc8e931a1f7de594cac7debe00d74eddc23c3aef0863489ed95111",
+      "file_count": 12,
+      "crc_check": "PASS",
+      "kind": "mixed_generation_folder_export",
+      "disposition": "external_archive_only"
+    }
+  ],
+  "verified_supplied_sidecars": [
+    {
+      "filename": "GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip.sha256",
+      "bytes": 118,
+      "sha256": "e9450684c87a58c1835758ca3217c823940162a1cc41252c84c459a1ac9dddbd",
+      "expected_archive_sha256": "9218bf3fede11e5280985ab2af38a42e374099b9724d5036b8f41f79fb5cf4aa",
+      "archive_match": true
+    }
+  ],
+  "file_integrations": [
+    {
+      "character": "SAKI",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "source_archive_bytes": 169572,
+      "source_archive_sha256": "762df23bd4ea2d5820a213329cc85737f6acd9633f3877b46873efd0724ec70c",
+      "archive_member": "Gakuen_Idolmaster_Phase3_Saki_Complete_Audiovisual_Baseline_v1/00_README_AND_ARTIFACT_MAP.md",
+      "original_bytes": 2487,
+      "original_sha256": "c7f33178de45ed77f969d7ef516a6364221c25692faec3bcb0cd3df7f10db602",
+      "expected_release_sha256": "c7f33178de45ed77f969d7ef516a6364221c25692faec3bcb0cd3df7f10db602",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [
+        "Label the recovered release guide historical and route to the current AV index; preserve its original body."
+      ],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/01_HANAMI_SAKI/00_README_AND_ARTIFACT_MAP.md",
+      "repository_bytes": 2695,
+      "repository_sha256": "1188a785f88c86bcbecbeee6b1e92a33a222e2424e5d3201a09c8bba65d857b1"
+    },
+    {
+      "character": "SAKI",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "source_archive_bytes": 169572,
+      "source_archive_sha256": "762df23bd4ea2d5820a213329cc85737f6acd9633f3877b46873efd0724ec70c",
+      "archive_member": "Gakuen_Idolmaster_Phase3_Saki_Complete_Audiovisual_Baseline_v1/02_EVIDENCE_AND_METRICS/dialogue_line_prosody.tsv",
+      "original_bytes": 65295,
+      "original_sha256": "758fec7bfe531710e3e4df2a8d9801702b3d92fb1d684bf4853cbbfac31a039e",
+      "expected_release_sha256": "758fec7bfe531710e3e4df2a8d9801702b3d92fb1d684bf4853cbbfac31a039e",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [
+        "Remove source-dialogue text column from all 212 line records; retain all other columns and values; normalize TSV line endings from CRLF to LF."
+      ],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/01_HANAMI_SAKI/SUPPORTING_DATA/dialogue_line_prosody.tsv",
+      "repository_bytes": 51749,
+      "repository_sha256": "2cbf1d40dfab2dc8221c293206f55ec1181c8022745fb2328da78179be7f35f5"
+    },
+    {
+      "character": "SAKI",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "source_archive_bytes": 169572,
+      "source_archive_sha256": "762df23bd4ea2d5820a213329cc85737f6acd9633f3877b46873efd0724ec70c",
+      "archive_member": "Gakuen_Idolmaster_Phase3_Saki_Complete_Audiovisual_Baseline_v1/02_EVIDENCE_AND_METRICS/dialogue_phase_prosody.tsv",
+      "original_bytes": 2571,
+      "original_sha256": "c9b5f8cdf6272bafe5d4d0d6ad1d9a1cfcbb99753539aaaffa8850f5b46609cb",
+      "expected_release_sha256": "c9b5f8cdf6272bafe5d4d0d6ad1d9a1cfcbb99753539aaaffa8850f5b46609cb",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [
+        "Normalize CRLF line endings to LF; preserve tabular fields and values."
+      ],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/01_HANAMI_SAKI/SUPPORTING_DATA/dialogue_phase_prosody.tsv",
+      "repository_bytes": 2550,
+      "repository_sha256": "fea4b4c4ad0340c1e3438d8189167d1d9b70ee076cd99785d98d3480bef8aae9"
+    },
+    {
+      "character": "SAKI",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "source_archive_bytes": 169572,
+      "source_archive_sha256": "762df23bd4ea2d5820a213329cc85737f6acd9633f3877b46873efd0724ec70c",
+      "archive_member": "Gakuen_Idolmaster_Phase3_Saki_Complete_Audiovisual_Baseline_v1/02_EVIDENCE_AND_METRICS/dialogue_prosody.json",
+      "original_bytes": 142265,
+      "original_sha256": "bf558c44ad2b0f3bff6ddde4b4d597cde01df0eb25ab828ce48cb216c47acc99",
+      "expected_release_sha256": "bf558c44ad2b0f3bff6ddde4b4d597cde01df0eb25ab828ce48cb216c47acc99",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [
+        "Remove source-dialogue text from all 212 line records; preserve all remaining fields, row order, phase records, and numerical values; serialize JSON as UTF-8/LF."
+      ],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/01_HANAMI_SAKI/SUPPORTING_DATA/dialogue_prosody.json",
+      "repository_bytes": 125332,
+      "repository_sha256": "35b0672e22b53dec68c1deb42cc518c31807ef6dae5c4f8df3db50526562f934"
+    },
+    {
+      "character": "SAKI",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "source_archive_bytes": 169572,
+      "source_archive_sha256": "762df23bd4ea2d5820a213329cc85737f6acd9633f3877b46873efd0724ec70c",
+      "archive_member": "Gakuen_Idolmaster_Phase3_Saki_Complete_Audiovisual_Baseline_v1/02_EVIDENCE_AND_METRICS/music_features.json",
+      "original_bytes": 13525,
+      "original_sha256": "599e229584fab682ca280c17a118455a3bc1b71026630aa040de9f4688908a14",
+      "expected_release_sha256": "599e229584fab682ca280c17a118455a3bc1b71026630aa040de9f4688908a14",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/01_HANAMI_SAKI/SUPPORTING_DATA/music_features.json",
+      "repository_bytes": 13525,
+      "repository_sha256": "599e229584fab682ca280c17a118455a3bc1b71026630aa040de9f4688908a14"
+    },
+    {
+      "character": "SAKI",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SAKI_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+      "source_archive_bytes": 169572,
+      "source_archive_sha256": "762df23bd4ea2d5820a213329cc85737f6acd9633f3877b46873efd0724ec70c",
+      "archive_member": "Gakuen_Idolmaster_Phase3_Saki_Complete_Audiovisual_Baseline_v1/02_EVIDENCE_AND_METRICS/music_features.tsv",
+      "original_bytes": 817,
+      "original_sha256": "6538c8e510431654f20ae5f6f04e8f016838b4c6ddf91d0126bcd571fdc3908d",
+      "expected_release_sha256": "6538c8e510431654f20ae5f6f04e8f016838b4c6ddf91d0126bcd571fdc3908d",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/01_HANAMI_SAKI/SUPPORTING_DATA/music_features.tsv",
+      "repository_bytes": 817,
+      "repository_sha256": "6538c8e510431654f20ae5f6f04e8f016838b4c6ddf91d0126bcd571fdc3908d"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "GKM_PHASE3_MAO_SOURCE_OBJECT_CHECKSUMS.sha256",
+      "original_bytes": 4019,
+      "original_sha256": "d1d5f419fa97308de2d7fb1e7bae6d32a711ffcad4af296607beb6a98336d9f5",
+      "expected_release_sha256": "d1d5f419fa97308de2d7fb1e7bae6d32a711ffcad4af296607beb6a98336d9f5",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/GKM_PHASE3_MAO_SOURCE_OBJECT_CHECKSUMS.sha256",
+      "repository_bytes": 4019,
+      "repository_sha256": "d1d5f419fa97308de2d7fb1e7bae6d32a711ffcad4af296607beb6a98336d9f5"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/GKM_PHASE3_MAO_DIALOGUE_SEGMENT_SOURCE_METRICS.json",
+      "original_bytes": 13838,
+      "original_sha256": "cd955f803564669e982aace16901d5d3500bec302a4f5f158d3d7f4757e721f4",
+      "expected_release_sha256": "cd955f803564669e982aace16901d5d3500bec302a4f5f158d3d7f4757e721f4",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/GKM_PHASE3_MAO_DIALOGUE_SEGMENT_SOURCE_METRICS.json",
+      "repository_bytes": 13838,
+      "repository_sha256": "cd955f803564669e982aace16901d5d3500bec302a4f5f158d3d7f4757e721f4"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/GKM_PHASE3_MAO_EBUR128_SOURCE_METRICS.json",
+      "original_bytes": 3535,
+      "original_sha256": "c50bbff039a400a8495b788a7493ba52d64e59ebca094e84c50da14302e52873",
+      "expected_release_sha256": "c50bbff039a400a8495b788a7493ba52d64e59ebca094e84c50da14302e52873",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/GKM_PHASE3_MAO_EBUR128_SOURCE_METRICS.json",
+      "repository_bytes": 3535,
+      "repository_sha256": "c50bbff039a400a8495b788a7493ba52d64e59ebca094e84c50da14302e52873"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/GKM_PHASE3_MAO_SONG_SOURCE_METRICS.json",
+      "original_bytes": 11791,
+      "original_sha256": "b980db7105c171a962f1a273ca1b7a2feb934b5fd25454611fd04a307494428f",
+      "expected_release_sha256": "b980db7105c171a962f1a273ca1b7a2feb934b5fd25454611fd04a307494428f",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/GKM_PHASE3_MAO_SONG_SOURCE_METRICS.json",
+      "repository_bytes": 11791,
+      "repository_sha256": "b980db7105c171a962f1a273ca1b7a2feb934b5fd25454611fd04a307494428f"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/GKM_PHASE3_MAO_VISUAL_SOURCE_METRICS.json",
+      "original_bytes": 5099,
+      "original_sha256": "9b89cade529e20a23c44526bf9ba8cc48bab2d6dc7b5bce9b77f0dfb4c4dbcd3",
+      "expected_release_sha256": "9b89cade529e20a23c44526bf9ba8cc48bab2d6dc7b5bce9b77f0dfb4c4dbcd3",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/GKM_PHASE3_MAO_VISUAL_SOURCE_METRICS.json",
+      "repository_bytes": 5099,
+      "repository_sha256": "9b89cade529e20a23c44526bf9ba8cc48bab2d6dc7b5bce9b77f0dfb4c4dbcd3"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/ebur128_metrics.json",
+      "original_bytes": 3806,
+      "original_sha256": "59c78843cfbe44404567ad3f465f7b9e3b525ac2c33fe9b22477035a783b5583",
+      "expected_release_sha256": "59c78843cfbe44404567ad3f465f7b9e3b525ac2c33fe9b22477035a783b5583",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/ebur128_metrics.json",
+      "repository_bytes": 3806,
+      "repository_sha256": "59c78843cfbe44404567ad3f465f7b9e3b525ac2c33fe9b22477035a783b5583"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/ffprobe_manifest.json",
+      "original_bytes": 28496,
+      "original_sha256": "786a5789c5317ef81471715594322adbb0cc5dd42c845139ef028c93711d5da1",
+      "expected_release_sha256": "786a5789c5317ef81471715594322adbb0cc5dd42c845139ef028c93711d5da1",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/ffprobe_manifest.json",
+      "repository_bytes": 28496,
+      "repository_sha256": "786a5789c5317ef81471715594322adbb0cc5dd42c845139ef028c93711d5da1"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/music_audio_metrics.json",
+      "original_bytes": 7496,
+      "original_sha256": "06c4abfb79e3a31eaaac0760de7f4986e27406019bcfb0b34d618138d50f27a9",
+      "expected_release_sha256": "06c4abfb79e3a31eaaac0760de7f4986e27406019bcfb0b34d618138d50f27a9",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/music_audio_metrics.json",
+      "repository_bytes": 7496,
+      "repository_sha256": "06c4abfb79e3a31eaaac0760de7f4986e27406019bcfb0b34d618138d50f27a9"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/scene_audio_proxies.json",
+      "original_bytes": 5868,
+      "original_sha256": "3ed7daca1cc2e6d30fbcac252214e8a539ee6c282a12f266acdeecfea4e50891",
+      "expected_release_sha256": "3ed7daca1cc2e6d30fbcac252214e8a539ee6c282a12f266acdeecfea4e50891",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/scene_audio_proxies.json",
+      "repository_bytes": 5868,
+      "repository_sha256": "3ed7daca1cc2e6d30fbcac252214e8a539ee6c282a12f266acdeecfea4e50891"
+    },
+    {
+      "character": "MAO",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_MAO_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 85444,
+      "source_archive_sha256": "a2b12fd75f1e289cc956ff7ac70a4987b5fb4bfe2e182c239f9d4cb3289b0c65",
+      "archive_member": "SUPPORTING_DATA/source_object_hashes.sha256",
+      "original_bytes": 2204,
+      "original_sha256": "7de2be40204d4d96feb32057255b6f7d176b1bd764f046265560bf9e53ab9fa5",
+      "expected_release_sha256": "7de2be40204d4d96feb32057255b6f7d176b1bd764f046265560bf9e53ab9fa5",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/SUPPORTING_DATA/source_object_hashes.sha256",
+      "repository_bytes": 2204,
+      "repository_sha256": "7de2be40204d4d96feb32057255b6f7d176b1bd764f046265560bf9e53ab9fa5"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "GKM_PHASE3_SUMIKA_AV_DRIVE_BACKPORT_MANIFEST.md",
+      "original_bytes": 1792,
+      "original_sha256": "19a4ca2afefa2564649ed0338f3f0373d42f22b625d71fa3db024ad791ce6fd0",
+      "expected_release_sha256": "19a4ca2afefa2564649ed0338f3f0373d42f22b625d71fa3db024ad791ce6fd0",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [
+        "Normalize supersedes and superseded_by from null to empty arrays for valid historical authority metadata; preserve the original body."
+      ],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/GKM_PHASE3_SUMIKA_AV_DRIVE_BACKPORT_MANIFEST.md",
+      "repository_bytes": 1788,
+      "repository_sha256": "2fbf2ec3f038d89435abd6f9b6d5895e3e963321ca23f068c1f7029b505ffcb0"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "SUPPORTING_DATA/SUMIKA_DEAR_028_037_DIRECT_UPLOAD.sha256",
+      "original_bytes": 184,
+      "original_sha256": "a2b2ff3815494d27095f0801f0dcb1185d2c4658b0d3c74d5fe4ec44d11dd328",
+      "expected_release_sha256": "a2b2ff3815494d27095f0801f0dcb1185d2c4658b0d3c74d5fe4ec44d11dd328",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/SUPPORTING_DATA/SUMIKA_DEAR_028_037_DIRECT_UPLOAD.sha256",
+      "repository_bytes": 184,
+      "repository_sha256": "a2b2ff3815494d27095f0801f0dcb1185d2c4658b0d3c74d5fe4ec44d11dd328"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "SUPPORTING_DATA/SUMIKA_DEAR_028_037_DIRECT_UPLOAD_FFPROBE.json",
+      "original_bytes": 8009,
+      "original_sha256": "e6f87f0fc9002959d4edd2e032791e0967c382def6b9ca563e8a40fa0621f269",
+      "expected_release_sha256": "e6f87f0fc9002959d4edd2e032791e0967c382def6b9ca563e8a40fa0621f269",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/SUPPORTING_DATA/SUMIKA_DEAR_028_037_DIRECT_UPLOAD_FFPROBE.json",
+      "repository_bytes": 8009,
+      "repository_sha256": "e6f87f0fc9002959d4edd2e032791e0967c382def6b9ca563e8a40fa0621f269"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "SUPPORTING_DATA/SUMIKA_DEAR_028_037_MIXED_SCENE_METRICS.json",
+      "original_bytes": 3779,
+      "original_sha256": "63b9fac2ed2c8203e24f973cad00187bbdcad0e05f790814f68f8f60b9b6c767",
+      "expected_release_sha256": "63b9fac2ed2c8203e24f973cad00187bbdcad0e05f790814f68f8f60b9b6c767",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/SUPPORTING_DATA/SUMIKA_DEAR_028_037_MIXED_SCENE_METRICS.json",
+      "repository_bytes": 3779,
+      "repository_sha256": "63b9fac2ed2c8203e24f973cad00187bbdcad0e05f790814f68f8f60b9b6c767"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "SUPPORTING_DATA/ebur128_metrics.json",
+      "original_bytes": 3095,
+      "original_sha256": "56fb14aa08458c1faaeafa99a5482ece7dacdf47f63cc41a98a1612521832a1a",
+      "expected_release_sha256": "56fb14aa08458c1faaeafa99a5482ece7dacdf47f63cc41a98a1612521832a1a",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/SUPPORTING_DATA/ebur128_metrics.json",
+      "repository_bytes": 3095,
+      "repository_sha256": "56fb14aa08458c1faaeafa99a5482ece7dacdf47f63cc41a98a1612521832a1a"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "SUPPORTING_DATA/ffprobe_manifest.json",
+      "original_bytes": 20929,
+      "original_sha256": "30724d0acb5282d4b5a514a022de0a9b754e3ba3dbebfa9edbafe243eacdb64b",
+      "expected_release_sha256": "30724d0acb5282d4b5a514a022de0a9b754e3ba3dbebfa9edbafe243eacdb64b",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/SUPPORTING_DATA/ffprobe_manifest.json",
+      "repository_bytes": 20929,
+      "repository_sha256": "30724d0acb5282d4b5a514a022de0a9b754e3ba3dbebfa9edbafe243eacdb64b"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "SUPPORTING_DATA/music_audio_metrics.json",
+      "original_bytes": 6253,
+      "original_sha256": "63cf7204ae332cee61e0991030eecdb9e87778c4923c7fa5becd6e67d06ba85b",
+      "expected_release_sha256": "63cf7204ae332cee61e0991030eecdb9e87778c4923c7fa5becd6e67d06ba85b",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/SUPPORTING_DATA/music_audio_metrics.json",
+      "repository_bytes": 6253,
+      "repository_sha256": "63cf7204ae332cee61e0991030eecdb9e87778c4923c7fa5becd6e67d06ba85b"
+    },
+    {
+      "character": "SUMIKA",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_SUMIKA_INTEGRATED_AV_R2.zip",
+      "source_archive_bytes": 67830,
+      "source_archive_sha256": "ba6ada36cbe45a69de810fcb71a48911c22284881e190076314009b2b972a4cc",
+      "archive_member": "SUPPORTING_DATA/visual_metrics_from_uniform_frames.json",
+      "original_bytes": 5504,
+      "original_sha256": "0123f362464793c329dd7640613c288e15384b416cb4c5569d7836f7c21bf4dc",
+      "expected_release_sha256": "0123f362464793c329dd7640613c288e15384b416cb4c5569d7836f7c21bf4dc",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/SUPPORTING_DATA/visual_metrics_from_uniform_frames.json",
+      "repository_bytes": 5504,
+      "repository_sha256": "0123f362464793c329dd7640613c288e15384b416cb4c5569d7836f7c21bf4dc"
+    },
+    {
+      "character": "UME",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1.zip",
+      "source_archive_bytes": 63969,
+      "source_archive_sha256": "c149b763b2f010ed067f7549616ecaa38922dc6be1a09ceb49b88a1a09e97cba",
+      "archive_member": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1/GKM_PHASE3_UME_AUDIO_ENVELOPE_METRICS.json",
+      "original_bytes": 12302,
+      "original_sha256": "3056d682816043aa27e07d4dd6651b5ec8d807c989b130d7b9f384c5c6522595",
+      "expected_release_sha256": "3056d682816043aa27e07d4dd6651b5ec8d807c989b130d7b9f384c5c6522595",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/10_HANAMI_UME/GKM_PHASE3_UME_AUDIO_ENVELOPE_METRICS.json",
+      "repository_bytes": 12302,
+      "repository_sha256": "3056d682816043aa27e07d4dd6651b5ec8d807c989b130d7b9f384c5c6522595"
+    },
+    {
+      "character": "UME",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1.zip",
+      "source_archive_bytes": 63969,
+      "source_archive_sha256": "c149b763b2f010ed067f7549616ecaa38922dc6be1a09ceb49b88a1a09e97cba",
+      "archive_member": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1/GKM_PHASE3_UME_AUDIO_ENVELOPE_METRICS.tsv",
+      "original_bytes": 4172,
+      "original_sha256": "50f5c86c5b49b54e9b183549d9a82f5e2231ddec8947fc69dfcf40b95e2514ad",
+      "expected_release_sha256": "50f5c86c5b49b54e9b183549d9a82f5e2231ddec8947fc69dfcf40b95e2514ad",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/10_HANAMI_UME/GKM_PHASE3_UME_AUDIO_ENVELOPE_METRICS.tsv",
+      "repository_bytes": 4172,
+      "repository_sha256": "50f5c86c5b49b54e9b183549d9a82f5e2231ddec8947fc69dfcf40b95e2514ad"
+    },
+    {
+      "character": "UME",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1.zip",
+      "source_archive_bytes": 63969,
+      "source_archive_sha256": "c149b763b2f010ed067f7549616ecaa38922dc6be1a09ceb49b88a1a09e97cba",
+      "archive_member": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1/GKM_PHASE3_UME_SONG_MIX_METRICS.json",
+      "original_bytes": 10081,
+      "original_sha256": "3628cce780f2329624ae6dd4412af646e825a97b9bbf6b0859f35bcb1ec63776",
+      "expected_release_sha256": "3628cce780f2329624ae6dd4412af646e825a97b9bbf6b0859f35bcb1ec63776",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/10_HANAMI_UME/GKM_PHASE3_UME_SONG_MIX_METRICS.json",
+      "repository_bytes": 10081,
+      "repository_sha256": "3628cce780f2329624ae6dd4412af646e825a97b9bbf6b0859f35bcb1ec63776"
+    },
+    {
+      "character": "UME",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1.zip",
+      "source_archive_bytes": 63969,
+      "source_archive_sha256": "c149b763b2f010ed067f7549616ecaa38922dc6be1a09ceb49b88a1a09e97cba",
+      "archive_member": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1/GKM_PHASE3_UME_SONG_MIX_METRICS.tsv",
+      "original_bytes": 5196,
+      "original_sha256": "7f968aea44178d7da1cba2cfe08936a3b55eea6aaccbda6d331c3e63838768e9",
+      "expected_release_sha256": "7f968aea44178d7da1cba2cfe08936a3b55eea6aaccbda6d331c3e63838768e9",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/10_HANAMI_UME/GKM_PHASE3_UME_SONG_MIX_METRICS.tsv",
+      "repository_bytes": 5196,
+      "repository_sha256": "7f968aea44178d7da1cba2cfe08936a3b55eea6aaccbda6d331c3e63838768e9"
+    },
+    {
+      "character": "UME",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1.zip",
+      "source_archive_bytes": 63969,
+      "source_archive_sha256": "c149b763b2f010ed067f7549616ecaa38922dc6be1a09ceb49b88a1a09e97cba",
+      "archive_member": "GAKUEN_IDOLMASTER_PHASE3_UME_INTEGRATED_AV_R1/GKM_PHASE3_UME_VISUAL_ENVELOPE_METRICS.json",
+      "original_bytes": 2419,
+      "original_sha256": "ce79b6293fe26b6aa2674d2fa68db80504e3a54510c3e0d8c6a0e9c9f14c9376",
+      "expected_release_sha256": "ce79b6293fe26b6aa2674d2fa68db80504e3a54510c3e0d8c6a0e9c9f14c9376",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/10_HANAMI_UME/GKM_PHASE3_UME_VISUAL_ENVELOPE_METRICS.json",
+      "repository_bytes": 2419,
+      "repository_sha256": "ce79b6293fe26b6aa2674d2fa68db80504e3a54510c3e0d8c6a0e9c9f14c9376"
+    },
+    {
+      "character": "TSUBAME",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_TSUBAME_INTEGRATED_AV_R1.zip",
+      "source_archive_bytes": 48959,
+      "source_archive_sha256": "9bc28de319f4212d01159f5f5d9aa44a790087a0800cc286b6c8a7db72e17c35",
+      "archive_member": "GKM_PHASE3_TSUBAME_AUDIO_ENVELOPE_METRICS.json",
+      "original_bytes": 7786,
+      "original_sha256": "cfc945d90b103358cebdf6ce1c3f1c6c50047a4955399e1c148f4098007cc18a",
+      "expected_release_sha256": "cfc945d90b103358cebdf6ce1c3f1c6c50047a4955399e1c148f4098007cc18a",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AUDIO_ENVELOPE_METRICS.json",
+      "repository_bytes": 7786,
+      "repository_sha256": "cfc945d90b103358cebdf6ce1c3f1c6c50047a4955399e1c148f4098007cc18a"
+    },
+    {
+      "character": "TSUBAME",
+      "source_archive": "GAKUEN_IDOLMASTER_PHASE3_TSUBAME_INTEGRATED_AV_R1.zip",
+      "source_archive_bytes": 48959,
+      "source_archive_sha256": "9bc28de319f4212d01159f5f5d9aa44a790087a0800cc286b6c8a7db72e17c35",
+      "archive_member": "GKM_PHASE3_TSUBAME_AUDIO_ENVELOPE_METRICS.tsv",
+      "original_bytes": 1860,
+      "original_sha256": "a1154e43bfe4bf316a4cf3770e236375d8749f2e1a219bdb168a36e171a9f277",
+      "expected_release_sha256": "a1154e43bfe4bf316a4cf3770e236375d8749f2e1a219bdb168a36e171a9f277",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/13_AMAYA_TSUBAME/GKM_PHASE3_TSUBAME_AUDIO_ENVELOPE_METRICS.tsv",
+      "repository_bytes": 1860,
+      "repository_sha256": "a1154e43bfe4bf316a4cf3770e236375d8749f2e1a219bdb168a36e171a9f277"
+    },
+    {
+      "character": "TEMARI",
+      "source_archive": "temari-current-131808.zip",
+      "source_archive_bytes": 131808,
+      "source_archive_sha256": "af05ee2c76b35e2d84344e2070fb24b84c0c26e6e44a835d6835cd94bc4206d7",
+      "archive_member": "release/01_METRICS_AND_PROVENANCE/GKM_TEMARI_DIALOGUE_SCENE_SIGNAL_METRICS.json",
+      "original_bytes": 26342,
+      "original_sha256": "0b73fb65d18669102a55cd24e6cebe67438fb9a361f142a3c2568bbe51aaf777",
+      "expected_release_sha256": "0b73fb65d18669102a55cd24e6cebe67438fb9a361f142a3c2568bbe51aaf777",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/02_TSUKIMURA_TEMARI/GKM_TEMARI_DIALOGUE_SCENE_SIGNAL_METRICS.json",
+      "repository_bytes": 26342,
+      "repository_sha256": "0b73fb65d18669102a55cd24e6cebe67438fb9a361f142a3c2568bbe51aaf777"
+    },
+    {
+      "character": "TEMARI",
+      "source_archive": "temari-current-131808.zip",
+      "source_archive_bytes": 131808,
+      "source_archive_sha256": "af05ee2c76b35e2d84344e2070fb24b84c0c26e6e44a835d6835cd94bc4206d7",
+      "archive_member": "release/01_METRICS_AND_PROVENANCE/GKM_TEMARI_MUSIC_SIGNAL_METRICS.json",
+      "original_bytes": 21189,
+      "original_sha256": "828cbe7f52230689ca9f342a86b1c7a3cffc4da7d6c91e181f05e8a28fc6b2a0",
+      "expected_release_sha256": "828cbe7f52230689ca9f342a86b1c7a3cffc4da7d6c91e181f05e8a28fc6b2a0",
+      "recovery_hash_verified": true,
+      "disposition": "analytical_support",
+      "transformations": [
+        "Normalize the decomposed Japanese character in record 13 source_filename to Unicode NFC for valid repository JSON; preserve every numerical value and all other bytes."
+      ],
+      "repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/02_TSUKIMURA_TEMARI/GKM_TEMARI_MUSIC_SIGNAL_METRICS.json",
+      "repository_bytes": 21186,
+      "repository_sha256": "bb03380149bff182affe05739e8965a454cc76e57b34706bee58e93d517f7251"
+    },
+    {
+      "character": "TEMARI",
+      "source_repository_path": "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/02_TSUKIMURA_TEMARI/GKM_TEMARI_MUSIC_SIGNAL_METRICS.json",
+      "source_commit": "e0d07a6cc4709d6e3be562a273b2a947b4ff0fe3",
+      "original_bytes": 14251,
+      "original_sha256": "013206af483ffb71da943427c2be082c5a952b6f6a29bbcf78f1bedc29e1c8e6",
+      "disposition": "preserved_predecessor",
+      "transformations": [],
+      "repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_MUSIC_SIGNAL_METRICS.json",
+      "repository_bytes": 14251,
+      "repository_sha256": "013206af483ffb71da943427c2be082c5a952b6f6a29bbcf78f1bedc29e1c8e6"
+    },
+    {
+      "character": "TEMARI",
+      "source_archive": "temari-historical-429394.zip",
+      "source_archive_bytes": 429394,
+      "source_archive_sha256": "7656ee5e8fd5cdf4909da218f35138d8f074754b19cf04b282186656df727294",
+      "archive_member": "analysis/GKM_TEMARI_AV_EVIDENCE_AND_METRICS_MATRIX.md",
+      "original_bytes": 12753,
+      "original_sha256": "9e625e20775f1698066c3ae0d40be9f1cfe2b4ee768402ff629d4f06d35b6fb5",
+      "expected_release_sha256": "9e625e20775f1698066c3ae0d40be9f1cfe2b4ee768402ff629d4f06d35b6fb5",
+      "recovery_hash_verified": true,
+      "disposition": "historical_support",
+      "transformations": [
+        "Label recovered predecessor matrix historical and identify its current successor; preserve its original body."
+      ],
+      "repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_AV_EVIDENCE_AND_METRICS_MATRIX.md",
+      "repository_bytes": 13028,
+      "repository_sha256": "f417aff8204624a5227685b50411aa4eed1b9312bfcfd9a4484a17a228377938"
+    },
+    {
+      "character": "TEMARI",
+      "source_repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_CORE_02_TSUKIMURA_TEMARI_AV_REVISION_ADDENDUM.md",
+      "source_commit": "e0d07a6cc4709d6e3be562a273b2a947b4ff0fe3",
+      "original_bytes": 7568,
+      "original_sha256": "01442196d7c2353f70cfcc2b242bcdae3177a3c1d074dabe2608997b1b9392e5",
+      "disposition": "historical_authority_correction",
+      "transformations": [
+        "Replace misleading current/canonical status with historical_legacy, retain original status as historical_release_status, add current-authority veto and exact successor path; preserve body bytes."
+      ],
+      "repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_CORE_02_TSUKIMURA_TEMARI_AV_REVISION_ADDENDUM.md",
+      "repository_bytes": 7819,
+      "repository_sha256": "fd31337e55f8542e9c417e25e2b00de3a387cccb37d2d334d910a16b4cc08343"
+    },
+    {
+      "character": "TEMARI",
+      "source_repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_PHASE3_TEMARI_AUDIOVISUAL_COMPLETION_REPORT.md",
+      "source_commit": "e0d07a6cc4709d6e3be562a273b2a947b4ff0fe3",
+      "original_bytes": 6776,
+      "original_sha256": "f76cc5312cfa4234652fc3b542ca718983ab7771f72e76dd33f5a58a84fb2644",
+      "disposition": "historical_authority_correction",
+      "transformations": [
+        "Replace misleading current/canonical status with historical_legacy, retain original status as historical_release_status, add current-authority veto and exact successor path; preserve body bytes."
+      ],
+      "repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_PHASE3_TEMARI_AUDIOVISUAL_COMPLETION_REPORT.md",
+      "repository_bytes": 7025,
+      "repository_sha256": "9892a1d2230a9d171c1391649549e05c6448b14584122bf8fe64c65685864033"
+    },
+    {
+      "character": "TEMARI",
+      "source_repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.md",
+      "source_commit": "e0d07a6cc4709d6e3be562a273b2a947b4ff0fe3",
+      "original_bytes": 47129,
+      "original_sha256": "7d0504e464f3601b1fec2bb50dcfbe5a871be2f5dc7cb099f9d1270ec6609489",
+      "disposition": "historical_authority_correction",
+      "transformations": [
+        "Replace misleading current/canonical status with historical_legacy, retain original status as historical_release_status, add current-authority veto and exact successor path; preserve body bytes."
+      ],
+      "repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.md",
+      "repository_bytes": 47372,
+      "repository_sha256": "a94bd1d7da6a3de83cc64ea8dae1b920856cb8ab7ac8f61205a788a82e0fe414"
+    },
+    {
+      "character": "TEMARI",
+      "source_repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md",
+      "source_commit": "e0d07a6cc4709d6e3be562a273b2a947b4ff0fe3",
+      "original_bytes": 16239,
+      "original_sha256": "ef249a20f74f01acd2b18dbea9d3a5f17aaaceba3603f1d74610a3bb4359d93b",
+      "disposition": "historical_authority_correction",
+      "transformations": [
+        "Replace misleading current/canonical status with historical_legacy, retain original status as historical_release_status, add current-authority veto and exact successor path; preserve body bytes."
+      ],
+      "repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md",
+      "repository_bytes": 16502,
+      "repository_sha256": "aba18fe4e39e2abd01d2c1ea6b9acbeda158cc0b693dfec78fe82fb107393dfb"
+    },
+    {
+      "character": "TEMARI",
+      "source_repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md",
+      "source_commit": "e0d07a6cc4709d6e3be562a273b2a947b4ff0fe3",
+      "original_bytes": 16324,
+      "original_sha256": "251615fd9b820f6bf0c58c708ca1685e496408f314be43fd475aa09813417432",
+      "disposition": "historical_authority_correction",
+      "transformations": [
+        "Replace misleading current/canonical status with historical_legacy, retain original status as historical_release_status, add current-authority veto and exact successor path; preserve body bytes."
+      ],
+      "repository_path": "series/gakuen-idolmaster/90 Legacy and Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md",
+      "repository_bytes": 16590,
+      "repository_sha256": "10782a39f8fa807c09a9290988d853b2383ba5ef24391d85dc934080e2012464"
+    }
+  ],
+  "unresolved_named_objects": [
+    {
+      "character": "Rinami",
+      "filename": "GKM_PHASE3_RINAMI_R2_HIGH_RESOLUTION_REINSPECTION_AUDIT.md",
+      "status": "NOT_FOUND_IN_INSPECTED_PACKAGES_OR_FOLDERS",
+      "disposition": "filename_or_routing_gap; existing R2 delivery audit and technical appendix cover its substantive responsibility; do not invent a recovered original"
+    }
+  ],
+  "prospective_rebuild_candidates": [
+    "Hiro",
+    "Misuzu"
+  ],
+  "rebuild_register": "series/gakuen-idolmaster/01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md",
+  "validation_scope": [
+    "Each imported archive member checked against its expected release SHA-256 where recorded.",
+    "All retained archive identities checked by outer SHA-256 and ZIP CRC.",
+    "Current Temari matrix comparison: 15 music rows and 12 selected dialogue rows agree at displayed precision.",
+    "All 212 Saki per-line records retain every non-dialogue field; numerical values are unchanged.",
+    "Five existing Temari predecessor Markdown bodies preserved byte-for-byte while authority metadata is corrected."
+  ],
+  "media_inspection_performed": false,
+  "metrics_regenerated": false,
+  "external_archives_uploaded_or_changed": false,
+  "reference_boundary": "This catalog identifies locally collected archive copies by name, length and hash. It adds no Drive-only locator and changes no existing Drive reference tuple or disposition. Existing frozen Drive references remain in provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md; collected archive originals remain external."
+}

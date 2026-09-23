@@ -778,6 +778,11 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_local_and_github_connector_author_and_committer_identities_are_exact(self) -> None:
         owner_identities = [
+            # The owner's former GitHub username remains an exact approved pair.
+            {
+                "name": "peipw",
+                "email": "50891441+peipw@users.noreply.github.com",
+            },
             {
                 "name": "deep-blue-zero",
                 "email": "50891441+peipw@users.noreply.github.com",
@@ -1400,6 +1405,9 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertFalse(any("SPEECH" in row["analytical_dimensions"] for row in mass_effect))
 
     def test_g6_source_provenance_closure_is_exact(self) -> None:
+        # G6 hashes bind the frozen migration, not later revisions of live policies.
+        migration_commit = self.scope["activation"]["candidate_commit"]
+        self.assertEqual(migration_commit, "01561d0c9398917c1329501b798733041ab17e98")
         expected_source_ids = {
             "11tzDCqbg6Twy6KlYyrnavpwSqkwRpnWD",
             "15aeSFNRTkpq7NJcFelnb_4dt4Gsb-92P",
@@ -1469,7 +1477,12 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 self.assertEqual(mapping["source_drive_ids"], plan["source_drive_ids"])
                 self.assertEqual(mapping["source_tuples"], result["source_tuples"])
                 self.assertEqual(mapping["source_tuples"], plan["source_tuples"])
-                data = (REPOSITORY_ROOT / mapping["git_path"]).read_bytes()
+                data = subprocess.check_output(
+                    [
+                        "git", "-C", str(REPOSITORY_ROOT), "show",
+                        f"{migration_commit}:{mapping['git_path']}",
+                    ]
+                )
                 self.assertEqual(len(data), mapping["git_bytes"])
                 self.assertEqual(hashlib.sha256(data).hexdigest(), mapping["git_sha256"])
 

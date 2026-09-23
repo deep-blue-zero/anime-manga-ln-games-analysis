@@ -1,0 +1,470 @@
+[
+  {
+    "target_id": "RINHA-AV-P0-001",
+    "asset_id": "RINHA-PKT-TEMARI-11-20",
+    "host": "ttmr",
+    "chapter": 15,
+    "crosswalk_id": "RINHA-XW-037",
+    "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_015.txt",
+    "original_name": "adv_dear_ttmr_015.txt",
+    "file": "ttmr_dear_015.txt",
+    "sha256": "23586fdeb4a74211476b3961119b5b6c70c69cbf290e0baf17d3df47f71ecc74",
+    "drive_id": "1BSwCH1G91C7fGJNWmAWeNYFGt6zCkJZS",
+    "rinha_message_commands": 18,
+    "message_count": 53,
+    "scene_review_envelope": {
+      "start": 1578,
+      "end": 1851,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 1722,
+      "end": 1847,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-002",
+    "asset_id": "RINHA-PKT-TEMARI-11-20",
+    "host": "ttmr",
+    "chapter": 16,
+    "crosswalk_id": "RINHA-XW-038",
+    "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_016.txt",
+    "original_name": "adv_dear_ttmr_016.txt",
+    "file": "ttmr_dear_016.txt",
+    "sha256": "b523309e6a93ffbbe927251f0a6558a7fbb01c682f1b232558dce6863848f369",
+    "drive_id": "1AXj_1O2FIZo6a1JBuGCvV6LRu7_K-5Ft",
+    "rinha_message_commands": 37,
+    "message_count": 74,
+    "scene_review_envelope": {
+      "start": 1847,
+      "end": 2223,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 1849,
+      "end": 2221,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-003",
+    "asset_id": "RINHA-PKT-TEMARI-11-20",
+    "host": "ttmr",
+    "chapter": 20,
+    "crosswalk_id": "RINHA-XW-041",
+    "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_020.txt",
+    "original_name": "adv_dear_ttmr_020.txt",
+    "file": "ttmr_dear_020.txt",
+    "sha256": "5db4dcf1d981a87ee6a956e68ed3a49e83004fa6e0989a538387d5ee4513ce41",
+    "drive_id": "1dFBwupvcYdRYM3rC4TJsdBAZ-eObUNKX",
+    "rinha_message_commands": 7,
+    "message_count": 57,
+    "scene_review_envelope": {
+      "start": 3053,
+      "end": 3355,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 3057,
+      "end": 3128,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-004",
+    "asset_id": "RINHA-PKT-MISUZU-11-20",
+    "host": "hmsz",
+    "chapter": 16,
+    "crosswalk_id": "RINHA-XW-061",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_016.txt",
+    "original_name": "adv_dear_hmsz_016.txt",
+    "file": "hmsz_dear_016.txt",
+    "sha256": "2444b6aebdc8e56e03ee47e59375d211f53b1b80e9ff6a3932cc22e42bd0d55a",
+    "drive_id": "1GWvpHsOnUnrDbnPUr1TCJZZAE_Pd0JYL",
+    "rinha_message_commands": 27,
+    "message_count": 80,
+    "scene_review_envelope": {
+      "start": 1224,
+      "end": 1636,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 1226,
+      "end": 1634,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-005",
+    "asset_id": "RINHA-PKT-MISUZU-21-27",
+    "host": "hmsz",
+    "chapter": 24,
+    "crosswalk_id": "RINHA-XW-069",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_024.txt",
+    "original_name": "adv_dear_hmsz_024.txt",
+    "file": "hmsz_dear_024.txt",
+    "sha256": "127b1c5a8e9a59813df52b98b036059080039c2bf5780b11c5007bb070fe539e",
+    "drive_id": "19OFRE5fbAzimUjzaaXL4nTVi3Yn_XjYy",
+    "rinha_message_commands": 27,
+    "message_count": 88,
+    "scene_review_envelope": {
+      "start": 941,
+      "end": 1394,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 943,
+      "end": 1393,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-006",
+    "asset_id": "RINHA-PKT-SAKI-21-27",
+    "host": "hski",
+    "chapter": 26,
+    "crosswalk_id": "RINHA-XW-083",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_026.txt",
+    "original_name": "adv_dear_hski_026.txt",
+    "file": "hski_dear_026.txt",
+    "sha256": "dc4b7d6b0f0b73acf83a80ec642b78380926e6f0efa6260f926924ee850fbe3b",
+    "drive_id": "17U5mFrm4HJSR3Bt0RhVipKmtovwNwbLy",
+    "rinha_message_commands": 26,
+    "message_count": 60,
+    "scene_review_envelope": {
+      "start": 1967,
+      "end": 2305,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 2020,
+      "end": 2183,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-007",
+    "asset_id": "RINHA-PKT-UME-21-27",
+    "host": "hume",
+    "chapter": 24,
+    "crosswalk_id": "RINHA-XW-097",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_024.txt",
+    "original_name": "adv_dear_hume_024.txt",
+    "file": "hume_dear_024.txt",
+    "sha256": "0145a75e3a5f07259f6ace55b9e556ab44a75735f342334ebf539d379d0af160",
+    "drive_id": "1ColBM57y25j9gCtiyinYap26eA8pMJLn",
+    "rinha_message_commands": 27,
+    "message_count": 95,
+    "scene_review_envelope": {
+      "start": 912,
+      "end": 1387,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 914,
+      "end": 1135,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-008",
+    "asset_id": "RINHA-PKT-SUPPORT-0097",
+    "host": "support",
+    "chapter": 1,
+    "crosswalk_id": "RINHA-XW-113",
+    "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_01.txt",
+    "original_name": "adv_csprt-3-0097_01.txt",
+    "file": "support_01.txt",
+    "sha256": "f7825e8a8cfc6421cadc691ecd76682f64a6e5729aab78c160d21bfd823c88fb",
+    "drive_id": "1opfVuQG5eH0WQyxafiN4wg4LYg7F1XwR",
+    "rinha_message_commands": 10,
+    "message_count": 19,
+    "scene_review_envelope": {
+      "start": 0,
+      "end": 98,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 0,
+      "end": 97,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-009",
+    "asset_id": "RINHA-PKT-SUPPORT-0097",
+    "host": "support",
+    "chapter": 2,
+    "crosswalk_id": "RINHA-XW-114",
+    "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_02.txt",
+    "original_name": "adv_csprt-3-0097_02.txt",
+    "file": "support_part_02.txt",
+    "sha256": "22f756b66ea65db0daa3a541ee86eb08ce6c630e9f35c2ce294de208b3834d81",
+    "drive_id": "1A5Oh-jkZllLIXHOuSy957sViS_FEPTsA",
+    "rinha_message_commands": 9,
+    "message_count": 19,
+    "scene_review_envelope": {
+      "start": 96,
+      "end": 197,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 97,
+      "end": 196,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-010",
+    "asset_id": "RINHA-PKT-SUPPORT-0097",
+    "host": "support",
+    "chapter": 3,
+    "crosswalk_id": "RINHA-XW-115",
+    "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_03.txt",
+    "original_name": "adv_csprt-3-0097_03.txt",
+    "file": "support_part_03.txt",
+    "sha256": "2463bed04e7af524bcd84452fb2ccd7f2be8746f41bd02bd6f1e969fa7b2b754",
+    "drive_id": "1SuWoz82omGlkyyP26rI36s9lsTCXx1tR",
+    "rinha_message_commands": 9,
+    "message_count": 20,
+    "scene_review_envelope": {
+      "start": 195,
+      "end": 280.95,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 196,
+      "end": 280.95,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P0-011",
+    "asset_id": "RINHA-PKT-EVENT-016",
+    "host": "event16",
+    "chapter": 3,
+    "crosswalk_id": "RINHA-XW-106",
+    "source_lock_path": "transcripts_raw/06_story_events/event_016/main-03.txt",
+    "original_name": "adv_event_016_main-03.txt",
+    "file": "event16_main-03.txt",
+    "sha256": "5cfa79a013c489e00dad4a366670023728b44689030682da4db64978e8c13fe0",
+    "drive_id": "1qyZc7i-SWk2aYak-AEkzxz09vOTiuHT9",
+    "rinha_message_commands": 5,
+    "message_count": 62,
+    "scene_review_envelope": {
+      "start": 612,
+      "end": 844,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 676,
+      "end": 716,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P1-001",
+    "asset_id": "RINHA-PKT-SAKI-11-20",
+    "host": "hski",
+    "chapter": 16,
+    "crosswalk_id": "RINHA-XW-079",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_016.txt",
+    "original_name": "adv_dear_hski_016.txt",
+    "file": "hski_dear_016.txt",
+    "sha256": "c0e662e0883cb0db4984879d8f18395196d41cb57a7623720b609b642f5c5db8",
+    "drive_id": "1ulfxYodRru_qozQyiBy1lfeZjtiOCF07",
+    "rinha_message_commands": 14,
+    "message_count": 55,
+    "scene_review_envelope": {
+      "start": 1030,
+      "end": 1212,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 1095,
+      "end": 1208,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P1-002",
+    "asset_id": "RINHA-PKT-SAKI-28-37",
+    "host": "hski",
+    "chapter": 34,
+    "crosswalk_id": "RINHA-XW-088",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_034.txt",
+    "original_name": "adv_dear_hski_034.txt",
+    "file": "hski_dear_034.txt",
+    "sha256": "27585dba06a965e5cf2238d46165613a3be8a42d659167deaa964dd732854b42",
+    "drive_id": "1DIilXfl_RompFzv9qDr2ImbRSI3SJjZa",
+    "rinha_message_commands": 16,
+    "message_count": 49,
+    "scene_review_envelope": {
+      "start": 2140,
+      "end": 2398,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 2165,
+      "end": 2345,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P1-003",
+    "asset_id": "RINHA-PKT-UME-11-20",
+    "host": "hume",
+    "chapter": 16,
+    "crosswalk_id": "RINHA-XW-093",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_016.txt",
+    "original_name": "adv_dear_hume_016.txt",
+    "file": "hume_dear_016.txt",
+    "sha256": "9cc9f3aa622a096411c6a5a464d4ecef2534353b7e1a68561c2bbb54877b9012",
+    "drive_id": "1OFHQMZD6k2nw3MHo8Dw_8lSMxX2x1LpB",
+    "rinha_message_commands": 16,
+    "message_count": 60,
+    "scene_review_envelope": {
+      "start": 1243,
+      "end": 1494,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 1350,
+      "end": 1490,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P1-004",
+    "asset_id": "RINHA-PKT-UME-28-37",
+    "host": "hume",
+    "chapter": 29,
+    "crosswalk_id": "RINHA-XW-100",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_029.txt",
+    "original_name": "adv_dear_hume_029.txt",
+    "file": "hume_dear_029.txt",
+    "sha256": "cc4f128cebd0990576bfe874bea639b5461c00db97e928b441d1b01f3b871168",
+    "drive_id": "1K3IDXSK7j9CSK-Of-Vo8Yzz9FEMW5cyU",
+    "rinha_message_commands": 22,
+    "message_count": 64,
+    "scene_review_envelope": {
+      "start": 299,
+      "end": 588,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 385,
+      "end": 575,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P1-005",
+    "asset_id": "RINHA-PKT-TEMARI-21-27",
+    "host": "ttmr",
+    "chapter": 24,
+    "crosswalk_id": "RINHA-XW-043",
+    "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_024.txt",
+    "original_name": "adv_dear_ttmr_024.txt",
+    "file": "ttmr_dear_024.txt",
+    "sha256": "c3c74d2d9e0d7f949a1b443ed6fc3fdffb0461eff917bee941291595f38a17a2",
+    "drive_id": "1Oy-6yUKwnGuba34ua1OygHLJ5TdVS9uB",
+    "rinha_message_commands": 32,
+    "message_count": 82,
+    "scene_review_envelope": {
+      "start": 939,
+      "end": 1347,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 967,
+      "end": 1344,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P1-006",
+    "asset_id": "RINHA-PKT-MISUZU-21-27",
+    "host": "hmsz",
+    "chapter": 23,
+    "crosswalk_id": "RINHA-XW-068",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_023.txt",
+    "original_name": "adv_dear_hmsz_023.txt",
+    "file": "hmsz_dear_023.txt",
+    "sha256": "596ca54931aa7ddfc8ddf4347ddfe7518eb66d0506817a64ecf8f057a367b5e8",
+    "drive_id": "15t9D1x7E59Rr6dw5VuQLGmoJi7bdOalJ",
+    "rinha_message_commands": 16,
+    "message_count": 60,
+    "scene_review_envelope": {
+      "start": 630,
+      "end": 945,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 632,
+      "end": 810,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  },
+  {
+    "target_id": "RINHA-AV-P1-007",
+    "asset_id": "RINHA-PKT-UME-11-20",
+    "host": "hume",
+    "chapter": 15,
+    "crosswalk_id": "RINHA-XW-092",
+    "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_015.txt",
+    "original_name": "adv_dear_hume_015.txt",
+    "file": "hume_dear_015.txt",
+    "sha256": "ab8be6280dcfb324486c6bf0d87a403714e3003a2f006e43b93c60f067d46945",
+    "drive_id": "1wTgxFltrO7hWh3q2B9Z775SBl-HAsRrv",
+    "rinha_message_commands": 17,
+    "message_count": 63,
+    "scene_review_envelope": {
+      "start": 975,
+      "end": 1250,
+      "precision": "conservative scene envelope with lead-in/out; caption anchors verified separately; not exact frame cut"
+    },
+    "measurement_window": {
+      "start": 1080,
+      "end": 1245,
+      "scope": "final mix around target discussion; not speaker-isolated or a word alignment"
+    },
+    "direct_listening_seconds": 0,
+    "continuous_motion_seconds": 0
+  }
+]

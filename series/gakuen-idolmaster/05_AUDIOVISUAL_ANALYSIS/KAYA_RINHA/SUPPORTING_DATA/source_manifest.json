@@ -1,0 +1,1154 @@
+{
+  "schema": "gkm.rinha.av.source_manifest.v1",
+  "release_id": "RINHA-AV-20260911",
+  "source_lock_commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+  "source_lock_revision": 32,
+  "source_objects": [
+    {
+      "asset_id": "RINHA-PKT-TEMARI-11-20",
+      "p0_targets": 3,
+      "p1_targets": 0,
+      "bytes": 204441527,
+      "duration_seconds": 3538.256689,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "av1",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "30/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "d5fbcd475b44d3a24937adcfb95a35f13cc69884cfa4e3a20b6634a815653b0f",
+      "stable_during_check": true,
+      "filename": "【学マス】月村手毬　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】月村手毬　親愛度１１～２０話【アイドルコミュ】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20241227",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=ykWmmcNIUGU",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P0-001",
+        "RINHA-AV-P0-002",
+        "RINHA-AV-P0-003"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-TEMARI-21-27",
+      "p0_targets": 0,
+      "p1_targets": 1,
+      "bytes": 200108342,
+      "duration_seconds": 2751.425306,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "av1",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "60/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "data",
+          "codec_name": "bin_data",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "58ccd70b84305aeea95f74a313baa39d0588604eff53174ea0b08ba691415a2e",
+      "stable_during_check": true,
+      "filename": "【学マス】月村手毬  親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】月村手毬  親愛度コミュ21～27話まとめ【STEP3】",
+        "artist": "学Pといっしょ",
+        "date": "20260116",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=wJsIBFy8BHw",
+        "genre": "Gaming",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 3:46～\n親愛度コミュ23話 8:07～\n親愛度コミュ24話 15:41～\n親愛度コミュ25話 22:25～\n親愛度コミュ26話 28:21～\n親愛度コミュ27話 36:42～\nED 42:42～\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 3:46～\n親愛度コミュ23話 8:07～\n親愛度コミュ24話 15:41～\n親愛度コミュ25話 22:25～\n親愛度コミュ26話 28:21～\n親愛度コミュ27話 36:42～\nED 42:42～\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P1-005"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-MISUZU-11-20",
+      "p0_targets": 1,
+      "p1_targets": 0,
+      "bytes": 235227290,
+      "duration_seconds": 2991.240998,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "60/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "data",
+          "codec_name": "bin_data",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 3,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "5b5ab02b99076f25cd428e381e5809392b31ae187c5f09788a2a468f11c70972",
+      "stable_during_check": true,
+      "filename": "秦谷美鈴 親愛度コミュ11～20話まとめ【学マス】-(720p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "秦谷美鈴  親愛度コミュ11～20話まとめ【学マス】",
+        "artist": "学Pといっしょ",
+        "genre": "Gaming",
+        "date": "20250630",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=tSpN7L8MlcQ",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【コミュ一覧】\n11話～ 0:00\n12話～ 4:02\n13話～ 8:56\n14話～ 12:18\n15話～ 16:31\n16話～ 20:26\n17話～ 27:14\n18話～ 33:07\n19話～ 36:17\n20話～ 40:28\nED～ 46:31\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#秦谷美鈴",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【コミュ一覧】\n11話～ 0:00\n12話～ 4:02\n13話～ 8:56\n14話～ 12:18\n15話～ 16:31\n16話～ 20:26\n17話～ 27:14\n18話～ 33:07\n19話～ 36:17\n20話～ 40:28\nED～ 46:31\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#秦谷美鈴"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P0-004"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-MISUZU-21-27",
+      "p0_targets": 1,
+      "p1_targets": 1,
+      "bytes": 296707894,
+      "duration_seconds": 2835.0,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "60000/1001",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "data",
+          "codec_name": "bin_data",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 3,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "5d78050758fecdf8b961926ee2f1dbdaa7bea9894983d378fff40585a5125763",
+      "stable_during_check": true,
+      "filename": "【学マス】 秦谷美鈴 親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】 秦谷美鈴  親愛度コミュ21～27話まとめ【STEP3】",
+        "artist": "学Pといっしょ",
+        "genre": "Gaming",
+        "date": "20260429",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=wt77y0MHvVU",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 5:10～\n親愛度コミュ23話 10:32～\n親愛度コミュ24話 15:43～\n親愛度コミュ25話 23:13～\n親愛度コミュ26話 29:30～\n親愛度コミュ27話 35:35～\nED 44:11～\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#秦谷美鈴",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 5:10～\n親愛度コミュ23話 10:32～\n親愛度コミュ24話 15:43～\n親愛度コミュ25話 23:13～\n親愛度コミュ26話 29:30～\n親愛度コミュ27話 35:35～\nED 44:11～\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#秦谷美鈴"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P0-005",
+        "RINHA-AV-P1-006"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-SAKI-11-20",
+      "p0_targets": 0,
+      "p1_targets": 1,
+      "bytes": 203675215,
+      "duration_seconds": 2029.354376,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "30/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "115e1784117431d29d3661082d1267b02b2f92738ad9c5accadf3b9bc581b836",
+      "stable_during_check": true,
+      "filename": "【学マス】花海咲季　親愛度１１～２０話【アイドルコミュ】-(1080p30).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】花海咲季　親愛度１１～２０話【アイドルコミュ】",
+        "artist": "学マスコミュ保管委員会",
+        "genre": "Gaming",
+        "date": "20241226",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=PixYgSHVB6o",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P1-001"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-SAKI-21-27",
+      "p0_targets": 1,
+      "p1_targets": 0,
+      "bytes": 249474759,
+      "duration_seconds": 2865.0,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "av1",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "60/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "data",
+          "codec_name": "bin_data",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "e1590e958abfa6af90374a296fb68ad48d1aee15a6999fda67f131caff676621",
+      "stable_during_check": true,
+      "filename": "【学マス】花海咲季  親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】花海咲季  親愛度コミュ21～27話まとめ【STEP3】",
+        "artist": "学Pといっしょ",
+        "date": "20260319",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=6HUInRWZbSE",
+        "genre": "Gaming",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n【動画内容】\n\n親愛度21話 0:00～\n親愛度22話 5:55～\n親愛度23話 10:10～\n親愛度24話 16:27～\n親愛度25話 23:06～\n親愛度26話 32:49～\n親愛度27話 38:24～\nED 44:36～\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#花海咲季",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n【動画内容】\n\n親愛度21話 0:00～\n親愛度22話 5:55～\n親愛度23話 10:10～\n親愛度24話 16:27～\n親愛度25話 23:06～\n親愛度26話 32:49～\n親愛度27話 38:24～\nED 44:36～\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#花海咲季"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P0-006"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-SAKI-28-37",
+      "p0_targets": 0,
+      "p1_targets": 1,
+      "bytes": 297177500,
+      "duration_seconds": 3498.875646,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "av1",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "60000/1001",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "6e12e01282f25cd5d25031e2f27c08b2e45f14e320fccc9d199c021c766588d6",
+      "stable_during_check": true,
+      "filename": "【学マス】 花海咲季 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】-(720p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】 花海咲季 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】",
+        "artist": "学Pといっしょ",
+        "date": "20260721",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=-BBPnY5r6b0",
+        "genre": "Gaming",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n『学園アイドルマスター（学マス）』とは？\n2024年に誕生した「アイドルマスター」シリーズの完全新作スマートフォン向けアプリゲームです。舞台は国内最大のアイドル養成学校「初星学園」。プレイヤーはプロデューサー科の学生となり、アイドル科の個性豊かでワケアリな候補生たちと二人三脚でトップアイドルを目指します！\n\n✨ ここが魅力！3つのポイント\n\n★奥深い「デッキ構築型ローグライク」\nレッスンやオーディションは、スキルカードを駆使してパラメーターを上げるターン制のカードゲーム形式。プレイするたびに手に入るカードや展開が変化するため、何度でも遊べる高い戦略性が持ち味です。\n\n★成長が目に見える圧巻の3Dライブ\nアイドルの育成度合い（パラメーター）によって、ライブ中の歌唱力やパフォーマンスのクオリティが実際に変化することがあります。スマホゲーム最高峰の美しい3Dグラフィックで描かれるライブシーンは必見！\n\n★1対1で向き合う濃厚なストーリー\n各アイドルにはそれぞれ「アイドルを目指す理由」や抱えている悩みがあります。プロデュースを通して彼女たちのパーソナリティに深く触れ、絆を深めていく濃厚なドラマが楽しめます。\n\n\n#学マス\n#花海咲季",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n『学園アイドルマスター（学マス）』とは？\n2024年に誕生した「アイドルマスター」シリーズの完全新作スマートフォン向けアプリゲームです。舞台は国内最大のアイドル養成学校「初星学園」。プレイヤーはプロデューサー科の学生となり、アイドル科の個性豊かでワケアリな候補生たちと二人三脚でトップアイドルを目指します！\n\n✨ ここが魅力！3つのポイント\n\n★奥深い「デッキ構築型ローグライク」\nレッスンやオーディションは、スキルカードを駆使してパラメーターを上げるターン制のカードゲーム形式。プレイするたびに手に入るカードや展開が変化するため、何度でも遊べる高い戦略性が持ち味です。\n\n★成長が目に見える圧巻の3Dライブ\nアイドルの育成度合い（パラメーター）によって、ライブ中の歌唱力やパフォーマンスのクオリティが実際に変化することがあります。スマホゲーム最高峰の美しい3Dグラフィックで描かれるライブシーンは必見！\n\n★1対1で向き合う濃厚なストーリー\n各アイドルにはそれぞれ「アイドルを目指す理由」や抱えている悩みがあります。プロデュースを通して彼女たちのパーソナリティに深く触れ、絆を深めていく濃厚なドラマが楽しめます。\n\n\n#学マス\n#花海咲季"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P1-002"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-UME-11-20",
+      "p0_targets": 0,
+      "p1_targets": 2,
+      "bytes": 394183385,
+      "duration_seconds": 2506.106485,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "30/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "2fd357e602e6411cc19a01e31b9981e2084fc3a479043fbe6750508bf079d384",
+      "stable_during_check": true,
+      "provenance_note": "New local 1080p copy; distinct from retained 720p Drive artifact. Source equivalence and exact scene alignment pending.",
+      "filename": "【学マス】花海佑芽　親愛度１１～２０話【アイドルコミュ】-(1080p30).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】花海佑芽　親愛度１１～２０話【アイドルコミュ】",
+        "artist": "学マスコミュ保管委員会",
+        "genre": "Gaming",
+        "date": "20241227",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=WfOg7LoKV_8",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P1-003",
+        "RINHA-AV-P1-007"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "new 1080p local materialization of the same named compilation; not byte-identical to historical AV-UME-013 720p and not an independent story source",
+      "historical_materialization": {
+        "source_id": "AV-UME-013",
+        "drive_id": "15bVizFZ9E9B-753sRleWPWl1rtZs4_yn",
+        "bytes": 251347768,
+        "sha256": "5b37e792d24be394fa48afb9e7b58e8f13c716216dc9898a349204b36e78fc93",
+        "identity_relation": "NOT_BYTE_IDENTICAL; no cross-edition audiovisual equivalence asserted"
+      }
+    },
+    {
+      "asset_id": "RINHA-PKT-UME-21-27",
+      "p0_targets": 1,
+      "p1_targets": 0,
+      "bytes": 932307967,
+      "duration_seconds": 2938.0,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "60/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "data",
+          "codec_name": "bin_data",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 3,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "c0f6e030b34dd557dcce1e443bbcb5f0387cb908987bf31a3e603734891c632b",
+      "stable_during_check": true,
+      "filename": "【学マス】花海佑芽  親愛度コミュ21～27話まとめ【STEP3】-(1080p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】花海佑芽  親愛度コミュ21～27話まとめ【STEP3】",
+        "artist": "学Pといっしょ",
+        "genre": "Gaming",
+        "date": "20260410",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=3n2bTR8U96Q",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 5:49～\n親愛度コミュ23話 10:04～\n親愛度コミュ24話 15:14～\n親愛度コミュ25話 23:05～\n親愛度コミュ26話 29:00～\n親愛度コミュ27話 37:16～\nED 45:51～\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#花海佑芽",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 5:49～\n親愛度コミュ23話 10:04～\n親愛度コミュ24話 15:14～\n親愛度コミュ25話 23:05～\n親愛度コミュ26話 29:00～\n親愛度コミュ27話 37:16～\nED 45:51～\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#花海佑芽"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P0-007"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-UME-28-37",
+      "p0_targets": 0,
+      "p1_targets": 1,
+      "bytes": 719302789,
+      "duration_seconds": 3335.128526,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "60000/1001",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "d4d9b9ccdfd8d30fe0c9b598f4dea78c012d883630a4c6f74ed97d85a870776e",
+      "stable_during_check": true,
+      "filename": "【学マス】 花海佑芽 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】-(1080p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】 花海佑芽 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】",
+        "artist": "学Pといっしょ",
+        "genre": "Gaming",
+        "date": "20260721",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=AGAEWcEHZJ4",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n『学園アイドルマスター（学マス）』とは？\n2024年に誕生した「アイドルマスター」シリーズの完全新作スマートフォン向けアプリゲームです。舞台は国内最大のアイドル養成学校「初星学園」。プレイヤーはプロデューサー科の学生となり、アイドル科の個性豊かでワケアリな候補生たちと二人三脚でトップアイドルを目指します！\n\n✨ ここが魅力！3つのポイント\n\n★奥深い「デッキ構築型ローグライク」\nレッスンやオーディションは、スキルカードを駆使してパラメーターを上げるターン制のカードゲーム形式。プレイするたびに手に入るカードや展開が変化するため、何度でも遊べる高い戦略性が持ち味です。\n\n★成長が目に見える圧巻の3Dライブ\nアイドルの育成度合い（パラメーター）によって、ライブ中の歌唱力やパフォーマンスのクオリティが実際に変化することがあります。スマホゲーム最高峰の美しい3Dグラフィックで描かれるライブシーンは必見！\n\n★1対1で向き合う濃厚なストーリー\n各アイドルにはそれぞれ「アイドルを目指す理由」や抱えている悩みがあります。プロデュースを通して彼女たちのパーソナリティに深く触れ、絆を深めていく濃厚なドラマが楽しめます。\n\n\n#学マス\n#花海佑芽",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n『学園アイドルマスター（学マス）』とは？\n2024年に誕生した「アイドルマスター」シリーズの完全新作スマートフォン向けアプリゲームです。舞台は国内最大のアイドル養成学校「初星学園」。プレイヤーはプロデューサー科の学生となり、アイドル科の個性豊かでワケアリな候補生たちと二人三脚でトップアイドルを目指します！\n\n✨ ここが魅力！3つのポイント\n\n★奥深い「デッキ構築型ローグライク」\nレッスンやオーディションは、スキルカードを駆使してパラメーターを上げるターン制のカードゲーム形式。プレイするたびに手に入るカードや展開が変化するため、何度でも遊べる高い戦略性が持ち味です。\n\n★成長が目に見える圧巻の3Dライブ\nアイドルの育成度合い（パラメーター）によって、ライブ中の歌唱力やパフォーマンスのクオリティが実際に変化することがあります。スマホゲーム最高峰の美しい3Dグラフィックで描かれるライブシーンは必見！\n\n★1対1で向き合う濃厚なストーリー\n各アイドルにはそれぞれ「アイドルを目指す理由」や抱えている悩みがあります。プロデュースを通して彼女たちのパーソナリティに深く触れ、絆を深めていく濃厚なドラマが楽しめます。\n\n\n#学マス\n#花海佑芽"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P1-004"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-SUPPORT-0097",
+      "p0_targets": 3,
+      "p1_targets": 0,
+      "bytes": 63877923,
+      "duration_seconds": 280.961451,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "60/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "a220476b589d4ad3b540b3d821b7bd2dbf64d6cbc842a2c94ddc2ff3c955b4f0",
+      "stable_during_check": true,
+      "filename": "【学マス】SSRサポカ『・・・騒々しいお祭りね』コミュまとめ-(1080p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】SSRサポカ『・・・騒々しいお祭りね』コミュまとめ",
+        "artist": "学Pといっしょ",
+        "genre": "Gaming",
+        "date": "20260516",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=2j4j7LwuQFk",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#賀陽燐羽\n#月村手毬",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#賀陽燐羽\n#月村手毬"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P0-008",
+        "RINHA-AV-P0-009",
+        "RINHA-AV-P0-010"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    },
+    {
+      "asset_id": "RINHA-PKT-EVENT-016",
+      "p0_targets": 1,
+      "p1_targets": 0,
+      "bytes": 470043974,
+      "duration_seconds": 1416.161814,
+      "streams": [
+        {
+          "index": 0,
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 996,
+          "height": 1920,
+          "avg_frame_rate": "60/1",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 1,
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 2,
+          "codec_type": "data",
+          "codec_name": "bin_data",
+          "width": null,
+          "height": null,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        },
+        {
+          "index": 3,
+          "codec_type": "video",
+          "codec_name": "png",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "0/0",
+          "sample_rate": null,
+          "channels": null
+        }
+      ],
+      "has_audio_and_video": true,
+      "sha256": "9c7f2f575c6a4a2e233f411441a9794cd168f2a28194c822d0bb934190798afb",
+      "stable_during_check": true,
+      "filename": "【学マス】イベントコミュ『仲良し？三人組の日常』全5話まとめ-(1920p60).mp4",
+      "embedded_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】イベントコミュ『仲良し？三人組の日常』全5話まとめ",
+        "artist": "天むすP",
+        "genre": "Gaming",
+        "date": "20250718",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=g8iEHYA5biU",
+        "description": "イベントコミュ『仲良し？三人組の日常』全5話をまとめました。\n\n◇あらすじ◇\n福引きでスポーツセンターのチケット10枚を当てた咲季。半分を佑芽に渡し、生徒会の友達と行くことを提案し、咲季は気分転換に手毬とことねを誘うのだった。\n\n▼1話　　　　\n0:00\n▼2話\n5:03\n▼3話\n10:14\n▼4話\n14:02\n▼5話\n19:11\n\n▼学マスダウンロードはこちらから！\n◇App Store\nhttps://apps.apple.com/jp/app/id6446659989?mt=8\n◇Google Play\nhttps://play.google.com/store/apps/details?id=com.bandainamcoent.idolmaster_gakuen\n\n▼公式サイト\nhttps://gakuen.idolmaster-official.jp\n▼公式X\nhttps://twitter.com/gkmas_official\n\n\n#学園アイドルマスター #学マス",
+        "synopsis": "イベントコミュ『仲良し？三人組の日常』全5話をまとめました。\n\n◇あらすじ◇\n福引きでスポーツセンターのチケット10枚を当てた咲季。半分を佑芽に渡し、生徒会の友達と行くことを提案し、咲季は気分転換に手毬とことねを誘うのだった。\n\n▼1話　　　　\n0:00\n▼2話\n5:03\n▼3話\n10:14\n▼4話\n14:02\n▼5話\n19:11\n\n▼学マスダウンロードはこちらから！\n◇App Store\nhttps://apps.apple.com/jp/app/id6446659989?mt=8\n◇Google Play\nhttps://play.google.com/store/apps/details?id=com.bandainamcoent.idolmaster_gakuen\n\n▼公式サイト\nhttps://gakuen.idolmaster-official.jp\n▼公式X\nhttps://twitter.com/gkmas_official\n\n\n#学園アイドルマスター #学マス"
+      },
+      "provenance_status": "local supplied recording; uploader/title/URL/date are embedded metadata, not independently verified web facts",
+      "scene_identity": "MATCHED_BY_JAPANESE_CAPTION_AND_SOURCE_LOCK_SCENE; not complete word alignment",
+      "target_ids": [
+        "RINHA-AV-P0-011"
+      ],
+      "video_stream": 0,
+      "audio_stream": 1,
+      "reuse": "same retained physical recording referenced by all mapped targets; no duplicate acquisition credited"
+    }
+  ],
+  "text_sources": [
+    {
+      "host": "ttmr",
+      "file": "ttmr_dear_015.txt",
+      "drive_id": "1BSwCH1G91C7fGJNWmAWeNYFGt6zCkJZS",
+      "expected_bytes": 157478,
+      "fetched_bytes": 157478,
+      "parent_ids": [
+        "1reXKgaSTbRbaPiW27xywwcNCLfxc_I7V"
+      ],
+      "modified_time": "2026-06-21T20:16:48.000Z",
+      "sha256": "23586fdeb4a74211476b3961119b5b6c70c69cbf290e0baf17d3df47f71ecc74",
+      "message_commands": 53,
+      "rinha_message_commands": 18,
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_015.txt",
+      "original_name": "adv_dear_ttmr_015.txt",
+      "manifest_message_count": 53,
+      "archive_sha256": "23586fdeb4a74211476b3961119b5b6c70c69cbf290e0baf17d3df47f71ecc74",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "ttmr",
+      "file": "ttmr_dear_016.txt",
+      "drive_id": "1AXj_1O2FIZo6a1JBuGCvV6LRu7_K-5Ft",
+      "expected_bytes": 253351,
+      "fetched_bytes": 253351,
+      "parent_ids": [
+        "1reXKgaSTbRbaPiW27xywwcNCLfxc_I7V"
+      ],
+      "modified_time": "2026-06-21T20:16:48.000Z",
+      "sha256": "b523309e6a93ffbbe927251f0a6558a7fbb01c682f1b232558dce6863848f369",
+      "message_commands": 74,
+      "rinha_message_commands": 37,
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_016.txt",
+      "original_name": "adv_dear_ttmr_016.txt",
+      "manifest_message_count": 74,
+      "archive_sha256": "b523309e6a93ffbbe927251f0a6558a7fbb01c682f1b232558dce6863848f369",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "ttmr",
+      "file": "ttmr_dear_020.txt",
+      "drive_id": "1dFBwupvcYdRYM3rC4TJsdBAZ-eObUNKX",
+      "expected_bytes": 184825,
+      "fetched_bytes": 184825,
+      "parent_ids": [
+        "1reXKgaSTbRbaPiW27xywwcNCLfxc_I7V"
+      ],
+      "modified_time": "2026-06-21T20:16:48.000Z",
+      "sha256": "5db4dcf1d981a87ee6a956e68ed3a49e83004fa6e0989a538387d5ee4513ce41",
+      "message_commands": 57,
+      "rinha_message_commands": 7,
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_020.txt",
+      "original_name": "adv_dear_ttmr_020.txt",
+      "manifest_message_count": 57,
+      "archive_sha256": "5db4dcf1d981a87ee6a956e68ed3a49e83004fa6e0989a538387d5ee4513ce41",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "ttmr",
+      "file": "ttmr_dear_024.txt",
+      "drive_id": "1Oy-6yUKwnGuba34ua1OygHLJ5TdVS9uB",
+      "expected_bytes": 403497,
+      "fetched_bytes": 403497,
+      "parent_ids": [
+        "1reXKgaSTbRbaPiW27xywwcNCLfxc_I7V"
+      ],
+      "modified_time": "2026-06-21T20:16:48.000Z",
+      "sha256": "c3c74d2d9e0d7f949a1b443ed6fc3fdffb0461eff917bee941291595f38a17a2",
+      "message_commands": 82,
+      "rinha_message_commands": 32,
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_024.txt",
+      "original_name": "adv_dear_ttmr_024.txt",
+      "manifest_message_count": 82,
+      "archive_sha256": "c3c74d2d9e0d7f949a1b443ed6fc3fdffb0461eff917bee941291595f38a17a2",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hmsz",
+      "file": "hmsz_dear_016.txt",
+      "drive_id": "1GWvpHsOnUnrDbnPUr1TCJZZAE_Pd0JYL",
+      "expected_bytes": 180178,
+      "fetched_bytes": 180178,
+      "parent_ids": [
+        "1viY-S5AiP5WCsli85SvTg1zMN-ltKir6"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "2444b6aebdc8e56e03ee47e59375d211f53b1b80e9ff6a3932cc22e42bd0d55a",
+      "message_commands": 80,
+      "rinha_message_commands": 27,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_016.txt",
+      "original_name": "adv_dear_hmsz_016.txt",
+      "manifest_message_count": 80,
+      "archive_sha256": "2444b6aebdc8e56e03ee47e59375d211f53b1b80e9ff6a3932cc22e42bd0d55a",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hmsz",
+      "file": "hmsz_dear_023.txt",
+      "drive_id": "15t9D1x7E59Rr6dw5VuQLGmoJi7bdOalJ",
+      "expected_bytes": 264227,
+      "fetched_bytes": 264227,
+      "parent_ids": [
+        "1viY-S5AiP5WCsli85SvTg1zMN-ltKir6"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "596ca54931aa7ddfc8ddf4347ddfe7518eb66d0506817a64ecf8f057a367b5e8",
+      "message_commands": 60,
+      "rinha_message_commands": 16,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_023.txt",
+      "original_name": "adv_dear_hmsz_023.txt",
+      "manifest_message_count": 60,
+      "archive_sha256": "596ca54931aa7ddfc8ddf4347ddfe7518eb66d0506817a64ecf8f057a367b5e8",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hmsz",
+      "file": "hmsz_dear_024.txt",
+      "drive_id": "19OFRE5fbAzimUjzaaXL4nTVi3Yn_XjYy",
+      "expected_bytes": 390006,
+      "fetched_bytes": 390006,
+      "parent_ids": [
+        "1viY-S5AiP5WCsli85SvTg1zMN-ltKir6"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "127b1c5a8e9a59813df52b98b036059080039c2bf5780b11c5007bb070fe539e",
+      "message_commands": 88,
+      "rinha_message_commands": 27,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_024.txt",
+      "original_name": "adv_dear_hmsz_024.txt",
+      "manifest_message_count": 88,
+      "archive_sha256": "127b1c5a8e9a59813df52b98b036059080039c2bf5780b11c5007bb070fe539e",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hski",
+      "file": "hski_dear_034.txt",
+      "drive_id": "1DIilXfl_RompFzv9qDr2ImbRSI3SJjZa",
+      "expected_bytes": 252653,
+      "fetched_bytes": 252653,
+      "parent_ids": [
+        "17MBVDZHONe0ngT0p8uqn5raurK5C_FyG"
+      ],
+      "modified_time": "2026-07-27T02:51:32.000Z",
+      "sha256": "27585dba06a965e5cf2238d46165613a3be8a42d659167deaa964dd732854b42",
+      "message_commands": 49,
+      "rinha_message_commands": 16,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_034.txt",
+      "original_name": "adv_dear_hski_034.txt",
+      "manifest_message_count": 49,
+      "archive_sha256": "27585dba06a965e5cf2238d46165613a3be8a42d659167deaa964dd732854b42",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hski",
+      "file": "hski_dear_016.txt",
+      "drive_id": "1ulfxYodRru_qozQyiBy1lfeZjtiOCF07",
+      "expected_bytes": 187131,
+      "fetched_bytes": 187131,
+      "parent_ids": [
+        "17MBVDZHONe0ngT0p8uqn5raurK5C_FyG"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "c0e662e0883cb0db4984879d8f18395196d41cb57a7623720b609b642f5c5db8",
+      "message_commands": 55,
+      "rinha_message_commands": 14,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_016.txt",
+      "original_name": "adv_dear_hski_016.txt",
+      "manifest_message_count": 55,
+      "archive_sha256": "c0e662e0883cb0db4984879d8f18395196d41cb57a7623720b609b642f5c5db8",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hski",
+      "file": "hski_dear_026.txt",
+      "drive_id": "17U5mFrm4HJSR3Bt0RhVipKmtovwNwbLy",
+      "expected_bytes": 269982,
+      "fetched_bytes": 269982,
+      "parent_ids": [
+        "17MBVDZHONe0ngT0p8uqn5raurK5C_FyG"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "dc4b7d6b0f0b73acf83a80ec642b78380926e6f0efa6260f926924ee850fbe3b",
+      "message_commands": 60,
+      "rinha_message_commands": 26,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_026.txt",
+      "original_name": "adv_dear_hski_026.txt",
+      "manifest_message_count": 60,
+      "archive_sha256": "dc4b7d6b0f0b73acf83a80ec642b78380926e6f0efa6260f926924ee850fbe3b",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hume",
+      "file": "hume_dear_029.txt",
+      "drive_id": "1K3IDXSK7j9CSK-Of-Vo8Yzz9FEMW5cyU",
+      "expected_bytes": 286508,
+      "fetched_bytes": 286508,
+      "parent_ids": [
+        "1_uVaeuFP8il2XBorWoEMxpu89VL4ESL0"
+      ],
+      "modified_time": "2026-07-27T02:51:32.000Z",
+      "sha256": "cc4f128cebd0990576bfe874bea639b5461c00db97e928b441d1b01f3b871168",
+      "message_commands": 64,
+      "rinha_message_commands": 22,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_029.txt",
+      "original_name": "adv_dear_hume_029.txt",
+      "manifest_message_count": 64,
+      "archive_sha256": "cc4f128cebd0990576bfe874bea639b5461c00db97e928b441d1b01f3b871168",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hume",
+      "file": "hume_dear_015.txt",
+      "drive_id": "1wTgxFltrO7hWh3q2B9Z775SBl-HAsRrv",
+      "expected_bytes": 174837,
+      "fetched_bytes": 174837,
+      "parent_ids": [
+        "1_uVaeuFP8il2XBorWoEMxpu89VL4ESL0"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "ab8be6280dcfb324486c6bf0d87a403714e3003a2f006e43b93c60f067d46945",
+      "message_commands": 63,
+      "rinha_message_commands": 17,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_015.txt",
+      "original_name": "adv_dear_hume_015.txt",
+      "manifest_message_count": 63,
+      "archive_sha256": "ab8be6280dcfb324486c6bf0d87a403714e3003a2f006e43b93c60f067d46945",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hume",
+      "file": "hume_dear_016.txt",
+      "drive_id": "1OFHQMZD6k2nw3MHo8Dw_8lSMxX2x1LpB",
+      "expected_bytes": 131988,
+      "fetched_bytes": 131988,
+      "parent_ids": [
+        "1_uVaeuFP8il2XBorWoEMxpu89VL4ESL0"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "9cc9f3aa622a096411c6a5a464d4ecef2534353b7e1a68561c2bbb54877b9012",
+      "message_commands": 60,
+      "rinha_message_commands": 16,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_016.txt",
+      "original_name": "adv_dear_hume_016.txt",
+      "manifest_message_count": 60,
+      "archive_sha256": "9cc9f3aa622a096411c6a5a464d4ecef2534353b7e1a68561c2bbb54877b9012",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "hume",
+      "file": "hume_dear_024.txt",
+      "drive_id": "1ColBM57y25j9gCtiyinYap26eA8pMJLn",
+      "expected_bytes": 454977,
+      "fetched_bytes": 454977,
+      "parent_ids": [
+        "1_uVaeuFP8il2XBorWoEMxpu89VL4ESL0"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "0145a75e3a5f07259f6ace55b9e556ab44a75735f342334ebf539d379d0af160",
+      "message_commands": 95,
+      "rinha_message_commands": 27,
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_024.txt",
+      "original_name": "adv_dear_hume_024.txt",
+      "manifest_message_count": 95,
+      "archive_sha256": "0145a75e3a5f07259f6ace55b9e556ab44a75735f342334ebf539d379d0af160",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "support",
+      "file": "support_part_02.txt",
+      "drive_id": "1A5Oh-jkZllLIXHOuSy957sViS_FEPTsA",
+      "expected_bytes": 106638,
+      "fetched_bytes": 106638,
+      "parent_ids": [
+        "1NsZdoEG8YhjWtnRxD7GuNz95z2KqEVyu"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "22f756b66ea65db0daa3a541ee86eb08ce6c630e9f35c2ce294de208b3834d81",
+      "message_commands": 19,
+      "rinha_message_commands": 9,
+      "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_02.txt",
+      "original_name": "adv_csprt-3-0097_02.txt",
+      "manifest_message_count": 19,
+      "archive_sha256": "22f756b66ea65db0daa3a541ee86eb08ce6c630e9f35c2ce294de208b3834d81",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "support",
+      "file": "support_part_03.txt",
+      "drive_id": "1SuWoz82omGlkyyP26rI36s9lsTCXx1tR",
+      "expected_bytes": 88946,
+      "fetched_bytes": 88946,
+      "parent_ids": [
+        "1NsZdoEG8YhjWtnRxD7GuNz95z2KqEVyu"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "2463bed04e7af524bcd84452fb2ccd7f2be8746f41bd02bd6f1e969fa7b2b754",
+      "message_commands": 20,
+      "rinha_message_commands": 9,
+      "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_03.txt",
+      "original_name": "adv_csprt-3-0097_03.txt",
+      "manifest_message_count": 20,
+      "archive_sha256": "2463bed04e7af524bcd84452fb2ccd7f2be8746f41bd02bd6f1e969fa7b2b754",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "event16",
+      "file": "event16_main-03.txt",
+      "drive_id": "1qyZc7i-SWk2aYak-AEkzxz09vOTiuHT9",
+      "expected_bytes": 222445,
+      "fetched_bytes": 222445,
+      "parent_ids": [
+        "1vF9FXVmDo4bFMb6MhnPNb8G-bUTQPIiy"
+      ],
+      "modified_time": "2026-06-21T20:16:48.000Z",
+      "sha256": "5cfa79a013c489e00dad4a366670023728b44689030682da4db64978e8c13fe0",
+      "message_commands": 62,
+      "rinha_message_commands": 5,
+      "source_lock_path": "transcripts_raw/06_story_events/event_016/main-03.txt",
+      "original_name": "adv_event_016_main-03.txt",
+      "manifest_message_count": 62,
+      "archive_sha256": "5cfa79a013c489e00dad4a366670023728b44689030682da4db64978e8c13fe0",
+      "archive_matches_drive": true
+    },
+    {
+      "host": "support",
+      "file": "support_01.txt",
+      "drive_id": "1opfVuQG5eH0WQyxafiN4wg4LYg7F1XwR",
+      "expected_bytes": 76496,
+      "fetched_bytes": 76496,
+      "parent_ids": [
+        "1NsZdoEG8YhjWtnRxD7GuNz95z2KqEVyu"
+      ],
+      "modified_time": "2026-06-21T20:16:47.000Z",
+      "sha256": "f7825e8a8cfc6421cadc691ecd76682f64a6e5729aab78c160d21bfd823c88fb",
+      "message_commands": 19,
+      "rinha_message_commands": 10,
+      "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_01.txt",
+      "original_name": "adv_csprt-3-0097_01.txt",
+      "manifest_message_count": 19,
+      "archive_sha256": "f7825e8a8cfc6421cadc691ecd76682f64a6e5729aab78c160d21bfd823c88fb",
+      "archive_matches_drive": true
+    }
+  ]
+}

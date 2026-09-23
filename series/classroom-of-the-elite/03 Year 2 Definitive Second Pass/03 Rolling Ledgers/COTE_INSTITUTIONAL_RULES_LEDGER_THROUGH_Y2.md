@@ -29,9 +29,9 @@ current_supporting_authorities:
   - COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md
   - COTE_V00_RETROSPECTIVE_DEEP_READING.md
   - COTE_RETROSPECTIVE_REVELATION_LEDGER_VOLUME0.md
-point_snapshot_discrepancy_open: true
+point_snapshot_discrepancy_open: false
 created_at: "2026-08-25"
-updated_at: "2026-08-25"
+updated_at: "2026-09-09"
 ---
 
 > **YEAR-BOUNDARY AUTHORITY NOTICE**
@@ -1362,9 +1362,9 @@ The important distinction is not innocence.
 
 It is **plurality and counterforce**.
 
-# 21. The class-point snapshot discrepancy — OPEN institutional data issue
+# 21. The class-point snapshot comparison — resolved cohort routing
 
-The completed class-polity ledger identified a discrepancy that belongs partly to the institutional-data layer.
+The completed class-polity ledger identified an apparent discrepancy. Direct source-surface verification now resolves it as a cross-cohort comparison; the earlier pending state is retained in Git history.
 
 `First File` records the Year-1 endpoint as:
 
@@ -1373,16 +1373,14 @@ The completed class-polity ledger identified a discrepancy that belongs partly t
 - Ryūen: **508**
 - Horikita: **347**
 
-`Second List` separately records a first-year-end snapshot (`Y2SL-E085`) as:
+`Second List` separately records the younger cohort's first-year-end snapshot (`Y2SL-E085`) as:
 
 - A: **991**
 - B: **697**
 - C: **532**
 - D: **510**
 
-The two official guidebook-derived records do not align.
-
-This ledger preserves the discrepancy as **OPEN**.
+The two official guidebook-derived records concern different cohorts. The current state is `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`. Direct inspection of `COTE:Y2SL:IMG:embed0231_HD.jpg` (printed p. 236) confirms the younger first-year cohort: `新1年生`, with Amasawa, the withdrawn Yagami, Utomiya, and Hōsen callouts. The values do not conflict with Ayanokōji's own Year-1 endpoint. This corrects cohort routing, preserves both printed tables, and leaves `Y2SL-E085` unchanged. See [Y2_10, section 6](../05%20Year-Level%20Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md).
 
 It does not:
 
@@ -1391,14 +1389,7 @@ It does not:
 - map one table onto the other by memory;
 - or compute cross-year deltas by subtracting unlike snapshots.
 
-Resolution requires source-surface comparison among:
-
-- the exact `First File` documentary image;
-- `COTE:Y2SL:IMG:embed0231_HD.jpg`;
-- the event calendars surrounding the boundary;
-- and the forthcoming exam/ability ledgers' point accounting.
-
-Until then:
+The direct `Second List` cohort identification resolves the supposed numerical conflict without requiring either printed record to change. Complete event-by-event point accounting is a separate task. The continuing rule is:
 
 > **use each snapshot only within its stated documentary authority.**
 
@@ -1472,7 +1463,7 @@ Until then:
 
 ## OPEN
 
-1. What exact documentary basis explains the `Y1FF` / `Y2SL-E085` first-year point-snapshot discrepancy?
+1. **RESOLVED at closeout:** `Y2SL-E085` identifies the younger first-year cohort; see Y2_10 section 6. This retained item records the disposition of the formerly open question.
 2. What formal appeal or audit mechanism can reliably constrain future administrative record capture?
 3. How far can the student council alter special-exam design versus merely recommend/influence it?
 4. Can mobility remain non-patronal when access depends on scarce private-point capital?
@@ -1644,7 +1635,7 @@ Escalate to the source-local artifact and original Japanese source when the user
 - administrative office is separated from unified institutional will.
 - record integrity is separated from outcome accuracy.
 - political origin is separated from complete outcome authorship.
-- the `Y1FF` / `Y2SL-E085` point discrepancy remains OPEN.
+- the former `Y1FF` / `Y2SL-E085` discrepancy is resolved by direct cohort identification; no printed numbers were changed.
 
 # 27. Canonical Year-2 institutional synthesis
 

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VISUAL_MOTIFS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3602,3 +3602,66 @@ The iconic phrase returns with a radically different body silhouette: Quirkless 
 
 - Competing story-ownership claims are externalized in oversized text and paired with AFO/Bakugo faces.
 - The motif converts narrative sovereignty into visible combat grammar.
+
+# Volume 41 visual/formal additions
+
+## Blackwhip `オーバーレイ` — grotesque appearance / self-authored function
+
+Midoriya's Blackwhip-reinforced body becomes visually monstrous while remaining a controlled rescue/combat adaptation (`V41:p053-058`). This is direct counterevidence to moral classification by bodily grotesqueness.
+
+## Shimura house as an interior threshold
+
+The memory house becomes a spatialized boundary around another person's formative interior. Midoriya's visitor/entry grammar contrasts with AFO's later claim that the whole life belongs to his design (`V41:p095-104`).
+
+## Hands — imposed trauma, chosen relation and support
+
+V41 concentrates several earlier hand motifs:
+- Shigaraki's hands as family-trauma burden;
+- the p116 hands/family-destruction claim followed by the p121-123 League montage: formal extension from destructive touch to later relational obligation, not an explicit quotation about joining League hands;
+- Midoriya's loss of both arms (`V41:p140`);
+- others literally creating the path/support through which Midoriya can act (`V41:p179-195`).
+
+The same body/object grammar can signify possession or relation depending on who authors it.
+
+## Black + white -> mixed identity
+
+Aizawa's Kurogiri/Shirakumo metaphor visualizes irreversible mixture: adding white to black does not restore pure white (`V41:p149`). Identity after forced alteration is not presented as a removable coating over an untouched true self.
+
+## Eri horn -> future song
+
+A Quirk-bearing body part is severed and used as bounded aid while Eri projects herself into a future of singing (`V41:p157-159`). Formal emphasis moves from dangerous-power body to future personhood.
+
+## `WE ARE HERE` — singular arrival becomes plural composition
+
+The chapter-title spread (`V41:p164-165`) transforms page-scale singular reassurance into collective presence. Plurality is visual architecture, not only dialogue.
+
+## AFO color loss / gray plurality
+
+Yoichi's loss drains color from AFO's world (`V41:p166`), while the mass of other people increasingly registers as low-salience gray bodies. The visual system links possession of one singular attachment to failure to recognize plural persons.
+
+## Path-making toward the final punch
+
+`V41:p179-195` repeatedly composes classmates/allies as the physical corridor through which Midoriya advances. The punch remains his act while the page grammar denies solitary causal ownership.
+
+## `弱き強さ`
+
+Midoriya's damaged/unfinished state is visually surrounded by people repeatedly standing and pushing the action forward (`V41:p186-188`). The motif should be read with Sero's anti-tragedy line: the image celebrates relational openness/need, not injury as a virtue in itself.
+
+
+# Volume 42 cumulative closure
+
+## Hands: meaning depends on relation and action
+
+`V42:p018-020` holds terminal adversaries in contact; `p113-114` makes grief support tangible; `p120-123` offers early civilian protection; `p140-143` returns socially supported action capacity; `p182-183` closes on voluntary adult contact. Continuity of shape does not make possession, rescue and intimacy identical. The final handclasp is a transformation in stakes and mutual choice, not proof of a formal couple label.
+
+## Body loss and the archive of a person
+
+Tomura's disintegration (`p018-021`) is followed by medical aftermath, public debate and Spinner's competing memorial (`p071-081`). Physical disappearance does not terminate historical argument. Toya's apparatus-limited face, food dialogue and tear (`p056-064`) allow local relation without undoing bodily consequence.
+
+## Visibility is not complete knowledge
+
+`p098` explicitly marks camera failure at Ochako/Toga's ending. `p095-117` moves from public recovery/social smiling to concealed pain and shared grief. The reader's privileged scene access must not become every character's knowledge.
+
+## Scale and page architecture
+
+The apocalyptic opening gives way to schools, meals, workplace scheduling, craft plans and a smaller but still dangerous incident (`p149-174`). Adult montages distribute functions and preserve different personalities. `p144-145` is authorial afterword; `p104-105,p124-125` are formal/title portraits, not literal evidence that every depicted person attends one living reunion. Narrative coda `p146-183` supplies ordinary-life evidence; its lowered stakes do not make it analytically optional.

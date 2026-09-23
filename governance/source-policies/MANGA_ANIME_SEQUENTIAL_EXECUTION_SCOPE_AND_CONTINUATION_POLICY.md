@@ -2,11 +2,12 @@
 title: Manga / Anime Sequential Execution Scope and Continuation Policy
 artifact_id: MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY
 artifact_type: sequential_execution_scope_policy
-version: 1.0
+version: 1.1
 status: canonical
 generation: V1
 scope: corpus-wide sequential analytical execution authorization, continuation, checkpointing, recovery, and stop semantics
 created: 2026-08-27
+last_updated: 2026-09-13
 maintainer: ChatGPT + user
 source_boundary: "Operational governance for sequential volume, episode, chapter, event, route, commu, movement, and comparable analytical units across the Manga / Anime corpus"
 supersedes: null
@@ -334,6 +335,12 @@ If live context and current canonical artifacts disagree, re-resolve authority f
 
 A remembered prior state is never sufficient reason to overwrite a newer mutable ledger or move a high-water mark backward.
 
+## 6.4 Cross-session execution and retrospective synthesis
+
+Local Work/Codex is the preferred owner of substantial sequential source work and its synchronized longitudinal state under the [long-series hybrid execution protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md). This does not require one uninterrupted session. A fresh session resumes from verified durable state under the same authorized source boundary and terminal limit.
+
+A closed source tranche may be handed to fresh cloud Pro for named retrospective monographs or syntheses. Use the [analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md). Such a dispatch does not broaden sequential authorization, admit later knowledge into frozen readings, or transfer ownership of mutable ledgers without explicit coordination. Returned retrospective corrections are reconciled into appropriate current homes; historical prospective readings are not silently rewritten.
+
 ---
 
 # 7. Timeout, stall, and ambiguous-commit recovery
@@ -573,3 +580,12 @@ The final default is deliberately simple:
 > **After interruption, observed canonical high-water mark outranks remembered conversational state.**
 
 This preserves user control for ordinary deep readings while making large sequential corpora—such as long manga runs, multi-season anime passes, and hundreds of live-service events—operationally tractable without sacrificing source discipline, authority integrity, or recoverability.
+
+---
+
+# Changelog
+
+## v1.1 — 2026-09-13 — Cross-session execution and synthesis dispatch
+
+- Added routing for local sequential work and bounded retrospective synthesis handoffs.
+- Preserved single-operation/continuous authorization, atomic closeout, source boundaries, and interruption recovery.

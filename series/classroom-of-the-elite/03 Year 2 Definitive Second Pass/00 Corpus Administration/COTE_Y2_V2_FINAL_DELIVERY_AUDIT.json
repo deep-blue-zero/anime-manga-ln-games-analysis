@@ -1,0 +1,115 @@
+{
+  "schema": "cote-y2-final-delivery-audit-v1",
+  "release_id": "COTE_Y2_V2_2026-09-09",
+  "release_state": "frozen",
+  "result": "PASS_LOCAL_CONTENT_AND_PACKAGE",
+  "publication_verification": "See exact-commit external release receipt; this deterministic content audit makes no unobserved CI claim",
+  "core_artifact_count": 167,
+  "package_file_count": 172,
+  "source_boundary": "Y2SL",
+  "year3_narrative_evidence_used": false,
+  "source_local_preserved": 17,
+  "source_identity_count": 17,
+  "original_evidence_id_count": 2697,
+  "japanese_passage_entry_count": 43,
+  "protocol_calibration_count": 23,
+  "specialist_index_slots": 13,
+  "full_synthesis_present": true,
+  "utf8": "PASS",
+  "yaml_json": "PASS",
+  "internal_file_links_checked": 614,
+  "heading_anchors_checked": 4,
+  "link_errors": [],
+  "forbidden_wrappers_or_placeholders": [],
+  "new_long_verbatim_paragraph_duplicates": 0,
+  "preserved_long_repetition_dispositions": [],
+  "checksums": "Generated deterministically; verify byte-for-byte with --check and archive member readback",
+  "source_binaries_in_package": false,
+  "source_local_preservation": [
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_V00_RETROSPECTIVE_DEEP_READING.md",
+      "sha256": "c4dc9c327f75ffc2a78ab9aeb706ebb023ec0bd3b7d81c49c743ae98bf057473",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V01_DEEP_READING.md",
+      "sha256": "aef42286cf01e148f27d1909a5dd4ae76ef34a9c1a2501d9f3a59020623c0a71",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V02_DEEP_READING.md",
+      "sha256": "c5f2b01e69728f218f8c461ef55cfa2ed53f95f0f594019b6c23b714f32b8726",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V03_DEEP_READING.md",
+      "sha256": "e5398e564f31e25ded1ab5821b5931a525cbe516662e4f9a6add42e36edd1eaf",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_5_DEEP_READING.md",
+      "sha256": "e514e448bd7d137032d9fac092b2dcb38aa0490aa10fd3134f0ef81a08866a01",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_DEEP_READING.md",
+      "sha256": "00cf53fdfdbd24c35c344054fbfcd5515ea4e83499ccdf5d77252489a1ae8741",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V05_DEEP_READING.md",
+      "sha256": "05538ad97a41b063b043adadb77ac32e1999c9f0470f66724c8fcea1f582016b",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V06_DEEP_READING.md",
+      "sha256": "867d35ed13a82792b6911203d7611bf618ea6a4f29de036f32142e5b57d210fb",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V07_DEEP_READING.md",
+      "sha256": "4e648dec2297a4bb76764ec790f089f5b32cfccdca47aee50991380e38842e95",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V08_DEEP_READING.md",
+      "sha256": "a86820648dbe657797367afe51129ec293c12ee008d3d83743ec6fddc9122180",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_5_DEEP_READING.md",
+      "sha256": "c9246c8cf075e7f3b4d43d5ccc17b38663ba46d6fb871b594346db8edba135fc",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_DEEP_READING.md",
+      "sha256": "a343dc15fdf0f4b9fcab1227911ddfadeceaff1e09e82b1fd11b6f8b60107e5a",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V10_DEEP_READING.md",
+      "sha256": "c8675d6cba6e2a4df076090b030516c9bb355bbf5e9deccefc1db272a1e3ce99",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V11_DEEP_READING.md",
+      "sha256": "8fff10e25829b641732b5e7307b66a0a6f42472919b35b20105f9955eda38789",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_5_DEEP_READING.md",
+      "sha256": "bf4ab422e5e3f6bc02bc844d99020437e091c4310062e89a1e1d81ed11368e10",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_DEEP_READING.md",
+      "sha256": "7c0a86cec692b36caa7e847c1bafeefad2cb06f162a22be46f282cda29af72e8",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01A Guidebook Paratext Audits/COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md",
+      "sha256": "12075e0c96fee2ab63176b583c186f81b8084f99c30f4a926954b6357ba05ccb",
+      "unchanged": true
+    }
+  ]
+}

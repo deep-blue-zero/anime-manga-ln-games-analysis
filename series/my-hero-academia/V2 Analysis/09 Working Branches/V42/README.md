@@ -16,6 +16,10 @@ intended_canonical_deep_reading_home: series/my-hero-academia/V2 Analysis/02 Seq
 
 # My Hero Academia SP2 Volume 42 — Provisional Working Packet
 
+**Historical transport/proposal packet.** V41 and V42 have now been synchronized in order. Current authority is the [canonical V42 reading](../../02%20Sequential%20Readings/MHA_SP2_V42_DEEP_READING.md), [update manifest](../../08%20Audits%20and%20Manifests/MHA_SP2_V42_UPDATE_MANIFEST.md) and [postwar checkpoint](../../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md). The single-file analytical body was verified complete against these nine parts before source corrections. The original dependency and proposal text below is retained as packet-era provenance and does not describe current authority. All packet objects remain noncurrent.
+
+## Original packet description (historical)
+
 This directory is the single current entrypoint for the emitted Volume 42 working packet.
 
 It follows the MHA V2 architecture and character-modeling rules currently routed through the stable GitHub branch `series/my-hero-academia`. Whether this packet is local or tracked on that branch, its presence does not mutate the evidence Drive and does not advance canonical MHA authority.

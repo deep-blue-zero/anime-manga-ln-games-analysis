@@ -40,7 +40,9 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
 - [Re:ZERO -Starting Life in Another World-](../series/re-zero/) — `series/re-zero/` — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
+- [Rent-a-Girlfriend](../series/rent-a-girlfriend/) — `series/rent-a-girlfriend/` — Japanese manga V001-V047 inventoried and hash-locked locally; V001-V030 are inspected, closed, checkpointed, and locally audited. V031 is the next sequential candidate and requires new explicit authorization before narrative inspection.
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
+- [Sayonara Lara](../series/sayonara-lara/) — `series/sayonara-lara/` — Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately.
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura](../series/shuukura/) — `series/shuukura/`
@@ -50,6 +52,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`
+- [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
 - [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`

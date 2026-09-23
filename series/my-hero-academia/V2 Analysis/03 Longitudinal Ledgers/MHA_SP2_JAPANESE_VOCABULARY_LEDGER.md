@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: JAPANESE_VOCABULARY
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,12 @@ do_not_use_as_current_authority: false
 
 
 # MHA SP2 — Japanese Vocabulary and Voice Ledger
+
+## Current source-admissibility correction — continuation
+
+Shoji's anti-revenge formulation belongs to V37:p140; the V37:p148 kimono image is an author-posted drawing and supplies no in-world voice. V36:p170 carries Mirio's spoken apology and p171 his internal reconsideration. V41:p175's mutual-need wording is Aoyama's; V42:p042–043's future/humor argument is Mirio's. V39:p146 is Tsukauchi's interpretation, while p155 is All Might's own win-directed statement. Broad ranges and historical romanizations/escaped strings below are retrieval aids; exact-glyph claims must return to the Japanese page, preserve the speaker, and distinguish speech, thought, narrator and author matter.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
 
 
 
@@ -1587,3 +1593,71 @@ Register rule strengthened: Hawks's politeness cannot be treated as softness, an
 - **AFO:** `僕の物語` ownership language remains stable across strategy, childhood dream and final collapse; dysregulation changes repetition/intensity, not the central possessive grammar.
 - **Shigaraki:** `先生` can coexist with rejection; address term alone must not be read as obedience.
 - **Stain:** categorical imperative register persists, but content shifts to `生きて勝て`, demonstrating that stable voice does not imply frozen judgment.
+
+# Volume 41 Japanese vocabulary / voice additions
+
+| Term / phrase | V41 analytical function | Locator |
+|---|---|---|
+| `人だよ` | Midoriya refuses threat-status -> non-person collapse; moral classification, not rescue certainty | `V41:p019` |
+| `守るもんが多くて大変だなァ` | Shigaraki identifies protection/multiple goods as a hero-side constraint | `V41:p028` |
+| `キレイ事は嫌いじゃない` / `おまえに賭ける` | Kudo accepts Midoriya's ideal as a wager rather than established truth | `V41:p035` |
+| `OFAを手放す` | chosen relinquishment of inherited power | `V41:p035-036` |
+| `宝物` | OFA's emotional value; loss is meaningful rather than costless | `V41:p049` |
+| `拒絶` | active resistance to the vestige-transfer/rescue tactic | `V41:p069` onward |
+| `これは 私の弱さだ` | Nana names her family-separation decision as her weakness/accountability | `V41:p100` |
+| `僕が…選んだんだ` / `僕の意志で` | Shigaraki claims authorship of home/family destruction (p116); p121-123 separately give the League-centered obligation | `V41:p116-123` |
+| `敵の…ヒーロー` | Shigaraki defines selective relational responsibility toward villains/outcasts | `V41:p121-123` |
+| `そう思わせねば “意志力”は生じない` | AFO needs experienced choice to generate willpower; covert environmental shaping is specified on p133-135 | `V41:p132` |
+| `全部だ` | AFO's total-authorship claim; factual causal core plus possession-driven overreach | `V41:p135-136` |
+| `お歌したいの` | Eri's ordinary future desire after a bounded contribution | `V41:p158` |
+| `WE ARE HERE` | plural successor/reassurance grammar | `V41:p164-165` |
+| `悲劇こそが人を強くする` | AFO's compensatory-suffering thesis | `V41:p167` |
+| `悲しい事なんざ あるよりない方が良いだろ!` | Sero's explicit rejection of tragedy-as-necessary-strength (colloquial elongation normalized) | `V41:p168` |
+| `まだ残り火があります` | Midoriya's current post-transfer power boundary | `V41:p174` |
+| `僕らは君の力が必要だし 君も僕らの力が必要だ` | Aoyama returns the reciprocal-need appeal to Midoriya; the recalled offered hand links present help to prior reintegration | `V41:p175` |
+| `弱き強さ` | strength generated relationally through visible insufficiency, not celebration of suffering | `V41:p187-188` |
+| `頑張れ` | repeated social implication/encouragement motif in final path-making | `V41:p185-194` |
+
+**Transcription discipline:** quoted fragments are normalized for spacing; p132's wording is about redirecting free will, not the packet's unattested `自由意思を避けて導く`. The interpretation of subtle environmental guidance also relies on p133-135. The p116 choice claim concerns destruction of home/family, not a quoted declaration of having joined League hands.
+
+## Voice-model consequences
+
+- **Midoriya:** final-arc moral speech remains short and concrete under maximal stress; avoid grandiose eloquence in reconstruction.
+- **Shigaraki:** identity defense becomes unusually explicit around `選ぶ / 意志 / ヒーロー` while destructive intent remains present.
+- **AFO:** ownership grammar expands from bodies/powers to causal history itself; totalizing rhetoric is a stable character signal, not neutral narrator voice.
+- **Aizawa:** emotionally difficult identity problems are processed through clipped operational metaphor and present professional duty.
+- **Aoyama:** the p175 reciprocal appeal retains `僕` and theatrical `走ろう☆`; it is not evidence for an Aizawa `僕ら` register.
+- **Sero:** casual/ordinary register can carry a major ethical claim precisely because he rejects AFO's grand tragedy frame.
+- **Eri:** childlike future-oriented language expresses genuine desire/agency without mimicking adult hero rhetoric.
+
+
+# Volume 42 cumulative closure
+
+Direct Japanese-page re-verification governs these short lexical anchors; spacing/punctuation are normalized where shown. Ellipses mark excerpts, not invented continuous quotations. Speech belongs to its speaker and chronology.
+
+| Anchor / speaker | Locator | Interpretive or voice consequence |
+|---|---|---|
+| `寂しがりな人間` — Midoriya to AFO | `V42:p013` | Human classification denies Demon Lord exemption without acquittal. |
+| `許可しない` / `大好きだ` — AFO to Yoichi | `p015` | Need/love coexist with permission/ownership grammar. |
+| `やった事を許せはしない` — Midoriya | `p019` | Understanding and fighting remain compatible; not absolution. |
+| `悲しみが紡がれないように` — Midoriya; `俺が死柄木弔を紡ぐ` — Spinner | `p019,p080` | Prevent repeating sorrow while contesting erasure; the shared verb carries a real tension. |
+| `死柄木弔` / `最期まで壊す為に戦った` — terminal Tomura's requested memory | `p020` | Adult identity persists; do not replace it with a pure-child voice. |
+| `命` / `心` — Midoriya then All Might | `p030-031` | Life not saved; heart rescue is a separate supportive interpretation. |
+| `残り火` — Midoriya | `p032,p129` | Residual capacity has an eventual endpoint, not restored factors. |
+| `マイナスをゼロに戻す` / `プラスの世界` — **Mirio** | `p042-043` | Battle repairs harm; humor/laughter mark positive life beyond repair. Not Aoyama's wording. |
+| `罪を償って` — Aoyama | `p045-047` | Chosen repair after permission to stay, in continuing sparkling/familiar register. |
+| `俺に見てほしかった` — Endeavor; `ごめんな` — Toya to Shoto | `p059,p064` | Specific failure of attention; local apology with a precise recipient. |
+| `賠償と謝罪` / `一生をかけて` — Endeavor | `p065` | Ongoing duty without control over family response. |
+| `自分でなりてえように` — Shoto | `p066` | Self-authorship is explicitly supported by Class A. |
+| `死柄木弔は俺のヒーローだった` — Spinner | `p076` | Relational hero category, not narrator moral certification. |
+| `どう変えるか` — Hawks | `p069` | Agency within an institution replaces passive observation of change. |
+| `おばあちゃんが来た` — civilian woman | `p122` | Familiar reassurance makes arrival civic, without professional impersonation. |
+| `君自身が勝ち取った力` — All Might | `p141` | Collective material production need not transfer authorship away from Midoriya. |
+| `私がやりたい事をしてます` — Ochako | `p153` | Care work is a chosen desire as well as duty. |
+| `OFAが残ってたとしても` / `先生っていいな` — adult Midoriya | `p159` | Explicit counterfactual valuation of teaching. |
+| `自分を高く見積もんねーと` — adult Bakugo | `p161` | Familiar rough contraction now challenges self-undervaluation; tact remains limited. |
+| `なりたい自分以外にも` — adult Shoto | `p168` | Ordinary self exceeds even the chosen ideal. |
+| `もっと話したい` — Midoriya; `もっと好きに生きてね` — Toga apparition | `p180-181` | Particular desire and permission; apparition is mediated through Ochako. |
+| `気が合うね` — final reciprocal encounter | `p183` | Mutual movement/contact, without a formal relationship label. |
+
+Voice updates also include Asui's familiar direct concern (`p154-155`), Mirio's formal public address versus child-facing play (`p042-043,p151-152`), and Shoji's public courtesy versus peer moral caution (`p132,p163`). These are contextual register contrasts, not catchphrase-only models.

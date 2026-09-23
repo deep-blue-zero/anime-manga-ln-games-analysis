@@ -5,8 +5,8 @@ document_type: "persistent ledger"
 version: "2.6"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 - Phase 6 Kaya Rinha evidence matrix integrated"
-status: "active; cumulative through Phase 6 Kaya Rinha evidence matrix; targeted AV baseline next"
+last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
+status: "active; Rinha source/text, selected-mix and sampled-still pass delivered; listening, motion and dossier gate open"
 ---
 
 # NPC AND SIDE-CHARACTER LEDGER
@@ -498,3 +498,9 @@ The matrix requires a targeted Rinha audiovisual baseline before full person-lev
 
 **Next Rinha artifact:** `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`, followed by `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md` after acquisition/inspection.
 
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha — bounded AV generation now available
+
+The unnumbered [KAYA_RINHA AV home](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) supplies 18 scene records, 12 physical identities, 538 distinct inspected frame points, 18 selected-mix measurements and 73 claim dispositions. Rinha remains the distributed non-playable Tier S responsibility.
+
+Current source count is 118 relevant objects / 43 direct objects / 620 Rinha messages; historical 621 includes one fan-prefix false positive. The baseline refines C070’s sustained/accepted vulnerability, C052’s story-skill versus acoustic-fidelity distinction and C057’s speaker/body/observer attribution. Listening and continuous-motion review remain at 0 seconds. The character dossier is still pending; current next work is perceptual discrimination, not another acquisition plan.

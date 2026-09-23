@@ -181,7 +181,6 @@ def main() -> int:
             "index",
             "--check",
         )
-    run_python(root, "-m", "unittest", "tools.tests.test_repository_indexes")
     if args.full:
         run_python(
             root,
@@ -195,16 +194,17 @@ def main() -> int:
         )
         run_python(
             root,
-            "-m",
-            "unittest",
-            "discover",
-            "-s",
-            "tools/tests",
-            "-p",
-            "test_*.py",
+            "tools/audit_execution.py",
+            "--snapshot",
+            "index",
+            "--base",
+            base,
+            "--profile",
+            "full",
         )
         level = "full"
     else:
+        run_python(root, "-m", "unittest", "tools.tests.test_repository_indexes")
         level = "targeted"
     print(f"PASS: {level} staged pre-commit gate against {base}")
     return 0

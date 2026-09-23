@@ -25,7 +25,7 @@ stable_polity_ids:
   - POLITY-ICHINOSE
   - POLITY-SAKAYANAGI-ORIGIN
 current_point_snapshot_source: Y2SL-E084
-cross_guidebook_point_snapshot_discrepancy_open: true
+cross_guidebook_point_snapshot_discrepancy_open: false
 inherited_year1_authorities:
   - COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md
   - COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md
@@ -37,7 +37,7 @@ current_supporting_authorities:
   - COTE_RELATIONSHIP_LEDGER_THROUGH_Y2.md
   - COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md
 created_at: "2026-08-25"
-updated_at: "2026-08-25"
+updated_at: "2026-09-09"
 ---
 
 > **YEAR-BOUNDARY SUPERSESSION NOTICE**
@@ -111,7 +111,7 @@ At the *Second List* boundary, `Y2SL-E084` records the provisional point snapsho
 - ethical quality;
 - or whether the visible leader actually authored the result.
 
-## 1.1 Open point-snapshot discrepancy
+## 1.1 Resolved point-snapshot cohort routing
 
 The frozen Year-1 class-polity ledger, using *First File* data, records the Year-1 boundary as:
 
@@ -120,18 +120,16 @@ The frozen Year-1 class-polity ledger, using *First File* data, records the Year
 - Ryūen: **508**
 - Horikita: **347**
 
-`Second List`, however, separately records a first-year-end ranking snapshot in `Y2SL-E085` as:
+`Second List` separately records the younger cohort's first-year-end ranking snapshot in `Y2SL-E085` as:
 
 - A: **991**
 - B: **697**
 - C: **532**
 - D: **510**
 
-The two official guidebook-derived snapshots do not align numerically.
+The earlier apparent discrepancy is resolved as `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`. Direct inspection of `COTE:Y2SL:IMG:embed0231_HD.jpg` (printed p. 236) confirms the younger first-year cohort: `新1年生`, with Amasawa, the withdrawn Yagami, Utomiya, and Hōsen callouts. The values do not conflict with Ayanokōji's own Year-1 endpoint. This corrects cohort routing, preserves both printed tables, and leaves `Y2SL-E085` unchanged. See [Y2_10, section 6](../05%20Year-Level%20Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md).
 
-This ledger does **not** silently reconcile the discrepancy.
-
-Until the forthcoming institution/exam/ability ledgers audit the date basis, deductions, event timing, and guidebook reporting context, do **not** compute a simple arithmetic Year-1-to-Year-2 delta by subtracting the `Y1FF` values from `Y2SL-E084`.
+Do not subtract `Y2SL-E085` from Ayanokōji-cohort values. Any complete event-by-event explanation of Year-1-to-Year-2 point movement still requires dated accounting, and the `Y2SL-E084` Ryūen range remains a range.
 
 The safe claims are qualitative and source-specific:
 
@@ -1507,7 +1505,7 @@ This table records only materially diagnostic polity changes; blankness is prefe
 | `Y2SL-E082` | post-transfer Horikita performance is explicitly unresolved |
 | `Y2SL-E083` | Ichinose's action exceeds Ayanokōji's prediction, strengthening leader-level counter-authorship |
 | `Y2SL-E084` | provisional end-Year-2 class point snapshot |
-| `Y2SL-E085` | separate first-year-end point snapshot, currently unreconciled with the Year-1 *First File* ledger |
+| `Y2SL-E085` | younger-cohort first-year-end point snapshot; cohort routing resolved by Y2_10 section 6 |
 
 # 22. Boundary stress tests
 
@@ -1619,7 +1617,7 @@ The class-polity ledger should not absorb future specialist responsibilities tha
 - Year-3 narrative evidence excluded;
 - Volume 0 used only as retrospective reader-level context;
 - `Second List` used as boundary calibration, not as an omniscient replacement for fiction;
-- point-snapshot discrepancy explicitly preserved rather than silently reconciled;
+- point-snapshot cohort correction explicitly routed to Y2_10 section 6; printed values and evidence IDs preserved;
 - class letters treated as rank labels, not identity;
 - leader development separated from polity development;
 - transfer acquisition separated from internal succession;

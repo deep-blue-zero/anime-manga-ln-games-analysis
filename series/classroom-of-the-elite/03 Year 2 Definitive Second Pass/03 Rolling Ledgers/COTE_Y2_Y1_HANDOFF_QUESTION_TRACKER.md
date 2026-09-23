@@ -7,7 +7,7 @@ authority_state: canonical
 snapshot_boundary: Y2SL
 generation: V2
 source_boundary: "Frozen Y1 V2 boundary + canonical Y2V01-Y2V08 local adjudication + Volume 0 retrospective reconciliation + canonical Y2V09-Y2V12.5 + canonical Y2SL paratext audit; complete Year-2 source boundary"
-updated_at: "2026-08-25"
+updated_at: "2026-09-09"
 year3_information_used: false
 source_local_artifacts_immutable: true
 supersedes: []
@@ -86,10 +86,10 @@ Allowed outcomes: `ANSWERED_BY_REVELATION`, `ANSWERED_BY_DEVELOPMENT`, `REFRAMED
 
 ### Current summary
 
-- `ANSWERED_BY_DEVELOPMENT`: `002`, `008`, `010`, `013`, `017`, `018`, `019`, `020`, `021`, `022`, `032`, `033`, `041`
+- `ANSWERED_BY_DEVELOPMENT`: `002`, `008`, `009`, `010`, `013`, `017`, `018`, `019`, `020`, `021`, `022`, `029`, `032`, `033`, `041`
 - `ANSWERED_BY_REVELATION`: `011`, `028`, `030`
-- `REFRAMED`: `007`, `023`, `027`, `031`, `040`, `042`
-- `PARTIALLY_ANSWERED`: `001`, `003`, `005`, `006`, `012`, `014`, `015`, `024`, `025`, `029`, `034`, `036`, `037`, `038`, `039`
+- `REFRAMED`: `007`, `023`, `024`, `027`, `031`, `040`, `042`
+- `PARTIALLY_ANSWERED`: `001`, `003`, `005`, `006`, `012`, `014`, `015`, `025`, `034`, `036`, `037`, `038`, `039`
 - `STILL_OPEN`: `004`, `016`, `026`, `035`
 
 Thus **38/42** inherited questions have materially moved, **4/42** remain open, and **18/42** now have locally sufficient answers. V12.5 changes exactly three category states (`009`, `024`, `029`). No previously answered question is reopened.
@@ -375,6 +375,8 @@ Answered questions remain available as **persistence and reversal tests**, but t
 
 ## Phase-1 completion result
 
+> Historical Phase-1 record. The current closeout additions and routing are recorded below.
+
 With this reconciliation, the Year-2 Phase-1 boundary layer is complete:
 
 - four through-Y2 character ledgers — complete and canonical;
@@ -392,6 +394,8 @@ The behavioral reconstruction protocol remains `active_provisional` because it i
 
 ## Next admissible operation
 
+> Historical Phase-1 instruction, preserved with its original heading. Use the current closeout routing below for the next operation.
+
 Following the adopted process, the next operation is:
 
 > **Refine `COTE_BEHAVIORAL_RECONSTRUCTION_PROTOCOL_THROUGH_Y2.md` against the now-complete Year-2 boundary.**
@@ -401,3 +405,9 @@ The refinement pass should prioritize evidence precedence, multi-character socia
 After that stress test, proceed to the architecture-defined Year-2 specialist synthesis layer and `COTE_Y2_FULL_SYNTHESIS.md`.
 
 **Year 3 remains locked** until specialist/full synthesis, evidence/index consolidation, next-year handoff, and administrative verification are complete.
+
+## Current closeout routing and summary correction
+
+The closeout synchronized the three stale duplicate category lists above to the already canonical V12.5 terminal table and Y2SL adjudication. All 42 question identities, terminal categories, historical transitions and source evidence remain unchanged. The final distribution is 15 development, 3 revelation, 7 reframed, 13 partial and 4 strictly open.
+
+The historical Phase-1 list records the four character roles promoted at that time. The current [project status](../00%20Corpus%20Administration/COTE_Y2_PROJECT_STATUS.md) now includes the fifth institutional-actors role plus the required identity, succession, claim-revision and theme ledgers. [Y2_11](../05%20Year-Level%20Synthesis/COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md) is the principal analytical Year-2-to-Year-3 handoff: it preserves these 42 states and registers 12 new or refined boundary tests. Operational gate state remains in the current entrypoint; this tracker neither starts Year 3 nor substitutes for release verification.

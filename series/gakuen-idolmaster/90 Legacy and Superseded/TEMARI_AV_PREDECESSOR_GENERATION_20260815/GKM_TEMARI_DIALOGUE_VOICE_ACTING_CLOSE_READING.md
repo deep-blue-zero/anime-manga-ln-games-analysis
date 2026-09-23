@@ -7,7 +7,10 @@ phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Tsukimura Temari / 月村手毬"
 source_lock: "GAKUMAS V2 Source Lock 1.0 + Temari AV registry 2026-08-15"
 created: "2026-08-14"
-status: "canonical specialist AV artifact"
+status: historical_legacy
+historical_release_status: "canonical specialist AV artifact"
+do_not_use_as_current_authority: true
+superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md"
 ---
 
 # TSUKIMURA TEMARI — DIALOGUE AND VOICE-ACTING CLOSE READING

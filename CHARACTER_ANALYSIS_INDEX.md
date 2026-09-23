@@ -28,6 +28,50 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`14-ahu-local-heroism-belief-myth-and-misrecognition` — 14 AHU LOCAL HEROISM BELIEF MYTH AND MISRECOGNITION](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/14_AHU_LOCAL_HEROISM_BELIEF_MYTH_AND_MISRECOGNITION.md)
 
+### Aemeath
+
+- Entity ID: `wuthering-waves:aemeath`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:aemeath@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Aemeath dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Aemeath/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+### Airi
+
+- Entity ID: `project-sekai:airi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:airi@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Airi analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Airi analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-shared-synthesis` — Airi analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
 ### Aizawa Shota
 
 - Entity ID: `my-hero-academia:aizawa-shota`
@@ -39,17 +83,19 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:aizawa-shota@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `aizawa-shota-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
   - [`mha-sp2-ua-students-staff-character-state-ledger` — MHA SP2 UA STUDENTS STAFF CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Aizawa Shota V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AIZAWA_SHOTA_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Akazaki Kokoro
 
@@ -91,6 +137,88 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`oreimo-core-character-deep-dive` — OREIMO CORE CHARACTER DEEP DIVE](series/oreimo/V1%20Analysis/04%20Character%20Deep%20Dives/OREIMO_CORE_CHARACTER_DEEP_DIVE.md)
 
+### Akito
+
+- Entity ID: `project-sekai:akito`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:akito@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Akito analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
+
+### Aldini Takumi
+
+- Entity ID: `shokugeki-no-soma:aldini-takumi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:aldini-takumi@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Aldini Takumi dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_TAKUMI_CHARACTER_MODEL.md) — **active provisional authority**
+
+### Alessandra Susu
+
+- Entity ID: `tokyo-7th-sisters:alessandra-susu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:alessandra-susu@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0010 introduction chapter, Main episodes 201000901–201000909, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### All For One
+
+- Entity ID: `my-hero-academia:all-for-one`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:all-for-one@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — All For One dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ALL_FOR_ONE_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### All Might
 
 - Entity ID: `my-hero-academia:all-might`
@@ -102,17 +230,39 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:all-might@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `all-might-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-pro-hero-character-state-ledger` — MHA SP2 PRO HERO CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_PRO_HERO_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — All Might V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ALL_MIGHT_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Amajiki Tamaki
+
+- Entity ID: `my-hero-academia:amajiki-tamaki`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:amajiki-tamaki@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Amajiki Tamaki dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AMAJIKI_TAMAKI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Amaya Tsubame
 
@@ -133,6 +283,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `amaya-tsubame-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-13-amaya-tsubame` — GKM CORE 13 AMAYA TSUBAME](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_CORE_13_AMAYA_TSUBAME.md)
+
+### An
+
+- Entity ID: `project-sekai:an`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:an@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — An analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 ### Anju Emma
 
@@ -174,6 +344,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`86-annette-penrose-character-reference-profile` — 86 ANNETTE PENROSE CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_ANNETTE_PENROSE_CHARACTER_REFERENCE_PROFILE.md)
 
+### Aoyama Yuga
+
+- Entity ID: `my-hero-academia:aoyama-yuga`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:aoyama-yuga@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Aoyama Yuga dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AOYAMA_YUGA_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Aragaki Ayase
 
 - Entity ID: `oreimo:aragaki-ayase`
@@ -213,6 +403,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `araragi-koyomi-reviewed-corpus`: LIGHT_NOVEL VOLUME: Canonical V2 character monograph over the admitted Japanese light-novel and controlled supplementary corpus, with chronology and evidence routing governed by the Monogatari V2 synthesis architecture.; continuity `monogatari-series-original-light-novels`
 - Reviewed current evidence:
   - [`04-araragi-koyomi-rescue-self-erasure-and-adult-responsibility` — 04 ARARAGI KOYOMI RESCUE SELF ERASURE AND ADULT RESPONSIBILITY](series/monogatari-series/V2%20Analysis/04%20Specialist%20Synthesis/04_ARARAGI_KOYOMI_RESCUE_SELF_ERASURE_AND_ADULT_RESPONSIBILITY.md)
+
+### Arato Hisako
+
+- Entity ID: `shokugeki-no-soma:arato-hisako`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:arato-hisako@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Arato Hisako dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_HISAKO_CHARACTER_MODEL.md) — **active provisional authority**
 
 ### Arimura Mao
 
@@ -278,6 +488,46 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+### Asui Tsuyu
+
+- Entity ID: `my-hero-academia:asui-tsuyu`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:asui-tsuyu@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Asui Tsuyu dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ASUI_TSUYU_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Asuka Nishino
+
+- Entity ID: `chiramune:asuka-nishino`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:asuka-nishino@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Asuka Nishino dedicated analysis](series/chiramune/04%20Character%20Analysis/Asuka%20Nishino/CHIRAMUNE_ASUKA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 ### Ayane
 
@@ -352,17 +602,19 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:bakugo-katsuki@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `bakugo-katsuki-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-class-1a-character-state-ledger` — MHA SP2 CLASS 1A CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Bakugo Katsuki V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_BAKUGO_KATSUKI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Baltimore
 
@@ -383,6 +635,49 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `baltimore-reviewed-corpus`: GAME OTHER: Reviewed character monograph over the pinned Azur Lane multilingual extracted corpus, with CN semantic authority and explicitly bounded regional, relationship, memory, and performed-voice evidence.; continuity `azur-lane-mobile-game`
 - Reviewed current evidence:
   - [`azur-lane-baltimore-character-monograph` — AZUR LANE BALTIMORE CHARACTER MONOGRAPH](series/azur-lane/03%20Character%20Reconstruction/BALTIMORE_10316/AZUR_LANE_BALTIMORE_CHARACTER_MONOGRAPH.md)
+
+### Beatrice
+
+- Entity ID: `re-zero:beatrice`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:beatrice@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+### Benno
+
+- Entity ID: `ascendance-of-a-bookworm:benno`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:benno@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-v02-v03`: LIGHT_NOVEL VOLUME: Substantial distributed analysis in the Japanese-primary V02 and V03 frozen readings, interpreted with the Part 1 boundary synthesis. V02 emergency-treatment uncertainty remains historical; V03 clarification is later evidence. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-part1` — Benno analysis in Part 1 boundary synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+  - [`reviewed-v02` — Benno analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Benno analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
 
 ### Big Johnny
 
@@ -491,6 +786,69 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`opm-hero-character-state-ledger` — OPM HERO CHARACTER STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md)
   - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
 
+### Chisaki / Overhaul
+
+- Entity ID: `my-hero-academia:chisaki`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:chisaki@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Chisaki / Overhaul dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHISAKI_OVERHAUL_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Chizuru
+
+- Entity ID: `tokyo-7th-sisters:chizuru-model`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:chizuru-model@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0037`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0037, exactly Main episodes 611101301–611101302.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Chizuru Ichinose
+
+- Entity ID: `rent-a-girlfriend:chizuru-ichinose`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:chizuru-ichinose@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - Chizuru Mizuhara (en, ALTERNATIVE) — Rental-professional name in the main manga continuity.
+  - 水原千鶴 (ja, ORIGINAL_SCRIPT) — Rental-professional name in the main manga continuity.
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V001-V020 longitudinal analysis of professional and family presentation, boundary-setting, acting, selective collaboration, protective deception and bereavement. Limited interior access, ambiguous motives and incomplete romantic classification remain explicit.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Chizuru Ichinose longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md)
+
 ### Choco
 
 - Entity ID: `maebashi-witches:choco`
@@ -559,17 +917,39 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:todoroki-toya@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `dabi-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
   - [`mha-sp2-villain-antagonist-character-state-ledger` — MHA SP2 VILLAIN ANTAGONIST CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Dabi / Todoroki Toya V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_DABI_TODOROKI_TOYA_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Denia
+
+- Entity ID: `wuthering-waves:denia`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game
+
+- Analysis subject ID: `wuthering-waves:denia@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Denia dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Denia/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 ### Dragon Boy
 
@@ -591,6 +971,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`13-dragon-boy-smile-pain-fear-and-punitive-heroism` — 13 DRAGON BOY SMILE PAIN FEAR AND PUNITIVE HEROISM](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md)
 
+### Effa
+
+- Entity ID: `ascendance-of-a-bookworm:effa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:effa@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-part1-distributed`: LIGHT_NOVEL VOLUME: Bounded character-specific interpretation distributed across the Japanese-primary V01-V03 frozen Part 1 readings: family, occupational and recipient-dependent states only. Preserve each volume's information boundary. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-v01` — Effa analysis in V01 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V01_DEEP_READING.md)
+  - [`reviewed-v02` — Effa analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Effa analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
+
 ### Eiko
 
 - Entity ID: `maebashi-witches:eiko`
@@ -611,6 +1013,67 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`eiko-oikura-comparison` — Eiko × Oikura Sodachi — Monogatari](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Emilia
+
+- Entity ID: `re-zero:emilia`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:emilia@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+### Emu
+
+- Entity ID: `project-sekai:emu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:emu@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Emu analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
+### Ena
+
+- Entity ID: `project-sekai:ena`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:ena@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Ena analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
+
 ### Endeavor
 
 - Entity ID: `my-hero-academia:endeavor`
@@ -622,17 +1085,19 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:endeavor@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `endeavor-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-pro-hero-character-state-ledger` — MHA SP2 PRO HERO CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_PRO_HERO_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Endeavor V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ENDEAVOR_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Eren Jaeger
 
@@ -656,6 +1121,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`aot-character-model-readiness-and-coverage-ledger` — AOT CHARACTER MODEL READINESS AND COVERAGE LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_CHARACTER_MODEL_READINESS_AND_COVERAGE_LEDGER.md) — **active provisional authority**
   - [`aot-japanese-voice-and-vocabulary-ledger` — AOT JAPANESE VOICE AND VOCABULARY LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md) — **active provisional authority**
   - [`aot-relationship-conditioned-behavior-ledger` — AOT RELATIONSHIP CONDITIONED BEHAVIOR LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_RELATIONSHIP_CONDITIONED_BEHAVIOR_LEDGER.md) — **active provisional authority**
+
+### Eri
+
+- Entity ID: `my-hero-academia:eri`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:eri@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Eri dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ERI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Ernst Zimmerman
 
@@ -781,6 +1266,48 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`86-frederica-rosenfort-character-reference-profile` — 86 FREDERICA ROSENFORT CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_FREDERICA_ROSENFORT_CHARACTER_REFERENCE_PROFILE.md)
 
+### Frieda
+
+- Entity ID: `ascendance-of-a-bookworm:frieda`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:frieda@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-v02-v03`: LIGHT_NOVEL VOLUME: Substantial distributed analysis in the Japanese-primary V02 and V03 frozen readings, interpreted with the Part 1 boundary synthesis. V02 emergency-treatment uncertainty remains historical; V03 clarification is later evidence. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-part1` — Frieda analysis in Part 1 boundary synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+  - [`reviewed-v02` — Frieda analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Frieda analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
+
+### Fujita Kotone
+
+- Entity ID: `the-idolmaster:fujita-kotone`
+- Entity aliases:
+  - _None._
+
+#### Subject: Gakuen Idolmaster mobile-game audiovisual baseline
+
+- Analysis subject ID: `the-idolmaster:fujita-kotone@mobile-game-audiovisual-baseline`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME OTHER: Reviewed canonical V2 audiovisual baseline over the declared V1.0 character source lock, 26 newly staged objects and explicitly reused Re:IRIS material. Preserve text/metadata-only object limits, repertoire gaps and contextual performance modes; this is not a definitive Phase-7 or exhaustive-game model.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Fujita Kotone dedicated analysis](series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_COMPLETE_AUDIOVISUAL_BASELINE.md)
+
 ### Furina
 
 - Entity ID: `genshin-impact:furina`
@@ -886,6 +1413,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`opm-hero-character-state-ledger` — OPM HERO CHARACTER STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md)
   - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
 
+### Gentle Criminal
+
+- Entity ID: `my-hero-academia:gentle-criminal`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:gentle-criminal@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Gentle Criminal dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_GENTLE_CRIMINAL_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Ghostblade
 
 - Entity ID: `to-be-hero-x:ghostblade`
@@ -986,6 +1533,50 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`86-grethe-wenzel-character-reference-profile` — 86 GRETHE WENZEL CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_GRETHE_WENZEL_CHARACTER_REFERENCE_PROFILE.md)
 
+### Gunther
+
+- Entity ID: `ascendance-of-a-bookworm:gunther`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:gunther@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-part1-distributed`: LIGHT_NOVEL VOLUME: Bounded character-specific interpretation distributed across the Japanese-primary V01-V03 frozen Part 1 readings: family, occupational and recipient-dependent states only. Preserve each volume's information boundary. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-v01` — Gunther analysis in V01 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V01_DEEP_READING.md)
+  - [`reviewed-v02` — Gunther analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Gunther analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
+
+### Gustav
+
+- Entity ID: `ascendance-of-a-bookworm:gustav`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:gustav@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-v02-v03`: LIGHT_NOVEL VOLUME: Substantial distributed analysis in the Japanese-primary V02 and V03 frozen readings, interpreted with the Part 1 boundary synthesis. V02 emergency-treatment uncertainty remains historical; V03 clarification is later evidence. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-part1` — Gustav analysis in Part 1 boundary synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+  - [`reviewed-v02` — Gustav analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Gustav analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
+
 ### Hanami Ume
 
 - Entity ID: `the-idolmaster:hanami-ume`
@@ -1069,6 +1660,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`kimishinu-haru-character-monograph` — KIMISHINU HARU CHARACTER MONOGRAPH](series/kimishinu/04%20Specialist%20Synthesis/KIMISHINU_HARU_CHARACTER_MONOGRAPH.md)
 
+### Haru Aomi
+
+- Entity ID: `chiramune:haru-aomi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:haru-aomi@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Haru Aomi dedicated analysis](series/chiramune/04%20Character%20Analysis/Haru%20Aomi/CHIRAMUNE_HARU_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Haruka
 
 - Entity ID: `blue-archive:haruka`
@@ -1090,6 +1701,96 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+### Haruka
+
+- Entity ID: `project-sekai:haruka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:haruka@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Haruka analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Haruka analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-shared-synthesis` — Haruka analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
+### Harumi Kajika
+
+- Entity ID: `tokyo-7th-sisters:harumi-kajika`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:harumi-kajika@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0011 introduction chapter, Main episodes 201001001–201001009, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### Harumi Sawara
+
+- Entity ID: `tokyo-7th-sisters:harumi-sawara`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:harumi-sawara@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0011 introduction chapter, Main episodes 201001001–201001009, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### Harumi Shinju
+
+- Entity ID: `tokyo-7th-sisters:harumi-shinju`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:harumi-shinju@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0011 introduction chapter, Main episodes 201001001–201001009, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Hataya Misuzu
 
@@ -1122,17 +1823,39 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:hawks@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `hawks-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-pro-hero-character-state-ledger` — MHA SP2 PRO HERO CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_PRO_HERO_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Hawks V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_HAWKS_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Hayama Akira
+
+- Entity ID: `shokugeki-no-soma:hayama-akira`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:hayama-akira@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Hayama Akira dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_HAYAMA_CHARACTER_MODEL.md) — **active provisional authority**
 
 ### Hayami Kanade
 
@@ -1228,17 +1951,39 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:himiko-toga@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `himiko-toga-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
   - [`mha-sp2-villain-antagonist-character-state-ledger` — MHA SP2 VILLAIN ANTAGONIST CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Himiko Toga V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_HIMIKO_TOGA_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Hinami
+
+- Entity ID: `tomozaki:hinami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:hinami@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Hinami analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
 ### Hinase Naoki
 
@@ -1345,6 +2090,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`hojo-karen-mobile-game-monograph` — Hojo Karen mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_HOJO_KAREN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`hojo-karen-mobile-game-monograph-audit` — Hojo Karen mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_HOJO_KAREN_MONOGRAPH_AUDIT.md)
 
+### Honami
+
+- Entity ID: `project-sekai:honami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:honami@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Honami analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
+
 ### Horikita Suzune
 
 - Entity ID: `classroom-of-the-elite:horikita-suzune`
@@ -1427,6 +2192,46 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-nagisa-longitudinal-ledger` — IDOLY PRIDE V2 CHAR NAGISA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md)
 
+### Ichika
+
+- Entity ID: `project-sekai:ichika`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:ichika@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Ichika analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
+
+### Ichinose Honami
+
+- Entity ID: `classroom-of-the-elite:ichinose-honami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite light novel
+
+- Analysis subject ID: `classroom-of-the-elite:ichinose-honami@light-novel`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-original-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-original-light-novels`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Ichinose Honami analysis in shared synthesis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
+
 ### Ichinose Rei
 
 - Entity ID: `idoly-pride:ichinose-rei`
@@ -1478,17 +2283,39 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:iida-tenya@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `iida-tenya-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-class-1a-character-state-ledger` — MHA SP2 CLASS 1A CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Iida Tenya V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_IIDA_TENYA_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Ikumi Mito
+
+- Entity ID: `shokugeki-no-soma:ikumi-mito`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:ikumi-mito@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Ikumi Mito dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) — **active provisional authority**
 
 ### Ito Momiji
 
@@ -1509,6 +2336,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `ito-momiji-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-momiji-yukine-character-deep-dive` — SHINEPOST MOMIJI YUKINE CHARACTER DEEP DIVE](series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_MOMIJI_YUKINE_CHARACTER_DEEP_DIVE.md)
+
+### Izumi Yuzu
+
+- Entity ID: `tomozaki:izumi-yuzu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:izumi-yuzu@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`provisional-character-study` — Izumi Yuzu provisional character study](series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 ### Jean Kirstein
 
@@ -1532,6 +2379,48 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`aot-character-model-readiness-and-coverage-ledger` — AOT CHARACTER MODEL READINESS AND COVERAGE LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_CHARACTER_MODEL_READINESS_AND_COVERAGE_LEDGER.md) — **active provisional authority**
   - [`aot-japanese-voice-and-vocabulary-ledger` — AOT JAPANESE VOICE AND VOCABULARY LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md) — **active provisional authority**
   - [`aot-relationship-conditioned-behavior-ledger` — AOT RELATIONSHIP CONDITIONED BEHAVIOR LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_RELATIONSHIP_CONDITIONED_BEHAVIOR_LEDGER.md) — **active provisional authority**
+
+### Jeda Diamond
+
+- Entity ID: `tokyo-7th-sisters:jeda-diamond`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:jeda-diamond@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0040`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0040, exactly Main episodes 611101601–611101604.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Jiro Kyoka
+
+- Entity ID: `my-hero-academia:jiro-kyoka`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:jiro-kyoka@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Jiro Kyoka dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_JIRO_KYOKA_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Jougasaki Mika
 
@@ -1593,6 +2482,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`gkm-core-12-juo-sena` — GKM CORE 12 JUO SENA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA.md)
 
+### Kamishiro Sui
+
+- Entity ID: `tokyo-7th-sisters:kamishiro-sui`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kamishiro-sui@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0008 introduction chapter, Main episodes 201000701–201000709, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
 ### kana
 
 - Entity ID: `idoly-pride:kana`
@@ -1612,6 +2523,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `kana-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-kana-longitudinal-ledger` — IDOLY PRIDE V2 CHAR KANA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md)
+
+### Kanade
+
+- Entity ID: `project-sekai:kanade`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:kanade@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Kanade analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
 
 ### Kani Nayuta
 
@@ -1694,6 +2625,114 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`hibike-kaori-character-monograph` — HIBIKE KAORI CHARACTER MONOGRAPH](series/sound-euphonium/04%20Character%20Modeling/HIBIKE_KAORI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+### Karakuri Futaba
+
+- Entity ID: `tokyo-7th-sisters:karakuri-futaba`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:karakuri-futaba@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0034`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0034, exactly Main episodes 611101001–611101002. Separate day routes and private knowledge extend the chosen pair relation without enrolling intervening appearances or all later story. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-karakuri`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete 18-document Main KARAKURI family 200050: B0017 prologues 204001001–204001002 and B0021–B0024 episodes 313300101/102 through 313300801/802. B0018–B0020 belong to EPISODE 2.0 and are excluded from this family scope. Project-origin recollection, public crisis, distinct solos, chosen reunion and domestic coda remain differentiated. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Karakuri Hitoha
+
+- Entity ID: `tokyo-7th-sisters:karakuri-hitoha`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:karakuri-hitoha@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0034`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0034, exactly Main episodes 611101001–611101002. Separate day routes and private knowledge extend the chosen pair relation without enrolling intervening appearances or all later story. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-karakuri`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete 18-document Main KARAKURI family 200050: B0017 prologues 204001001–204001002 and B0021–B0024 episodes 313300101/102 through 313300801/802. B0018–B0020 belong to EPISODE 2.0 and are excluded from this family scope. Project-origin recollection, public crisis, distinct solos, chosen reunion and domestic coda remain differentiated. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Karuizawa Kei
+
+- Entity ID: `classroom-of-the-elite:karuizawa-kei`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite light novel
+
+- Analysis subject ID: `classroom-of-the-elite:karuizawa-kei@light-novel`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-original-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-original-light-novels`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Karuizawa Kei analysis in shared synthesis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
+
+### Kasukabe Haru
+
+- Entity ID: `tokyo-7th-sisters:kasukabe-haru`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kasukabe-haru@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0002 introduction chapter, Main episodes 201000101–201000109, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their B0007 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### Katsuhito Ichinose
+
+- Entity ID: `rent-a-girlfriend:katsuhito-ichinose`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:katsuhito-ichinose@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Historical family analysis through V020: V012 flashback encouragement, work, terminal reassurance and memorial, V017 remembered request, and V014/V016/V019 survivor invocation or memory. These selected scenes do not form continuous present-time conduct or a general philosophy.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Katsuhito Ichinose longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Katsuhito%20Ichinose/RAG_KATSUHITO_EVIDENCE_LEDGER.md)
+
 ### Katsuragi Lilja
 
 - Entity ID: `the-idolmaster:katsuragi-lilja`
@@ -1734,6 +2773,49 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-sakura-longitudinal-ledger` — IDOLY PRIDE V2 CHAR SAKURA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md)
 
+### Kawasumi Shisara
+
+- Entity ID: `tokyo-7th-sisters:kawasumi-shisara`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kawasumi-shisara@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0037`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0037, exactly Main episodes 611101301–611101302.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-b0038-closing-intervention`: GAME STORY_CHAPTER: Reviewed individual interpretation of Shisara's closing support for Tomoe in B0038, Main episode 611101404, as routed by CHAR-0034 and EV-B0038-003. This additional intervention does not enroll all of B0038 for Shisara. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Kaya Rinha
+
+- Entity ID: `the-idolmaster:kaya-rinha`
+- Entity aliases:
+  - _None._
+
+#### Subject: Gakuen Idolmaster mobile-game targeted scene analysis
+
+- Analysis subject ID: `the-idolmaster:kaya-rinha@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-targeted-scenes`: GAME OTHER: Bounded interpretation of RINHA-AV-20260911 targets P0-001 through P0-011 and P1-001 through P1-007: selected Temari, Misuzu, Saki and Ume Dear scenes, Support 0097 parts 01-03, and EVENT_016 main-03 under Source Lock 1.0. Textual action and attributed interiority support behavior, psychology and recipient-specific relationships, with limited sampled-still support. Modular Dear/support contexts and childhood recollections remain separate; no single merged chronology, exhaustive appearance coverage, heard delivery or continuous-motion coverage is asserted.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`targeted-scene-baseline` — Kaya Rinha targeted scene baseline: textual and sampled-still character analysis](series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
+
 ### Kayoko
 
 - Entity ID: `blue-archive:kayoko`
@@ -1755,6 +2837,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+### Kazuya Kinoshita
+
+- Entity ID: `rent-a-girlfriend:kazuya-kinoshita`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:kazuya-kinoshita@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V001-V020 longitudinal analysis of appraisal, concealment, bounded repair, consent, employment, film production and grief support. Interrupted declarations and unresolved relationships remain incomplete; project competence does not establish general maturity.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Kazuya Kinoshita longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md)
 
 ### Kenjiro Toki
 
@@ -1796,6 +2898,66 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`keroppe-naoki-comparison` — Keroppe × Naoki — SHINE POST](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Kibe
+
+- Entity ID: `rent-a-girlfriend:kibe`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:kibe@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V002-V003 childhood testimony, forceful intervention, practical support and selective secrecy, plus V020 social introduction and accidental interruption. V001 is peer context and V005 an information gap. Unknown given name and incomplete relationship knowledge are preserved.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Kibe longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kibe/RAG_KIBE_EVIDENCE_LEDGER.md)
+
+### Kikuchi Fuka
+
+- Entity ID: `tomozaki:kikuchi-fuka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:kikuchi-fuka@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`provisional-character-study` — Kikuchi Fuka reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md)
+
+### Kirishima Eijiro
+
+- Entity ID: `my-hero-academia:kirishima-eijiro`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:kirishima-eijiro@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Kirishima Eijiro dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_KIRISHIMA_EIJIRO_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Kobayakawa Sae
 
 - Entity ID: `the-idolmaster:kobayakawa-sae`
@@ -1817,6 +2979,46 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`kobayakawa-sae-mobile-game-monograph` — Kobayakawa Sae mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`kobayakawa-sae-mobile-game-monograph-audit` — Kobayakawa Sae mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_MONOGRAPH_AUDIT.md)
 
+### Kobayashi Rindō
+
+- Entity ID: `shokugeki-no-soma:kobayashi-rindo`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:kobayashi-rindo@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Kobayashi Rindō dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_RINDO_CHARACTER_MODEL.md) — **active provisional authority**
+
+### Kohane
+
+- Entity ID: `project-sekai:kohane`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:kohane@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Kohane analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
+
 ### Komiyama Ai
 
 - Entity ID: `idoly-pride:komiyama-ai`
@@ -1836,6 +3038,52 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `komiyama-ai-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-ai-longitudinal-ledger` — IDOLY PRIDE V2 CHAR AI LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_AI_LONGITUDINAL_LEDGER.md)
+
+### Kujo Ume
+
+- Entity ID: `tokyo-7th-sisters:kujo-ume`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kujo-ume@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0033`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0033, exactly Main episodes 611100901–611100902. The later public-friendliness intervention is a separate bounded extension; intervening appearances and the rest of EPISODE 3.0 are not implicitly enrolled. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-episode-4u`: GAME STORY_CHAPTER: Reviewed individual interpretation across the complete 22-document native Main EPISODE.4U family 200040, blocks B0012–B0016: six prologues and sixteen main-story documents ending at 203001802. Childhood recollection, later fandom loss, band formation and present recommitment remain distinct states; physical file adjacency is not continuous coverage. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-4u-arc-reading` — EPISODE.4U arc reading: personal history, member choices and incomplete repair](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_4U_ARC_DEEP_READING.md)
+
+### Kuonji Shizuka
+
+- Entity ID: `tokyo-7th-sisters:kuonji-shizuka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kuonji-shizuka@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0009 introduction chapter, Main episodes 201000801–201000809, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Kuramoto China
 
@@ -1857,6 +3105,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`gkm-core-06-kuramoto-china` — GKM CORE 06 KURAMOTO CHINA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_CORE_06_KURAMOTO_CHINA.md)
 
+### Kuranosuke Iwanami
+
+- Entity ID: `chiramune:kuranosuke-iwanami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:kuranosuke-iwanami@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Kuranosuke Iwanami dedicated analysis](series/chiramune/04%20Character%20Analysis/Kuranosuke%20Iwanami/CHIRAMUNE_KURANOSUKE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Kurena Kukumila
 
 - Entity ID: `86-eighty-six:kurena-kukumila`
@@ -1877,6 +3145,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`86-kurena-kukumila-character-reference-profile` — 86 KURENA KUKUMILA CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_KURENA_KUKUMILA_CHARACTER_REFERENCE_PROFILE.md)
 
+### Kuribayashi
+
+- Entity ID: `rent-a-girlfriend:kuribayashi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:kuribayashi@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Concentrated V003-V005 rental-client injury, truth disclosure, anger and local friendship repair, with a brief V020 peer encounter. V001 supplies context; V006-V019 supply no new material conduct. Given name and durable forgiveness remain unestablished.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Kuribayashi longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kuribayashi/RAG_KURIBAYASHI_EVIDENCE_LEDGER.md)
+
 ### Kurogane Ren
 
 - Entity ID: `shine-post:kurogane-ren`
@@ -1896,6 +3184,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `kurogane-ren-reviewed-corpus`: ANIME EPISODE: Canonical character deep dive over the SHINE POST television anime Episodes 1-12; the shared YukiMoji artifact contains separately substantial sections for both Momiji and Yukine.; continuity `shine-post-television-anime`
 - Reviewed current evidence:
   - [`shinepost-kurogane-ren-character-deep-dive` — SHINEPOST KUROGANE REN CHARACTER DEEP DIVE](series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_KUROGANE_REN_CHARACTER_DEEP_DIVE.md)
+
+### Kurokiba Ryō
+
+- Entity ID: `shokugeki-no-soma:kurokiba-ryo`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:kurokiba-ryo@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Kurokiba Ryō dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_KUROKIBA_CHARACTER_MODEL.md) — **active provisional authority**
 
 ### Kurusu Kanako
 
@@ -1976,6 +3284,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `kosaka-kyousuke-reviewed-corpus`: LIGHT_NOVEL VOLUME: Dedicated character section within the canonical core-cast monograph covering the twelve original Japanese light novels.; continuity `oreimo-original-light-novels`
 - Reviewed current evidence:
   - [`oreimo-core-character-deep-dive` — OREIMO CORE CHARACTER DEEP DIVE](series/oreimo/V1%20Analysis/04%20Character%20Deep%20Dives/OREIMO_CORE_CHARACTER_DEEP_DIVE.md)
+
+### Lady Nagant / Tsutsumi Kaina
+
+- Entity ID: `my-hero-academia:lady-nagant`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:lady-nagant@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Lady Nagant / Tsutsumi Kaina dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_LADY_NAGANT_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Lerche
 
@@ -2100,6 +3428,66 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`10-luo-li-cuteness-technology-grief-and-self-authorship` — 10 LUO LI CUTENESS TECHNOLOGY GRIEF AND SELF AUTHORSHIP](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md)
 
+### Lutz
+
+- Entity ID: `ascendance-of-a-bookworm:lutz`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:lutz@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed Part 1 integrated analysis across the frozen original-Japanese numbered-volume V01–V03 readings. Preserve the prospective V03 cutoff, recipient-specific knowledge and unresolved identity mechanisms; no Part 2 or adaptation evidence is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Lutz analysis in shared synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+
+### Lynae
+
+- Entity ID: `wuthering-waves:lynae`
+- Entity aliases:
+  - _None._
+
+#### Subject: Wuthering Waves game — playable Lynae
+
+- Analysis subject ID: `wuthering-waves:lynae@game`
+- Series: `wuthering-waves`
+- Continuity: `wuthering-waves-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Lynae dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Lynae/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+### Mafuyu
+
+- Entity ID: `project-sekai:mafuyu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:mafuyu@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Mafuyu analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
+
 ### Mai
 
 - Entity ID: `maebashi-witches:mai`
@@ -2160,6 +3548,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`oreimo-core-character-deep-dive` — OREIMO CORE CHARACTER DEEP DIVE](series/oreimo/V1%20Analysis/04%20Character%20Deep%20Dives/OREIMO_CORE_CHARACTER_DEEP_DIVE.md)
 
+### Mami Nanami
+
+- Entity ID: `rent-a-girlfriend:mami-nanami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:mami-nanami@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Substantial conduct in V001-V003, V005-V006, V009-V010 and V020. Contradiction testing, audience-sensitive presentation and access-building are supported; motive and endpoint remain unresolved. The V011-V019 gap is not continuous planning evidence.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Mami Nanami longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Mami%20Nanami/RAG_MAMI_EVIDENCE_LEDGER.md)
+
 ### Midoriya Izuku
 
 - Entity ID: `my-hero-academia:midoriya-izuku`
@@ -2171,17 +3579,19 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:midoriya-izuku@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `midoriya-izuku-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-class-1a-character-state-ledger` — MHA SP2 CLASS 1A CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Midoriya Izuku V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_MIDORIYA_IZUKU_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Mikasa Ackerman
 
@@ -2206,6 +3616,150 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`aot-japanese-voice-and-vocabulary-ledger` — AOT JAPANESE VOICE AND VOCABULARY LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md) — **active provisional authority**
   - [`aot-relationship-conditioned-behavior-ledger` — AOT RELATIONSHIP CONDITIONED BEHAVIOR LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_RELATIONSHIP_CONDITIONED_BEHAVIOR_LEDGER.md) — **active provisional authority**
 
+### Mimimi
+
+- Entity ID: `tomozaki:mimimi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:mimimi@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Mimimi analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+
+### Mini Yaemori
+
+- Entity ID: `rent-a-girlfriend:mini-yaemori`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:mini-yaemori@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V013-V017 and V019-V020 project and relationship interventions, including coordination, disclosures, deceptive logistics and confidant access. Campaign competence does not validate romantic inference or authorize breaches of privacy; no continuous V018 scope is claimed.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Mini Yaemori longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Mini%20Yaemori/RAG_MINI_EVIDENCE_LEDGER.md)
+
+### Minori
+
+- Entity ID: `project-sekai:minori`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:minori@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Minori analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Minori analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-shared-synthesis` — Minori analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
+### Misaki Nagisa
+
+- Entity ID: `chiramune:misaki-nagisa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:misaki-nagisa@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Misaki Nagisa dedicated analysis](series/chiramune/04%20Character%20Analysis/Misaki%20Nagisa/CHIRAMUNE_MISAKI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Mizuki
+
+- Entity ID: `project-sekai:mizuki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:mizuki@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Mizuki analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
+
+### Mizusawa Takahiro
+
+- Entity ID: `tomozaki:mizusawa-takahiro`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:mizusawa-takahiro@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`provisional-character-study` — Mizusawa Takahiro provisional character study](series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Momiji Nozomi
+
+- Entity ID: `chiramune:momiji-nozomi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:momiji-nozomi@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Momiji Nozomi dedicated analysis](series/chiramune/04%20Character%20Analysis/Momiji%20Nozomi/CHIRAMUNE_MOMIJI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Mutsuki
 
 - Entity ID: `blue-archive:mutsuki`
@@ -2227,6 +3781,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+### Myne
+
+- Entity ID: `ascendance-of-a-bookworm:myne`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:myne@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed Part 1 integrated analysis across the frozen original-Japanese numbered-volume V01–V03 readings. Preserve the prospective V03 cutoff, recipient-specific knowledge and unresolved identity mechanisms; no Part 2 or adaptation evidence is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Myne analysis in shared synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
 
 ### Nabatame Haru
 
@@ -2288,6 +3862,126 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-mana-longitudinal-ledger` — IDOLY PRIDE V2 CHAR MANA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md)
 
+### Nagomi Kinoshita
+
+- Entity ID: `rent-a-girlfriend:nagomi-kinoshita`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:nagomi-kinoshita@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Selected family, kinship and material-support analysis in V001-V003, V005, V010-V011, V018 and V020. Choices remain conditioned by the false couple premise; the V013 information gap adds no conduct. Care and family pressure coexist.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Nagomi Kinoshita longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Nagomi%20Kinoshita/RAG_NAGOMI_EVIDENCE_LEDGER.md)
+
+### Nakiri Alice
+
+- Entity ID: `shokugeki-no-soma:nakiri-alice`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:nakiri-alice@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Nakiri Alice dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ALICE_CHARACTER_MODEL.md) — **active provisional authority**
+
+### Nakiri Azami
+
+- Entity ID: `shokugeki-no-soma:nakiri-azami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:nakiri-azami@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Nakiri Azami dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_AZAMI_CHARACTER_MONOGRAPH.md)
+
+### Nakiri Erina
+
+- Entity ID: `shokugeki-no-soma:nakiri-erina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:nakiri-erina@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Nakiri Erina dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ERINA_CHARACTER_MONOGRAPH.md)
+
+### Nakiri Mana
+
+- Entity ID: `shokugeki-no-soma:nakiri-mana`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:nakiri-mana@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Nakiri Mana dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MANA_CHARACTER_MODEL.md) — **active provisional authority**
+
+### Nakiri Senzaemon
+
+- Entity ID: `shokugeki-no-soma:nakiri-senzaemon`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:nakiri-senzaemon@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Nakiri Senzaemon dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_SENZAEMON_CHARACTER_MODEL.md) — **active provisional authority**
+
 ### Narumiya Suzu
 
 - Entity ID: `idoly-pride:narumiya-suzu`
@@ -2307,6 +4001,66 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `narumiya-suzu-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-suzu-longitudinal-ledger` — IDOLY PRIDE V2 CHAR SUZU LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_SUZU_LONGITUDINAL_LEDGER.md)
+
+### Natsubayashi Hanabi
+
+- Entity ID: `tomozaki:natsubayashi-hanabi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:natsubayashi-hanabi@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`provisional-character-study` — Natsubayashi Hanabi provisional character study](series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Nazuna Ayase
+
+- Entity ID: `chiramune:nazuna-ayase`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:nazuna-ayase@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Nazuna Ayase dedicated analysis](series/chiramune/04%20Character%20Analysis/Nazuna%20Ayase/CHIRAMUNE_NAZUNA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Nene
+
+- Entity ID: `project-sekai:nene`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:nene@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Nene analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
 
 ### Ninomiya Asuka
 
@@ -2350,6 +4104,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`nitta-minami-mobile-game-monograph` — Nitta Minami mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_NITTA_MINAMI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`nitta-minami-mobile-game-monograph-audit` — Nitta Minami mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_NITTA_MINAMI_MONOGRAPH_AUDIT.md)
 
+### Nonohara Hime
+
+- Entity ID: `tokyo-7th-sisters:nonohara-hime`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:nonohara-hime@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0005 introduction chapter, Main episodes 201000401–201000409, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their B0007 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
 ### Nonomi
 
 - Entity ID: `blue-archive:nonomi`
@@ -2392,6 +4168,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-sumire-longitudinal-ledger` — IDOLY PRIDE V2 CHAR SUMIRE LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_SUMIRE_LONGITUDINAL_LEDGER.md)
 
+### Origasa Ayumu
+
+- Entity ID: `tokyo-7th-sisters:origasa-ayumu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:origasa-ayumu@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0035`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0035, exactly Main episodes 611101101–611101102.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
 ### Original Nice
 
 - Entity ID: `to-be-hero-x:original-nice`
@@ -2411,6 +4209,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `original-nice-reviewed-corpus`: ANIME EPISODE: Substantial subject-specific sections in a canonical Phase-3 character synthesis across the first-season episode boundary declared by the artifact; multi-subject documents are enrolled only for their explicitly co-primary subjects.; continuity `to-be-hero-x-animated-series`
 - Reviewed current evidence:
   - [`06-lin-ling-nice-moon-and-the-replacement-hero` — 06 LIN LING NICE MOON AND THE REPLACEMENT HERO](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md)
+
+### Otto
+
+- Entity ID: `ascendance-of-a-bookworm:otto`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:otto@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-part1-distributed`: LIGHT_NOVEL VOLUME: Bounded character-specific interpretation distributed across the Japanese-primary V01-V03 frozen Part 1 readings: family, occupational and recipient-dependent states only. Preserve each volume's information boundary. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-v01` — Otto analysis in V01 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V01_DEEP_READING.md)
+  - [`reviewed-v02` — Otto analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Otto analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
 
 ### Queen
 
@@ -2451,6 +4271,49 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `raiden-shuga-reviewed-corpus`: LIGHT_NOVEL VOLUME: Canonical character reference profile over the locked original-Japanese Volumes 1-14, with Alter.1 used where the profile admits it and Alter.2 excluded from mainline characterization.; continuity `86-eighty-six-original-light-novels`
 - Reviewed current evidence:
   - [`86-raiden-shuga-character-reference-profile` — 86 RAIDEN SHUGA CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_RAIDEN_SHUGA_CHARACTER_REFERENCE_PROFILE.md)
+
+### Ram
+
+- Entity ID: `re-zero:ram`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:ram@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+### Rei
+
+- Entity ID: `tokyo-7th-sisters:first-spirit-rei`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:first-spirit-rei@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0041`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0041, exactly Main episodes 611101701–611101704.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
 
 ### Reiner Braun
 
@@ -2496,6 +4359,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`dedicated-character-and-philosophy-monograph` — Dedicated Reinhard von Lohengramm character, philosophy, and rule monograph](series/legend-of-the-galactic-heroes/04%20Specialist%20Synthesis/02_REINHARD_VON_LOHENGRAMM_CHARACTER_AND_PHILOSOPHY.md)
 
+### Rem
+
+- Entity ID: `re-zero:rem`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:rem@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
 ### Rito Oriya
 
 - Entity ID: `86-eighty-six:rito-oriya`
@@ -2515,6 +4399,67 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `rito-oriya-reviewed-corpus`: LIGHT_NOVEL VOLUME: Canonical character reference profile over the locked original-Japanese Volumes 1-14, with Alter.1 used where the profile admits it and Alter.2 excluded from mainline characterization.; continuity `86-eighty-six-original-light-novels`
 - Reviewed current evidence:
   - [`86-rito-character-reference-profile` — 86 RITO CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_RITO_CHARACTER_REFERENCE_PROFILE.md)
+
+### Roswaal
+
+- Entity ID: `re-zero:roswaal`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:roswaal@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+### Rui
+
+- Entity ID: `project-sekai:rui`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:rui@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Rui analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
+### Ruka Sarashina
+
+- Entity ID: `rent-a-girlfriend:ruka-sarashina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:ruka-sarashina@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Substantial conduct in V003-V006, V008-V011, V014-V018 and V020; V007, V012-V013 and V019 are gaps. Physiological self-interpretation is not diagnosis or objective compatibility. Later negotiated contact does not erase earlier consent failures.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Ruka Sarashina longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md)
 
 ### Saeki Haruko
 
@@ -2536,6 +4481,50 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-haruko-longitudinal-ledger` — IDOLY PRIDE V2 CHAR HARUKO LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_HARUKO_LONGITUDINAL_LEDGER.md)
 
+### Saeki Hina
+
+- Entity ID: `tokyo-7th-sisters:saeki-hina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:saeki-hina@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0033`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0033, exactly Main episodes 611100901–611100902. The later public-friendliness intervention is a separate bounded extension; intervening appearances and the rest of EPISODE 3.0 are not implicitly enrolled. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-episode-4u`: GAME STORY_CHAPTER: Reviewed individual interpretation across the complete 22-document native Main EPISODE.4U family 200040, blocks B0012–B0016: six prologues and sixteen main-story documents ending at 203001802. Childhood recollection, later fandom loss, band formation and present recommitment remain distinct states; physical file adjacency is not continuous coverage. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-4u-arc-reading` — EPISODE.4U arc reading: personal history, member choices and incomplete repair](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_4U_ARC_DEEP_READING.md)
+
+### Saiba Asahi
+
+- Entity ID: `shokugeki-no-soma:saiba-asahi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:saiba-asahi@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Saiba Asahi dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md)
+
 ### Saitama
 
 - Entity ID: `one-punch-man:saitama`
@@ -2548,15 +4537,98 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `one-punch-man`
 - Continuity: `one-punch-man-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-v36-v37-ethical-boundaries`: MANGA VOLUME: Collected Japanese V36-V37 ledger sections: concern without ownership, limits on collateral harm, admission of competence limits, uncertain developmental possibility, failed evaluative feedback, and correction of a money-driven rescue motive. This added ethical scope follows the specific analyzed scenes, not uniform coverage of every chapter. Official-web provisional material and later collected volumes are excluded.; continuity `one-punch-man-manga`
   - `saitama-reviewed-corpus`: MANGA VOLUME: Distributed substantial analysis for a subject at the explicit current strong tier in the canonical readiness index, supported by the appropriate character-state and relationship ledgers; all per-volume and scenario limits remain in force.; continuity `one-punch-man-manga`
 - Reviewed current evidence:
   - [`opm-character-model-readiness-index` — OPM CHARACTER MODEL READINESS INDEX](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
   - [`opm-saitama-character-state-ledger` — OPM SAITAMA CHARACTER STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md)
+
+### Saki
+
+- Entity ID: `project-sekai:saki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:saki@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Saki analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
+
+### Saku Chitose
+
+- Entity ID: `chiramune:saku-chitose`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:saku-chitose@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Saku Chitose dedicated analysis](series/chiramune/04%20Character%20Analysis/Saku%20Chitose/CHIRAMUNE_SAKU_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Sakura
+
+- Entity ID: `tokyo-7th-sisters:sakura-child`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:sakura-child@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0036`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0036, exactly Main episodes 611101201–611101202. B0036 recounts an earlier Seven Sisters interval after the referenced SEVENTH HAVEN work and before dissolution. Its position in EPISODE 3.0 is presentation order, not contemporaneity with current Nanasta or an exact date. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Sayuri Ichinose
+
+- Entity ID: `rent-a-girlfriend:sayuri-ichinose`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:sayuri-ichinose@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Selected family and vocational analysis from V001, V003, V007-V008, V010-V014 and V017-V018, with direct conduct ending in V018. V019-V020 cover survivor memory and influence, not new Sayuri conduct. Final factual belief remains ambiguous; no medical diagnosis is inferred.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Sayuri Ichinose longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Sayuri%20Ichinose/RAG_SAYURI_EVIDENCE_LEDGER.md)
 
 ### Seibu Rio
 
@@ -2662,6 +4734,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
 
+### Serizawa Momoka
+
+- Entity ID: `tokyo-7th-sisters:serizawa-momoka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:serizawa-momoka@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0006 introduction chapter, Main episodes 201000501–201000509, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their B0007 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
 ### Shiden Iida
 
 - Entity ID: `86-eighty-six:shiden-iida`
@@ -2693,17 +4787,39 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:shigaraki-tomura@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
   - `shigaraki-tomura-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
   - [`mha-sp2-villain-antagonist-character-state-ledger` — MHA SP2 VILLAIN ANTAGONIST CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Shigaraki Tomura V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SHIGARAKI_TOMURA_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Shiho
+
+- Entity ID: `project-sekai:shiho`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:shiho@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Shiho analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
 
 ### Shinei Nouzen
 
@@ -2745,6 +4861,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`06-shinobu-kiss-shot-acerola-vampirism-appetite-and-family` — 06 SHINOBU KISS SHOT ACEROLA VAMPIRISM APPETITE AND FAMILY](series/monogatari-series/V2%20Analysis/04%20Specialist%20Synthesis/06_SHINOBU_KISS_SHOT_ACEROLA_VAMPIRISM_APPETITE_AND_FAMILY.md)
 
+### Shinomiya Kōjirō
+
+- Entity ID: `shokugeki-no-soma:shinomiya-kojiro`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:shinomiya-kojiro@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Shinomiya Kōjirō dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_SHINOMIYA_CHARACTER_MODEL.md) — **active provisional authority**
+
 ### Shinosawa Hiro
 
 - Entity ID: `the-idolmaster:shinosawa-hiro`
@@ -2764,6 +4900,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `shinosawa-hiro-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-07-shinosawa-hiro` — GKM CORE 07 SHINOSAWA HIRO](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/07_SHINOSAWA_HIRO/GKM_CORE_07_SHINOSAWA_HIRO.md)
+
+### Shinso Hitoshi
+
+- Entity ID: `my-hero-academia:shinso-hitoshi`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:shinso-hitoshi@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Shinso Hitoshi dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SHINSO_HITOSHI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Shiraishi Chisa
 
@@ -2804,6 +4960,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `shiraishi-saki-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-saki-longitudinal-ledger` — IDOLY PRIDE V2 CHAR SAKI LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_SAKI_LONGITUDINAL_LEDGER.md)
+
+### Shiratori Tomoe
+
+- Entity ID: `tokyo-7th-sisters:shiratori-tomoe`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:shiratori-tomoe@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0038`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0038, exactly Main episodes 611101401–611101404.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
 
 ### Shiroko
 
@@ -2847,6 +5025,70 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`gkm-core-09-shiun-sumika` — GKM CORE 09 SHIUN SUMIKA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/09_SHIUN_SUMIKA/GKM_CORE_09_SHIUN_SUMIKA.md)
 
+### Shizuku
+
+- Entity ID: `project-sekai:shizuku`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:shizuku@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Shizuku analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Shizuku analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-shared-synthesis` — Shizuku analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
+### Shoji Mezo
+
+- Entity ID: `my-hero-academia:shoji-mezo`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:shoji-mezo@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Shoji Mezo dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SHOJI_MEZO_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Sir Nighteye
+
+- Entity ID: `my-hero-academia:sir-nighteye`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:sir-nighteye@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Sir Nighteye dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SIR_NIGHTEYE_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Smile
 
 - Entity ID: `to-be-hero-x:smile`
@@ -2867,6 +5109,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`13-dragon-boy-smile-pain-fear-and-punitive-heroism` — 13 DRAGON BOY SMILE PAIN FEAR AND PUNITIVE HEROISM](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md)
 
+### Spinner / Iguchi Shuichi
+
+- Entity ID: `my-hero-academia:iguchi-shuichi`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:iguchi-shuichi@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Spinner / Iguchi Shuichi dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SPINNER_IGUCHI_SHUICHI_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### St. Louis
 
 - Entity ID: `azur-lane:st-louis`
@@ -2886,6 +5148,47 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `st-louis-reviewed-corpus`: GAME OTHER: Reviewed character monograph over the pinned Azur Lane multilingual extracted corpus, with CN semantic authority and explicitly bounded regional, relationship, memory, and performed-voice evidence.; continuity `azur-lane-mobile-game`
 - Reviewed current evidence:
   - [`azur-lane-st-louis-character-monograph` — AZUR LANE ST LOUIS CHARACTER MONOGRAPH](series/azur-lane/03%20Character%20Reconstruction/ST_LOUIS_10213/AZUR_LANE_ST_LOUIS_CHARACTER_MONOGRAPH.md)
+
+### Subaru
+
+- Entity ID: `re-zero:subaru`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:subaru@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+### Sumi Sakurasawa
+
+- Entity ID: `rent-a-girlfriend:sumi-sakurasawa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:sumi-sakurasawa@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V005-V012 practice, adaptive communication, gift guidance, planned care and grief listening, plus V017 hospital support and V018 friendship-framed intervention. V013-V016 and V019-V020 contain no new direct conduct. Unheard confession creates no shared knowledge.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Sumi Sakurasawa longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Sumi%20Sakurasawa/RAG_SUMI_EVIDENCE_LEDGER.md)
 
 ### Sung Jinwoo
 
@@ -2927,6 +5230,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `suzumura-yu-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-yu-longitudinal-ledger` — IDOLY PRIDE V2 CHAR YU LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_YU_LONGITUDINAL_LEDGER.md)
+
+### Tadokoro Megumi
+
+- Entity ID: `shokugeki-no-soma:tadokoro-megumi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:tadokoro-megumi@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Tadokoro Megumi dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MEGUMI_CHARACTER_MONOGRAPH.md)
 
 ### Taihou
 
@@ -3029,6 +5352,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`shinepost-tamaki-kyoka-character-deep-dive` — SHINEPOST TAMAKI KYOKA CHARACTER DEEP DIVE](series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_TAMAKI_KYOKA_CHARACTER_DEEP_DIVE.md)
 
+### Tamasaka Makoto
+
+- Entity ID: `tokyo-7th-sisters:tamasaka-makoto`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:tamasaka-makoto@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0035`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0035, exactly Main episodes 611101101–611101102.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
 ### Tamura Manami
 
 - Entity ID: `oreimo:tamura-manami`
@@ -3069,6 +5414,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-rui-longitudinal-ledger` — IDOLY PRIDE V2 CHAR RUI LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_RUI_LONGITUDINAL_LEDGER.md)
 
+### Tendoji Musubi
+
+- Entity ID: `tokyo-7th-sisters:tendoji-musubi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:tendoji-musubi@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0003 introduction chapter, Main episodes 201000201–201000209, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their B0007 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
 ### Theoto Rikka
 
 - Entity ID: `86-eighty-six:theoto-rikka`
@@ -3100,17 +5467,81 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:todoroki-shoto@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
   - `todoroki-shoto-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-class-1a-character-state-ledger` — MHA SP2 CLASS 1A CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Todoroki Shoto V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TODOROKI_SHOTO_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Togata Mirio
+
+- Entity ID: `my-hero-academia:togata-mirio`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:togata-mirio@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Togata Mirio dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TOGATA_MIRIO_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Tokoyami Fumikage
+
+- Entity ID: `my-hero-academia:tokoyami-fumikage`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:tokoyami-fumikage@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Tokoyami Fumikage dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TOKOYAMI_FUMIKAGE_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Tomozaki
+
+- Entity ID: `tomozaki:tomozaki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:tomozaki@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V11, with only the monograph's explicitly routed V06.5/V08.5 supplemental units at their story-local positions. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations, parallel/VR bonus material and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-character-monograph` — Tomozaki Fumiya reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md)
+  - [`reviewed-shared-synthesis` — Tomozaki analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
 ### Totsuki Sheena
 
@@ -3132,6 +5563,150 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`kimishinu-sheena-character-monograph` — KIMISHINU SHEENA CHARACTER MONOGRAPH](series/kimishinu/04%20Specialist%20Synthesis/KIMISHINU_SHEENA_CHARACTER_MONOGRAPH.md)
 
+### Toya
+
+- Entity ID: `project-sekai:toya`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:toya@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Toya analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
+
+### Tsukasa
+
+- Entity ID: `project-sekai:tsukasa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:tsukasa@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Tsukasa analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
+### Tsukasa Eishi
+
+- Entity ID: `shokugeki-no-soma:tsukasa-eishi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:tsukasa-eishi@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Tsukasa Eishi dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_TSUKASA_CHARACTER_MODEL.md) — **active provisional authority**
+
+### Tsunomori Rona
+
+- Entity ID: `tokyo-7th-sisters:tsunomori-rona`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:tsunomori-rona@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0004 introduction chapter, Main episodes 201000301–201000309, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their B0007 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### Tuuli
+
+- Entity ID: `ascendance-of-a-bookworm:tuuli`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:tuuli@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-part1-distributed`: LIGHT_NOVEL VOLUME: Bounded character-specific interpretation distributed across the Japanese-primary V01-V03 frozen Part 1 readings: family, occupational and recipient-dependent states only. Preserve each volume's information boundary. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-v01` — Tuuli analysis in V01 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V01_DEEP_READING.md)
+  - [`reviewed-v02` — Tuuli analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Tuuli analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
+
+### Twice / Bubaigawara Jin
+
+- Entity ID: `my-hero-academia:bubaigawara-jin`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:bubaigawara-jin@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Twice / Bubaigawara Jin dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TWICE_BUBAIGAWARA_JIN_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Umi
+
+- Entity ID: `rent-a-girlfriend:umi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:umi@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V004 acting-colleague context and correction of jealous misreading; V015 invitation, direct questioning and campaign promotion; V016 recall belongs to Chizuru. No later direct conduct through V020 is claimed. Surname, motive and response to her qualified answer remain unknown.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Umi longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Umi/RAG_UMI_EVIDENCE_LEDGER.md)
+
 ### Uraraka Ochako
 
 - Entity ID: `my-hero-academia:uraraka-ochako`
@@ -3143,17 +5718,41 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `my-hero-academia:uraraka-ochako@manga`
 - Series: `my-hero-academia`
 - Continuity: `my-hero-academia-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
   - `uraraka-ochako-reviewed-corpus`: MANGA VOLUME: Distributed substantial V2 analysis for a subject explicitly marked specialist_ready in the canonical character-model readiness index, supported by the applicable character-state, relationship, and Japanese-vocabulary ledgers through the per-subject boundary recorded in those artifacts.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`mha-sp2-character-model-readiness-index` — MHA SP2 CHARACTER MODEL READINESS INDEX](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`mha-sp2-class-1a-character-state-ledger` — MHA SP2 CLASS 1A CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md)
   - [`mha-sp2-japanese-vocabulary-ledger` — MHA SP2 JAPANESE VOCABULARY LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md)
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
+  - [`reviewed-dedicated-analysis` — Uraraka Ochako V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_URARAKA_OCHAKO_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Usuta Sumire
+
+- Entity ID: `tokyo-7th-sisters:usuta-sumire`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:usuta-sumire@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0007 introduction chapter, Main episodes 201000601–201000609, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their B0007 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Viktor Idinarohk
 
@@ -3196,6 +5795,52 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`86-vladilena-milize-character-reference-profile` — 86 VLADILENA MILIZE CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_VLADILENA_MILIZE_CHARACTER_REFERENCE_PROFILE.md)
 
+### Wakaouji Rui
+
+- Entity ID: `tokyo-7th-sisters:wakaouji-rui`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:wakaouji-rui@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0036`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0036, exactly Main episodes 611101201–611101202. B0036 recounts an earlier Seven Sisters interval after the referenced SEVENTH HAVEN work and before dissolution. Its position in EPISODE 3.0 is presentation order, not contemporaneity with current Nanasta or an exact date. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Wanibuchi Emoco
+
+- Entity ID: `tokyo-7th-sisters:wanibuchi-emoco`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:wanibuchi-emoco@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0033`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0033, exactly Main episodes 611100901–611100902. The later public-friendliness intervention is a separate bounded extension; intervening appearances and the rest of EPISODE 3.0 are not implicitly enrolled. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+  - `reviewed-episode-4u`: GAME STORY_CHAPTER: Reviewed individual interpretation across the complete 22-document native Main EPISODE.4U family 200040, blocks B0012–B0016: six prologues and sixteen main-story documents ending at 203001802. Childhood recollection, later fandom loss, band formation and present recommitment remain distinct states; physical file adjacency is not continuous coverage. Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-4u-arc-reading` — EPISODE.4U arc reading: personal history, member choices and incomplete repair](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_4U_ARC_DEEP_READING.md)
+
 ### Woo Jinchul
 
 - Entity ID: `solo-leveling:woo-jinchul`
@@ -3236,6 +5881,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`06-lin-ling-nice-moon-and-the-replacement-hero` — 06 LIN LING NICE MOON AND THE REPLACEMENT HERO](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md)
 
+### Yamai Saori
+
+- Entity ID: `tokyo-7th-sisters:yamai-saori`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:yamai-saori@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0041`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0041, exactly Main episodes 611101701–611101704.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
 ### Yang Cheng
 
 - Entity ID: `to-be-hero-x:yang-cheng-e-soul`
@@ -3275,6 +5942,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `complete-original-novel-corpus`: LIGHT_NOVEL VOLUME: Dedicated reviewed synthesis across the ten main novels and five gaiden volumes in the supplied Japanese corpus; this does not claim coverage of anime, manga, or other adaptation incarnations.; continuity `legend-of-the-galactic-heroes-original-novels`
 - Reviewed current evidence:
   - [`dedicated-character-and-philosophy-monograph` — Dedicated Yang Wen-li character, philosophy, and democratic-restraint monograph](series/legend-of-the-galactic-heroes/04%20Specialist%20Synthesis/03_YANG_WENLI_CHARACTER_AND_PHILOSOPHY.md)
+
+### Yaoyorozu Momo
+
+- Entity ID: `my-hero-academia:yaoyorozu-momo`
+- Entity aliases:
+  - _None._
+
+#### Subject: My Hero Academia manga
+
+- Analysis subject ID: `my-hero-academia:yaoyorozu-momo@manga`
+- Series: `my-hero-academia`
+- Continuity: `my-hero-academia-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Yaoyorozu Momo dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_YAOYOROZU_MOMO_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### YonaiP (U149 Producer)
 
@@ -3321,6 +6008,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`yoo-jinho-character-reconstruction-model` — YOO JINHO CHARACTER RECONSTRUCTION MODEL](series/solo-leveling/04%20Specialist%20Synthesis/YOO_JINHO_CHARACTER_RECONSTRUCTION_MODEL.md) — **active provisional authority**
 
+### Yua Uchida
+
+- Entity ID: `chiramune:yua-uchida`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:yua-uchida@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Yua Uchida dedicated analysis](series/chiramune/04%20Character%20Analysis/Yua%20Uchida/CHIRAMUNE_YUA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Yuina
 
 - Entity ID: `maebashi-witches:yuina`
@@ -3342,6 +6049,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`yuina-role-analysis` — Character-role analysis](series/maebashi-witches/V1%20Analysis/04%20Character%20and%20Specialist%20Analysis/MAEBASHI_YUINA_CHARACTER_ROLE_ANALYSIS.md)
   - [`yuina-sakuta-comparison` — Yuina × Sakuta Azusagawa — Rascal Does Not Dream](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Yukihira Jōichirō
+
+- Entity ID: `shokugeki-no-soma:yukihira-joichiro`
+- Entity aliases:
+  - _None._
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:yukihira-joichiro@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Yukihira Jōichirō dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_JOICHIRO_CHARACTER_MONOGRAPH.md)
+
 ### Yukihira Soma
 
 - Entity ID: `shokugeki-no-soma:yukihira-soma`
@@ -3360,8 +6087,94 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `soma-sampled-manga-corpus`: MANGA VOLUME V01, V03, V08, V13, V19, V25, V30, V36; continuity `shokugeki-no-soma-manga`
+  - `soma-v2-reviewed-corpus`: MANGA VOLUME: Reviewed complete-series V2 character model over the original-Japanese V01–V36 analytical reread, including the distinct Le dessert chronological states. The separately retained V1 evidence and coverage remain eight-volume sampled analysis.; continuity `shokugeki-no-soma-manga`
 - Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Yukihira Soma V2 full-series character model](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_SOMA_V2_FULL_SERIES_CHARACTER_MODEL.md)
   - [`soma-behavioral-model-ledger` — Yukihira Soma behavioral-model ledger](series/shokugeki-no-soma/03%20Longitudinal%20Ledgers/SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md) — **active provisional authority**
   - [`soma-final-character-model` — Yukihira Soma final character model](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
   - [`soma-japanese-voice-ledger` — Yukihira Soma Japanese voice ledger](series/shokugeki-no-soma/03%20Longitudinal%20Ledgers/SHOKUGEKI_SOMA_JAPANESE_VOICE_LEDGER.md) — **active provisional authority**
   - [`soma-model-validation-audit` — Yukihira Soma character-model validation audit](series/shokugeki-no-soma/05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md)
+
+### Yuko Hiiragi
+
+- Entity ID: `chiramune:yuko-hiiragi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:yuko-hiiragi@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Yuko Hiiragi dedicated analysis](series/chiramune/04%20Character%20Analysis/Yuko%20Hiiragi/CHIRAMUNE_YUKO_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Yukuhashi Ei
+
+- Entity ID: `tokyo-7th-sisters:yukuhashi-ei`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:yukuhashi-ei@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0041`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0041, exactly Main episodes 611101701–611101704.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Yuzuki Nanase
+
+- Entity ID: `chiramune:yuzuki-nanase`
+- Entity aliases:
+  - _None._
+
+#### Subject: Chiramune light novel
+
+- Analysis subject ID: `chiramune:yuzuki-nanase@light-novel`
+- Series: `chiramune`
+- Continuity: `chiramune-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-dedicated-analysis` — Yuzuki Nanase dedicated analysis](series/chiramune/04%20Character%20Analysis/Yuzuki%20Nanase/CHIRAMUNE_YUZUKI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### 桂木カヅミ
+
+- Entity ID: `tokyo-7th-sisters:katsuragi-kazumi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:katsuragi-kazumi@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-b0039`: GAME STORY_CHAPTER: Reviewed individual interpretation of EPISODE 3.0 B0039, exactly Main episodes 611101501–611101504.  Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This enrolls substantial distributed character interpretation, not exhaustive appearances, direct listening, singing technique, continuous motion, or a completed monograph.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
+  - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)

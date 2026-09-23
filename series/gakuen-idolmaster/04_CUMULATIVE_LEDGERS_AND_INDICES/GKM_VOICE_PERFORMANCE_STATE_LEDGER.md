@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.5"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-22 — Rinami R2 voice/performance state promoted; 13/13 character baselines complete"
+last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -380,3 +380,10 @@ Fine facial claims in Dear 028–037 are resolution-limited because the availabl
 | confession/vow | blush-compatible hesitation followed by explicit `好きだよ`, mutual-aid and professional language | contraction, hand to sternum, averted gaze, direct-eye-contact recovery | romance intensifies the same relational grammar | personal/professional fusion requires governance |
 
 Longitudinal textual corroboration remains comparative rather than psychometric: ellipsis-bearing lines fall markedly in D04 while desire/love/victory vocabulary rises. R2 audio-identity verification preserves all earlier timecode and selected-prosody locators; the new 720p files raise only the visual-evidence ceiling.
+
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha performance-state controls — not yet heard
+
+The [18-target baseline](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md) has source-bound text, still observations and selected stereo-mix measurements. Direct listening and continuous-motion counters both remain 0 seconds. No acoustic emotion state or final speech-simulation register is promoted.
+
+Keep separate: Temari’s 3D crying, Rinha’s bust expression and Temari’s report of Rinha crying (Dear016); Rinha’s internal/public framing change (Temari020); fan engagement versus self-disqualification poses (Misuzu024); recoded versus sustained versus accepted disclosure endings (Temari016/Saki026/support0097-03). Ume015’s imitation report and `krnh` voice-asset identifiers do not establish real performer identity or acoustic fidelity. Mixed-window LUFS/LRA values are recording controls, not Rinha-specific voice-state measurements.
