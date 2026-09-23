@@ -382,6 +382,103 @@ class ControllerTests(unittest.TestCase):
                 runs['actions/runs/42'] = original
 
 
+class SquashRecognitionTests(unittest.TestCase):
+    def worker(self, preview=False):
+        api = FakeAPI()
+        prior = pull()
+        prior.update(state='closed', merged_at='2026-09-21T16:38:58Z', merge_commit_sha=M)
+        prior['head']['ref'] = 'series/a'
+        prior['base']['repo'] = {'full_name': REPOSITORY}
+        api.pages = mock.Mock(side_effect=lambda path: [prior] if 'state=closed' in path else [])
+        worker = Integrator(api, graph_mock(), preview=preview, controller_sha=B)
+        worker.graph.ancestor.side_effect = lambda base, head: (base, head) == (M, B)
+        worker.graph.merge_tree.side_effect = Blocked('merge conflict')
+        return worker, prior
+
+    def test_exact_merged_tip_is_recognized_without_any_write(self):
+        for preview in (False, True):
+            with self.subTest(preview=preview):
+                worker, prior = self.worker(preview)
+                row = {}
+                self.assertEqual(worker.process('series/a', S, B, row), B)
+                self.assertEqual(row['outcome'], 'already_integrated')
+                self.assertEqual((row['pr'], row['integration_sha']), (prior['number'], M))
+                self.assertEqual(worker.api.writes, [])
+                worker.graph.push.assert_not_called()
+                worker.graph.reconcile_commit.assert_not_called()
+                query = urllib.parse.parse_qs(worker.api.pages.call_args.args[0].split('?', 1)[1])
+                self.assertEqual(query, {'state': ['closed'], 'base': ['main'], 'head': [OWNER + ':series/a']})
+
+    def test_prior_pr_requires_merged_exact_tip_and_repository_identity(self):
+        cases = [
+            (('state',), 'open'), (('merged_at',), None),
+            (('user', 'login'), 'someone-else'),
+            (('head', 'sha'), G), (('head', 'ref'), 'series/b'),
+            (('head', 'repo', 'full_name'), 'other/repo'), (('head', 'repo'), None),
+            (('base', 'ref'), 'other'), (('base', 'repo', 'full_name'), 'other/repo'),
+            (('base', 'repo'), None),
+        ]
+        for path, value in cases:
+            with self.subTest(path=path, value=value):
+                worker, prior = self.worker()
+                target = prior
+                for key in path[:-1]:
+                    target = target[key]
+                target[path[-1]] = value
+                with self.assertRaisesRegex(Blocked, 'merge conflict'):
+                    worker.process('series/a', S, B, {})
+                self.assertEqual(worker.api.writes, [])
+                worker.graph.push.assert_not_called()
+
+    def test_prior_integration_requires_reachable_commit_and_identical_whole_tree(self):
+        for failure in ('unreachable', 'different-tree', 'invalid-sha'):
+            with self.subTest(failure=failure):
+                worker, prior = self.worker()
+                if failure == 'unreachable':
+                    worker.graph.ancestor.side_effect = None
+                    worker.graph.ancestor.return_value = False
+                elif failure == 'different-tree':
+                    worker.graph.tree.side_effect = lambda sha: sha
+                else:
+                    prior['merge_commit_sha'] = None
+                with self.assertRaises(Blocked):
+                    worker.process('series/a', S, B, {})
+                self.assertEqual(worker.api.writes, [])
+                worker.graph.push.assert_not_called()
+
+    def test_drift_during_preservation_proof_prevents_stale_success(self):
+        for moving in ('source', 'main'):
+            with self.subTest(moving=moving):
+                worker, _ = self.worker()
+                worker.graph.fetch.side_effect = lambda sha: setattr(worker.api, moving, G) if sha == M else None
+                row = {}
+                with self.assertRaises((Blocked, Halt)):
+                    worker.process('series/a', S, B, row)
+                self.assertNotEqual(row.get('outcome'), 'already_integrated')
+                self.assertEqual(worker.api.writes, [])
+
+    def test_git_execution_and_pr_lookup_errors_still_fail(self):
+        for failure in ('git', 'api'):
+            with self.subTest(failure=failure):
+                worker, _ = self.worker()
+                if failure == 'git':
+                    worker.graph.merge_tree.side_effect = GitError('merge-tree', 128)
+                    expected = GitError
+                else:
+                    def pages(path):
+                        if 'state=closed' in path:
+                            raise ApiError('GET', path, 403)
+                        return []
+                    worker.api.pages.side_effect = pages
+                    expected = ApiError
+                with self.assertRaises(expected):
+                    worker.process('series/a', S, B, {})
+                if failure == 'git':
+                    self.assertFalse(any('state=closed' in call.args[0] for call in worker.api.pages.call_args_list))
+                self.assertEqual(worker.api.writes, [])
+                worker.graph.push.assert_not_called()
+
+
 class SourceAuditWaitTests(unittest.TestCase):
     def worker(self, preview=False):
         worker = Integrator(FakeAPI(), graph_mock(), preview=preview, controller_sha=B)
@@ -569,6 +666,43 @@ class PreviewResultTests(unittest.TestCase):
 
 
 class RealGitTests(unittest.TestCase):
+    def test_squashed_tip_with_later_main_index_edit_is_already_integrated(self):
+        with tempfile.TemporaryDirectory() as temp:
+            graph = Graph(Path(temp))
+            graph.git('config', 'user.name', OWNER)
+            graph.git('config', 'user.email', AUTHOR['email'])
+
+            def tree(contents):
+                blob = graph.git('hash-object', '-w', '--stdin', input_text=contents)
+                series = graph.git('mktree', input_text=f'100644 blob {blob}\tREADME.md\n')
+                return graph.git('mktree', input_text=f'040000 tree {series}\tseries\n')
+
+            root = graph.git('commit-tree', tree('Catalog\n'), input_text='root\n')
+            source = graph.git('commit-tree', tree('Catalog\nTitle A\n'), '-p', root, input_text='source\n')
+            merged = graph.git('commit-tree', graph.tree(source), '-p', root, input_text='squash\n')
+            base = graph.git('commit-tree', tree('Catalog\nTitle A\nTitle B\n'), '-p', merged, input_text='next title\n')
+            self.assertFalse(graph.ancestor(source, base))
+            self.assertTrue(graph.ancestor(merged, base))
+            with self.assertRaises(Blocked):
+                graph.merge_tree(source, base)
+
+            api = FakeAPI()
+            api.main, api.source = base, source
+            prior = pull()
+            prior.update(state='closed', merged_at='2026-09-21T16:38:58Z', merge_commit_sha=merged)
+            prior['head'].update(ref='series/a', sha=source)
+            prior['base']['repo'] = {'full_name': REPOSITORY}
+            api.pages = mock.Mock(side_effect=lambda path: [prior] if 'state=closed' in path else [])
+            worker = Integrator(api, graph, preview=False, controller_sha=base)
+            row = {}
+            with mock.patch.object(graph, 'fetch'), mock.patch.object(graph, 'push') as push:
+                self.assertEqual(worker.process('series/a', source, base, row), base)
+                push.assert_not_called()
+            self.assertEqual(row['outcome'], 'already_integrated')
+            self.assertEqual(row['integration_sha'], merged)
+            self.assertEqual(graph.git('show', base + ':series/README.md'), 'Catalog\nTitle A\nTitle B')
+            self.assertEqual(api.writes, [])
+
     def test_missing_git_objects_are_execution_errors_not_conflicts(self):
         with tempfile.TemporaryDirectory() as temp:
             graph = Graph(Path(temp))
