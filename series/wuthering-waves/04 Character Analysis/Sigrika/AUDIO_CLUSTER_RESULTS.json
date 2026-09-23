@@ -1,0 +1,1225 @@
+[
+  {
+    "language": "zh",
+    "n": 614,
+    "features": [
+      "f0_hz",
+      "f0_range_st",
+      "active_frame_median_dbfs",
+      "silent_fraction",
+      "duration_log_residual",
+      "hnr_db",
+      "centroid_hz"
+    ],
+    "log_transform": [
+      "f0_hz"
+    ],
+    "scaling": "within-language median/IQR; clip [-5,5]",
+    "k": 3,
+    "random_seed": 7,
+    "n_init": 30,
+    "seed_stability_ari": 1.0,
+    "k3_vs_k4_ari": 0.8565496604680091,
+    "silhouette": 0.16803200546327784,
+    "interpretation": "no emotion, state, sincerity, or personality labels",
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "n": 229,
+        "normalized_center": {
+          "f0_hz": 0.05637987192052567,
+          "f0_range_st": -0.0036663142815960056,
+          "active_frame_median_dbfs": -0.075932564140425,
+          "silent_fraction": 0.580480798567513,
+          "duration_log_residual": 0.5226839245558083,
+          "hnr_db": -0.03526388761947874,
+          "centroid_hz": 0.049484940150437196
+        },
+        "raw_feature_medians": {
+          "f0_hz": 327.83847397528945,
+          "f0_range_st": 7.388727527376321,
+          "active_frame_median_dbfs": -23.65059766731834,
+          "silent_fraction": 0.39609786311551565,
+          "duration_log_residual": 0.16584088952529763,
+          "hnr_db": 13.869052294967794,
+          "centroid_hz": 708.4085439718878
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "zh",
+          "semantic_id": "voice-occurrence:2623a3c1438358b63a6db05b58ced5e603ffc4106f27ea1b73c08be703e87bfa",
+          "render_id": "character-voice-render:4b6eb0987e42d8c36644d875fb4126ae940f913e8efe8a84f42877cfd981f829",
+          "pcm": "be64929cbfdb9f1117297d439521c57b8895a9b7d14ea2267eaa3f4ed6a86d16",
+          "flac_sha256": "1e0c7c21701fbe9d8b25ff917054f839d25bd2ff7981491946e8705443cae9c1",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12939/Actions!/1/Params/TalkItems/0",
+          "text_key": "Main_LahaiRoi_YXBLDHJ_91_1",
+          "state_key": "剧情_3_2_拉海洛主线_上半_暗面3_11_1",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 8.726041666666667,
+          "units": 36,
+          "unit_definition": "Han characters",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 352.1546240782312,
+          "f0_range_st": 8.664024643790626,
+          "active_frame_median_dbfs": -23.717022541924816,
+          "rms_dbfs": -22.837302399824196,
+          "silent_fraction": 0.37428673749552355,
+          "active_seconds": 5.46,
+          "leading_seconds": 0.04,
+          "trailing_seconds": 0.10604166666666667,
+          "internal_gap_seconds": 2.8799999999999994,
+          "internal_gap_count": 4,
+          "gap_density": 0.458397994508774,
+          "hnr_db": 14.513270690704939,
+          "centroid_hz": 712.478251728969,
+          "spectral_tilt_db_octave": -6.314244272050741,
+          "f0_last_minus_first_third_st": 3.702636318350934,
+          "lexical_units_per_second": 4.125581950578966,
+          "lexical_units_per_active_second": 6.593406593406593,
+          "flags": [],
+          "duration_log_residual": 0.0281858659422225,
+          "active_seconds_log_residual": -0.09291617599568824,
+          "f0_hz_within_language_percentile": 60.275080906148865,
+          "f0_range_st_within_language_percentile": 66.58576051779934,
+          "active_frame_median_dbfs_within_language_percentile": 44.18429003021148,
+          "silent_fraction_within_language_percentile": 63.670694864048336,
+          "duration_log_residual_within_language_percentile": 55.51301684532925,
+          "gap_density_within_language_percentile": 52.64350453172205
+        },
+        "source_subclass_counts": {
+          "archive_conversation_01_18": 10,
+          "archive_greeting_team_ascension_23_31": 5,
+          "archive_gameplay_32_73": 2,
+          "story_dialogue": 212
+        },
+        "top_source_states": [
+          [
+            "archive",
+            17
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_76_1",
+            13
+          ],
+          [
+            "剧情_3_3_拉海洛主线_下半_1_15",
+            13
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_112_1",
+            11
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_77_1",
+            9
+          ]
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "n": 94,
+        "normalized_center": {
+          "f0_hz": 0.5986577959248636,
+          "f0_range_st": -0.44696023633068316,
+          "active_frame_median_dbfs": -1.6888512551001376,
+          "silent_fraction": 0.5402648145589134,
+          "duration_log_residual": 0.9866693491022818,
+          "hnr_db": -1.671435030465866,
+          "centroid_hz": 2.175777125518463
+        },
+        "raw_feature_medians": {
+          "f0_hz": 382.50410688089687,
+          "f0_range_st": 5.925213867489858,
+          "active_frame_median_dbfs": -26.664912320101827,
+          "silent_fraction": 0.4144926879064222,
+          "duration_log_residual": 0.3489932254824494,
+          "hnr_db": 6.326349916817227,
+          "centroid_hz": 1381.4068560407945
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "zh",
+          "semantic_id": "voice-occurrence:48c192a0cf34ab923f83289858c2716d7f3b0452bfd9dbc2c5099c5e75541ad3",
+          "render_id": "character-voice-render:836911b5a7740e373e564340f5b5414eeae97c54b3cfc196f699fcd7d9dbd8c1",
+          "pcm": "3f12e9a21b13dd5d14887dd2c1f1e7d2492e8add0d0a4ab60cde770505c90f47",
+          "flac_sha256": "b8ba46ef569e022c7d32bf4f974244ca5497c252e43234610df6415f25d0737d",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12423/Actions!/4/Params/TalkItems/14",
+          "text_key": "Main_LahaiRoi_YXBLDHJ_101_16",
+          "state_key": "剧情_3_2_拉海洛主线_上半1_102_1",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 3.668,
+          "units": 9,
+          "unit_definition": "Han characters",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 394.87074810749743,
+          "f0_range_st": 6.592738601463502,
+          "active_frame_median_dbfs": -26.934137300016566,
+          "rms_dbfs": -23.512467704912574,
+          "silent_fraction": 0.3947655398037079,
+          "active_seconds": 2.2199999999999998,
+          "leading_seconds": 0.06,
+          "trailing_seconds": 0.208,
+          "internal_gap_seconds": 0.98,
+          "internal_gap_count": 2,
+          "gap_density": 0.5452562704471101,
+          "hnr_db": 8.362444025810765,
+          "centroid_hz": 1186.773405163334,
+          "spectral_tilt_db_octave": -3.9325269935032567,
+          "f0_last_minus_first_third_st": 1.8207830843235524,
+          "lexical_units_per_second": 2.4536532170119956,
+          "lexical_units_per_active_second": 4.054054054054054,
+          "flags": [],
+          "duration_log_residual": 0.26796108876651026,
+          "active_seconds_log_residual": 0.22805974037285925,
+          "f0_hz_within_language_percentile": 79.36893203883494,
+          "f0_range_st_within_language_percentile": 32.28155339805825,
+          "active_frame_median_dbfs_within_language_percentile": 9.138972809667672,
+          "silent_fraction_within_language_percentile": 69.71299093655588,
+          "duration_log_residual_within_language_percentile": 77.10566615620213,
+          "gap_density_within_language_percentile": 68.50453172205438
+        },
+        "source_subclass_counts": {
+          "archive_gameplay_32_73": 8,
+          "story_dialogue": 86
+        },
+        "top_source_states": [
+          [
+            "archive",
+            8
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_102_1",
+            6
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半_暗面4_15_1",
+            6
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半_暗面2_32_1",
+            5
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_69_1",
+            4
+          ]
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "n": 291,
+        "normalized_center": {
+          "f0_hz": 0.027069817983283465,
+          "f0_range_st": 0.1723795334883906,
+          "active_frame_median_dbfs": 0.291766459579605,
+          "silent_fraction": -0.5099315850935914,
+          "duration_log_residual": -0.48263747107634,
+          "hnr_db": 0.14578913876159355,
+          "centroid_hz": -0.055871806494217746
+        },
+        "raw_feature_medians": {
+          "f0_hz": 327.75492800275094,
+          "f0_range_st": 8.342822381311976,
+          "active_frame_median_dbfs": -22.89120640448823,
+          "silent_fraction": 0.25792386382693266,
+          "duration_log_residual": -0.1987936771715597,
+          "hnr_db": 14.661399136434568,
+          "centroid_hz": 668.6283626141036
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "zh",
+          "semantic_id": "voice-occurrence:8766a4498e1d5ee5c6888b4c644b856c9407288e0a6c8413a53ec064e1e89d83",
+          "render_id": "character-voice-render:25189553c107a94fb12fb40250b861eba176df692f05e7804f8454570723d8e5",
+          "pcm": "22c2aec298ef2421aaa27134bf98a0b10f0a467444de8f8df3d394d68eba9cd1",
+          "flac_sha256": "4d63f56e87a56b170d512ed6b6f9d17a58ae68c1355ef60da4e531c19dcff3ca",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/19612/Actions!/1/Params/TalkItems/3",
+          "text_key": "Main_HuangLong_SYYLFML_85_4",
+          "state_key": "剧情_3_5_拉海洛今州_51_5",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 3.7304166666666667,
+          "units": 17,
+          "unit_definition": "Han characters",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 332.5704910600897,
+          "f0_range_st": 7.655033942679406,
+          "active_frame_median_dbfs": -22.76120118796164,
+          "rms_dbfs": -21.038446550480806,
+          "silent_fraction": 0.2869429241594996,
+          "active_seconds": 2.66,
+          "leading_seconds": 0.04,
+          "trailing_seconds": 0.13041666666666668,
+          "internal_gap_seconds": 0.8399999999999999,
+          "internal_gap_count": 2,
+          "gap_density": 0.5361331397296996,
+          "hnr_db": 14.109740156894127,
+          "centroid_hz": 769.7927666460246,
+          "spectral_tilt_db_octave": -6.63847368866622,
+          "f0_last_minus_first_third_st": 3.7920813483212816,
+          "lexical_units_per_second": 4.557131687702446,
+          "lexical_units_per_active_second": 6.390977443609022,
+          "flags": [],
+          "duration_log_residual": -0.22276605276645478,
+          "active_seconds_log_residual": -0.1512403401829614,
+          "f0_hz_within_language_percentile": 48.46278317152103,
+          "f0_range_st_within_language_percentile": 49.27184466019417,
+          "active_frame_median_dbfs_within_language_percentile": 68.50453172205438,
+          "silent_fraction_within_language_percentile": 35.57401812688821,
+          "duration_log_residual_within_language_percentile": 23.047473200612554,
+          "gap_density_within_language_percentile": 66.6918429003021
+        },
+        "source_subclass_counts": {
+          "archive_conversation_01_18": 8,
+          "archive_greeting_team_ascension_23_31": 3,
+          "story_dialogue": 266,
+          "archive_gameplay_32_73": 14
+        },
+        "top_source_states": [
+          [
+            "archive",
+            25
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_40_1",
+            14
+          ],
+          [
+            "剧情_3_5_拉海洛今州_49_2",
+            12
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_38_1",
+            12
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_77_1",
+            10
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "n": 630,
+    "features": [
+      "f0_hz",
+      "f0_range_st",
+      "active_frame_median_dbfs",
+      "silent_fraction",
+      "duration_log_residual",
+      "hnr_db",
+      "centroid_hz"
+    ],
+    "log_transform": [
+      "f0_hz"
+    ],
+    "scaling": "within-language median/IQR; clip [-5,5]",
+    "k": 3,
+    "random_seed": 7,
+    "n_init": 30,
+    "seed_stability_ari": 0.8065478443652446,
+    "k3_vs_k4_ari": 0.33219187395020144,
+    "silhouette": 0.17317553319659265,
+    "interpretation": "no emotion, state, sincerity, or personality labels",
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "n": 229,
+        "normalized_center": {
+          "f0_hz": 0.1271107053529272,
+          "f0_range_st": 0.38945256654513527,
+          "active_frame_median_dbfs": -0.3148380975372188,
+          "silent_fraction": 0.29294083492101086,
+          "duration_log_residual": 0.2103828352817365,
+          "hnr_db": -0.2782472172248107,
+          "centroid_hz": 0.36460021059349657
+        },
+        "raw_feature_medians": {
+          "f0_hz": 315.00610474576524,
+          "f0_range_st": 9.98549556148735,
+          "active_frame_median_dbfs": -23.68116110909397,
+          "silent_fraction": 0.3671019598742642,
+          "duration_log_residual": 0.06730063027019906,
+          "hnr_db": 12.297989152208181,
+          "centroid_hz": 685.3135414848961
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "en",
+          "semantic_id": "voice-occurrence:a4853fb87059ea9d919668cc18b358bdefd96dee5b26d6d1472aa5f3c5442b31",
+          "render_id": "character-voice-render:99a357129d9a70c4a39eb1d5281dabd1344d5f0ffcaa9743c37b24daf4db2f19",
+          "pcm": "6e95dd19aad97f7a41e02a9a154df563c372d8e3b5b2846a9f50f21f7c8804c3",
+          "flac_sha256": "69713f9285a710f8159a76464359a2cc09afe361bd0e47deb5e2d1f7354b7a6e",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/15770/Actions!/2/Params/TalkItems/45",
+          "text_key": "Zuoyequnxing_83_48",
+          "state_key": "剧情_3_3_拉海洛主线_上半新_11_2",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 6.579166666666667,
+          "units": 16,
+          "unit_definition": "English orthographic words",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 324.44836105962077,
+          "f0_range_st": 8.69498938176145,
+          "active_frame_median_dbfs": -23.84996243512902,
+          "rms_dbfs": -22.09153626262719,
+          "silent_fraction": 0.3677010766307791,
+          "active_seconds": 4.159999999999999,
+          "leading_seconds": 0.04,
+          "trailing_seconds": 0.15916666666666668,
+          "internal_gap_seconds": 1.6599999999999997,
+          "internal_gap_count": 4,
+          "gap_density": 0.6079797340088664,
+          "hnr_db": 10.8052154806252,
+          "centroid_hz": 790.45211762524,
+          "spectral_tilt_db_octave": -1.6515969585279386,
+          "f0_last_minus_first_third_st": -4.690649824080052,
+          "lexical_units_per_second": 2.4319189360354656,
+          "lexical_units_per_active_second": 3.8461538461538467,
+          "flags": [],
+          "duration_log_residual": 0.05606257773963241,
+          "active_seconds_log_residual": -0.0014645797251915393,
+          "f0_hz_within_language_percentile": 64.64566929133858,
+          "f0_range_st_within_language_percentile": 52.204724409448815,
+          "active_frame_median_dbfs_within_language_percentile": 35.52036199095022,
+          "silent_fraction_within_language_percentile": 66.59125188536953,
+          "duration_log_residual_within_language_percentile": 57.81010719754977,
+          "gap_density_within_language_percentile": 62.82051282051282
+        },
+        "source_subclass_counts": {
+          "archive_conversation_01_18": 8,
+          "archive_greeting_team_ascension_23_31": 3,
+          "archive_gameplay_32_73": 10,
+          "story_dialogue": 208
+        },
+        "top_source_states": [
+          [
+            "archive",
+            21
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_40_1",
+            11
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_71_1",
+            9
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_76_1",
+            9
+          ],
+          [
+            "剧情_3_5_拉海洛今州_49_2",
+            8
+          ]
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "n": 312,
+        "normalized_center": {
+          "f0_hz": -0.16649348002576303,
+          "f0_range_st": -0.146159438649368,
+          "active_frame_median_dbfs": 0.3508650984645677,
+          "silent_fraction": -0.2812222607876174,
+          "duration_log_residual": -0.3573679107155427,
+          "hnr_db": 0.3585705243442872,
+          "centroid_hz": -0.19669346652407899
+        },
+        "raw_feature_medians": {
+          "f0_hz": 281.1813568775747,
+          "f0_range_st": 8.137116658785722,
+          "active_frame_median_dbfs": -22.380411377324922,
+          "silent_fraction": 0.2782537481120002,
+          "duration_log_residual": -0.10603396594738129,
+          "hnr_db": 15.042792817750149,
+          "centroid_hz": 516.9419965204049
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "en",
+          "semantic_id": "voice-occurrence:bd1e6954b6b9e263bea5429455b2877242bcc0624d08d22a40ac408832deb8fd",
+          "render_id": "character-voice-render:8f8ea38d0305b91a2e5e71a4ee3a894a7b87ed9dcdc3e280a1b6baf2471d4636",
+          "pcm": "db90684d62d76a485c2764fd55fbb975c53424aa5a4651eb8dceb4f8e8e3da73",
+          "flac_sha256": "23bf7c66a683e087c3464ee165b6be6ef45daa0bade1b9d3e8e1027fb9bb2bff",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12586/Actions!/7/Params/TalkItems/12",
+          "text_key": "Main_LahaiRoi_ZRJDYKX_38_15",
+          "state_key": "剧情_3_3_拉海洛主线_下半_1_15",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 6.14475,
+          "units": 18,
+          "unit_definition": "English orthographic words",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 297.62558360428807,
+          "f0_range_st": 8.052394254763167,
+          "active_frame_median_dbfs": -22.285050914221976,
+          "rms_dbfs": -21.409788511768667,
+          "silent_fraction": 0.2546482769844176,
+          "active_seconds": 4.58,
+          "leading_seconds": 0.06,
+          "trailing_seconds": 0.10475000000000001,
+          "internal_gap_seconds": 0.8799999999999999,
+          "internal_gap_count": 2,
+          "gap_density": 0.3254811017535294,
+          "hnr_db": 15.854993473320661,
+          "centroid_hz": 530.5880857807307,
+          "spectral_tilt_db_octave": -4.679043245739145,
+          "f0_last_minus_first_third_st": -2.673130254485878,
+          "lexical_units_per_second": 2.9293299157817647,
+          "lexical_units_per_active_second": 3.930131004366812,
+          "flags": [],
+          "duration_log_residual": -0.10790201798443322,
+          "active_seconds_log_residual": 4.4995581749418534e-07,
+          "f0_hz_within_language_percentile": 48.11023622047244,
+          "f0_range_st_within_language_percentile": 41.181102362204726,
+          "active_frame_median_dbfs_within_language_percentile": 73.37858220211162,
+          "silent_fraction_within_language_percentile": 27.978883861236802,
+          "duration_log_residual_within_language_percentile": 33.15467075038285,
+          "gap_density_within_language_percentile": 23.906485671191554
+        },
+        "source_subclass_counts": {
+          "archive_conversation_01_18": 10,
+          "archive_greeting_team_ascension_23_31": 4,
+          "story_dialogue": 284,
+          "archive_gameplay_32_73": 14
+        },
+        "top_source_states": [
+          [
+            "archive",
+            28
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_112_1",
+            17
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_38_1",
+            14
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_77_1",
+            12
+          ],
+          [
+            "剧情_3_3_拉海洛主线_下半_1_15",
+            12
+          ]
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "n": 89,
+        "normalized_center": {
+          "f0_hz": 0.5027393833224965,
+          "f0_range_st": -0.26881606391069607,
+          "active_frame_median_dbfs": -1.6102475161623908,
+          "silent_fraction": 0.36606175785092077,
+          "duration_log_residual": 1.1233202762533652,
+          "hnr_db": -1.294149250780884,
+          "centroid_hz": 3.000140606866761
+        },
+        "raw_feature_medians": {
+          "f0_hz": 368.09770860593255,
+          "f0_range_st": 6.874374886491854,
+          "active_frame_median_dbfs": -26.120109922729753,
+          "silent_fraction": 0.3700968683269925,
+          "duration_log_residual": 0.3532116620498231,
+          "hnr_db": 7.51043544724303,
+          "centroid_hz": 1591.004939086483
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "en",
+          "semantic_id": "voice-occurrence:efd51ff47d0b14b1bb985208053b4dcb202bf02c4061ae063296e5c8341e664f",
+          "render_id": "character-voice-render:8a16d05a96a869528b752d8ade5e0a44f94c7c506d828739de65fca35bbc3dd1",
+          "pcm": "6253118876688ddab899c744f744f02b5d3e4416d236c272a60428e85fd6ac87",
+          "flac_sha256": "0ea4640c44605b0aef4176026fa8ceabbf2e759553a1bb68dea5ef63edad6f03",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12949/Actions!/3/Params/TalkItems/4",
+          "text_key": "Main_LahaiRoi_YXBLDHJ_98_5",
+          "state_key": "剧情_3_2_拉海洛主线_上半_暗面3_21_1",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 4.704791666666667,
+          "units": 8,
+          "unit_definition": "English orthographic words",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 389.27347590789617,
+          "f0_range_st": 7.4384351256980334,
+          "active_frame_median_dbfs": -26.161157737426137,
+          "rms_dbfs": -24.24704859382946,
+          "silent_fraction": 0.4643758579462428,
+          "active_seconds": 2.52,
+          "leading_seconds": 0.04,
+          "trailing_seconds": 0.3047916666666667,
+          "internal_gap_seconds": 1.6,
+          "internal_gap_count": 4,
+          "gap_density": 0.8501970508789797,
+          "hnr_db": 7.1011930112928106,
+          "centroid_hz": 1421.7600318856194,
+          "spectral_tilt_db_octave": -2.258531898412598,
+          "f0_last_minus_first_third_st": 1.333699018236862,
+          "lexical_units_per_second": 1.7003941017579594,
+          "lexical_units_per_active_second": 3.1746031746031744,
+          "flags": [],
+          "duration_log_residual": 0.2836582260701037,
+          "active_seconds_log_residual": 0.054695127283362566,
+          "f0_hz_within_language_percentile": 87.32283464566929,
+          "f0_range_st_within_language_percentile": 33.30708661417323,
+          "active_frame_median_dbfs_within_language_percentile": 11.387631975867269,
+          "silent_fraction_within_language_percentile": 88.31070889894418,
+          "duration_log_residual_within_language_percentile": 81.69984686064318,
+          "gap_density_within_language_percentile": 87.10407239819004
+        },
+        "source_subclass_counts": {
+          "archive_greeting_team_ascension_23_31": 1,
+          "archive_gameplay_32_73": 7,
+          "story_dialogue": 81
+        },
+        "top_source_states": [
+          [
+            "archive",
+            8
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_102_1",
+            7
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半_暗面4_15_1",
+            4
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_69_1",
+            4
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_77_1",
+            3
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "language": "ja",
+    "n": 634,
+    "features": [
+      "f0_hz",
+      "f0_range_st",
+      "active_frame_median_dbfs",
+      "silent_fraction",
+      "duration_log_residual",
+      "hnr_db",
+      "centroid_hz"
+    ],
+    "log_transform": [
+      "f0_hz"
+    ],
+    "scaling": "within-language median/IQR; clip [-5,5]",
+    "k": 3,
+    "random_seed": 7,
+    "n_init": 30,
+    "seed_stability_ari": 0.9721179205503451,
+    "k3_vs_k4_ari": 0.7662911727260445,
+    "silhouette": 0.29042280015167055,
+    "interpretation": "no emotion, state, sincerity, or personality labels",
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "n": 421,
+        "normalized_center": {
+          "f0_hz": -0.15752019816349858,
+          "f0_range_st": 0.1613397004139334,
+          "active_frame_median_dbfs": 0.16167318633814895,
+          "silent_fraction": -0.1437163694148783,
+          "duration_log_residual": -0.2171890684533504,
+          "hnr_db": 0.25878929239090886,
+          "centroid_hz": -0.20170683627763364
+        },
+        "raw_feature_medians": {
+          "f0_hz": 325.92528136647593,
+          "f0_range_st": 8.85993875359809,
+          "active_frame_median_dbfs": -20.898507900981542,
+          "silent_fraction": 0.2902778536888464,
+          "duration_log_residual": -0.06253088277177343,
+          "hnr_db": 15.742504425594735,
+          "centroid_hz": 675.9325044182583
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "ja",
+          "semantic_id": "voice-occurrence:f416b333fa447298661293eebccb378488cf015d28c83292e13d84f97a991328",
+          "render_id": "character-voice-render:3b02aa62ddbd324f2ca46f513299bf849c276f08ebe4143c58d935ae27a3ffdb",
+          "pcm": "d4eb799132c081d367c62c7559a937fcec9fd0a1d7178cf01044272f705b767f",
+          "flac_sha256": "bdb68a3980440ed0fc398cf9efac956ad96a3e2fecd7256d5e479b230c3bd057",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12007/Actions!/2/Params/TalkItems/8",
+          "text_key": "Main_LahaiRoi_BYHM_63_9",
+          "state_key": "剧情_3_4_边缘行者联动2_1_13",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 5.825625,
+          "units": 32,
+          "unit_definition": "kana and Han characters",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 314.98086090418565,
+          "f0_range_st": 8.670276039748206,
+          "active_frame_median_dbfs": -20.753164487309512,
+          "rms_dbfs": -21.49111759800779,
+          "silent_fraction": 0.2618817723420235,
+          "active_seconds": 4.299999999999999,
+          "leading_seconds": 0.02,
+          "trailing_seconds": 0.025625000000000002,
+          "internal_gap_seconds": 0.9400000000000008,
+          "internal_gap_count": 3,
+          "gap_density": 0.5149662053427744,
+          "hnr_db": 15.773466744814039,
+          "centroid_hz": 604.6352316508863,
+          "spectral_tilt_db_octave": -5.150093621669029,
+          "f0_last_minus_first_third_st": 1.3931854259250218,
+          "lexical_units_per_second": 5.492972856989594,
+          "lexical_units_per_active_second": 7.441860465116281,
+          "flags": [],
+          "duration_log_residual": -0.10449224053788075,
+          "active_seconds_log_residual": -0.02225574086671167,
+          "f0_hz_within_language_percentile": 28.471138845553824,
+          "f0_range_st_within_language_percentile": 57.02028081123245,
+          "active_frame_median_dbfs_within_language_percentile": 68.75945537065053,
+          "silent_fraction_within_language_percentile": 28.668683812405447,
+          "duration_log_residual_within_language_percentile": 33.46153846153846,
+          "gap_density_within_language_percentile": 56.05143721633888
+        },
+        "source_subclass_counts": {
+          "archive_conversation_01_18": 18,
+          "archive_greeting_team_ascension_23_31": 5,
+          "story_dialogue": 391,
+          "archive_gameplay_32_73": 7
+        },
+        "top_source_states": [
+          [
+            "archive",
+            30
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_38_1",
+            20
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_40_1",
+            18
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_77_1",
+            16
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_76_1",
+            14
+          ]
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "n": 174,
+        "normalized_center": {
+          "f0_hz": 0.6742577518687607,
+          "f0_range_st": -0.4172446718133396,
+          "active_frame_median_dbfs": -0.6168604452795307,
+          "silent_fraction": 0.4961772097005204,
+          "duration_log_residual": 0.3995654108994779,
+          "hnr_db": -0.7261544855243878,
+          "centroid_hz": 0.9883546062215209
+        },
+        "raw_feature_medians": {
+          "f0_hz": 395.6767542692297,
+          "f0_range_st": 6.894112785183038,
+          "active_frame_median_dbfs": -22.67096554891672,
+          "silent_fraction": 0.37601040387412027,
+          "duration_log_residual": 0.10459930392066963,
+          "hnr_db": 12.054562869240527,
+          "centroid_hz": 1121.1010063645108
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "ja",
+          "semantic_id": "voice-occurrence:8507369626388a3bfd43dbbbb34a10fa25cdf023c278a23167e093ff1c022dc9",
+          "render_id": "character-voice-render:844a6823b793fed3d0618e678528a9624d5e33cafb165831e53bd8428e7f4ffe",
+          "pcm": "e373251552a99de4ac4b50e34d48686155136c9a04369cf9565bc8f1f22f4236",
+          "flac_sha256": "4b39ef37db45e120451bd878f66b6560680d65080d66ee6b774359ffa367b390",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12412/Actions!/1/Params/TalkItems/0",
+          "text_key": "Main_LahaiRoi_YXBLDHJ_71_1",
+          "state_key": "剧情_3_2_拉海洛主线_上半1_72_1",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 7.171145833333333,
+          "units": 29,
+          "unit_definition": "kana and Han characters",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 412.4511793466554,
+          "f0_range_st": 8.675818477796543,
+          "active_frame_median_dbfs": -22.034093962829488,
+          "rms_dbfs": -22.185751432485887,
+          "silent_fraction": 0.3975858111935855,
+          "active_seconds": 4.319999999999999,
+          "leading_seconds": 0.02,
+          "trailing_seconds": 0.17114583333333333,
+          "internal_gap_seconds": 2.2000000000000006,
+          "internal_gap_count": 5,
+          "gap_density": 0.6972386444518688,
+          "hnr_db": 11.259710476918062,
+          "centroid_hz": 1151.7996127333004,
+          "spectral_tilt_db_octave": -2.83794738415794,
+          "f0_last_minus_first_third_st": -1.5125757030838,
+          "lexical_units_per_second": 4.043984137820839,
+          "lexical_units_per_active_second": 6.712962962962964,
+          "flags": [],
+          "duration_log_residual": 0.17997307455533162,
+          "active_seconds_log_residual": 0.06233676638541774,
+          "f0_hz_within_language_percentile": 84.63338533541342,
+          "f0_range_st_within_language_percentile": 57.644305772230894,
+          "active_frame_median_dbfs_within_language_percentile": 35.779122541603634,
+          "silent_fraction_within_language_percentile": 78.44175491679275,
+          "duration_log_residual_within_language_percentile": 75.3076923076923,
+          "gap_density_within_language_percentile": 81.31618759455371
+        },
+        "source_subclass_counts": {
+          "archive_greeting_team_ascension_23_31": 3,
+          "archive_gameplay_32_73": 22,
+          "story_dialogue": 149
+        },
+        "top_source_states": [
+          [
+            "archive",
+            25
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_102_1",
+            7
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_76_1",
+            7
+          ],
+          [
+            "剧情_3_3_拉海洛主线_下半_1_15",
+            7
+          ],
+          [
+            "剧情_3_5_拉海洛今州_49_2",
+            5
+          ]
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "n": 39,
+        "normalized_center": {
+          "f0_hz": 0.6140645502017719,
+          "f0_range_st": -0.8334491781809692,
+          "active_frame_median_dbfs": -2.733338449503313,
+          "silent_fraction": 0.8963831534851223,
+          "duration_log_residual": 1.8000891184949526,
+          "hnr_db": -2.34690967702991,
+          "centroid_hz": 2.3276769538539965
+        },
+        "raw_feature_medians": {
+          "f0_hz": 403.8204275707103,
+          "f0_range_st": 5.89950340774563,
+          "active_frame_median_dbfs": -27.407747923847346,
+          "silent_fraction": 0.44827397466466434,
+          "duration_log_residual": 0.4897555000660408,
+          "hnr_db": 4.042693850657171,
+          "centroid_hz": 1645.3242314056995
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "ja",
+          "semantic_id": "voice-occurrence:239c5a79edc03680a37964d7675734b36aeb40a549e5f80dffe73de423519f8f",
+          "render_id": "character-voice-render:4742d19afbaf75b7805ee3e831fde3872f11a138eaca74a7d5facc1ade7a5a14",
+          "pcm": "17f0aec11210533ae744160660b86d0881f5a3c135acde5d68a906a176cb8163",
+          "flac_sha256": "7faf274dda872e8d125ec9ffb8b245aa2cc4b0175a9fb5dd3ed8f5bcaa206560",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12913/Actions!/1/Params/TalkItems/3",
+          "text_key": "Main_LahaiRoi_YXBLDHJ_58_4",
+          "state_key": "剧情_3_2_拉海洛主线_上半_暗面2_15_1",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 2.088,
+          "units": 4,
+          "unit_definition": "kana and Han characters",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 363.2331219090516,
+          "f0_range_st": 4.597754497468896,
+          "active_frame_median_dbfs": -28.965383645152393,
+          "rms_dbfs": -23.917380620221348,
+          "silent_fraction": 0.2816091954022989,
+          "active_seconds": 1.5,
+          "leading_seconds": 0.02,
+          "trailing_seconds": 0.028,
+          "internal_gap_seconds": 0.45999999999999996,
+          "internal_gap_count": 1,
+          "gap_density": 0.4789272030651341,
+          "hnr_db": 3.8210173489355332,
+          "centroid_hz": 1549.3467022687153,
+          "spectral_tilt_db_octave": -7.117606216145427,
+          "f0_last_minus_first_third_st": 3.885055959016743,
+          "lexical_units_per_second": 1.9157088122605364,
+          "lexical_units_per_active_second": 2.6666666666666665,
+          "flags": [],
+          "duration_log_residual": 0.488938864028291,
+          "active_seconds_log_residual": 0.613497764914007,
+          "f0_hz_within_language_percentile": 65.4446177847114,
+          "f0_range_st_within_language_percentile": 8.034321372854915,
+          "active_frame_median_dbfs_within_language_percentile": 2.950075642965204,
+          "silent_fraction_within_language_percentile": 36.68683812405447,
+          "duration_log_residual_within_language_percentile": 92.38461538461539,
+          "gap_density_within_language_percentile": 48.638426626323756
+        },
+        "source_subclass_counts": {
+          "archive_gameplay_32_73": 4,
+          "story_dialogue": 35
+        },
+        "top_source_states": [
+          [
+            "archive",
+            4
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半_暗面4_15_1",
+            4
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_69_1",
+            3
+          ],
+          [
+            "剧情_3.2_西格莉卡coop_4_3",
+            3
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_112_1",
+            2
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "language": "ko",
+    "n": 632,
+    "features": [
+      "f0_hz",
+      "f0_range_st",
+      "active_frame_median_dbfs",
+      "silent_fraction",
+      "duration_log_residual",
+      "hnr_db",
+      "centroid_hz"
+    ],
+    "log_transform": [
+      "f0_hz"
+    ],
+    "scaling": "within-language median/IQR; clip [-5,5]",
+    "k": 3,
+    "random_seed": 7,
+    "n_init": 30,
+    "seed_stability_ari": 1.0,
+    "k3_vs_k4_ari": 0.4851458722336064,
+    "silhouette": 0.25312927772576665,
+    "interpretation": "no emotion, state, sincerity, or personality labels",
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "n": 181,
+        "normalized_center": {
+          "f0_hz": 0.42153520370828246,
+          "f0_range_st": -0.16055365130895868,
+          "active_frame_median_dbfs": -0.7137798897919759,
+          "silent_fraction": 0.5837464893089224,
+          "duration_log_residual": 0.5198799751477539,
+          "hnr_db": -0.5581539183505487,
+          "centroid_hz": 0.6137598007833267
+        },
+        "raw_feature_medians": {
+          "f0_hz": 355.17626323343393,
+          "f0_range_st": 9.190233158673315,
+          "active_frame_median_dbfs": -23.670354330604006,
+          "silent_fraction": 0.3591283459162663,
+          "duration_log_residual": 0.13842817455403233,
+          "hnr_db": 11.836314658238514,
+          "centroid_hz": 890.560428695054
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "ko",
+          "semantic_id": "voice-occurrence:4f7232595ad02b5e617b98bbf137de429a5534f599df3b5fa3fdd35c970510ad",
+          "render_id": "character-voice-render:b854025671a3cc942c21f79542e2cd609e4080094e7fa807ec944ef71e03d9f5",
+          "pcm": "171ffee09d3e2a6dc9acc4a8e0fd9fa98ffe873385d9497ab0dd52adff2f7626",
+          "flac_sha256": "1bc9dae25878f0eb30baf46cd40a2517d3b7df76de1c9b16d9f5b53c7beeb801",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/12405/Actions!/1/Params/TalkItems/0",
+          "text_key": "Main_LahaiRoi_YXBLDHJ_44_1",
+          "state_key": "剧情_3_2_拉海洛主线_上半1_45_1",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 3.467041666666667,
+          "units": 12,
+          "unit_definition": "Hangul syllable blocks",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 370.2771810156888,
+          "f0_range_st": 8.639218539173731,
+          "active_frame_median_dbfs": -23.877161118513087,
+          "rms_dbfs": -23.218392245661512,
+          "silent_fraction": 0.3423788292131862,
+          "active_seconds": 2.28,
+          "leading_seconds": 0.06,
+          "trailing_seconds": 0.10704166666666667,
+          "internal_gap_seconds": 0.88,
+          "internal_gap_count": 3,
+          "gap_density": 0.8652910141931762,
+          "hnr_db": 12.368134584274186,
+          "centroid_hz": 972.8586400848305,
+          "spectral_tilt_db_octave": -1.638384537796556,
+          "f0_last_minus_first_third_st": -0.1987324727273777,
+          "lexical_units_per_second": 3.461164056772705,
+          "lexical_units_per_active_second": 5.2631578947368425,
+          "flags": [],
+          "duration_log_residual": 0.017835713195140768,
+          "active_seconds_log_residual": -0.008968045105773759,
+          "f0_hz_within_language_percentile": 76.53061224489797,
+          "f0_range_st_within_language_percentile": 32.574568288854,
+          "active_frame_median_dbfs_within_language_percentile": 21.978851963746223,
+          "silent_fraction_within_language_percentile": 69.10876132930512,
+          "duration_log_residual_within_language_percentile": 54.67791411042945,
+          "gap_density_within_language_percentile": 87.68882175226585
+        },
+        "source_subclass_counts": {
+          "archive_greeting_team_ascension_23_31": 2,
+          "archive_gameplay_32_73": 14,
+          "story_dialogue": 165
+        },
+        "top_source_states": [
+          [
+            "archive",
+            16
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_31_1",
+            9
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_102_1",
+            7
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_112_1",
+            7
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半_暗面4_15_1",
+            7
+          ]
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "n": 42,
+        "normalized_center": {
+          "f0_hz": 0.5608639545428274,
+          "f0_range_st": -0.9735988615714095,
+          "active_frame_median_dbfs": -3.370498257068612,
+          "silent_fraction": 1.0763665574600036,
+          "duration_log_residual": 1.7668636985229635,
+          "hnr_db": -1.9691332318563481,
+          "centroid_hz": 2.885554554042776
+        },
+        "raw_feature_medians": {
+          "f0_hz": 369.32492138778866,
+          "f0_range_st": 6.409500117494147,
+          "active_frame_median_dbfs": -28.90187171444323,
+          "silent_fraction": 0.425225556514302,
+          "duration_log_residual": 0.45103822427248286,
+          "hnr_db": 5.656063520633586,
+          "centroid_hz": 1501.6349233012406
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "ko",
+          "semantic_id": "voice-occurrence:cd66fb03ccc573f258ae40d63cca9466e56ee8891a9bffac4c549e4b58469eb7",
+          "render_id": "character-voice-render:69747e8079e86afd07f461df5c4293be556bd9a504af75758539cd8ca7d55460",
+          "pcm": "a9c9f04be3af7c45c50657bb4f4b893d70cfc1c6e377b0b92831390bef79eea4",
+          "flac_sha256": "16278a499faf7fbff1c7e4a763c6d3ec1d8d4d2b8154cf169879f90a4ebd2630",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/15247/Actions!/2/Params/TalkItems/0",
+          "text_key": "Side_XGLKCP_4_1",
+          "state_key": "剧情_3.2_西格莉卡coop_2_2",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 4.962208333333334,
+          "units": 13,
+          "unit_definition": "Hangul syllable blocks",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 359.35102212246784,
+          "f0_range_st": 6.263047661987921,
+          "active_frame_median_dbfs": -27.087372469884315,
+          "rms_dbfs": -24.82280093974331,
+          "silent_fraction": 0.41558277984432346,
+          "active_seconds": 2.9,
+          "leading_seconds": 0.08,
+          "trailing_seconds": 0.06220833333333333,
+          "internal_gap_seconds": 1.5000000000000007,
+          "internal_gap_count": 5,
+          "gap_density": 1.007615896820132,
+          "hnr_db": 5.342464159196263,
+          "centroid_hz": 1674.3774542701776,
+          "spectral_tilt_db_octave": -2.2790713301833785,
+          "f0_last_minus_first_third_st": -0.24648487348439946,
+          "lexical_units_per_second": 2.619801331732343,
+          "lexical_units_per_active_second": 4.482758620689656,
+          "flags": [],
+          "duration_log_residual": 0.3143233623813011,
+          "active_seconds_log_residual": 0.16450207099437697,
+          "f0_hz_within_language_percentile": 71.97802197802199,
+          "f0_range_st_within_language_percentile": 9.497645211930926,
+          "active_frame_median_dbfs_within_language_percentile": 6.419939577039274,
+          "silent_fraction_within_language_percentile": 86.63141993957703,
+          "duration_log_residual_within_language_percentile": 86.579754601227,
+          "gap_density_within_language_percentile": 94.63746223564954
+        },
+        "source_subclass_counts": {
+          "archive_gameplay_32_73": 2,
+          "story_dialogue": 40
+        },
+        "top_source_states": [
+          [
+            "剧情_3_2_拉海洛主线_上半_暗面2_32_1",
+            4
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_114_1",
+            3
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半_暗面4_15_1",
+            3
+          ],
+          [
+            "archive",
+            2
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_102_1",
+            2
+          ]
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "n": 409,
+        "normalized_center": {
+          "f0_hz": -0.061429782219894286,
+          "f0_range_st": 0.15878283920114078,
+          "active_frame_median_dbfs": 0.2482850761639402,
+          "silent_fraction": -0.21190468156467848,
+          "duration_log_residual": -0.2557414582525939,
+          "hnr_db": 0.2056173862707986,
+          "centroid_hz": -0.21711530525102626
+        },
+        "raw_feature_medians": {
+          "f0_hz": 308.42208056254225,
+          "f0_range_st": 10.452023758468266,
+          "active_frame_median_dbfs": -22.1175396558015,
+          "silent_fraction": 0.25644047819498217,
+          "duration_log_residual": -0.09143877093439223,
+          "hnr_db": 14.352362029064395,
+          "centroid_hz": 657.9882848174559
+        },
+        "representative": {
+          "scope": "direct_character",
+          "language": "ko",
+          "semantic_id": "voice-occurrence:e70fa70b1bc889d3fa42077f14d375f7e226a8736a30a64d56a0f1505006a65a",
+          "render_id": "character-voice-render:7f4a79c774c526d1a7b72576d2dfbc767799e2438c589460ad2215dc7c52d1c2",
+          "pcm": "07d1544479e11e9b036d5f167466f437fdbfeb5f012ef0a1a4154750823cd511",
+          "flac_sha256": "7df62aa91b6e6ea0ba15b9b96990f85e179a6c9a7bd601aef2cca8fee44e2fe6",
+          "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/14458/Actions!/2/Params/TalkItems/18",
+          "text_key": "Main_LahaiRoi_BYHM_60_19",
+          "state_key": "剧情_3_4_边缘行者联动2_1_16",
+          "source_class": "story_dialogue",
+          "source_subclass": "story_dialogue",
+          "duration": 5.0736875,
+          "units": 22,
+          "unit_definition": "Hangul syllable blocks",
+          "channels": 1,
+          "pitch_qc_qualified": true,
+          "f0_hz": 307.89755165484837,
+          "f0_range_st": 11.44584464563254,
+          "active_frame_median_dbfs": -21.960397367251815,
+          "rms_dbfs": -21.96846115255406,
+          "silent_fraction": 0.24315401766466715,
+          "active_seconds": 3.8399999999999994,
+          "leading_seconds": 0.1,
+          "trailing_seconds": 0.19368749999999998,
+          "internal_gap_seconds": 0.5400000000000003,
+          "internal_gap_count": 2,
+          "gap_density": 0.3941906157996526,
+          "hnr_db": 13.83806372327718,
+          "centroid_hz": 666.6663213147731,
+          "spectral_tilt_db_octave": -5.657238673879808,
+          "f0_last_minus_first_third_st": -0.9649028308561789,
+          "lexical_units_per_second": 4.336096773796179,
+          "lexical_units_per_active_second": 5.729166666666668,
+          "flags": [],
+          "duration_log_residual": -0.07136869819149516,
+          "active_seconds_log_residual": 0.004467429368182785,
+          "f0_hz_within_language_percentile": 40.89481946624804,
+          "f0_range_st_within_language_percentile": 73.39089481946625,
+          "active_frame_median_dbfs_within_language_percentile": 70.9214501510574,
+          "silent_fraction_within_language_percentile": 29.83383685800604,
+          "duration_log_residual_within_language_percentile": 38.420245398773005,
+          "gap_density_within_language_percentile": 20.9214501510574
+        },
+        "source_subclass_counts": {
+          "archive_conversation_01_18": 18,
+          "archive_greeting_team_ascension_23_31": 6,
+          "story_dialogue": 370,
+          "archive_gameplay_32_73": 15
+        },
+        "top_source_states": [
+          [
+            "archive",
+            39
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_38_1",
+            18
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_77_1",
+            18
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_40_1",
+            17
+          ],
+          [
+            "剧情_3_2_拉海洛主线_上半1_76_1",
+            14
+          ]
+        ]
+      }
+    ]
+  }
+]

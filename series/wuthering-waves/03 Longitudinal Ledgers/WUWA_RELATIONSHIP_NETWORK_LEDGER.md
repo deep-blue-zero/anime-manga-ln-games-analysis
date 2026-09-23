@@ -39,6 +39,8 @@ Aemeath, Denia, and Lynae now have supplied pre-AV relationship/state analyses w
 
 Chisa's owner-adopted current provisional packet routes to `04 Character Analysis/Chisa/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md`. It preserves source-specific relationship and chronology qualifications; importing it adds no independently adjudicated edges and retains its declared text/audio scope and pending AV questions.
 
+Sigrika's owner-adopted current provisional packet routes to `04 Character Analysis/Sigrika/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md`. Its character-local edges, attachment/obligation thesis, and state qualifications are routed here without turning co-occurrence, counterpart material, or machine-acoustic similarity into independently adjudicated title-wide relationship facts.
+
 ## Edge contract
 
 Every future entry should identify:

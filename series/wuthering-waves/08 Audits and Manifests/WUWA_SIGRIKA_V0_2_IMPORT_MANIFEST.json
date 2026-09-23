@@ -1,0 +1,601 @@
+{
+  "schema": "wuwa/character-packet-import/v1",
+  "character": "Sigrika",
+  "analysis_generation": "SIGRIKA_PRE_AV_V0_2",
+  "integration_base_commit": "cb66e10380ab08d6fc036cbda03d6b13da7084c2",
+  "source": {
+    "source_archive": "WUWA_SIGRIKA_COMPLETE_STAGE1_AUDIO_RECONSTRUCTION_V0_2.zip",
+    "archive_bytes": 7562370,
+    "archive_sha256": "81ad15706d670144e9a9ae9a9aabd90a236ca98203535c86740c481f9d9e204f",
+    "analytical_root": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/",
+    "analytical_root_member_count": 49,
+    "analytical_root_total_bytes": 1674767,
+    "nested_evidence_supplement": {
+      "name": "WUWA_SIGRIKA_AUDIO_EVIDENCE_SUPPLEMENT_V0_2.zip",
+      "bytes": 7129257,
+      "sha256": "47d3ea292fa2bfffea9b31cdc06005e656f7d7cedcd5fed6012fb29355dddedb",
+      "disposition": "VERIFIED_EXCLUDED_EVIDENCE_PLANE_RETAINED_OUTSIDE_GIT"
+    }
+  },
+  "source_archive_disposition": "VERIFIED_CONTAINER_RETAINED_OUTSIDE_GIT",
+  "packet_disposition": "IMPORT_OWNER_ADOPTED_CURRENT_PROVISIONAL_TEXT_AND_MACHINE_AUDIO_ANALYSIS",
+  "source_bytes_preserved": false,
+  "authority_veto_preserved": false,
+  "raw_media_included": false,
+  "transformations": [
+    "OWNER_AUTHORIZED_AUTHORITY_AND_RELEASE_METADATA",
+    "SCOPE_QUALIFIED_ADOPTION_NOTES_AND_PREPARATION_STATE_RECONCILIATION",
+    "MODEL_AUTHORITY_RECONCILIATION",
+    "VALIDATOR_ROUTER_EXCLUSION",
+    "POST_ADOPTION_INVENTORY_AND_CHECKSUM_REGENERATION",
+    "REPOSITORY_CURRENT_STATE_ROUTER"
+  ],
+  "files": [
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_ACQUISITION_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_ACQUISITION_MANIFEST.json",
+      "source_bytes": 7901,
+      "source_sha256": "0ee306d37e7d21d2c92a63493d8ba44c5e643784b8bc2b68ed10f3f26d66987c",
+      "destination_bytes": 7901,
+      "destination_sha256": "0ee306d37e7d21d2c92a63493d8ba44c5e643784b8bc2b68ed10f3f26d66987c",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_CLUSTER_RESULTS.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_CLUSTER_RESULTS.json",
+      "source_bytes": 49373,
+      "source_sha256": "a9a85da75a97fd5f73931819a9b5502ed51fbf4a5e5958dad013e3d94b307c56",
+      "destination_bytes": 49373,
+      "destination_sha256": "a9a85da75a97fd5f73931819a9b5502ed51fbf4a5e5958dad013e3d94b307c56",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_CONTEXT_COHORTS.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_CONTEXT_COHORTS.json",
+      "source_bytes": 157526,
+      "source_sha256": "f0d4a05f9f8fb96636be681294af9f99d1bc16a406f6fa62bbe4e8d9a09130ce",
+      "destination_bytes": 157526,
+      "destination_sha256": "f0d4a05f9f8fb96636be681294af9f99d1bc16a406f6fa62bbe4e8d9a09130ce",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_FIDELITY_PROBES.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_FIDELITY_PROBES.json",
+      "source_bytes": 6011,
+      "source_sha256": "ee7370e771402fff63014427aa710d6995c89b5435757d1b503b7b87ac92d144",
+      "destination_bytes": 6011,
+      "destination_sha256": "ee7370e771402fff63014427aa710d6995c89b5435757d1b503b7b87ac92d144",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_FINDING_INDEX.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_FINDING_INDEX.json",
+      "source_bytes": 16359,
+      "source_sha256": "c0e5eb74fccbaf77b8c049e6f3fef89c64d8f6b261585da9e81fa1b1bd630718",
+      "destination_bytes": 16359,
+      "destination_sha256": "c0e5eb74fccbaf77b8c049e6f3fef89c64d8f6b261585da9e81fa1b1bd630718",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_MATCHED_SEMANTIC_CASES.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_MATCHED_SEMANTIC_CASES.json",
+      "source_bytes": 210985,
+      "source_sha256": "c5230a5d628f93aa04c1ff26e7943f43b77792e3fd98d49cabbad90cbe67d3d5",
+      "destination_bytes": 210985,
+      "destination_sha256": "c5230a5d628f93aa04c1ff26e7943f43b77792e3fd98d49cabbad90cbe67d3d5",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_METHOD_PARAMETERS.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_METHOD_PARAMETERS.json",
+      "source_bytes": 2073,
+      "source_sha256": "b0ac9aac4c9548c6e319b4e3718cd61132040494a886ca7ddd9d6057826cb1af",
+      "destination_bytes": 2073,
+      "destination_sha256": "b0ac9aac4c9548c6e319b4e3718cd61132040494a886ca7ddd9d6057826cb1af",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_OUTLIER_REVIEW_COHORT.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_OUTLIER_REVIEW_COHORT.json",
+      "source_bytes": 38595,
+      "source_sha256": "92693364c9dee96259f3a2791ae81ed4500abab441a7ab427952e7a180e4081e",
+      "destination_bytes": 38595,
+      "destination_sha256": "92693364c9dee96259f3a2791ae81ed4500abab441a7ab427952e7a180e4081e",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_PRIOR_CLAIM_SNAPSHOT.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_PRIOR_CLAIM_SNAPSHOT.json",
+      "source_bytes": 946,
+      "source_sha256": "4d7e82edd97f5252e99b0dc7c3bd894d496bc949fe677dd2b4fd0a224cc5ffb6",
+      "destination_bytes": 946,
+      "destination_sha256": "4d7e82edd97f5252e99b0dc7c3bd894d496bc949fe677dd2b4fd0a224cc5ffb6",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_REPRODUCTION_CHECK.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_REPRODUCTION_CHECK.json",
+      "source_bytes": 1140,
+      "source_sha256": "8494c9f95b81cc0349f3fba49bbf4bf68a2da3843ca813a04c23705a15f4b24f",
+      "destination_bytes": 1140,
+      "destination_sha256": "8494c9f95b81cc0349f3fba49bbf4bf68a2da3843ca813a04c23705a15f4b24f",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_REPRODUCTION_INSTRUCTIONS.txt",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_REPRODUCTION_INSTRUCTIONS.txt",
+      "source_bytes": 3762,
+      "source_sha256": "7ea4359aa910ee7c820dbc35fa3cba3ddbeeca1f9823ff1e52704280f1766833",
+      "destination_bytes": 3866,
+      "destination_sha256": "d321f7bd30b2900240231cf349789073680e58d0f3d596c14438b2def466a63b",
+      "transformations": [
+        "GIT_EVIDENCE_PLANE_DISPOSITION_RECONCILIATION"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_RETRIEVAL_QC_COHORT.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_RETRIEVAL_QC_COHORT.json",
+      "source_bytes": 8240,
+      "source_sha256": "d176a8f2ea701813185111a0840b3159643775b27d8db89eec310dbf4452a601",
+      "destination_bytes": 8240,
+      "destination_sha256": "d176a8f2ea701813185111a0840b3159643775b27d8db89eec310dbf4452a601",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_SOURCE_INPUT_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_SOURCE_INPUT_MANIFEST.json",
+      "source_bytes": 1851,
+      "source_sha256": "6de9404a777a29a6ad8df8d42a73e309d8abad5aaeff0339d97970272a6612a3",
+      "destination_bytes": 1851,
+      "destination_sha256": "6de9404a777a29a6ad8df8d42a73e309d8abad5aaeff0339d97970272a6612a3",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_STAGE_VALIDATION_REPORT.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_STAGE_VALIDATION_REPORT.json",
+      "source_bytes": 1005,
+      "source_sha256": "58986b04a35da8dfce4349f0fdc5c7a38eb12dbb027db3ce5f3396477dfd7953",
+      "destination_bytes": 1005,
+      "destination_sha256": "58986b04a35da8dfce4349f0fdc5c7a38eb12dbb027db3ce5f3396477dfd7953",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_TO_VIDEO_TARGET_JOIN.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_TO_VIDEO_TARGET_JOIN.json",
+      "source_bytes": 14216,
+      "source_sha256": "6fdd32b747bdbc8293fd33a91b508af8601c1b1ad0a5bce3d773ae01350be4ee",
+      "destination_bytes": 14216,
+      "destination_sha256": "6fdd32b747bdbc8293fd33a91b508af8601c1b1ad0a5bce3d773ae01350be4ee",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/audio_tools/analyze_audio.py",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/audio_tools/analyze_audio.py",
+      "source_bytes": 20285,
+      "source_sha256": "73c2904c38d06440a86a572d05fa3fe200e23055e68f0aeaec3be75313d3c4a2",
+      "destination_bytes": 20285,
+      "destination_sha256": "73c2904c38d06440a86a572d05fa3fe200e23055e68f0aeaec3be75313d3c4a2",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/audio_tools/check_audio_reproduction.py",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/audio_tools/check_audio_reproduction.py",
+      "source_bytes": 2524,
+      "source_sha256": "2f44a0be1af782c243e11c8e5d0cdc8d64ae7863b543d500d755b55183656996",
+      "destination_bytes": 2524,
+      "destination_sha256": "2f44a0be1af782c243e11c8e5d0cdc8d64ae7863b543d500d755b55183656996",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/audio_tools/requirements-audio.txt",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/audio_tools/requirements-audio.txt",
+      "source_bytes": 90,
+      "source_sha256": "a25afede73daea74f4c3408b57304dd25628e6fdd1829380805a7c18ff258ac1",
+      "destination_bytes": 90,
+      "destination_sha256": "a25afede73daea74f4c3408b57304dd25628e6fdd1829380805a7c18ff258ac1",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/audio_tools/summarize_audio.py",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/audio_tools/summarize_audio.py",
+      "source_bytes": 17441,
+      "source_sha256": "3f36fe1e99c5b79832064ac0d1517afbcf492fb1d132b387e033cca53c5c7a58",
+      "destination_bytes": 17441,
+      "destination_sha256": "3f36fe1e99c5b79832064ac0d1517afbcf492fb1d132b387e033cca53c5c7a58",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AUDIO_WAVEFORM_ANALYSIS_SUMMARY.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AUDIO_WAVEFORM_ANALYSIS_SUMMARY.json",
+      "source_bytes": 391393,
+      "source_sha256": "92bec5cce3099f435011b7219ad4b8d528e5d1270653b62061ab51aa77bbd849",
+      "destination_bytes": 391393,
+      "destination_sha256": "92bec5cce3099f435011b7219ad4b8d528e5d1270653b62061ab51aa77bbd849",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/AV_RETRIEVAL_TARGETS.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/AV_RETRIEVAL_TARGETS.json",
+      "source_bytes": 70905,
+      "source_sha256": "d0c3ccb5500f54e5ad050143c935f063880405859bc1dc71dca8e51491e10026",
+      "destination_bytes": 70905,
+      "destination_sha256": "d0c3ccb5500f54e5ad050143c935f063880405859bc1dc71dca8e51491e10026",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/CLAIM_INDEX.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/CLAIM_INDEX.json",
+      "source_bytes": 44592,
+      "source_sha256": "a013aa2172e9204258eb1fbe6fa733cc95369092c6cd626c67bcae2718360c5b",
+      "destination_bytes": 44592,
+      "destination_sha256": "a013aa2172e9204258eb1fbe6fa733cc95369092c6cd626c67bcae2718360c5b",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/DELIVERY_INVENTORY.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/DELIVERY_INVENTORY.json",
+      "source_bytes": 8418,
+      "source_sha256": "aa6f5c9d5877e804e7fdc7fc2ad6bfc79c590c66d0249c7ac89d2ed85716e1b5",
+      "destination_bytes": 8666,
+      "destination_sha256": "81298c63201a08d5decabf5eb7a19ca8e73aa48fa23b9d016f538647d74de174",
+      "transformations": [
+        "REGENERATED_POST_ADOPTION_INVENTORY"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/EVIDENCE_BUNDLE_INDEX.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/EVIDENCE_BUNDLE_INDEX.json",
+      "source_bytes": 24440,
+      "source_sha256": "80b250dd013576ae8351f488faa82e17288ca13c64f18ff5ac4c245193633814",
+      "destination_bytes": 24440,
+      "destination_sha256": "80b250dd013576ae8351f488faa82e17288ca13c64f18ff5ac4c245193633814",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/FIDELITY_PROBE_INDEX.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/FIDELITY_PROBE_INDEX.json",
+      "source_bytes": 25415,
+      "source_sha256": "0034f0684e1ca008ccf6f6ef62decbb1844225ca110e7cc31c55d8ffe79e2457",
+      "destination_bytes": 25415,
+      "destination_sha256": "0034f0684e1ca008ccf6f6ef62decbb1844225ca110e7cc31c55d8ffe79e2457",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/LOCAL_REVISION_REVIEW.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/LOCAL_REVISION_REVIEW.json",
+      "source_bytes": 7767,
+      "source_sha256": "27a253d8002d4e6e33312f25b805a60af6812c7ff794c16639c73b0f673214eb",
+      "destination_bytes": 7767,
+      "destination_sha256": "27a253d8002d4e6e33312f25b805a60af6812c7ff794c16639c73b0f673214eb",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/reproduce_validation.py",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/reproduce_validation.py",
+      "source_bytes": 14355,
+      "source_sha256": "c791b9a596314222ed9e6fa35d6304271067bbda01dc1b09d8e55c64186efff8",
+      "destination_bytes": 14590,
+      "destination_sha256": "033b9cf96f55ba31b4968a4a502fbf59c01e0bebdeab57c8d1113c8bd6edbb9f",
+      "transformations": [
+        "VALIDATOR_AUTHORITY_EXPECTATIONS_AND_ROUTER_EXCLUSION"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/SHA256SUMS.txt",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/SHA256SUMS.txt",
+      "source_bytes": 4870,
+      "source_sha256": "774b10ff60eb5e8ef420400c8208f75545f0b184f6bec2429984ec93357f17f5",
+      "destination_bytes": 4966,
+      "destination_sha256": "340d1f60355defc21c25a807bca95bb47422f04f2dd76cedbf95ac975fa6b2a9",
+      "transformations": [
+        "REGENERATED_POST_ADOPTION_CHECKSUMS"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/SHARD_ACQUISITION_AUDIT.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/SHARD_ACQUISITION_AUDIT.json",
+      "source_bytes": 4066,
+      "source_sha256": "c3728c89c86dd6bd1e96131e6fbfe21647e56e438bd1612bbc3e75caecfb770b",
+      "destination_bytes": 4066,
+      "destination_sha256": "c3728c89c86dd6bd1e96131e6fbfe21647e56e438bd1612bbc3e75caecfb770b",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/SOURCE_AND_AUDIO_AUDIT.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/SOURCE_AND_AUDIO_AUDIT.json",
+      "source_bytes": 17613,
+      "source_sha256": "01c43fb452d1a3285bccc775c2746a1cae150f15d6ebff3f0b29c63202b27827",
+      "destination_bytes": 17613,
+      "destination_sha256": "01c43fb452d1a3285bccc775c2746a1cae150f15d6ebff3f0b29c63202b27827",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/SOURCE_INPUT_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/SOURCE_INPUT_MANIFEST.json",
+      "source_bytes": 7611,
+      "source_sha256": "9438f82cfdf1df7e21159d67a24573d3e99a6c0d4249b7467c70f9b2aecdc5df",
+      "destination_bytes": 7611,
+      "destination_sha256": "9438f82cfdf1df7e21159d67a24573d3e99a6c0d4249b7467c70f9b2aecdc5df",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/TOOLKIT_CAPABILITY_CHECK.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/TOOLKIT_CAPABILITY_CHECK.json",
+      "source_bytes": 2053,
+      "source_sha256": "001592a8f269f6b9abe4c359ad9d9d961122117bb60da2a67bc5c8d1a94ad67f",
+      "destination_bytes": 2053,
+      "destination_sha256": "001592a8f269f6b9abe4c359ad9d9d961122117bb60da2a67bc5c8d1a94ad67f",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/validate_audio_stage.py",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/validate_audio_stage.py",
+      "source_bytes": 11596,
+      "source_sha256": "f79018172d11b4ecf2c777a98d4ffca936a39c4789f217e07e31cf8b8d6c174c",
+      "destination_bytes": 11596,
+      "destination_sha256": "f79018172d11b4ecf2c777a98d4ffca936a39c4789f217e07e31cf8b8d6c174c",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/VALIDATION_REPORT.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/VALIDATION_REPORT.json",
+      "source_bytes": 1060,
+      "source_sha256": "737a75849eabd82973e353394df70023af979bf38125d9519f3e13c6a87f1eff",
+      "destination_bytes": 1060,
+      "destination_sha256": "737a75849eabd82973e353394df70023af979bf38125d9519f3e13c6a87f1eff",
+      "transformations": [
+        "SOURCE_BYTES_PRESERVED"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_ANALYSIS_PACKET_README.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_ANALYSIS_PACKET_README.md",
+      "source_bytes": 20002,
+      "source_sha256": "6f5427a09d42aaa9239c90287f4b02b2a534db5256418e45e2404c22b8827e7d",
+      "destination_bytes": 20310,
+      "destination_sha256": "5aa2c5b764857c75f6d85bdb3de0b053882ac2f22ed2618c1678f1d665dac7c9",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "PREPARATION_STATE_RECONCILIATION"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_AUDIO_METHOD_AND_RESULTS.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_AUDIO_METHOD_AND_RESULTS.md",
+      "source_bytes": 21972,
+      "source_sha256": "0205382c82930f72fb11b110f0a4aa65d71e5730aefc129004fb5c705433c9aa",
+      "destination_bytes": 22035,
+      "destination_sha256": "e6d57c4541588d9f0c90abd8f0fdcb6f7b5f614842a90d271c84f5dcf8636ca8",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_AUDIO_REVISION_LEDGER.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_AUDIO_REVISION_LEDGER.md",
+      "source_bytes": 29100,
+      "source_sha256": "42dd2983a086ade25c2c644db42d3e7007fdbecaec7018307b4bbc001c9c82f3",
+      "destination_bytes": 29165,
+      "destination_sha256": "990ec4af8363405e2b1e36542bfb1b166170ce152fa5ab00e24a0dbc5bf81f2f",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "PREPARATION_STATE_RECONCILIATION"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "source_bytes": 20123,
+      "source_sha256": "6b46043716a300ee85ff69b6c1e99ad0f78ff22a8274e5d1d1d1783941bd6b43",
+      "destination_bytes": 20279,
+      "destination_sha256": "a13432a0ba2449fc242b26fdc896d02f998d375b803e16c93855a2b92ca039c4",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "source_bytes": 49650,
+      "source_sha256": "a1e44f74bd6a28ef3aa9dace08be9d2524856e8ec02bf51a378b6c72aa398d10",
+      "destination_bytes": 49806,
+      "destination_sha256": "620bc4274c535c740ec1c5ea41c0c9b90fc1c00e6fc2111511b336eaea7cd648",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "source_bytes": 41947,
+      "source_sha256": "069943db544d2df21a68de2dfd9af857cc4f44163d6acf3b54bd7a0be3124b96",
+      "destination_bytes": 42103,
+      "destination_sha256": "b14c45a857f9960ffe7e713bada486bba1311700e8f95210a772e79270e15f8d",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json",
+      "source_bytes": 18587,
+      "source_sha256": "55efd6a41a6b7a05f07f98edd17cb7a442ba2e5ffb7df5dc40d4528e716a86bf",
+      "destination_bytes": 18599,
+      "destination_sha256": "993062019f2ec0cc07da1b695557030dee57d6e2f3e3b680b4498277db11a87d",
+      "transformations": [
+        "MODEL_AUTHORITY_LABEL_RECONCILIATION"
+      ]
+    },
+    {
+      "source_member": null,
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_CURRENT_STATE.md",
+      "source_bytes": null,
+      "source_sha256": null,
+      "destination_bytes": 4022,
+      "destination_sha256": "5e106f6de14cfd28e5110b289d17a5d60a845d13e6b097133617898e770ed590",
+      "transformations": [
+        "ADDED_REPOSITORY_CURRENT_STATE_ROUTER"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "source_bytes": 115458,
+      "source_sha256": "cba8ea00da54161e6a0103dadbe3c47b86ce253e9008c571bb633cb405e0908b",
+      "destination_bytes": 115517,
+      "destination_sha256": "55d68c6f974e1ee42c3ea0e77fdff64b1c24ef61e995f72659b072a693d37dcb",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "source_bytes": 31349,
+      "source_sha256": "0fbf6a17e61d8371bc3fa514ca51c5c147c067c36351c03ee68c3f5b1f81bd80",
+      "destination_bytes": 31505,
+      "destination_sha256": "680abd268726b74aef2f80b83412aa35f7c49b05c4c708027a6bac63bed0da2c",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "source_bytes": 18847,
+      "source_sha256": "ba074aef3b30683f2f5490fd1277c98359fc106412fc8b17c8146934416c5a48",
+      "destination_bytes": 19003,
+      "destination_sha256": "8bfdc7b48c2573111a56d4c77e25872cd97c34815db4ce65d2c991a7b178b1a1",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "source_bytes": 24298,
+      "source_sha256": "c33a7fd43c99da8e9636ff10fc32472d2757726983504d083ee3502098627878",
+      "destination_bytes": 24454,
+      "destination_sha256": "3c3bc0ed834f58dfd6ee00d13b779aaa5624995aac0409aff48674779c27a2ce",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "source_bytes": 21628,
+      "source_sha256": "873c619bf072c7609d5f674c93f418a75eb4e01ace3aeecf52614f7c9812bb67",
+      "destination_bytes": 21784,
+      "destination_sha256": "4b7bf0e5354329421d527de9db55e473dbe05c52dbda856da0d7749ef2192477",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md",
+      "source_bytes": 22397,
+      "source_sha256": "6f14c24d96d7607b0305030980bddfe45495447db7be124b691a6e2ba9caf863",
+      "destination_bytes": 22553,
+      "destination_sha256": "9594d4fbf0ccd29ca56a5cb1d5688845476a8f493697b20a781eea1e14b55b8a",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "source_bytes": 22714,
+      "source_sha256": "5de9b67c2c1c75851d84db9b694aeb880750436bdf3bd3dc7db2f5e4d232c066",
+      "destination_bytes": 22869,
+      "destination_sha256": "be96026c392c2a7e7c77a899200db88ddf98ca85f29cf7079150f9e034046460",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    },
+    {
+      "source_member": "WUWA_SIGRIKA_RECONSTRUCTION_PACKET_PRE_AV_V0_2/WUWA_SIGRIKA_TALENT_EXPECTATION_AND_INTERPRETIVE_AGENCY_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/WUWA_SIGRIKA_TALENT_EXPECTATION_AND_INTERPRETIVE_AGENCY_PROFILE.md",
+      "source_bytes": 20218,
+      "source_sha256": "48019757eaf97daba5dff13253229851852dfc61d129f7e8eab93412ce8560fc",
+      "destination_bytes": 20374,
+      "destination_sha256": "8a1c1e5e4af4945f042ac969c9c6cdca418362e879f8ee6ad2ac364cac5fa5b2",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE"
+      ]
+    }
+  ]
+}

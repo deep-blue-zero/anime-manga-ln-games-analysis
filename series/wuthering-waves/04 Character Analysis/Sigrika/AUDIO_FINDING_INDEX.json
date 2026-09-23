@@ -1,0 +1,248 @@
+[
+  {
+    "id": "SIG-AF-01",
+    "title": "Verified recordings, not merely available metadata",
+    "epistemic_category": "measured fact",
+    "scope": "all 2,809 unique objects in the declared direct-plus-counterpart crosswalk",
+    "finding": "Nineteen downloaded ZIP archives match the release-manifest SHA-256 values; every selected FLAC byte hash and native signed-16-bit little-endian interleaved PCM payload hash matches its recorded expectation. All objects decode and reproduce duration, RMS, and peak from the earlier tables.",
+    "counterevidence_and_limits": "This does not re-decode the original WEM, independently rebuild the canonical framed PCM identifier, certify client semantic parity, or prove that every sound within an event belongs to one speaker.",
+    "revision_condition": "An exact hash mismatch, incorrect member route, or reproducible decoder disagreement would reopen the affected object. No such failure occurred.",
+    "cohort_ids": [],
+    "case_ids": [],
+    "evidence_bundle_ids": [
+      "SIG-E53",
+      "SIG-E54"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-02",
+    "title": "Coverage does not make every pitch estimate equally usable",
+    "epistemic_category": "measured fact",
+    "scope": "direct-character pitch comparison gate",
+    "finding": "2,531 of 2,652 direct objects pass the conservative mono/pitch gate. The other 121 are retained and measured but excluded from the principal pitch comparisons. Flag counts overlap: 79 edge-band, 38 parameter-sensitive, 19 with fewer than ten voiced frames, and four multichannel.",
+    "counterevidence_and_limits": "The gate is a reliability policy, not a diagnosis of a defective recording. Legitimate extreme register, effort sounds, processing, mixtures, or octave ambiguity can trigger it. Passing is not proof of correct F0 for every frame.",
+    "revision_condition": "A better-validated estimator or direct review may admit excluded cases or reject included ones; keep the native hashes and the earlier measurements.",
+    "cohort_ids": [],
+    "case_ids": [],
+    "evidence_bundle_ids": [
+      "SIG-E53"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-03",
+    "title": "The aftermath and rooftop retreat do not share one acoustic distress template",
+    "epistemic_category": "measured fact with bounded contextual inference",
+    "scope": "source-defined 12423/4 aftermath versus 15255/6 rooftop retreat",
+    "finding": "The aftermath cohort has lower active-frame level percentiles but higher pitch percentile medians than the rooftop retreat in all four languages. The aftermath pitch percentiles are about 75/73/58/70 (ZH/EN/JA/KO); rooftop retreat about 3/14/2/7. The text supplies the different situations; measurements describe their recordings.",
+    "counterevidence_and_limits": "Neither a high pitch nor a low pitch independently diagnoses distress. Text, register, sentence length, phonetic content, sound processing, and selection affect these aggregates. The two scenes are not matched utterances.",
+    "revision_condition": "New matched scenes or perceptual review could change the expressive reading. The present result specifically rejects a universal low-pitch distress rule.",
+    "cohort_ids": [
+      "SIG-AC-01",
+      "SIG-AC-03"
+    ],
+    "case_ids": [
+      "SIG-AM-01",
+      "SIG-AM-03",
+      "SIG-AM-09"
+    ],
+    "evidence_bundle_ids": [
+      "SIG-E22",
+      "SIG-E23",
+      "SIG-E31"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-04",
+    "title": "The later rooftop break is differentiated across all four audio witnesses",
+    "epistemic_category": "measured fact; interpretation remains a hypothesis",
+    "scope": "15255/6 retreat and 15256/4 chosen break, within each language",
+    "finding": "The later cohort has higher median pitch, a wider median within-object pitch range, higher active-frame median level, and a lower low-energy fraction in each language. This is consistent with, but does not independently establish, the textual contrast between retreat and chosen participation.",
+    "counterevidence_and_limits": "This is a cohort comparison of eleven versus ten semantic lines, not repeated wording or an experiment. The Chinese single-line pair is an important exception: the literal taking-a-break line has lower median F0 than the request to stay. Do not make the cohort tendency universal or treat it as proof of permanent recovery.",
+    "revision_condition": "Context-matched counterexamples, revised optional-event chronology, better segmentation, or perceptual evidence could narrow the connection between the aggregate and the developmental reading.",
+    "cohort_ids": [
+      "SIG-AC-03",
+      "SIG-AC-04"
+    ],
+    "case_ids": [
+      "SIG-AM-09",
+      "SIG-AM-10",
+      "SIG-AM-11"
+    ],
+    "evidence_bundle_ids": [
+      "SIG-E31"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-05",
+    "title": "The birthday exchange does not support a universal softer-voice rule",
+    "epistemic_category": "measured fact; rejected overgeneralization",
+    "scope": "12586/7 Sigrika turns concerning Denia and the next birthday",
+    "finding": "Cohort active-frame level sits around the 50th/61st/27th/43rd percentiles of the respective ZH/EN/JA/KO baselines. Pitch sits around the 57th/50th/44th/62nd percentiles. The final next-year request has pitch percentiles about 77/27/55/53. Different witnesses distribute the same relational work differently.",
+    "counterevidence_and_limits": "Percentiles are relative to a broad, source-mixed within-language corpus; they are not direct measures of affection. The EN final Promise? is not semantically identical in force to every localized ending. No romance, sincerity, or knowledge-of-the-hidden-plan claim follows.",
+    "revision_condition": "A controlled, semantically reviewed set of relational scenes plus perceptual annotation could support a narrower performance claim; these values alone cannot.",
+    "cohort_ids": [
+      "SIG-AC-06"
+    ],
+    "case_ids": [
+      "SIG-AM-12",
+      "SIG-AM-13",
+      "SIG-AM-14"
+    ],
+    "evidence_bundle_ids": [
+      "SIG-E47",
+      "SIG-E48"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-06",
+    "title": "The gold passage is not a language-invariant pitch crescendo",
+    "epistemic_category": "measured fact with localization constraint",
+    "scope": "12966/3, particularly talks 32, 34, and 36",
+    "finding": "The weight-of-gold line and later even-if-I-cannot line have median F0 about 298→401 Hz in ZH, 249→250 in EN, 285→375 in JA, and 247→305 in KO. The local movement differs; the English recording does not reproduce the same upward median-pitch change.",
+    "counterevidence_and_limits": "These are whole-object summaries, not aligned phonemes, identical syntax, or equivalent audiovisual edits. English changes some imagery and phrasing. A difference is not proof of actor intent, emotional strength, or fidelity ranking.",
+    "revision_condition": "Matched semantic and video inspection may attribute particular contour choices more securely. No universal assertion-equals-higher-pitch instruction is currently justified.",
+    "cohort_ids": [
+      "SIG-AC-02"
+    ],
+    "case_ids": [
+      "SIG-AM-06",
+      "SIG-AM-07",
+      "SIG-AM-08"
+    ],
+    "evidence_bundle_ids": [
+      "SIG-E25",
+      "SIG-E26"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-07",
+    "title": "Whole-object duration can be dominated by event timing rather than word rate",
+    "epistemic_category": "measured fact with production hypothesis",
+    "scope": "12966/3/28 and the archive telephone idle",
+    "finding": "The Enough object lasts approximately 6.38–7.37 seconds despite a very short lexical caption; low-energy fractions at -45 dBFS range from 61% to 83%. The telephone idle is about 28.57–28.66 seconds across four languages and contains many internal gaps.",
+    "counterevidence_and_limits": "The analysis has not aligned words or heard every event component. Gaps can contain low-level breath, effects, a scripted response interval, or packaging/animation timing. Near-matched idle durations suggest a common timing constraint as a hypothesis, not a verified animation fact.",
+    "revision_condition": "Native video, event dispatch, and forced alignment with validated transcription can distinguish these mechanisms. Until then, do not report a single-word hesitation duration or a precise articulation rate.",
+    "cohort_ids": [],
+    "case_ids": [
+      "SIG-AM-05",
+      "SIG-AM-20"
+    ],
+    "evidence_bundle_ids": [
+      "SIG-E25",
+      "SIG-E33",
+      "SIG-E53"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-08",
+    "title": "The most important final declaration is outside the line-level audio denominator",
+    "epistemic_category": "source-mapping fact",
+    "scope": "12967/1, 16901/4, and 16826/2",
+    "finding": "The accepted direct occurrences in those actions number six, eighteen, and nineteen respectively; all have play_voice=false and zero resolved media associations. The final this-time declaration cannot be analyzed by pretending nearby 12966 audio is the same occurrence.",
+    "counterevidence_and_limits": "This is not a failed download of an expected voiced line, and not proof that a future cinematic or other video witness contains no audio. The voiced archive retrospective about a mother call is also not a recording of the later in-scene call.",
+    "revision_condition": "An attributable new audiovisual witness or corrected runtime mapping can supply the missing modality. Preserve the exact source distinction rather than silently substituting a neighboring scene.",
+    "cohort_ids": [],
+    "case_ids": [
+      "SIG-AM-16",
+      "SIG-AM-20"
+    ],
+    "evidence_bundle_ids": [
+      "SIG-E26",
+      "SIG-E33",
+      "SIG-E48",
+      "SIG-E53"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-09",
+    "title": "Counterpart audio remains a separate evidence scope",
+    "epistemic_category": "measured fact and attribution constraint",
+    "scope": "38 counterpart semantic lines, including exact technical-ID impersonation overrides",
+    "finding": "The counterpart contributes 157 unique objects and 169 associations, including 32 three-channel and four stereo objects. Native samples were preserved; analytical tracking selected a declared channel without downmixing or inventing spatial labels. Counterpart results never enter direct-character normalization.",
+    "counterevidence_and_limits": "The highest-energy channel is not necessarily an isolated speaker. Source identity is not decided by sounding similar, by a shared technical ID, or by a cluster label.",
+    "revision_condition": "A provenance-preserving identity correction or verified channel/stem map can alter handling; no current sound statistic reverses the existing impersonation exclusions.",
+    "cohort_ids": [],
+    "case_ids": [],
+    "evidence_bundle_ids": [
+      "SIG-E24",
+      "SIG-E52",
+      "SIG-E53"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-10",
+    "title": "Exploratory clusters are not three psychological selves",
+    "epistemic_category": "measured fact and methodological constraint",
+    "scope": "seven-feature within-language clustering with three-cluster and sensitivity runs",
+    "finding": "Silhouettes are approximately .17/.17/.29/.25 for ZH/EN/JA/KO, with lower English seed stability and substantial changes when four rather than three clusters are used. Clusters mix source contexts. They serve only as review organizers.",
+    "counterevidence_and_limits": "Feature scaling, the number of clusters, source mix, and estimator choices affect the partition. A stable random seed would not itself establish a natural psychological category.",
+    "revision_condition": "Better features and independent contextual validation may support a narrower regime description, never an unmarked emotion or identity classifier.",
+    "cohort_ids": [],
+    "case_ids": [],
+    "evidence_bundle_ids": [
+      "SIG-E53"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-11",
+    "title": "Waveform inspection strengthens boundaries without overturning the literary thesis",
+    "epistemic_category": "bounded inference",
+    "scope": "the existing monograph, conditional rules, and newly measured selected scenes",
+    "finding": "The measured contrasts require scene- and language-conditioned delivery, while the text already distinguishes fear, retreat, chosen leisure, and friendship under incomplete knowledge. The main account of expectations, limited action, and continuing ordinary life remains supported by its original textual evidence.",
+    "counterevidence_and_limits": "Acoustic consistency does not validate a psychological theory. No human listening audit or video review has tested irony, laughter, perceived warmth, or embodied hesitation. No numerical increase in character fidelity is claimed.",
+    "revision_condition": "New direct performance or visual evidence may qualify a specific claim or rule. Revise that dependency explicitly rather than averaging away disagreement or invalidating unrelated textual findings.",
+    "cohort_ids": [
+      "SIG-AC-01",
+      "SIG-AC-03",
+      "SIG-AC-04",
+      "SIG-AC-06"
+    ],
+    "case_ids": [],
+    "evidence_bundle_ids": [
+      "SIG-E22",
+      "SIG-E25",
+      "SIG-E31",
+      "SIG-E33",
+      "SIG-E47"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  },
+  {
+    "id": "SIG-AF-12",
+    "title": "Machine profiling and human listening are different completion responsibilities",
+    "epistemic_category": "methodological completion judgment",
+    "scope": "this local V0.2 audio stage",
+    "finding": "The full declared crosswalk was acquired, decoded, identity-checked, newly measured, normalized, partitioned, and given source-linked cases and quality/outlier cohorts. This supports machine_voice_profiled within the stated signal-analysis limits. It does not support either human-performance state or audiovisual/integrated completion.",
+    "counterevidence_and_limits": "True linguistic articulation rate, isolated speaker stems, validated word alignment, perceptual labels, and audiovisual synchronization remain unavailable. Those omissions are explicit, not hidden inside a single complete flag.",
+    "revision_condition": "A failed reproducibility or routing check reopens the machine gate. Future listening and video stages have their own acquisition, annotation, and revision gates.",
+    "cohort_ids": [],
+    "case_ids": [],
+    "evidence_bundle_ids": [
+      "SIG-E53",
+      "SIG-E54"
+    ],
+    "confidence": "high for declared computation/source-mapping facts; moderate or open for contextual/perceptual inference",
+    "perceptual_review_performed": false
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "SIG-AP-01",
+    "title": "Coverage inflation",
+    "challenge": "Call 2,809 objects direct Sigrika.",
+    "adjudication": "Reject: 2,652 direct and 157 counterpart; semantic lines and render associations remain separate.",
+    "finding_ids": [
+      "SIG-AF-01",
+      "SIG-AF-09"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-02",
+    "title": "Invalid universal pitch",
+    "challenge": "Treat every decoded recording as a reliable F0 exemplar.",
+    "adjudication": "Reject: apply per-object QC; retain the 121 direct exclusions for other measurements and later review.",
+    "finding_ids": [
+      "SIG-AF-02"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-03",
+    "title": "Distress shortcut",
+    "challenge": "Predict low pitch whenever the text describes distress.",
+    "adjudication": "Reject: aftermath and rooftop retreat occupy different measured pitch regimes; do not assign an emotion from signal.",
+    "finding_ids": [
+      "SIG-AF-03"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-04",
+    "title": "Cohort-to-line leakage",
+    "challenge": "Every later rooftop line must have higher pitch than every earlier line.",
+    "adjudication": "Reject: Chinese matched-case 09 versus 10 provides a counterexample despite the cohort aggregate.",
+    "finding_ids": [
+      "SIG-AF-04"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-05",
+    "title": "Intimacy shortcut",
+    "challenge": "Make every request to Denia quieter or lower-pitched.",
+    "adjudication": "Reject: birthday witness percentiles are not uniform; knowledge and relationship facts stay textual.",
+    "finding_ids": [
+      "SIG-AF-05"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-06",
+    "title": "Cross-dub crescendo",
+    "challenge": "Reproduce the gold speech as the same pitch rise in every language.",
+    "adjudication": "Reject: EN median F0 does not follow the same two-line change; preserve localization and utterance scope.",
+    "finding_ids": [
+      "SIG-AF-06"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-07",
+    "title": "Single-word timing",
+    "challenge": "Call the complete Enough object a seven-second hesitation.",
+    "adjudication": "Reject: the object is not word-aligned and its low-energy content is not a perceptual annotation.",
+    "finding_ids": [
+      "SIG-AF-07"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-08",
+    "title": "Wrong occurrence substitution",
+    "challenge": "Use 12966 audio to claim a heard delivery of 12967/1/4.",
+    "adjudication": "Reject: source/action mismatch; final-declaration line-level mapping is absent.",
+    "finding_ids": [
+      "SIG-AF-08"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-09",
+    "title": "Archive/call substitution",
+    "challenge": "Treat FavorWord_141204 as a recording of 16901/4.",
+    "adjudication": "Reject: archive retrospective and in-scene conversation are distinct sources.",
+    "finding_ids": [
+      "SIG-AF-08"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-10",
+    "title": "Counterpart contamination",
+    "challenge": "Normalize counterpart multi-channel sound as Sigrika private speech.",
+    "adjudication": "Reject: exact adjudication and separate scope govern; no downmix or channel-person inference.",
+    "finding_ids": [
+      "SIG-AF-09"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-11",
+    "title": "Psychological clustering",
+    "challenge": "Name three acoustic clusters happy, sad, and true self.",
+    "adjudication": "Reject: low separation, instability, mixed contexts, and no perceptual ground truth.",
+    "finding_ids": [
+      "SIG-AF-10"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-AP-12",
+    "title": "Completion inflation",
+    "challenge": "Machine profiling proves actor intention or full video-stage completion.",
+    "adjudication": "Reject: keep human-performance and audiovisual/integrated states false; machine gate is bounded.",
+    "finding_ids": [
+      "SIG-AF-11",
+      "SIG-AF-12"
+    ],
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "result": "constraint_checked",
+    "test_type": "nonblind source-and-measurement constraint audit",
+    "empirical_accuracy": null
+  }
+]

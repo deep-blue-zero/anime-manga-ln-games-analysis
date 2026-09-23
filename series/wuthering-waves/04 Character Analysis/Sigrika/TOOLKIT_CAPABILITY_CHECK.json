@@ -1,0 +1,43 @@
+{
+  "tool_version": "1.1.0rc2+retiming.1",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+  "programs": {
+    "ffmpeg": {
+      "path": "/usr/bin/ffmpeg",
+      "version": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers"
+    },
+    "ffprobe": {
+      "path": "/usr/bin/ffprobe",
+      "version": "ffprobe version 7.1.5-0+deb13u1 Copyright (c) 2007-2026 the FFmpeg developers"
+    }
+  },
+  "packages": {
+    "Pillow": "12.3.0",
+    "numpy": "2.3.5",
+    "soundfile": "0.13.1",
+    "librosa": "0.11.0"
+  },
+  "implementation_sha256": {
+    "__init__.py": "62cc2fb905ed82a1ce54d097ea87cfab9323adc40695b6a86479b7e8909b2688",
+    "__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+    "audio.py": "6020d36133487d8aee1ad49870a863cf0970cfbdb7a91c6552c8daedfaf3b6a9",
+    "bundle.py": "51d88c4ce6ae269789a0c969ea807d6dd68393ce4dd5c9e201d73ce26ccc8081",
+    "cli.py": "fc0a644efac448514d8a444ae86194b6652741c0dd784bc8918f5646b1b2e979",
+    "clips.py": "c7768cb7cf4649381108d200684e9c3dad558829b91a828c3c46d8028e293661",
+    "common.py": "82245b3e182a023ba880c1d90a2fe72cfc91834a19450ec2f4a0863215dab923",
+    "external.py": "e09a9b3787ec23ac95a75c6da68bb583ce191d415e4cb27be16cdfd1b2428662",
+    "inventory.py": "d5f9d404597b73a9a43046930e6b8d5b3bbb09688a96c41fb05a5b9085d1bd02",
+    "mapping.py": "a538285622901d227241a5cb7da69ed46d8ef7e1e17b9beb440c03a922f1a3e0",
+    "packaging.py": "fbf100c66e2b802117d47c8b48f8b28adeb6a155411bc9dfddcb4b1bfe7bedd5",
+    "reviews.py": "a200b9ffcfacbec5cb104906f31a92bbb754ccb209971a36bb69c3eff9414467",
+    "subtitles.py": "34cc46074764e49127db0d4b2fb589b593ef8700949bd18617c54e2ce053c26d",
+    "timeline.py": "4237371db68885fc905d0ab5e947d1c67140e5964e64839f3d7429626d7e8f5d",
+    "visual.py": "180343aec074548e291f24bd4af9e9315340f1fd063142690c9c3d21cd8f5c6f"
+  },
+  "perceptual_capabilities": {
+    "audio": "NOT_VERIFIED",
+    "motion": "NOT_VERIFIED",
+    "images": "NOT_VERIFIED"
+  }
+}

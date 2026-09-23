@@ -22,6 +22,7 @@ This is an aggregate routing ledger. It does not replace character-specific stat
 | Lynae | V0.1 pre-AV packet; active_provisional | supplied relationship/state profile; AV validation pending | pinned 3.6.0 semantic evidence plus additive voice package | two occurrence identities remain unresolved |
 | Aemeath | V0.1 pre-AV packet; active_provisional | supplied relationship/state and identity/embodiment/shell profiles; AV validation pending | pinned 3.6.0 evidence | retain the packet's direct-character versus associated-shell boundary |
 | Denia | V0.1 pre-AV packet; active_provisional | supplied relationship/state and identity/deception/personhood profiles; AV validation pending | pinned 3.6.0 evidence | retain the packet's identity and personhood uncertainties |
+| Sigrika | V0.2 audio-refined packet; active_provisional | supplied reconstructive and relationship/state profiles plus compiled model; text and machine-audio stages complete within scope | pinned 3.6.0 semantic evidence plus verified four-language installed-client audio | preserve non-linear state distinctions, source-freeze conflict, three unresolved occurrences, and pending AV/human review |
 
 Each new state route is `04 Character Analysis/<Character>/WUWA_<CHARACTER>_RELATIONSHIP_AND_STATE_PROFILE.md`. These rows locate the supplied analysis without inventing new state labels.
 

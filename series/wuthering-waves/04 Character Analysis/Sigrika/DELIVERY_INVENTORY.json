@@ -1,0 +1,254 @@
+{
+  "schema_version": "sigrika.delivery-inventory.v0.2",
+  "artifact_identity": "analytical_packet_with_repository_router",
+  "authority": "owner_adopted_current_provisional",
+  "analytical_packet_markdown_documents": 14,
+  "repository_markdown_documents": 15,
+  "markdown_whitespace_words": 48422,
+  "raw_media_included": false,
+  "video_review_performed": false,
+  "human_perceptual_review_performed": false,
+  "files": [
+    {
+      "path": "AUDIO_ACQUISITION_MANIFEST.json",
+      "bytes": 7901,
+      "sha256": "0ee306d37e7d21d2c92a63493d8ba44c5e643784b8bc2b68ed10f3f26d66987c"
+    },
+    {
+      "path": "AUDIO_CLUSTER_RESULTS.json",
+      "bytes": 49373,
+      "sha256": "a9a85da75a97fd5f73931819a9b5502ed51fbf4a5e5958dad013e3d94b307c56"
+    },
+    {
+      "path": "AUDIO_CONTEXT_COHORTS.json",
+      "bytes": 157526,
+      "sha256": "f0d4a05f9f8fb96636be681294af9f99d1bc16a406f6fa62bbe4e8d9a09130ce"
+    },
+    {
+      "path": "AUDIO_FIDELITY_PROBES.json",
+      "bytes": 6011,
+      "sha256": "ee7370e771402fff63014427aa710d6995c89b5435757d1b503b7b87ac92d144"
+    },
+    {
+      "path": "AUDIO_FINDING_INDEX.json",
+      "bytes": 16359,
+      "sha256": "c0e5eb74fccbaf77b8c049e6f3fef89c64d8f6b261585da9e81fa1b1bd630718"
+    },
+    {
+      "path": "AUDIO_MATCHED_SEMANTIC_CASES.json",
+      "bytes": 210985,
+      "sha256": "c5230a5d628f93aa04c1ff26e7943f43b77792e3fd98d49cabbad90cbe67d3d5"
+    },
+    {
+      "path": "AUDIO_METHOD_PARAMETERS.json",
+      "bytes": 2073,
+      "sha256": "b0ac9aac4c9548c6e319b4e3718cd61132040494a886ca7ddd9d6057826cb1af"
+    },
+    {
+      "path": "AUDIO_OUTLIER_REVIEW_COHORT.json",
+      "bytes": 38595,
+      "sha256": "92693364c9dee96259f3a2791ae81ed4500abab441a7ab427952e7a180e4081e"
+    },
+    {
+      "path": "AUDIO_PRIOR_CLAIM_SNAPSHOT.json",
+      "bytes": 946,
+      "sha256": "4d7e82edd97f5252e99b0dc7c3bd894d496bc949fe677dd2b4fd0a224cc5ffb6"
+    },
+    {
+      "path": "AUDIO_REPRODUCTION_CHECK.json",
+      "bytes": 1140,
+      "sha256": "8494c9f95b81cc0349f3fba49bbf4bf68a2da3843ca813a04c23705a15f4b24f"
+    },
+    {
+      "path": "AUDIO_REPRODUCTION_INSTRUCTIONS.txt",
+      "bytes": 3866,
+      "sha256": "d321f7bd30b2900240231cf349789073680e58d0f3d596c14438b2def466a63b"
+    },
+    {
+      "path": "AUDIO_RETRIEVAL_QC_COHORT.json",
+      "bytes": 8240,
+      "sha256": "d176a8f2ea701813185111a0840b3159643775b27d8db89eec310dbf4452a601"
+    },
+    {
+      "path": "AUDIO_SOURCE_INPUT_MANIFEST.json",
+      "bytes": 1851,
+      "sha256": "6de9404a777a29a6ad8df8d42a73e309d8abad5aaeff0339d97970272a6612a3"
+    },
+    {
+      "path": "AUDIO_STAGE_VALIDATION_REPORT.json",
+      "bytes": 1005,
+      "sha256": "58986b04a35da8dfce4349f0fdc5c7a38eb12dbb027db3ce5f3396477dfd7953"
+    },
+    {
+      "path": "AUDIO_TO_VIDEO_TARGET_JOIN.json",
+      "bytes": 14216,
+      "sha256": "6fdd32b747bdbc8293fd33a91b508af8601c1b1ad0a5bce3d773ae01350be4ee"
+    },
+    {
+      "path": "audio_tools/analyze_audio.py",
+      "bytes": 20285,
+      "sha256": "73c2904c38d06440a86a572d05fa3fe200e23055e68f0aeaec3be75313d3c4a2"
+    },
+    {
+      "path": "audio_tools/check_audio_reproduction.py",
+      "bytes": 2524,
+      "sha256": "2f44a0be1af782c243e11c8e5d0cdc8d64ae7863b543d500d755b55183656996"
+    },
+    {
+      "path": "audio_tools/requirements-audio.txt",
+      "bytes": 90,
+      "sha256": "a25afede73daea74f4c3408b57304dd25628e6fdd1829380805a7c18ff258ac1"
+    },
+    {
+      "path": "audio_tools/summarize_audio.py",
+      "bytes": 17441,
+      "sha256": "3f36fe1e99c5b79832064ac0d1517afbcf492fb1d132b387e033cca53c5c7a58"
+    },
+    {
+      "path": "AUDIO_WAVEFORM_ANALYSIS_SUMMARY.json",
+      "bytes": 391393,
+      "sha256": "92bec5cce3099f435011b7219ad4b8d528e5d1270653b62061ab51aa77bbd849"
+    },
+    {
+      "path": "AV_RETRIEVAL_TARGETS.json",
+      "bytes": 70905,
+      "sha256": "d0c3ccb5500f54e5ad050143c935f063880405859bc1dc71dca8e51491e10026"
+    },
+    {
+      "path": "CLAIM_INDEX.json",
+      "bytes": 44592,
+      "sha256": "a013aa2172e9204258eb1fbe6fa733cc95369092c6cd626c67bcae2718360c5b"
+    },
+    {
+      "path": "EVIDENCE_BUNDLE_INDEX.json",
+      "bytes": 24440,
+      "sha256": "80b250dd013576ae8351f488faa82e17288ca13c64f18ff5ac4c245193633814"
+    },
+    {
+      "path": "FIDELITY_PROBE_INDEX.json",
+      "bytes": 25415,
+      "sha256": "0034f0684e1ca008ccf6f6ef62decbb1844225ca110e7cc31c55d8ffe79e2457"
+    },
+    {
+      "path": "LOCAL_REVISION_REVIEW.json",
+      "bytes": 7767,
+      "sha256": "27a253d8002d4e6e33312f25b805a60af6812c7ff794c16639c73b0f673214eb"
+    },
+    {
+      "path": "reproduce_validation.py",
+      "bytes": 14590,
+      "sha256": "033b9cf96f55ba31b4968a4a502fbf59c01e0bebdeab57c8d1113c8bd6edbb9f"
+    },
+    {
+      "path": "SHARD_ACQUISITION_AUDIT.json",
+      "bytes": 4066,
+      "sha256": "c3728c89c86dd6bd1e96131e6fbfe21647e56e438bd1612bbc3e75caecfb770b"
+    },
+    {
+      "path": "SOURCE_AND_AUDIO_AUDIT.json",
+      "bytes": 17613,
+      "sha256": "01c43fb452d1a3285bccc775c2746a1cae150f15d6ebff3f0b29c63202b27827"
+    },
+    {
+      "path": "SOURCE_INPUT_MANIFEST.json",
+      "bytes": 7611,
+      "sha256": "9438f82cfdf1df7e21159d67a24573d3e99a6c0d4249b7467c70f9b2aecdc5df"
+    },
+    {
+      "path": "TOOLKIT_CAPABILITY_CHECK.json",
+      "bytes": 2053,
+      "sha256": "001592a8f269f6b9abe4c359ad9d9d961122117bb60da2a67bc5c8d1a94ad67f"
+    },
+    {
+      "path": "validate_audio_stage.py",
+      "bytes": 11596,
+      "sha256": "f79018172d11b4ecf2c777a98d4ffca936a39c4789f217e07e31cf8b8d6c174c"
+    },
+    {
+      "path": "VALIDATION_REPORT.json",
+      "bytes": 1060,
+      "sha256": "737a75849eabd82973e353394df70023af979bf38125d9519f3e13c6a87f1eff"
+    },
+    {
+      "path": "WUWA_SIGRIKA_ANALYSIS_PACKET_README.md",
+      "bytes": 20310,
+      "sha256": "5aa2c5b764857c75f6d85bdb3de0b053882ac2f22ed2618c1678f1d665dac7c9"
+    },
+    {
+      "path": "WUWA_SIGRIKA_AUDIO_METHOD_AND_RESULTS.md",
+      "bytes": 22035,
+      "sha256": "e6d57c4541588d9f0c90abd8f0fdcb6f7b5f614842a90d271c84f5dcf8636ca8"
+    },
+    {
+      "path": "WUWA_SIGRIKA_AUDIO_REVISION_LEDGER.md",
+      "bytes": 29165,
+      "sha256": "990ec4af8363405e2b1e36542bfb1b166170ce152fa5ab00e24a0dbc5bf81f2f"
+    },
+    {
+      "path": "WUWA_SIGRIKA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "bytes": 20279,
+      "sha256": "a13432a0ba2449fc242b26fdc896d02f998d375b803e16c93855a2b92ca039c4"
+    },
+    {
+      "path": "WUWA_SIGRIKA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "bytes": 49806,
+      "sha256": "620bc4274c535c740ec1c5ea41c0c9b90fc1c00e6fc2111511b336eaea7cd648"
+    },
+    {
+      "path": "WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "bytes": 42103,
+      "sha256": "b14c45a857f9960ffe7e713bada486bba1311700e8f95210a772e79270e15f8d"
+    },
+    {
+      "path": "WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json",
+      "bytes": 18599,
+      "sha256": "993062019f2ec0cc07da1b695557030dee57d6e2f3e3b680b4498277db11a87d"
+    },
+    {
+      "path": "WUWA_SIGRIKA_CURRENT_STATE.md",
+      "bytes": 4022,
+      "sha256": "5e106f6de14cfd28e5110b289d17a5d60a845d13e6b097133617898e770ed590"
+    },
+    {
+      "path": "WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "bytes": 115517,
+      "sha256": "55d68c6f974e1ee42c3ea0e77fdff64b1c24ef61e995f72659b072a693d37dcb"
+    },
+    {
+      "path": "WUWA_SIGRIKA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "bytes": 31505,
+      "sha256": "680abd268726b74aef2f80b83412aa35f7c49b05c4c708027a6bac63bed0da2c"
+    },
+    {
+      "path": "WUWA_SIGRIKA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "bytes": 19003,
+      "sha256": "8bfdc7b48c2573111a56d4c77e25872cd97c34815db4ce65d2c991a7b178b1a1"
+    },
+    {
+      "path": "WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "bytes": 24454,
+      "sha256": "3c3bc0ed834f58dfd6ee00d13b779aaa5624995aac0409aff48674779c27a2ce"
+    },
+    {
+      "path": "WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "bytes": 21784,
+      "sha256": "4b7bf0e5354329421d527de9db55e473dbe05c52dbda856da0d7749ef2192477"
+    },
+    {
+      "path": "WUWA_SIGRIKA_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md",
+      "bytes": 22553,
+      "sha256": "9594d4fbf0ccd29ca56a5cb1d5688845476a8f493697b20a781eea1e14b55b8a"
+    },
+    {
+      "path": "WUWA_SIGRIKA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "bytes": 22869,
+      "sha256": "be96026c392c2a7e7c77a899200db88ddf98ca85f29cf7079150f9e034046460"
+    },
+    {
+      "path": "WUWA_SIGRIKA_TALENT_EXPECTATION_AND_INTERPRETIVE_AGENCY_PROFILE.md",
+      "bytes": 20374,
+      "sha256": "8a1c1e5e4af4945f042ac969c9c6cdca418362e879f8ee6ad2ac364cac5fa5b2"
+    }
+  ],
+  "counts_exclude_inventory_and_checksum_self_references": true
+}
