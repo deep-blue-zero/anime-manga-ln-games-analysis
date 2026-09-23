@@ -1,0 +1,29 @@
+{
+  "schema_version": "sigrika.packet-validation.v0.2",
+  "checked_at_utc": "2026-09-11T04:50:51.999611+00:00",
+  "status": "PASS",
+  "scope": "local mechanical integrity and optional original-source joins",
+  "original_source_validation": "completed",
+  "counts": {
+    "markdown_documents": 14,
+    "markdown_whitespace_words": 48296,
+    "local_links_checked": 1076,
+    "evidence_bundles": 60,
+    "claims": 50,
+    "model_rules": 16,
+    "nonblind_probes": 40,
+    "av_retrieval_targets": 24,
+    "input_hashes_checked": 19,
+    "distinct_printed_action_pairs_checked": 95,
+    "distinct_printed_text_keys_checked": 160,
+    "contextual_talk_items": 2584,
+    "exact_raw_text_keys_checked": 2555,
+    "localized_text_hashes_checked": 10104,
+    "occurrence_routes_checked": 834,
+    "voice_semantic_records": 666,
+    "render_associations": 2668,
+    "unique_direct_pcm": 2652
+  },
+  "errors": [],
+  "interpretive_boundary": "Mechanical validity does not establish interpretive correctness, blind prediction accuracy, or direct audiovisual perception."
+}

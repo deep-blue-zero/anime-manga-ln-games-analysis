@@ -22,9 +22,12 @@ Current directories:
 - `Lynae/` — nine-document pre-AV V0.1 reconstruction packet; `active_provisional`, audiovisual analysis pending.
 - `Aemeath/` — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, audiovisual analysis pending.
 - `Denia/` — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, audiovisual analysis pending.
+- `Sigrika/` — fourteen-document V0.2 reconstruction with a compiled model and completed machine-audio pass; owner-adopted current `active_provisional` authority; audiovisual and human-listening analysis pending.
 
 Start with each character's `CURRENT_STATE` router and `ANALYSIS_PACKET_README`. The [import record](../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) records byte preservation and the pending AV boundary.
 
-The [Chisa import record](../08%20Audits%20and%20Manifests/WUWA_CHISA_PRE_AV_REBUILD_IMPORT.md) records the later twelve-document rebuild and its publication provenance. The [authority adoption record](../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md) makes all five character packets current within their stated text/audio scopes.
+The [Chisa import record](../08%20Audits%20and%20Manifests/WUWA_CHISA_PRE_AV_REBUILD_IMPORT.md) records the later twelve-document rebuild and its publication provenance. The [authority adoption record](../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md) makes that earlier five-character packet set current within its stated text/audio scopes.
+
+The [Sigrika import record](../08%20Audits%20and%20Manifests/WUWA_SIGRIKA_V0_2_IMPORT.md) records the later audio-refined packet, its owner adoption, and the boundary that keeps the complete object-level evidence supplement and media outside Git.
 
 A folder is not evidence that every contract artifact exists. Missing artifacts are created only by a substantive analysis that warrants them.

@@ -20,6 +20,7 @@ do_not_use_as_current_authority: false
 | Lynae / 琳奈 / リンネー / 린네 | 1509 | V0.1 pre-AV packet imported; active_provisional | `04 Character Analysis/Lynae/WUWA_LYNAE_CURRENT_STATE.md` | additive bridge materialized | 888 semantic lines; 885 complete four-language mappings; no AV package; zero human annotations | 3.6.0 / `353f2eae...` |
 | Aemeath / 爱弥斯 / エイメス / 에이메스 | 1210 | V0.1 pre-AV packet imported; active_provisional | `04 Character Analysis/Aemeath/WUWA_AEMEATH_CURRENT_STATE.md` | supplied packet cites frozen 3.6.0 bridge | AV analysis pending; no completed human-performance review claimed | 3.6.0 / `353f2eae...` |
 | Denia / 达妮娅 / ダーニャ / 데니아 | — | V0.1 pre-AV packet imported; active_provisional | `04 Character Analysis/Denia/WUWA_DENIA_CURRENT_STATE.md` | supplied packet cites frozen 3.6.0 bridge | AV analysis pending; no completed human-performance review claimed | 3.6.0 / `353f2eae...` |
+| Sigrika / 西格莉卡 / シグリカ / 시그리카 | 1412 | V0.2 audio-refined packet; owner-adopted current active_provisional | `04 Character Analysis/Sigrika/WUWA_SIGRIKA_CURRENT_STATE.md` | V0.2 bridge and direct-voice view materialized | 666 direct semantic lines / 2,668 render associations / 2,652 unique direct audio identities; machine pass complete; AV and human listening pending | 3.6.0 / `353f2eae...` |
 
 ## Discovery rules
 

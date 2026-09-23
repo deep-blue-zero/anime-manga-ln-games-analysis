@@ -33,7 +33,7 @@ See:
 
 ## Current analytical generation
 
-The Git WUWA root retains **bootstrap generation V0.1**, supplemented on `series/wuthering-waves` by the supplied Aemeath, Denia, and Lynae **pre-AV V0.1** character packets. All three are `active_provisional`; audiovisual analysis remains pending. The owner has adopted all five character packets, including the later Chisa and Cartethyia rebuilds, as current `active_provisional` authority within their stated text/audio scopes; AV-dependent questions remain open.
+The Git WUWA root retains **bootstrap generation V0.1**, supplemented on `series/wuthering-waves` by the supplied Aemeath, Denia, and Lynae **pre-AV V0.1** character packets. All three are `active_provisional`; audiovisual analysis remains pending. The owner has adopted those packets and the later Chisa, Cartethyia, and Sigrika packets as current `active_provisional` authority within their stated text/audio scopes; AV-dependent questions remain open.
 
 ### Cartethyia
 
@@ -76,6 +76,16 @@ Each character now has an 11-document pre-AV V0.1 packet, imported byte-for-byte
 
 These are analytical imports, not a new evidence acquisition or AV review. The [import record](08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) explains preserved local-draft metadata and provides source hashes.
 
+### Sigrika
+
+Sigrika has an owner-adopted fourteen-document **SIGRIKA_PRE_AV_V0_2** reconstruction, a compiled character model, and a completed native machine-audio pass. The packet reports 666 direct semantic voice lines, 2,668 render associations, 2,656 runtime variants, and 2,652 unique direct PCM/FLAC identities. Its expanded 2,809-object crosswalk separately identifies 157 dark-side counterpart objects and excludes them from direct-character baselines.
+
+The packet is textually reconstructed, machine-voice profiled, and model-compiled. It is not audiovisually hardened or human-listened: 24 AV targets remain unviewed and all 666 direct lines retain `OPEN_unannotated` human-performance status. Three candidate occurrence identities and a source-freeze metadata conflict remain explicit. Complete object-level measurements, mappings, and media stay in the restricted evidence plane rather than Git.
+
+`04 Character Analysis/Sigrika/WUWA_SIGRIKA_CURRENT_STATE.md`
+
+The [Sigrika import record](08%20Audits%20and%20Manifests/WUWA_SIGRIKA_V0_2_IMPORT.md) records the supplied archive, owner-authorized authority transition, validation, and Git/evidence-plane boundary.
+
 ## Governing method
 
 Read in this order for new analytical work:
@@ -98,7 +108,7 @@ Sequential story analysis is governed by:
 - `WUWA_NARRATIVE_DEEP_READING_PROTOCOL.md`
 - `WUWA_LONGITUDINAL_STORY_ANALYSIS_ARCHITECTURE.md`
 
-All five packets use the complete current-authority quartet and retain their actual modality coverage. See the [owner adoption record](08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md). Missing AV alone does not disqualify a text/audio model.
+All current packets use the complete current-authority quartet and retain their actual modality coverage. See the applicable packet import/adoption record. Missing AV alone does not disqualify a text/audio model.
 
 ## Project-initiation state
 
@@ -130,7 +140,7 @@ project_initialization:
 | `01 Source Lock and Inventory` | Git-side source boundary and Drive pointers | populated, canonical V0.1 |
 | `02 Sequential Readings` | Quest/arc/event deep readings | contract present; no readings yet |
 | `03 Longitudinal Ledgers` | Cross-reading state, relationship, chronology, world, and uncertainty infrastructure | initialized, active provisional |
-| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, and audits | Cartethyia populated; Aemeath/Denia/Lynae pre-AV packets active_provisional; Chisa pre-AV packet current provisional |
+| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, and audits | Cartethyia populated; Aemeath/Denia/Lynae/Chisa pre-AV packets active provisional; Sigrika V0.2 text/audio packet active provisional |
 | `05 Specialist Synthesis` | Recurring thematic/institutional/media questions | not instantiated until justified |
 | `06 Full-Series Synthesis` | Release-bounded title-level synthesis | not instantiated; live-service title incomplete |
 | `07 Evidence and Indexes` | Character discovery, claim routing, Drive/Git crosswalk | populated, canonical/active |
@@ -142,7 +152,7 @@ The absence of an empty directory is intentional. Git does not need symmetry-onl
 ## Current analytical priorities
 
 1. Maintain the merged bootstrap's routing and integrity metadata as the corpus evolves.
-2. Continue the Lynae inaugural reconstruction from its imported pre-AV baseline and canonical Drive package; complete the pending AV evidence pass for those three imported packets and harden the current Chisa packet while preserving its declared evidence limits.
+2. Continue the Lynae inaugural reconstruction from its imported pre-AV baseline and canonical Drive package; complete pending AV evidence passes for the current character packets, including Sigrika's 24 nominated targets, while preserving each packet's declared evidence limits.
 3. Generate comprehensive machine voice analysis across all usable Lynae audio before selecting a bounded human-review cohort.
 4. Harden the supplied character artifacts only as their evidence warrants, preserving active_provisional status while audiovisual analysis is pending.
 5. Update the character index, claim index, longitudinal ledgers, and current-state map in the same change.

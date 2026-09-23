@@ -43,3 +43,7 @@ The imported claims remain `active_provisional` and pending audiovisual analysis
 - Aemeath: `04 Character Analysis/Aemeath/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
 - Denia: `04 Character Analysis/Denia/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
 - Lynae: `04 Character Analysis/Lynae/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
+
+## Sigrika
+
+The owner-adopted Sigrika V0.2 packet supplies `SIG-C01`–`SIG-C50` and `SIG-E01`–`SIG-E60` in `04 Character Analysis/Sigrika/WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`, with continuous interpretation in `WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md` and compiled rules `SIG-R01`–`SIG-R16` in `WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json`. The packet's machine-audio revision is current within its stated scope; the 12 audio findings/probes do not substitute for human listening or the 24 unviewed AV targets. Use `WUWA_SIGRIKA_CURRENT_STATE.md` for counts, authority, and the direct-character/counterpart boundary.

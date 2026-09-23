@@ -1,0 +1,222 @@
+{
+  "original_zip_sha256": "af459323afb0fea128771701993c366aa2216cba4967796ab731570a463c0117",
+  "original_md_documents": 12,
+  "current_md_documents": 14,
+  "unchanged_literary_claim_ids": [
+    "SIG-C01",
+    "SIG-C02",
+    "SIG-C03",
+    "SIG-C04",
+    "SIG-C05",
+    "SIG-C06",
+    "SIG-C07",
+    "SIG-C08",
+    "SIG-C09",
+    "SIG-C10",
+    "SIG-C11",
+    "SIG-C12",
+    "SIG-C13",
+    "SIG-C14",
+    "SIG-C15",
+    "SIG-C16",
+    "SIG-C17",
+    "SIG-C18",
+    "SIG-C19",
+    "SIG-C20",
+    "SIG-C21",
+    "SIG-C22",
+    "SIG-C23",
+    "SIG-C24",
+    "SIG-C25",
+    "SIG-C26",
+    "SIG-C27",
+    "SIG-C28",
+    "SIG-C29",
+    "SIG-C30",
+    "SIG-C31",
+    "SIG-C32",
+    "SIG-C33",
+    "SIG-C34",
+    "SIG-C35",
+    "SIG-C36",
+    "SIG-C37",
+    "SIG-C38",
+    "SIG-C39",
+    "SIG-C40",
+    "SIG-C41",
+    "SIG-C42",
+    "SIG-C43",
+    "SIG-C44",
+    "SIG-C47",
+    "SIG-C48",
+    "SIG-C49",
+    "SIG-C50"
+  ],
+  "changed_original_claim_ids": [
+    "SIG-C45",
+    "SIG-C46"
+  ],
+  "unchanged_rule_ids": [
+    "SIG-R01",
+    "SIG-R02",
+    "SIG-R03",
+    "SIG-R04",
+    "SIG-R05",
+    "SIG-R06",
+    "SIG-R07",
+    "SIG-R08",
+    "SIG-R09",
+    "SIG-R10",
+    "SIG-R11",
+    "SIG-R12",
+    "SIG-R13",
+    "SIG-R14",
+    "SIG-R15"
+  ],
+  "changed_original_rule_ids": [
+    "SIG-R16"
+  ],
+  "changed_files": [
+    {
+      "file": "AUDIO_RETRIEVAL_QC_COHORT.json",
+      "before_sha256": "923d7b30e13a57f86d9e6eac5e127d2f2cf9bb4d8796d1f76938029b88eb7c73",
+      "after_sha256": "d176a8f2ea701813185111a0840b3159643775b27d8db89eec310dbf4452a601",
+      "added_diff_lines": 33,
+      "removed_diff_lines": 17
+    },
+    {
+      "file": "AV_RETRIEVAL_TARGETS.json",
+      "before_sha256": "ed2efbbe0eab8a4f9bd39d4fd2d26ec4451df519300ff8ad80cd21e4f54a1f15",
+      "after_sha256": "d0c3ccb5500f54e5ad050143c935f063880405859bc1dc71dca8e51491e10026",
+      "added_diff_lines": 572,
+      "removed_diff_lines": 193
+    },
+    {
+      "file": "CLAIM_INDEX.json",
+      "before_sha256": "ad3a881a2d0e4729dff0950b52a7982899809be29cd208b7b5a4a8693ed8da85",
+      "after_sha256": "a013aa2172e9204258eb1fbe6fa733cc95369092c6cd626c67bcae2718360c5b",
+      "added_diff_lines": 7,
+      "removed_diff_lines": 7
+    },
+    {
+      "file": "EVIDENCE_BUNDLE_INDEX.json",
+      "before_sha256": "2fb3cc03feef56253c17c803fac01b83ad2a2621acef1c8f59405a5a498a25cb",
+      "after_sha256": "80b250dd013576ae8351f488faa82e17288ca13c64f18ff5ac4c245193633814",
+      "added_diff_lines": 4,
+      "removed_diff_lines": 4
+    },
+    {
+      "file": "SOURCE_AND_AUDIO_AUDIT.json",
+      "before_sha256": "f5e5244fe6456e2ac4d08e55b7f720eb9cdfec5f65461224baceb0871f561e09",
+      "after_sha256": "01c43fb452d1a3285bccc775c2746a1cae150f15d6ebff3f0b29c63202b27827",
+      "added_diff_lines": 2,
+      "removed_diff_lines": 1
+    },
+    {
+      "file": "VALIDATION_REPORT.json",
+      "before_sha256": "59eaf318110b124190d6d0a1806504eb949340d2deb1236700d6c6bc67a74443",
+      "after_sha256": "737a75849eabd82973e353394df70023af979bf38125d9519f3e13c6a87f1eff",
+      "added_diff_lines": 6,
+      "removed_diff_lines": 6
+    },
+    {
+      "file": "WUWA_SIGRIKA_ANALYSIS_PACKET_README.md",
+      "before_sha256": "3c27838ad82f8436db43529389e9a781240ddb170e34cc41ff5b0a9fcdc8dab9",
+      "after_sha256": "6f5427a09d42aaa9239c90287f4b02b2a534db5256418e45e2404c22b8827e7d",
+      "added_diff_lines": 28,
+      "removed_diff_lines": 13
+    },
+    {
+      "file": "WUWA_SIGRIKA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "before_sha256": "12d7226bc856d3ed9ae84411f88cc2ba77d52a6334a1b45a7fb1c83d9cf07d73",
+      "after_sha256": "6b46043716a300ee85ff69b6c1e99ad0f78ff22a8274e5d1d1d1783941bd6b43",
+      "added_diff_lines": 21,
+      "removed_diff_lines": 6
+    },
+    {
+      "file": "WUWA_SIGRIKA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "before_sha256": "faaadb3382f6a8452110265f8fcff89d03bcfabc70fddfcaa1f8d2aad89fe9f2",
+      "after_sha256": "a1e44f74bd6a28ef3aa9dace08be9d2524856e8ec02bf51a378b6c72aa398d10",
+      "added_diff_lines": 35,
+      "removed_diff_lines": 26
+    },
+    {
+      "file": "WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "before_sha256": "4015368ab04416bcab209bfffd334adc51958d33ee836fb27adcbfb9f9543940",
+      "after_sha256": "069943db544d2df21a68de2dfd9af857cc4f44163d6acf3b54bd7a0be3124b96",
+      "added_diff_lines": 12,
+      "removed_diff_lines": 1
+    },
+    {
+      "file": "WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json",
+      "before_sha256": "1a9e7cda17a2ff142d8502191570107316f1a430017100083a6fea8f7f5ff52d",
+      "after_sha256": "55efd6a41a6b7a05f07f98edd17cb7a442ba2e5ffb7df5dc40d4528e716a86bf",
+      "added_diff_lines": 156,
+      "removed_diff_lines": 11
+    },
+    {
+      "file": "WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "before_sha256": "2a96b8d0f284654cf1e729a81a21435e8559f9cce4232640fd2b53aece25518e",
+      "after_sha256": "cba8ea00da54161e6a0103dadbe3c47b86ce253e9008c571bb633cb405e0908b",
+      "added_diff_lines": 33,
+      "removed_diff_lines": 22
+    },
+    {
+      "file": "WUWA_SIGRIKA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "before_sha256": "c3552f278f154fda8f40bba20d7cbe69ccf39e9d2f65d0be77eadb74439543c7",
+      "after_sha256": "0fbf6a17e61d8371bc3fa514ca51c5c147c067c36351c03ee68c3f5b1f81bd80",
+      "added_diff_lines": 10,
+      "removed_diff_lines": 1
+    },
+    {
+      "file": "WUWA_SIGRIKA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "before_sha256": "ab32f4cd5c28037f97a60fb4539adc5d83d2efa937b42ca357f4b538856a2054",
+      "after_sha256": "ba074aef3b30683f2f5490fd1277c98359fc106412fc8b17c8146934416c5a48",
+      "added_diff_lines": 10,
+      "removed_diff_lines": 1
+    },
+    {
+      "file": "WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "before_sha256": "6d29b5952b609e345a85a6200a91b629e5d6e20d23bed4d7ead21f4ffc35873c",
+      "after_sha256": "c33a7fd43c99da8e9636ff10fc32472d2757726983504d083ee3502098627878",
+      "added_diff_lines": 18,
+      "removed_diff_lines": 9
+    },
+    {
+      "file": "WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "before_sha256": "7a6ac02934de877d66edeca7ce5eae4d6651f81ada56f0a1012e2dc1e6603b32",
+      "after_sha256": "873c619bf072c7609d5f674c93f418a75eb4e01ace3aeecf52614f7c9812bb67",
+      "added_diff_lines": 10,
+      "removed_diff_lines": 1
+    },
+    {
+      "file": "WUWA_SIGRIKA_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md",
+      "before_sha256": "5bd1f3f4e6c92ae2eb8e725d8186a4f0ad086b8cb57e2646ad31a0b264d0fefe",
+      "after_sha256": "6f14c24d96d7607b0305030980bddfe45495447db7be124b691a6e2ba9caf863",
+      "added_diff_lines": 17,
+      "removed_diff_lines": 8
+    },
+    {
+      "file": "WUWA_SIGRIKA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "before_sha256": "5edd42b6bdfa6db682e4d7b6642e02e8aaeb9f5af1b6be6be2feee5c5caf9564",
+      "after_sha256": "5de9b67c2c1c75851d84db9b694aeb880750436bdf3bd3dc7db2f5e4d232c066",
+      "added_diff_lines": 66,
+      "removed_diff_lines": 62
+    },
+    {
+      "file": "WUWA_SIGRIKA_TALENT_EXPECTATION_AND_INTERPRETIVE_AGENCY_PROFILE.md",
+      "before_sha256": "20aa08925eeca69ed2bbbdb3bf22cdb174ab43e035b55a28c779c5d8d4e7f692",
+      "after_sha256": "48019757eaf97daba5dff13253229851852dfc61d129f7e8eab93412ce8560fc",
+      "added_diff_lines": 10,
+      "removed_diff_lines": 1
+    },
+    {
+      "file": "reproduce_validation.py",
+      "before_sha256": "424a987ab799b1bd5f55691a71a8aaf50506f9e9f142db12b0e737372fccbd1f",
+      "after_sha256": "c791b9a596314222ed9e6fa35d6304271067bbda01dc1b09d8e55c64186efff8",
+      "added_diff_lines": 4,
+      "removed_diff_lines": 4
+    }
+  ],
+  "review_scope": "Bounded audio revision; original IDs/order retained, original forty probe index unchanged, source chronology and textual conclusions preserved with explicit audio addenda."
+}
