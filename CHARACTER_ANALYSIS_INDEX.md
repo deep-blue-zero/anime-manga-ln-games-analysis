@@ -60,12 +60,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Airi analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Airi analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Airi analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Aizawa Shota
@@ -823,6 +827,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Chizuru Ichinose
+
+- Entity ID: `rent-a-girlfriend:chizuru-ichinose`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:chizuru-ichinose@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - Chizuru Mizuhara (en, ALTERNATIVE) — Rental-professional name in the main manga continuity.
+  - 水原千鶴 (ja, ORIGINAL_SCRIPT) — Rental-professional name in the main manga continuity.
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V001-V020 longitudinal analysis of professional and family presentation, boundary-setting, acting, selective collaboration, protective deception and bereavement. Limited interior access, ambiguous motives and incomplete romantic classification remain explicit.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Chizuru Ichinose longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Chizuru%20Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md)
 
 ### Choco
 
@@ -1689,12 +1714,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Haruka analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Haruka analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Haruka analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Harumi Kajika
@@ -2684,6 +2713,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
   - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
+### Katsuhito Ichinose
+
+- Entity ID: `rent-a-girlfriend:katsuhito-ichinose`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:katsuhito-ichinose@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Historical family analysis through V020: V012 flashback encouragement, work, terminal reassurance and memorial, V017 remembered request, and V014/V016/V019 survivor invocation or memory. These selected scenes do not form continuous present-time conduct or a general philosophy.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Katsuhito Ichinose longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Katsuhito%20Ichinose/RAG_KATSUHITO_EVIDENCE_LEDGER.md)
+
 ### Katsuragi Lilja
 
 - Entity ID: `the-idolmaster:katsuragi-lilja`
@@ -2789,6 +2838,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
 
+### Kazuya Kinoshita
+
+- Entity ID: `rent-a-girlfriend:kazuya-kinoshita`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:kazuya-kinoshita@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V001-V020 longitudinal analysis of appraisal, concealment, bounded repair, consent, employment, film production and grief support. Interrupted declarations and unresolved relationships remain incomplete; project competence does not establish general maturity.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Kazuya Kinoshita longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md)
+
 ### Kenjiro Toki
 
 - Entity ID: `a-sisters-all-you-need:kenjiro-toki`
@@ -2829,6 +2898,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`keroppe-naoki-comparison` — Keroppe × Naoki — SHINE POST](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Kibe
+
+- Entity ID: `rent-a-girlfriend:kibe`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:kibe@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V002-V003 childhood testimony, forceful intervention, practical support and selective secrecy, plus V020 social introduction and accidental interruption. V001 is peer context and V005 an information gap. Unknown given name and incomplete relationship knowledge are preserved.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Kibe longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kibe/RAG_KIBE_EVIDENCE_LEDGER.md)
+
 ### Kikuchi Fuka
 
 - Entity ID: `tomozaki:kikuchi-fuka`
@@ -2841,13 +2930,13 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `tomozaki`
 - Continuity: `tomozaki-light-novel`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic and developmental interpretation in the provisional character study through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows the study's material episodes and stated evidence gaps; it does not assert uniform substantial analysis in every volume, mature synthesis, or later/adaptation coverage.; continuity `tomozaki-light-novel`
+  - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through V11, with only its explicitly routed V06.5/V08.5 supplemental references. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
-  - [`provisional-character-study` — Kikuchi Fuka provisional character study](series/tomozaki/04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`provisional-character-study` — Kikuchi Fuka reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md)
 
 ### Kirishima Eijiro
 
@@ -3055,6 +3144,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `kurena-kukumila-reviewed-corpus`: LIGHT_NOVEL VOLUME: Canonical character reference profile over the locked original-Japanese Volumes 1-14, with Alter.1 used where the profile admits it and Alter.2 excluded from mainline characterization.; continuity `86-eighty-six-original-light-novels`
 - Reviewed current evidence:
   - [`86-kurena-kukumila-character-reference-profile` — 86 KURENA KUKUMILA CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_KURENA_KUKUMILA_CHARACTER_REFERENCE_PROFILE.md)
+
+### Kuribayashi
+
+- Entity ID: `rent-a-girlfriend:kuribayashi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:kuribayashi@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Concentrated V003-V005 rental-client injury, truth disclosure, anger and local friendship repair, with a brief V020 peer encounter. V001 supplies context; V006-V019 supply no new material conduct. Given name and durable forgiveness remain unestablished.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Kuribayashi longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kuribayashi/RAG_KURIBAYASHI_EVIDENCE_LEDGER.md)
 
 ### Kurogane Ren
 
@@ -3439,6 +3548,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`oreimo-core-character-deep-dive` — OREIMO CORE CHARACTER DEEP DIVE](series/oreimo/V1%20Analysis/04%20Character%20Deep%20Dives/OREIMO_CORE_CHARACTER_DEEP_DIVE.md)
 
+### Mami Nanami
+
+- Entity ID: `rent-a-girlfriend:mami-nanami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:mami-nanami@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Substantial conduct in V001-V003, V005-V006, V009-V010 and V020. Contradiction testing, audience-sensitive presentation and access-building are supported; motive and endpoint remain unresolved. The V011-V019 gap is not continuous planning evidence.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Mami Nanami longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Mami%20Nanami/RAG_MAMI_EVIDENCE_LEDGER.md)
+
 ### Midoriya Izuku
 
 - Entity ID: `my-hero-academia:midoriya-izuku`
@@ -3507,6 +3636,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Mimimi analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
+### Mini Yaemori
+
+- Entity ID: `rent-a-girlfriend:mini-yaemori`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:mini-yaemori@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V013-V017 and V019-V020 project and relationship interventions, including coordination, disclosures, deceptive logistics and confidant access. Campaign competence does not validate romantic inference or authorize breaches of privacy; no continuous V018 scope is claimed.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Mini Yaemori longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Mini%20Yaemori/RAG_MINI_EVIDENCE_LEDGER.md)
+
 ### Minori
 
 - Entity ID: `project-sekai:minori`
@@ -3519,12 +3668,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Minori analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Minori analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Minori analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Misaki Nagisa
@@ -3708,6 +3861,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `nagase-mana-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-mana-longitudinal-ledger` — IDOLY PRIDE V2 CHAR MANA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md)
+
+### Nagomi Kinoshita
+
+- Entity ID: `rent-a-girlfriend:nagomi-kinoshita`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:nagomi-kinoshita@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Selected family, kinship and material-support analysis in V001-V003, V005, V010-V011, V018 and V020. Choices remain conditioned by the false couple premise; the V013 information gap adds no conduct. Care and family pressure coexist.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Nagomi Kinoshita longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Nagomi%20Kinoshita/RAG_NAGOMI_EVIDENCE_LEDGER.md)
 
 ### Nakiri Alice
 
@@ -4268,6 +4441,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Rui analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
 
+### Ruka Sarashina
+
+- Entity ID: `rent-a-girlfriend:ruka-sarashina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:ruka-sarashina@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Substantial conduct in V003-V006, V008-V011, V014-V018 and V020; V007, V012-V013 and V019 are gaps. Physiological self-interpretation is not diagnosis or objective compatibility. Later negotiated contact does not erase earlier consent failures.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Ruka Sarashina longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md)
+
 ### Saeki Haruko
 
 - Entity ID: `idoly-pride:saeki-haruko`
@@ -4344,10 +4537,11 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `one-punch-man`
 - Continuity: `one-punch-man-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-v36-v37-ethical-boundaries`: MANGA VOLUME: Collected Japanese V36-V37 ledger sections: concern without ownership, limits on collateral harm, admission of competence limits, uncertain developmental possibility, failed evaluative feedback, and correction of a money-driven rescue motive. This added ethical scope follows the specific analyzed scenes, not uniform coverage of every chapter. Official-web provisional material and later collected volumes are excluded.; continuity `one-punch-man-manga`
   - `saitama-reviewed-corpus`: MANGA VOLUME: Distributed substantial analysis for a subject at the explicit current strong tier in the canonical readiness index, supported by the appropriate character-state and relationship ledgers; all per-volume and scenario limits remain in force.; continuity `one-punch-man-manga`
 - Reviewed current evidence:
   - [`opm-character-model-readiness-index` — OPM CHARACTER MODEL READINESS INDEX](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
@@ -4415,6 +4609,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Sayuri Ichinose
+
+- Entity ID: `rent-a-girlfriend:sayuri-ichinose`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:sayuri-ichinose@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: Selected family and vocational analysis from V001, V003, V007-V008, V010-V014 and V017-V018, with direct conduct ending in V018. V019-V020 cover survivor memory and influence, not new Sayuri conduct. Final factual belief remains ambiguous; no medical diagnosis is inferred.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Sayuri Ichinose longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Sayuri%20Ichinose/RAG_SAYURI_EVIDENCE_LEDGER.md)
 
 ### Seibu Rio
 
@@ -4823,12 +5037,16 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
+  - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-mmj-event-0005` — Shizuku analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
+  - [`reviewed-mmj-event-0011` — Shizuku analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Shizuku analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Shoji Mezo
@@ -4951,6 +5169,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+### Sumi Sakurasawa
+
+- Entity ID: `rent-a-girlfriend:sumi-sakurasawa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:sumi-sakurasawa@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V005-V012 practice, adaptive communication, gift guidance, planned care and grief listening, plus V017 hospital support and V018 friendship-framed intervention. V013-V016 and V019-V020 contain no new direct conduct. Unheard confession creates no shared knowledge.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Sumi Sakurasawa longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Sumi%20Sakurasawa/RAG_SUMI_EVIDENCE_LEDGER.md)
 
 ### Sung Jinwoo
 
@@ -5294,13 +5532,15 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `tomozaki:tomozaki@light-novel`
 - Series: `tomozaki`
 - Continuity: `tomozaki-light-novel`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V11, with only the monograph's explicitly routed V06.5/V08.5 supplemental units at their story-local positions. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; later sources, adaptations, parallel/VR bonus material and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`reviewed-character-monograph` — Tomozaki Fumiya reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Tomozaki analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
 ### Totsuki Sheena
@@ -5446,6 +5686,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Twice / Bubaigawara Jin dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TWICE_BUBAIGAWARA_JIN_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Umi
+
+- Entity ID: `rent-a-girlfriend:umi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Main manga continuity
+
+- Analysis subject ID: `rent-a-girlfriend:umi@manga`
+- Series: `rent-a-girlfriend`
+- Continuity: `rent-a-girlfriend-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-ledger-scope`: MANGA VOLUME: V004 acting-colleague context and correction of jealous misreading; V015 invitation, direct questioning and campaign promotion; V016 recall belongs to Chizuru. No later direct conduct through V020 is claimed. Surname, motive and response to her qualified answer remain unknown.; continuity `rent-a-girlfriend-manga`
+- Reviewed current evidence:
+  - [`reviewed-character-ledger` — Umi longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Umi/RAG_UMI_EVIDENCE_LEDGER.md)
 
 ### Uraraka Ochako
 

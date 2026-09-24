@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Brant",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:89d235cf779f6ce9097e8bd2",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:2c30331fff9c77ee4811e2ad",
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/64"
+      ],
+      "statement": "The three decoded images are treated as the role record's default playable presentation. Alternate skins, transformation states, damage states, and rear views were not established in this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:36443df39edd29b2e6258a34",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "The wide tricorn, raised coat collar, flared cape tails, ribbons, and long fitted boots create an animated hourglass silhouette with many directional points.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:5543d110dce2e52c73dbfdc8",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Navy, white, cyan-blue, and black form the base, while hot magenta lining and feathers supply the theatrical focal color; gold and silver details punctuate the costume.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:48dd08b5eb90b5ac753bc7d5",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:2c30331fff9c77ee4811e2ad",
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Short tousled blue hair, magenta eyes, a broad smile, and a visible chest scar make the portrait simultaneously playful and battle-worn.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:93295aca9841d560e2952e45",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A cropped, open naval coat sits over a loose dark shirt and fitted white trousers, with ruffled cuffs, belts, buckles, ribbons, gloves, and tall asymmetrically colored boots.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:1034133ee2859d14c450a338",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Glossy black glove and boot surfaces contrast with patterned blue cloth, crisp white tailoring, metallic fasteners, and feathers.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:4adaee82c96d3a640a415dc1",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Maritime insignia, roses/spirals, crossed or star-like metal marks, feathers, cords, and theatrical ruffles repeat across the hat and coat.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:66bc010e2ccd1c5b245fd3df",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "An ornate one-handed blade at the hip and naval styling clearly signal a mobile duelist/captain rather than a heavy frontline fighter.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:85f454f3edd85cf0d4f01e35",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [],
+      "statement": "The hand tipping his hat, open grin, loose shoulders, and crossed forearms read as practiced showmanship.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:01bbca1d7a3f6280d47749b3",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:69c02755f804de61ea898d8a",
+        "wuwa:visual:181e1831085ca0d648f49c15"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/271820"
+      ],
+      "statement": "The captain's silhouette and costume-as-performance align closely with the semantic profile of a free-spirited Troupe of Fools leader who adopts roles on stage but remains sincere offstage.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1206,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "Brant is a theatrical swashbuckler: a plumed tricorn, tousled blue hair, open-collared pirate coat, magenta lining, white trousers, and an ornate blade. His costume deliberately merges ship-captain authority with stage-performer flamboyance.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}

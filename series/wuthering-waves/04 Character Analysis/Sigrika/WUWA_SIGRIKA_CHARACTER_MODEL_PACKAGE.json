@@ -1,0 +1,475 @@
+{
+  "schema_version": "sigrika.local-reconstructive-model.v0.2",
+  "identity": "wuwa:lore-entity:sigrika",
+  "role_id": 1412,
+  "authority": "owner_adopted_current_provisional",
+  "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+  "source_boundary": "Selected source-pinned textual corpus plus newly acquired and measured native direct/counterpart recordings; no direct perceptual listening or video review.",
+  "thesis": "Care and recognition can become an obligation to guarantee outcomes; development permits chosen, supported, limited action without abandoning attachment.",
+  "required_inputs": [
+    "developmental_state",
+    "source_family_or_event",
+    "identity_and_reveal_status",
+    "recipient",
+    "known_information",
+    "stakes_and_urgency",
+    "branch_if_applicable"
+  ],
+  "state_labels": {
+    "S0": "home_and_anticipated_responsibility",
+    "S1": "gift_intervention_school_adjustment",
+    "S2": "recognized_student_before_confrontation",
+    "S3": "escalating_dark_side_ordeal",
+    "S4": "supported_choice_and_confrontation",
+    "S5": "practicing_changed_ordinary_life",
+    "S6": "later_relational_uncertainty_and_loss",
+    "S7": "outward_participation_and_farewell"
+  },
+  "state_order": "partial; S6/S7 and optional families require local prerequisites, not row-number sorting",
+  "drives": [
+    {
+      "drive": "protect valued relationships and contribute",
+      "status": "persistent, expression changes"
+    },
+    {
+      "drive": "understand and act competently",
+      "status": "strong but domain-limited"
+    },
+    {
+      "drive": "avoid disappointing valued people",
+      "status": "earlier dominant vulnerability, not universally eliminated"
+    },
+    {
+      "drive": "choose a livable ordinary future",
+      "status": "supported by later rest, invitations, and continuity requests"
+    }
+  ],
+  "rules": [
+    {
+      "id": "SIG-R01",
+      "name": "Preserve identity before behavior",
+      "conditions": "Every input; exact occurrence and reveal state available.",
+      "tendency": "Apply occurrence-level identity overrides before attributing speech. Keep counterpart as related context, not a direct Sigrika state.",
+      "exceptions_and_limits": "An identity not adjudicated by the source remains unresolved; visual resemblance or technical ID alone is insufficient.",
+      "evidence_ids": [
+        "SIG-E24",
+        "SIG-E52"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R02",
+      "name": "Keep gift domain-limited",
+      "conditions": "A task requires rune insight or unfamiliar technical skills.",
+      "tendency": "Offer or develop domain-relevant insight; ask, prepare, learn, or collaborate where knowledge is missing.",
+      "exceptions_and_limits": "Do not infer global incompetence from one difficulty or universal aptitude from one success.",
+      "evidence_ids": [
+        "SIG-E02",
+        "SIG-E03",
+        "SIG-E04",
+        "SIG-E43",
+        "SIG-E44"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R03",
+      "name": "Expectation-sensitive overextension",
+      "conditions": "S0–S3, or later high-stakes context resembling earlier pressure; valued people appear to rely on success.",
+      "tendency": "Increased preparation, self-instruction, reassurance, and reluctance to disappoint are plausible.",
+      "exceptions_and_limits": "Not a constant hidden state beneath all pleasure. Support and task stakes can alter the response; no quantified rate.",
+      "evidence_ids": [
+        "SIG-E01",
+        "SIG-E03",
+        "SIG-E13",
+        "SIG-E18"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R04",
+      "name": "Reassurance can conceal need",
+      "conditions": "Earlier family communication or a supported analogue with low disclosure security.",
+      "tendency": "Present an encouraging account and minimize burdensome details.",
+      "exceptions_and_limits": "Do not backdate this as permanent: later calls and homecoming permit candor.",
+      "evidence_ids": [
+        "SIG-E04",
+        "SIG-E05",
+        "SIG-E33"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R05",
+      "name": "Allow selective refusal",
+      "conditions": "S5 or a later supported state; workload exceeds capacity or is nonurgent.",
+      "tendency": "Consider declining, postponing, or substituting rest, without rejecting the relationship or all duties.",
+      "exceptions_and_limits": "Emergency stakes or renewed coercion may change the tendency; no guarantee of effortless refusal.",
+      "evidence_ids": [
+        "SIG-E33",
+        "SIG-E34"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R06",
+      "name": "Keep assistance separate from decision ownership",
+      "conditions": "S4 or later; uncertain consequential choice with a trusted collaborator.",
+      "tendency": "Seek views and contingency help while retaining a personal decision; explicitly permit another person to help if lost.",
+      "exceptions_and_limits": "The choice is not always clear or safe; no unconditional duty to accept any collaborator’s plan.",
+      "evidence_ids": [
+        "SIG-E22",
+        "SIG-E23",
+        "SIG-E25"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R07",
+      "name": "Reject totalizing counterpart conclusions",
+      "conditions": "Confrontation after identity reveal and supportive reorientation.",
+      "tendency": "Acknowledge a vulnerable wish without accepting that another speaker defines all thoughts, effort, or future action.",
+      "exceptions_and_limits": "Earlier S3 may not yet sustain this stance. Do not place final declarations before the transition.",
+      "evidence_ids": [
+        "SIG-E21",
+        "SIG-E24",
+        "SIG-E25",
+        "SIG-E26"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R08",
+      "name": "Use recipient-relevant practical care",
+      "conditions": "Low-stakes interaction with a known friend or valued recipient.",
+      "tendency": "A small gift, handmade object, food, useful suggestion, shared activity, or follow-up can express care.",
+      "exceptions_and_limits": "No universal expertise, budget, or romantic exclusivity follows; a gift need not be flawless.",
+      "evidence_ids": [
+        "SIG-E28",
+        "SIG-E35",
+        "SIG-E36",
+        "SIG-E47",
+        "SIG-E56"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R09",
+      "name": "Let ordinary interest remain ordinary",
+      "conditions": "Birds, photography, music, games, food, or scenery without a source-supported crisis trigger.",
+      "tendency": "Allow curiosity, enjoyment, invitation, and attention without forcing a symbolic confession.",
+      "exceptions_and_limits": "An activity can become pressure-laden under specific expectations; avoid both automatic crisis and automatic ease.",
+      "evidence_ids": [
+        "SIG-E13",
+        "SIG-E30",
+        "SIG-E32",
+        "SIG-E37",
+        "SIG-E38",
+        "SIG-E60"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R10",
+      "name": "Notice Denia without omniscience",
+      "conditions": "Established friendship; unusually different observable behavior.",
+      "tendency": "Compare behavior with shared history, ask a concrete question, and seek continued participation.",
+      "exceptions_and_limits": "Do not know concealed plans, private bargains, or offscreen explanations until disclosed.",
+      "evidence_ids": [
+        "SIG-E41",
+        "SIG-E45",
+        "SIG-E46",
+        "SIG-E47"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R11",
+      "name": "Respect conditional privacy",
+      "conditions": "Denia-related inquiry when danger is incompletely known and some secrets are not offered.",
+      "tendency": "Permit not asking everything while asking for information or a promise that matters to continued relationship.",
+      "exceptions_and_limits": "No evidence for absolute noninterference during fully known imminent lethal danger.",
+      "evidence_ids": [
+        "SIG-E47",
+        "SIG-E48"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R12",
+      "name": "Keep grief distinct from certified reunion",
+      "conditions": "S6 after relevant confirmation or report.",
+      "tendency": "Concern, grief, continuing work, and hope may coexist.",
+      "exceptions_and_limits": "Do not invent letter text, later contact, complete forgiveness, or confirmed return.",
+      "evidence_ids": [
+        "SIG-E48",
+        "SIG-E49"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R13",
+      "name": "Preserve academic reciprocity",
+      "conditions": "Peer study or distributed technical work.",
+      "tendency": "Help in a strong domain and receive help in a weak one; expertise can be distributed without worth ranking.",
+      "exceptions_and_limits": "Later confidence does not remove every learning difficulty.",
+      "evidence_ids": [
+        "SIG-E09",
+        "SIG-E19",
+        "SIG-E43",
+        "SIG-E44"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R14",
+      "name": "Retain social imperfection",
+      "conditions": "Playful candy/prank scene with a specified branch.",
+      "tendency": "Allow the bounded playful overreach actually represented by that branch.",
+      "exceptions_and_limits": "Do not generalize to every gift or a standing wish to violate consent; other branches are alternatives.",
+      "evidence_ids": [
+        "SIG-E16",
+        "SIG-E59"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R15",
+      "name": "Scope self-assertion by language and scene",
+      "conditions": "Interpreting the final choice statement or predicting later duties.",
+      "tendency": "Use Chinese this-time scope and later behavioral evidence; distinguish a chosen commitment from imposed outcome certainty.",
+      "exceptions_and_limits": "Do not turn the English from-now-on expansion into permanent selfishness or invulnerability.",
+      "evidence_ids": [
+        "SIG-E26",
+        "SIG-E33",
+        "SIG-E34",
+        "SIG-E43"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "SIG-R16",
+      "name": "Distinguish measured sound from unreviewed performance and future biography",
+      "conditions": "Question asks for recording measurements, perceived timbre or affect, facial acting, camera intention, exact birthday, completed travel, adult career, or exclusive romance.",
+      "tendency": "Report acquired recording measurements only with language, source/action, estimator, and quality scope. For unperformed perceptual/visual review or unsupported biography, state insufficient evidence or the limited textual fact.",
+      "exceptions_and_limits": "Attributable future perceptual or visual evidence can revise the relevant abstention. Raw acquisition and signal analysis alone do not establish acting intention, emotion, or a visual event.",
+      "evidence_ids": [
+        "SIG-E06",
+        "SIG-E39",
+        "SIG-E40",
+        "SIG-E51",
+        "SIG-E53",
+        "SIG-E58"
+      ],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null,
+      "audio_refinement": "Measured signal facts can be reported with source/language/QC scope; they do not certify heard affect or visual performance."
+    }
+  ],
+  "knowledge_abstentions": [
+    "unknown origin civilization of runes",
+    "Rover-only Aemeath access",
+    "private Denia outing bargain until disclosed",
+    "white-bird private explanation until disclosed",
+    "unavailable full Denia letter",
+    "unrealized future birthday or reunion"
+  ],
+  "capabilities": [
+    "specialized rune insight",
+    "preparation and learning",
+    "recipient-sensitive practical care",
+    "developing selective refusal",
+    "perception of changes in familiar people"
+  ],
+  "limits": [
+    "not universally technically proficient",
+    "familiar encouragement can fail another person",
+    "known preference is not universal competence",
+    "renewed pressure response not statistically established"
+  ],
+  "prediction_output_contract": {
+    "required": [
+      "selected_state",
+      "source_fact_basis",
+      "inference",
+      "plausible_alternatives",
+      "uncertainty",
+      "abstentions"
+    ],
+    "forbidden": [
+      "invented canon",
+      "generated-scene-as-evidence",
+      "unfitted numerical probability",
+      "silent counterpart merger",
+      "unheard acting diagnosis"
+    ]
+  },
+  "governing_documents": [
+    "WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+    "WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+    "WUWA_SIGRIKA_TALENT_EXPECTATION_AND_INTERPRETIVE_AGENCY_PROFILE.md",
+    "WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md",
+    "WUWA_SIGRIKA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+    "WUWA_SIGRIKA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+    "WUWA_SIGRIKA_AUDIO_METHOD_AND_RESULTS.md",
+    "WUWA_SIGRIKA_AUDIO_REVISION_LEDGER.md"
+  ],
+  "completion": "compiled_nonblind_constraint_checked_not_empirically_benchmarked",
+  "analysis_generation": "SIGRIKA_PRE_AV_V0_2",
+  "audio_constraints": {
+    "mode": "source-linked recording descriptors, not a universal voice-synthesis or emotion model",
+    "machine_voice_profiled": true,
+    "human_perceptual_review_performed": false,
+    "video_review_performed": false,
+    "video_stage": "owner_deferred_local_1080p_or_larger",
+    "required_audio_selection": [
+      "evidence_scope",
+      "semantic_occurrence_id",
+      "language",
+      "render_id",
+      "canonical_pcm_sha256",
+      "applicable_quality_gate"
+    ],
+    "direct_objects": 2652,
+    "direct_pitch_comparison_objects": 2531,
+    "counterpart_objects_excluded_from_direct_baselines": 157,
+    "allowed_outputs": [
+      "declared waveform measurements",
+      "source-defined descriptive contrasts",
+      "qualified hypotheses requiring perceptual review"
+    ],
+    "forbidden_shortcuts": [
+      "pitch or RMS to affection/sincerity/identity",
+      "cohort aggregate to every line",
+      "cluster to personality state",
+      "whole-object timing to word/hesitation timing",
+      "12966 recording substituted for 12967 final declaration",
+      "archive retrospective substituted for 16901 in-scene call"
+    ],
+    "finding_ids": [
+      "SIG-AF-01",
+      "SIG-AF-02",
+      "SIG-AF-03",
+      "SIG-AF-04",
+      "SIG-AF-05",
+      "SIG-AF-06",
+      "SIG-AF-07",
+      "SIG-AF-08",
+      "SIG-AF-09",
+      "SIG-AF-10",
+      "SIG-AF-11",
+      "SIG-AF-12"
+    ],
+    "source_unvoiced_action_boundaries": [
+      {
+        "row": 12967,
+        "action": 1,
+        "label": "final this-time declaration",
+        "accepted_direct_occurrences": 6,
+        "play_voice_counts": {
+          "False": 6
+        },
+        "mapped_media_associations": 0,
+        "scope": "no accepted line-level recording in this pinned mapping; does not establish absence of audio in future video witness",
+        "text_keys": [
+          "Main_LahaiRoi_YXBLDHJ_131_1",
+          "Main_LahaiRoi_YXBLDHJ_131_2",
+          "Main_LahaiRoi_YXBLDHJ_131_3",
+          "Main_LahaiRoi_YXBLDHJ_131_4",
+          "Main_LahaiRoi_YXBLDHJ_131_5",
+          "Main_LahaiRoi_YXBLDHJ_131_7"
+        ]
+      },
+      {
+        "row": 16901,
+        "action": 4,
+        "label": "later telephone/ordinary-state conversation",
+        "accepted_direct_occurrences": 18,
+        "play_voice_counts": {
+          "False": 18
+        },
+        "mapped_media_associations": 0,
+        "scope": "no accepted line-level recording in this pinned mapping; does not establish absence of audio in future video witness",
+        "text_keys": [
+          "XGLK_shengtai_1_1",
+          "XGLK_shengtai_1_2",
+          "XGLK_shengtai_1_14",
+          "XGLK_shengtai_1_15",
+          "XGLK_shengtai_1_16",
+          "XGLK_shengtai_1_17",
+          "XGLK_shengtai_1_18",
+          "XGLK_shengtai_1_20",
+          "XGLK_shengtai_1_21",
+          "XGLK_shengtai_1_22",
+          "XGLK_shengtai_1_3",
+          "XGLK_shengtai_1_5",
+          "XGLK_shengtai_1_6",
+          "XGLK_shengtai_1_7",
+          "XGLK_shengtai_1_8",
+          "XGLK_shengtai_1_9",
+          "XGLK_shengtai_1_10",
+          "XGLK_shengtai_1_11"
+        ]
+      },
+      {
+        "row": 16826,
+        "action": 2,
+        "label": "later fulfilling-life/nonreturn conversation",
+        "accepted_direct_occurrences": 19,
+        "play_voice_counts": {
+          "False": 19
+        },
+        "mapped_media_associations": 0,
+        "scope": "no accepted line-level recording in this pinned mapping; does not establish absence of audio in future video witness",
+        "text_keys": [
+          "Side_YGJJ_5_1",
+          "Side_YGJJ_5_2",
+          "Side_YGJJ_5_15",
+          "Side_YGJJ_5_16",
+          "Side_YGJJ_5_17",
+          "Side_YGJJ_5_18",
+          "Side_YGJJ_5_19",
+          "Side_YGJJ_5_20",
+          "Side_YGJJ_5_21",
+          "Side_YGJJ_5_22",
+          "Side_YGJJ_5_4",
+          "Side_YGJJ_5_24",
+          "Side_YGJJ_5_25",
+          "Side_YGJJ_5_5",
+          "Side_YGJJ_5_7",
+          "Side_YGJJ_5_8",
+          "Side_YGJJ_5_9",
+          "Side_YGJJ_5_10",
+          "Side_YGJJ_5_12"
+        ]
+      }
+    ],
+    "audio_fidelity_probes": "AUDIO_FIDELITY_PROBES.json"
+  },
+  "completion_states": {
+    "textually_reconstructed": true,
+    "machine_voice_profiled": true,
+    "model_compiled": true,
+    "fidelity_checked": "40 original plus 12 audio-specific non-blind constraint probes; no accuracy score",
+    "audiovisual_hierarchy_completed": "bounded planning only",
+    "audiovisually_hardened": false,
+    "integrated_reconstruction_completed": false,
+    "human_performance_partially_reviewed": false,
+    "human_performance_hardened": false
+  }
+}

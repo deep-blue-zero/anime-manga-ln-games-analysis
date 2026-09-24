@@ -1,0 +1,33 @@
+{
+  "objects_checked": 2809,
+  "integrity_checks": "FLAC + native payload previously verified for all objects; deterministic five-object remeasurement here",
+  "remeasurement_cases": [
+    {
+      "canonical_pcm_sha256": "00d9c0443e6b9361d3c62cab4f7aedf8bbb608c506c29237ffd4b6b14692fb16",
+      "identical_result": true,
+      "changed_top_level_fields": []
+    },
+    {
+      "canonical_pcm_sha256": "0131f848c9441d3cbbb5259aade20765007599d59fd37a80795604d57340d4d6",
+      "identical_result": true,
+      "changed_top_level_fields": []
+    },
+    {
+      "canonical_pcm_sha256": "0321d10dbf76a90a65e152f84ed25b84694770475bd2eca9b396b32d329d71de",
+      "identical_result": true,
+      "changed_top_level_fields": []
+    },
+    {
+      "canonical_pcm_sha256": "01534428be4750358c891fbb73780f12c8671c4a7f3d4f4e1178e1dc688d3f7c",
+      "identical_result": true,
+      "changed_top_level_fields": []
+    },
+    {
+      "canonical_pcm_sha256": "0521eae8c2cc88912dd820d9ca0dc4b8ed06de64830dab3766e5eb54adf0b1fe",
+      "identical_result": true,
+      "changed_top_level_fields": []
+    }
+  ],
+  "gate_invariant_errors": [],
+  "status": "PASS"
+}

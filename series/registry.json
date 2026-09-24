@@ -441,6 +441,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "rent-a-girlfriend",
+      "stable_slug": "rent-a-girlfriend",
+      "canonical_title": "Rent-a-Girlfriend",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/rent-a-girlfriend/",
+      "canonical_entrypoint": "series/rent-a-girlfriend/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260919",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga V001-V047 inventoried and hash-locked locally; V001-V030 are inspected, closed, checkpointed, and locally audited. V031 is the next sequential candidate and requires new explicit authorization before narrative inspection."
+    },
+    {
       "series_id": "revue-starlight",
       "stable_slug": "revue-starlight",
       "canonical_title": "Revue Starlight",
@@ -454,6 +470,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "sayonara-lara",
+      "stable_slug": "sayonara-lara",
+      "canonical_title": "Sayonara Lara",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/sayonara-lara/",
+      "canonical_entrypoint": "series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260920",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately."
     },
     {
       "series_id": "shine-post",

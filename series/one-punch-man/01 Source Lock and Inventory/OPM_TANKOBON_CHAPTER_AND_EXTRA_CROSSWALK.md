@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: crosswalk
-scope: Tankobon chapter and extra crosswalk through V34
+scope: Tankobon chapter and extra crosswalk through V37
 generation: V2
 status: active_provisional
-source_boundary: Japanese tankobon V01-V34 semantically locked; V35+ semantic lock pending
+source_boundary: Japanese tankobon V01-V37 semantically locked; later collected volumes not locally present
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-28
-updated: 2026-09-12
+updated: 2026-09-15
 workspace_state: local_staged_unintegrated
 ---
 
@@ -26,11 +26,11 @@ Map deterministic archive images to collected chapter labels, extras, bonus mang
 
 ## Current state
 
-The current summary governs routing. Detailed per-volume sections preserve their earlier boundary observations; old statements excluding later volumes apply at that section's original freeze and do not override the appended V34 lock.
+The current summary governs routing. Detailed per-volume sections preserve their earlier boundary observations; old statements excluding later volumes apply at that section's original freeze and do not override the appended V37 lock.
 
 
 - V01-V37 archive objects are physically present and directly hash-inventoried as of 2026-09-12; the former V35-V36 acquisition gap is resolved.
-- The local build manifest covers V01-V36; V37 retains its separate earlier archive audit and unchanged hash. V35-V36 full integrity rechecks and semantic validation remain sequentially pending.
+- The local build manifest covers V01-V36; V37 remains outside it but has a direct audit plus fresh per-volume verification. V35–V37 mechanical and semantic validation are complete.
 - Chapter/extra mapping is intentionally **incremental**, populated when each volume is opened for semantic source validation.
 - Do not infer chapter numbers from official-web update IDs.
 
@@ -71,9 +71,9 @@ The current summary governs routing. Detailed per-volume sections preserve their
 | V32 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 231 images reviewed; chapters 162–167, art, two-page bonus and endmatter mapped below. |
 | V33 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 223 images reviewed; chapters 168–171, art, five-page bonus and endmatter mapped below. |
 | V34 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 224 images reviewed; chapters 172–175, art, two-page bonus and endmatter mapped below. |
-| V35 | present; object_hash_verified; build_integrity_reported | pending | Newly supplied; fresh full integrity and semantic lock at its sequential turn. See source inventory. |
-| V36 | present; object_hash_verified; build_integrity_reported | pending | Newly supplied; fresh full integrity and semantic lock at its sequential turn. See source inventory. |
-| V37 | direct_archive_checked | pending | Contiguous holding; 207 images (inherited audit); unchanged SHA-256 `3e01ca4d5a3f7791df96b8cdb153707cd6995b22a01bcddfe373dc92578ef8b9`; prior Japanese spot-check retained as historical provenance; do not semantically admit before V28-V36 closeout. |
+| V35 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 207 images reviewed; chapters 176–181, attached gags, six-page bonus and endmatter mapped below. |
+| V36 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 247 images reviewed; chapters 182–188, five-page bonus and endmatter mapped below. |
+| V37 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 207 images reviewed; chapters 189–194, one bonus image and endmatter mapped below. |
 
 
 ## Expansion rule
@@ -589,3 +589,59 @@ Cover renditions 0001–0002 and title 0006 identify Volume 34, `夜明け`. Ima
 The unlisted bonus `おまけ「裁縫」` occupies 0216–0217, with attached scarred-palms art at 0218. Image 0219 records first-publication and design credits; 0220 is the JCDigital colophon; 0221 is the JCDigital logo. Extra cover/spine/back/flap renditions occupy 0222–0224. All 224 images are accounted for. Printed starts are not alone archive offsets. The 2025 digital colophon supplies a year, not a month/day; 0219 records first-publication updates on 2022-07-07, 2022-07-21, 2022-08-04 and 2022-08-18, as directly checked in the audit. These publication facts do not by themselves establish episode IDs or redraw correspondences.
 
 Source: `One Punch Man - Volume 34 [Japanese].cbz`, 97,684,009 bytes, 224 images / 225 entries, SHA-256 `2d5952153d956079fb04fe7137eb04d4b7b8ffe9dcfce6db78ba3ff21fce6bc7`. Disjoint spans: front 0001–0009; chapter-plus-art 0010–0067,0068–0147,0148–0193,0194–0215; bonus 0216–0217; attached/endmatter 0218–0224. Every image is covered once. Main narrative ends at 0214, attached actress note at 0215; bonus ends at 0217. V35 follows only after V34 readback PASS.
+
+
+## V35 semantic lock
+
+Cover 0001 and title 0005 identify V35 `会っちゃいけない奴`. ONE/Murata notes are 0002–0003, fiction art 0004, cast/recap 0006–0007 and contents 0008. Contents records the following printed starts, not yet certified archive offsets:
+
+| Contents label | Printed start | Archive confirmation |
+|---|---:|---|
+| 176撃目 `会っちゃいけない奴` | 7 | 0009 title; narrative 0010–0037; terminal gag page 0038 |
+| 177撃目 `新居` | 37 | 0039 title; narrative 0040–0075; terminal gag page 0076 |
+| 178撃目 `秘匿情報` | 75 | 0077 title; narrative 0078–0110 |
+| 179撃目 `華` | 109 | 0111 title; narrative 0112–0136; attached terminal gags 0137–0138 |
+| 180撃目 `訪問者` | 137 | 0139 title; narrative 0140–0167; attached terminal gag 0168 |
+| 181撃目 `震源` | 167 | 0169 title; narrative 0170–0195 |
+| 番外編 `怖くないよ` | 194 | 0196 title and narrative opening; narrative through 0201 |
+
+Endmatter occupies 0202–0207: publication/update note, digital imprint and copyright matter, reproduced cover-package images and extra-page labels. These pages supply publication framing, not timed narrative evidence.
+
+Narrative, attached-gag, bonus and endmatter boundaries are certified by complete sequential inspection. A title such as `新居` is not itself proof of every exposed legacy claim; the narrative evidence above establishes the move and its limits independently.
+
+Source: `One Punch Man - Volume 35 [Japanese].cbz`, 87,519,794 bytes, 207 images / 208 entries, SHA-256 `160d07bd53253d99b32e168e5b388c608327c0c6c9aa974ec291da8f54e74c9d`. Disjoint spans: front 0001–0008; chapter-plus-art 0009–0038, 0039–0076, 0077–0110, 0111–0138, 0139–0168 and 0169–0195; bonus 0196–0201; endmatter 0202–0207. Every image is covered once. Main chapter narrative ends at 0195; bonus ends at 0201; endmatter occupies 0202–0207. V36 follows only after V35 readback PASS.
+
+
+## V36 semantic lock
+
+| Segment | Exact archive span | Certified function |
+|---|---|---|
+| Frontmatter | 0001–0008 | cover, creator notes, fiction art, title, cast/recap and contents |
+| 182撃目 `超常とリスク` | 0009–0044 | title 0009; narrative 0010–0044 |
+| 183撃目 `外でやれ！` | 0045–0072 | title 0045; narrative 0046–0072 |
+| 184撃目 `目撃` | 0073–0108 | title 0073; narrative 0074–0108 |
+| 185撃目 `取り込み中` | 0109–0142 | title 0109; narrative 0110–0142 |
+| 186撃目 `頭皮と摩擦` | 0143–0172 | title 0143; narrative 0144–0172 |
+| 187撃目 `未知数` | 0173–0210 | title 0173; narrative 0174–0210 |
+| 188撃目 `取引` | 0211–0236 | title 0211; narrative 0212–0236 |
+| 番外編 `最初の勇気` | 0237–0241 | title and narrative 0237; narrative through 0241 |
+| Publication/endmatter | 0242–0247 | creator/publication pages, digital colophon and package material |
+
+Source: `One Punch Man - Volume 36 [Japanese].cbz`, 198,284,447 bytes, 247 images / 248 entries, SHA-256 `4798a23e92395acbff507b63dd11bdd624a8c507c5143a6f45eca79eed454cdb`. Disjoint spans: front 0001–0008; chapters 0009–0044, 0045–0072, 0073–0108, 0109–0142, 0143–0172, 0173–0210 and 0211–0236; bonus 0237–0241; endmatter 0242–0247. Every image is covered once. Main chapter narrative ends at 0236; bonus ends at 0241; endmatter occupies 0242–0247. V37 follows only after V36 readback PASS.
+
+
+## V37 semantic lock
+
+| Segment | Exact archive span | Certified function |
+|---|---|---|
+| Frontmatter | 0001–0008 | cover, creator notes, fiction art, title, cast/recap and contents |
+| 189撃目 `スカウト` | 0009–0036 | title 0009; narrative 0010–0036 |
+| 190撃目 `アップデート` | 0037–0064 | title 0037; narrative 0038–0064 |
+| 191撃目 `曲がり角` | 0065–0098 | title 0065; narrative 0066–0098 |
+| 192撃目 `蝶と背中` | 0099–0140 | title 0099; narrative 0100–0140 |
+| 193撃目 `値打ち` | 0141–0170 | title 0141; narrative 0142–0170 |
+| 194撃目 `試し斬り` | 0171–0200 | title 0171; narrative 0172–0200 |
+| Bonus gag | 0201 | Saitama, King and swordmasters; paratextual gag, not a timed continuation |
+| Publication/endmatter | 0202–0207 | credits, colophon, blank and package reproductions |
+
+Source: `One Punch Man - Volume 37 [Japanese].cbz`, 129,215,110 bytes, 207 images / 208 entries, SHA-256 `3e01ca4d5a3f7791df96b8cdb153707cd6995b22a01bcddfe373dc92578ef8b9`. Disjoint spans: front 0001–0008; chapters 0009–0036, 0037–0064, 0065–0098, 0099–0140, 0141–0170 and 0171–0200; bonus 0201; endmatter 0202–0207. Every image is covered once. Main chapter narrative ends at 0200; bonus is 0201; endmatter occupies 0202–0207. No later tankobon or official-web event is inferred from this collected map.

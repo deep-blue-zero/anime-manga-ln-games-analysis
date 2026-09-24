@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.0
+generation: V1.2
 status: canonical
 release_state: mutable_active
 governing_method: ../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md
@@ -36,8 +36,8 @@ The authority order is:
 1. the admitted Japanese witnesses bounded by the [source lock](../01%20Source%20Lock%20and%20Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md);
 2. the frozen source-facing readings for the relevant volume or story-local supplement unit;
 3. this cross-volume index for current claim-family disposition and retrieval;
-4. the [character-state ledger](TOMOZAKI_CHARACTER_STATE_LEDGER.md), [relationship-state ledger](TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md), and [effort/competition/goal-ownership ledger](TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md) within their bounded responsibilities;
-5. later validated character, relationship, social-system, voice/register, and thematic syntheses.
+4. the [character-state ledger](TOMOZAKI_CHARACTER_STATE_LEDGER.md), [relationship-state ledger](TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md), [effort/competition/goal-ownership ledger](TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md), [social-system ledger](TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md), and [Japanese voice/register ledger](TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md) within their bounded responsibilities;
+5. later validated character, relationship, and thematic syntheses.
 
 This ordering does not turn an inference into direct evidence. A current family formulation may reconcile several volume claims, but the local claim remains frozen in its reading and the primary text remains evidentiary authority.
 
@@ -125,13 +125,13 @@ Every ID in that universe has one, and only one, retrieval treatment at this lay
 
 - **INDEXED LOAD-BEARING** — explicitly named in the claim-family or open-question crosswalk because it establishes, changes, bounds, disputes, or closes a claim reused across volumes or downstream artifacts.
 - **INTENTIONALLY LOCAL** — the set difference between the complete universe and the explicit indexed manifests in §3.3. The frozen reading remains its authoritative destination. This includes local package observations, scene-bounded state, already-discharged predictions, corroborative variants, and details whose force depends on their full local context.
-- **SOURCE ESCALATION PENDING** — an indexed family whose L1 route is sufficient for current synthesis but whose final wording-, attribution-, causality-, register-, or high-propagation use needs targeted L2/L3 recovery. This is an overlay, not a third disposition.
+- **SOURCE ESCALATION** — an indexed family's wording-, attribution-, causality-, register-, or high-propagation use can require targeted L2/L3 recovery. This is an overlay, not a third disposition. Its retrieval state is `PENDING` until the defined check passes; the twelve V1.0 queues now have reviewed retrieval PASS in §13. Their interpretive OPENs remain independently recorded.
 
 The complement rule makes selective indexing auditable: a future validator can extract the 459-ID universe from the readings, extract the explicit manifests below, and compute the intentionally local set without guessing what was forgotten. No local ID is renumbered or silently converted into a corpus ID.
 
 ### 3.3 Indexed-ID manifests
 
-The following manifests are the exact promoted set for V1.0. An ID can contribute to more than one corpus family, but it counts once here. Counts and local complements are reported in §3.4 after deduplication.
+The following manifests are the exact promoted set for V1.0, preserved unchanged in V1.1. An ID can contribute to more than one corpus family, but it counts once here. Counts and local complements are reported in §3.4 after deduplication.
 
 <!-- INDEXED_CLAIM_MANIFEST_START -->
 - **V01 claims:** `V01-C02`, `V01-C03`, `V01-C05`, `V01-C06`, `V01-C07`, `V01-C08`
@@ -259,9 +259,9 @@ Frozen anchors:
 - `V11-C11` — “The collapse of inherited retrospective meaning is a strong formation mechanism for Hinami's later move toward antecedent control, self-responsibility, victory, demand, and reproducible proof.” (`STRENGTHEN mechanism`; DR11 §8)
 - `V11-C12` — “Nagisa's death and Yoko's response are not established as the singular cause of every Hinami trait, mask, relationship, or later decision.” (`PRESERVE causal limit`; DR11 §8)
 
-**Counterevidence and limit.** `V10-C15` and `V11-C09` preserve accident, physical-impairment, and intentional-entry alternatives. Increased narrative plausibility is not determinate causation.
+**Counterevidence and limit.** `V10-C15` and `V11-C09` preserve accident, physical-impairment, and intentional-entry alternatives. Increased narrative plausibility is not determinate causation. Targeted source verification additionally finds a **GENUINE_TEXTUAL_TENSION**: V10 attributes sixth grade to Nagisa, whereas V11 places Aoi in sixth grade and Nagisa two years younger. Exact school-year alignment remains OPEN. The V11 history is a disclosure-framed mixed-person retrospective with internal access, not an exhaustive transcript of what Tomozaki hears.
 
-**Owners.** Hinami monograph; control/causality/meaning specialist; family-relationship analysis. Requires L2/L3 escalation before any exact causal-sequence or wording claim is frozen downstream.
+**Owners.** Hinami monograph; control/causality/meaning specialist; family-relationship analysis. The [source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md), ESC-02–ESC-03 / COR-01–COR-02, supplies the L2/L3 route and its mandatory uncertainty limits. A new exact claim outside those checked passages still requires escalation.
 
 ### CRI-EPI-003 — cessation, current state, and endpoint are not completion
 
@@ -404,7 +404,7 @@ Frozen anchors:
 - `V10-C21` — “Tomozaki explicitly revises the assumption that `NO NAME` is Hinami's complete unmasked self; both public heroine and private gamer may be controlled characters.” (`REVISE fake/true model`; DR10 §8)
 - `V11-C03` — “Hinami directly calls herself empty and a weak character because achievement and recognition do not supply a trusted warrant for self-belief.” (`STRENGTHEN self-theory / bound as current report`; DR11 §8)
 
-**Counterevidence and limit.** Controlled performance does not mean equal effort or identical sincerity across modes. A future register claim requires Japanese-source escalation.
+**Counterevidence and limit.** Controlled performance does not mean equal effort or identical sincerity across modes. Register claims must stay within the attested samples in the Japanese voice ledger and ESC-01; unsampled generalizations still require source escalation.
 
 **Owners.** Hinami monograph; character-state ledger; voice/register and self-presentation specialists.
 
@@ -419,7 +419,7 @@ Frozen anchors:
 - `V11-C11` — “The collapse of inherited retrospective meaning is a strong formation mechanism for Hinami's later move toward antecedent control, self-responsibility, victory, demand, and reproducible proof.” (`STRENGTHEN`; DR11 §8)
 - `V11-C12` — “Nagisa's death and Yoko's response are not established as the singular cause of every Hinami trait, mask, relationship, or later decision.” (`PRESERVE limit`; DR11 §8)
 
-**Counterevidence and limit.** Warm family care and harmful meaning doctrine coexist. No diagnosis, named religion, singular trauma key, or suicide conclusion follows.
+**Counterevidence and limit.** Warm family care and harmful meaning doctrine coexist. No diagnosis, named religion, singular trauma key, or suicide conclusion follows. The corrected narrative-person and school-year limits in CRI-EPI-002 apply here: family membership/loss is resolved, while exact chronology is not harmonized and reader interior access is not automatically communicated actor knowledge.
 
 **Owners.** Hinami monograph; family-relationship section; causality/meaning specialist; L2/L3 queue.
 
@@ -480,6 +480,8 @@ Frozen anchors:
 
 **Counterevidence and limit.** Local restraint is not a complete definition of wrongdoing or an indefinite duty of self-denial. The corpus does not establish whether love ends, changes form, or governs a future action.
 
+**R05 source precision — STRENGTHEN local development / PRESERVE open policy.** The [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) and [NM-P27–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-p27) preserve the quoted V09-C08 anchor and REC-14 at their initial window. Locked V09 `text/part0029.html` P122 establishes about a week of separate walks; P137–142 then shows an actual resumed private walk, initiated by Mimimi despite Tomozaki's initial protest. P174 directly voices liking the self who continues to love him despite nonreciprocation. This strengthens partial affirmative self-regard without proving global or durable stabilization. In `text/part0031.html` P18–19 he agrees to brief continuation of already begun leaning, not advance contact or standing access. The intervention matters, but P24–113 does not give him a complete relationship solution. Neither permanent abstention nor complete ethical governance follows.
+
 **Owners.** Relationship ledger; Tomozaki–Mimimi specialist; Mimimi monograph.
 
 ### CRI-TAM-001 — Tama changes interface while preserving evaluative authorship
@@ -513,7 +515,7 @@ Frozen anchors:
 
 ### CRI-MIZ-001 — social fluency and owned purpose are separate; persistence needs a stopping rule
 
-**Current V11 formulation.** Mizusawa's early problem is successful self-distance rather than low skill. His failed confession makes a chosen end painful and meaningful, and later pursuit remains owned; love and interpretive care do not transfer rights to Hinami's information or justify indefinite pursuit.
+**Current V11 formulation.** Mizusawa's early problem is successful self-distance rather than low skill. His V03 confession and Hinami's refusal make a chosen end painful and meaningful, and later pursuit remains owned; love and interpretive care do not transfer rights to Hinami's information or justify indefinite pursuit. The unexecuted V11 declaration is a **renewed** confession, not the absence of any earlier confession.
 
 Frozen anchors:
 
@@ -551,7 +553,7 @@ Frozen anchors:
 - `V11-C26` — “Kikuchi receives a conditional publication opportunity for `純混血とアイスクリーム`; publication, contract, income, and sustained career remain unestablished.” (`STRENGTHEN route / preserve outcome limit`; DR11 §8)
 - `V11-C28` — “Kikuchi explicitly reframes the unresolved question as her own motive for writing when art can wound real people.” (`REVISE motive governance`; DR11 §8)
 
-**Counterevidence and limit.** A conditional editorial path is not publication. Insight, benevolent intention, and transformative effect do not remove the need for consent and exposure governance.
+**Counterevidence and limit.** A conditional editorial path is not publication. Insight, benevolent intention, and transformative effect do not remove the need for consent and exposure governance. ESC-10 verifies that Kikuchi's own reason remains unfound at V11: accepting Tomozaki's initial reason does not resolve that separate motive question.
 
 **Owners.** Kikuchi monograph; fiction/interpretation and vocation specialists; relationship ledger.
 
@@ -567,7 +569,7 @@ Frozen anchors:
 
 **Counterevidence and limit.** The class becomes functional and Konno contributes usefully. Those outcomes are evidence of coexistence, not erased harm or generalized reform.
 
-**Owners.** Character-state ledger; future social-atmosphere/group-systems ledger; group-system specialist.
+**Owners.** Character-state ledger; social-atmosphere/group-systems ledger; group-system specialist.
 
 ## 9. Relationship, disclosure, and intervention claim families
 
@@ -597,13 +599,13 @@ Frozen anchors:
 - `V09-C20` — “Their new definition of specialness is prospective and coauthored rather than discovered as a preexisting compatibility fact.” (`STRENGTHEN governance concept`; DR09 §8)
 - `V11-C32` — “Kikuchi asserts boundaries against Rena and against Tomozaki's dismissive call, but the couple still lacks exhaustive privacy, fictionalization, allocation, and third-party governance.” (`STRENGTHEN agency / preserve open rules`; DR11 §8)
 
-**Counterevidence and limit.** Affection, apology, touch, and repair are real but event-local. Durability, future allocation, and publication-era governance remain open.
+**Counterevidence and limit.** Affection, apology, touch, and repair are real but event-local. Durability, future allocation, and publication-era governance remain open. At V11's painful call, Kikuchi explicitly names failed reception and the call then ends; ESC-11 / COR-04 does not identify who disconnects it. Her speech is evidence of agency without an invented hang-up action.
 
 **Owners.** Relationship ledger; Tomozaki–Kikuchi specialist; both monographs; disclosure and fiction specialists.
 
 ### CRI-REL-003 — Tomozaki–Hinami specialness is direct; romantic classification remains open
 
-**Current V11 formulation.** Tomozaki places making Hinami's world colorful above romance, calls her special, names possible unfaithfulness, and says he likes her as a person. He remains Kikuchi's boyfriend, repairs that relationship, does not classify Hinami as romantic love, and receives no reciprocal Hinami declaration.
+**Current V11 formulation.** Tomozaki places making Hinami's world colorful above romance, calls her special, and names possible unfaithfulness. He tells Haruka that he likes Hinami; the as-a-person qualification is unspoken narration that he decides not to add (ESC-09 / COR-03). He remains Kikuchi's boyfriend, repairs that relationship, does not classify Hinami as romantic love, and receives no reciprocal Hinami declaration. Haruka's received wording and the reader's additional interior access remain distinct.
 
 Frozen anchors:
 
@@ -659,6 +661,8 @@ Frozen anchors:
 
 **Counterevidence and limit.** Network durability does not mean every relation is equally intimate, every member shares all information, or group action is consensual toward its target.
 
+**R05 knowledge qualification.** In the V09 resumed-walk context, Mimimi tells Tomozaki that she recently spoke with Kikuchi and reports shared reasons for liking him (`text/part0029.html` P233–239; NM-P27 and the review linked under CRI-MIM-003). Blanket continuing ignorance of any such conversation is therefore too broad. The exact identity of the V08.5 café scene, knowledge of the specific confession disclosure, and complete private contents remain unestablished. Relationship §14.6 owns the directional correction; neither a shared group ledger nor retroactive knowledge at the interstitial horizon follows.
+
 **Owners.** Relationship ledger; character monographs; peer-group and social-atmosphere specialists.
 
 ## 10. Effort, competition, social-system, and effect claim families
@@ -705,7 +709,7 @@ Frozen anchors:
 
 **Counterevidence and limit.** Local coalition action can alter the field, as V04–V05 show. Durable system control, fair cost distribution, and institutional reform are not established.
 
-**Owners.** Required social-atmosphere/group-systems ledger; peer-group specialist; character/relationship ledgers for actor-specific effects.
+**Owners.** Social-atmosphere/group-systems ledger; peer-group specialist; character/relationship ledgers for actor-specific effects. ESC-12 / COR-05 corrects the attack-to-punishment wording to Tomozaki's addition within dialogue with Mizusawa; the co-developed mechanism survives. The teacher's V04 questioning of coerced role acceptance is a local counterexample to total adult absence, not institutional resolution of the later harassment.
 
 ### CRI-SOC-002 — causal intelligibility and conflict cessation do not equal justice or accountability
 
@@ -761,10 +765,10 @@ Only questions whose unresolved portion still propagates across artifacts are pr
 
 | Corpus question ID | Frozen local question wording and lineage | V11 disposition | Downstream owner |
 |---|---|---|---|
-| **CRI-OQ-HIN-001** | `V09-Q11` — “Does Hinami disclose the sister event?” -> `V10-Q11` — “Is the Nagisa event disclosed?” -> `V11-Q02` — “Does the Nagisa account gain determinate causation?” | **REVISE -> OPEN.** Disclosure occurs and the family sequence expands; road-entry intent, mechanism, and singular causal force remain indeterminate. | Hinami monograph; causality/meaning specialist; L2/L3 queue `ESC-02`. |
+| **CRI-OQ-HIN-001** | `V09-Q11` — “Does Hinami disclose the sister event?” -> `V10-Q11` — “Is the Nagisa event disclosed?” -> `V11-Q02` — “Does the Nagisa account gain determinate causation?” | **REVISE -> OPEN.** Disclosure occurs and the family sequence expands; road-entry intent, mechanism, and singular causal force remain indeterminate. The conflicting V10/V11 school-year statements remain `GENUINE_TEXTUAL_TENSION`, and the V11 narrative-person transition limits speech attribution. | Hinami monograph; causality/meaning specialist; reviewed L2/L3 `ESC-02`–`ESC-03`. |
 | **CRI-OQ-HIN-002** | `V09-Q12` — “Does Hinami generalize desire beyond Atafami?” -> `V10-Q09` — “Does Hinami name a life end beyond domain-bounded competition?” -> `V11-Q10` — “Does Hinami name an affirmative future end?” | **OPEN / negative evidence.** No affirmative governing end is chosen by the V11 boundary. | Hinami monograph; effort ledger; full-series synthesis gate. |
 | **CRI-OQ-HIN-003** | `V10-Q10` — “Does Tomozaki's Hinami-facing goal gain consent or reciprocity?” -> `V11-Q03` — “Can Tomozaki support Hinami without taking ownership of her end?” -> `V11-Q04` — “Does coaching resume under revised governance?” | **REVISE through negative test; OPEN prospectively.** History is voluntarily disclosed, but Tomozaki installs a replacement warrant, loses its credential, and obtains neither shared rescue-goal ownership nor renewed coaching. | Tomozaki–Hinami specialist; coaching and consent specialists. |
-| **CRI-OQ-REL-001** | `V11-Q05` — “Is Tomozaki's exceptional attachment more clearly classified?” | **OPEN.** “Likes as a person,” specialness, sustained attention, and partnership with Kikuchi coexist without romantic classification or reciprocal Hinami declaration. | Relationship ledger and three primary relationship specialists. |
+| **CRI-OQ-REL-001** | `V11-Q05` — “Is Tomozaki's exceptional attachment more clearly classified?” | **OPEN.** Spoken liking, an unspoken as-a-person qualification, specialness, sustained attention, and partnership with Kikuchi coexist without romantic classification or reciprocal Hinami declaration. The qualification is not attributed to Haruka's hearing. | Relationship ledger and three primary relationship specialists; ESC-09 / COR-03. |
 | **CRI-OQ-KIK-001** | `V10-Q01` — “Does mutual selection produce durable relationship governance?” -> `V11-Q06` — “Can Kikuchi protect her own interests under renewed pressure?” | **STRENGTHEN agency / OPEN governance.** Kikuchi directly protects several interests and repairs with Tomozaki; exhaustive privacy, allocation, contact, and fictionalization rules remain absent. | Tomozaki–Kikuchi specialist; both monographs. |
 | **CRI-OQ-KIK-002** | `V10-Q02` — “Does Kikuchi's novelist inquiry develop consent and exposure limits?” | **OPEN.** V11 sharpens motive and harm recognition but supplies no stable transformation/consent rule for recognizable real people. | Kikuchi monograph; fiction/interpretation specialist; `ESC-10`. |
 | **CRI-OQ-MIM-001** | `V09-Q05` — “Does Mimimi specify `wrongdoing` or a stopping condition?” -> `V10-Q03` — “Does Mimimi's restraint become a stable stopping rule?” -> relevant portion of `V11-Q11` — “Do overdue stopping and accountability lines move?” | **STRENGTHEN local restraint / OPEN terminally.** Concrete conduct is bounded; continuing love has no terminal or revised general rule. | Tomozaki–Mimimi specialist; Mimimi monograph. |
@@ -779,24 +783,24 @@ Only questions whose unresolved portion still propagates across artifacts are pr
 
 ## 13. L2/L3 source-escalation queue
 
-These are **future targeted retrieval tasks**, not locators. Every item begins from an exact L1 reading route. `PENDING` means that this file did not reopen the EPUB and does not know the required chapter/spine/XHTML marker. A later source operation must record the exact witness first, then construct only the locator level needed.
+These twelve tasks were pending in V1.0. They now have **reviewed retrieval PASS** in the [targeted source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md), whose ESC sections and LOC records supply the locked witnesses, exact package members, paragraph convention, diagnostic wording, attribution, and residual limits. The L1 routes and required products below retain the original retrieval obligation. The [voice ledger](TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md) preserves state-specific language uses; the [reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) verifies propagation. PASS concerns retrieval, not a solution to any genuinely open literary question.
 
-| Queue ID | Claim family / use at risk | Current L1 route | Why L2/L3 is required before mature freezing | Required future product | State |
+| Queue ID | Claim family / use at risk | Current L1 route | Why L2/L3 is required before mature freezing | Required product | Reviewed retrieval / locator records |
 |---|---|---|---|---|---|
-| **ESC-01** | `CRI-HIN-004`, public/private mode and `NO NAME` wording | SR08.5 §§8, 14; DR10 §§4.1, 8; DR11 §§4.2, 8 | High-propagation authenticity claim; exact self-description and narration/focalization matter. | L2 story/chapter route plus short L3 Japanese markers for mode/self-theory, without broad quotation. | **PENDING** |
-| **ESC-02** | `CRI-EPI-002`, Nagisa event and causal alternatives | DR10 §§4.3–4.4, 8; DR11 §§4.3–4.5, 7–9 | Intent, temporal sequence, speaker attribution, and causal language are disputed and ethically sensitive. | L2 scene boundaries and L3 diagnostic wording for stated uncertainty; no diagnosis. | **PENDING** |
-| **ESC-03** | `CRI-HIN-002`, Yoko's retrospective meaning system and Aoi's rejection | DR11 §§4.3–4.6, 8 | Causality and reported family speech propagate into Hinami's entire motive model. | L2 family-history sequence and minimal L3 markers distinguishing Yoko speech, Aoi recollection, and analyst inference. | **PENDING** |
-| **ESC-04** | `CRI-REL-001`, V11 belief instruction and Boxman credential | DR11 §§4.7–4.8, 6–8 | Exact warrant, imperative force, pronouns/address, and match-conditioned logic are load-bearing. | L2 confrontation/set route and L3 diagnostic phrases for the asserted warrant and its rejection. | **PENDING** |
-| **ESC-05** | `CRI-TOM-003`, V03 rupture and revised coaching terms | DR03 §§10–12, 18–20; DR04 §2.3 | Refusal, desire, goal ownership, and resumed agreement may depend on exact modality and address. | L2 rupture/resumption scenes plus L3 wording/register markers. | **PENDING** |
-| **ESC-06** | `CRI-HIN-003`, V06 revenge/recognition exchange | DR06 §§4–5, 16–19 | `私の勝ち`, `死体蹴り`, and `正しくて` carry competition, ethical judgment, and personal-value force. | L2 exchange route and minimal L3 phrases with speaker attribution. | **PENDING** |
-| **ESC-07** | `CRI-MIM-003`, V06 confession and V07 response | DR06 §13 and §§17–20; DR07 §§5–6, 12, 18–21 | Romantic classification, response, future freedom, and boundary language require exact attribution and register. | L2 confession/response route; L3 markers for `好き` and the relevant conduct rule. | **PENDING** |
-| **ESC-08** | `CRI-REL-002`, V07 request/acceptance and V09 mutual reselection | DR07 §§13–15, 20; DR09 §§4.1–4.2, 6–9 | Consent sequence, directness, “specialness,” and who selects whom are high-propagation relationship claims. | L2 scene sequence and L3 address/modality markers. | **PENDING** |
-| **ESC-09** | `CRI-REL-003`, Hinami specialness and loneliness | DR09 §4.6 and §§6–9; DR10 §§4.1–4.2, 6–9; DR11 §§5.1–5.3 | `寂しくても平気`, `特別`, and `不誠実` require wording-sensitive scope and actor attribution. | L2 scene routes and L3 phrases; do not infer romance from lexical salience. | **PENDING** |
-| **ESC-10** | `CRI-EPI-001`, `CRI-KIK-002`, fiction, motive, and Haruka impact | DR11 §§4.4, 4.9–4.10, 6–9 | Authored interior, causal reception, direct speech, and harm attribution must remain distinct. | L2 manuscript/Haruka/reception routes and minimal L3 markers separating narrator, fictional voice, Kikuchi, and Haruka. | **PENDING** |
-| **ESC-11** | `CRI-REL-004`, disclosure and rights language | DR08 §§4.6, 6–10; DR09 §§4.1–4.2, 6–9; DR10 §§4.2–4.3, 6–9; DR11 §§5.3, 8 | Privacy, sexualized contact, refusal, and `rights violation` analysis depend on exact content and sequence. | L2 disclosure/contact routes and L3 diagnostic wording, access-restricted if repository policy requires. | **PENDING** |
-| **ESC-12** | `CRI-SOC-001`, `空気`, status cues, and authorized punishment | DR01 §§7, 21; DR02 §§8–10, 28; DR04 §§7–10, 18; DR05 §§8–10, 17 | Social-register and atmosphere claims may overgeneralize if detached from who speaks, who ratifies, and which group is present. | Selective L2 scene map and L3 key-term/register entries feeding the required voice and social-system ledgers. | **PENDING** |
+| **ESC-01** | `CRI-HIN-004`, public/private mode and `NO NAME` wording | SR08.5 §§8, 14; DR10 §§4.1, 8; DR11 §§4.2, 8 | High-propagation authenticity claim; exact self-description and narration/focalization matter. | L2 story/chapter route plus short L3 Japanese markers for mode/self-theory, without broad quotation. | **PASS** — LOC-01A–C; source/interpretive limits remain in the audit. |
+| **ESC-02** | `CRI-EPI-002`, Nagisa event and causal alternatives | DR10 §§4.3–4.4, 8; DR11 §§4.3–4.5, 7–9 | Intent, temporal sequence, speaker attribution, and causal language are disputed and ethically sensitive. | L2 scene boundaries and L3 diagnostic wording for stated uncertainty; no diagnosis. | **PASS** — LOC-02A–C; source/interpretive limits remain in the audit. |
+| **ESC-03** | `CRI-HIN-002`, Yoko's retrospective meaning system and Aoi's rejection | DR11 §§4.3–4.6, 8 | Causality and reported family speech propagate into Hinami's entire motive model. | L2 family-history sequence and minimal L3 markers distinguishing Yoko speech, Aoi recollection, and analyst inference. | **PASS** — LOC-03A–C; source/interpretive limits remain in the audit. |
+| **ESC-04** | `CRI-REL-001`, V11 belief instruction and Boxman credential | DR11 §§4.7–4.8, 6–8 | Exact warrant, imperative force, pronouns/address, and match-conditioned logic are load-bearing. | L2 confrontation/set route and L3 diagnostic phrases for the asserted warrant and its rejection. | **PASS** — LOC-04A–B; source/interpretive limits remain in the audit. |
+| **ESC-05** | `CRI-TOM-003`, V03 rupture and revised coaching terms | DR03 §§10–12, 18–20; DR04 §2.3 | Refusal, desire, goal ownership, and resumed agreement may depend on exact modality and address. | L2 rupture/resumption scenes plus L3 wording/register markers. | **PASS** — LOC-05A–B; source/interpretive limits remain in the audit. |
+| **ESC-06** | `CRI-HIN-003`, V06 revenge/recognition exchange | DR06 §§4–5, 16–19 | `私の勝ち`, `死体蹴り`, and `正しくて` carry competition, ethical judgment, and personal-value force. | L2 exchange route and minimal L3 phrases with speaker attribution. | **PASS** — LOC-06A–C; source/interpretive limits remain in the audit. |
+| **ESC-07** | `CRI-MIM-003`, V06 confession and V07 response | DR06 §13 and §§17–20; DR07 §§5–6, 12, 18–21 | Romantic classification, response, future freedom, and boundary language require exact attribution and register. | L2 confession/response route; L3 markers for `好き` and the relevant conduct rule. | **PASS** — LOC-07A–C; source/interpretive limits remain in the audit. |
+| **ESC-08** | `CRI-REL-002`, V07 request/acceptance and V09 mutual reselection | DR07 §§13–15, 20; DR09 §§4.1–4.2, 6–9 | Consent sequence, directness, “specialness,” and who selects whom are high-propagation relationship claims. | L2 scene sequence and L3 address/modality markers. | **PASS** — LOC-08A–B; source/interpretive limits remain in the audit. |
+| **ESC-09** | `CRI-REL-003`, Hinami specialness and loneliness | DR09 §4.6 and §§6–9; DR10 §§4.1–4.2, 6–9; DR11 §§5.1–5.3 | `寂しくても平気`, `特別`, and `不誠実` require wording-sensitive scope and actor attribution. | L2 scene routes and L3 phrases; do not infer romance from lexical salience. | **PASS** — LOC-09A–C; source/interpretive limits remain in the audit. |
+| **ESC-10** | `CRI-EPI-001`, `CRI-KIK-002`, fiction, motive, and Haruka impact | DR11 §§4.4, 4.9–4.10, 6–9 | Authored interior, causal reception, direct speech, and harm attribution must remain distinct. | L2 manuscript/Haruka/reception routes and minimal L3 markers separating narrator, fictional voice, Kikuchi, and Haruka. | **PASS** — LOC-10A–D; source/interpretive limits remain in the audit. |
+| **ESC-11** | `CRI-REL-004`, disclosure and rights language | DR08 §§4.6, 6–10; DR09 §§4.1–4.2, 6–9; DR10 §§4.2–4.3, 6–9; DR11 §§5.3, 8 | Privacy, sexualized contact, refusal, and `rights violation` analysis depend on exact content and sequence. | L2 disclosure/contact routes and L3 diagnostic wording, access-restricted if repository policy requires. | **PASS** — LOC-11A–F; source/interpretive limits remain in the audit. |
+| **ESC-12** | `CRI-SOC-001`, `空気`, status cues, and authorized punishment | DR01 §§7, 21; DR02 §§8–10, 28; DR04 §§7–10, 18; DR05 §§8–10, 17 | Social-register and atmosphere claims may overgeneralize if detached from who speaks, who ratifies, and which group is present. | Selective L2 scene map and L3 key-term/register entries feeding the required voice and social-system ledgers. | **PASS** — LOC-12A–E; source/interpretive limits remain in the audit. |
 
-No queue item is permission for indiscriminate rereading. Priority order is `ESC-02`–`ESC-04`, `ESC-08`–`ESC-11`, then the remaining language/system items because the first group carries the greatest causal and relationship propagation risk.
+The verification prioritized `ESC-02`–`ESC-04` and `ESC-08`–`ESC-11` because their causal and relationship claims propagate widely, then completed the remaining language/system items. All twelve received independent context review. This operation did not repeat the sequential readings; later claims can require new, separately scoped retrieval.
 
 ## 14. Current open claims and mandatory abstentions
 
@@ -806,13 +810,13 @@ At the V11 boundary this index leaves the following materially open:
 
 - whether Hinami returns to school, council work, ordinary friendship, coaching, or competition, and on whose terms;
 - whether she selects an affirmative end able to tolerate chance, received value, and relationship without imposed retrospective meaning;
-- the intent and immediate mechanism of Nagisa's road entry, and the scope of any causal relation to later Hinami states;
+- the intent and immediate mechanism of Nagisa's road entry, the conflicting V10/V11 school-year alignment, and the scope of any causal relation to later Hinami states;
 - whether Tomozaki can support Hinami without converting insight, game skill, specialness, sacrifice, or group agreement into jurisdiction;
 - the romantic or non-romantic category of Tomozaki–Hinami exceptional attachment;
 - durable Tomozaki–Kikuchi rules for privacy, time, third parties, Rena, Hinami priority, and fictionalization;
 - Kikuchi's transformation/consent rule for recognizable people and the outcome of her conditional publication path;
 - Mimimi's terminal or revised rule for continuing love;
-- Mizusawa's confession, Hinami's reply, and any stopping condition;
+- Mizusawa's renewed confession, Hinami's reply, and any stopping condition; the earlier V03 confession/refusal remains part of the history;
 - Yuzu's absorber/capacity boundary and Tama's long-term public-character revisability;
 - internalized broad boundary compliance by Rena;
 - acknowledgment, apology, restitution, or institutional repair by Konno or Akiyama;
@@ -837,7 +841,7 @@ This index does **not** establish:
 - that Rena's later broad compliance follows from one refusal;
 - generalized Konno/Akiyama reform or completed V05 justice;
 - that an accurate model authorizes disclosure, contact, fictionalization, intervention, or control;
-- a Japanese register/address shift not preserved in a reading or recovered through the future voice ledger; or
+- a Japanese register/address shift not preserved in a reading or recovered through the [voice ledger](TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md); or
 - evidence from anime, manga, translation, fandom, memory, or unread later prose.
 
 ## 15. Update and propagation protocol
@@ -870,19 +874,24 @@ Character and relationship ledgers may supply state context, but they do not rep
 
 ## 16. Synthesis-gate effect
 
-Completion of V1.0 changes one architectural condition: the corpus now has a selective, auditable crosswalk from major current formulations back to frozen local claim and question IDs. It does **not** pass longitudinal reconciliation or open specialist/full-series drafting by itself.
+V1.0 established the claim/evidence home while leaving the aggregate gates open or closed as appropriate. V1.1 records the completed R01–R03 input work, with the gate decision owned by the [longitudinal reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md), not by this index's existence.
 
-| Gate implication | V1.0 result |
+| Gate implication | Current result |
 |---|---|
-| Sequential-source completion | **No change: PASS at V11 plus routed V06.5/V08.5.** This index does not reopen or alter the source-facing freezes. |
-| Claim-revision/evidence-index home | **First mature backfill present through V11.** Coverage universe, selection rule, family dispositions, open questions, and L1 routes are explicit. |
-| Longitudinal reconciliation | **Still OPEN.** The required social-atmosphere/group-systems and Japanese voice/register/key-terms ledgers remain dependencies; L2/L3 queues are not discharged. |
-| Specialist readiness | **Still CLOSED.** Families identify owners and high-risk source escalations, but those owners have not all converged or passed adversarial review. |
-| Full-series synthesis readiness | **Still CLOSED.** The pre-remediation synthesis cannot be promoted until cumulative homes, specialists, locator audit, and convergence pass. |
-| Reconstruction readiness | **Deferred.** Literary authority and register evidence remain insufficient for stable derived-use models. |
+| Sequential-source completion | **No change: PASS at V11 plus routed V06.5/V08.5.** The thirteen source-facing readings remain unchanged. |
+| Claim-revision/evidence-index home | **Reconciled through V11.** The 319-claim/140-question universe, 120-claim/30-question promoted set, and 199-claim/110-question local complement are unchanged. Current wording is corrected separately from frozen local anchors. |
+| Longitudinal reconciliation | **PASS for the current six-owner scope.** All twelve defined L2/L3 queues have reviewed retrieval and the voice home has bounded attested evidence. Material shared propositions converge or carry explicit OPEN limits. |
+| Specialist readiness | **Ledger inputs ready.** Later literary drafting follows architecture order and declared scope; Tama/Mizusawa/Yuzu role adjudication remains a later task. No monograph or specialist is promoted by this input pass. |
+| Full-series synthesis readiness | **Still CLOSED.** Required literary owners and cross-specialist convergence have not passed. |
+| Reconstruction readiness | **Deferred.** Selective voice samples are not a complete idiolect or a literary-convergence pass. |
 
-The correct next uses of this file are targeted social-system backfill, targeted Japanese source escalation, mature character/relationship drafting against these families, and later adversarial traceability review. It is not a warrant for cosmetic revision of the current full-series synthesis.
+The next use is evidence-grounded literary drafting in the separately reserved session, beginning with the major character responsibilities. No current full-series rewrite is authorized by R01–R03.
 
 ## 17. Maintenance note
 
 V1.0 is the first corpus-wide claim/revision/evidence crosswalk after completion of the V01–V11 sequential chain and the first character/relationship remediation ledgers. It preserves local IDs and frozen wording, promotes only material reusable lineages, leaves the remaining IDs intentionally local by explicit complement, and invents no primary-source locator. Future versions must keep those four properties auditable.
+
+
+V1.1 (2026-09-13) is the R01–R03 reconciliation. It retains every corpus identity, local quoted anchor, promoted manifest, and coverage count; connects all twelve queues to independently reviewed exact-source evidence; corrects mixed-person retrospective and unspoken-qualification attribution; retains the school-year tension; distinguishes an earlier confession from an unshown renewed one; narrows phone-disconnect agency; and routes the co-developed punishment formulation and teacher-question counterevidence. Claim resolution remains separate from retrieval completion. The six-owner audit records the surviving and abandoned formulations and the limited readiness change.
+
+V1.2 (2026-09-13) adds bounded Mimimi R05 source precision to CRI-MIM-003 and CRI-REL-006: temporary restraint, an observed resumed walk, partial affirmative self-regard, local contact agreement, and partial conversation knowledge. All claim identities, frozen anchor quotations, promoted manifests, coverage counts, original reconciliation decisions, and prior integration receipts remain unchanged. The new review owns this propagation check; no broader maturity or synthesis gate is promoted here.

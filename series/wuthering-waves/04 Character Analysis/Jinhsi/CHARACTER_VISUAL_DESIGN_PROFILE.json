@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Jinhsi",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:75ee236094a1f40995feea6e",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:b0d16ccbe9433be0684ddf01",
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/35"
+      ],
+      "statement": "The three decoded images are treated as the role record's default playable presentation. Alternate skins, transformation states, damage states, and rear views were not established in this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:f02e0c85711563d6f1806701",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Paired side locks, extremely long split hair tails, narrow ribbon streamers, layered coat-skirt panels, thigh-high boots, and a long blue-edged implement create a tall, symmetrical silhouette softened by many curved trailing lines.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:6aa779478a283d64c850ae3c",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Silver-white and cool pale blue dominate, anchored by black at the bodice and shoulders, muted teal in the long back panels, and restrained antique-gold edging and fittings.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:4e867194aa9936a3159f33b7",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:b0d16ccbe9433be0684ddf01",
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Silver-white hair is cut in straight bangs and gathered into paired side sections with large blue ribbon clusters and gold loop ornaments; pale gray-gold eyes and a quiet expression keep the face youthful but formal.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:32cba3168a3716cde37f12cd",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A black fitted high-collar underlayer and short structured shoulder cape sit beneath layered white and pale-blue front panels, teal back drapery, belts, small arm plates, fitted shorts, and tall white boots.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:d89559b838421c3bac1d2314",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Soft ribbon and flowing white-teal cloth contrast with black structured panels, fine gold piping, small metallic fasteners, and pale surfaces patterned like scales, feathers, or woven diamonds.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:fcc8b3e3f969469e920ee5c9",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Paired loops, ribbons, tassels, cloud-like curves, cool blue gradients, fine geometric lattice, and small gold ceremonial flourishes repeat from the hair ornaments through the garment hems.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:ff6d728c064dc4858d7e3fa5",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A long blue-edged, ornamented weapon or ceremonial implement is partly visible behind her; the bounded angle does not establish its complete construction, while the formal collar and layered robes clearly signal public office.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:28be387c0ef37afb7ce1700d",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Hands folded at the waist, level shoulders, close-set feet, and a direct but softened gaze communicate restraint, courtesy, and deliberate calm.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:d2a33775ab6773b7bce96e02",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:849574443d61c72fc697783c",
+        "wuwa:visual:cbb2726f590f03ffe984ed12"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/271847"
+      ],
+      "statement": "The winter-white palette, modestly folded posture, and ceremonial detailing closely support the semantic profile's image of a humble Magistrate who brightens public hope like winter sunlight; any dragon or Sentinel-specific reading of individual ornaments requires additional evidence.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1304,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "Jinhsi is designed as a young civic and ceremonial authority rather than an armored ruler. Silver-white hair, pale blue ribbons, black-and-gold collar pieces, layered white panels, teal trailing cloth, and a poised hands-folded stance make her appear gentle and highly composed while preserving signs of formal office.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}

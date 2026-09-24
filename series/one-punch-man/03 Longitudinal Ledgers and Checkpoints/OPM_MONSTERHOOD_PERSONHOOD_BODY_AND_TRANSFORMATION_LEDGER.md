@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Monsterhood, personhood, body, and transformation evidence through V34
+scope: Monsterhood, personhood, body, and transformation evidence through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -575,3 +575,41 @@ Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_
 **STRENGTHEN personhood beyond surface:** Tareo embraces still-transformed Garou; human appearance later accompanies continuing accountability. Body shape does not alone confer innocence or disqualify care. The pale figure is shown but unnamed as ghost, dream or temporal remnant (`174–175 / 0162–0166,0182–0184,0195–0203`).
 
 **PRESERVE material care:** Bofoi's medical report and actual deployment do not enumerate every final patient outcome. Genos moves from damaged torso to working limbs; Bang reports benefit without cyborg conversion. Fubuki's bilateral scars, fresh needle injuries and repaired garment are distinct traces/actions (`174–175/bonus / 0190–0193,0208,0214–0218`). Earlier other-body mysteries retain their own boundaries.
+
+## V35 body delta — reduced forms and administratively removed rights
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+**STRENGTHEN reduced-body continuity:** Pochi's small body and Black Sperm's lost cell stock preserve identity, memory and divergent risk after defeat. Food, fatigue and shelter alter conduct without certifying conversion or permanent harmlessness (`176/bonus / 0027–0041,0196–0201`).
+
+**RESOLVE locally, retain physiological limit:** Evil Natural Water survives as a tiny active remnant and attacks from inside Pig God. His digestion report is competent current evidence; no independent medical or recurrence check follows (`176 / 0022–0027`).
+
+**STRENGTHEN classification/personhood conflict:** Association personnel state that monster designation removes Psykos's human rights and permits any experiment. Her human school history, culpable extermination doctrine, altered body and exploited brain remain visible together. Institutional ownership is challenged without acquittal (`180–181 / 0153–0180`).
+
+**OPEN psychic alteration:** artificial esper development, brain-preserving restraint and `Third Eye` research establish intervention targets but not the Tsukuyomi operative's full body mechanism, Psykos's vision ontology or relation to `神` (`180–181 / 0154–0192`).
+
+## V36 body delta — psychic control, stored remains and evidentiary bodies
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+**ADD adulterated-body control:** Tsukuyomi turns an ordinary supplement into delayed sleep/poison control. Tatsumaki copies the signal wavelength and twists the capsule contents thinner than hair, demonstrating a countermeasure without settling all psychic-body mechanics (`182 / 0017–0032`).
+
+**STRENGTHEN institutional body market:** demon-level monsters and fragments are stored off-list beneath residences and implicated in outside dealings. Their remains become evidence, danger, saleable resource and material for a public narrative at once (`182,188 / 0014–0037,0217–0235`).
+
+**PRESERVE Psykos personhood conflict:** Fubuki extracts an unconscious Psykos as a source/key while invoking the Association's secrecy and external threat. Protection from exploitation does not establish consent, pardon, harmlessness or restored legal status (`188 / 0217–0233`).
+
+**NARROW power-to-body claims:** Tatsumaki's outer-space output statement is internal self-assessment; narrator `当然のように 無傷` independently certifies Saitama's body. Measurement, thought and narrator authority must remain separate (`187 / 0179–0187`).
+
+## V37 body delta — performance, ontology and accessible action diverge
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+**ADD physical/psychological divergence:** Darkshine's body again performs exceptional training work while anticipated battle revives fear and inability to face forward. Capacity and accessible action are not interchangeable (`190 / 0049–0050`).
+
+**ADD altered-organism distinctions:** Forest Tribe corpse-fed regeneration, Gachiwawa miniaturization and Black Sperm cell-count recovery are three different mechanisms and must not be collapsed into one monster rule (`190,192–193 / 0051–0064,0115–0120,0161–0163`).
+
+**PRESERVE Amai personhood uncertainty:** unknown pre-debut history, facial change, absent surgery records and violent conduct justify inquiry into special ability or monsterization. Sensed sincerity and withheld verdict prevent body evidence from exhausting personhood (`193 / 0141–0147`).
+
+**ADD cyborg update limit:** Genos's visible parts and `雷光核` are concrete bodily changes, while Dragon-level capability remains his prospective judgment rather than an independently tested ceiling (`190–191 / 0060–0093`).
+
+**ADD ordinary body misread as power:** King's heartbeat, sweat, tremor and inability to draw are literal fear responses reauthored as transcendent skill. No hidden slash is certified (`194 / 0172–0200`).

@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_STORY_LOCAL_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus explicitly routed side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 analytical_boundary: V11_OPEN_SPLIT_CLIMAX
 analytical_generation: V2_REMEDIATION
-generation: V1.0
+generation: V1.1
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -39,7 +39,7 @@ The governing order is:
 4. this ledger as the current reconciliation of the social-system responsibility; and
 5. current monographs and the pre-remediation full-series synthesis only as provisional retrieval and hypothesis aids.
 
-No primary EPUB needed to be reopened for this backfill. The source-facing readings preserve enough event structure for the claims promoted here. This ledger routes to those exact reading artifacts and headings. It does not invent page numbers, spine items, chapter labels, quotations, or Japanese wording absent from the maintained readings.
+No primary EPUB needed to be reopened for the V1.0 backfill. The source-facing readings preserve its event structures; V1.1 adds targeted attribution verification through the [source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md), especially ESC-12, and reconciles the current claim routes. It does not invent page numbers, spine items, chapter labels, quotations, or Japanese wording.
 
 ### 1.2 Corpus and continuity control
 
@@ -58,7 +58,7 @@ No V12 event, adaptation, translation, interview, retailer bonus outside the loc
 This document does not:
 
 - assign permanent moral essences to “popular,” “loner,” “normie,” “bully,” “victim,” “facilitator,” or “leader” categories;
-- replace the directional relationship ledger, character-state ledger, effort/goal ledger, or future claim index;
+- replace the directional relationship ledger, character-state ledger, effort/goal ledger, or current claim index;
 - turn every friendship scene into evidence about class-wide norms;
 - treat one classroom as a universal theory of Japanese schools or adolescence;
 - infer individual motive from an emergent group result;
@@ -201,7 +201,7 @@ Maintenance is therefore neither trivial nor automatically reparative. It can pr
 | **student-council/event continuity** | Mimimi and peers assume unfinished work and preserve an event despite Hinami's absence; Mimimi's improvisation creates audience value. | Substitution keeps the institution functioning but does not repair Hinami, settle role succession, or show sustainable burden allocation. | HIGH / bounded |
 | **peer intervention around Hinami** | V10 demonstrates substantial distributed capacity: logistics, food, memory, play, testimony, professional access, and facilitation produce real joy and disclosure. | The family video exceeds informational fit; V11's next party remains unassembled, undelivered, and unconsented. More perspectives correct monopoly but do not guarantee fit. | HIGH on V10; OPEN on V11 project |
 | **information network** | Different peers hold complementary knowledge and can combine it to diagnose limits no individual sees. | Private disclosure, covert Haruka contact, uneven knowledge, fiction, and group recruitment create authority defects. “The group knows” remains false as a blanket statement. | HIGH |
-| **formal school response to peer harm** | No positive institutional intervention is preserved in the relevant readings. | Teachers, discipline, counseling, or formal restoration are not shown resolving the V04–V06 class harm. This is negative evidence within the scenes, not proof that such structures never exist. | HIGH on absence shown; OPEN beyond scene boundary |
+| **formal school response to peer harm** | V04 includes a teacher explicitly questioning whether Hirabayashi's role acceptance is forced and offering delay; she still accepts. | This local off-ramp does not establish an institutional process resolving the subsequent V04–V06 harassment. Discipline, counseling, or formal restoration are not shown completing that repair. No total absence of adult concern is claimed. | HIGH on local question and absence of demonstrated resolution; OPEN beyond scene boundary |
 | **Atafami/professional community** | Provides Tomozaki status based on mastery, mixed work/hobby models, audience recognition, and a social field distinct from school hierarchy. | Game rank and visibility can become identity warrants; Rena's access tests sexual and status boundaries; professional continuity remains separate from school-group repair. | HIGH / scoped |
 
 The V11 boundary therefore contains neither social collapse nor social solution. Several systems can continue without Hinami; that is evidence of distributed capacity. Her absence still reorganizes access, meaning, and labor; that is evidence of dependence. Neither proposition authorizes the group to choose her end.
@@ -301,7 +301,7 @@ The volume ends before the full reverse cycle, but it establishes path dependenc
 
 V05 supplies the corpus's most complete social-system experiment. Konno keeps harassment deniable and below the sympathy threshold. Tama's direct protests are public. Classmates increasingly experience the protest rather than the initiating conduct as the recurring disruption. Avoidance then approaches participation because the class can preserve peace by treating the resistant target as the problem.
 
-Mizusawa names the legitimating move: if Tama is framed as unable to read the room, attack can be redescribed as **punishment**. The label matters because it converts private irritation into moral permission. Bystanders do not need Konno's original motive. They need a socially acceptable reason why joining, laughing, avoiding, or failing to intervene is no longer blameworthy.
+Mizusawa explains how a socially usable pretext licenses attack; Tomozaki then reformulates the attack as **punishment**, and Mizusawa agrees. The exact lexical addition belongs to Tomozaki, while the mechanism is developed in their dialogue (V05 `text/part0014.html`, P34–41 and P46–47 under the locator audit's paragraph convention). The label matters because it converts private irritation into moral permission. Bystanders do not need Konno's original motive. They need a socially acceptable reason why joining, laughing, avoiding, or failing to intervene is no longer blameworthy.
 
 Tomozaki's training changes Tama's reception rather than her governing judgment. The first local success is ethically costly: she stops protesting damage to her desk and property, reducing visible disturbance while bearing more harm. Later, the small-stature routine and broader recipient knowledge create `一貫した隙`, a stable and safe-to-recognize opening. The class can interpret her as a person rather than an unvarying rejection of them.
 
@@ -326,7 +326,7 @@ This result must be decomposed:
 | apology to Tama | not demonstrated |
 | restitution for the destroyed strap | not demonstrated |
 | Akiyama's full participation/account | unresolved |
-| formal institutional response | not demonstrated |
+| formal institutional resolution of the harassment | not demonstrated; distinguish the earlier V04 teacher's local questioning of coerced role acceptance |
 | general anti-bullying rule or future procedure | not demonstrated |
 
 The correct state is **cessation plus re-entry, without completed justice**.
@@ -345,7 +345,7 @@ Second, formal committee roles give coordination a repeatable structure. Yuzu be
 
 Third, the festival demonstrates that a public project can widen inclusion without requiring identical social style. Kikuchi accepts authorship and class participation but fails when she tries to imitate universal Hinami-like brightness. Tachibana assumes rehearsal coordination; Yuzu secures rooms and moves work; Mimimi repairs Tomozaki's comedy freeze through shared timing; Tama performs an authored role; male peers handle styling and ordinary circulation; technical workers carry production. Selected habitat and distributed role fit outperform assimilation to one ideal type.
 
-Festival success does not retroactively close the V05 case. Konno's useful dialogue suggestion is real prosocial participation, not apology. Akiyama's ordinary presence is not an account. Tama's successful role is evidence of expanded range, not proof that future disagreement carries no risk. Yuzu's visible competence does not demonstrate that maintenance cost has become limitless or fairly allocated.
+Festival success does not retroactively close the V05 case. Konno's useful dialogue suggestion is real prosocial participation, not apology. The V07 reading §14.4 records no comparable forward development for Akiyama; no new production or repair act is inferred for her. Tama's successful role is evidence of expanded range, not proof that future disagreement carries no risk. Yuzu's visible competence does not demonstrate that maintenance cost has become limitless or fairly allocated.
 
 ### 5.7 V08–V09 — group centrality, owned affiliation, overload, withdrawal, and repair
 
@@ -564,7 +564,7 @@ The longitudinal revision is precise: **distributed competence is usually more c
 | V03 camp | planners know most of the relay; Takei and targets know less | reader sees focalized care/manipulation coexistence and accident | later outing cannot be treated as consent to the hidden method |
 | V04–V05 harassment | class sees Tama's protest more clearly than covert initiation | reader/Tomozaki sees more of Konno's pattern and Hinami's cues | reader access does not make every inferred Konno/Akiyama motive direct |
 | V06.5 Yuzu rumor | participants know rumor, indirect checks, and reassurance | reader can compare this with V05/V06 maintenance patterns | concurrent side-story evidence cannot become a later class-wide state |
-| V08.5 Hinami team | past teammates know effort and unequal defeat meaning | reader gains formation evidence for shared-goal asymmetry | Tomozaki and present peers do not thereby know this history |
+| V08.5 Hinami team | past teammates know effort and unequal defeat meaning | reader gains formation evidence for shared-goal asymmetry | supplemental access alone does not give Tomozaki or present peers this history; any later actor access requires specific disclosure evidence |
 | V08.5 Rena | Rena's focalized history is available to reader | later boundary testing can be modeled as continuity | Tomozaki/Kikuchi do not acquire her formation history; explanation is not excuse |
 | V10 intervention | different peers know their contributions and some shared plan | reader can see the distributed pattern and information gaps | “everyone knew” or “the group intended the rupture” is unsupported |
 | V11 party | Tomozaki/Kikuchi propose plural authorship; members are not yet assembled | reader can identify complementary competencies from prior volumes | prospective inclusion cannot be treated as participation, consensus, or consent |
@@ -638,10 +638,10 @@ The controlling synthesis is not that all intervention is suspect. The corpus re
 | **空気** | local normative coordination: expectations, legitimacy, salience, and response cost | V01 §9; V02 §22; V03 §10; V04 §9. It remains a character-used and textually corroborated bounded model, not a universal law. |
 | **別の土俵を作る** | change the evaluative arena so a different capacity becomes salient | V02 §8.2. Local reframing does not erase accumulated status. |
 | **一貫した隙** | a stable, safe-to-recognize opening that helps others know how to receive a public character | V05 §6. It can enable participation without exhausting personhood. |
-| **キャラ / character language** | repeated public form can become social equipment, interpretive prior, or constraint | V05 §§5–6; V06 §§8–10; V07 §§10–11. Exact character-specific usage requires later voice-ledger routing. |
+| **キャラ / character language** | repeated public form can become social equipment, interpretive prior, or constraint | V05 §§5–6; V06 §§8–10; V07 §§10–11. Exact character-specific usage routes through the Japanese voice ledger; attested samples do not establish a universal speech habit. |
 | **日南葵** | V11 distinguishes the socially consequential public person from Hinami's unvalidated underlying self | V11 §4.2. This is Hinami's current distinction, not proof that the public history is fake. |
 
-The source-facing readings use “punishment,” “justice,” “political peace,” “group,” “party,” “center,” and related English analytical labels. This ledger does not reverse-engineer Japanese lexemes from those summaries. Any later claim that depends on whether the source says punishment, discipline, atmosphere, justice, reading the room, friend, or party in a particular register must route through `TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md` and, where needed, the exact EPUB passage.
+The source-facing readings use “punishment,” “justice,” “political peace,” “group,” “party,” “center,” and related English analytical labels. This ledger does not reverse-engineer Japanese lexemes from those summaries. The targeted V05 check verifies `攻撃`/`罰` with the speaker correction in §5.5; it does not equate every English analytical label with an attested Japanese term. Wording-sensitive claims route through the [Japanese voice/register/key-terms ledger](TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md) and the exact EPUB passage.
 
 ### 10.2 Register abstention
 
@@ -654,7 +654,7 @@ No corpus-wide claim is made here about:
 - the exact lexical boundary among atmosphere, mood, norm, punishment, and justice; or
 - whether a translation choice changes the force of a group-role label.
 
-Those questions require targeted Japanese-source escalation. Remembered English cannot fill the gap.
+The voice ledger supplies bounded attested samples for these questions, not blanket corpus-wide answers. A further unsampled address or register claim still requires targeted Japanese-source escalation. Remembered English cannot fill the gap.
 
 ## 11. Supplemental continuity ledger
 
@@ -782,7 +782,7 @@ The specialist must:
 8. adversarially test whether `空気` is being overextended beyond local evidence;
 9. state what ordinary maintenance achieves and what it conceals;
 10. preserve V11 party formation as prospective; and
-11. route any Japanese lexical or register thesis through the future voice/register ledger and exact source escalation.
+11. route any Japanese lexical or register thesis through the Japanese voice/register ledger and exact source escalation.
 
 The relationship ledger separately recommends a core-peer ensemble specialist. These may become two artifacts or one carefully partitioned pair, but neither responsibility may be reduced to a subsection of the other: the social-system specialist owns field mechanisms; the ensemble specialist owns the accumulated relational agency and cost of the particular peer network.
 
@@ -802,7 +802,7 @@ Not every social observation requires another canonical ledger or specialist:
 
 Creation of this ledger changes one architecture state: the previously missing mandatory cumulative home for social atmosphere and group systems is now **backfilled through the V11 source boundary**.
 
-It does **not** by itself pass the longitudinal, specialist-readiness, cross-specialist-convergence, full-series-synthesis, or release gates. Those gates still depend on the other mandatory ledgers/indexes, targeted Japanese escalation, specialist drafting, claim/locator audit, and convergence work specified by the architecture. The pre-remediation full-series synthesis remains a hypothesis inventory rather than authority over this ledger.
+It does **not** by itself pass the longitudinal, specialist-readiness, cross-specialist-convergence, full-series-synthesis, or release gates. The [longitudinal reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) now evaluates the six cumulative owners together. Later literary drafting, claim/locator review, and cross-specialist convergence remain separate responsibilities. The pre-remediation full-series synthesis remains a hypothesis inventory rather than authority over this ledger.
 
 ## 14. Deterministic evidence route
 
@@ -881,6 +881,31 @@ When a new admitted source is read:
 11. never convert later resolution into proof that the earlier open boundary was analytically mistaken.
 
 ## 16. Revision history
+
+### V1.1 — 2026-09-13 — R01 reconciliation and targeted attribution
+
+- Preserved SOC-C01–SOC-C22, their chronological evidence, and all V11 consent/accountability OPENs.
+- Corrected the exact V05 attack/punishment wording to Tomozaki's contribution within dialogue with Mizusawa; preserved the co-developed social mechanism.
+- Removed an unsupported implication of new Akiyama production activity in V07; the reading supplies Konno's contribution and no comparable Akiyama development.
+- Narrowed the adult-response negative after LOC-12C verified the V04 teacher's explicit questioning of coerced volunteering (P58–60). That local act is preserved without upgrading it to institutional resolution of later harm.
+- Narrowed supplemental knowledge language so reader access neither proves sharing nor rules out specifically evidenced later disclosure.
+- Replaced obsolete future-owner references with the current claim and Japanese evidence routes.
+- Reviewed every stable claim against its CRI counterpart below. These links reconcile responsibility; they do not replace the local scene routes in §8.
+
+| Social identities reviewed | Current shared formulation / disposition | Claim-index counterpart |
+|---|---|---|
+| SOC-C01, SOC-C02, SOC-C03, SOC-C04 | **PRESERVE:** local modifiable permission/cost field; variable status leverage and stored reputation; no universal control. | CRI-SOC-001 |
+| SOC-C05 | **PRESERVE:** rumor can affect a field without becoming fact. | CRI-SOC-001; CRI-REL-004 for the separate information-rights question |
+| SOC-C06 | **PRESERVE:** coordination does not establish equally owned ends. | CRI-EFF-001; CRI-REL-005; effort EFFORT-H19 |
+| SOC-C07, SOC-C08, SOC-C09 | **PRESERVE mechanism / REVISE lexical attribution in §5.5:** visibility and moral license make punitive participation repeat across targets; no singular complete controller. | CRI-SOC-001, CRI-SOC-002 |
+| SOC-C10 | **PRESERVE:** Tama's expanded communicative capacity and unfair victim-borne cost coexist. | CRI-TAM-001, CRI-SOC-002 |
+| SOC-C11, SOC-C12 | **PRESERVE:** cessation/re-entry/prosocial action do not prove completed justice. The narrowed Akiyama statement adds no new act. | CRI-EPI-003, CRI-KON-001, CRI-SOC-002 |
+| SOC-C13 | **PRESERVE:** Yuzu's owned maintenance remains skilled and costly; capacity/absorber boundary OPEN. | CRI-YUZ-001, CRI-EFF-001 |
+| SOC-C14, SOC-C15 | **PRESERVE:** learned public form and selected habitat can both support owned participation. | CRI-TOM-002, CRI-KIK-001, CRI-FORM-001 |
+| SOC-C16 | **PRESERVE:** assigned centrality diverges from chosen ties; the V09 abandonment corrects any timeless reading of older effort-state limits. | CRI-TOM-003, CRI-REL-006; effort EFFORT-H02 |
+| SOC-C17, SOC-C18 | **PRESERVE:** ordinary and peripheral participation creates capacity and access; it is not consensus or equal intimacy. | CRI-REL-006, CRI-EFF-001; effort EFFORT-H16 |
+| SOC-C19, SOC-C22 | **PRESERVE / OPEN intervention:** distribution and benefit do not confer subject consent; the proposed party remains unassembled. | CRI-REL-004, CRI-REL-005, CRI-FORM-001 |
+| SOC-C20, SOC-C21 | **PRESERVE:** real public effects, retained skill, institutional substitution, and unresolved personal re-entry are separate states. | CRI-HIN-001, CRI-HIN-006, CRI-EPI-003 |
 
 ### V1.0 — 2026-09-13 — first architecture-remediation backfill
 

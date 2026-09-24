@@ -143,6 +143,21 @@ class GitHub:
             return None
         return run
 
+    def source_audit(self, branch: str, sha: str) -> dict | None:
+        # The reporter publishes a commit status only at the end of the audit.
+        # Discover the latest push run without filtering out terminal failures.
+        query = urllib.parse.urlencode({"branch": branch, "head_sha": exact_sha(sha),
+                                       "event": "push", "per_page": 1})
+        runs = self.request("GET", "actions/workflows/repository-audit.yml/runs?" + query)["workflow_runs"]
+        run = next(iter(runs), None)
+        if (not run or run.get("path", "").split("@", 1)[0] != AUDIT_WORKFLOW
+                or run.get("head_sha") != sha or run.get("head_branch") != branch
+                or run.get("event") != "push" or run.get("actor", {}).get("login") != OWNER
+                or run.get("triggering_actor", {}).get("login") != OWNER
+                or run.get("head_repository", {}).get("full_name") != REPOSITORY):
+            return None
+        return run
+
 
 class Graph:
     def __init__(self, directory: Path):
@@ -254,8 +269,57 @@ class Integrator:
         changed = self.graph.paths(source, observed)
         return bool(changed) and changed <= GENERATED
 
-    def wait_final(self, branch: str, source: str, base: str) -> str:
-        end = min(self.deadline, time.monotonic() + self.wait_seconds)
+    def prior_integration(self, branch: str, source: str, base: str) -> dict | None:
+        # A squash leaves the source outside main's ancestry. Only a merged PR
+        # for this exact tip plus whole-tree equality proves it was preserved.
+        query = urllib.parse.urlencode({"state": "closed", "base": "main", "head": OWNER + ":" + branch})
+        for pr in self.api.pages("pulls?" + query):
+            self.check_time()
+            head, target = pr.get("head") or {}, pr.get("base") or {}
+            if (pr.get("state") != "closed" or not pr.get("merged_at")
+                    or (pr.get("user") or {}).get("login") != OWNER
+                    or head.get("ref") != branch or head.get("sha") != source
+                    or (head.get("repo") or {}).get("full_name") != REPOSITORY
+                    or target.get("ref") != "main"
+                    or (target.get("repo") or {}).get("full_name") != REPOSITORY):
+                continue
+            merged = exact_sha(pr.get("merge_commit_sha"))
+            self.graph.fetch(merged)
+            if self.graph.ancestor(merged, base) and self.graph.tree(merged) == self.graph.tree(source):
+                return pr
+        return None
+
+    def wait_source(self, branch: str, source: str, base: str, end: float) -> None:
+        waiting = False
+        while time.monotonic() < end:
+            self.same_heads(branch, source, base)
+            status = self.api.status(source)
+            if status and status["state"] in {"failure", "error"}:
+                raise Blocked("Source repository audit failed")
+            if (status and status["state"] in {"success", "pending"}
+                    and self.api.audit_run(source, status)):
+                return
+            if self.preview:
+                raise Blocked("Source has no successful authored-content or full audit run")
+            run = self.api.source_audit(branch, source)
+            if not run:
+                raise Blocked("Source has no successful audit or trusted push audit to await")
+            if run.get("status") not in {"queued", "in_progress", "waiting", "pending", "requested"} or run.get("conclusion") is not None:
+                # The reporter may finish between the status and run requests.
+                if run.get("status") == "completed" and run.get("conclusion") == "success":
+                    status = self.api.status(source)
+                    if (status and status["state"] in {"success", "pending"}
+                            and self.api.audit_run(source, status)):
+                        return
+                raise Blocked("Source push audit ended without a successful trusted audit status")
+            if not waiting:
+                print(f"Waiting for source audit {run['id']} on {branch} at {source}", flush=True)
+                waiting = True
+            time.sleep(max(0, min(15, end - time.monotonic())))
+        raise Blocked("Timed out awaiting the source audit; no integration was attempted")
+
+    def wait_final(self, branch: str, source: str, base: str, *, end: float | None = None) -> str:
+        end = min(self.deadline, time.monotonic() + self.wait_seconds) if end is None else min(self.deadline, end)
         final = source
         while time.monotonic() < end:
             if self.api.head("main") != base:
@@ -274,7 +338,7 @@ class Integrator:
                     and run.get("event") == "repository_dispatch"
                     and run.get("actor", {}).get("login") == "github-actions[bot]"):
                 return final
-            time.sleep(15)
+            time.sleep(max(0, min(15, end - time.monotonic())))
         raise Blocked("Timed out awaiting housekeeping and its exact-commit full audit")
 
     def wait_post_merge(self, sha: str, previous_status_id: int) -> None:
@@ -333,10 +397,20 @@ class Integrator:
         if not scoped_paths(branch, self.graph.paths(base, source, triple=True)):
             raise Blocked("Branch delta exceeds its analytical root and seven allowed shared files")
         self.candidate_pr(branch)
-        status = self.api.status(source)
-        if not status or status["state"] not in {"success", "pending"} or not self.api.audit_run(source, status):
-            raise Blocked("Source has no successful authored-content or full audit run")
-        tree = self.graph.merge_tree(source, base)
+        # Initial audit and final housekeeping share the existing source budget.
+        source_deadline = min(self.deadline, time.monotonic() + self.wait_seconds)
+        self.wait_source(branch, source, base, source_deadline)
+        try:
+            tree = self.graph.merge_tree(source, base)
+        except Blocked:
+            preserved = self.prior_integration(branch, source, base)
+            if preserved is None:
+                raise
+            self.same_heads(branch, source, base)
+            row.update(outcome="already_integrated", pr=preserved["number"],
+                       integration_sha=preserved["merge_commit_sha"],
+                       detail="Exact source tree verified in a prior merged PR on main; no conflict resolution or write needed")
+            return base
         if tree == self.graph.tree(base):
             row["outcome"] = "no_content_change"
             return base
@@ -356,7 +430,7 @@ class Integrator:
                     raise
             row["reconciled_sha"] = reconciled
             source = reconciled
-        final = self.wait_final(branch, source, base)
+        final = self.wait_final(branch, source, base, end=source_deadline)
         self.graph.fetch(final)
         if not self.graph.ancestor(base, final) or not scoped_paths(branch, self.graph.paths(base, final)):
             raise Blocked("Final branch no longer incorporates main within the allowed path boundary")

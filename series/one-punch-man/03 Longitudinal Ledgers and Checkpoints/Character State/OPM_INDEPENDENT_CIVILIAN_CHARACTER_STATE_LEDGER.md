@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Independent / civilian character state through V34
+scope: Independent / civilian character state through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -303,3 +303,43 @@ Propagated after the frozen [V34 reading](../../02%20Sequential%20Readings/OPM_V
 | Garou's parents / actress note | parents absent during detention; actress resembles mother but looks kind unlike her | narrow textual characterization, not complete family history or actor personality | `175 / 0198,0215` |
 
 Bang's report that the child is well is tested by actual peer behavior; the source shows both gain and continued conflict. Manako's prior vulnerability remains in its own history, without inventing a new individualized medical verdict from the collective aftermath.
+
+## V35 civilian delta — safety customers, trainees and institutional buyers
+
+Propagated after the frozen [V35 reading](../../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Group / figure | Observed behavior | Limit | Evidence |
+|---|---|---|---|
+| Prospective HA residents | pay for proximity to A-Class/S-Class protection and question whether safety can be absolute | collective role in privatized safety; no individualized durable profile | `177 / 0044–0052` |
+| Idol trainees / producer | treat hero certification as market route; answer monster hypothetical with brand confidence; producer monetizes humiliation | commercial aspirations and fear response shown; no later careers or moral verdict supplied | `179 / 0114–0127,0137` |
+| Association staff / sponsor channel | financial pressure enables a paid Psykos transfer and human-rights removal rationale | institutional speech and action, not neutral narrator law or every employee's belief | `180 / 0153–0159` |
+| Unnamed scarred caller | visits room 104 to meet absent Saitama, acknowledges the neighbor and leaves unnamed | bounded mystery presence; identity, affiliation and purpose beyond stated visit remain open | `176 / 0010–0014` |
+
+No readiness profile is created from these narrow functions. The Tsukuyomi operative receives organization/mechanism routing rather than a civilian personality model.
+
+## V36 civilian delta — purchased safety, witnessed power and first disclosure
+
+Propagated after the frozen [V36 reading](../../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Group / figure | Observed behavior | Limit | Evidence |
+|---|---|---|---|
+| Premium residents | treat record disasters and a thirty-five-year loan as reasons to buy an enclosed, selected-person safety world | collective evidence for stratified security; no claim that every resident shares one motive | `182,184 / 0010–0013,0074–0075` |
+| Evacuated family | witnesses Tatsumaki protect and return the thrown car while Saitama redirects danger | correct local rescue perception does not make the wider fight or Saitama legible | `184 / 0099–0108` |
+| Erika | acts under gang coercion after earlier protecting Feather; concealed fear becomes visible | coercion limits blame but does not complete her future or relationship outcome | `185 / 0117–0131` |
+| Bullied youth | initially endures violence silently, receives Glasses's contact and later confronts the situation as A-Class help arrives | disclosure and support begin; cure, victory and permanent safety are not guaranteed | `bonus / 0237–0241` |
+| Association executives / public | accept a useful Tatsumaki story; civilians praise the credited S-Class hero | public account contains real monster destruction inside selective concealment, not pure fabrication | `188 / 0225–0235` |
+
+These remain collective or episode-bounded civilian states. No readiness profile is created.
+
+## V37 civilian delta — sponsorship, medical dependency and independent service
+
+Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Group / figure | Observed behavior | Limit | Evidence |
+|---|---|---|---|
+| Wealthy gambling patrons | wager on controlled hero/monster outcomes and read real distress through the entertainment frame | collective evidence for purchased access and distorted attention; individual knowledge and liability vary | `192 / 0103–0128` |
+| Wild Yankee's mother | hospitalization and scarce advanced care become leverage used to compel her son's participation | material dependency is established through the handler's threat; her own knowledge and consent are not shown | `192 / 0110–0117,0140` |
+| Axel / Hunters | protect outside Association certification and reject recruitment on legitimacy grounds | independent conduct and critique are real; capacity, governance and every member's motive remain unverified | `189 / 0015–0027` |
+| Sponsors and prospective recruits | receive commercial hero images, private access, offers and competing institutional promises | demonstrates a market for safety and hero labor, not a uniform public judgment or proven Neo Heroes superiority | `189,192 / 0010–0034,0099–0132` |
+
+The civilian who offers part of a recovered bag supplies ordinary gratitude rather than an institutional payment; Saitama's return of it marks his motive check, not contempt for the civilian (`192 / 0139`).
