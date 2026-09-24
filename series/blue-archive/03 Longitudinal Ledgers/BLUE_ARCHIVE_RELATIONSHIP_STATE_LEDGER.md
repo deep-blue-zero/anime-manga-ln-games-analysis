@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
-source_boundary: Sequential main-story reading through BA:main:001:002:019
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:001:002:020
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -285,3 +285,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **SCHale ↔ ABYDOS:** helicopter/logistical support enables extraction without replacing student breach and reunion.
 - **KAISER DIRECTOR ↔ COMMITTEE:** the director admits deliberate punishment/morale-breaking and resentment of their joy; students explicitly refuse psychic defeat.
 - **COALITION ↔ RESCUE:** external holding/support is converted into actual passage, while supporter outcomes remain unreported.
+
+## C002 E020 relationship delta — recognition without takeover
+
+- **SENSEI ↔ COUNTERMEASURES COMMITTEE:** public certification repairs formal vulnerability; continuing support is requested without Sensei occupying student office.
+- **HOSHINO ↔ COMMITTEE:** Hoshino's presidency refusal is honored while membership, correction, and ordinary affection resume.
+- **SHIBA SEKI ↔ ABYDOS/PS68:** repaired contact survives as a reopened stall, renewed customers, and Serika's employment.
+- **ABYDOS ↔ KAISER CORPORATION:** immediate attack recedes, but debt and majority land ownership preserve structural antagonism.
+- **KAISER CORPORATION ↔ DIRECTOR:** corporation dismisses him to deny connection; prior multi-entity leadership evidence remains.
+- **COMMITTEE ↔ BLACK SUIT/SCHALE:** Sensei/Hoshino information becomes shared research, then unresolved investigation is entrusted to Schale.

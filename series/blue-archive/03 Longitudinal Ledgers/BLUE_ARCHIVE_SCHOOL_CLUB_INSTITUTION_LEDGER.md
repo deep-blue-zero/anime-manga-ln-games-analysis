@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
-source_boundary: Sequential main-story reading through BA:main:001:002:019
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:001:002:020
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -268,3 +268,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Schale:** supplies helicopter/logistical capacity and requested combat coordination; no sovereign institutional takeover occurs.
 - **Abydos continuity:** joy, remembered daily life, rescue practice, and reciprocal `welcome home` constitute continuing institutional reality.
 - **Unresolved structures:** debt, title, official recognition, Kaiser force, contract status, laboratory fate, and corporate consequences remain OPEN at E019.
+
+## C002 E020 institutional delta — formal repair and partial accountability
+
+- **Countermeasures Committee:** publicly certified by Sensei and formally assumes student-council functions; president remains undecided after Hoshino refuses.
+- **Schale:** recognition, logistics, and ongoing Black Suit investigation are institutional capacities; leadership remains student-owned.
+- **Kaiser Loan:** illegal Black Market dealings face expected federal investigation; coerced interest is substantially reduced.
+- **Kaiser Corporation:** retains most Abydos land because transactions remain legally effective; unknown desert purpose persists.
+- **Kaiser director:** fired and wanted as kidnapping suspect; individualization of blame does not erase cross-entity role evidence.
+- **General Student Council:** expected to investigate but still described as nonfunctional/unreliable.
+- **Shiba Seki:** successful stall reopening confirms practical continuity across destroyed premises.

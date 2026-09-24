@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
-source_boundary: Sequential main-story reading through BA:main:001:002:019
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:001:002:020
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -458,3 +458,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Students locate, breach, recognize, and welcome; Sensei's address joins rather than monopolizes rescue.
 - Hoshino's `ただいま` supplies recipient participation, strengthening restoration over possession.
 - No adult-card activation is shown; the rescue cannot be attributed to a hidden omnipotent mechanism.
+
+## C002 E020 delta — certification as autonomy amplification
+
+- No choice or direct Sensei line occurs.
+- Public certification repairs the committee's recognition defect and enables formal student-council function.
+- Sensei does not appoint a president; Hoshino's refusal stands and the office remains undecided.
+- Schale continues as Black Suit investigator/advisor while debt, land, and federal-enforcement limits remain outside unilateral adult solution.
+- The final request for continued support makes the relationship durable but not completed or possessive.
+- E017's bodily/professional boundary failure remains a required counterweight in chapter-level adult ethics.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
-source_boundary: Sequential main-story reading through BA:main:001:002:019
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:001:002:020
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -620,6 +620,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `おかえり` / `ただいま`: the call-and-response makes return reciprocal rather than declarative.
 - `大人が、ね`: Hoshino's recognition registers the adult's arrival without erasing the surrounding students.
 - **Projection anomaly:** `u:0033-0078` contains embedded speaker/control tokens as narration; speaker reconstruction remains cautious.
+
+## C002 E020 delta — official recognition and qualified aftermath
+
+- `公的な認証` / `正式な委員会`: Ayane distinguishes the new documentary status from prior lived practice.
+- `断固として拒否`: Hoshino's office refusal is emphatic and honored.
+- `とのこと`, `のでしょうか`, `疑わしい`: Ayane grades reported outcomes, Trinity causation, and federal capacity rather than flattening them into certainty.
+- `相変わらず9億円`: reunion does not linguistically disguise continuing principal debt.
+- `関係ないと主張するために、即座に解雇`: corporate disavowal is framed as strategic claim management.
+- `何も変わらない、いつもの感じ`: ordinary repetition is voiced as relief, not evidence of zero consequence.
+- `引き続きよろしく`: continued adult relation is requested rather than assumed complete.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
-source_boundary: Sequential main-story reading through BA:main:001:002:019
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:001:002:020
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -252,6 +252,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ayane:** locates the bunker, requests Sensei's battle direction, and participates in Schale-helicopter-enabled extraction.
 - **Sensei:** provides requested direction/logistics and addresses Hoshino; no adult-card use or solitary rescue claim appears.
 - **Kaiser director:** admits deliberate morale-breaking methods and personal investment; exact battle disposition remains OPEN.
+
+## C002 E020 delta — ordinary governance restored, crisis retained
+
+- **Hoshino:** remains active, firmly refuses presidency, and resumes method-gating inside routine debate.
+- **Ayane:** becomes the precise epilogue narrator/administrator, distinguishing facts, speculation, and public-capacity doubt.
+- **Serika:** resumes Shiba Seki work and financial urgency, including another dubious trend proposal.
+- **Shiroko:** resumes infiltration thinking; renewed committee correction remains available.
+- **Sensei:** publicly certifies the committee, leaves leadership undecided, and accepts continuing advisory/investigative relation.
+- **Kaiser director:** dismissed and wanted for suspected student kidnapping; arrest remains unconfirmed.
+- **Black Suit:** remains anonymous after shared investigation; threat and Gematria structure remain OPEN.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 

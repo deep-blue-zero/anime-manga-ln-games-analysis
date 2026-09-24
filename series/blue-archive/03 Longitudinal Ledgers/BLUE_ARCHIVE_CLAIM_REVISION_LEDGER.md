@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:019
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
-current_sequential_boundary: MAIN_V001_C002 E019 complete; E020 next
+source_boundary: Sequential main-story reading through BA:main:001:002:020
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
+current_sequential_boundary: MAIN_V001_C002 E020 complete; checkpoint next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -995,6 +995,24 @@ No `BA-C019` is opened.
 - **Strong inference:** successful breakthrough past the director; unnamed senior as Yume/former president.
 - **Not established:** director/supporter disposition, experiment commencement/effects, senior identity, or debt/title/recognition resolution.
 - **Source defect:** reunion speaker metadata is flattened; use embedded names/sequence cautiously.
+
+## C002 E020 claim transitions
+
+- **BA-C001–C003: STRENGTHEN decisively** — adult certification restores self-government conditions without selecting the ruler; support remains requested.
+- **BA-C004: STRENGTHEN / LIMIT** — Schale has recognition/logistics/investigative capacity but cannot erase debt, recover land, or ensure federal enforcement.
+- **BA-C005–C006: PRESERVE REJECTED strongly** — a functioning student institution resumes governance and method correction.
+- **BA-C007–C011: STRENGTHEN sharply** — Hoshino's office refusal is honored; adult power enables rather than occupies governance.
+- **BA-C012: STRENGTHEN / REVISE** — responsibility fragments; Black Suit remains separate/obscured while the director's cross-entity history persists.
+- **BA-C013–C014: STRENGTHEN / LIMIT** — illegal finance/coerced interest are partly checked, while land ownership and public-capacity weakness remain.
+- **BA-C015: STRENGTHEN decisively** — survival is ordinary institutional recurrence under unresolved debt/dispossession.
+- **BA-C016–C017: STRENGTHEN decisively** — certification returns formal control and leaves leadership choice open.
+- **BA-C018: STRENGTHEN decisively** — repaired hospitality survives as a reopened institution. No `BA-C019` is opened before checkpoint.
+
+### C002 E020 epistemic firewall
+
+- **Established:** certification, council function, refused presidency, stall reopening, ¥900m principal, lower interest, majority Kaiser land, director firing/warrant, unresolved Black Suit.
+- **Ayane-qualified:** Trinity causation and effective federal investigation.
+- **Not established:** director arrest, full corporate exoneration/culpability, Black Suit contract status, land recovery, desert-project purpose, or PS68 final location.
 
 ## C002 E012 claim transitions
 

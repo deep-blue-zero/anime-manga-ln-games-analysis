@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
-source_boundary: Sequential main-story reading through BA:main:001:002:019
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:001:002:020
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -420,3 +420,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Bunker / helicopter / breach:** coalition capacity becomes physical passage to the isolated member.
 - **Welcome home / I'm home:** the planned callback is completed through Hoshino's chosen reply.
 - **Rescue without erasure of fault:** affectionate return precedes, but does not cancel, future accountability.
+
+## C002 E020 motif / callback delta
+
+- **Lived committee / certified committee:** relational existence gains documentary protection without being created from nothing.
+- **President refused / office remains open:** repaired governance preserves a member's ability to decline authority.
+- **Interest reduced / principal remains:** partial structural relief replaces miracle-cure closure.
+- **Director fired / corporation retains land:** accountability is individualized while institutional benefit persists.
+- **Destroyed shop / busy stall:** hospitality continuity becomes stable aftermath rather than symbolic promise.
+- **Bad ideas rejected again:** ordinary method correction resumes with Hoshino present.
+- **Lost things / things not let go:** material dispossession coexists with retained people, practice, memory, and future capacity.
