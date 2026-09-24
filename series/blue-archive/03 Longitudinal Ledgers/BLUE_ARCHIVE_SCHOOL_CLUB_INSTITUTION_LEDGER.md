@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
-source_boundary: Sequential main-story reading through BA:main:001:002:005
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
+source_boundary: Sequential main-story reading through BA:main:001:002:006
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -155,3 +155,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser capture hypothesis:** Loan creditor, Construction title, Helmet Gang subsidy, and Corporation desert activity converge strongly, but original intent and one common command hierarchy remain unproved.
 - **Abydos:** only the current school and nearby area remain untransferred; this `last land` becomes the committee's working explanation for proxy pressure.
 - **Legitimacy principle:** formally authorized sale can still be substantively captured when debt dependency engineers the available alternatives.
+
+## C002 E006 institutional delta — title is not total jurisdiction
+
+- **Abydos:** continues field governance and investigation in territory it does not documentarily own, demonstrating that lived polity and registered title are not identical.
+- **Gehenna Prefect Team:** earlier `付近` / not-yet-illegal wording may reflect superior cadastral knowledge; this is a graded hypothesis, not proof.
+- **Institutional legitimacy:** information advantage and property title do not retrospectively authorize hostile custody or erase a resident institution's reasoned defense.
+- **Expedition:** logistics, hazard assessment, and weapons checks are committee-managed; no new Kaiser project fact is yet discovered.

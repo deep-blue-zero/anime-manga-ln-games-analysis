@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
-source_boundary: Sequential main-story reading through BA:main:001:002:005
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
+source_boundary: Sequential main-story reading through BA:main:001:002:006
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -171,3 +171,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ayane:** synthesizes debt, land title, subsidy, and remaining-property evidence into a strong capture theory, with original intent still inferential.
 - **Serika:** moves from blaming the former council toward grief after Sensei redirects culpability, then authors the direct desert-investigation proposal.
 - **Sensei:** fulfills the promise to share Hina's warning, rejects victim-blaming, supports group investigation, and accepts provisional confidentiality around incomplete withdrawal evidence.
+
+## C002 E006 delta — self-correction without self-erasure
+
+- **Ayane:** reopens her earlier sovereignty judgment after learning the title state, explicitly grades her inference, and retains leadership rather than collapsing into retrospective blame.
+- **Shiroko:** separates property ownership from hostile conduct and assures Ayane that resistance to Ako remained justified.
+- **Serika:** challenges the provenance of Hina's superior knowledge instead of accepting institutional authority uncritically.
+- **Hoshino:** supports direct verification and continued movement; no withdrawal-form or absence clarification occurs.
+- **Sensei:** has no dialogue/choice or distinct new causal contribution; student analysis authors the unit.

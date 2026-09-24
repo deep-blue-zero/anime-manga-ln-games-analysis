@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
-source_boundary: Sequential main-story reading through BA:main:001:002:005
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
+source_boundary: Sequential main-story reading through BA:main:001:002:006
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -299,3 +299,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Returned information:** Sensei's private warning becomes common committee knowledge and produces collective investigation.
 - **Praise beside surveillance:** Shiroko's affirmation of Hoshino coexists with a privacy-violating search, preventing loyalty/mistrust simplification.
 - **Temporary secrecy:** uncertainty delays accusation but creates a future accountability debt.
+
+## C002 E006 motif / callback delta
+
+- **Title versus territory:** registered ownership is separated from lived jurisdiction and the ethics of armed entry.
+- **Retrospective correction:** new facts revise a premise without making the earlier agent irrational or illegitimate.
+- **Information inequality:** Gehenna may know Abydos facts before Abydos, but knowledge does not equal mandate.
+- **`付近` versus `中`:** a small locative distinction becomes evidence of hidden institutional knowledge.
+- **Rail end / walking:** investigation becomes embodied commitment through dangerous, infrastructure-poor space.

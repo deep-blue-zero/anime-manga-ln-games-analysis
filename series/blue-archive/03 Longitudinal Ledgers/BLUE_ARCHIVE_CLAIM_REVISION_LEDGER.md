@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:005
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
-current_sequential_boundary: MAIN_V001_C002 E005 complete; E006 next
+source_boundary: Sequential main-story reading through BA:main:001:002:006
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
+current_sequential_boundary: MAIN_V001_C002 E006 complete; E007 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -865,3 +865,15 @@ No `BA-C019` is opened.
 - **Committee now knows:** Hina's Kaiser-desert warning, the cadastral pattern, former-council transaction authority, and Hoshino's final-council history.
 - **Committee strongly infers:** a debt-to-land trap and proxy pressure on the last parcel; original design and cross-company command remain unproved.
 - **Sensei/Shiroko only:** Hoshino has a withdrawal form; Shiroko found it by searching her bag. Submission, intent, timing, and cause remain OPEN.
+
+## C002 E006 claim transitions
+
+- **BA-C001–C003: STRENGTHEN** — students self-correct, preserve one another's reasoned agency, and conduct the field operation without adult substitution.
+- **BA-C004–C005: PRESERVE** — no new Sensei capacity; omnipotent-avatar rejection remains.
+- **BA-C006: STRENGTHEN rejection** — the epistemic/logistical transaction is student-authored.
+- **BA-C007–C008: PRESERVE** — no new choice evidence.
+- **BA-C010–C011: STRENGTHEN lightly** — noncentral adult presence coexists with student competence.
+- **BA-C012–C015: PRESERVE / PRESSURE-TEST** — property knowledge reframes earlier wording but adds no project fact.
+- **BA-C016: STRENGTHEN / REVISE** — title/information advantage cannot alone legitimate coercion against a resident institution.
+- **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.

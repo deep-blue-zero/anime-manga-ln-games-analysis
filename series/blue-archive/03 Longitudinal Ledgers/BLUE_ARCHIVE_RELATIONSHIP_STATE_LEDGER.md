@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
-source_boundary: Sequential main-story reading through BA:main:001:002:005
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
+source_boundary: Sequential main-story reading through BA:main:001:002:006
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -173,3 +173,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Sensei ↔ committee:** Sensei completes promised disclosure of Hina's warning, and the committee collectively chooses investigation.
 - **Hoshino ↔ former president:** a two-person final council is revealed; Hoshino's mocking description carries unresolved attachment, ignorance, and burden.
 - **Current committee ↔ former council:** victim-blaming gives way to a constrained-choice interpretation without erasing consequences of the sales.
+
+## C002 E006 relationship delta — epistemic reassurance
+
+- **Shiroko ↔ Ayane:** Shiroko preserves Ayane's justified agency while accepting that new title evidence can revise the earlier premise.
+- **Abydos ↔ Gehenna Prefect Team:** the committee now suspects Gehenna knew boundary facts it did not; information asymmetry explains wording without repairing trust or legitimizing Ako.
+- **Committee ensemble:** Serika questions, Ayane reconstructs, Shiroko adjudicates conduct, and Hoshino returns the group to verification—distributed reasoning rather than one authoritative voice.
