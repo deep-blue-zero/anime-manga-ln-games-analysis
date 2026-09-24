@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:008
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
-current_sequential_boundary: MAIN_V001_C002 E008 complete; E009 next
+source_boundary: Sequential main-story reading through BA:main:001:002:009
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
+current_sequential_boundary: MAIN_V001_C002 E009 complete; E010 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -876,6 +876,18 @@ No `BA-C019` is opened.
 - **BA-C012–C015: PRESERVE / PRESSURE-TEST** — property knowledge reframes earlier wording but adds no project fact.
 - **BA-C016: STRENGTHEN / REVISE** — title/information advantage cannot alone legitimate coercion against a resident institution.
 - **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E009 claim transitions
+
+- **BA-C001–C003: STRENGTHEN lightly** — student withdrawal judgment delegates bounded command.
+- **BA-C004: STRENGTHEN** — Sensei is explicitly requested for tactical direction under combined-arms encirclement; no personal-force evidence.
+- **BA-C005–C006: rejection strengthened** — students author every substantive assessment.
+- **BA-C007–C011: PRESERVE / STRENGTHEN lightly** — situational delegation remains additive; no choices.
+- **BA-C012: STRENGTHEN / REVISE** — PMC↔Corporation affiliation is established; other network edges remain OPEN.
+- **BA-C013: PRESERVE**.
+- **BA-C014: STRENGTHEN sharply** — corporate power includes professional combined arms and territorial security.
+- **BA-C015–C017: STRENGTHEN lightly** — local actors retain judgment under organized private force.
 - **BA-C018: PRESERVE**. No `BA-C019` is opened.
 
 ## C002 E007 claim transitions

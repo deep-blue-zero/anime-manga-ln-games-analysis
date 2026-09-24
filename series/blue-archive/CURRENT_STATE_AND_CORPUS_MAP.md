@@ -18,15 +18,15 @@ updated: 2026-09-23
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E008. The next sequential unit is `BA:main:001:002:009` (`MAIN_V001_C002_E009`), source title `第9話;カイザーPMC（１）`.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E009. The next sequential unit is `BA:main:001:002:010` (`MAIN_V001_C002_E010`), source title `第10話;カイザーPMC（２）`.**
 
-C002 E008 confirms a vast, recently constructed, kilometer-fenced desert installation guarded by PMC-role soldiers who call the Abydos group intruders and initiate capture/attack. The source does not yet identify the guards' affiliation or the facility's function; the future episode title is not used as current evidence. Hina's warning is therefore partially confirmed at the level of concealed infrastructure, not corporate hierarchy or purpose. Coverage is **30 / 310** canonical main-story units; all seven ledgers are reconciled through `BA:main:001:002:008`, with `BA-C001`–`BA-C018` still live.
+C002 E009 verifies the site and force as **Kaiser PMC**, explicitly identified by Ayane as a Kaiser Corporation affiliate. This crosses one network edge while leaving Kaiser Loan, Kaiser Construction, and Black Suit relations unproved. The threat is institution-scale—alarm, armored vehicles, tanks, helicopters, and encirclement—rather than individual soldier excellence. Ayane orders escape and asks Sensei for instructions, preserving bounded tactical delegation downstream of student-authored judgment. Coverage is **31 / 310** canonical main-story units; all seven ledgers are reconciled through `BA:main:001:002:009`, with `BA-C001`–`BA-C018` still live.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **30 / 310 canonical main units deep-read**;
+- main-story coverage: **31 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -57,7 +57,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E006_DEEP_READING.md` — **active_provisional**, desert-expedition / title-versus-jurisdiction / retrospective-correction unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E007_DEEP_READING.md` — **active_provisional**, lost-oasis / sand-festival / inherited-landscape-memory unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E008_DEEP_READING.md` — **active_provisional**, fortified-installation / PMC-role-attack / resident-as-intruder unit;
-- next source unit: `BA:main:001:002:009` (`MAIN_V001_C002_E009`), source title `第9話;カイザーPMC（１）`.
+- `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E009_DEEP_READING.md` — **active_provisional**, PMC-affiliation / combined-arms / bounded-command unit;
+- next source unit: `BA:main:001:002:010` (`MAIN_V001_C002_E010`), source title `第10話;カイザーPMC（２）`.
 
 No specialist monograph or series-level synthesis exists yet. The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -289,8 +290,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V001_C001_E014_DEEP_READING.md` — fourteenth `対策委員会編` unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — final six Chapter-1 `対策委員会編` units, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` — **canonical Chapter-1 checkpoint**;
-- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E008_DEEP_READING.md` — first eight Chapter-2 `対策委員会編` units, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first thirty marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E009_DEEP_READING.md` — first nine Chapter-2 `対策委員会編` units, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first thirty-one marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -302,11 +303,11 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:001:002:008`, the eighth Chapter-2 `対策委員会編` unit after the Prologue and completed Chapter 1. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:001:002:009`, the ninth Chapter-2 `対策委員会編` unit after the Prologue and completed Chapter 1. They are mutable infrastructure, not frozen releases.
 
 ### Not yet created
 
-- `MAIN_V001_C002_E009` and later `対策委員会編` / subsequent main-story deep readings;
+- `MAIN_V001_C002_E010` and later `対策委員会編` / subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
 - adjudicated relationship syntheses;
@@ -349,31 +350,31 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E008.**
+**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E009.**
 
 The next mandatory sequential step is:
 
-1. begin `BA:main:001:002:009` as `BLUE_ARCHIVE_MAIN_V001_C002_E009_DEEP_READING.md`;
-2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E008 as the complete prior-information boundary;
-3. establish the PMC force/facility affiliation only from E009 evidence;
+1. begin `BA:main:001:002:010` as `BLUE_ARCHIVE_MAIN_V001_C002_E010_DEEP_READING.md`;
+2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E009 as the complete prior-information boundary;
+3. track the escape/encirclement outcome and any additional affiliation evidence;
 4. preserve title/jurisdiction distinction and differentiated Kaiser actors;
 5. track Hoshino's withdrawal-form knowledge separately from the full committee's knowledge;
 6. preserve all Black Suit/Hina-history firewalls;
 7. update all seven longitudinal ledgers and only materially affected claims;
 8. document source anomalies and choice topology;
-9. keep both E009 scenes together;
-10. do not read E010 before E009 is reconciled and committed.
+9. keep E010 standalone;
+10. do not read E011 before E010 is reconciled and committed.
 
 Next source unit:
 
-- story ID: `BA:main:001:002:009`;
-- scope: `MAIN_V001_C002_E009`;
+- story ID: `BA:main:001:002:010`;
+- scope: `MAIN_V001_C002_E010`;
 - arc: `対策委員会編`;
-- source title: `第9話;カイザーPMC（１）`;
-- canonical scene count: **2**;
-- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E009_DEEP_READING.md`.
+- source title: `第10話;カイザーPMC（２）`;
+- canonical scene count: **1**;
+- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E010_DEEP_READING.md`.
 
-E009 must remain **standalone** because each canonical unit is an atomic transaction and explicit affiliation may cross major Kaiser information firewalls.
+E010 must remain **standalone** because each canonical unit is an atomic transaction and the encirclement outcome may revise Sensei/Kaiser capability claims.
 
 ## 12. Reasoning recommendation
 
@@ -499,4 +500,14 @@ E007's forward frontier was E008; that unit is now complete.
 - Hina's warning is partially confirmed without collapsing Kaiser entities.
 - Contextual backfill remains **DEFER**; no `BA-C019` is opened.
 
-Proceed next to `BA:main:001:002:009` (`MAIN_V001_C002_E009`), `第9話;カイザーPMC（１）`, under strict local-information discipline.
+E008's forward frontier was E009; that unit is now complete.
+
+## C002 E009 state delta
+
+- `MAIN_V001_C002` is active through E009; coverage is **31 / 310**.
+- Kaiser PMC and its Corporation affiliation are established; Loan/Construction/Black Suit links remain OPEN.
+- professional combined-arms scale, not elite individual strength, defines the threat.
+- Ayane requests Sensei's tactical instructions after ordering escape; outcome remains pending.
+- Contextual backfill remains **DEFER**; no `BA-C019` is opened.
+
+Proceed next to `BA:main:001:002:010` (`MAIN_V001_C002_E010`), `第10話;カイザーPMC（２）`, under strict local-information discipline.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
-source_boundary: Sequential main-story reading through BA:main:001:002:008
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
+source_boundary: Sequential main-story reading through BA:main:001:002:009
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -175,3 +175,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Unknown security actor:** initiates capture/attack and treats the Abydos group as intruders; affiliation is not yet stated in-unit.
 - **Hina warning:** receives partial confirmation that a major defended project exists, not confirmation of function or corporate hierarchy.
 - **Abydos:** confronts armed exclusion on alienated territory, deepening the gap between historical polity and current title/control.
+
+## C002 E009 institutional delta — corporate army identified
+
+- **Kaiser PMC:** facility and force are verified; Ayane identifies it as a Kaiser Corporation affiliate with professional, army-like organization and combined arms.
+- **Kaiser Corporation:** PMC affiliation is now an established network edge. Construction, Loan, and Black Suit relations remain separately unproved.
+- **Recruitment:** corporate hiring of expelled/delinquent students is explicitly rumor, not fact.
+- **Corporate capacity:** alarms, tanks, helicopters, armored vehicles, and encirclement demonstrate effective territorial-military power without public mandate.

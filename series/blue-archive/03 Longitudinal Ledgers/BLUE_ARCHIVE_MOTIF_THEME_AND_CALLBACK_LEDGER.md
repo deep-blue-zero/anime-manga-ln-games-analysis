@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
-source_boundary: Sequential main-story reading through BA:main:001:002:008
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
+source_boundary: Sequential main-story reading through BA:main:001:002:009
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -320,3 +320,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Resident → intruder:** property capture changes who can name legitimate presence.
 - **Warning → partial confirmation:** hidden information becomes visible structure, while purpose remains concealed.
 - **Observation discipline:** dust-obscured alternatives are not flattened into a single facility identity.
+
+## C002 E009 motif / callback delta
+
+- **Brand repetition / differentiated entities:** `カイザー` saturates perception while evidence still permits only specific network edges.
+- **Individual strength / institutional scale:** threat lies in organization, vehicles, alarm, and encirclement more than elite combatants.
+- **Private army / public legitimacy:** military professionalism supplies capability, not authority.
+- **Delegated command:** Ayane retains policy and requests tactical coordination.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
-source_boundary: Sequential main-story reading through BA:main:001:002:008
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
+source_boundary: Sequential main-story reading through BA:main:001:002:009
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -186,6 +186,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Nonomi/Serika:** enter a major part of their own district for the first time, exposing territorial estrangement inside membership.
 - **Ayane:** maintains target-sector precision, negative-observation discipline, and continued vigilance.
 - **Sensei:** no dialogue, choice, or distinct causal contribution.
+
+## C002 E009 delta — combined-arms encirclement
+
+- **Ayane:** verifies insignia, classifies Kaiser PMC, detects combined-arms encirclement, orders escape, and explicitly delegates tactical instruction to Sensei.
+- **Hoshino:** recognizes Kaiser PMC before confirmation; knowledge route remains open.
+- **Nonomi:** defines PMC and marks student-recruitment information as rumor.
+- **Sensei:** returns as requested tactical coordinator, but no command text/outcome or personal-force evidence appears.
 
 ## C002 E008 delta — first facility contact
 

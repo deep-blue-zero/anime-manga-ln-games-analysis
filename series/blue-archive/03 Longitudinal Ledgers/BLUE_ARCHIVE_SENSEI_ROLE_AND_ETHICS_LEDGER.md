@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
-source_boundary: Sequential main-story reading through BA:main:001:002:008
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
+source_boundary: Sequential main-story reading through BA:main:001:002:009
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -371,3 +371,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 
 - No Sensei dialogue or choice occurs; student observation and defense author the encounter.
 - The unit adds no evidence about confidentiality, command, or personal combat capacity.
+
+## C002 E009 delta — requested escape command
+
+- No choice or command utterance is preserved, but Ayane explicitly asks Sensei for instructions after she identifies encirclement and orders escape.
+- Sensei's role is bounded tactical coordination downstream of student-authored threat analysis/policy; no personal combat supremacy appears.
+- Withdrawal-form confidentiality remains unchanged.

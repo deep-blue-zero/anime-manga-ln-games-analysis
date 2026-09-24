@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
-source_boundary: Sequential main-story reading through BA:main:001:002:008
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
+source_boundary: Sequential main-story reading through BA:main:001:002:009
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -191,3 +191,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Abydos ↔ facility security:** first contact is an unannounced capture attack; guards call the local expedition `侵入者` on land once governed by Abydos.
 - **Committee ensemble:** Ayane detects/classifies and Hoshino authorizes defense; no internal disagreement is shown.
 - Affiliation and longer-term relationship remain OPEN.
+
+## C002 E009 relationship delta — bounded command under corporate encirclement
+
+- **Abydos ↔ Kaiser PMC:** affiliation is confirmed and the relation becomes combined-arms encirclement; professionalism does not create consent or legitimacy.
+- **Ayane ↔ Sensei:** Ayane retains threat judgment/withdrawal policy and requests Sensei's tactical instructions, preserving delegated rather than substitutive authority.
+- No withdrawal-form relational change occurs.
