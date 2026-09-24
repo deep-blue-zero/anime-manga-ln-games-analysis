@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
-source_boundary: Sequential main-story reading through BA:main:001:002:018
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
+source_boundary: Sequential main-story reading through BA:main:001:002:019
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -276,3 +276,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **KAYOKO/MUTSUKI/HARUKA ↔ ARU:** group responses reinforce the commitment rather than reopening consent, even while sustaining collective courage.
 - **ABYDOS ↔ ORIGINAL SCHOOL:** present students physically reach the buried institutional center for the first time in this reading sequence.
 - **GEMATRIA ↔ KAISER / SITE:** Gematria requested the lab; Kaiser concentrates force around it, preserving cooperation without organizational merger.
+
+## C002 E019 relationship delta — reciprocal homecoming
+
+- **COMMITTEE ↔ HOSHINO:** collective rescue culminates in welcome/reply; belonging is reciprocally spoken rather than imposed.
+- **SENSEI ↔ HOSHINO:** Sensei's address is part of the recognition sequence, but students remain coequal causal/relational rescuers.
+- **HOSHINO ↔ UNNAMED SENIOR:** remembered senior values ordinary daily presence and anticipates Hoshino's future juniors; Yume/former-president identity remains inferential.
+- **SCHale ↔ ABYDOS:** helicopter/logistical support enables extraction without replacing student breach and reunion.
+- **KAISER DIRECTOR ↔ COMMITTEE:** the director admits deliberate punishment/morale-breaking and resentment of their joy; students explicitly refuse psychic defeat.
+- **COALITION ↔ RESCUE:** external holding/support is converted into actual passage, while supporter outcomes remain unreported.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
-source_boundary: Sequential main-story reading through BA:main:001:002:018
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
+source_boundary: Sequential main-story reading through BA:main:001:002:019
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -260,3 +260,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser PMC:** concentrates all mobile force for a total engagement, showing the site's operational priority.
 - **Problem Solver 68:** takes a rearguard role that opens the locally chosen rescue route; tactical outcome is not yet shown.
 - **Institutional appropriation:** captured historical infrastructure is converted into experimental infrastructure without erasing its prior identity.
+
+## C002 E019 institutional delta — lived institution retrieves its member
+
+- **Kaiser coercion:** director directly admits using many measures to punish, exhaust, and break the remaining students for his plan.
+- **Countermeasures Committee:** reaches the bunker, breaches it, and restores its senior member despite formal nonrecognition.
+- **Schale:** supplies helicopter/logistical capacity and requested combat coordination; no sovereign institutional takeover occurs.
+- **Abydos continuity:** joy, remembered daily life, rescue practice, and reciprocal `welcome home` constitute continuing institutional reality.
+- **Unresolved structures:** debt, title, official recognition, Kaiser force, contract status, laboratory fate, and corporate consequences remain OPEN at E019.

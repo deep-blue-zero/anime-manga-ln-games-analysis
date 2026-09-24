@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
-source_boundary: Sequential main-story reading through BA:main:001:002:018
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
+source_boundary: Sequential main-story reading through BA:main:001:002:019
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -243,6 +243,15 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **PS68:** assumes concentrated risk for Abydos without a client contract; outcome remains pending.
 - **Sensei:** has no direct line; prior coordinates remain useful while students author execution.
 - **Kaiser director:** identifies the buried main school, Gematria lab demand, and Hoshino's nearby building; experiment timing is speculative.
+
+## C002 E019 delta — rescued return and ordinary miracle
+
+- **Hoshino:** found alive/conscious, experiences a senior-memory callback, recognizes the group/adult, and actively replies `ただいま`.
+- **Unnamed senior / Yume hypothesis:** describes daily coexistence with Hoshino as a miracle and anticipates Hoshino's future juniors; identity remains strong inference.
+- **Serika:** leads the welcome she had called embarrassing, making guarded affection explicit under crisis.
+- **Ayane:** locates the bunker, requests Sensei's battle direction, and participates in Schale-helicopter-enabled extraction.
+- **Sensei:** provides requested direction/logistics and addresses Hoshino; no adult-card use or solitary rescue claim appears.
+- **Kaiser director:** admits deliberate morale-breaking methods and personal investment; exact battle disposition remains OPEN.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 

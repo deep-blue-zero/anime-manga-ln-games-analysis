@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
-source_boundary: Sequential main-story reading through BA:main:001:002:018
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
+source_boundary: Sequential main-story reading through BA:main:001:002:019
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -411,3 +411,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hold here / go ahead:** coalition works through differentiated roles, not undifferentiated mass.
 - **Ramen after the battle:** hospitality moves from remembered meal to future promise, making survival relationally prospective.
 - **Heroic line / private panic:** outward courage remains entangled with persona capture and fear.
+
+## C002 E019 motif / callback delta
+
+- **Joy frustrates coercion:** daily happiness is revealed as a condition the director tried and failed to destroy.
+- **Rare miracle / ordinary miracle:** Hoshino's former definition is answered by relational continuity across yesterday, today, and tomorrow.
+- **Senior's unfinished sentence / juniors arrive:** present rescue completes the remembered anticipation without explicit exposition.
+- **Bunker / helicopter / breach:** coalition capacity becomes physical passage to the isolated member.
+- **Welcome home / I'm home:** the planned callback is completed through Hoshino's chosen reply.
+- **Rescue without erasure of fault:** affectionate return precedes, but does not cancel, future accountability.

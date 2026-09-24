@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
-source_boundary: Sequential main-story reading through BA:main:001:002:018
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
+source_boundary: Sequential main-story reading through BA:main:001:002:019
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -610,6 +610,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `私に――`: Shiroko's interrupted singular begins another likely holding-sacrifice pattern without completing it.
 - `ここは私たちに任せて`: Aru's explicit line redistributes risk; later internal panic prevents a frictionless-voluntariness reading.
 - **Attribution caution:** `u:0029` and `u:0041` have voice/style mismatches; stable event claims rely on surrounding and explicit Aru lines.
+
+## C002 E019 delta — broken hearts, ordinary miracles, and return speech
+
+- `毎日毎日楽しそうに`: the director names continued enjoyment as the failure of deliberate morale-breaking.
+- `私たちの心は折れたりしない`: Serika explicitly locates resistance in the community's unbroken interior life.
+- `奇跡みたい`: the unnamed senior calls ordinary coexistence miraculous; younger Hoshino reserves miracle for rare grandeur.
+- `昨日も今日も、明日も`: continuity is temporal and relational, not merely territorial.
+- `おかえり` / `ただいま`: the call-and-response makes return reciprocal rather than declarative.
+- `大人が、ね`: Hoshino's recognition registers the adult's arrival without erasing the surrounding students.
+- **Projection anomaly:** `u:0033-0078` contains embedded speaker/control tokens as narration; speaker reconstruction remains cautious.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

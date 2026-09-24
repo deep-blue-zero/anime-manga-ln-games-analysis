@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:018
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
-current_sequential_boundary: MAIN_V001_C002 E018 complete; E019 next
+source_boundary: Sequential main-story reading through BA:main:001:002:019
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
+current_sequential_boundary: MAIN_V001_C002 E019 complete; E020 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -978,6 +978,23 @@ No `BA-C019` is opened.
 
 - **Established:** L118 support, buried main-building site, Gematria lab request, director-provided Hoshino building, PS68 rearguard offer.
 - **Not established:** experiment commencement, past-school superlatives, attribution of mismatched PS68 lines, successful hold, breakthrough, or rescue.
+
+## C002 E019 claim transitions
+
+- **BA-C001–C004: STRENGTHEN** — requested adult direction and Schale logistics enable a student-executed rescue without shown adult-card activation.
+- **BA-C005–C006: PRESERVE REJECTED strongly** — students locate, fight, breach, welcome, and restore relation.
+- **BA-C007–C011: STRENGTHEN sharply** — protection culminates in Hoshino's reciprocal re-entry, not transfer of possession.
+- **BA-C012–C014: STRENGTHEN / LIMIT** — the director admits coercive intent, but institutional consequences/force disposition remain unresolved.
+- **BA-C015: STRENGTHEN sharply** — lived institution survives through joy, memory, collective rescue, and reciprocal belonging.
+- **BA-C016–C017: STRENGTHEN sharply** — coalition restores Hoshino's practical/relational agency; future accountability remains necessary.
+- **BA-C018: STRENGTHEN sharply** — cross-group relationships mature into the passage enabling return. No `BA-C019` is opened.
+
+### C002 E019 epistemic firewall
+
+- **Established:** director's morale-breaking admission, requested Sensei direction, Schale helicopter, successful bunker entry, living Hoshino, welcome/reply.
+- **Strong inference:** successful breakthrough past the director; unnamed senior as Yume/former president.
+- **Not established:** director/supporter disposition, experiment commencement/effects, senior identity, or debt/title/recognition resolution.
+- **Source defect:** reunion speaker metadata is flattened; use embedded names/sequence cautiously.
 
 ## C002 E012 claim transitions
 

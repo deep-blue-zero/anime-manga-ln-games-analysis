@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
-source_boundary: Sequential main-story reading through BA:main:001:002:018
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E019
+source_boundary: Sequential main-story reading through BA:main:001:002:019
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -449,3 +449,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Hifumi support generated through the prior relational network opens a corridor without assigning mission command to Sensei.
 - Ayane/Shiroko author the immediate use of fire support; PS68 authors the holding offer.
 - The unit strengthens a connective/facilitative Sensei role while showing that execution remains student-distributed.
+
+## C002 E019 delta — commanded when asked, logistical rather than sovereign
+
+- No normalized choice occurs.
+- Ayane explicitly requests Sensei's combat direction at the final barrier, preserving delegated rather than presumed command.
+- Schale loans a helicopter for bunker access/extraction, making institutional logistics materially causal.
+- Students locate, breach, recognize, and welcome; Sensei's address joins rather than monopolizes rescue.
+- Hoshino's `ただいま` supplies recipient participation, strengthening restoration over possession.
+- No adult-card activation is shown; the rescue cannot be attributed to a hidden omnipotent mechanism.

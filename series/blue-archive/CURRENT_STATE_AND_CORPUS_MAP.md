@@ -18,15 +18,15 @@ updated: 2026-09-24
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E018. The next sequential unit is `BA:main:001:002:019` (`MAIN_V001_C002_E019`), source title `第19話;それでも手放さなかったもの（２）`.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E019. The next sequential unit is `BA:main:001:002:020` (`MAIN_V001_C002_E020`), source title `第20話;エピローグ`.**
 
-C002 E018 shows coalition support as passage rather than takeover: deniable L118 fire opens a corridor that Ayane/Shiroko use, and PS68 interrupts Shiroko's renewed solitary holding impulse by taking a rearguard role. The objective is the buried original Abydos main school, now the site of a Gematria-requested lab defended by Kaiser's concentrated force. Aru's private panic and attribution anomalies keep the holding offer from becoming frictionless heroism; Hoshino's experiment is not yet confirmed underway. Coverage is **40 / 310** units; all seven ledgers are reconciled through `BA:main:001:002:018`, with `BA-C001`–`BA-C018` still live.
+C002 E019 completes Hoshino's rescue and reciprocal return. The Kaiser director admits a deliberate morale-breaking campaign, but the students refuse psychic defeat; requested Sensei direction and a Schale-loaned helicopter help the group reach/breach the bunker. A senior-memory reframes miracle as ordinary daily coexistence, then `welcome home` receives Hoshino's chosen `I'm home`. Severe reunion speaker-metadata flattening is quarantined. Director/supporter disposition and debt/title/recognition remain unresolved. Coverage is **41 / 310** units; all seven ledgers are reconciled through `BA:main:001:002:019`, with `BA-C001`–`BA-C018` still live.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **40 / 310 canonical main units deep-read**;
+- main-story coverage: **41 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -67,7 +67,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E016_DEEP_READING.md` — **active_provisional**, Gematria-naming / adult-responsibility / advisor-consent / laboratory-intelligence unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E017_DEEP_READING.md` — **active_provisional**, plural-coalition / local-mission-control / rebuilt-hospitality / Iori-boundary unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E018_DEEP_READING.md` — **active_provisional**, enabling-artillery / buried-school-lab / interrupted-sacrifice / PS68-rearguard unit;
-- next source unit: `BA:main:001:002:019` (`MAIN_V001_C002_E019`), source title `第19話;それでも手放さなかったもの（２）`.
+- `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E019_DEEP_READING.md` — **active_provisional**, morale-admission / ordinary-miracle / Schale-extraction / reciprocal-return unit;
+- next source unit: `BA:main:001:002:020` (`MAIN_V001_C002_E020`), source title `第20話;エピローグ`.
 
 No specialist monograph or series-level synthesis exists yet. The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -300,8 +301,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V001_C001_E014_DEEP_READING.md` — fourteenth `対策委員会編` unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — final six Chapter-1 `対策委員会編` units, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` — **canonical Chapter-1 checkpoint**;
-- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E018_DEEP_READING.md` — first eighteen Chapter-2 `対策委員会編` units, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first forty marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E019_DEEP_READING.md` — first nineteen Chapter-2 `対策委員会編` units, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first forty-one marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -360,31 +361,31 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E018.**
+**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E019.**
 
 The next mandatory sequential step is:
 
-1. begin `BA:main:001:002:019` as `BLUE_ARCHIVE_MAIN_V001_C002_E019_DEEP_READING.md`;
-2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E018 as the complete prior-information boundary;
-3. track the holding/breakthrough action without presuming rescue or chapter resolution;
+1. begin `BA:main:001:002:020` as `BLUE_ARCHIVE_MAIN_V001_C002_E020_DEEP_READING.md`;
+2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E019 as the complete prior-information boundary;
+3. track epilogue resolution without importing Chapter 3;
 4. preserve Black Suit/Kaiser separation and the Yume identity firewall;
-5. track how support preserves or displaces Abydos control in execution;
-6. keep Hoshino/Black Suit experimental claims and committee knowledge separate;
+5. adjudicate rescue, supporter, Kaiser, contract, debt, title, and recognition consequences only as stated;
+6. keep source defects and actor testimony graded;
 7. update all seven longitudinal ledgers and only materially affected claims;
 8. document source anomalies and choice topology;
-9. keep both E019 scenes together;
-10. do not read E020 before E019 is reconciled and committed.
+9. keep E020's single scene intact;
+10. write the mandatory Chapter 2 checkpoint only after E020 is reconciled and committed.
 
 Next source unit:
 
-- story ID: `BA:main:001:002:019`;
-- scope: `MAIN_V001_C002_E019`;
+- story ID: `BA:main:001:002:020`;
+- scope: `MAIN_V001_C002_E020`;
 - arc: `対策委員会編`;
-- source title: `第19話;それでも手放さなかったもの（２）`;
-- canonical scene count: **2**;
-- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E019_DEEP_READING.md`.
+- source title: `第20話;エピローグ`;
+- canonical scene count: **1**;
+- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E020_DEEP_READING.md`.
 
-E019 must remain **standalone** because each canonical unit is an atomic transaction and rescue outcomes must not be imported prospectively.
+E020 must remain **standalone** because each canonical unit is an atomic transaction and checkpoint synthesis follows only after commit.
 
 ## 12. Reasoning recommendation
 
@@ -626,4 +627,16 @@ E017's forward frontier was E018; that unit is now complete.
 - suspicious PS68 speaker labels are quarantined; no claim depends on resolving them.
 - Contextual backfill remains **DEFER**; no `BA-C019` is opened.
 
-Proceed next to `BA:main:001:002:019` (`MAIN_V001_C002_E019`), `第19話;それでも手放さなかったもの（２）`, under strict local-information discipline.
+E018's forward frontier was E019; that unit is now complete.
+
+## C002 E019 state delta
+
+- `MAIN_V001_C002` is active through E019; coverage is **41 / 310**.
+- Hoshino is reached alive/conscious and reciprocally returns through `おかえり` / `ただいま`.
+- the director admits deliberate punishment/morale-breaking; his exact disposition remains OPEN.
+- requested Sensei direction and Schale helicopter logistics support a student-executed breach/rescue.
+- the unnamed senior's ordinary-miracle memory strongly links to Yume/former president but remains unnamed in-source.
+- reunion speaker/control metadata is severely flattened and quarantined.
+- Contextual backfill remains **DEFER**; no `BA-C019` is opened.
+
+Proceed next to `BA:main:001:002:020` (`MAIN_V001_C002_E020`), `第20話;エピローグ`, under strict local-information discipline.
