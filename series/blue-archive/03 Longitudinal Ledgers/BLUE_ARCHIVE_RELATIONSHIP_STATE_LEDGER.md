@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
-source_boundary: Sequential main-story reading through BA:main:001:002:007
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
+source_boundary: Sequential main-story reading through BA:main:001:002:008
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -185,3 +185,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino ↔ committee:** Hoshino mediates inherited desert/civic memory to members who have never visited; the knowledge gap deepens her elder role without resolving her secrecy.
 - **Abydos ↔ other academies:** historical sand-festival visitors establish a former cross-school social relation now preserved mainly as story.
 - No new Sensei or withdrawal-form relationship state is supplied.
+
+## C002 E008 relationship delta — residents recast as intruders
+
+- **Abydos ↔ facility security:** first contact is an unannounced capture attack; guards call the local expedition `侵入者` on land once governed by Abydos.
+- **Committee ensemble:** Ayane detects/classifies and Hoshino authorizes defense; no internal disagreement is shown.
+- Affiliation and longer-term relationship remain OPEN.

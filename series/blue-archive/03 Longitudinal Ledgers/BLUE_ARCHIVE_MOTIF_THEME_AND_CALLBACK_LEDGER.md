@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
-source_boundary: Sequential main-story reading through BA:main:001:002:007
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
+source_boundary: Sequential main-story reading through BA:main:001:002:008
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -313,3 +313,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Oasis → desert / festival → absence:** ecological loss becomes cultural and inter-academy loss.
 - **Inherited story → direct observation:** Hoshino transmits a past she partly knows only through record/oral memory to members seeing the space for the first time.
 - **Land as lived place:** title/collateral analysis expands to water, festival, residence, and social memory.
+
+## C002 E008 motif / callback delta
+
+- **Oasis → fenced installation:** vanished commons is replaced by kilometer-scale enclosure.
+- **Resident → intruder:** property capture changes who can name legitimate presence.
+- **Warning → partial confirmation:** hidden information becomes visible structure, while purpose remains concealed.
+- **Observation discipline:** dust-obscured alternatives are not flattened into a single facility identity.

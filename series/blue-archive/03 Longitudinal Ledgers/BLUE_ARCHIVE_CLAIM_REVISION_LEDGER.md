@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:007
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
-current_sequential_boundary: MAIN_V001_C002 E007 complete; E008 next
+source_boundary: Sequential main-story reading through BA:main:001:002:008
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
+current_sequential_boundary: MAIN_V001_C002 E008 complete; E009 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -886,3 +886,13 @@ No `BA-C019` is opened.
 - **BA-C016–C017: STRENGTHEN lightly** — meaningful governance requires territorial self-knowledge; Ayane keeps warning separate from proof.
 - **BA-C018: STRENGTHEN lightly** — the sand festival is historical cross-school contact infrastructure.
 - No `BA-C019` is opened; all withdrawal/Kaiser firewalls remain.
+
+## C002 E008 claim transitions
+
+- **BA-C001–C011: mostly PRESERVE**; BA-C006 rejection strengthens lightly through student detection/classification/defense.
+- **BA-C012: STRENGTHEN / PRESSURE-TEST** — a PMC-role force and large installation appear, but affiliation/hierarchy remain OPEN.
+- **BA-C013: PRESERVE** — no new transaction.
+- **BA-C014: STRENGTHEN sharply** — extra-school territorial, construction, and armed-security capacity is directly visible.
+- **BA-C015: STRENGTHEN** — Abydos faces physical enclosure/exclusion on lost land.
+- **BA-C016–C017: STRENGTHEN lightly** — title does not settle attack legitimacy; observation remains graded.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.

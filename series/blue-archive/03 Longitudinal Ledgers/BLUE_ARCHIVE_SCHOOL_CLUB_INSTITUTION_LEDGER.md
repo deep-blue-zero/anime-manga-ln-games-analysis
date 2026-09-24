@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
-source_boundary: Sequential main-story reading through BA:main:001:002:007
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
+source_boundary: Sequential main-story reading through BA:main:001:002:008
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -168,3 +168,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Abydos district:** historically included a vast oasis, habitation, and a sand festival drawing other academies; current desert/title analysis now carries cultural and civic loss.
 - **Countermeasures Committee:** most members have never accessed this part of their own district, showing how material decline narrows institutional self-knowledge.
 - **Investigation:** the Hina-identified sector remains ahead and the current landscape supplies no project evidence; warning remains distinct from confirmation.
+
+## C002 E008 institutional delta — fortified desert installation
+
+- **Unknown facility:** recent relative to Hoshino's visits, kilometer-fenced, city/factory/garrison scale, and guarded by PMC-role soldiers.
+- **Unknown security actor:** initiates capture/attack and treats the Abydos group as intruders; affiliation is not yet stated in-unit.
+- **Hina warning:** receives partial confirmation that a major defended project exists, not confirmation of function or corporate hierarchy.
+- **Abydos:** confronts armed exclusion on alienated territory, deepening the gap between historical polity and current title/control.

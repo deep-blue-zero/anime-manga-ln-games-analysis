@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
-source_boundary: Sequential main-story reading through BA:main:001:002:007
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
+source_boundary: Sequential main-story reading through BA:main:001:002:008
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -544,4 +544,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 
 - **Hoshino:** `久しぶり` marks direct prior desert experience, while `だったとか` and `私も実際に見たことはない` explicitly distinguish inherited oasis history from eyewitness memory.
 - **Ayane:** `見たところ` and `引き続き警戒` preserve current negative observation without treating it as disproof.
+- No material speaker anomaly appears.
+
+## C002 E008 delta — graded visual classification
+
+- **Ayane:** `町`, `工場`, `駐屯地` are explicitly alternative classifications under dust-obscured observation; later `正体不明` preserves nonidentification.
+- **Hoshino:** `昔は無かった` supplies a personal temporal comparison without an exact construction date.
+- **PMC soldiers:** `侵入者`, `捕らえろ`, `逃がすな` establish exclusion/capture register without naming affiliation.
 - No material speaker anomaly appears.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
-source_boundary: Sequential main-story reading through BA:main:001:002:007
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E008
+source_boundary: Sequential main-story reading through BA:main:001:002:008
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -185,4 +185,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** becomes the only current member with prior desert field experience through former-council work; her account distinguishes inherited oasis/festival history from what she personally saw.
 - **Nonomi/Serika:** enter a major part of their own district for the first time, exposing territorial estrangement inside membership.
 - **Ayane:** maintains target-sector precision, negative-observation discipline, and continued vigilance.
+- **Sensei:** no dialogue, choice, or distinct causal contribution.
+
+## C002 E008 delta — first facility contact
+
+- **Ayane:** distinguishes uncertain sighting, candidate functions, and direct observation before reporting an unidentified attacking force.
+- **Hoshino:** supplies the temporal baseline that the facility is new relative to former-council visits and leads immediate defense after attack.
+- **Committee:** transitions from investigation to self-defense only after PMC-role soldiers initiate capture/attack.
 - **Sensei:** no dialogue, choice, or distinct causal contribution.
