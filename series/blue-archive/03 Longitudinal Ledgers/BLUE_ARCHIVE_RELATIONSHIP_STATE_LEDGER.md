@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
-source_boundary: Sequential main-story reading through BA:main:001:002:001
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
+source_boundary: Sequential main-story reading through BA:main:001:002:002
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -141,3 +141,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ako ↔ Kayoko:** Kayoko reads Ako's conduct as an institutional pattern and correctly identifies Schale as the operation's real objective, though Ako says Kayoko's staging hypothesis is only half-right.
 - **Gehenna Prefect Team ↔ Abydos/PS68:** the relation expands from disputed arrest to a coalition defense against custody of Sensei; formal purpose no longer maps cleanly onto the force actually deployed.
 - **Gehenna ↔ Trinity:** a prospective treaty is introduced as Ako's strategic horizon. Its terms, status, and Tea Party knowledge remain OPEN.
+
+## C002 E002 relationship delta — apology, warning, and unresolved history
+
+- **Hina ↔ Ako:** becomes accountable hierarchy: Hina names the scope violation, suspends Ako, and defers the full explanation until return.
+- **Hina ↔ Abydos:** moves from inherited armed conflict to formal apology, non-incursion promise, and voluntary withdrawal. This is prospective restraint, not established trust or total exoneration.
+- **Hina ↔ Hoshino:** a prior asymmetrical knowledge relation opens; Hina remembers first-year Hoshino and an unspecified incident, while Hoshino appears not to recognize the connection.
+- **Hina ↔ Sensei:** begins through discretionary warning rather than custody. Hina transfers sensitive Kaiser information without claiming the response.
+- **Sensei ↔ Abydos:** Sensei promises Shiroko to disclose the warning to everyone later, reinforcing transparency toward the group.
+- **Abydos ↔ PS68:** PS68 escapes during the transition. The tactical alliance ends without adjudicating responsibility, sponsor, or friendship.

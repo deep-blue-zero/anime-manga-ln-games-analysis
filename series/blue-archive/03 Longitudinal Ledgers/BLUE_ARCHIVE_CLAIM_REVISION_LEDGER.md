@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:001
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
-current_sequential_boundary: MAIN_V001_C002 E001 complete; E002 next
+source_boundary: Sequential main-story reading through BA:main:001:002:002
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
+current_sequential_boundary: MAIN_V001_C002 E002 complete; E003 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -758,3 +758,35 @@ No `BA-C019` is opened. E001's strongest evidence revises the existing agency-pr
 - **Kayoko infers:** Schale is the true objective. Ako confirms this is partly correct but denies having staged the exact clash.
 - **Hina establishes:** Ako's independent cross-district deployment was not transparently authorized at chair level. Exact earlier order allocation remains unresolved because of source speaker anomalies.
 - **Audience/project preserve as OPEN:** treaty terms, Tea Party action, exact contents of Chinatsu's report, and any causal relationship between Hoshino's absence and Black Suit.
+
+## C002 E002 claim transitions
+
+| Claim | E002 transition | Reason at this boundary |
+|---|---|---|
+| BA-C001 | **STRENGTHEN** | Hina uses exceptional power to limit mandate, discipline overreach, apologize, and warn rather than possess. |
+| BA-C002 | **STRENGTHEN** | Sensei receives cross-school intelligence and commits to returning it to Abydos deliberation. |
+| BA-C003 | **STRENGTHEN** | Schale operates as an information bridge without replacing local governance. |
+| BA-C004 | **PRESERVE** | no new evidence changes the command/coordination + leverage + vulnerability model. |
+| BA-C005 | **PRESERVE REJECTED** | Hina and Abydos, not an omnipotent avatar, own the settlement. |
+| BA-C006 | **PRESERVE REJECTED** | Ayane manages escalation and collective reconstruction. |
+| BA-C007 | **STRENGTHEN** | apology and warning link restraint/service to accountability and recipient agency. |
+| BA-C008 | **STRENGTHEN** | paired choices vary epistemic persona/attention; structural receipt and disclosure converge. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no Arona/Shittim recurrence. |
+| BA-C010 | **STRENGTHEN** | Hina relinquishes force and Sensei returns privileged information to the group. |
+| BA-C011 | **STRENGTHEN** | student authority, committee competence, and adult connective usefulness coexist. |
+| BA-C012 | **PRESERVE / PRESSURE-TEST** | Kaiser Corporation's desert plot adds strategic pressure without proving a unified Kaiser hierarchy. |
+| BA-C013 | **PRESERVE** | no new Loan→Helmet Gang transaction evidence. |
+| BA-C014 | **STRENGTHEN** | Kaiser Corporation is independently reported to be pursuing an undisclosed desert project. |
+| BA-C015 | **PRESERVE** | acting on the warning has not yet tested Abydos's method identity. |
+| BA-C016 | **STRENGTHEN** | apology, non-incursion promise, withdrawal, and warning preserve recipient/local control. |
+| BA-C017 | **STRENGTHEN** | correction, nonrecurrence, information receipt, and group disclosure broaden agency's operational forms. |
+| BA-C018 | **PRESERVE** | no new Shiba Seki evidence. |
+
+No `BA-C019` is opened.
+
+### C002 E002 epistemic firewall
+
+- **Abydos sees:** Hina disciplines Ako, withdraws, apologizes, and promises no repeat unauthorized intrusion; Hoshino returns claiming sleep.
+- **Sensei additionally learns:** Hina reports that Kaiser Corporation is plotting something in the abandoned Abydos desert and says Pandemonium Society and the Tea Party do not yet know.
+- **Group disclosure:** Sensei promises Shiroko to tell everyone later; E002 does not yet stage that report.
+- **Audience/project preserve as OPEN:** Hoshino's absence cause, `あの事件`, Hina's incomplete Schale inference, Kaiser objective, and all cross-Kaiser hierarchy claims.

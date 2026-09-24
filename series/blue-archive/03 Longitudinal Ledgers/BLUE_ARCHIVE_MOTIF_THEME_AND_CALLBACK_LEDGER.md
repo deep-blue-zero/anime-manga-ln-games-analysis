@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
-source_boundary: Sequential main-story reading through BA:main:001:002:001
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
+source_boundary: Sequential main-story reading through BA:main:001:002:002
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -263,3 +263,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Information as security:** Ako treats the Tea Party's Schale report and Schale's uncertain status as strategic hazards. Institutional information flow becomes a motive for controlling a person.
 - **Accident without innocence:** Shiroko's inference about the restaurant preserves a recurring distinction between intent, causation, adopted responsibility, and accountability.
 - **Command as invitation:** Ayane's request that Sensei command the coalition answers Ako's custodial model with entrusted, bounded authority.
+
+## C002 E002 motif / callback delta
+
+- **Committee versus council:** Ayane's E001 distinction is repeated from Gehenna's side when Hina refuses to let the Prefect Team substitute for student government.
+- **Protection versus warning:** Ako responds to uncertainty with custody; Hina responds to Kaiser risk by transferring knowledge and leaving response control elsewhere.
+- **Unauthorized entry → prospective restraint:** `無断` becomes the object of official apology and a promise against recurrence.
+- **Strength as chosen withdrawal:** Hina's exceptional force is expressed through the capacity to stop, apologize, and remove an army in exact order.
+- **Private intelligence → collective deliberation:** Sensei promises to carry Hina's warning back to the full committee.
+- **Rest before interpretation:** the exhausted committee postpones synthesis rather than forcing certainty amid confusion.
+- **Visible idleness / hidden history:** Hoshino's `昼寝` and `おじさん` surface is placed against Hina's memory of first-year Hoshino and `あの事件`.

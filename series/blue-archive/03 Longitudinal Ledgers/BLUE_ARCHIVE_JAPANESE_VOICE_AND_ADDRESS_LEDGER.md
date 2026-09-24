@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
-source_boundary: Sequential main-story reading through BA:main:001:002:001
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
+source_boundary: Sequential main-story reading through BA:main:001:002:002
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -497,3 +497,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hina:** short interrogative pressure—why committee members are being moved independently outside the district—establishes supervisory authority and suspicion without narrating a full answer.
 - **Key lexicon:** `自治権`, `庇護下`, `安全に確保`, `お迎え`, `信頼には信頼で報いる`, `指揮`.
 - **Speaker anomalies:** scene 1 `u:0029-0032` alternates Ako/Iori across an internally inconsistent exchange, and scene 2 `u:0029`/`u:0034` are promoted as Hina although `委員長` address suggests otherwise. Preserve the exchange's structural content but quarantine exact speaker attribution and individual culpability.
+
+## C002 E002 delta — institutional Hina and a severely shifted middle span
+
+- **Hina:** clean lines establish categorical mandate (`風紀委員会であって、生徒会じゃない`), official accountability (`公式に謝罪する`), prospective restraint (`無断で侵入することは無いと約束する`), and tentative discretionary warning (`知らせておいた方が良いかもしれない`).
+- **Hoshino:** `うへ～`, `～かあ`, and `～じゃ～ん` restore the comic relaxed register while Hina contrasts it with a radically different first-year self.
+- **Ayane:** secure contextual turns move from threat classification to negotiation and `状況の整理`; rest is part of competent analysis rather than avoidance.
+- **Choice branching:** duplicate `そう` (`u:0118-0119`) and duplicate `義理はない` responses (`u:0125-0126`) follow two-option groups and are treated as branch-conditioned convergence, not repeated speech.
+- **Attribution quarantine:** `u:0029-0044` and `u:0054-0064` map multiple Ayane/Hoshino turns to Hina; `u:0068`, `u:0081-0082`, and `u:0084` also conflict with address/continuity. Use propositions and recoverable turn structure, not these mappings for fine-grained voice.
+- **Formatting anomaly:** `u:0121` interleaves `万魔殿`, its reading, and `ティーパーティー`; it securely names two uninformed political bodies but not a compound institution.

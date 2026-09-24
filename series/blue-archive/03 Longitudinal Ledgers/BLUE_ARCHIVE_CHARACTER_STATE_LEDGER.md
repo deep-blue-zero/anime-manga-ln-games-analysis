@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
-source_boundary: Sequential main-story reading through BA:main:001:002:001
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
+source_boundary: Sequential main-story reading through BA:main:001:002:002
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -138,3 +138,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Aru:** answers Abydos protection with `信頼には信頼で報いる`, converting unstable contact into reciprocal alliance, while still maintaining her false claim of intentional responsibility for the restaurant explosion.
 - **Haruka:** rescues the coalition by attacking the Prefect line, but her repeated willingness to expend herself preserves loyalty's self-negating danger.
 - **Sensei:** becomes both the object of proposed protective custody and the commander explicitly requested by the affected students; the contrast sharpens the difference between possession and entrusted authority.
+
+## C002 E002 delta — scope-limited command and returned intelligence
+
+- **Hina:** enters as an exceptionally capable leader who limits her own institution: she reconstructs but rejects Ako's political overreach, orders suspension, apologizes formally to Abydos, promises non-incursion, withdraws, and warns Sensei about Kaiser activity rather than trying to control his response.
+- **Ako:** accepts suspension; her security analysis is reclassified as unauthorized mandate expansion, though changed belief is not shown.
+- **Hoshino:** returns with a `昼寝` explanation that does not settle his absence. Hina remembers a radically different first-year Hoshino and `あの事件`, opening history rather than explaining it.
+- **Ayane:** strengthens as risk governor—stops Shiroko's immediate fight impulse, favors negotiation, and schedules collective reconstruction after rest.
+- **Shiroko:** remains combat-forward but accepts Ayane's restraint, then asks Sensei about Hina's private message and accepts delayed group disclosure.
+- **Sensei:** receives privileged Kaiser intelligence and promises to return it to the committee; connective information stewardship strengthens without displacing student governance.

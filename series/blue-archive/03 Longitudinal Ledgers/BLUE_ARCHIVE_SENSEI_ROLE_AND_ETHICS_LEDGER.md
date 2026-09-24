@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
-source_boundary: Sequential main-story reading through BA:main:001:002:001
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
+source_boundary: Sequential main-story reading through BA:main:001:002:002
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -323,3 +323,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Role assigned by the coalition:** Ayane explicitly asks Sensei to command both Abydos and PS68 after the students decide to resist. This is delegated, task-specific authority rather than appropriation of local policy.
 - **Capability:** Ako's disproportionate deployment and continued escalation corroborate Sensei's strategic force-multiplier reputation, while the students' own pincer, shield, and rescue actions preserve distributed competence.
 - **Ethical comparison:** E001 gives a controlled contrast between two kinds of `protection`: seize a person for a future institutional settlement, or defend that person's agency and then request their help. Legitimate authority is invited, bounded, and answerable to those who bear its consequences.
+
+## C002 E002 delta — warning recipient and information steward
+
+- **Choice-space:** six groups; four singleton responses and two mutually exclusive two-option variants. The alternatives vary claimed Kaiser knowledge and attentional emphasis, not route sovereignty.
+- **Settlement role:** Sensei does not visibly cause Hina's apology or withdrawal. Hina and Abydos own the political settlement.
+- **Information role:** Hina privately warns Sensei about Kaiser Corporation activity in the Abydos desert. Sensei then promises Shiroko to tell everyone later.
+- **Ethical significance:** privileged information is held temporarily but routed back to collective deliberation, preserving Schale as connective/additive rather than substitutive.
+- **Contrast:** Hina's warning gives the recipient actionable knowledge without custody, providing an agency-preserving alternative to Ako's E001 protection model.

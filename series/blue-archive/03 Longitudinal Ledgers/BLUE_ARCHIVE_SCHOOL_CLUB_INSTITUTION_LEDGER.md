@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
-source_boundary: Sequential main-story reading through BA:main:001:002:001
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
+source_boundary: Sequential main-story reading through BA:main:001:002:002
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -123,3 +123,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Problem Solver 68:** joins Abydos against Prefect Team coercion through reciprocal trust. This does not legalize its prior conduct or dissolve its internal command failures.
 - **Tea Party / Trinity:** Chinatsu's report has apparently reached the Tea Party, and a future Gehenna–Trinity treaty becomes strategically relevant. The report's contents and treaty process are not yet established.
 - **Institutional legitimacy principle:** calling seizure `庇護` or `安全に確保` does not make it consensual protection. Safety provision becomes domination when the protected actor cannot refuse or leave.
+
+## C002 E002 institutional delta — mandate correction and non-incursion guarantee
+
+- **Gehenna Prefect Team:** Hina defines it as a disciplinary committee, not Gehenna's student government. Its coercive power is subjected to internal scope, discipline, official apology, withdrawal, and a promise against future unauthorized Abydos entry.
+- **Pandemonium Society:** introduced as the Gehenna body with formal school-political responsibility for Schale, Tea Party, and federal-president matters; Hina's contempt does not transfer that mandate to her committee.
+- **Abydos Countermeasures Committee:** receives official recognition as apology addressee and a prospective non-incursion guarantee, strengthening its de facto external standing.
+- **Kaiser Corporation:** a credible independent warning places an undisclosed Kaiser project in the abandoned Abydos desert. Purpose, mechanism, and ties to Kaiser Loan/PMC/Black Suit remain OPEN.
+- **Tea Party / Pandemonium information states:** Hina says neither yet knows the desert intelligence; this is her current report, not permanent omniscience.
+- **Problem Solver 68:** escapes without institutional disposition. The jurisdiction dispute closes procedurally only for Prefect withdrawal, not for PS68 accountability.
