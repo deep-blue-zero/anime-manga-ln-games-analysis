@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:006
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
-current_sequential_boundary: MAIN_V001_C002 E006 complete; E007 next
+source_boundary: Sequential main-story reading through BA:main:001:002:007
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
+current_sequential_boundary: MAIN_V001_C002 E007 complete; E008 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -877,3 +877,12 @@ No `BA-C019` is opened.
 - **BA-C016: STRENGTHEN / REVISE** — title/information advantage cannot alone legitimate coercion against a resident institution.
 - **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
 - **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E007 claim transitions
+
+- **BA-C001–C011: PRESERVE**, with BA-C006 rejection lightly strengthened by student-authored navigation/history/risk control.
+- **BA-C012–C014: PRESERVE** — no new Kaiser relation or project fact.
+- **BA-C015: STRENGTHEN** — Abydos survival includes cultural geography and inherited civic memory.
+- **BA-C016–C017: STRENGTHEN lightly** — meaningful governance requires territorial self-knowledge; Ayane keeps warning separate from proof.
+- **BA-C018: STRENGTHEN lightly** — the sand festival is historical cross-school contact infrastructure.
+- No `BA-C019` is opened; all withdrawal/Kaiser firewalls remain.

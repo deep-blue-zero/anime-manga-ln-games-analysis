@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
-source_boundary: Sequential main-story reading through BA:main:001:002:006
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
+source_boundary: Sequential main-story reading through BA:main:001:002:007
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -539,3 +539,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Shiroko:** `そんなに重要じゃない` does not deny title facts; it refuses to let them totalize the moral evaluation of coercive conduct.
 - **Serika:** `どうして他の学園の生徒が` makes information asymmetry the central question.
 - **Recall caveat:** `u:0013`/`u:0019` are earlier Prefect statements, not present dialogue; `u:0013` intersects the known E001 speaker-mapping anomaly and is quarantined for exact voice.
+
+## C002 E007 delta — memory with source qualification
+
+- **Hoshino:** `久しぶり` marks direct prior desert experience, while `だったとか` and `私も実際に見たことはない` explicitly distinguish inherited oasis history from eyewitness memory.
+- **Ayane:** `見たところ` and `引き続き警戒` preserve current negative observation without treating it as disproof.
+- No material speaker anomaly appears.

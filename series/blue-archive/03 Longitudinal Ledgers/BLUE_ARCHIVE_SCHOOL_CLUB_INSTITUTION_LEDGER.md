@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
-source_boundary: Sequential main-story reading through BA:main:001:002:006
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
+source_boundary: Sequential main-story reading through BA:main:001:002:007
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -162,3 +162,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Gehenna Prefect Team:** earlier `付近` / not-yet-illegal wording may reflect superior cadastral knowledge; this is a graded hypothesis, not proof.
 - **Institutional legitimacy:** information advantage and property title do not retrospectively authorize hostile custody or erase a resident institution's reasoned defense.
 - **Expedition:** logistics, hazard assessment, and weapons checks are committee-managed; no new Kaiser project fact is yet discovered.
+
+## C002 E007 institutional delta — lost civic ecology
+
+- **Abydos district:** historically included a vast oasis, habitation, and a sand festival drawing other academies; current desert/title analysis now carries cultural and civic loss.
+- **Countermeasures Committee:** most members have never accessed this part of their own district, showing how material decline narrows institutional self-knowledge.
+- **Investigation:** the Hina-identified sector remains ahead and the current landscape supplies no project evidence; warning remains distinct from confirmation.

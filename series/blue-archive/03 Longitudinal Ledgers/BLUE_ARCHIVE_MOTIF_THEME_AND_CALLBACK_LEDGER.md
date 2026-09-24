@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
-source_boundary: Sequential main-story reading through BA:main:001:002:006
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
+source_boundary: Sequential main-story reading through BA:main:001:002:007
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -307,3 +307,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Information inequality:** Gehenna may know Abydos facts before Abydos, but knowledge does not equal mandate.
 - **`付近` versus `中`:** a small locative distinction becomes evidence of hidden institutional knowledge.
 - **Rail end / walking:** investigation becomes embodied commitment through dangerous, infrastructure-poor space.
+
+## C002 E007 motif / callback delta
+
+- **Oasis → desert / festival → absence:** ecological loss becomes cultural and inter-academy loss.
+- **Inherited story → direct observation:** Hoshino transmits a past she partly knows only through record/oral memory to members seeing the space for the first time.
+- **Land as lived place:** title/collateral analysis expands to water, festival, residence, and social memory.

@@ -18,15 +18,15 @@ updated: 2026-09-23
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E006. The canonical Chapter 1 synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. The next sequential unit is `BA:main:001:002:007` (`MAIN_V001_C002_E007`), source title `第7話;アビドス砂漠へ（２）`.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E007. The next sequential unit is `BA:main:001:002:008` (`MAIN_V001_C002_E008`), source title `第8話;アビドス砂漠へ（３）`.**
 
-C002 E006 begins the desert expedition and retrospectively tests the Abydos–Gehenna sovereignty judgment. Ayane notices that Prefect wording may have encoded prior knowledge that the encounter location was near, rather than documentarily inside, Abydos-owned territory. Shiroko distinguishes title from coercive conduct: new cadastral facts can revise a premise without retroactively legitimizing Ako's custody operation or making Ayane's resistance unreasonable. Gehenna's possible information advantage remains a hypothesis, and no new Kaiser project fact is discovered. Sensei has no choices or distinct causal contribution in this student-authored epistemic/logistical unit. Coverage is **28 / 310** canonical main-story units. All seven ledgers are reconciled through `BA:main:001:002:006`; the live claim set remains `BA-C001`–`BA-C018`.
+C002 E007 supplies no Kaiser-project reveal. It instead restores the abandoned desert as a lost civic ecology: Hoshino remembers former-council visits and narrates an inherited history of a vast oasis and sand festival that once drew other academies, while the younger members enter this part of their own district for the first time. Ayane keeps the Hina-identified sector ahead and current negative observation distinct from disproof. Coverage is **29 / 310** canonical main-story units; all seven ledgers are reconciled through `BA:main:001:002:007`, with `BA-C001`–`BA-C018` still live.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **28 / 310 canonical main units deep-read**;
+- main-story coverage: **29 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -55,7 +55,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E004_DEEP_READING.md` — **active_provisional**, Hoshino-secrecy / collective-privacy / cadastral-proof / Kaiser-Construction unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E005_DEEP_READING.md` — **active_provisional**, former-council / debt-land-trap / shared-warning / withdrawal-form unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E006_DEEP_READING.md` — **active_provisional**, desert-expedition / title-versus-jurisdiction / retrospective-correction unit;
-- next source unit: `BA:main:001:002:007` (`MAIN_V001_C002_E007`), source title `第7話;アビドス砂漠へ（２）`.
+- `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E007_DEEP_READING.md` — **active_provisional**, lost-oasis / sand-festival / inherited-landscape-memory unit;
+- next source unit: `BA:main:001:002:008` (`MAIN_V001_C002_E008`), source title `第8話;アビドス砂漠へ（３）`.
 
 No specialist monograph or series-level synthesis exists yet. The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -287,8 +288,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V001_C001_E014_DEEP_READING.md` — fourteenth `対策委員会編` unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — final six Chapter-1 `対策委員会編` units, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` — **canonical Chapter-1 checkpoint**;
-- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E006_DEEP_READING.md` — first six Chapter-2 `対策委員会編` units, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first twenty-eight marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E007_DEEP_READING.md` — first seven Chapter-2 `対策委員会編` units, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first twenty-nine marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -300,11 +301,11 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:001:002:006`, the sixth Chapter-2 `対策委員会編` unit after the Prologue and completed Chapter 1. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:001:002:007`, the seventh Chapter-2 `対策委員会編` unit after the Prologue and completed Chapter 1. They are mutable infrastructure, not frozen releases.
 
 ### Not yet created
 
-- `MAIN_V001_C002_E007` and later `対策委員会編` / subsequent main-story deep readings;
+- `MAIN_V001_C002_E008` and later `対策委員会編` / subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
 - adjudicated relationship syntheses;
@@ -347,31 +348,31 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E006.**
+**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E007.**
 
 The next mandatory sequential step is:
 
-1. begin `BA:main:001:002:007` as `BLUE_ARCHIVE_MAIN_V001_C002_E007_DEEP_READING.md`;
-2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E006 as the complete prior-information boundary;
-3. continue direct desert observation without importing the later project reveal;
+1. begin `BA:main:001:002:008` as `BLUE_ARCHIVE_MAIN_V001_C002_E008_DEEP_READING.md`;
+2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E007 as the complete prior-information boundary;
+3. continue direct desert observation without importing later project knowledge;
 4. preserve title/jurisdiction distinction and differentiated Kaiser actors;
 5. track Hoshino's withdrawal-form knowledge separately from the full committee's knowledge;
 6. preserve all Black Suit/Hina-history firewalls;
 7. update all seven longitudinal ledgers and only materially affected claims;
 8. document source anomalies and choice topology;
-9. keep both E007 scenes together;
-10. do not read E008 before E007 is reconciled and committed.
+9. keep both E008 scenes together;
+10. do not read E009 before E008 is reconciled and committed.
 
 Next source unit:
 
-- story ID: `BA:main:001:002:007`;
-- scope: `MAIN_V001_C002_E007`;
+- story ID: `BA:main:001:002:008`;
+- scope: `MAIN_V001_C002_E008`;
 - arc: `対策委員会編`;
-- source title: `第7話;アビドス砂漠へ（２）`;
+- source title: `第8話;アビドス砂漠へ（３）`;
 - canonical scene count: **2**;
-- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E007_DEEP_READING.md`.
+- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E008_DEEP_READING.md`.
 
-E007 must remain **standalone** because each canonical unit is an atomic transaction and direct desert observation may cross major Kaiser information firewalls.
+E008 must remain **standalone** because each canonical unit is an atomic transaction and direct desert observation may cross major Kaiser information firewalls.
 
 ## 12. Reasoning recommendation
 
@@ -477,4 +478,14 @@ E005's forward frontier was E006; that unit is now complete.
 - Hoshino withdrawal-form and Kaiser project questions remain OPEN.
 - Contextual backfill remains **DEFER**; no `BA-C019` is opened.
 
-Proceed next to `BA:main:001:002:007` (`MAIN_V001_C002_E007`), `第7話;アビドス砂漠へ（２）`, under strict local-information discipline.
+E006's forward frontier was E007; that unit is now complete.
+
+## C002 E007 state delta
+
+- `MAIN_V001_C002` is active through E007; coverage is **29 / 310**.
+- Hoshino is the only current member with prior desert field experience through council work.
+- the lost oasis and sand festival expand Abydos from title/collateral into inherited cultural geography.
+- the Hina-identified sector remains ahead; no Kaiser project fact is yet observed.
+- Contextual backfill remains **DEFER**; no `BA-C019` is opened.
+
+Proceed next to `BA:main:001:002:008` (`MAIN_V001_C002_E008`), `第8話;アビドス砂漠へ（３）`, under strict local-information discipline.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
-source_boundary: Sequential main-story reading through BA:main:001:002:006
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
+source_boundary: Sequential main-story reading through BA:main:001:002:007
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -361,3 +361,8 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - There are no Sensei choice groups or direct utterances.
 - Prior continuity places Sensei with the expedition, but the canonical unit gives logistics, questioning, reinterpretation, reassurance, and continuation to the students.
 - The absence of adult intervention strengthens the additive/non-substitutive model; it supplies no new evidence about the withdrawal-form confidentiality decision.
+
+## C002 E007 delta — no new direct intervention
+
+- No Sensei dialogue or choices occur; cultural narration, navigation, and risk control remain student-authored.
+- No evidence changes the withdrawal-form confidentiality decision or Sensei's established role.

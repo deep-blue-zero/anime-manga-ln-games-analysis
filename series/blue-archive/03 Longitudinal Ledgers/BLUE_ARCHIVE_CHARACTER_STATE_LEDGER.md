@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E006
-source_boundary: Sequential main-story reading through BA:main:001:002:006
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E007
+source_boundary: Sequential main-story reading through BA:main:001:002:007
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -179,3 +179,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Serika:** challenges the provenance of Hina's superior knowledge instead of accepting institutional authority uncritically.
 - **Hoshino:** supports direct verification and continued movement; no withdrawal-form or absence clarification occurs.
 - **Sensei:** has no dialogue/choice or distinct new causal contribution; student analysis authors the unit.
+
+## C002 E007 delta — inherited landscape memory
+
+- **Hoshino:** becomes the only current member with prior desert field experience through former-council work; her account distinguishes inherited oasis/festival history from what she personally saw.
+- **Nonomi/Serika:** enter a major part of their own district for the first time, exposing territorial estrangement inside membership.
+- **Ayane:** maintains target-sector precision, negative-observation discipline, and continued vigilance.
+- **Sensei:** no dialogue, choice, or distinct causal contribution.
