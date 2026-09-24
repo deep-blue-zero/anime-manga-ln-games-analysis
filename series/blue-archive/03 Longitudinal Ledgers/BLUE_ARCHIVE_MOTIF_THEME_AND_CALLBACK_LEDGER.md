@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
-source_boundary: Sequential main-story reading through BA:main:001:002:016
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
+source_boundary: Sequential main-story reading through BA:main:001:002:017
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -392,3 +392,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Finite card / ordinary life:** care is framed as costly expenditure against Black Suit's invitation to reserve life for oneself.
 - **Welcome home plus scolding:** rescue means restored belonging and answerability, not innocence or possession.
 - **Solitary encounter → coalition idea:** adult action returns information to group planning instead of ending the crisis alone.
+
+## C002 E017 motif / callback delta
+
+- **Kneeling for students / boundary crossed:** humility and professional impropriety occupy the same comic action.
+- **Indirect armies / local route:** large-school force enables rather than authors the rescue operation.
+- **Destroyed shop / living stall:** institutional continuity moves from building to repeatable community practice.
+- **Repair money bears fruit:** E003's incomplete reparation materially enables reopening and renewed aid.
+- **Ramen as compensation:** hospitality is reinterpreted as sufficient payment for dangerous solidarity, while Aru's fear remains.
+- **Persona capture toward care:** the same performance mechanism that enabled harm now sustains prosocial risk.
+- **People over shell:** the master's store theory answers the director's school-disappearance theory without denying material loss.

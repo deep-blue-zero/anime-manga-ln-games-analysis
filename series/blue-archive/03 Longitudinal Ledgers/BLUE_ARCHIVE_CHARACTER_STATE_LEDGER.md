@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
-source_boundary: Sequential main-story reading through BA:main:001:002:016
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
+source_boundary: Sequential main-story reading through BA:main:001:002:017
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -223,6 +223,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** withdrawal status becomes procedurally contestable; she remains absent and voiceless in the unit.
 - **Shiroko:** explicitly recognizes current force insufficiency and turns toward coalition rather than solo rescue.
 - **Committee:** frames rescue as return plus accountability and renewed belonging, not victim idealization.
+
+## C002 E017 delta — coalition preparation and boundary complication
+
+- **Sensei:** mobilizes Gehenna/Trinity-linked support and returns location intelligence, while immediate compliance with Iori's foot-licking taunt creates a serious adult–student boundary complication.
+- **Hina:** responds to the student-focused plea by personally blocking battalion-scale reinforcement and protecting Sensei's approach.
+- **Iori:** taunting access condition becomes unexpected physical compliance; surprise/disgust leaves negotiated consent doubtful.
+- **Hifumi / Nagisa:** Hifumi mediates the request; Nagisa authorizes indirect heavy support under treaty constraint and mixed protective/strategic motives.
+- **Aru:** proceeds toward near-certain danger without pay, but persona, gratitude, and group momentum again constrain retreat.
+- **Ayane:** updates maps, integrates Sensei's intelligence, chooses the safest route, and declares the rescue operation.
+- **Ramen master:** rebuilds from a stall and articulates relational continuity over destroyed form.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 

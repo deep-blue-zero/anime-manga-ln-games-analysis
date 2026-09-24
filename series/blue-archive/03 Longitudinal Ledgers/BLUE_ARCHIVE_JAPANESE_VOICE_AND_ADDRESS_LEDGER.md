@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
-source_boundary: Sequential main-story reading through BA:main:001:002:016
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
+source_boundary: Sequential main-story reading through BA:main:001:002:017
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -589,6 +589,17 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `大人のカードを出す`: presentation is explicit; activation/effect is not.
 - `ミメシス`, `神秘の裏側`, `恐怖`, `狼の神`: new research vocabulary enters as Black Suit's explanation; referents/mechanics remain OPEN.
 - **Topology caution:** duplicated branch convergence and the `心の声`/responsive-dialogue mismatch must not generate multiple events or telepathy.
+
+## C002 E017 delta — kneeling, debt, and restart
+
+- `土下座して私の足でも舐めたら`: Iori frames an access taunt; ensuing reactions establish compliance despite no explicit action narration.
+- `生徒のために跪く先生`: Hina moralizes the visible posture before Iori corrects the incomplete interpretation.
+- `例外`, `屋外授業`, `ピクニック`: Nagisa uses euphemism/administrative cover to route politically constrained support.
+- `借りを作っておいた方が`: assistance includes strategic reciprocity toward Sensei.
+- `依頼料なんて、このラーメンが味わえただけで十分`: Mutsuki supplies Aru's noble rationale; Aru's internal monologue shows it is not simply self-authored.
+- `またやり直せばいい` / `お客さんがいる限り、店は消えない`: the master defines continuity through renewed practice and people.
+- `救出作戦`: Ayane names a committee-authored operation rather than generic adult rescue.
+- **Count caution:** `3人` conflicts with four named Prefect voices; no precise formation claim is promoted.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

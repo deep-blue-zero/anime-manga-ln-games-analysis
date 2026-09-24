@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
-source_boundary: Sequential main-story reading through BA:main:001:002:016
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
+source_boundary: Sequential main-story reading through BA:main:001:002:017
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -242,3 +242,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Gematria exploitation model:** admits using disaster-created vulnerability within rule form and offers school/PMC relief in exchange for Hoshino.
 - **Abydos desert PMC base:** central laboratory is identified as Hoshino's stated experiment location.
 - **Rule legitimacy:** the same episode contrasts rule-compliant exploitation with procedural consent used to interrupt a coerced exit.
+
+## C002 E017 institutional delta — distributed coalition, local mission control
+
+- **Gehenna Prefect Team:** Hina, Ako, Iori, and Chinatsu interdict northern reinforcements; exact visible formation count is ambiguous.
+- **Trinity / Tea Party:** treaty constraints lead Nagisa to route L118 support through an outdoor class/picnic under Hifumi's execution.
+- **Shiba Seki:** reopens as a stall; customer/community continuity survives destruction of the building.
+- **Problem Solver 68:** unpaid coalition role is relationally enabled and persona-pressured rather than contract-owned.
+- **Countermeasures Committee:** updates maps, selects the safest route, integrates Sensei intelligence, and formally launches the rescue operation.
+- **Control distribution:** external actors block/support; Abydos defines destination, route, and object. Exact prior approval of every supporting deployment remains unstated.

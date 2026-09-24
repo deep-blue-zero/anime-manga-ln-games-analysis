@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:016
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
-current_sequential_boundary: MAIN_V001_C002 E016 complete; E017 next
+source_boundary: Sequential main-story reading through BA:main:001:002:017
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
+current_sequential_boundary: MAIN_V001_C002 E017 complete; E018 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -947,6 +947,22 @@ No `BA-C019` is opened.
 - **Established:** Gematria name/self-description, repeated refusals, unsigned advisor status challenge, adult-card presentation, lab location, experiment statement, and coalition planning.
 - **Black Suit testimony only:** sandstorm natural causation, precise card cost, outsider ontology, former ruler-level power, Mimesis/fear mechanism.
 - **Not established:** card activation, `wolf god` identity, collapsed-premise cause, complete information returned to students, or Sensei's ally plan.
+
+## C002 E017 claim transitions
+
+- **BA-C001: PRESSURE-TEST sharply** — student-focused self-abasement coexists with a serious adult/student bodily and professional boundary problem.
+- **BA-C002–C004: STRENGTHEN sharply** — Sensei mobilizes plural capacities and returns intelligence while Ayane retains operational authorship.
+- **BA-C005–C006: PRESERVE REJECTED** — student intermediaries, leaders, logistics, and forces remain causal.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE** — support is distributed/non-sovereign, but not every adult means is ethically sound.
+- **BA-C012–C014: PRESERVE / STRENGTHEN capacity contrast** — coalition answers Kaiser scale without changing actor separation.
+- **BA-C015: STRENGTHEN sharply** — Shiba Seki supplies a people/practice theory of institutional persistence; Abydos authors rescue.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE** — recipient control is preserved, while persona capture and boundary crossing expose agency risks within supportive relations.
+- **BA-C018: STRENGTHEN sharply** — hospitality, repair, gratitude, and return generate material coalition capacity. No `BA-C019` is opened.
+
+### C002 E017 epistemic firewall
+
+- **Established:** Iori interaction, Hina interdiction, Hifumi-mediated Nagisa support, stall reopening, PS68 continuation, and Ayane-authored launch.
+- **Not established:** exact Sensei/Hina request, later Trinity effect, all-support committee preapproval, precise four-versus-three Prefect formation, or rescue outcome.
 
 ## C002 E012 claim transitions
 

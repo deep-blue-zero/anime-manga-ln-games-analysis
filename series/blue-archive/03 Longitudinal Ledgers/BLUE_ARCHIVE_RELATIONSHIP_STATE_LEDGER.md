@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
-source_boundary: Sequential main-story reading through BA:main:001:002:016
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
+source_boundary: Sequential main-story reading through BA:main:001:002:017
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -258,3 +258,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **BLACK SUIT ↔ HOSHINO:** research-object relation is specified through mystic/fear experimentation at the desert lab.
 - **BLACK SUIT/GEMATRIA ↔ KAISER:** separate actors remain; Gematria claims it can resolve PMC, suggesting leverage without collapsing hierarchy.
 - **COMMITTEE ↔ HOSHINO:** anticipated `welcome home`, scolding, and reply make restored accountable membership the rescue goal.
+
+## C002 E017 relationship delta — plural aid and compromised access
+
+- **SENSEI ↔ IORI:** Sensei complies with a humiliating foot-contact taunt to obtain access; comic framing does not erase adult/student boundary and consent concerns.
+- **SENSEI ↔ HINA:** Hina interprets the approach as self-abasement for students, asks the need, and later supplies bounded reinforcement interdiction.
+- **HIFUMI ↔ NAGISA:** Hifumi's report activates trust/affection and delegated support; Nagisa also anticipates reciprocal love and strategic debt.
+- **SHIBA SEKI ↔ PS68:** repair money, a request to continue, shared meal, and reopened stall turn incomplete reparation into renewed community practice.
+- **PS68 ↔ ABYDOS:** gratitude and hospitality deepen voluntary aid, while Aru's persona capture prevents a simple free-choice account.
+- **ABYDOS ↔ EXTERNAL COALITION:** Abydos retains mission/route authorship while supporters provide interdiction, heavy support, force, and intelligence channels.

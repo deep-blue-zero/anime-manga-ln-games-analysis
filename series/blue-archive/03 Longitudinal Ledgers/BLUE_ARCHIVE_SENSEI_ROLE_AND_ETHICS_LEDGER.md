@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
-source_boundary: Sequential main-story reading through BA:main:001:002:016
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
+source_boundary: Sequential main-story reading through BA:main:001:002:017
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -432,3 +432,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Relinquished sovereignty:** Black Suit says Sensei once held enormous Kivotos authority/mystery and freely released it, strengthening non-domination as chosen practice.
 - **Adult card:** presented but not shown activated; unique-weapon status and life/time cost are Black Suit's partly qualified account.
 - **Collective return:** Sensei brings information back, joins welcome-home/accountability planning, and proposes allies rather than a solitary solution.
+
+## C002 E017 delta — effective coalition, unacceptable shortcut
+
+- **Choice topology:** two groups; the first offers two pride-denial variants after the physical gag has occurred, the second launches the mission.
+- **Boundary failure:** immediate foot-licking compliance with Iori's taunt is adult/student physical conduct with surprised, ambiguously conditional consent; student-serving intent does not cure it.
+- **Humility signal:** Hina reads the kneeling posture as unprecedented adult self-abasement for students before learning the detail.
+- **Relational capacity:** Sensei activates Hina and Hifumi/Nagisa channels and returns lab-location intelligence.
+- **Non-substitution:** Ayane authors route and launch; external support is functionally partitioned rather than centralized under Sensei.
+- **Ethical revision:** responsible adulthood now requires an explicit bodily/professional-boundary limit alongside anti-domination and answerability.
