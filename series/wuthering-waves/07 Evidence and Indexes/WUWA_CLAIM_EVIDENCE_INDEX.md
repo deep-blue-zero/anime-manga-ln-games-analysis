@@ -15,6 +15,16 @@ do_not_use_as_current_authority: false
 
 This index routes major accepted or contested claims to their canonical analytical home and underlying evidence system. It does not duplicate the complete claim ledgers.
 
+## Cross-character visual-design layer
+
+The V0.2 visual layer supplies individualized appearance/design profiles for Aemeath, Augusta, Brant, Cantarella, Cartethyia, Changli, Chisa, Denia, Iuno, Jinhsi, Luuk Herssen, Lynae, Phoebe, Qiuyuan, Shorekeeper, Sigrika, Yinlin, and Zani. Each character directory contains:
+
+- `CHARACTER_VISUAL_DESIGN_PROFILE.md` — the human-readable individualized summary and dimension-by-dimension analysis;
+- `CHARACTER_VISUAL_DESIGN_PROFILE.json` — stable claim IDs, evidence-basis labels, confidence, uncertainty, counterreadings, and form/state limits;
+- `CHARACTER_VISUAL_REFERENCE_MANIFEST.json` — stable visual IDs and image-to-client-object/package/container/hash reverse provenance.
+
+Directly observed claims cover silhouette, palette, hair/face, costume construction, rendered material cues, motifs, weapon/role signaling, and pose/body language. Design–narrative relationships are separately marked `direct_visual_and_semantic` and remain interpretive. Form/skin/state completeness is `OPEN`: the bounded denominator is exactly one role-linked head icon, formation image, and activity portrait for the default playable presentation. The layer does not establish runtime geometry, rear construction, animation habits, material truth, complete skin/form coverage, or unique authorial symbolism. Raw images remain restricted outside Git.
+
 ## Cartethyia
 
 | Claim ID / area | Current formulation | Status | Canonical analytical route | Evidence route |

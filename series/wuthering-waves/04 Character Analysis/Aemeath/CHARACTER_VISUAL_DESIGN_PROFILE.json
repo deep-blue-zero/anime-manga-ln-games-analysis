@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Aemeath",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:39ba5e56ce63a8f11801bcd8",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:1762b6564b989ce48398196c",
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/102"
+      ],
+      "statement": "The three decoded images are treated as the role record's default playable presentation. Alternate skins, transformation states, damage states, and rear views were not established in this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:dd20377c117c79ea2dd993e0",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A long high ponytail and multiple trailing skirt, sash, and sleeve elements create a broad, airborne silhouette; the activity pose keeps the body on a light diagonal rather than a grounded vertical.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:73ef05ffc7b84ff2f95023a9",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Saturated pink hair dominates a white-and-navy base, with cyan emissive lines, small gold fittings, and rainbow-iridescent fabric as high-energy accents.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:1ef3d04c6d75f989e25728c4",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:1762b6564b989ce48398196c",
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Pink hair is gathered into an oversized high ponytail with loose curls; amber-gold eyes and a smiling, forward-facing expression keep the face warm and performative.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:30de6a809e890a04d3c2497c",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "The costume combines a fitted asymmetric white bodice, long detached sleeves, short layered skirt panels, thigh straps, and high-heeled boots; navy underlayers give the pale outer shapes a clear graphic frame.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:435ecf3dc1bf65c713523c4e",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Rendered cues contrast matte white fabric, dark structured panels, polished gold hardware, cyan luminous bands, and translucent holographic-looking inserts.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:3239a7690eb6414b4e23061d",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Wing/feather shapes, angular light traces, and prismatic surfaces repeat across the hair ornament, sleeves, hips, and trailing panels.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:9c912b4f9753402cee687a71",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "No held weapon is visible in the three bounded UI images; their strongest signal is singer/performer energy rather than a specific combat discipline.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:bbffe2782147c8d965be84ba",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Open hands, a lifted knee, and a smile give the static art a dance-like, welcoming sense of motion.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:a75025fd7ec9b8c1530bb479",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:742bdd2ce5d3adb88c5eddd6",
+        "wuwa:visual:164cf1b6502c79b32746fee5"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/292794"
+      ],
+      "statement": "The stage-like pose, luminous accents, and starward/prismatic styling visually support the semantic profile of a former Synchronist who now persists as a singing digital ghost, but that relationship is interpretive rather than an explicit design note.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1210,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "Aemeath is built around a buoyant, performance-ready silhouette: a very long pink high ponytail, bright white fitted costume, deep navy structural layers, and cyan light accents. Iridescent translucent panels and wing-like shapes make the outfit read as both stagewear and advanced optical technology.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}
