@@ -42,6 +42,10 @@ The supplied rebuild reports 211 contextual scene/action records, 50 claims, 60 
 
 Direct AV review, raw-audio listening, and comprehensive machine-voice profiling remain unperformed in this rebuild. Earlier monograph/model comparison and selected player-option antecedents remain incomplete.
 
+## Bounded static visual layer
+
+The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Chisa's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. The three-image default-presentation study does not execute the 24 scene targets, establish animation/body-language habits beyond authored poses, or complete human listening.
+
 ## Analytical warning
 
 Chisa was the independent second-character extraction smoke test. The supplied reconstruction now proposes its own state and relationship architecture; its stated evidence scope, uncertainty, and unreviewed modalities remain controlling.

@@ -50,6 +50,10 @@ Drive direct-voice view: `158YddOayEgrjhOZqe16qCnVPoLLjNMHM`
 
 Complete object-level measurements and association tables remain in the restricted/local or Drive evidence plane. Raw audio and the nested evidence supplement are intentionally absent from Git.
 
+## Bounded static visual layer
+
+The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Sigrika's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This is distinct from the 24 unviewed scene targets and does not establish runtime motion, rear construction, alternate forms/skins, or human performance.
+
 ## Next operation
 
 Use the current packet for source-bounded character interpretation and model behavior. The next hardening stage should review the 24 nominated audiovisual targets and a claim-driven human-listening cohort, record observations separately from machine measurements, and revise only the claims those observations materially affect.

@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Yinlin",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:4d4c236debe7bc9f75a211ba",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:feefa0f5e7a03250850ae57e",
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/15"
+      ],
+      "statement": "The three decoded images are treated as the role record's default playable presentation. Alternate skins, transformation states, damage states, and rear views were not established in this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:e789a78e40e72f2e91bc89da",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A high ponytail and very long split hair tails frame a narrow asymmetric bodysuit; chains, ribbons, one long covered leg, one exposed leg, and clawed gauntlets create a vertical silhouette with deliberate imbalance.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:abdc5187c9550cace2726057",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Black and charcoal dominate, cut by saturated crimson hair and panels, violet electrical light, small teal bows, and fine gold hardware.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:84b523669826124cd3f3e7d5",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:feefa0f5e7a03250850ae57e",
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Crimson hair is gathered into a high looped ponytail with black-gold bands and a floral pin; violet-pink eyes, a small beauty mark, and a half-smile make the face inviting without losing calculation.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:657372aa82385d37bf97b17e",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A high-collar sleeveless black bodysuit uses sheer central panels, diamond quilting, cutouts, one full-length trouser leg, one high-cut leg, detached armored sleeves, long gloves, straps, chains, and narrow red-teal ties.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:2c11be91977c29489c3b8625",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Sheer dark mesh, matte fitted fabric, quilted panels, polished black armor, gold chain and fittings, and violet emissive channels are visibly contrasted.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:925339843f8108bf2e49dd2b",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Puppet strings or chains, clawed fingers, flowers, knots, diamonds, red ribbons, and branching electricity repeat across hair, torso, arms, and hips.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:9e48af6d311e468e30ca4908",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "The art foregrounds electrified articulated gloves and suspended chain elements rather than a conventional held weapon, visually supporting remote control, capture, and precision manipulation.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:8b0968cf7ff87ff6bf11e411",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A raised claw-like hand crackles with energy while her weight settles easily onto one leg; the direct half-smile reads as confident, teasing, and fully in control of the encounter.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:8a39d477238d94f15570a8f2",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:22a594e01e2550c5e340fa08",
+        "wuwa:visual:391350b30c4702df95264f3a"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/271834"
+      ],
+      "statement": "The dark investigative silhouette, concealed hardware, chains, and precisely controlled electricity support the semantic profile of a suspended Patroller pursuing hidden evils in secrecy; a stage-magician or dominatrix reading is a possible aesthetic counterreading, not proof of narrative role.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1302,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "Yinlin's design turns covert authority into controlled theatrical danger. Long crimson hair, violet-red eyes, a close black asymmetric bodysuit, red trailing panels, gold chainwork, armored gloves, and visible purple electricity combine the glamour of a performer with the precision of an investigator and puppeteer.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}
