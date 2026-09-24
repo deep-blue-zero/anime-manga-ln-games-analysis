@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
-source_boundary: Sequential main-story reading through BA:main:001:002:017
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
+source_boundary: Sequential main-story reading through BA:main:001:002:018
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -267,3 +267,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **SHIBA SEKI ↔ PS68:** repair money, a request to continue, shared meal, and reopened stall turn incomplete reparation into renewed community practice.
 - **PS68 ↔ ABYDOS:** gratitude and hospitality deepen voluntary aid, while Aru's persona capture prevents a simple free-choice account.
 - **ABYDOS ↔ EXTERNAL COALITION:** Abydos retains mission/route authorship while supporters provide interdiction, heavy support, force, and intelligence channels.
+
+## C002 E018 relationship delta — enabling fire and promised return
+
+- **HIFUMI/TRINITY SUPPORT ↔ ABYDOS:** indirect heavy fire creates a corridor; Abydos chooses and commands the follow-through.
+- **PS68 ↔ ABYDOS:** voluntary rearguard action replaces Shiroko's emerging solo sacrifice; gratitude becomes a future ramen promise.
+- **ARU ↔ PS68 PERSONA:** public heroic commitment again captures private fear and makes reconsideration difficult.
+- **KAYOKO/MUTSUKI/HARUKA ↔ ARU:** group responses reinforce the commitment rather than reopening consent, even while sustaining collective courage.
+- **ABYDOS ↔ ORIGINAL SCHOOL:** present students physically reach the buried institutional center for the first time in this reading sequence.
+- **GEMATRIA ↔ KAISER / SITE:** Gematria requested the lab; Kaiser concentrates force around it, preserving cooperation without organizational merger.

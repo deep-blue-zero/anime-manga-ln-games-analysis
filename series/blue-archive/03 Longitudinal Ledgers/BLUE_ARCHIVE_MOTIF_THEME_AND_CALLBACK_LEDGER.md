@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
-source_boundary: Sequential main-story reading through BA:main:001:002:017
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
+source_boundary: Sequential main-story reading through BA:main:001:002:018
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -402,3 +402,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ramen as compensation:** hospitality is reinterpreted as sufficient payment for dangerous solidarity, while Aru's fear remains.
 - **Persona capture toward care:** the same performance mechanism that enabled harm now sustains prosocial risk.
 - **People over shell:** the master's store theory answers the director's school-disappearance theory without denying material loss.
+
+## C002 E018 motif / callback delta
+
+- **Artillery as opened path:** outside force is legitimate insofar as it enables the recipient's mission rather than replacing it.
+- **Buried school / experimental lab:** institutional origin is physically appropriated for objectifying research.
+- **Singular sacrifice interrupted:** Shiroko's `私に` is cut off by allies willing to distribute risk.
+- **Hold here / go ahead:** coalition works through differentiated roles, not undifferentiated mass.
+- **Ramen after the battle:** hospitality moves from remembered meal to future promise, making survival relationally prospective.
+- **Heroic line / private panic:** outward courage remains entangled with persona capture and fear.

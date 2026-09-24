@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
-source_boundary: Sequential main-story reading through BA:main:001:002:017
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
+source_boundary: Sequential main-story reading through BA:main:001:002:018
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -441,3 +441,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Relational capacity:** Sensei activates Hina and Hifumi/Nagisa channels and returns lab-location intelligence.
 - **Non-substitution:** Ayane authors route and launch; external support is functionally partitioned rather than centralized under Sensei.
 - **Ethical revision:** responsible adulthood now requires an explicit bodily/professional-boundary limit alongside anti-domination and answerability.
+
+## C002 E018 delta — absent voice, effective returned information
+
+- No Sensei choice or direct line occurs.
+- Coordinates obtained from Black Suit remain causally useful and bring the group to the laboratory site.
+- Hifumi support generated through the prior relational network opens a corridor without assigning mission command to Sensei.
+- Ayane/Shiroko author the immediate use of fire support; PS68 authors the holding offer.
+- The unit strengthens a connective/facilitative Sensei role while showing that execution remains student-distributed.

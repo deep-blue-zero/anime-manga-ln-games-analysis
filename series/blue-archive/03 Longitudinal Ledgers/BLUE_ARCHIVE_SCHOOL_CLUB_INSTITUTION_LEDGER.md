@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
-source_boundary: Sequential main-story reading through BA:main:001:002:017
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
+source_boundary: Sequential main-story reading through BA:main:001:002:018
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -251,3 +251,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Problem Solver 68:** unpaid coalition role is relationally enabled and persona-pressured rather than contract-owned.
 - **Countermeasures Committee:** updates maps, selects the safest route, integrates Sensei intelligence, and formally launches the rescue operation.
 - **Control distribution:** external actors block/support; Abydos defines destination, route, and object. Exact prior approval of every supporting deployment remains unstated.
+
+## C002 E018 institutional delta — the buried center as contested site
+
+- **Trinity support:** L118 fire is delivered under explicit deniability and used by Abydos as enabling support rather than external command.
+- **Original Abydos main school:** physical traces at the objective confirm the buried building/former center; past scale superlatives remain director testimony.
+- **Gematria laboratory:** built/requested at the old school site; Hoshino is said to be in a nearby building.
+- **Kaiser PMC:** concentrates all mobile force for a total engagement, showing the site's operational priority.
+- **Problem Solver 68:** takes a rearguard role that opens the locally chosen rescue route; tactical outcome is not yet shown.
+- **Institutional appropriation:** captured historical infrastructure is converted into experimental infrastructure without erasing its prior identity.

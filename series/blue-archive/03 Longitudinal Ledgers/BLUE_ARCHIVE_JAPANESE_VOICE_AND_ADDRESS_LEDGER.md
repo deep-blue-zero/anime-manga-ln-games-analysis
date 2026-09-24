@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
-source_boundary: Sequential main-story reading through BA:main:001:002:017
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
+source_boundary: Sequential main-story reading through BA:main:001:002:018
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -600,6 +600,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `またやり直せばいい` / `お客さんがいる限り、店は消えない`: the master defines continuity through renewed practice and people.
 - `救出作戦`: Ayane names a committee-authored operation rather than generic adult rescue.
 - **Count caution:** `3人` conflicts with four named Prefect voices; no precise formation claim is promoted.
+
+## C002 E018 delta — deniability, passage, and rearguard language
+
+- `一切関係ありません`: Hifumi's categorical Trinity denial is transparent operational cover, not a literal evidence override.
+- `これくらいしか`: Hifumi minimizes heavy-artillery support, preserving her apologetic self-presentation.
+- `支援射撃の直後に突撃`: Shiroko converts aid into a standard locally chosen tactic.
+- `本来のアビドス高等学校本館`: the director supplies the site's institutional identity while contesting its ownership/purpose.
+- `私に――`: Shiroko's interrupted singular begins another likely holding-sacrifice pattern without completing it.
+- `ここは私たちに任せて`: Aru's explicit line redistributes risk; later internal panic prevents a frictionless-voluntariness reading.
+- **Attribution caution:** `u:0029` and `u:0041` have voice/style mismatches; stable event claims rely on surrounding and explicit Aru lines.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

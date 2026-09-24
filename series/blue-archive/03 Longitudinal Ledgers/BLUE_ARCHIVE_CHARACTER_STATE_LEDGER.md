@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
-source_boundary: Sequential main-story reading through BA:main:001:002:017
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
+source_boundary: Sequential main-story reading through BA:main:001:002:018
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -233,6 +233,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Aru:** proceeds toward near-certain danger without pay, but persona, gratitude, and group momentum again constrain retreat.
 - **Ayane:** updates maps, integrates Sensei's intelligence, chooses the safest route, and declares the rescue operation.
 - **Ramen master:** rebuilds from a stall and articulates relational continuity over destroyed form.
+
+## C002 E018 delta — passage, memory, and redistributed risk
+
+- **Hifumi:** delivers deniable L118 support and minimizes its decisive corridor-opening effect.
+- **Ayane / Shiroko:** identify the support and immediately convert it into a locally commanded breakthrough.
+- **Shiroko:** begins another one-person holding proposal before PS68 interrupts it.
+- **Aru:** explicitly offers a rearguard role, then reveals fear and continuing persona-based inability to retract.
+- **PS68:** assumes concentrated risk for Abydos without a client contract; outcome remains pending.
+- **Sensei:** has no direct line; prior coordinates remain useful while students author execution.
+- **Kaiser director:** identifies the buried main school, Gematria lab demand, and Hoshino's nearby building; experiment timing is speculative.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 

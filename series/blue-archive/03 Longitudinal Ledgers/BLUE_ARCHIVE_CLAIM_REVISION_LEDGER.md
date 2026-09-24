@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:017
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E017
-current_sequential_boundary: MAIN_V001_C002 E017 complete; E018 next
+source_boundary: Sequential main-story reading through BA:main:001:002:018
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E018
+current_sequential_boundary: MAIN_V001_C002 E018 complete; E019 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -963,6 +963,21 @@ No `BA-C019` is opened.
 
 - **Established:** Iori interaction, Hina interdiction, Hifumi-mediated Nagisa support, stall reopening, PS68 continuation, and Ayane-authored launch.
 - **Not established:** exact Sensei/Hina request, later Trinity effect, all-support committee preapproval, precise four-versus-three Prefect formation, or rescue outcome.
+
+## C002 E018 claim transitions
+
+- **BA-C001–C004: STRENGTHEN** — Sensei-supplied location and externally mobilized support become student-integrated capacity.
+- **BA-C005–C006: PRESERVE REJECTED / STRENGTHEN rejection** — students identify support, command the breakthrough, and redistribute roles.
+- **BA-C007–C011: STRENGTHEN** — coalition aid opens passage without taking rescue authorship.
+- **BA-C012–C014: STRENGTHEN** — Gematria's lab demand and Kaiser total defense converge at the buried school while actors remain separate.
+- **BA-C015: STRENGTHEN** — the former center survives as contested memory/material site beneath occupation.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE** — distributed roles interrupt Shiroko's solitary sacrifice; deniability and Aru's persona capture remain costs.
+- **BA-C018: STRENGTHEN sharply** — aid, gratitude, and future meal convert repaired contact into sustained reciprocity. No `BA-C019` is opened.
+
+### C002 E018 epistemic firewall
+
+- **Established:** L118 support, buried main-building site, Gematria lab request, director-provided Hoshino building, PS68 rearguard offer.
+- **Not established:** experiment commencement, past-school superlatives, attribution of mismatched PS68 lines, successful hold, breakthrough, or rescue.
 
 ## C002 E012 claim transitions
 
