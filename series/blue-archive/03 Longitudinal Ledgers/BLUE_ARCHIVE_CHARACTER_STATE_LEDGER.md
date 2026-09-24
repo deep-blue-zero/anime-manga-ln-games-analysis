@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
+source_boundary: Sequential main-story reading through BA:main:001:002:001
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE CHARACTER STATE LEDGER
@@ -127,3 +127,14 @@ The Prologue plus twelve Abydos units establish state trajectories, not mature m
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 delta — unauthorized custody and an unexpected coalition
+
+- **Ako:** shifts from administrative mediator to architect of an unauthorized coercive operation. She seeks to place Sensei under Prefect Team `庇護` until the Gehenna–Trinity treaty is concluded, treats physical safety as warrant for forced custody, escalates after losing two companies, and conceals the deployment from Hina.
+- **Hina:** first direct leadership intervention establishes oversight rather than battlefield presence. Her call challenges independent cross-district troop use and forces Ako toward explanation; it does not retroactively prove which earlier field orders were authorized.
+- **Ayane:** converts Chapter 1's autonomy claim into coalition procedure: she maintains Abydos jurisdiction over PS68, asks Sensei to command the combined defense, and preserves local decision-right while borrowing capability.
+- **Shiroko:** combines causal inference with accountability. She judges the restaurant bombing accidental from target, timing, and method, but does not treat accident as innocence; tactically, she uses PS68 as a shield within the improvised alliance.
+- **Kayoko:** performs institutional forensics under fire, inferring from force scale and operational abnormality that Schale—not PS68—is Ako's true objective.
+- **Aru:** answers Abydos protection with `信頼には信頼で報いる`, converting unstable contact into reciprocal alliance, while still maintaining her false claim of intentional responsibility for the restaurant explosion.
+- **Haruka:** rescues the coalition by attacking the Prefect line, but her repeated willingness to expend herself preserves loyalty's self-negating danger.
+- **Sensei:** becomes both the object of proposed protective custody and the commander explicitly requested by the affected students; the contrast sharpens the difference between possession and entrusted authority.

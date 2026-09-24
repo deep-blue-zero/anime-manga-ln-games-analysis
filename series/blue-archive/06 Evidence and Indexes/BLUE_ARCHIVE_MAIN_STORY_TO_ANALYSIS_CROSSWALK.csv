@@ -21,7 +21,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 20,BA:main:001:001:018,MAIN_V001_C001_E018,対策委員会編,第18話;友だちなんかじゃないわよ！,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C001_E018_DEEP_READING.md
 21,BA:main:001:001:019,MAIN_V001_C001_E019,対策委員会編,第19話;あんたたち、許さない！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C001_E019_DEEP_READING.md
 22,BA:main:001:001:020,MAIN_V001_C001_E020,対策委員会編,第20話;風紀委員会、参戦！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md
-23,BA:main:001:002:001,MAIN_V001_C002_E001,対策委員会編,第1話;予期せぬ同盟,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+23,BA:main:001:002:001,MAIN_V001_C002_E001,対策委員会編,第1話;予期せぬ同盟,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md
 24,BA:main:001:002:002,MAIN_V001_C002_E002,対策委員会編,第2話;ゲヘナの風紀委員長,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 25,BA:main:001:002:003,MAIN_V001_C002_E003,対策委員会編,第3話;さよなら、便利屋68,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 26,BA:main:001:002:004,MAIN_V001_C002_E004,対策委員会編,第4話;それぞれの物語（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

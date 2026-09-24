@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
+source_boundary: Sequential main-story reading through BA:main:001:002:001
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
@@ -113,3 +113,13 @@ E007–E009 establish a distinct **proxy / procurement / paid-coercion** problem
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 institutional delta — security, custody, and delegated command
+
+- **Gehenna Prefect Team:** its stated arrest purpose is displaced by an unauthorized Schale-custody objective and multi-company escalation. Institutional capacity is substantial; legitimacy remains bounded by jurisdiction, proportionality, internal authorization, and the affected party's refusal.
+- **Prefect Team order chain:** Hina's call strongly establishes that Ako lacks chair-level authorization for independent cross-district use of committee members. Several promoted speaker mappings around the original fire order remain anomalous, so exact lower-level culpability is quarantined.
+- **Schale:** becomes an explicit strategic object. Ako regards Schale as an uncertain factor in future Gehenna–Trinity relations and proposes `protective` custody; the coalition instead makes Schale a capability it freely commissions.
+- **Abydos Countermeasures Committee:** distinguishes committee from council while exercising de facto local governance, rejects extraterritorial coercion, chooses coalition, and delegates tactical command without yielding jurisdiction.
+- **Problem Solver 68:** joins Abydos against Prefect Team coercion through reciprocal trust. This does not legalize its prior conduct or dissolve its internal command failures.
+- **Tea Party / Trinity:** Chinatsu's report has apparently reached the Tea Party, and a future Gehenna–Trinity treaty becomes strategically relevant. The report's contents and treaty process are not yet established.
+- **Institutional legitimacy principle:** calling seizure `庇護` or `安全に確保` does not make it consensual protection. Safety provision becomes domination when the protected actor cannot refuse or leave.

@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
+source_boundary: Sequential main-story reading through BA:main:001:002:001
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE MOTIF / THEME / CALLBACK LEDGER
@@ -253,3 +253,13 @@ The Prologue plus eight Abydos units support a coherent cluster, but no motif sh
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 motif / callback delta
+
+- **Protection ↔ custody:** `庇護` and `安全に確保` convert the language of care into a test of whether the protected person can refuse, leave, or remain politically independent.
+- **Permission / refusal / authorization:** Chapter 1's territorial `許可` question moves inside the Prefect Team through Hina's challenge to Ako's independent deployment and outward to Sensei's refusal of protective seizure.
+- **Trust as coalition infrastructure:** Abydos protects PS68 without absolution; Aru reciprocates by protecting Sensei. Trust enables joint action before complete moral or factual reconciliation.
+- **Enemy shield / mutual defense:** Shiroko's use of PS68 as a shield begins as tactical instrumentality but becomes part of a genuinely reciprocal defense, keeping opportunism and solidarity in the same formation.
+- **Information as security:** Ako treats the Tea Party's Schale report and Schale's uncertain status as strategic hazards. Institutional information flow becomes a motive for controlling a person.
+- **Accident without innocence:** Shiroko's inference about the restaurant preserves a recurring distinction between intent, causation, adopted responsibility, and accountability.
+- **Command as invitation:** Ayane's request that Sensei command the coalition answers Ako's custodial model with entrusted, bounded authority.

@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
+source_boundary: Sequential main-story reading through BA:main:001:002:001
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
@@ -315,3 +315,11 @@ E017 strengthens the distinction between **support that expands another actor's 
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 delta — protected object or entrusted commander
+
+- **Choice-space:** four normalized choices characterize PS68 as troublesome, peculiar, or foolish but not evil. The alternatives vary persona and emphasis; none changes the coalition decision or subsequent route.
+- **Coercive role assigned by Ako:** Ako proposes bringing Sensei under Prefect Team `庇護` and `安全に確保` until a future treaty is complete. Concern for physical safety is plausible, but involuntary custody denies Sensei meaningful refusal and instrumentalizes Schale.
+- **Role assigned by the coalition:** Ayane explicitly asks Sensei to command both Abydos and PS68 after the students decide to resist. This is delegated, task-specific authority rather than appropriation of local policy.
+- **Capability:** Ako's disproportionate deployment and continued escalation corroborate Sensei's strategic force-multiplier reputation, while the students' own pincer, shield, and rescue actions preserve distributed competence.
+- **Ethical comparison:** E001 gives a controlled contrast between two kinds of `protection`: seize a person for a future institutional settlement, or defend that person's agency and then request their help. Legitimate authority is invited, bounded, and answerable to those who bear its consequences.

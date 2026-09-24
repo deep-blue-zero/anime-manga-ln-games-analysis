@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
+source_boundary: Sequential main-story reading through BA:main:001:002:001
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE RELATIONSHIP STATE LEDGER
@@ -131,3 +131,13 @@ Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `B
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 relationship delta — alliance without absolution
+
+- **Abydos ↔ Problem Solver 68:** the sides form an unexpected defensive alliance against forced seizure. Abydos protection does not erase PS68 responsibility for Shiba Seki or settle the sponsor question; alliance is jurisdictional and tactical, not absolution.
+- **Sensei ↔ Problem Solver 68:** Aru explicitly makes defense of Sensei reciprocal repayment for Abydos's trust, materially strengthening the emergent relation without resolving her lie about the explosion.
+- **Sensei ↔ Abydos:** the committee asks Sensei to command a coalition it chose to form. Entrusted tactical authority remains downstream of student-authored policy.
+- **Ako ↔ Hina:** subordinate initiative becomes concealed initiative. Ako expects discipline if Hina learns of the operation and lies about her location when Hina calls; Hina immediately presses the unauthorized cross-district deployment.
+- **Ako ↔ Kayoko:** Kayoko reads Ako's conduct as an institutional pattern and correctly identifies Schale as the operation's real objective, though Ako says Kayoko's staging hypothesis is only half-right.
+- **Gehenna Prefect Team ↔ Abydos/PS68:** the relation expands from disputed arrest to a coalition defense against custody of Sensei; formal purpose no longer maps cleanly onto the force actually deployed.
+- **Gehenna ↔ Trinity:** a prospective treaty is introduced as Ako's strategic horizon. Its terms, status, and Tea Party knowledge remain OPEN.

@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE — CURRENT STATE AND CORPUS MAP
@@ -18,15 +18,15 @@ updated: 2026-08-18
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete. The canonical Chapter 1 synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. The next sequential unit is `BA:main:001:002:001` (`MAIN_V001_C002_E001`), source title `第1話;予期せぬ同盟`.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E001. The canonical Chapter 1 synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. The next sequential unit is `BA:main:001:002:002` (`MAIN_V001_C002_E002`), source title `第2話;ゲヘナの風紀委員長`.**
 
-E020 gives the first direct test of the asymmetric-sovereignty problem opened in E016. Gehenna's company-scale Prefect Team pursues Problem Solver 68 into Abydos territory and begins tactical operations without Abydos permission. Iori frames obstruction as interference with `公務`, while Chinatsu argues explanation should precede force. Abydos does not deny PS68 wrongdoing: Shiroko chooses to stop the Prefect Team and Ayane explicitly separates culpability from jurisdiction, insisting that another academy cannot conduct such operations `私たちの許可もなく`. Sensei's first choice raises hand-over as a deliberative option rather than dictating policy; the students reject it and articulate the sovereignty claim themselves. After the Prefect Team is defeated, Chinatsu says that recognizing Sensei should have caused immediate withdrawal, sharply strengthening the command/coordination force-multiplier model without implying personal combat supremacy. Ayane then returns immediately to formal identification/procedure; Ako remotely self-identifies as a Gehenna `行政官`, asks permission to explain, and signals internal discipline toward Iori. Haruka ends the chapter by identifying the assembled group as a `チャンス` and repeating `許さない`, so procedural stabilization remains incomplete. Hoshino remains abnormally unreachable, but E020 does not establish that Black Suit caused the absence. The source-side convenience E020 Markdown is itself truncated after scene 1; the stable promoted two-scene canonical projection governs the reading. The Prologue plus all **twenty** Chapter-1 `対策委員会編` units are complete, for **22 / 310** canonical main-story units total. All seven longitudinal ledgers are reconciled through `BA:main:001:001:020`. The live claim set remains `BA-C001`–`BA-C018`; E020 opens no new claim ID, but sharply strengthens `BA-C003`, `BA-C004`, `BA-C006`, `BA-C010`, `BA-C011`, and especially `BA-C016`.
+C002 E001 resolves the immediate Prefect Team confrontation by making its real objective explicit: Ako intends to secure Sensei under Prefect Team `庇護` until a future Gehenna–Trinity treaty is concluded. The language of safety does not erase forced custody, disproportionate force, Abydos jurisdiction, or Sensei's inability to refuse. Abydos and Problem Solver 68 form an unexpected coalition without mutual absolution; Ayane asks Sensei to command only after the students choose the alliance, preserving the distinction between local policy and delegated capability. Kayoko correctly infers that Schale is the operation's true objective, Aru answers trust with reciprocal defense while continuing her false culpability performance, and Hina's call establishes that Ako concealed an independent cross-district deployment from her chair. Exact lower-level order attribution remains quarantined because several promoted speaker mappings are internally inconsistent. The Prologue, all **twenty** Chapter-1 units, and Chapter-2 E001 are complete, for **23 / 310** canonical main-story units total. All seven longitudinal ledgers are reconciled through `BA:main:001:002:001`. The live claim set remains `BA-C001`–`BA-C018`; no `BA-C019` is opened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **22 / 310 canonical main units deep-read**;
+- main-story coverage: **23 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -49,7 +49,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E019_DEEP_READING.md` — **active_provisional**, adopted-culpability / persona-capture / Shiba Seki retaliation / Prefect Team mortar-intervention unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — **active_provisional**, territorial-sovereignty / Prefect-Team jurisdiction / Sensei force-multiplier / Ako-procedural-repair unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_.../BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` - **canonical Chapter 1 synthesis authority**, adversarial reconciliation of E001-E020 and BA-C001-BA-C018.
-- next source unit: `BA:main:001:002:001` (`MAIN_V001_C002_E001`), source title `第1話;予期せぬ同盟`.
+- `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` — **active_provisional**, unexpected coalition / protective-custody / delegated-command / concealed-deployment unit;
+- next source unit: `BA:main:001:002:002` (`MAIN_V001_C002_E002`), source title `第2話;ゲヘナの風紀委員長`.
 
 No specialist monograph or series-level synthesis exists yet. The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -274,8 +275,10 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V001_C001_E012_DEEP_READING.md` — twelfth `対策委員会編` unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_E013_DEEP_READING.md` — thirteenth `対策委員会編` unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_E014_DEEP_READING.md` — fourteenth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` — fifteenth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first sixteen marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — final six Chapter-1 `対策委員会編` units, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` — **canonical Chapter-1 checkpoint**;
+- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` — first Chapter-2 `対策委員会編` unit, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first twenty-three marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -287,11 +290,11 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:001:001:014`, the fourteenth `対策委員会編` unit after the Prologue. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:001:002:001`, the first Chapter-2 `対策委員会編` unit after the Prologue and completed Chapter 1. They are mutable infrastructure, not frozen releases.
 
 ### Not yet created
 
-- later `対策委員会編` and subsequent main-story deep readings;
+- `MAIN_V001_C002_E002` and later `対策委員会編` / subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
 - adjudicated relationship syntheses;
@@ -334,31 +337,31 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 is active through E019. No checkpoint should be emitted until E020 is complete.**
+**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E001.**
 
 The next mandatory sequential step is:
 
-1. begin `BA:main:001:001:020` as `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md`;
-2. retain the Prologue checkpoint plus E001–E019 as the complete prior-information boundary;
-3. establish the Prefect Team's stated purpose, command authority, and target logic before making jurisdictional claims;
-4. distinguish formal pursuit of PS68 from any action directed at Abydos;
-5. test `BA-C016` directly if the Prefect Team acts inside Abydos territory without meaningful Abydos consent/control;
-6. track Sensei's textual presence, choices, and effect on inter-academy escalation if supplied;
-7. preserve the distinction between Haruka's direct demolition act and Aru's E019 post hoc ratification unless E020 revisits responsibility;
-8. keep the E017 Black Suit proposal and Hoshino status unresolved unless explicitly addressed;
-9. update all seven longitudinal ledgers and re-adjudicate `BA-C016`–`BA-C018` only for material evidence;
-10. after E020, emit the mandatory `MAIN_V001_C001` chapter checkpoint before starting Chapter 2.
+1. begin `BA:main:001:002:002` as `BLUE_ARCHIVE_MAIN_V001_C002_E002_DEEP_READING.md`;
+2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001 as the complete prior-information boundary;
+3. test Hina's leadership, authority, and knowledge against Ako's concealed operation without importing later characterization;
+4. preserve the distinction between chair-level nonauthorization and the still-anomalous lower-level fire-order attribution;
+5. track whether `protection` becomes accountable release, continued custody, or another coercive form;
+6. preserve Abydos↔PS68 alliance as tactical reciprocity without retroactive absolution;
+7. keep the Gehenna–Trinity treaty terms, Tea Party response, and Chinatsu-report contents OPEN unless E002 supplies them;
+8. keep Hoshino↔Black Suit causation and Kaiser hierarchy firewalled unless directly addressed;
+9. update all seven longitudinal ledgers and re-adjudicate only claims materially affected by E002;
+10. keep E002 standalone and do not read E003 before the E002 transaction is validated and committed.
 
 Next source unit:
 
-- story ID: `BA:main:001:001:020`;
-- scope: `MAIN_V001_C001_E020`;
+- story ID: `BA:main:001:002:002`;
+- scope: `MAIN_V001_C002_E002`;
 - arc: `対策委員会編`;
-- source title: `第20話;風紀委員会、参戦！`;
-- canonical scene count: **2**;
-- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md`.
+- source title: `第2話;ゲヘナの風紀委員長`;
+- canonical scene count: **1**;
+- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E002_DEEP_READING.md`.
 
-E020 must remain **standalone** because it closes `VOLUME_001 / CHAPTER_001` and is the first unit positioned to adjudicate the political legitimacy of Gehenna's formal armed intervention.
+E002 must remain **standalone** because each canonical unit is an atomic transaction and Hina's first sustained Chapter-2 appearance may materially revise the authority picture opened by E001.
 
 ## 12. Reasoning recommendation
 
@@ -398,4 +401,14 @@ Use the promoted source and derived layers aggressively for retrieval while keep
 
 `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` is canonical for Chapter 1 synthesis. It re-adjudicates BA-C001-BA-C018, opens no BA-C019, narrows BA-C009 to a strong Prologue pattern pending later recurrence, and makes agency-preserving power / recipient control the strongest current chapter-level synthesis. Contextual backfill decision is **DEFER**.
 
-Proceed next to `BA:main:001:002:001` (`MAIN_V001_C002_E001`), `第1話;予期せぬ同盟`, under strict local-information discipline.
+## C002 E001 state delta
+
+- `MAIN_V001_C002` is active through E001; coverage is **23 / 310** main units including Prologue.
+- Ako's operation is now directed at taking Sensei under nominal protection until a prospective Gehenna–Trinity treaty; physical-safety intent does not settle legitimacy.
+- Abydos and Problem Solver 68 form a tactical coalition without resolving Shiba Seki responsibility, Aru's false ratification, or the sponsor question.
+- Ayane's request that Sensei command the coalition strengthens delegated authority and Schale's autonomy-amplifier role.
+- Hina's call establishes chair-level nonauthorization/concealment; exact lower-level fire-order responsibility remains OPEN because of speaker anomalies.
+- Treaty terms, Tea Party response, Chinatsu-report contents, Hoshino↔Black Suit causation, and Kaiser hierarchy remain OPEN.
+- Contextual backfill remains **DEFER**. No `BA-C019` is opened.
+
+Proceed next to `BA:main:001:002:002` (`MAIN_V001_C002_E002`), `第2話;ゲヘナの風紀委員長`, under strict local-information discipline.

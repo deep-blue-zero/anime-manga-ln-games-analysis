@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
+source_boundary: Sequential main-story reading through BA:main:001:002:001
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE JAPANESE VOICE AND ADDRESS LEDGER
@@ -487,3 +487,13 @@ The confirmation-like syntax is not followed by waiting for affirmative confirma
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 delta — euphemized custody, jurisdiction, and reciprocal trust
+
+- **Ako:** polished administrative mitigation—`協力をお願い`, `お迎え`, `庇護下`, `安全に確保`—euphemizes an operation backed by overwhelming force. Her register fractures into evasive informality when Hina calls and she claims to be on patrol near Gehenna.
+- **Ayane:** `風紀委員会は委員会であって、生徒会ではありません` and `アビドスの自治権` make the jurisdictional distinction explicit; `指揮をお願いします` marks deliberate delegation to Sensei rather than surrender of policy.
+- **Kayoko:** compressed inferential language converts troop scale and abnormal procedure into a diagnosis that Schale is the real objective.
+- **Aru:** `信頼には信頼で報いる` supplies a formal reciprocity maxim that cuts through her outlaw performance, even as she continues to claim deliberate responsibility for the bombing.
+- **Hina:** short interrogative pressure—why committee members are being moved independently outside the district—establishes supervisory authority and suspicion without narrating a full answer.
+- **Key lexicon:** `自治権`, `庇護下`, `安全に確保`, `お迎え`, `信頼には信頼で報いる`, `指揮`.
+- **Speaker anomalies:** scene 1 `u:0029-0032` alternates Ako/Iori across an internally inconsistent exchange, and scene 2 `u:0029`/`u:0034` are promoted as Hina although `委員長` address suggests otherwise. Preserve the exchange's structural content but quarantine exact speaker attribution and individual culpability.

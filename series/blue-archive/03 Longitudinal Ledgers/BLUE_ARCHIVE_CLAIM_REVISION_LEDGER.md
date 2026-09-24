@@ -4,14 +4,14 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:001:020
-checkpoint_boundary: MAIN_V001_C001 complete
-current_sequential_boundary: MAIN_V001_C001 complete through canonical Chapter 1 checkpoint; Chapter 2 E001 next
+source_boundary: Sequential main-story reading through BA:main:001:002:001
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E001
+current_sequential_boundary: MAIN_V001_C002 E001 complete; E002 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-23
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -726,3 +726,35 @@ Canonical checkpoint authority: `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`.
 | BA-C018 | **STRENGTHEN** | Shiba Seki confirms hospitality/contact space as scoped conflict infrastructure |
 
 No `BA-C019` is opened. Full formulations, counterreadings, evidence routes, and forward-status distinctions are governed by the checkpoint document.
+
+## C002 E001 claim transitions
+
+| Claim | E001 transition | Reason at this boundary |
+|---|---|---|
+| BA-C001 | **STRENGTHEN** | Ako's physically protective rationale becomes illegitimate when it removes Sensei's agency; Hina models adult-like oversight through questioning and accountability rather than possession. |
+| BA-C002 | **STRENGTHEN** | Ayane's explicit request for Sensei to command a student-chosen coalition further grounds legitimacy in enacted, delegated relation. |
+| BA-C003 | **STRENGTHEN** | Schale is both a coveted strategic object and, under local invitation, an autonomy amplifier. |
+| BA-C004 | **STRENGTHEN** | deployment scale, Ako's risk model, and coalition command request corroborate command/coordination and institutional leverage, not personal-force supremacy. |
+| BA-C005 | **PRESERVE REJECTED** | Sensei is vulnerable to custody and dependent on student defense; no omnipotent-avatar evidence appears. |
+| BA-C006 | **PRESERVE REJECTED / STRENGTHEN CONTRADICTION** | students diagnose motives, decide policy, devise tactics, and rescue one another. |
+| BA-C007 | **STRENGTHEN** | `protection` is explicitly tested against consent, exit, and accountability. |
+| BA-C008 | **STRENGTHEN** | four choices vary judgment/persona but do not seize route or coalition authorship. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no sufficient new recurrence to restore broader arc-wide wording. |
+| BA-C010 | **STRENGTHEN** | entrusted command is contrasted directly with possessive custody. |
+| BA-C011 | **STRENGTHEN** | adult capability and student competence remain mutually reinforcing rather than substitutive. |
+| BA-C012 | **PRESERVE** | no Kaiser-network evidence. |
+| BA-C013 | **PRESERVE** | no new Kaiser Loan / Helmet Gang evidence. |
+| BA-C014 | **STRENGTHEN** | formal coercive capacity and strategic information do not self-authorize extraterritorial seizure. |
+| BA-C015 | **PRESERVE** | no direct Abydos-survival-method revision beyond the inherited autonomy principle. |
+| BA-C016 | **STRENGTHEN** | recipient control, local jurisdiction, proportionality, and internal authorization all become live legitimacy variables. |
+| BA-C017 | **STRENGTHEN** | meaningful agency now includes refusing custody, authorizing deployment, correcting inference, and choosing delegated command. |
+| BA-C018 | **PRESERVE** | Shiba Seki remains the destroyed contact zone; no new local institutional evidence changes the checkpoint claim. |
+
+No `BA-C019` is opened. E001's strongest evidence revises the existing agency-preserving-power architecture rather than requiring a new claim family.
+
+### C002 E001 epistemic firewall
+
+- **Abydos/PS68 know:** Ako wants Sensei secured under Prefect Team protection; the operation uses disproportionate force; the coalition chose to resist.
+- **Kayoko infers:** Schale is the true objective. Ako confirms this is partly correct but denies having staged the exact clash.
+- **Hina establishes:** Ako's independent cross-district deployment was not transparently authorized at chair level. Exact earlier order allocation remains unresolved because of source speaker anomalies.
+- **Audience/project preserve as OPEN:** treaty terms, Tea Party action, exact contents of Chinatsu's report, and any causal relationship between Hoshino's absence and Black Suit.
