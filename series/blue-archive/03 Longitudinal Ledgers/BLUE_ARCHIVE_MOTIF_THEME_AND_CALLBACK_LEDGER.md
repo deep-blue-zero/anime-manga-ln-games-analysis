@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
-source_boundary: Sequential main-story reading through BA:main:001:002:009
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
+source_boundary: Sequential main-story reading through BA:main:001:002:010
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -327,3 +327,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Individual strength / institutional scale:** threat lies in organization, vehicles, alarm, and encirclement more than elite combatants.
 - **Private army / public legitimacy:** military professionalism supplies capability, not authority.
 - **Delegated command:** Ayane retains policy and requests tactical coordination.
+
+## C002 E010 motif / callback delta
+
+- **Debt as expandable ledger:** resistance damage can be appended to inherited obligation by the coercing creditor.
+- **Failed proxies → direct leverage:** PS68/Helmet Gang hiring gives way to containment and an idea centered on Hoshino.
+- **Private history → public weapon:** Hoshino's hidden Gematria relation is named by the adversary first.
+- **Negotiation under encirclement:** polite debt discussion lacks meaningful exit or refusal.
+- **Communication failure:** material signal loss bounds Sensei's coordination.

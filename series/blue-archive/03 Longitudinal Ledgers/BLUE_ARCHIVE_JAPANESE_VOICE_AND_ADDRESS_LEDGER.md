@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
-source_boundary: Sequential main-story reading through BA:main:001:002:009
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
+source_boundary: Sequential main-story reading through BA:main:001:002:010
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -545,6 +545,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** `久しぶり` marks direct prior desert experience, while `だったとか` and `私も実際に見たことはない` explicitly distinguish inherited oasis history from eyewitness memory.
 - **Ayane:** `見たところ` and `引き続き警戒` preserve current negative observation without treating it as disproof.
 - No material speaker anomaly appears.
+
+## C002 E010 delta — debt as coercive conversational register
+
+- **Director:** polite creditor phrasing (`よろしいでしょうか`, `話し合いでも`) coexists with encirclement and unilateral damage addition, making negotiation language coercive in context.
+- **Hoshino:** parenthetical `あいつは` / `あの時の` registers recognition without public explanation.
+- **Black Suit recall:** isolated `u:0016` repeats the prior proposal and is quarantined from physical-presence inference.
+- **Key lexicon:** `私有地`, `被害額`, `借金に加えて`, `ゲマトリア`, `雇う`, `理事`.
 
 ## C002 E009 delta — institution and scale vocabulary
 

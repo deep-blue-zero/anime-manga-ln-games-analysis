@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
-source_boundary: Sequential main-story reading through BA:main:001:002:009
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
+source_boundary: Sequential main-story reading through BA:main:001:002:010
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -182,3 +182,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser Corporation:** PMC affiliation is now an established network edge. Construction, Loan, and Black Suit relations remain separately unproved.
 - **Recruitment:** corporate hiring of expelled/delinquent students is explicitly rumor, not fact.
 - **Corporate capacity:** alarms, tanks, helicopters, armored vehicles, and encirclement demonstrate effective territorial-military power without public mandate.
+
+## C002 E010 institutional delta — network convergence without total collapse
+
+- **Kaiser Corporation:** its director self-identifies the Corporation as Abydos creditor and admits hiring PS68/Helmet Gang while controlling the PMC confrontation.
+- **Kaiser Loan:** strong inference now supports a Corporation debt/collection interface; exact legal structure remains unstated.
+- **Kaiser PMC:** functions as the direct enforcement/containment arm at the facility.
+- **Gematria / Black Suit:** the director knows Gematria targeted Hoshino; contact/knowledge is established, membership and hierarchy are not. Isolated Black Suit `u:0016` is treated as recall, not physical presence.
+- **Construction:** not explicitly linked in E010 and remains a differentiated title holder.
+- **Coercion architecture:** debt, armed exclusion, proxy hiring, damage accounting, and negotiation converge in one director's practice.

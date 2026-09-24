@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
-source_boundary: Sequential main-story reading through BA:main:001:002:009
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
+source_boundary: Sequential main-story reading through BA:main:001:002:010
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -193,6 +193,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** recognizes Kaiser PMC before confirmation; knowledge route remains open.
 - **Nonomi:** defines PMC and marks student-recruitment information as rumor.
 - **Sensei:** returns as requested tactical coordinator, but no command text/outcome or personal-force evidence appears.
+
+## C002 E010 delta — creditor confrontation
+
+- **Hoshino:** is named as debt successor and Gematria target; recalled proposal pressure becomes externally weaponized before she explains it internally.
+- **Kaiser director:** becomes direct antagonist, Corporation director/creditor, proxy employer, and controller of an armed negotiation field.
+- **Ayane:** degraded communications limit operator support; E009's requested command has not produced escape.
+- **Sensei:** no dialogue/choice or successful-order evidence; coordination is materially constrained by infrastructure and scale.
 
 ## C002 E008 delta — first facility contact
 

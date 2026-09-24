@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
-source_boundary: Sequential main-story reading through BA:main:001:002:009
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
+source_boundary: Sequential main-story reading through BA:main:001:002:010
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -197,3 +197,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Abydos ↔ Kaiser PMC:** affiliation is confirmed and the relation becomes combined-arms encirclement; professionalism does not create consent or legitimacy.
 - **Ayane ↔ Sensei:** Ayane retains threat judgment/withdrawal policy and requests Sensei's tactical instructions, preserving delegated rather than substitutive authority.
 - No withdrawal-form relational change occurs.
+
+## C002 E010 relationship delta — proxy employer and targeted debtor
+
+- **Kaiser director ↔ Hoshino:** he knows her office, debt succession, and Gematria interest, turning private history into direct leverage.
+- **Kaiser director ↔ PS68/Helmet Gang:** direct hiring admission establishes the common client behind both proxy pressures.
+- **Kaiser director ↔ Gematria:** knowledge that Gematria targeted Hoshino is explicit; affiliation/command remains OPEN.
+- **Sensei ↔ committee:** bounded command support fails to secure escape under comms degradation; no blame or relational rupture is shown.

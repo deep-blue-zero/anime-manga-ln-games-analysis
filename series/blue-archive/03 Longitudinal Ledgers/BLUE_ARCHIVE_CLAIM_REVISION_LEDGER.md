@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:009
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E009
-current_sequential_boundary: MAIN_V001_C002 E009 complete; E010 next
+source_boundary: Sequential main-story reading through BA:main:001:002:010
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
+current_sequential_boundary: MAIN_V001_C002 E010 complete; E011 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -877,6 +877,18 @@ No `BA-C019` is opened.
 - **BA-C016: STRENGTHEN / REVISE** — title/information advantage cannot alone legitimate coercion against a resident institution.
 - **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
 - **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E010 claim transitions
+
+- **BA-C001–C003: PRESSURE-TEST / PRESERVE** — partnership is contained by corporate scale and hidden information.
+- **BA-C004: REVISE / STRENGTHEN limits** — requested coordination does not guarantee escape; comms/infrastructure constrain Sensei.
+- **BA-C005–C006: PRESERVE REJECTED** — neither omnipotent adult nor incapable students explains the position.
+- **BA-C007–C011: PRESERVE / COMPLICATE** — secrecy and coercive negotiation intensify the agency test.
+- **BA-C012: STRENGTHEN sharply / REVISE** — Corporation/PMC/creditor/proxy relations are directly connected; Gematria knowledge is established without affiliation collapse.
+- **BA-C013: STRENGTHEN sharply** — the Corporation creditor admits hiring both proxy forces.
+- **BA-C014: STRENGTHEN sharply** — debt, property, military capacity, and negotiation operate as integrated coercion.
+- **BA-C015–C017: STRENGTHEN / PRESSURE-TEST** — methods face nonvoluntary negotiation and hidden leader leverage.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened pending fuller Gematria evidence.
 
 ## C002 E009 claim transitions
 
