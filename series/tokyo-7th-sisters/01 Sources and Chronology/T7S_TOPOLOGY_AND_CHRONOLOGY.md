@@ -4,13 +4,13 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.0"
+version: "11.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon remains reconstructed; 974 eligible non-Main episodes and exact additional/supplemental routes are screened and assigned; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon remains reconstructed; 974 non-Main episodes are routed; T7S_B0080 is open on complete text of Sub i-n-g layer 300520; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-24
@@ -244,6 +244,12 @@ The [passed routing audit](../09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_EL
 
 The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. i-n-g and Legend Boss families receive targeted-case floors; intimacy, short-message, 2034 birthday, and conditional character-message material receive ordinary-life routes; Many merry party and all 58 Event families receive deep-block routes. Screening does not establish event order, narrative reconstruction, visual interpretation, or performed-audio evidence. The first queued bounded case is i-n-g layer `300520`, episodes `202001101` and `202001102`.
 
+## T7S_B0080 opening decision
+
+[T7S_B0080](../02%20Readings/T7S_B0080_DEEP_READING.md) opens exactly native Sub top layer `100010`, Tomoe family `200130`, and chapter `300520`, **シンギン・イン・ザ・キタクブ**. Its membership is episodes `202001101` and `202001102`, scripts `scout_041_01_01.json__5574dd10d3af0d42` and `scout_041_01_03.json__d5f035a78e7c3749`, at source-order indexes 97–98. The two primary documents contain 91 pages, 78 text records, 13 command-only pages, 62 voice-reference pages, and 890 character-visual references; they contain no inline document or authored-choice marker.
+
+The chapter itself establishes only a local post-entry relation: Tomoe says she has been at Nanasta for several months, then the front episode precedes the back episode. No placement against the Main sequence or other i-n-g chapters is inferred. Complete text reconstruction is in progress; presentation review and cumulative integration remain open.
+
 ## Revision history
 
 - 2026-09-09 — Initialize native topology and candidate reading schedule from master revision 484; zero analytical chronology edges or consumed stories.
@@ -270,3 +276,4 @@ The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) own
 - 2026-09-13 — V1 / 9.0: admit and close complete native Main EPISODE 6.0 FINAL as T7S_B0070–T7S_B0076 with twenty-four attached transcript occurrences and bounded review of all forty-one distinct bound movies; advance the exact horizon to 218 primary episodes and 39,031 flattened pages/logs; preserve chronology, consent, safeguarding, and performed-audio limits; and stop before the then-recorded NANASUTA route. V1 / 10.0 later establishes that `611100101` was already-consumed EPISODE 3.0.
 - 2026-09-13 — V1 / 10.0: correct the stale post-Episode-6 route without reconsuming EPISODE 3.0; admit and close complete native Main EPISODE NANASUTA as T7S_B0077–T7S_B0079; advance the exact horizon to 235 primary episodes and 40,699 flattened pages/logs; complete all eleven admitted 2034 Main families; preserve unknown exact chronology, reception, privacy, safeguarding, performed-audio, and remaining 2034-era-release limits; and leave 2053 semantic admission blocked.
 - 2026-09-24 — V1 / 11.0: partition the complete non-Main inventory; route 974 eligible Sub/Event episodes and exact additional/supplemental tranches to factual homes; retain eleven 2053 birthday episodes and all other 2053 semantics behind the release gate; isolate the Hololive crossover; and authorize portfolios without introducing chronology edges.
+- 2026-09-24 — V1 / 11.1: open bounded T7S_B0080 on the two exact documents in i-n-g layer `300520`; record the complete local source envelope and local-order limit; begin text reconstruction without yet asserting static presentation, audio, block closure, or cumulative state integration.

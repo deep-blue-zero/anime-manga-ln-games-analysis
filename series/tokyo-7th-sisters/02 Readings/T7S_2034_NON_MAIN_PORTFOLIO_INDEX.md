@@ -5,7 +5,7 @@ artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
 version: "1.0"
-status: ready
+status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING.jsonl"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first queued case is `T7S_B0080`: i-n-g layer `300520`, **シンギン・イン・ザ・キタクブ**, episodes `202001101` and `202001102`, under route `NM-ING-200130`. It is not marked complete here; its own reading and ledger handoff control that state.
+The first case is now open: [T7S_B0080](T7S_B0080_DEEP_READING.md), i-n-g layer `300520`, **シンギン・イン・ザ・キタクブ**, episodes `202001101` and `202001102`, under route `NM-ING-200130`. Its complete text has an initial factual reconstruction; command/static presentation review and cumulative integration remain open, so the block is `IN_PROGRESS`, not closed.
 
 ## Exclusions and limits
 
@@ -50,4 +50,3 @@ The first queued case is `T7S_B0080`: i-n-g layer `300520`, **シンギン・イ
 - The 86 unique Main transcript attachments are already represented by 87 closed Main occurrences and are not portfolio inputs a second time.
 - Tutorial, navigation, event-mechanics, blank, and duplicate-opening resources do not create new narrative events.
 - Performed audio remains unreviewed unless a later artifact explicitly records audition and locator evidence.
-

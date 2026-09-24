@@ -4,13 +4,13 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.0"
+version: "11.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon remains reconstructed; 974 eligible non-Main Sub/Event episodes plus exact 2034 additional/supplemental routes are screened and assigned to portfolios; 2053 and crossover semantics remain gated as declared"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon remains reconstructed; 974 eligible non-Main episodes are routed; T7S_B0080 is open on the complete text of Sub episodes 202001101–202001102 with presentation and integration pending; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-24
@@ -38,16 +38,16 @@ project_initialization:
 substantive_findings_at_bootstrap: false
 execution_scope: next_major_story_unit_complete
 sequential_execution:
-  latest_operation: T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT
-  status: COMPLETED
-  authorized_continuation: "Begin the 2034 non-Main analytical portfolios under the passed routing audit"
-  episode_scope: "974 eligible episodes: 743 Sub plus 231 Event"
-  additional_scope: "133 audited 2034-side resources; 86 already-consumed Main attachments reconciled; 9 2053 resources held"
-  supplemental_scope: "30,991 records partitioned into exact active routes"
-  committed_high_water: "routing audit closed; no newly routed non-Main story is yet marked reconstructed"
+  latest_operation: T7S_B0080_OPEN
+  status: IN_PROGRESS
+  authorized_continuation: "Complete the bounded T7S_B0080 presentation review and cumulative handoff"
+  episode_ids: ["202001101", "202001102"]
+  script_ids: [scout_041_01_01.json__5574dd10d3af0d42, scout_041_01_03.json__d5f035a78e7c3749]
+  episode_scope: "complete i-n-g layer 300520 / シンギン・イン・ザ・キタクブ"
+  committed_high_water: "all 78 Japanese text records provisionally reconstructed; 13 command-only pages, 890 visual refs, performed audio, closeout, and ledger integration remain open"
   next_candidate_episode_id: null
   next_candidate_family_layer_id: null
-  next_candidate_status: NON_MAIN_PORTFOLIO_READY
+  next_candidate_status: T7S_B0080_IN_PROGRESS
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -56,9 +56,9 @@ major_story_structures:
     native_main_families_total: 11
     closed_main_families: 11
     remaining_main_family_layer_ids: []
-    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079"
+    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079, with non-Main T7S_B0080 text reconstruction in progress"
     eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
-    non_main_portfolio_status: READY
+    non_main_portfolio_status: IN_PROGRESS
     declared_character_release: NOT_STARTED
     era_narrative_reconstruction: NOT_CREATED
     era_literary_synthesis: NOT_CREATED
@@ -75,7 +75,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**The 2034 non-Main eligibility and routing audit has passed.** Complete native Main EPISODE NANASUTA remains the latest reconstructed Main checkpoint, while 974 eligible Sub/Event episodes and their exact additional/supplemental routes now have portfolio homes. Screening is not reconstruction: the newly routed stories remain pending factual mini-cases, integration, and relevant AV work. The 2034 stack remains `IN_PROGRESS`, its analytical portfolio phase is now authorized, and every 2053 semantic operation remains blocked. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
+**The 2034 non-Main eligibility and routing audit has passed, and the first analytical portfolio is open.** [T7S_B0080](02%20Readings/T7S_B0080_DEEP_READING.md) reconstructs the complete text of Tomoe's two-part i-n-g chapter as an in-progress targeted case. It is not closed: command/static presentation review, performed-audio judgment, and cumulative integration remain pending. The 2034 stack remains `IN_PROGRESS`, and every 2053 semantic operation remains blocked. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
 
 ## Governing and cumulative homes
 
@@ -90,6 +90,7 @@ major_story_structures:
 | Exact inventory, consumption and routing | [T7S_COVERAGE_AND_ROUTING.jsonl](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl) |
 | Passed 2034 non-Main eligibility gate | [T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md](09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) |
 | Non-Main portfolio router | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
+| Active first non-Main portfolio | [T7S_B0080_DEEP_READING.md](02%20Readings/T7S_B0080_DEEP_READING.md) |
 | Causal events, world consequences and threads | [T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md) |
 | Character/knowledge/directional relationship/unit state and readiness | [T7S_ENTITY_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) |
 | Claims, rivals, revisions and modality review | [T7S_CLAIM_AND_EVIDENCE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md) |
@@ -297,7 +298,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The adjacent source-array record belongs to 2053 Roots., but physical source order is neither chronology nor authorization. The passed non-Main audit now authorizes bounded work inside the 974-episode 2034 portfolio horizon. It does not authorize 2053, treat screening as narrative reconstruction, or convert card/voice presentation utterances into dated story events.
+There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The adjacent source-array record belongs to 2053 Roots., but physical source order is neither chronology nor authorization. The passed non-Main audit authorizes bounded work inside the 974-episode 2034 portfolio horizon; T7S_B0080 is the active bounded case. It does not authorize 2053, treat screening as narrative reconstruction, or convert card/voice presentation utterances into dated story events.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -333,3 +334,4 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-09-13 — V1 / 9.0: close all seven native Main EPISODE 6.0 FINAL primary documents and twenty-four attached inline movie-transcript occurrences as T7S_B0070–T7S_B0076; publish the compact synthesis and deletion-tested straight-line-to-network arc reading; reconcile source, coverage, causal, entity, claim, static/background, and bounded all-movie evidence; preserve performed-audio and safeguarding limits; and stop before the then-recorded NANASUTA route. V1 / 10.0 later corrects that route: `611100101` was already-consumed EPISODE 3.0, not NANASUTA.
 - 2026-09-13 — V1 / 10.0: correct the stale post-Episode-6 route without reconsuming EPISODE 3.0; close all seventeen native Main EPISODE NANASUTA documents as T7S_B0077–T7S_B0079; publish the compact synthesis and deletion-tested partial-care arc reading; reconcile source, coverage, causal, entity, claim, and static/background evidence; advance Kyoko, Ferb, and Kazumi to bounded reconstruction readiness; complete all eleven admitted 2034 Main families; retain every performed-audio and 2034-era-release obligation; and keep 2053 semantic admission blocked.
 - 2026-09-24 — V1 / 11.0: pass the complete 2034 non-Main eligibility and routing audit; admit 974 Sub/Event episodes to conservative portfolio homes; classify 133 2034-side additional resources, reconcile 86 Main attachments, split mixed supplemental parents into exact active children, preserve all 2053 and crossover boundaries, and authorize the non-Main portfolio phase without claiming reconstruction or AV review.
+- 2026-09-24 — V1 / 11.1: open T7S_B0080 on complete i-n-g layer `300520`; reconstruct all 78 Japanese text records across episodes `202001101`–`202001102`; preserve command/static presentation, performed-audio, closeout, and cumulative-integration obligations; and leave all later portfolio and 2053 scope unopened.

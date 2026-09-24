@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "11.0",
+  "version": "11.1",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -27,7 +27,7 @@
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "T7S_B0001 through T7S_B0079 remain closed for 235 native Main primary documents and their admitted attachments/choices. The 2034 non-Main eligibility audit additionally screens and routes 974 eligible Sub/Event episodes, classifies 133 2034-side additional resources, reconciles 86 already-consumed Main attachments, and partitions all 30,991 supplemental records into exact active routes; this is routing admission, not narrative reconstruction or AV review. Eleven 2053-side Sub episodes, nine 2053 additional resources, 4,024 2053 supplemental records, and all 2053 Main semantics remain quarantined; one Hololive episode and 123 crossover supplemental records remain context outside the 2034 game-continuity release",
+  "scope_admission": "T7S_B0001 through T7S_B0079 remain closed for 235 native Main primary documents and their admitted attachments/choices. The 2034 non-Main eligibility audit screens and routes 974 eligible Sub/Event episodes plus exact additional/supplemental routes. T7S_B0080 is now open on the complete text of Sub i-n-g layer 300520, episodes 202001101 and 202001102; command/static presentation review and cumulative integration remain pending. Eleven 2053-side Sub episodes, nine 2053 additional resources, 4,024 2053 supplemental records, and all 2053 Main semantics remain quarantined; one Hololive episode and 123 crossover supplemental records remain context outside the 2034 game-continuity release",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -109,6 +109,9 @@
       "T7S_B0077",
       "T7S_B0078",
       "T7S_B0079"
+    ],
+    "in_progress_blocks": [
+      "T7S_B0080"
     ],
     "consumed_sources": [
       {
@@ -2096,7 +2099,7 @@
     ],
     "next_candidate_episode_id": null,
     "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "2034_NON_MAIN_ROUTING_AUDIT_CLOSED; ANALYTICAL_PORTFOLIOS_AUTHORIZED; 2053 semantic admission remains blocked pending complete audited 2034-era release",
+    "next_candidate_status": "T7S_B0080_IN_PROGRESS_ON_2034_NON_MAIN_ING_LAYER_300520; 2053 semantic admission remains blocked pending complete audited 2034-era release",
     "authorized_story_boundary_complete": true
   },
   "collection_manifest": {
@@ -3209,6 +3212,24 @@
       "guardrail": "2053-blocked episode, additional-resource, and supplemental-message text was not emitted or consumed",
       "boundary": "Eligibility and routing only; newly admitted 2034 non-Main sources remain unreconstructed and unintegrated until their assigned portfolios close"
     },
+    "b0080_open_verification": {
+      "checked_at": "2026-09-24T00:00:00-04:00",
+      "operation": "T7S_B0080_OPEN",
+      "native_category": "Sub",
+      "native_top_layer_id": 100010,
+      "native_character_family_layer_id": 200130,
+      "native_chapter_layer_id": 300520,
+      "episode_ids": ["202001101", "202001102"],
+      "script_ids": ["scout_041_01_01.json__5574dd10d3af0d42", "scout_041_01_03.json__d5f035a78e7c3749"],
+      "primary_document_pages": 91,
+      "text_records_reconstructed": 78,
+      "command_only_pages_pending": 13,
+      "native_voice_reference_pages": 62,
+      "character_visual_refs_pending": 890,
+      "authored_choice_markers": 0,
+      "status": "IN_PROGRESS",
+      "boundary": "Complete Japanese text reconstructed provisionally; command/static presentation, performed audio, closeout, and cumulative integration remain open"
+    },
     "selected_media_recovery": [
       {
         "kind": "audio",
@@ -3234,7 +3255,7 @@
   },
   "limits": [
     "Extraction completeness is not analytical, listening or visual-review completeness",
-    "At source-lock version 11.0, the exact 235-primary-document Main horizon remains the sole narratively reconstructed story horizon; 974 eligible 2034 non-Main episodes and named 2034 additional/supplemental routes are screened and assigned to portfolios but remain unreconstructed unless a later bounded reading explicitly closes them",
+    "At source-lock version 11.1, the exact 235-primary-document Main horizon remains closed; 974 eligible 2034 non-Main episodes and named additional/supplemental routes are screened, and T7S_B0080 has begun text-level reconstruction on exactly two Sub episodes without yet claiming block closure or cumulative integration",
     "All 2053 semantic sources remain blocked; crossover routes remain outside the 2034 game-continuity release",
     "Repeated decoded hashes preserve distinct logical occurrence identities",
     "Unresolved/compound speakers and unbound media documents remain unresolved",
