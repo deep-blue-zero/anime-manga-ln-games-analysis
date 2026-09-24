@@ -4,16 +4,16 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "10.0"
+version: "11.0"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; exact 235-primary-document horizon completing all eleven admitted 2034 native Main families through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 87 attached inline movie-transcript occurrences across 86 unique source documents / all eleven authored choice branches; no unconsumed non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon remains reconstructed; 974 eligible non-Main Sub/Event episodes plus exact 2034 additional/supplemental routes are screened and assigned to portfolios; 2053 and crossover semantics remain gated as declared"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-13
+last_updated: 2026-09-24
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -38,15 +38,16 @@ project_initialization:
 substantive_findings_at_bootstrap: false
 execution_scope: next_major_story_unit_complete
 sequential_execution:
-  latest_operation: T7S_EPISODE_NANASUTA_CLOSE
+  latest_operation: T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT
   status: COMPLETED
-  authorized_continuation: "Complete native Main EPISODE NANASUTA / family 200120 after the EPISODE 6.0 close"
-  episode_ids: ["1013100101", "1013100102", "1013100103", "1013100104", "1013100105", "1013100201", "1013100202", "1013100203", "1013100204", "1013100205", "1013100206", "1013100301", "1013100302", "1013100303", "1013100304", "1013100305", "1013100306"]
-  script_ids: [ep2034_001_01.json__44fe713c41e7d31a, ep2034_001_02.json__e4b4ffcdfbd6e432, ep2034_001_03.json__af56b70570ddb055, ep2034_001_04.json__6d67767f172c03ac, ep2034_001_05.json__6ea6de08456eac86, ep2034_002_01.json__7392e3442e131d5d, ep2034_002_02.json__55de5acfb7188b02, ep2034_002_03.json__c37d13dd81379a7b, ep2034_002_04.json__673fa6e01f3dd04d, ep2034_002_05.json__db643a27865d4d98, ep2034_002_06.json__62c03830e327b9aa, ep2034_003_01.json__a0cd015d030307b4, ep2034_003_02.json__88e18d0c46092fc1, ep2034_003_03.json__1972f8d20f337e10, ep2034_003_04.json__03283170c87b3144, ep2034_003_05.json__1a88a2d92699fe2e, ep2034_003_06.json__7b60c33a07974b17]
-  committed_high_water: "native EPISODE NANASUTA family through episode 1013100306; combined admitted horizon 235 primary documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents"
+  authorized_continuation: "Begin the 2034 non-Main analytical portfolios under the passed routing audit"
+  episode_scope: "974 eligible episodes: 743 Sub plus 231 Event"
+  additional_scope: "133 audited 2034-side resources; 86 already-consumed Main attachments reconciled; 9 2053 resources held"
+  supplemental_scope: "30,991 records partitioned into exact active routes"
+  committed_high_water: "routing audit closed; no newly routed non-Main story is yet marked reconstructed"
   next_candidate_episode_id: null
   next_candidate_family_layer_id: null
-  next_candidate_status: NONE_WITHIN_ADMITTED_2034_MAIN
+  next_candidate_status: NON_MAIN_PORTFOLIO_READY
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -56,7 +57,8 @@ major_story_structures:
     closed_main_families: 11
     remaining_main_family_layer_ids: []
     current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079"
-    eligible_non_main_closeout: NOT_STARTED
+    eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
+    non_main_portfolio_status: READY
     declared_character_release: NOT_STARTED
     era_narrative_reconstruction: NOT_CREATED
     era_literary_synthesis: NOT_CREATED
@@ -73,7 +75,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and complete native Main EPISODE NANASUTA is the latest recoverable analytical checkpoint after EPISODE 6.0 FINAL.** T7S_B0077–T7S_B0079 close all seventeen primary documents and no inline transcript in family `200120`. Recommendation ranks 219–235 and source indexes 1239–1255 converge for this unit; the prior `611100101`/rank-179 route was corrected because that episode is already-consumed EPISODE 3.0. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. All eleven admitted 2034 Main families are now closed, but the 2034 stack remains `IN_PROGRESS` pending its non-Main eligibility, declared character/multimodal, promoted longitudinal, era reconstruction, literary synthesis, and completion-audit responsibilities. Every 2053 semantic operation remains blocked. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
+**The 2034 non-Main eligibility and routing audit has passed.** Complete native Main EPISODE NANASUTA remains the latest reconstructed Main checkpoint, while 974 eligible Sub/Event episodes and their exact additional/supplemental routes now have portfolio homes. Screening is not reconstruction: the newly routed stories remain pending factual mini-cases, integration, and relevant AV work. The 2034 stack remains `IN_PROGRESS`, its analytical portfolio phase is now authorized, and every 2053 semantic operation remains blocked. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
 
 ## Governing and cumulative homes
 
@@ -86,6 +88,8 @@ major_story_structures:
 | Immutable witness/digest binding | [T7S_SOURCE_LOCK.json](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) |
 | Native topology, partial chronology and candidate order | [T7S_TOPOLOGY_AND_CHRONOLOGY.md](01%20Sources%20and%20Chronology/T7S_TOPOLOGY_AND_CHRONOLOGY.md) |
 | Exact inventory, consumption and routing | [T7S_COVERAGE_AND_ROUTING.jsonl](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl) |
+| Passed 2034 non-Main eligibility gate | [T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md](09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) |
+| Non-Main portfolio router | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
 | Causal events, world consequences and threads | [T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md) |
 | Character/knowledge/directional relationship/unit state and readiness | [T7S_ENTITY_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) |
 | Claims, rivals, revisions and modality review | [T7S_CLAIM_AND_EVIDENCE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md) |
@@ -293,7 +297,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is **no authorized next story operation after this closeout** and no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The adjacent source-array record belongs to 2053 Roots., but physical source order is neither chronology nor authorization. A future 2034 release operation must address the still-open non-Main eligibility, character/multimodal, promoted longitudinal, era reconstruction, literary synthesis, and completion-audit obligations under a fresh bounded instruction. All remaining Main, Sub/Event, unconsumed additional, supplemental, and 2053 semantic sources remain outside the current story boundary. Metadata-only awareness is not story consumption.
+There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The adjacent source-array record belongs to 2053 Roots., but physical source order is neither chronology nor authorization. The passed non-Main audit now authorizes bounded work inside the 974-episode 2034 portfolio horizon. It does not authorize 2053, treat screening as narrative reconstruction, or convert card/voice presentation utterances into dated story events.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -328,3 +332,4 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-09-12 — V1 / 8.1: establish independent `T7S_STACK_2034` and `T7S_STACK_2053` transition state; keep 2034 in progress through EPISODE 6.0 FINAL, EPISODE NANASUTA, non-Main eligibility, declared mature character/multimodal and promoted-subject work, era narrative/literary synthesis, and completion audit; block every 2053 semantic operation until the audited 2034 era release makes a separate prerequisite audit eligible.
 - 2026-09-13 — V1 / 9.0: close all seven native Main EPISODE 6.0 FINAL primary documents and twenty-four attached inline movie-transcript occurrences as T7S_B0070–T7S_B0076; publish the compact synthesis and deletion-tested straight-line-to-network arc reading; reconcile source, coverage, causal, entity, claim, static/background, and bounded all-movie evidence; preserve performed-audio and safeguarding limits; and stop before the then-recorded NANASUTA route. V1 / 10.0 later corrects that route: `611100101` was already-consumed EPISODE 3.0, not NANASUTA.
 - 2026-09-13 — V1 / 10.0: correct the stale post-Episode-6 route without reconsuming EPISODE 3.0; close all seventeen native Main EPISODE NANASUTA documents as T7S_B0077–T7S_B0079; publish the compact synthesis and deletion-tested partial-care arc reading; reconcile source, coverage, causal, entity, claim, and static/background evidence; advance Kyoko, Ferb, and Kazumi to bounded reconstruction readiness; complete all eleven admitted 2034 Main families; retain every performed-audio and 2034-era-release obligation; and keep 2053 semantic admission blocked.
+- 2026-09-24 — V1 / 11.0: pass the complete 2034 non-Main eligibility and routing audit; admit 974 Sub/Event episodes to conservative portfolio homes; classify 133 2034-side additional resources, reconcile 86 Main attachments, split mixed supplemental parents into exact active children, preserve all 2053 and crossover boundaries, and authorize the non-Main portfolio phase without claiming reconstruction or AV review.

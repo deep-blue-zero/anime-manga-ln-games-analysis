@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "10.0",
+  "version": "11.0",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -27,7 +27,7 @@
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "T7S_B0001 through T7S_B0079 are admitted and closed for 235 native Main primary documents: complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA through 1013100306, including every primary page, 87 attached AXiS/EPISODE 0.7/EPISODE 5.0/EPISODE 6.0 inline movie-transcript occurrences across 86 unique source documents, and all eleven authored choice branches in EPISODE 1.0; no unconsumed non-Main/additional, supplemental story, or 2053 semantic source is consumed",
+  "scope_admission": "T7S_B0001 through T7S_B0079 remain closed for 235 native Main primary documents and their admitted attachments/choices. The 2034 non-Main eligibility audit additionally screens and routes 974 eligible Sub/Event episodes, classifies 133 2034-side additional resources, reconciles 86 already-consumed Main attachments, and partitions all 30,991 supplemental records into exact active routes; this is routing admission, not narrative reconstruction or AV review. Eleven 2053-side Sub episodes, nine 2053 additional resources, 4,024 2053 supplemental records, and all 2053 Main semantics remain quarantined; one Hololive episode and 123 crossover supplemental records remain context outside the 2034 game-continuity release",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -2096,7 +2096,7 @@
     ],
     "next_candidate_episode_id": null,
     "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "NONE_WITHIN_ADMITTED_2034_MAIN; 2053 semantic admission remains blocked pending complete audited 2034-era release",
+    "next_candidate_status": "2034_NON_MAIN_ROUTING_AUDIT_CLOSED; ANALYTICAL_PORTFOLIOS_AUTHORIZED; 2053 semantic admission remains blocked pending complete audited 2034-era release",
     "authorized_story_boundary_complete": true
   },
   "collection_manifest": {
@@ -3185,6 +3185,30 @@
       "routing_correction": "The prior candidate 611100101 is already-consumed EPISODE 3.0 family 200070. NANASUTA is 1013100101 through 1013100306 at recommendation ranks 219–235; no source was reconsumed.",
       "boundary": "Exact, hole-free native Main EPISODE NANASUTA family through episode 1013100306; all 1,668 primary pages consumed; no inline movie transcript or authored choice; all eleven admitted 2034 Main families now complete; no further series-100020 candidate exists and every 2053 semantic source remains blocked"
     },
+    "non_main_eligibility_and_routing_audit_verification": {
+      "checked_at": "2026-09-24T00:00:00-04:00",
+      "operation": "T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON",
+      "screening_manifest_sha256": "fff84f8a0e0a5fa185df0782139a9ccb61a9ce1c23a65696ce3894e1aee257bc",
+      "screening_manifest_bytes": 155587,
+      "packet_files": 269,
+      "packet_bytes": 11417645,
+      "eligible_2034_sub_episodes": 743,
+      "eligible_2034_event_episodes": 231,
+      "eligible_2034_episode_membership_sha256": "afce2d28c27baa949bde41088be50720e4aa53874166946d9da032e191689c5c",
+      "blocked_2053_sub_episodes": 11,
+      "blocked_2053_episode_membership_sha256": "4f74c9c6fd33d37d49ef0af4eb4ee1f0d72d1f745067e0ed43b193919d4948c8",
+      "crossover_episodes": 1,
+      "crossover_episode_membership_sha256": "a3129428958e3333d4015dca7ec73ac7a49e3efd27557858e01be7d0547fd3a5",
+      "additional_2034_audited": 133,
+      "additional_2053_blocked": 9,
+      "additional_main_attachments_reconciled": 86,
+      "supplemental_records_partitioned": 30991,
+      "coverage_records_after_split": 1591,
+      "guardrail": "2053-blocked episode, additional-resource, and supplemental-message text was not emitted or consumed",
+      "boundary": "Eligibility and routing only; newly admitted 2034 non-Main sources remain unreconstructed and unintegrated until their assigned portfolios close"
+    },
     "selected_media_recovery": [
       {
         "kind": "audio",
@@ -3210,7 +3234,8 @@
   },
   "limits": [
     "Extraction completeness is not analytical, listening or visual-review completeness",
-    "At source-lock version 10.0, the exact 235-primary-document horizon comprising all eleven admitted 2034 native Main families through EPISODE NANASUTA episode 1013100306 plus 87 attached AXiS/EPISODE 0.7/EPISODE 5.0/EPISODE 6.0 inline movie-transcript occurrences across 86 unique source documents is the sole consumed story horizon; all unconsumed non-Main/additional, supplemental, and 2053 semantic sources remain unconsumed",
+    "At source-lock version 11.0, the exact 235-primary-document Main horizon remains the sole narratively reconstructed story horizon; 974 eligible 2034 non-Main episodes and named 2034 additional/supplemental routes are screened and assigned to portfolios but remain unreconstructed unless a later bounded reading explicitly closes them",
+    "All 2053 semantic sources remain blocked; crossover routes remain outside the 2034 game-continuity release",
     "Repeated decoded hashes preserve distinct logical occurrence identities",
     "Unresolved/compound speakers and unbound media documents remain unresolved",
     "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied"
