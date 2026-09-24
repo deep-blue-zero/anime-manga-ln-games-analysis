@@ -18,15 +18,15 @@ updated: 2026-09-24
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E015. The next sequential unit is `BA:main:001:002:016` (`MAIN_V001_C002_E016`), source title `第16話;大人の戦い`.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and `MAIN_V001_C002` is active through E016. The next sequential unit is `BA:main:001:002:017` (`MAIN_V001_C002_E017`), source title `第17話;守りたいもの`.**
 
-C002 E015 ends in a bounded tactical victory: Problem Solver 68 rejects former-client ownership, coalition command disruption forces PMC retreat, and Abydos regroups to seek a rescue method. Sensei's `my precious student` / return demand makes protective standing explicit while keeping possessive language under the agency test. Hoshino is not rescued; debt, land, recognition, and Kaiser capacity remain unresolved. Sensei then enters an unspecified location where Black Suit awaits the first direct conversation. Coverage is **37 / 310** units; all seven ledgers are reconciled through `BA:main:001:002:015`, with `BA-C001`–`BA-C018` still live.
+C002 E016 names Gematria and makes the adult conflict explicit: Black Suit defines adulthood as rule-making domination, while Sensei takes responsibility where no adult did. Sensei refuses co-option and the Hoshino-for-school bargain, invokes missing advisor consent to contest withdrawal, presents—but is not shown activating—the adult card, learns the desert-lab location, and returns to coalition planning. Black Suit admits exploitation but his cosmology, sandstorm account, and card-cost mechanism remain testimony. Coverage is **38 / 310** units; all seven ledgers are reconciled through `BA:main:001:002:016`, with `BA-C001`–`BA-C018` still live.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **37 / 310 canonical main units deep-read**;
+- main-story coverage: **38 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -64,7 +64,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E013_DEEP_READING.md` — **active_provisional**, signed-sacrifice / adult-trust / invasion-trigger / emergency-governance unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E014_DEEP_READING.md` — **active_provisional**, committee-nonrecognition / Black-Suit-separation / returned-allies / collaborative-defense unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E015_DEEP_READING.md` — **active_provisional**, client-refusal / tactical-retreat / protective-standing / direct-encounter unit;
-- next source unit: `BA:main:001:002:016` (`MAIN_V001_C002_E016`), source title `第16話;大人の戦い`.
+- `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E016_DEEP_READING.md` — **active_provisional**, Gematria-naming / adult-responsibility / advisor-consent / laboratory-intelligence unit;
+- next source unit: `BA:main:001:002:017` (`MAIN_V001_C002_E017`), source title `第17話;守りたいもの`.
 
 No specialist monograph or series-level synthesis exists yet. The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -297,8 +298,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V001_C001_E014_DEEP_READING.md` — fourteenth `対策委員会編` unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — final six Chapter-1 `対策委員会編` units, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` — **canonical Chapter-1 checkpoint**;
-- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E015_DEEP_READING.md` — first fifteen Chapter-2 `対策委員会編` units, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first thirty-seven marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E016_DEEP_READING.md` — first sixteen Chapter-2 `対策委員会編` units, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first thirty-eight marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -357,31 +358,31 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E015.**
+**`対策委員会編` Chapter 1 and its mandatory checkpoint are complete. Chapter 2 is active through E016.**
 
 The next mandatory sequential step is:
 
-1. begin `BA:main:001:002:016` as `BLUE_ARCHIVE_MAIN_V001_C002_E016_DEEP_READING.md`;
-2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E015 as the complete prior-information boundary;
-3. analyze the direct adult encounter without importing its outcome;
+1. begin `BA:main:001:002:017` as `BLUE_ARCHIVE_MAIN_V001_C002_E017_DEEP_READING.md`;
+2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E016 as the complete prior-information boundary;
+3. identify Sensei's coalition idea without importing rescue outcomes;
 4. preserve Black Suit/Kaiser separation and the Yume identity firewall;
-5. test protective standing against contract, coercion, and Hoshino's agency;
-6. keep audience/Hoshino knowledge separate from Sensei's information;
+5. track how requested support preserves or displaces Abydos control;
+6. keep Black Suit testimony graded and committee knowledge bounded;
 7. update all seven longitudinal ledgers and only materially affected claims;
 8. document source anomalies and choice topology;
-9. keep E016's single scene intact;
-10. do not read E017 before E016 is reconciled and committed.
+9. keep both E017 scenes together;
+10. do not read E018 before E017 is reconciled and committed.
 
 Next source unit:
 
-- story ID: `BA:main:001:002:016`;
-- scope: `MAIN_V001_C002_E016`;
+- story ID: `BA:main:001:002:017`;
+- scope: `MAIN_V001_C002_E017`;
 - arc: `対策委員会編`;
-- source title: `第16話;大人の戦い`;
-- canonical scene count: **1**;
-- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E016_DEEP_READING.md`.
+- source title: `第17話;守りたいもの`;
+- canonical scene count: **2**;
+- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E017_DEEP_READING.md`.
 
-E016 must remain **standalone** because each canonical unit is an atomic transaction and the adult confrontation may revise central claims.
+E017 must remain **standalone** because each canonical unit is an atomic transaction and coalition expansion may revise control/legitimacy claims.
 
 ## 12. Reasoning recommendation
 
@@ -587,4 +588,16 @@ E014's forward frontier was E015; that unit is now complete.
 - first direct Sensei–Black Suit contact begins at an unspecified Kivotos location; terms and access route remain OPEN.
 - Contextual backfill remains **DEFER**; no `BA-C019` is opened.
 
-Proceed next to `BA:main:001:002:016` (`MAIN_V001_C002_E016`), `第16話;大人の戦い`, under strict local-information discipline.
+E015's forward frontier was E016; that unit is now complete.
+
+## C002 E016 state delta
+
+- `MAIN_V001_C002` is active through E016; coverage is **38 / 310**.
+- Gematria is named/self-described; Black Suit admits exploitation and defines adulthood as domination.
+- Sensei refuses co-option and Hoshino-for-school sacrifice, defining adulthood through responsibility for neglected suffering.
+- missing advisor consent makes Hoshino's withdrawal procedurally contested; universal rule scope remains OPEN.
+- the adult card is presented but not shown activated; cost/mechanism remain Black Suit testimony.
+- the desert PMC base laboratory and proposed Hoshino experiment are disclosed; Mimesis/fear and `wolf god` remain OPEN.
+- Sensei returns to accountable-belonging and coalition planning; contextual backfill remains **DEFER** and no `BA-C019` is opened.
+
+Proceed next to `BA:main:001:002:017` (`MAIN_V001_C002_E017`), `第17話;守りたいもの`, under strict local-information discipline.

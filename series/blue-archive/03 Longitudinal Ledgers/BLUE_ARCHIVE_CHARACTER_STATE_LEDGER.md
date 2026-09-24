@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
-source_boundary: Sequential main-story reading through BA:main:001:002:015
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
+source_boundary: Sequential main-story reading through BA:main:001:002:016
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -215,6 +215,14 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Sensei:** calls Hoshino a precious student, demands her return, recommends withdrawal, and enters Black Suit's location.
 - **Kaiser director:** commander injury forces retreat; threat capacity remains.
 - **Black Suit:** begins first direct face-to-face conversation with Sensei; purpose/terms remain OPEN.
+
+## C002 E016 delta — two adult models
+
+- **Sensei:** refuses Gematria co-option and sacrifice bargain, invokes missing advisor consent, defines adulthood as responsibility, presents the adult card, and returns to coalition planning.
+- **Black Suit:** names Gematria, admits opportunistic exploitation, defines adulthood as domination, recognizes the card, and discloses Hoshino's experiment site.
+- **Hoshino:** withdrawal status becomes procedurally contestable; she remains absent and voiceless in the unit.
+- **Shiroko:** explicitly recognizes current force insufficiency and turns toward coalition rather than solo rescue.
+- **Committee:** frames rescue as return plus accountability and renewed belonging, not victim idealization.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 

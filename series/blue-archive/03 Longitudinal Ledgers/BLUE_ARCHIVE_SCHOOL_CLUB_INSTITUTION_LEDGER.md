@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
-source_boundary: Sequential main-story reading through BA:main:001:002:015
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
+source_boundary: Sequential main-story reading through BA:main:001:002:016
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -233,3 +233,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Countermeasures Committee:** formal status is bracketed in an immediate rescue emergency, while regrouping preserves method/planning rather than permanent lawlessness.
 - **Abydos:** tactical defense succeeds provisionally, but debt, alienated land, recognition, occupation risk, and Hoshino capture remain unresolved.
 - **Black Suit's site:** only an unspecified Kivotos location is established; it must not be collapsed into the Kaiser facility.
+
+## C002 E016 institutional delta — advisor consent and Gematria self-definition
+
+- **Schale / teacher office:** Sensei asserts that advisor signature is required for Hoshino's departure; Black Suit accepts the challenge as operative and troublesome.
+- **Abydos membership:** Hoshino's committee, vice-president, and student status are therefore contested rather than extinguished.
+- **Gematria:** self-named outsider observer/seeker/researcher group; objective ontology and full membership remain OPEN.
+- **Gematria exploitation model:** admits using disaster-created vulnerability within rule form and offers school/PMC relief in exchange for Hoshino.
+- **Abydos desert PMC base:** central laboratory is identified as Hoshino's stated experiment location.
+- **Rule legitimacy:** the same episode contrasts rule-compliant exploitation with procedural consent used to interrupt a coerced exit.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
-source_boundary: Sequential main-story reading through BA:main:001:002:015
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
+source_boundary: Sequential main-story reading through BA:main:001:002:016
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -422,3 +422,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Restoration aim:** `返してもらう` seeks Hoshino's return rather than assignment of rights to Sensei, distinguishing protection from Black Suit's ownership model.
 - **Proportional pause:** Sensei recommends returning after retreat; the adult does not turn tactical advantage into uncontrolled pursuit.
 - **Direct risk:** Sensei enters Black Suit's unspecified site alone/on-screen without a demonstrated command role or outcome.
+
+## C002 E016 delta — responsibility versus domination
+
+- **Choice topology:** eight groups; groups 2–3 have two refusal variants and duplicated convergence, the other six are singleton.
+- **Co-option refusal:** truth, mystery, power, and school preservation are rejected when priced by cooperation or Hoshino's abandonment.
+- **Procedural protection:** missing advisor signature blocks completed withdrawal in the exchange; its legitimacy is restorative and context-bound, not a universal adult retention right.
+- **Adult definition:** Sensei takes responsibility because no adult did; Black Suit defines adults as rule-makers who dominate through asymmetry.
+- **Relinquished sovereignty:** Black Suit says Sensei once held enormous Kivotos authority/mystery and freely released it, strengthening non-domination as chosen practice.
+- **Adult card:** presented but not shown activated; unique-weapon status and life/time cost are Black Suit's partly qualified account.
+- **Collective return:** Sensei brings information back, joins welcome-home/accountability planning, and proposes allies rather than a solitary solution.

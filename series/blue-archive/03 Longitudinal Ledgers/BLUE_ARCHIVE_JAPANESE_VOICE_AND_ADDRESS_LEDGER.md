@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
-source_boundary: Sequential main-story reading through BA:main:001:002:015
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
+source_boundary: Sequential main-story reading through BA:main:001:002:016
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -577,6 +577,18 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `非公認` / `不法組織だって構わない`: Serika brackets classification under rescue emergency; the scope should not be universalized.
 - `入る`: scene 3 gives only Sensei's internal decision to enter; access history and invitation remain unstated.
 - **Locator caution:** scene 3 begins at `u:0002`, with no canonical `u:0001` record.
+
+## C002 E016 delta — responsibility, rule form, and repeated refusal
+
+- `ゲマトリア`: Black Suit supplies the group's borrowed name and the observer/seeker/researcher self-description.
+- `断る`: repetition strips negotiation down to a stable refusal across co-option, sacrificial bargain, and self-preservation appeal.
+- `顧問`: Sensei grounds standing in an institutional advising role rather than family/guardian ownership.
+- `ルールの範疇`: Black Suit distinguishes formal compliance from admitted evil, making rule form an insufficient moral defense.
+- `大人のやるべきこと`: Sensei defines adulthood through responsibility taken for neglected suffering.
+- `支配する、それが大人`: Black Suit's counterdefinition makes domination through asymmetric resources explicit.
+- `大人のカードを出す`: presentation is explicit; activation/effect is not.
+- `ミメシス`, `神秘の裏側`, `恐怖`, `狼の神`: new research vocabulary enters as Black Suit's explanation; referents/mechanics remain OPEN.
+- **Topology caution:** duplicated branch convergence and the `心の声`/responsive-dialogue mismatch must not generate multiple events or telepathy.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

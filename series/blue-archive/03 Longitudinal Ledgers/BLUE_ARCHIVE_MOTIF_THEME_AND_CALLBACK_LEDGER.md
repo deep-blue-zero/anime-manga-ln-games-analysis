@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
-source_boundary: Sequential main-story reading through BA:main:001:002:015
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
+source_boundary: Sequential main-story reading through BA:main:001:002:016
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -382,3 +382,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Unofficial but acting:** documentary invisibility loses its paralysis effect without ceasing to matter structurally.
 - **Retreat as discipline:** after forcing enemy withdrawal, the coalition chooses regrouping instead of triumphal pursuit.
 - **Face-to-face threshold:** collective battle yields to a direct encounter between contrasting adult models.
+
+## C002 E016 motif / callback delta
+
+- **Adult as responsibility / adult as ruler:** the series' adult question becomes an explicit ideological opposition.
+- **Unsigned form:** paperwork that enabled capture is interrupted by missing consent, showing rule form can protect or dominate.
+- **Water in the desert:** life-saving provision becomes the image for debt that converts need into lifelong servitude.
+- **School for one student:** the sacrificial bargain offered to Hoshino is repeated to Sensei and refused.
+- **Finite card / ordinary life:** care is framed as costly expenditure against Black Suit's invitation to reserve life for oneself.
+- **Welcome home plus scolding:** rescue means restored belonging and answerability, not innocence or possession.
+- **Solitary encounter → coalition idea:** adult action returns information to group planning instead of ending the crisis alone.

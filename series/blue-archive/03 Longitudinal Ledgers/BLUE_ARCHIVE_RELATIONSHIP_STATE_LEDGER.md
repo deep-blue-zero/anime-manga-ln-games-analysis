@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
-source_boundary: Sequential main-story reading through BA:main:001:002:015
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
+source_boundary: Sequential main-story reading through BA:main:001:002:016
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -249,3 +249,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **ABYDOS ↔ PS68:** coalition produces a bounded tactical victory and restores rescue planning without resolving prior harms into perfect friendship.
 - **AYANE ↔ COMMITTEE:** despair yields to coordinated regrouping rather than impulsive pursuit.
 - **SENSEI ↔ BLACK SUIT:** first direct face-to-face encounter begins at an unspecified location; terms and power balance remain OPEN.
+
+## C002 E016 relationship delta — co-option refused, responsibility chosen
+
+- **SENSEI ↔ GEMATRIA/BLACK SUIT:** direct negotiation becomes explicit ideological opposition after two cooperation refusals and rejection of Hoshino-for-school exchange.
+- **SENSEI ↔ HOSHINO:** unsigned advisor consent preserves a procedural/relational claim; rescue aims at return and accountability rather than rights transfer.
+- **SENSEI ↔ COMMITTEE:** Sensei returns with actionable intelligence and a coalition idea; students welcome, interpret, and plan rather than receive a completed adult solution.
+- **BLACK SUIT ↔ HOSHINO:** research-object relation is specified through mystic/fear experimentation at the desert lab.
+- **BLACK SUIT/GEMATRIA ↔ KAISER:** separate actors remain; Gematria claims it can resolve PMC, suggesting leverage without collapsing hierarchy.
+- **COMMITTEE ↔ HOSHINO:** anticipated `welcome home`, scolding, and reply make restored accountable membership the rescue goal.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:015
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
-current_sequential_boundary: MAIN_V001_C002 E015 complete; E016 next
+source_boundary: Sequential main-story reading through BA:main:001:002:016
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E016
+current_sequential_boundary: MAIN_V001_C002 E016 complete; E017 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -928,6 +928,25 @@ No `BA-C019` is opened.
 
 - **Established:** PMC retreat, incomplete rescue, three singleton Sensei interventions, and first face-to-face Sensei/Black Suit contact.
 - **Not established:** Black Suit site's identity, invitation/access route, Hoshino proximity/condition, next proposal, or final battle outcome.
+
+## C002 E016 claim transitions
+
+- **BA-C001: STRENGTHEN decisively** — adult responsibility is explicitly chosen where responsible adults were absent.
+- **BA-C002–C003: STRENGTHEN sharply** — Sensei contests a captured choice and returns actionable information to coalition planning.
+- **BA-C004: STRENGTHEN / OPEN mechanism** — the adult card is recognized with alleged life/time cost; no activation/effect is shown.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is not powerless in every domain and is not sufficient alone; students identify coalition need.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE sharply** — advisor standing blocks coerced exit and aims at accountable return; veto/self-expenditure require limits.
+- **BA-C012: STRENGTHEN / REVISE** — Gematria is named/self-described; separate cooperation with Kaiser remains.
+- **BA-C013–C014: STRENGTHEN** — Gematria admits opportunistic exploitation and claims capacity over the Kaiser problem.
+- **BA-C015: STRENGTHEN** — formal withdrawal is challenged and the living committee plans restoration.
+- **BA-C016–C017: STRENGTHEN decisively** — legitimate aid refuses sacrificial substitution and returns to collective choice; rule form alone is insufficient.
+- **BA-C018: STRENGTHEN lightly** — `welcome home` makes restored belonging the rescue goal. No `BA-C019` is opened.
+
+### C002 E016 epistemic firewall
+
+- **Established:** Gematria name/self-description, repeated refusals, unsigned advisor status challenge, adult-card presentation, lab location, experiment statement, and coalition planning.
+- **Black Suit testimony only:** sandstorm natural causation, precise card cost, outsider ontology, former ruler-level power, Mimesis/fear mechanism.
+- **Not established:** card activation, `wolf god` identity, collapsed-premise cause, complete information returned to students, or Sensei's ally plan.
 
 ## C002 E012 claim transitions
 
