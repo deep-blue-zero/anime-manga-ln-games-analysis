@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
-source_boundary: Sequential main-story reading through BA:main:001:002:014
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
+source_boundary: Sequential main-story reading through BA:main:001:002:015
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -414,3 +414,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Relational counterexample:** PS68's return disproves the director's universal abandonment claim before Sensei acts.
 - **Anti-sovereign aid:** Sensei joins the defense without using Hoshino's absence or committee nonrecognition to claim local authority.
 - **Adult contrast:** Hoshino distinguishes Sensei's trustworthiness from Black Suit's deceptive adult contract practice.
+
+## C002 E015 delta — `my student` and restoration pressure
+
+- **Choice topology:** three singleton groups—two protective declarations to the director and one regroup recommendation.
+- **Relational claim:** `私の大事な生徒` makes care personal and forceful; it contests capture but uses possessive grammar that must remain accountable to Hoshino's agency.
+- **Restoration aim:** `返してもらう` seeks Hoshino's return rather than assignment of rights to Sensei, distinguishing protection from Black Suit's ownership model.
+- **Proportional pause:** Sensei recommends returning after retreat; the adult does not turn tactical advantage into uncontrolled pursuit.
+- **Direct risk:** Sensei enters Black Suit's unspecified site alone/on-screen without a demonstrated command role or outcome.

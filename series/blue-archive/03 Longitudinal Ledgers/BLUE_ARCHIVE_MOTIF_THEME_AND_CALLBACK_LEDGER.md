@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
-source_boundary: Sequential main-story reading through BA:main:001:002:014
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
+source_boundary: Sequential main-story reading through BA:main:001:002:015
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -373,3 +373,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Outlaw force repurposed:** explosives prepared against the Prefect Team become defensive coalition infrastructure.
 - **Adult deception / adult collaboration:** Black Suit and Sensei occupy opposing models within Hoshino's newly explicit adult-trust problem.
 - **`だから何`:** hope is not denial of structural facts but refusal to let them finish political action.
+
+## C002 E015 motif / callback delta
+
+- **Bought dog / chosen partner:** prior contract is denied the power to fix future allegiance.
+- **My student / all rights:** competing relational grammars sharpen the boundary between protection and possession.
+- **Commander down / institution unresolved:** tactical victory produces time rather than restoration.
+- **Unofficial but acting:** documentary invisibility loses its paralysis effect without ceasing to matter structurally.
+- **Retreat as discipline:** after forcing enemy withdrawal, the coalition chooses regrouping instead of triumphal pursuit.
+- **Face-to-face threshold:** collective battle yields to a direct encounter between contrasting adult models.

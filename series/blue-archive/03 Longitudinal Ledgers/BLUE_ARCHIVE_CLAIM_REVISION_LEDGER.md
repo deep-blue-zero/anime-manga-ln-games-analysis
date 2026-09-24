@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:014
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
-current_sequential_boundary: MAIN_V001_C002 E014 complete; E015 next
+source_boundary: Sequential main-story reading through BA:main:001:002:015
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
+current_sequential_boundary: MAIN_V001_C002 E015 complete; E016 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -913,6 +913,21 @@ No `BA-C019` is opened.
 - **Established:** committee nonrecognition; Black Suit's non-Kaiser status; aligned cooperation; Hoshino research objective; PS68's independent tactical intervention.
 - **Strong inference:** Yume-senpai is the previously unnamed former president.
 - **Not established:** Black Suit's company/name/full Gematria structure, earlier adult deception, coalition victory, Hoshino rescue, or the legal conclusion the director draws from missing approval.
+
+## C002 E015 claim transitions
+
+- **BA-C001–C004: STRENGTHEN / COMPLICATE** — Sensei accepts personal protective duty and coalition role, but rescue remains incomplete and possessive wording requires scrutiny.
+- **BA-C005–C006: PRESERVE REJECTED** — tactical victory is distributed across student initiative and adult collaboration.
+- **BA-C007–C011: STRENGTHEN / PRESSURE-TEST** — care explicitly opposes capture; agency-preserving purpose must still answer Hoshino's signed act.
+- **BA-C012–C014: STRENGTHEN** — command disruption forces Kaiser retreat; Black Suit remains differentiated for direct negotiation.
+- **BA-C015: STRENGTHEN** — unofficial students continue defense and rescue planning.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE** — contractor realignment restores options; emergency status-bracketing and protective override require limits.
+- **BA-C018: STRENGTHEN** — repaired relations yield decisive aid. No `BA-C019` is opened before the direct encounter develops.
+
+### C002 E015 epistemic firewall
+
+- **Established:** PMC retreat, incomplete rescue, three singleton Sensei interventions, and first face-to-face Sensei/Black Suit contact.
+- **Not established:** Black Suit site's identity, invitation/access route, Hoshino proximity/condition, next proposal, or final battle outcome.
 
 ## C002 E012 claim transitions
 

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
-source_boundary: Sequential main-story reading through BA:main:001:002:014
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
+source_boundary: Sequential main-story reading through BA:main:001:002:015
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -567,6 +567,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `だから何なのよ`: Aru refuses the inference from overwhelming adversity to surrender without denying the adversity.
 - `協業`: Aru names Sensei's role as collaboration, not command or rescue ownership.
 - `ユメ先輩`: a named absent senior enters Hoshino's apology; former-president identity remains inferential at this boundary.
+
+## C002 E015 delta — dogs, precious students, and return
+
+- `飼い犬`: the director exposes an employer-as-owner model that PS68 immediately refuses.
+- `先生の方が、一緒に仕事がしやすかった`: Aru grounds alignment in working relation rather than moral conversion or formal allegiance.
+- `私の大事な生徒`: Sensei's protective possessive is affectively strong and ethically non-neutral.
+- `返してもらう`: the requested action is restoration from the captor, not reassignment to Sensei.
+- `非公認` / `不法組織だって構わない`: Serika brackets classification under rescue emergency; the scope should not be universalized.
+- `入る`: scene 3 gives only Sensei's internal decision to enter; access history and invitation remain unstated.
+- **Locator caution:** scene 3 begins at `u:0002`, with no canonical `u:0001` record.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
-source_boundary: Sequential main-story reading through BA:main:001:002:014
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
+source_boundary: Sequential main-story reading through BA:main:001:002:015
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -240,3 +240,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **KAYOKO ↔ AYANE/COMMITTEE:** hard-nosed acknowledgment of despair is paired with practical restoration of action.
 - **HOSHINO ↔ YUME:** Yume-senpai is named in Hoshino's guilt sequence; identification with the former president remains strong inference, not yet closed fact.
 - **ABYDOS ↔ GENERAL STUDENT COUNCIL / OTHER SCHOOLS:** prior petitions/nonintervention define institutional abandonment, while PS68 immediately disproves universal relational abandonment.
+
+## C002 E015 relationship delta — client refusal and protective standing
+
+- **PS68 ↔ KAISER DIRECTOR:** former employment is rejected as ownership; betrayal is embraced as autonomous outlaw choice.
+- **ARU ↔ SENSEI:** ease of working together becomes Aru's explicit reason for present alignment.
+- **SENSEI ↔ HOSHINO:** `my precious student` and a return demand assert protection against capture; wording remains subject to the nonpossession test.
+- **ABYDOS ↔ PS68:** coalition produces a bounded tactical victory and restores rescue planning without resolving prior harms into perfect friendship.
+- **AYANE ↔ COMMITTEE:** despair yields to coordinated regrouping rather than impulsive pursuit.
+- **SENSEI ↔ BLACK SUIT:** first direct face-to-face encounter begins at an unspecified location; terms and power balance remain OPEN.

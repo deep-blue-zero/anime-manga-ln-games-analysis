@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
-source_boundary: Sequential main-story reading through BA:main:001:002:014
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E015
+source_boundary: Sequential main-story reading through BA:main:001:002:015
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -206,6 +206,15 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kayoko:** supplies a prepared command-disruption strategy and retains sober awareness of future adversity.
 - **Mutsuki / Haruka:** reintroduce affectionate alliance and extensive pre-positioned explosives; aid and excess remain conjoined.
 - **Sensei:** accepts Aru's invitation to student-authored collaboration; no sovereign takeover occurs.
+
+## C002 E015 delta — tactical recovery and direct encounter
+
+- **Aru:** rejects former-client control and explicitly prefers Sensei as a collaborator.
+- **Nonomi / Serika / Shiroko:** recover from strategic despair and prioritize Hoshino's rescue over status-based erasure.
+- **Ayane:** confirms retreat, then converts tactical success into regrouping and method-search for a larger battle.
+- **Sensei:** calls Hoshino a precious student, demands her return, recommends withdrawal, and enters Black Suit's location.
+- **Kaiser director:** commander injury forces retreat; threat capacity remains.
+- **Black Suit:** begins first direct face-to-face conversation with Sensei; purpose/terms remain OPEN.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 
