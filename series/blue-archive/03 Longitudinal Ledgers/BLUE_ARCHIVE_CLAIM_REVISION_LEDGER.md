@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:011
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
-current_sequential_boundary: MAIN_V001_C002 E011 complete; E012 next
+source_boundary: Sequential main-story reading through BA:main:001:002:012
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
+current_sequential_boundary: MAIN_V001_C002 E012 complete; E013 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -877,6 +877,25 @@ No `BA-C019` is opened.
 - **BA-C016: STRENGTHEN / REVISE** — title/information advantage cannot alone legitimate coercion against a resident institution.
 - **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
 - **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E012 claim transitions
+
+- **BA-C001–C003: STRENGTHEN / COMPLICATE** — adult care confronts secrecy and promises action, but uses compromised evidence and cannot prevent disappearance.
+- **BA-C004: STRENGTHEN limits** — adult responsibility is explicit while efficacy remains bounded.
+- **BA-C005–C006: PRESERVE REJECTED** — student method judgment and adult non-omnipotence coexist.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE sharply** — private accountability enables disclosure but constrains refusal; Hoshino retains action beyond Sensei's control.
+- **BA-C012: STRENGTHEN / REVISE** — repeated Black Suit recruitment, debt relief, and apparent director fear establish leverage without exact hierarchy.
+- **BA-C013–C014: STRENGTHEN** — finance, recruitment, and PMC-use inference converge; full organization remains OPEN.
+- **BA-C015: STRENGTHEN sharply** — collective survival is tested by criminal temptation and sacrificial exit.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE sharply** — meaningful choice requires viable alternatives, but information claims also require proportionate means.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+### C002 E012 epistemic firewall
+
+- **Established:** repeated two-year recruitment; Black Suit's latest debt-relief-for-exit/employment proposal; Hoshino's repeated refusal, momentary doubt, promised disclosure, and next-morning absence with form/letter left behind.
+- **Hoshino's interpretation:** Kaiser collects PMC-useful personnel.
+- **Observed but not formalized:** the Kaiser director appeared afraid of Black Suit.
+- **Not established:** signed acceptance, destination, letter contents, Black Suit's legal employer/title, Gematria membership, or exact hierarchy.
 
 ## C002 E010 claim transitions
 

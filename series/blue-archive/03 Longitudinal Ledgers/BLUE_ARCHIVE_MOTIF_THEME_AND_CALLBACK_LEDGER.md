@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
-source_boundary: Sequential main-story reading through BA:main:001:002:011
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
+source_boundary: Sequential main-story reading through BA:main:001:002:012
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -343,3 +343,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **School versus individual liability:** exit is made personally rational and collectively annihilating.
 - **`負け戦`:** defeat occurs in finance/choice architecture, not simply combat.
 - **Stale dossier / changed person:** Hina's aggressive-genius record is juxtaposed with present Hoshino without erasing either.
+
+## C002 E012 motif / callback delta
+
+- **Poster / torn inheritance:** the old sand-festival image passes from president to Hoshino before a tearing sound; hope is inherited through conflict rather than simple reverence.
+- **Miracle rejected / miracle repeated:** first-year realism returns as present exhausted possibility, changing the emotional function of `奇跡` without proving belief.
+- **Crime proposed / method restored:** PMC infiltration repeats the bank-robbery temptation and is rejected through institutional memory.
+- **Secret → confrontation → promised disclosure → absence:** information moves toward collective governance, then slips out again before the promise matures.
+- **School as people:** Hoshino's attachment rests on current members rather than intact building, land title, or glorious past.
+- **Debt prices a person:** collective financial obligation is converted into an individual recruitment/sacrifice proposition.
+- **Adult promise / limited control:** care names responsibility but cannot guarantee the student's continued presence.

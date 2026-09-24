@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
-source_boundary: Sequential main-story reading through BA:main:001:002:011
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
+source_boundary: Sequential main-story reading through BA:main:001:002:012
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -390,3 +390,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Hina says Schale would have increased Prefect losses, strengthening tactical reputation.
 - Sensei nevertheless cannot prevent the creditor from changing financial terms or offering coerced institutional exit; capability remains domain-specific, not sovereign/omnipotent.
 - The withdrawal-form confidentiality problem intensifies as the director makes abandonment the offered escape.
+
+## C002 E012 delta — private accountability and a failed adult promise
+
+- **Choice topology:** fifteen groups; fourteen singleton interventions and one two-variant presentation of the same withdrawal form, followed by duplicated convergence lines.
+- **Method rejection:** Sensei agrees with ending the exhausted meeting after the committee rejects PMC infiltration; the adult does not authorize a crime under necessity.
+- **Direct confrontation:** Sensei presents a private document obtained through Shiroko's unauthorized bag search and presses Hoshino to talk. Imminent collective risk supports accountability, but means and refusal pressure remain ethically material.
+- **Adult responsibility:** `大人として何とかする` accepts a distinctive adult obligation without claiming a known solution.
+- **Bounded efficacy:** reassurance and promise do not prevent Hoshino's next-morning disappearance; valuable adult presence is not control over a student.

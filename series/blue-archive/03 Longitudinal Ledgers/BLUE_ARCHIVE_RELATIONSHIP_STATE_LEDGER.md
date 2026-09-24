@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
-source_boundary: Sequential main-story reading through BA:main:001:002:011
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
+source_boundary: Sequential main-story reading through BA:main:001:002:012
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -212,3 +212,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino ↔ committee:** Hoshino ends a futile exchange and protects the group from further manipulation, while her withdrawal-form contradiction remains hidden.
 - **Hina ↔ Hoshino:** Hina's relation is intelligence-based rather than prior personal meeting; present curiosity about why Hoshino stayed remains private.
 - **Director ↔ former president/Hoshino:** prior observation/acquaintance is established; exact history remains open.
+
+## C002 E012 relationship delta — care, secrecy, and sacrificial recruitment
+
+- **HOSHINO ↔ FORMER PRESIDENT:** remembered predecessor/successor conflict centers on miracle, realism, and office responsibility; affection, identity, and fate remain incompletely specified.
+- **HOSHINO ↔ COUNTERMEASURES COMMITTEE:** present people make the damaged school lovable, but Hoshino withholds a sacrifice plan, promises disclosure, then leaves governing information behind.
+- **SENSEI ↔ HOSHINO:** private confrontation secures material disclosure and an adult promise, while compromised evidence, narrowed refusal, and the subsequent departure complicate agency-preserving care.
+- **SHIROKO ↔ HOSHINO:** trust and alarm coexist; Shiroko seeks conversation but previously searched Hoshino's bag without consent.
+- **BLACK SUIT ↔ HOSHINO:** repeated recruitment over two years culminates in debt relief conditioned on exit and employment; no signed acceptance or exact hierarchy is established.
+- **BLACK SUIT ↔ KAISER DIRECTOR:** Hoshino says the director appeared afraid of Black Suit; apparent leverage is established as observation, not a formal org relation.

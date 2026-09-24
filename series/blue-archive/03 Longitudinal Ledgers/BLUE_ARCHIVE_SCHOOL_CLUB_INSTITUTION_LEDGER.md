@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
-source_boundary: Sequential main-story reading through BA:main:001:002:011
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
+source_boundary: Sequential main-story reading through BA:main:001:002:012
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -199,3 +199,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser PMC:** force scale is stated as hundreds of tanks/soldiers and hundreds of tons of explosives/ammunition, allegedly for an unknown rival to the treasure search.
 - **Abydos:** students are offered individual escape through withdrawal/transfer, while institutional survival is made financially impossible.
 - **Legitimacy:** formal title, transaction records, and contract clauses can administer substantive domination when the stronger party changes the choice field.
+
+## C002 E012 institutional delta — recruitment as debt instrument
+
+- **Abydos Countermeasures Committee:** rejects a prepared PMC infiltration by reapplying its bank-robbery method boundary; chair absence then disrupts collective governance.
+- **Kaiser Corporation / Black Suit:** Hoshino reports two years of recruitment and a latest offer to cover nearly half the debt in exchange for leaving school and joining `our company`.
+- **Kaiser PMC:** Hoshino believes useful personnel are being collected for the PMC; this remains informed student inference, not admitted institutional policy.
+- **School office / membership:** a withdrawal form becomes the mechanism through which collective debt pressure is redirected into an individual's institutional exit.
+- **Hierarchy firewall:** the director's apparent fear supports Black Suit leverage but does not establish a formal Kaiser or Gematria position.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
-source_boundary: Sequential main-story reading through BA:main:001:002:011
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
+source_boundary: Sequential main-story reading through BA:main:001:002:012
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -545,6 +545,15 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** `久しぶり` marks direct prior desert experience, while `だったとか` and `私も実際に見たことはない` explicitly distinguish inherited oasis history from eyewitness memory.
 - **Ayane:** `見たところ` and `引き続き警戒` preserve current negative observation without treating it as disproof.
 - No material speaker anomaly appears.
+
+## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
+
+- `奇跡なんて無い` / `奇跡でも起きるのかなぁ`: younger Hoshino rejects the former president's restoration word, then reuses it in present exhaustion; the callback holds skepticism, inheritance, and thin hope together.
+- `逃がしてくれそうにはない`: Hoshino names Sensei's insistence as making conversational escape unlikely, marking care and pressure in the same line.
+- `うちの会社`: Black Suit's recalled wording claims a company from within the proposal but does not by itself identify its full legal entity or Gematria relation.
+- `学校は、私がいなくなったら潰れちゃうから`: Hoshino explains repeated refusal through institutional dependence, making her casual register carry a severe burden claim.
+- `秘密は無い方が良い`: the promised norm of disclosure is immediately strained by next-morning absence.
+- **Attribution/topology caution:** Black Suit lines at `scene:002:u:0078-0080` are recalled speech; choice 5 variants converge and `u:0054-0055` duplicate the response.
 
 ## C002 E010 delta — debt as coercive conversational register
 

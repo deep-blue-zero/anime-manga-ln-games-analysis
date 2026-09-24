@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
-source_boundary: Sequential main-story reading through BA:main:001:002:011
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
+source_boundary: Sequential main-story reading through BA:main:001:002:012
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -186,6 +186,15 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Nonomi/Serika:** enter a major part of their own district for the first time, exposing territorial estrangement inside membership.
 - **Ayane:** maintains target-sector precision, negative-observation discipline, and continued vigilance.
 - **Sensei:** no dialogue, choice, or distinct causal contribution.
+
+## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
+
+- **Hoshino:** first-year anti-miracle realism is linked to the former president; she discloses two years of Kaiser recruitment, repeated refusal, and a recent debt-relief offer, then disappears after promising disclosure. Acceptance/signature remains OPEN.
+- **Shiroko:** renews an expedient-crime proposal under existential pressure, yields to Ayane's objection, and initiates accountability through an unauthorized bag search.
+- **Ayane:** protects the committee's prior method boundary and discovers the form and letter after Hoshino's departure.
+- **Sensei:** uses the discovered form for a private confrontation, promises adult action, and cannot prevent Hoshino's disappearance.
+- **Former president:** enters direct remembered interaction as a restoration-oriented, miracle-invoking leader whose identity and fate remain unknown.
+- **Black Suit:** repeated recruiter offering debt relief for Hoshino's exit/employment; exact identity, organization, and authority remain OPEN.
 
 ## C002 E009 delta — combined-arms encirclement
 
