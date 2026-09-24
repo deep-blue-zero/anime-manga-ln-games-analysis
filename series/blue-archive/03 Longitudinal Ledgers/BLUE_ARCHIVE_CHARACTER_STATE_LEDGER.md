@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
-source_boundary: Sequential main-story reading through BA:main:001:002:002
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
+source_boundary: Sequential main-story reading through BA:main:001:002:003
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -147,3 +147,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ayane:** strengthens as risk governor—stops Shiroko's immediate fight impulse, favors negotiation, and schedules collective reconstruction after rest.
 - **Shiroko:** remains combat-forward but accepts Ayane's restraint, then asks Sensei about Hina's private message and accepts delayed group disclosure.
 - **Sensei:** receives privileged Kaiser intelligence and promises to return it to the committee; connective information stewardship strengthens without displacing student governance.
+
+## C002 E003 delta — imperfect reparation and inherited dispossession
+
+- **Aru:** refuses renewed violence against former battlefield allies, leaves all remaining bag money for Shiba Seki repairs, and admits attachment through a future ramen return; reparative action now contradicts her outlaw performance.
+- **Haruka:** says Aru's intervention is why she is still alive, grounding loyalty while leaving demolition misinterpretation and self-erasure unresolved.
+- **Kayoko/Mutsuki:** name Aru's troublesome goodness as stable group reality and support non-hostility toward Sensei.
+- **Ayane/Serika:** learn that prior debt default transferred Abydos land/building ownership; both move immediately to verify, with Serika's concern centered on the proprietor rather than lost wages.
+- **Sensei:** permits PS68's free departure, supports repair, makes only an explicitly uncertain Kaiser guess, and waits for student-led verification.

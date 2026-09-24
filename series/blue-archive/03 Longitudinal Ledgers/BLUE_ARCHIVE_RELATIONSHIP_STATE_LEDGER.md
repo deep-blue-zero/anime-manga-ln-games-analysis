@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
-source_boundary: Sequential main-story reading through BA:main:001:002:002
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
+source_boundary: Sequential main-story reading through BA:main:001:002:003
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -150,3 +150,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hina ↔ Sensei:** begins through discretionary warning rather than custody. Hina transfers sensitive Kaiser information without claiming the response.
 - **Sensei ↔ Abydos:** Sensei promises Shiroko to disclose the warning to everyone later, reinforcing transparency toward the group.
 - **Abydos ↔ PS68:** PS68 escapes during the transition. The tactical alliance ends without adjudicating responsibility, sponsor, or friendship.
+
+## C002 E003 relationship delta — farewell without severance
+
+- **Abydos ↔ PS68:** direct hostility becomes nonaggression, material reparation, and possible future return; no full-group reconciliation or responsibility adjudication occurs.
+- **Sensei ↔ PS68:** a failed enemy contract is separated from future friendship/partnership. Sensei neither detains nor condemns the departing group.
+- **Aru ↔ Haruka:** Haruka's perceived life debt becomes explicit, deepening care while leaving dangerous command interpretation unrepaired.
+- **PS68 ↔ Shiba Seki:** all remaining bag money is left for repair, and future ramen return preserves relation beyond the destroyed site.
+- **Serika ↔ proprietor:** threatened closure reveals that employment is secondary to community attachment and concern for his continued presence.

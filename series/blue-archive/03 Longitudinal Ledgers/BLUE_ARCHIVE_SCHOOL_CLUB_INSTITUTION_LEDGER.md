@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
-source_boundary: Sequential main-story reading through BA:main:001:002:002
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
+source_boundary: Sequential main-story reading through BA:main:001:002:003
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -132,3 +132,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser Corporation:** a credible independent warning places an undisclosed Kaiser project in the abandoned Abydos desert. Purpose, mechanism, and ties to Kaiser Loan/PMC/Black Suit remain OPEN.
 - **Tea Party / Pandemonium information states:** Hina says neither yet knows the desert intelligence; this is her current report, not permanent omniscience.
 - **Problem Solver 68:** escapes without institutional disposition. The jurisdiction dispute closes procedurally only for Prefect withdrawal, not for PS68 accountability.
+
+## C002 E003 institutional delta — debt takes title
+
+- **Abydos:** current members discover that prior default transferred ownership of academy land/buildings, separating nominal autonomous territory from material title and governance knowledge.
+- **Shiba Seki Ramen:** demolition accelerated a closure already threatened by eviction. Repair funding exists, but rebuilding rights and tenure remain uncertain.
+- **Unknown owner:** Sensei's mutually exclusive Kaiser Loan/Corporation guesses receive only vague witness recognition. No exact owner or unified Kaiser hierarchy is established.
+- **Problem Solver 68:** leaves its exposed office under both Prefect and failed-client pressure; all remaining bag money is assigned to repair, but client and money provenance remain open.
+- **Institutional legitimacy principle:** debt can hollow out sovereignty spatially by transferring the physical ground on which community institutions operate.

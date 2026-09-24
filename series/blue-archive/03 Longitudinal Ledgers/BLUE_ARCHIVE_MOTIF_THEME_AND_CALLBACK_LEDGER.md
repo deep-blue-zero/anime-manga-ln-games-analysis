@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
-source_boundary: Sequential main-story reading through BA:main:001:002:002
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
+source_boundary: Sequential main-story reading through BA:main:001:002:003
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -273,3 +273,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Private intelligence → collective deliberation:** Sensei promises to carry Hina's warning back to the full committee.
 - **Rest before interpretation:** the exhausted committee postpones synthesis rather than forcing certainty amid confusion.
 - **Visible idleness / hidden history:** Hoshino's `昼寝` and `おじさん` surface is placed against Hina's memory of first-year Hoshino and `あの事件`.
+
+## C002 E003 motif / callback delta
+
+- **Money as reparation:** contract money shifts from capture/equipment logic into repair of community harm.
+- **Destroyed place / surviving hospitality:** PS68 remembers the meal and promises return; relational effects outlast the physical restaurant.
+- **Debt becomes land:** recurring repayment pressure is revealed to have transferred property title and enabled eviction.
+- **Farewell as continuity:** `さよなら` produces `また会おう`, projected partnership, and ramen return rather than clean severance.
+- **Responsibility before truth:** repair and nonaggression begin while direct-act recognition and full confession remain absent.
+- **Choice as disciplined uncertainty:** Loan/Corporation alternatives stage inference without converting selection into fact.

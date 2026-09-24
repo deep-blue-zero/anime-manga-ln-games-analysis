@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
-source_boundary: Sequential main-story reading through BA:main:001:002:002
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
+source_boundary: Sequential main-story reading through BA:main:001:002:003
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -506,3 +506,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Choice branching:** duplicate `そう` (`u:0118-0119`) and duplicate `義理はない` responses (`u:0125-0126`) follow two-option groups and are treated as branch-conditioned convergence, not repeated speech.
 - **Attribution quarantine:** `u:0029-0044` and `u:0054-0064` map multiple Ayane/Hoshino turns to Hina; `u:0068`, `u:0081-0082`, and `u:0084` also conflict with address/continuity. Use propositions and recoverable turn structure, not these mappings for fine-grained voice.
 - **Formatting anomaly:** `u:0121` interleaves `万魔殿`, its reading, and `ティーパーティー`; it securely names two uninformed political bodies but not a compound institution.
+
+## C002 E003 delta — affection beneath outlaw language
+
+- **Aru:** `できるわけないじゃない` rejects renewed attack directly; `本当に美味しかった、から` is a quiet affective admission buffered by business/ramen pretexts.
+- **Mutsuki:** `こういうのがうちのアルちゃん` makes Aru's failed villain consistency an affectionate group identity.
+- **Kayoko:** `本当に、手のかかる社長だ` encodes care through weary realism.
+- **Haruka:** `アル様がいなかったらきっと今こうして生きていない` grounds extreme deference in perceived rescue without explaining the original event.
+- **Branch convergence:** `choice:005` offers Kaiser Loan or Corporation; identical proprietor replies at `u:0067-0068` do not confirm both or either.
+- **Speaker anomaly:** `u:0007` is promoted as Mutsuki but protests disposal of Aru's calligraphy and is quarantined from Mutsuki voice analysis.

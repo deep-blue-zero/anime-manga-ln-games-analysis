@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
-source_boundary: Sequential main-story reading through BA:main:001:002:002
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
+source_boundary: Sequential main-story reading through BA:main:001:002:003
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -331,3 +331,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Information role:** Hina privately warns Sensei about Kaiser Corporation activity in the Abydos desert. Sensei then promises Shiroko to tell everyone later.
 - **Ethical significance:** privileged information is held temporarily but routed back to collective deliberation, preserving Schale as connective/additive rather than substitutive.
 - **Contrast:** Hina's warning gives the recipient actionable knowledge without custody, providing an agency-preserving alternative to Ako's E001 protection model.
+
+## C002 E003 delta — farewell, uncertainty, and repair stewardship
+
+- **Choice-space:** seven groups; one two-option Kaiser attribution and six singleton responses. The two guesses are mutually exclusive and explicitly remain unconfirmed.
+- **PS68 relation:** Sensei permits departure, expresses care, and projects future meeting/partnership without demanding confession, detention, or loyalty.
+- **Investigation role:** Sensei defers to Ayane and Serika's self-initiated verification and waits at school with separate information to report.
+- **Repair role:** Sensei tells the proprietor to use PS68's bag money for rebuilding; this stewards the resource toward its stated reparative purpose without claiming credit or forgiveness.
+- **Constraint:** Sensei cannot identify the property owner from current evidence, preserving bounded knowledge.

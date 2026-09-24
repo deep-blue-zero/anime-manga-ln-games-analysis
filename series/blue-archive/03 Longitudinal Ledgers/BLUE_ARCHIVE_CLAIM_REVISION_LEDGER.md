@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:002
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E002
-current_sequential_boundary: MAIN_V001_C002 E002 complete; E003 next
+source_boundary: Sequential main-story reading through BA:main:001:002:003
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
+current_sequential_boundary: MAIN_V001_C002 E003 complete; E004 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -790,3 +790,28 @@ No `BA-C019` is opened.
 - **Sensei additionally learns:** Hina reports that Kaiser Corporation is plotting something in the abandoned Abydos desert and says Pandemonium Society and the Tea Party do not yet know.
 - **Group disclosure:** Sensei promises Shiroko to tell everyone later; E002 does not yet stage that report.
 - **Audience/project preserve as OPEN:** Hoshino's absence cause, `あの事件`, Hina's incomplete Schale inference, Kaiser objective, and all cross-Kaiser hierarchy claims.
+
+## C002 E003 claim transitions
+
+| Claim | E003 transition | Reason |
+|---|---|---|
+| BA-C001–C003 | **STRENGTHEN** | responsibility, cross-conflict legitimacy, and Schale's connective role operate through free departure, repair, and student-led verification. |
+| BA-C004 | **PRESERVE** | no new capacity evidence. |
+| BA-C005–C006 | **PRESERVE REJECTED** | Sensei cannot name the owner; Ayane and Serika initiate verification. |
+| BA-C007–C008 | **STRENGTHEN** | repair preserves others' choices, while mutually exclusive Kaiser guesses remain inference rather than fact. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no Arona/Shittim recurrence. |
+| BA-C010–C011 | **STRENGTHEN** | Sensei does not possess PS68 or the investigation; adult aid coexists with uncertainty and student initiative. |
+| BA-C012 | **STRENGTHEN / REVISE** | debt coercion now includes property transfer and eviction; exact hierarchy remains unproved. |
+| BA-C013–C014 | **STRENGTHEN** | the debt system has durable land/building effects and extra-school material control. |
+| BA-C015 | **STRENGTHEN** | Abydos survival now includes control of the physical ground of community life. |
+| BA-C016–C017 | **STRENGTHEN** | repair, free departure, and verification preserve recipient agency; responsibility can begin before full truth. |
+| BA-C018 | **STRENGTHEN sharply** | remembered hospitality, repair money, and promised return survive destruction of the site. |
+
+No `BA-C019` is opened. Property dispossession revises BA-C012–C015 rather than requiring a separate claim family.
+
+### C002 E003 epistemic firewall
+
+- **PS68 knows/does:** it failed the contract, faces client risk, leaves all remaining bag money for repair, and departs with possible return.
+- **Abydos/Sensei learn:** prior debt default transferred land/building ownership and Shiba Seki had an eviction notice.
+- **Not established:** whether Kaiser Loan or Kaiser Corporation is the title holder; the witness cannot confirm the selected guess.
+- **Still pending:** Sensei has not yet delivered Hina's desert warning to the full committee; cross-Kaiser hierarchy and Hoshino history remain OPEN.
