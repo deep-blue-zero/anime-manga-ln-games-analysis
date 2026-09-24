@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:003
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
-current_sequential_boundary: MAIN_V001_C002 E003 complete; E004 next
+source_boundary: Sequential main-story reading through BA:main:001:002:004
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
+current_sequential_boundary: MAIN_V001_C002 E004 complete; E005 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -815,3 +815,28 @@ No `BA-C019` is opened. Property dispossession revises BA-C012–C015 rather tha
 - **Abydos/Sensei learn:** prior debt default transferred land/building ownership and Shiba Seki had an eviction notice.
 - **Not established:** whether Kaiser Loan or Kaiser Corporation is the title holder; the witness cannot confirm the selected guess.
 - **Still pending:** Sensei has not yet delivered Hina's desert warning to the full committee; cross-Kaiser hierarchy and Hoshino history remain OPEN.
+
+## C002 E004 claim transitions
+
+| Claim cluster | E004 transition | Reason |
+|---|---|---|
+| BA-C001–C003 | **STRENGTHEN / COMPLICATE** | solidarity requires governable information but also respects personal limits; Schale remains supportive rather than substitutive. |
+| BA-C004 | **PRESERVE** | no new capability evidence. |
+| BA-C005–C006 | **PRESERVE REJECTED** | students produce decisive cadastral evidence and manage conflict Sensei cannot solve. |
+| BA-C007–C008 | **STRENGTHEN / COMPLICATE** | restraint includes declining coerced disclosure; choices author care/presence rather than route control. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no Arona/Shittim recurrence. |
+| BA-C010–C011 | **STRENGTHEN** | Sensei stays without claiming secrets or solutions; student competence remains causal. |
+| BA-C012 | **STRENGTHEN / REVISE** | Kaiser Construction becomes a distinct verified actor; unified hierarchy remains OPEN. |
+| BA-C013–C014 | **STRENGTHEN sharply** | debt-linked capture is documentarily registered across most of the district. |
+| BA-C015 | **STRENGTHEN** | Abydos method/survival now confronts material nonownership of its territory. |
+| BA-C016–C017 | **STRENGTHEN / COMPLICATE** | agency includes access to governing facts and limits on personal disclosure. |
+| BA-C018 | **PRESERVE** | no new hospitality-state change. |
+
+No `BA-C019` is opened.
+
+### C002 E004 epistemic firewall
+
+- **Committee now knows:** the cadastral register names Kaiser Construction as owner of most of the Abydos district.
+- **Committee does not know:** how the transactions were structured, how Kaiser Construction relates to other Kaiser entities, or the desert project's object.
+- **Shiroko believes:** Hoshino's sleep account is false; her basis is not disclosed.
+- **Still OPEN:** Hoshino/Black Suit causation, Hina's historical incident, and Sensei's pending full-group delivery of Hina's warning.

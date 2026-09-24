@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
-source_boundary: Sequential main-story reading through BA:main:001:002:003
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
+source_boundary: Sequential main-story reading through BA:main:001:002:004
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -515,3 +515,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Haruka:** `アル様がいなかったらきっと今こうして生きていない` grounds extreme deference in perceived rescue without explaining the original event.
 - **Branch convergence:** `choice:005` offers Kaiser Loan or Corporation; identical proprietor replies at `u:0067-0068` do not confirm both or either.
 - **Speaker anomaly:** `u:0007` is promoted as Mutsuki but protests disposal of Aru's calligraphy and is quarantined from Mutsuki voice analysis.
+
+## C002 E004 delta — shared-fate language and cadastral register
+
+- **Nonomi:** `運命共同体` and playful `お仕置き☆` frame collective transparency in her soft register; `誰しも言いたくない秘密` then explicitly limits that demand through privacy recognition.
+- **Shiroko:** `いつまでしらを切るつもり？` and `嘘つかないで` are compressed relational accusations rather than tactical exposition.
+- **Hoshino:** `おじさん`/sleep language continues as deflective surface; its truthfulness is explicitly contested.
+- **Ayane:** `土地の台帳`, `地籍図`, `取引`, and `所有者` expand her operator lexicon into documentary property analysis.
+- **Speaker anomaly:** scene 1 `u:0048` is promoted as Shiroko but contains Hoshino's `うへ～` and `おじさん` self-reference; structural attribution is probable, canonical voice attribution quarantined.

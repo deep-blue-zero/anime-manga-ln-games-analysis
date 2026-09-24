@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
-source_boundary: Sequential main-story reading through BA:main:001:002:003
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
+source_boundary: Sequential main-story reading through BA:main:001:002:004
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -339,3 +339,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Investigation role:** Sensei defers to Ayane and Serika's self-initiated verification and waits at school with separate information to report.
 - **Repair role:** Sensei tells the proprietor to use PS68's bag money for rebuilding; this stewards the resource toward its stated reparative purpose without claiming credit or forgiveness.
 - **Constraint:** Sensei cannot identify the property owner from current evidence, preserving bounded knowledge.
+
+## C002 E004 delta — durable presence without compelled disclosure
+
+- **Choice-space:** twelve groups; eleven singleton responses and one two-option affirmation whose structural outcome converges.
+- **Relational role:** Sensei affirms staying when Nonomi asks, reports carefully, notices Shiroko's anxiety, and asks about Nonomi's wellbeing.
+- **Ethical restraint:** Sensei does not force Hoshino or Shiroko to reveal the private conflict despite its possible institutional significance.
+- **Epistemic constraint:** Sensei receives the cadastre from student investigators and does not originate its finding; Hina's desert warning still has not been narrated to the full committee.
+- **Current model:** solidarity is durable presence and facilitation, not guaranteed solution or entitlement to every secret.

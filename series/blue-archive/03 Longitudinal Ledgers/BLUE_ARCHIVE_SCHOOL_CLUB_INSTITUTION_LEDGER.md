@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
-source_boundary: Sequential main-story reading through BA:main:001:002:003
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
+source_boundary: Sequential main-story reading through BA:main:001:002:004
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -140,3 +140,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Unknown owner:** Sensei's mutually exclusive Kaiser Loan/Corporation guesses receive only vague witness recognition. No exact owner or unified Kaiser hierarchy is established.
 - **Problem Solver 68:** leaves its exposed office under both Prefect and failed-client pressure; all remaining bag money is assigned to repair, but client and money provenance remain open.
 - **Institutional legitimacy principle:** debt can hollow out sovereignty spatially by transferring the physical ground on which community institutions operate.
+
+## C002 E004 institutional delta — cadastral confirmation
+
+- **Abydos:** a verified `地籍図` shows most district land is not registered to the school; political identity, lived governance, and material title have diverged.
+- **Kaiser Construction:** enters as the explicitly named registered owner. It is a new differentiated actor; relation to Kaiser Loan, PMC, Corporation, or Black Suit is not yet established.
+- **Countermeasures Committee:** Ayane and Serika independently obtain the decisive document and explain it to the full group, demonstrating evidence-producing governance amid inherited ignorance.
+- **Administrative records:** cadastral title joins shadow-bank ledgers as documentary counter-power exposing control that daily experience concealed.

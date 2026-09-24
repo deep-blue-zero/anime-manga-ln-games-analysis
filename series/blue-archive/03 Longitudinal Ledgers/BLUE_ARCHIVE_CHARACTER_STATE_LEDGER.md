@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
-source_boundary: Sequential main-story reading through BA:main:001:002:003
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
+source_boundary: Sequential main-story reading through BA:main:001:002:004
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -155,3 +155,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kayoko/Mutsuki:** name Aru's troublesome goodness as stable group reality and support non-hostility toward Sensei.
 - **Ayane/Serika:** learn that prior debt default transferred Abydos land/building ownership; both move immediately to verify, with Serika's concern centered on the proprietor rather than lost wages.
 - **Sensei:** permits PS68's free departure, supports repair, makes only an explicitly uncertain Kaiser guess, and waits for student-led verification.
+
+## C002 E004 delta — contested secrecy and documentary shock
+
+- **Nonomi:** combines pragmatic inference, requested solidarity, collective-information ethics, and an important revision from anti-secrecy to respect for personal privacy.
+- **Shiroko:** directly accuses Hoshino of lying about his absence and seeks a private account; her evidence and desired disclosure remain unknown.
+- **Hoshino:** repeats the sleep/laziness explanation, deflects the confrontation, and reacts with apparent shock to Kaiser Construction ownership; neither response settles his hidden history.
+- **Ayane/Serika:** convert oral eviction testimony into decisive cadastral evidence naming the registered owner of most of Abydos.
+- **Sensei:** promises continued presence, notices affect, and avoids coercive disclosure; student research supplies the institutional discovery.

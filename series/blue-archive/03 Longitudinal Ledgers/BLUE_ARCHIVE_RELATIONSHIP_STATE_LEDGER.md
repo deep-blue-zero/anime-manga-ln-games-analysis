@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
-source_boundary: Sequential main-story reading through BA:main:001:002:003
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
+source_boundary: Sequential main-story reading through BA:main:001:002:004
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -158,3 +158,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Aru ↔ Haruka:** Haruka's perceived life debt becomes explicit, deepening care while leaving dangerous command interpretation unrepaired.
 - **PS68 ↔ Shiba Seki:** all remaining bag money is left for repair, and future ramen return preserves relation beyond the destroyed site.
 - **Serika ↔ proprietor:** threatened closure reveals that employment is secondary to community attachment and concern for his continued presence.
+
+## C002 E004 relationship delta — shared fate, privacy, and mistrust
+
+- **Shiroko ↔ Hoshino:** moves to direct mistrust; Shiroko calls the sleep account a lie and requests privacy, while Hoshino deflects without resolving the suspicion.
+- **Nonomi ↔ Shiroko/Hoshino:** Nonomi first rejects a hidden dyad in a `運命共同体`, then recognizes personal limits on forced disclosure. Mediation preserves concern without extracting a confession.
+- **Sensei ↔ committee:** Nonomi explicitly asks Sensei to remain amid multiplying threats; both response variants affirm presence rather than promised victory.
+- **Committee ensemble:** the cadastral reveal supplies shared institutional knowledge after a scene defined by uneven personal knowledge, sharpening the difference between governable facts and protected interiority.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E003
-source_boundary: Sequential main-story reading through BA:main:001:002:003
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
+source_boundary: Sequential main-story reading through BA:main:001:002:004
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -282,3 +282,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Farewell as continuity:** `さよなら` produces `また会おう`, projected partnership, and ramen return rather than clean severance.
 - **Responsibility before truth:** repair and nonaggression begin while direct-act recognition and full confession remain absent.
 - **Choice as disciplined uncertainty:** Loan/Corporation alternatives stage inference without converting selection into fact.
+
+## C002 E004 motif / callback delta
+
+- **Two kinds of hidden story:** personal concealment around Hoshino and documentary concealment in land title develop in parallel.
+- **Shared fate versus privacy:** `運命共同体` demands governable information but does not erase every member's right not to disclose.
+- **Records as counter-power:** the cadastral map repeats the collection-record motif—administration makes hidden coercive relations visible.
+- **Staying without mastery:** Sensei promises continued presence immediately before problems exceed anyone's current control.
+- **Territory versus title:** lived and defended autonomy is materially contradicted by registered ownership.
