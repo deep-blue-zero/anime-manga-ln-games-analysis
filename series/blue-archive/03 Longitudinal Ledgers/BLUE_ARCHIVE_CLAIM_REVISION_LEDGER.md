@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:012
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
-current_sequential_boundary: MAIN_V001_C002 E012 complete; E013 next
+source_boundary: Sequential main-story reading through BA:main:001:002:013
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
+current_sequential_boundary: MAIN_V001_C002 E013 complete; E014 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -877,6 +877,25 @@ No `BA-C019` is opened.
 - **BA-C016: STRENGTHEN / REVISE** — title/information advantage cannot alone legitimate coercion against a resident institution.
 - **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
 - **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E013 claim transitions
+
+- **BA-C001–C003: STRENGTHEN / COMPLICATE** — Hoshino explicitly trusts Sensei as adult support, while Ayane's peer coordination supplies the immediate correction to solo sacrifice.
+- **BA-C004: PRESERVE limits** — Sensei is entrusted/protected but cannot prevent signature, departure, or invasion.
+- **BA-C005–C006: PRESERVE REJECTED / STRENGTHEN rejection** — students independently identify contradiction and perform emergency governance.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE** — Hoshino's completed transaction removes community participation; Sensei's role remains supportive rather than substitutive.
+- **BA-C012: STRENGTHEN sharply / REVISE** — signature, PMC work, Black Suit's rights claim, and director-triggered absorption connect the architecture without validating law/hierarchy.
+- **BA-C013–C014: STRENGTHEN sharply** — finance, personnel capture, force, civilian displacement, occupation, and absorption operate as one plan.
+- **BA-C015: STRENGTHEN sharply** — remaining members enact institutional survival after the director declares the school gone.
+- **BA-C016–C017: STRENGTHEN sharply / COMPLICATE** — one coerced signatory cannot legitimately transfer community control; self-sacrifice can itself remove others' agency.
+- **BA-C018: PRESSURE-TEST** — lived civilian community persists under forced displacement. No `BA-C019` is opened.
+
+### C002 E013 epistemic firewall
+
+- **Established:** signature, desert transport, Black Suit's rights/debt claim, the director's trigger theory, city attack, eviction, school invasion, and corporate-absorption intent.
+- **Hoshino's letter says:** the bargain is Kaiser PMC mercenary work for assumption of most debt.
+- **Not established:** contract validity, actual rights-transfer effect, Black Suit's exact office, or the legal force of school dissolution/absorption.
+- **Discrepancy preserved:** E012 `ほぼ半分` versus E013 `大半`.
 
 ## C002 E012 claim transitions
 

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
-source_boundary: Sequential main-story reading through BA:main:001:002:012
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
+source_boundary: Sequential main-story reading through BA:main:001:002:013
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -353,3 +353,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **School as people:** Hoshino's attachment rests on current members rather than intact building, land title, or glorious past.
 - **Debt prices a person:** collective financial obligation is converted into an individual recruitment/sacrifice proposition.
 - **Adult promise / limited control:** care names responsibility but cannot guarantee the student's continued presence.
+
+## C002 E013 motif / callback delta
+
+- **Private contract / public invasion:** one signature becomes Kaiser's asserted switch for harms imposed on an entire community.
+- **`I alone` reproduces itself:** Hoshino's unilateral sacrifice immediately returns in Shiroko's solo-rescue proposal.
+- **Letter as completed choice:** disclosure arrives only after participation in the decision has been removed.
+- **School on paper / school in action:** the director declares disappearance while remaining members evacuate civilians and defend the campus.
+- **Adult distrust → entrusted support:** Hoshino's farewell converts the arrival joke about a useless adult into relational confidence without adult supremacy.
+- **Rights as alienable property:** Black Suit's total-rights language extends the debt/title motif from land and school into the person.
+- **Home under occupation:** the place Hoshino calls uniquely meaningful is simultaneously subjected to eviction and seizure.

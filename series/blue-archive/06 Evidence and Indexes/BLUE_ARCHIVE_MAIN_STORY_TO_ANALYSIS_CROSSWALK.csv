@@ -33,7 +33,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 32,BA:main:001:002:010,MAIN_V001_C002_E010,対策委員会編,第10話;カイザーPMC（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E010_DEEP_READING.md
 33,BA:main:001:002:011,MAIN_V001_C002_E011,対策委員会編,第11話;負け戦,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E011_DEEP_READING.md
 34,BA:main:001:002:012,MAIN_V001_C002_E012,対策委員会編,第12話;幾つかの秘密,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E012_DEEP_READING.md
-35,BA:main:001:002:013,MAIN_V001_C002_E013,対策委員会編,第13話;手をすり抜けたもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+35,BA:main:001:002:013,MAIN_V001_C002_E013,対策委員会編,第13話;手をすり抜けたもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E013_DEEP_READING.md
 36,BA:main:001:002:014,MAIN_V001_C002_E014,対策委員会編,第14話;アビドス攻防戦（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 37,BA:main:001:002:015,MAIN_V001_C002_E015,対策委員会編,第15話;アビドス攻防戦（２）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 38,BA:main:001:002:016,MAIN_V001_C002_E016,対策委員会編,第16話;大人の戦い,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

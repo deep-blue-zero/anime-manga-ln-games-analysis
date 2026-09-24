@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
-source_boundary: Sequential main-story reading through BA:main:001:002:012
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
+source_boundary: Sequential main-story reading through BA:main:001:002:013
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -545,6 +545,17 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** `久しぶり` marks direct prior desert experience, while `だったとか` and `私も実際に見たことはない` explicitly distinguish inherited oasis history from eyewitness memory.
 - **Ayane:** `見たところ` and `引き続き警戒` preserve current negative observation without treating it as disproof.
 - No material speaker anomaly appears.
+
+## C002 E013 delta — rights, responsibility, and the solitary `私`
+
+- `全権利は、私の元に移譲`: Black Suit's totalizing first-person rights claim is direct speech, but still an actor assertion about contract effect rather than validated law.
+- `大半`: E013's debt term is stronger than E012's `ほぼ半分`; both readings remain recorded.
+- `私が責任を取るべき` / `最後の生徒会`: Hoshino fuses office identity, personal blame, and exclusive remedial authority.
+- `私一人で`: Shiroko's immediate echo compresses rescue into the same solitary grammar of protection.
+- `足並みをそろえないと`: Ayane answers sacrificial singularity with coordinated plural action.
+- `吸収合併` / `占拠せよ`: the director moves from commercial vocabulary to explicit military seizure in adjacent lines.
+- `ヘイローを「壊して」`: quotation-marked destruction is Hoshino's prospective request, not evidence that the feared confrontation occurs.
+- **Form caution:** italic Hoshino lines are letter content intercut with live dialogue; scene 2 is a preview card only.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

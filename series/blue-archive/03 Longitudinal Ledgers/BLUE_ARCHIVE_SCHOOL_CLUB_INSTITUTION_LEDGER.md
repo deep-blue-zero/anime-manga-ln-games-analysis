@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
-source_boundary: Sequential main-story reading through BA:main:001:002:012
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
+source_boundary: Sequential main-story reading through BA:main:001:002:013
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -207,3 +207,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser PMC:** Hoshino believes useful personnel are being collected for the PMC; this remains informed student inference, not admitted institutional policy.
 - **School office / membership:** a withdrawal form becomes the mechanism through which collective debt pressure is redirected into an individual's institutional exit.
 - **Hierarchy firewall:** the director's apparent fear supports Black Suit leverage but does not establish a formal Kaiser or Gematria position.
+
+## C002 E013 institutional delta — withdrawal-triggered occupation
+
+- **Contract surface:** Hoshino signs; Black Suit asserts transfer of all student rights and debt assumption. Legal validity and exact text remain unverified.
+- **Kaiser PMC:** Hoshino describes PMC mercenary employment; a PMC soldier transports her, while mass forces attack city/school and issue an eviction order.
+- **Kaiser Corporation:** the director announces absorption/merger after treating last-council withdrawal as effective school disappearance.
+- **Abydos High School:** remaining members continue emergency governance, materially contesting the claim that one officeholder's withdrawal extinguishes the institution.
+- **Abydos district:** civilians are directly present and displaced; the territory is not analytically reducible to abandoned land or school property.
+- **Term discrepancy:** E012 `nearly half` and E013 `most` debt relief are both preserved without invented reconciliation.

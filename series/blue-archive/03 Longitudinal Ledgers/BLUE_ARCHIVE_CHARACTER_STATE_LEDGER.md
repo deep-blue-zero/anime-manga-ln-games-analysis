@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
-source_boundary: Sequential main-story reading through BA:main:001:002:012
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
+source_boundary: Sequential main-story reading through BA:main:001:002:013
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -186,6 +186,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Nonomi/Serika:** enter a major part of their own district for the first time, exposing territorial estrangement inside membership.
 - **Ayane:** maintains target-sector precision, negative-observation discipline, and continued vigilance.
 - **Sensei:** no dialogue, choice, or distinct causal contribution.
+
+## C002 E013 delta — signed sacrifice and emergency succession
+
+- **Hoshino:** signature/acceptance and desert transport are now explicit; she treats self-disposal as final-council responsibility and entrusts Shiroko's support to Sensei.
+- **Serika:** identifies Hoshino's crisis exception as a contradiction of her own prior moral authority.
+- **Shiroko:** immediately proposes an individual rescue to spare the committee, reproducing the sacrificial logic she opposes.
+- **Ayane:** blocks solo action and assumes emergency coordination around civilian evacuation, school security, and Sensei safety.
+- **Nonomi:** treats defense of Abydos under attack as non-optional even before the committee can solve Hoshino's capture.
+- **Black Suit:** receives the signature and claims transfer of all student rights; validity/scope remain OPEN.
+- **Kaiser director:** treats Hoshino's withdrawal as the final trigger for occupation and corporate absorption.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
-source_boundary: Sequential main-story reading through BA:main:001:002:012
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
+source_boundary: Sequential main-story reading through BA:main:001:002:013
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -398,3 +398,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Direct confrontation:** Sensei presents a private document obtained through Shiroko's unauthorized bag search and presses Hoshino to talk. Imminent collective risk supports accountability, but means and refusal pressure remain ethically material.
 - **Adult responsibility:** `大人として何とかする` accepts a distinctive adult obligation without claiming a known solution.
 - **Bounded efficacy:** reassurance and promise do not prevent Hoshino's next-morning disappearance; valuable adult presence is not control over a student.
+
+## C002 E013 delta — entrusted support under invasion
+
+- **No choice/direct speech:** Sensei is the addressee of Hoshino's letter and an object of Ayane's safety planning, not the author of the episode's immediate decisions.
+- **Changed adult relation:** Hoshino explicitly moves from general adult distrust and initial dismissal of Sensei to confidence in Sensei's capacity to support Shiroko.
+- **Non-substitution:** the request is to stand beside Shiroko and prevent harmful drift, not to govern her; Ayane's peer coordination immediately remains causal.
+- **Protection inversion:** students plan civilian evacuation and Sensei safety while confronting an institutionally adult-coded coercive actor, preserving adult vulnerability.
+- **Ethical burden:** supporting Shiroko requires resisting the same solitary self-sacrifice that Hoshino's act models.

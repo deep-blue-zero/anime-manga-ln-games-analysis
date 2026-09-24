@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E012
-source_boundary: Sequential main-story reading through BA:main:001:002:012
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
+source_boundary: Sequential main-story reading through BA:main:001:002:013
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -221,3 +221,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **SHIROKO ↔ HOSHINO:** trust and alarm coexist; Shiroko seeks conversation but previously searched Hoshino's bag without consent.
 - **BLACK SUIT ↔ HOSHINO:** repeated recruitment over two years culminates in debt relief conditioned on exit and employment; no signed acceptance or exact hierarchy is established.
 - **BLACK SUIT ↔ KAISER DIRECTOR:** Hoshino says the director appeared afraid of Black Suit; apparent leverage is established as observation, not a formal org relation.
+
+## C002 E013 relationship delta — completed transaction, replicated sacrifice
+
+- **HOSHINO ↔ BLACK SUIT:** proposal becomes signed transaction and transport; Black Suit claims personal receipt of Hoshino's student rights, while validity and hierarchy remain OPEN.
+- **HOSHINO ↔ SENSEI:** prior adult distrust becomes explicit trust sufficient to entrust Shiroko's support; this is relational confidence, not transferred ownership of Shiroko.
+- **HOSHINO ↔ SHIROKO:** protective concern is mirrored by Shiroko's one-person rescue impulse, revealing reciprocal care and shared self-sacrificial risk.
+- **AYANE ↔ SHIROKO / COMMITTEE:** Ayane interrupts solo action and makes coordinated response the condition of rescue/defense.
+- **KAISER ↔ ABYDOS COMMUNITY:** the relation becomes overt invasion, indiscriminate city attack, eviction, school occupation, and announced corporate absorption.
+- **COMMITTEE ↔ ABYDOS CIVILIANS:** civilian evacuation becomes an explicit governing/protective obligation.
