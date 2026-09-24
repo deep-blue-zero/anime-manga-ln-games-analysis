@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
-source_boundary: Sequential main-story reading through BA:main:001:002:004
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
+source_boundary: Sequential main-story reading through BA:main:001:002:005
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -523,3 +523,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** `おじさん`/sleep language continues as deflective surface; its truthfulness is explicitly contested.
 - **Ayane:** `土地の台帳`, `地籍図`, `取引`, and `所有者` expand her operator lexicon into documentary property analysis.
 - **Speaker anomaly:** scene 1 `u:0048` is promoted as Shiroko but contains Hoshino's `うへ～` and `おじさん` self-reference; structural attribution is probable, canonical voice attribution quarantined.
+
+## C002 E005 delta — crisis realism and documentary synthesis
+
+- **Hoshino:** `なんにも知らないまま` punctures comic self-denigration; `切羽詰まると、人は何でもやっちゃう` expresses crisis realism without naming a confession.
+- **Shiroko:** praise is concrete (`大事な瞬間には絶対に誰よりも前に立ってる`), while her private report directly admits the bag search was wrong.
+- **Ayane:** `議決権`, `取引の主体`, and stepwise debt/land explanation mark legal-documentary synthesis, though several inducement details remain inference.
+- **Serika:** `学校の主体は生徒` supplies a democratic intuition before anger slips into victim-blaming.
+- **Recall caveat:** `u:0115-0118` reproduces Hina's earlier warning; it is reported speech/recall, not Hina's physical presence. The malformed Pandemonium/Tea Party parenthetical remains quarantined.
+- **Branch convergence:** `choice:012` variants converge on identical Shiroko replies at `u:0147-0148`; only one choice formulation is realized.

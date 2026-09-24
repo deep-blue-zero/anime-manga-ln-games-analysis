@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
-source_boundary: Sequential main-story reading through BA:main:001:002:004
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
+source_boundary: Sequential main-story reading through BA:main:001:002:005
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -147,3 +147,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser Construction:** enters as the explicitly named registered owner. It is a new differentiated actor; relation to Kaiser Loan, PMC, Corporation, or Black Suit is not yet established.
 - **Countermeasures Committee:** Ayane and Serika independently obtain the decisive document and explain it to the full group, demonstrating evidence-producing governance amid inherited ignorance.
 - **Administrative records:** cadastral title joins shadow-bank ledgers as documentary counter-power exposing control that daily experience concealed.
+
+## C002 E005 institutional delta — formal authority under engineered desperation
+
+- **Former Abydos student council:** exercised asset-resolution authority; transfers stopped after dissolution. Earlier sellers and Hoshino's final two-person council must remain distinct.
+- **Final council:** Hoshino joined after most members, staff, classes, and records were gone; she and a new president operated without meaningful handover.
+- **Kaiser capture hypothesis:** Loan creditor, Construction title, Helmet Gang subsidy, and Corporation desert activity converge strongly, but original intent and one common command hierarchy remain unproved.
+- **Abydos:** only the current school and nearby area remain untransferred; this `last land` becomes the committee's working explanation for proxy pressure.
+- **Legitimacy principle:** formally authorized sale can still be substantively captured when debt dependency engineers the available alternatives.

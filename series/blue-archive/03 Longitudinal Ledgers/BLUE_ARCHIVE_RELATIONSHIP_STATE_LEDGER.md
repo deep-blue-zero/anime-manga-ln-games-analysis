@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
-source_boundary: Sequential main-story reading through BA:main:001:002:004
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
+source_boundary: Sequential main-story reading through BA:main:001:002:005
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -165,3 +165,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Nonomi ↔ Shiroko/Hoshino:** Nonomi first rejects a hidden dyad in a `運命共同体`, then recognizes personal limits on forced disclosure. Mediation preserves concern without extracting a confession.
 - **Sensei ↔ committee:** Nonomi explicitly asks Sensei to remain amid multiplying threats; both response variants affirm presence rather than promised victory.
 - **Committee ensemble:** the cadastral reveal supplies shared institutional knowledge after a scene defined by uneven personal knowledge, sharpening the difference between governable facts and protected interiority.
+
+## C002 E005 relationship delta — affirmation beside surveillance
+
+- **Shiroko ↔ Hoshino:** public respect and private mistrust coexist: Shiroko praises Hoshino's decisive care while secretly holding a withdrawal form obtained from her bag.
+- **Sensei ↔ Shiroko:** opens a confidential evidence relationship grounded in admitted wrongdoing and uncertainty; temporary secrecy creates a future clarification obligation.
+- **Sensei ↔ committee:** Sensei completes promised disclosure of Hina's warning, and the committee collectively chooses investigation.
+- **Hoshino ↔ former president:** a two-person final council is revealed; Hoshino's mocking description carries unresolved attachment, ignorance, and burden.
+- **Current committee ↔ former council:** victim-blaming gives way to a constrained-choice interpretation without erasing consequences of the sales.

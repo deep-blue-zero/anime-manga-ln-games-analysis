@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
-source_boundary: Sequential main-story reading through BA:main:001:002:004
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
+source_boundary: Sequential main-story reading through BA:main:001:002:005
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -163,3 +163,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** repeats the sleep/laziness explanation, deflects the confrontation, and reacts with apparent shock to Kaiser Construction ownership; neither response settles his hidden history.
 - **Ayane/Serika:** convert oral eviction testimony into decisive cadastral evidence naming the registered owner of most of Abydos.
 - **Sensei:** promises continued presence, notices affect, and avoids coercive disclosure; student research supplies the institutional discovery.
+
+## C002 E005 delta — inherited burden and withdrawal evidence
+
+- **Hoshino:** confirms final-council vice presidency inside a nearly collapsed school, describes ignorance and a reckless two-person presidency, and is linked to an unsubmitted/uncertain withdrawal form found in her bag.
+- **Shiroko:** publicly affirms Hoshino's reliable care while privately revealing a mistrust-driven bag search; admits the privacy violation and seeks Sensei's judgment.
+- **Ayane:** synthesizes debt, land title, subsidy, and remaining-property evidence into a strong capture theory, with original intent still inferential.
+- **Serika:** moves from blaming the former council toward grief after Sensei redirects culpability, then authors the direct desert-investigation proposal.
+- **Sensei:** fulfills the promise to share Hina's warning, rejects victim-blaming, supports group investigation, and accepts provisional confidentiality around incomplete withdrawal evidence.

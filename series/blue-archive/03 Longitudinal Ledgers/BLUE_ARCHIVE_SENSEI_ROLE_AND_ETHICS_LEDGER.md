@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
-source_boundary: Sequential main-story reading through BA:main:001:002:004
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
+source_boundary: Sequential main-story reading through BA:main:001:002:005
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -347,3 +347,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ethical restraint:** Sensei does not force Hoshino or Shiroko to reveal the private conflict despite its possible institutional significance.
 - **Epistemic constraint:** Sensei receives the cadastre from student investigators and does not originate its finding; Hina's desert warning still has not been narrated to the full committee.
 - **Current model:** solidarity is durable presence and facilitation, not guaranteed solution or entitlement to every secret.
+
+## C002 E005 delta — moral framing, returned intelligence, provisional secrecy
+
+- **Choice-space:** twelve groups; the final two-option choice converges on temporary nondisclosure because evidence is incomplete.
+- **Moral role:** Sensei proposes a predatory-trap reading as possibility and redirects culpability from deceived prior students toward deception.
+- **Information role:** Sensei fulfills the E002 promise by reporting Hina's desert warning to the full committee.
+- **Action role:** Serika proposes direct investigation; Sensei and the group support it without replacing her initiative.
+- **Ethical complication:** Sensei accepts Shiroko's privacy-violating evidence and keeps it confidential for now. Uncertainty may justify delay, but no accountability path is yet specified.

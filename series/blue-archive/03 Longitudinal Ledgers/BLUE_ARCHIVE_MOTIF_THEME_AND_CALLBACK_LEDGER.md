@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E004
-source_boundary: Sequential main-story reading through BA:main:001:002:004
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E005
+source_boundary: Sequential main-story reading through BA:main:001:002:005
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -290,3 +290,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Records as counter-power:** the cadastral map repeats the collection-record motif—administration makes hidden coercive relations visible.
 - **Staying without mastery:** Sensei promises continued presence immediately before problems exceed anyone's current control.
 - **Territory versus title:** lived and defended autonomy is materially contradicted by registered ownership.
+
+## C002 E005 motif / callback delta
+
+- **Debt manufactures choices:** formal council authority operates inside a desperation field potentially engineered by the creditor.
+- **Last land:** the surviving school parcel becomes both institutional remainder and target hypothesis.
+- **Records connect systems:** loan, subsidy, title, and withdrawal documents make hidden relationships actionable while still requiring interpretation.
+- **Returned information:** Sensei's private warning becomes common committee knowledge and produces collective investigation.
+- **Praise beside surveillance:** Shiroko's affirmation of Hoshino coexists with a privacy-violating search, preventing loyalty/mistrust simplification.
+- **Temporary secrecy:** uncertainty delays accusation but creates a future accountability debt.
