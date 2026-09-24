@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
-source_boundary: Sequential main-story reading through BA:main:001:002:010
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
+source_boundary: Sequential main-story reading through BA:main:001:002:011
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # BLUE ARCHIVE CHARACTER STATE LEDGER
@@ -200,6 +200,15 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser director:** becomes direct antagonist, Corporation director/creditor, proxy employer, and controller of an armed negotiation field.
 - **Ayane:** degraded communications limit operator support; E009's requested command has not produced escape.
 - **Sensei:** no dialogue/choice or successful-order evidence; coordination is materially constrained by infrastructure and scale.
+
+## C002 E011 delta — structural defeat and older Hoshino
+
+- **Hina:** reveals a two-year intelligence profile of Hoshino as an aggressive tactical genius/potential threat; locates Ako's failure partly in stale reporting and wonders why Hoshino stayed.
+- **Ako:** performs literal disciplinary labor; her analysis missed a discontinued activity trail.
+- **Hoshino:** orders disengagement from a rigged conversation, is affected by the former-president insult, and gains independent past-capability corroboration.
+- **Shiroko:** tests the treasure claim against force scale rather than accepting adversarial exposition.
+- **Kaiser director:** demonstrates domination by changing credit/rate/deposit terms in real time.
+- **Sensei:** no direct action; reputation persists, but integrated financial/military power produces institutional defeat.
 
 ## C002 E008 delta — first facility contact
 

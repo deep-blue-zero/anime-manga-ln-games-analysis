@@ -4,14 +4,14 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:010
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
-current_sequential_boundary: MAIN_V001_C002 E010 complete; E011 next
+source_boundary: Sequential main-story reading through BA:main:001:002:011
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
+current_sequential_boundary: MAIN_V001_C002 E011 complete; E012 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -889,6 +889,18 @@ No `BA-C019` is opened.
 - **BA-C014: STRENGTHEN sharply** — debt, property, military capacity, and negotiation operate as integrated coercion.
 - **BA-C015–C017: STRENGTHEN / PRESSURE-TEST** — methods face nonvoluntary negotiation and hidden leader leverage.
 - **BA-C018: PRESERVE**. No `BA-C019` is opened pending fuller Gematria evidence.
+
+## C002 E011 claim transitions
+
+- **BA-C001–C003: PRESSURE-TEST** — agency-preserving support faces an opponent manufacturing the choice field.
+- **BA-C004: STRENGTHEN / LIMIT** — Schale is a recognized force multiplier but cannot defeat integrated financial/military control alone.
+- **BA-C005–C006: PRESERVE REJECTED** — adult non-omnipotence and student competence coexist with structural defeat.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE** — institutional exit is offered without meaningful freedom; Hoshino refuses futile dialogue.
+- **BA-C012: STRENGTHEN sharply / REVISE** — one director unifies Corporation, Loan, Construction, and PMC roles; Gematria remains outside the proved role chain.
+- **BA-C013–C014: STRENGTHEN sharply** — creditor manipulation, proxy hiring, title, and military force form integrated coercion.
+- **BA-C015: STRENGTHEN sharply** — survival is tested by an offer to abandon the institution.
+- **BA-C016–C017: STRENGTHEN sharply** — formal choice is dominated when the stronger actor engineers alternatives; students retain refusal speech.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
 
 ## C002 E009 claim transitions
 

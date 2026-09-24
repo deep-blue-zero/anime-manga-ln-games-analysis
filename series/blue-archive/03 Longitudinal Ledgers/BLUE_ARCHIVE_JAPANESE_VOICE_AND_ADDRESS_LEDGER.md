@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
-source_boundary: Sequential main-story reading through BA:main:001:002:010
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
+source_boundary: Sequential main-story reading through BA:main:001:002:011
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # BLUE ARCHIVE JAPANESE VOICE AND ADDRESS LEDGER
@@ -552,6 +552,14 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Hoshino:** parenthetical `あいつは` / `あの時の` registers recognition without public explanation.
 - **Black Suit recall:** isolated `u:0016` repeats the prior proposal and is quarantined from physical-presence inference.
 - **Key lexicon:** `私有地`, `被害額`, `借金に加えて`, `ゲマトリア`, `雇う`, `理事`.
+
+## C002 E011 delta — legality and the rope
+
+- **Director:** `合法的`, `記録`, `お客様` wrap domination in commercial courtesy; `首にかけられた紐` makes control explicit.
+- **Hina:** evidence-calibrated `2年前の情報部の分析` and `かもしれない` distinguish archived assessment from current certainty.
+- **Hoshino:** `弄ばれるだけ` names the conversational asymmetry and turns departure into refusal.
+- **Key figures:** `3000％`, `9130万円`, `3億円`, `一週間` are textual terms imposed in the scene, not analyst estimates.
+- No material speaker anomaly appears.
 
 ## C002 E009 delta — institution and scale vocabulary
 

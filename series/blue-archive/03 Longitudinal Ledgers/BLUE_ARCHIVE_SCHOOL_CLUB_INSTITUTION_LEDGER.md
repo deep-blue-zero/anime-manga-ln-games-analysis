@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
-source_boundary: Sequential main-story reading through BA:main:001:002:010
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
+source_boundary: Sequential main-story reading through BA:main:001:002:011
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
@@ -191,3 +191,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Gematria / Black Suit:** the director knows Gematria targeted Hoshino; contact/knowledge is established, membership and hierarchy are not. Isolated Black Suit `u:0016` is treated as recall, not physical presence.
 - **Construction:** not explicitly linked in E010 and remains a differentiated title holder.
 - **Coercion architecture:** debt, armed exclusion, proxy hiring, damage accounting, and negotiation converge in one director's practice.
+
+## C002 E011 institutional delta — one director, four Kaiser surfaces
+
+- **Integrated leadership:** one director explicitly holds roles in Corporation, Loan, Construction, and PMC; this proves shared leadership while leaving full org-chart detail open.
+- **Kaiser Loan:** credit minimum, +3000% variable-rate adjustment, ¥91.3m monthly interest, and ¥300m one-week deposit are ordered as coercive leverage.
+- **Kaiser PMC:** force scale is stated as hundreds of tanks/soldiers and hundreds of tons of explosives/ammunition, allegedly for an unknown rival to the treasure search.
+- **Abydos:** students are offered individual escape through withdrawal/transfer, while institutional survival is made financially impossible.
+- **Legitimacy:** formal title, transaction records, and contract clauses can administer substantive domination when the stronger party changes the choice field.

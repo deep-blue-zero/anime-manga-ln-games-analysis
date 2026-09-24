@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
-source_boundary: Sequential main-story reading through BA:main:001:002:010
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
+source_boundary: Sequential main-story reading through BA:main:001:002:011
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # BLUE ARCHIVE RELATIONSHIP STATE LEDGER
@@ -204,3 +204,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser director ↔ PS68/Helmet Gang:** direct hiring admission establishes the common client behind both proxy pressures.
 - **Kaiser director ↔ Gematria:** knowledge that Gematria targeted Hoshino is explicit; affiliation/command remains OPEN.
 - **Sensei ↔ committee:** bounded command support fails to secure escape under comms degradation; no blame or relational rupture is shown.
+
+## C002 E011 relationship delta — coerced exit and institutional belonging
+
+- **Kaiser director ↔ Abydos:** creditor relation becomes explicit domination; he manufactures repayment impossibility and offers abandonment as release.
+- **Students ↔ Abydos:** Nonomi/Serika/Shiroko reaffirm school/city belonging precisely when personal exit is offered.
+- **Hoshino ↔ committee:** Hoshino ends a futile exchange and protects the group from further manipulation, while her withdrawal-form contradiction remains hidden.
+- **Hina ↔ Hoshino:** Hina's relation is intelligence-based rather than prior personal meeting; present curiosity about why Hoshino stayed remains private.
+- **Director ↔ former president/Hoshino:** prior observation/acquaintance is established; exact history remains open.

@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E010
-source_boundary: Sequential main-story reading through BA:main:001:002:010
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E011
+source_boundary: Sequential main-story reading through BA:main:001:002:011
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
@@ -383,3 +383,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - No choice or direct Sensei utterance occurs.
 - The E009 command request does not yield escape before comms degrade and encirclement completes; coordination is powerful but not omnipotent.
 - The adult/student partnership is forced into a creditor-controlled negotiation field, intensifying the consequence of withheld Hoshino information.
+
+## C002 E011 delta — force multiplier within structural limits
+
+- No Sensei dialogue or choice occurs.
+- Hina says Schale would have increased Prefect losses, strengthening tactical reputation.
+- Sensei nevertheless cannot prevent the creditor from changing financial terms or offering coerced institutional exit; capability remains domain-specific, not sovereign/omnipotent.
+- The withdrawal-form confidentiality problem intensifies as the director makes abandonment the offered escape.
