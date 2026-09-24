@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
-source_boundary: Sequential main-story reading through BA:main:001:002:013
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
+source_boundary: Sequential main-story reading through BA:main:001:002:014
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -406,3 +406,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Non-substitution:** the request is to stand beside Shiroko and prevent harmful drift, not to govern her; Ayane's peer coordination immediately remains causal.
 - **Protection inversion:** students plan civilian evacuation and Sensei safety while confronting an institutionally adult-coded coercive actor, preserving adult vulnerability.
 - **Ethical burden:** supporting Shiroko requires resisting the same solitary self-sacrifice that Hoshino's act models.
+
+## C002 E014 delta — invited collaborator against abandonment
+
+- **No normalized choice:** the only direct Sensei text is internal assent at the close.
+- **Student-authored invitation:** Aru designs/announces the coalition and asks Sensei to align; adult participation follows student initiative.
+- **Relational counterexample:** PS68's return disproves the director's universal abandonment claim before Sensei acts.
+- **Anti-sovereign aid:** Sensei joins the defense without using Hoshino's absence or committee nonrecognition to claim local authority.
+- **Adult contrast:** Hoshino distinguishes Sensei's trustworthiness from Black Suit's deceptive adult contract practice.

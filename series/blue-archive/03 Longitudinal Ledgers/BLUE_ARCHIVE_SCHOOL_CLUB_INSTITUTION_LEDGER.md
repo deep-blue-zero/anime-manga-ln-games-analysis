@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
-source_boundary: Sequential main-story reading through BA:main:001:002:013
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
+source_boundary: Sequential main-story reading through BA:main:001:002:014
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -216,3 +216,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Abydos High School:** remaining members continue emergency governance, materially contesting the claim that one officeholder's withdrawal extinguishes the institution.
 - **Abydos district:** civilians are directly present and displaced; the territory is not analytically reducible to abandoned land or school property.
 - **Term discrepancy:** E012 `nearly half` and E013 `most` debt relief are both preserved without invented reconciliation.
+
+## C002 E014 institutional delta — recognition defect and actor separation
+
+- **Countermeasures Committee:** confirmed unofficial/unapproved because no student council remained to authorize it; practical governance persists despite formal invisibility.
+- **General Student Council:** prior Abydos petitions produced no action and current incapacity is asserted by the director without contradiction in-scene.
+- **Kaiser corporate-school project:** the director proposes `Kaiser Vocational Training School`; Black Suit calls the plan a secondary experiment/entertainment.
+- **Black Suit's side:** explicitly not Kaiser; cooperates because interests align and pursues Hoshino research rather than ordinary PMC labor.
+- **Problem Solver 68:** exercises independent defensive capacity by cutting reinforcements and targeting the command chain.
+- **Legitimacy contrast:** missing approval documents weaken Abydos institutionally but do not legitimate seizure; voluntary coalition supplies capacity without ownership.

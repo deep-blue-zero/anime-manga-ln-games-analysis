@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
-source_boundary: Sequential main-story reading through BA:main:001:002:013
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
+source_boundary: Sequential main-story reading through BA:main:001:002:014
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -556,6 +556,17 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `吸収合併` / `占拠せよ`: the director moves from commercial vocabulary to explicit military seizure in adjacent lines.
 - `ヘイローを「壊して」`: quotation-marked destruction is Hoshino's prospective request, not evidence that the feared confrontation occurs.
 - **Form caution:** italic Hoshino lines are letter content intercut with live dialogue; scene 2 is a preview card only.
+
+## C002 E014 delta — nonaffiliation, nonrecognition, and refusal of despair
+
+- `カイザーの所属ではありません`: Black Suit explicitly rejects Kaiser membership; this controls prior ambiguous `うちの会社` readings.
+- `利害関係が一致`: cooperation is framed as aligned interests, not a unified organization.
+- `実験体として研究し、分析し、理解する`: polite analytical verbs intensify objectification rather than soften it.
+- `また、大人に騙された`: `again` establishes recurrence while leaving the earlier adult/event unnamed.
+- `何者でもない` / `存在を示すものは何も無い`: the director turns formal-document absence into totalizing identity erasure.
+- `だから何なのよ`: Aru refuses the inference from overwhelming adversity to surrender without denying the adversity.
+- `協業`: Aru names Sensei's role as collaboration, not command or rescue ownership.
+- `ユメ先輩`: a named absent senior enters Hoshino's apology; former-president identity remains inferential at this boundary.
 
 ## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
 

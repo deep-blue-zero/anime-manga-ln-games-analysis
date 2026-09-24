@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
-source_boundary: Sequential main-story reading through BA:main:001:002:013
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
+source_boundary: Sequential main-story reading through BA:main:001:002:014
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -363,3 +363,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Adult distrust → entrusted support:** Hoshino's farewell converts the arrival joke about a useless adult into relational confidence without adult supremacy.
 - **Rights as alienable property:** Black Suit's total-rights language extends the debt/title motif from land and school into the person.
 - **Home under occupation:** the place Hoshino calls uniquely meaningful is simultaneously subjected to eviction and seizure.
+
+## C002 E014 motif / callback delta
+
+- **No papers / still a polity:** formal invisibility is placed against continuing governance, solidarity, and defense.
+- **No one will help / allies arrive:** the director's abandonment thesis is immediately contradicted by a relationship created through conflict, food, repair, and promised return.
+- **Ramen return:** PS68's stated food visit recalls Shiba Seki hospitality even after the restaurant's destruction.
+- **Company ambiguity exposed:** entity separation becomes narratively decisive when Black Suit admits interest-aligned cooperation rather than affiliation.
+- **Outlaw force repurposed:** explosives prepared against the Prefect Team become defensive coalition infrastructure.
+- **Adult deception / adult collaboration:** Black Suit and Sensei occupy opposing models within Hoshino's newly explicit adult-trust problem.
+- **`だから何`:** hope is not denial of structural facts but refusal to let them finish political action.

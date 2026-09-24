@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
-source_boundary: Sequential main-story reading through BA:main:001:002:013
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
+source_boundary: Sequential main-story reading through BA:main:001:002:014
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -196,6 +196,16 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Nonomi:** treats defense of Abydos under attack as non-optional even before the committee can solve Hoshino's capture.
 - **Black Suit:** receives the signature and claims transfer of all student rights; validity/scope remain OPEN.
 - **Kaiser director:** treats Hoshino's withdrawal as the final trigger for occupation and corporate absorption.
+
+## C002 E014 delta — deception exposed and allies return
+
+- **Ayane:** precisely identifies formal nonrecognition and downstream strategic limits; despair is evidence-grounded, not analytical incapacity.
+- **Hoshino:** learns Black Suit is not Kaiser and intends experimentation, concludes an adult deceived her `again`, and names Yume-senpai amid guilt.
+- **Black Suit:** explicitly non-Kaiser, aligned collaborator whose primary target is Hoshino's signature/rights and experimental study.
+- **Aru:** converts outlaw identity into voluntary defense of a companion and directly interrupts resignation.
+- **Kayoko:** supplies a prepared command-disruption strategy and retains sober awareness of future adversity.
+- **Mutsuki / Haruka:** reintroduce affectionate alliance and extensive pre-positioned explosives; aid and excess remain conjoined.
+- **Sensei:** accepts Aru's invitation to student-authored collaboration; no sovereign takeover occurs.
 
 ## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
 

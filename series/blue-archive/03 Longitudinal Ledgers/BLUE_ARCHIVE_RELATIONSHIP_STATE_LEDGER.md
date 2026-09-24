@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
-source_boundary: Sequential main-story reading through BA:main:001:002:013
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
+source_boundary: Sequential main-story reading through BA:main:001:002:014
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -230,3 +230,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **AYANE ↔ SHIROKO / COMMITTEE:** Ayane interrupts solo action and makes coordinated response the condition of rescue/defense.
 - **KAISER ↔ ABYDOS COMMUNITY:** the relation becomes overt invasion, indiscriminate city attack, eviction, school occupation, and announced corporate absorption.
 - **COMMITTEE ↔ ABYDOS CIVILIANS:** civilian evacuation becomes an explicit governing/protective obligation.
+
+## C002 E014 relationship delta — differentiated conspirators and chosen allies
+
+- **BLACK SUIT ↔ KAISER:** affiliation is rejected; the relationship is interest-aligned cooperation between differentiated actors.
+- **BLACK SUIT ↔ HOSHINO:** apparent employment bargain is exposed as acquisition for research/analysis; Hoshino recognizes adult deception.
+- **PS68 ↔ ABYDOS:** former opponents/repairing acquaintances become voluntary defensive allies when Hoshino and the school are endangered.
+- **ARU ↔ SENSEI:** Aru initiates `協業` and treats Sensei as a partner who can align with her plan.
+- **KAYOKO ↔ AYANE/COMMITTEE:** hard-nosed acknowledgment of despair is paired with practical restoration of action.
+- **HOSHINO ↔ YUME:** Yume-senpai is named in Hoshino's guilt sequence; identification with the former president remains strong inference, not yet closed fact.
+- **ABYDOS ↔ GENERAL STUDENT COUNCIL / OTHER SCHOOLS:** prior petitions/nonintervention define institutional abandonment, while PS68 immediately disproves universal relational abandonment.

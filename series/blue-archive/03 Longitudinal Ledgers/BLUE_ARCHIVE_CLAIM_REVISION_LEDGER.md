@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:013
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E013
-current_sequential_boundary: MAIN_V001_C002 E013 complete; E014 next
+source_boundary: Sequential main-story reading through BA:main:001:002:014
+checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 active through E014
+current_sequential_boundary: MAIN_V001_C002 E014 complete; E015 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -896,6 +896,23 @@ No `BA-C019` is opened.
 - **Hoshino's letter says:** the bargain is Kaiser PMC mercenary work for assumption of most debt.
 - **Not established:** contract validity, actual rights-transfer effect, Black Suit's exact office, or the legal force of school dissolution/absorption.
 - **Discrepancy preserved:** E012 `ほぼ半分` versus E013 `大半`.
+
+## C002 E014 claim transitions
+
+- **BA-C001–C004: STRENGTHEN** — Sensei joins a student-authored coalition; material aid preserves rather than replaces local action.
+- **BA-C005–C006: PRESERVE REJECTED / STRENGTHEN rejection** — PS68 and Abydos supply diagnosis, initiative, tactics, and alliance.
+- **BA-C007–C011: STRENGTHEN sharply** — relational legitimacy produces aid where formal systems do not; `協業` is additive rather than possessive.
+- **BA-C012: REVISE sharply** — Black Suit explicitly is not Kaiser; aligned cooperation, Hoshino targeting, and differentiated objectives replace affiliation ambiguity.
+- **BA-C013–C014: STRENGTHEN / REVISE** — Kaiser capture remains integrated, while Black Suit's parallel research project uses it without merging into it.
+- **BA-C015: STRENGTHEN / PRESSURE-TEST** — formal nonrecognition threatens survival but lived governance and coalition persist.
+- **BA-C016–C017: STRENGTHEN sharply** — external aid returns practical choice to Abydos without claiming it; Black Suit models total-rights domination.
+- **BA-C018: STRENGTHEN sharply** — ramen/hospitality and incomplete reconciliation mature into voluntary intervention. No `BA-C019` is opened.
+
+### C002 E014 epistemic firewall
+
+- **Established:** committee nonrecognition; Black Suit's non-Kaiser status; aligned cooperation; Hoshino research objective; PS68's independent tactical intervention.
+- **Strong inference:** Yume-senpai is the previously unnamed former president.
+- **Not established:** Black Suit's company/name/full Gematria structure, earlier adult deception, coalition victory, Hoshino rescue, or the legal conclusion the director draws from missing approval.
 
 ## C002 E012 claim transitions
 
