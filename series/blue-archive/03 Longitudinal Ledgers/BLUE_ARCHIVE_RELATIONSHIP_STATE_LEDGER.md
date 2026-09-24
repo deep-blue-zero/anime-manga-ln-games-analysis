@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
-source_boundary: Sequential main-story reading through BA:main:001:002:020
+checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -294,3 +294,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **ABYDOS ↔ KAISER CORPORATION:** immediate attack recedes, but debt and majority land ownership preserve structural antagonism.
 - **KAISER CORPORATION ↔ DIRECTOR:** corporation dismisses him to deny connection; prior multi-entity leadership evidence remains.
 - **COMMITTEE ↔ BLACK SUIT/SCHALE:** Sensei/Hoshino information becomes shared research, then unresolved investigation is entrusted to Schale.
+
+## MAIN V001 C002 checkpoint relationship state
+
+- **Sensei ↔ Hoshino/Abydos:** protection becomes legitimate where it restores reciprocal membership and self-government; privacy, veto, possession language, and bodily boundaries remain accountability tests.
+- **Black Suit ↔ Kaiser:** interest-aligned cooperation is canonical; membership/common organization is rejected.
+- **Abydos ↔ PS68:** conflict matures through imperfect reparation, hospitality, voluntary aid, gratitude, and projected future contact.
+- **Abydos ↔ external coalition:** differentiated support opens routes while local mission authorship remains with the committee.
+- **Hoshino ↔ Yume/former president:** one strongly continuous relational hypothesis remains unpromoted until the source explicitly joins name and office.

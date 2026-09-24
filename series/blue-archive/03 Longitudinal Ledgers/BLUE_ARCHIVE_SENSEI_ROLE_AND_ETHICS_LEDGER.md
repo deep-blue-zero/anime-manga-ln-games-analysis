@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
-source_boundary: Sequential main-story reading through BA:main:001:002:020
+checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-24
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -467,3 +467,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Schale continues as Black Suit investigator/advisor while debt, land, and federal-enforcement limits remain outside unilateral adult solution.
 - The final request for continued support makes the relationship durable but not completed or possessive.
 - E017's bodily/professional boundary failure remains a required counterweight in chapter-level adult ethics.
+
+## MAIN V001 C002 checkpoint ethical state
+
+Current model:
+
+> **answerability without domination + coalition/connective capacity + requested command + logistics/recognition + finite unexplained card capacity + obligation to preserve viable student/community agency + explicit privacy, veto, possession, and bodily-boundary limits**
+
+The chapter strongly supports responsible adulthood while rejecting adult supremacy and ethical infallibility.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
-source_boundary: Sequential main-story reading through BA:main:001:002:020
+checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-24
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -430,3 +430,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Destroyed shop / busy stall:** hospitality continuity becomes stable aftermath rather than symbolic promise.
 - **Bad ideas rejected again:** ordinary method correction resumes with Hoshino present.
 - **Lost things / things not let go:** material dispossession coexists with retained people, practice, memory, and future capacity.
+
+## MAIN V001 C002 checkpoint motif state
+
+> **warning → verification → land memory → enclosure → creditor domination → secret bargain → signed sacrifice → invasion → differentiated coalition → passage → reciprocal return → formal repair with structural remainder**
+
+The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/collective roles, buried school/laboratory, miracle/ordinary continuity, and rights claim/welcome reply.

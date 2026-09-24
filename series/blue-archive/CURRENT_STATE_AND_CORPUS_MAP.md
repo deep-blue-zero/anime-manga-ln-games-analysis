@@ -18,9 +18,9 @@ updated: 2026-09-24
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete, and all twenty `MAIN_V001_C002` units are deep-read. The mandatory Chapter 2 checkpoint is next.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete. No further main-story unit is authorized in the present task.**
 
-C002 E020 closes the sequential pass with partial repair: Sensei's certification formalizes the committee/student-council function while Hoshino's presidency refusal stands. Hoshino and Shiba Seki return to ordinary practice; interest falls, but the ¥900m principal and most Kaiser-owned land remain. The director is dismissed/wanted but not confirmed captured; Black Suit remains unidentified; federal enforcement is doubtful. Coverage is **42 / 310** units; all seven ledgers are reconciled through `BA:main:001:002:020`, with `BA-C001`–`BA-C018` still live pending checkpoint adjudication.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Coverage is **42 / 310** units; all seven ledgers are reconciled to the checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
 
 Current sequential authority:
 
@@ -69,7 +69,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E018_DEEP_READING.md` — **active_provisional**, enabling-artillery / buried-school-lab / interrupted-sacrifice / PS68-rearguard unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E019_DEEP_READING.md` — **active_provisional**, morale-admission / ordinary-miracle / Schale-extraction / reciprocal-return unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E020_DEEP_READING.md` — **active_provisional**, formal-recognition / partial-accountability / persistent-debt-land / ordinary-recurrence unit;
-- next mandatory artifact: `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md`.
+- `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` — **canonical Chapter 2 synthesis authority**;
+- next crosswalk unit: `BA:main:002:001:001`, but Volume 2 is outside current authorization.
 
 No specialist monograph or series-level synthesis exists yet. The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -264,6 +265,10 @@ Bulk promotion succeeded, but several limitations remain analytically relevant:
 - C002 E005 `u:0115-0118` is a recalled Hina warning, not physical presence, and repeats the malformed Pandemonium/Tea Party parenthetical. Duplicate `u:0147-0148` follows the two-option confidentiality choice and is branch convergence.
 - C002 E006 `u:0013`/`u:0019` recall earlier Prefect statements rather than present speakers. The `u:0013` Iori tag intersects E001's known attribution corruption; only Ayane's explicit lexical analysis is used.
 - C002 E010 `u:0016` is an isolated Black Suit proposal line between director speech and Hoshino's parenthetical recognition; treat it as probable recall and do not infer Black Suit's physical presence.
+- C002 E012 has branch-convergence duplication around choice 5 and recalled Black Suit lines; the poster tearing sound does not explicitly identify actor/object. E012 `ほぼ半分` and E013 `大半` give unresolved differing debt-relief approximations.
+- C002 E015 scene 3 begins at `u:0002`; no omitted event is reconstructed. E016 has duplicated choice convergence, a threefold duplicate exchange, and `先生（心の声）` labels followed by character responses; do not infer telepathy or multiple events.
+- C002 E017 changes location without full headings and reports three northern personnel while four Prefect voices appear. E018 contains suspicious PS68 voice assignments at `scene:002:u:0029` and `u:0041`.
+- C002 E019 uses `???` for multiple contextual speakers and flattens speaker/control tokens into narration at `scene:002:u:0033-0078`; reunion claims use embedded names and turn sequence cautiously.
 
 Do not silently repair any of these from memory, English localization, wiki chronology, or fan inference unless an explicit later research phase is opened and the evidence class is labeled.
 
@@ -303,6 +308,7 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — final six Chapter-1 `対策委員会編` units, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` — **canonical Chapter-1 checkpoint**;
 - `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C002_E020_DEEP_READING.md` — all twenty Chapter-2 `対策委員会編` units, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` — **canonical Chapter-2 checkpoint**;
 - `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first forty-two marked complete and the remainder pending.
 
 ### Active cumulative ledgers
@@ -362,29 +368,16 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and all twenty Chapter 2 units are complete. The Chapter 2 checkpoint is mandatory before Chapter 3.**
+**`対策委員会編` Chapter 1 and Chapter 2, including both mandatory checkpoints, are complete.**
 
-The next mandatory sequential step is:
+No further sequential unit is authorized by the current task. The next crosswalk unit is:
 
-1. write `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md`;
-2. retain the Prologue checkpoint, Chapter-1 checkpoint, and C002 E001-E020 as the complete evidence boundary;
-3. re-adjudicate all live claims `BA-C001`–`BA-C018` without Chapter 3 evidence;
-4. preserve Black Suit/Kaiser separation, Yume identity caution, and all source anomalies;
-5. distinguish emotional rescue from unresolved debt, title, public-capacity, and corporate accountability;
-6. adjudicate Sensei's adult-responsibility model alongside E017's bodily/professional boundary failure;
-7. assess whether any new claim ID is necessary;
-8. reconcile all seven ledgers and the current-state map to checkpoint authority;
-9. record contextual-backfill disposition explicitly;
-10. do not read Chapter 3 before the checkpoint is validated and committed.
+- story ID: `BA:main:002:001:001`;
+- scope: `MAIN_V002_C001_E001`;
+- arc: `時計じかけの花のパヴァーヌ`;
+- source title: `第1話;冒険の始まり`.
 
-Next mandatory artifact:
-
-- scope: `MAIN_V001_C002_CHECKPOINT`;
-- arc: `対策委員会編`;
-- evidence range: `BA:main:001:002:001-020`;
-- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md`.
-
-The checkpoint must remain **standalone** and must not import Chapter 3.
+Do not open Volume 2 without a new instruction. If later authorized, use the Prologue, Chapter 1 checkpoint, and Chapter 2 checkpoint as prior authority while preserving the Chapter 2 open-question and epistemic-firewall registers.
 
 ## 12. Reasoning recommendation
 
@@ -650,4 +643,10 @@ E019's forward frontier was E020; that unit is now complete.
 - Black Suit remains unidentified and continuing investigation is entrusted to Schale.
 - Contextual backfill remains **DEFER** pending checkpoint; no `BA-C019` is opened.
 
-Mandatory next step: `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` before any Chapter 3 source.
+E020's mandatory checkpoint is now complete.
+
+## Chapter 2 checkpoint state
+
+`BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` is canonical for Chapter 2 synthesis. It re-adjudicates `BA-C001`–`BA-C018`, opens no `BA-C019`, revises meaningful autonomy to require viable alternatives/shared information/collective participation, and makes answerability without domination the chapter's strongest adult formulation. E017's Iori boundary failure remains active counterevidence. Contextual backfill is **DEFER**.
+
+No further source is authorized in the current task; Volume 2 remains unopened.

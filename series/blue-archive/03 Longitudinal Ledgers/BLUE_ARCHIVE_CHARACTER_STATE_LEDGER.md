@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
-source_boundary: Sequential main-story reading through BA:main:001:002:020
+checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -187,6 +187,45 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ayane:** maintains target-sector precision, negative-observation discipline, and continued vigilance.
 - **Sensei:** no dialogue, choice, or distinct causal contribution.
 
+## C002 E008 delta — first facility contact
+
+- **Ayane:** distinguishes uncertain sighting, candidate functions, and direct observation before reporting an unidentified attacking force.
+- **Hoshino:** supplies the temporal baseline that the facility is new relative to former-council visits and leads immediate defense after attack.
+- **Committee:** transitions from investigation to self-defense only after PMC-role soldiers initiate capture/attack.
+- **Sensei:** no dialogue, choice, or distinct causal contribution.
+
+## C002 E009 delta — combined-arms encirclement
+
+- **Ayane:** verifies insignia, classifies Kaiser PMC, detects combined-arms encirclement, orders escape, and explicitly delegates tactical instruction to Sensei.
+- **Hoshino:** recognizes Kaiser PMC before confirmation; knowledge route remains open.
+- **Nonomi:** defines PMC and marks student-recruitment information as rumor.
+- **Sensei:** returns as requested tactical coordinator, but no command text/outcome or personal-force evidence appears.
+
+## C002 E010 delta — creditor confrontation
+
+- **Hoshino:** is named as debt successor and Gematria target; recalled proposal pressure becomes externally weaponized before she explains it internally.
+- **Kaiser director:** becomes direct antagonist, Corporation director/creditor, proxy employer, and controller of an armed negotiation field.
+- **Ayane:** degraded communications limit operator support; E009's requested command has not produced escape.
+- **Sensei:** no dialogue/choice or successful-order evidence; coordination is materially constrained by infrastructure and scale.
+
+## C002 E011 delta — structural defeat and older Hoshino
+
+- **Hina:** reveals a two-year intelligence profile of Hoshino as an aggressive tactical genius/potential threat; locates Ako's failure partly in stale reporting and wonders why Hoshino stayed.
+- **Ako:** performs literal disciplinary labor; her analysis missed a discontinued activity trail.
+- **Hoshino:** orders disengagement from a rigged conversation, is affected by the former-president insult, and gains independent past-capability corroboration.
+- **Shiroko:** tests the treasure claim against force scale rather than accepting adversarial exposition.
+- **Kaiser director:** demonstrates domination by changing credit/rate/deposit terms in real time.
+- **Sensei:** no direct action; reputation persists, but integrated financial/military power produces institutional defeat.
+
+## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
+
+- **Hoshino:** first-year anti-miracle realism is linked to the former president; she discloses two years of Kaiser recruitment, repeated refusal, and a recent debt-relief offer, then disappears after promising disclosure. Acceptance/signature remains OPEN.
+- **Shiroko:** renews an expedient-crime proposal under existential pressure, yields to Ayane's objection, and initiates accountability through an unauthorized bag search.
+- **Ayane:** protects the committee's prior method boundary and discovers the form and letter after Hoshino's departure.
+- **Sensei:** uses the discovered form for a private confrontation, promises adult action, and cannot prevent Hoshino's disappearance.
+- **Former president:** enters direct remembered interaction as a restoration-oriented, miracle-invoking leader whose identity and fate remain unknown.
+- **Black Suit:** repeated recruiter offering debt relief for Hoshino's exit/employment; exact identity, organization, and authority remain OPEN.
+
 ## C002 E013 delta — signed sacrifice and emergency succession
 
 - **Hoshino:** signature/acceptance and desert transport are now explicit; she treats self-disposal as final-council responsibility and entrusts Shiroko's support to Sensei.
@@ -263,41 +302,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser director:** dismissed and wanted for suspected student kidnapping; arrest remains unconfirmed.
 - **Black Suit:** remains anonymous after shared investigation; threat and Gematria structure remain OPEN.
 
-## C002 E012 delta — repeated refusal, disclosed doubt, and disappearance
+## MAIN V001 C002 checkpoint character state
 
-- **Hoshino:** first-year anti-miracle realism is linked to the former president; she discloses two years of Kaiser recruitment, repeated refusal, and a recent debt-relief offer, then disappears after promising disclosure. Acceptance/signature remains OPEN.
-- **Shiroko:** renews an expedient-crime proposal under existential pressure, yields to Ayane's objection, and initiates accountability through an unauthorized bag search.
-- **Ayane:** protects the committee's prior method boundary and discovers the form and letter after Hoshino's departure.
-- **Sensei:** uses the discovered form for a private confrontation, promises adult action, and cannot prevent Hoshino's disappearance.
-- **Former president:** enters direct remembered interaction as a restoration-oriented, miracle-invoking leader whose identity and fate remain unknown.
-- **Black Suit:** repeated recruiter offering debt relief for Hoshino's exit/employment; exact identity, organization, and authority remain OPEN.
-
-## C002 E009 delta — combined-arms encirclement
-
-- **Ayane:** verifies insignia, classifies Kaiser PMC, detects combined-arms encirclement, orders escape, and explicitly delegates tactical instruction to Sensei.
-- **Hoshino:** recognizes Kaiser PMC before confirmation; knowledge route remains open.
-- **Nonomi:** defines PMC and marks student-recruitment information as rumor.
-- **Sensei:** returns as requested tactical coordinator, but no command text/outcome or personal-force evidence appears.
-
-## C002 E010 delta — creditor confrontation
-
-- **Hoshino:** is named as debt successor and Gematria target; recalled proposal pressure becomes externally weaponized before she explains it internally.
-- **Kaiser director:** becomes direct antagonist, Corporation director/creditor, proxy employer, and controller of an armed negotiation field.
-- **Ayane:** degraded communications limit operator support; E009's requested command has not produced escape.
-- **Sensei:** no dialogue/choice or successful-order evidence; coordination is materially constrained by infrastructure and scale.
-
-## C002 E011 delta — structural defeat and older Hoshino
-
-- **Hina:** reveals a two-year intelligence profile of Hoshino as an aggressive tactical genius/potential threat; locates Ako's failure partly in stale reporting and wonders why Hoshino stayed.
-- **Ako:** performs literal disciplinary labor; her analysis missed a discontinued activity trail.
-- **Hoshino:** orders disengagement from a rigged conversation, is affected by the former-president insult, and gains independent past-capability corroboration.
-- **Shiroko:** tests the treasure claim against force scale rather than accepting adversarial exposition.
-- **Kaiser director:** demonstrates domination by changing credit/rate/deposit terms in real time.
-- **Sensei:** no direct action; reputation persists, but integrated financial/military power produces institutional defeat.
-
-## C002 E008 delta — first facility contact
-
-- **Ayane:** distinguishes uncertain sighting, candidate functions, and direct observation before reporting an unidentified attacking force.
-- **Hoshino:** supplies the temporal baseline that the facility is new relative to former-council visits and leads immediate defense after attack.
-- **Committee:** transitions from investigation to self-defense only after PMC-role soldiers initiate capture/attack.
-- **Sensei:** no dialogue, choice, or distinct causal contribution.
+- **Sensei:** answerable autonomy amplifier with coordination, logistics, recognition, relational leverage, and unexplained card capacity; E012 pressure and E017 boundary failure prevent idealization.
+- **Hoshino:** tactical prodigy and exhausted institutional heir whose protective sacrifice is rescued into reciprocal membership; guilt/accountability and Yume history remain open.
+- **Ayane:** chapter-level operator, evidence grader, emergency governor, route commander, and administrator.
+- **Shiroko:** disciplined investigator/tactician with a recurring solitary-sacrifice risk corrected by collective action.
+- **Aru/PS68:** client-independent allies whose voluntary aid remains shaped by persona, gratitude, scarcity, and group pressure.
+- **Black Suit / Kaiser director:** differentiated domination actors; one remains anonymous, the other dismissed/wanted but not confirmed captured.

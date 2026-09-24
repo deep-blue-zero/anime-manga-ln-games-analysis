@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:020
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
-current_sequential_boundary: MAIN_V001_C002 E020 complete; checkpoint next
+source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
+current_sequential_boundary: MAIN_V001_C002 checkpoint complete; Volume 2 not authorized
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -878,6 +878,80 @@ No `BA-C019` is opened.
 - **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
 - **BA-C018: PRESERVE**. No `BA-C019` is opened.
 
+## C002 E007 claim transitions
+
+- **BA-C001–C011: PRESERVE**, with BA-C006 rejection lightly strengthened by student-authored navigation/history/risk control.
+- **BA-C012–C014: PRESERVE** — no new Kaiser relation or project fact.
+- **BA-C015: STRENGTHEN** — Abydos survival includes cultural geography and inherited civic memory.
+- **BA-C016–C017: STRENGTHEN lightly** — meaningful governance requires territorial self-knowledge; Ayane keeps warning separate from proof.
+- **BA-C018: STRENGTHEN lightly** — the sand festival is historical cross-school contact infrastructure.
+- No `BA-C019` is opened; all withdrawal/Kaiser firewalls remain.
+
+## C002 E008 claim transitions
+
+- **BA-C001–C011: mostly PRESERVE**; BA-C006 rejection strengthens lightly through student detection/classification/defense.
+- **BA-C012: STRENGTHEN / PRESSURE-TEST** — a PMC-role force and large installation appear, but affiliation/hierarchy remain OPEN.
+- **BA-C013: PRESERVE** — no new transaction.
+- **BA-C014: STRENGTHEN sharply** — extra-school territorial, construction, and armed-security capacity is directly visible.
+- **BA-C015: STRENGTHEN** — Abydos faces physical enclosure/exclusion on lost land.
+- **BA-C016–C017: STRENGTHEN lightly** — title does not settle attack legitimacy; observation remains graded.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E009 claim transitions
+
+- **BA-C001–C003: STRENGTHEN lightly** — student withdrawal judgment delegates bounded command.
+- **BA-C004: STRENGTHEN** — Sensei is explicitly requested for tactical direction under combined-arms encirclement; no personal-force evidence.
+- **BA-C005–C006: rejection strengthened** — students author every substantive assessment.
+- **BA-C007–C011: PRESERVE / STRENGTHEN lightly** — situational delegation remains additive; no choices.
+- **BA-C012: STRENGTHEN / REVISE** — PMC↔Corporation affiliation is established; other network edges remain OPEN.
+- **BA-C013: PRESERVE**.
+- **BA-C014: STRENGTHEN sharply** — corporate power includes professional combined arms and territorial security.
+- **BA-C015–C017: STRENGTHEN lightly** — local actors retain judgment under organized private force.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E010 claim transitions
+
+- **BA-C001–C003: PRESSURE-TEST / PRESERVE** — partnership is contained by corporate scale and hidden information.
+- **BA-C004: REVISE / STRENGTHEN limits** — requested coordination does not guarantee escape; comms/infrastructure constrain Sensei.
+- **BA-C005–C006: PRESERVE REJECTED** — neither omnipotent adult nor incapable students explains the position.
+- **BA-C007–C011: PRESERVE / COMPLICATE** — secrecy and coercive negotiation intensify the agency test.
+- **BA-C012: STRENGTHEN sharply / REVISE** — Corporation/PMC/creditor/proxy relations are directly connected; Gematria knowledge is established without affiliation collapse.
+- **BA-C013: STRENGTHEN sharply** — the Corporation creditor admits hiring both proxy forces.
+- **BA-C014: STRENGTHEN sharply** — debt, property, military capacity, and negotiation operate as integrated coercion.
+- **BA-C015–C017: STRENGTHEN / PRESSURE-TEST** — methods face nonvoluntary negotiation and hidden leader leverage.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened pending fuller Gematria evidence.
+
+## C002 E011 claim transitions
+
+- **BA-C001–C003: PRESSURE-TEST** — agency-preserving support faces an opponent manufacturing the choice field.
+- **BA-C004: STRENGTHEN / LIMIT** — Schale is a recognized force multiplier but cannot defeat integrated financial/military control alone.
+- **BA-C005–C006: PRESERVE REJECTED** — adult non-omnipotence and student competence coexist with structural defeat.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE** — institutional exit is offered without meaningful freedom; Hoshino refuses futile dialogue.
+- **BA-C012: STRENGTHEN sharply / REVISE** — one director unifies Corporation, Loan, Construction, and PMC roles; Gematria remains outside the proved role chain.
+- **BA-C013–C014: STRENGTHEN sharply** — creditor manipulation, proxy hiring, title, and military force form integrated coercion.
+- **BA-C015: STRENGTHEN sharply** — survival is tested by an offer to abandon the institution.
+- **BA-C016–C017: STRENGTHEN sharply** — formal choice is dominated when the stronger actor engineers alternatives; students retain refusal speech.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E012 claim transitions
+
+- **BA-C001–C003: STRENGTHEN / COMPLICATE** — adult care confronts secrecy and promises action, but uses compromised evidence and cannot prevent disappearance.
+- **BA-C004: STRENGTHEN limits** — adult responsibility is explicit while efficacy remains bounded.
+- **BA-C005–C006: PRESERVE REJECTED** — student method judgment and adult non-omnipotence coexist.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE sharply** — private accountability enables disclosure but constrains refusal; Hoshino retains action beyond Sensei's control.
+- **BA-C012: STRENGTHEN / REVISE** — repeated Black Suit recruitment, debt relief, and apparent director fear establish leverage without exact hierarchy.
+- **BA-C013–C014: STRENGTHEN** — finance, recruitment, and PMC-use inference converge; full organization remains OPEN.
+- **BA-C015: STRENGTHEN sharply** — collective survival is tested by criminal temptation and sacrificial exit.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE sharply** — meaningful choice requires viable alternatives, but information claims also require proportionate means.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+### C002 E012 epistemic firewall
+
+- **Established:** repeated two-year recruitment; Black Suit's latest debt-relief-for-exit/employment proposal; Hoshino's repeated refusal, momentary doubt, promised disclosure, and next-morning absence with form/letter left behind.
+- **Hoshino's interpretation:** Kaiser collects PMC-useful personnel.
+- **Observed but not formalized:** the Kaiser director appeared afraid of Black Suit.
+- **Not established:** signed acceptance, destination, letter contents, Black Suit's legal employer/title, Gematria membership, or exact hierarchy.
+
 ## C002 E013 claim transitions
 
 - **BA-C001–C003: STRENGTHEN / COMPLICATE** — Hoshino explicitly trusts Sensei as adult support, while Ayane's peer coordination supplies the immediate correction to solo sacrifice.
@@ -1014,76 +1088,15 @@ No `BA-C019` is opened.
 - **Ayane-qualified:** Trinity causation and effective federal investigation.
 - **Not established:** director arrest, full corporate exoneration/culpability, Black Suit contract status, land recovery, desert-project purpose, or PS68 final location.
 
-## C002 E012 claim transitions
+## MAIN V001 C002 checkpoint adjudication
 
-- **BA-C001–C003: STRENGTHEN / COMPLICATE** — adult care confronts secrecy and promises action, but uses compromised evidence and cannot prevent disappearance.
-- **BA-C004: STRENGTHEN limits** — adult responsibility is explicit while efficacy remains bounded.
-- **BA-C005–C006: PRESERVE REJECTED** — student method judgment and adult non-omnipotence coexist.
-- **BA-C007–C011: STRENGTHEN / COMPLICATE sharply** — private accountability enables disclosure but constrains refusal; Hoshino retains action beyond Sensei's control.
-- **BA-C012: STRENGTHEN / REVISE** — repeated Black Suit recruitment, debt relief, and apparent director fear establish leverage without exact hierarchy.
-- **BA-C013–C014: STRENGTHEN** — finance, recruitment, and PMC-use inference converge; full organization remains OPEN.
-- **BA-C015: STRENGTHEN sharply** — collective survival is tested by criminal temptation and sacrificial exit.
-- **BA-C016–C017: STRENGTHEN / COMPLICATE sharply** — meaningful choice requires viable alternatives, but information claims also require proportionate means.
-- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+Canonical checkpoint authority is `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` §15.
 
-### C002 E012 epistemic firewall
+- **Decisively strengthened:** BA-C001, BA-C003, BA-C015, BA-C016, BA-C018.
+- **Sharply strengthened/revised:** BA-C004, BA-C012, BA-C013, BA-C017.
+- **Strengthened with active counterevidence:** BA-C007, BA-C010, BA-C011.
+- **Preserved rejected:** BA-C005, BA-C006.
+- **Preserved downgraded/watch:** BA-C009.
+- **No new claim:** `BA-C019` is not opened.
 
-- **Established:** repeated two-year recruitment; Black Suit's latest debt-relief-for-exit/employment proposal; Hoshino's repeated refusal, momentary doubt, promised disclosure, and next-morning absence with form/letter left behind.
-- **Hoshino's interpretation:** Kaiser collects PMC-useful personnel.
-- **Observed but not formalized:** the Kaiser director appeared afraid of Black Suit.
-- **Not established:** signed acceptance, destination, letter contents, Black Suit's legal employer/title, Gematria membership, or exact hierarchy.
-
-## C002 E010 claim transitions
-
-- **BA-C001–C003: PRESSURE-TEST / PRESERVE** — partnership is contained by corporate scale and hidden information.
-- **BA-C004: REVISE / STRENGTHEN limits** — requested coordination does not guarantee escape; comms/infrastructure constrain Sensei.
-- **BA-C005–C006: PRESERVE REJECTED** — neither omnipotent adult nor incapable students explains the position.
-- **BA-C007–C011: PRESERVE / COMPLICATE** — secrecy and coercive negotiation intensify the agency test.
-- **BA-C012: STRENGTHEN sharply / REVISE** — Corporation/PMC/creditor/proxy relations are directly connected; Gematria knowledge is established without affiliation collapse.
-- **BA-C013: STRENGTHEN sharply** — the Corporation creditor admits hiring both proxy forces.
-- **BA-C014: STRENGTHEN sharply** — debt, property, military capacity, and negotiation operate as integrated coercion.
-- **BA-C015–C017: STRENGTHEN / PRESSURE-TEST** — methods face nonvoluntary negotiation and hidden leader leverage.
-- **BA-C018: PRESERVE**. No `BA-C019` is opened pending fuller Gematria evidence.
-
-## C002 E011 claim transitions
-
-- **BA-C001–C003: PRESSURE-TEST** — agency-preserving support faces an opponent manufacturing the choice field.
-- **BA-C004: STRENGTHEN / LIMIT** — Schale is a recognized force multiplier but cannot defeat integrated financial/military control alone.
-- **BA-C005–C006: PRESERVE REJECTED** — adult non-omnipotence and student competence coexist with structural defeat.
-- **BA-C007–C011: STRENGTHEN / COMPLICATE** — institutional exit is offered without meaningful freedom; Hoshino refuses futile dialogue.
-- **BA-C012: STRENGTHEN sharply / REVISE** — one director unifies Corporation, Loan, Construction, and PMC roles; Gematria remains outside the proved role chain.
-- **BA-C013–C014: STRENGTHEN sharply** — creditor manipulation, proxy hiring, title, and military force form integrated coercion.
-- **BA-C015: STRENGTHEN sharply** — survival is tested by an offer to abandon the institution.
-- **BA-C016–C017: STRENGTHEN sharply** — formal choice is dominated when the stronger actor engineers alternatives; students retain refusal speech.
-- **BA-C018: PRESERVE**. No `BA-C019` is opened.
-
-## C002 E009 claim transitions
-
-- **BA-C001–C003: STRENGTHEN lightly** — student withdrawal judgment delegates bounded command.
-- **BA-C004: STRENGTHEN** — Sensei is explicitly requested for tactical direction under combined-arms encirclement; no personal-force evidence.
-- **BA-C005–C006: rejection strengthened** — students author every substantive assessment.
-- **BA-C007–C011: PRESERVE / STRENGTHEN lightly** — situational delegation remains additive; no choices.
-- **BA-C012: STRENGTHEN / REVISE** — PMC↔Corporation affiliation is established; other network edges remain OPEN.
-- **BA-C013: PRESERVE**.
-- **BA-C014: STRENGTHEN sharply** — corporate power includes professional combined arms and territorial security.
-- **BA-C015–C017: STRENGTHEN lightly** — local actors retain judgment under organized private force.
-- **BA-C018: PRESERVE**. No `BA-C019` is opened.
-
-## C002 E007 claim transitions
-
-- **BA-C001–C011: PRESERVE**, with BA-C006 rejection lightly strengthened by student-authored navigation/history/risk control.
-- **BA-C012–C014: PRESERVE** — no new Kaiser relation or project fact.
-- **BA-C015: STRENGTHEN** — Abydos survival includes cultural geography and inherited civic memory.
-- **BA-C016–C017: STRENGTHEN lightly** — meaningful governance requires territorial self-knowledge; Ayane keeps warning separate from proof.
-- **BA-C018: STRENGTHEN lightly** — the sand festival is historical cross-school contact infrastructure.
-- No `BA-C019` is opened; all withdrawal/Kaiser firewalls remain.
-
-## C002 E008 claim transitions
-
-- **BA-C001–C011: mostly PRESERVE**; BA-C006 rejection strengthens lightly through student detection/classification/defense.
-- **BA-C012: STRENGTHEN / PRESSURE-TEST** — a PMC-role force and large installation appear, but affiliation/hierarchy remain OPEN.
-- **BA-C013: PRESERVE** — no new transaction.
-- **BA-C014: STRENGTHEN sharply** — extra-school territorial, construction, and armed-security capacity is directly visible.
-- **BA-C015: STRENGTHEN** — Abydos faces physical enclosure/exclusion on lost land.
-- **BA-C016–C017: STRENGTHEN lightly** — title does not settle attack legitimacy; observation remains graded.
-- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+Contextual backfill remains **DEFER**. The next crosswalk unit is Volume 2 and is outside current authorization.

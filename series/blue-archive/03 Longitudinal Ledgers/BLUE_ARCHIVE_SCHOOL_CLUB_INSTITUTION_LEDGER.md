@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
-source_boundary: Sequential main-story reading through BA:main:001:002:020
+checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-24
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -278,3 +278,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Kaiser director:** fired and wanted as kidnapping suspect; individualization of blame does not erase cross-entity role evidence.
 - **General Student Council:** expected to investigate but still described as nonfunctional/unreliable.
 - **Shiba Seki:** successful stall reopening confirms practical continuity across destroyed premises.
+
+## MAIN V001 C002 checkpoint institutional state
+
+> **lived committee under documentary invisibility → debt/title/military capture crisis → differentiated coalition rescue → public certification without leadership takeover → persistent debt/dispossession and incomplete accountability**
+
+- Abydos now combines practical continuity with formal committee/student-council recognition.
+- Kaiser remains materially entrenched through principal debt and majority land ownership despite interest relief and expected investigation.
+- Gematria remains separate from Kaiser and outside identified public accountability.
+- General Student Council capacity remains unreliable; Schale continues as corrective/investigative infrastructure.

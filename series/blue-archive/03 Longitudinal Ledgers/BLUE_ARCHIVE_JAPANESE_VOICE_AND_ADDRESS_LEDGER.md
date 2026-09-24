@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete; MAIN_V001_C002 complete through E020; checkpoint pending
-source_boundary: Sequential main-story reading through BA:main:001:002:020
+checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-24
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -546,6 +546,44 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Ayane:** `見たところ` and `引き続き警戒` preserve current negative observation without treating it as disproof.
 - No material speaker anomaly appears.
 
+## C002 E008 delta — graded visual classification
+
+- **Ayane:** `町`, `工場`, `駐屯地` are explicitly alternative classifications under dust-obscured observation; later `正体不明` preserves nonidentification.
+- **Hoshino:** `昔は無かった` supplies a personal temporal comparison without an exact construction date.
+- **PMC soldiers:** `侵入者`, `捕らえろ`, `逃がすな` establish exclusion/capture register without naming affiliation.
+- No material speaker anomaly appears.
+
+## C002 E009 delta — institution and scale vocabulary
+
+- **Ayane:** `確認が取れました`, `系列会社`, `組織化されたプロ`, `大規模な兵力`, and `包囲` move from identification to force-structure analysis.
+- **Nonomi:** expands `PMC` and marks recruitment as `噂`, maintaining evidence status in exposition.
+- **Serika:** repeated `カイザー` expresses brand saturation without proving corporate identity beyond Ayane's explicit PMC link.
+- No material speaker anomaly appears.
+
+## C002 E010 delta — debt as coercive conversational register
+
+- **Director:** polite creditor phrasing (`よろしいでしょうか`, `話し合いでも`) coexists with encirclement and unilateral damage addition, making negotiation language coercive in context.
+- **Hoshino:** parenthetical `あいつは` / `あの時の` registers recognition without public explanation.
+- **Black Suit recall:** isolated `u:0016` repeats the prior proposal and is quarantined from physical-presence inference.
+- **Key lexicon:** `私有地`, `被害額`, `借金に加えて`, `ゲマトリア`, `雇う`, `理事`.
+
+## C002 E011 delta — legality and the rope
+
+- **Director:** `合法的`, `記録`, `お客様` wrap domination in commercial courtesy; `首にかけられた紐` makes control explicit.
+- **Hina:** evidence-calibrated `2年前の情報部の分析` and `かもしれない` distinguish archived assessment from current certainty.
+- **Hoshino:** `弄ばれるだけ` names the conversational asymmetry and turns departure into refusal.
+- **Key figures:** `3000％`, `9130万円`, `3億円`, `一週間` are textual terms imposed in the scene, not analyst estimates.
+- No material speaker anomaly appears.
+
+## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
+
+- `奇跡なんて無い` / `奇跡でも起きるのかなぁ`: younger Hoshino rejects the former president's restoration word, then reuses it in present exhaustion; the callback holds skepticism, inheritance, and thin hope together.
+- `逃がしてくれそうにはない`: Hoshino names Sensei's insistence as making conversational escape unlikely, marking care and pressure in the same line.
+- `うちの会社`: Black Suit's recalled wording claims a company from within the proposal but does not by itself identify its full legal entity or Gematria relation.
+- `学校は、私がいなくなったら潰れちゃうから`: Hoshino explains repeated refusal through institutional dependence, making her casual register carry a severe burden claim.
+- `秘密は無い方が良い`: the promised norm of disclosure is immediately strained by next-morning absence.
+- **Attribution/topology caution:** Black Suit lines at `scene:002:u:0078-0080` are recalled speech; choice 5 variants converge and `u:0054-0055` duplicate the response.
+
 ## C002 E013 delta — rights, responsibility, and the solitary `私`
 
 - `全権利は、私の元に移譲`: Black Suit's totalizing first-person rights claim is direct speech, but still an actor assertion about contract effect rather than validated law.
@@ -631,40 +669,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `何も変わらない、いつもの感じ`: ordinary repetition is voiced as relief, not evidence of zero consequence.
 - `引き続きよろしく`: continued adult relation is requested rather than assumed complete.
 
-## C002 E012 delta — `奇跡`, refusal pressure, and company ambiguity
+## MAIN V001 C002 checkpoint language clusters
 
-- `奇跡なんて無い` / `奇跡でも起きるのかなぁ`: younger Hoshino rejects the former president's restoration word, then reuses it in present exhaustion; the callback holds skepticism, inheritance, and thin hope together.
-- `逃がしてくれそうにはない`: Hoshino names Sensei's insistence as making conversational escape unlikely, marking care and pressure in the same line.
-- `うちの会社`: Black Suit's recalled wording claims a company from within the proposal but does not by itself identify its full legal entity or Gematria relation.
-- `学校は、私がいなくなったら潰れちゃうから`: Hoshino explains repeated refusal through institutional dependence, making her casual register carry a severe burden claim.
-- `秘密は無い方が良い`: the promised norm of disclosure is immediately strained by next-morning absence.
-- **Attribution/topology caution:** Black Suit lines at `scene:002:u:0078-0080` are recalled speech; choice 5 variants converge and `u:0054-0055` duplicate the response.
-
-## C002 E010 delta — debt as coercive conversational register
-
-- **Director:** polite creditor phrasing (`よろしいでしょうか`, `話し合いでも`) coexists with encirclement and unilateral damage addition, making negotiation language coercive in context.
-- **Hoshino:** parenthetical `あいつは` / `あの時の` registers recognition without public explanation.
-- **Black Suit recall:** isolated `u:0016` repeats the prior proposal and is quarantined from physical-presence inference.
-- **Key lexicon:** `私有地`, `被害額`, `借金に加えて`, `ゲマトリア`, `雇う`, `理事`.
-
-## C002 E011 delta — legality and the rope
-
-- **Director:** `合法的`, `記録`, `お客様` wrap domination in commercial courtesy; `首にかけられた紐` makes control explicit.
-- **Hina:** evidence-calibrated `2年前の情報部の分析` and `かもしれない` distinguish archived assessment from current certainty.
-- **Hoshino:** `弄ばれるだけ` names the conversational asymmetry and turns departure into refusal.
-- **Key figures:** `3000％`, `9130万円`, `3億円`, `一週間` are textual terms imposed in the scene, not analyst estimates.
-- No material speaker anomaly appears.
-
-## C002 E009 delta — institution and scale vocabulary
-
-- **Ayane:** `確認が取れました`, `系列会社`, `組織化されたプロ`, `大規模な兵力`, and `包囲` move from identification to force-structure analysis.
-- **Nonomi:** expands `PMC` and marks recruitment as `噂`, maintaining evidence status in exposition.
-- **Serika:** repeated `カイザー` expresses brand saturation without proving corporate identity beyond Ayane's explicit PMC link.
-- No material speaker anomaly appears.
-
-## C002 E008 delta — graded visual classification
-
-- **Ayane:** `町`, `工場`, `駐屯地` are explicitly alternative classifications under dust-obscured observation; later `正体不明` preserves nonidentification.
-- **Hoshino:** `昔は無かった` supplies a personal temporal comparison without an exact construction date.
-- **PMC soldiers:** `侵入者`, `捕らえろ`, `逃がすな` establish exclusion/capture register without naming affiliation.
-- No material speaker anomaly appears.
+- **Captured choice:** `退学`, `契約`, `全権利`, `断る`, impossible repayment terms.
+- **Adult opposition:** `責任を取る` versus `支配する`; rule compliance versus legitimacy.
+- **Institutional existence:** `非公認` / `何者でもない` answered by `公的な認証` / `正式な委員会`.
+- **Entity separation:** `所属ではありません` and `利害関係が一致` govern Black Suit/Kaiser analysis.
+- **Belonging/continuity:** `昨日も今日も、明日も`, `おかえり`, `ただいま`, `引き続きよろしく`.
