@@ -4,13 +4,13 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.1"
+version: "12.0"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon remains reconstructed; 974 non-Main episodes are routed; T7S_B0080 is open on complete text of Sub i-n-g layer 300520; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 40 non-Main i-n-g documents / T7S_B0080–T7S_B0099 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-24
@@ -85,7 +85,7 @@ Maintain a **partial-order graph**, not one chronology integer. Only asserted `B
 
 ### Major-story-structure transition order
 
-The two native top-level Main groupings are routed as `T7S_STACK_2034` and `T7S_STACK_2053`. They are independently completed major story structures, not two adjacent batches in one unqualified reading queue. The current 2034 stack contains eleven Main families, all now closed through EPISODE NANASUTA (`200120`). The stack nevertheless retains unfulfilled non-Main eligibility, character/multimodal, longitudinal synthesis, era reconstruction, literary synthesis, and completion-audit obligations.
+The two native top-level Main groupings are routed as `T7S_STACK_2034` and `T7S_STACK_2053`. They are independently completed major story structures, not two adjacent batches in one unqualified reading queue. The current 2034 stack contains eleven Main families, all now closed through EPISODE NANASUTA (`200120`). The stack nevertheless retains unfinished non-Main portfolio, character/multimodal, longitudinal synthesis, era reconstruction, literary synthesis, and completion-audit obligations.
 
 Therefore the permitted high-level order is:
 
@@ -242,13 +242,15 @@ The [completion audit](../09%20Audits%20and%20Manifests/T7S_EPISODE_NANASUTA_COM
 
 The [passed routing audit](../09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) partitions every Sub/Event episode, every non-catalog scenario resource, and every supplemental record without asserting a fabricated cross-family chronology. It admits 743 Sub and 231 Event episodes to the 2034 portfolio horizon; holds eleven 2053-side birthday episodes behind the release gate; and separates one explicit Hololive crossover. Native parent links remain topology edges rather than `BEFORE` claims.
 
-The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. i-n-g and Legend Boss families receive targeted-case floors; intimacy, short-message, 2034 birthday, and conditional character-message material receive ordinary-life routes; Many merry party and all 58 Event families receive deep-block routes. Screening does not establish event order, narrative reconstruction, visual interpretation, or performed-audio evidence. The first queued bounded case is i-n-g layer `300520`, episodes `202001101` and `202001102`.
+The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. The first twenty i-n-g chapters are now closed through layer `300710`; the next unopened bounded case is layer `300720`, episodes `202003101`–`202003102`. Screening and routing still do not establish a fabricated cross-family chronology or performed-audio evidence.
 
-## T7S_B0080 opening decision
+## First twenty i-n-g targeted cases
 
-[T7S_B0080](../02%20Readings/T7S_B0080_DEEP_READING.md) opens exactly native Sub top layer `100010`, Tomoe family `200130`, and chapter `300520`, **シンギン・イン・ザ・キタクブ**. Its membership is episodes `202001101` and `202001102`, scripts `scout_041_01_01.json__5574dd10d3af0d42` and `scout_041_01_03.json__d5f035a78e7c3749`, at source-order indexes 97–98. The two primary documents contain 91 pages, 78 text records, 13 command-only pages, 62 voice-reference pages, and 890 character-visual references; they contain no inline document or authored-choice marker.
+The mandated source-routing sequence opens with native Sub top layer `100010` and complete chapter layers `300520`–`300710`. [T7S_B0080 through T7S_B0099](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) close those twenty chapters as forty exact primary documents at source-order indexes 97–136. The tranche contains 2,624 pages, 2,434 text records, 190 command-only pages, 1,866 voice-reference pages, and no authored choice or inline movie.
 
-The chapter itself establishes only a local post-entry relation: Tomoe says she has been at Nanasta for several months, then the front episode precedes the back episode. No placement against the Main sequence or other i-n-g chapters is inferred. Complete text reconstruction is in progress; presentation review and cumulative integration remain open.
+Table order records the prescribed analytical route, not a total diegetic chronology. Each front episode precedes its paired back episode; no broader before/after relation among the twenty chapters or against Main is inferred without independent dialogue evidence. All command states and forty selected first/last protagonist composites were reviewed. Performed voice, singing, BGM, and SFX remain unauditioned.
+
+The next routed but unopened native chapter is `300720` / **ラン・サヲリ・ラン**, under family `200330` / 夜舞サヲリ, episodes `202003101` and `202003102` at source-order indexes 137–138. It remains metadata-only after this closeout; every 2053 semantic source remains blocked.
 
 ## Revision history
 
@@ -277,3 +279,4 @@ The chapter itself establishes only a local post-entry relation: Tomoe says she 
 - 2026-09-13 — V1 / 10.0: correct the stale post-Episode-6 route without reconsuming EPISODE 3.0; admit and close complete native Main EPISODE NANASUTA as T7S_B0077–T7S_B0079; advance the exact horizon to 235 primary episodes and 40,699 flattened pages/logs; complete all eleven admitted 2034 Main families; preserve unknown exact chronology, reception, privacy, safeguarding, performed-audio, and remaining 2034-era-release limits; and leave 2053 semantic admission blocked.
 - 2026-09-24 — V1 / 11.0: partition the complete non-Main inventory; route 974 eligible Sub/Event episodes and exact additional/supplemental tranches to factual homes; retain eleven 2053 birthday episodes and all other 2053 semantics behind the release gate; isolate the Hololive crossover; and authorize portfolios without introducing chronology edges.
 - 2026-09-24 — V1 / 11.1: open bounded T7S_B0080 on the two exact documents in i-n-g layer `300520`; record the complete local source envelope and local-order limit; begin text reconstruction without yet asserting static presentation, audio, block closure, or cumulative state integration.
+- 2026-09-24 — V1 / 12.0: close the first twenty complete i-n-g chapters as T7S_B0080–T7S_B0099; preserve chapter-local order and reject a fabricated total chronology; review all 2,624 pages, 190 command-only states, and forty selected composites; and leave layer `300720` metadata-only and unopened.

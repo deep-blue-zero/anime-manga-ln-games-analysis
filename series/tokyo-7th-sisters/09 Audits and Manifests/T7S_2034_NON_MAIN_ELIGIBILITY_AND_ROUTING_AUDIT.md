@@ -7,7 +7,7 @@ generation: V1
 version: "11.0"
 status: passed
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
-coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING.jsonl"
+coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 portfolio_index: "../02 Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md"
 corpus_alias: c20260909-r484
 witness_id: T7S_GAME_OFFLINE_JA_R484
@@ -26,9 +26,9 @@ The eligible story horizon is **974 episodes**: **743 Sub** plus all **231 Event
 
 ## Authority and reproducibility
 
-The operation used the immutable database at `H:\T7S\corpus\extracted\evidence.sqlite`, expected SHA-256 `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87`, opened read-only with `mode=ro&immutable=1` and `PRAGMA query_only=ON`.
+The operation used the external immutable evidence database with expected SHA-256 `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87`, opened read-only with `mode=ro&immutable=1` and `PRAGMA query_only=ON`.
 
-The deterministic screening manifest is `H:\T7S\work\analysis_continuation\non_main_audit_v1\manifest.json`, 155,587 bytes, SHA-256 `fff84f8a0e0a5fa185df0782139a9ccb61a9ce1c23a65696ce3894e1aee257bc`. It binds 269 routing packets totaling 11,417,645 bytes. The work packets are reproducibility aids, not repository authority; the canonical per-record decisions are in the coverage ledger.
+The deterministic external screening manifest is 155,587 bytes with SHA-256 `fff84f8a0e0a5fa185df0782139a9ccb61a9ce1c23a65696ce3894e1aee257bc`. It binds 269 routing packets totaling 11,417,645 bytes. The work packets are reproducibility aids, not repository authority; the canonical per-record decisions are in the manifest-bound logical coverage ledger. Its later physical sharding changed no effective record state.
 
 The screen was deliberately conservative. Complete native-family packets supplied the routing envelope for every admitted episode; substantive families were never dismissed on an absence-of-keyword inference. `TARGETED_CASE` is the minimum for i-n-g and Legend Boss stories, and every Event family receives `DEEP_BLOCK`. Intimacy, birthday, short-message, card-message, character-voice, and solo-stage material receives an occurrence-aware ordinary-life route rather than being treated as literal chronological event evidence.
 
@@ -104,4 +104,3 @@ Card and voice messages are conditional presentation utterances, not proof that 
 ## Authorized continuation
 
 The routing gate is closed. The next operation is the 2034 non-Main portfolio program defined in [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md). The first queued bounded case is i-n-g layer `300520`, episodes `202001101` and `202001102`, under character-family route `NM-ING-200130`. Portfolio work may reconstruct and integrate admitted 2034 sources only. The complete 2053 semantic horizon remains `BLOCKED_PENDING_2034_ERA_RELEASE`.
-

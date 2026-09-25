@@ -1,0 +1,50 @@
+{
+  "schema": "t7s-analysis/coverage-routing-manifest/v1",
+  "artifact_id": "T7S_COVERAGE_AND_ROUTING_MANIFEST",
+  "artifact_type": "analytical_coverage_ledger_manifest",
+  "series": "Tokyo 7th Sisters",
+  "generation": "V1",
+  "version": "2.0",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "corpus_alias": "c20260909-r484",
+  "logical_ledger_artifact_id": "T7S_COVERAGE_AND_ROUTING",
+  "record_identity": "SCENARIO uses record_type plus script_id; SUPPLEMENTAL_TRANCHE uses record_type plus tranche_id. META records are shard headers, not data records.",
+  "partition_rule": "CURRENT_OR_CONSUMED iff the pre-shard effective record has narratively_reconstructed=true or a non-empty consumed_ranges array; ROUTED_OR_UNCONSUMED is the exact complement.",
+  "merge_order": "Expand each record with its shard-local META defaults, then order SCENARIO records by script_id UTF-8 binary order and SUPPLEMENTAL_TRANCHE records by tranche_id UTF-8 binary order.",
+  "data_records": 1590,
+  "scenario_records": 1578,
+  "supplemental_tranche_records": 12,
+  "meta_records": 2,
+  "disjoint": true,
+  "complete": true,
+  "effective_state_sha256_before_sharding": "a0d2d51ff77de76130112a845e2a226137788a83b0efa272624e18ff38b76302",
+  "effective_state_sha256_after_sharding": "a0d2d51ff77de76130112a845e2a226137788a83b0efa272624e18ff38b76302",
+  "shards": [
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING.jsonl",
+      "role": "CURRENT_OR_CONSUMED",
+      "data_records": 361,
+      "bytes": 530853,
+      "sha256": "ba7d0f20be6138c72e89f35e1d6efcfb42faa7e3fee6103ba9d1e5d96447e00b",
+      "membership_sha256": "c0ad7cc4a0c267aca2b7ec55b3bb42d3f16f90561295dca4a94ad05c0817be5e"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
+      "role": "ROUTED_OR_UNCONSUMED",
+      "data_records": 1229,
+      "bytes": 688668,
+      "sha256": "b3bfb469125aa05cfcf63c2646474a848ae39d679f3f0300b4d446e4ecff7724",
+      "membership_sha256": "af17e208f415b0ed2624e6c6a1667acff6ba87932c4dda7408efa221be668af7"
+    }
+  ],
+  "transition": {
+    "operation": "T7S_COVERAGE_LEDGER_SHARD_TRANSITION",
+    "date": "2026-09-24",
+    "reason": "Preserve the complete authored ledger below the repository's per-file review threshold without dropping decisions, histories, routes, or defaults.",
+    "semantic_change": "NONE"
+  }
+}

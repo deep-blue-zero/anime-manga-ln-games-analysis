@@ -4,16 +4,16 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; no sequential analysis consumed"
-architecture_lifecycle: INITIAL
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0099; exact coverage maintained as a manifest-bound logical ledger with two shards"
+architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-09
+last_updated: 2026-09-24
 ---
 
 # Tokyo 7th Sisters evidence substrate and locator protocol
@@ -140,7 +140,9 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The coverage ledger is an authored consumption/routing ledger with one record per exact script and catalog episode memberships, plus five exact supplemental tranches. It contains IDs and decisions; no copied source text or bulk metadata. Its META record declares field defaults. Missing fields inherit only those explicit defaults; unknown record types or fields are validation failures. A set of IDs alone is not evidence of reading.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve active supplemental tranches: 361 current-or-consumed records and 1,229 routed-or-unconsumed records, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+
+Each shard's META record declares its own field defaults. Expand every record with only its shard-local explicit defaults before interpretation; unknown record types or fields are validation failures. Record identity is `(record_type, script_id)` for `SCENARIO` and `(record_type, tranche_id)` for `SUPPLEMENTAL_TRANCHE`. When a routed record is consumed, move it atomically to the current-or-consumed shard while preserving its complete effective state, `decision_history`, and current decision fields. The manifest binds shard bytes, file hashes, membership hashes, record counts, partition rule, and the pre/post effective-state hash proving the split was lossless. A set of IDs alone is not evidence of reading.
 
 Use `SELECT script_id FROM scenarios ORDER BY script_id COLLATE BINARY` to recover all 1,578 scripts. Join `episodes` on script ID to recover all 1,350 catalog memberships and their qualified hierarchy. Additional scripts are the exact anti-join, not a filename guess. Supplemental membership recipes use namespace-qualified full IDs in BINARY order, UTF-8 without BOM and one LF per ID including the last. The source lock pins each membership digest, so an auditor can recover every still-unread record without a complete copied source registry in Git.
 
@@ -151,3 +153,8 @@ To split a supplemental tranche, retain its original scope/decision history, nam
 Resolve episode `201000001` to `scout_000_00_01.json__8df3fd723276f650` through the locked catalog. Read the complete structured source, select every page ordered by `log_order_index` and every line ordered by `line_index`, and compare each document-qualified native pointer with the selected document. The bootstrap adapter verified 195 pages and 190 text pointers and copied that one full structured source to an external packet with an exact receipt. No later script is included. That is a reproducible query-equivalent retrieval route; it does not claim a universal resolver or a semantic reading.
 
 For future script packets, repeat those checks for each explicitly admitted member and each inline child with its own provenance; fail on unbound documents or mismatches. For an ordinary query, pass IDs as parameters, verify the intended cardinality, compare native bytes/value and reject ambiguity. Never silently substitute search results outside the admitted horizon. Source access is required to verify the external evidence; the public repository does not redistribute it.
+
+## Revision history
+
+- 2026-09-09 — V1 / 1.0: establish the source/witness authority model, portable locator grammar, exact membership rules, and bounded first-operation query equivalent.
+- 2026-09-24 — V1 / 1.1: bind the coverage ledger as a manifest-governed, two-shard logical artifact after T7S_B0080–T7S_B0099; preserve all 1,590 effective records through a lossless partition and define atomic record migration for later consumption.

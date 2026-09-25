@@ -4,8 +4,8 @@ artifact_id: T7S_B0080
 artifact_type: deep_reading
 series: Tokyo 7th Sisters
 generation: V1
-version: "0.1"
-status: in_progress
+version: "1.0"
+status: canonical
 portfolio_disposition: TARGETED_CASE
 portfolio_route_key: NM-ING-200130
 native_category: Sub
@@ -18,6 +18,7 @@ coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING.jsonl"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 corpus_alias: c20260909-r484
 witness_id: T7S_GAME_OFFLINE_JA_R484
+analysis_status: complete_bounded_targeted_case
 opened: 2026-09-24
 last_updated: 2026-09-24
 ---
@@ -26,7 +27,7 @@ last_updated: 2026-09-24
 
 ## Portfolio status
 
-**IN PROGRESS.** This opens the first bounded 2034 non-Main analytical portfolio after the routing audit. The complete Japanese text of both episodes has been reconstructed into an event chain and an initial character/relationship handoff. The block is not yet closed: command-only pages and exact static presentation remain to be checked, performed audio has not been auditioned, and no cumulative ledger integration is claimed.
+**COMPLETE TARGETED CASE.** This opens the first bounded 2034 non-Main analytical portfolio after the routing audit. The complete Japanese text of both episodes, all thirteen command-only pages, and the selected first/last Tomoe composites have been reviewed. The block is closed for text-and-static claims and cumulative integration. Performed audio remains unauditioned, so every judgment about Tomoe's voice is retained as an in-story listener judgment rather than an acoustic finding.
 
 The native title is `シンギン・イン・ザ・キタクブ`, under i-n-g / 白鳥トモエ / `EPISODE.1.5-001`. “Singing in the Go-Home Club” is a working English gloss, not an official localized title.
 
@@ -84,7 +85,7 @@ Tomoe continues singing by improvising the disaster itself: a once-in-a-lifetime
 
 The ending supplies corroboration from three differently placed listeners: passersby who heard the park song, Haru who knows the singer, and the Player who hears the post-accident improvisation before identification. Their agreement supports a textual claim that Tomoe's voice is perceived as appealing. It does not provide acoustic verification, prove a stable talent essence, cure her social anxiety, or transform public humiliation into uncomplicated triumph. Her last action is bodily recovery, not a confident encore.
 
-## Initial analytical findings
+## Analytical findings
 
 ### Communication is an uneven channel, not a binary trait
 
@@ -112,19 +113,21 @@ The audience is not assembled through a scheduled live or managed campaign. A vo
 | Player → Tomoe | fails to notice the towel attempt until too late | independently praises the voice before learning the singer's identity | arrives after the crisis and supplies no protection or repair in the scene |
 | visitors → Tomoe | accidental listeners | seek the singer, cheer, and request repetition | their escalating demand helps create pressure; their response after the accident is not reconstructed |
 
-## Provisional state handoff
+## State handoff
 
 - **Tomoe:** now has externally corroborated evidence that her singing reaches people, including listeners who do not first know her identity. She remains unable to treat positive attention as safe, experiences severe public-performance nausea, and ends without a stable social or stage breakthrough.
 - **Haru:** recognizes an underseen peer capability and acts as its advocate. Her support includes both reassurance and unexamined physical/social pressure.
 - **Nanasta:** becomes discoverable through unscheduled local circulation of a member's voice. Its threshold can host spontaneous audience formation, but this case exposes weak transition and safeguarding practice.
 - **Open tests:** whether Tomoe can offer care directly; whether she can perform with a known audience without collapse; whether peers learn to scaffold rather than propel; whether she can retain praise as evidence; and whether self-authored comic song expands beyond anticipatory self-erasure.
 
-These are provisional portfolio findings. They do not update the cumulative causal/entity/claim ledgers until the block's presentation review and closeout pass.
+These are bounded portfolio findings. They may update the cumulative ledgers without implying a total order among i-n-g chapters.
 
-## Remaining work before close
+## Presentation review and evidentiary limits
 
-- inspect all thirteen command-only pages and the exact static state needed to test staging, distance, pressure, bodily distress, and audience framing;
-- preserve absence claims carefully: no facial expression, gesture, crowd response, or timing claim is established from dialogue alone;
-- decide whether representative performed-voice audition is required for this targeted case; until then, “cute voice” remains an in-story listener judgment, not an acoustic finding;
-- reconcile the two episode records to `T7S_B0080` only after closeout and then propagate the bounded state changes to the longitudinal ledgers;
-- keep the remaining six Tomoe i-n-g episodes outside this block until separately opened.
+All thirteen command-only pages were reviewed. They supply title/fade/effect and non-speaking sprite state rather than omitted dialogue or an authored branch. The selected Tomoe composites move from the nervous tea-bearing `adv_chara_120_01_04` to the slight smile of `adv_chara_120_01_02`. That bounded visible change is consistent with momentary relief after recognition; it does not establish durable social recovery, safe performance capacity, or a continuous bodily sequence.
+
+Static review cannot prove exact timing, crowd movement, physical contact beyond the written command/dialogue record, or acoustic affect. All 62 voice-reference pages, BGM, effects, and performed singing remain unauditioned. No acoustic claim is load-bearing in this case.
+
+## Endpoint
+
+This complete native i-n-g chapter is closed as one `TARGETED_CASE`. Its two episode records have a factual home here. The remaining six Tomoe i-n-g episodes stay outside this block until separately opened; no continuation outcome is imported backward.
