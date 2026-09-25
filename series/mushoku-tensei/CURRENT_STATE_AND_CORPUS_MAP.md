@@ -4,7 +4,7 @@ artifact_id: MT_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,12 +12,12 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Bootstrap through V01 structural reconnaissance; no completed narrative volume reading or character reconstruction."
+source_boundary: "V01 Japanese LN prose and images inspected for a pilot; hash-only locator map lacks durable evidence-plane placement; no sequential unit closed and V02 unopened."
 ---
 
 # Mushoku Tensei — current state and corpus map
 
-This is the single first-read surface for `series/mushoku-tensei/`. Git owns accepted interpretation; the Drive source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` owns primary/derived evidence. The bootstrap adopted methodology and initialized operational ledgers. **No V01 narrative reading was performed.**
+This is the single first-read surface for `series/mushoku-tensei/`. Git owns accepted interpretation; the Drive source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` owns primary/derived evidence. The bootstrap adopted methodology and initialized operational ledgers. The [V01 pilot candidate](02%20Sequential%20Readings/MT_V01_DEEP_READING.md) and its ledger updates are **provisional** pending durable retention of the paragraph/ruby locator map and final closure. V02 has not been read.
 
 ## Project initialization
 
@@ -25,7 +25,7 @@ This is the single first-read surface for `series/mushoku-tensei/`. Git owns acc
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
-  analytical_phase: BOOTSTRAP_COMPLETE
+  analytical_phase: V01_PILOT_PENDING_EVIDENCE_RETENTION
   source_reconnaissance_complete: true
   governing_method: "00 Frameworks and Methods/MT_ANALYTICAL_METHOD.md"
   method_status: canonical
@@ -44,17 +44,18 @@ project_initialization:
   sequential_analysis_lock: OPEN
 ```
 
-`SEQUENTIAL_ANALYSIS_LOCK = OPEN` for a bounded first-volume pilot: the source, accepted methods and six ledger homes are usable. This is readiness, **not** authorization to inspect V01 as narrative. V12 is absent from the current folder; the main LN sequence cannot cross V12 until it is restored and verified.
+`SEQUENTIAL_ANALYSIS_LOCK = OPEN`: the source, accepted methods and six ledger homes supported the authorized first-volume pilot. This gate is not a closed-volume certification. V12 is absent from the current folder; the main LN sequence cannot cross V12 until it is restored and verified.
 
 ## Authorization and progress
 
 ```yaml
-bootstrap_execution:
-  authorized_operation: BOOTSTRAP_ONLY
-  new_sequential_analysis_authorized: false
+pilot_execution:
+  authorized_operation: V01_PILOT_AND_PUBLICATION_THEN_OWNER_REVIEW
+  new_sequential_analysis_authorized: true
+  authorization_limit: V01_ONLY
   completed_new_sequential_units: []
-  next_candidate: V01
-  next_permitted_action: AWAIT_EXPLICIT_V01_READING_SCOPE
+  candidate_under_review: V01
+  next_permitted_action: RETAIN_HASH_ONLY_LOCATOR_MAP_WITH_EXPLICIT_PAYLOAD_AND_DESTINATION_APPROVAL_THEN_CLOSE_V01_AND_PAUSE
 lane_progress:
   ln_sequential_closed_through: null
   wn_comparison_closed_scope: null
@@ -63,13 +64,13 @@ lane_progress:
   reception_scope: NOT_STARTED
 ```
 
-The high-water mark is **none**. Previous conversation excerpts and the structural EPUB check do not close V01. No models, monographs, textual-history comparisons, reception samples, or global character enrollments exist for this project.
+The high-water mark is **none**. V01 narrative and illustrations have been inspected, but the hash-only paragraph/ruby map remains in transient scratch after automatic approval review rejected its upload to the Drive source folder as private EPUB derivative metadata going to an unverified destination without explicit payload-and-destination approval. The repository method requires durable evidence-plane mapping before closure. No models, monographs, textual-history comparisons, reception samples, or global character enrollments exist for this project.
 
 ## Source and gate route
 
 Read [MT_SOURCE_LOCK_AND_INVENTORY.md](01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md) for the actual V01 fingerprint, locator check, live folder gap, and unverified later files. The main analytical object is the Japanese published LN, one volume per authorized transaction. WN, supplements, adaptations, interviews and reception have separate admission and authorization boundaries. The historical manifest is an evidence lead, not a narrative finding.
 
-The next pilot must verify its complete prose/paratext coverage and appropriate illustrations before transaction closure. Later available volumes are not individually byte-certified here. V12 remains a hard barrier to advancing the sequential high-water mark beyond V11.
+V01 prose/paratext and appropriate illustrations have been inspected; the candidate's coverage and diagnostic locators are in the provisional reading. The local hash-only map is 650,286 bytes, SHA-256 `6c782f0a8f5f30fb8a3c9d67d138185c2adae3e1b8b8d2f947424a16798c0e5c`, proposed for the source folder above if the owner explicitly approves that payload and destination. Its absence there prevents closure. Later available volumes are not individually byte-certified here. V12 remains a hard barrier to advancing the sequential high-water mark beyond V11.
 
 ## Accepted framework and read order
 
@@ -86,19 +87,19 @@ Start with this entrypoint, then the governing [analytical method](00%20Framewor
 - [MT_TEXTUAL_HISTORY_METHOD](00%20Frameworks%20and%20Methods/MT_TEXTUAL_HISTORY_METHOD.md)
 - [MT_VOLUME_READING_TEMPLATE](00%20Frameworks%20and%20Methods/MT_VOLUME_READING_TEMPLATE.md)
 
-The volume-reading and bootstrap documents are templates, not completed source readings. Textual-history and discourse lanes remain unopened.
+The volume-reading and bootstrap documents are templates. The V01 pilot reading is a separate provisional artifact. Textual-history and discourse lanes remain unopened.
 
 ## Required day-one ledgers
 
-- [MT_CHARACTER_STATE_AND_READINESS_LEDGER](03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) — `NOT_STARTED`, zero observations.
-- [MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER](03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md) — `NOT_STARTED`, zero observations.
-- [MT_CLAIMS_AND_REVISIONS_LEDGER](03%20Longitudinal%20Ledgers/MT_CLAIMS_AND_REVISIONS_LEDGER.md) — `NOT_STARTED`, zero observations.
-- [MT_FORM_THEMES_AND_WORLD_LEDGER](03%20Longitudinal%20Ledgers/MT_FORM_THEMES_AND_WORLD_LEDGER.md) — `NOT_STARTED`, zero observations.
-- [MT_NORMATIVE_FRAMING_LEDGER](03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md) — `NOT_STARTED`, zero observations.
-- [MT_RELATIONSHIP_AND_AGENCY_LEDGER](03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md) — `NOT_STARTED`, zero observations.
+- [MT_CHARACTER_STATE_AND_READINESS_LEDGER](03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) — provisional V01 state events and readiness limits.
+- [MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER](03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md) — provisional V01 ordering and knowledge boundaries.
+- [MT_CLAIMS_AND_REVISIONS_LEDGER](03%20Longitudinal%20Ledgers/MT_CLAIMS_AND_REVISIONS_LEDGER.md) — provisional bounded claims and open tests.
+- [MT_FORM_THEMES_AND_WORLD_LEDGER](03%20Longitudinal%20Ledgers/MT_FORM_THEMES_AND_WORLD_LEDGER.md) — provisional form, motifs and represented-world claims.
+- [MT_NORMATIVE_FRAMING_LEDGER](03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md) — provisional scene-level normative assessments.
+- [MT_RELATIONSHIP_AND_AGENCY_LEDGER](03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md) — provisional directional relationship records.
 
 The [bootstrap report](10%20Audits%20and%20Handoffs/MT_BOOTSTRAP_REPORT.md) records acceptance, verification, and publication state. Only the analytical integrator updates shared current state. Character curation and global index housekeeping retain their distinct designated writers.
 
 ## Next authorized boundary
 
-A separately scoped V01 pilot is the next candidate, to calibrate prose coverage, observation density, and character reconstruction evidence capture. Bootstrap authorization ends here. Subsequent bounded tranches and optional version/reception work require their own owner instruction.
+The authorized V01 pilot candidate is ready for owner review once published. To meet the method's closure condition, the local hash-only locator map needs explicit approval for upload to the stated Drive folder and durable retention there; the sequential high-water mark remains `null` until that condition and final review are complete. **Pause after the V01 pilot for owner review. Do not inspect V02.** Subsequent bounded tranches and optional version/reception work require their own owner instruction.
