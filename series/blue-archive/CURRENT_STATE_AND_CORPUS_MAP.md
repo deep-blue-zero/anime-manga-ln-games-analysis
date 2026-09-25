@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE — CURRENT STATE AND CORPUS MAP
@@ -19,6 +19,8 @@ updated: 2026-08-18
 This is the canonical entrypoint for the Blue Archive analytical project.
 
 **Current analytical state:** **Phase 1 active - the canonical Prologue and `MAIN_V001_C001` Chapter 1 checkpoint are complete. The canonical Chapter 1 synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. The next sequential unit is `BA:main:001:002:001` (`MAIN_V001_C002_E001`), source title `第1話;予期せぬ同盟`.**
+
+The project-local character reconstruction architecture is now established before that next story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. The next unit remains unopened.
 
 E020 gives the first direct test of the asymmetric-sovereignty problem opened in E016. Gehenna's company-scale Prefect Team pursues Problem Solver 68 into Abydos territory and begins tactical operations without Abydos permission. Iori frames obstruction as interference with `公務`, while Chinatsu argues explanation should precede force. Abydos does not deny PS68 wrongdoing: Shiroko chooses to stop the Prefect Team and Ayane explicitly separates culpability from jurisdiction, insisting that another academy cannot conduct such operations `私たちの許可もなく`. Sensei's first choice raises hand-over as a deliberative option rather than dictating policy; the students reject it and articulate the sovereignty claim themselves. After the Prefect Team is defeated, Chinatsu says that recognizing Sensei should have caused immediate withdrawal, sharply strengthening the command/coordination force-multiplier model without implying personal combat supremacy. Ayane then returns immediately to formal identification/procedure; Ako remotely self-identifies as a Gehenna `行政官`, asks permission to explain, and signals internal discipline toward Iori. Haruka ends the chapter by identifying the assembled group as a `チャンス` and repeating `許さない`, so procedural stabilization remains incomplete. Hoshino remains abnormally unreachable, but E020 does not establish that Black Suit caused the absence. The source-side convenience E020 Markdown is itself truncated after scene 1; the stable promoted two-scene canonical projection governs the reading. The Prologue plus all **twenty** Chapter-1 `対策委員会編` units are complete, for **22 / 310** canonical main-story units total. All seven longitudinal ledgers are reconciled through `BA:main:001:001:020`. The live claim set remains `BA-C001`–`BA-C018`; E020 opens no new claim ID, but sharply strengthens `BA-C003`, `BA-C004`, `BA-C006`, `BA-C010`, `BA-C011`, and especially `BA-C016`.
 
@@ -95,8 +97,14 @@ Current analytical authority:
 
 - `00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md`
 - `00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md`
+- `00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`
 - this `CURRENT_STATE_AND_CORPUS_MAP.md`
 - `01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_LOCK_V1.md`
+
+Current character-reconstruction routing and audit surfaces:
+
+- `06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`;
+- `08 Audits and Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md`.
 
 Technical source-state authority remains in the extraction root, especially:
 
@@ -251,7 +259,10 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 
 - `BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md`;
 - `BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md`;
+- `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`;
 - `BLUE_ARCHIVE_SOURCE_LOCK_V1.md`;
+- `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`;
+- `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md`;
 - this current-state/corpus map;
 - promoted source/derived technical audits in the ingestion root.
 
@@ -260,22 +271,9 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — first Prologue main unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — second/final Prologue main unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue checkpoint and current synthesis authority for `MAIN_V000_C001`**;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — first `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — second `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E003_DEEP_READING.md` — third `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E004_DEEP_READING.md` — fourth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E005_DEEP_READING.md` — fifth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E006_DEEP_READING.md` — sixth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E007_DEEP_READING.md` — seventh `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E008_DEEP_READING.md` — eighth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E009_DEEP_READING.md` — ninth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E010_DEEP_READING.md` — tenth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E011_DEEP_READING.md` — eleventh `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E012_DEEP_READING.md` — twelfth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E013_DEEP_READING.md` — thirteenth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E014_DEEP_READING.md` — fourteenth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md` — fifteenth `対策委員会編` unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first sixteen marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — all twenty Chapter 1 units, `active_provisional` as source-facing evidence records;
+- `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` — **canonical Chapter 1 synthesis authority for `MAIN_V001_C001`**;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, 22 complete including Prologue and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -287,13 +285,24 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:001:001:014`, the fourteenth `対策委員会編` unit after the Prologue. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:001:001:020`, the completed first chapter after the Prologue. They are mutable infrastructure, not frozen releases.
+
+### Character reconstruction state
+
+- specification: canonical and populated;
+- coverage index: canonical and populated at the C001 boundary;
+- bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
+- standalone reconstruction models: none;
+- readiness: eleven `PARTIAL_MODEL` subjects, six `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
+- prospective prediction registers: none;
+- global reconstruction capability records: deliberately unpopulated.
 
 ### Not yet created
 
-- later `対策委員会編` and subsequent main-story deep readings;
+- `MAIN_V001_C002` and subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
+- standalone character reconstruction models and validation registers;
 - adjudicated relationship syntheses;
 - institutional syntheses;
 - Sensei full synthesis;
@@ -312,7 +321,13 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ### Character research before a monograph exists
 
-`this map → source character package → contextual scenes / dialogue / low-stakes / variant / relationship indexes → complete canonical sources → analytical notes`
+`this map → character analytical coverage index → Chapter 1 checkpoint → applicable ledgers → source character package for recall → complete canonical sources → analytical notes`
+
+### Character reconstruction or hypothetical behavior
+
+`this map → character analytical coverage index → character reconstruction specification → accepted literary/checkpoint authority → current model state/rules if one exists → validation record → bounded hypothetical application`
+
+No standalone Blue Archive reconstruction model exists yet. If the coverage index reports no eligible model/domain, answer from literary evidence and label the inference accordingly rather than presenting simulation capability.
 
 ### Relationship research before a synthesis exists
 
@@ -334,41 +349,45 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 is active through E019. No checkpoint should be emitted until E020 is complete.**
+**`対策委員会編` Chapter 1 and its canonical checkpoint are complete. The reconstruction architecture is established. The next mandatory sequential operation is `BA:main:001:002:001`, which remains unopened.**
 
-The next mandatory sequential step is:
+Before narrative access:
 
-1. begin `BA:main:001:001:020` as `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md`;
-2. retain the Prologue checkpoint plus E001–E019 as the complete prior-information boundary;
-3. establish the Prefect Team's stated purpose, command authority, and target logic before making jurisdictional claims;
-4. distinguish formal pursuit of PS68 from any action directed at Abydos;
-5. test `BA-C016` directly if the Prefect Team acts inside Abydos territory without meaningful Abydos consent/control;
-6. track Sensei's textual presence, choices, and effect on inter-academy escalation if supplied;
-7. preserve the distinction between Haruka's direct demolition act and Aru's E019 post hoc ratification unless E020 revisits responsibility;
-8. keep the E017 Black Suit proposal and Hoshino status unresolved unless explicitly addressed;
-9. update all seven longitudinal ledgers and re-adjudicate `BA-C016`–`BA-C018` only for material evidence;
-10. after E020, emit the mandatory `MAIN_V001_C001` chapter checkpoint before starting Chapter 2.
+1. retain the Prologue plus `MAIN_V001_C001` checkpoint as the complete prior-information boundary;
+2. preserve the Chapter 1 contextual-backfill decision `DEFER`;
+3. use the character coverage index to identify any diagnostic reconstruction questions without converting them into predictions after exposure;
+4. if a formal character rule is to be prospectively tested, freeze its exact state, knowledge, relationship, conditions, alternatives, and disconfirming observation in a committed register first;
+5. do not create a prototype merely to populate the reconstruction layer.
+
+During and after the next unit:
+
+1. perform the literary deep reading first under strict local-information discipline;
+2. record a behavioral/reconstruction delta only for diagnostically useful evidence, otherwise `NO_MATERIAL_RECONSTRUCTION_DELTA`;
+3. update all affected ledgers and the coverage index only for material changes;
+4. preserve Hoshino/Black Suit and Kaiser firewalls unless the new source explicitly changes them;
+5. adjudicate any previously frozen rule without editing the prediction wording.
 
 Next source unit:
 
-- story ID: `BA:main:001:001:020`;
-- scope: `MAIN_V001_C001_E020`;
+- story ID: `BA:main:001:002:001`;
+- scope: `MAIN_V001_C002_E001`;
 - arc: `対策委員会編`;
-- source title: `第20話;風紀委員会、参戦！`;
-- canonical scene count: **2**;
-- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md`.
+- source title: `第1話;予期せぬ同盟`;
+- analytical artifact: `BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md`.
 
-E020 must remain **standalone** because it closes `VOLUME_001 / CHAPTER_001` and is the first unit positioned to adjudicate the political legitimacy of Gehenna's formal armed intervention.
+The title, story ID, scope, and topology are inventory facts only. This map records no C002 narrative content.
 
 ## 12. Reasoning recommendation
 
-For GPT-5.6 Sol:
+Use stable routing classes rather than treating a provider label as durable architecture:
 
-- source-lock / extraction-state audits: **medium-high**;
-- individual main-story deep readings: **high**;
-- arc checkpoints and ledger reconciliation: **extra-high when available; otherwise high**;
-- character / relationship / institution monographs: **high**, with source-class triangulation and counterevidence;
-- current-era synthesis: **highest practical reasoning**.
+- source-lock / extraction-state audits: `BOUNDED_STANDARD` or `SUBSTANTIVE_ANALYSIS` when semantic routing is disputed;
+- individual main-story deep readings: `SUBSTANTIVE_ANALYSIS`;
+- arc checkpoints, ledger reconciliation, and character model construction: `DEEP_SYNTHESIS`;
+- architecture, adversarial audits, cross-specialist convergence, and current-era synthesis: `PREMIUM_QUALITY_FIRST`;
+- release administration: `ROUTINE_FAST`, escalating when semantic review is involved.
+
+Current execution metadata may name a concrete model separately; the stable class governs the durable responsibility.
 
 ---
 
@@ -379,6 +398,10 @@ For GPT-5.6 Sol:
 Use the promoted source and derived layers aggressively for retrieval while keeping them subordinate to complete canonical stories and explicit analytical adjudication. The target remains:
 
 **source → sequential reading → longitudinal state → specialist synthesis → current-era argument → frozen release**, with every mature claim reversible to stable Japanese evidence.
+
+Character reconstruction is a downstream branch:
+
+**accepted literary/checkpoint authority → time-bounded model → preserved validation → hypothetical application**, with no upward evidentiary flow from generated material.
 
 
 ## E020 chapter-closing state delta
@@ -392,10 +415,21 @@ Use the promoted source and derived layers aggressively for retrieval while keep
 - Hoshino↔Black Suit causation remains OPEN; E020 only establishes abnormal unreachability.
 - Prefect Team deployment rationale/order chain remains incomplete at E020; Ako's explanation begins but is not delivered within the unit.
 - E020 source-side convenience Markdown truncates scene 2; promoted stable two-scene projection is governing evidence.
-- **Mandatory next step:** `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` before Chapter 2.
+- **Historical E020 gate:** `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` was required before Chapter 2 and is now complete.
 
 ## Chapter 1 checkpoint state
 
 `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` is canonical for Chapter 1 synthesis. It re-adjudicates BA-C001-BA-C018, opens no BA-C019, narrows BA-C009 to a strong Prologue pattern pending later recurrence, and makes agency-preserving power / recipient control the strongest current chapter-level synthesis. Contextual backfill decision is **DEFER**.
 
 Proceed next to `BA:main:001:002:001` (`MAIN_V001_C002_E001`), `第1話;予期せぬ同盟`, under strict local-information discipline.
+
+## Character reconstruction bootstrap state
+
+- canonical specification: `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`;
+- canonical coverage router: `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`;
+- canonical audit: `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md`, disposition `PASS_WITH_EXPLICIT_DEFERRALS`;
+- current local readiness: eleven `PARTIAL_MODEL`, six `UNMODELED`, zero `OPERATIONAL_CANDIDATE`, zero `BOUNDED_VALIDATED`;
+- standalone model artifacts: none;
+- prospective prediction registers: none;
+- contextual backfill: still `DEFER`;
+- no C002 narrative was opened for the bootstrap.
