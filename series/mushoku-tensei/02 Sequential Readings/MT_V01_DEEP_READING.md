@@ -4,7 +4,7 @@ artifact_id: MT_V01_DEEP_READING
 artifact_type: deep_reading
 series: "Mushoku Tensei"
 generation: "V1"
-version: "0.9-pilot"
+version: "0.9.1-pilot"
 status: draft_noncurrent
 supersedes: []
 superseded_by: []
@@ -17,6 +17,18 @@ recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # V01 — childhood, practice, care, and separation
+
+## Story synopsis (spoilers through V01)
+
+A man who has spent years shut away after a humiliating school assault misses his parents' funeral and is expelled from the family home. On the street, he intervenes when a truck threatens several students and dies. He wakes as a baby in another world, with memories of his previous life but a child's body and dependence on others. His new parents, Paul and Zenith Greyrat, live in a rural household with a maid, Lilia. They name him Rudeus. He resolves to make something of this life, although the people caring for him cannot hear the adult thoughts behind his infant behavior. Lilia, in particular, is disturbed by him before his conduct gives her grounds to revise her opinion.
+
+As Rudeus grows, he learns to read and discovers that he can use magic. He studies a manual, practices until he exhausts himself, and experiments with casting without a spoken incantation. A spell that damages the house makes his education a family decision: Zenith wants a magic tutor, Paul wants sword training, and Lilia proposes both. Roxy arrives to teach magic while Paul trains him with a sword. Roxy makes mistakes and corrects them, works for villagers, and gradually recognizes that her pupil can do things she cannot yet do. For all his ability, Rudeus is afraid to go beyond the household gate because of his earlier life. Roxy takes him out for a graduation exercise without understanding that fear; afterward he manages to cross the gate himself. She then leaves to advance her own training. His admiration and grief at her departure are complicated by his admission that he stole an intimate item from her.
+
+Outside the household, Rudeus finds village children bullying a green-haired child he calls Sylph (Sylphie). He intervenes, becomes Sylphie's friend, and teaches magic and reading at her request. When Paul believes a complaint about his son's part in a children's fight, he strikes Rudeus before hearing his account; they argue and Paul apologizes. The friendship with Sylph has its own rupture. After Sylph refuses to undress while wet, Rudeus overrides the refusal, discovers that Sylph is a girl, and sees her distress. He apologizes, but she keeps her distance for a time. They resume spending time together after she asks him to treat her normally. Their closeness is real; so are her boundaries and Rudeus's growing tendency to imagine her future in terms of his own wishes.
+
+The household is shaken when Zenith and Lilia are both pregnant and Paul admits that Lilia's child is his. Lilia may lose her place in the home, and Zenith must decide what to do with a marriage in which Paul had promised fidelity. At a family meeting Rudeus invents an allegation that Paul forced the recent encounter, hoping to shift blame away from Lilia. Zenith allows Lilia to stay; Rudeus later tells Zenith that the allegation was fabricated. Lilia's own account says she initiated that recent encounter, while also recounting an earlier forced encounter with Paul and his subsequent harassment. The two girls, Norn and Aisha, are born into a household whose continued life depends on labor, childcare, and Zenith's chosen response to the betrayal.
+
+By about age seven, Rudeus's magic progress slows, and he hopes to study at an academy with Sylphie. He considers paid work to cover their schooling. Paul fears that the children's attachment is making both of them too dependent, and arranges for Rudeus to work as a tutor in Roa, where the swordswoman Ghislaine will also train him. Paul incapacitates his son and sends him away without warning, imposing five years without contact with Sylphie. She tries to stop the departure. Rudeus wakes to a job and a separation he did not choose, while Paul's closing viewpoint explains his concern without settling whether his method was justified. The extra story then steps back into the household through Zenith's voice: she recalls her marriage conditions, anger, and difficulty with Aisha, and finally chooses to feed the child when Lilia is late. The volume ends with Rudeus removed from the village and these family relationships unresolved. The exact scene ranges and interpretive qualifications follow in Sections C and D.
 
 ## A. Witness, scope, and locator contract
 
