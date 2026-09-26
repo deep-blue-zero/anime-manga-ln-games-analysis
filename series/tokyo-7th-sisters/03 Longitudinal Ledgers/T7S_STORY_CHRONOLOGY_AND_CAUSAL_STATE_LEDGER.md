@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.37"
+version: "11.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 145 complete i-n-g primary documents / T7S_B0080–T7S_B0136; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 148 complete i-n-g primary documents / T7S_B0080–T7S_B0137; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 525`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 553`; `last_closed_block = T7S_B0136`. The admitted horizon contains 380 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 145 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 532`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 564`; `last_closed_block = T7S_B0137`. The admitted horizon contains 383 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 148 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1779,3 +1779,33 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.38. [B0136](../02%20Readings/
 | `EDGE-0560` | `FOLLOWING_CONTINUES_WITHOUT_BOUNDARY` | Yumeno runs after them in `EV-B0136-007`; no non-following agreement or protective response is shown. |
 
 `T7S_B0136_CLOSE-20260926`: seven chapter events and ten bounded edges; no new world, thread, verified organization, real weapon, legal stalking finding or completed safety response.
+
+## B0137 Rishuri's internship, three-month interval and chosen return
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.39. [B0137](../02%20Readings/T7S_B0137_DEEP_READING.md) owns the A/B/C locator key. B0128/B0129/B0134 are comparison horizons, not total fictional order. This chapter itself supplies several-days and three-month transitions; do not project them onto other i-n-g cases.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0137-001` | Rishuri shares design with Player/Sui; Sui wants her own sense, and they exchange sewing/swim learning. | A:P2–17; `KNOW-0301`; `REL-0513`–`0520`. Specific creative friendship, not Sui's ownership of designs. |
+| `EV-B0137-002` | Admired foreign brand invites Rishuri to intern; she feels torn, Sui urges the leap, and Rishuri leaves abruptly. | A:P19–50; `KNOW-0302`. Initial decision/claim not immutable or full offer terms. |
+| `EV-B0137-003` | Sui refuses send-off to avoid deterring Rishuri, then grieves with Player, pauses lessons and returns; three months pass. | A:P51–71; B:P1–43; `KNOW-0303`. Composure is not complete recovery. |
+| `EV-B0137-004` | Nanasta attends fashion show displaying Rishuri-attributed work; Sui recognizes designs but fears distance. | C:P1–14; `KNOW-0304`. No complete visual/catalogue or guaranteed career status. |
+| `EV-B0137-005` | Rishuri announces next-day Nanasta return, publicly stresses immature skill, retains design ambition and receives Sui's renewed support. | C:P15–42; `KNOW-0305`. Intended return, not shown resumed work. |
+| `EV-B0137-006` | Privately Rishuri confirms employer asked her to stay, says Nanasta peers currently animate her best ideas, recounts loneliness and says choice is for herself. | C:P44–60; `KNOW-0306`. Request-to-stay is not necessarily employment offer; self-critique may remain sincere. |
+| `EV-B0137-007` | Rishuri fears she will not be accepted after leaving; Player reassures, keeps reason private, and Sui welcomes her `ただいま`. | C:P61–82; `KNOW-0307`. Social welcome, no future work/career guarantee. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0561` | `CRAFT_EXCHANGE_TO_SPECIFIC_FRIENDSHIP` | Sewing, sketch feedback and swim teaching in `EV-B0137-001` establish mutual exchange, not a dependency law. |
+| `EDGE-0562` | `BRAND_INVITATION_TO_COMPETING_GOODS` | Overseas opportunity in `EV-B0137-002` puts dream and peer life in tension; no proven forced permanent choice. |
+| `EDGE-0563` | `SUI_ENCOURAGEMENT_TO_INITIAL_DEPARTURE` | Sui's forceful advice precedes Rishuri's stated decision; her influence does not erase Rishuri's own choice. |
+| `EDGE-0564` | `HIDDEN_LOSS_TO_NON_SENDOFF` | Sui avoids farewell in `EV-B0137-003` to protect Rishuri's decision, not because she feels no loss. |
+| `EDGE-0565` | `SAFE_DISCHARGE_TO_GRIEF_EXPRESSION` | Player's presence/permission lets Sui voice grief in `EV-B0137-003`; no cure is inferred. |
+| `EDGE-0566` | `THREE_MONTH_GAP_TO_SHOW_ENCOUNTER` | Explicit three months separate departure/lesson pause from `EV-B0137-004`; no cross-chapter order follows. |
+| `EDGE-0567` | `DISPLAY_TO_RECOGNITION_AND_DISTANCE_FEAR` | Rishuri's displayed designs in `EV-B0137-004` bring pride and Sui's worry of losing contact. |
+| `EDGE-0568` | `PUBLIC_SKILL_ACCOUNT_TO_DREAM_WORRY` | Initial explanation in `EV-B0137-005` makes Sui ask if design dream is abandoned; Rishuri says no. |
+| `EDGE-0569` | `PRIVATE_STAY_REQUEST_TO_ACCOUNT_CORRECTION` | Employer's request in `EV-B0137-006` limits the public impression that no staying path existed; exact terms unshown. |
+| `EDGE-0570` | `RELATIONAL_DESIGN_TO_SELF_CHOSEN_RETURN` | Rishuri's peer-directed imagination/loneliness in `EV-B0137-006` informs present return, not self-sacrifice for Sui or inability to work elsewhere forever. |
+| `EDGE-0571` | `WELCOME_WITH_FUTURE_WORK_OPEN` | Reassurance and `ただいま`/`おかえり` in `EV-B0137-007` repair belonging without showing next-day reactivation. |
+
+`T7S_B0137_CLOSE-20260926`: seven chapter events and eleven bounded edges; no new world/thread, permanent professional conclusion, guaranteed job offer or witnessed resumed Nanasta labor.

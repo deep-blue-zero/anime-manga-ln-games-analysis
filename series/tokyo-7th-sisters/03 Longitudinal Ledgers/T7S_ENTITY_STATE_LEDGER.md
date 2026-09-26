@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.37"
+version: "11.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 145 complete i-n-g primary documents / T7S_B0080–T7S_B0136; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 148 complete i-n-g primary documents / T7S_B0080–T7S_B0137; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 300`; `directional_relationship_states = 512`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0136, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 307`; `directional_relationship_states = 520`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0137, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2838,3 +2838,40 @@ The [B0136](../02%20Readings/T7S_B0136_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0512` | Rona → Momoka, **fear at unwanted approach** | Is startled, answers store-manager question and later tells Player she was scared. B:P15–29. Reciprocal `REL-0511`; no consent to the game. |
 
 `T7S_B0136_CLOSE-20260926`: seven actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no legal finding, secret organization, actual weapon or consent/boundary clearance.
+
+## B0137 Rishuri's creative place and Sui's withheld loss
+
+The [B0137](../02%20Readings/T7S_B0137_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.39, binds these updates. Existing Rishuri `IDENTITY-0089`/`CHAR-0072`, Sui `IDENTITY-0017`/`CHAR-0014`, Rona `CHAR-0008`, Mimi `IDENTITY-0042`/`CHAR-0065`, Jedah `IDENTITY-0047`/`CHAR-0036`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. Foreign brand/employer remains an institution role without named identity or exact offer.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0072` / Rishuri | Shares craft with Sui, accepts overseas design internship, is represented in a show, announces Nanasta return, then privately says employer requested stay but her current ideas and desired wearers are Nanasta peers. | A:P2–50; C:P1–82. No guaranteed job, final career choice, actual next-day work or permanent inability to design elsewhere. |
+| `CHAR-0014` / Sui | Gives design feedback/swim lessons, forcefully encourages departure, hides/then expresses grief, briefly pauses lessons, recognizes fashion-show designs and welcomes return while sustaining Rishuri's goal. | A:P2–71; B:P1–43; C:P1–82. No costless support, complete grief recovery or claim on Rishuri's choice. |
+| `CHAR-0008` / Rona | Worries about lost Nanasta work, wants to see Rishuri off, appreciates show garments and welcomes return because she wants to wear her work again. | A:P22–60; C:P1–42. No actual future costume commission or resumed stage shown. |
+| `CHAR-0065` / Mimi | Asks about managerial acceptance, urges farewell, recognizes show designs and privately feels some relief at return despite internship disappointment. | A:P25–60; C:P4–42. No knowledge of Rishuri's full private employer account. |
+| `CHAR-0036` / Jedah | Insists Rishuri's own feeling should decide, urges Sui to say goodbye, recognizes show design details and comments on their renewed closeness. | A:P27–60; C:P5–42. No authority to settle external contract or Rishuri's future. |
+| `CHAR-0001` / Player | Says he/Coney reached a conclusion without specifying terms, helps Sui express grief, witnesses show, learns Rishuri's private reason and reassures her she is welcome. | A:P19–70; B:P1–43; C:P1–82. General adult reflection is his view; no exact employer/visa/job terms. |
+| `UNIT-0002` / Nanasta | Loses Rishuri's immediate participation to internship, sees her show work and welcomes a declared return. | A:P19–71; C:P1–82. No formal work reactivation, permanent contract or new design institution. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0301` | Rishuri/Player/Sui see design sketch; Sui and Rishuri know their sewing/swim exchange and Sui warns against overriding her own taste. | A:P2–17. No broad notebook permission beyond local joke/assent. |
+| `KNOW-0302` | Group hears internship invitation and Rishuri's indecision; Sui knows her daily effort and urges departure; Rishuri initially declares no return. | A:P19–50. Terms and durable intent unknown. |
+| `KNOW-0303` | Sui hides loss from Rishuri, then tells Player she wants more time and grieves; group later sees lesson pause/return only through Player's report. | A:P51–71; B:P1–43. Rishuri is not shown hearing this grief. |
+| `KNOW-0304` | Group sees Rishuri-attributed fashion-show designs; Sui recognizes style and worries success may create distance. | C:P1–14. External professional evaluation and full dress details unverified. |
+| `KNOW-0305` | Peers hear Rishuri announce return and describe immaturity, then hear continued design/idol goals; Sui reassures her. | C:P15–42. They do not yet hear the private stay request and creative reason. |
+| `KNOW-0306` | Player alone is told brand asked Rishuri to stay and that Nanasta peers animate her designs; Rishuri recounts loneliness/dissatisfaction and asks secrecy. | C:P44–60,75–77. Request not necessarily job offer; motive is her own report. |
+| `KNOW-0307` | Rishuri privately worries about welcome; Player assures her; Sui hears and answers `ただいま` at the show. | C:P61–82. Actual next-day work and long-term career remain unseen. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0513` | Sui → Rishuri, **craft peer who suppresses loss and later welcomes** | Values her designs, urges internship, hides sorrow, then recognizes show work and accepts return. A:P2–71; B:P1–36; C:P1–80. Reciprocal `REL-0514`; no entitlement to her location. |
+| `REL-0514` | Rishuri → Sui, **collaborator and autonomous friend** | Uses Sui's feedback, takes push, later says choice is for herself while still designing with Sui in mind and promising friendly competition. A:P2–50; C:P15–80. Reciprocal `REL-0513`; not a sacrifice solely for Sui. |
+| `REL-0515` | Player → Sui, **witness to concealed grief** | Stays after departure, praises care and permits crying; reports lesson pause/return. A:P62–70; B:P1–43. Reciprocal `REL-0516`; not a cure. |
+| `REL-0516` | Sui → Player, **private disclosure of loss** | Waits until Rishuri leaves, then tells him she wanted more shared time and cries. A:P62–70; B:P1–36. Reciprocal `REL-0515`; Rishuri's knowledge not implied. |
+| `REL-0517` | Player → Rishuri, **private inquiry and return welcome** | Asks about employer request, listens to self-chosen reason and assures she can return. C:P44–77. Reciprocal `REL-0518`; not formal contract reinstatement. |
+| `REL-0518` | Rishuri → Player, **selective confidence** | Shares staying request, loneliness and design motive, worries about welcome and requests secrecy. C:P44–77. Reciprocal `REL-0517`; peers do not share this information. |
+| `REL-0519` | Rishuri → Nanasta peers, **designing for named people and declared return** | Says current imagined garments are for Sui/Rona/Mimi/Jedah, then says `ただいま`. C:P52–80. Reciprocal `REL-0520`; no witnessed future costume job. |
+| `REL-0520` | Nanasta peers → Rishuri, **pride, ambivalence and social welcome** | See show work, voice distinct pride/relief and Sui says `おかえり`. C:P1–80. Reciprocal `REL-0519`; no exact institutional re-entry terms. |
+
+`T7S_B0137_CLOSE-20260926`: seven actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no brand employment offer, completed next-day work or permanent career settlement.

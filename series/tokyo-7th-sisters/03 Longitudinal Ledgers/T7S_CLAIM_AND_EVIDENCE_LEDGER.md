@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.37"
+version: "11.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 145 complete i-n-g primary documents / T7S_B0080–T7S_B0136; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 148 complete i-n-g primary documents / T7S_B0080–T7S_B0137; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 637`; `revisions = 42`; `predictions = 7`; `AV_reviews = 83`; `literary_findings = 637`. Claims are bounded to their stated B0001 through B0136 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 57 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 641`; `revisions = 42`; `predictions = 7`; `AV_reviews = 84`; `literary_findings = 641`. Claims are bounded to their stated B0001 through B0137 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 58 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2012,3 +2012,26 @@ Owner and A/B/C locator key: [B0136](../02%20Readings/T7S_B0136_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred twenty-two dialogue-associated voice pages plus title cues, BGM/SFX and performed delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0136_CLOSE-20260926`: four bounded claims and one AV review; no legal stalking determination, actual weapon/organization, consent clearance, specialist or monograph promotion.
+
+## B0137 support without cost, relational craft and qualified return
+
+Owner and A/B/C locator key: [B0137](../02%20Readings/T7S_B0137_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.39. B0128/B0129/B0134 are bounded comparisons, not total i-n-g chronology; three months is an explicit within-chapter interval.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0137-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Sui's strong support of departure and hidden grief coexist; her words influence but do not replace Rishuri's initial decision, and later tears show the support was costly. | A:P19–71; B:P1–36. No effortless consent or secret wish for failure. |
+| `CL-B0137-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Rishuri's present best design practice is relational to Nanasta's wearers, so her self-chosen return need not cancel future design ambition or be payment to Sui. | A:P2–17,19–50; C:P15–60. Not a universal artists' rule or final career. |
+| `CL-B0137-003` | `BOUNDED_INFERENCE`; D1; high for limit | Employer request to stay corrects the impression of no external option, while Rishuri's dissatisfaction may be sincere; neither implies a guaranteed job nor maliciously false public speech. | C:P1–60. Exact terms and professional evaluation unknown. |
+| `CL-B0137-004` | `BOUNDED_INFERENCE`; D1; high for limit | Social `ただいま`/`おかえり` establishes welcome and current return intent, not observed next-day labor or settled long-term arrangement. | B:P38–43; C:P15–82. Cross-chapter chronology not inferred. |
+
+### AV-0084 — designer and friend sprites across departure/return
+
+- Questions/claims: whether selected stills prove employer offer, completed dresses, creative quality, tears' full duration, next-day reactivation or future career; `CL-B0137-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed show/music, employer terms and future work restrictions.
+- Selection: Rishuri `adv_chara_139_01_01`, `139_01_03`; Sui `009_03_05`, `009_03_12`; Rona `005_01_01`; Mimi `126_01_01`; Jedah `137_01_02`. All 199 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.39 binds seven media receipts.
+- Observed: Rishuri retains sewing-themed dress with changed expression; Sui's selected stills retain outfit with expression change, and other peers are identifiable. These do not show internship contract, full fashion-show garments, overseas workspace, all grief or actual resumed work.
+- Native occurrence: command-only A:P0–1,18,51,61,71; B:P0,31,37,43; C:P0,12,43,81–82. Transitions mark several-days, departure/private grief, stated three-month passage, show and return exchange.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred thirty-four dialogue-associated voice pages plus title cues, BGM/SFX and show performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0137_CLOSE-20260926`: four bounded claims and one AV review; no guaranteed top-designer path, confirmed employment offer, completed future Nanasta work, specialist or monograph promotion.
