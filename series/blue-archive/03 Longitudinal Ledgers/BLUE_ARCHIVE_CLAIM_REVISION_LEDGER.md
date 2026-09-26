@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E001 active provisional; E002 unopened
+current_sequential_boundary: MAIN_V002_C001_E002 active provisional; E003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1110,3 +1110,12 @@ Contextual backfill remains **DEFER**. The next crosswalk unit is Volume 2 and i
 - **BA-C010–C018: PRESERVE / not tested** — V001's custody, Kaiser, autonomy, and contact-zone claims remain intact but are not imported as Millennium facts.
 
 No `BA-C019` is opened. Game-fiction framing of institutional survival is an introductory motif, not yet a demonstrated longitudinal rule. The `？？？` editor and closing voice remain unassigned. Contextual backfill remains **DEFER**.
+
+## V002 C001 E002 claim transitions — local authority and creative value
+
+- **BA-C001–C003, C007: REVISE / pressure-test** — Yuuka contests cross-school override; Momoi's request may recruit Sensei into an underexplained hazard. Response to a petition alone cannot certify the means or displace school governance.
+- **BA-C004–C006: PRESERVE** — no new Sensei governing power appears; Yuuka, Momoi, and Midori each exercise imperfect student judgment, not incapacity as a class.
+- **BA-C008: STRENGTHEN within authored choice-space** — six singleton choices enact social tone/clarification, not route control.
+- **BA-C009–C018: PRESERVE / mostly not tested** — the Millennium dispute is not evidence that Volume 1 conclusions generalize wholesale.
+
+No `BA-C019` is opened before repeated evidence distinguishes a Millennium-wide metric regime from Yuuka's single encounter. The price of creative work and the club's contest route remain open. Source-label anomalies and `G.Bible` ignorance are quarantined. Contextual backfill remains **DEFER**.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -446,3 +446,13 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Asset and affection:** Midori's console concern and apology place valued creative equipment beside care for Sensei, not in a zero-sum moral category.
 - **Making versus administration:** scenario writing, illustration, planning, 16-bit games, and a reported dissolution order establish a conflict between creative labor and institutional evaluation; council reasons remain absent.
 - **Ruins as suspended destination:** Momoi's destination is named but unexplained; no symbolic interpretation of it is licensed yet.
+
+## V002 C001 E002 motif / callback delta — measurable result versus cherished value
+
+- **Fantasy antagonist / real steward:** Momoi names Yuuka as a monster-like `四天王`; Yuuka's budget reasoning is intelligible but her insults make the steward role ethically mixed.
+- **`結果` double use:** Yuuka points to poor reviews as closure; Momoi accepts current failure yet promises a future prize result. The contest turns evaluation into a conditional, time-limited route.
+- **Discretion inside finality:** `誰にも覆せない` gives way to Yuuka's voluntary two-week delay, exposing flexibility beneath absolute rhetoric.
+- **`ガラクタ` / `宝物`:** administrative devaluation of equipment/games is answered by Momoi's memory of the happiness games produced, distinguishing worth from rank without denying quality problems.
+- **Failed recruitment / wrong attribution:** Momoi blames Yuuka for scarce friends; Midori recalls their own role and prior month of unsuccessful recruiting.
+- **Hero/trump-card risk:** E001's `勇者` becomes E002's `切り札`; both can instrumentalize a requested adult before danger/agency is clear.
+- **Mysterious zone/object:** the ruins and `G.Bible` are deliberately withheld causal bridges, not permission to import later lore.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -295,3 +295,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Student Council / Yuuka:** the alleged dissolution order and ultimatum are not yet corroborated by council speech or documentation. `四天王` is Momoi's fantasy-inflected description, not a verified office chart.
 - **Schale:** receives a student-authored cross-academy petition and sends Sensei; no intervention outcome or authority over Millennium governance is yet shown.
 - **`廃墟`:** proposed destination only; location, ownership, purpose, and connection to club survival are OPEN.
+
+## V002 C001 E002 institutional delta — results, allocation, and discretion
+
+- **Seminar/Student Council accountant Yuuka:** asserts that club operation is delegated mainly to each school's student council, even against Schale/federal intervention. This is her stated jurisdiction, not yet independently audited governance law.
+- **Club eligibility:** Yuuka's clean later lines allow demonstrated achievement to avert dissolution; the surrounding corrupted eligibility exchange and post-exit recruiting discussion also indicate a membership route. Exact rule text, formal deadline, and authority source remain unverified.
+- **Budget and reputation:** Yuuka argues that continuing club funding/room use displaces other activities and that a poor product harms Millennium's standing. These are her policy claims, not proof that creative work has no value.
+- **Millennium Prize:** a school-wide product competition is named as the club's `TSC2` route; Yuuka conditionally waits two weeks and acknowledges success would count. The `u:0074` descriptive speaker label is suspect, so precise wording is not attributed to her.
+- **Ruins:** Momoi says the nearby zone was formerly federally restricted as dangerous, while admitting ignorance of its actual hazards. No disappearance, entry mechanism, or current access status is established.
+- **G.Bible:** named at the cliffhanger without definition, provenance, or demonstrated causal role.

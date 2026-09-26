@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -483,3 +483,11 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - **Vulnerability:** an accidental console strike physically harms Sensei before any assistance. This supports the established bounded-adult model, without turning a gag into a universal safety claim.
 - **Response under uncertainty:** Sensei arrives and asks what the ruins/ultimatum mean. Council reasons and proposed intervention remain unknown. Cross-school service is initiated, not adjudicated successful or legitimate in its eventual means.
 - **Reconstruction:** `NO_MATERIAL_RECONSTRUCTION_DELTA`; no previously frozen prediction exists and thus `NO_DIAGNOSTIC_OPPORTUNITY`. V001 privacy, veto, possession, and bodily-boundary cautions remain active.
+
+## V002 C001 E002 delta — outside helper under local jurisdiction
+
+- **Choice topology:** six singleton groups, all in one scene: greeting, worst-game joke, and four clarification/surprise questions. No selectable variant is a federal veto or explicit ruin assent.
+- **Authority limit:** Yuuka explicitly contests Schale's capacity to reverse a school club decision; Sensei does not test that claim by exercising power.
+- **Consent/information risk:** Momoi identifies Sensei as a `切り札` before explaining the ruins' known or unknown dangers or why Sensei is needed. Being requested is not the same as consenting to an unknown mission.
+- **Actual effect:** Yuuka's two-week extension follows Momoi's contest commitment and Yuuka's own discretion. It is not attributable to Sensei's status or the `1位` joke.
+- **Reconstruction:** `NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`, no frozen prospective prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); existing V001 boundary counterevidence remains active.

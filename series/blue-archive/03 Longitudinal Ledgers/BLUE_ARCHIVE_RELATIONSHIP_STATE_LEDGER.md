@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -310,3 +310,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI/MIDORI ↔ YUZU:** Yuzu is named as absent president/planner, not observed interacting; no dyadic rule is licensed.
 - **CLUB ↔ STUDENT COUNCIL/YUUKA:** abolition ultimatum and earlier `襲撃` are presently Momoi's report. Yuuka's answer and the council's rationale are pending.
 - **ARONA ↔ SENSEI:** request is read and institutional context supplied; Sensei's prior Millennium knowledge is choice-variable.
+
+## V002 C001 E002 relationship delta — contested standing, conditional time
+
+- **YUUKA ↔ GAME DEVELOPMENT CLUB:** not simple persecution or reconciliation. Yuuka articulates resource/result conditions and harsh criticism, then grants a two-week prize-linked extension. Club survival and the quality of her treatment must be judged separately.
+- **MOMOI ↔ MIDORI:** Midori proposes a lower-odds comparison and corrects Momoi's blame claim while remaining loyal to the club. The sister relationship accommodates disagreement without rupture.
+- **YUUKA ↔ SENSEI:** mutual recognition and Yuuka's later embarrassment are visible; prior relationship and the meaning of her wish for a calmer next meeting remain OPEN.
+- **MOMOI ↔ SENSEI:** a request for help becomes designation as `切り札` before full danger/access rationale is offered. Sensei asks questions; informed assent is not yet shown.

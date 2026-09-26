@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -320,3 +320,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Sensei:** reaches the club after a student request, is physically injured by accident, and asks for an explanation. This confirms neither a heroic solution nor a new standing character rule.
 
 All new club-character observations are introductory and local. `NO_MATERIAL_RECONSTRUCTION_DELTA` for existing rules; Momoi and Midori are `UNMODELED`, Yuzu is mention-only. V001 character states and counterevidence remain checkpoint-scoped.
+
+## V002 C001 E002 delta — council voice and creative-value motive
+
+- **Yuuka:** directly enters as the council accountant, rejects Momoi's monster nickname, claims school-level club authority, cites budget and outcomes, accuses the club of past disruption, and demeans its first game's reception. She nevertheless grants a two-week conditional extension and is embarrassed that Sensei saw her harsh work mode. Initial readiness `UNMODELED`; one scene cannot establish a durable rule.
+- **Momoi:** concedes the first game's bad ranking, promises `TSC2` for Millennium Prize, reveals failed recruiting and attachment to games that made her happy, then names Sensei her `切り札` for a poorly explained ruins plan. This narrows any E001 impression of mere game-role play; stakes include creative dignity and instrumental risk.
+- **Midori:** recognizes poor odds of both routes, proposes recruitment, and corrects Momoi's blame of Yuuka; she shares the club's goal but not every causal judgment.
+- **Sensei:** Yuuka recognizes Sensei but prior history remains unknown. Six singleton choices greet, joke, and ask clarifying questions; no override or ruin assent is shown.
+- **Yuzu:** still absent and only described through others; no new behavioral evidence.
+
+E002 adds contextual and knowledge evidence, not a defensible operational rule: `NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`. Speaker-label corruption at `u:0014-0020`, `u:0025-0030`, and probable `u:0065`, `u:0074` remains quarantined.

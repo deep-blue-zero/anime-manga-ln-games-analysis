@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -686,3 +686,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Midori secure voice:** correction, polite apology (`ごめんなさい、先生`), and explicit professional role naming contrast with Momoi's exuberance; one console-priority joke does not define her whole character.
 - **Arona:** polite orientation and uncertainty (`ご存じですか`, `何があったのでしょうか`, `いかがでしょう`) distinguish known school reputation from unknown dispute facts.
 - **Projection cautions:** scene 2 duplicates an awakening line; scene 3 duplicates the school introduction across a choice branch; scene 4 gives two branch-conditioned introductory answers. Do not infer repetitions or fixed Sensei knowledge. The closing `？？？` voice is not identified within the unit.
+
+## V002 C001 E002 delta — metrics, insult, and treasure
+
+- `生徒会四天王` / `冷酷な算術使い`: Momoi's game-adversary language; Yuuka refuses the `モンスター` treatment. Neither label is a formal office.
+- `部費`, `部室`, `成果`, `証明`, `結果`: Yuuka's secure administrative lexicon argues for resource accounting and externally inspectable production.
+- `今年のクソゲーランキング1位`, `ガラクタ`: the first game's poor ranking is acknowledged, but Yuuka's judgment about the club's worth must not be merged with an objective account of all its work.
+- `ガラクタ` versus `大事な宝物`: Momoi answers contempt by naming the games that made her happy as worth protecting; this is personal value speech after admitting present poor results.
+- `切り札`: Momoi's instrumental label for Sensei; her explanation of hazard, mechanism, and consent remains incomplete.
+- `G.Bible`: name only, with no meaning supplied before the cliffhanger.
+- **Attribution quarantine:** `u:0014-0020`, `u:0025-0030`, and probable `u:0065`, `u:0074` have mismatched speaker labels/register. Exclude them from precise Momoi/Yuuka voice rules and do not silently remap them. The surrounding secure lines support the topic sequence.
