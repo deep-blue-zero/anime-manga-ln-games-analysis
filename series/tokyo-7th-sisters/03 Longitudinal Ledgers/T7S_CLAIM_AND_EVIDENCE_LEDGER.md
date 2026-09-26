@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.11"
+version: "11.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 67 complete i-n-g primary documents / T7S_B0080–T7S_B0110; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 70 complete i-n-g primary documents / T7S_B0080–T7S_B0111; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 531`; `revisions = 42`; `predictions = 7`; `AV_reviews = 57`; `literary_findings = 531`. Claims are bounded to their stated B0001 through B0110 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 31 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 535`; `revisions = 42`; `predictions = 7`; `AV_reviews = 58`; `literary_findings = 535`. Claims are bounded to their stated B0001 through B0111 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 32 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1412,3 +1412,26 @@ Owner and A/B/C locator key: [B0110](../02%20Readings/T7S_B0110_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Eighty-five dialogue-associated voice pages plus title cues, BGM/SFX and any reported performed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0110_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, performed-media verdict, specialist or monograph promotion.
+
+## B0111 Sumire authenticity, alternatives and present choice
+
+Owner and A/B/C locator key: [B0111](../02%20Readings/T7S_B0111_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.13. B0007 is a bounded earlier formation context, not a total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0111-001` | `BOUNDED_INFERENCE`; D1; high | Sumire's art-club pleasure makes an alternative imaginable; her conclusion that this would make all Nanasta history fake is a renewed all-or-nothing adequacy judgment, not an objective fact. | A:P1–6; B:P11–38; C:P46–64; `THREAD-0010`. Art is genuine, and prior idol effort need not have been uniquely predetermined. |
+| `CL-B0111-002` | `BOUNDED_INFERENCE`; D1; high for sequence, moderate for ethic | The Player would honor a true art preference, while Haru learns Sumire's fear but announces her participation before clear assent. Sumire's later present choice does not retroactively consent to that announcement. | C:P10–98; `REL-0323`–`0326`. Haru's interpretation helps without making her process automatic or harmless. |
+| `CL-B0111-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Nanasta can become Sumire's special present practice without being the only path that ever could have mattered; she later chooses full effort here `今は`, not a timeless artist-versus-idol essence. | C:P76–103; `KNOW-0161`–`0162`. The stage act is elided, and art remains liked. |
+| `CL-B0111-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The nails/swimming and museum/art exchanges distinguish practical fit, interest and training from inflated artistic credentials or compulsory gender presentation. | A:P9–50; B:P6–33. No commission, reviewed artwork, specialist mastery or Sui makeover. |
+
+### AV-0058 — Sumire expression, stage cut and unauditioned stream
+
+- Questions/claims: whether stills prove artistic talent, fixed vocation, stream consent, performed song or a completed audience reaction; `CL-B0111-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for actor knowledge, choice and interpretation claims.
+- Selection: Sumire `adv_chara_008_01_01`, `adv_chara_008_01_06`, `adv_chara_008_01_11`, `adv_chara_008_01_03`; Haru `adv_chara_003_02_04`; Sui `adv_chara_009_03_01`; Shizuka `adv_chara_010_01_02`. All 196 native pages and eighteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.13 binds seven media receipts.
+- Observed: Sumire's selected cream/pink ordinary body remains continuous across different faces; the other selected figures anchor the peer exchange. Still expressions do not give an independent reading of private motive, painting quality or stream technique.
+- Native occurrence: command-only A:P0,7–8,51; B:P0,39; C:P0,4–5,32,34,40,70,87,92,99,102–103. C:P70–71 returns to Nanasta, C:P87–92 cuts to a stage/crowd background with incomplete voiced realization, then C:P93 returns to the later office. The transitions show no completed song or performance verdict.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred forty-seven dialogue-associated voice pages plus title cues, BGM/SFX and any stream act remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0111_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, artist credential, specialist or monograph promotion.

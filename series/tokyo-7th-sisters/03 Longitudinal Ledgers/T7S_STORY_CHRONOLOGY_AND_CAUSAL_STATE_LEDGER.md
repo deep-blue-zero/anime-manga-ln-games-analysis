@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.11"
+version: "11.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 67 complete i-n-g primary documents / T7S_B0080–T7S_B0110; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 70 complete i-n-g primary documents / T7S_B0080–T7S_B0111; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 381`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 349`; `last_closed_block = T7S_B0110`. The admitted horizon contains 302 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 67 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 386`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 355`; `last_closed_block = T7S_B0111`. The admitted horizon contains 305 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 70 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1075,3 +1075,30 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.12. [B0110](../02%20Readings/
 | `EDGE-0349` | `BOUNDARY_BREACH_CONFIRMED` | Musubi's A:P21 objection in `EV-B0110-001` → her C:P13 statement in `EV-B0110-004` that the unwanted segment aired. The full contract and remedy remain unknown. |
 
 `T7S_B0110_CLOSE-20260926`: four chapter events, six bounded edges; existing `THREAD-0009` advanced without new thread, world state, audited stream footage or total i-n-g chronology.
+
+## B0111 Sumire alternative path and present specialness addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.13. [B0111](../02%20Readings/T7S_B0111_DEEP_READING.md) owns the A/B/C locator key. B0007 supplies the earlier ordinary/current self-disqualification and chosen Nanasta commitment; no total chronology among i-n-g menu neighbors is inferred.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0111-001` | Sumire calls idol work rewarding but questions if it is `real`. Her nail exchange respects Sui's swim plans. After Haru/Shizuka's museum job, peers suggest Sumire's design sense could support art promotion; Player says she may refuse. | A:P0–51; `KNOW-0158`; `REL-0323`–`0330`; `THREAD-0010`. No commission, exhibition, artistic qualification or required feminine presentation. |
+| `EV-B0111-002` | Sumire visits school art club once, asks about materials and technique, enjoys its serious practice but denies joining. Sui describes swimming-club fulfillment, and the Player notices Sumire's unsettled expression without knowing why. | B:P1–39; `KNOW-0159`; `REL-0323`–`0330`. The club's membership motive is only Sumire's report; no art output is reviewed. |
+| `EV-B0111-003` | Sumire is absent from Nanasta for a while. Sui and peers speculate that she joined art club; Player would accept a genuine alternative but warns against concluding from absence. Sumire reaches the entrance then leaves and Haru follows. | C:P1–40; `KNOW-0160`; `REL-0323`–`0328`; `THREAD-0010`. Speculated club membership or career exit is false/unsupported at this point. |
+| `EV-B0111-004` | Sumire tells Haru the art visit was pleasant and made her think some other practice might have supplied the purpose she sought; she fears this would make past idol work with the group counterfeit, so she avoided both places. | C:P41–65; `KNOW-0161`; `REL-0323`–`0324`; `THREAD-0010`. Her fear is real; counterfactual art interest does not prove past consent or work fake. |
+| `EV-B0111-005` | Haru brings Sumire back and announces a stream appearance before her clear assent; Sumire objects. Haru argues her distress shows idol work has become particular. A stage/crowd scene elides any song; later Sumire says she did not join art club and wants to work here fully now. | C:P66–103; `KNOW-0162`; `REL-0323`–`0326`; `THREAD-0010`. Later present choice does not retroactively authorize Haru's announcement or prove exclusive lifetime vocation. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0010` | Sumire's ordinary/current self-policing and chosen seriousness remain `OPEN`. B0111 adds pleasure in an art-club alternative and an all-or-nothing inference that its possibility would make Nanasta history fake. Haru names the specificity of her present distress but also announces a performance before assent. Sumire later chooses Nanasta now while leaving art valuable. Durable occupational choice, full-stream participation and formal consent practice remain unproved. A:P1–50; B:P1–38; C:P1–103. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0350` | `PROPOSAL_ENABLES_TRIAL` | Optional art-promotion idea in `EV-B0111-001` → Sumire's one art-club inquiry in `EV-B0111-002`. Inquiry is neither enrollment nor delivered professional art. |
+| `EDGE-0351` | `COUNTERFACTUAL_TRIGGERS_WITHDRAWAL` | Genuine art-club enjoyment in `EV-B0111-002` → Sumire's later counterfeit-fear account in `EV-B0111-004`, explaining her absence in `EV-B0111-003`. Another possible path does not logically falsify lived work. |
+| `EDGE-0352` | `EPISTEMIC_GAP` | Sumire's absence in `EV-B0111-003` → Sui/peers' incorrect club-membership hypothesis; Player keeps the alternative open while refusing certainty. |
+| `EDGE-0353` | `DISCLOSURE_ENABLES_REFRAME` | Sumire's C:P50–64 account in `EV-B0111-004` → Haru's specific present-attachment argument in `EV-B0111-005`; Haru's inference is an intervention, not omniscient proof. |
+| `EDGE-0354` | `CONSENT_SEQUENCE` | Haru's return/stream announcement in `EV-B0111-005` precedes Sumire's clear local choice; Sumire's initial objection must not be erased by later assent to Nanasta work. |
+| `EDGE-0355` | `PRESENT_CHOICE_WITH_OPEN_FUTURE` | Stage-like realization and later C:P96 statement in `EV-B0111-005` → current full-effort Nanasta choice, not a completed song, permanent exclusive vocation or repudiation of art. |
+
+`T7S_B0111_CLOSE-20260926`: five chapter events, six bounded edges; existing `THREAD-0010` advanced without new thread, world state, art commission, stream verdict or total i-n-g chronology.

@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.11"
+version: "11.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 67 complete i-n-g primary documents / T7S_B0080–T7S_B0110; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 70 complete i-n-g primary documents / T7S_B0080–T7S_B0111; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 157`; `directional_relationship_states = 322`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0110, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 162`; `directional_relationship_states = 330`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0111, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1929,3 +1929,38 @@ The [B0110](../02%20Readings/T7S_B0110_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0322` | Rona → Momoka, **concern and edited-image reception** | Worried about the absent part, praises Momoka's stabilizing presence and feels moved by the broadcast. B:P12,40; C:P17. Reciprocal `REL-0321`; emotional reading is not direct access to Momoka's mind. |
 
 `T7S_B0110_CLOSE-20260926`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
+
+## B0111 Sumire art possibility and actor-local knowledge
+
+The [B0111](../02%20Readings/T7S_B0111_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.13, binds these updates. Existing Sumire `IDENTITY-0016`/`CHAR-0013`, Haru `CHAR-0004`, Player `CHAR-0001`, Sui `CHAR-0014`, Shizuka `CHAR-0015`, Nanasta `UNIT-0002` and SiSH `UNIT-0009` suffice. Art-club members are unnamed and do not receive identity routes.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0013` / Sumire | Enjoys nail design and idol work but doubts its authenticity, likes one art-club visit, withdraws when she imagines a different path could make Nanasta history fake, then says she wants to focus on idol work here now. | A:P1–50; B:P1–38; C:P41–103. No club enrollment, established artist career, completed stream, eternal vocation or invalidation of her earlier work. |
+| `CHAR-0004` / Haru | Praises Sumire's visual sense, sees her retreat from Nanasta, hears the counterfeit fear and offers a particular-attachment interpretation; she also announces Sumire's stream appearance before clear assent. | A:P22–40; B:P26–27; C:P35–92. Helpful insight does not retroactively authorize the unilateral announcement. |
+| `CHAR-0001` / Player | Floats art promotion as optional, misreads some of Sumire's expressions, then says he would accept a genuine move toward another desired practice while rejecting speculation from absence. Welcomes her stated return. | A:P29–50; B:P12–38; C:P16–27,71–98. No actual art job, full explanation before Haru's disclosure or formal leave/return procedure. |
+| `CHAR-0014` / Sui | Considers nail art's gender presentation but prioritizes imminent swimming, describes swimming-club fulfillment, worries Sumire may leave and considers playing SiSH music if she came. | A:P10–21,40; B:P29–33; C:P10–29. Swimming is her chosen practice; her worry does not establish Sumire joined art club. |
+| `CHAR-0015` / Shizuka | Has participated in a museum-guide program, disclaims mastery despite lessons, emphasizes moving an audience, notes paint on Sumire's hand and later speculates about art-club involvement. | A:P27–47; B:P6,23,31; C:P14–20. Training and taste are not a reviewed art credential or confirmation of Sumire's enrollment. |
+| `UNIT-0002` / Nanasta | Floats an optional art/visual-promotion idea, experiences Sumire's unexplained absence, and receives her explicit present renewed commitment after a stage-like intervention. | A:P26–50; C:P9–103. No actual commission, concluded performance, permanent vocational rule or standing participation-consent process. |
+| `UNIT-0009` / SiSH | Sui asks whether Sumire might join an upcoming stream so they can perform SiSH music. | C:P9–12. This is a suggestion, not a shown unit song or changed lineup. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0158` | Sumire privately doubts whether satisfying idol work is `real`; Sui knows nails might interfere with her planned swim, and the peers know Sumire has design sense without an exhibited art record. | A:P1–50. The Player's imagined Shizuka art success is speculation, not evidence of a credential. |
+| `KNOW-0159` | Sumire knows she visited art club once for supplies/technique and liked it, but did not enroll; the Player only notices a subdued expression and guesses its cause. | B:P1–39; C:P46–51. Club invitation motive and actual artistic output are not independently established. |
+| `KNOW-0160` | Sui/Haru/Shizuka/Player know Sumire has been absent, but only speculate she joined art club; the Player states he would respect a true alternative. | C:P10–32. Absence is not an exit decision or verified club membership. |
+| `KNOW-0161` | Haru hears Sumire say that a plausible other path made earlier idol work feel fake to her and led her to avoid both places. | C:P41–65. This is Sumire's distressed interpretation, not an objective verdict on past motives. |
+| `KNOW-0162` | Sumire hears Haru's specialness interpretation, appears in a stage-like scene and later tells the Player she declined club membership and wants full Nanasta effort now. | C:P66–103. No completed song, permanent exclusivity, earlier stream assent or future stability is known. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0323` | Haru → Sumire, **recognition with forceful performance routing** | Praises nail sense, pursues her to hear the actual fear, then announces a stream appearance before assent and argues Nanasta has become special to her. A:P39; C:P35–84. Reciprocal `REL-0324`; later benefit does not erase initial objection. |
+| `REL-0324` | Sumire → Haru, **vulnerable disclosure and qualified uptake** | Names Haru's song love as a comparison, confesses art possibility/counterfeit fear, objects to sudden stream inclusion, then takes up her interpretation. C:P50–91. Reciprocal `REL-0323`; her current choice remains hers, not proof Haru's diagnosis was inevitable. |
+| `REL-0325` | Player → Sumire, **optional proposal and exit respect** | Floats but does not assign art promotion, notices worry without knowing its cause, voices respect for an actual alternative and welcomes her explicit return. A:P29–50; B:P36–38; C:P25–27,97. Reciprocal `REL-0326`; no formal procedure or performance consent audit. |
+| `REL-0326` | Sumire → Player, **guarded trial and returned commitment** | Downplays her art interest, avoids Nanasta, then says she chose not to join the club and wants to work here now. A:P41–50; B:P11–25; C:P93–98. Reciprocal `REL-0325`; earlier absence was not a declared departure. |
+| `REL-0327` | Sui → Sumire, **optional expression and anxious attachment** | Accepts postponed nails, praises her design, then worries art club may take her from Nanasta. A:P10–21,40; C:P10–29. Reciprocal `REL-0328`; worry is not confirmation of transfer. |
+| `REL-0328` | Sumire → Sui, **fit-aware offer and comparison** | Offers nails when swimming will not interfere and later hears Sui's club fulfillment as a comparison against her uncertain purpose. A:P11–21; B:P29–34. Reciprocal `REL-0327`; no required feminine makeover. |
+| `REL-0329` | Shizuka → Sumire, **humble creative criterion** | Encourages a view of art beyond taught skill, notices paint and calls the club visit interesting, later speculates about her absence. A:P27–47; B:P6,23; C:P14–20. Reciprocal `REL-0330`; no actual assessment of Sumire's painting. |
+| `REL-0330` | Sumire → Shizuka, **comparison without substitution** | Initially projects art suitability onto Shizuka, then acknowledges own curiosity and tells the group about the club visit. A:P42–48; B:P11–25. Reciprocal `REL-0329`; Shizuka's lessons do not make either girl the sole qualified artist. |
+
+`T7S_B0111_CLOSE-20260926`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.

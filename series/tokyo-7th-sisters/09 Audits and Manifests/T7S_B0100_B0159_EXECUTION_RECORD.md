@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.10"
+version: "1.11"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0110`.
-- Completed run blocks: **11/60**; completed run episodes: **27/174**.
-- Next: `T7S_B0111`, chapter `300830`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0111`.
+- Completed run blocks: **12/60**; completed run episodes: **30/174**.
+- Next: `T7S_B0112`, chapter `300840`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -47,7 +47,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0108` | `300800` | 角森ロナ | ウィッシュ・ユー・アー・ヒア | `312200301 / 312200302 / 312200303` | CLOSED |
 | `T7S_B0109` | `300810` | 野ノ原ヒメ | きっと同じさ | `312200401 / 312200402 / 312200403` | CLOSED |
 | `T7S_B0110` | `300820` | 芹沢モモカ | 完全密着！次世代アイドル・モモカ | `312200501 / 312200502 / 312200503` | CLOSED |
-| `T7S_B0111` | `300830` | 臼田スミレ | アタシの特別なもの | `312200601 / 312200602 / 312200603` | AUTHORIZED_UNREAD |
+| `T7S_B0111` | `300830` | 臼田スミレ | アタシの特別なもの | `312200601 / 312200602 / 312200603` | CLOSED |
 | `T7S_B0112` | `300840` | 神城スイ | カ・ラ・ダが資本ッ！！ | `312200701 / 312200702 / 312200703` | AUTHORIZED_UNREAD |
 | `T7S_B0113` | `300850` | 久遠寺シズカ | シズカ、奮闘 | `312200801 / 312200802 / 312200803` | AUTHORIZED_UNREAD |
 | `T7S_B0114` | `300860` | アレサンドラ・スース | スースの勉強合宿！！ | `312200901 / 312200902 / 312200903` | AUTHORIZED_UNREAD |
@@ -150,3 +150,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0110 closeout receipt
 
 [T7S_B0110](../02%20Readings/T7S_B0110_DEEP_READING.md): An in-story documentary recasts Momoka’s selective play, late rehearsal and peer affection as a seamless idol portrait; a later live is reported successful, but the aired edit includes a Musubi moment she asked not to film and excludes ordinary sleep. All 134 pages, 119 text records and 15 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.12 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 85 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 11/60 blocks, 27/174 episodes; publication remains pending.
+
+## B0111 closeout receipt
+
+[T7S_B0111](../02%20Readings/T7S_B0111_DEEP_READING.md): An enjoyable art-club visit makes Sumire fear her idol history was fake because another meaningful path was possible; Haru forcefully interprets her distress as present attachment, and Sumire later chooses to focus on Nanasta now without denying art. All 196 pages, 178 text records and 18 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.13 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 147 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 12/60 blocks, 30/174 episodes; publication remains pending.
