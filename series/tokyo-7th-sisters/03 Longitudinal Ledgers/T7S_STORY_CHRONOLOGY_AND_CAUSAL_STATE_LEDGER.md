@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.15"
+version: "11.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 79 complete i-n-g primary documents / T7S_B0080–T7S_B0114; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 82 complete i-n-g primary documents / T7S_B0080–T7S_B0115; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 400`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 375`; `last_closed_block = T7S_B0114`. The admitted horizon contains 314 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 79 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 405`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 382`; `last_closed_block = T7S_B0115`. The admitted horizon contains 317 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 82 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1186,3 +1186,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.16. [B0114](../02%20Readings/
 | `EDGE-0375` | `BROAD_OFFER_MISUSED_AS_CONSENT` | Player's offer to help in `EV-B0114-003` → Sawara's unconsulted reward promise revealed in `EV-B0114-005`; his objection defeats a claimed authorization, irrespective of comic presentation. |
 
 `T7S_B0114_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0013`/`0014` advanced; no new world/thread record, immigration-law finding, total i-n-g chronology or transferred consent.
+
+## B0115 Sawara ability, preference and collaborative fit
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.17. [B0115](../02%20Readings/T7S_B0115_DEEP_READING.md) owns the A/B/C locator key. B0011/B0113/B0114 give bounded Sawara care and trick context; chapter-menu order is not total chronology. Designer and callers remain roles without invented stable identities.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0115-001` | A designer invited the Player and Sawara to inspect/plan a Nanasta costume. He reports several show models stranded after a no-injury traffic accident; Sawara volunteers for a show she wished to try once, and designer/Player praise the result. | A:P2–48; `KNOW-0178`; `UNIT-0002`. No independent accident, contract/pay, technical runway, full audience or dress approval audit. |
+| `EV-B0115-002` | Calls offer Sawara another runway, news and anime voice work. Shinju/Kajika describe her spontaneous capabilities; Player plans career expansion. Sawara declines because she wants idol work with her sisters, not those new occupations. | B:P1–57; `KNOW-0179`; `REL-0357`–`0364`; `THREAD-0014`. A named offer cannot simply be transferred to Momoka. |
+| `EV-B0115-003` | Shinju distinguishes capacity from interest, reports Sawara's uneven school work and neighborhood `残念女王` nickname; Sawara says she may want skydiving. | B:P23–35,58–70; `KNOW-0180`; `THREAD-0014`. The school/rank/nickname are attributed, and skydiving is no booked activity. |
+| `EV-B0115-004` | Coney stages a story that a Nanasta room contains a secret available only to a legendary idol. Sawara accepts cross-media offers to pursue the challenge; Shinju says she has seen Coney enter the ordinary storeroom, and Coney admits she has no fulfillment plan. | B:P71–77; C:P1–47; `KNOW-0181`; `REL-0361`–`0364`. No supernatural lock, verified secret, attained legend or informed Sawara knowledge of Coney's uncertainty. |
+| `EV-B0115-005` | Player gets phone reports that Sawara's later runway dance obscured outfits, her news strayed off topic, and voice ad-libs disrupted co-actors despite audience amusement; Shinju reiterates talent need not fit task. | C:P48–73; `KNOW-0182`; `REL-0357`–`0360`; `UNIT-0002`. Productions are not directly watched here; exact reception, contracts, repair and Sawara's response unknown. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0014` | Sawara's care, appetite for play and sisters' continuing household/work relation remain `OPEN`. She enters one emergency runway voluntarily, refuses expansion because her present idol work with Shinju/Kajika is sufficient, then changes course for Coney's unsupported room challenge. Shinju's account separates competence from desire and collaborators' aims; later phone reports suggest the latter mismatch without proving her worth is `wasted`. A:P2–48; B:P1–77; C:P1–73. No durable job policy or Sawara response to the reports. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0376` | `REPORTED_ABSENCE_TO_VOLUNTARY_SUBSTITUTE` | Designer's reported model delay in `EV-B0115-001` → Sawara's chosen one-time runway; no accident file or contract terms. |
+| `EDGE-0377` | `VISIBLE_SUCCESS_TO_OFFER_CLUSTER` | Praised first show in `EV-B0115-001` precedes model/news/voice offers in `EV-B0115-002`; exact selectors and reasons for each offer are unverified. |
+| `EDGE-0378` | `ABILITY_NOT_OBLIGATION` | Shinju's ability account in `EV-B0115-003` differs from Sawara's explicit refusal in `EV-B0115-002`; talent does not compel career expansion. |
+| `EDGE-0379` | `FALSE_OR_UNSUPPORTED_PREMISE_TO_CHOICE` | Coney's legendary-room challenge in `EV-B0115-004` → Sawara's later acceptance of the declined offers; she has not been told Shinju/Coney's doubts. |
+| `EDGE-0380` | `INTEREST_TO_INTENSE_WORK` | Sawara's new curiosity in `EV-B0115-004` precedes Player's observation that she works hard in `EV-B0115-005`; no legendary outcome follows. |
+| `EDGE-0381` | `PERFORMANCE_TO_TASK_MISMATCH` | Phone reports in `EV-B0115-005` distinguish popular/amusing performance from clothes visibility, news function and ensemble voice coordination. |
+| `EDGE-0382` | `CORRECTION_WITHOUT_CONFIRMED_UPTAKE` | Shinju's `EV-B0115-005` explanation challenges Player's earlier expansion/legend inference; his closing `migratory bird` image is not a settled production plan. |
+
+`T7S_B0115_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0014` advanced; no new world/thread record, supernatural room, total i-n-g chronology or career-fit verdict beyond partial reports.

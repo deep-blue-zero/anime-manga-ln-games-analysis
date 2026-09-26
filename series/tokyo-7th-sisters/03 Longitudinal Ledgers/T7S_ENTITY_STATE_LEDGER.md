@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.15"
+version: "11.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 79 complete i-n-g primary documents / T7S_B0080–T7S_B0114; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 82 complete i-n-g primary documents / T7S_B0080–T7S_B0115; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 177`; `directional_relationship_states = 356`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0114, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 182`; `directional_relationship_states = 364`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0115, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2074,3 +2074,38 @@ The [B0114](../02%20Readings/T7S_B0114_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0356` | Suss → Sumire, **meal thanks and resisted rest** | Enjoys/credits her cooking but initially pushes to finish despite Sumire's fatigue warning. B:P3–21,66–85; C:P12–15. Reciprocal `REL-0355`; food alone did not produce grades. |
 
 `T7S_B0114_CLOSE-20260926`: five actor-local knowledge records, five directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, legal determination, readiness or monograph record.
+
+## B0115 Sawara choice and production expectations
+
+The [B0115](../02%20Readings/T7S_B0115_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.17, binds these updates. Existing Sawara `IDENTITY-0022`/`CHAR-0019`, Shinju `CHAR-0021`, Kajika `CHAR-0020`, Momoka `CHAR-0012`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0019` / Sawara | Volunteers for a one-time emergency fashion show, receives praise, declines a multi-job expansion in favor of idol work with sisters, then accepts offers after Coney's secret-room challenge; later calls attribute show/news/voice task mismatch to her improvisation. | A:P2–48; B:P37–70; C:P1–73. Her own response to those calls and any completed career revision are absent; nickname is not identity or worth judgment. |
+| `CHAR-0021` / Shinju | Reports Sawara's capability and selective school effort, rejects talent-as-career compulsion, calls the sealed room ordinary and later explains mismatch between ability and colleagues' aims. | B:P18–35,65–70; C:P10–63. School/rank are second-hand; her insight is not a complete professional performance audit or direct account of Sawara's preferences. |
+| `CHAR-0020` / Kajika | Praises her sister's first show and remembers her playful mock news presentations. | B:P1–20. Her observation does not prove a professional newscast or future job suitability. |
+| `CHAR-0012` / Momoka | Reacts to the voice-role offer as a prized opportunity and considers Sawara's refusal wasteful; Sawara playfully offers it to her, while the Player says it is named for Sawara. | B:P48–57. No actual transfer or Momoka audition/contract follows. |
+| `CHAR-0003` / Coney | Stages a sealed-room/legend challenge to recruit Sawara's effort, evades mechanism questions and privately admits she needs to improvise an outcome if Sawara succeeds. | B:P71–77; C:P1–47. Neither the supernatural mechanism nor promised secret is verified; Shinju's cryptic condition aside does not independently disclose Coney's identity to Player. |
+| `CHAR-0001` / Player | Requests designer meeting for a personalized costume, admires Sawara's substitute show, treats offers as career expansion, accepts Coney's challenge and later receives reports of production mismatch. | A:P2–48; B:P9–47; C:P1–71. Sincere praise and management aspiration do not substitute for Sawara's interest, contract review or collaborators' objectives. |
+| `UNIT-0002` / Nanasta | Pursues a stage costume and receives cross-media inquiries for one member; Coney's persuasive fiction shifts work scope, and later reports expose production-fit concerns. | A:P7–27; B:P9–57; C:P1–63. No accepted formal multijob terms, fees, safety, outfit outcome or remediation plan is shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0178` | Designer reports a no-injury traffic delay and observes Sawara's first show; Player and audience react favorably. | A:P22–48. Accident, technical skill, full audience opinion and contractual effect remain independently unverified. |
+| `KNOW-0179` | Player hears named offers; Sawara says a repeat show/news/voice work does not interest her and she prefers idol work with sisters; Momoka wishes for the voice opportunity. | B:P9–57. No actual transfer, job acceptance at this point or broad future renunciation. |
+| `KNOW-0180` | Shinju/Kajika recount Sawara's casual dubbing/newscast play; Shinju reports school rank/nickname and distinguishes ability from wanting the job. | B:P18–35,65–70. No direct school record or general talent certification. |
+| `KNOW-0181` | Coney knows she invented or cannot substantiate the room challenge; Shinju says the room is a storeroom and she saw Coney enter; Sawara/Player accept the story enough to act. | C:P1–47. Sawara/Player do not learn Coney's admitted lack of plan here; no literal seal or new Nicole disclosure. |
+| `KNOW-0182` | Player receives phone reports of later fashion/news/voice problems and Shinju explains task-fit mismatch. | C:P49–63. Full productions, contracts, audience metrics, colleague accounts and Sawara's response are not inspected. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0357` | Player → Sawara, **admiration then expansion pressure** | Praises emergency runway and wants to leverage later offers despite her initial refusal. A:P35–47; B:P33–47. Reciprocal `REL-0358`; no authority to infer assent from talent. |
+| `REL-0358` | Sawara → Player, **explicit preference then revised request** | Declines model/news/voice work to stay with sisters, later asks him to arrange the same offers after Coney's challenge. B:P38–47; C:P26–32. Reciprocal `REL-0357`; later request is real but premise unsupported. |
+| `REL-0359` | Shinju → Sawara, **sisterly capacity and fit diagnosis** | Names her talent, disinterest and later production mismatch without treating the nickname as objective worth. B:P23–35,65–70; C:P49–63. Reciprocal `REL-0360`; family testimony is partial. |
+| `REL-0360` | Sawara → Shinju, **sister-centered work choice** | States idol work with Shinju and Kajika is enough, then follows a new curiosity-led job route. B:P40–47; C:P26–32. Reciprocal `REL-0359`; no proof of full acceptance of Shinju's caution. |
+| `REL-0361` | Coney → Sawara, **unsupported challenge as recruitment** | Offers legendary-room access as an incentive while privately lacking a fulfillment plan. C:P1–47. Reciprocal `REL-0362`; not informed agreement on the room's actual status. |
+| `REL-0362` | Sawara → Coney, **curiosity-driven uptake** | Restates the promised challenge and chooses more work to pursue it. C:P26–32. Reciprocal `REL-0361`; not actual legendary achievement. |
+| `REL-0363` | Sawara → Momoka, **playful transfer suggestion** | Offers the unwanted voice job to Momoka after seeing her excitement. B:P48–56. Reciprocal `REL-0364`; the offer is not hers to assign. |
+| `REL-0364` | Momoka → Sawara, **envy of voice opportunity** | Calls refusal wasteful and imagines herself in the role. B:P48–56. Reciprocal `REL-0363`; no production agreement. |
+
+`T7S_B0115_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, contract result, readiness or monograph record.

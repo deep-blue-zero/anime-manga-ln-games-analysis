@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.15"
+version: "11.16"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 79 complete i-n-g primary documents / T7S_B0080–T7S_B0114; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 82 complete i-n-g primary documents / T7S_B0080–T7S_B0115; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 547`; `revisions = 42`; `predictions = 7`; `AV_reviews = 61`; `literary_findings = 547`. Claims are bounded to their stated B0001 through B0114 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 35 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 551`; `revisions = 42`; `predictions = 7`; `AV_reviews = 62`; `literary_findings = 551`. Claims are bounded to their stated B0001 through B0115 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 36 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1504,3 +1504,26 @@ Owner and A/B/C locator key: [B0114](../02%20Readings/T7S_B0114_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Two hundred five dialogue-associated voice pages plus title cues, BGM/SFX and any performed contact/reaction remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0114_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, legal advice, specialist or monograph promotion.
+
+## B0115 Sawara talent, refusal and role fit
+
+Owner and A/B/C locator key: [B0115](../02%20Readings/T7S_B0115_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.17. B0011/B0113/B0114 are bounded relational comparison, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0115-001` | `BOUNDED_INFERENCE`; D1; high | Sawara's praised one-time runway choice does not authorize career-wide expansion; her refusal expresses an affirmative wish to idol-work with her sisters. | A:P28–48; B:P38–47; `KNOW-0178`–`0179`. Talent is not obligation, and later acceptance does not erase the initial preference. |
+| `CL-B0115-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Ability, willingness and collaborative task fit are distinct: later phone reports describe popular/amusing acts that undercut costumes, news and ensemble voice work. | B:P23–35,65–70; C:P49–63; `KNOW-0182`. Reports are partial; the social nickname does not define her worth. |
+| `CL-B0115-003` | `BOUNDED_INFERENCE`; D1; high for unsupported premise | Coney recruits Sawara's work through a legendary-room story that Shinju calls an ordinary storeroom and for which Coney has no fulfillment plan. | C:P1–47; `KNOW-0181`. Sawara's new choice is explicit, but no literal supernatural seal, disclosed secret or achieved legend is established. |
+| `CL-B0115-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The Player sincerely values Sawara's talent yet repeatedly overreads it as career desire and later effort as likely professional success; Shinju corrects him without confirmed durable uptake. | A:P7–18,35–47; B:P9–47; C:P46–71. Not a claim of bad faith, full managerial failure, or exact financial loss. |
+
+### AV-0062 — runway costume, reported calls and sealed-room framing
+
+- Questions/claims: whether native stills prove runway technique, audience response, accident facts, later job execution, literal room seal, contract/payout or actor competence; `CL-B0115-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for reported offers, productions and actor knowledge.
+- Selection: Sawara `adv_chara_012_01_01` and `adv_chara_012_04_01`; Shinju `adv_chara_014_01_05`; Momoka `adv_chara_007_01_02`; Coney `adv_chara_002_05_03`; HoloCom item `adv_obj_0014`. All 201 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.17 binds six media receipts.
+- Observed: Sawara has distinct ordinary/apron and white show-costume presentations; calls are represented by a HoloCom item, not independently verified job records. No room-lock asset establishes supernatural mechanics.
+- Native occurrence: command-only A:P0–1,34,48; B:P0,8,11,13,65,77; C:P0,48,53,56,58,72–73. A:P34–48 brackets the show/stage-costume shift; B:P8–15 punctuates offers; C:P53–60 punctuates later phone reports. Yellow flashes and sound references cannot establish actual performance quality or audience metrics.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Eighty-nine dialogue-associated voice pages plus title cues, BGM/SFX and any performed runway/news/voice work remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0115_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, career contract, literal legendary-room fact, specialist or monograph promotion.

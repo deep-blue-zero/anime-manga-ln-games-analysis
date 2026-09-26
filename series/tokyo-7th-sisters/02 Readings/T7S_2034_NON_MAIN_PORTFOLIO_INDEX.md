@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.15"
+version: "2.16"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 15/60 blocks; i-n-g coverage is 79/280 episodes across 35 chapters. The next authorized but unread chapter is `300870` / **残念☆女王** / 晴海サワラ, episodes `312201001 / 312201002 / 312201003`, assigned B0115.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 16/60 blocks; i-n-g coverage is 82/280 episodes across 36 chapters. The next authorized but unread chapter is `300880` / **2034年宇宙の旅？？** / 晴海カジカ, episodes `312201101 / 312201102 / 312201103`, assigned B0116.
 
 ## Closed first i-n-g tranche
 
@@ -95,3 +95,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0112](T7S_B0112_DEEP_READING.md) | `300840` / 神城スイ / カ・ラ・ダが資本ッ！！ | `312200701 / 312200702 / 312200703` | `COMPLETE_BOUNDED` |
 | [T7S_B0113](T7S_B0113_DEEP_READING.md) | `300850` / 久遠寺シズカ / シズカ、奮闘 | `312200801 / 312200802 / 312200803` | `COMPLETE_BOUNDED` |
 | [T7S_B0114](T7S_B0114_DEEP_READING.md) | `300860` / アレサンドラ・スース / スースの勉強合宿！！ | `312200901 / 312200902 / 312200903` | `COMPLETE_BOUNDED` |
+| [T7S_B0115](T7S_B0115_DEEP_READING.md) | `300870` / 晴海サワラ / 残念☆女王 | `312201001 / 312201002 / 312201003` | `COMPLETE_BOUNDED` |
