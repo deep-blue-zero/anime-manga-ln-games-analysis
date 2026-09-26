@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.2"
+version: "11.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 44 complete i-n-g primary documents / T7S_B0080–T7S_B0101; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 46 complete i-n-g primary documents / T7S_B0080–T7S_B0102; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 91`; `character_states = 73`; `epistemic_states = 120`; `directional_relationship_states = 264`; `unit_states = 25`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0101, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 93`; `character_states = 75`; `epistemic_states = 123`; `directional_relationship_states = 270`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0102, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1621,3 +1621,40 @@ All additions use the exact A/B locator key in [B0101](../02%20Readings/T7S_B010
 | `REL-0264` | Shirayuki → reported older sister | Remembers the narrated world with affection and uses it for imaginative coping; reports the sister's present residence abroad. B:P25–26. Reciprocal `REL-0263`; memory does not prove current contact or total family history. |
 
 `T7S_B0101_CLOSE-20260925`: one qualified identity and one reported character state; two epistemic states; four directional relations; annotations to six existing characters, Nanasta and the existing Manon/Shirayuki pair. No new unit/readiness decision or monograph promotion.
+
+## B0102 chronology-qualified entity additions
+
+The [B0102](../02%20Readings/T7S_B0102_DEEP_READING.md) A/B key, witness `T7S_GAME_OFFLINE_JA_R484` and source-lock 12.4 bound each addition. B0087's Murasaki/Farb relation and all Main/readiness horizons remain separately placed.
+
+| ID / subject | Local identity or character state | Evidence and uncertainty |
+| --- | --- | --- |
+| `IDENTITY-0092` / `echizen-murasaki` | Literal label `越前ムラサキ`, self-referred `あたし`, named Nanasta singer and helper at her mother's shop. This stabilizes the Murasaki already referenced in the separate B0087 pair without ordering the chapters. | A:P10–32,40–44; B:P18,40–55. High document-local identity; `野良猫` at B:P51 is her metaphor, not a separate person or literal identity. |
+| `IDENTITY-0093` / `echizen-murasaki-mother` | Literal role label `ムラサキの母`; Murasaki calls her `ママ`, and the Player attributes the family shop to her operation. No personal name is given. | A:P15,40–42. High for role identification; legal ownership, full household composition and biography unknown. |
+| `CHAR-0074` / `echizen-murasaki` | **B0102 local state:** works at the family bar with little sleep; initially accepts exclusion and solitary singing; after Coney's story she asks for a private piano song and next day chooses repeated coordinated rehearsal with Musubi. | A:P10–32,39–44; B:P20–37,42–51; `EV-B0102-001`–`004`. One-day participation neither proves permanent selflessness nor resolves work/rest strain. B0087's coauthor state remains independently bounded. |
+| `CHAR-0075` / `echizen-murasaki-mother` | **B0102 observed role:** thanks Murasaki for washing dishes and asks her to deliver a customer drink at the bar. | A:P40–42; `REL-0269`–`0270`. No independent account of staffing choices, care expectations, motives or finances. |
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0005` / Musubi | Values effort and collective alignment, objects to Murasaki's readiness to leave, then gives specific timing/weight corrections and welcomes continued joint practice. | A:P2–9,12–33; B:P42–49. Her Hime/Kajika comparison does not establish that labor burdens are interchangeable. |
+| `CHAR-0003` / Coney | Notices Murasaki's self-containment, visits the workplace, narrates a childhood friend's idol difficulty and shared dream, offers group support and oversleeps the following morning. | A:P35–44; B:P2–38,52–55. Her account is not a present-day sighting of Hami or a disclosure of Nicole to Murasaki. |
+| `CHAR-0001` / Player | Struggles to combine a reprimand with respect for family circumstances, then sees improved rehearsal without knowing Coney's intervention; mistakes her one late arrival for simple laxity. | A:P11–20,25,34–36; B:P40,44,50–54. He has Coney's message, not the bar conversation. |
+| `UNIT-0002` / Nanasta | Shared rehearsal receives Murasaki's renewed contribution; Musubi supplies practical correction while Coney promises support. | A:P21–32; B:P29–30,42–50. No standing policy or concrete labor accommodation is enacted. |
+| `UNIT-0026` / Murasaki's mother's bar | Family work site in which Murasaki washes dishes and serves requests; a patron and her mother speak. The exact native foreground `adv_obj_0078` depicts an `EZ Bar` frontage. | A:P14–16,39–44; B:P1–39; `AV-0049`. Staff shortage and near sleeplessness are Murasaki's report. No inferred finances, legal ownership, staffing roster or permanent schedule. |
+| `REL-0226` and `REL-0246` / Farb and Murasaki | **Separate B0087 annotation:** the previously recorded coauthorship question can be compared retrospectively with B0102's refusal of solo completion, but the two chapter states are not merged into a causal sequence. | [B0087](../02%20Readings/T7S_B0087_DEEP_READING.md); B0102 A:P27–30, B:P24–37. No B0087 performance outcome is supplied here. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0121` | Murasaki learns Coney's attributed story of Hami, recognizes that her own imitation had omitted companionship and shared audience purpose, and does not learn any Nicole identity in this chapter. | B:P6–27. Coney's prediction that Hami still sings is not verified by this conversation. |
+| `KNOW-0122` | Musubi observes Murasaki's next-day willingness to retry, hears her echo of yesterday's words and accepts the renewed shared practice. | B:P42–49. Musubi is not shown learning Coney's nighttime role in the change. |
+| `KNOW-0123` | The Player hears Murasaki's shop-work explanation and solitary claim, then sees the next-day change and reads Coney's oversleep message; he explicitly says he does not understand the change. | A:P13–20,27–36; B:P40,44,50–54. His judgment of Coney's lateness does not include direct knowledge of the bar encounter. |
+
+| ID | Direction | Added relation and counterpart |
+| --- | --- | --- |
+| `REL-0265` | Murasaki → Musubi | First offers to be left behind and self-practice, then accepts repeated timing correction and affirms future work together. A:P27–33; B:P42–49. Reciprocal `REL-0266`; future availability remains open. |
+| `REL-0266` | Musubi → Murasaki | Urges collective practice, objects to losing her as a teammate, then corrects concrete steps and welcomes her participation. A:P21–33; B:P42–49. Reciprocal `REL-0265`; labor comparability remains unproven. |
+| `REL-0267` | Coney → Murasaki | Goes to her family work site, tells an attributed friend's story and promises help from herself, the Player and Nanasta. A:P35–44; B:P2–30. Reciprocal `REL-0268`; no staffing plan or general right to pressure follows. |
+| `REL-0268` | Murasaki → Coney | Listens and revises her ideal, thanks Coney, invites her to hear a piano song and recognizes her late-night aftereffect with amusement. B:P5–38,51–55. Reciprocal `REL-0267`; no verified recording transfer. |
+| `REL-0269` | Murasaki → mother | Washes dishes and helps serve at the bar, while reporting that understaffing leaves her short of sleep. A:P14–16,39–42. Reciprocal `REL-0270`; do not infer wages, unlimited duty or a complete family negotiation. |
+| `REL-0270` | Mother → Murasaki | Thanks her for dishwashing and asks her to deliver a drink. A:P41–42. Reciprocal `REL-0269`; these two lines do not establish her private intentions or a refusal to accommodate idol work. |
+
+`T7S_B0102_CLOSE-20260925`: two local identity routes, two character states, three actor-local knowledge states, six reciprocal directions and one family-work institution; annotations to the Player, Coney, Musubi, Nanasta and the separate B0087 pair. No readiness, character model or monograph promotion.

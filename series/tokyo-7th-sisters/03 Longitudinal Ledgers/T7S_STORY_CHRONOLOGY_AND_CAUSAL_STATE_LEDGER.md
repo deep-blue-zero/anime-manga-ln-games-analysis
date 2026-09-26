@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.2"
+version: "11.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 44 complete i-n-g primary documents / T7S_B0080–T7S_B0101; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 46 complete i-n-g primary documents / T7S_B0080–T7S_B0102; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 344`; `world_state_records = 25`; `thread_records = 44`; `chronology_and_dependency_edges = 304`; `last_closed_block = T7S_B0101`. The admitted horizon contains 279 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 44 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 348`; `world_state_records = 25`; `thread_records = 45`; `chronology_and_dependency_edges = 308`; `last_closed_block = T7S_B0102`. The admitted horizon contains 281 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 46 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -848,3 +848,27 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.3. [B0101](../02%20Readings/T
 | `EDGE-0304` | `ENABLES` | Reassurance plus Manon's invitation proposal → Shirayuki's shared-world and hometown invitation in `EV-B0101-003`; future execution unproved. |
 
 `T7S_B0101_CLOSE-20260925`: add three events, one open invitation thread and three chapter-local non-temporal dependencies. No world-state record or cross-chapter chronology edge.
+
+## B0102 bounded i-n-g state addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.4. [B0102](../02%20Readings/T7S_B0102_DEEP_READING.md) owns the A/B script/page locator key and full factual reconstruction. A and B give one explicit next-day relation; neither the chapter menu nor B0087 determines a total chronology.
+
+| ID | Position and factual/causal record | State delta and evidence |
+| --- | --- | --- |
+| `EV-B0102-001` | Murasaki reaches a daytime Nanasta rehearsal hours late and attributes exhaustion and little sleep to work at her mother's understaffed shop. Musubi insists that participation requires shared practice; Murasaki says she could be left behind and complete her singing alone like Hami. | A:P2–37; `KNOW-0123`; `REL-0265`–`0266`; `THREAD-0045`. The Player's hesitation and Musubi's comparison to other shop-working idols neither solve staffing nor prove negligence alone. |
+| `EV-B0102-002` | Coney visits the mother's bar, orders an unusual drink to call Murasaki to her table, and the two acknowledge their different daytime and nighttime presentations. | A:P38–44; B:P0–5; `UNIT-0026`; `REL-0267`–`0270`. The native `EZ Bar` foreground image supports a bar setting; its ownership, wages and exact working hours remain unknown. |
+| `EV-B0102-003` | Coney tells Murasaki about her childhood friend Hami's difficult idol years and a shared dream. Murasaki realizes her solo ideal omitted others, accepts help and invites Coney to hear a piano-based Seven Sisters arrangement. | B:P6–39; `KNOW-0121`; `REL-0267`–`0268`. Hami's history is Coney's account; her current singing is Coney's expectation. Song quality and a successful recording are not evidenced by the text/static packet. |
+| `EV-B0102-004` | The next day Murasaki arrives before the Player, accepts Musubi's timing correction and repeated practice, and playfully repeats the shared-step request. Coney's message reports oversleeping after a late sentimental night. | B:P40–57; `KNOW-0122`–`0123`; `REL-0265`–`0266`. One observed rehearsal does not settle rest, future attendance or the family's work allocation; the Player does not know the bar conversation. |
+
+| ID | State | Evidence and limit |
+| --- | --- | --- |
+| `THREAD-0045` | `OPEN`: Murasaki has rejoined shared rehearsal, but her mother's understaffed bar still competes for time and sleep. Coney promises group support without a concrete accommodation. | A:P14–32; B:P29–30,42–49. No staffing replacement, revised lesson schedule or durable attendance is shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0305` | `MOTIVATES` | Coney hears the withdrawal in `EV-B0102-001` and then seeks Murasaki at the bar in `EV-B0102-002`; no hidden coordination with Musubi is established. |
+| `EDGE-0306` | `REVISES_BELIEF` | Coney's attributed Hami account in `EV-B0102-003` changes Murasaki's interpretation of the self-contained singer ideal in `EV-B0102-001`; Hami's unshown present is not independently verified. |
+| `EDGE-0307` | `ENABLES` | Murasaki's accepted relational ideal in `EV-B0102-003` is followed by voluntary joint practice in `EV-B0102-004`; causal contribution is strong, but no permanent conversion is proved. |
+| `EDGE-0308` | `EXPLICIT_LOCAL_BEFORE` | Bar conversation in `EV-B0102-002`–`003` precedes the next-day `EV-B0102-004`: B:P40 calls the Murasaki–Musubi quarrel yesterday. This adds no relation to B0087 or Main. |
+
+`T7S_B0102_CLOSE-20260925`: four chapter events, one open labor/rehearsal thread and four local dependency/explicit-time edges; no new world-state record or cross-chapter chronology edge.

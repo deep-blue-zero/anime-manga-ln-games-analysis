@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.2"
+version: "11.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 44 complete i-n-g primary documents / T7S_B0080–T7S_B0101; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 46 complete i-n-g primary documents / T7S_B0080–T7S_B0102; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 500`; `revisions = 42`; `predictions = 7`; `AV_reviews = 48`; `literary_findings = 500`. Claims are bounded to their stated B0001 through B0101 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 22 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 503`; `revisions = 42`; `predictions = 7`; `AV_reviews = 49`; `literary_findings = 503`. Claims are bounded to their stated B0001 through B0102 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 23 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1210,3 +1210,25 @@ Owner and A/B locator key: [B0101](../02%20Readings/T7S_B0101_DEEP_READING.md), 
 - Outcome: `REVIEWED` static distinction; no literal costume transformation, actual sword action or permanent cure is inferred. Seventy-six dialogue-associated voice pages plus title cues, BGM and SFX remain unreviewed; performed-voice/music/timing claims are `BOUND_BY_CLAIM_RESTRICTION`. Later mature-character review still requires actual listening.
 
 `T7S_B0101_CLOSE-20260925`: three chapter-bounded claims and one AV review added; no revision ID, prediction rewrite, monograph or specialist promotion.
+
+## B0102 claims and presentation review
+
+Owner and A/B locator key: [B0102](../02%20Readings/T7S_B0102_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.4. B0087 is a retrospective thematic comparison only.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0102-001` | `BOUNDED_INFERENCE`; D1; high | Family-bar labor and collective rehearsal both impose real demands; renewed motivation produces one witnessed joint practice but leaves staffing and rest unresolved. | A:P10–34; B:P42–50; `THREAD-0045`. A simple laziness account misses Murasaki's reported exhaustion; a total vindication of her withdrawal misses her declared choice to self-practice. One early arrival is not durable accommodation. |
+| `CL-B0102-002` | `THEMATIC_INTERPRETATION`; D1; high within chapter | Murasaki revises an imagined self-contained Hami model toward distinct song within relation, making Musubi's shared-step phrase her own rather than abandoning individuality. | A:P27–32; B:P19–37,42–49; `KNOW-0121`; `REL-0265`–`0268`. Celebrity pressure is a live rival, but Murasaki initiates the private song and chooses repeated practice. Coney's historical account remains attributed. |
+| `CL-B0102-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | The day/night work-site structure distributes knowledge unevenly: the group first sees lateness without the work, while the Player later sees change and Coney's lateness without their private encounter. | A:P10–19,38–44; B:P1–5,40–55; `KNOW-0123`; `AV-0049`. This is a text/native-order echo, not equivalence of Coney's one overslept morning with continuing family work or a claim about unheard comedic timing. |
+
+### AV-0049 — family work site and static presentations
+
+- Questions/claims: whether native presentation independently supports the bar setting and changed demeanor, and whether a piano performance or durable recovery can be inferred. `CL-B0102-001`–`003`.
+- Priority/modality: `AV-B` static image and native-state check; `AV-D` for narrative, labor and actor-local knowledge.
+- Selection: Murasaki `adv_chara_149_01_01`–`04`, Coney `adv_chara_002_07_02`, Musubi `adv_chara_004_01_12`, foreground object `adv_obj_0078`. All 103 page states and eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry hash resolution, native-offset face compositing and direct image inspection, 2026-09-25; source-lock 12.4 binds the media receipts.
+- Observed: Murasaki's four faces share asymmetrical yellow/purple hair, earrings, sleeveless top and dark shorts; selected Coney has pink hair/glasses, Musubi school uniform and stern face. The foreground sign says `EZ Bar`. No separate night costume, piano-playing image, or verified recording is supplied by these selected assets.
+- Native occurrence: A:P38 fade and P39 shift `bg_004` to `bg_055` with `adv_obj_0078`; B:P39 fade, P40 returns to `bg_004`, P41 gives a sound cue. A:P7,44 specify shake. Title/end cards account for the other command-only pages. These are native fields, not observed duration, gesture or sound.
+- Outcome: `REVIEWED` for selected static/context claims. Seventy-nine dialogue-associated voice pages plus title voice cues, all BGM/SFX and proposed singing/piano remain unreviewed; performed musical quality, emotion, timing and choreography are `BOUND_BY_CLAIM_RESTRICTION`. Later character release still needs representative listening.
+
+`T7S_B0102_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction rewrite, claim revision, specialist or monograph promotion.

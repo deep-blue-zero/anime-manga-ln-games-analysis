@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.1"
+version: "1.2"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0101`.
-- Completed run blocks: **2/60**; completed run episodes: **4/174**.
-- Next: `T7S_B0102`, chapter `300740`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0102`.
+- Completed run blocks: **3/60**; completed run episodes: **6/174**.
+- Next: `T7S_B0103`, chapter `300750`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -38,7 +38,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | --- | --- | --- | --- | --- | --- |
 | `T7S_B0100` | `300720` | 夜舞サヲリ | ラン・サヲリ・ラン | `202003101 / 202003102` | CLOSED |
 | `T7S_B0101` | `300730` | 有栖シラユキ | シラユキ・イン・ワンダーランド | `202003201 / 202003202` | CLOSED |
-| `T7S_B0102` | `300740` | 越前ムラサキ | グッドナイト・パープル | `202003301 / 202003302` | AUTHORIZED_UNREAD |
+| `T7S_B0102` | `300740` | 越前ムラサキ | グッドナイト・パープル | `202003301 / 202003302` | CLOSED |
 | `T7S_B0103` | `300750` | 玉坂マコト | ナイトメア・オン・セブンスストリート | `202003401 / 202003402` | AUTHORIZED_UNREAD |
 | `T7S_B0104` | `300760` | 桂木カヅミ | マイ・ノート、マイ・ラブ | `202003501 / 202003502` | AUTHORIZED_UNREAD |
 | `T7S_B0105` | `300770` | シャオ・ヘイフォン | シャオ・ハイ・ヌーン | `202003601 / 202003602` | AUTHORIZED_UNREAD |
@@ -114,3 +114,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0101 closeout receipt
 
 [T7S_B0101](../02%20Readings/T7S_B0101_DEEP_READING.md): Shirayuki discloses homesickness beneath requested Alice play; the group affirms reciprocal enjoyment, and remembered refuge becomes an invitation to a shared imaginative world and a still-unfulfilled hometown visit. All 102 pages, 95 text records and 7 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.3 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 76 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 2 records while preserving the other 1588 effective records. Current run: 2/60 blocks, 4/174 episodes; publication remains pending.
+
+## B0102 closeout receipt
+
+[T7S_B0102](../02%20Readings/T7S_B0102_DEEP_READING.md): Murasaki moves from accepting exclusion and solo completion toward a chosen joint rehearsal after Coney’s Hami account; her family bar’s labor and rest conflict remains unresolved. All 103 pages, 95 text records and 8 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.4 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 79 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 2 records while preserving the other 1588 effective records. Current run: 3/60 blocks, 6/174 episodes; publication remains pending.
