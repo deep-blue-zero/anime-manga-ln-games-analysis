@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -454,3 +454,14 @@ No new indexed subject or readiness promotion (sixteen `PARTIAL_MODEL`, eighteen
 - **Sensei:** remains in the exposed moving group; Midori warns of darkness and Asuna addresses them as `先生` after an initial mistaken senior term. No choice or new adult action is shown.
 
 Karin and Asuna enter coverage as `UNMODELED` on distinct direct role choices, so readiness is sixteen `PARTIAL_MODEL`, twenty `UNMODELED`. No standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). E013's anonymous call sign 02 is not explicitly identified as Karin here. Quarantine scene 1 `u:0004` for exact speaker voice.
+
+## V002 C001 E015 delta — contingent Alice escape and stronger sanctions
+
+- **Alice:** directly recognizes the blackout/EMP/hacked-door cue in the reflection room, exits by the opening and initially aims for the store, then appears with Momoi/Midori and says RPG heroes do not abandon companions. This is actual self-directed escape and reunion, not proof of detailed advance consent to the custody decoy or completed Mirror retrieval. A beam is strongly but inferentially attributable to her; shooter lines lack a person label.
+- **Momoi:** learns Utaha is reportedly captured, Akane free and many robots coming. Her fallback presumed a mild clubroom restriction could still allow remaining members to develop a game, but Yuuka threatens a week of suspension or confinement and Momoi realizes Alice/Yuzu alone cannot do the needed work. She apologizes to Sensei and recommits after Alice's arrival. This is a local forecasting failure, not global incapacity.
+- **Midori:** in a pre-operation flashback securely says failure must be planned for; authorship of the preceding “not everyone” suggestion is label-conflicted. She estimates the week sanction would miss the contest and rejoins Alice. Sensei-response lines are branch-conditioned.
+- **Yuuka:** orders seized robots reprogrammed for C&C, articulates a sanction more severe than mischief and a possible Schale complaint, then reports Asuna and nearly half the robots unable to act after one shot. The sanction and exact robot count are not adjudicated/audited.
+- **Asuna/Akane/Karin/Utaha:** Asuna appraises twin coordination, prevents retreat, is then hit and says she cannot move; Akane converges, worries about Asuna and starts another fight. Karin's rooftop support is interrupted. Individual Karin/Utaha motives or exact bodily positions in scenes 3/8 are not secure because labels flip.
+- **Sensei:** receives Momoi's apology and may encourage or apologize for limited power; Yuuka plans a formal protest. The alternatives are not cumulative choices or proof of personal culpability.
+
+No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine scene 3 `u:0003-0014`, scene 5 `u:0012-0013`, scene 8 `u:0002-0023`; retain choice branches for scene 7 `u:0035-0040`.

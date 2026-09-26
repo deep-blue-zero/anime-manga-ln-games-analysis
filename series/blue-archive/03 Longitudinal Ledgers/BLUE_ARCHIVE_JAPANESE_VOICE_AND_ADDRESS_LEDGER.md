@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -808,3 +808,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Akane's `電力を遮断` is a question after failed contact; Momoi/Midori's later outage/plan-success interpretation is not a recorded six-second EMP audit.
 - Asuna's `何となく`, `予感とか直感` are her own explanation for waiting. Her `先輩` correction to `先生`, `コールサイン・ゼロワン`, and `戦うのが大好き` provide secure first voice/address evidence but no omniscience or combat result. E013's anonymous `02` stays unassigned.
 - No Sensei choice. **Attribution quarantine:** scene 1 `u:0003-0004` warning/response labels are inconsistent, especially `u:0004`; do not build Hare or Momoi voice rules from the conflict.
+
+## V002 C001 E015 delta — projected clock, stronger sanction, self-directed party bond
+
+- Yuuka's `背に腹は代えられない` accompanies emergency use of seized robots despite an intended cleaning reuse. `全機` is her order/claim, not a counted engagement.
+- Asuna's internal `二人で一人みたい`/`ベテラン級` praises the twins' coordination in a specific fight and explicitly does not claim exceptional individual combat ability.
+- Pre-operation `2分`, `5分`, `11分`, `13分`, `20分` form a projected plan, not exact logged timestamps. Scene 5 `全員じゃなければ` sits in a Yuzu self-response anomaly; no individual contingency authorship is admitted.
+- Momoi's imagined `謹慎`/clubroom production differs sharply from Yuuka's `無条件の1週間停学か、拘禁くらい`, a prospective sanction severe enough to miss the contest. `シャーレに抗議文` is a promised complaint, not a filed result.
+- Alice's `EMP発動`/`ハレ先輩のハッキング` and `アリス、脱出します` are her direct plan interpretation and decision. Her `仲間のことを諦めたりしませんでした` links game wording to the actual return, not blanket proof of prior decoy consent.
+- `魔力充電、100%`/`光よ` occur in unlabeled narration before a beam; Alice is the strong contextual attribution, not explicitly printed as shooter. Yuuka's `半分近く` is an effect estimate.
+- Sensei `choice:001` offers `諦めないで` or self-blame; scene 7 `u:0035-0040` are route-conditioned reactions. **Attribution quarantine:** scene 3 `u:0003-0014` and scene 8 `u:0002-0023` contain extensive Karin/Utaha role flips; do not mine them for individual club-value or junior-care voice.

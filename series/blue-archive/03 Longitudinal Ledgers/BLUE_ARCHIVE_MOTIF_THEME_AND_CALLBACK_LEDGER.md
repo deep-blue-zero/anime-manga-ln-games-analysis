@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -553,3 +553,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Open roof, hidden arc:** Karin argues the roof's lack of cover favors her; Utaha uses its lack of ceiling to admit Hibiki's curved fire. One physical feature supports rival readings depending on vantage and collaboration.
 - **Rescue and risk remain paired:** the club hurries toward Mirror while Alice remains in custody, Akane pursues and Sensei walks through darkness after sniper fire. A fellowship goal continues to generate duties it has not yet fulfilled.
 - **Intuition against calculation:** Asuna's self-described `予感` puts her where the calculated plan expected no C&C member. Her arrival tests the plan, not a verified supernatural faculty.
+
+## V002 C001 E015 motif / callback delta — the contingency has its own cost
+
+- **Plan clocks versus institutional time:** the flashback's 2/5/11/13/20-minute schedule assumes a manageable capture, but Yuuka threatens a week that would erase the contest deadline. Technical timing misses the social/disciplinary clock.
+- **Club membership is a production relation:** Momoi realizes that, even with Mirror, Alice/Yuzu alone cannot complete the game as she assumed. E012's shared room is not only sentimental; cooperation is materially necessary. The source still does not prove the file makes a winning game.
+- **Captured companion becomes agent:** Alice uses the planned power/hack cue to leave the room and chooses comrades over a solo rush to Mirror. The RPG party principle moves from E012 declaration toward an observed choice, without erasing the earlier custody cost.
+- **Adult limits named openly:** Sensei may urge persistence or apologize for insufficient power; Yuuka may protest to Schale. This reprises agency-preserving adult help under external accountability, not teacher omnipotence or automatic guilt.
+- **Spectacle and attribution:** one beam reverses the local balance and disables Asuna/robots by report, yet its shooter lines are unlabeled; the rooftop “club” defense dialogue is label-flipped. Narrative payoff cannot justify laundering uncertain person motives.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -408,3 +408,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **AKANE ↔ YUUKA/COALITION:** Akane destroys the shutter, reports facility damage reluctantly to Yuuka, asks the club location and pursues. A failed call/outage interrupts coordination, not her willingness to act.
 - **MIDORI ↔ SENSEI:** Midori cautions the teacher about dark footing, continuing concrete situational care under risk without a Sensei choice or new intimacy claim.
 - **ASUNA ↔ SENSEI/CLUB:** Asuna says she waited to meet both, corrects her address to `先生`, then declares her enjoyment of combat. This is a first direct opposed encounter, not evidence of private familiarity or a fight result.
+
+## V002 C001 E015 relationship delta — Alice chooses reunion
+
+- **ALICE ↔ MOMOI/MIDORI/CLUB:** after leaving the reflection room, Alice changes from an initial store-directed quest to the endangered twins and says companions should not be abandoned. They visibly recommit with her. This supports reciprocal action, not a completed Mirror mission or full prior consent record.
+- **MOMOI ↔ SENSEI:** Momoi apologizes for the students' inadequate strength despite Sensei's aid. Sensei's encouragement or self-blame is branch-conditioned; the apology is not evidence Sensei authored the decoy or controls the institution.
+- **YUUKA ↔ CLUB/SENSEI:** Yuuka names formal suspension/confinement and a possible Schale complaint, instead of Momoi's imagined mild room restriction. Her opposition is an institutional accountability act, with adjudication unshown.
+- **ASUNA ↔ TWINS/C&C:** Asuna privately admires the twins' teamwork while opposing their escape; later reports severe hit effects, with Akane checking and protecting her. Adversarial respect and physical vulnerability coexist.
+- **KARIN ↔ UTAHA/HIBIKI/AKANE:** rooftop contact and interruption of Karin's support persist, but scene 3/8 labels flip too extensively to assign a club-belonging argument or junior's motive to either rooftop speaker. External Akane/Hare reports support tactical consequence only.

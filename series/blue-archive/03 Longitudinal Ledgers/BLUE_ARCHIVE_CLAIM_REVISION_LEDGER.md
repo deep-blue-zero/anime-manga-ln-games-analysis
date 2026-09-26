@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E014 active provisional; E015 unopened
+current_sequential_boundary: MAIN_V002_C001_E015 active provisional; E016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1226,3 +1226,12 @@ No `BA-C019` is opened. A Trojan report, spoofed feed and differential lockout m
 - **BA-C009–C018: PRESERVE / no direct global test** — no evidence connects this Millennium conflict to Abydos/Kaiser systems.
 
 No `BA-C019` is opened. E013's trapped-Akane state is revised by her direct explosive escape, while the blackout's timing/mechanism, Karin's final condition, Mirror retrieval and Asuna battle remain OPEN. Do not resolve E013's anonymous `02` through proximity alone. Contextual backfill remains **DEFER**.
+
+## V002 C001 E015 claim transitions — agency after a failed cost model
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the capture-contingency counted on some students remaining free and a tolerable sanction. Yuuka's week-suspension/confinement threat and the party's deterioration expose overlooked costs, while Alice independently escapes and returns to companions instead of reducing them to instrument for Mirror. Rescue, sanction and goal remain unresolved.
+- **BA-C005–C006: PRESERVE REJECTED** — Alice acts on her own interpreted cue; Yuuka mobilizes institutional force; the adult can voice limited power in one choice. No omniscient center controls the operation.
+- **BA-C008: PRESSURE-TEST** — encouragement and self-blame variants trigger distinct responses but converge; Momoi's apology and Yuuka's prospective Schale complaint do not prove Sensei caused every tactic.
+- **BA-C009–C018: PRESERVE / no direct global test** — this Millennium sanction/security episode supplies no Abydos/Kaiser revision.
+
+No `BA-C019` is opened. Alice's escape/reunion is represented, but the unlabeled beam attribution is inferential, the rooftop debate has role-flipped labels, and Mirror, discipline, combat outcome and `G.Bible` remain OPEN. Contextual backfill remains **DEFER**.

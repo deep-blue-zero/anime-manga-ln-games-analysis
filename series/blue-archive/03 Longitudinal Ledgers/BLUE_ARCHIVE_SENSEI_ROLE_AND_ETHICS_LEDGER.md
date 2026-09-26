@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -571,3 +571,10 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - After an outage, Midori explicitly warns Sensei of dark footing. This is ordinary concrete care inside a high-risk, ethically unresolved raid, not a romantic/private relationship inference.
 - Asuna initially mistakes Sensei's status as a senior, corrects to `先生`, says she has wanted to meet them and begins a fight with the club. This is her first on-page address and an acute encounter, not a durable social bond or consent to violence.
 - Sensei remains `PARTIAL_MODEL` with no new adult rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E015 delta — apology, conditional adult limit and outside review
+
+- Yuuka says the raid is no longer a prank, threatens week-long suspension/confinement for students and intends a formal complaint to Schale concerning Sensei. This recognizes adult participation as accountable to another institution, without showing a filed complaint or adjudication.
+- Momoi apologizes to Sensei for the students' apparent failure despite adult help. Sensei's choice is either `諦めないで` or an apology for lacking more power. Route-conditioned Momoi/Midori replies must not be combined into one adult behavior sequence; neither choice proves the teacher caused all tactical harms.
+- Alice's self-directed escape and return show students acting beyond adult command, while the unlabeled beam and subsequent Akane fight leave outcomes open. Sensei is present but has no authored order that produces Alice's escape or shot.
+- Sensei remains `PARTIAL_MODEL`; no standalone model, generalized self-blame rule or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).

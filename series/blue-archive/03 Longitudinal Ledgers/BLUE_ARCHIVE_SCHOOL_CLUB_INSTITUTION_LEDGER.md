@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -400,3 +400,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Outage/EMP:** Akane loses Yuuka contact and suspects power interruption; Momoi/Midori report darkness and infer their engineers' planned tactic succeeded. No on-page device activation, six-second measurement or tower-wide security state is supplied.
 - **Asuna/call signs:** Asuna waits at the store approach and directly names herself C&C `01`, resolving Akane's earlier `01` call. E013's anonymous `02` remains unassigned; Karin's nearby sniper role alone is not a sufficient explicit identification.
 - **Mirror:** the group is near the seized-goods store but Asuna begins confrontation before retrieval. No file bypass or Alice rescue is shown.
+
+## V002 C001 E015 institutional delta — retasked reserves and contest-ending discipline
+
+- **Seized robots:** Yuuka orders all confiscated robots reprogrammed to obey C&C, abandoning a contemplated cleaning reuse during the emergency. Maki reports many approaching, while Yuuka later estimates nearly half disabled by one beam. Neither number is an independent exact inventory.
+- **Defense convergence:** Asuna engages the twins and admires their coordination; Karin's fire returns after Utaha's diversion by Midori's appraisal/Hare's capture report; Akane has escaped shutter confinement and converges with robots. E013's single exploit did not remove layered defense.
+- **Contingency:** a fifteen-minute-before flashback projects door lure, C&C containment, robot breach, Mirror at minute 13 and capture near minute 20; it is a planning schedule. The suggestion that not all need avoid capture is label-conflicted, and the full prearranged plan is not independently documented.
+- **Alice room/EMP:** Alice reads the power event and Hare's hacked-setting change as permission to manipulate electronic doors and escapes toward the store, then returns to companions. This confirms mobility/agency and planned cue awareness, not exact technical trace or prior consent details.
+- **Discipline:** Yuuka threatens unconditional one-week suspension or confinement, which Midori says would miss Millennium Prize, and a Schale complaint for Sensei. Threats are not final sanctions. Momoi's imagined mild `謹慎` fallback is exposed as ungrounded.
+- **Beam/result:** a beam from unlabeled firing narration, strongly associated with Alice's return/railgun, disables Asuna and nearly half the robots by Yuuka/Asuna reports. Akane prepares another fight; Mirror, file unlock and prize outcome remain absent. Rooftop Karin/Utaha voice corruption precludes person-specific motive claims.
