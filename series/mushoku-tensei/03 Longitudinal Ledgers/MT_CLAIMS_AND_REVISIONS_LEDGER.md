@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -137,3 +137,27 @@ Prior V01–V04 bodies remain historical and unchanged. Current source boundary 
 | `MT-CR-053` / `MT-C-014` | NEW: responsibility for an account changes when error becomes available to correction. | OPEN; `028` versus `007,010,017,027`; explicitly known omission differs from unavailable facts; one especially diagnostic case. | Recognized error/repair cost, not blame for all partial knowledge; knowledge/normative/form. |
 
 All substantive transitions above are strong bounded inferences unless explicitly a report, intention or unresolved proposition. C014 is a working longitudinal hypothesis from one explicit deliberate-omission case, supported by contrast rather than presumed universality. V05 registered questions, not predictions; no retrospective forecast success is claimed. The cumulative checkpoint narrows models and adds Paul/Ruijerd/Roxy without DOMAIN_READY or new source lanes.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Revision / claim | Prior → current formulation | Transition / evidence / strongest qualification | Test / dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-054` / `MT-C-001` | Distributed competence → useful action can survive dependence, defeat and global negative self-appraisal. | STRENGTHEN; `003,005,010,016,018,026–028`; unusual aptitude real, collective outcomes not sole strategy. | Changed task/support; models/state/form. |
+| `MT-CR-055` / `MT-C-002` | Local repair/intention without general transfer → further refusal/aid alongside continued intrusion and recognized vulnerability insufficiently acted on. | REVISE; `005–008,012,014,018,023`; no total absence of care or general maturation. | Comparable unpoliced choices; normative/models. |
+| `MT-CR-056` / `MT-C-003` | Fallible viewpoints and correction → Eris corrects breakup explanation while misjudging capacity; supernatural accounts useful before verified. | REVISE; `004,013,015,017,021,024–029`; local narrator confirmations distinguished from characters' theories. | Holders/truth/confidence separately; all knowledge-dependent homes. |
+| `MT-CR-057` / `MT-C-004` | V01 Sylphie refusal/comic frame → historical conclusion preserved. | PRESERVE; `021` supplies survival report, no new account of original violation; `023–024` comparative only. | No retroactive consent or new Sylphie interiority; normative. |
+| `MT-CR-058` / `MT-C-005` | Household protection, harmful means and later negotiation → Lilia's history/self-questioning give new affected-person access. | REVISE; `012,029–031`; prior assault independently focalized, maternal love coexists with imposed service; original meeting findings retained. | Whether expressed care changes available choice, not whether love exists; normative/relations/checkpoint. |
+| `MT-CR-059` / `MT-C-006` | Educational benefit without necessity proof → unchanged causal limit. | PRESERVE; `014,024,029` add practice/outcomes, not a controlled alternative validating Paul's coercive separation. | Teaching opportunities not retrospective necessity; state/model. |
+| `MT-CR-060` / `MT-C-007` | Ensemble has independent aims/work → overlapping rescue, refusal, training and information missions. | STRENGTHEN; `010,020,022,025,027–031`; unequal options and partial access remain. | Meaningful choice outside protagonist benefit; relations/models. |
+| `MT-CR-061` / `MT-C-008` | Task/learner/access fit → recipes, trained spell defense, sword instruction and disruption practice preserve instruction/feedback limits. | STRENGTHEN; `003,005,007,014,016,018,024`; quantity/future sight cannot replace learned execution. | Changed learner/task feedback; models/form. |
+| `MT-CR-062` / `MT-C-009` | Accounts distribute access and shared performance can enable care → protective secrecy can obstruct correction and reciprocal choice. | REVISE; `002,006,013,019,025–026`; motives not all exploitative, explicit decision rights also observed. | Who can contest premises before consequence; models/relations/form. |
+| `MT-CR-063` / `MT-C-010` | Dispersed disaster news → corrected record reading and organized but incomplete information delivery. | STRENGTHEN; `021,026–028`; cause/fates not universally known, lead not rescue. | Actual receipt and qualification; chronology/knowledge. |
+| `MT-CR-064` / `MT-C-011` | Gratitude mechanism depends on intervention order → prompt rescue again, with technical/interpretive limits. | STRENGTHEN; `005–006`; later admiration management does not retroactively make rescue delayed staging. | Comparable decision sequence; model003/normative. |
+| `MT-CR-065` / `MT-C-012` | Reliance needs care/shared information → perceived competence and burden can mutually intensify while useful support remains. | REVISE; `018–020,024–026`; vulnerability recognition can prompt mistaken self-exclusion, not only repair. | Explicit need and communicated interpretation; models/relations/checkpoint. |
+| `MT-CR-066` / `MT-C-013` | Usefulness distributes belonging → burden self-theory, political utility and assigned service diverge from actual affection/contribution. | STRENGTHEN; `010,020,022,025,029–031`; reciprocal friendship/embrace counter exclusively transactional theory. | Refusal/failure without loss of care, meaningful alternatives; relations/normative. |
+| `MT-CR-067` / `MT-C-014` | Known error alters responsibility → distinguish prompt inquiry, purposeful withholding and unrecognized received error. | REVISE; `019,021,025–026`; Eris conceals destination but is not shown knowing she caused a rejection interpretation. | Actual knowledge/opportunity before blame; knowledge/normative/form. |
+
+Strong bounded inference applies to the specified contrasts; reports remain reports. No new numbered claim is needed: these disclosures refine existing responsibilities. The V06 checkpoint adds a focused dependency review, preserving the V01–V05 checkpoint and all historical formulations. No registered outcome prediction or clean holdout is claimed.

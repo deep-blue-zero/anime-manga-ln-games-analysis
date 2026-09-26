@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -158,3 +158,33 @@ Prior V01–V04 bodies remain historical and unchanged. Current source boundary 
 | `MT-R-074` Rudeus → Randolph / Shagall → Randolph | Excessive criticism followed by unseen business closure and recruitment. | `025`; shame visible, later career benefit unestablished. |
 
 The repaired father–son relation does not transfer automatically to Norn, Eris or the women present. Missing relatives retain prior independent stakes; no offstage consent, romance or identity is invented.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / available options | Observation and limit |
+| --- | --- | --- |
+| `MT-R-075` Rudeus → companions | Requests detour help and accepts ideas while withholding adviser; later broadly discloses to Rui after direct question. | `002,004,019`; cooperation not initial informed agreement; Eris not present for full night disclosure. |
+| `MT-R-076` Ruijerd → Rudeus | Immediate bodily care, hostage rescue, defense, relevant inquiry and equal farewell. | `002,010,016,019–020`; care survives warrior status, power has limits. |
+| `MT-R-077` Rudeus → Ruijerd | Protective secrecy → qualified hope, privacy for tears, acknowledged autonomy and valued pendant. | `002,019–020`; no full metaphysical certainty, no right to extend escort indefinitely. |
+| `MT-R-078` Eris → Ruijerd / Ruijerd → Eris | Sustained practice, meaningful recognition, farewell instruction and guarded emotion. | `014,020,024`; new report of training hit qualifies Rudy's account; no invulnerability. |
+| `MT-R-079` Rudeus → Aisha | Prompt rescue/care and defense against assigned role coexist with esteem management and misleading conditional offer. | `005–006,012–013`; not pure exploitation or perfect honesty. |
+| `MT-R-080` Aisha → Rudeus | Seeks aid, questions reputation, recognizes alias, chooses admiration and later service interest. | `006,013,029`; age, upbringing and overcredited rescue limit fully independent judgment. |
+| `MT-R-081` Lilia → Rudeus / Rudeus → Lilia | Lilia offers devotion and proposed daughter service; Rudeus rejects sole credit and the proposal, supplies funds and travel advice. | `011–012`; Lilia knows the escorts and court, while gratitude and subordinate dependence persist. |
+| `MT-R-082` Lilia → Aisha | Teaches useful skills, protects from immediate threat, imposes future role; rare praise/embrace. | `012,029–031`; affection real, choices constrained. |
+| `MT-R-083` Aisha → Lilia | Resists unexplained purpose, teases through superior information, welcomes unexpected affection. | `029,031`; changed admiration does not validate all prior controls. |
+| `MT-R-084` Ginger / soldiers → captives / Zanoba | Separate plans under hostage pressure; craft interest recruits force, freed families enable action. | `007–010`; lethal methods and withheld information remain, not one Rudy plan. |
+| `MT-R-085` Zanoba ↔ Rudeus | Craft admiration creates pupil/master authority; liberation bargained for, later gratitude/fear and injury coexist. | `009–011`; no harmless eccentric or universally benevolent teacher. |
+| `MT-R-086` Orsted → party / Nanahoshi → Orsted | Initial departure turns to attack at Hitogami name; intervention followed by reported healing. | `015–018`; motives/knowledge mechanism unresolved, help does not erase attempted killing. |
+| `MT-R-087` Hitogami ↔ Rudeus | Negotiated advice, beneficial outcome, challenged omission and partially accepted explanation. | `002,011,017`; noticed contradiction survives; actual motive not established. |
+| `MT-R-088` Rudeus → Eris | Credits training yet retains child framing; care/promise, respects solitude and choice; assumes shared future then rejection. | `014,018,021–023,026`; boundary failures and hidden fear remain. |
+| `MT-R-089` Eris → Rudeus | Protects/tends, idealizes capacity, sees vulnerability, seeks family and chooses distance to train. | `016,018,023–025`; burden self-theory contradicted by actual care; destination deliberately withheld. |
+| `MT-R-090` Ghislaine / Alphonse → Eris | Personal welfare versus domain restoration, competing proposals, training accompaniment versus cover story. | `021–022,025–026`; no single retainer speaks her full intentions. |
+| `MT-R-091` Rudeus / Alphonse → reconstruction | Practical defenses and continuing domain work despite personal rupture. | `026`; initial desolation not absence of all rebuilding; no proof equitable recovery. |
+| `MT-R-092` Roxy → missing family / companions | Gives up reward and reunion, questions vague lead, joins split message mission. | `027–028`; others contribute ideas/access; no completed delivery. |
+| `MT-R-093` Kishirika / Badigadi / Elinalise / Talhand → search | Sight, private transport access and divided travel expand possibilities; personal preferences persist. | `027–028`; Roxy misknows sailing party, restriction remains general. |
+| `MT-R-094` Paul → Lilia / father → Lilia | Historical assault and flight versus refusal to force marriage and alternative employment route. | `030`; causal setting not excuse, later family attachment not retroactive consent. |
+
+Reciprocity is tested by information and options, not only declarations of love or thanks. The two central departures have different communication structures and cannot be collapsed into a universal abandonment pattern.

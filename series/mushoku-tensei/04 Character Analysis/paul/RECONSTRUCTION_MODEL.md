@@ -1,23 +1,23 @@
 ---
-title: "Paul — bounded reconstruction through V05"
+title: "Paul — bounded reconstruction through V06"
 artifact_id: MT_PAUL_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e"
-source_boundary: "Japanese LN V01–V05 only; first bounded Paul model/index in V05 transaction, publication/audit separate."
+basis_commit: "3dc6b173b044abdafc013dc989bd96914620d13d"
+source_boundary: "Japanese LN V01–V06; preserved history with V06 revision 1.1; publication/audit separate."
 ---
 
 # Paul: care, capability expectations and incomplete correction
 
-Local key `Paul`, continuity `LN_JP`; `character_entity_id: null`, `analysis_subject_id: null`. Admitted witnesses `MT-LNJP-V01` through `MT-LNJP-V05`; frozen base `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`, plus the V05 transaction containing this first model. The [V01–V05 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns activation reasoning. The [evidence index](EVIDENCE_INDEX.md) provides full routes.
+Local key `Paul`, continuity `LN_JP`; `character_entity_id: null`, `analysis_subject_id: null`. Admitted witnesses `MT-LNJP-V01` through `MT-LNJP-V06`; current V06 input `3dc6b173b044abdafc013dc989bd96914620d13d`. Initial V05 frozen base `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`, plus the V05 transaction containing this first model. The [V01–V05 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns activation reasoning. The [evidence index](EVIDENCE_INDEX.md) provides full routes.
 
 The model owns operational rules; its index routes canonical observations and the shared state ledger owns observed transitions. It permits D1 NEAR_ANALOG reconstruction from D0 DIRECT source evidence only in the named states. Historical reports remain attributed. No generated scene, modern-setting persona, clinical diagnosis, actor delivery, later LN, WN, adaptation or reception supplies evidence. Prior franchise/model familiarity persists; all initial calibration is retrospective fitting, never a clean holdout or a numerical prediction score. No domain is DOMAIN_READY. Global curation remains separate.
 
@@ -61,3 +61,14 @@ Geese is an old companion whose concrete knowledge can puncture Paul's assumptio
 | `MT-PM-V05` | Forced V01 separation versus offered V05 options:005 needs state/knowledge conditions. | No retrospective proof separation necessary. |
 
 Bounded parenting/correction, familiar written speech and observed search leadership are BOUNDED_PROVISIONAL. Durable sobriety, general noncoercive parenting, unfamiliar political strategy and inner states of absent relatives are INSUFFICIENT_EVIDENCE. Refuse outputs that vindicate assault through later service, assume all attractive colleagues are partners, make remorse a guarantee, or give him Rudeus's memories. Version1.0 records the initial V05 model; future revisions retain these IDs and tests.
+
+
+## V06 historical evidence check and revision 1.1
+
+The [V06 reading](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md), especially030–031, adds Lilia's focalized history of the assault, resistance and aftermath. It corroborates the act already admitted through V01 and Paul's V05 memory while adding consequences and her father's alternative to forced marriage. This is REVEALED_NOT_NEW. No additional present-day selector is created. Reports placing the reunited family with Paul (027–028) do not supply a witnessed new parenting decision.
+
+| Test | New evidence / result | Debt |
+| --- | --- | --- |
+| `MT-PM-V06` historical negative constraint | Lilia's resistance, subsequent mistrust and alternative employment route (V06:030) reinforce separation of assault from later domestic attachment. | Current care/remorse cannot vindicate past harm; peers' hostility explains context, not justification. |
+
+The original six rules and five state selectors remain applicable to their observed eras. V06 supplies no fresh equivalent opportunity for001–006; none is scored as passing from absence. Later affection, household continuity or Aisha's enthusiasm does not revise earlier consent. Paul's current knowledge of Lilia's unspoken insecurity is unavailable. The [disclosure checkpoint](../../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) records the dependent normative revision without inventing behavioral change. Readiness remains BOUNDED_PROVISIONAL.

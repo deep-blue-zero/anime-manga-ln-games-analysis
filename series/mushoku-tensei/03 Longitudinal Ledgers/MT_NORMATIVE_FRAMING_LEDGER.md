@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -187,3 +187,41 @@ Prior V01–V04 bodies remain historical and unchanged. Current source boundary 
 **`MT-NC-024`:** N022/N045/N054/N059–060: Eris's loyalty, partial restraint, care, retaliation and defense operate under different conditions. No always-violent or always-justified rule.
 
 Criteria remain analyst judgments, separate from character law, narrator comedy, author intention or reception. No explicit sexual reconstruction or simulated scenario involving minors is used.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Event / observation | Conduct, conditions, affected access and framing | Criterion / bounded conclusion |
+| --- | --- | --- |
+| `MT-N-066` / `002,004` | Protective withholding, partial route briefing and interpreted advice; companions cooperate without full premise. | Informed participation; concern is plausible, consultation incomplete. |
+| `MT-N-067` / `005–006` | Prompt nonlethal child rescue, technical failure and unresentful care; later identity/esteem management. | Aid and proportionality credited; later motive cannot rewrite intervention order, criticism of past conduct remains accurate. |
+| `MT-N-068` / `007–008` | Slave-market indifference/objectification, royal coercion, family hostages and threatened sexual captivity. | Bodily freedom/agency; specific familial aid does not generalize, constrained soldiers not freely complicit in every act. |
+| `MT-N-069` / `008–010` | Refuses slander of Roxy; craft admiration, instrumental apprenticeship, tolerated royal violence and effective force-based liberation. | Particular loyalty separate from universal virtue; beneficiaries do not erase victims or unequal accountability. |
+| `MT-N-070` / `012–013` | Rudy rejects child separation/sexualized service, yet uses misleading identity and possession analogy; child recognizes him. | Welfare and choice; refusal is real, gratitude does not justify theft or make every assigned role voluntary. |
+| `MT-N-071` / `014,018` | Recognition and care coexist with unwanted touching and continued intrusive attention. | Limited permission remains limited; protection/near death does not certify durable change. Non-graphic comparison only. |
+| `MT-N-072` / `015–016` | Orsted attacks at information disclosure; companions protect, Rudy improvises and attempts indiscriminate force while gravely impaired. | Attacker responsible; no deserved punishment for curiosity. Prevention of collateral harm is not restraint; differs from deliberate V03 flood plan. |
+| `MT-N-073` / `019–020` | Qualified disclosure, privacy around tears, mutual recognition and accepted independent departure. | Care and autonomy; truth of report not settled by good emotional result. |
+| `MT-N-074` / `021–022` | Death reports and political sacrifice proposal; Ghislaine resists, Rudy returns decision authority to Eris. | Affected-person choice against instrumentalization; rebuilding needs remain real, motive includes possessiveness. |
+| `MT-N-075` / `023–025` | Bereaved adolescent initiates intimacy; younger bodily age/adult memory/tutoring role, hesitation and parental scripts complicate choices. | Non-graphic agency/consent analysis; later love cannot authorize earlier violations, mutual future not actually agreed. |
+| `MT-N-076` / `025–026` | Eris deliberately conceals destination for training; inadequate note misread as rejection. | Right to leave distinguished from communication responsibility; no evidence she knows resultant despair. |
+| `MT-N-077` / `027–028` | Reward/reunion forgone for search; borrowed funds settle damage, private exception enables separate message mission. | Real costs and care without pure-motive or institutional-reform claim; news not yet delivered. |
+| `MT-N-078` / `029–030` | Child's constrained service enthusiasm; Lilia history explicitly establishes assault resistance/aftermath and paternal alternative. | Bodily autonomy and meaningful options; context/later attachment do not excuse earlier harm, skill gains not necessity proof. |
+| `MT-N-079` / `031` | Genuine maternal protection taken as validation of assigned future; rare embrace meets child's emotional need. | Love does not justify every choice; warm local repair retains control and untested future alternatives. |
+
+**`MT-NC-025`:** N027/N050/N067 contrast delayed gratitude optimization, mistaken immediate aid and successful immediate aid with costs. Later image management does not erase the order of rescue.
+
+**`MT-NC-026`:** N039/N046/N057/N070–071/N075 compare particular restraint/resolve and renewed boundary failure. Relationship, opportunity, vulnerability and actual action remain separate; no sexualized generated test.
+
+**`MT-NC-027`:** N029/N072 compare deliberated protective devastation with impaired high-output attack. Neither is harmless intent, but they are not interchangeable evidence for one trigger rule.
+
+**`MT-NC-028`:** N055/N066/N073/N076 compare mutually understood performance, protective secrecy, qualified disclosure and intentionally compressed departure information. Benevolent motive cannot replace shared premises; known error still differs from unknown interpretation.
+
+**`MT-NC-029`:** N051/N057/N078–079 compare acknowledged assault/domestic continuity, new affected-person history and parenting. Later attachment does not alter past consent; a father choosing an alternative undermines inevitability arguments.
+
+**`MT-NC-030`:** N061/N069/N074/N077 compare personal exception, court utility, proposed sacrifice and private maritime access. Effective benefit is distinct from fair institutions or general reform.
+
+**`MT-NC-031`:** N048/N055/N063/N073/N079 compare care across unequal roles. Affection can be nontransactional while dependency or assigned usefulness persists; warmth alone does not resolve authority.
+
+These are explicit analyst criteria, not claims about universal reader response, authorial intention or reception. Differences in power and knowledge remain part of each comparison.

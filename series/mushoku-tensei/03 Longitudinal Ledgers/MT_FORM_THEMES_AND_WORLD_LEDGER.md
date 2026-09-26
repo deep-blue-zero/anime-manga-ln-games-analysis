@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -156,3 +156,30 @@ Prior V01–V04 bodies remain historical and unchanged. Current source boundary 
 | `MT-W-012` NEW | Information work has clients, territorial limits, payment and correction costs. | `026–028`; one investigator does not represent all professionals. |
 
 The first cumulative checkpoint now owns the comparison across volumes. No overlapping standalone specialist is created merely for these themes; reconsider when an independent argument or role gap is earned. New bounded Paul/Ruijerd/Roxy models own operational rules, not these form/world patterns.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Pattern / transition | V06 mechanism | Observations / limit |
+| --- | --- | --- |
+| `MT-F-001/009` REVISE | Court explanation reveals concurrent work; Eris corrects Rudy while misjudging him; final extra alternates mother/child access. | `010,024–031`; corrective viewpoint not universally accurate. |
+| `MT-F-002/007` REVISE | Geographic return ends escort, not restoration; histories/interlude/extra break simple book-order chronology. | `020–031`; no imposed whole-series arc. |
+| `MT-F-003` STRENGTHEN | Route skills, captivity, court protocols, destroyed home and private sea exception define feasible movement. | `001,007–010,021–022,028`; mobility not freedom for everyone. |
+| `MT-F-004/005` STRENGTHEN | Carpenter, recipes, guards' teaching, companions, bodily care and reconstruction make work causal. | `003,005,007,010,018,026–028`; high aptitude remains real. |
+| `MT-F-006/010` REVISE | Prison pitch, craft comedy, morning boast and sudden fragmented questions alter affective distance. | `008–010,023–026`; comedy not automatic exoneration or reader-response claim. |
+| `MT-F-008/011` REVISE | Advice sequence differs from execution; guarded information slips through shared vocabulary; compressed note produces divergent meaning. | `002,004,015,019,025–026`; protective intent not enough for shared interpretation. |
+| `MT-F-012` STRENGTHEN | Immediate rescue later becomes esteem management; gratitude redirected to companions and specific acts. | `005–006,011,013,020`; no retroactive delayed-rescue motive. |
+| `MT-F-013` REVISE | Prince as military asset, noble girl as rebuilding resource, sister as servant, lover as self-declared burden. | `010,022,025,029–031`; care/handshake/embrace oppose purely transactional reading. |
+| `MT-F-014` REVISE | Multiple predicted deaths cannot supply execution; powerful sight yields incomplete location; imagined alternative histories remain unobserved. | `011,015–017,027`; supernatural information is not omniscience. |
+| `MT-F-015` REVISE | Wiped mouth, campsite care, warrior tears, held hand and rare maternal embrace communicate need. | `002,018–021,031`; embodied recognition can coexist with continuing control. |
+| `MT-F-016` STRENGTHEN | Record inquiry corrects a feared inference; intended message and received conclusion remain separate. | `021,025–028`; C014 requires actual knowledge of error. |
+| `MT-F-017` NEW | Shared terms carry incompatible self-appraisals: strength, warrior, family and balanced standing. | `014,018,020,023–026`; close reading of language plus knowledge, not translation mystery. |
+| `MT-W-001/005` REVISE | Anti-magic barrier, spell defense, lung-dependent chanting, bodily skill, disruption and large mana reserves separate capacities. | `005,007–008,014–018`; observed constraints stronger than complete combat hierarchy. |
+| `MT-W-003/009/010` STRENGTHEN | Hostage labor, royal military utility, exile euphemism, aristocratic transfer and reconstruction patronage. | `007–010,021–022,026`; motives partly inferred; specific relief not system reform. |
+| `MT-W-006/012` REVISE | Survival lists have conventions; costly physical message delivery remains necessary. | `021,027–028`; no current address/recovery guarantee. |
+| `MT-W-008` REVISE | Hitogami's attributed curse account supplements fear explanations and explicitly leaves learned prejudice. | `017,019`; do not overwrite prior social evidence or certify interested testimony. |
+| `MT-W-013` NEW | Divine recognition anomalies and visibility/aversion restrictions enter as unequal observations/reports. | `015–019,027–028`; full mechanism and motives withheld; no later cosmology. |
+
+The targeted V06 checkpoint reviews new knowledge premises and model dependencies. The V01–V05 cumulative checkpoint remains unchanged; next scheduled cumulative reviews are V10 and V15. No new source lane, monograph or duplicative specialist is activated.

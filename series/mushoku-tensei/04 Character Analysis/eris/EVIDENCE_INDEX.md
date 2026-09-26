@@ -1,18 +1,18 @@
 ---
-title: "Eris — reconstruction evidence routes through V05"
+title: "Eris — reconstruction evidence routes through V06"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e"
-source_boundary: "Japanese LN V01–V05; preserved model history with V05 diagnostic revision1.1; publication/audit separate."
+basis_commit: "3dc6b173b044abdafc013dc989bd96914620d13d"
+source_boundary: "Japanese LN V01–V06; preserved history with V06 revision 1.2; publication/audit separate."
 ---
 
 # Eris evidence routes
@@ -47,3 +47,10 @@ New numbers resolve in [V05](../../02%20Sequential%20Readings/MT_V05_DEEP_READIN
 | Ordinary / autonomy | 001–002,015,017–020,022 | Dress, food, ambition, refusal, teachers and independent debt; more than protagonist attachment. |
 
 V05 adds focalized interior access without making Rudeus's earlier readings omniscient. Four new diagnostic checks retain initial retrospective history; none is a clean holdout.
+
+
+## V06 additions for revision 1.2
+
+New source-owned observations resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings): `003–004,014–016,018,020–025`. The [disclosure checkpoint](../../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) records changed knowledge premises. Operational tests `V10–13; states ST07–08/S070–072` are in the model's V06 section; its rule-specific rows give supporting observations and countercases. Earlier routes and tests remain historical, not a current evidence ceiling.
+
+The new source is read after the prior fixed rules, but selection and franchise familiarity prevent a clean holdout claim. Attributed claims, retrospective motives and current actions remain separate; no generated scenario enters evidence. All readiness stays BOUNDED_PROVISIONAL, with no global enrollment or mature monograph.

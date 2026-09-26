@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -179,3 +179,36 @@ Prior V01–V04 bodies remain historical and unchanged. Current source boundary 
 | `MT-K-049` Ariel inquiry | Bruno observes killing but infers identity; Gustav asserts death, lookout contradicts, Gustav knowingly leaves report. | `026–028`; final framing confirms falsehood, disguise mechanism inferred, later politics not narrated. |
 
 Source interpretation distinguishes event, report, prediction and chosen ignorance. The continuing absence of confirmed family locations or Fitts's earlier name is not a missing extraction route.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Chronology | Anchor / order | Observation / limit |
+| --- | --- | --- |
+| `MT-T-032` | Opening guild card says twelve; route/search summaries give roughly two years after displacement and months of travel. | `001–004`; not a verified exact birthday/calendar. |
+| `MT-T-033` | Shirone letter precedes Aisha rescue, false invitation, prison day and overlapping liberations; escorted family then separates. | `004–013`; retrospective explanation supplies earlier concurrent actions, not a second rescue. |
+| `MT-T-034` | Road training/recognition precede mountain attack; later Eris identifies recognition as fifteenth birthday. | `014–018,023`; travel-month and age approximations retained without forced reconciliation. |
+| `MT-T-035` | Recovery → three-day aftermath/Asura entry → about a month north → camp, intimacy/departure, week of distress and northbound search. | `018–026`; source order and reported intervals, no invented exact date. |
+| `MT-T-036` | Eris's retrospective section revisits V02–V06; Zanoba and Lilia histories precede present action. | `010,024,030–031`; REVEALED_NOT_NEW, not current change in childhood. |
+| `MT-T-037` | Roxy interlude reports Lilia/Aisha already with Paul; final extra returns to their earlier escorted journey. | `027–031`; book order is not a universal time sequence; estimated delivery time not completed delivery. |
+
+| Knowledge | Holder / change | Observation / limit |
+| --- | --- | --- |
+| `MT-K-050` Advice / Roxy | Hitogami supplies ordered instruction; Rudy assumes court employment, writes early and partially briefs companions. | `002,004,007`; instruction, interpretation and actual outcome distinct. |
+| `MT-K-051` Aisha identity | Rudy thinks alias effective; Aisha recognizes him; extra confirms knowledge while Lilia misreads it. | `006,013,029`; exact proposed test partly Rudy inference; every private thought not shared. |
+| `MT-K-052` Court plans | Ginger, soldiers, Zanoba and Ruijerd act with unequal information; Rudy learns motives/history later. | `007–011`; no earlier omniscient strategy, no guaranteed alternative history. |
+| `MT-K-053` Orsted | Recognizes companions, denies Paul-son expectation, detects absence of aversion, attacks at Hitogami name. | `015–016`; anomaly observed, causal world explanation unknown. |
+| `MT-K-054` Curse claims | Hitogami claims aversion, visibility limits, transfer/attenuation; Rudy notices inconsistency and later tells Rui with caution. | `017,019`; attributed useful account, not independently settled law; social prejudice remains. |
+| `MT-K-055` Healing / strength | Eris reports Nanahoshi's intervention and Orsted's healing; Rudy recovers, feels dreamlike; Eris reads resolve where he intends escape. | `016,018,024`; intervention motive and psychological cause unresolved. |
+| `MT-K-056` Training account | Eris reports one hit on distracted Rui; Rudy earlier claimed none. | `014,016,024`; retain differing knowledge/scope, not silently harmonized statistic. |
+| `MT-K-057` Home deaths / Darius | Staff report family deaths; Ghislaine verifies parents, Alphonse names kidnap patron and prospective transfer risk. | `021–022`; exact death circumstances and political causation partly withheld/inferred. |
+| `MT-K-058` Records | Rudy misreads crossing-out, asks clerk, learns Sylphie reported alive without contact address; updates Lilia/Aisha. | `021`; record presence not complete biography, high confidence survival report not observed encounter. |
+| `MT-K-059` Eris departure | Eris intends training/future partnership, withholds destination; Rudy reads note as rejection; Alphonse obeys nondisclosure. | `023–026`; reader knows more, Eris not shown knowing his resulting interpretation. |
+| `MT-K-060` Reconstruction | Rudy first sees desolation, later builds defenses and observes recovering settlements. | `021,026`; no-rebuilding first impression revised; Eris death is planned cover. |
+| `MT-K-061` Search lead | Kishirika reports Zenith alive near Rapan with unclear circumstances; Roxy probes, chooses to trust and plans delivery. | `027–028`; Rudy has not received it, dungeon explanation conjectural, rescue unobserved. |
+| `MT-K-062` Departure party | Roxy assumes Kishirika sails; narrator/Elinalise learn she stays due restriction. | `028`; particular misinformation, not total incompetence. |
+| `MT-K-063` Lilia history | Reader gains resistance, aftermath, paternal alternative and maternal self-questioning; present family does not receive this full narration. | `030–031`; affection and confidence in plan are different propositions. |
+
+Neither the source's ending order nor reader access transfers knowledge to a character. New testimony revises current interpretation without altering the V01–V05 freezes.

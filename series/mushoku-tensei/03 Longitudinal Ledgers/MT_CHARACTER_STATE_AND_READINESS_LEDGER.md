@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -194,3 +194,41 @@ Prior V01–V04 bodies remain historical and unchanged. Current source boundary 
 | Others / admitted contexts | Preserve bounded ledger descriptions; no new broad package. | Sylphie/Zenith/Lilia partly reported; Geese motive gaps; court aliases/limited comparison; affected-person access uneven. |
 
 No DOMAIN_READY, mature monograph or global enrollment. The checkpoint documents why the cumulative argument stays there and why these three operational responsibilities are newly distinct.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Event / local key | Prior → represented change / kind | Evidence and limit |
+| --- | --- | --- |
+| `MT-S-066` / Rudeus | Revised V05 travel → partial family detour disclosure, ordinary experimentation and inaccurate court plan. CONTEXT / KNOWLEDGE_CHANGE. | `001–004`; age twelve, advice interpreted beyond wording, learning not omniscience. |
+| `MT-S-067` / Rudeus | Immediate rescue → concealed brotherhood, trap and dependence on independent rescuers. CONTEXT / RELATIONSHIP_CHANGE. | `005–013`; particular loyalty/refusal, self-credit minimized, Aisha misread. |
+| `MT-S-068` / Rudeus | Confident approach → catastrophic defeat, external survival, qualified disclosure and modest technical adaptation. CONTEXT / KNOWLEDGE / PRACTICE_CHANGE. | `015–020`; dreamlike aftermath self-reported, no general recovery or verified curse cosmology. |
+| `MT-S-069` / Rudeus | Return with imagined future → family loss, decision-right advocacy, misunderstood departure and self-condemnation. CONTEXT / RELATIONSHIP_CHANGE. | `021–026`; useful reconstruction and renewed search survive distress; Eris's intention unavailable. |
+| `MT-S-070` / Eris | V05 learner/companion → sustained practice and warrior recognition, then protective intervention and traumatic defeat. COMPETENCE / CONTEXT_CHANGE. | `014–018`; local recognition not universal invulnerability; birthday fifteen retrospectively identified. |
+| `MT-S-071` / Eris | Earlier outward confidence → disclosed inferiority, fear of replacement and repeated idealization. REVEALED_NOT_NEW. | `024`; access changes now, motives do not suddenly originate now; own claims sometimes incorrect. |
+| `MT-S-072` / Eris | Grief and dependence → seeks family bond, chooses training, rejects noble role and withholds destination. RELATIONSHIP / DECISION_CHANGE. | `021–025`; intended future partnership differs from received message; no achieved training outcome. |
+| `MT-S-073` / Ruijerd | Protective companion → practical care, hostage rescue, defeat and demand for relevant disclosure. PRACTICE / CONTEXT_CHANGE. | `002,010,014–019`; warrior designation can coexist with care; not infallible classification. |
+| `MT-S-074` / Ruijerd | Reputation work under uncertainty → qualified hope, reciprocal recognition and independent departure. KNOWLEDGE / RELATIONSHIP_CHANGE. | `019–020`; curse report not proof, local acceptance not general reform. |
+| `MT-S-075` / Roxy | Continuing search → chance opportunity, qualified location lead and divided information mission. KNOWLEDGE / DECISION_CHANGE. | `027–028`; gives up reward/reunion, mistakes persist; lead not rescue or delivered message. |
+| `MT-S-076` / Lilia | Earlier domestic history → assault consequences, insecure gratitude and self-questioned maternal purpose disclosed. REVEALED_NOT_NEW. | `030–031`; father supplied alternative, no clinical diagnosis or retroactive consent. |
+| `MT-S-077` / Lilia | Captive protector → rescued mother, proposed service arrangement and rare expressed affection. CONTEXT / RELATIONSHIP_CHANGE. | `008,012,029–031`; certainty of love leaves control intact; no complete reform. |
+| `MT-S-078` / Aisha | Imposed education/detention → communication initiative, rescue, identity recognition and changed admiration. KNOWLEDGE / RELATIONSHIP_CHANGE. | `005–006,013,029,031`; cleverness and consent to service remain age/context limited. |
+| `MT-S-079` / Zanoba | Craft collector with later-disclosed violent history → coercive rescuer and would-be pupil, then exile. REVEALED_NOT_NEW / CONTEXT_CHANGE. | `009–010`; narrow sensitivity is not general empathy; affectionate act injures. |
+| `MT-S-080` / Ginger and soldiers | Hostage-constrained service → independent overlapping rescue plans and escorted return. CONTEXT / AGENCY_CHANGE. | `007–010`; different information, motives and methods; not mere royal obedience. |
+| `MT-S-081` / Ghislaine and Alphonse | Returned retainers → incompatible welfare/domain commitments, Eris's choice and continuing reconstruction. REVEALED_NOT_NEW / CONTEXT_CHANGE. | `021–022,026`; neither speaks for all her wishes; reconstruction real despite initial impression. |
+| `MT-S-082` / Paul, Sylphie, Zenith | Prior absence → historical affected-person evidence and differentiated survival/location reports. KNOWLEDGE_CHANGE / REVEALED_NOT_NEW. | `021,027–030`; no new directly observed present Paul choice, Sylphie address absent, Zenith circumstances unknown. |
+| `MT-S-083` / Orsted, Nanahoshi, Hitogami | Unknown relevant actors → attack/intervention and competing attributed explanations. REVEALED_NOT_NEW. | `015–019`; action known more firmly than identity mechanism/motive; no broad persona. |
+
+| Local key / domain | Current readiness and home | Calibration limit |
+| --- | --- | --- |
+| Rudeus / learning, coordination, written register, particular repair | BOUNDED_PROVISIONAL; [model 1.3](../04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/rudeus/EVIDENCE_INDEX.md). | Add ST12–15 and checks V18–23; global despair not objective no-growth verdict, no reliable high-stakes or consent transfer. |
+| Eris / practical learning, loyalty, refusal and independent appraisal | BOUNDED_PROVISIONAL; [model 1.2](../04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/eris/EVIDENCE_INDEX.md). | Add ST07–08 and checks V10–13; new interiority not infallibility, peer-repair transfer remains untested. |
+| Ruijerd / care, classification, training, friendship | BOUNDED_PROVISIONAL; [model 1.1](../04%20Character%20Analysis/ruijerd/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/ruijerd/EVIDENCE_INDEX.md). | Add ST05–06 and checks V06–08; hope is not metaphysical verification or universal reform. |
+| Roxy / work, qualified inquiry and search coordination | BOUNDED_PROVISIONAL; [model 1.1](../04%20Character%20Analysis/roxy/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/roxy/EVIDENCE_INDEX.md). | Add ST05 and checks V06–08; no reliable forecasting, broad romance persona or completed mission. |
+| Paul / prior observed domains | BOUNDED_PROVISIONAL; [model 1.1](../04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/paul/EVIDENCE_INDEX.md). | New historical source check V06; no invented current behavioral transition or fresh opportunity for rules001–006. |
+| Lilia, Aisha, Zanoba / represented contexts | Richer bounded ledger descriptions; new broad package deferred. | Concentrated new focalization needs transfer checks; targeted checkpoint owns distinct explanatory finding. |
+| Other actors / missing or hidden domains | Preserve earlier bounds; no global enrollment or new general persona. | Motive gaps, hearsay and unseen future remain explicit. |
+
+No domain becomes DOMAIN_READY. No generated scenario or sexualized minor scenario supplies evidence.
