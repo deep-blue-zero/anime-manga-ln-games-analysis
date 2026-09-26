@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.57"
+version: "11.58"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 205 complete i-n-g primary documents / T7S_B0080–T7S_B0156; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 208 complete i-n-g primary documents / T7S_B0080–T7S_B0157; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 451`; `directional_relationship_states = 646`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0156, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 460`; `directional_relationship_states = 654`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0157, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3601,3 +3601,44 @@ The [B0156](../02%20Readings/T7S_B0156_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0646` | Tomoe → Player, **autonomy with continued praise need** | Chooses own song, says she will walk on her own, asks future praise and presence. C:P1–79,195–199. Reciprocal `REL-0645`; dependence not proof autonomy failed. |
 
 `T7S_B0156_CLOSE-20260926`: nine epistemic states, four directional relationship pairs and existing-character/unit annotations; unnamed fan remains role-specific, no new identity or unit.
+
+## B0157 Madoka as performer and fictional Kanna
+
+The [B0157](../02%20Readings/T7S_B0157_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.59, binds these updates. Existing Madoka `CHAR-0062`, Kyoko `CHAR-0059`, Honoka `CHAR-0063`, Xiao `CHAR-0076`, Hime `CHAR-0009`, Sumire `CHAR-0013`, Kajika `CHAR-0020`, Player `CHAR-0001` and Nanastar `UNIT-0002` suffice. Film-character Kanna/Nagase, unnamed director/assistant and generic actor art do not justify external-world stable identities.
+
+| Existing stable ID / role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0062` / Madoka | Accepts incomplete offer, struggles with ninkyo script, falls during drill, studies Kanna, makes a director-retained on-set change, finishes shoot and gains modest confidence. | A:P0–93; B:P1–130; C:P1–103. One film role, not actual gang identity or proven next career. |
+| `CHAR-0059` / Kyoko | Offers acting advice, identifies genre, asks for time/possible withdrawal, tests forceful speech, apologizes for snapping and recognizes Madoka's study. | A:P0–93; B:P1–65; C:P39–67. Coaching is mixed, not certified training. |
+| `CHAR-0063` / Honoka | Supports considering withdrawal, offers role-as-encounter metaphor and ice cream, helps Madoka find Kanna's emotional logic. | A:P83–93; B:P66–130. Encouragement does not void choice to leave. |
+| `CHAR-0076` / Xiao | Shares early acting difficulty and joins rehearsal/martial-cries experiment. | A:P0–34; B:P22–65. Her cries are not authentic ninkyo technique. |
+| `CHAR-0009` / Hime; `CHAR-0020` / Kajika | Hime presses running drill; Madoka falls and Kajika supplies a bandage. | B:P22–50. Minor injury/care shown, no assessed training safety. |
+| `CHAR-0013` / Sumire | Joins peer support/rehearsal observations. | B:P1–65; C:P39–67. No independent casting or film-authority role. |
+| `CHAR-0001` / Player | Communicates offer and eagerness, advances shoot, encourages/escorts minors, watches take, speculates about future acting and Nanastar departure. | A:P0–93; B:P66–130; C:P1–103. Support and scheduling error coexist; speculation not contracts. |
+| `UNIT-0002` / Nanastar | Peers support Madoka's first film work; film production is external. | A–C. No verified minor-performer labor agreement, rehearsal-injury rule or film release. |
+| Kanna / Nagase / director / assistant | Kanna and Nagase are fictional roles; director and assistant are production roles with distinct on-set decisions. | A:P37–93; C:P1–87. No external murder/gang record or invented full personal identity. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0452` | Player reports director saw stream; peers guess why Madoka was chosen; she knows only middle-school-girl role before saying yes. | A:P0–34. Director's actual initial criterion not yet disclosed. |
+| `KNOW-0453` | Kyoko identifies ninkyo/Kanna from script; Madoka realizes threatening role; Player announces accelerated schedule he helped cause. | A:P37–93. No renewed informed acceptance documented. |
+| `KNOW-0454` | Director asks confidence; peers distinguish accurate lines from felt force. | B:P1–21,126–130. No full filmed-audio judgment. |
+| `KNOW-0455` | Peers observe scrape and failed dialect/martial drills; Madoka hears “cute” as evidence she is unfit. | B:P22–65. Her inference is not ability verdict. |
+| `KNOW-0456` | Honoka shares role metaphor and earlier fear; Madoka says she can understand some of Kanna's grief; Player finds them late and escorts them. | B:P66–130. No destiny or formal safety procedure. |
+| `KNOW-0457` | Assistant identifies unscripted change; director knowingly keeps filming and approves Madoka's spoken challenge. | C:P1–42. One take, final cut unknown. |
+| `KNOW-0458` | Peers learn how intensely Madoka studied; director mistakenly interprets prior insecurity as deliberate setup. | C:P39–67. His belief is contradicted by earlier distress. |
+| `KNOW-0459` | Director reveals dialect-based initial selection and evaluates later work positively; Madoka hears both. | C:P68–87. No next contract or public response. |
+| `KNOW-0460` | Madoka names bounded pride and continued Nanastar desire; Player imagines offers/departure, then hears unfinished embarrassed disclosure. | C:P92–103. No confirmed romance or career pivot. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0647` | Player → Madoka, **opportunity support and schedule haste** | Brings offer, conveys excitement prematurely, watches work, escorts late and praises. A:P0–93; B:P66–130; C:P1–103. Reciprocal `REL-0648`; good intent not full disclosure. |
+| `REL-0648` | Madoka → Player, **choice, reliance and bounded attachment** | Accepts offer, rehearses, wants to remain at Nanastar, trails off after “with you.” A:P0–34; B:P66–130; C:P92–103. Reciprocal `REL-0647`; romance not confirmed. |
+| `REL-0649` | Honoka → Madoka, **empathetic role coaching** | Offers ice cream/metaphor and prompts Kanna perspective. A:P83–93; B:P66–130. Reciprocal `REL-0650`; no compulsory perseverance. |
+| `REL-0650` | Madoka → Honoka, **accepting analogy while choosing work** | Confesses possible withdrawal, listens, translates Kanna's feeling into rehearsal. B:P66–130. Reciprocal `REL-0649`; no proof this alone caused take. |
+| `REL-0651` | Kyoko → Madoka, **mixed professional-peer coaching** | Notes genre, protects consideration time, tests speech, recognizes annotated script. A:P37–93; B:P1–65; C:P39–67. Reciprocal `REL-0652`; harsh/cute dynamics not idealized. |
+| `REL-0652` | Madoka → Kyoko, **seeking practical acting guidance** | Brings script difficulty, joins drills, later shows work. A:P37–93; B:P1–65; C:P39–67. Reciprocal `REL-0651`; no certified mentorship. |
+| `REL-0653` | Director → Madoka, **casting and retained performance judgment** | First chooses dialect, orders camera continued on improvisation, praises growth at wrap. C:P15–87. Reciprocal `REL-0654`; no contract or release outcome. |
+| `REL-0654` | Madoka → director, **accepting role then interpreting beyond script** | Completes filming and unscripted spoken challenge with director assent. A:P0–93; C:P1–87. Reciprocal `REL-0653`; not blanket permission to alter productions. |
+
+`T7S_B0157_CLOSE-20260926`: nine epistemic states, four directional relationship pairs and existing-character/unit annotations; fictional and unnamed production roles remain unminted.

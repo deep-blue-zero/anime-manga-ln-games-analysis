@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.57"
+version: "11.58"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 205 complete i-n-g primary documents / T7S_B0080–T7S_B0156; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 208 complete i-n-g primary documents / T7S_B0080–T7S_B0157; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 676`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 791`; `last_closed_block = T7S_B0156`. The admitted horizon contains 440 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 205 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 685`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 805`; `last_closed_block = T7S_B0157`. The admitted horizon contains 443 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 208 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2408,3 +2408,38 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.58. [B0156](../02%20Readings/
 | `EDGE-0798` | `PUBLIC_AMBITION_TO_RENEWED_ANXIETY` | Tomoe's later panic and praise request coexist with her chosen path. |
 
 `T7S_B0156_CLOSE-20260926`: nine chapter events and fourteen typed edges; no performed-song verdict, exact first-exit motive or departure outcome beyond shown farewell.
+
+## B0157 Madoka's under-specified casting and on-set interpretation
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.59. [B0157](../02%20Readings/T7S_B0157_DEEP_READING.md) owns the A/B/C locator key. Kanna, Nagase, the gang and Kanna's father's killing are **film fiction**, not events in Madoka's world. The complete film, performed voice/audio, release, contracts and child-performer safeguards are unavailable.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0157-001` | Player reports no-audition director request after a stream, with only a middle-school-girl role known; Madoka accepts. | A:P0–34; `KNOW-0452`. Peers' merit guesses and actual casting criterion differ. |
+| `EV-B0157-002` | Script reveals ninkyo confrontation; Madoka cries, and Player says his report of her excitement moved shooting to this week. | A:P37–93; `KNOW-0453`. No fully informed initial acceptance or explicit coercion. |
+| `EV-B0157-003` | On-set director asks more confidence; peers hear correct, loud lines but missing force. | B:P1–21,126–130; `KNOW-0454`. Lines concern a fictional killing, not actual threat. |
+| `EV-B0157-004` | Chase drill causes fall/scrape and bandage; shouted phrases and cries are called cute, worsening insecurity. | B:P22–65; `KNOW-0455`. No safe training protocol or causal proof drills enabled success. |
+| `EV-B0157-005` | Honoka offers ice cream and role-as-encounter analogy; Madoka interprets Kanna's grief, while Player escorts both minors back from late rehearsal. | B:P66–130; `KNOW-0456`. Analogy is support, not obligation; no standing night protocol. |
+| `EV-B0157-006` | Madoka changes paper-tearing to spoken challenge in filmed confrontation; assistant alarms, director orders camera rolling and approves take. | C:P1–42; `KNOW-0457`. One authorized production decision, not general script license. |
+| `EV-B0157-007` | Peers see heavily annotated script; director incorrectly supposes her earlier insecure acting was planned foreshadowing. | C:P39–67; `KNOW-0458`. Prior distress was real, not a demonstrated technique. |
+| `EV-B0157-008` | At wrap director admits Hiroshima dialect originally drove casting, then praises her role development and asks her to keep acting. | C:P68–87; `KNOW-0459`. No contract, release or future role. |
+| `EV-B0157-009` | Madoka expresses bounded pride and desire to remain at Nanastar; Player imagines future offers and she trails off in embarrassment. | C:P92–103; `KNOW-0460`. Speculation and unfinished line are not career or romance facts. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0799` | `STREAM_EXPOSURE_TO_FILM_OFFER` | Player reports director saw stream in `EV-B0157-001`; dialect rationale emerges only at wrap. |
+| `EDGE-0800` | `LIMITED_ROLE_DESCRIPTION_TO_ACCEPTANCE` | Madoka says yes before reading genre/script; choice is genuine but incomplete. |
+| `EDGE-0801` | `SCRIPT_REVEAL_TO_ROLE_ANXIETY` | Ninkyo threat and fictional adult confrontation occasion tears in `EV-B0157-002`. |
+| `EDGE-0802` | `PLAYER_ENTHUSIASM_TO_EARLIER_SHOOT` | His communication directly precedes schedule change; not Madoka's informed request. |
+| `EDGE-0803` | `LINE_ACCURACY_WITHOUT_FORCE_TO_REHEARSAL` | Director/peers distinguish recitation from Kanna's emotional conviction in `EV-B0157-003`. |
+| `EDGE-0804` | `CHASE_DRILL_TO_MINOR_SCRAPE` | Fall and Kajika's bandage occur in `EV-B0157-004`; no permanent harm shown. |
+| `EDGE-0805` | `CUTE_LABEL_TO_SELF_DOUBT` | The reactions clash with Madoka's imagined role; not a judgment of inherent ability. |
+| `EDGE-0806` | `HONOKA_ANALOGY_TO_EMPATHETIC_READING` | Honoka's example helps Madoka articulate Kanna's grief in `EV-B0157-005`. |
+| `EDGE-0807` | `LATE_REHEARSAL_TO_PLAYER_ESCORT` | Player finds two minors outside and returns them; no broad safety system proven. |
+| `EDGE-0808` | `SCRIPT_STUDY_TO_ROLE_INTERPRETATION` | Worn annotated script and Madoka's account support her preparation, not full technical review. |
+| `EDGE-0809` | `UNSCRIPTED_CHANGE_TO_DIRECTOR_CONTINUATION` | Director overrides assistant's stop impulse during one take in `EV-B0157-006`. |
+| `EDGE-0810` | `APPROVED_TAKE_TO_DIRECTOR_PRAISE` | Local assessment after cut; final edit and audience outcome unknown. |
+| `EDGE-0811` | `DIALECT_CASTING_TO_CHANCE_ACCESS` | Director's wrap confession revises peers' initial merit assumption in `EV-B0157-008`. |
+| `EDGE-0812` | `LATER_CRAFT_TO_BOUNDED_PRIDE` | Director praises development, Madoka learns a limited capability; future career not established. |
+
+`T7S_B0157_CLOSE-20260926`: nine events and fourteen typed edges; film violence remains fictional, and no performed-film, contract, injury-policy, career or romantic outcome is promoted.

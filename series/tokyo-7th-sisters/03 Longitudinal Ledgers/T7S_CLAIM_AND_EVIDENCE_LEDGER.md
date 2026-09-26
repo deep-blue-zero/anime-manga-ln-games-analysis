@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.57"
+version: "11.58"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 205 complete i-n-g primary documents / T7S_B0080–T7S_B0156; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 208 complete i-n-g primary documents / T7S_B0080–T7S_B0157; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 729`; `revisions = 42`; `predictions = 7`; `AV_reviews = 103`; `literary_findings = 729`. Claims are bounded to their stated B0001 through B0156 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 77 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 734`; `revisions = 42`; `predictions = 7`; `AV_reviews = 104`; `literary_findings = 734`. Claims are bounded to their stated B0001 through B0157 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 78 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2484,3 +2484,27 @@ Owner and A/B/C locator key: [B0156](../02%20Readings/T7S_B0156_DEEP_READING.md)
 - Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX, complete songs, score/lyrics, event permit and future friendship/career outcomes remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0156_CLOSE-20260926`: five bounded claims and one AV review; no verified song ranking, universal anti-cover rule, anxiety cure, specialist or monograph promotion.
+
+## B0157 film-role interpretation, consent and chance
+
+Owner and A/B/C locator key: [B0157](../02%20Readings/T7S_B0157_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.59. B0081/B0118 are bounded comparisons, not evidence of an uninterrupted character arc.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0157-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Madoka's local craft emerges through reading Kanna's emotional logic and extensive script study, not actually becoming a gang daughter or simply shouting. | B:P1–65,94–130; C:P1–67. No full film/audio or global technical verdict. |
+| `CL-B0157-002` | `BOUNDED_INFERENCE`; D1; high | Initial acceptance preceded genre/script disclosure; Player's excitement accelerated shooting. Her later continuation is a choice but does not validate the initial information/scheduling process. | A:P0–93; B:P66–130. No explicit coercion or contract review shown. |
+| `CL-B0157-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Honoka's encountered-role metaphor helps perspective-taking here, while withdrawal remained discussable and injury/night logistics stay ethically relevant. | A:P83–93; B:P22–130. Not destiny or compulsory endurance. |
+| `CL-B0157-004` | `BOUNDED_INFERENCE`; D1; high | Madoka's unscripted spoken challenge succeeds as a director-retained local take, despite assistant alarm; it does not establish a general script-rewriting entitlement or production safety standard. | C:P15–42. Final edit/release unseen. |
+| `CL-B0157-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Dialect opened the casting opportunity, while director's later praise credits developed interpretation; Madoka's bounded pride need not imply Nanastar departure or guaranteed acting career. | A:P0–34; C:P39–103. Player's offers and unfinished embarrassed line are speculation, not outcomes. |
+
+### AV-0104 — Madoka's performer/role costumes and generic production roles
+
+- Questions/claims: whether art proves Kanna as real person, actual gang violence, production-worker identity, injury policy, full acted-film quality, career or romance; `CL-B0157-001`–`005`.
+- Priority/modality: `AV-B` for native-state and eleven selected exact static resources; `AV-D` for full performance/film, contracts, labor safeguards, release and later outcomes.
+- Selection: Madoka idol/ordinary `adv_chara_121_01_01`, anxious school `121_02_03`, fictional Kanna costume `121_03_12`; Kyoko `123_01_01`, Honoka `124_01_01`, Xiao `147_01_01`, Hime `006_01_01`, Sumire `008_01_01`, Kajika `013_01_01`; generic production/adult `027_01`, dark-suited `033_01`. All 330 native pages and forty-four command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.59 binds eleven media receipts.
+- Observed: Madoka's three presentation states are one performer playing Kanna; costume changes do not create another real-world person. Generic adult icons do not identify the director, Nagase actor or actual criminals.
+- Native occurrence: command-only A:P35–36,42,93; B:P0,22–25,39–42,66–69,81–84,122–125,131; C:P0,11–14,43–46,68–71,88–91,103. C:P11–14 separates setup and take; C:P68–71 moves toward wrap.
+- Outcome: `REVIEWED` for eleven selected exact resources and all native page-state segmentation. Two hundred twenty-nine dialogue-associated voice pages, BGM/SFX, full movie/edit, production paperwork, safeguarding and future career/release remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0157_CLOSE-20260926`: five bounded claims and one AV review; no real criminal event, general improv rule, film/audio quality verdict, specialist or monograph promotion.
