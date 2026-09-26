@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.18"
+version: "11.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 88 complete i-n-g primary documents / T7S_B0080–T7S_B0117; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 91 complete i-n-g primary documents / T7S_B0080–T7S_B0118; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 559`; `revisions = 42`; `predictions = 7`; `AV_reviews = 64`; `literary_findings = 559`. Claims are bounded to their stated B0001 through B0117 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 38 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 563`; `revisions = 42`; `predictions = 7`; `AV_reviews = 65`; `literary_findings = 563`. Claims are bounded to their stated B0001 through B0118 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 39 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1573,3 +1573,26 @@ Owner and A/B/C locator key: [B0117](../02%20Readings/T7S_B0117_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred fourteen dialogue-associated voice pages plus title cues, BGM/SFX and performed broadcast remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0117_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, audience-wide success, specialist or monograph promotion.
+
+## B0118 Tomoe protective song and renewed performance limit
+
+Owner and A/B/C locator key: [B0118](../02%20Readings/T7S_B0118_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.20. B0080 is a bounded motif comparison, not an exact-event dating or total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0118-001` | `BOUNDED_INFERENCE`; D1; high | Tomoe's defense of delayed Haru/Hime is an authored protective public action, not merely borrowed agency, though she continues to compare herself unfavorably. | A:P16–35; B:P19–49; `KNOW-0193`–`0195`. It is not proof she can perform without relational support or wants every solo role. |
+| `CL-B0118-002` | `BOUNDED_INFERENCE`; D1; moderate-high | Co-lead invitation, manager/crowd permission and Tomoe's agreement revise her `stand-in only` frame locally, while social pressure and continuing belonging doubt remain. | C:P21–54; `KNOW-0196`. Neither pure coercion nor complete cure; technical song quality unreviewed. |
+| `CL-B0118-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for sequence | Hime's apology for harshness coexists with a fresh surprise encore-center demand that exceeds Tomoe's stated preparation and precedes public vomiting. | A:P7–16; C:P47–69; `EDGE-0408`–`0410`. Fan concern does not erase physical limit or produce a risk plan. |
+| `CL-B0118-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The self-denigrating song, `ugly duckling` image and nausea recur across B0080/B0118, so recognition remains evidence rather than treatment; exact prior incident chronology and future repetition remain open. | B:P27–48; C:P55–69; B0080. `Someday swan` is hope, not completed transformation. |
+
+### AV-0065 — Tomoe from rehearsal to shared stage and encore
+
+- Questions/claims: whether stills/native sound references prove choreography difficulty, vocal quality, a cappella delivery, audience proportions, monorail mechanics, vomiting severity or future capacity; `CL-B0118-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for reported transit, audience and actor knowledge.
+- Selection: Tomoe `adv_chara_120_01_01`, `adv_chara_120_02_02`; Hime `adv_chara_006_01_01`, `adv_chara_006_03_01`; Haru `adv_chara_003_01_03`, `adv_chara_003_06_05`. All 156 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.20 binds six media receipts.
+- Observed: each performer has ordinary/rehearsal and stage-costume presentations; these support role/scene distinction without verifying dance, singing or bodily endurance.
+- Native occurrence: command-only A:P0–1,17,35; B:P0,12,25,49; C:P0,23,43–45,68–69. B:P12–25 introduces venue/audience state; B:P49/C:P0 bridges to post-a-cappella response; C:P43–45 stages the trio and C:P68–69 closes after illness. Effects cannot certify sound, proportions or medical cause.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and the a cappella/shared live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0118_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, terminal song or cured anxiety, specialist or monograph promotion.

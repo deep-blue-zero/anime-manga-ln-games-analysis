@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.18"
+version: "2.19"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 18/60 blocks; i-n-g coverage is 88/280 episodes across 38 chapters. The next authorized but unread chapter is `300900` / **誰かのためのスワン・ソング** / 白鳥トモエ, episodes `312201301 / 312201302 / 312201303`, assigned B0118.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 19/60 blocks; i-n-g coverage is 91/280 episodes across 39 chapters. The next authorized but unread chapter is `300910` / **中学生アイドル日記** / 榎並マドカ, episodes `312201401 / 312201402 / 312201403`, assigned B0119.
 
 ## Closed first i-n-g tranche
 
@@ -98,3 +98,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0115](T7S_B0115_DEEP_READING.md) | `300870` / 晴海サワラ / 残念☆女王 | `312201001 / 312201002 / 312201003` | `COMPLETE_BOUNDED` |
 | [T7S_B0116](T7S_B0116_DEEP_READING.md) | `300880` / 晴海カジカ / 2034年宇宙の旅？？ | `312201101 / 312201102 / 312201103` | `COMPLETE_BOUNDED` |
 | [T7S_B0117](T7S_B0117_DEEP_READING.md) | `300890` / 晴海シンジュ / プレイ・ライク・ア・チャイルド | `312201201 / 312201202 / 312201203` | `COMPLETE_BOUNDED` |
+| [T7S_B0118](T7S_B0118_DEEP_READING.md) | `300900` / 白鳥トモエ / 誰かのためのスワン・ソング | `312201301 / 312201302 / 312201303` | `COMPLETE_BOUNDED` |

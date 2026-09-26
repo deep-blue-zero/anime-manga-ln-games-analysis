@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.18"
+version: "11.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 88 complete i-n-g primary documents / T7S_B0080–T7S_B0117; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 91 complete i-n-g primary documents / T7S_B0080–T7S_B0118; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 415`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 396`; `last_closed_block = T7S_B0117`. The admitted horizon contains 323 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 88 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 420`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 403`; `last_closed_block = T7S_B0118`. The admitted horizon contains 326 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 91 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1270,3 +1270,32 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.19. [B0117](../02%20Readings/
 | `EDGE-0396` | `LOCAL_ACCEPTANCE_TO_UNHIDDEN_INTEREST` | On-air encounter in `EV-B0117-005` → Shinju's stated decision to read economics without child-image self-censorship; durability unknown. |
 
 `T7S_B0117_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0014` advanced; no new world/thread record, child-audience generalization, total i-n-g chronology or adulthood substitution.
+
+## B0118 Tomoe's protective bridge, shared lead and bodily limit
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.20. [B0118](../02%20Readings/T7S_B0118_DEEP_READING.md) owns the A/B/C locator key. B0080 supplies recurring self-denigration/recognition/nausea motif, not a fixed exact-event chronology; B0038 is later-source context. Audience voices remain local roles, not new stable identities.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0118-001` | Tomoe struggles with backing-dance choreography. Hime demands near-limit effort for shared responsibility; Haru defends her pace. Tomoe reads their difference as her fault and doubts her Nanasta belonging; Player wants her to stay. | A:P2–35; `KNOW-0193`; `THREAD-0021`. Neither peer style establishes a measured skill ceiling or full workload policy. |
+| `EV-B0118-002` | On live day Haru/Hime report a monorail maintenance stop without injury and expect to be late. The audience grows impatient; Player considers explanation. | B:P1–22; `KNOW-0194`; `UNIT-0002`. Transport defect and delay are reported, not independently audited; no contingency plan is shown. |
+| `EV-B0118-003` | Tomoe independently enters before Player's explanation, defends Haru/Hime against abandonment charges, improvises self-deprecation and asks fans to wait, then sings `SAKURA` a cappella. | B:P19–49; C:P1–9; `KNOW-0195`; `REL-0381`–`0386`. Protective agency coexists with low self-worth; performed voice unauditioned. |
+| `EV-B0118-004` | Haru/Hime arrive, ask Player approval for Tomoe to co-lead, gain crowd assent and Tomoe's agreement. Cheers follow the shared stage. Hime apologizes for harsh training and peers affirm Tomoe's belonging. | C:P10–54; `KNOW-0196`; `REL-0381`–`0386`; `THREAD-0021`. Acceptance is real, but pressured by public/peer context and not proof of future capacity. |
+| `EV-B0118-005` | Audience requests encore; Hime assigns Tomoe opening center without advance preparation. Tomoe says it is unexpected, vomits and is taken backstage; a fan asks after her and promises to return, while Tomoe hopes for a future `swan` self. | C:P55–69; `KNOW-0197`; `REL-0383`–`0384`; `THREAD-0016`, `0021`. Fan care is not a medical or workload plan, and prior shared-song success is not erased. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0021` | Smile/self-substitution and performer safety remain `OPEN`. Tomoe's protective song and co-lead acceptance answer one moment of public doubt, while continued self-belittling and renewed vomiting under surprise encore show recognition cannot substitute for graduated load and a real exit option. Hime's apology is local repair, not a lasting limit. A:P2–35; B:P19–49; C:P1–69. |
+| `THREAD-0016` | Image, access and consent in public work remain `OPEN`. Manager and crowd explicitly approve shared lead and Tomoe agrees, but a further center assignment is imposed amid applause without demonstrated preparation or renewed assent. This case adds an ordinary-work safeguarding question without importing later institutional conclusions. C:P21–69. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0404` | `DISCIPLINE_DEFENSE_TO_SELF_BLAME` | Hime/Haru's different care in `EV-B0118-001` → Tomoe's burden interpretation; her conclusion is an actor belief, not proof they fought. |
+| `EDGE-0405` | `REPORTED_TRANSIT_STOP_TO_SHOW_GAP` | Haru/Hime's delayed monorail in `EV-B0118-002` → impatient audience and need for a bridge; exact defect unverified. |
+| `EDGE-0406` | `ACCUSATION_TO_PROTECTIVE_STAGE_ENTRY` | Fans' abandonment accusation in `EV-B0118-002` → Tomoe's unscheduled defense in `EV-B0118-003`, before Player's planned explanation. |
+| `EDGE-0407` | `IMPROVISED_BRIDGE_TO_SHARED_LEAD` | Tomoe's stand in `EV-B0118-003` → Haru/Hime's invitation, manager/crowd permission and Tomoe's assent in `EV-B0118-004`; no technical vocal assessment. |
+| `EDGE-0408` | `HARSHNESS_TO_LOCAL_APOLOGY` | Hime's early discipline in `EV-B0118-001` → stated apology in `EV-B0118-004`; no full workload reform. |
+| `EDGE-0409` | `CELEBRATION_TO_UNPREPARED_ESCALATION` | Cheers and encore in `EV-B0118-004`/`005` → sudden center assignment and Tomoe's overload, not proof the prior shared song failed. |
+| `EDGE-0410` | `BODILY_FAILURE_WITH_FAN_CONCERN` | Tomoe's vomiting in `EV-B0118-005` → backstage move and fan concern/return promise; recognition and physical limit coexist. |
+
+`T7S_B0118_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0016`/`0021` advanced; no new world/thread record, technical song verdict, total i-n-g chronology or cured anxiety claim.

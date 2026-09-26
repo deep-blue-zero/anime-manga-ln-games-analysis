@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.18"
+version: "11.19"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 88 complete i-n-g primary documents / T7S_B0080–T7S_B0117; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 91 complete i-n-g primary documents / T7S_B0080–T7S_B0118; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 192`; `directional_relationship_states = 380`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0117, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 197`; `directional_relationship_states = 386`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0118, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2178,3 +2178,35 @@ The [B0117](../02%20Readings/T7S_B0117_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0380` | Shinju → Momoka, **critical story engagement** | Tests anime transformation/identity/political logic rather than passively echoing its childlike style. B:P46–61. Reciprocal `REL-0379`; nested-fiction reasoning is not real politics. |
 
 `T7S_B0117_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, youth-policy rule, readiness or monograph record.
+
+## B0118 Tomoe protection, shared song and overload
+
+The [B0118](../02%20Readings/T7S_B0118_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.20, binds these updates. Existing Tomoe `IDENTITY-0045`/`CHAR-0029`, Haru `CHAR-0004`, Hime `CHAR-0009`, Player `CHAR-0001`, Nanasta `UNIT-0002` and 777☆SISTERS `UNIT-0023` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0029` / Tomoe | Struggles with backing choreography and belonging, takes the stage alone to defend delayed peers, sings a self-denigrating introduction and `SAKURA`, accepts a shared lead and hears cheers, then vomits after a surprise encore-center request. | A:P2–35; B:P19–49; C:P1–69. Agency, recognition and overload coexist; no acoustic/technical verdict, lasting confidence or safety cure. |
+| `CHAR-0004` / Haru | Protects Tomoe's pace against Hime's harshness, apologizes for delay, hears Tomoe's defense, asks to make her co-lead and affirms her belonging. | A:P11–16; B:P4–9; C:P10–56. Support does not ensure every later stage escalation is wanted or safe. |
+| `CHAR-0009` / Hime | Demands near-limit rehearsal effort, later thanks and apologizes to Tomoe, co-leads with her, then assigns unexpected encore-center responsibility just before Tomoe vomits. | A:P7–16; C:P10–69. Apology is genuine local repair, not a proven capacity plan. |
+| `CHAR-0001` / Player | Corrects dance, reassures Tomoe about peers/belonging, handles transit-delay call, initially plans public explanation, then approves shared lead and sees encore overload. | A:P3–35; B:P1–24; C:P9–69. His praise is not performed-audio assessment or a demonstrated contingency/safeguarding procedure. |
+| `UNIT-0002` / Nanasta | Faces a delayed live, relies on Tomoe's unscheduled audience bridge, permits a shared lead and encounters public illness under encore demand. | B:P1–49; C:P1–69. No formal transport contingency, role-change consent, capacity limit, medical response or risk protocol. |
+| `UNIT-0023` / 777☆SISTERS | Haru/Hime are named as members alongside WNo4 and share the local live with Tomoe. | A:P27–29; C:P10–54. This is a bounded member/work annotation, not a new unit policy or total chronology. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0193` | Tomoe knows she struggles with the steps and thinks Haru/Hime are at odds because of her; Player says they can disagree without fighting. | A:P2–35. Her burden conclusion is not an independent team-conflict finding. |
+| `KNOW-0194` | Haru/Hime report a monorail maintenance stop and delay; Player sees audience impatience and lacks an obvious bridge. | B:P1–22. Defect, exact arrival time and contingency options unverified. |
+| `KNOW-0195` | Tomoe hears fans accuse absent peers and chooses to explain their character/song; crowd hears her public plea and a cappella `SAKURA`. | B:P19–49; C:P1–9. Full reception and performed vocal quality not audited. |
+| `KNOW-0196` | Haru/Hime hear Tomoe's stand; Player approves co-lead, crowd calls for her, and Tomoe agrees; peers later hear cheers and she still questions belonging. | C:P10–54. Social approval is local and not an unlimited stage-capacity certificate. |
+| `KNOW-0197` | Tomoe says encore/center are unanticipated, becomes physically sick; a fan voices concern and promises another visit. | C:P55–69. Medical cause/severity, actual cleanup, future attendance and readiness remain unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0381` | Haru → Tomoe, **pace defense and shared-lead invitation** | Says she is not shirking, advocates for her after the bridge, asks to sing together and affirms her place. A:P11–16; C:P10–54. Reciprocal `REL-0382`; support does not erase public pressure. |
+| `REL-0382` | Tomoe → Haru, **protective trust with self-comparison** | Defends Haru before fans and accepts her shared song, while still calling herself less than a real idol. B:P37–48; C:P31–54. Reciprocal `REL-0381`; no complete self-recognition. |
+| `REL-0383` | Hime → Tomoe, **harsh discipline, apology, renewed escalation** | Demands extreme effort, later apologizes and thanks her, then assigns surprise encore center. A:P7–16; C:P10–69. Reciprocal `REL-0384`; apology is not a capacity safeguard. |
+| `REL-0384` | Tomoe → Hime, **defense and renewed cooperation** | Protects Hime's reputation despite her severity and agrees to shared singing; the next pressure overwhelms her. B:P37–48; C:P31–69. Reciprocal `REL-0383`; no proof she consented to encore-center duty. |
+| `REL-0385` | Player → Tomoe, **reassurance and role approval** | Wants her to remain, prepares to explain delay, approves Haru's co-lead proposal and praises her protective capacity. A:P23–35; B:P17–24; C:P18–35. Reciprocal `REL-0386`; no technical song or safety audit. |
+| `REL-0386` | Tomoe → Player, **belonging question then independent action** | Asks if she may remain; later goes onstage before he can stop her and invokes his approval as one condition for co-lead. A:P19–35; B:P19–27; C:P34–54. Reciprocal `REL-0385`; she acts independently but still seeks authorization/recognition. |
+
+`T7S_B0118_CLOSE-20260926`: five actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, medical determination, readiness or monograph record.
