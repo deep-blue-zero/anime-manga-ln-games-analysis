@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.40"
+version: "11.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 154 complete i-n-g primary documents / T7S_B0080–T7S_B0139; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 157 complete i-n-g primary documents / T7S_B0080–T7S_B0140; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 649`; `revisions = 42`; `predictions = 7`; `AV_reviews = 86`; `literary_findings = 649`. Claims are bounded to their stated B0001 through B0139 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 60 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 653`; `revisions = 42`; `predictions = 7`; `AV_reviews = 87`; `literary_findings = 653`. Claims are bounded to their stated B0001 through B0140 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 61 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2081,3 +2081,26 @@ Owner and A/B/C locator key: [B0139](../02%20Readings/T7S_B0139_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred fifteen dialogue-associated voice pages plus title cues, BGM/SFX and actual live performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0139_CLOSE-20260926`: four bounded claims and one AV review; no supernatural finding, named permanent child unit, SOL-equivalence, complete performance/safety certification, specialist or monograph promotion.
+
+## B0140 collaborative voice, fan attachment and bounded cover reception
+
+Owner and A/B/C locator key: [B0140](../02%20Readings/T7S_B0140_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.42. B0087/B0102/B0127 are bounded comparison horizons, not a total fictional sequence.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0140-001` | `BOUNDED_INFERENCE`; D1; high for limit | The 4U cover is Murasaki's mediated address to fans of her lonely voice: she presents changed collaborative artistry while explicitly preserving memory of prior solitude and those listeners. | B:P47–67; C:P1–18. Two voiced fans, no lyric/technical audit or universal conversion. |
+| `CL-B0140-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Ferb's arrangement, friends' preparation/gift and Murasaki's named introductions distribute the labor of a still-distinct lead voice rather than replacing her authorship. | A:P2–8; B:P11–41,47–67; C:P3–13. No equal-contribution or permanent lineup claim. |
+| `CL-B0140-003` | `BOUNDED_INFERENCE`; D1; high | The two fans hear continuity after the cover yet still wish to defend `Miss Purple`'s mystique; local reassurance and residual possessive expectation coexist. | A:P12–13,38–39; B:P45–67; C:P1–18,33–34. No settled future fan relation. |
+| `CL-B0140-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | Companions' sincere backstage work and their public disruption are both operative; Murasaki's correction and gratitude resist both blanket excuse and total dismissal. | A:P20–39; B:P11–41; C:P19–39. No verified changing-room offense, spirit event or completed review. |
+
+### AV-0087 — festival collaborators and omitted cover performance
+
+- Questions/claims: whether static native art certifies the performed cover, whole audience response, cat charm's efficacy, actual changing-room act, spirit or full stage choreography; `CL-B0140-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song/crowd/rights/supernatural restrictions.
+- Selection: Murasaki `adv_chara_149_01_03`, `149_01_04`; Ferb `127_02_01`; Yumeno `133_01_01`; Ei `131_01_03`; Rishuri `139_01_01`; Makoto `145_01_02`; Shirayuki `148_01_01`. All 153 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.42 binds eight media receipts.
+- Observed: the seven named collaborators are visually distinguishable in selected static designs; two Murasaki stills are close expression variants. No still contains the performed song, student-fan interiority, made charm, full crowd or literal spirit. Generic repeated `adv_chara_025_01` at A:P40 does not identify two fans.
+- Native occurrence: command-only A:P0–1,9–11,40; B:P0,7–10,42–44,68–69; C:P0,40–41. B:P68–69 fades after cover announcement and C:P0 begins post-song reactions; this is a performance gap, not access to sound.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred ten dialogue-associated voice pages plus title cues, BGM/SFX and the performed cover remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0140_CLOSE-20260926`: four bounded claims and one AV review; no universal fan acceptance, complete music verdict, spirit confirmation, rights determination, specialist or monograph promotion.

@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.40"
+version: "11.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 154 complete i-n-g primary documents / T7S_B0080–T7S_B0139; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 157 complete i-n-g primary documents / T7S_B0080–T7S_B0140; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 546`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 586`; `last_closed_block = T7S_B0139`. The admitted horizon contains 389 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 154 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 552`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 596`; `last_closed_block = T7S_B0140`. The admitted horizon contains 392 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 157 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1869,3 +1869,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.41. [B0139](../02%20Readings/
 | `EDGE-0593` | `COMFORT_WITH_CRAFT_CONTINUITY` | Requested hug and shared review in `EV-B0139-005`–`007` coexist; neither cancels the other. |
 
 `T7S_B0139_CLOSE-20260926`: seven chapter events and eleven bounded edges; one one-live unnamed unit, no supernatural finding, permanent `コドモ連合` or inferred SOL origin.
+
+## B0140 Murasaki's school-festival cover and contested `Miss Purple`
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.42. [B0140](../02%20Readings/T7S_B0140_DEEP_READING.md) owns the A/B/C locator key. B0087/B0102/B0127 are comparison horizons, not a total fictional chronology. The song attribution to 4U does not put 4U onstage, and the native page transition does not expose the performed audio.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0140-001` | Murasaki/Ferb rehearse for her school festival; Player calls it booked work, while two school fans anticipate solitary `Miss Purple`. | A:P2–13; C:P29–31; `KNOW-0322`. Two voiced fans, not entire school's view; Player arrives too late for song. |
+| `EV-B0140-002` | Nanastar visitors eat, joke, seek mysteries and sell crafts; Murasaki scolds disruptive behavior and students fear loss of her prior image. | A:P14–39; B:P11–13; `KNOW-0323`. No verified ghost or changing-room intrusion/arrest. |
+| `EV-B0140-003` | Backstage friends report musical preparation and gift a knitted likeness of Murasaki's rescued kitten; she thanks them and expects a good stage. | B:P1–41; `KNOW-0324`. Gift not proven magical; individual preparation not technically audited. |
+| `EV-B0140-004` | Murasaki credits Ferb's arrangement, introduces five peers and calls them artists/idols; announces 4U's `Hello…my friend` as cover for her present self. | B:P45–67; `KNOW-0325`. No 4U presence, lyric transcript, licensed-status or exact mix/choral audit. |
+| `EV-B0140-005` | Two students react positively after song; Ferb/Murasaki say closeness does not erase self, old solitude or those helped by earlier songs. | C:P1–18; `KNOW-0326`. Their local reception is not whole-audience conversion. |
+| `EV-B0140-006` | Companions interrupt closing talk; Murasaki scolds, two fans still guard mystique, and she asks for no-slacking review. | C:P19–39; `KNOW-0327`. No shown later review or settled fan allegiance. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0594` | `FESTIVAL_BOOKING_TO_AUDIENCE_EXPECTATION` | `EV-B0140-001` places a professional live before two fans of solitary `Miss Purple`, not an audience census. |
+| `EDGE-0595` | `COMPANION_VISIBILITY_TO_FAN_DISSONANCE` | Visible visitors and Murasaki's correction in `EV-B0140-002` trouble the two fans' image; no mass rejection. |
+| `EDGE-0596` | `BACKSTAGE_CARE_TO_COLLABORATOR_RECOGNITION` | Preparation and kitten charm in `EV-B0140-003` lead Murasaki to acknowledge peers; no magic efficacy. |
+| `EDGE-0597` | `ARRANGEMENT_CREDIT_TO_PUBLIC_AUTHORSHIP` | Murasaki names Ferb and chorus peers in `EV-B0140-004` while retaining song selection/lead; no equal-contribution claim. |
+| `EDGE-0598` | `FAN_PROTEST_TO_SONG_ADDRESS` | Protest in `EV-B0140-004` prompts Murasaki to sing rather than rely on explanation alone; source does not contain the full song. |
+| `EDGE-0599` | `FOUR_U_COVER_TO_LOCAL_RECEPTION` | The attributed cover is followed by two students' positive reactions in `EV-B0140-005`; not a technical performance verdict. |
+| `EDGE-0600` | `RELATIONAL_CHANGE_WITH_MEMORY` | Ferb/Murasaki articulate connection without forgetting solitude/listeners in `EV-B0140-005`; prior hurt not erased. |
+| `EDGE-0601` | `PARTIAL_RECEPTION_TO_MYSTIQUE_GUARDING` | Students hear continuity but in `EV-B0140-006` still wish to maintain the old mystique; no complete conversion. |
+| `EDGE-0602` | `COLLABORATOR_CARE_WITH_STAGE_DISRUPTION` | Gift/rehearsal in `EV-B0140-003` and interruptions in `006` coexist; neither cancels the other. |
+| `EDGE-0603` | `LATE_MANAGER_TO_LIMITED_TESTIMONY` | Player's late arrival in `EV-B0140-006` bars use of his success question as first-hand song review. |
+
+`T7S_B0140_CLOSE-20260926`: six chapter events and ten bounded edges; no new formal ensemble, universal fan reception, song-quality verdict, spirit finding, rights finding or completed post-live review.

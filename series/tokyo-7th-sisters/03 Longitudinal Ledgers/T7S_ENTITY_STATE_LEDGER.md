@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.40"
+version: "11.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 154 complete i-n-g primary documents / T7S_B0080–T7S_B0139; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 157 complete i-n-g primary documents / T7S_B0080–T7S_B0140; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 321`; `directional_relationship_states = 534`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0139, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 327`; `directional_relationship_states = 538`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0140, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2955,3 +2955,38 @@ The [B0139](../02%20Readings/T7S_B0139_DEEP_READING.md) A/B/C key, witness `T7S_
 | `UNIT-0027` / unnamed under-twelve one-live quartet | Shirayuki (chosen leader), Shinju, Manon and Tasha rehearse and perform one Nanasta live; four members assess errors and plan further improvement. A:P13–29; B:P22–37; C:P1–23; `EV-B0139-001`, `004`–`005`. | No formal name, duration, repeated booking, independent contract or demonstrated continuity into 2043 SOL `UNIT-0022`; Tasha's `コドモ連合` is a joke. |
 
 `T7S_B0139_CLOSE-20260926`: seven actor-local knowledge records, three directional relationship pairs, existing-actor annotations and one bounded one-live unit; no formal child-group name, supernatural donor or SOL origin claim.
+
+## B0140 Murasaki's relational voice and school-audience boundary
+
+The [B0140](../02%20Readings/T7S_B0140_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.42, binds these updates. Existing Murasaki `IDENTITY-0092`/`CHAR-0074`, Ferb `IDENTITY-0078`/`CHAR-0060`, Yumeno `IDENTITY-0087`/`CHAR-0069`, Ei `IDENTITY-0049`/`CHAR-0037`, Rishuri `IDENTITY-0089`/`CHAR-0072`, Makoto `IDENTITY-0035`/`CHAR-0030`, Shirayuki `IDENTITY-0067`/`CHAR-0052`, Player `CHAR-0001`, Nanastar `UNIT-0002` and 4U `UNIT-0007` suffice. The two unnamed school fans have local voices but no stable identity route; the event-specific festival lineup is not a new unit.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0074` / Murasaki | Initially embarrassed by collaborators, receives their preparation/gift, publicly credits them and sings a 4U cover while affirming that her solitary voice and its listeners remain remembered. | A:P2–39; B:P1–67; C:P1–39. No erasure of past suffering, permanent crowd conversion or certified song quality. |
+| `CHAR-0060` / Ferb | Rehearses, arranges Murasaki's selected cover, sees preparation by others and explains how Nanastar connection need not erase personal sensibility. | A:P2–8; B:P1–41,47–52; C:P7–15,28–39. Her account of their old fear is attributed testimony, not full earlier chronology. |
+| `CHAR-0069` / Yumeno | Gives sexualized school/changing-room talk despite correction, brings her guitar, joins onstage and later fixates on a girls-only audience. | A:P20–32; B:P11–17,55; C:P21. No proven changing-room entry, arrest, contact consent or durable correction. |
+| `CHAR-0037` / Ei | Counts alleged school mysteries, reports wish to sing Murasaki's song, joins onstage and later speaks to a presumed spirit about basketball. | A:P22–33; B:P17,32,56; C:P22. Supernatural claims remain character reports, not chapter-verified incidents. |
+| `CHAR-0072` / Rishuri | Co-prepares a kitten-shaped craft charm with Makoto, runs a stall, supports Murasaki and advertises remaining inventory onstage. | A:P24–35; B:P19–29,57; C:P23. No spell effect or sales count. |
+| `CHAR-0030` / Makoto | Makes kitten charm with Rishuri, says she hopes for Murasaki's success, joins chorus and solicits craft purchases for Player-directed lunch gifts. | A:P25–35; B:P21–31,58; C:P24,37. No confirmed transaction or transfer of Player's affection. |
+| `CHAR-0052` / Shirayuki | Enjoys festival food, asks for a charm, pledges stage support and voices hunger in the closing interruption. | A:P14–30; B:P16,34–36,54,65; C:P20. No new quartet role from B0139 inferred here. |
+| `CHAR-0001` / Player | Treats school live as work/learning, helps organization but arrives after the performance and asks whether it succeeded. | A:P4–6,19; C:P29–31. Not a first-hand live adjudicator. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0322` | Murasaki/Ferb expect next-day school live; Player knows booking/learning rationale; two student fans expect the rarely heard solitary singer. | A:P2–13. Fan pair does not represent all students. |
+| `KNOW-0323` | Murasaki sees companion antics and corrects them; two fans see a threat to `Miss Purple`; Ei/Yumeno assert mysteries/changing-room intent. | A:P14–39; B:P11–13. No verified ghosts or consummated intrusion. |
+| `KNOW-0324` | Ferb/Murasaki learn of peers' reported preparation and handmade kitten charm; Murasaki thanks them and revises her reliance claim. | B:P1–41. Magical protection and full rehearsal quality unknown. |
+| `KNOW-0325` | Audience hears Ferb arrangement/peer introductions, Murasaki's idol recognition, fan protest and announced 4U cover. | B:P45–67. Song content and 4U permissions not shown. |
+| `KNOW-0326` | Two fans say they hear Murasaki in the cover; Ferb/Murasaki articulate connection with retained self and memories. | C:P1–18. Not an audience-wide vote or independent past biography. |
+| `KNOW-0327` | Peers interrupt, Murasaki calls for review, fans want to protect her mystique and Player arrives too late to know the song first-hand. | C:P19–39. Actual review and later fan response unshown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0535` | Ferb → Murasaki, **arrangement and honest peer challenge** | Arranges selected cover, asks whether others really cannot be relied on and explains relational change in public. A:P2–8; B:P3–41,47–52; C:P7–15. Reciprocal `REL-0536`; not sole author of Murasaki's voice. |
+| `REL-0536` | Murasaki → Ferb, **trust and public credit** | Initially calls her uniquely reliable, then acknowledges wider group and credits her bass/arrangement before song. B:P1–41,47–52; C:P3–13. Reciprocal `REL-0535`; no formal new duo unit. |
+| `REL-0537` | Murasaki → five Nanastar peers, **recognized collaborators and correction** | Thanks backstage support, calls them artists/idols, then demands stage focus and later review. B:P11–41,53–67; C:P18–39. Reciprocal `REL-0538`; affection does not waive conduct limits. |
+| `REL-0538` | Shirayuki/Yumeno/Ei/Rishuri/Makoto → Murasaki, **prepared support with unruly coda** | Report rehearsals, contribute guitar/chorus/charm and interrupt closing talk. A:P14–39; B:P11–41,53–67; C:P19–28. Reciprocal `REL-0537`; no equal sonic share or permanent lineup. |
+
+Nanastar `UNIT-0002` remains the collaborators' affiliation; 4U `UNIT-0007` is song source, not a participant in this event. The two fans' evolving response is actor-local but unnamed, so it does not create a new stable person. No new unit or identity route is warranted.
+
+`T7S_B0140_CLOSE-20260926`: six actor-local knowledge records, two directional relationship pairs and existing-actor annotations; no new formal festival unit, 4U participation, universal audience response or documented performance rights.

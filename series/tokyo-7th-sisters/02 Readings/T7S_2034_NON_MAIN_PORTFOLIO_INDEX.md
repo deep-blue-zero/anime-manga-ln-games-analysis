@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.40"
+version: "2.41"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 40/60 blocks; i-n-g coverage is 154/280 episodes across 60 chapters. The next authorized but unread chapter is `301120` / **フォーゲット・ロンリー・ノット** / 越前ムラサキ, episodes `312203501 / 312203502 / 312203503`, assigned B0140.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 41/60 blocks; i-n-g coverage is 157/280 episodes across 61 chapters. The next authorized but unread chapter is `301130` / **ナイトメア・オン・ワールズエンド** / 玉坂マコト, episodes `312203601 / 312203602 / 312203603`, assigned B0141.
 
 ## Closed first i-n-g tranche
 
@@ -120,3 +120,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0137](T7S_B0137_DEEP_READING.md) | `301090` / 前園リシュリ / ここはまだ道の途中 | `312203201 / 312203202 / 312203203` | `COMPLETE_BOUNDED` |
 | [T7S_B0138](T7S_B0138_DEEP_READING.md) | `301100` / 夜舞サヲリ / 笑顔の壁 | `312203301 / 312203302 / 312203303` | `COMPLETE_BOUNDED` |
 | [T7S_B0139](T7S_B0139_DEEP_READING.md) | `301110` / 有栖シラユキ / シラユキとザシキワラシ | `312203401 / 312203402 / 312203403` | `COMPLETE_BOUNDED` |
+| [T7S_B0140](T7S_B0140_DEEP_READING.md) | `301120` / 越前ムラサキ / フォーゲット・ロンリー・ノット | `312203501 / 312203502 / 312203503` | `COMPLETE_BOUNDED` |
