@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -608,3 +608,13 @@ Totals/readiness unchanged: 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none 
 - **Midori/Sensei/Yuzu:** Midori disputes the unilateral game “setting,” Sensei's printed choice rejects rationality as the sufficient ethical frame, and Yuzu appeals to Sensei. No technical counterproof or rescue follows in this unit.
 
 Totals: 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E010 delta — restraint, pressured departure and nonconsent firewall
+
+- **Toki:** follows Rio's authorization for special equipment, surprises and restrains Nel, threatens her arm if she resists and warns the group. Clothing/appearance change and rapid disappearance/reappearance are reported; exact mechanism, damage and personal motive are not. `モード2` and several rough lines have flipped labels.
+- **Nel:** AMAS alone cannot hold her by Rio's admission; she fights but is restrained by Toki. Defeat does not negate her E009 refusal or imply a general capability ranking. Exact later encouragement is label-corrupt.
+- **Rio:** directs Toki and AMAS to take Alice, warns Midori/Yuzu not to move, argues Sensei's adult duty should override feeling, calls care an `エライザ効果`, denies Alice life/student status, and says the sword's shutdown proves her point. These are actions/claims, not proven ontology or proportionate remedy; her later apology offer does not undo the seizure.
+- **Alice:** after Supernova's power goes out, repeats the demon-king/non-life/non-student frame, says she will disappear to protect Sensei, Momoi and friends, and leaves with Rio. Her concern, pain and gratitude are direct. Causation and free, informed consent to destruction are not established under threat and immobilization.
+- **Sensei/Midori/Yuzu:** Sensei's choice asks Alice not to accept Rio's words unquestioningly and to talk; Midori invokes Alice's hero sword; Yuzu warns during the fight. None can stop the departure. Narration confirms local AMAS immobilization; Momoi receives no medical update.
+
+Readiness remains 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

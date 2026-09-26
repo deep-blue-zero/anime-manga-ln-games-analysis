@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -652,3 +652,7 @@ Sensei brings/helps bring Momoi to Schale's infirmary by narration, checks a con
 ## V002 C002 E009 delta — contesting the remedy without owning the facts
 
 Sensei hears Rio's public AL-1S/Divi:Sion classification, monitoring-miss admission and forecast without being given independent technical proof. The printed choice `合理、非合理の問題じゃないよ` contests reducing Alice's fate to Rio's rationality frame; it does not deny Momoi's injury, diagnose the devices or prove harmlessness. Rio appears to answer Sensei `心の声` at `u:0041`, `u:0072` and `u:0092`, but those inward lines are not secure audible objections. Seven choice groups are singleton. Nel, not Sensei, directly refuses the abduction order; Toki's attack begins before any result. No adult rescue, unilateral override, halo outcome, readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E010 delta — adult-care dispute under failed intervention
+
+Rio appeals to Sensei as an emotion-resistant adult who should act first, then denies Alice's life/student standing and calls Sensei's care `エライザ効果`. These are contested premises of her demand, not a settled description of adult responsibility. Sensei's printed choice objects to hurting a student and `choice:006` urges Alice to discuss rather than swallow Rio's account; neither establishes a technical counterdiagnosis or stops the seizure. `u:0037` and `u:0091` are `心の声` despite apparent replies. Final narration confirms AMAS immobilizes the group until Rio and Alice depart. Sensei is neither sole rescuer nor shown to accept Rio's calculus. Six choices are singleton; no readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

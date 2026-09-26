@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E009 active provisional; E010 unopened
+current_sequential_boundary: MAIN_V002_C002_E010 active provisional; E011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1376,3 +1376,13 @@ No new claim ID, model, frozen prediction or side-source admission. Rio's promis
 - **BA-C019: SHARP PRESSURE** — Rio's risk category threatens Alice's place and halo, but C001 creative recognition and E005 ordinary bonds remain real. Belonging is not a safety demonstration; a threat forecast is not a proven sole-remedy authorization.
 
 No new claim ID, model, frozen prediction or side-source admission. Rio's telemetry/perimeter claims, Alice origin/control, Momoi prognosis, Toki's E001 identity and the confrontation outcome remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E010 claim transitions — successful seizure, unsettled justification
+
+- **BA-C001–C004, C007, C010–C011: SEVERE PRESSURE/COUNTERTEST** — Rio invokes adult duty, removes Alice from the protected student category, and succeeds in taking her through Toki/AMAS force. Alice's protective farewell occurs under blame, threat and incapacitated defenders; it is not independent proof of diagnosis, sole-remedy necessity or free consent to halo destruction.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei objects and asks for dialogue but cannot cure or rescue alone; Nel, Midori and Yuzu act/speak distinctly within local defeat.
+- **BA-C008: BOUNDED** — six singleton choices and inward thought-to-response anomalies do not authorize a complete audible Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki claims are not directly revised; adult/recipient-agency parallels remain comparisons.
+- **BA-C019: ACUTE LOSS OF PLACE** — Alice's removal contradicts durable security despite earlier creative recognition and lived friendships. Her thanks and anguish show those ties were real; Rio's threat argument has not proven exclusion necessary.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Destination, halo procedure, sword mechanism, Alice control/origin, Momoi prognosis and wider AMAS scope remain OPEN; contextual backfill **DEFER**.

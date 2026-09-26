@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -928,3 +928,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `私の仮説は証明された` and `唯一`/`一つだけ` are Rio's evidentiary and exclusivity claims. Her `完全にこちらのミス`/`私の不手際` is an admitted monitoring error, not audited reach of C&C/AMAS surveillance.
 - Alice's `勇者`/`みんなと一緒に`/`クエスト` expresses her desired role and attachment under shock, not a factual rebuttal of all risk. Nel's rough `誘拐` refusal and `同じ学園の生徒`/`なんもわかってねぇヤツ` mark a reasoned boundary; Rio's `私的な感情はない` claim cannot overwrite it.
 - **Quarantine:** `u:0028-0030` Alice label reads as Midori; `u:0062-0066` Alice label as Rio; `u:0069-0070` Alice label as Midori; `u:0108-0109` `AMAS A` carries Rio-like first person; `u:0122-0123` Nel/Rio labels swap. Neither exact voice nor independent AMAS agency follows from those labels. Rio apparently responds to Sensei `心の声` at `u:0041`/`u:0072`/`u:0092`; `u:0132`/`u:0140` are also private. Seven printed choices are singleton.
+
+## V002 C002 E010 delta — “Eliza effect” and internalized exclusion
+
+- Rio's `エライザ効果` is an accusation that Sensei anthropomorphizes Alice; it is not a narrator-level diagnosis. `大人`/`感情に支配されず`/`冷静` frames her adult-duty demand, dependent on `生命体ではない`/`背負うべき生徒ではない`.
+- Alice's `アリスが消えるとします`, `怪我させたくない`, `幸せでした` and repetition of `生命体ではない`/`生徒ではない` show present protection motive and uptake of Rio's frame under coercion, not independently validated identity or unpressured consent.
+- `光の剣はもうない`/`これで証明は終わり` is Rio's rhetorical claim after Sensei inwardly notes Supernova's power loss. The method/permanence is not printed; loss of a hero sign is not proof of ontology.
+- **Quarantine:** `u:0008-0009` prints mode/rough speech on the wrong actors; `u:0053` prints Rio-like halo threat as Alice; `u:0055-0057` prints Midori-like defense as Rio; `u:0070-0072` prints Nel-like rough demands as Toki. Speaker identity at `u:0019` and exact movement mechanics are uncertain. Sensei `心の声` at `u:0011`/`u:0028`/`u:0037`/`u:0062`/`u:0085`/`u:0091` is inward even when apparently answered. Six choice groups are singleton.

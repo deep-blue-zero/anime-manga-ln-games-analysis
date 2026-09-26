@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -520,3 +520,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **RIO ↔ NEL/C&C:** Rio's claim of feeling-free obedience fails in Nel's direct refusal. Rio describes Nel's disobedience as habitual and calls Toki as a contingency; those appraisals are her interested account, not independent trait measurement.
 - **TOKI ↔ NEL/C&C/SENSEI:** Toki greets “seniors” and Sensei, states C&C callsign zero four, and rear-ambushes Nel. This establishes a hostile first shown interaction, not a completed rivalry, personal motive or proof she was Himari's E001 unknown encounter.
 - **SENSEI/MIDORI/YUZU ↔ ALICE:** Midori contests imposed identity, Sensei's choice rejects a purely rationality-based framing and Yuzu seeks help. No displayed rescue or resolution of Alice's fear occurs.
+
+## V002 C002 E010 relationship delta — removal under threatened harm
+
+- **RIO/TOKI/AMAS ↔ NEL/GROUP:** Toki follows Rio's equipment authorization and restrains Nel while AMAS holds the others. Toki's role obedience contrasts with Nel's prior refusal; neither determines the entire C&C team's values.
+- **ALICE ↔ FRIENDS/SENSEI:** Alice names Momoi, Midori, Yuzu, Nel, Sensei and others in fearing future injury, thanks them for shared adventures, and departs with Rio. The farewell expresses attachment and self-sacrifice under pressure, not repudiation of prior friendship or secure consent to halo destruction.
+- **MIDORI/YUZU/SENSEI ↔ ALICE:** Midori invokes her hero sword, Sensei directly asks for discussion rather than unquestioning belief in Rio, and Yuzu remains afraid/help-seeking. The inability to intervene is narrated AMAS restraint, not indifference or a voluntary surrender of their bond.
+- **RIO ↔ SENSEI:** Rio asks the adult to enact her exclusionary risk calculus and offers a future apology if hurt. Sensei's printed objection protects student status but is not accepted. Rio's acknowledgment of adult distress is not a correction of Alice's treatment.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -669,3 +669,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Bomb/safety imagery:** Rio's “disassembly” metaphor resolves into halo destruction. Technical risk language cannot hide the represented proposed action or its missing necessity proof.
 - **From enemy/ally play to refusal:** E005 Alice's Nel ally/arcade bond and E007 C&C rescue meet Rio's command claim. Nel declines to abduct an uninformed fellow student, giving institutional obedience a concrete limit without turning her into a universal protector.
 - **Fifth C&C echo:** Toki's callsign-zero-four introduction after Rio's contingency recalls E001 Himari's fifth-member guess, but the earlier encounter's identity is still not directly confirmed. The next battle is withheld.
+
+## V002 C002 E010 motif / callback delta — darkened sword and farewell
+
+- **C001's hero gift darkens:** the Engineering Club's `光の剣`/Supernova, called precious by Alice in E005, loses power in Rio's confrontation. Rio treats its failure as proof Alice is no hero; the equipment event cannot decide personhood, but the sign's loss contributes to Alice's despair.
+- **“Adult” care inverted:** Rio calls Sensei's attachment an `エライザ効果` and demands cold adult judgment. This echoes earlier adult-responsibility claims while replacing uncertain care with a contested categorical exclusion; the comparison does not revise earlier story facts.
+- **Protection as coerced withdrawal:** Alice uses the club's bonds as the reason to vanish, repeating Rio's non-life/non-student frame. Her thanks for adventures preserves the reality of belonging precisely as it is threatened.
+- **The rescue team immobilized:** Nel's defiance and friends' objections do not prevent AMAS/Toki seizure. Narrated helplessness records local failure, not a completed halo destruction or permanent end of the bond.
