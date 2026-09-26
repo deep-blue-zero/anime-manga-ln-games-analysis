@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -724,3 +724,7 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 ## V003 C001 E001 delta — witnessing requested, not yet enacted
 
 Seia addresses Sensei directly, warns that the coming story may force doubt and bitterness, and asks them to watch through its end as the duty of one who chose “the future.” This is her ethical summons. There is no Sensei choice, spoken reply, consent, refusal or intervention in this unit, and no new persona sample. Her italic philosophical passage may be stylized/inward; do not invent an audible exchange. No model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E002 delta — teacher presence is not blame or guaranteed rescue
+
+Koharu initially blames Sensei for her failure; Hanako challenges that, while Koharu later ties class absence to committee duties and fears expulsion. Sensei's three singleton choices express surprise, remind the group of the teacher role and say they will try after Hifumi asks for help. None shows Sensei caused grades, can waive expulsion, or actually improved study. The scene's future placement cannot be backdated into the earlier Nagisa/Mika introduction; Sensei has no choice/answer there. Role-label flips prevent treating the comic exchange as a secure adult intervention. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

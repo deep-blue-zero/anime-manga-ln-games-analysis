@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -642,3 +642,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 
 - **SEIA → SENSEI:** Seia explains her view of the treaty/paradise and urges Sensei to witness the coming bitter truth. Sensei has no printed response or choice; familiarity, trust, hierarchy and actual acceptance cannot be inferred from her address alone.
 - **TRINITY ↔ GEHENNA (reported):** Seia describes long mutual distrust and a proposed peace process. No institution speaks or acts in this unit; present interschool relation and treaty implementation remain unconfirmed.
+
+## V003 C001 E002 relationship delta — group friction and an earlier invitation
+
+- **KOHARU ↔ HANAKO/AZUSA/HIFUMI:** Koharu's teacher blame and committee excuse meet Hanako/Azusa challenge; her fear of lost membership surfaces. Hanako's provocation and Koharu's protest are visible, while individual comic lines have label uncertainty. Hifumi seeks a cooperative path rather than joining the blame.
+- **HIFUMI ↔ SENSEI:** Hifumi asks for help and Sensei's secure choice says they will try. No tutoring result or unconditional rescue promise.
+- **NAGISA/MIKA ↔ SENSEI:** at the earlier terrace, Nagisa introduces herself as host and Mika is named. No meeting purpose, trust relation or Sensei reply yet; `u:0004` attribution is suspect.

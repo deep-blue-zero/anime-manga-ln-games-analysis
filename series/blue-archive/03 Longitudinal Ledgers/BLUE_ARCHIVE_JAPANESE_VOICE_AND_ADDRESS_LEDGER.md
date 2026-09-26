@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1053,3 +1053,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `憎み合うのはもうやめよう` is Seia's treaty gloss; `信頼を築き始めようとするプロセス` is a process to begin, not trust already achieved. `何の意味も持たなくなってしまった` is her assessment after the president's disappearance.
 - `どんな意味を込めていたのかは分からない` limits president-intent knowledge; `一つの解釈` limits the paradise proof argument; `証明できない真実は無価値だろうか` is an open question, not a conclusion.
 - `u:0007-0019` is italic `*セイア:*` text and may be stylized narration or inward voice; do not automatically call it audible to Sensei. Bold `u:0020-0027` directly addresses Sensei. Zero choices/no Sensei answer; `u:0028` title card.
+
+## V003 C001 E002 delta — role fear and label-flipped comic turns
+
+- Koharu `正義実現委員会の一員` and `退学` link her feared role loss to an expulsion possibility; Hifumi's `一週間後` is an in-scene timetable report, not a shown notice. Azusa `何をしてでも、例え惨めな思いをしてでも` expresses resolve, not specified acts.
+- Hifumi `みんなで知恵を寄せ合って` proposes pooling ideas. Nagisa `初めまして`/`ティーパーティーのホスト` is an in-person introduction; `scene:002:u:0004` Mika label introduces Mika in third person, so speaker attribution remains uncertain.
+- **Quarantine:** scene 1 `u:0016-0019` “you too” labels, `u:0036-0040` provocative action/protest labels, and scene 2 `u:0004`; do not assign exact gesture or insult to each printed name. Scene-2 `u:0001` absent; `u:0006` next-title card. Three singleton choices; scene-1 `u:0047` explicitly rewinds “a few weeks” before scene 2.

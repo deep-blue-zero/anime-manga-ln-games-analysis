@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E001 active provisional; E002 unopened
+current_sequential_boundary: MAIN_V003_C001_E002 active provisional; E003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1563,3 +1563,13 @@ No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Complete
 - **Other families:** no direct global test.
 
 No new claim ID on one monologue, standalone model, frozen prediction or side-source admission. Seia's treaty-nullity assessment, paradise interpretation and president-intent sarcasm are not objective findings. Backfill remains **DEFER**.
+
+## V003 C001 E002 claim delta — educational help before the political explanation
+
+- **BA-C001/C016:** Hifumi proposes collective problem-solving and Sensei offers bounded effort; no result or fully voluntary institutional process yet.
+- **BA-C002–C004/C007/C010–C011:** Koharu's teacher blame is challenged, not established. Nagisa's Tea Party introduction does not yet define Schale's treaty role.
+- **BA-C008:** three singleton choices, role-label flips and a future-to-past cut prohibit composite speech and knowledge leakage.
+- **BA-C019/C020:** no direct Pavane test; new Trinity school/peace setting must earn its own claim evidence.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Expulsion rule/timetable and Tea Party purpose remain OPEN; backfill **DEFER**.

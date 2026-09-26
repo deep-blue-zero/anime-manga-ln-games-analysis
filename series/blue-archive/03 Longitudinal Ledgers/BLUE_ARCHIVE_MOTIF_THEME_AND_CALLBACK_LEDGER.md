@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -797,3 +797,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Treaty as process:** Seia's `憎み合うのはもうやめよう` and start-of-trust formulation sets peace against inherited antagonism; she then says the president's disappearance emptied the project. This is a speaker-framed opening tension, not a verified failed treaty.
 - **Paradise/proof paradox:** her one reading of the fifth ancient rule makes a true paradise returnee unobservable outside; her question about whether unprovable truth lacks value remains open. The Eden name becomes a skeptical analogy for diplomacy, not established cosmology.
 - **Witnessing the bitter story:** Seia asks Sensei not to avert their eyes. This creates a proposed ethical demand without an observed Sensei choice or a completed “truth” finding.
+
+## V003 C001 E002 motif / callback delta — school stakes before treaty substance
+
+- **Future crisis then rewind:** a one-week expulsion fear and remedial group appear before a “few weeks ago” terrace introduction. The structure withholds how Tea Party politics leads to this class; no causal bridge can be supplied from E002 alone.
+- **Role membership under institutional threat:** Koharu fears losing Justice Realization membership if expelled, echoing—but not duplicating—Pavane's gap between lived belonging and school recognition.
+- **Collective study versus blame:** Hifumi redirects mutual accusation and comic disorder toward pooling ideas. The proposal is not yet a successful rescue or evidence that one teacher can repair the institution alone.
