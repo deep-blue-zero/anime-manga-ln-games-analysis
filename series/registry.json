@@ -332,7 +332,7 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260925",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Japanese LN V01 source structurally verified; V12 absent. Methods and six ledgers adopted; no sequential volume closed, and V01 requires separate owner authorization."
+      "catalog_note": "Japanese LN V01 closure published and audited; V02 fully inspected with retained locator map and synchronized six-ledger closure candidate, publication/audit separate. V03 remains unopened; ordered authorization ends at V15. V12 is present but individually unverified."
     },
     {
       "series_id": "my-hero-academia",
