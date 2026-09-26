@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.52"
+version: "1.53"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0152`.
-- Completed run blocks: **53/60**; completed run episodes: **153/174**.
-- Next: `T7S_B0153`, chapter `301250`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0153`.
+- Completed run blocks: **54/60**; completed run episodes: **156/174**.
+- Next: `T7S_B0154`, chapter `301260`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -89,7 +89,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0150` | `301220` | 神城スイ | ア・リトル・ボーイ・ミーツ・ガール | `612200701 / 612200702 / 612200703` | CLOSED |
 | `T7S_B0151` | `301230` | 久遠寺シズカ | わたしの名前 | `612200801 / 612200802 / 612200803` | CLOSED |
 | `T7S_B0152` | `301240` | アレサンドラ・スース | プリンシパル・プリンシプル | `612200901 / 612200902 / 612200903` | CLOSED |
-| `T7S_B0153` | `301250` | 晴海サワラ | 怪盗Sの華麗なる冒険 | `612201001 / 612201002 / 612201003` | AUTHORIZED_UNREAD |
+| `T7S_B0153` | `301250` | 晴海サワラ | 怪盗Sの華麗なる冒険 | `612201001 / 612201002 / 612201003` | CLOSED |
 | `T7S_B0154` | `301260` | 晴海カジカ | 私のファン | `612201101 / 612201102 / 612201103` | AUTHORIZED_UNREAD |
 | `T7S_B0155` | `301270` | 晴海シンジュ | シンジュとふしぎなカエル | `612201201 / 612201202 / 612201203` | AUTHORIZED_UNREAD |
 | `T7S_B0156` | `301280` | 白鳥トモエ | 貴方が歩くための私の歌 | `612201301 / 612201302 / 612201303` | AUTHORIZED_UNREAD |
@@ -318,3 +318,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0152 closeout receipt
 
 [T7S_B0152](../02%20Readings/T7S_B0152_DEEP_READING.md): Fourteen-year-old Susu tests her ballet skill at a special local audition and is rejected; public confidence and private grief coexist, while intense training, peer care, speculative career conflict and adult-manager boundaries remain distinct. All 353 pages, 295 text records and 58 command-only pages are reviewed; 10 exact static composites were inspected. Source-lock 12.54 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 231 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 53/60 blocks, 153/174 episodes; publication remains pending.
+
+## B0153 closeout receipt
+
+[T7S_B0153](../02%20Readings/T7S_B0153_DEEP_READING.md): Sawara and Coney arrange a surprise day trip to interrupt the Player's overwork; he recognizes fatigue and keeps some photos, but the unagreed travel, locked-device access and disputed bath image remain consent/privacy breaches without a shown send or durable staffing remedy. All 283 pages, 251 text records and 32 command-only pages are reviewed; 9 exact static composites were inspected. Source-lock 12.55 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 123 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 54/60 blocks, 156/174 episodes; publication remains pending.

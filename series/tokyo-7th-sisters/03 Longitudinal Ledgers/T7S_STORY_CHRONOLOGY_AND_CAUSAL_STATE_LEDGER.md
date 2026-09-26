@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.53"
+version: "11.54"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 193 complete i-n-g primary documents / T7S_B0080–T7S_B0152; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 196 complete i-n-g primary documents / T7S_B0080–T7S_B0153; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 646`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 739`; `last_closed_block = T7S_B0152`. The admitted horizon contains 428 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 193 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 653`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 752`; `last_closed_block = T7S_B0153`. The admitted horizon contains 431 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 196 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2278,3 +2278,35 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.54. [B0152](../02%20Readings/
 | `EDGE-0746` | `PRIVATE_GRIEF_TO_BOUNDED_DANCE_OFFER` | She ends crying and clarifies audience-only invitation in `EV-B0152-008`; no adult intimacy claim. |
 
 `T7S_B0152_CLOSE-20260926`: eight chapter events and twelve typed edges; outcome, technique, health and intimacy cannot be inferred from effort or costume.
+
+## B0153 Sawara's phantom-thief intervention and image boundaries
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.55. [B0153](../02%20Readings/T7S_B0153_DEEP_READING.md) owns the A/B/C locator key. The plan/preparation precedes the train, stream, inn call and bath within this chapter; menu source order does not establish a global chronology. Sawara's `怪盗Ｓ` and Coney's `怪盗Ｃ` are playful roles, not separately indexed people or a literal criminal judgment.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0153-001` | Player expands work for live/new show and misplaces meeting materials; Shinju and Haru wait while Sawara/Coney exchange a cue. | A:P2–29; `KNOW-0422`. Workload felt/observed, no clinical diagnosis or quantified hours. |
+| `EV-B0153-002` | Player finds himself on train; Sawara admits surprise trip lacked agreement, leaves a playful notice and claims Coney covers office. | A:P33–65; `KNOW-0423`. Transport/authorization mechanism not shown. |
+| `EV-B0153-003` | Sawara has locked holocom, says Coney unlocked it, photographs protesting Player, later uses it to press him into stream and more photographs. | A:P66–80; B:P39–71; `KNOW-0424`. Unlock method and deletion not evidenced. |
+| `EV-B0153-004` | Sawara asks about members' faces, Player cannot recall Haru's; quiet mountain/stream and Sawara's reconnection philosophy give him partial rest. | B:P1–38,52–106; `KNOW-0425`. His enjoyment does not retroactively authorize method. |
+| `EV-B0153-005` | At inn Player retrieves dropped device without touching Sawara's clothing; Shinju relays prior-day proposal completion and broad concern for his health. | C:P1–53; `KNOW-0426`. One urgent proposal reported complete, not every deadline or formal leave. |
+| `EV-B0153-006` | Player sees photos of exhausted train face and later smile, realizes he missed group/self, thanks Sawara and elects to retain those images. | C:P54–67; `KNOW-0427`. Limited after-the-fact retention choice, not consent to initial or future capture. |
+| `EV-B0153-007` | Sawara photographs him in bath with his device and threatens to send naked image to Nanastar; he demands return/deletion and chases. | C:P68–92; `KNOW-0428`. Transmission and eventual deletion not shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0747` | `WORK_EXPANSION_TO_ATTENTION_FAILURE` | `EV-B0153-001` and later B:P17–24 show faces no longer noticed; no diagnosis. |
+| `EDGE-0748` | `OBSERVED_OVERWORK_TO_SURPRISE_PLAN` | Sawara/Coney cue in `EV-B0153-001` precedes unagreed travel in `002`; full coordination unshown. |
+| `EDGE-0749` | `ADVANCE_PROPOSAL_TO_PARTIAL_COVER` | Shinju's later relay in `EV-B0153-005` confirms one prior-day work item, not blanket leave authority. |
+| `EDGE-0750` | `UNAGREED_TRAVEL_TO_WORK_ANXIETY` | `EV-B0153-002` produces Player's inability to check tasks; reasoned worry, not false by later cover. |
+| `EDGE-0751` | `DEVICE_TAKING_TO_CONTACT_LOSS` | `EV-B0153-003`; Player cannot manage his own phone while Sawara has it; signal also uncertain. |
+| `EDGE-0752` | `DEVICE_POSSESSION_TO_PHOTO_ACCESS` | Sawara uses Player's holocom for images in `EV-B0153-003`; technical access method attributed only to her. |
+| `EDGE-0753` | `FACIAL_QUESTION_TO_SELF_OBSERVATION` | `EV-B0153-004` moves from Haru's forgotten expression to Player's stream reflection. |
+| `EDGE-0754` | `STREAM_PRESSURE_TO_PARTIAL_ENJOYMENT` | Coercive phone threat and pleasant water coexist in `EV-B0153-003`–`004`; enjoyment not consent. |
+| `EDGE-0755` | `NATURE_PAUSE_TO_RECONNECTION_ARGUMENT` | Sawara's B:P84–94 theory frames temporary withdrawal as reassessment, while she controls his exit. |
+| `EDGE-0756` | `INN_CALL_TO_WORK_AND_CARE_DISCLOSURE` | Shinju's C:P24–53 report in `EV-B0153-005` supplies partial task and peer-knowledge correction. |
+| `EDGE-0757` | `PHOTO_SEQUENCE_TO_SELF_RECOGNITION` | Player narrates fatigue-to-smile in `EV-B0153-006`; photographs not independently inspected. |
+| `EDGE-0758` | `LATER_RETENTION_TO_LIMITED_CONSENT` | He keeps earlier photos in `EV-B0153-006`; no initial access or sharing license. |
+| `EDGE-0759` | `BATH_CAPTURE_TO_RENEWED_PROTEST` | `EV-B0153-007` breaks apparent photo truce; no actual distribution shown. |
+
+`T7S_B0153_CLOSE-20260926`: seven chapter events and thirteen typed edges; restorative result, work coverage and consent remain separate.

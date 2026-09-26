@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.53"
+version: "11.54"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 193 complete i-n-g primary documents / T7S_B0080–T7S_B0152; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 196 complete i-n-g primary documents / T7S_B0080–T7S_B0153; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 421`; `directional_relationship_states = 618`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0152, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 428`; `directional_relationship_states = 624`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0153, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3455,3 +3455,37 @@ The [B0152](../02%20Readings/T7S_B0152_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0618` | Susu → peers, **shared preparation and selectively public composure** | Accepts help, reports rejection and expresses cheerful company praise; private grief goes to Player. B:P60–111; C:P65–118. Reciprocal `REL-0617`; public mask not false bond. |
 
 `T7S_B0152_CLOSE-20260926`: one named chapter-local company unit without membership, eight epistemic states, three directional relationship pairs and existing-character annotations; minor safeguarding remains a live limitation.
+
+## B0153 Sawara, the Player and ad hoc workplace cover
+
+The [B0153](../02%20Readings/T7S_B0153_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.55, binds these updates. Existing Sawara `CHAR-0019`, Shinju `CHAR-0021`, Haru `CHAR-0004`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanastar `UNIT-0002` suffice. “Thief S/C” names are performative roleplay, not new identities. Generic holocom art is not a photographic record or access log.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0019` / Sawara | Notices overwork, plans surprise trip with Coney, uses photography/nature to draw attention to faces and personal needs; takes locked device, pressures Player, photographs over objections and threatens bath-image distribution. | A:P2–80; B:P1–106; C:P1–92. Concern and violation coexist; no shown send or lasting consent repair. |
+| `CHAR-0001` / Player | Overloaded with proposals/show opportunities, misses Haru's face, objects to unagreed travel/phone/images, later recognizes fatigue-to-smile and keeps earlier photos, again refuses bath image. | A:P2–80; B:P1–106; C:P1–92. No clinical recovery or waiver of boundaries. |
+| `CHAR-0003` / Coney | Exchanges preparatory cue; Sawara says she unlocked device and covers office; Shinju relays she and Sawara finished one urgent proposal yesterday. | A:P25–29,73–77; C:P29–37. Unlock method/direct evidence and complete delegated work list absent. |
+| `CHAR-0021` / Shinju | Waits for manager, senses scheme, later calls at inn, relays task cover, apologizes for sister's act and speaks for shared wish to help. | A:P2–29; C:P24–53. Not advance consent or formal managerial authority. |
+| `CHAR-0004` / Haru | Waits for manager, appears concerned about overwork and has reportedly consulted Musubi about helping. | A:P18–24; C:P39–43. Her face/concern is reconstructed through Player and Shinju, not a private Haru monologue. |
+| `UNIT-0002` / Nanastar | Members perceive workload, Sawara/Coney take on a proposal and Shinju voices distributed-help wish, while no leave/device/privacy procedure is enacted. | A:P2–29; C:P24–53. One completed document is not a staffing system; threatened image circulation not shown executed. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0422` | Player knows packed obligations; Sawara/Coney see strain; Haru/Shinju see he has little attention to spare. | A:P2–29. No measured hours or diagnosis. |
+| `KNOW-0423` | Sawara/Coney know trip plan; Player learns only on train and says he had not agreed. | A:P33–65. No transport/permission record. |
+| `KNOW-0424` | Sawara holds/unlocks phone by her account and makes photos; Player knows capture and protests; Coney's exact access act not observed. | A:P66–80; B:P39–71. No phone log or deletion proof. |
+| `KNOW-0425` | Sawara knows she wants facial/self reflection; Player realizes he cannot remember Haru's expression, then feels some stream relief. | B:P1–106. His insight does not imply consent to pressure. |
+| `KNOW-0426` | Shinju has learned from Coney that one proposal was completed yesterday and several members worried; Player learns this during inn call. | C:P24–53. Remaining tasks and leave arrangements unknown. |
+| `KNOW-0427` | Player interprets train/mountain/play photos and decides to keep those earlier images; Sawara had taken them before his consent. | C:P54–67. No independent photo inspection or general sharing permission. |
+| `KNOW-0428` | Sawara declares intent to send bath photo; Player objects and pursues; Nanastar recipients are not shown receiving anything. | C:P77–92. Distribution and deletion remain unconfirmed. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0619` | Sawara → Player, **restorative attention through coercive means** | Plans trip, asks him to look at faces, provides quiet/nature and photos, but takes phone and repeatedly crosses image boundaries. A:P33–80; B:P1–106; C:P54–92. Reciprocal `REL-0620`; helpful result does not authorize method. |
+| `REL-0620` | Player → Sawara, **protest, partial gratitude and renewed limit** | Resists travel/phone/images, recognizes insight, keeps older pictures, thanks her, then demands bath-photo deletion. A:P49–80; B:P55–106; C:P54–92. Reciprocal `REL-0619`; no blanket permission. |
+| `REL-0621` | Coney → Player, **ad hoc task backup with opaque device access** | Reportedly finishes proposal with Sawara and may have unlocked his device. A:P25–29,73–77; C:P29–37. Reciprocal `REL-0622`; exact unlock and other task cover unknown. |
+| `REL-0622` | Player → Coney, **dependence and worry under surprise cover** | Fears she alone cannot manage work, later receives assurance of one completed proposal. A:P73–77; C:P14–37. Reciprocal `REL-0621`; no audited handoff. |
+| `REL-0623` | Shinju → Player, **apology and distributed-care appeal** | Calls, conveys coverage and says peers wish to work with him rather than have him harm health. C:P24–53. Reciprocal `REL-0624`; not prior trip consent. |
+| `REL-0624` | Player → Shinju/peers, **recognition of their concern** | Thanks Shinju and realizes he had missed their faces/worry. B:P17–24; C:P41–65. Reciprocal `REL-0623`; no enacted staffing reform. |
+
+`T7S_B0153_CLOSE-20260926`: seven epistemic states, three directional relationship pairs and existing-actor/unit annotations; no thief identities, completed image send or formal leave policy.

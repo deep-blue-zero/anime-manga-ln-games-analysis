@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.53"
+version: "11.54"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 193 complete i-n-g primary documents / T7S_B0080–T7S_B0152; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 196 complete i-n-g primary documents / T7S_B0080–T7S_B0153; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 709`; `revisions = 42`; `predictions = 7`; `AV_reviews = 99`; `literary_findings = 709`. Claims are bounded to their stated B0001 through B0152 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 73 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 714`; `revisions = 42`; `predictions = 7`; `AV_reviews = 100`; `literary_findings = 714`. Claims are bounded to their stated B0001 through B0153 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 74 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2388,3 +2388,27 @@ Owner and A/B/C locator key: [B0152](../02%20Readings/T7S_B0152_DEEP_READING.md)
 - Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred thirty-one dialogue-associated voice pages plus title cues, BGM/SFX, full show/audition/private dance, scores, training health and consent/contract records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0152_CLOSE-20260926`: five bounded claims and one AV review; no principal job, guaranteed merit outcome, adult romance, specialist or monograph promotion.
+
+## B0153 overwork, repair and photographic consent
+
+Owner and A/B/C locator key: [B0153](../02%20Readings/T7S_B0153_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.55. Thief names are roleplay; no literal crime or exoneration is inferred.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0153-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sawara identifies a real attention failure from concentrated work; nature and image comparison aid Player's self-recognition, while her forced method contradicts her voluntary-reconnection ideal. | A:P2–29; B:P17–24,75–94; C:P41–64. Neither cure nor complete negation inferred. |
+| `CL-B0153-002` | `BOUNDED_INFERENCE`; D1; high | Pre-completion of an urgent proposal reduces one work risk but does not authorize the trip, locked-device access or disputed photos, and does not audit all his other deadlines. | A:P33–80; B:P3–14; C:P24–37. Coverage relayed by Shinju, no files inspected. |
+| `CL-B0153-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Earlier photos help Player see exhaustion and joy; choosing later to retain them is specific, subsequent acceptance, not retroactive capture or sharing permission. | B:P17–24,32–43,63–71; C:P54–65. Bath protest confirms scope limit. |
+| `CL-B0153-004` | `BOUNDED_INFERENCE`; D1; high | Bath nude-image capture and threat to send violate his expressed privacy boundary, but the script ends before any demonstrated transmission, recipient receipt or deletion. | C:P77–92. Mixed bathing is not photo consent; do not overclaim actual distribution. |
+| `CL-B0153-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Shinju/Haru's worry and Coney/Sawara's one-task preparation point toward distributed work, yet an ad hoc abduction is not a stable leave, backup, device-security or consent policy. | A:P2–29; C:P24–53. Wish and one proposal do not equal institutional reform. |
+
+### AV-0100 — Sawara's trip outfits and generic holocom
+
+- Questions/claims: whether still art proves recovery, photo contents, holocom unlocking or sending, and whether yukata/bath staging changes consent; `CL-B0153-001`–`005`.
+- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` for uninspected photographs, phone logs, performance audio, private bodily image and labor records.
+- Selection: Sawara casual `adv_chara_012_01_01`, travel `012_05_01`/`_06`, inn/bath yukata `012_06_01`/`_04`; Shinju `014_01_03`, Haru `003_01_04`, Coney `002_03_11`; generic holocom `adv_obj_0027`. All 283 native pages and thirty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.55 binds nine media receipts.
+- Observed: Sawara's travel/yukata designs mark location/scene phases, not a change of actor. Holocom item is a generic device, not the actual photographed face, naked body, unlock record or sent-message confirmation. No nude image is inspected or required.
+- Native occurrence: command-only A:P0–1,15–17,30–32,37–38,81; B:P0,28–31,60–62,72–74,107; C:P0,8–10,74–76,91–92. Transitions distinguish office preparation, train, mountain/stream, inn call and bath ending.
+- Outcome: `REVIEWED` for nine selected exact resources and all native page-state segmentation. One hundred twenty-three dialogue-associated voice pages plus title cues, BGM/SFX, actual photos/device logs, labor files and any message recipient trail remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0153_CLOSE-20260926`: five bounded claims and one AV review; no completed distribution, audited workload remedy, technical unlock proof, specialist or monograph promotion.
