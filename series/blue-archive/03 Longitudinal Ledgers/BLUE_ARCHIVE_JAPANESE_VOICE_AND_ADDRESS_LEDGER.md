@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1037,3 +1037,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Alice `魔王`/`勇者` and `キヴォトスを滅ぼすかもしれない` express a feared possibility, then a chosen job. `アリスは勇者になりたい`/`アリスになりたい` and `アリスがそう決めたからです` are direct self-definition in mental space.
 - Momoi `ただのジョブ`/`転職` makes assigned role revisable; Yuzu `仲間（友達）` explicitly joins party and friend address. Key's `世界を滅ぼすため` remains its function claim, not certified identity. `光属性` is Alice's scene-local game register.
 - **Quarantine:** `u:0008` Alice label voices an Alice-addressing friend, `u:0010` Momoi label voices Alice-like recognition, `u:0012` Yuzu label sounds Momoi, and `u:0038` Midori label says “Midori is right.” `u:0111` narrator voices collective club refrain. Sensei `u:0019`/`0023`/`0026`/`0054`/`0063`/`0090`/`0099-0100`/`0113`/`0115`/`0137`/`0141` are inward; `choice:003-005` are secure choice text. Alice's italics do not prove external audibility. Five singleton choices; `u:0142` next-title card.
+
+## V002 C002 E025 delta — averted threat, apology, obedience and monster ethics
+
+- Himari `あの時の脅威はどうにか防ぐ事ができましたが、まだ何も解決していません` splits immediate prevention from continuing work; `責任を持って閉鎖する` is an undertaking. Rio's `ごめんなさい` is message text read by Yuuka, not completed restitution.
+- Nel `上から命令された事をやる` contextualizes Toki without proving exoneration. Alice `何もしていないのに……アリスが先に殴るんですか` is a secure game-mechanic question, not generalized pacifism.
+- **Quarantine:** scene 2 `u:0010` Noa label voices Yuuka-like outrage; `u:0033-0034` costume-role joke appears swapped; `u:0050` Asuna label voices Nel-like protest; `u:0052-0053` Toki/Akane invitation/thanks invert; `u:0061`/`0064-0066` Nel/Akane labels clash with names/register; `u:0075` Momoi label sounds another speaker; `u:0079-0080`/`0082-0084` Alice labels voice coaching/reaction unlike Alice's `u:0078`/`0081`/`0086`. Sensei `u:0070` inward. Scene 2 `u:0001` absent; `u:0093` video marker not dialogue. Thirteen choice groups, scene-2 `choice:001` two-option branch, other twelve singleton.

@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_PLUS_V002_C002_E024
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_PLUS_V002_C002_E025
 generation: V1
-version: "1.46"
+version: "1.47"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001 through checkpoints, plus BA:main:002:002:001-024; side-source classes remain unreviewed; BA:main:002:002:025 remains unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001 through checkpoints, plus BA:main:002:002:001-025; side-source classes remain unreviewed; mandatory V002 C002 checkpoint pending; subsequent main unit unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:002:002:025
+next_unopened_main_unit: BA:main:003:001:001
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:002:002:025
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V002_C002_E024` provisional boundary, inheriting the `MAIN_V002_C001` checkpoint:
+This index answers four questions at the `MAIN_V002_C002_E025` provisional boundary, inheriting the `MAIN_V002_C001` checkpoint pending mandatory C002 synthesis:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020 and V002 C002 E001-E024;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020 and V002 C002 E001-E025;
 - current checkpoint: `MAIN_V002_C001`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `86 / 310` canonical units;
+- main-story coverage: `87 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:002:002:025`.
+- next unopened main unit: `BA:main:003:001:001`, but mandatory V002 C002 checkpoint comes first.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,29 +74,29 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004, E010-E016, E019-E020 and V002 C002 E002-E024; secure choices support Alice's own answer, many assurances inward | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004, E010-E016, E019-E020 and V002 C002 E002-E025; joins Himari/C&C/club aftermath with bounded choices | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Momoi | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E008/E011-E012/E014-E024; gives award/club counterhistory and revisable-job vocabulary to Alice | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Midori | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E006-E011/E015/E017-E020/E022-E024; recalls Alice's no-abandonment maxim | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E020 and C002 E002-E010/E013/E022-E024; direct in-dive wish to be Alice/hero, physical wake-up not shown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Momoi | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E008/E011-E012/E014-E025; new-genre study with returned Alice | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Midori | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E006-E011/E015/E017-E020/E022-E025; confirms Momoi's genre pivot and joins study | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E020 and C002 E002-E010/E013/E022-E025; external club interaction and monster-ethics question, technical safety open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Key (provisional distinct speaker) | `ANALYZED` in V002 C002 E022-E024; shows injuries as guilt proof, asserts destructive purpose, falls silent after Alice's in-space resistance | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Yuzu | `ANALYZED` in V002 C001 E005-E006, E009-E011/E013, E016-E020 and C002 E002-E003/E006-E012/E015-E024; enters dive, names Alice `仲間（友達）` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Yuzu | `ANALYZED` in V002 C001 E005-E006, E009-E011/E013, E016-E020 and C002 E002-E003/E006-E012/E015-E025; shares returned club study/play | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Utaha | `ANALYZED` in V002 C001 E007/E012-E014 and C002 E005/E012-E013/E015-E017/E023; returns with modified Avant-Garde-kun Mk.2 against followers | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hibiki | `ANALYZED` in V002 C001 E007/E012-E014 and C002 E005/E012-E017/E023; part of Mk.2 return, individual design lines voice-cautioned | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kotori | `ANALYZED` in V002 C001 E007/E012-E013/E020 and C002 E005/E012/E014/E016-E017/E023; reports Engineering revival after suspicious signs | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Yuuka | `ANALYZED` in V002 C001 E002, E008-E009, E012-E015, E020 and C002 E012/E022-E023; extends aid, power cut works locally, budget accusation open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Noa | `ANALYZED` in V002 C002 E012/E022-E023; says Yuuka chose continued aid, checks party after Key shutdown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Yuuka | `ANALYZED` in V002 C001 E002, E008-E009, E012-E015, E020 and C002 E012/E022-E023/E025; objects to Rio's disappearance/apology | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Noa | `ANALYZED` in V002 C002 E012/E022-E023/E025; finds Rio's message, `u:0010` voice-cautioned | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hare | `ANALYZED` in V002 C001 E012-E013 and C002 E006-E008/E011/E013-E014/E016; reports Veritas-room network silence and jamming-preparation regret | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Maki | `ANALYZED` in V002 C001 E012-E013/E017 and C002 E006-E007/E011-E017; promises resources to maintain fragile Mirror link, not proven duration | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kotama | `ANALYZED` in V002 C001 E012 and C002 E006-E007/E011-E013/E015-E017; assents to Mirror-path support, maintenance outcome still prospective | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Akane | `ANALYZED` in V002 C001 E012-E014/E017 and C002 E005/E007/E011-E015/E018-E021; warns of Nel's wound, corrects Rio's authorship claim, invokes Double-O | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Karin | `ANALYZED` in V002 C001 E014/E019 and C002 E004/E007/E011/E014-E015/E018/E020-E021; sniper pressure joins coordinated counter | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Asuna | `ANALYZED` in V002 C001 E014-E015/E019 and C002 E004/E007/E014-E015/E018/E020-E021; evades Toki's attack and assents to Nel's plan | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Nel | `ANALYZED` in V002 C001 E016-E017/E019 and C002 E005/E007/E009-E012/E014-E015/E018-E022; numb/immobile after win, hands Alice retrieval to friends | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Rio | `ANALYZED` in V002 C002 E001/E008-E010/E013/E015-E016/E018-E024; surprised by in-space change and questions calculation, accountability unresolved | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Toki | `ANALYZED` in V002 C002 E009-E010/E013-E015/E018-E021; main cannon authorized, reports evasion paralysis, loses local encounter | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Himari | `ANALYZED` in V002 C002 E001/E013/E016/E023; returns from isolation, reports Eimi/C&C barrier and proposes risky Alice mind-dive | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Akane | `ANALYZED` in V002 C001 E012-E014/E017 and C002 E005/E007/E011-E015/E018-E021/E025; hosts Nel's discharge celebration, offers Toki refreshments | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Karin | `ANALYZED` in V002 C001 E014/E019 and C002 E004/E007/E011/E014-E015/E018/E020-E021/E025; attends discharge party, later joke labels cautioned | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Asuna | `ANALYZED` in V002 C001 E014-E015/E019 and C002 E004/E007/E014-E015/E018/E020-E021/E025; hosts Nel's discharge party and welcomes Toki | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Nel | `ANALYZED` in V002 C001 E016-E017/E019 and C002 E005/E007/E009-E012/E014-E015/E018-E022/E025; discharged, protests then tolerates Toki's party presence | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Rio | `ANALYZED` in V002 C002 E001/E008-E010/E013/E015-E016/E018-E025; resigns, disappears and leaves apology without adjudication | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Toki | `ANALYZED` in V002 C002 E009-E010/E013-E015/E018-E021/E025; attends C&C party after Rio disappears, formal status open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Himari | `ANALYZED` in V002 C002 E001/E013/E016/E023/E025; undertakes Eridu closure and says underlying issues remain | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Eimi | `ANALYZED` in V002 C002 E016/E023; reported by Himari at tower entrance with C&C, no new direct E023 speech | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Chihiro | `ANALYZED` in V002 C002 E016-E022; locates high-power Alice room, communication breaks amid Key process | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sumire | `ANALYZED` in V002 C002 E004/E017; Alice acquaintance becomes voluntary help reaching seized Mirror, exact route label-cautioned | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -234,14 +234,14 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 
 | Subject | Current readiness | Standalone model | Strongest currently supported use | Material blockers |
 |---|---|---|---|---|
-| Sensei | `PARTIAL_MODEL` | `NONE` | overlooked-helper questions gain local support; in-dive choices support Alice's own answer | Many E024 lines inward; no all-save endpoint, physical wake-up proof or private biography. |
+| Sensei | `PARTIAL_MODEL` | `NONE` | bounded support of Alice's choice, then invited C&C/club participation and Himari thanks | Not sole rescuer; E025 branch not cumulative, private biography and broad persona absent. |
 | Rin | `UNMODELED` | `NONE` | Prologue administrative-crisis interpretation only | One crisis, no ordinary/private breadth. Next: independently evidenced routine and non-Sensei relations; verify supplemental route first. |
 | Arona | `UNMODELED` | `NONE` | system-partner/triage observations only | Narrow Sensei dyad and unresolved ontology. Next: repeated ordinary/technical uncertainty contexts without importing future explanations. |
-| Momoi | `PARTIAL_MODEL` | `NONE` | narrow club-domain care, creative counterhistory and revisable-job offer to Alice | Distributed award credit, medical clearance and external Alice recovery unresolved. |
+| Momoi | `PARTIAL_MODEL` | `NONE` | club-domain care, revisable-job offer and resumed collaborative game study | Distributed award credit, own medical clearance and finished new game unresolved. |
 | Midori | `PARTIAL_MODEL` | `NONE` | evidence-sensitive club care; returns Alice's no-abandonment maxim under crisis | Field/health appraisals not audited, independent politics/private contrast absent. Promotion is narrow. |
-| Alice / `AL-1S` (provisional) | `PARTIAL_MODEL` | `NONE` | ordinary club belonging plus direct in-dive choice of Alice/hero under guilt pressure | No external wake-up, stable capacity, unpressured baseline or weapon/system safety proof. |
+| Alice / `AL-1S` (provisional) | `PARTIAL_MODEL` | `NONE` | in-dive chosen identity carries into external club play and a situated monster-ethics objection | Stable future capacity, unpressured baseline, Key/system/weapon safety and broad contexts open. |
 | Key (provisional distinct speaker) | `UNMODELED` | `NONE` | resource report, false force inventory and in-dive injury/destiny pressure | Final condition, origins, architecture, motive/agency and Alice relation unverified. |
-| Yuzu | `PARTIAL_MODEL` | `NONE` | volunteered and entered hazardous friend retrieval; calls Alice `仲間（友達）` | Physical exit, safety and external Alice outcome unknown; linked club/friend sphere only. |
+| Yuzu | `PARTIAL_MODEL` | `NONE` | volunteered retrieval, names Alice friend and resumes shared club study | Physical/psychological risk after dive and wider-context confidence unknown. |
 | Utaha | `UNMODELED` | `NONE` | engineering aid and E023 Mk.2 return against followers | Armament/effect, unknown gift and private motive unverified. |
 | Hibiki | `UNMODELED` | `NONE` | weapon adaptation and E023 Mk.2 group deployment | Individual design lines label-cautioned; no ordinary/private contrast or battle outcome. |
 | Kotori | `UNMODELED` | `NONE` | technical explanation and reported Engineering revival | Linked work settings; Mk.2 specification and private relationship/decision unverified. |
@@ -253,10 +253,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Akane | `UNMODELED` | `NONE` | injury warning, team assent, Sensei-authorship correction and Double-O morale account | Leadership pressure, private baseline and clinical authority untested; Alice not rescued. |
 | Karin | `UNMODELED` | `NONE` | sniper appraisal and coordinated pressure in local counter | Linked battle role; shot impact, final suit damage and private control unverified. |
 | Asuna | `UNMODELED` | `NONE` | evades Toki's fire and assents to Nel's plan | E020/E021 label tension, general intuition capability and ordinary/private baseline absent. |
-| Nel | `UNMODELED` | `NONE` | wounded resolve, local win and explicit Alice-retrieval handoff despite numbness | No medical fitness/recovery, private control or general proportionality rule. |
-| Rio | `UNMODELED` | `NONE` | fortress self-question, unexecuted sacrifice, dive-risk warning and surprise at Alice's choice | External rescue/system outcome, budget charge and ordinary/private control unresolved. |
-| Toki | `UNMODELED` | `NONE` | cannon compliance, explicit evasion-paralysis report and local loss | Operator/suit condition, full computation mechanism, personal motive and later agency unknown. |
-| Himari | `UNMODELED` | `NONE` | Rio dissent, return from isolation, entrance coordination and proposed Alice mind-dive | Key diagnosis/remedy/risks unverified; linked crisis role, little ordinary/private control. |
+| Nel | `UNMODELED` | `NONE` | wounded resolve, local win, discharge and bounded Toki tolerance | Discharge not unrestricted fitness; private control and durable forgiveness unknown. |
+| Rio | `UNMODELED` | `NONE` | fortress self-question, unexecuted sacrifice and apology-withdrawal after failed forecast | Whereabouts, accountability, motive and ordinary/private control unresolved. |
+| Toki | `UNMODELED` | `NONE` | command compliance, local loss and tentative C&C social reentry | Formal role, own responsibility, private motive and durable peer acceptance unknown. |
+| Himari | `UNMODELED` | `NONE` | Rio dissent, proposed dive and undertaking to close Eridu facilities | Completion, Key mechanism, private motive and ordinary control unverified. |
 | Eimi | `UNMODELED` | `NONE` | first Himari rescue and E023 reported tower-entrance guard role | E023 role is Himari's report; institutional history and ordinary/private control absent. |
 | Chihiro | `UNMODELED` | `NONE` | cargo-lift hack and E022 Alice-room localization during network disruption | Key/Alice diagnosis, power-cut outcome and ordinary/private baseline absent. |
 | Sumire | `UNMODELED` | `NONE` | E004 Alice exercise acquaintance and E017 voluntary access aid | Two linked contexts; exact storehouse actions, full institutional role and private breadth absent. |
@@ -684,3 +684,9 @@ Routing: [V002 C002 E023 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_
 Alice answers inside the dive and Key shows real Eridu injuries as a total causal/moral verdict, demanding “Princess” destructive destiny. Alice initially accepts guilt, fears she may destroy Kivotos and says she should disappear. Momoi cites the `TSC2` special prize, club survival, play and Nel bond as counterhistory with distributed credit; Midori recalls Alice's no-abandonment game rule, Yuzu calls her `仲間（友達）`, and Momoi offers revisable `ジョブ`/`転職` language. Alice clearly wishes to continue their adventures, says she wants to be `勇者` and `アリス`, draws the in-space sword and rejects Key's assigned purpose. Key fragments into incomprehension and silence; permanent deletion, physical weapon safety and external awakening are not demonstrated. Rio expresses surprise, and Momoi/Midori/Yuzu ask if Alice woke. Early speaker-label flips (`u:0008`/`0010`/`0012`/`0038`), narrator `u:0111`, Alice's mental-space italics and Sensei's many inward lines are quarantined. Five choices are singleton, with secure `choice:003-005` support; `u:0142` is a next-title card. Readiness remains **21 `PARTIAL_MODEL` / 26 `UNMODELED`** across 47, none operational/validated; Alice's first-person crisis choice enriches her existing partial model, but no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 Routing: [V002 C002 E024 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E024_DEEP_READING.md) → `BA:main:002:002:024` canonical scene 1, five singleton choice groups and next-title card `u:0142`. `BA:main:002:002:025` remains unopened. Coverage is **86 / 310**.
+
+## 56. V002 C002 E025 provisional coverage delta
+
+The narrator says collective action resolved the immediate Eridu crisis that might have threatened Millennium/Kivotos. Himari says she will close Eridu facilities and that, while the threat at that time was prevented, underlying issues remain unsolved. Rio announces resignation, disappears and leaves a short “sorry” message; `scene:002:u:0010` is Noa-labeled but Yuuka-voiced, so exact outrage attribution is cautioned. Nel is present at a discharge celebration after hospitalization, not necessarily medically unrestricted. Toki attends after Rio's disappearance; Nel objects to the former opponent, then grudgingly contextualizes her as following orders. No formal C&C reassignment, forgiveness or Rio-order justification is proved. The club resumes a new-game study session and Alice directly speaks to Sensei and asks to sit together, confirming external social return after E024. Alice's `u:0081` question about striking an unaggressive monster is secure, but `u:0079-0080`/`0082-0084` Alice labels voice Momoi-like instruction/reaction. Other C&C and Seminar label flips stay quarantined. Thirteen Sensei choice groups include one two-option branch (`scene:002:choice:001`), all others singleton; `u:0093` is a video marker, not analyzed footage. Readiness remains **21 `PARTIAL_MODEL` / 26 `UNMODELED`** across 47, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The C002 checkpoint is mandatory before subsequent narrative access.
+
+Routing: [V002 C002 E025 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E025_DEEP_READING.md) → `BA:main:002:002:025` canonical scenes 1–2, thirteen choice groups and video placeholder `scene:002:u:0093`. Next unopened main unit is `BA:main:003:001:001` but checkpoint first. Coverage is **87 / 310**.

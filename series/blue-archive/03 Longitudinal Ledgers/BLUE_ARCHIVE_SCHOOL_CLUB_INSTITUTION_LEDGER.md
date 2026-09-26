@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -615,3 +615,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Game Development Department:** Momoi cites the `TSC2` special prize and continued club as evidence Alice helped make and sustain something valued. This does not change the C001 checkpoint's temporary council reprieve into permanent recognition or transfer all creative credit to Alice.
 - **Key/Eridu system:** Key shows city surveillance and asserts a programmed destructive function. Its local silence after Alice's chosen light does not prove deletion, neutralization of the ark threat or the safety of Supernova.
 - **Rio governance:** Rio's surprise challenges her forecast but does not resolve budget accountability, Alice custody, halo threat, school membership or a lawful risk process.
+
+## V002 C002 E025 institutional delta — containment, vacancy and ongoing club work
+
+- **Eridu:** narrator closes the immediate possible Millennium/Kivotos crisis; Himari undertakes closure of facilities and says much remains unsolved. Completed dismantling, Key state, technical audit and future safeguards are not certified.
+- **Seminar:** Rio announces resignation, disappears and leaves a bare apology. Yuuka reacts and Noa finds the message; there is no formal succession, budget audit, restitution, discipline or reconciliation on page.
+- **C&C:** Nel has been discharged from hospital, and “all C&C” celebration includes Toki after Rio's disappearance. Her attendance is social evidence, not proof of formal assignment or command restructuring; Nel's injury is not erased.
+- **Game Development Department:** members continue a study session for a newly proposed genre with Alice and Sensei. The C001 prize/temporary reprieve remains the last explicit council standing; no finished game or permanent institutional security follows from this scene.

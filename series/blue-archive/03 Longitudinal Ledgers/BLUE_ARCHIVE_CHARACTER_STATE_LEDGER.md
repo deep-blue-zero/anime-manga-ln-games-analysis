@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -758,3 +758,12 @@ Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operationa
 - **Rio/Sensei:** Rio is surprised and questions her calculations; Sensei has bounded spoken choice support and many inward assurances. Neither supplies an omniscient safety result.
 
 Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; Alice's existing partial model gains an in-dive decision but no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E025 character-state delta — external return and unresolved aftermath
+
+- **Alice:** directly speaks and plays with the club/Sensei outside the mental exchange; asks why she should strike a monster that did nothing. This confirms external social return and a situated ethical question, not her full medical/technical stability, Key deletion or global harmlessness. Alice-labeled coaching lines around the question have clear voice tension.
+- **Rio/Himari/Yuuka/Noa:** Himari announces responsibility for Eridu facility closure and says the immediate threat was averted but underlying issues remain. Rio declares resignation, disappears and leaves “sorry”; Yuuka objects, with `u:0010` label tension. Neither completed governance process nor restitution is shown.
+- **Nel/Toki/C&C:** Nel is discharged from hospital and attends her party. Toki joins it after Rio disappears; Nel protests the injury and then grudgingly contextualizes Toki as following orders. Presence/social opening is not formal reassignment, full forgiveness or unrestricted medical fitness.
+- **Momoi/Midori/Yuzu/Sensei:** return to a new-game study session, genre pivot and team play. The new game and lasting school security are not completed. Sensei's choice-branch and inward lines remain bounded.
+
+Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Mandatory C002 checkpoint synthesis is next.

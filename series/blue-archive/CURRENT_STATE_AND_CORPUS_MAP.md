@@ -18,17 +18,17 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E024.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` has been read through E025 and its mandatory checkpoint is pending.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001's Rio/Himari conflict is partially disclosed by Rio in E009; Himari's dissent remains undisclosed to Alice's club. E006–E011 establish local AL-1S/ATRAHASIS danger, Momoi's injury/reawakening, Rio's unverified threat/halo proposal and Alice's coercive removal. E012–E021 bring a distributed coalition to Eridu, defeat local guard systems and leave Nel seriously hurt. E022 reaches silent Alice; Key rejects her name, claims her personality isolated and begins an ATRAHASIS ark-resource process amid disrupted communications/city change. Rio proposes fatal solo shutdown, but E023 confirms Yuuka/Noa's power cut causes immediate resource failure/system shutdown. Key still commands followers; Engineering returns with Avant-Garde-kun Mk.2, Eimi/C&C reportedly hold the tower entrance, and Himari proposes a hazardous mind-dive. In E024 the dive reaches Alice; Key's injury footage pushes her toward self-erasure, but the friends' concrete counterhistory and chosen-job language support her direct wish to be Alice and a hero. Her in-space light silences Key locally; the friends then ask whether she awakened externally. Neither physical recovery, Key's permanent defeat nor world safety is shown. Coverage is **86 / 310** units; all seven ledgers have provisional E001–E024 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001–E011 expose Rio/Himari conflict, local AL-1S/ATRAHASIS danger, Momoi's injury/reawakening and Alice's coercive removal. E012–E021 bring a distributed coalition to Eridu and defeat local guards, leaving Nel severely hurt. E022–E023 show Key's ark-resource attempt and Yuuka/Noa's immediate power interruption; Key remains active. E024's mind-dive reaches Alice under Key's guilt/destiny pressure, and she directly chooses to be Alice and a hero. E025 confirms her external club return; the narrator closes the immediate potential Millennium/Kivotos crisis, while Himari undertakes Eridu closure and says underlying matters remain unresolved. Rio resigns/disappears with a bare apology; Nel is discharged, Toki is tentatively welcomed, and the club studies a new game. Neither Key's permanent condition, Rio's completed accountability, universal technical safety nor permanent club recognition is shown. Coverage is **87 / 310** units; all seven ledgers have provisional E001–E025 deltas above the C001 checkpoint. Contextual backfill is **DEFER** pending the mandatory C002 checkpoint.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **21 partial / 26 unmodeled** across 47 tracked subjects. Key is a provisional separate speaker, not a settled ontology or Alice state. Alice's `PARTIAL_MODEL` now includes direct in-dive choice under crisis, but not a stable, external or general behavioral mechanism. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:025` remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **21 partial / 26 unmodeled** across 47 tracked subjects. Key is a provisional separate speaker, not a settled ontology or Alice state. Alice's `PARTIAL_MODEL` now includes in-dive self-definition and external return, but no broad stable technical/behavioral guarantee. No standalone character model, global capability assessment or prospective prediction has been created. The next crosswalk unit `BA:main:003:001:001` remains unopened until the C002 checkpoint.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **86 / 310 canonical main units deep-read**;
+- main-story coverage: **87 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -117,9 +117,10 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E022_DEEP_READING.md` — **active_provisional**, Alice room / Key identity claim and ark process / Rio fortress doubt and solo-sacrifice proposal / Yuuka–Noa power-cut order;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md` — **active_provisional**, immediate resource shutdown / Engineering Mk.2 and entrance guards / Himari's hazardous mind-dive proposal;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E024_DEEP_READING.md` — **active_provisional**, Alice's in-dive guilt, direct chosen name/hero role and local resistance to Key; external awakening open;
-- next crosswalk unit: `BA:main:002:002:025`.
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E025_DEEP_READING.md` — **active_provisional**, immediate crisis resolved, Alice's external return, Himari's ongoing task, Rio's withdrawal and C&C/club epilogues;
+- next crosswalk unit after mandatory C002 checkpoint: `BA:main:003:001:001`.
 
-The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E024 boundary above.
+The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E025 boundary above.
 
 No specialist monograph or series-level synthesis exists yet. **Historical Chapter 1 context follows; the current boundary is the C002 checkpoint above.** The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -381,8 +382,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V002_C001_E012_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V002_C001_E020_DEEP_READING.md` — Veritas appraisal, Mirror raid, C&C defense, file disclosure, contest entry, special award and conditional club reprieve, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md` — canonical twenty-unit Pavane Chapter 1 synthesis, claim and reconstruction-readiness authority;
 - `BLUE_ARCHIVE_MAIN_V002_C002_E001_DEEP_READING.md` — covert Rio/Himari meeting, retrospective Mirror/C&C test testimony and unresolved fifth-C&C encounter, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V002_C002_E002_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V002_C002_E024_DEEP_READING.md` — ordinary club play, device incident, Rio/Toki seizure, Eridu counter-intervention and Alice's in-dive choice, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first eighty-six marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V002_C002_E002_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V002_C002_E025_DEEP_READING.md` — ordinary club play, device incident, Rio/Toki seizure, Eridu counter-intervention, Alice's choice/return and unfinished aftermath, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first eighty-seven marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -394,12 +395,12 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:002:002:024` provisionally, inheriting the canonical `MAIN_V002_C001` checkpoint. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:002:002:025` provisionally, inheriting the canonical `MAIN_V002_C001` checkpoint pending C002 synthesis. They are mutable infrastructure, not frozen releases.
 
 ### Character reconstruction state
 
 - specification: canonical and populated;
-- coverage index: canonical and provisionally updated through V002 C002 E024;
+- coverage index: canonical and provisionally updated through V002 C002 E025;
 - bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
 - standalone reconstruction models: none;
 - readiness: twenty-one `PARTIAL_MODEL` subjects, twenty-six `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
@@ -462,22 +463,22 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E024.**
+**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 E001–E025 is read; its mandatory checkpoint is next.**
 
-The current authorized range continues in order. The next crosswalk unit is:
+The next crosswalk unit, which remains unopened until the C002 checkpoint is committed, is:
 
-- story ID: `BA:main:002:002:025`;
-- scope: `MAIN_V002_C002_E025`;
-- arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第25話;ミレニアムサイエンススクール`.
+- story ID: `BA:main:003:001:001`;
+- scope: `MAIN_V003_C001_E001`;
+- arc: `エデン条約編`;
+- source title: `第1話;プロローグ`.
 
-Use the V002 C001 checkpoint as latest canonical synthesis and E001–E024 as prospective supplements. E007/E008 establish local danger and Momoi's two-day unconsciousness; E011 shows she wakes without medical clearance. E009–E010 show Rio's unverified classification/halo plan and coercive seizure; E011 calls it abduction. E012–E021 bring a coalition into Eridu and defeat local guard defenses, with Nel severely hurt. E022 reaches silent Alice; Key claims her surface personality isolated, warns against unplugging and starts ATRAHASIS ark resource capture. E023 confirms Yuuka/Noa's immediate power cutoff through Key's resource-failure/system-shutdown report, but Key continues commanding followers. Engineering returns with modified Avant-Garde-kun, Himari reports Eimi/C&C at the entrance and proposes a hazardous mental-world dive. In E024 the dive reaches Alice. Key's real injury footage pushes her toward self-erasure; the club's shared-history answer and revisable-job language let her directly choose to be Alice and a hero. Her mental-space sword/light silences Key locally, while the friends still ask whether she has awakened outside. External recovery, Key permanence, weapon safety and full world safety remain open. Preserve label/choice quarantines and distinguish Alice's self-report from Key's and Rio's claims. Alice's `PARTIAL_MODEL` gains a crisis choice, not an operational model; no frozen prediction.
+Use the V002 C001 checkpoint as latest canonical synthesis and E001–E025 as provisional supplements. E006–E011 establish local AL-1S/ATRAHASIS danger, Momoi's injury/reawakening, Rio's unverified threat/halo proposal and Alice's coercive removal. E012–E021 bring a coalition through Eridu, defeating guards while Nel is badly hurt. E022–E023 show Key's ark-resource process and Yuuka/Noa's effective immediate power cut; Key still commands followers. E024's dive reaches Alice under Key's injury/guilt pressure; Alice chooses her own name and hero role. E025 confirms her external club interaction. Its narrator calls the immediate possible Millennium/Kivotos crisis resolved, but Himari says underlying issues remain and undertakes facility closure. Rio leaves a resignation declaration and apology without adjudication; Nel is discharged and Toki joins her party without formal role proof; the club studies a new game without permanent council status. Preserve voice/choice quarantines. Alice's `PARTIAL_MODEL` gains a crisis choice and return, not an operational/global safety model; no frozen prediction.
 
-The next permitted story operation is the unit above under these controls.
+The next permitted operation is the mandatory `MAIN_V002_C002` checkpoint, followed by the next story unit under these controls.
 
 Before narrative access:
 
-1. retain the Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints, their source-facing readings and `MAIN_V002_C002_E001-E024` as the complete prior-information boundary;
+1. reconcile and commit the `MAIN_V002_C002` checkpoint from E001–E025 and the seven ledgers before any new narrative access; retain the Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints;
 2. preserve the Chapter 2 contextual-backfill decision `DEFER`;
 3. use the character coverage index to identify any diagnostic reconstruction questions without converting them into predictions after exposure;
 4. if a formal character rule is to be prospectively tested, freeze its exact state, knowledge, relationship, conditions, alternatives, and disconfirming observation in a committed register first;
@@ -1244,4 +1245,15 @@ The E023 historical forward frontier was `BA:main:002:002:024` / `MAIN_V002_C002
 - Key is fragmented/silent locally; Rio is surprised; the friends explicitly ask whether Alice has awakened. No physical wake-up, permanent Key defeat, universal weapon safety or completed world rescue is established. Early label flips and inward Sensei lines remain quarantined.
 - Five choice groups are singleton. Readiness remains **21 `PARTIAL_MODEL` / 26 `UNMODELED`** across 47; no new durable claim ID, standalone model, frozen prediction or side-source backfill.
 
-The next unopened source is `BA:main:002:002:025` / `MAIN_V002_C002_E025`, `第25話;ミレニアムサイエンススクール`. A mandatory C002 checkpoint follows that final chapter unit.
+The E024 historical forward frontier was `BA:main:002:002:025` / `MAIN_V002_C002_E025`; that final chapter unit is now complete.
+
+## V002 C002 E025 state delta
+
+- `MAIN_V002_C002` E001–E025 is deep-read through **87 / 310**. Its mandatory checkpoint is pending; V002 C001 remains latest canonical chapter synthesis.
+- Narrator credits collective effort with averting the immediate possible Millennium/Kivotos crisis. Himari undertakes closure of Eridu facilities but says underlying issues remain unresolved. Neither completed dismantling nor permanent Key defeat is audited.
+- Rio announces resignation, disappears and leaves `ごめんなさい`. Yuuka objects; no formal succession, restitution, budget audit or Alice reconciliation is shown.
+- Nel appears after hospital discharge at a C&C party. Toki attends after Rio's disappearance; Nel protests the injury then grudgingly invokes Toki's obedience. No full medical clearance, forgiveness or formal reassignment follows.
+- Alice directly speaks and plays with the club/Sensei outside the dive and questions why a harmless game monster should be attacked first. The new genre is under study, not completed. Alice-labeled coaching lines and several C&C/Seminar labels are quarantined; one of thirteen choice groups has two alternatives, the rest singleton. `u:0093` is only a video marker.
+- Readiness remains **21 `PARTIAL_MODEL` / 26 `UNMODELED`** across 47; no new durable claim ID, standalone model, frozen prediction or side-source admission.
+
+The next mandatory work is the `MAIN_V002_C002` checkpoint. After that, the next unopened source is `BA:main:003:001:001` / `MAIN_V003_C001_E001`, `第1話;プロローグ`.

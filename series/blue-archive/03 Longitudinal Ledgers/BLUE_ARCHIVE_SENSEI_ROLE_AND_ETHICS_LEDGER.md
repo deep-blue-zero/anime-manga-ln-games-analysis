@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -712,3 +712,7 @@ Key reports resource failure/system shutdown after Yuuka/Noa's independent decis
 ## V002 C002 E024 delta — supporting Alice's own answer
 
 The dive yields Alice's mental-space response and grave guilt/self-erasure wish under Key's selected injury footage. Momoi, Midori and Yuzu lead with concrete shared evidence and friendship, not a technical guarantee; Alice herself states that she wants to be Alice and a hero. Sensei's secure `choice:003` completes the no-abandonment thought, and `choice:004-005` affirm possibility/children rhetorically. Numerous adjacent Sensei lines are `心の声`, not an audible adult monologue; `u:0090` privately wishes to hear Alice's feelings. Ethical support means making room for her own decision while retaining care for real injuries and danger. Rio's surprise and the club's wake-up question prevent an all-save or medical-success claim. Five singleton choices; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E025 delta — participating in an unfinished peace
+
+Sensei thanks Himari for taking responsibility, attends Nel's discharge celebration by invitation, and joins the club's new-game study/play after Alice asks them beside her. Scene-2 `choice:001` has two alternatives that reconverge on Nel's embarrassment, not two cumulative comments; `choice:005` tries a reconciliation proverb without proving Nel forgives Toki or her injury disappears. `u:0070` is inward. The narrator credits “everyone” for averting the immediate crisis, while Himari says underlying work remains and Rio leaves accountability incomplete. Thus Sensei's ethical role is participant/supporter amid distributed student and institutional labor, not sole victor, adjudicator or guarantor of future safety. Thirteen choice groups total, one two-option branch; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

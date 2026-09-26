@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -626,3 +626,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ALICE ↔ KEY:** Key uses real injury footage to press an exclusive guilt and “Princess” fate. Alice rejects that purpose and chooses her own name/class; Key's silence does not establish permanent severance.
 - **SENSEI ↔ ALICE/CLUB:** secure choices support the club's no-abandonment and possibility language; many apparent assurances are inward. Sensei neither creates Alice's decision alone nor proves her external awakening.
 - **RIO ↔ ALICE/COALITION:** Rio is surprised by what she regards as impossible and questions her calculation; her prior coercive act, possible accountability and future response remain unresolved.
+
+## V002 C002 E025 relationship delta — return without universal closure
+
+- **ALICE ↔ CLUB/SENSEI:** Alice speaks during group game study and asks Sensei to sit beside her; Momoi, Midori and Yuzu continue ordinary co-play. This confirms a returned, reciprocal social relation after the dive but not every future safety condition.
+- **RIO ↔ YUUKA/NOA/HIMARI/ALICE:** Rio leaves a resignation declaration and apology, then is absent. Yuuka objects that apology is insufficient; Himari handles facility closure. The text does not show Rio's reconciliation with any of them or a completed adjudication.
+- **NEL ↔ TOKI/C&C:** Nel objects to the former opponent attending her discharge party and remains angry about injury, then reluctantly frames Toki as carrying out orders. Asuna welcomes Toki; social inclusion begins, but forgiveness/formal role status remain unproved.
+- **SENSEI ↔ C&C/CLUB:** invited to the celebration and later club play. One C&C two-option branch converges; no composite personality inference or sole-author rescue credit.

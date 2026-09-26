@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E024 active provisional; E025 unopened
+current_sequential_boundary: MAIN_V002_C002_E025 active provisional; mandatory C002 checkpoint pending
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1529,3 +1529,14 @@ No new durable claim ID, model/frozen prediction or side-source admission. Power
 - **BA-C009, C012–C015, C017–C018:** no direct global test.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Key's final condition and Alice's external state remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E025 claim delta — immediate success with open duties
+
+- **BA-C001/BA-C016:** collective effort averts the immediate crisis and Alice resumes ordinary chosen participation; Himari's unfinished facility work and Rio's flight retain adult/institutional duties.
+- **BA-C002–C004, C007, C010–C011:** narrator's possible Kivotos threat is averted, but Himari explicitly says underlying matters remain unresolved. No inevitable world end or universal final safety conclusion.
+- **BA-C005–C006:** the coalition and club remain distributed agents. Sensei's presence at aftermath events does not make the teacher sole author of rescue, new game or governance response.
+- **BA-C008:** one two-option C&C choice reconverges; inward Sensei `u:0070` and numerous label flips bar a composite speech/persona.
+- **BA-C019:** Alice's name and participation visibly carry into club life, while new creative work is only planned and permanent council status remains open.
+- **BA-C009, C012–C015, C017–C018:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Rio accountability, Eridu technical closure and durable club security stay OPEN; contextual backfill **DEFER** pending arc boundary.
