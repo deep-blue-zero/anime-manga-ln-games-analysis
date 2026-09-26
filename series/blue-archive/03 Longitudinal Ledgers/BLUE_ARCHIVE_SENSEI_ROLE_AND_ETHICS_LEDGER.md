@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -696,3 +696,7 @@ Rio calls Sensei the “only variable” and targets their command ability. Sens
 ## V002 C002 E020 delta — care and collective problem-solving without cure
 
 Sensei inwardly checks the party, explicitly worries about Nel through singleton choices and says the other C&C members are near their limit. No clinical decision, treatment or safe combat clearance follows. Nel wakes and insists on continued rescue despite grave limitations; Sensei's concern does not remove her agency or settle whether renewed combat is proportionate. The tactical opening comes from Yuzu's observed hit, Chihiro's cautious dual-task hypothesis, Karin's objection and shared discussion; `choice:009` is a conjectural formulation. Nine singleton choices and `u:0002` inward speech remain distinct. No adult sole-savior success, Alice contact, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E021 delta — Akane rejects adult sole-authorship
+
+Sensei's `choice:001` accepts the team's decision after Nel offers C&C a choice and Chihiro confirms assent; `u:0001`/`0053`/`0062`/`0105` are inward, not an audible master plan. Rio imagines the assault is Sensei's, authorizes main cannon partly from a private hunch, and then condemns the adult for making an injured student fight. Akane explicitly says Sensei did not give that command. Yuzu/Momoi, Chihiro and C&C supply the actual proposal, implementation and risk-bearing. This defeats sole-savior/sole-blame attribution while leaving an adult responsibility question: team consent and local success do not establish Nel's medical safety or settle whether the risk was proportionate. Three choices are singleton; no Alice rescue, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

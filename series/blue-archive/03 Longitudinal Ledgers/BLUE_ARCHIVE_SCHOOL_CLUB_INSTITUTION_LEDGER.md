@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -584,3 +584,11 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Medical/safety:** Akane reports Nel initially unconscious; she wakes, with serious witnessed injury and self-reported arm/leg/nausea limitations. No clinician, treatment, evacuation or fitness assessment is shown. Her insistence on a rematch cannot itself settle duty of care.
 - **Technical defense:** Yuzu reports one transient connected hit. Chihiro hypothesizes that fall compensation competes with interception/evasion; no instrumented compute budget or replicated test. Karin doubts a repeated roof-drop will work, and Yuzu proposes a different `ハメ技` without sharing its steps.
 - **Alice governance:** the tower/deadline/halo condition remains unobserved; Rio's categorical dismissal and Toki's obedience do not provide a hearing on Alice's wishes or threat classification.
+
+## V002 C002 E021 institutional delta — cargo lift defeats local evasion
+
+- **Coalition decision and labor:** Yuzu's proposal adapts an earlier Momoi idea; Chihiro cautions that the compute theory is hypothetical, checks assent and navigates; C&C consents under Nel's leadership and fights. Sensei accepts the group decision. These are distinct authorship and execution roles.
+- **Tower infrastructure:** Chihiro hacks the central tower cargo elevator and orders acceleration to tenfold gravity. Rio identifies the intended evasion-system paralysis and Toki reports that effect. The exact measured acceleration/computation allocation is unverified; no broader Eridu shutdown or tower-entry result is shown.
+- **Abi-Eshuh/local outcome:** Rio authorizes a main cannon after an uneasy hunch, though she later calls her data forecast certain. Nel remains active after the shot and defeats Toki in the immediate exchange once evasion is paralyzed. Operator injuries, suit permanence and custody are not stated.
+- **Medical/consent:** Nel's earlier severe limits remain; she verbally does not compel C&C, Akane and Asuna assent, yet leader pressure and lack of clinical clearance persist. Rio's rebuke wrongly attributes the whole risk decision to Sensei.
+- **Alice governance:** neither the deadline nor Alice/halo condition is observed. Winning the guard fight does not decide Rio's threat classification or complete rescue.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -749,3 +749,11 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **“Cheat” within rules:** the suit's asymmetry invites a `ハメ技` rather than omnipotent rescue. The trap is undisclosed and not yet validated; game language is tactical framing, not physical-law proof.
 - **Bodily limit versus grit:** Nel's awakening does not undo reported serious injury. `根性` sustains commitment but risks romanticizing harm if treated as medical clearance.
 - **Distributed inference:** Yuzu observes, Chihiro hypothesizes, Karin tests the repeatability objection, and Sensei articulates a possible gap. Rio's sole-variable frame remains inadequate.
+
+## V002 C002 E021 motif / callback delta — named victory as coordinated action
+
+- **Game protagonist, not preordained hero:** Akane likens rescuing an abducted friend to a game's protagonist and invokes Nel's Double-O callsign. The symbol energizes a local counter but does not guarantee Alice's restoration or erase medical cost.
+- **Cheat as bounded system:** the cargo elevator forces an evasion-system failure by Toki's report. Yuzu's `ハメ技` becomes a rule-bound, collective maneuver rather than supernatural omnipotence; exact computation law remains inferred.
+- **Making and credit:** Yuzu credits a prior Momoi elevator idea, Chihiro supplies technical access, C&C takes combat risk, and Sensei accepts. Rio's sole-Sensei explanation is directly corrected by Akane, extending the Pavane maker/reception/recognition question into tactical authorship.
+- **Rationalist hunch:** Rio privately uses `嫌な予感` to authorize the cannon, then publicly calls the opponents irrational and certain to lose. The episode distinguishes her self-image from her actual decision path.
+- **Care versus guts:** Nel fights through serious injury and survives the cannon sequence, but the spectacle does not demonstrate treatment or safety. Friendship is a motive with a bodily cost.

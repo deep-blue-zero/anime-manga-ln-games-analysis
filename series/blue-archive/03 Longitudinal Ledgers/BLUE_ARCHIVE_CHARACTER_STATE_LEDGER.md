@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -714,5 +714,16 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operationa
 - **Yuzu:** says she saw Nel's hit connect for a moment and proposes an in-rules `ハメ技`. The hit has E019 corroboration; the specific exploit is not disclosed or tested.
 - **Momoi/Midori:** name the coalition's accumulated help, fear a “bad ending,” and seek a way to save Alice. Midori objects to Nel's physical risk. Despair is not a completed decision to give up.
 - **Rio/Toki:** Rio dismisses the unseen plan, Toki obeys, and a rematch is set. No demonstrated counter or battle result.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E021 delta — elevator paralysis and local Nel win
+
+- **Yuzu/Momoi:** Yuzu's proposed trap becomes an elevator maneuver, explicitly credited to an earlier Momoi idea. Yuzu first hesitates to impose the risky plan; Nel accepts because she knows Yuzu's courage for friends. Source-label flips around `u:0031/0037-0039` block precise speaker claims there.
+- **Chihiro:** keeps the compute account hypothetical, obtains assent, navigates to a suitable place, hacks the tower cargo elevator and orders tenfold gravitational acceleration. Toki reports local evasion paralysis; the precise g-force and computation budget are not independently measured.
+- **Nel/C&C:** Nel fights while visibly hurt, says she will not force the others, and Akane/Asuna assent within the C&C hierarchy. Asuna evades, Karin supplies unseen sniper pressure, Akane joins the push, and Nel closes after the evasive system fails. This is a local battle win, not medical clearance or a Toki injury inventory.
+- **Rio:** misattributes the plan to Sensei, authorizes the main cannon after an uneasy hunch, then proclaims zero chance of victory. Akane directly corrects the authorship, and the local result defeats Rio's absolute forecast without adjudicating Alice's threat status.
+- **Toki:** obeys the cannon order, reports evasive-system paralysis and loses the local encounter. Her exact condition, suit recovery and private motive remain open.
+- **Sensei:** accepts the team's decision in a singleton choice. Several other lines are inward; neither plan authorship nor full risk assessment is shown.
 
 Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

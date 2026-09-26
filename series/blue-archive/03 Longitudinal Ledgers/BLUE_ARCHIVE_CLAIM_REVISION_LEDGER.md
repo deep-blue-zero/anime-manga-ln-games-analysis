@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E020 active provisional; E021 unopened
+current_sequential_boundary: MAIN_V002_C002_E021 active provisional; E022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1486,3 +1486,13 @@ No new claim ID, model, frozen prediction or side-source admission. Precognition
 - **BA-C019: MOTIVE, NOT RESTORATION** — Alice's friends insist on rescue, but she remains absent and her welfare/choice unknown.
 
 No new claim ID, model, frozen prediction or side-source admission. Nel fitness, actual suit limitation, Yuzu's `ハメ技`, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E021 claim transitions — explicit authorship correction and local counter
+
+- **BA-C001–C004, C007, C010–C011: ABSOLUTE DEFENSE REVISED DOWN** — Toki reports evasion-system paralysis during Chihiro's elevator maneuver and Nel wins the immediate fight. Rio's “zero” forecast is locally false; the Alice-world-threat scale, halo plan and safe alternatives are not thereby settled.
+- **BA-C005–C006: SOLE-SENSEI AUTHORSHIP REJECTED** — Akane explicitly says Sensei did not command the assault. Yuzu adapts Momoi's idea, Chihiro implements the hack, C&C accepts and executes risk, while Sensei accepts the team's choice. Rio's attribution becomes directly contradicted, not merely underdetermined.
+- **BA-C008: BOUNDED** — three singleton choices and multiple inward Sensei lines; no complete audible strategy.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no revision to earlier Prologue/Abydos/Kaiser/Shiba Seki claims.
+- **BA-C019: FRIENDSHIP AS STATED MOTIVE** — Nel and Akane name Alice a friend worth retrieving. Local victory has not returned her or established her consent/safety.
+
+No new claim ID, model, frozen prediction or side-source admission. Elevator mechanism, Nel/Toki condition, tower access, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.

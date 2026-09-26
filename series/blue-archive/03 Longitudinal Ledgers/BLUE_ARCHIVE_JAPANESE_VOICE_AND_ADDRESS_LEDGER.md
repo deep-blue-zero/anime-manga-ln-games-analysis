@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1010,3 +1010,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Akane `意識がまだ……戻っておりません` is superseded by Nel's `u:0027` awakening for consciousness only. Nel's `足も靭帯が切れてるな、こりゃ` is a self-diagnosis; `腕は動かせそうにもねぇ` and nausea describe serious limits. Her `根性で耐えてやんよ` is resolve, not treatment.
 - Yuzu `攻撃が通ってるのを見ました` reports a momentary hit; Chihiro repeatedly marks the dual-task calculation account `もしもの話`/`仮定`. `ハメ技` announces Yuzu's proposed in-rules exploit but withholds mechanics.
 - **Quarantine:** `u:0030` labeled Asuna has rough speech that does not securely establish her register. Midori `u:0012-0013` moves from protest to admission. Sensei `u:0002` is inward; all nine choice groups singleton. `u:0095` is a next-title card, not a battle outcome.
+
+## V002 C002 E021 delta — “zero” rhetoric, Double-O and system paralysis
+
+- Rio's `無謀`/`合理的`/`勝てる確率なんて、ゼロ` are interested estimates. Her private `嫌な予感` precedes main-cannon authorization, complicating her asserted data-only rationality. Sensei's “laser” is an inward question, not an identified weapon specification.
+- Akane `先生は、そのような指揮をしておりません` directly corrects Rio's sole-teacher account. Nel's `無理に手伝えとは言わねぇ` explicitly leaves others a choice, though leadership pressure is not erased.
+- Akane `コールサイン・ダブルオー`/`約束された勝利の象徴` supplies institutional morale symbolism, not destiny. Yuzu `モモイが前に言ったアイデア` assigns idea credit; Chihiro `貨物エレベーターをハッキング` and `重力加速度を10倍に` provide implementation/command. Toki `回避システム麻痺` confirms a local evasion effect, not a full medical or suit report.
+- **Quarantine:** `u:0027` Asuna formal/informal shift; `u:0031` Nel-labeled question, `u:0037` Nel-labeled “Nel-senpai” line and `u:0039` Momoi-labeled rough reply have voice/label tension. Rio `u:0054-0058`/`0063-0066` are private despite mixed formatting; Sensei `u:0001`/`0053`/`0062`/`0105` inward. Italic battle lines `u:0101-0123` need not imply private motive. Three choices singleton; `u:0130` next-title card.
