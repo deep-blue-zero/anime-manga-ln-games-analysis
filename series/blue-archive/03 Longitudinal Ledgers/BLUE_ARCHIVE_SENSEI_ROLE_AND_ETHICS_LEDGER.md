@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -660,3 +660,7 @@ Rio appeals to Sensei as an emotion-resistant adult who should act first, then d
 ## V002 C002 E011 delta — asked to help, not author of the coalition
 
 Sensei's choices check Nel's possible injury, recall Rio's `武装`, call for organizing the situation, address Midori and ask Momoi about her body. None resolves origin, consent, medical status or a rescue tactic. Hare asks Sensei what they should do; Momoi independently arrives and initiates retrieving Alice, while Nel/C&C join. Momoi then explicitly asks Sensei for help. `u:0091` prints an apparent yes/plan response as `先生（心の声）`, so it cannot be presented as secure audible promise or operational command. Five choices are singleton. No model/readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E012 delta — explicit assent within student-authored plan
+
+Sensei approaches Yuuka/Noa for a location and asks them to search. `choice:002` gives two alternative request phrasings, not cumulative speech; Noa's same acceptance is duplicated. `choice:006` expressly agrees to Yuuka's stop-Rio/bring-Alice-back request, and `choice:014` agrees after Nel's diversion and the task allocation. Sensei asks about city purpose, rail access, Utaha's risk and diversion, but Noa/Yuuka source the site, Engineering proposes transport, Nel authors the tactical split, and Veritas takes remote systems. Final `u:0132-0133` “operation start” is `心の声`, not a secure audible command. Fourteen groups total, thirteen singleton; no model/readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

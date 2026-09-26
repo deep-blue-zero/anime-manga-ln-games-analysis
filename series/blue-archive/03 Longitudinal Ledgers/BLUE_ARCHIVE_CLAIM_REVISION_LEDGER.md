@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E011 active provisional; E012 unopened
+current_sequential_boundary: MAIN_V002_C002_E012 active provisional; E013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1396,3 +1396,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. D
 - **BA-C019: CONTINUATION CLAIM** — Momoi refuses Rio's forced farewell as the final shape of a real friendship; future club security and Alice's risk remain open.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Momoi clearance, Toki equipment/history, Alice halo outcome and the rescue plan remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E012 claim transitions — plural plan, untested execution
+
+- **BA-C001–C004, C007, C010–C011: TACTICAL TEST PENDING** — the coalition seeks to recover Alice and restore dialogue, yet a frontal diversion and hack are only planned. Rio's coercion does not itself prove every countermeasure proportionate or safe.
+- **BA-C005–C006: PRESERVE REJECTED** — Noa/Yuuka supply Eridu data, Engineering infers transport, Nel authors diversion, Veritas takes remote defenses and Momoi names objective. Sensei explicitly agrees but does not author all mechanisms.
+- **BA-C008: BOUNDED** — `choice:002` alternatives and inward final start distinguish optional wording, real assent and unheard thought.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no direct Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: INSTITUTIONAL SPLIT** — Seminar members and Engineering support Alice despite Rio's classification; standing, safety and durable belonging remain unresolved.
+
+No new claim ID, model, frozen prediction or side-source admission. Yuuka's embezzlement allegation, Koyuki link, tower location, rail access, fortress defense and actual rescue remain OPEN; contextual backfill **DEFER**.

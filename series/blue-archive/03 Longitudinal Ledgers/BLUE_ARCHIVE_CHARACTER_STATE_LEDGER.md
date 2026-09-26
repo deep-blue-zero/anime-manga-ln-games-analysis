@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -618,6 +618,16 @@ Totals: 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validate
 - **Sensei/Midori/Yuzu:** Sensei's choice asks Alice not to accept Rio's words unquestioningly and to talk; Midori invokes Alice's hero sword; Yuzu warns during the fight. None can stop the departure. Narration confirms local AMAS immobilization; Momoi receives no medical update.
 
 Readiness remains 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E012 delta — distributed planning and Noa's first substantial entry
+
+- **Yuuka/Noa:** object to Rio's taking of Alice. Noa says she searched deleted/concealed-looking Seminar records and tracked opaque budget flow; Yuuka presents recovered Eridu city data and alleges embezzlement. Yuuka thinks Alice likely at the central tower; Noa supplies coordinates and states role-limited assistance. Noa is a first substantial direct speaker and enters `UNMODELED`.
+- **Utaha/Hibiki/Kotori:** Utaha and Hibiki identify unmanned freight trains and infer a line may have carried building materials to Eridu, offering Engineering help to find it. Utaha cites Supernova as stolen invention; colleagues tease a friend-rescue motive, but label swaps at `u:0072-0078` prevent clean hidden-motive attribution. Neither route nor sword condition is verified.
+- **Nel/C&C:** Nel predicts Rio will see movement in Eridu, rejects diffuse trickery and defines a C&C frontal diversion to occupy Rio/Toki while others retrieve Alice. Akane, Karin and Asuna accept assigned roles; outcome and Toki response remain future. “Serious work mode” is a situated team appraisal, not a total personality rule.
+- **Maki/Kotama:** commit Veritas remote hacking of defenses, not yet an achieved bypass.
+- **Momoi/Sensei:** Momoi states the tower objective and says Alice “ran away,” which does not supersede narrated abduction. Sensei explicitly agrees to Yuuka's request and the plan in choices, but `作戦開始` at `u:0132-0133` is `心の声`.
+
+Totals: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V002 C002 E011 delta — Momoi returns and calls for retrieval
 

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -943,3 +943,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Yuzu says `よくわからない` and wants `気持ちを、ちゃんと聞いて、お話したい`. Momoi's `そんな事どうでもいいの` explicitly brackets the `魔王` label to reject this farewell; it is not a claim that safety never matters.
 - `まともなエンディングですらない` is Momoi's story/game-language refusal of forced finality. Nel's `殴り返せばいい`/`取り戻せばいい` is rough action advocacy, not a measured proportionality rule.
 - **Quarantine:** early C&C styles at `u:0004-0006`/`u:0011-0012` shift; `u:0056` Momoi label is Midori-like; `u:0061-0063` and `u:0077-0078` swap roles; `u:0087` Karin label has Asuna-like casual style. Sensei `心の声` at `u:0049`/`u:0090-0091` is unheard. Five choices are singleton.
+
+## V002 C002 E012 delta — “fortress,” “Big Sister” and conditional routes
+
+- Noa's `不透明な流れ` and deleted/concealed-looking records support an investigation; Yuuka's `横領` is an allegation without stated amount/authorization audit. `可能性が高い` limits her tower location. Akane's Koyuki link is explicitly `もしかして`.
+- Utaha says `仮定するのなら` materials came from Millennium, a freight line `可能性が高い` connects to Eridu. `無から有は作れない` motivates inference, not proof of a selected line. Predicted anti-intruder systems are `きっと`/conditional.
+- `最大の発明品`/`奪っていった` is Utaha's Supernova framing; teased friendship motive has role-flipped speaker labels and cannot be a clean confession. `ビッグシスター`/`丸見え` is Nel's threat model, not verified omniscience.
+- `陽動作戦` divides front distraction from rear rescue; `勝利条件` names saving Alice before team defeat. Momoi's `勝手に家出した` is figurative/charged mission speech and cannot erase E011 narrated `誘拐`.
+- **Quarantine:** `u:0013-0016` flips Momoi/Noa/Yuuka; `u:0017-0018` duplicates Noa's acceptance after two-option `choice:002`; `u:0072-0078` flips Kotori/Momoi/Utaha and `u:0081` is role-uncertain. `u:0122` Yuzu parenthetical is forecast, not audited probability. Sensei `心の声` at `u:0027`/`u:0083`/`u:0094`/`u:0132-0133` remains inward. Fourteen choice groups, one two-option.

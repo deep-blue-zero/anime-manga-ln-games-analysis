@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -683,3 +683,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Potion/level-up return:** after two days unconscious, Momoi portrays herself as fully replenished by sleep and a found potion. The comedy gives her agency back but must not be medicalized into proof of full recovery.
 - **Uncertainty with dialogue:** Midori asks if `魔王` could be true; Yuzu admits she does not know and wants Alice's own feelings heard. This preserves risk inquiry while resisting a unilateral verdict.
 - **C&C reoriented:** Nel's E009 refusal becomes post-defeat retrieval resolve, and Akane reports the previously unknown-to-her-in-person Toki as Rio-dedicated. Formal roster relation and lived team loyalty are not identical.
+
+## V002 C002 E012 motif / callback delta — a city built for the end, a coalition for one friend
+
+- **Eridu as hidden infrastructure:** Noa/Yuuka's recovered data turns Rio's abstract apocalyptic forecast into a secret fortress-city expenditure. The city exists in records; its full defenses, funding adjudication and location of Alice remain incomplete.
+- **Supernova as disputed object/person relation:** Utaha calls the sword Engineering's greatest invention and a taken asset after Rio dismissed it as a toy. Colleagues tease the friend-saving motive; material invention and Alice's personhood must not be collapsed into one another.
+- **Game-language strategy:** Toki becomes a `チートプレイヤー` analogy and Nel calls Alice's retrieval a `勝利条件`. Tactical framing helps assign tasks but cannot guarantee success or validate force.
+- **Agency across institutions:** Seminar dissent, Engineering transport inference, C&C diversion, Veritas remote aid and club retrieval distribute initiative. Sensei's explicit assent is real, while inward “operation start” cannot make the adult sole author.

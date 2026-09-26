@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -522,3 +522,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Toki roster:** Akane reports that callsign-zero-four Toki belongs to C&C yet is dedicated to Rio, effectively a bodyguard; Akane had known of her but not met her. This is a participant institutional account, not a complete personnel record or E001 encounter identification.
 - **Medical:** Momoi reappears conscious and claims her body/strength are fine after sleep. No doctor, discharge record, objective injury assessment or exact route from Schale is printed.
 - **Prospective response:** Momoi calls for retrieval, Nel agrees and solicits Akane/Asuna/Karin. Akane and another printed C&C assent support coalition formation, but no operational plan, authorization, equipment or tactical outcome is shown before the next `作戦会議` card.
+
+## V002 C002 E012 institutional delta — Eridu records and task allocation
+
+- **Seminar investigation:** Noa reports inspecting deleted/concealed-looking database entries and tracking opaque budget flow; Yuuka says recovered records show Rio secretly built `エリドゥ`, a fortress city “for the end,” and alleges budget embezzlement. No amount, signed authorization, full audit or Koyuki mechanism is established. Akane's Koyuki connection is a question.
+- **Site lead:** Noa supplies Eridu coordinates; Yuuka says Alice is likely in its central tower. Live location is not directly observed. Yuuka/Noa say their positions allow help only this far and ask the coalition to stop Rio; Sensei explicitly agrees.
+- **Access hypothesis:** Engineering infers a freight train may have delivered construction materials and offers to find the line. This is conditional on material provenance; no route or entry is yet verified. Predicted anti-intruder defenses and Rio surveillance are risk models, not observed full specifications.
+- **Operational division:** C&C plans frontal diversion of Rio/Toki; club/Engineering/Sensei plan rear retrieval; Veritas promises remote defense hacking. The win condition is Alice's retrieval before coalition defeat. All are prospective assignments, not completed action.
