@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.56"
+version: "11.57"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 202 complete i-n-g primary documents / T7S_B0080–T7S_B0155; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 205 complete i-n-g primary documents / T7S_B0080–T7S_B0156; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 724`; `revisions = 42`; `predictions = 7`; `AV_reviews = 102`; `literary_findings = 724`. Claims are bounded to their stated B0001 through B0155 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 76 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 729`; `revisions = 42`; `predictions = 7`; `AV_reviews = 103`; `literary_findings = 729`. Claims are bounded to their stated B0001 through B0156 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 77 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2460,3 +2460,27 @@ Owner and A/B/C locator key: [B0155](../02%20Readings/T7S_B0155_DEEP_READING.md)
 - Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred forty-nine dialogue-associated voice pages plus title cues, BGM/SFX, independent frog/gate evidence, habitat survey and post-waking site inspection remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0155_CLOSE-20260926`: five bounded claims and one AV review; no promoted magic ecology, stable frog identity, formal counseling expertise, specialist or monograph.
+
+## B0156 friendship, cover and own-song answer
+
+Owner and A/B/C locator key: [B0156](../02%20Readings/T7S_B0156_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.58. B0134/B0140 are bounded contrasts, not chronology or universal cover verdicts.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0156-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Friend's research dream honors Tomoe's example and causes genuine loneliness; the final song supports separate futures rather than demanding she stay. | A:P18–40; B:P1–22; C:P132–157. No guaranteed study/reunion. |
+| `CL-B0156-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | For this personal farewell, high-fidelity Haru imitation does not function as Tomoe's answer, while her first song with peer help receives direct fan approval; covers are not categorically invalid. | B:P43–85; C:P76–79,102–125. Acoustic quality and exact lyrics unauditioned. |
+| `CL-B0156-003` | `BOUNDED_INFERENCE`; D1; high | Peer diagnosis of the first silent exit is plausible but not direct fan testimony; their strong accusation wounds Tomoe, and Player explicitly calls it too harsh. | B:P59–110; C:P83–104. Second-song praise does not retroactively prove harshness necessary. |
+| `CL-B0156-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Self-direction and collaboration coexist: Tomoe chooses/request her own song, peers help, Player supports, and later anxiety/praise-seeking do not negate her step. | C:P1–79,105–109,181–199. No autonomous-solo myth or complete cure. |
+| `CL-B0156-005` | `BOUNDED_INFERENCE`; D1; high | Direct friend/passerby praise supports a local success only; full song, venue permit, wide impact, school outcome, future bond and durable mental-health improvement remain unverified. | C:P83–199. No technical ranking or hit-song claim. |
+
+### AV-0103 — Tomoe's two presentations and generic friend icons
+
+- Questions/claims: whether art proves individualized friend identity, musical exactness, original-song quality, airport permission or emotional cure; `CL-B0156-001`–`005`.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for performed songs/audio, lyrics/score, venue documents and later outcomes.
+- Selection: Tomoe school `adv_chara_120_01_01`/`_06`, stage `120_04_01`/`_06`; unnamed friend's generic student `025_01`; Murasaki `149_01_01`, Sisara `136_01_01`, Haru `003_02_01`; generic adult-woman role `037_01`; holocom `adv_obj_0027`. All 374 native pages and forty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.58 binds ten media receipts.
+- Observed: Tomoe's school/stage expression states are one performer. The friend/mother icons are generic roles, not personalized portraits or evidence of names. Holocom image cannot authenticate the concluding phone conversation or public metrics.
+- Native occurrence: command-only A:P0–1,7,33,41–44,61; B:P0,23–26,42,55–58,109,111; C:P0,58–61,80–82,84–85,111–114,158–162,177,199. B:P55–58 and C:P111–114 cut over the two songs rather than supplying fully reviewable performances.
+- Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX, complete songs, score/lyrics, event permit and future friendship/career outcomes remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0156_CLOSE-20260926`: five bounded claims and one AV review; no verified song ranking, universal anti-cover rule, anxiety cure, specialist or monograph promotion.

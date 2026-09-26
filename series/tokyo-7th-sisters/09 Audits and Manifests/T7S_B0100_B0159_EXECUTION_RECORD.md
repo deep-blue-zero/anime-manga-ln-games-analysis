@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.55"
+version: "1.56"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0155`.
-- Completed run blocks: **56/60**; completed run episodes: **162/174**.
-- Next: `T7S_B0156`, chapter `301280`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0156`.
+- Completed run blocks: **57/60**; completed run episodes: **165/174**.
+- Next: `T7S_B0157`, chapter `301290`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -92,7 +92,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0153` | `301250` | 晴海サワラ | 怪盗Sの華麗なる冒険 | `612201001 / 612201002 / 612201003` | CLOSED |
 | `T7S_B0154` | `301260` | 晴海カジカ | 私のファン | `612201101 / 612201102 / 612201103` | CLOSED |
 | `T7S_B0155` | `301270` | 晴海シンジュ | シンジュとふしぎなカエル | `612201201 / 612201202 / 612201203` | CLOSED |
-| `T7S_B0156` | `301280` | 白鳥トモエ | 貴方が歩くための私の歌 | `612201301 / 612201302 / 612201303` | AUTHORIZED_UNREAD |
+| `T7S_B0156` | `301280` | 白鳥トモエ | 貴方が歩くための私の歌 | `612201301 / 612201302 / 612201303` | CLOSED |
 | `T7S_B0157` | `301290` | 榎並マドカ | ナナスタ任侠伝 ～姉妹仁義～ | `612201401 / 612201402 / 612201403` | AUTHORIZED_UNREAD |
 | `T7S_B0158` | `301300` | 折笠アユム | ぽえ☆ぽえ★パンデミック | `612201501 / 612201502 / 612201503` | AUTHORIZED_UNREAD |
 | `T7S_B0159` | `301310` | 上杉・ウエバス・キョーコ | You are Today | `612201601 / 612201602 / 612201603` | AUTHORIZED_UNREAD |
@@ -330,3 +330,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0155 closeout receipt
 
 [T7S_B0155](../02%20Readings/T7S_B0155_DEEP_READING.md): Shinju's possibly dreamed rescue of speaking Kerosuke reframes her ordinary, child-limited ability to help; after waking with tears she accepts Sumire's request, without confirming a frog kingdom, magic gate or ecological intervention. All 311 pages, 257 text records and 54 command-only pages are reviewed; 10 exact static composites were inspected. Source-lock 12.57 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 249 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 56/60 blocks, 162/174 episodes; publication remains pending.
+
+## B0156 closeout receipt
+
+[T7S_B0156](../02%20Readings/T7S_B0156_DEEP_READING.md): Tomoe's first close classmate/fan leaves for Sendai-6th; after a Haru-imitation farewell fails to connect, Tomoe makes a first song with Murasaki/Sisara, asks to sing again, receives direct praise, and remains anxious despite choosing her own path. All 374 pages, 332 text records and 42 command-only pages are reviewed; 10 exact static composites were inspected. Source-lock 12.58 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 221 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 57/60 blocks, 165/174 episodes; publication remains pending.

@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.56"
+version: "11.57"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 202 complete i-n-g primary documents / T7S_B0080–T7S_B0155; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 205 complete i-n-g primary documents / T7S_B0080–T7S_B0156; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 667`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 777`; `last_closed_block = T7S_B0155`. The admitted horizon contains 437 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 202 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 676`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 791`; `last_closed_block = T7S_B0156`. The admitted horizon contains 440 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 205 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2373,3 +2373,38 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.57. [B0155](../02%20Readings/
 | `EDGE-0784` | `REVALUED_SMALL_HELP_TO_SUMIRE_RESPONSE` | `EV-B0155-007` shows an ordinary behavior change and idol-light analogy. |
 
 `T7S_B0155_CLOSE-20260926`: seven chapter events and thirteen typed edges; framed possibility never promoted to externally verified world state.
+
+## B0156 Tomoe's friend, two songs and separate futures
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.58. [B0156](../02%20Readings/T7S_B0156_DEEP_READING.md) owns the A/B/C locator key. The unnamed classmate is a consistent friend/fan role, not an invented stable identity. B0134's Tomoe/Sisara MC experiment and B0140's Murasaki cover are bounded comparisons, not proof that covers are always good or bad. The Haru medley and new song are skipped in source text; acoustic/lyric quality cannot be independently assessed.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0156-001` | Tomoe's classmate says seeing shy Tomoe perform gave her courage and calls her favorite idol; Tomoe deflects praise. | A:P2–40; `KNOW-0443`. Direct fan testimony for this girl, not generalized reach. |
+| `EV-B0156-002` | Tomoe says first school friend will transfer to Sendai-6th toward research; she is both proud and lonely. | A:P45–60; B:P1–22; `KNOW-0444`. Departure is shown later, arrival/enrollment not. |
+| `EV-B0156-003` | Peers arrange small debut-stage farewell; Tomoe performs Haru medley, says no stumble/nausea; girl leaves silent. | B:P23–66; `KNOW-0445`. Full performance and girl's immediate motive uninspected. |
+| `EV-B0156-004` | Murasaki/Sisara call the copy insufficient for Tomoe's fan; Player objects to harshness; Tomoe confesses fear she lacks her own talent and flees crying. | B:P67–110; `KNOW-0446`. Peer diagnosis plausible, not direct first-exit testimony. |
+| `EV-B0156-005` | Player respects request not to look, reports Tomoe's repeated practice and urges self-direction while promising nearby support. | C:P1–57; `KNOW-0447`. No clinical or performance certification. |
+| `EV-B0156-006` | Tomoe apologizes to waiting Murasaki/Sisara and asks them to help make her first original song; both agree. | C:P62–79,105–109; `KNOW-0448`. Authorship and chorus help coexist. |
+| `EV-B0156-007` | On departure day Tomoe and girl apologize; Tomoe asks permission for second song in claimed-permitted event space, and girl agrees. | C:P83–109; `KNOW-0449`. Permit document/flight arrival absent. |
+| `EV-B0156-008` | After new song girl explicitly calls it Tomoe's best; passersby praise; each promises to pursue her own dream and friend leaves. | C:P108–157; `KNOW-0450`. Direct local reception, no scored acoustic/wider outcome. |
+| `EV-B0156-009` | Murasaki/Sisara name Tomoe friend/rival; Haru admires her; Tomoe panics at public ambition and seeks Player praise while insisting she will walk on her own. | C:P163–199; `KNOW-0451`. Anxiety persists; no broken promise or stable cure. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0785` | `TOMOE_STAGE_EXAMPLE_TO_FRIEND_COURAGE` | Girl directly attributes her inspiration in `EV-B0156-001`; only her account. |
+| `EDGE-0786` | `FRIEND_DREAM_TO_IMPENDING_SEPARATION` | Research move produces Tomoe's sadness in `EV-B0156-002`, not death/betrayal. |
+| `EDGE-0787` | `PEER_SUPPORT_TO_FIRST_FAREWELL_STAGE` | `EV-B0156-003` is arranged for one fan; no full performance evidence. |
+| `EDGE-0788` | `HARU_ADMIRATION_TO_IMITATION` | Tomoe chooses beloved model in `EV-B0156-003`; admiration itself not false. |
+| `EDGE-0789` | `SILENT_DEPARTURE_TO_PEER_DIAGNOSIS` | Friend leaves; Murasaki/Sisara infer mismatch in `EV-B0156-004`, not direct confirmation. |
+| `EDGE-0790` | `HARSH_CRITIQUE_TO_TALENT_FEAR` | Their words expose distress, while Player calls harshness excessive. |
+| `EDGE-0791` | `PRACTICE_HISTORY_TO_PLAYER_ENCOURAGEMENT` | He cites after-lesson work and notes in `EV-B0156-005`; no talent proof. |
+| `EDGE-0792` | `NEARBY_SUPPORT_TO_TOMOE_DECISION` | Player does not claim to make Haru/Tomoe shine; she elects retry in `EV-B0156-005`–`006`. |
+| `EDGE-0793` | `TOMOE_REQUEST_TO_COLLABORATIVE_SONG` | Murasaki/Sisara accept first-song work and chorus; ownership not solitude. |
+| `EDGE-0794` | `SECOND_REQUEST_TO_EXPLICIT_LISTENING` | Tomoe asks, friend agrees in `EV-B0156-007`; no assumed audience duty. |
+| `EDGE-0795` | `NEW_SONG_TO_DIRECT_FAN_PRAISE` | Friend calls it best in `EV-B0156-008`; full audio/lyrics unavailable. |
+| `EDGE-0796` | `MUTUAL_ENCOURAGEMENT_TO_SEPARATE_PATHS` | Both commit to ambitions as girl goes; no future outcome guarantee. |
+| `EDGE-0797` | `LOCAL_SUCCESS_TO_PEER_RIVALRY` | Murasaki/Sisara recognize stimulation in `EV-B0156-009`; no permanent status ranking. |
+| `EDGE-0798` | `PUBLIC_AMBITION_TO_RENEWED_ANXIETY` | Tomoe's later panic and praise request coexist with her chosen path. |
+
+`T7S_B0156_CLOSE-20260926`: nine chapter events and fourteen typed edges; no performed-song verdict, exact first-exit motive or departure outcome beyond shown farewell.

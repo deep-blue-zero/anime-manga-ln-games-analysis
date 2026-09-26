@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.56"
+version: "11.57"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 202 complete i-n-g primary documents / T7S_B0080–T7S_B0155; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 205 complete i-n-g primary documents / T7S_B0080–T7S_B0156; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 442`; `directional_relationship_states = 638`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0155, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 451`; `directional_relationship_states = 646`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0156, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3562,3 +3562,42 @@ The [B0155](../02%20Readings/T7S_B0155_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0638` | Shinju → Kajika, **bounded disclosure after waking** | Says nothing happened and thanks her. C:P118–131. Reciprocal `REL-0637`; silence does not prove nothing felt. |
 
 `T7S_B0155_CLOSE-20260926`: seven epistemic states, four directional relationship pairs (one explicitly framed), existing-character/unit annotations and no new external frog/kingdom identity.
+
+## B0156 Tomoe's song, friend and collaborative support
+
+The [B0156](../02%20Readings/T7S_B0156_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.58, binds these updates. Existing Tomoe `IDENTITY-0045`/`CHAR-0029`, Murasaki `IDENTITY-0092`/`CHAR-0074`, Sisara `IDENTITY-0041`/`CHAR-0034`, Haru `CHAR-0004`, Player `CHAR-0001` and Nanastar `UNIT-0002` suffice. The classmate and her mother are unnamed; generic student/adult role art is not a personal portrait or basis for a new identity. `ぼっちーず` remains peer/stage language, not a newly founded unit here.
+
+| Existing stable ID / role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0029` / Tomoe | Receives direct admiration, grieves friend's move, performs a Haru imitation, breaks under critique, elects first self-authored collaborative song, asks friend to listen and promises own idol path; anxiety returns. | A:P8–60; B:P1–110; C:P1–199. No full performance quality, anxiety cure or solitary authorship. |
+| Unnamed classmate/fan | Says Tomoe's courage inspired research dream, silently leaves first performance, later apologizes, agrees to second, praises song and leaves toward Sendai-6th. | A:P8–32; B:P1–8,27–64; C:P83–157. No personal name, exact reason for initial exit, admission/arrival or guaranteed reunion. No stable ID minted. |
+| `CHAR-0074` / Murasaki | Welcomes fan, critiques Haru-copy sharply, later waits, agrees to help composition/chorus and names Tomoe a stimulating rival. | A:P2–40; B:P18–110; C:P62–79,105–109,163–176. Player flags harshness; chorus is consented, not unauthorized use. |
+| `CHAR-0034` / Sisara | Treats Tomoe as light, diagnoses imitation, sharply calls retreat cowardice, then waits, helps song and asks for closer address as friend. | A:P2–40; B:P19–110; C:P62–79,105–109,163–176. Interpretation of girl's first exit not directly verified. |
+| `CHAR-0001` / Player | Helps arrange first stage, criticizes peer harshness, provides private comfort and effort-based account, supports second event, hears song and tempers crowd. | B:P23–110; C:P1–57,83–157,178–199. His support is not song authorship, technical audit or permanent anxiety treatment. |
+| `CHAR-0004` / Haru | Serves as Tomoe's admired model; later says she admires Tomoe and wants to praise her. | B:P43–85; C:P178–180. No authorial approval of medley or exact performed-song analysis. |
+| `UNIT-0002` / Nanastar | Offers an unscheduled debut-stage greeting and supports a claimed-permitted airport event-space farewell; chorus is peer-coordinated. | B:P23–66; C:P62–157. No official venue permit, original-song rights filing or routine solo-safeguarding protocol shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0443` | Girl explicitly tells Tomoe/Murasaki/Sisara why she admires Tomoe; Tomoe initially discounts herself. | A:P8–40. Direct for this fan alone. |
+| `KNOW-0444` | Tomoe reports friend will transfer to Sendai for research goal; peers learn sadness and move plan. | A:P45–60; B:P1–22. No admission or exact eventual course. |
+| `KNOW-0445` | Girl sees first medley and leaves silent; Tomoe knows she avoided mistakes by her report, not why friend left. | B:P23–66. Actual song/audio and private reason absent. |
+| `KNOW-0446` | Murasaki/Sisara infer copy failed personal request; Player flags harshness; Tomoe reveals talent fear. | B:P67–110. Inference not fan testimony. |
+| `KNOW-0447` | Player reports habitual Tomoe effort and interprets tears as frustration; Tomoe admits inability to stop striving despite self-doubt. | C:P1–57. No clinical or merit certification. |
+| `KNOW-0448` | Tomoe asks for first composition help; Murasaki/Sisara explicitly agree. | C:P62–79,105–109. Authorship collaborative, not plagiarized. |
+| `KNOW-0449` | Girl thinks Tomoe absent due to first rupture, then hears apology/request and agrees to listen; Tomoe claims event-space permission. | C:P83–109. Permit not reviewed. |
+| `KNOW-0450` | Friend directly says song is Tomoe's best; passersby respond, both state dreams before separation. | C:P108–157. Complete lyrics/audio and future outcomes unknown. |
+| `KNOW-0451` | Murasaki/Sisara discuss peer rivalry, Haru admires Tomoe; Tomoe later panics over network reaction and receives reassurance. | C:P163–199. Feared backlash not shown occurring. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0639` | Unnamed friend → Tomoe, **fan inspiration and independent departure** | Calls her best idol, tries research path, leaves first stage, then accepts/praises new song. A:P18–32; B:P59–64; C:P83–157. Reciprocal `REL-0640`; no first-exit explanation or guaranteed reunion. |
+| `REL-0640` | Tomoe → unnamed friend, **separation grief and self-authored sendoff** | Fears loss, first offers Haru medley, asks to retry with own collaborative song and says “go well.” B:P1–110; C:P83–157. Reciprocal `REL-0639`; song supports rather than stops departure. |
+| `REL-0641` | Murasaki → Tomoe, **harsh challenge becoming craft support/rivalry** | Calls copy inadequate, later waits, agrees to help, names her stimulating rival. B:P67–110; C:P62–79,163–176. Reciprocal `REL-0642`; severity not proven necessary. |
+| `REL-0642` | Tomoe → Murasaki, **hurt followed by chosen collaboration** | Cries after critique, returns to apologize, requests composition/chorus help. B:P77–110; C:P62–79,105–109. Reciprocal `REL-0641`; chorus authorized. |
+| `REL-0643` | Sisara → Tomoe, **recognition, severe question and support** | Calls Tomoe a light, says she fled own stage, later helps song and asks for closer name. A:P34–40; B:P67–110; C:P62–79,163–176. Reciprocal `REL-0644`; first fan exit motive unverified. |
+| `REL-0644` | Tomoe → Sisara, **respect that can become peer friendship** | Calls her formal “-san,” accepts craft help and is later invited to speak as friends. A:P13–20; C:P62–79,163–176. Reciprocal `REL-0643`; no actual changed address shown. |
+| `REL-0645` | Player → Tomoe, **nearby support without appropriating her voice** | Respects tears/privacy, names practice, asks self-direction, helps stage/sendoff, reassures panic. C:P1–57,83–199. Reciprocal `REL-0646`; no full clinical repair. |
+| `REL-0646` | Tomoe → Player, **autonomy with continued praise need** | Chooses own song, says she will walk on her own, asks future praise and presence. C:P1–79,195–199. Reciprocal `REL-0645`; dependence not proof autonomy failed. |
+
+`T7S_B0156_CLOSE-20260926`: nine epistemic states, four directional relationship pairs and existing-character/unit annotations; unnamed fan remains role-specific, no new identity or unit.
