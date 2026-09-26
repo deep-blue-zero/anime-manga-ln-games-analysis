@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -591,3 +591,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **RIO ↔ C&C/TOKI:** Rio says the suit was also prepared for C&C defection and orders Toki to recover Sensei, revealing institutional distrust alongside her larger threat story. Toki follows orders; her private view of C&C or Alice remains narrow.
 - **CHIHIRO/MOMOI ↔ SENSEI/PARTY:** Chihiro cues Momoi to exploit a gap, Momoi acts and the capture target escapes by Toki's report. Their support rebuts a sole-Sensei account; exact device/action is not printed.
 - **ALICE ↔ RESCUERS:** no Alice contact or consent conversation. Survival/escape from this engagement keeps recovery possible but does not restore belonging.
+
+## V002 C002 E020 relationship delta — care, challenge and shared inference
+
+- **C&C ↔ NEL:** Akane, Karin and Asuna worry about an unconscious/deeply injured captain; Nel wakes but rejects reassurance and insists on helping. Concern is direct, while her capacity to continue safely is unverified.
+- **NEL ↔ GAME DEVELOPMENT DEPARTMENT/ALICE:** Nel challenges Momoi/Midori's despair and explicitly names Alice rescue as their common reason for coming. This is solidarity under danger, not proof Alice knows/consents or that injured Nel is obliged to fight.
+- **YUZU ↔ GROUP:** Yuzu overcomes hesitation enough to report a brief hit and propose a trap, shifting from protected companion to informational/tactical contributor. The content has not yet been shared on-page.
+- **RIO/TOKI ↔ COALITION:** Rio dismisses their plan without demonstrated knowledge of its mechanics; Toki obeys. Nel calls for a rematch, which is intention rather than a completed contest.

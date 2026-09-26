@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E019 active provisional; E020 unopened
+current_sequential_boundary: MAIN_V002_C002_E020 active provisional; E021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1476,3 +1476,13 @@ No new claim ID, model, frozen prediction or side-source admission. Maze/reunion
 - **BA-C019: ESCAPE WITHOUT RETURN** — Alice remains absent; surviving this engagement is not restoration of her place or safety.
 
 No new claim ID, model, frozen prediction or side-source admission. Precognition/compute scope, Nel wound, machine damage, escape mechanism, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E020 claim transitions — injury and conditional opening
+
+- **BA-C001–C004, C007, C010–C011: NECESSITY UNPROVEN** — the cost of continued intervention rises with Nel's injury, while Yuzu's reported hit and Chihiro's possible computational gap weaken Rio's absolute-defense rhetoric. Neither establishes a safe, successful alternative or Rio's catastrophic ontology.
+- **BA-C005–C006: DISTRIBUTED AGENCY REINFORCED** — Chihiro appraises capacity and offers a cautious hypothesis, Yuzu notices a hit and proposes a trap, Nel refuses abandonment, and Momoi/Midori frame collective effort. Sensei participates without sole authorship.
+- **BA-C008: BOUNDED** — one inward Sensei line and nine singleton choices; `choice:009` voices a conjecture, not a complete tactical plan.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no revision to prior Prologue/Abydos/Kaiser/Shiba Seki claims.
+- **BA-C019: MOTIVE, NOT RESTORATION** — Alice's friends insist on rescue, but she remains absent and her welfare/choice unknown.
+
+No new claim ID, model, frozen prediction or side-source admission. Nel fitness, actual suit limitation, Yuzu's `ハメ技`, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.

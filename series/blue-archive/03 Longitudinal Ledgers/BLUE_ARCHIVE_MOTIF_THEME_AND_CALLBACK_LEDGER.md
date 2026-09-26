@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -741,3 +741,11 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **A crack in the armor:** Toki's zero-injury self-report precedes her surprise at possible machine damage. The sequence resists both total-invulnerability and easy-defeat narratives.
 - **Countdown without clock:** Rio's `刻限` reveals a timed defense role. The unspecified deadline keeps pressure on rescue while withholding the halo procedure's state.
 - **Coalition versus “only variable”:** Chihiro's cue and Momoi's action enable escape after Sensei's roof choice falters, continuing the contrast with Rio's single-adult explanation.
+
+## V002 C002 E020 motif / callback delta — bad ending and rule-bound exploit
+
+- **Bad ending versus unfinished play:** Momoi's `バッドエンド` names feared failure after many people's efforts, not a scripted inevitability. Nel's challenge reopens agency while exposing bodily cost.
+- **Combat value versus creative value:** Chihiro calls the game club `戦力外` for direct fighting, yet Yuzu supplies the key observation and an idea. Chapter 1's maker/receiver/belonging distinction now meets a rescue context; contribution is not reducible to weapon strength.
+- **“Cheat” within rules:** the suit's asymmetry invites a `ハメ技` rather than omnipotent rescue. The trap is undisclosed and not yet validated; game language is tactical framing, not physical-law proof.
+- **Bodily limit versus grit:** Nel's awakening does not undo reported serious injury. `根性` sustains commitment but risks romanticizing harm if treated as medical clearance.
+- **Distributed inference:** Yuzu observes, Chihiro hypothesizes, Karin tests the repeatability objection, and Sensei articulates a possible gap. Rio's sole-variable frame remains inadequate.

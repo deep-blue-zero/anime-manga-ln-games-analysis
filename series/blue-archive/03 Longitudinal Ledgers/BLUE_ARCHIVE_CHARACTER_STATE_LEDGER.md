@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -704,5 +704,15 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operationa
 - **Toki:** reports light hit, gravitational compensation, zero injury from continuous fighting, then later notices machine damage. These are time/referent-distinct statements, not proof of invulnerability or complete defeat. She obeys Rio's recover-Sensei order and reports the target escapes after Momoi acts.
 - **Rio:** calls Sensei the sole variable, says the suit was prepared for world threat and possible C&C defection, then orders defense until an unspecified deadline rather than pursuing the escaped target. Threat/necessity and exact clock remain her account.
 - **Momoi:** acts on Chihiro's cue; mechanism/object unknown, including whether E017's unidentified gift was used.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E020 delta — wounded resolve, observed opening, withheld trap
+
+- **Nel:** initially unconscious after the escape, then wakes, downplays serious injury and describes an immobile arm, possible torn leg ligament and nausea at movement. These are bodily limits/self-assessment, not a medical clearance or proof she can safely fight. She refuses abandonment of Alice and conditionally claims she can win at close range if the suit advantage is neutralized.
+- **Chihiro:** inventories Engineering exhaustion, Veritas's remote-support ceiling and C&C attrition. She calls the game club non-combat strength but then hypothesizes that Abi-Eshuh may lack capacity to intercept and evade while calculating a fall. She repeatedly marks this hypothetical; no measured compute budget.
+- **Yuzu:** says she saw Nel's hit connect for a moment and proposes an in-rules `ハメ技`. The hit has E019 corroboration; the specific exploit is not disclosed or tested.
+- **Momoi/Midori:** name the coalition's accumulated help, fear a “bad ending,” and seek a way to save Alice. Midori objects to Nel's physical risk. Despair is not a completed decision to give up.
+- **Rio/Toki:** Rio dismisses the unseen plan, Toki obeys, and a rematch is set. No demonstrated counter or battle result.
 
 Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

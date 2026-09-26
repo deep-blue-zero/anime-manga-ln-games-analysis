@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -692,3 +692,7 @@ Sensei follows Chihiro's route, meets C&C at tower exterior, asks after Toki and
 ## V002 C002 E019 delta — explicit roof choice, incomplete protection
 
 Rio calls Sensei the “only variable” and targets their command ability. Sensei's `choice:003` audibly directs movement to the roof and `choice:004` corrects Rio's narrow-space inference; Nel explicitly trusts the move. Akane's land-only clue and Chihiro's warning/cue contribute, while `u:0019`/`0030` and later concern for Nel are `心の声` even where someone appears to answer. The rooftop/air tactic fails to disable Abi-Eshuh and Nel is hurt. Chihiro/Momoi enable escape from Toki's attempted recovery. Six choice groups are singleton; no adult omniscience, sole rescue, medical clearance, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E020 delta — care and collective problem-solving without cure
+
+Sensei inwardly checks the party, explicitly worries about Nel through singleton choices and says the other C&C members are near their limit. No clinical decision, treatment or safe combat clearance follows. Nel wakes and insists on continued rescue despite grave limitations; Sensei's concern does not remove her agency or settle whether renewed combat is proportionate. The tactical opening comes from Yuzu's observed hit, Chihiro's cautious dual-task hypothesis, Karin's objection and shared discussion; `choice:009` is a conjectural formulation. Nine singleton choices and `u:0002` inward speech remain distinct. No adult sole-savior success, Alice contact, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

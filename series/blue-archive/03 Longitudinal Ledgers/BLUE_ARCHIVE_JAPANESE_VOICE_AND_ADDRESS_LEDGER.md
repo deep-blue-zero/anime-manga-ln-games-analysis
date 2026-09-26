@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1003,3 +1003,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Akane's italic `陸上専用` suggests an air vulnerability, but Toki's `重力加速に対する演算補正` and `空中であっても` qualify it. `被弾……ダメージ、軽微` is a hit; `連戦による負傷………ゼロ` and later `機体に、ダメージが……？` differ by time and machine/operator referent.
 - Rio's `裏切った時に備えて` frames C&C dissent as anticipated betrayal. `刻限までここを防衛` names a timed hold objective without the time, procedure status or completed outcome.
 - **Quarantine:** `u:0034` Toki label voices Nel's rough register. Sensei `u:0002`/`0016`/`0018-0019`/`0024`/`0030`/`0061`/`0065` are inward even with apparent replies; all six choices singleton. Yuzu `u:0067-0068` no-scratch claim concerns Toki, not wounded Nel. Momoi `u:0080` does not identify E017's gift.
+
+## V002 C002 E020 delta — `戦力外`, `根性` and hypothetical `ハメ技`
+
+- Chihiro's `戦力外` is a direct-combat appraisal of the Game Development Department, not a denial of its informational or creative contribution. Momoi/Midori's `私たちだけ` and `バッドエンド` express fear amid acknowledged coalition effort, not a completed rescue failure.
+- Akane `意識がまだ……戻っておりません` is superseded by Nel's `u:0027` awakening for consciousness only. Nel's `足も靭帯が切れてるな、こりゃ` is a self-diagnosis; `腕は動かせそうにもねぇ` and nausea describe serious limits. Her `根性で耐えてやんよ` is resolve, not treatment.
+- Yuzu `攻撃が通ってるのを見ました` reports a momentary hit; Chihiro repeatedly marks the dual-task calculation account `もしもの話`/`仮定`. `ハメ技` announces Yuzu's proposed in-rules exploit but withholds mechanics.
+- **Quarantine:** `u:0030` labeled Asuna has rough speech that does not securely establish her register. Midori `u:0012-0013` moves from protest to admission. Sensei `u:0002` is inward; all nine choice groups singleton. `u:0095` is a next-title card, not a battle outcome.

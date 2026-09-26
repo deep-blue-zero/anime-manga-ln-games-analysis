@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:020; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -577,3 +577,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Contingency:** Rio says the suit was built for a coming world threat *and* C&C disobedience. This is her design account and distrust, not a finding that C&C's Alice-protective refusal is betrayal or that the larger threat scale is proven.
 - **Capture objective:** Rio orders Toki to recover Sensei; Chihiro cues Momoi, and Toki reports the target escaped. Exact escape device is unshown. Rio then orders no pursuit because they must hold the site until `刻限`; no deadline value or halo-procedure status is given.
 - **Medical/safety:** Nel is visibly wounded and downplays it. No doctor, injury grade, prognosis or full party casualty inventory appears; Yuzu's no-scratch line concerns Toki, not Nel.
+
+## V002 C002 E020 institutional delta — depleted force, emergent non-combat contribution
+
+- **Capacity inventory:** Engineering is out after Avant-Garde-kun; Veritas retains network access but limited remote support; C&C is at or near exhaustion. Chihiro calls the game club non-combat strength. These are situated operational appraisals, not total institutional capability records.
+- **Medical/safety:** Akane reports Nel initially unconscious; she wakes, with serious witnessed injury and self-reported arm/leg/nausea limitations. No clinician, treatment, evacuation or fitness assessment is shown. Her insistence on a rematch cannot itself settle duty of care.
+- **Technical defense:** Yuzu reports one transient connected hit. Chihiro hypothesizes that fall compensation competes with interception/evasion; no instrumented compute budget or replicated test. Karin doubts a repeated roof-drop will work, and Yuzu proposes a different `ハメ技` without sharing its steps.
+- **Alice governance:** the tower/deadline/halo condition remains unobserved; Rio's categorical dismissal and Toki's obedience do not provide a hearing on Alice's wishes or threat classification.
