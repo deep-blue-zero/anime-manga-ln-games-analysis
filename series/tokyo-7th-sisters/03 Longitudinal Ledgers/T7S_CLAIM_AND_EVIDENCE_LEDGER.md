@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.39"
+version: "11.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 151 complete i-n-g primary documents / T7S_B0080–T7S_B0138; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 154 complete i-n-g primary documents / T7S_B0080–T7S_B0139; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 645`; `revisions = 42`; `predictions = 7`; `AV_reviews = 85`; `literary_findings = 645`. Claims are bounded to their stated B0001 through B0138 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 59 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 649`; `revisions = 42`; `predictions = 7`; `AV_reviews = 86`; `literary_findings = 649`. Claims are bounded to their stated B0001 through B0139 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 60 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2058,3 +2058,26 @@ Owner and A/B/C locator key: [B0138](../02%20Readings/T7S_B0138_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twelve dialogue-associated voice pages plus title cues, BGM/SFX and actual live performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0138_CLOSE-20260926`: four bounded claims and one AV review; no grief cure, safety clearance, individualized child portrait, completed reconciliation, specialist or monograph promotion.
+
+## B0139 child-led craft, covert care and requested comfort
+
+Owner and A/B/C locator key: [B0139](../02%20Readings/T7S_B0139_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.41. B0133/B0135 are bounded comparisons; 2043 SOL is a separate horizon, not the automatically continued 2034 quartet.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0139-001` | `BOUNDED_INFERENCE`; D1; high for limit | The under-twelve quartet is a real one-live coordinated formation with Shirayuki's accepted lead, while older peers remain offstage and later SOL identity/name/duration cannot be inferred. | A:P2–42; B:P1–37; C:P1–23. No full safety plan or permanent unit. |
+| `CL-B0139-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Shirayuki's refusal to excuse craft errors by age coexists with peers' refusal to make the leader solely responsible; pleasure and imperfection are distinct observations. | B:P22–37; C:P1–23. No performed-audio/crowd audit. |
+| `CL-B0139-003` | `BOUNDED_INFERENCE`; D1; high | The zashiki-warashi explanation is child-limited folklore for snacks that adults are shown providing; Shinju hints at an idol source, but no universal child disclosure or supernatural event follows. | B:P1–21,29–36. Exact donor distribution to every child unknown. |
+| `CL-B0139-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Hime's restraint of uninvited embraces and Shirayuki's later explicit hug/pat request distinguish agency-respecting adult care from denying comfort. | C:P24–59. No blanket contact permission. |
+
+### AV-0086 — child quartet and older-observer static states
+
+- Questions/claims: whether native visuals establish complete choreography, supernatural aid, exact snack placement, guardian-safety plan, actual hug geometry or future SOL continuity; `CL-B0139-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed song/dance/crowd, safety plan and long-horizon unit restrictions.
+- Selection: Shirayuki `adv_chara_148_01_01`, `148_01_03`; Shinju `014_01_05`; Manon `132_01_02`; Tasha `135_01_02`; Mimi `126_01_05`; Miwako `134_01_04`; Hime `006_01_19`. All 141 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.41 binds eight media receipts.
+- Observed: four younger performers and three older observers are distinguishable; Shirayuki's chosen stills change expression within the same costume. The static selection does not show full stage technique, literal zashiki-warashi, snacks, safety staffing or consent to touch.
+- Native occurrence: command-only A:P0–1,12,30,42; B:P0,12,19–21,28,37; C:P0,58–59. B:P19–21 separates donor knowledge from the child-side interpretation; final state ends after request/comfort comedy.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred fifteen dialogue-associated voice pages plus title cues, BGM/SFX and actual live performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0139_CLOSE-20260926`: four bounded claims and one AV review; no supernatural finding, named permanent child unit, SOL-equivalence, complete performance/safety certification, specialist or monograph promotion.

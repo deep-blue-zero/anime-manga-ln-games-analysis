@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.39"
+version: "11.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 151 complete i-n-g primary documents / T7S_B0080–T7S_B0138; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 154 complete i-n-g primary documents / T7S_B0080–T7S_B0139; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 314`; `directional_relationship_states = 528`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0138, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 321`; `directional_relationship_states = 534`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0139, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2915,3 +2915,43 @@ The [B0138](../02%20Readings/T7S_B0138_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0528` | Saori → Sawara, **open account of vocational limit** | Explains failure to make child laugh and receives support. B:P11–42; C:P1–17. Reciprocal `REL-0527`; no achieved future reunion. |
 
 `T7S_B0138_CLOSE-20260926`: one new chapter-local identity, one bounded child character state, seven epistemic states, four directional relationship pairs and existing-actor/unit annotations; no name, grief cure, safety clearance or completed apology.
+
+## B0139 Shirayuki's leadership, one-live unit and hidden care
+
+The [B0139](../02%20Readings/T7S_B0139_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.41, binds these updates. Existing Shirayuki `IDENTITY-0067`/`CHAR-0052`, Shinju `CHAR-0021`, Manon `IDENTITY-0068`/`CHAR-0053`, Tasha `IDENTITY-0069`/`CHAR-0054`, Mimi `IDENTITY-0042`/`CHAR-0065`, Miwako `IDENTITY-0043`/`CHAR-0070`, Hime `IDENTITY-0009`/`CHAR-0009`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. New `UNIT-0027` is a bounded one-live formation, not a new identity route for later SOL `UNIT-0022`.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0052` / Shirayuki | Accepts youngest leadership after peer endorsement, encourages practice, reads snacks as helpful folklore, self-critiques errors and explicitly asks Player for hug/praise. | A:P2–29; B:P1–37; C:P1–59. Not a permanent leader, supernatural witness or a child without care needs. |
+| `CHAR-0021` / Shinju | Endorses Shirayuki irrespective of age, suspects an overhelpful idol source, rallies peers and proposes collective review. | A:P13–29; B:P11–27; C:P1–23,42. No later SOL role projected backward. |
+| `CHAR-0053` / Manon | Wants to perform with peers, endorses Shirayuki, enjoys snacks, supports rehearsal and says mistakes are not solely leader's. | A:P13–29; B:P1–27; C:P14–23,40. No flawless show or formal permanent unit. |
+| `CHAR-0054` / Tasha | Wants under-twelve live, recalls Shirayuki's prior kindness, worries about performing without adults and later shares responsibility for improvement. | A:P13–29; B:P1–27; C:P6–23,41. `コドモ連合` is her joke, not a registered name. |
+| `CHAR-0065` / Mimi | Worries about all-child performance, leaves refreshments/monitors with Miwako and wants to rush in for hugs before Hime checks her. | A:P8–42; B:P13–36; C:P24–59. Care is real but not full safety governance or blanket touch consent. |
+| `CHAR-0070` / Miwako | Questions unconsulted plan, joins covert snack/check-in care, cheers stage and wants to hug Shirayuki before Hime's restraint. | A:P8–42; B:P13–36; C:P24–59. No performed-audio or safety-clearance judgment. |
+| `CHAR-0009` / Hime | Urges older peers to respect child competence, privately checks too, then distinguishes simple praise from imposing a hug while accepting Player's response to Shirayuki's request. | A:P33–42; B:P13–36; C:P24–59. Her restraint is situational, not a no-comfort rule. |
+| `CHAR-0001` / Player | Selects under-twelve live/youngest leader, observes effort, praises quartet and responds to Shirayuki's initiated request for comfort. | A:P13–29; C:P35–59. No complete safety protocol, formal unit longevity or full technical performance review shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0315` | Player proposes under-twelve live/Shirayuki lead; four children express wishes/endorsement and Shirayuki accepts with fear. | A:P2–29. No standing unit terms or later SOL equivalence. |
+| `KNOW-0316` | Miwako/Mimi know they were not consulted and worry about care; Hime knows child performers want recognition. | A:P8–12,31–42. No documented agreed supervision protocol. |
+| `KNOW-0317` | Children find snacks; Shirayuki infers folklore, Manon suggests fairy, Shinju hints at idol helpers; adults know donors and check-ins. | B:P1–21,29–36. Children are not shown receiving full donor account. |
+| `KNOW-0318` | Tasha fears no adults onstage; peers know daily preparation and Shirayuki rallies them; adults watch with worry. | B:P22–37. Outcome still unknown before performance. |
+| `KNOW-0319` | Shirayuki reports talk/movement errors and audience pleasure; peers hear and distribute responsibility, agreeing on review. | C:P1–23. Full live and crowd metrics unauditioned. |
+| `KNOW-0320` | Miwako/Mimi want to embrace, Hime says stage agency calls first for praise. | C:P24–34. Shirayuki's own later request not yet known to them. |
+| `KNOW-0321` | Player praises observed effort; Shirayuki initiates physical comfort/request and asks peer praise; others observe. | C:P35–59. No blanket permission, future care pattern or revision of errors. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0529` | Player → Shirayuki, **proposed leadership and responsive praise** | Chooses her as leader, witnesses effort and responds to explicit hug/pat request. A:P18–29; C:P35–45. Reciprocal `REL-0530`; no safety or consent generalization. |
+| `REL-0530` | Shirayuki → Player, **scared assent and requested comfort** | Accepts his lead invitation, wants his praise and initiates hug after the live. A:P18–29; C:P35–53. Reciprocal `REL-0529`; stage seriousness intact. |
+| `REL-0531` | Shinju → Shirayuki, **endorsement and shared craft burden** | Names her persistence, asks rally and proposes review rather than one-person blame. A:P20–25; B:P25–27; C:P11–23,42. Reciprocal `REL-0532`; not later SOL command. |
+| `REL-0532` | Shirayuki → Shinju, **young leader relying on older peer** | Initially thinks Shinju better suited, then accepts her support and asks Player to praise her too. A:P19–29; B:P22–27; C:P52–53. Reciprocal `REL-0531`; no fixed hierarchy beyond live. |
+| `REL-0533` | Hime → Miwako/Mimi, **restraint with quiet participation** | Urges trust, also checks rehearsals, then stops uninvited comfort and endorses simple praise. A:P33–42; B:P13–36; C:P24–50. Reciprocal `REL-0534`; not no-care doctrine. |
+| `REL-0534` | Miwako/Mimi → Hime, **concern and partial correction** | Explain worry, join hidden visits and accept her check before reacting to Player's requested-comfort role. A:P8–42; B:P13–36; C:P24–59. Reciprocal `REL-0533`; not a full safeguarding audit. |
+
+| ID / formation | Membership, role, interval and evidence | Boundary |
+| --- | --- | --- |
+| `UNIT-0027` / unnamed under-twelve one-live quartet | Shirayuki (chosen leader), Shinju, Manon and Tasha rehearse and perform one Nanasta live; four members assess errors and plan further improvement. A:P13–29; B:P22–37; C:P1–23; `EV-B0139-001`, `004`–`005`. | No formal name, duration, repeated booking, independent contract or demonstrated continuity into 2043 SOL `UNIT-0022`; Tasha's `コドモ連合` is a joke. |
+
+`T7S_B0139_CLOSE-20260926`: seven actor-local knowledge records, three directional relationship pairs, existing-actor annotations and one bounded one-live unit; no formal child-group name, supernatural donor or SOL origin claim.

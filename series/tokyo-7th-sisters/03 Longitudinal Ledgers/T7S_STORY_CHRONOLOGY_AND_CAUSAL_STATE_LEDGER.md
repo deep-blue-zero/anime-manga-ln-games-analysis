@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.39"
+version: "11.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 151 complete i-n-g primary documents / T7S_B0080–T7S_B0138; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 154 complete i-n-g primary documents / T7S_B0080–T7S_B0139; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 539`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 575`; `last_closed_block = T7S_B0138`. The admitted horizon contains 386 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 151 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 546`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 586`; `last_closed_block = T7S_B0139`. The admitted horizon contains 389 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 154 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1839,3 +1839,33 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.40. [B0138](../02%20Readings/
 | `EDGE-0582` | `SAWARA_BRIDGE_WITH_REUNION_OPEN` | Sawara proposes show then backstage in `EV-B0138-007`; direct Saori–girl conversation is not in chapter. |
 
 `T7S_B0138_CLOSE-20260926`: seven chapter events and eleven bounded edges; no new world/thread, safety clearance, grief cure or completed backstage reconciliation.
+
+## B0139 Shirayuki's one-live quartet and hidden older-peer care
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.41. [B0139](../02%20Readings/T7S_B0139_DEEP_READING.md) owns the A/B/C locator key. B0133/B0135 are comparison horizons; later 2043 SOL `UNIT-0022` is not inferred to be this 2034 one-live formation. `ザシキワラシ` is Shirayuki's folklore explanation for snacks whose human donors are shown separately.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0139-001` | Player proposes an under-twelve quartet and Shirayuki as youngest leader; Shinju/Manon/Tasha endorse, Shirayuki accepts despite fear. | A:P2–29; `KNOW-0315`; `REL-0529`–`0534`; `UNIT-0027`. One-live role, not permanent named group/SOL. |
+| `EV-B0139-002` | Miwako/Mimi question lack of an onstage adult and unconsulted plan; Hime asks them to respect recognized child performers. | A:P8–12,31–42; `KNOW-0316`. No complete safeguarding plan. |
+| `EV-B0139-003` | Children find exact-count snacks and invoke zashiki-warashi/fairy; separate scene reveals Mimi/Miwako donors and Hime joins covert checks. | B:P1–21,29–36; `KNOW-0317`. No supernatural event or equal child knowledge. |
+| `EV-B0139-004` | Tasha fears solo child performance; Shirayuki/Manon/Shinju cite rehearsal, rally and perform. | B:P22–37; `KNOW-0318`. Preparation not guarantee. |
+| `EV-B0139-005` | Shirayuki reports talk/choreography mistakes and audience enjoyment; peers reject sole leader blame and choose review. | C:P1–23; `KNOW-0319`. Performance sound/aggregate audience unreviewed. |
+| `EV-B0139-006` | Hime prevents Miwako/Mimi from rushing to hug, urging recognition/praise without unasked physical comfort. | C:P24–34; `KNOW-0320`. Not a ban on child-requested care. |
+| `EV-B0139-007` | Player praises effort; Shirayuki initiates hug, asks to be held/patted and asks for peers' praise. | C:P35–59; `KNOW-0321`. Request scoped to her moment; no blanket consent or abandonment of review. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0583` | `AGE_BOUNDED_PLAN_TO_QUARTET` | Manager's under-twelve live plan in `EV-B0139-001` forms one-live `UNIT-0027`, not later SOL. |
+| `EDGE-0584` | `PEER_ENDORSEMENT_TO_LEADER_ASSENT` | Shinju/Manon/Tasha support Shirayuki, who accepts while scared; manager preference remains visible. |
+| `EDGE-0585` | `ADULT_WORRY_TO_COVERT_CHECKS` | Miwako/Mimi's concern in `EV-B0139-002` becomes hidden snacks/visits in `003`; not a documented full safety plan. |
+| `EDGE-0586` | `FOOD_APPEARANCE_TO_FOLKLORE_INFERENCE` | Unexplained snacks in `EV-B0139-003` prompt Shirayuki's `ザシキワラシ` guess; donors shown separately. |
+| `EDGE-0587` | `HIME_RESTRAINT_WITH_PARTICIPATION` | Hime urges older peers to avoid overcontrol yet joins quiet checks; context, not hypocrisy erasing care. |
+| `EDGE-0588` | `REHEARSAL_TO_SCOPED_CONFIDENCE` | Preparation in `EV-B0139-004` supports going onstage, not a flawless result. |
+| `EDGE-0589` | `IMPERFECT_LIVE_WITH_PLEASURE` | Shirayuki's errors and audience enjoyment report in `EV-B0139-005` can coexist; no technical verdict. |
+| `EDGE-0590` | `LEADER_SELF_BLAME_TO_PEER_DISTRIBUTION` | Manon/Tasha/Shinju counter sole-leader blame and choose group review in `EV-B0139-005`. |
+| `EDGE-0591` | `ADULT_IMPULSE_TO_BOUNDARY_CHECK` | Hime interrupts unasked hugging in `EV-B0139-006` so child performers can own poststage reflection. |
+| `EDGE-0592` | `PLAYER_PRAISE_TO_CHILD_INITIATED_HUG` | Shirayuki seeks comfort in `EV-B0139-007`; no general touch permission follows. |
+| `EDGE-0593` | `COMFORT_WITH_CRAFT_CONTINUITY` | Requested hug and shared review in `EV-B0139-005`–`007` coexist; neither cancels the other. |
+
+`T7S_B0139_CLOSE-20260926`: seven chapter events and eleven bounded edges; one one-live unnamed unit, no supernatural finding, permanent `コドモ連合` or inferred SOL origin.
