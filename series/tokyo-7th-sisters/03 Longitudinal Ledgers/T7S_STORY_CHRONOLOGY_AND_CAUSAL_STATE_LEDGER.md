@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.34"
+version: "11.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 136 complete i-n-g primary documents / T7S_B0080–T7S_B0133; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 139 complete i-n-g primary documents / T7S_B0080–T7S_B0134; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 505`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 522`; `last_closed_block = T7S_B0133`. The admitted horizon contains 371 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 136 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 512`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 533`; `last_closed_block = T7S_B0134`. The admitted horizon contains 374 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 139 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1692,3 +1692,33 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.35. [B0133](../02%20Readings/
 | `EDGE-0529` | `FUTURE_WAIT_WITH_OPEN_RESULT` | Tasha's gradual aspiration and Player's wait in `EV-B0133-006` leave adulthood, jobs, attention and safeguarding open. |
 
 `T7S_B0133_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, completed makeup result, adult-role casting, biological maturation rule or privacy/consent clearance.
+
+## B0134 Shisara's chosen weak-task experiment with Tomoe
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.36. [B0134](../02%20Readings/T7S_B0134_DEEP_READING.md) owns the A/B/C locator key. B0038/B0096 are bounded comparison horizons, not total fictional order. The named `ぼっちーず` is a show-opening gag, not an established unit.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0134-001` | Haru/Tomoe/Shisara's live loses lighting and mic sound; Haru starts an unknown story, Tomoe corrects, Player restores equipment. | A:P0–31; `KNOW-0281`; `REL-0493`–`0498`. Technical root cause, full music and crowd response unreviewed. |
+| `EV-B0134-002` | Backstage Shisara admits she waited silently while Haru/Tomoe filled time; Tomoe acknowledges MC fear and Shisara values not carrying all alone. | B:P1–25; `KNOW-0282`. No general task allocation or anxiety cure. |
+| `EV-B0134-003` | Peer glimpses accompany Shisara's report that delegation aids song/dance focus; Player senses unease as she seeks more rehearsal. | B:P26–47; `KNOW-0283`. Montage is not total schedule or measured performance improvement. |
+| `EV-B0134-004` | Shisara overhears Tomoe trying MC talk despite self-deprecation/nausea, while Haru offers cover and warns against forcing it. | B:P48–63; `KNOW-0284`. No recovery or duty to endure symptoms. |
+| `EV-B0134-005` | Shisara asks for a Tomoe duo live to face her own MC weakness; Player consents with concern and they plan. | C:P1–35; `KNOW-0285`. Locally approved live, not permanent named group. |
+| `EV-B0134-006` | In coordinated comedy suits, duo opens as `ぼっちーず`; planned manzai first meets silence, then some audience laughter/cheers. | C:P36–56; `KNOW-0286`. No uniform crowd or successful intended punchline established. |
+| `EV-B0134-007` | Player reports enjoyable, stronger overall live; Shisara calls the comic mechanism failed and wants study, then says she likes current self. | C:P57–77; `KNOW-0287`. Distinct reception criteria; song and audience aggregate unauditioned. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0530` | `EQUIPMENT_LOSS_TO_IMPROVISED_TALK` | Failure in `EV-B0134-001` forces Haru/Tomoe to fill time; no causal blame on Shisara. |
+| `EDGE-0531` | `TOMOE_CORRECTION_TO_LOCAL_RECOVERY` | Tomoe corrects Haru's story while Player restores equipment; no proved audience-wide comic success. |
+| `EDGE-0532` | `RECOVERY_TO_PEER_COMPETENCE_RECOGNITION` | Backstage `EV-B0134-002` makes Shisara name others' attempted MC and her own silence. |
+| `EDGE-0533` | `DELEGATION_TO_CONCENTRATED_PRACTICE` | Shared labor in `EV-B0134-003` lets Shisara focus on song/dance by her report; no objective skill measure. |
+| `EDGE-0534` | `DELEGATION_TO_AVOIDANCE_REALIZATION` | Same support in `EV-B0134-003` becomes an avoidance concern after `EV-B0134-004`; not a rejection of peers. |
+| `EDGE-0535` | `TOMOE_PRACTICE_TO_SHISARA_PROPOSAL` | Tomoe's risky attempt in `EV-B0134-004` prompts Shisara's chosen duo experiment in `005`; not a duty imposed by Tomoe. |
+| `EDGE-0536` | `PLAYER_CONCERN_TO_SCOPED_SUPPORT` | Player permits `EV-B0134-005` despite duo worry, not a standing new unit. |
+| `EDGE-0537` | `PREPARED_COMEDY_TO_INITIAL_SILENCE` | Planned `ぼっちーず` opening in `EV-B0134-006` meets confusion/silence; matching costume does not equal punchline success. |
+| `EDGE-0538` | `AWKWARD_PERSISTENCE_TO_LOCAL_ENCOURAGEMENT` | Continued awkwardness in `EV-B0134-006` draws some laughter/cheers, not a quantified universal response. |
+| `EDGE-0539` | `DUAL_CRITERIA_TO_MIXED_ASSESSMENT` | Player's overall praise and Shisara's intended-laugh failure in `EV-B0134-007` evaluate different targets. |
+| `EDGE-0540` | `FAILED_MECHANISM_TO_FURTHER_STUDY` | Shisara wants another try and likes her present self in `EV-B0134-007`; no later comedy result is shown. |
+
+`T7S_B0134_CLOSE-20260926`: seven chapter events and eleven bounded edges; no new world, thread, permanent duo unit, technical root-cause finding, measured reception or performed-audio judgment.

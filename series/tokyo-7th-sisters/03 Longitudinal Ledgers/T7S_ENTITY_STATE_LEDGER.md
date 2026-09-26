@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.34"
+version: "11.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 136 complete i-n-g primary documents / T7S_B0080–T7S_B0133; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 139 complete i-n-g primary documents / T7S_B0080–T7S_B0134; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 280`; `directional_relationship_states = 492`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0133, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 287`; `directional_relationship_states = 498`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0134, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2731,3 +2731,36 @@ The [B0133](../02%20Readings/T7S_B0133_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0492` | Mimi → Tasha, **surprised then teasing reaction** | Initially yelps, then calls contact ticklish. A:P27–35. Reciprocal `REL-0491`; no documented prior agreement. |
 
 `T7S_B0133_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor annotations; no new idol unit, job assignment, makeup result or retrospective consent finding.
+
+## B0134 Shisara, Tomoe and distributed stage work
+
+The [B0134](../02%20Readings/T7S_B0134_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.36, binds these updates. Existing Shisara `IDENTITY-0041`/`CHAR-0034`, Tomoe `IDENTITY-0045`/`CHAR-0029`, Haru `IDENTITY-0004`/`CHAR-0004`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. Sui, Yumeno, Ferb and Rishuri appear in bounded peer glimpses but acquire no new long-horizon state here. Unnamed audience voices need no stable route; `ぼっちーず` is a stage gag rather than a unit state.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0034` / Shisara | Silent during a technical failure, admits MC weakness, values support, then recognizes avoidance in herself, proposes a Tomoe duo experiment and distinguishes failed intended comedy from a self she can like. | A:P0–31; B:P11–63; C:P1–77. No proved overall laugh success, permanent duo, all-round skill mastery or performed-song assessment. |
+| `CHAR-0029` / Tomoe | Corrects Haru in the outage, receives praise, describes fear/nausea, tries MC practice, accepts duo plan with alarm and later names the opening's persona mismatch. | A:P12–23; B:P3–25,50–60; C:P1–69. Not cured of anxiety or required to perform through symptoms. |
+| `CHAR-0004` / Haru | Carries talk at first live, tries an incomplete story during equipment failure, credits Tomoe afterward and later offers to cover her while warning against forced speech. | A:P0–29; B:P1–10,50–60. Her improvised story is not a finished routine or universal rescue. |
+| `CHAR-0001` / Player | Reports initial show going well before equipment trouble, restores it, apologizes, notes Shisara's focus/unease, supports duo with concern, and reports an enjoyable final live. | A:P8–29; B:P1–9,41–47; C:P1–75. Technical cause, whole crowd and performed-audio quality unverified. |
+| `UNIT-0002` / Nanasta | Hosts/coordinates a trio live and a later locally approved Shisara–Tomoe duo live; peers help in distinct tasks. | A:P0–31; B:P1–63; C:P1–77. `ぼっちーず` is not a standing institutional unit or contract. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0281` | Player sees strong initial performance and an equipment problem; Haru/Tomoe/Shisara know lights and mic fail, and Player restores them. | A:P0–31. Root cause and full musical/crowd impact unknown. |
+| `KNOW-0282` | Shisara knows she waited silently and hears Tomoe's fear; Tomoe hears Shisara name her own MC weakness and peers' effort. | B:P1–25. No ongoing task policy or cure follows. |
+| `KNOW-0283` | Shisara believes shared work lets her concentrate/improve; Player hears this but senses unease after peer glimpses. | B:P26–47. No measured song/dance improvement or total event sequence. |
+| `KNOW-0284` | Shisara overhears Tomoe's desire to practice; Haru sees distress and offers cover/stops forced talk; Tomoe fears large crowds. | B:P48–63. No external diagnosis or guaranteed safe exposure. |
+| `KNOW-0285` | Shisara tells Player she avoided her weakness and wants a Tomoe duo; Player accepts with concern, Tomoe reacts and they plan. | C:P1–35. Not a permanent unit or exact long-term training program. |
+| `KNOW-0286` | One audience voice is confused; Shisara hears no initial laughs, Tomoe sees persona mismatch; later voices laugh/encourage. | C:P36–56. Small named response set, not quantified audience-wide approval. |
+| `KNOW-0287` | Player reports enjoyable stronger overall live; Shisara says intended laugh failed, wants to relearn, and likes present self a little. | C:P57–77. Performed song, broad audience metrics and later attempt unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0493` | Shisara → Tomoe, **admiration and chosen weak-task partner** | Credits Tomoe's outage effort, sees her practice and proposes a duo to face MC together. B:P11–25,50–63; C:P1–27. Reciprocal `REL-0494`; no obligation for Tomoe to endure nausea. |
+| `REL-0494` | Tomoe → Shisara, **vulnerable peer and comedy co-performer** | Admits MC fear, accepts duo with alarm, warns plan may miss and participates in the act. B:P18–25; C:P1–69. Reciprocal `REL-0493`; no stable `ぼっちーず` unit. |
+| `REL-0495` | Haru → Tomoe, **credit and protective cover** | Praises outage correction, offers to cover later talk and interrupts when nausea rises. B:P1–6,50–60. Reciprocal `REL-0496`; no requirement she always cover. |
+| `REL-0496` | Tomoe → Haru, **admiration and own initiative** | Admires Haru's smile-making, receives praise, then asks for practice rather than hide, while reporting distress. A:P18–23; B:P1–6,11–23,50–60. Reciprocal `REL-0495`; not cured. |
+| `REL-0497` | Shisara → Player, **proposal and self-appraisal** | Explains avoidance, asks for duo support and later calls attempted comedy a craft failure while liking present self. C:P1–24,57–74. Reciprocal `REL-0498`; not a generalized quality verdict. |
+| `REL-0498` | Player → Shisara, **concerned authorization and broader praise** | Accepts locally despite worry and later reports overall crowd enjoyment. B:P41–47; C:P19–24,57–75. Reciprocal `REL-0497`; no standing unit approval or full reception audit. |
+
+`T7S_B0134_CLOSE-20260926`: seven actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new named permanent unit or demonstrated medical/performance-audio outcome.

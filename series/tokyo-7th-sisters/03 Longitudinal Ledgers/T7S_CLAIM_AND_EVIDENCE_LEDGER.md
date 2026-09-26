@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.34"
+version: "11.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 136 complete i-n-g primary documents / T7S_B0080–T7S_B0133; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 139 complete i-n-g primary documents / T7S_B0080–T7S_B0134; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 625`; `revisions = 42`; `predictions = 7`; `AV_reviews = 80`; `literary_findings = 625`. Claims are bounded to their stated B0001 through B0133 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 54 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 629`; `revisions = 42`; `predictions = 7`; `AV_reviews = 81`; `literary_findings = 629`. Claims are bounded to their stated B0001 through B0134 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 55 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1943,3 +1943,26 @@ Owner and A/B/C locator key: [B0133](../02%20Readings/T7S_B0133_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred four dialogue-associated voice pages plus title cues, BGM/SFX and performed delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0133_CLOSE-20260926`: four bounded claims and one AV review; no puberty prescription, body-contact consent clearance, adultification approval, specialist or monograph promotion.
+
+## B0134 distributed craft, chosen weakness and mixed reception
+
+Owner and A/B/C locator key: [B0134](../02%20Readings/T7S_B0134_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.36. B0038/B0096 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0134-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Peer support frees Shisara's strengths but later exposes an avoided weak task; trying MC with Tomoe is chosen authorship, not a repudiation of collaboration or all-role mastery mandate. | A:P8–30; B:P11–25,41–63; C:P1–24. Tomoe's symptom limit remains. |
+| `CL-B0134-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | A deliberately matched comedy act does not make the planned punchline work; initial silence and later supportive laughter distinguish comic mechanism from audience encouragement. | B:P50–63; C:P23–56. No full crowd sample or delivered-audio analysis. |
+| `CL-B0134-003` | `BOUNDED_INFERENCE`; D1; high for limit | Player's overall positive live report and Shisara's specific failure judgment coexist because they evaluate different targets. | C:P36–75. Song and aggregate audience reaction unauditioned. |
+| `CL-B0134-004` | `BOUNDED_INFERENCE`; D1; high for limit | The first live's equipment interruption exposes improvisation but neither establishes Shisara's fault, a venue-wide power outage nor a tested contingency protocol. | A:P0–31; B:P1–25. Technical root cause unshown. |
+
+### AV-0081 — first-live and paired comedy presentation
+
+- Questions/claims: whether visuals prove technical failure root cause, successful joke delivery, crowd-wide reception, durable duo identity or song quality; `CL-B0134-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed songs/voice, complete audience and technical-cause restrictions.
+- Selection: Haru `adv_chara_003_06_15`; Tomoe `120_01_02`, `120_03_04`; Shisara `136_01_01`, `136_03_04`. All 174 native pages and 29 command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.36 binds five media receipts.
+- Observed: Tomoe/Shisara shift from ordinary presentation to coordinated polka-dot comedy suits; this supports a staged joint act but not a permanent registered unit. Static stills do not carry joke timing, performed song, outage engineering or whole-audience response.
+- Native occurrence: command-only A:P5–7,10,24–25,31; B:P0,10,26–27,30–31,35–36,39–40,48–49,63; C:P0,13,31–32,46,55–56,76–77. A dark/flash and sound-state changes mark failure/recovery; B slide/wipe states mark peer glimpses; C:P46 changes into duo costumes.
+- Outcome: `REVIEWED` for five selected static composites and all native page-state segmentation. One hundred eleven dialogue-associated voice pages plus title cues, BGM/SFX, live song and audience delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0134_CLOSE-20260926`: four bounded claims and one AV review; no lasting `ぼっちーず` unit, medical cure, technical-cause or crowd-metric verdict, specialist or monograph promotion.
