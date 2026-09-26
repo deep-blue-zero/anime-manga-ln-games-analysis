@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.58"
+version: "11.59"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 208 complete i-n-g primary documents / T7S_B0080–T7S_B0157; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 211 complete i-n-g primary documents / T7S_B0080–T7S_B0158; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 460`; `directional_relationship_states = 654`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0157, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 468`; `directional_relationship_states = 662`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0158, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3642,3 +3642,42 @@ The [B0157](../02%20Readings/T7S_B0157_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0654` | Madoka → director, **accepting role then interpreting beyond script** | Completes filming and unscripted spoken challenge with director assent. A:P0–93; C:P1–87. Reciprocal `REL-0653`; not blanket permission to alter productions. |
 
 `T7S_B0157_CLOSE-20260926`: nine epistemic states, four directional relationship pairs and existing-character/unit annotations; fictional and unnamed production roles remain unminted.
+
+## B0158 Ayumu's care, ensemble and speech phenomenon
+
+The [B0158](../02%20Readings/T7S_B0158_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.60, binds these updates. Existing Ayumu `IDENTITY-0036`/`CHAR-0031`, Sisara `CHAR-0034`, Musubi `CHAR-0006`, Susu `CHAR-0018`, Coney `CHAR-0003`, Player `CHAR-0001`, NI+CORA and Nanastar `UNIT-0002` suffice. Shared speech creates no new identities or supernatural entity.
+
+| Existing stable ID / role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0031` / Ayumu | Describes invented service language; eagerly accepts prospective show; develops fever/cough, resists then accepts rest, remembers ensemble care, and later tends Player with revised reciprocal maid ideal. | A:P2–108; B:P8–12; C:P21–98. Her maid-power and transmission claims are unverified. |
+| `CHAR-0034` / Sisara | Questions speech style, notices fever, helps dorm care and sleep, involuntarily uses Ayumu's speech, speculates about cause and observes recovery. | A:P2–16,58–108; B:P1–50; C:P1–56. Hypothesis not diagnosis. |
+| `CHAR-0006` / Musubi | Accepts prospective cross-unit stage, finds rest a work responsibility, prepares for possible hospital trip, shares speech and care. | A:P17–108; B:P1–50; C:P1–64. No completed stage or clinical authority. |
+| `CHAR-0018` / Susu | Welcomes stage idea, obtains care supplies with Coney, initially laughs at changed speech, then experiences it and helps. | A:P17–86; B:P28–50; C:P1–67. Laughter is revised by direct experience. |
+| `CHAR-0003` / Coney | Buys supplies, joins speech phenomenon, watches Ayumu with Player, then delegates Player's care to Ayumu while others work. | A:P85–86; B:P28–50; C:P1–74. No medical training/causal explanation shown. |
+| `CHAR-0001` / Player | Proposes show, calls nearby hospitals, shares speech, cares for Ayumu, later falls ill and receives her care. | A:P17–108; B:P1–50; C:P1–98. His poor-self-care explanation and her infection theory both untested. |
+| NI+CORA / Musubi and Susu | Agree in principle to unusual joint stage with Ayumu/Sisara, but production pauses for illness. | A:P17–64. No final costumes, fan activity or concert performance. |
+| `UNIT-0002` / Nanastar | Supports dorm care, supplies and watch shifts while work obligations continue. | A:P65–95; C:P21–74. No verified medical clearance, infection-control policy or child-safety procedure. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0461` | Ayumu explains self-made maid language and power metaphor; Sisara explicitly does not understand it. | A:P2–16. Metaphor untested. |
+| `KNOW-0462` | Four performers and Player know stage proposal and preliminary assent; constraints remain open. | A:P17–64. No performance. |
+| `KNOW-0463` | Sisara observes fever, others see flush/cough; Player knows nearby hospitals are closed and alternative transport is possible. | A:P58–95. No diagnosis or documented contact with clinician. |
+| `KNOW-0464` | Sisara/Musubi/Player notice their own unplanned speech change; Ayumu thinks her maid power has spread. | A:P98–108; B:P1–26. Her explanation not accepted as proof. |
+| `KNOW-0465` | Susu first assumes joke, then she and Coney experience it; Sisara/Musubi hypothesize transformed virus/wider spread. | B:P28–50; C:P1–20. No testing or outside cases. |
+| `KNOW-0466` | Peers observe better color and lower fever, then report both Ayumu's recovery and their speech reset; Ayumu does not initially know what happened. | C:P21–56. Co-occurrence not causal mechanism. |
+| `KNOW-0467` | Group learns Player has cold; Coney asks Ayumu to care for him while others work. | C:P57–74. Source not known. |
+| `KNOW-0468` | Ayumu says she remembers care, believes she passed cold; Player counters with his own self-care claim; both know mutual warmth. | C:P75–98. Neither account establishes transmission or romance. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0655` | Sisara → Ayumu, **attentive illness recognition and rest** | Notices atypical state, checks fever, helps medicine/sleep and rejoices at recovery. A:P58–95; C:P38–56. Reciprocal `REL-0656`; no clinical diagnosis. |
+| `REL-0656` | Ayumu → Sisara, **admiration and acceptance of care** | Calls her older sister, proposes shared maid stage, ultimately follows rest request. A:P2–95. Reciprocal `REL-0655`; no completed stage. |
+| `REL-0657` | Musubi → Ayumu, **rest as responsible work** | Prepares care and rebuts inability to rest; later participates in group care. A:P70–95; C:P21–56. Reciprocal `REL-0658`; no permanent protocol. |
+| `REL-0658` | Ayumu → Musubi, **received care remembered** | Sleeps after correction and later explicitly recalls Musubi's turn at bedside. A:P90–95; C:P84–92. Reciprocal `REL-0657`; no self-erasure required. |
+| `REL-0659` | Player → Ayumu, **organizing and sustained bedside care** | Proposes work, contacts hospitals, remains through watch and praises later care. A:P17–95; C:P21–98. Reciprocal `REL-0660`; not medical expertise. |
+| `REL-0660` | Ayumu → Player, **chosen return service** | Remembers warmth, changes ice pillow, says his smile is a maid goal. C:P75–98. Reciprocal `REL-0659`; no exclusive romance or proved infection. |
+| `REL-0661` | Coney → Ayumu, **supplies and practical delegation** | Shops, watches, and asks recovered Ayumu to help Player while others work. A:P85–86; C:P21–74. Reciprocal `REL-0662`; no safety certification. |
+| `REL-0662` | Ayumu → Coney, **accepting bounded care request** | Remembers care, agrees to help Player until team returns. C:P68–92. Reciprocal `REL-0661`; newly recovered work burden remains visible. |
+
+`T7S_B0158_CLOSE-20260926`: eight epistemic states, four directional relationship pairs and existing character/unit annotations; no new identity, medical ontology or performed joint unit.

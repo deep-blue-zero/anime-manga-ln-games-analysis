@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.58"
+version: "11.59"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 208 complete i-n-g primary documents / T7S_B0080–T7S_B0157; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 211 complete i-n-g primary documents / T7S_B0080–T7S_B0158; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 685`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 805`; `last_closed_block = T7S_B0157`. The admitted horizon contains 443 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 208 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 693`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 817`; `last_closed_block = T7S_B0158`. The admitted horizon contains 446 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 211 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2443,3 +2443,35 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.59. [B0157](../02%20Readings/
 | `EDGE-0812` | `LATER_CRAFT_TO_BOUNDED_PRIDE` | Director praises development, Madoka learns a limited capability; future career not established. |
 
 `T7S_B0157_CLOSE-20260926`: nine events and fourteen typed edges; film violence remains fictional, and no performed-film, contract, injury-policy, career or romantic outcome is promoted.
+
+## B0158 proposed maid stage, fever and reciprocal service
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.60. [B0158](../02%20Readings/T7S_B0158_DEEP_READING.md) owns the A/B/C locator key. Involuntary “poe-kyun” speech is chapter-observed, but maid power, transformed virus, transmission pathway and Player's later cold source are character speculation, not established epidemiology or metaphysics. The four-person stage is proposed but not performed.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0158-001` | Ayumu tells Sisara she invents maid language to warm others and playfully says she restrains maid power. | A:P2–16; `KNOW-0461`. Self-description not proof of supernatural capacity. |
+| `EV-B0158-002` | Player proposes Ayumu/Sisara with NI+CORA; all assent to develop concept, but maid costumes/flower marks/timing remain unsettled. | A:P17–64; `KNOW-0462`. No stage performance or final plan. |
+| `EV-B0158-003` | Sisara detects fever; group moves Ayumu to dorm, gives medicine, contacts closed nearby hospitals, and persuades coughing Ayumu to rest. | A:P58–95; `KNOW-0463`. Lay care depicted, not audited medical advice. |
+| `EV-B0158-004` | Sisara, Musubi and Player unexpectedly use Ayumu's speech while she sleeps; they are embarrassed and hypothesize causes. | A:P98–108; B:P1–26; `KNOW-0464`. Cause unresolved. |
+| `EV-B0158-005` | Returning Susu/Coney first doubt and then use the speech; Sisara speculates about altered virus and Musubi imagines wider spread. | B:P28–50; C:P1–20; `KNOW-0465`. No demonstrated pathogen or public outbreak. |
+| `EV-B0158-006` | Group prioritizes Ayumu's discomfort, shares care, observes improved color/lower fever; she wakes recovered and speech returns. | C:P21–56; `KNOW-0466`. Co-occurrence does not identify mechanism or medical clearance. |
+| `EV-B0158-007` | Player subsequently falls ill; others have work, so Coney asks newly recovered Ayumu to tend him until they return. | C:P57–74; `KNOW-0467`. Source of cold not tested. |
+| `EV-B0158-008` | Ayumu changes ice pillow, recalls reciprocal bedside care, admits being happy to receive it, and chooses future service to bring Player joy. | C:P75–98; `KNOW-0468`. No exclusive romance, certain infection or future recovery shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0813` | `MAID_IDEAL_TO_INVENTED_SPEECH` | Ayumu says she composes wording to comfort others in `EV-B0158-001`. |
+| `EDGE-0814` | `CROSS_UNIT_PROPOSAL_TO_PRELIMINARY_ASSENT` | Four performers agree to explore stage; content details unresolved. |
+| `EDGE-0815` | `FEVER_TO_INTERRUPTED_PLANNING` | Sisara's observation shifts attention from show to illness in `EV-B0158-003`. |
+| `EDGE-0816` | `DUTY_RESISTANCE_TO_REST_CORRECTION` | Musubi/Sisara argue health management includes resting; Ayumu eventually sleeps. |
+| `EDGE-0817` | `AYUMU_SLEEP_TO_SPEECH_CHANGE` | Temporal observation in `EV-B0158-004`, not proved biological/supernatural causation. |
+| `EDGE-0818` | `LATE_RETURN_TO_SHARED_SPEECH` | Susu/Coney also change after arrival; no verified transmission route. |
+| `EDGE-0819` | `SPECULATIVE_PANDEMIC_TO_CARE_PRIORITY` | Group considers wider danger but addresses Ayumu's evident suffering first. |
+| `EDGE-0820` | `SHARED_CARE_TO_REPORTED_IMPROVEMENT` | Care precedes lower fever; no treatment-efficacy proof. |
+| `EDGE-0821` | `AYUMU_RECOVERY_TO_SPEECH_RESET` | Peers report co-occurrence; mechanism remains unknown. |
+| `EDGE-0822` | `PLAYER_ILLNESS_TO_CARE_REASSIGNMENT` | Coney asks Ayumu because others have work; infection chain unverified. |
+| `EDGE-0823` | `REMEMBERED_CARE_TO_RECIPROCAL_MAID_PATH` | Ayumu uses received warmth to rethink service in `EV-B0158-008`. |
+| `EDGE-0824` | `RECIPROCAL_SERVICE_TO_BOUNDED_PROMISE` | She promises more care for Player's smile; not forced convalescent labor or romance. |
+
+`T7S_B0158_CLOSE-20260926`: eight events and twelve typed edges; no actual epidemic mechanism, performed stage or certified medical process.

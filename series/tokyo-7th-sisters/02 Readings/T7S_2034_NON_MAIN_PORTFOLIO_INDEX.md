@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.58"
+version: "2.59"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 58/60 blocks; i-n-g coverage is 208/280 episodes across 78 chapters. The next authorized but unread chapter is `301300` / **ぽえ☆ぽえ★パンデミック** / 折笠アユム, episodes `612201501 / 612201502 / 612201503`, assigned B0158.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 59/60 blocks; i-n-g coverage is 211/280 episodes across 79 chapters. The next authorized but unread chapter is `301310` / **You are Today** / 上杉・ウエバス・キョーコ, episodes `612201601 / 612201602 / 612201603`, assigned B0159.
 
 ## Closed first i-n-g tranche
 
@@ -138,3 +138,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0155](T7S_B0155_DEEP_READING.md) | `301270` / 晴海シンジュ / シンジュとふしぎなカエル | `612201201 / 612201202 / 612201203` | `COMPLETE_BOUNDED` |
 | [T7S_B0156](T7S_B0156_DEEP_READING.md) | `301280` / 白鳥トモエ / 貴方が歩くための私の歌 | `612201301 / 612201302 / 612201303` | `COMPLETE_BOUNDED` |
 | [T7S_B0157](T7S_B0157_DEEP_READING.md) | `301290` / 榎並マドカ / ナナスタ任侠伝 ～姉妹仁義～ | `612201401 / 612201402 / 612201403` | `COMPLETE_BOUNDED` |
+| [T7S_B0158](T7S_B0158_DEEP_READING.md) | `301300` / 折笠アユム / ぽえ☆ぽえ★パンデミック | `612201501 / 612201502 / 612201503` | `COMPLETE_BOUNDED` |

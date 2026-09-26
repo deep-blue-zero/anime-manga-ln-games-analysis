@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.58"
+version: "11.59"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 208 complete i-n-g primary documents / T7S_B0080–T7S_B0157; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 211 complete i-n-g primary documents / T7S_B0080–T7S_B0158; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 734`; `revisions = 42`; `predictions = 7`; `AV_reviews = 104`; `literary_findings = 734`. Claims are bounded to their stated B0001 through B0157 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 78 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 739`; `revisions = 42`; `predictions = 7`; `AV_reviews = 105`; `literary_findings = 739`. Claims are bounded to their stated B0001 through B0158 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 79 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2508,3 +2508,27 @@ Owner and A/B/C locator key: [B0157](../02%20Readings/T7S_B0157_DEEP_READING.md)
 - Outcome: `REVIEWED` for eleven selected exact resources and all native page-state segmentation. Two hundred twenty-nine dialogue-associated voice pages, BGM/SFX, full movie/edit, production paperwork, safeguarding and future career/release remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0157_CLOSE-20260926`: five bounded claims and one AV review; no real criminal event, general improv rule, film/audio quality verdict, specialist or monograph promotion.
+
+## B0158 comic contagion and care reversal
+
+Owner and A/B/C locator key: [B0158](../02%20Readings/T7S_B0158_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.60. Prior Ayumu readings B0035/B0082 are bounded context only.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0158-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Ayumu's coined maid language is purposeful, but her fever exposes the error in treating service as an absolute bar on rest; received care becomes part of her revised maid path. | A:P2–16,58–108; C:P75–98. No mandate to work while ill. |
+| `CL-B0158-002` | `BOUNDED_INFERENCE`; D1; high | The unexpected shared speech is an in-story event; maid power, altered cold virus, public epidemic and Player's later infection chain remain unverified proposed explanations. | A:P98–108; B:P1–50; C:P1–60,75–83. No external epidemiology. |
+| `CL-B0158-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The group's concern shifts from embarrassment/hypothetical spread to Ayumu's present suffering, expressing shared care without proving clinical effectiveness or a safeguarding procedure. | C:P14–56. Fever improvement does not isolate cause. |
+| `CL-B0158-004` | `BOUNDED_INFERENCE`; D1; high | Ayumu/Sisara/NI+CORA agree to develop a stage, but costumes, audience marks and timing are not settled, and no performance occurs. | A:P17–64. Assent is not production completion. |
+| `CL-B0158-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Ayumu's care for the ill Player answers remembered generosity and permits mutuality; it neither validates her self-blame for infection nor proves romance or a duty to ignore her own recovery. | C:P48–98. Player's denial likewise lacks clinical proof. |
+
+### AV-0105 — Ayumu's rest state and ensemble expressions
+
+- Questions/claims: whether static art confirms fever source, altered voice, infection path, clinical recovery, performed stage or exclusive bond; `CL-B0158-001`–`005`.
+- Priority/modality: `AV-B` for native-state and eight selected exact static resources; `AV-D` for performed voice, diagnosis/transmission, clinical care and future concert.
+- Selection: Ayumu `adv_chara_122_01_01`, ill/closed-eyed `122_05_07`, pajama/rest `122_06_06`; Sisara `136_01_04`/`_03`; Musubi `004_01_05`; Susu `011_01_15`; Coney `002_03_01`. All 261 native pages and thirty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.60 binds eight media receipts.
+- Observed: Ayumu's clothing/expression change tracks narrated rest without medical measurement. Peers' distinct art remains ordinary; it cannot establish altered voice, a pathogen or actual stage performance.
+- Native occurrence: command-only A:P0–1,18–21,75–78,109; B:P0,32,51; C:P0,26–29,33–36,44–47,71–74,98. A transition takes planned stage into dorm illness; C transitions separate care/recovery/Player bedside.
+- Outcome: `REVIEWED` for eight selected exact resources and all native page-state segmentation. One hundred eighty-two dialogue-associated voice pages, BGM/SFX, pathogen/medical records, complete care procedure and future show remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0158_CLOSE-20260926`: five bounded claims and one AV review; no established viral or supernatural mechanism, treatment endorsement, performed stage, specialist or monograph promotion.
