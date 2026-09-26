@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -647,3 +647,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **A room of five, a wider field reported:** the narrator's five objects and Maki's twenty-plus outside expand possible exposure, but source levels differ; physical count and reported remaining number must not be collapsed.
 - **The second Alice clock:** E020's audience-only `Divi:Sion`/98% stinger and E001's researcher conflict now have a new `AL-1S`/`ATRAHASIS` echo. These are callbacks and pressures, not a solved causal diagram or proof Alice's club identity was false.
 - **Ordinary support meets an unreadable state:** friends help Yuzu enter and react to Alice's change, while Sensei and Veritas cannot explain it. E005's belonging and pleasure remain real but do not confer technical security.
+
+## V002 C002 E007 motif / callback delta — the room/home is damaged
+
+- **Protocol language becomes local violence:** E006's `AL-1S`/`ATRAHASIS` activation is followed by explosion, survival-target language and reload. It validates immediate danger, not the world-ending scale or Alice's voluntary intent.
+- **Earlier sparring relationship turns protective:** Nel, just seen pulling Alice into arcade play, now halts the crisis with C&C. Their bond is neither simple enmity nor automatic safety; method/state after intervention remain uncertain.
+- **Shared room as material home:** C001's temporarily saved clubroom is now wrecked by Nel's account. Institutional reprieve and physical security are non-substitutable, sharpening BA-C019 without negating earlier belonging.
+- **Cliffhanger redirects care:** Kotama/Maki can answer, then Midori/Yuzu name Momoi before the card. The narrative withholds her condition; suspense cannot be translated into a diagnosis.

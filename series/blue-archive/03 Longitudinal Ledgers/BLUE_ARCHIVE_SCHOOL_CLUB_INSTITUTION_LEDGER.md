@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -488,3 +488,9 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Veritas find:** narration counts five odd robots in the clubroom; Kotama says Millennium outskirts as site, Maki reports at least twenty more. Manufacturer, ownership and acquisition chain are not established. Their port/seam absence prevents even a fault diagnosis in the represented examination.
 - **Risk invitation:** Maki invites the game club partly for inspiration, while Veritas asks Sensei in case dangerous materials require Schale cooperation. Neither danger status nor formal Schale action is yet decided; Sensei says they cannot identify the objects.
 - **Activation:** machines move during Alice's state change; Kotama denies triggering them. `AL-1S`/`ATRAHASIS` speech is not a complete institutional incident report or proof of the E001 hypotheses. No evacuation, custody action, harm or governance ruling is shown.
+
+## V002 C002 E007 institutional delta — immediate containment, wider inventory open
+
+- **Incident:** Kotama reports an explosion as a clear attack; Alice protocol-state reload and Maki's temporary interruption follow. This is acute local danger, not an established manufacturer, chain of command, total device count or Alice culpability.
+- **C&C arrival:** Nel says she came after a loud noise, sees similar objects “here too,” and leads Akane/Karin/Asuna in local containment. Karin calls the operation complete. No written Rio order, E005 mission linkage, exact neutralized count or outskirts sweep is demonstrated.
+- **Damage/safety:** Nel sees the room badly damaged; Kotama/Maki appear functional enough to speak. Midori/Yuzu signal a Momoi emergency before any condition is printed. Prior clubroom reprieve is not revoked by a formal council act here, but material safety is compromised.

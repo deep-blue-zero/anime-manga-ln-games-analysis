@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -906,3 +906,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `合計5体` is narrator room count; `少なくともまだあと20体` is Maki's outside report. `ゲーム機の音` is Midori's reported perception with unverified source.
 - Alice's `見たことあります` is vague recognition. `起動開始` and `プロトコルATRAHASISを実行します` are Alice-labeled speech, but neither establishes mechanism or completion. The repeated `＜＜＜私の大切な…………＞＞＞` is unlabeled narration, not secure Alice memory.
 - **Quarantine:** Korean-script `무명사제 디비전 A 1` labels both `u:0054` (human-like horror reaction) and `u:0104` (`AL-1S` boot notice); neither can become a clean named speaker or verified ontology. `u:0033`, `u:0073-0076` and `u:0088-0090` also have person-role anomalies. Sensei `心の声` at `u:0002`/`u:0052`/`u:0095`/`u:0103`/`u:0106` is unheard; ten printed choices are singleton.
+
+## V002 C002 E007 delta — operational register and a truncated emergency
+
+- Alice-labeled `有機体の生存反応`/`失敗`/`プロトコルを再実行`/`武装のリロード` are protocol-state speech and support local danger; they do not by themselves establish her personal intent. `発――` is interrupted, not a second completed shot.
+- Kotama's `明確な攻撃` follows reported explosion; Nel's `こいつら、ここにも` suggests similar objects elsewhere but names no location. Karin's `作戦終了` is local completion, not a full network audit.
+- `お姉ちゃんが……` and Yuzu's `モモイ` are an emergency cue only. E008 is needed for any specific condition. Five Sensei choice groups are singleton; `心の声` at `u:0011-0012`/`u:0024-0025` is unheard.
+- **Quarantine:** `u:0013-0017` reverses Maki/Alice speakers around the disrupted charge; `u:0033-0038` rapid C&C lines are not cleanly attributable tactic-by-tactic. E006's Korean-script speaker anomaly remains separate and unresolved.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -498,3 +498,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ALICE ↔ CLUB/SENSEI:** the room knows Alice as their friend; her pause and protocol speech alarm them. Yuzu notices change, Sensei inwardly calls to her, but no dialogue establishes that Alice hears them, recognizes them in this state or has rejected them.
 - **VERITAS ↔ CLUB/SENSEI:** Maki brings both groups to examine a find with unclear risk. The combined gathering is not a consented Alice-identity experiment on the present evidence, even though E001 gives the audience separate covert-test knowledge.
 - **RIO/HIMARI ↔ ALICE:** absent and unmentioned in the room; their E001 interpretations do not become the club's understanding merely because an AL-1S line appears.
+
+## V002 C002 E007 relationship delta — emergency separates danger from culpability
+
+- **ALICE ↔ CLUB:** her protocol-state speech and weapon charging endanger nearby friends, but no direct line establishes her awareness/consent or that her ordinary affection is gone. Midori/Yuzu's alarm about Momoi is not yet a medical outcome.
+- **NEL/C&C ↔ ALICE/CLUB:** Nel's arrival interrupts the danger, and C&C's team acts to contain it. This adds a protective crisis role to E005's arcade bond, without proving a fixed friendship contract or full Alice recovery.
+- **SENSEI ↔ GROUP:** Sensei thanks C&C and checks Veritas/club members. The care path is distributed across Maki's interference, C&C's intervention and student calls, not a solo adult command.
+- **RIO/HIMARI ↔ INCIDENT:** neither appears or is reported in the room. Audience E001 knowledge does not establish that C&C came under their Alice-test order.

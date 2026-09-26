@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
 supersedes: []
@@ -1346,3 +1346,13 @@ No new claim ID, side-source admission, model or frozen prediction. E001 covert 
 - **BA-C019: COMPLICATE** — creative belonging and provisional room security coexist with an unclassified Alice/device risk; neither creative value nor Rio/Himari's hypotheses can substitute for a causal safety account.
 
 No new claim ID, side-source backfill, model or frozen prediction. Alice's recognition, the printed label, protocol, machine origin and outcome remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E007 claim transitions — local attack without complete attribution
+
+- **BA-C001–C004, C007, C010–C011: ACUTE PRESSURE** — protocol-state attack/reload, Maki's interference and C&C containment elevate protection/agency questions. Immediate danger is shown, but consent/control and Rio's world-ending scale are not.
+- **BA-C005–C006: PRESERVE REJECTED** — student action stops the immediate event; Sensei's contribution is attention, thanks and safety check, not sole tactical authorship.
+- **BA-C008: NO PERSONALITY ADJUDICATION** — five singleton choices and private thoughts cannot classify Alice's protocol state or the future response.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki revision.
+- **BA-C019: PRESSURE-TEST** — the saved room is materially damaged and Alice's place imperiled; creative/social/institutional belonging is real yet not a substitute for device safety.
+
+No new claim ID, model, prediction or side-source admission. Momoi condition, Alice state, offsite robots and E001 actors' links stay OPEN; contextual backfill **DEFER**.

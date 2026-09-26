@@ -18,17 +18,17 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E006.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E007.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001's covert Rio/Himari Alice-classification conflict remains unshared. E002–E005 establish ordinary club play, a failed inspiration quest, social welcome and a constrained Nel arcade bond. E006 now finds five seamless robots in Veritas's room (Maki reports twenty-plus more outside); Veritas cannot identify or diagnose them and Sensei explicitly does not recognize them. Alice says she has seen them, the devices activate and `AL-1S`/`ATRAHASIS` words appear, but trigger, speaker, memory, control, protocol and outcome remain open. Coverage is **68 / 310** units; all seven ledgers have provisional E001–E006 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001's covert Rio/Himari Alice-classification conflict remains unshared. E002–E005 establish ordinary club play, a failed inspiration quest, social welcome and a constrained Nel arcade bond. E006 finds five seamless robots in Veritas's room (Maki reports twenty-plus more outside), followed by Alice's `AL-1S`/`ATRAHASIS` state. E007 confirms an explosion/attack and repeat railgun charging; Maki interrupts one charge and Nel/C&C contain the immediate danger. Alice's agency and Rio's world-scale forecast remain unproven. Midori/Yuzu's alarm about Momoi ends the scene without her condition. Coverage is **69 / 310** units; all seven ledgers have provisional E001–E007 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio/Himari, and E004 Sumire/Kirara/Erika, as `UNMODELED`, yielding **21 partial / 21 unmodeled** tracked subjects. E006 sharply limits Alice's partial model to its ordinary-club context without settling an activation-state mechanism or promoting readiness. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:007` remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio/Himari, and E004 Sumire/Kirara/Erika, as `UNMODELED`, yielding **21 partial / 21 unmodeled** tracked subjects. E006–E007 sharply limit Alice's partial model to ordinary-club contexts: local protocol-state danger is real but not voluntariness or a stable mechanism. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:008` remains unopened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **68 / 310 canonical main units deep-read**;
+- main-story coverage: **69 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -99,7 +99,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E004_DEEP_READING.md` — **active_provisional**, Sumire exercise encounter / reported C&C Gehenna inquiry / Alice's Nel fear;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E005_DEEP_READING.md` — **active_provisional**, public welcome / Nel arcade bond and Akane limit / Alice's failed idea quest;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E006_DEEP_READING.md` — **active_provisional**, Veritas find and technical limits / Alice-device activation / source-label quarantine;
-- next crosswalk unit: `BA:main:002:002:007`.
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E007_DEEP_READING.md` — **active_provisional**, local attack / Maki interruption / C&C containment / Momoi alarm;
+- next crosswalk unit: `BA:main:002:002:008`.
 
 The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E020 boundary above.
 
@@ -443,16 +444,16 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E006.**
+**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E007.**
 
 The current authorized range continues in order. The next crosswalk unit is:
 
-- story ID: `BA:main:002:002:007`;
-- scope: `MAIN_V002_C002_E007`;
+- story ID: `BA:main:002:002:008`;
+- scope: `MAIN_V002_C002_E008`;
 - arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第7話;不思議な機械（２）`.
+- source title: `第8話;崩れた日常`.
 
-Use the V002 C001 checkpoint as latest canonical synthesis and E001–E006 as prospective supplements. Rio/Himari's covert threat/junior interpretations remain audience-only and unverified by the present room. E003's twins' game match remains unresolved; E005's idea quest explicitly failed. E006 brings a new Alice/device discontinuity: five room objects are directly counted, twenty-plus outside reported, and Veritas lacks ports/seams, fault classification or maker identification. Sensei says they do not know. Alice's vague recognition, `起動開始`/`ATRAHASIS` speech, Korean-script role-label anomalies and unlabeled `私の大切な` narration must not be collapsed into proven origin, voluntary intent or completed harm. Alice remains a narrowly ordinary-club `PARTIAL_MODEL` with a newly open activation state; no frozen prediction.
+Use the V002 C001 checkpoint as latest canonical synthesis and E001–E007 as prospective supplements. Rio/Himari's covert threat/junior interpretations remain audience-only; E007 confirms a local attack, not world-ending scale or Alice's voluntary agency. E003's twins' contest remains unresolved, E005's idea quest explicitly failed. E006's five room robots/twenty-plus reported outside, seamless access limit, Korean-script speaker-label anomaly and unattributed `私の大切な` phrase remain quarantined. E007 shows attack/reload, Maki's temporarily effective interruption and C&C's immediate containment after Nel hears a loud noise; do not infer an E001/E005 order link, all-robot sweep, exact Alice suppression or medical all-clear. Midori/Yuzu's Momoi alarm has no printed diagnosis. Alice's `PARTIAL_MODEL` remains ordinary-club scoped, no frozen prediction.
 
 The next permitted story operation is the unit above under these controls.
 
@@ -1050,3 +1051,13 @@ The next unopened source is `BA:main:002:002:006` / `MAIN_V002_C002_E006`, `第6
 - No tracked subject/readiness change: **21 `PARTIAL_MODEL` / 21 `UNMODELED`** across 42, none operational/validated, no new claim ID, standalone model, frozen prediction or side-source backfill. Alice's partial description cannot be extrapolated into the activation state.
 
 The next unopened source is `BA:main:002:002:007` / `MAIN_V002_C002_E007`, `第7話;不思議な機械（２）`.
+
+## V002 C002 E007 state delta
+
+- `MAIN_V002_C002` is active-provisional through E007; coverage is **69 / 310**. V002 C001 remains latest canonical checkpoint.
+- Kotama reports a clear attack/explosion after the robots activated; Alice's protocol-state speech detects surviving organics, calls the attempt failed and reloads the railgun. Maki interrupts one charge, but the source flips Maki/Alice labels at `u:0013-0017` and does not give method or injury result. A renewed firing line is cut off before a second completed shot.
+- Nel arrives after hearing a loud sound by her account, says similar objects are “here too,” and with Akane/Karin/Asuna ends the immediate fight. Karin's `作戦終了` is local; Alice's exact state, wider robots and mission/order links remain unshown. Sensei thanks/checks the group, not sole tactical author.
+- Kotama/Maki can speak; Nel reports the room damaged. Midori/Yuzu urgently name Momoi/“older sister” at cutoff. Her condition is not yet known. No formal council/clubroom status change is printed.
+- Tracked totals/readiness stay **21 `PARTIAL_MODEL` / 21 `UNMODELED`** across 42, none operational/validated; no new claim ID, standalone model, frozen prediction or side-source backfill. Local danger constrains Alice's ordinary-state model but does not prove origin, intent or global threat.
+
+The next unopened source is `BA:main:002:002:008` / `MAIN_V002_C002_E008`, `第8話;崩れた日常`.

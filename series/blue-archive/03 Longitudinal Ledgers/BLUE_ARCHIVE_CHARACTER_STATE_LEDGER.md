@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -578,3 +578,13 @@ No new named tracked subject or readiness promotion: 21 `PARTIAL_MODEL` / 21 `UN
 - **Unknown printed label:** `무명사제 디비전 A 1` appears at two role-inconsistent lines and is not entered as a stable person model.
 
 No new tracked subject/readiness promotion: 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated. No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E007 delta — local attack and response
+
+- **Alice:** in protocol register detects surviving organics, declares failure, reloads the railgun and reaches an interrupted `発――`. Immediate local threat is now strong evidence, but voluntary control, awareness, protocol mechanics and lasting state are not shown.
+- **Maki/Hare/Kotama:** Kotama identifies an explosion/attack and railgun charge; Maki interrupts one charge, Hare warns her, and Kotama later reports herself functional. Source labels flip across the interruption, and neither method nor Maki's final injury status is clear.
+- **Nel/Akane/Karin/Asuna:** arrive after a loud noise by Nel's account, contain the visible threat, and Karin announces local operation completion. Exact Alice suppression and full offsite robot status are unshown. No shown Rio order connects this response to E001.
+- **Midori/Yuzu/Momoi:** Midori and Yuzu urgently name Momoi/“older sister” at cutoff. A Momoi emergency is signaled, not diagnosed. Nel reports room damage.
+- **Sensei:** inwardly alarmed, thanks C&C and checks survivors aloud through singleton choices, then responds to the twins' alarm. Not the sole tactical rescuer.
+
+Readiness remains 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
