@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -188,3 +188,32 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 | `MT-R-094` Paul → Lilia / father → Lilia | Historical assault and flight versus refusal to force marriage and alternative employment route. | `030`; causal setting not excuse, later family attachment not retroactive consent. |
 
 Reciprocity is tested by information and options, not only declarations of love or thanks. The two central departures have different communication structures and cannot be collapsed into a universal abandonment pattern.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Directed event | Initiative / constraint / change | Observation and limit |
+| --- | --- | --- |
+| `MT-R-095` Suzanne → Rudeus | Notices isolation, invites work, later rebukes excessive risk and thanks him; asks Sara about disclosure to Timothy. | `001–003,017,025`; care practical and fallible, no all-knowing substitute parent. |
+| `MT-R-096` Counter Arrow → Rudeus | Makes room for a temporary specialist, shares danger and returns to aid him; future search preparations show duty beyond one rescuer. | `004,007,009,014,017`; formal nonmembership differs from absence of attachment. |
+| `MT-R-097` Rudeus → Counter Arrow | Low-fee publicity work becomes sought company and accepted dependence, then attachment avoided after rupture. | `007–009,017,024,026`; stated search reason partly masks relational flight, not proof search is fake. |
+| `MT-R-098` Sara → Rudeus | Class suspicion yields to differentiated judgment, advocacy for rescue, thanks, invitations and affection. | `006,009,011–012,016–020,025`; not merely grateful payment, transition gradual and privately contested. |
+| `MT-R-099` Rudeus → Sara | Trains with, rescues, shops with and feels attraction toward her while framing favor through game/reward analogies and hiding uncertainty. | `003,014–020`; concern and objectification coexist; his reassuring lineage claim contains known contrary evidence. |
+| `MT-R-100` Sara → Rudeus | Perceived undesirability prompts defensive denial; real overheard insult, imagined ridicule, explanatory inquiry and intended apology follow. | `020,023,025`; ignorance of condition matters, love does not make all beliefs true. |
+| `MT-R-101` Rudeus → Sara | Interprets denial as rejection, disparages her publicly, flees and regrets the result without learning her actual intended confession. | `020–026`; hurt does not erase responsibility; no completed mutual clarification. |
+| `MT-R-102` Sara → self / companions | Own survival skills, debt repayment, equipment choice and repair deliberation establish action outside Rudy's knowledge. | `016,018–019,025`; fear eventually inhibits pursuit; no total passivity or invulnerability. |
+| `MT-R-103` Soldat → Rudeus | Hostility and norm enforcement → tolerates blows, listens, arranges assistance, interrupts crisis and offers mobile companionship. | `010–011,021–024,026`; apology acknowledges prior harm; stereotypes/mistaken Eris belief remain. |
+| `MT-R-104` Rudeus → Soldat | Fear/resentment and aggression → private disclosure, thanks, accepted help and continuing temporary work. | `011,021–024,026`; intimacy in one friendship does not cure romantic fear. |
+| `MT-R-105` Timothy / Suzanne → party | Formal/practical leadership, reconciliation with another party, retreat decision, dawn search preparation and mediated inquiry. | `003–004,010,014,017,025`; decisions balance multiple lives, no unlimited rescue obligation inferred. |
+| `MT-R-106` Elise → Rudeus | Professional attention, gratitude connected to aid for a child, practical advice and advocacy. | `022,025`; no cure, diagnostic certainty or loss of commercial context. |
+| `MT-R-107` Elise → Sara / Sara → confidants | Elise reproaches and reveals private information without knowing Sara's repair intention; Sara sought Suzanne/Timothy's help and later fears pursuing Rudy. | `025`; correction, privacy cost and misreading coexist; mediation fails to create a meeting. |
+| `MT-R-108` Rudeus → children / local workers | Free healing, snow clearing, limits negotiated through payment and public recognition. | `013,022`; help concrete, social coercion and commercial institutions persist. |
+| `MT-R-109` Rudeus → remembered Roxy / Eris | Roxy remains a revered source of care and imagined highest-stakes rejection; Eris remains wrongly interpreted departure. | `005,020,022,026`; remembered/imagined women are not new direct choices by them. |
+| `MT-R-110` Elinalise → Rudeus / mother search | Actively follows reputation and a geographical lead carrying message from prior search. | `027`; arrival, receipt and rescue unobserved. |
+| `MT-R-111` Fitts → Ariel / Ariel → Fitts | Loyalty includes anger at bullying; Ariel converts protection/capacity into political strategy and seeks future supporters. | `028–030`; emotional loyalty and instrumental use both present, alias identity remains unresolved. |
+| `MT-R-112` Ariel / attendants / Fitts → beast princesses and public | Coordinated provocation, force and selective account produce school advantage. | `029`; prior aggression does not make every tactic proportionate or public belief informed. |
+| `MT-R-113` School allies → potential recruits | Discuss capable students and outsiders, with Fitts visibly invested in Rudy's name. | `030`; proposal not acceptance, recognition not completed identity proof. |
+
+Reciprocity requires separate directional records. Affection, gratitude, practical reliance and correct understanding do not appear or disappear together; no later reunion or offstage consent is supplied.

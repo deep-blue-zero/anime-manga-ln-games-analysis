@@ -1,18 +1,18 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V06"
+title: "Rudeus — reconstruction evidence routes through V07"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "3dc6b173b044abdafc013dc989bd96914620d13d"
-source_boundary: "Japanese LN V01–V06; preserved history with V06 revision 1.3; publication/audit separate."
+basis_commit: "0e72e531278055c0dbb7a6054285337a1cc37a93"
+source_boundary: "Japanese LN V01–V07; preserved history with V07 revision 1.4; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
@@ -73,3 +73,19 @@ No source-era test ID is renumbered. Revision1.2 adds six diagnostic checks, no 
 New source-owned observations resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings): `001–023,025–026`. The [disclosure checkpoint](../../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) records changed knowledge premises. Operational tests `V18–23; states ST12–15/S066–069` are in the model's V06 section; its rule-specific rows give supporting observations and countercases. Earlier routes and tests remain historical, not a current evidence ceiling.
 
 The new source is read after the prior fixed rules, but selection and franchise familiarity prevent a clean holdout claim. Attributed claims, retrospective motives and current actions remain separate; no generated scenario enters evidence. All readiness stays BOUNDED_PROVISIONAL, with no global enrollment or mature monograph.
+
+
+## V07 additions for revision 1.4
+
+Numbers resolve in [V07](../../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings); the [recognition checkpoint](../../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the immediate cross-volume argument.
+
+| Rules / tests | Observations | Source-bound constraint |
+| --- | --- | --- |
+| 001/002; V24 | 003–004,007–010,015–019 | Specialist dependence and practice; joint training not a fresh tutoring test. |
+| 003; V25 | 014–018 | Prompt search precedes fantasy; known contrary evidence in lineage reassurance separate from rescue staging. |
+| 004/005; V26–27 | 004–005,013–025 | Uneven recovery and actual misconduct; care and involuntary bodily difficulty cannot be treated as interchangeable ethical evidence. |
+| 007/008; V28 | 008–009,017,024,026 | Nonleader contract qualifies consultation; new companions do not automatically extend Ruijerd-specific rule. |
+| 009; V29 | 011–012,021–023 | Written register and disclosure context; confidant still has partial information. |
+| 006 / knowledge; V30 | 025–027 | No equivalent flood trigger or delivery of Sara's/Elinalise's reader-only information. |
+
+Shared states S084–088 correspond to model ST16–20; C001/002/009/012–014 record revisions. R095–110, N080–091 and K064–074 supply relational, normative and knowledge dependencies. New Sara model/index are separate responsibilities, not generated extensions of Rudy. Retrospective checks do not create primary evidence or a clean predictive score.

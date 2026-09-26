@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -161,3 +161,27 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 | `MT-CR-067` / `MT-C-014` | Known error alters responsibility → distinguish prompt inquiry, purposeful withholding and unrecognized received error. | REVISE; `019,021,025–026`; Eris conceals destination but is not shown knowing she caused a rejection interpretation. | Actual knowledge/opportunity before blame; knowledge/normative/form. |
 
 Strong bounded inference applies to the specified contrasts; reports remain reports. No new numbered claim is needed: these disclosures refine existing responsibilities. The V06 checkpoint adds a focused dependency review, preserving the V01–V05 checkpoint and all historical formulations. No registered outcome prediction or clean holdout is claimed.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Revision / claim | Prior → current formulation | Disposition / evidence / countercase | Test / affected homes |
+| --- | --- | --- | --- |
+| `MT-CR-068` / `MT-C-001` | Useful action survives negative self-appraisal → competence, purpose, pleasure and relational security recover unevenly. | STRENGTHEN; `002–005,007–009,013–024,026`; real ability never establishes general recovery. | Separate these outcomes under changed support; Rudy model/state/checkpoint. |
+| `MT-CR-069` / `MT-C-002` | Local aid without durable general transfer → care received/given coexists with class reassurance containing contrary evidence, aggression and demeaning speech. | REVISE; `013–025`; suffering does not erase actual harms, involuntary bodily difficulty is not misconduct. | Comparable choices with known alternatives; models/normative. |
+| `MT-CR-070` / `MT-C-003` | Corrective viewpoint remains fallible → Sara corrects her motive while her imagined ridicule stays false; physical evidence can be prematurely closed. | STRENGTHEN; `006,010,012,015,025`; local narrator confirmation differs from focalized belief. | Proposition-by-proposition access; Sara model/knowledge/form. |
+| `MT-CR-071` / `MT-C-004` | Original Sylphie boundary/comic analysis → preserved. | PRESERVE; V07 supplies no new direct account of the V01 violation; Fitts recognition does not authorize identity substitution. | No retroactive consent or imported identity; normative/knowledge. |
+| `MT-CR-072` / `MT-C-005` | Household protection and harmful means → preserved historical conclusion. | PRESERVE; remembered family and new comparison do not rewrite original household crisis. | Future source access must bear on that event; normative. |
+| `MT-CR-073` / `MT-C-006` | Educational benefit without proof coercion necessary → preserved causal limit. | PRESERVE; `003,007–009` adds learning/work, not controlled alternative history. | No outcome-to-necessity inference; models/form. |
+| `MT-CR-074` / `MT-C-007` | Ensemble independent agency → Sara survival/repair attempts, party obligations, Soldat care and school ambition act beyond Rudy's perception. | STRENGTHEN; `009–012,014–017,021–030`; independent agency includes harmful and constrained choices. | Choices beyond protagonist benefit; state/relations/models. |
+| `MT-CR-075` / `MT-C-008` | Task, instruction and feedback differ → specialized teammates, failed defense, rescue calibration and practical purchases preserve dependence. | STRENGTHEN; `003–004,007–010,015–019`; high output still genuinely useful. | Transfer under task change; model001/form. |
+| `MT-CR-076` / `MT-C-009` | Protective secrecy can block correction → polite coping, protective warmth, defensive claims and engineered public accounts require different mechanisms. | REVISE; `010–012,018,020–025,028–029`; performance alone proves neither honesty nor manipulation. | Audience access and contestability; models/form/normative. |
+| `MT-CR-077` / `MT-C-010` | News needs actual delivery → reputation routes an ally toward Rudy but message still unreceived. | STRENGTHEN; `007,013,018,026–027`; no lead does not mean no publicity effect, rumor not verified feat. | Actual arrival/receipt; knowledge/relations. |
+| `MT-CR-078` / `MT-C-011` | Sequence matters for gratitude mechanism → immediate costly search precedes rescue-reward fantasy. | STRENGTHEN; `014–017`; mixture of motives persists, no engineered danger or purchased consent inferred. | Decision order/available alternatives; model003/normative. |
+| `MT-CR-079` / `MT-C-012` | Reliance and perceived burden diverge → company, disclosure, bodily response and capacity to tolerate romantic uncertainty can move independently. | REVISE; `004–005,007,009,017,020–026`; accepting Soldat does not cure every relationship. | Distinct supports and usable communication; Rudy/Sara models/checkpoint. |
+| `MT-CR-080` / `MT-C-013` | Usefulness/belonging not wholly transactional → temporary nonmembership, modest fees and reciprocal debts coexist with care after failure. | STRENGTHEN; `007,014,017–019,021–026`; exploitation/authority still present elsewhere. | Refusal or failure without lost support; relations/normative. |
+| `MT-CR-081` / `MT-C-014` | Known error differs from ignorance → track recognized contrary evidence, inquiry permission, privacy and deliberate manufacture of audience ignorance. | REVISE; `006,010,015,018,025,028–029`; incomplete advice may help, privacy loss remains separate. | What was known before statement/action, who could correct it; knowledge/normative/checkpoint. |
+
+No new numbered claim is required. These are bounded interpretive revisions, with reports and conjectures labeled in their evidence routes. V07's freeze registered questions rather than scored outcome predictions; no clean holdout or retrospectively successful forecast is claimed.

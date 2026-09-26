@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -225,3 +225,37 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 **`MT-NC-031`:** N048/N055/N063/N073/N079 compare care across unequal roles. Affection can be nontransactional while dependency or assigned usefulness persists; warmth alone does not resolve authority.
 
 These are explicit analyst criteria, not claims about universal reader response, authorial intention or reception. Differences in power and knowledge remain part of each comparison.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Event / observation | Conduct, conditions, affected access and framing | Criterion / bounded conclusion |
+| --- | --- | --- |
+| `MT-N-080` / `001–005` | Suzanne invites a distressed younger traveler; party refuses to abandon one another, prompting Rudy's intervention. | Care and survival; meaningful recognition without responsibility to cure him or make all dangers acceptable. |
+| `MT-N-081` / `006,012,018` | Sara's class mistrust arises from parental loss and reported noble nonresponse; Rudy gives reassurance despite known possible family connection. | Fair appraisal and informed trust; history explains distrust without proving every generalization, actual obstruction remains conjectural. |
+| `MT-N-082` / `008–010,014,017` | Dangerous expedition, specialists and divided obligations; retreat carries an agreed penalty except for Rudy; later search weighs other lives. | Distributed responsibility; willingness to rescue matters, unlimited self-sacrifice is not the only ethical choice. |
+| `MT-N-083` / `010–011,024` | Soldat apologizes for one misunderstanding but repeatedly provokes, damages property and tells Rudy to die; later explicitly apologizes for provocation. | Earlier abuse and later care both actual; later benefit does not turn abusive conduct into necessary treatment. |
+| `MT-N-084` / `013,022` | Rudy heals children freely partly because unpaid medical costs could expose them to enslavement; Elise identifies a child-related reason for gratitude. | Access to aid and freedom; prompt assistance credited, commercial child labor and coercive institutions remain separate harms. |
+| `MT-N-085` / `014–017` | Search, recovery of remains and rescue; Sara's own evasive/medical work keeps her alive. Rudy's reward fantasy follows action. | Care and bodily autonomy; gratitude does not authorize intimacy, rescue not solely his agency. |
+| `MT-N-086` / `018–020,025` | Friendly purchase and attraction culminate in unsuccessful intimacy; adolescent ages, unclear alcohol capacity and concealed motives limit interpretation. | Non-graphic agency analysis: involuntary response is not wrongdoing, debt is not consent, later account establishes affection but not every shared understanding. No precise incapacity diagnosis. |
+| `MT-N-087` / `021` | Rudy threatens a bartender and hits Soldat; self-recognition recalls previous abusive patterns. Soldat accepts blows and listens. | Actual aggression remains his action despite distress; received patience does not make intimidation harmless or compulsory. |
+| `MT-N-088` / `022,025` | Elise combines paid effort, gratitude and useful interpretation, then reveals private bodily information while angry at Sara. | Compassion, accuracy and privacy require separate assessment; no infallible therapist or purely cynical worker model. |
+| `MT-N-089` / `023–025` | Rudy's public demeaning speech is real; Sara's imagined prolonged ridicule is false. Her earlier denial was defensive, his condition unknown to her. | Harm, knowledge and repair opportunity distinguished; partial correction does not erase actual insult or force forgiveness. |
+| `MT-N-090` / `024,026` | Soldat interrupts a suicidal act and offers accompaniment with no membership demand; Rudy accepts mobility and postpones bodily recovery efforts. | Immediate protection and usable choice; no romantic cure, permanent safety guarantee or clinical diagnosis. |
+| `MT-N-091` / `025` | Suzanne seeks permission before telling Timothy; inquiry and apology planned but departure prevents conversation, fear inhibits pursuit. | Consent to disclosure and accessible repair; neither missed contact nor fear proves lack of love or accomplished reconciliation. |
+| `MT-N-092` / `028–029` | Ariel responds to bullying by designing species/sex-targeted provocation inaudible to humans, Fitts defeats and humiliates opponents, attendants circulate selective account. | School protection/political ambition do not erase degrading means or manufactured reputational advantage; actual prior bullying remains. |
+| `MT-N-093` / `030` | Recruitment plans treat strong people as political resources; Fitts has an independent emotional response. | Instrumental aims do not exhaust participants' motives, planned invitation not accepted allegiance. |
+
+**`MT-NC-032`:** N076/N086/N089/N091 compare Eris's departure with Sara's conflict. Concealed destination and a defensive untrue motive are different acts; reader access, actual insult, witness inquiry and timing differ. No generic abandonment rule replaces these facts.
+
+**`MT-NC-033`:** N055/N073/N080/N083/N090 compare care that enables renewed action. Earlier provocation is not retroactively therapeutic, and accepting one kind of help does not establish global security.
+
+**`MT-NC-034`:** N050/N067/N085 compare prompt aid and later gratitude imagery with V03 delayed intervention. Initiative and mixed motives can coexist; consent remains separate from indebtedness.
+
+**`MT-NC-035`:** N066/N076/N081/N088/N091/N092 distinguish protective secrecy, known contrary evidence, unauthorized intimate disclosure, permission-sensitive mediation and manufactured audience ignorance. C014 records the changed knowledge responsibilities.
+
+**`MT-NC-036`:** N061/N069/N074/N084/N092 compare personal aid and effective protection with continuing institutional harm or coercive tactics. Local benefit does not establish fair systems or necessary means.
+
+The criteria are explicit analyst judgments, not claims about universal readers or creator intent. Non-graphic choice summaries preserve youth, power, uncertainty and affected-person access; no generated sexual scenario is evidence.

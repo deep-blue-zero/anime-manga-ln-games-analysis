@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -212,3 +212,34 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 | `MT-K-063` Lilia history | Reader gains resistance, aftermath, paternal alternative and maternal self-questioning; present family does not receive this full narration. | `030–031`; affection and confidence in plan are different propositions. |
 
 Neither the source's ending order nor reader access transfers knowledge to a character. New testimony revises current interpretation without altering the V01–V05 freezes.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Chronology | Anchored sequence | Observation / limit |
+| --- | --- | --- |
+| `MT-T-038` | Caravan arrival and initial work → grizzly crisis → routines summarized over about three months. | `001–007`; source intervals, no forced absolute calendar. |
+| `MT-T-039` | Ruins job/misunderstanding → winter around six months in town → failed expedition, Mimir death and overnight Sara rescue. | `008–017`; simultaneous party preparations disclosed after Rudy returns. |
+| `MT-T-040` | Around a year in Rosenburg, shopping and failed intimacy → nighttime drinking/professional help, next morning's missed job, dawn collision and departure. | `018–025`; late Sara section revisits this same sequence. |
+| `MT-T-041` | Epilogue compresses more than a year of changing towns at two-to-three-month intervals; Elinalise hears of his reported location. | `026–027`; Rudy sheet labels fifteen, Sara's late account sixteen; do not backdate sheet ages to every earlier scene. |
+| `MT-T-042` | Extra begins with third-year Ariel, revisits flight and second-year election strategy, then returns to present recruitment plans. | `028–030`; next-year first dispatch proposed, not accomplished; no exact synchronization with every main-story scene. |
+
+| Knowledge | Holder / proposition change | Observation / limit |
+| --- | --- | --- |
+| `MT-K-064` Dead End / purpose | Rudy does not correct the assumption that his party was annihilated; tells a substantially real mother-search purpose. | `001–002`; partial truth and withheld relational history coexist. |
+| `MT-K-065` Sara category | Sara recognizes contrary evidence about Rudy yet initially refuses its implication; later compares different smiles. | `006,012`; not simply absence of information, no universal class-belief reversal. |
+| `MT-K-066` Ruins | Rudy's architectural reconstruction is inference, Timothy supplies reported history, Mimir supplies unavailable exorcism expertise. | `008`; do not certify complete historical reconstruction. |
+| `MT-K-067` Two entrances | Parties assume separate routes/jobs; confrontation produces corrected account of their connection. | `010`; misunderstanding resolved, unequal customary share is a separate matter. |
+| `MT-K-068` Search evidence | Rudy confirms Mimir's remains; Sara earring prompts false death inference, living captive corrects it. | `014–016`; her survival labor is disclosed separately; physical evidence has differing force. |
+| `MT-K-069` Family affiliation | Rudy reassures Sara that his remembered noble relatives are unconnected to her village loss, while internally considering possible Boreas involvement and his Notos family connection. | `018`; relief-giving speech contains known contrary evidence; actual political obstruction remains conjecture. |
+| `MT-K-070` Bodily difficulty | Rudy newly interprets earlier signs; Sara initially lacks the relevant explanation; Elise proposes fear/trust mechanism. | `020,022,025`; observed difficulty, self-interpretation and professional opinion are different certainty levels. |
+| `MT-K-071` Affection / rejection | Sara's later focalization establishes love and intended confession; Rudy believes her defensive debt-only claim and reaffirms presumed Eris rejection. | `020,025`; reader correction does not reach him. |
+| `MT-K-072` Confidants | Soldat hears Rudy's account but lacks Eris's intention; Suzanne asks before involving Timothy; Elise later discloses sensitive information. | `021–025`; partial but useful advice, distinct permission and privacy structures. |
+| `MT-K-073` Collision / repair | Sara hears real insult, imagines a night of shared mockery that did not occur, then learns bodily explanation too late for planned conversation. | `023–025`; factual correction does not retract actual harm or automatically produce reconciliation. |
+| `MT-K-074` Search message | Elinalise hears group-dragon rumor and reported-location lead while carrying the mother's-location message. | `027`; hearsay not new witnessed combat; no receipt by Rudy, rescue or verified present condition. |
+| `MT-K-075` Public school account | Ariel's insults are audible to beast girls but not human bystanders; attendants distribute a selective account of the resulting attack. | `028–029`; audience ignorance is deliberately produced; competence and reputational narrative are separate. |
+| `MT-K-076` Recruitment | Third-year group discusses Zanoba, Cliff, Galfarion and Rudy; Fitts responds with conspicuous recognition. | `030`; neither identity resolution nor invitation delivery established here. |
+
+The late source explicitly corrects some motives and leaves others attributed. Narration's future-oriented comments about lingering adventurers are bounded statements about that represented group, not a universal causal law or new current knowledge for the protagonists.

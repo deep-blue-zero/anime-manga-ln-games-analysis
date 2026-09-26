@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -232,3 +232,34 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 | Other actors / missing or hidden domains | Preserve earlier bounds; no global enrollment or new general persona. | Motive gaps, hearsay and unseen future remain explicit. |
 
 No domain becomes DOMAIN_READY. No generated scenario or sexualized minor scenario supplies evidence.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Event / local key | Prior → represented change / kind | Evidence and limit |
+| --- | --- | --- |
+| `MT-S-084` / Rudeus | Northbound purpose amid rejection → accepts work invitation, renews life-directed action through companions' solidarity. CONTEXT / RELATIONSHIP_CHANGE. | `001–005`; death indifference and useful ability coexist; no comprehensive recovery. |
+| `MT-S-085` / Rudeus | Isolated applicant → regular training, paid temporary work, publicity and increasingly valued company. PRACTICE / RELATIONSHIP_CHANGE. | `007–013`; formal nonmembership persists, specialist dependence and pleasure remain uneven. |
+| `MT-S-086` / Rudeus | Winter routine → undertakes solo search, corrects assumed Sara death and returns her alive. KNOWLEDGE / CONTEXT_CHANGE. | `014–017`; Mimir's death confirmed; Sara's own survival work causal; reward imagery follows rescue. |
+| `MT-S-087` / Rudeus | Friendly shopping and concealed attraction → bodily difficulty, interpreted rejection, aggression, disclosure and interrupted suicidal action. CONTEXT / REVEALED_NOT_NEW. | `018–024`; prior bodily signs newly interpreted, no medical diagnosis or blame for involuntary response. |
+| `MT-S-088` / Rudeus | Crisis support → mobile temporary work with Soldat, explicit avoidance of a single-party attachment, unresolved regret. PRACTICE / RELATIONSHIP_CHANGE. | `024,026`; practical change is real, cure and romantic repair unobserved; Sara's actual intentions unavailable. |
+| `MT-S-089` / Sara | Noble-category distrust → contrary rescue/search evidence acknowledged but initially discounted, then recognizes different uses of smiling. KNOWLEDGE / APPRAISAL_CHANGE. | `006,010–012`; history of parental loss disclosed retrospectively, no general reconciliation with nobles. |
+| `MT-S-090` / Sara | Guarded cooperation → advocates return, survives injury, offers thanks and initiates companionship/purchase. RELATIONSHIP / PRACTICE_CHANGE. | `009,011–012,016–019`; skilled effort, indebtedness and pleasure are distinguishable. |
+| `MT-S-091` / Sara | Concealed affection → misreads difficulty as undesirability, defensively denies affection, then seeks explanation and plans apology. REVEALED_NOT_NEW / KNOWLEDGE_CHANGE. | `020,023,025`; late focalization establishes love without making every belief correct. |
+| `MT-S-092` / Sara | Anger with false imagined mockery → corrected bodily information, regret and fear of pursuit after departure. KNOWLEDGE / DECISION_CHANGE. | `025`; no successful conversation, no offstage reunion or unconditional permanent refusal. |
+| `MT-S-093` / Soldat | Misunderstanding/apology and repeated hostile provocation → accepts blows, listens, obtains help, interrupts crisis and accompanies. CONTEXT / RELATIONSHIP_CHANGE. | `010–011,021–024,026`; explicitly apologizes for earlier conduct; broad gender assumptions and misreading Eris remain. |
+| `MT-S-094` / Suzanne and Timothy | Mixed leadership and party survival decisions → preparation to resume search, reciprocal thanks and consent-sensitive mediation. CONTEXT / PRACTICE_CHANGE. | `003–004,010,014,017,023,025`; neither knows everything or guarantees repair. |
+| `MT-S-095` / Elise | Professional encounter → compassionate interpretation, then disclosure to Sara with protective anger. CONTEXT / KNOWLEDGE_CHANGE. | `022,025`; explanation is attributed, own information incomplete, privacy cost remains. |
+| `MT-S-096` / Ariel, Fitts and attendants | Dangerous flight and school entry → engineered public conflict, election victory and recruitment planning. REVEALED_NOT_NEW / CONTEXT_CHANGE. | `028–030`; retrospective second-year operation precedes third-year present; no executed future dispatch. |
+| `MT-S-097` / Elinalise | V06 message mission → obtains Rudy's reported location. KNOWLEDGE_CHANGE. | `027`; hearsay battle report, message not delivered and mother not shown rescued. |
+
+| Local key / domain | Current readiness / home | Calibration limits |
+| --- | --- | --- |
+| Rudeus / practical learning, selected coordination, contextual speech and help receipt | BOUNDED_PROVISIONAL; [model 1.4](../04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/rudeus/EVIDENCE_INDEX.md). | ST16–20 and checks V24–30; ability, pleasure, bodily response and intimate security cannot substitute for one another. |
+| Sara / team obligation, category revision, ordinary reciprocity and defensive communication | First BOUNDED_PROVISIONAL [model 1.0](../04%20Character%20Analysis/sara/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/sara/EVIDENCE_INDEX.md). | Six contextual rules, six states and seven retrospective checks; no clean holdout or universal romantic persona. |
+| Eris, Ruijerd, Roxy, Paul / existing admitted domains | Existing bounded packages reviewed; no material operational revision. | Rudy's present memories, fear and guesses are not new direct choices by those people; V06 ceilings preserved. |
+| Soldat, Suzanne, Timothy, Elise, Ariel, Fitts and others | Source-bound descriptions maintained here and in other ledgers; standalone packages deferred. | Material actions and partial interior access warrant analysis but no redundant or broad model on this transaction. |
+
+No DOMAIN_READY, mature monograph, generated scenario evidence or global enrollment. Sara's independent work and changing appraisal make her new operational responsibility distinct from simply modeling Rudy's interlocutor.

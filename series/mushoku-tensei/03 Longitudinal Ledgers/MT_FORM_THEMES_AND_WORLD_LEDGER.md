@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -183,3 +183,30 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 | `MT-W-013` NEW | Divine recognition anomalies and visibility/aversion restrictions enter as unequal observations/reports. | `015–019,027–028`; full mechanism and motives withheld; no later cosmology. |
 
 The targeted V06 checkpoint reviews new knowledge premises and model dependencies. The V01–V05 cumulative checkpoint remains unchanged; next scheduled cumulative reviews are V10 and V15. No new source lane, monograph or duplicative specialist is activated.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Pattern / transition | V07 mechanism | Observation / limit |
+| --- | --- | --- |
+| `MT-F-001/009` REVISE | Alternating Sara access corrects motive while retaining her errors; retrospective school narration distinguishes public image from engineered cause. | `006,012,025,028–030`; focalization does not certify every thought. |
+| `MT-F-002/007` REVISE | Work montages compress months while crisis slows; late Sara return revisits the same night, extra moves between third year and prior election. | `007,013,018,020–030`; book order not a single calendar. |
+| `MT-F-003` STRENGTHEN | Snow, forest, ruins, equipment and guild terms shape available rescue/work choices; mobility enables search and avoidance. | `008–010,013–019,026`; travel has several simultaneous meanings. |
+| `MT-F-004/005` STRENGTHEN | Training, specialist exorcism, retreat decisions, survival skills, paid care and concrete accompaniment distribute outcomes. | `003–004,007–010,014–017,021–026`; exceptional magic remains effective but insufficient. |
+| `MT-F-006/010` REVISE | Muscle naming, game metaphors and polite smiles coexist with severe distress; direct conversation and repeated bodily failure alter tone. | `007,011–013,019–025`; comic device neither proves cure nor dictates reader response. |
+| `MT-F-008/011` REVISE | Formal courtesy, protective smile, defensive debt claim, consent-sensitive inquiry and inaudible provocation have distinct audience structures. | `010–012,020–025,029`; pronoun or smile alone cannot classify sincerity. |
+| `MT-F-012` STRENGTHEN | Rescue precedes reward imagery; Sara's affection and confession plan later distinguish love from imposed repayment. | `014–020,025`; gratitude is not consent or sole motive. |
+| `MT-F-013` REVISE | Temporary membership, modest pay, borrowed weapon costs and care after failure separate accounting from belonging. | `007,014,017–019,021–026`; exchange persists without explaining every relationship. |
+| `MT-F-014/016` REVISE | Earring, bodily signs, conflicting testimony and rumor require different inference confidence; correction may arrive without a repair opportunity. | `010,015,020,025,027`; accurate information not sufficient for contact. |
+| `MT-F-015/017` REVISE | Companion loyalty and practical support renew action, while apparently shared intimacy/debt language conceals incompatible appraisals. | `004–005,017,020–026`; embodied response not voluntary moral verdict. |
+| `MT-F-018` NEW | Ritual continuity through training, remembered teacher and destroyed memento coexists with unhealed vulnerability; return to work does not close emotional time. | `005,007,013,020,026`; no clinical mechanism inferred. |
+| `MT-F-019` NEW | Prospective public image constructed through asymmetrical hearing, staged sequence, witness selection and retelling. | `028–029`; local strategy, not universal theory of every institutional account. |
+| `MT-W-001/005` STRENGTHEN | Specialized magic, material limits, resistant monsters and party roles expose difference between rank, output and suitable expertise. | `003–004,008–010,015–016`; ruins history partly reported/inferred. |
+| `MT-W-003/009` REVISE | Medical debt/enslavement fear and commercial child labor coexist with particular free aid; noble lineage shapes mistrust. | `012–013,018,022`; rumor about political obstruction stays conjectural. |
+| `MT-W-006/012` REVISE | Reputation spreads faster than direct contact; guilds/taverns and traveling allies route messages through partial reports. | `007,013,018,026–027`; no guaranteed mother-search success or verified dragon account. |
+| `MT-W-014` NEW | Temporary adventurer contracts, different fees, retreat penalties and customary salvage shares distribute work and risk. | `007–010,014,017,026`; local convention not a complete universal labor code. |
+| `MT-W-015` NEW | School office, sponsorship, expulsion decisions, asymmetric species hearing and powerful recruits become political resources. | `028–030`; institutional success does not establish factual completeness or just methods. |
+
+Author-profile comments about escape are paratextual statements, not clinical instruction or a conclusive moral verdict on every departure (`030`). The [targeted checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the immediate comparative argument. Existing architecture accommodates these distinctions; no new source lane or redundant specialist is activated.
