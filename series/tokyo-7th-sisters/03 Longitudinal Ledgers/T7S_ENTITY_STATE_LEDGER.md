@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.54"
+version: "11.55"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 196 complete i-n-g primary documents / T7S_B0080–T7S_B0153; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 199 complete i-n-g primary documents / T7S_B0080–T7S_B0154; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 428`; `directional_relationship_states = 624`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0153, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 435`; `directional_relationship_states = 630`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0154, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3489,3 +3489,40 @@ The [B0153](../02%20Readings/T7S_B0153_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0624` | Player → Shinju/peers, **recognition of their concern** | Thanks Shinju and realizes he had missed their faces/worry. B:P17–24; C:P41–65. Reciprocal `REL-0623`; no enacted staffing reform. |
 
 `T7S_B0153_CLOSE-20260926`: seven epistemic states, three directional relationship pairs and existing-actor/unit annotations; no thief identities, completed image send or formal leave policy.
+
+## B0154 Kajika's visibility and letter access
+
+The [B0154](../02%20Readings/T7S_B0154_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.56, binds these updates. Existing Kajika `CHAR-0020`, Sawara `CHAR-0019`, Shinju `CHAR-0021`, Haru `CHAR-0004`, Musubi `CHAR-0006`, Momoka `CHAR-0012`, Coney `CHAR-0003`, Player `CHAR-0001`, Nanastar `UNIT-0002` and Sanbon Ribbon group state suffice. Petitioners and Haru's letter correspondent are anonymous; a proposed private fan club is not a newly operational or official unit.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0020` / Kajika | Initially believes she is sisters' appendage without individual fans, struggles with proposed private club, asks Player for qualities, records thanks and reciprocal attention pledge. | A:P23–86; B:P1–72; C:P1–60. Fan motives and video reception unknown; she has not yet read letters. |
+| `CHAR-0019` / Sawara | Holds Harumi mail together under self-stated authority, previously offered to give Kajika letters when wanted, is unavailable before deadline, secretly watches greeting and promises delivery next day. | B:P57–70; C:P1–6,61–76. Care not a proven legal custody right or Kajika's consent to postscript. |
+| `CHAR-0021` / Shinju | Relays Player's club-order examples, says Sawara has letters, questions why they were not simply given and warns return may miss recording. | B:P12–17,57–70. Her report is not a full mail-chain audit. |
+| `CHAR-0004` / Haru | Remembers a recurring fan by handwriting/details, rejects Kajika's no-fan premise, proposes letters as evidence and affirms her attractiveness. | A:P11–36; B:P26–28,40–55. No direct evidence of Kajika petitioners' reasons. |
+| `CHAR-0006` / Musubi | Frames ordinary accessibility as possible appeal, supports security screening in comic dialogue. | A:P14–21; B:P29–38. Theory not petitioner testimony or audited security procedure. |
+| `CHAR-0012` / Momoka | Jokes about gifts/bombs and defends the appeal of a less conventional or ordinary idol. | A:P17–22; B:P30–34. Humor not a parcel risk assessment. |
+| `CHAR-0003` / Coney | Shares petition news and discusses video appeal; briefly evades past-industry experience question. | A:P43–86. No new biography, fan data policy or official club. |
+| `CHAR-0001` / Player | Reports petition/signatures, distinguishes private/official clubs, proposes cooperation and apparently praises Kajika, with exact praise only in her retelling. | A:P43–86; C:P7–16,44–52. No signed charter, member register, clip delivery or directly transcribed compliment list. |
+| `UNIT-0002` / Nanastar | Considers cooperation with fan-run club and video, while agency resource limits, mail routing, screening and individual-performer access remain ad hoc. | A:P17–86; B:P50–72; C:P17–76. No official club/data stewardship or completed release. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0429` | Peers hold/read fan letters; Kajika mistakenly infers no one writes to her individually; Haru remembers a recurring correspondent. | A:P2–38. Personal letters not a rank measure. |
+| `KNOW-0430` | Player/Coney know a petition for Kajika, who first guesses a sister; they distinguish private from official and envisage video. | A:P43–86. Petitioners' actual identities/rules not read. |
+| `KNOW-0431` | Kajika voices self-doubt; peers offer explanations about cuteness, ordinary appeal and non-center timing. | B:P1–49. No fan interview confirms theories. |
+| `KNOW-0432` | Shinju knows Sawara receives family mail; Kajika remembers opt-in offer and realizes she lacks letters before deadline. | B:P50–72; C:P1–6. Legal authority and future delivery unresolved. |
+| `KNOW-0433` | Kajika asks Player; only her later report specifies he listed many virtues, some small and overgenerous to her. | C:P7–16,40–52. Direct wording hidden by cut. |
+| `KNOW-0434` | Kajika records her inference that fans found good in her and her intention to notice them. | C:P17–60. Recipient knowledge and actual viewing unshown. |
+| `KNOW-0435` | Sawara says she secretly saw recording, adds her interpretation and promises letters tomorrow; Kajika's knowledge of this is not shown. | C:P61–76. No approved final edit or delivery. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0625` | Haru → Kajika, **confidence and letter-based inquiry** | Challenges no-fan premise, affirms her, recommends reading actual letters. A:P23–36; B:P26–28,40–55. Reciprocal `REL-0626`; no access to those letters yet. |
+| `REL-0626` | Kajika → Haru/peers, **asking to understand recognition** | Explains ordinary/appendage model and keeps asking for fan reasons despite comfort. A:P23–34; B:P1–55. Reciprocal `REL-0625`; self-doubt not proof of low merit. |
+| `REL-0627` | Sawara → Kajika, **protective pride with mediated access** | Holds letters, offers later delivery, covertly views greeting and adds sisterly gatekeeper joke. B:P57–70; C:P61–76. Reciprocal `REL-0628`; no legal authority/consent proof. |
+| `REL-0628` | Kajika → Sawara, **comparison and unreceived correspondence** | Assumes sister more deserving, recalls letter offer and later addresses fans before reading letters. A:P25–34,71–86; B:P6–25,62–72; C:P17–60. Reciprocal `REL-0627`; no seen response to postscript. |
+| `REL-0629` | Player → Kajika, **recognition and proposed fan bridge** | Explains petition, offers video and, by Kajika's report, promptly lists her good qualities. A:P43–86; C:P7–16,44–52. Reciprocal `REL-0630`; no direct compliment transcript or completed distribution. |
+| `REL-0630` | Kajika → Player, **seeking credible description** | Asks what fans might like, then builds her message from his reported answer. C:P7–16,40–57. Reciprocal `REL-0629`; fan motives still unknown. |
+
+`T7S_B0154_CLOSE-20260926`: seven epistemic states, three directional relationship pairs and existing-actor/unit annotations; no petitioner identity, operational club or letter-handover promotion.

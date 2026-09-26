@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.54"
+version: "11.55"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 196 complete i-n-g primary documents / T7S_B0080–T7S_B0153; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 199 complete i-n-g primary documents / T7S_B0080–T7S_B0154; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 714`; `revisions = 42`; `predictions = 7`; `AV_reviews = 100`; `literary_findings = 714`. Claims are bounded to their stated B0001 through B0153 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 74 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 719`; `revisions = 42`; `predictions = 7`; `AV_reviews = 101`; `literary_findings = 719`. Claims are bounded to their stated B0001 through B0154 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 75 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2412,3 +2412,27 @@ Owner and A/B/C locator key: [B0153](../02%20Readings/T7S_B0153_DEEP_READING.md)
 - Outcome: `REVIEWED` for nine selected exact resources and all native page-state segmentation. One hundred twenty-three dialogue-associated voice pages plus title cues, BGM/SFX, actual photos/device logs, labor files and any message recipient trail remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0153_CLOSE-20260926`: five bounded claims and one AV review; no completed distribution, audited workload remedy, technical unlock proof, specialist or monograph promotion.
+
+## B0154 Kajika's fans, ordinary visibility and custody
+
+Owner and A/B/C locator key: [B0154](../02%20Readings/T7S_B0154_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.56. Sawara's travel is not equated with B0153's specific trip without a direct continuity marker.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0154-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kajika revises ordinary-as-invisible into being found through another's attention and offers attention back, without needing a unique ranked trait. | A:P23–34; B:P1–49; C:P40–57. Petition not objective best-idol ranking. |
+| `CL-B0154-002` | `BOUNDED_INFERENCE`; D1; high | Fans' individual motives are not known: peer theories and Player compliments (retold by Kajika after cut) help her craft a greeting but are not petitioner testimony. | B:P19–55; C:P9–16,40–57. No letter text or fan interview inspected. |
+| `CL-B0154-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | A private fan club and official agency club are different governance forms; cooperation with the former gives a possible bridge but no automatic official charter, member-data policy or control. | A:P43–70. Petition and plan are not operation. |
+| `CL-B0154-004` | `BOUNDED_INFERENCE`; D1; high | Sawara's mail custody and secret viewing/postscript leave consent and access unresolved even when her pride is sincere; promised next-day handover is not shown. | B:P50–72; C:P1–6,61–76. Claimed guardian authority not verified legal status. |
+| `CL-B0154-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Kajika's promise to look for fans' good qualities is reciprocal care, not personal/romantic availability; Sawara's love-confession/gatekeeper joke is her interpretation, not Kajika's invitation. | C:P29–76. Video delivery and audience response absent. |
+
+### AV-0101 — Kajika's recorded address and unpictured correspondents
+
+- Questions/claims: whether art identifies petitioners, letters or club status, and whether Kajika's costume/expressions prove recipient response or Sawara's viewing approval; `CL-B0154-001`–`005`.
+- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` for uninspected letters/signatures, edited/delivered video, audience response and performed audio.
+- Selection: Kajika school `adv_chara_013_01_06`, recording states `013_05_05`/`_11`; Sawara `012_01_01`; Haru `003_01_05`, Shinju `014_01_03`, Musubi `004_01_01`, Momoka `007_02_01`, Coney `002_03_01`. All 239 native pages and twenty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.56 binds nine media receipts.
+- Observed: Kajika's anxious school and smiling/startled recording states remain one person. Peers are distinct speakers; no petitioner portrait, full letter, signed roster or delivered-screen state is established. Sawara appears in a separate scene, not as evidence of Kajika's advance approval.
+- Native occurrence: command-only A:P0–1,9–10,39–42,61,87; B:P0,73; C:P0,13–16,20,61–63,76. C:P13–16 omits direct Player praise; C:P61–63 marks turn from Kajika recording to Sawara return.
+- Outcome: `REVIEWED` for nine selected exact resources and all native page-state segmentation. One hundred ninety-three dialogue-associated voice pages plus title cues, BGM/SFX, individual fan letters, signatures, final video cut/distribution and fan response remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0154_CLOSE-20260926`: five bounded claims and one AV review; no verified petitioner motives, operating club, letter handover, romantic fan access, specialist or monograph promotion.

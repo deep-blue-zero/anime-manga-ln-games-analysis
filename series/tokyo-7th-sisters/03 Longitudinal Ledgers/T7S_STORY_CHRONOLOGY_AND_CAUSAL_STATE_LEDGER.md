@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.54"
+version: "11.55"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 196 complete i-n-g primary documents / T7S_B0080–T7S_B0153; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 199 complete i-n-g primary documents / T7S_B0080–T7S_B0154; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 653`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 752`; `last_closed_block = T7S_B0153`. The admitted horizon contains 431 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 196 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 660`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 764`; `last_closed_block = T7S_B0154`. The admitted horizon contains 434 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 199 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2310,3 +2310,34 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.55. [B0153](../02%20Readings/
 | `EDGE-0759` | `BATH_CAPTURE_TO_RENEWED_PROTEST` | `EV-B0153-007` breaks apparent photo truce; no actual distribution shown. |
 
 `T7S_B0153_CLOSE-20260926`: seven chapter events and thirteen typed edges; restorative result, work coverage and consent remain separate.
+
+## B0154 Kajika's private-club petition and reciprocal gaze
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.56. [B0154](../02%20Readings/T7S_B0154_DEEP_READING.md) owns the A/B/C locator key. Sawara is described as out of town here; this alone does not prove identity with her B0153 photography trip or establish adjacent chapter dates. C:P13–16 obscures the Player's direct response; Kajika later reports its substance. The proposed private fan club is not yet an officially established or operational institution.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0154-001` | Peers read fan letters; Kajika assumes none target her personally and counts herself an appendage to sisters. | A:P2–38; `KNOW-0429`. Haru remembers correspondent detail; no popularity ranking established. |
+| `EV-B0154-002` | Player/Coney report signed fan petition for Kajika private club, distinguish it from agency official club and plan possible video cooperation. | A:P43–86; `KNOW-0430`. Petition reported, no operating club/rules or delivered message. |
+| `EV-B0154-003` | Kajika cannot understand being first; peers propose varying ordinary/cute/contrast explanations, none sourced to petitioners. | B:P1–49; `KNOW-0431`. Fan motives remain unknown. |
+| `EV-B0154-004` | Shinju says Sawara holds Harumi-family letters under claimed guardian authority; Kajika has not requested hers and Sawara is away before deadline. | B:P50–72; C:P1–6; `KNOW-0432`. Legal entitlement, informed mail custody and eventual handover not shown. |
+| `EV-B0154-005` | Kajika asks Player what is good about her; direct answer is cut, and her video later reports he named many small virtues. | C:P7–16,40–52; `KNOW-0433`. His exact words and petitioners' actual reasons not recorded. |
+| `EV-B0154-006` | Kajika records a greeting thanking those who found her and promising to look for their good, while still worrying about talk quality. | C:P17–60; `KNOW-0434`. Recording is shown; transmission and fan response absent. |
+| `EV-B0154-007` | Sawara secretly watches, adds fan-facing sisterly/romantic jokes and promises letters tomorrow. | C:P61–76; `KNOW-0435`. No Kajika permission, letter handover or final edited delivery shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0760` | `PEER_LETTERS_TO_KAJIKA_ABSENCE_ASSUMPTION` | `EV-B0154-001`; she has not seen personal mail, not proof none exists. |
+| `EDGE-0761` | `PETITION_TO_PERSONAL_RECOGNITION_SHOCK` | `EV-B0154-002` contradicts Kajika's appendage model without proving relative rank. |
+| `EDGE-0762` | `PRIVATE_CLUB_TO_PROPOSED_AGENCY_COOPERATION` | Player proposes greeting/community learning, not official conversion or full control. |
+| `EDGE-0763` | `PEER_TRAIT_THEORIES_TO_UNSETTLED_MOTIVE` | `EV-B0154-003`; friends' theories are not fan testimony. |
+| `EDGE-0764` | `LETTER_CUSTODY_TO_MOTIVE_ACCESS_GAP` | Sawara-held mail in `EV-B0154-004` cannot be read before recording deadline. |
+| `EDGE-0765` | `RECENT_TRAVEL_TO_DEADLINE_CONSTRAINT` | Sawara away in `EV-B0154-004`; no proof which trip or exact return. |
+| `EDGE-0766` | `KAJIKA_QUESTION_TO_OFFSCREEN_COMPLIMENTS` | `EV-B0154-005` has a cut before Player's answer; later retelling is only source. |
+| `EDGE-0767` | `COMPLIMENTS_TO_FOUND_QUALITIES_INFERENCE` | Kajika reasons that Player/fans can find good she missed; latter remains inference. |
+| `EDGE-0768` | `FOUND_QUALITIES_TO_RECORDED_THANKS` | `EV-B0154-006` turns insight into fan-directed speech, without delivery proof. |
+| `EDGE-0769` | `RECIPROCAL_LOOKING_TO_FAN_BOUNDARY` | Kajika offers attention, not individual intimacy or romantic status. |
+| `EDGE-0770` | `SECRET_VIEWING_TO_SISTER_POSTSCRIPT` | Sawara's `EV-B0154-007` speech follows unseen viewing, not Kajika's documented approval. |
+| `EDGE-0771` | `LETTER_PROMISE_TO_UNVERIFIED_HANDOVER` | C:P73 promises next-day delivery; chapter ends before it occurs. |
+
+`T7S_B0154_CLOSE-20260926`: seven chapter events and twelve bounded edges; petition, recording and future operation remain distinct stages.

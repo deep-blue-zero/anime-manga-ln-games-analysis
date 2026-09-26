@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.54"
+version: "2.55"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 54/60 blocks; i-n-g coverage is 196/280 episodes across 74 chapters. The next authorized but unread chapter is `301260` / **私のファン** / 晴海カジカ, episodes `612201101 / 612201102 / 612201103`, assigned B0154.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 55/60 blocks; i-n-g coverage is 199/280 episodes across 75 chapters. The next authorized but unread chapter is `301270` / **シンジュとふしぎなカエル** / 晴海シンジュ, episodes `612201201 / 612201202 / 612201203`, assigned B0155.
 
 ## Closed first i-n-g tranche
 
@@ -134,3 +134,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0151](T7S_B0151_DEEP_READING.md) | `301230` / 久遠寺シズカ / わたしの名前 | `612200801 / 612200802 / 612200803` | `COMPLETE_BOUNDED` |
 | [T7S_B0152](T7S_B0152_DEEP_READING.md) | `301240` / アレサンドラ・スース / プリンシパル・プリンシプル | `612200901 / 612200902 / 612200903` | `COMPLETE_BOUNDED` |
 | [T7S_B0153](T7S_B0153_DEEP_READING.md) | `301250` / 晴海サワラ / 怪盗Sの華麗なる冒険 | `612201001 / 612201002 / 612201003` | `COMPLETE_BOUNDED` |
+| [T7S_B0154](T7S_B0154_DEEP_READING.md) | `301260` / 晴海カジカ / 私のファン | `612201101 / 612201102 / 612201103` | `COMPLETE_BOUNDED` |
