@@ -3,13 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
 scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
+version: "1.2"
 status: canonical
 source_boundary: Designed for the Blue Archive extraction corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 and its future promoted generations
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE SYNTHESIS ARCHITECTURE V1
@@ -30,6 +31,24 @@ The two roots have different responsibilities:
 - **analytical root** — methods, sequential readings, cumulative ledgers, specialist interpretation, full/current-era synthesis, evidence indexes, manifests, and legacy analytical generations.
 
 Do not duplicate the full transcript corpus into the analytical root. Analytical artifacts should link back to it through stable IDs and Drive routes.
+
+### Authority direction, derived use, and feedback control
+
+The complete analytical and reconstruction stack is:
+
+```text
+canonical Japanese source
+  -> sequential deep reading
+  -> longitudinal ledgers
+  -> checkpoint and literary specialist synthesis
+  -> character reconstruction model
+  -> model validation record
+  -> optional hypothetical application
+```
+
+Each step downward is more derived. A reconstruction model may compile accepted literary and ledger authority into conditional rules, but it does not replace the monograph, checkpoint, or source-facing reading. A hypothetical scene, generated line, crossover, or other model output can never become upstream evidence.
+
+If hypothetical use exposes a weakness, reopen the canonical evidence and revise the artifact that owns the affected responsibility. Do not cite the generated output as proof. Literary interpretation and operational reconstruction can challenge one another, but corrections flow through evidence rather than circular inference.
 
 ## Source-projection versus analytical-artifact boundary
 
@@ -99,7 +118,10 @@ Canonical files:
 ```text
 BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md
 BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md
+BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md
 ```
+
+The analytical method governs source interpretation and sequential capture. The synthesis architecture governs artifact ownership and dependency order. The reconstruction specification governs the narrower derived-use model, readiness, scenario, and validation contracts. None substitutes for the others.
 
 Possible future additions only when needed:
 
@@ -318,6 +340,8 @@ Required sections:
 - competing readings;
 - evidence route.
 
+A mature monograph owns the literary and psychological argument: development, causality, self-report versus action, narrative function, relationships, language, contradictions, and interpretive disputes. It may explain an accepted reconstruction mechanism and link rule IDs, but it must not maintain a competing operational rule set.
+
 ## 7.2 Relationship syntheses
 
 Examples:
@@ -376,6 +400,32 @@ Likely long-term responsibilities include:
 - Sensei as adult counter-institution.
 
 Do not pre-create one file for each hypothesis. Let recurring evidence earn its own topical home.
+
+## 7.7 Character reconstruction models
+
+Reconstruction models are derived-use specialist artifacts with a distinct responsibility from literary monographs. Their canonical home is:
+
+```text
+04 Specialist Synthesis/Character Reconstruction/
+  BLUE_ARCHIVE_<STABLE_CHARACTER_KEY>_RECONSTRUCTION_MODEL.md
+```
+
+Do not create the directory or a model to complete a roster. A model is warranted only when the coverage index and a bootstrap/promotion audit show enough time-bounded evidence for conditional behavioral rules.
+
+Every model must declare:
+
+- character/continuity identity and exact source state;
+- literary, checkpoint, ledger, locator, and audit dependencies;
+- temporal states and change causes;
+- attention, appraisal, motives, inhibition/escalation, choice, action, and aftermath;
+- directed relationship and institutional conditioning;
+- ordinary-life and crisis contrast;
+- Japanese written-speech constraints, separate from any performed-voice layer;
+- counterevidence, negative constraints, gaps, and abstention conditions;
+- project-local readiness and validation status;
+- a counterfactual scenario envelope.
+
+The detailed contract is `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`. A model is operational authority only inside its declared state/domain envelope. It is never primary literary authority.
 
 ---
 
@@ -439,6 +489,8 @@ The character coverage index should answer:
 - known source gaps?;
 - current authority.
 
+`BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` additionally owns project-local behavioral/reconstruction coverage and readiness. It must distinguish source availability from analyzed evidence, model artifact existence from distributed partial mechanisms, and domain readiness from whole-character claims. It does not create global character or capability records.
+
 ---
 
 # 10. `08 Audits and Manifests`
@@ -452,6 +504,16 @@ BLUE_ARCHIVE_LOCATOR_INTEGRITY_AUDIT.md
 BLUE_ARCHIVE_DUPLICATION_AND_RESPONSIBILITY_AUDIT.md
 BLUE_ARCHIVE_RELEASE_MANIFEST.md
 ```
+
+Character reconstruction audits and future prediction/adjudication records also live here, for example:
+
+```text
+BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md
+BLUE_ARCHIVE_CHARACTER_MODEL_PROSPECTIVE_REGISTER_<BOUNDARY>.md
+BLUE_ARCHIVE_CHARACTER_MODEL_ADJUDICATION_<BOUNDARY>.md
+```
+
+The bootstrap audit evaluates architecture and evidence readiness. A prospective register freezes exact rules before later source exposure. An adjudication record preserves the frozen wording and scores only fair diagnostic opportunities. These responsibilities must not be collapsed into a model's current prose.
 
 Do not duplicate technical parser audits already authoritative in the extraction corpus. Link to them and add only the interpretive impact.
 
@@ -541,20 +603,20 @@ Once a release is declared frozen:
 
 # 12. Current production sequence
 
-The source-promotion milestone has passed. Proceed in this order:
+The source-promotion milestone, Prologue checkpoint, and Volume 1 Chapters 1–2 checkpoints have passed. The actual analytical boundary is `MAIN_V001_C002`, **42 / 310** main units. The current sequence is:
 
-1. `BLUE_ARCHIVE_SOURCE_LOCK_V1.md`
-2. main-story corpus-map crosswalk on the analytical side;
-3. first canonical main-story deep reading;
-4. character-state ledger;
-5. institution ledger;
-6. Sensei-role ledger;
-7. continue sequentially to the first natural arc checkpoint;
-8. perform event/group/bond/MomoTalk contextual backfill for characters central to that arc;
-9. write first checkpoint;
-10. only then decide which first specialist monograph is justified.
+1. retain all three historical checkpoints and the recovered twenty C002 readings; use the C002 checkpoint as the current Volume 1 synthesis authority;
+2. maintain the seven cumulative ledgers through `BA:main:001:002:020` without overwriting unit-local uncertainty;
+3. use the canonical reconstruction specification, coverage index, and bootstrap audit as the operational architecture;
+4. preserve the Chapter 2 contextual-backfill decision `DEFER`;
+5. stop before `BA:main:002:001:001`; this architecture task does not authorize opening it;
+6. on a later authorized sequential run, freeze any intended prospective tests before diagnostic source exposure, then perform literary reading and concise diagnostic behavioral deltas;
+7. at every chapter checkpoint, apply method §10.5: new contexts, state changes, strengthened/narrowed/contradicted rules, directed conditions, ordinary-life and negative evidence, frozen-test outcomes, and readiness increases **and decreases**;
+8. update material coverage/readiness changes in the index, preserving the previous basis and rationale;
+9. admit side sources only through a reasoned source/chronology gate, never to fill a table;
+10. create a monograph or standalone model only when its distinct evidence and responsibility gate passes.
 
-This prevents the project from becoming a character-encyclopedia exercise before the main narrative establishes its world and causal architecture.
+The forthcoming Chapters 3–8 capture contract changes what the run records, not its canonical reading order. Chapter numbers in that planning phrase do not replace the crosswalk's volume/chapter IDs. No character model, prediction register, or empty model directory is required merely for symmetry.
 
 ---
 
@@ -587,8 +649,8 @@ scope: MAIN_V01_C01_E01
 generation: V1
 status: canonical
 source_boundary: "..."
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ```
 
@@ -676,7 +738,10 @@ A mature Blue Archive analytical corpus should eventually allow the following re
 `current map → main deep reading → canonical story → utterance/choice ID → raw record`
 
 **Character question**\
-`current map → character monograph → state ledger → contextual source bundle → canonical story/MomoTalk/bond → raw record`
+`current map → character monograph → state / relationship / voice ledgers → canonical story/MomoTalk/bond → raw record`
+
+Before a monograph exists:\
+`current map → character analytical coverage index → checkpoint → applicable ledgers → source-facing reading → canonical source`
 
 **Relationship question**\
 `current map → relationship synthesis → relationship ledger → contextual scenes → source`
@@ -689,5 +754,12 @@ A mature Blue Archive analytical corpus should eventually allow the following re
 
 **How did our interpretation change?**\
 `current map → claim-revision ledger → prior artifact → current authority → evidence route`
+
+**What would this bounded version of a character plausibly do?**\
+`current map → reconstruction model (selected state/domain) → monograph + relevant ledgers → canonical evidence`
+
+The coverage index first checks whether that model/domain exists; the specification governs its use. Validation records attach to the exact model/rule snapshot, and hypothetical applications remain downstream. Source bundles may accelerate retrieval but never replace complete canonical evidence for consequential inference.
+
+If no current model or eligible domain exists, stop at the coverage index and answer from literary evidence without presenting the result as reconstruction capability.
 
 This is the desired end state: **one analytical responsibility per artifact, one current authority path, and no loss of reversibility back to the Japanese source.**

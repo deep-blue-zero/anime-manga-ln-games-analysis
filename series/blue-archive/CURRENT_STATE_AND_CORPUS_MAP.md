@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE — CURRENT STATE AND CORPUS MAP
@@ -21,6 +21,8 @@ This is the canonical entrypoint for the Blue Archive analytical project.
 **Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete. No further main-story unit is authorized in the present task.**
 
 The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Coverage is **42 / 310** units; all seven ledgers are reconciled to the checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
+
+The project-local character reconstruction architecture is now established before that next story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. The next unit remains unopened.
 
 Current sequential authority:
 
@@ -48,7 +50,7 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E018_DEEP_READING.md` — **active_provisional**, Shiba Seki friendship-contact-zone / Aru outlaw-identity panic / Haruka command-misinterpretation / restaurant-destruction / emergency-response unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E019_DEEP_READING.md` — **active_provisional**, adopted-culpability / persona-capture / Shiba Seki retaliation / Prefect Team mortar-intervention unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md` — **active_provisional**, territorial-sovereignty / Prefect-Team jurisdiction / Sensei force-multiplier / Ako-procedural-repair unit;
-- `02 Sequential Readings/MAIN/VOLUME_001_.../BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` - **canonical Chapter 1 synthesis authority**, adversarial reconciliation of E001-E020 and BA-C001-BA-C018.
+- `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` - **canonical Chapter 1 synthesis authority**, adversarial reconciliation of E001-E020 and BA-C001-BA-C018.
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md` — **active_provisional**, unexpected coalition / protective-custody / delegated-command / concealed-deployment unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E002_DEEP_READING.md` — **active_provisional**, mandate-correction / official-apology / Hoshino-history / Kaiser-warning unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E003_DEEP_READING.md` — **active_provisional**, PS68-reparation / farewell / Shiba-Seki-eviction / property-transfer unit;
@@ -72,7 +74,7 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` — **canonical Chapter 2 synthesis authority**;
 - next crosswalk unit: `BA:main:002:001:001`, but Volume 2 is outside current authorization.
 
-No specialist monograph or series-level synthesis exists yet. The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
+No specialist monograph or series-level synthesis exists yet. **Historical Chapter 1 context follows; the current boundary is the C002 checkpoint above.** The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
 ---
 
@@ -116,8 +118,14 @@ Current analytical authority:
 
 - `00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md`
 - `00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md`
+- `00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`
 - this `CURRENT_STATE_AND_CORPUS_MAP.md`
 - `01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_LOCK_V1.md`
+
+Current character-reconstruction routing and audit surfaces:
+
+- `06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`;
+- `08 Audits and Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md`.
 
 Technical source-state authority remains in the extraction root, especially:
 
@@ -282,7 +290,10 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 
 - `BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md`;
 - `BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md`;
+- `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`;
 - `BLUE_ARCHIVE_SOURCE_LOCK_V1.md`;
+- `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`;
+- `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md`;
 - this current-state/corpus map;
 - promoted source/derived technical audits in the ingestion root.
 
@@ -321,13 +332,24 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:001:002:011`, the eleventh Chapter-2 `対策委員会編` unit after the Prologue and completed Chapter 1. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:001:002:020` plus the canonical Chapter 2 checkpoint. They are mutable infrastructure, not frozen releases.
+
+### Character reconstruction state
+
+- specification: canonical and populated;
+- coverage index: canonical and populated at the C002 boundary;
+- bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
+- standalone reconstruction models: none;
+- readiness: sixteen `PARTIAL_MODEL` subjects, six `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
+- prospective prediction registers: none;
+- global reconstruction capability records: deliberately unpopulated.
 
 ### Not yet created
 
-- `MAIN_V001_C002_E012` and later `対策委員会編` / subsequent main-story deep readings;
+- `MAIN_V002_C001_E001` and subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
+- standalone character reconstruction models and validation registers;
 - adjudicated relationship syntheses;
 - institutional syntheses;
 - Sensei full synthesis;
@@ -346,7 +368,17 @@ Any answer based only on source-side bundles should still be described as **sour
 
 ### Character research before a monograph exists
 
-`this map → source character package → contextual scenes / dialogue / low-stakes / variant / relationship indexes → complete canonical sources → analytical notes`
+`this map → character analytical coverage index → current C002 checkpoint → state / relationship / voice and other applicable ledgers → complete canonical sources`
+
+When a literary monograph exists, the mature route is `this map → character monograph → state / relationship / voice ledgers → canonical evidence`. Generated source packages can help recall but do not replace complete source units.
+
+### Character reconstruction or hypothetical behavior
+
+`this map → reconstruction model (selected state/domain) → monograph + relevant ledgers → canonical evidence`
+
+Check model/domain eligibility in the coverage index first. The specification governs use; preserved validation attaches to exact rules; hypothetical applications remain downstream and cannot supply evidence.
+
+No standalone Blue Archive reconstruction model exists yet. If the coverage index reports no eligible model/domain, answer from literary evidence and label the inference accordingly rather than presenting simulation capability.
 
 ### Relationship research before a synthesis exists
 
@@ -379,15 +411,36 @@ No further sequential unit is authorized by the current task. The next crosswalk
 
 Do not open Volume 2 without a new instruction. If later authorized, use the Prologue, Chapter 1 checkpoint, and Chapter 2 checkpoint as prior authority while preserving the Chapter 2 open-question and epistemic-firewall registers.
 
+The next permitted story operation, only after a new instruction authorizes it, is the unit above under these controls. Architecture completion itself does not authorize narrative access.
+
+Before narrative access:
+
+1. retain the Prologue plus `MAIN_V001_C001` and `MAIN_V001_C002` checkpoints as the complete prior-information boundary;
+2. preserve the Chapter 2 contextual-backfill decision `DEFER`;
+3. use the character coverage index to identify any diagnostic reconstruction questions without converting them into predictions after exposure;
+4. if a formal character rule is to be prospectively tested, freeze its exact state, knowledge, relationship, conditions, alternatives, and disconfirming observation in a committed register first;
+5. do not create a prototype merely to populate the reconstruction layer.
+
+During and after the next unit:
+
+1. perform the literary deep reading first under strict local-information discipline;
+2. record a behavioral/reconstruction delta only for diagnostically useful evidence, otherwise `NO_MATERIAL_RECONSTRUCTION_DELTA`;
+3. update all affected ledgers and the coverage index only for material changes;
+4. preserve Chapter 2 character-knowledge and Kaiser/Gematria firewalls unless the new source explicitly changes them;
+5. adjudicate any previously frozen rule without editing the prediction wording.
+
+
 ## 12. Reasoning recommendation
 
-For GPT-5.6 Sol:
+Use stable routing classes rather than treating a provider label as durable architecture:
 
-- source-lock / extraction-state audits: **medium-high**;
-- individual main-story deep readings: **high**;
-- arc checkpoints and ledger reconciliation: **extra-high when available; otherwise high**;
-- character / relationship / institution monographs: **high**, with source-class triangulation and counterevidence;
-- current-era synthesis: **highest practical reasoning**.
+- source-lock / extraction-state audits: `BOUNDED_STANDARD` or `SUBSTANTIVE_ANALYSIS` when semantic routing is disputed;
+- individual main-story deep readings: `SUBSTANTIVE_ANALYSIS`;
+- arc checkpoints, ledger reconciliation, and character model construction: `DEEP_SYNTHESIS`;
+- architecture, adversarial audits, cross-specialist convergence, and current-era synthesis: `PREMIUM_QUALITY_FIRST`;
+- release administration: `ROUTINE_FAST`, escalating when semantic review is involved.
+
+Current execution metadata may name a concrete model separately; the stable class governs the durable responsibility.
 
 ---
 
@@ -398,6 +451,10 @@ For GPT-5.6 Sol:
 Use the promoted source and derived layers aggressively for retrieval while keeping them subordinate to complete canonical stories and explicit analytical adjudication. The target remains:
 
 **source → sequential reading → longitudinal state → specialist synthesis → current-era argument → frozen release**, with every mature claim reversible to stable Japanese evidence.
+
+Character reconstruction is a downstream branch:
+
+**accepted literary/checkpoint authority → time-bounded model → preserved validation → hypothetical application**, with no upward evidentiary flow from generated material.
 
 
 ## E020 chapter-closing state delta
@@ -411,7 +468,7 @@ Use the promoted source and derived layers aggressively for retrieval while keep
 - Hoshino↔Black Suit causation remains OPEN; E020 only establishes abnormal unreachability.
 - Prefect Team deployment rationale/order chain remains incomplete at E020; Ako's explanation begins but is not delivered within the unit.
 - E020 source-side convenience Markdown truncates scene 2; promoted stable two-scene projection is governing evidence.
-- **Mandatory next step:** `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` before Chapter 2.
+- **Historical E020 gate:** `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` was required before Chapter 2 and is now complete.
 
 ## Chapter 1 checkpoint state
 
@@ -650,3 +707,18 @@ E020's mandatory checkpoint is now complete.
 `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` is canonical for Chapter 2 synthesis. It re-adjudicates `BA-C001`–`BA-C018`, opens no `BA-C019`, revises meaningful autonomy to require viable alternatives/shared information/collective participation, and makes answerability without domination the chapter's strongest adult formulation. E017's Iori boundary failure remains active counterevidence. Contextual backfill is **DEFER**.
 
 No further source is authorized in the current task; Volume 2 remains unopened.
+
+## Character reconstruction bootstrap state
+
+- canonical specification: `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`;
+- canonical coverage router: `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`;
+- canonical audit: `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md`, disposition `PASS_WITH_EXPLICIT_DEFERRALS`;
+- current local readiness: sixteen `PARTIAL_MODEL`, six `UNMODELED`, zero `OPERATIONAL_CANDIDATE`, zero `BOUNDED_VALIDATED`;
+- standalone model artifacts: none;
+- prospective prediction registers: none;
+- contextual backfill: still `DEFER`;
+- the initial C001 bootstrap at `5b0001583b02b3628a2b052a3c64d6b56ba6ac01` did not have access to C002; this revision recovers the completed C002 analysis from `533a7c7253f6cbea8616518abdc37076f604d3c5`;
+- the current evidence boundary is C002 E020/checkpoint, **42 / 310**; `BA:main:002:001:001` remains unopened;
+- the method now requires a reconstruction-readiness delta at every forthcoming chapter checkpoint, including decreases and preserved prediction failures.
+
+Current architecture routes: [reconstruction specification](00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md), [domain coverage/readiness index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md), and [bootstrap/recovery audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md). Future models belong under `04 Specialist Synthesis/Character Reconstruction/`; validation belongs under `08 Audits and Manifests/`; `07 Current Release` retains its release responsibility. No empty model home is created.
