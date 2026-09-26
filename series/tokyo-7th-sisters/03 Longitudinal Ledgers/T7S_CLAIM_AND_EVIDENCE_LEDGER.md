@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.31"
+version: "11.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 127 complete i-n-g primary documents / T7S_B0080–T7S_B0130; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 130 complete i-n-g primary documents / T7S_B0080–T7S_B0131; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 612`; `revisions = 42`; `predictions = 7`; `AV_reviews = 77`; `literary_findings = 612`. Claims are bounded to their stated B0001 through B0130 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 51 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 617`; `revisions = 42`; `predictions = 7`; `AV_reviews = 78`; `literary_findings = 617`. Claims are bounded to their stated B0001 through B0131 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 52 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1873,3 +1873,27 @@ Owner and A/B/C locator key: [B0130](../02%20Readings/T7S_B0130_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred six dialogue-associated voice pages plus title cues, BGM/SFX and the continuous mall character show remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0130_CLOSE-20260926`: five bounded claims and one AV review; no father/guardian, heat injury/clearance, prior stage consent, cross-anime sequel, specialist or monograph promotion.
+
+## B0131 memory, care and consent after two accidents
+
+Owner and A/B/C locator key: [B0131](../02%20Readings/T7S_B0131_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.33. B0093 is a bounded prior Yumeno claim horizon; no total i-n-g chronology follows from menu placement.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0131-001` | `BOUNDED_INFERENCE`; D1; high | Social/autobiographical recognition changes after the first accident while daily function and idol skills persist; the quiet and familiar presentations are states of the same Yumeno, not new identities or fixed orientations. | A:P43–53; B:P1–36; C:P31–57. No independent neurologic mechanism. |
+| `CL-B0131-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Friends' desire for remembered Yumeno reflects real relational loss, but she reports she may manage without the memories and partly seeks recovery to relieve them; her present welfare cannot be replaced by their nostalgia. | B:P12–75. Affection and support are real; no permanent preference established. |
+| `CL-B0131-003` | `BOUNDED_INFERENCE`; D1; high for limit | Hime's chosen hand contact has a narrow scope; her later lay “shock” idea is neither medically validated nor an actual shown kiss, and the second accident/return sequence cannot prove therapeutic causation. | A:P10–24; B:P64–74; C:P1–41. No second clinician mechanism or injury clearance. |
+| `CL-B0131-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Familiar Yumeno's renewed kiss demand after Hime's repeated refusals means narrative memory closure does not close the relational consent breach, consistent with B0093's prior boundary case. | A:P11–33; C:P32–57. Intent, comic register and protection do not imply agreement. |
+| `CL-B0131-005` | `BOUNDED_INFERENCE`; D1; high for limit | First hospital report says superficial injury/no immediate life danger and possible temporary memory disorder; it cannot establish absence of second injury, safe work return, durable recovery or a recommended intervention. | A:P39–53; B:P1–32; C:P25–57. No second detailed exam appears. |
+
+### AV-0078 — Yumeno's manner variants and elided accident action
+
+- Questions/claims: whether expression/heart variants prove separate identities, orientation, kiss contact, injury mechanism, shock therapy or Hime's consent; `CL-B0131-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for exact accident, performed audio, medical and consent restrictions.
+- Selection: Yumeno `adv_chara_133_01_02`, `133_02_07`, `133_01_03`; Hime `006_01_12`, `006_01_03`; Ferb `127_02_01`; Xiao `147_01_01`; Coney `002_03_02`. All 188 native pages and twenty-nine command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.33 binds eight media receipts.
+- Observed: Yumeno's heart-framed prior/returned sprites contrast with a reserved post-amnesia sprite. The selected stills do not show accident trajectories, kiss contact, medical exam or Hime's assent to earlier conduct.
+- Native occurrence: command-only A:P0–1,8–10,21,23–24,34–36,38,53; B:P0,19–20,28–29,38,42,75; C:P0,20–22,24,30,56–57. A:P34–38 and C:P20–24 elide accident mechanics through sound/fade/blank states.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred forty dialogue-associated voice pages plus title cues, BGM/SFX and continuous accident action remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0131_CLOSE-20260926`: five bounded claims and one AV review; no medical recommendation, split identity, actual kiss, second safety verdict, consent repair, specialist or monograph promotion.

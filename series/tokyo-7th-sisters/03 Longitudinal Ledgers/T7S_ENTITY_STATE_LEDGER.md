@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.31"
+version: "11.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 127 complete i-n-g primary documents / T7S_B0080–T7S_B0130; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 130 complete i-n-g primary documents / T7S_B0080–T7S_B0131; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 262`; `directional_relationship_states = 468`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0130, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 268`; `directional_relationship_states = 476`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0131, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2622,3 +2622,40 @@ The [B0130](../02%20Readings/T7S_B0130_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0468` | Player → Momoka, **embarrassed resistance and practical reliance** | Objects to public label, asks her to share drink and relies on her to escort Manon. A:P74–88; B:P20–31,60–70; C:P1–8. Reciprocal `REL-0467`; no formal care contract. |
 
 `T7S_B0130_CLOSE-20260926`: seven actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no parent, sibling, guardian, Magiko/Mikola equivalence or medical record.
+
+## B0131 Yumeno's memory state and Hime's scoped choices
+
+The [B0131](../02%20Readings/T7S_B0131_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.33, binds these updates. Existing Yumeno `IDENTITY-0087`/`CHAR-0069`, Hime `IDENTITY-0009`/`CHAR-0009`, Ferb `IDENTITY-0078`/`CHAR-0060`, Xiao `IDENTITY-0094`/`CHAR-0076`, Momoka `CHAR-0012`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. The unnamed clinician/family contacts are not given invented stable identities.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0069` / Yumeno | Presses Hime despite refusal, then after accident lacks Nanasta/peer recognition while retaining skills; offers to rebuild friendship and seeks recall partly for peers, shields Hime before another accident and resumes old manner/pursuit. | A:P2–53; B:P1–75; C:P1–57. No split identity, orientation change, actual kiss, validated shock treatment or complete health audit. |
+| `CHAR-0009` / Hime | Refuses hug/kisses and kicks for space, affirms old friendship during Yumeno's amnesia, voluntarily offers a hand, then attempts an undisclosed kiss under lay treatment theory and again rejects Yumeno's demand afterward. | A:P11–24; B:P12–74; C:P1–57. Hand offer is not retroactive consent; second-accident mechanism/health unverified. |
+| `CHAR-0060` / Ferb | Warns Yumeno against rushing Hime, worries at hospital, promises lesson support, notices skills are preserved and later only conjectures impact brought memory back. | A:P5–42; B:P5–60; C:P25–41. No witness to exact collision or clinical mechanism. |
+| `CHAR-0076` / Xiao | Welcomes the discharged Yumeno, finds her formality strange, proposes massage without a claimed specific memory point and later worries she could have accompanied the pair. | B:P21–74; C:P25–46. No effective massage treatment or causal blame for accident. |
+| `CHAR-0012` / Momoka | Brings a previously liked yuri manga as a familiar cue; Yumeno does not remember the genre. | B:P48–56. No proved orientation shift or recovery mechanism. |
+| `CHAR-0003` / Coney | Comes to hospital, asks about symptoms and after the second accident tells peers to verify both parties' safety before blame. | A:P39–52; C:P25–29,35–43. Her television-repair analogy is a joke, not clinical advice. |
+| `CHAR-0001` / Player | Contacts family, seeks clinician information, asks friends to support ordinary life, and after second accident reports Yumeno shielded Hime. | A:P39–53; B:P1–27; C:P25–53. He is a related party, not proven guardian; no full second medical report. |
+| `UNIT-0002` / Nanasta | Peers support discharged Yumeno's activities and trial familiar cues; after second accident they celebrate familiar manner. | B:P21–75; C:P25–57. No formal return-to-work plan, clinical protocol or safeguarding correction for Hime's refusal. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0263` | Yumeno recounts prior pursuit as affection; Hime has expressly refused and Ferb recognizes the burden, then sees Yumeno rush again. | A:P2–33. No mutual romance or accepted kiss. |
+| `KNOW-0264` | Doctor sees scratches/no immediate life threat and probable shock-linked selective memory impairment; Yumeno does not recognize the group. | A:P39–53; B:P1–11. First-visit assessment only; cause/long-term course uncertain. |
+| `KNOW-0265` | Yumeno knows daily function and song/dance remain possible, but not the peers; they know their shared history and feel loss. | B:P12–36. Her desire to remember is partly for them, not proof present self is invalid. |
+| `KNOW-0266` | Peers know old preferences and try cues; present Yumeno does not recognize the manga/hand memory and thanks them. | B:P37–75. No effective treatment or retroactive intimacy consent. |
+| `KNOW-0267` | Hime believes a shocking kiss may help; Yumeno is told only to stay still, then sees danger and shields her. | C:P1–31. Kiss and hazard mechanism not shown; lay theory unverified. |
+| `KNOW-0268` | Peers hear Yumeno recognize them and resume old speech; Hime reports hospital awakening, Ferb speculates second shock restored memory. | C:P31–57. No doctor confirms mechanism or second injury status; Hime still refuses kiss. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0469` | Yumeno → Hime, **repeated unwanted intimacy and later protective act** | Presses for hug/kiss before first accident, shields Hime before second and then renews kiss pursuit. A:P10–33; C:P13–57. Reciprocal `REL-0470`; protection is not consent repair. |
+| `REL-0470` | Hime → Yumeno, **refusal, bounded aid and mistaken intervention** | Says no/kicks, affirms friendship, freely offers hand, attempts undisclosed kiss for hoped recall and later says no again. A:P11–24; B:P12–74; C:P1–57. Reciprocal `REL-0469`; no completed kiss or approved therapy. |
+| `REL-0471` | Ferb → Yumeno, **warning and continuity support** | Warns against running, worries at hospital, assists lessons and proposes familiar music. A:P5–42; B:P5–60. Reciprocal `REL-0472`; no recovery guarantee. |
+| `REL-0472` | Yumeno → Ferb, **friendship re-request and later recognition** | Asks to be friends anew, then later recognizes her in familiar speech. B:P12–17; C:P36–44. Reciprocal `REL-0471`; no full clinical recovery proof. |
+| `REL-0473` | Xiao → Yumeno, **welcome and proposed cue** | Invites less formal address, suggests foot massage without a memory-point claim and worries after second accident. B:P21–74; C:P25–46. Reciprocal `REL-0474`; no treatment finding. |
+| `REL-0474` | Yumeno → Xiao, **formal stranger then familiar peer** | Calls her Heifeng at first, later “Xiao-chan” and recognizes her. B:P21–27; C:P36–44. Reciprocal `REL-0473`; no alternate identity. |
+| `REL-0475` | Player → Yumeno, **family contact and bounded care** | Calls her family, consults doctor and supports return to ordinary life. A:P39–53; B:P1–27. Reciprocal `REL-0476`; not a guardian or clinician. |
+| `REL-0476` | Yumeno → Player, **lost recognition with later familiar address** | Does not recognize him on waking, accepts help and after second accident speaks in her old style. A:P47–52; B:P10–18; C:P31–53. Reciprocal `REL-0475`; no second-exam verdict. |
+
+`T7S_B0131_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, diagnostic label beyond clinician's bounded report, actual kiss or safety protocol.

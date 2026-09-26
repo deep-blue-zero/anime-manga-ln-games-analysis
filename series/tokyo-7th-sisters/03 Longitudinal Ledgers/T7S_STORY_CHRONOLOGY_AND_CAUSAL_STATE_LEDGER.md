@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.31"
+version: "11.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 127 complete i-n-g primary documents / T7S_B0080–T7S_B0130; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 130 complete i-n-g primary documents / T7S_B0080–T7S_B0131; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 487`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 492`; `last_closed_block = T7S_B0130`. The admitted horizon contains 362 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 127 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 493`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 502`; `last_closed_block = T7S_B0131`. The admitted horizon contains 365 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 130 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1608,3 +1608,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.32. [B0130](../02%20Readings/
 | `EDGE-0499` | `POST_SHOW_JOY_WITH_AMBIGUOUS_PAPA` | Manon's happy fatigue in `EV-B0130-006` precedes her sleeping wish in `EV-B0130-007`; neither joy nor prior joke fixes the referent. |
 
 `T7S_B0130_CLOSE-20260926`: seven chapter events and nine bounded edges; no new world, thread, guardian identity, heat-safety verdict, stage-consent record or cross-anime chronology.
+
+## B0131 Yumeno's changed memory, two accidents and unresolved boundary
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.33. [B0131](../02%20Readings/T7S_B0131_DEEP_READING.md) owns the A/B/C locator key. B0093 is the prior completed Yumeno boundary case; comparison does not imply total i-n-g chronology. A:P10–24 is Yumeno's recounted earlier approach to Hime before the displayed chase/first accident.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0131-001` | Yumeno recounts pressing Hime for hug/kiss, Hime refuses and kicks to separate; Yumeno sees her again and rushes forward. | A:P2–33; `KNOW-0263`; `REL-0469`–`0470`. No accepted kiss; Hime's no is explicit. |
+| `EV-B0131-002` | An accident is elided by sound/cuts; first hospital exam reports scratches/no immediate mortal danger, and Yumeno does not recognize peers. | A:P30–53; B:P1–11; `KNOW-0264`. Vehicle/collision path unknown; doctor says shock likely and permanence possible. |
+| `EV-B0131-003` | Discharged Yumeno asks peers to be friends, keeps song/dance skills, and says her own lost memories may be tolerable while their sadness motivates recovery. | B:P12–36; `KNOW-0265`; `REL-0471`–`0476`. One person with altered recognition, not a new identity. |
+| `EV-B0131-004` | Peers try manga, proposed music/massage and Hime's voluntary hand offer; Yumeno does not recall and thanks them. | B:P37–75; `KNOW-0266`. No demonstrated treatment; Hime's present offer does not authorize past pursuit. |
+| `EV-B0131-005` | Hime adopts lay “shock therapy” logic and moves toward an undisclosed kiss; Yumeno warns of danger, then shields Hime in another accident. | C:P1–31; `KNOW-0267`. Kiss not shown; neither impact mechanism nor medical safety established. |
+| `EV-B0131-006` | After second hospital visit Yumeno recognizes peers and resumes prior flirtation; Ferb speculates shock restored memory, while Hime again refuses a demanded kiss. | C:P31–57; `KNOW-0268`. No physician mechanism, full second exam or consent repair. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0500` | `UNWANTED_PURSUIT_TO_HIME_REFUSAL` | Yumeno's repeated hug/kiss pursuit in `EV-B0131-001` → Hime's verbal no and defensive kick, not reciprocal romance. |
+| `EDGE-0501` | `CHASE_TO_ELIDED_FIRST_ACCIDENT` | Yumeno's rush in `EV-B0131-001` precedes `EV-B0131-002`; exact collision mechanics and Hime's causal role are not shown. |
+| `EDGE-0502` | `FIRST_ACCIDENT_TO_BOUNDED_MEMORY_IMPAIRMENT` | First accident precedes lost peer/Nanasta recognition in `EV-B0131-002`; doctor says shock probably caused it, not a comprehensive neurological report. |
+| `EDGE-0503` | `PRESERVED_SKILLS_WITH_LOST_SOCIAL_MEMORY` | `EV-B0131-003` joins continued song/dance capacity with missing autobiographical relations, not separate persons or orientation finding. |
+| `EDGE-0504` | `FRIEND_DISTRESS_TO_RECOVERY_EFFORT` | Yumeno's own report in `EV-B0131-003` ties her wish to remember partly to friends' sadness; no proof she found current life impossible. |
+| `EDGE-0505` | `FAMILIAR_CUES_WITH_NO_RECALL` | Manga/hand/proposed activities in `EV-B0131-004` do not visibly restore memory; present hand assent is specific and bounded. |
+| `EDGE-0506` | `LAY_SHOCK_THEORY_TO_UNINFORMED_KISS_ATTEMPT` | Hime's idea in `EV-B0131-005` → attempted kiss without disclosure to Yumeno; no actual contact or clinical basis shown. |
+| `EDGE-0507` | `DANGER_WARNING_TO_SECOND_ACCIDENT` | Yumeno warns Hime and shields her in `EV-B0131-005`; staging elides the exact hazard and excludes a therapeutic interpretation. |
+| `EDGE-0508` | `SECOND_ACCIDENT_BEFORE_RECOGNITION_RETURN` | Return of old recognition/manner in `EV-B0131-006` follows the incident; temporal sequence alone does not prove effective “shock therapy.” |
+| `EDGE-0509` | `RECOVERY_WITH_RECURRENT_CONSENT_BREACH` | Familiar Yumeno in `EV-B0131-006` again presses for a kiss, while Hime refuses; personality restoration is not relational repair. |
+
+`T7S_B0131_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, split identity, neurological mechanism, actual kiss, second health clearance or consent repair.
