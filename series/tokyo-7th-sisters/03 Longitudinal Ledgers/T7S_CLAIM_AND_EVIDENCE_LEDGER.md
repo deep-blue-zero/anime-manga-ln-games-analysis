@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.1"
+version: "11.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 42 complete i-n-g primary documents / T7S_B0080–T7S_B0100; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 44 complete i-n-g primary documents / T7S_B0080–T7S_B0101; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 497`; `revisions = 42`; `predictions = 7`; `AV_reviews = 47`; `literary_findings = 497`. Claims are bounded to their stated B0001 through B0100 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first twenty-one complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 500`; `revisions = 42`; `predictions = 7`; `AV_reviews = 48`; `literary_findings = 500`. Claims are bounded to their stated B0001 through B0101 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 22 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1188,3 +1188,25 @@ The owner is [B0100](../02%20Readings/T7S_B0100_DEEP_READING.md); its A/B key su
 - Claim operation: admit the three bounded claims above without silently revising earlier formulations or frozen predictions. No new revision ID is required; no specialist promotion.
 
 `T7S_B0100_CLOSE-20260925`: three claims and one AV review added; 42 revisions and seven frozen predictions preserved unchanged.
+
+## B0101 claims and presentation review
+
+Owner and A/B locator key: [B0101](../02%20Readings/T7S_B0101_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.3. Earlier Main comparisons are retrospective and create no chronology edge or revision to a frozen prediction.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0101-001` | `BOUNDED_INFERENCE`; D1; high | Reciprocal enjoyment corrects Shirayuki's assumption that needing play makes her a burden, while her love of card soldiers revises the Player's status-based reading of his role. | A:P19–41; B:P7–9,16–30,37–41; `KNOW-0119`–`0120`. One-way indulgence is a partial rival, defeated as a total account by Manon's reciprocity and Sui's enthusiasm; unlimited future consent is not inferred. |
+| `CL-B0101-002` | `THEMATIC_INTERPRETATION`; D1; high within chapter | Received story, private refuge and shared imaginative hospitality coexist; adulthood need not mean abandoning relational coping. | B:P25–36,42–56; `REL-0261`–`0264`; `THREAD-0044`. A duty-to-entertain interpretation fits the Player's broad idol ideal but misses the retained enjoyment of Shirayuki herself; neither a cure nor a completed trip follows. |
+| `CL-B0101-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Identity leaking through theatrical roles makes shared play recognizable as companionship rather than failed impersonation; final ordinary disorder limits a solemn idol-country doctrine. | A:P8–33; B:P1–9,38–56; `AV-0048`. This is a dialogue/native-order argument, not an unheard vocal-timing or runtime-performance claim. |
+
+### AV-0048 — play roles versus static character presentation
+
+- Questions/claims: whether spoken knight/cat/dormouse roles are literal visual transformations; whether Shirayuki's selected faces establish a permanent recovered state. `CL-B0101-001`–`003`.
+- Priority/modality: `AV-B` static identity and contrast check; `AV-D` for source-text coping, disclosure and reciprocal enjoyment.
+- Selection: Shirayuki `adv_chara_148_01_01`, `_02`, `_03`; Sui `adv_chara_009_03_02`; Manon `adv_chara_132_01_01`; Susu `adv_chara_011_01_06`. Full 102-page context and seven command-only pages reviewed.
+- Reviewer/tool/date: local execution, source-hash/native-offset compositing and direct image inspection, 2026-09-25; exact media bindings in source-lock 12.3.
+- Observed: Shirayuki's golden hair, dotted bow, blue/white dress and large rabbit-like toy persist across all three faces. Sui wears a sailor-style shirt/skirt without visible armor or sword; Manon retains a wand-like prop and school bag rather than a cat body; Susu's selected face is smiling and closed-eyed. The text, not closed eyes alone, establishes sleep.
+- Native occurrence: Shirayuki `_02` at B:P16,22–23,29 and `_03` at B:P26,55–56. Reuse during memory prevents `_03` from being uniquely a recovery marker. B:P3,40,52 shake fields and background/BGM changes remain native state, not proven runtime timing or acoustic affect.
+- Outcome: `REVIEWED` static distinction; no literal costume transformation, actual sword action or permanent cure is inferred. Seventy-six dialogue-associated voice pages plus title cues, BGM and SFX remain unreviewed; performed-voice/music/timing claims are `BOUND_BY_CLAIM_RESTRICTION`. Later mature-character review still requires actual listening.
+
+`T7S_B0101_CLOSE-20260925`: three chapter-bounded claims and one AV review added; no revision ID, prediction rewrite, monograph or specialist promotion.

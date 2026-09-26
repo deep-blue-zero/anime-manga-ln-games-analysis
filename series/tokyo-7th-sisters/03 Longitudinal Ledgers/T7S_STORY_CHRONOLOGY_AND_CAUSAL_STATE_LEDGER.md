@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.1"
+version: "11.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 42 complete i-n-g primary documents / T7S_B0080–T7S_B0100; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 44 complete i-n-g primary documents / T7S_B0080–T7S_B0101; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 341`; `world_state_records = 25`; `thread_records = 43`; `chronology_and_dependency_edges = 301`; `last_closed_block = T7S_B0100`. The admitted horizon contains 277 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first forty-two admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 344`; `world_state_records = 25`; `thread_records = 44`; `chronology_and_dependency_edges = 304`; `last_closed_block = T7S_B0101`. The admitted horizon contains 279 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 44 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -826,3 +826,25 @@ This is a separately placed ordinary-life interval, not a sequel inferred from m
 | `EDGE-0301` | `ENABLES_WITHOUT_PROVING_FITNESS` | Saori's reported first aid and ambulance lift → reunion in `EV-B0100-002`–`003`; no medical clearance follows. |
 
 `T7S_B0100_CLOSE-20260925`: add three events, one locally closed thread and three non-temporal dependency edges. No world-state record or cross-chapter `BEFORE` relation is warranted.
+
+## B0101 bounded i-n-g state addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.3. [B0101](../02%20Readings/T7S_B0101_DEEP_READING.md) owns the exact A/B script/page locator key and reconstruction. Placement against other chapters remains unknown; later Main comparison is retrospective.
+
+| ID | Position and factual/causal record | State delta, threads, and evidence |
+| --- | --- | --- |
+| `EV-B0101-001` | The Player joins Shirayuki's requested park role-play as a card soldier. Manon participates reciprocally after earlier magical-item play; Sui enjoys improvisation; Hime's tofu identity intrudes into her queen role; Susu sleeps. Dusk ends the game. | A:P0–42; B:P1–12. Player's assumption of a minor role and of one-way indulgence is not the group's complete experience. No literal magical conflict. |
+| `EV-B0101-002` | At the office, Shirayuki apologizes, discloses homesickness and Tokyo anxiety, and reports an overseas older sister's former picture-book reading. She says she loves card soldiers, then proposes growing up by no longer escaping or involving others. | B:P14–30; `KNOW-0119`–`0120`; `IDENTITY-0091`; `CHAR-0073`. Family history is attributed testimony, not an enacted flashback. |
+| `EV-B0101-003` | Hime and the Player normalize adults' need for company; Hime and Manon affirm enjoyment. Manon proposes inviting others into Shirayuki's Wonderland. Shirayuki accepts mutual enjoyment and promises a future hometown visit as group comedy resumes. | B:P31–58; `REL-0261`–`0264`; `THREAD-0044`; `UNIT-0002`. No cure, completed visit, public performance or all-audience effect is established. |
+
+| ID | State | Evidence and limit |
+| --- | --- | --- |
+| `THREAD-0044` | `OPEN`: Shirayuki promises to take companions someday to her northern home, named her real Wonderland. | B:P56 / `EV-B0101-003`. No date, itinerary, particular-trip agreement or fulfillment is shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0302` | `RECONTEXTUALIZES` | Disclosure in `EV-B0101-002` → play in `EV-B0101-001`: previously concealed coping motive adds to, not replaces, actual enjoyment. |
+| `EDGE-0303` | `REVISES_BELIEF` | Peer enjoyment testimony in `EV-B0101-003` → Shirayuki's burden estimate in `EV-B0101-002`; no universal promise of availability. |
+| `EDGE-0304` | `ENABLES` | Reassurance plus Manon's invitation proposal → Shirayuki's shared-world and hometown invitation in `EV-B0101-003`; future execution unproved. |
+
+`T7S_B0101_CLOSE-20260925`: add three events, one open invitation thread and three chapter-local non-temporal dependencies. No world-state record or cross-chapter chronology edge.

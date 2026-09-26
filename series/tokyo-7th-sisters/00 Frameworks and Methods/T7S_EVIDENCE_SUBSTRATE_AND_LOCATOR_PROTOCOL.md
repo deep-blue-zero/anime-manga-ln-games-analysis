@@ -4,13 +4,13 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0100; exact coverage maintained as a manifest-bound logical ledger with two shards"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0101; exact coverage maintained as a manifest-bound logical ledger with two shards"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -140,7 +140,7 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 363 current-or-consumed records and 1,227 routed-or-unconsumed records after B0100, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 365 current-or-consumed records and 1,225 routed-or-unconsumed records after B0101, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
 
 Each shard's META record declares its own field defaults. Expand every record with only its shard-local explicit defaults before interpretation; unknown record types or fields are validation failures. Record identity is `(record_type, script_id)` for `SCENARIO` and `(record_type, tranche_id)` for `SUPPLEMENTAL_TRANCHE`. When a routed record is consumed, move it atomically to the current-or-consumed shard while preserving its complete effective state, `decision_history`, and current decision fields. The manifest binds shard bytes, file hashes, membership hashes, record counts, partition rule, and the pre/post effective-state hash proving the split was lossless. A set of IDs alone is not evidence of reading.
 
@@ -160,3 +160,5 @@ For future script packets, repeat those checks for each explicitly admitted memb
 - 2026-09-24 — V1 / 1.1: bind the coverage ledger as a manifest-governed, two-shard logical artifact after T7S_B0080–T7S_B0099; preserve all 1,590 effective records through a lossless partition and define atomic record migration for later consumption.
 
 - 2026-09-25 — V1 / 1.2: migrate both B0100 records with shard-local default expansion and complete history preservation; bind current effective state separately from the immutable original sharding proof.
+
+- 2026-09-25: migrate 2 complete T7S_B0101 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.

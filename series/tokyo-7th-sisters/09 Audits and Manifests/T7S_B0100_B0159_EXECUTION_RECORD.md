@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0100`.
-- Completed run blocks: **1/60**; completed run episodes: **2/174**.
-- Next: `T7S_B0101`, chapter `300730`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0101`.
+- Completed run blocks: **2/60**; completed run episodes: **4/174**.
+- Next: `T7S_B0102`, chapter `300740`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -37,7 +37,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | Block | Sub chapter | Character family | Native chapter | Exact episodes | State |
 | --- | --- | --- | --- | --- | --- |
 | `T7S_B0100` | `300720` | 夜舞サヲリ | ラン・サヲリ・ラン | `202003101 / 202003102` | CLOSED |
-| `T7S_B0101` | `300730` | 有栖シラユキ | シラユキ・イン・ワンダーランド | `202003201 / 202003202` | AUTHORIZED_UNREAD |
+| `T7S_B0101` | `300730` | 有栖シラユキ | シラユキ・イン・ワンダーランド | `202003201 / 202003202` | CLOSED |
 | `T7S_B0102` | `300740` | 越前ムラサキ | グッドナイト・パープル | `202003301 / 202003302` | AUTHORIZED_UNREAD |
 | `T7S_B0103` | `300750` | 玉坂マコト | ナイトメア・オン・セブンスストリート | `202003401 / 202003402` | AUTHORIZED_UNREAD |
 | `T7S_B0104` | `300760` | 桂木カヅミ | マイ・ノート、マイ・ラブ | `202003501 / 202003502` | AUTHORIZED_UNREAD |
@@ -110,3 +110,7 @@ Coverage migration expands the old routed META defaults before moving the two re
 Authorship stays within `series/tokyo-7th-sisters`: the sixty named readings, this execution record, the current map, portfolio index, three cumulative ledgers, source lock, topology, coverage manifest/two shards, and the locator protocol when physical coverage representation changes. Any additional sharding must declare exact successor paths and lossless transfer before staging. Housekeeping outputs, character registry, governance, source media and raw packets are not author paths. Every commit stages explicit filenames only.
 
 Preflight and structural checks certify only their covered mechanics; they do not replace primary-source reading. Before each next unit, verify the previous unit's commit, exact coverage, state IDs, updated routes and immutable entering/exit boundary. Before final publication, fetch both current main and source branch, preserve intervening work, merge current main normally, review the entire sixty-block candidate, repeat affected checks, immediately recheck heads, push without force, read back and follow the complete exact-head audit sequence. The current run is not a completed audit or integration-ready claim.
+
+## B0101 closeout receipt
+
+[T7S_B0101](../02%20Readings/T7S_B0101_DEEP_READING.md): Shirayuki discloses homesickness beneath requested Alice play; the group affirms reciprocal enjoyment, and remembered refuge becomes an invitation to a shared imaginative world and a still-unfulfilled hometown visit. All 102 pages, 95 text records and 7 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.3 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 76 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 2 records while preserving the other 1588 effective records. Current run: 2/60 blocks, 4/174 episodes; publication remains pending.

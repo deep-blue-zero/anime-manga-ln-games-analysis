@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.1"
+version: "11.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 42 complete i-n-g primary documents / T7S_B0080–T7S_B0100; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 44 complete i-n-g primary documents / T7S_B0080–T7S_B0101; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 90`; `character_states = 72`; `epistemic_states = 118`; `directional_relationship_states = 260`; `unit_states = 25`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0100, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 91`; `character_states = 73`; `epistemic_states = 120`; `directional_relationship_states = 264`; `unit_states = 25`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0101, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1587,3 +1587,37 @@ The following additions are current evidence for the named stable IDs, not repla
 | `REL-0260` | Harumi sisters → Saori | Kajika argues for waiting and checks injury; Shinju supports inclusion and reads the arrival as staging; Sawara celebrates increased liveliness. B:P1–7,23–46. Reciprocal `REL-0259`; their different responses are not collapsed into identical knowledge or effective safeguarding. |
 
 `T7S_B0100_CLOSE-20260925`: add two epistemic and two reciprocal directional states; annotate five existing character IDs and Nanasta. No new identity, character, unit or readiness record. No voice capability or monograph promotion; existing readiness horizons stay frozen.
+
+## B0101 chronology-qualified entity additions
+
+All additions use the exact A/B locator key in [B0101](../02%20Readings/T7S_B0101_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.3. Earlier Main/2043 states and readiness horizons remain unchanged.
+
+| ID / subject | Local identity or reported character state | Evidence and uncertainty |
+| --- | --- | --- |
+| `IDENTITY-0091` / `shirayuki-reported-elder-sister` | Unnamed older-sister figure whom Shirayuki calls her `ねえちゃん`, reportedly now abroad and formerly a reader of Alice picture books to her. | B:P25–26. High confidence in the attributed report, not independent identification; exact name, country, family structure and equivalence to any already known person remain unresolved. |
+| `CHAR-0073` / `shirayuki-reported-elder-sister` | **Reported past/current at B0101:** supplied remembered story-reading care and is said to live abroad. No independent speech, interior viewpoint or present response is available. | B:P25–26; `KNOW-0119`; `REL-0263`–`0264`. Do not infer a full parenting role, migration motive or continuing contact. |
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0052` / Shirayuki | Discloses homesickness and anxiety, revises an assumed burden after receiving enjoyment testimony, and imagines inviting others into a cherished story world and eventually her hometown. | A:P19–41; B:P16–56. Temporary reassurance is not a cure or total self-sufficiency; her family account is attributed. |
+| `CHAR-0053` / Manon | Names reciprocal participation after Shirayuki joined her own play and proposes hospitality within Shirayuki's imaginative world. | A:P20; B:P18,41–44. Local support precedes no automatically inferred later developmental state. |
+| `CHAR-0014` / Sui | Enjoys the White Knight role, reports familiarity from school plays, moderates conflict in front of Shirayuki and continues playful protection. | A:P24–30; B:P7–9,39,49. Chivalry is her self-description; no actual sword fight or new combat capacity. |
+| `CHAR-0009` / Hime | Lets ordinary tofu identity intrude into role, moderates conflict, refuses a maturity standard of solitary endurance and says the unfamiliar role was enjoyable. | A:P10–14,26–31; B:P31–40. Local acceptance does not prove unlimited future availability. |
+| `CHAR-0018` / Susu | Sleeps through much of the game and again over juice, with Player-directed dream speech interrupting the shared fiction. | A:P8,21,42; B:P14–15,51–53. No actual romantic encounter or clinical sleep explanation is established. |
+| `CHAR-0001` / Player | Joins as a manager's care gesture, initially undervalues the assigned card-soldier role, learns Shirayuki values it, supplies juice and promises help with her imaginative invitation. | A:P34–41; B:P10,27–28,35–36,48,54. His definition of idols' anxiety-relieving function is an attributed ideal, not universal world fact. |
+| `UNIT-0002` / Nanasta | Office hospitality receives the group's play and disclosure; Hime compares improvisation with the Nanasta stage. | B:P10–14,38–56. No new official unit, approved production, trip or standing care program. |
+| `REL-0171`–`0172` / Shirayuki and Manon | **Separate B0101 annotation:** Manon explicitly reciprocates earlier play companionship and helps formulate an invitation based on Shirayuki's own preference. | A:P20; B:P41–44. This does not overwrite the pair's separately narrated later Main tensions or imply a total chronology. |
+
+| ID | Epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0119` | The group learns Shirayuki's concealed coping motive and reported book-reading/family history through her disclosure after play. | B:P19–30. Earlier enjoyment was real but insufficient to infer the whole motive; family claims lack an independent witness. |
+| `KNOW-0120` | Shirayuki receives Hime/Manon's testimony that participation was enjoyable; the Player learns that the card soldiers he treated as minor are cherished by her. | A:P37–40; B:P28,37–48. No complete access to every participant's interiority or generalized audience outcome. |
+
+| ID | Direction | Added relation and counterpart |
+| --- | --- | --- |
+| `REL-0261` | Shirayuki → play companions | Requests play, objects to conflict, fears imposing on others, then discloses and offers a future shared-world/hometown invitation. A:P19–41; B:P16–56. Reciprocal `REL-0262`; future participation still requires actual agreement. |
+| `REL-0262` | Play companions → Shirayuki | Manon reciprocates, Sui invests in improvisation, Hime/Manon affirm enjoyment and the Player promises support; Susu's participation remains mostly sleep rather than identical attentive care. A:P19–42; B:P31–55. Reciprocal `REL-0261`; distinct motives and limits retained. |
+| `REL-0263` | Reported older sister → Shirayuki | In Shirayuki's account, reads beloved Alice picture books during their earlier shared life. B:P25–26. Reciprocal `REL-0264`; no direct access to the sister's motive or current feelings. |
+| `REL-0264` | Shirayuki → reported older sister | Remembers the narrated world with affection and uses it for imaginative coping; reports the sister's present residence abroad. B:P25–26. Reciprocal `REL-0263`; memory does not prove current contact or total family history. |
+
+`T7S_B0101_CLOSE-20260925`: one qualified identity and one reported character state; two epistemic states; four directional relations; annotations to six existing characters, Nanasta and the existing Manon/Shirayuki pair. No new unit/readiness decision or monograph promotion.
