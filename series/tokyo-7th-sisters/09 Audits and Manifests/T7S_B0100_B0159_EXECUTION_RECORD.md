@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.6"
+version: "1.7"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0106`.
-- Completed run blocks: **7/60**; completed run episodes: **15/174**.
-- Next: `T7S_B0107`, chapter `300790`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0107`.
+- Completed run blocks: **8/60**; completed run episodes: **18/174**.
+- Next: `T7S_B0108`, chapter `300800`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -43,7 +43,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0104` | `300760` | 桂木カヅミ | マイ・ノート、マイ・ラブ | `202003501 / 202003502` | CLOSED |
 | `T7S_B0105` | `300770` | シャオ・ヘイフォン | シャオ・ハイ・ヌーン | `202003601 / 202003602` | CLOSED |
 | `T7S_B0106` | `300780` | 春日部ハル | Tokyo-7th お掃除大作戦！ | `312200101 / 312200102 / 312200103` | CLOSED |
-| `T7S_B0107` | `300790` | 天堂寺ムスビ | ワン・ステップ・フォワード | `312200201 / 312200202 / 312200203` | AUTHORIZED_UNREAD |
+| `T7S_B0107` | `300790` | 天堂寺ムスビ | ワン・ステップ・フォワード | `312200201 / 312200202 / 312200203` | CLOSED |
 | `T7S_B0108` | `300800` | 角森ロナ | ウィッシュ・ユー・アー・ヒア | `312200301 / 312200302 / 312200303` | AUTHORIZED_UNREAD |
 | `T7S_B0109` | `300810` | 野ノ原ヒメ | きっと同じさ | `312200401 / 312200402 / 312200403` | AUTHORIZED_UNREAD |
 | `T7S_B0110` | `300820` | 芹沢モモカ | 完全密着！次世代アイドル・モモカ | `312200501 / 312200502 / 312200503` | AUTHORIZED_UNREAD |
@@ -134,3 +134,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0106 closeout receipt
 
 [T7S_B0106](../02%20Readings/T7S_B0106_DEEP_READING.md): Haru’s off-day cleanup moves from office to street to park; recognition first interrupts it, her invitation makes some visitors co-workers, and an unsupported live rumor is answered only after reported stage permission and specific performer assent. All 174 pages, 160 text records and 14 command-only pages are reviewed; 5 exact static composites were inspected. Source-lock 12.8 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 117 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 7/60 blocks, 15/174 episodes; publication remains pending.
+
+## B0107 closeout receipt
+
+[T7S_B0107](../02%20Readings/T7S_B0107_DEEP_READING.md): Musubi first refuses a national cooking/solo-PR contest, enters after a targeted yakisoba-bread appeal, loses, and later discloses uncertainty about victory and idol identity; the Player offers an open answer, while her next-day lesson request leaves the larger choice unresolved. All 256 pages, 240 text records and 16 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.9 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 150 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 8/60 blocks, 18/174 episodes; publication remains pending.

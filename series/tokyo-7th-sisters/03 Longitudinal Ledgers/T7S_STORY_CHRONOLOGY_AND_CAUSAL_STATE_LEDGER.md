@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.7"
+version: "11.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 55 complete i-n-g primary documents / T7S_B0080–T7S_B0106; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 58 complete i-n-g primary documents / T7S_B0080–T7S_B0107; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 362`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 323`; `last_closed_block = T7S_B0106`. The admitted horizon contains 290 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 55 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 367`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 330`; `last_closed_block = T7S_B0107`. The admitted horizon contains 293 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 58 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -965,3 +965,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.8. [B0106](../02%20Readings/T
 | `EDGE-0323` | `RUMOR_CREATES_EXPECTATION` | Unplanned live rumor in `EV-B0106-003` → Coney's reported permission and specific performer decision in `EV-B0106-004`; later performance does not make the earlier event an actual campaign. |
 
 `T7S_B0106_CLOSE-20260925`: four chapter events and four chapter-local dependency edges; existing `THREAD-0004` advanced without a new thread, world state or cross-chapter chronology edge.
+
+## B0107 Musubi consent, craft and uncertain self addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.9. [B0107](../02%20Readings/T7S_B0107_DEEP_READING.md) owns the A/B/C locator key. Musubi and Rona explicitly recall B0003 and B0004 scenes, creating only the two bounded earlier-to-here edges below. Chapter-menu order does not establish a total chronology among i-n-g cases.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0107-001` | Nanasta selects Musubi for national `Vi☆少女☆DEキッチン` in her absence. She refuses solo PR and revealing/costume demands; Haru and Coney then invoke her yakisoba-bread preference and speculative commercial, and Musubi decides to enter while framing it as professionalism. | A:P0–66; `KNOW-0138`–`0139`; `REL-0291`–`0294`; `THREAD-0005`. Later participation does not erase the first refusal or grant costume consent; Coney has no actual commercial offer. |
+| `EV-B0107-002` | Musubi experiments with bread construction and defends affordable, portable yakisoba bread against Coney's novelty proposal. Peers praise test breads; she says serious effort is all she can do. | B:P1–31; `KNOW-0139`; `CHAR-0006`. Dialogue does not certify winning taste or measured technical quality. |
+| `EV-B0107-003` | The televised contest is mostly elided; the Player states Musubi did not win and is shocked that she did not look upset. | B:P32–50; `KNOW-0140`. No judge rationale, ranking, earned solo PR, audible/visible act or inner indifference is evidenced. |
+| `EV-B0107-004` | Rona alerts the Player to Musubi's late training. At eleven at night he finds her outside, falls while running in office slippers, criticizes the dark/hour with an initial gender frame and takes her menu; she reports training since noon and asks what she should have done to win, then questions whether she wanted victory. | C:P1–66; `KNOW-0141`; `REL-0291`–`0292`, `0297`–`0298`; `THREAD-0005`. No full exertion duration, medical diagnosis, deliberate self-harm or proof her site was safe. |
+| `EV-B0107-005` | Musubi recalls the cultivated expected self and says the “true” self Haru helped reveal remains unknown, including whether she wants idol work. The Player asks for her account and allows that its answer may be leaving idol work. She chooses dorm rest and requests next-day lessons. Rona recalls her own Haru/Player talk and infers Musubi was glad. | C:P68–136; `KNOW-0141`–`0142`; `REL-0291`–`0292`, `0295`–`0298`; `THREAD-0005`. No fixed true self, formal exit procedure, final career choice or direct Musubi statement of happiness. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0005` | Musubi's protected plurality/choice and overfunctioning remain `OPEN`. B0107 adds preselection after refusal, food-preference leverage, serious practice, contest loss, late training and an explicit uncertainty about wanting idol work. The Player verbally permits different answers, including exit; Musubi chooses rest plus next-day lessons. No lasting workload, costume, participation or privacy safeguard has been instituted. A:P0–66; B:P1–50; C:P1–136. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0324` | `CONSENT_CONSTRAINT` | Group preselection and Musubi's refusal in `EV-B0107-001` → the later targeted bread appeal and participation decision. The decision is real but not retroactive permission for earlier pressure. |
+| `EDGE-0325` | `ENABLES_CRAFT` | Musubi's entry in `EV-B0107-001` → serious recipe testing in `EV-B0107-002`; practical investment does not guarantee winning or validate Coney's promised commercial. |
+| `EDGE-0326` | `EPISTEMIC_ASYMMETRY` | Loss and calm appearance in `EV-B0107-003` → the Player's shock, later qualified by Musubi's uncertain desire in `EV-B0107-004`–`005`. An untroubled face is not inner indifference. |
+| `EDGE-0327` | `MOTIVATES_DISCLOSURE` | Rona's warning and the late-training confrontation in `EV-B0107-004` → Musubi's account of expected identity in `EV-B0107-005`; safety concern and a seized menu are not themselves a cure. |
+| `EDGE-0328` | `ENABLES_BOUNDED_CHOICE` | The Player's invitation to an open answer in `EV-B0107-005` → Musubi's dorm/next-day-lesson choice. This is one local response, not a permanent identity or exit policy. |
+| `EDGE-0329` | `EXPLICIT_RECOLLECTION_ANCHOR` | Musubi's C:P69–72 report of meeting Haru and discovering a possible other self places the remembered B0003 formation events before `EV-B0107-005`. It does not order B0107 against unrelated i-n-g chapters. |
+| `EDGE-0330` | `EXPLICIT_RECOLLECTION_ANCHOR` | Rona's C:P123–128 recall of Haru's idol question and the Player emerging from hiding places B0004's person-first conversation before `EV-B0107-005`. Rona's happiness inference about Musubi remains unconfirmed. |
+
+`T7S_B0107_CLOSE-20260925`: five chapter events, seven bounded edges including two explicit recollection anchors; existing `THREAD-0005` advanced without a new thread, world state or total i-n-g chronology.

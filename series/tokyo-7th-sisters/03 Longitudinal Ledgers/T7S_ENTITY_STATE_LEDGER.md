@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.7"
+version: "11.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 55 complete i-n-g primary documents / T7S_B0080–T7S_B0106; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 58 complete i-n-g primary documents / T7S_B0080–T7S_B0107; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 137`; `directional_relationship_states = 290`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0106, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 142`; `directional_relationship_states = 298`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0107, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1788,3 +1788,38 @@ The [B0106](../02%20Readings/T7S_B0106_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0290` | Haru → Coney, **specific acceptance** | Accepts the group's decision and publicly announces the live after Coney's request. C:P50–63. Reciprocal `REL-0289`; no future on-demand live obligation. |
 
 `T7S_B0106_CLOSE-20260925`: four actor-local knowledge states, three directional relationship pairs and existing-actor/unit annotations. No new identity, character, unit, readiness or monograph record.
+
+## B0107 Musubi actor-local consent and uncertainty
+
+The [B0107](../02%20Readings/T7S_B0107_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.9, binds these updates. Existing Musubi `IDENTITY-0006`/`CHAR-0006`, Player `CHAR-0001`, Coney `CHAR-0003`, Haru `CHAR-0004`, Sumire `CHAR-0013`, Rona `CHAR-0008` and Nanasta `UNIT-0002` suffice. B0003/B0004 are explicit memories by current actors, not globally dated menu neighbors.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0006` / Musubi | Refuses a national solo/revealing-costume variety appearance, later enters when her yakisoba-bread love is appealed to; crafts seriously but loses. Late training reveals not simple disappointment but uncertainty about wanting victory or idol work at all. She ends the unsafe evening and asks for lessons tomorrow. | A:P6–65; B:P1–50; C:P15–119. No false-first-refusal, fixed real self, mental-health diagnosis, permanent exit or durable safety repair. |
+| `CHAR-0001` / Player | Helps preselect Musubi, values publicity, then mistakes her calm after loss for lack of hurt; at night notices safety risk but initially frames it as gender, takes her menu, then invites a personal answer that may include leaving idol work. | A:P0–21,31–33,55,65; B:P40–49; C:P1–119. Later listening does not erase earlier pressure or create a formal right-to-exit procedure. |
+| `CHAR-0003` / Coney | Announces a preselected Musubi, proposes a bread-girl costume and speculative bread commercial after refusal, later suggests recipe spectacle. | A:P4–26,42–47,64; B:P12–19,31. The commercial is not an offer; prior B0003 boundary injury makes the tactic consequential, not proof of identical costume reuse. |
+| `CHAR-0004` / Haru | Supports Musubi's selection and raises the yakisoba-bread theme after refusal; later notices her silent work at the show. Her earlier B0003 friendship/help is recalled by Musubi. | A:P1,27,43–45,54; B:P21,37; C:P69–72. Affection does not authorize every publicity or costume demand. |
+| `CHAR-0013` / Sumire | Offers to enter instead, hears Musubi refuse, says Musubi is already “fine,” and later praises her lively discussion of a loved food. Musubi takes the earlier remark as evidence she has nothing distinctive to prove. | A:P2,37–39,49,61–62; B:P2,22–23; C:P78–82. Sumire's intent and Musubi's painful uptake are distinct; no deliberate belittling is established. |
+| `CHAR-0008` / Rona | Praises Musubi's test food, alerts the Player to late training, then analogizes his person-first question to Haru's earlier aid to her and infers Musubi felt glad. | B:P1,26; C:P6–12,120–135. Her inference is not direct access to Musubi's emotion; she does not supply a final answer. |
+| `UNIT-0002` / Nanasta | Group preselection and publicity desire expose consent/costume gaps; later the Player states an exit-possible person-first ethic while one idol's overlong private practice remains visible. | A:P0–66; C:P15–119. No actual contest success, standing participation/costume/training safeguards, night accompaniment rule or formal exit policy. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0138` | Musubi knows the program asks for cooking, national exposure and winner PR, and says she does not want solo promotion or revealing dress. The group selected her before she arrived. | A:P0–36. Her later agreement does not make these first objections untrue or grant consent to a particular outfit. |
+| `KNOW-0139` | Musubi knows her own preferences and craft criteria for cheap, one-handed yakisoba bread; Coney predicts possible commercial work. | A:P43–60; B:P1–25. Bread affection is real, but no commercial offer, food-quality adjudication or proof that seriousness is her only possible gift. |
+| `KNOW-0140` | The Player knows Musubi did not win and sees no obvious frustration, but wrongly treats appearance as sufficient access to the significance of the loss for her. | B:P34–50; C:P4–5,54–60. No judge rationale, ranking or intrinsic indifference is known. |
+| `KNOW-0141` | Musubi says she has trained since noon, does not know whether she wanted to win, recalls cultivating others' expected self and admits uncertainty about her desired idol future; the Player learns this by listening. | C:P15–100. Actual breaks/exertion, fixed inner essence and future choice remain unknown. |
+| `KNOW-0142` | Rona remembers the earlier B0004 Haru/Player conversation and believes Musubi likely welcomed a similar person-first address; the Player hears her analogy. | C:P120–136. Rona's conclusion about Musubi's emotion is an inference, not Musubi's own statement. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0291` | Player → Musubi, **pressure then listening** | Supports preselection/publicity, misreads calm, worries about unsafe training, takes menu, then asks for her account and permits an answer beyond idol work. A:P0–33; B:P44–49; C:P16–119. Reciprocal `REL-0292`; listening does not erase pressure or implement safeguards. |
+| `REL-0292` | Musubi → Player, **refusal and bounded disclosure** | Refuses the contest, later chooses entry, challenges his gender frame, discloses uncertainty and asks for next-day lessons after choosing dorm rest. A:P15–60; C:P17–119. Reciprocal `REL-0291`; no permanent career verdict or direct happiness declaration. |
+| `REL-0293` | Coney → Musubi, **preselection and preference leverage** | Names her before asking, responds to costume fear with bread theme and floats an unoffered commercial; later urges more spectacular food. A:P4–26,43–47; B:P12–19. Reciprocal `REL-0294`; no permission to reuse B0003 boundary violations. |
+| `REL-0294` | Musubi → Coney, **specific refusal and craft counterclaim** | Rejects her initial offer/costume, later enters on the food theme and defends ordinary bread against Coney's novelty proposal. A:P15–60; B:P15–20. Reciprocal `REL-0293`; participation is not blanket consent. |
+| `REL-0295` | Sumire → Musubi, **competence assumption and admiration** | Says Musubi need not force herself into this event because she is “fine,” then notices vitality when she speaks about favorite food. A:P37–39; B:P22–23. Reciprocal `REL-0296`; no deliberate injury established. |
+| `REL-0296` | Musubi → Sumire, **painful uptake** | Hears “fine” as neglect of her unresolved self and later names it among reasons she feels behind peers. A:P39–41; C:P76–82. Reciprocal `REL-0295`; her reception is real without proving Sumire meant that message. |
+| `REL-0297` | Rona → Musubi, **noticed risk and analogical support** | Alerts the Player to late training and later hopes Musubi experienced his listening as care. C:P6–12,120–135. Reciprocal `REL-0298`; inferred happiness remains unconfirmed. |
+| `REL-0298` | Musubi → Rona, **limited observed side** | Shares test bread, later trains where Rona notices; Musubi does not directly narrate her post-conversation feelings to Rona. B:P1; C:P6–15,120–136. Reciprocal `REL-0297`; no new confession or stable mutual support contract. |
+
+`T7S_B0107_CLOSE-20260925`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.

@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.7"
+version: "11.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 55 complete i-n-g primary documents / T7S_B0080–T7S_B0106; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 58 complete i-n-g primary documents / T7S_B0080–T7S_B0107; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 515`; `revisions = 42`; `predictions = 7`; `AV_reviews = 53`; `literary_findings = 515`. Claims are bounded to their stated B0001 through B0106 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 27 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 519`; `revisions = 42`; `predictions = 7`; `AV_reviews = 54`; `literary_findings = 519`. Claims are bounded to their stated B0001 through B0107 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 28 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1320,3 +1320,26 @@ Owner and A/B/C locator key: [B0106](../02%20Readings/T7S_B0106_DEEP_READING.md)
 - Outcome: `REVIEWED` for five selected stills and all native page-state segmentation. One hundred seventeen dialogue-associated voice pages plus title cues, all BGM/SFX and the elided live remain unauditioned; performed quality, actual crowd timing and full permit status are `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0106_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, specialist or monograph promotion.
+
+## B0107 consent, self-authorship and static review
+
+Owner and A/B/C locator key: [B0107](../02%20Readings/T7S_B0107_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.9. B0003/B0004 are explicitly recalled and bounded by `EDGE-0329`–`0330`; no total chronology among i-n-g chapters.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0107-001` | `BOUNDED_INFERENCE`; D1; high | Musubi's later participation in a bread-themed contest is a real decision under a targeted preference appeal; it does not falsify her first refusal of solo exposure and costume demands or authorize repeating B0003's old leverage. | A:P0–66; `REL-0291`–`0294`; B0003. Genuine food interest and serious work coexist with the consent cost; Coney's future commercial is speculative. |
+| `CL-B0107-002` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Musubi's defense of cheap, handheld bread shows a serious craft criterion that resists spectacle without proving an objectively winning recipe or directly decoding her hidden identity. | B:P1–31; `KNOW-0139`. Peer praise is local, judge criteria unavailable; recipe/identity analogy is suggestive, not autobiographical evidence. |
+| `CL-B0107-003` | `BOUNDED_INFERENCE`; D1; high for actor error, moderate for motive | The Player's shock at Musubi's calm confuses display with desire; her later uncertainty about wanting victory or idol work shows why praise or disappointment could not settle the issue. | B:P44–50; C:P15–84; `KNOW-0140`–`0141`. Late training is concerning but not a diagnosis or measured full-day exertion; the gendered safety frame misses part of her claim. |
+| `CL-B0107-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The Player's person-first invitation makes leaving idol work verbally thinkable while Musubi's dorm/lesson choice keeps an unfinished answer live; Rona's B0004 analogy is her hope, not confirmation Musubi was happy. | C:P55–136; `THREAD-0005`; `KNOW-0142`. No fixed true self, completed career decision, formal exit/safety procedure or erasure of earlier management pressure. |
+
+### AV-0054 — television ellipsis and night-training presentation
+
+- Questions/claims: whether stills prove a specific required costume, performed contest quality, loss emotion, exercise duration or bodily harm; `CL-B0107-001`–`004`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for narrator/actor knowledge and consent claims.
+- Selection: Musubi `adv_chara_004_01_01`, `adv_chara_004_05_22`, `adv_chara_004_06_05`, `adv_chara_004_06_09`; Rona `adv_chara_005_01_04`; Sumire `adv_chara_008_01_11`; Coney `adv_chara_002_07_02`. All 256 native pages and sixteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.9 binds seven media receipts.
+- Observed: selected Musubi stills retain long blue-black hair across school clothing, a yellow bread-themed garment and blue training clothes. Expressions include stern/concerned appearances but cannot certify her contest emotion. The selected Rona, Sumire and Coney sprites establish distinct presented figures, not unseen replies or performed qualities.
+- Native occurrence: command-only A:P10–11,36,57,63,66; B:P0,32,43,50; C:P0,14,23,67,119,137. B:P43 moves to `bg_040.jpg.enc` for the TV result, B:P50 places yellow-garment Musubi against black; C shifts `bg_068.jpg.enc` → `bg_078.jpg.enc` with red flash/SFX around the Player's slip. These fields neither supply complete show footage nor quantify training time, fall injury or emotional recovery.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred fifty dialogue-associated voice pages plus title cues, BGM/SFX and any performed/televised act remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0107_CLOSE-20260925`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, diagnosis, specialist or monograph promotion.
