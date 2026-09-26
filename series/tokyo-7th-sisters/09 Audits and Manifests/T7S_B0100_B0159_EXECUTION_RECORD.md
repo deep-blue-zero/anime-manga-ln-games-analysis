@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.35"
+version: "1.36"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0135`.
-- Completed run blocks: **36/60**; completed run episodes: **102/174**.
-- Next: `T7S_B0136`, chapter `301080`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0136`.
+- Completed run blocks: **37/60**; completed run episodes: **105/174**.
+- Next: `T7S_B0137`, chapter `301090`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -72,7 +72,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0133` | `301050` | ターシャ・ロマノフスキー | 迷走！憧れのジェーンシチナ | `312202801 / 312202802 / 312202803` | CLOSED |
 | `T7S_B0134` | `301060` | 川澄シサラ | スマイル・フォー・ユー | `312202901 / 312202902 / 312202903` | CLOSED |
 | `T7S_B0135` | `301070` | ジェダ・ダイヤモンド | ダンス・オン・ザ・ムーン | `312203001 / 312203002 / 312203003` | CLOSED |
-| `T7S_B0136` | `301080` | 三森マツリ | 作戦名『山猫はもうぐっすり』 | `312203101 / 312203102 / 312203103` | AUTHORIZED_UNREAD |
+| `T7S_B0136` | `301080` | 三森マツリ | 作戦名『山猫はもうぐっすり』 | `312203101 / 312203102 / 312203103` | CLOSED |
 | `T7S_B0137` | `301090` | 前園リシュリ | ここはまだ道の途中 | `312203201 / 312203202 / 312203203` | AUTHORIZED_UNREAD |
 | `T7S_B0138` | `301100` | 夜舞サヲリ | 笑顔の壁 | `312203301 / 312203302 / 312203303` | AUTHORIZED_UNREAD |
 | `T7S_B0139` | `301110` | 有栖シラユキ | シラユキとザシキワラシ | `312203401 / 312203402 / 312203403` | AUTHORIZED_UNREAD |
@@ -250,3 +250,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0135 closeout receipt
 
 [T7S_B0135](../02%20Readings/T7S_B0135_DEEP_READING.md): Jedah accepts a bon-dance lead, withdraws after Hime's unstable rhythm teaching and her own repeated difficulty, then resumes practice through younger peers' embodied cues and Hime's yukata gift; the public event and promised Holocon recording remain unwitnessed. All 163 pages, 146 text records and 17 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.37 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 116 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 36/60 blocks, 102/174 episodes; publication remains pending.
+
+## B0136 closeout receipt
+
+[T7S_B0136](../02%20Readings/T7S_B0136_DEEP_READING.md): Matsuri's sense of being watched is borne out by Yumeno's admission of commercial-triggered pursuit, while Momoka's conspiracy remains unsupported; their mall game-role play scares Rona, and the ending supplies no clear boundary or remedy for the ongoing following. All 185 pages, 154 text records and 31 command-only pages are reviewed; 8 exact static composites were inspected. Source-lock 12.38 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 122 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 37/60 blocks, 105/174 episodes; publication remains pending.

@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.36"
+version: "11.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 142 complete i-n-g primary documents / T7S_B0080–T7S_B0135; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 145 complete i-n-g primary documents / T7S_B0080–T7S_B0136; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 518`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 543`; `last_closed_block = T7S_B0135`. The admitted horizon contains 377 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 142 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 525`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 553`; `last_closed_block = T7S_B0136`. The admitted horizon contains 380 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 145 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1750,3 +1750,32 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.37. [B0135](../02%20Readings/
 | `EDGE-0550` | `PRE_EVENT_PROMISE_WITHOUT_RECORDING` | Group departure/Holocon promise in `EV-B0135-006` stops before show or actual footage. |
 
 `T7S_B0135_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, completed festival show, universal rhythm rule or actual recording.
+
+## B0136 a real watcher within an imagined organization mission
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.38. [B0136](../02%20Readings/T7S_B0136_DEEP_READING.md) owns the A/B/C locator key. B0093/B0131/B0132 and B0098/B0133 are bounded comparison horizons, not total fictional order. Game-organization terms are character constructions; Yumeno's following is a different, observed issue.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0136-001` | Matsuri reports feeling watched; Player/Coney worry, Musubi raises stalking possibility, Momoka introduces secret-organization game theory. | A:P2–37; `KNOW-0294`; `REL-0507`–`0512`. Watcher still unidentified; no legal conclusion. |
+| `EV-B0136-002` | Matsuri joins Momoka's agent mission at mall; others follow with mixed concern/play, while a hidden voice/figure is staged. | A:P38–75; B:P1–14; `KNOW-0295`. No actual organization or acquired weapon shown. |
+| `EV-B0136-003` | Momoka/Matsuri intimidate Rona during VivaDo sampling; Momoka apologizes, but they continue the mission. | B:P15–29; `KNOW-0296`. Rona reports fear; no contact or weapon use shown. |
+| `EV-B0136-004` | Ayumu describes possibly ordinary customers; Player suggests event-goers, then glimpses someone watching. | B:P30–52; `KNOW-0297`. Bags/camouflage/cameras do not prove conspiracy. |
+| `EV-B0136-005` | Matsuri senses someone at arcade, catches a figure recognized as Yumeno, who says she wanted to watch Matsuri. | C:P1–27; `KNOW-0298`. Supports original unease, not another organization. |
+| `EV-B0136-006` | Yumeno cites Matsuri's cosmetics commercial as attraction trigger; Musubi summarizes following, while Matsuri expresses discomfort. | C:P26–43; `KNOW-0299`. No permission, romantic reciprocity or boundary agreement shown. |
+| `EV-B0136-007` | Matsuri/Momoka reject Yumeno as whole explanation, continue conspiracy mission, and Yumeno runs after them. | C:P36–55; `KNOW-0300`. No independently verified second watcher or safeguarding/remedy outcome. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0551` | `UNEASE_TO_REASONABLE_INITIAL_CONCERN` | Matsuri's report in `EV-B0136-001` prompts Player/Coney concern without yet proving identity. |
+| `EDGE-0552` | `GAME_FRAME_TO_ORGANIZATION_BELIEF` | Momoka's sneaking-game theory moves Matsuri into `EV-B0136-002`; not corroborated by real evidence. |
+| `EDGE-0553` | `BELIEF_TO_MALL_ROLE_PLAY` | Agent mission produces surveillance/interrogation behavior in `EV-B0136-002`–`004`, not real law-enforcement authority. |
+| `EDGE-0554` | `ROLE_PLAY_TO_RONA_FEAR` | Mall interrogation in `EV-B0136-003` frightens Rona; apology is local and mission continues. |
+| `EDGE-0555` | `AMBIGUOUS_CUSTOMERS_TO_FALSE_CLUE` | Ayumu's description in `EV-B0136-004` is read conspiratorially despite Player's event-customer alternative. |
+| `EDGE-0556` | `INDEPENDENT_GAZE_TO_CONCEALED_FIGURE` | Player's glimpse in `EV-B0136-004` plus Matsuri's fear in `005` lead to one caught watcher. |
+| `EDGE-0557` | `COMMERCIAL_ATTRACTION_TO_UNINVITED_FOLLOWING` | Yumeno's account in `EV-B0136-006` explains pursuit, not Matsuri's consent. |
+| `EDGE-0558` | `WATCHER_REVEAL_WITHOUT_CONSPIRACY` | Yumeno's identification in `EV-B0136-005`–`006` supports the gaze but not the organization. |
+| `EDGE-0559` | `COUNTEREVIDENCE_TO_BELIEF_REFUSAL` | Matsuri/Momoka in `EV-B0136-007` preserve theory by calling Yumeno a cover; no second source. |
+| `EDGE-0560` | `FOLLOWING_CONTINUES_WITHOUT_BOUNDARY` | Yumeno runs after them in `EV-B0136-007`; no non-following agreement or protective response is shown. |
+
+`T7S_B0136_CLOSE-20260926`: seven chapter events and ten bounded edges; no new world, thread, verified organization, real weapon, legal stalking finding or completed safety response.

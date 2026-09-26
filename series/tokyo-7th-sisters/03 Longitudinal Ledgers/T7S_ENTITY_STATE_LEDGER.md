@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.36"
+version: "11.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 142 complete i-n-g primary documents / T7S_B0080–T7S_B0135; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 145 complete i-n-g primary documents / T7S_B0080–T7S_B0136; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 293`; `directional_relationship_states = 506`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0135, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 300`; `directional_relationship_states = 512`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0136, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2800,3 +2800,41 @@ The [B0135](../02%20Readings/T7S_B0135_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0506` | Jedah → Shirayuki, **receptive mentor/learner** | Hears encouragement and laughs at/asks for more of the demonstration. C:P34–48. Reciprocal `REL-0505`; performance unshown. |
 
 `T7S_B0135_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no sister-response, legal family state, actual video or public bon-dance result.
+
+## B0136 Matsuri's observer, Momoka's frame and affected workers
+
+The [B0136](../02%20Readings/T7S_B0136_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.38, binds these updates. Existing Matsuri `IDENTITY-0088`/`CHAR-0071`, Momoka `IDENTITY-0015`/`CHAR-0012`, Yumeno `IDENTITY-0087`/`CHAR-0069`, Rona `CHAR-0008`, Ayumu `IDENTITY-0036`/`CHAR-0031`, Coney `CHAR-0003`, Player `CHAR-0001`, Haru `CHAR-0004`, Musubi `CHAR-0006` and Nanasta `UNIT-0002` suffice. No real organization or second watcher identity is added.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0071` / Matsuri | Reports unsettling gaze, initially downplays threat, embraces Momoka's game theory, scares Rona while investigating, catches Yumeno, then rejects her as the whole explanation. | A:P2–75; B:P1–52; C:P1–55. Her unease is supported; conspiracy and later safety are not. |
+| `CHAR-0012` / Momoka | Uses sneaking-game language to posit organization, leads mall role-play and frightens Rona, apologizes to her, then rejects Yumeno explanation. | A:P23–75; B:P1–52; C:P1–55. Costume/prop art and game talk do not establish real weapons or authority. |
+| `CHAR-0069` / Yumeno | Conceals herself while observing Matsuri, admits cosmetics-commercial-driven fixation, describes desired repeated viewing and follows again at exit. | A:P73–75; B:P48–52; C:P17–55. No permission or romantic reciprocity; no physical assault/legal classification established. |
+| `CHAR-0008` / Rona | Offers VivaDo samples, is startled and frightened by the duo's interrogation, receives Momoka's apology and Player/Haru's later check. | B:P15–29. Her fear is direct; no physical injury or complete remedy shown. |
+| `CHAR-0031` / Ayumu | Offers maid-café flyers, recognizes the duo and supplies an ambiguous customer observation. | B:P33–45. Her account is not corroboration of a secret group. |
+| `CHAR-0003` / Coney | Initially offers protection and later enthusiastically joins agent language and conspiracy exclamations. | A:P5–30,65–69; B:P49; C:P41. No actual security response documented. |
+| `CHAR-0001` / Player | Warns against waiting for harm, follows mission to prevent trouble, checks Rona, sees an unknown watcher and later regards Yumeno as likely gaze source. | A:P20–75; B:P9–52; C:P1–53. No verified second observer or durable boundary plan. |
+| `CHAR-0004` / Haru | Identifies game influence, follows group, apologizes to Rona and sees Matsuri's genuine fear before recognizing Yumeno. | A:P3–75; B:P25–28; C:P7–36. Her quick `case closed` does not enact a remedy. |
+| `CHAR-0006` / Musubi | Names possible stalking, objects to game theory and threatens to stop disruptive behavior, then summarizes Yumeno's pursuit and tires of the mission. | A:P15–69; B:P9–45; C:P5–53. Concern does not prevent Rona's initial scare. |
+| `UNIT-0002` / Nanasta | Members attempt an improvised search after a reported gaze but become split between practical concern and fictional game operation. | A:P2–75; B:P1–52; C:P1–55. No sanctioned security team, verified enemy group or full safeguarding response. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0294` | Matsuri perceives gaze; Player/Coney/Musubi consider actual risk; Momoka posits conspiracy and Haru/Musubi know game influence. | A:P2–37. Observer identity and risk extent unknown at first. |
+| `KNOW-0295` | Matsuri/Momoka treat mall as enemy site; Player/Musubi know the role-play might trouble bystanders; concealed voice/figure not yet identified. | A:P38–75; B:P1–14. No organization/weapon acquisition corroboration. |
+| `KNOW-0296` | Rona experiences fear and says store manager assigned the doughnuts; Momoka apologizes and Player/Haru check after duo leaves. | B:P15–29. Not a proof of danger from doughnuts or a full remedy. |
+| `KNOW-0297` | Ayumu reports printed bags/camouflage/cameras, Player offers event-goer explanation and thinks he sees a watcher. | B:P30–52. Customer motive and watcher identity still unresolved there. |
+| `KNOW-0298` | Matsuri senses nearby gaze and catches the figure; Player/Haru recognize Yumeno, who wanted to see Matsuri. | C:P1–27. No independent second pursuer shown. |
+| `KNOW-0299` | Yumeno discloses attraction after cosmetics CM and repeated observation; Musubi states she followed Matsuri, who voices discomfort. | C:P26–43. No permission, romance or legal determination. |
+| `KNOW-0300` | Player believes Yumeno explains gaze; Matsuri/Momoka reject it and continue game search; Yumeno pursues them. | C:P36–55. Their belief does not create organization evidence or boundary resolution. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0507` | Yumeno → Matsuri, **uninvited observation/fixation** | Watches after cosmetics CM, admits wanting more and pursues at exit. A:P73–75; B:P48–52; C:P17–55. Reciprocal `REL-0508`; no consent or mutual attraction. |
+| `REL-0508` | Matsuri → Yumeno, **unsettled object of attention** | Senses gaze, catches Yumeno but refuses to accept her as whole cause and calls stare sticky. A:P2–21; C:P10–47. Reciprocal `REL-0507` records opposite direction, not mutual romance. |
+| `REL-0509` | Momoka → Matsuri, **game-theory recruitment/validation** | Recasts fear as conspiracy and sustains agent mission despite reveal. A:P23–55; C:P37–48. Reciprocal `REL-0510`; no real organization. |
+| `REL-0510` | Matsuri → Momoka, **co-authored mission** | Accepts agent role and continues after counterevidence. A:P38–55; B:P1–24; C:P39–48. Reciprocal `REL-0509`; no security authority. |
+| `REL-0511` | Momoka → Rona, **intimidating interrogation then apology** | Says not to move, presses suspicious-doughnut theory with Matsuri and apologizes for fear. B:P15–24. Reciprocal `REL-0512`; no physical weapon use or full remediation. |
+| `REL-0512` | Rona → Momoka, **fear at unwanted approach** | Is startled, answers store-manager question and later tells Player she was scared. B:P15–29. Reciprocal `REL-0511`; no consent to the game. |
+
+`T7S_B0136_CLOSE-20260926`: seven actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no legal finding, secret organization, actual weapon or consent/boundary clearance.

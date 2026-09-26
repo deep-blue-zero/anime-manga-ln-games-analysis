@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.36"
+version: "11.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 142 complete i-n-g primary documents / T7S_B0080–T7S_B0135; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 145 complete i-n-g primary documents / T7S_B0080–T7S_B0136; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 633`; `revisions = 42`; `predictions = 7`; `AV_reviews = 82`; `literary_findings = 633`. Claims are bounded to their stated B0001 through B0135 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 56 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 637`; `revisions = 42`; `predictions = 7`; `AV_reviews = 83`; `literary_findings = 637`. Claims are bounded to their stated B0001 through B0136 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 57 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1989,3 +1989,26 @@ Owner and A/B/C locator key: [B0135](../02%20Readings/T7S_B0135_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred sixteen dialogue-associated voice pages plus title cues, BGM/SFX and actual dance music/timing remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0135_CLOSE-20260926`: four bounded claims and one AV review; no universal nationality/rhythm finding, accomplished public stage, video, specialist or monograph promotion.
+
+## B0136 true gaze, false frame and unremedied boundary
+
+Owner and A/B/C locator key: [B0136](../02%20Readings/T7S_B0136_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.38. B0093/B0131/B0132 and B0098/B0133 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0136-001` | `BOUNDED_INFERENCE`; D1; high | Matsuri's perception of a watcher is supported by independent glimpse/capture and Yumeno's admission, while Momoka's secret-organization explanation has no such evidence. | A:P2–55,70–75; B:P46–52; C:P10–43. No second source or legal finding. |
+| `CL-B0136-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The game frame creates a real cost to Rona and uses Ayumu's ordinary observation as a false clue; Momoka's local apology does not stop the mission or erase Rona's fear. | A:P38–75; B:P1–52. No injury or actual weapon use inferred. |
+| `CL-B0136-003` | `BOUNDED_INFERENCE`; D1; high for limit | Yumeno's attraction after an ad explains uninvited following but does not supply Matsuri's consent, romance or a non-following agreement. | C:P17–55. Not a criminal-law conclusion or physical assault claim. |
+| `CL-B0136-004` | `BOUNDED_INFERENCE`; D1; high for limit | Matsuri/Momoka preserve the unsupported belief by treating Yumeno as a cover; comic continuation coincides with Yumeno continuing to follow and no clear protective closure. | C:P26–55. No independently verified organization. |
+
+### AV-0083 — agent role-play and watcher-reveal sprites
+
+- Questions/claims: whether visual states prove real weapons, a secret group, Yumeno's disguise, consent or actual bystander harm beyond dialogue; `CL-B0136-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed voice, real weapon/organization and long-term safety restrictions.
+- Selection: Matsuri `adv_chara_138_01_04`, `138_02_02`; Momoka `007_07_01`; Yumeno silhouette `133_03_01`, identified `133_01_02`; Rona `005_02_01`; Ayumu `122_03_01`; Musubi `004_01_10`. All 185 native pages and 31 command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.38 binds eight media receipts.
+- Observed: Matsuri/Momoka have camouflage and gun-like accessories in agent art, while the watcher first appears as a black silhouette and later as Yumeno. Static role-play art does not verify acquired real weapons, an organization or a separate silhouetted subject. Rona/Ayumu visuals identify the affected mall workers, not their complete encounter.
+- Native occurrence: command-only A:P0–1,9–12,57–59,70,72,74–75; B:P0,8,12–14,24,30–32,52; C:P0,4,24–25,49,51,54–55. Black slide/costume and reveal states organize imagined mission and watcher suspense.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred twenty-two dialogue-associated voice pages plus title cues, BGM/SFX and performed delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0136_CLOSE-20260926`: four bounded claims and one AV review; no legal stalking determination, actual weapon/organization, consent clearance, specialist or monograph promotion.

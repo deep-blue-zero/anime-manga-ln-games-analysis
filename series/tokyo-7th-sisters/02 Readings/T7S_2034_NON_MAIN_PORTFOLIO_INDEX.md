@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.36"
+version: "2.37"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 36/60 blocks; i-n-g coverage is 142/280 episodes across 56 chapters. The next authorized but unread chapter is `301080` / **作戦名『山猫はもうぐっすり』** / 三森マツリ, episodes `312203101 / 312203102 / 312203103`, assigned B0136.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 37/60 blocks; i-n-g coverage is 145/280 episodes across 57 chapters. The next authorized but unread chapter is `301090` / **ここはまだ道の途中** / 前園リシュリ, episodes `312203201 / 312203202 / 312203203`, assigned B0137.
 
 ## Closed first i-n-g tranche
 
@@ -116,3 +116,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0133](T7S_B0133_DEEP_READING.md) | `301050` / ターシャ・ロマノフスキー / 迷走！憧れのジェーンシチナ | `312202801 / 312202802 / 312202803` | `COMPLETE_BOUNDED` |
 | [T7S_B0134](T7S_B0134_DEEP_READING.md) | `301060` / 川澄シサラ / スマイル・フォー・ユー | `312202901 / 312202902 / 312202903` | `COMPLETE_BOUNDED` |
 | [T7S_B0135](T7S_B0135_DEEP_READING.md) | `301070` / ジェダ・ダイヤモンド / ダンス・オン・ザ・ムーン | `312203001 / 312203002 / 312203003` | `COMPLETE_BOUNDED` |
+| [T7S_B0136](T7S_B0136_DEEP_READING.md) | `301080` / 三森マツリ / 作戦名『山猫はもうぐっすり』 | `312203101 / 312203102 / 312203103` | `COMPLETE_BOUNDED` |
