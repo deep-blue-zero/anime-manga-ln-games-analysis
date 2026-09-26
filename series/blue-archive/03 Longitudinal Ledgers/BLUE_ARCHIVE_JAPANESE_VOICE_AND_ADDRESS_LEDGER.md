@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -696,3 +696,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `切り札`: Momoi's instrumental label for Sensei; her explanation of hazard, mechanism, and consent remains incomplete.
 - `G.Bible`: name only, with no meaning supplied before the cliffhanger.
 - **Attribution quarantine:** `u:0014-0020`, `u:0025-0030`, and probable `u:0065`, `u:0074` have mismatched speaker labels/register. Exclude them from precise Momoi/Yuuka voice rules and do not silently remap them. The surrounding secure lines support the topic sequence.
+
+## V002 C001 E003 delta — hedge, last-seen coordinate, and unreadable machine speech
+
+- `時代の下水道みたいな場所なのかもしれない`: reported Himari metaphor, explicitly hedged. Midori notes the unusual `かもしれない`; do not promote it to world law.
+- `最後にG.Bibleの稼働が確認された座標`: a last-confirmed operation point. Momoi's `きっとここ` is a stronger inference than the datum warrants.
+- `伝説的`, `最高のゲームを作れる秘密の方法`, `ゲームの聖書`: Momoi's hopeful/received object description, challenged by Midori's advertising analogy.
+- `■■■`: the robots' represented speech is opaque; no intention, language, or command can be reconstructed from it.
+- `戦闘の指揮をお願いします`: Midori explicitly delegates tactical direction to Sensei after spotting encirclement.
+- **Source caution:** `u:0013` is an impossible self-rebuke under Momoi attribution; `u:0022-0023` are alternative responses to `choice:001`, not consecutive speech.

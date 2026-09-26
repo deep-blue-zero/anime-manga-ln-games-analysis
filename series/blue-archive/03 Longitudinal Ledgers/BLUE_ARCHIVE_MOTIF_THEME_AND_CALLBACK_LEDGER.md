@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -456,3 +456,12 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Failed recruitment / wrong attribution:** Momoi blames Yuuka for scarce friends; Midori recalls their own role and prior month of unsuccessful recruiting.
 - **Hero/trump-card risk:** E001's `勇者` becomes E002's `切り札`; both can instrumentalize a requested adult before danger/agency is clear.
 - **Mysterious zone/object:** the ruins and `G.Bible` are deliberately withheld causal bridges, not permission to import later lore.
+
+## V002 C001 E003 motif / callback delta — forgotten things and shortcut knowledge
+
+- **Hidden/forsaken site:** a supposedly restricted location is physically patrolled yet off ordinary maps, complicating the idea of an empty `廃墟`.
+- **`時代の下水道` as hypothesis:** Himari's reported image of discarded time resonates with Momoi's retro-game defense, but is carefully hedged and not proof of how objects move.
+- **Last-seen versus found:** technical coordinates strengthen a search hypothesis while exposing the leap from past operation to present possession.
+- **`ゲームの聖書` as shortcut temptation:** Momoi hopes legendary knowledge will rapidly yield a prize-worthy sequel; Midori's advertisement analogy resists treating a promise as evidence.
+- **Game quest / actual risk:** an object hunt becomes hiding, robots, and encirclement; fantasy-hero framing now has bodily stakes.
+- **Requested command:** Sensei's observation of refuge and Midori's request repeat the V001 bounded-command pattern in a new institutional context without proving full-series universality.

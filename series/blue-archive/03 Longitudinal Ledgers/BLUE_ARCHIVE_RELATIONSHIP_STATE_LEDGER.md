@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -317,3 +317,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI ↔ MIDORI:** Midori proposes a lower-odds comparison and corrects Momoi's blame claim while remaining loyal to the club. The sister relationship accommodates disagreement without rupture.
 - **YUUKA ↔ SENSEI:** mutual recognition and Yuuka's later embarrassment are visible; prior relationship and the meaning of her wish for a calmer next meeting remain OPEN.
 - **MOMOI ↔ SENSEI:** a request for help becomes designation as `切り札` before full danger/access rationale is offered. Sensei asks questions; informed assent is not yet shown.
+
+## V002 C001 E003 relationship delta — disagreement within shared search
+
+- **MOMOI ↔ MIDORI:** Midori's challenge becomes more precise (Himari's hedge versus coordinate evidence), while Momoi supplies a substantive reason and both remain in the same expedition. Differing confidence does not equal broken solidarity.
+- **MOMOI/MIDORI ↔ SENSEI:** Momoi directs hiding and accepts Sensei's factory cue; Midori requests combat command only when encirclement emerges. The teacher is an invited participant/possible tactical coordinator, not yet owner of their creative mission.
+- **CLUB ↔ VERITAS/HIMARI:** coordinates/help and metaphor are reported by Momoi, not directly spoken by Veritas or Himari; no lasting alliance terms are established.
+- **GROUP ↔ ROBOTS:** observed patrol/convergence creates an immediate adversarial practical relation, but robot intent, command, and identity are unknown.

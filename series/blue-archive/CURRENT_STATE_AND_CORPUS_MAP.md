@@ -18,17 +18,17 @@ updated: 2026-09-25
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete; `MAIN_V002_C001` is active-provisional through E002 under the newly authorized sequential range.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete; `MAIN_V002_C001` is active-provisional through E003 under the newly authorized sequential range.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Volume 2 E001–E002 introduce a game-framed Millennium club petition, a contested local-accounting rationale, a two-week Millennium Prize reprieve, and Momoi's creative-value/ruins plan. Coverage is **44 / 310** units; all seven ledgers carry provisional deltas above the C002 checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Volume 2 E001–E003 introduce a game-framed Millennium club petition, a contested local-accounting rationale, a two-week Millennium Prize reprieve, and a risky ruins search grounded in a last-operation coordinate but not a confirmed object location. Coverage is **45 / 310** units; all seven ledgers carry provisional deltas above the C002 checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. Momoi, Midori, and Yuuka are `UNMODELED`; the next unit, `BA:main:002:001:003`, remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. Momoi, Midori, and Yuuka are `UNMODELED`; the next unit, `BA:main:002:001:004`, remains unopened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **44 / 310 canonical main units deep-read**;
+- main-story coverage: **45 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -74,7 +74,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` — **canonical Chapter 2 synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E001_DEEP_READING.md` — **active_provisional**, game-framed petition / vulnerable teacher / club roles / unadjudicated abolition threat;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E002_DEEP_READING.md` — **active_provisional**, Yuuka's allocation argument / conditional contest reprieve / creative-value motive / ruins-and-G.Bible uncertainty;
-- next crosswalk unit: `BA:main:002:001:003`.
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E003_DEEP_READING.md` — **active_provisional**, robot-patrolled ruins / Veritas last-operation coordinate / Himari hedge / requested command;
+- next crosswalk unit: `BA:main:002:001:004`.
 
 The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E001 boundary above.
 
@@ -326,7 +327,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` — **canonical Chapter-2 checkpoint**;
 - `BLUE_ARCHIVE_MAIN_V002_C001_E001_DEEP_READING.md` — first Millennium unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V002_C001_E002_DEEP_READING.md` — Yuuka/contest/ruins unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first forty-four marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V002_C001_E003_DEEP_READING.md` — robot-patrolled ruins and search-evidence unit, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first forty-five marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -338,12 +340,12 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:002:001:002` provisionally, inheriting the canonical Chapter 2 checkpoint. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:002:001:003` provisionally, inheriting the canonical Chapter 2 checkpoint. They are mutable infrastructure, not frozen releases.
 
 ### Character reconstruction state
 
 - specification: canonical and populated;
-- coverage index: canonical and provisionally updated through V002 C001 E002;
+- coverage index: canonical and provisionally updated through V002 C001 E003;
 - bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
 - standalone reconstruction models: none;
 - readiness: sixteen `PARTIAL_MODEL` subjects, nine `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
@@ -352,7 +354,7 @@ All currently have the same sequential boundary: `BA:main:002:001:002` provision
 
 ### Not yet created
 
-- `MAIN_V002_C001_E003` and subsequent main-story deep readings;
+- `MAIN_V002_C001_E004` and subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
 - standalone character reconstruction models and validation registers;
@@ -406,22 +408,22 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, including both mandatory checkpoints, are complete. `時計じかけの花のパヴァーヌ` Chapter 1 is active through E002.**
+**`対策委員会編` Chapter 1 and Chapter 2, including both mandatory checkpoints, are complete. `時計じかけの花のパヴァーヌ` Chapter 1 is active through E003.**
 
 The current authorized range continues in order. The next crosswalk unit is:
 
-- story ID: `BA:main:002:001:003`;
-- scope: `MAIN_V002_C001_E003`;
+- story ID: `BA:main:002:001:004`;
+- scope: `MAIN_V002_C001_E004`;
 - arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第3話;廃墟へ`.
+- source title: `第4話;私たちはあの日、少女に出会った`.
 
-Use the Prologue, Chapter 1 checkpoint, Chapter 2 checkpoint, and E001–E002 readings as prior authority while preserving their open-question and epistemic-firewall registers. E002 establishes Yuuka's voiced terms and a two-week extension, but not the ruins' contents, `G.Bible` meaning, or any outcome.
+Use the Prologue, Chapter 1 checkpoint, Chapter 2 checkpoint, and E001–E003 readings as prior authority while preserving their open-question and epistemic-firewall registers. E003 establishes robot patrol and a last-operation coordinate, not `G.Bible`'s current location, robot provenance, or the factory's safety.
 
 The next permitted story operation is the unit above under these controls.
 
 Before narrative access:
 
-1. retain the Prologue plus `MAIN_V001_C001` and `MAIN_V001_C002` checkpoints and `MAIN_V002_C001_E001–E002` as the complete prior-information boundary;
+1. retain the Prologue plus `MAIN_V001_C001` and `MAIN_V001_C002` checkpoints and `MAIN_V002_C001_E001–E003` as the complete prior-information boundary;
 2. preserve the Chapter 2 contextual-backfill decision `DEFER`;
 3. use the character coverage index to identify any diagnostic reconstruction questions without converting them into predictions after exposure;
 4. if a formal character rule is to be prospectively tested, freeze its exact state, knowledge, relationship, conditions, alternatives, and disconfirming observation in a committed register first;
@@ -432,7 +434,7 @@ During and after the next unit:
 1. perform the literary deep reading first under strict local-information discipline;
 2. record a behavioral/reconstruction delta only for diagnostically useful evidence, otherwise `NO_MATERIAL_RECONSTRUCTION_DELTA`;
 3. update all affected ledgers and the coverage index only for material changes;
-4. preserve Chapter 2 character-knowledge and Kaiser/Gematria firewalls, and E001–E002's Millennium attribution/uncertainty firewalls, unless the new source explicitly changes them;
+4. preserve Chapter 2 character-knowledge and Kaiser/Gematria firewalls, and E001–E003's Millennium attribution/uncertainty firewalls, unless the new source explicitly changes them;
 5. adjudicate any previously frozen rule without editing the prediction wording.
 
 
@@ -724,7 +726,7 @@ Historical boundary at the Chapter 2 checkpoint: Volume 2 was then unopened; the
 - prospective prediction registers: none;
 - contextual backfill: still `DEFER`;
 - the initial C001 bootstrap at `5b0001583b02b3628a2b052a3c64d6b56ba6ac01` did not have access to C002; this revision recovers the completed C002 analysis from `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- the recovered bootstrap evidence boundary was C002 E020/checkpoint, **42 / 310**; current provisional evidence is E002 at **44 / 310** and `BA:main:002:001:003` remains unopened;
+- the recovered bootstrap evidence boundary was C002 E020/checkpoint, **42 / 310**; current provisional evidence is E003 at **45 / 310** and `BA:main:002:001:004` remains unopened;
 - the method now requires a reconstruction-readiness delta at every forthcoming chapter checkpoint, including decreases and preserved prediction failures.
 
 Current architecture routes: [reconstruction specification](00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md), [domain coverage/readiness index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md), and [bootstrap/recovery audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md). Future models belong under `04 Specialist Synthesis/Character Reconstruction/`; validation belongs under `08 Audits and Manifests/`; `07 Current Release` retains its release responsibility. No empty model home is created.
@@ -751,4 +753,16 @@ E001's historical forward frontier was `BA:main:002:001:002` / `MAIN_V002_C001_E
 - `BA-C001`–`BA-C018` receive bounded pressure tests, no `BA-C019` is opened, and contextual backfill remains **DEFER**.
 - Reconstruction: Yuuka enters `UNMODELED`; Momoi/Midori gain contextual evidence but no readiness promotion or predictive rule. No frozen prediction was available (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
-E002's forward frontier is `BA:main:002:001:003` / `MAIN_V002_C001_E003`.
+E002's historical forward frontier was `BA:main:002:001:003` / `MAIN_V002_C001_E003`; that unit is now complete.
+
+## V002 C001 E003 state delta
+
+- `MAIN_V002_C001` is active through E003; coverage is **45 / 310**.
+- the group enters a robot-patrolled ruins site; robot origin, command, and language remain unknown. Federal restriction/guard-withdrawal history is Momoi's report.
+- Momoi's Veritas last-operation coordinate for `G.Bible` supports a search lead but not the object being presently at the ruins. Himari's `時代の下水道` is explicitly a `かもしれない` metaphor, not an established physical law.
+- the legendary creator, game-making secret, and G.Bible efficacy are reported beliefs, challenged by Midori's advertising analogy.
+- robots converge; Sensei sights a factory-like refuge and Midori asks for combat command. Battle result and factory safety are unopened.
+- `scene:001:u:0013` has an impossible self-rebuke under Momoi attribution; choice-branch replies at `u:0022-0023` are alternatives.
+- Momoi/Midori gain bounded reconstruction evidence, no readiness promotion; no `BA-C019`, no frozen prediction, contextual backfill **DEFER**.
+
+E003's forward frontier is `BA:main:002:001:004` / `MAIN_V002_C001_E004`.

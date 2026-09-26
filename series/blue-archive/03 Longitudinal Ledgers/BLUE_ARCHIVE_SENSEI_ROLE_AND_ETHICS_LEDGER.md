@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -491,3 +491,11 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - **Consent/information risk:** Momoi identifies Sensei as a `切り札` before explaining the ruins' known or unknown dangers or why Sensei is needed. Being requested is not the same as consenting to an unknown mission.
 - **Actual effect:** Yuuka's two-week extension follows Momoi's contest commitment and Yuuka's own discretion. It is not attributable to Sensei's status or the `1位` joke.
 - **Reconstruction:** `NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`, no frozen prospective prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); existing V001 boundary counterevidence remains active.
+
+## V002 C001 E003 delta — tactical cue, then requested command
+
+- **Choice topology:** three groups; the first has two mutually exclusive memory/disorientation variants and branch-conditioned Momoi re-explanations, while the second/third are singleton clarification and factory-sighting lines.
+- **Participation:** Sensei is present in the restricted ruins; the exact preceding consent and risk disclosure are not shown. Presence alone does not retroactively prove informed assent.
+- **Tactical contribution:** Sensei spots a factory-like refuge as robots converge; Momoi accepts the cue and Midori explicitly requests combat command. No battle outcome appears here.
+- **Authority structure:** danger brings a domain-specific request for adult coordination without converting the club's search goal or earlier risk decision into Sensei's property.
+- **Reconstruction:** useful context for the established bounded-command mechanism, no standalone-model promotion; `NO_DIAGNOSTIC_OPPORTUNITY` for frozen predictions.

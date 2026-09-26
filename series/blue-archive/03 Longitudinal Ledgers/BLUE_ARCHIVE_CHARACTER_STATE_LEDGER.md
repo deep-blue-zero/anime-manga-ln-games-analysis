@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -330,3 +330,13 @@ All new club-character observations are introductory and local. `NO_MATERIAL_REC
 - **Yuzu:** still absent and only described through others; no new behavioral evidence.
 
 E002 adds contextual and knowledge evidence, not a defensible operational rule: `NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`. Speaker-label corruption at `u:0014-0020`, `u:0025-0030`, and probable `u:0065`, `u:0074` remains quarantined.
+
+## V002 C001 E003 delta — search evidence and active danger
+
+- **Momoi:** reveals a Veritas last-operation coordinate behind her ruins hypothesis; she combines that with Himari's hedged metaphor but overstates current-location certainty. She expected some danger, is surprised by robots converging, and adopts Sensei's factory cue.
+- **Midori:** notices the hedge, tests Momoi's inference, doubts the legendary game-making secret, recognizes encirclement, and asks Sensei to command. Caution recurs in a distinct tactical context but remains narrow, not a whole-person rule.
+- **Sensei:** accompanies the group, sights a possible refuge, and is requested for battle command; actual combat result and prior informed entry consent remain unshown.
+- **Himari:** only a reported hypothesis and descriptive reputation; no direct voice or action sample. Do not enroll as modeled subject on hearsay.
+- **Yuuka/Yuzu:** absent; no change to their personal state.
+
+Momoi/Midori receive material contextual reconstruction evidence without readiness promotion; Sensei gains a requested-command context, not an operational rule. `scene:001:u:0013` is internally misattributed; `u:0022-0023` are branch alternatives.

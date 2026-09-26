@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E002 active provisional; E003 unopened
+current_sequential_boundary: MAIN_V002_C001_E003 active provisional; E004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1119,3 +1119,12 @@ No `BA-C019` is opened. Game-fiction framing of institutional survival is an int
 - **BA-C009–C018: PRESERVE / mostly not tested** — the Millennium dispute is not evidence that Volume 1 conclusions generalize wholesale.
 
 No `BA-C019` is opened before repeated evidence distinguishes a Millennium-wide metric regime from Yuuka's single encounter. The price of creative work and the club's contest route remain open. Source-label anomalies and `G.Bible` ignorance are quarantined. Contextual backfill remains **DEFER**.
+
+## V002 C001 E003 claim transitions — risky search, bounded command
+
+- **BA-C001–C004, C007: STRENGTHEN / pressure-test** — a student-led search exposes all three to danger; Sensei supplies a tactical cue and is asked to command, while prior informed consent remains unshown.
+- **BA-C005–C006: PRESERVE REJECTED** — adult knowledge is incomplete and students reason differently about uncertain evidence/risk; neither omnipotence nor generic student incapacity explains the scene.
+- **BA-C008: STRENGTHEN** — the two first-choice variants converge on the same explanation, followed by singleton inquiry and refuge observation.
+- **BA-C009–C018: PRESERVE / not directly tested** — neither the robots nor the ruins should inherit Volume 1's organizational conclusions by analogy alone.
+
+No `BA-C019` is opened. Momoi's lost-coordinate/legend inference remains an actor hypothesis, Himari's `かもしれない` remains a hedge, and robot provenance remains unknown. Contextual backfill remains **DEFER**.

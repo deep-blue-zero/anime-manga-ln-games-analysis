@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:002; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-25
 
 ## Current boundary
 
-Through `BA:main:002:001:002` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -304,3 +304,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Millennium Prize:** a school-wide product competition is named as the club's `TSC2` route; Yuuka conditionally waits two weeks and acknowledges success would count. The `u:0074` descriptive speaker label is suspect, so precise wording is not attributed to her.
 - **Ruins:** Momoi says the nearby zone was formerly federally restricted as dangerous, while admitting ignorance of its actual hazards. No disappearance, entry mechanism, or current access status is established.
 - **G.Bible:** named at the cliffhanger without definition, provenance, or demonstrated causal role.
+
+## V002 C001 E003 institutional delta — restricted site, unproven provenance
+
+- **Ruins:** now directly occupied by patrolling robots and entered by the club/Sensei. Who governs, built, or uses the site remains OPEN.
+- **Federal president/GSC:** Momoi reports former tight entry/secrecy restrictions and guard withdrawal after the President vanished; the current unit does not show those historical orders. The robots cannot be assigned to federal control merely from proximity.
+- **Veritas:** Momoi reports help obtaining entry and a coordinate for `G.Bible`'s last confirmed operation; technical method and formal institutional commitment are unseen.
+- **Himari:** a source-qualified `かもしれない` metaphor is reported. It is not a verified transport/collection mechanism for forgotten objects.
+- **G.Bible:** reportedly a legendary creator's work containing a game-making secret. Current location, form, authenticity, and effect remain unverified despite the unmapped last-operation coordinate.
+- **Factory-like structure:** Sensei sees a possible shelter during robot convergence; safety/ownership are unknown.
