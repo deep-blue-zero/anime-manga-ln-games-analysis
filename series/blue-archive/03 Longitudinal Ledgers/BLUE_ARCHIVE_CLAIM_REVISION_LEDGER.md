@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E009 active provisional; E010 unopened
+current_sequential_boundary: MAIN_V002_C001_E010 active provisional; E011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1181,3 +1181,12 @@ No `BA-C019` is opened. Yuuka reports a rule change, but no regulation is displa
 - **BA-C009–C018: PRESERVE / no direct global test** — Millennium's two-part club criterion does not revise Abydos/Kaiser facts.
 
 No `BA-C019` is opened. Yuuka's regulation, meeting notice and month-end grace are her reports; actual recognition and the term limit are directly spoken. `G.Bible` remains a hoped-for solution, not a found or proven resource. Contextual backfill remains **DEFER**.
+
+## V002 C001 E010 claim transitions — requested trust under real danger
+
+- **BA-C001–C004, C007: STRENGTHEN / pressure-test** — Momoi gives an immediate protective warning, Alice asks Sensei to trust her, and Midori requests tactical command only after naming Sensei's vulnerability. The adult's affirmative participation has clearer local consent than the first trip, but does not certify full tactical information or safety.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is physically vulnerable; Yuzu, Alice, Midori and Momoi contribute differentiated actions rather than waiting for adult omnipotence.
+- **BA-C008: STRENGTHEN within authored choices** — `もちろん` and a fuller companion/contribution assent converge; duplicate reactions are branch-conditioned, not repeated events.
+- **BA-C009–C018: PRESERVE / no direct global test** — no evidence assigns robots/factory to Abydos, Kaiser or a known institutional maker.
+
+No `BA-C019` is opened. The tactical sound-attraction and coordinate-to-factory claims are unverified actor forecasts in a label-corrupt exchange; battle outcome and `G.Bible` location remain OPEN. Contextual backfill remains **DEFER**.

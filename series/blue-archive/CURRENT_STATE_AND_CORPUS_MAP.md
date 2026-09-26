@@ -18,17 +18,17 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete; `MAIN_V002_C001` is active-provisional through E009 under the newly authorized sequential range.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete; `MAIN_V002_C001` is active-provisional through E010 under the newly authorized sequential range.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Volume 2 E001–E009 introduce the Millennium club's survival dispute, coordinate-led ruins search and found Alice. Her game-shaped belonging and presented ID remain separate from lawful enrollment; E007 adds a chosen railgun and unverified combat-design hypothesis. E009 confirms Yuuka sees Alice on the roster and grants the four-member club formal, term-limited recognition, while retaining a month-end results requirement and doubt about Alice's identity. Yuzu directly volunteers for a return to the ruins. Neither the factory nor Alice's origin is explained, and no renewed trip has yet occurred. Coverage is **51 / 310** units; all seven ledgers carry provisional deltas above the C002 checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Volume 2 E001–E010 introduce the Millennium club's survival dispute, coordinate-led ruins search and found Alice. Her game-shaped belonging and presented ID remain separate from lawful enrollment; E007 adds a chosen railgun and unverified combat-design hypothesis. E009 confirms term-limited club recognition with a month-end results condition and unresolved identity doubt. E010 enacts the renewed ruins trip: Yuzu participates under fire, Alice promises to protect the physically vulnerable Sensei, Sensei affirmatively joins, and Midori requests tactical command. The robot battle, factory entry, `G.Bible` and Alice's origin remain unresolved. Coverage is **52 / 310** units; all seven ledgers carry provisional deltas above the C002 checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. Momoi, Midori, Yuuka, Alice / `AL-1S`, Yuzu, Utaha, Hibiki and Kotori are `UNMODELED`; the next unit, `BA:main:002:001:010`, remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. Momoi, Midori, Yuuka, Alice / `AL-1S`, Yuzu, Utaha, Hibiki and Kotori are `UNMODELED`; the next unit, `BA:main:002:001:011`, remains unopened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **51 / 310 canonical main units deep-read**;
+- main-story coverage: **52 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -81,9 +81,10 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md` — **active_provisional**, railgun preference/lift/discharge / Engineering Club qualification / origin-inference caution;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E008_DEEP_READING.md` — **active_provisional**, rehearsed student identity / Yuuka's voluntary-membership criterion / pending-question cliffhanger;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E009_DEEP_READING.md` — **active_provisional**, Yuuka's term-limited formal recognition / results deadline / Yuzu's direct ruins-trip offer;
-- next crosswalk unit: `BA:main:002:001:010`.
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E010_DEEP_READING.md` — **active_provisional**, renewed ruins exposure / Alice's protection promise / affirmative Sensei choice / requested tactical command;
+- next crosswalk unit: `BA:main:002:001:011`.
 
-The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E009 boundary above.
+The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E010 boundary above.
 
 No specialist monograph or series-level synthesis exists yet. **Historical Chapter 1 context follows; the current boundary is the C002 checkpoint above.** The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -340,7 +341,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md` — Engineering Club railgun/qualification/inference unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V002_C001_E008_DEEP_READING.md` — club-membership review preparation/voluntariness unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V002_C001_E009_DEEP_READING.md` — term-limited recognition/results/Yuzu-offer unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first fifty-one marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V002_C001_E010_DEEP_READING.md` — renewed ruins/trust/command unit, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first fifty-two marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -352,12 +354,12 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:002:001:009` provisionally, inheriting the canonical Chapter 2 checkpoint. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:002:001:010` provisionally, inheriting the canonical Chapter 2 checkpoint. They are mutable infrastructure, not frozen releases.
 
 ### Character reconstruction state
 
 - specification: canonical and populated;
-- coverage index: canonical and provisionally updated through V002 C001 E009;
+- coverage index: canonical and provisionally updated through V002 C001 E010;
 - bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
 - standalone reconstruction models: none;
 - readiness: sixteen `PARTIAL_MODEL` subjects, fourteen `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
@@ -366,7 +368,7 @@ All currently have the same sequential boundary: `BA:main:002:001:009` provision
 
 ### Not yet created
 
-- `MAIN_V002_C001_E010` and subsequent main-story deep readings;
+- `MAIN_V002_C001_E011` and subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
 - standalone character reconstruction models and validation registers;
@@ -420,22 +422,22 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, including both mandatory checkpoints, are complete. `時計じかけの花のパヴァーヌ` Chapter 1 is active through E009.**
+**`対策委員会編` Chapter 1 and Chapter 2, including both mandatory checkpoints, are complete. `時計じかけの花のパヴァーヌ` Chapter 1 is active through E010.**
 
 The current authorized range continues in order. The next crosswalk unit is:
 
-- story ID: `BA:main:002:001:010`;
-- scope: `MAIN_V002_C001_E010`;
+- story ID: `BA:main:002:001:011`;
+- scope: `MAIN_V002_C001_E011`;
 - arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第10話;再び、廃墟へ`.
+- source title: `第11話;そこにあったもの`.
 
-Use the Prologue, Chapter 1 checkpoint, Chapter 2 checkpoint, and E001–E009 readings as prior authority while preserving their open-question and epistemic-firewall registers. E009 confirms a roster entry and a term-limited club ruling but not lawful enrollment or informed credential consent. Results remain due by month-end in Yuuka's account; Yuzu volunteers for renewed ruins risk, but no departure occurs yet. `G.Bible` remains unfound and unverified as a creative solution.
+Use the Prologue, Chapter 1 checkpoint, Chapter 2 checkpoint, and E001–E010 readings as prior authority while preserving their open-question and epistemic-firewall registers. E010 shows Yuzu's actual ruins participation, Alice's situated strike and protection promise, Sensei's affirmative companion choice, and Midori's requested tactical command. The contradictory retreat/breakthrough exchange has corrupt Yuzu labels; no individual plan is assigned. Battle result, factory entry and `G.Bible` location remain open.
 
 The next permitted story operation is the unit above under these controls.
 
 Before narrative access:
 
-1. retain the Prologue plus `MAIN_V001_C001` and `MAIN_V001_C002` checkpoints and `MAIN_V002_C001_E001–E009` as the complete prior-information boundary;
+1. retain the Prologue plus `MAIN_V001_C001` and `MAIN_V001_C002` checkpoints and `MAIN_V002_C001_E001–E010` as the complete prior-information boundary;
 2. preserve the Chapter 2 contextual-backfill decision `DEFER`;
 3. use the character coverage index to identify any diagnostic reconstruction questions without converting them into predictions after exposure;
 4. if a formal character rule is to be prospectively tested, freeze its exact state, knowledge, relationship, conditions, alternatives, and disconfirming observation in a committed register first;
@@ -446,7 +448,7 @@ During and after the next unit:
 1. perform the literary deep reading first under strict local-information discipline;
 2. record a behavioral/reconstruction delta only for diagnostically useful evidence, otherwise `NO_MATERIAL_RECONSTRUCTION_DELTA`;
 3. update all affected ledgers and the coverage index only for material changes;
-4. preserve Chapter 2 character-knowledge and Kaiser/Gematria firewalls, and E001–E009's Millennium attribution/uncertainty firewalls, unless the new source explicitly changes them;
+4. preserve Chapter 2 character-knowledge and Kaiser/Gematria firewalls, and E001–E010's Millennium attribution/uncertainty firewalls, unless the new source explicitly changes them;
 5. adjudicate any previously frozen rule without editing the prediction wording.
 
 
@@ -733,12 +735,12 @@ Historical boundary at the Chapter 2 checkpoint: Volume 2 was then unopened; the
 - canonical specification: `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`;
 - canonical coverage router: `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`;
 - canonical audit: `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md`, disposition `PASS_WITH_EXPLICIT_DEFERRALS`;
-- historical readiness after E002 added Yuuka: sixteen `PARTIAL_MODEL`, nine `UNMODELED`, zero `OPERATIONAL_CANDIDATE`, zero `BOUNDED_VALIDATED`; current E009 readiness appears in §10 and the E009 state delta;
+- historical readiness after E002 added Yuuka: sixteen `PARTIAL_MODEL`, nine `UNMODELED`, zero `OPERATIONAL_CANDIDATE`, zero `BOUNDED_VALIDATED`; current E010 readiness appears in §10 and the E010 state delta;
 - standalone model artifacts: none;
 - prospective prediction registers: none;
 - contextual backfill: still `DEFER`;
 - the initial C001 bootstrap at `5b0001583b02b3628a2b052a3c64d6b56ba6ac01` did not have access to C002; this revision recovers the completed C002 analysis from `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- the recovered bootstrap evidence boundary was C002 E020/checkpoint, **42 / 310**; current provisional evidence is V002 C001 E009 at **51 / 310** and `BA:main:002:001:010` remains unopened;
+- the recovered bootstrap evidence boundary was C002 E020/checkpoint, **42 / 310**; current provisional evidence is V002 C001 E010 at **52 / 310** and `BA:main:002:001:011` remains unopened;
 - the method now requires a reconstruction-readiness delta at every forthcoming chapter checkpoint, including decreases and preserved prediction failures.
 
 Current architecture routes: [reconstruction specification](00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md), [domain coverage/readiness index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md), and [bootstrap/recovery audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md). Future models belong under `04 Specialist Synthesis/Character Reconstruction/`; validation belongs under `08 Audits and Manifests/`; `07 Current Release` retains its release responsibility. No empty model home is created.
@@ -838,4 +840,14 @@ E008's historical forward frontier was `BA:main:002:001:009` / `MAIN_V002_C001_E
 - Yuzu directly apologizes and offers to join a return to the ruins because the room is shared; Midori reports nearly half a year without leaving the school building. The group intends another `G.Bible` search, but neither departure nor retrieval occurs here.
 - `u:0012`, `u:0043-0044`, `u:0082-0090`, `u:0100-0101` are quarantined for exact attribution. No Sensei appearance/choice, readiness promotion, standalone model, frozen prediction or `BA-C019`; contextual backfill **DEFER**.
 
-E009's forward frontier is `BA:main:002:001:010` / `MAIN_V002_C001_E010`.
+E009's historical forward frontier was `BA:main:002:001:010` / `MAIN_V002_C001_E010`; that unit is now complete.
+
+## V002 C001 E010 state delta
+
+- `MAIN_V002_C001` is active through E010; coverage is **52 / 310**.
+- Yuzu is directly present in the ruins under robot fire, executing her E009 offer. Momoi warns Sensei to duck; Midori checks the teacher, whose immediate answer is that they are okay. Alice fires and the group treats the first strike as successful, while a second wave approaches.
+- `u:0020-0026` labels opposing retreat/breakthrough positions as Yuzu; precise tactical authorship and the claims about sound-attraction/coordinate-to-factory are quarantined as unverified. No battle result or factory entry is shown.
+- Alice cites game runs, which Midori distinguishes from real combat. Alice promises to protect Sensei and asks them to accompany her; either choice variant affirms, and Midori then requests tactical command. The invitation does not guarantee safety or prove complete risk disclosure.
+- `u:0039-0040` are branch-conditioned duplicate reactions, not repeated acts. No readiness promotion, standalone model, frozen prediction or `BA-C019`; contextual backfill **DEFER**.
+
+E010's forward frontier is `BA:main:002:001:011` / `MAIN_V002_C001_E011`.

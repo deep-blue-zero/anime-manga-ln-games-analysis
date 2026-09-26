@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -536,3 +536,10 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Sensei is absent from the questioning, Yuuka's formal recognition, the output deadline and the decision to seek `G.Bible`; no adult action/choice is represented (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
 - Yuuka tests for coercion, notices Momoi's stare and credits Alice's game love despite suspicious biography. This is a student institutional attempt to respect agency, but a card/roster entry and short exchange do not certify informed status consent.
 - The club's renewed ruins plan is its own decision, with Yuzu directly volunteering. Sensei's prior help in E003–E004 is no automatic authorization, protection or command for this prospective trip. No frozen prediction is testable (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E010 delta — exposed body, affirmative choice, specific delegation
+
+- Sensei accompanies the renewed ruins expedition and survives an initial nearby blast; Momoi warns them to duck and Midori asks after them. Their `大丈夫` response gives immediate status, not invulnerability or implied acceptance of future hazards.
+- Midori names the difference between armed students and the teacher if hit. Alice promises protection and explicitly requests trust/participation. Both Sensei choice variants say yes; one adds companion identity and an offer to help. No refusal route or distinct tactical destination is authored.
+- Midori then asks Sensei to command a breakthrough. This is a specific delegated battle function after assent, not ownership of the club's output goal, credential decisions, or the corrupted tactical forecast. No battle result follows in E010.
+- The invitation makes local consent more visible than on the first trip, but it does not prove complete risk disclosure or Alice's protective efficacy. Existing adult model remains `PARTIAL_MODEL`; no new standalone rule or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).

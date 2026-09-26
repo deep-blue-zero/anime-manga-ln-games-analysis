@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -357,3 +357,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Two-part rule:** Yuuka says member count and demonstrated output are now required; the newly changed rule has a grace period until this month's end. Four or four hundred members do not avert dissolution without results. Rule text/effective date and precise calendar remain unseen; E002's two-week reprieve is not given an invented date reconciliation.
 - **Notice:** Yuuka says the requirement was explained at a club-heads meeting, which Yuzu missed. Yuzu apologizes for absence, but the meeting's record and the corrupted stand-in/item-drop explanation cannot establish exact responsibility or motive.
 - **Prize/ruins:** Yuuka invokes Momoi's Millennium Prize promise; the club independently resolves to seek `G.Bible` again, with Yuzu volunteering. No expedition or discovery occurs here, and no source verifies the object's promised creative efficacy.
+
+## V002 C001 E010 institutional delta — renewed ruins entry, unresolved object
+
+- **Expedition:** the club, Yuzu and Sensei are directly in the ruins under robot attack. E009's announced return is now real; this is not evidence of school authorization or Yuuka knowing the site risk.
+- **Robots:** first wave approaches, Alice fires and the group marks a successful strike; a second wave follows. Total numbers, maker, command, intentions and exact casualties remain unverified.
+- **Factory/G.Bible:** a label-corrupt tactical speaker claims the reported `G.Bible` coordinates point to the factory, and that battle noise will draw more robots. E003's last-operation coordinate and E004's discovered factory do not independently prove current object location or a robot sensor mechanism.
+- **Club authority:** opposing retreat/breakthrough advice is represented, but exact individual authorship is unavailable. Midori securely asks Sensei to command the impending fight after affirmative participation; no battle outcome or factory access occurs within E010.
+- **Output gate:** Yuuka's month-end results requirement remains the club's motive; neither the potential object nor a game/prize result is obtained here.

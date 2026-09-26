@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -762,3 +762,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `今学期` limits budget/room; `今月末` is Yuuka's reported results deadline. No calendar date is supplied to reconcile them with E002's two-week phrasing.
 - `部長会議` is Yuuka's notice claim; `責任、取らないと`, `もうわたしだけのものじゃない`, `一緒に、守りたい` are secure Yuzu commitment language.
 - **Attribution quarantine:** `u:0012`, `u:0043-0044`, `u:0082-0090`, `u:0100-0101` have role-flipped or impossible labels. Do not assign the item-drop excuse, game-deletion demand or post-offer command to a person-specific voice rule. No Sensei choices.
+
+## V002 C001 E010 delta — game counts, risk language, and adult assent
+
+- `伏せて` is Momoi's direct warning to Sensei before a blast; `先生、大丈夫ですか` and the teacher's `うん、大丈夫` confirm only immediate survival/status.
+- `光属性広域アタッカー` and `殲滅します` are Alice's battle-role speech; the group sees success but the source does not count all destroyed robots.
+- `27回のダンジョン探索` and `139回のレイドバトル` are Alice's game-history claims, directly limited by Midori's `それはゲームの話でしょ`.
+- `撤退しよう`/`安全第一` and `ここで退くわけにはいかない`/`突破しよう` oppose each other inside one Yuzu-labeled cluster. `G.Bibleの座標が示してるあの「工場」` and battle-sound attraction are unverified tactical inferences; attribution remains quarantined for `u:0020-0026`.
+- `アリスが先生を守ります` is Alice's promise, not confirmed future capacity. `アリスを信じて、私たちと一緒に来てくれますか` explicitly asks the vulnerable adult to accompany her.
+- Sensei `choice:001` has two affirmative alternatives: bare `もちろん` versus `仲間として` with a contribution offer. `u:0039-0040` are branch-conditioned duplicate Alice reactions, not two acts. Alice's party welcome follows convergence.
+- `先生、指揮をお願いします` is Midori's clear request for tactical command. No ensuing combat direction or result occurs in this unit.

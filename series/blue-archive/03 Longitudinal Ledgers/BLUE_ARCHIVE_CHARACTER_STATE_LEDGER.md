@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -401,3 +401,13 @@ Material contextual evidence for Yuuka/Alice/Momoi/Midori, but no standalone rul
 - **Sensei/engineers:** absent; no direct change.
 
 Material decision/relationship evidence, no standalone model or readiness promotion (sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`); `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0012`, `u:0043-0044`, `u:0082-0090`, `u:0100-0101` for exact speaker claims.
+
+## V002 C001 E010 delta — Yuzu acts; Alice asks trust; Midori delegates
+
+- **Yuzu:** is now physically in the ruins under fire, asks after the group, spots approaching robots and calls Alice to act. Says she will try despite danger. The `u:0020-0026` retreat-versus-breakthrough exchange is all mislabeled Yuzu and cannot establish her individual tactical reversal or risk preference. Her presence executes E009's offer but does not explain her prior indoor history.
+- **Alice:** fires a light attack that the group treats as an initial success; cites 27 dungeons/139 raids as game experience, not verified field victories. Promises to protect Sensei, asks trust and companionship, then welcomes the affirmative answer. Protection capacity and outcome remain unproven.
+- **Midori:** distinguishes games from real combat, emphasizes Sensei's vulnerability, then chooses to proceed and explicitly asks Sensei to command. Her caution remains active within cooperation, not an automatic veto.
+- **Momoi:** warns Sensei to duck ahead of the blast and celebrates Alice's strike. Do not assign the corrupted breakthrough rationale to her.
+- **Sensei:** reports being okay after the first blast and has two affirmative choice variants in response to Alice; Midori then requests tactical direction. No battle result or safety guarantee is shown. Existing `PARTIAL_MODEL` remains bounded.
+
+Material situated reconstruction evidence, no standalone rule or readiness promotion (sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`); `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0020-0026` for precise tactical attribution and `u:0039-0040` as branch-conditioned duplication.

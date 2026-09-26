@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -366,3 +366,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI/MIDORI ↔ ALICE:** Momoi displays the card and appears to pressure Alice during questioning; Midori fears exposure. Their care and club-survival incentive remain interwoven, while Alice's game delight is not reducible to the manufactured record.
 - **YUZU ↔ CLUB/ALICE:** Yuzu apologizes, offers to join the risk and says she wants to protect a room shared with the others. Alice celebrates her party entry. This gives Yuzu an independent direct commitment, not just Momoi's prior report of her need for a refuge.
 - **MOMOI ↔ YUZU/MIDORI:** exact allocation of blame in `u:0082-0090` is corrupt. Secure lines establish Yuzu's apology/offer and the group's final collective commitment, not which sister missed a substitute meeting due to a drop-rate event.
+
+## V002 C001 E010 relationship delta — chosen exposure and requested command
+
+- **YUZU ↔ CLUB:** Yuzu's E009 offer becomes observed presence in the ruins; she checks the group, notices robots and calls Alice to act. The tactical retreat/push dispute is label-corrupt, so a Yuzu-specific reversal or command cannot be asserted.
+- **ALICE ↔ SENSEI:** Alice directly promises protection and asks whether Sensei will trust and accompany her. Sensei affirmatively accepts in either variant, and Alice celebrates their party bond. The promise's fulfillment and full risk disclosure remain untested.
+- **MIDORI ↔ SENSEI:** Midori voices the teacher's distinctive vulnerability and only then requests tactical command. Care and functional delegation are not contradictory; neither makes Sensei sovereign over the club's aim.
+- **MOMOI ↔ SENSEI:** Momoi warns the teacher to duck before the explosion; the teacher reports being okay. A concrete protective action, not a global relationship rule.
+- **GROUP ↔ ROBOTS/FACTORY:** first strike succeeds by group appraisal, a second wave approaches, and a disputed rationale favors breaking through. The exact tactic author, robot command, factory/G.Bible connection and result remain OPEN.

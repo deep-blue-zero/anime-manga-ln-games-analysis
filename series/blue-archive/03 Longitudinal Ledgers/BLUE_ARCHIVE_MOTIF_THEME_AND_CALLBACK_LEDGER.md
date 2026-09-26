@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -513,3 +513,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Game syntax exposed to literal risk:** Alice answers a work-role question with party combat terms and describes revival at inns/churches. Yuuka's rest warning is a reality check, not acceptance of the fantasy as bodily truth.
 - **Guilt becomes shared stewardship:** Yuzu moves from hidden listener/locker to an explicit offer to protect a room now shared by others; the group celebrates her as party member. Whether she can make the trip remains future-facing.
 - **Shortcut temptation returns:** lacking demonstrated results, the club again hopes `G.Bible` will help produce a prize-worthy game. E003's coordinate and legend skepticism remain active; no discovery is shown.
+
+## V002 C001 E010 motif / callback delta — party courage meets asymmetric bodily risk
+
+- **Return to the ruins:** E009's spoken group resolution is enacted; Yuzu leaves the locker/room setting and acts under fire. The move matters without resolving why she was secluded.
+- **RPG vocabulary with a reality check:** Alice calls herself a light-area attacker and cites 27 dungeons/139 raids as confidence; Midori explicitly insists those are games. Shared play supports courage but cannot establish battlefield odds.
+- **Teacher as party member, not invulnerable hero:** Momoi warns Sensei to duck, Midori flags injury risk, Alice promises protection and asks trust; Sensei can assent as `仲間`. The Prologue/V001 bounded-adult motif recurs without proving safety.
+- **Sound/coordinate shortcut:** a disputed tactical argument treats noise as robot-attraction and the factory as a `G.Bible` coordinate destination. Neither mechanism nor object location is confirmed; narrative urgency does not convert them into facts.
+- **Authority by invitation:** Midori requests Sensei's command after the group chooses danger, echoing earlier requested battlefield coordination while leaving club purpose and consent distinct.
