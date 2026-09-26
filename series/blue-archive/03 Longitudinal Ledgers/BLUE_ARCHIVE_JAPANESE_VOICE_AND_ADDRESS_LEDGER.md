@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -973,3 +973,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Rio's `トロッコ問題`/`レバーを引く`/`喜んで` makes a one-versus-many premise and self-casts as willing operator. `悪意も敵意も` is self-description, not exoneration. Momoi's `分かんない` follows Rio's citation of her own injury and cannot mean no injury happened.
 - `自らの決断によって` is Rio's interpretation of the C&C/Sensei split, partially matching observed separation but not proving complete manipulation. `アバンギャルド君、発進` is deployment, not victory.
 - **Quarantine:** `u:0029-0030` is `？？？`, not securely a named voice or technical attack method. `choice:002` has two alternatives; Rio's `u:0034-0035` `そう` duplicates and may reflect branching. Scene 2 Hibiki `u:0004-0005` duplicates. Sensei `scene:001:u:0070`/`scene:002:u:0003` remain `心の声`; next `チェックメイト` card is not a combat result.
+
+## V002 C002 E016 delta — “checkmate,” juniors and system text
+
+- Rio's `チェックメイト`/`受け入れるしかない`/`合理的な判断` assert necessity and victory. Himari's `ある意味では` qualifies one sense of rationality before `独善には賛同できません` rejects the method.
+- Himari's `歩幅を合わせる`/`相手を待つ気もない` is a relational diagnosis. `頼れる後輩` and Eimi's `一緒に食べたい` provide a concrete counterexample to purely instrumental relations, not guaranteed victory.
+- Rio's `すべてマーク済` is contradicted locally by Eimi's arrival. The `24時間経っても` pudding statement is an if-condition, not a measured elapsed interval.
+- Hare's `ネットワークが完全に沈黙` reports their current link; `ジャミング対策` is her retrospective diagnosis, not an independently observed jammer. `Optimus Mirror System` and `「鏡（ミラー）」起動` are displayed text, not a named operator.
+- **Quarantine:** `scene:001:u:0036` is Eimi-labeled but addresses Eimi in Himari's voice; `u:0037` assignment is also cautious. `scene:002:u:0010` Kotama label has a casual register shift, and italic `u:0013-0015` has role/honorific tension. Scene 2 battle resumes without a new location heading. Sensei `u:0025` has malformed quote and is `心の声`; two choices are singleton.

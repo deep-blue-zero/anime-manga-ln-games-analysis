@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -667,3 +667,13 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operationa
 - **Sensei:** one singleton choice observes the link failure, `choice:002` provides two alternative replies to Rio and `choice:003` teases her design feeling. Two later lines are `心の声`, including a retrospective claim they asked C&C to take Toki. It is not a new audible order or sole tactic authorship.
 
 Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E016 delta — junior rescue and new intervention
+
+- **Rio/Himari:** Rio declares C&C neutralization a rational checkmate. Himari calls the plan in one sense rational but rejects `独善`, diagnosing Rio's failure to share worries or wait for others. Her assessment is relational testimony, not a fully validated Rio model. Rio says all possible threats were marked, then is surprised by an outside attack and Eimi.
+- **Eimi:** first substantive direct entry, calls to Himari and comes for her. She recalls a conditional 24-hour pudding permission and says she wanted to eat together. Himari thanks/teases; Eimi warns their added force may still not secure victory. Exact role/history and elapsed time are unknown; add `UNMODELED`.
+- **Veritas/Maki/Hare/Kotama:** in their room, connection/network is silent by report. Hare regrets inadequate jamming preparation; their fear does not prove permanent or universal outage. Monitor text announces `Optimus Mirror System` startup, operator unknown. `u:0010` and italic `u:0013-0015` have speaker tension.
+- **Chihiro:** first direct entry at the rear fight as Avant-Garde-kun slows; says she made it in time and checks the group. Precise Mirror or slowing mechanism is unshown; add `UNMODELED`.
+- **Sensei/Momoi/Yuzu:** Sensei has two singleton choices—warning and recognition—plus one malformed inward thought. Momoi/Yuzu notice the weapon slowing; no defeat or Alice contact follows.
+
+Totals become 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

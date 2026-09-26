@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -711,3 +711,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Fortress as moving constraint:** E012's secret city and E014's imperfect surveillance now reveal a concrete adaptive structure: Toki can partition C&C. A local successful counter complicates both omniscience and easy coalition victory.
 - **Ugly design/power:** Avant-Garde-kun draws aesthetic criticism but high-firepower appraisal. Rio's denial that looks matter and Sensei's teasing expose a personal register without proving weapon superiority or Rio's moral model.
 - **Game author rejects forced ending:** Momoi invokes her scenario-writing and rejects Rio's scale rhetoric while demanding Alice back, extending E011's refusal of a coerced ending. Her injury remains real.
+
+## V002 C002 E016 motif / callback delta — checkmate as premature closure
+
+- **Chess terminality contested:** Rio names `チェックメイト` as if all moves are exhausted. Eimi's unmarked arrival and subsequent Mirror/Chihiro cues reopen action without yet proving victory or Rio's global wrongness.
+- **Walking together versus lone lever:** Himari's `歩幅` critique opposes Rio's E015 self-cast lever-puller. Eimi's wish to share pudding gives the abstract reliance-on-juniors theme a small ordinary relational texture amid crisis.
+- **Mirror callback:** `Optimus Mirror System`/`鏡` returns the C001 Mirror object into an apparent rescue context. The text announces startup but withholds operator, path and full function; the callback is not itself a complete technological explanation.
+- **Calm at the brink:** Utaha's composed `危機一髪` and Chihiro's timely entrance contrast the frightened Veritas room. No complete reversal, defeated weapon or Alice return occurs here.

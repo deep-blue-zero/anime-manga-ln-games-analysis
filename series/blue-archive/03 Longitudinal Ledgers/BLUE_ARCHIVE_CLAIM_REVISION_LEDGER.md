@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E015 active provisional; E016 unopened
+current_sequential_boundary: MAIN_V002_C002_E016 active provisional; E017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1436,3 +1436,13 @@ Toki's broad `すべて把握` claim meets her admitted `想定外` frontal appr
 - **BA-C019: BELONGING CONTESTED** — Momoi demands Alice back, but Alice is absent and the new force prevents secure return.
 
 The local Eridu partition confirms a defensive capacity while not validating Rio's broad forecasts or Toki's E014 omniscience claim. No new claim ID, model, frozen prediction or side-source admission; Nel fight, rear weapon outcome, communication mechanism and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E016 claim transitions — premature checkmate meets junior intervention
+
+- **BA-C001–C004, C007, C010–C011: NECESSITY STILL UNPROVED** — Rio asserts rational checkmate after C&C division; Himari accepts planning sophistication but rejects self-righteousness. Eimi's unmarked arrival falsifies Rio's local all-threats-marked claim, not the whole threat hypothesis.
+- **BA-C005–C006: PRESERVE REJECTED** — Eimi helps Himari, Mirror startup appears and Chihiro checks the rear party as the weapon slows. This is not an adult-only solution; operator and causal mechanism remain unknown.
+- **BA-C008: BOUNDED** — two singleton choices and one inward malformed-quote line do not license a full audible Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: HELP, NOT RESTORATION** — junior help continues against Alice's exclusion, but Alice is absent and secure belonging unshown.
+
+No new claim ID, model, frozen prediction or side-source admission. Eimi and Chihiro enter `UNMODELED`; Rio/Himari relationship interpretation, Mirror operator/path, restored communication, weapon outcome and Alice fate remain OPEN. Contextual backfill **DEFER**.

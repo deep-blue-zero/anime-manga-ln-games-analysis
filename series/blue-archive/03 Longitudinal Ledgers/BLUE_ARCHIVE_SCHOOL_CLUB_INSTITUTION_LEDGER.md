@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -549,3 +549,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Communications:** Veritas contact cuts after an unidentified voice addresses the team and Himari. Rio appears to the rear group immediately afterward, but the voice label and exact interception mechanism remain unverified.
 - **Ambush force:** Rio deploys Avant-Garde-kun against the rear party. Hibiki/Momoi appraise its firepower as high. No design specification, complete capacity, injury or terminal battle result is shown.
 - **Governance:** Rio's trolley analogy asserts one-sacrifice necessity without formal hearing, independent threat proof, alternatives assessment or Alice consent. The coercive institutional conflict remains unresolved.
+
+## V002 C002 E016 institutional delta — surveillance gap and Mirror cue
+
+- **Rio's control claim:** Rio says all potential threats were marked, yet Eimi arrives to aid Himari. This is a local counterexample to exhaustive threat registration, not a map of all Eridu defenses.
+- **Himari/Eimi chain:** Eimi calls Himari `部長` and helps her. Their exact club name, operational authority and rescue route are not specified in this source; do not import a roster.
+- **Veritas:** its own room location is explicit. Maki/Hare report network failure, and Hare identifies missing jamming preparation as a mistake. Exact source, duration and geographic scope of the disruption are not independently audited.
+- **Mirror/Chihiro:** a monitor announces `Optimus Mirror System`/`鏡` startup. Chihiro appears as Avant-Garde-kun slows. The sequence suggests intervention but does not identify the startup operator, prove link restoration or document the slow-down mechanism.

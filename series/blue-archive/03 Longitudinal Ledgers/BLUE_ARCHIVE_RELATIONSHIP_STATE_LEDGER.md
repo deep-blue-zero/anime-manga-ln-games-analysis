@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -563,3 +563,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **RIO ↔ SENSEI/CLUB:** Rio says prior persuasion failed and casts Alice as the one who must be sacrificed. Sensei's alternative choice can state opposition, but alternatives cannot be combined; the party remains in conflict with her new weapon.
 - **MOMOI ↔ ALICE/RIO:** Momoi, personally injured in the incident Rio invokes, insists on returning Alice. This makes her refusal informed by lived harm rather than ignorance of it, while Alice herself is absent and no safe reunion occurs.
 - **VERITAS ↔ COALITION:** the communication cut interrupts the support relation. It does not show abandonment by Veritas or complete loss of all later contact.
+
+## V002 C002 E016 relationship delta — relying on juniors versus acting alone
+
+- **HIMARI ↔ RIO:** Himari can recognize the plan's sophistication while rejecting its self-righteousness. Her “walk at others' pace” and “confide in juniors” diagnosis is an adversarial relational appraisal, not proof of Rio's every private habit.
+- **EIMI ↔ HIMARI:** Eimi comes to Himari after recalling the pudding condition and says she would rather eat together. Himari explicitly enjoys waiting for rescue by her junior; the bond is direct but its formal roster/history remain unspecified here.
+- **HIMARI/EIMI ↔ VERITAS/OTHER JUNIORS:** Himari says she has many dependable juniors as Veritas struggles and Mirror startup appears. The editing implies a wider support network; precise coordination and messages between branches are unshown.
+- **CHIHIRO ↔ REAR PARTY:** Chihiro arrives when the weapon slows and checks whether everyone is safe. Her helpful contact is direct, but no Alice encounter or durable safety is established.
