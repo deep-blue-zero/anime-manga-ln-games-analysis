@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.19"
+version: "11.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 91 complete i-n-g primary documents / T7S_B0080–T7S_B0118; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 94 complete i-n-g primary documents / T7S_B0080–T7S_B0119; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 420`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 403`; `last_closed_block = T7S_B0118`. The admitted horizon contains 326 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 91 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 425`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 410`; `last_closed_block = T7S_B0119`. The admitted horizon contains 329 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 94 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1299,3 +1299,32 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.20. [B0118](../02%20Readings/
 | `EDGE-0410` | `BODILY_FAILURE_WITH_FAN_CONCERN` | Tomoe's vomiting in `EV-B0118-005` → backstage move and fan concern/return promise; recognition and physical limit coexist. |
 
 `T7S_B0118_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0016`/`0021` advanced; no new world/thread record, technical song verdict, total i-n-g chronology or cured anxiety claim.
+
+## B0119 four middle-school performers and a nearer center
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.21. [B0119](../02%20Readings/T7S_B0119_DEEP_READING.md) owns the A/B/C locator key. B0081/B0035/B0041/B0108 supply bounded Madoka/Makoto/Saori/Rona context; menu order is not total chronology. The four-person streamed live is not named as a durable unit.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0119-001` | Madoka, Makoto, Kajika and Saori rehearse a four-middle-schooler stream live that does not quite cohere. Saori reports a fall/wall impact and rib-side pain; Madoka blames herself, while Coney/Player cannot locate a simple timing fault. | A:P2–55; `KNOW-0198`; `THREAD-0022`. No clinical evaluation, injury clearance or stable group judgment. |
+| `EV-B0119-002` | Saori adds cat-scratch/head-bump injuries. Rona/Sui bring food, propose a break, and dance with the four; the move now feels right. | B:P1–41; `KNOW-0199`; `THREAD-0022`. A doughnut break and ability to dance are not medical clearance or complete choreography proof. |
+| `EV-B0119-003` | Sui says each of the four watches someone else for a lead; Rona says fear drives such looking and describes imagining Nicole when she performs. Both encourage the four to trust a model. | B:P42–59; `KNOW-0200`; `THREAD-0006`. Peer account, not measured psychology or identity replacement. |
+| `EV-B0119-004` | Without the two older dancers, the four retry and report a good fit. Makoto/Saori identify Madoka as immediate lead; Madoka credits Rona/Sui. Coney notes a closer model and vaguely markets the age group to a segment. | B:P60–89; `KNOW-0201`; `REL-0387`–`0394`. No permanent leader appointment, named unit or specified audience segment. |
+| `EV-B0119-005` | After the stream, peers/managers praise it but name Madoka errors, Saori's MC fall and Sawara's unexplained replacement of Kajika. Rona cries over their progress; Madoka says she wanted to dance like Rona, who herself invokes Nicole. | C:P1–37; `KNOW-0202`; `REL-0387`–`0394`; `UNIT-0002`. No directly inspected full live, platform metrics, injury outcome or substitution authorization. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0006` | Rona aspiration/self-authorship remains `OPEN`. Here she explicitly says picturing Nicole helps when she is afraid onstage, and Madoka then says Rona's dance/confidence inspired her. Rona is surprised to be an intermediate model. The chain is a relational resource, not evidence of identity transfer, complete confidence or a rule to copy a predecessor's surfaces. B:P47–53; C:P18–31. |
+| `THREAD-0022` | Saori's injury/performer-safety burden remains `OPEN`. She reports rib-side pain after a fall, later a scratch and head bump, resumes dance and after the live jokes no ribs broke despite an MC fall. Other members call a break and provide food, but no health assessment or work limit is shown. A:P5–23; B:P1–29; C:P1–14. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0411` | `RECIPROCAL_WATCHING_TO_CENTER_GAP` | Four dancers' individually directed attention in `EV-B0119-001` → unresolved formation fit diagnosed in `EV-B0119-003`, not an isolated Madoka fault. |
+| `EDGE-0412` | `BREAK_AND_DEMONSTRATION` | Rona/Sui's food/rest and dance in `EV-B0119-002` → an observed better group fit, without establishing a health clearance or quantified skill. |
+| `EDGE-0413` | `DISTANT_MODEL_TO_NEAR_EXAMPLE` | Rona's Nicole image in `EV-B0119-003` → Madoka's use of Rona as model in `EV-B0119-004`/`005`; neither becomes the other. |
+| `EDGE-0414` | `NEAR_PEER_TO_FORMATION_LEAD` | Madoka's renewed attempt in `EV-B0119-004` → Makoto/Saori's attribution of local lead, without formal permanent appointment. |
+| `EDGE-0415` | `REHEARSAL_TO_REPORTED_LIVE` | Renewed formation precedes praised stream in `EV-B0119-005`; intervening production, full performed quality and audience response uninspected. |
+| `EDGE-0416` | `INJURY_REPORT_WITH_CONTINUED_WORK` | Saori's pain/injuries in `EV-B0119-001`/`002` coexist with rehearsal and `EV-B0119-005` fall; no diagnosed fracture or safe-work determination. |
+| `EDGE-0417` | `PRAISE_WITH_PRODUCTION_GAPS` | Warm post-live assessment in `EV-B0119-005` coexists with errors, Sawara substitution and Coney's vague demographic pitch; success does not document governance. |
+
+`T7S_B0119_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0006`/`0022` advanced; no new world/thread/unit record, full live audit, injury diagnosis or total i-n-g chronology.

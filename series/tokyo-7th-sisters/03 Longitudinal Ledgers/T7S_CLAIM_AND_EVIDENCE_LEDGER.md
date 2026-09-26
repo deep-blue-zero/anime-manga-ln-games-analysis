@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.19"
+version: "11.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 91 complete i-n-g primary documents / T7S_B0080–T7S_B0118; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 94 complete i-n-g primary documents / T7S_B0080–T7S_B0119; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 563`; `revisions = 42`; `predictions = 7`; `AV_reviews = 65`; `literary_findings = 563`. Claims are bounded to their stated B0001 through B0118 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 39 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 567`; `revisions = 42`; `predictions = 7`; `AV_reviews = 66`; `literary_findings = 567`. Claims are bounded to their stated B0001 through B0119 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 40 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1596,3 +1596,26 @@ Owner and A/B/C locator key: [B0118](../02%20Readings/T7S_B0118_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and the a cappella/shared live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0118_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, terminal song or cured anxiety, specialist or monograph promotion.
+
+## B0119 middle-school formation, aspiration chain and safety limit
+
+Owner and A/B/C locator key: [B0119](../02%20Readings/T7S_B0119_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.21. B0081/B0035/B0041/B0108 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0119-001` | `BOUNDED_INFERENCE`; D1; high | The four's rehearsal gap is reciprocal leader-seeking rather than Madoka's isolated technical failure; Sui/Rona demonstrate a center and Madoka becomes the nearer group reference. | A:P30–49; B:P31–77; `KNOW-0198`–`0201`. No permanent leader appointment or full choreography metric. |
+| `CL-B0119-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Nicole → Rona → Madoka is a chain of usable aspiration, not a copying of identities; Rona's surprise shows insecure performers can still become meaningful models. | B:P47–53,62–77; C:P18–31; `THREAD-0006`. No stable self-confidence or endorsement of surface imitation as universal practice. |
+| `CL-B0119-003` | `BOUNDED_INFERENCE`; D1; moderate-high | The live is locally valued despite admitted errors; Coney's age-segment aside and Sawara's surprise substitution leave production/consent conditions unresolved. | B:P81–89; C:P1–15. Full stream, audience segment, role authorization and platform terms uninspected; no sexual-audience claim. |
+| `CL-B0119-004` | `BOUNDED_INFERENCE`; D1; high for unresolved safety | Saori repeatedly reports bodily injury while continuing rehearsal/live; peers' snack break and her no-broken-rib joke do not establish fitness to work. | A:P5–23; B:P1–29; C:P1–14; `THREAD-0022`. No fracture diagnosis or claim that the live caused one. |
+
+### AV-0066 — four-person rehearsal and unreviewed streamed live
+
+- Questions/claims: whether selected stills/native state prove dance alignment, Saori injury severity, exact performed live, audience demographic, substitution consent or Nicole/Rona/Madoka identity sameness; `CL-B0119-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for peer diagnosis, injury and reported live outcome.
+- Selection: Madoka `adv_chara_121_01_01`; Makoto `adv_chara_144_02_01`; Saori `adv_chara_145_01_02`; Kajika `adv_chara_013_01_01`; Rona `adv_chara_005_01_01`; Sui `adv_chara_009_03_05`. All 184 native pages and twenty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.21 binds six media receipts.
+- Observed: distinct selected bodies bind the four juniors and two older helpers; Madoka's static French horn is a prop, not evidence that she plays it in this live.
+- Native occurrence: command-only A:P0–1,55; B:P0,17–18,29–30,34–35,59,63–65,78–80,85–86,89; C:P0,36–37. B:P17–35 brackets older-peer visit/demonstration; B:P63–80 brackets the four's retry; C begins after the live rather than presenting an inspectable concert. Effects do not measure performance, pain or viewership.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and the streamed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0119_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, permanent unit, clinical clearance, specialist or monograph promotion.

@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.19"
+version: "11.20"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 91 complete i-n-g primary documents / T7S_B0080–T7S_B0118; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 94 complete i-n-g primary documents / T7S_B0080–T7S_B0119; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 197`; `directional_relationship_states = 386`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0118, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 202`; `directional_relationship_states = 394`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0119, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2210,3 +2210,41 @@ The [B0118](../02%20Readings/T7S_B0118_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0386` | Tomoe → Player, **belonging question then independent action** | Asks if she may remain; later goes onstage before he can stop her and invokes his approval as one condition for co-lead. A:P19–35; B:P19–27; C:P34–54. Reciprocal `REL-0385`; she acts independently but still seeks authorization/recognition. |
 
 `T7S_B0118_CLOSE-20260926`: five actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, medical determination, readiness or monograph record.
+
+## B0119 middle-school live, Madoka's nearer leadership and Saori risk
+
+The [B0119](../02%20Readings/T7S_B0119_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.21, binds these updates. Existing Madoka `IDENTITY-0082`/`CHAR-0062`, Makoto `CHAR-0030`, Kajika `CHAR-0020`, Saori `CHAR-0038`, Rona `CHAR-0008`, Sui `CHAR-0014`, Sawara `CHAR-0019`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0062` / Madoka | Initially blames herself for four-person rehearsal gap, uses Rona/Sui's demonstration and becomes a locally recognized lead for Makoto/Saori, then admits errors after a warmly reported live and names Rona as her model. | A:P2–55; B:P31–89; C:P1–35. No formal leader role, permanent confidence, technical live verdict or transferred Nicole/Rona identity. |
+| `CHAR-0030` / Makoto | Rehearses with the four, initially seeks Player's attention, later says Madoka helped her overcome uncertainty and values having performed together. | A:P10–42; B:P20–28,70–74; C:P11–31. No changed boundary with Player or enduring unit leadership. |
+| `CHAR-0020` / Kajika | Encourages Madoka, thanks Rona/Sui, returns to group practice and values the live; later reports Sawara unexpectedly appeared in her place with matching clothing. | A:P4–46; B:P16–77; C:P6–12. Her knowledge does not establish who authorized the substitution or its exact effect. |
+| `CHAR-0038` / Saori | Reports rib-side pain after wall impact, then scratch/head injury, keeps rehearsing, credits Madoka's local lead and later says she fell in MC but no ribs broke. | A:P5–23; B:P1–29,70–77; C:P1–14. No medical diagnosis, clearance or safe persistence rule. |
+| `CHAR-0008` / Rona | Brings doughnuts and a break, demonstrates with Sui, admits her own stage fear and use of Nicole's image, later cries over juniors' progress and is surprised by Madoka's admiration. | B:P5–59; C:P15–35. A usable model is not identical copying or stable self-confidence. |
+| `CHAR-0014` / Sui | Co-demonstrates the missing center, names reciprocal watching and offers the group confidence/trust, then consoles Rona/Madoka after the live. | B:P5–59; C:P15–35. Local peer explanation is not formal choreography assessment or generalized psychology. |
+| `CHAR-0019` / Sawara | Is reported to have entered the stream in Kajika's place wearing matching clothes. | C:P6–8. No prior agreement, motive or production effect is shown. |
+| `CHAR-0003` / Coney | Intends/observes a four-middle-schooler stream, lets peers rather than managers diagnose rehearsal, notes a near model and vaguely remarks on audience appeal of age composition. | A:P28–55; B:P81–89; C:P1–14. Segment, marketing policy and full guardian/consent terms unspecified; no proof of sexualized audience. |
+| `CHAR-0001` / Player | Visits rehearsal, cannot identify the coordination defect, stops a long session, later praises the imperfect live and is surprised by Sawara's substitution. | A:P12–54; C:P1–14. No injury evaluation, technical live audit or substitution approval shown. |
+| `UNIT-0002` / Nanasta | Produces a streamed live by four minors, receives older-peer support and a local formation solution, but the reported event includes errors, injury/fall and surprise substitution. | A:P2–55; B:P1–89; C:P1–37. No lasting four-person unit, minor-work safety, platform, role-change or marketing governance established. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0198` | Four dancers and manager perceive an unresolved fit; Saori knows of pain after a fall; Madoka assumes she is the cause but Kajika disputes it. | A:P2–55. No isolated technical fault or medical assessment. |
+| `KNOW-0199` | Saori reports more injuries; Rona/Sui see the mood and dance with the four after a break; participants feel improvement. | B:P1–41. Food, relief and one rehearsal do not establish health clearance or exact mechanics. |
+| `KNOW-0200` | Sui interprets mutual watching as centerlessness; Rona says she imagines Nicole when afraid and offers herself/Sui as examples. | B:P42–59. Peer explanation and memory, not controlled psychological finding or identity equivalence. |
+| `KNOW-0201` | Makoto/Saori attribute the four's improved retry to Madoka; Madoka attributes inspiration to Rona/Sui; Coney sees a nearer model and imagines vague age-group market appeal. | B:P60–89. No formal appointment or specified audience segment. |
+| `KNOW-0202` | Post-live participants report warm overall result plus errors, MC fall and Sawara substitution; Rona sees smiles and Madoka says Rona inspired her. | C:P1–37. Full stream, metrics, injury and role permissions uninspected. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0387` | Rona → Madoka, **fear-disclosing near model** | Shows dance, describes Nicole as confidence image and later receives Madoka's admiration. B:P31–59; C:P15–27. Reciprocal `REL-0388`; not an identity transfer. |
+| `REL-0388` | Madoka → Rona, **chosen exemplar** | Uses Rona's advice and later says she wanted to dance like her. B:P62–77; C:P21–27. Reciprocal `REL-0387`; no permanent role imitation mandate. |
+| `REL-0389` | Madoka → Makoto, **emergent local lead** | Helps Makoto move through uncertainty in the four's retry. B:P60–74. Reciprocal `REL-0390`; no formal leadership. |
+| `REL-0390` | Makoto → Madoka, **specific recognition** | Says Madoka, not only the older peers, made her able to continue. B:P70–74. Reciprocal `REL-0389`; not proof all future fear gone. |
+| `REL-0391` | Madoka → Saori, **emergent local lead** | Serves as Saori's immediate reference in the successful retry. B:P60–74. Reciprocal `REL-0392`; not injury protection. |
+| `REL-0392` | Saori → Madoka, **named gratitude amid injury** | Says Madoka drew them forward while reporting continued physical mishaps elsewhere. B:P70–74; C:P1–14. Reciprocal `REL-0391`; no clinical clearance. |
+| `REL-0393` | Kajika → Madoka, **anti-self-blame care** | Denies Madoka alone caused the gap and urges another day/try. A:P43–46; B:P60–77. Reciprocal `REL-0394`; no permanent unit role. |
+| `REL-0394` | Madoka → Kajika, **shared effort and thanks** | Receives Kajika's reassurance, works with the four and values the completed live. A:P43–49; B:P60–77; C:P1–12. Reciprocal `REL-0393`; no full outcome audit. |
+
+`T7S_B0119_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, injury diagnosis, readiness or monograph record.
