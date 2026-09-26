@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.35"
+version: "11.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 139 complete i-n-g primary documents / T7S_B0080–T7S_B0134; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 142 complete i-n-g primary documents / T7S_B0080–T7S_B0135; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 512`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 533`; `last_closed_block = T7S_B0134`. The admitted horizon contains 374 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 139 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 518`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 543`; `last_closed_block = T7S_B0135`. The admitted horizon contains 377 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 142 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1722,3 +1722,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.36. [B0134](../02%20Readings/
 | `EDGE-0540` | `FAILED_MECHANISM_TO_FURTHER_STUDY` | Shisara wants another try and likes her present self in `EV-B0134-007`; no later comedy result is shown. |
 
 `T7S_B0134_CLOSE-20260926`: seven chapter events and eleven bounded edges; no new world, thread, permanent duo unit, technical root-cause finding, measured reception or performed-audio judgment.
+
+## B0135 Jedah's bon-dance difficulty and reciprocal teaching
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.37. [B0135](../02%20Readings/T7S_B0135_DEEP_READING.md) owns the A/B/C locator key. B0132/B0133 and Jedah's earlier chosen-family state are bounded comparisons, not total fictional order. Actor descriptions of bon dance and nationality/rhythm are not treated as independent cultural or musicological authority.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0135-001` | Player authorizes Hime/Manon/Tasha/Shirayuki/Jedah bon-dance job with Hime/Jedah to support younger members; Jedah accepts proposed `やぐら` lead. | A:P0–42; `KNOW-0288`; `REL-0499`–`0506`. Plan, not completed event or full staffing audit. |
+| `EV-B0135-002` | Jedah cannot parse Hime's changing rhythm syllables; Tasha learns readily despite Player's nationality speculation. | B:P1–25; `KNOW-0289`. No universal nationality/taiko/cognition law. |
+| `EV-B0135-003` | After late practice and stopping, Jedah apologizes and withdraws; Player/Hime admit they presumed ease and missed struggle. | B:P28–40; C:P1–9; `KNOW-0290`. Withdrawal is real then, not an event result. |
+| `EV-B0135-004` | Younger members pursue Jedah, who privately views sister's photo and wants to show the dance at home despite continuing difficulty. | C:P10–33; `KNOW-0291`. Sister's direct response and later return unknown. |
+| `EV-B0135-005` | Manon/Tasha/Shirayuki teach via sung rhythm, moonward hand and swaying analogy; Jedah laughs and asks to see more. | C:P34–51; `KNOW-0292`. Renewed practice, not measured mastery. |
+| `EV-B0135-006` | Hime obtains Jedah's yukata through a shopping-district contact; group prepares to leave, and Jedah promises future Holocon footage to absent Player. | C:P52–78; `KNOW-0293`. Public dance, audience response and video not shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0541` | `ABSENT_MANAGER_TO_SCOPED_ESCORT` | Player's conflicting job in `EV-B0135-001` yields Hime/Jedah support condition; no full event-safety plan documented. |
+| `EDGE-0542` | `PEER_CONFIDENCE_TO_JEDAH_LEAD` | Hime and younger peers invite Jedah onto `やぐら` in `EV-B0135-001`; endorsement does not prove competence. |
+| `EDGE-0543` | `UNSTABLE_SYLLABLES_TO_PRACTICE_DIFFICULTY` | Hime's changing instruction and Jedah's beat parsing in `EV-B0135-002` block easy uptake; exact musical cause unverified. |
+| `EDGE-0544` | `REPUTATION_ASSUMPTION_TO_MISSED_SUPPORT` | Hime/Player expect Jedah's usual quick learning, then admit in `EV-B0135-003` they missed her struggle. |
+| `EDGE-0545` | `REPEATED_STOP_TO_WITHDRAWAL` | Jedah's late incomplete practice in `EV-B0135-003` precedes stated withdrawal, not a permanent impossibility. |
+| `EDGE-0546` | `SISTER_WISH_TO_CONTINUED_PRIVATE_PRACTICE` | Private motive in `EV-B0135-004` helps explain practice despite withdrawal; no future demonstration proven. |
+| `EDGE-0547` | `YOUNGER_PEERS_TO_EMBODIED_CUES` | Manon/Tasha/Shirayuki return care as teaching in `EV-B0135-005`; no adult expertise transfer claim. |
+| `EDGE-0548` | `EMBODIED_CUES_TO_RENEWED_ENGAGEMENT` | Jedah laughs and asks to see more in `EV-B0135-005`; mastery/public outcome remains open. |
+| `EDGE-0549` | `HIME_MATERIAL_GIFT_TO_WELCOME` | Yukata from Hime's local contact in `EV-B0135-006` is a practical welcoming act, not evidence a dance occurred. |
+| `EDGE-0550` | `PRE_EVENT_PROMISE_WITHOUT_RECORDING` | Group departure/Holocon promise in `EV-B0135-006` stops before show or actual footage. |
+
+`T7S_B0135_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, completed festival show, universal rhythm rule or actual recording.

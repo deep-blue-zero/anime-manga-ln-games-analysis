@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.35"
+version: "11.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 139 complete i-n-g primary documents / T7S_B0080–T7S_B0134; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 142 complete i-n-g primary documents / T7S_B0080–T7S_B0135; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 629`; `revisions = 42`; `predictions = 7`; `AV_reviews = 81`; `literary_findings = 629`. Claims are bounded to their stated B0001 through B0134 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 55 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 633`; `revisions = 42`; `predictions = 7`; `AV_reviews = 82`; `literary_findings = 633`. Claims are bounded to their stated B0001 through B0135 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 56 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1966,3 +1966,26 @@ Owner and A/B/C locator key: [B0134](../02%20Readings/T7S_B0134_DEEP_READING.md)
 - Outcome: `REVIEWED` for five selected static composites and all native page-state segmentation. One hundred eleven dialogue-associated voice pages plus title cues, BGM/SFX, live song and audience delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0134_CLOSE-20260926`: four bounded claims and one AV review; no lasting `ぼっちーず` unit, medical cure, technical-cause or crowd-metric verdict, specialist or monograph promotion.
+
+## B0135 pedagogy mismatch, reciprocal care and pre-event boundary
+
+Owner and A/B/C locator key: [B0135](../02%20Readings/T7S_B0135_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.37. B0132/B0133 and Jedah's earlier chosen-family state are bounded comparisons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0135-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Jedah's rhythm difficulty is a local teaching/uptake mismatch, not a verified national or intellectual incapacity: Hime varies syllables, Tasha counters the nationality hypothesis and younger peers provide bodily cues. | B:P1–35; C:P34–51. No universal music-learning law. |
+| `CL-B0135-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Adults' admiration of Jedah hides need for help; younger members reverse the usual care direction and Hime supplies material welcome, without proving full supervision or final proficiency. | A:P23–40; B:P11–40; C:P5–16,34–66. Event not witnessed. |
+| `CL-B0135-003` | `BOUNDED_INFERENCE`; D1; high for limit | Jedah's private hope to show her sister helps explain continued practice after withdrawal, but no sister reception, home demonstration or Holocon video occurs. | C:P21–33,67–78. Private motive not automatically known by peers. |
+| `CL-B0135-004` | `BOUNDED_INFERENCE`; D1; high for limit | Yukata and group declaration evidence preparation and renewed intention, not a completed festival dance or demonstrated technical success. | C:P52–78. Ending stops before event. |
+
+### AV-0082 — rehearsal sprites and pre-event yukata
+
+- Questions/claims: whether native visuals establish dance mastery, public event, sister's photograph contents or promised video; `CL-B0135-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed rhythm/dance, audience and future-footage restrictions.
+- Selection: Jedah `adv_chara_137_01_02`, `137_02_05`; Hime `006_01_04`; Manon `132_01_02`; Tasha `135_01_02`; Shirayuki `148_01_03`. All 163 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.37 binds six media receipts.
+- Observed: Jedah shifts from school-style clothes to a pink floral yukata; helpers are identifiable in their ordinary static sprites. No full public dance, complete movement, sister photo, spectator or Holocon footage appears in the selected stills.
+- Native occurrence: command-only A:P14–15,42; B:P0,26–27,40; C:P0,3–4,19–20,25,50–51,77–78. These carry scene/subtitle transitions around withdrawal, private practice, new teaching and pre-event assembly.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred sixteen dialogue-associated voice pages plus title cues, BGM/SFX and actual dance music/timing remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0135_CLOSE-20260926`: four bounded claims and one AV review; no universal nationality/rhythm finding, accomplished public stage, video, specialist or monograph promotion.

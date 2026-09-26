@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.34"
+version: "1.35"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0134`.
-- Completed run blocks: **35/60**; completed run episodes: **99/174**.
-- Next: `T7S_B0135`, chapter `301070`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0135`.
+- Completed run blocks: **36/60**; completed run episodes: **102/174**.
+- Next: `T7S_B0136`, chapter `301080`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -71,7 +71,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0132` | `301040` | 浅見ミワコ | ミワコ・ロック・フェスティバル | `312202701 / 312202702 / 312202703` | CLOSED |
 | `T7S_B0133` | `301050` | ターシャ・ロマノフスキー | 迷走！憧れのジェーンシチナ | `312202801 / 312202802 / 312202803` | CLOSED |
 | `T7S_B0134` | `301060` | 川澄シサラ | スマイル・フォー・ユー | `312202901 / 312202902 / 312202903` | CLOSED |
-| `T7S_B0135` | `301070` | ジェダ・ダイヤモンド | ダンス・オン・ザ・ムーン | `312203001 / 312203002 / 312203003` | AUTHORIZED_UNREAD |
+| `T7S_B0135` | `301070` | ジェダ・ダイヤモンド | ダンス・オン・ザ・ムーン | `312203001 / 312203002 / 312203003` | CLOSED |
 | `T7S_B0136` | `301080` | 三森マツリ | 作戦名『山猫はもうぐっすり』 | `312203101 / 312203102 / 312203103` | AUTHORIZED_UNREAD |
 | `T7S_B0137` | `301090` | 前園リシュリ | ここはまだ道の途中 | `312203201 / 312203202 / 312203203` | AUTHORIZED_UNREAD |
 | `T7S_B0138` | `301100` | 夜舞サヲリ | 笑顔の壁 | `312203301 / 312203302 / 312203303` | AUTHORIZED_UNREAD |
@@ -246,3 +246,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0134 closeout receipt
 
 [T7S_B0134](../02%20Readings/T7S_B0134_DEEP_READING.md): A sound/lighting failure reveals Haru and Tomoe's improvised talk while Shisara stays silent; Tomoe's later MC practice prompts Shisara to choose a two-person comedy experiment, whose intended jokes initially fail but receive some encouragement and a favorable overall live report. All 174 pages, 145 text records and 29 command-only pages are reviewed; 5 exact static composites were inspected. Source-lock 12.36 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 111 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 35/60 blocks, 99/174 episodes; publication remains pending.
+
+## B0135 closeout receipt
+
+[T7S_B0135](../02%20Readings/T7S_B0135_DEEP_READING.md): Jedah accepts a bon-dance lead, withdraws after Hime's unstable rhythm teaching and her own repeated difficulty, then resumes practice through younger peers' embodied cues and Hime's yukata gift; the public event and promised Holocon recording remain unwitnessed. All 163 pages, 146 text records and 17 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.37 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 116 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 36/60 blocks, 102/174 episodes; publication remains pending.

@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.35"
+version: "11.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 139 complete i-n-g primary documents / T7S_B0080–T7S_B0134; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 142 complete i-n-g primary documents / T7S_B0080–T7S_B0135; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 287`; `directional_relationship_states = 498`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0134, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 293`; `directional_relationship_states = 506`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0135, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2764,3 +2764,39 @@ The [B0134](../02%20Readings/T7S_B0134_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0498` | Player → Shisara, **concerned authorization and broader praise** | Accepts locally despite worry and later reports overall crowd enjoyment. B:P41–47; C:P19–24,57–75. Reciprocal `REL-0497`; no standing unit approval or full reception audit. |
 
 `T7S_B0134_CLOSE-20260926`: seven actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new named permanent unit or demonstrated medical/performance-audio outcome.
+
+## B0135 Jedah and the younger teachers
+
+The [B0135](../02%20Readings/T7S_B0135_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.37, binds these updates. Existing Jedah `IDENTITY-0047`/`CHAR-0036`, Hime `IDENTITY-0009`/`CHAR-0009`, Manon `IDENTITY-0068`/`CHAR-0053`, Tasha `IDENTITY-0069`/`CHAR-0054`, Shirayuki `IDENTITY-0067`/`CHAR-0052`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. Jedah's unnamed sister remains a private referenced family member, not a new stable route in this case.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0036` / Jedah | Volunteers for an unfamiliar dance and proposed lead, struggles with Hime's rhythm instruction, withdraws, privately hopes to show her sister, accepts younger peers' cues and prepares in Hime's yukata. | A:P16–39; B:P4–40; C:P1–78. No measured mastery, public performance or delivered sister/Player recording. |
+| `CHAR-0009` / Hime | Advocates job, proposes Jedah for raised lead, teaches inconsistently, recognizes missed struggle and obtains a yukata through shopping-district connection. | A:P0–41; B:P3–39; C:P5–9,52–70. Her family-like phrase is relational, not legal kinship or sufficient staffing proof. |
+| `CHAR-0053` / Manon | Wants job, gives faulty ancestor explanation, reports Jedah's late stopping and then provides moonward-hand teaching. | A:P1–41; B:P11–39; C:P12–46. Care/enthusiasm do not certify event or mastery. |
+| `CHAR-0054` / Tasha | Frames festival in sweets/yukata terms, learns Hime's rhythm quickly, challenges adults' gloom and teaches sung drum syllables by imitation. | A:P3–41; B:P17–19; C:P10–42. Her ease counterexamples nationality speculation but is not a universal age-learning law. |
+| `CHAR-0052` / Shirayuki | Cites past hometown dance, encourages Jedah, wants her to enjoy it and teaches a swaying bodily analogy. | A:P5–41; B:P12–33; C:P13–48. No ethnographic authority or completed public dance inferred. |
+| `CHAR-0001` / Player | Authorizes with Hime/Jedah support while absent, speculates about nationality/rhythm, later admits presuming Jedah's competence and avoids interrupting peer teaching. | A:P23–41; B:P16–23; C:P5–9,49–73. His causal explanation and safety sufficiency remain unverified. |
+| `UNIT-0002` / Nanasta | Supplies an authorized bon-dance work group and available yukata; Hime later adds Jedah's garment through local contact. | A:P23–41; C:P52–78. The group departs before a witnessed show or formal new unit. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0288` | Player knows he cannot accompany, Hime/Jedah accept support role, younger members want job, and Jedah agrees to proposed platform lead. | A:P0–42. Exact event operation/guardianship not audited. |
+| `KNOW-0289` | Jedah feels lost in beat parsing; Hime finds her syllables hard to explain; Tasha reports quick uptake; Player speculates nationality and overanalysis. | B:P1–25. Competing local observations, not a national or musicological law. |
+| `KNOW-0290` | Hime/Player learn Jedah has struggled late and hear withdrawal; they acknowledge assuming usual ease. | B:P28–40; C:P1–9. No later stage result known. |
+| `KNOW-0291` | Jedah privately knows she wants to demonstrate for her sister and still practices; younger peers discover her pause but not necessarily the full private motive. | C:P21–33. Sister's response and future home visit unknown. |
+| `KNOW-0292` | Young peers show bodily/metaphoric cues; Jedah says she had perhaps thought too hard and asks for more, while Player observes without intervening. | C:P34–51. No quantified proficiency test. |
+| `KNOW-0293` | Player sees Hime-provided yukata and hears promise of footage; group says it is ready to depart. | C:P52–78. No actual dance, footage or audience response in source. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0499` | Hime → Jedah, **lead invitation, missed difficulty and material welcome** | Offers platform role, teaches imperfectly, regrets assumption and obtains special yukata. A:P28–39; B:P3–39; C:P5–9,52–66. Reciprocal `REL-0500`; no show result. |
+| `REL-0500` | Jedah → Hime, **trust, withdrawal and thanks** | Accepts lead/teaching, apologizes on withdrawing, then thanks her for garment and affirms family-like bond. A:P29–39; B:P36–40; C:P52–66. Reciprocal `REL-0499`; not legal family. |
+| `REL-0501` | Manon → Jedah, **encouragement and moon cue** | Wants her at event, pursues her and shows upward-hand move. A:P32–35; C:P12–15,26–44. Reciprocal `REL-0502`; no proof of mastery. |
+| `REL-0502` | Jedah → Manon, **learner receiving care** | Initially accepts praise, later follows child-led coaching and requests more. A:P32–39; C:P26–48. Reciprocal `REL-0501`; no completed event. |
+| `REL-0503` | Tasha → Jedah, **embodied rhythm teacher** | Counters discouragement, sings beat and invites imitation. B:P17–19; C:P10–14,34–42. Reciprocal `REL-0504`; no universal age pedagogy. |
+| `REL-0504` | Jedah → Tasha, **temporary reversal of expertise** | Tries Tasha's syllables and learns by observing younger peer. C:P34–48. Reciprocal `REL-0503`; no incompetence identity. |
+| `REL-0505` | Shirayuki → Jedah, **return of care via bodily analogy** | Wants Jedah to enjoy dance and demonstrates swaying, naming a familiar person for cue. A:P33–35; C:P13–16,38–48. Reciprocal `REL-0506`; local analogy not universal rule. |
+| `REL-0506` | Jedah → Shirayuki, **receptive mentor/learner** | Hears encouragement and laughs at/asks for more of the demonstration. C:P34–48. Reciprocal `REL-0505`; performance unshown. |
+
+`T7S_B0135_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no sister-response, legal family state, actual video or public bon-dance result.
