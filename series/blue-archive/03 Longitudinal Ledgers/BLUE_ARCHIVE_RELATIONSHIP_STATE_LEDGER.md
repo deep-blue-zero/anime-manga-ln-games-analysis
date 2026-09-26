@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -633,3 +633,7 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **RIO ↔ YUUKA/NOA/HIMARI/ALICE:** Rio leaves a resignation declaration and apology, then is absent. Yuuka objects that apology is insufficient; Himari handles facility closure. The text does not show Rio's reconciliation with any of them or a completed adjudication.
 - **NEL ↔ TOKI/C&C:** Nel objects to the former opponent attending her discharge party and remains angry about injury, then reluctantly frames Toki as carrying out orders. Asuna welcomes Toki; social inclusion begins, but forgiveness/formal role status remain unproved.
 - **SENSEI ↔ C&C/CLUB:** invited to the celebration and later club play. One C&C two-option branch converges; no composite personality inference or sole-author rescue credit.
+
+## MAIN V002 C002 checkpoint reconciliation — belonging is observed, not guaranteed
+
+The [C002 checkpoint `4](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) records Alice–club as a real reciprocal relationship before classification, through coercive separation and her own chosen return. It does not substitute for next-term recognition or residual safety work. Nel–Toki has an uneasy social opening, not full forgiveness/formal reassignment; Rio–Seminar ends in absence and an insufficient apology, not repaired trust.

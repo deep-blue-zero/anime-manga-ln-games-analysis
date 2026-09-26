@@ -3,16 +3,16 @@ series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
 scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_PLUS_V002_C002_E025
 generation: V1
-version: "1.47"
+version: "1.48"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001 through checkpoints, plus BA:main:002:002:001-025; side-source classes remain unreviewed; mandatory V002 C002 checkpoint pending; subsequent main unit unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 through checkpoints; 87/310 main units analyzed; side-source classes unreviewed; BA:main:003:001:001 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
-current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md"
+current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md"
 next_unopened_main_unit: BA:main:003:001:001
 ---
 
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:001:001
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V002_C002_E025` provisional boundary, inheriting the `MAIN_V002_C001` checkpoint pending mandatory C002 synthesis:
+This index answers four questions at the canonical `MAIN_V002_C002` checkpoint boundary:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -62,7 +62,7 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 All rows inherit:
 
 - analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020 and V002 C002 E001-E025;
-- current checkpoint: `MAIN_V002_C001`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
+- current checkpoint: `MAIN_V002_C002`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
 - main-story coverage: `87 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
@@ -690,3 +690,7 @@ Routing: [V002 C002 E024 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_
 The narrator says collective action resolved the immediate Eridu crisis that might have threatened Millennium/Kivotos. Himari says she will close Eridu facilities and that, while the threat at that time was prevented, underlying issues remain unsolved. Rio announces resignation, disappears and leaves a short “sorry” message; `scene:002:u:0010` is Noa-labeled but Yuuka-voiced, so exact outrage attribution is cautioned. Nel is present at a discharge celebration after hospitalization, not necessarily medically unrestricted. Toki attends after Rio's disappearance; Nel objects to the former opponent, then grudgingly contextualizes her as following orders. No formal C&C reassignment, forgiveness or Rio-order justification is proved. The club resumes a new-game study session and Alice directly speaks to Sensei and asks to sit together, confirming external social return after E024. Alice's `u:0081` question about striking an unaggressive monster is secure, but `u:0079-0080`/`0082-0084` Alice labels voice Momoi-like instruction/reaction. Other C&C and Seminar label flips stay quarantined. Thirteen Sensei choice groups include one two-option branch (`scene:002:choice:001`), all others singleton; `u:0093` is a video marker, not analyzed footage. Readiness remains **21 `PARTIAL_MODEL` / 26 `UNMODELED`** across 47, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The C002 checkpoint is mandatory before subsequent narrative access.
 
 Routing: [V002 C002 E025 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E025_DEEP_READING.md) → `BA:main:002:002:025` canonical scenes 1–2, thirteen choice groups and video placeholder `scene:002:u:0093`. Next unopened main unit is `BA:main:003:001:001` but checkpoint first. Coverage is **87 / 310**.
+
+## 57. MAIN V002 C002 checkpoint readiness reconciliation
+
+The [canonical C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) closes the twenty-five-unit chapter. Alice's existing `PARTIAL_MODEL` includes both in-dive choice and externally observed return, but no general technical safety, full origin/memory resolution or broad cross-context stability. Momoi/Midori/Yuzu's partials gain linked crisis evidence. Rio, Toki, Himari, Nel and Key stay `UNMODELED` despite salient scenes because ordinary/private contrasts, independent threat audits and clean attribution are insufficient. Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED`** across 47; none operational/validated; no standalone model, frozen prediction or scored retrospective validation (`NO_DIAGNOSTIC_OPPORTUNITY`). Complete-Pavane-arc contextual side-source backfill is **DEFER** pending a verified subject route and explicit question. The next unopened main unit is `BA:main:003:001:001`.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -767,3 +767,7 @@ Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operationa
 - **Momoi/Midori/Yuzu/Sensei:** return to a new-game study session, genre pivot and team play. The new game and lasting school security are not completed. Sensei's choice-branch and inward lines remain bounded.
 
 Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Mandatory C002 checkpoint synthesis is next.
+
+## MAIN V002 C002 checkpoint reconciliation — state, not a safety all-clear
+
+The canonical [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the closed twenty-five-unit chapter. Alice's narrow partial model gains a crisis sequence (device-linked harm, coerced departure, in-dive self-choice, external club return) but not global weapon safety or stable cross-context behavior. Momoi/Midori/Yuzu retain narrow club/pressure models; Rio, Toki, Himari, Nel and Key remain `UNMODELED`. E025 narrator/Himari distinguish immediate crisis prevention from ongoing system work. Totals **21 / 26 across 47**, none operational/validated; no retroactive prediction validation.

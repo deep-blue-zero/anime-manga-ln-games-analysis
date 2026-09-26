@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -787,3 +787,7 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Work resumes:** the club moves from `TSC2`'s award and Alice rescue to studying a different game. Creative belonging appears as practice together, not merely prize possession or a forever-guaranteed room.
 - **Chosen hero becomes ordinary questioner:** Alice is externally back and asks whether game mechanics justify attacking an innocent monster. The scene develops E024's chosen hero role as inquiry/care, not as a fixed always-peaceful trait.
 - **Aftercare versus accountability:** Nel's discharge party and Toki's uneasy welcome are social continuation; Rio's apology/absence and Himari's closure task keep injury and institutional responsibility from being erased by the epilogue.
+
+## MAIN V002 C002 checkpoint reconciliation — role, play and material work
+
+The [C002 checkpoint ``3, 6](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) binds the game-language arc to its counterweight: Alice can choose `勇者` rather than assigned `王女`, but the rescue also needs power cuts, hacking, combat, risk-bearing and later facilities work. E025's new game study and monster-ethics question make the continuing adventure an ordinary shared practice, not a permanent safety or status guarantee. `BA-C019` and new chapter-local `BA-C020` remain separate.

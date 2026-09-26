@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -622,3 +622,7 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Seminar:** Rio announces resignation, disappears and leaves a bare apology. Yuuka reacts and Noa finds the message; there is no formal succession, budget audit, restitution, discipline or reconciliation on page.
 - **C&C:** Nel has been discharged from hospital, and “all C&C” celebration includes Toki after Rio's disappearance. Her attendance is social evidence, not proof of formal assignment or command restructuring; Nel's injury is not erased.
 - **Game Development Department:** members continue a study session for a newly proposed genre with Alice and Sensei. The C001 prize/temporary reprieve remains the last explicit council standing; no finished game or permanent institutional security follows from this scene.
+
+## MAIN V002 C002 checkpoint reconciliation — plural capacity and unfinished governance
+
+The [C002 checkpoint ``3, 6, 9](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) separates immediate Eridu crisis prevention from dismantling, budget inquiry, Rio succession/restitution and Alice's durable school security. Seminar, C&C, Veritas, Engineering, Himari/Eimi, Sensei and the club all contribute distinct capacities; no one institution's success closes the rest. Contextual side-source backfill at this complete arc boundary is **DEFER** pending a verified route/question.

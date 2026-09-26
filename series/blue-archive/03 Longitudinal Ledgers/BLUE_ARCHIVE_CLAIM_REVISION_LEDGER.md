@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
-checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E025 active provisional; mandatory C002 checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+current_sequential_boundary: MAIN_V002_C002 checkpoint canonical; V003 C001 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1540,3 +1540,16 @@ No new claim ID, standalone model, frozen prediction or side-source admission. K
 - **BA-C009, C012–C015, C017–C018:** no direct global test.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Rio accountability, Eridu technical closure and durable club security stay OPEN; contextual backfill **DEFER** pending arc boundary.
+
+## MAIN V002 C002 checkpoint adjudication
+
+- **BA-C001/C016 — STRENGTHEN WITH RISK DUTY:** Alice's choice is heard and coalition alternatives avert the immediate forced binary; continuing safety/accountability remains required.
+- **BA-C002–C004/C007/C010–C011 — REVISE/NARROW:** Sensei's bounded contribution, Rio's coercive adult-duty claim and the distributed rescue prevent sole-savior or blanket custody conclusions.
+- **BA-C005–C006 — PRESERVE REJECTED:** no omnipotent Sensei or inherently incapable students. E021 Rio's Sensei-only authorship is explicitly corrected.
+- **BA-C008 — STRENGTHEN FIREWALL:** inward thought, branch choices and label corruption limit speech/persona inference.
+- **BA-C009 — REVISE TO BOUNDED NEW EVIDENCE:** Key is a provisional distinct speaker with local action; architecture, persistence and ontology are open.
+- **BA-C019 — STRENGTHEN/EXTEND:** creative value, recognition and actual belonging remain non-substitutable, now also against safety classification.
+- **BA-C020 — OPEN NEW, STRONG CHAPTER-LOCAL:** a technical/function classification can warrant investigation but cannot by itself determine a speaking person's chosen identity or justify an exclusive lethal remedy; Alice's first-person choice and E025 external return matter without proving her power harmless. [Checkpoint `7](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) defines scope and future test.
+- **BA-C012–C015/C017–C018 — NO DIRECT GLOBAL TEST.**
+
+No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Complete-arc contextual side-source backfill decision: **DEFER**, pending a verified route and specific question. V003 C001 E001 remains unopened.

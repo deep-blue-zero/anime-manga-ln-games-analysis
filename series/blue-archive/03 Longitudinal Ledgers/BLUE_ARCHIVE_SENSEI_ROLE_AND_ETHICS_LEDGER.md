@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -716,3 +716,7 @@ The dive yields Alice's mental-space response and grave guilt/self-erasure wish 
 ## V002 C002 E025 delta — participating in an unfinished peace
 
 Sensei thanks Himari for taking responsibility, attends Nel's discharge celebration by invitation, and joins the club's new-game study/play after Alice asks them beside her. Scene-2 `choice:001` has two alternatives that reconverge on Nel's embarrassment, not two cumulative comments; `choice:005` tries a reconciliation proverb without proving Nel forgives Toki or her injury disappears. `u:0070` is inward. The narrator credits “everyone” for averting the immediate crisis, while Himari says underlying work remains and Rio leaves accountability incomplete. Thus Sensei's ethical role is participant/supporter amid distributed student and institutional labor, not sole victor, adjudicator or guarantor of future safety. Thirteen choice groups total, one two-option branch; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## MAIN V002 C002 checkpoint reconciliation — agency with ongoing duty
+
+The [C002 checkpoint ``3, 7](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) retains E022's overlooked-helper question as locally productive, E024's Alice-led identity decision as ethically central, and E025's “everyone” resolution as distributed. The serious hazard, Momoi/Nel injuries and remaining Eridu work prevent a simplistic choice-versus-safety binary. Sensei's `心の声` never becomes audible rescue authorship or an all-safe promise. No prospective model was frozen (`NO_DIAGNOSTIC_OPPORTUNITY`).

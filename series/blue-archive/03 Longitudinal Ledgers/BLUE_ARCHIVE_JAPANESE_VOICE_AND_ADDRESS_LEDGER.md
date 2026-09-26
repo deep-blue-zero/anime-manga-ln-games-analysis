@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025; MAIN_V002_C001 remains latest canonical checkpoint pending mandatory C002 synthesis; subsequent main unit unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1043,3 +1043,7 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Himari `あの時の脅威はどうにか防ぐ事ができましたが、まだ何も解決していません` splits immediate prevention from continuing work; `責任を持って閉鎖する` is an undertaking. Rio's `ごめんなさい` is message text read by Yuuka, not completed restitution.
 - Nel `上から命令された事をやる` contextualizes Toki without proving exoneration. Alice `何もしていないのに……アリスが先に殴るんですか` is a secure game-mechanic question, not generalized pacifism.
 - **Quarantine:** scene 2 `u:0010` Noa label voices Yuuka-like outrage; `u:0033-0034` costume-role joke appears swapped; `u:0050` Asuna label voices Nel-like protest; `u:0052-0053` Toki/Akane invitation/thanks invert; `u:0061`/`0064-0066` Nel/Akane labels clash with names/register; `u:0075` Momoi label sounds another speaker; `u:0079-0080`/`0082-0084` Alice labels voice coaching/reaction unlike Alice's `u:0078`/`0081`/`0086`. Sensei `u:0070` inward. Scene 2 `u:0001` absent; `u:0093` video marker not dialogue. Thirteen choice groups, scene-2 `choice:001` two-option branch, other twelve singleton.
+
+## MAIN V002 C002 checkpoint reconciliation — wording controls
+
+The [C002 checkpoint `5](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the chapter-level voice firewall. Keep `AL-1S`, `王女`, `鍵` and Alice's `アリス`/`勇者` self-choice in their distinct speaker/evidence domains. The E024 and E025 label clusters, inward Sensei speech, branch alternatives and untranscribed video cannot be silently regularized. Himari's `まだ何も解決していません` prevents E025's happy ending from becoming a technical all-clear.
