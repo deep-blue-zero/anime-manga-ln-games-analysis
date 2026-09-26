@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -382,3 +382,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI ↔ CLUB/ALICE/YUZU/SENSEI:** Momoi offers a card, protests save deletion, secures the data carrier and allocates Yuzu to protect Sensei while she and Alice cover the rear. Her extraction plan values both the claimed prize file and group survival; completion is unobserved.
 - **YUZU ↔ ALICE/SENSEI:** Yuzu asks if `AL-1S` is Alice, connects the cable, and is assigned to protect Sensei. A mislabeled reply at `u:0047` cannot prove exactly when or how Yuzu was told the body-mark story.
 - **GROUP ↔ ROBOTS:** a robot appears, emits opaque speech and fires after a loud moment; why it arrived and whether it is angry are unverified. Escape has begun, not concluded.
+
+## V002 C001 E012 relationship delta — people before prize, contested coalition
+
+- **MOMOI ↔ MIDORI/ALICE/YUZU:** Momoi explicitly prioritizes their safety over even the club's survival when C&C security is disclosed. Midori's shared-place appeal changes the decision conditions, and Momoi joins a limited retrieval plan. This is negotiation, not proof risk was removed.
+- **MIDORI ↔ CLUB/ALICE/YUZU:** Midori names the room as a place for everyone together, giving Alice and Yuzu explicit standing in her reason to act. This broadens her earlier concern beyond output metrics.
+- **ALICE ↔ PARTY:** Alice offers companionship as the strongest RPG power and supports the alliance. The analogy expresses an attachment; it does not demonstrate tactical sufficiency or solve her `AL-1S` history.
+- **VERITAS ↔ GAME DEVELOPMENT DEPARTMENT:** shared need for Mirror creates a coalition, but Veritas seeks return of its confiscated tool and the club seeks file access. Goals overlap without being identical or lawful by default.
+- **YUUKA ↔ AKANE/C&C:** Yuuka commissions store protection on a tip she attributes to Himari; Akane accepts a time-bounded defense and distinguishes Nel's destructive specialty from guarding. The coming conflict has two student sides with articulated responsibilities.
+- **SENSEI ↔ ENGINEERING CLUB:** Hare asks Sensei to recruit less-close specialists; Utaha accepts, while secure Hibiki/Kotori lines provide partial personal motives. No evidence Sensei controls engineers or approves every tactic. Late Alice-labeled engineer exchange is quarantined.

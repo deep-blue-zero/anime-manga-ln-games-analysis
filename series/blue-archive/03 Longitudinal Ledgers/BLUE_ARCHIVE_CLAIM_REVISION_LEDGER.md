@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E011 active provisional; E012 unopened
+current_sequential_boundary: MAIN_V002_C001_E012 active provisional; E013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1199,3 +1199,12 @@ No `BA-C019` is opened. The tactical sound-attraction and coordinate-to-factory 
 - **BA-C009–C018: PRESERVE / no direct global test** — `Divi:Sion`, robots and `G.Bible.exe` do not inherit Abydos/Kaiser provenance.
 
 No `BA-C019` is opened on terminal recognition or a filename alone. The terminal claims `G.Bible` inside and reports a completed transfer, but password-locked contents, origin, function and relation to Alice remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E012 claim transitions — protected place and contested means
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Midori says the clubroom is a shared place worth protecting and Momoi first refuses C&C danger for her companions, then joins a retrieve-and-escape coalition. Care, belonging, coercive risk and uncertain means coexist; the desired product does not prove an authorized or safe bypass.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is asked to introduce collaborators, while the students' technical, tactical and ethical choices remain differentiated. Yuuka/C&C represent a countervailing institutional duty, not one merged viewpoint.
+- **BA-C008: PRESSURE-TEST** — Sensei's two choice variants converge on helping ask Engineering Club, with no authored refusal or unilateral adult command.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium seizure and C&C security do not modify Abydos/Kaiser claims.
+
+No `BA-C019` is opened. Maki's original-file conclusion has specific metadata/IP reasons but does not reveal contents or prove the Mirror workaround. Yuuka attributes the tip to Himari, who does not speak here; the warning's motive and timing remain OPEN. Contextual backfill remains **DEFER**.

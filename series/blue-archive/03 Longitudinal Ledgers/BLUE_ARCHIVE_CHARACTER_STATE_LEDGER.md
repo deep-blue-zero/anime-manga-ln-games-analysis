@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -421,3 +421,14 @@ Material situated reconstruction evidence, no standalone rule or readiness promo
 - **Sensei:** present in the factory as a protected participant but has no action/choice line. Early strength/ammo/command praise is label-corrupt and cannot be attributed precisely.
 
 Material identity, resource and tactical context; no standalone model/readiness promotion (sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`) or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine `u:0003-0014`, `u:0041-0042`, `u:0047`, `u:0099-0101` for speaker-specific claims.
+
+## V002 C001 E012 delta — original-file appraisal and contested retrieval
+
+- **Momoi:** hears Hare's no-recovery assessment for her saves and Maki's original-file inference, then learns the password remains locked and C&C guards the proposed Mirror tool. She first refuses a C&C clash because Midori, Alice and Yuzu matter more than the club's output deadline, then accepts a retrieve-and-escape plan after Midori's belonging argument. No infiltration success is shown.
+- **Midori:** questions Mirror's danger and engineer risk; explicitly values the shabby clubroom as a shared place for all, particularly Alice and Yuzu, and elects to try despite danger. Her objection and agreement are context-specific, not a risk-blind global rule.
+- **Alice:** calls the joint pursuit a party/raid and identifies companions as the decisive RPG strength. This states relational commitment, not actual superiority over C&C or a solution to her origin question. Scene-5 `u:0048-0052` labels are not secure for an individual voice rule.
+- **Hare/Maki/Kotama:** specialists give a no-save-recovery finding, metadata-based original-file assessment, still-locked password and proposed Mirror bypass. Kotama names an interest in Sensei's phone messages, raising a distinct privacy concern. The tool's efficacy and lawful use remain open.
+- **Yuuka/Akane:** Yuuka commissions C&C to keep the coalition away from seized-goods storage until a promised time, using intelligence she attributes to Himari. Akane accepts and says Nel's absence may improve defense despite reducing overall force. Neither side's forecast is proven.
+- **Sensei/Utaha/Hibiki/Kotori:** Hare seeks Sensei's social introduction, Sensei's two choices converge, and engineers voluntarily agree for situated reasons. No new adult command or verified operation result.
+
+Hare, Maki, Kotama and Akane enter the coverage index on distinct direct role decisions as `UNMODELED`; no readiness promotion (sixteen `PARTIAL_MODEL`, eighteen `UNMODELED`) or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine E012 scene 1 `u:0026`, scene 3 `u:0010`, `u:0022`, and scene 5 `u:0048-0052` for precise speaker-specific claims.

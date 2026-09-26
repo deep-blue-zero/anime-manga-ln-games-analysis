@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -373,3 +373,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **`G.Bible`:** terminal catalog strings include `遊戯`, `人間、理解`, library 193 and disposal-data item 1. It claims `G.Bible` is inside, initiates transfer to Momoi's handheld memory card, reports deletion of existing data, and displays `<G.Bible.exe>` after completion. Contents and authorship remain unread; execution is password-blocked. Veritas unlock is only Midori's expectation.
 - **Resource consent:** Momoi provides storage but objects when told existing saves will be deleted; the system proceeds under its power countdown. Do not assume prior opt-in, independent file audit, or recovered saves.
 - **Security/escape:** a robot appears, emits opaque output and fires. Momoi allocates Yuzu to protect Sensei and herself/Alice to the rear, with Midori supporting. No safe exit, surviving carrier or prize-worthy product is shown.
+
+## V002 C001 E012 institutional delta — forensic claim and seized-goods security
+
+- **Veritas assessment:** Hare says Momoi's lost saves cannot be restored. Maki infers original `G.Bible` from dates, format, IP match and one prior transfer trace, yet cannot read the passworded file. Independent authorship, contents and utility remain unverified.
+- **Mirror:** Maki proposes `Optimus Mirror System` to copy the file while removing a security file; Veritas says Himari made the unique tool, which Yuuka confiscated. Proposal, claimed authorship and seizure are not proof of technical success, harmlessness, lawful use or transfer of ownership.
+- **Privacy/governance:** Kotama admits interest in Sensei's phone messages; Yuuka's rule against equipment with unlawful uses and Hare's minimized risk description conflict as appraisals. Do not neutralize the privacy implication by calling Mirror only a game-development instrument.
+- **Student council/C&C:** Mirror is said to be held in the council's seized-goods storage, guarded by C&C. Yuuka commissions Akane to prevent club access until a specified time, on a warning attributed to Himari. The exact plan and authority for an attempted retrieval remain open.
+- **Nel/defense:** Nel is away, confirmed by Akane, but her destructive specialty means her absence does not establish weaker store defense. The claimed “opening” is contested before combat.
+- **Coalition:** Veritas, game club and Engineering Club agree to cooperate, with Sensei recruited for a social link; Hare says preparations/operation have begun. No seizure, fight, file unlock or game result occurs in this unit.

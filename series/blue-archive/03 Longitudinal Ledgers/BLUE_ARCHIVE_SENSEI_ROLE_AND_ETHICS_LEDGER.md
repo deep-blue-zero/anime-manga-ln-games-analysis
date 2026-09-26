@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -549,3 +549,10 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Sensei is present after factory entry but has no secure speech, new choice or represented command. The early claim that Sensei's direction helped the team is in a role-flipped cluster and cannot ground a precise speaker or battle-tactic reconstruction.
 - Under renewed robot fire, Momoi assigns Yuzu to protect Sensei while Momoi/Alice cover the rear; Midori offers support. This is student-authored protection of a physically vulnerable adult, not evidence that Sensei is passive in general or that escape succeeds.
 - Alice's E010 protection promise remains open; the allocation is a plan, not proof of fulfilled safety. No new Sensei rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E012 delta — social broker amid a privacy-sensitive plan
+
+- Hare says Engineering Club's help is needed and asks Sensei to approach people not especially close to Veritas. Sensei's two choices (`私？` / `私にできることなら、任せて。`) converge; one is a question, the other affirmative willingness. The scene shows a bounded social-recruitment role, not a refusal option or adult command over club, Veritas and engineers.
+- Utaha agrees; Midori explicitly asks why established engineers would accept danger. Hibiki/Kotori give situated reasons in secure turns, while the late Alice-labeled exchange is inconsistent and excluded from precise relationship inference.
+- Kotama says she wanted to inspect Sensei's phone messages with Mirror. No actual phone access is shown, nor Sensei consent to it; Sensei's cooperation with an operation must not be read as blanket consent to surveillance or bypassing confiscation safeguards.
+- Yuuka independently commissions C&C to guard the seized store. The adult's assistance is one part of a student-institution conflict, with no verified safe plan or outcome. Sensei remains `PARTIAL_MODEL`; no frozen prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).

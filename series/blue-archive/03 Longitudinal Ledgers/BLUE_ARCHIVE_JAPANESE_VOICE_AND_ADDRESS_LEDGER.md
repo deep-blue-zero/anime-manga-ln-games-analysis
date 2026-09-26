@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -781,3 +781,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `コード：遊戯`, `人間、理解、リファレンス`, `ライブラリ登録ナンバー193`, `廃棄対象データ第1号` are displayed strings with no explained ontology; Momoi's `宝物` conflicts with `廃棄` as values, not an audited file description.
 - `私の中にG.Bibleがあります`, `転送完了`, `<G.Bible.exe>` and the password prompt distinguish system claim, file transfer and unreadable content. The system's `残念、削除` reports save-data loss despite Momoi's plea.
 - Robot `■■■` remains opaque; Yuzu's anger appraisal is not translation. **Attribution quarantine:** `u:0003-0014`, `u:0041-0042`, `u:0047`, `u:0099-0101` are role-flipped/impossible for precise voice rules. No Sensei choice group.
+
+## V002 C001 E012 delta — `鏡`, belonging and opposed promises
+
+- Maki's `オリジナル` is a reasoned conclusion from dates, format, transfer trace and IP match, not an opened `G.Bible`. `多分ほぼ不可能` qualifies direct password analysis; `鏡` names the proposed `Optimus Mirror System` workaround, not a completed unlock.
+- `不法な用途の機器の所持は禁止` is Yuuka's confiscation rule as Maki reports it. Hare's `危険` denial and Kotama's wish to inspect Sensei's messages are sharply different risk framings; neither licenses a blanket benign-tool gloss.
+- Midori's `みんなで一緒にいるための、大切な場所` makes the room's relational value explicit. Momoi's `ミドリにアリス、ユズの方が圧倒的に大事` qualifies any simplistic club-before-people reading.
+- Alice's `一緒にいる、仲間` names the RPG-to-actual-companionship analogy. It supplies her own vocabulary for solidarity, not evidence of battle odds.
+- Akane distinguishes `守る` from Nel's `壊す`; absence may alter rather than simply weaken defense. Yuuka's `ヒマリだもの` attributes the warning to Himari but does not reveal her speech or reason.
+- Sensei `scene:005:choice:001` offers `私？` versus `私にできることなら、任せて。`; both converge. **Attribution quarantine:** scene 1 `u:0026`, scene 3 `u:0010`/`u:0022`, scene 5 `u:0048-0052` have role or response contradictions; do not silently repair them into voice exemplars.

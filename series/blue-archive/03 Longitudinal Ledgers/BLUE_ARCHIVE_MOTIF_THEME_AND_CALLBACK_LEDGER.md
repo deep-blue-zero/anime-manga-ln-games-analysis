@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -529,3 +529,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Access costs:** the terminal's automatic save deletion converts an apparently helpful transfer into an unannounced sacrifice of Momoi's play history. A game archive costs another game archive; consent to the card is not consent to every overwrite.
 - **Discarded treasure:** cryptic `廃棄対象データ第1号` jars with Momoi's `宝物` rhetoric, recalling Yuuka's `ガラクタ`/Momoi's value conflict without proving the data's quality or origin.
 - **Party promise becomes escape allocation:** under robot fire, Momoi tasks Yuzu to protect Sensei and herself/Alice to hold the rear. E010's protective promises are not yet tested to a successful exit.
+
+## V002 C001 E012 motif / callback delta — mirror, home and rival protection
+
+- **Original yet still unread:** E011's filename-only hope gains Maki's metadata/IP-based original-file appraisal, but password security still withholds content. A provenance story is not the sought creative method.
+- **A mirror to reach a guide:** the rare `鏡` promises a technical bypass, while its confiscation and Kotama's phone-message rationale turn “access” into a question of privacy and permission as well as possibility.
+- **Game language to real companionship:** Alice's raid-party analogy becomes an explicit `仲間` claim; Midori calls the cramped leaking clubroom a place to be together. Play vocabulary now expresses belonging, while C&C danger keeps the metaphor from establishing combat power.
+- **Care on both sides of security:** Momoi fears for friends; Midori wants to preserve their common space; Yuuka hires C&C to defend seized goods. Protective rhetoric is distributed across opposing students, not a reliable truth or victory marker.
+- **Absent leader / present information:** Nel is away, but Akane says guarding may not suffer; Himari is absent from direct dialogue yet Yuuka attributes the warning to her. Absence does not mean causal irrelevance or known motive.
