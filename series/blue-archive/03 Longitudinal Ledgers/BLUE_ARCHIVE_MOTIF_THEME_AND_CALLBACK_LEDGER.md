@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
+checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -601,3 +601,7 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Utility becomes remembered play:** the judge recognizes an RPG's ability to revive first-game wonder and future possibility. This follows E018's Alice-as-player testimony and E019's public release, yet the jury's institutional criterion differs from the friends' intimate reception.
 - **Apology inside governance:** Yuuka retracts `ガラクタ` and thanks the club without nullifying results requirements. Care is an institutional revision plus procedural follow-up, not a magical permanent exemption.
 - **A second clock under the celebration:** the final 98% data-restoration/`Divi:Sion` text reopens Alice-adjacent uncertainty while the club celebrates. It is audience-facing stinger, not proof of recovered memory or a named speaker.
+
+## MAIN_V002_C001 checkpoint motif reconciliation
+
+The locked-secret sequence repeatedly exchanges access for a fresh limit until Bible's maxim returns the makers to labor and audience. Game fantasy is not mere escape: it gives Alice language, friends and a way to tell the creators what their work means, while also producing misreadings and risky action. Clubroom-home moves from shared play through combat-protection to provisional council extension. The special prize broadens `実用性` without making creative worth identical to ranked victory or permanent security. A separate 98%-restoration stinger interrupts celebration with audience-only uncertainty. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs.

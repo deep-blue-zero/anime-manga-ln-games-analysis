@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
+checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -453,3 +453,7 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI/MIDORI ↔ ALICE:** under imagined expulsion they offer room, bed and food; Yuzu warns of possible consequences. The offers make attachment concrete while exposing resource/legal limits. Scene-label corruption prevents clean attribution of every later celebratory phrase.
 - **YUUKA ↔ CLUB:** she interrupts their mistaken grief with congratulations, apologizes for `ガラクタ` and thanks them for remembered play. She remains the council's conditional administrator, directing later paperwork; apology does not erase adversarial institutional history.
 - **SENSEI ↔ ALICE:** the teacher's Schale thought and Alice's stated trust point toward an available relationship, but no relocation or accepted spoken contract occurs.
+
+## MAIN_V002_C001 checkpoint relationship reconciliation
+
+The club's shared work and room become a conditional home for Alice and Yuzu; the apparent ranked loss exposes their distinct separation risks before the special prize preserves co-presence for now. Yuuka changes from gatekeeper/opponent to apologetic conditional administrator, not an unrestricted ally. Nel's independent interest, non-pursuit and “see you again” remain charged/ambiguous, not friendship or romance. Sensei is a support possibility, but E020 Schale placement was internal and unacted. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs; do not transfer audience-only `Divi:Sion` text into the group's relationships.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
+checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -612,3 +612,7 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Momoi/Midori offer personal housing and food, while Yuzu warns of potential repercussions. Care exists under resource and permission limits; the adult's private fallback cannot substitute for the club's institutional home.
 - Yuuka then announces the special award and temporary clubroom/dissolution deferral. The actual outcome is produced by submitted student work, judges' exceptional recognition and a council decision, not an enacted Sensei rescue. Yuuka does not explicitly revisit her E015 prospective Schale complaint here.
 - Sensei remains `PARTIAL_MODEL`; this unit adds a conditional care intention but no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## MAIN_V002_C001 checkpoint Sensei/ethics reconciliation
+
+Sensei's student-requested help, bounded options, exposure to raid accountability, carrying offer and internal Schale refuge thought do not make them the product's author or sole rescuer. Nel's master-planner attribution is adversarial inference; E013 student/coalition planning stands. The final result comes from student work, a judge's exceptional recognition and Yuuka's conditional council decision. Preserve branch-conditioned tones and unheard thoughts separately. Sensei stays `PARTIAL_MODEL` with no operational rule or prospective test; Yuuka's Schale-complaint threat remains unresolved. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs this boundary.

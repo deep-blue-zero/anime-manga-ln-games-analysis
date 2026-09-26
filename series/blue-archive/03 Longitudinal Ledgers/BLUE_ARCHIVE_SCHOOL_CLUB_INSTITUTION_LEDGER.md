@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
+checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -447,3 +447,7 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Reception:** a scene-5 report gives 7,705 downloads/1,372 comments before the announcement, over 10,000 downloads after roughly 26 seconds and mixed sentiment classifications. Selected positive comments and reported buzz matter, but speaker labels and metric provenance limit precision and representativeness.
 - **Council standing:** Yuuka explicitly defers confiscation of the clubroom and dissolution until next term. She calls this `臨時の猶予`, not formal final recognition. Room-extension application and club-fund receipt processing remain to be done; neither permanent club security nor completed budget transfer follows.
 - **Residual oversight:** Yuuka apologizes for dismissing the machines and describes a changed personal appraisal. Earlier threatened week suspension/Schale complaint is not expressly adjudicated in this scene. `<Key>` and final `Divi:Sion`/`AL-1S` text remain unresolved and separate from council knowledge.
+
+## MAIN_V002_C001 checkpoint institutional reconciliation
+
+The Millennium results gate, Alice's voluntary-membership check, seized-tool security and C&C assignment are distinct institutional processes. The raid's tactical success does not legalize its means. `TSC2` receives an actual special prize rather than a ranked top-seven placing; Yuuka issues a **temporary** hold on room confiscation/dissolution until next term and calls for extension/fund processing. Earlier sanction/Schale-complaint threats, full damage repair and permanent status remain unadjudicated. `<Key>` and the final `Divi:Sion` text are not council findings. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) is the current chapter authority.

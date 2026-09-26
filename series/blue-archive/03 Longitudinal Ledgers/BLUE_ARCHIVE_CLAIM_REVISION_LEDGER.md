@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
-checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E020 active provisional; chapter checkpoint pending
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
+checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
+current_sequential_boundary: MAIN_V002_C001_E020 checkpoint canonical; C002 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1280,3 +1280,9 @@ No `BA-C019` is opened. Registration and web upload are observed, but prize, off
 - **BA-C009–C018: PRESERVE / no direct global test** — no Abydos/Kaiser mechanism is revised by this contest result.
 
 No `BA-C019` is opened by E020 alone. Official special award, provisional council hold and Yuuka apology are observed; permanent charter, next-term standing, paperwork completion, damage liabilities and machine-stinger attribution remain OPEN. The chapter checkpoint must adjudicate whether the Millennium claim structure needs a new ID. Contextual backfill remains **DEFER** until the full Volume 2 arc boundary.
+
+## MAIN_V002_C001 canonical checkpoint claim reconciliation
+
+[The canonical V002 C001 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) re-adjudicates all eighteen inherited claims without importing C002. `BA-C001`/`BA-C002` narrow: adult care matters but student making and council/jury response are more causally decisive here than an Abydos-style adult rescue. `BA-C005`/`BA-C006` remain rejected. `BA-C007`, `BA-C010`/`BA-C011` and `BA-C015`–`BA-C017` are pressure-tested by voluntary membership, decoy use, danger, audience exposure and a temporary reprieve; no morally pure outcome is asserted. `BA-C008` remains branch-bounded, `BA-C009` stays Prologue-scoped, `BA-C012`–`BA-C014` and `BA-C018` remain Volume 1 scoped without direct global retest.
+
+**`BA-C019` — OPEN NEW, strong chapter-local formulation:** Creative value has plural, non-substitutable tests. Collective making, a player's situated experience, public response, jury recognition and secure institutional belonging affect one another but cannot be collapsed into one metric or guaranteed shortcut. E005/E018 give Alice/Yuzu's reception accounts; E019 supplies actual publication and mixed first comments; E020 supplies a judge's `特別賞` under expanded `実用性` and Yuuka's merely `臨時の猶予`. This is not a universal claim that creative love assures quality or that every special prize should waive rules. Forward test: later evidence may strengthen, narrow or reject the proposed distinction. Side-source backfill remains **DEFER** until the complete Pavane arc. No frozen prospective character prediction exists (`NO_DIAGNOSTIC_OPPORTUNITY`).

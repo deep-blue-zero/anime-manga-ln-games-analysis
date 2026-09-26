@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
+checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -856,3 +856,7 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Yuuka's `臨時の猶予`, `来学期まで` and `保留` limit the council deferral. Her `ガラクタ` apology and childhood-play self-account are secure; room-extension/fund-receipt procedures are still requested.
 - Sensei `私に任せて。アリス、シャーレに来る？` is expressly `先生（心の声）`; it cannot be upgraded to an audible, executed placement offer. Alice's trust and grief are printed separately.
 - **Attribution quarantine:** scene 3 `u:0043-0045` conflicts on the display shooter, `u:0073-0075`/`u:0092-0094` contain self-address, and scene 5 `u:0003-0016`/`u:0038-0049` run multiple apparent speakers under Midori/Alice labels. Favorable reports and reunion are represented, but not clean individual voice samples. The `データ復旧率98.00％`/`Divi:Sion`/`AL-1S` narration is unattributed and not Alice's verified speech.
+
+## MAIN_V002_C001 checkpoint language reconciliation
+
+`ゲームを愛しなさい` is artifact rhetoric, not a development algorithm; Alice's `面白い`/`夢` and Yuzu's audience-completion speech are situated personal reception; judge `実用性`/`特別賞` and Yuuka `臨時の猶予`/`保留` are institutional distinctions. Preserve `先生（心の声）` separately from audible direction, and branch-conditioned replies separately from simultaneous dialogue. E013–E020 role-flip clusters remain quarantined for individual voice even where event sequence is secure. Final `データ復旧率98.00％`/`Divi:Sion`/`AL-1S` text is unattributed. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs; no clean full-character Japanese register model exists.

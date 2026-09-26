@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
+checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -516,3 +516,7 @@ No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one 
 - **Sensei:** internally offers Alice Schale under perceived failure; Alice says she trusts them, but Yuuka's arrival interrupts any placement. No actual transfer or adult guarantee is observed.
 
 No new indexed subject or unit-level readiness promotion (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Reassess readiness at the closed chapter checkpoint. Quarantine scene 3 `u:0073-0075`, `u:0092-0094`, and scene 5 `u:0003-0016`, `u:0038-0049` for exact person attribution. The `Divi:Sion`/`AL-1S` text has no known speaker.
+
+## MAIN_V002_C001 checkpoint character reconciliation
+
+[The canonical chapter checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) promotes Momoi, Midori, Alice, Yuzu and Yuuka to narrowly scoped `PARTIAL_MODEL` on distributed evidence, for **21 partial / 16 unmodeled** tracked subjects. Momoi's creative/belonging commitment is complicated by shortcuts and rashness; Midori's restraint coexists with raid participation; Alice's learning and protection coexist with dangerous misreadings and fear; Yuzu's action occurs with, not without, fear; Yuuka's evidentiary revision remains procedural and temporary. No standalone model, frozen prediction, or operational/validated readiness follows. All E001–E020 unit-level states remain historically fixed; later evidence must not be read backward.
