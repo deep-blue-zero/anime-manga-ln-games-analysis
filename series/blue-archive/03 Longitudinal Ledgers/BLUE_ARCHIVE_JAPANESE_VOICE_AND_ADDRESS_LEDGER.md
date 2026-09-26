@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -883,3 +883,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `見習い勇者`/`レベル1` is Alice's deliberate current role-play, contrasted with reported `伝説の勇者` starts. `前進` is her maxim returned by Sensei. `choice:017` has an unmatched leading double quote in the source; do not derive new dialogue from punctuation.
 - `先生（心の声）` at `u:0008`, `u:0057` and `u:0064` is unspoken. Choice `009` has two alternatives; the other seventeen groups have one.
 - **Attribution quarantine:** scene 1 `u:0014-0016`, `u:0019-0028`, `u:0033-0044`, `u:0056-0062` and `u:0075-0082` repeatedly reverse Momoi/Midori kinship and self-reference. `u:0086` (Alice label sending Alice) and `u:0090` (Yuzu label answering Yuzu) are contextually swapped. No exact voice model should absorb these lines.
+
+## V002 C002 E004 delta — exercise/quest translation and unstable C&C labels
+
+- Alice's `ミレニアム・ランダムエンカウントイベント` and `運動冒険` render encounters/exercise as game events; Sumire's `冒険運動`/`トレーナー` renders Alice/Sensei in exercise vocabulary. Their convergence is partial, as Sensei's internal `噛み合ってるような、そうでもない` notes.
+- `ジョギング20km` is Sumire's departure plan, not a completed performance. `ジョブチェンジ` to `女子高生` is Alice's mistaken uniform reading, corrected by Karin; Momoi's ice-cream/weight slogan is Alice's attributed joke, not fact.
+- Asuna's `最近のゲヘナの情勢` account is secondhand Rio-task language. `秘密` is Karin's boundary; Kirara/Erika's leader names are uncertain replies. `ご主人様` is Asuna's address, not a literal authority relation.
+- Karin's `あまり見ないでくれ` is a direct attention boundary; Sensei `choice:022` apologizes and `u:0095` admiration is `心の声`. Alice's `チビメイド様` names her Nel fear; “Nel likes Alice” remains Karin's appraisal.
+- **Quarantine:** Sumire/Alice role flips `u:0024-0026`, `u:0041-0051`; Asuna/Karin/Alice flips `u:0080-0082`, `u:0096-0117`. Sensei interior `u:0015`, `u:0017`, `u:0049`, `u:0095`, `u:0126`, `u:0129` is unheard. Choice groups `008`/`013` have alternate tones; the other twenty-one are singleton.

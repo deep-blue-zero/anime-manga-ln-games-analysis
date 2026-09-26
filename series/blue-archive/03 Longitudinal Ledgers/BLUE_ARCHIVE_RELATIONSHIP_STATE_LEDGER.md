@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -477,3 +477,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **YUZU ↔ TWINS/SENSEI:** Yuzu recognizes Sensei's discomfort, interrupts the demand for an adult verdict, and explains a club custom. She can act as mediator while remaining shy under praise; the custom's fairness is not proven.
 - **ALICE ↔ SENSEI:** Alice wants Sensei as a party companion and enjoys a Sensei-themed item/guardian image. In campus play she deliberately makes them both level-one apprentices; Sensei mirrors her `前進` principle and credits her. The relationship is reciprocal game-language support, not a literal omnipotent protector.
 - **RIO/HIMARI ↔ CLUB:** no E001 secret reaches the group; the covert confrontation remains a separate unresolved track.
+
+## V002 C002 E004 relationship delta — translated companionship, bounded attention
+
+- **ALICE ↔ SUMIRE:** they say they often meet while Sumire jogs and affirm one another as exercise/adventure companions. Their sustained-effort ideals overlap, but RPG stats and bodily training are not identical beliefs. Only this jogging relation is directly evidenced.
+- **ALICE ↔ ASUNA/KARIN/NEL:** Alice welcomes the two C&C students into a future adventure while remaining frightened by Karin's report that Nel seeks her. Her invitation is not an actual party or proof of reconciliation with Nel; Karin's “fond of Alice” is appraisal.
+- **SENSEI ↔ KARIN:** Sensei's compliment elicits Karin's discomfort at being looked at, followed by an apology. The later compliment is internal and unheard; no romance inference follows.
+- **ASUNA ↔ KARIN/RIO:** Asuna discloses a reported Rio task despite Karin's secrecy reminder. The Gehenna inquiry's outcome and their knowledge of E001's covert operation remain unknown.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -628,3 +628,7 @@ Sensei accepts an underspecified club invitation on a free day, wins the depicte
 ## V002 C002 E003 delta — invited judge becomes apprentice companion
 
 The twins ask Sensei to choose between spectacle and feasibility, but Sensei's `心の声` expects either choice to go badly; Yuzu intervenes and the club shifts to its own game match. No adult verdict or match result is shown. Sensei accompanies Alice on a search for ideas, suggests advancing, echoes her earlier adventure maxim and explicitly credits her as its source. Alice chooses to put both at level one. The sticker/guardian are in-game/art tributes, not proof of literal Sensei strength, design authorship or omniscience. E001 covert knowledge still does not reach Sensei. Eighteen choice groups include only one two-option branch (`009`); no readiness change or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E004 delta — companion, confidential hearer and apology
+
+Sensei follows Alice's initiative from campus to outskirts, meets Sumire, and hears Asuna's Rio-task account. The twenty-three choice groups include two two-option groups (`008`/`013`); six `心の声` units are separate, unspoken. Sensei compliments Karin's uniform, Karin says not to stare, and the next printed choice apologizes; the further positive appraisal is inward and not a repeated audible pressure. Sensei's worry about C&C's shaky questioning is also inward, not mission direction. No evidence they know E001's Rio/Himari plan, author Gehenna intelligence or produce Alice's game idea. No readiness promotion, standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

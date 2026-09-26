@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -547,3 +547,14 @@ No new tracked subject or readiness change: 21 `PARTIAL_MODEL` / 18 `UNMODELED` 
 - **Sensei:** asked to judge but does not choose; accompanies Alice and restates her own forward principle. Three internal-thought lines are not spoken directives.
 
 Readiness unchanged: 21 `PARTIAL_MODEL` / 18 `UNMODELED` across 39, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E004 delta — exercise encounter, reported inquiry and Nel fear
+
+- **Sumire:** first direct sample: jogging, reciprocal familiarity with Alice, patient-exercise language and an announced 20-km run. Actual distance/completion and other contexts are unshown. Add `UNMODELED`, not a stable fitness/person model.
+- **Alice:** translates Sumire's exercise into RPG stats/leveling, leads Sensei beyond campus, misreads uniforms as a new job, welcomes Asuna/Karin for a *next* adventure, then flees the prospect of Nel after Karin's report. Shared play, social openness and Nel-specific fear coexist; the future party is not enacted.
+- **Asuna/Karin:** Asuna reports Rio assigned a secret Gehenna inquiry; Karin tries to contain disclosure. Their questioning of Gehenna students yields confused/uncertain names, not an intelligence conclusion. Karin expresses embarrassment at Sensei's sustained attention and Sensei apologizes. Role labels flip in later chat.
+- **Sensei:** follows Alice, meets Sumire and C&C, apologizes to Karin after her boundary; subsequent compliment and mission worry are internal thoughts. No mission authorship or knowledge of E001's Alice classification.
+- **Nel/Rio:** absent; Nel's search/fondness and Rio's Gehenna concern are secondhand. No actual Nel approach or revealed C&C connection to the covert test.
+- **Kirara/Erika:** named Gehenna respondents give uncertain/confused leadership replies in one brief exchange. They enter coverage as `UNMODELED`, not sources for a verified Pandemonium roster or personal mechanisms.
+
+Totals **21 `PARTIAL_MODEL` / 21 `UNMODELED`** across 42, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

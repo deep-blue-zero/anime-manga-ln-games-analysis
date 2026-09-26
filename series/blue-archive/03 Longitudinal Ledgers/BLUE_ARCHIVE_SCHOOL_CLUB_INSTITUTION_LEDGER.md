@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -470,3 +470,9 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Production constraints:** the club discusses dungeon architecture and roguelike variability. Midori reports a prior day of drawing detail largely unused; Alice enjoyed drawing. This is a situated account of effort and use, not a verified project-cost record.
 - **Dispute custom:** Yuzu says unresolved differences go to a game match whose winner's opinion is binding. Momoi/Midori begin `フルゼリー大戦`; the winner and design decision are absent. Game victory is a procedure, not institutional expertise or a completed plan.
 - **Inspiration task:** Yuzu sends Alice/Sensei to find ideas and narration shows campus exploration, but no delivered idea, next-prize submission or new council ruling appears. The temporary club reprieve and E001 covert classification remain unchanged.
+
+## V002 C002 E004 institutional delta — reported confidential C&C inquiry
+
+- **Rio/Gehenna:** Asuna says Rio requested inquiry into recent Gehenna developments; Karin treats it as secret per Akane. This is participant report/correction, not a shown written assignment or proof of a link to E001's Alice/Himari operation.
+- **Field questioning:** Asuna/Karin in ordinary student uniforms approach Kirara/Erika and ask about current Pandemonium leadership under prospective-transfer cover. Responses are confused/uncertain, so no verified leadership finding or successful intelligence return follows.
+- **Club/quest:** Alice/Sensei's idea search has reached Millennium outskirts but yields no completed design. A future Asuna/Karin party invitation is not a C&C membership change. Nel's interest/search is reported without a shown order, encounter or outcome.

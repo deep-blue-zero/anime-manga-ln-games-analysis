@@ -18,17 +18,17 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E003.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E004.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001 adds an audience-only covert Rio/Himari meeting whose Alice classifications and possible fifth-C&C encounter remain unresolved and unshared with the club. E002 returns to ordinary play, Yuzu's bounded anomalous-match win and next-prize brainstorming. E003 tests the creative process: a spectacle-versus-feasibility conflict, Yuzu's guest-protecting interruption and an unfinished game-match dispute procedure precede Alice and Sensei's level-one campus idea quest. No new design, prize or secret transfer follows. Coverage is **65 / 310** units; all seven ledgers have provisional E001–E003 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001's covert Rio/Himari Alice-classification conflict remains unresolved/unshared. E002–E003 return to club play, design-feasibility disagreement and Alice/Sensei's level-one idea quest, with no new game or match ruling. E004 brings Alice/Sensei into contact with Sumire and C&C: Alice and Sumire align imperfectly on adventure/exercise, while Asuna reports a separate secret Rio-requested Gehenna inquiry whose street questioning yields no verified finding. Alice's reported Nel fear prompts retreat; the covert E001 plan is not disclosed. Coverage is **66 / 310** units; all seven ledgers have provisional E001–E004 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio and Himari as `UNMODELED`, yielding **21 partial / 18 unmodeled** tracked subjects. E002–E003 refine Yuzu's, Alice's and the twins' conditional mechanisms without changing readiness. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:004` remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio/Himari, and E004 Sumire/Kirara/Erika, as `UNMODELED`, yielding **21 partial / 21 unmodeled** tracked subjects. E002–E004 refine conditional mechanisms without promoting readiness. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:005` remains unopened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **65 / 310 canonical main units deep-read**;
+- main-story coverage: **66 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -96,7 +96,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E001_DEEP_READING.md` — **active_provisional**, Rio/Himari covert test disclosure and classification dispute / attempted detention / unidentified intercept;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E002_DEEP_READING.md` — **active_provisional**, ordinary club play / next-game brainstorming / Yuzu's qualified anomalous-match win;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E003_DEEP_READING.md` — **active_provisional**, design-feasibility dispute / Yuzu mediation / Alice-Sensei level-one quest;
-- next crosswalk unit: `BA:main:002:002:004`.
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E004_DEEP_READING.md` — **active_provisional**, Sumire exercise encounter / reported C&C Gehenna inquiry / Alice's Nel fear;
+- next crosswalk unit: `BA:main:002:002:005`.
 
 The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E020 boundary above.
 
@@ -440,16 +441,16 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E003.**
+**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E004.**
 
 The current authorized range continues in order. The next crosswalk unit is:
 
-- story ID: `BA:main:002:002:004`;
-- scope: `MAIN_V002_C002_E004`;
+- story ID: `BA:main:002:002:005`;
+- scope: `MAIN_V002_C002_E005`;
 - arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第4話;～アリスと導かれる者たち～（１）`.
+- source title: `第5話;～アリスと導かれる者たち～（２）`.
 
-Use the V002 C001 checkpoint as the latest canonical synthesis and E001–E003 as prospective provisional supplements. Rio/Himari's covert test and opposed Alice classifications are not club/Sensei knowledge or objective origin proof; the possible fifth-C&C encounter remains unresolved. E002 tests Yuzu's shy-but-precise gaming with a friend-play inhibitor. E003 adds her mediation, the twins' spectacle/feasibility conflict and Alice's level-one quest with Sensei; a game match starts but no winner or design decision is shown. Sensei echoes Alice's own `前進` maxim rather than authoring the next game. Preserve label/choice/thought quarantines, distinguish fictionally invincible `先生ガーディアン` from literal capability, and do not treat Alice's recalled market concern as verified sales evidence. BA-C019 remains chapter-local, readiness unchanged and no frozen prediction exists.
+Use the V002 C001 checkpoint as latest canonical synthesis and E001–E004 as prospective supplements. Rio/Himari's covert Alice classifications and fifth-C&C encounter remain audience-only/open. E003's twins' match has no shown winner or design decision. E004 tests Alice's level-one quest through Sumire's exercise and C&C's reported confidential Gehenna inquiry; Kirara/Erika's street answers do not establish Pandemonium leadership or mission success, and the Rio task does not prove C&C knows E001's plan. Alice's future-party invitation is not enacted, and her retreat follows only a report that Nel seeks her. Preserve role-label, branch and inward-thought quarantines. Sumire, Kirara and Erika are newly `UNMODELED`; BA-C019 remains chapter-local, no frozen prediction.
 
 The next permitted story operation is the unit above under these controls.
 
@@ -1017,3 +1018,13 @@ The next unopened source is `BA:main:002:002:003` / `MAIN_V002_C002_E003`. Its t
 - No tracked subject, readiness or claim ID change: **21 `PARTIAL_MODEL` / 18 `UNMODELED`** across 39; no standalone model, frozen prediction or side-source backfill. `BA-C019` is pressure-tested by distinct spectacle, labor, feasibility and reception values.
 
 The next unopened source is `BA:main:002:002:004` / `MAIN_V002_C002_E004`, `第4話;～アリスと導かれる者たち～（１）`.
+
+## V002 C002 E004 state delta
+
+- `MAIN_V002_C002` is active-provisional through E004; coverage is **66 / 310**. V002 C001 remains latest canonical checkpoint.
+- Sumire appears in an ordinary jog and says she often meets Alice; Alice maps exercise to RPG levels while Sumire emphasizes steady bodily training. Their reciprocal familiarity is direct; Sumire's announced 20-km jog has no completion evidence. Sumire enters as `UNMODELED`.
+- Alice/Sensei leave campus, meet Asuna/Karin in uniforms and hear Asuna's account of a confidential Rio-requested Gehenna inquiry. Karin objects to disclosure; field questions to newly tracked `UNMODELED` Kirara/Erika produce uncertain leader names, not an intelligence finding. No link to E001's Alice-classification plan is shown.
+- Karin asks Sensei not to stare after a compliment, and the next choice apologizes; later praise is `心の声`. Alice invites Asuna/Karin to a *next* adventure but flees at Karin's report Nel is looking for her. Nel's intention/arrival remains unshown. Sumire/Alice and C&C dialogue labels flip; `choice:008`/`013` have alternatives, six Sensei thoughts are private.
+- Totals **21 `PARTIAL_MODEL` / 21 `UNMODELED`** across 42, none operational/validated; no new claim ID, standalone model, frozen prediction or side-source backfill.
+
+The next unopened source is `BA:main:002:002:005` / `MAIN_V002_C002_E005`, `第5話;～アリスと導かれる者たち～（２）`.

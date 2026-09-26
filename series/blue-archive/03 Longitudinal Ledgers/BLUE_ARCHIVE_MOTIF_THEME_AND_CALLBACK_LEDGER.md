@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -626,3 +626,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **The judge trap:** both twins ask Sensei to declare a winner; Yuzu notices the social pressure and shifts to the club's own game custom. Adult presence does not automatically arbitrate student making, but a game match does not guarantee a sound design.
 - **Teacher as item/guardian/party member:** Alice values the reported `はなまるシール` and drawn guardian, while Sensei prefers party membership; in campus play both begin at level one. Fictional invincibility is contrasted with reciprocal, non-omniscient companionship.
 - **Forward as a borrowed lesson:** Sensei repeats Alice's `前進` maxim and returns credit. Her heroic language becomes a practical action cue for an uncertain idea search, not evidence the quest is already completed.
+
+## V002 C002 E004 motif / callback delta — random encounters and divergent roles
+
+- **Adventure becomes social translation:** Sumire's jog is a “random encounter” for Alice; they agree on repeated effort while meaning RPG leveling versus bodily training. Game language enables contact without making every metaphor literal.
+- **Costume versus identity:** Alice mistakes student uniforms for a schoolgirl job change; Karin corrects her. Asuna's playful quest adoption coexists with a real reported C&C inquiry and Karin's secrecy limit.
+- **Party expansion and lingering fear:** Alice invites Asuna/Karin for a next adventure but retreats on learning Nel may seek her. E020's post-fight fear remains a specific relationship state, not globally cured by ordinary play.
+- **Secret and uncertain knowledge:** E001's covert Alice classification is still unknown to this group. E004's different Gehenna secret is quickly disclosed by Asuna and produces uncertain field answers, foregrounding how little a “secret task” guarantees knowledge.
