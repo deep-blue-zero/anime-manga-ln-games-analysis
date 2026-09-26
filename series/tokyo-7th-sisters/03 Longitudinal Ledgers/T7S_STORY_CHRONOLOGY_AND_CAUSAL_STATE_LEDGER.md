@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.8"
+version: "11.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 58 complete i-n-g primary documents / T7S_B0080–T7S_B0107; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 61 complete i-n-g primary documents / T7S_B0080–T7S_B0108; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-25
+last_updated: 2026-09-26
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 367`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 330`; `last_closed_block = T7S_B0107`. The admitted horizon contains 293 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 58 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 372`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 337`; `last_closed_block = T7S_B0108`. The admitted horizon contains 296 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 61 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -993,3 +993,32 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.9. [B0107](../02%20Readings/T
 | `EDGE-0330` | `EXPLICIT_RECOLLECTION_ANCHOR` | Rona's C:P123–128 recall of Haru's idol question and the Player emerging from hiding places B0004's person-first conversation before `EV-B0107-005`. Rona's happiness inference about Musubi remains unconfirmed. |
 
 `T7S_B0107_CLOSE-20260925`: five chapter events, seven bounded edges including two explicit recollection anchors; existing `THREAD-0005` advanced without a new thread, world state or total i-n-g chronology.
+
+## B0108 Rona solo attempt, safety dilemma and incomplete performance addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.10. [B0108](../02%20Readings/T7S_B0108_DEEP_READING.md) owns the A/B/C locator key. Rona's Nicole aspiration has a B0004 formation anchor and Coney repeats B0002's idol maxim privately; her references to Haru, Musubi and Sumire are actor-local comparisons, not a total chronology across i-n-g chapters.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0108-001` | Rona reports a requested end-of-next-month solo live at `ビバド`, initially asks Haru and Sumire to join, then accepts alone after Coney's always-ready idol injunction and the Player's offer to decline. Coney takes on preparation. | A:P2–27; `KNOW-0143`; `REL-0299`–`0304`; `THREAD-0006`. Rona's choice is real but socially loaded; no reviewed contract, fee or stage terms. |
+| `EV-B0108-002` | Daily practice is fitted around part-time/idol work. Coney presses stamina and steps; peers visit with company and honey-lemon food. Coney calls rest, Rona resists and becomes unsteady, then reports dizziness without injury. | A:P29–61; B:P1–5; `KNOW-0144`; `REL-0299`–`0304`; `UNIT-0002`. No completed five-kilometer run, clinical diagnosis or quantified exertion. |
+| `EV-B0108-003` | The Player and Coney offer simpler choreography. Rona refuses, saying she wants a solo effort to change her fearful dependence while retaining Nicole aspiration. Coney permits the original routine but privately questions how an adult should balance injury prevention and encouragement; the Player runs with Rona and can contact her. After he leaves she recalls the B0002 maxim and voices loneliness. | B:P6–64; `KNOW-0145`–`0146`; `REL-0299`–`0302`, `0307`–`0308`; `THREAD-0002`, `0006`. No proved safe workload or Player knowledge of her private words. |
+| `EV-B0108-004` | At the event a reported mall-owner loan has placed Rona on a bigger stage than expected. She freezes backstage. A HoloCom call brings Haru, Musubi and peers' Rona-specific confidence and audible crowd address; she says the shaking stopped and chooses to go on. | C:P1–63; `KNOW-0147`; `REL-0305`–`0308`; `THREAD-0006`. No independently reviewed agreement, actual audience count or proof every pictured peer is physically at the venue. |
+| `EV-B0108-005` | Coney begins an unfinished Nanasta thought before interruption. Rona gives an opening greeting, promises a song for happy and sad listeners and receives crowd response. The chapter ends before singing or assessment. | C:P64–80; `KNOW-0146`–`0147`; `REL-0299`–`0304`; `THREAD-0002`, `0006`. No completed solo live, outcome, injury-free period, stable self-confidence or determined content of Coney's clause. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0006` | Rona's aspiration/self-authorship remains `OPEN`. B0108 adds a chosen solo attempt under Coney's absolute professional norm, visible training risk, articulated wish to change without merely copying Nicole, stage freeze, Rona-specific peer address and public opening. The source ends before a song or stable confidence outcome. A:P2–61; B:P1–38; C:P1–80. |
+| `THREAD-0002` | Coney/Nicole identity and responsibility remain `OPEN`. B0108 shows Rona nearly addressing her as Nicole, Coney's safety/ambition question, private uncertainty over adulthood and the B0002 maxim, and her interrupted Nanasta thought. The Player does not hear the private speech, receive identity disclosure or learn a determinate future plan. A:P18; B:P40–64; C:P64–72. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0331` | `CONSENT_UNDER_NORM` | Coney's always-ready claim and the Player's decline option in `EV-B0108-001` → Rona's voiced decision to try. The choice is neither pure compulsion nor proof of safe preparation. |
+| `EDGE-0332` | `WORKLOAD_RISK` | Accepted solo work in `EV-B0108-001` → practice and unsteadiness in `EV-B0108-002`. Training effort is not evidence of completed stamina gain or a safe regimen. |
+| `EDGE-0333` | `DISCLOSURE_QUALIFIES_SUPPORT` | Unsteadiness and simplification proposal in `EV-B0108-002`–`003` → Rona's specific reason for continuing and Coney's unresolved adult question. A stated ambition does not cancel injury risk. |
+| `EDGE-0334` | `SITUATIONAL_ESCALATION` | The larger-than-expected stage in `EV-B0108-004` → Rona's freeze. Neither crowd size nor production terms are independently measured. |
+| `EDGE-0335` | `PEER_SUPPORT_ENABLES_ACTION` | The phone call and Rona-specific testimony in `EV-B0108-004` → her public opening in `EV-B0108-005`, not a demonstrated complete song or permanent recovery. |
+| `EDGE-0336` | `EXPLICIT_RECOLLECTION_ANCHOR` | Coney's B:P61 quotation of `アイドルはアイドルじゃなくてもいい` recalls Haru's B0002 turning point before her B0108 private question. It is not heard by the absent Player and orders no unrelated i-n-g unit. |
+| `EDGE-0337` | `INTERRUPTED_INTENT` | Coney's private adult uncertainty in `EV-B0108-003` frames her C:P69–70 unfinished Nanasta clause in `EV-B0108-005`; the missing predicate cannot be filled with a specific plan. |
+
+`T7S_B0108_CLOSE-20260926`: five chapter events, seven bounded edges; existing `THREAD-0002` and `0006` advanced without new thread, world state, performance verdict or total i-n-g chronology.

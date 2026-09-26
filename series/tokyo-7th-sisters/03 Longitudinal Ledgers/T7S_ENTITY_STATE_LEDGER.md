@@ -4,16 +4,16 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.8"
+version: "11.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 58 complete i-n-g primary documents / T7S_B0080–T7S_B0107; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 61 complete i-n-g primary documents / T7S_B0080–T7S_B0108; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-25
+last_updated: 2026-09-26
 ---
 
 # Tokyo 7th Sisters entity state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 142`; `directional_relationship_states = 298`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0107, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 147`; `directional_relationship_states = 308`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0108, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1823,3 +1823,40 @@ The [B0107](../02%20Readings/T7S_B0107_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0298` | Musubi → Rona, **limited observed side** | Shares test bread, later trains where Rona notices; Musubi does not directly narrate her post-conversation feelings to Rona. B:P1; C:P6–15,120–136. Reciprocal `REL-0297`; no new confession or stable mutual support contract. |
 
 `T7S_B0107_CLOSE-20260925`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
+
+## B0108 Rona solo agency and actor-local safety knowledge
+
+The [B0108](../02%20Readings/T7S_B0108_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.10, binds these updates. Existing Rona `IDENTITY-0008`/`CHAR-0008`, Coney `CHAR-0003`, Player `CHAR-0001`, Haru `CHAR-0004`, Musubi `CHAR-0006`, Sumire `CHAR-0013` and Nanasta `UNIT-0002` suffice. The crowd and mall owner are not given invented stable identities.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0008` / Rona | Chooses a solo event despite fear, trains hard around other work, becomes unsteady, refuses a simpler routine because she wants to change through her own effort, freezes on a larger stage, then opens after a peer call. | A:P2–61; B:P1–38; C:P1–80. Nicole remains an aspiration; no completed song, medical finding, stable self-confidence or proof that refusal of reduction makes the schedule safe. |
+| `CHAR-0003` / Coney | Presses stage-readiness and stamina, notices strain, proposes rest and simplified choreography, then chooses continued support while naming uncertainty about adult duty. Privately asks if she has grown up, repeats the B0002 maxim, voices loneliness and begins an unfinished Nanasta thought. | A:P8–23,32–54; B:P5–64; C:P1–10,64–72. Neither certainty about safety nor a completed future plan or new Nicole disclosure follows. |
+| `CHAR-0001` / Player | Initially offers to decline the event, later accepts Rona's choice, asks for rest and simplification, then runs with her and retains a contact channel. At the larger venue he considers changing the stage but does not do so on page. | A:P15–27,56–60; B:P1–11,40–54; C:P3–20. He does not hear Coney's private words; no institutional workload or venue-change procedure is established. |
+| `CHAR-0004` / Haru | Celebrates Rona's solo offer; at the crisis call names Rona's attentive care and effort, asks her to hear a crowd calling her name, and attributes her courage to sustained growth. | A:P5,13; C:P31,35,41,47–57. The specific support is not proof every caller is on site or that fear cannot recur. |
+| `CHAR-0006` / Musubi | Visits the rehearsal, later joins the call and says Rona is trusted, distinguishing the crowd's call for Rona from expectation of another idol. | A:P37,44; C:P33,39,42,44–54. The reassurance does not supply measured crowd response or a completed live verdict. |
+| `CHAR-0013` / Sumire | Asks the Player to back Rona's choice and brings honey-lemon food during rehearsal. | A:P24,40,46. Care does not demonstrate Rona actually rested or ate the food. |
+| `UNIT-0002` / Nanasta | Organizes a requested solo event, trains around an idol's other work, receives practical peer support, and faces a reported venue scale change and visible performer freeze. A group call helps her start. | A:P2–61; B:P1–54; C:P1–80. No verified contract, pay, workload limit, health response, stage-change assent or complete performance outcome. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0143` | Rona knows she was asked for a solo live and fears failing alone; the Player explicitly considers refusal, but she says she wants to try after Coney's rule. | A:P2–27. The offer's full terms and safety provisions are unknown. |
+| `KNOW-0144` | Coney and the Player see taxing practice and Rona's unsteadiness; Rona reports dizziness and no injury, while still judging the steps insufficiently learned. | A:P29–61; B:P1–11. No medical assessment, full schedule measurements or completed five-kilometer run. |
+| `KNOW-0145` | Rona describes peers as working to change and says her own solo effort might change a dependent self despite retained Nicole aspiration. | B:P13–30. Her comparisons are perceptions, not proof the others are finished or that more work is safe. |
+| `KNOW-0146` | Coney privately admits not knowing whether to stop or encourage someone over a limit, questions her adulthood, repeats the B0002 maxim, and later starts an incomplete Nanasta sentence. | B:P40–64; C:P64–72. The Player does not hear the private part; the interrupted clause has no determinate plan. |
+| `KNOW-0147` | Rona knows the stage is bigger than expected and says fear immobilizes her; after a call naming her personal care and a crowd calling `ロナ`, she says the shaking has stopped and opens publicly. | C:P1–80. Full venue terms, actual crowd count, song, outcome and later confidence are unavailable. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0299` | Player → Rona, **conditional support and accompaniment** | Offers to decline, later asks for rest/simplification, honors her wish to try and runs with a contact channel. A:P15–27,56–60; B:P8–11,40–54; C:P16–20. Reciprocal `REL-0300`; not a tested safety protocol. |
+| `REL-0300` | Rona → Player, **voiced choice and motive** | First asks for companions, then requests the solo attempt, rejects reduced choreography and explains she wants to change. A:P6–27; B:P10–30. Reciprocal `REL-0299`; consent to an attempt does not prove consent to every unreviewed venue change. |
+| `REL-0301` | Coney → Rona, **pressure, care and uncertain permission** | States an absolute stage rule, coaches strenuously, calls rest, offers a simpler routine and eventually backs Rona's original choice under acknowledged risk. A:P8–23,32–54; B:P5–49. Reciprocal `REL-0302`; no injury-free outcome or ideal adult answer. |
+| `REL-0302` | Rona → Coney, **admiration and distinct resolve** | Nearly calls her Nicole, accepts training, then resists simplification because she wants an act of her own. A:P18–23,33–55; B:P10–38. Reciprocal `REL-0301`; not a new direct Nicole disclosure to the Player. |
+| `REL-0303` | Haru → Rona, **person-specific encouragement** | Celebrates the offer and later names Rona's tears, attention to others and effort before inviting her to hear the crowd. A:P5; C:P31–57. Reciprocal `REL-0304`; no permanent confidence guarantee. |
+| `REL-0304` | Rona → Haru, **comparison and accepted call** | Initially asks Haru to join; later cites Haru's recovery in explaining her own ambition and receives the crisis call. A:P7; B:P16; C:P31–62. Reciprocal `REL-0303`; her comparison is not a complete Haru biography. |
+| `REL-0305` | Musubi → Rona, **trusted-person testimony** | Visits practice and later says the group believes Rona and the crowd is calling specifically for her. A:P37–44; C:P33–54. Reciprocal `REL-0306`; no performed result is known. |
+| `REL-0306` | Rona → Musubi, **self-comparison and listening** | Names Musubi's self-search as one peer path and receives her call while afraid. B:P17; C:P33–62. Reciprocal `REL-0305`; no claim that Musubi has solved her own uncertainty. |
+| `REL-0307` | Coney → Player, **adult-duty question** | Asks whether an adult should stop an overreaching performer or support the attempt, then asks to watch a little longer. B:P40–49. Reciprocal `REL-0308`; her later private speech is not shared with him. |
+| `REL-0308` | Player → Coney, **accompaniment with contact** | Disagrees with her continuation decision, then follows Rona and promises to call if needed. B:P34,40–54. Reciprocal `REL-0307`; no full agreement or safety finding. |
+
+`T7S_B0108_CLOSE-20260926`: five actor-local knowledge states, five directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
