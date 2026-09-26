@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.16"
+version: "1.17"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0116`.
-- Completed run blocks: **17/60**; completed run episodes: **45/174**.
-- Next: `T7S_B0117`, chapter `300890`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0117`.
+- Completed run blocks: **18/60**; completed run episodes: **48/174**.
+- Next: `T7S_B0118`, chapter `300900`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -53,7 +53,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0114` | `300860` | アレサンドラ・スース | スースの勉強合宿！！ | `312200901 / 312200902 / 312200903` | CLOSED |
 | `T7S_B0115` | `300870` | 晴海サワラ | 残念☆女王 | `312201001 / 312201002 / 312201003` | CLOSED |
 | `T7S_B0116` | `300880` | 晴海カジカ | 2034年宇宙の旅？？ | `312201101 / 312201102 / 312201103` | CLOSED |
-| `T7S_B0117` | `300890` | 晴海シンジュ | プレイ・ライク・ア・チャイルド | `312201201 / 312201202 / 312201203` | AUTHORIZED_UNREAD |
+| `T7S_B0117` | `300890` | 晴海シンジュ | プレイ・ライク・ア・チャイルド | `312201201 / 312201202 / 312201203` | CLOSED |
 | `T7S_B0118` | `300900` | 白鳥トモエ | 誰かのためのスワン・ソング | `312201301 / 312201302 / 312201303` | AUTHORIZED_UNREAD |
 | `T7S_B0119` | `300910` | 榎並マドカ | 中学生アイドル日記 | `312201401 / 312201402 / 312201403` | AUTHORIZED_UNREAD |
 | `T7S_B0120` | `300920` | 折笠アユム | ぽえっと大作戦！アユ、本場のメイドさんになるですぅ！ | `312201501 / 312201502 / 312201503` | AUTHORIZED_UNREAD |
@@ -174,3 +174,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0116 closeout receipt
 
 [T7S_B0116](../02%20Readings/T7S_B0116_DEEP_READING.md): Coney moves the sleeping Kajika and Player into an unannounced space-museum scenario; Kajika acts under a fictional threat to the Player, is reported cast as a guide and later says she enjoyed it and gained some confidence, while the Player rejects the deceptive method. All 207 pages, 192 text records and 15 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.18 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 115 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 17/60 blocks, 45/174 episodes; publication remains pending.
+
+## B0117 closeout receipt
+
+[T7S_B0117](../02%20Readings/T7S_B0117_DEEP_READING.md): Shinju’s forced childlike speech fails in rehearsal; after Sumire/Momoka experiments and Sawara/Coney’s deliberate non-correction, one child responds to her unusual frog drawing, and she stops concealing her economics reading to satisfy an imagined child image. All 204 pages, 185 text records and 19 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.19 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 114 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 18/60 blocks, 48/174 episodes; publication remains pending.

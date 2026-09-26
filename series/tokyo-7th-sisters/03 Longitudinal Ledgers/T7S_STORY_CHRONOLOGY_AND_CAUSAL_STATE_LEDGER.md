@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.17"
+version: "11.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 85 complete i-n-g primary documents / T7S_B0080–T7S_B0116; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 88 complete i-n-g primary documents / T7S_B0080–T7S_B0117; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 410`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 389`; `last_closed_block = T7S_B0116`. The admitted horizon contains 320 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 85 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 415`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 396`; `last_closed_block = T7S_B0117`. The admitted horizon contains 323 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 88 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1242,3 +1242,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.18. [B0116](../02%20Readings/
 | `EDGE-0389` | `DIVERGENT_RETROSPECTIVE_JUDGMENT` | Kajika's enjoyment/confidence and Player's non-forgiveness in `EV-B0116-005` coexist; neither retroactively grants the other advance consent. |
 
 `T7S_B0116_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0014` advanced; no new real world/thread state, robot identity, literal 2034 space history or consent-by-outcome rule.
+
+## B0117 Shinju child-show performance and particular play
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.19. [B0117](../02%20Readings/T7S_B0117_DEEP_READING.md) owns the A/B/C locator key. B0011 established elementary-age Shinju and shop-accounting interest; B0113/B0116 are bounded comparison, not total i-n-g chronology. Children's-show host and guest children remain local roles without invented stable identities.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0117-001` | After an awkward children's-show rehearsal Shinju says staff were unimpressed, asks Player to correct her un-childlike speech, and woodenly tries his `big brother`/bright register. | A:P0–48; `KNOW-0188`; `THREAD-0014`. Her age and ordinary intellect are not mutually exclusive, and staff's eventual evaluation is not given. |
+| `EV-B0117-002` | Sumire objects to forced wording and suggests play. In a family-role game Shinju asks income, living standard and shared childcare scheduling; Player/Sumire grow flustered. | B:P1–35; `KNOW-0189`; `REL-0377`–`0378`. These are play settings, not real salary/marriage/household obligations. |
+| `EV-B0117-003` | Momoka offers children's animation. Shinju tests transformation timing, identity concealment and the fictional enemy empire's political logic; Player sees the childlike project has not worked. | B:P36–61; `KNOW-0190`. Political speculation concerns the anime fiction, not actual T7S world institutions. |
+| `EV-B0117-004` | Sawara/Coney take over coaching. At recording Shinju uses her normal formal voice; they say they never corrected it, despite Player's protest. | C:P1–58; `KNOW-0191`; `REL-0373`–`0376`. Their off-page interval and production staff's final judgment remain unavailable. |
+| `EV-B0117-005` | Shinju draws an unusual frog and receives a child's `cute` praise, thanks her, then reads macroeconomics openly because she no longer wishes to suppress an interest as un-childlike. Player revises his age interpretation. | C:P59–92; `KNOW-0192`; `REL-0373`–`0380`; `THREAD-0014`. One child's response is not full audience or competency proof; self-censorship change may or may not endure. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0014` | The Harumi sisters' care and Shinju's agency remain `OPEN`. Shinju seeks help for a child-show role and initially treats her formal speech/interests as disqualifying. Sawara and Coney stop mannerism policing, while a child responds to Shinju's particular frog knowledge; Shinju herself extends the lesson to open economics reading. This does not flatten her into `really just a child`, erase staff expectations, or certify future role fit. A:P0–48; B:P1–61; C:P1–92. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0390` | `REHEARSAL_FEEDBACK_TO_SELF_CORRECTION` | Weak staff/self assessment in `EV-B0117-001` → Shinju's requested speech-monitoring; no final staff verdict yet. |
+| `EDGE-0391` | `SURFACE_MIMICRY_TO_STIFFNESS` | Player's `big brother` register in `EV-B0117-001` → wooden practice, prompting Sumire's alternative in `EV-B0117-002`. |
+| `EDGE-0392` | `PLAY_REVEALS_EXISTING_REASONING` | House-play in `EV-B0117-002` → Shinju's income/childcare questions, without real marriage or adult status. |
+| `EDGE-0393` | `FICTION_QUERY_REVEALS_ENGAGEMENT` | Children's anime in `EV-B0117-003` → Shinju's earnest rule/political questions, not a world-state finding. |
+| `EDGE-0394` | `NONCORRECTION_TO_NATIVE_PRESENTATION` | Sawara/Coney's choice in `EV-B0117-004` → Shinju keeps formal speech on air, without an audited producer approval. |
+| `EDGE-0395` | `PARTICULAR_KNOWLEDGE_TO_CHILD_RESPONSE` | Shinju's unusual frog drawing/explanation in `EV-B0117-005` → one child's compliment and her thanks; not a representative ratings sample. |
+| `EDGE-0396` | `LOCAL_ACCEPTANCE_TO_UNHIDDEN_INTEREST` | On-air encounter in `EV-B0117-005` → Shinju's stated decision to read economics without child-image self-censorship; durability unknown. |
+
+`T7S_B0117_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0014` advanced; no new world/thread record, child-audience generalization, total i-n-g chronology or adulthood substitution.

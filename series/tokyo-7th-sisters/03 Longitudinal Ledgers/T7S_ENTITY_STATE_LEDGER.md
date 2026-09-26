@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.17"
+version: "11.18"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 85 complete i-n-g primary documents / T7S_B0080–T7S_B0116; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 88 complete i-n-g primary documents / T7S_B0080–T7S_B0117; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 187`; `directional_relationship_states = 372`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0116, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 192`; `directional_relationship_states = 380`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0117, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2143,3 +2143,38 @@ The [B0116](../02%20Readings/T7S_B0116_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0372` | Player → Coney, **non-forgiveness despite result** | Says the stunt was overdone, questions the tea and refuses to treat Kajika's casting/enjoyment as absolution. C:P44–67. Reciprocal `REL-0371`; not an adjudicated harm finding. |
 
 `T7S_B0116_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, literal space ontology, readiness or monograph record.
+
+## B0117 Shinju age, language and openly chosen interests
+
+The [B0117](../02%20Readings/T7S_B0117_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.19, binds these updates. Existing Shinju `IDENTITY-0024`/`CHAR-0021`, Sawara `CHAR-0019`, Coney `CHAR-0003`, Player `CHAR-0001`, Sumire `CHAR-0013`, Momoka `CHAR-0012` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0021` / Shinju | Requests childlike-speech correction after weak rehearsal, probes income/childcare in role-play and a children's anime's logic, presents in her usual register, receives one child's drawing praise and later reads macroeconomics openly. | A:P0–48; B:P1–61; C:P1–92. Elementary age, serious thought and play coexist; no verified expertise, full audience response or permanent self-censorship cure. |
+| `CHAR-0019` / Sawara | Takes over from Player with Coney, says she did not correct Shinju, watches her smile at a child's response and affirms her unchanged presentation. | C:P9–75. Off-page method, producer opinion and long-term role fit not shown. |
+| `CHAR-0003` / Coney | Joins Sawara's takeover, later says imitation itself was un-childlike and asks Player to reconsider what counts as adult-like. | C:P24–76. Philosophical joke does not grant complete pedagogical authority or a standing child-performer practice. |
+| `CHAR-0001` / Player | Misreads Shinju's problem through breakfast and adult-like praise, drills `big brother` speech, watches play/anime fail to make her conventional, then revises his understanding after the frog exchange. | A:P9–48; B:P1–61; C:P1–90. His `at root a child` insight must not devalue her economics interests; final staff response unknown. |
+| `CHAR-0013` / Sumire | Challenges forced speech, suggests children's play, and becomes embarrassed by hypothetical spouse/parent roles during the exercise. | B:P8–35. Role-play is not actual romance, marriage or shared custody. |
+| `CHAR-0012` / Momoka | Recommends a current children's anime, explains transformation convention and hears Shinju's analytic response. | B:P36–61. Anime's military/empire plot is nested fiction, not political history. |
+| `UNIT-0002` / Nanasta | Rehearses Shinju for a children's show and permits informal peer/manager coaching; the recorded interaction shows one positive child response. | A:P0–48; B:P1–61; C:P1–92. No standing child-performer role, education, consent, feedback or ratings protocol is shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0188` | Shinju knows staff response to rehearsal was poor and she herself feels the childlike phrasing false; Player first mistakes her situation. | A:P0–48. Exact staff instructions/final evaluation unknown. |
+| `KNOW-0189` | Sumire sees forced speech as narrow; Shinju treats pretend family income/childcare as important game settings. | B:P8–35. No real Player income, marriage or childcare arrangement. |
+| `KNOW-0190` | Momoka knows a children's anime convention; Shinju questions its fictional transformation and empire rules, and Player doubts the training aim. | B:P36–61. Her story-world political speculation is not real-world history or verified economic knowledge. |
+| `KNOW-0191` | Sawara/Coney say they did not correct Shinju; Player sees her usual register at recording and initially thinks coaching failed. | C:P17–58. Every off-page interaction, staff response and broad audience result remain unknown. |
+| `KNOW-0192` | Shinju hears a child's positive comment on her frog drawing and says afterward she need not avoid economics books to look childlike; Player revises his age reading. | C:P59–92. Frog taxonomy, full viewer response, actual book mastery and future durability unverified. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0373` | Player → Shinju, **well-meant but surface-led coaching** | Accepts her request and drills childlike register, later appreciates her unforced interaction. A:P33–48; C:P69–90. Reciprocal `REL-0374`; child age does not negate intellectual content. |
+| `REL-0374` | Shinju → Player, **requested help then self-revision** | Asks for correction, tries his prompts, later states she will not hide economics reading. A:P33–48; C:P78–90. Reciprocal `REL-0373`; not proof she needed no support. |
+| `REL-0375` | Sawara → Shinju, **non-policing sister care** | Takes the coaching role but says she never corrected her, praises her smile at child response. C:P17–75. Reciprocal `REL-0376`; no full staff verdict. |
+| `REL-0376` | Shinju → Sawara, **skepticism then unforced presence** | Doubts her approach but proceeds in her normal register and responds to a child. C:P21–70. Reciprocal `REL-0375`; no claim all pressure vanished. |
+| `REL-0377` | Sumire → Shinju, **play suggestion against mimicry** | Questions forced words and proposes house-play to explore childlike participation. B:P8–20. Reciprocal `REL-0378`; no psychological treatment. |
+| `REL-0378` | Shinju → Sumire, **rule-rich play** | Asks income and shared childcare logistics within pretend family setup. B:P18–35. Reciprocal `REL-0377`; not an actual adult household. |
+| `REL-0379` | Momoka → Shinju, **media invitation** | Suggests a children's anime and explains transformation convention. B:P36–50. Reciprocal `REL-0380`; no complete pedagogy. |
+| `REL-0380` | Shinju → Momoka, **critical story engagement** | Tests anime transformation/identity/political logic rather than passively echoing its childlike style. B:P46–61. Reciprocal `REL-0379`; nested-fiction reasoning is not real politics. |
+
+`T7S_B0117_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, youth-policy rule, readiness or monograph record.
