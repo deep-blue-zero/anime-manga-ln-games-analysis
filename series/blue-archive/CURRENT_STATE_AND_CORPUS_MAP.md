@@ -18,17 +18,17 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete; `MAIN_V002_C001` is active-provisional through E018 under the newly authorized sequential range.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are complete; `MAIN_V002_C001` is active-provisional through E019 under the newly authorized sequential range.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Volume 2 E001–E018 introduce the Millennium club's survival dispute, ruins search and found Alice. Her game-shaped belonging and presented ID remain separate from lawful enrollment; E007 adds a chosen railgun and unverified combat-design hypothesis. E009 confirms term-limited club recognition with a month-end results condition. E011 reaches a `Divi:Sion System` terminal that recognizes Alice as `AL-1S` without answering her origin question, then transfers password-locked `G.Bible.exe` while reporting deletion of Momoi's saves. E012 has Veritas rule out save restoration and give metadata/IP reasons for judging the file original; the parties seek seized `鏡` as a proposed bypass. E013 puts Alice in council custody as a decoy and gains compromised system access. E014–E015 show adaptive C&C defense, Alice self-escape/reunion and a beam strongly associated with her, while Yuuka threatens suspension/confinement and Schale complaint. E016 confirms Alice physically holds Mirror, but Nel nearly discovers the group and Yuzu diverts her through a false emergency. E017 places the party back in its clubroom; Nel reports Rio withdrew the C&C job, and Maki reports returning Mirror to Seminar and opening Bible while an undeciphered `<Key>` folder remains. E018 displays Bible's `ゲームを愛しなさい` maxim, not a procedural shortcut. Alice's positive player testimony and Yuzu's six-month history move the club from despair to announcing `TSC2` work under a six-day clock. That start is not a finished game, official renewal or resolved sanction. Coverage is **60 / 310** units; all seven ledgers carry provisional deltas above the C002 checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the chapter's adult ideal, with privacy, veto, possession, and bodily/professional boundaries retained as counterevidence. It distinguishes integrated Kaiser coercion from separate Gematria cooperation, and emotional rescue from unresolved debt, land loss, federal weakness, and fragmented accountability. Volume 2 E001–E019 introduce the Millennium club's survival dispute, ruins search and found Alice. Her game-shaped belonging and presented ID remain separate from lawful enrollment; E007 adds a chosen railgun and unverified combat-design hypothesis. E009 confirms term-limited club recognition with a month-end results condition. E011 reaches a `Divi:Sion System` terminal that recognizes Alice as `AL-1S` without answering her origin question, then transfers password-locked `G.Bible.exe` while reporting deletion of Momoi's saves. E012 has Veritas rule out save restoration and give metadata/IP reasons for judging the file original; the parties seek seized `鏡` as a proposed bypass. E013 puts Alice in council custody as a decoy and gains compromised system access. E014–E015 show adaptive C&C defense, Alice self-escape/reunion and a beam strongly associated with her, while Yuuka threatens suspension/confinement and Schale complaint. E016 confirms Alice physically holds Mirror, but Nel nearly discovers the group and Yuzu diverts her through a false emergency. E017 places the party back in its clubroom; Nel reports Rio withdrew C&C's job, and Maki reports returning Mirror to Seminar and opening Bible while an undeciphered `<Key>` folder remains. E018 displays Bible's `ゲームを愛しなさい` maxim, not a procedural shortcut. Alice's positive player testimony and Yuzu's six-month history move the club to `TSC2` work. E019 directly confirms contest registration and separate public web upload; early comments are mixed and mostly pre-play, with no prize result. C&C fire drives the club from its room; Nel tests Alice in a destructive duel, Alice reports 48% damage after a floor shot, and Nel stops pursuit. Club standing, injury aftermath, sanction and prize remain OPEN. Coverage is **61 / 310** units; all seven ledgers carry provisional deltas above the C002 checkpoint. `BA-C001`–`BA-C018` remain live; no `BA-C019` is opened. Contextual backfill is **DEFER**.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. Momoi, Midori, Yuuka, Alice / `AL-1S`, Yuzu, Utaha, Hibiki, Kotori, Hare, Maki, Kotama, Akane, Karin, Asuna and Nel are `UNMODELED`; the next unit, `BA:main:002:001:019`, remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. No standalone character model, global capability assessment, or prospective prediction has been created. Momoi, Midori, Yuuka, Alice / `AL-1S`, Yuzu, Utaha, Hibiki, Kotori, Hare, Maki, Kotama, Akane, Karin, Asuna and Nel are `UNMODELED`; the next unit, `BA:main:002:001:020`, remains unopened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **60 / 310 canonical main units deep-read**;
+- main-story coverage: **61 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -90,9 +90,10 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E016_DEEP_READING.md` — **active_provisional**, Alice physically holds Mirror / Nel near-discovery / Yuzu deceptive diversion / goal still `G.Bible`;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E017_DEEP_READING.md` — **active_provisional**, return to club / Rio withdrawal report / Mirror return and Bible access / undeciphered `<Key>` / content withheld;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E018_DEEP_READING.md` — **active_provisional**, Bible maxim / Alice player testimony / Yuzu six-month history / renewed sequel start;
-- next crosswalk unit: `BA:main:002:001:019`.
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E019_DEEP_READING.md` — **active_provisional**, contest registration and web release / mixed comments / C&C raid / costly Alice-Nel duel;
+- next crosswalk unit: `BA:main:002:001:020`.
 
-The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E018 boundary above.
+The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E019 boundary above.
 
 No specialist monograph or series-level synthesis exists yet. **Historical Chapter 1 context follows; the current boundary is the C002 checkpoint above.** The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -351,8 +352,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V002_C001_E009_DEEP_READING.md` — term-limited recognition/results/Yuzu-offer unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V002_C001_E010_DEEP_READING.md` — renewed ruins/trust/command unit, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V002_C001_E011_DEEP_READING.md` — terminal recognition/locked transfer/escape unit, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_V002_C001_E012_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V002_C001_E018_DEEP_READING.md` — Veritas appraisal, Mirror raid, C&C defense, Nel diversion, file disclosure and renewed creative-work sequence, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first sixty marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V002_C001_E012_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V002_C001_E019_DEEP_READING.md` — Veritas appraisal, Mirror raid, C&C defense, file disclosure, contest entry and renewed C&C conflict, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first sixty-one marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -364,12 +365,12 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:002:001:018` provisionally, inheriting the canonical Chapter 2 checkpoint. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:002:001:019` provisionally, inheriting the canonical Chapter 2 checkpoint. They are mutable infrastructure, not frozen releases.
 
 ### Character reconstruction state
 
 - specification: canonical and populated;
-- coverage index: canonical and provisionally updated through V002 C001 E018;
+- coverage index: canonical and provisionally updated through V002 C001 E019;
 - bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
 - standalone reconstruction models: none;
 - readiness: sixteen `PARTIAL_MODEL` subjects, twenty-one `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
@@ -378,7 +379,7 @@ All currently have the same sequential boundary: `BA:main:002:001:018` provision
 
 ### Not yet created
 
-- `MAIN_V002_C001_E019` and subsequent main-story deep readings;
+- `MAIN_V002_C001_E020` and subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
 - standalone character reconstruction models and validation registers;
@@ -432,22 +433,22 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, including both mandatory checkpoints, are complete. `時計じかけの花のパヴァーヌ` Chapter 1 is active through E018.**
+**`対策委員会編` Chapter 1 and Chapter 2, including both mandatory checkpoints, are complete. `時計じかけの花のパヴァーヌ` Chapter 1 is active through E019.**
 
 The current authorized range continues in order. The next crosswalk unit is:
 
-- story ID: `BA:main:002:001:019`;
-- scope: `MAIN_V002_C001_E019`;
+- story ID: `BA:main:002:001:020`;
+- scope: `MAIN_V002_C001_E020`;
 - arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第19話;ダブルオー`.
+- source title: `第20話;ミレニアムプライス`.
 
-Use the Prologue, Chapter 1 checkpoint, Chapter 2 checkpoint, and V002 C001 E001–E018 readings as prior authority while preserving their open-question and epistemic-firewall registers. E018 discloses Bible's `ゲームを愛しなさい` maxim and a built-in error denial, with Midori's local no-damage appraisal. Alice's appreciation of the existing game and Yuzu's six-month history ground a decision to start `TSC2`; neither the maxim nor a stated six-day interval proves completion or public success. A separate undeciphered `<Key>` folder does not explain Alice's origin. Do not infer official club renewal, a resolved sanction or a Sensei/Schale placement guarantee.
+Use the Prologue, Chapter 1 checkpoint, Chapter 2 checkpoint, and V002 C001 E001–E019 readings as prior authority while preserving their open-question and epistemic-firewall registers. E019 shows system-confirmed `TSC2` contest registration and separate public web upload, but only early mixed/pre-play comments and a three-day result forecast. Incoming C&C fire prompts Momoi to protect Sensei/clubroom by leaving; Nel challenges Alice, whose floor shot inflicts a 48% damage self-report, and Nel declines pursuit. Do not infer a prize, official club renewal, treatment outcome, validated Nel power ranking, Rio motive or romance from C&C teasing. `<Key>` still does not explain Alice's origin.
 
 The next permitted story operation is the unit above under these controls.
 
 Before narrative access:
 
-1. retain the Prologue plus `MAIN_V001_C001` and `MAIN_V001_C002` checkpoints and `MAIN_V002_C001_E001–E018` as the complete prior-information boundary;
+1. retain the Prologue plus `MAIN_V001_C001` and `MAIN_V001_C002` checkpoints and `MAIN_V002_C001_E001–E019` as the complete prior-information boundary;
 2. preserve the Chapter 2 contextual-backfill decision `DEFER`;
 3. use the character coverage index to identify any diagnostic reconstruction questions without converting them into predictions after exposure;
 4. if a formal character rule is to be prospectively tested, freeze its exact state, knowledge, relationship, conditions, alternatives, and disconfirming observation in a committed register first;
@@ -458,7 +459,7 @@ During and after the next unit:
 1. perform the literary deep reading first under strict local-information discipline;
 2. record a behavioral/reconstruction delta only for diagnostically useful evidence, otherwise `NO_MATERIAL_RECONSTRUCTION_DELTA`;
 3. update all affected ledgers and the coverage index only for material changes;
-4. preserve Chapter 2 character-knowledge and Kaiser/Gematria firewalls, and E001–E018's Millennium attribution/uncertainty firewalls, unless the new source explicitly changes them;
+4. preserve Chapter 2 character-knowledge and Kaiser/Gematria firewalls, and E001–E019's Millennium attribution/uncertainty firewalls, unless the new source explicitly changes them;
 5. adjudicate any previously frozen rule without editing the prediction wording.
 
 
@@ -947,4 +948,14 @@ E017's historical forward frontier was `BA:main:002:001:018` / `MAIN_V002_C001_E
 - Alice reports six days, four hours and thirty-eight minutes until Millennium Prize. Momoi judges it sufficient and announces `TSC2` development. No completed game, official renewal, enacted sanction, decoded `<Key>` or origin answer appears.
 - No new tracked subject or readiness change: sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`; no standalone model, frozen prediction or `BA-C019`. Contextual backfill **DEFER**.
 
-E018's forward frontier is `BA:main:002:001:019` / `MAIN_V002_C001_E019`.
+E018's historical forward frontier was `BA:main:002:001:019` / `MAIN_V002_C001_E019`; that unit is now complete.
+
+## V002 C001 E019 state delta
+
+- `MAIN_V002_C001` is active through E019; coverage is **61 / 310**.
+- The contest system confirms `TSC2` participation registration. Momoi separately uploads a web version; the first comments range from mockery to curiosity, mostly before represented play. Momoi reports 2,000+ downloads and Midori a portal article. Neither reception nor prize result is settled; Midori expects results in three days.
+- Alice proposes an IP-directed beam against a mocking commenter, but Midori forbids it and no shot is fired. Later fire identified by Midori as Karin's threatens the clubroom; Momoi opts to leave to protect Sensei and the room. Sensei's calm/exit choice variants converge, rather than forming one fixed sequence.
+- In an old hallway Nel intercepts the party, attributes its prior tactical success to Sensei and denies revenge. Her Sensei attribution is an opponent inference; her stated interest in testing Alice is direct. Yuzu's earlier ruse is recognized, but Nel mistakes her real fear for acting. Alice accepts a challenge, explicitly fires, is disadvantaged at close range and blasts the floor despite self-risk. She reports 48% damage and requests retreat; Sensei's single option offers to carry her. Nel survives and orders no pursuit. School damage, treatment and future relations remain unresolved.
+- No new tracked subject or readiness change: sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`; no standalone model, frozen prediction or `BA-C019`. Scene-1 and scene-2 choice branches and multiple role-flipped labels remain quarantined. Contextual backfill **DEFER**.
+
+E019's forward frontier is `BA:main:002:001:020` / `MAIN_V002_C001_E020`.

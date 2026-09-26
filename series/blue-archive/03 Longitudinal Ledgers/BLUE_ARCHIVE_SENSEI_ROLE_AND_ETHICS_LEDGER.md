@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -597,3 +597,11 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Sensei has no speech, choice or represented action while Bible reveals its maxim, Alice speaks as player, Yuzu recalls the sisters' visit and Momoi starts a new project. Do not attribute this recovery to adult command or guaranteed institutional rescue.
 - Midori's E017 Schale fallback remains only her hope. E018 does not enact it, settle Alice's placement, revoke Yuuka's prospective complaint or discharge the teacher's ethical accountability for the raid.
 - Sensei remains `PARTIAL_MODEL` with `NO_MATERIAL_RECONSTRUCTION_DELTA` and no frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E019 delta — accusation, branch-conditioned exit and offered carrying
+
+- Momoi decides to leave the clubroom partly to avoid exposing Sensei to incoming fire. Sensei's scene-1 options are to calm the group or use Karin's reload window to get outside; route-conditioned Midori responses converge on exit and must not be stacked.
+- Nel says Akane's research identifies Sensei and attributes the raid and student direction to them. This is an opposing actor's inference based on visible coordination, not proof the teacher designed the students' infiltration or authorized every harm.
+- After Alice's damaging floor shot, the sole Sensei option is `私が背負う`, with Midori urgently accepting. This is an offered care act in a retreat, not a shown complete medical rescue or an all-context paternal rule.
+- Scene-2 `まだだよ` is `先生（心の声）`, not an audible warning that students obey. C&C teasing about Sensei attractiveness/height preference is not evidence of actual adult romantic preference.
+- Sensei remains `PARTIAL_MODEL`; no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).

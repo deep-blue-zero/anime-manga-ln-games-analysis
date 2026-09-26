@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -496,3 +496,13 @@ No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one 
 - **Artifact:** Bible repeats `ゲームを愛しなさい` and its built-in button denies an error. These are program claims, not external truth or a displayed development algorithm.
 
 No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine `u:0042-0043`, `u:0048-0057` and `u:0131-0132` for exact person labels.
+
+## V002 C001 E019 delta — published game, mixed response and costly duel
+
+- **Momoi:** completes last-minute contest registration, proposes and executes public web upload to see players beyond judges, then chooses evacuation rather than risk Sensei/clubroom under fire. Her anxiety after comments and downloads coexists with a stated effort to show their work.
+- **Yuzu:** endorses upload despite older backlash, says audience play completes a work and expects companions to help her bear possible criticism. This is a direct exposure decision, not proven future resilience.
+- **Alice:** proposes an IP-directed beam against an early mocking commenter; Midori stops her and no shot follows. Later she accepts Nel's challenge, explicitly fires her railgun, swings it at close range and shoots the floor despite self-risk. She reports 48% bodily damage and asks to retreat; no permanent incapacity or safe-power generalization follows.
+- **Nel:** recognizes Yuzu's earlier deception, denies revenge, frames fighting Alice as a test, survives the floor blast and orders no pursuit. Her teacher-as-master and Rio-interest appraisals remain her inferences, not verified causes.
+- **Sensei:** may urge calm or a reload-window exit; later a single option offers to carry damaged Alice. Nel attributes the raid to Sensei from her investigation, but E013 retains student tactical authorship.
+
+No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Preserve route/label quarantines at scene 1 `u:0103-0105` and scene 2 `u:0019-0031`, `u:0073-0076`, `u:0083-0084`, `u:0144-0145`.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -585,3 +585,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **A hostile crowd and a small sustaining audience:** six-month flashback comments drive Yuzu inward, while Momoi/Midori's praise gives her collaborators; Alice's later praise fulfills a dream. Public ranking and intimate reception are different measures, not mutually exclusive facts.
 - **Home built by repeated making:** Yuzu's wish for the shared dream to continue answers E017's separation fear through a new commitment, not by securing legal standing or removing the council's deadline.
 - **Layered time, unfinished future:** E017's two-hour flashback resolves the cliffhanger; E018's six-month flashback explains Yuzu's stakes. The final six-day interval moves from history to an outcome-open project.
+
+## V002 C001 E019 motif / callback delta — made and seen, not yet judged
+
+- **Creative work reaches an audience:** the sequel is registered and separately released on the web. Yuzu's earlier desire for someone to play becomes a chosen public exposure, while pre-play comments show attention is not the same as approval or completed reception.
+- **From review injury to response restraint:** the first mocking comment tempts Alice to disproportionate beam retaliation; Midori forbids it. Yuzu answers with a distinction between actual play and uninformed derision. A care-driven impulse still needs a limit.
+- **The room is worth preserving materially:** under Karin's incoming shots, Momoi evacuates partly to spare Sensei and the clubroom. The E012 shared-place motif becomes an immediate tactical constraint, not just an ideal.
+- **Strength has a geometry and cost:** Alice's high-output beam tears a wall but Nel exploits delay/close range; Alice's floor shot changes geometry at 48% reported self-damage. Raw power does not establish victory or safe use.
+- **Test, not revenge, by Nel's account:** Nel recognizes the club's tactical success, denies personal vengeance, tests Alice and then stops pursuit. Her choice has a boundary, though the coerced fight and collateral remain ethically unsettled.

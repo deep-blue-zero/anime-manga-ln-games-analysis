@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -840,3 +840,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Momoi's `便利な方法なんか無い` acknowledges a failed shortcut hope; Midori's `G.Bible無しじゃ、良いゲームは作れない` is despair, not a measured incapacity. Alice's `面白い`, `夢を見る` and `覚めなければ` express situated appreciative play.
 - Yuzu's `四桁以上の低評価コメント` and `クソゲーランキング1位` are her reception reports. The `6か月前` flashback depicts hostile comments and the sisters' contrasting praise, not complete independent metric verification. `UZ様` is Momoi's explicit address after entry.
 - Alice's `6日と4時間38分` is an in-story contest interval, not a production duration. **Attribution quarantine:** `u:0042-0043` has Yuzu addressing an older sister, `u:0048-0057` labels a multi-person exchange Alice, and `u:0131-0132` has Yuzu apparently self-address/respond. Anonymous earlier visitors are identified later as the sisters without repairing each turn.
+
+## V002 C001 E019 delta — registered entry, audience speech and combat limits
+
+- `参加受付が完了しました` is a direct registration message, distinct from web `転送完了` and the future result. Momoi's `まだ結果が出たわけじゃない` preserves that boundary; three days is an in-story forecast.
+- Yuzu's `見てくれる人、遊んでくれる人がいてこそ、完成` and `わたしはもう、大丈夫` are her release rationale and situated self-report, not guaranteed resilience. Early usernames/comments reflect anticipation and old-game memories, not verified sequel play.
+- Alice proposes `該当IPアドレスの方角` beam retaliation but Midori says `ダメ`; no beam follows that comment. Midori's `13.97mm` and Alice's `11時`/`約1km` are field appraisals.
+- Nel's `復讐ってわけじゃねぇ` and `興味` oppose the club's revenge guess. Her `正当な依頼` is her own institutional characterization; `この間合いで...一人もいねぇ` is a close-combat boast, not an audited Kivotos ranking. Alice's `肉体損傷48%` is a self-report after the floor blast.
+- **Branch/label quarantine:** scene 1 `u:0103-0105` follows calm versus exit choices; scene 2 `u:0019` and `u:0028-0031` answer different Sensei questions. Scene 2 `u:0020`, `u:0073-0076`, `u:0083-0084`, `u:0144-0145` have role flips; `u:0077` is Sensei internal thought. Alice's confession-event joke and C&C's Sensei teasing do not establish romance.

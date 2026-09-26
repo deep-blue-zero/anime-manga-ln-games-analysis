@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -437,3 +437,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **YUZU ↔ MOMOI/MIDORI:** Yuzu says severe criticism drove her into the club; the sisters arrived six months earlier as enthusiastic players and collaborators. The flashback depicts their praise and explicit identification, strengthening her reported causal history without making every anonymous turn a clean named quotation.
 - **YUZU ↔ ALICE:** Alice's `面白い` fulfilled Yuzu's personal dream of building with close companions and being appreciated. Yuzu wants this shared practice to continue even after poor ranking and Bible disappointment.
 - **CLUB ↔ SHARED WORK:** Momoi responds to Yuzu/Alice by starting `TSC2` under a stated six-day interval. This is renewed cooperation, not submitted output, official recognition or solved separation risk.
+
+## V002 C001 E019 relationship delta — publication and bounded opposition
+
+- **YUZU ↔ CLUB/AUDIENCE:** Yuzu supports web publication despite the older hostile-response history, because actual viewers/players complete a work for her. She says companions make criticism bearable; the initial mixed comments have not yet tested that belief over time.
+- **ALICE ↔ MIDORI/CLUB:** Alice's proposed beam against a commenter is refused by Midori, then Alice accepts a fight and incurs real harm. The group finds her and turns to retreat; concern and constraint coexist, not unconditional approval of her force.
+- **MOMOI ↔ SENSEI/CLUBROOM:** Momoi rejects fighting from the room to avoid harming Sensei or their physical shared place. This is a concrete protective choice, with the later battle's collateral damage still unresolved.
+- **NEL ↔ YUZU/ALICE/SENSEI:** Nel says she knows Yuzu deceived her yet praises it; she attributes student coordination to Sensei and seeks to test Alice, expressly denying revenge. After the blast she declines pursuit. This is opponent respect/interest under force, not friendship or a verified romance.
+- **C&C ↔ NEL:** Karin/Akane consider tracking the wounded group, but Nel stops them. Later teasing about Sensei/height is speculative within the team, not an admitted preference or relationship.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -431,3 +431,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Creative record:** Yuzu says her prototype received more than four figures' worth of negative comments; the six-month-earlier flashback depicts several abusive remarks, then Momoi/Midori's positive visit. She reports the completed game later ranked first on a bad-game list. These are depicted/reported reception, not audited sales or objective quality scores.
 - **Contest clock:** Alice reports six days, four hours and thirty-eight minutes until Millennium Prize. Momoi judges it enough and calls for `TSC2` development to begin. No completed game, submission, prize or renewal decision appears.
 - **Outstanding authority:** Yuuka's threatened sanction/Schale complaint, club output condition, Alice's school/home status and `<Key>` remain unresolved. The new project does not erase the earlier raid's costs.
+
+## V002 C001 E019 institutional delta — registration, web audience and damaged school
+
+- **Prize:** a system message confirms participation registration after the upload. Momoi/Midori expect results in three days; no prize, judging decision or club-renewal ruling is shown.
+- **Public release:** Momoi separately uploads a web version. Visible comments mix pre-play derision, qualified anticipation and curiosity; they are not a representative post-play verdict. Momoi reports 2,000+ downloads and Midori reports major-portal coverage; treat both as in-scene reports, not audited readership.
+- **Armed interruption:** Midori identifies Karin's 13.97-mm fire at the clubroom; Alice gives a rough direction/range. Yuzu reports council people outside. Specific shooters' positions, chain of command and retaliation motive are not independently established by the reports alone.
+- **Collateral risk:** Momoi evacuates to protect Sensei and the room. Alice's explicit shot is said by Akane to remove a wall; her later floor shot collapses much of the old corridor floor. A voluntary Nel/Alice fight does not erase school-property harm or resolve safety/accountability.
+- **Medical/discipline:** Alice self-reports 48% damage, Sensei offers to carry her, and Nel stops pursuit. Karin's inferred infirmary route and Alice's immediate combat incapacity are not confirmed treatment or lasting diagnosis. Yuuka's sanctions/complaint and `<Key>` remain open.

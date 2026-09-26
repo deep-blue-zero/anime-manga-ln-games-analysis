@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E018 active provisional; E019 unopened
+current_sequential_boundary: MAIN_V002_C001_E019 active provisional; E020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1262,3 +1262,12 @@ No `BA-C019` is opened. Mirror return, file access and Nel's Rio report revise l
 - **BA-C009–C018: PRESERVE / no direct global test** — no Abydos/Kaiser revision follows from this Millennium creative choice.
 
 No `BA-C019` is opened by the slogan or an announced sequel alone. `G.Bible` contents are now known locally as displayed maxim/error denial, but its causal sufficiency, full provenance, `<Key>`, club standing, sanctions and actual game outcome remain OPEN. Quarantine the all-Alice present exchange and Yuzu self-address labels for individual voice. Contextual backfill remains **DEFER**.
+
+## V002 C001 E019 claim transitions — product success and costly combat are separate
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the students register and publicly release `TSC2`, choosing actual audience exposure after the raid. Momoi protects Sensei/the room, while Alice's commenter-retaliation proposal is stopped and her floor shot inflicts reported self-harm and property damage. Care, agency and proportionality remain contested.
+- **BA-C005–C006: PRESERVE REJECTED** — Nel credits Sensei with student coordination, but the record still gives students product authorship, publication, refusal and combat choices. The web audience, C&C and council also possess different information.
+- **BA-C008: LIMITED TEST** — the calm/exit alternatives are branch-conditioned and converge; the later single carrying offer is bounded care, not guaranteed medical rescue or proof of plan authorship.
+- **BA-C009–C018: PRESERVE / no direct global test** — this Millennium release/fight does not revise Abydos/Kaiser claims.
+
+No `BA-C019` is opened. Registration and web upload are observed, but prize, official club standing, genuine post-play reception, damage repair, Alice's treatment, sanctions and Rio's true motive remain OPEN. Nel's no-pursuit decision is direct; teasing about her/Sensei does not establish romance. Contextual backfill remains **DEFER**.
