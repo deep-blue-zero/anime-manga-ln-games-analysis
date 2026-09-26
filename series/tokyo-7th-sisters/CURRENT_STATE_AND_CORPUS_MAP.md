@@ -4,7 +4,7 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.61"
+version: "12.62"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -41,8 +41,8 @@ substantive_findings_at_bootstrap: false
 execution_scope: continuous_sequential_60_major_blocks
 sequential_execution:
   mode: continuous_sequential
-  latest_operation: T7S_B0159_CLOSE
-  status: ACTIVE
+  latest_operation: T7S_B0100_B0159_FINAL_INTEGRATION_AUDIT
+  status: COMPLETE_LOCAL_AUDIT_PASSED
   authorized_start: T7S_B0100
   terminal_boundary: T7S_B0159
   committed_high_water: T7S_B0159
@@ -53,7 +53,7 @@ sequential_execution:
   next_candidate_episode_id: ""
   next_candidate_family_layer_id: ""
   next_candidate_native_chapter_layer_id: "301320"
-  next_candidate_status: AUTHORIZED_NOT_YET_CONSUMED
+  next_candidate_status: OUTSIDE_AUTHORIZED_B0100_B0159_RUN_NOT_CONSUMED
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -81,7 +81,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**B0159 is closed; the authorized B0100–B0159 run is active (60/60 blocks).** The [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) binds the 174-episode plan and exact checkpoint. [B0159](02%20Readings/T7S_B0159_DEEP_READING.md): Kyoko auditions for a remake of a film starring her retired-actress mother Midorikawa Juri/Uesugi Asuna; friends protect her disclosure, help imperfectly, and stay with her after she loses to another newcomer. She grieves, respects her mother's craft, and affirms her own idol path without proving casting motive or a permanent cure for comparison. Performed audio remains unauditioned; the 2034 era release is incomplete and every 2053 semantic operation remains blocked.
+**The authorized B0100–B0159 run is locally complete (60/60 blocks, 174/174 primary documents); publication awaits remote readback.** The [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) bind the exact scope and evidence. [B0159](02%20Readings/T7S_B0159_DEEP_READING.md): Kyoko auditions for a remake of a film starring her retired-actress mother Midorikawa Juri/Uesugi Asuna; friends protect her disclosure, help imperfectly, and stay with her after she loses to another newcomer. She grieves, respects her mother's craft, and affirms her own idol path without proving casting motive or a permanent cure for comparison. Performed audio remains unauditioned; the 2034 era release is incomplete and every 2053 semantic operation remains blocked.
 
 ## Governing and cumulative homes
 
@@ -466,3 +466,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-09-26 — V1 / 12.60: close T7S_B0158, advance the run to 59/60 blocks and 171/174 episodes, preserve historical states, and route the next unconsumed boundary.
 
 - 2026-09-26 — V1 / 12.61: close T7S_B0159, advance the run to 60/60 blocks and 174/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.62: close the sixty-block run locally, correct the B0157 Honoka subject token, mark chapter 301320 outside authorization, and bind the completion audit; remote publication remains pending.

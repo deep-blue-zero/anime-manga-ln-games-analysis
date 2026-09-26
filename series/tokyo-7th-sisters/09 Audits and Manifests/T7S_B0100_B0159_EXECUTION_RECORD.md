@@ -4,8 +4,8 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.59"
-status: in_progress
+version: "1.60"
+status: audit_passed_local
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: 2026-09-25
@@ -26,11 +26,11 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0159`.
+- State: `COMPLETE_LOCAL_AUDIT_PASSED`; committed high-water: `T7S_B0159`.
 - Completed run blocks: **60/60**; completed run episodes: **174/174**.
-- Next: final sixty-block integration and publication audit; no new story source.
+- Next: non-forced upstream publication and exact-head remote audit; chapter `301320` is outside this authorization.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
-- Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
+- Publication: `LOCAL_AUDIT_PASSED_PUSH_PENDING`; non-forced push, remote readback, repository audit, housekeeping and exact-head integration status are still required.
 
 ## Frozen routing plan and observed completion
 
@@ -346,3 +346,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0159 closeout receipt
 
 [T7S_B0159](../02%20Readings/T7S_B0159_DEEP_READING.md): Kyoko auditions for a remake of a film starring her retired-actress mother Midorikawa Juri/Uesugi Asuna; friends protect her disclosure, help imperfectly, and stay with her after she loses to another newcomer. She grieves, respects her mother's craft, and affirms her own idol path without proving casting motive or a permanent cure for comparison. All 431 pages, 392 text records and 39 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.61 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 330 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 60/60 blocks, 174/174 episodes; publication remains pending.
+
+## Final local integration audit
+
+The [completion audit](T7S_B0100_B0159_COMPLETION_AUDIT.md) reconciles all sixty closed native chapters and 174 primary documents with locked source packets, 448 inspected static resources, the coverage manifest, cumulative ledgers and the authorized terminal boundary. It records the three-row B0157 Honoka subject-token repair without rewriting earlier receipts. Chapter `301320` is an outside-scope metadata candidate, not an authorized next reading. Local audit is passed; remote publication/readback remains pending.
