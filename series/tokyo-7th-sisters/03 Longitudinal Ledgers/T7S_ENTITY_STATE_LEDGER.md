@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.38"
+version: "11.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 148 complete i-n-g primary documents / T7S_B0080–T7S_B0137; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 151 complete i-n-g primary documents / T7S_B0080–T7S_B0138; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 307`; `directional_relationship_states = 520`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0137, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 314`; `directional_relationship_states = 528`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0138, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2875,3 +2875,43 @@ The [B0137](../02%20Readings/T7S_B0137_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0520` | Nanasta peers → Rishuri, **pride, ambivalence and social welcome** | See show work, voice distinct pride/relief and Sui says `おかえり`. C:P1–80. Reciprocal `REL-0519`; no exact institutional re-entry terms. |
 
 `T7S_B0137_CLOSE-20260926`: seven actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no brand employment offer, completed next-day work or permanent career settlement.
+
+## B0138 Saori, dog-walking child, Sawara and Coney
+
+The [B0138](../02%20Readings/T7S_B0138_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.40, binds these updates. Existing Saori `IDENTITY-0050`/`CHAR-0038`, Sawara `IDENTITY-0022`/`CHAR-0019`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` remain distinct from new chapter-local child `IDENTITY-0095`/`CHAR-0077`. Literal `女の子` and generic sprite must not be conflated with another unnamed fan.
+
+| ID / local subject | Literal source identity and bounded route | Confidence, evidence, and unresolved obligation |
+| --- | --- | --- |
+| `IDENTITY-0095` / `saori-dog-walk-girl` | Literal `女の子`; repeatedly attends Saori's live with a dog, talks to her in the park after the dog's death, and is recognized by Sawara on returning to another live. | High for this chapter-local continuity; A:P5–7,16–18,27–52; C:P34–48; `EV-B0138-001`–`003`, `007`. No name, precise age, reliable portrait, other fan equivalence, dog medical history or later contact. |
+
+| Existing/new stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0038` / Saori | Treats a falling-light near miss/small wounds as secondary to joy, misreads girl's absence, tries to turn grief into smiles, accepts her refusal and shifts toward waiting as an idol. | A:P2–59; B:P2–42; C:P1–17,54–57. No injury clearance, guaranteed grief repair or direct final conversation. |
+| `CHAR-0077` / dog-walking girl | Encourages Saori's practice and attends lives, loses her dog by mother's account, refuses pressure to smile, later returns wishing to communicate/apologize and agrees to watch the stage. | A:P4–7,16–18,27–52; C:P34–48. No named identity, exact age, recovered smile, completed apology or clinical grief course. |
+| `CHAR-0019` / Sawara | Witnesses difficult park exchange, listens to Saori with a gentle smile, helps her adopt waiting, then offers girl a voluntary stage-to-backstage path. | A:P3–5,55–58; B:P2–42; C:P1–51. Her smile does not imply simple happiness or guarantee reunion. |
+| `CHAR-0003` / Coney | Apologizes for equipment issue, names smile limit, checks Saori's anger, proposes patience and sees Sawara's careful expression. | A:P11–20,55–59; B:P2–42; C:P1–33. No root-cause/safety audit or complete past history. |
+| `CHAR-0001` / Player | Praises show, knows girl's loyal attendance, later finds her with Sawara before next live and remarks on Saori's brighter demeanor. | A:P11–20; C:P34–53. Not a medical or grief-outcome witness. |
+| `UNIT-0002` / Nanasta | Saori/Sawara perform despite equipment hazard and later prepare another live at which child appears. | A:P2–20; C:P34–57. No completed incident review or witnessed post-show reconciliation. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0308` | Sawara/Player/Coney and audience know a light fell toward Saori; Saori says small wounds do not concern her; Saori/Player know girl attends with dog. | A:P2–20. Injury severity, root cause and clearance unknown. |
+| `KNOW-0309` | Saori initially believes girl may be bored, then girl says her mother reported dog's death and she cannot smile. | A:P22–39. Child's absence is not validated as boredom; dog medical details absent. |
+| `KNOW-0310` | Girl tells Saori a smile/song cannot restore dog or fill loss and rejects having to smile; Saori hears and becomes silent. | A:P35–59. Child's later permanent feelings unknown. |
+| `KNOW-0311` | Sawara/Coney disclose overhearing; Saori articulates inability to absorb past loss and says girl's words do not anger her. | B:P2–39. Girl is not yet shown learning Saori's nonanger. |
+| `KNOW-0312` | Coney suggests waiting, Saori hears and chooses continuing idol availability; Sawara adds support. | B:P40–42; C:P1–17. No promised timetable or cure. |
+| `KNOW-0313` | Coney sees Sawara's smile as caring despite sadness; Sawara alludes to Coney's prior experience and receives broad confirmation. | C:P18–33. No specific past chronology disclosed. |
+| `KNOW-0314` | Girl returns wanting to apologize, worries Saori is angry, hears Sawara say she is not; she agrees to watch before backstage. | C:P34–57. No direct apology/reconciliation or resolved grief shown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0521` | Saori → child, **smile promise revised to waiting** | Values first fan, presses joy through grief, then accepts a future-paced relation. A:P16–52; B:P17–42; C:P1–17. Reciprocal `REL-0522`; no direct final meeting. |
+| `REL-0522` | Child → Saori, **feedback, refusal and chosen return** | Encourages earlier practice, refuses compulsory smile after dog loss and later wants to speak/apologize. A:P4–7,16–18,27–52; C:P34–48. Reciprocal `REL-0521`; no recovered smile shown. |
+| `REL-0523` | Coney → Saori, **limit-naming and patience proposal** | Hears grief reflection, checks anger and offers waiting rather than instant smile. B:P15–42; C:P1–17. Reciprocal `REL-0524`; no safety cure. |
+| `REL-0524` | Saori → Coney, **vulnerability and revised practice** | Tells her shame/limit, says she is not angry and accepts waiting. B:P17–42; C:P1–17. Reciprocal `REL-0523`; future success not guaranteed. |
+| `REL-0525` | Sawara → child, **low-pressure return bridge** | Recognizes child, tells her Saori is not angry and suggests stage viewing then backstage. C:P34–48. Reciprocal `REL-0526`; child–Saori exchange unshown. |
+| `REL-0526` | Child → Sawara, **uncertain trust and assent to route** | Confesses fear of having hurt Saori, asks if visit is allowed and accepts the proposed sequence. C:P37–48. Reciprocal `REL-0525`; no obligation to smile. |
+| `REL-0527` | Sawara → Saori, **smiling witness to hard feeling** | Listens and supports waiting even as Coney sees her smile is not simple happiness. A:P55–59; B:P2–42; C:P1–33. Reciprocal `REL-0528`; not a claim she can carry grief away. |
+| `REL-0528` | Saori → Sawara, **open account of vocational limit** | Explains failure to make child laugh and receives support. B:P11–42; C:P1–17. Reciprocal `REL-0527`; no achieved future reunion. |
+
+`T7S_B0138_CLOSE-20260926`: one new chapter-local identity, one bounded child character state, seven epistemic states, four directional relationship pairs and existing-actor/unit annotations; no name, grief cure, safety clearance or completed apology.

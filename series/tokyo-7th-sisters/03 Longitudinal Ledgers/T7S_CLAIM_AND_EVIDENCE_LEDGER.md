@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.38"
+version: "11.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 148 complete i-n-g primary documents / T7S_B0080–T7S_B0137; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 151 complete i-n-g primary documents / T7S_B0080–T7S_B0138; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 641`; `revisions = 42`; `predictions = 7`; `AV_reviews = 84`; `literary_findings = 641`. Claims are bounded to their stated B0001 through B0137 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 58 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 645`; `revisions = 42`; `predictions = 7`; `AV_reviews = 85`; `literary_findings = 645`. Claims are bounded to their stated B0001 through B0138 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 59 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2035,3 +2035,26 @@ Owner and A/B/C locator key: [B0137](../02%20Readings/T7S_B0137_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred thirty-four dialogue-associated voice pages plus title cues, BGM/SFX and show performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0137_CLOSE-20260926`: four bounded claims and one AV review; no guaranteed top-designer path, confirmed employment offer, completed future Nanasta work, specialist or monograph promotion.
+
+## B0138 smile obligation, injury and patient care
+
+Owner and A/B/C locator key: [B0138](../02%20Readings/T7S_B0138_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.40. B0041 and B0011/B0023 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0138-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Saori's universal smile vocation burdens a grieving child's present expression; child's refusal revises care toward non-imposing availability without cancelling Saori's idol work. | A:P22–59; B:P17–42; C:P1–17. No immediate or guaranteed later cure. |
+| `CL-B0138-002` | `BOUNDED_INFERENCE`; D1; high for limit | Enjoyment after the light near miss and Saori's minimized cuts are not engineering or medical clearance; her resilience is no safe-work standard. | A:P2–20; B:P17–22. No root-cause/medical review shown. |
+| `CL-B0138-003` | `BOUNDED_INFERENCE`; D1; high for limit | Girl's voluntary return may open communication but is not an on-page Saori apology, reconciliation or end of dog grief; Sawara offers a choice, not a required smile. | C:P1–17,34–57. Final Saori line is broad audience greeting. |
+| `CL-B0138-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Sawara's gentle smile amid Saori's sadness and Saori's own effortful expression show a smile can coexist with complex feeling; Coney's reading is local, not diagnostic omniscience. | B:P17–39; C:P18–33. No universal mask theory. |
+
+### AV-0085 — Saori, Sawara and a non-individuated girl sprite
+
+- Questions/claims: whether native visuals show actual fall geometry, injury severity, a named/individualized child, grief resolution or completed backstage meeting; `CL-B0138-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed song, accident engineering/medicine and later reconciliation restrictions.
+- Selection: Saori `adv_chara_012_01_01`, `012_03_01`; Sawara `144_01_02`, `144_03_02`; Coney `002_03_03`; girl `022_01` (a one-layer, two-suffix asset). All 161 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing including the one-layer exception, and direct visual inspection, 2026-09-26; source-lock 12.40 binds six media receipts.
+- Observed: Saori/Sawara have ordinary/stage variants; the girl's image is a generic line-art placeholder, not a reliable likeness. No detailed fall, medical evaluation, complete grief expression or final meeting appears in selected stills.
+- Native occurrence: command-only A:P0–1,8–10,21,59; B:P0–1,42; C:P0,15–17,33,53,55–57. Early dark/shake/sound state accompanies reported stage trouble; later cuts separate reflection and return.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twelve dialogue-associated voice pages plus title cues, BGM/SFX and actual live performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0138_CLOSE-20260926`: four bounded claims and one AV review; no grief cure, safety clearance, individualized child portrait, completed reconciliation, specialist or monograph promotion.

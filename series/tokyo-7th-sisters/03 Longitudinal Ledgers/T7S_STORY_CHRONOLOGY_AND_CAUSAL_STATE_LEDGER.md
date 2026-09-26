@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.38"
+version: "11.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 148 complete i-n-g primary documents / T7S_B0080–T7S_B0137; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 151 complete i-n-g primary documents / T7S_B0080–T7S_B0138; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 532`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 564`; `last_closed_block = T7S_B0137`. The admitted horizon contains 383 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 148 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 539`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 575`; `last_closed_block = T7S_B0138`. The admitted horizon contains 386 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 151 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1809,3 +1809,33 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.39. [B0137](../02%20Readings/
 | `EDGE-0571` | `WELCOME_WITH_FUTURE_WORK_OPEN` | Reassurance and `ただいま`/`おかえり` in `EV-B0137-007` repair belonging without showing next-day reactivation. |
 
 `T7S_B0137_CLOSE-20260926`: seven chapter events and eleven bounded edges; no new world/thread, permanent professional conclusion, guaranteed job offer or witnessed resumed Nanasta labor.
+
+## B0138 Saori's smile boundary and the child's chosen timing
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.40. [B0138](../02%20Readings/T7S_B0138_DEEP_READING.md) owns the A/B/C locator key. B0041 and B0011/B0023 are bounded comparison horizons, not total fictional order. The unnamed girl's dog-walking, fan relation and Sawara's later recognition ground one chapter-local subject `IDENTITY-0095`; no personal name, age, full appearance or identity with other child fans is inferred.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0138-001` | Saori/Sawara finish live after a light reportedly falls toward Saori; Saori minimizes small wounds amid local audience praise and names dog-walking girl as loyal fan. | A:P2–20; `KNOW-0308`; `REL-0521`–`0528`. No safety/medical clearance. |
+| `EV-B0138-002` | Girl stops appearing; Saori fears boredom, then learns from her that dog died by mother's account and she cannot smile. | A:P22–39; `KNOW-0309`. Cause/date unverified, absence not a critique of idol quality. |
+| `EV-B0138-003` | Saori promises to turn suffering into joy; child says dog cannot return and she cannot be obliged to smile through grief. | A:P35–59; `KNOW-0310`. Child's refusal is her present need, not hatred of Saori. |
+| `EV-B0138-004` | Sawara/Coney reveal overhearing; Saori recognizes she cannot absorb already occurred loss and says she is not angry at child. | B:P2–39; `KNOW-0311`. No universal impossibility of support or safety cure. |
+| `EV-B0138-005` | Coney asks whether smile must come now, proposes waiting; Saori chooses to remain available as idol, Sawara supports. | B:P40–42; C:P1–17; `KNOW-0312`. No guaranteed recovery timetable. |
+| `EV-B0138-006` | Coney reads Sawara's gentle smile as care despite sadness; Sawara says relentless smiles are not all of idol work and alludes to Coney's past. | C:P18–33; `KNOW-0313`. No full historical disclosure or all-purpose affect reading. |
+| `EV-B0138-007` | Girl returns outside a live wishing to speak/apologize; Sawara invites stage viewing then backstage; Saori gives broad audience greeting. | C:P34–57; `KNOW-0314`. No direct reunion, accepted apology or grief resolution shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0572` | `HAZARDOUS_LIVE_TO_SAFETY_OBLIGATION` | Light incident and small wounds in `EV-B0138-001` remain safety questions despite local pleasure. |
+| `EDGE-0573` | `FAN_FEEDBACK_TO_SAORI_PROMISE` | Dog-walking girl's prior encouragement in `EV-B0138-001` informs Saori's wish to keep her smiling. |
+| `EDGE-0574` | `ABSENCE_TO_INCORRECT_BOREDOM_INFERENCE` | Saori's worry in `EV-B0138-002` is corrected by girl's grief account, not evidence of poor art. |
+| `EDGE-0575` | `DOG_LOSS_TO_PRESENT_SMILE_INABILITY` | Child's report in `EV-B0138-002` grounds her current inability to smile; no clinical diagnosis. |
+| `EDGE-0576` | `UNIVERSAL_SMILE_PROMISE_TO_REFUSAL` | Saori's immediate reassurance in `EV-B0138-003` meets child's direct refusal of compulsory joy. |
+| `EDGE-0577` | `REFUSAL_TO_SAORI_LIMIT_RECOGNITION` | Saori in `EV-B0138-004` names grief she cannot take over, not a reason to stop caring. |
+| `EDGE-0578` | `SAORI_NONANGER_TO_FUTURE_OPENNESS` | Saori says she is not angry in `EV-B0138-004`; child does not hear that directly yet. |
+| `EDGE-0579` | `CONEY_WAITING_TO_NONIMPOSING_CARE` | Coney's question in `EV-B0138-005` shifts Saori from instant result to availability, with no promised cure. |
+| `EDGE-0580` | `SAWARA_GENTLE_SMILE_TO_COMPLEX_AFFECT` | Coney's reading in `EV-B0138-006` distinguishes visible smile from simple happiness locally. |
+| `EDGE-0581` | `CHILD_INITIATIVE_TO_RETURN` | Girl chooses to come back in `EV-B0138-007` wishing to communicate; grief endpoint remains unknown. |
+| `EDGE-0582` | `SAWARA_BRIDGE_WITH_REUNION_OPEN` | Sawara proposes show then backstage in `EV-B0138-007`; direct Saori–girl conversation is not in chapter. |
+
+`T7S_B0138_CLOSE-20260926`: seven chapter events and eleven bounded edges; no new world/thread, safety clearance, grief cure or completed backstage reconciliation.
