@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -569,3 +569,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **A defender diverted by a safety story:** Yuzu protects the hidden party through a false emergency; Nel responds to what she takes as a containment need. Care/role language operates on both sides of the deception and does not make the raid's authority settled.
 - **Heroic claim versus measured threat:** Alice calls Mirror world-saving while privately estimating almost no chance against Nel. RPG-scale speech and immediate vulnerability coexist; neither should overwrite the other.
 - **Collective safe return as an unspoken wish:** Sensei's internal hope is followed by the students' movement toward more robots. The callback is an ethical desire, not a guaranteed outcome or a spoken adult command.
+
+## V002 C001 E017 motif / callback delta — arrival without the promised answer
+
+- **Successful retrieval, failed expectation:** the club reaches home, Mirror is reportedly returned, and Bible opens. The first shown response is despair, so technical access cannot stand in for creative salvation; the exact content remains withheld.
+- **Clubroom as conditional home:** Momoi ties game quality to staying together, Alice fears separation and Midori imagines a Schale fallback. E012's beloved cramped room now has explicit institutional precarity, not a guaranteed refuge.
+- **Contract versus personal curiosity:** Rio's reported withdrawal ends C&C's formal defense mission, while Nel plans a separate inquiry. Institutions may close a job without ending relationships or scrutiny; neither future revenge nor welcome is shown.
+- **An unread key beside an open guide:** `G.Bible` becomes openable while `<Key>` remains undeciphered. The repeated `AL-1S` prompt creates a possible callback to E011 but not an identity answer.
+- **Two-hour reversal:** scene 2's collapsed expectations precede the narrated preparation in scenes 3–4. The temporal device pressures the miraculous-secret rumor without yet revealing what contradicted it.

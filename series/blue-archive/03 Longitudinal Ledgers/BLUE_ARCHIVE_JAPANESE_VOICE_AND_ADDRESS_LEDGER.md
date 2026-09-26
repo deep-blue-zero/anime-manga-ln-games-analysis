@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -825,3 +825,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Yuzu says `生徒会「セミナー」所属の、ユズキ` and `戦闘ロボットが暴走` as a disguise/cover. These statements must not enter her factual affiliation or the robot ledger as true. Her `目的は「鏡」じゃなくて……「G.Bible」` securely distinguishes means from goal.
 - Nel's securely labeled `戦闘で一番大事なのは、武器でも経験でもねぇ` / `度胸だ` expresses her local combat criterion. Later first-person `あたし`/personalized praise appears under Yuzu labels and cannot be mined as a clean Nel voice sample without silently repairing the source.
 - Hare's message terminates in corrupt symbols; do not reconstruct its final instruction. Sensei `先生（心の声）` is not an audible command. **Attribution quarantine:** scene 1 `u:0006-0019` all labeled Alice despite multiple voices, and `u:0069-0076` flips Yuzu/Nel and self-addresses Yuzu.
+
+## V002 C001 E017 delta — reported withdrawal and withheld revelation
+
+- Nel's `依頼は撤回。無かったことに` reports Rio's job cancellation; her `多分` explicitly hedges the Alice-test idea. Her `興味` distinguishes personal continuing inquiry from contract duty, not necessarily friendship or revenge.
+- Akane's `依頼を受諾して、作戦を準備したのは私` is a secure responsibility admission. Nel's `んなこたぁどうでもいい` dismisses name damage, not all effects of the raid.
+- Maki's `鏡をセミナーに返すことになって` is a return report; `最初から全部知ってたみたい` is secondhand knowledge of Himari. `G.Bibleの方はきちんと開けた` supports access, not the withheld contents. `<Key>` is an opaque folder name; adjacency to `あなたはAL-1Sですか？` does not decode it.
+- Momoi's `廃部` is distressed prediction; her promised `神ゲー` is aspiration. Midori's `きっと先生が、シャーレが助けてくれる` remains a hopeful conditional statement, not Sensei's spoken commitment.
+- `（2時間前……）` starts scene 3's flashback continued through scene 4. Scene 2's reaction follows that launch. Scene 4 `u:0002-0004` has ambiguous conversational positioning around `<Key>`; do not assign a precise personal theory from it.

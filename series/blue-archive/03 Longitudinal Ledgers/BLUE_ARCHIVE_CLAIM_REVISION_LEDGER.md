@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E016 active provisional; E017 unopened
+current_sequential_boundary: MAIN_V002_C001_E017 active provisional; E018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1244,3 +1244,12 @@ No `BA-C019` is opened. Alice's escape/reunion is represented, but the unlabeled
 - **BA-C009–C018: PRESERVE / no direct global test** — the Millennium seizure and diversion do not revise Abydos/Kaiser mechanisms.
 
 No `BA-C019` is opened. Mirror possession is now observed, but the all-Alice discovery cluster does not identify the finder, Yuzu's berserk-robot claim is cover, later Yuzu/Nel labels flip, and escape, bypass, sanction and `G.Bible` contents remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E017 claim transitions — access is not the hoped-for rescue
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the club has returned and the file is openable by Maki's report/Alice's launch, but the later reaction is despair. The expected creative and belonging rescue is not established; the actual proposition and institutional outcome remain withheld.
+- **BA-C005–C006: PRESERVE REJECTED** — Rio's withdrawal is reported, Nel speculates independently and orders further inquiry, Maki admits a `<Key>` decoding limit, and Alice/club members react differently. No unified all-knowing actor is supported.
+- **BA-C008: NO DIRECT TEST** — Midori invokes possible Sensei/Schale help as hope, not an adult promise or action. Do not promote it to a guaranteed fallback.
+- **BA-C009–C018: PRESERVE / no direct global test** — this Millennium file/club crisis gives no Abydos/Kaiser revision.
+
+No `BA-C019` is opened. Mirror return, file access and Nel's Rio report revise local open states; Rio/Himari reasons, `<Key>` identity, Bible contents, actual club standing, discipline and Alice's placement remain OPEN. Scene 3's `2時間前` prevents reading scene-2 despair as an already disclosed content summary. Contextual backfill remains **DEFER**.

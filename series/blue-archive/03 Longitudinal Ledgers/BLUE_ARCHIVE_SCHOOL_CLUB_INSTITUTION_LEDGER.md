@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -416,3 +416,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Nel/C&C:** Nel appears at the store despite E012's report that she was away. The return cause is not shown. Her near-discovery makes the store actively defended even after Alice's beam and the earlier system compromise.
 - **False emergency:** Yuzu presents herself as Seminar's `ユズキ` and claims seized robots are berserk while Akane/Karin contain them. This is a cover story to move Nel, not verified student-council membership or robot malfunction. The E015 robot retask remains the known prior account.
 - **Remaining route:** Yuzu warns of combat robots ahead, states Veritas room and `G.Bible` as destination and objective, and Midori calls for battle. The file is still locked/unread and extraction, sanction and contest outcome remain open.
+
+## V002 C001 E017 institutional delta — withdrawal and handoff
+
+- **C&C contract:** Nel says Rio, Millennium student council president, retracted the defense assignment on her return. This is Nel's report of operational withdrawal, not a seen written order or explained council rationale. Nel's Alice-test theory about Rio/Himari remains speculation; her own research order is separate from the assignment.
+- **Party return:** Alice, Momoi, Midori and Yuzu are in the clubroom after E016. The exit battle route and each defender's final condition are omitted; return is shown, not a blow-by-blow victory.
+- **Mirror / file:** Maki reports returning Mirror to Seminar and says `G.Bible` is opened; executable readiness and Alice's launch are shown. The password barrier is crossed locally, but exact method and file contents are not displayed in this unit. The E016 possession state is no longer the current reported custody.
+- **`<Key>` folder:** Maki finds it while opening Bible; apparently intact, it resists her familiar machine-language decoding. Its proximity to the repeated `AL-1S` question does not prove identity, authorship or function.
+- **Club standing:** Momoi fears `廃部` after viewing the file, but no council judgment, enacted week suspension, prize result, Yuzu dorm transfer or Schale placement is shown.

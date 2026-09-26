@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -584,3 +584,10 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Sensei hides with the students while Nel approaches; Momoi asks what to do. There is no printed choice or secure audible reply to that request.
 - After Yuzu diverts Nel and Alice takes the rear, she asks Sensei for instructions. The following line is explicitly `先生（心の声）`: a wish that everyone return safely and a combat-preparation thought. Midori/Momoi's subsequent assent cannot prove those words were spoken, heard or telepathically received.
 - Yuzu's independent deceptive rescue and Nel's decision sustain the distributed-agency reading. Sensei remains a risk-bearing participant and care-oriented viewpoint, not established author of this diversion or the coming fight. No new adult rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E017 delta — hoped-for fallback is not consent
+
+- The party is back in its room, but the exit/fight and Sensei's participation are not narrated here. No choice or new audible order appears.
+- Midori says that, if the club failed, surely Sensei/Schale would help Alice. This is a student's hopeful contingency, not an offer from Sensei, lawful placement, or evidence the teacher can preserve Alice's club membership.
+- Momoi links game success to Alice and Yuzu staying; Alice asks whether she must leave. Adult support is named because the student institution is fragile, but the file's contents and actual institutional decision remain withheld.
+- Sensei remains `PARTIAL_MODEL`; no new adult rule, standalone model or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).

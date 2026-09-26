@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -475,3 +475,14 @@ No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty `UNM
 - **Sensei:** is present and asked for direction, but the only printed reply is `先生（心の声）`, not secure audible command or choice.
 
 Readiness is sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`; no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine scene 1 `u:0006-0019` (all-Alice labels) and `u:0069-0076` (Yuzu/Nel role flips).
+
+## V002 C001 E017 delta — returned party, opened file, unspoken contents
+
+- **Nel:** reports Rio retracted C&C's job, dismisses Akane's reputation worry and asks her to investigate the club/associates from independent interest. Her theory that Rio/Himari wanted to test Alice is explicitly speculative.
+- **Akane:** accepts responsibility for accepting and planning the defense assignment and apologizes. This is local accountability, not proof of permanent C&C dishonor.
+- **Maki:** says Mirror was returned to Seminar, Bible opened, and a separate `<Key>` folder found intact but undecipherable in unfamiliar machine language. The precise bypass and folder nature remain open; Himari's prior knowledge is secondhand.
+- **Momoi:** repeats the rumored secret's promise and links making a great game to staying together; after launch, she despairs and predicts club dissolution. Her forecast is not a formal ruling, and the file's contents are withheld.
+- **Alice:** worries whether failure will separate her from the club, accepts Momoi's reassurance and launches Bible. Later she says it did not lie, yet does not understand the group's distress. The actual proposition she appraises is unavailable here.
+- **Midori/Yuzu:** Midori hopes Schale could help Alice if necessary, then is withdrawn; Yuzu despairs. No actual Schale placement or dorm return is shown.
+
+No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Scene 3 is a two-hour-earlier flashback continued by scene 4; scene 4 `u:0002-0004` is cautious for exact `<Key>` hypothesis attribution.
