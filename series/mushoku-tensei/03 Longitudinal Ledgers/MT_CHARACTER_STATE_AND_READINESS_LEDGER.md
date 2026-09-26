@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Bootstrap only; V01 not narratively inspected, no source observations admitted."
+source_boundary: "Accepted Japanese LN V01 observations only; locator map retained and byte-verified; local closure publication pending; no V02 evidence."
 ---
 
 # Character state and readiness ledger
@@ -35,11 +35,11 @@ Append source-bearing state events; revise current readiness only when an eviden
 
 `NOT_STARTED`: zero narrative observations and zero substantive records. V01 is only structurally inspected for source usability. No absent phenomenon or character trait is inferred from the empty ledger. First update requires a separately authorized V01 reading.
 
-## V01 pilot candidate — 2026-09-25 (pending durable locator map)
+## V01 accepted records — read 2026-09-25; closure prepared 2026-09-26 UTC
 
-The observations below are provisional and the LN high-water mark remains `null`; the hash-only locator map has not been durably placed in the evidence plane.
+The owner approved the V01 reading after its synopsis revision. Its hash-only locator map is durably retained and byte-verified as recorded in the [source lock](../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md). The records below are accepted within V01; their interpretations and uncertainties are unchanged. The [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) distinguishes this local closure candidate from pending branch publication and exact-head audit. The bootstrap zero state above remains historical.
 
-All events are bounded to `MT-LNJP-V01` and cite observations in the [provisional V01 reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md). Local keys are **not** global character IDs. Each current assessment is provisional; prior zero state above remains historical.
+All events are bounded to `MT-LNJP-V01` and cite observations in the [accepted V01 reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md). Local keys are **not** global character IDs. Each current assessment retains its stated V01 evidential limits; prior zero state above remains historical.
 
 | State event ID / local key | Prior → observed change and kind | Basis / uncertainty |
 | --- | --- | --- |
