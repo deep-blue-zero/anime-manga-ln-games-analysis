@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -584,3 +584,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **C&C ↔ SENSEI/CLUB:** the groups meet at the tower exterior. Akane recounts the first fight; Sensei's understanding is mediated by her report. They share the rescue objective without having reached Alice.
 - **RIO ↔ TOKI:** Rio explicitly does not blame Toki for the setback, takes prediction responsibility, orders regrouping and authorizes the higher-grade suit. Toki's obedience is visible, not a complete private motive.
 - **RIO ↔ SENSEI/ALICE:** Rio singles Sensei out as a possible variable and invokes a suit originally meant for her “Princess” target. This is her interpretation and contingency, not proof Sensei alone caused the coalition's progress or Alice consented to being an enemy.
+
+## V002 C002 E019 relationship delta — trust under failed counter
+
+- **SENSEI ↔ NEL:** Nel explicitly trusts Sensei's rooftop direction and takes the physical risk; Sensei notices her injury afterward. Trust does not prove the tactic fully works or establish an audible version of earlier inward `u:0019`.
+- **RIO ↔ C&C/TOKI:** Rio says the suit was also prepared for C&C defection and orders Toki to recover Sensei, revealing institutional distrust alongside her larger threat story. Toki follows orders; her private view of C&C or Alice remains narrow.
+- **CHIHIRO/MOMOI ↔ SENSEI/PARTY:** Chihiro cues Momoi to exploit a gap, Momoi acts and the capture target escapes by Toki's report. Their support rebuts a sole-Sensei account; exact device/action is not printed.
+- **ALICE ↔ RESCUERS:** no Alice contact or consent conversation. Survival/escape from this engagement keeps recovery possible but does not restore belonging.

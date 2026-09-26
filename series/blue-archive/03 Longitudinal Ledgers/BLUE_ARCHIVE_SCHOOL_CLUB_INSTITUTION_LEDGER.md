@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -570,3 +570,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Tower lead:** Chihiro guides the rear to the central tower exterior and says Eridu power concentrates there. She infers a halo-destruction procedure would need comparable facilities; no live Alice sighting or apparatus audit confirms it.
 - **Mission revision:** Akane stops the diversion and C&C reunites with Sensei/club to retrieve Alice. This is a changed assignment after circumstances shift, not a completed extraction.
 - **Abi-Eshuh:** Rio authorizes a `パワードスーツシステム` she says was built for the Princess threat. Narration confirms activation and battle start. No loadout, capability, damage, legality, personhood finding or proportionality process is shown.
+
+## V002 C002 E019 institutional delta — suit resources and timed defense
+
+- **Abi-Eshuh:** Chihiro observes pre-arrival bullet interception and blind-side evasion, and infers Eridu-wide power/compute concentration. Exact allocation and precognition are not independently measured. Toki compensates for gravity in air, suffers a light hit by report and later detects possible machine damage.
+- **Contingency:** Rio says the suit was built for a coming world threat *and* C&C disobedience. This is her design account and distrust, not a finding that C&C's Alice-protective refusal is betrayal or that the larger threat scale is proven.
+- **Capture objective:** Rio orders Toki to recover Sensei; Chihiro cues Momoi, and Toki reports the target escaped. Exact escape device is unshown. Rio then orders no pursuit because they must hold the site until `刻限`; no deadline value or halo-procedure status is given.
+- **Medical/safety:** Nel is visibly wounded and downplays it. No doctor, injury grade, prognosis or full party casualty inventory appears; Yuzu's no-scratch line concerns Toki, not Nel.

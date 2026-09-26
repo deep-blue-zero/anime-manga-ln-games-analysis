@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -733,3 +733,11 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Revenge yields to mission:** Akane's reminder turns Nel from finishing Toki toward rejoining the Alice rescue, carrying E014's grudge into a bounded choice rather than erasing it.
 - **“Teacher as variable” and distributed credit:** Rio again tries to explain surprise through one exceptional actor. The prior units visibly show many clubs and individuals making the counter-route, complicating a single-savior motif.
 - **Princess weapon against friends:** Abi-Eshuh, said to be designed for Rio's apocalyptic target, is now used to stop Alice's rescuers. The transfer exposes escalation in Rio's security logic without proving her target classification.
+
+## V002 C002 E019 motif / callback delta — the cheat persists off the ground
+
+- **Final-boss/cheat register:** Yuzu/Midori/Nel call the suit unfair, while Chihiro explains apparent attack neutralization and possible compute concentration. Game language conveys asymmetry without establishing literal future sight.
+- **Changing the arena, not the ethics:** the rooftop/air tactic tests a presumed land-only limit; Toki adapts and Nel is wounded. A clever local move is neither guaranteed win nor evidence the underlying Alice decision has been resolved.
+- **A crack in the armor:** Toki's zero-injury self-report precedes her surprise at possible machine damage. The sequence resists both total-invulnerability and easy-defeat narratives.
+- **Countdown without clock:** Rio's `刻限` reveals a timed defense role. The unspecified deadline keeps pressure on rescue while withholding the halo procedure's state.
+- **Coalition versus “only variable”:** Chihiro's cue and Momoi's action enable escape after Sensei's roof choice falters, continuing the contrast with Rio's single-adult explanation.

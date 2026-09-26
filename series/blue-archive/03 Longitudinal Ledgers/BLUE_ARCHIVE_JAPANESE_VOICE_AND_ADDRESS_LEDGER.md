@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -996,3 +996,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Rio's `制御権が奪われてしまった` and `予測不足による失敗` acknowledge a local control/prediction setback. Her `防衛システムをすべて壊して` and `貴方が関わったからかしら` remain broad claims, not a full inventory or sole-Sensei causal finding.
 - Chihiro's `相応の施設が必要なんじゃないかな` and tower power concentration are inference premises; `答えは明白` is confidence, not Alice sighting. Rio's `本来は「名もなき神々の王女」との戦闘用` is intended suit target, not ontology proof.
 - **Quarantine:** `u:0028` Rio label voices Nel; `u:0031-0033` and `u:0053-0056` have C&C style/label tension. Sensei `u:0041`/`0045`/`0059`/`0065`/`0097` are inward. Narrator `u:0058` explicitly mediates Akane's debrief. Seven choices singleton; scene 2 is next-title card only.
+
+## V002 C002 E019 delta — “future prediction,” land-only and the deadline
+
+- Chihiro's `無力化` observations and `全域の電力と演算機能`/`未来を予知する事だって` mix direct evasion with resource/precognition inference. Rio's `唯一の変数` assigns sole causal importance to Sensei without explaining the coalition's other interventions.
+- Akane's italic `陸上専用` suggests an air vulnerability, but Toki's `重力加速に対する演算補正` and `空中であっても` qualify it. `被弾……ダメージ、軽微` is a hit; `連戦による負傷………ゼロ` and later `機体に、ダメージが……？` differ by time and machine/operator referent.
+- Rio's `裏切った時に備えて` frames C&C dissent as anticipated betrayal. `刻限までここを防衛` names a timed hold objective without the time, procedure status or completed outcome.
+- **Quarantine:** `u:0034` Toki label voices Nel's rough register. Sensei `u:0002`/`0016`/`0018-0019`/`0024`/`0030`/`0061`/`0065` are inward even with apparent replies; all six choices singleton. Yuzu `u:0067-0068` no-scratch claim concerns Toki, not wounded Nel. Momoi `u:0080` does not identify E017's gift.

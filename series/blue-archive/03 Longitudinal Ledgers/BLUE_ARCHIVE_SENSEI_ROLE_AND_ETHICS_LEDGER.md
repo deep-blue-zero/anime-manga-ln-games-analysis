@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -688,3 +688,7 @@ Chihiro directly takes Sensei navigation while Veritas maintains Mirror; Enginee
 ## V002 C002 E018 delta — Rio's Sensei-variable attribution is not causal proof
 
 Sensei follows Chihiro's route, meets C&C at tower exterior, asks after Toki and replies about terrain, the weapon and next obstacle through seven singleton choices. `u:0041`/`0045`/`0059`/`0065`/`0097` are `心の声` and cannot become an audible field script. Akane's narrated debrief is the source for Sensei's C&C-fight understanding. Rio asks if Sensei's involvement is the variable that broke her calculations, but Sumire, Veritas/Chihiro, Engineering, C&C and Momoi have all visibly contributed. Her hypothesis does not promote sole-adult authorship. No tower entry, Alice rescue, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E019 delta — explicit roof choice, incomplete protection
+
+Rio calls Sensei the “only variable” and targets their command ability. Sensei's `choice:003` audibly directs movement to the roof and `choice:004` corrects Rio's narrow-space inference; Nel explicitly trusts the move. Akane's land-only clue and Chihiro's warning/cue contribute, while `u:0019`/`0030` and later concern for Nel are `心の声` even where someone appears to answer. The rooftop/air tactic fails to disable Abi-Eshuh and Nel is hurt. Chihiro/Momoi enable escape from Toki's attempted recovery. Six choice groups are singleton; no adult omniscience, sole rescue, medical clearance, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

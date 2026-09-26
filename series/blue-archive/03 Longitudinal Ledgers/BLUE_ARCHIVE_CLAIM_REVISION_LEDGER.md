@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E018 active provisional; E019 unopened
+current_sequential_boundary: MAIN_V002_C002_E019 active provisional; E020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1466,3 +1466,13 @@ No new claim ID, model, frozen prediction or side-source admission. Mirror path 
 - **BA-C019: EXTERIOR, NOT BELONGING** — the coalition reaches the probable holding tower, but Alice remains unseen and not returned.
 
 No new claim ID, model, frozen prediction or side-source admission. Maze/reunion mechanism, tower-location inference, Abi-Eshuh capabilities, Rio defense inventory and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E019 claim transitions — failed air counter and timed hold
+
+- **BA-C001–C004, C007, C010–C011: FORCE/CLOCK OPEN** — Abi-Eshuh resists a rooftop/air tactic and Rio names an unspecified defense deadline. Neither its resource claim nor future-threat/halo remedy necessity is verified by combat.
+- **BA-C005–C006: PRESERVE REJECTED** — Rio's “only variable” claim is contradicted as sole explanation by Chihiro's defense analysis/cue, Nel's chosen risk and Momoi's escape action. Sensei's roof choice is meaningful but incomplete.
+- **BA-C008: BOUNDED** — six singleton choices and inward-thought-to-response anomalies require separation from an audible command script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: ESCAPE WITHOUT RETURN** — Alice remains absent; surviving this engagement is not restoration of her place or safety.
+
+No new claim ID, model, frozen prediction or side-source admission. Precognition/compute scope, Nel wound, machine damage, escape mechanism, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.

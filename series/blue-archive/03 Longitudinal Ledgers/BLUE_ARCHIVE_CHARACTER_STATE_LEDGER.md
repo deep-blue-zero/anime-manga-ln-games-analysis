@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:019; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -694,5 +694,15 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operationa
 - **Karin/Asuna/Akane/Nel:** Karin self-identifies callsign zero two and backs Nel, Asuna emerges from the maze, Akane says the diversion no longer serves Alice retrieval and Nel accepts. Asuna's “luck” is Akane's appraisal, not a measured power. Some reunion/retreat speaker labels are corrupt.
 - **Chihiro/Momoi/Midori/Yuzu/Sensei:** Chihiro navigates the rear to central tower exterior and reasons from required facility/power concentration that Alice is likely inside. Both branches meet. Exact Alice position and halo machinery are not observed; Sensei route/tower lines are inward and seven choices singleton.
 - **Rio:** admits prediction failure and control loss for Avant-Garde-kun, yet speculates Sensei alone explains her disrupted calculations. She claims all defenses were destroyed, a broad statement without inventory proof, and authorizes Abi-Eshuh originally intended for the “Princess” she identifies with Alice. No threat ontology or necessity established.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E019 delta — airborne counter fails, target escapes
+
+- **Chihiro:** observes pre-arrival interception/evasion and infers massive Eridu computing/power in Abi-Eshuh, possibly even future prediction. The evasion is direct; grid-wide totals and literal precognition are not audited. She warns Sensei and later cues Momoi.
+- **Sensei/Nel:** Sensei's explicit `choice:003` directs a rooftop move after Akane's italic land-only hint; earlier `u:0019` is inward despite Nel's response. Nel trusts, displaces Toki into air and fights while falling. Toki adapts; Sensei later notices Nel wounded, which she downplays. No medical assessment or victory.
+- **Toki:** reports light hit, gravitational compensation, zero injury from continuous fighting, then later notices machine damage. These are time/referent-distinct statements, not proof of invulnerability or complete defeat. She obeys Rio's recover-Sensei order and reports the target escapes after Momoi acts.
+- **Rio:** calls Sensei the sole variable, says the suit was prepared for world threat and possible C&C defection, then orders defense until an unspecified deadline rather than pursuing the escaped target. Threat/necessity and exact clock remain her account.
+- **Momoi:** acts on Chihiro's cue; mechanism/object unknown, including whether E017's unidentified gift was used.
 
 Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
