@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -382,3 +382,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Student council/C&C:** Mirror is said to be held in the council's seized-goods storage, guarded by C&C. Yuuka commissions Akane to prevent club access until a specified time, on a warning attributed to Himari. The exact plan and authority for an attempted retrieval remain open.
 - **Nel/defense:** Nel is away, confirmed by Akane, but her destructive specialty means her absence does not establish weaker store defense. The claimed “opening” is contested before combat.
 - **Coalition:** Veritas, game club and Engineering Club agree to cooperate, with Sensei recruited for a social link; Hare says preparations/operation have begun. No seizure, fight, file unlock or game result occurs in this unit.
+
+## V002 C001 E013 institutional delta — spoofed repair and shutter capture
+
+- **Seminar tower baseline:** Hare says Mirror is in the top-floor western seized-goods store, reachable only by a fingerprint elevator. Maki estimates about 400 cameras/50 guards plus seized combat robots; Utaha gives design-derived 442 cameras/52 guards in three classes. These are planning reports, not a full live inventory.
+- **Segmentation:** Hare describes escalating shutters after unregistered print/impact and fingerprint-plus-iris release for the second barrier. Hibiki forecasts an external-power/mini-EMP opening of about six seconds. The exact EMP execution and complete camera/robot defeat are not shown.
+- **Repair trap:** Alice breaks the elevator door and is detained. Yuuka avoids overt Engineering Club repair, but a Trojan insertion is reported and Momoi later calls the replacement a disguised engineer product. Observed approval of Momoi/Midori/Sensei and rejection of Akane/Noah support compromised access, not genuine authorization or permanent control.
+- **Camera split:** Yuuka's feed shows recorded Momoi/Midori while Akane actually meets Maki/Kotori; cloud disconnection/reset reveals them. Momoi's description and defender correction corroborate spoofing, though exact exploit path is unseen.
+- **Confinement:** Akane is trapped behind second shutter; operator says Noah and other council members are trapped and Noah's print fails. Momoi's belief all officers are isolated is unverified. This is a security-function inversion with unassessed safety and emergency-egress implications.
+- **Residual defense:** Asuna is unlocated/offline; anonymous `Call Sign 02` claims the club is in range. No sender identity or combat result is available, and Mirror has not been obtained.

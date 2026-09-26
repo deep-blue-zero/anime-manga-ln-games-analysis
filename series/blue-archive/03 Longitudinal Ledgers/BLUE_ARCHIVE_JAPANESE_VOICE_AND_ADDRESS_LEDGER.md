@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -790,3 +790,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Alice's `一緒にいる、仲間` names the RPG-to-actual-companionship analogy. It supplies her own vocabulary for solidarity, not evidence of battle odds.
 - Akane distinguishes `守る` from Nel's `壊す`; absence may alter rather than simply weaken defense. Yuuka's `ヒマリだもの` attributes the warning to Himari but does not reveal her speech or reason.
 - Sensei `scene:005:choice:001` offers `私？` versus `私にできることなら、任せて。`; both converge. **Attribution quarantine:** scene 1 `u:0026`, scene 3 `u:0010`/`u:0022`, scene 5 `u:0048-0052` have role or response contradictions; do not silently repair them into voice exemplars.
+
+## V002 C001 E013 delta — ironic normality, conditional choices, anonymous threat
+
+- Alice's `復活の呪文` is RPG speech after falling, not literal death or proof of a staged injury. Yuuka's `反省部屋` is a custody destination, not a shown punishment or treatment history.
+- `トロイの木馬` is an Engineering Club message quoted by Maki. Duplicate `scene:002:u:0007-0008` follows Sensei's first two-option choice; one report, not two Trojan installations.
+- Utaha's `442台`/`計52体` and Hibiki's `約6秒` are informed design/forecast claims in a flashback, not audited live disablement totals. `録画映像` and `正常に（・・・）作動` mark the spoofed feed and Momoi's ironic attacker perspective on a compromised lock.
+- System output approves `才羽モモイ、才羽ミドリ、先生` but rejects Akane's and Noah's prints. Machine authorization here is technically manipulated access, not legitimate council consent.
+- Akane offers `コールサイン・ゼロスリー` while claiming a secret name; Midori uses `アカネ先輩`. `From Call Sign 02` gives no secure sender identity. The Korean-rendered `시스템` is the system speaker label, not a character voice sample.
+- Scene 2 Sensei choices are affirm/check engineers, then a single `作戦開始！`; scene 9 offers `突破しよう` or `……逃げよっか？`, then common `……よし、行こう！`. `scene:009:u:0016-0019` are branch reactions, not simultaneous contradictory speech. **Attribution quarantine:** scene 2 `u:0014-0016`, scene 5 `u:0020`, `u:0024-0026` are role/response inconsistent.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -391,3 +391,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **VERITAS ↔ GAME DEVELOPMENT DEPARTMENT:** shared need for Mirror creates a coalition, but Veritas seeks return of its confiscated tool and the club seeks file access. Goals overlap without being identical or lawful by default.
 - **YUUKA ↔ AKANE/C&C:** Yuuka commissions store protection on a tip she attributes to Himari; Akane accepts a time-bounded defense and distinguishes Nel's destructive specialty from guarding. The coming conflict has two student sides with articulated responsibilities.
 - **SENSEI ↔ ENGINEERING CLUB:** Hare asks Sensei to recruit less-close specialists; Utaha accepts, while secure Hibiki/Kotori lines provide partial personal motives. No evidence Sensei controls engineers or approves every tactic. Late Alice-labeled engineer exchange is quarantined.
+
+## V002 C001 E013 relationship delta — decoy debt and inverted defense
+
+- **ALICE ↔ CLUB/YUZU/MOMOI:** Alice is detained as part of the plan; Yuzu promises a prompt rescue and Momoi voices fear that failed support would make confinement purposeless. Their concern is direct, but neither Alice's detailed consent nor rescue is shown.
+- **YUUKA ↔ ALICE:** Yuuka refuses Akane's playful sixth-maid request and orders Alice held as an alleged attacker. That is a bounded custody decision, not proof Yuuka knows the decoy arrangement or that Alice is medically safe.
+- **YUUKA ↔ ENGINEERS:** Yuuka suspects an overt engineer repair trap and orders a non-Engineering replacement. The replacement's disguised engineering provenance defeats that screen; both her caution and the coalition's deception are real.
+- **MOMOI/MIDORI/SENSEI ↔ AKANE/NOAH:** their entry is enabled by a system that rejects defenders' fingerprints and traps Akane and reportedly Noah. The opposition is not an abstract security score; persons are confined, with emergency access outcome unshown.
+- **MIDORI ↔ SENSEI:** Midori asks physical handholding in the dark and later seeks tactical advice. One retreat choice elicits student resistance; coordinated trust includes disagreement, not blanket obedience.
+- **AKANE ↔ C&C:** she calls offline `01`/Asuna and receives an anonymous `02` message claiming the club is in range. Do not infer the sender's identity, weapon or completed rescue.

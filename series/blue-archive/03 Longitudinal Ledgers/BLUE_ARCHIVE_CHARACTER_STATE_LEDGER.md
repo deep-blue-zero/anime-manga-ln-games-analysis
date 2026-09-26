@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -432,3 +432,14 @@ Material identity, resource and tactical context; no standalone model/readiness 
 - **Sensei/Utaha/Hibiki/Kotori:** Hare seeks Sensei's social introduction, Sensei's two choices converge, and engineers voluntarily agree for situated reasons. No new adult command or verified operation result.
 
 Hare, Maki, Kotama and Akane enter the coverage index on distinct direct role decisions as `UNMODELED`; no readiness promotion (sixteen `PARTIAL_MODEL`, eighteen `UNMODELED`) or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine E012 scene 1 `u:0026`, scene 3 `u:0010`, `u:0022`, and scene 5 `u:0048-0052` for precise speaker-specific claims.
+
+## V002 C001 E013 delta — Trojan replacement, Alice custody and bounded advice
+
+- **Alice:** falls after an attack and is taken to Yuuka's reflection room as an alleged intruder; Yuzu promises retrieval. E012's coalition made her a decoy, but her injury severity, detailed consent and rescue outcome are not shown. Do not equate RPG revival language with death or feigned harm.
+- **Momoi:** worries the plan may confine Alice for nothing, explains replayed camera footage, and claims the apparently non-Engineering lock was engineer-made under a concealed name. The system later approves her, Midori and Sensei while rejecting Akane/Noah, supporting local exploit success, not overall safe retrieval or ethical sufficiency.
+- **Midori:** calls the operation morally questionable, tracks its approach, asks Sensei to hold hands in darkness and seeks advice at an unexpected defender. Conditional retreat/advance reactions remain choice-branched.
+- **Yuuka:** rejects Akane's joking Alice-as-maid request, detains Alice, avoids openly engineer-made repair, uncovers the camera spoof and suspects the replaced lock's compromise. Her precaution fails, but her reasoning and concern are visible.
+- **Akane:** confronts a decoy feed's apparent targets, sees Maki/Kotori after reset, then is trapped when her registered print is rejected. Anonymous call sign 02 reports the club in range; do not identify the sender or assign rescue to Akane.
+- **Sensei:** affirm/check-engineers alternatives converge on a duplicated Trojan report; a single phase-start cue follows student request. At an unexpected defender, advance/retreat options receive route-conditioned reactions and reconverge on going forward; a retreat suggestion is not adopted.
+
+No new indexed subject or readiness promotion (sixteen `PARTIAL_MODEL`, eighteen `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine scene 2 `u:0014-0016`, scene 5 `u:0020`, `u:0024-0026` and preserve branch conditions at scene 2 `u:0007-0008` and scene 9 `u:0016-0019`.

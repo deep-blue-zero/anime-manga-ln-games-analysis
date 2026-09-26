@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E012 active provisional; E013 unopened
+current_sequential_boundary: MAIN_V002_C001_E013 active provisional; E014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1208,3 +1208,12 @@ No `BA-C019` is opened on terminal recognition or a filename alone. The terminal
 - **BA-C009–C018: PRESERVE / no direct global test** — Millennium seizure and C&C security do not modify Abydos/Kaiser claims.
 
 No `BA-C019` is opened. Maki's original-file conclusion has specific metadata/IP reasons but does not reveal contents or prove the Mirror workaround. Yuuka attributes the tip to Himari, who does not speak here; the warning's motive and timing remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E013 claim transitions — local tactical success, unresolved legitimacy
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the coalition gains access by intentionally letting Alice be taken and turning compartment security against defenders, including Akane/Noah. Her precise consent/condition and trapped persons' safety remain unknown; rescue intent and technical success do not settle proportionality or lawful authority.
+- **BA-C005–C006: PRESERVE REJECTED** — Veritas, engineers, game club and council/C&C act with differentiated knowledge. Sensei's phase cue is delegated, and the group's reaction to a retreat variant shows student judgment can counter adult advice.
+- **BA-C008: PRESSURE-TEST** — choice variants are conditional and converge; a rejected retreat option is concrete evidence against unquestioning obedience, not proof that Sensei prefers either option universally.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium security exploitation does not import Abydos/Kaiser mechanisms.
+
+No `BA-C019` is opened. A Trojan report, spoofed feed and differential lockout make the replacement trap strongly supported, but full technical path, every affected person, Mirror retrieval and anonymous call sign 02 remain OPEN. Contextual backfill remains **DEFER**.

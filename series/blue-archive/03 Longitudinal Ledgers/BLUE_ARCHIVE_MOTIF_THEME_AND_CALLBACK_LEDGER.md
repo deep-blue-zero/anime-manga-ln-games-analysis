@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -537,3 +537,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Game language to real companionship:** Alice's raid-party analogy becomes an explicit `仲間` claim; Midori calls the cramped leaking clubroom a place to be together. Play vocabulary now expresses belonging, while C&C danger keeps the metaphor from establishing combat power.
 - **Care on both sides of security:** Momoi fears for friends; Midori wants to preserve their common space; Yuuka hires C&C to defend seized goods. Protective rhetoric is distributed across opposing students, not a reliable truth or victory marker.
 - **Absent leader / present information:** Nel is away, but Akane says guarding may not suffer; Himari is absent from direct dialogue yet Yuuka attributes the warning to her. Absence does not mean causal irrelevance or known motive.
+
+## V002 C001 E013 motif / callback delta — security as trap, rescue as debt
+
+- **False compliance:** Alice's conspicuous elevator break makes Yuuka reject the obvious engineer repair, yet a concealed engineer replacement enters. The tool that promises stronger security becomes the vulnerability; a correct suspicion about one vector is not complete control.
+- **Surveillance is not sight:** the recorded Momoi/Midori feed attracts Akane while hiding Maki/Kotori until reset. The old `鏡` access problem becomes a broader issue of who can trust an image or permission signal.
+- **Authorized by a compromised system:** Akane/Noah fail fingerprint checks while the intruding trio receives an approval chime. The machine's `承認` echoes Alice's E004/E011 access labels without transferring their legitimacy; authentication and rightful authority part company.
+- **Rescue obligation created by a plan:** Yuzu promises to retrieve Alice from custody, and Momoi fears a failed follow-up would make that confinement pointless. Fellowship creates obligations to a friend used as decoy, not merely a triumphant party metaphor.
+- **Adult hand, not adult monopoly:** Midori asks Sensei to hold hands in darkness and call phase two, then the group can resist a retreat variant. Earlier bounded-adult and care motifs recur inside student initiative.

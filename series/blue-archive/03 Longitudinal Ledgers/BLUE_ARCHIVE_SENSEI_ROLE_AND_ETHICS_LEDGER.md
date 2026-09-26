@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:012; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -556,3 +556,11 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Utaha agrees; Midori explicitly asks why established engineers would accept danger. Hibiki/Kotori give situated reasons in secure turns, while the late Alice-labeled exchange is inconsistent and excluded from precise relationship inference.
 - Kotama says she wanted to inspect Sensei's phone messages with Mirror. No actual phone access is shown, nor Sensei consent to it; Sensei's cooperation with an operation must not be read as blanket consent to surveillance or bypassing confiscation safeguards.
 - Yuuka independently commissions C&C to guard the seized store. The adult's assistance is one part of a student-institution conflict, with no verified safe plan or outcome. Sensei remains `PARTIAL_MODEL`; no frozen prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E013 delta — delegated phase cue and a resistible retreat option
+
+- Hare asks whether the first trick worked and Sensei may affirm or ask about Engineering Club readiness. Maki's duplicated answer belongs to convergent branches, not two reports. Midori then requests a phase-two cue; the sole option `作戦開始！` is execution coordination within a student-designed infiltration.
+- Midori asks Sensei to hold her and Momoi's hands in the dark elevator. This continues situated protection/coordination without making Sensei the plan's originator or mechanically safe.
+- At an unexpected defender, Sensei may recommend breakthrough or retreat. The route-conditioned responses converge on continuing for Alice, and Sensei's final common option agrees. The retreat variant is not followed, a specific counterexample to unqualified adult-command obedience.
+- Alice is detained as a planned decoy, and Akane/Noah are trapped by compromised security. Sensei participates in the operation but the source does not establish who secured Alice's informed consent or evaluated confinement/emergency-egress costs. Do not assume adult presence ethically authorizes all tactics.
+- Sensei remains `PARTIAL_MODEL`; no standalone model or frozen prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
