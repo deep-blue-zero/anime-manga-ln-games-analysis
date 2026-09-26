@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.22"
+version: "11.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 100 complete i-n-g primary documents / T7S_B0080–T7S_B0121; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 103 complete i-n-g primary documents / T7S_B0080–T7S_B0122; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 211`; `directional_relationship_states = 404`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0121, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 216`; `directional_relationship_states = 412`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0122, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2311,3 +2311,37 @@ The [B0121](../02%20Readings/T7S_B0121_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0404` | Kyoko → Ei, **defensive trust and disclosure** | Denies fear, receives Ei's warning, then challenges her online rumor and hides possible enjoyment. A:P2–10; B:P15–33; C:P74–103. Reciprocal `REL-0403`; no permanent openness inferred. |
 
 `T7S_B0121_CLOSE-20260926`: five actor-local knowledge records, two directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, diagnosis or ghost record.
+
+## B0122 Honoka's role-choice, peer coaching and intrusion
+
+The [B0122](../02%20Readings/T7S_B0122_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.24, binds these updates. Existing Honoka `IDENTITY-0083`/`CHAR-0063`, Rena `IDENTITY-0084`/`CHAR-0064`, Kyoko `IDENTITY-0077`/`CHAR-0059`, Yumeno `IDENTITY-0087`/`CHAR-0069`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0063` / Honoka | Doubts her fit for a teasing former-lover role, specifies Player as practice-date partner, tries peers' methods, renews her request after the interruption and receives later peer praise while keeping the exercise private. | A:P8–60; B:P1–61; C:P1–49. No real dating, mandatory lived experience or objectively audited acting improvement. |
+| `CHAR-0064` / Rena | Offers Honoka coaching, argues for slower shared date activities, agrees to a script-like scene, checks Yumeno's closeness and helps remove her. | A:P8–60; B:P1–61; C:P1–22,41–49. Care coexists with initial displacement of Honoka's preference; no certified romantic expertise. |
+| `CHAR-0059` / Kyoko | Offers a mischievous-date model, favors thrill rides, recognizes practice has been hijacked and helps remove Yumeno, then praises Honoka's drama result. | A:P0–60; B:P1–61; C:P1–22,41–49. No exclusive authority over Honoka's role or proof she herself enjoyed every ride without fear. |
+| `CHAR-0069` / Yumeno | Inserts herself into the park exercise, eroticizes peer contact, directs closeness and unscripted intimacy, then resists being removed. | A:P61–64; B:P20–61; C:P1–22. Her spectator fantasy is not the participants' desire or consent; no reform shown. |
+| `CHAR-0001` / Player | Encourages role, accepts Honoka's condition, yields initial practice to peers, tries to restore script focus, tolerates Yumeno until peers expel her, then accepts Honoka's renewed request and shares its secrecy. | A:P8–60; B:P1–61; C:P1–49. No clear rehearsal/privacy protocol or actual manager–performer romance. |
+| `UNIT-0002` / Nanasta | Routes an external drama role and informal park preparation through manager and peers. | A:P8–60; B:P1–61; C:P1–49. No formal intimacy coaching, boundary supervision or full production evaluation shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0212` | Honoka knows the part's experienced-romance premise conflicts with her self-understanding; others know her unease but Player guesses contrast may be appealing. | A:P8–32. Director's actual rationale unshown. |
+| `KNOW-0213` | Honoka explains her requested Player practice; Kyoko/Rena know this but posit their own coaching, and Player permits the substitution. | A:P32–60. Her quiet final ellipsis does not supply an exact complete confession. |
+| `KNOW-0214` | Kyoko/Rena realize each lacks date experience; Honoka/peers experience Yumeno's unsolicited gaze/direction, with Rena intervening when she gets close. | B:P1–61. A practiced handhold is not blanket consent to Yumeno's control. |
+| `KNOW-0215` | Kyoko/Rena/Player see Yumeno disrupt practice; Honoka says the peer dates were fun but not apt for her acting question and renews the original request. | C:P1–31. No formal acting method validation or off-script relationship. |
+| `KNOW-0216` | Honoka/Player share the brief role-play; Kyoko/Rena later report liking the drama and ask why her performance changed; Honoka withholds the private detail. | C:P32–49. Full screen work, director/audience response and exact private practice unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0405` | Honoka → Player, **twice-selected scene partner** | Requests a practice date, later renews it and keeps the exercise between them. A:P32–60; C:P24–49. Reciprocal `REL-0406`; not actual dating. |
+| `REL-0406` | Player → Honoka, **accepted but initially displaced support** | Accepts both requests, initially yields to peers and later participates in brief lover-role rehearsal. A:P32–60; C:P24–49. Reciprocal `REL-0405`; manager power/boundary unresolved. |
+| `REL-0407` | Kyoko → Honoka, **energetic coaching and intrusion removal** | Leads rides, argues for method and later removes Yumeno. A:P49–60; B:P1–19; C:P1–22. Reciprocal `REL-0408`; her method need not fit Honoka. |
+| `REL-0408` | Honoka → Kyoko, **accepted help with retained preference** | Tries Kyoko's park plan and appreciates effort, then names a different need. A:P49–60; B:P1–19; C:P24–29. Reciprocal `REL-0407`; no rejection of friendship. |
+| `REL-0409` | Rena → Honoka, **careful practice and proximity boundary** | Plays date partner, responds to Honoka's scene cues, asks Yumeno to withdraw and escorts her out. B:P31–61; C:P1–22. Reciprocal `REL-0410`; does not own Honoka's role choice. |
+| `REL-0410` | Honoka → Rena, **cooperative practice with later mismatch** | Tries a partner scene, handhold and park outing, but says the experience did not click for the male-female drama role. B:P38–61; C:P24–29. Reciprocal `REL-0409`; no claim such practice is invalid generally. |
+| `REL-0411` | Yumeno → Honoka, **sexualizing spectator pressure** | Moves close, scripts handholding/embrace and unscripted food sharing for her own gaze. B:P20–61; C:P1–19. Reciprocal `REL-0412`; not evidence of Honoka's desire. |
+| `REL-0412` | Honoka → Yumeno, **ambivalent exposed participant** | Notes Yumeno is too close, initially denies aversion but falls silent as peers identify discomfort; later offers an unspecified make-up gesture. B:P29–31; C:P9–23. Reciprocal `REL-0411`; neither explicit blanket consent nor total rejection. |
+
+`T7S_B0122_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, actual-romance or technical acting record.

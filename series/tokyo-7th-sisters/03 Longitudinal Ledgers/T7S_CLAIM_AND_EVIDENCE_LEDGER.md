@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.22"
+version: "11.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 100 complete i-n-g primary documents / T7S_B0080–T7S_B0121; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 103 complete i-n-g primary documents / T7S_B0080–T7S_B0122; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 575`; `revisions = 42`; `predictions = 7`; `AV_reviews = 68`; `literary_findings = 575`. Claims are bounded to their stated B0001 through B0121 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 42 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 579`; `revisions = 42`; `predictions = 7`; `AV_reviews = 69`; `literary_findings = 579`. Claims are bounded to their stated B0001 through B0122 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 43 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1665,3 +1665,26 @@ Owner and A/B/C locator key: [B0121](../02%20Readings/T7S_B0121_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred three dialogue-associated voice pages plus title cues, BGM/SFX, the location shoot and broadcast remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0121_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, supernatural finding, specialist or monograph promotion.
+
+## B0122 selected practice, intrusive gaze and bounded outcome
+
+Owner and A/B/C locator key: [B0122](../02%20Readings/T7S_B0122_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.24. B0084/B0085/B0077/B0093 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0122-001` | `BOUNDED_INFERENCE`; D1; high | Honoka's specific acting exercise is twice chosen by her; supportive Kyoko/Rena coaching initially displaces that preference, and she later distinguishes enjoyable practice from what answers her role question. | A:P32–60; B:P1–61; C:P24–31. No requirement for actual dating or rejection of peer care. |
+| `CL-B0122-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Yumeno's eroticized gaze and unsolicited intimacy direction are hers, not Honoka/Rena's; Kyoko/Rena enforce a boundary when rehearsal is no longer useful. | B:P20–61; C:P1–23; B0093 bounded precedent. Voluntary peer scene contact is not blanket consent to the outsider. |
+| `CL-B0122-003` | `BOUNDED_INFERENCE`; D1; moderate-high | Honoka/Player's short lover-role exercise carries a manager–performer boundary and a deliberately private emotional register, without establishing off-script dating or physical intimacy. | A:P32–60; C:P24–40. Both request and acceptance are explicit; professional safeguards are not shown. |
+| `CL-B0122-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Peers' later praise and Honoka's secret suggest a valued result and private practice contribution, not a direct full-drama or causal-isolation verdict. | C:P41–49. Full performance, audience, director and complete rehearsal uninspected. |
+
+### AV-0069 — Honoka's role expressions and unreviewed drama
+
+- Questions/claims: whether selected stills/native transitions prove Honoka's consent to Yumeno's directions, actual dating, physical intimacy, screen acting quality, audience response or practice's exclusive causal effect; `CL-B0122-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for consent, relationship and reported-performance restrictions.
+- Selection: Honoka `adv_chara_124_01_01`, `adv_chara_124_01_03`, `adv_chara_124_01_04`; Rena `adv_chara_125_01_01`; Kyoko `adv_chara_123_01_01`; Yumeno `adv_chara_133_01_03`. All 180 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.24 binds six media receipts.
+- Observed: three Honoka expressions appear with the same outfit; Yumeno's selected heart imagery is her expressivity, not another actor's assent. Static sprites cannot establish a date or delivered acting quality.
+- Native occurrence: command-only A:P5–6,61,64; B:P0,37,60,62; C:P0,20–21,39–40,50–51. A's title follows its flash-forward and A:P7 states the rewind; C's transitions separate group exit, private exercise and post-drama report.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX and the complete drama remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0122_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, actual-romance finding, specialist or monograph promotion.

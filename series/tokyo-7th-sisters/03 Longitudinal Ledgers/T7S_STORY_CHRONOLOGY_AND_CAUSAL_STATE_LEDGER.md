@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.22"
+version: "11.23"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 100 complete i-n-g primary documents / T7S_B0080–T7S_B0121; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 103 complete i-n-g primary documents / T7S_B0080–T7S_B0122; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 435`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 423`; `last_closed_block = T7S_B0121`. The admitted horizon contains 335 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 100 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 440`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 429`; `last_closed_block = T7S_B0122`. The admitted horizon contains 338 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 103 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1375,3 +1375,26 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.23. [B0121](../02%20Readings/
 | `EDGE-0430` | `REPORTED_SUCCESS_WITH_UNRESOLVED_FEAR` | Positive shoot report in `EV-B0121-005` coexists with Kyoko's need for support and secrecy; success is not fear cure or site-safety proof. |
 
 `T7S_B0121_CLOSE-20260926`: five chapter events and seven bounded edges; no new world/thread/unit record, paranormal finding, external-production safety audit or total i-n-g chronology.
+
+## B0122 Honoka's selected role exercise and peer boundary
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.24. [B0122](../02%20Readings/T7S_B0122_DEEP_READING.md) owns the A/B/C locator key. A:P0–4 is a flash-forward to park-date conflict; A:P7 explicitly rewinds one week. B0084/B0085/B0077/B0093 provide bounded character context, not total i-n-g chronology.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0122-001` | After a future-scene hook, Player announces Honoka's former-lover drama role; Honoka doubts she can play an experienced tease. | A:P0–32; `KNOW-0212`. Player's imagined director preference is conjecture; no independent casting criterion. |
+| `EV-B0122-002` | Honoka accepts on condition of practice date with Player, citing no personal dating experience; he accepts, but Kyoko/Rena take over as coaches and she agrees uncertainly. | A:P32–60; `KNOW-0213`; `REL-0405`–`0410`. Her first selected configuration is displaced, not revoked by an explicit refusal. |
+| `EV-B0122-003` | At the script-like amusement park, Kyoko/Rena compete over ride/date styles and admit inexperience. Yumeno intrudes, sexualizes the girls' contact and directs closer practice; Rena asks her to back away from Honoka. | B:P1–61; `KNOW-0214`; `REL-0411`–`0412`. Some peer practice is mutual; Yumeno's perspective is not Honoka's. |
+| `EV-B0122-004` | Yumeno pushes unscripted intimate food/drink sharing; Kyoko/Rena remove her as the exercise becomes uncomfortable. Honoka then asks Player again and says peer dates were fun but did not answer her acting question; he agrees. | C:P1–31; `KNOW-0215`; `REL-0405`–`0412`. Manager–performer role-play remains bounded; no romance or rehearsal protocol shown. |
+| `EV-B0122-005` | Honoka briefly names Player her lover for the exercise, both blush and fall silent. Later Kyoko/Rena praise the aired drama, while Honoka keeps the practice detail secret with Player. | C:P32–51; `KNOW-0216`. No physical intimacy specified or complete drama/technical acting audit. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0431` | `CASTING_GAP_TO_SELECTED_EXERCISE` | Honoka's uncertainty in `EV-B0122-001` → her own request for a date-role exercise in `EV-B0122-002`, not a requirement for actual romantic experience. |
+| `EDGE-0432` | `PEER_CARE_TO_CHOICE_DISPLACEMENT` | Kyoko/Rena's help in `EV-B0122-002` → their competing park methods in `EV-B0122-003`; care and override coexist. |
+| `EDGE-0433` | `COMPETING_METHODS_TO_SCRIPT_REDIRECT` | Park disagreement in `EV-B0122-003` → Player's attempt to mix approaches and return to scripted scenes; neither peer has privileged expertise. |
+| `EDGE-0434` | `INTRUSION_TO_PEER_BOUNDARY` | Yumeno's gaze, proximity and unscripted intimacy directions in `EV-B0122-003`/`004` → Kyoko/Rena's removal of her, with Player's agreement. |
+| `EDGE-0435` | `FAILED_FIT_TO_RENEWED_CHOICE` | Enjoyable but unhelpful peer rehearsal in `EV-B0122-004` → Honoka's explicit renewed request to Player; no inference of dating off script. |
+| `EDGE-0436` | `PRIVATE_EXERCISE_TO_REPORTED_RESULT` | Brief chosen role-play in `EV-B0122-005` precedes peers' drama praise and Honoka's secret, but exclusive causal efficacy and technical quality are unverified. |
+
+`T7S_B0122_CLOSE-20260926`: five chapter events and six bounded edges; no new world/thread/unit record, actual romance, full drama audit or total i-n-g chronology.
