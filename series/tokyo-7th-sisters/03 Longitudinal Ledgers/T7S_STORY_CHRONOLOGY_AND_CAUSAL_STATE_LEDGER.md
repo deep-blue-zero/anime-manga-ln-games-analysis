@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.52"
+version: "11.53"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 190 complete i-n-g primary documents / T7S_B0080–T7S_B0151; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 193 complete i-n-g primary documents / T7S_B0080–T7S_B0152; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 638`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 727`; `last_closed_block = T7S_B0151`. The admitted horizon contains 425 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 190 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 646`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 739`; `last_closed_block = T7S_B0152`. The admitted horizon contains 428 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 193 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2246,3 +2246,35 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.53. [B0151](../02%20Readings/
 | `EDGE-0734` | `SELF_EXPRESSION_TO_CONSULTATION_BOUNDARY` | Shizuka's answer and peers' later warning in `EV-B0151-009`–`010` reject unilateral group sacrifice. |
 
 `T7S_B0151_CLOSE-20260926`: ten chapter events and fourteen typed, bounded edges; sponsor testimony, broadcast recording and future booking state remain separate unverified levels.
+
+## B0152 Susu's audition, principle and private disappointment
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.54. [B0152](../02%20Readings/T7S_B0152_DEEP_READING.md) owns the A/B/C locator key. The chapter follows its own viewing–practice–audition–aftermath sequence, without establishing a total order against other i-n-g chapters. Native `プリンシパル・プリンシプル` does not identify a principal-dancer vacancy. The named `プラトー・バレエ団` receives one bounded institution state, not a Susu membership or verified selection policy.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0152-001` | Shizuka invites Susu/Haru to Kuonji-sponsored company show; Susu discusses choreography, says she once studied ballet, sees local special-audition notice and decides to enter. | A:P1–47; `KNOW-0414`. Show quality is their judgment; notice not contract or principal-role offer. |
+| `EV-B0152-002` | Susu trains about five hours daily by Musubi's report and runs outside when the shared room is needed; peers revise expectation that she will quit quickly. | B:P1–36; `KNOW-0415`. No medical/nutrition/guardian audit. |
+| `EV-B0152-003` | Peers worry a company offer could conflict with idol work; Susu says she will decide if accepted and wants to test her dancing first. | B:P37–81; `KNOW-0416`. Hypothetical affiliation, no actual contract or managerial solution. |
+| `EV-B0152-004` | Sui, Haru and Musubi assist runs, food restraint and basics; Susu sleeps on Sawara's lap, who jokes about selling sleeping image and names Susu as fourteen. | B:P85–137; `KNOW-0417`. Support and overtraining/image-privacy risks coexist. |
+| `EV-B0152-005` | Susu chooses to go to audition alone; other applicants question her foreignness/idol seriousness and hope she fails. | C:P1–39; `KNOW-0418`. Their claims are speculation, not judge findings. |
+| `EV-B0152-006` | Peer holocom messages and Musubi's principle question steady Susu; she answers “Just do it” when called as entry 37. | C:P40–64; `KNOW-0419`. Full audition dance, score and judging absent. |
+| `EV-B0152-007` | Phone result leads Susu to report rejection, publicly disavow disappointment and celebrate with group. | C:P65–118; `KNOW-0420`. She speculates others worked harder; no ranking evidence. |
+| `EV-B0152-008` | In private Susu asks Player to turn away, cries about not being chosen, sets an end to disclosure, then offers him a ballet showing as its audience. | C:P119–164; `KNOW-0421`. Fourteen-year-old/manager boundary, no adult romance or complete dance record. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0735` | `BALLET_VIEWING_TO_RENEWED_TEST` | Visiting company and flyer in `EV-B0152-001` prompt Susu's audition choice; no guaranteed place. |
+| `EDGE-0736` | `DECISION_TO_HIGH_PRACTICE_LOAD` | `EV-B0152-001`–`002`; intensity observed/reported, safety not certified. |
+| `EDGE-0737` | `PRACTICE_SERIOUSNESS_TO_PEER_REAPPRAISAL` | Peers revise “she'll tire of it” in `EV-B0152-002`; later result does not erase effort. |
+| `EDGE-0738` | `POSSIBLE_ACCEPTANCE_TO_AFFILIATION_WORRY` | `EV-B0152-003`; worry is hypothetical, no binding exclusivity read. |
+| `EDGE-0739` | `SUSU_CHALLENGE_TO_DEFERRED_CAREER_DECISION` | She chooses test before deal in `EV-B0152-003`; neither career abandoned. |
+| `EDGE-0740` | `PEER_SUPPORT_TO_ADDED_TRAINING` | `EV-B0152-004` adds runs and diet restraint; support does not equal medical clearance. |
+| `EDGE-0741` | `SUSU_INDEPENDENCE_TO_SOLO_ARRIVAL` | `EV-B0152-005`; specific accompaniment choice, not proof of all safeguarding. |
+| `EDGE-0742` | `APPLICANT_GATEKEEPING_TO_DISTRESS` | Unnamed peers' foreign/idol stereotypes unsettle her in `EV-B0152-005`, without evidencing skill. |
+| `EDGE-0743` | `HOLOCOM_SUPPORT_TO_PRINCIPLE_REFOCUS` | Messages in `EV-B0152-006` return attention to dancing; no rank guarantee. |
+| `EDGE-0744` | `AUDITION_TO_REPORTED_REJECTION` | Call in `EV-B0152-007` brings outcome; complete audition and judge basis absent. |
+| `EDGE-0745` | `PUBLIC_COMPOSURE_TO_PRIVATE_DISCLOSURE` | `EV-B0152-007`–`008`; two audiences reveal compatible emotional states. |
+| `EDGE-0746` | `PRIVATE_GRIEF_TO_BOUNDED_DANCE_OFFER` | She ends crying and clarifies audience-only invitation in `EV-B0152-008`; no adult intimacy claim. |
+
+`T7S_B0152_CLOSE-20260926`: eight chapter events and twelve typed edges; outcome, technique, health and intimacy cannot be inferred from effort or costume.

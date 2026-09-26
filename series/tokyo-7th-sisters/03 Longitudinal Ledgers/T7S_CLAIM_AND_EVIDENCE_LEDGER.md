@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.52"
+version: "11.53"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 190 complete i-n-g primary documents / T7S_B0080–T7S_B0151; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 193 complete i-n-g primary documents / T7S_B0080–T7S_B0152; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 704`; `revisions = 42`; `predictions = 7`; `AV_reviews = 98`; `literary_findings = 704`. Claims are bounded to their stated B0001 through B0151 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 72 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 709`; `revisions = 42`; `predictions = 7`; `AV_reviews = 99`; `literary_findings = 709`. Claims are bounded to their stated B0001 through B0152 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 73 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2364,3 +2364,27 @@ Owner and A/B/C locator key: [B0151](../02%20Readings/T7S_B0151_DEEP_READING.md)
 - Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred fifty-five dialogue-associated voice pages plus title cues, BGM/SFX, complete sung performance, sponsor contract and broadcast metrics remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0151_CLOSE-20260926`: five bounded claims and one AV review; no verified sponsor identity, permanent market-access resolution, measured broadcast success, specialist or monograph promotion.
+
+## B0152 audition, belonging and bounded vulnerability
+
+Owner and A/B/C locator key: [B0152](../02%20Readings/T7S_B0152_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.54. The native title's “principal” pun does not prove an advertised principal-dancer position.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0152-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Susu's principle is choosing to test a serious skill before deciding a hypothetical company/idol conflict; she neither pre-quits nor receives a dual-affiliation solution. | A:P9–47; B:P37–81; C:P49–60. No offer or contract. |
+| `CL-B0152-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Applicants police foreign/idol belonging without knowing Susu's practice; peer messages help her return attention to dancing, not guarantee selection. | C:P16–60,80–96. Rejection does not validate stereotypes; judge reasoning absent. |
+| `CL-B0152-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Public pride and private tears are compatible audience-specific presentations of a genuinely disappointing outcome. | C:P80–118,124–160. Neither presentation voids the other. |
+| `CL-B0152-004` | `BOUNDED_INFERENCE`; D1; high | Peer support does not certify safe five-hour training, extra laps, week-long sweet restriction or rights to an asleep fourteen-year-old's photo. | B:P1–10,85–137. No medical, nutrition, guardian or image-release evidence; no actual photo sale shown. |
+| `CL-B0152-005` | `BOUNDED_INFERENCE`; D1; high | Susu chooses solo attendance and bounded private grief, but the embrace/flirtation with an adult manager is not adult romance or a waiver of professional boundaries; she clarifies her invitation is to watch ballet. | B:P130–137; C:P1–16,124–164. Age/role asymmetry and unshown safeguards remain. |
+
+### AV-0099 — audition notice, holocom and Susu costume states
+
+- Questions/claims: whether the notice establishes exact selection terms, art establishes actual dance quality, tutu defines a relationship, or the holocom supplies a complete communications record; `CL-B0152-001`–`005`.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for performed ballet/audio, scoring, health/nutrition and minor-manager boundary restrictions.
+- Selection: Susu casual `adv_chara_011_01_06`, training suit `011_05_15`, practice dress `011_06_08`, ornate tutu expressions `011_07_10`/`_06`; Musubi athletic `004_06_06`, Haru school `003_02_10`, Sawara casual `012_01_06`; special-audition notice `adv_obj_0153`, holocom `adv_obj_0027`. All 353 native pages and fifty-eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.54 binds ten media receipts.
+- Observed: Susu's clothing and expression shift across training, audition and private scene while identity remains continuous. Notice confirms an audition graphic, not signed terms. Holocom depicts message/call mediation, not external score. Costume does not make ballet performance or romance visible.
+- Native occurrence: command-only A:P0,15–16,48; B:P0,12,16–19,51–53,74,82–85,90–92,98–101,112–115,138; C:P0,7,12–15,21–25,40,61–64,73,79,113–115,119,121–123,133,151,164. A:P39–40 notice object has text state; C:P61–64 cuts away from audition before a scored performance.
+- Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred thirty-one dialogue-associated voice pages plus title cues, BGM/SFX, full show/audition/private dance, scores, training health and consent/contract records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0152_CLOSE-20260926`: five bounded claims and one AV review; no principal job, guaranteed merit outcome, adult romance, specialist or monograph promotion.

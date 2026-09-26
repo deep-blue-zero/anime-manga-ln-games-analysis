@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.52"
+version: "11.53"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 190 complete i-n-g primary documents / T7S_B0080–T7S_B0151; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 193 complete i-n-g primary documents / T7S_B0080–T7S_B0152; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 413`; `directional_relationship_states = 612`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0151, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 421`; `directional_relationship_states = 618`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0152, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3413,3 +3413,45 @@ The [B0151](../02%20Readings/T7S_B0151_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0612` | Shizuka → 777☆S peers, **from presumptive support to shared decision** | Tries to protect their broadcast by absence, then says she wants to sing with them and accepts boundary. B:P99–111; C:P125–134,158–167. Reciprocal `REL-0611`; no family renunciation. |
 
 `T7S_B0151_CLOSE-20260926`: ten epistemic states, four directional relationship pairs and existing-actor/unit annotations; no stable identity for anonymous sponsor, policy guarantee or new idol unit.
+
+## B0152 Susu, peers and the named visiting company
+
+The [B0152](../02%20Readings/T7S_B0152_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.54, binds these updates. Existing Susu `CHAR-0018`, Musubi `CHAR-0006`, Haru `CHAR-0004`, Sui `CHAR-0014`, Sumire `CHAR-0013`, Sawara `CHAR-0019`, Shizuka `CHAR-0015`, Player `CHAR-0001` and Nanastar `UNIT-0002` remain. Unnamed applicants, usher/caller/choreographer and native item icons do not receive invented identities. Susu is explicitly called fourteen by Sawara; this chapter does not give an independent civil-age record.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0018` / Susu | Reengages ballet, enters local audition, trains intensely, chooses solo attendance, resists stereotyping, is not selected, publicly remains upbeat and privately grieves with Player; offers a ballet showing. | A:P9–47; B:P1–137; C:P1–164. No principal selection, school/guardian permission, certified healthy regimen, adult romance or full dance audit. |
+| `CHAR-0006` / Musubi | Knows ballet-audition context, worries about intensity and solo attendance, later joins basic practice and asks Susu her principle via message. | A:P28–42; B:P7–15,102–111; C:P1–15,49–52. Care does not erase Susu's specific independence choice. |
+| `CHAR-0004` / Haru | Praises Susu's ballet, joins a week without sweets, sends support and later encourages celebratory eating. | A:P17–25; B:P93–97; C:P41–42,103–104. Diet talk not nutrition protocol. |
+| `CHAR-0014` / Sui | Supports run and sends a coach's effort slogan. | B:P85–89; C:P43–45. Effort does not guarantee selection or safe load. |
+| `CHAR-0013` / Sumire | Revises estimate of Susu's seriousness, helps/encourages and thanks her work after rejection. | B:P20–35,37–81; C:P46–47,87–89. Not a judge or contract adviser. |
+| `CHAR-0019` / Sawara | Jokes about picture of sleeping Susu, stops short of actual sale, names her age and encourages possibility. | B:P116–137. Minor privacy concern persists; no image release consent. |
+| `CHAR-0015` / Shizuka | Invites group to Kuonji-sponsored show, produces notice and sends composure message. | A:P5–6,37–43; C:P46,92,105–108. Family sponsorship not adjudication or preferential selection. |
+| `CHAR-0001` / Player | Warns of injury, refuses to pre-decide Susu's future, respects solo choice, objects to photo-sale joke, receives her bounded private grief and accepts audience-only dance invitation. | B:P10–11,46–47,116–137; C:P8–10,124–164. Adult-manager obligations remain; no romance or full safeguarding system. |
+| `UNIT-0002` / Nanastar | Shares space, supports preparation, keeps Susu after rejection and hosts a consolation gathering. | B:P1–137; C:P65–164. No training, diet, minor-image or manager-minor contact policy is shown. |
+
+| ID / local institution | Literal source identity and bounded route | Confidence, evidence, and unresolved obligation |
+| --- | --- | --- |
+| `UNIT-0028` / `plateau-ballet-company` | Literal `プラトー・バレエ団`, a visiting ballet company Kuonji sponsors; it performs locally and holds a special Tokyo-7th audition for new talent. | High for named chapter-local institution: A:P5–13,31–47; C:P57–84. No verified home country, legal entity, score/rank, principal vacancy, exclusive contract, or Susu membership; result is phone-mediated through Susu. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0414` | Shizuka, Haru and Susu saw show; Susu knows own ballet past; Musubi relays a student's audition account; notice prompts choice. | A:P1–47. Notice not full terms or criteria. |
+| `KNOW-0415` | Peers see sustained practice and revise assumption of fleeting interest; Musubi reports about five hours daily. | B:P1–36. No injury or external coaching audit. |
+| `KNOW-0416` | Peers foresee dual-affiliation problem; Player would ask Susu, who states challenge now/decision later. | B:P37–81. No offer or contract to construe. |
+| `KNOW-0417` | Group helps, Sawara notes fourteen-year-old status and jokes about sleeping-photo sale; Player rejects joke. | B:P85–137. No actual publication or consent. |
+| `KNOW-0418` | Susu knows she chose solo attendance and hears applicants' foreign/idol stereotypes; they do not know her preparation. | C:P1–39. Their allegations are not judge observations. |
+| `KNOW-0419` | Susu receives distinct peer messages and Musubi's principle question; she states dancing purpose before entry. | C:P40–64. No full audition audio/visual or verdict yet. |
+| `KNOW-0420` | Susu hears phone result and tells group she failed; peers hear public composure, not her private hurt. | C:P65–118. Comparative effort/rank speculated, not documented. |
+| `KNOW-0421` | Player hears Susu privately admit grief and her boundary on looking/speaking; she later clarifies private invitation as ballet audience. | C:P119–164. No other peer knowledge, romance or complete dance witnessed in source. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0613` | Musubi → Susu, **concern and principle question** | Worries about load/solo travel, joins basics, sends “What is your principle?” A:P28–42; B:P7–15,102–111; C:P1–15,49. Reciprocal `REL-0614`; no training credential. |
+| `REL-0614` | Susu → Musubi, **taking help while retaining chosen attempt** | Accepts practice company, responds to message with own purpose and still goes alone. B:P102–111; C:P1–60. Reciprocal `REL-0613`; not rejection of all care. |
+| `REL-0615` | Player → Susu, **managerial care with open obligations** | Warns against injury, honors solo choice, objects to image sale, respects quiet/turned-away request. B:P10–11,46–47,116–137; C:P8–10,124–164. Reciprocal `REL-0616`; adult-minor boundary. |
+| `REL-0616` | Susu → Player, **bounded emotional disclosure** | Requests privacy for crying, ends it herself and offers audience-only ballet showing. C:P124–164. Reciprocal `REL-0615`; no adult romantic commitment. |
+| `REL-0617` | Peers → Susu, **support with some bodily/privacy overreach** | Send encouragement, help runs/diet/basic practice and celebrate rejection; Sawara jokes about sleeping image. B:P85–137; C:P40–49,85–118. Reciprocal `REL-0618`; safety/consent not guaranteed. |
+| `REL-0618` | Susu → peers, **shared preparation and selectively public composure** | Accepts help, reports rejection and expresses cheerful company praise; private grief goes to Player. B:P60–111; C:P65–118. Reciprocal `REL-0617`; public mask not false bond. |
+
+`T7S_B0152_CLOSE-20260926`: one named chapter-local company unit without membership, eight epistemic states, three directional relationship pairs and existing-character annotations; minor safeguarding remains a live limitation.
