@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -704,3 +704,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Secret agents in the open:** Toki prepares for infiltration; C&C's visible, loud front reverses her genre expectation. Akane's courteous “greeting” is explosive rather than hospitable, a situated fighting register rather than a stable peaceful promise.
 - **Game victory versus rescue:** Nel's rematch and “beat you *before* saving the kid” sets a sequence like E012's `勝利条件`, but winning that duel is neither shown nor sufficient by itself for Alice's return.
 - **Tower as hopeful coordinate:** the rear reaches open city and Hare draws a route to a probable center. Movement creates possibility, not a proof of Alice's location or the repair of BA-C019 belonging.
+
+## V002 C002 E015 motif / callback delta — literal rails versus Rio's lever
+
+- **Freight train to trolley problem:** the coalition's E012–E013 train was a real access route; Rio's `トロッコ問題` is a metaphor that tries to reduce Alice's fate to a one-versus-many switch. The shared rail imagery does not make the metaphor's premises true.
+- **Fortress as moving constraint:** E012's secret city and E014's imperfect surveillance now reveal a concrete adaptive structure: Toki can partition C&C. A local successful counter complicates both omniscience and easy coalition victory.
+- **Ugly design/power:** Avant-Garde-kun draws aesthetic criticism but high-firepower appraisal. Rio's denial that looks matter and Sensei's teasing expose a personal register without proving weapon superiority or Rio's moral model.
+- **Game author rejects forced ending:** Momoi invokes her scenario-writing and rejects Rio's scale rhetoric while demanding Alice back, extending E011's refusal of a coerced ending. Her injury remains real.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -556,3 +556,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **TOKI ↔ C&C/RIO:** Toki addresses the others as seniors and reports Rio ordered suppression of disobedient C&C. Her obedience is visible, not proof that C&C shares Rio's judgment or that she understands every team movement. Akane's polite challenge and Asuna's casual teasing mark opposition; an Asuna-labeled formal surrender line is voice-uncertain.
 - **NEL ↔ TOKI/ALICE:** Nel appears at the front, wants a rematch after E009–E010 and says defeating Toki first will prevent interception before helping Alice. This adds a tactical reason alongside wounded pride; neither victory nor Alice contact follows.
 - **CLUB/ENGINEERING/VERITAS/SENSEI ↔ ALICE:** Momoi and the rear group emerge at the surface, and Hare navigates toward Alice's *probable* tower location. The bond motivates pursuit, not a represented reunion, consent conversation or secure restoration of place.
+
+## V002 C002 E015 relationship delta — forced separation, undischarged care
+
+- **TOKI/RIO ↔ NEL/C&C:** Toki uses Rio-given Eridu authority to physically divide Nel from her coordinated teammates. It is a tactical separation under institutional command, not a change in C&C loyalty or proof Nel has lost.
+- **RIO ↔ SENSEI/CLUB:** Rio says prior persuasion failed and casts Alice as the one who must be sacrificed. Sensei's alternative choice can state opposition, but alternatives cannot be combined; the party remains in conflict with her new weapon.
+- **MOMOI ↔ ALICE/RIO:** Momoi, personally injured in the incident Rio invokes, insists on returning Alice. This makes her refusal informed by lived harm rather than ignorance of it, while Alice herself is absent and no safe reunion occurs.
+- **VERITAS ↔ COALITION:** the communication cut interrupts the support relation. It does not show abandonment by Veritas or complete loss of all later contact.

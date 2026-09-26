@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -966,3 +966,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `指示に背いて行動しているC&Cを制圧せよ` is Toki's report of Rio's order. Akane's polite `挨拶` and `見くびってもらっては困ります` carry combat threat; Nel's rough `リベンジマッチ`/`倒した「後」` join pride with a prospective route to help Alice.
 - Hibiki's `邪魔なドローンは、全部` refers to obstructing drones, not every city drone. Hare's `おそらく` keeps the tower location provisional even as `ルートを算出` gives a usable route.
 - **Quarantine:** Asuna-labeled `u:0026` sounds unusually Akane-like; `u:0037-0039` have voice/response tension. Sensei `u:0064` and malformed-quote `u:0070` remain `心の声`. No choice groups; the `罠` next-title card is not an already witnessed trap.
+
+## V002 C002 E015 delta — the lever, “own decision” and duplicate lines
+
+- Toki's `連携`/`息の合った戦術` respects C&C coordination; `都市構造を変更` and `隔離` describe a directly shown local counter. `勝率は限りなく低く` is her forecast, not a measured result.
+- Rio's `トロッコ問題`/`レバーを引く`/`喜んで` makes a one-versus-many premise and self-casts as willing operator. `悪意も敵意も` is self-description, not exoneration. Momoi's `分かんない` follows Rio's citation of her own injury and cannot mean no injury happened.
+- `自らの決断によって` is Rio's interpretation of the C&C/Sensei split, partially matching observed separation but not proving complete manipulation. `アバンギャルド君、発進` is deployment, not victory.
+- **Quarantine:** `u:0029-0030` is `？？？`, not securely a named voice or technical attack method. `choice:002` has two alternatives; Rio's `u:0034-0035` `そう` duplicates and may reflect branching. Scene 2 Hibiki `u:0004-0005` duplicates. Sensei `scene:001:u:0070`/`scene:002:u:0003` remain `心の声`; next `チェックメイト` card is not a combat result.

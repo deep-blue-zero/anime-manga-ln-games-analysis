@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -672,3 +672,7 @@ Sensei arrives with the party by freight train, thanks Veritas and says to be ca
 ## V002 C002 E014 delta — inward encouragement during plural advance
 
 Sensei is absent from Toki's front-line view and present with the rear group. The `u:0064` “tighten up” and `u:0070` thanks/“let's go” lines are `心の声`, not secure audible orders; the latter also has a malformed opening quote. Momoi announces surface access, Hare calculates the probable tower route, and the group advances without a displayed adult-authored tactical intervention. There are zero choice groups, no Alice contact or rescue, and no readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E015 delta — Rio's adult lever and Sensei's bounded tactic
+
+Rio again asks Sensei to accept a sacrifice calculus, now via `トロッコ問題`. Her forced binary depends on unverified Alice classification, risk scale and absence of alternatives; the metaphor does not itself settle adult duty. `choice:002` contains two alternative replies, only one explicitly “came to stop you.” `choice:001` and `choice:003` are singleton. Sensei's `scene:001:u:0070` warning and `scene:002:u:0003` recognition of a hidden opponent are inward. The latter says they asked C&C to address Toki, a retrospective participation claim that coexists with Nel's E012 authorship; it is not a secure audible E015 order or complete account of coalition decisions. No rescue, medical outcome, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

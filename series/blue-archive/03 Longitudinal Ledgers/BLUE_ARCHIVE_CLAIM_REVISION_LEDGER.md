@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E014 active provisional; E015 unopened
+current_sequential_boundary: MAIN_V002_C002_E015 active provisional; E016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1426,3 +1426,13 @@ No new claim ID, model, frozen prediction or side-source admission. Himari's int
 - **BA-C019: PURSUIT, NOT RETURN** — a route to Alice's probable tower location is computed, but she remains unseen and her place insecure.
 
 Toki's broad `すべて把握` claim meets her admitted `想定外` frontal approach and wrong Nel-placement inference. This revises the local surveillance assessment, not the entire Rio threat model. No new claim ID, model, frozen prediction or side-source admission; battle, route, Alice location/halo state and defense scope remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E015 claim transitions — trolley framing meets injured refusal
+
+- **BA-C001–C004, C007, C010–C011: BINARY CHALLENGED** — Rio explicitly asserts the one-versus-many trolley frame and willingly taking the lever, but threat scale, Alice status, consent, alternatives and sole-remedy necessity remain unproven. Momoi refuses Rio's inference despite firsthand injury, not because injury was absent.
+- **BA-C005–C006: PRESERVE REJECTED** — Toki uses city control, Rio deploys a new weapon and Veritas links cut, while Momoi speaks independently. Sensei's inward “asked C&C” adds participation but does not erase Nel's E012 plan authorship.
+- **BA-C008: BOUNDED** — `choice:002` has mutually alternative phrasing, `choice:001`/`003` singleton, and private/duplicated lines cannot become one complete audible script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: BELONGING CONTESTED** — Momoi demands Alice back, but Alice is absent and the new force prevents secure return.
+
+The local Eridu partition confirms a defensive capacity while not validating Rio's broad forecasts or Toki's E014 omniscience claim. No new claim ID, model, frozen prediction or side-source admission; Nel fight, rear weapon outcome, communication mechanism and Alice fate remain OPEN. Contextual backfill **DEFER**.

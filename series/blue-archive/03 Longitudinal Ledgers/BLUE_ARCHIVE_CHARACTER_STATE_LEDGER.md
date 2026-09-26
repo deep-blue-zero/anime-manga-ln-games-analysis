@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -655,5 +655,15 @@ Readiness remains 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operationa
 - **Akane/Karin/Asuna/Nel:** Akane explosively tests Toki and speaks a courteous challenge; Karin and Asuna react, with some label/register tension. Nel arrives for a rematch and says defeating Toki first avoids later interception before helping Alice. Her reason is stated, but victory and rescue are future.
 - **Hibiki/Kotori/Hare:** Hibiki reports obstructing drones cleared. Hare calculates a route to the central tower, while saying Alice is only probably there. Full Eridu security and a live location are unverified.
 - **Momoi/Maki/Sensei:** Momoi announces surface access and urges advance; Maki cheers. Sensei's two lines are inward thoughts, not audible tactical commands. Alice is not contacted, and Momoi receives no medical reassessment.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E015 delta — fortress split and trolley ambush
+
+- **Toki/Nel/C&C:** Toki recognizes coordinated C&C strength and uses Rio-granted city-structure authority to isolate Nel from the others. The physical split is direct; Toki's near-zero win forecast and any eventual defeat are not. Nel rejects probability talk, not the fact of separation.
+- **Rio:** addresses Sensei and rear party, offers a trolley one-versus-many justification, says their own C&C/Sensei separation served her plan and deploys Avant-Garde-kun. Her intent and weapon deployment are explicit; unique necessity, lack of alternatives and complete control are not.
+- **Momoi:** explicitly rejects Rio's inference from the earlier attack on her and demands Alice's return. Her creative-scenario taunt does not undo her injury or supply a risk model; no medical reassessment appears.
+- **Veritas/Hibiki/Utaha:** communications to Veritas cut after an unidentified voice addresses them; precise technical cause is unshown. Hibiki and Momoi appraise the new weapon as unexpectedly powerful; Hibiki's strategic line duplicates in scene 2.
+- **Sensei:** one singleton choice observes the link failure, `choice:002` provides two alternative replies to Rio and `choice:003` teases her design feeling. Two later lines are `心の声`, including a retrospective claim they asked C&C to take Toki. It is not a new audible order or sole tactic authorship.
 
 Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:015; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -542,3 +542,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Order and fracture:** Toki says Rio ordered her to suppress C&C for disobeying instructions. Akane/Karin/Asuna oppose her and Nel joins their front. Formal C&C roster membership does not entail uniform allegiance to Rio's Alice policy. Toki's quotation is a participant report of the order, not an independent command record.
 - **Security knowledge:** Toki knows Akane's specialty and identifies the delaying logic, but admits the frontal approach surprised her and incorrectly assumes Nel is with the rear. Her knowledge has tactical content and demonstrated limits; this does not map Rio's entire surveillance system.
 - **Rear access:** Hibiki reports every *obstructing* drone down, Momoi says the group reaches outside, and Hare calculates a main-street route to the probable central tower site. Neither all Eridu defenses neutralized nor Alice's live position/tower access is verified.
+
+## V002 C002 E015 institutional delta — movable fortress and disrupted communications
+
+- **City control:** Eridu's structures physically move and partition Nel from C&C. Toki says Rio granted the authority and the city doubles as anti-intruder fortress; this directly establishes a local reconfiguration capability, not unrestricted city control or Toki victory.
+- **Communications:** Veritas contact cuts after an unidentified voice addresses the team and Himari. Rio appears to the rear group immediately afterward, but the voice label and exact interception mechanism remain unverified.
+- **Ambush force:** Rio deploys Avant-Garde-kun against the rear party. Hibiki/Momoi appraise its firepower as high. No design specification, complete capacity, injury or terminal battle result is shown.
+- **Governance:** Rio's trolley analogy asserts one-sacrifice necessity without formal hearing, independent threat proof, alternatives assessment or Alice consent. The coercive institutional conflict remains unresolved.
