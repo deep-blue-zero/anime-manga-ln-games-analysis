@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.41"
+version: "11.42"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 157 complete i-n-g primary documents / T7S_B0080–T7S_B0140; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 160 complete i-n-g primary documents / T7S_B0080–T7S_B0141; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 552`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 596`; `last_closed_block = T7S_B0140`. The admitted horizon contains 392 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 157 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 559`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 607`; `last_closed_block = T7S_B0141`. The admitted horizon contains 395 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 160 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1897,3 +1897,33 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.42. [B0140](../02%20Readings/
 | `EDGE-0603` | `LATE_MANAGER_TO_LIMITED_TESTIMONY` | Player's late arrival in `EV-B0140-006` bars use of his success question as first-hand song review. |
 
 `T7S_B0140_CLOSE-20260926`: six chapter events and ten bounded edges; no new formal ensemble, universal fan reception, song-quality verdict, spirit finding, rights finding or completed post-live review.
+
+## B0141 Makoto's divided attention, Sumire's correction and reciprocal gift
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.43. [B0141](../02%20Readings/T7S_B0141_DEEP_READING.md) owns the A/B/C locator key. B0103 has an explicit unresolved dream boundary; no such marker reclassifies this chapter's presented conversations and gift, and menu order does not make it a verified fictional sequel. Makoto's world-filling `お兄ちゃん` is her claim, not actual ubiquity or entitlement.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0141-001` | Player reports Makoto's distance, reduced mail and absent lunches; Haru/Yumeno/Coney blame him before knowing cause, while Sumire asks for her reasons. | A:P2–30; `KNOW-0328`. Counts are Player estimates; no shown wrongdoing. |
+| `EV-B0141-002` | Makoto calls Sumire rival/untrustworthy and says she cannot be near Player; Sumire follows her to karaoke room and gets her agreement to talk. | A:P33–48; B:P1–8; `KNOW-0329`. Sumire's insistence is not an ideal freely negotiated exit. |
+| `EV-B0141-003` | Makoto says Nanastar work, fans and a recent live became pleasurable beyond pleasing Player, which she experiences as betrayal. | B:P9–20; `KNOW-0330`. Unseen live and Player's presumed dislike not independently established. |
+| `EV-B0141-004` | Sumire says caring for fans/work does not betray Player; Makoto recasts this as omnipresence and escape-proof possession, which Sumire rejects. | B:P20–39; C:P1–8; `KNOW-0331`. Reassurance does not license possessive conclusion. |
+| `EV-B0141-005` | Player delights in reported mail over 200/day and larger lunch; peers encourage volume, Sumire questions sleep. | C:P11–20; `KNOW-0332`. Momentary welcome not durable consent or rest audit. |
+| `EV-B0141-006` | Makoto gives Sumire a face-shaped character bento and note thanking `スミレお姉ちゃん`, while prefacing gift with possessive connection-to-Player language. | C:P21–39; `KNOW-0333`. Real peer gratitude and unresolved fixation coexist. |
+| `EV-B0141-007` | Sumire imitates Makoto's sister/possessive speech; Player's comic fear closes scene. | C:P39–56; `KNOW-0334`. No literal new Sumire identity or permanent behavioral adoption. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0604` | `WITHDRAWAL_TO_UNGROUNDED_BLAME` | Player's report in `EV-B0141-001` makes others presume guilt before Makoto speaks. |
+| `EDGE-0605` | `SUMIRE_INQUIRY_TO_DISCLOSURE` | Sumire's insistence in `EV-B0141-002` elicits Makoto's account in `003`; assent follows initial reluctance. |
+| `EDGE-0606` | `NEW_WORK_PLEASURE_TO_GUILT` | Makoto values fans/peers in `EV-B0141-003` and experiences that as Player disloyalty; no Player demand shown. |
+| `EDGE-0607` | `NON_ZERO_SUM_REASSURANCE_TO_RELIEF` | Sumire in `EV-B0141-004` says Player can see serious work while Makoto faces outward; Makoto says distress clears. |
+| `EDGE-0608` | `REASSURANCE_TO_POSSESSIVE_OVEREXTENSION` | Makoto's world/escape language exceeds Sumire's actual claim; Sumire objects in `EV-B0141-004`. |
+| `EDGE-0609` | `RELIEF_TO_CONTACT_ESCALATION` | Restored access in `EV-B0141-004` precedes reported 200-plus messages in `005`; no quantified causal mechanism or policy. |
+| `EDGE-0610` | `CONTACT_ESCALATION_TO_SUMIRE_REST_QUERY` | Sumire questions Makoto's sleep in `EV-B0141-005`; no clinical or schedule evidence. |
+| `EDGE-0611` | `PRIVATE_TALK_TO_PEER_GRATITUDE` | B conversation is thanked with character bento/note in `EV-B0141-006`; not solely Player-directed. |
+| `EDGE-0612` | `PEER_GRATITUDE_WITH_POSSESSIVE_FRAME` | Makoto's gift and ownership preface in `EV-B0141-006` coexist; neither nullifies the other. |
+| `EDGE-0613` | `IMITATION_TO_PLAYER_FEAR` | Sumire's staged `お兄ちゃん` copy in `EV-B0141-007` alarms Player; no actual second Makoto. |
+| `EDGE-0614` | `OFFICE_APPROVAL_WITHOUT_BOUNDARY_CONTRACT` | Peers' praise and Player's delight in `EV-B0141-005` do not establish sustained consent to any future volume. |
+
+`T7S_B0141_CLOSE-20260926`: seven chapter events and eleven bounded edges; no diagnosed condition, real omnipresence, blanket contact consent, Sumire personality transfer or dream-frame import.

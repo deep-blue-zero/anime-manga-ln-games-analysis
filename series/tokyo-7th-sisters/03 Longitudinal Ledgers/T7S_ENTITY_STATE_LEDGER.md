@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.41"
+version: "11.42"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 157 complete i-n-g primary documents / T7S_B0080–T7S_B0140; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 160 complete i-n-g primary documents / T7S_B0080–T7S_B0141; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 327`; `directional_relationship_states = 538`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0140, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 334`; `directional_relationship_states = 542`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0141, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2990,3 +2990,35 @@ The [B0140](../02%20Readings/T7S_B0140_DEEP_READING.md) A/B/C key, witness `T7S_
 Nanastar `UNIT-0002` remains the collaborators' affiliation; 4U `UNIT-0007` is song source, not a participant in this event. The two fans' evolving response is actor-local but unnamed, so it does not create a new stable person. No new unit or identity route is warranted.
 
 `T7S_B0140_CLOSE-20260926`: six actor-local knowledge records, two directional relationship pairs and existing-actor annotations; no new formal festival unit, 4U participation, universal audience response or documented performance rights.
+
+## B0141 Makoto's professional pleasure and Sumire's local peer bond
+
+The [B0141](../02%20Readings/T7S_B0141_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.43, binds these updates. Existing Makoto `IDENTITY-0035`/`CHAR-0030`, Sumire `IDENTITY-0016`/`CHAR-0013`, Player `CHAR-0001`, Haru `CHAR-0004`, Yumeno `IDENTITY-0087`/`CHAR-0069`, Coney `CHAR-0003` and Nanastar `UNIT-0002` suffice. No new person or unit route is warranted by Makoto's metaphor or Sumire's imitation.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0030` / Makoto | Enjoys audience and peers, feels guilt over briefly not thinking of Player, accepts Sumire's reassurance but extends it possessively, then thanks Sumire with a character bento while reported mail rises. | A:P34–45; B:P1–39; C:P1–39,53. No durable reform, clinical finding, actual Player omnipresence or permission to control peers. |
+| `CHAR-0013` / Sumire | Resists group blame, asks Makoto for her reasons, says fan attention is not betrayal, objects to possession claim, accepts older-sister thanks and later imitates it as a joke. | A:P3–48; B:P1–39; C:P1–56. Initial karaoke insistence has consent limits; imitation not a stable identity change. |
+| `CHAR-0001` / Player | Worries at diminished contact, accepts ungrounded blame, later welcomes reported message/lunch return and fears a second Makoto in closing joke. | A:P2–30; C:P11–20,34–56. Not shown hearing Makoto's full reason or negotiating sustained communication terms. |
+| `CHAR-0004` / Haru | Blames Player before cause known, celebrates excess affection and teases him in the closing. | A:P15–22; C:P17,30,50. No independent account of Makoto's motive or consent policy. |
+| `CHAR-0069` / Yumeno | Threatens Player rhetorically, calls him Makoto's whole motive, celebrates returned lunches and joins teasing. | A:P17–26; C:P18,31,51. No basis for exclusive-cause claim or actual sanction. |
+| `CHAR-0003` / Coney | Urges apology even if Player innocent, encourages escalating mail and joins `お兄ちゃん` joke. | A:P19–29; C:P19,38,52. Manager's comic encouragement is not a safeguarded communication rule. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0328` | Player knows reduced distance/mail/lunch pattern; Haru/Yumeno/Coney infer fault, Sumire notes Makoto may have her own reason. | A:P2–30. Cause still unknown to them. |
+| `KNOW-0329` | Makoto casts Sumire as rival and unworthy-self as reason to leave; Sumire sees distress and seeks disclosure. | A:P33–48; B:P1–8. Rivalry is Makoto's attribution, not Sumire's confirmed aim. |
+| `KNOW-0330` | Makoto reports joy with peers/fans and a live moment without Player-thought; Sumire learns the stated reason for avoidance. | B:P9–20. Live not shown; Player not shown learning this account. |
+| `KNOW-0331` | Sumire says serious idol work is compatible with Player's regard; Makoto infers world-filling possession; Sumire expressly rejects extension. | B:P20–39; C:P1–8. No literal omnipresence or agreed access. |
+| `KNOW-0332` | Player reports 200-plus messages and larger lunch with delight; Sumire worries about sleep while others cheer. | C:P11–20. Estimates, rest and future preference unverified. |
+| `KNOW-0333` | Makoto gives lunch/thank-you note to Sumire, and Sumire recognizes her own modeled face and an `older sister` invitation. | C:P21–39. Possessive preface also heard. |
+| `KNOW-0334` | Sumire performs Makoto-like address and threat; Player imagines two Makotos and protests. | C:P39–56. No permanent identity or actual future behavior proved. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0539` | Sumire → Makoto, **concern, correction and acceptance** | Investigates distress, rejects betrayal/omnipresence link and welcomes private thanks. A:P33–48; B:P1–39; C:P21–39. Reciprocal `REL-0540`; her karaoke insistence is not freely negotiated exit. |
+| `REL-0540` | Makoto → Sumire, **rival attribution to older-sister gift** | Initially distrusts her, then discloses and makes a personalized thank-you lunch with future talk request. A:P34–45; B:P1–8; C:P21–39. Reciprocal `REL-0539`; Player ownership frame persists. |
+| `REL-0541` | Makoto → Player, **guilty withdrawal then intensified contact** | Avoids him over new idol pleasure; says attention to others is betrayal, then sends more messages and resumes lunches by his report. A:P8–12; B:P9–39; C:P11–20. Reciprocal `REL-0542`; no entitlement to unlimited contact. |
+| `REL-0542` | Player → Makoto, **worry and immediate welcome without boundary talk** | Misreads distance as anomalous, apologizes on peers' assumption, later delights in return, while Sumire's imitation frightens him. A:P2–30; C:P11–20,39–56. Reciprocal `REL-0541`; no durable consent agreement. |
+
+`T7S_B0141_CLOSE-20260926`: seven actor-local knowledge records, two directional relationship pairs and existing-actor annotations; one local peer gift does not close the Player contact boundary.

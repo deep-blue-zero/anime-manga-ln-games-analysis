@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.41"
+version: "11.42"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 157 complete i-n-g primary documents / T7S_B0080–T7S_B0140; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 160 complete i-n-g primary documents / T7S_B0080–T7S_B0141; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 653`; `revisions = 42`; `predictions = 7`; `AV_reviews = 87`; `literary_findings = 653`. Claims are bounded to their stated B0001 through B0140 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 61 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 657`; `revisions = 42`; `predictions = 7`; `AV_reviews = 88`; `literary_findings = 657`. Claims are bounded to their stated B0001 through B0141 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 62 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2104,3 +2104,26 @@ Owner and A/B/C locator key: [B0140](../02%20Readings/T7S_B0140_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred ten dialogue-associated voice pages plus title cues, BGM/SFX and the performed cover remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0140_CLOSE-20260926`: four bounded claims and one AV review; no universal fan acceptance, complete music verdict, spirit confirmation, rights determination, specialist or monograph promotion.
+
+## B0141 Makoto's new audience pleasure and overextended assurance
+
+Owner and A/B/C locator key: [B0141](../02%20Readings/T7S_B0141_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.43. B0103's uncertain dream onset is retained as a separate presentation frame, not projected onto this chapter.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0141-001` | `BOUNDED_INFERENCE`; D1; high | Makoto's stated reason for withdrawal is guilt over enjoying fans/peers, not an evidenced new offense by Player; office blame preceded her explanation. | A:P8–30,33–48; B:P9–20. Earlier/future manager boundaries remain separate. |
+| `CL-B0141-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sumire offers non-zero-sum regard while Makoto transforms it into omnipresent ownership; Sumire's explicit stop keeps reassurance distinct from endorsement. | B:P20–39. No literal world-filling Player or agreed possession. |
+| `CL-B0141-003` | `BOUNDED_INFERENCE`; D1; high | Personalized lunch and note establish peer-directed gratitude to Sumire even as Makoto's possessive preface and renewed messaging keep exclusivity unresolved. | B:P1–8,20–39; C:P21–39. No completed cure or merely instrumental gift. |
+| `CL-B0141-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | The office's welcome of enlarged contact and Player's final fear are momentary, differing reactions; neither forms a sustained manager–performer contact/consent policy. | A:P8–30; C:P11–20,39–56. No rest audit or future boundary. |
+
+### AV-0088 — expressive variants and character-bento object
+
+- Questions/claims: whether selected visuals verify literal Player omnipresence, clinical change, actual sleep/contact volume, permanent Sumire conversion, bento coercion or a dream boundary; `CL-B0141-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for voice, mental state, contact policy and dream-frame restrictions.
+- Selection: Sumire `adv_chara_008_01_11`, `008_01_13`; Makoto `145_01_03`, `145_01_02`; Haru `003_02_10`; Yumeno `133_05_05`; Coney `002_03_08`; lunch object `adv_obj_0112`. All 147 native pages and twenty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.43 binds eight media receipts.
+- Observed: selected Makoto/Sumire expressions differ, and the pink-box lunch depicts a face matching the spoken character-bento reveal. Neither facial art nor object diagnoses Makoto, establishes literal possession or proves Sumire's future behavior.
+- Native occurrence: command-only A:P0–1,31–32,46,49; B:P0,30,32,34,37,39; C:P0,7,9–10,27,41,46,55–56. B:P30–39 transitions during world language; C:P29–41 holds lunch object around the reveal. Effects do not make the metaphor literal.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred eight dialogue-associated voice pages plus title cues, BGM/SFX and animated effect performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0141_CLOSE-20260926`: four bounded claims and one AV review; no diagnosis, literal omnipresence, blanket consent, dream-frame import, specialist or monograph promotion.
