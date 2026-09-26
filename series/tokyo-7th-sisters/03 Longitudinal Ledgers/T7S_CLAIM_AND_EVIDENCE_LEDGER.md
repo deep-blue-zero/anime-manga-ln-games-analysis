@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.3"
+version: "11.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 46 complete i-n-g primary documents / T7S_B0080–T7S_B0102; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 48 complete i-n-g primary documents / T7S_B0080–T7S_B0103; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 503`; `revisions = 42`; `predictions = 7`; `AV_reviews = 49`; `literary_findings = 503`. Claims are bounded to their stated B0001 through B0102 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 23 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 506`; `revisions = 42`; `predictions = 7`; `AV_reviews = 50`; `literary_findings = 506`. Claims are bounded to their stated B0001 through B0103 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 24 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1232,3 +1232,25 @@ Owner and A/B locator key: [B0102](../02%20Readings/T7S_B0102_DEEP_READING.md), 
 - Outcome: `REVIEWED` for selected static/context claims. Seventy-nine dialogue-associated voice pages plus title voice cues, all BGM/SFX and proposed singing/piano remain unreviewed; performed musical quality, emotion, timing and choreography are `BOUND_BY_CLAIM_RESTRICTION`. Later character release still needs representative listening.
 
 `T7S_B0102_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction rewrite, claim revision, specialist or monograph promotion.
+
+## B0103 claims and presentation review
+
+Owner and A/B locator key: [B0103](../02%20Readings/T7S_B0103_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.5. Dream onset remains unlocated; B0035/B0039 comparison is retrospective.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0103-001` | `BOUNDED_INFERENCE`; D1; high as presented, moderate ontic | The Player's represented boundary need is concrete, while the intended confrontation is deferred; care and devotion do not themselves authorize intrusion. | A:P3–57; `KNOW-0124`; `THREAD-0019`. The uncertain dream onset limits every exact incident as waking fact, and the threatening figure is self-labeled possibly hallucinated. Independent B0039 evidence confirms a broader boundary issue, not these precise instances. |
+| `CL-B0103-002` | `THEMATIC_INTERPRETATION`; D1; high within presentation | The nightmare reverses an unwanted monopoly of attention into the Player's fear of losing singular importance without proving a lasting reciprocal romance or canceling his earlier objections. | A:P50–57; B:P31–69; `KNOW-0125`; `REL-0271`–`0272`. The wake-up defeats a literal durable-confession reading; exact waking desire remains uncertain. |
+| `CL-B0103-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | The pre-wake peer scene offers nonexclusive recognition while Coney's permission joke exposes a manager/performer consent gap; its dream uncertainty prevents a new Nanasta policy or confirmed friendship from being inferred. | B:P5–39,54–69; `EV-B0103-002`; `UNIT-0002`. Actual peer care is a possible but unverified reading; literal reciprocal stalking and blanket consent are unsupported. |
+
+### AV-0050 — static cues and the unresolved dream onset
+
+- Questions/claims: whether native presentation marks the exact dream boundary, depicts an actual threat, or supports the group-solo and HoloCom-message claims. `CL-B0103-001`–`003`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for speaker- and dream-layer text.
+- Selection: Makoto `adv_chara_145_01_01`–`04`, Coney `adv_chara_002_04_05`, Haru `adv_chara_003_01_03`, Yumeno `adv_chara_133_01_04`, HoloCom foreground `adv_obj_0027`. All 130 native pages and twelve command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.5 binds media receipts.
+- Observed: Makoto's four faces share long dark hair, turquoise eyes, red ribbon and green cardigan. Selected Yumeno sprite includes illustrated hearts; this is not enacted touch. The HoloCom object is a phone-like image accompanying messages, not independent proof of their transmission or quantity outside the narrated frame.
+- Native occurrence: A:P26–28 white fade/flash around a recollection; A:P37–50 repeated changes/fades around later recollections and apparition; B:P40 clears rehearsal sprites, B:P41 uses black fade, B:P55 shows Coney at office after the call to wake; Makoto recurs against blank background B:P45,51,53,68. Neither these fields nor the title alone identify the dream's start.
+- Outcome: `REVIEWED` for selected static and native segmentation. Sixty-two dialogue-associated voice pages plus title cues, all BGM/SFX and the praised solo are unauditioned; performed-solo quality, vocal affect, sound timing and precise dream-cut timing are `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0103_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction or prior claim rewrite, new romance status, specialist or monograph promotion.

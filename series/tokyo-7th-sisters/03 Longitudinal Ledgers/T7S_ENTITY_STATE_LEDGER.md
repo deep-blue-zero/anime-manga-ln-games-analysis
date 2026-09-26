@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.3"
+version: "11.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 46 complete i-n-g primary documents / T7S_B0080–T7S_B0102; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 48 complete i-n-g primary documents / T7S_B0080–T7S_B0103; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 93`; `character_states = 75`; `epistemic_states = 123`; `directional_relationship_states = 270`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0102, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 93`; `character_states = 75`; `epistemic_states = 125`; `directional_relationship_states = 272`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0103, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1658,3 +1658,28 @@ The [B0102](../02%20Readings/T7S_B0102_DEEP_READING.md) A/B key, witness `T7S_GA
 | `REL-0270` | Mother → Murasaki | Thanks her for dishwashing and asks her to deliver a drink. A:P41–42. Reciprocal `REL-0269`; these two lines do not establish her private intentions or a refusal to accommodate idol work. |
 
 `T7S_B0102_CLOSE-20260925`: two local identity routes, two character states, three actor-local knowledge states, six reciprocal directions and one family-work institution; annotations to the Player, Coney, Musubi, Nanasta and the separate B0087 pair. No readiness, character model or monograph promotion.
+
+## B0103 actor-local nightmare-state annotations
+
+All references use the [B0103](../02%20Readings/T7S_B0103_DEEP_READING.md) A/B locator key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.5. There is no new identity or character-state record because the dream's onset is not located and existing Makoto/Player IDs suffice. Earlier B0035/B0039 states and readiness horizons remain unchanged.
+
+| Existing ID | Presented local state and retained limit | Evidence |
+| --- | --- | --- |
+| `CHAR-0001` / Player | His narrated discomfort with Makoto's attention drives an intention to set a manager boundary. The dream turns relief at her wider acceptance into loneliness and a claim that he depends on her; on waking he asks where the dream began. Neither the planned conversation nor a lasting romantic reversal is established. | A:P0–57; B:P31–69; `KNOW-0124`–`0125`; `THREAD-0019`. |
+| `CHAR-0030` / Makoto | Her desk cleaning, opaque soup, messages, restroom approach and extreme gifts are represented in the Player's account; the apparent group disclosure/acceptance occurs before a wake-up of unspecified onset. Her earlier independently evidenced Citrus state is not replaced by this dream. | A:P3–51; B:P5–39,54–69. No diagnosis, actual harm from soup, sustained peer repair or exclusive relationship follows. |
+| `CHAR-0003` / Coney | In the uncertain pre-wake group scene, praises Makoto and claims manager authority to permit following the Player. In the explicit waking scene she calls him up and tells him lesson has ended. | B:P6,17,23–30,54–62. A joking grant cannot establish the Player's consent, a durable policy or the waking status of the earlier group exchange. |
+| `CHAR-0004` / Haru | In the uncertain pre-wake scene praises Makoto's solo, offers friendship and extends the wordplay about pursuing one another. | B:P8,11,19,27,36. No actual persistent friendship or surveillance practice is certified by this chapter alone. |
+| `CHAR-0069` / Yumeno | In the uncertain pre-wake scene praises and sexualizes Makoto's vulnerable presentation and joins the pursuit joke. | B:P9,12,14,21,28,35. Earlier B0093 boundary evidence remains separately bounded; no physical contact or durable change is established. |
+| `UNIT-0002` / Nanasta | The presented peer scene offers care and recognition but also voices permission for intrusive pursuit without the affected manager's assent. | B:P5–39,54–67. Waking status uncertain; no institutional rule or real staffing decision is enacted. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0124` | Within his own narration, the Player identifies excessive messages and unwanted proximity, calls a threatening figure possibly hallucinated, and recognizes he need not seek Makoto's permission to do his manager job. | A:P20–57. He plans rather than delivers the boundary. Final dream ambiguity keeps exact prior encounters from being certified solely by this chapter. |
+| `KNOW-0125` | The Player is awakened by Coney, recognizes a dream occurred, and explicitly does not know how far back it began. | B:P54–69. His dream self-accusation and the final Makoto call are not verified waking knowledge or objective location. |
+
+| ID | Direction and presentation status | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0271` | Makoto → Player, **Player-represented** | Attention, service and pursuit repeatedly cross boundaries in his account; her apparent response to wider peer care remains of uncertain waking status. A:P3–51; B:P5–39. Reciprocal `REL-0272`; do not convert the hallucinated threat or dream reconciliation into independent actions. |
+| `REL-0272` | Player → Makoto, **actor-local/dream-qualified** | Avoids, objects to the restroom intrusion and plans a manager boundary; later dreams of wanting her exclusive gaze. A:P0–57; B:P40–69. Reciprocal `REL-0271`; no delivered boundary, waking romantic assent or actual dependency diagnosis. |
+
+`T7S_B0103_CLOSE-20260925`: two actor-local knowledge states and one reciprocal presentation-qualified pair; annotations to existing Player, Makoto, Coney, Haru, Yumeno and Nanasta records. No new identity, character, unit, readiness or monograph record.

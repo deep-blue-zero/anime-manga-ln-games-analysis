@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.3"
+version: "11.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 46 complete i-n-g primary documents / T7S_B0080–T7S_B0102; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 48 complete i-n-g primary documents / T7S_B0080–T7S_B0103; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 348`; `world_state_records = 25`; `thread_records = 45`; `chronology_and_dependency_edges = 308`; `last_closed_block = T7S_B0102`. The admitted horizon contains 281 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 46 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 351`; `world_state_records = 25`; `thread_records = 45`; `chronology_and_dependency_edges = 311`; `last_closed_block = T7S_B0103`. The admitted horizon contains 283 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 48 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -872,3 +872,25 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.4. [B0102](../02%20Readings/T
 | `EDGE-0308` | `EXPLICIT_LOCAL_BEFORE` | Bar conversation in `EV-B0102-002`–`003` precedes the next-day `EV-B0102-004`: B:P40 calls the Murasaki–Musubi quarrel yesterday. This adds no relation to B0087 or Main. |
 
 `T7S_B0102_CLOSE-20260925`: four chapter events, one open labor/rehearsal thread and four local dependency/explicit-time edges; no new world-state record or cross-chapter chronology edge.
+
+## B0103 nightmare and knowledge-boundary addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.5. [B0103](../02%20Readings/T7S_B0103_DEEP_READING.md) owns the A/B locator key. The wake-up does not identify where the dream began, so the events below are typed by presentation/actor experience and do not certify all depicted exchanges as waking history. B0035/B0039 comparisons are retrospective without a cross-chapter time edge.
+
+| ID | Presented narrative/causal record | State and evidence limit |
+| --- | --- | --- |
+| `EV-B0103-001` | In the Player's narrated experience, five-in-the-morning avoidance meets Makoto cleaning his desk and offering undisclosed-ingredient soup. He recalls frequent messages, a rejected restroom intrusion, costly gifts and a threatening Makoto figure he suspects is hallucinated. He resolves to say he manages others too. | A:P0–57; `KNOW-0124`; `REL-0271`–`0272`; `THREAD-0019`. No ingredient or harm is established, and the intended boundary conversation never occurs. The dream's starting point is later unresolved. |
+| `EV-B0103-002` | The Player appears to observe Makoto praised by Coney, Haru and Yumeno, disclosing distress and accepting their kindness. Coney jokes that manager authority permits her pursuit; the others join the language of mutual pursuit. | B:P1–39; `UNIT-0002` annotation. This is a **presented scene of uncertain waking status** after B:P54–67; no actual peer relationship repair, consent from the Player or standing institutional permission is inferred. |
+| `EV-B0103-003` | The Player's apparent relief at Makoto's new attention turns to loneliness and a possessive self-accusation, then Coney wakes him after lesson. He asks how far the dream extended; Makoto's final call and his scream do not locate the onset. | B:P40–71; `KNOW-0125`; `AV-0050`. His dependency claim is dream content rather than a durable waking commitment or reciprocal romance. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0019` | The existing manager/performer romantic-professional boundary remains `OPEN`. B0103 adds the Player's represented discomfort, deferred confrontation and a pre-wake managerial permission line of uncertain waking status. No adequate consent or safeguarding is established. A:P20–57; B:P20–39,54–69. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0309` | `MOTIVATES_INTENTION` | Player-represented intrusions and fear in `EV-B0103-001` → his resolve to speak to Makoto within the same event. The conversation is not enacted. |
+| `EDGE-0310` | `DREAM_RECONTEXTUALIZES` | Presented peer redistribution in `EV-B0103-002` → the Player's imagined loss of singular attention in `EV-B0103-003`; not proof the group scene occurred outside his dream. |
+| `EDGE-0311` | `EVIDENCE_QUALIFIER` | Explicit waking and the Player's question in `EV-B0103-003` → limit on treating `EV-B0103-001`–`002` as fully objective waking events. The onset and final call remain unresolved. |
+
+`T7S_B0103_CLOSE-20260925`: three presentation-qualified events and three non-temporal edges; existing `THREAD-0019` advanced without a new thread, world state or cross-chapter chronology edge.
