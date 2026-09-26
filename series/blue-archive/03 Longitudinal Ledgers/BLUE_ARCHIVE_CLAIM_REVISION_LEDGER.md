@@ -1145,3 +1145,12 @@ Do not open `BA-C019` on this single encounter. Classification-versus-belonging 
 - **BA-C009–C018: PRESERVE / no direct generalization** — Millennium club/prize/housing stakes require their own account.
 
 No new claim ID yet. Alice's game response and Yuzu's gratitude complicate a rank-only assessment without certifying product quality or the enrollment plan. Contextual backfill remains **DEFER**.
+
+## V002 C001 E006 claim transitions — social inclusion and procedural gap
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Alice anticipates games and affirms `仲間`, but a present card and claimed Veritas roster change carry an unresolved authorization/knowledge deficit. Help and belonging cannot erase means.
+- **BA-C005–C006: PRESERVE REJECTED** — student-led teaching, debate and risky credential work resist both adult omnipotence and a generic student-incapacity story.
+- **BA-C008: NO DIRECT TEST** — no Sensei action/choice.
+- **BA-C009–C018: PRESERVE / no direct global test** — do not flatten the Millennium card/club situation into Volume 1 institutions.
+
+No `BA-C019` yet; identity legibility versus chosen belonging is a recurring candidate but chapter outcome remains open. Contextual backfill remains **DEFER**.

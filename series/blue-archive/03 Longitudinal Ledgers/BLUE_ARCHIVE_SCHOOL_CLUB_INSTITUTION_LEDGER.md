@@ -327,3 +327,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Club refuge:** Momoi reports Yuzu would lose her `居場所` and cannot go back to the dorm if the club closes. This sharpens stakes but is not yet Yuzu's own account or verified school-housing policy.
 - **Product evaluation:** the poorly ranked game itself shows misleading tutorial and convoluted writing; Alice nevertheless completes it and responds positively. Yuuka's ranking evidence is neither wholly disproved nor a monopoly on worth.
 - **Yuzu:** directly introduced as club president, hidden in the locker since the group returned. Her thanks establishes reception, not a formal decision on Alice's membership. GSC, Valkyrie, Yuuka and a registrar do not act in the unit.
+
+## V002 C001 E006 institutional delta — ID versus authorized status
+
+- **Credential:** Alice is shown receiving a `学生証`, reversing E005's no-card state. Momoi says Veritas registered her on the school roll, self-interrupting `ハッキ……いや、登録`; unauthorized alteration is strongly suggested, but method, Veritas action and official approval are not directly shown.
+- **Membership:** Momoi calls Alice an official companion and Alice uses `仲間` affirmatively. Interpersonal participation, roster legibility and lawful school/club admission remain distinct; no Yuuka/council ruling or audited registry record appears.
+- **Speech:** repeated gaming creates fast reading and fantasy diction; Momoi calls it refined, Midori still unnatural. Natural school-speech competence is not independently demonstrated.
+- **Weapon/tour:** Momoi names a weapon as the remaining task and offers a Millennium tour; neither acquisition nor tour occurs. Factory provenance and `G.Bible` remain unresolved.

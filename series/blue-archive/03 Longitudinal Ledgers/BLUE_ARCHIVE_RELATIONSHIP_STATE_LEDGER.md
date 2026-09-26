@@ -337,3 +337,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **CLUB ↔ ALICE:** Alice agrees to play, receives guidance, persists through punishing design and gives a positive, tearful response. No informed consent to official club membership or identity work is shown.
 - **YUZU ↔ ALICE:** Yuzu's first direct contact is grateful recognition of the player's words/tears, after hidden observation. This does not reveal why Yuzu hid or establish a prior relationship.
 - **MOMOI/MIDORI ↔ YUZU:** Momoi reports club-loss housing stakes; Yuzu independently shows longing for positive game reception. Neither fact alone certifies the other or supplies Yuzu's full private situation.
+
+## V002 C001 E006 relationship delta — chosen company, manufactured legibility
+
+- **YUZU ↔ ALICE:** Yuzu welcomes her and offers games; Alice tries an RPG party-join reply and asks if it fits. This is reciprocal contact with correction, not merely technical training.
+- **CLUB ↔ ALICE:** Alice anticipates continued play and declares herself a joining `仲間` after receiving an ID. Her voiced belonging is real within the scene, but does not establish knowledge of the card's altered provenance or formal club admission.
+- **MOMOI ↔ MIDORI:** Momoi calls game-derived speech refined and proceeds to weapon planning; Midori says it remains skewed. Their differing evaluation continues within cooperation.
+- **CLUB ↔ VERITAS:** Momoi reports Veritas roster work in a self-corrected hacking phrase; no Veritas member appears or confirms the relationship.

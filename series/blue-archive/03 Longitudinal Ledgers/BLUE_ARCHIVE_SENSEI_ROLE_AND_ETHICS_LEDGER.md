@@ -512,3 +512,9 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - No Sensei line, structural action, or selectable choice is represented. Do not credit Sensei with the ID plan, teaching, or Alice's game response.
 - Alice explicitly agrees to play; this limited consent cannot transfer to the planned registration/ID. The club's benevolent Yuzu motive leaves the newcomer-agency problem unresolved.
 - No new Sensei reconstruction rule or frozen-prediction test arises (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E006 delta — no adult intervention in the credential turn
+
+- No Sensei action or choice is represented; the student ID and claimed roster alteration must not be attributed to Sensei or adult authorization.
+- Alice's `仲間` declaration is an affirmative interpersonal response, not proof she was informed of the `ハッキ……登録` method. The adult-agency claim remains under pressure from student-controlled institutional means.
+- No Sensei reconstruction rule or frozen-prediction test (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).

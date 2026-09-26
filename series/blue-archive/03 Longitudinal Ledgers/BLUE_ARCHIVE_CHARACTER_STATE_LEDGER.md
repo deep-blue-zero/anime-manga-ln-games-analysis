@@ -359,3 +359,13 @@ Material context-specific reconstruction evidence does not yield a standalone ru
 - **Sensei/Yuuka:** absent; no direct behavioral sample or institutional decision.
 
 This is material context/knowledge/relationship evidence but no defensible standalone model or readiness promotion. Extensive role-flipped labels in `u:0013-0019`, `u:0033-0043`, `u:0069-0070`, `u:0090`, `u:0096-0097`, `u:0121-0135` are quarantined. `NO_DIAGNOSTIC_OPPORTUNITY` against frozen predictions.
+
+## V002 C001 E006 delta — party language and an unverified credential
+
+- **Alice:** tests social language through RPG party phrasing, anticipates more play, reads rapidly and plays while others sleep, then greets Midori with skewed fantasy diction. Receives an ID she initially cannot identify and affirmatively describes herself joining as `仲間`; comprehension of the record's provenance is not shown.
+- **Momoi:** presents a student ID, reports Veritas's interrupted `ハッキ……登録` in the roster, calls clothing/card/speech solved and turns to a weapon and school tour. Physical card is observed; exact technical/legal status remains her claim.
+- **Midori:** sees rapid reading yet calls the resulting RPG register unnatural. The question whether Momoi said `ハッキング` is label-corrupt, so do not cite it for her voice.
+- **Yuzu:** welcomes Alice and offers other games. The subsequent recommendation debate is role-flipped, limiting precise attribution; no formal club decision is shown.
+- **Sensei/Yuuka:** absent; no direct state change. No weapon or tour occurs yet.
+
+Material contextual evidence, no readiness promotion or standalone model; `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0005`, `u:0014-0017`, `u:0048`, `u:0057` for exact speaker claims.

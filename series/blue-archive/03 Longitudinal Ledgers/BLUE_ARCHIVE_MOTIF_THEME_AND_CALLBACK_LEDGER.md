@@ -481,3 +481,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Instruction as trap:** B means failure while A progresses; Momoi calls unpredictability romantic, Midori sees unfair design. Alice's retries make play a learning site but not costless pedagogy.
 - **Borrowed speech:** Alice's RPG register expands from machine definitions; imitation can enable contact without yet being authentic self-description.
 - **Hidden president revealed:** Yuzu heard the response from the locker, giving a literal audience to the previously absent stake in club survival. Her motive for hiding remains open.
+
+## V002 C001 E006 motif / callback delta — a party and a student card
+
+- **Game language as relational bridge:** Alice maps Yuzu's welcome to a party-join announcement and asks for feedback; shared play is more than a disguise tool, even as the plan exploits it.
+- **Quantity versus fit:** rapid reading and overnight completion multiply acquired lines, but `必滅者よ` signals poor transfer to ordinary interaction. More repertoire does not equal natural speech.
+- **Legibility without legitimacy:** the student card gives visible form to the club's desired status; Momoi's `ハッキ……登録` preserves the ethical gap between database presence and authorized belonging.
+- **Affirmed `仲間`:** Alice's own party-like declaration strengthens social inclusion without retroactively consenting to hidden credential production.
+- **The remaining weapon:** the plan's next item exposes another gap between being treated as a student and having an understood, chosen role in the school.

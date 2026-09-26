@@ -724,3 +724,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `草食系` / `植物人間`: game-text malapropism, not Alice's linguistic error. `勇者よ、汝が同意を求めるならば、私はそれを肯定しよう` is context-borrowed game register.
 - `こ、ろ、し、て……`: comic overload after long play, not secure evidence of enduring self-harm intent.
 - **Attribution quarantine:** `u:0013-0019`, `u:0033-0043`, `u:0069-0070`, `u:0090`, `u:0096-0097`, `u:0121-0135` contain impossible speaker/register pairings. Positive game response is supported by the exchange, tears, and Yuzu's later direct testimony, but these corrupted turns cannot establish precise creator/Alice voice. No Sensei choice group occurs.
+
+## V002 C001 E006 delta — RPG transfer and self-corrected roster claim
+
+- `ユズが仲間になりました、パンパカパーン！` is Alice's trial mapping of Yuzu's greeting; her `合ってますか？` requests correction.
+- `期待。再び、ゲームを始めます` is directly expressed anticipation. Fast on-screen reading and overnight play are one situated sample.
+- `ようやく気が付いたか`, `必滅者よ` are fantasy lines directed to Midori; `洗練` is Momoi's appraisal, countered by Midori's `レトロゲームの会話調`.
+- `学生証` names the visible card; `生徒名簿にもヴェリタスがハッキ……いや、登録` retains Momoi's self-interruption and attribution, not a verified lawful enrollment.
+- `仲間` is both RPG-party and club language; Alice's joining formula shows uptake but not knowledge of the roster method.
+- **Attribution quarantine:** `u:0005`, `u:0014-0017`, `u:0048`, `u:0057` conflict with address or turn logic. Do not infer exact Yuzu/Momoi/Midori/Alice voice from them. No Sensei choice group occurs.
