@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_E001_E019
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_E001_E020
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
-source_boundary: "Canonical Prologue and Volume 1 Chapters 1–2 through checkpoint, plus BA:main:002:001:001–019; side-source classes remain unreviewed; BA:main:002:001:020 remains unopened"
+source_boundary: "Canonical Prologue and Volume 1 Chapters 1–2 through checkpoint, plus BA:main:002:001:001–020; side-source classes remain unreviewed; V002 C001 checkpoint pending; BA:main:002:002:001 remains unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:002:001:020
+next_unopened_main_unit: BA:main:002:002:001
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:002:001:020
 
 ## 0. Responsibility
 
-This index answers four questions at the current `V002 C001 E019` provisional boundary, with `MAIN_V001_C002` still the latest canonical checkpoint:
+This index answers four questions at the current `V002 C001 E020` provisional boundary, with `MAIN_V001_C002` still the latest canonical checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, and V002 C001 E001-E019;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, and V002 C001 E001-E020;
 - current checkpoint: `MAIN_V001_C002`; recovered analytical basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `61 / 310` canonical units;
+- main-story coverage: `62 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:002:001:020`.
+- next unopened main unit: `BA:main:002:002:001`, gated by the V002 C001 checkpoint.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,17 +74,17 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004, E010-E016 and E019; options, internal thought and carrying offer kept distinct | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004, E010-E016 and E019-E020; optional exit/carry and private Schale thought kept distinct | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Momoi | `ANALYZED` in V002 C001 E001-E019; sequel registration/public release and evacuation to protect Sensei/room | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Midori | `ANALYZED` in V002 C001 E001-E019; local file check, rejection of Alice's IP-beam proposal and retreat plan | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E019; explicit Nel duel, risky floor shot and 48% damage self-report; origin unverified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Yuzu | `ANALYZED` in V002 C001 E005-E006, E009-E011/E013 and E016-E019; chooses public exposure after prior criticism | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Momoi | `ANALYZED` in V002 C001 E001-E020; public game release, misread ranked loss, future-growth account and offered shelter for Alice | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Midori | `ANALYZED` in V002 C001 E001-E020; restraint/retreat, E020 bodily/emotional recovery distinction and separation concern | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E020; duel harm, post-fight fear and attachment to club; stinger not attributed to her | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Yuzu | `ANALYZED` in V002 C001 E005-E006, E009-E011/E013 and E016-E020; renewed public exposure and hypothetical dorm return with support | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Utaha | `ANALYZED` in V002 C001 E007/E012-E014; prototype/coalition, tower design and chair/indirect-fire counter | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hibiki | `ANALYZED` in V002 C001 E007/E012-E014; weapon adaptation, EMP forecast and credited distant fire | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Kotori | `ANALYZED` in V002 C001 E007/E012-E013; technical role, coalition and corridor decoy encounter | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Yuuka | `ANALYZED` in V002 C001 E002, E008-E009 and E012-E015; club gate, custody, security and threatened sanction/Schale review | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kotori | `ANALYZED` in V002 C001 E007/E012-E013/E020; technical role, corridor decoy and prize-ceremony narration | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Yuuka | `ANALYZED` in V002 C001 E002, E008-E009, E012-E015 and E020; council deferral, apology and changed appraisal after earlier threats | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hare | `ANALYZED` in V002 C001 E012-E013; Veritas findings, defense map, phase coordination and reported Akane containment | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Maki | `ANALYZED` in V002 C001 E012-E013/E017; file appraisal, field plan, reported opening/return and undeciphered `<Key>` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kotama | `ANALYZED` in V002 C001 E012; work routing, seizure report and admitted phone-message interest | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -121,14 +121,14 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
 | Rin | L | M | L | H | GAP | M | H | L |
 | Arona | L | L | M with Sensei | M | L | M; new school-orientation sample | M | L |
-| Momoi | M for creative value, shortcut disappointment and public-release anxiety | M for rescue, web release and room/Sensei protection | M with Midori/Alice/Yuzu; Sensei narrower | M; registered entry, public upload, result gate | L | M in secure lines | M; incoming fire and old-building retreat | M; prize, repair, sanction and council ruling unresolved |
-| Midori | M for shared-place value and evidence-sensitive caution | M for file check, retaliation veto and retreat | M with Momoi/Alice/Yuzu/Sensei | L; illustrator role, clubroom and Schale hope | L | M in secure lines | M; criticism, C&C fire and Alice harm | M; fallback unpromised, ballistic appraisals and label cautions |
-| Alice / `AL-1S` (provisional) | M for player reception, threat response and injury; origin GAP | M for play, IP-retaliation proposal, Nel duel and risky floor shot | M in club/Sensei/C&C contexts, still linked mission | M for club, credential, custody and creative role | L for repeated game play only | M for RPG/combat/machine register | M; close-range disadvantage and 48% self-report | M; harm recovery, Key link, origin and safety open |
-| Yuzu | M for six-month hurt, renewed dream and exposure choice | M for rescue, upload assent and critique endurance intent | M with sisters/Alice in linked creative sphere | L; named president; Seminar claim was cover | L; reported/depicted reception history | M in secure testimony; corrupt turns excluded | M; public comments and C&C attack | M; future resilience, rankings and cross-context contrast unseen |
+| Momoi | M for creative value, shortcut loss, public anxiety and growth after ranked loss | M for rescue, upload, evacuation and offered Alice shelter | M with Midori/Alice/Yuzu; Sensei narrower | M; special prize and temporary council hold | L; comic teasing, personal-room offer | M in secure lines; E020 celebration corrupt | M; battle and threatened separation | M; permanent renewal, housing permission and sanction unresolved |
+| Midori | M for shared-place value, caution and recovery appraisal | M for file check, retaliation veto and retreat | M with Momoi/Alice/Yuzu/Sensei | L; illustrator role, clubroom and conditional extension | L; maid-costume concern | M in secure lines; E020 celebration corrupt | M; criticism, C&C fire and Alice harm | M; fallback unpromised, body appraisal not diagnosis |
+| Alice / `AL-1S` (provisional) | M for player reception, injury, fear and threatened separation; origin GAP | M for play, angry proposal, Nel duel and club-home choice | M in club/Sensei/C&C contexts, still linked mission | M for club, credential, custody and creative role | L for game/maid-joke aftermath | M for RPG/combat register; stinger not her voice | M; duel harm and feared loss | M; lasting trauma, Key/stinger link, origin and safety open |
+| Yuzu | M for backlash, exposure choice and supported dorm-return self-account | M for rescue, upload assent and hypothetical move | M with sisters/Alice/Sensei in linked sphere | L; president and conditional club extension | L; reported/depicted reception history | M in secure testimony; corrupt turns excluded | M; comments, attack and separation fear | M; actual dorm transition and cross-context contrast unseen |
 | Utaha | M within linked engineering role and original tower design | M for gift/test and Karin chair/indirect-fire tactic | L with Alice/team/Sensei/Karin | M; Engineering Club design role | GAP | M in secure lines | M; direct rooftop danger | M; chair damaged and lasting diversion unknown |
 | Hibiki | L; linked technical settings and EMP proposal | M for equipment and credited distant curved fire | L with engineering team | M within design role | GAP | L; some label corruption | M; indirect combat support | M; exact firing/EMP execution unshown |
-| Kotori | L; linked technical settings and corridor decoy | M for budget concern, aid and pressure behavior | L with Alice/team/Sensei/Akane | M within explainer/resource role | GAP | M theatrical explanation; corrupt turns excluded | M; trapped with Akane | M; escape and precise intro labels unverified |
-| Yuuka | M within role: review, custody, security adaptation and sanction warning | M for club ruling, C&C/robots, camera reset and accountability step | L with club/Alice/Akane/Sensei | M; accountant/council security roles | GAP | M in secure lines | M; live intrusion and beam damage | M; sanction/complaint not yet adjudicated |
+| Kotori | L; linked technical settings, corridor decoy and ceremony | M for budget concern, aid and hosting role | L with Alice/team/Sensei/Akane | M within explainer/resource role | GAP | M theatrical explanation; corrupt turns excluded | M; trapped with Akane | M; prize-policy cause is conjecture, private baseline absent |
+| Yuuka | M within role: gate, custody, sanction warning and changed appraisal | M for council reprieve, apology and procedural follow-up | M with club/Alice/Akane/Sensei in role | M; accountant/council decision role | L; childhood-play self-report | M in secure lines | M; intrusion aftermath and award exception | M; prior sanctions/complaint, durable renewal and private breadth open |
 | Hare | L; linked Veritas operation | M for findings, defense map and phase coordination | L with club/colleagues/Sensei | M within Veritas technical role | GAP | M in secure turns | M; seized-tool operation | M; full plan and safety unverified |
 | Maki | L; linked technical appraisal and delivery | M for file inference, workaround, opening and Key deferral | L with club/colleagues/Akane | M within Veritas tool role | GAP | M in secure turns only | M; field trap and deadline | M; bypass method, Key identity and Himari report unverified |
 | Kotama | L; one specialist encounter | L for report and privacy-revealing purpose | L with colleagues/Sensei as target | M within Veritas surveillance role | GAP | M in secure lines | L; confiscation | M; admitted intent is not actual phone access |
@@ -164,17 +164,17 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 
 | Subject | Knowledge/state clarity | Public/private and relationship breadth | Humor/play coverage | Diagnostic current routes |
 |---|---|---|---|---|
-| Sensei | Optional lines mutually exclusive; Nel's plan attribution is her inference | Multiple student institutions; private biography unknown | Bounded carry offer, not completed medical rescue | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019 choice groups and E016 internal thought |
+| Sensei | Optional lines mutually exclusive; E020 Schale offer is internal | Multiple student institutions; private biography unknown | Carry offer and private Schale fallback not enacted rescue | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019 choice groups and E016/E020 internal thought |
 | Rin | One administrative state; wider knowledge unknown | Formal Sensei/GSC relation; private GAP | Very little | P checkpoint |
 | Arona | Technical knowledge limits explicit; Millennium dispute unknown | Sensei dyad; broader private/social GAP | Teasing, hurt, repair | P E002; V001 C1 E001; V002 C1 E001 |
-| Momoi | Registration versus result separate; audience comments still pre-play | Sibling/Sensei/council/newcomer contexts; room/Sensei care | Game rhetoric, publish anxiety and protective exit | V002 C1 E001-E018 as routed; E019 scene 1 `u:0003-0039`, `u:0053-0109` |
-| Midori | Ballistic ID is appraisal; pre-play comments are not reviews | Sibling/Sensei/newcomer/Yuzu/Veritas contexts | Retaliation refusal, sister care and retreat | V002 C1 E001-E018 as routed; E019 scene 1 `u:0062`, `u:0091-0105`; scene 2 `u:0002-0011`, `u:0110-0113` |
-| Alice / `AL-1S` (provisional) | Damage self-report and Nel's ranking boast not audited | Club player, Sensei care and Nel opponent | RPG/confession misread, angry beam proposal, adaptive floor shot | V002 C1 E004-E018 as routed; E019 scene 1 `u:0058-0062`; scene 2 `u:0033-0112` with label cautions |
-| Yuzu | Web release chosen despite old criticism; resilience untested | Sisters/Alice in one creative sphere; audience now present | Fear and willingness to see player response | V002 C1 E005-E018 as routed; E019 scene 1 `u:0028-0035`, `u:0048-0050`, `u:0063-0078` |
+| Momoi | Ranked miss is not no award; she articulates growth before reveal | Sibling/Sensei/council/newcomer contexts; care under resource limits | Maid teasing, publish anxiety and threatened-separation response | V002 C1 E001-E019 as routed; E020 scene 1 `u:0002-0009`, scene 3 `u:0045-0082` with label cautions |
+| Midori | Bodily repair is her assessment; special-prize result changes inference | Sibling/Sensei/newcomer/Yuzu/Veritas contexts | Retaliation refusal, sister care and maid concern | V002 C1 E001-E019 as routed; E020 scene 1 `u:0007-0010`, scene 3 `u:0054-0082` |
+| Alice / `AL-1S` (provisional) | Fear/trust are hers; final machine text is audience-only | Club player, Sensei refuge and Nel opponent | RPG misread, angry proposal, floor shot and maid fear | V002 C1 E004-E019 as routed; E020 scene 1 `u:0003-0018`, scene 3 `u:0066-0072`; scene 5 celebration labels cautioned |
+| Yuzu | Dorm-return confidence is self-account, not observed move | Sisters/Alice/Sensei in one creative sphere; audience now present | Fear and willingness to see player response | V002 C1 E005-E019 as routed; E020 scene 1 `u:0011-0016`, scene 3 `u:0055-0062` |
 | Utaha | Chair/indirect-fire tactic visible; lasting Karin outcome not shown | Engineering role and direct Karin confrontation; private GAP | Personifies `雷ちゃん` in technical crisis | V002 C1 E007/E012-E013 as routed; E014 scene 2 `u:0015-0042` |
 | Hibiki | Forecasted EMP opening; credited curved fire but exact shot unseen | Engineering team/alliance only | Gadget interest remains situated | V002 C1 E007/E012-E013 as routed; E014 scene 2 `u:0037-0039` as Utaha report; scene 5 outage interpretation |
-| Kotori | Corridor decoy role alongside Maki; exact self-intro corrupt | Engineering team/Akane encounter; private GAP | Probability joke in secure scene-2 turns | V002 C1 E007/E012 as routed; E013 scene 2 `u:0020-0022`, scene 5 `u:0021`, scene 10 `u:0003`; quarantine scene 5 `u:0024-0026` |
-| Yuuka | Misreads Alice still confined, but articulates sanction/complaint and mobilizes reserves | Formal council/C&C/club/Sensei relations; private GAP | Exasperation under live breach, not private baseline | V002 C1 E002/E008-E009/E012-E013 as routed; E015 scene 1 `u:0002-0005`, scene 7 `u:0006-0057` |
+| Kotori | Contest-policy cause is hedged; ranked awards distinct from special prize | Engineering team/Akane, ceremony; private GAP | Theatrical hosting plus earlier probability joke | V002 C1 E007/E012-E013 as routed; E020 scene 2 `u:0002-0004`, scene 3 broadcast |
+| Yuuka | Threatened sanctions, then bounded deferment and apology | Formal council/C&C/club/Sensei relations; childhood-play testimony | Exasperation and later sincere thanks | V002 C1 E002/E008-E009/E012-E015 as routed; E020 scene 3 `u:0084-0100`, scene 5 `u:0022-0029` |
 | Hare | Defense map, phase coordination and reported trap; method partly unseen | Veritas/club work setting; private GAP | Dry suspense remains narrow | V002 C1 E012 as routed; E013 scene 2 `u:0005-0010`, scene 4 `u:0003-0029`, scene 9 `u:0002` as Midori report |
 | Maki | Opened Bible by report; `<Key>` unreadable; Himari knowledge secondhand | Veritas/club/Akane task relations; private GAP | Teasing at handoff but no private control | V002 C1 E012-E013 as routed; E017 scene 3 `u:0003-0020`, scene 4 `u:0002-0008` with early attribution caution |
 | Kotama | Knows Maki is working; phone-message intent is self-report | Veritas and Sensei-as-target; no private breadth | `不純な意図は、全く無かった` under Midori's rejection | V002 C1 E012 scene 1 `u:0012`, `u:0038`, `u:0047-0049`; scene 5 `u:0019` |
@@ -206,17 +206,17 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 
 | Subject | Current readiness | Standalone model | Strongest currently supported use | Material blockers |
 |---|---|---|---|---|
-| Sensei | `PARTIAL_MODEL` | `NONE` | structural responsibility, branch-conditioned exit and single carrying offer | Nel's plan attribution unverified; no completed medical outcome or private biography. Next: separate branch conditions from invariant behavior. |
+| Sensei | `PARTIAL_MODEL` | `NONE` | structural responsibility, branch-conditioned exit, carry offer and private refuge thought | Nel's plan attribution unverified; no enacted Schale placement, completed medical outcome or private biography. |
 | Rin | `UNMODELED` | `NONE` | Prologue administrative-crisis interpretation only | One crisis, no ordinary/private breadth. Next: independently evidenced routine and non-Sensei relations; verify supplemental route first. |
 | Arona | `UNMODELED` | `NONE` | system-partner/triage observations only | Narrow Sensei dyad and unresolved ontology. Next: repeated ordinary/technical uncertainty contexts without importing future explanations. |
-| Momoi | `UNMODELED` | `NONE` | registration, public upload and room/Sensei-protective evacuation | One linked club crisis; prize, audience result, sanction and damage aftermath unknown. |
-| Midori | `UNMODELED` | `NONE` | critic-sensitivity, refusal of Alice's retaliatory beam and retreat planning | One mission; field appraisals unverified, fallback unpromised, private contrast lacking. |
-| Alice / `AL-1S` (provisional) | `UNMODELED` | `NONE` | appreciative player, restrained angry proposal and costly adaptive duel | Origin, Key link, damage recovery and safe-force boundaries unknown. Next: treatment and consequence. |
-| Yuzu | `UNMODELED` | `NONE` | six-month backlash history and chosen audience exposure with companions | Linked creative/social sphere only; first responses mixed, future resilience and sequel verdict absent. |
+| Momoi | `UNMODELED` | `NONE` | student authorship, public upload, room/Sensei care and shelter offer | One linked club crisis; special prize only provisional, private/independent control lacking. Reassess at checkpoint. |
+| Midori | `UNMODELED` | `NONE` | critic-sensitivity, restraint of Alice's retaliatory beam and recovery appraisal | One mission; field and bodily appraisals unverified, private contrast lacking. Reassess at checkpoint. |
+| Alice / `AL-1S` (provisional) | `UNMODELED` | `NONE` | appreciative player, costly duel, post-fight fear and club attachment | Origin, Key/stinger link, lasting harm and safe-force boundaries unknown. Reassess at checkpoint. |
+| Yuzu | `UNMODELED` | `NONE` | six-month backlash, rescue, chosen exposure and dorm-return self-account | Linked creative/social sphere; actual dorm transition and long-term resilience untested. Reassess at checkpoint. |
 | Utaha | `UNMODELED` | `NONE` | prototype gatekeeping, voluntary aid and chair/indirect-fire counter to Karin | Linked engineering/combat role, no independent/private baseline or durable battle outcome. Next: equipment loss or ally-safety aftermath. |
 | Hibiki | `UNMODELED` | `NONE` | novice assessment, weapon adaptation, EMP forecast and credited distant support | Indirect E014 action report, no ordinary/private contrast or exact shot/EMP outcome. Next: secure action under safety/data conflict. |
-| Kotori | `UNMODELED` | `NONE` | technical/budget concern and stated wish to know Sensei better | Linked work cases with corrupt turns; private relationship/decision unverified. Next: independent non-ceremonial resource disagreement. |
-| Yuuka | `UNMODELED` | `NONE` | club gatekeeping, custody, emergency robot retask and threatened suspension/Schale review | Linked institutional cases, no private control; sanctions only prospective and ultimate response unknown. Next: adjudication and treatment of Alice/club. |
+| Kotori | `UNMODELED` | `NONE` | technical/budget concern, corridor role and prize hosting | Linked work/ceremony cases; policy-cause conjecture and private relationship/decision unverified. |
+| Yuuka | `UNMODELED` | `NONE` | club gatekeeping, custody, emergency response, bounded reprieve and apology | Linked institutional cases; childhood-play self-report is not ordinary control, permanent standing and prior sanctions unadjudicated. Reassess at checkpoint. |
 | Hare | `UNMODELED` | `NONE` | specialist no-save result, Mirror explanation, coalition framing and preparation | One operation, no private baseline, plan/benign-tool claims untested. Next: actual tactic and response to failed access or privacy objection. |
 | Maki | `UNMODELED` | `NONE` | metadata/IP appraisal, reported opening/return and admitted `<Key>` limit | One technical problem, unclear bypass trace and secondhand Himari claim. Next: test Key or response to contrary file evidence. |
 | Kotama | `UNMODELED` | `NONE` | work-routing, confiscation account and admitted phone-message interest | One Veritas context, no actual intrusion or private ordinary control. Next: response to an explicit privacy refusal. |
@@ -481,4 +481,10 @@ Routing: [V002 C001 E018 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_
 
 The contest system directly confirms `TSC2` participation registration, and Momoi separately uploads a web version. Yuzu deliberately endorses public exposure despite her earlier backlash, saying audiences complete the work and companions may help her bear criticism. Early comments range from derision to curiosity, mostly before represented play; 2,000+ downloads and a portal article are character reports, not a representative quality verdict. Alice proposes an IP-directed beam against a mocking commenter, but Midori forbids it and no retaliation is shown. C&C fire then threatens the clubroom; Momoi chooses evacuation to protect Sensei and the shared place. Two Sensei calm/exit variants converge, and in the old corridor Nel intercepts them. Nel's attribution of the raid to Sensei is her inference, while she securely denies revenge and says she wants to test Alice. Alice accepts, explicitly fires, is closed down by Nel's range/timing advantage, then shoots the floor despite self-risk. She reports 48% bodily damage and asks to retreat; Sensei's single option offers to carry her. Nel survives and declines pursuit. These are material, bounded character observations, not a global combat ranking, permanent injury or established romance from later C&C teasing. No readiness change: sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`, none operational/validated, no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Prize, club status and treatment remain open. Scene 1 `u:0103-0105` and scene 2 `u:0019-0031` are branch-conditioned; scene 2 `u:0020`, `u:0073-0076`, `u:0083-0084`, `u:0144-0145` are label-quarantined, and `u:0077` is Sensei internal thought.
 
-Routing: [V002 C001 E019 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E019_DEEP_READING.md) → `BA:main:002:001:019` canonical scenes 1–2 and choice groups `scene:001:choice:001`, `scene:002:choice:001-002`. The next unopened unit is `BA:main:002:001:020`.
+Routing: [V002 C001 E019 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E019_DEEP_READING.md) → `BA:main:002:001:019` canonical scenes 1–2 and choice groups `scene:001:choice:001`, `scene:002:choice:001-002`. Its historical next unit was `BA:main:002:001:020`, now complete below.
+
+## 30. V002 C001 E020 provisional coverage delta
+
+The ranked seven omit `TSC2`, but a judge creates a distinct `特別賞` for its remembered-play and possibility value. Yuuka says this earns only a `臨時の猶予` until next term for room confiscation and dissolution, with extension/fund processing still required. She apologizes for `ガラクタ` and describes the game reviving childhood enjoyment. The club's premature defeat reading exposes the importance of Yuzu/Alice's shared room: Yuzu states she could return to dorm with friends' support, Momoi articulates future growth yet offers Alice shelter, and Alice trusts Sensei but grieves separation. Sensei's Schale offer is internal and not enacted. Midori judges Alice bodily repaired but emotionally still affected by Nel; the maid joke evokes fear. In-scene traffic and selected favorable comments provide reception signals, not audited universal success. Final `データ復旧率98.00％`/`Divi:Sion`/`AL-1S` text is unattributed and audience-facing, not proof of Alice's knowledge or origin. Scene 3 `u:0043-0045` and `u:0073-0075`/`u:0092-0094`, plus scene 5 `u:0003-0016`/`u:0038-0049`, are attribution-quarantined. No unit-level readiness promotion or frozen prediction: sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`, none operational/validated. Reconsider those statuses at the mandatory chapter checkpoint.
+
+Routing: [V002 C001 E020 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E020_DEEP_READING.md) → `BA:main:002:001:020` canonical scenes 1–5, no choice group. `BA:main:002:002:001` remains unopened, gated by the V002 C001 checkpoint. Main coverage is **62 / 310**.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -593,3 +593,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **The room is worth preserving materially:** under Karin's incoming shots, Momoi evacuates partly to spare Sensei and the clubroom. The E012 shared-place motif becomes an immediate tactical constraint, not just an ideal.
 - **Strength has a geometry and cost:** Alice's high-output beam tears a wall but Nel exploits delay/close range; Alice's floor shot changes geometry at 48% reported self-damage. Raw power does not establish victory or safe use.
 - **Test, not revenge, by Nel's account:** Nel recognizes the club's tactical success, denies personal vengeance, tests Alice and then stops pursuit. Her choice has a boundary, though the coerced fight and collateral remain ethically unsettled.
+
+## V002 C001 E020 motif / callback delta — home through an exception
+
+- **Maid uniform after battle:** Momoi's comic prop reactivates Alice's fear; bodily repair by Midori's appraisal does not make the encounter emotionally finished. The locker callback transfers Yuzu's former refuge into Alice's post-Nel response without equating their histories.
+- **A room threatened, then held:** the top-seven miss evokes immediate packing, Yuzu's dorm and Alice's Schale/personal-room alternatives. The special award and temporary council hold keep the shared room available now, but its future remains conditional.
+- **Utility becomes remembered play:** the judge recognizes an RPG's ability to revive first-game wonder and future possibility. This follows E018's Alice-as-player testimony and E019's public release, yet the jury's institutional criterion differs from the friends' intimate reception.
+- **Apology inside governance:** Yuuka retracts `ガラクタ` and thanks the club without nullifying results requirements. Care is an institutional revision plus procedural follow-up, not a magical permanent exemption.
+- **A second clock under the celebration:** the final 98% data-restoration/`Divi:Sion` text reopens Alice-adjacent uncertainty while the club celebrates. It is audience-facing stinger, not proof of recovered memory or a named speaker.

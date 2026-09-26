@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -445,3 +445,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI ↔ SENSEI/CLUBROOM:** Momoi rejects fighting from the room to avoid harming Sensei or their physical shared place. This is a concrete protective choice, with the later battle's collateral damage still unresolved.
 - **NEL ↔ YUZU/ALICE/SENSEI:** Nel says she knows Yuzu deceived her yet praises it; she attributes student coordination to Sensei and seeks to test Alice, expressly denying revenge. After the blast she declines pursuit. This is opponent respect/interest under force, not friendship or a verified romance.
 - **C&C ↔ NEL:** Karin/Akane consider tracking the wounded group, but Nel stops them. Later teasing about Sensei/height is speculative within the team, not an admitted preference or relationship.
+
+## V002 C001 E020 relationship delta — belonging negotiated under a deadline
+
+- **ALICE ↔ CLUB/NEL:** maid clothing and Nel's message frighten Alice even after Midori judges her body repaired. She trusts Sensei as a possible refuge but grieves losing the daily club, then welcomes the bounded reprieve. The final machine text is not her communicated knowledge.
+- **YUZU ↔ CLUB/SENSEI:** Yuzu believes she could return to the dorm with the three friends and Sensei in her life, despite possible renewed insults. Her statement shows a broadened support network, not a demonstrated move.
+- **MOMOI/MIDORI ↔ ALICE:** under imagined expulsion they offer room, bed and food; Yuzu warns of possible consequences. The offers make attachment concrete while exposing resource/legal limits. Scene-label corruption prevents clean attribution of every later celebratory phrase.
+- **YUUKA ↔ CLUB:** she interrupts their mistaken grief with congratulations, apologizes for `ガラクタ` and thanks them for remembered play. She remains the council's conditional administrator, directing later paperwork; apology does not erase adversarial institutional history.
+- **SENSEI ↔ ALICE:** the teacher's Schale thought and Alice's stated trust point toward an available relationship, but no relocation or accepted spoken contract occurs.

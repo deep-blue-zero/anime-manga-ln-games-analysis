@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -439,3 +439,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Armed interruption:** Midori identifies Karin's 13.97-mm fire at the clubroom; Alice gives a rough direction/range. Yuzu reports council people outside. Specific shooters' positions, chain of command and retaliation motive are not independently established by the reports alone.
 - **Collateral risk:** Momoi evacuates to protect Sensei and the room. Alice's explicit shot is said by Akane to remove a wall; her later floor shot collapses much of the old corridor floor. A voluntary Nel/Alice fight does not erase school-property harm or resolve safety/accountability.
 - **Medical/discipline:** Alice self-reports 48% damage, Sensei offers to carry her, and Nel stops pursuit. Karin's inferred infirmary route and Alice's immediate combat incapacity are not confirmed treatment or lasting diagnosis. Yuuka's sanctions/complaint and `<Key>` remain open.
+
+## V002 C001 E020 institutional delta — special recognition, temporary deferral
+
+- **Damage:** Yuzu says the broken-building matter was treated as an activity `事故` because C&C handled it. This is her report of administrative treatment, not a complete legal/repair ledger. Alice's body appears repaired to Midori; her fear remains.
+- **Prize field:** Kotori announces record applications and speculates on the policy cause, then says only seven ranked works win among three-digit entries. The club does not appear in the ranked seven; first place goes to the new-materials club. A judge subsequently establishes and grants a distinct `特別賞` to `TSC2` for an exceptional kind of `実用性`.
+- **Reception:** a scene-5 report gives 7,705 downloads/1,372 comments before the announcement, over 10,000 downloads after roughly 26 seconds and mixed sentiment classifications. Selected positive comments and reported buzz matter, but speaker labels and metric provenance limit precision and representativeness.
+- **Council standing:** Yuuka explicitly defers confiscation of the clubroom and dissolution until next term. She calls this `臨時の猶予`, not formal final recognition. Room-extension application and club-fund receipt processing remain to be done; neither permanent club security nor completed budget transfer follows.
+- **Residual oversight:** Yuuka apologizes for dismissing the machines and describes a changed personal appraisal. Earlier threatened week suspension/Schale complaint is not expressly adjudicated in this scene. `<Key>` and final `Divi:Sion`/`AL-1S` text remain unresolved and separate from council knowledge.

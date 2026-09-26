@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E019 active provisional; E020 unopened
+current_sequential_boundary: MAIN_V002_C001_E020 active provisional; chapter checkpoint pending
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1271,3 +1271,12 @@ No `BA-C019` is opened by the slogan or an announced sequel alone. `G.Bible` con
 - **BA-C009–C018: PRESERVE / no direct global test** — this Millennium release/fight does not revise Abydos/Kaiser claims.
 
 No `BA-C019` is opened. Registration and web upload are observed, but prize, official club standing, genuine post-play reception, damage repair, Alice's treatment, sanctions and Rio's true motive remain OPEN. Nel's no-pursuit decision is direct; teasing about her/Sensei does not establish romance. Contextual backfill remains **DEFER**.
+
+## V002 C001 E020 claim transitions — a recognized game earns a limited reprieve
+
+- **BA-C001–C004, C007: PRESSURE-TEST / NARROW** — student creative work receives a real special prize, and Yuuka's council grants temporary continuation. Neither effort alone nor an adult's private offer secured a permanent home; institutional interpretation and process matter. Judge `実用性` expands to remembered play and possible futures, not unrestricted abandonment of results.
+- **BA-C005–C006: PRESERVE REJECTED** — the club mistakes seven ranked misses for complete failure because its display is damaged; the judge, Yuuka and club do not share the same momentary knowledge. The final machine text is audience-facing, not known to them.
+- **BA-C008: LIMITED TEST** — Sensei internally offers Schale for Alice under apparent defeat, but the offer is not implemented or tested once Yuuka reports the prize/deferral.
+- **BA-C009–C018: PRESERVE / no direct global test** — no Abydos/Kaiser mechanism is revised by this contest result.
+
+No `BA-C019` is opened by E020 alone. Official special award, provisional council hold and Yuuka apology are observed; permanent charter, next-term standing, paperwork completion, damage liabilities and machine-stinger attribution remain OPEN. The chapter checkpoint must adjudicate whether the Millennium claim structure needs a new ID. Contextual backfill remains **DEFER** until the full Volume 2 arc boundary.

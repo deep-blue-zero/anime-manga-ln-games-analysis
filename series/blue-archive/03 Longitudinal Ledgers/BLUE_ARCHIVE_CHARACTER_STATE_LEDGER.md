@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -506,3 +506,13 @@ No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one 
 - **Sensei:** may urge calm or a reload-window exit; later a single option offers to carry damaged Alice. Nel attributes the raid to Sensei from her investigation, but E013 retains student tactical authorship.
 
 No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Preserve route/label quarantines at scene 1 `u:0103-0105` and scene 2 `u:0019-0031`, `u:0073-0076`, `u:0083-0084`, `u:0144-0145`.
+
+## V002 C001 E020 delta — special award and conditional belonging
+
+- **Alice:** Midori reports bodily repair but slower emotional recovery; maid clothing and Nel's message provoke fear. Under expected loss Alice trusts Sensei yet mourns leaving the club, then welcomes the reprieve. Fear, combat capacity and attachment are not a single monotone trait; the unattributed final machine text is not her known memory.
+- **Yuzu:** reports C&C's handling of building damage, offers dorm return if they lose the room and says companions would help her withstand renewed insults. Celebration follows Yuuka's deferral. Her willingness is a self-account under a hypothetical move, not an observed independent dorm adjustment.
+- **Momoi:** initially reads the top-seven miss as total defeat, yet states that game quality and future growth have not been wholly negated; she offers room and food to keep Alice with her. The later special prize prevents a sustained test of that proposal.
+- **Yuuka:** announces a bounded reprieve, apologizes for calling the machines junk and describes renewed childhood-play pleasure. She changes an interpersonal judgment while preserving council conditions and administrative follow-up.
+- **Sensei:** internally offers Alice Schale under perceived failure; Alice says she trusts them, but Yuuka's arrival interrupts any placement. No actual transfer or adult guarantee is observed.
+
+No new indexed subject or unit-level readiness promotion (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Reassess readiness at the closed chapter checkpoint. Quarantine scene 3 `u:0073-0075`, `u:0092-0094`, and scene 5 `u:0003-0016`, `u:0038-0049` for exact person attribution. The `Divi:Sion`/`AL-1S` text has no known speaker.

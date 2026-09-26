@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -848,3 +848,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Alice proposes `該当IPアドレスの方角` beam retaliation but Midori says `ダメ`; no beam follows that comment. Midori's `13.97mm` and Alice's `11時`/`約1km` are field appraisals.
 - Nel's `復讐ってわけじゃねぇ` and `興味` oppose the club's revenge guess. Her `正当な依頼` is her own institutional characterization; `この間合いで...一人もいねぇ` is a close-combat boast, not an audited Kivotos ranking. Alice's `肉体損傷48%` is a self-report after the floor blast.
 - **Branch/label quarantine:** scene 1 `u:0103-0105` follows calm versus exit choices; scene 2 `u:0019` and `u:0028-0031` answer different Sensei questions. Scene 2 `u:0020`, `u:0073-0076`, `u:0083-0084`, `u:0144-0145` have role flips; `u:0077` is Sensei internal thought. Alice's confession-event joke and C&C's Sensei teasing do not establish romance.
+
+## V002 C001 E020 delta — exceptional utility and unreliable labels
+
+- Midori's `身体の方は全部直ったみたい` versus `心の方はもうちょっと` is her situated bodily/emotional recovery contrast. Alice's `しばらくメイド服は見たくありません` is limited avoidance after Nel, not a permanent diagnosis.
+- Kotori reports record entries but `おそらく` hedges their cause. The judge first names ordinary `実用性`, then awards `特別賞` because nostalgic play and prospective possibility can count as a different utility. This is jury reasoning, not universal audience testimony.
+- Yuuka's `臨時の猶予`, `来学期まで` and `保留` limit the council deferral. Her `ガラクタ` apology and childhood-play self-account are secure; room-extension/fund-receipt procedures are still requested.
+- Sensei `私に任せて。アリス、シャーレに来る？` is expressly `先生（心の声）`; it cannot be upgraded to an audible, executed placement offer. Alice's trust and grief are printed separately.
+- **Attribution quarantine:** scene 3 `u:0043-0045` conflicts on the display shooter, `u:0073-0075`/`u:0092-0094` contain self-address, and scene 5 `u:0003-0016`/`u:0038-0049` run multiple apparent speakers under Midori/Alice labels. Favorable reports and reunion are represented, but not clean individual voice samples. The `データ復旧率98.00％`/`Divi:Sion`/`AL-1S` narration is unattributed and not Alice's verified speech.

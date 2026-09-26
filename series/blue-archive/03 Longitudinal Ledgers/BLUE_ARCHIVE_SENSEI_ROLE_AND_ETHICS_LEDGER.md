@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:019; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -605,3 +605,10 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - After Alice's damaging floor shot, the sole Sensei option is `私が背負う`, with Midori urgently accepting. This is an offered care act in a retreat, not a shown complete medical rescue or an all-context paternal rule.
 - Scene-2 `まだだよ` is `先生（心の声）`, not an audible warning that students obey. C&C teasing about Sensei attractiveness/height preference is not evidence of actual adult romantic preference.
 - Sensei remains `PARTIAL_MODEL`; no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E020 delta — unspoken refuge, altered institutional outcome
+
+- When the club believes it missed all recognition, Yuzu says her relationships will sustain her but Alice's placement remains worrying. Sensei's response is `先生（心の声）`: an offer to take Alice to Schale. Alice trusts Sensei and laments separating from her friends. The internal text is not proof of a spoken, authorized or completed relocation.
+- Momoi/Midori offer personal housing and food, while Yuzu warns of potential repercussions. Care exists under resource and permission limits; the adult's private fallback cannot substitute for the club's institutional home.
+- Yuuka then announces the special award and temporary clubroom/dissolution deferral. The actual outcome is produced by submitted student work, judges' exceptional recognition and a council decision, not an enacted Sensei rescue. Yuuka does not explicitly revisit her E015 prospective Schale complaint here.
+- Sensei remains `PARTIAL_MODEL`; this unit adds a conditional care intention but no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
