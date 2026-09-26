@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.43"
+version: "11.44"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 163 complete i-n-g primary documents / T7S_B0080–T7S_B0142; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 166 complete i-n-g primary documents / T7S_B0080–T7S_B0143; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 565`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 617`; `last_closed_block = T7S_B0142`. The admitted horizon contains 398 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 163 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 571`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 628`; `last_closed_block = T7S_B0143`. The admitted horizon contains 401 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 166 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1955,3 +1955,32 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.44. [B0142](../02%20Readings/
 | `EDGE-0624` | `MUTUAL_DISCOVERY_TO_RECOMMENDATION_OFFER` | Kazumi values new work; Murasaki considers books in `EV-B0142-006`; no completed reading transfer. |
 
 `T7S_B0142_CLOSE-20260926`: six chapter events and ten bounded edges; no employment-contract, wage, legal, quote-author, song-quality or long-term habit finding.
+
+## B0143 Xiao's film offer, heterogenous training and role-control limit
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.45. [B0143](../02%20Readings/T7S_B0143_DEEP_READING.md) owns the A/B/C locator key. B0038/B0105 are separately bounded Xiao horizons, not a total fictional order. The film's director praises material shot, but neither complete film nor intimate-action safeguards are shown. Xiao's racing heart is reported by her; peers' romance readings are attributed rather than adopted as fact.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0143-001` | Player explains foreign B-film lead and seductive-assassin premise, notes Susu fourteen/Xiao fifteen, offers Xiao refusal; she elects role and he invites consultation. | A:P2–30; `KNOW-0341`. No contract, guardian/production safety protocol or completed informed-risk audit. |
+| `EV-B0143-002` | Xiao recruits Susu/Miu/Makoto as playful masters of pose, responsive cuteness and stealth/patience; they later affirm her work. | B:P1–32; C:P1–10; `KNOW-0342`. Informal peer advice, not accredited intimacy training. |
+| `EV-B0143-003` | Xiao traps Player in hold at Nanastar; he says it hurts and taps out while she calls it assassination success. | B:P33–38; `KNOW-0343`. No actual killing or injury exam; stop cues explicit. |
+| `EV-B0143-004` | Shoot begins; director says Xiao was good and Player reports favorable staff reaction, crediting daily effort. | C:P1–24; `KNOW-0344`. No completed film or direct performance audit. |
+| `EV-B0143-005` | Xiao applies neck restraint/ear-breathing despite Player's objections, then performs flirtatious voice; he blushes and praises acting beauty. | C:P25–40; `KNOW-0345`. Later affect is not retroactive consent to hold/closeness. |
+| `EV-B0143-006` | Xiao's role speech falters into racing-heart distress and crying; Miu calms her; Susu/Miu/Makoto guess attraction/competition while Xiao remains uncertain. | C:P35–59; `KNOW-0346`. No diagnosis, settled romance or proven maturity. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0625` | `KUNGFU_TO_FILM_OFFER` | Xiao's trained ability is Player's stated basis for offer in `EV-B0143-001`; not proof of full casting rationale. |
+| `EDGE-0626` | `ROLE_SURPRISE_TO_OFFERED_REFUSAL` | Provocative premise makes Player ask whether Xiao should decline; her answer is real but safeguard details missing. |
+| `EDGE-0627` | `MANAGER_OPPORTUNITY_TO_ASSENT` | Xiao cites Player's work bringing offer when she accepts in `EV-B0143-001`; neither nullifies her choice nor proves absence of pressure. |
+| `EDGE-0628` | `THREE_PEERS_TO_DIFFERENT_METHODS` | Susu/Miu/Makoto provide posing, response-reading and patience in `EV-B0143-002`; no unified accredited technique. |
+| `EDGE-0629` | `TRAINING_TO_MISNAMED_HONEY_TRAP` | Xiao claims the hold in `EV-B0143-003` follows lessons; Player says it is not a honey trap and taps out. |
+| `EDGE-0630` | `SHOOT_WORK_TO_LOCAL_PRAISE` | Director and Player praise in `EV-B0143-004` stays local to begun shooting. |
+| `EDGE-0631` | `PRAISE_TO_RENEWED_HOLD` | Xiao uses praise moment for second neck/ear action in `EV-B0143-005`; not permission. |
+| `EDGE-0632` | `STOP_CUES_WITH_LATER_BLUSH` | Player's protests and later embarrassment both occur in `EV-B0143-005`; no consent transfer. |
+| `EDGE-0633` | `ROLE_SPEECH_TO_UNCONTROLLED_AFFECT` | Xiao's performed flirtation in `EV-B0143-005` becomes distress in `006`; no stable role mastery. |
+| `EDGE-0634` | `DISTRESS_TO_MIU_COMFORT` | Miu directs attention to sky and Xiao calms/thanks her in `EV-B0143-006`; no complete emotional resolution. |
+| `EDGE-0635` | `PEER_ATTRACTION_READING_WITH_UNCERTAINTY` | Others interpret Xiao's heartbeat as attraction, but Xiao does not name it; no couple status. |
+
+`T7S_B0143_CLOSE-20260926`: six chapter events and eleven bounded edges; no completed film, physical-injury ruling, blanket contact consent, safeguarded minor-role certification or mutual romance finding.

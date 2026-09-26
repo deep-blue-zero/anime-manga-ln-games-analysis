@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.43"
+version: "11.44"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 163 complete i-n-g primary documents / T7S_B0080–T7S_B0142; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 166 complete i-n-g primary documents / T7S_B0080–T7S_B0143; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 661`; `revisions = 42`; `predictions = 7`; `AV_reviews = 89`; `literary_findings = 661`. Claims are bounded to their stated B0001 through B0142 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 63 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 665`; `revisions = 42`; `predictions = 7`; `AV_reviews = 90`; `literary_findings = 665`. Claims are bounded to their stated B0001 through B0143 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 64 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2150,3 +2150,26 @@ Owner and A/B/C locator key: [B0142](../02%20Readings/T7S_B0142_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. One hundred seventeen dialogue-associated voice pages plus title cues, BGM/SFX and the bar song remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0142_CLOSE-20260926`: four bounded claims and one AV review; no quote attribution, legal/workplace certification, exact acquisition economics, song verdict, specialist or monograph promotion.
+
+## B0143 chosen role, mixed training and consent/role-control limits
+
+Owner and A/B/C locator key: [B0143](../02%20Readings/T7S_B0143_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.45. Xiao's prior training cases are separate comparisons, not a dated developmental sequence.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0143-001` | `BOUNDED_INFERENCE`; D1; high for limit | Xiao chooses the provocative lead after an offered refusal, but this does not establish complete age/intimacy safeguards or a pressure-free production negotiation. | A:P9–30; C:P13–24. No contract, guardian review or shoot protocol. |
+| `CL-B0143-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The three peers' posing, responsive timing and stealth lessons help Xiao form a stage method but do not constitute a coherent, safe professional curriculum; her misnamed honey trap ignores a tap-out. | B:P1–38; C:P1–10. No actual assassination/injury judgment. |
+| `CL-B0143-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for boundary | Player's explicit objections to neck restraint/ear-breathing are not erased by his subsequent blush or praise of Xiao's acting appearance. | B:P33–38; C:P25–40. No blanket touch consent or proved physical harm. |
+| `CL-B0143-004` | `BOUNDED_INFERENCE`; D1; high | Local shoot praise and later Xiao distress assess different things; observers' attraction guesses do not settle what Xiao herself says she cannot understand. | C:P13–59. No finished-film verdict, diagnosis or mutual romance. |
+
+### AV-0090 — Xiao role-expression stills and film/physical-action gap
+
+- Questions/claims: whether static art verifies filmed seduction, contact geometry, injury, performed vocal shift, complete movie, role safeguards or true cause of Xiao's heartbeat; `CL-B0143-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for film, contact, minor-role safety, voice and affect restrictions.
+- Selection: Xiao `adv_chara_147_01_01`, `147_01_03`, `147_01_04`, `147_01_05`; Susu `011_01_08`; Miu `129_02_03`; Makoto `145_01_02`; generic director `040_01`. All 133 native pages and twenty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.45 binds eight media receipts.
+- Observed: Xiao has one costume and several static expression variants; Susu/Miu/Makoto are distinct. Director is a line-art role placeholder. Nothing in selected stills proves force, injury, consent, spoken tone or a completed filmed scene.
+- Native occurrence: command-only A:P0–1,31; B:P0,6–7,12–13,18–19,23–24,27–28,31–32,38; C:P0,11–12,46,60–61. Montage transitions divide informal lessons; later shift separates shoot and comfort scenes.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. Seventy-nine dialogue-associated voice pages plus title cues, BGM/SFX, motion and film material remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0143_CLOSE-20260926`: four bounded claims and one AV review; no minor-production safeguard clearance, injury finding, blanket contact consent, romance verdict, specialist or monograph promotion.

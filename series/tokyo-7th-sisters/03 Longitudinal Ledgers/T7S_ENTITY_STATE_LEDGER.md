@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.43"
+version: "11.44"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 163 complete i-n-g primary documents / T7S_B0080–T7S_B0142; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 166 complete i-n-g primary documents / T7S_B0080–T7S_B0143; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 340`; `directional_relationship_states = 544`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0142, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 346`; `directional_relationship_states = 548`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0143, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3054,3 +3054,33 @@ The [B0142](../02%20Readings/T7S_B0142_DEEP_READING.md) A/B/C key, witness `T7S_
 No new stable unit/identity state is warranted: Kazumi's temporary work is not a Nanastar performance unit or corporate merger; the regular and mother static placeholders do not imply duplicated people or full portrait evidence.
 
 `T7S_B0142_CLOSE-20260926`: six actor-local knowledge records, one directional relationship pair and existing-actor annotations; no wage/shift, legal, song or completed recommendation finding.
+
+## B0143 Xiao's role work, mentors and Player contact boundary
+
+The [B0143](../02%20Readings/T7S_B0143_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.45, binds these updates. Existing Xiao `IDENTITY-0094`/`CHAR-0076`, Susu `IDENTITY-0021`/`CHAR-0018`, Miu `IDENTITY-0085`/`CHAR-0067`, Makoto `IDENTITY-0035`/`CHAR-0030`, Player `CHAR-0001` and Nanastar `UNIT-0002` suffice. Anonymous director is generic line art, not a new stable identity route. The `masters` are informal peers, not a new institution or formal unit.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0076` / Xiao | Accepts difficult film role, seeks peer lessons, uses physical/flirtatious technique on Player despite stop cues, earns local set praise, then loses role control and accepts Miu's comfort. | A:P2–30; B:P1–38; C:P1–59. No final film, injury diagnosis, assured intimate-role safety or settled romance. |
+| `CHAR-0018` / Susu | Offers to take role despite age fourteen, teaches posing, praises Xiao and later guesses attraction while teasing Player. | A:P3–29; B:P2–22; C:P1–10,19,37–59. No casting transfer, formal mentorship or authority over Xiao's feelings. |
+| `CHAR-0067` / Miu | Teaches timing by waiting for another's response, supports Xiao's shoot, redirects praise toward her and calms her when she cries. | B:P8–29; C:P1–59. No credentialed coach, diagnosis or verified romance insight. |
+| `CHAR-0030` / Makoto | Denies cornering people while offering secret stealth/patience methods, praises Xiao's changed speech and jokes about future rivalry. | B:P14–32; C:P1–5,20,32,54. No proof her stalking technique is safe or that a fight occurs. |
+| `CHAR-0001` / Player | Offers Xiao refusal/consultation, accepts role at her request, protests both holds, reports staff praise, blushes at role speech and urges unforced growth. | A:P5–30; B:P33–38; C:P15–59. No documented production-safety plan or consent to physical pressure. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0341` | Player knows provocative script premise and ages fourteen/fifteen; Xiao learns it, voices lack of confidence and chooses to try. | A:P9–30. Actual contract/scene protocol unshown. |
+| `KNOW-0342` | Susu/Miu/Makoto know Xiao requests distinct skills; she hears their advice and believes practice is helping. | B:P1–32; C:P1–10. No professional curriculum or outcome guarantee. |
+| `KNOW-0343` | Player feels pain and explicitly taps out; Xiao describes the hold as a successful assassin test. | B:P33–38. No injury assessment, agreed sparring terms or killing. |
+| `KNOW-0344` | Director voices praise and Player relays favorable staff response; Xiao hears and thanks peers. | C:P13–24. Complete film and audience review unknown. |
+| `KNOW-0345` | Player objects to neck/ear actions, then comments on Xiao's beauty in acting; Makoto notices changed speech. | C:P25–40. Blush not consent or romance agreement. |
+| `KNOW-0346` | Xiao reports uncontrollable heartbeat/role distress; Miu soothes; peers infer attraction while Xiao says she does not understand. | C:P35–59. Her inner cause and future relation unresolved. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0545` | Player → Xiao, **role offer, praise and boundary protests** | Offers refusal and consultation, credits effort, repeatedly says hold/neck/ear behavior must stop and urges unforced growth. A:P9–30; B:P33–38; C:P15–59. Reciprocal `REL-0546`; praise is not touch consent. |
+| `REL-0546` | Xiao → Player, **grateful assent and misapplied role testing** | Takes offer, tests two holds and flirtatious speech on him, then becomes flustered at his gaze. A:P24–30; B:P33–38; C:P25–59. Reciprocal `REL-0545`; no completed intimacy negotiation. |
+| `REL-0547` | Miu → Xiao, **responsive instruction and calming care** | Advises watching other's reaction, redirects attention to Xiao's work and comforts her when role play becomes distressing. B:P8–29; C:P21–47. Reciprocal `REL-0548`; no diagnosis. |
+| `REL-0548` | Xiao → Miu, **requested learning and accepted comfort** | Seeks `cute` instruction, receives coaching and later thanks her for sky-directed calming. B:P8–29; C:P44–47. Reciprocal `REL-0547`; no completed emotional mastery. |
+
+`T7S_B0143_CLOSE-20260926`: six actor-local knowledge records, two directional relationship pairs and existing-actor annotations; no new unit or identity route and no blanket role/contact consent.
