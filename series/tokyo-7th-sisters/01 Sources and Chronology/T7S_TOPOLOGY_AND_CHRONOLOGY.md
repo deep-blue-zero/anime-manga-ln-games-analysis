@@ -4,13 +4,13 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.29"
+version: "12.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 121 non-Main i-n-g documents / T7S_B0080–T7S_B0128 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 124 non-Main i-n-g documents / T7S_B0080–T7S_B0129 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -242,7 +242,7 @@ The [completion audit](../09%20Audits%20and%20Manifests/T7S_EPISODE_NANASUTA_COM
 
 The [passed routing audit](../09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) partitions every Sub/Event episode, every non-catalog scenario resource, and every supplemental record without asserting a fabricated cross-family chronology. It admits 743 Sub and 231 Event episodes to the 2034 portfolio horizon; holds eleven 2053-side birthday episodes behind the release gate; and separates one explicit Hololive crossover. Native parent links remain topology edges rather than `BEFORE` claims.
 
-The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. T7S_B0128 closes native Sub/i-n-g chapter `301000` with 3 complete primary documents, 185 pages and 19 command-only pages. The next authorized but unread chapter is `301010` / **ショウ・アップで巫女魔法** / 逝橋エイ, episodes `312202401 / 312202402 / 312202403`, assigned B0129. No cross-chapter temporal relation is inferred.
+The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. T7S_B0129 closes native Sub/i-n-g chapter `301010` with 3 complete primary documents, 156 pages and 13 command-only pages. The next authorized but unread chapter is `301020` / **魔法少女に会いに行こう！** / 星柿マノン, episodes `312202501 / 312202502 / 312202503`, assigned B0130. No cross-chapter temporal relation is inferred.
 
 ## First twenty i-n-g targeted cases
 
@@ -250,7 +250,7 @@ The mandated source-routing sequence opens with native Sub top layer `100010` an
 
 Table order records the prescribed analytical route, not a total diegetic chronology. Each front episode precedes its paired back episode; no broader before/after relation among the twenty chapters or against Main is inferred without independent dialogue evidence. All command states and forty selected first/last protagonist composites were reviewed. Performed voice, singing, BGM, and SFX remain unauditioned.
 
-The active [B0100–B0159 execution record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) binds the sixty-block plan and distinguishes 29 completed units through T7S_B0128 from the remaining 31. All 2053 semantic sources remain blocked.
+The active [B0100–B0159 execution record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) binds the sixty-block plan and distinguishes 30 completed units through T7S_B0129 from the remaining 30. All 2053 semantic sources remain blocked.
 
 ## Revision history
 
@@ -338,3 +338,5 @@ The active [B0100–B0159 execution record](../09%20Audits%20and%20Manifests/T7S
 - 2026-09-26: close T7S_B0127; preserve chapter-local order and all earlier topology/chronology history.
 
 - 2026-09-26: close T7S_B0128; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0129; preserve chapter-local order and all earlier topology/chronology history.

@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.29"
+version: "11.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 121 complete i-n-g primary documents / T7S_B0080–T7S_B0128; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 124 complete i-n-g primary documents / T7S_B0080–T7S_B0129; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 603`; `revisions = 42`; `predictions = 7`; `AV_reviews = 75`; `literary_findings = 603`. Claims are bounded to their stated B0001 through B0128 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 49 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 607`; `revisions = 42`; `predictions = 7`; `AV_reviews = 76`; `literary_findings = 607`. Claims are bounded to their stated B0001 through B0129 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 50 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1826,3 +1826,26 @@ Owner and A/B/C locator key: [B0128](../02%20Readings/T7S_B0128_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred thirty-four dialogue-associated voice pages plus title cues, BGM/SFX, full school activity and finished drama scene remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0128_CLOSE-20260926`: four bounded claims and one AV review; no school policy, acting-quality verdict, prior claim rewrite, specialist or monograph promotion.
+
+## B0129 performed care and recording-consent limits
+
+Owner and A/B/C locator key: [B0129](../02%20Readings/T7S_B0129_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.31. B0041/B0091/B0099/B0092 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0129-001` | `BOUNDED_INFERENCE`; D1; moderate-high | The staged fiction answers a real child's humiliation with immediate delight and a reported peer reconciliation, without proving literal Mikola existence, durable belief or a fully observed school repair. | A:P0–40; C:P1–57. School dispute and reconciliation are reported; no later child testimony. |
+| `CL-B0129-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Ei's pressured yet genuine one-day care and her later refusal coexist; successful acting and children's joy do not convert a scoped yes into permission for repeated work. | A:P36–49; B:P5–29; C:P51–64. Her costume discomfort and refusals are explicit. |
+| `CL-B0129-003` | `BOUNDED_INFERENCE`; D1; high for limit | A reported Coney video creates a route to company solicitation that Ei did not know about during the show; neither a staff acquaintance nor the late offer proves prior license, release, public upload, contract or consent. | B:P7–16; C:P65–75. Footage and transmission are not reviewed. |
+| `CL-B0129-004` | `BOUNDED_INFERENCE`; D1; high for limit | Costumes, villain acting, effects and Ei's self-cue support a convincing local performance, while the glowing sprite state is not an independent supernatural entity or an auditioned technical show verdict. | B:P19–29; C:P17–50. Native stills and text, not continuous motion/audio. |
+
+### AV-0076 — Ei's staged transformation and unseen recording
+
+- Questions/claims: whether sprite/animation states prove literal magic, complete acting quality, filming consent, video circulation or a contracted official show; `CL-B0129-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed audio, recording, rights and official-work restrictions.
+- Selection: Ei `adv_chara_131_01_03`, `131_02_05`, `131_03_01`; Manon `132_01_02`; Saori `144_02_02`, `144_04_03`; Jedah `137_04_04`; Sisara `136_04_04`. All 156 native pages and thirteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.31 binds eight media receipts.
+- Observed: Ei's everyday sprite, heroine costume and translucent glowing overlay are distinct; Saori, Jedah and Sisara appear in crafted villain costumes. These are authored presentation states, not proof of a supernatural possession or a filmed video file.
+- Native occurrence: command-only A:P16–17,28,49; B:P0,29; C:P0,29,39,48,52,74–75. C:P29/39/48 show effect/costume transitions; C:P52 cuts to post-show, C:P74–75 closes after the recording news.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred four dialogue-associated voice pages plus title cues, BGM/SFX, continuous show and Coney's reported recording remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0129_CLOSE-20260926`: four bounded claims and one AV review; no literal-magic, media-rights, child-belief durability, official-show, specialist or monograph promotion.

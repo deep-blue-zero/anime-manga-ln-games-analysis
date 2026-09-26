@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.29"
+version: "11.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 121 complete i-n-g primary documents / T7S_B0080–T7S_B0128; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 124 complete i-n-g primary documents / T7S_B0080–T7S_B0129; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 474`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 474`; `last_closed_block = T7S_B0128`. The admitted horizon contains 356 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 121 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 480`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 483`; `last_closed_block = T7S_B0129`. The admitted horizon contains 359 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 124 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1553,3 +1553,30 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.30. [B0128](../02%20Readings/
 | `EDGE-0481` | `UNNEEDED_RESEARCH_WITH_RETAINED_SOCIAL_EFFECT` | The reveal in `EV-B0128-007` does not cancel the witnessed welcome, embarrassment, refusal and Monaka's gratitude in `EV-B0128-003`–`006`. |
 
 `T7S_B0128_CLOSE-20260926`: seven chapter events and nine bounded edges; no new world, thread or stable school-unit state, school-access finding, completed live, acting verdict or total i-n-g chronology.
+
+## B0129 Ei's one-day shrine show and unanticipated media audience
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.31. [B0129](../02%20Readings/T7S_B0129_DEEP_READING.md) owns the A/B/C locator key. B0041/B0091/B0099/B0092 are bounded comparison horizons, not a total fictional sequence. The opening villain voices are anime content watched by Manon, not a literal threat or independent stable identities.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0129-001` | Manon watches Mikola; peers report boys at school mocked her claim the heroine exists, leaving her crying and later asleep. | A:P0–40; `KNOW-0250`. School dispute is secondhand; immediate distress is reported, not a later child-belief audit. |
+| `EV-B0129-002` | Saori and peers propose a shrine character show; the Player and others ask Ei, who agrees for Manon despite embarrassment. | A:P18–49; `KNOW-0251`; `REL-0455`–`0460`. Consent is one-day local participation under pressure, not indefinite or recorded work. |
+| `EV-B0129-003` | Rehearsal goes well; Player proposes official work and Ei refuses; Saori questions rights; Player cites Coney's staff connection and non-general audience. Rishuri supplies costumes. | B:P1–29; `KNOW-0252`. No license, performer release, contract or official approval displayed. |
+| `EV-B0129-004` | At 7th Shrine the group performs a villain/Mikola battle; Ei overcomes initial hesitation, Manon cheers and a boy says Mikola exists. | C:P1–50; `KNOW-0253`. Immediate represented reception and static effects, not literal magic, enduring belief or auditioned performance. |
+| `EV-B0129-005` | Ei dislikes the short skirt but sees smiling children; Sisara reports Manon/boys reconciled; Ei again declines recurring magical-girl role. | C:P51–64; `KNOW-0254`. Reconciliation is Sisara's observation, and refusal remains effective despite satisfaction with this day. |
+| `EV-B0129-006` | Saori relays Coney's call that the company requests an official show; Coney reportedly recorded, surprising Ei, who has not accepted the new request. | C:P65–75; `KNOW-0255`. Recording contents, distribution path, rights/consent and subsequent decision unshown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0482` | `CHILD_RIDICULE_REPORT_TO_SHOW_PROPOSAL` | Reported school mockery in `EV-B0129-001` → adults/peers plan a show in `EV-B0129-002`; no direct schoolboy testimony before the show. |
+| `EDGE-0483` | `CARE_REQUEST_WITH_PRESSURE_TO_ONE_DAY_ASSENT` | Multiple requests and Manon's distress in `EV-B0129-002` → Ei's reluctant one-day agreement, not blanket performer consent. |
+| `EDGE-0484` | `ROLE_REHEARSAL_TO_UNINVITED_CAREER_PROPOSAL` | Rehearsal effectiveness in `EV-B0129-003` → Player's official-show suggestion, which Ei explicitly rejects. |
+| `EDGE-0485` | `STAFF_CONNECTION_TO_ASSERTED_CLEARANCE_ONLY` | Player's Coney acquaintance claim in `EV-B0129-003` answers Saori's worry verbally, not with a rights document. |
+| `EDGE-0486` | `COSTUME_AND_ACTING_TO_LOCAL_CHILD_RESPONSE` | Rishuri's costumes/rehearsal in `EV-B0129-003` → staged battle and immediate delight in `EV-B0129-004`, without literal magic or technical verdict. |
+| `EDGE-0487` | `HESITATION_TO_ROLE_COMMITMENT` | Ei's initial stage embarrassment in `EV-B0129-004` → self-cue and energetic performance; not consent to a future series. |
+| `EDGE-0488` | `CHILD_JOY_WITH_RETAINED_REFUSAL` | Smiles and reported repair in `EV-B0129-005` coexist with Ei's repeated no to continuing the role. |
+| `EDGE-0489` | `UNANNOUNCED_RECORDING_TO_COMPANY_SOLICITATION` | Reported Coney video in `EV-B0129-006` precedes reported company interest; precise transmission and authorization unknown. |
+| `EDGE-0490` | `COMPANY_REQUEST_WITH_NO_ACCEPTANCE` | New official-show proposal in `EV-B0129-006` changes the audience for Ei's work but does not override her stated limit or establish a contract. |
+
+`T7S_B0129_CLOSE-20260926`: six chapter events and nine bounded edges; no new world, thread, character identity, rights clearance, official show or total i-n-g chronology.

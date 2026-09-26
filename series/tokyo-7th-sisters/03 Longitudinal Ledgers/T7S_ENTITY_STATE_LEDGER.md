@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.29"
+version: "11.30"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 121 complete i-n-g primary documents / T7S_B0080–T7S_B0128; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 124 complete i-n-g primary documents / T7S_B0080–T7S_B0129; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 249`; `directional_relationship_states = 454`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0128, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 255`; `directional_relationship_states = 460`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0129, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2551,3 +2551,39 @@ The [B0128](../02%20Readings/T7S_B0128_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0454` | Musubi → Monaka, **risk warning and express refusal** | Fears student-council visibility, rejects the spontaneous live, later accepts Monaka's happiness with evident fatigue. A:P34–45; C:P18–53. Reciprocal `REL-0453`; no event or access approval. |
 
 `T7S_B0128_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, school unit, visitor-permission, show or post-shoot reputation record.
+
+## B0129 Ei's scoped participation and recording knowledge gap
+
+The [B0129](../02%20Readings/T7S_B0129_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.31, binds these updates. Existing Ei `IDENTITY-0049`/`CHAR-0037`, Manon `IDENTITY-0068`/`CHAR-0053`, Saori `IDENTITY-0050`/`CHAR-0038`, Sisara `IDENTITY-0041`/`CHAR-0034`, Jedah `IDENTITY-0047`/`CHAR-0036`, Rishuri `IDENTITY-0089`/`CHAR-0072`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. Mikola/villain labels belong to a fiction and role performance, not additional real-character identities.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0037` / Ei | Distinguishes shrine life from a magic-girl fiction, reluctantly accepts a one-day child-directed role, rehearses earnestly, acts through embarrassment, values the children's joy, dislikes the short skirt and twice refuses ongoing role work. | A:P13–49; B:P1–29; C:P17–75. Recording was unknown to her; no consent to official show or literal possession. |
+| `CHAR-0053` / Manon | Watches Mikola, is reported hurt by boys' ridicule, cheers at Ei's staged transformation and is said by Sisara to have reconciled with them. | A:P0–40; C:P1–57. No direct school argument, durable belief or full reconciliation dialogue. This is child-period state, not a 2043 inference. |
+| `CHAR-0038` / Saori | Reports Manon's distress, requests Ei's help, plays Doctor F, asks about rights and later relays Coney's recording/company call. | A:P22–46; B:P1–14; C:P5–72. Her fall in performance is shown; no injury assessment, permission record or full video. |
+| `CHAR-0034` / Sisara | Explains Manon's attachment, acts Lady Shesta and later reports a Manon/boys reconciliation. | A:P6–40; B:P4–25; C:P12–57. She observes/report local reception; no later friendship guarantee. |
+| `CHAR-0036` / Jedah | Appreciates the anime's motif combination, casts Ei, arranges Rishuri as costume helper and performs Darkness Moon. | A:P9–48; B:P1–24; C:P8–43. Her praise of Nanasta forcefulness does not settle Ei's consent. |
+| `CHAR-0072` / Rishuri | Creates lookalike costumes quickly and participates in the shrine battle. | B:P19–23; C:P5–55. Craft is visible; official license, exact materials and performance quality unverified. |
+| `CHAR-0003` / Coney | Player says she knows Mikola staff; Saori later reports Coney filmed the show and relayed company interest. | B:P5–15; C:P65–72. Coney does not speak directly here; footage, disclosure, release and transmission remain unshown. |
+| `CHAR-0001` / Player | Asks Ei for one day, proposes expansion twice despite refusals, asserts staff connection/no general audience, praises show and jokes at company request. | A:P18–43; B:P5–16; C:P1–75. No documentation of rights clearance, Ei's recording consent or agreement to future work. |
+| `UNIT-0002` / Nanasta | Peers assemble a shrine character show with costume craft and contacts; post-show recording reportedly draws an official solicitation. | A:P36–49; B:P1–29; C:P1–75. No standardized rights, performer release, child-media, recording or contract procedure demonstrated. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0250` | Ei/Jedah/Sisara see Manon watching anime; Saori and peers report her crying after boys mock Mikola's existence. | A:P0–40. Adults do not directly witness the school exchange in this chapter. |
+| `KNOW-0251` | Ei hears the group's plan and agrees for Manon, while Manon sleeps and is not shown in the planning conversation. | A:P29–49. Ei knows one-day participation, not later recording. |
+| `KNOW-0252` | Player knows he hopes for official work; Ei refuses, Saori asks about permission, Player cites Coney's staff connection, and Rishuri is recruited. | B:P1–29. No shown written clearance or filming disclosure. |
+| `KNOW-0253` | Children witness a staged battle; Manon cheers and a boy asserts Mikola exists; Player internally rates the acting highly. | C:P1–50. Local reception does not audit performance, later belief or literal magic. |
+| `KNOW-0254` | Ei knows the costume embarrasses her and that children smile; Sisara says Manon/boys made up; Ei tells Player she will not continue the role. | C:P51–64. No direct settlement transcript or new consent. |
+| `KNOW-0255` | Saori reports Coney's call and video; Ei's surprise reveals she did not know filming was occurring, while the company reportedly wants an official show. | C:P65–75. No actual recording, circulation route, authorization, terms or Ei response to the offer. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0455` | Player → Ei, **care request with repeated expansion** | Asks for a one-day show, then suggests official work before and after, despite her no. A:P42–43; B:P5–8; C:P60–75. Reciprocal `REL-0456`; no continuing authorization. |
+| `REL-0456` | Ei → Player, **scoped assent and persistent refusal** | Accepts for Manon, commits to quality, declines official/recurring magical-girl role and is shocked by recording. A:P41–45; B:P7–28; C:P53–72. Reciprocal `REL-0455`; no answer to reported company proposal. |
+| `REL-0457` | Ei → Manon, **embarrassed protective performance** | Acts the heroine for Manon and values her and other children's smiles. A:P38–45; C:P17–61. Reciprocal `REL-0458`; no literal magic or indefinite care duty. |
+| `REL-0458` | Manon → Ei, **specific delight and projected heroine** | Watches, cheers Ei's transformation and celebrates the show. C:P1–50. Reciprocal `REL-0457`; her later belief/relationship state unvoiced. |
+| `REL-0459` | Saori → Ei, **urgent invitation and belated media news** | Presses the Manon-directed request, performs a villain, then relays Coney's recording and offer. A:P22–46; C:P5–72. Reciprocal `REL-0460`; not proof Saori authorized filming. |
+| `REL-0460` | Ei → Saori, **accepted task and surprised question** | Accepts the show for Manon, acts with Saori, then asks in shock whether she was filmed. A:P41–45; C:P17–72. Reciprocal `REL-0459`; filming consent unestablished. |
+
+`T7S_B0129_CLOSE-20260926`: six actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no extra anime-character identity, official-show agreement or recording release.
