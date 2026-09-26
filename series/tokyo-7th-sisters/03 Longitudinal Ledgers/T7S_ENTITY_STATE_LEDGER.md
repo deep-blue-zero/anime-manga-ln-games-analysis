@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.55"
+version: "11.56"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 199 complete i-n-g primary documents / T7S_B0080–T7S_B0154; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 202 complete i-n-g primary documents / T7S_B0080–T7S_B0155; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 435`; `directional_relationship_states = 630`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0154, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 442`; `directional_relationship_states = 638`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0155, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3526,3 +3526,39 @@ The [B0154](../02%20Readings/T7S_B0154_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0630` | Kajika → Player, **seeking credible description** | Asks what fans might like, then builds her message from his reported answer. C:P7–16,40–57. Reciprocal `REL-0629`; fan motives still unknown. |
 
 `T7S_B0154_CLOSE-20260926`: seven epistemic states, three directional relationship pairs and existing-actor/unit annotations; no petitioner identity, operational club or letter-handover promotion.
+
+## B0155 Shinju and an unpromoted Kerosuke figure
+
+The [B0155](../02%20Readings/T7S_B0155_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.57, binds these updates. Existing Shinju `CHAR-0021`, Sui `CHAR-0014`, Sumire `CHAR-0013`, Kajika `CHAR-0020`, Sawara `CHAR-0019`, Player `CHAR-0001` and Nanastar `UNIT-0002` suffice. `ケロ助` is a named figure *within Shinju's uncertain experience*, not a new externally stable `IDENTITY`/`CHAR` route; `カエール` likewise is not a verified `UNIT`/world state. The three frog sprites and stone object do not settle external existence.
+
+| Existing stable ID / local figure | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0021` / Shinju | Gives bounded counsel, feels child inadequacy, experiences an apparently talking frog and framed habitat task, wakes crying, then accepts Sumire's consultation and revalues small help/idol work. | A:P2–64; B:P1–74; C:P1–165. No omniscience, medical explanation or material kingdom proof. |
+| `CHAR-0014` / Sui | Brings a schoolmate's possible sports withdrawal to Shinju and chooses to say she hopes the teammate stays. | A:P2–23. Teammate's motives and eventual response unseen. |
+| `CHAR-0013` / Sumire | Initially hears advice, later asks Shinju for her own opinion and receives an affirmative answer. | A:P9–27; C:P136–142. Content/outcome of later problem not given. |
+| `CHAR-0020` / Kajika | Finds Shinju asleep in park and sees her tears, asks whether something happened. | C:P118–131. She does not witness frog or kingdom. |
+| `CHAR-0019` / Sawara | Jokes about unknown/fantastical encounters when Player notices Shinju's change. | C:P144–154. Not independent corroboration. |
+| `UNIT-0002` / Nanastar | A child member's limited advice is requested and later accepted without assigning her formal counselor authority. | A:P2–43; C:P136–165. No institutional counseling or child-duty policy shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0436` | Shinju hears Sui's secondhand story, flags uncertainty, recommends a personal wish; peers praise her while she privately doubts expertise. | A:P2–43. Absent teammate not examined. |
+| `KNOW-0437` | Shinju perceives frog distress and speech, immediately tests dream hypothesis; frog argues alternatives. | A:P44–64; B:P1–18. Perception not external verification. |
+| `KNOW-0438` | Within uncertain frame, Kerosuke names himself and hears Shinju's worry about child/hero role; she hears his parallel account. | B:P19–74. No persistent external identity route. |
+| `KNOW-0439` | Frog claims beacon/habitat crisis; Shinju considers sites and chooses park, knowing protection only by inference. | C:P1–62. No surveyed environment/gate confirmation. |
+| `KNOW-0440` | Kerosuke claims farewell rule and others' prior inaction; Shinju hears personal rescue interpretation. | C:P63–113. Sole testimonial within frame. |
+| `KNOW-0441` | Kajika knows Shinju cried after apparent nap; Shinju later knows she cannot identify frog and remains unsure. | C:P114–135,155–160. Tears do not choose ontology. |
+| `KNOW-0442` | Sumire hears Shinju agree to advise; Shinju privately connects limited help and idol role. | C:P136–165. No later consultation result. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0631` | Shinju → Sui, **conditional counsel without taking decision** | Distinguishes Sui's wish from teammate's choice. A:P2–23. Reciprocal `REL-0632`; third person's actual preference unknown. |
+| `REL-0632` | Sui → Shinju, **trust in limited judgment** | Requests view and thanks Shinju, saying she is especially reliable. A:P2–23. Reciprocal `REL-0631`; praise not qualification certificate. |
+| `REL-0633` | Framed Kerosuke → Shinju, **confidant and revaluation of small care** | Invites concern, claims shared hero burden and says she alone helped him. B:P44–74; C:P63–113. Reciprocal `REL-0634`; within uncertain experience only. |
+| `REL-0634` | Shinju → framed Kerosuke, **rescue, travel and grief** | Helps, talks, chooses site, asks to meet again and wakes with tears. A:P44–64; B:P19–74; C:P1–135. Reciprocal `REL-0633`; no externally verified frog identity. |
+| `REL-0635` | Sumire → Shinju, **renewed advice request** | Asks for opinion after earlier praise. A:P15–27; C:P136–140. Reciprocal `REL-0636`; issue/outcome hidden. |
+| `REL-0636` | Shinju → Sumire, **willingness to help without all-knowing pose** | Accepts request and privately frames modest help as enough to offer. C:P136–165. Reciprocal `REL-0635`; no promised solution. |
+| `REL-0637` | Kajika → Shinju, **noticing tears and asking** | Finds nap, observes distress and asks what happened. C:P118–131. Reciprocal `REL-0638`; no frog knowledge. |
+| `REL-0638` | Shinju → Kajika, **bounded disclosure after waking** | Says nothing happened and thanks her. C:P118–131. Reciprocal `REL-0637`; silence does not prove nothing felt. |
+
+`T7S_B0155_CLOSE-20260926`: seven epistemic states, four directional relationship pairs (one explicitly framed), existing-character/unit annotations and no new external frog/kingdom identity.

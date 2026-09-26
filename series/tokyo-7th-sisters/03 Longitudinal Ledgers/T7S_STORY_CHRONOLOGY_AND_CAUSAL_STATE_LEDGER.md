@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.55"
+version: "11.56"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 199 complete i-n-g primary documents / T7S_B0080–T7S_B0154; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 202 complete i-n-g primary documents / T7S_B0080–T7S_B0155; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 660`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 764`; `last_closed_block = T7S_B0154`. The admitted horizon contains 434 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 199 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 667`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 777`; `last_closed_block = T7S_B0155`. The admitted horizon contains 437 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 202 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2341,3 +2341,35 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.56. [B0154](../02%20Readings/
 | `EDGE-0771` | `LETTER_PROMISE_TO_UNVERIFIED_HANDOVER` | C:P73 promises next-day delivery; chapter ends before it occurs. |
 
 `T7S_B0154_CLOSE-20260926`: seven chapter events and twelve bounded edges; petition, recording and future operation remain distinct stages.
+
+## B0155 Shinju's bounded counsel and uncertain frog journey
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.57. [B0155](../02%20Readings/T7S_B0155_DEEP_READING.md) owns the A/B/C locator key. The rescue, Kerosuke, Kaeru and gate are explicitly questioned as dream material and followed by waking; no ordinary-world state, stable external frog identity or new institution is minted. The post-waking behavior and tears are narrated without adjudicating ontology.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0155-001` | Shinju gives Sui conditional advice: tell teammate own wish to stay without deciding for her; privately feels overpraised as book-reading child. | A:P2–43; `KNOW-0436`. Teammate's motives/academic state secondhand. |
+| `EV-B0155-002` | Shinju appears to rescue struggling frog, hears it speak, first proposes lucid dream and hears kingdom claim. | A:P44–64; B:P1–18; `KNOW-0437`. Later waking leaves rescue's external status unknown. |
+| `EV-B0155-003` | Named Kerosuke travels with Shinju, calls her chosen hero, invites her worries; she says others overestimate her, and he analogizes his own hero label. | B:P19–74; `KNOW-0438`. Relationship is within uncertain experience. |
+| `EV-B0155-004` | Kerosuke describes stone/beacon and environmental crisis; Shinju assesses shore/green/tourist sites, chooses Kuonji-built park and places stone. | C:P1–62; `KNOW-0439`. Kingdom, habitat effects and future protection unverified outside frame. |
+| `EV-B0155-005` | Kerosuke says he will become ordinary/unrecognizable and that only Shinju helped him; he distinguishes ability from willingness before farewell. | C:P63–113; `KNOW-0440`. No external witness to rule or prior bystanders. |
+| `EV-B0155-006` | Shinju wakes in park with tears noticed by Kajika; later cannot identify Kerosuke and remains unsure if dream. | C:P114–135,155–160; `KNOW-0441`. Tears are experiential evidence, not ontology proof. |
+| `EV-B0155-007` | Shinju accepts Sumire's request and privately links modest help to idol work as small light. | C:P136–165; `KNOW-0442`. No counseling outcome or supernatural expertise. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0772` | `SECONDHAND_PROBLEM_TO_LIMITED_COUNSEL` | `EV-B0155-001`; Shinju asks Sui to state own wish, not command teammate. |
+| `EDGE-0773` | `PEER_PRAISE_TO_CHILD_SELF_DOUBT` | Appreciation precedes her private concern in `EV-B0155-001`; no incapacity proven. |
+| `EDGE-0774` | `APPARENT_RESCUE_TO_SPEAKING_FROG` | `EV-B0155-002` moves into extraordinary frame; material status left open. |
+| `EDGE-0775` | `DREAM_HYPOTHESIS_TO_ONTOLOGY_DEBATE` | Shinju/Kerosuke offer competing explanations in `EV-B0155-002`; none resolved. |
+| `EDGE-0776` | `HERO_LABEL_TO_CONFIDENCE` | Kerosuke's chosen role initially intensifies Shinju's overpraise concern in `EV-B0155-003`. |
+| `EDGE-0777` | `RECIPROCAL_HERO_DOUBT_TO_DISCLOSURE` | Kerosuke's analogous burden lets Shinju voice self-doubt within uncertain frame. |
+| `EDGE-0778` | `DEVELOPMENT_CLAIM_TO_RELOCATION_TASK` | `EV-B0155-004`; ecology/gate claims are frog's report, not external world facts. |
+| `EDGE-0779` | `SITE_CONSTRAINTS_TO_PARK_CHOICE` | Salinity, traffic, development and tourists are considered before framed placement. |
+| `EDGE-0780` | `STONE_PLACEMENT_TO_CLAIMED_RESCUE` | Kerosuke announces success in `EV-B0155-004`; no independent effect measurement. |
+| `EDGE-0781` | `FAREWELL_RULE_TO_UNRECOGNIZABILITY` | `EV-B0155-005` gives a claimed ordinary-frog transition, not verified taxonomy. |
+| `EDGE-0782` | `ANYONE_CAN_TO_ONLY_ONE_DID` | Kerosuke says others could see him but Shinju helped; inside-frame testimonial claim. |
+| `EDGE-0783` | `WAKING_TO_PERSISTENT_UNCERTAINTY` | `EV-B0155-006` leaves dream/material alternatives and visible tears together. |
+| `EDGE-0784` | `REVALUED_SMALL_HELP_TO_SUMIRE_RESPONSE` | `EV-B0155-007` shows an ordinary behavior change and idol-light analogy. |
+
+`T7S_B0155_CLOSE-20260926`: seven chapter events and thirteen typed edges; framed possibility never promoted to externally verified world state.
