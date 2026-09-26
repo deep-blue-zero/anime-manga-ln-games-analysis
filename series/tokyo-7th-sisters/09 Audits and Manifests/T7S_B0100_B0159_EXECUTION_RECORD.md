@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.41"
+version: "1.42"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0141`.
-- Completed run blocks: **42/60**; completed run episodes: **120/174**.
-- Next: `T7S_B0142`, chapter `301140`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0142`.
+- Completed run blocks: **43/60**; completed run episodes: **123/174**.
+- Next: `T7S_B0143`, chapter `301150`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -78,7 +78,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0139` | `301110` | 有栖シラユキ | シラユキとザシキワラシ | `312203401 / 312203402 / 312203403` | CLOSED |
 | `T7S_B0140` | `301120` | 越前ムラサキ | フォーゲット・ロンリー・ノット | `312203501 / 312203502 / 312203503` | CLOSED |
 | `T7S_B0141` | `301130` | 玉坂マコト | ナイトメア・オン・ワールズエンド | `312203601 / 312203602 / 312203603` | CLOSED |
-| `T7S_B0142` | `301140` | 桂木カヅミ | 地に顔を出す | `312203701 / 312203702 / 312203703` | AUTHORIZED_UNREAD |
+| `T7S_B0142` | `301140` | 桂木カヅミ | 地に顔を出す | `312203701 / 312203702 / 312203703` | CLOSED |
 | `T7S_B0143` | `301150` | シャオ・ヘイフォン | シャオのセクシーアサシン修行 | `312203801 / 312203802 / 312203803` | AUTHORIZED_UNREAD |
 | `T7S_B0144` | `301160` | 春日部ハル | 今日も明日も明後日も | `612200101 / 612200102 / 612200103` | AUTHORIZED_UNREAD |
 | `T7S_B0145` | `301170` | 天堂寺ムスビ | 遠回りして、見つけたもの、大切なこと | `612200201 / 612200202 / 612200203` | AUTHORIZED_UNREAD |
@@ -274,3 +274,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0141 closeout receipt
 
 [T7S_B0141](../02%20Readings/T7S_B0141_DEEP_READING.md): Makoto avoids Player because pleasure in Nanastar work and fans feels disloyal; Sumire rejects that zero-sum fear, but Makoto amplifies it into a possessive world metaphor. A character-bento thank-you widens their peer relation while intensified messaging and manager boundaries remain unresolved. All 147 pages, 126 text records and 21 command-only pages are reviewed; 8 exact static composites were inspected. Source-lock 12.43 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 108 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 42/60 blocks, 120/174 episodes; publication remains pending.
+
+## B0142 closeout receipt
+
+[T7S_B0142](../02%20Readings/T7S_B0142_DEEP_READING.md): Kazumi declines debt and takes temporary work at Murasaki's family bar to buy a scarce edition; Murasaki protects her back-of-house boundary against a customer's personal-service demand, then song and work prompt reciprocal interest in each other's unfamiliar worlds. All 172 pages, 151 text records and 21 command-only pages are reviewed; 8 exact static composites were inspected. Source-lock 12.44 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 117 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 43/60 blocks, 123/174 episodes; publication remains pending.

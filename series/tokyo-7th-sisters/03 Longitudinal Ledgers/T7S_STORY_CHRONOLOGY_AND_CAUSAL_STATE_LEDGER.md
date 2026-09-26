@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.42"
+version: "11.43"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 160 complete i-n-g primary documents / T7S_B0080–T7S_B0141; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 163 complete i-n-g primary documents / T7S_B0080–T7S_B0142; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 559`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 607`; `last_closed_block = T7S_B0141`. The admitted horizon contains 395 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 160 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 565`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 617`; `last_closed_block = T7S_B0142`. The admitted horizon contains 398 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 163 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1927,3 +1927,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.43. [B0141](../02%20Readings/
 | `EDGE-0614` | `OFFICE_APPROVAL_WITHOUT_BOUNDARY_CONTRACT` | Peers' praise and Player's delight in `EV-B0141-005` do not establish sustained consent to any future volume. |
 
 `T7S_B0141_CLOSE-20260926`: seven chapter events and eleven bounded edges; no diagnosed condition, real omnipresence, blanket contact consent, Sumire personality transfer or dream-frame import.
+
+## B0142 Kazumi's chosen bar work and reciprocal unfamiliarity
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.44. [B0142](../02%20Readings/T7S_B0142_DEEP_READING.md) owns the A/B/C locator key. B0102 provides separately bounded Murasaki family-work strain, not a dated predecessor or staffing resolution. The unnamed regular's appraisal is not a grant of personal-service rights; the generic native patron/mother silhouettes are not portraits.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0142-001` | Kazumi wants expensive scarce edition at Chacha's family shop; Chacha lacks pricing authority, Nanastar cannot advance pay, and Kazumi rejects debt. | A:P2–37; `KNOW-0335`. No full budgets, price or family-shop control. |
+| `EV-B0142-002` | Kazumi mistakes Murasaki's general part-time-work suggestion for bar invitation; Murasaki agrees and schedules start next day. | A:P38–63; `KNOW-0336`. No hiring terms, school-policy audit or durable position. |
+| `EV-B0142-003` | Kazumi shops/carries stock and performs dish/towel/bottle/table work; Murasaki and mother note effort. | B:P2–35; `KNOW-0337`. Physical difficulty and learned effort coexist; no pay/rest account. |
+| `EV-B0142-004` | Regular objectifies Kazumi and asks her to pour drink; Murasaki refuses outside back-of-house assignment; Kazumi uses unattributed literary riddle to leave. | B:P36–53; `KNOW-0338`. No completed personal service, author attribution or legal ruling. |
+| `EV-B0142-005` | Player/Coney/Honoka visit; Murasaki dedicates song to Kazumi; after cut Kazumi praises different resonance and Murasaki revises her impression. | C:P1–35; `KNOW-0339`. No performed audio or full audience verdict. |
+| `EV-B0142-006` | Kazumi later has bought edition, values work experience above contents for novelty; Murasaki asks for a suitable reading recommendation. | C:P37–50; `KNOW-0340`. No wage arithmetic, shift count, completed recommendation or reading conversion. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0615` | `RARE_BOOK_TO_LIQUIDITY_PROBLEM` | Scarcity/expense and recent purchases in `EV-B0142-001` create short-term acquisition problem; not destitution. |
+| `EDGE-0616` | `LIMITED_AUTHORITY_TO_NO_DISCOUNT` | Chacha's family-shop link does not give her pricing power in `EV-B0142-001`. |
+| `EDGE-0617` | `DEBT_REFUSAL_TO_WORK_CHOICE` | Kazumi rejects advance and accepts work in `EV-B0142-001`–`002`; not a universal rule against borrowing. |
+| `EDGE-0618` | `GENERAL_SUGGESTION_TO_SPECIFIC_INVITATION` | Kazumi's misunderstanding becomes Murasaki's actual bar offer in `EV-B0142-002`; initial suggestion was not a prearranged post. |
+| `EDGE-0619` | `UNFAMILIAR_LABOR_TO_PRACTICED_EFFORT` | Kazumi struggles with stock but completes assigned duties in `EV-B0142-003`; no instant equal strength. |
+| `EDGE-0620` | `CUSTOMER_APPRAISAL_TO_BOUNDARY_REFUSAL` | Murasaki blocks request for Kazumi's drink-pouring in `EV-B0142-004` on assigned-task grounds. |
+| `EDGE-0621` | `LITERARY_RIDDLE_TO_EXIT` | Kazumi's unattributed quotation deflects regular after Murasaki's refusal; not the only or necessary protection. |
+| `EDGE-0622` | `WORK_VISIT_TO_SONG_ADDRESS` | Player/Coney/Honoka visit and Murasaki dedicates unreviewed song in `EV-B0142-005`; no technical verdict. |
+| `EDGE-0623` | `BAR_EXPERIENCE_TO_BOOK_PURCHASE` | Kazumi says Murasaki's help enabled acquisition in `EV-B0142-006`; wage/price arithmetic unavailable. |
+| `EDGE-0624` | `MUTUAL_DISCOVERY_TO_RECOMMENDATION_OFFER` | Kazumi values new work; Murasaki considers books in `EV-B0142-006`; no completed reading transfer. |
+
+`T7S_B0142_CLOSE-20260926`: six chapter events and ten bounded edges; no employment-contract, wage, legal, quote-author, song-quality or long-term habit finding.

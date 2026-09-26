@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.42"
+version: "11.43"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 160 complete i-n-g primary documents / T7S_B0080–T7S_B0141; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 163 complete i-n-g primary documents / T7S_B0080–T7S_B0142; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 334`; `directional_relationship_states = 542`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0141, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 340`; `directional_relationship_states = 544`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0142, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3022,3 +3022,35 @@ The [B0141](../02%20Readings/T7S_B0141_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0542` | Player → Makoto, **worry and immediate welcome without boundary talk** | Misreads distance as anomalous, apologizes on peers' assumption, later delights in return, while Sumire's imitation frightens him. A:P2–30; C:P11–20,39–56. Reciprocal `REL-0541`; no durable consent agreement. |
 
 `T7S_B0141_CLOSE-20260926`: seven actor-local knowledge records, two directional relationship pairs and existing-actor annotations; one local peer gift does not close the Player contact boundary.
+
+## B0142 Kazumi/Murasaki work, family shop and task boundary
+
+The [B0142](../02%20Readings/T7S_B0142_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.44, binds these updates. Existing Kazumi `IDENTITY-0046`/`CHAR-0035`, Murasaki `IDENTITY-0092`/`CHAR-0074`, Chacha `IDENTITY-0044`/`CHAR-0066`, Murasaki's mother `IDENTITY-0093`/`CHAR-0075`, Honoka `IDENTITY-0083`/`CHAR-0063`, Player `CHAR-0001`, Coney `CHAR-0003` and Nanastar `UNIT-0002` suffice. The unnamed regular has a role/silhouette, not a new stable identity; the family bar and Chacha family bookshop are not conflated.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0035` / Kazumi | Rejects advance, elects temporary bar work, learns stock/backstage tasks, deflects a customer's request, acquires desired edition and offers to recommend Murasaki a book. | A:P19–63; B:P2–53; C:P9–50. No work-term arithmetic, book renunciation, legal finding or completed recommendation. |
+| `CHAR-0074` / Murasaki | Suggests earning cash, accepts Kazumi at family bar, guides physical work, blocks unsolicited pouring request, dedicates song and considers Kazumi's book world. | A:P38–63; B:P2–53; C:P1–50. No staffing cure, pay policy, technical song review or durable reading habit. |
+| `CHAR-0066` / Chacha | Reveals rare family-store acquisition, warns of other buyers, says she cannot discount because family runs the shop and later advises Player against check-in. | A:P3–36; C:P5. No independent inventory control, ownership or financial favor. |
+| `CHAR-0075` / Murasaki's mother | Assigns additional bottles and praises Kazumi's quick work in the family bar. | B:P24–35. Generic sprite, no further managerial terms or staffing account. |
+| `CHAR-0063` / Honoka | Suggests quick purchase/pay advance and joins bar visit, interested in Murasaki's song. | A:P18–50; C:P1–22. No finance authority or performed-song judgment. |
+| `CHAR-0001` / Player | Offers help, asks about pay advance, worries about bar placement and visits, then calls Kazumi striking in a setting outside his prior book image. | A:P5–63; C:P1–17. His `ordinary world` frame is not an objective devaluation of reading. |
+| `CHAR-0003` / Coney | Jokes about a glasses-wearing newcomer's service, attends bar song and praises Player for caring. | C:P1–21. No actual requested pouring by Kazumi or technical assessment. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0335` | Kazumi/Chacha know book stock/scarcity and price pressure; Chacha knows she lacks authority; Player knows Nanastar cannot readily advance pay. | A:P19–37. Exact amounts, inventory rights and wages unknown. |
+| `KNOW-0336` | Murasaki meant work generally, Kazumi heard bar invitation; Murasaki then agrees and arranges meeting. | A:P38–63. Initial intent and subsequent agreement distinct. |
+| `KNOW-0337` | Kazumi learns wholesale scale and her own carrying difficulty; Murasaki/mother observe steady work. | B:P2–35. No full shift or capacity assessment. |
+| `KNOW-0338` | Regular voices appearance judgment/service request; Murasaki knows task assignment and refuses; Kazumi quotes/asks riddle and exits. | B:P36–53. No author, customer consent or legal case established. |
+| `KNOW-0339` | Player/Coney/Honoka see Kazumi working; Murasaki offers song; Kazumi later voices appreciative difference. | C:P1–35. Actual song unheard; audience not measured. |
+| `KNOW-0340` | Kazumi has edition and values novel work experience; Murasaki hears and asks for a book fit. | C:P37–50. Shift duration, accounting and future reading unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0543` | Murasaki → Kazumi, **work invitation, task protection and song** | Accepts her bar work, guides load/chores, refuses patron's pouring request and dedicates a song. A:P38–63; B:P2–53; C:P19–35. Reciprocal `REL-0544`; not a certified employment policy. |
+| `REL-0544` | Kazumi → Murasaki, **chosen labor and responsive curiosity** | Accepts offer, works, praises bar song and offers a fitted book recommendation. A:P47–63; B:P2–53; C:P26–50. Reciprocal `REL-0543`; no completed book exchange. |
+
+No new stable unit/identity state is warranted: Kazumi's temporary work is not a Nanastar performance unit or corporate merger; the regular and mother static placeholders do not imply duplicated people or full portrait evidence.
+
+`T7S_B0142_CLOSE-20260926`: six actor-local knowledge records, one directional relationship pair and existing-actor annotations; no wage/shift, legal, song or completed recommendation finding.

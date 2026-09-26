@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.42"
+version: "11.43"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 160 complete i-n-g primary documents / T7S_B0080–T7S_B0141; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 163 complete i-n-g primary documents / T7S_B0080–T7S_B0142; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 657`; `revisions = 42`; `predictions = 7`; `AV_reviews = 88`; `literary_findings = 657`. Claims are bounded to their stated B0001 through B0141 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 62 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 661`; `revisions = 42`; `predictions = 7`; `AV_reviews = 89`; `literary_findings = 661`. Claims are bounded to their stated B0001 through B0142 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 63 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2127,3 +2127,26 @@ Owner and A/B/C locator key: [B0141](../02%20Readings/T7S_B0141_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred eight dialogue-associated voice pages plus title cues, BGM/SFX and animated effect performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0141_CLOSE-20260926`: four bounded claims and one AV review; no diagnosis, literal omnipresence, blanket consent, dream-frame import, specialist or monograph promotion.
+
+## B0142 debt refusal, labor boundary and reciprocal world-opening
+
+Owner and A/B/C locator key: [B0142](../02%20Readings/T7S_B0142_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.44. B0102 supplies a separate labor-strain comparison, not a proven staffing outcome here.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0142-001` | `BOUNDED_INFERENCE`; D1; high | Scarce-book acquisition follows Kazumi's chosen work path after Chacha cannot discount, Nanastar cannot advance pay and Kazumi declines debt; exact economic terms remain unknown. | A:P19–63; C:P37–40. No budget or wage arithmetic. |
+| `CL-B0142-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kazumi's quotation helps her leave a customer's appearance-based drink request, but Murasaki has already protected her assigned back-of-house boundary; cleverness is not a prerequisite to that protection. | B:P24–53. No quote author, legal ruling or permanent protocol. |
+| `CL-B0142-003` | `BOUNDED_INFERENCE`; D1; high | Kazumi's high valuation of unfamiliar work and Murasaki's reciprocal book request show widening interests without either abandoning an established practice. | C:P26–50. No actual recommendation/read book or reading renunciation. |
+| `CL-B0142-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | The family bar reveals Murasaki's practiced labor as well as her singing; mutual appreciation does not prove that a new worker removed cost, staffing strain or performance uncertainty. | B:P2–35; C:P1–35; separate B0102. No hours/pay/rest or sound audit. |
+
+### AV-0089 — bar facade, role silhouettes and Kazumi/Murasaki stills
+
+- Questions/claims: whether visual stills certify labor terms, customer's conduct beyond dialogue, actual poured drink, quoted author, song performance, mother/patron individualized likeness or long-term reading shift; `CL-B0142-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song, labor terms, rights/legality and future habit restrictions.
+- Selection: Kazumi `adv_chara_146_01_01`, `146_01_02`; Murasaki `149_01_01`; Chacha `128_01_01`; Honoka `124_01_01`; mother generic `037_01`; regular generic `027_01`; `EZ Bar` facade `adv_obj_0078`. All 172 native pages and twenty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.44 binds eight media receipts.
+- Observed: Kazumi/Murasaki/Chacha/Honoka are distinguishable; `037_01` and `027_01` are generic line-art woman/man placeholders, not individualized portraits. Bar facade reads `EZ Bar` but cannot disclose employment conditions or music.
+- Native occurrence: command-only A:P0–1,64; B:P0–1,8–10,22–23,28,34–35,50,53; C:P0,24–25,36,51–52. B:P23–24 foregrounds facade; C:P24–26 cuts across announced song and C:P36–37 shifts to later book exchange.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. One hundred seventeen dialogue-associated voice pages plus title cues, BGM/SFX and the bar song remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0142_CLOSE-20260926`: four bounded claims and one AV review; no quote attribution, legal/workplace certification, exact acquisition economics, song verdict, specialist or monograph promotion.
