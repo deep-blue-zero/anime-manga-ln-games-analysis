@@ -4,7 +4,7 @@ artifact_id: MT_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,12 +12,12 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "V01 Japanese LN prose and images inspected for a pilot; hash-only locator map lacks durable evidence-plane placement; no sequential unit closed and V02 unopened."
+source_boundary: "V01 Japanese LN pilot content approved after synopsis revision; hash-only locator map lacks durable evidence-plane placement; no sequential unit closed and V02 unopened."
 ---
 
 # Mushoku Tensei — current state and corpus map
 
-This is the single first-read surface for `series/mushoku-tensei/`. Git owns accepted interpretation; the Drive source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` owns primary/derived evidence. The bootstrap adopted methodology and initialized operational ledgers. The [V01 pilot candidate](02%20Sequential%20Readings/MT_V01_DEEP_READING.md) and its ledger updates are **provisional** pending durable retention of the paragraph/ruby locator map and final closure. V02 has not been read.
+This is the single first-read surface for `series/mushoku-tensei/`. Git owns accepted interpretation; the Drive source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` owns primary/derived evidence. The bootstrap adopted methodology and initialized operational ledgers. The owner approved the revised [V01 pilot analysis](02%20Sequential%20Readings/MT_V01_DEEP_READING.md) after its story synopsis was added. Its reading and ledger updates remain **provisional** pending durable retention of the paragraph/ruby locator map and transaction closure. V02 has not been read.
 
 ## Project initialization
 
@@ -25,7 +25,7 @@ This is the single first-read surface for `series/mushoku-tensei/`. Git owns acc
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
-  analytical_phase: V01_PILOT_PENDING_EVIDENCE_RETENTION
+  analytical_phase: V01_PILOT_CONTENT_APPROVED_PENDING_EVIDENCE_RETENTION
   source_reconnaissance_complete: true
   governing_method: "00 Frameworks and Methods/MT_ANALYTICAL_METHOD.md"
   method_status: canonical
@@ -54,8 +54,10 @@ pilot_execution:
   new_sequential_analysis_authorized: true
   authorization_limit: V01_ONLY
   completed_new_sequential_units: []
-  candidate_under_review: V01
-  next_permitted_action: RETAIN_HASH_ONLY_LOCATOR_MAP_WITH_EXPLICIT_PAYLOAD_AND_DESTINATION_APPROVAL_THEN_CLOSE_V01_AND_PAUSE
+  candidate_unit: V01
+  owner_review: V01_CONTENT_APPROVED_2026-09-25
+  owner_authorized_following_unit: V02_AFTER_V01_CLOSURE
+  next_permitted_action: RETAIN_HASH_ONLY_LOCATOR_MAP_WITH_EXPLICIT_PAYLOAD_AND_DESTINATION_APPROVAL_THEN_CLOSE_V01
 lane_progress:
   ln_sequential_closed_through: null
   wn_comparison_closed_scope: null
@@ -102,4 +104,4 @@ The [bootstrap report](10%20Audits%20and%20Handoffs/MT_BOOTSTRAP_REPORT.md) reco
 
 ## Next authorized boundary
 
-The authorized V01 pilot candidate is ready for owner review once published. To meet the method's closure condition, the local hash-only locator map needs explicit approval for upload to the stated Drive folder and durable retention there; the sequential high-water mark remains `null` until that condition and final review are complete. **Pause after the V01 pilot for owner review. Do not inspect V02.** Subsequent bounded tranches and optional version/reception work require their own owner instruction.
+The owner approved the V01 analytical content after the synopsis revision. The pilot feedback also led to v1.1 method/architecture/template rules requiring a readable current-volume synopsis and, from V02 onward, a distinct account of developments through the previous closed volume. To meet the method's closure condition, the local hash-only locator map still needs explicit approval for upload to the stated Drive folder and durable retention there; the sequential high-water mark remains `null` until verified retention and closure. The owner's earlier V02 authorization follows the completed pilot review but remains conditional on V01 closure and V02 source verification. **Do not inspect V02 while V01 remains open.** Later units beyond V02 and optional version/reception work require their own owner instruction.

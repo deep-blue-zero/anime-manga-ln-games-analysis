@@ -4,7 +4,7 @@ artifact_id: MT_SOURCE_LOCK_AND_INVENTORY
 artifact_type: source_lock
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -38,4 +38,4 @@ The V01 container points to `content.opf`, whose title/creator/language metadata
 - Fresh byte/container check: V01 only. Its prose is machine parseable and a source-to-extraction-to-source-item locator round trip worked.
 - Narrative coverage and interpretation: V01 only, with 13 narrative units and six synchronized ledgers; no V02. Visual coverage: cover/front and all ten narrative-positioned plates, five design sheets and platform mark inspected; no claims of full-series visual coverage. Full-series bibliographic/supplemental completeness: not established.
 
-The V01 source has been inspected. A hash-only paragraph/ruby locator map was constructed locally, but automatic approval review rejected its upload to the Drive source folder as derivative metadata from a private EPUB going to an unverified destination without explicit approval of the payload and destination. The map remains in transient scratch, so the method's durable evidence-plane requirement is unmet and the sequential transaction is not closed. Do not copy the EPUB or raw normalized prose into Git. Exact historical editions and the missing V12 remain open obligations before claims that depend on them. V02 is an inventory item only until owner review of the pilot.
+The V01 source has been inspected and the owner approved the revised analytical content. A hash-only paragraph/ruby locator map was constructed locally, but automatic approval review rejected its upload to the Drive source folder as derivative metadata from a private EPUB going to an unverified destination without explicit approval of the payload and destination. The map remains in transient scratch, so the method's durable evidence-plane requirement is unmet and the sequential transaction is not closed. Do not copy the EPUB or raw normalized prose into Git. Exact historical editions and the missing V12 remain open obligations before claims that depend on them. V02 is an inventory item only until V01's durable evidence requirement and transaction closure are satisfied.
