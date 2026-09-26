@@ -4,20 +4,20 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -113,3 +113,516 @@ E007–E009 establish a distinct **proxy / procurement / paid-coercion** problem
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 institutional delta — security, custody, and delegated command
+
+- **Gehenna Prefect Team:** its stated arrest purpose is displaced by an unauthorized Schale-custody objective and multi-company escalation. Institutional capacity is substantial; legitimacy remains bounded by jurisdiction, proportionality, internal authorization, and the affected party's refusal.
+- **Prefect Team order chain:** Hina's call strongly establishes that Ako lacks chair-level authorization for independent cross-district use of committee members. Several promoted speaker mappings around the original fire order remain anomalous, so exact lower-level culpability is quarantined.
+- **Schale:** becomes an explicit strategic object. Ako regards Schale as an uncertain factor in future Gehenna–Trinity relations and proposes `protective` custody; the coalition instead makes Schale a capability it freely commissions.
+- **Abydos Countermeasures Committee:** distinguishes committee from council while exercising de facto local governance, rejects extraterritorial coercion, chooses coalition, and delegates tactical command without yielding jurisdiction.
+- **Problem Solver 68:** joins Abydos against Prefect Team coercion through reciprocal trust. This does not legalize its prior conduct or dissolve its internal command failures.
+- **Tea Party / Trinity:** Chinatsu's report has apparently reached the Tea Party, and a future Gehenna–Trinity treaty becomes strategically relevant. The report's contents and treaty process are not yet established.
+- **Institutional legitimacy principle:** calling seizure `庇護` or `安全に確保` does not make it consensual protection. Safety provision becomes domination when the protected actor cannot refuse or leave.
+
+## C002 E002 institutional delta — mandate correction and non-incursion guarantee
+
+- **Gehenna Prefect Team:** Hina defines it as a disciplinary committee, not Gehenna's student government. Its coercive power is subjected to internal scope, discipline, official apology, withdrawal, and a promise against future unauthorized Abydos entry.
+- **Pandemonium Society:** introduced as the Gehenna body with formal school-political responsibility for Schale, Tea Party, and federal-president matters; Hina's contempt does not transfer that mandate to her committee.
+- **Abydos Countermeasures Committee:** receives official recognition as apology addressee and a prospective non-incursion guarantee, strengthening its de facto external standing.
+- **Kaiser Corporation:** a credible independent warning places an undisclosed Kaiser project in the abandoned Abydos desert. Purpose, mechanism, and ties to Kaiser Loan/PMC/Black Suit remain OPEN.
+- **Tea Party / Pandemonium information states:** Hina says neither yet knows the desert intelligence; this is her current report, not permanent omniscience.
+- **Problem Solver 68:** escapes without institutional disposition. The jurisdiction dispute closes procedurally only for Prefect withdrawal, not for PS68 accountability.
+
+## C002 E003 institutional delta — debt takes title
+
+- **Abydos:** current members discover that prior default transferred ownership of academy land/buildings, separating nominal autonomous territory from material title and governance knowledge.
+- **Shiba Seki Ramen:** demolition accelerated a closure already threatened by eviction. Repair funding exists, but rebuilding rights and tenure remain uncertain.
+- **Unknown owner:** Sensei's mutually exclusive Kaiser Loan/Corporation guesses receive only vague witness recognition. No exact owner or unified Kaiser hierarchy is established.
+- **Problem Solver 68:** leaves its exposed office under both Prefect and failed-client pressure; all remaining bag money is assigned to repair, but client and money provenance remain open.
+- **Institutional legitimacy principle:** debt can hollow out sovereignty spatially by transferring the physical ground on which community institutions operate.
+
+## C002 E004 institutional delta — cadastral confirmation
+
+- **Abydos:** a verified `地籍図` shows most district land is not registered to the school; political identity, lived governance, and material title have diverged.
+- **Kaiser Construction:** enters as the explicitly named registered owner. It is a new differentiated actor; relation to Kaiser Loan, PMC, Corporation, or Black Suit is not yet established.
+- **Countermeasures Committee:** Ayane and Serika independently obtain the decisive document and explain it to the full group, demonstrating evidence-producing governance amid inherited ignorance.
+- **Administrative records:** cadastral title joins shadow-bank ledgers as documentary counter-power exposing control that daily experience concealed.
+
+## C002 E005 institutional delta — formal authority under engineered desperation
+
+- **Former Abydos student council:** exercised asset-resolution authority; transfers stopped after dissolution. Earlier sellers and Hoshino's final two-person council must remain distinct.
+- **Final council:** Hoshino joined after most members, staff, classes, and records were gone; she and a new president operated without meaningful handover.
+- **Kaiser capture hypothesis:** Loan creditor, Construction title, Helmet Gang subsidy, and Corporation desert activity converge strongly, but original intent and one common command hierarchy remain unproved.
+- **Abydos:** only the current school and nearby area remain untransferred; this `last land` becomes the committee's working explanation for proxy pressure.
+- **Legitimacy principle:** formally authorized sale can still be substantively captured when debt dependency engineers the available alternatives.
+
+## C002 E006 institutional delta — title is not total jurisdiction
+
+- **Abydos:** continues field governance and investigation in territory it does not documentarily own, demonstrating that lived polity and registered title are not identical.
+- **Gehenna Prefect Team:** earlier `付近` / not-yet-illegal wording may reflect superior cadastral knowledge; this is a graded hypothesis, not proof.
+- **Institutional legitimacy:** information advantage and property title do not retrospectively authorize hostile custody or erase a resident institution's reasoned defense.
+- **Expedition:** logistics, hazard assessment, and weapons checks are committee-managed; no new Kaiser project fact is yet discovered.
+
+## C002 E007 institutional delta — lost civic ecology
+
+- **Abydos district:** historically included a vast oasis, habitation, and a sand festival drawing other academies; current desert/title analysis now carries cultural and civic loss.
+- **Countermeasures Committee:** most members have never accessed this part of their own district, showing how material decline narrows institutional self-knowledge.
+- **Investigation:** the Hina-identified sector remains ahead and the current landscape supplies no project evidence; warning remains distinct from confirmation.
+
+## C002 E008 institutional delta — fortified desert installation
+
+- **Unknown facility:** recent relative to Hoshino's visits, kilometer-fenced, city/factory/garrison scale, and guarded by PMC-role soldiers.
+- **Unknown security actor:** initiates capture/attack and treats the Abydos group as intruders; affiliation is not yet stated in-unit.
+- **Hina warning:** receives partial confirmation that a major defended project exists, not confirmation of function or corporate hierarchy.
+- **Abydos:** confronts armed exclusion on alienated territory, deepening the gap between historical polity and current title/control.
+
+## C002 E009 institutional delta — corporate army identified
+
+- **Kaiser PMC:** facility and force are verified; Ayane identifies it as a Kaiser Corporation affiliate with professional, army-like organization and combined arms.
+- **Kaiser Corporation:** PMC affiliation is now an established network edge. Construction, Loan, and Black Suit relations remain separately unproved.
+- **Recruitment:** corporate hiring of expelled/delinquent students is explicitly rumor, not fact.
+- **Corporate capacity:** alarms, tanks, helicopters, armored vehicles, and encirclement demonstrate effective territorial-military power without public mandate.
+
+## C002 E010 institutional delta — network convergence without total collapse
+
+- **Kaiser Corporation:** its director self-identifies the Corporation as Abydos creditor and admits hiring PS68/Helmet Gang while controlling the PMC confrontation.
+- **Kaiser Loan:** strong inference now supports a Corporation debt/collection interface; exact legal structure remains unstated.
+- **Kaiser PMC:** functions as the direct enforcement/containment arm at the facility.
+- **Gematria / Black Suit:** the director knows Gematria targeted Hoshino; contact/knowledge is established, membership and hierarchy are not. Isolated Black Suit `u:0016` is treated as recall, not physical presence.
+- **Construction:** not explicitly linked in E010 and remains a differentiated title holder.
+- **Coercion architecture:** debt, armed exclusion, proxy hiring, damage accounting, and negotiation converge in one director's practice.
+
+## C002 E011 institutional delta — one director, four Kaiser surfaces
+
+- **Integrated leadership:** one director explicitly holds roles in Corporation, Loan, Construction, and PMC; this proves shared leadership while leaving full org-chart detail open.
+- **Kaiser Loan:** credit minimum, +3000% variable-rate adjustment, ¥91.3m monthly interest, and ¥300m one-week deposit are ordered as coercive leverage.
+- **Kaiser PMC:** force scale is stated as hundreds of tanks/soldiers and hundreds of tons of explosives/ammunition, allegedly for an unknown rival to the treasure search.
+- **Abydos:** students are offered individual escape through withdrawal/transfer, while institutional survival is made financially impossible.
+- **Legitimacy:** formal title, transaction records, and contract clauses can administer substantive domination when the stronger party changes the choice field.
+
+## C002 E012 institutional delta — recruitment as debt instrument
+
+- **Abydos Countermeasures Committee:** rejects a prepared PMC infiltration by reapplying its bank-robbery method boundary; chair absence then disrupts collective governance.
+- **Kaiser Corporation / Black Suit:** Hoshino reports two years of recruitment and a latest offer to cover nearly half the debt in exchange for leaving school and joining `our company`.
+- **Kaiser PMC:** Hoshino believes useful personnel are being collected for the PMC; this remains informed student inference, not admitted institutional policy.
+- **School office / membership:** a withdrawal form becomes the mechanism through which collective debt pressure is redirected into an individual's institutional exit.
+- **Hierarchy firewall:** the director's apparent fear supports Black Suit leverage but does not establish a formal Kaiser or Gematria position.
+
+## C002 E013 institutional delta — withdrawal-triggered occupation
+
+- **Contract surface:** Hoshino signs; Black Suit asserts transfer of all student rights and debt assumption. Legal validity and exact text remain unverified.
+- **Kaiser PMC:** Hoshino describes PMC mercenary employment; a PMC soldier transports her, while mass forces attack city/school and issue an eviction order.
+- **Kaiser Corporation:** the director announces absorption/merger after treating last-council withdrawal as effective school disappearance.
+- **Abydos High School:** remaining members continue emergency governance, materially contesting the claim that one officeholder's withdrawal extinguishes the institution.
+- **Abydos district:** civilians are directly present and displaced; the territory is not analytically reducible to abandoned land or school property.
+- **Term discrepancy:** E012 `nearly half` and E013 `most` debt relief are both preserved without invented reconciliation.
+
+## C002 E014 institutional delta — recognition defect and actor separation
+
+- **Countermeasures Committee:** confirmed unofficial/unapproved because no student council remained to authorize it; practical governance persists despite formal invisibility.
+- **General Student Council:** prior Abydos petitions produced no action and current incapacity is asserted by the director without contradiction in-scene.
+- **Kaiser corporate-school project:** the director proposes `Kaiser Vocational Training School`; Black Suit calls the plan a secondary experiment/entertainment.
+- **Black Suit's side:** explicitly not Kaiser; cooperates because interests align and pursues Hoshino research rather than ordinary PMC labor.
+- **Problem Solver 68:** exercises independent defensive capacity by cutting reinforcements and targeting the command chain.
+- **Legitimacy contrast:** missing approval documents weaken Abydos institutionally but do not legitimate seizure; voluntary coalition supplies capacity without ownership.
+
+## C002 E015 institutional delta — command disruption without restoration
+
+- **Kaiser PMC:** director injury and severed reinforcements trigger a headquarters-propagated retreat, demonstrating centralized command vulnerability.
+- **Problem Solver 68:** prior contractor status does not eliminate independent partner choice; force is supplied without institutional annexation.
+- **Countermeasures Committee:** formal status is bracketed in an immediate rescue emergency, while regrouping preserves method/planning rather than permanent lawlessness.
+- **Abydos:** tactical defense succeeds provisionally, but debt, alienated land, recognition, occupation risk, and Hoshino capture remain unresolved.
+- **Black Suit's site:** only an unspecified Kivotos location is established; it must not be collapsed into the Kaiser facility.
+
+## C002 E016 institutional delta — advisor consent and Gematria self-definition
+
+- **Schale / teacher office:** Sensei asserts that advisor signature is required for Hoshino's departure; Black Suit accepts the challenge as operative and troublesome.
+- **Abydos membership:** Hoshino's committee, vice-president, and student status are therefore contested rather than extinguished.
+- **Gematria:** self-named outsider observer/seeker/researcher group; objective ontology and full membership remain OPEN.
+- **Gematria exploitation model:** admits using disaster-created vulnerability within rule form and offers school/PMC relief in exchange for Hoshino.
+- **Abydos desert PMC base:** central laboratory is identified as Hoshino's stated experiment location.
+- **Rule legitimacy:** the same episode contrasts rule-compliant exploitation with procedural consent used to interrupt a coerced exit.
+
+## C002 E017 institutional delta — distributed coalition, local mission control
+
+- **Gehenna Prefect Team:** Hina, Ako, Iori, and Chinatsu interdict northern reinforcements; exact visible formation count is ambiguous.
+- **Trinity / Tea Party:** treaty constraints lead Nagisa to route L118 support through an outdoor class/picnic under Hifumi's execution.
+- **Shiba Seki:** reopens as a stall; customer/community continuity survives destruction of the building.
+- **Problem Solver 68:** unpaid coalition role is relationally enabled and persona-pressured rather than contract-owned.
+- **Countermeasures Committee:** updates maps, selects the safest route, integrates Sensei intelligence, and formally launches the rescue operation.
+- **Control distribution:** external actors block/support; Abydos defines destination, route, and object. Exact prior approval of every supporting deployment remains unstated.
+
+## C002 E018 institutional delta — the buried center as contested site
+
+- **Trinity support:** L118 fire is delivered under explicit deniability and used by Abydos as enabling support rather than external command.
+- **Original Abydos main school:** physical traces at the objective confirm the buried building/former center; past scale superlatives remain director testimony.
+- **Gematria laboratory:** built/requested at the old school site; Hoshino is said to be in a nearby building.
+- **Kaiser PMC:** concentrates all mobile force for a total engagement, showing the site's operational priority.
+- **Problem Solver 68:** takes a rearguard role that opens the locally chosen rescue route; tactical outcome is not yet shown.
+- **Institutional appropriation:** captured historical infrastructure is converted into experimental infrastructure without erasing its prior identity.
+
+## C002 E019 institutional delta — lived institution retrieves its member
+
+- **Kaiser coercion:** director directly admits using many measures to punish, exhaust, and break the remaining students for his plan.
+- **Countermeasures Committee:** reaches the bunker, breaches it, and restores its senior member despite formal nonrecognition.
+- **Schale:** supplies helicopter/logistical capacity and requested combat coordination; no sovereign institutional takeover occurs.
+- **Abydos continuity:** joy, remembered daily life, rescue practice, and reciprocal `welcome home` constitute continuing institutional reality.
+- **Unresolved structures:** debt, title, official recognition, Kaiser force, contract status, laboratory fate, and corporate consequences remain OPEN at E019.
+
+## C002 E020 institutional delta — formal repair and partial accountability
+
+- **Countermeasures Committee:** publicly certified by Sensei and formally assumes student-council functions; president remains undecided after Hoshino refuses.
+- **Schale:** recognition, logistics, and ongoing Black Suit investigation are institutional capacities; leadership remains student-owned.
+- **Kaiser Loan:** illegal Black Market dealings face expected federal investigation; coerced interest is substantially reduced.
+- **Kaiser Corporation:** retains most Abydos land because transactions remain legally effective; unknown desert purpose persists.
+- **Kaiser director:** fired and wanted as kidnapping suspect; individualization of blame does not erase cross-entity role evidence.
+- **General Student Council:** expected to investigate but still described as nonfunctional/unreliable.
+- **Shiba Seki:** successful stall reopening confirms practical continuity across destroyed premises.
+
+## MAIN V001 C002 checkpoint institutional state
+
+> **lived committee under documentary invisibility → debt/title/military capture crisis → differentiated coalition rescue → public certification without leadership takeover → persistent debt/dispossession and incomplete accountability**
+
+- Abydos now combines practical continuity with formal committee/student-council recognition.
+- Kaiser remains materially entrenched through principal debt and majority land ownership despite interest relief and expected investigation.
+- Gematria remains separate from Kaiser and outside identified public accountability.
+- General Student Council capacity remains unreliable; Schale continues as corrective/investigative infrastructure.
+
+## V002 C001 E001 institutional delta — Millennium first contact
+
+- **Millennium Science School:** Arona presents it as one of three large academies, younger than Trinity/Gehenna yet comparably influential, with a science/technology/rationality emphasis. This is a school-level orientation, not a blanket judgment of students or council decisions.
+- **Game Development Club:** Momoi writes scenarios, Midori makes illustrations/visuals, and absent president Yuzu handles planning. The club makes 16-bit games and reports a Student Council abolition ultimatum.
+- **Student Council / Yuuka:** the alleged dissolution order and ultimatum are not yet corroborated by council speech or documentation. `四天王` is Momoi's fantasy-inflected description, not a verified office chart.
+- **Schale:** receives a student-authored cross-academy petition and sends Sensei; no intervention outcome or authority over Millennium governance is yet shown.
+- **`廃墟`:** proposed destination only; location, ownership, purpose, and connection to club survival are OPEN.
+
+## V002 C001 E002 institutional delta — results, allocation, and discretion
+
+- **Seminar/Student Council accountant Yuuka:** asserts that club operation is delegated mainly to each school's student council, even against Schale/federal intervention. This is her stated jurisdiction, not yet independently audited governance law.
+- **Club eligibility:** Yuuka's clean later lines allow demonstrated achievement to avert dissolution; the surrounding corrupted eligibility exchange and post-exit recruiting discussion also indicate a membership route. Exact rule text, formal deadline, and authority source remain unverified.
+- **Budget and reputation:** Yuuka argues that continuing club funding/room use displaces other activities and that a poor product harms Millennium's standing. These are her policy claims, not proof that creative work has no value.
+- **Millennium Prize:** a school-wide product competition is named as the club's `TSC2` route; Yuuka conditionally waits two weeks and acknowledges success would count. The `u:0074` descriptive speaker label is suspect, so precise wording is not attributed to her.
+- **Ruins:** Momoi says the nearby zone was formerly federally restricted as dangerous, while admitting ignorance of its actual hazards. No disappearance, entry mechanism, or current access status is established.
+- **G.Bible:** named at the cliffhanger without definition, provenance, or demonstrated causal role.
+
+## V002 C001 E003 institutional delta — restricted site, unproven provenance
+
+- **Ruins:** now directly occupied by patrolling robots and entered by the club/Sensei. Who governs, built, or uses the site remains OPEN.
+- **Federal president/GSC:** Momoi reports former tight entry/secrecy restrictions and guard withdrawal after the President vanished; the current unit does not show those historical orders. The robots cannot be assigned to federal control merely from proximity.
+- **Veritas:** Momoi reports help obtaining entry and a coordinate for `G.Bible`'s last confirmed operation; technical method and formal institutional commitment are unseen.
+- **Himari:** a source-qualified `かもしれない` metaphor is reported. It is not a verified transport/collection mechanism for forgotten objects.
+- **G.Bible:** reportedly a legendary creator's work containing a game-making secret. Current location, form, authenticity, and effect remain unverified despite the unmapped last-operation coordinate.
+- **Factory-like structure:** Sensei sees a possible shelter during robot convergence; safety/ownership are unknown.
+## V002 C001 E004 institutional delta — eligibility is not enrollment
+
+- **Unknown factory:** an unidentified voice names Momoi/Midori ineligible, grants Sensei entry, then extends access to the sisters as teacher-accompanying `生徒`; it opens a floor door. This demonstrates a local access rule, not its author, rightful jurisdiction, or Millennium/GSC ownership.
+- **Robots:** cease pursuit at the threshold; their relation to the gate, factory, GSC, and `G.Bible` remains OPEN. Momoi's secret-weapon speculation is self-doubted.
+- **Game Development Club:** Momoi recovers two survival routes, prize or increased membership, and directly invites the newly found girl. Midori identifies a possible Millennium-student `偽装`; no paperwork, admission, membership acceptance, or Yuuka decision occurs here.
+- **GSC/Valkyrie:** possible outside contacts are discussed and deferred in label-corrupt dialogue; neither institution acts. The ethical cost of delay is open.
+- **`AL-1S` / `G.Bible`:** the former is a body marking, not verified school/identity documentation; the latter remains unfound and unlinked to the girl by direct evidence.
+
+## V002 C001 E005 institutional delta — proposed documents, absent registrar
+
+- **Membership/identity route:** Momoi names `学生登録` and `学生証` as intended steps, alongside clothing, a weapon and speech coaching; her late visit finds no one, so no card, registration, weapon or admission is evidenced.
+- **Club refuge:** Momoi reports Yuzu would lose her `居場所` and cannot go back to the dorm if the club closes. This sharpens stakes but is not yet Yuzu's own account or verified school-housing policy.
+- **Product evaluation:** the poorly ranked game itself shows misleading tutorial and convoluted writing; Alice nevertheless completes it and responds positively. Yuuka's ranking evidence is neither wholly disproved nor a monopoly on worth.
+- **Yuzu:** directly introduced as club president, hidden in the locker since the group returned. Her thanks establishes reception, not a formal decision on Alice's membership. GSC, Valkyrie, Yuuka and a registrar do not act in the unit.
+
+## V002 C001 E006 institutional delta — ID versus authorized status
+
+- **Credential:** Alice is shown receiving a `学生証`, reversing E005's no-card state. Momoi says Veritas registered her on the school roll, self-interrupting `ハッキ……いや、登録`; unauthorized alteration is strongly suggested, but method, Veritas action and official approval are not directly shown.
+- **Membership:** Momoi calls Alice an official companion and Alice uses `仲間` affirmatively. Interpersonal participation, roster legibility and lawful school/club admission remain distinct; no Yuuka/council ruling or audited registry record appears.
+- **Speech:** repeated gaming creates fast reading and fantasy diction; Momoi calls it refined, Midori still unnatural. Natural school-speech competence is not independently demonstrated.
+- **Weapon/tour:** Momoi names a weapon as the remaining task and offers a Millennium tour; neither acquisition nor tour occurs. Factory provenance and `G.Bible` remain unresolved.
+
+## V002 C001 E007 institutional delta — prototype allocation and qualification
+
+- **Engineering Club:** directly visited; Midori describes Millennium `マイスター` hardware specialists. Utaha offers available prototypes, Hibiki assesses novice fit, Kotori supplies project/budget explanation. Their space-battleship/railgun plan is suspended on reported cost, roughly 70% of the half-year budget for the prototype; no budget record is independently audited.
+- **Railgun:** `光の剣：スーパーノヴァ`, described as a space-battleship live-round prototype, reportedly over 140 kg with recoil over 200 kg. Alice lifts and fires it, damaging the ceiling. Utaha later permits gift and requests handles/strap; safe use/repair remain open.
+- **Qualification:** Utaha calls a drone/robot test `資格` only after her initial take-any-prototype offer. Scene 3 confirms a passing outcome but not tactics or prior informed agreement. These devices were previously requested for disposal; no ruins-robot identity is shown.
+- **Alice's body:** Utaha estimates ton-class grip and infers nanomachine repair/combat design. These remain engineer hypotheses, not proven origin. Formal school/club standing and Veritas roster provenance stay unverified.
+
+## V002 C001 E008 institutional delta — claimed member versus reviewed member
+
+- **Club survival:** Momoi reports a fourth member and assumes abolition is averted; Midori and Yuuka establish that a scheduled review still conditions recognition. No survival decision is represented.
+- **Yuuka's criterion:** she says a member counts if Alice came voluntarily and that club rules recently changed from self-report toward stricter confirmation. This is a council actor's procedural account; no regulation text, effective date or independent enforcement record is shown.
+- **Alice's proposed school identity:** first-year, recent transfer, missed course applications, classes next month and present club eligibility are rehearsed claims. The E006 card is physically present in prior evidence, but current lawful enrollment, course exception and Veritas action remain unverified.
+- **Separate qualifications:** E004's unknown factory gate, E007's engineering weapon test and E008's club-member review do not share an established legal or technical authority.
+- **Pending outcome:** Yuuka has only announced simple questions after a `取り調べ` slip. No substantive answer, registry audit, admission certification or dissolution is in this unit.
+
+## V002 C001 E009 institutional delta — actual recognition, renewed output gate
+
+- **Register:** Yuuka says she personally confirmed Alice's name on the student roll, adding an independent observation to E006's Momoi claim. The method, lawfulness, school-transfer history and Alice's informed approval are still unverified.
+- **Club standing/resources:** Yuuka formally recognizes the four-member Game Development Club and permits club budget/room through `今学期`. This is an actual local decision, not merely Momoi's E008 optimism.
+- **Two-part rule:** Yuuka says member count and demonstrated output are now required; the newly changed rule has a grace period until this month's end. Four or four hundred members do not avert dissolution without results. Rule text/effective date and precise calendar remain unseen; E002's two-week reprieve is not given an invented date reconciliation.
+- **Notice:** Yuuka says the requirement was explained at a club-heads meeting, which Yuzu missed. Yuzu apologizes for absence, but the meeting's record and the corrupted stand-in/item-drop explanation cannot establish exact responsibility or motive.
+- **Prize/ruins:** Yuuka invokes Momoi's Millennium Prize promise; the club independently resolves to seek `G.Bible` again, with Yuzu volunteering. No expedition or discovery occurs here, and no source verifies the object's promised creative efficacy.
+
+## V002 C001 E010 institutional delta — renewed ruins entry, unresolved object
+
+- **Expedition:** the club, Yuzu and Sensei are directly in the ruins under robot attack. E009's announced return is now real; this is not evidence of school authorization or Yuuka knowing the site risk.
+- **Robots:** first wave approaches, Alice fires and the group marks a successful strike; a second wave follows. Total numbers, maker, command, intentions and exact casualties remain unverified.
+- **Factory/G.Bible:** a label-corrupt tactical speaker claims the reported `G.Bible` coordinates point to the factory, and that battle noise will draw more robots. E003's last-operation coordinate and E004's discovered factory do not independently prove current object location or a robot sensor mechanism.
+- **Club authority:** opposing retreat/breakthrough advice is represented, but exact individual authorship is unavailable. Midori securely asks Sensei to command the impending fight after affirmative participation; no battle outcome or factory access occurs within E010.
+- **Output gate:** Yuuka's month-end results requirement remains the club's motive; neither the potential object nor a game/prize result is obtained here.
+
+## V002 C001 E011 institutional delta — `Divi:Sion` terminal and locked transfer
+
+- **Factory:** the group reaches its interior. A powered interface identifies itself as `Divi:Sion System`; Midori wonders whether that is the factory's name, but ownership, purpose and building name remain unverified.
+- **Alice credential:** the terminal asks whether she is `AL-1S`, then claims voice-recognized `資格` and welcomes her back. Its classification/data source is unknown; the prompt/recognition materially link her to the system without revealing creator or legitimate access authority.
+- **`G.Bible`:** terminal catalog strings include `遊戯`, `人間、理解`, library 193 and disposal-data item 1. It claims `G.Bible` is inside, initiates transfer to Momoi's handheld memory card, reports deletion of existing data, and displays `<G.Bible.exe>` after completion. Contents and authorship remain unread; execution is password-blocked. Veritas unlock is only Midori's expectation.
+- **Resource consent:** Momoi provides storage but objects when told existing saves will be deleted; the system proceeds under its power countdown. Do not assume prior opt-in, independent file audit, or recovered saves.
+- **Security/escape:** a robot appears, emits opaque output and fires. Momoi allocates Yuzu to protect Sensei and herself/Alice to the rear, with Midori supporting. No safe exit, surviving carrier or prize-worthy product is shown.
+
+## V002 C001 E012 institutional delta — forensic claim and seized-goods security
+
+- **Veritas assessment:** Hare says Momoi's lost saves cannot be restored. Maki infers original `G.Bible` from dates, format, IP match and one prior transfer trace, yet cannot read the passworded file. Independent authorship, contents and utility remain unverified.
+- **Mirror:** Maki proposes `Optimus Mirror System` to copy the file while removing a security file; Veritas says Himari made the unique tool, which Yuuka confiscated. Proposal, claimed authorship and seizure are not proof of technical success, harmlessness, lawful use or transfer of ownership.
+- **Privacy/governance:** Kotama admits interest in Sensei's phone messages; Yuuka's rule against equipment with unlawful uses and Hare's minimized risk description conflict as appraisals. Do not neutralize the privacy implication by calling Mirror only a game-development instrument.
+- **Student council/C&C:** Mirror is said to be held in the council's seized-goods storage, guarded by C&C. Yuuka commissions Akane to prevent club access until a specified time, on a warning attributed to Himari. The exact plan and authority for an attempted retrieval remain open.
+- **Nel/defense:** Nel is away, confirmed by Akane, but her destructive specialty means her absence does not establish weaker store defense. The claimed “opening” is contested before combat.
+- **Coalition:** Veritas, game club and Engineering Club agree to cooperate, with Sensei recruited for a social link; Hare says preparations/operation have begun. No seizure, fight, file unlock or game result occurs in this unit.
+
+## V002 C001 E013 institutional delta — spoofed repair and shutter capture
+
+- **Seminar tower baseline:** Hare says Mirror is in the top-floor western seized-goods store, reachable only by a fingerprint elevator. Maki estimates about 400 cameras/50 guards plus seized combat robots; Utaha gives design-derived 442 cameras/52 guards in three classes. These are planning reports, not a full live inventory.
+- **Segmentation:** Hare describes escalating shutters after unregistered print/impact and fingerprint-plus-iris release for the second barrier. Hibiki forecasts an external-power/mini-EMP opening of about six seconds. The exact EMP execution and complete camera/robot defeat are not shown.
+- **Repair trap:** Alice breaks the elevator door and is detained. Yuuka avoids overt Engineering Club repair, but a Trojan insertion is reported and Momoi later calls the replacement a disguised engineer product. Observed approval of Momoi/Midori/Sensei and rejection of Akane/Noah support compromised access, not genuine authorization or permanent control.
+- **Camera split:** Yuuka's feed shows recorded Momoi/Midori while Akane actually meets Maki/Kotori; cloud disconnection/reset reveals them. Momoi's description and defender correction corroborate spoofing, though exact exploit path is unseen.
+- **Confinement:** Akane is trapped behind second shutter; operator says Noah and other council members are trapped and Noah's print fails. Momoi's belief all officers are isolated is unverified. This is a security-function inversion with unassessed safety and emergency-egress implications.
+- **Residual defense:** Asuna is unlocated/offline; anonymous `Call Sign 02` claims the club is in range. No sender identity or combat result is available, and Mirror has not been obtained.
+
+## V002 C001 E014 institutional delta — layered counterdefense
+
+- **Karin:** directly occupies the third-school-building roof and fires at the moving club, with wall damage and repeated shots. Midori identifies a 13.97 mm anti-materiel round. Exact hit geometry and future shots remain unverified.
+- **Engineering cover:** Utaha deploys the all-weather bipedal `雷の玉座`; Karin says a shot fails to penetrate but it falls. Curved fire follows, which Utaha credits to Hibiki across the tower. Club reports the sniping stops, not that Karin is defeated or the chair remains functional.
+- **Akane/shutters:** Akane uses explosives to destroy the second shutter, directly ending her E013 confinement. She reports reluctance to damage school facilities, then proceeds toward the seized store. Earlier attacker control did not permanently contain C&C.
+- **Outage/EMP:** Akane loses Yuuka contact and suspects power interruption; Momoi/Midori report darkness and infer their engineers' planned tactic succeeded. No on-page device activation, six-second measurement or tower-wide security state is supplied.
+- **Asuna/call signs:** Asuna waits at the store approach and directly names herself C&C `01`, resolving Akane's earlier `01` call. E013's anonymous `02` remains unassigned; Karin's nearby sniper role alone is not a sufficient explicit identification.
+- **Mirror:** the group is near the seized-goods store but Asuna begins confrontation before retrieval. No file bypass or Alice rescue is shown.
+
+## V002 C001 E015 institutional delta — retasked reserves and contest-ending discipline
+
+- **Seized robots:** Yuuka orders all confiscated robots reprogrammed to obey C&C, abandoning a contemplated cleaning reuse during the emergency. Maki reports many approaching, while Yuuka later estimates nearly half disabled by one beam. Neither number is an independent exact inventory.
+- **Defense convergence:** Asuna engages the twins and admires their coordination; Karin's fire returns after Utaha's diversion by Midori's appraisal/Hare's capture report; Akane has escaped shutter confinement and converges with robots. E013's single exploit did not remove layered defense.
+- **Contingency:** a fifteen-minute-before flashback projects door lure, C&C containment, robot breach, Mirror at minute 13 and capture near minute 20; it is a planning schedule. The suggestion that not all need avoid capture is label-conflicted, and the full prearranged plan is not independently documented.
+- **Alice room/EMP:** Alice reads the power event and Hare's hacked-setting change as permission to manipulate electronic doors and escapes toward the store, then returns to companions. This confirms mobility/agency and planned cue awareness, not exact technical trace or prior consent details.
+- **Discipline:** Yuuka threatens unconditional one-week suspension or confinement, which Midori says would miss Millennium Prize, and a Schale complaint for Sensei. Threats are not final sanctions. Momoi's imagined mild `謹慎` fallback is exposed as ungrounded.
+- **Beam/result:** a beam from unlabeled firing narration, strongly associated with Alice's return/railgun, disables Asuna and nearly half the robots by Yuuka/Asuna reports. Akane prepares another fight; Mirror, file unlock and prize outcome remain absent. Rooftop Karin/Utaha voice corruption precludes person-specific motive claims.
+
+## V002 C001 E016 institutional delta — seizure breached, objective not reached
+
+- **Store/Mirror:** the group reaches the damaged seized-goods room; the early all-Alice-labeled discovery cluster has no secure finder. Yuzu's later question and Alice's answer confirm Alice physically holds `鏡`. This resolves retrieval/possession only, not removal from the building, authorization or a working `G.Bible` bypass.
+- **Nel/C&C:** Nel appears at the store despite E012's report that she was away. The return cause is not shown. Her near-discovery makes the store actively defended even after Alice's beam and the earlier system compromise.
+- **False emergency:** Yuzu presents herself as Seminar's `ユズキ` and claims seized robots are berserk while Akane/Karin contain them. This is a cover story to move Nel, not verified student-council membership or robot malfunction. The E015 robot retask remains the known prior account.
+- **Remaining route:** Yuzu warns of combat robots ahead, states Veritas room and `G.Bible` as destination and objective, and Midori calls for battle. The file is still locked/unread and extraction, sanction and contest outcome remain open.
+
+## V002 C001 E017 institutional delta — withdrawal and handoff
+
+- **C&C contract:** Nel says Rio, Millennium student council president, retracted the defense assignment on her return. This is Nel's report of operational withdrawal, not a seen written order or explained council rationale. Nel's Alice-test theory about Rio/Himari remains speculation; her own research order is separate from the assignment.
+- **Party return:** Alice, Momoi, Midori and Yuzu are in the clubroom after E016. The exit battle route and each defender's final condition are omitted; return is shown, not a blow-by-blow victory.
+- **Mirror / file:** Maki reports returning Mirror to Seminar and says `G.Bible` is opened; executable readiness and Alice's launch are shown. The password barrier is crossed locally, but exact method and file contents are not displayed in this unit. The E016 possession state is no longer the current reported custody.
+- **`<Key>` folder:** Maki finds it while opening Bible; apparently intact, it resists her familiar machine-language decoding. Its proximity to the repeated `AL-1S` question does not prove identity, authorship or function.
+- **Club standing:** Momoi fears `廃部` after viewing the file, but no council judgment, enacted week suspension, prize result, Yuzu dorm transfer or Schale placement is shown.
+
+## V002 C001 E018 institutional delta — open Bible without a production procedure
+
+- **Bible:** the executable displays `ゲームを愛しなさい` as its lone secret and repeats it after a built-in error-suspicion button; it asserts no error. Midori says transfer information, size and structure show no damage/alteration. Neither the program nor her local check establishes a universal winning method, hidden authorship or independent full-file audit.
+- **Creative record:** Yuzu says her prototype received more than four figures' worth of negative comments; the six-month-earlier flashback depicts several abusive remarks, then Momoi/Midori's positive visit. She reports the completed game later ranked first on a bad-game list. These are depicted/reported reception, not audited sales or objective quality scores.
+- **Contest clock:** Alice reports six days, four hours and thirty-eight minutes until Millennium Prize. Momoi judges it enough and calls for `TSC2` development to begin. No completed game, submission, prize or renewal decision appears.
+- **Outstanding authority:** Yuuka's threatened sanction/Schale complaint, club output condition, Alice's school/home status and `<Key>` remain unresolved. The new project does not erase the earlier raid's costs.
+
+## V002 C001 E019 institutional delta — registration, web audience and damaged school
+
+- **Prize:** a system message confirms participation registration after the upload. Momoi/Midori expect results in three days; no prize, judging decision or club-renewal ruling is shown.
+- **Public release:** Momoi separately uploads a web version. Visible comments mix pre-play derision, qualified anticipation and curiosity; they are not a representative post-play verdict. Momoi reports 2,000+ downloads and Midori reports major-portal coverage; treat both as in-scene reports, not audited readership.
+- **Armed interruption:** Midori identifies Karin's 13.97-mm fire at the clubroom; Alice gives a rough direction/range. Yuzu reports council people outside. Specific shooters' positions, chain of command and retaliation motive are not independently established by the reports alone.
+- **Collateral risk:** Momoi evacuates to protect Sensei and the room. Alice's explicit shot is said by Akane to remove a wall; her later floor shot collapses much of the old corridor floor. A voluntary Nel/Alice fight does not erase school-property harm or resolve safety/accountability.
+- **Medical/discipline:** Alice self-reports 48% damage, Sensei offers to carry her, and Nel stops pursuit. Karin's inferred infirmary route and Alice's immediate combat incapacity are not confirmed treatment or lasting diagnosis. Yuuka's sanctions/complaint and `<Key>` remain open.
+
+## V002 C001 E020 institutional delta — special recognition, temporary deferral
+
+- **Damage:** Yuzu says the broken-building matter was treated as an activity `事故` because C&C handled it. This is her report of administrative treatment, not a complete legal/repair ledger. Alice's body appears repaired to Midori; her fear remains.
+- **Prize field:** Kotori announces record applications and speculates on the policy cause, then says only seven ranked works win among three-digit entries. The club does not appear in the ranked seven; first place goes to the new-materials club. A judge subsequently establishes and grants a distinct `特別賞` to `TSC2` for an exceptional kind of `実用性`.
+- **Reception:** a scene-5 report gives 7,705 downloads/1,372 comments before the announcement, over 10,000 downloads after roughly 26 seconds and mixed sentiment classifications. Selected positive comments and reported buzz matter, but speaker labels and metric provenance limit precision and representativeness.
+- **Council standing:** Yuuka explicitly defers confiscation of the clubroom and dissolution until next term. She calls this `臨時の猶予`, not formal final recognition. Room-extension application and club-fund receipt processing remain to be done; neither permanent club security nor completed budget transfer follows.
+- **Residual oversight:** Yuuka apologizes for dismissing the machines and describes a changed personal appraisal. Earlier threatened week suspension/Schale complaint is not expressly adjudicated in this scene. `<Key>` and final `Divi:Sion`/`AL-1S` text remain unresolved and separate from council knowledge.
+
+## MAIN_V002_C001 checkpoint institutional reconciliation
+
+The Millennium results gate, Alice's voluntary-membership check, seized-tool security and C&C assignment are distinct institutional processes. The raid's tactical success does not legalize its means. `TSC2` receives an actual special prize rather than a ranked top-seven placing; Yuuka issues a **temporary** hold on room confiscation/dissolution until next term and calls for extension/fund processing. Earlier sanction/Schale-complaint threats, full damage repair and permanent status remain unadjudicated. `<Key>` and the final `Divi:Sion` text are not council findings. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) is the current chapter authority.
+
+## V002 C002 E001 institutional delta — secret test and coercive break
+
+- **Covert meeting:** Rio says her meeting with Himari is hidden from external notice and the database. The recordless condition is her assertion, not independently audited. Himari alleges a covert safehouse; Rio deflects rather than confirms it.
+- **Prior C&C operation:** Rio and Himari directly describe a joint test in which Himari supplied Mirror and Rio supplied C&C as a crisis to reveal Alice/`AL-1S`. This new retrospective participant testimony explains more than the C001 characters knew, but not every order, participant's informed purpose or the club's consent.
+- **Security force:** an `AMAS A`-labeled first-person detention threat is source-attribution suspect; Rio's later arrest order is secure. AMAS units stop after Himari's hack by Rio's internal appraisal; Himari appears to escape, then encounters an unidentified possible fifth C&C member. No detention outcome is shown.
+- **Alice classification:** shared research terms about priest/oopart/princess are claims by two researchers; opposed “weapon” and “junior” readings are not council findings or verified ontology. The club's special prize/temporary reprieve from C001 is not revoked in this unit.
+
+## V002 C002 E002 institutional delta — ordinary club activity, no new award
+
+- **Club continuity:** the group occupies its room for play and next-title brainstorming under the C001 special-prize/temporary-deferral baseline. A proposed slow-life dungeon RPG with fighting elements and a four-friend promise to pursue the next Millennium Prize are aspirations, not an entry, deliverable or council decision.
+- **Online match:** anomalous behavior is visible and called cheating by the players, but no platform adjudication, opponent identity or code audit appears. Yuzu's win is a game outcome, not an institutional anti-cheat finding.
+- **No covert transfer:** Sensei and the club are not told Rio/Himari's E001 operation or Alice classifications. E001's fifth-C&C encounter, council sanctions/paperwork and Alice origin remain open.
+
+## V002 C002 E003 institutional delta — local design process, not governance result
+
+- **Production constraints:** the club discusses dungeon architecture and roguelike variability. Midori reports a prior day of drawing detail largely unused; Alice enjoyed drawing. This is a situated account of effort and use, not a verified project-cost record.
+- **Dispute custom:** Yuzu says unresolved differences go to a game match whose winner's opinion is binding. Momoi/Midori begin `フルゼリー大戦`; the winner and design decision are absent. Game victory is a procedure, not institutional expertise or a completed plan.
+- **Inspiration task:** Yuzu sends Alice/Sensei to find ideas and narration shows campus exploration, but no delivered idea, next-prize submission or new council ruling appears. The temporary club reprieve and E001 covert classification remain unchanged.
+
+## V002 C002 E004 institutional delta — reported confidential C&C inquiry
+
+- **Rio/Gehenna:** Asuna says Rio requested inquiry into recent Gehenna developments; Karin treats it as secret per Akane. This is participant report/correction, not a shown written assignment or proof of a link to E001's Alice/Himari operation.
+- **Field questioning:** Asuna/Karin in ordinary student uniforms approach Kirara/Erika and ask about current Pandemonium leadership under prospective-transfer cover. Responses are confused/uncertain, so no verified leadership finding or successful intelligence return follows.
+- **Club/quest:** Alice/Sensei's idea search has reached Millennium outskirts but yields no completed design. A future Asuna/Karin party invitation is not a C&C membership change. Nel's interest/search is reported without a shown order, encounter or outcome.
+
+## V002 C002 E005 institutional delta — equipment affection and C&C duty limit
+
+- **Engineering:** Kotori/Utaha/Hibiki are replenishing equipment. Alice says her railgun/`光の剣` is working and precious; no inspection, repairs or certified safe operating condition are shown. Sensei's ceiling-damage line is printed inward, and the engineers' sacrifice remark is situated, not a blanket institutional permission.
+- **C&C duty:** Akane reminds Nel of a chairperson's mission notice and an agreed one-hour game limit, ending further arcade play. The notice's content, elapsed play time and relation to E004's Gehenna inquiry are unverified.
+- **Club creative work:** the publicly welcomed “adventure” ends without progress on Yuzu's idea quest. Sweet “rewards,” social affection and arcade bonding cannot be counted as a new game design, prize entry or council standing change.
+
+## V002 C002 E006 institutional delta — unexplained finds and contingent Schale role
+
+- **Veritas find:** narration counts five odd robots in the clubroom; Kotama says Millennium outskirts as site, Maki reports at least twenty more. Manufacturer, ownership and acquisition chain are not established. Their port/seam absence prevents even a fault diagnosis in the represented examination.
+- **Risk invitation:** Maki invites the game club partly for inspiration, while Veritas asks Sensei in case dangerous materials require Schale cooperation. Neither danger status nor formal Schale action is yet decided; Sensei says they cannot identify the objects.
+- **Activation:** machines move during Alice's state change; Kotama denies triggering them. `AL-1S`/`ATRAHASIS` speech is not a complete institutional incident report or proof of the E001 hypotheses. No evacuation, custody action, harm or governance ruling is shown.
+
+## V002 C002 E007 institutional delta — immediate containment, wider inventory open
+
+- **Incident:** Kotama reports an explosion as a clear attack; Alice protocol-state reload and Maki's temporary interruption follow. This is acute local danger, not an established manufacturer, chain of command, total device count or Alice culpability.
+- **C&C arrival:** Nel says she came after a loud noise, sees similar objects “here too,” and leads Akane/Karin/Asuna in local containment. Karin calls the operation complete. No written Rio order, E005 mission linkage, exact neutralized count or outskirts sweep is demonstrated.
+- **Damage/safety:** Nel sees the room badly damaged; Kotama/Maki appear functional enough to speak. Midori/Yuzu signal a Momoi emergency before any condition is printed. Prior clubroom reprieve is not revoked by a formal council act here, but material safety is compromised.
+
+## V002 C002 E008 institutional delta — infirmary, failed console check and Rio's promise
+
+- **Medical:** Momoi was brought to Schale's infirmary and remains unconscious after two days. No physician's diagnosis, prognosis, discharge or authorized treatment decision is printed.
+- **Forensic leads:** Hare suspects robot contact, Midori recalls Momoi's game console starting during Alice's change, and Sensei recalls ruins provenance. The console no longer powers on for Sensei; the `Divi:Sion`/`<Key>` link is an open question, not a completed technical finding.
+- **Club space:** Alice is staying shut inside the clubroom after the fire; Midori/Yuzu have repeatedly tried contact. Extent of damage, access status and permanent clubroom/council standing are not formally determined here.
+- **Council authority:** Rio appears in person as Millennium president and offers “truth.” This is not yet an official evidentiary hearing or a verified classification; her disclosure begins only after the E008 cutoff.
+
+## V002 C002 E009 institutional delta — surveillance failure and contested coercive authority
+
+- **Classification/incident:** Rio, speaking as Seminar president, labels Alice AL-1S/Divi:Sion commander and admits one robot escaped what she believed was complete C&C/AMAS tracking. This is a participant admission and interpretation, not a verified incident audit, origin registry or finding that Alice summoned every robot.
+- **Proposed remedy:** Rio says Alice's disappearance and halo destruction in a safe place are the only solution. No due process, independent technical test, alternative risk reduction or actual destruction is shown. Momoi's E008 medical condition receives no update.
+- **Command chain:** Rio calls C&C her direct agents and orders Nel to recover Alice. Nel rejects the assignment as kidnapping an uninformed same-school student. The institution's asserted command authority is thus not equivalent to unconditional compliance. `AMAS A`-labeled perimeter and recovery lines are role-corrupt; neither perimeter control nor AMAS independent will is verified.
+- **Contingency:** Rio says she anticipated Nel's refusal and summoned only her, then calls Toki. Toki identifies as C&C callsign zero four and ambushes Nel. Membership self-identification is direct; the earlier fifth-C&C encounter and outcome remain unconfirmed.
+
+## V002 C002 E010 institutional delta — effective local seizure without adjudication
+
+- **Toki equipment:** Rio authorizes unspecified special `武装` she says she made; Toki complies and restrains Nel after a visible clothing/appearance change and sudden reappearance. No detailed mechanism, permanent injury or complete capability measure is established. The `モード2` label is corrupt.
+- **AMAS control:** Rio orders Alice recovered and threatens Midori/Yuzu against movement. Final narration says AMAS suppressed “us” until Rio and Alice left, confirming local incapacitation, not the E009 claim of full surrounding-area control or impossibility of all rescue.
+- **Student status/adult mandate:** Rio argues Alice is not a living student in Sensei's care, calls attachment `エライザ効果` and weighs her against Kivotos students. There is no independent roster/ontology finding, formal hearing, proportionality review or consent process. Her categorical exclusion is a premise for action, not institutional fact.
+- **Club/material state:** Supernova's power goes out by Sensei's inward observation and Rio declares the sword absent; disabling method and permanence are unshown. Alice leaves, but no halo destruction, Momoi recovery, council ruling or club dissolution is shown.
+
+## V002 C002 E011 institutional delta — narrated abduction and emerging coalition
+
+- **Seizure status:** narration now calls Rio's taking of Alice `誘拐` and repeats her stated halo-destruction goal while Momoi was unconscious. This confirms coercive taking in the story's retrospective voice, not a completed halo act or a verified origin threat.
+- **Toki roster:** Akane reports that callsign-zero-four Toki belongs to C&C yet is dedicated to Rio, effectively a bodyguard; Akane had known of her but not met her. This is a participant institutional account, not a complete personnel record or E001 encounter identification.
+- **Medical:** Momoi reappears conscious and claims her body/strength are fine after sleep. No doctor, discharge record, objective injury assessment or exact route from Schale is printed.
+- **Prospective response:** Momoi calls for retrieval, Nel agrees and solicits Akane/Asuna/Karin. Akane and another printed C&C assent support coalition formation, but no operational plan, authorization, equipment or tactical outcome is shown before the next `作戦会議` card.
+
+## V002 C002 E012 institutional delta — Eridu records and task allocation
+
+- **Seminar investigation:** Noa reports inspecting deleted/concealed-looking database entries and tracking opaque budget flow; Yuuka says recovered records show Rio secretly built `エリドゥ`, a fortress city “for the end,” and alleges budget embezzlement. No amount, signed authorization, full audit or Koyuki mechanism is established. Akane's Koyuki connection is a question.
+- **Site lead:** Noa supplies Eridu coordinates; Yuuka says Alice is likely in its central tower. Live location is not directly observed. Yuuka/Noa say their positions allow help only this far and ask the coalition to stop Rio; Sensei explicitly agrees.
+- **Access hypothesis:** Engineering infers a freight train may have delivered construction materials and offers to find the line. This is conditional on material provenance; no route or entry is yet verified. Predicted anti-intruder defenses and Rio surveillance are risk models, not observed full specifications.
+- **Operational division:** C&C plans frontal diversion of Rio/Toki; club/Engineering/Sensei plan rear retrieval; Veritas promises remote defense hacking. The win condition is Alice's retrieval before coalition defeat. All are prospective assignments, not completed action.
+
+## V002 C002 E013 institutional delta — freight leg succeeds, perimeter not mastered
+
+- **Eridu facility:** source location names an internal central isolation facility. Himari says Rio confines Alice there and plans halo destruction; Rio says the factual description is not wrong. Her own liberty and the exact Alice cell/procedure remain unshown. Rio's `99.9999%`/`99%` forecasts are uncalibrated self-reports.
+- **Transport:** Utaha says the party arrived on an unmanned freight train, directly validating one E012 access hypothesis. Veritas is credited with hacking the train system; how much of the city system that covers is not established.
+- **Local security:** a drone appears. Hare reports suppressing it before exposure and hacking nearby network; this is a local participant account, not proof of full stealth or control over all Eridu monitoring. Kotama warns unseen surprises may remain.
+- **C&C diversion:** Asuna reports a thirtieth target, Karin says there are unexpectedly many, Akane judges the noisy diversion achieved, and Toki appears. The tactical objective of drawing attention has local support, but neither all-defense defeat nor Alice rescue follows.
+
+## V002 C002 E014 institutional delta — C&C command split, bounded local access
+
+- **Order and fracture:** Toki says Rio ordered her to suppress C&C for disobeying instructions. Akane/Karin/Asuna oppose her and Nel joins their front. Formal C&C roster membership does not entail uniform allegiance to Rio's Alice policy. Toki's quotation is a participant report of the order, not an independent command record.
+- **Security knowledge:** Toki knows Akane's specialty and identifies the delaying logic, but admits the frontal approach surprised her and incorrectly assumes Nel is with the rear. Her knowledge has tactical content and demonstrated limits; this does not map Rio's entire surveillance system.
+- **Rear access:** Hibiki reports every *obstructing* drone down, Momoi says the group reaches outside, and Hare calculates a main-street route to the probable central tower site. Neither all Eridu defenses neutralized nor Alice's live position/tower access is verified.
+
+## V002 C002 E015 institutional delta — movable fortress and disrupted communications
+
+- **City control:** Eridu's structures physically move and partition Nel from C&C. Toki says Rio granted the authority and the city doubles as anti-intruder fortress; this directly establishes a local reconfiguration capability, not unrestricted city control or Toki victory.
+- **Communications:** Veritas contact cuts after an unidentified voice addresses the team and Himari. Rio appears to the rear group immediately afterward, but the voice label and exact interception mechanism remain unverified.
+- **Ambush force:** Rio deploys Avant-Garde-kun against the rear party. Hibiki/Momoi appraise its firepower as high. No design specification, complete capacity, injury or terminal battle result is shown.
+- **Governance:** Rio's trolley analogy asserts one-sacrifice necessity without formal hearing, independent threat proof, alternatives assessment or Alice consent. The coercive institutional conflict remains unresolved.
+
+## V002 C002 E016 institutional delta — surveillance gap and Mirror cue
+
+- **Rio's control claim:** Rio says all potential threats were marked, yet Eimi arrives to aid Himari. This is a local counterexample to exhaustive threat registration, not a map of all Eridu defenses.
+- **Himari/Eimi chain:** Eimi calls Himari `部長` and helps her. Their exact club name, operational authority and rescue route are not specified in this source; do not import a roster.
+- **Veritas:** its own room location is explicit. Maki/Hare report network failure, and Hare identifies missing jamming preparation as a mistake. Exact source, duration and geographic scope of the disruption are not independently audited.
+- **Mirror/Chihiro:** a monitor announces `Optimus Mirror System`/`鏡` startup. Chihiro appears as Avant-Garde-kun slows. The sequence suggests intervention but does not identify the startup operator, prove link restoration or document the slow-down mechanism.
+
+## V002 C002 E017 institutional delta — fragile counter-control
+
+- **Mirror method:** Chihiro explicitly says she used Mirror to hack Eridu's network and remove Rio from that control path. Firewall response threatens the route, and Veritas is assigned maintenance. The claim is participant testimony backed by renewed navigation/weapon slowing, not proof of permanent city takeover or Rio's physical absence.
+- **Access:** Chihiro credits Himari's preparation and Sumire's help with the seized-device access. Maki/Utaha speculate the original confiscation itself was a planted contingency; its exact planning chain is not audited. `u:0020-0021` labels are corrupt.
+- **Engineering:** a remote speaker is deployed, followed by convergent local defeat reports for Avant-Garde-kun. Its extreme specifications are makers' claims; precise defeat mechanism and larger defense status are unknown. The trio cannot continue from reported exertion, not independently assessed injury.
+- **Handoff:** Chihiro navigates while the remaining party moves; Utaha gives Momoi an unnamed object for emergency use. No supply/device inventory entry or future use is inferred.
+
+## V002 C002 E018 institutional delta — exterior access, new gate weapon
+
+- **Front defense:** Toki's terrain-based partition no longer keeps Karin/Asuna from Nel. Rio reports Veritas took Avant-Garde-kun control and orders Toki to withdraw. This is a local command/asset setback, not all-Eridu-system defeat despite Rio's later “all defenses” wording.
+- **Tower lead:** Chihiro guides the rear to the central tower exterior and says Eridu power concentrates there. She infers a halo-destruction procedure would need comparable facilities; no live Alice sighting or apparatus audit confirms it.
+- **Mission revision:** Akane stops the diversion and C&C reunites with Sensei/club to retrieve Alice. This is a changed assignment after circumstances shift, not a completed extraction.
+- **Abi-Eshuh:** Rio authorizes a `パワードスーツシステム` she says was built for the Princess threat. Narration confirms activation and battle start. No loadout, capability, damage, legality, personhood finding or proportionality process is shown.
+
+## V002 C002 E019 institutional delta — suit resources and timed defense
+
+- **Abi-Eshuh:** Chihiro observes pre-arrival bullet interception and blind-side evasion, and infers Eridu-wide power/compute concentration. Exact allocation and precognition are not independently measured. Toki compensates for gravity in air, suffers a light hit by report and later detects possible machine damage.
+- **Contingency:** Rio says the suit was built for a coming world threat *and* C&C disobedience. This is her design account and distrust, not a finding that C&C's Alice-protective refusal is betrayal or that the larger threat scale is proven.
+- **Capture objective:** Rio orders Toki to recover Sensei; Chihiro cues Momoi, and Toki reports the target escaped. Exact escape device is unshown. Rio then orders no pursuit because they must hold the site until `刻限`; no deadline value or halo-procedure status is given.
+- **Medical/safety:** Nel is visibly wounded and downplays it. No doctor, injury grade, prognosis or full party casualty inventory appears; Yuzu's no-scratch line concerns Toki, not Nel.
+
+## V002 C002 E020 institutional delta — depleted force, emergent non-combat contribution
+
+- **Capacity inventory:** Engineering is out after Avant-Garde-kun; Veritas retains network access but limited remote support; C&C is at or near exhaustion. Chihiro calls the game club non-combat strength. These are situated operational appraisals, not total institutional capability records.
+- **Medical/safety:** Akane reports Nel initially unconscious; she wakes, with serious witnessed injury and self-reported arm/leg/nausea limitations. No clinician, treatment, evacuation or fitness assessment is shown. Her insistence on a rematch cannot itself settle duty of care.
+- **Technical defense:** Yuzu reports one transient connected hit. Chihiro hypothesizes that fall compensation competes with interception/evasion; no instrumented compute budget or replicated test. Karin doubts a repeated roof-drop will work, and Yuzu proposes a different `ハメ技` without sharing its steps.
+- **Alice governance:** the tower/deadline/halo condition remains unobserved; Rio's categorical dismissal and Toki's obedience do not provide a hearing on Alice's wishes or threat classification.
+
+## V002 C002 E021 institutional delta — cargo lift defeats local evasion
+
+- **Coalition decision and labor:** Yuzu's proposal adapts an earlier Momoi idea; Chihiro cautions that the compute theory is hypothetical, checks assent and navigates; C&C consents under Nel's leadership and fights. Sensei accepts the group decision. These are distinct authorship and execution roles.
+- **Tower infrastructure:** Chihiro hacks the central tower cargo elevator and orders acceleration to tenfold gravity. Rio identifies the intended evasion-system paralysis and Toki reports that effect. The exact measured acceleration/computation allocation is unverified; no broader Eridu shutdown or tower-entry result is shown.
+- **Abi-Eshuh/local outcome:** Rio authorizes a main cannon after an uneasy hunch, though she later calls her data forecast certain. Nel remains active after the shot and defeats Toki in the immediate exchange once evasion is paralyzed. Operator injuries, suit permanence and custody are not stated.
+- **Medical/consent:** Nel's earlier severe limits remain; she verbally does not compel C&C, Akane and Asuna assent, yet leader pressure and lack of clinical clearance persist. Rio's rebuke wrongly attributes the whole risk decision to Sensei.
+- **Alice governance:** neither the deadline nor Alice/halo condition is observed. Winning the guard fight does not decide Rio's threat classification or complete rescue.
+
+## V002 C002 E022 institutional delta — Eridu resources and attempted power response
+
+- **Guard-to-room access:** Rio says Toki's defeat exhausts her defensive hand; the club reaches the central tower top floor and Alice's powered room. Nel cannot move from numbness and delegates retrieval. No safe extraction, treatment or formal consent hearing occurs.
+- **Key/process:** communications break, Rio sees system/city change, Key claims AL-1S-linked Eridu resources, 10,000 exabytes, ATRAHASIS ark activation and follower summoning; Rio reports follower appearances. Treat figures, history and maximum effect as actor claims, while the activation/disruption is locally observed. Resource progress reaches a reported 99%, not completion.
+- **Competing safety controls:** Momoi suggests unplugging Alice; Key warns of irreversible personality damage. No independent diagnostic confirms the warning, but the group does not execute a simple disconnect in this unit. Rio proposes a fatal solo shutdown; it is a proposal, not the only proven intervention.
+- **Fortress backfire:** Rio says she assembled Millennium technology/power/resources in Eridu to avert world danger, then questions whether that concentration made the city the trigger. This is institutionally significant self-critique, with causality still provisional.
+- **Yuuka/Noa:** Yuuka orders a total power cut and Noa acts. The source stops before confirming shutdown, collateral effects or Alice safety; do not close the procedure.
+
+## V002 C002 E023 institutional delta — interrupted ark and layered perimeter
+
+- **Power control:** Key directly reports resource-acquisition failure and system shutdown after Yuuka/Noa's cut. This verifies immediate effect, not permanent Key removal, harmless collateral or Alice restoration.
+- **Outside capacity:** Noa says Seminar initially meant to give coordinates only; Yuuka extended aid. Engineering returned with modified Avant-Garde-kun Mk.2 and engages followers; Eimi/C&C are reported by Himari at tower entrance. Key revises its zero-force assumption and regroup order. Exact city-wide containment remains unshown.
+- **Budget/accountability:** Yuuka accuses Rio of misappropriating Seminar funds for Eridu and promises later reprimand. This is not a completed financial audit or formal sanction.
+- **Alice rescue apparatus:** Rio confirms dive equipment; Himari proposes analyzing Alice's mind, opening access and waking her, warning of priest activity. Rio warns entrants may never return. The “only Game Development Department and Sensei” statement occurs under suspect Rio labels and remains a plan claim, not exhaustive proof.
+- **Procedure state:** preparation completes but no entry, personhood recovery, protocol final defeat or medical outcome is printed.
+
+## V002 C002 E024 institutional delta — club evidence within a hazardous rescue
+
+- **Dive executed locally:** the club/Sensei reach Alice's mental space and obtain direct answers. No externally observed medical awakening, safe extraction protocol or technical closure is printed; the friends explicitly ask whether she woke.
+- **Game Development Department:** Momoi cites the `TSC2` special prize and continued club as evidence Alice helped make and sustain something valued. This does not change the C001 checkpoint's temporary council reprieve into permanent recognition or transfer all creative credit to Alice.
+- **Key/Eridu system:** Key shows city surveillance and asserts a programmed destructive function. Its local silence after Alice's chosen light does not prove deletion, neutralization of the ark threat or the safety of Supernova.
+- **Rio governance:** Rio's surprise challenges her forecast but does not resolve budget accountability, Alice custody, halo threat, school membership or a lawful risk process.
+
+## V002 C002 E025 institutional delta — containment, vacancy and ongoing club work
+
+- **Eridu:** narrator closes the immediate possible Millennium/Kivotos crisis; Himari undertakes closure of facilities and says much remains unsolved. Completed dismantling, Key state, technical audit and future safeguards are not certified.
+- **Seminar:** Rio announces resignation, disappears and leaves a bare apology. Yuuka reacts and Noa finds the message; there is no formal succession, budget audit, restitution, discipline or reconciliation on page.
+- **C&C:** Nel has been discharged from hospital, and “all C&C” celebration includes Toki after Rio's disappearance. Her attendance is social evidence, not proof of formal assignment or command restructuring; Nel's injury is not erased.
+- **Game Development Department:** members continue a study session for a newly proposed genre with Alice and Sensei. The C001 prize/temporary reprieve remains the last explicit council standing; no finished game or permanent institutional security follows from this scene.
+
+## MAIN V002 C002 checkpoint reconciliation — plural capacity and unfinished governance
+
+The [C002 checkpoint ``3, 6, 9](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) separates immediate Eridu crisis prevention from dismantling, budget inquiry, Rio succession/restitution and Alice's durable school security. Seminar, C&C, Veritas, Engineering, Himari/Eimi, Sensei and the club all contribute distinct capacities; no one institution's success closes the rest. Contextual side-source backfill at this complete arc boundary is **DEFER** pending a verified route/question.

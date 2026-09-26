@@ -4,7 +4,7 @@ artifact_id: "MT_ANALYTICAL_METHOD"
 artifact_type: "analytical_method"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -74,6 +74,8 @@ Later-published supplements may disclose earlier events while changing what a re
 ## 5. Full reading with selective close analysis
 
 Maintain a compact chapter/scene coverage map. Every admitted narrative unit must be accounted for; not every paragraph needs an evidence row. Use ordinary continuity summaries sparingly and give diagnostic material the space it needs.
+
+A separate opening synopsis should let a reader understand what happens across the present volume in connected prose without decoding the locator table. Compose it after the complete volume pass. For V02 onward, prepare a short, distinct account of developments through the last closed volume before inspecting the next source. That prior-volume account records the inherited narrative situation and open tensions, while the entering freeze preserves the separately timed analytical state and prospective questions. Neither account supplies evidence for an unread unit or replaces the complete coverage map and diagnostic close reading. The [volume template](MT_VOLUME_READING_TEMPLATE.md) implements these reader-facing sections.
 
 A close-reading selection should include both hypothesis-relevant scenes and scenes chosen because they are central to the volume's literary construction. This prevents a controversy search from masquerading as reading the novel. Record significant negative or disconfirming cases, mundane interaction, and events not centered on Rudeus.
 

@@ -3,7 +3,7 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_method
 scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, mini, MomoTalk, character/profile/contextual dialogue'
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 source_boundary: Promoted Blue Archive V1 Japanese canonical corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86, with HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e as independent reference; canonical and derived builds passed blocking audits
 supersedes: []
@@ -552,6 +552,8 @@ For each material event record, where the source permits:
 ```yaml
 character: null
 change_types: []
+reconstruction_effect: []
+related_rule_or_candidate_refs: []
 perceived_problem: null
 knowledge_and_uncertainty: []
 salient_attention: []
@@ -571,9 +573,30 @@ counterevidence: []
 uncertainties: []
 ```
 
+`reconstruction_effect` distinguishes `CREATES_CANDIDATE_RULE`, `STRENGTHENS_RULE`, `NARROWS_RULE`, `CONTRADICTS_RULE`, `CHANGES_STATE`, and `CONTEXTUAL_REPERTOIRE_ONLY`; several may apply. Link an existing rule ID when one exists, otherwise the source-facing observation/candidate route. Do not fabricate a model or rule ID merely to fill this field.
+
 Do not invent unrepresented interiority to complete the fields. Separate observable conduct from appraisal hypotheses, preserve alternatives, and distinguish a state or context delta from durable disposition change. If the unit supplies no discriminating evidence, record `NO_MATERIAL_RECONSTRUCTION_DELTA` rather than manufacturing a row.
 
 The detailed rule, state, readiness, scenario, and validation contracts are governed by `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`. Sequential deltas are evidence-routing inputs to later modeling; they are not themselves permission for hypothetical generation.
+
+## 10.5 Reconstruction responsibility at every future chapter checkpoint
+
+For the forthcoming Chapters 3–8 sequential run and later chapters, each natural checkpoint must answer: **What changed about our ability to reconstruct these characters, beyond what changed in our literary interpretation?** Follow the canonical crosswalk order and boundary IDs; this planning label does not authorize jumping to an absent Volume 1 Chapter 3 or equate publication order with narrative time.
+
+Use a compact table or connected prose covering:
+
+- newly observed contexts and what remains unsampled;
+- material state transitions versus contextual repertoire or newly revealed history;
+- candidate/rule mechanisms created, strengthened, narrowed, or contradicted, with evidence and counterevidence routes;
+- directed relationship, institutional, and public/private conditions;
+- ordinary-life controls, written-register variation, and new evidence-backed negative constraints;
+- outcomes of previously frozen expectations, including `NO_DIAGNOSTIC_OPPORTUNITY` and failures, linked to the unchanged freeze;
+- readiness by domain before and after, with explicit increases, decreases, or `NO MATERIAL READINESS CHANGE`;
+- the next missing evidence and whether contextual backfill remains `DEFER`.
+
+Update only affected cumulative ledger entries and coverage rows. The character ledger owns state/mechanism observations, relationship ledger owns directed conditions, institution ledger owns mandate/material constraints, Sensei ledger owns invariants/ethics, voice ledger owns attested speech, motif ledger owns literary recurrence, and claim ledger owns interpretive revisions. The coverage index owns readiness; validation records own frozen tests and outcomes. No new model is required at a checkpoint. Historical C001/C002 readings and checkpoints remain unchanged by this prospective capture contract.
+
+If an expectation was not frozen before exposure, label any later comparison retrospective. If a chapter supplies no fair opportunity, do not manufacture a validation result. A detected failure can lower readiness without making the literary reading unsuccessful.
 
 ---
 
