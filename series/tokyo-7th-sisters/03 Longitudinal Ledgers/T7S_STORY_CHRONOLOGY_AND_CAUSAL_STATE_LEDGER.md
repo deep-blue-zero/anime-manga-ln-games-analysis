@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.46"
+version: "11.47"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 172 complete i-n-g primary documents / T7S_B0080–T7S_B0145; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 175 complete i-n-g primary documents / T7S_B0080–T7S_B0146; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 587`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 654`; `last_closed_block = T7S_B0145`. The admitted horizon contains 407 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 172 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 595`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 665`; `last_closed_block = T7S_B0146`. The admitted horizon contains 410 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 175 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2050,3 +2050,34 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.47. [B0145](../02%20Readings/
 | `EDGE-0661` | `LIVELIER_LIVE_TO_UNFINISHED_SEARCH` | Coney explicitly extends identity search beyond `EV-B0145-008`. |
 
 `T7S_B0145_CLOSE-20260926`: eight chapter events and thirteen bounded edges; submitted resignation, offered help and improved represented response are distinct from formal office, implemented labor redistribution and heard song quality.
+
+## B0146 Rona passes on courage without requiring identity-copying
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.48. [B0146](../02%20Readings/T7S_B0146_DEEP_READING.md) owns the A/B/C locator key. B0004/B0108 are bounded comparison horizons for Rona's imitation and stage fear, not total fictional dating. The girl's repeated letter, VIVADO attendance, lessons, park reunion and event report support chapter-local `IDENTITY-0096`, distinct from B0138's unnamed child; generic art supplies no identifying likeness.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0146-001` | At a Nanastar live Rona thanks fans before a solo; a girl watches; peers later praise Rona, who says she has private plans. | A:P2–55; `KNOW-0363`. Song/voice technique unauditioned; no authorized private photograph. |
+| `EV-B0146-002` | Rona explains girl who visits VIVADO and watched earlier lives asked to sing like her; she accepted two-person lessons and prevents Coney intruding. | A:P55–62; B:P1–20; `KNOW-0364`. Girl's precise age/name and private family context unknown. |
+| `EV-B0146-003` | Coney proposes mall amateur event conditional on Rona/girl assent; Rona coaches with Musubi/Haru aid, Coney plan and Player office-work absorption. | B:P21–94; `KNOW-0365`. Girl's initial event assent not on page; one-week idol formula is Coney's joke. |
+| `EV-B0146-004` | Girl withdraws from scheduled stage from fear and copy/magic belief; Rona reports cancellation, then brings two costumes toward park. | B:P95–107; C:P1–41; `KNOW-0366`. Her withdrawal remains a choice, not proof of Rona's coaching failure. |
+| `EV-B0146-005` | At park Rona recounts nearly fleeing, then says she wanted to be Nicole but cannot be Nicole and girl need not copy Rona. | C:P42–75; `KNOW-0367`. Inspiration is retained; no permanent fearlessness. |
+| `EV-B0146-006` | Rona starts a spontaneous public live battle; girl first sounds surprised, then participates and later wants another stage try. | C:P76–107; `KNOW-0368`. Explicit yes before start, minor/venue safeguards and performed audio not documented. |
+| `EV-B0146-007` | Later amateur event is reported successful; Coney's scout offer is refused because girl's family plans overseas relocation. | C:P108–120; `KNOW-0369`. No on-page contest song, destination, completed move or Nanastar membership. |
+| `EV-B0146-008` | Rona credits Nicole and peers for her dream, then chooses a larger aim: give many people courage through lives. | C:P119–144; `KNOW-0370`. Future reach and doughnut/running joke not verified. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0662` | `RONA_STAGE_TO_GIRL_ASPIRATION` | Girl's observed fandom/letter in `EV-B0146-001`–`002` links Rona's stage to aspiration, not her whole private identity. |
+| `EDGE-0663` | `PRIVATE_REQUEST_TO_TWO_PERSON_LESSONS` | Rona honors girl's specified meeting boundary in `EV-B0146-002`; no blanket secrecy duty. |
+| `EDGE-0664` | `COACHING_REQUEST_TO_CONDITIONAL_EVENT_PLAN` | Coney proposes mall event in `EV-B0146-003`; child assent at proposal not recorded. |
+| `EDGE-0665` | `PEER_RESOURCES_TO_PREPARATION` | Musubi/Haru/Coney/Player support the lessons in `EV-B0146-003`; no one-week guaranteed transformation. |
+| `EDGE-0666` | `EVENT_APPROACH_TO_FEAR_WITHDRAWAL` | Girl stops initial contest in `EV-B0146-004`; not proof of poor coaching. |
+| `EDGE-0667` | `SHARED_FEAR_TO_NONCOPYING_COUNSEL` | Rona's own flight/Nicole history in `EV-B0146-005` addresses fear without erasing it. |
+| `EDGE-0668` | `COUNSEL_TO_UNPLANNED_PARK_PERFORMANCE` | Rona invites/starts `EV-B0146-006`; pre-start explicit assent/safeguards absent. |
+| `EDGE-0669` | `PARK_PARTICIPATION_TO_RENEWED_CHOICE` | Girl says she wants another stage try after performing in `EV-B0146-006`; no general fear cure. |
+| `EDGE-0670` | `RENEWED_CHOICE_TO_CONTEST_REPORT` | Later event in `EV-B0146-007` is reported, not shown as technical song. |
+| `EDGE-0671` | `SCOUT_OFFER_TO_NONRECRUITMENT` | Girl/family move premise yields refused offer in `EV-B0146-007`; no new member. |
+| `EDGE-0672` | `MENTORING_TO_RONA_NEW_AMBITION` | Girl's aspiration helps Rona state future courage-giving goal in `EV-B0146-008`; future reach unmeasured. |
+
+`T7S_B0146_CLOSE-20260926`: eight chapter events and eleven bounded edges; the original withdrawal, park performance, later contest and refused recruitment remain distinct.

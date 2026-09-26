@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.46"
+version: "11.47"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 172 complete i-n-g primary documents / T7S_B0080–T7S_B0145; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 175 complete i-n-g primary documents / T7S_B0080–T7S_B0146; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 362`; `directional_relationship_states = 564`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0145, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 96`; `character_states = 78`; `epistemic_states = 370`; `directional_relationship_states = 572`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0146, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3162,3 +3162,47 @@ The [B0145](../02%20Readings/T7S_B0145_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0564` | Musubi → idol-club president, **contested diagnosis and newly noticed fan** | Disputes critique, learns she had cheered and interacts with her at later live. C:P1–40,133–147. Reciprocal `REL-0563`; no explicit reconciliation scene or formal council outcome. |
 
 `T7S_B0145_CLOSE-20260926`: eight actor-local knowledge records, five directional relationship pairs and existing-actor/unit annotations; no new stable identity or institution route.
+
+## B0146 Rona, chapter-local trainee and nonrecruitment
+
+The [B0146](../02%20Readings/T7S_B0146_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.48, binds these updates. Existing Rona `IDENTITY-0008`/`CHAR-0008`, Haru `IDENTITY-0004`/`CHAR-0004`, Musubi `IDENTITY-0006`/`CHAR-0006`, Kajika `IDENTITY-0023`/`CHAR-0020`, Momoka `IDENTITY-0015`/`CHAR-0012`, Player `CHAR-0001`, Coney `CHAR-0003` and Nanastar `UNIT-0002` remain distinct from new chapter-local trainee `IDENTITY-0096`/`CHAR-0078`. Her generic `adv_chara_023_01` is not a personal portrait or identity with another unnamed girl.
+
+| ID / local subject | Literal source identity and bounded route | Confidence, evidence, and unresolved obligation |
+| --- | --- | --- |
+| `IDENTITY-0096` / `rona-trainee-girl` | Literal `女の子`; VIVADO visitor and fan who sends Rona a letter, receives repeated lessons, retreats before the amateur event, meets Rona in park, performs and later is reported at the contest. | High for this chapter-local continuity; A:P15,55–62; B:P6–19,50–56,95–107; C:P1–107,108–120. No name, age, exact likeness, equivalence to B0138 child, relocation destination/date or later career. |
+
+| Existing/new stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0008` / Rona | Receives girl's admiration, honors requested two-person lessons, coaches with peers, initially self-blames after withdrawal, explains her Nicole aspiration without copy demand, leads park duet and names broader courage-giving goal. | A:P2–62; B:P1–107; C:P1–144. No permanent fearlessness, universal coaching formula or verified later reach. |
+| `CHAR-0078` / trainee girl | Watches Rona's earlier and current lives, asks to sing like her, trains, withdraws for fear, joins park performance, says she wants another attempt, reportedly succeeds at contest and declines recruitment due to family move. | A:P15,55–62; B:P6–19,50–56,95–107; C:P1–120. No name, exact age, individual portrait, completed relocation, Nanastar membership or guaranteed career. |
+| `CHAR-0003` / Coney | Respects Rona's refusal to bring managers to private lesson, proposes conditional amateur event, plans/coaches, later scouts and accepts refusal, praises Rona's new ambition. | A:P33–54; B:P1–35,72–84; C:P108–139. Her one-week/doughnut remarks are jokes, not policy; child assent/safeguards unshown. |
+| `CHAR-0001` / Player | Watches Rona's development, permits costume loan, absorbs Coney's office work, discovers park performance, praises later girl/mentor and affirms Rona's goal. | A:P20–31; B:P36–40,63–86; C:P82–143. No formal permit, listened song assessment or workload audit. |
+| `CHAR-0006` / Musubi | Worries about Rona, helps teach difficult choreography and recognizes her renewed resolve. | A:P55–56; B:P59–60,91–104; C:P14–37. Does not speak for girl's consent or future career. |
+| `CHAR-0004` / Haru | Praises Rona, offers available Nanastar costume with Player permission and worries after withdrawal. | A:P22–23; B:P63–67,94–99; C:P15,31–35. Loan is not transfer of group membership. |
+| `CHAR-0020` / Kajika | Introduces Rona's solo and later notes Rona's stage uplift; joins concern when Rona leaves with costumes. | A:P3,23,38–48; C:P17–29. No coaching or event-arrangement role documented. |
+| `CHAR-0012` / Momoka | Teases Rona and jokes about how she would instruct a junior; later notices Rona's heavy schedule and offers comic cheer. | A:P25–54; B:P41–49,91–94; C:P16–19. No formal mentorship of girl. |
+| `UNIT-0002` / Nanastar | Supports solo stage, costume access and prospective amateur-event preparation, while girl's scout offer fails. | A:P2–29; B:P21–94; C:P108–120. No new unit/member, manager authorization for guerrilla show or child-performer protocol shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0363` | Rona knows fan response; peers call recent stage work bright; she says later commitment is private and rejects photo joke. | A:P2–55. Performed song quality unauditioned. |
+| `KNOW-0364` | Rona knows girl's letter, VIVADO/fan history and request for two-person lessons; others hear limited explanation, not girl's entire private life. | A:P55–62; B:P1–20. Exact girl identity/age unknown. |
+| `KNOW-0365` | Coney offers conditional amateur event; Rona/peers know lessons, costume and plan; Player sees Coney's other work deferred. | B:P21–94. Girl's initial assent/permit and actual coaching efficacy not independently measured. |
+| `KNOW-0366` | Girl voices fear and copy/magic belief to Rona; Rona tells group event canceled and blames herself; peers do not hear girl's full words directly. | B:P95–107; C:P1–41. Causal diagnosis not settled by Rona's self-blame. |
+| `KNOW-0367` | Rona discloses past wish to become Nicole and current recognition she cannot; girl hears she need not become Rona. | C:P42–75. No repudiation of Nicole's influence. |
+| `KNOW-0368` | Girl is surprised at park invitation, then participates; passersby/Player witness; afterward girl says she wants stage try and Rona offers costume. | C:P76–107. No explicit prior yes, permit, guardian consent or auditioned sound. |
+| `KNOW-0369` | Rona/Player/Coney say girl performed well at later contest; Coney reports scout refusal and pending overseas family move. | C:P108–120. Destination, relocation completion and future career unknown. |
+| `KNOW-0370` | Rona tells managers Nicole gave her dream, peers helped fulfill it and girl inspires a larger courage-giving aim; managers approve. | C:P119–144. Future audience impact unmeasured; doughnut plan comic. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0565` | Rona → trainee girl, **private mentor and noncopying invitation** | Honors two-person request, coaches, shares own fear/Nicole history, starts park duet and invites another try. A:P55–62; B:P1–94; C:P42–107. Reciprocal `REL-0566`; pre-start public assent/safeguards not shown. |
+| `REL-0566` | Trainee girl → Rona, **admiration, withdrawal and renewed choice** | Letter requests to be like Rona, later declines stage, joins park duet and asks to try again. B:P6–19,95–107; C:P1–107. Reciprocal `REL-0565`; she retains right to refuse recruitment. |
+| `REL-0567` | Coney → Rona, **event access and coaching support with scout interest** | Proposes conditional event, develops plan, later praises mentor while girl refuses scout offer. B:P21–35,72–84; C:P108–139. Reciprocal `REL-0568`; no compulsory recruitment. |
+| `REL-0568` | Rona → Coney, **boundary and collaboration** | Bars manager from private park meetings, accepts conditional event help and practices coaching with Coney. B:P1–35,72–84. Reciprocal `REL-0567`; no automatic scout permission. |
+| `REL-0569` | Haru → Rona, **costume and encouragement** | Praises stage/mentorship and offers girl outfit on Player approval. A:P22–23; B:P63–67,94–99. Reciprocal `REL-0570`; no adoption into Nanastar. |
+| `REL-0570` | Rona → Haru, **accepted material aid** | Receives outfit suggestion and agrees girl deserves a good stage. B:P63–67. Reciprocal `REL-0569`; later park public performance not preauthorized by loan. |
+| `REL-0571` | Musubi → Rona, **technical counsel and recognition** | Helps difficult choreography, notices after withdrawal Rona's purposeful departure. B:P59–60; C:P31–37. Reciprocal `REL-0572`; she does not know girl's internal result in advance. |
+| `REL-0572` | Rona → Musubi, **requesting experienced technique** | Asks how to teach choreography and hears suggestion. B:P59–60. Reciprocal `REL-0571`; not a transfer of formal trainee responsibility. |
+
+`T7S_B0146_CLOSE-20260926`: one new chapter-local identity, one bounded child character state, eight epistemic states, four directional relationship pairs and existing-actor/unit annotations; no recruited minor or inferred likeness.

@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.46"
+version: "11.47"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 172 complete i-n-g primary documents / T7S_B0080–T7S_B0145; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 175 complete i-n-g primary documents / T7S_B0080–T7S_B0146; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 674`; `revisions = 42`; `predictions = 7`; `AV_reviews = 92`; `literary_findings = 674`. Claims are bounded to their stated B0001 through B0145 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 66 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 679`; `revisions = 42`; `predictions = 7`; `AV_reviews = 93`; `literary_findings = 679`. Claims are bounded to their stated B0001 through B0146 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 67 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2220,3 +2220,27 @@ Owner and A/B/C locator key: [B0145](../02%20Readings/T7S_B0145_DEEP_READING.md)
 - Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred twenty dialogue-associated voice pages plus BGM/SFX and performed music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0145_CLOSE-20260926`: five bounded claims and one AV review; no formal office certification, executed workload redistribution, clinical inference, completed identity, specialist or monograph promotion.
+
+## B0146 noncopying inspiration, child choice and Rona's next horizon
+
+Owner and A/B/C locator key: [B0146](../02%20Readings/T7S_B0146_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.48. B0004/B0108 are bounded comparison horizons, not full i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0146-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Nicole's example enabled Rona and Rona's example enables girl, but Rona explicitly rejects exact Nicole/Rona copying as the goal. Inspiration passes on through difference. | B:P6–19; C:P55–75,119–127. Nicole influence remains affirmed. |
+| `CL-B0146-002` | `BOUNDED_INFERENCE`; D1; high for limit | Girl may withdraw from planned event and later choose to try again; park start precedes explicit affirmative assent, so subsequent participation and success do not erase consent/public-safety questions. | B:P95–107; C:P1–107. No guardian, permit or child-performance procedure shown. |
+| `CL-B0146-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Rona's courage message rests on many material supports—lessons, peers, costume, planning and office labor—and cannot be generalized into a courage-only or one-week transformation formula. | B:P21–94; C:P76–107. Coney's quick-plan assertion is comic. |
+| `CL-B0146-004` | `BOUNDED_INFERENCE`; D1; high | Later amateur appearance and rejected scout offer are distinct; family relocation is planned, but no move or future idol career is witnessed. | C:P108–120. Success does not create Nanastar membership. |
+| `CL-B0146-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Mentoring girl lets Rona name a new goal beyond having attained her Nicole-inspired debut: giving courage widely through future lives. | C:P119–144. Ambition is voiced, not quantified social effect or permanent confidence. |
+
+### AV-0093 — Rona's roles and the trainee's generic silhouette
+
+- Questions/claims: whether native images individualize girl, show consent/guardian/venue clearance, certify song quality, or document a new Nanastar member; `CL-B0146-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed music, child/venue safeguards and future outcome restrictions.
+- Selection: Rona stage `adv_chara_005_07_01`, ordinary `005_01_04` and park `005_01_01`; trainee generic `023_01`; Coney `002_07_01`; Haru stage `003_06_04`; Kajika stage `013_03_01`; Musubi school `004_01_05`. All 317 native pages and forty-four command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.48 binds eight media receipts.
+- Observed: Rona has scene-distinct stage and ordinary states; `023_01` is a generic pigtail line-art role icon, not a named/aged/unique portrait or link to B0138 child. No still certifies the park sound, consent process, permit or later contest song.
+- Native occurrence: command-only A:P0–1,16–19,63; B:P0,48–49,51,57–58,61–62,68–71,75,88–90,95,107; C:P0,6–7,9–10,27,38–41,79–81,104–107,140,144. Park music/slide states at C:P79–81,104–107 and later-report cut at C:P107 do not equal listened performances.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. One hundred ninety-five dialogue-associated voice pages plus title cues, BGM/SFX and actual performed music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0146_CLOSE-20260926`: five bounded claims and one AV review; no exact-copy mandate, child-care/venue clearance, new idol member, technical song certification, specialist or monograph promotion.
