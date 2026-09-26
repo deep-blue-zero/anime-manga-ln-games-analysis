@@ -32,7 +32,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Lycoris Recoil](../series/lycoris-recoil/) — `series/lycoris-recoil/`
 - [Maebashi Witches](../series/maebashi-witches/) — `series/maebashi-witches/`
 - [Monogatari Series](../series/monogatari-series/) — `series/monogatari-series/`
-- [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Japanese LN V01 closure published and audited; V02 fully inspected with retained locator map and synchronized six-ledger closure candidate, publication/audit separate. V03 remains unopened; ordered authorization ends at V15. V12 is present but individually unverified.
+- [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive.
 - [My Hero Academia](../series/my-hero-academia/) — `series/my-hero-academia/`
 - [NANA](../series/nana/) — `series/nana/`
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
