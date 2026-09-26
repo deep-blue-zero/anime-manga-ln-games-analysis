@@ -1,18 +1,18 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V08"
+title: "Rudeus — reconstruction evidence routes through V09"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "523625ec4a57b95dec7d5acbb217bae5cc7ba5d3"
-source_boundary: "Japanese LN V01–V08; preserved history with V08 revision 1.5; publication/audit separate."
+basis_commit: "210894fd2b5894b7e499bab80251e8f5ea761138"
+source_boundary: "Japanese LN through V09; preserved history and V09 revision 1.6; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
@@ -106,3 +106,21 @@ V08 references resolve in the [reading](../../02%20Sequential%20Readings/MT_V08_
 | 006/007 / V37 |022,026|N104; K082/089; no equivalent trigger, imagined judgment not new Ruijerd act. |
 
 New selectors ST21–26 map to shared S098–103. Prior test IDs V01–30 and earlier evidence routes are retained. No clean holdout or later-canon source is admitted.
+
+
+## V09 additions — revision 1.6
+
+[V09](../../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings) owns observations; the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns events.
+
+| Test / rule scope | Observation route and contrast | Limit |
+| --- | --- | --- |
+| RM-V38 / ordinary learning/rescue | V09: 002–005/015: adjusts expectations, accepts quiet request, helps unknown victim, relinquishes mediator decision. | 001/002/005/008 supported locally; no consent inferred from pupil compliance. |
+| RM-V39 / conditional threat | V09: 008/010: negotiated success followed by mask-triggered collapse and safety clarification. | 001/004 distinguish matchup knowledge from specific fear; no global courage/cowardice trait. |
+| RM-V40 / information exchange | V09: 011–013/016/018: contrary return goals negotiated, missing context supplied, methods withheld and uncertain lead transmitted. | 008 includes constrained exchange; correct uncertainty labels do not validate testimony. |
+| RM-V41 / autonomy contrast | V09: 009/017/019/024: third-party permission accepted, teacher threatened, Fitts secret protected and privacy offered. | 005 rejects uniform respect; particular gratitude/respect can enable real restraint. |
+| RM-V42 / recognition/disclosure | V09: 019/025–026: attraction precedes identity, recognizes old dependence, declares affection and explains illness. | 004/005/009: response to feared abandonment can include disclosure, not only withdrawal. |
+| RM-V43 / health/repair distinction | V09: 028–029/032: offered substance with incomplete information, acknowledged harm, local health claim and two morning accounts. | 004/005 bounded: immediate relief does not predict ethical reliability, complete repair or long-term cure. |
+| RM-V44 / ordinary differentiated company | V09: 015–020: classes, food, friend visit, work schedule, own-goal space and companionship beyond output. | 001/002/008 do not exhaust motive in status or treatment seeking; task failures retained. |
+| RM-V45 / absent exact triggers | V09 contains no counterpart of V03 trapped Eris-return flood or a new shared Ruijerd decision. | 006/007 UNTESTED; recollected influence cannot be scored as a new interaction. |
+
+New selectors: ST27 (S114), ST28 (S115), ST29 (S116), ST30 (S117), ST31 (S118), ST32 (S119), ST33 (S120). Prior test/evidence routes remain historical. No DOMAIN_READY or global registry change.

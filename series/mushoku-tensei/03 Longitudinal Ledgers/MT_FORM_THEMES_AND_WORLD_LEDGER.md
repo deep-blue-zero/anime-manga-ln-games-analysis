@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -237,3 +237,27 @@ Prior V01–V07 bodies remain historical and unchanged. Current source boundary:
 | `MT-W-017` NEW | Reported curse combines material constraint, represented illness, pleasure and speculative crystal explanation. | `005`; account does not establish full mechanism or erase agency. |
 
 The targeted V08 checkpoint leaves the V01–V05 cumulative argument historical and the required V10/V15 reviews pending. Existing ledger architecture remains adequate; no adaptation, reception or new external source lane is activated.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Stable record / disposition | V09 development | Observation / boundary |
+| --- | --- | --- |
+| `MT-F-001/003/014/016` STRENGTHEN |Opening Cliff, explicit Sylphiette, external correction, dream retrospect and Nina spectator each revise particular knowledge.|001/006/021–022/030–035; not automatic omniscience. |
+| `MT-F-012/013/017/018` REVISE |Gifts, service and useful care accompany recognition/recovery without certifying equality or complete repair.|016/021–029/032; pain and pleasure coexist. |
+| `MT-F-023` NEW |Repeated pattern: erroneous appraisal can coexist with useful behavioral correction.|001/018/035; practical outcome does not verify premise. |
+| `MT-F-024` NEW |Shared language simultaneously permits origin recognition and excludes a bystander from causal context.|011–014; translation changes appraisal, not proven cosmology. |
+| `MT-F-025` NEW |Staged rain interrupted by practical solutions; dual morning accounts distribute the costs of a romantic ending.|023–029/032; comedy/intimacy not independent consent evidence. |
+| `MT-F-026` NEW |Ordinary school-day rhythm makes resource limits, failed practice, teaching and competing duties visible.|015–018; technical study not effortless mastery. |
+| `MT-F-027` NEW |Late interlude revisits prior threshold; extra supplies another view of conditional victory and proleptic future.|030–035; record actual chronology and revelation order separately. |
+| `MT-W-001/005` REVISE |Prepared strike, aura failure, differing mana reserves and task-specific craft limits constrain power.|008/015–017/033; rank, raw impact and reliable victory distinct. |
+| `MT-W-015/017` REVISE |University accommodates powerful visitor; curse investigation gains unverified lead, not cure.|009/018; institutional usefulness not ethical absolution. |
+| `MT-W-018` NEW |Nanahoshi reports transfer rather than reincarnation, absent mana and unchanged aging.|011–012; embodiment testimony, no universal world rule established. |
+| `MT-W-019` NEW |Surviving circles, protected travel and unnamed specialist expand reported access.|012; no directly inspected circle, no foreknowledge identification. |
+| `MT-W-020` NEW |Experimental material/market limits and restricted explanation shape summoning research.|016; preliminary failures, no verified safety or successful return. |
+| `MT-W-021` NEW |Manufactured mana-powered artifacts contrasted with self-recharging limited-use magical items, with exceptions.|018; use source distinction, not universal engineering law. |
+| `MT-W-022` NEW |Sword Sanctuary practical doctrine challenges ritual prerequisites and awards rank by demonstrated outcome.|033–035; formal status does not certify every technique or moral restraint. |
+
+V09 requires the targeted disclosure/recovery checkpoint; the cumulative V01–V10 review remains due only after V10 reading. Existing six-ledger architecture suffices. No adaptation, WN, external science or reception lane is admitted.

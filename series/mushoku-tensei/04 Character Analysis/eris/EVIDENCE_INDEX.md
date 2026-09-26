@@ -1,18 +1,18 @@
 ---
-title: "Eris — reconstruction evidence routes through V06"
+title: "Eris — reconstruction evidence routes through V09"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "3dc6b173b044abdafc013dc989bd96914620d13d"
-source_boundary: "Japanese LN V01–V06; preserved history with V06 revision 1.2; publication/audit separate."
+basis_commit: "210894fd2b5894b7e499bab80251e8f5ea761138"
+source_boundary: "Japanese LN through V09; preserved history and V09 revision 1.3; publication/audit separate."
 ---
 
 # Eris evidence routes
@@ -54,3 +54,17 @@ V05 adds focalized interior access without making Rudeus's earlier readings omni
 New source-owned observations resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings): `003–004,014–016,018,020–025`. The [disclosure checkpoint](../../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) records changed knowledge premises. Operational tests `V10–13; states ST07–08/S070–072` are in the model's V06 section; its rule-specific rows give supporting observations and countercases. Earlier routes and tests remain historical, not a current evidence ceiling.
 
 The new source is read after the prior fixed rules, but selection and franchise familiarity prevent a clean holdout claim. Attributed claims, retrospective motives and current actions remain separate; no generated scenario enters evidence. All readiness stays BOUNDED_PROVISIONAL, with no global enrollment or mature monograph.
+
+
+## V09 additions — revision 1.3
+
+[V09](../../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings) owns observations; the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns events.
+
+| Test / rule scope | Observation route and contrast | Limit |
+| --- | --- | --- |
+| EM-V14 / practice continuity | V09: 033–034: arrival after chosen departure, current persistent training and goal. | 001 supports domain-specific effort despite defeat; two-year flashback not current age. |
+| EM-V15 / force and rank | V09: 033: unorthodox victories, continuing force, defeat by Gal and exceptional rank award. | 002 exact loyalty-defense trigger UNTESTED; proportionality remains a comparative concern. Rank is not every technique or general moral competence. |
+| EM-V16 / idealized companion | V09: 034: Rudy-oriented affection and insufficiency persist; Nina rivalry not initially shared. | 003/006 support specific appraisal/direct talk, not knowledge of Rudy rejection or repaired communication. |
+| EM-V17 / negative opportunity | V09: 035: Nina changes behavior after misreading public duel; no represented reciprocal peer repair by Eris. | 004 UNTESTED; narrated future rivalry cannot backfill a present event. |
+
+New selectors: ST09 (S130), ST10 (S130). Prior test/evidence routes remain historical. No DOMAIN_READY or global registry change.

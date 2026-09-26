@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -295,3 +295,42 @@ Prior V01–V07 bodies remain historical and unchanged. Current source boundary:
 **`MT-NC-041`:** N089/N104/N106/N108 compare actual interpersonal injury with correction of information, repaired property and public silence. C015 records the missing repair outcome; complaint constrained by fear cannot validate closure.
 
 These are explicit analyst criteria. No creator-intention, universal reception, diagnosis or generated sexual scenario is claimed.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Event | Conduct / power and information | Access, framing and warranted judgment | Observations |
+| --- | --- | --- | --- |
+| `MT-N-110` | Learner fears anger; Rudy adjusts expectation and values attempt. |Local pedagogical care; child ownership/fear remain. |002|
+| `MT-N-111` | Stops group beating before identifying Cliff; Cliff had initiated dispute. |Context matters, continued beating not automatically justified; useful intimidation does not cleanse its origins. |003|
+| `MT-N-112` | Mediation gives relevant information and relinquishes choice to pair. |Independent refusal and agreement matter; neither mediator nor gratitude owns outcome. |004–005|
+| `MT-N-113` | Seasonal challenge/custom and combat-based disposal claims. |Fitts explicitly denies ownership; practical institutional difficulty does not create consent. |007|
+| `MT-N-114` | Conditional duel followed by unpromised counterblow and institutional settlement. |Rudy's forgiveness is his response, not fulfilled promise or every person's repair. |008–009|
+| `MT-N-115` | Pursena offers another person's body; Rudy acts, Linia resists. |Third-party permission invalid; comedy and later affiliation do not erase intrusion. |009|
+| `MT-N-116` | Tentative causal claim triggers grief-driven attack without full context. |Missing information explains appraisal, not automatic license for violence; de-escalation not solved causation. |013|
+| `MT-N-117` | Child accommodated at meal but adult permission to drink and commands remain. |Selective care within ownership; conviviality not general safeguarding. |015|
+| `MT-N-118` | Broad research bargain narrows answers; helper's limits otherwise respected. |Asymmetric knowledge and safety question persist; companionship explicitly valued beyond labor. |016|
+| `MT-N-119` | Rudy opposes bullying/refuses invasive suggestion, then threatens teacher for private information. |Concrete privacy contrast, teacher refuses; no uniform autonomy rule. |017/019|
+| `MT-N-120` | Ariel releases debt yet uses guilt and royal-order threat to motivate. |Real friendship and pressure coexist; rhetorical understanding narrows threat without equalizing power. |021–023|
+| `MT-N-121` | Rain/need staged; childhood violation romantically reframed. |Planning creates real cold and conceals alternatives; later acceptance not prior informed agreement. |023/026|
+| `MT-N-122` | Rudy offers screen/exit; Sylphiette requests help and confesses. |Changed immediate choice conditions distinct from V01; mixed motives/equality question persist. |024–025|
+| `MT-N-123` | Illness disclosed, body blame corrected, informal address requested, service help optional. |Care can increase meaningful choice; illness not misconduct or partner's duty to cure. |026|
+| `MT-N-124` | Luke offers empathy then inaccurate body/taste explanation; friends fund support. |Good intention and generosity do not validate explanation or technique. |027|
+| `MT-N-125` | Treatment aim stated openly; specific drug nature/risk/dosage disclosure incomplete; both intoxicated. |Not secret dosing; prior intention/expressed willingness do not alone certify informed capacity for all acts. |028|
+| `MT-N-126` | Rudy acknowledges restraint failure/pain; Sylphiette reports pain and happiness. |Immediate recovery/affection genuine within source, no retrospective blanket consent or complete repair. |029/032|
+| `MT-N-127` | Nina lethal escalation, Eris continuing force/humiliation; combat doctrine and learning praised. |Technical evaluation not unlimited ethical permission; later improved practice not innocence of earlier intent. |033–035|
+
+| Comparison | Matched domain / salient difference | Bounded conclusion |
+| --- | --- | --- |
+| `MT-NC-042` | V01 forced exposure versus V09 privacy options/request; latter also staged. |Consent conditions changed; childhood romantic analogy does not settle either scene. |
+| `MT-NC-043` | Fitts's privacy protected versus teacher pressured and Linia touched on third-party permission. |Selective relationship-specific respect, not inability to understand refusal or reliable universal norm. |
+| `MT-NC-044` | Honest disagreement over return goal versus withheld technical/risk information. |Different purposes can be negotiated; cooperation does not certify informed exchange. |
+| `MT-NC-045` | Missing Japanese causal context versus Sylphiette possessing but incompletely relaying risk warning. |Unavailable information differs from disclosure responsibility after acquisition. |
+| `MT-NC-046` | Ariel's released debt versus continuing royal pressure; Sylphiette's later opt-out to Rudy. |Declared friendship, actual influence and available refusal require separate observation. |
+| `MT-NC-047` | Partial bodily response, failed first encounter and explicit closing recovery. |Health outcomes differ; none measures general ethics or validates every means. |
+| `MT-NC-048` | Rudy gratitude/recovery account versus Sylphiette pain/happiness/uncertain equality. |Two perspectives add affected-person access; no erasure by either preferred ending. |
+| `MT-NC-049` | Conditional duel/technical success versus Nina's productive overestimate; school settlement versus repair. |Practical benefit does not verify knowledge or supply ethical authorization. |
+
+Analytical criteria: autonomy, meaningful refusal, adequate information, proportionality and responsibility for effects. Source-internal countervoices/rules are retained, without equating their presence with consistent practice. No graphic reproduction, diagnosis, real-world treatment recommendation or unsourced reception claim.

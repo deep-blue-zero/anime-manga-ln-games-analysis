@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -247,3 +247,31 @@ Prior V01–V07 bodies remain historical and unchanged. Current source boundary:
 | `MT-R-133` Zanoba / Fitts → teacher and pupil | Challenge overloaded meal demands and supply a different view of the demands on her. | `030`; collaborative improvement remains within existing authority. |
 
 Fitts is retained as a source-attributed role/name, not newly asserted as a separate biological person or silently merged with Sylphiette. The identity arrangement remains a specific open question. C015 asks whether subsequent contact permits meaningful refusal and repair rather than merely continued interaction.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Event / direction | Initiation, refusal, information and costs | Observation / open limit |
+| --- | --- | --- |
+| `MT-R-134` Rudy → Cliff |Rescues before recognizing, accepts thanks, mediates then leaves pair to talk.|003–005; later liking not precondition of rescue. |
+| `MT-R-135` Cliff → Elinalise |Defends with poorly calibrated fight, proposes cure/marriage, accepts constraint and works.|003–005/018; promise not achieved cure or authority over her choices. |
+| `MT-R-136` Elinalise → Cliff/Rudy |States refusal/reason, requests privacy, later chooses relationship and manages conversation.|004–005/018; independent motive, future unknown. |
+| `MT-R-137` Fitts/Sylphiette → Rudy |Advises mediation, helps survival/research, desires recognition, reserves duty resources.|004/008/014–016; scene attribution confirmed where explicit, not every Fitts use. |
+| `MT-R-138` Rudy → Fitts/Sylphiette |Values presence beyond productivity, protects secret, offers privacy, recognizes/confesses/discloses.|016/019/024–026; gratitude-conditioned choice, imagined coercion not carried out. |
+| `MT-R-139` Sylphiette → Rudy |Stages encounter, explicitly requests help, names self, accepts disclosed difficulty and seeks aid.|023–028; concealment, royal pressure and initiative coexist. |
+| `MT-R-140` Rudy ↔ Sylphiette, distinct mornings |His relief and harm acknowledgment; her pain, happiness and helpfulness goal with uncertain equality.|029/032; no undifferentiated mutual-consent/recovery score. |
+| `MT-R-141` Ariel → Sylphiette |Releases stated debt, supports personal departure, also exerts guilt/royal threat.|021–023/027/030; earlier disclosure permission, no newly invented prohibition. |
+| `MT-R-142` Sylphiette → Ariel/Rudy |Wants friend and beloved without betraying either; later asks Rudy's help with explicit opt-out.|021/026; own goals stated, political future unestablished. |
+| `MT-R-143` Luke → Rudy/Sylphiette |Empathetic defense despite dislike, then wrong body explanation and drug advice.|027; generosity/understanding differ from reliable information. |
+| `MT-R-144` Nanahoshi → Rudy |Names origin, offers bargain, uses mana, limits answers and asks room for her own goal.|011–012/016/020; return not achieved; withheld methods constrain exchange. |
+| `MT-R-145` Rudy → Nanahoshi |Withholds accident detail, rejects shared return goal, cooperates and questions risk.|011–013/016/020; dislike need not prevent work, no safety validation. |
+| `MT-R-146` Sylphiette ↔ Nanahoshi |Missing context/grief cause attack; explanation and apologies de-escalate; jealousy persists.|013–014; no established romantic rivalry or resolved catastrophe. |
+| `MT-R-147` Rudy/Zanoba → Juli |Task expectations adjusted, manageable craft roles and seating provided, commands and ownership persist.|002/015/017; fear and learning both visible, no inner consent access. |
+| `MT-R-148` Rudy → school others |Opposes bullying, benefits from feared reputation, intrudes on Linia and pressures teacher.|009/017/019; uneven power accountability, fear not acceptance. |
+| `MT-R-149` Rudy ↔ Soldat |Chooses ordinary visit/stories, retains prior commitments and declines later outing.|018; independent friendship, not solely therapeutic instrument. |
+| `MT-R-150` Eris → absent Rudy / training peers |Affection and perceived insufficiency motivate training; Nina's rivalry not initially reciprocated.|033–034; no knowledge of his rejection account, no repaired communication. |
+| `MT-R-151` Nina → Eris/Rudy |Jealousy and imagined capture motivate trip; defeat/misinterpretation alter practice and hostility.|034–035; capture contemplated not executed, later full rivalry only narrated future. |
+
+Directions remain separate even where a pair is named. Service, employment, affection and legal ownership are not interchangeable. No third party can provide another person's bodily permission; later gratitude cannot retroactively fill a missing choice.

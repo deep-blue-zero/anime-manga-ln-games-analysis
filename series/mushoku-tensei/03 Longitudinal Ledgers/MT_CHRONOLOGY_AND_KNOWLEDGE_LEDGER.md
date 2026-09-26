@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -274,3 +274,36 @@ Prior V01–V07 bodies remain historical and unchanged. Current source boundary:
 | `MT-K-089` Undisclosed name | Sylphiette has not named herself; Ariel/Luke assumed she had; jealousy is her interpretation. | `026–027`; Rudy not shown knowingly rejecting a declared identity. |
 | `MT-K-090` Child fear | Rudy sees fear but initially counts only direct hitting; remembered threats/captivity supply wider context. | `028,030`; confidence/compliance remain partly inferred without Juli POV. |
 | `MT-K-091` Open identities/causes | Watchers and six-armed traveler described without full named resolution; cure/displacement remain unresolved. | `029`; plausible earlier-person links are inference, no future meeting admitted. |
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Chronology | Order / anchor | Limit and observations |
+| --- | --- | --- |
+| `MT-T-048` | Cliff's pre-Rudy school retrospect → rescue/mediation → seasonal challengers and Badigadi duel. |001–009; opening backstory is not all newly occurring. |
+| `MT-T-049` | One month after duel settlement → mask encounter/research agreement → routine nearly a year into school; Rudy explicitly16. |009–016; relative anchors do not erase V08 interval tension. |
+| `MT-T-050` | Cliff reports six months' fruitless research → Soldat visit/false Fitts → partial response → plan/reunion → closing morning. |018–029; short response and later reported recovery distinct. |
+| `MT-T-051` | Late Sylphiette0 returns to recruitment/entrance/library/dorm, then rejoins closing morning. |030–032; disclosure permission predates Rudy's enrollment. |
+| `MT-T-052` | Extra frame Eris17/Nina18/Jino14; approximately two-year arrival flashback, then Nina's school trip overlaps duel. |033–035; not every extra scene simultaneous with main ending; later rivalry only prolepsis. |
+
+| Knowledge | Holder and change | Observation / provenance limit |
+| --- | --- | --- |
+| `MT-K-092` Cliff appraisal | Cliff accepts Rudy's ability while retaining dislike; narrator corrects his earlier Zanoba analogy. |001; diligence and accurate liking are different. |
+| `MT-K-093` Mediation | Fitts challenges Rudy's authority to decide, Elinalise discloses reason, Cliff accepts condition. |004–005; imagined child mistreatment explicitly corrected, cure promise not cure. |
+| `MT-K-094` Identity | Sylphiette identifies herself as Fitts; Ariel separately performs Fitts in town. |006/019/021; current source resolution, no rewriting earlier boundary or every appearance. |
+| `MT-K-095` Duel conditions | Rudy/opponent know preparation and no-evasion condition; spectators lack full terms. |008/035; public superiority inference too broad, Badigadi breaks conditional counterblow promise. |
+| `MT-K-096` Mask/origin | Fear precedes explanation; Japanese and remembered face establish special connection. |010–011; Orsted absent now, not eliminated threat; reincarnation and transfer distinct. |
+| `MT-K-097` Nanahoshi testimony | Reports circles, Orsted travel, no mana/aging and unnamed specialist; Rudy withholds accident context. |011–012; no identified expert or independent circle visit. |
+| `MT-K-098` Causal allegation | Tentative disaster association heard without Japanese context; explanation supplies involuntary-transfer claim. |013; causation, intention and culpability distinct; mechanism unknown. |
+| `MT-K-099` Research bargain | Initial broad information promise becomes restricted answers and nontechnical book; early trials fail. |016; safety not independently established, future inheritance only promise. |
+| `MT-K-100` Curse lead | Rudy labels Hitogami-derived claims uncertain; Cliff sees research utility. |018; no validated curse mechanism or cure. |
+| `MT-K-101` Privacy/health | Rudy infers Fitts's gender/body and protects secret after attempted teacher coercion; response ends. |017/019; teacher preserves privacy, inference and complete health change separate. |
+| `MT-K-102` Political misreading | Rudy reads visits as surveillance; external account supplies friends' relationship aim. |020–021/027; no intentional hostility established by suspicion. |
+| `MT-K-103` Earlier permission | Ariel had authorized disclosure before enrollment; Sylphiette's fears/false wife assumption inhibit it. |022/030; revised past explanation, not new permission at romance crisis. |
+| `MT-K-104` Staging and recognition | Rudy lacks rain/quest plan, recognizes friend through cumulative cues, later hears and accepts explanation. |023–026; later assent not prior information. |
+| `MT-K-105` Advice and substance | Luke's empathy coexists with false body explanation; risk advice reaches Sylphiette but is incompletely relayed. |027–029; open offer not covert dosing, willingness not full information/capacity proof. |
+| `MT-K-106` Morning accounts | Rudy reports recovery and inadequate care; Sylphiette reports pain, happiness and useful support but uncertain equality. |029/032; distinct dimensions, no long-term clinical/ethical certification. |
+| `MT-K-107` Earlier rescue | Sylphiette retrospectively confirms accidental garment fall, initial expectation of competence and later intervention. |031; deliberate resilience-test description unwarranted. |
+| `MT-K-108` Eris/Nina | Eris's Rudy ideal persists; Nina misreads students and duel conditions but changes practice. |033–035; Eris not shown knowing his rejection story; future rivalry not achieved now. |

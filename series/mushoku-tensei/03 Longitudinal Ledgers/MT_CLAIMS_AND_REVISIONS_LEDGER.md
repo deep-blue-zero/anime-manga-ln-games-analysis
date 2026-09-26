@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -210,3 +210,28 @@ Prior V01–V07 bodies remain historical and unchanged. Current source boundary:
 | `MT-CR-096` / `MT-C-015` NEW | Restored property, public quiet and continued contact are distinct from affected-person repair. | NEW bounded claim; `022–025,028–030`; genuine local comfort/learning remain. | Seek uncoerced complaint/refusal, acknowledgment and changed terms; checkpoint/normative/relations. |
 
 C015 gives a newly salient closure mechanism its own responsibility rather than renaming C002: it asks which outcome licenses an ending and whose account can contest it. Its strong source-bound basis is figure restoration, frightened denial and continuing Juli fear. It is not a whole-series claim that all reconciliations are false. No clean holdout or registered forecast was tested.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Current formulation through V09 | Disposition / observations | Countercase and next test |
+| --- | --- | --- | --- |
+| `MT-CR-097` / `MT-C-001` | Explicit local health resolution joins earlier task/social gains. |REVISE;010/015/019/026/029|Immediate report not general trauma cure or ethical reform; later ordinary functioning is a separate test. |
+| `MT-CR-098` / `MT-C-002` | Protection, privacy and care coexist with intrusion, teacher threat and acknowledged harm. |STRENGTHEN;002–004/009/017/024/028–029|Do not erase either side; test refusal outside privileged attachment. |
+| `MT-CR-099` / `MT-C-003` | Role revelation, retrospective permission and spectator error correct specific propositions. |STRENGTHEN;001/006/011–014/020–022/030–035|Alternate POV not omniscience; reported cosmology remains unverified. |
+| `MT-CR-100` / `MT-C-004` | Historical refusal retains original conditions despite romantic reinterpretation and changed current choices. |PRESERVE;023–025|Offered privacy/current request differ materially from original coercion. |
+| `MT-CR-101` / `MT-C-005` | Household care/harm conclusion remains historical. |PRESERVE; no fresh reconstruction of original crisis|Family-taste theory by Luke is not new proof about every Greyrat. |
+| `MT-CR-102` / `MT-C-006` | Beneficial results do not establish necessity of earlier coercive separation. |PRESERVE;022–025/030|Recognition after growth does not validate the whole causal route. |
+| `MT-CR-103` / `MT-C-007` | Independent choice includes mediation limits, divergent return goals, confession and political opt-out. |REVISE;004/011/021–026/034|Agency can involve deception/harm; test competing purpose with genuine refusal. |
+| `MT-CR-104` / `MT-C-008` | Conditional power, failed aura/circles, persistent research and useful mistaken learning are task-specific. |STRENGTHEN;001/008/015–018/033–035|Useful behavior does not verify the theory producing it. |
+| `MT-CR-105` / `MT-C-009` | Shared role, self-concealment, staged need and requested register have distinct audiences/functions. |REVISE;006/014/019–026/030|Scene-specific attribution; do not equate all politeness with dishonesty. |
+| `MT-CR-106` / `MT-C-010` | Delivered V08 Zenith-location report remains the boundary. |PRESERVE; V09 adds no rescue verification|Absent progress is not evidence mother safe or harmed anew. |
+| `MT-CR-107` / `MT-C-011` | Rescue before victim identification provides fresh order evidence; gratitude remains distinct from entitlement. |STRENGTHEN;003/019/026|Particular grateful restraint does not guarantee generalized autonomy. |
+| `MT-CR-108` / `MT-C-012` | Recognition, disclosure, empathy, presence and substance-assisted scene precede reported recovery. |REVISE;005/010/016/019/025–029/032|Cannot isolate causal treatment or infer all harms repaired; actual relief remains evidence. |
+| `MT-CR-109` / `MT-C-013` | Utility, service release, romantic reciprocity and equal standing have separate measures. |REVISE;016/021/025–026/032|Sylphiette's useful care does not settle her equality question; Juli still owned. |
+| `MT-CR-110` / `MT-C-014` | Missing-language context, causal uncertainty, withheld research and incomplete risk disclosure carry different responsibility. |REVISE;012–013/016/018/022–031|Correction may help without validating testimony; distinguish unavailable from withheld information. |
+| `MT-CR-111` / `MT-C-015` | Institutional settlement and health/romantic closure do not exhaust affected-person repair. |STRENGTHEN;009/028–029/032|Do not negate reported happiness; test changed terms, acknowledgment and available refusal separately. |
+
+No new C016 is necessary: the disclosure/recovery checkpoint sharpens existing responsibilities rather than creating a universal theory of the series. All claims remain source bounded; no reception verdict, whole-series redemption score or clean predictive holdout is asserted.

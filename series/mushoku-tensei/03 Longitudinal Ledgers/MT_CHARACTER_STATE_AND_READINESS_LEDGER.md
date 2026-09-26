@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -297,3 +297,42 @@ Prior V01–V07 bodies remain historical and unchanged. Current source boundary:
 | Fitts, Juliette, Elinalise, Ariel, other students | Source-bound descriptions here; standalone operational packages deferred. | Identity, viewpoint and sampling limits named in reading; no global registry changes. |
 
 No DOMAIN_READY, mature monograph, clean holdout or generated-scenario evidence. New revelations of prior habits are not automatically new dispositions.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Event / local key | Prior → represented state / change kind | Observation and limit |
+| --- | --- | --- |
+| `MT-S-114` / Rudeus | School routine → accepts quiet request, adjusts lesson expectations, rescues victim before recognition. PRACTICE. |001–003; reputation from abuse can enable useful intervention without erasing its history. |
+| `MT-S-115` / Rudeus | Presumed unsuitable couple → enables discussion, revises forecast and discloses own difficulty. KNOWLEDGE/RELATIONSHIP. |004–005; no cure or guaranteed future for either couple. |
+| `MT-S-116` / Rudeus | Feared challenger → negotiates conditional strike, survives and gains disproportionate reputation. CONTEXT/KNOWLEDGE. |007–009; spell power not unrestricted combat superiority. |
+| `MT-S-117` / Rudeus | Increased confidence → mask-triggered collapse, safety clarification and origin recognition. CONTEXT/KNOWLEDGE. |010–013; no general cowardice or complete recovery. |
+| `MT-S-118` / Rudeus | Research partner → routine learning, unequal information bargain and valued companionship. PRACTICE/RELATIONSHIP. |015–018; failed aura training, experimental failure, privacy applied selectively. |
+| `MT-S-119` / Rudeus | Attraction/partial response → protects secret, recognizes Sylphiette and discloses illness. KNOWLEDGE/RELATIONSHIP. |019–026; old dependence acknowledged, equality unmeasured. |
+| `MT-S-120` / Rudeus | Persistent difficulty → morning recovery claim, gratitude and acknowledged insufficient care. HEALTH/RELATIONSHIP. |028–029/032; immediate report, not all-trauma cure or ethical closure. |
+| `MT-S-121` / Sylphiette | Unresolved Fitts role → explicit self-identification and scene-specific reassignment. REVEALED_NOT_NEW. |006/030–031; Ariel also performs role; selected entrance/dorm events confirmed retrospectively. |
+| `MT-S-122` / Sylphiette | Partial causal information → grief/attack, restraint and contextual correction. CONTEXT/KNOWLEDGE. |013; attempted violence not excused, hypothesis still uncertain. |
+| `MT-S-123` / Sylphiette | Delayed name/jealousy → support and pressure enable a plan and confession. CONTEXT/RELATIONSHIP. |014/021–025; permission preexisted, delay not entirely imposed. |
+| `MT-S-124` / Sylphiette | Reciprocal declaration → seeks help, acts with incomplete disclosure, perceives useful care and uncertain equality. PRACTICE/RELATIONSHIP. |026–028/032; own pain and satisfaction both retained. |
+| `MT-S-125` / Cliff | Diligent proud newcomer → defeats, reluctant factual update, rescue and thanks. REVEALED_NOT_NEW/KNOWLEDGE. |001/003; accepting ability differs from liking or seeking instruction. |
+| `MT-S-126` / Cliff | Idealized attraction → private agreement, care promise, qualified listening and persistent research. RELATIONSHIP/PRACTICE. |004–005/018; curse cure unachieved, theory still a lead. |
+| `MT-S-127` / Nanahoshi | Rudy's masked threat image → named other-world transfer survivor, different return goal and guarded account. REVEALED_NOT_NEW. |010–013; testimony and observed recognition have different warrant. |
+| `MT-S-128` / Nanahoshi | Negotiated cooperation → repeated preliminary trials, resource limits and selective answers. PRACTICE/RELATIONSHIP. |016/020; not full mutual disclosure or established safety. |
+| `MT-S-129` / Zanoba | Craft pupil/caregiver → accepts manageable work, helps seating and staff retrieval, proposes invasion of privacy. PRACTICE/REVEALED_NOT_NEW. |002/008/015/017/023; care neither universally reliable nor emancipatory. |
+| `MT-S-130` / Eris | Departure for training → arrival and current practice newly disclosed, unusual rank award and persistent Rudy-oriented goal. REVEALED_NOT_NEW/PRACTICE. |033–034; no knowledge of Rudy's abandonment interpretation or reconciliation. |
+| `MT-S-131` / Nina | Rivalry/jealousy → school visit, defeat, mistaken power estimate and changed practice. KNOWLEDGE/PRACTICE. |034–035; improved conduct does not verify premise; future rivalry proleptic. |
+| `MT-S-132` / Ariel and Luke | Recruitment/service frame → support personal goal, release stated debt, apply pressure and offer mixed advice. REVEALED_NOT_NEW/PRACTICE. |021–023/027/030; empathy, strategic use and error coexist. |
+| `MT-S-133` / Elinalise, Juli and students | Negotiated relationship, continued learning and school routines. RELATIONSHIP/PRACTICE. |004–005/009/015/018; separate purposes; ownership and bodily boundaries unresolved. |
+
+| Package/domain | Current bounded route | Calibration and debt |
+| --- | --- | --- |
+| Rudeus | [model1.6](../04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/rudeus/EVIDENCE_INDEX.md) | Nine rules; new ST27–33/testsV38–45; local recovery and selective autonomy, no adult domestic/general moral persona. |
+| Sylphiette | [model1.1](../04%20Character%20Analysis/sylphiette/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/sylphiette/EVIDENCE_INDEX.md) | Existing five rules plus narrow006, ST06–09/testsV07–13; confirmed identity does not license blanket Fitts assignment. |
+| Zanoba | [model1.1](../04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/zanoba/EVIDENCE_INDEX.md) | Five rules, ST05/testsV07–09; ordinary craft/care contradictions, no universal restraint. |
+| Eris | [model1.3](../04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/eris/EVIDENCE_INDEX.md) | Six rules, ST09–10/testsV14–17; training continuity, rule004 remains untested here. |
+| Cliff | First [model1.0](../04%20Character%20Analysis/cliff/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/cliff/EVIDENCE_INDEX.md) | Five rules/four states/six retrospective tests; pride, study, care, qualified help-seeking. |
+| Nanahoshi | First [model1.0](../04%20Character%20Analysis/nanahoshi/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/nanahoshi/EVIDENCE_INDEX.md) | Five rules/three states/six retrospective tests; return-oriented research, cooperation and disclosure limits. |
+| Roxy, Ruijerd, Paul, Sara | Existing packages reviewed: no material update. | Reports, recollections and imagined judgments do not add direct sequences; prior ceilings retained. |
+| Ariel, Luke, Nina, Elinalise, Juli and others | Source-bound ledger descriptions; standalone packages deferred. | Narrow sampling, limited affected-person access or concentrated extra; no global enrollment/DOMAIN_READY. |

@@ -4,7 +4,7 @@ artifact_id: MT_SOURCE_LOCK_AND_INVENTORY
 artifact_type: source_lock
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,18 +12,18 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V08 prose, images and paratext inspected; maps retained/verified; V01–V07 published/audited, V08 candidate; V09–V26 not individually admitted."
+source_boundary: "Japanese LN V01–V09 prose/images/paratext inspected; maps retained/verified; V01–V08 published/audited, V09 candidate; V10–V26 not individually admitted."
 ---
 
-# Source lock and inventory — through V08
+# Source lock and inventory — through V09
 
-This is the analytical source-admission record. The Drive folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` and historical `audit_manifest.json` (Drive ID `1m_fRXGcBbYrPgbdv26DNuOTcUxC9iWGq`) hold the underlying file inventory. The previously inspected Drive-manifest snapshot had internal audit date 2026-09-04; those checks remain historical assertions. The owner-supplied local manifest inspected during this run is dated 2026-09-25; its V02–V08 rows agree with the freshly computed source hash. These are separate inventory observations, not fresh checks of every live file.
+This is the analytical source-admission record. The Drive folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` and historical `audit_manifest.json` (Drive ID `1m_fRXGcBbYrPgbdv26DNuOTcUxC9iWGq`) hold the underlying file inventory. The previously inspected Drive-manifest snapshot had internal audit date 2026-09-04; those checks remain historical assertions. The owner-supplied local manifest inspected during this run is dated 2026-09-25; its V02–V09 rows agree with the freshly computed source hash. These are separate inventory observations, not fresh checks of every live file.
 
 ## Current folder and admission boundary
 
 The 2026-09-25 live folder listing contained 25 numbered main EPUBs, V01–V11 and V13–V26, and five differently named supplements/bonuses plus the historical manifest. V12 was absent then. No exact duplicate was found by name in that listing; the manifest's archived duplicate belonged to its historical audit count and was not fetched. On 2026-09-26 UTC the restored file was reverified by Drive metadata: `Mushoku Tensei - Volume 12.epub`, ID `1RIKu1ira0Z6yYH2ILkL8BvlNPFSDi615`, 1,542,217 bytes, in the exact source folder. The owner-supplied local directory also lists V01–V26. These observations establish availability, not V12 edition identity, fresh hash/container integrity or narrative admission. The historical manifest's bonus and side-story type labels still require classification; do not treat them as main LN volumes by filename or imported `type` alone.
 
-`LN_JP_MAIN` is the initial source family. V01 identity and text access were established in bootstrap, followed by complete declared narrative and visual inspection and owner content approval. Its required locator map is durably retained and freshly byte-verified; its closure was published and passed the final exact-head audit at `eaf159559c6fc76ddd820178d7588545f08c351d`. V02 is published and audited at final head `687a13ac1a661270ab566c9e1a6028acd607d846`. V03 is published and finally audited at `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. V04 is published and finally audited at `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. V05 is published and finally audited at `3dc6b173b044abdafc013dc989bd96914620d13d`. V06 is published and finally audited at `0e72e531278055c0dbb7a6054285337a1cc37a93`. V07 is published and finally audited at `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. V08 has fresh local/Drive/manifest byte agreement, verified container/map, complete reading and analytical/evidence candidate. V09–V26 remain availability leads, not individually fresh-hash-verified or narratively admitted. No WN, supplement, adaptation, interview, review, or translation is admitted to the LN prospective reader.
+`LN_JP_MAIN` is the initial source family. V01 identity and text access were established in bootstrap, followed by complete declared narrative and visual inspection and owner content approval. Its required locator map is durably retained and freshly byte-verified; its closure was published and passed the final exact-head audit at `eaf159559c6fc76ddd820178d7588545f08c351d`. V02 is published and audited at final head `687a13ac1a661270ab566c9e1a6028acd607d846`. V03 is published and finally audited at `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. V04 is published and finally audited at `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. V05 is published and finally audited at `3dc6b173b044abdafc013dc989bd96914620d13d`. V06 is published and finally audited at `0e72e531278055c0dbb7a6054285337a1cc37a93`. V07 is published and finally audited at `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. V08 is published and finally audited at `210894fd2b5894b7e499bab80251e8f5ea761138`. V09 has fresh local/Drive/manifest byte agreement, verified container/map, complete reading and analytical/evidence candidate. V10–V26 remain availability leads, not individually fresh-hash-verified or narratively admitted. No WN, supplement, adaptation, interview, review, or translation is admitted to the LN prospective reader.
 
 | Witness | Family | Verified identity and access | Integrity and locator check | Narrative inspection | Analytical admission / limit |
 | --- | --- | --- | --- | --- | --- |
@@ -35,10 +35,10 @@ The V01 container points to `content.opf`, whose title/creator/language metadata
 
 - Live folder presence: V01–V11 and V13–V26 in the prior listing; V12 restored and metadata-reverified on 2026-09-26 UTC. Local filenames V01–V26 are present. Availability is not a current SHA/container check on later volumes.
 - Historical manifest: reports 30 primary EPUBs, 31 audited including an archived duplicate, 25 numbered main volumes and file/container checks through its stated audit date. Its taxonomy of several bonuses is not accepted without verification.
-- Fresh byte/container check: V01 under the accepted pilot; V02–V08 under the current sequential run as detailed below. On 2026-09-26 UTC the local V01 EPUB also reproduced the locked source hash; the downloaded Drive locator map reproduced its retained size and hash. No repeat narrative reading was performed.
-- Narrative coverage and interpretation: V01 (13 units), V02 (12 units), V03 (15 units), V04 (12 units), V05 (11 units), V06 (15 units), V07 (9 units) and V08 (13 units), with six synchronized ledger histories. V01 visual coverage: cover/front and all ten narrative-positioned plates, five design sheets and platform mark inspected. V02 visual coverage: all 16 images, itemized in its reading. V03 visual coverage: all 12 images individually inspected in order. V04 visual coverage: all 16 images individually inspected in order. V05 visual coverage: all 16 images individually inspected in order. V06 visual coverage: all 12 images individually inspected in order. V07 visual coverage: all 19 image occurrences (18 distinct files) individually inspected in order. V08 visual coverage: all 16 image occurrences (15 distinct files) individually inspected in order. No claims of full-series visual coverage. Full-series bibliographic/supplemental completeness: not established.
+- Fresh byte/container check: V01 under the accepted pilot; V02–V09 under the current sequential run as detailed below. On 2026-09-26 UTC the local V01 EPUB also reproduced the locked source hash; the downloaded Drive locator map reproduced its retained size and hash. No repeat narrative reading was performed.
+- Narrative coverage and interpretation: V01 (13 units), V02 (12 units), V03 (15 units), V04 (12 units), V05 (11 units), V06 (15 units), V07 (9 units), V08 (13 units) and V09 (15 units), with six synchronized ledger histories. V01 visual coverage: cover/front and all ten narrative-positioned plates, five design sheets and platform mark inspected. V02 visual coverage: all 16 images, itemized in its reading. V03 visual coverage: all 12 images individually inspected in order. V04 visual coverage: all 16 images individually inspected in order. V05 visual coverage: all 16 images individually inspected in order. V06 visual coverage: all 12 images individually inspected in order. V07 visual coverage: all 19 image occurrences (18 distinct files) individually inspected in order. V08 visual coverage: all 16 image occurrences (15 distinct files) individually inspected in order. V09 visual coverage: all14 occurrences of13 distinct files inspected in order. No claims of full-series visual coverage. Full-series bibliographic/supplemental completeness: not established.
 
-The V01 source inspection and revised analytical content were approved by the owner. Retained derivative: `MT-LNJP-V01-locator-map.json`, Drive file ID `1VE1ti8fs90PHM0Ey4mvT7eQbMjUZm_u9`, retained in source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug`; 650,286 bytes; SHA-256 `6c782f0a8f5f30fb8a3c9d67d138185c2adae3e1b8b8d2f947424a16798c0e5c`. The earlier upload rejection was resolved by explicit authorization of that exact V01 file and destination; upload and readback succeeded in the prior session, and this session independently downloaded and hashed the retained bytes again. V01's evidence-retention condition is met. The V01 public closure is published and audited as recorded above; that result does not certify a later volume. Do not copy the EPUB, normalized prose, images or locator map into Git. Required V02–V15 locator-map uploads have separate current owner authorization as recorded in the current map; V12 still requires its individual witness verification. V09 remains unopened pending V08 publication and exact-head audit.
+The V01 source inspection and revised analytical content were approved by the owner. Retained derivative: `MT-LNJP-V01-locator-map.json`, Drive file ID `1VE1ti8fs90PHM0Ey4mvT7eQbMjUZm_u9`, retained in source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug`; 650,286 bytes; SHA-256 `6c782f0a8f5f30fb8a3c9d67d138185c2adae3e1b8b8d2f947424a16798c0e5c`. The earlier upload rejection was resolved by explicit authorization of that exact V01 file and destination; upload and readback succeeded in the prior session, and this session independently downloaded and hashed the retained bytes again. V01's evidence-retention condition is met. The V01 public closure is published and audited as recorded above; that result does not certify a later volume. Do not copy the EPUB, normalized prose, images or locator map into Git. Required V02–V15 locator-map uploads have separate current owner authorization as recorded in the current map; V12 still requires its individual witness verification. V10 remains unopened pending V09 publication and exact-head audit.
 
 ## V02 individually verified witness and derivative — preparation snapshot, 2026-09-26 UTC
 
@@ -198,3 +198,26 @@ V07's earlier preparation limits are historical: authored/final `523625ec4a57b95
 | Publication limit | Content/evidence candidate; remote readback, source audit, housekeeping and final exact-head audit required before V09 |
 
 Fitts/Sylphiette role clues are not a resolved identity map. The three-month epilogue anchor and earlier intervals remain unharmonized. Juli has no interior viewpoint; her visible pride and fear do not establish freely agreed ownership. No source payload is published in Git, and generic web-origin credits do not admit a WN comparison.
+
+
+## V09 individually verified witness and derivative — 2026-09-26 UTC
+
+V08 authored/final `210894fd2b5894b7e499bab80251e8f5ea761138`, source36274566635, housekeeping36274933387(no changes) and final36274949035 all succeeded before V09 freeze and source inspection. V07/V08 main integration remains unestablished; earlier content verification does not certify later integration.
+
+| Field | Verified V09 result |
+| --- | --- |
+| Witness/family | `MT-LNJP-V09` / `LN_JP_MAIN`; local original, working copy and fresh Drive `1KLJn7gyLgExGho_5i2jeiycf-_iJgixW` byte-identical |
+| Identity | `無職転生 ～異世界行ったら本気だす～ 9 (MFブックス)`; 理不尽な孫の手; ja; OPF publisher empty, colophon KADOKAWA/MF Books; B01AXD9RKM |
+| Bytes |1,418,021; SHA-256 `549ac6eb074cca8d9a2d8eff78dd9b1fcfdc4845b24417d0319b26e7b5a0bb4c`; September25 manifest agrees |
+| Edition | Colophon spine27 `text/part0026.html` p1–14:2016-01-25 electronic issue,2016-01-31 first-print basis; OPF `2016-01-25T00:00:00-05:00` separately recorded |
+| Container | Mimetype, ZIP CRC, container/manifest and all29 spine references checked; no prose outside paragraph descendants |
+| Narrative | Eleven episodes, three Sylphiette interludes and extra:15 units;10 narrative XHTML including heading-only;149,815 trimmed ruby-base characters;58 ordered chunks actually read |
+| Visual/paratext |14 occurrences/13 distinct files individually inspected; covers/front art/plates/repeated logo/store mark; title/contents/fictional epigraph/profile/credits/colophon; no distinct afterword |
+| Locator | `mt-lxml-p1`: one-based body descendant p including empty; remove rt/rp preserving bases/tails, edge-trim, no Unicode normalization or printed-page claim |
+| Independent check | Original-XHTML second parser verifies4,985 paragraph positions/lengths/hashes and539 ruby nodes; semantic/source review separate |
+| Retained private map | Drive `1aKLjglJL-alQrx9V-0MHO9VyxxY8sYKR`, parent `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug`;1,114,993 bytes; SHA-256 `30435a447cd0ed77d4ad73cb213ab7d7b6b2ecd003173ec25e795b2619fd43f1` |
+| Retention/completion | Upload `2026-09-26T22:13:28.774Z`; private/correct parent and fresh byte-identical readback. Reading complete `2026-09-26T22:27:21.993536+00:00`; no order exception |
+| Analytical route | [V09 reading](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md),35 observations; six ledgers, four revisions, two new models and [targeted checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) |
+| Publication gate | Candidate requires remote readback/source audit/housekeeping/final exact-head audit before V10 |
+
+Source credit to web origin does not admit WN. Role revelation does not attribute every Fitts occurrence; reported cosmology, curse lead and immediate health outcome retain their separate limits. Source payloads remain private.
