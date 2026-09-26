@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -625,4 +625,8 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 
 ## MAIN V002 C002 checkpoint reconciliation — plural capacity and unfinished governance
 
-The [C002 checkpoint ``3, 6, 9](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) separates immediate Eridu crisis prevention from dismantling, budget inquiry, Rio succession/restitution and Alice's durable school security. Seminar, C&C, Veritas, Engineering, Himari/Eimi, Sensei and the club all contribute distinct capacities; no one institution's success closes the rest. Contextual side-source backfill at this complete arc boundary is **DEFER** pending a verified route/question.
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) separates immediate Eridu crisis prevention from dismantling, budget inquiry, Rio succession/restitution and Alice's durable school security. Seminar, C&C, Veritas, Engineering, Himari/Eimi, Sensei and the club all contribute distinct capacities; no one institution's success closes the rest. Contextual side-source backfill at this complete arc boundary is **DEFER** pending a verified route/question.
+
+## V003 C001 E001 institutional delta — Eden Treaty as Seia's report
+
+Seia describes a Trinity–Gehenna peace treaty intended to replace accumulated distrust with beginning trust, then says the GSC president's disappearance made it meaningless. No treaty text, signatories, procedure, ratification, current school government or institutional response is printed. The president's absence is prior canonical context; naming intention and asserted treaty nullity are Seia's assessments. The fifth ancient rule is quoted/interpreted, not established as an enforceable treaty provision.

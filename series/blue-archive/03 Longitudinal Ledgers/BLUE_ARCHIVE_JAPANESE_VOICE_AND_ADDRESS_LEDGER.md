@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1046,4 +1046,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 
 ## MAIN V002 C002 checkpoint reconciliation — wording controls
 
-The [C002 checkpoint `5](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the chapter-level voice firewall. Keep `AL-1S`, `王女`, `鍵` and Alice's `アリス`/`勇者` self-choice in their distinct speaker/evidence domains. The E024 and E025 label clusters, inward Sensei speech, branch alternatives and untranscribed video cannot be silently regularized. Himari's `まだ何も解決していません` prevents E025's happy ending from becoming a technical all-clear.
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the chapter-level voice firewall. Keep `AL-1S`, `王女`, `鍵` and Alice's `アリス`/`勇者` self-choice in their distinct speaker/evidence domains. The E024 and E025 label clusters, inward Sensei speech, branch alternatives and untranscribed video cannot be silently regularized. Himari's `まだ何も解決していません` prevents E025's happy ending from becoming a technical all-clear.
+
+## V003 C001 E001 delta — Seia's propositions and typography
+
+- `憎み合うのはもうやめよう` is Seia's treaty gloss; `信頼を築き始めようとするプロセス` is a process to begin, not trust already achieved. `何の意味も持たなくなってしまった` is her assessment after the president's disappearance.
+- `どんな意味を込めていたのかは分からない` limits president-intent knowledge; `一つの解釈` limits the paradise proof argument; `証明できない真実は無価値だろうか` is an open question, not a conclusion.
+- `u:0007-0019` is italic `*セイア:*` text and may be stylized narration or inward voice; do not automatically call it audible to Sensei. Bold `u:0020-0027` directly addresses Sensei. Zero choices/no Sensei answer; `u:0028` title card.

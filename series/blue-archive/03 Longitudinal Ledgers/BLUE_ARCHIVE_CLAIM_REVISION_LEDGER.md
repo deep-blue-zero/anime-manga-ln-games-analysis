@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002 checkpoint canonical; V003 C001 E001 unopened
+current_sequential_boundary: MAIN_V003_C001_E001 active provisional; E002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1553,3 +1553,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. R
 - **BA-C012–C015/C017–C018 — NO DIRECT GLOBAL TEST.**
 
 No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Complete-arc contextual side-source backfill decision: **DEFER**, pending a verified route and specific question. V003 C001 E001 remains unopened.
+
+## V003 C001 E001 claim delta — trust, proof and a speaker's forecast
+
+- **BA-C001/C016:** Seia asks Sensei to witness unpleasant truth; no response or actual intervention tests responsible attention yet.
+- **BA-C002–C004/C007/C010–C011:** treaty “duty” is her normative appeal, not an independently shown Schale power or institutional treaty outcome.
+- **BA-C008:** zero choices and italic Seia passage bar Sensei persona and audible-dialogue inference.
+- **BA-C019/C020:** paradise/treaty analogy does not retest Pavane creative value or Alice's function/identity; preserve separate claims.
+- **Other families:** no direct global test.
+
+No new claim ID on one monologue, standalone model, frozen prediction or side-source admission. Seia's treaty-nullity assessment, paradise interpretation and president-intent sarcasm are not objective findings. Backfill remains **DEFER**.

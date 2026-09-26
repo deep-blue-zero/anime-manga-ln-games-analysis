@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -636,4 +636,9 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 
 ## MAIN V002 C002 checkpoint reconciliation — belonging is observed, not guaranteed
 
-The [C002 checkpoint `4](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) records Alice–club as a real reciprocal relationship before classification, through coercive separation and her own chosen return. It does not substitute for next-term recognition or residual safety work. Nel–Toki has an uneasy social opening, not full forgiveness/formal reassignment; Rio–Seminar ends in absence and an insufficient apology, not repaired trust.
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) records Alice–club as a real reciprocal relationship before classification, through coercive separation and her own chosen return. It does not substitute for next-term recognition or residual safety work. Nel–Toki has an uneasy social opening, not full forgiveness/formal reassignment; Rio–Seminar ends in absence and an insufficient apology, not repaired trust.
+
+## V003 C001 E001 relationship delta — Seia addresses an unanswered Sensei
+
+- **SEIA → SENSEI:** Seia explains her view of the treaty/paradise and urges Sensei to witness the coming bitter truth. Sensei has no printed response or choice; familiarity, trust, hierarchy and actual acceptance cannot be inferred from her address alone.
+- **TRINITY ↔ GEHENNA (reported):** Seia describes long mutual distrust and a proposed peace process. No institution speaks or acts in this unit; present interschool relation and treaty implementation remain unconfirmed.

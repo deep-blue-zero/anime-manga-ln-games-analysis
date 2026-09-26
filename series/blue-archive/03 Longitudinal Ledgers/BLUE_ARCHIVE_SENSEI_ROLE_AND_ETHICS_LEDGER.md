@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -719,4 +719,8 @@ Sensei thanks Himari for taking responsibility, attends Nel's discharge celebrat
 
 ## MAIN V002 C002 checkpoint reconciliation — agency with ongoing duty
 
-The [C002 checkpoint ``3, 7](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) retains E022's overlooked-helper question as locally productive, E024's Alice-led identity decision as ethically central, and E025's “everyone” resolution as distributed. The serious hazard, Momoi/Nel injuries and remaining Eridu work prevent a simplistic choice-versus-safety binary. Sensei's `心の声` never becomes audible rescue authorship or an all-safe promise. No prospective model was frozen (`NO_DIAGNOSTIC_OPPORTUNITY`).
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) retains E022's overlooked-helper question as locally productive, E024's Alice-led identity decision as ethically central, and E025's “everyone” resolution as distributed. The serious hazard, Momoi/Nel injuries and remaining Eridu work prevent a simplistic choice-versus-safety binary. Sensei's `心の声` never becomes audible rescue authorship or an all-safe promise. No prospective model was frozen (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E001 delta — witnessing requested, not yet enacted
+
+Seia addresses Sensei directly, warns that the coming story may force doubt and bitterness, and asks them to watch through its end as the duty of one who chose “the future.” This is her ethical summons. There is no Sensei choice, spoken reply, consent, refusal or intervention in this unit, and no new persona sample. Her italic philosophical passage may be stylized/inward; do not invent an audible exchange. No model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

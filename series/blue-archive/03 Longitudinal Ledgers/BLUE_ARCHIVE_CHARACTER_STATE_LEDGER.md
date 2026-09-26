@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -771,3 +771,7 @@ Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operationa
 ## MAIN V002 C002 checkpoint reconciliation — state, not a safety all-clear
 
 The canonical [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the closed twenty-five-unit chapter. Alice's narrow partial model gains a crisis sequence (device-linked harm, coerced departure, in-dive self-choice, external club return) but not global weapon safety or stable cross-context behavior. Momoi/Midori/Yuzu retain narrow club/pressure models; Rio, Toki, Himari, Nel and Key remain `UNMODELED`. E025 narrator/Himari distinguish immediate crisis prevention from ongoing system work. Totals **21 / 26 across 47**, none operational/validated; no retroactive prediction validation.
+
+## V003 C001 E001 character-state delta — Seia's interpretive introduction
+
+Seia enters as a speaking subject who describes the Eden Treaty as a trust-building peace process, reports its meaning lost after the GSC president vanished, interprets the fifth ancient rule's paradise paradox and asks Sensei to witness a bitter story. This is a single reflective address, not independently verified treaty authority or a behavioral rule. Sensei supplies no choice, reply or enacted response. Seia enters `UNMODELED`: totals **21 `PARTIAL_MODEL` / 27 `UNMODELED` across 48**, none operational/validated, no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

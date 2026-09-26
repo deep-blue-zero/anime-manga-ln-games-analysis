@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:001; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -790,4 +790,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 
 ## MAIN V002 C002 checkpoint reconciliation — role, play and material work
 
-The [C002 checkpoint ``3, 6](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) binds the game-language arc to its counterweight: Alice can choose `勇者` rather than assigned `王女`, but the rescue also needs power cuts, hacking, combat, risk-bearing and later facilities work. E025's new game study and monster-ethics question make the continuing adventure an ordinary shared practice, not a permanent safety or status guarantee. `BA-C019` and new chapter-local `BA-C020` remain separate.
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) binds the game-language arc to its counterweight: Alice can choose `勇者` rather than assigned `王女`, but the rescue also needs power cuts, hacking, combat, risk-bearing and later facilities work. E025's new game study and monster-ethics question make the continuing adventure an ordinary shared practice, not a permanent safety or status guarantee. `BA-C019` and new chapter-local `BA-C020` remain separate.
+
+## V003 C001 E001 motif / callback delta — an Eden whose proof is disputed
+
+- **Treaty as process:** Seia's `憎み合うのはもうやめよう` and start-of-trust formulation sets peace against inherited antagonism; she then says the president's disappearance emptied the project. This is a speaker-framed opening tension, not a verified failed treaty.
+- **Paradise/proof paradox:** her one reading of the fifth ancient rule makes a true paradise returnee unobservable outside; her question about whether unprovable truth lacks value remains open. The Eden name becomes a skeptical analogy for diplomacy, not established cosmology.
+- **Witnessing the bitter story:** Seia asks Sensei not to avert their eyes. This creates a proposed ethical demand without an observed Sensei choice or a completed “truth” finding.

@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_PLUS_V002_C002_E025
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_E001
 generation: V1
-version: "1.48"
+version: "1.49"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 through checkpoints; 87/310 main units analyzed; side-source classes unreviewed; BA:main:003:001:001 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 through checkpoints, plus BA:main:003:001:001; 88/310 main units analyzed; side-source classes unreviewed; BA:main:003:001:002 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:001:001
+next_unopened_main_unit: BA:main:003:001:002
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:001:001
 
 ## 0. Responsibility
 
-This index answers four questions at the canonical `MAIN_V002_C002` checkpoint boundary:
+This index answers four questions at the `MAIN_V003_C001_E001` provisional boundary, inheriting the canonical `MAIN_V002_C002` checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020 and V002 C002 E001-E025;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025 and V003 C001 E001;
 - current checkpoint: `MAIN_V002_C002`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `87 / 310` canonical units;
+- main-story coverage: `88 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:001:001`, but mandatory V002 C002 checkpoint comes first.
+- next unopened main unit: `BA:main:003:001:002`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -75,6 +75,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
 | Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004, E010-E016, E019-E020 and V002 C002 E002-E025; joins Himari/C&C/club aftermath with bounded choices | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Seia | `ANALYZED` in V003 C001 E001 only; treaty/paradise interpretation and unanswered witness appeal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Momoi | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E008/E011-E012/E014-E025; new-genre study with returned Alice | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -129,6 +130,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Subject | State / development | Decision path | Directed relationships | Institution / role | Ordinary life | Written Japanese | Crisis / pressure | Negative constraints |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
+| Seia | L for one philosophical/political frame | GAP for tested decisions | L; addresses Sensei, no answer | L; treaty discussion, formal role unverified | GAP | L; bold/italic voice distinction | L; forecasts bitterness, not observed action | M; treaty status, intent, paradox and audibility unverified |
 | Rin | L | M | L | H | GAP | M | H | L |
 | Arona | L | L | M with Sensei | M | L | M; new school-orientation sample | M | L |
 | Momoi | M for creative value, shortcut loss, injury and post-injury resolve | M for rescue, upload, evacuation, offered shelter and Alice retrieval call | M with Midori/Alice/Yuzu; Sensei narrower | M; special prize and temporary council hold | L; comic teasing, personal-room offer | M in secure club/game-ending lines; flips excluded | M; battle, unconsciousness and threatened separation | M; medical clearance, club renewal, housing permission and safety plan unresolved |
@@ -183,6 +185,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Knowledge/state clarity | Public/private and relationship breadth | Humor/play coverage | Diagnostic current routes |
 |---|---|---|---|---|
 | Sensei | `choice:002` alternatives; E012 final `作戦開始` inward, but `choice:006`/`014` explicit assent | Multiple student institutions; private biography unknown | Care/play, ethical objection and bounded coalition participation | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019 choices; V002 C2 E002-E003/E009-E012 choices |
+| Seia | One treaty/paradise framing; no independent treaty record | Addresses Sensei only; ordinary/private relation GAP | Paradise paradox and skeptical rhetorical style, not a humor baseline | V003 C001 E001 `scene:001:u:0001-0027`; italic `u:0007-0019` cautioned |
 | Rin | One administrative state; wider knowledge unknown | Formal Sensei/GSC relation; private GAP | Very little | P checkpoint |
 | Arona | Technical knowledge limits explicit; Millennium dispute unknown | Sensei dyad; broader private/social GAP | Teasing, hurt, repair | P E002; V001 C1 E001; V002 C1 E001 |
 | Momoi | E008 two-day unconsciousness followed by E011 awake return; clearance/prognosis unknown | Sibling/Sensei/club relations under injury and Alice seizure | Potion/level-up and bad-ending metaphors return; self-reported strength not medical fact | V002 C1 E001-E020 and C2 E002-E003/E008 as routed; E011 `u:0050-0089` |
@@ -235,6 +238,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Current readiness | Standalone model | Strongest currently supported use | Material blockers |
 |---|---|---|---|---|
 | Sensei | `PARTIAL_MODEL` | `NONE` | bounded support of Alice's choice, then invited C&C/club participation and Himari thanks | Not sole rescuer; E025 branch not cumulative, private biography and broad persona absent. |
+| Seia | `UNMODELED` | `NONE` | situated treaty gloss, fifth-rule interpretation and witnessing appeal | One monologue; treaty status/role and ordinary or counterevidence behavior unverified. |
 | Rin | `UNMODELED` | `NONE` | Prologue administrative-crisis interpretation only | One crisis, no ordinary/private breadth. Next: independently evidenced routine and non-Sensei relations; verify supplemental route first. |
 | Arona | `UNMODELED` | `NONE` | system-partner/triage observations only | Narrow Sensei dyad and unresolved ontology. Next: repeated ordinary/technical uncertainty contexts without importing future explanations. |
 | Momoi | `PARTIAL_MODEL` | `NONE` | club-domain care, revisable-job offer and resumed collaborative game study | Distributed award credit, own medical clearance and finished new game unresolved. |
@@ -291,6 +295,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Subject | Institutional / professional | Familiar ordinary interaction | Friendship / care in evidenced relations | Conflict / high-stakes decisions | Written-register constraints |
 |---|---|---|---|---|---|
 | Sensei | P (structural) | U | P (structural) | P (choice-conditioned) | U (persona space requires separation) |
+| Seia | U | U | U | U | U |
 | Rin | U | U | U | U | U |
 | Arona | U | U | U | U | U |
 | Momoi | P (club making) | P (familiar club only) | P (Alice/sister/Yuzu) | P (club threat) | P (secure club speech) |
@@ -694,3 +699,9 @@ Routing: [V002 C002 E025 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_
 ## 57. MAIN V002 C002 checkpoint readiness reconciliation
 
 The [canonical C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) closes the twenty-five-unit chapter. Alice's existing `PARTIAL_MODEL` includes both in-dive choice and externally observed return, but no general technical safety, full origin/memory resolution or broad cross-context stability. Momoi/Midori/Yuzu's partials gain linked crisis evidence. Rio, Toki, Himari, Nel and Key stay `UNMODELED` despite salient scenes because ordinary/private contrasts, independent threat audits and clean attribution are insufficient. Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED`** across 47; none operational/validated; no standalone model, frozen prediction or scored retrospective validation (`NO_DIAGNOSTIC_OPPORTUNITY`). Complete-Pavane-arc contextual side-source backfill is **DEFER** pending a verified subject route and explicit question. The next unopened main unit is `BA:main:003:001:001`.
+
+## 58. V003 C001 E001 provisional coverage delta
+
+Seia is newly tracked from a single scene. She glosses the Eden Treaty as a process beginning trust between Trinity and Gehenna after long hatred, then asserts the GSC president's disappearance made it meaningless. Her `どんな意味を込めていたのかは分からない` expressly disclaims knowledge of the president's name choice. The italic `u:0007-0019` quote of the fifth `七つの古則` and “one interpretation” of the paradise-return proof paradox are her associated text, not audited cosmology or necessarily audible speech. She asks whether unprovable truth lacks value, skeptically likens treaty to Eden, and in bold dialogue urges Sensei to witness the coming bitter story. Sensei has no response/choice/action; no treaty document or opponent speaks. Seia enters `UNMODELED` and no other readiness changes: **21 `PARTIAL_MODEL` / 27 `UNMODELED`** across 48, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Side-source backfill remains **DEFER**.
+
+Routing: [V003 C001 E001 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E001_DEEP_READING.md) → `BA:main:003:001:001` canonical scene 1, 28 numbered units, zero choices and title card `u:0028`. `BA:main:003:001:002` remains unopened. Coverage is **88 / 310**.
