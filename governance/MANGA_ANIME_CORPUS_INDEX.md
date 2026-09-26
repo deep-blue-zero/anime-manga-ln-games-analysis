@@ -32,6 +32,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Lycoris Recoil](../series/lycoris-recoil/) — `series/lycoris-recoil/`
 - [Maebashi Witches](../series/maebashi-witches/) — `series/maebashi-witches/`
 - [Monogatari Series](../series/monogatari-series/) — `series/monogatari-series/`
+- [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Japanese LN V01 source structurally verified; V12 absent. Methods and six ledgers adopted; no sequential volume closed, and V01 requires separate owner authorization.
 - [My Hero Academia](../series/my-hero-academia/) — `series/my-hero-academia/`
 - [NANA](../series/nana/) — `series/nana/`
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`

@@ -3,13 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_method
 scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, mini, MomoTalk, character/profile/contextual dialogue'
 generation: V1
+version: "1.1"
 status: canonical
 source_boundary: Promoted Blue Archive V1 Japanese canonical corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86, with HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e as independent reference; canonical and derived builds passed blocking audits
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE ANALYTICAL METHOD V1
@@ -538,6 +539,42 @@ At natural main-story arc boundaries, create checkpoints that summarize:
 - unresolved questions;
 - major claims revised since the previous checkpoint.
 
+## 10.4 Behavioral and reconstruction delta
+
+The literary reading remains primary. When a source unit supplies diagnostically useful character evidence, add a concise behavioral/reconstruction delta after the ordinary character and relationship interpretation. Do not replace scene meaning with a psychology template.
+
+Use one or more change types:
+
+`DISPOSITION_CHANGE · KNOWLEDGE_CHANGE · RELATIONSHIP_CHANGE · CONTEXT_CHANGE · ROLE_CHANGE · RESOURCE_CHANGE · REVEALED_NOT_NEW · UNRESOLVED`
+
+For each material event record, where the source permits:
+
+```yaml
+character: null
+change_types: []
+perceived_problem: null
+knowledge_and_uncertainty: []
+salient_attention: []
+appraisal_hypotheses: []
+affective_response: []
+motives_in_conflict: []
+inhibitors: []
+escalators: []
+perceived_options: []
+choice_and_observable_action: null
+immediate_aftermath: null
+later_self_account_or_repair: null
+relationship_role_resource_conditions: []
+written_speech_delta: null
+supporting_locators: []
+counterevidence: []
+uncertainties: []
+```
+
+Do not invent unrepresented interiority to complete the fields. Separate observable conduct from appraisal hypotheses, preserve alternatives, and distinguish a state or context delta from durable disposition change. If the unit supplies no discriminating evidence, record `NO_MATERIAL_RECONSTRUCTION_DELTA` rather than manufacturing a row.
+
+The detailed rule, state, readiness, scenario, and validation contracts are governed by `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`. Sequential deltas are evidence-routing inputs to later modeling; they are not themselves permission for hypothetical generation.
+
 ---
 
 # 11. Evidence and locator requirements
@@ -688,8 +725,9 @@ A canonical sequential reading should normally contain:
 12. violence/ethics/power analysis where relevant;
 13. competing interpretations and counterevidence;
 14. cumulative ledger deltas;
-15. open questions;
-16. evidence locators.
+15. behavioral/reconstruction delta when diagnostic, or `NO_MATERIAL_RECONSTRUCTION_DELTA`;
+16. open questions;
+17. evidence locators.
 
 The goal is not maximum length. The goal is enough structure that later synthesis can recover **what changed, why we believed it, how confident we were, and where the source evidence lives**.
 
