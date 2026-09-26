@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -620,3 +620,7 @@ Sensei's student-requested help, bounded options, exposure to raid accountabilit
 ## V002 C002 E001 delta — absent teacher and covert conditions
 
 Sensei has no appearance, choice, speech or represented knowledge of Rio/Himari's secret meeting. Their retrospective claim that they supplied Mirror/C&C test conditions revises the audience's view of C001's threat architecture, not Sensei's observed choices or information at that time. Rio's attempt to detain Himari creates an adult/authority question for later source, but this unit does not let Sensei respond. No Sensei readiness change, standalone model or prospective adjudication (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E002 delta — companion in play, not originator
+
+Sensei accepts an underspecified club invitation on a free day, wins the depicted fighting-game match against Momoi and joins talk of the next game. The club asks for ideas, yet none is shown becoming Sensei's design; Yuzu, not Sensei, analyzes and wins the anomalous rematch. Choice groups `002`/`007` contain mutually exclusive tones, and `u:0040` is `先生（心の声）`. Sensei's conditional line about difficulty `if` the opponent cheats is not a forensic verdict. Their information does not include Rio/Himari's secret meeting. No readiness change, model or frozen prospective test (`NO_DIAGNOSTIC_OPPORTUNITY`).

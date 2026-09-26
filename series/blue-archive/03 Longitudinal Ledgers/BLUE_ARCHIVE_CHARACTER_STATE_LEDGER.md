@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -529,3 +529,12 @@ No new indexed subject or unit-level readiness promotion (sixteen `PARTIAL_MODEL
 - **C&C/Nel:** the earlier C&C crisis has newly disclosed co-planner testimony; it does not retroactively turn Nel's independent E019 test into an order or prove every defender's knowledge.
 
 Rio and Himari enter the index as `UNMODELED`, yielding 21 `PARTIAL_MODEL` / 18 `UNMODELED` across 39 tracked subjects. No existing readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E002 delta — ordinary game play and bounded tactical exception
+
+- **Yuzu:** embarrassed by praise yet takes the rematch after Alice loses to apparently anomalous play. She reads an invisibility shadow, explains guaranteed taunt damage and timing, and wins as `UZQueen`. Her stated aversion to `ハメ技` in friend-play is a social-fun constraint, not incapacity; her exception here depends on the opponent's apparently unfair behavior. Momoi's 1.5×/2.8× “mode” is invented setting language, not a measured buff.
+- **Momoi/Midori:** Momoi loses the depicted match against Sensei, presses for retries and returns to the delayed next-game meeting. The pair discuss a slow-life dungeon-exploration/fighting hybrid and the four-person next-prize promise. Concept and enthusiasm do not establish a completed game or prize; their labels flip in several exchanges.
+- **Alice:** reports Yuzu's winning run, plays and loses to an anomalous online opponent, then receives Yuzu's account of a loop tactic. This is receptive learning but not proven future transfer or a new combat capacity.
+- **Sensei:** visits during free time, wins the visible Momoi match and is invited to contribute ideas. Choice tones branch; no design authorship or resolution of the E001 secret is shown.
+
+No new tracked subject or readiness change: 21 `PARTIAL_MODEL` / 18 `UNMODELED` across 39, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

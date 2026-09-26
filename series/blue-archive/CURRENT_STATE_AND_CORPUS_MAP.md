@@ -18,17 +18,17 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E001.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E002.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001 adds an audience-only covert meeting: Rio and Himari say they jointly staged Mirror/C&C as an Alice-identity test, but divide over a world-ending-weapon versus “cute junior” reading. Rio attempts to detain Himari; AMAS stops after a hack, and Himari encounters an unidentified possible fifth C&C member. Their testimony reframes the prior threat architecture without giving the club/Sensei this knowledge or verifying Alice's origin. Coverage is **63 / 310** units; all seven ledgers have provisional E001 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001 adds an audience-only covert meeting: Rio and Himari say they jointly staged Mirror/C&C as an Alice-identity test, but divide over a world-ending-weapon versus “cute junior” reading; detention and a possible fifth-C&C encounter remain unresolved. E002 returns to ordinary club play without transferring that secret: Sensei wins a Momoi match, the four friends brainstorm a next-prize game, and Yuzu defeats an apparently cheating opponent with a tactic she ordinarily limits for friends' enjoyment. The anomalous match is no forensic cheat finding, and the proposed game is not a completed product. Coverage is **64 / 310** units; all seven ledgers have provisional E001–E002 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 adds Rio and Himari as `UNMODELED`, yielding **21 partial / 18 unmodeled** tracked subjects. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:002` remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio and Himari as `UNMODELED`, yielding **21 partial / 18 unmodeled** tracked subjects. E002 refines Yuzu's conditional mechanism without changing readiness. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:003` remains unopened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **63 / 310 canonical main units deep-read**;
+- main-story coverage: **64 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -94,7 +94,8 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E020_DEEP_READING.md` — **active_provisional**, special award / temporary council reprieve / Alice belonging / unattributed system stinger;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md` — **canonical Pavane Chapter 1 synthesis authority**, `BA-C001`–`BA-C019` adjudication and narrow reconstruction-readiness reconciliation;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E001_DEEP_READING.md` — **active_provisional**, Rio/Himari covert test disclosure and classification dispute / attempted detention / unidentified intercept;
-- next crosswalk unit: `BA:main:002:002:002`.
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E002_DEEP_READING.md` — **active_provisional**, ordinary club play / next-game brainstorming / Yuzu's qualified anomalous-match win;
+- next crosswalk unit: `BA:main:002:002:003`.
 
 The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E020 boundary above.
 
@@ -438,16 +439,16 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E001.**
+**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E002.**
 
 The current authorized range continues in order. The next crosswalk unit is:
 
-- story ID: `BA:main:002:002:002`;
-- scope: `MAIN_V002_C002_E002`;
+- story ID: `BA:main:002:002:003`;
+- scope: `MAIN_V002_C002_E003`;
 - arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第2話;ゲーム開発部の平凡な日常`.
+- source title: `第3話;～アリス、冒険を始めます！～`.
 
-Use the V002 C001 checkpoint as the latest canonical synthesis and E001 as a prospective provisional supplement. Rio and Himari now give direct participant testimony that they supplied C&C and Mirror respectively for an Alice-identity test, but the club and Sensei have not learned this. Their `無名の司祭`/`名もなき神々の王女` classifications and opposed world-ending-weapon/junior interpretations are not objective proof of origin or harm. Rio's attempted detention and Himari's apparent escape end at an unidentified possible fifth-C&C encounter. Preserve the `AMAS A` label anomaly and Himari's interrupted guess. BA-C019 remains chapter-local; Rio/Himari are newly tracked `UNMODELED`, with no frozen prediction.
+Use the V002 C001 checkpoint as the latest canonical synthesis and E001–E002 as prospective provisional supplements. Rio and Himari give participant testimony that they supplied C&C and Mirror respectively for an Alice-identity test, but the club and Sensei have not learned this. Their origin/threat classifications are not objective proof; Rio's attempted detention and Himari's possible fifth-C&C encounter remain unresolved. E002's ordinary play independently tests Yuzu's partial model: she is shy under praise yet wins an anomalous match and limits her loop tactic in friend-play. The cheat mechanism, invented UZQueen multipliers, next-game product and next prize are unverified/unrealized. Preserve source-label and branch-choice quarantines. BA-C019 remains chapter-local, readiness is unchanged and no frozen prediction exists.
 
 The next permitted story operation is the unit above under these controls.
 
@@ -995,3 +996,13 @@ The checkpoint's forward frontier is `BA:main:002:002:001` / `MAIN_V002_C002_E00
 - Rio and Himari enter character coverage as `UNMODELED`; totals are **21 `PARTIAL_MODEL` / 18 `UNMODELED`** across 39 tracked. No new claim ID, model or prediction. `BA-C019` is complicated by Alice's covert safety classification, not disproved. Contextual backfill **DEFER**.
 
 The next unopened source is `BA:main:002:002:002` / `MAIN_V002_C002_E002`, `第2話;ゲーム開発部の平凡な日常`.
+
+## V002 C002 E002 state delta
+
+- `MAIN_V002_C002` is active-provisional through E002; coverage is **64 / 310**. V002 C001 remains the latest canonical checkpoint.
+- Sensei joins the game club in a free interval, wins the shown match against Momoi and is asked for next-game ideas. A four-friend next-prize promise and slow-life dungeon RPG/fighting hybrid are aspirations, not a built title or award; Sensei is not shown designing it.
+- Alice loses to abnormal online-game behavior the group calls cheating; its cause/opponent are not forensically established. Yuzu reads visual/timing cues, bypasses a manipulated-looking hitbox with guaranteed damage and wins as `UZQueen`. Her `ハメ技` restraint among friends is an explicit enjoyment/relationship inhibitor, with a situated exception here. Momoi's numeric “mode” boosts are invented setting, not measurements.
+- Several Momoi/Midori and Yuzu-entry labels are inconsistent; exact voice is quarantined. Sensei choice groups `002`/`007` have alternative tones; `u:0040` is internal. E001's Rio/Himari information remains audience-only and its cliffhanger unresolved.
+- No tracked subject, readiness or claim ID changes: **21 `PARTIAL_MODEL` / 18 `UNMODELED`** across 39; no standalone model, frozen prediction or side-source backfill. `BA-C019` receives only a local extension about creative aspiration versus output and fair/socially sustainable play.
+
+The next unopened source is `BA:main:002:002:003` / `MAIN_V002_C002_E003`. Its title is `第3話;～アリス、冒険を始めます！～` per the crosswalk, but its narrative has not been read.

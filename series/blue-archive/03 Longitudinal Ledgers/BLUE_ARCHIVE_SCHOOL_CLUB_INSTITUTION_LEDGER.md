@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -458,3 +458,9 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Prior C&C operation:** Rio and Himari directly describe a joint test in which Himari supplied Mirror and Rio supplied C&C as a crisis to reveal Alice/`AL-1S`. This new retrospective participant testimony explains more than the C001 characters knew, but not every order, participant's informed purpose or the club's consent.
 - **Security force:** an `AMAS A`-labeled first-person detention threat is source-attribution suspect; Rio's later arrest order is secure. AMAS units stop after Himari's hack by Rio's internal appraisal; Himari appears to escape, then encounters an unidentified possible fifth C&C member. No detention outcome is shown.
 - **Alice classification:** shared research terms about priest/oopart/princess are claims by two researchers; opposed “weapon” and “junior” readings are not council findings or verified ontology. The club's special prize/temporary reprieve from C001 is not revoked in this unit.
+
+## V002 C002 E002 institutional delta — ordinary club activity, no new award
+
+- **Club continuity:** the group occupies its room for play and next-title brainstorming under the C001 special-prize/temporary-deferral baseline. A proposed slow-life dungeon RPG with fighting elements and a four-friend promise to pursue the next Millennium Prize are aspirations, not an entry, deliverable or council decision.
+- **Online match:** anomalous behavior is visible and called cheating by the players, but no platform adjudication, opponent identity or code audit appears. Yuzu's win is a game outcome, not an institutional anti-cheat finding.
+- **No covert transfer:** Sensei and the club are not told Rio/Himari's E001 operation or Alice classifications. E001's fifth-C&C encounter, council sanctions/paperwork and Alice origin remain open.

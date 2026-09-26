@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -612,3 +612,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Princess / weapon / junior:** shared mythic classification turns into incompatible practical meanings. Rio's threat reading and Himari's junior framing make Alice's C001 chosen belonging ethically salient but do not prove safety or danger.
 - **Rationality and performative play:** Himari uses exaggerated humor while anticipating arrest and hacking security; Rio literalizes a joke while keeping secret records and preparing force. Neither register alone certifies ethical or technical superiority.
 - **Home versus containment:** E020's provisional clubroom welcome is followed by a covert plan to classify/possibly contain Alice. The audience knows this conflict before the club does; the narrative creates suspense through unequal information, not through a revoked prize.
+
+## V002 C002 E002 motif / callback delta — play after recognition
+
+- **A “normal day” after a secret threat:** clubroom play and brainstorming resume while E001's covert classification is unresolved. The tonal cut creates audience/character knowledge asymmetry, not proof the threat has ended or reached the club.
+- **Next prize is an ambition:** the special award enabled a provisional room; the four friends now imagine a hybrid game and another Millennium Prize. Creative energy, finished work and official recognition remain distinct tests under BA-C019.
+- **Fair play is relational:** Yuzu can deploy a strong trapping technique against apparent unfair play but avoids overuse with friends because it would endanger shared enjoyment. Winning and sustaining the game relationship are separate values, not a simple skill/fear opposition.
+- **Measured display versus fictional buffs:** visible `UZQueen` victory grounds a bounded tactical reading; invented “mode” multipliers parody game-stat literalism and cannot quantify Yuzu's mind or vision.

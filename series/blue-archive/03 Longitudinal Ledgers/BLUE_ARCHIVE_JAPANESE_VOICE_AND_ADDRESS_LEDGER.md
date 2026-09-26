@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -867,3 +867,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Rio's `万全`/`機密`/`非合理的` are her official risk-management terms. Himari's `同盟ではなく、休戦` corrects the relationship label and limits claims of shared loyalty.
 - `鏡` as `手段` and C&C as `危機` are retrospective co-planner words. `無名の司祭`, `オーパーツ` and `名もなき神々の王女` are reported classificatory terms, not verified biography.
 - **Quarantine:** `世界を終焉に導く兵器` and `『かわいい後輩』ですよね♪` are separate unlabeled narration at `u:0042-0043`; the following dispute strongly suggests opposed Rio/Himari meanings but not exact printed speaker voice. `AMAS A`'s `u:0055` first-person detention line is Rio-like, not secure AMAS agency or Rio quotation. Rio's parenthetical `u:0061-0063` is interior inference about hack timing. Himari's `5番目のC&C` is interrupted guess, not confirmed membership.
+
+## V002 C002 E002 delta — game idiom and role-flip quarantine
+
+- `Player MOMORIA LOSE` / `WINNER! Player [USERNAME]` and later `WINNER! Player UZQueen` are displayed results. “Eighth try” is a Sensei choice line acknowledged in dialogue, not independent match telemetry.
+- `UZQueenモード` with `思考力が1.5倍`/`視力が2.8倍` is Momoi's deliberately game-like praise, explicitly challenged in scene. It is not literal cognitive/visual evidence.
+- `チート` names the group's interpretation of abnormal screen behavior. `ハメ技` is Yuzu's tactic term; her reason to limit it among friends is that it spoils fun and creates quarrels. Against this opponent she makes a situated exception, while admitting future hacks may defeat it.
+- Sensei choices `002` and `007` each have two alternatives; the remaining nineteen groups have one option. `先生（心の声）` at scene-2 `u:0040` is internal, not spoken.
+- **Attribution quarantine:** Momoi/Midori “older sister” and self-address clashes across `u:0013-0018` and `u:0025-0057`; `u:0066` prints Midori where Alice's urgent entry is contextually apparent; `u:0118`, `u:0122`, `u:0129` and `u:0165` misfit surrounding action. Do not repair them into exact Japanese voice examples; preserve outcome and coherent event order separately.

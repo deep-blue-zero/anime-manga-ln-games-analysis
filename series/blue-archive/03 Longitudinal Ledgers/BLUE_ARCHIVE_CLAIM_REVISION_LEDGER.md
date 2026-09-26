@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
 supersedes: []
@@ -1296,3 +1296,13 @@ No `BA-C019` is opened by E020 alone. Official special award, provisional counci
 - **BA-C019: REVISE / COMPLICATE** — the chapter's creative-value and institutional-belonging distinction survives, but a separate hidden safety/origin classification threatens the room's apparent security. This unit does not validate either “weapon” or “junior” as complete ontology.
 
 No new claim ID yet. Rio/Himari's former co-planning is direct participant testimony; their classification terms, Rio's world-ending reading and Himari's fifth-C&C guess remain bounded. Club/Sensei knowledge is unchanged. Contextual backfill **DEFER**; no frozen prospective character prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E002 claim transitions — competence with a social inhibitor
+
+- **BA-C001–C004, C007, C010–C011: LOCAL PRESSURE-TEST** — Yuzu's competence and restraint coexist: she wins by tactical analysis but says overusing the loop against friends spoils play. This local game ethic cannot settle Rio/Himari's covert-authority conflict.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei participates and wins a Momoi match; Yuzu, not Sensei, handles the apparent cheater, and no next game is authored by the teacher.
+- **BA-C008: BRANCH-BOUNDED** — twenty-one Sensei choice groups, two with alternate tones, do not yield a single cumulative dialogue or fixed voice.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Shiba Seki or Abydos mechanism is revised by a club game session.
+- **BA-C019: LOCAL EXTENSION** — the next-prize concept remains unbuilt/unawarded, while Yuzu's fairness rule shows that player experience includes social sustainability beyond a win counter. It does not prove creative quality or permanent institutional standing.
+
+No new claim ID, side-source backfill or frozen prospective character prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The Rio/Himari and fifth-C&C frontier remains audience-only/open. Contextual backfill **DEFER**.

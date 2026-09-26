@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -463,3 +463,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **RIO ↔ HIMARI:** both testify to planning the prior Mirror/C&C test, but Himari explicitly corrects Rio's `同盟` to `休戦`. Their opposed interpretations of Alice end cooperation; Rio attempts detention and Himari evades AMAS. This is a changed tactical relationship, not evidence they were friends or that the full prior operation was consensual for Alice/club.
 - **RIO/HIMARI ↔ ALICE:** both classify the absent Alice through inherited terms, but one “weapon” and one “cute junior” reading collide. Alice does not hear them and her own bonds/choices are not overwritten by either researcher's label.
 - **HIMARI ↔ unknown C&C figure:** her interrupted `5番目のC&C` guess follows apparent escape. It is not a confirmed identity, encounter result or new named relationship.
+
+## V002 C002 E002 relationship delta — ordinary friendship conditions
+
+- **YUZU ↔ CLUB:** Yuzu's shyness under praise and her refusal to overuse `ハメ技` against friends coexist with precise, assertive action against an apparently unfair opponent. The game-fun concern is an explicit relationship-sensitive limit; the one exception does not abolish it.
+- **ALICE ↔ YUZU:** Alice looks to Yuzu's winning record, loses her own match and watches Yuzu's successful rematch. She accepts a new tactic as part of play; no mentorship contract or future implementation is shown.
+- **SENSEI ↔ CLUB:** the invitation brings Sensei into relaxed play and brainstorming; the club solicits ideas, but no authored design or adult rescue is established. The four friends' next-prize promise remains their shared aspiration.
+- **RIO/HIMARI ↔ CLUB:** no contact or information transfer is represented. The E001 covert conflict stays outside the club's knowledge in this unit.
