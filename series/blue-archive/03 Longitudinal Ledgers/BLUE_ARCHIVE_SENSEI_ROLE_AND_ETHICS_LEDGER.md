@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -524,3 +524,9 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Sensei does not appear, speak, command the test, or choose Alice's weapon. No Sensei branch or reconstruction rule is supplied (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
 - Alice's expressed preference is honored only after an unexpected physical/qualification trial; her unsafe indoor firing and the workshop damage complicate the ethic of enabling choice without preparation or informed risk assessment.
 - Utaha's test is an engineering gate, not an adult rescue or a Schale authorization. No frozen prediction is testable (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E008 delta — voluntary membership without adult appearance
+
+- Sensei is absent: no speech, physical intervention, review command or selectable choice is represented. Do not credit an adult with Yuuka's criterion or the club's rehearsal (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
+- Yuuka's `自分の意志` test bears on the standing ethical distinction between enabling another person's agency and merely producing a useful institutional status. Alice's prior `仲間` language matters but does not prove informed knowledge of card provenance or freedom from club-survival pressure.
+- The review has not asked substantive questions or ruled. No frozen adult-model prediction can be adjudicated (`NO_DIAGNOSTIC_OPPORTUNITY`).

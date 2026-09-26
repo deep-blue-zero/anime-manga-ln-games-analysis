@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -351,3 +351,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **GAME DEVELOPMENT CLUB ↔ ENGINEERING CLUB:** Momoi requests a weapon, Utaha offers prototypes, then changes the terms for the expensive one. The unit ends with a gift, not an enduring alliance or proof the damaged ceiling is repaired.
 - **MOMOI/MIDORI ↔ ALICE:** the sisters witness capability beyond their assumptions; Momoi presses the gift and Midori asks whether Utaha really permits the transfer. Alice's chosen weapon remains distinct from the sisters' initial plan to equip her.
 - **UTAHA/HIBIKI/KOTORI:** the engineering trio differs in decision roles—Utaha decides, Hibiki designs/records, Kotori explains and protests cost.
+
+## V002 C001 E008 relationship delta — a recruit speaks under club pressure
+
+- **YUUKA ↔ GAME DEVELOPMENT CLUB:** Yuuka follows the reported fourth-member claim with a visit rather than automatically accepting or rejecting it. She says membership counts if Alice came by her own will; Momoi argues headcount. Procedure and adversarial affect coexist, and no ruling occurs here.
+- **ALICE ↔ CLUB:** Alice rehearses a plausible school/programmer story for a review whose stakes Momoi and Midori understand. She previously voiced `仲間`, but this scene does not show full knowledge of registration provenance or that she can refuse without losing support; do not collapse script performance into informed agreement.
+- **MOMOI ↔ MIDORI:** Momoi treats safety as achieved and diverts toward raid play; Midori insists the pending review may decide club survival. Their difference is about risk appraisal within a shared protective goal, not evidence of disloyalty.
+- **ALICE ↔ YUUKA:** first direct contact includes Alice's `妖怪` insult, Momoi's attempted `妖精` repair and Yuuka's irritation. Yuuka nevertheless addresses Alice and announces questions; no settled personal antagonism or acceptance is established.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -341,3 +341,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Railgun:** `光の剣：スーパーノヴァ`, described as a space-battleship live-round prototype, reportedly over 140 kg with recoil over 200 kg. Alice lifts and fires it, damaging the ceiling. Utaha later permits gift and requests handles/strap; safe use/repair remain open.
 - **Qualification:** Utaha calls a drone/robot test `資格` only after her initial take-any-prototype offer. Scene 3 confirms a passing outcome but not tactics or prior informed agreement. These devices were previously requested for disposal; no ruins-robot identity is shown.
 - **Alice's body:** Utaha estimates ton-class grip and infers nanomachine repair/combat design. These remain engineer hypotheses, not proven origin. Formal school/club standing and Veritas roster provenance stay unverified.
+
+## V002 C001 E008 institutional delta — claimed member versus reviewed member
+
+- **Club survival:** Momoi reports a fourth member and assumes abolition is averted; Midori and Yuuka establish that a scheduled review still conditions recognition. No survival decision is represented.
+- **Yuuka's criterion:** she says a member counts if Alice came voluntarily and that club rules recently changed from self-report toward stricter confirmation. This is a council actor's procedural account; no regulation text, effective date or independent enforcement record is shown.
+- **Alice's proposed school identity:** first-year, recent transfer, missed course applications, classes next month and present club eligibility are rehearsed claims. The E006 card is physically present in prior evidence, but current lawful enrollment, course exception and Veritas action remain unverified.
+- **Separate qualifications:** E004's unknown factory gate, E007's engineering weapon test and E008's club-member review do not share an established legal or technical authority.
+- **Pending outcome:** Yuuka has only announced simple questions after a `取り調べ` slip. No substantive answer, registry audit, admission certification or dissolution is in this unit.

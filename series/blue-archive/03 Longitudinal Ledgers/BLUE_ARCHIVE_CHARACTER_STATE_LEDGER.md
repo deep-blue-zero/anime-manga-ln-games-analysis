@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -380,3 +380,13 @@ Material contextual evidence, no readiness promotion or standalone model; `NO_DI
 - **Sensei/Yuzu:** absent. No source establishes that the test drones are the ruins robots.
 
 Material context and resource evidence, no standalone model or promotion; `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine role-flipped labels in scene-1 `u:0004`, scene-2 `u:0009-0013`, `u:0040`, `u:0062`, `u:0074-0076`, `u:0095-0097`, `u:0133-0137`, scene-3 `u:0004`, `u:0008`.
+
+## V002 C001 E008 delta — rehearsed identity and pending voluntary-membership review
+
+- **Alice:** switches from an explicit fantasy-avatar biography to a rehearsed first-year/recent-transfer/course-registration explanation, then slips from RPG combat role into a claimed programmer role and `Jaba` boast. These are situated utterances, not proof of transfer, course eligibility, or skill. Calls Yuuka `妖怪` and asks if a wrong answer could cause a bad ending; the actual questions have not begun.
+- **Momoi:** prematurely says the club crisis is over, despite knowing Yuuka will review Alice; coaches the introduction, tries to repair the monster insult, and presses the headcount argument. Her optimistic framing and concern for the club do not establish Alice's informed choice.
+- **Midori:** interrupts raid play to ask about Yuuka's review and treats it as a serious risk to club survival. She finds part of the school story plausible but worries about the larger performance; `u:0023` is label-conflicted.
+- **Yuuka:** returns as a procedural actor, having heard of the fourth member, and conditions valid membership on Alice coming of her own will. Reports stricter club rules, slips into `取り調べ`, then says she will ask questions. No decision or substantive question occurs here. Still `UNMODELED`.
+- **Sensei/Yuzu/engineers:** no direct sample or state change.
+
+Material contextual evidence for Yuuka/Alice/Momoi/Midori, but no standalone rule or readiness promotion; sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`, and `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0021`, `u:0023`, `u:0030-0031`, `u:0045` for precise speaker voice/agency.

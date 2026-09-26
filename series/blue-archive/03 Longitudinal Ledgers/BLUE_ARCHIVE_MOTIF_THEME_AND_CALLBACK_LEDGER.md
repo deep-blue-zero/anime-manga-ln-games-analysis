@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -497,3 +497,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Qualification returns:** E004's automated access `資格` and E007's late engineering `資格` classify people differently; neither establishes legitimate school status or comprehensively judges Alice.
 - **Choice versus safe use:** Alice chooses, lifts and fires; respecting preference is not equivalent to protecting workers or managing recoil and blast.
 - **Expert inference versus origin:** Utaha reads the body as combat-designed/self-repairing, but the episode ends on `君はいったい……？`, an unanswered question rather than a reveal.
+
+## V002 C001 E008 motif / callback delta — three meanings of eligibility
+
+- **Three `資格` gates:** factory access in E004, Engineering Club railgun test in E007 and Yuuka's club-membership review in E008 have different authorities and consequences. Passing one cannot certify another; classification is not belonging.
+- **Card versus will:** E006's student ID and Alice's `仲間` utterance are challenged by Yuuka's direct voluntariness criterion. The game-loving recruit is neither a mere fabricated record nor demonstrably fully informed about it.
+- **RPG role versus civic role:** Alice can recite a school introduction when cued but first offers an avatar biography, later a tank role, then a shaky programmer claim. Learning a script is not the same as occupying its claimed institutional history.
+- **Hero/villain framing misfires:** Momoi's earlier antagonist treatment of Yuuka becomes Alice's `妖怪` insult; Momoi's `妖精` repair cannot remove the face-to-face relational cost.
+- **Question cliffhanger:** the episode stops before Yuuka asks anything substantive. `バッドエンド` signals Alice's anxious frame, not a foretold ruling.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E003 active provisional; E004 unopened
+current_sequential_boundary: MAIN_V002_C001_E008 active provisional; E009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1163,3 +1163,12 @@ No `BA-C019` yet; identity legibility versus chosen belonging is a recurring can
 - **BA-C009–C018: PRESERVE / no direct global test** — the engineers' budget/eligibility problem is not automatically the Volume 1 debt/land pattern.
 
 No `BA-C019` yet. Utaha's nanomachine/combat-purpose account is an inference from body observations, not a source-verified biography. Contextual backfill remains **DEFER**.
+
+## V002 C001 E008 claim transitions — headcount meets a voluntariness criterion
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Yuuka's stated condition asks whether Alice joined of her own will, exposing the gap between the club's benevolent aim, a presented card, a fourth name, and an informed, free decision. No review result follows yet.
+- **BA-C005–C006: PRESERVE REJECTED** — no Sensei action appears; Momoi's overconfidence, Midori's caution, Alice's register slips and Yuuka's mixed procedural/adversarial stance resist a simple competence split.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice/action.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium's club membership review remains locally scoped.
+
+No `BA-C019` is opened. Yuuka reports a rule change, but no regulation is displayed; Alice's transfer/programming story is rehearsed, not verified. Actual questions, ruling, and club survival remain OPEN. Contextual backfill remains **DEFER**.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:003; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -742,3 +742,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `140kg以上`, `200kgを超えます` are engineering specifications; `1トン以上と推定` and `ナノマシンによって「自己修復」` are Utaha's later estimate/inference, not measured origin facts.
 - `資格` is Utaha's late-imposed weapon test, different from the factory's automated entry category. Scene 3 confirms result but not tactics.
 - **Attribution quarantine:** scene-1 `u:0004`; scene-2 `u:0009-0013`, `u:0040`, `u:0062`, `u:0074-0076`, `u:0095-0097`, `u:0133-0137`; scene-3 `u:0004`, `u:0008`. These corrupt precise Utaha/Hibiki/Kotori/Alice voice routing. No Sensei choices.
+
+## V002 C001 E008 delta — avatar script, school script, and hostile labels
+
+- `廃部の危機は免れた` is Momoi's asserted relief, not an institutional ruling; Midori immediately names the pending `資格審査`.
+- `アリス・ザ・ブルーアイ`/`ドワーフ族の槍騎士` is Alice's in-game avatar profile, corrected to `アリス自身` before she gives a school introduction. The latter is a rehearsed account, not verified record.
+- `タンク兼光属性アタッカー` yields to `プログラマー`; `Jaba` is the spoken/represented claim and is not silently corrected into proof of Java fluency.
+- `妖怪` is Alice's direct misclassification of Yuuka, while Momoi substitutes `妖精` as face-saving repair. Yuuka's `悪役` response shows she hears herself cast into the club's game-villain frame.
+- `自分の意志でここに来た部員だったら` is Yuuka's explicit voluntary-membership condition. Her `取り調べ` slip is followed by `簡単な質問`; this is a prospective inquiry, not completed interrogation.
+- `バッドエンド` is Alice's gaming frame for review risk; it does not indicate a literal choice branch. No Sensei choices occur.
+- **Attribution quarantine:** `u:0021`, `u:0023`, `u:0030-0031`, and `u:0045` conflict with address/turn logic. Use secure surrounding turns for topic sequence, not exact speaker-specific voice rules.
