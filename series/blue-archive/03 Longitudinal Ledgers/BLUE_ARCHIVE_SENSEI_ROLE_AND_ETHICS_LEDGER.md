@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -700,3 +700,7 @@ Sensei inwardly checks the party, explicitly worries about Nel through singleton
 ## V002 C002 E021 delta — Akane rejects adult sole-authorship
 
 Sensei's `choice:001` accepts the team's decision after Nel offers C&C a choice and Chihiro confirms assent; `u:0001`/`0053`/`0062`/`0105` are inward, not an audible master plan. Rio imagines the assault is Sensei's, authorizes main cannon partly from a private hunch, and then condemns the adult for making an injured student fight. Akane explicitly says Sensei did not give that command. Yuzu/Momoi, Chihiro and C&C supply the actual proposal, implementation and risk-bearing. This defeats sole-savior/sole-blame attribution while leaving an adult responsibility question: team consent and local success do not establish Nel's medical safety or settle whether the risk was proportionate. Three choices are singleton; no Alice rescue, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E022 delta — binary challenge under active system danger
+
+Sensei thanks immobile Nel, joins the top-floor party and asks Rio/Alice-status questions. The inward `u:0037-0038` faults Rio for judging without consultation and forcing her conclusion; E001 Rio–Himari dissent means “consulted nobody” is not literally true, though Alice/club exclusion and coercion are. Key's activation, broken communications and Rio's resource regret make danger concrete without validating total world-end certainty. Rio (under anomalous `AMAS A` labels) proposes dying to stop Eridu alone. Sensei's inward trolley analysis and all-save desire cannot be reconstructed as a complete audible speech, but secure `choice:010-011` ask whether the lever-puller overlooked helpers. Yuuka/Noa immediately begin a power-cut alternative; success, safety and Alice's own choice remain unseen. Eleven choice groups include one two-option branch; no omniscient solution, standalone model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

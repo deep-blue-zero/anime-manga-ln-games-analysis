@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -592,3 +592,11 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Abi-Eshuh/local outcome:** Rio authorizes a main cannon after an uneasy hunch, though she later calls her data forecast certain. Nel remains active after the shot and defeats Toki in the immediate exchange once evasion is paralyzed. Operator injuries, suit permanence and custody are not stated.
 - **Medical/consent:** Nel's earlier severe limits remain; she verbally does not compel C&C, Akane and Asuna assent, yet leader pressure and lack of clinical clearance persist. Rio's rebuke wrongly attributes the whole risk decision to Sensei.
 - **Alice governance:** neither the deadline nor Alice/halo condition is observed. Winning the guard fight does not decide Rio's threat classification or complete rescue.
+
+## V002 C002 E022 institutional delta — Eridu resources and attempted power response
+
+- **Guard-to-room access:** Rio says Toki's defeat exhausts her defensive hand; the club reaches the central tower top floor and Alice's powered room. Nel cannot move from numbness and delegates retrieval. No safe extraction, treatment or formal consent hearing occurs.
+- **Key/process:** communications break, Rio sees system/city change, Key claims AL-1S-linked Eridu resources, 10,000 exabytes, ATRAHASIS ark activation and follower summoning; Rio reports follower appearances. Treat figures, history and maximum effect as actor claims, while the activation/disruption is locally observed. Resource progress reaches a reported 99%, not completion.
+- **Competing safety controls:** Momoi suggests unplugging Alice; Key warns of irreversible personality damage. No independent diagnostic confirms the warning, but the group does not execute a simple disconnect in this unit. Rio proposes a fatal solo shutdown; it is a proposal, not the only proven intervention.
+- **Fortress backfire:** Rio says she assembled Millennium technology/power/resources in Eridu to avert world danger, then questions whether that concentration made the city the trigger. This is institutionally significant self-critique, with causality still provisional.
+- **Yuuka/Noa:** Yuuka orders a total power cut and Noa acts. The source stops before confirming shutdown, collateral effects or Alice safety; do not close the procedure.

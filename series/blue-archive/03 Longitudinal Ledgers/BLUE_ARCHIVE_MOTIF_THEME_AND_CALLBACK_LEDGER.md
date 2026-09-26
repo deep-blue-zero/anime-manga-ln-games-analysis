@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -757,3 +757,11 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Making and credit:** Yuzu credits a prior Momoi elevator idea, Chihiro supplies technical access, C&C takes combat risk, and Sensei accepts. Rio's sole-Sensei explanation is directly corrected by Akane, extending the Pavane maker/reception/recognition question into tactical authorship.
 - **Rationalist hunch:** Rio privately uses `嫌な予感` to authorize the cannon, then publicly calls the opponents irrational and certain to lose. The episode distinguishes her self-image from her actual decision path.
 - **Care versus guts:** Nel fights through serious injury and survives the cannon sequence, but the spectacle does not demonstrate treatment or safety. Friendship is a motive with a bodily cost.
+
+## V002 C002 E022 motif / callback delta — the name, the ark and another lever
+
+- **Name versus function:** the club calls Alice by her chosen/social name; Key calls her only “Princess” and claims names corrupt purpose. The attack is on recognized personhood and belonging, not just tactical custody.
+- **Fortress as feedstock:** Rio's all-resource defensive city appears to supply Key's ark process. This possible protective-measure backfire is Rio's own realization, supported by Key's resource capture reports but not a complete causal audit.
+- **Trolley problem reopens:** Rio moves from proposing Alice's destruction to offering herself as the one victim. Sensei's secure questions ask about overlooked helpers rather than accepting a fixed two-choice frame; Yuuka/Noa's arrival makes that possibility concrete, with outcome deferred.
+- **Victory without rescue:** Toki's fall and Rio's concession grant access, but a silent Alice/Key confrontation blocks the simple “win guard, restore friend” ending. Nel's numbness persists after victory.
+- **Clock at 99%:** Key's reported progress and Yuuka's command create urgency, not a completed ark or verified rescue.

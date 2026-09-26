@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -727,3 +727,14 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operationa
 - **Sensei:** accepts the team's decision in a singleton choice. Several other lines are inward; neither plan authorship nor full risk assessment is shown.
 
 Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E022 delta — Alice reached, Key speaks, Rio reverses
+
+- **Alice / AL-1S:** the group reaches her in the tower, but she gives no secure voluntary response. Key says her surface personality is isolated deep in a database and warns forced disconnection would irreparably harm her. These are controlling-speaker claims; do not assign Key's statements, assent or intent to Alice. The ordinary-club `PARTIAL_MODEL` is not promoted.
+- **Key (new provisional subject):** self-identifies after a `???`/narrator transition, denies Alice's name and claims a priest-made throne role. It announces ATRAHASIS ark-resource capture and follower summons. Broken communications, Rio's city-change appraisal and her report of followers support local danger; the resource quantities, precise personality state and Kivotos-ending forecast remain unverified.
+- **Rio:** concedes Toki's defeat, observes the Key process and asks whether concentrating Millennium resources in Eridu caused the danger she sought to prevent. She proposes a one-person, potentially fatal shutdown and orders others to flee; `AMAS A` printed labels for `u:0105-0123` are contextually Rio-voiced but quarantined. No sacrifice or system stop occurs.
+- **Sensei:** private critique of Rio's unilateral decision overstates literal “consulted nobody” against E001 Himari dissent; secure `choice:010-011` instead ask whether a forced binary overlooks helpers. The inward all-save desire is not an achieved outcome.
+- **Yuuka/Noa:** Yuuka orders total power cut and Noa responds/acts at the end; actual effect and Alice safety are not shown.
+- **Nel/club/Chihiro:** Nel is numb and immobile, yet passes Alice retrieval to the group. Chihiro finds the high-power room; the club reaches a silent Alice and hears Key. No rescue completion or Nel medical clearance.
+
+Key enters `UNMODELED` as a separate provisional speaking subject, not merged into Alice: **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E021 active provisional; E022 unopened
+current_sequential_boundary: MAIN_V002_C002_E022 active provisional; E023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1496,3 +1496,14 @@ No new claim ID, model, frozen prediction or side-source admission. Nel fitness,
 - **BA-C019: FRIENDSHIP AS STATED MOTIVE** — Nel and Akane name Alice a friend worth retrieving. Local victory has not returned her or established her consent/safety.
 
 No new claim ID, model, frozen prediction or side-source admission. Elevator mechanism, Nel/Toki condition, tower access, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E022 claim transitions — active Key process and failed forced-binary certainty
+
+- **BA-C001/BA-C016: REVISE / COMPLICATE** — Rio concedes guard defeat, suspects her resource fortress enabled the feared process, then again chooses solitary command/sacrifice. Sensei's secure questions ask whether a two-sacrifice trolley framing overlooks helpers; Yuuka/Noa act before any result. E001 Himari dissent forbids taking Sensei's inward “consulted nobody” literally.
+- **BA-C002–C004, C007, C010–C011: LOCAL SYSTEM RISK STRENGTHENED** — Key announces protocol/ark activation and resource capture, communication degrades, Rio observes city change and reports follower appearances. The exact data amount, disconnection harm, world-end inevitability and ark completion remain interested/unverified.
+- **BA-C005–C006: COALITION CONTINUES** — Nel's handoff, club entry, Chihiro's search and Yuuka/Noa's remote intervention create alternatives to Rio's sole actor. Outcome of the power command is next-unit unknown.
+- **BA-C008: VOICE BOUNDED** — eleven choices, one two-option branch, duplicate convergence, inward Sensei lines, and `AMAS A`/Alice/Rio role-label anomalies limit exact audible ethical dialogue.
+- **BA-C019: NAME/BELONGING UNDER DIRECT ATTACK** — Key treats “Alice” as an unwanted friend-given name and says her surface personality is isolated. Physical access does not restore agency, consent or club home.
+- **BA-C009, C012–C015, C017–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki mechanisms unchanged.
+
+No new durable claim ID pending chapter checkpoint, no model/frozen prediction or side-source admission. Key identity/architecture, true personality state, disconnect risk, power-cut result, Rio survival, Alice rescue and maximum Kivotos effect remain OPEN. Contextual backfill **DEFER**.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:021; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:022 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -605,3 +605,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **NEL ↔ C&C:** Akane warns about injury, Nel says she will not force help, Akane and Asuna assent to their leader. Their coordinated roles enable local victory, but hierarchy and Nel's fitness remain live qualifications.
 - **RIO ↔ SENSEI/AKANE:** Rio imagines the plan as Sensei's and morally blames them for injured Nel's participation; Akane directly rejects that command attribution. Rio's “zero” prediction is then defeated locally.
 - **MOMOI/YUZU/CHIHIRO ↔ RESCUERS:** Yuzu credits Momoi's earlier elevator idea, Chihiro executes the hack, and C&C turns it into a tactical opening. Alice is still absent and cannot be assigned knowledge of this coalition action.
+
+## V002 C002 E022 relationship delta — Alice present but unreachable
+
+- **NEL/C&C ↔ CLUB/SENSEI:** Nel is numb and unable to move, asks after her teammates and tells the younger group to bring Alice back; Sensei thanks her and proceeds. This is a handoff, not proof of Nel's recovery or full C&C injury status.
+- **CLUB ↔ ALICE/KEY:** Momoi/Midori/Yuzu reach Alice but get no secure answer from her. Key denies their name for her, claims isolation and warns against unplugging. Preserve Key as separate provisional speaker; neither its threat nor the printed `u:0051` Alice-label anomaly is Alice consent.
+- **RIO ↔ ALICE/SENSEI:** Rio concedes the guard battle but maintains her threat forecast until Key activation forces self-doubt. She then proposes stopping the system alone; Sensei's secure choices challenge overlooked-help assumptions. Her earlier E001 Himari consultation prevents a literal “spoke to no one” claim, but Alice/club exclusion remains.
+- **YUUKA/NOA ↔ COALITION/RIO:** Yuuka orders Noa to cut power at the 99%-report frontier. This widens the responding network beyond Rio and the tower party; impact remains unseen.
