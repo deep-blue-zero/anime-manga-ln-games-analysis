@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.20"
+version: "11.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 94 complete i-n-g primary documents / T7S_B0080–T7S_B0119; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 97 complete i-n-g primary documents / T7S_B0080–T7S_B0120; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 425`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 410`; `last_closed_block = T7S_B0119`. The admitted horizon contains 329 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 94 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 430`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 416`; `last_closed_block = T7S_B0120`. The admitted horizon contains 332 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 97 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1328,3 +1328,26 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.21. [B0119](../02%20Readings/
 | `EDGE-0417` | `PRAISE_WITH_PRODUCTION_GAPS` | Warm post-live assessment in `EV-B0119-005` coexists with errors, Sawara substitution and Coney's vague demographic pitch; success does not document governance. |
 
 `T7S_B0119_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0006`/`0022` advanced; no new world/thread/unit record, full live audit, injury diagnosis or total i-n-g chronology.
+
+## B0120 Ayumu's formal service lesson and café-context mismatch
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.22. [B0120](../02%20Readings/T7S_B0120_DEEP_READING.md) owns the A/B/C locator key. B0035/B0078/B0094 supply bounded Ayumu/Kazumi/Miwako context; menu order is not a fictional total chronology. The maid café is Ayumu's outside workplace, not a newly named Nanasta unit.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0120-001` | Ayumu says a Victorian-themed café event forbids her usual `ぽえきゅん` manner. After she clings to Player and he asks her to release, Miwako offers speech lessons, and Ayumu accepts. | A:P2–36; `KNOW-0203`. Neither the initial embrace nor teasing proves Player misconduct; Victorian premises are character claims. |
+| `EV-B0120-002` | Miwako demonstrates ordinary and master-oriented formal language; Ayumu repeatedly slips. Kazumi says her British reading may help and Ayumu welcomes her teaching. | B:P1–43; `KNOW-0204`. Demonstration does not certify period expertise. |
+| `EV-B0120-003` | A week later Ayumu presents a formal costume/register and calls it another maid mode. Her tea tastes bitter to Player/Coney; Chacha supplies a hard-water and milk/sugar explanation. | C:P1–38; `KNOW-0205`. Formal skill is shown; historical accuracy, brewing method and general tea claims are not verified. |
+| `EV-B0120-004` | Ayumu declines Coney's desk-cleaning request under a claimed service contract and rank schema, treating Chacha as lady and Player as worker. Kazumi praises fidelity; Player/Coney see the café-customer mismatch, and Coney floats an insult-maid concept. | C:P39–58; `KNOW-0205`; `REL-0397`–`0400`. No displayed legal contract, verified class status or implemented concept. |
+| `EV-B0120-005` | At a later lesson Ayumu uses her usual voice, says it fits her best, and Player reports the café event trouble-free. She still addresses Chacha as lady when asked for tea, a pseudo-master/servant residue. | C:P59–78; `KNOW-0206`; `REL-0399`–`0400`. Event delivery and future arrangement unobserved. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0418` | `EVENT_CONSTRAINT_TO_HELP_SEEKING` | The reported ban on Ayumu's usual idiom in `EV-B0120-001` → her accepted Miwako lesson, not a documented permanent workplace prohibition. |
+| `EDGE-0419` | `DEMONSTRATION_LIMIT_TO_NEW_TEACHER` | Ayumu's repeated slips after Miwako's models in `EV-B0120-002` → Kazumi's accepted period-themed instruction, not proof Miwako's care failed. |
+| `EDGE-0420` | `TRAINING_TO_ADDED_REGISTER` | Kazumi's week of teaching in `EV-B0120-002` → Ayumu's credible formal demonstration in `EV-B0120-003`, without independent historical authentication. |
+| `EDGE-0421` | `ROLE_FIDELITY_TO_CUSTOMER_MISMATCH` | The enacted contract/rank logic in `EV-B0120-004` → Player/Coney's objection about café customers; no actual contract or class finding. |
+| `EDGE-0422` | `REPORTED_EVENT_TO_PREFERRED_RETURN` | Player's trouble-free event report in `EV-B0120-005` coexists with Ayumu choosing her familiar idiom; no direct customer or full-event review. |
+| `EDGE-0423` | `ROLE_RESIDUE_AFTER_RETURN` | Formal deference in `EV-B0120-004` → Chacha's continued `お嬢様` address in `EV-B0120-005`; playful continuation, not binding service obligation. |
+
+`T7S_B0120_CLOSE-20260926`: five chapter events and six bounded edges; no new world/thread/unit record, historical-authenticity claim, contract finding, complete café-event audit or total i-n-g chronology.

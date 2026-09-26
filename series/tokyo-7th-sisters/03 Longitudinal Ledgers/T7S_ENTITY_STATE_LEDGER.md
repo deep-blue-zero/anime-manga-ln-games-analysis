@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.20"
+version: "11.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 94 complete i-n-g primary documents / T7S_B0080–T7S_B0119; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 97 complete i-n-g primary documents / T7S_B0080–T7S_B0120; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 202`; `directional_relationship_states = 394`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0119, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 206`; `directional_relationship_states = 400`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0120, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2248,3 +2248,35 @@ The [B0119](../02%20Readings/T7S_B0119_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0394` | Madoka → Kajika, **shared effort and thanks** | Receives Kajika's reassurance, works with the four and values the completed live. A:P43–49; B:P60–77; C:P1–12. Reciprocal `REL-0393`; no full outcome audit. |
 
 `T7S_B0119_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, injury diagnosis, readiness or monograph record.
+
+## B0120 Ayumu's learned register, teachers and pseudo-service relation
+
+The [B0120](../02%20Readings/T7S_B0120_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.22, binds these updates. Existing Ayumu `IDENTITY-0036`/`CHAR-0031`, Miwako `IDENTITY-0043`/`CHAR-0070`, Chacha `IDENTITY-0044`/`CHAR-0066`, Kazumi `IDENTITY-0046`/`CHAR-0035`, Player `CHAR-0001`, Coney `CHAR-0003` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0031` / Ayumu | Feels her `ぽえきゅん` style threatened, accepts two teachers, demonstrates a formal service persona, declines Coney's request under role rules, then chooses her usual idiom while retaining a Chacha honorific. | A:P2–36; B:P1–43; C:P11–75. Neither total identity change nor legal service duty. |
+| `CHAR-0070` / Miwako | Reluctantly models professional and master-oriented speech for Ayumu at Chacha's prompting. | B:P5–35. Her demonstration is care and example, not historically certified training. |
+| `CHAR-0066` / Chacha | Frames a strict British maid image, prompts Miwako, gives a hard-water explanation of bitter tea and accepts Ayumu's lingering lady-address. | A:P17–33; B:P5–24; C:P30–38,44–53,68–75. Her period claims/class elevation remain diegetic. |
+| `CHAR-0035` / Kazumi | Offers teaching based on her British reading, trains Ayumu for a week and praises the resulting register/hierarchy as historically faithful. | B:P37–43; C:P1–23,50–52. No external historical audit or malicious intent established. |
+| `CHAR-0001` / Player | Asks Ayumu to release an anxious hug, praises formal speech, rejects the narrow hierarchy as unsuitable to café work, and later reports the event without trouble. | A:P2–8; B:P22–27; C:P17–23,49–57,61–75. Neither misconduct nor direct event inspection follows. |
+| `CHAR-0003` / Coney | Is impressed by formal Ayumu, dislikes the tea, receives a refused cleaning request, notes ordinary café customers do not fit the hierarchy and jokes about a commercial insult-maid mode. | C:P1–18,26–58. Proposal only; no marketed event or customer outcome shown. |
+| `UNIT-0002` / Nanasta | Provides Ayumu peer/manager teaching and critique around an event at her outside café. | A:P32–36; B:P1–43; C:P1–75. Nanasta does not own the café or establish a standing maid unit. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0203` | Ayumu knows the themed event's rule as told to her and fears loss of her service idiom; Miwako/Chacha/Player learn her concern and offer help. | A:P2–36. Café rule is Ayumu's report; the others' Victorian descriptions are attributed. |
+| `KNOW-0204` | Miwako and witnesses see Ayumu struggle with register control; Kazumi says her British reading equips her to teach, and Ayumu accepts. | B:P1–43. No independent qualification check. |
+| `KNOW-0205` | Participants witness a convincing formal presentation, unpleasant tea and Ayumu's ranked refusal; Kazumi approves, while Player/Coney identify service mismatch. | C:P1–58. Tea/historical cause, real contract and class labels unverified. |
+| `KNOW-0206` | Player reports a trouble-free café event; Ayumu says she prefers her usual style; Chacha/Player/Coney observe a lingering honorific relation. | C:P59–78. Customer response, future contract and full event uninspected. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0395` | Miwako → Ayumu, **reluctant speech model** | Demonstrates two registers for Ayumu's event need. B:P5–35. Reciprocal `REL-0396`; not a guarantee of mastery. |
+| `REL-0396` | Ayumu → Miwako, **accepted help with difficulty** | Requests and tries to follow Miwako's models, but her idiom leaks through. A:P32–36; B:P1–36. Reciprocal `REL-0395`; not rejection of Miwako. |
+| `REL-0397` | Kazumi → Ayumu, **period-framed teacher** | Offers and conducts a week of training, then praises the result. B:P37–43; C:P1–23,50–52. Reciprocal `REL-0398`; claimed fidelity unverified. |
+| `REL-0398` | Ayumu → Kazumi, **consenting trainee with own preference** | Welcomes instruction, performs the new role, later names her own style best. B:P40–43; C:P11–23,61–67. Reciprocal `REL-0397`; no permanent identity replacement. |
+| `REL-0399` | Ayumu → Chacha, **performed lady-address** | Defers to Chacha under the role's rank schema and continues the honorific after returning to usual speech. C:P37–48,68–75. Reciprocal `REL-0400`; not an actual aristocratic finding. |
+| `REL-0400` | Chacha → Ayumu, **accepted preferential service joke** | Is pleased by the role treatment and asks Ayumu for tea later. C:P44–53,68–75. Reciprocal `REL-0399`; no legal master/servant relation. |
+
+`T7S_B0120_CLOSE-20260926`: four actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, class status or employment-contract record.

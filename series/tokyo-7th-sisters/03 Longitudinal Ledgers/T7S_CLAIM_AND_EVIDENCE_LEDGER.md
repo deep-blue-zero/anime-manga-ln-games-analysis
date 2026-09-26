@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.20"
+version: "11.21"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 94 complete i-n-g primary documents / T7S_B0080–T7S_B0119; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 97 complete i-n-g primary documents / T7S_B0080–T7S_B0120; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 567`; `revisions = 42`; `predictions = 7`; `AV_reviews = 66`; `literary_findings = 567`. Claims are bounded to their stated B0001 through B0119 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 40 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 571`; `revisions = 42`; `predictions = 7`; `AV_reviews = 67`; `literary_findings = 571`. Claims are bounded to their stated B0001 through B0120 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 41 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1619,3 +1619,26 @@ Owner and A/B/C locator key: [B0119](../02%20Readings/T7S_B0119_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and the streamed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0119_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, permanent unit, clinical clearance, specialist or monograph promotion.
+
+## B0120 service style, fidelity and bounded outcome
+
+Owner and A/B/C locator key: [B0120](../02%20Readings/T7S_B0120_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.22. B0035/B0078/B0094 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0120-001` | `BOUNDED_INFERENCE`; D1; high | Ayumu's formal mode expands her repertoire without replacing her preferred `ぽえ☆きゅん` service self-description. | A:P26–36; B:P1–43; C:P11–23,61–67. Neither failure to learn nor permanent identity change. |
+| `CL-B0120-002` | `BOUNDED_INFERENCE`; D1; moderate-high | Kazumi's period-framed instruction imports hierarchy/contract rules beyond surface diction; the resulting role proves awkward for café customers even while witnesses applaud its craft. | C:P8–58; `KNOW-0205`. Historical accuracy is attributed, not independently verified. |
+| `CL-B0120-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | Ayumu can refuse a request, but her enacted limit relies on a fictional rank/contract schema; Chacha's preferential-service joke survives her return to ordinary speech. | C:P39–58,68–75. No displayed real contract, legal class, lasting obligation or dominance conclusion. |
+| `CL-B0120-004` | `BOUNDED_INFERENCE`; D1; high for evidence limit | The café event is positively reported rather than shown, and Coney's insult-maid commercial thought remains hypothetical. | C:P55–67. No customer-reception audit or actual marketing policy. |
+
+### AV-0067 — Ayumu's register/costume and unreviewed café event
+
+- Questions/claims: whether selected static states/native transitions prove Victorian authenticity, actual tea cause, legal contract, customer response, event performance or enduring Chacha service; `CL-B0120-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for historical, contractual and reported-event restrictions.
+- Selection: Ayumu ordinary `adv_chara_122_01_01` and formal maid `adv_chara_122_03_04`; Miwako `adv_chara_134_01_01`; Chacha `adv_chara_128_01_01`; Kazumi `adv_chara_146_01_01`; Coney `adv_chara_002_04_03`. All 162 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.22 binds six media receipts.
+- Observed: Ayumu's selected ordinary and formal bodies differ visibly; Miwako, Chacha, Kazumi and Coney bodies bind selected roles. A costume is no authenticity proof.
+- Native occurrence: command-only A:P0–1,37; B:P0,10–11,20–21,44; C:P0,24–25,59–60,76–78. B transitions bracket Miwako's demonstrations; C:P59–60 separates the formal test from the later lesson/event report. No customer scene or contract document appears.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twelve dialogue-associated voice pages plus title cues, BGM/SFX and the café event remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0120_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, real-contract finding, specialist or monograph promotion.
