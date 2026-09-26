@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
+source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -70,3 +70,24 @@ Input: audited V01 commit `eaf159559c6fc76ddd820178d7588545f08c351d`. The V01 fo
 | `MT-CR-016` / `MT-C-010` | New claim: displacement separates agency from secure knowledge of outcomes. | OPEN; `017–019`. Search choices and Ghislaine's survival are represented; destinations, reunions and cause remain partly or wholly unknown. | High for bounded observation, working hypothesis for longitudinal structure. Compare message reception and route choices; chronology/relationship/form ledgers. |
 
 No registered entering outcome prediction existed. V02 answers questions without manufacturing successful forecasts. A new targeted maintenance review is frozen in V02 Section L; V05/V10/V15 cumulative reviews remain due.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Revision / claim | Prior → current formulation | Transition / basis / counterevidence | Confidence, test and dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-017` / `MT-C-001` | Socially supported competence → selective transfer that can coexist with disastrous appraisal. | REVISE; `003,005,007,013–015,019–020`. Strong magic and paid work do not establish reliable rescue timing. | High bounded inference. Test changed support/feedback; state, model001–004, form. |
+| `MT-CR-018` / `MT-C-002` | Recognition/restraint mixed → actual V03 comparable restraint but recurring misconduct and external enforcement. | STRENGTHEN; `008–009,011–012,014,016,018–020`. Reject both no change and complete ethical reform. | High. Test unpoliced restraint and costly disclosure; normative/relationship/model005–008. |
+| `MT-CR-019` / `MT-C-003` | Multiple fallible focalizers → also distinguish omniscient local facts from character prayer/history and mistaken absolution. | STRENGTHEN; `001,010,014–018,021–022`. Alternative voice not universal truth. | High formal inference. Track holder/proposition; knowledge/form. |
+| `MT-CR-020` / `MT-C-004,005` | Historical V01 findings unchanged. | PRESERVE; no direct new evidence about those original events/affected persons' later appraisals. | No material revision. Later comparison not rewrite. |
+| `MT-CR-021` / `MT-C-006` | Employment benefited learning without proving forced separation necessary → remains bounded. | PRESERVE; `003,005,019` show additional uses of skills, not necessity of coercive method. | High for benefit, unresolved causal counterfactual; state/relationship. |
+| `MT-CR-022` / `MT-C-007` | Secondary people have own aims → clients, workers, companions and palace actors affect outcomes outside Rudy's intentions. | STRENGTHEN; `002–005,008,010,013,017–022`. Some remain thinly focalized. | High. Test agency beyond instrumental usefulness; state/relationship/form. |
+| `MT-CR-023` / `MT-C-008` | Adaptive teaching depends on fit/resources → context and learner differences remain necessary across travel. | REVISE; `005,013,019–020`. Nonverbal combat instruction works for Eris, not Rudy; excess praise fails. | High. No universal recipe; model001–002/state/form. |
+| `MT-CR-024` / `MT-C-009` | Public accounts distribute credibility → performance, reports and identity can both create access and misassign responsibility. | STRENGTHEN; `006–007,010–018,020–022`. Genuine service changes particular judgments; not all trust false. | High. Compare informed/partial recognition and costs; all topical homes. |
+| `MT-CR-025` / `MT-C-010` | Displacement separates agency/secure knowledge → destinations and palace consequence now known, cause and many fates still open. | REVISE; `001,003,009,022`. No inferred message reception or newcomer identity. | High local facts, unresolved causes; chronology/form. |
+| `MT-CR-026` / `MT-C-011` | New: optimizing gratitude/status can narrow attention to others' immediate danger. | OPEN; `006,012–014,016`, with V02:003 comparison. Cooperative routine is substantial countercase to all planning being manipulative. | Strong bounded inference, not fixed universal trait. Test abandoning an advantageous script before outside interruption; model003/006, normative/form. |
+| `MT-CR-027` / `MT-C-012` | New: reciprocal reliance and consultation reduce private decision burden, imperfectly. | OPEN; `018–020`. Useful contribution immediate; secrecy, leader authority and outside enforcement qualify it. | Moderate process claim. Test inconvenient dissent and pre-harm consultation; model007–008/state/relationship. |
+
+The V03 checkpoint activates a bounded living Rudeus model with retrospective contrast tests. No unregistered question becomes a prediction success. No model is DOMAIN_READY. V05 cumulative review remains due.

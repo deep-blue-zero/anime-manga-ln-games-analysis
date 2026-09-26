@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
+source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -80,3 +80,35 @@ Source observation numbers resolve in [V02](../02%20Sequential%20Readings/MT_V02
 **`MT-NC-005`:** `MT-N-016` versus `MT-N-017`: each includes refusal and sexual entitlement; access differs sharply, as do authority, age, contractual protection and consequences. This supports a specific framing comparison, not a mechanically identical penalty standard or complete endorsement verdict.
 
 **`MT-NC-006`:** V01 `MT-N-009` versus V02 `MT-N-010/015`: adult protection and future opportunity coexist with imposed choices. New job benefits revise the outcome question but do not prove coercion necessary. `MT-C-006,009` updated.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Event / observations | Conduct, affected access and consequence | Analyst criterion / alternative and limit |
+| --- | --- | --- |
+| `MT-N-021` / `002–005` | Children receive rescue, hospitality, news and material help; Ruijerd's threat at gate coexists with care. | Attentive help merits local credit; protection is not blanket license for violence. Histories remain attributed. |
+| `MT-N-022` / `008` | Kurt ignores avoidance/damages hood; Eris attacks beyond incapacitation and others also suffer. Rudy delays while pleased, then stops and heals; adult initially treats harmless. | Proportionality: initial intrusion does not justify unlimited retaliation. Stress/affection explain without absolving; no total access to her motives. |
+| `MT-N-023` / `009` | Rudeus recognizes Eris's fear, comforts and explicitly refrains from exploitation. | Genuine comparable restraint under autonomy criterion; temporary condition and later violations limit persistence. |
+| `MT-N-024` / `006,012` | Identity plan and coercive job swap involve withheld information, threats and uninformed guild/clients. Eris stops protector's intimidation but demands faith. | Informed agency criterion: pragmatic benefit does not make agreement uncoerced. Slower alternatives were known. |
+| `MT-N-025` / `011` | Ruijerd kills restrained man for kicking child; no-killing agreement achieved through reputation and children's fear. | Proportionate protection criterion rejects killing as automatic response. Later reported exploitation not his prior reason or retroactive justification. |
+| `MT-N-026` / `010,013` | Returned pet, respected small payment, skilled pest control and equipment care meet real needs. | Attentive work deserves credit independently of fraud. Three days' good work not complete reform or compensation. |
+| `MT-N-027` / `014` | Deliberate delay to maximize gratitude, expert warning ignored, Gablin killed; gratitude and mistaken praise follow. | Preventable-harm criterion: failed calculation culpable without intent to kill. Survivor's responsibility does not erase rescuer's independent choice. |
+| `MT-N-028` / `015` | After death, comedy explicitly eases narrator distress; later consultation before harder battle improves judgment. | Formal relief neither repairs harm nor proves creator approval; actual local learning retained. |
+| `MT-N-029` / `016` | Extortion pressure, evasion and perceived dead end culminate in flood decision/power gathering, interrupted. | Protective goal does not justify threatened indiscriminate harm; distinguish preparation from accomplished harm and earlier jokes. Imagined demand against Eris is Rudy projection. |
+| `MT-N-030` / `017–018` | Ruijerd acts villain to free companions, public terror and official scapegoating; subsequent unconditional protection and chosen gratitude. | Prejudice wrong without innocence fiction; character's own coercion retained. Trust is not full confession or absolution. |
+| `MT-N-031` / `019–020` | Meeting permits grievance and practical contribution; privacy violations persist but blocked, chore burden transferred; hidden decisions continue. | Agency and responsibility: meaningful social safeguard, incomplete internal change. Identity/misconduct equivalence in narrator summary is contestable. |
+| `MT-N-032` / `020` | Nonlethal agreed duels, skill recognition and conversation produce limited respect; expulsions still occur. | Consent and proportionate conduct support particular encounters; no prejudice cure. |
+| `MT-N-033` / `021` | Attractive court appearance conceals exploitative conduct; Derrick worries about reputation/political foes. | Status does not authorize use of less powerful people. Strategic criticism not complete affected-person access. |
+| `MT-N-034` / `022` | Derrick sacrifices life, Ariel seeks care/accepts duty, unnamed girl saves her, dying man sees prayer fulfilled. | Care and courage locally supported; no successful-government proof or verified providential bargain. |
+
+**`MT-NC-007`:** V02 N014/N016 → V03 N023/N031: distinguish actual comparable restraint, renewed intrusion and enforcement. Neither total incapacity nor settled consent practice fits. C002/model005.
+
+**`MT-NC-008`:** V02 N010 → V03 N024/N027: staged/managed helplessness recurs despite previous near-fatal failure. Later irreversible death disproves safe transfer, not an intention to kill. C011/model003.
+
+**`MT-NC-009`:** V03 N025/N027/N029: spontaneous protective killing, instrumental delayed rescue and prepared mass harm differ in actor, motive, opportunity and execution. No flat violence score; each has a specific responsibility question.
+
+**`MT-NC-010`:** N023 versus N031: voluntary restraint and outside containment must not be credited to the same internal change mechanism; affected person's labor and continuing refusal remain visible. C002/C012.
+
+**`MT-NC-011`:** N026/N030/N032: actual beneficial service, threatening identity performance and agreed duels produce different recognition. No pure hair-only experiment and no need to erase misconduct to condemn group persecution.

@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
+source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -80,3 +80,25 @@ The V01 events remain historical. New evidence numbers below refer to [V02 canon
 | `MT-R-026` Ghislaine → Vigo / Vigo → Ghislaine | Her search-driven intervention enables his survival; he recognizes a protective purpose, accompanies her and later memorializes her. | `019`; their immediate directions partly coincide, their goals and later knowledge differ. Cult does not establish her endorsement. |
 
 **Reviewed limits:** no new direct Sylphie→Rudeus event; his recollection is not her choice. No missing-person listing proves death. Relationship states after displacement are not simply household states moved intact to a new place.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / changed options | Observation / limit |
+| --- | --- | --- |
+| `MT-R-027` Rudeus → Ruijerd | Chooses provisional trust, offers reputation work, controls disguise and partial information, negotiates killing limit but uses fear himself. | `002,004,006,011–013`; empathy and instrumental dependence coexist. |
+| `MT-R-028` Ruijerd → Rudeus/Eris | Rescues, escorts, teaches, feeds/protects; also kills and intimidates under protective code. | `002,005,011–012`; care does not guarantee proportionate force or good category judgment. |
+| `MT-R-029` Ruijerd → Rudeus | Takes public blame and later offers escort without reputation repayment; credits incomplete protective account. | `017–018`; sacrifice changes choices, not complete absolution or knowledge. |
+| `MT-R-030` Rudeus → Ruijerd | Chooses continued help after payment condition removed; identifies shared exclusion but differentiates histories. | `018–020`; gratitude genuine; concealed publicity allocation persists. |
+| `MT-R-031` Rudeus → Eris | Comforts fear and refrains in one comparable opportunity, yet later intrudes and requires others' enforcement. | `009,020`; recognition distinct from durable respect. |
+| `MT-R-032` Eris → Rudeus | Yields outing, values gift, protects him from grip, expresses excessive faith, raises grievance and gives advice. | `008–009,012,019–020`; care, refusal and pressure coexist; not unrestricted permission. |
+| `MT-R-033` Party → each member | Consultation channel includes Eris, preserves leader's final decision, changes practical plans; shared training and enforcement. | `019–020`; not equal information/authority or always followed. |
+| `MT-R-034` Roxy/parents → travelers; Rudy → parents | Guide/pendant enable access; parents supply money/sword without demanding daughter return; pupil provides news and promises contact. | `003`; promise not completed communication; absent Roxy motives not recreated. |
+| `MT-R-035` Rudeus/Ruijerd → Jalil/Veskel; pair → clients/party | Killing/threats constrain bargain; pair supplies actual skilled work and publicity, later flees; Rudy releases and thanks them. | `011–013,016–017`; useful labor not freely negotiated contract or repaired past harm. |
+| `MT-R-036` Trio ↔ Kurt/Meisel/clients | Service and rescue elicit genuine gratitude; delay causes irreversible loss; incomplete knowledge shapes credit and later fear. | `010,014,016–017`; sincere praise not moral verification. |
+| `MT-R-037` Derrick → Ariel / Ariel → Derrick | Urges crown, risks and loses life protecting; she initially doubts him, seeks help, then accepts dying request. | `021–022`; reciprocity changes, future rule untested. Political program not pure universal good. |
+| `MT-R-038` Institutions/public → party | Guild enables work but polices reporting; extortion exploits violation; guards assign innocence/guilt by age and feared identity. | `007,016–017`; wrongdoing and discriminatory blame both actual dimensions. |
+
+No direct new Sylphie→Rudeus, missing-family reunion or successful Roxy-search event is established. The extra's unnamed arrival supplies no authorized identity shortcut.

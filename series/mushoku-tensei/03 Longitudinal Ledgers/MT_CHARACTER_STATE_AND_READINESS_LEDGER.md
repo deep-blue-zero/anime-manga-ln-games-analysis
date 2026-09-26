@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
+source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -91,3 +91,35 @@ The preceding table is the preserved **V01** readiness snapshot, not the latest 
 | Hilda, Philip, Sauros, Paul | Supported local actions and reported constraints; broad reconstruction INSUFFICIENT_EVIDENCE. | Uneven focalization and missing aftermath. |
 | Sylphie, Zenith, Lilia, Norn, Aisha | V01 readiness limits preserved; new availability/knowledge statuses only where sourced. | No current inner states inferred from absence, missing-person status or Rudy's recollection. |
 | Orsted, Perugius, Gal, Kishirika, Arumanfi, Vigo and other new figures | Encounter-specific actions only. | No generic persona, prophecy or unshown future imported. Global IDs remain null; no registry enrollment. |
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Event / local key | Prior → represented change / kind | Basis, persistence and limits |
+| --- | --- | --- |
+| `MT-S-020` / Rudeus | Household tutor → displaced party coordinator, language mediator and novice worker. CONTEXT_CHANGE / COMPETENCE_CHANGE. | `001–007,013`: skills useful but excessive magic, unfamiliar prices/rules and dependence prevent generic mastery. |
+| `MT-S-021` / Rudeus | Apparent control of mockery/performance → direct intimidation revives fear; money worry reveals earlier parental burdens. REVEALED_NOT_NEW / KNOWLEDGE_CHANGE. | `007,009,011–012`; village-gate improvement never established universal recovery. No diagnosis. |
+| `MT-S-022` / Rudeus | Manufactured gratitude seems manageable → delayed rescue causes Gablin's death, defensive justification then acknowledgment. KNOWLEDGE_CHANGE / UNRESOLVED disposition. | `014–015`; others' false favorable explanation does not certify his motive; relief and regret coexist. |
+| `MT-S-023` / Rudeus | Exposure of job scheme → contemplates betrayal and prepares town flood, interrupted by Ruijerd; accepts protection without payment. CONTEXT / RELATIONSHIP_CHANGE. | `016–018`; no flood executed; incomplete disclosure, actual gratitude, continuing outburst. |
+| `MT-S-024` / Rudeus | Private decisions → consultative travel routine and limited skill calibration. COMPETENCE / RELATIONSHIP_CHANGE. | `019–020`; hidden decisions and externally stopped violations remain, not blanket ethical reform. First bounded model linked below. |
+| `MT-S-025` / Eris | Household pupil → frightened displaced partner, adaptable camper and protective companion. CONTEXT_CHANGE. | `002,005,008–009,012`; affection and care coexist with severe retaliation and overconfidence in Rudy. |
+| `MT-S-026` / Eris | Limited participation/language → supplies market research, asserts privacy grievance, initiates language study, improves combat. COMPETENCE / AGENCY_CHANGE. | `019–020`; task-specific learning, no universal compliance or full interior access. |
+| `MT-S-027` / Ruijerd | Feared stranger → disclosed former leader and protector with reparative goal. REVEALED_NOT_NEW. | `002–005`; war history attributed, current threats observed, survival of other Superd unknown. |
+| `MT-S-028` / Ruijerd | Categorical killing/protection → agreed restraint, recognition of workers and young warriors, costly scapegoat performance and unconditional escort. KNOWLEDGE / RELATIONSHIP_CHANGE. | `011–015,017–018`; mistaken credit to Rudy, unstable child/warrior boundary and threatening tactics limit general reform. |
+| `MT-S-029` / Ruijerd | Disguised outcast → shaved appearance, consultation and nonlethal duels. CONTEXT / PRACTICE_CHANGE. | `018–020`; some welcome and respect, continued exclusion; no eradicated prejudice. |
+| `MT-S-030` / Roxy, Rowin, Rokari | Earlier teacher/absent daughter → parents' concern and communication exclusion disclosed; gifts and news exchanged. REVEALED_NOT_NEW. | `003`; Roxy not directly encountered now, earlier letters not current location guarantee. |
+| `MT-S-031` / Jalil, Veskel, Kurt, Meisel | New local actors with work, fear, gratitude and independent judgments. ENCOUNTER / KNOWLEDGE_CHANGE. | `008,010,012–014,017`; good work does not erase wrongs; sincere thanks can coexist with incomplete knowledge or prejudice. |
+| `MT-S-032` / Ariel, Derrick, Luke, unnamed girl | Court comfort/loyalty → fatal defense, Ariel accepts crown ambition, unnamed arrival saves her. CONTEXT / COMMITMENT_CHANGE. | `021–022`; Derrick dies; future government and newcomer's identity withheld. No Sylphie state update inferred. |
+
+| Local key / domain | Current readiness through V03 | Operational home / calibration debt |
+| --- | --- | --- |
+| Rudeus: learning, ordinary coordination, familiar-party relations, written public/private register | BOUNDED_PROVISIONAL; source variety now supports explicit conditional rules. | [First reconstruction model](../04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md) and [evidence index](../04%20Character%20Analysis/rudeus/EVIDENCE_INDEX.md). Retrospective fitting, no clean holdout, no DOMAIN_READY claim. |
+| Rudeus: high-stakes judgment and boundary respect | Diagnostic failures and one comparable restraint observed; reliable extrapolation INSUFFICIENT_EVIDENCE. | Do not convert outside enforcement or thanks into internal moral reliability. Model negative constraints apply. |
+| Eris: task-specific learning, travel cooperation/refusal, care | BOUNDED_PROVISIONAL across household and journey. | Contradictory violence and idealization; full motives unavailable. Standalone operational calibration still deferred. |
+| Ruijerd: protection, warrior classifications, practical teaching, reputation | BOUNDED_PROVISIONAL within V03; repeated ordinary and conflict cases. | History largely his report; variable category boundaries and mistaken appraisals. No broad persona promoted. |
+| Roxy / Ghislaine / Paul / absent family | V02 domain limits retained; Roxy history newly reported. | No direct new present conduct of Ghislaine/Paul/Zenith/Lilia/Aisha/Norn/Sylphie; do not fill gaps from the extra's unnamed girl. |
+| Ariel, Derrick, Luke and other local people | Encounter-specific support; broad modeling INSUFFICIENT_EVIDENCE. | Derrick has direct interiority but one bounded episode; future political capability untested. |
+
+Global character/entity IDs remain null. The living model is a new limited analytical responsibility, not a mature monograph or automatic registry enrollment. V05 must review its calibration and missing domains.

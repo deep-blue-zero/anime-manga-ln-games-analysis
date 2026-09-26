@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
+source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -88,3 +88,30 @@ Input audited V01 commit `eaf159559c6fc76ddd820178d7588545f08c351d`. Numbers bel
 | `MT-K-015` Legend versus experience | Vigo's memorial and later collective cult recast Ghislaine's intervention; reader has causal account unavailable to later worshippers. | `019`; no claim that Ghislaine knows or authorizes cult. |
 
 **Unresolved witness details:** anomaly direction differs within Roxy scene (`part0020` p379 east / p476 west). Extra commander spelling varies (`part0027` p172/214 クライン, p207 クラウン), with loose troop recounting around p136/145–146. Preserve these as source irregularities; neither silently normalize nor construct additional characters/events. These details do not block the recovered event order. Physical ages, remembered past and self-attributed total age remain distinct.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Chronology ID | Story-time anchor / order | Observation / uncertainty |
+| --- | --- | --- |
+| `MT-T-014` | V03 begins immediately after displacement, before V02's six-month Roxy epilogue; Ruijerd rescues children in northeastern Demon Continent. | `001–004`; no precise intervening day count beyond narrated travel. |
+| `MT-T-015` | At guild registration Rudeus is 10, Eris 12 and Ruijerd 566; Rowin reports Roxy as 44. | `003,007`; private summed remembered age is not current bodily age. |
+| `MT-T-016` | First town: initial jobs, three days to E rank, later three-week summary to D rank, forest/exposure and departure; Rudy says nearly two months there. | `010–017`; preserve rounded spans without forcing exact consistency or hidden days. |
+| `MT-T-017` | Post-reunion travel progresses through month summaries to approximately one year; A-rank Dead End reaches Wenport. | `019–020`; no exact new birthday/date or completed sea crossing. |
+| `MT-T-018` | Extra returns to the initial Fittoa event: monster arrives at palace, Derrick dies and unnamed girl arrives. | `022`; publication order differs from story time; narrator directly dates simultaneity. |
+
+| Knowledge ID / proposition | Holder and update | Evidence / boundary |
+| --- | --- | --- |
+| `MT-K-016` Hitogami | Rudy experiences two dreams and receives useful route/job advice; divine identity, motives, limits and culprit claims unverified. | `001,009`; no blanket cosmology admission. |
+| `MT-K-017` Roxy / family | Parents learn earlier pupil news; Rudy learns family/telepathy history and promises contact. | `003`; no completed later communication established. Paul's message still not shown received by Rudy. |
+| `MT-K-018` Ruijerd history / code | Ruijerd reports spears/son/persecution; Rudy reconstructs child/warrior norms from speech and behavior. | `004,011,014–015`; report and interpretation distinct; other Superd absence not extinction. |
+| `MT-K-019` Guild scheme | Rudy knows rules but disputes classification; Nokopara exposes job swapping and its institutional effect; party change does not erase prior acts. | `007,012,016`; actual rule vs actor's self-exemption. |
+| `MT-K-020` Rescue motive | Rudy/reader know deliberate gratitude-maximizing delay; Kurt supplies an independent self-responsibility account; Ruijerd credits respect for warrior pride. | `014`; no full confession represented, favorable interpretation mistaken. |
+| `MT-K-021` Flood preparation | Rudy/reader know contemplated town devastation; Ruijerd later speaks of readiness to kill the extortionist. | `016,018`; scope of shared knowledge limited, no flood executed. |
+| `MT-K-022` Identity/public blame | Disguise supports acceptance; reveal with threat causes panic; guards assign agency to Ruijerd and innocence to children despite Rudy's protest. | `006,017`; not independent factfinding or a pure hair-only test. |
+| `MT-K-023` Consultation | Party adopts reporting/advice; Eris supplies overlooked market practice; Rudy withholds reputation allocation. | `019–020`; more communication not complete transparency. |
+| `MT-K-024` Palace cause/newcomer | Narrator says monster teleported; Derrick considers conspiracy then receives rescue as answered prayer. Girl is unnamed and white-haired. | `021–022`; no proved divine mechanism, later identity or Rudy knowledge. |
+
+Source-appraisal variation: Rudy first attributes an attack's partial hit to his aim, later considers evasion (`014–015`); retain changed explanation. Ruijerd initially senses fighting, then the party finds six dead veterans; precise opportunity for earlier intervention is not supplied (`015`). Neither licenses an invented rescue choice. V02 source irregularities remain as recorded, not silently repaired.

@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
+source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -79,3 +79,29 @@ V01 rows remain the historical first formulation. Current scope V01–V02; evide
 | `MT-W-006` NEW | Regional displacement is reported through survivors; missing/dead boards and guild messages mediate recovery. | `017–019`; world-changing event observed/reported, mechanism unresolved. Knowledge ledger owns holder/time distinctions. |
 
 **V02 pivot review:** retain these six ledger homes. Add questions about dispersed information, altered resource access, and legend-making rather than forcing the new material into a preselected arc. No WN, reception or audiovisual source entered. The internal extra's long future frame is admitted only as V02 narrative, with knowledge boundaries intact. Next scheduled cumulative checkpoint remains V05.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Pattern / transition | Mechanism through V03 | Observations / limits |
+| --- | --- | --- |
+| `MT-F-001` STRENGTHEN | Public guild/client access, self-critical retrospection and palace interiority expose differing knowledge; favorable readings can be false. | `001,006–007,010,014–018,021–022`; alternate focalizer not infallible. |
+| `MT-F-002` REVISE | Expanded first-town failures followed by compressed year; extra returns to catastrophe's moment. | `014–022`; story/publication order and knowledge separated. |
+| `MT-F-003` REVISE | Gates opened through credential/disguise, then expulsion; altered appearance enables conditional access elsewhere. | `002–003,006,017–020`; mobility not equivalent to freedom or acceptance. |
+| `MT-F-004/005` STRENGTHEN | Distributed expertise, processing/hauling, clothing/food and client aftercare sustain adventure; gifts transmit trust. | `003,005,010,013,019–020`; skill and ordinary labor together. |
+| `MT-F-006` REVISE | Comfort plate, oversized magic, split punch comedy after death, and consultation image shape different kinds of attention. | `005,009,015,019–020`; textual mood relief explicit, universal audience response unclaimed. |
+| `MT-F-007` STRENGTHEN | Contracts, prices, cards and ranked work offer legibility without measuring judgment or motive. | `007,009,012–014,016`; administrative success not ethical score. |
+| `MT-F-008` STRENGTHEN | Chosen persona, genuine word of mouth, false attribution and identity terror create competing public accounts. | `006,010,013–018,020`; some service goodwill real, not all representation fraud. |
+| `MT-F-009` REVISE | Displacement opens palace narrative outside Rudy's knowledge; narrator knows monster route where Derrick cannot. | `021–022`; catastrophe cause still unverified. |
+| `MT-F-010` NEW | Risk/return lists expose narrowing alternatives; perfect-plan rhetoric collides with consequence and unplanned testimony. | `012,014,016`; strong formal inference, operational model003/006/009. |
+| `MT-F-011` NEW | Consultation imports a household teaching routine into travel, immediately yields neglected information, then qualifies itself through secrecy. | `019–020`; recurring work practice, not proved democracy. |
+| `MT-F-012` NEW | Gratitude is care, incentive, misrecognition and constraint: client trust, rescue debt, unconditional protection, dying request. | `010,014,017–019,022`; meaningful thematic variation, not single moral value. |
+| `MT-W-001/005` REVISE | Excess magical power, healing limits, dodged projectiles and teaching mismatch constrain competence. | `005,013–015,020`; experts' generalizations and relative-rank guesses remain attributed. |
+| `MT-W-003` REVISE | Superd testimony complicates inherited atrocity story; local fear, exemptions, panic and conditional acceptance observed. | `002–004,010,017–020`; mechanism of historical spears not independently verified. |
+| `MT-W-006` REVISE | Immediate eastern destination and simultaneous palace monster arrival expand known displacement effects. | `001–003,022`; no cause or all-victims map. |
+| `MT-W-007` NEW | Guild literacy support, contracts, rank progression, trade prohibition and enforcement incentives shape work. | `007,009,012–016`; actual rules distinct from fraudulent workaround and blackmailer's motives. |
+| `MT-W-008` NEW | Migurd telepathy report explains Roxy exclusion; mixed-species village/town practices require translation and local learning. | `003,005,019–020`; no universal cultural claim or species psychology. |
+
+Targeted V03 review adds the living bounded Rudeus model and C011/C012; these ledger homes remain sufficient for broader thematic questions. Monograph and separate specialists not yet promoted. No textual-history comparison, adaptation or reception lane opened. Cumulative V05 review remains pending.
