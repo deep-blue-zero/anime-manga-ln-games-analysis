@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -648,3 +648,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **KOHARU ↔ HANAKO/AZUSA/HIFUMI:** Koharu's teacher blame and committee excuse meet Hanako/Azusa challenge; her fear of lost membership surfaces. Hanako's provocation and Koharu's protest are visible, while individual comic lines have label uncertainty. Hifumi seeks a cooperative path rather than joining the blame.
 - **HIFUMI ↔ SENSEI:** Hifumi asks for help and Sensei's secure choice says they will try. No tutoring result or unconditional rescue promise.
 - **NAGISA/MIKA ↔ SENSEI:** at the earlier terrace, Nagisa introduces herself as host and Mika is named. No meeting purpose, trust relation or Sensei reply yet; `u:0004` attribution is suspect.
+
+## V003 C001 E003 relationship delta — ten-year claim, host conflict and new teacher tie
+
+- **NAGISA ↔ MIKA:** Mika reports childhood familiarity of ten years and repeatedly tests Nagisa's host stiffness. Nagisa asserts present host control, erupts at interruptions, then apologizes. This is one co-present repair; it does not establish durable hostility or their entire history.
+- **TEA PARTY ↔ SENSEI:** Nagisa offers the restricted seat, asks Sensei to advise a temporary remedial club using Schale's exceptional authority, and Sensei accepts conditionally. Nagisa promises escort/possible dispatch; future role execution unshown. Mika's friendliness and newspaper report do not prove comprehensive trust.
+- **SENSEI ↔ HIFUMI:** narrated roster recognition and a greeting follow prior V001 contact. Hifumi says the circumstances were unavoidable but does not identify them; avoid retrofitting E002's later group position into the present visit.
+- **NAGISA/MIKA ↔ SEIA (reported):** they call Seia absent/hospitalized and normally current host. No direct Seia response or hospital evidence; E001 monologue timing remains unplaced.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -803,3 +803,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Future crisis then rewind:** a one-week expulsion fear and remedial group appear before a “few weeks ago” terrace introduction. The structure withholds how Tea Party politics leads to this class; no causal bridge can be supplied from E002 alone.
 - **Role membership under institutional threat:** Koharu fears losing Justice Realization membership if expelled, echoing—but not duplicating—Pavane's gap between lived belonging and school recognition.
 - **Collective study versus blame:** Hifumi redirects mutual accusation and comic disorder toward pooling ideas. The proposal is not yet a successful rescue or evidence that one teacher can repair the institution alone.
+
+## V003 C001 E003 motif / callback delta — hospitality, dignity and withheld context
+
+- **Tea as political hospitality:** restricted invitation, host rotation and small-talk dispute render the Tea Party both office and social performance. Nagisa's interrupted history and apology show that courtly form is negotiated, not always effortless.
+- **Four students as help or burden:** Mika's delegation and `面倒ごと` phrase meet Nagisa's `愛が必要な生徒たち` correction. This contrasts descriptions; future pedagogy must test whether the dignifying language governs treatment.
+- **Teacher as guide, not omnipotent remedy:** Mika's `先生` gloss and Sensei's conditional assent connect E002's future help scene to an earlier authorization, without predicting educational success.
+- **Treaty as busy reason and withheld matter:** Mika cites workload; Nagisa calls the treaty confidential and of little relation to the club. The unresolved relation sustains Seia's E001 treaty question without settling status or politics.

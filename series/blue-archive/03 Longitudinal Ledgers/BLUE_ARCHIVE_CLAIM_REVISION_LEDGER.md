@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E002 active provisional; E003 unopened
+current_sequential_boundary: MAIN_V003_C001_E003 active provisional; E004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1573,3 +1573,13 @@ No new claim ID on one monologue, standalone model, frozen prediction or side-so
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Expulsion rule/timetable and Tea Party purpose remain OPEN; backfill **DEFER**.
+
+## V003 C001 E003 claim delta — conditional pedagogy and classified treaty
+
+- **BA-C001/C016:** Sensei's `私にできることであれば` accepts a bounded teaching assignment; no educational outcome or demonstrated authority to avert expulsion.
+- **BA-C002–C004/C007/C010–C011:** Nagisa proposes exceptional Schale authority and a special club, not a proved lawful/routine rule. Her “not very related” treaty claim is in tension with Mika's workload rationale, not yet a contradiction of fact.
+- **BA-C008:** `u:0002` voice/label conflict, `choice:008`/`010` alternatives, inward reactions and exact duplicates `u:0071-0072`/`0088-0089` bar composite persona or inflated decision counts.
+- **BA-C019/C020:** no direct Pavane test; Nagisa's “students needing love” correction and Mika's nuisance language pose a new dignity-versus-delegation question, not its resolution.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Treaty text/status, roster causes, temporary-club process, Seia's condition and tutoring results remain OPEN; backfill **DEFER**.

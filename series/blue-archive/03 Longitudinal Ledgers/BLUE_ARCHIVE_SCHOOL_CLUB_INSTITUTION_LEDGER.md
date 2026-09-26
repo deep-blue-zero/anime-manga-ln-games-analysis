@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -634,3 +634,9 @@ Seia describes a Trinity–Gehenna peace treaty intended to replace accumulated 
 ## V003 C001 E002 institutional delta — remedial risk and Tea Party introduction
 
 The future remedial scene has four students facing reported expulsion in one week; Koharu links it to Justice Realization membership, Hifumi proposes collective study, and Sensei is helping. The actual school notice, grades, rule, remedial-club authorization and outcome are not printed. The retrospective terrace has Nagisa introduce herself as Tea Party host and Mika as member, with the group called Trinity's student council. No current treaty position, invitation purpose or ratified action follows. Do not move future remedial information into the earlier terrace scene.
+
+## V003 C001 E003 institutional delta — rotating host and exceptional remedial club
+
+Nagisa reports multiple Trinity student presidents, a Tea Party origin among Pater/Filius/Sanctus representatives, and rotating hosts. She and Mika say Seia should be current host but is hospitalized/away, with Nagisa substituting. These are participant accounts, not independently inspected constitution or hospital record. The guest seat is reportedly restricted; Nagisa recalls Sensei as its first external guest.
+
+Nagisa seeks an external adviser/homeroom-like teacher for four underperforming students, describing `補習授業部` as a temporary special-case rescue entity and invoking Schale's extraordinary authority. Mika cites Eden Treaty workload/staff shortage and newspaper Schale activity as reasons to delegate. Sensei agrees within ability; no completed dispatch, authorization record, grade audit, test/expulsion rule or outcome is shown. Nagisa defers treaty explanation as confidential and says it is not very related to the remedial task, which remains her characterization despite Mika's workload link. E002's later one-week fear must remain later in scene chronology.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -728,3 +728,7 @@ Seia addresses Sensei directly, warns that the coming story may force doubt and 
 ## V003 C001 E002 delta — teacher presence is not blame or guaranteed rescue
 
 Koharu initially blames Sensei for her failure; Hanako challenges that, while Koharu later ties class absence to committee duties and fears expulsion. Sensei's three singleton choices express surprise, remind the group of the teacher role and say they will try after Hifumi asks for help. None shows Sensei caused grades, can waive expulsion, or actually improved study. The scene's future placement cannot be backdated into the earlier Nagisa/Mika introduction; Sensei has no choice/answer there. Role-label flips prevent treating the comic exchange as a secure adult intervention. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E003 delta — proposed guidance and conditional acceptance
+
+Mika argues `先生` should guide and extend a hand rather than merely instruct by BD; Nagisa asks Sensei to serve four struggling students through an exceptional temporary club. This is their role framing, not Sensei's proven capacity. `choice:009` accepts gladly only `私にできることであれば`. Sensei asks about the treaty and third president, expresses hope for Seia's recovery, and later recognizes Hifumi; no tutoring or dispatch occurs here. `choice:008`/`010` alternatives must not be fused, and inward `choice:005`/`u:0086` cannot be passed off as a public challenge. The council's confidentiality and Schale-authority rationale still require scrutiny; teacher ethics cannot be inferred from accepting the job alone. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1059,3 +1059,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Koharu `正義実現委員会の一員` and `退学` link her feared role loss to an expulsion possibility; Hifumi's `一週間後` is an in-scene timetable report, not a shown notice. Azusa `何をしてでも、例え惨めな思いをしてでも` expresses resolve, not specified acts.
 - Hifumi `みんなで知恵を寄せ合って` proposes pooling ideas. Nagisa `初めまして`/`ティーパーティーのホスト` is an in-person introduction; `scene:002:u:0004` Mika label introduces Mika in third person, so speaker attribution remains uncertain.
 - **Quarantine:** scene 1 `u:0016-0019` “you too” labels, `u:0036-0040` provocative action/protest labels, and scene 2 `u:0004`; do not assign exact gesture or insult to each printed name. Scene-2 `u:0001` absent; `u:0006` next-title card. Three singleton choices; scene-1 `u:0047` explicitly rewinds “a few weeks” before scene 2.
+
+## V003 C001 E003 delta — host register and teacher etymology
+
+- `u:0002` is Nagisa-labeled but uses Mika's `ナギちゃん` address and asks Nagisa's view; quarantine literal attribution. Secure Nagisa host register, its irritated roll-cake outburst (`u:0037-0043`) and apology (`u:0046-0048`) form a local contrast, not a habitual voice rule. Mika's familiar teasing and reported ten-year friendship do not authenticate every mislabelled line.
+- `生徒会長たち`, `ホスト` and `パテル、フィリウス、サンクトゥス` are Nagisa's institutional account. `補習授業部`/`顧問`/`担任の先生` name an exceptional teaching arrangement. Mika's `先の道を生きる` is a situated etymological appeal about `先生`, not canonical universal function.
+- Mika `面倒ごと` versus Nagisa `愛が必要な生徒たち` contrasts instrumental and dignity language without establishing subsequent care. Nagisa's `内部機密` and `それほど関係のない` delimit disclosure, not treaty truth. `choice:009` `私にできることであれば` is conditional assent. `choice:008`/`010` are alternative pairs; `choice:005` and `u:0081`/`0086`/`0110` are inward/narrated. `u:0071-0072` and `0088-0089` are duplicates; `u:0114` is a next-title card.

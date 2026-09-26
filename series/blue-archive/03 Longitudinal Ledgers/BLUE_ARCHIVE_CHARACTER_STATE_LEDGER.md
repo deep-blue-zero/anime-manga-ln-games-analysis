@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:002; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -784,3 +784,11 @@ Seia enters as a speaking subject who describes the Eden Treaty as a trust-build
 - **Nagisa/Mika:** in the rewind Nagisa introduces her Tea Party host office and Mika is introduced under a suspect Mika speaker label; invitation purpose remains unseen.
 
 Koharu, Hanako, Azusa and Mika enter `UNMODELED`. Totals **21 `PARTIAL_MODEL` / 31 `UNMODELED` across 52**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E003 character-state delta — Tea Party care, friction and school assignment
+
+- **Nagisa:** controls the host's method, reports rotating-presidency history and an exceptional remedial need, corrects demeaning student language, then apologizes after an irritated roll-cake threat. Treaty detail is withheld. This is one mixed institutional/social scene, not a stable temperament or fully verified rulebook.
+- **Mika:** prefers conversational ice-breaking, teases Nagisa and reports ten-year childhood familiarity; she proposes Schale help amid treaty workload and frames `先生` as guide. Her `面倒ごと` language is challenged; actual student regard remains unproven. `u:0002` is Nagisa-labeled but Mika-voiced.
+- **Sensei/Hifumi/Seia:** Sensei conditionally accepts teaching, asks about treaty and third president, then recognizes Hifumi from the roster. Hifumi invokes unavoidable circumstances without explaining grades. Mika/Nagisa report Seia hospitalized/absent, not independently shown.
+
+No new tracked subject or readiness promotion: **21 `PARTIAL_MODEL` / 31 `UNMODELED` across 52**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
