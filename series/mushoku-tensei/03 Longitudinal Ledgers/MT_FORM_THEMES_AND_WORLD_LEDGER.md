@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Bootstrap only; V01 not narratively inspected, no source observations admitted."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -35,9 +35,9 @@ Append a pattern when multiple or uniquely diagnostic observations warrant it; p
 
 `NOT_STARTED`: zero narrative observations and zero substantive records. V01 is only structurally inspected for source usability. No absent phenomenon or character trait is inferred from the empty ledger. First update requires a separately authorized V01 reading.
 
-## V01 pilot candidate — 2026-09-25 (pending durable locator map)
+## V01 accepted records — read 2026-09-25; closure prepared 2026-09-26 UTC
 
-The observations below are provisional and the LN high-water mark remains `null`; the hash-only locator map has not been durably placed in the evidence plane.
+The owner approved the V01 reading after its synopsis revision. Its hash-only locator map is durably retained and byte-verified as recorded in the [source lock](../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md). The records below are accepted within V01; their interpretations and uncertainties are unchanged. The [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) distinguishes this local closure candidate from pending branch publication and exact-head audit. The bootstrap zero state above remains historical.
 
 Witness `MT-LNJP-V01` only; evidence IDs resolve in the [V01 reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md). Claims about laws of the world distinguish observed effects from manuals, stories, teacher reports and narrator speculation.
 
@@ -56,3 +56,130 @@ Witness `MT-LNJP-V01` only; evidence IDs resolve in the [V01 reading](../02%20Se
 | `MT-W-005` / swords and labyrinths | Paul's combat performance is witnessed; styles, ranks and labyrinth lore are mostly his explanation or Rudeus's books. Ghislaine's sword-king rank is conveyed by Paul and the employment exchange. | `015–016`; do not promote illustrative stories about legendary depths or inherited prowess into observed geographical facts. |
 
 The paratext's epigraph and cast/design art are identified in the V01 reading. They can establish how this edition presents a prospective reader with the cast, not plot events or an authorial endorsement. The colophon reports an expanded book adaptation of a web serial; no line-level textual-history finding exists because no WN witness has been admitted or compared.
+
+## V02 pattern revisions and additions — 2026-09-26 UTC
+
+V01 rows remain the historical first formulation. Current scope V01–V02; evidence numbers below refer to [V02 observations](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. Source accounts and institutional generalizations stay attributed.
+
+| Pattern / disposition | New mechanism or qualification | Evidence / confidence and destination |
+| --- | --- | --- |
+| `MT-F-001` STRENGTHEN | Player-script analogies explicitly fail at inaccessible other minds; Ghislaine, Roxy and montage figures supply independent but fallible appraisals. | `001–003,011,014–019`; strong formal inference. Existing voice domain sufficient; specialist deferred. |
+| `MT-F-002` REVISE | Employment-time ellipses and repeated progress cards give way to expanded birthdays, global simultaneity, six-month epilogue and century-framed extra. | `006–019`; observation of structure. Publication order, event order and reader knowledge must be separate. |
+| `MT-F-003` REVISE | Chosen learning/outings, imposed removal and involuntary displacement create different kinds of expanded movement. | `007,010,017–019`; working thematic hypothesis, not all travel equated with freedom. |
+| `MT-F-004` STRENGTHEN | Language guide, teacher exchange, practical numeracy and dance transfer specify social mechanisms behind skill. | `006–011`; high-confidence bounded theme; unusual aptitude also retained. |
+| `MT-F-005` STRENGTHEN | Wages/rest, gifts, guard's continuing labor, transregional letter work and search broaden care beyond household service. | `007–013,015,018–019`; strong inference. Both class support and constrained agency retained. |
+| `MT-F-006` REVISE | Sleeping-child plate/comic fantasy; gift-induced restraint; later self-critique followed by reward rhetoric; Roxy affected-person refusal. | `006,009,014–015`; competing formal pressures, not universal reader response. All source images inspected. |
+| `MT-F-007` NEW | Lists and scripts promise legibility: plan, timetable, status cards, history, languages; emergency/missing-person lists expose different limits and stakes. | `003,006–008,010,014,018`; strong formal inference. Status cards' compliance field is not an adequate agency measure. |
+| `MT-F-008` NEW | Public accounts are made: politically credited rescue, birthday lineage exposure, heroic history, future goddess cult. | `004,008,010,012–013,019`; strong pattern, no claim all history false. Wider specialist considered at next checkpoint. |
+| `MT-F-009` NEW | Disaster displaces narration as well as bodies: Roxy's aftermath and Ghislaine's extra give others consequential action outside Rudy's access. | `015–019`; strong formal inference; cause and reunion not revealed. |
+| `MT-W-001` REVISE | Silent casting does not transfer easily to Eris/Ghislaine/Roxy; staff increases output but complicates control. | `006,009–011,015,017`; observed limits and character explanations kept distinct; no universal growth law. |
+| `MT-W-002/004` REVISE | Kinship hiring, reported male-child succession transfers, paid instruction and Roxy's contract shape choices; refugee loss exceeds hunger alone. | `001,007,012–015,018`; local/reported practices, not complete national law. |
+| `MT-W-003` REVISE | Embedded history adds human aggression, slavery and treaty accounts; Ghislaine reports ethnic fetishization. | `010–011`; historical narrative remains attributed; neither universal species trait nor verified origin myth. |
+| `MT-W-005` REVISE | Ghislaine demonstrates rank-relevant combat and detailed teaching; style fit, battle aura and prospective referrals are her expert judgments. | `003,006,011,017,019`; her prowess has contextual limits. Legendary claims receive partial encounter evidence, not blanket verification. |
+| `MT-W-006` NEW | Regional displacement is reported through survivors; missing/dead boards and guild messages mediate recovery. | `017–019`; world-changing event observed/reported, mechanism unresolved. Knowledge ledger owns holder/time distinctions. |
+
+**V02 pivot review:** retain these six ledger homes. Add questions about dispersed information, altered resource access, and legend-making rather than forcing the new material into a preselected arc. No WN, reception or audiovisual source entered. The internal extra's long future frame is admitted only as V02 narrative, with knowledge boundaries intact. Next scheduled cumulative checkpoint remains V05.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Pattern / transition | Mechanism through V03 | Observations / limits |
+| --- | --- | --- |
+| `MT-F-001` STRENGTHEN | Public guild/client access, self-critical retrospection and palace interiority expose differing knowledge; favorable readings can be false. | `001,006–007,010,014–018,021–022`; alternate focalizer not infallible. |
+| `MT-F-002` REVISE | Expanded first-town failures followed by compressed year; extra returns to catastrophe's moment. | `014–022`; story/publication order and knowledge separated. |
+| `MT-F-003` REVISE | Gates opened through credential/disguise, then expulsion; altered appearance enables conditional access elsewhere. | `002–003,006,017–020`; mobility not equivalent to freedom or acceptance. |
+| `MT-F-004/005` STRENGTHEN | Distributed expertise, processing/hauling, clothing/food and client aftercare sustain adventure; gifts transmit trust. | `003,005,010,013,019–020`; skill and ordinary labor together. |
+| `MT-F-006` REVISE | Comfort plate, oversized magic, split punch comedy after death, and consultation image shape different kinds of attention. | `005,009,015,019–020`; textual mood relief explicit, universal audience response unclaimed. |
+| `MT-F-007` STRENGTHEN | Contracts, prices, cards and ranked work offer legibility without measuring judgment or motive. | `007,009,012–014,016`; administrative success not ethical score. |
+| `MT-F-008` STRENGTHEN | Chosen persona, genuine word of mouth, false attribution and identity terror create competing public accounts. | `006,010,013–018,020`; some service goodwill real, not all representation fraud. |
+| `MT-F-009` REVISE | Displacement opens palace narrative outside Rudy's knowledge; narrator knows monster route where Derrick cannot. | `021–022`; catastrophe cause still unverified. |
+| `MT-F-010` NEW | Risk/return lists expose narrowing alternatives; perfect-plan rhetoric collides with consequence and unplanned testimony. | `012,014,016`; strong formal inference, operational model003/006/009. |
+| `MT-F-011` NEW | Consultation imports a household teaching routine into travel, immediately yields neglected information, then qualifies itself through secrecy. | `019–020`; recurring work practice, not proved democracy. |
+| `MT-F-012` NEW | Gratitude is care, incentive, misrecognition and constraint: client trust, rescue debt, unconditional protection, dying request. | `010,014,017–019,022`; meaningful thematic variation, not single moral value. |
+| `MT-W-001/005` REVISE | Excess magical power, healing limits, dodged projectiles and teaching mismatch constrain competence. | `005,013–015,020`; experts' generalizations and relative-rank guesses remain attributed. |
+| `MT-W-003` REVISE | Superd testimony complicates inherited atrocity story; local fear, exemptions, panic and conditional acceptance observed. | `002–004,010,017–020`; mechanism of historical spears not independently verified. |
+| `MT-W-006` REVISE | Immediate eastern destination and simultaneous palace monster arrival expand known displacement effects. | `001–003,022`; no cause or all-victims map. |
+| `MT-W-007` NEW | Guild literacy support, contracts, rank progression, trade prohibition and enforcement incentives shape work. | `007,009,012–016`; actual rules distinct from fraudulent workaround and blackmailer's motives. |
+| `MT-W-008` NEW | Migurd telepathy report explains Roxy exclusion; mixed-species village/town practices require translation and local learning. | `003,005,019–020`; no universal cultural claim or species psychology. |
+
+Targeted V03 review adds the living bounded Rudeus model and C011/C012; these ledger homes remain sufficient for broader thematic questions. Monograph and separate specialists not yet promoted. No textual-history comparison, adaptation or reception lane opened. Cumulative V05 review remains pending.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Pattern / transition | Mechanism through V04 | Observations / limit |
+| --- | --- | --- |
+| `MT-F-001/009` STRENGTHEN | Roxy's repeated training scene, Ruijerd's capture judgment and palace access correct partial accounts. | `006–007,011,019,023–026`; new viewpoint not every belief true. |
+| `MT-F-002/007` REVISE | Deferred crossing, slow combat forecasts, day-counted prison and week/month rain routine; extra overlaps earlier story time. | `001–003,008–026`; list/rank is not complete understanding. |
+| `MT-F-003` REVISE | Tariff, sea, jail, rain and road regulate passage through different material and institutional constraints. | `001,008–015,022`; mobility not full freedom or arrival home. |
+| `MT-F-004/005` STRENGTHEN | Eye practice, prior barrier/weather instruction, triage, clothing, cooking and peer teaching make distributed labor causal. | `003–005,008–010,013–014,017–018,022`; exceptional power retained. |
+| `MT-F-006` REVISE | Merlin conflict, prison performance, crying Eris and comic cooking refusal organize different attention; care follows coercive teasing in extra. | `008,012,016,022,025`; not interchangeable tonal effects or universal audience responses. |
+| `MT-F-008` STRENGTHEN | Rumor, false noble biography, self-assigned hero name and family memory shape recognition. | `001,006–007,014–016,023`; true fragments can produce false attribution. |
+| `MT-F-010/011` REVISE | Announced options conceal a sacrifice; inconvenient advice corrects it; village consultation changes action. | `001,005,017`; retained secrecy and excessive trust limit process. |
+| `MT-F-012` REVISE | Immediate rescue precedes favor language; demanded and spontaneous gratitude differ; animal thanks lack full comprehension. | `003,010,013,020–022`; no gratitude-as-absolution rule. |
+| `MT-F-013` NEW | Usefulness distributes belonging and care burdens: Geese's lost niche, Eris's desired work, warrior independence, Fitts's fear. | `018–022,024–025`; C013 working cross-context theme, gifts/care qualify exclusivity; specialist decision V05. |
+| `MT-F-014` NEW | Bracketed foresight separates sensing a motion, interpreting it and acting within bodily time. | `003–004,014`; formal device produces suspense despite predictive power, not infallibility. |
+| `MT-W-001/005` REVISE | Foresight, sound-magic imitation, combat roles and named styles have demonstrated local limits; Great Powers report is historically qualified. | `002–004,011,014,017,022`; no verified universal hierarchy/mechanism. |
+| `MT-W-003/008` REVISE | Ethnic fare exclusion, fear-driven near miss, local language and contextual customs constrain cooperation. | `001,006–007,010–011,017,022`; individual exception not prejudice cured. |
+| `MT-W-006` REVISE | Search routes miss; Fitts's displaced service adds a survivor history without message transfer to Rudy. | `006–007,023–026`; cause/fates and alias identity remain bounded. |
+| `MT-W-009` NEW | Seasonal ecology, smuggling factions, noble demand, treaty and port officials link movement to abducted labor. | `008–015,022`; specific treaty not universal abolition, Boreas origins suspicion only. |
+| `MT-W-010` NEW | Court patronage places supporters in armed institutions; class rumor, legal pardon and obstructed inquiry shape survival. | `023–026`; represented strategy not success of future reign or complete political system. |
+
+Existing ledger homes remain sufficient; C013 and the Eris model add bounded responsibilities without new comparison/reception lanes. V05 checkpoint must examine whether usefulness/belonging or viewpoint merits an independent specialist, with source-grounded scope rather than predetermined themes.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Pattern / transition | V05 mechanism | Observations / limit |
+| --- | --- | --- |
+| `MT-F-001/009` STRENGTHEN | Paul's history precedes quarrel; women's reason known only to reader; Eris's day returns; embedded testimony has limited identity access. | `004–010,017–019,023–028`; alternate view is not global truth, final falsehood is explicit. |
+| `MT-F-002/007` REVISE | First encounter and reunion separated; week of aftermath resists closure; side episodes reorder elapsed time. | `007–020,023–028`; source order is not a day-exact chronology. |
+| `MT-F-003` REVISE | Notices, funds, customs, dual office and border delay regulate movement. | `005,014,017,021–022,026`; movement is not freedom or arrival home. |
+| `MT-F-004/005` STRENGTHEN | Shared routine, administrative care, teacher-specific skill and mutual defense make others' work causal. | `001,005,008–015,018–019,024,027`; gifts and aptitude remain real. |
+| `MT-F-006` REVISE | Disguise, meal, Cliff violence and food outburst use different comic frames around serious care/cost. | `003,015,018,025`; no universal reader response or author verdict. |
+| `MT-F-008/010/011` REVISE | Shared reenactment permits disclosure; rank fiction can fail; notices withheld through trust; inquiry closes prematurely. | `007,011,017,021,026–028`; scripts are not inherently manipulative, consultation is not omniscience. |
+| `MT-F-012` STRENGTHEN | Prompt rescue versus failed publicity; intended Superd credit misread as modesty. | `002,016,019`; gratitude has recipient-specific meaning. |
+| `MT-F-013` STRENGTHEN | Talented son, pupil reputation, novice rank and lost vocation test usefulness/belonging. | `006,012,017–018,024–025`; Norn, parents and comfort counter an exclusively transactional account. |
+| `MT-F-014` REVISE | Foresight works tactically and mundanely but does not provide identity/institutional understanding. | `003,015,021`; prediction is not omniscience. |
+| `MT-F-015` NEW | Embodied recognition through sick withdrawal, father's hands/tears, Eris's embrace and Roxy's parents. | `008,011,023`; bodily care enables local repair, not a universal nonverbal cure. |
+| `MT-F-016` NEW | Inquiry form separates testimony, inference, contradiction and chosen noncorrection. | `026–028`; C014 remains a working account, source explicitly labels false information. |
+| `MT-W-001/005` REVISE | Spell rank versus coordination, first human combat, status revealed in cook extra. | `018–019,025,027`; observed skill is not universal hierarchy proof. |
+| `MT-W-003/008/009` STRENGTHEN | Religion, slave property and tariffs constrain care; telepathy remains absent despite family recognition. | `005,016,021–024`; personal exception is not reform. |
+| `MT-W-006/010` REVISE | Actual family news, independent search and Ariel escape evidence add knowledge without settling fates. | `007,012,020,024,026–028`; future political effects withheld. |
+| `MT-W-011` NEW | Millis church factions/orders, split customs authority and jurisdiction create conflict/remedy. | `016,019,021–022`; local reports do not supply a complete constitution. |
+| `MT-W-012` NEW | Information work has clients, territorial limits, payment and correction costs. | `026–028`; one investigator does not represent all professionals. |
+
+The first cumulative checkpoint now owns the comparison across volumes. No overlapping standalone specialist is created merely for these themes; reconsider when an independent argument or role gap is earned. New bounded Paul/Ruijerd/Roxy models own operational rules, not these form/world patterns.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Pattern / transition | V06 mechanism | Observations / limit |
+| --- | --- | --- |
+| `MT-F-001/009` REVISE | Court explanation reveals concurrent work; Eris corrects Rudy while misjudging him; final extra alternates mother/child access. | `010,024–031`; corrective viewpoint not universally accurate. |
+| `MT-F-002/007` REVISE | Geographic return ends escort, not restoration; histories/interlude/extra break simple book-order chronology. | `020–031`; no imposed whole-series arc. |
+| `MT-F-003` STRENGTHEN | Route skills, captivity, court protocols, destroyed home and private sea exception define feasible movement. | `001,007–010,021–022,028`; mobility not freedom for everyone. |
+| `MT-F-004/005` STRENGTHEN | Carpenter, recipes, guards' teaching, companions, bodily care and reconstruction make work causal. | `003,005,007,010,018,026–028`; high aptitude remains real. |
+| `MT-F-006/010` REVISE | Prison pitch, craft comedy, morning boast and sudden fragmented questions alter affective distance. | `008–010,023–026`; comedy not automatic exoneration or reader-response claim. |
+| `MT-F-008/011` REVISE | Advice sequence differs from execution; guarded information slips through shared vocabulary; compressed note produces divergent meaning. | `002,004,015,019,025–026`; protective intent not enough for shared interpretation. |
+| `MT-F-012` STRENGTHEN | Immediate rescue later becomes esteem management; gratitude redirected to companions and specific acts. | `005–006,011,013,020`; no retroactive delayed-rescue motive. |
+| `MT-F-013` REVISE | Prince as military asset, noble girl as rebuilding resource, sister as servant, lover as self-declared burden. | `010,022,025,029–031`; care/handshake/embrace oppose purely transactional reading. |
+| `MT-F-014` REVISE | Multiple predicted deaths cannot supply execution; powerful sight yields incomplete location; imagined alternative histories remain unobserved. | `011,015–017,027`; supernatural information is not omniscience. |
+| `MT-F-015` REVISE | Wiped mouth, campsite care, warrior tears, held hand and rare maternal embrace communicate need. | `002,018–021,031`; embodied recognition can coexist with continuing control. |
+| `MT-F-016` STRENGTHEN | Record inquiry corrects a feared inference; intended message and received conclusion remain separate. | `021,025–028`; C014 requires actual knowledge of error. |
+| `MT-F-017` NEW | Shared terms carry incompatible self-appraisals: strength, warrior, family and balanced standing. | `014,018,020,023–026`; close reading of language plus knowledge, not translation mystery. |
+| `MT-W-001/005` REVISE | Anti-magic barrier, spell defense, lung-dependent chanting, bodily skill, disruption and large mana reserves separate capacities. | `005,007–008,014–018`; observed constraints stronger than complete combat hierarchy. |
+| `MT-W-003/009/010` STRENGTHEN | Hostage labor, royal military utility, exile euphemism, aristocratic transfer and reconstruction patronage. | `007–010,021–022,026`; motives partly inferred; specific relief not system reform. |
+| `MT-W-006/012` REVISE | Survival lists have conventions; costly physical message delivery remains necessary. | `021,027–028`; no current address/recovery guarantee. |
+| `MT-W-008` REVISE | Hitogami's attributed curse account supplements fear explanations and explicitly leaves learned prejudice. | `017,019`; do not overwrite prior social evidence or certify interested testimony. |
+| `MT-W-013` NEW | Divine recognition anomalies and visibility/aversion restrictions enter as unequal observations/reports. | `015–019,027–028`; full mechanism and motives withheld; no later cosmology. |
+
+The targeted V06 checkpoint reviews new knowledge premises and model dependencies. The V01–V05 cumulative checkpoint remains unchanged; next scheduled cumulative reviews are V10 and V15. No new source lane, monograph or duplicative specialist is activated.

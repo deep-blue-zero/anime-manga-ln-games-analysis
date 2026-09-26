@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Bootstrap only; V01 not narratively inspected, no source observations admitted."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -35,9 +35,9 @@ Append anchored events and proposition changes; reconcile conflicts visibly. Nev
 
 `NOT_STARTED`: zero narrative observations and zero substantive records. V01 is only structurally inspected for source usability. No absent phenomenon or character trait is inferred from the empty ledger. First update requires a separately authorized V01 reading.
 
-## V01 pilot candidate — 2026-09-25 (pending durable locator map)
+## V01 accepted records — read 2026-09-25; closure prepared 2026-09-26 UTC
 
-The observations below are provisional and the LN high-water mark remains `null`; the hash-only locator map has not been durably placed in the evidence plane.
+The owner approved the V01 reading after its synopsis revision. Its hash-only locator map is durably retained and byte-verified as recorded in the [source lock](../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md). The records below are accepted within V01; their interpretations and uncertainties are unchanged. The [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) distinguishes this local closure candidate from pending branch publication and exact-head audit. The bootstrap zero state above remains historical.
 
 Witness `MT-LNJP-V01`; observation IDs resolve in the [V01 reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md). Ages are reported anchors in this volume, not a formula for subjective or moral age. Exact elapsed months and calendar dates are not inferred beyond the text.
 
@@ -62,3 +62,153 @@ Witness `MT-LNJP-V01`; observation IDs resolve in the [V01 reading](../02%20Sequ
 | `MT-K-007` Roxy's later progress | Rudeus and reader learn from her letter that she reports Shiron court work and water-king level after leaving. | `015`; no direct inspection of her offstage life or later LN. |
 
 The age claims “34” and later self-characterization as mentally over 40 belong to Rudeus's own arithmetic and rhetoric (`001,006,013`); age at this volume's close is seven in his new life (`MT-T-006`). Physical development, remembered experience, social treatment and demonstrated judgment remain separate variables. Do not enter a sum as a world fact.
+
+## V02 chronology and knowledge changes — 2026-09-26 UTC
+
+Input audited V01 commit `eaf159559c6fc76ddd820178d7588545f08c351d`. Numbers below refer to [V02 observations](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. The V01 rows remain fixed historical states.
+
+| Chronology ID | Anchor/order through V02 | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-008` | Arrival: Rudeus seven, Eris nine; pursuit prologue precedes explanatory reset to arrival. | `001–004`; age explicit, opening narrative order differs from event order. |
+| `MT-T-009` | Abduction/employment → about a month of instruction → roughly another half year → rest-day system; first outing/history account names K414. | `003–007,010`; rounded summaries not forced to exact dates. |
+| `MT-T-010` | Roughly one year since arrival: Eris ten; dance, gifts, sphere observation. Later Rudy nine/two years since arrival, language study and letter. | `008–011`; Ghislaine's half-year conversational acquisition can fall within his year of study. |
+| `MT-T-011` | Rudeus ten/Eris twelve: birthday and boundary episode, then staff demonstration and catastrophe. | `012–017`; planned holy spell interrupted. Extra explicitly dates displacement year K417 (`part0027` p54–55). |
+| `MT-T-012` | Epilogue: Roxy arrives six months after regional disappearance. | `018`; travel chronology explicit; no exact arrival date invented. |
+| `MT-T-013` | Extra: a century-later cult frame returns to K417 for Vigo/Ghislaine battle, then traces cult formation. | `019`; V02 itself contains this future reach. Main cast does not gain that later knowledge. |
+
+| Knowledge ID / proposition | Holder, update and reader access | Evidence / boundary |
+| --- | --- | --- |
+| `MT-K-008` Abduction plan vs reality | Rudy/Philip know staged design; Eris does not. Rudy discovers real danger. Philip later reports Thomas's betrayal and managed official attribution. | `001–004`; investigation not directly witnessed; reader must not infer Eris learns every backstage fact. |
+| `MT-K-009` Eris's reasons and limits | Rudy guesses repeatedly; her return to dance practice, gift initiative and direct refusal provide action/speech. Ghislaine's romantic interpretations are conjectural. | `008,011–014`; no blanket mind-reading. |
+| `MT-K-010` Language and history | Rudy learns through books, Ghislaine and Roxy; embedded cosmology/history remain attributed. Roxy letter confirms effort and reports likeness distress. | `010–011`; no external historical verification. |
+| `MT-K-011` Household lineage and sons | Political secrecy and succession customs become available to Rudy by gradual report, culminating in Philip's explanation. | `012–013`; Hilda's interior motives not independently narrated. |
+| `MT-K-012` Disaster cause | Roxy/Perugius compare light to summoning; others suspect, speculate or identify an unexplained deviation. Rudy has not caused the represented anomaly by completing his planned spell. | `015–017`; no culprit/mechanism established; no later-franchise explanation permitted. |
+| `MT-K-013` Missing versus dead | Roxy sees separate boards and Paul's message; reader learns Norn with Paul as his report, wives/Aisha missing. | `018`; Rudy's reception of message unshown; absence from death list is not proof of safety. |
+| `MT-K-014` Ghislaine's survival and purpose | Reader/Vigo encounter her after displacement; she asks after children and receives geographic information. | `019`; no demonstrated reunion or confirmed route success. Vigo never learns eventual fate in this extra. |
+| `MT-K-015` Legend versus experience | Vigo's memorial and later collective cult recast Ghislaine's intervention; reader has causal account unavailable to later worshippers. | `019`; no claim that Ghislaine knows or authorizes cult. |
+
+**Unresolved witness details:** anomaly direction differs within Roxy scene (`part0020` p379 east / p476 west). Extra commander spelling varies (`part0027` p172/214 クライン, p207 クラウン), with loose troop recounting around p136/145–146. Preserve these as source irregularities; neither silently normalize nor construct additional characters/events. These details do not block the recovered event order. Physical ages, remembered past and self-attributed total age remain distinct.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Chronology ID | Story-time anchor / order | Observation / uncertainty |
+| --- | --- | --- |
+| `MT-T-014` | V03 begins immediately after displacement, before V02's six-month Roxy epilogue; Ruijerd rescues children in northeastern Demon Continent. | `001–004`; no precise intervening day count beyond narrated travel. |
+| `MT-T-015` | At guild registration Rudeus is 10, Eris 12 and Ruijerd 566; Rowin reports Roxy as 44. | `003,007`; private summed remembered age is not current bodily age. |
+| `MT-T-016` | First town: initial jobs, three days to E rank, later three-week summary to D rank, forest/exposure and departure; Rudy says nearly two months there. | `010–017`; preserve rounded spans without forcing exact consistency or hidden days. |
+| `MT-T-017` | Post-reunion travel progresses through month summaries to approximately one year; A-rank Dead End reaches Wenport. | `019–020`; no exact new birthday/date or completed sea crossing. |
+| `MT-T-018` | Extra returns to the initial Fittoa event: monster arrives at palace, Derrick dies and unnamed girl arrives. | `022`; publication order differs from story time; narrator directly dates simultaneity. |
+
+| Knowledge ID / proposition | Holder and update | Evidence / boundary |
+| --- | --- | --- |
+| `MT-K-016` Hitogami | Rudy experiences two dreams and receives useful route/job advice; divine identity, motives, limits and culprit claims unverified. | `001,009`; no blanket cosmology admission. |
+| `MT-K-017` Roxy / family | Parents learn earlier pupil news; Rudy learns family/telepathy history and promises contact. | `003`; no completed later communication established. Paul's message still not shown received by Rudy. |
+| `MT-K-018` Ruijerd history / code | Ruijerd reports spears/son/persecution; Rudy reconstructs child/warrior norms from speech and behavior. | `004,011,014–015`; report and interpretation distinct; other Superd absence not extinction. |
+| `MT-K-019` Guild scheme | Rudy knows rules but disputes classification; Nokopara exposes job swapping and its institutional effect; party change does not erase prior acts. | `007,012,016`; actual rule vs actor's self-exemption. |
+| `MT-K-020` Rescue motive | Rudy/reader know deliberate gratitude-maximizing delay; Kurt supplies an independent self-responsibility account; Ruijerd credits respect for warrior pride. | `014`; no full confession represented, favorable interpretation mistaken. |
+| `MT-K-021` Flood preparation | Rudy/reader know contemplated town devastation; Ruijerd later speaks of readiness to kill the extortionist. | `016,018`; scope of shared knowledge limited, no flood executed. |
+| `MT-K-022` Identity/public blame | Disguise supports acceptance; reveal with threat causes panic; guards assign agency to Ruijerd and innocence to children despite Rudy's protest. | `006,017`; not independent factfinding or a pure hair-only test. |
+| `MT-K-023` Consultation | Party adopts reporting/advice; Eris supplies overlooked market practice; Rudy withholds reputation allocation. | `019–020`; more communication not complete transparency. |
+| `MT-K-024` Palace cause/newcomer | Narrator says monster teleported; Derrick considers conspiracy then receives rescue as answered prayer. Girl is unnamed and white-haired. | `021–022`; no proved divine mechanism, later identity or Rudy knowledge. |
+
+Source-appraisal variation: Rudy first attributes an attack's partial hit to his aim, later considers evasion (`014–015`); retain changed explanation. Ruijerd initially senses fighting, then the party finds six dead veterans; precise opportunity for earlier intervention is not supplied (`015`). Neither licenses an invented rescue choice. V02 source irregularities remain as recorded, not silently repaired.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Chronology | Anchor / order | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-019` | Wenport: Rudeus11 after recent birthday, Eris13; about one year since displacement. | `001`; resolves age at new admission, does not rewrite V03 freeze. |
+| `MT-T-020` | Eye gift → roughly one week calibration → staff-sale encounter; fifteen-day wait before arranged crossing. | `002–005,008`; do not add overlapping summaries as exact calendar. |
+| `MT-T-021` | Port rescue/capture → week of confinement, Geese arrives around fifth day, fire/attack ends detention. | `009–015`; Ruijerd's concurrent rescues/negotiations explain delay. |
+| `MT-T-022` | Three-month rainy-season residence, week/month markers; Eris soon14 at departure. | `016–021`; no subsequent birthday narrated. |
+| `MT-T-023` | Forest road approximately one month, mountain passage three days, then Millis border. | `022`; capital/home not yet reached. |
+| `MT-T-024` | Roxy interlude overlaps port training, leaves after three days; narrator offers longer-stay counterfactual. | `006–007`; narrative order differs from event overlap, not a completed meeting. |
+| `MT-T-025` | Fitts extra returns to catastrophe and approximately the following year; later escape announced. | `023–026`; not simply events after main ending, no completed foreign journey. |
+
+| Knowledge / proposition | Holder / update | Evidence and limit |
+| --- | --- | --- |
+| `MT-K-025` Fare/alternatives | Party learns institutional price; Rudy conceals staff sale, Ruijerd later challenges and changes decision. | `001,005`; anti-terror explanation guessed, no all-party informed consensus. |
+| `MT-K-026` Hitogami/Kishirika | Rudy gets advice, claimed counterfactual and observed eye gift; distrust persists. | `002–003`; useful outcome not proof of benevolent providence or all historical claims. |
+| `MT-K-027` Eye/ability | Practice reveals branching/timing limits; battle reveals interpretation/physical gaps. | `003–004,014`; future sight not omniscience or guaranteed victory. |
+| `MT-K-028` Missed meeting | Roxy holds distorted rumor and fear; reader sees Ruijerd's actual curiosity and overlapping training. | `006–007`; neither knows full near encounter, no message reception by Rudy. |
+| `MT-K-029` Gallus plan | Initial rescue/gratitude story → hostage disclosure and later reconstruction reveal faction sabotage/abduction. | `005,009–015`; initial trust not retroactively informed, alleged buyer identities remain partial. |
+| `MT-K-030` Killing self-account | Rudy claims no previous murderous intent while authorizing killings; reader retains V03 flood preparation. | `009`; personal animus/direct killing distinctions possible but not explicit reconciliation. |
+| `MT-K-031` Arrest/care need | Gyes misreads scene, Gustav doubts and orders no harm, Ruijerd assumes warrior self-sufficiency. | `011–012,019`; reader has disparate access, no blanket innocent-history claim. |
+| `MT-K-032` Boreas labor | Rudy suspects connection between noble demand and household servants but explicitly lacks origins, tells Eris nothing. | `015`; source-grounded suspicion, not established household acquisition history. |
+| `MT-K-033` Ghislaine/family letters | Gyes's childhood account challenged by pupils; Rudy remembers forgotten search/letter plans. | `016,018`; no current Ghislaine encounter or completed family communication. |
+| `MT-K-034` Sacred beast/history | Lakrana translates gratitude and denial of Rudy-as-hero, reports long maturation/world-saving tradition. | `020`; translation/tradition not independently proved prophecy or chronology. |
+| `MT-K-035` Geese/Great Powers | Geese reports party breakup and old Ruijerd rescue; ranking/history supplied by companions. | `022`; unnamed couple remains unnamed; automatic updates only reported. |
+| `MT-K-036` Fitts/rumor | Narrator supplies alias and displacement history; nobles misattribute Eris-tutor biography; identity phrase interrupted. | `023–025`; no explicit earlier name. Boy presentation differs from V03 girl description; do not repair using foreknowledge. |
+| `MT-K-037` Court threat/relief | Reader sees Grabel/Darius planning, Fitts kills attacker, official inquiry fails; nightmares cease afterward. | `024–026`; Rudy knows none of this here, single cause of relief unestablished. |
+
+Appraisal and textual details stay distinct: suspect biography is not a missing source, and roughly timed episodes need not share an exact calendar. V02 source irregularities and earlier knowledge rows remain preserved.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Chronology | Anchor / order | Observation / limit |
+| --- | --- | --- |
+| `MT-T-026` | Milishion arrival at Rudy's stated eleven/about 1.5 years after displacement; fight then next-day reunion, later week before departure. | `001,007–015,020`; approximate time language retained. |
+| `MT-T-027` | Paul retrospective: Norn aged three at the disaster, illness stop roughly two months, search/Millis work then month of neglect before reunion. | `004–006,015`; overlapping summaries not additive exact calendar. |
+| `MT-T-028` | Eris interlude returns to first reunion day; Cliff twelve between Rudy/Eris, rescue before comfort scene. | `017–019`; later source age formulation recorded beside V04 near fourteen, not silently forced into a birthday. |
+| `MT-T-029` | Departure → reported two months to Westport → passage to Central Continent/Eastport extra. | `020–022,025`; rounded two-year/roughly twelve-year language not precise birth date. |
+| `MT-T-030` | Roxy return around group's Millis departure, stays three days, confirms missed meeting then searches northwest. | `023–024`; no exact shared calendar inferred. |
+| `MT-T-031` | Ariel leaves capital, rumors/inquiry after about one month; successive border/testimony/report/correction opportunity. | `026–028`; announced later consequence not present event. |
+
+| Knowledge | Holder / change | Observation / limit |
+| --- | --- | --- |
+| `MT-K-038` Apparent abduction | Rudy believes child kidnapped; reader later knows rescue party, Paul first assumes disguised enemy. | `002–003,007`; each acts before recognition. |
+| `MT-K-039` Disaster/notices | Paul assumes son informed; Rudy not; Eris saw notices and assumes he knew. Region-wide facts reach Rudy after fight. | `006–007,017`; message existence not receipt, some omissions remain real. |
+| `MT-K-040` Paul history | Reader receives care/search/assault memory before son's understanding. | `004–006`; feared deaths and revenge hypothesis not established. |
+| `MT-K-041` Vera/Shela | Paul/reader have abuse/protection account; Rudy still uses sexual/dislike explanations. | `010`; apology not complete new knowledge, no recovery certification. |
+| `MT-K-042` Family development | Paul tells domestic negotiation, Sylphie's prior study, Philip letter; current missing fates unknown. | `012,020`; reports not direct new women's interiority; no alias resolution. |
+| `MT-K-043` Geese | Jail arrangement newly reported, old-party tie disclosed, why he withheld news still evasive. | `009,020`; V04 freeze preserved. |
+| `MT-K-044` Letter | Rui knows old friend as Gash; Rudy/Paul initially cannot identify; letter and Therese later establish role/handwriting. | `014–015,021–022`; first nickname guesses not all facts. |
+| `MT-K-045` Acceptance | Village/knight distinguish personal gratitude from group belief; Rudy learns publicity/passage limits. | `016,021–022`; no general reform. |
+| `MT-K-046` Eris adventure | Reader knows independent rescue before Rudy learns from Therese; Cliff miscredits teaching and ease of win. | `017–019,022`; inner fear/knight help qualify surface. |
+| `MT-K-047` Roxy | Testimony resolves missed encounter; her effortless-pupil account remains partial; parents' care becomes perceptible. | `023–024`; no new telepathy or meeting. |
+| `MT-K-048` Restaurant | Rudy guesses failing shop/thug; owner viewpoint reveals general/recruitment/martial identity and closure. | `025`; downstream facts not automatically Rudy knowledge. |
+| `MT-K-049` Ariel inquiry | Bruno observes killing but infers identity; Gustav asserts death, lookout contradicts, Gustav knowingly leaves report. | `026–028`; final framing confirms falsehood, disguise mechanism inferred, later politics not narrated. |
+
+Source interpretation distinguishes event, report, prediction and chosen ignorance. The continuing absence of confirmed family locations or Fitts's earlier name is not a missing extraction route.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Chronology | Anchor / order | Observation / limit |
+| --- | --- | --- |
+| `MT-T-032` | Opening guild card says twelve; route/search summaries give roughly two years after displacement and months of travel. | `001–004`; not a verified exact birthday/calendar. |
+| `MT-T-033` | Shirone letter precedes Aisha rescue, false invitation, prison day and overlapping liberations; escorted family then separates. | `004–013`; retrospective explanation supplies earlier concurrent actions, not a second rescue. |
+| `MT-T-034` | Road training/recognition precede mountain attack; later Eris identifies recognition as fifteenth birthday. | `014–018,023`; travel-month and age approximations retained without forced reconciliation. |
+| `MT-T-035` | Recovery → three-day aftermath/Asura entry → about a month north → camp, intimacy/departure, week of distress and northbound search. | `018–026`; source order and reported intervals, no invented exact date. |
+| `MT-T-036` | Eris's retrospective section revisits V02–V06; Zanoba and Lilia histories precede present action. | `010,024,030–031`; REVEALED_NOT_NEW, not current change in childhood. |
+| `MT-T-037` | Roxy interlude reports Lilia/Aisha already with Paul; final extra returns to their earlier escorted journey. | `027–031`; book order is not a universal time sequence; estimated delivery time not completed delivery. |
+
+| Knowledge | Holder / change | Observation / limit |
+| --- | --- | --- |
+| `MT-K-050` Advice / Roxy | Hitogami supplies ordered instruction; Rudy assumes court employment, writes early and partially briefs companions. | `002,004,007`; instruction, interpretation and actual outcome distinct. |
+| `MT-K-051` Aisha identity | Rudy thinks alias effective; Aisha recognizes him; extra confirms knowledge while Lilia misreads it. | `006,013,029`; exact proposed test partly Rudy inference; every private thought not shared. |
+| `MT-K-052` Court plans | Ginger, soldiers, Zanoba and Ruijerd act with unequal information; Rudy learns motives/history later. | `007–011`; no earlier omniscient strategy, no guaranteed alternative history. |
+| `MT-K-053` Orsted | Recognizes companions, denies Paul-son expectation, detects absence of aversion, attacks at Hitogami name. | `015–016`; anomaly observed, causal world explanation unknown. |
+| `MT-K-054` Curse claims | Hitogami claims aversion, visibility limits, transfer/attenuation; Rudy notices inconsistency and later tells Rui with caution. | `017,019`; attributed useful account, not independently settled law; social prejudice remains. |
+| `MT-K-055` Healing / strength | Eris reports Nanahoshi's intervention and Orsted's healing; Rudy recovers, feels dreamlike; Eris reads resolve where he intends escape. | `016,018,024`; intervention motive and psychological cause unresolved. |
+| `MT-K-056` Training account | Eris reports one hit on distracted Rui; Rudy earlier claimed none. | `014,016,024`; retain differing knowledge/scope, not silently harmonized statistic. |
+| `MT-K-057` Home deaths / Darius | Staff report family deaths; Ghislaine verifies parents, Alphonse names kidnap patron and prospective transfer risk. | `021–022`; exact death circumstances and political causation partly withheld/inferred. |
+| `MT-K-058` Records | Rudy misreads crossing-out, asks clerk, learns Sylphie reported alive without contact address; updates Lilia/Aisha. | `021`; record presence not complete biography, high confidence survival report not observed encounter. |
+| `MT-K-059` Eris departure | Eris intends training/future partnership, withholds destination; Rudy reads note as rejection; Alphonse obeys nondisclosure. | `023–026`; reader knows more, Eris not shown knowing his resulting interpretation. |
+| `MT-K-060` Reconstruction | Rudy first sees desolation, later builds defenses and observes recovering settlements. | `021,026`; no-rebuilding first impression revised; Eris death is planned cover. |
+| `MT-K-061` Search lead | Kishirika reports Zenith alive near Rapan with unclear circumstances; Roxy probes, chooses to trust and plans delivery. | `027–028`; Rudy has not received it, dungeon explanation conjectural, rescue unobserved. |
+| `MT-K-062` Departure party | Roxy assumes Kishirika sails; narrator/Elinalise learn she stays due restriction. | `028`; particular misinformation, not total incompetence. |
+| `MT-K-063` Lilia history | Reader gains resistance, aftermath, paternal alternative and maternal self-questioning; present family does not receive this full narration. | `030–031`; affection and confidence in plan are different propositions. |
+
+Neither the source's ending order nor reader access transfers knowledge to a character. New testimony revises current interpretation without altering the V01–V05 freezes.

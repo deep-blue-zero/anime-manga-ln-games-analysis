@@ -4,7 +4,7 @@ artifact_id: "MT_VOLUME_READING_TEMPLATE"
 artifact_type: "volume_reading_template"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -32,6 +32,16 @@ The actual reading should have a valid first YAML block, a unique artifact ID su
 ---
 
 # [Actual volume title and verified edition]
+
+## Reader orientation
+
+### Developments through the previous volume (V02 onward)
+
+Before opening this volume, describe in ordinary prose the causally important story events, relationship and character changes, and unresolved situations inherited from *closed* earlier LN units. State the exact prior-volume boundary and link its reading. Keep character reports and open interpretations qualified; do not import a later revelation or rewrite the prior unit's prospective freeze. For V01, say that there is no previous LN volume or omit this subsection. This reader-facing account is distinct from the entering analytical freeze below.
+
+### Story synopsis of this volume (spoilers)
+
+After inspecting the complete volume, narrate its initial situation, central choices and reversals, important changes in relationships, ending, and the position of consequential interludes or extras. Use connected prose that makes the plot understandable before the reader reaches the technical coverage map. Identify the actors and the stakes rather than listing only chapter topics or evidence IDs. Qualify uncertain or character-reported events, paraphrase sensitive scenes without graphic detail, and route to Sections C and D for exact evidence. The synopsis is a reading aid, not a substitute for source coverage or close analysis.
 
 ## A. Scope, input state, and inspection
 

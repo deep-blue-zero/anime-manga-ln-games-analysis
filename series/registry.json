@@ -332,7 +332,7 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260925",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Japanese LN V01 source structurally verified; V12 absent. Methods and six ledgers adopted; no sequential volume closed, and V01 requires separate owner authorization."
+      "catalog_note": "Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive."
     },
     {
       "series_id": "my-hero-academia",
