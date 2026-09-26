@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.23"
+version: "11.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 103 complete i-n-g primary documents / T7S_B0080–T7S_B0122; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 106 complete i-n-g primary documents / T7S_B0080–T7S_B0123; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 216`; `directional_relationship_states = 412`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0122, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 221`; `directional_relationship_states = 418`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0123, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2345,3 +2345,35 @@ The [B0122](../02%20Readings/T7S_B0122_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0412` | Honoka → Yumeno, **ambivalent exposed participant** | Notes Yumeno is too close, initially denies aversion but falls silent as peers identify discomfort; later offers an unspecified make-up gesture. B:P29–31; C:P9–23. Reciprocal `REL-0411`; neither explicit blanket consent nor total rejection. |
 
 `T7S_B0122_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, actual-romance or technical acting record.
+
+## B0123 Rena's chosen romantic boundary and group knowledge
+
+The [B0123](../02%20Readings/T7S_B0123_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.25, binds these updates. Existing Rena `IDENTITY-0084`/`CHAR-0064`, Kyoko `IDENTITY-0077`/`CHAR-0059`, Honoka `IDENTITY-0083`/`CHAR-0063`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. The unnamed senior is not assigned a stable route.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0064` / Rena | Finds a senior's letter, admits distracted practice, fears prank/unworthiness, chooses a direct refusal because club and idol commitments fill her capacity, reports his acceptance and resumes teasing. | A:P1–58; B:P1–41; C:P1–69. No actual dating, permanent fear resolution or senior's independently witnessed response. |
+| `CHAR-0059` / Kyoko | Teases Rena, apologizes when Honoka objects, encourages a reply, then waits for her and welcomes the result. | A:P26–58; B:P1–41; C:P47–69. Care is real but does not confer access to private content or guarantee insight into senior's motives. |
+| `CHAR-0063` / Honoka | Protects Rena from teasing, asks about her worry, becomes excited by the confession and is among those who wish to see the reply. | A:P27–58; B:P1–41; C:P47–69. Support and privacy pressure coexist; no direct witness to the meeting. |
+| `CHAR-0003` / Coney | Calls out Rena's distracted work, jokes through an accidental “debut” slip, encourages romance and later wants to watch the confession. | A:P10–58; B:P24–31; C:P47–54. No formal dating policy or Nicole/Coney machine-identity resolution follows. |
+| `CHAR-0001` / Player | Pursues Rena, praises her focused effort, clarifies “like” as idol confidence, supports her capacity-based answer, offers help if trouble and blocks spying. | C:P1–54. Manager affection/authority remains bounded; he cannot know the senior's future reaction in advance. |
+| `UNIT-0002` / Nanasta | Notices Rena's distraction and live entrance error, makes space for group discussion and a private reply. | A:P10–58; B:P1–41; C:P47–71. No auditioned performance error, dating prohibition or written privacy process shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0217` | Rena knows of the letter; Coney/peers know of distracted work, while they initially do not know its cause. | A:P1–39. Live error reported, not directly heard. |
+| `KNOW-0218` | Rena tells group of the senior/letter; peers read signs of interest and Honoka relays meeting time; Rena remains unsure if sincere. | A:P40–58; B:P1–23. No complete letter text or senior testimony. |
+| `KNOW-0219` | Rena weighs avoidance, Coney voices general pro-romance sentiment, and the group sees her run. | B:P24–41. No formal idol dating rule or completed decision yet. |
+| `KNOW-0220` | Player hears Rena's self-doubt and chosen refusal; Rena hears his vocational praise and possible support. | C:P1–46. Player's senior-acceptance prediction remains uncertain then. |
+| `KNOW-0221` | Rena alone can report her private answer; the others learn from her that the senior understood and promised support. | C:P47–71. Meeting, wording and future follow-through uninspected. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0413` | Player → Rena, **capacity-affirming private support** | Follows, praises work, clarifies affection as idol confidence, invites an honest answer and shields meeting privacy. C:P1–54. Reciprocal `REL-0414`; no romantic confession or guaranteed intervention needed. |
+| `REL-0414` | Rena → Player, **trusted but startled disclosure** | Shares self-doubt/decision, reacts to his ambiguous “like,” thanks him and resumes teasing. C:P1–69. Reciprocal `REL-0413`; no off-script romance proved. |
+| `REL-0415` | Kyoko → Rena, **teasing revised to serious care** | Apologizes after Honoka's correction, promises not to laugh and welcomes the reply. A:P26–58; C:P56–69. Reciprocal `REL-0416`; privacy remains Rena's. |
+| `REL-0416` | Rena → Kyoko, **hesitant disclosure with later return** | Requests seriousness before showing letter, then reports outcome to the group. A:P26–58; C:P56–69. Reciprocal `REL-0415`; no complete letter/meeting access. |
+| `REL-0417` | Honoka → Rena, **protective but curious peer** | Stops teasing and invites disclosure, later wishes to observe the reply. A:P27–58; C:P47–69. Reciprocal `REL-0418`; care and intrusion pressure coexist. |
+| `REL-0418` | Rena → Honoka, **shared worry with reserved reply** | Discloses dilemma but answers privately and reports only the result. A:P27–58; C:P47–69. Reciprocal `REL-0417`; no obligation to show the meeting. |
+
+`T7S_B0123_CLOSE-20260926`: five actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, actual romance or formal policy record.

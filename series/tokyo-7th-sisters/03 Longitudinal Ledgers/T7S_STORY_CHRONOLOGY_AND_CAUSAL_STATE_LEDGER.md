@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.23"
+version: "11.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 103 complete i-n-g primary documents / T7S_B0080–T7S_B0122; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 106 complete i-n-g primary documents / T7S_B0080–T7S_B0123; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 440`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 429`; `last_closed_block = T7S_B0122`. The admitted horizon contains 338 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 103 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 445`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 435`; `last_closed_block = T7S_B0123`. The admitted horizon contains 341 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 106 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1398,3 +1398,26 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.24. [B0122](../02%20Readings/
 | `EDGE-0436` | `PRIVATE_EXERCISE_TO_REPORTED_RESULT` | Brief chosen role-play in `EV-B0122-005` precedes peers' drama praise and Honoka's secret, but exclusive causal efficacy and technical quality are unverified. |
 
 `T7S_B0122_CLOSE-20260926`: five chapter events and six bounded edges; no new world/thread/unit record, actual romance, full drama audit or total i-n-g chronology.
+
+## B0123 Rena's love letter, capacity decision and private reply
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.25. [B0123](../02%20Readings/T7S_B0123_DEEP_READING.md) owns the A/B/C locator key. B0085/B0122 supply bounded Rena context; menu order is not total fictional chronology. The letter writer is an unnamed school-club senior in this chapter, not a new stable character route.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0123-001` | Rena finds an addressed letter after club, then is called out at Nanasta for distracted practice and a mistaken live song entrance. | A:P1–39; `KNOW-0217`. Performance error is reported, not acoustically reviewed; Coney's “debut” correction is no public identity disclosure. |
+| `EV-B0123-002` | Rena discloses under group attention that a kind club senior/life attendee wrote a love letter requesting a Monday 18:00 answer; peers infer his feelings while she worries it might be a prank. | A:P40–58; B:P1–23; `KNOW-0218`. Envelope exterior inspected, inner text/senior's direct voice not. |
+| `EV-B0123-003` | Rena considers pretending not to see the letter, then runs when the group presses. Coney offers pro-romance rhetoric, but no formal dating policy is produced. | B:P24–41; `KNOW-0219`. No obligation to accept or written rule. |
+| `EV-B0123-004` | Player follows; Rena states self-doubt, hears praise and an ambiguously phrased “like” clarified as vocational, then says she wants to decline for current club/idol capacity and plans an honest answer. | C:P1–46; `KNOW-0220`; `REL-0413`–`0414`. His prediction of senior acceptance is not prior knowledge of the outcome. |
+| `EV-B0123-005` | Player prevents Coney/Honoka from watching Rena's reply. Rena returns reporting senior acceptance and support for ordinary/idol selves; her teasing manner resumes. | C:P47–71; `KNOW-0221`; `REL-0413`–`0418`. Meeting and future support are reported, not directly shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0437` | `LETTER_TO_WORK_DISTRACTION` | Rena's discovery in `EV-B0123-001` → her admitted distraction in rehearsal/live; exact performed mistake uninspected. |
+| `EDGE-0438` | `GROUP_INQUIRY_TO_DISCLOSURE` | Coney's work concern and peers' promise not to laugh in `EV-B0123-001` → Rena's letter disclosure in `EV-B0123-002`; care and pressure coexist. |
+| `EDGE-0439` | `ROMANCE_SPECULATION_TO_FLIGHT` | Group interpretation and reply deadline in `EV-B0123-002`/`003` → Rena's flight, without proving senior's unreported inner motives. |
+| `EDGE-0440` | `ONE_ON_ONE_SUPPORT_TO_CAPACITY_CHOICE` | Player's pursuit/praise in `EV-B0123-004` helps Rena state an already developing refusal grounded in current capacity, not an imposed idol ban. |
+| `EDGE-0441` | `CHOSEN_REPLY_TO_REPORTED_ACCEPTANCE` | Rena's intention in `EV-B0123-004` → her reported answer/outcome in `EV-B0123-005`; no direct meeting or future follow-through. |
+| `EDGE-0442` | `PRIVACY_BOUNDARY_WITH_GROUP_CARE` | Player's blocking of covert observation in `EV-B0123-005` protects a private reply despite earlier collective concern and excitement. |
+
+`T7S_B0123_CLOSE-20260926`: five chapter events and six bounded edges; no new world/thread/unit, dating-policy, named-senior or total i-n-g chronology record.

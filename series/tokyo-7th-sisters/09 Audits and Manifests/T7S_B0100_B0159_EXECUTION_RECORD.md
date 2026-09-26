@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.22"
+version: "1.23"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0122`.
-- Completed run blocks: **23/60**; completed run episodes: **63/174**.
-- Next: `T7S_B0123`, chapter `300950`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0123`.
+- Completed run blocks: **24/60**; completed run episodes: **66/174**.
+- Next: `T7S_B0124`, chapter `300960`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -59,7 +59,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0120` | `300920` | 折笠アユム | ぽえっと大作戦！アユ、本場のメイドさんになるですぅ！ | `312201501 / 312201502 / 312201503` | CLOSED |
 | `T7S_B0121` | `300930` | 上杉・ウエバス・キョーコ | 怖がりプリンセス | `312201601 / 312201602 / 312201603` | CLOSED |
 | `T7S_B0122` | `300940` | 西園ホノカ | ナイショの話 | `312201701 / 312201702 / 312201703` | CLOSED |
-| `T7S_B0123` | `300950` | 荒木レナ | 放課後のラブソング | `312201801 / 312201802 / 312201803` | AUTHORIZED_UNREAD |
+| `T7S_B0123` | `300950` | 荒木レナ | 放課後のラブソング | `312201801 / 312201802 / 312201803` | CLOSED |
 | `T7S_B0124` | `300960` | 二川ミミ | リライ・オン・ミー | `312201901 / 312201902 / 312201903` | AUTHORIZED_UNREAD |
 | `T7S_B0125` | `300970` | 瀬戸ファーブ | ファーブ・ウィズアウト・ベース | `312202001 / 312202002 / 312202003` | AUTHORIZED_UNREAD |
 | `T7S_B0126` | `300980` | 鳳チャチャ | 座椅子探偵 | `312202101 / 312202102 / 312202103` | AUTHORIZED_UNREAD |
@@ -198,3 +198,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0122 closeout receipt
 
 [T7S_B0122](../02%20Readings/T7S_B0122_DEEP_READING.md): Honoka's chosen practice date with Player for a romance-drama role is initially displaced by well-meant Kyoko/Rena coaching and Yumeno's intrusive spectatorship; peers remove Yumeno, Honoka renews her choice, and a later drama is praised without establishing an actual romance or full technical performance verdict. All 180 pages, 165 text records and 15 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.24 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 121 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 23/60 blocks, 63/174 episodes; publication remains pending.
+
+## B0123 closeout receipt
+
+[T7S_B0123](../02%20Readings/T7S_B0123_DEEP_READING.md): Rena's handwritten confession from a club senior disrupts practice; after crowded peer disclosure and Player's private support, she chooses to decline because club and idol work fill her capacity, reports that he accepted and supports both selves, and retains the right to a private answer. All 174 pages, 161 text records and 13 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.25 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 121 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 24/60 blocks, 66/174 episodes; publication remains pending.

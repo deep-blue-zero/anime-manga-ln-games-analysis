@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.23"
+version: "11.24"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 103 complete i-n-g primary documents / T7S_B0080–T7S_B0122; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 106 complete i-n-g primary documents / T7S_B0080–T7S_B0123; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 579`; `revisions = 42`; `predictions = 7`; `AV_reviews = 69`; `literary_findings = 579`. Claims are bounded to their stated B0001 through B0122 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 43 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 583`; `revisions = 42`; `predictions = 7`; `AV_reviews = 70`; `literary_findings = 583`. Claims are bounded to their stated B0001 through B0123 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 44 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1688,3 +1688,26 @@ Owner and A/B/C locator key: [B0122](../02%20Readings/T7S_B0122_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX and the complete drama remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0122_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, actual-romance finding, specialist or monograph promotion.
+
+## B0123 capacity, privacy and response boundary
+
+Owner and A/B/C locator key: [B0123](../02%20Readings/T7S_B0123_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.25. B0085/B0122 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0123-001` | `BOUNDED_INFERENCE`; D1; high | Rena declines a kind senior because present club/idol obligations fill her capacity, not because a demonstrated idol policy forbids dating or he is unworthy. | B:P24–33; C:P28–40. Coney's flourish is not a contract audit; no permanent romantic rule. |
+| `CL-B0123-002` | `BOUNDED_INFERENCE`; D1; high | Rena's confidence teasing Player does not eliminate genuine vulnerability when affection is directed at her; her familiar banter returns after an answer without erasing the prior uncertainty. | A:P1–7,20–39; B:P10–41; C:P56–69. Not simply coy performance. |
+| `CL-B0123-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Group concern and excitement both help and crowd Rena; Player's block of covert viewing marks the answer as hers, while his ambiguous “like” is expressly vocationally clarified. | A:P20–58; C:P12–26,47–54. No actual confession by Player or entitlement to private reply. |
+| `CL-B0123-004` | `BOUNDED_INFERENCE`; D1; high for evidence limit | The senior's understanding/support is Rena's report from an unseen meeting; the exterior envelope and peer discussion cannot independently establish full letter content or future conduct. | A:P40–58; B:P1–23; C:P56–62. No direct senior voice, lasting friendship or hostile reaction established. |
+
+### AV-0070 — Rena's letter object and unauditioned work/meeting
+
+- Questions/claims: whether native object/stills prove inner letter text, sender motives, song error, private meeting details, romance outcome, Coney's suppressed identity or lasting senior support; `CL-B0123-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for letter-content, performed-work and reported-meeting restrictions.
+- Selection: Rena `adv_chara_125_01_01`, worried `adv_chara_125_01_04`, returning `adv_chara_125_01_03`; Kyoko `adv_chara_123_01_02`; Honoka `adv_chara_124_01_03`; Coney `adv_chara_002_03_09`; foreground envelope `adv_obj_0111`. All 174 native pages and thirteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.25 binds seven media receipts.
+- Observed: envelope exterior bears `荒木レナ様`; Rena's selected expressions vary. Neither exposes the letter's inner text nor supplies the senior's direct speech.
+- Native occurrence: command-only A:P0,8–9,40,59; B:P0,35,41; C:P0,47,55,70–71. The foreground object begins at A:P40; C:P47 and P55 separate private reply interval from later group report. No depicted meeting or auditioned song appears.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX and the live song remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0123_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, senior-route invention, dating-policy finding, specialist or monograph promotion.
