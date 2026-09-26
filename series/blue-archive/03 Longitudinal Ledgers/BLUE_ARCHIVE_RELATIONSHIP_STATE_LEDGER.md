@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -470,3 +470,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ALICE ↔ YUZU:** Alice looks to Yuzu's winning record, loses her own match and watches Yuzu's successful rematch. She accepts a new tactic as part of play; no mentorship contract or future implementation is shown.
 - **SENSEI ↔ CLUB:** the invitation brings Sensei into relaxed play and brainstorming; the club solicits ideas, but no authored design or adult rescue is established. The four friends' next-prize promise remains their shared aspiration.
 - **RIO/HIMARI ↔ CLUB:** no contact or information transfer is represented. The E001 covert conflict stays outside the club's knowledge in this unit.
+
+## V002 C002 E003 relationship delta — a dispute contained, a quest shared
+
+- **MOMOI ↔ MIDORI:** a production disagreement over grand spectacle versus feasible/used labor escalates to an invitation for Sensei to choose. The twins accept Yuzu's match procedure, but no winner, design concession or restored consensus is shown.
+- **YUZU ↔ TWINS/SENSEI:** Yuzu recognizes Sensei's discomfort, interrupts the demand for an adult verdict, and explains a club custom. She can act as mediator while remaining shy under praise; the custom's fairness is not proven.
+- **ALICE ↔ SENSEI:** Alice wants Sensei as a party companion and enjoys a Sensei-themed item/guardian image. In campus play she deliberately makes them both level-one apprentices; Sensei mirrors her `前進` principle and credits her. The relationship is reciprocal game-language support, not a literal omnipotent protector.
+- **RIO/HIMARI ↔ CLUB:** no E001 secret reaches the group; the covert confrontation remains a separate unresolved track.

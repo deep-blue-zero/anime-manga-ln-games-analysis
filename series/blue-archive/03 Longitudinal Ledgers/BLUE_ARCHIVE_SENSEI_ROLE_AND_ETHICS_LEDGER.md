@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -624,3 +624,7 @@ Sensei has no appearance, choice, speech or represented knowledge of Rio/Himari'
 ## V002 C002 E002 delta — companion in play, not originator
 
 Sensei accepts an underspecified club invitation on a free day, wins the depicted fighting-game match against Momoi and joins talk of the next game. The club asks for ideas, yet none is shown becoming Sensei's design; Yuzu, not Sensei, analyzes and wins the anomalous rematch. Choice groups `002`/`007` contain mutually exclusive tones, and `u:0040` is `先生（心の声）`. Sensei's conditional line about difficulty `if` the opponent cheats is not a forensic verdict. Their information does not include Rio/Himari's secret meeting. No readiness change, model or frozen prospective test (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E003 delta — invited judge becomes apprentice companion
+
+The twins ask Sensei to choose between spectacle and feasibility, but Sensei's `心の声` expects either choice to go badly; Yuzu intervenes and the club shifts to its own game match. No adult verdict or match result is shown. Sensei accompanies Alice on a search for ideas, suggests advancing, echoes her earlier adventure maxim and explicitly credits her as its source. Alice chooses to put both at level one. The sticker/guardian are in-game/art tributes, not proof of literal Sensei strength, design authorship or omniscience. E001 covert knowledge still does not reach Sensei. Eighteen choice groups include only one two-option branch (`009`); no readiness change or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

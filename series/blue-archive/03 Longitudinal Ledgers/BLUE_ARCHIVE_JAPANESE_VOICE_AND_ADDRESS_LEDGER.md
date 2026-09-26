@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -875,3 +875,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `チート` names the group's interpretation of abnormal screen behavior. `ハメ技` is Yuzu's tactic term; her reason to limit it among friends is that it spoils fun and creates quarrels. Against this opponent she makes a situated exception, while admitting future hacks may defeat it.
 - Sensei choices `002` and `007` each have two alternatives; the remaining nineteen groups have one option. `先生（心の声）` at scene-2 `u:0040` is internal, not spoken.
 - **Attribution quarantine:** Momoi/Midori “older sister” and self-address clashes across `u:0013-0018` and `u:0025-0057`; `u:0066` prints Midori where Alice's urgent entry is contextually apparent; `u:0118`, `u:0122`, `u:0129` and `u:0165` misfit surrounding action. Do not repair them into exact Japanese voice examples; preserve outcome and coherent event order separately.
+
+## V002 C002 E003 delta — creative vocabulary, inward thought and flipped roles
+
+- `まったりスローライフ系ダンジョン探索型RPG`/`ローグライク` frame the idea; `先生のはなまるシール` and `先生ガーディアン` are reported game/art names. `無敵` describes the drawn guardian, not Sensei.
+- `華やかなビジュアル`, `壮大なシナリオ` and `実現可能なレベル` mark opposed production emphases; `勝者の意見は絶対` is Yuzu's account of a local custom, not an endorsed design principle. `フルゼリー大戦` begins but has no result in this unit.
+- `見習い勇者`/`レベル1` is Alice's deliberate current role-play, contrasted with reported `伝説の勇者` starts. `前進` is her maxim returned by Sensei. `choice:017` has an unmatched leading double quote in the source; do not derive new dialogue from punctuation.
+- `先生（心の声）` at `u:0008`, `u:0057` and `u:0064` is unspoken. Choice `009` has two alternatives; the other seventeen groups have one.
+- **Attribution quarantine:** scene 1 `u:0014-0016`, `u:0019-0028`, `u:0033-0044`, `u:0056-0062` and `u:0075-0082` repeatedly reverse Momoi/Midori kinship and self-reference. `u:0086` (Alice label sending Alice) and `u:0090` (Yuzu label answering Yuzu) are contextually swapped. No exact voice model should absorb these lines.

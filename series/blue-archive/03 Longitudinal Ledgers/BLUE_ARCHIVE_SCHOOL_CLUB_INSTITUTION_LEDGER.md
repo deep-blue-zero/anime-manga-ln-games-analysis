@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -464,3 +464,9 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Club continuity:** the group occupies its room for play and next-title brainstorming under the C001 special-prize/temporary-deferral baseline. A proposed slow-life dungeon RPG with fighting elements and a four-friend promise to pursue the next Millennium Prize are aspirations, not an entry, deliverable or council decision.
 - **Online match:** anomalous behavior is visible and called cheating by the players, but no platform adjudication, opponent identity or code audit appears. Yuzu's win is a game outcome, not an institutional anti-cheat finding.
 - **No covert transfer:** Sensei and the club are not told Rio/Himari's E001 operation or Alice classifications. E001's fifth-C&C encounter, council sanctions/paperwork and Alice origin remain open.
+
+## V002 C002 E003 institutional delta — local design process, not governance result
+
+- **Production constraints:** the club discusses dungeon architecture and roguelike variability. Midori reports a prior day of drawing detail largely unused; Alice enjoyed drawing. This is a situated account of effort and use, not a verified project-cost record.
+- **Dispute custom:** Yuzu says unresolved differences go to a game match whose winner's opinion is binding. Momoi/Midori begin `フルゼリー大戦`; the winner and design decision are absent. Game victory is a procedure, not institutional expertise or a completed plan.
+- **Inspiration task:** Yuzu sends Alice/Sensei to find ideas and narration shows campus exploration, but no delivered idea, next-prize submission or new council ruling appears. The temporary club reprieve and E001 covert classification remain unchanged.

@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
 supersedes: []
@@ -1306,3 +1306,13 @@ No new claim ID yet. Rio/Himari's former co-planning is direct participant testi
 - **BA-C019: LOCAL EXTENSION** — the next-prize concept remains unbuilt/unawarded, while Yuzu's fairness rule shows that player experience includes social sustainability beyond a win counter. It does not prove creative quality or permanent institutional standing.
 
 No new claim ID, side-source backfill or frozen prospective character prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The Rio/Himari and fifth-C&C frontier remains audience-only/open. Contextual backfill **DEFER**.
+
+## V002 C002 E003 claim transitions — production tension and reciprocal guidance
+
+- **BA-C001–C004, C007, C010–C011: LOCAL TEST** — the twins' ambition/feasibility clash exposes labor and consent costs; Yuzu relieves Sensei of a forced verdict, though the club's winner-decides rule is itself unvalidated.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei does not invent the core game design or decide the conflict. Their prompt restates Alice's own `前進` principle, credited back to her.
+- **BA-C008: BOUNDED** — eighteen choice groups include only one two-option branch, and three internal thoughts are not spoken directives.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki evidence.
+- **BA-C019: PRESSURE-TEST** — artistic spectacle, used labor, feasible implementation, Alice's player delight and hoped-for sales are non-identical tests. Level-one play is a learning/balance adjustment, not a product-quality verdict.
+
+No new claim ID, model, frozen prediction or side-source admission. Rio/Himari remains unshared with the club; contextual backfill **DEFER**.

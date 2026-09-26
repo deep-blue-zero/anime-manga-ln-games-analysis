@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -619,3 +619,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Next prize is an ambition:** the special award enabled a provisional room; the four friends now imagine a hybrid game and another Millennium Prize. Creative energy, finished work and official recognition remain distinct tests under BA-C019.
 - **Fair play is relational:** Yuzu can deploy a strong trapping technique against apparent unfair play but avoids overuse with friends because it would endanger shared enjoyment. Winning and sustaining the game relationship are separate values, not a simple skill/fear opposition.
 - **Measured display versus fictional buffs:** visible `UZQueen` victory grounds a bounded tactical reading; invented “mode” multipliers parody game-stat literalism and cannot quantify Yuzu's mind or vision.
+
+## V002 C002 E003 motif / callback delta — making a game is also deciding how to make it
+
+- **Spectacle costs labor:** a tower/elevator/explosion image excites one line of ideation, but Midori invokes earlier mostly unused dungeon drawings. Alice's joy in drawing does not cancel the collective feasibility question. BA-C019's plural creative tests now include production labor and usable scope.
+- **The judge trap:** both twins ask Sensei to declare a winner; Yuzu notices the social pressure and shifts to the club's own game custom. Adult presence does not automatically arbitrate student making, but a game match does not guarantee a sound design.
+- **Teacher as item/guardian/party member:** Alice values the reported `はなまるシール` and drawn guardian, while Sensei prefers party membership; in campus play both begin at level one. Fictional invincibility is contrasted with reciprocal, non-omniscient companionship.
+- **Forward as a borrowed lesson:** Sensei repeats Alice's `前進` maxim and returns credit. Her heroic language becomes a practical action cue for an uncertain idea search, not evidence the quest is already completed.

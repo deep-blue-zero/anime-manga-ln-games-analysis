@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:002; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:003; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -538,3 +538,12 @@ Rio and Himari enter the index as `UNMODELED`, yielding 21 `PARTIAL_MODEL` / 18 
 - **Sensei:** visits during free time, wins the visible Momoi match and is invited to contribute ideas. Choice tones branch; no design authorship or resolution of the E001 secret is shown.
 
 No new tracked subject or readiness change: 21 `PARTIAL_MODEL` / 18 `UNMODELED` across 39, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E003 delta — design dispute and apprentice quest
+
+- **Alice:** prefers variable roguelike dungeons, values the reported `先生のはなまるシール` item and illustrated `先生ガーディアン`, then chooses a level-one apprentice frame after recounting prior balance objections to a legendary-hero start. She accepts Yuzu's inspiration quest, explores campus with Sensei and recognizes her own `前進` maxim echoed back. No actual design solution, literal guardian power or origin knowledge is shown.
+- **Yuzu:** checks the twins' pressure on Sensei, describes a match-based club dispute rule, and sends Alice with Sensei to search for ideas. This club leadership/protective action adds context to E002's social inhibitor, not general conflict-resolution proof; the match outcome is not shown.
+- **Momoi/Midori:** spectacle/grand scenario and feasible production diverge. Midori recounts an earlier day of detailed dungeon drawings mostly unused in the game; Alice says she enjoyed drawing. The twins begin `フルゼリー大戦` rather than receiving Sensei's design verdict. Their printed labels reverse in several spans, limiting precise individual line attribution.
+- **Sensei:** asked to judge but does not choose; accompanies Alice and restates her own forward principle. Three internal-thought lines are not spoken directives.
+
+Readiness unchanged: 21 `PARTIAL_MODEL` / 18 `UNMODELED` across 39, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
