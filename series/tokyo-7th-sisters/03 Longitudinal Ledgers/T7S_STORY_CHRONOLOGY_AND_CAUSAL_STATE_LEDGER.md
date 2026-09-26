@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.51"
+version: "11.52"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 187 complete i-n-g primary documents / T7S_B0080–T7S_B0150; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 190 complete i-n-g primary documents / T7S_B0080–T7S_B0151; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 628`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 713`; `last_closed_block = T7S_B0150`. The admitted horizon contains 422 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 187 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 638`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 727`; `last_closed_block = T7S_B0151`. The admitted horizon contains 425 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 190 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2210,3 +2210,39 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.52. [B0150](../02%20Readings/
 | `EDGE-0720` | `ESCORT_ROLE_TO_BUDDY_JOKE` | Competing lady/buddy descriptions in `EV-B0150-009` do not settle Sui's identity. |
 
 `T7S_B0150_CLOSE-20260926`: nine chapter events and fourteen bounded edges; meet report, child coaching, date word and peer surveillance retain separate evidentiary/ethical states.
+
+## B0151 Shizuka, the sponsor and an on-air answer
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.53. [B0151](../02%20Readings/T7S_B0151_DEEP_READING.md) owns the A/B/C locator key. B0009's Kuonji household negotiation is a bounded comparison; B0054's corporate leverage is not established as the same sponsor or the next event. The B portion recounts a prior private management explanation after A's overhearing and alongside later reschedules; native presentation is not one unbroken forward chronology.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0151-001` | Shizuka/Sawara tape national late-night mini-segment; peers anticipate all-member live and Shizuka offers a lavish celebration. | A:P2–56; `KNOW-0404`. Street uplift is Sawara's attribution, not audited data. |
+| `EV-B0151-002` | A director calls Coney to producer; Shizuka later overhears Coney tell Player that 777☆S appearances must cease. | A:P19–30,60–68; `KNOW-0405`. She hears a consequence before a full private explanation. |
+| `EV-B0151-003` | Coney privately attributes multi-station sponsor pressure to a new chief treating Shizuka's surname as rival Kuonji promotion. | B:P22–49; `KNOW-0406`. Manager-reported sponsor/producers' positions, no contract or direct chief testimony. |
+| `EV-B0151-004` | Bookings are rescheduled; uninformed Kajika blames possible personal failure and Player evades; group keeps rehearsing. | B:P1–19,52–57; `KNOW-0407`. Rescheduling does not prove permanent cancellation or resolution. |
+| `EV-B0151-005` | Shizuka volunteers for deliveries, fish-shop and Nanastar cleaning as apology, then hears street anticipation of full group. | B:P61–79; `KNOW-0408`. Overwork cannot remove sponsor condition or prove demand caused by her intent. |
+| `EV-B0151-006` | Shizuka offers temporary television withdrawal without quitting Nanastar; Player resists, Coney tests her true wish, and an additional request is withheld. | B:P84–123; `KNOW-0409`. Choice is sincere but under exclusion pressure and without group consultation. |
+| `EV-B0151-007` | Backstage group is told illness; Haru challenges Player's incongruent reply; he later admits Shizuka's choice may extend beyond tonight. | C:P23–45,77–84; `KNOW-0410`. False health account is not group consent. |
+| `EV-B0151-008` | Coney differentiates Kuonji-role answer from Shizuka's wish, shows viewers asking for her by name, and takes her to studio. | C:P1–19,50–73; `KNOW-0411`. Selected lobby comments are not measured whole audience. |
+| `EV-B0151-009` | Shizuka arrives in costume; Haru pauses live introduction and peers demand her own wish; Shizuka says she wants to sing with them. | C:P87–135; `KNOW-0412`. Public interruption imposes production cost; sung performance itself not fully captured. |
+| `EV-B0151-010` | After live, staff accepts apology, chief reportedly phones as new fan, group praises event; peers demand consultation and Shizuka affirms full name plus personal voice. | C:P139–177; `KNOW-0413`. Reported resolution is chapter-local, not contract/policy verification. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0721` | `MINI_SEGMENTS_TO_FULL_GROUP_OPPORTUNITY` | `EV-B0151-001` frames a forthcoming live; no measured reach or guaranteed booking. |
+| `EDGE-0722` | `PRODUCER_CONTACT_TO_MANAGER_DISCLOSURE` | A:P19–30 leads to Coney's conversation overheard in `EV-B0151-002`; exact off-screen negotiation absent. |
+| `EDGE-0723` | `SPONSOR_RIVALRY_TO_EXCLUSION` | Coney's report in `EV-B0151-003` gives the chief's rationale, not objective promotion or legal necessity. |
+| `EDGE-0724` | `EXCLUSION_TO_RESCHEDULES` | The sponsor condition explains disrupted shows in `EV-B0151-004`; individual network records absent. |
+| `EDGE-0725` | `MANAGER_SECRECY_TO_KAJIKA_SELF_BLAME` | Evasion in `EV-B0151-004` permits misattributed personal fault; no real Kajika failure shown. |
+| `EDGE-0726` | `OVERHEARING_TO_APOLOGY_LABOR` | Shizuka's partial knowledge drives voluntary overwork in `EV-B0151-005`; labor does not cure sponsor pressure. |
+| `EDGE-0727` | `STREET_ANTICIPATION_TO_WITHDRAWAL_OFFER` | Anticipated fans intensify her choice in `EV-B0151-005`–`006`; fan demand not polled. |
+| `EDGE-0728` | `WITHDRAWAL_TO_ILLNESS_COVER` | `EV-B0151-006` is presented to peers as illness in `007`; no collective assent. |
+| `EDGE-0729` | `PLAYER_EVASION_TO_HARU_CHALLENGE` | Haru notices false account in `EV-B0151-007`; the later admission follows, not complete contract disclosure. |
+| `EDGE-0730` | `LOBBY_NAMES_TO_SHIZUKA_RECONSIDERATION` | Coney's selected comments in `EV-B0151-008` show support for her, not a national plebiscite. |
+| `EDGE-0731` | `CONEY_ESCORT_TO_STUDIO_ARRIVAL` | `EV-B0151-008` precedes Shizuka's costumed arrival in `009`; access mechanics off-screen. |
+| `EDGE-0732` | `HARU_QUESTION_TO_SHIZUKA_WISH` | Haru and peers ask rather than assume in `EV-B0151-009`; Shizuka declares wish to sing together. |
+| `EDGE-0733` | `UNSCRIPTED_REUNION_TO_REPORTED_DEESCALATION` | Live interruption precedes chief's reported fan call in `EV-B0151-010`; permanent policy change not established. |
+| `EDGE-0734` | `SELF_EXPRESSION_TO_CONSULTATION_BOUNDARY` | Shizuka's answer and peers' later warning in `EV-B0151-009`–`010` reject unilateral group sacrifice. |
+
+`T7S_B0151_CLOSE-20260926`: ten chapter events and fourteen typed, bounded edges; sponsor testimony, broadcast recording and future booking state remain separate unverified levels.

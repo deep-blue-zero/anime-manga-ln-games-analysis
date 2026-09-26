@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.51"
+version: "11.52"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 187 complete i-n-g primary documents / T7S_B0080–T7S_B0150; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 190 complete i-n-g primary documents / T7S_B0080–T7S_B0151; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 403`; `directional_relationship_states = 604`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0150, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 413`; `directional_relationship_states = 612`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0151, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3371,3 +3371,45 @@ The [B0150](../02%20Readings/T7S_B0150_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0604` | Sui → Kajika, **trust in peer help with later objection** | Receives planning support then asks why group knows outing details and calls following awful. B:P1–83; C:P117–149. Reciprocal `REL-0603`; no apology recorded. |
 
 `T7S_B0150_CLOSE-20260926`: one new named chapter-local boy identity/character, nine epistemic states, four directional relationship pairs and existing-actor/unit annotations; no romance, professional child coaching or identity-resolution promotion.
+
+## B0151 Shizuka's name, group consultation and sponsor opacity
+
+The [B0151](../02%20Readings/T7S_B0151_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.53, binds these updates. Existing Shizuka `IDENTITY-0018`/`CHAR-0015`, Haru `CHAR-0004`, Coney `CHAR-0003`, Player `CHAR-0001`, Kajika `CHAR-0020`, Sawara `CHAR-0019`, Sumire `CHAR-0013`, Sui `CHAR-0014`, Nanastar `UNIT-0002` and 777☆S group state suffice. The anonymous sponsor/company/chief and generic production icon are not assigned invented stable identities or a new unit route; `社長`/`会長` variation is not resolved into two persons.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0015` / Shizuka | Enjoys group television work, hears exclusion, overworks as apology, offers temporary TV absence, then acknowledges desire to sing with peers, remains Kuonji Shizuka and accepts future consultation. | A:P2–68; B:P61–123; C:P1–19,50–73,87–177. Not responsible for sponsor's coercive condition, not quitting Nanastar or renouncing family. |
+| `CHAR-0004` / Haru | Detects false illness explanation, demands truth, interrupts live call to ask Shizuka's wish and says she wants to sing with her anywhere. | C:P36–45,77–134. Protecting reciprocity does not validate all on-air procedural disruption. |
+| `CHAR-0003` / Coney | Reports sponsor leverage, plans approach, defends right to withdraw, later distinguishes Shizuka's duty answer from own wish, shows viewer comments and escorts her to studio. | A:P16–30,62–67; B:P22–49,112–123; C:P1–19,50–73,139–152. Sponsor account attributed; no verified contract/negotiation result. |
+| `CHAR-0001` / Player | Initially conceals condition and uses illness cover; resists Shizuka's exclusion, partly explains uncertainty to peers, apologizes to staff and reports chief's approving call. | B:P17–57,84–123; C:P23–45,77–84,102–106,139–152. Protective motive does not erase false information; call not independently inspected. |
+| `CHAR-0020` / Kajika | Suspects an unreported failure on her part, later wants Shizuka in group and celebrates future appearances. | B:P6–12; C:P25–30,122–124,168–169. No mistake by her is shown. |
+| `CHAR-0019` / Sawara | Reports street uplift, performs mini-segment and tries to rally a saddened group under false sickness premise. | A:P2–56; C:P31–33. Street economics and Shizuka's supposed illness unverified. |
+| `CHAR-0013` / Sumire | Joins on-air call for Shizuka's feelings and later forbids another unconsulted unilateral sacrifice. | C:P112,157–162. Emotional rule is spoken, not formal institution-wide procedure. |
+| `CHAR-0014` / Sui | Names Shizuka at studio, joins request for honest feeling and future consultation boundary. | C:P88–113,156–162. No new contract authority. |
+| `UNIT-0002` / Nanastar | Management handles booking pressure and secrecy poorly; 777☆S collectively insists on inclusion and reports a successful full-group live. | A:P19–68; B:P1–57; C:P23–177. No durable sponsor protection, disclosure policy, audience measurement or full performance audit. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0404` | Shizuka/Sawara and peers know television segments and anticipated group live; Sawara attributes street traffic increase. | A:P2–56. No audited ratings or economic causality. |
+| `KNOW-0405` | Director summons Coney; Coney/Player know serious booking problem; Shizuka overhears the group-withdrawal consequence. | A:P19–30,60–68. Her initial overhearing is not full sponsor briefing. |
+| `KNOW-0406` | Coney tells Player sponsor/rivalry theory, producer resistance and multi-station exposure. | B:P22–49. Their knowledge is her report; chief/contract not directly read. |
+| `KNOW-0407` | Rescheduled performers know losses but not sponsor cause; Kajika hypothesizes guilt; Player evades and urges rehearsal. | B:P1–19,52–57. Self-blame is false/unsupported, not a proven failure. |
+| `KNOW-0408` | Shizuka has inferred surname link, works as apology and hears street fans anticipate televised full group. | B:P61–79. Passersby do not know her contemplated absence. |
+| `KNOW-0409` | Shizuka tells Coney/Player her withdrawal plan and non-quit limit; they know choice, peers do not; private final request is withheld. | B:P84–123. Consultation and wish incomplete at that moment. |
+| `KNOW-0410` | Peers first hear illness; Haru identifies deception, then Player acknowledges Shizuka's answer may persist. | C:P23–45,77–84. Group never consented to false health account. |
+| `KNOW-0411` | Shizuka sees selected lobby viewers notice her missing name; Coney names support for her and escorts her. | C:P1–19,50–73. Comments include speculation, not sponsor context or representative polling. |
+| `KNOW-0412` | On-camera peers ask Shizuka herself; she states she wants to sing with them. | C:P87–135. Statement is direct; full song/performance not audited. |
+| `KNOW-0413` | Group hears staff/online/chief outcomes from Player and peers; Sumire/Sui state future consultation demand, Shizuka affirms family and personal voice. | C:P139–177. Reported approval does not verify durable access. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0605` | Haru → Shizuka, **refusal to let care erase partner's wish** | Detects cover and asks on camera what she truly wants; says she wants to sing with her. C:P36–45,98–134. Reciprocal `REL-0606`; not a blanket right to override her. |
+| `REL-0606` | Shizuka → Haru/peers, **protective sacrifice revised into explicit inclusion** | Offers to withdraw for peers, then answers their direct request and agrees to consult them. B:P95–111; C:P107–134,158–167. Reciprocal `REL-0605`; no earlier group assent. |
+| `REL-0607` | Coney → Shizuka, **honors exit while asking for own desire** | Initially permits voluntary step back, identifies duty answer, presents supporting viewers and brings her to studio. B:P112–123; C:P1–19,50–73. Reciprocal `REL-0608`; not unilateral managerial command to perform. |
+| `REL-0608` | Shizuka → Coney, **entrusts constrained choice and receives counter-question** | States sacrifice and non-quit limit, then admits wanting to sing after Coney's support. B:P84–123; C:P1–19,50–73,125–134. Reciprocal `REL-0607`; true wish emerges in group conversation. |
+| `REL-0609` | Player → Shizuka, **protective objection with secrecy cost** | Resists withdrawal and uses false illness cover while managing show; later apologizes and reports positive call. B:P101–123; C:P23–45,77–84,139–152. Reciprocal `REL-0610`; no full disclosure protocol. |
+| `REL-0610` | Shizuka → Player, **asks television route for peers, not a resignation** | Brings request to him, insists limited absence and later chooses group performance. B:P84–111; C:P87–134. Reciprocal `REL-0609`; no evidence she wanted fabricated illness claim. |
+| `REL-0611` | 777☆S peers → Shizuka, **expressed inclusion and consultation demand** | Multiple members call her in and Sumire/Sui demand no repeat without asking. C:P87–134,157–162. Reciprocal `REL-0612`; group wish is not a sponsor remedy. |
+| `REL-0612` | Shizuka → 777☆S peers, **from presumptive support to shared decision** | Tries to protect their broadcast by absence, then says she wants to sing with them and accepts boundary. B:P99–111; C:P125–134,158–167. Reciprocal `REL-0611`; no family renunciation. |
+
+`T7S_B0151_CLOSE-20260926`: ten epistemic states, four directional relationship pairs and existing-actor/unit annotations; no stable identity for anonymous sponsor, policy guarantee or new idol unit.

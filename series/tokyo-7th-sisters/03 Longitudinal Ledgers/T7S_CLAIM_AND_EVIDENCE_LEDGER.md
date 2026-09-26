@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.51"
+version: "11.52"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 187 complete i-n-g primary documents / T7S_B0080–T7S_B0150; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 190 complete i-n-g primary documents / T7S_B0080–T7S_B0151; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 699`; `revisions = 42`; `predictions = 7`; `AV_reviews = 97`; `literary_findings = 699`. Claims are bounded to their stated B0001 through B0150 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 71 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 704`; `revisions = 42`; `predictions = 7`; `AV_reviews = 98`; `literary_findings = 704`. Claims are bounded to their stated B0001 through B0151 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 72 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2340,3 +2340,27 @@ Owner and A/B/C locator key: [B0150](../02%20Readings/T7S_B0150_DEEP_READING.md)
 - Outcome: `REVIEWED` for eleven selected static resources and all native page-state segmentation. Two hundred ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and exact performance/meet records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0150_CLOSE-20260926`: five bounded claims and one AV review; no official meet certification, age precision, athletic clearance, adult romance, gender-finality claim, specialist or monograph promotion.
+
+## B0151 name, conditional access and reciprocal group agency
+
+Owner and A/B/C locator key: [B0151](../02%20Readings/T7S_B0151_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.53. B0009 is a bounded household/identity comparison; B0054 is not equated with the unnamed television sponsor.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0151-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | A chief's reported rival-advertising premise uses sponsor leverage to exclude the whole group; Shizuka's care responds to but does not cause this commercial condition. | B:P22–49,95–111; C:P148–152. No direct chief testimony or contract; later fan call does not normalize first demand. |
+| `CL-B0151-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Shizuka can propose temporary retreat and still belong, but cannot presume what peers want; Haru's question enables reciprocal answer rather than cancelling her agency. | B:P84–123; C:P1–19,98–134. Both compulsory sacrifice and compulsory performance are rejected. |
+| `CL-B0151-003` | `BOUNDED_INFERENCE`; D1; high | Illness cover and earlier evasion create false self-blame and deny group informed participation; successful reunion does not retroactively authorize the cover. | B:P1–19; C:P23–45,77–84,158–162. No health disclosure consent or full repair shown. |
+| `CL-B0151-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kuonji name shifts from sponsor's market sign to viewers' name for missing Shizuka and her personal first-person wish, without a renunciation of Kuonji identity. | A:P2–18; B:P26–30; C:P18–19,50–73,87–134,153–167. Dialogue, not costume alone, anchors inference. |
+| `CL-B0151-005` | `BOUNDED_INFERENCE`; D1; high | Reported sponsor approval and a celebrated live settle this episode's booking dispute only; performance metrics, contracts and durable future access remain unknown. | C:P95–152,168–177. No audited complete song or sponsor-policy reversal. |
+
+### AV-0098 — Shizuka's staged return and generic production icon
+
+- Questions/claims: whether stage costume individuates a new Shizuka, whether generic production art identifies the sponsor, whether art/performance alone proves a consent or contract remedy; `CL-B0151-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for unreviewed performed audio, full broadcast, contract, ratings and future bookings.
+- Selection: Shizuka school/formal `adv_chara_010_01_01` and `_09`, stage `010_02_10`; Coney `002_03_01` and `_05_03`; Haru stage `003_06_10` and `_05`; Sawara stage `012_03_01`; generic `040_01`. All 374 native pages and forty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.53 binds nine media receipts.
+- Observed: Shizuka retains recognizable presentation across school and stage; costume supports physical studio presence, not a new identity. Haru's expression states mark public insistence. Generic production-role figure does not identify the sponsor or chief.
+- Native occurrence: command-only A:P0–1,28–30,57–59,69; B:P0,20–21,50–51,58–60,67–70,80–83,124; C:P0,20–22,46–49,74–76,87,135–138,178. The C transitions separate viewer support, on-air confrontation and aftermath.
+- Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred fifty-five dialogue-associated voice pages plus title cues, BGM/SFX, complete sung performance, sponsor contract and broadcast metrics remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0151_CLOSE-20260926`: five bounded claims and one AV review; no verified sponsor identity, permanent market-access resolution, measured broadcast success, specialist or monograph promotion.
