@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.45"
+version: "11.46"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 169 complete i-n-g primary documents / T7S_B0080–T7S_B0144; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 172 complete i-n-g primary documents / T7S_B0080–T7S_B0145; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 354`; `directional_relationship_states = 554`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0144, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 362`; `directional_relationship_states = 564`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0145, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3121,3 +3121,44 @@ The [B0144](../02%20Readings/T7S_B0144_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0554` | Haru → Musubi, **welcome company and observed care** | Values walking together, thanks her for shared-work offer and notes attention to Player. C:P9–53,83–89. Reciprocal `REL-0553`; no motive adjudication. |
 
 `T7S_B0144_CLOSE-20260926`: eight actor-local knowledge records, three directional relationship pairs and existing-actor annotations; no new unit/identity or carried-forward supernatural verdict.
+
+## B0145 Musubi's institutional and audience-facing state
+
+The [B0145](../02%20Readings/T7S_B0145_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.47, binds these updates. Existing Musubi `IDENTITY-0006`/`CHAR-0006`, Susu `IDENTITY-0021`/`CHAR-0018`, Shizuka `IDENTITY-0018`/`CHAR-0015`, Haru `IDENTITY-0004`/`CHAR-0004`, Player `CHAR-0001`, Coney `CHAR-0003`, Nanastar `UNIT-0002` and NI+CORA `UNIT-0010` suffice. The idol-club president and council girl are unnamed role voices with generic visual states; no new stable identity/character/unit is warranted.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0006` / Musubi | Names idol self-search, chooses intensive study/training, submits resignation, prepares council handover, suffers audience mismatch, voices overload, receives shared-work offer and commands school fans during a livelier live. | A:P20–93; B:P1–185; C:P1–168. No accepted resignation, election result, lasting workload relief, final self-definition or heard song audit. |
+| `CHAR-0018` / Susu | Stays in training because NI+CORA is a pair, praises Musubi's technique and is visibly exhausted. | B:P1–5,22–61,128–132. Loyalty is not evidence that tripled practice is safe or sustainable for her. |
+| `CHAR-0015` / Shizuka | Offers experimental brace that Musubi refuses; praises her later technique and gives a positively received stage before Musubi. | A:P71–81; B:P67–71,130–134. No device trial or independent technical audio assessment. |
+| `CHAR-0004` / Haru | Expresses admiration and concern at Musubi's extra training and council load. | A:P57–70,87–88. No proof she joins all sessions or manages school decision. |
+| `CHAR-0001` / Player | Earlier states idol answers may differ; observes Musubi's effort/technique and disappointing live response, reports club president's cheers, supports later live. | A:P32–46,64–68; B:P6–13,93–154; C:P30–51,148–165. He cannot supply fixed identity or audited song verdict. |
+| `CHAR-0003` / Coney | Recognizes performance/audience mismatch, refuses a ready-made answer, notes better later live and insists search continues. | B:P143–154; C:P31–59,151–165. Documentary joke was not an actual production; her reading is not universal authority over Musubi. |
+| `UNIT-0010` / NI+CORA | Susu accompanies Musubi's extra training and frames staying as unit solidarity. | B:P1–5,43–61. No new contract, repertoire, safe-work standard or unit dissolution. |
+| `UNIT-0002` / Nanastar | Hosts Musubi's repeated lives and the later live with school participation, represented as a more engaged atmosphere. | B:P67–154; C:P133–168. No formal school partnership or performed-song quality audit. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0355` | Musubi remembers Player's park words and calls `探求` her own idol aspiration; Player recognizes the exchange. | A:P20–56. No preexisting settled self is disclosed. |
+| `KNOW-0356` | Musubi reports research, runs, triple practice and submitted resignation; Haru/Player know and worry; Shizuka/Susu hear brace refusal. | A:P61–93. Formal exit and exercise safety unknown. |
+| `KNOW-0357` | Susu feels training fatigue yet stays as unit partner; Player perceives improved technique/rest; Musubi knows manual/election plan and sees Susu asleep. | B:P1–61. No clinical or audio audit; waking method unseen. |
+| `KNOW-0358` | Musubi and managers see repeated weak reception; spectators voice discomfort at her smile; Susu/Shizuka judge technique strong. | B:P67–154. Distinct reported perspectives, not objective song measurement. |
+| `KNOW-0359` | Musubi/council girl know no candidate arrived; club president says she saw a stream, criticizes lack of directed address; Musubi disputes poor technique. | B:P159–185; C:P1–16. Critic's value judgment remains attributed. |
+| `KNOW-0360` | Player/Coney know club president cheered; Musubi discovers she cannot recall audience faces and asks for an identity answer; Coney says she/Player lack one. | C:P27–59. Not proof of audience absence or absolute self-ignorance. |
+| `KNOW-0361` | Council girl reports close observation of Musubi's hidden effort/occasional illness; students hear and offer help; Musubi says existing busyness prevents concentration. | C:P70–128. Girl's report is attributed; no workload measurement or formal decision. |
+| `KNOW-0362` | Player judges later live livelier; schoolmates use president title; Musubi regulates disruption; Coney says self-search remains daily. | C:P133–168. Formal presidency and first song unverified. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0555` | Musubi → Susu, **intensive unit practice with noticed fatigue** | Invites her to stop, thanks her staying and notices her sleep. B:P1–5,43–61. Reciprocal `REL-0556`; no safe-work conclusion. |
+| `REL-0556` | Susu → Musubi, **solidarity without inexhaustibility** | Stays because of NI+CORA and praises her later work, then sleeps exhausted. B:P1–5,43–61,128–132. Reciprocal `REL-0555`. |
+| `REL-0557` | Player → Musubi, **permission for self-authorship and later support** | Park speech permits divergent idol paths; later observes, worries and reports fan presence. A:P32–46,64–68; B:P6–13,93–154; C:P30–51. Reciprocal `REL-0558`; no authority to determine her essence. |
+| `REL-0558` | Musubi → Player, **taking words into action and requesting counsel** | Cites park conversation, chooses practice and later asks what idol she is. A:P20–67; C:P41–51. Reciprocal `REL-0557`; her decision is not his command. |
+| `REL-0559` | Coney → Musubi, **bounded interpretive counsel** | Spots audience/self tension, declines fixed answer and promises ongoing search. B:P143–154; C:P52–59,151–165. Reciprocal `REL-0560`; no completed identity cure. |
+| `REL-0560` | Musubi → Coney, **uncertainty rather than an imposed answer** | Seeks help after critique, receives open-ended response. C:P27–59. Reciprocal `REL-0559`; no recorded acceptance of fixed essence. |
+| `REL-0561` | Musubi → school supporters, **overload objection and live crowd care** | Says she cannot focus at old pace, later protects other customers from chants. C:P98–107,133–147. Reciprocal `REL-0562`; no blanket acceptance of office. |
+| `REL-0562` | School supporters → Musubi, **testimony, nomination and offered labor** | Council girl/students describe her effort, request continuation, volunteer help and cheer later. C:P70–125,133–147. Reciprocal `REL-0561`; pressure does not override her choice, work plan unshown. |
+| `REL-0563` | Idol-club president → Musubi, **severe fan critique shifting to conditional support** | Condemns impersonal stream, then asks school to help and affirms her wishes. B:P163–185; C:P1–16,108–125,136–143. Reciprocal `REL-0564`; her verdict is not narrator fact. |
+| `REL-0564` | Musubi → idol-club president, **contested diagnosis and newly noticed fan** | Disputes critique, learns she had cheered and interacts with her at later live. C:P1–40,133–147. Reciprocal `REL-0563`; no explicit reconciliation scene or formal council outcome. |
+
+`T7S_B0145_CLOSE-20260926`: eight actor-local knowledge records, five directional relationship pairs and existing-actor/unit annotations; no new stable identity or institution route.

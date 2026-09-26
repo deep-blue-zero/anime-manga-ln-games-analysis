@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.45"
+version: "11.46"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 169 complete i-n-g primary documents / T7S_B0080–T7S_B0144; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 172 complete i-n-g primary documents / T7S_B0080–T7S_B0145; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 579`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 641`; `last_closed_block = T7S_B0144`. The admitted horizon contains 404 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 169 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 587`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 654`; `last_closed_block = T7S_B0145`. The admitted horizon contains 407 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 172 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2017,3 +2017,36 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.46. [B0144](../02%20Readings/
 | `EDGE-0648` | `ONE_TIME_STAGE_TO_CONTINUING_INTENTION` | Haru invokes today/tomorrow/day-after in `EV-B0144-008`; no verified future calendar. |
 
 `T7S_B0144_CLOSE-20260926`: eight chapter events and thirteen bounded edges; no precognition mechanism, completed cleanup, purchase receipt, performed-live verdict or future schedule.
+
+## B0145 Musubi's search, estranged perfection and offered shared work
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.47. [B0145](../02%20Readings/T7S_B0145_DEEP_READING.md) owns the A/B/C locator key. This i-n-g3 chapter follows B0144 in native menu/source order, not by a proven fictional elapsed interval. C cuts before Musubi's election answer and before the later live's announced first song.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0145-001` | Musubi writes `探求` and recalls Player's park invitation to make her own story, including option not to be an idol. | A:P1–56; `KNOW-0355`. Own-story license is not instruction to drop every other role. |
+| `EV-B0145-002` | Musubi studies past idols, triples lessons, runs mornings and reports submitting council-president resignation; declines experimental brace. | A:P53–93; `KNOW-0356`. Submission is shown by her report; acceptance/effective exit not. |
+| `EV-B0145-003` | Susu persists at NI+CORA practice to stay alongside Musubi; Musubi prepares council handover/manual, seeks perfect live, and Susu falls asleep tired. | B:P1–61; `KNOW-0357`. Player reports rest/improved technique; no medical or audio audit, no shown documentary or brace use. |
+| `EV-B0145-004` | Musubi's first optimized live feels empty despite technique; spectators call her smile strange; Player reports two further unsuccessful lives. | B:P67–154; `KNOW-0358`. Performer/manager judgments and audience lines, not auditioned song quality. |
+| `EV-B0145-005` | No one applies by council election deadline; idol-club president challenges Musubi's resignation and condemns a polished stream lacking Musubi's own fan-directed address. | B:P159–185; C:P1–16; `KNOW-0359`. Critic's severe “third-rate” verdict is attributed, not adopted. |
+| `EV-B0145-006` | Managers say club president cheered at previous live; Musubi cannot recall individual audience faces and asks what idol she is; Coney gives no fixed answer. | C:P27–59; `KNOW-0360`. Her recalled gap is local, not proof of no fans or permanent incapacity. |
+| `EV-B0145-007` | Council girl publicly discloses Musubi's hidden effort/occasional illness and nominates her; students call for continuation, Musubi objects to untenable busyness, club president offers collective help and supports her ultimate wish. | C:P64–128; `KNOW-0361`. Speech cuts before answer/vote; labor offer not implemented. |
+| `EV-B0145-008` | School fans and club president join later live, Musubi tells them not to disrupt other patrons, Player notes livelier atmosphere, Coney says search continues. | C:P133–168; `KNOW-0362`. Social president continuation implied; formal result and song after P167 unshown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0649` | `PLAYER_OWN_STORY_TO_MUSUBI_SEARCH` | Park recollection in `EV-B0145-001` grounds chosen search, not a fixed identity answer. |
+| `EDGE-0650` | `SEARCH_TO_INTENSIFIED_TRAINING` | Musubi's research and practice in `EV-B0145-002` are self-directed, with exhaustion concern retained. |
+| `EDGE-0651` | `TRAINING_TO_COUNCIL_EXIT_PLAN` | Reported resignation/manual in `EV-B0145-002`–`003` free intended focus but not proven formal exit. |
+| `EDGE-0652` | `UNIT_SOLIDARITY_TO_SHARED_FATIGUE` | Susu stays in `EV-B0145-003` and sleeps; no generalized unit collapse. |
+| `EDGE-0653` | `PERFECTION_GOAL_TO_AUDIENCE_MISMATCH` | `EV-B0145-004` separates observed polish from connection; no universal causal law. |
+| `EDGE-0654` | `REPEATED_LIVE_GAP_TO_CRITIQUE` | Manager/Coney and club president articulate addressed-audience problem in `EV-B0145-004`–`005`. |
+| `EDGE-0655` | `FAN_PRESENCE_TO_SELF_KNOWLEDGE_GAP` | Club president's cheers had escaped Musubi's notice in `EV-B0145-006`; fans were present. |
+| `EDGE-0656` | `MANAGER_COUNSEL_TO_OPEN_SEARCH` | Coney refuses a ready-made definition in `EV-B0145-006`; later result is not closure. |
+| `EDGE-0657` | `COUNCIL_TESTIMONY_TO_VISIBLE_LABOR` | Girl's speech in `EV-B0145-007` makes effort/illness publicly legible, not a health plan. |
+| `EDGE-0658` | `BUSYNESS_OBJECTION_TO_COLLECTIVE_OFFER` | Students propose helping in `EV-B0145-007`, conditioned on Musubi's wish; execution unknown. |
+| `EDGE-0659` | `SCHOOL_PARTICIPATION_TO_LIVELIER_LIVE` | `EV-B0145-008` shows local change in crowd/performer exchange, not sound-quality certification. |
+| `EDGE-0660` | `CUT_ELECTION_TO_BOUNDED_CONTINUITY` | Later president address implies social continuation, while formal vote/term is absent from `EV-B0145-007`–`008`. |
+| `EDGE-0661` | `LIVELIER_LIVE_TO_UNFINISHED_SEARCH` | Coney explicitly extends identity search beyond `EV-B0145-008`. |
+
+`T7S_B0145_CLOSE-20260926`: eight chapter events and thirteen bounded edges; submitted resignation, offered help and improved represented response are distinct from formal office, implemented labor redistribution and heard song quality.

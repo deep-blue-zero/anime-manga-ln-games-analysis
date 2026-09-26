@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.45"
+version: "11.46"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 169 complete i-n-g primary documents / T7S_B0080–T7S_B0144; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 172 complete i-n-g primary documents / T7S_B0080–T7S_B0145; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 669`; `revisions = 42`; `predictions = 7`; `AV_reviews = 91`; `literary_findings = 669`. Claims are bounded to their stated B0001 through B0144 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 65 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 674`; `revisions = 42`; `predictions = 7`; `AV_reviews = 92`; `literary_findings = 674`. Claims are bounded to their stated B0001 through B0145 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 66 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2196,3 +2196,27 @@ Owner and A/B/C locator key: [B0144](../02%20Readings/T7S_B0144_DEEP_READING.md)
 - Outcome: `REVIEWED` for eleven selected static resources and all native page-state segmentation. One hundred ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and the scheduled live remain unauditioned/unshown and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0144_CLOSE-20260926`: four bounded claims and one AV review; no proven psychic power, itemized purchase, completed cleaning, show verdict, future schedule, specialist or monograph promotion.
+
+## B0145 self-authorship, fan address and the unclosed council decision
+
+Owner and A/B/C locator key: [B0145](../02%20Readings/T7S_B0145_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.47. Native `EPISODE.3.5-002` is admitted i-n-g3, not proof of a total elapsed interval from B0144.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0145-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | “Your story” permits Musubi's choice, but her first response turns autonomy into solitary perfection and council exit; later feedback restores relational attention without canceling her will. | A:P32–93; B:P32–41,93–154; C:P103–125. Not a mandate to stay president or train harder. |
+| `CL-B0145-002` | `BOUNDED_INFERENCE`; D1; high | Polished technique and empty represented reception coexist; Musubi's unremembered audience faces and club president's critique locate a fan-address gap, not proved talentlessness. | B:P84–154,181–185; C:P1–49. Technical singing remains attributed/unheard; severe dismissal is one fan's judgment. |
+| `CL-B0145-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Council testimony makes hidden effort and occasional illness legible; schoolwide help offers a different labor distribution but does not yet implement one or cure overload. | C:P70–125. Musubi voices inability to concentrate; choice explicitly reserved to her. |
+| `CL-B0145-004` | `BOUNDED_INFERENCE`; D1; high for cut/limit, moderate-high for social implication | Later live's president address strongly implies social continuation and the crowd exchange is livelier, but the speech cuts before Musubi's answer and no formal vote/term is shown. | C:P123–168. Neither definitive resignation nor certified re-election follows. |
+| `CL-B0145-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | The better live does not complete self-search: Coney explicitly says Musubi will keep learning about herself daily. | C:P52–59,148–168. The announced first song is not heard/reviewed. |
+
+### AV-0092 — Musubi's role/stage sprite states and unreviewed performance
+
+- Questions/claims: whether native states establish distinct rehearsal/school/live settings, individualized critic/council likenesses, performed-song quality, formal election completion or a health/workload cure; `CL-B0145-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for audio, institutional and future-work restrictions.
+- Selection: Musubi school `adv_chara_004_01_22`, training `004_06_22`, live `004_04_08`; Susu training `011_05_05`; Shizuka school `010_01_09`; Coney `002_03_01`; generic female role states `026_01`, `025_01`; Haru school `003_02_08`. All 450 native pages and sixty-five command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.47 binds nine media receipts.
+- Observed: Musubi's outfits visibly partition school/training/live; unnamed school-role drawings are generic and cannot be promoted to unique named portraits. Later audience exchange is staged text/sprite state, not heard music or a ballot.
+- Native occurrence: command-only A:P0,16,23–24,28–31,48–51,94; B:P0,20,56–59,63–66,69,80–83,89–92,102–103,107–108,115–117,121–122,126,142,155–158,185; C:P0,18–21,25–26,60–63,69,129–132,168. C:P167 announces the first song and C:P168 closes with command/voice state.
+- Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred twenty dialogue-associated voice pages plus BGM/SFX and performed music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0145_CLOSE-20260926`: five bounded claims and one AV review; no formal office certification, executed workload redistribution, clinical inference, completed identity, specialist or monograph promotion.
