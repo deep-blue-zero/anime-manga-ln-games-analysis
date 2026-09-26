@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -644,3 +644,7 @@ Veritas invites Sensei because Schale help may matter *if* the find proves dange
 ## V002 C002 E007 delta — triage after student-led containment
 
 Sensei's urgent wishes to stop Alice and have others help are `心の声`, not audible tactical commands; Maki interrupts charging and C&C arrives independently by Nel's stated loud-noise explanation. The five singleton choices call to Alice, thank Nel/team, check the others and respond to Midori/Yuzu. This is a care/triage pattern under unknown cause, not a medical all-clear, sole rescue or claim to know E001's covert threat. No readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E008 delta — care without causal omniscience
+
+Sensei brings/helps bring Momoi to Schale's infirmary by narration, checks a console that will not power on, and is troubled by unknown Alice/device links. Midori/Yuzu ask what to do about Alice's seclusion; Sensei's choices reassure them and volunteer to speak with her. The `u:0040-0044` permission/entry-looking lines are `心の声`, so no secure audible permission script should be inferred. Alice voices guilt/amnesia, and Sensei urges calm, but no technical or emotional cure occurs before Rio arrives. Eleven choices are singleton; no readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

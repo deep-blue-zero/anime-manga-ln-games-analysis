@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
 supersedes: []
@@ -1356,3 +1356,13 @@ No new claim ID, side-source backfill, model or frozen prediction. Alice's recog
 - **BA-C019: PRESSURE-TEST** — the saved room is materially damaged and Alice's place imperiled; creative/social/institutional belonging is real yet not a substitute for device safety.
 
 No new claim ID, model, prediction or side-source admission. Momoi condition, Alice state, offsite robots and E001 actors' links stay OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E008 claim transitions — injury known, agency and “truth” not
+
+- **BA-C001–C004, C007, C010–C011: PRESSURE-TEST** — Momoi's two-day unconsciousness makes harm concrete; Alice's amnesia and Rio's pending classification make agency/means questions more urgent, not settled.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei supplies care and tries to inspect a console, but no origin/trigger or immediate cure; other evidence holders remain distinct.
+- **BA-C008: BOUNDED** — eleven singleton choices and inward permission/entry-looking lines cannot be collapsed into a full audible adult script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki revision.
+- **BA-C019: PRESSURE-TEST** — creative belonging and provisional institutional standing do not prevent medical harm or risk classification; earlier bonds remain historically real, and safety is another non-substitutable test.
+
+No new claim ID, model, frozen prediction or side-source admission. Rio's promised disclosure, Momoi prognosis and console/`<Key>`/`Divi:Sion` mechanism remain OPEN; contextual backfill **DEFER**.

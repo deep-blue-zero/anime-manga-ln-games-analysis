@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -505,3 +505,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **NEL/C&C ↔ ALICE/CLUB:** Nel's arrival interrupts the danger, and C&C's team acts to contain it. This adds a protective crisis role to E005's arcade bond, without proving a fixed friendship contract or full Alice recovery.
 - **SENSEI ↔ GROUP:** Sensei thanks C&C and checks Veritas/club members. The care path is distributed across Maki's interference, C&C's intervention and student calls, not a solo adult command.
 - **RIO/HIMARI ↔ INCIDENT:** neither appears or is reported in the room. Audience E001 knowledge does not establish that C&C came under their Alice-test order.
+
+## V002 C002 E008 relationship delta — injury and self-isolation
+
+- **MOMOI ↔ MIDORI/CLUB:** Momoi's two-day unconsciousness explains Midori/Yuzu's acute concern; the source does not show a recovery or definitive prognosis.
+- **ALICE ↔ MOMOI/CLUB:** Alice secludes herself, refuses contact and calls Momoi's injury her fault despite amnesia for her actions. This is a real relational rupture and guilty appraisal, not proof she knowingly chose the protocol attack. Midori/Yuzu keep reaching out.
+- **SENSEI ↔ ALICE:** Sensei volunteers to handle a conversation and asks Alice about seclusion/food through printed choices. Inwardly labeled entry lines cannot be laundered into secure spoken permission; their care does not immediately resolve guilt.
+- **RIO ↔ CLUB/SENSEI:** Rio enters as president and asserts she has “truth” to share. Her E001 research/containment position is audience background, not yet a disclosed shared account in this room. Himari remains absent.

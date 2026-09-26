@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -654,3 +654,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Earlier sparring relationship turns protective:** Nel, just seen pulling Alice into arcade play, now halts the crisis with C&C. Their bond is neither simple enmity nor automatic safety; method/state after intervention remain uncertain.
 - **Shared room as material home:** C001's temporarily saved clubroom is now wrecked by Nel's account. Institutional reprieve and physical security are non-substitutable, sharpening BA-C019 without negating earlier belonging.
 - **Cliffhanger redirects care:** Kotama/Maki can answer, then Midori/Yuzu name Momoi before the card. The narrative withholds her condition; suspense cannot be translated into a diagnosis.
+
+## V002 C002 E008 motif / callback delta — saved progress versus missing memory
+
+- **Unconscious sister and burned room:** E007's alarm becomes two-day unconsciousness at Schale while the clubroom fire persists as material rupture. C001's social/institutional home has not been made medically secure.
+- **Game-machine and `<Key>` echoes:** Midori's console-start report and Sensei's ruins memory call back to E017/E020 `<Key>`/`Divi:Sion`, but the source asks whether they connect and the console now fails to start. A motif is not a decoded system diagram.
+- **Save data without recall:** Alice uses her habitual game language for a terrifying body/memory split. Her self-blame expresses care for Momoi while not resolving whether she chose or controlled the attack.
+- **Rio's “truth” arrives into vulnerability:** the president names an anticipated concern just as Alice asks what to do. Her timing/claim exerts authority, but its substantive truth and ethical use await later source.

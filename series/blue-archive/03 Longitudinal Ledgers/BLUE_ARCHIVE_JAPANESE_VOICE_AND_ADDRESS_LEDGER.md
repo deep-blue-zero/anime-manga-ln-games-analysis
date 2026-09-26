@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -913,3 +913,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Kotama's `明確な攻撃` follows reported explosion; Nel's `こいつら、ここにも` suggests similar objects elsewhere but names no location. Karin's `作戦終了` is local completion, not a full network audit.
 - `お姉ちゃんが……` and Yuzu's `モモイ` are an emergency cue only. E008 is needed for any specific condition. Five Sensei choice groups are singleton; `心の声` at `u:0011-0012`/`u:0024-0025` is unheard.
 - **Quarantine:** `u:0013-0017` reverses Maki/Alice speakers around the disrupted charge; `u:0033-0038` rapid C&C lines are not cleanly attributable tactic-by-tactic. E006's Korean-script speaker anomaly remains separate and unresolved.
+
+## V002 C002 E008 delta — save-data analogy and “truth” as an announced claim
+
+- `まる二日` and `意識はまだ戻らない` are narrator condition/time statements, not prognosis. Hare's `原因だろう` about robot `接触` is hypothetical; Midori's `ゲーム機が急に起動した` is remembered observation.
+- `Divi:Sion System`/`あなたはAL-1Sですか？` appears as narrational system text; `<Key>` linkage is a question. `電源すら入らなかった` is Sensei's attempted check result; `中身自体が空っぽになってしまったかのように` is simile, not storage forensic evidence.
+- Alice's unknown `セーブデータ`, no-tutorial and repeated-play analogies describe body response without conscious memory. `何も、思い出せません` limits memory; `全部、アリスがやった` is guilty self-attribution, not complete causal proof.
+- Rio's `危惧していた通り`/`「真実」を教えにきた` are her framed assessment and promised disclosure. `u:0062` has unidentified speaker until later entrance/identification; E009 content must not be imported.
+- Sensei `心の声` at `u:0010`/`u:0017`/`u:0022`/`u:0026`/`u:0032`/`u:0040-0044`/`u:0063` remains inward despite apparent dialogue/entry. Eleven choice groups are singleton.

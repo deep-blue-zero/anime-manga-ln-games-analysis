@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:007; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -588,3 +588,13 @@ No new tracked subject/readiness promotion: 21 `PARTIAL_MODEL` / 21 `UNMODELED` 
 - **Sensei:** inwardly alarmed, thanks C&C and checks survivors aloud through singleton choices, then responds to the twins' alarm. Not the sole tactical rescuer.
 
 Readiness remains 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E008 delta — two-day injury, Alice's amnesia and Rio's entrance
+
+- **Momoi:** narration says she collapsed/lost consciousness during the incident, reached Schale's infirmary and has not regained consciousness after two full days. Diagnosis, cause detail and prognosis remain unshown.
+- **Alice:** remains in the clubroom despite repeated calls, according to Midori/Yuzu; Sensei choice reports no eating. She blames herself for Momoi's injury, says she cannot remember what she did and compares bodily response to an unknown `セーブデータ`. Her guilt is direct, literal save-file mechanism/voluntary control unproven.
+- **Hare/Midori/Sensei:** Hare hypothesizes robot contact caused Alice's change; Midori recalls Momoi's game console activating at the same time; Sensei recalls ruins origin and cannot power it on now. These leads do not establish a trigger or `Divi:Sion`/`<Key>` link.
+- **Rio:** appears and names herself, says her fear has materialized, promises “truth” but supplies no explanation before cutoff. E001's weapon interpretation remains her earlier thesis.
+- **Yuzu/Sensei:** Yuzu/Midori worry about Alice; Sensei offers to speak with her, but several apparent entry lines are `心の声` and no emotional resolution is shown.
+
+Totals/readiness unchanged: 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
