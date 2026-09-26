@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
 supersedes: []
@@ -1326,3 +1326,13 @@ No new claim ID, model, frozen prediction or side-source admission. Rio/Himari r
 - **BA-C019: LIMITED LOCAL TEST** — chance encounters may supply creative experience but no new game idea/product is evidenced. An imagined future party is not durable belonging or institutional change.
 
 No new claim ID, model, prediction or side-source admission; E001 and E003 unresolved fronts persist. Contextual backfill **DEFER**.
+
+## V002 C002 E005 claim transitions — welcome, tactic transfer and a failed quest
+
+- **BA-C001–C004, C007, C010–C011: LOCAL TEST** — Alice is welcomed across peers/engineers and recasts Nel as an ally, while tactic use and repeated-play pressure impose social costs. Akane enforces a stated agreement. No pure-harm or pure-reconciliation verdict.
+- **BA-C005–C006: PRESERVE REJECTED** — the day is authored by many student encounters and Alice's choices, not a single adult rescue. Sensei agrees to accompany her again, not a completed game idea.
+- **BA-C008: CHOICE/THOUGHT BOUNDED** — two alternate choice groups and inward appraisals cannot be combined as audible response evidence.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki mechanism is revised.
+- **BA-C019: NARROW / NEGATIVE TEST** — public affection and a valued day do not deliver the requested creative idea. Alice explicitly says Yuzu's task made no progress, limiting any easy “social inspiration guarantees product” reading.
+
+No new claim ID, side-source admission, model or frozen prediction. E001 covert threat, E003 contest result and Akane's mission contents remain open; contextual backfill **DEFER**.

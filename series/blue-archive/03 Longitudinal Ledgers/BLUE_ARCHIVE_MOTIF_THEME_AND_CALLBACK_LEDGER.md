@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -633,3 +633,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Costume versus identity:** Alice mistakes student uniforms for a schoolgirl job change; Karin corrects her. Asuna's playful quest adoption coexists with a real reported C&C inquiry and Karin's secrecy limit.
 - **Party expansion and lingering fear:** Alice invites Asuna/Karin for a next adventure but retreats on learning Nel may seek her. E020's post-fight fear remains a specific relationship state, not globally cured by ordinary play.
 - **Secret and uncertain knowledge:** E001's covert Alice classification is still unknown to this group. E004's different Gehenna secret is quickly disclosed by Asuna and produces uncertain field answers, foregrounding how little a “secret task” guarantees knowledge.
+
+## V002 C002 E005 motif / callback delta — social reward is not quest completion
+
+- **“Quest” gifts and ordinary belonging:** unnamed students encourage Alice and offer sweets, while engineers affirm her care for the `光の剣`. These are concrete social rewards for an ordinary day, not progress on the intended game-idea quest.
+- **The trap move travels without its inhibitor:** Alice cites Yuzu's E002 `ハメ技` as permitted game content against Nel, who protests. Learning a tactic and learning its friend-play ethics are different processes.
+- **Enemy to ally, not no-friction:** Alice says Nel is now a game companion, but maid clothing still bothers her and repeated matches consume time/food. Akane's one-hour limit contains the arcade loop; reconciliation is plural and conditional.
+- **Light adventure and dark interruption:** Alice closes a fun but unsuccessful inspiration day with a heroic future, then narration withdraws the assumption ordinary days will simply continue. The foreboding is audience-facing, not proof Alice knows the E001 threat.

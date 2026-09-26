@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -891,3 +891,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Asuna's `最近のゲヘナの情勢` account is secondhand Rio-task language. `秘密` is Karin's boundary; Kirara/Erika's leader names are uncertain replies. `ご主人様` is Asuna's address, not a literal authority relation.
 - Karin's `あまり見ないでくれ` is a direct attention boundary; Sensei `choice:022` apologizes and `u:0095` admiration is `心の声`. Alice's `チビメイド様` names her Nel fear; “Nel likes Alice” remains Karin's appraisal.
 - **Quarantine:** Sumire/Alice role flips `u:0024-0026`, `u:0041-0051`; Asuna/Karin/Alice flips `u:0080-0082`, `u:0096-0117`. Sensei interior `u:0015`, `u:0017`, `u:0049`, `u:0095`, `u:0126`, `u:0129` is unheard. Choice groups `008`/`013` have alternate tones; the other twenty-one are singleton.
+
+## V002 C002 E005 delta — explicit enemy/ally correction and game idiom limits
+
+- Alice's `光の剣` as `宝物`/`勇者の象徴` is her valuation; Utaha's condition question and “fine” reply are not mechanical certification. Generic peers' encouragement and “quest reward” sweets are social play, not proof of completed task.
+- `ハメ技もゲーム要素` is Alice's citation of the permissive part of Yuzu's E002 account; Yuzu's friend-play inhibitor is absent from Alice's citation. Nel's `セコい` is a complaint, not adjudication.
+- `50戦50勝` is Alice's reported game history; `ゲームは1日1時間` is Akane's reminder of an agreement. Neither is an independently displayed audit of fifty games or exact session duration.
+- `一時的に敵` → `今は味方`/`仲間` is Alice's direct reclassification; `弱くなっている確率が高い` is a Momoi-attributed, unverified power inference. `メイド服が少し苦手` and `ユズのクエストを進める事はできませんでした` are explicit limiting statements.
+- **Attribution quarantine:** plaza scene `u:0007-0015` prints Alice across other-student speech; arcade `u:0004-0012`, `u:0017-0031` and `u:0060-0068` flip Alice/Nel person-reference; `u:0073` appears Akane-like under Alice. Sensei scene-2 `u:0017`/`u:0036` and scene-3 `u:0014`/`u:0046`/`u:0069`/`u:0088` are `心の声`. Scene-1 `choice:001` and scene-3 `choice:008` have alternate phrasings; two other choices have malformed leading quotes.

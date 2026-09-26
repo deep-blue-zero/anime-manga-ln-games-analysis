@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -484,3 +484,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ALICE ↔ ASUNA/KARIN/NEL:** Alice welcomes the two C&C students into a future adventure while remaining frightened by Karin's report that Nel seeks her. Her invitation is not an actual party or proof of reconciliation with Nel; Karin's “fond of Alice” is appraisal.
 - **SENSEI ↔ KARIN:** Sensei's compliment elicits Karin's discomfort at being looked at, followed by an apology. The later compliment is internal and unheard; no romance inference follows.
 - **ASUNA ↔ KARIN/RIO:** Asuna discloses a reported Rio task despite Karin's secrecy reminder. The Gehenna inquiry's outcome and their knowledge of E001's covert operation remain unknown.
+
+## V002 C002 E005 relationship delta — Nel reclassified without erasing friction
+
+- **ALICE ↔ MILLENNIUM PEERS/ENGINEERS:** anonymous students recognize and encourage Alice, including snack-gift play; engineers accept her affection for the railgun. The narrated social welcome is plural but not an individually mapped bond or evidence of finished creative output.
+- **ALICE ↔ NEL:** a reported repeated arcade relationship is now visible. Alice says the former enemy is now an ally/game companion; Nel wants rematches and coaching. Their play/understanding is real, but Alice fears losing her Sensei day and complains of hunger/time, while Nel insists on more play. Residual maid-outfit aversion persists.
+- **NEL ↔ AKANE:** Akane enforces an agreed game-time limit and recalls a mission notice, limiting Nel's recreational persistence. This does not identify the mission or prove every earlier match was forced.
+- **ALICE ↔ SENSEI:** Alice says their adventure was fun, admits the idea quest failed and asks for future adventures; the sole reply agrees. Sensei's `u:0088` thought cannot be treated as spoken before Alice's reaction.

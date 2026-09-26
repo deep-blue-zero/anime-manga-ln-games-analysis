@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -632,3 +632,7 @@ The twins ask Sensei to choose between spectacle and feasibility, but Sensei's `
 ## V002 C002 E004 delta — companion, confidential hearer and apology
 
 Sensei follows Alice's initiative from campus to outskirts, meets Sumire, and hears Asuna's Rio-task account. The twenty-three choice groups include two two-option groups (`008`/`013`); six `心の声` units are separate, unspoken. Sensei compliments Karin's uniform, Karin says not to stare, and the next printed choice apologizes; the further positive appraisal is inward and not a repeated audible pressure. Sensei's worry about C&C's shaky questioning is also inward, not mission direction. No evidence they know E001's Rio/Himari plan, author Gehenna intelligence or produce Alice's game idea. No readiness promotion, standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E005 delta — shared day without task success
+
+Sensei may introduce themself as Schale teacher or mascot in scene-1 `choice:001`, not both. They witness Alice's public welcome and railgun affection; the ceiling-damage line is `心の声` despite an apparent response. At Nel's arcade pull, a printed choice objects that they are busy on the adventure, but play continues until Akane intervenes. After dusk Sensei's alternative question phrasings elicit Alice's nuanced Nel account. `u:0088` says the day was fun but is labeled inward, so it is not secure spoken reassurance; the next choice asks Alice's view, and she says the idea quest failed but asks for future companionship. The sole reply agrees. No design result or E001 covert knowledge is attributed to Sensei; no readiness promotion/model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

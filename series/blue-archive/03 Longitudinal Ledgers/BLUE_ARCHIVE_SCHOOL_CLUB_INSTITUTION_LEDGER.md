@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -476,3 +476,9 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Rio/Gehenna:** Asuna says Rio requested inquiry into recent Gehenna developments; Karin treats it as secret per Akane. This is participant report/correction, not a shown written assignment or proof of a link to E001's Alice/Himari operation.
 - **Field questioning:** Asuna/Karin in ordinary student uniforms approach Kirara/Erika and ask about current Pandemonium leadership under prospective-transfer cover. Responses are confused/uncertain, so no verified leadership finding or successful intelligence return follows.
 - **Club/quest:** Alice/Sensei's idea search has reached Millennium outskirts but yields no completed design. A future Asuna/Karin party invitation is not a C&C membership change. Nel's interest/search is reported without a shown order, encounter or outcome.
+
+## V002 C002 E005 institutional delta — equipment affection and C&C duty limit
+
+- **Engineering:** Kotori/Utaha/Hibiki are replenishing equipment. Alice says her railgun/`光の剣` is working and precious; no inspection, repairs or certified safe operating condition are shown. Sensei's ceiling-damage line is printed inward, and the engineers' sacrifice remark is situated, not a blanket institutional permission.
+- **C&C duty:** Akane reminds Nel of a chairperson's mission notice and an agreed one-hour game limit, ending further arcade play. The notice's content, elapsed play time and relation to E004's Gehenna inquiry are unverified.
+- **Club creative work:** the publicly welcomed “adventure” ends without progress on Yuzu's idea quest. Sweet “rewards,” social affection and arcade bonding cannot be counted as a new game design, prize entry or council standing change.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:004; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -558,3 +558,13 @@ Readiness unchanged: 21 `PARTIAL_MODEL` / 18 `UNMODELED` across 39, none operati
 - **Kirara/Erika:** named Gehenna respondents give uncertain/confused leadership replies in one brief exchange. They enter coverage as `UNMODELED`, not sources for a verified Pandemonium roster or personal mechanisms.
 
 Totals **21 `PARTIAL_MODEL` / 21 `UNMODELED`** across 42, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E005 delta — public belonging and a constrained arcade bond
+
+- **Alice:** recognized/encouraged by unnamed peers, values the engineers' `光の剣` as treasure, and plays/instructs Nel. She uses Yuzu's `ハメ技` tactic but does not repeat Yuzu's friend-play restraint; Nel complains. Alice says she no longer fears Nel as an ally while admitting residual maid-outfit aversion and a desire to preserve her Sensei day. She explicitly did not advance Yuzu's idea quest.
+- **Nel:** seeks Alice for a game rematch, loses, persists, asks for combo instruction and wants play until she wins. Alice's fifty-match/fifty-win history is reported, not audited. Narrated mutual understanding coexists with Alice's hunger/time concern and Akane's interruption.
+- **Akane:** cites an agreed one-hour game limit and a forthcoming chairperson's mission notice, stopping Nel's continued play. Mission purpose and exact session duration are unshown.
+- **Sensei:** accompanies public/engineering/arcade encounters, voices a time objection by choice and agrees to Alice's future-adventure request. Several positive appraisals are internal thoughts and cannot be treated as audible reassurance.
+- **Kotori/Utaha/Hibiki:** meet Alice while replenishing equipment; ask railgun condition and hear her attachment, without inspection or new safety certification. Generic student supporters remain anonymous, not new tracked character subjects.
+
+No new named tracked subject or readiness promotion: 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
