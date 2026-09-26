@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.0"
+version: "2.60"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-09-24
+last_updated: 2026-09-26
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche is closed: `T7S_B0080`–`T7S_B0099`, twenty complete native i-n-g chapters and forty episode records. Each chapter has a canonical targeted-case reading, text-and-static review, coverage reconciliation, and cumulative state handoff. The next prescribed but unopened case is layer `300720`, **ラン・サヲリ・ラン**, under 夜舞サヲリ / `NM-ING-200330`, episodes `202003101` and `202003102`.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 60/60 blocks; i-n-g coverage is 214/280 episodes across 80 chapters. The sixty reading units are closed; final run integration and publication audit are still required. Chapter 301320 remains outside this authorization.
 
 ## Closed first i-n-g tranche
 
@@ -75,3 +75,68 @@ The first mandated tranche is closed: `T7S_B0080`–`T7S_B0099`, twenty complete
 - The 86 unique Main transcript attachments are already represented by 87 closed Main occurrences and are not portfolio inputs a second time.
 - Tutorial, navigation, event-mechanics, blank, and duplicate-opening resources do not create new narrative events.
 - Performed audio remains unreviewed unless a later artifact explicitly records audition and locator evidence.
+
+## Continuous-run closed cases
+
+| Block | Chapter | Episodes | Status |
+| --- | --- | --- | --- |
+| [T7S_B0100](T7S_B0100_DEEP_READING.md) | `300720` / 夜舞サヲリ / ラン・サヲリ・ラン | `202003101 / 202003102` | `COMPLETE_BOUNDED` |
+| [T7S_B0101](T7S_B0101_DEEP_READING.md) | `300730` / 有栖シラユキ / シラユキ・イン・ワンダーランド | `202003201 / 202003202` | `COMPLETE_BOUNDED` |
+| [T7S_B0102](T7S_B0102_DEEP_READING.md) | `300740` / 越前ムラサキ / グッドナイト・パープル | `202003301 / 202003302` | `COMPLETE_BOUNDED` |
+| [T7S_B0103](T7S_B0103_DEEP_READING.md) | `300750` / 玉坂マコト / ナイトメア・オン・セブンスストリート | `202003401 / 202003402` | `COMPLETE_BOUNDED` |
+| [T7S_B0104](T7S_B0104_DEEP_READING.md) | `300760` / 桂木カヅミ / マイ・ノート、マイ・ラブ | `202003501 / 202003502` | `COMPLETE_BOUNDED` |
+| [T7S_B0105](T7S_B0105_DEEP_READING.md) | `300770` / シャオ・ヘイフォン / シャオ・ハイ・ヌーン | `202003601 / 202003602` | `COMPLETE_BOUNDED` |
+| [T7S_B0106](T7S_B0106_DEEP_READING.md) | `300780` / 春日部ハル / Tokyo-7th お掃除大作戦！ | `312200101 / 312200102 / 312200103` | `COMPLETE_BOUNDED` |
+| [T7S_B0107](T7S_B0107_DEEP_READING.md) | `300790` / 天堂寺ムスビ / ワン・ステップ・フォワード | `312200201 / 312200202 / 312200203` | `COMPLETE_BOUNDED` |
+| [T7S_B0108](T7S_B0108_DEEP_READING.md) | `300800` / 角森ロナ / ウィッシュ・ユー・アー・ヒア | `312200301 / 312200302 / 312200303` | `COMPLETE_BOUNDED` |
+| [T7S_B0109](T7S_B0109_DEEP_READING.md) | `300810` / 野ノ原ヒメ / きっと同じさ | `312200401 / 312200402 / 312200403` | `COMPLETE_BOUNDED` |
+| [T7S_B0110](T7S_B0110_DEEP_READING.md) | `300820` / 芹沢モモカ / 完全密着！次世代アイドル・モモカ | `312200501 / 312200502 / 312200503` | `COMPLETE_BOUNDED` |
+| [T7S_B0111](T7S_B0111_DEEP_READING.md) | `300830` / 臼田スミレ / アタシの特別なもの | `312200601 / 312200602 / 312200603` | `COMPLETE_BOUNDED` |
+| [T7S_B0112](T7S_B0112_DEEP_READING.md) | `300840` / 神城スイ / カ・ラ・ダが資本ッ！！ | `312200701 / 312200702 / 312200703` | `COMPLETE_BOUNDED` |
+| [T7S_B0113](T7S_B0113_DEEP_READING.md) | `300850` / 久遠寺シズカ / シズカ、奮闘 | `312200801 / 312200802 / 312200803` | `COMPLETE_BOUNDED` |
+| [T7S_B0114](T7S_B0114_DEEP_READING.md) | `300860` / アレサンドラ・スース / スースの勉強合宿！！ | `312200901 / 312200902 / 312200903` | `COMPLETE_BOUNDED` |
+| [T7S_B0115](T7S_B0115_DEEP_READING.md) | `300870` / 晴海サワラ / 残念☆女王 | `312201001 / 312201002 / 312201003` | `COMPLETE_BOUNDED` |
+| [T7S_B0116](T7S_B0116_DEEP_READING.md) | `300880` / 晴海カジカ / 2034年宇宙の旅？？ | `312201101 / 312201102 / 312201103` | `COMPLETE_BOUNDED` |
+| [T7S_B0117](T7S_B0117_DEEP_READING.md) | `300890` / 晴海シンジュ / プレイ・ライク・ア・チャイルド | `312201201 / 312201202 / 312201203` | `COMPLETE_BOUNDED` |
+| [T7S_B0118](T7S_B0118_DEEP_READING.md) | `300900` / 白鳥トモエ / 誰かのためのスワン・ソング | `312201301 / 312201302 / 312201303` | `COMPLETE_BOUNDED` |
+| [T7S_B0119](T7S_B0119_DEEP_READING.md) | `300910` / 榎並マドカ / 中学生アイドル日記 | `312201401 / 312201402 / 312201403` | `COMPLETE_BOUNDED` |
+| [T7S_B0120](T7S_B0120_DEEP_READING.md) | `300920` / 折笠アユム / ぽえっと大作戦！アユ、本場のメイドさんになるですぅ！ | `312201501 / 312201502 / 312201503` | `COMPLETE_BOUNDED` |
+| [T7S_B0121](T7S_B0121_DEEP_READING.md) | `300930` / 上杉・ウエバス・キョーコ / 怖がりプリンセス | `312201601 / 312201602 / 312201603` | `COMPLETE_BOUNDED` |
+| [T7S_B0122](T7S_B0122_DEEP_READING.md) | `300940` / 西園ホノカ / ナイショの話 | `312201701 / 312201702 / 312201703` | `COMPLETE_BOUNDED` |
+| [T7S_B0123](T7S_B0123_DEEP_READING.md) | `300950` / 荒木レナ / 放課後のラブソング | `312201801 / 312201802 / 312201803` | `COMPLETE_BOUNDED` |
+| [T7S_B0124](T7S_B0124_DEEP_READING.md) | `300960` / 二川ミミ / リライ・オン・ミー | `312201901 / 312201902 / 312201903` | `COMPLETE_BOUNDED` |
+| [T7S_B0125](T7S_B0125_DEEP_READING.md) | `300970` / 瀬戸ファーブ / ファーブ・ウィズアウト・ベース | `312202001 / 312202002 / 312202003` | `COMPLETE_BOUNDED` |
+| [T7S_B0126](T7S_B0126_DEEP_READING.md) | `300980` / 鳳チャチャ / 座椅子探偵 | `312202101 / 312202102 / 312202103` | `COMPLETE_BOUNDED` |
+| [T7S_B0127](T7S_B0127_DEEP_READING.md) | `300990` / 逢原ミウ / ディア・マイ・フレンド | `312202201 / 312202202 / 312202203` | `COMPLETE_BOUNDED` |
+| [T7S_B0128](T7S_B0128_DEEP_READING.md) | `301000` / 雲巻モナカ / 学校へ行こう！ | `312202301 / 312202302 / 312202303` | `COMPLETE_BOUNDED` |
+| [T7S_B0129](T7S_B0129_DEEP_READING.md) | `301010` / 逝橋エイ / ショウ・アップで巫女魔法 | `312202401 / 312202402 / 312202403` | `COMPLETE_BOUNDED` |
+| [T7S_B0130](T7S_B0130_DEEP_READING.md) | `301020` / 星柿マノン / 魔法少女に会いに行こう！ | `312202501 / 312202502 / 312202503` | `COMPLETE_BOUNDED` |
+| [T7S_B0131](T7S_B0131_DEEP_READING.md) | `301030` / 堺屋ユメノ / ユメノ・アムネシア | `312202601 / 312202602 / 312202603` | `COMPLETE_BOUNDED` |
+| [T7S_B0132](T7S_B0132_DEEP_READING.md) | `301040` / 浅見ミワコ / ミワコ・ロック・フェスティバル | `312202701 / 312202702 / 312202703` | `COMPLETE_BOUNDED` |
+| [T7S_B0133](T7S_B0133_DEEP_READING.md) | `301050` / ターシャ・ロマノフスキー / 迷走！憧れのジェーンシチナ | `312202801 / 312202802 / 312202803` | `COMPLETE_BOUNDED` |
+| [T7S_B0134](T7S_B0134_DEEP_READING.md) | `301060` / 川澄シサラ / スマイル・フォー・ユー | `312202901 / 312202902 / 312202903` | `COMPLETE_BOUNDED` |
+| [T7S_B0135](T7S_B0135_DEEP_READING.md) | `301070` / ジェダ・ダイヤモンド / ダンス・オン・ザ・ムーン | `312203001 / 312203002 / 312203003` | `COMPLETE_BOUNDED` |
+| [T7S_B0136](T7S_B0136_DEEP_READING.md) | `301080` / 三森マツリ / 作戦名『山猫はもうぐっすり』 | `312203101 / 312203102 / 312203103` | `COMPLETE_BOUNDED` |
+| [T7S_B0137](T7S_B0137_DEEP_READING.md) | `301090` / 前園リシュリ / ここはまだ道の途中 | `312203201 / 312203202 / 312203203` | `COMPLETE_BOUNDED` |
+| [T7S_B0138](T7S_B0138_DEEP_READING.md) | `301100` / 夜舞サヲリ / 笑顔の壁 | `312203301 / 312203302 / 312203303` | `COMPLETE_BOUNDED` |
+| [T7S_B0139](T7S_B0139_DEEP_READING.md) | `301110` / 有栖シラユキ / シラユキとザシキワラシ | `312203401 / 312203402 / 312203403` | `COMPLETE_BOUNDED` |
+| [T7S_B0140](T7S_B0140_DEEP_READING.md) | `301120` / 越前ムラサキ / フォーゲット・ロンリー・ノット | `312203501 / 312203502 / 312203503` | `COMPLETE_BOUNDED` |
+| [T7S_B0141](T7S_B0141_DEEP_READING.md) | `301130` / 玉坂マコト / ナイトメア・オン・ワールズエンド | `312203601 / 312203602 / 312203603` | `COMPLETE_BOUNDED` |
+| [T7S_B0142](T7S_B0142_DEEP_READING.md) | `301140` / 桂木カヅミ / 地に顔を出す | `312203701 / 312203702 / 312203703` | `COMPLETE_BOUNDED` |
+| [T7S_B0143](T7S_B0143_DEEP_READING.md) | `301150` / シャオ・ヘイフォン / シャオのセクシーアサシン修行 | `312203801 / 312203802 / 312203803` | `COMPLETE_BOUNDED` |
+| [T7S_B0144](T7S_B0144_DEEP_READING.md) | `301160` / 春日部ハル / 今日も明日も明後日も | `612200101 / 612200102 / 612200103` | `COMPLETE_BOUNDED` |
+| [T7S_B0145](T7S_B0145_DEEP_READING.md) | `301170` / 天堂寺ムスビ / 遠回りして、見つけたもの、大切なこと | `612200201 / 612200202 / 612200203` | `COMPLETE_BOUNDED` |
+| [T7S_B0146](T7S_B0146_DEEP_READING.md) | `301180` / 角森ロナ / 誰かの光 | `612200301 / 612200302 / 612200303` | `COMPLETE_BOUNDED` |
+| [T7S_B0147](T7S_B0147_DEEP_READING.md) | `301190` / 野ノ原ヒメ / おヒメ様の貴婦人修行 | `612200401 / 612200402 / 612200403` | `COMPLETE_BOUNDED` |
+| [T7S_B0148](T7S_B0148_DEEP_READING.md) | `301200` / 芹沢モモカ / モモカ・オブ・ストリート | `612200501 / 612200502 / 612200503` | `COMPLETE_BOUNDED` |
+| [T7S_B0149](T7S_B0149_DEEP_READING.md) | `301210` / 臼田スミレ / あなたの背中 | `612200601 / 612200602 / 612200603` | `COMPLETE_BOUNDED` |
+| [T7S_B0150](T7S_B0150_DEEP_READING.md) | `301220` / 神城スイ / ア・リトル・ボーイ・ミーツ・ガール | `612200701 / 612200702 / 612200703` | `COMPLETE_BOUNDED` |
+| [T7S_B0151](T7S_B0151_DEEP_READING.md) | `301230` / 久遠寺シズカ / わたしの名前 | `612200801 / 612200802 / 612200803` | `COMPLETE_BOUNDED` |
+| [T7S_B0152](T7S_B0152_DEEP_READING.md) | `301240` / アレサンドラ・スース / プリンシパル・プリンシプル | `612200901 / 612200902 / 612200903` | `COMPLETE_BOUNDED` |
+| [T7S_B0153](T7S_B0153_DEEP_READING.md) | `301250` / 晴海サワラ / 怪盗Sの華麗なる冒険 | `612201001 / 612201002 / 612201003` | `COMPLETE_BOUNDED` |
+| [T7S_B0154](T7S_B0154_DEEP_READING.md) | `301260` / 晴海カジカ / 私のファン | `612201101 / 612201102 / 612201103` | `COMPLETE_BOUNDED` |
+| [T7S_B0155](T7S_B0155_DEEP_READING.md) | `301270` / 晴海シンジュ / シンジュとふしぎなカエル | `612201201 / 612201202 / 612201203` | `COMPLETE_BOUNDED` |
+| [T7S_B0156](T7S_B0156_DEEP_READING.md) | `301280` / 白鳥トモエ / 貴方が歩くための私の歌 | `612201301 / 612201302 / 612201303` | `COMPLETE_BOUNDED` |
+| [T7S_B0157](T7S_B0157_DEEP_READING.md) | `301290` / 榎並マドカ / ナナスタ任侠伝 ～姉妹仁義～ | `612201401 / 612201402 / 612201403` | `COMPLETE_BOUNDED` |
+| [T7S_B0158](T7S_B0158_DEEP_READING.md) | `301300` / 折笠アユム / ぽえ☆ぽえ★パンデミック | `612201501 / 612201502 / 612201503` | `COMPLETE_BOUNDED` |
+| [T7S_B0159](T7S_B0159_DEEP_READING.md) | `301310` / 上杉・ウエバス・キョーコ / You are Today | `612201601 / 612201602 / 612201603` | `COMPLETE_BOUNDED` |

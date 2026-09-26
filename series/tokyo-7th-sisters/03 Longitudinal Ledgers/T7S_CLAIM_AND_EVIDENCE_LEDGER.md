@@ -4,29 +4,29 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.0"
+version: "11.60"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 40 complete i-n-g primary documents / T7S_B0080–T7S_B0099; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 214 complete i-n-g primary documents / T7S_B0080–T7S_B0159; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-24
+last_updated: 2026-09-26
 ---
 
 # Tokyo 7th Sisters claim and evidence ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first twenty complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 26 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 494`; `revisions = 42`; `predictions = 7`; `AV_reviews = 46`; `literary_findings = 494`. Claims are bounded to their stated B0001 through B0099 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first twenty complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 745`; `revisions = 42`; `predictions = 7`; `AV_reviews = 106`; `literary_findings = 745`. Claims are bounded to their stated B0001 through B0159 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 80 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1165,3 +1165,1395 @@ Predictions are frozen descriptions of their stated horizons. Future correctness
 `T7S_EPISODE_NANASUTA_CLOSE-20260913` adds 18 claims, `REV-0040`–`0042`, one bounded seventeen-composite/nine-background static-visual record, and one queued performed-voice/music record covering 989 references. It distinguishes public contradiction from proven commercial harm, affection from specific attention, competence from self-sufficiency, enabling interpretation from recipient authorship, shared reference from sameness, cooperation from natural compatibility, strategic appropriation from production control, sincere intent from successful reception, support from substitution, and repair from retroactive authorization. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness; no character monograph or specialist synthesis is promoted.
 
 `T7S_ING_B0080_B0099_CLOSE-20260924` adds 20 chapter-bounded claims and `AV-0046` across 40 episodes. It distinguishes recognition from treatment, support from substitution, beneficial result from authorized means, solidarity from a harmless premise, grief from resolved perfectionism, role from authority script, legacy from replication, concern from verified knowledge, praise from generic approval, charm from accountability, repair from closure, instruction from replacement, innocent reciprocity from imposed sexual meaning, opportunity from allocation, connection from consent, ambition from prestige maximization, activation from structural rescue, and repair from restoration. No monograph or performed-audio claim is promoted.
+
+## B0100 claims and presentation review
+
+The owner is [B0100](../02%20Readings/T7S_B0100_DEEP_READING.md); its A/B key supplies exact scripts and zero-based page locators under `c20260909-r484` / `T7S_GAME_OFFLINE_JA_R484`. These claims admit only this chapter; comparison to B0041 is retrospective, not a chronology edge.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0100-001` | `THEMATIC_INTERPRETATION`; D1; high within chapter | Delayed arrival becomes accidental audience formation, while reciprocal desire to share the stage gives the journey its destination. | `EV-B0100-001`–`003`; A:P21–57; B:P1–7,37–46. Good-deeds-rewarded is a useful rival but overstates intention in the thief/cat encounters; discovery mechanism and durable fandom remain unknown. |
+| `CL-B0100-002` | `BOUNDED_INFERENCE`; D1; high | Saori's anticipated rejection is contradicted by the sisters' represented inclusion wish, but desired presence does not establish adequate protection. | `KNOW-0117`; `REL-0259`–`0260`; A:P48–57; B:P1–12,32–46. Care is not denied; clinical fitness and changed procedure are unproved. |
+| `CL-B0100-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | The ambulance's conversion from accident response to entrance spectacle preserves comic pleasure and bodily cost simultaneously. | B:P23–46; `/Item` at B:P24; `AV-0047`. A purely punitive account loses community joy; a resilience-only account suppresses hospital refusal and unverified recovery. No acoustic or runtime inference. |
+
+### AV-0047 — Saori variants and ambulance identification
+
+- Question/claims: distinguish static injury-associated design and the actual object from inferred medical state or performed spectacle; `CL-B0100-002`–`003`.
+- Priority/modality: `AV-B` selected static identity check; `AV-D` for text-supported causal and knowledge findings.
+- Selection/context: `adv_chara_144_01_01`, `_02`, `_03` in the complete chapter; the base presentation is already present at A:P13. `adv_obj_0069` is invoked at B:P24 `/Item`. All 107 native pages and 17 command-only states were reviewed.
+- Reviewer/tool/date: local analytical execution, hash-resolved native-offset compositing and direct image inspection, 2026-09-25. The source-lock receipt binds body/face hashes and offsets.
+- Observed: orange hair; white head wrap and facial dressings; white blouse, blue checked collar/skirt and red ribbon; unchanged raised two-finger hand poses with three face configurations. Object is a white/red ambulance illustration with street inset.
+- Interpretation/limit: no progressively updated wound map, clinical diagnosis, gesture timing, vehicle motion or crash mechanism follows from those assets. Native fades/shakes/sound references establish script states, not measured runtime.
+- Outcome: `STATIC_QUESTION_RESOLVED`; no dependent static claim withheld. All 54 voice-reference pages and BGM/SFX remain unauditioned. Performed voice, singing and timing claims are withheld; a later monograph still requires actual listening under the governing protocol.
+- Claim operation: admit the three bounded claims above without silently revising earlier formulations or frozen predictions. No new revision ID is required; no specialist promotion.
+
+`T7S_B0100_CLOSE-20260925`: three claims and one AV review added; 42 revisions and seven frozen predictions preserved unchanged.
+
+## B0101 claims and presentation review
+
+Owner and A/B locator key: [B0101](../02%20Readings/T7S_B0101_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.3. Earlier Main comparisons are retrospective and create no chronology edge or revision to a frozen prediction.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0101-001` | `BOUNDED_INFERENCE`; D1; high | Reciprocal enjoyment corrects Shirayuki's assumption that needing play makes her a burden, while her love of card soldiers revises the Player's status-based reading of his role. | A:P19–41; B:P7–9,16–30,37–41; `KNOW-0119`–`0120`. One-way indulgence is a partial rival, defeated as a total account by Manon's reciprocity and Sui's enthusiasm; unlimited future consent is not inferred. |
+| `CL-B0101-002` | `THEMATIC_INTERPRETATION`; D1; high within chapter | Received story, private refuge and shared imaginative hospitality coexist; adulthood need not mean abandoning relational coping. | B:P25–36,42–56; `REL-0261`–`0264`; `THREAD-0044`. A duty-to-entertain interpretation fits the Player's broad idol ideal but misses the retained enjoyment of Shirayuki herself; neither a cure nor a completed trip follows. |
+| `CL-B0101-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Identity leaking through theatrical roles makes shared play recognizable as companionship rather than failed impersonation; final ordinary disorder limits a solemn idol-country doctrine. | A:P8–33; B:P1–9,38–56; `AV-0048`. This is a dialogue/native-order argument, not an unheard vocal-timing or runtime-performance claim. |
+
+### AV-0048 — play roles versus static character presentation
+
+- Questions/claims: whether spoken knight/cat/dormouse roles are literal visual transformations; whether Shirayuki's selected faces establish a permanent recovered state. `CL-B0101-001`–`003`.
+- Priority/modality: `AV-B` static identity and contrast check; `AV-D` for source-text coping, disclosure and reciprocal enjoyment.
+- Selection: Shirayuki `adv_chara_148_01_01`, `_02`, `_03`; Sui `adv_chara_009_03_02`; Manon `adv_chara_132_01_01`; Susu `adv_chara_011_01_06`. Full 102-page context and seven command-only pages reviewed.
+- Reviewer/tool/date: local execution, source-hash/native-offset compositing and direct image inspection, 2026-09-25; exact media bindings in source-lock 12.3.
+- Observed: Shirayuki's golden hair, dotted bow, blue/white dress and large rabbit-like toy persist across all three faces. Sui wears a sailor-style shirt/skirt without visible armor or sword; Manon retains a wand-like prop and school bag rather than a cat body; Susu's selected face is smiling and closed-eyed. The text, not closed eyes alone, establishes sleep.
+- Native occurrence: Shirayuki `_02` at B:P16,22–23,29 and `_03` at B:P26,55–56. Reuse during memory prevents `_03` from being uniquely a recovery marker. B:P3,40,52 shake fields and background/BGM changes remain native state, not proven runtime timing or acoustic affect.
+- Outcome: `REVIEWED` static distinction; no literal costume transformation, actual sword action or permanent cure is inferred. Seventy-six dialogue-associated voice pages plus title cues, BGM and SFX remain unreviewed; performed-voice/music/timing claims are `BOUND_BY_CLAIM_RESTRICTION`. Later mature-character review still requires actual listening.
+
+`T7S_B0101_CLOSE-20260925`: three chapter-bounded claims and one AV review added; no revision ID, prediction rewrite, monograph or specialist promotion.
+
+## B0102 claims and presentation review
+
+Owner and A/B locator key: [B0102](../02%20Readings/T7S_B0102_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.4. B0087 is a retrospective thematic comparison only.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0102-001` | `BOUNDED_INFERENCE`; D1; high | Family-bar labor and collective rehearsal both impose real demands; renewed motivation produces one witnessed joint practice but leaves staffing and rest unresolved. | A:P10–34; B:P42–50; `THREAD-0045`. A simple laziness account misses Murasaki's reported exhaustion; a total vindication of her withdrawal misses her declared choice to self-practice. One early arrival is not durable accommodation. |
+| `CL-B0102-002` | `THEMATIC_INTERPRETATION`; D1; high within chapter | Murasaki revises an imagined self-contained Hami model toward distinct song within relation, making Musubi's shared-step phrase her own rather than abandoning individuality. | A:P27–32; B:P19–37,42–49; `KNOW-0121`; `REL-0265`–`0268`. Celebrity pressure is a live rival, but Murasaki initiates the private song and chooses repeated practice. Coney's historical account remains attributed. |
+| `CL-B0102-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | The day/night work-site structure distributes knowledge unevenly: the group first sees lateness without the work, while the Player later sees change and Coney's lateness without their private encounter. | A:P10–19,38–44; B:P1–5,40–55; `KNOW-0123`; `AV-0049`. This is a text/native-order echo, not equivalence of Coney's one overslept morning with continuing family work or a claim about unheard comedic timing. |
+
+### AV-0049 — family work site and static presentations
+
+- Questions/claims: whether native presentation independently supports the bar setting and changed demeanor, and whether a piano performance or durable recovery can be inferred. `CL-B0102-001`–`003`.
+- Priority/modality: `AV-B` static image and native-state check; `AV-D` for narrative, labor and actor-local knowledge.
+- Selection: Murasaki `adv_chara_149_01_01`–`04`, Coney `adv_chara_002_07_02`, Musubi `adv_chara_004_01_12`, foreground object `adv_obj_0078`. All 103 page states and eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry hash resolution, native-offset face compositing and direct image inspection, 2026-09-25; source-lock 12.4 binds the media receipts.
+- Observed: Murasaki's four faces share asymmetrical yellow/purple hair, earrings, sleeveless top and dark shorts; selected Coney has pink hair/glasses, Musubi school uniform and stern face. The foreground sign says `EZ Bar`. No separate night costume, piano-playing image, or verified recording is supplied by these selected assets.
+- Native occurrence: A:P38 fade and P39 shift `bg_004` to `bg_055` with `adv_obj_0078`; B:P39 fade, P40 returns to `bg_004`, P41 gives a sound cue. A:P7,44 specify shake. Title/end cards account for the other command-only pages. These are native fields, not observed duration, gesture or sound.
+- Outcome: `REVIEWED` for selected static/context claims. Seventy-nine dialogue-associated voice pages plus title voice cues, all BGM/SFX and proposed singing/piano remain unreviewed; performed musical quality, emotion, timing and choreography are `BOUND_BY_CLAIM_RESTRICTION`. Later character release still needs representative listening.
+
+`T7S_B0102_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction rewrite, claim revision, specialist or monograph promotion.
+
+## B0103 claims and presentation review
+
+Owner and A/B locator key: [B0103](../02%20Readings/T7S_B0103_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.5. Dream onset remains unlocated; B0035/B0039 comparison is retrospective.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0103-001` | `BOUNDED_INFERENCE`; D1; high as presented, moderate ontic | The Player's represented boundary need is concrete, while the intended confrontation is deferred; care and devotion do not themselves authorize intrusion. | A:P3–57; `KNOW-0124`; `THREAD-0019`. The uncertain dream onset limits every exact incident as waking fact, and the threatening figure is self-labeled possibly hallucinated. Independent B0039 evidence confirms a broader boundary issue, not these precise instances. |
+| `CL-B0103-002` | `THEMATIC_INTERPRETATION`; D1; high within presentation | The nightmare reverses an unwanted monopoly of attention into the Player's fear of losing singular importance without proving a lasting reciprocal romance or canceling his earlier objections. | A:P50–57; B:P31–69; `KNOW-0125`; `REL-0271`–`0272`. The wake-up defeats a literal durable-confession reading; exact waking desire remains uncertain. |
+| `CL-B0103-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | The pre-wake peer scene offers nonexclusive recognition while Coney's permission joke exposes a manager/performer consent gap; its dream uncertainty prevents a new Nanasta policy or confirmed friendship from being inferred. | B:P5–39,54–69; `EV-B0103-002`; `UNIT-0002`. Actual peer care is a possible but unverified reading; literal reciprocal stalking and blanket consent are unsupported. |
+
+### AV-0050 — static cues and the unresolved dream onset
+
+- Questions/claims: whether native presentation marks the exact dream boundary, depicts an actual threat, or supports the group-solo and HoloCom-message claims. `CL-B0103-001`–`003`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for speaker- and dream-layer text.
+- Selection: Makoto `adv_chara_145_01_01`–`04`, Coney `adv_chara_002_04_05`, Haru `adv_chara_003_01_03`, Yumeno `adv_chara_133_01_04`, HoloCom foreground `adv_obj_0027`. All 130 native pages and twelve command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.5 binds media receipts.
+- Observed: Makoto's four faces share long dark hair, turquoise eyes, red ribbon and green cardigan. Selected Yumeno sprite includes illustrated hearts; this is not enacted touch. The HoloCom object is a phone-like image accompanying messages, not independent proof of their transmission or quantity outside the narrated frame.
+- Native occurrence: A:P26–28 white fade/flash around a recollection; A:P37–50 repeated changes/fades around later recollections and apparition; B:P40 clears rehearsal sprites, B:P41 uses black fade, B:P55 shows Coney at office after the call to wake; Makoto recurs against blank background B:P45,51,53,68. Neither these fields nor the title alone identify the dream's start.
+- Outcome: `REVIEWED` for selected static and native segmentation. Sixty-two dialogue-associated voice pages plus title cues, all BGM/SFX and the praised solo are unauditioned; performed-solo quality, vocal affect, sound timing and precise dream-cut timing are `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0103_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction or prior claim rewrite, new romance status, specialist or monograph promotion.
+
+## B0104 claims, access and static review
+
+Owner and A/B locator key: [B0104](../02%20Readings/T7S_B0104_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.6. B0039/B0078 are retrospective comparisons; no cross-chapter temporal order is added.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0104-001` | `BOUNDED_INFERENCE`; D1; high | Kazumi resists *required* intimacy as a performance method but authors one specific peer exchange by accepting dinner and choosing idol activity as a topic. | A:P14–34; B:P52–62; `REL-0273`–`0276`. The friend-minded fictional protagonist is not proof she secretly wanted every approach or that solo work was false. |
+| `CL-B0104-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for breach, moderate for reception | Sincere manuscript praise and a later welcome coexist with a real privacy violation; appreciation does not grant retrospective permission or ownership of Kazumi's writing. | A:P36–41; B:P1–43,52–56; `KNOW-0127`–`0128`. Rona's early protectiveness and Kazumi's eventual effort do not erase the explicit B:P32,37 objections. |
+| `CL-B0104-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Rona's move from treating fiction as direct knowledge of Kazumi to requesting more of the created story makes expression a negotiable relation rather than an autobiographical key. | B:P47–66; `THREAD-0046`; `KNOW-0129`. Kazumi still does not endorse Rona's earlier inference; a sequel, general readership and Player access are not shown. |
+
+### AV-0051 — static notebook-scene cues and glasses discrepancy
+
+- Questions/claims: whether sprite presentation depicts the Player's glasses-off compliment, literal manuscript content or the timing of Kazumi's exit; `CL-B0104-001`–`003`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for actor-spoken manuscript and access claims.
+- Selection: exact native-offset composites Kazumi `adv_chara_146_01_01`–`03`, Rona `adv_chara_005_01_09`, Musubi `adv_chara_004_01_05`. All 111 native pages and eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.6 binds media receipts.
+- Observed: the three selected Kazumi sprites retain glasses, dark-purple hair, gold hairpins, an orange skirt and a held book/notebook. A:P10 text calls her glasses-off look cool, but that look is not shown by these static sprites. Selected Rona has a worried closed-eye expression; Musubi a stern school-uniform pose. These stills do not depict literal story prose or consent.
+- Native occurrence: command-only A:P0–1,35 and B:P0,21,63,67–68 mark title/subtitle, fades/scene changes, SFX reference and end cards. B:P63 `AutoMoveFrame: 0` does not establish enacted elapsed time or heard sound.
+- Outcome: `REVIEWED` for selected static and native segmentation. Eighty-seven dialogue-associated voice pages plus title cues, all BGM/SFX and any performed quality are unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0104_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, inferred romance, specialist or monograph promotion.
+
+## B0105 claims and exact static review
+
+Owner and A/B locator key: [B0105](../02%20Readings/T7S_B0105_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.7. B0038/B0102 are retrospective context without a cross-chapter time edge.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0105-001` | `BOUNDED_INFERENCE`; D1; high | Xiao's pleasure in Kazumi's picture book challenges her own rule that training must be difficult, while her declared failure shows she has not yet revised the rule. | A:P0–20; `KNOW-0130`. Kazumi's “suited” language may be patronizing, but a deliberate trick is not evidenced. |
+| `CL-B0105-002` | `THEMATIC_INTERPRETATION`; D1; high for narrow success, moderate for growth implication | The guarded cream puff is not eaten by Xiao, satisfying her stated abstinence condition, but the manner of its removal and her hurt make that criterion inadequate to judge strength. Sumire's separate reward opens a less punitive meaning for receiving food. | A:P21–48; B:P1–46; `THREAD-0047`; `REL-0281`–`0284`. No full-day fast, health assessment or durable cure. |
+| `CL-B0105-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kazumi, Murasaki and Sumire offer differentiated peer care while the Player's mistake exposes the gap between shared-space appearances and someone's actual stakes; the ending remains local, not a safeguarding rule. | A:P7–48; B:P6–51; `UNIT-0002`. Sumire's idol-smile line can also renew pressure; no malicious Player intent or guaranteed reception is inferred. |
+
+### AV-0052 — still pastries and unstaged duration
+
+- Questions/claims: whether static objects distinguish Xiao's tests and Sumire's reward, depict the asserted full-day period or support physical-health/performance claims; `CL-B0105-001`–`003`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for dialogue attribution and Xiao's claimed success.
+- Selection: Xiao `adv_chara_147_01_01`, `03`, `04`; Sumire `adv_chara_008_01_02`; objects `adv_obj_0075`, `0076`, `0077`. All 103 native pages and six command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.7 binds the seven receipts.
+- Observed: Xiao's three faces share dark-purple looped hair, yellow eyes, green patterned top and yellow waist tie; the third selected face depicts crying. The first object is a yellow-topped pastry, the second a red-fruit cream puff, the third a similar puff without visible red fruit. The stills do not establish composition, tasted quality, actual abstinence duration or mental/physical strength.
+- Native occurrence: command-only A:P18–19,39 and B:P0,52–53 mark title/subtitle, scene fade and ending. A:P21–34 stages `adv_obj_0075`, B:P2–21 `adv_obj_0076`, and B:P39–43 `adv_obj_0077`; flash/shake fields do not provide independently viewed motion or timing.
+- Outcome: `REVIEWED` for selected stills and native segmentation. Eighty-seven dialogue-associated voice pages plus title cues, all BGM/SFX and any performance quality remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0105_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, health diagnosis, specialist or monograph promotion.
+
+## B0106 claims, visibility and static review
+
+Owner and A/B/C locator key: [B0106](../02%20Readings/T7S_B0106_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.8. B0002/B0079 comparisons are retrospective and do not create cross-chapter temporal order.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0106-001` | `BOUNDED_INFERENCE`; D1; high | Haru's cleaning is chosen and invites peer agency, but off-day participation is socially charged and cannot be made into a standing free-labor expectation. | A:P2–40; B:P1–13; `REL-0285`–`0286`. Sumire's reluctance, stated reasons and fatigue defeat both automatic-consent and pure-exploitation readings. |
+| `CL-B0106-002` | `THEMATIC_INTERPRETATION`; D1; high | Idol visibility both rewards and constrains ordinary public work; Haru's park invitation offers optional co-work instead of spectatorship, with explicit refusal and mixed motives retained. | B:P14–52; C:P1–26; `KNOW-0135`. Neither a secret campaign nor universal crowd control is evidenced. |
+| `CL-B0106-003` | `ETHICAL_INSTITUTIONAL_INTERPRETATION`; D1; moderate-high | An audience rumor creates live expectations after the fact; Coney's reported permission and the performers' specific assent yield one improvisational response without validating a preplanned campaign or full event governance. | C:P28–75; `KNOW-0136`–`0137`; `UNIT-0002`. Coney's avoidance of cleaning and her stage role coexist; no displayed permit, pay or safety audit. |
+
+### AV-0053 — office, street, park and elided performance
+
+- Questions/claims: whether native presentation verifies site changes, participants, crowd quantity, cleaning completeness, stage permission or live quality; `CL-B0106-001`–`003`.
+- Priority/modality: `AV-B` for still/native-state review; `AV-D` for attributed crowd, permission and live reports.
+- Selection: exact composites Haru `adv_chara_003_02_04`, Kajika `adv_chara_013_01_08`, Shizuka `adv_chara_010_01_08`, Sumire `adv_chara_008_01_05`, Coney `adv_chara_002_03_01`. All 174 native pages and fourteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.8 binds five media receipts.
+- Observed: Haru's red hair, dark school jacket and raised fists; Kajika's orange-red hair and sailor-style top; Shizuka's dark hair and cream school outfit; Sumire's orange hair and light top; Coney's pink hair, glasses and pink suit. Static costume/expression does not quantify cleaning, crowd, time, motive or stage performance.
+- Native occurrence: command-only A:P0–1,16,41; B:P0,31,53; C:P0,9,27,62,64,76–77. Native background references change office `bg_002.jpg.enc` → street `bg_029.jpg.enc` → park `bg_035.jpg.enc` → office; C:P27 and P64 fades separate invitation/rumor and announcement/aftermath. Generic `adv_chara_027_01` triple slots at C:P27 do not identify three stable individuals.
+- Outcome: `REVIEWED` for five selected stills and all native page-state segmentation. One hundred seventeen dialogue-associated voice pages plus title cues, all BGM/SFX and the elided live remain unauditioned; performed quality, actual crowd timing and full permit status are `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0106_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, specialist or monograph promotion.
+
+## B0107 consent, self-authorship and static review
+
+Owner and A/B/C locator key: [B0107](../02%20Readings/T7S_B0107_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.9. B0003/B0004 are explicitly recalled and bounded by `EDGE-0329`–`0330`; no total chronology among i-n-g chapters.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0107-001` | `BOUNDED_INFERENCE`; D1; high | Musubi's later participation in a bread-themed contest is a real decision under a targeted preference appeal; it does not falsify her first refusal of solo exposure and costume demands or authorize repeating B0003's old leverage. | A:P0–66; `REL-0291`–`0294`; B0003. Genuine food interest and serious work coexist with the consent cost; Coney's future commercial is speculative. |
+| `CL-B0107-002` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Musubi's defense of cheap, handheld bread shows a serious craft criterion that resists spectacle without proving an objectively winning recipe or directly decoding her hidden identity. | B:P1–31; `KNOW-0139`. Peer praise is local, judge criteria unavailable; recipe/identity analogy is suggestive, not autobiographical evidence. |
+| `CL-B0107-003` | `BOUNDED_INFERENCE`; D1; high for actor error, moderate for motive | The Player's shock at Musubi's calm confuses display with desire; her later uncertainty about wanting victory or idol work shows why praise or disappointment could not settle the issue. | B:P44–50; C:P15–84; `KNOW-0140`–`0141`. Late training is concerning but not a diagnosis or measured full-day exertion; the gendered safety frame misses part of her claim. |
+| `CL-B0107-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The Player's person-first invitation makes leaving idol work verbally thinkable while Musubi's dorm/lesson choice keeps an unfinished answer live; Rona's B0004 analogy is her hope, not confirmation Musubi was happy. | C:P55–136; `THREAD-0005`; `KNOW-0142`. No fixed true self, completed career decision, formal exit/safety procedure or erasure of earlier management pressure. |
+
+### AV-0054 — television ellipsis and night-training presentation
+
+- Questions/claims: whether stills prove a specific required costume, performed contest quality, loss emotion, exercise duration or bodily harm; `CL-B0107-001`–`004`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for narrator/actor knowledge and consent claims.
+- Selection: Musubi `adv_chara_004_01_01`, `adv_chara_004_05_22`, `adv_chara_004_06_05`, `adv_chara_004_06_09`; Rona `adv_chara_005_01_04`; Sumire `adv_chara_008_01_11`; Coney `adv_chara_002_07_02`. All 256 native pages and sixteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.9 binds seven media receipts.
+- Observed: selected Musubi stills retain long blue-black hair across school clothing, a yellow bread-themed garment and blue training clothes. Expressions include stern/concerned appearances but cannot certify her contest emotion. The selected Rona, Sumire and Coney sprites establish distinct presented figures, not unseen replies or performed qualities.
+- Native occurrence: command-only A:P10–11,36,57,63,66; B:P0,32,43,50; C:P0,14,23,67,119,137. B:P43 moves to `bg_040.jpg.enc` for the TV result, B:P50 places yellow-garment Musubi against black; C shifts `bg_068.jpg.enc` → `bg_078.jpg.enc` with red flash/SFX around the Player's slip. These fields neither supply complete show footage nor quantify training time, fall injury or emotional recovery.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred fifty dialogue-associated voice pages plus title cues, BGM/SFX and any performed/televised act remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0107_CLOSE-20260925`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, diagnosis, specialist or monograph promotion.
+
+## B0108 solo choice, adult responsibility and unfinished show
+
+Owner and A/B/C locator key: [B0108](../02%20Readings/T7S_B0108_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.10. B0002/B0004 are bounded formation anchors; no total chronology among i-n-g chapters.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0108-001` | `BOUNDED_INFERENCE`; D1; high | Rona's solo commitment is an articulated attempt at self-authorship under Coney's absolute stage-readiness norm, neither pure coercion nor proof she is prepared safely. | A:P11–27; B:P13–30; `REL-0299`–`0302`. The Player offered decline; Rona supplies her own reason, yet schedule/terms remain unreviewed. |
+| `CL-B0108-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Adult support is presented as an unresolved safety-versus-ambition judgment: Rona's unsteadiness prompts rest/reduction proposals, but Coney permits continued effort while the Player accompanies her. | A:P52–61; B:P6–54; `KNOW-0144`–`0146`. The decision is neither validated by an injury-free future nor reducible to abandonment. |
+| `CL-B0108-003` | `BOUNDED_INFERENCE`; D1; high for local change, moderate for durability | The peer call answers Rona's Nicole-copy fear with testimony about her own care and cultivated courage, enabling an on-page public opening without proving a complete performance or lasting fearlessness. | C:P28–80; B0004; `REL-0303`–`0306`. External expectation may remain risky; montage does not put every peer on site. |
+| `CL-B0108-004` | `BOUNDED_INFERENCE`; D1; high for incompletion, low for future intent | Coney's private B0002 quotation and unfinished Nanasta thought expose unresolved adult identity under Rona's step; the source does not specify a departure, succession or managerial plan. | B:P55–64; C:P64–72; `KNOW-0146`. The Player is absent for her private words, and interruption leaves the clause without a predicate. |
+
+### AV-0055 — rehearsal strain, HoloCom support and stage opening
+
+- Questions/claims: whether static expression proves diagnosis, dance execution, physical peer presence, audience scale, song quality or completed live; `CL-B0108-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for actor knowledge, consent and adult-duty claims.
+- Selection: Rona `adv_chara_005_01_09`, `adv_chara_005_08_10`, `adv_chara_005_03_02`; Coney `adv_chara_002_03_14`; Haru `adv_chara_003_06_05`; Musubi `adv_chara_004_04_01`; call object `adv_obj_0014`. All 208 native pages and twenty-five command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.10 binds seven media receipts.
+- Observed: selected Rona stills move among casual clothes, yellow training suit and red/white/blue stage dress; the selected Coney, Haru and Musubi stills are distinct presented figures. The call object is a blue HoloCom icon, not evidence all callers are on site.
+- Native occurrence: command-only A:P0–1,28,36,48,51,58–59,61; B:P0,39,54,64; C:P0,22,28,36–38,40,52,63,73,79–80. A:P58–61 effects frame unsteadiness; C:P28 shows the call object, C:P37–40 still montages of peers, and C:P74–80 stage/crowd sound references before the ending subtitle. These fields do not certify injury, running distance, continuous dance or a completed song.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and any performed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0108_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical verdict, specialist or monograph promotion.
+
+## B0109 fever, ordinary care and non-scarce kinship
+
+Owner and A/B/C locator key: [B0109](../02%20Readings/T7S_B0109_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.11. Rona's earlier B0005 family-help promise is an explicit anchor; no total chronology among i-n-g chapters.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0109-001` | `BOUNDED_INFERENCE`; D1; high | Hime's difficulty stopping a lesson and quick return to the tofu shop keep B0005's overfunctioning question open, although others supply a real day of household help. | A:P11–46; C:P58–65; `THREAD-0007`. A local rest and morning assistance do not establish a durable workload rule or prove nobody helped. |
+| `CL-B0109-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sui and Rona's care competition converts Hime's immediate needs into proof of their own closeness; broken dishes, child-chase and feeding delay show comic but material costs, while later joint work preserves partial value. | A:P47–54; B:P11–36; C:P7–17,39–56. The helpers are not uniformly incapable, and care is not certified by good intent alone. |
+| `CL-B0109-003` | `BOUNDED_INFERENCE`; D1; high for knowledge limit, moderate for emotional meaning | Hime's sleeping hem grip is interpreted by Rona and father as welcome dependence; it motivates an explicit father-hosted overnight stay but is not a conscious Hime invitation or medical finding. | C:P19–38; `KNOW-0151`. The sleep talk supports affection without transferring private intent or consent certainty. |
+| `CL-B0109-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Reciprocal jealousy reveals that Hime's bond is not a scarce prize; Rona and Sui agree sometimes to become her older sisters, making care reversible without replacing Hime's familial or shop identity. | C:P39–78; `REL-0313`–`0314`. `たまには` is bounded; no adoption, explicit romance, settled household work or Hime knowledge of the pact. |
+
+### AV-0056 — fevered Hime, household meal and scene cuts
+
+- Questions/claims: whether static stills prove fever degree, care duration, dish count, conscious sleep consent, recovery or durable kinship change; `CL-B0109-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for actor knowledge and family-role claims.
+- Selection: Hime `adv_chara_006_01_09`, `adv_chara_006_05_11`; Rona `adv_chara_005_01_10`; Sui `adv_chara_009_03_08`; Momoka `adv_chara_007_02_07`; porridge `adv_obj_0107`; fruit jelly `adv_obj_0108`. All 174 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.11 binds seven media receipts.
+- Observed: selected Hime stills show school clothing and blue check pajamas; Rona, Sui and Momoka remain distinct presented figures; porridge and fruit-jelly objects visualize food supplied by Sumire and Kajika. These states do not show cooking by Rona/Sui or medical recovery.
+- Native occurrence: command-only A:P0–1,10,33,54; B:P0,10,14,21,23,27,37; C:P0,18,25,38,57,79–80. Shake/SFX at B:P14,21 and B:P27 frame mishaps; C:P4–5 displays food, C:P25–38 cuts to the sleep scene, and C:P57–58 cuts to morning. Effects do not inventory dishes, diagnose illness or measure rest.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred thirty-three dialogue-associated voice pages plus title cues, BGM/SFX remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0109_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, diagnosis, specialist or monograph promotion.
+
+## B0110 Momoka production image, work and consent
+
+Owner and A/B/C locator key: [B0110](../02%20Readings/T7S_B0110_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.12. B0006 is contextual prior evidence, not a chapter-menu total order.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0110-001` | `BOUNDED_INFERENCE`; D1; high | The documentary makes an appealing but over-complete natural-idol image from Momoka's authentic play and mixed peer testimony; the narrator's future-smile forecast exceeds shown evidence. | A:P2–58; B:P1–46; C:P1–25; `KNOW-0153`. Neither total fabrication nor neutral omniscience follows. |
+| `CL-B0110-002` | `BOUNDED_INFERENCE`; D1; high | Momoka's snack-search lateness has a real group rehearsal cost while her later effort and reported successful live remain real within the narrated evidence. | B:P9–45; C:P1–6; `THREAD-0009`. Good outcome does not erase lost preparation or prove unsustainable incapacity. |
+| `CL-B0110-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for objection/airing, moderate for governance | Musubi asks not to film an embarrassing peer-correction moment and later says it aired; the positive broadcast and Player's entertainment framing do not answer the non-subject member's production boundary. | A:P18–22; C:P10–19; `KNOW-0157`. Full agreements and remedy are unavailable; no claim every camera shot was unauthorized. |
+| `CL-B0110-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The group's sincere affection and Rona's moved response can be effects of an edited yet partly authentic portrait; sleeping Momoka and the rehearsal cost remain within the same person rather than discrediting all praise. | B:P38–45; C:P10–27; `REL-0317`–`0322`. No inner-state omniscience, completed footage audit or durable labor conversion. |
+
+### AV-0057 — static interview, rehearsal and broadcast framing
+
+- Questions/claims: whether selected stills prove a full television edit, performed stream quality, voice-acting work, camera consent, or an unchanging smile; `CL-B0110-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for narrator, peer and consent knowledge claims.
+- Selection: Momoka `adv_chara_007_01_01`, `adv_chara_007_02_06`, `adv_chara_007_02_04`; Musubi `adv_chara_004_01_06`; Haru `adv_chara_003_02_03`; Rona `adv_chara_005_01_04`. All 134 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.12 binds six media receipts.
+- Observed: Momoka's selected pink-accented ordinary outfit remains continuous across differing expressions; Musubi, Haru and Rona appear as distinct peers. Expressions and static costume cannot establish actual broadcast cut order, inner states or dance quality.
+- Native occurrence: command-only A:P0–1,6,24,48,58; B:P0,8,15,37,46; C:P0,9,26–27. Slide/fade states separate interviews, rehearsal and viewing; C:P0's live-associated background precedes the later office view, with no continuous act shown. Textual complaint and commentary, not a raw video file, establish the local edit claim.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Eighty-five dialogue-associated voice pages plus title cues, BGM/SFX and any reported performed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0110_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, performed-media verdict, specialist or monograph promotion.
+
+## B0111 Sumire authenticity, alternatives and present choice
+
+Owner and A/B/C locator key: [B0111](../02%20Readings/T7S_B0111_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.13. B0007 is a bounded earlier formation context, not a total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0111-001` | `BOUNDED_INFERENCE`; D1; high | Sumire's art-club pleasure makes an alternative imaginable; her conclusion that this would make all Nanasta history fake is a renewed all-or-nothing adequacy judgment, not an objective fact. | A:P1–6; B:P11–38; C:P46–64; `THREAD-0010`. Art is genuine, and prior idol effort need not have been uniquely predetermined. |
+| `CL-B0111-002` | `BOUNDED_INFERENCE`; D1; high for sequence, moderate for ethic | The Player would honor a true art preference, while Haru learns Sumire's fear but announces her participation before clear assent. Sumire's later present choice does not retroactively consent to that announcement. | C:P10–98; `REL-0323`–`0326`. Haru's interpretation helps without making her process automatic or harmless. |
+| `CL-B0111-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Nanasta can become Sumire's special present practice without being the only path that ever could have mattered; she later chooses full effort here `今は`, not a timeless artist-versus-idol essence. | C:P76–103; `KNOW-0161`–`0162`. The stage act is elided, and art remains liked. |
+| `CL-B0111-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The nails/swimming and museum/art exchanges distinguish practical fit, interest and training from inflated artistic credentials or compulsory gender presentation. | A:P9–50; B:P6–33. No commission, reviewed artwork, specialist mastery or Sui makeover. |
+
+### AV-0058 — Sumire expression, stage cut and unauditioned stream
+
+- Questions/claims: whether stills prove artistic talent, fixed vocation, stream consent, performed song or a completed audience reaction; `CL-B0111-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for actor knowledge, choice and interpretation claims.
+- Selection: Sumire `adv_chara_008_01_01`, `adv_chara_008_01_06`, `adv_chara_008_01_11`, `adv_chara_008_01_03`; Haru `adv_chara_003_02_04`; Sui `adv_chara_009_03_01`; Shizuka `adv_chara_010_01_02`. All 196 native pages and eighteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.13 binds seven media receipts.
+- Observed: Sumire's selected cream/pink ordinary body remains continuous across different faces; the other selected figures anchor the peer exchange. Still expressions do not give an independent reading of private motive, painting quality or stream technique.
+- Native occurrence: command-only A:P0,7–8,51; B:P0,39; C:P0,4–5,32,34,40,70,87,92,99,102–103. C:P70–71 returns to Nanasta, C:P87–92 cuts to a stage/crowd background with incomplete voiced realization, then C:P93 returns to the later office. The transitions show no completed song or performance verdict.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred forty-seven dialogue-associated voice pages plus title cues, BGM/SFX and any stream act remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0111_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, artist credential, specialist or monograph promotion.
+
+## B0112 Sui food logic, publicity and labor capacity
+
+Owner and A/B/C locator key: [B0112](../02%20Readings/T7S_B0112_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.14. B0005/B0109 are bounded Hime-load context, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0112-001` | `BOUNDED_INFERENCE`; D1; high | Sui turns second-hand plant-protein advice into overexclusive tofu eating; Sumire locally reframes through a liked-food tofu hamburger without shaming appetite. | A:P2–44; B:P7–45; `KNOW-0163`–`0165`. Coach's complete plan and clinical outcomes are absent; tofu is neither miracle nor useless. |
+| `CL-B0112-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Care for Sui's athlete body shifts labor onto Hime's shop when a public endorsement scales demand beyond her stated capacity. | B:P22–45; C:P42–70; `THREAD-0007`. Sales and peer help are real, but profit, staffing and sustainable rest are not established. |
+| `CL-B0112-003` | `BOUNDED_INFERENCE`; D1; high for causal limit | The reported race win and tofu praise do not prove a diet mechanism, and customers' hoped-for swimming/slimming outcomes are unsupported. | C:P42–63; `KNOW-0167`. The win may be accepted as reported without inferring race metrics or universal body results. |
+| `CL-B0112-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Sumire, Rona, Hime and Sui offer different local care, while Coney's consumption and the Player's possessive body phrase expose limits of sharing and managerial care. | B:P22–52; C:P1–40; `REL-0333`–`0338`. No comprehensive diet system, ownership or lasting provision is enacted. |
+
+### AV-0059 — food dialogue, reported swim win and shop rush
+
+- Questions/claims: whether static resources prove nutrition, race performance, customer count, health effect, shop capacity or causal victory; `CL-B0112-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for coach report, body claims and labor knowledge.
+- Selection: Sui `adv_chara_009_03_12`, `adv_chara_009_04_05`; Hime `adv_chara_006_01_05`; Sumire `adv_chara_008_01_11`; Rona `adv_chara_005_01_04`; Coney `adv_chara_002_03_09`. All 174 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.14 binds six media receipts.
+- Observed: Sui's selected school/club outfit and dark swimsuit are distinct presentations; Hime, Sumire, Rona and Coney remain distinct figures. The swimsuit accompanies a remembered interview, not viewed race motion or a measured diet result.
+- Native occurrence: command-only A:P0–1,21–23,45,49; B:P0,52; C:P0,15–16,25–26,41,52,55,69–70. C:P52–56 inserts a black-background Sui swimsuit still around victory recollection before returning to shop service. Scene effects do not show a race, quantity sold, nutrition values or medical outcomes.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twenty-eight dialogue-associated voice pages plus title cues, BGM/SFX and any race/live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0112_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, clinical plan, specialist or monograph promotion.
+
+## B0113 Shizuka fish-shop learning and unequal exchange
+
+Owner and A/B/C locator key: [B0113](../02%20Readings/T7S_B0113_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.15. B0009/B0011 are bounded household/shop context, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0113-001` | `BOUNDED_INFERENCE`; D1; high | Shizuka's oversized `service` expresses care through Kuonji resource power without checking fish-shop capacity or authority; Shinju reasserts local discretion. | A:P7–16; B:P7–45; `EDGE-0364`–`0365`. Crowd and knife reputation do not prove completed giveaway; this does not mean all family resources are harmful. |
+| `CL-B0113-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Shinju models understanding people as particular customer knowledge plus small economic judgment, while Sawara describes work's pleasures alongside its weight. | C:P2–67; `KNOW-0171`. One sale is not a universal worker experience or completed class transformation. |
+| `CL-B0113-003` | `BOUNDED_INFERENCE`; D1; high | Sawara's exchange has asymmetric consent and outcome: Shizuka agrees, Shinju declines, Kajika protests and later feels lonely. | A:P33–66; C:P82–88; `KNOW-0169`, `EDGE-0368`. A mansion perk is not Kajika's assent; Shizuka's positive visit also remains real. |
+| `CL-B0113-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Shizuka's public speech holds genuine stated gratitude for working fans and an explicit Nanasta merch appeal in tension, not an audited ethical resolution. | C:P68–81; `EV-B0113-005`. Cheers and reported shop sales do not establish net profit, informed fan consent or no learning. |
+
+### AV-0060 — fish-shop rush, helicopter and unperformed public address
+
+- Questions/claims: whether static resources verify knife transfer, helicopter landing, shop finances, customer numbers, class transformation, labor impact or the performed reception of Shizuka's speech; `CL-B0113-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for reported economics, consent and actor knowledge.
+- Selection: Shizuka `adv_chara_010_01_09` and `adv_chara_010_02_08`; Shinju `adv_chara_014_01_06`; Sawara `adv_chara_012_01_03`; Kajika `adv_chara_013_03_06`; helicopter item `adv_obj_0110`. All 202 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.15 binds six media receipts.
+- Observed: Shizuka has distinct school and green/white idol presentations; Shinju, Sawara and Kajika remain distinct figures. A helicopter item is represented, not proof of landing or completed purchase.
+- Native occurrence: command-only A:P0–1,6,18,66; B:P0,36,45; C:P0–1,24–25,46,63,67,87–88. B:P36–37 places the helicopter item near the proposed intervention; C:P24–25 transitions to the customer encounter, and C:P67–68 separates shop learning from public address. Scene effects do not quantify sales, labor, merchandise or audience assent.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred thirty-seven dialogue-associated voice pages plus title cues, BGM/SFX and any performed speech/live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0113_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, completed buyout, specialist or monograph promotion.
+
+## B0114 Suss school support, rest and unconsulted reward
+
+Owner and A/B/C locator key: [B0114](../02%20Readings/T7S_B0114_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.16. B0010 supplies bounded age/manager context, not a total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0114-001` | `BOUNDED_INFERENCE`; D1; high for plural inputs | Suss's work follows both her father's conditional warning and Sawara's later-revealed reward, with peer explanation and her own effort preceding a reported all-pass retest. | A:P17–40; B:P41–96; C:P1–63; `KNOW-0173`–`0177`. Causal shares, legal danger and future grades are unmeasured; neither mere discipline nor pure coercion captures the sequence. |
+| `CL-B0114-002` | `BOUNDED_INFERENCE`; D1; high | Musubi revises urgent cramming toward a local stopping point after observing three breakless hours and Suss's fatigue. | A:P57–71; B:P56–86; `EDGE-0373`. Passing does not prove unlimited study safe or full-week rest adequate. |
+| `CL-B0114-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for consent gap | Sawara's promise treats the Player as Suss's contingent reward without consulting him; his broad offer of help does not consent to intimate/romantic access, especially in a manager/fourteen-year-old relation. | B:P26–41,88–95; C:P36–78; `KNOW-0175`, `REL-0351`–`0352`. Comic framing and Suss's desire do not supply the missing assent; no unbounded promised access is shown completed. |
+| `CL-B0114-004` | `BOUNDED_INFERENCE`; D1; moderate-high | English-only materials expose limits in eager peer help, which Musubi's dictionary plan and Haru's lookup partially bridge; food/time observation add different support. | A:P35–72; B:P3–86; C:P12–34. A passed retest does not certify fluency, curriculum, guardian terms or a durable education system. |
+
+### AV-0061 — HoloCom warning, study camp and comic reward reveal
+
+- Questions/claims: whether stills/native states prove exact email text, legal status, test scores, physical contact timing/impact, consent, rest adequacy or performed reaction; `CL-B0114-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for school, guardian and consent claims.
+- Selection: Suss `adv_chara_011_01_04`; Musubi `adv_chara_004_01_06`; Sumire `adv_chara_008_01_01`; Sawara `adv_chara_012_01_03`; Haru `adv_chara_003_01_15`; HoloCom object `adv_obj_0014`. All 251 native pages and twenty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.16 binds six media receipts.
+- Observed: selected character bodies distinguish the study participants, and the communication item has a phone/contact icon; these do not display the father's actual message or the retest transcript.
+- Native occurrence: command-only A:P0–1,15,61,72; B:P0,2,9,15,32,40,56,87,96; C:P0,3–4,51,63,79–80. A:P15–17 presents a HoloCom alert; B:P56 changes into the concentrated tutoring sequence; C:P51–64 frames the reward promise as a later-disclosed scene. Shakes, fades and a red flash do not measure performed touch, harm or sound.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Two hundred five dialogue-associated voice pages plus title cues, BGM/SFX and any performed contact/reaction remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0114_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, legal advice, specialist or monograph promotion.
+
+## B0115 Sawara talent, refusal and role fit
+
+Owner and A/B/C locator key: [B0115](../02%20Readings/T7S_B0115_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.17. B0011/B0113/B0114 are bounded relational comparison, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0115-001` | `BOUNDED_INFERENCE`; D1; high | Sawara's praised one-time runway choice does not authorize career-wide expansion; her refusal expresses an affirmative wish to idol-work with her sisters. | A:P28–48; B:P38–47; `KNOW-0178`–`0179`. Talent is not obligation, and later acceptance does not erase the initial preference. |
+| `CL-B0115-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Ability, willingness and collaborative task fit are distinct: later phone reports describe popular/amusing acts that undercut costumes, news and ensemble voice work. | B:P23–35,65–70; C:P49–63; `KNOW-0182`. Reports are partial; the social nickname does not define her worth. |
+| `CL-B0115-003` | `BOUNDED_INFERENCE`; D1; high for unsupported premise | Coney recruits Sawara's work through a legendary-room story that Shinju calls an ordinary storeroom and for which Coney has no fulfillment plan. | C:P1–47; `KNOW-0181`. Sawara's new choice is explicit, but no literal supernatural seal, disclosed secret or achieved legend is established. |
+| `CL-B0115-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The Player sincerely values Sawara's talent yet repeatedly overreads it as career desire and later effort as likely professional success; Shinju corrects him without confirmed durable uptake. | A:P7–18,35–47; B:P9–47; C:P46–71. Not a claim of bad faith, full managerial failure, or exact financial loss. |
+
+### AV-0062 — runway costume, reported calls and sealed-room framing
+
+- Questions/claims: whether native stills prove runway technique, audience response, accident facts, later job execution, literal room seal, contract/payout or actor competence; `CL-B0115-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for reported offers, productions and actor knowledge.
+- Selection: Sawara `adv_chara_012_01_01` and `adv_chara_012_04_01`; Shinju `adv_chara_014_01_05`; Momoka `adv_chara_007_01_02`; Coney `adv_chara_002_05_03`; HoloCom item `adv_obj_0014`. All 201 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.17 binds six media receipts.
+- Observed: Sawara has distinct ordinary/apron and white show-costume presentations; calls are represented by a HoloCom item, not independently verified job records. No room-lock asset establishes supernatural mechanics.
+- Native occurrence: command-only A:P0–1,34,48; B:P0,8,11,13,65,77; C:P0,48,53,56,58,72–73. A:P34–48 brackets the show/stage-costume shift; B:P8–15 punctuates offers; C:P53–60 punctuates later phone reports. Yellow flashes and sound references cannot establish actual performance quality or audience metrics.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Eighty-nine dialogue-associated voice pages plus title cues, BGM/SFX and any performed runway/news/voice work remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0115_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, career contract, literal legendary-room fact, specialist or monograph promotion.
+
+## B0116 Kajika staged agency and frame correction
+
+Owner and A/B/C locator key: [B0116](../02%20Readings/T7S_B0116_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.18. B0011/B0113 are bounded sister/consent context, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0116-001` | `BOUNDED_INFERENCE`; D1; high | The chapter's space/robot/apocalypse propositions are scripted museum fiction, while Kajika's response inside that fiction and the real surprise setup belong to the actual story level. | A:P21–59; B:P1–75; C:P1–55; `EDGE-0384`, `0388`. Costumes/detail do not literalize space travel; fiction can still elicit real action/feeling. |
+| `CL-B0116-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kajika's protective achievement is elicited through manufactured danger to Player and an unannounced immersive setup; reported casting and her later enjoyment do not supply prior informed consent. | B:P27–75; C:P44–65; `KNOW-0185`–`0187`. Her agency is real, while precise physical shock/tea mechanism and danger are unverified. |
+| `CL-B0116-003` | `BOUNDED_INFERENCE`; D1; moderate-high | Player's initial solo-brand puzzle is not Kajika's chosen career; the trial reveals person-directed effort and a modest self-reported confidence gain, not a cosmic/solo debut or validated training method. | A:P0–20; B:P49–72; C:P54–62. Museum guide casting is reported without formal terms. |
+| `CL-B0116-004` | `BOUNDED_INFERENCE`; D1; high for divergent reports | Kajika's mixed positive response and Player's objection are simultaneous actor-specific judgments; neither can cancel the other, and Coney's after-the-fact deep-plan claim is uncorroborated. | C:P44–70; `EDGE-0389`. Do not make one participant's retrospective feeling a group consent rule. |
+
+### AV-0063 — space costume and robot role inside a museum fiction
+
+- Questions/claims: whether visual/sound references prove actual spaceflight, machine identity, electric voltage, bodily peril, precise dance/voice performance, drugged tea, casting terms or consent; `CL-B0116-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for staged-world attribution, bodily setup and actor knowledge.
+- Selection: Kajika `adv_chara_013_01_01`, `adv_chara_013_04_08`; Shinju role `adv_chara_014_05_05`, `adv_chara_014_05_06`; Coney `adv_chara_002_03_01`; Haru `adv_chara_003_01_02`. All 207 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.18 binds six media receipts.
+- Observed: Kajika's ordinary and space-suit bodies and Shinju's robot-like performance costume materially mark staged roles. No still establishes their literal occupation/ontology or a physical space journey.
+- Native occurrence: command-only A:P16–17,59; B:P0,36,42,44,65–66,75; C:P0,22–23,43,70. A:P16–17 titles the scenario after a pre-title management exchange; B:P65–66 cuts to black after the dance; C:P22–43 emphasizes the staged robot intervention/farewell. Shocks, flashes and sound references cannot determine voltage, performed contact, dance precision or lived danger.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred fifteen dialogue-associated voice pages plus title cues, BGM/SFX and any performed dance/guide speech remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0116_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, real apocalypse/robot promotion, specialist or monograph promotion.
+
+## B0117 Shinju childlike performance and intellectual continuity
+
+Owner and A/B/C locator key: [B0117](../02%20Readings/T7S_B0117_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.19. B0011/B0113/B0116 are bounded character/context anchors, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0117-001` | `BOUNDED_INFERENCE`; D1; high | Externally expected childlike behavior prompts Shinju's own request for coaching, but forced mannerisms are stilted whereas a particular frog drawing receives one positive child response. | A:P20–48; B:P1–61; C:P47–70; `KNOW-0188`–`0192`. Weak rehearsal and final producer/audience uncertainty both remain. |
+| `CL-B0117-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | House-play and anime questions show Shinju's serious reasoning as one way this elementary-age child plays; age recognition should not turn into intellectual infantilization. | B:P8–61; C:P69–90. No real marriage/political institution, adult-equivalence claim or full expertise verdict. |
+| `CL-B0117-003` | `BOUNDED_INFERENCE`; D1; moderate-high | Sawara/Coney stop correcting Shinju's register, enabling a local unforced interaction but not proving a universal children's-media method or formal production approval. | C:P17–75; `KNOW-0191`–`0192`. Off-page coaching and wider reception unknown; Shinju also acts and interprets herself. |
+| `CL-B0117-004` | `BOUNDED_INFERENCE`; D1; high for stated local change | Shinju applies the encounter to a concrete prior self-censorship: she openly reads macroeconomics after having avoided appearing too un-childlike. | C:P78–90; `EDGE-0396`. An existing interest is unhidden, not new adult status, certified economics mastery or assured durability. |
+
+### AV-0064 — rehearsal, child-show scene and Shinju's ordinary presentation
+
+- Questions/claims: whether static resources certify acted childlikeness, facial affect in motion, frog species/art quality, staff/audience judgment, book content or performed voice; `CL-B0117-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for production testimony, actor knowledge and nested anime fiction.
+- Selection: Shinju `adv_chara_014_01_03`, `adv_chara_014_01_06`; Sawara `adv_chara_012_01_03`; Coney `adv_chara_002_05_03`; Momoka `adv_chara_007_02_05`; Sumire `adv_chara_008_01_05`. All 204 native pages and nineteen command-only pages reviewed. Guest-child sprites occur in native states but not among these six selected static composites.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.19 binds six media receipts.
+- Observed: Shinju's selected presentations use the same ordinary clothing; neither establishes a switch to a manufactured child body, while separate peer assets mark the coaching network.
+- Native occurrence: command-only A:P6–8,48; B:P0,34–35,41–42,61; C:P0,37,39,46,67,77,80,91–92. A:P6–8 separates poor rehearsal and titled story; B:P34–43 separates house-play and anime viewing; C:P46–80 brackets recording, child response and reflection. Effects do not establish ratings, staff approval or performed vocal nuance.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred fourteen dialogue-associated voice pages plus title cues, BGM/SFX and performed broadcast remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0117_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, audience-wide success, specialist or monograph promotion.
+
+## B0118 Tomoe protective song and renewed performance limit
+
+Owner and A/B/C locator key: [B0118](../02%20Readings/T7S_B0118_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.20. B0080 is a bounded motif comparison, not an exact-event dating or total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0118-001` | `BOUNDED_INFERENCE`; D1; high | Tomoe's defense of delayed Haru/Hime is an authored protective public action, not merely borrowed agency, though she continues to compare herself unfavorably. | A:P16–35; B:P19–49; `KNOW-0193`–`0195`. It is not proof she can perform without relational support or wants every solo role. |
+| `CL-B0118-002` | `BOUNDED_INFERENCE`; D1; moderate-high | Co-lead invitation, manager/crowd permission and Tomoe's agreement revise her `stand-in only` frame locally, while social pressure and continuing belonging doubt remain. | C:P21–54; `KNOW-0196`. Neither pure coercion nor complete cure; technical song quality unreviewed. |
+| `CL-B0118-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for sequence | Hime's apology for harshness coexists with a fresh surprise encore-center demand that exceeds Tomoe's stated preparation and precedes public vomiting. | A:P7–16; C:P47–69; `EDGE-0408`–`0410`. Fan concern does not erase physical limit or produce a risk plan. |
+| `CL-B0118-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The self-denigrating song, `ugly duckling` image and nausea recur across B0080/B0118, so recognition remains evidence rather than treatment; exact prior incident chronology and future repetition remain open. | B:P27–48; C:P55–69; B0080. `Someday swan` is hope, not completed transformation. |
+
+### AV-0065 — Tomoe from rehearsal to shared stage and encore
+
+- Questions/claims: whether stills/native sound references prove choreography difficulty, vocal quality, a cappella delivery, audience proportions, monorail mechanics, vomiting severity or future capacity; `CL-B0118-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for reported transit, audience and actor knowledge.
+- Selection: Tomoe `adv_chara_120_01_01`, `adv_chara_120_02_02`; Hime `adv_chara_006_01_01`, `adv_chara_006_03_01`; Haru `adv_chara_003_01_03`, `adv_chara_003_06_05`. All 156 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.20 binds six media receipts.
+- Observed: each performer has ordinary/rehearsal and stage-costume presentations; these support role/scene distinction without verifying dance, singing or bodily endurance.
+- Native occurrence: command-only A:P0–1,17,35; B:P0,12,25,49; C:P0,23,43–45,68–69. B:P12–25 introduces venue/audience state; B:P49/C:P0 bridges to post-a-cappella response; C:P43–45 stages the trio and C:P68–69 closes after illness. Effects cannot certify sound, proportions or medical cause.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and the a cappella/shared live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0118_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, terminal song or cured anxiety, specialist or monograph promotion.
+
+## B0119 middle-school formation, aspiration chain and safety limit
+
+Owner and A/B/C locator key: [B0119](../02%20Readings/T7S_B0119_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.21. B0081/B0035/B0041/B0108 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0119-001` | `BOUNDED_INFERENCE`; D1; high | The four's rehearsal gap is reciprocal leader-seeking rather than Madoka's isolated technical failure; Sui/Rona demonstrate a center and Madoka becomes the nearer group reference. | A:P30–49; B:P31–77; `KNOW-0198`–`0201`. No permanent leader appointment or full choreography metric. |
+| `CL-B0119-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Nicole → Rona → Madoka is a chain of usable aspiration, not a copying of identities; Rona's surprise shows insecure performers can still become meaningful models. | B:P47–53,62–77; C:P18–31; `THREAD-0006`. No stable self-confidence or endorsement of surface imitation as universal practice. |
+| `CL-B0119-003` | `BOUNDED_INFERENCE`; D1; moderate-high | The live is locally valued despite admitted errors; Coney's age-segment aside and Sawara's surprise substitution leave production/consent conditions unresolved. | B:P81–89; C:P1–15. Full stream, audience segment, role authorization and platform terms uninspected; no sexual-audience claim. |
+| `CL-B0119-004` | `BOUNDED_INFERENCE`; D1; high for unresolved safety | Saori repeatedly reports bodily injury while continuing rehearsal/live; peers' snack break and her no-broken-rib joke do not establish fitness to work. | A:P5–23; B:P1–29; C:P1–14; `THREAD-0022`. No fracture diagnosis or claim that the live caused one. |
+
+### AV-0066 — four-person rehearsal and unreviewed streamed live
+
+- Questions/claims: whether selected stills/native state prove dance alignment, Saori injury severity, exact performed live, audience demographic, substitution consent or Nicole/Rona/Madoka identity sameness; `CL-B0119-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for peer diagnosis, injury and reported live outcome.
+- Selection: Madoka `adv_chara_121_01_01`; Makoto `adv_chara_144_02_01`; Saori `adv_chara_145_01_02`; Kajika `adv_chara_013_01_01`; Rona `adv_chara_005_01_01`; Sui `adv_chara_009_03_05`. All 184 native pages and twenty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.21 binds six media receipts.
+- Observed: distinct selected bodies bind the four juniors and two older helpers; Madoka's static French horn is a prop, not evidence that she plays it in this live.
+- Native occurrence: command-only A:P0–1,55; B:P0,17–18,29–30,34–35,59,63–65,78–80,85–86,89; C:P0,36–37. B:P17–35 brackets older-peer visit/demonstration; B:P63–80 brackets the four's retry; C begins after the live rather than presenting an inspectable concert. Effects do not measure performance, pain or viewership.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and the streamed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0119_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, permanent unit, clinical clearance, specialist or monograph promotion.
+
+## B0120 service style, fidelity and bounded outcome
+
+Owner and A/B/C locator key: [B0120](../02%20Readings/T7S_B0120_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.22. B0035/B0078/B0094 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0120-001` | `BOUNDED_INFERENCE`; D1; high | Ayumu's formal mode expands her repertoire without replacing her preferred `ぽえ☆きゅん` service self-description. | A:P26–36; B:P1–43; C:P11–23,61–67. Neither failure to learn nor permanent identity change. |
+| `CL-B0120-002` | `BOUNDED_INFERENCE`; D1; moderate-high | Kazumi's period-framed instruction imports hierarchy/contract rules beyond surface diction; the resulting role proves awkward for café customers even while witnesses applaud its craft. | C:P8–58; `KNOW-0205`. Historical accuracy is attributed, not independently verified. |
+| `CL-B0120-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | Ayumu can refuse a request, but her enacted limit relies on a fictional rank/contract schema; Chacha's preferential-service joke survives her return to ordinary speech. | C:P39–58,68–75. No displayed real contract, legal class, lasting obligation or dominance conclusion. |
+| `CL-B0120-004` | `BOUNDED_INFERENCE`; D1; high for evidence limit | The café event is positively reported rather than shown, and Coney's insult-maid commercial thought remains hypothetical. | C:P55–67. No customer-reception audit or actual marketing policy. |
+
+### AV-0067 — Ayumu's register/costume and unreviewed café event
+
+- Questions/claims: whether selected static states/native transitions prove Victorian authenticity, actual tea cause, legal contract, customer response, event performance or enduring Chacha service; `CL-B0120-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for historical, contractual and reported-event restrictions.
+- Selection: Ayumu ordinary `adv_chara_122_01_01` and formal maid `adv_chara_122_03_04`; Miwako `adv_chara_134_01_01`; Chacha `adv_chara_128_01_01`; Kazumi `adv_chara_146_01_01`; Coney `adv_chara_002_04_03`. All 162 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.22 binds six media receipts.
+- Observed: Ayumu's selected ordinary and formal bodies differ visibly; Miwako, Chacha, Kazumi and Coney bodies bind selected roles. A costume is no authenticity proof.
+- Native occurrence: command-only A:P0–1,37; B:P0,10–11,20–21,44; C:P0,24–25,59–60,76–78. B transitions bracket Miwako's demonstrations; C:P59–60 separates the formal test from the later lesson/event report. No customer scene or contract document appears.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twelve dialogue-associated voice pages plus title cues, BGM/SFX and the café event remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0120_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, real-contract finding, specialist or monograph promotion.
+
+## B0121 fear, choice and production evidence limit
+
+Owner and A/B/C locator key: [B0121](../02%20Readings/T7S_B0121_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.23. B0031/B0077/B0041/B0091/B0119 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0121-001` | `BOUNDED_INFERENCE`; D1; high | Player mistakes horror interest for solo-location tolerance, corrects after Ei's disclosure, and Kyoko then explicitly chooses the specific work. | A:P21–44; B:P1–33. Neither initially informed assent nor simple coercion. |
+| `CL-B0121-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kyoko's professional choice and need for off-camera support coexist; reported success does not certify that camera-on/location support or fear management was adequate. | B:P15–33; C:P60–83. No full shoot protocol or fear cure. |
+| `CL-B0121-003` | `BOUNDED_INFERENCE`; D1; high for local causes | Rehearsal ghosts are reclassified as Saori's cable/light accident, Makoto under a desk and Tomoe crying; the mundane reveal still exposes an actual equipment hazard and distress. | C:P14–62. No paranormal event, medical outcome or universal negation of Ei's other claims. |
+| `CL-B0121-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The reported broadcast ghost is Player caught in frame, while private off-camera reliance and Kyoko's secrecy request leave the image boundary delicate, not demonstrably violated on purpose. | C:P74–103. Full footage, audience metrics, deliberate disclosure and future offer unverified. |
+
+### AV-0068 — Kyoko's fear states and unreviewed TV production
+
+- Questions/claims: whether static variants, native shakes/flashes and post-shoot dialogue prove measured fear, ghost activity, physical injury, abandoned-hospital safety, full broadcast performance, audience size or privacy outcome; `CL-B0121-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for supernatural, safety, shoot and broadcast restrictions.
+- Selection: Kyoko `adv_chara_123_01_01` and alarmed `adv_chara_123_01_08`; Ei `adv_chara_131_01_01`; Saori `adv_chara_145_01_01`; Makoto `adv_chara_144_02_03`; Tomoe `adv_chara_120_01_05`. All 185 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.23 binds six media receipts.
+- Observed: selected Kyoko expressions differ; Tomoe's selected tearful state aligns with her crying reveal. Stills do not time a startle, establish injury or display an external location.
+- Native occurrence: command-only A:P0–1,45; B:P0,34; C:P0,10–11,14,29–30,40,43–44,72–73,81,102–103. Background/character changes separate Nanasta checkpoints and the post-shoot report. Shakes/flashes/sound references are staging fields, not proof of paranormal activity.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred three dialogue-associated voice pages plus title cues, BGM/SFX, the location shoot and broadcast remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0121_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, supernatural finding, specialist or monograph promotion.
+
+## B0122 selected practice, intrusive gaze and bounded outcome
+
+Owner and A/B/C locator key: [B0122](../02%20Readings/T7S_B0122_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.24. B0084/B0085/B0077/B0093 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0122-001` | `BOUNDED_INFERENCE`; D1; high | Honoka's specific acting exercise is twice chosen by her; supportive Kyoko/Rena coaching initially displaces that preference, and she later distinguishes enjoyable practice from what answers her role question. | A:P32–60; B:P1–61; C:P24–31. No requirement for actual dating or rejection of peer care. |
+| `CL-B0122-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Yumeno's eroticized gaze and unsolicited intimacy direction are hers, not Honoka/Rena's; Kyoko/Rena enforce a boundary when rehearsal is no longer useful. | B:P20–61; C:P1–23; B0093 bounded precedent. Voluntary peer scene contact is not blanket consent to the outsider. |
+| `CL-B0122-003` | `BOUNDED_INFERENCE`; D1; moderate-high | Honoka/Player's short lover-role exercise carries a manager–performer boundary and a deliberately private emotional register, without establishing off-script dating or physical intimacy. | A:P32–60; C:P24–40. Both request and acceptance are explicit; professional safeguards are not shown. |
+| `CL-B0122-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Peers' later praise and Honoka's secret suggest a valued result and private practice contribution, not a direct full-drama or causal-isolation verdict. | C:P41–49. Full performance, audience, director and complete rehearsal uninspected. |
+
+### AV-0069 — Honoka's role expressions and unreviewed drama
+
+- Questions/claims: whether selected stills/native transitions prove Honoka's consent to Yumeno's directions, actual dating, physical intimacy, screen acting quality, audience response or practice's exclusive causal effect; `CL-B0122-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for consent, relationship and reported-performance restrictions.
+- Selection: Honoka `adv_chara_124_01_01`, `adv_chara_124_01_03`, `adv_chara_124_01_04`; Rena `adv_chara_125_01_01`; Kyoko `adv_chara_123_01_01`; Yumeno `adv_chara_133_01_03`. All 180 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.24 binds six media receipts.
+- Observed: three Honoka expressions appear with the same outfit; Yumeno's selected heart imagery is her expressivity, not another actor's assent. Static sprites cannot establish a date or delivered acting quality.
+- Native occurrence: command-only A:P5–6,61,64; B:P0,37,60,62; C:P0,20–21,39–40,50–51. A's title follows its flash-forward and A:P7 states the rewind; C's transitions separate group exit, private exercise and post-drama report.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX and the complete drama remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0122_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, actual-romance finding, specialist or monograph promotion.
+
+## B0123 capacity, privacy and response boundary
+
+Owner and A/B/C locator key: [B0123](../02%20Readings/T7S_B0123_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.25. B0085/B0122 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0123-001` | `BOUNDED_INFERENCE`; D1; high | Rena declines a kind senior because present club/idol obligations fill her capacity, not because a demonstrated idol policy forbids dating or he is unworthy. | B:P24–33; C:P28–40. Coney's flourish is not a contract audit; no permanent romantic rule. |
+| `CL-B0123-002` | `BOUNDED_INFERENCE`; D1; high | Rena's confidence teasing Player does not eliminate genuine vulnerability when affection is directed at her; her familiar banter returns after an answer without erasing the prior uncertainty. | A:P1–7,20–39; B:P10–41; C:P56–69. Not simply coy performance. |
+| `CL-B0123-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Group concern and excitement both help and crowd Rena; Player's block of covert viewing marks the answer as hers, while his ambiguous “like” is expressly vocationally clarified. | A:P20–58; C:P12–26,47–54. No actual confession by Player or entitlement to private reply. |
+| `CL-B0123-004` | `BOUNDED_INFERENCE`; D1; high for evidence limit | The senior's understanding/support is Rena's report from an unseen meeting; the exterior envelope and peer discussion cannot independently establish full letter content or future conduct. | A:P40–58; B:P1–23; C:P56–62. No direct senior voice, lasting friendship or hostile reaction established. |
+
+### AV-0070 — Rena's letter object and unauditioned work/meeting
+
+- Questions/claims: whether native object/stills prove inner letter text, sender motives, song error, private meeting details, romance outcome, Coney's suppressed identity or lasting senior support; `CL-B0123-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for letter-content, performed-work and reported-meeting restrictions.
+- Selection: Rena `adv_chara_125_01_01`, worried `adv_chara_125_01_04`, returning `adv_chara_125_01_03`; Kyoko `adv_chara_123_01_02`; Honoka `adv_chara_124_01_03`; Coney `adv_chara_002_03_09`; foreground envelope `adv_obj_0111`. All 174 native pages and thirteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.25 binds seven media receipts.
+- Observed: envelope exterior bears `荒木レナ様`; Rena's selected expressions vary. Neither exposes the letter's inner text nor supplies the senior's direct speech.
+- Native occurrence: command-only A:P0,8–9,40,59; B:P0,35,41; C:P0,47,55,70–71. The foreground object begins at A:P40; C:P47 and P55 separate private reply interval from later group report. No depicted meeting or auditioned song appears.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX and the live song remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0123_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, senior-route invention, dating-policy finding, specialist or monograph promotion.
+
+## B0124 reliance, backup competence and safety boundary
+
+Owner and A/B/C locator key: [B0124](../02%20Readings/T7S_B0124_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.26. B0086/B0118/B0105 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0124-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Mimi's permissioned cover solves visible immediate work and performer needs but reveals a single-point burden around the Player, not a formal backup structure or permanent competence ranking. | A:P2–61; B:P1–39. No complete accounts, stream or delegated-authority audit. |
+| `CL-B0124-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Mimi's older-sister competence and concealed fatigue coexist; the episode extends reliance from one-way service to her explicit request for help, without proving that either helper has unlimited capacity. | B:P1–47; C:P5–22,49–60; B0086. Neither false care nor self-sufficient mastery. |
+| `CL-B0124-003` | `BOUNDED_INFERENCE`; D1; high for uncertainty | Harasser rumor and Rona's unanswered call warrant concern but do not prove an attack; Mimi's alarm/solo pursuit and the ill Player's pursuit are improvised, not verified safe incident procedure. | C:P22–64. No route-risk or clinical clearance audit. |
+| `CL-B0124-004` | `BOUNDED_INFERENCE`; D1; high for report status | Coney's capture/police handoff and Rona contact are retrospective claims; Mimi's proposed lesson about relying on others for Coney remains prospective. | C:P65–79. No directly witnessed arrest, police record or Coney behavior change. |
+
+### AV-0071 — Mimi's substitute work and unreviewed threat response
+
+- Questions/claims: whether selected stills/native fields prove clinical diagnosis, accounting authority, stream quality, Rona attack, effective alarm, actual apprehension/police transfer or permanent Coney reliance; `CL-B0124-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for illness, work, safety and retrospective-incident restrictions.
+- Selection: Mimi `adv_chara_126_01_01`/`126_01_05`; Rona `adv_chara_005_01_04`; Tomoe `adv_chara_120_01_04`; Kyoko `adv_chara_123_01_01`; Xiao `adv_chara_147_01_05`; Coney `adv_chara_002_07_02`; Holocom objects `adv_obj_0027`/`0026`. All 192 native pages and eighteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.26 binds nine media receipts.
+- Observed: selected bodies bind helper, performers and warning messenger; Holocom objects depict active-message and no-answer states. They cannot locate Rona or prove a threat event. No arrest image is shown.
+- Native occurrence: command-only A:P0–1,11,21,36,45,62; B:P0,39–40,48; C:P0,4,34,41,64,78–79. C:P34–35 changes Holocom state; C:P64 shifts to route scene. Native cuts do not supply clinical, full-stream, capture or police evidence.
+- Outcome: `REVIEWED` for nine selected static composites and all native page-state segmentation. One hundred twenty dialogue-associated voice pages plus title cues, BGM/SFX and the full stream remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0124_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical/legal finding, specialist or monograph promotion.
+
+## B0125 creative pause, ordinary-life framing and injury limit
+
+Owner and A/B/C locator key: [B0125](../02%20Readings/T7S_B0125_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.27. B0032/B0077/B0089/B0078/B0104 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0125-001` | `BOUNDED_INFERENCE`; D1; high | Unoptimized time with Miu/Kazumi gives Ferb creative reference for the ad brief where repeated solitary bass playing had stalled; rest and relationship become situated craft resources. | A:P0–31; C:P1–62. Not a universal songwriting law or dismissal of musicianship. |
+| `CL-B0125-002` | `BOUNDED_INFERENCE`; D1; high | “Ordinary high-school life” is a commercial theme and negotiated peer description, not a fixed standard Ferb must become. | C:P17–30,43–51. Miu's claim is qualified by Kazumi and Ferb's own use of one experience. |
+| `CL-B0125-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | A visible playing injury justifies concern, but the instrument confiscation and continuous peer-watch plan restrict Ferb without clear full assent, and covert shop playing exposes the plan's porosity. | A:P20–31; B:P1–44; C:P40–42. Neither ignore injury nor treat later enjoyment as retroactive consent. |
+| `CL-B0125-004` | `BOUNDED_INFERENCE`; D1; high for limit | The ending shows a promising melody and renewed urge to perfect it quickly, not a completed commercial, medically cleared finger or durable end to overwork. | C:P33–69. Performed audio/client response uninspected. |
+
+### AV-0072 — Ferb with/without bass and unauditioned ad melody
+
+- Questions/claims: whether selected sprites/native transitions prove injury severity, actual rest, consent to surveillance, clinical healing, technical composition quality, delivered commercial or permanent work-balance change; `CL-B0125-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for injury, consent, performed-music and commission restrictions.
+- Selection: Ferb `adv_chara_127_01_03` with large bass case and `adv_chara_127_02_02`/`127_02_01` without it; Miu `adv_chara_129_01_01`/`129_01_03`; Kazumi `adv_chara_146_01_02`. All 149 native pages and thirteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.27 binds six media receipts.
+- Observed: selected Ferb state changes remove the large case while keeping everyday bag; Miu/Kazumi bodies bind the companions. Stills do not show treatment or how the emerging melody sounds.
+- Native occurrence: command-only A:P5–7,20,32; B:P0,17,45; C:P0,12,32,68–69. A:P0–4 precedes the title; C's shopping/food transitions and looping SFX references do not supply performed sound or continuous rest.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred one dialogue-associated voice pages plus title cues, BGM/SFX, the melody and final commercial remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0125_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical clearance, specialist or monograph promotion.
+
+## B0126 false premise, mixed clues and coercive procedure
+
+Owner and A/B/C locator key: [B0126](../02%20Readings/T7S_B0126_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.28. B0119/B0121/B0088/B0120 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0126-001` | `BOUNDED_INFERENCE`; D1; high | Stillness and props are converted into a murder premise without a shown health check; Saori's return revises death, but her fainting remains a safety issue without assessment. | A:P2–60; C:P33–50; `THREAD-0022`. Neither homicide nor medical clearance. |
+| `CL-B0126-002` | `BOUNDED_INFERENCE`; D1; high | Locker structure and food traces support narrow findings, while river demonstration and ghost-car rumor remain unverified hypotheses about Saori's route. | B:P1–108; C:P1–43. Detective costume/confidence is no complete reconstruction. |
+| `CL-B0126-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Chacha uses Player as a test object despite specific refusals and later admits the inquiry relieved boredom; comic staging does not supply consent or make river/road tests safe. | B:P6–17,34–58,79–108; C:P46–53. Road collision proposed but not performed. |
+| `CL-B0126-004` | `BOUNDED_INFERENCE`; D1; high | Coney's admitted doughnut/tofu exchange is mistaken for violence when the group again treats clue contact as guilt; Saori's account disconfirms the crime story. | C:P8–43. No claim the trade itself was invented. |
+
+### AV-0073 — broken tofu, detective costume and unreviewed health state
+
+- Questions/claims: whether selected stills/native effects prove Saori's death/injury severity, river mechanism, road collision, Coney culpability, Player's consent or safe recovery; `CL-B0126-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for medical, coercion and crime restrictions.
+- Selection: Chacha `adv_chara_128_01_03` and detective `adv_chara_128_02_04`; Kajika `adv_chara_013_01_06`; Saori `adv_chara_145_01_01`; Makoto `adv_chara_144_01_04`; Madoka `adv_chara_121_01_03`; Hime `adv_chara_006_01_19`; Coney `adv_chara_002_03_06`; tofu object `adv_obj_0117`. All 228 native pages and eighteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.28 binds nine media receipts.
+- Observed: detective clothing marks Chacha's performance; broken tofu object shows fragments. Neither is a forensic or health assessment, and selected Saori body does not certify consciousness at every page.
+- Native occurrence: command-only A:P0–1,8,12–13,61; B:P0,24–25,43,59–60,109; C:P0,39–40,54–55. Tofu object around A:P9–12; B transitions among locker/river/road/return; C slide follows accusation. Exact impacts and sound effects remain unauditioned.
+- Outcome: `REVIEWED` for nine selected static composites and all native page-state segmentation. One hundred fifty-five dialogue-associated voice pages plus title cues, BGM/SFX remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0126_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, crime/diagnosis finding, specialist or monograph promotion.
+
+## B0127 friendship disclosure and rehearsal choice limits
+
+Owner and A/B/C locator key: [B0127](../02%20Readings/T7S_B0127_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.29. B0089/B0102/B0084/B0125 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0127-001` | `BOUNDED_INFERENCE`; D1; high | Miu's repeated absences and nondisclosure jointly strain a friendship; Murasaki's first judgment assumes a fact the friend does not know. | A:P18–40; B:P11–30; C:P8–18. Friend's own interpretation unvoiced. |
+| `CL-B0127-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Honoka's interruption and Murasaki's apology allow friendship and work to stay serious simultaneously, without establishing that either must always win or that a schedule is solved. | B:P14–48; C:P1–4,35–58. No durable accommodation plan. |
+| `CL-B0127-003` | `BOUNDED_INFERENCE`; D1; high for limit | Coney's long-distance friendship example motivates honest speech but does not prove Miu's friend accepted disclosure; Miu's stated intent and later energy leave the actual encounter offscreen. | C:P8–33,35–60. No external-friend verdict or identity from tofu aside. |
+| `CL-B0127-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Murasaki's revision repairs the local team relation enough for Miu to return to rehearsal, while performance quality and practical time allocation remain open. | B:P20–48; C:P35–60. Apology is not an audited calendar. |
+
+### AV-0074 — Miu's Holocom contact and unreviewed friend conversation
+
+- Questions/claims: whether selected stills/native object prove sender, message text, friend's reaction, final stream quality, enduring friendship or a negotiated schedule; `CL-B0127-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for external-friend, performance and schedule restrictions.
+- Selection: Miu `adv_chara_129_02_04`, `129_02_01`, `129_02_05`; Murasaki `adv_chara_149_01_01`; Honoka `adv_chara_124_01_01`; Coney `adv_chara_002_03_01`; Holocom `adv_obj_0027`. All 160 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.29 binds seven media receipts.
+- Observed: Miu's expressions vary while Holocom object shows an active interface, not sender/text. No outside friend body or message content is selected/shown.
+- Native occurrence: command-only A:P1,5,9–10,17,26,49; B:P0,5,35,46,48; C:P0,31,34,59–60. Holocom appears A:P5–7,17 and B:P5–8; cuts separate the later peer conflict, Coney counsel and next-day return.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred twenty-six dialogue-associated voice pages plus title cues, BGM/SFX and the full streamed performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0127_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, external-friend verdict, specialist or monograph promotion.
+
+## B0128 school observation, visibility and consent limits
+
+Owner and A/B/C locator key: [B0128](../02%20Readings/T7S_B0128_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.30. B0090/B0125/B0039/B0040 are bounded comparison horizons, not a total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0128-001` | `BOUNDED_INFERENCE`; D1; high | The acting brief produces a perceived need for school knowledge, while the visits mainly expose Monaka to particular friends' school lives; the later café setting removes the alleged role requirement without negating the encountered relations. | A:P2–45; B:P9–81; C:P39–53. No filmed-scene quality or general acting-method verdict. |
+| `CL-B0128-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Monaka's praise can connect people and overrun privacy or participation boundaries; Ferb's fans and Jesse welcome aspects of it, Kazumi requests discretion, and Musubi refuses the improvised live. | B:P11–35,46–81; C:P1–38. Comic tone is not consent; visitor rules, announcement and show outcome unverified. |
+| `CL-B0128-003` | `BOUNDED_INFERENCE`; D1; high for limit | Monaka describes non-enrollment as an open-ended search rather than permanent rejection; Jedah offers a different situated schooling pattern, not a universal alternative or legal/educational recommendation. | A:P20–31; B:P37–45. No later enrollment, comparative policy or population inference. |
+| `CL-B0128-004` | `BOUNDED_INFERENCE`; D1; high for limit | The final reveal revises the production premise, not the visit's social costs; neither the idol-club president's planned announcement nor Monaka's report of filming proves a school live, an accepted event or a successful drama performance. | C:P22–55. Cut-away and unauditioned/unseen media keep outcomes open. |
+
+### AV-0075 — Monaka's school disguise and school-life visibility
+
+- Questions/claims: whether outfit stills establish enrollment, visitor authorization, spoken-language fluency, a school live, or the acting result; `CL-B0128-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for school authorization, actual event, performed delivery and filmed-scene restrictions.
+- Selection: Monaka `adv_chara_130_01_02`, `130_02_01`, `130_02_04`; Ferb `127_01_01`; Jedah `137_01_01`; Kazumi `146_01_01`; Musubi `004_01_07`, `004_01_11`. All 185 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.30 binds eight media receipts.
+- Observed: Monaka's blazer/skirt, glasses and accessories make a schoolgirl presentation visible against her ordinary outfit; peer outfits are distinct. Stills do not establish student status, access permission, others' consent or full scene timing.
+- Native occurrence: command-only A:P0–1,17–20,45; B:P0,8,25,36,73,82; C:P0,17,38,46,54–55. Native cuts separate the acting question, four schools, wrap-up and later filming report; none supplies an unshown live or a precise filming interval.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred thirty-four dialogue-associated voice pages plus title cues, BGM/SFX, full school activity and finished drama scene remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0128_CLOSE-20260926`: four bounded claims and one AV review; no school policy, acting-quality verdict, prior claim rewrite, specialist or monograph promotion.
+
+## B0129 performed care and recording-consent limits
+
+Owner and A/B/C locator key: [B0129](../02%20Readings/T7S_B0129_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.31. B0041/B0091/B0099/B0092 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0129-001` | `BOUNDED_INFERENCE`; D1; moderate-high | The staged fiction answers a real child's humiliation with immediate delight and a reported peer reconciliation, without proving literal Mikola existence, durable belief or a fully observed school repair. | A:P0–40; C:P1–57. School dispute and reconciliation are reported; no later child testimony. |
+| `CL-B0129-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Ei's pressured yet genuine one-day care and her later refusal coexist; successful acting and children's joy do not convert a scoped yes into permission for repeated work. | A:P36–49; B:P5–29; C:P51–64. Her costume discomfort and refusals are explicit. |
+| `CL-B0129-003` | `BOUNDED_INFERENCE`; D1; high for limit | A reported Coney video creates a route to company solicitation that Ei did not know about during the show; neither a staff acquaintance nor the late offer proves prior license, release, public upload, contract or consent. | B:P7–16; C:P65–75. Footage and transmission are not reviewed. |
+| `CL-B0129-004` | `BOUNDED_INFERENCE`; D1; high for limit | Costumes, villain acting, effects and Ei's self-cue support a convincing local performance, while the glowing sprite state is not an independent supernatural entity or an auditioned technical show verdict. | B:P19–29; C:P17–50. Native stills and text, not continuous motion/audio. |
+
+### AV-0076 — Ei's staged transformation and unseen recording
+
+- Questions/claims: whether sprite/animation states prove literal magic, complete acting quality, filming consent, video circulation or a contracted official show; `CL-B0129-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed audio, recording, rights and official-work restrictions.
+- Selection: Ei `adv_chara_131_01_03`, `131_02_05`, `131_03_01`; Manon `132_01_02`; Saori `144_02_02`, `144_04_03`; Jedah `137_04_04`; Sisara `136_04_04`. All 156 native pages and thirteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.31 binds eight media receipts.
+- Observed: Ei's everyday sprite, heroine costume and translucent glowing overlay are distinct; Saori, Jedah and Sisara appear in crafted villain costumes. These are authored presentation states, not proof of a supernatural possession or a filmed video file.
+- Native occurrence: command-only A:P16–17,28,49; B:P0,29; C:P0,29,39,48,52,74–75. C:P29/39/48 show effect/costume transitions; C:P52 cuts to post-show, C:P74–75 closes after the recording news.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred four dialogue-associated voice pages plus title cues, BGM/SFX, continuous show and Coney's reported recording remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0129_CLOSE-20260926`: four bounded claims and one AV review; no literal-magic, media-rights, child-belief durability, official-show, specialist or monograph promotion.
+
+## B0130 family-role comedy, heat preparation and child-stage limits
+
+Owner and A/B/C locator key: [B0130](../02%20Readings/T7S_B0130_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.32. B0129's Mikola and this chapter's Magiko are differently titled; menu adjacency is not total chronology or a common production.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0130-001` | `BOUNDED_INFERENCE`; D1; high for limit | Momoka's public “Papa” joke and Manon's pleased uptake make a provisional outing role; the later sleeping “Papa” wish has no fixed referent and cannot create a father/guardian identity route. | A:P35–45,69–89; C:P41–45. No waking clarification or legal relationship. |
+| `CL-B0130-002` | `BOUNDED_INFERENCE`; D1; high | The long sunny queue exposes the Player's forgotten-drink lapse and prompts a withdrawal threshold; Coney's bag supports continuing but does not document measured heat safety or an institutional protocol. | B:P11–57. No injury or clinical clearance evidenced. |
+| `CL-B0130-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Momoka's calculated child-line use and pranks coexist with concrete care in sharing drink and escorting Manon; a single virtue or vice label flattens the episode. | A:P35–89; B:P1–31,60–70; C:P1–12. No generalized guardianship competence. |
+| `CL-B0130-004` | `BOUNDED_INFERENCE`; D1; high for limit | Coney's host/selection surprise leads to a staged hostage-rescue that leaves Manon delighted, but prior child/escort assent is not shown; happy aftermath is not a release or a harm diagnosis. | C:P13–40. Continuous staging and permissions unreviewed. |
+| `CL-B0130-005` | `BOUNDED_INFERENCE`; D1; high for limit | B0130 names Magiko, distinct from B0129's Mikola; shared magical-girl imagery cannot prove a sequel, the requested B0129 official show or a total fictional ordering. | B0129 A:P0–15; B0130 A:P17–25, C:P19–23. Native menu adjacency is routing only. |
+
+### AV-0077 — mall trip sprites and unreviewed live show
+
+- Questions/claims: whether selected stills prove family status, heat severity, child-stage assent, full show content, sleep-talk referent or Magiko/Mikola identity; `CL-B0130-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for safety, stage consent, full performance and family-identity restrictions.
+- Selection: Manon `adv_chara_132_01_01`, `132_01_03`, `132_01_04`; Momoka `007_02_03`, `007_02_05`; Coney `002_05_03`, `002_03_11`. All 208 native pages and twenty-seven command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.32 binds seven media receipts.
+- Observed: expression/attire variants for the two attendees and Coney's host-like presentation. No full mall crowd, medical measurement, Magiko action, custody record or consent exchange appears in these selected composites.
+- Native occurrence: command-only A:P0–1,13,47,54–55,67–68,89; B:P0,9–10,32–33,41,44–46,53,58–59,68,71; C:P0,12,26,44–45. Cuts separate mall frame, setup, queue, kit recollection, restroom and show aftermath; one-shot/stop-flag sound states do not supply performed-audio evidence.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred six dialogue-associated voice pages plus title cues, BGM/SFX and the continuous mall character show remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0130_CLOSE-20260926`: five bounded claims and one AV review; no father/guardian, heat injury/clearance, prior stage consent, cross-anime sequel, specialist or monograph promotion.
+
+## B0131 memory, care and consent after two accidents
+
+Owner and A/B/C locator key: [B0131](../02%20Readings/T7S_B0131_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.33. B0093 is a bounded prior Yumeno claim horizon; no total i-n-g chronology follows from menu placement.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0131-001` | `BOUNDED_INFERENCE`; D1; high | Social/autobiographical recognition changes after the first accident while daily function and idol skills persist; the quiet and familiar presentations are states of the same Yumeno, not new identities or fixed orientations. | A:P43–53; B:P1–36; C:P31–57. No independent neurologic mechanism. |
+| `CL-B0131-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Friends' desire for remembered Yumeno reflects real relational loss, but she reports she may manage without the memories and partly seeks recovery to relieve them; her present welfare cannot be replaced by their nostalgia. | B:P12–75. Affection and support are real; no permanent preference established. |
+| `CL-B0131-003` | `BOUNDED_INFERENCE`; D1; high for limit | Hime's chosen hand contact has a narrow scope; her later lay “shock” idea is neither medically validated nor an actual shown kiss, and the second accident/return sequence cannot prove therapeutic causation. | A:P10–24; B:P64–74; C:P1–41. No second clinician mechanism or injury clearance. |
+| `CL-B0131-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Familiar Yumeno's renewed kiss demand after Hime's repeated refusals means narrative memory closure does not close the relational consent breach, consistent with B0093's prior boundary case. | A:P11–33; C:P32–57. Intent, comic register and protection do not imply agreement. |
+| `CL-B0131-005` | `BOUNDED_INFERENCE`; D1; high for limit | First hospital report says superficial injury/no immediate life danger and possible temporary memory disorder; it cannot establish absence of second injury, safe work return, durable recovery or a recommended intervention. | A:P39–53; B:P1–32; C:P25–57. No second detailed exam appears. |
+
+### AV-0078 — Yumeno's manner variants and elided accident action
+
+- Questions/claims: whether expression/heart variants prove separate identities, orientation, kiss contact, injury mechanism, shock therapy or Hime's consent; `CL-B0131-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for exact accident, performed audio, medical and consent restrictions.
+- Selection: Yumeno `adv_chara_133_01_02`, `133_02_07`, `133_01_03`; Hime `006_01_12`, `006_01_03`; Ferb `127_02_01`; Xiao `147_01_01`; Coney `002_03_02`. All 188 native pages and twenty-nine command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.33 binds eight media receipts.
+- Observed: Yumeno's heart-framed prior/returned sprites contrast with a reserved post-amnesia sprite. The selected stills do not show accident trajectories, kiss contact, medical exam or Hime's assent to earlier conduct.
+- Native occurrence: command-only A:P0–1,8–10,21,23–24,34–36,38,53; B:P0,19–20,28–29,38,42,75; C:P0,20–22,24,30,56–57. A:P34–38 and C:P20–24 elide accident mechanics through sound/fade/blank states.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred forty dialogue-associated voice pages plus title cues, BGM/SFX and continuous accident action remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0131_CLOSE-20260926`: five bounded claims and one AV review; no medical recommendation, split identity, actual kiss, second safety verdict, consent repair, specialist or monograph promotion.
+
+## B0132 fan visibility, guide duty and media opportunity limits
+
+Owner and A/B/C locator key: [B0132](../02%20Readings/T7S_B0132_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.34. B0094/B0037/B0093/B0131/B0125 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0132-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Miwako's expertise includes both protective attendance practices and lived fan intensity; one need not negate the other, though front-area movement leaves individual risk preference unrecorded. | A:P20–61; B:P1–45; C:P6–55. No venue safety clearance. |
+| `CL-B0132-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Peers' delight revises Miwako's shame about breaking an ideal adult-guide pose, but does not prove every safety choice optimal or make Ferb solely responsible for the pivot. | C:P26–55. Group voices are local, not a crowd-control audit. |
+| `CL-B0132-003` | `BOUNDED_INFERENCE`; D1; high for limit | Article identification converts unplanned audience participation into a reported rookie-stage offer from another festival, not a KUONJI booking, accepted contract, stable trio or finished performance. | A:P2–6; C:P60–80. Photo rights, terms and later result unshown. |
+| `CL-B0132-004` | `BOUNDED_INFERENCE`; D1; high for limit | Yumeno's report that music absorbed her shows one day's redirected attention, not an enduring change to earlier sexualizing conduct or an observed violation in this crowd. | A:P15–18,39–54; B:P5–9; C:P3–5,39–55. Monitoring outcome limited. |
+
+### AV-0079 — festival-attendee costumes and unreviewed crowd/music
+
+- Questions/claims: whether selected sprites establish exact moshing, crowd size, musical quality, injury absence, publicity consent or a booked new trio; `CL-B0132-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed music, physical crowd safety, media and offer restrictions.
+- Selection: Miwako `adv_chara_134_01_01`, `134_02_05`; Ferb `127_03_01`; Sumire `008_06_01`; Yumeno `133_04_01`; Jedah `137_03_05`; Coney `002_01_01`. All 193 native pages and fourteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.34 binds seven media receipts.
+- Observed: Miwako shifts from ordinary to festival attire, with peers likewise costumed as attendees; this does not put Nanasta on the KUONJI stage. No crowd-density, article, contract or full band performance is visible in selected stills.
+- Native occurrence: command-only A:P0–1,62; B:P0,24,48; C:P0,42–44,58–59,79–80. C:P42–44 includes crowd/looping-sound state; C:P58–60 cuts from the festival to the article/offer frame.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred sixty dialogue-associated voice pages plus title cues, BGM/SFX and actual festival music remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0132_CLOSE-20260926`: four bounded claims and one AV review; no crowd-law verdict, safety clearance, article-rights finding, official new unit/show, specialist or monograph promotion.
+
+## B0133 adult-image aspiration, child-role work and listening limits
+
+Owner and A/B/C locator key: [B0133](../02%20Readings/T7S_B0133_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.35. B0130/B0127/B0132 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0133-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Tasha's adult imitation is partly a bid for Player praise, work and shared time, not merely cosmetic fashion; her hoped looks-to-work link remains unproved. | A:P0–23; B:P6–24; C:P47–58. No adult job obtained. |
+| `CL-B0133-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The Player's schoolbag-ad role concern is intelligible, but repeated child-role advice suppresses present agency until Miu enables a bounded, age-suitable conversation and lesson request. | A:P36–54; B:P6–24; C:P31–70. No adult-style assignment or completed lesson. |
+| `CL-B0133-003` | `BOUNDED_INFERENCE`; D1; high for limit | Comedic reactions do not establish advance consent to Tasha's touch of Mimi or a durable privacy response to Player's unannounced dorm entry. | A:P26–47. Mimi's later teasing and Player's apology are local. |
+| `CL-B0133-004` | `BOUNDED_INFERENCE`; D1; high for limit | Mutual apology and permission for Miu's lesson repair communication, not adulthood, new work, guaranteed manager attention or the more sexualized implication of Tasha's desired reaction. | C:P47–81. The requested lesson/result and any scheduling changes are unshown. |
+
+### AV-0080 — adult-model aspiration and selected speaker sprites
+
+- Questions/claims: whether native visuals show Tasha becoming adult, a completed makeup lesson, the clay object, body-contact consent or new work; `CL-B0133-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed voice, bodily interaction beyond dialogue, future job and safeguarding restrictions.
+- Selection: Tasha `adv_chara_135_01_01`, `135_01_03`; Mimi `126_01_01`; Miu `129_02_04`; Miwako `134_01_01`; Matsuri `138_01_04`. All 172 native pages and ten command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.35 binds six media receipts.
+- Observed: Tasha's two stills retain a blue outfit with altered expression/pose; older models and Matsuri are visually distinguishable. These stills show no adult transformation, makeup outcome, touch geometry, privacy practice or work assignment.
+- Native occurrence: command-only A:P24–25,55; B:P0,25,33; C:P0,77,80–81. Flash/shake/fade and subtitle cues mark transitions/surprise, not independent consent evidence.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred four dialogue-associated voice pages plus title cues, BGM/SFX and performed delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0133_CLOSE-20260926`: four bounded claims and one AV review; no puberty prescription, body-contact consent clearance, adultification approval, specialist or monograph promotion.
+
+## B0134 distributed craft, chosen weakness and mixed reception
+
+Owner and A/B/C locator key: [B0134](../02%20Readings/T7S_B0134_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.36. B0038/B0096 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0134-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Peer support frees Shisara's strengths but later exposes an avoided weak task; trying MC with Tomoe is chosen authorship, not a repudiation of collaboration or all-role mastery mandate. | A:P8–30; B:P11–25,41–63; C:P1–24. Tomoe's symptom limit remains. |
+| `CL-B0134-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | A deliberately matched comedy act does not make the planned punchline work; initial silence and later supportive laughter distinguish comic mechanism from audience encouragement. | B:P50–63; C:P23–56. No full crowd sample or delivered-audio analysis. |
+| `CL-B0134-003` | `BOUNDED_INFERENCE`; D1; high for limit | Player's overall positive live report and Shisara's specific failure judgment coexist because they evaluate different targets. | C:P36–75. Song and aggregate audience reaction unauditioned. |
+| `CL-B0134-004` | `BOUNDED_INFERENCE`; D1; high for limit | The first live's equipment interruption exposes improvisation but neither establishes Shisara's fault, a venue-wide power outage nor a tested contingency protocol. | A:P0–31; B:P1–25. Technical root cause unshown. |
+
+### AV-0081 — first-live and paired comedy presentation
+
+- Questions/claims: whether visuals prove technical failure root cause, successful joke delivery, crowd-wide reception, durable duo identity or song quality; `CL-B0134-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed songs/voice, complete audience and technical-cause restrictions.
+- Selection: Haru `adv_chara_003_06_15`; Tomoe `120_01_02`, `120_03_04`; Shisara `136_01_01`, `136_03_04`. All 174 native pages and 29 command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.36 binds five media receipts.
+- Observed: Tomoe/Shisara shift from ordinary presentation to coordinated polka-dot comedy suits; this supports a staged joint act but not a permanent registered unit. Static stills do not carry joke timing, performed song, outage engineering or whole-audience response.
+- Native occurrence: command-only A:P5–7,10,24–25,31; B:P0,10,26–27,30–31,35–36,39–40,48–49,63; C:P0,13,31–32,46,55–56,76–77. A dark/flash and sound-state changes mark failure/recovery; B slide/wipe states mark peer glimpses; C:P46 changes into duo costumes.
+- Outcome: `REVIEWED` for five selected static composites and all native page-state segmentation. One hundred eleven dialogue-associated voice pages plus title cues, BGM/SFX, live song and audience delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0134_CLOSE-20260926`: four bounded claims and one AV review; no lasting `ぼっちーず` unit, medical cure, technical-cause or crowd-metric verdict, specialist or monograph promotion.
+
+## B0135 pedagogy mismatch, reciprocal care and pre-event boundary
+
+Owner and A/B/C locator key: [B0135](../02%20Readings/T7S_B0135_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.37. B0132/B0133 and Jedah's earlier chosen-family state are bounded comparisons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0135-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Jedah's rhythm difficulty is a local teaching/uptake mismatch, not a verified national or intellectual incapacity: Hime varies syllables, Tasha counters the nationality hypothesis and younger peers provide bodily cues. | B:P1–35; C:P34–51. No universal music-learning law. |
+| `CL-B0135-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Adults' admiration of Jedah hides need for help; younger members reverse the usual care direction and Hime supplies material welcome, without proving full supervision or final proficiency. | A:P23–40; B:P11–40; C:P5–16,34–66. Event not witnessed. |
+| `CL-B0135-003` | `BOUNDED_INFERENCE`; D1; high for limit | Jedah's private hope to show her sister helps explain continued practice after withdrawal, but no sister reception, home demonstration or Holocon video occurs. | C:P21–33,67–78. Private motive not automatically known by peers. |
+| `CL-B0135-004` | `BOUNDED_INFERENCE`; D1; high for limit | Yukata and group declaration evidence preparation and renewed intention, not a completed festival dance or demonstrated technical success. | C:P52–78. Ending stops before event. |
+
+### AV-0082 — rehearsal sprites and pre-event yukata
+
+- Questions/claims: whether native visuals establish dance mastery, public event, sister's photograph contents or promised video; `CL-B0135-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed rhythm/dance, audience and future-footage restrictions.
+- Selection: Jedah `adv_chara_137_01_02`, `137_02_05`; Hime `006_01_04`; Manon `132_01_02`; Tasha `135_01_02`; Shirayuki `148_01_03`. All 163 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.37 binds six media receipts.
+- Observed: Jedah shifts from school-style clothes to a pink floral yukata; helpers are identifiable in their ordinary static sprites. No full public dance, complete movement, sister photo, spectator or Holocon footage appears in the selected stills.
+- Native occurrence: command-only A:P14–15,42; B:P0,26–27,40; C:P0,3–4,19–20,25,50–51,77–78. These carry scene/subtitle transitions around withdrawal, private practice, new teaching and pre-event assembly.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred sixteen dialogue-associated voice pages plus title cues, BGM/SFX and actual dance music/timing remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0135_CLOSE-20260926`: four bounded claims and one AV review; no universal nationality/rhythm finding, accomplished public stage, video, specialist or monograph promotion.
+
+## B0136 true gaze, false frame and unremedied boundary
+
+Owner and A/B/C locator key: [B0136](../02%20Readings/T7S_B0136_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.38. B0093/B0131/B0132 and B0098/B0133 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0136-001` | `BOUNDED_INFERENCE`; D1; high | Matsuri's perception of a watcher is supported by independent glimpse/capture and Yumeno's admission, while Momoka's secret-organization explanation has no such evidence. | A:P2–55,70–75; B:P46–52; C:P10–43. No second source or legal finding. |
+| `CL-B0136-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The game frame creates a real cost to Rona and uses Ayumu's ordinary observation as a false clue; Momoka's local apology does not stop the mission or erase Rona's fear. | A:P38–75; B:P1–52. No injury or actual weapon use inferred. |
+| `CL-B0136-003` | `BOUNDED_INFERENCE`; D1; high for limit | Yumeno's attraction after an ad explains uninvited following but does not supply Matsuri's consent, romance or a non-following agreement. | C:P17–55. Not a criminal-law conclusion or physical assault claim. |
+| `CL-B0136-004` | `BOUNDED_INFERENCE`; D1; high for limit | Matsuri/Momoka preserve the unsupported belief by treating Yumeno as a cover; comic continuation coincides with Yumeno continuing to follow and no clear protective closure. | C:P26–55. No independently verified organization. |
+
+### AV-0083 — agent role-play and watcher-reveal sprites
+
+- Questions/claims: whether visual states prove real weapons, a secret group, Yumeno's disguise, consent or actual bystander harm beyond dialogue; `CL-B0136-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed voice, real weapon/organization and long-term safety restrictions.
+- Selection: Matsuri `adv_chara_138_01_04`, `138_02_02`; Momoka `007_07_01`; Yumeno silhouette `133_03_01`, identified `133_01_02`; Rona `005_02_01`; Ayumu `122_03_01`; Musubi `004_01_10`. All 185 native pages and 31 command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.38 binds eight media receipts.
+- Observed: Matsuri/Momoka have camouflage and gun-like accessories in agent art, while the watcher first appears as a black silhouette and later as Yumeno. Static role-play art does not verify acquired real weapons, an organization or a separate silhouetted subject. Rona/Ayumu visuals identify the affected mall workers, not their complete encounter.
+- Native occurrence: command-only A:P0–1,9–12,57–59,70,72,74–75; B:P0,8,12–14,24,30–32,52; C:P0,4,24–25,49,51,54–55. Black slide/costume and reveal states organize imagined mission and watcher suspense.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred twenty-two dialogue-associated voice pages plus title cues, BGM/SFX and performed delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0136_CLOSE-20260926`: four bounded claims and one AV review; no legal stalking determination, actual weapon/organization, consent clearance, specialist or monograph promotion.
+
+## B0137 support without cost, relational craft and qualified return
+
+Owner and A/B/C locator key: [B0137](../02%20Readings/T7S_B0137_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.39. B0128/B0129/B0134 are bounded comparisons, not total i-n-g chronology; three months is an explicit within-chapter interval.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0137-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Sui's strong support of departure and hidden grief coexist; her words influence but do not replace Rishuri's initial decision, and later tears show the support was costly. | A:P19–71; B:P1–36. No effortless consent or secret wish for failure. |
+| `CL-B0137-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Rishuri's present best design practice is relational to Nanasta's wearers, so her self-chosen return need not cancel future design ambition or be payment to Sui. | A:P2–17,19–50; C:P15–60. Not a universal artists' rule or final career. |
+| `CL-B0137-003` | `BOUNDED_INFERENCE`; D1; high for limit | Employer request to stay corrects the impression of no external option, while Rishuri's dissatisfaction may be sincere; neither implies a guaranteed job nor maliciously false public speech. | C:P1–60. Exact terms and professional evaluation unknown. |
+| `CL-B0137-004` | `BOUNDED_INFERENCE`; D1; high for limit | Social `ただいま`/`おかえり` establishes welcome and current return intent, not observed next-day labor or settled long-term arrangement. | B:P38–43; C:P15–82. Cross-chapter chronology not inferred. |
+
+### AV-0084 — designer and friend sprites across departure/return
+
+- Questions/claims: whether selected stills prove employer offer, completed dresses, creative quality, tears' full duration, next-day reactivation or future career; `CL-B0137-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed show/music, employer terms and future work restrictions.
+- Selection: Rishuri `adv_chara_139_01_01`, `139_01_03`; Sui `009_03_05`, `009_03_12`; Rona `005_01_01`; Mimi `126_01_01`; Jedah `137_01_02`. All 199 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.39 binds seven media receipts.
+- Observed: Rishuri retains sewing-themed dress with changed expression; Sui's selected stills retain outfit with expression change, and other peers are identifiable. These do not show internship contract, full fashion-show garments, overseas workspace, all grief or actual resumed work.
+- Native occurrence: command-only A:P0–1,18,51,61,71; B:P0,31,37,43; C:P0,12,43,81–82. Transitions mark several-days, departure/private grief, stated three-month passage, show and return exchange.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred thirty-four dialogue-associated voice pages plus title cues, BGM/SFX and show performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0137_CLOSE-20260926`: four bounded claims and one AV review; no guaranteed top-designer path, confirmed employment offer, completed future Nanasta work, specialist or monograph promotion.
+
+## B0138 smile obligation, injury and patient care
+
+Owner and A/B/C locator key: [B0138](../02%20Readings/T7S_B0138_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.40. B0041 and B0011/B0023 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0138-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Saori's universal smile vocation burdens a grieving child's present expression; child's refusal revises care toward non-imposing availability without cancelling Saori's idol work. | A:P22–59; B:P17–42; C:P1–17. No immediate or guaranteed later cure. |
+| `CL-B0138-002` | `BOUNDED_INFERENCE`; D1; high for limit | Enjoyment after the light near miss and Saori's minimized cuts are not engineering or medical clearance; her resilience is no safe-work standard. | A:P2–20; B:P17–22. No root-cause/medical review shown. |
+| `CL-B0138-003` | `BOUNDED_INFERENCE`; D1; high for limit | Girl's voluntary return may open communication but is not an on-page Saori apology, reconciliation or end of dog grief; Sawara offers a choice, not a required smile. | C:P1–17,34–57. Final Saori line is broad audience greeting. |
+| `CL-B0138-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Sawara's gentle smile amid Saori's sadness and Saori's own effortful expression show a smile can coexist with complex feeling; Coney's reading is local, not diagnostic omniscience. | B:P17–39; C:P18–33. No universal mask theory. |
+
+### AV-0085 — Saori, Sawara and a non-individuated girl sprite
+
+- Questions/claims: whether native visuals show actual fall geometry, injury severity, a named/individualized child, grief resolution or completed backstage meeting; `CL-B0138-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed song, accident engineering/medicine and later reconciliation restrictions.
+- Selection: Saori `adv_chara_012_01_01`, `012_03_01`; Sawara `144_01_02`, `144_03_02`; Coney `002_03_03`; girl `022_01` (a one-layer, two-suffix asset). All 161 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing including the one-layer exception, and direct visual inspection, 2026-09-26; source-lock 12.40 binds six media receipts.
+- Observed: Saori/Sawara have ordinary/stage variants; the girl's image is a generic line-art placeholder, not a reliable likeness. No detailed fall, medical evaluation, complete grief expression or final meeting appears in selected stills.
+- Native occurrence: command-only A:P0–1,8–10,21,59; B:P0–1,42; C:P0,15–17,33,53,55–57. Early dark/shake/sound state accompanies reported stage trouble; later cuts separate reflection and return.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twelve dialogue-associated voice pages plus title cues, BGM/SFX and actual live performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0138_CLOSE-20260926`: four bounded claims and one AV review; no grief cure, safety clearance, individualized child portrait, completed reconciliation, specialist or monograph promotion.
+
+## B0139 child-led craft, covert care and requested comfort
+
+Owner and A/B/C locator key: [B0139](../02%20Readings/T7S_B0139_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.41. B0133/B0135 are bounded comparisons; 2043 SOL is a separate horizon, not the automatically continued 2034 quartet.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0139-001` | `BOUNDED_INFERENCE`; D1; high for limit | The under-twelve quartet is a real one-live coordinated formation with Shirayuki's accepted lead, while older peers remain offstage and later SOL identity/name/duration cannot be inferred. | A:P2–42; B:P1–37; C:P1–23. No full safety plan or permanent unit. |
+| `CL-B0139-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Shirayuki's refusal to excuse craft errors by age coexists with peers' refusal to make the leader solely responsible; pleasure and imperfection are distinct observations. | B:P22–37; C:P1–23. No performed-audio/crowd audit. |
+| `CL-B0139-003` | `BOUNDED_INFERENCE`; D1; high | The zashiki-warashi explanation is child-limited folklore for snacks that adults are shown providing; Shinju hints at an idol source, but no universal child disclosure or supernatural event follows. | B:P1–21,29–36. Exact donor distribution to every child unknown. |
+| `CL-B0139-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Hime's restraint of uninvited embraces and Shirayuki's later explicit hug/pat request distinguish agency-respecting adult care from denying comfort. | C:P24–59. No blanket contact permission. |
+
+### AV-0086 — child quartet and older-observer static states
+
+- Questions/claims: whether native visuals establish complete choreography, supernatural aid, exact snack placement, guardian-safety plan, actual hug geometry or future SOL continuity; `CL-B0139-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed song/dance/crowd, safety plan and long-horizon unit restrictions.
+- Selection: Shirayuki `adv_chara_148_01_01`, `148_01_03`; Shinju `014_01_05`; Manon `132_01_02`; Tasha `135_01_02`; Mimi `126_01_05`; Miwako `134_01_04`; Hime `006_01_19`. All 141 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.41 binds eight media receipts.
+- Observed: four younger performers and three older observers are distinguishable; Shirayuki's chosen stills change expression within the same costume. The static selection does not show full stage technique, literal zashiki-warashi, snacks, safety staffing or consent to touch.
+- Native occurrence: command-only A:P0–1,12,30,42; B:P0,12,19–21,28,37; C:P0,58–59. B:P19–21 separates donor knowledge from the child-side interpretation; final state ends after request/comfort comedy.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred fifteen dialogue-associated voice pages plus title cues, BGM/SFX and actual live performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0139_CLOSE-20260926`: four bounded claims and one AV review; no supernatural finding, named permanent child unit, SOL-equivalence, complete performance/safety certification, specialist or monograph promotion.
+
+## B0140 collaborative voice, fan attachment and bounded cover reception
+
+Owner and A/B/C locator key: [B0140](../02%20Readings/T7S_B0140_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.42. B0087/B0102/B0127 are bounded comparison horizons, not a total fictional sequence.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0140-001` | `BOUNDED_INFERENCE`; D1; high for limit | The 4U cover is Murasaki's mediated address to fans of her lonely voice: she presents changed collaborative artistry while explicitly preserving memory of prior solitude and those listeners. | B:P47–67; C:P1–18. Two voiced fans, no lyric/technical audit or universal conversion. |
+| `CL-B0140-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Ferb's arrangement, friends' preparation/gift and Murasaki's named introductions distribute the labor of a still-distinct lead voice rather than replacing her authorship. | A:P2–8; B:P11–41,47–67; C:P3–13. No equal-contribution or permanent lineup claim. |
+| `CL-B0140-003` | `BOUNDED_INFERENCE`; D1; high | The two fans hear continuity after the cover yet still wish to defend `Miss Purple`'s mystique; local reassurance and residual possessive expectation coexist. | A:P12–13,38–39; B:P45–67; C:P1–18,33–34. No settled future fan relation. |
+| `CL-B0140-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | Companions' sincere backstage work and their public disruption are both operative; Murasaki's correction and gratitude resist both blanket excuse and total dismissal. | A:P20–39; B:P11–41; C:P19–39. No verified changing-room offense, spirit event or completed review. |
+
+### AV-0087 — festival collaborators and omitted cover performance
+
+- Questions/claims: whether static native art certifies the performed cover, whole audience response, cat charm's efficacy, actual changing-room act, spirit or full stage choreography; `CL-B0140-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song/crowd/rights/supernatural restrictions.
+- Selection: Murasaki `adv_chara_149_01_03`, `149_01_04`; Ferb `127_02_01`; Yumeno `133_01_01`; Ei `131_01_03`; Rishuri `139_01_01`; Makoto `145_01_02`; Shirayuki `148_01_01`. All 153 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.42 binds eight media receipts.
+- Observed: the seven named collaborators are visually distinguishable in selected static designs; two Murasaki stills are close expression variants. No still contains the performed song, student-fan interiority, made charm, full crowd or literal spirit. Generic repeated `adv_chara_025_01` at A:P40 does not identify two fans.
+- Native occurrence: command-only A:P0–1,9–11,40; B:P0,7–10,42–44,68–69; C:P0,40–41. B:P68–69 fades after cover announcement and C:P0 begins post-song reactions; this is a performance gap, not access to sound.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred ten dialogue-associated voice pages plus title cues, BGM/SFX and the performed cover remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0140_CLOSE-20260926`: four bounded claims and one AV review; no universal fan acceptance, complete music verdict, spirit confirmation, rights determination, specialist or monograph promotion.
+
+## B0141 Makoto's new audience pleasure and overextended assurance
+
+Owner and A/B/C locator key: [B0141](../02%20Readings/T7S_B0141_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.43. B0103's uncertain dream onset is retained as a separate presentation frame, not projected onto this chapter.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0141-001` | `BOUNDED_INFERENCE`; D1; high | Makoto's stated reason for withdrawal is guilt over enjoying fans/peers, not an evidenced new offense by Player; office blame preceded her explanation. | A:P8–30,33–48; B:P9–20. Earlier/future manager boundaries remain separate. |
+| `CL-B0141-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sumire offers non-zero-sum regard while Makoto transforms it into omnipresent ownership; Sumire's explicit stop keeps reassurance distinct from endorsement. | B:P20–39. No literal world-filling Player or agreed possession. |
+| `CL-B0141-003` | `BOUNDED_INFERENCE`; D1; high | Personalized lunch and note establish peer-directed gratitude to Sumire even as Makoto's possessive preface and renewed messaging keep exclusivity unresolved. | B:P1–8,20–39; C:P21–39. No completed cure or merely instrumental gift. |
+| `CL-B0141-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | The office's welcome of enlarged contact and Player's final fear are momentary, differing reactions; neither forms a sustained manager–performer contact/consent policy. | A:P8–30; C:P11–20,39–56. No rest audit or future boundary. |
+
+### AV-0088 — expressive variants and character-bento object
+
+- Questions/claims: whether selected visuals verify literal Player omnipresence, clinical change, actual sleep/contact volume, permanent Sumire conversion, bento coercion or a dream boundary; `CL-B0141-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for voice, mental state, contact policy and dream-frame restrictions.
+- Selection: Sumire `adv_chara_008_01_11`, `008_01_13`; Makoto `145_01_03`, `145_01_02`; Haru `003_02_10`; Yumeno `133_05_05`; Coney `002_03_08`; lunch object `adv_obj_0112`. All 147 native pages and twenty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.43 binds eight media receipts.
+- Observed: selected Makoto/Sumire expressions differ, and the pink-box lunch depicts a face matching the spoken character-bento reveal. Neither facial art nor object diagnoses Makoto, establishes literal possession or proves Sumire's future behavior.
+- Native occurrence: command-only A:P0–1,31–32,46,49; B:P0,30,32,34,37,39; C:P0,7,9–10,27,41,46,55–56. B:P30–39 transitions during world language; C:P29–41 holds lunch object around the reveal. Effects do not make the metaphor literal.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred eight dialogue-associated voice pages plus title cues, BGM/SFX and animated effect performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0141_CLOSE-20260926`: four bounded claims and one AV review; no diagnosis, literal omnipresence, blanket consent, dream-frame import, specialist or monograph promotion.
+
+## B0142 debt refusal, labor boundary and reciprocal world-opening
+
+Owner and A/B/C locator key: [B0142](../02%20Readings/T7S_B0142_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.44. B0102 supplies a separate labor-strain comparison, not a proven staffing outcome here.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0142-001` | `BOUNDED_INFERENCE`; D1; high | Scarce-book acquisition follows Kazumi's chosen work path after Chacha cannot discount, Nanastar cannot advance pay and Kazumi declines debt; exact economic terms remain unknown. | A:P19–63; C:P37–40. No budget or wage arithmetic. |
+| `CL-B0142-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kazumi's quotation helps her leave a customer's appearance-based drink request, but Murasaki has already protected her assigned back-of-house boundary; cleverness is not a prerequisite to that protection. | B:P24–53. No quote author, legal ruling or permanent protocol. |
+| `CL-B0142-003` | `BOUNDED_INFERENCE`; D1; high | Kazumi's high valuation of unfamiliar work and Murasaki's reciprocal book request show widening interests without either abandoning an established practice. | C:P26–50. No actual recommendation/read book or reading renunciation. |
+| `CL-B0142-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate | The family bar reveals Murasaki's practiced labor as well as her singing; mutual appreciation does not prove that a new worker removed cost, staffing strain or performance uncertainty. | B:P2–35; C:P1–35; separate B0102. No hours/pay/rest or sound audit. |
+
+### AV-0089 — bar facade, role silhouettes and Kazumi/Murasaki stills
+
+- Questions/claims: whether visual stills certify labor terms, customer's conduct beyond dialogue, actual poured drink, quoted author, song performance, mother/patron individualized likeness or long-term reading shift; `CL-B0142-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song, labor terms, rights/legality and future habit restrictions.
+- Selection: Kazumi `adv_chara_146_01_01`, `146_01_02`; Murasaki `149_01_01`; Chacha `128_01_01`; Honoka `124_01_01`; mother generic `037_01`; regular generic `027_01`; `EZ Bar` facade `adv_obj_0078`. All 172 native pages and twenty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.44 binds eight media receipts.
+- Observed: Kazumi/Murasaki/Chacha/Honoka are distinguishable; `037_01` and `027_01` are generic line-art woman/man placeholders, not individualized portraits. Bar facade reads `EZ Bar` but cannot disclose employment conditions or music.
+- Native occurrence: command-only A:P0–1,64; B:P0–1,8–10,22–23,28,34–35,50,53; C:P0,24–25,36,51–52. B:P23–24 foregrounds facade; C:P24–26 cuts across announced song and C:P36–37 shifts to later book exchange.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. One hundred seventeen dialogue-associated voice pages plus title cues, BGM/SFX and the bar song remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0142_CLOSE-20260926`: four bounded claims and one AV review; no quote attribution, legal/workplace certification, exact acquisition economics, song verdict, specialist or monograph promotion.
+
+## B0143 chosen role, mixed training and consent/role-control limits
+
+Owner and A/B/C locator key: [B0143](../02%20Readings/T7S_B0143_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.45. Xiao's prior training cases are separate comparisons, not a dated developmental sequence.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0143-001` | `BOUNDED_INFERENCE`; D1; high for limit | Xiao chooses the provocative lead after an offered refusal, but this does not establish complete age/intimacy safeguards or a pressure-free production negotiation. | A:P9–30; C:P13–24. No contract, guardian review or shoot protocol. |
+| `CL-B0143-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The three peers' posing, responsive timing and stealth lessons help Xiao form a stage method but do not constitute a coherent, safe professional curriculum; her misnamed honey trap ignores a tap-out. | B:P1–38; C:P1–10. No actual assassination/injury judgment. |
+| `CL-B0143-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for boundary | Player's explicit objections to neck restraint/ear-breathing are not erased by his subsequent blush or praise of Xiao's acting appearance. | B:P33–38; C:P25–40. No blanket touch consent or proved physical harm. |
+| `CL-B0143-004` | `BOUNDED_INFERENCE`; D1; high | Local shoot praise and later Xiao distress assess different things; observers' attraction guesses do not settle what Xiao herself says she cannot understand. | C:P13–59. No finished-film verdict, diagnosis or mutual romance. |
+
+### AV-0090 — Xiao role-expression stills and film/physical-action gap
+
+- Questions/claims: whether static art verifies filmed seduction, contact geometry, injury, performed vocal shift, complete movie, role safeguards or true cause of Xiao's heartbeat; `CL-B0143-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for film, contact, minor-role safety, voice and affect restrictions.
+- Selection: Xiao `adv_chara_147_01_01`, `147_01_03`, `147_01_04`, `147_01_05`; Susu `011_01_08`; Miu `129_02_03`; Makoto `145_01_02`; generic director `040_01`. All 133 native pages and twenty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.45 binds eight media receipts.
+- Observed: Xiao has one costume and several static expression variants; Susu/Miu/Makoto are distinct. Director is a line-art role placeholder. Nothing in selected stills proves force, injury, consent, spoken tone or a completed filmed scene.
+- Native occurrence: command-only A:P0–1,31; B:P0,6–7,12–13,18–19,23–24,27–28,31–32,38; C:P0,11–12,46,60–61. Montage transitions divide informal lessons; later shift separates shoot and comfort scenes.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. Seventy-nine dialogue-associated voice pages plus title cues, BGM/SFX, motion and film material remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0143_CLOSE-20260926`: four bounded claims and one AV review; no minor-production safeguard clearance, injury finding, blanket contact consent, romance verdict, specialist or monograph promotion.
+
+## B0144 dream/wake, bounded availability and stage-readiness
+
+Owner and A/B/C locator key: [B0144](../02%20Readings/T7S_B0144_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.46. Native `EPISODE.3.5-001` is i-n-g3 within the admitted portfolio, not evidence of a total fictional interval from prior i-n-g2 case.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0144-001` | `BOUNDED_INFERENCE`; D1; high | Late-stage panic is marked as dream; real equipment delay releases time for ordinary peer encounters without an actual missed live. | A:P4–59; B:P1–84; C:P1–53. Later live result unshown. |
+| `CL-B0144-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Affiliation remains present across separate schedules: Shizuka explores, Hime shops, sisters collect Kajika and Musubi walks with Haru. Departures are not rejection or proof of universal availability. | A:P44–91; B:P1–84; C:P1–15. No general calendar audit. |
+| `CL-B0144-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Musubi's shared-cleaning principle and Haru's readiness expose backstage infrastructure as collective work; costume care and stage repair do not remove maintenance, cleaning or rest questions. | A:P30–43; C:P17–29,42–65. No enacted cleanup/safety clearance. |
+| `CL-B0144-004` | `BOUNDED_INFERENCE`; D1; high for presentation/limit | Same costume body appears in Haru's explicit dream and later waking outfit, supporting a visual echo; no source explains the match or verifies her speculative `seventh ability`. | A:P4–21; C:P57–94. Dream fitting is not prior waking fitting; no mechanism. |
+
+### AV-0091 — costume echo and everyday-object states
+
+- Questions/claims: whether native visuals establish actual missed show, psychic mechanism, purchases, frog taxonomy, completed cleaning, song/audience or future stages; `CL-B0144-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for dream mechanism, transactions, performance and future schedule restrictions.
+- Selection: Haru schoolwear `adv_chara_003_01_15`, dream outfit `003_09_04`, later outfit `003_09_05`; Shizuka `010_01_02`; Hime `006_01_05`; Shinju `014_01_06`; Sawara `012_01_01`; Musubi `004_01_17`; facade `adv_obj_0150`, tofu memo `0151`, cat pen `0152`. All 276 native pages and forty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.46 binds eleven media receipts.
+- Observed: dream and later stage Haru share `003_09` costume body with different facial states. `7 MART`, tofu pad and pen are exact product/facade appearances, not purchase receipts. No selected frog asset, equipment failure mechanism, song or crowd.
+- Native occurrence: command-only A:P0–3,8,22–25,30,53–55,92; B:P0,27,41–44,85; C:P0,2,6–8,38–41,49,54–56,79–82,90,94–96. Dream/wake and final costume/stage are distinct presentation segments; C ends before actual song.
+- Outcome: `REVIEWED` for eleven selected static resources and all native page-state segmentation. One hundred ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and the scheduled live remain unauditioned/unshown and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0144_CLOSE-20260926`: four bounded claims and one AV review; no proven psychic power, itemized purchase, completed cleaning, show verdict, future schedule, specialist or monograph promotion.
+
+## B0145 self-authorship, fan address and the unclosed council decision
+
+Owner and A/B/C locator key: [B0145](../02%20Readings/T7S_B0145_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.47. Native `EPISODE.3.5-002` is admitted i-n-g3, not proof of a total elapsed interval from B0144.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0145-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | “Your story” permits Musubi's choice, but her first response turns autonomy into solitary perfection and council exit; later feedback restores relational attention without canceling her will. | A:P32–93; B:P32–41,93–154; C:P103–125. Not a mandate to stay president or train harder. |
+| `CL-B0145-002` | `BOUNDED_INFERENCE`; D1; high | Polished technique and empty represented reception coexist; Musubi's unremembered audience faces and club president's critique locate a fan-address gap, not proved talentlessness. | B:P84–154,181–185; C:P1–49. Technical singing remains attributed/unheard; severe dismissal is one fan's judgment. |
+| `CL-B0145-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Council testimony makes hidden effort and occasional illness legible; schoolwide help offers a different labor distribution but does not yet implement one or cure overload. | C:P70–125. Musubi voices inability to concentrate; choice explicitly reserved to her. |
+| `CL-B0145-004` | `BOUNDED_INFERENCE`; D1; high for cut/limit, moderate-high for social implication | Later live's president address strongly implies social continuation and the crowd exchange is livelier, but the speech cuts before Musubi's answer and no formal vote/term is shown. | C:P123–168. Neither definitive resignation nor certified re-election follows. |
+| `CL-B0145-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | The better live does not complete self-search: Coney explicitly says Musubi will keep learning about herself daily. | C:P52–59,148–168. The announced first song is not heard/reviewed. |
+
+### AV-0092 — Musubi's role/stage sprite states and unreviewed performance
+
+- Questions/claims: whether native states establish distinct rehearsal/school/live settings, individualized critic/council likenesses, performed-song quality, formal election completion or a health/workload cure; `CL-B0145-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for audio, institutional and future-work restrictions.
+- Selection: Musubi school `adv_chara_004_01_22`, training `004_06_22`, live `004_04_08`; Susu training `011_05_05`; Shizuka school `010_01_09`; Coney `002_03_01`; generic female role states `026_01`, `025_01`; Haru school `003_02_08`. All 450 native pages and sixty-five command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.47 binds nine media receipts.
+- Observed: Musubi's outfits visibly partition school/training/live; unnamed school-role drawings are generic and cannot be promoted to unique named portraits. Later audience exchange is staged text/sprite state, not heard music or a ballot.
+- Native occurrence: command-only A:P0,16,23–24,28–31,48–51,94; B:P0,20,56–59,63–66,69,80–83,89–92,102–103,107–108,115–117,121–122,126,142,155–158,185; C:P0,18–21,25–26,60–63,69,129–132,168. C:P167 announces the first song and C:P168 closes with command/voice state.
+- Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred twenty dialogue-associated voice pages plus BGM/SFX and performed music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0145_CLOSE-20260926`: five bounded claims and one AV review; no formal office certification, executed workload redistribution, clinical inference, completed identity, specialist or monograph promotion.
+
+## B0146 noncopying inspiration, child choice and Rona's next horizon
+
+Owner and A/B/C locator key: [B0146](../02%20Readings/T7S_B0146_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.48. B0004/B0108 are bounded comparison horizons, not full i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0146-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Nicole's example enabled Rona and Rona's example enables girl, but Rona explicitly rejects exact Nicole/Rona copying as the goal. Inspiration passes on through difference. | B:P6–19; C:P55–75,119–127. Nicole influence remains affirmed. |
+| `CL-B0146-002` | `BOUNDED_INFERENCE`; D1; high for limit | Girl may withdraw from planned event and later choose to try again; park start precedes explicit affirmative assent, so subsequent participation and success do not erase consent/public-safety questions. | B:P95–107; C:P1–107. No guardian, permit or child-performance procedure shown. |
+| `CL-B0146-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Rona's courage message rests on many material supports—lessons, peers, costume, planning and office labor—and cannot be generalized into a courage-only or one-week transformation formula. | B:P21–94; C:P76–107. Coney's quick-plan assertion is comic. |
+| `CL-B0146-004` | `BOUNDED_INFERENCE`; D1; high | Later amateur appearance and rejected scout offer are distinct; family relocation is planned, but no move or future idol career is witnessed. | C:P108–120. Success does not create Nanastar membership. |
+| `CL-B0146-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Mentoring girl lets Rona name a new goal beyond having attained her Nicole-inspired debut: giving courage widely through future lives. | C:P119–144. Ambition is voiced, not quantified social effect or permanent confidence. |
+
+### AV-0093 — Rona's roles and the trainee's generic silhouette
+
+- Questions/claims: whether native images individualize girl, show consent/guardian/venue clearance, certify song quality, or document a new Nanastar member; `CL-B0146-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed music, child/venue safeguards and future outcome restrictions.
+- Selection: Rona stage `adv_chara_005_07_01`, ordinary `005_01_04` and park `005_01_01`; trainee generic `023_01`; Coney `002_07_01`; Haru stage `003_06_04`; Kajika stage `013_03_01`; Musubi school `004_01_05`. All 317 native pages and forty-four command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.48 binds eight media receipts.
+- Observed: Rona has scene-distinct stage and ordinary states; `023_01` is a generic pigtail line-art role icon, not a named/aged/unique portrait or link to B0138 child. No still certifies the park sound, consent process, permit or later contest song.
+- Native occurrence: command-only A:P0–1,16–19,63; B:P0,48–49,51,57–58,61–62,68–71,75,88–90,95,107; C:P0,6–7,9–10,27,38–41,79–81,104–107,140,144. Park music/slide states at C:P79–81,104–107 and later-report cut at C:P107 do not equal listened performances.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. One hundred ninety-five dialogue-associated voice pages plus title cues, BGM/SFX and actual performed music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0146_CLOSE-20260926`: five bounded claims and one AV review; no exact-copy mandate, child-care/venue clearance, new idol member, technical song certification, specialist or monograph promotion.
+
+## B0147 role expansion, false kinship and bounded protective action
+
+Owner and A/B/C locator key: [B0147](../02%20Readings/T7S_B0147_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.49. B0005/B0109 are bounded comparisons, not complete i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0147-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Hime adds formal dress/dance to her repertoire without discarding tofu-shop labor, forceful speech or protective initiative; authenticity is not confined to either elite or casual presentation. | A:P88–157; B:P23–52,97–105; C:P36–128. Formal training has costs and is not universally required. |
+| `CL-B0147-002` | `BOUNDED_INFERENCE`; D1; high for status/limit | Shizuka's real joy and Hime's care coexist with fabricated cousin entry, training pressure and an undisclosed Player surprise; acceptance at the party does not establish real kinship or unrestricted consent. | A:P36–137; B:P23–35,67–92. Guests' belief is not genealogical evidence. |
+| `CL-B0147-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Player's misrecognition hurts Hime even while his eventual praise recognizes her previously unseen capacity; the final dance requests recognition of the same Hime in a new style. | B:P80–135; C:P95–128. No romantic confession or erased hurt. |
+| `CL-B0147-004` | `BOUNDED_INFERENCE`; D1; high for limit | Camera-bearing intruder is confronted and chased, but camera contents, injuries, custody and security disposition are unshown; Hime's protective intent is not itself an approved risk procedure. | C:P10–80. Comic victory does not certify incident closure. |
+| `CL-B0147-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Mother-directed promise and father's remembered ballroom image lend meaning to Hime's chosen escort/dance without turning an absent mother into current authority or proving romance. | A:P10–18,142–157; C:P109–128. Maternal response cannot be observed. |
+
+### AV-0094 — Hime's continuous dress and changed hair presentation
+
+- Questions/claims: whether native states distinguish new Hime identity from presentation, show mother's portrait, prove Kuonji kinship, reveal camera contents or certify injury/security outcome; `CL-B0147-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for voice/music, kinship, maternal perspective and incident disposition limits.
+- Selection: Hime school `adv_chara_006_01_01`, long-wig party `006_07_01`, chase `006_06_01`, short-hair party `006_08_01`; Shizuka party `010_04_01`; Coney training `002_12_01`; father `028_01`, brother `029_01`, sister `030_01`; guest `038_01`; intruder `041_01`; tofu-shop foreground `adv_obj_0008`; Sui school `009_03_01`. All 425 native pages and eighty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.49 binds thirteen media receipts.
+- Observed: long wig and short hair attach to same Hime dress/body presentation; role characters are generic line art. `adv_obj_0008` is tofu shop facade, not inspectable mother portrait. Camera sprite indicates carried apparatus, not photo contents or completed custody.
+- Native occurrence: command-only A:P0–2,13,20–22,26,75–77,84–87,97,99,102–105,118–121,138–141,158; B:P0–1,11–14,20,36–38,53–55,94–96,136; C:P0,9,21–24,26–28,30–32,34,40,42,44–47,53–56,58–60,67–68,72,74–75,78,83,94,120,128. B's party cuts and C's chase/wig states separate location and appearance without forensic aftermath.
+- Outcome: `REVIEWED` for thirteen selected static resources and all native page-state segmentation. Two hundred fifty-four dialogue-associated voice pages plus title cues, BGM/SFX and actual dance music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0147_CLOSE-20260926`: five bounded claims and one AV review; no real cousin, incident clearance, romantic certification, specialist or monograph promotion.
+
+## B0148 nonwork paradox, clinical risk and non-advice boundary
+
+Owner and A/B/C locator key: [B0148](../02%20Readings/T7S_B0148_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.50. Native future-market dialogue is not a current legal/financial authority.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0148-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Momoka's proposed escape from idol labor becomes screen labor severe enough to crowd out food/sleep; Sawara's argument works by Momoka's own goal. | A:P2–28,84–121; B:P1–76; C:P1–111. Clinician-stated collapse remains real, not mere gag. |
+| `CL-B0148-002` | `BOUNDED_INFERENCE`; D1; high for limit | Rapid market vocabulary/client explanation does not verify portfolio return, predictive skill, sponsor legitimacy or suitability; investment and CM facts remain unverified character reports. | A:P65–113; B:P1–75; C:P116–120. No statements or diligence file. |
+| `CL-B0148-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Doctor initially blames idol agency without trade details; Momoka reports self-directed screen/meal neglect, while minor-performer monitoring and rest still require attention. | C:P1–81. Neither total agency blame nor total absolution is shown. |
+| `CL-B0148-004` | `BOUNDED_INFERENCE`; D1; high | Reported exit/spent proceeds has no audited amount or profit; cast's insider/stock-work examples are fictional dialogue, not a categorical real-world legal rule. | A:P36–70,84–113; C:P116–139. No law or financial guidance promoted. |
+| `CL-B0148-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Final illness-based job avoidance is comic bargaining using a genuine prior collapse; it neither proves recovery nor establishes accepted reduced workload/equal pay. | C:P116–139. CM remains proposed. |
+
+### AV-0095 — Holocom and generic clinical presentation
+
+- Questions/claims: whether native visuals show actual prices, trade receipts, clinical chart, work contract or recovery; `CL-B0148-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for market/legal, medical follow-up and sponsor-contract restrictions.
+- Selection: Momoka `adv_chara_007_02_01`, `007_01_01`; Musubi `004_01_06`; Sumire `008_01_01`; Sawara `012_01_01`; Kajika `013_01_01`; Shinju `014_01_01`; clinician role `027_01`; Holocom `adv_obj_0027`. All 339 native pages and thirty-eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.50 binds nine media receipts.
+- Observed: Momoka has two ordinary outfit/face states, not a second identity; Holocom prop is a generic device, not a legible brokerage or medical record. Clinician is non-individuated line art.
+- Native occurrence: command-only A:P0–1,14,64,72,80–83,104,114,121; B:P0,41,71,76; C:P0,8–10,22,29–31,36,43–46,72–75,112–115,139. Office/hospital/later-day transitions do not establish specific trades or recovery.
+- Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and clinical/market primary records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0148_CLOSE-20260926`: five bounded claims and one AV review; no investment/legal prescription, profit audit, sponsor clearance, medical recovery, specialist or monograph promotion.
+
+## B0149 manager presence, self-authored stage motive and omitted confession
+
+Owner and A/B/C locator key: [B0149](../02%20Readings/T7S_B0149_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.51. B0007 is a bounded comparison, not a complete fictional timeline.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0149-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Player's ambition creates solo opportunity but remote production labor does not supply the feedback/presence Sumire asks for; his busyness and her unmet need remain jointly true. | A:P21–84; B:P2–128. No full managerial calendar audit. |
+| `CL-B0149-002` | `BOUNDED_INFERENCE`; D1; high for limit | Fragmentary accident news and Sumire's acute inability to rise are staged, but neither injury severity nor a diagnosis of her temporary weakness is available; later performance cannot erase that uncertainty. | C:P20–128. Coney's pause is local, not universal crisis policy. |
+| `CL-B0149-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sumire finds a stage reason by joining her own wish to shine with the Player's previously admired forward dream, not by merely obeying his growth assignment or forgetting fear. | B:P95–128; C:P84–152,184–203. Seven Sisters comparison remains unproven. |
+| `CL-B0149-004` | `BOUNDED_INFERENCE`; D1; high | Solo show occurs across cut; Player's streamed praise and Sumire's account do not provide listened song/audience audit, medical chart or complete operational aftermath. | C:P116–180. No technical superiority or injury resolution certified. |
+| `CL-B0149-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sumire's unfinished “then…” and request that he watch her carry intimacy, but neither Coney's joke nor Player's confused response constitutes an explicit romance confession. | A:P31–56; C:P184–203. Omitted words stay unknown. |
+
+### AV-0096 — Sumire's prior stage and solo-day states
+
+- Questions/claims: whether static assets show performed solo, audience verdict, Player injury details, a concrete confession or future comparison to Seven Sisters; `CL-B0149-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song, injury and unstated relationship restrictions.
+- Selection: Sumire earlier stage `adv_chara_008_05_02`, ordinary `008_01_08`, solo-day `008_07_01`; Coney `002_03_01`; Haru stage `003_06_04`; Hime stage `006_03_01`; Rona stage `005_07_01`; generic clinical role `027_01`. All 420 native pages and seventy-nine command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.51 binds eight media receipts.
+- Observed: Sumire's stage/ordinary/solo-day bodies remain one subject; selected costume indicates preparation, not heard performed solo. The generic clinical silhouette supplies no injury mechanism or diagnosis.
+- Native occurrence: command-only A:P3–6,18–20,38–41,62–65,85; B:P0–1,12,14–17,45–48,52–55,59–62,67–70,74–77,115–118,127,129; C:P0,19,49,51–54,80–83,101,106,111–115,124–128,133,153–156,167,203. C:P124–133 cuts from backstage/decision to hospital; no inline movie/performed song in admitted set.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. Two hundred eighty-seven dialogue-associated voice pages plus title cues, BGM/SFX and actual solo performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0149_CLOSE-20260926`: five bounded claims and one AV review; no song certification, clinical diagnosis, explicit romance, specialist or monograph promotion.
+
+## B0150 youth mentorship, date framing and privacy
+
+Owner and A/B/C locator key: [B0150](../02%20Readings/T7S_B0150_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.52. B0008 is a bounded Sui comparison, not gender-finality authority.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0150-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sui and Masaru move from idol challenge to reciprocal respect; first place and missed personal best coexist, while Sui values effort and Masaru names fandom. | A:P101–193; C:P70–102. No official timing or result-never-matters doctrine. |
+| `CL-B0150-002` | `BOUNDED_INFERENCE`; D1; high for limit | Reward “date” is shared recreation between older coach and schoolboy; neither title, secret-idol joke nor clothing establishes adult romance or relationship status. | A:P174–204; B:P1–83; C:P2–116. Age/power/safety boundaries remain. |
+| `CL-B0150-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Shinju's mutual-interest question corrects adult-cost/gender templates; Sui's escorting “lady” and peers' “buddy” jokes leave her prince/gender self-definition open. | B:P1–83; C:P117–149. No normative reversal. |
+| `CL-B0150-004` | `BOUNDED_INFERENCE`; D1; high | Timed improvements and reported meet win do not certify professional coaching, guardian consent, safe training volume, pool supervision or official meet results. | A:P64–173; C:P2–69. No child-athlete protocol shown. |
+| `CL-B0150-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Two secret followings give peers unconsented access to Sui/Masaru; final joking flight does not cancel Sui's explicit protest or the child's privacy interest. | A:P32–100; C:P2–15,108–149. No repair shown. |
+
+### AV-0097 — Sui outfit states and generic Masaru role icons
+
+- Questions/claims: whether native art individuates Masaru, proves exact age/meet timing, certifies aquatic safety or resolves romance/gender/privacy; `CL-B0150-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for child-sport/guardian, privacy and future relationship restrictions.
+- Selection: Sui school `adv_chara_009_03_01`, swim `009_04_01`, outing casual `009_08_01`; Masaru generic ordinary `042_01` and swim-flashback `043_01`; Susu `011_01_01`; Shinju `014_01_01`; Sumire `008_01_01`; Shizuka `010_01_01`; Momoka `007_02_01`; Kajika `013_01_01`. All 439 native pages and eighty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.52 binds eleven media receipts.
+- Observed: Sui's school/swim/casual outfit states retain one person; Masaru's two one-layer line-art variants are generic and cannot identify age or separate boys. Outing art cannot establish permission, supervision or private romance.
+- Native occurrence: command-only A:P2–3,12–13,28–31,39,51–54,73–76,97–100,110,115–117,123–125,130,141–142,144–145,148,172–173,175–176,178,194–197,204; B:P0,19–22,32–35,53–56,83; C:P0–1,12–15,33–36,45–48,61–64,113–116,149. A flashback and C scene cuts distinguish narrated antecedent from outing.
+- Outcome: `REVIEWED` for eleven selected static resources and all native page-state segmentation. Two hundred ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and exact performance/meet records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0150_CLOSE-20260926`: five bounded claims and one AV review; no official meet certification, age precision, athletic clearance, adult romance, gender-finality claim, specialist or monograph promotion.
+
+## B0151 name, conditional access and reciprocal group agency
+
+Owner and A/B/C locator key: [B0151](../02%20Readings/T7S_B0151_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.53. B0009 is a bounded household/identity comparison; B0054 is not equated with the unnamed television sponsor.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0151-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | A chief's reported rival-advertising premise uses sponsor leverage to exclude the whole group; Shizuka's care responds to but does not cause this commercial condition. | B:P22–49,95–111; C:P148–152. No direct chief testimony or contract; later fan call does not normalize first demand. |
+| `CL-B0151-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Shizuka can propose temporary retreat and still belong, but cannot presume what peers want; Haru's question enables reciprocal answer rather than cancelling her agency. | B:P84–123; C:P1–19,98–134. Both compulsory sacrifice and compulsory performance are rejected. |
+| `CL-B0151-003` | `BOUNDED_INFERENCE`; D1; high | Illness cover and earlier evasion create false self-blame and deny group informed participation; successful reunion does not retroactively authorize the cover. | B:P1–19; C:P23–45,77–84,158–162. No health disclosure consent or full repair shown. |
+| `CL-B0151-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kuonji name shifts from sponsor's market sign to viewers' name for missing Shizuka and her personal first-person wish, without a renunciation of Kuonji identity. | A:P2–18; B:P26–30; C:P18–19,50–73,87–134,153–167. Dialogue, not costume alone, anchors inference. |
+| `CL-B0151-005` | `BOUNDED_INFERENCE`; D1; high | Reported sponsor approval and a celebrated live settle this episode's booking dispute only; performance metrics, contracts and durable future access remain unknown. | C:P95–152,168–177. No audited complete song or sponsor-policy reversal. |
+
+### AV-0098 — Shizuka's staged return and generic production icon
+
+- Questions/claims: whether stage costume individuates a new Shizuka, whether generic production art identifies the sponsor, whether art/performance alone proves a consent or contract remedy; `CL-B0151-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for unreviewed performed audio, full broadcast, contract, ratings and future bookings.
+- Selection: Shizuka school/formal `adv_chara_010_01_01` and `_09`, stage `010_02_10`; Coney `002_03_01` and `_05_03`; Haru stage `003_06_10` and `_05`; Sawara stage `012_03_01`; generic `040_01`. All 374 native pages and forty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.53 binds nine media receipts.
+- Observed: Shizuka retains recognizable presentation across school and stage; costume supports physical studio presence, not a new identity. Haru's expression states mark public insistence. Generic production-role figure does not identify the sponsor or chief.
+- Native occurrence: command-only A:P0–1,28–30,57–59,69; B:P0,20–21,50–51,58–60,67–70,80–83,124; C:P0,20–22,46–49,74–76,87,135–138,178. The C transitions separate viewer support, on-air confrontation and aftermath.
+- Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred fifty-five dialogue-associated voice pages plus title cues, BGM/SFX, complete sung performance, sponsor contract and broadcast metrics remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0151_CLOSE-20260926`: five bounded claims and one AV review; no verified sponsor identity, permanent market-access resolution, measured broadcast success, specialist or monograph promotion.
+
+## B0152 audition, belonging and bounded vulnerability
+
+Owner and A/B/C locator key: [B0152](../02%20Readings/T7S_B0152_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.54. The native title's “principal” pun does not prove an advertised principal-dancer position.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0152-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Susu's principle is choosing to test a serious skill before deciding a hypothetical company/idol conflict; she neither pre-quits nor receives a dual-affiliation solution. | A:P9–47; B:P37–81; C:P49–60. No offer or contract. |
+| `CL-B0152-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Applicants police foreign/idol belonging without knowing Susu's practice; peer messages help her return attention to dancing, not guarantee selection. | C:P16–60,80–96. Rejection does not validate stereotypes; judge reasoning absent. |
+| `CL-B0152-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Public pride and private tears are compatible audience-specific presentations of a genuinely disappointing outcome. | C:P80–118,124–160. Neither presentation voids the other. |
+| `CL-B0152-004` | `BOUNDED_INFERENCE`; D1; high | Peer support does not certify safe five-hour training, extra laps, week-long sweet restriction or rights to an asleep fourteen-year-old's photo. | B:P1–10,85–137. No medical, nutrition, guardian or image-release evidence; no actual photo sale shown. |
+| `CL-B0152-005` | `BOUNDED_INFERENCE`; D1; high | Susu chooses solo attendance and bounded private grief, but the embrace/flirtation with an adult manager is not adult romance or a waiver of professional boundaries; she clarifies her invitation is to watch ballet. | B:P130–137; C:P1–16,124–164. Age/role asymmetry and unshown safeguards remain. |
+
+### AV-0099 — audition notice, holocom and Susu costume states
+
+- Questions/claims: whether the notice establishes exact selection terms, art establishes actual dance quality, tutu defines a relationship, or the holocom supplies a complete communications record; `CL-B0152-001`–`005`.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for performed ballet/audio, scoring, health/nutrition and minor-manager boundary restrictions.
+- Selection: Susu casual `adv_chara_011_01_06`, training suit `011_05_15`, practice dress `011_06_08`, ornate tutu expressions `011_07_10`/`_06`; Musubi athletic `004_06_06`, Haru school `003_02_10`, Sawara casual `012_01_06`; special-audition notice `adv_obj_0153`, holocom `adv_obj_0027`. All 353 native pages and fifty-eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.54 binds ten media receipts.
+- Observed: Susu's clothing and expression shift across training, audition and private scene while identity remains continuous. Notice confirms an audition graphic, not signed terms. Holocom depicts message/call mediation, not external score. Costume does not make ballet performance or romance visible.
+- Native occurrence: command-only A:P0,15–16,48; B:P0,12,16–19,51–53,74,82–85,90–92,98–101,112–115,138; C:P0,7,12–15,21–25,40,61–64,73,79,113–115,119,121–123,133,151,164. A:P39–40 notice object has text state; C:P61–64 cuts away from audition before a scored performance.
+- Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred thirty-one dialogue-associated voice pages plus title cues, BGM/SFX, full show/audition/private dance, scores, training health and consent/contract records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0152_CLOSE-20260926`: five bounded claims and one AV review; no principal job, guaranteed merit outcome, adult romance, specialist or monograph promotion.
+
+## B0153 overwork, repair and photographic consent
+
+Owner and A/B/C locator key: [B0153](../02%20Readings/T7S_B0153_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.55. Thief names are roleplay; no literal crime or exoneration is inferred.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0153-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sawara identifies a real attention failure from concentrated work; nature and image comparison aid Player's self-recognition, while her forced method contradicts her voluntary-reconnection ideal. | A:P2–29; B:P17–24,75–94; C:P41–64. Neither cure nor complete negation inferred. |
+| `CL-B0153-002` | `BOUNDED_INFERENCE`; D1; high | Pre-completion of an urgent proposal reduces one work risk but does not authorize the trip, locked-device access or disputed photos, and does not audit all his other deadlines. | A:P33–80; B:P3–14; C:P24–37. Coverage relayed by Shinju, no files inspected. |
+| `CL-B0153-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Earlier photos help Player see exhaustion and joy; choosing later to retain them is specific, subsequent acceptance, not retroactive capture or sharing permission. | B:P17–24,32–43,63–71; C:P54–65. Bath protest confirms scope limit. |
+| `CL-B0153-004` | `BOUNDED_INFERENCE`; D1; high | Bath nude-image capture and threat to send violate his expressed privacy boundary, but the script ends before any demonstrated transmission, recipient receipt or deletion. | C:P77–92. Mixed bathing is not photo consent; do not overclaim actual distribution. |
+| `CL-B0153-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Shinju/Haru's worry and Coney/Sawara's one-task preparation point toward distributed work, yet an ad hoc abduction is not a stable leave, backup, device-security or consent policy. | A:P2–29; C:P24–53. Wish and one proposal do not equal institutional reform. |
+
+### AV-0100 — Sawara's trip outfits and generic holocom
+
+- Questions/claims: whether still art proves recovery, photo contents, holocom unlocking or sending, and whether yukata/bath staging changes consent; `CL-B0153-001`–`005`.
+- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` for uninspected photographs, phone logs, performance audio, private bodily image and labor records.
+- Selection: Sawara casual `adv_chara_012_01_01`, travel `012_05_01`/`_06`, inn/bath yukata `012_06_01`/`_04`; Shinju `014_01_03`, Haru `003_01_04`, Coney `002_03_11`; generic holocom `adv_obj_0027`. All 283 native pages and thirty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.55 binds nine media receipts.
+- Observed: Sawara's travel/yukata designs mark location/scene phases, not a change of actor. Holocom item is a generic device, not the actual photographed face, naked body, unlock record or sent-message confirmation. No nude image is inspected or required.
+- Native occurrence: command-only A:P0–1,15–17,30–32,37–38,81; B:P0,28–31,60–62,72–74,107; C:P0,8–10,74–76,91–92. Transitions distinguish office preparation, train, mountain/stream, inn call and bath ending.
+- Outcome: `REVIEWED` for nine selected exact resources and all native page-state segmentation. One hundred twenty-three dialogue-associated voice pages plus title cues, BGM/SFX, actual photos/device logs, labor files and any message recipient trail remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0153_CLOSE-20260926`: five bounded claims and one AV review; no completed distribution, audited workload remedy, technical unlock proof, specialist or monograph promotion.
+
+## B0154 Kajika's fans, ordinary visibility and custody
+
+Owner and A/B/C locator key: [B0154](../02%20Readings/T7S_B0154_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.56. Sawara's travel is not equated with B0153's specific trip without a direct continuity marker.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0154-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kajika revises ordinary-as-invisible into being found through another's attention and offers attention back, without needing a unique ranked trait. | A:P23–34; B:P1–49; C:P40–57. Petition not objective best-idol ranking. |
+| `CL-B0154-002` | `BOUNDED_INFERENCE`; D1; high | Fans' individual motives are not known: peer theories and Player compliments (retold by Kajika after cut) help her craft a greeting but are not petitioner testimony. | B:P19–55; C:P9–16,40–57. No letter text or fan interview inspected. |
+| `CL-B0154-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | A private fan club and official agency club are different governance forms; cooperation with the former gives a possible bridge but no automatic official charter, member-data policy or control. | A:P43–70. Petition and plan are not operation. |
+| `CL-B0154-004` | `BOUNDED_INFERENCE`; D1; high | Sawara's mail custody and secret viewing/postscript leave consent and access unresolved even when her pride is sincere; promised next-day handover is not shown. | B:P50–72; C:P1–6,61–76. Claimed guardian authority not verified legal status. |
+| `CL-B0154-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Kajika's promise to look for fans' good qualities is reciprocal care, not personal/romantic availability; Sawara's love-confession/gatekeeper joke is her interpretation, not Kajika's invitation. | C:P29–76. Video delivery and audience response absent. |
+
+### AV-0101 — Kajika's recorded address and unpictured correspondents
+
+- Questions/claims: whether art identifies petitioners, letters or club status, and whether Kajika's costume/expressions prove recipient response or Sawara's viewing approval; `CL-B0154-001`–`005`.
+- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` for uninspected letters/signatures, edited/delivered video, audience response and performed audio.
+- Selection: Kajika school `adv_chara_013_01_06`, recording states `013_05_05`/`_11`; Sawara `012_01_01`; Haru `003_01_05`, Shinju `014_01_03`, Musubi `004_01_01`, Momoka `007_02_01`, Coney `002_03_01`. All 239 native pages and twenty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.56 binds nine media receipts.
+- Observed: Kajika's anxious school and smiling/startled recording states remain one person. Peers are distinct speakers; no petitioner portrait, full letter, signed roster or delivered-screen state is established. Sawara appears in a separate scene, not as evidence of Kajika's advance approval.
+- Native occurrence: command-only A:P0–1,9–10,39–42,61,87; B:P0,73; C:P0,13–16,20,61–63,76. C:P13–16 omits direct Player praise; C:P61–63 marks turn from Kajika recording to Sawara return.
+- Outcome: `REVIEWED` for nine selected exact resources and all native page-state segmentation. One hundred ninety-three dialogue-associated voice pages plus title cues, BGM/SFX, individual fan letters, signatures, final video cut/distribution and fan response remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0154_CLOSE-20260926`: five bounded claims and one AV review; no verified petitioner motives, operating club, letter handover, romantic fan access, specialist or monograph promotion.
+
+## B0155 modest care and dream-frame epistemics
+
+Owner and A/B/C locator key: [B0155](../02%20Readings/T7S_B0155_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.57. Possible dream content is not promoted to 2034 external world-state.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0155-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Ordinary ability differs from enacted willingness: Shinju's bounded advice and framed frog help can matter without adult expertise or unique physical power. | A:P2–43; C:P85–111,136–165. Neither worthless act nor infallible chosen hero. |
+| `CL-B0155-002` | `BOUNDED_INFERENCE`; D1; high | Dream, magic and material talking frog remain open alternatives; waking, uncertainty and no external witness prohibit canonical gate/kingdom/relocation claims. | A:P44–64; B:P1–74; C:P1–160. Tears show emotion, not external ontology. |
+| `CL-B0155-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kerosuke's framed friendship lets Shinju confess she is a child rather than an all-knowing little adult; the double hero label reframes care instead of assigning universal rescue duty. | A:P38–43; B:P44–74; C:P63–113. Book learning and bounded judgment still matter. |
+| `CL-B0155-004` | `BOUNDED_INFERENCE`; D1; high | Habitat search raises salt, traffic, development and tourism considerations but supplies no independent ecology, land-policy or actual gateway-impact assessment. | C:P1–62. Park choice and Kerosuke's success declaration are within frame. |
+| `CL-B0155-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Waking Shinju accepts limited advice work and links it to idol work as a small light, without claiming supernatural expertise or guaranteed consultation success. | A:P2–43; C:P136–165. Later problem not shown. |
+
+### AV-0102 — frog variants and the unverified stone gate
+
+- Questions/claims: whether static gold/green frog variants prove external magic, whether stone depicts a beacon, or whether Shinju's tears settle dream versus reality; `CL-B0155-001`–`005`.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for external ontology, environmental effect, site status and performed audio.
+- Selection: frog `adv_chara_152_02_01`, glowing `152_04_01`, ordinary green `152_06_01`; Shinju `014_01_01`/`_06`; Sui `009_03_01`, Sumire `008_01_01`, Kajika `013_01_01`, Sawara `012_01_01`; stone `adv_obj_0154`. All 311 native pages and fifty-four command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.57 binds ten media receipts.
+- Observed: stylized frog appears green and gold on rock states, and plain stone has no visible verified mechanism. Native art illustrates the ambiguous encounter, not an external-world witness. Shinju's expression changes do not certify physical encounter.
+- Native occurrence: command-only A:P0–1,24–25,34–37,50–53,65; B:P0,32–35,75; C:P0,22–25,35–38,44–47,52–55,70–71,114–117,132–135,141,143,155–157,166–168. C:P114–117 precedes waking; C:P155–157 precedes unresolved reflection.
+- Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred forty-nine dialogue-associated voice pages plus title cues, BGM/SFX, independent frog/gate evidence, habitat survey and post-waking site inspection remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0155_CLOSE-20260926`: five bounded claims and one AV review; no promoted magic ecology, stable frog identity, formal counseling expertise, specialist or monograph.
+
+## B0156 friendship, cover and own-song answer
+
+Owner and A/B/C locator key: [B0156](../02%20Readings/T7S_B0156_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.58. B0134/B0140 are bounded contrasts, not chronology or universal cover verdicts.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0156-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Friend's research dream honors Tomoe's example and causes genuine loneliness; the final song supports separate futures rather than demanding she stay. | A:P18–40; B:P1–22; C:P132–157. No guaranteed study/reunion. |
+| `CL-B0156-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | For this personal farewell, high-fidelity Haru imitation does not function as Tomoe's answer, while her first song with peer help receives direct fan approval; covers are not categorically invalid. | B:P43–85; C:P76–79,102–125. Acoustic quality and exact lyrics unauditioned. |
+| `CL-B0156-003` | `BOUNDED_INFERENCE`; D1; high | Peer diagnosis of the first silent exit is plausible but not direct fan testimony; their strong accusation wounds Tomoe, and Player explicitly calls it too harsh. | B:P59–110; C:P83–104. Second-song praise does not retroactively prove harshness necessary. |
+| `CL-B0156-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Self-direction and collaboration coexist: Tomoe chooses/request her own song, peers help, Player supports, and later anxiety/praise-seeking do not negate her step. | C:P1–79,105–109,181–199. No autonomous-solo myth or complete cure. |
+| `CL-B0156-005` | `BOUNDED_INFERENCE`; D1; high | Direct friend/passerby praise supports a local success only; full song, venue permit, wide impact, school outcome, future bond and durable mental-health improvement remain unverified. | C:P83–199. No technical ranking or hit-song claim. |
+
+### AV-0103 — Tomoe's two presentations and generic friend icons
+
+- Questions/claims: whether art proves individualized friend identity, musical exactness, original-song quality, airport permission or emotional cure; `CL-B0156-001`–`005`.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for performed songs/audio, lyrics/score, venue documents and later outcomes.
+- Selection: Tomoe school `adv_chara_120_01_01`/`_06`, stage `120_04_01`/`_06`; unnamed friend's generic student `025_01`; Murasaki `149_01_01`, Sisara `136_01_01`, Haru `003_02_01`; generic adult-woman role `037_01`; holocom `adv_obj_0027`. All 374 native pages and forty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.58 binds ten media receipts.
+- Observed: Tomoe's school/stage expression states are one performer. The friend/mother icons are generic roles, not personalized portraits or evidence of names. Holocom image cannot authenticate the concluding phone conversation or public metrics.
+- Native occurrence: command-only A:P0–1,7,33,41–44,61; B:P0,23–26,42,55–58,109,111; C:P0,58–61,80–82,84–85,111–114,158–162,177,199. B:P55–58 and C:P111–114 cut over the two songs rather than supplying fully reviewable performances.
+- Outcome: `REVIEWED` for ten selected exact resources and all native page-state segmentation. Two hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX, complete songs, score/lyrics, event permit and future friendship/career outcomes remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0156_CLOSE-20260926`: five bounded claims and one AV review; no verified song ranking, universal anti-cover rule, anxiety cure, specialist or monograph promotion.
+
+## B0157 film-role interpretation, consent and chance
+
+Owner and A/B/C locator key: [B0157](../02%20Readings/T7S_B0157_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.59. B0081/B0118 are bounded comparisons, not evidence of an uninterrupted character arc.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0157-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Madoka's local craft emerges through reading Kanna's emotional logic and extensive script study, not actually becoming a gang daughter or simply shouting. | B:P1–65,94–130; C:P1–67. No full film/audio or global technical verdict. |
+| `CL-B0157-002` | `BOUNDED_INFERENCE`; D1; high | Initial acceptance preceded genre/script disclosure; Player's excitement accelerated shooting. Her later continuation is a choice but does not validate the initial information/scheduling process. | A:P0–93; B:P66–130. No explicit coercion or contract review shown. |
+| `CL-B0157-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Honoka's encountered-role metaphor helps perspective-taking here, while withdrawal remained discussable and injury/night logistics stay ethically relevant. | A:P83–93; B:P22–130. Not destiny or compulsory endurance. |
+| `CL-B0157-004` | `BOUNDED_INFERENCE`; D1; high | Madoka's unscripted spoken challenge succeeds as a director-retained local take, despite assistant alarm; it does not establish a general script-rewriting entitlement or production safety standard. | C:P15–42. Final edit/release unseen. |
+| `CL-B0157-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Dialect opened the casting opportunity, while director's later praise credits developed interpretation; Madoka's bounded pride need not imply Nanastar departure or guaranteed acting career. | A:P0–34; C:P39–103. Player's offers and unfinished embarrassed line are speculation, not outcomes. |
+
+### AV-0104 — Madoka's performer/role costumes and generic production roles
+
+- Questions/claims: whether art proves Kanna as real person, actual gang violence, production-worker identity, injury policy, full acted-film quality, career or romance; `CL-B0157-001`–`005`.
+- Priority/modality: `AV-B` for native-state and eleven selected exact static resources; `AV-D` for full performance/film, contracts, labor safeguards, release and later outcomes.
+- Selection: Madoka idol/ordinary `adv_chara_121_01_01`, anxious school `121_02_03`, fictional Kanna costume `121_03_12`; Kyoko `123_01_01`, Honoka `124_01_01`, Xiao `147_01_01`, Hime `006_01_01`, Sumire `008_01_01`, Kajika `013_01_01`; generic production/adult `027_01`, dark-suited `033_01`. All 330 native pages and forty-four command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.59 binds eleven media receipts.
+- Observed: Madoka's three presentation states are one performer playing Kanna; costume changes do not create another real-world person. Generic adult icons do not identify the director, Nagase actor or actual criminals.
+- Native occurrence: command-only A:P35–36,42,93; B:P0,22–25,39–42,66–69,81–84,122–125,131; C:P0,11–14,43–46,68–71,88–91,103. C:P11–14 separates setup and take; C:P68–71 moves toward wrap.
+- Outcome: `REVIEWED` for eleven selected exact resources and all native page-state segmentation. Two hundred twenty-nine dialogue-associated voice pages, BGM/SFX, full movie/edit, production paperwork, safeguarding and future career/release remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0157_CLOSE-20260926`: five bounded claims and one AV review; no real criminal event, general improv rule, film/audio quality verdict, specialist or monograph promotion.
+
+## B0158 comic contagion and care reversal
+
+Owner and A/B/C locator key: [B0158](../02%20Readings/T7S_B0158_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.60. Prior Ayumu readings B0035/B0082 are bounded context only.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0158-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Ayumu's coined maid language is purposeful, but her fever exposes the error in treating service as an absolute bar on rest; received care becomes part of her revised maid path. | A:P2–16,58–108; C:P75–98. No mandate to work while ill. |
+| `CL-B0158-002` | `BOUNDED_INFERENCE`; D1; high | The unexpected shared speech is an in-story event; maid power, altered cold virus, public epidemic and Player's later infection chain remain unverified proposed explanations. | A:P98–108; B:P1–50; C:P1–60,75–83. No external epidemiology. |
+| `CL-B0158-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The group's concern shifts from embarrassment/hypothetical spread to Ayumu's present suffering, expressing shared care without proving clinical effectiveness or a safeguarding procedure. | C:P14–56. Fever improvement does not isolate cause. |
+| `CL-B0158-004` | `BOUNDED_INFERENCE`; D1; high | Ayumu/Sisara/NI+CORA agree to develop a stage, but costumes, audience marks and timing are not settled, and no performance occurs. | A:P17–64. Assent is not production completion. |
+| `CL-B0158-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Ayumu's care for the ill Player answers remembered generosity and permits mutuality; it neither validates her self-blame for infection nor proves romance or a duty to ignore her own recovery. | C:P48–98. Player's denial likewise lacks clinical proof. |
+
+### AV-0105 — Ayumu's rest state and ensemble expressions
+
+- Questions/claims: whether static art confirms fever source, altered voice, infection path, clinical recovery, performed stage or exclusive bond; `CL-B0158-001`–`005`.
+- Priority/modality: `AV-B` for native-state and eight selected exact static resources; `AV-D` for performed voice, diagnosis/transmission, clinical care and future concert.
+- Selection: Ayumu `adv_chara_122_01_01`, ill/closed-eyed `122_05_07`, pajama/rest `122_06_06`; Sisara `136_01_04`/`_03`; Musubi `004_01_05`; Susu `011_01_15`; Coney `002_03_01`. All 261 native pages and thirty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.60 binds eight media receipts.
+- Observed: Ayumu's clothing/expression change tracks narrated rest without medical measurement. Peers' distinct art remains ordinary; it cannot establish altered voice, a pathogen or actual stage performance.
+- Native occurrence: command-only A:P0–1,18–21,75–78,109; B:P0,32,51; C:P0,26–29,33–36,44–47,71–74,98. A transition takes planned stage into dorm illness; C transitions separate care/recovery/Player bedside.
+- Outcome: `REVIEWED` for eight selected exact resources and all native page-state segmentation. One hundred eighty-two dialogue-associated voice pages, BGM/SFX, pathogen/medical records, complete care procedure and future show remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0158_CLOSE-20260926`: five bounded claims and one AV review; no established viral or supernatural mechanism, treatment endorsement, performed stage, specialist or monograph promotion.
+
+## B0159 legacy, audition and support after loss
+
+Owner and A/B/C locator key: [B0159](../02%20Readings/T7S_B0159_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.61. Prior Kyoko contexts B0031/B0077/B0083/B0121 are bounded comparison horizons, not a total-order claim.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0159-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Kyoko's mother is a respected craft predecessor, neither automatic casting advantage nor identity to copy; Kyoko can lose and still assert her own idol name. | A:P44–77,103–125; C:P133–164. No mother rupture or permanent comparison cure. |
+| `CL-B0159-002` | `BOUNDED_INFERENCE`; D1; high | Whether industry inviter knew Kyoko's lineage is unknown; Kyoko's second-generation suspicion and later fairness judgment are situated beliefs, not a reviewed casting file. | A:P30–55; B:P23–35; C:P82–85,134–145. No bias proof or official rubric. |
+| `CL-B0159-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Rena's delay until Kyoko permits disclosure respects control over family history; friends' switch from awkward scene reading to chores recognizes limits without withdrawing support. | A:P79–125; B:P40–138. No unilateral privacy waiver or acting expertise. |
+| `CL-B0159-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Rena/Honoka's presence lets Kyoko share grief after loss, while her later gratitude/resolution does not erase the pain or establish a universal rule to override solitude. | C:P75–164. No durable cure. |
+| `CL-B0159-005` | `BOUNDED_INFERENCE`; D1; high | Kyoko's subjective role method and peers' practice cannot substitute for unobserved acted film, audition tape or comparative skill test; Honoka's scripted confession is not an actual romantic declaration. | B:P68–117; C:P82–85. No global acting ranking. |
+| `CL-B0159-006` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Honoka's opening omelet progress becomes concrete meal help for Kyoko; ordinary support can matter to a chosen risk without owning the audition result. | A:P0–27; B:P118–138; C:P93–132. No measured score effect. |
+
+### AV-0106 — three friends, absent mother and unseen audition
+
+- Questions/claims: whether sprites identify Asuna/Juri or selected newcomer, prove stage-to-real romance, rank acted-film quality, establish casting motive, or guarantee emotional recovery; `CL-B0159-001`–`006`.
+- Priority/modality: `AV-B` for native-state and seven selected exact static resources; `AV-D` for original film, audition tape/rubric, performed voice and later outcomes.
+- Selection: Kyoko `adv_chara_123_01_01`, crying `123_01_09`, determined `123_01_05`; Honoka `124_01_01`/`_04`; Rena `125_01_01`/`_02`. All 431 native pages and thirty-nine command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.61 binds seven media receipts.
+- Observed: three distinct performers and Kyoko's expression states. No selected art directly depicts her mother, auditionee or panel; expressions do not authenticate quality, motive or durable internal change.
+- Native occurrence: command-only A:P28–29,78,126; B:P0,19–22,36–39,64–67,132,138; C:P0–2,24–27,53–57,66–67,92,112–115,164. A title break follows food cold open; C scene cuts separate waiting, street meeting, grief and aftermath.
+- Outcome: `REVIEWED` for seven selected exact resources and all native page-state segmentation. Three hundred thirty dialogue-associated voice pages, BGM/SFX, full old film, audition/casting file and future acting work remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0159_CLOSE-20260926`: six bounded claims and one AV review; no nepotism/fairness verdict, technical acting ranking, romance promotion, specialist or monograph promotion.
