@@ -3,7 +3,7 @@ series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
 scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 source_boundary: Designed for the Blue Archive extraction corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 and its future promoted generations
 supersedes: []
@@ -603,20 +603,20 @@ Once a release is declared frozen:
 
 # 12. Current production sequence
 
-The source-promotion milestone, Prologue checkpoint, and `MAIN_V001_C001` checkpoint have passed. The current sequence is:
+The source-promotion milestone, Prologue checkpoint, and Volume 1 Chapters 1–2 checkpoints have passed. The actual analytical boundary is `MAIN_V001_C002`, **42 / 310** main units. The current sequence is:
 
-1. preserve `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` as the canonical Chapter 1 synthesis boundary;
-2. maintain the seven ledgers through `BA:main:001:001:020`;
-3. establish `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`;
-4. maintain `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` and the bootstrap audit;
-5. keep the Chapter 1 contextual-backfill decision `DEFER` unless a separately reasoned gate changes it;
-6. before opening a later diagnostic source for any drafted pilot model, commit a prospective freeze with exact source/state/knowledge conditions;
-7. continue the main-story spine at `BA:main:001:002:001` under the amended sequential behavioral-delta contract;
-8. update ledgers, checkpoint state, and coverage only for material evidence;
-9. admit contextual group/event/bond/MomoTalk evidence through the governing source-class and chronology rules, not to fill a template;
-10. create the first literary monograph or reconstruction model only when its distinct promotion gate passes.
+1. retain all three historical checkpoints and the recovered twenty C002 readings; use the C002 checkpoint as the current Volume 1 synthesis authority;
+2. maintain the seven cumulative ledgers through `BA:main:001:002:020` without overwriting unit-local uncertainty;
+3. use the canonical reconstruction specification, coverage index, and bootstrap audit as the operational architecture;
+4. preserve the Chapter 2 contextual-backfill decision `DEFER`;
+5. stop before `BA:main:002:001:001`; this architecture task does not authorize opening it;
+6. on a later authorized sequential run, freeze any intended prospective tests before diagnostic source exposure, then perform literary reading and concise diagnostic behavioral deltas;
+7. at every chapter checkpoint, apply method §10.5: new contexts, state changes, strengthened/narrowed/contradicted rules, directed conditions, ordinary-life and negative evidence, frozen-test outcomes, and readiness increases **and decreases**;
+8. update material coverage/readiness changes in the index, preserving the previous basis and rationale;
+9. admit side sources only through a reasoned source/chronology gate, never to fill a table;
+10. create a monograph or standalone model only when its distinct evidence and responsibility gate passes.
 
-This prevents source abundance or early model fluency from turning the project into a character-encyclopedia or simulation exercise before narrative causality and ordinary-life coverage are adequate.
+The forthcoming Chapters 3–8 capture contract changes what the run records, not its canonical reading order. Chapter numbers in that planning phrase do not replace the crosswalk's volume/chapter IDs. No character model, prediction register, or empty model directory is required merely for symmetry.
 
 ---
 
@@ -738,7 +738,7 @@ A mature Blue Archive analytical corpus should eventually allow the following re
 `current map → main deep reading → canonical story → utterance/choice ID → raw record`
 
 **Character question**\
-`current map → character monograph → state ledger → contextual source bundle → canonical story/MomoTalk/bond → raw record`
+`current map → character monograph → state / relationship / voice ledgers → canonical story/MomoTalk/bond → raw record`
 
 Before a monograph exists:\
 `current map → character analytical coverage index → checkpoint → applicable ledgers → source-facing reading → canonical source`
@@ -756,7 +756,9 @@ Before a monograph exists:\
 `current map → claim-revision ledger → prior artifact → current authority → evidence route`
 
 **What would this bounded version of a character plausibly do?**\
-`current map → character coverage index → reconstruction specification → accepted literary/checkpoint authority → current model state/rules → validation record → bounded hypothetical application`
+`current map → reconstruction model (selected state/domain) → monograph + relevant ledgers → canonical evidence`
+
+The coverage index first checks whether that model/domain exists; the specification governs its use. Validation records attach to the exact model/rule snapshot, and hypothetical applications remain downstream. Source bundles may accelerate retrieval but never replace complete canonical evidence for consequential inference.
 
 If no current model or eligible domain exists, stop at the coverage index and answer from literary evidence without presenting the result as reconstruction capability.
 
