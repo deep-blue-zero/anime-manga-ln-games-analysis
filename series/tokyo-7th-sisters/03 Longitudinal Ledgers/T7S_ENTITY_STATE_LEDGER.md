@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.25"
+version: "11.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 109 complete i-n-g primary documents / T7S_B0080–T7S_B0124; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 112 complete i-n-g primary documents / T7S_B0080–T7S_B0125; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 227`; `directional_relationship_states = 426`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0124, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 232`; `directional_relationship_states = 432`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0125, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2414,3 +2414,34 @@ The [B0124](../02%20Readings/T7S_B0124_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0426` | Mimi → Kyoko, **competence with correction** | Explains performed confidence, credits Player's labor and takes the search risk despite Kyoko's warning. C:P5–40. Reciprocal `REL-0425`; not a universal lesson to overfunction. |
 
 `T7S_B0124_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, diagnosis, police or readiness record.
+
+## B0125 Ferb's instrument boundary and peer discovery
+
+The [B0125](../02%20Readings/T7S_B0125_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.27, binds these updates. Existing Ferb `IDENTITY-0078`/`CHAR-0060`, Miu `IDENTITY-0085`/`CHAR-0067`, Kazumi `IDENTITY-0046`/`CHAR-0035`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. QOP is a bounded entering affiliation, not an actor in this commercial assignment.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0060` / Ferb | Struggles to compose an ordinary-high-school-life beverage ad, overpractices bass until finger bleeding, protests confiscation, experiences Miu/Kazumi's idle social time, finds a melody and immediately renews perfection pressure. | A:P0–31; B:P1–44; C:P1–69. No final commission, clinical recovery, permanent work-balance shift or clear assent to daily watch. |
+| `CHAR-0067` / Miu | Notices long playing, proposes a continuous peer watch and shopping/talk diversion, later discloses Ferb's attempted music-shop playing despite a crepe-for-secrecy bargain. | A:P8–19; B:P26–44; C:P1–69. Care and imperfect surveillance coexist; her account of ordinary girls is not universal. |
+| `CHAR-0035` / Kazumi | Worries practice may harm Ferb, accepts Miu's invitation, offers books, describes newly valued peer time and hears the emerging melody. | A:P8–19; B:P30–44; C:P8–62. Her reading habit and local interpretation do not prove a generalized creative method. |
+| `CHAR-0001` / Player | Sees finger bleeding, confiscates bass, recruits peers without hearing Ferb's full assent, judges healing locally, returns instrument and responds to renewed work intensity. | A:P13–31; B:P7–44; C:P33–69. No clinician, formal consent/safety procedure or full audio/client verdict. |
+| `UNIT-0002` / Nanasta | Receives Ferb's outside composition commission and manages injury/creative stall through improvised restriction and peer time. | A:P8–31; B:P1–44; C:P33–69. No formal stop-work, return-to-play, off-hours supervision or deadline renegotiation shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0228` | Ferb knows composition is hard; Miu/Kazumi hear extensive bass; Player knows of commission and suspects overwork. | A:P0–19. Others do not yet know her stated brief problem; no sleep log. |
+| `KNOW-0229` | Player sees blood; Ferb downplays pain but knows first outside-Nanasta commission matters; peers know the instrument has been withheld. | A:P20–31; B:P1–25. Wound severity and treatment not independently assessed. |
+| `KNOW-0230` | Miu/Kazumi/Player form an off-hours watch; Ferb thinks of DTM/air-bass work and says she did not hear the plan. | B:P26–44. No clear informed agreement by Ferb. |
+| `KNOW-0231` | Ferb observes peer shopping, talk and reading; Miu generalizes ordinary girl life, Kazumi qualifies it, and Ferb notices shared enjoyment. | C:P1–31. Situated testimony, not population evidence. |
+| `KNOW-0232` | Ferb tells the group the ad theme and why idle time mattered, reveals covert shop attempts through Miu, and begins melody; Player/Kazumi praise it. | C:P33–69. No auditioned melody, final track or client response; renewal of overwork is visible. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0427` | Player → Ferb, **protective but coercive instrument limit** | Removes bass at a bleeding finger, later returns it on local visual check and asks Miu to counter a new rush. A:P20–31; B:P7–44; C:P33–69. Reciprocal `REL-0428`; no clinical protocol or complete consent. |
+| `REL-0428` | Ferb → Player, **protest, acceptance and renewed urgency** | Objects to seizure, explains commission weight, later thanks him for bass and vows rapid perfection. A:P20–31; B:P7–25; C:P33–69. Reciprocal `REL-0427`; no durable rest practice. |
+| `REL-0429` | Miu → Ferb, **unscripted peer company with watch function** | Offers snacks, shopping, talk and constant oversight, then leaks Ferb's shop-playing secret. B:P1–44; C:P1–69. Reciprocal `REL-0430`; good intent does not establish full assent. |
+| `REL-0430` | Ferb → Miu, **initial resistance then shared enjoyment** | Is taken along, finds Miu's hours strange, enjoys them and tries to buy silence about music-shop playing. B:P26–44; C:P1–69. Reciprocal `REL-0429`; not an ordinary-girl identity conversion. |
+| `REL-0431` | Kazumi → Ferb, **quiet reading companion** | Accepts the outing, recommends a book and names the value of peer time. B:P30–44; C:P8–54. Reciprocal `REL-0432`; no licensed creative coaching role. |
+| `REL-0432` | Ferb → Kazumi, **book uptake and reciprocal time** | Reads the recommended book, hears Kazumi's qualified ordinary-life account and credits the shared outing. C:P8–54. Reciprocal `REL-0431`; no claim all song work should stop. |
+
+`T7S_B0125_CLOSE-20260926`: five actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, clinical or final-track record.

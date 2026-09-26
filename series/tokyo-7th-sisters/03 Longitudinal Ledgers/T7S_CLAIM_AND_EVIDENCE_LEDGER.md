@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.25"
+version: "11.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 109 complete i-n-g primary documents / T7S_B0080–T7S_B0124; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 112 complete i-n-g primary documents / T7S_B0080–T7S_B0125; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 587`; `revisions = 42`; `predictions = 7`; `AV_reviews = 71`; `literary_findings = 587`. Claims are bounded to their stated B0001 through B0124 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 45 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 591`; `revisions = 42`; `predictions = 7`; `AV_reviews = 72`; `literary_findings = 591`. Claims are bounded to their stated B0001 through B0125 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 46 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1734,3 +1734,26 @@ Owner and A/B/C locator key: [B0124](../02%20Readings/T7S_B0124_DEEP_READING.md)
 - Outcome: `REVIEWED` for nine selected static composites and all native page-state segmentation. One hundred twenty dialogue-associated voice pages plus title cues, BGM/SFX and the full stream remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0124_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical/legal finding, specialist or monograph promotion.
+
+## B0125 creative pause, ordinary-life framing and injury limit
+
+Owner and A/B/C locator key: [B0125](../02%20Readings/T7S_B0125_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.27. B0032/B0077/B0089/B0078/B0104 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0125-001` | `BOUNDED_INFERENCE`; D1; high | Unoptimized time with Miu/Kazumi gives Ferb creative reference for the ad brief where repeated solitary bass playing had stalled; rest and relationship become situated craft resources. | A:P0–31; C:P1–62. Not a universal songwriting law or dismissal of musicianship. |
+| `CL-B0125-002` | `BOUNDED_INFERENCE`; D1; high | “Ordinary high-school life” is a commercial theme and negotiated peer description, not a fixed standard Ferb must become. | C:P17–30,43–51. Miu's claim is qualified by Kazumi and Ferb's own use of one experience. |
+| `CL-B0125-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | A visible playing injury justifies concern, but the instrument confiscation and continuous peer-watch plan restrict Ferb without clear full assent, and covert shop playing exposes the plan's porosity. | A:P20–31; B:P1–44; C:P40–42. Neither ignore injury nor treat later enjoyment as retroactive consent. |
+| `CL-B0125-004` | `BOUNDED_INFERENCE`; D1; high for limit | The ending shows a promising melody and renewed urge to perfect it quickly, not a completed commercial, medically cleared finger or durable end to overwork. | C:P33–69. Performed audio/client response uninspected. |
+
+### AV-0072 — Ferb with/without bass and unauditioned ad melody
+
+- Questions/claims: whether selected sprites/native transitions prove injury severity, actual rest, consent to surveillance, clinical healing, technical composition quality, delivered commercial or permanent work-balance change; `CL-B0125-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for injury, consent, performed-music and commission restrictions.
+- Selection: Ferb `adv_chara_127_01_03` with large bass case and `adv_chara_127_02_02`/`127_02_01` without it; Miu `adv_chara_129_01_01`/`129_01_03`; Kazumi `adv_chara_146_01_02`. All 149 native pages and thirteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.27 binds six media receipts.
+- Observed: selected Ferb state changes remove the large case while keeping everyday bag; Miu/Kazumi bodies bind the companions. Stills do not show treatment or how the emerging melody sounds.
+- Native occurrence: command-only A:P5–7,20,32; B:P0,17,45; C:P0,12,32,68–69. A:P0–4 precedes the title; C's shopping/food transitions and looping SFX references do not supply performed sound or continuous rest.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred one dialogue-associated voice pages plus title cues, BGM/SFX, the melody and final commercial remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0125_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical clearance, specialist or monograph promotion.

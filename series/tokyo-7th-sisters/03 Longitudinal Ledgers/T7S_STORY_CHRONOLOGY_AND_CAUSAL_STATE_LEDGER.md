@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.25"
+version: "11.26"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 109 complete i-n-g primary documents / T7S_B0080–T7S_B0124; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 112 complete i-n-g primary documents / T7S_B0080–T7S_B0125; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 451`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 443`; `last_closed_block = T7S_B0124`. The admitted horizon contains 344 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 109 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 456`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 450`; `last_closed_block = T7S_B0125`. The admitted horizon contains 347 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 112 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1447,3 +1447,27 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.26. [B0124](../02%20Readings/
 | `EDGE-0450` | `CARE_WITH_NO_PROTOCOL_PROOF` | Successful local substitution and claimed incident resolution in `EV-B0124-002`–`006` leave backup staffing, clinical, route-safety and police-verification processes unshown. |
 
 `T7S_B0124_CLOSE-20260926`: six chapter events and eight bounded edges; no new world/thread/unit record, medical or legal finding, durable protocol or total i-n-g chronology.
+
+## B0125 Ferb's injury, unoptimized peer time and unfinished commission
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.27. [B0125](../02%20Readings/T7S_B0125_DEEP_READING.md) owns the A/B/C locator key. A:P0–4 precedes the title card and shows Ferb listening unsuccessfully to schoolgirl chatter. B0032/B0077 and B0089/B0078/B0104 supply bounded Ferb/Miu/Kazumi context; menu order is not fictional total chronology.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0125-001` | Ferb struggles with composition; Miu/Kazumi hear near-continuous bass from Nanasta storeroom, and Player identifies a beverage-commercial commission. | A:P0–19; `KNOW-0228`. Overnight practice is Kazumi's observation, not a measured sleep log; exact brief disclosed later. |
+| `EV-B0125-002` | Player sees bleeding on Ferb's playing finger, takes the bass and sets return after healing; Ferb protests, citing unfinished work and first outside-Nanasta paid composition. | A:P20–31; B:P1–25; `KNOW-0229`; `REL-0427`–`0428`. No clinical assessment, specific treatment or general instrument-ban authority shown. |
+| `EV-B0125-003` | Miu volunteers herself/Kazumi to watch and spend off-time with Ferb. Player accepts; Ferb is focused on DTM/air-bass alternatives, does not hear the proposal and is pushed into the plan. | B:P26–44; `KNOW-0230`; `REL-0429`–`0432`. Her assent to continuous monitoring is unclear; later music-shop attempts expose limits. |
+| `EV-B0125-004` | Ferb spends shopping, café, food-court and book time with Miu/Kazumi, initially confused by hours without a specific purpose. Their ideas of ordinary same-age life differ. | C:P1–31; `KNOW-0231`. One friend outing is not a representative definition of high-school life. |
+| `EV-B0125-005` | Player locally judges Ferb's finger improved and returns bass. Ferb connects shared time to the commercial theme, begins a melody and receives praise, then vows to perfect it tomorrow; Player asks Miu to divert her again. | C:P33–69; `KNOW-0232`; `REL-0427`–`0432`. No medical clearance, completed track, client response, auditioned music or durable overwork change. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0451` | `BRIEF_UNCERTAINTY_TO_EXCESS_PRACTICE` | Ferb's composition gap in `EV-B0125-001` → repeated bass work and injury in `EV-B0125-002`; no proof that practice alone caused every creative obstacle. |
+| `EDGE-0452` | `VISIBLE_HARM_TO_WORK_STOP` | Bleeding finger in `EV-B0125-002` → Player's temporary instrument confiscation, a protective but agency-limiting act. |
+| `EDGE-0453` | `RESTRICTION_TO_PEER_WATCH` | Player's stop in `EV-B0125-002` → Miu/Kazumi off-hours plan in `EV-B0125-003`; Ferb's informed assent is not established. |
+| `EDGE-0454` | `UNSTRUCTURED_TIME_TO_NEW_REFERENCE` | Peer hours in `EV-B0125-004` → Ferb's experience of shared enjoyment as creative material in `EV-B0125-005`, not a universal norm for girls. |
+| `EDGE-0455` | `LOCAL_FINGER_JUDGMENT_TO_BASS_RETURN` | Player's visual check in `EV-B0125-005` → returned bass; no professional clearance or quantified healing. |
+| `EDGE-0456` | `NEW_MELODY_WITHOUT_DELIVERY` | Ferb's changed brief interpretation in `EV-B0125-005` → an emerging melody praised locally, not a finished or client-approved commercial track. |
+| `EDGE-0457` | `REFRESHMENT_WITH_RECURRENT_PRESSURE` | Ferb's fun and melody in `EV-B0125-004`/`005` coexist with covert shop playing and next-day perfection vow; the risk pattern remains open. |
+
+`T7S_B0125_CLOSE-20260926`: five chapter events and seven bounded edges; no new world/thread/unit record, clinical clearance, final-song verdict or total i-n-g chronology.

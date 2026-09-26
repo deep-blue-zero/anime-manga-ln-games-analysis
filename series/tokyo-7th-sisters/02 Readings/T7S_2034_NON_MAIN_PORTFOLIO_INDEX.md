@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.25"
+version: "2.26"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 25/60 blocks; i-n-g coverage is 109/280 episodes across 45 chapters. The next authorized but unread chapter is `300970` / **ファーブ・ウィズアウト・ベース** / 瀬戸ファーブ, episodes `312202001 / 312202002 / 312202003`, assigned B0125.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 26/60 blocks; i-n-g coverage is 112/280 episodes across 46 chapters. The next authorized but unread chapter is `300980` / **座椅子探偵** / 鳳チャチャ, episodes `312202101 / 312202102 / 312202103`, assigned B0126.
 
 ## Closed first i-n-g tranche
 
@@ -105,3 +105,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0122](T7S_B0122_DEEP_READING.md) | `300940` / 西園ホノカ / ナイショの話 | `312201701 / 312201702 / 312201703` | `COMPLETE_BOUNDED` |
 | [T7S_B0123](T7S_B0123_DEEP_READING.md) | `300950` / 荒木レナ / 放課後のラブソング | `312201801 / 312201802 / 312201803` | `COMPLETE_BOUNDED` |
 | [T7S_B0124](T7S_B0124_DEEP_READING.md) | `300960` / 二川ミミ / リライ・オン・ミー | `312201901 / 312201902 / 312201903` | `COMPLETE_BOUNDED` |
+| [T7S_B0125](T7S_B0125_DEEP_READING.md) | `300970` / 瀬戸ファーブ / ファーブ・ウィズアウト・ベース | `312202001 / 312202002 / 312202003` | `COMPLETE_BOUNDED` |
