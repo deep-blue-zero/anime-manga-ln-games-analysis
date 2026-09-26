@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.44"
+version: "11.45"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 166 complete i-n-g primary documents / T7S_B0080–T7S_B0143; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 169 complete i-n-g primary documents / T7S_B0080–T7S_B0144; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 95`; `character_states = 77`; `epistemic_states = 346`; `directional_relationship_states = 548`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0143, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 95`; `character_states = 77`; `epistemic_states = 354`; `directional_relationship_states = 554`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0144, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3084,3 +3084,40 @@ The [B0143](../02%20Readings/T7S_B0143_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0548` | Xiao → Miu, **requested learning and accepted comfort** | Seeks `cute` instruction, receives coaching and later thanks her for sky-directed calming. B:P8–29; C:P44–47. Reciprocal `REL-0547`; no completed emotional mastery. |
 
 `T7S_B0143_CLOSE-20260926`: six actor-local knowledge records, two directional relationship pairs and existing-actor annotations; no new unit or identity route and no blanket role/contact consent.
+
+## B0144 Haru's peer detours and stage-readiness limit
+
+The [B0144](../02%20Readings/T7S_B0144_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.46, binds these updates. Existing Haru `IDENTITY-0004`/`CHAR-0004`, Shizuka `IDENTITY-0018`/`CHAR-0015`, Hime `IDENTITY-0009`/`CHAR-0009`, Shinju `IDENTITY-0024`/`CHAR-0021`, Sawara `IDENTITY-0022`/`CHAR-0019`, Musubi `IDENTITY-0006`/`CHAR-0006`, Player `CHAR-0001`, Coney `CHAR-0003` and Nanastar `UNIT-0002` suffice. School teacher/friends are role voices; no new identity or unit is created.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0004` / Haru | Dreams missed stage/new outfit, sleeps in class, adapts to equipment delay, meets peers on independent errands, appreciates new costume and rallies for unshown live. | A:P4–91; B:P1–84; C:P1–96. No dream mechanism, completed stage, fatigue diagnosis or assured future performances. |
+| `CHAR-0015` / Shizuka | Uses delayed call to enter convenience store for first time, explores goods from Player examples and stays when Haru seeks pen. | A:P60–91. No shown checkout, inability to use shops or broad class conclusion. |
+| `CHAR-0009` / Hime | Rejects cute stationery for old tofu shop, privately likes tofu-themed memo for children and leaves for shop errands. | B:P1–39. No recorded receipt, children reaction or permanent business change. |
+| `CHAR-0021` / Shinju | Collects Kajika with Sawara, identifies frog as small adult tree frog, accepts sister tease with embarrassment. | B:P47–84. Species/age attribution not independently audited; no always-harmonious sister claim. |
+| `CHAR-0019` / Sawara | Joins Kajika errand, finds/holds frog and teases/affirms Shinju affectionately. | B:P47–84. No frog harm shown or total sister history inferred. |
+| `CHAR-0006` / Musubi | Criticizes delayed notice, asks broader maintenance, rejects Haru solo-cleaning shared venue and blushes at notice of her Player observations. | C:P1–53,83–89. No enacted cleaning or romance confession. |
+| `CHAR-0001` / Player | Reports malfunction, delays call, later says maintenance done and reveals ordered costumes to support stage conditions. | A:P31–43; C:P42–78. No complete equipment clearance, time-management perfection or precognition explanation. |
+| `CHAR-0003` / Coney | Is heard during maintenance call and later labels Musubi/Haru awkwardness `youth`; stage preparation is credited to her by Haru. | A:P37–39; C:P52,91–92. Her word is interpretation, not certified romantic status. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0347` | Haru experiences late-stage/costume dream; teacher and peers observe classroom sleep/sleep talk. | A:P4–29. Dream fitting is not waking history. |
+| `KNOW-0348` | Player knows equipment fault and altered call time; Haru/friends know delay, with peers committed to clubs. | A:P30–59; C:P42–43. Later repair reported, full venue safety unknown. |
+| `KNOW-0349` | Shizuka says first convenience-store entry and recognizes Player-eaten items; Haru teaches packaging then leaves. | A:P60–91. No purchase/repeated visit evidenced. |
+| `KNOW-0350` | Hime publicly calls character pad unsuitable but privately sees tofu design/children appeal; Haru notices her behavior only indirectly. | B:P1–39. Checkout and children's views unknown. |
+| `KNOW-0351` | Haru enjoys slow walk, fears frog and hears sisters' errand; Shinju calls it an adult tree frog, Sawara affectionately teases. | B:P45–84. No external species audit. |
+| `KNOW-0352` | Musubi sees shared-use cleaning need and Player's mess; Haru notices her detailed attention; Musubi denies/flushes. | C:P1–53. Motive and later labor unconfirmed. |
+| `KNOW-0353` | Player believes first costume reveal; Haru reports dream match; source sprite states show same costume body in both scenes. | A:P9–15; C:P57–94. No mechanism or proven psychic ability. |
+| `KNOW-0354` | Haru/Musubi know costume fits and are about to go onstage; Haru states recurring idol intention. | C:P83–96. Song, crowd and future days unshown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0549` | Haru → Shizuka, **sharing everyday store knowledge while allowing departure** | Explains convenience products and leaves Shizuka to explore. A:P60–91. Reciprocal `REL-0550`; no dependency or purchase duty. |
+| `REL-0550` | Shizuka → Haru, **curiosity and independent exploration** | Welcomes encounter, asks/answers about goods and remains in store by choice. A:P60–91. Reciprocal `REL-0549`; no need to follow Haru. |
+| `REL-0551` | Haru → Hime, **playful preference proposal** | Offers cute pen/memo and tofu-themed pad, teasing Hime's old-shop concern. B:P1–39. Reciprocal `REL-0552`; not a binding shop redesign. |
+| `REL-0552` | Hime → Haru, **public resistance and private softening** | Rejects most designs, hides interest in tofu memo and suggests riverside route. B:P1–39. Reciprocal `REL-0551`; no known receipt. |
+| `REL-0553` | Musubi → Haru, **shared-work insistence and accompanied walk** | Rejects Haru cleaning Nanastar alone and goes with her, then is flustered by Player observation. C:P1–53,83–89. Reciprocal `REL-0554`; no actual cleanup or romance proof. |
+| `REL-0554` | Haru → Musubi, **welcome company and observed care** | Values walking together, thanks her for shared-work offer and notes attention to Player. C:P9–53,83–89. Reciprocal `REL-0553`; no motive adjudication. |
+
+`T7S_B0144_CLOSE-20260926`: eight actor-local knowledge records, three directional relationship pairs and existing-actor annotations; no new unit/identity or carried-forward supernatural verdict.

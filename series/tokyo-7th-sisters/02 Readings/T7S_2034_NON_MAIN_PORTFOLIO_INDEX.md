@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.44"
+version: "2.45"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 44/60 blocks; i-n-g coverage is 166/280 episodes across 64 chapters. The next authorized but unread chapter is `301160` / **今日も明日も明後日も** / 春日部ハル, episodes `612200101 / 612200102 / 612200103`, assigned B0144.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 45/60 blocks; i-n-g coverage is 169/280 episodes across 65 chapters. The next authorized but unread chapter is `301170` / **遠回りして、見つけたもの、大切なこと** / 天堂寺ムスビ, episodes `612200201 / 612200202 / 612200203`, assigned B0145.
 
 ## Closed first i-n-g tranche
 
@@ -124,3 +124,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0141](T7S_B0141_DEEP_READING.md) | `301130` / 玉坂マコト / ナイトメア・オン・ワールズエンド | `312203601 / 312203602 / 312203603` | `COMPLETE_BOUNDED` |
 | [T7S_B0142](T7S_B0142_DEEP_READING.md) | `301140` / 桂木カヅミ / 地に顔を出す | `312203701 / 312203702 / 312203703` | `COMPLETE_BOUNDED` |
 | [T7S_B0143](T7S_B0143_DEEP_READING.md) | `301150` / シャオ・ヘイフォン / シャオのセクシーアサシン修行 | `312203801 / 312203802 / 312203803` | `COMPLETE_BOUNDED` |
+| [T7S_B0144](T7S_B0144_DEEP_READING.md) | `301160` / 春日部ハル / 今日も明日も明後日も | `612200101 / 612200102 / 612200103` | `COMPLETE_BOUNDED` |

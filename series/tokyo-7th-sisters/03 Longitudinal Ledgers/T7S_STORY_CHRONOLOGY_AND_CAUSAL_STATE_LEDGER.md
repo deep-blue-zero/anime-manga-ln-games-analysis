@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.44"
+version: "11.45"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 166 complete i-n-g primary documents / T7S_B0080–T7S_B0143; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 169 complete i-n-g primary documents / T7S_B0080–T7S_B0144; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 571`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 628`; `last_closed_block = T7S_B0143`. The admitted horizon contains 401 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 166 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 579`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 641`; `last_closed_block = T7S_B0144`. The admitted horizon contains 404 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 169 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1984,3 +1984,36 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.45. [B0143](../02%20Readings/
 | `EDGE-0635` | `PEER_ATTRACTION_READING_WITH_UNCERTAINTY` | Others interpret Xiao's heartbeat as attraction, but Xiao does not name it; no couple status. |
 
 `T7S_B0143_CLOSE-20260926`: six chapter events and eleven bounded edges; no completed film, physical-injury ruling, blanket contact consent, safeguarded minor-role certification or mutual romance finding.
+
+## B0144 Haru's day of detours, shared venue labor and dream costume
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.46. [B0144](../02%20Readings/T7S_B0144_DEEP_READING.md) owns the A/B/C locator key. This first i-n-g3 chapter in the run has source orders 1061–1063, a corpus routing jump rather than a new total-fictional chronology. Dream A:P4–16 reuses actual costume body `adv_chara_003_09`, but the source gives no cause for Haru's visual foreknowledge. C ends before song/audience evidence.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0144-001` | Haru dreams late-stage panic in new costume, then teacher wakes her during class; friends recall sleep talk. | A:P4–29; `KNOW-0347`. Dream costume body reappears in C; no actual missed live or mechanism. |
+| `EV-B0144-002` | Stage-equipment fault delays call time; Player informs Haru; school friends have clubs; Haru chooses a solo walk. | A:P30–59; C:P42–61; `KNOW-0348`. Later repair reported; no safety audit or performed live. |
+| `EV-B0144-003` | Shizuka explores convenience store for first time inside, recognizes foods from Player and stays as Haru leaves for pen. | A:P60–91; `KNOW-0349`. No shown purchase or generalized isolation. |
+| `EV-B0144-004` | Hime resists cute stationery for old tofu shop, privately favors tofu-themed memo for children and says shopping done. | B:P1–39; `KNOW-0350`. Selection probable, checkout/child response not documented. |
+| `EV-B0144-005` | Haru walks riverside, meets Sawara/Shinju on Kajika pickup; frog prompts contrasting reactions and sister teasing. | B:P45–84; `KNOW-0351`. Species/age is Shinju's identification, not independent zoology. |
+| `EV-B0144-006` | Musubi joins Haru toward Nanastar, urges collective cleanup, lists Player's mess and becomes embarrassed when Haru notices. | C:P1–53; `KNOW-0352`. No actual cleanup, repair plan or confessed romance. |
+| `EV-B0144-007` | Player reveals secretly ordered stage costumes; Haru says hers appeared in dream; dream and waking pages reuse same costume body. | A:P9–15; C:P57–78,82–94; `KNOW-0353`. Visual echo proven, precognition mechanism not. |
+| `EV-B0144-008` | Haru fits costume, thanks preparation and rallies herself for today's unique stage. | C:P83–96; `KNOW-0354`. No song, crowd or tomorrow's show evidenced. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0636` | `DREAM_LATE_STAGE_TO_CLASSROOM_WAKE` | Teacher wake in `EV-B0144-001` marks feared miss as dream, not real event. |
+| `EDGE-0637` | `EQUIPMENT_FAULT_TO_CALL_DELAY` | Player moves Haru's arrival in `EV-B0144-002`; later repair is reported, not fully audited. |
+| `EDGE-0638` | `DELAY_TO_PEER_DETOURS` | Released time makes encounters `EV-B0144-003`–`006` possible; others retain their own schedules. |
+| `EDGE-0639` | `SHIZUKA_CURIOSITY_TO_SEPARATE_ROUTE` | First store visit in `EV-B0144-003` continues independently when Haru seeks pen. |
+| `EDGE-0640` | `HIME_OLD_SHOP_RULE_TO_LOCAL_EXCEPTION` | Hime privately considers tofu memo in `EV-B0144-004`; no business rebrand. |
+| `EDGE-0641` | `SISTER_ERRAND_TO_BRIEF_COMPANY` | Sawara/Shinju meet Haru on route to Kajika in `EV-B0144-005`, then depart. |
+| `EDGE-0642` | `FREE_WALK_TO_PACE_NOTICE` | Haru notices slow walking after recent busyness in `EV-B0144-005`; no rest prescription/cure. |
+| `EDGE-0643` | `SHARED_VENUE_TO_SHARED_CLEANUP` | Musubi refuses Haru's solo burden in `EV-B0144-006`; proposed, not executed. |
+| `EDGE-0644` | `PLAYER_OBSERVATION_TO_MUSUBI_EMBARRASSMENT` | Haru notes detailed Player talk and Musubi blushes/denies in `EV-B0144-006`; no confession. |
+| `EDGE-0645` | `SECRET_COSTUME_TO_DREAM_MATCH` | Ordered outfit in `EV-B0144-007` reuses dream body in `001`; same staged image, unexplained access. |
+| `EDGE-0646` | `DREAM_MATCH_TO_SEVENTH_ABILITY_SPECULATION` | Haru wonders about power; Player jokes in `EV-B0144-007`; no supernatural finding. |
+| `EDGE-0647` | `COSTUME_AND_REPAIR_TO_STAGE_READINESS` | Haru ready in `EV-B0144-008` after delay; not show-performance proof. |
+| `EDGE-0648` | `ONE_TIME_STAGE_TO_CONTINUING_INTENTION` | Haru invokes today/tomorrow/day-after in `EV-B0144-008`; no verified future calendar. |
+
+`T7S_B0144_CLOSE-20260926`: eight chapter events and thirteen bounded edges; no precognition mechanism, completed cleanup, purchase receipt, performed-live verdict or future schedule.

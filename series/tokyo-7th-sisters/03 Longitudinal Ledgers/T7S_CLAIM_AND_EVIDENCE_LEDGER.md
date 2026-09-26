@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.44"
+version: "11.45"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 166 complete i-n-g primary documents / T7S_B0080–T7S_B0143; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 169 complete i-n-g primary documents / T7S_B0080–T7S_B0144; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 665`; `revisions = 42`; `predictions = 7`; `AV_reviews = 90`; `literary_findings = 665`. Claims are bounded to their stated B0001 through B0143 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 64 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 669`; `revisions = 42`; `predictions = 7`; `AV_reviews = 91`; `literary_findings = 669`. Claims are bounded to their stated B0001 through B0144 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 65 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2173,3 +2173,26 @@ Owner and A/B/C locator key: [B0143](../02%20Readings/T7S_B0143_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. Seventy-nine dialogue-associated voice pages plus title cues, BGM/SFX, motion and film material remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0143_CLOSE-20260926`: four bounded claims and one AV review; no minor-production safeguard clearance, injury finding, blanket contact consent, romance verdict, specialist or monograph promotion.
+
+## B0144 dream/wake, bounded availability and stage-readiness
+
+Owner and A/B/C locator key: [B0144](../02%20Readings/T7S_B0144_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.46. Native `EPISODE.3.5-001` is i-n-g3 within the admitted portfolio, not evidence of a total fictional interval from prior i-n-g2 case.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0144-001` | `BOUNDED_INFERENCE`; D1; high | Late-stage panic is marked as dream; real equipment delay releases time for ordinary peer encounters without an actual missed live. | A:P4–59; B:P1–84; C:P1–53. Later live result unshown. |
+| `CL-B0144-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Affiliation remains present across separate schedules: Shizuka explores, Hime shops, sisters collect Kajika and Musubi walks with Haru. Departures are not rejection or proof of universal availability. | A:P44–91; B:P1–84; C:P1–15. No general calendar audit. |
+| `CL-B0144-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Musubi's shared-cleaning principle and Haru's readiness expose backstage infrastructure as collective work; costume care and stage repair do not remove maintenance, cleaning or rest questions. | A:P30–43; C:P17–29,42–65. No enacted cleanup/safety clearance. |
+| `CL-B0144-004` | `BOUNDED_INFERENCE`; D1; high for presentation/limit | Same costume body appears in Haru's explicit dream and later waking outfit, supporting a visual echo; no source explains the match or verifies her speculative `seventh ability`. | A:P4–21; C:P57–94. Dream fitting is not prior waking fitting; no mechanism. |
+
+### AV-0091 — costume echo and everyday-object states
+
+- Questions/claims: whether native visuals establish actual missed show, psychic mechanism, purchases, frog taxonomy, completed cleaning, song/audience or future stages; `CL-B0144-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for dream mechanism, transactions, performance and future schedule restrictions.
+- Selection: Haru schoolwear `adv_chara_003_01_15`, dream outfit `003_09_04`, later outfit `003_09_05`; Shizuka `010_01_02`; Hime `006_01_05`; Shinju `014_01_06`; Sawara `012_01_01`; Musubi `004_01_17`; facade `adv_obj_0150`, tofu memo `0151`, cat pen `0152`. All 276 native pages and forty-two command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.46 binds eleven media receipts.
+- Observed: dream and later stage Haru share `003_09` costume body with different facial states. `7 MART`, tofu pad and pen are exact product/facade appearances, not purchase receipts. No selected frog asset, equipment failure mechanism, song or crowd.
+- Native occurrence: command-only A:P0–3,8,22–25,30,53–55,92; B:P0,27,41–44,85; C:P0,2,6–8,38–41,49,54–56,79–82,90,94–96. Dream/wake and final costume/stage are distinct presentation segments; C ends before actual song.
+- Outcome: `REVIEWED` for eleven selected static resources and all native page-state segmentation. One hundred ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and the scheduled live remain unauditioned/unshown and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0144_CLOSE-20260926`: four bounded claims and one AV review; no proven psychic power, itemized purchase, completed cleaning, show verdict, future schedule, specialist or monograph promotion.
