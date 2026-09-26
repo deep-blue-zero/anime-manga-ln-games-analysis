@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.58"
+version: "1.59"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0158`.
-- Completed run blocks: **59/60**; completed run episodes: **171/174**.
-- Next: `T7S_B0159`, chapter `301310`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0159`.
+- Completed run blocks: **60/60**; completed run episodes: **174/174**.
+- Next: final sixty-block integration and publication audit; no new story source.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -95,7 +95,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0156` | `301280` | 白鳥トモエ | 貴方が歩くための私の歌 | `612201301 / 612201302 / 612201303` | CLOSED |
 | `T7S_B0157` | `301290` | 榎並マドカ | ナナスタ任侠伝 ～姉妹仁義～ | `612201401 / 612201402 / 612201403` | CLOSED |
 | `T7S_B0158` | `301300` | 折笠アユム | ぽえ☆ぽえ★パンデミック | `612201501 / 612201502 / 612201503` | CLOSED |
-| `T7S_B0159` | `301310` | 上杉・ウエバス・キョーコ | You are Today | `612201601 / 612201602 / 612201603` | AUTHORIZED_UNREAD |
+| `T7S_B0159` | `301310` | 上杉・ウエバス・キョーコ | You are Today | `612201601 / 612201602 / 612201603` | CLOSED |
 
 ## B0100 closeout receipt
 
@@ -342,3 +342,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0158 closeout receipt
 
 [T7S_B0158](../02%20Readings/T7S_B0158_DEEP_READING.md): An Ayumu/Sisara/NI+CORA stage proposal is interrupted by Ayumu's fever; the ensemble unexpectedly adopts her speech, speculates about a mechanism, prioritizes care, and recovers ordinary speech as she improves. She then cares for an ill Player and reframes maid service through remembered reciprocity. All 261 pages, 229 text records and 32 command-only pages are reviewed; 8 exact static composites were inspected. Source-lock 12.60 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 182 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 59/60 blocks, 171/174 episodes; publication remains pending.
+
+## B0159 closeout receipt
+
+[T7S_B0159](../02%20Readings/T7S_B0159_DEEP_READING.md): Kyoko auditions for a remake of a film starring her retired-actress mother Midorikawa Juri/Uesugi Asuna; friends protect her disclosure, help imperfectly, and stay with her after she loses to another newcomer. She grieves, respects her mother's craft, and affirms her own idol path without proving casting motive or a permanent cure for comparison. All 431 pages, 392 text records and 39 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.61 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 330 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 60/60 blocks, 174/174 episodes; publication remains pending.

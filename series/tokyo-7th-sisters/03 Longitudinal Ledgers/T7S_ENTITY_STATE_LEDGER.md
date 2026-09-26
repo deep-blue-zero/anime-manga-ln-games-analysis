@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.59"
+version: "11.60"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 211 complete i-n-g primary documents / T7S_B0080–T7S_B0158; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 214 complete i-n-g primary documents / T7S_B0080–T7S_B0159; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 97`; `character_states = 79`; `epistemic_states = 468`; `directional_relationship_states = 662`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0158, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 98`; `character_states = 80`; `epistemic_states = 478`; `directional_relationship_states = 669`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0159, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3681,3 +3681,45 @@ The [B0158](../02%20Readings/T7S_B0158_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0662` | Ayumu → Coney, **accepting bounded care request** | Remembers care, agrees to help Player until team returns. C:P68–92. Reciprocal `REL-0661`; newly recovered work burden remains visible. |
 
 `T7S_B0158_CLOSE-20260926`: eight epistemic states, four directional relationship pairs and existing character/unit annotations; no new identity, medical ontology or performed joint unit.
+
+## B0159 Kyoko, her offscreen mother and chosen support
+
+The [B0159](../02%20Readings/T7S_B0159_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.61, binds these updates. Existing Kyoko `IDENTITY-0077`/`CHAR-0059`, Rena `CHAR-0064`, Honoka `CHAR-0063`, Player `CHAR-0001` and Nanastar `UNIT-0002` remain. The one new reported route resolves the former actress's screen/personal names; no independent mother portrait, film performance, producer identity or successful newcomer's name is supplied.
+
+| ID / route | Identity resolution and limit | Evidence and confidence |
+| --- | --- | --- |
+| `IDENTITY-0098` / `uesugi-asuna-midori-kawa-juri` | `翠川ジュリ` is the retired actress's screen name; `上杉アスナ` is her personal name, and Kyoko identifies her as mother. This is one reported offscreen person, not a separate Juri/Asuna pair or Kyoko alias. | A:P103–123; B:P23–31. High for Kyoko/Rena's local identification; actual civil documents, full career and present circumstances uninspected. |
+
+| Existing/new stable ID / role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0059` / Kyoko | Accepts remake lead audition, authorizes mother disclosure, studies, receives imperfect/practical support, loses, cries and asserts own idol path with respect for mother. | A:P30–125; B:P1–138; C:P3–164. No casting-bias proof, skill ranking, career guarantee or permanent comparison cure. |
+| `CHAR-0080` / Asuna / Juri | Reported retired film actress and lead of original *Agapanthus for You*, Kyoko's mother; Kyoko recalls her cross-gender acting and now respects her skill. | A:P112–123; B:P102–103; C:P137–144. No direct appearance, complete film review, private motive or actual current advice to Kyoko. |
+| `CHAR-0064` / Rena | Checks Kyoko's strain, protects family disclosure until permission, volunteers scene work, switches to chores, stays when Kyoko wants to hide tears. | A:P79–109; B:P1–138; C:P3–132. Support is locally accepted; privacy preference not permanently revoked. |
+| `CHAR-0063` / Honoka | Improves omelet, learns mother link with permission, watches old film, offers awkward scene work then food/chores, comforts Kyoko after loss. | A:P0–27,93–125; B:P40–138; C:P3–132. Rehearsal confession is fictional and cooking is not acting instruction. |
+| `CHAR-0001` / Player | Brings audition offer, adjusts lesson plan, learns mother link, waits/comes to meet Kyoko, lends handkerchief and affirms her distinct name. | A:P19–125; C:P3–164. He does not know production motive or control casting. |
+| `UNIT-0002` / Nanastar | Supports Kyoko's external audition and preparation; peers and manager provide logistics/comfort. | A:P30–77; B:P40–138; C:P3–164. No lead role won, producer rubric or full acting credential. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0469` | Rena/Kyoko taste Honoka's improved omelet; Honoka reserves Player's portion. | A:P0–27. Player does not taste in scene. |
+| `KNOW-0470` | Player knows unnamed contact invited Kyoko to audition and film title; Kyoko recognizes original and asks intensive lessons. | A:P30–77. Contact motive unknown. |
+| `KNOW-0471` | Rena knows mother link but withholds; Kyoko authorizes Player/Honoka to learn that Juri is Asuna and her mother. | A:P79–125. Offscreen person, no independent documents beyond character report. |
+| `KNOW-0472` | Kyoko entertains lineage/resemblance hypotheses but explicitly says she does not know whether inviter knew. | B:P23–35; C:P139–145. Her later fairness impression also not audit. |
+| `KNOW-0473` | Rena checks overwork; Kyoko reports sleep; Rena/Honoka view film and offer rehearsal. | B:P1–63. Subjective film response, no health or cinematic assessment. |
+| `KNOW-0474` | Peers learn line reading is difficult and hear Kyoko's first-person role method/mother example. | B:P68–117. No universal method or real Honoka confession. |
+| `KNOW-0475` | Rena/Honoka judge acting help limited, offer chores; Kyoko privately says it helps and vows to win. | B:P118–138. No effect on audition proven. |
+| `KNOW-0476` | Kyoko reports loss, newcomer selected, and inviter's apology; Player/peers learn outcome from her. | C:P58–92. Audition/rubric unobserved. |
+| `KNOW-0477` | Rena infers Kyoko plans to cry alone, refuses to leave; Honoka sees grief and Kyoko thanks them after tears. | C:P93–132. Local inference accepted here, not future privacy rule. |
+| `KNOW-0478` | Kyoko articulates respect, self-distance and renewed idol resolve; Player distinguishes her identity from mother. | C:P133–164. Durability and future booking unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0663` | Rena → Kyoko, **privacy-guarding and present support** | Withholds family detail until permission, checks strain, offers chores, stays for tears. A:P79–109; B:P1–138; C:P93–132. Reciprocal `REL-0664`; not blanket authority over privacy. |
+| `REL-0664` | Kyoko → Rena, **trust, accepted help and thanks** | Grants disclosure, accepts practice/chores, cries in company and thanks her. A:P103–110; B:P56–63,118–138; C:P93–132. Reciprocal `REL-0663`; no guaranteed success. |
+| `REL-0665` | Honoka → Kyoko, **food, rehearsal and emotional recognition** | Offers scene work/meal and says Kyoko worked hard and is disappointed. B:P40–138; C:P103–125. Reciprocal `REL-0666`; fictional confession not personal. |
+| `REL-0666` | Kyoko → Honoka, **receiving limited practice and care** | Accepts assistance, notes awkward acting, receives comfort and thanks her. B:P56–138; C:P103–125. Reciprocal `REL-0665`; no technical score gain shown. |
+| `REL-0667` | Player → Kyoko, **opportunity and distinct-name affirmation** | Brings audition, supports schedule, comes to meet, lends handkerchief and says she is herself. A:P30–77; C:P39–164. Reciprocal `REL-0668`; no casting authority. |
+| `REL-0668` | Kyoko → Player, **chosen audition and renewed idol promise** | Accepts opportunity, thanks him, asks him to keep watching the group. A:P58–77; C:P126–164. Reciprocal `REL-0667`; not dependency or romance. |
+| `REL-0669` | Kyoko → Asuna/Juri, **reported daughterly respect and comparison** | Names her mother, studies original, recognizes skill and separates own work from legacy. A:P103–123; B:P102–103; C:P133–159. No reciprocal mother state inferred. |
+
+`T7S_B0159_CLOSE-20260926`: ten epistemic states, six reciprocal directions plus one reported one-way mother relation, one reported identity and character state; no invented reciprocal maternal intention.

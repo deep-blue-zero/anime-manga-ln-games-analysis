@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.59"
+version: "11.60"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 211 complete i-n-g primary documents / T7S_B0080–T7S_B0158; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 214 complete i-n-g primary documents / T7S_B0080–T7S_B0159; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 693`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 817`; `last_closed_block = T7S_B0158`. The admitted horizon contains 446 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 211 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 703`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 831`; `last_closed_block = T7S_B0159`. The admitted horizon contains 449 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 214 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2475,3 +2475,39 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.60. [B0158](../02%20Readings/
 | `EDGE-0824` | `RECIPROCAL_SERVICE_TO_BOUNDED_PROMISE` | She promises more care for Player's smile; not forced convalescent labor or romance. |
 
 `T7S_B0158_CLOSE-20260926`: eight events and twelve typed edges; no actual epidemic mechanism, performed stage or certified medical process.
+
+## B0159 a mother's film, a daughter's audition and her present name
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.61. [B0159](../02%20Readings/T7S_B0159_DEEP_READING.md) owns the A/B/C locator key. *Agapanthus for You* is an in-story film and remake, not available as an independent AV source. The audition, successful newcomer's performance and staff rubric are likewise uninspected. Kyoko's mother has a named, reported identity link, but no direct scene or acted-film review. The chapter does not prove the invitation's nepotistic or meritocratic motive.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0159-001` | Honoka's revised omelet earns Rena/Kyoko praise; she saves Player's portion, but he calls Kyoko away. | A:P0–27; `KNOW-0469`. No Player tasting or finished recipe rating. |
+| `EV-B0159-002` | Player relays chance industry invitation to audition for lead of mother's-film remake; Kyoko accepts and requests acting lessons. | A:P30–77; `KNOW-0470`. Audition offer, not casting; reason unknown. |
+| `EV-B0159-003` | Rena initially withholds family information; Kyoko returns and permits disclosure that retired actress Midorikawa Juri is her mother Uesugi Asuna. | A:P79–125; `KNOW-0471`. Reported identity, not direct mother appearance. |
+| `EV-B0159-004` | Kyoko says producer may or may not know her lineage and elects to give best effort regardless. | B:P23–35; C:P139–145; `KNOW-0472`. Second-generation concern not casting evidence. |
+| `EV-B0159-005` | Rena checks workload; she/Honoka watch original and offer scene partnering, which Kyoko accepts. | B:P1–16,40–63; `KNOW-0473`. Viewers' reaction not independent film review. |
+| `EV-B0159-006` | Peers' line reading is awkward; Kyoko explains subjective role inhabiting and remembers mother's cross-gender roles. | B:P68–117; `KNOW-0474`. Fictional confession is not Honoka's real declaration; no universal craft method. |
+| `EV-B0159-007` | Rena/Honoka switch to dinner/laundry/chores; Kyoko feels supported and vows to pass. | B:P118–138; `KNOW-0475`. No demonstrated acting gain or guaranteed result. |
+| `EV-B0159-008` | Kyoko reports losing audition to another agency's newcomer and says inviter apologized; team did not observe selection. | C:P3–92; `KNOW-0476`. Process and comparative talent not independently verified. |
+| `EV-B0159-009` | Rena refuses Kyoko's attempt to leave and cry privately; Honoka names hurt, Kyoko weeps and thanks peers/Player. | C:P93–132; `KNOW-0477`. Locally accepted presence, not standing privacy waiver. |
+| `EV-B0159-010` | Kyoko says she respects mother anew, sees her own gap, feels able to face idol work; Player calls her herself. | C:P133–164; `KNOW-0478`. Present resolution, not permanent relief, new booking or mother rupture. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0825` | `HONOKA_PRACTICE_TO_PRACTICAL_HELP` | Omelet gain in `EV-B0159-001` returns as meal offer in `EV-B0159-007`. |
+| `EDGE-0826` | `CHANCE_CONTACT_TO_AUDITION_INVITE` | Player relays named invitation, not selection or reason. |
+| `EDGE-0827` | `FILM_TITLE_TO_KYOKO_URGENCY` | Her knowledge of mother-led original helps explain intensive preparation; not known to Player initially. |
+| `EDGE-0828` | `RENA_PRIVACY_TO_KYOKO_AUTHORIZATION` | Rena pauses until Kyoko allows disclosure in `EV-B0159-003`. |
+| `EDGE-0829` | `SCREEN_AND_PERSONAL_NAMES_TO_REPORTED_MOTHER_ROUTE` | Kyoko and Rena identify Juri/Asuna as one mother; actress offscreen. |
+| `EDGE-0830` | `LINEAGE_UNCERTAINTY_TO_DETERMINED_AUDITION` | Kyoko tries whether or not staff recognized lineage; no staff testimony. |
+| `EDGE-0831` | `FRIENDS_FILM_VIEWING_TO_SCENE_PARTNER_OFFER` | Rena/Honoka prepare to help, not to evaluate film independently. |
+| `EDGE-0832` | `AWKWARD_REHEARSAL_TO_HELP_REDIRECTION` | Weak line reading moves peers toward ordinary chores in `EV-B0159-006`–`007`. |
+| `EDGE-0833` | `PRACTICAL_HELP_TO_KYOKO_STRENGTH` | She says support steadies her; no audition-score causation. |
+| `EDGE-0834` | `AUDITION_LOSS_TO_CONCEALED_GRIEF` | Kyoko reports failure and tries to leave before crying in `EV-B0159-008`–`009`. |
+| `EDGE-0835` | `RENA_PRESENCE_TO_SHARED_TEARS` | Rena/Honoka stay and Kyoko accepts comfort locally; no universal override. |
+| `EDGE-0836` | `GRIEF_EXPRESSION_TO_THANKS` | Kyoko thanks peers and Player after crying; no permanent repair proven. |
+| `EDGE-0837` | `MOTHER_CRAFT_TO_DIFFERENTIATED_RESPECT` | Kyoko respects mother while recognizing own distance in `EV-B0159-010`. |
+| `EDGE-0838` | `PLAYER_DISTINCT_NAME_TO_IDOL_RECOMMITMENT` | He affirms Kyoko is herself; she chooses next work, not guaranteed career. |
+
+`T7S_B0159_CLOSE-20260926`: ten events and fourteen typed edges; mother identity is attributed, casting motive and acted performance remain unverified.

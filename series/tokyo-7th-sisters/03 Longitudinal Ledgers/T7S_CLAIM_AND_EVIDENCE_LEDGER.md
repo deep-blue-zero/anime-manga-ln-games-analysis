@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.59"
+version: "11.60"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 211 complete i-n-g primary documents / T7S_B0080–T7S_B0158; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 214 complete i-n-g primary documents / T7S_B0080–T7S_B0159; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 739`; `revisions = 42`; `predictions = 7`; `AV_reviews = 105`; `literary_findings = 739`. Claims are bounded to their stated B0001 through B0158 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 79 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 745`; `revisions = 42`; `predictions = 7`; `AV_reviews = 106`; `literary_findings = 745`. Claims are bounded to their stated B0001 through B0159 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 80 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2532,3 +2532,28 @@ Owner and A/B/C locator key: [B0158](../02%20Readings/T7S_B0158_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected exact resources and all native page-state segmentation. One hundred eighty-two dialogue-associated voice pages, BGM/SFX, pathogen/medical records, complete care procedure and future show remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0158_CLOSE-20260926`: five bounded claims and one AV review; no established viral or supernatural mechanism, treatment endorsement, performed stage, specialist or monograph promotion.
+
+## B0159 legacy, audition and support after loss
+
+Owner and A/B/C locator key: [B0159](../02%20Readings/T7S_B0159_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.61. Prior Kyoko contexts B0031/B0077/B0083/B0121 are bounded comparison horizons, not a total-order claim.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0159-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Kyoko's mother is a respected craft predecessor, neither automatic casting advantage nor identity to copy; Kyoko can lose and still assert her own idol name. | A:P44–77,103–125; C:P133–164. No mother rupture or permanent comparison cure. |
+| `CL-B0159-002` | `BOUNDED_INFERENCE`; D1; high | Whether industry inviter knew Kyoko's lineage is unknown; Kyoko's second-generation suspicion and later fairness judgment are situated beliefs, not a reviewed casting file. | A:P30–55; B:P23–35; C:P82–85,134–145. No bias proof or official rubric. |
+| `CL-B0159-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Rena's delay until Kyoko permits disclosure respects control over family history; friends' switch from awkward scene reading to chores recognizes limits without withdrawing support. | A:P79–125; B:P40–138. No unilateral privacy waiver or acting expertise. |
+| `CL-B0159-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Rena/Honoka's presence lets Kyoko share grief after loss, while her later gratitude/resolution does not erase the pain or establish a universal rule to override solitude. | C:P75–164. No durable cure. |
+| `CL-B0159-005` | `BOUNDED_INFERENCE`; D1; high | Kyoko's subjective role method and peers' practice cannot substitute for unobserved acted film, audition tape or comparative skill test; Honoka's scripted confession is not an actual romantic declaration. | B:P68–117; C:P82–85. No global acting ranking. |
+| `CL-B0159-006` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Honoka's opening omelet progress becomes concrete meal help for Kyoko; ordinary support can matter to a chosen risk without owning the audition result. | A:P0–27; B:P118–138; C:P93–132. No measured score effect. |
+
+### AV-0106 — three friends, absent mother and unseen audition
+
+- Questions/claims: whether sprites identify Asuna/Juri or selected newcomer, prove stage-to-real romance, rank acted-film quality, establish casting motive, or guarantee emotional recovery; `CL-B0159-001`–`006`.
+- Priority/modality: `AV-B` for native-state and seven selected exact static resources; `AV-D` for original film, audition tape/rubric, performed voice and later outcomes.
+- Selection: Kyoko `adv_chara_123_01_01`, crying `123_01_09`, determined `123_01_05`; Honoka `124_01_01`/`_04`; Rena `125_01_01`/`_02`. All 431 native pages and thirty-nine command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.61 binds seven media receipts.
+- Observed: three distinct performers and Kyoko's expression states. No selected art directly depicts her mother, auditionee or panel; expressions do not authenticate quality, motive or durable internal change.
+- Native occurrence: command-only A:P28–29,78,126; B:P0,19–22,36–39,64–67,132,138; C:P0–2,24–27,53–57,66–67,92,112–115,164. A title break follows food cold open; C scene cuts separate waiting, street meeting, grief and aftermath.
+- Outcome: `REVIEWED` for seven selected exact resources and all native page-state segmentation. Three hundred thirty dialogue-associated voice pages, BGM/SFX, full old film, audition/casting file and future acting work remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0159_CLOSE-20260926`: six bounded claims and one AV review; no nepotism/fairness verdict, technical acting ranking, romance promotion, specialist or monograph promotion.
