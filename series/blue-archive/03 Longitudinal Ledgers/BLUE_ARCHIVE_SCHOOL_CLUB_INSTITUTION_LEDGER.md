@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -349,3 +349,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Alice's proposed school identity:** first-year, recent transfer, missed course applications, classes next month and present club eligibility are rehearsed claims. The E006 card is physically present in prior evidence, but current lawful enrollment, course exception and Veritas action remain unverified.
 - **Separate qualifications:** E004's unknown factory gate, E007's engineering weapon test and E008's club-member review do not share an established legal or technical authority.
 - **Pending outcome:** Yuuka has only announced simple questions after a `取り調べ` slip. No substantive answer, registry audit, admission certification or dissolution is in this unit.
+
+## V002 C001 E009 institutional delta — actual recognition, renewed output gate
+
+- **Register:** Yuuka says she personally confirmed Alice's name on the student roll, adding an independent observation to E006's Momoi claim. The method, lawfulness, school-transfer history and Alice's informed approval are still unverified.
+- **Club standing/resources:** Yuuka formally recognizes the four-member Game Development Club and permits club budget/room through `今学期`. This is an actual local decision, not merely Momoi's E008 optimism.
+- **Two-part rule:** Yuuka says member count and demonstrated output are now required; the newly changed rule has a grace period until this month's end. Four or four hundred members do not avert dissolution without results. Rule text/effective date and precise calendar remain unseen; E002's two-week reprieve is not given an invented date reconciliation.
+- **Notice:** Yuuka says the requirement was explained at a club-heads meeting, which Yuzu missed. Yuzu apologizes for absence, but the meeting's record and the corrupted stand-in/item-drop explanation cannot establish exact responsibility or motive.
+- **Prize/ruins:** Yuuka invokes Momoi's Millennium Prize promise; the club independently resolves to seek `G.Bible` again, with Yuzu volunteering. No expedition or discovery occurs here, and no source verifies the object's promised creative efficacy.

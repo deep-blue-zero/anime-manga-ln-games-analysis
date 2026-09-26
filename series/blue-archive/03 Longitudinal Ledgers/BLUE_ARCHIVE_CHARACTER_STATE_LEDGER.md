@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -390,3 +390,14 @@ Material context and resource evidence, no standalone model or promotion; `NO_DI
 - **Sensei/Yuzu/engineers:** no direct sample or state change.
 
 Material contextual evidence for Yuuka/Alice/Momoi/Midori, but no standalone rule or readiness promotion; sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`, and `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0021`, `u:0023`, `u:0030-0031`, `u:0045` for precise speaker voice/agency.
+
+## V002 C001 E009 delta — qualified recognition and Yuzu's direct commitment
+
+- **Yuuka:** verifies Alice's roster entry, sees suspicious answers and Momoi's stare, yet treats Alice's game interest as credible. Formally recognizes the four-member club with budget/room only through this term, while requiring demonstrable results by month-end. She says she considered immediate removal because Alice's identity remains suspicious. Her judgment is discretionary and bounded, not independent proof of lawful enrollment or perfect consent. Still `UNMODELED`.
+- **Alice:** awkwardly substitutes a game-origin/programmer story and revives companions through RPG inn/church mechanics; directly praises games. Yuuka's acceptance and the club ruling do not verify transfer, skill, registration provenance or complete freedom from pressure. Later celebrates Yuzu and equips the railgun.
+- **Momoi:** displays the card and, according to Yuuka, visibly stares at Alice while she answers. Relief at recognition becomes anger at the still-live output deadline; she calls for a return to `G.Bible`. Her care and instrumental pressure remain simultaneous.
+- **Midori:** fears exposure and the deadline, reports Yuzu has barely left the school building for almost half a year and studies online, then affirms joint room defense. Her report is not a diagnosis of Yuzu.
+- **Yuzu:** apologizes for missing a reported club-heads meeting, says responsibility is hers, and directly offers to join the ruins return because the room is now shared. This is a declared risk-taking decision, not observed outdoor travel. The item-drop/stand-in exchange is role-flipped and not a secure personal motive.
+- **Sensei/engineers:** absent; no direct change.
+
+Material decision/relationship evidence, no standalone model or readiness promotion (sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`); `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0012`, `u:0043-0044`, `u:0082-0090`, `u:0100-0101` for exact speaker claims.

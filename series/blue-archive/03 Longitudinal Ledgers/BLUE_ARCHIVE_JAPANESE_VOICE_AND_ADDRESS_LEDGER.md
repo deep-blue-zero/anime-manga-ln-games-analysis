@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -752,3 +752,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `自分の意志でここに来た部員だったら` is Yuuka's explicit voluntary-membership condition. Her `取り調べ` slip is followed by `簡単な質問`; this is a prospective inquiry, not completed interrogation.
 - `バッドエンド` is Alice's gaming frame for review risk; it does not indicate a literal choice branch. No Sensei choices occur.
 - **Attribution quarantine:** `u:0021`, `u:0023`, `u:0030-0031`, and `u:0045` conflict with address/turn logic. Use secure surrounding turns for topic sequence, not exact speaker-specific voice rules.
+
+## V002 C001 E009 delta — verified entry, game slips, shared-room resolve
+
+- `左目で瞬きをして` is Yuuka's coercion check. Alice's `……？` does not answer it clearly; Yuuka's notice of Momoi's stare is a separate direct pressure cue.
+- `生徒名簿にアリスちゃんが登録されていることも確認` is Yuuka's own register check, stronger than Momoi's E006 self-interrupted `ハッキ……登録` report, but not proof of lawful origin.
+- `タンク兼光属性アタッカー` → `プログラマラス` → `プログラマー` exposes Alice's unrehearsed slippage under questions. `宿屋`/`聖堂` revival is game knowledge, not a literal work-safety account.
+- `正体も怪しい` and `純粋な気持ちは本物` are Yuuka's distinct identity doubt and sincere-interest appraisal; `正式な部活として認定` is her actual decision.
+- `今学期` limits budget/room; `今月末` is Yuuka's reported results deadline. No calendar date is supplied to reconcile them with E002's two-week phrasing.
+- `部長会議` is Yuuka's notice claim; `責任、取らないと`, `もうわたしだけのものじゃない`, `一緒に、守りたい` are secure Yuzu commitment language.
+- **Attribution quarantine:** `u:0012`, `u:0043-0044`, `u:0082-0090`, `u:0100-0101` have role-flipped or impossible labels. Do not assign the item-drop excuse, game-deletion demand or post-offer command to a person-specific voice rule. No Sensei choices.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -505,3 +505,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **RPG role versus civic role:** Alice can recite a school introduction when cued but first offers an avatar biography, later a tank role, then a shaky programmer claim. Learning a script is not the same as occupying its claimed institutional history.
 - **Hero/villain framing misfires:** Momoi's earlier antagonist treatment of Yuuka becomes Alice's `妖怪` insult; Momoi's `妖精` repair cannot remove the face-to-face relational cost.
 - **Question cliffhanger:** the episode stops before Yuuka asks anything substantive. `バッドエンド` signals Alice's anxious frame, not a foretold ruling.
+
+## V002 C001 E009 motif / callback delta — recognized, not released from conditions
+
+- **Visible paper versus chosen belonging:** Yuuka checks the roster and sees the card but does not rest approval on those alone; Alice's game enthusiasm matters. The source leaves status provenance and free choice unresolved.
+- **Number plus outcome:** four members secure formal recognition, then `今学期` and `今月末` reintroduce measurable production. Yuuka's earlier result demand survives the membership route; neither route alone is permanent rescue.
+- **Game syntax exposed to literal risk:** Alice answers a work-role question with party combat terms and describes revival at inns/churches. Yuuka's rest warning is a reality check, not acceptance of the fantasy as bodily truth.
+- **Guilt becomes shared stewardship:** Yuzu moves from hidden listener/locker to an explicit offer to protect a room now shared by others; the group celebrates her as party member. Whether she can make the trip remains future-facing.
+- **Shortcut temptation returns:** lacking demonstrated results, the club again hopes `G.Bible` will help produce a prize-worthy game. E003's coordinate and legend skepticism remain active; no discovery is shown.

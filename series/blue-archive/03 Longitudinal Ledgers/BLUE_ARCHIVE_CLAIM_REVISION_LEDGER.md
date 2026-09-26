@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E008 active provisional; E009 unopened
+current_sequential_boundary: MAIN_V002_C001_E009 active provisional; E010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1172,3 +1172,12 @@ No `BA-C019` yet. Utaha's nanomachine/combat-purpose account is an inference fro
 - **BA-C009–C018: PRESERVE / no direct global test** — Millennium's club membership review remains locally scoped.
 
 No `BA-C019` is opened. Yuuka reports a rule change, but no regulation is displayed; Alice's transfer/programming story is rehearsed, not verified. Actual questions, ruling, and club survival remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E009 claim transitions — recognition without unlimited security
+
+- **BA-C001–C004, C007: REVISE / pressure-test** — Yuuka distinguishes Alice's apparent genuine game interest from her suspicious identity script, grants formal club recognition and a bounded opportunity for results. That partial agency-sensitive judgment does not eliminate visible club pressure or the unverified roster provenance.
+- **BA-C005–C006: PRESERVE REJECTED** — no adult action; Yuuka, Alice, the sisters and Yuzu make differentiated, fallible decisions with mixed motives and constraints.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice or action.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium's two-part club criterion does not revise Abydos/Kaiser facts.
+
+No `BA-C019` is opened. Yuuka's regulation, meeting notice and month-end grace are her reports; actual recognition and the term limit are directly spoken. `G.Bible` remains a hoped-for solution, not a found or proven resource. Contextual backfill remains **DEFER**.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:008; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:009; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -530,3 +530,9 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Sensei is absent: no speech, physical intervention, review command or selectable choice is represented. Do not credit an adult with Yuuka's criterion or the club's rehearsal (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
 - Yuuka's `自分の意志` test bears on the standing ethical distinction between enabling another person's agency and merely producing a useful institutional status. Alice's prior `仲間` language matters but does not prove informed knowledge of card provenance or freedom from club-survival pressure.
 - The review has not asked substantive questions or ruled. No frozen adult-model prediction can be adjudicated (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E009 delta — student-only recognition and renewed risk
+
+- Sensei is absent from the questioning, Yuuka's formal recognition, the output deadline and the decision to seek `G.Bible`; no adult action/choice is represented (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
+- Yuuka tests for coercion, notices Momoi's stare and credits Alice's game love despite suspicious biography. This is a student institutional attempt to respect agency, but a card/roster entry and short exchange do not certify informed status consent.
+- The club's renewed ruins plan is its own decision, with Yuzu directly volunteering. Sensei's prior help in E003–E004 is no automatic authorization, protection or command for this prospective trip. No frozen prediction is testable (`NO_DIAGNOSTIC_OPPORTUNITY`).
