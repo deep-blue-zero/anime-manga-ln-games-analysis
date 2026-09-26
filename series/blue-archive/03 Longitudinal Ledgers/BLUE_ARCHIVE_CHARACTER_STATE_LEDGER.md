@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -411,3 +411,13 @@ Material decision/relationship evidence, no standalone model or readiness promot
 - **Sensei:** reports being okay after the first blast and has two affirmative choice variants in response to Alice; Midori then requests tactical direction. No battle result or safety guarantee is shown. Existing `PARTIAL_MODEL` remains bounded.
 
 Material situated reconstruction evidence, no standalone rule or readiness promotion (sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`); `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0020-0026` for precise tactical attribution and `u:0039-0040` as branch-conditioned duplication.
+
+## V002 C001 E011 delta — system recognition, locked file, extraction risk
+
+- **Alice:** reports felt familiarity and bodily pull without explicit memory. The factory terminal asks if she is `AL-1S`, then claims voice-recognized eligibility and welcomes her back, but glitches before answering her identity question. This strengthens a system connection, not proof of original name, builder or purpose. Later accepts a rearguard role.
+- **Momoi:** offers her handheld memory card for the system's `G.Bible` transfer, protests reported deletion of existing save data, attempts to run the new `G.Bible.exe` and meets a password. Secures the device under robot fire and assigns Yuzu to protect Sensei while she/Alice cover the rear. File authenticity, save recovery and safe exit remain open.
+- **Midori:** questions whether `Divi:Sion System` names the factory, sees terminal recognition and locked file, conjectures Veritas can handle a normal password, warns of robot/noise danger and offers support. These are situated evidence/risk appraisals, not proven forecasts.
+- **Yuzu:** asks whether `AL-1S` is Alice, connects a cable, reacts to robot speech and receives the Sensei-protection assignment. Exact earlier disclosure and assignment fulfillment are unshown.
+- **Sensei:** present in the factory as a protected participant but has no action/choice line. Early strength/ammo/command praise is label-corrupt and cannot be attributed precisely.
+
+Material identity, resource and tactical context; no standalone model/readiness promotion (sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`) or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine `u:0003-0014`, `u:0041-0042`, `u:0047`, `u:0099-0101` for speaker-specific claims.

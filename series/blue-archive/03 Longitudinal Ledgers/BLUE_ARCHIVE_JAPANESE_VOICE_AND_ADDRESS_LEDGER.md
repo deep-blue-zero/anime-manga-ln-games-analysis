@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -772,3 +772,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `アリスが先生を守ります` is Alice's promise, not confirmed future capacity. `アリスを信じて、私たちと一緒に来てくれますか` explicitly asks the vulnerable adult to accompany her.
 - Sensei `choice:001` has two affirmative alternatives: bare `もちろん` versus `仲間として` with a contribution offer. `u:0039-0040` are branch-conditioned duplicate Alice reactions, not two acts. Alice's party welcome follows convergence.
 - `先生、指揮をお願いします` is Midori's clear request for tactical command. No ensuing combat direction or result occurs in this unit.
+
+## V002 C001 E011 delta — bodily familiarity, machine credential, opaque archive
+
+- `見慣れた景色`, `セーブデータ`, `この身体が、反応しています` are Alice's direct analogy for a felt familiarity without accessible memory, not a recovered history.
+- `Divi:Sion Systemへ、ようこそ` is an interface welcome; Midori's question whether it names the factory remains a question.
+- `あなたはAL-1Sですか` followed by `音声を認識、資格が確認できました。おかえりなさいませ、AL-1S` is the terminal's credential/return assertion. It is stronger than a visible body mark but not independent provenance or an answer to Alice's self-question.
+- `コード：遊戯`, `人間、理解、リファレンス`, `ライブラリ登録ナンバー193`, `廃棄対象データ第1号` are displayed strings with no explained ontology; Momoi's `宝物` conflicts with `廃棄` as values, not an audited file description.
+- `私の中にG.Bibleがあります`, `転送完了`, `<G.Bible.exe>` and the password prompt distinguish system claim, file transfer and unreadable content. The system's `残念、削除` reports save-data loss despite Momoi's plea.
+- Robot `■■■` remains opaque; Yuzu's anger appraisal is not translation. **Attribution quarantine:** `u:0003-0014`, `u:0041-0042`, `u:0047`, `u:0099-0101` are role-flipped/impossible for precise voice rules. No Sensei choice group.

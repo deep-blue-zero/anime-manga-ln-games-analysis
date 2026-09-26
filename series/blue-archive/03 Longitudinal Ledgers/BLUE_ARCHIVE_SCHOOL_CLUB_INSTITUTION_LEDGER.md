@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -365,3 +365,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Factory/G.Bible:** a label-corrupt tactical speaker claims the reported `G.Bible` coordinates point to the factory, and that battle noise will draw more robots. E003's last-operation coordinate and E004's discovered factory do not independently prove current object location or a robot sensor mechanism.
 - **Club authority:** opposing retreat/breakthrough advice is represented, but exact individual authorship is unavailable. Midori securely asks Sensei to command the impending fight after affirmative participation; no battle outcome or factory access occurs within E010.
 - **Output gate:** Yuuka's month-end results requirement remains the club's motive; neither the potential object nor a game/prize result is obtained here.
+
+## V002 C001 E011 institutional delta — `Divi:Sion` terminal and locked transfer
+
+- **Factory:** the group reaches its interior. A powered interface identifies itself as `Divi:Sion System`; Midori wonders whether that is the factory's name, but ownership, purpose and building name remain unverified.
+- **Alice credential:** the terminal asks whether she is `AL-1S`, then claims voice-recognized `資格` and welcomes her back. Its classification/data source is unknown; the prompt/recognition materially link her to the system without revealing creator or legitimate access authority.
+- **`G.Bible`:** terminal catalog strings include `遊戯`, `人間、理解`, library 193 and disposal-data item 1. It claims `G.Bible` is inside, initiates transfer to Momoi's handheld memory card, reports deletion of existing data, and displays `<G.Bible.exe>` after completion. Contents and authorship remain unread; execution is password-blocked. Veritas unlock is only Midori's expectation.
+- **Resource consent:** Momoi provides storage but objects when told existing saves will be deleted; the system proceeds under its power countdown. Do not assume prior opt-in, independent file audit, or recovered saves.
+- **Security/escape:** a robot appears, emits opaque output and fires. Momoi allocates Yuzu to protect Sensei and herself/Alice to the rear, with Midori supporting. No safe exit, surviving carrier or prize-worthy product is shown.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -374,3 +374,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MIDORI ↔ SENSEI:** Midori voices the teacher's distinctive vulnerability and only then requests tactical command. Care and functional delegation are not contradictory; neither makes Sensei sovereign over the club's aim.
 - **MOMOI ↔ SENSEI:** Momoi warns the teacher to duck before the explosion; the teacher reports being okay. A concrete protective action, not a global relationship rule.
 - **GROUP ↔ ROBOTS/FACTORY:** first strike succeeds by group appraisal, a second wave approaches, and a disputed rationale favors breaking through. The exact tactic author, robot command, factory/G.Bible connection and result remain OPEN.
+
+## V002 C001 E011 relationship delta — recognized stranger and protective retreat
+
+- **ALICE ↔ TERMINAL/SYSTEM:** the interface calls her `AL-1S`, claims voice-confirmed eligibility and says welcome back; Alice asks whether it knows her. This is a direct institutional-machine encounter, not proof of benevolent relation, original identity or equal personhood with the system.
+- **ALICE ↔ CLUB:** her felt familiarity and the terminal's recognition are witnessed amid the club's prize-object search. Momoi continues the transfer; Alice's own identity question receives no answer. The club's instrumental aim and duty to attend to her self-knowledge remain in tension.
+- **MOMOI ↔ CLUB/ALICE/YUZU/SENSEI:** Momoi offers a card, protests save deletion, secures the data carrier and allocates Yuzu to protect Sensei while she and Alice cover the rear. Her extraction plan values both the claimed prize file and group survival; completion is unobserved.
+- **YUZU ↔ ALICE/SENSEI:** Yuzu asks if `AL-1S` is Alice, connects the cable, and is assigned to protect Sensei. A mislabeled reply at `u:0047` cannot prove exactly when or how Yuzu was told the body-mark story.
+- **GROUP ↔ ROBOTS:** a robot appears, emits opaque speech and fires after a loud moment; why it arrived and whether it is angry are unverified. Escape has begun, not concluded.

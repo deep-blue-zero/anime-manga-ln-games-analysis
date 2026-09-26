@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -521,3 +521,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Teacher as party member, not invulnerable hero:** Momoi warns Sensei to duck, Midori flags injury risk, Alice promises protection and asks trust; Sensei can assent as `仲間`. The Prologue/V001 bounded-adult motif recurs without proving safety.
 - **Sound/coordinate shortcut:** a disputed tactical argument treats noise as robot-attraction and the factory as a `G.Bible` coordinate destination. Neither mechanism nor object location is confirmed; narrative urgency does not convert them into facts.
 - **Authority by invitation:** Midori requests Sensei's command after the group chooses danger, echoing earlier requested battlefield coordination while leaving club purpose and consent distinct.
+
+## V002 C001 E011 motif / callback delta — named data, inaccessible knowledge
+
+- **Found versus understood:** E003's legendary `G.Bible` search yields a transferred `G.Bible.exe`, but a password blocks use. The “shortcut to a great game” remains a hope, not a demonstrated property.
+- **`AL-1S` returns as a credential:** E004's body marking is echoed by terminal voice recognition and `おかえり`; Alice's felt familiarity intensifies the identity mystery without answering it.
+- **Access costs:** the terminal's automatic save deletion converts an apparently helpful transfer into an unannounced sacrifice of Momoi's play history. A game archive costs another game archive; consent to the card is not consent to every overwrite.
+- **Discarded treasure:** cryptic `廃棄対象データ第1号` jars with Momoi's `宝物` rhetoric, recalling Yuuka's `ガラクタ`/Momoi's value conflict without proving the data's quality or origin.
+- **Party promise becomes escape allocation:** under robot fire, Momoi tasks Yuzu to protect Sensei and herself/Alice to hold the rear. E010's protective promises are not yet tested to a successful exit.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E010 active provisional; E011 unopened
+current_sequential_boundary: MAIN_V002_C001_E011 active provisional; E012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1190,3 +1190,12 @@ No `BA-C019` is opened. Yuuka's regulation, meeting notice and month-end grace a
 - **BA-C009–C018: PRESERVE / no direct global test** — no evidence assigns robots/factory to Abydos, Kaiser or a known institutional maker.
 
 No `BA-C019` is opened. The tactical sound-attraction and coordinate-to-factory claims are unverified actor forecasts in a label-corrupt exchange; battle outcome and `G.Bible` location remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E011 claim transitions — a found file is not a usable revelation
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — students coordinate terminal retrieval and an attempted protective retreat, while Alice's identity remains unanswered and Momoi's save data is reported deleted without explicit consent to that cost. Helpful purpose and participant control diverge.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei supplies no omniscient explanation; Alice, Momoi, Midori and Yuzu contribute different search, caution, connection and escape actions.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice/action line.
+- **BA-C009–C018: PRESERVE / no direct global test** — `Divi:Sion`, robots and `G.Bible.exe` do not inherit Abydos/Kaiser provenance.
+
+No `BA-C019` is opened on terminal recognition or a filename alone. The terminal claims `G.Bible` inside and reports a completed transfer, but password-locked contents, origin, function and relation to Alice remain OPEN. Contextual backfill remains **DEFER**.

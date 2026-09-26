@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:010; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:011; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -543,3 +543,9 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - Midori names the difference between armed students and the teacher if hit. Alice promises protection and explicitly requests trust/participation. Both Sensei choice variants say yes; one adds companion identity and an offer to help. No refusal route or distinct tactical destination is authored.
 - Midori then asks Sensei to command a breakthrough. This is a specific delegated battle function after assent, not ownership of the club's output goal, credential decisions, or the corrupted tactical forecast. No battle result follows in E010.
 - The invitation makes local consent more visible than on the first trip, but it does not prove complete risk disclosure or Alice's protective efficacy. Existing adult model remains `PARTIAL_MODEL`; no new standalone rule or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E011 delta — protected participant, no new adult command
+
+- Sensei is present after factory entry but has no secure speech, new choice or represented command. The early claim that Sensei's direction helped the team is in a role-flipped cluster and cannot ground a precise speaker or battle-tactic reconstruction.
+- Under renewed robot fire, Momoi assigns Yuzu to protect Sensei while Momoi/Alice cover the rear; Midori offers support. This is student-authored protection of a physically vulnerable adult, not evidence that Sensei is passive in general or that escape succeeds.
+- Alice's E010 protection promise remains open; the allocation is a plan, not proof of fulfilled safety. No new Sensei rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
