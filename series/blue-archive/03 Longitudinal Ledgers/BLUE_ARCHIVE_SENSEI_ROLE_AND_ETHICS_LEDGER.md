@@ -5,19 +5,19 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
 
 ## Current boundary
 
-Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -475,3 +475,11 @@ Current model:
 > **answerability without domination + coalition/connective capacity + requested command + logistics/recognition + finite unexplained card capacity + obligation to preserve viable student/community agency + explicit privacy, veto, possession, and bodily-boundary limits**
 
 The chapter strongly supports responsible adulthood while rejecting adult supremacy and ethical infallibility.
+
+## V002 C001 E001 delta — hero address without hero sovereignty
+
+- **Choice topology:** five groups: scene 2 disorientation (two variants) and letter inquiry (singleton); scene 3 prior Millennium knowledge (two variants); scene 4 explanation request (two variants) and ultimatum inquiry (singleton). Branch-conditioned duplicated dialogue must not be counted as repeated actions.
+- **Invited role:** a student-authored letter calls Sensei `勇者`, but the game's narration corrects the destination role to `先生`; neither label supplies demonstrated power to override school governance.
+- **Vulnerability:** an accidental console strike physically harms Sensei before any assistance. This supports the established bounded-adult model, without turning a gag into a universal safety claim.
+- **Response under uncertainty:** Sensei arrives and asks what the ruins/ultimatum mean. Council reasons and proposed intervention remain unknown. Cross-school service is initiated, not adjudicated successful or legitimate in its eventual means.
+- **Reconstruction:** `NO_MATERIAL_RECONSTRUCTION_DELTA`; no previously frozen prediction exists and thus `NO_DIAGNOSTIC_OPPORTUNITY`. V001 privacy, veto, possession, and bodily-boundary cautions remain active.

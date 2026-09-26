@@ -5,19 +5,19 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE MOTIF / THEME / CALLBACK LEDGER
 
 ## Current boundary
 
-Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -436,3 +436,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 > **warning → verification → land memory → enclosure → creditor domination → secret bargain → signed sacrifice → invasion → differentiated coalition → passage → reciprocal return → formal repair with structural remainder**
 
 The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/collective roles, buried school/laboratory, miracle/ordinary continuity, and rights claim/welcome reply.
+
+## V002 C001 E001 motif / callback delta — play as a service interface
+
+- **Game world / threatened club:** the supposed world-saving prologue accidentally names the real `廃部命令`. Creative fiction becomes the club's petition language without making Millennium Land literal cosmology.
+- **Hero → teacher:** the script's chosen-one address gives way to `先生`; actual relation and fallible presence challenge fantasy omnipotence.
+- **Letter as cross-school service interface:** as with Abydos, a student-authored request arrives through Schale and produces travel, though the dispute remains unadjudicated.
+- **Adult injury/comic reversal:** the hero is knocked out by a discarded console; dependency appears before aid, distinct from the Abydos dehydration/rescue case.
+- **Asset and affection:** Midori's console concern and apology place valued creative equipment beside care for Sensei, not in a zero-sum moral category.
+- **Making versus administration:** scenario writing, illustration, planning, 16-bit games, and a reported dissolution order establish a conflict between creative labor and institutional evaluation; council reasons remain absent.
+- **Ruins as suspended destination:** Momoi's destination is named but unexplained; no symbolic interpretation of it is licensed yet.

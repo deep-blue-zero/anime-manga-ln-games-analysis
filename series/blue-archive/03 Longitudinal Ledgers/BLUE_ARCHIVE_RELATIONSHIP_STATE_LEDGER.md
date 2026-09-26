@@ -5,12 +5,12 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE RELATIONSHIP STATE LEDGER
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -302,3 +302,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Abydos ↔ PS68:** conflict matures through imperfect reparation, hospitality, voluntary aid, gratitude, and projected future contact.
 - **Abydos ↔ external coalition:** differentiated support opens routes while local mission authorship remains with the committee.
 - **Hoshino ↔ Yume/former president:** one strongly continuous relational hypothesis remains unpromoted until the source explicitly joins name and office.
+
+## V002 C001 E001 relationship delta — petition, sibling correction, incomplete dispute
+
+- **GAME DEVELOPMENT CLUB ↔ SENSEI/SCHALE:** the club sends an urgent, game-framed request; Sensei arrives, but help is not yet specified or delivered. Petition does not imply agreement with every proposed action.
+- **MOMOI ↔ MIDORI:** sibling correction, teasing, apology, and shared asset concern coexist in the injury exchange; their complementary creative jobs are directly stated. Do not turn one comic exchange into a stable antagonism or care hierarchy.
+- **MOMOI/MIDORI ↔ YUZU:** Yuzu is named as absent president/planner, not observed interacting; no dyadic rule is licensed.
+- **CLUB ↔ STUDENT COUNCIL/YUUKA:** abolition ultimatum and earlier `襲撃` are presently Momoi's report. Yuuka's answer and the council's rationale are pending.
+- **ARONA ↔ SENSEI:** request is read and institutional context supplied; Sensei's prior Millennium knowledge is choice-variable.

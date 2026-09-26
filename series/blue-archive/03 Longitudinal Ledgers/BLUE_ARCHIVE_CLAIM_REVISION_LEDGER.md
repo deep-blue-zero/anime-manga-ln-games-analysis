@@ -4,14 +4,14 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V001_C002 checkpoint complete; Volume 2 not authorized
+current_sequential_boundary: MAIN_V002_C001_E001 active provisional; E002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -1100,3 +1100,13 @@ Canonical checkpoint authority is `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` §
 - **No new claim:** `BA-C019` is not opened.
 
 Contextual backfill remains **DEFER**. The next crosswalk unit is Volume 2 and is outside current authorization.
+
+## V002 C001 E001 claim transitions — first Millennium unit
+
+- **BA-C001–C003, C007: STRENGTHEN lightly / limit** — another student-authored request reaches Schale and Sensei arrives, but no outcome or council adjudication exists.
+- **BA-C004–C006: PRESERVE** — Sensei's accidental injury and need for explanation fit bounded adult capacity; no new power or claim of student incapacity is established.
+- **BA-C008: STRENGTHEN** — choice variants affect disorientation, prior school familiarity, and clarification language without a demonstrated alternate destination.
+- **BA-C009: STRENGTHEN lightly after Chapter-2 downgrade** — Arona again humanizes request mediation; a single cross-academy recurrence does not yet restore full-series status.
+- **BA-C010–C018: PRESERVE / not tested** — V001's custody, Kaiser, autonomy, and contact-zone claims remain intact but are not imported as Millennium facts.
+
+No `BA-C019` is opened. Game-fiction framing of institutional survival is an introductory motif, not yet a demonstrated longitudinal rule. The `？？？` editor and closing voice remain unassigned. Contextual backfill remains **DEFER**.

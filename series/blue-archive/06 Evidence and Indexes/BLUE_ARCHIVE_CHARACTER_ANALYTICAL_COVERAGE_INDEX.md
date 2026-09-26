@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_E001
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
-source_boundary: "Canonical Prologue and Volume 1 Chapters 1–2 through BA:main:001:002:020/checkpoint; side-source classes remain unreviewed; BA:main:002:001:001 remains unopened"
+source_boundary: "Canonical Prologue and Volume 1 Chapters 1–2 through checkpoint, plus BA:main:002:001:001; side-source classes remain unreviewed; BA:main:002:001:002 remains unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-25
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:002:001:001
+next_unopened_main_unit: BA:main:002:001:002
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:002:001:001
 
 ## 0. Responsibility
 
-This index answers four questions at the current Chapter 2 boundary:
+This index answers four questions at the current `V002 C001 E001` provisional boundary, with `MAIN_V001_C002` still the latest canonical checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus C001 E001-E020 and C002 E001-E020;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, and V002 C001 E001;
 - current checkpoint: `MAIN_V001_C002`; recovered analytical basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `42 / 310` canonical units;
+- main-story coverage: `43 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:002:001:001`.
+- next unopened main unit: `BA:main:002:001:002`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -76,7 +76,9 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 |---|---|---|---|---|---|---|---|
 | Sensei | `ANALYZED` in Prologue/C001/C002; structural and optional choice evidence kept separate | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Arona | `ANALYZED` in Prologue and C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Momoi | `ANALYZED` in V002 C001 E001 only; secure club/accident/ultimatum speech, not scene-1 `？？？` attribution | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Midori | `ANALYZED` in V002 C001 E001 only; club role, apology, sibling correction, console joke | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Wakamo | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ayane | `ANALYZED` in C001 E001-E020 and C002 committee investigation, governance, rescue, epilogue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Shiroko | `ANALYZED` in C001 E002-E020; C002 inquiry, privacy intrusion, repeated solo-risk and group correction | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -105,7 +107,9 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
 | Rin | L | M | L | H | GAP | M | H | L |
-| Arona | L | L | M with Sensei | M | L | M | M | L |
+| Arona | L | L | M with Sensei | M | L | M; new school-orientation sample | M | L |
+| Momoi | L | L | L with Midori/Sensei | L; scenario-writing role | L | M in secure introductory lines only | L; reported abolition threat | L |
+| Midori | L | L | L with Momoi/Sensei | L; illustrator role | L | L | L; club threat reported | L |
 | Wakamo | L | L | L with Sensei | L | GAP | M | H | L |
 | Ayane | M | H in operational/institutional contexts | M | H | L | H | H | M |
 | Shiroko | H for knowledge/relation deltas; disposition unresolved | H in operational/epistemic contexts | H within Abydos; M elsewhere | H | L | M | H | H; solitary-risk counterexamples |
@@ -136,7 +140,9 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 |---|---|---|---|---|
 | Sensei | Structural state clear; optional lines mutually exclusive; private disclosures not universally shared | Multiple student institutions; private biography unknown | Choice-conditioned gags, with ethical counterevidence | P; C1 E005/E013; C2 E012/E016/E017/E020 |
 | Rin | One administrative state; wider knowledge unknown | Formal Sensei/GSC relation; private GAP | Very little | P checkpoint |
-| Arona | Technical knowledge limits explicit; ontology unresolved | Sensei dyad; broader private/social GAP | Teasing, hurt, repair | P E002; C1 E001 |
+| Arona | Technical knowledge limits explicit; Millennium dispute unknown | Sensei dyad; broader private/social GAP | Teasing, hurt, repair | P E002; V001 C1 E001; V002 C1 E001 |
+| Momoi | Own club-dispute account only; council rationale unavailable | Introductory sibling/Sensei exchange; no private control | Console injury joke and game-role language | V002 C1 E001 scenes 2, 4; scene-1 speaker unresolved |
+| Midori | Own club-dispute account only; no independent council evidence | Introductory sibling/Sensei exchange; no private control | Console-priority teasing and corrective speech | V002 C1 E001 scenes 2, 4 |
 | Wakamo | Cause of destabilization unknown | Acute Sensei encounter only | Insufficient ordinary control | P E002 |
 | Ayane | Repeated evidence grading; mandate changes distinguish role from personality | Committee/Sensei/outsider procedure; private thin | Frustrated straight-role responses, not broad play | C1 E008/E013/E020; C2 E006/E013/E017/E020 |
 | Shiroko | Withdrawal-form secret local to her/Sensei; updated knowledge not global | Peers, Hoshino, Sensei; solo-risk under attachment | Extreme proposals amid terse practical talk | C2 E004/E005/E012/E013/E018 |
@@ -164,6 +170,8 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Sensei | `PARTIAL_MODEL` | `NONE` | structural responsibility, coalition/logistics/certification and bounded choice families | No unified private biography or guaranteed consent sensitivity. Next: separate invariants/optional lines and sample ordinary refusals across relationships. |
 | Rin | `UNMODELED` | `NONE` | Prologue administrative-crisis interpretation only | One crisis, no ordinary/private breadth. Next: independently evidenced routine and non-Sensei relations; verify supplemental route first. |
 | Arona | `UNMODELED` | `NONE` | system-partner/triage observations only | Narrow Sensei dyad and unresolved ontology. Next: repeated ordinary/technical uncertainty contexts without importing future explanations. |
+| Momoi | `UNMODELED` | `NONE` | E001 scenario-writer role, eager club advocacy, and accident response only | Single introductory unit; scene-1 editor unidentified, council account untested. Next: direct decision under independently established constraints and ordinary counterexample. |
+| Midori | `UNMODELED` | `NONE` | E001 illustrator role, correction/apology, and sibling banter only | Single introductory unit; no independent pressure-decision sequence. Next: repeated choice, non-Momoi interaction, and ordinary control. |
 | Wakamo | `UNMODELED` | `NONE` | first-contact destabilization and polite/destructive contrast only | Motive/ordinary baseline absent. Next: source-admitted contextual evidence; do not infer romance from intensity. |
 | Ayane | `PARTIAL_MODEL` | `NONE` | evidence-sensitive committee governance, emergency coordination, route authorship | Private/non-operator behavior thin. Next: ordinary dyad and personally implicated evidence-versus-loyalty conflict. |
 | Shiroko | `PARTIAL_MODEL` | `NONE` | operational/evidentiary discipline conditioned by attachment and collective interruption of solo sacrifice | No always-disciplined rule. Next: mundane non-Abydos interaction and response to explicit peer inhibition under attachment pressure. |
@@ -184,7 +192,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Kaiser director (role actor) | `PARTIAL_MODEL` | `NONE` | creditor/force leverage, proxy control and morale-breaking | Executive-role evidence is not whole-person psychology. Next: independently constrained decision/response to lost leverage. |
 | Shiba Seki master (role actor) | `PARTIAL_MODEL` | `NONE` | hospitality, repair acceptance and service continuity across material loss | Service role only; private aims/family unknown. Next: distinct ordinary disagreement or relationship contrast. |
 
-Sixteen subjects have distributed `PARTIAL_MODEL` mechanisms; six remain `UNMODELED`. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is currently `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Aru and Serika are the nearest future pilot candidates because the main story supplies both pressure and some low-stakes/social evidence, but the current tranche intentionally stops at `PARTIAL_MODEL`.
+Sixteen subjects have distributed `PARTIAL_MODEL` mechanisms; eight remain `UNMODELED` after Momoi and Midori enter. Yuzu is mention-only, not yet a tracked model subject. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is currently `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Aru and Serika are the nearest future pilot candidates because the main story supplies both pressure and some low-stakes/social evidence, but the current tranche intentionally stops at `PARTIAL_MODEL`.
 
 ### 5.1 Domain-specific readiness
 
@@ -195,6 +203,8 @@ Sixteen subjects have distributed `PARTIAL_MODEL` mechanisms; six remain `UNMODE
 | Sensei | P (structural) | U | P (structural) | P (choice-conditioned) | U (persona space requires separation) |
 | Rin | U | U | U | U | U |
 | Arona | U | U | U | U | U |
+| Momoi | U | U | U | U | U |
+| Midori | U | U | U | U | U |
 | Wakamo | U | U | U | U | U |
 | Ayane | P | U | P (committee) | P | P (operator) |
 | Shiroko | P | U | P (Abydos/Sensei) | P (solo-risk limits) | P (secure terse/proposal samples) |
@@ -215,7 +225,7 @@ Sixteen subjects have distributed `PARTIAL_MODEL` mechanisms; six remain `UNMODE
 | Kaiser director (role actor) | P (creditor/command) | U | U | P (leverage/threat) | P (administrative threat) |
 | Shiba Seki master (role actor) | P (hospitality) | P (service encounter) | P (community contact) | U | P (service/reassurance) |
 
-For **all 22 subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
+For **all 24 tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
 
 ## 6. Evidence concentration and sampling bias
 
@@ -284,7 +294,7 @@ The second route is not yet instantiated by any Blue Archive model.
 
 ## 9. Update rule
 
-Update this index after a checkpoint, admitted contextual-backfill tranche, model creation, or validation event materially changes evidence availability or readiness. A new appearance alone does not require promotion. Preserve negative results and record `NO MATERIAL READINESS CHANGE` when a reviewed tranche adds no discriminating coverage.
+Update this index after a checkpoint, admitted contextual-backfill tranche, model creation, or validation event materially changes evidence availability or readiness; a new unit introducing analytically tracked subjects can also receive a provisional coverage update. A new appearance alone does not require promotion. Preserve negative results and record `NO MATERIAL READINESS CHANGE` when a reviewed tranche adds no discriminating coverage.
 
 ## 10. C002 reconciliation and evidence routing
 
@@ -293,3 +303,9 @@ This in-place revision retains the original 17 subjects and adds Hina, Nagisa an
 Canonical current synthesis: [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md), especially §§11–12, 17–21. Historical prior: [C001 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md). Resolve the diagnostic routes in §4.1 through the [main crosswalk](BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv), then the complete relevant reading and canonical source unit. The [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) explains the recovery, mechanism checks and future pilot gates.
 
 Private/ordinary gaps may eventually be repaired by verified bond/MomoTalk or group/event routes; institutional contrast by later sequential or admitted complete group/event stories; knowledge/chronology by explicit scene evidence, not release order; source anomalies by complete canonical records/raw provenance. These are proposed repair classes, not evidence already inspected. The C002 backfill decision remains `DEFER`.
+
+## 11. V002 C001 E001 provisional coverage delta
+
+Momoi and Midori are tracked as `UNMODELED` on one complete canonical main unit; Yuzu is mention-only. Arona's request-routing sample broadens across schools but leaves her `UNMODELED`. Sensei's arrival and injury fit, but do not expand, his `PARTIAL_MODEL` structural mechanism. No existing readiness label increases or decreases; the new tracked-subject count is sixteen `PARTIAL_MODEL`, eight `UNMODELED`, zero `OPERATIONAL_CANDIDATE`, zero `BOUNDED_VALIDATED`. All standalone models and prospective prediction registers remain `NONE`; the reviewed unit yields `NO_MATERIAL_RECONSTRUCTION_DELTA` and `NO_DIAGNOSTIC_OPPORTUNITY` against frozen predictions. The current C002 checkpoint is not retroactively edited.
+
+Current routing for the new observations: [V002 C001 E001 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E001_DEEP_READING.md) → `BA:main:002:001:001` canonical scenes 1–4. The next unit remains unopened.

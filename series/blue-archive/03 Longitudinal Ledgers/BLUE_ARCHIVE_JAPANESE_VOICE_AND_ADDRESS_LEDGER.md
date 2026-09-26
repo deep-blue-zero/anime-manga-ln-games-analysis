@@ -5,19 +5,19 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE JAPANESE VOICE AND ADDRESS LEDGER
 
 ## Current boundary
 
-Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -676,3 +676,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Institutional existence:** `非公認` / `何者でもない` answered by `公的な認証` / `正式な委員会`.
 - **Entity separation:** `所属ではありません` and `利害関係が一致` govern Black Suit/Kaiser analysis.
 - **Belonging/continuity:** `昨日も今日も、明日も`, `おかえり`, `ただいま`, `引き続きよろしく`.
+
+## V002 C001 E001 delta — authored fantasy and actual institutional speech
+
+- `勇者`, `女神「モモリア」`, `ミレニアムランド`, `世界を救う`: the game-fantasy frame. The abrupt `ゲーム開発部を……いえ、ミレニアムランドを救える` exposes the real club petition inside the fiction.
+- `カットカット`, `ありきたりすぎ`, `ユーザー`, `プロローグ`: production/evaluation speech interrupts the fantasy opening; the editor remains `？？？` in the source and is not yet a secure Momoi voice sample.
+- `先生！！`: narration replaces the generic hero address with Sensei's relational office at the scene break.
+- **Momoi secure voice:** `へへっ`, `と、とにかく！！`, `よしっ！`, `えっとね` accompany enthusiasm, deflection, and urgent explanation. `襲撃`/`四天王` are her characterizing words, not neutral institutional categories.
+- **Midori secure voice:** correction, polite apology (`ごめんなさい、先生`), and explicit professional role naming contrast with Momoi's exuberance; one console-priority joke does not define her whole character.
+- **Arona:** polite orientation and uncertainty (`ご存じですか`, `何があったのでしょうか`, `いかがでしょう`) distinguish known school reputation from unknown dispute facts.
+- **Projection cautions:** scene 2 duplicates an awakening line; scene 3 duplicates the school introduction across a choice branch; scene 4 gives two branch-conditioned introductory answers. Do not infer repetitions or fixed Sensei knowledge. The closing `？？？` voice is not identified within the unit.

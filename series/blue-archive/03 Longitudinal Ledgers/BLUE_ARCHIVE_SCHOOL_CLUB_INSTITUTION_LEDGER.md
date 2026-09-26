@@ -5,19 +5,19 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
 
 ## Current boundary
 
-Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -287,3 +287,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Kaiser remains materially entrenched through principal debt and majority land ownership despite interest relief and expected investigation.
 - Gematria remains separate from Kaiser and outside identified public accountability.
 - General Student Council capacity remains unreliable; Schale continues as corrective/investigative infrastructure.
+
+## V002 C001 E001 institutional delta — Millennium first contact
+
+- **Millennium Science School:** Arona presents it as one of three large academies, younger than Trinity/Gehenna yet comparably influential, with a science/technology/rationality emphasis. This is a school-level orientation, not a blanket judgment of students or council decisions.
+- **Game Development Club:** Momoi writes scenarios, Midori makes illustrations/visuals, and absent president Yuzu handles planning. The club makes 16-bit games and reports a Student Council abolition ultimatum.
+- **Student Council / Yuuka:** the alleged dissolution order and ultimatum are not yet corroborated by council speech or documentation. `四天王` is Momoi's fantasy-inflected description, not a verified office chart.
+- **Schale:** receives a student-authored cross-academy petition and sends Sensei; no intervention outcome or authority over Millennium governance is yet shown.
+- **`廃墟`:** proposed destination only; location, ownership, purpose, and connection to club survival are OPEN.

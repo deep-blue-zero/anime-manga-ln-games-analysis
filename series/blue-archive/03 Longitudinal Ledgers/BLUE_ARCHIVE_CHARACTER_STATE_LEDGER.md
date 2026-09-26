@@ -5,12 +5,12 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:001:002:020 plus canonical Chapter 2 checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:001; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # BLUE ARCHIVE CHARACTER STATE LEDGER
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:001:002:020`; Chapter 2 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:001` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -310,3 +310,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Shiroko:** disciplined investigator/tactician with a recurring solitary-sacrifice risk corrected by collective action.
 - **Aru/PS68:** client-independent allies whose voluntary aid remains shaped by persona, gratitude, scarcity, and group pressure.
 - **Black Suit / Kaiser director:** differentiated domination actors; one remains anonymous, the other dismissed/wanted but not confirmed captured.
+
+## V002 C001 E001 delta — new club, deliberately narrow observations
+
+- **Momoi:** secure identification as Game Development Club scenario writer; excited by Sensei's arrival, defensive about the accidentally thrown console, and urgent in her account of a council ultimatum. Scene 1's editor is unidentified and is not yet a Momoi-specific voice or decision sample.
+- **Midori:** identified as the club illustrator and Momoi's sister; corrects Momoi's speech, apologizes for Sensei's injury, and is teased for first worrying about the club's prized console. This supports mixed concern and asset attachment, not callousness.
+- **Yuzu:** reported by Momoi as the absent club president/planner. No direct behavior or reliable private state is sampled.
+- **Arona:** repeats her request-reading/orientation function and explicitly lacks knowledge of the club's specific problem; her relational technical role gains a cross-academy instance without a readiness promotion.
+- **Sensei:** reaches the club after a student request, is physically injured by accident, and asks for an explanation. This confirms neither a heroic solution nor a new standing character rule.
+
+All new club-character observations are introductory and local. `NO_MATERIAL_RECONSTRUCTION_DELTA` for existing rules; Momoi and Midori are `UNMODELED`, Yuzu is mention-only. V001 character states and counterevidence remain checkpoint-scoped.
