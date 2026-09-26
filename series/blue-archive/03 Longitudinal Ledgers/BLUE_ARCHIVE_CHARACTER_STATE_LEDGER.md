@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -738,3 +738,14 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operationa
 - **Nel/club/Chihiro:** Nel is numb and immobile, yet passes Alice retrieval to the group. Chihiro finds the high-power room; the club reaches a silent Alice and hears Key. No rescue completion or Nel medical clearance.
 
 Key enters `UNMODELED` as a separate provisional speaking subject, not merged into Alice: **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E023 delta — local cutoff succeeds, hazardous Alice dive proposed
+
+- **Yuuka/Noa:** Noa says they initially meant only to provide Eridu's location, but Yuuka insisted on helping to the end. Key reports resource-acquisition failure and system shutdown after their power cut. Yuuka accuses Rio of budget diversion and promises later reprimand; audit/accountability not completed.
+- **Key:** reports shutdown but continues commanding Divi:Sion to protect the executor. Its “zero remaining forces” inventory is contradicted by Engineering Club's return; no permanent incapacitation or Alice release.
+- **Engineering Club:** returns with a modified Avant-Garde-kun Mk.2 and engages exterior followers. Participant descriptions of Maki design review/space-battleship armament are not a full specification; `u:0026-0028` voice labels uncertain.
+- **Himari/Eimi/C&C:** Himari appears, says she hurried from isolation and Eimi/C&C block the tower entrance. She forecasts Key replacing Alice's personality and proposes a mind-dive to awaken Alice. Technical certainty and exclusive remedy remain untested.
+- **Rio:** confirms dive equipment but warns entrants may not return. Her proposed fatal solo shutdown from E022 is not executed; new risk/safety tradeoff arises.
+- **Yuzu/Sensei/Alice:** Yuzu explicitly volunteers if Alice can be brought back; Sensei's `u:0073` assent is inward. Preparations finish without actual entry, Alice self-report or restored agency.
+
+Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

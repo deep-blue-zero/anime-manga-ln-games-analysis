@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -600,3 +600,11 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Competing safety controls:** Momoi suggests unplugging Alice; Key warns of irreversible personality damage. No independent diagnostic confirms the warning, but the group does not execute a simple disconnect in this unit. Rio proposes a fatal solo shutdown; it is a proposal, not the only proven intervention.
 - **Fortress backfire:** Rio says she assembled Millennium technology/power/resources in Eridu to avert world danger, then questions whether that concentration made the city the trigger. This is institutionally significant self-critique, with causality still provisional.
 - **Yuuka/Noa:** Yuuka orders a total power cut and Noa acts. The source stops before confirming shutdown, collateral effects or Alice safety; do not close the procedure.
+
+## V002 C002 E023 institutional delta — interrupted ark and layered perimeter
+
+- **Power control:** Key directly reports resource-acquisition failure and system shutdown after Yuuka/Noa's cut. This verifies immediate effect, not permanent Key removal, harmless collateral or Alice restoration.
+- **Outside capacity:** Noa says Seminar initially meant to give coordinates only; Yuuka extended aid. Engineering returned with modified Avant-Garde-kun Mk.2 and engages followers; Eimi/C&C are reported by Himari at tower entrance. Key revises its zero-force assumption and regroup order. Exact city-wide containment remains unshown.
+- **Budget/accountability:** Yuuka accuses Rio of misappropriating Seminar funds for Eridu and promises later reprimand. This is not a completed financial audit or formal sanction.
+- **Alice rescue apparatus:** Rio confirms dive equipment; Himari proposes analyzing Alice's mind, opening access and waking her, warning of priest activity. Rio warns entrants may never return. The “only Game Development Department and Sensei” statement occurs under suspect Rio labels and remains a plan claim, not exhaustive proof.
+- **Procedure state:** preparation completes but no entry, personhood recovery, protocol final defeat or medical outcome is printed.

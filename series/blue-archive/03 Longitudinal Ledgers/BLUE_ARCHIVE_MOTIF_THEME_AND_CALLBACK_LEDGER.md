@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -765,3 +765,11 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Trolley problem reopens:** Rio moves from proposing Alice's destruction to offering herself as the one victim. Sensei's secure questions ask about overlooked helpers rather than accepting a fixed two-choice frame; Yuuka/Noa's arrival makes that possibility concrete, with outcome deferred.
 - **Victory without rescue:** Toki's fall and Rio's concession grant access, but a silent Alice/Key confrontation blocks the simple “win guard, restore friend” ending. Nel's numbness persists after victory.
 - **Clock at 99%:** Key's reported progress and Yuuka's command create urgency, not a completed ark or verified rescue.
+
+## V002 C002 E023 motif / callback delta — helpers beyond the lever
+
+- **Overlooked helpers concretized:** Yuuka/Noa stop Key's immediate resource process, Engineering returns, Eimi/C&C hold the entrance and Himari supplies an Alice-focused option. E022's question about missing helpers gains local practical support without guaranteeing all are saved.
+- **System certainty fails twice:** Rio's E021 zero-win forecast and Key's E023 zero-remaining-force inventory both miss distributed, adaptive actors. This is a bounded narrative pattern, not proof every calculation is false.
+- **Enemy technology remade:** Engineering's Avant-Garde-kun Mk.2 turns a defeated obstacle into ally, continuing maker/use/reception themes. Space-battleship rhetoric is imaginative design motivation, not a verified weapon spec.
+- **Rescue moves inward:** after guard and resource fights, Himari's proposed `精神世界` dive reframes the aim as waking Alice's own personality, preserving the distinction between physical access and restored agency. It is hazardous and untested.
+- **Accountability postponed:** Yuuka promises Rio a later budget reckoning, pairing emergency aid with institutional correction rather than treating crisis success as exoneration.

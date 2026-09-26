@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -612,3 +612,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **CLUB ↔ ALICE/KEY:** Momoi/Midori/Yuzu reach Alice but get no secure answer from her. Key denies their name for her, claims isolation and warns against unplugging. Preserve Key as separate provisional speaker; neither its threat nor the printed `u:0051` Alice-label anomaly is Alice consent.
 - **RIO ↔ ALICE/SENSEI:** Rio concedes the guard battle but maintains her threat forecast until Key activation forces self-doubt. She then proposes stopping the system alone; Sensei's secure choices challenge overlooked-help assumptions. Her earlier E001 Himari consultation prevents a literal “spoke to no one” claim, but Alice/club exclusion remains.
 - **YUUKA/NOA ↔ COALITION/RIO:** Yuuka orders Noa to cut power at the 99%-report frontier. This widens the responding network beyond Rio and the tower party; impact remains unseen.
+
+## V002 C002 E023 relationship delta — aid with accountability and volunteered risk
+
+- **YUUKA/NOA ↔ SENSEI/CLUB/RIO:** Noa says Yuuka chose help beyond the agreed coordinates; Key reports cutoff success. Yuuka still accuses Rio of budget diversion and promises later reckoning. Support does not erase institutional dispute.
+- **ENGINEERING ↔ COALITION/KEY:** the club returns with modified Avant-Garde-kun and engages followers, contradicting Key's zero-force claim. Their group contribution is visible; individual design credits have label tension.
+- **HIMARI ↔ RIO/ALICE:** Himari returns from isolation, says she anticipated further Rio trouble, and proposes waking Alice rather than sacrificing her or Rio. Rio confirms equipment and voices serious risk; reconciliation or full trust is not shown.
+- **YUZU ↔ ALICE/SENSEI:** Yuzu volunteers for the dangerous retrieval conditional on helping Alice. Sensei's own `u:0073` assent is inward. Alice remains without secure response, so friendship motivates action without confirmed reciprocity in this state.

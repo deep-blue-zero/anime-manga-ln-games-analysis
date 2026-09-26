@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1024,3 +1024,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Key's `プロトコルATRAHASIS稼動` and ark `起動プロセスを開始` announce activation, not completion. `1万エクサバイト` and `23/46/73/89/99%` are its reported resource figures. Rio's `むしろ、そのせいで`/`間違っていた？` expose possible self-caused hazard, not independently proved counterfactual.
 - `私の命一つで` proposes sacrifice; Sensei's spoken `choice:010-011` ask about overlooked help, while `全員で力を合わせて「全てを救う」` remains inward, not fulfilled.
 - **Quarantine:** `u:0033` Rio label sounds Momoi-like; `u:0047` Yuzu label says `お姉ちゃん`; `u:0051` Alice label says `アリスちゃん`. `u:0076` narrator carries Key's first-person ID; `u:0105-0123` printed `AMAS A` contextually voices Rio. `u:0012-0013` repeats a branch response after choice 002's two alternatives. Sensei `u:0007`/`0037-0038`/`0048`/`0054`/`0061`/`0115-0121`/`0128` are inward even where Rio responds. Eleven choice groups; `u:0133` next-title card.
+
+## V002 C002 E023 delta — shutdown, revised orders and dive-risk language
+
+- Key `リソース確保失敗。システムシャットダウン` confirms immediate process interruption; `都市内の残存兵力はゼロ` is quickly contradicted by Engineering. Later `命令修正および再実行` shows continued command, not permanent erasure.
+- Noa reports initial coordinate-only help and Yuuka's `最後まで何とかしないと` decision. Yuuka `予算を横領` is an accusation, not completed audit.
+- Himari's `トリガーAI` and `精神世界`/`ダイブ設備` proposal are diagnosis/plan with `u:0048` attribution tension; Rio `二度と戻って来れなく` warns of serious dive risk. Yuzu `やります` is explicit volunteering.
+- **Quarantine:** `u:0003-0004` Midori labels include “Noa-senpai”; `u:0019` Sensei inward malformed quote; `u:0026-0028` Hibiki labels mix styles, `u:0034` Momoi label questions a prior Momoi-like line. `u:0041` Himari label voices Rio-addressed question; `u:0048` and `u:0064-0065` Rio labels likely voice Himari's technical answers. Sensei `u:0073` is inward, not an audible dive order. Four singleton choices; `u:0077` next-title card.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E022 active provisional; E023 unopened
+current_sequential_boundary: MAIN_V002_C002_E023 active provisional; E024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1507,3 +1507,14 @@ No new claim ID, model, frozen prediction or side-source admission. Elevator mec
 - **BA-C009, C012–C015, C017–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki mechanisms unchanged.
 
 No new durable claim ID pending chapter checkpoint, no model/frozen prediction or side-source admission. Key identity/architecture, true personality state, disconnect risk, power-cut result, Rio survival, Alice rescue and maximum Kivotos effect remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E023 claim transitions — immediate system cutoff and risky alternative
+
+- **BA-C001/BA-C016: FORCED BINARY REVISED DOWN LOCALLY** — Yuuka/Noa stop the resource process without Rio dying; Engineering, Eimi/C&C and Himari widen feasible responses. The proposed mind-dive may still exact grave cost and has not begun.
+- **BA-C002–C004, C007, C010–C011: THREAT BOUNDED, NOT ERASED** — Key reports shutdown, while followers continue regrouping and Himari warns of Alice-personality replacement. Neither permanent victory nor inevitable world end is supported.
+- **BA-C005–C006: DISTRIBUTED CAPACITY STRENGTHENED** — Key's zero-force claim is contradicted by Engineering's return; Yuuka/Noa's choice, entrance defenders and Himari/Yuzu plan break single-controller accounts.
+- **BA-C008: ATTRIBUTION/CONSENT FIREWALL** — `u:0041` Himari, `u:0048` Rio and `u:0064-0065` Rio have turn/voice tension; Sensei `u:0073` is inward. Only Yuzu explicitly volunteers on-page.
+- **BA-C019: ALICE NOT RESTORED** — the new plan aims at her isolated personality, but no dive, reply or safe reunion occurs.
+- **BA-C009, C012–C015, C017–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki mechanisms unchanged.
+
+No new durable claim ID, model/frozen prediction or side-source admission. Power permanence, follower containment, dive feasibility/consent, Alice personality and Rio accountability remain OPEN. Contextual backfill **DEFER**.

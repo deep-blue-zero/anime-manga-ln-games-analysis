@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:022; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:023 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -704,3 +704,7 @@ Sensei's `choice:001` accepts the team's decision after Nel offers C&C a choice 
 ## V002 C002 E022 delta — binary challenge under active system danger
 
 Sensei thanks immobile Nel, joins the top-floor party and asks Rio/Alice-status questions. The inward `u:0037-0038` faults Rio for judging without consultation and forcing her conclusion; E001 Rio–Himari dissent means “consulted nobody” is not literally true, though Alice/club exclusion and coercion are. Key's activation, broken communications and Rio's resource regret make danger concrete without validating total world-end certainty. Rio (under anomalous `AMAS A` labels) proposes dying to stop Eridu alone. Sensei's inward trolley analysis and all-save desire cannot be reconstructed as a complete audible speech, but secure `choice:010-011` ask whether the lever-puller overlooked helpers. Yuuka/Noa immediately begin a power-cut alternative; success, safety and Alice's own choice remain unseen. Eleven choice groups include one two-option branch; no omniscient solution, standalone model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E023 delta — local aid validates a question, not an all-save prediction
+
+Key reports resource failure/system shutdown after Yuuka/Noa's independent decision. Engineering and Eimi/C&C supply additional barriers; Himari returns with a risky Alice-focused dive plan. This makes E022's secure “overlooked helpers?” questions locally productive and avoids Rio's immediate solo sacrifice, but does not validate the inward all-save wish as an achieved ending. Sensei praises Yuuka in `choice:001` and asks Himari what must be done in `choice:003`; the `u:0073` “let's go” is `心の声`, not a spoken command or consent from every would-be entrant. Yuzu explicitly volunteers; Rio warns of no-return risk. Four choices are singleton. No adult omniscience, safe dive, Alice restoration, standalone model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
