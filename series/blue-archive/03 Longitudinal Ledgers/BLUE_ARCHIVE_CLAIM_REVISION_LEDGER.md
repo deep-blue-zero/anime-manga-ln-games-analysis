@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E017 active provisional; E018 unopened
+current_sequential_boundary: MAIN_V002_C001_E018 active provisional; E019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1253,3 +1253,12 @@ No `BA-C019` is opened. Mirror possession is now observed, but the all-Alice dis
 - **BA-C009–C018: PRESERVE / no direct global test** — this Millennium file/club crisis gives no Abydos/Kaiser revision.
 
 No `BA-C019` is opened. Mirror return, file access and Nel's Rio report revise local open states; Rio/Himari reasons, `<Key>` identity, Bible contents, actual club standing, discipline and Alice's placement remain OPEN. Scene 3's `2時間前` prevents reading scene-2 despair as an already disclosed content summary. Contextual backfill remains **DEFER**.
+
+## V002 C001 E018 claim transitions — a maxim meets actual players
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the acquired file supplies a love-of-games maxim but no displayed shortcut. Alice's appreciative play and Yuzu's history prompt a fresh collective project; outcome, institutional permission and the raid's costs remain unadjudicated.
+- **BA-C005–C006: PRESERVE REJECTED** — the Bible's one-truth rhetoric does not collapse different evidence into one authority. Program claim, Midori's local integrity check, Alice's player testimony, Yuzu's reception history and Momoi's deadline choice have distinct provenance.
+- **BA-C008: NO DIRECT TEST** — Sensei is absent from the represented scene; E017's hoped-for Schale fallback remains unpromised.
+- **BA-C009–C018: PRESERVE / no direct global test** — no Abydos/Kaiser revision follows from this Millennium creative choice.
+
+No `BA-C019` is opened by the slogan or an announced sequel alone. `G.Bible` contents are now known locally as displayed maxim/error denial, but its causal sufficiency, full provenance, `<Key>`, club standing, sanctions and actual game outcome remain OPEN. Quarantine the all-Alice present exchange and Yuzu self-address labels for individual voice. Contextual backfill remains **DEFER**.

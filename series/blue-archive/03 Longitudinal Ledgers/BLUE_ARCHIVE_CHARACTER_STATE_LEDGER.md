@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -486,3 +486,13 @@ Readiness is sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`; no standalone mode
 - **Midori/Yuzu:** Midori hopes Schale could help Alice if necessary, then is withdrawn; Yuzu despairs. No actual Schale placement or dorm return is shown.
 
 No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Scene 3 is a two-hour-earlier flashback continued by scene 4; scene 4 `u:0002-0004` is cautious for exact `<Key>` hypothesis attribution.
+
+## V002 C001 E018 delta — maxim, player testimony and renewed work
+
+- **Alice:** rejects Midori's claim of inability, saying repeated play of their game is interesting and reveals Momoi/Midori/Yuzu's love; its companion travel taught her dreaming and she wishes the experience would continue. This is her situated player reception, not universal public quality or origin memory.
+- **Yuzu:** directly recounts prototype backlash, six-month-earlier withdrawal, the sisters' praise/collaboration, a later bad-game ranking, and Alice's positive reception fulfilling her dream. She asks that making games together continue. The flashback supplies more than the earlier hearsay, but remains in one creative/social sphere.
+- **Momoi:** mourns a Bible that offers `ゲームを愛しなさい` instead of a convenient technique, admits she hoped despite knowing no single magic method existed, then judges Alice's reported six days enough to begin `TSC2`. Starting is not finishing or winning.
+- **Midori:** reports no detected file damage/alteration in size, transfer and structure, then says they cannot make a good game without Bible. This is a situated despair claim challenged by Alice's experience, not proven lasting incapacity.
+- **Artifact:** Bible repeats `ゲームを愛しなさい` and its built-in button denies an error. These are program claims, not external truth or a displayed development algorithm.
+
+No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine `u:0042-0043`, `u:0048-0057` and `u:0131-0132` for exact person labels.

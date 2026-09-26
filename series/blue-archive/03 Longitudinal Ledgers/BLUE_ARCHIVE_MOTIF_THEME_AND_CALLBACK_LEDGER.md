@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -577,3 +577,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Contract versus personal curiosity:** Rio's reported withdrawal ends C&C's formal defense mission, while Nel plans a separate inquiry. Institutions may close a job without ending relationships or scrutiny; neither future revenge nor welcome is shown.
 - **An unread key beside an open guide:** `G.Bible` becomes openable while `<Key>` remains undeciphered. The repeated `AL-1S` prompt creates a possible callback to E011 but not an identity answer.
 - **Two-hour reversal:** scene 2's collapsed expectations precede the narrated preparation in scenes 3–4. The temporal device pressures the miraculous-secret rumor without yet revealing what contradicted it.
+
+## V002 C001 E018 motif / callback delta — love cannot substitute for work
+
+- **The revealed secret is no shortcut:** Bible says `ゲームを愛しなさい`, where the club had hoped for a miraculous production method. The advice is neither shown false nor sufficient; Momoi's renewed start requires actual labor under the deadline.
+- **The player as witness:** Alice's enjoyment and wish not to leave the game's dream counterbalance negative reviews and the club's self-condemnation. A player can validate a meaningful experience without proving a market hit or technical perfection.
+- **A hostile crowd and a small sustaining audience:** six-month flashback comments drive Yuzu inward, while Momoi/Midori's praise gives her collaborators; Alice's later praise fulfills a dream. Public ranking and intimate reception are different measures, not mutually exclusive facts.
+- **Home built by repeated making:** Yuzu's wish for the shared dream to continue answers E017's separation fear through a new commitment, not by securing legal standing or removing the council's deadline.
+- **Layered time, unfinished future:** E017's two-hour flashback resolves the cliffhanger; E018's six-month flashback explains Yuzu's stakes. The final six-day interval moves from history to an outcome-open project.

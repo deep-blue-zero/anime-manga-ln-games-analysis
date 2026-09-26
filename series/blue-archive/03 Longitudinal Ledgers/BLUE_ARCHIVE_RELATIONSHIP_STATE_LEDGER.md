@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -430,3 +430,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI/MIDORI ↔ ALICE/YUZU:** Momoi names the great-game result as how all can remain in their room and fears Yuzu's dorm return and Alice's uncertain future. Alice asks whether she must leave; Momoi reassures her. The promise is relationally meaningful but not an institutional guarantee.
 - **MIDORI ↔ SENSEI/ALICE:** Midori hopes Sensei/Schale would aid Alice if the club fails; Sensei gives no answer or commitment in this unit. Do not enter a confirmed fallback guardianship.
 - **MAKI/VERITAS ↔ CLUB/SEMINAR:** Maki delivers an openable file and reports returning Mirror to Seminar. The joint operation has reached handoff, but its personal/disciplinary aftermath and Bible contents remain unknown.
+
+## V002 C001 E018 relationship delta — Yuzu's circle and Alice as appreciative player
+
+- **ALICE ↔ GAME CLUB:** Alice gives a repeated-play, first-person account of enjoying the club's game because she feels Momoi/Midori/Yuzu's love and dreams within its companion world. Her reception is a real relationship effect, not a vote from the whole market or a guarantee for the sequel.
+- **YUZU ↔ MOMOI/MIDORI:** Yuzu says severe criticism drove her into the club; the sisters arrived six months earlier as enthusiastic players and collaborators. The flashback depicts their praise and explicit identification, strengthening her reported causal history without making every anonymous turn a clean named quotation.
+- **YUZU ↔ ALICE:** Alice's `面白い` fulfilled Yuzu's personal dream of building with close companions and being appreciated. Yuzu wants this shared practice to continue even after poor ranking and Bible disappointment.
+- **CLUB ↔ SHARED WORK:** Momoi responds to Yuzu/Alice by starting `TSC2` under a stated six-day interval. This is renewed cooperation, not submitted output, official recognition or solved separation risk.

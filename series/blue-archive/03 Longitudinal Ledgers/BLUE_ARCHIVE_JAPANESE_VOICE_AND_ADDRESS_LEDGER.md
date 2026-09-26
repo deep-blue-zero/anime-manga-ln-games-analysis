@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -833,3 +833,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Maki's `鏡をセミナーに返すことになって` is a return report; `最初から全部知ってたみたい` is secondhand knowledge of Himari. `G.Bibleの方はきちんと開けた` supports access, not the withheld contents. `<Key>` is an opaque folder name; adjacency to `あなたはAL-1Sですか？` does not decode it.
 - Momoi's `廃部` is distressed prediction; her promised `神ゲー` is aspiration. Midori's `きっと先生が、シャーレが助けてくれる` remains a hopeful conditional statement, not Sensei's spoken commitment.
 - `（2時間前……）` starts scene 3's flashback continued through scene 4. Scene 2's reaction follows that launch. Scene 4 `u:0002-0004` has ambiguous conversational positioning around `<Key>`; do not assign a precise personal theory from it.
+
+## V002 C001 E018 delta — one-sentence revelation and reception registers
+
+- The Bible's `ゲームを愛しなさい` is split into single-character beats and repeated after an error-suspicion button. `エラーではありません` is the program's own denial. `秘訣、それはたった一つ` is rhetoric, not validated universal causality.
+- Momoi's `便利な方法なんか無い` acknowledges a failed shortcut hope; Midori's `G.Bible無しじゃ、良いゲームは作れない` is despair, not a measured incapacity. Alice's `面白い`, `夢を見る` and `覚めなければ` express situated appreciative play.
+- Yuzu's `四桁以上の低評価コメント` and `クソゲーランキング1位` are her reception reports. The `6か月前` flashback depicts hostile comments and the sisters' contrasting praise, not complete independent metric verification. `UZ様` is Momoi's explicit address after entry.
+- Alice's `6日と4時間38分` is an in-story contest interval, not a production duration. **Attribution quarantine:** `u:0042-0043` has Yuzu addressing an older sister, `u:0048-0057` labels a multi-person exchange Alice, and `u:0131-0132` has Yuzu apparently self-address/respond. Anonymous earlier visitors are identified later as the sisters without repairing each turn.

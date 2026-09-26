@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:017; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:018; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -424,3 +424,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Mirror / file:** Maki reports returning Mirror to Seminar and says `G.Bible` is opened; executable readiness and Alice's launch are shown. The password barrier is crossed locally, but exact method and file contents are not displayed in this unit. The E016 possession state is no longer the current reported custody.
 - **`<Key>` folder:** Maki finds it while opening Bible; apparently intact, it resists her familiar machine-language decoding. Its proximity to the repeated `AL-1S` question does not prove identity, authorship or function.
 - **Club standing:** Momoi fears `廃部` after viewing the file, but no council judgment, enacted week suspension, prize result, Yuzu dorm transfer or Schale placement is shown.
+
+## V002 C001 E018 institutional delta — open Bible without a production procedure
+
+- **Bible:** the executable displays `ゲームを愛しなさい` as its lone secret and repeats it after a built-in error-suspicion button; it asserts no error. Midori says transfer information, size and structure show no damage/alteration. Neither the program nor her local check establishes a universal winning method, hidden authorship or independent full-file audit.
+- **Creative record:** Yuzu says her prototype received more than four figures' worth of negative comments; the six-month-earlier flashback depicts several abusive remarks, then Momoi/Midori's positive visit. She reports the completed game later ranked first on a bad-game list. These are depicted/reported reception, not audited sales or objective quality scores.
+- **Contest clock:** Alice reports six days, four hours and thirty-eight minutes until Millennium Prize. Momoi judges it enough and calls for `TSC2` development to begin. No completed game, submission, prize or renewal decision appears.
+- **Outstanding authority:** Yuuka's threatened sanction/Schale complaint, club output condition, Alice's school/home status and `<Key>` remain unresolved. The new project does not erase the earlier raid's costs.
