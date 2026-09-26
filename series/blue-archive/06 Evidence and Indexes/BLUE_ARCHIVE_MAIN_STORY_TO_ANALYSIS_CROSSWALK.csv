@@ -21,71 +21,71 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 20,BA:main:001:001:018,MAIN_V001_C001_E018,対策委員会編,第18話;友だちなんかじゃないわよ！,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C001_E018_DEEP_READING.md
 21,BA:main:001:001:019,MAIN_V001_C001_E019,対策委員会編,第19話;あんたたち、許さない！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C001_E019_DEEP_READING.md
 22,BA:main:001:001:020,MAIN_V001_C001_E020,対策委員会編,第20話;風紀委員会、参戦！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md
-23,BA:main:001:002:001,MAIN_V001_C002_E001,対策委員会編,第1話;予期せぬ同盟,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-24,BA:main:001:002:002,MAIN_V001_C002_E002,対策委員会編,第2話;ゲヘナの風紀委員長,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-25,BA:main:001:002:003,MAIN_V001_C002_E003,対策委員会編,第3話;さよなら、便利屋68,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-26,BA:main:001:002:004,MAIN_V001_C002_E004,対策委員会編,第4話;それぞれの物語（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-27,BA:main:001:002:005,MAIN_V001_C002_E005,対策委員会編,第5話;それぞれの物語（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-28,BA:main:001:002:006,MAIN_V001_C002_E006,対策委員会編,第6話;アビドス砂漠へ（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-29,BA:main:001:002:007,MAIN_V001_C002_E007,対策委員会編,第7話;アビドス砂漠へ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-30,BA:main:001:002:008,MAIN_V001_C002_E008,対策委員会編,第8話;アビドス砂漠へ（３）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-31,BA:main:001:002:009,MAIN_V001_C002_E009,対策委員会編,第9話;カイザーPMC（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-32,BA:main:001:002:010,MAIN_V001_C002_E010,対策委員会編,第10話;カイザーPMC（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-33,BA:main:001:002:011,MAIN_V001_C002_E011,対策委員会編,第11話;負け戦,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-34,BA:main:001:002:012,MAIN_V001_C002_E012,対策委員会編,第12話;幾つかの秘密,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-35,BA:main:001:002:013,MAIN_V001_C002_E013,対策委員会編,第13話;手をすり抜けたもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-36,BA:main:001:002:014,MAIN_V001_C002_E014,対策委員会編,第14話;アビドス攻防戦（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-37,BA:main:001:002:015,MAIN_V001_C002_E015,対策委員会編,第15話;アビドス攻防戦（２）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-38,BA:main:001:002:016,MAIN_V001_C002_E016,対策委員会編,第16話;大人の戦い,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-39,BA:main:001:002:017,MAIN_V001_C002_E017,対策委員会編,第17話;守りたいもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-40,BA:main:001:002:018,MAIN_V001_C002_E018,対策委員会編,第18話;それでも手放さなかったもの（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-41,BA:main:001:002:019,MAIN_V001_C002_E019,対策委員会編,第19話;それでも手放さなかったもの（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-42,BA:main:001:002:020,MAIN_V001_C002_E020,対策委員会編,第20話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-43,BA:main:002:001:001,MAIN_V002_C001_E001,時計じかけの花のパヴァーヌ,第1話;冒険の始まり,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-44,BA:main:002:001:002,MAIN_V002_C001_E002,時計じかけの花のパヴァーヌ,第2話;セミナーの会計、ユウカ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-45,BA:main:002:001:003,MAIN_V002_C001_E003,時計じかけの花のパヴァーヌ,第3話;廃墟へ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-46,BA:main:002:001:004,MAIN_V002_C001_E004,時計じかけの花のパヴァーヌ,第4話;私たちはあの日、少女に出会った,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-47,BA:main:002:001:005,MAIN_V002_C001_E005,時計じかけの花のパヴァーヌ,第5話;私はアリスです,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-48,BA:main:002:001:006,MAIN_V002_C001_E006,時計じかけの花のパヴァーヌ,第6話;言葉を学ぶ方法,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-49,BA:main:002:001:007,MAIN_V002_C001_E007,時計じかけの花のパヴァーヌ,第7話;銃と呼ぶには大きすぎる,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-50,BA:main:002:001:008,MAIN_V002_C001_E008,時計じかけの花のパヴァーヌ,第8話;資格審査,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-51,BA:main:002:001:009,MAIN_V002_C001_E009,時計じかけの花のパヴァーヌ,第9話;ユウカの質問,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-52,BA:main:002:001:010,MAIN_V002_C001_E010,時計じかけの花のパヴァーヌ,第10話;再び、廃墟へ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-53,BA:main:002:001:011,MAIN_V002_C001_E011,時計じかけの花のパヴァーヌ,第11話;そこにあったもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-54,BA:main:002:001:012,MAIN_V002_C001_E012,時計じかけの花のパヴァーヌ,第12話;「鏡」を探して,7,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-55,BA:main:002:001:013,MAIN_V002_C001_E013,時計じかけの花のパヴァーヌ,第13話;Nerd VS Maid,10,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-56,BA:main:002:001:014,MAIN_V002_C001_E014,時計じかけの花のパヴァーヌ,第14話;Maid VS Meisters,5,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-57,BA:main:002:001:015,MAIN_V002_C001_E015,時計じかけの花のパヴァーヌ,第15話;忍び寄る危機,10,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-58,BA:main:002:001:016,MAIN_V002_C001_E016,時計じかけの花のパヴァーヌ,第16話;あともう一歩！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-59,BA:main:002:001:017,MAIN_V002_C001_E017,時計じかけの花のパヴァーヌ,第17話;終わらない戦い,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-60,BA:main:002:001:018,MAIN_V002_C001_E018,時計じかけの花のパヴァーヌ,第18話;G.Bible,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-61,BA:main:002:001:019,MAIN_V002_C001_E019,時計じかけの花のパヴァーヌ,第19話;ダブルオー,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-62,BA:main:002:001:020,MAIN_V002_C001_E020,時計じかけの花のパヴァーヌ,第20話;ミレニアムプライス,5,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-63,BA:main:002:002:001,MAIN_V002_C002_E001,時計じかけの花のパヴァーヌ,第1話;密やかなる会談,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-64,BA:main:002:002:002,MAIN_V002_C002_E002,時計じかけの花のパヴァーヌ,第2話;ゲーム開発部の平凡な日常,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-65,BA:main:002:002:003,MAIN_V002_C002_E003,時計じかけの花のパヴァーヌ,第3話;～アリス、冒険を始めます！～,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-66,BA:main:002:002:004,MAIN_V002_C002_E004,時計じかけの花のパヴァーヌ,第4話;～アリスと導かれる者たち～（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-67,BA:main:002:002:005,MAIN_V002_C002_E005,時計じかけの花のパヴァーヌ,第5話;～アリスと導かれる者たち～（２）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-68,BA:main:002:002:006,MAIN_V002_C002_E006,時計じかけの花のパヴァーヌ,第6話;不思議な機械（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-69,BA:main:002:002:007,MAIN_V002_C002_E007,時計じかけの花のパヴァーヌ,第7話;不思議な機械（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-70,BA:main:002:002:008,MAIN_V002_C002_E008,時計じかけの花のパヴァーヌ,第8話;崩れた日常,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-71,BA:main:002:002:009,MAIN_V002_C002_E009,時計じかけの花のパヴァーヌ,第9話;残酷な真実（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-72,BA:main:002:002:010,MAIN_V002_C002_E010,時計じかけの花のパヴァーヌ,第10話;残酷な真実（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-73,BA:main:002:002:011,MAIN_V002_C002_E011,時計じかけの花のパヴァーヌ,第11話;そんな事どうでもいいの！,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-74,BA:main:002:002:012,MAIN_V002_C002_E012,時計じかけの花のパヴァーヌ,第12話;作戦会議,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-75,BA:main:002:002:013,MAIN_V002_C002_E013,時計じかけの花のパヴァーヌ,第13話;ビッグシスター,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-76,BA:main:002:002:014,MAIN_V002_C002_E014,時計じかけの花のパヴァーヌ,第14話;要塞都市エリドゥ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-77,BA:main:002:002:015,MAIN_V002_C002_E015,時計じかけの花のパヴァーヌ,第15話;罠,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-78,BA:main:002:002:016,MAIN_V002_C002_E016,時計じかけの花のパヴァーヌ,第16話;チェックメイト,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-79,BA:main:002:002:017,MAIN_V002_C002_E017,時計じかけの花のパヴァーヌ,第17話;逆転の踏み台,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-80,BA:main:002:002:018,MAIN_V002_C002_E018,時計じかけの花のパヴァーヌ,第18話;それでも越えられない壁,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-81,BA:main:002:002:019,MAIN_V002_C002_E019,時計じかけの花のパヴァーヌ,第19話;チートプレイヤー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-82,BA:main:002:002:020,MAIN_V002_C002_E020,時計じかけの花のパヴァーヌ,第20話;ゲーマーとして、友達として,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-83,BA:main:002:002:021,MAIN_V002_C002_E021,時計じかけの花のパヴァーヌ,第21話;その名が示すのは。,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-84,BA:main:002:002:022,MAIN_V002_C002_E022,時計じかけの花のパヴァーヌ,第22話;王女のためのパヴァーヌ（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-85,BA:main:002:002:023,MAIN_V002_C002_E023,時計じかけの花のパヴァーヌ,第23話;王女のためのパヴァーヌ（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-86,BA:main:002:002:024,MAIN_V002_C002_E024,時計じかけの花のパヴァーヌ,第24話;自分がなりたいもの,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-87,BA:main:002:002:025,MAIN_V002_C002_E025,時計じかけの花のパヴァーヌ,第25話;ミレニアムサイエンススクール,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+23,BA:main:001:002:001,MAIN_V001_C002_E001,対策委員会編,第1話;予期せぬ同盟,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md
+24,BA:main:001:002:002,MAIN_V001_C002_E002,対策委員会編,第2話;ゲヘナの風紀委員長,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E002_DEEP_READING.md
+25,BA:main:001:002:003,MAIN_V001_C002_E003,対策委員会編,第3話;さよなら、便利屋68,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E003_DEEP_READING.md
+26,BA:main:001:002:004,MAIN_V001_C002_E004,対策委員会編,第4話;それぞれの物語（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E004_DEEP_READING.md
+27,BA:main:001:002:005,MAIN_V001_C002_E005,対策委員会編,第5話;それぞれの物語（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E005_DEEP_READING.md
+28,BA:main:001:002:006,MAIN_V001_C002_E006,対策委員会編,第6話;アビドス砂漠へ（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E006_DEEP_READING.md
+29,BA:main:001:002:007,MAIN_V001_C002_E007,対策委員会編,第7話;アビドス砂漠へ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E007_DEEP_READING.md
+30,BA:main:001:002:008,MAIN_V001_C002_E008,対策委員会編,第8話;アビドス砂漠へ（３）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E008_DEEP_READING.md
+31,BA:main:001:002:009,MAIN_V001_C002_E009,対策委員会編,第9話;カイザーPMC（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E009_DEEP_READING.md
+32,BA:main:001:002:010,MAIN_V001_C002_E010,対策委員会編,第10話;カイザーPMC（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E010_DEEP_READING.md
+33,BA:main:001:002:011,MAIN_V001_C002_E011,対策委員会編,第11話;負け戦,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E011_DEEP_READING.md
+34,BA:main:001:002:012,MAIN_V001_C002_E012,対策委員会編,第12話;幾つかの秘密,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E012_DEEP_READING.md
+35,BA:main:001:002:013,MAIN_V001_C002_E013,対策委員会編,第13話;手をすり抜けたもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E013_DEEP_READING.md
+36,BA:main:001:002:014,MAIN_V001_C002_E014,対策委員会編,第14話;アビドス攻防戦（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E014_DEEP_READING.md
+37,BA:main:001:002:015,MAIN_V001_C002_E015,対策委員会編,第15話;アビドス攻防戦（２）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E015_DEEP_READING.md
+38,BA:main:001:002:016,MAIN_V001_C002_E016,対策委員会編,第16話;大人の戦い,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E016_DEEP_READING.md
+39,BA:main:001:002:017,MAIN_V001_C002_E017,対策委員会編,第17話;守りたいもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E017_DEEP_READING.md
+40,BA:main:001:002:018,MAIN_V001_C002_E018,対策委員会編,第18話;それでも手放さなかったもの（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E018_DEEP_READING.md
+41,BA:main:001:002:019,MAIN_V001_C002_E019,対策委員会編,第19話;それでも手放さなかったもの（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E019_DEEP_READING.md
+42,BA:main:001:002:020,MAIN_V001_C002_E020,対策委員会編,第20話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V001_C002_E020_DEEP_READING.md
+43,BA:main:002:001:001,MAIN_V002_C001_E001,時計じかけの花のパヴァーヌ,第1話;冒険の始まり,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E001_DEEP_READING.md
+44,BA:main:002:001:002,MAIN_V002_C001_E002,時計じかけの花のパヴァーヌ,第2話;セミナーの会計、ユウカ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E002_DEEP_READING.md
+45,BA:main:002:001:003,MAIN_V002_C001_E003,時計じかけの花のパヴァーヌ,第3話;廃墟へ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E003_DEEP_READING.md
+46,BA:main:002:001:004,MAIN_V002_C001_E004,時計じかけの花のパヴァーヌ,第4話;私たちはあの日、少女に出会った,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E004_DEEP_READING.md
+47,BA:main:002:001:005,MAIN_V002_C001_E005,時計じかけの花のパヴァーヌ,第5話;私はアリスです,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E005_DEEP_READING.md
+48,BA:main:002:001:006,MAIN_V002_C001_E006,時計じかけの花のパヴァーヌ,第6話;言葉を学ぶ方法,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E006_DEEP_READING.md
+49,BA:main:002:001:007,MAIN_V002_C001_E007,時計じかけの花のパヴァーヌ,第7話;銃と呼ぶには大きすぎる,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md
+50,BA:main:002:001:008,MAIN_V002_C001_E008,時計じかけの花のパヴァーヌ,第8話;資格審査,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E008_DEEP_READING.md
+51,BA:main:002:001:009,MAIN_V002_C001_E009,時計じかけの花のパヴァーヌ,第9話;ユウカの質問,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E009_DEEP_READING.md
+52,BA:main:002:001:010,MAIN_V002_C001_E010,時計じかけの花のパヴァーヌ,第10話;再び、廃墟へ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E010_DEEP_READING.md
+53,BA:main:002:001:011,MAIN_V002_C001_E011,時計じかけの花のパヴァーヌ,第11話;そこにあったもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E011_DEEP_READING.md
+54,BA:main:002:001:012,MAIN_V002_C001_E012,時計じかけの花のパヴァーヌ,第12話;「鏡」を探して,7,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E012_DEEP_READING.md
+55,BA:main:002:001:013,MAIN_V002_C001_E013,時計じかけの花のパヴァーヌ,第13話;Nerd VS Maid,10,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E013_DEEP_READING.md
+56,BA:main:002:001:014,MAIN_V002_C001_E014,時計じかけの花のパヴァーヌ,第14話;Maid VS Meisters,5,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E014_DEEP_READING.md
+57,BA:main:002:001:015,MAIN_V002_C001_E015,時計じかけの花のパヴァーヌ,第15話;忍び寄る危機,10,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E015_DEEP_READING.md
+58,BA:main:002:001:016,MAIN_V002_C001_E016,時計じかけの花のパヴァーヌ,第16話;あともう一歩！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E016_DEEP_READING.md
+59,BA:main:002:001:017,MAIN_V002_C001_E017,時計じかけの花のパヴァーヌ,第17話;終わらない戦い,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E017_DEEP_READING.md
+60,BA:main:002:001:018,MAIN_V002_C001_E018,時計じかけの花のパヴァーヌ,第18話;G.Bible,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E018_DEEP_READING.md
+61,BA:main:002:001:019,MAIN_V002_C001_E019,時計じかけの花のパヴァーヌ,第19話;ダブルオー,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E019_DEEP_READING.md
+62,BA:main:002:001:020,MAIN_V002_C001_E020,時計じかけの花のパヴァーヌ,第20話;ミレニアムプライス,5,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E020_DEEP_READING.md
+63,BA:main:002:002:001,MAIN_V002_C002_E001,時計じかけの花のパヴァーヌ,第1話;密やかなる会談,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E001_DEEP_READING.md
+64,BA:main:002:002:002,MAIN_V002_C002_E002,時計じかけの花のパヴァーヌ,第2話;ゲーム開発部の平凡な日常,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E002_DEEP_READING.md
+65,BA:main:002:002:003,MAIN_V002_C002_E003,時計じかけの花のパヴァーヌ,第3話;～アリス、冒険を始めます！～,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E003_DEEP_READING.md
+66,BA:main:002:002:004,MAIN_V002_C002_E004,時計じかけの花のパヴァーヌ,第4話;～アリスと導かれる者たち～（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E004_DEEP_READING.md
+67,BA:main:002:002:005,MAIN_V002_C002_E005,時計じかけの花のパヴァーヌ,第5話;～アリスと導かれる者たち～（２）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E005_DEEP_READING.md
+68,BA:main:002:002:006,MAIN_V002_C002_E006,時計じかけの花のパヴァーヌ,第6話;不思議な機械（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E006_DEEP_READING.md
+69,BA:main:002:002:007,MAIN_V002_C002_E007,時計じかけの花のパヴァーヌ,第7話;不思議な機械（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E007_DEEP_READING.md
+70,BA:main:002:002:008,MAIN_V002_C002_E008,時計じかけの花のパヴァーヌ,第8話;崩れた日常,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E008_DEEP_READING.md
+71,BA:main:002:002:009,MAIN_V002_C002_E009,時計じかけの花のパヴァーヌ,第9話;残酷な真実（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E009_DEEP_READING.md
+72,BA:main:002:002:010,MAIN_V002_C002_E010,時計じかけの花のパヴァーヌ,第10話;残酷な真実（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E010_DEEP_READING.md
+73,BA:main:002:002:011,MAIN_V002_C002_E011,時計じかけの花のパヴァーヌ,第11話;そんな事どうでもいいの！,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E011_DEEP_READING.md
+74,BA:main:002:002:012,MAIN_V002_C002_E012,時計じかけの花のパヴァーヌ,第12話;作戦会議,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md
+75,BA:main:002:002:013,MAIN_V002_C002_E013,時計じかけの花のパヴァーヌ,第13話;ビッグシスター,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md
+76,BA:main:002:002:014,MAIN_V002_C002_E014,時計じかけの花のパヴァーヌ,第14話;要塞都市エリドゥ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E014_DEEP_READING.md
+77,BA:main:002:002:015,MAIN_V002_C002_E015,時計じかけの花のパヴァーヌ,第15話;罠,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E015_DEEP_READING.md
+78,BA:main:002:002:016,MAIN_V002_C002_E016,時計じかけの花のパヴァーヌ,第16話;チェックメイト,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E016_DEEP_READING.md
+79,BA:main:002:002:017,MAIN_V002_C002_E017,時計じかけの花のパヴァーヌ,第17話;逆転の踏み台,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md
+80,BA:main:002:002:018,MAIN_V002_C002_E018,時計じかけの花のパヴァーヌ,第18話;それでも越えられない壁,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E018_DEEP_READING.md
+81,BA:main:002:002:019,MAIN_V002_C002_E019,時計じかけの花のパヴァーヌ,第19話;チートプレイヤー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete,02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md
+82,BA:main:002:002:020,MAIN_V002_C002_E020,時計じかけの花のパヴァーヌ,第20話;ゲーマーとして、友達として,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E020_DEEP_READING.md
+83,BA:main:002:002:021,MAIN_V002_C002_E021,時計じかけの花のパヴァーヌ,第21話;その名が示すのは。,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E021_DEEP_READING.md
+84,BA:main:002:002:022,MAIN_V002_C002_E022,時計じかけの花のパヴァーヌ,第22話;王女のためのパヴァーヌ（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E022_DEEP_READING.md
+85,BA:main:002:002:023,MAIN_V002_C002_E023,時計じかけの花のパヴァーヌ,第23話;王女のためのパヴァーヌ（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md
+86,BA:main:002:002:024,MAIN_V002_C002_E024,時計じかけの花のパヴァーヌ,第24話;自分がなりたいもの,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E024_DEEP_READING.md
+87,BA:main:002:002:025,MAIN_V002_C002_E025,時計じかけの花のパヴァーヌ,第25話;ミレニアムサイエンススクール,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E025_DEEP_READING.md
 88,BA:main:003:001:001,MAIN_V003_C001_E001,エデン条約編,第1話;プロローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 89,BA:main:003:001:002,MAIN_V003_C001_E002,エデン条約編,第2話;補習授業部,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 90,BA:main:003:001:003,MAIN_V003_C001_E003,エデン条約編,第3話;ティーパーティー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

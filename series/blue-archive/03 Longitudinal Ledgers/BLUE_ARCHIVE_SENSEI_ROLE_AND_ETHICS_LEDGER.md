@@ -4,20 +4,20 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -315,3 +315,408 @@ E017 strengthens the distinction between **support that expands another actor's 
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 delta — protected object or entrusted commander
+
+- **Choice-space:** four normalized choices characterize PS68 as troublesome, peculiar, or foolish but not evil. The alternatives vary persona and emphasis; none changes the coalition decision or subsequent route.
+- **Coercive role assigned by Ako:** Ako proposes bringing Sensei under Prefect Team `庇護` and `安全に確保` until a future treaty is complete. Concern for physical safety is plausible, but involuntary custody denies Sensei meaningful refusal and instrumentalizes Schale.
+- **Role assigned by the coalition:** Ayane explicitly asks Sensei to command both Abydos and PS68 after the students decide to resist. This is delegated, task-specific authority rather than appropriation of local policy.
+- **Capability:** Ako's disproportionate deployment and continued escalation corroborate Sensei's strategic force-multiplier reputation, while the students' own pincer, shield, and rescue actions preserve distributed competence.
+- **Ethical comparison:** E001 gives a controlled contrast between two kinds of `protection`: seize a person for a future institutional settlement, or defend that person's agency and then request their help. Legitimate authority is invited, bounded, and answerable to those who bear its consequences.
+
+## C002 E002 delta — warning recipient and information steward
+
+- **Choice-space:** six groups; four singleton responses and two mutually exclusive two-option variants. The alternatives vary claimed Kaiser knowledge and attentional emphasis, not route sovereignty.
+- **Settlement role:** Sensei does not visibly cause Hina's apology or withdrawal. Hina and Abydos own the political settlement.
+- **Information role:** Hina privately warns Sensei about Kaiser Corporation activity in the Abydos desert. Sensei then promises Shiroko to tell everyone later.
+- **Ethical significance:** privileged information is held temporarily but routed back to collective deliberation, preserving Schale as connective/additive rather than substitutive.
+- **Contrast:** Hina's warning gives the recipient actionable knowledge without custody, providing an agency-preserving alternative to Ako's E001 protection model.
+
+## C002 E003 delta — farewell, uncertainty, and repair stewardship
+
+- **Choice-space:** seven groups; one two-option Kaiser attribution and six singleton responses. The two guesses are mutually exclusive and explicitly remain unconfirmed.
+- **PS68 relation:** Sensei permits departure, expresses care, and projects future meeting/partnership without demanding confession, detention, or loyalty.
+- **Investigation role:** Sensei defers to Ayane and Serika's self-initiated verification and waits at school with separate information to report.
+- **Repair role:** Sensei tells the proprietor to use PS68's bag money for rebuilding; this stewards the resource toward its stated reparative purpose without claiming credit or forgiveness.
+- **Constraint:** Sensei cannot identify the property owner from current evidence, preserving bounded knowledge.
+
+## C002 E004 delta — durable presence without compelled disclosure
+
+- **Choice-space:** twelve groups; eleven singleton responses and one two-option affirmation whose structural outcome converges.
+- **Relational role:** Sensei affirms staying when Nonomi asks, reports carefully, notices Shiroko's anxiety, and asks about Nonomi's wellbeing.
+- **Ethical restraint:** Sensei does not force Hoshino or Shiroko to reveal the private conflict despite its possible institutional significance.
+- **Epistemic constraint:** Sensei receives the cadastre from student investigators and does not originate its finding; Hina's desert warning still has not been narrated to the full committee.
+- **Current model:** solidarity is durable presence and facilitation, not guaranteed solution or entitlement to every secret.
+
+## C002 E005 delta — moral framing, returned intelligence, provisional secrecy
+
+- **Choice-space:** twelve groups; the final two-option choice converges on temporary nondisclosure because evidence is incomplete.
+- **Moral role:** Sensei proposes a predatory-trap reading as possibility and redirects culpability from deceived prior students toward deception.
+- **Information role:** Sensei fulfills the E002 promise by reporting Hina's desert warning to the full committee.
+- **Action role:** Serika proposes direct investigation; Sensei and the group support it without replacing her initiative.
+- **Ethical complication:** Sensei accepts Shiroko's privacy-violating evidence and keeps it confidential for now. Uncertainty may justify delay, but no accountability path is yet specified.
+
+## C002 E006 delta — structurally present, causally noncentral
+
+- There are no Sensei choice groups or direct utterances.
+- Prior continuity places Sensei with the expedition, but the canonical unit gives logistics, questioning, reinterpretation, reassurance, and continuation to the students.
+- The absence of adult intervention strengthens the additive/non-substitutive model; it supplies no new evidence about the withdrawal-form confidentiality decision.
+
+## C002 E007 delta — no new direct intervention
+
+- No Sensei dialogue or choices occur; cultural narration, navigation, and risk control remain student-authored.
+- No evidence changes the withdrawal-form confidentiality decision or Sensei's established role.
+
+## C002 E008 delta — no direct adult action
+
+- No Sensei dialogue or choice occurs; student observation and defense author the encounter.
+- The unit adds no evidence about confidentiality, command, or personal combat capacity.
+
+## C002 E009 delta — requested escape command
+
+- No choice or command utterance is preserved, but Ayane explicitly asks Sensei for instructions after she identifies encirclement and orders escape.
+- Sensei's role is bounded tactical coordination downstream of student-authored threat analysis/policy; no personal combat supremacy appears.
+- Withdrawal-form confidentiality remains unchanged.
+
+## C002 E010 delta — coordination limits under containment
+
+- No choice or direct Sensei utterance occurs.
+- The E009 command request does not yield escape before comms degrade and encirclement completes; coordination is powerful but not omnipotent.
+- The adult/student partnership is forced into a creditor-controlled negotiation field, intensifying the consequence of withheld Hoshino information.
+
+## C002 E011 delta — force multiplier within structural limits
+
+- No Sensei dialogue or choice occurs.
+- Hina says Schale would have increased Prefect losses, strengthening tactical reputation.
+- Sensei nevertheless cannot prevent the creditor from changing financial terms or offering coerced institutional exit; capability remains domain-specific, not sovereign/omnipotent.
+- The withdrawal-form confidentiality problem intensifies as the director makes abandonment the offered escape.
+
+## C002 E012 delta — private accountability and a failed adult promise
+
+- **Choice topology:** fifteen groups; fourteen singleton interventions and one two-variant presentation of the same withdrawal form, followed by duplicated convergence lines.
+- **Method rejection:** Sensei agrees with ending the exhausted meeting after the committee rejects PMC infiltration; the adult does not authorize a crime under necessity.
+- **Direct confrontation:** Sensei presents a private document obtained through Shiroko's unauthorized bag search and presses Hoshino to talk. Imminent collective risk supports accountability, but means and refusal pressure remain ethically material.
+- **Adult responsibility:** `大人として何とかする` accepts a distinctive adult obligation without claiming a known solution.
+- **Bounded efficacy:** reassurance and promise do not prevent Hoshino's next-morning disappearance; valuable adult presence is not control over a student.
+
+## C002 E013 delta — entrusted support under invasion
+
+- **No choice/direct speech:** Sensei is the addressee of Hoshino's letter and an object of Ayane's safety planning, not the author of the episode's immediate decisions.
+- **Changed adult relation:** Hoshino explicitly moves from general adult distrust and initial dismissal of Sensei to confidence in Sensei's capacity to support Shiroko.
+- **Non-substitution:** the request is to stand beside Shiroko and prevent harmful drift, not to govern her; Ayane's peer coordination immediately remains causal.
+- **Protection inversion:** students plan civilian evacuation and Sensei safety while confronting an institutionally adult-coded coercive actor, preserving adult vulnerability.
+- **Ethical burden:** supporting Shiroko requires resisting the same solitary self-sacrifice that Hoshino's act models.
+
+## C002 E014 delta — invited collaborator against abandonment
+
+- **No normalized choice:** the only direct Sensei text is internal assent at the close.
+- **Student-authored invitation:** Aru designs/announces the coalition and asks Sensei to align; adult participation follows student initiative.
+- **Relational counterexample:** PS68's return disproves the director's universal abandonment claim before Sensei acts.
+- **Anti-sovereign aid:** Sensei joins the defense without using Hoshino's absence or committee nonrecognition to claim local authority.
+- **Adult contrast:** Hoshino distinguishes Sensei's trustworthiness from Black Suit's deceptive adult contract practice.
+
+## C002 E015 delta — `my student` and restoration pressure
+
+- **Choice topology:** three singleton groups—two protective declarations to the director and one regroup recommendation.
+- **Relational claim:** `私の大事な生徒` makes care personal and forceful; it contests capture but uses possessive grammar that must remain accountable to Hoshino's agency.
+- **Restoration aim:** `返してもらう` seeks Hoshino's return rather than assignment of rights to Sensei, distinguishing protection from Black Suit's ownership model.
+- **Proportional pause:** Sensei recommends returning after retreat; the adult does not turn tactical advantage into uncontrolled pursuit.
+- **Direct risk:** Sensei enters Black Suit's unspecified site alone/on-screen without a demonstrated command role or outcome.
+
+## C002 E016 delta — responsibility versus domination
+
+- **Choice topology:** eight groups; groups 2–3 have two refusal variants and duplicated convergence, the other six are singleton.
+- **Co-option refusal:** truth, mystery, power, and school preservation are rejected when priced by cooperation or Hoshino's abandonment.
+- **Procedural protection:** missing advisor signature blocks completed withdrawal in the exchange; its legitimacy is restorative and context-bound, not a universal adult retention right.
+- **Adult definition:** Sensei takes responsibility because no adult did; Black Suit defines adults as rule-makers who dominate through asymmetry.
+- **Relinquished sovereignty:** Black Suit says Sensei once held enormous Kivotos authority/mystery and freely released it, strengthening non-domination as chosen practice.
+- **Adult card:** presented but not shown activated; unique-weapon status and life/time cost are Black Suit's partly qualified account.
+- **Collective return:** Sensei brings information back, joins welcome-home/accountability planning, and proposes allies rather than a solitary solution.
+
+## C002 E017 delta — effective coalition, unacceptable shortcut
+
+- **Choice topology:** two groups; the first offers two pride-denial variants after the physical gag has occurred, the second launches the mission.
+- **Boundary failure:** immediate foot-licking compliance with Iori's taunt is adult/student physical conduct with surprised, ambiguously conditional consent; student-serving intent does not cure it.
+- **Humility signal:** Hina reads the kneeling posture as unprecedented adult self-abasement for students before learning the detail.
+- **Relational capacity:** Sensei activates Hina and Hifumi/Nagisa channels and returns lab-location intelligence.
+- **Non-substitution:** Ayane authors route and launch; external support is functionally partitioned rather than centralized under Sensei.
+- **Ethical revision:** responsible adulthood now requires an explicit bodily/professional-boundary limit alongside anti-domination and answerability.
+
+## C002 E018 delta — absent voice, effective returned information
+
+- No Sensei choice or direct line occurs.
+- Coordinates obtained from Black Suit remain causally useful and bring the group to the laboratory site.
+- Hifumi support generated through the prior relational network opens a corridor without assigning mission command to Sensei.
+- Ayane/Shiroko author the immediate use of fire support; PS68 authors the holding offer.
+- The unit strengthens a connective/facilitative Sensei role while showing that execution remains student-distributed.
+
+## C002 E019 delta — commanded when asked, logistical rather than sovereign
+
+- No normalized choice occurs.
+- Ayane explicitly requests Sensei's combat direction at the final barrier, preserving delegated rather than presumed command.
+- Schale loans a helicopter for bunker access/extraction, making institutional logistics materially causal.
+- Students locate, breach, recognize, and welcome; Sensei's address joins rather than monopolizes rescue.
+- Hoshino's `ただいま` supplies recipient participation, strengthening restoration over possession.
+- No adult-card activation is shown; the rescue cannot be attributed to a hidden omnipotent mechanism.
+
+## C002 E020 delta — certification as autonomy amplification
+
+- No choice or direct Sensei line occurs.
+- Public certification repairs the committee's recognition defect and enables formal student-council function.
+- Sensei does not appoint a president; Hoshino's refusal stands and the office remains undecided.
+- Schale continues as Black Suit investigator/advisor while debt, land, and federal-enforcement limits remain outside unilateral adult solution.
+- The final request for continued support makes the relationship durable but not completed or possessive.
+- E017's bodily/professional boundary failure remains a required counterweight in chapter-level adult ethics.
+
+## MAIN V001 C002 checkpoint ethical state
+
+Current model:
+
+> **answerability without domination + coalition/connective capacity + requested command + logistics/recognition + finite unexplained card capacity + obligation to preserve viable student/community agency + explicit privacy, veto, possession, and bodily-boundary limits**
+
+The chapter strongly supports responsible adulthood while rejecting adult supremacy and ethical infallibility.
+
+## V002 C001 E001 delta — hero address without hero sovereignty
+
+- **Choice topology:** five groups: scene 2 disorientation (two variants) and letter inquiry (singleton); scene 3 prior Millennium knowledge (two variants); scene 4 explanation request (two variants) and ultimatum inquiry (singleton). Branch-conditioned duplicated dialogue must not be counted as repeated actions.
+- **Invited role:** a student-authored letter calls Sensei `勇者`, but the game's narration corrects the destination role to `先生`; neither label supplies demonstrated power to override school governance.
+- **Vulnerability:** an accidental console strike physically harms Sensei before any assistance. This supports the established bounded-adult model, without turning a gag into a universal safety claim.
+- **Response under uncertainty:** Sensei arrives and asks what the ruins/ultimatum mean. Council reasons and proposed intervention remain unknown. Cross-school service is initiated, not adjudicated successful or legitimate in its eventual means.
+- **Reconstruction:** `NO_MATERIAL_RECONSTRUCTION_DELTA`; no previously frozen prediction exists and thus `NO_DIAGNOSTIC_OPPORTUNITY`. V001 privacy, veto, possession, and bodily-boundary cautions remain active.
+
+## V002 C001 E002 delta — outside helper under local jurisdiction
+
+- **Choice topology:** six singleton groups, all in one scene: greeting, worst-game joke, and four clarification/surprise questions. No selectable variant is a federal veto or explicit ruin assent.
+- **Authority limit:** Yuuka explicitly contests Schale's capacity to reverse a school club decision; Sensei does not test that claim by exercising power.
+- **Consent/information risk:** Momoi identifies Sensei as a `切り札` before explaining the ruins' known or unknown dangers or why Sensei is needed. Being requested is not the same as consenting to an unknown mission.
+- **Actual effect:** Yuuka's two-week extension follows Momoi's contest commitment and Yuuka's own discretion. It is not attributable to Sensei's status or the `1位` joke.
+- **Reconstruction:** `NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`, no frozen prospective prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); existing V001 boundary counterevidence remains active.
+
+## V002 C001 E003 delta — tactical cue, then requested command
+
+- **Choice topology:** three groups; the first has two mutually exclusive memory/disorientation variants and branch-conditioned Momoi re-explanations, while the second/third are singleton clarification and factory-sighting lines.
+- **Participation:** Sensei is present in the restricted ruins; the exact preceding consent and risk disclosure are not shown. Presence alone does not retroactively prove informed assent.
+- **Tactical contribution:** Sensei spots a factory-like refuge as robots converge; Momoi accepts the cue and Midori explicitly requests combat command. No battle outcome appears here.
+- **Authority structure:** danger brings a domain-specific request for adult coordination without converting the club's search goal or earlier risk decision into Sensei's property.
+- **Reconstruction:** useful context for the established bounded-command mechanism, no standalone-model promotion; `NO_DIAGNOSTIC_OPPORTUNITY` for frozen predictions.
+## V002 C001 E004 delta — bodily protection without explanatory authority
+
+- **Choice topology:** three scene-1 groups: singleton muffled location; sincere-relief versus gain/loss joke followed by branch-conditioned duplicate thanks; and two distinct questions followed by one duplicated non-answer. No option discovers Alice's identity or site purpose.
+- **Access:** the unknown voice grants Sensei primary entry and the sisters derivative `生徒` access. A machine's authorization is not Sensei's knowledge, endorsement, or proof of legitimate institutional jurisdiction.
+- **Care:** Sensei cushions the sisters after the floor drops. Immediate physical protection is observed, not lasting injury, universal self-sacrifice, or retroactive approval of the hazard.
+- **New dependent person:** Sensei's optional questions do not control Alice's naming, custody, or membership. The group's duty of care is complicated by her memory-loss report and the club's recruitment incentive; no informed consent to membership is shown.
+- **Reconstruction:** bounded care context, not a standalone adult model or frozen-prediction success (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E005 delta — no Sensei appearance, continuing care question
+
+- No Sensei line, structural action, or selectable choice is represented. Do not credit Sensei with the ID plan, teaching, or Alice's game response.
+- Alice explicitly agrees to play; this limited consent cannot transfer to the planned registration/ID. The club's benevolent Yuzu motive leaves the newcomer-agency problem unresolved.
+- No new Sensei reconstruction rule or frozen-prediction test arises (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E006 delta — no adult intervention in the credential turn
+
+- No Sensei action or choice is represented; the student ID and claimed roster alteration must not be attributed to Sensei or adult authorization.
+- Alice's `仲間` declaration is an affirmative interpersonal response, not proof she was informed of the `ハッキ……登録` method. The adult-agency claim remains under pressure from student-controlled institutional means.
+- No Sensei reconstruction rule or frozen-prediction test (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E007 delta — armed agency without Sensei
+
+- Sensei does not appear, speak, command the test, or choose Alice's weapon. No Sensei branch or reconstruction rule is supplied (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
+- Alice's expressed preference is honored only after an unexpected physical/qualification trial; her unsafe indoor firing and the workshop damage complicate the ethic of enabling choice without preparation or informed risk assessment.
+- Utaha's test is an engineering gate, not an adult rescue or a Schale authorization. No frozen prediction is testable (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E008 delta — voluntary membership without adult appearance
+
+- Sensei is absent: no speech, physical intervention, review command or selectable choice is represented. Do not credit an adult with Yuuka's criterion or the club's rehearsal (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
+- Yuuka's `自分の意志` test bears on the standing ethical distinction between enabling another person's agency and merely producing a useful institutional status. Alice's prior `仲間` language matters but does not prove informed knowledge of card provenance or freedom from club-survival pressure.
+- The review has not asked substantive questions or ruled. No frozen adult-model prediction can be adjudicated (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E009 delta — student-only recognition and renewed risk
+
+- Sensei is absent from the questioning, Yuuka's formal recognition, the output deadline and the decision to seek `G.Bible`; no adult action/choice is represented (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
+- Yuuka tests for coercion, notices Momoi's stare and credits Alice's game love despite suspicious biography. This is a student institutional attempt to respect agency, but a card/roster entry and short exchange do not certify informed status consent.
+- The club's renewed ruins plan is its own decision, with Yuzu directly volunteering. Sensei's prior help in E003–E004 is no automatic authorization, protection or command for this prospective trip. No frozen prediction is testable (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E010 delta — exposed body, affirmative choice, specific delegation
+
+- Sensei accompanies the renewed ruins expedition and survives an initial nearby blast; Momoi warns them to duck and Midori asks after them. Their `大丈夫` response gives immediate status, not invulnerability or implied acceptance of future hazards.
+- Midori names the difference between armed students and the teacher if hit. Alice promises protection and explicitly requests trust/participation. Both Sensei choice variants say yes; one adds companion identity and an offer to help. No refusal route or distinct tactical destination is authored.
+- Midori then asks Sensei to command a breakthrough. This is a specific delegated battle function after assent, not ownership of the club's output goal, credential decisions, or the corrupted tactical forecast. No battle result follows in E010.
+- The invitation makes local consent more visible than on the first trip, but it does not prove complete risk disclosure or Alice's protective efficacy. Existing adult model remains `PARTIAL_MODEL`; no new standalone rule or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E011 delta — protected participant, no new adult command
+
+- Sensei is present after factory entry but has no secure speech, new choice or represented command. The early claim that Sensei's direction helped the team is in a role-flipped cluster and cannot ground a precise speaker or battle-tactic reconstruction.
+- Under renewed robot fire, Momoi assigns Yuzu to protect Sensei while Momoi/Alice cover the rear; Midori offers support. This is student-authored protection of a physically vulnerable adult, not evidence that Sensei is passive in general or that escape succeeds.
+- Alice's E010 protection promise remains open; the allocation is a plan, not proof of fulfilled safety. No new Sensei rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E012 delta — social broker amid a privacy-sensitive plan
+
+- Hare says Engineering Club's help is needed and asks Sensei to approach people not especially close to Veritas. Sensei's two choices (`私？` / `私にできることなら、任せて。`) converge; one is a question, the other affirmative willingness. The scene shows a bounded social-recruitment role, not a refusal option or adult command over club, Veritas and engineers.
+- Utaha agrees; Midori explicitly asks why established engineers would accept danger. Hibiki/Kotori give situated reasons in secure turns, while the late Alice-labeled exchange is inconsistent and excluded from precise relationship inference.
+- Kotama says she wanted to inspect Sensei's phone messages with Mirror. No actual phone access is shown, nor Sensei consent to it; Sensei's cooperation with an operation must not be read as blanket consent to surveillance or bypassing confiscation safeguards.
+- Yuuka independently commissions C&C to guard the seized store. The adult's assistance is one part of a student-institution conflict, with no verified safe plan or outcome. Sensei remains `PARTIAL_MODEL`; no frozen prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E013 delta — delegated phase cue and a resistible retreat option
+
+- Hare asks whether the first trick worked and Sensei may affirm or ask about Engineering Club readiness. Maki's duplicated answer belongs to convergent branches, not two reports. Midori then requests a phase-two cue; the sole option `作戦開始！` is execution coordination within a student-designed infiltration.
+- Midori asks Sensei to hold her and Momoi's hands in the dark elevator. This continues situated protection/coordination without making Sensei the plan's originator or mechanically safe.
+- At an unexpected defender, Sensei may recommend breakthrough or retreat. The route-conditioned responses converge on continuing for Alice, and Sensei's final common option agrees. The retreat variant is not followed, a specific counterexample to unqualified adult-command obedience.
+- Alice is detained as a planned decoy, and Akane/Noah are trapped by compromised security. Sensei participates in the operation but the source does not establish who secured Alice's informed consent or evaluated confinement/emergency-egress costs. Do not assume adult presence ethically authorizes all tactics.
+- Sensei remains `PARTIAL_MODEL`; no standalone model or frozen prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E014 delta — vulnerable participant under layered threat
+
+- Sensei accompanies the club near Karin's live sniper fire; the source does not show Sensei hit, directing Utaha/Hibiki or making a new choice. The immediate engineer diversion is student-authored protection with unknown lasting safety.
+- After an outage, Midori explicitly warns Sensei of dark footing. This is ordinary concrete care inside a high-risk, ethically unresolved raid, not a romantic/private relationship inference.
+- Asuna initially mistakes Sensei's status as a senior, corrects to `先生`, says she has wanted to meet them and begins a fight with the club. This is her first on-page address and an acute encounter, not a durable social bond or consent to violence.
+- Sensei remains `PARTIAL_MODEL` with no new adult rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E015 delta — apology, conditional adult limit and outside review
+
+- Yuuka says the raid is no longer a prank, threatens week-long suspension/confinement for students and intends a formal complaint to Schale concerning Sensei. This recognizes adult participation as accountable to another institution, without showing a filed complaint or adjudication.
+- Momoi apologizes to Sensei for the students' apparent failure despite adult help. Sensei's choice is either `諦めないで` or an apology for lacking more power. Route-conditioned Momoi/Midori replies must not be combined into one adult behavior sequence; neither choice proves the teacher caused all tactical harms.
+- Alice's self-directed escape and return show students acting beyond adult command, while the unlabeled beam and subsequent Akane fight leave outcomes open. Sensei is present but has no authored order that produces Alice's escape or shot.
+- Sensei remains `PARTIAL_MODEL`; no standalone model, generalized self-blame rule or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E016 delta — private wish is not a tactical order
+
+- Sensei hides with the students while Nel approaches; Momoi asks what to do. There is no printed choice or secure audible reply to that request.
+- After Yuzu diverts Nel and Alice takes the rear, she asks Sensei for instructions. The following line is explicitly `先生（心の声）`: a wish that everyone return safely and a combat-preparation thought. Midori/Momoi's subsequent assent cannot prove those words were spoken, heard or telepathically received.
+- Yuzu's independent deceptive rescue and Nel's decision sustain the distributed-agency reading. Sensei remains a risk-bearing participant and care-oriented viewpoint, not established author of this diversion or the coming fight. No new adult rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E017 delta — hoped-for fallback is not consent
+
+- The party is back in its room, but the exit/fight and Sensei's participation are not narrated here. No choice or new audible order appears.
+- Midori says that, if the club failed, surely Sensei/Schale would help Alice. This is a student's hopeful contingency, not an offer from Sensei, lawful placement, or evidence the teacher can preserve Alice's club membership.
+- Momoi links game success to Alice and Yuzu staying; Alice asks whether she must leave. Adult support is named because the student institution is fragile, but the file's contents and actual institutional decision remain withheld.
+- Sensei remains `PARTIAL_MODEL`; no new adult rule, standalone model or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_RULE_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E018 delta — absent adult during student recommitment
+
+- Sensei has no speech, choice or represented action while Bible reveals its maxim, Alice speaks as player, Yuzu recalls the sisters' visit and Momoi starts a new project. Do not attribute this recovery to adult command or guaranteed institutional rescue.
+- Midori's E017 Schale fallback remains only her hope. E018 does not enact it, settle Alice's placement, revoke Yuuka's prospective complaint or discharge the teacher's ethical accountability for the raid.
+- Sensei remains `PARTIAL_MODEL` with `NO_MATERIAL_RECONSTRUCTION_DELTA` and no frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E019 delta — accusation, branch-conditioned exit and offered carrying
+
+- Momoi decides to leave the clubroom partly to avoid exposing Sensei to incoming fire. Sensei's scene-1 options are to calm the group or use Karin's reload window to get outside; route-conditioned Midori responses converge on exit and must not be stacked.
+- Nel says Akane's research identifies Sensei and attributes the raid and student direction to them. This is an opposing actor's inference based on visible coordination, not proof the teacher designed the students' infiltration or authorized every harm.
+- After Alice's damaging floor shot, the sole Sensei option is `私が背負う`, with Midori urgently accepting. This is an offered care act in a retreat, not a shown complete medical rescue or an all-context paternal rule.
+- Scene-2 `まだだよ` is `先生（心の声）`, not an audible warning that students obey. C&C teasing about Sensei attractiveness/height preference is not evidence of actual adult romantic preference.
+- Sensei remains `PARTIAL_MODEL`; no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E020 delta — unspoken refuge, altered institutional outcome
+
+- When the club believes it missed all recognition, Yuzu says her relationships will sustain her but Alice's placement remains worrying. Sensei's response is `先生（心の声）`: an offer to take Alice to Schale. Alice trusts Sensei and laments separating from her friends. The internal text is not proof of a spoken, authorized or completed relocation.
+- Momoi/Midori offer personal housing and food, while Yuzu warns of potential repercussions. Care exists under resource and permission limits; the adult's private fallback cannot substitute for the club's institutional home.
+- Yuuka then announces the special award and temporary clubroom/dissolution deferral. The actual outcome is produced by submitted student work, judges' exceptional recognition and a council decision, not an enacted Sensei rescue. Yuuka does not explicitly revisit her E015 prospective Schale complaint here.
+- Sensei remains `PARTIAL_MODEL`; this unit adds a conditional care intention but no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## MAIN_V002_C001 checkpoint Sensei/ethics reconciliation
+
+Sensei's student-requested help, bounded options, exposure to raid accountability, carrying offer and internal Schale refuge thought do not make them the product's author or sole rescuer. Nel's master-planner attribution is adversarial inference; E013 student/coalition planning stands. The final result comes from student work, a judge's exceptional recognition and Yuuka's conditional council decision. Preserve branch-conditioned tones and unheard thoughts separately. Sensei stays `PARTIAL_MODEL` with no operational rule or prospective test; Yuuka's Schale-complaint threat remains unresolved. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs this boundary.
+
+## V002 C002 E001 delta — absent teacher and covert conditions
+
+Sensei has no appearance, choice, speech or represented knowledge of Rio/Himari's secret meeting. Their retrospective claim that they supplied Mirror/C&C test conditions revises the audience's view of C001's threat architecture, not Sensei's observed choices or information at that time. Rio's attempt to detain Himari creates an adult/authority question for later source, but this unit does not let Sensei respond. No Sensei readiness change, standalone model or prospective adjudication (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E002 delta — companion in play, not originator
+
+Sensei accepts an underspecified club invitation on a free day, wins the depicted fighting-game match against Momoi and joins talk of the next game. The club asks for ideas, yet none is shown becoming Sensei's design; Yuzu, not Sensei, analyzes and wins the anomalous rematch. Choice groups `002`/`007` contain mutually exclusive tones, and `u:0040` is `先生（心の声）`. Sensei's conditional line about difficulty `if` the opponent cheats is not a forensic verdict. Their information does not include Rio/Himari's secret meeting. No readiness change, model or frozen prospective test (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E003 delta — invited judge becomes apprentice companion
+
+The twins ask Sensei to choose between spectacle and feasibility, but Sensei's `心の声` expects either choice to go badly; Yuzu intervenes and the club shifts to its own game match. No adult verdict or match result is shown. Sensei accompanies Alice on a search for ideas, suggests advancing, echoes her earlier adventure maxim and explicitly credits her as its source. Alice chooses to put both at level one. The sticker/guardian are in-game/art tributes, not proof of literal Sensei strength, design authorship or omniscience. E001 covert knowledge still does not reach Sensei. Eighteen choice groups include only one two-option branch (`009`); no readiness change or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E004 delta — companion, confidential hearer and apology
+
+Sensei follows Alice's initiative from campus to outskirts, meets Sumire, and hears Asuna's Rio-task account. The twenty-three choice groups include two two-option groups (`008`/`013`); six `心の声` units are separate, unspoken. Sensei compliments Karin's uniform, Karin says not to stare, and the next printed choice apologizes; the further positive appraisal is inward and not a repeated audible pressure. Sensei's worry about C&C's shaky questioning is also inward, not mission direction. No evidence they know E001's Rio/Himari plan, author Gehenna intelligence or produce Alice's game idea. No readiness promotion, standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E005 delta — shared day without task success
+
+Sensei may introduce themself as Schale teacher or mascot in scene-1 `choice:001`, not both. They witness Alice's public welcome and railgun affection; the ceiling-damage line is `心の声` despite an apparent response. At Nel's arcade pull, a printed choice objects that they are busy on the adventure, but play continues until Akane intervenes. After dusk Sensei's alternative question phrasings elicit Alice's nuanced Nel account. `u:0088` says the day was fun but is labeled inward, so it is not secure spoken reassurance; the next choice asks Alice's view, and she says the idea quest failed but asks for future companionship. The sole reply agrees. No design result or E001 covert knowledge is attributed to Sensei; no readiness promotion/model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E006 delta — explicit adult epistemic limit at activation
+
+Veritas invites Sensei because Schale help may matter *if* the find proves dangerous. Sensei attends but answers `分からないかも` when asked whether they identify it. Their later concern and calls to Alice are `心の声`; no audible command, rescue or causal explanation is shown before the cut. Ten printed choices are singleton, and none reveals access to Rio/Himari's E001 secret. This is a strong counterexample to an omniscient/automatic adult-fix reading, not a verdict that responsibility ends with uncertainty. No readiness change, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E007 delta — triage after student-led containment
+
+Sensei's urgent wishes to stop Alice and have others help are `心の声`, not audible tactical commands; Maki interrupts charging and C&C arrives independently by Nel's stated loud-noise explanation. The five singleton choices call to Alice, thank Nel/team, check the others and respond to Midori/Yuzu. This is a care/triage pattern under unknown cause, not a medical all-clear, sole rescue or claim to know E001's covert threat. No readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E008 delta — care without causal omniscience
+
+Sensei brings/helps bring Momoi to Schale's infirmary by narration, checks a console that will not power on, and is troubled by unknown Alice/device links. Midori/Yuzu ask what to do about Alice's seclusion; Sensei's choices reassure them and volunteer to speak with her. The `u:0040-0044` permission/entry-looking lines are `心の声`, so no secure audible permission script should be inferred. Alice voices guilt/amnesia, and Sensei urges calm, but no technical or emotional cure occurs before Rio arrives. Eleven choices are singleton; no readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E009 delta — contesting the remedy without owning the facts
+
+Sensei hears Rio's public AL-1S/Divi:Sion classification, monitoring-miss admission and forecast without being given independent technical proof. The printed choice `合理、非合理の問題じゃないよ` contests reducing Alice's fate to Rio's rationality frame; it does not deny Momoi's injury, diagnose the devices or prove harmlessness. Rio appears to answer Sensei `心の声` at `u:0041`, `u:0072` and `u:0092`, but those inward lines are not secure audible objections. Seven choice groups are singleton. Nel, not Sensei, directly refuses the abduction order; Toki's attack begins before any result. No adult rescue, unilateral override, halo outcome, readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E010 delta — adult-care dispute under failed intervention
+
+Rio appeals to Sensei as an emotion-resistant adult who should act first, then denies Alice's life/student standing and calls Sensei's care `エライザ効果`. These are contested premises of her demand, not a settled description of adult responsibility. Sensei's printed choice objects to hurting a student and `choice:006` urges Alice to discuss rather than swallow Rio's account; neither establishes a technical counterdiagnosis or stops the seizure. `u:0037` and `u:0091` are `心の声` despite apparent replies. Final narration confirms AMAS immobilizes the group until Rio and Alice depart. Sensei is neither sole rescuer nor shown to accept Rio's calculus. Six choices are singleton; no readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E011 delta — asked to help, not author of the coalition
+
+Sensei's choices check Nel's possible injury, recall Rio's `武装`, call for organizing the situation, address Midori and ask Momoi about her body. None resolves origin, consent, medical status or a rescue tactic. Hare asks Sensei what they should do; Momoi independently arrives and initiates retrieving Alice, while Nel/C&C join. Momoi then explicitly asks Sensei for help. `u:0091` prints an apparent yes/plan response as `先生（心の声）`, so it cannot be presented as secure audible promise or operational command. Five choices are singleton. No model/readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E012 delta — explicit assent within student-authored plan
+
+Sensei approaches Yuuka/Noa for a location and asks them to search. `choice:002` gives two alternative request phrasings, not cumulative speech; Noa's same acceptance is duplicated. `choice:006` expressly agrees to Yuuka's stop-Rio/bring-Alice-back request, and `choice:014` agrees after Nel's diversion and the task allocation. Sensei asks about city purpose, rail access, Utaha's risk and diversion, but Noa/Yuuka source the site, Engineering proposes transport, Nel authors the tactical split, and Veritas takes remote systems. Final `u:0132-0133` “operation start” is `心の声`, not a secure audible command. Fourteen groups total, thirteen singleton; no model/readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E013 delta — participant in access, not sole security controller
+
+Sensei arrives with the party by freight train, thanks Veritas and says to be careful through `choice:001`. `choice:002` contains two alternative reactions to the drone, one identifying it as Rio's; the alternatives are not cumulative utterances. Hare reports suppression/local network hack, Akane says the diversion works, and Toki appears, all without an adult-authored visible tactic. Sensei's `u:0055` “battle preparation” is `心の声`, not an audible field command. Neither E012's spoken assent nor this presence makes Sensei the sole rescuer. No readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E014 delta — inward encouragement during plural advance
+
+Sensei is absent from Toki's front-line view and present with the rear group. The `u:0064` “tighten up” and `u:0070` thanks/“let's go” lines are `心の声`, not secure audible orders; the latter also has a malformed opening quote. Momoi announces surface access, Hare calculates the probable tower route, and the group advances without a displayed adult-authored tactical intervention. There are zero choice groups, no Alice contact or rescue, and no readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E015 delta — Rio's adult lever and Sensei's bounded tactic
+
+Rio again asks Sensei to accept a sacrifice calculus, now via `トロッコ問題`. Her forced binary depends on unverified Alice classification, risk scale and absence of alternatives; the metaphor does not itself settle adult duty. `choice:002` contains two alternative replies, only one explicitly “came to stop you.” `choice:001` and `choice:003` are singleton. Sensei's `scene:001:u:0070` warning and `scene:002:u:0003` recognition of a hidden opponent are inward. The latter says they asked C&C to address Toki, a retrospective participation claim that coexists with Nel's E012 authorship; it is not a secure audible E015 order or complete account of coalition decisions. No rescue, medical outcome, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E016 delta — no adult-only escape from checkmate
+
+Rio says even Schale's teacher must accept her `合理的な判断` after C&C isolation. This is her anticipated capitulation, not Sensei's assent. Himari disputes Rio's `独善`, Eimi comes for Himari, Mirror startup appears and Chihiro arrives as the rear weapon slows; none is an adult-alone intervention. Sensei's `scene:002:u:0025` question about Utaha's calm is malformed-quote `心の声`, while `choice:001` warns danger and `choice:002` recognizes Chihiro. Both choices are singleton. No Alice recovery, completed defeat, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E017 delta — delegated navigation and inward rescue assurance
+
+Chihiro directly takes Sensei navigation while Veritas maintains Mirror; Engineering's speaker and Sumire's help supply distinct student initiatives. Sensei has four singleton scene-1 choices and two scene-2 groups, the latter `choice:002` two-alternative. Inward `鏡` recognition, assent, confusion about the speaker, concern for exhausted Engineering and `必ずアリスを連れ戻してくる` are `心の声`, not a secure audible command/promise. Utaha's subsequent response can follow Momoi's spoken continuation pledge. The adult remains a participant in plural rescue, with no Alice recovery, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E018 delta — Rio's Sensei-variable attribution is not causal proof
+
+Sensei follows Chihiro's route, meets C&C at tower exterior, asks after Toki and replies about terrain, the weapon and next obstacle through seven singleton choices. `u:0041`/`0045`/`0059`/`0065`/`0097` are `心の声` and cannot become an audible field script. Akane's narrated debrief is the source for Sensei's C&C-fight understanding. Rio asks if Sensei's involvement is the variable that broke her calculations, but Sumire, Veritas/Chihiro, Engineering, C&C and Momoi have all visibly contributed. Her hypothesis does not promote sole-adult authorship. No tower entry, Alice rescue, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E019 delta — explicit roof choice, incomplete protection
+
+Rio calls Sensei the “only variable” and targets their command ability. Sensei's `choice:003` audibly directs movement to the roof and `choice:004` corrects Rio's narrow-space inference; Nel explicitly trusts the move. Akane's land-only clue and Chihiro's warning/cue contribute, while `u:0019`/`0030` and later concern for Nel are `心の声` even where someone appears to answer. The rooftop/air tactic fails to disable Abi-Eshuh and Nel is hurt. Chihiro/Momoi enable escape from Toki's attempted recovery. Six choice groups are singleton; no adult omniscience, sole rescue, medical clearance, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E020 delta — care and collective problem-solving without cure
+
+Sensei inwardly checks the party, explicitly worries about Nel through singleton choices and says the other C&C members are near their limit. No clinical decision, treatment or safe combat clearance follows. Nel wakes and insists on continued rescue despite grave limitations; Sensei's concern does not remove her agency or settle whether renewed combat is proportionate. The tactical opening comes from Yuzu's observed hit, Chihiro's cautious dual-task hypothesis, Karin's objection and shared discussion; `choice:009` is a conjectural formulation. Nine singleton choices and `u:0002` inward speech remain distinct. No adult sole-savior success, Alice contact, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E021 delta — Akane rejects adult sole-authorship
+
+Sensei's `choice:001` accepts the team's decision after Nel offers C&C a choice and Chihiro confirms assent; `u:0001`/`0053`/`0062`/`0105` are inward, not an audible master plan. Rio imagines the assault is Sensei's, authorizes main cannon partly from a private hunch, and then condemns the adult for making an injured student fight. Akane explicitly says Sensei did not give that command. Yuzu/Momoi, Chihiro and C&C supply the actual proposal, implementation and risk-bearing. This defeats sole-savior/sole-blame attribution while leaving an adult responsibility question: team consent and local success do not establish Nel's medical safety or settle whether the risk was proportionate. Three choices are singleton; no Alice rescue, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E022 delta — binary challenge under active system danger
+
+Sensei thanks immobile Nel, joins the top-floor party and asks Rio/Alice-status questions. The inward `u:0037-0038` faults Rio for judging without consultation and forcing her conclusion; E001 Rio–Himari dissent means “consulted nobody” is not literally true, though Alice/club exclusion and coercion are. Key's activation, broken communications and Rio's resource regret make danger concrete without validating total world-end certainty. Rio (under anomalous `AMAS A` labels) proposes dying to stop Eridu alone. Sensei's inward trolley analysis and all-save desire cannot be reconstructed as a complete audible speech, but secure `choice:010-011` ask whether the lever-puller overlooked helpers. Yuuka/Noa immediately begin a power-cut alternative; success, safety and Alice's own choice remain unseen. Eleven choice groups include one two-option branch; no omniscient solution, standalone model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E023 delta — local aid validates a question, not an all-save prediction
+
+Key reports resource failure/system shutdown after Yuuka/Noa's independent decision. Engineering and Eimi/C&C supply additional barriers; Himari returns with a risky Alice-focused dive plan. This makes E022's secure “overlooked helpers?” questions locally productive and avoids Rio's immediate solo sacrifice, but does not validate the inward all-save wish as an achieved ending. Sensei praises Yuuka in `choice:001` and asks Himari what must be done in `choice:003`; the `u:0073` “let's go” is `心の声`, not a spoken command or consent from every would-be entrant. Yuzu explicitly volunteers; Rio warns of no-return risk. Four choices are singleton. No adult omniscience, safe dive, Alice restoration, standalone model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E024 delta — supporting Alice's own answer
+
+The dive yields Alice's mental-space response and grave guilt/self-erasure wish under Key's selected injury footage. Momoi, Midori and Yuzu lead with concrete shared evidence and friendship, not a technical guarantee; Alice herself states that she wants to be Alice and a hero. Sensei's secure `choice:003` completes the no-abandonment thought, and `choice:004-005` affirm possibility/children rhetorically. Numerous adjacent Sensei lines are `心の声`, not an audible adult monologue; `u:0090` privately wishes to hear Alice's feelings. Ethical support means making room for her own decision while retaining care for real injuries and danger. Rio's surprise and the club's wake-up question prevent an all-save or medical-success claim. Five singleton choices; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E025 delta — participating in an unfinished peace
+
+Sensei thanks Himari for taking responsibility, attends Nel's discharge celebration by invitation, and joins the club's new-game study/play after Alice asks them beside her. Scene-2 `choice:001` has two alternatives that reconverge on Nel's embarrassment, not two cumulative comments; `choice:005` tries a reconciliation proverb without proving Nel forgives Toki or her injury disappears. `u:0070` is inward. The narrator credits “everyone” for averting the immediate crisis, while Himari says underlying work remains and Rio leaves accountability incomplete. Thus Sensei's ethical role is participant/supporter amid distributed student and institutional labor, not sole victor, adjudicator or guarantor of future safety. Thirteen choice groups total, one two-option branch; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## MAIN V002 C002 checkpoint reconciliation — agency with ongoing duty
+
+The [C002 checkpoint ``3, 7](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) retains E022's overlooked-helper question as locally productive, E024's Alice-led identity decision as ethically central, and E025's “everyone” resolution as distributed. The serious hazard, Momoi/Nel injuries and remaining Eridu work prevent a simplistic choice-versus-safety binary. Sensei's `心の声` never becomes audible rescue authorship or an all-safe promise. No prospective model was frozen (`NO_DIAGNOSTIC_OPPORTUNITY`).

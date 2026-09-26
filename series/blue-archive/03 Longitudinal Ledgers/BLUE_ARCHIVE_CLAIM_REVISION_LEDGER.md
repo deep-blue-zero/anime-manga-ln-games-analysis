@@ -4,14 +4,14 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:001:001:020
-checkpoint_boundary: MAIN_V001_C001 complete
-current_sequential_boundary: MAIN_V001_C001 complete through canonical Chapter 1 checkpoint; Chapter 2 E001 next
+source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
+current_sequential_boundary: MAIN_V002_C002 checkpoint canonical; V003 C001 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -726,3 +726,830 @@ Canonical checkpoint authority: `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`.
 | BA-C018 | **STRENGTHEN** | Shiba Seki confirms hospitality/contact space as scoped conflict infrastructure |
 
 No `BA-C019` is opened. Full formulations, counterreadings, evidence routes, and forward-status distinctions are governed by the checkpoint document.
+
+## C002 E001 claim transitions
+
+| Claim | E001 transition | Reason at this boundary |
+|---|---|---|
+| BA-C001 | **STRENGTHEN** | Ako's physically protective rationale becomes illegitimate when it removes Sensei's agency; Hina models adult-like oversight through questioning and accountability rather than possession. |
+| BA-C002 | **STRENGTHEN** | Ayane's explicit request for Sensei to command a student-chosen coalition further grounds legitimacy in enacted, delegated relation. |
+| BA-C003 | **STRENGTHEN** | Schale is both a coveted strategic object and, under local invitation, an autonomy amplifier. |
+| BA-C004 | **STRENGTHEN** | deployment scale, Ako's risk model, and coalition command request corroborate command/coordination and institutional leverage, not personal-force supremacy. |
+| BA-C005 | **PRESERVE REJECTED** | Sensei is vulnerable to custody and dependent on student defense; no omnipotent-avatar evidence appears. |
+| BA-C006 | **PRESERVE REJECTED / STRENGTHEN CONTRADICTION** | students diagnose motives, decide policy, devise tactics, and rescue one another. |
+| BA-C007 | **STRENGTHEN** | `protection` is explicitly tested against consent, exit, and accountability. |
+| BA-C008 | **STRENGTHEN** | four choices vary judgment/persona but do not seize route or coalition authorship. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no sufficient new recurrence to restore broader arc-wide wording. |
+| BA-C010 | **STRENGTHEN** | entrusted command is contrasted directly with possessive custody. |
+| BA-C011 | **STRENGTHEN** | adult capability and student competence remain mutually reinforcing rather than substitutive. |
+| BA-C012 | **PRESERVE** | no Kaiser-network evidence. |
+| BA-C013 | **PRESERVE** | no new Kaiser Loan / Helmet Gang evidence. |
+| BA-C014 | **STRENGTHEN** | formal coercive capacity and strategic information do not self-authorize extraterritorial seizure. |
+| BA-C015 | **PRESERVE** | no direct Abydos-survival-method revision beyond the inherited autonomy principle. |
+| BA-C016 | **STRENGTHEN** | recipient control, local jurisdiction, proportionality, and internal authorization all become live legitimacy variables. |
+| BA-C017 | **STRENGTHEN** | meaningful agency now includes refusing custody, authorizing deployment, correcting inference, and choosing delegated command. |
+| BA-C018 | **PRESERVE** | Shiba Seki remains the destroyed contact zone; no new local institutional evidence changes the checkpoint claim. |
+
+No `BA-C019` is opened. E001's strongest evidence revises the existing agency-preserving-power architecture rather than requiring a new claim family.
+
+### C002 E001 epistemic firewall
+
+- **Abydos/PS68 know:** Ako wants Sensei secured under Prefect Team protection; the operation uses disproportionate force; the coalition chose to resist.
+- **Kayoko infers:** Schale is the true objective. Ako confirms this is partly correct but denies having staged the exact clash.
+- **Hina establishes:** Ako's independent cross-district deployment was not transparently authorized at chair level. Exact earlier order allocation remains unresolved because of source speaker anomalies.
+- **Audience/project preserve as OPEN:** treaty terms, Tea Party action, exact contents of Chinatsu's report, and any causal relationship between Hoshino's absence and Black Suit.
+
+## C002 E002 claim transitions
+
+| Claim | E002 transition | Reason at this boundary |
+|---|---|---|
+| BA-C001 | **STRENGTHEN** | Hina uses exceptional power to limit mandate, discipline overreach, apologize, and warn rather than possess. |
+| BA-C002 | **STRENGTHEN** | Sensei receives cross-school intelligence and commits to returning it to Abydos deliberation. |
+| BA-C003 | **STRENGTHEN** | Schale operates as an information bridge without replacing local governance. |
+| BA-C004 | **PRESERVE** | no new evidence changes the command/coordination + leverage + vulnerability model. |
+| BA-C005 | **PRESERVE REJECTED** | Hina and Abydos, not an omnipotent avatar, own the settlement. |
+| BA-C006 | **PRESERVE REJECTED** | Ayane manages escalation and collective reconstruction. |
+| BA-C007 | **STRENGTHEN** | apology and warning link restraint/service to accountability and recipient agency. |
+| BA-C008 | **STRENGTHEN** | paired choices vary epistemic persona/attention; structural receipt and disclosure converge. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no Arona/Shittim recurrence. |
+| BA-C010 | **STRENGTHEN** | Hina relinquishes force and Sensei returns privileged information to the group. |
+| BA-C011 | **STRENGTHEN** | student authority, committee competence, and adult connective usefulness coexist. |
+| BA-C012 | **PRESERVE / PRESSURE-TEST** | Kaiser Corporation's desert plot adds strategic pressure without proving a unified Kaiser hierarchy. |
+| BA-C013 | **PRESERVE** | no new Loan→Helmet Gang transaction evidence. |
+| BA-C014 | **STRENGTHEN** | Kaiser Corporation is independently reported to be pursuing an undisclosed desert project. |
+| BA-C015 | **PRESERVE** | acting on the warning has not yet tested Abydos's method identity. |
+| BA-C016 | **STRENGTHEN** | apology, non-incursion promise, withdrawal, and warning preserve recipient/local control. |
+| BA-C017 | **STRENGTHEN** | correction, nonrecurrence, information receipt, and group disclosure broaden agency's operational forms. |
+| BA-C018 | **PRESERVE** | no new Shiba Seki evidence. |
+
+No `BA-C019` is opened.
+
+### C002 E002 epistemic firewall
+
+- **Abydos sees:** Hina disciplines Ako, withdraws, apologizes, and promises no repeat unauthorized intrusion; Hoshino returns claiming sleep.
+- **Sensei additionally learns:** Hina reports that Kaiser Corporation is plotting something in the abandoned Abydos desert and says Pandemonium Society and the Tea Party do not yet know.
+- **Group disclosure:** Sensei promises Shiroko to tell everyone later; E002 does not yet stage that report.
+- **Audience/project preserve as OPEN:** Hoshino's absence cause, `あの事件`, Hina's incomplete Schale inference, Kaiser objective, and all cross-Kaiser hierarchy claims.
+
+## C002 E003 claim transitions
+
+| Claim | E003 transition | Reason |
+|---|---|---|
+| BA-C001–C003 | **STRENGTHEN** | responsibility, cross-conflict legitimacy, and Schale's connective role operate through free departure, repair, and student-led verification. |
+| BA-C004 | **PRESERVE** | no new capacity evidence. |
+| BA-C005–C006 | **PRESERVE REJECTED** | Sensei cannot name the owner; Ayane and Serika initiate verification. |
+| BA-C007–C008 | **STRENGTHEN** | repair preserves others' choices, while mutually exclusive Kaiser guesses remain inference rather than fact. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no Arona/Shittim recurrence. |
+| BA-C010–C011 | **STRENGTHEN** | Sensei does not possess PS68 or the investigation; adult aid coexists with uncertainty and student initiative. |
+| BA-C012 | **STRENGTHEN / REVISE** | debt coercion now includes property transfer and eviction; exact hierarchy remains unproved. |
+| BA-C013–C014 | **STRENGTHEN** | the debt system has durable land/building effects and extra-school material control. |
+| BA-C015 | **STRENGTHEN** | Abydos survival now includes control of the physical ground of community life. |
+| BA-C016–C017 | **STRENGTHEN** | repair, free departure, and verification preserve recipient agency; responsibility can begin before full truth. |
+| BA-C018 | **STRENGTHEN sharply** | remembered hospitality, repair money, and promised return survive destruction of the site. |
+
+No `BA-C019` is opened. Property dispossession revises BA-C012–C015 rather than requiring a separate claim family.
+
+### C002 E003 epistemic firewall
+
+- **PS68 knows/does:** it failed the contract, faces client risk, leaves all remaining bag money for repair, and departs with possible return.
+- **Abydos/Sensei learn:** prior debt default transferred land/building ownership and Shiba Seki had an eviction notice.
+- **Not established:** whether Kaiser Loan or Kaiser Corporation is the title holder; the witness cannot confirm the selected guess.
+- **Still pending:** Sensei has not yet delivered Hina's desert warning to the full committee; cross-Kaiser hierarchy and Hoshino history remain OPEN.
+
+## C002 E004 claim transitions
+
+| Claim cluster | E004 transition | Reason |
+|---|---|---|
+| BA-C001–C003 | **STRENGTHEN / COMPLICATE** | solidarity requires governable information but also respects personal limits; Schale remains supportive rather than substitutive. |
+| BA-C004 | **PRESERVE** | no new capability evidence. |
+| BA-C005–C006 | **PRESERVE REJECTED** | students produce decisive cadastral evidence and manage conflict Sensei cannot solve. |
+| BA-C007–C008 | **STRENGTHEN / COMPLICATE** | restraint includes declining coerced disclosure; choices author care/presence rather than route control. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no Arona/Shittim recurrence. |
+| BA-C010–C011 | **STRENGTHEN** | Sensei stays without claiming secrets or solutions; student competence remains causal. |
+| BA-C012 | **STRENGTHEN / REVISE** | Kaiser Construction becomes a distinct verified actor; unified hierarchy remains OPEN. |
+| BA-C013–C014 | **STRENGTHEN sharply** | debt-linked capture is documentarily registered across most of the district. |
+| BA-C015 | **STRENGTHEN** | Abydos method/survival now confronts material nonownership of its territory. |
+| BA-C016–C017 | **STRENGTHEN / COMPLICATE** | agency includes access to governing facts and limits on personal disclosure. |
+| BA-C018 | **PRESERVE** | no new hospitality-state change. |
+
+No `BA-C019` is opened.
+
+### C002 E004 epistemic firewall
+
+- **Committee now knows:** the cadastral register names Kaiser Construction as owner of most of the Abydos district.
+- **Committee does not know:** how the transactions were structured, how Kaiser Construction relates to other Kaiser entities, or the desert project's object.
+- **Shiroko believes:** Hoshino's sleep account is false; her basis is not disclosed.
+- **Still OPEN:** Hoshino/Black Suit causation, Hina's historical incident, and Sensei's pending full-group delivery of Hina's warning.
+
+## C002 E005 claim transitions
+
+| Claim cluster | E005 transition | Reason |
+|---|---|---|
+| BA-C001–C003 | **STRENGTHEN / COMPLICATE** | Sensei returns intelligence and redirects blame without owning action; withdrawal-form secrecy opens an accountability test. |
+| BA-C004 | **PRESERVE** | no new capability evidence. |
+| BA-C005–C006 | **PRESERVE REJECTED** | Serika initiates investigation and students synthesize evidence; Sensei remains bounded. |
+| BA-C007–C008 | **STRENGTHEN / COMPLICATE** | choices enact moral framing and provisional confidentiality, not route sovereignty. |
+| BA-C009 | **PRESERVE DOWNGRADED** | no Arona/Shittim recurrence. |
+| BA-C010–C011 | **STRENGTHEN** | intelligence returns to the group and student initiative is preserved. |
+| BA-C012 | **STRENGTHEN / REVISE** | differentiated Kaiser actors form a strong coordinated-capture hypothesis, not yet one proven hierarchy. |
+| BA-C013–C014 | **STRENGTHEN sharply** | lending, subsidy, title, and remaining-land pressure converge on territorial capture. |
+| BA-C015 | **STRENGTHEN** | the final school land becomes the object around which survival/method will be tested. |
+| BA-C016 | **STRENGTHEN / REVISE** | formal asset authority may be captured by engineered desperation; meaningful control requires viable alternatives. |
+| BA-C017 | **STRENGTHEN / COMPLICATE** | verification protects agency, but bag search and provisional secrecy expose its costs. |
+| BA-C018 | **PRESERVE** | no new contact-zone change. |
+
+No `BA-C019` is opened.
+
+### C002 E005 epistemic firewall
+
+- **Committee now knows:** Hina's Kaiser-desert warning, the cadastral pattern, former-council transaction authority, and Hoshino's final-council history.
+- **Committee strongly infers:** a debt-to-land trap and proxy pressure on the last parcel; original design and cross-company command remain unproved.
+- **Sensei/Shiroko only:** Hoshino has a withdrawal form; Shiroko found it by searching her bag. Submission, intent, timing, and cause remain OPEN.
+
+## C002 E006 claim transitions
+
+- **BA-C001–C003: STRENGTHEN** — students self-correct, preserve one another's reasoned agency, and conduct the field operation without adult substitution.
+- **BA-C004–C005: PRESERVE** — no new Sensei capacity; omnipotent-avatar rejection remains.
+- **BA-C006: STRENGTHEN rejection** — the epistemic/logistical transaction is student-authored.
+- **BA-C007–C008: PRESERVE** — no new choice evidence.
+- **BA-C010–C011: STRENGTHEN lightly** — noncentral adult presence coexists with student competence.
+- **BA-C012–C015: PRESERVE / PRESSURE-TEST** — property knowledge reframes earlier wording but adds no project fact.
+- **BA-C016: STRENGTHEN / REVISE** — title/information advantage cannot alone legitimate coercion against a resident institution.
+- **BA-C017: STRENGTHEN sharply** — Ayane revises a premise while Shiroko preserves the justified core of the prior decision.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E007 claim transitions
+
+- **BA-C001–C011: PRESERVE**, with BA-C006 rejection lightly strengthened by student-authored navigation/history/risk control.
+- **BA-C012–C014: PRESERVE** — no new Kaiser relation or project fact.
+- **BA-C015: STRENGTHEN** — Abydos survival includes cultural geography and inherited civic memory.
+- **BA-C016–C017: STRENGTHEN lightly** — meaningful governance requires territorial self-knowledge; Ayane keeps warning separate from proof.
+- **BA-C018: STRENGTHEN lightly** — the sand festival is historical cross-school contact infrastructure.
+- No `BA-C019` is opened; all withdrawal/Kaiser firewalls remain.
+
+## C002 E008 claim transitions
+
+- **BA-C001–C011: mostly PRESERVE**; BA-C006 rejection strengthens lightly through student detection/classification/defense.
+- **BA-C012: STRENGTHEN / PRESSURE-TEST** — a PMC-role force and large installation appear, but affiliation/hierarchy remain OPEN.
+- **BA-C013: PRESERVE** — no new transaction.
+- **BA-C014: STRENGTHEN sharply** — extra-school territorial, construction, and armed-security capacity is directly visible.
+- **BA-C015: STRENGTHEN** — Abydos faces physical enclosure/exclusion on lost land.
+- **BA-C016–C017: STRENGTHEN lightly** — title does not settle attack legitimacy; observation remains graded.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E009 claim transitions
+
+- **BA-C001–C003: STRENGTHEN lightly** — student withdrawal judgment delegates bounded command.
+- **BA-C004: STRENGTHEN** — Sensei is explicitly requested for tactical direction under combined-arms encirclement; no personal-force evidence.
+- **BA-C005–C006: rejection strengthened** — students author every substantive assessment.
+- **BA-C007–C011: PRESERVE / STRENGTHEN lightly** — situational delegation remains additive; no choices.
+- **BA-C012: STRENGTHEN / REVISE** — PMC↔Corporation affiliation is established; other network edges remain OPEN.
+- **BA-C013: PRESERVE**.
+- **BA-C014: STRENGTHEN sharply** — corporate power includes professional combined arms and territorial security.
+- **BA-C015–C017: STRENGTHEN lightly** — local actors retain judgment under organized private force.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E010 claim transitions
+
+- **BA-C001–C003: PRESSURE-TEST / PRESERVE** — partnership is contained by corporate scale and hidden information.
+- **BA-C004: REVISE / STRENGTHEN limits** — requested coordination does not guarantee escape; comms/infrastructure constrain Sensei.
+- **BA-C005–C006: PRESERVE REJECTED** — neither omnipotent adult nor incapable students explains the position.
+- **BA-C007–C011: PRESERVE / COMPLICATE** — secrecy and coercive negotiation intensify the agency test.
+- **BA-C012: STRENGTHEN sharply / REVISE** — Corporation/PMC/creditor/proxy relations are directly connected; Gematria knowledge is established without affiliation collapse.
+- **BA-C013: STRENGTHEN sharply** — the Corporation creditor admits hiring both proxy forces.
+- **BA-C014: STRENGTHEN sharply** — debt, property, military capacity, and negotiation operate as integrated coercion.
+- **BA-C015–C017: STRENGTHEN / PRESSURE-TEST** — methods face nonvoluntary negotiation and hidden leader leverage.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened pending fuller Gematria evidence.
+
+## C002 E011 claim transitions
+
+- **BA-C001–C003: PRESSURE-TEST** — agency-preserving support faces an opponent manufacturing the choice field.
+- **BA-C004: STRENGTHEN / LIMIT** — Schale is a recognized force multiplier but cannot defeat integrated financial/military control alone.
+- **BA-C005–C006: PRESERVE REJECTED** — adult non-omnipotence and student competence coexist with structural defeat.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE** — institutional exit is offered without meaningful freedom; Hoshino refuses futile dialogue.
+- **BA-C012: STRENGTHEN sharply / REVISE** — one director unifies Corporation, Loan, Construction, and PMC roles; Gematria remains outside the proved role chain.
+- **BA-C013–C014: STRENGTHEN sharply** — creditor manipulation, proxy hiring, title, and military force form integrated coercion.
+- **BA-C015: STRENGTHEN sharply** — survival is tested by an offer to abandon the institution.
+- **BA-C016–C017: STRENGTHEN sharply** — formal choice is dominated when the stronger actor engineers alternatives; students retain refusal speech.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+## C002 E012 claim transitions
+
+- **BA-C001–C003: STRENGTHEN / COMPLICATE** — adult care confronts secrecy and promises action, but uses compromised evidence and cannot prevent disappearance.
+- **BA-C004: STRENGTHEN limits** — adult responsibility is explicit while efficacy remains bounded.
+- **BA-C005–C006: PRESERVE REJECTED** — student method judgment and adult non-omnipotence coexist.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE sharply** — private accountability enables disclosure but constrains refusal; Hoshino retains action beyond Sensei's control.
+- **BA-C012: STRENGTHEN / REVISE** — repeated Black Suit recruitment, debt relief, and apparent director fear establish leverage without exact hierarchy.
+- **BA-C013–C014: STRENGTHEN** — finance, recruitment, and PMC-use inference converge; full organization remains OPEN.
+- **BA-C015: STRENGTHEN sharply** — collective survival is tested by criminal temptation and sacrificial exit.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE sharply** — meaningful choice requires viable alternatives, but information claims also require proportionate means.
+- **BA-C018: PRESERVE**. No `BA-C019` is opened.
+
+### C002 E012 epistemic firewall
+
+- **Established:** repeated two-year recruitment; Black Suit's latest debt-relief-for-exit/employment proposal; Hoshino's repeated refusal, momentary doubt, promised disclosure, and next-morning absence with form/letter left behind.
+- **Hoshino's interpretation:** Kaiser collects PMC-useful personnel.
+- **Observed but not formalized:** the Kaiser director appeared afraid of Black Suit.
+- **Not established:** signed acceptance, destination, letter contents, Black Suit's legal employer/title, Gematria membership, or exact hierarchy.
+
+## C002 E013 claim transitions
+
+- **BA-C001–C003: STRENGTHEN / COMPLICATE** — Hoshino explicitly trusts Sensei as adult support, while Ayane's peer coordination supplies the immediate correction to solo sacrifice.
+- **BA-C004: PRESERVE limits** — Sensei is entrusted/protected but cannot prevent signature, departure, or invasion.
+- **BA-C005–C006: PRESERVE REJECTED / STRENGTHEN rejection** — students independently identify contradiction and perform emergency governance.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE** — Hoshino's completed transaction removes community participation; Sensei's role remains supportive rather than substitutive.
+- **BA-C012: STRENGTHEN sharply / REVISE** — signature, PMC work, Black Suit's rights claim, and director-triggered absorption connect the architecture without validating law/hierarchy.
+- **BA-C013–C014: STRENGTHEN sharply** — finance, personnel capture, force, civilian displacement, occupation, and absorption operate as one plan.
+- **BA-C015: STRENGTHEN sharply** — remaining members enact institutional survival after the director declares the school gone.
+- **BA-C016–C017: STRENGTHEN sharply / COMPLICATE** — one coerced signatory cannot legitimately transfer community control; self-sacrifice can itself remove others' agency.
+- **BA-C018: PRESSURE-TEST** — lived civilian community persists under forced displacement. No `BA-C019` is opened.
+
+### C002 E013 epistemic firewall
+
+- **Established:** signature, desert transport, Black Suit's rights/debt claim, the director's trigger theory, city attack, eviction, school invasion, and corporate-absorption intent.
+- **Hoshino's letter says:** the bargain is Kaiser PMC mercenary work for assumption of most debt.
+- **Not established:** contract validity, actual rights-transfer effect, Black Suit's exact office, or the legal force of school dissolution/absorption.
+- **Discrepancy preserved:** E012 `ほぼ半分` versus E013 `大半`.
+
+## C002 E014 claim transitions
+
+- **BA-C001–C004: STRENGTHEN** — Sensei joins a student-authored coalition; material aid preserves rather than replaces local action.
+- **BA-C005–C006: PRESERVE REJECTED / STRENGTHEN rejection** — PS68 and Abydos supply diagnosis, initiative, tactics, and alliance.
+- **BA-C007–C011: STRENGTHEN sharply** — relational legitimacy produces aid where formal systems do not; `協業` is additive rather than possessive.
+- **BA-C012: REVISE sharply** — Black Suit explicitly is not Kaiser; aligned cooperation, Hoshino targeting, and differentiated objectives replace affiliation ambiguity.
+- **BA-C013–C014: STRENGTHEN / REVISE** — Kaiser capture remains integrated, while Black Suit's parallel research project uses it without merging into it.
+- **BA-C015: STRENGTHEN / PRESSURE-TEST** — formal nonrecognition threatens survival but lived governance and coalition persist.
+- **BA-C016–C017: STRENGTHEN sharply** — external aid returns practical choice to Abydos without claiming it; Black Suit models total-rights domination.
+- **BA-C018: STRENGTHEN sharply** — ramen/hospitality and incomplete reconciliation mature into voluntary intervention. No `BA-C019` is opened.
+
+### C002 E014 epistemic firewall
+
+- **Established:** committee nonrecognition; Black Suit's non-Kaiser status; aligned cooperation; Hoshino research objective; PS68's independent tactical intervention.
+- **Strong inference:** Yume-senpai is the previously unnamed former president.
+- **Not established:** Black Suit's company/name/full Gematria structure, earlier adult deception, coalition victory, Hoshino rescue, or the legal conclusion the director draws from missing approval.
+
+## C002 E015 claim transitions
+
+- **BA-C001–C004: STRENGTHEN / COMPLICATE** — Sensei accepts personal protective duty and coalition role, but rescue remains incomplete and possessive wording requires scrutiny.
+- **BA-C005–C006: PRESERVE REJECTED** — tactical victory is distributed across student initiative and adult collaboration.
+- **BA-C007–C011: STRENGTHEN / PRESSURE-TEST** — care explicitly opposes capture; agency-preserving purpose must still answer Hoshino's signed act.
+- **BA-C012–C014: STRENGTHEN** — command disruption forces Kaiser retreat; Black Suit remains differentiated for direct negotiation.
+- **BA-C015: STRENGTHEN** — unofficial students continue defense and rescue planning.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE** — contractor realignment restores options; emergency status-bracketing and protective override require limits.
+- **BA-C018: STRENGTHEN** — repaired relations yield decisive aid. No `BA-C019` is opened before the direct encounter develops.
+
+### C002 E015 epistemic firewall
+
+- **Established:** PMC retreat, incomplete rescue, three singleton Sensei interventions, and first face-to-face Sensei/Black Suit contact.
+- **Not established:** Black Suit site's identity, invitation/access route, Hoshino proximity/condition, next proposal, or final battle outcome.
+
+## C002 E016 claim transitions
+
+- **BA-C001: STRENGTHEN decisively** — adult responsibility is explicitly chosen where responsible adults were absent.
+- **BA-C002–C003: STRENGTHEN sharply** — Sensei contests a captured choice and returns actionable information to coalition planning.
+- **BA-C004: STRENGTHEN / OPEN mechanism** — the adult card is recognized with alleged life/time cost; no activation/effect is shown.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is not powerless in every domain and is not sufficient alone; students identify coalition need.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE sharply** — advisor standing blocks coerced exit and aims at accountable return; veto/self-expenditure require limits.
+- **BA-C012: STRENGTHEN / REVISE** — Gematria is named/self-described; separate cooperation with Kaiser remains.
+- **BA-C013–C014: STRENGTHEN** — Gematria admits opportunistic exploitation and claims capacity over the Kaiser problem.
+- **BA-C015: STRENGTHEN** — formal withdrawal is challenged and the living committee plans restoration.
+- **BA-C016–C017: STRENGTHEN decisively** — legitimate aid refuses sacrificial substitution and returns to collective choice; rule form alone is insufficient.
+- **BA-C018: STRENGTHEN lightly** — `welcome home` makes restored belonging the rescue goal. No `BA-C019` is opened.
+
+### C002 E016 epistemic firewall
+
+- **Established:** Gematria name/self-description, repeated refusals, unsigned advisor status challenge, adult-card presentation, lab location, experiment statement, and coalition planning.
+- **Black Suit testimony only:** sandstorm natural causation, precise card cost, outsider ontology, former ruler-level power, Mimesis/fear mechanism.
+- **Not established:** card activation, `wolf god` identity, collapsed-premise cause, complete information returned to students, or Sensei's ally plan.
+
+## C002 E017 claim transitions
+
+- **BA-C001: PRESSURE-TEST sharply** — student-focused self-abasement coexists with a serious adult/student bodily and professional boundary problem.
+- **BA-C002–C004: STRENGTHEN sharply** — Sensei mobilizes plural capacities and returns intelligence while Ayane retains operational authorship.
+- **BA-C005–C006: PRESERVE REJECTED** — student intermediaries, leaders, logistics, and forces remain causal.
+- **BA-C007–C011: STRENGTHEN / COMPLICATE** — support is distributed/non-sovereign, but not every adult means is ethically sound.
+- **BA-C012–C014: PRESERVE / STRENGTHEN capacity contrast** — coalition answers Kaiser scale without changing actor separation.
+- **BA-C015: STRENGTHEN sharply** — Shiba Seki supplies a people/practice theory of institutional persistence; Abydos authors rescue.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE** — recipient control is preserved, while persona capture and boundary crossing expose agency risks within supportive relations.
+- **BA-C018: STRENGTHEN sharply** — hospitality, repair, gratitude, and return generate material coalition capacity. No `BA-C019` is opened.
+
+### C002 E017 epistemic firewall
+
+- **Established:** Iori interaction, Hina interdiction, Hifumi-mediated Nagisa support, stall reopening, PS68 continuation, and Ayane-authored launch.
+- **Not established:** exact Sensei/Hina request, later Trinity effect, all-support committee preapproval, precise four-versus-three Prefect formation, or rescue outcome.
+
+## C002 E018 claim transitions
+
+- **BA-C001–C004: STRENGTHEN** — Sensei-supplied location and externally mobilized support become student-integrated capacity.
+- **BA-C005–C006: PRESERVE REJECTED / STRENGTHEN rejection** — students identify support, command the breakthrough, and redistribute roles.
+- **BA-C007–C011: STRENGTHEN** — coalition aid opens passage without taking rescue authorship.
+- **BA-C012–C014: STRENGTHEN** — Gematria's lab demand and Kaiser total defense converge at the buried school while actors remain separate.
+- **BA-C015: STRENGTHEN** — the former center survives as contested memory/material site beneath occupation.
+- **BA-C016–C017: STRENGTHEN / COMPLICATE** — distributed roles interrupt Shiroko's solitary sacrifice; deniability and Aru's persona capture remain costs.
+- **BA-C018: STRENGTHEN sharply** — aid, gratitude, and future meal convert repaired contact into sustained reciprocity. No `BA-C019` is opened.
+
+### C002 E018 epistemic firewall
+
+- **Established:** L118 support, buried main-building site, Gematria lab request, director-provided Hoshino building, PS68 rearguard offer.
+- **Not established:** experiment commencement, past-school superlatives, attribution of mismatched PS68 lines, successful hold, breakthrough, or rescue.
+
+## C002 E019 claim transitions
+
+- **BA-C001–C004: STRENGTHEN** — requested adult direction and Schale logistics enable a student-executed rescue without shown adult-card activation.
+- **BA-C005–C006: PRESERVE REJECTED strongly** — students locate, fight, breach, welcome, and restore relation.
+- **BA-C007–C011: STRENGTHEN sharply** — protection culminates in Hoshino's reciprocal re-entry, not transfer of possession.
+- **BA-C012–C014: STRENGTHEN / LIMIT** — the director admits coercive intent, but institutional consequences/force disposition remain unresolved.
+- **BA-C015: STRENGTHEN sharply** — lived institution survives through joy, memory, collective rescue, and reciprocal belonging.
+- **BA-C016–C017: STRENGTHEN sharply** — coalition restores Hoshino's practical/relational agency; future accountability remains necessary.
+- **BA-C018: STRENGTHEN sharply** — cross-group relationships mature into the passage enabling return. No `BA-C019` is opened.
+
+### C002 E019 epistemic firewall
+
+- **Established:** director's morale-breaking admission, requested Sensei direction, Schale helicopter, successful bunker entry, living Hoshino, welcome/reply.
+- **Strong inference:** successful breakthrough past the director; unnamed senior as Yume/former president.
+- **Not established:** director/supporter disposition, experiment commencement/effects, senior identity, or debt/title/recognition resolution.
+- **Source defect:** reunion speaker metadata is flattened; use embedded names/sequence cautiously.
+
+## C002 E020 claim transitions
+
+- **BA-C001–C003: STRENGTHEN decisively** — adult certification restores self-government conditions without selecting the ruler; support remains requested.
+- **BA-C004: STRENGTHEN / LIMIT** — Schale has recognition/logistics/investigative capacity but cannot erase debt, recover land, or ensure federal enforcement.
+- **BA-C005–C006: PRESERVE REJECTED strongly** — a functioning student institution resumes governance and method correction.
+- **BA-C007–C011: STRENGTHEN sharply** — Hoshino's office refusal is honored; adult power enables rather than occupies governance.
+- **BA-C012: STRENGTHEN / REVISE** — responsibility fragments; Black Suit remains separate/obscured while the director's cross-entity history persists.
+- **BA-C013–C014: STRENGTHEN / LIMIT** — illegal finance/coerced interest are partly checked, while land ownership and public-capacity weakness remain.
+- **BA-C015: STRENGTHEN decisively** — survival is ordinary institutional recurrence under unresolved debt/dispossession.
+- **BA-C016–C017: STRENGTHEN decisively** — certification returns formal control and leaves leadership choice open.
+- **BA-C018: STRENGTHEN decisively** — repaired hospitality survives as a reopened institution. No `BA-C019` is opened before checkpoint.
+
+### C002 E020 epistemic firewall
+
+- **Established:** certification, council function, refused presidency, stall reopening, ¥900m principal, lower interest, majority Kaiser land, director firing/warrant, unresolved Black Suit.
+- **Ayane-qualified:** Trinity causation and effective federal investigation.
+- **Not established:** director arrest, full corporate exoneration/culpability, Black Suit contract status, land recovery, desert-project purpose, or PS68 final location.
+
+## MAIN V001 C002 checkpoint adjudication
+
+Canonical checkpoint authority is `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` §15.
+
+- **Decisively strengthened:** BA-C001, BA-C003, BA-C015, BA-C016, BA-C018.
+- **Sharply strengthened/revised:** BA-C004, BA-C012, BA-C013, BA-C017.
+- **Strengthened with active counterevidence:** BA-C007, BA-C010, BA-C011.
+- **Preserved rejected:** BA-C005, BA-C006.
+- **Preserved downgraded/watch:** BA-C009.
+- **No new claim:** `BA-C019` is not opened.
+
+Contextual backfill remains **DEFER**. The next crosswalk unit is Volume 2 and is outside current authorization.
+
+## V002 C001 E001 claim transitions — first Millennium unit
+
+- **BA-C001–C003, C007: STRENGTHEN lightly / limit** — another student-authored request reaches Schale and Sensei arrives, but no outcome or council adjudication exists.
+- **BA-C004–C006: PRESERVE** — Sensei's accidental injury and need for explanation fit bounded adult capacity; no new power or claim of student incapacity is established.
+- **BA-C008: STRENGTHEN** — choice variants affect disorientation, prior school familiarity, and clarification language without a demonstrated alternate destination.
+- **BA-C009: STRENGTHEN lightly after Chapter-2 downgrade** — Arona again humanizes request mediation; a single cross-academy recurrence does not yet restore full-series status.
+- **BA-C010–C018: PRESERVE / not tested** — V001's custody, Kaiser, autonomy, and contact-zone claims remain intact but are not imported as Millennium facts.
+
+No `BA-C019` is opened. Game-fiction framing of institutional survival is an introductory motif, not yet a demonstrated longitudinal rule. The `？？？` editor and closing voice remain unassigned. Contextual backfill remains **DEFER**.
+
+## V002 C001 E002 claim transitions — local authority and creative value
+
+- **BA-C001–C003, C007: REVISE / pressure-test** — Yuuka contests cross-school override; Momoi's request may recruit Sensei into an underexplained hazard. Response to a petition alone cannot certify the means or displace school governance.
+- **BA-C004–C006: PRESERVE** — no new Sensei governing power appears; Yuuka, Momoi, and Midori each exercise imperfect student judgment, not incapacity as a class.
+- **BA-C008: STRENGTHEN within authored choice-space** — six singleton choices enact social tone/clarification, not route control.
+- **BA-C009–C018: PRESERVE / mostly not tested** — the Millennium dispute is not evidence that Volume 1 conclusions generalize wholesale.
+
+No `BA-C019` is opened before repeated evidence distinguishes a Millennium-wide metric regime from Yuuka's single encounter. The price of creative work and the club's contest route remain open. Source-label anomalies and `G.Bible` ignorance are quarantined. Contextual backfill remains **DEFER**.
+
+## V002 C001 E003 claim transitions — risky search, bounded command
+
+- **BA-C001–C004, C007: STRENGTHEN / pressure-test** — a student-led search exposes all three to danger; Sensei supplies a tactical cue and is asked to command, while prior informed consent remains unshown.
+- **BA-C005–C006: PRESERVE REJECTED** — adult knowledge is incomplete and students reason differently about uncertain evidence/risk; neither omnipotence nor generic student incapacity explains the scene.
+- **BA-C008: STRENGTHEN** — the two first-choice variants converge on the same explanation, followed by singleton inquiry and refuge observation.
+- **BA-C009–C018: PRESERVE / not directly tested** — neither the robots nor the ruins should inherit Volume 1's organizational conclusions by analogy alone.
+
+No `BA-C019` is opened. Momoi's lost-coordinate/legend inference remains an actor hypothesis, Himari's `かもしれない` remains a hedge, and robot provenance remains unknown. Contextual backfill remains **DEFER**.
+## V002 C001 E004 claim transitions — classified access, dependent newcomer
+
+- **BA-C001–C004, C007: STRENGTHEN / pressure-test** — Sensei materially protects students after an unexplained gate decision, while the sisters' relation to a vulnerable newcomer tests whether help respects the helped person's agency.
+- **BA-C005–C006: PRESERVE REJECTED** — the adult does not know the factory or girl's identity, and the students make different care/instrumental judgments rather than exhibiting generic incapacity.
+- **BA-C008: STRENGTHEN** — two optional tone/questions groups converge; neither answer produces an origin, identity, or safety guarantee.
+- **BA-C009–C018: PRESERVE / not directly tested** — no warrant to assign Volume 1's institutional actors or ethical outcome to the unknown factory or proposed school-status maneuver.
+
+Do not open `BA-C019` on this single encounter. Classification-versus-belonging is a candidate motif, not a settled claim. `AL-1S`, `アリス`, and student status remain separate. Contextual backfill remains **DEFER**.
+
+## V002 C001 E005 claim transitions — benevolent motive, questionable means
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — care for Yuzu and Alice coexists with an explicit false-member/document plan; Alice's consent to play is not consent to identity registration.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is absent; student creators show ingenuity, poor design, criticism, support and emotional vulnerability, not simple competence or incapacity.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice group.
+- **BA-C009–C018: PRESERVE / no direct generalization** — Millennium club/prize/housing stakes require their own account.
+
+No new claim ID yet. Alice's game response and Yuzu's gratitude complicate a rank-only assessment without certifying product quality or the enrollment plan. Contextual backfill remains **DEFER**.
+
+## V002 C001 E006 claim transitions — social inclusion and procedural gap
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Alice anticipates games and affirms `仲間`, but a present card and claimed Veritas roster change carry an unresolved authorization/knowledge deficit. Help and belonging cannot erase means.
+- **BA-C005–C006: PRESERVE REJECTED** — student-led teaching, debate and risky credential work resist both adult omnipotence and a generic student-incapacity story.
+- **BA-C008: NO DIRECT TEST** — no Sensei action/choice.
+- **BA-C009–C018: PRESERVE / no direct global test** — do not flatten the Millennium card/club situation into Volume 1 institutions.
+
+No `BA-C019` yet; identity legibility versus chosen belonging is a recurring candidate but chapter outcome remains open. Contextual backfill remains **DEFER**.
+
+## V002 C001 E007 claim transitions — weapon choice and late qualification
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Alice's preference is honored after proving unusual strength, but unsafe indoor firing and an imposed-after-offer test reveal that enabling agency also requires risk, notice and accountability.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is absent; student engineers show skill, error, resource conflict and hypothesis-making, while Alice shows unusual ability without a complete self-account.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice/action.
+- **BA-C009–C018: PRESERVE / no direct global test** — the engineers' budget/eligibility problem is not automatically the Volume 1 debt/land pattern.
+
+No `BA-C019` yet. Utaha's nanomachine/combat-purpose account is an inference from body observations, not a source-verified biography. Contextual backfill remains **DEFER**.
+
+## V002 C001 E008 claim transitions — headcount meets a voluntariness criterion
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Yuuka's stated condition asks whether Alice joined of her own will, exposing the gap between the club's benevolent aim, a presented card, a fourth name, and an informed, free decision. No review result follows yet.
+- **BA-C005–C006: PRESERVE REJECTED** — no Sensei action appears; Momoi's overconfidence, Midori's caution, Alice's register slips and Yuuka's mixed procedural/adversarial stance resist a simple competence split.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice/action.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium's club membership review remains locally scoped.
+
+No `BA-C019` is opened. Yuuka reports a rule change, but no regulation is displayed; Alice's transfer/programming story is rehearsed, not verified. Actual questions, ruling, and club survival remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E009 claim transitions — recognition without unlimited security
+
+- **BA-C001–C004, C007: REVISE / pressure-test** — Yuuka distinguishes Alice's apparent genuine game interest from her suspicious identity script, grants formal club recognition and a bounded opportunity for results. That partial agency-sensitive judgment does not eliminate visible club pressure or the unverified roster provenance.
+- **BA-C005–C006: PRESERVE REJECTED** — no adult action; Yuuka, Alice, the sisters and Yuzu make differentiated, fallible decisions with mixed motives and constraints.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice or action.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium's two-part club criterion does not revise Abydos/Kaiser facts.
+
+No `BA-C019` is opened. Yuuka's regulation, meeting notice and month-end grace are her reports; actual recognition and the term limit are directly spoken. `G.Bible` remains a hoped-for solution, not a found or proven resource. Contextual backfill remains **DEFER**.
+
+## V002 C001 E010 claim transitions — requested trust under real danger
+
+- **BA-C001–C004, C007: STRENGTHEN / pressure-test** — Momoi gives an immediate protective warning, Alice asks Sensei to trust her, and Midori requests tactical command only after naming Sensei's vulnerability. The adult's affirmative participation has clearer local consent than the first trip, but does not certify full tactical information or safety.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is physically vulnerable; Yuzu, Alice, Midori and Momoi contribute differentiated actions rather than waiting for adult omnipotence.
+- **BA-C008: STRENGTHEN within authored choices** — `もちろん` and a fuller companion/contribution assent converge; duplicate reactions are branch-conditioned, not repeated events.
+- **BA-C009–C018: PRESERVE / no direct global test** — no evidence assigns robots/factory to Abydos, Kaiser or a known institutional maker.
+
+No `BA-C019` is opened. The tactical sound-attraction and coordinate-to-factory claims are unverified actor forecasts in a label-corrupt exchange; battle outcome and `G.Bible` location remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E011 claim transitions — a found file is not a usable revelation
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — students coordinate terminal retrieval and an attempted protective retreat, while Alice's identity remains unanswered and Momoi's save data is reported deleted without explicit consent to that cost. Helpful purpose and participant control diverge.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei supplies no omniscient explanation; Alice, Momoi, Midori and Yuzu contribute different search, caution, connection and escape actions.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice/action line.
+- **BA-C009–C018: PRESERVE / no direct global test** — `Divi:Sion`, robots and `G.Bible.exe` do not inherit Abydos/Kaiser provenance.
+
+No `BA-C019` is opened on terminal recognition or a filename alone. The terminal claims `G.Bible` inside and reports a completed transfer, but password-locked contents, origin, function and relation to Alice remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E012 claim transitions — protected place and contested means
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Midori says the clubroom is a shared place worth protecting and Momoi first refuses C&C danger for her companions, then joins a retrieve-and-escape coalition. Care, belonging, coercive risk and uncertain means coexist; the desired product does not prove an authorized or safe bypass.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is asked to introduce collaborators, while the students' technical, tactical and ethical choices remain differentiated. Yuuka/C&C represent a countervailing institutional duty, not one merged viewpoint.
+- **BA-C008: PRESSURE-TEST** — Sensei's two choice variants converge on helping ask Engineering Club, with no authored refusal or unilateral adult command.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium seizure and C&C security do not modify Abydos/Kaiser claims.
+
+No `BA-C019` is opened. Maki's original-file conclusion has specific metadata/IP reasons but does not reveal contents or prove the Mirror workaround. Yuuka attributes the tip to Himari, who does not speak here; the warning's motive and timing remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E013 claim transitions — local tactical success, unresolved legitimacy
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the coalition gains access by intentionally letting Alice be taken and turning compartment security against defenders, including Akane/Noah. Her precise consent/condition and trapped persons' safety remain unknown; rescue intent and technical success do not settle proportionality or lawful authority.
+- **BA-C005–C006: PRESERVE REJECTED** — Veritas, engineers, game club and council/C&C act with differentiated knowledge. Sensei's phase cue is delegated, and the group's reaction to a retreat variant shows student judgment can counter adult advice.
+- **BA-C008: PRESSURE-TEST** — choice variants are conditional and converge; a rejected retreat option is concrete evidence against unquestioning obedience, not proof that Sensei prefers either option universally.
+- **BA-C009–C018: PRESERVE / no direct global test** — Millennium security exploitation does not import Abydos/Kaiser mechanisms.
+
+No `BA-C019` is opened. A Trojan report, spoofed feed and differential lockout make the replacement trap strongly supported, but full technical path, every affected person, Mirror retrieval and anonymous call sign 02 remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E014 claim transitions — local success yields to adaptive defense
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — engineer coordination shields the moving club from sniper pressure, but Akane physically escapes the shutter and Asuna waits at the approach. The protective/retrieval goal remains active, with participant and Sensei risk unreconciled.
+- **BA-C005–C006: PRESERVE REJECTED** — no adult-wide solution appears. Karin, Utaha/Hibiki, Akane and Asuna exercise independent tactical judgments, each with uncertain results.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice or new secure command.
+- **BA-C009–C018: PRESERVE / no direct global test** — no evidence connects this Millennium conflict to Abydos/Kaiser systems.
+
+No `BA-C019` is opened. E013's trapped-Akane state is revised by her direct explosive escape, while the blackout's timing/mechanism, Karin's final condition, Mirror retrieval and Asuna battle remain OPEN. Do not resolve E013's anonymous `02` through proximity alone. Contextual backfill remains **DEFER**.
+
+## V002 C001 E015 claim transitions — agency after a failed cost model
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the capture-contingency counted on some students remaining free and a tolerable sanction. Yuuka's week-suspension/confinement threat and the party's deterioration expose overlooked costs, while Alice independently escapes and returns to companions instead of reducing them to instrument for Mirror. Rescue, sanction and goal remain unresolved.
+- **BA-C005–C006: PRESERVE REJECTED** — Alice acts on her own interpreted cue; Yuuka mobilizes institutional force; the adult can voice limited power in one choice. No omniscient center controls the operation.
+- **BA-C008: PRESSURE-TEST** — encouragement and self-blame variants trigger distinct responses but converge; Momoi's apology and Yuuka's prospective Schale complaint do not prove Sensei caused every tactic.
+- **BA-C009–C018: PRESERVE / no direct global test** — this Millennium sanction/security episode supplies no Abydos/Kaiser revision.
+
+No `BA-C019` is opened. Alice's escape/reunion is represented, but the unlabeled beam attribution is inferential, the rooftop debate has role-flipped labels, and Mirror, discipline, combat outcome and `G.Bible` remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E016 claim transitions — intermediate possession, continued exposure
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the coalition now holds Mirror, while Nel nearly discovers them and robots still block the Veritas route. Yuzu's false emergency protects companions but incurs an authority/truthfulness cost; neither goal possession nor a rescue motive settles the raid's legitimacy or proportionality.
+- **BA-C005–C006: PRESERVE REJECTED** — Alice identifies fear and chooses rearguard work, Yuzu redirects Nel, Nel responds from limited knowledge, and the twins coordinate continuation. No single all-knowing adult solves the event.
+- **BA-C008: LIMITED TEST / PRESERVE** — Sensei is asked for direction but the printed response is `先生（心の声）`. There is no secure audible order, new branch or demonstrated student obedience to score.
+- **BA-C009–C018: PRESERVE / no direct global test** — the Millennium seizure and diversion do not revise Abydos/Kaiser mechanisms.
+
+No `BA-C019` is opened. Mirror possession is now observed, but the all-Alice discovery cluster does not identify the finder, Yuzu's berserk-robot claim is cover, later Yuzu/Nel labels flip, and escape, bypass, sanction and `G.Bible` contents remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E017 claim transitions — access is not the hoped-for rescue
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the club has returned and the file is openable by Maki's report/Alice's launch, but the later reaction is despair. The expected creative and belonging rescue is not established; the actual proposition and institutional outcome remain withheld.
+- **BA-C005–C006: PRESERVE REJECTED** — Rio's withdrawal is reported, Nel speculates independently and orders further inquiry, Maki admits a `<Key>` decoding limit, and Alice/club members react differently. No unified all-knowing actor is supported.
+- **BA-C008: NO DIRECT TEST** — Midori invokes possible Sensei/Schale help as hope, not an adult promise or action. Do not promote it to a guaranteed fallback.
+- **BA-C009–C018: PRESERVE / no direct global test** — this Millennium file/club crisis gives no Abydos/Kaiser revision.
+
+No `BA-C019` is opened. Mirror return, file access and Nel's Rio report revise local open states; Rio/Himari reasons, `<Key>` identity, Bible contents, actual club standing, discipline and Alice's placement remain OPEN. Scene 3's `2時間前` prevents reading scene-2 despair as an already disclosed content summary. Contextual backfill remains **DEFER**.
+
+## V002 C001 E018 claim transitions — a maxim meets actual players
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the acquired file supplies a love-of-games maxim but no displayed shortcut. Alice's appreciative play and Yuzu's history prompt a fresh collective project; outcome, institutional permission and the raid's costs remain unadjudicated.
+- **BA-C005–C006: PRESERVE REJECTED** — the Bible's one-truth rhetoric does not collapse different evidence into one authority. Program claim, Midori's local integrity check, Alice's player testimony, Yuzu's reception history and Momoi's deadline choice have distinct provenance.
+- **BA-C008: NO DIRECT TEST** — Sensei is absent from the represented scene; E017's hoped-for Schale fallback remains unpromised.
+- **BA-C009–C018: PRESERVE / no direct global test** — no Abydos/Kaiser revision follows from this Millennium creative choice.
+
+No `BA-C019` is opened by the slogan or an announced sequel alone. `G.Bible` contents are now known locally as displayed maxim/error denial, but its causal sufficiency, full provenance, `<Key>`, club standing, sanctions and actual game outcome remain OPEN. Quarantine the all-Alice present exchange and Yuzu self-address labels for individual voice. Contextual backfill remains **DEFER**.
+
+## V002 C001 E019 claim transitions — product success and costly combat are separate
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the students register and publicly release `TSC2`, choosing actual audience exposure after the raid. Momoi protects Sensei/the room, while Alice's commenter-retaliation proposal is stopped and her floor shot inflicts reported self-harm and property damage. Care, agency and proportionality remain contested.
+- **BA-C005–C006: PRESERVE REJECTED** — Nel credits Sensei with student coordination, but the record still gives students product authorship, publication, refusal and combat choices. The web audience, C&C and council also possess different information.
+- **BA-C008: LIMITED TEST** — the calm/exit alternatives are branch-conditioned and converge; the later single carrying offer is bounded care, not guaranteed medical rescue or proof of plan authorship.
+- **BA-C009–C018: PRESERVE / no direct global test** — this Millennium release/fight does not revise Abydos/Kaiser claims.
+
+No `BA-C019` is opened. Registration and web upload are observed, but prize, official club standing, genuine post-play reception, damage repair, Alice's treatment, sanctions and Rio's true motive remain OPEN. Nel's no-pursuit decision is direct; teasing about her/Sensei does not establish romance. Contextual backfill remains **DEFER**.
+
+## V002 C001 E020 claim transitions — a recognized game earns a limited reprieve
+
+- **BA-C001–C004, C007: PRESSURE-TEST / NARROW** — student creative work receives a real special prize, and Yuuka's council grants temporary continuation. Neither effort alone nor an adult's private offer secured a permanent home; institutional interpretation and process matter. Judge `実用性` expands to remembered play and possible futures, not unrestricted abandonment of results.
+- **BA-C005–C006: PRESERVE REJECTED** — the club mistakes seven ranked misses for complete failure because its display is damaged; the judge, Yuuka and club do not share the same momentary knowledge. The final machine text is audience-facing, not known to them.
+- **BA-C008: LIMITED TEST** — Sensei internally offers Schale for Alice under apparent defeat, but the offer is not implemented or tested once Yuuka reports the prize/deferral.
+- **BA-C009–C018: PRESERVE / no direct global test** — no Abydos/Kaiser mechanism is revised by this contest result.
+
+No `BA-C019` is opened by E020 alone. Official special award, provisional council hold and Yuuka apology are observed; permanent charter, next-term standing, paperwork completion, damage liabilities and machine-stinger attribution remain OPEN. The chapter checkpoint must adjudicate whether the Millennium claim structure needs a new ID. Contextual backfill remains **DEFER** until the full Volume 2 arc boundary.
+
+## MAIN_V002_C001 canonical checkpoint claim reconciliation
+
+[The canonical V002 C001 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) re-adjudicates all eighteen inherited claims without importing C002. `BA-C001`/`BA-C002` narrow: adult care matters but student making and council/jury response are more causally decisive here than an Abydos-style adult rescue. `BA-C005`/`BA-C006` remain rejected. `BA-C007`, `BA-C010`/`BA-C011` and `BA-C015`–`BA-C017` are pressure-tested by voluntary membership, decoy use, danger, audience exposure and a temporary reprieve; no morally pure outcome is asserted. `BA-C008` remains branch-bounded, `BA-C009` stays Prologue-scoped, `BA-C012`–`BA-C014` and `BA-C018` remain Volume 1 scoped without direct global retest.
+
+**`BA-C019` — OPEN NEW, strong chapter-local formulation:** Creative value has plural, non-substitutable tests. Collective making, a player's situated experience, public response, jury recognition and secure institutional belonging affect one another but cannot be collapsed into one metric or guaranteed shortcut. E005/E018 give Alice/Yuzu's reception accounts; E019 supplies actual publication and mixed first comments; E020 supplies a judge's `特別賞` under expanded `実用性` and Yuuka's merely `臨時の猶予`. This is not a universal claim that creative love assures quality or that every special prize should waive rules. Forward test: later evidence may strengthen, narrow or reject the proposed distinction. Side-source backfill remains **DEFER** until the complete Pavane arc. No frozen prospective character prediction exists (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E001 claim transitions — covert test disclosed to audience
+
+- **BA-C001–C004, C007, C010–C011: PRESSURE-TEST** — Rio's secrecy, staged C&C crisis and detention attempt put her protective/rationalizing claims in tension with Alice's and Himari's agency. Himari also supplied Mirror and hacked security; neither speaker's self-interpretation settles legitimate means.
+- **BA-C005–C006: PRESERVE REJECTED** — no Sensei action occurs, and the covert planners did not author the club's game or every student decision.
+- **BA-C008–C009: NO DIRECT TEST** — no Sensei choice or Shittim relational-system scene occurs; Alice-classification language is separately bounded.
+- **BA-C012–C014, C018: PRESERVE / NO DIRECT TEST** — no Kaiser/restaurant evidence. **BA-C015–C017: LIMITED MILLENNIUM TEST** — crisis design and proposed containment sharpen recipient-agency/proportionality questions but do not rewrite Abydos history.
+- **BA-C019: REVISE / COMPLICATE** — the chapter's creative-value and institutional-belonging distinction survives, but a separate hidden safety/origin classification threatens the room's apparent security. This unit does not validate either “weapon” or “junior” as complete ontology.
+
+No new claim ID yet. Rio/Himari's former co-planning is direct participant testimony; their classification terms, Rio's world-ending reading and Himari's fifth-C&C guess remain bounded. Club/Sensei knowledge is unchanged. Contextual backfill **DEFER**; no frozen prospective character prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E002 claim transitions — competence with a social inhibitor
+
+- **BA-C001–C004, C007, C010–C011: LOCAL PRESSURE-TEST** — Yuzu's competence and restraint coexist: she wins by tactical analysis but says overusing the loop against friends spoils play. This local game ethic cannot settle Rio/Himari's covert-authority conflict.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei participates and wins a Momoi match; Yuzu, not Sensei, handles the apparent cheater, and no next game is authored by the teacher.
+- **BA-C008: BRANCH-BOUNDED** — twenty-one Sensei choice groups, two with alternate tones, do not yield a single cumulative dialogue or fixed voice.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Shiba Seki or Abydos mechanism is revised by a club game session.
+- **BA-C019: LOCAL EXTENSION** — the next-prize concept remains unbuilt/unawarded, while Yuzu's fairness rule shows that player experience includes social sustainability beyond a win counter. It does not prove creative quality or permanent institutional standing.
+
+No new claim ID, side-source backfill or frozen prospective character prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The Rio/Himari and fifth-C&C frontier remains audience-only/open. Contextual backfill **DEFER**.
+
+## V002 C002 E003 claim transitions — production tension and reciprocal guidance
+
+- **BA-C001–C004, C007, C010–C011: LOCAL TEST** — the twins' ambition/feasibility clash exposes labor and consent costs; Yuzu relieves Sensei of a forced verdict, though the club's winner-decides rule is itself unvalidated.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei does not invent the core game design or decide the conflict. Their prompt restates Alice's own `前進` principle, credited back to her.
+- **BA-C008: BOUNDED** — eighteen choice groups include only one two-option branch, and three internal thoughts are not spoken directives.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki evidence.
+- **BA-C019: PRESSURE-TEST** — artistic spectacle, used labor, feasible implementation, Alice's player delight and hoped-for sales are non-identical tests. Level-one play is a learning/balance adjustment, not a product-quality verdict.
+
+No new claim ID, model, frozen prediction or side-source admission. Rio/Himari remains unshared with the club; contextual backfill **DEFER**.
+
+## V002 C002 E004 claim transitions — encounters without knowledge collapse
+
+- **BA-C001–C004, C007, C010–C011: LOCAL TEST** — Alice and Sumire cooperate through partly different effort metaphors; Karin states an attention boundary and Asuna's confidential-task disclosure shows means/information-control tension. No institution-wide verdict.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei accompanies and apologizes; Alice determines movement/retreat and C&C report their own task.
+- **BA-C008: CHOICE-BOUNDED** — twenty-three choices, two alternative groups and six private thoughts must not become one speech stream.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim, Kaiser, Abydos or Shiba Seki mechanism is revised.
+- **BA-C019: LIMITED LOCAL TEST** — chance encounters may supply creative experience but no new game idea/product is evidenced. An imagined future party is not durable belonging or institutional change.
+
+No new claim ID, model, prediction or side-source admission; E001 and E003 unresolved fronts persist. Contextual backfill **DEFER**.
+
+## V002 C002 E005 claim transitions — welcome, tactic transfer and a failed quest
+
+- **BA-C001–C004, C007, C010–C011: LOCAL TEST** — Alice is welcomed across peers/engineers and recasts Nel as an ally, while tactic use and repeated-play pressure impose social costs. Akane enforces a stated agreement. No pure-harm or pure-reconciliation verdict.
+- **BA-C005–C006: PRESERVE REJECTED** — the day is authored by many student encounters and Alice's choices, not a single adult rescue. Sensei agrees to accompany her again, not a completed game idea.
+- **BA-C008: CHOICE/THOUGHT BOUNDED** — two alternate choice groups and inward appraisals cannot be combined as audible response evidence.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki mechanism is revised.
+- **BA-C019: NARROW / NEGATIVE TEST** — public affection and a valued day do not deliver the requested creative idea. Alice explicitly says Yuzu's task made no progress, limiting any easy “social inspiration guarantees product” reading.
+
+No new claim ID, side-source admission, model or frozen prediction. E001 covert threat, E003 contest result and Akane's mission contents remain open; contextual backfill **DEFER**.
+
+## V002 C002 E006 claim transitions — threat pressure before causal proof
+
+- **BA-C001–C004, C007, C010–C011: HIGH PRESSURE / NO ADJUDICATION** — unidentified machines move as Alice's speech changes, raising agency and protection questions. Trigger, voluntary control and consequence remain unknown.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei explicitly cannot identify the find; Veritas's technical limits and club reactions remain their own.
+- **BA-C008: NO PERSONALITY TEST** — ten singleton choices and several private thoughts do not classify the AL-1S state.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki mechanism is revised.
+- **BA-C019: COMPLICATE** — creative belonging and provisional room security coexist with an unclassified Alice/device risk; neither creative value nor Rio/Himari's hypotheses can substitute for a causal safety account.
+
+No new claim ID, side-source backfill, model or frozen prediction. Alice's recognition, the printed label, protocol, machine origin and outcome remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E007 claim transitions — local attack without complete attribution
+
+- **BA-C001–C004, C007, C010–C011: ACUTE PRESSURE** — protocol-state attack/reload, Maki's interference and C&C containment elevate protection/agency questions. Immediate danger is shown, but consent/control and Rio's world-ending scale are not.
+- **BA-C005–C006: PRESERVE REJECTED** — student action stops the immediate event; Sensei's contribution is attention, thanks and safety check, not sole tactical authorship.
+- **BA-C008: NO PERSONALITY ADJUDICATION** — five singleton choices and private thoughts cannot classify Alice's protocol state or the future response.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki revision.
+- **BA-C019: PRESSURE-TEST** — the saved room is materially damaged and Alice's place imperiled; creative/social/institutional belonging is real yet not a substitute for device safety.
+
+No new claim ID, model, prediction or side-source admission. Momoi condition, Alice state, offsite robots and E001 actors' links stay OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E008 claim transitions — injury known, agency and “truth” not
+
+- **BA-C001–C004, C007, C010–C011: PRESSURE-TEST** — Momoi's two-day unconsciousness makes harm concrete; Alice's amnesia and Rio's pending classification make agency/means questions more urgent, not settled.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei supplies care and tries to inspect a console, but no origin/trigger or immediate cure; other evidence holders remain distinct.
+- **BA-C008: BOUNDED** — eleven singleton choices and inward permission/entry-looking lines cannot be collapsed into a full audible adult script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki revision.
+- **BA-C019: PRESSURE-TEST** — creative belonging and provisional institutional standing do not prevent medical harm or risk classification; earlier bonds remain historically real, and safety is another non-substitutable test.
+
+No new claim ID, model, frozen prediction or side-source admission. Rio's promised disclosure, Momoi prognosis and console/`<Key>`/`Divi:Sion` mechanism remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E009 claim transitions — disputed threat and failed unconditional command
+
+- **BA-C001–C004, C007, C010–C011: ACUTE ETHICAL TEST** — Rio proposes Alice's disappearance and halo destruction from an asserted all-Kivotos threat. The observed local attack and Momoi injury demand safety response, yet Alice's intent, summoning mechanism, scale and necessity of this remedy remain unproved. Nel independently refuses abduction.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei's objection is ethical, not a sole causal solution; Alice, Midori and Nel supply distinct testimony/action.
+- **BA-C008: BOUNDED** — seven singleton choices and inward lines, some apparently answered, cannot become a full audible Sensei persona.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no direct Prologue/Shittim/Abydos/Kaiser/Shiba Seki amendment. Means/recipient-agency parallels are thematic comparisons.
+- **BA-C019: SHARP PRESSURE** — Rio's risk category threatens Alice's place and halo, but C001 creative recognition and E005 ordinary bonds remain real. Belonging is not a safety demonstration; a threat forecast is not a proven sole-remedy authorization.
+
+No new claim ID, model, frozen prediction or side-source admission. Rio's telemetry/perimeter claims, Alice origin/control, Momoi prognosis, Toki's E001 identity and the confrontation outcome remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E010 claim transitions — successful seizure, unsettled justification
+
+- **BA-C001–C004, C007, C010–C011: SEVERE PRESSURE/COUNTERTEST** — Rio invokes adult duty, removes Alice from the protected student category, and succeeds in taking her through Toki/AMAS force. Alice's protective farewell occurs under blame, threat and incapacitated defenders; it is not independent proof of diagnosis, sole-remedy necessity or free consent to halo destruction.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei objects and asks for dialogue but cannot cure or rescue alone; Nel, Midori and Yuzu act/speak distinctly within local defeat.
+- **BA-C008: BOUNDED** — six singleton choices and inward thought-to-response anomalies do not authorize a complete audible Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki claims are not directly revised; adult/recipient-agency parallels remain comparisons.
+- **BA-C019: ACUTE LOSS OF PLACE** — Alice's removal contradicts durable security despite earlier creative recognition and lived friendships. Her thanks and anguish show those ties were real; Rio's threat argument has not proven exclusion necessary.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Destination, halo procedure, sword mechanism, Alice control/origin, Momoi prognosis and wider AMAS scope remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E011 claim transitions — retrieval before settled ontology
+
+- **BA-C001–C004, C007, C010–C011: RESPONSIBILITY REOPENED** — narration calls Rio's taking abduction. Momoi/Nel/Yuzu seek retrieval, informed dialogue and a non-terminal choice, without proving the robot danger false. Nel's `殴り返せばいい` remains a rough proposal, not validated proportionality.
+- **BA-C005–C006: PRESERVE REJECTED** — Momoi originates the rescue call and Nel/C&C/Veritas take distinct positions; Sensei is asked for help, not its sole author, and `u:0091` acceptance is inward.
+- **BA-C008: BOUNDED** — five singleton choices/private thoughts do not create a complete audible Sensei persona.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: CONTINUATION CLAIM** — Momoi refuses Rio's forced farewell as the final shape of a real friendship; future club security and Alice's risk remain open.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Momoi clearance, Toki equipment/history, Alice halo outcome and the rescue plan remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E012 claim transitions — plural plan, untested execution
+
+- **BA-C001–C004, C007, C010–C011: TACTICAL TEST PENDING** — the coalition seeks to recover Alice and restore dialogue, yet a frontal diversion and hack are only planned. Rio's coercion does not itself prove every countermeasure proportionate or safe.
+- **BA-C005–C006: PRESERVE REJECTED** — Noa/Yuuka supply Eridu data, Engineering infers transport, Nel authors diversion, Veritas takes remote defenses and Momoi names objective. Sensei explicitly agrees but does not author all mechanisms.
+- **BA-C008: BOUNDED** — `choice:002` alternatives and inward final start distinguish optional wording, real assent and unheard thought.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no direct Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: INSTITUTIONAL SPLIT** — Seminar members and Engineering support Alice despite Rio's classification; standing, safety and durable belonging remain unresolved.
+
+No new claim ID, model, frozen prediction or side-source admission. Yuuka's embezzlement allegation, Koyuki link, tower location, rail access, fortress defense and actual rescue remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E013 claim transitions — access succeeds, ethics unresolved
+
+- **BA-C001–C004, C007, C010–C011: CONFRONTATION ADVANCES** — Himari renews direct moral dissent and Rio acknowledges the custody/halo-plan description while claiming necessity. The coalition reaches Eridu; neither Rio's world threat nor her destruction remedy is vindicated.
+- **BA-C005–C006: PRESERVE REJECTED** — Veritas enables freight/local network entry and C&C draws Toki. Sensei is present but not sole tactical author or security controller.
+- **BA-C008: BOUNDED** — two-option `choice:002`, singleton `choice:001` and inward preparation thought cannot be collapsed into an audible persona script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: CONDITIONAL COALITION** — institutional rescue effort becomes action while Alice's place and safety remain unsecured.
+
+No new claim ID, model, frozen prediction or side-source admission. Himari's intervening history, Alice halo state, Rio forecast calibration, total network control and Toki fight remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E014 claim transitions — a plan advances while foresight fails locally
+
+- **BA-C001–C004, C007, C010–C011: TACTICAL ETHICS OPEN** — Toki reports a Rio order to suppress C&C and Nel pursues a rematch before Alice rescue. The coalition's access does not establish that every force choice is necessary or that Rio's remedy is justified.
+- **BA-C005–C006: PRESERVE REJECTED** — Nel/C&C handle the front, Hibiki/Kotori report local drone clearance, Hare navigates and Momoi pushes onward; Sensei's two lines are inward, not sole command.
+- **BA-C008: BOUNDED** — no choice group; `心の声` at `u:0064`/`0070` cannot be inflated into an audible persona script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: PURSUIT, NOT RETURN** — a route to Alice's probable tower location is computed, but she remains unseen and her place insecure.
+
+Toki's broad `すべて把握` claim meets her admitted `想定外` frontal approach and wrong Nel-placement inference. This revises the local surveillance assessment, not the entire Rio threat model. No new claim ID, model, frozen prediction or side-source admission; battle, route, Alice location/halo state and defense scope remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E015 claim transitions — trolley framing meets injured refusal
+
+- **BA-C001–C004, C007, C010–C011: BINARY CHALLENGED** — Rio explicitly asserts the one-versus-many trolley frame and willingly taking the lever, but threat scale, Alice status, consent, alternatives and sole-remedy necessity remain unproven. Momoi refuses Rio's inference despite firsthand injury, not because injury was absent.
+- **BA-C005–C006: PRESERVE REJECTED** — Toki uses city control, Rio deploys a new weapon and Veritas links cut, while Momoi speaks independently. Sensei's inward “asked C&C” adds participation but does not erase Nel's E012 plan authorship.
+- **BA-C008: BOUNDED** — `choice:002` has mutually alternative phrasing, `choice:001`/`003` singleton, and private/duplicated lines cannot become one complete audible script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: BELONGING CONTESTED** — Momoi demands Alice back, but Alice is absent and the new force prevents secure return.
+
+The local Eridu partition confirms a defensive capacity while not validating Rio's broad forecasts or Toki's E014 omniscience claim. No new claim ID, model, frozen prediction or side-source admission; Nel fight, rear weapon outcome, communication mechanism and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E016 claim transitions — premature checkmate meets junior intervention
+
+- **BA-C001–C004, C007, C010–C011: NECESSITY STILL UNPROVED** — Rio asserts rational checkmate after C&C division; Himari accepts planning sophistication but rejects self-righteousness. Eimi's unmarked arrival falsifies Rio's local all-threats-marked claim, not the whole threat hypothesis.
+- **BA-C005–C006: PRESERVE REJECTED** — Eimi helps Himari, Mirror startup appears and Chihiro checks the rear party as the weapon slows. This is not an adult-only solution; operator and causal mechanism remain unknown.
+- **BA-C008: BOUNDED** — two singleton choices and one inward malformed-quote line do not license a full audible Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: HELP, NOT RESTORATION** — junior help continues against Alice's exclusion, but Alice is absent and secure belonging unshown.
+
+No new claim ID, model, frozen prediction or side-source admission. Eimi and Chihiro enter `UNMODELED`; Rio/Himari relationship interpretation, Mirror operator/path, restored communication, weapon outcome and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E017 claim transitions — local obstacle defeated, rescue unfinished
+
+- **BA-C001–C004, C007, C010–C011: COUNTERMEASURE, NOT VERDICT** — Chihiro identifies a Mirror-enabled Eridu hack and Engineering defeats Avant-Garde-kun locally. Rio's checkmate forecast weakens, but threat scale, Alice status, all-force proportionality and unique-remedy necessity remain unresolved.
+- **BA-C005–C006: PRESERVE REJECTED** — Sumire helps obtain access, Chihiro/Veritas maintain/navigate, Engineering deploys the speaker and Momoi's party continues. Sensei's final Alice-return assurance is inward, not sole audible plan.
+- **BA-C008: BOUNDED** — six choice groups, one with alternatives, multiple inward lines and a duplicate Yuzu line forbid a single cumulative Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: ACTING FOR RETURN** — friends and acquaintances keep the retrieval open; Alice's present voice, danger and secure place remain absent.
+
+No new claim ID, model, frozen prediction or side-source admission. Mirror path duration, Rio's control, Engineering specs/condition, Utaha's gift and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E018 claim transitions — tower exterior and a new force threshold
+
+- **BA-C001–C004, C007, C010–C011: NEW FORCE, ETHICS OPEN** — Rio acknowledges local predictive/control failure yet authorizes a Princess-targeted powered suit against the rescuers. Design purpose does not prove Alice ontology or force necessity.
+- **BA-C005–C006: PRESERVE REJECTED** — Rio speculates Sensei is the variable; the observed success remains distributed across C&C, Veritas/Chihiro, Engineering, Sumire and Momoi. Akane redirects Nel from revenge to the shared objective.
+- **BA-C008: BOUNDED** — seven singleton choices and multiple `心の声` lines cannot become an audible full Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: EXTERIOR, NOT BELONGING** — the coalition reaches the probable holding tower, but Alice remains unseen and not returned.
+
+No new claim ID, model, frozen prediction or side-source admission. Maze/reunion mechanism, tower-location inference, Abi-Eshuh capabilities, Rio defense inventory and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E019 claim transitions — failed air counter and timed hold
+
+- **BA-C001–C004, C007, C010–C011: FORCE/CLOCK OPEN** — Abi-Eshuh resists a rooftop/air tactic and Rio names an unspecified defense deadline. Neither its resource claim nor future-threat/halo remedy necessity is verified by combat.
+- **BA-C005–C006: PRESERVE REJECTED** — Rio's “only variable” claim is contradicted as sole explanation by Chihiro's defense analysis/cue, Nel's chosen risk and Momoi's escape action. Sensei's roof choice is meaningful but incomplete.
+- **BA-C008: BOUNDED** — six singleton choices and inward-thought-to-response anomalies require separation from an audible command script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: ESCAPE WITHOUT RETURN** — Alice remains absent; surviving this engagement is not restoration of her place or safety.
+
+No new claim ID, model, frozen prediction or side-source admission. Precognition/compute scope, Nel wound, machine damage, escape mechanism, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E020 claim transitions — injury and conditional opening
+
+- **BA-C001–C004, C007, C010–C011: NECESSITY UNPROVEN** — the cost of continued intervention rises with Nel's injury, while Yuzu's reported hit and Chihiro's possible computational gap weaken Rio's absolute-defense rhetoric. Neither establishes a safe, successful alternative or Rio's catastrophic ontology.
+- **BA-C005–C006: DISTRIBUTED AGENCY REINFORCED** — Chihiro appraises capacity and offers a cautious hypothesis, Yuzu notices a hit and proposes a trap, Nel refuses abandonment, and Momoi/Midori frame collective effort. Sensei participates without sole authorship.
+- **BA-C008: BOUNDED** — one inward Sensei line and nine singleton choices; `choice:009` voices a conjecture, not a complete tactical plan.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no revision to prior Prologue/Abydos/Kaiser/Shiba Seki claims.
+- **BA-C019: MOTIVE, NOT RESTORATION** — Alice's friends insist on rescue, but she remains absent and her welfare/choice unknown.
+
+No new claim ID, model, frozen prediction or side-source admission. Nel fitness, actual suit limitation, Yuzu's `ハメ技`, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E021 claim transitions — explicit authorship correction and local counter
+
+- **BA-C001–C004, C007, C010–C011: ABSOLUTE DEFENSE REVISED DOWN** — Toki reports evasion-system paralysis during Chihiro's elevator maneuver and Nel wins the immediate fight. Rio's “zero” forecast is locally false; the Alice-world-threat scale, halo plan and safe alternatives are not thereby settled.
+- **BA-C005–C006: SOLE-SENSEI AUTHORSHIP REJECTED** — Akane explicitly says Sensei did not command the assault. Yuzu adapts Momoi's idea, Chihiro implements the hack, C&C accepts and executes risk, while Sensei accepts the team's choice. Rio's attribution becomes directly contradicted, not merely underdetermined.
+- **BA-C008: BOUNDED** — three singleton choices and multiple inward Sensei lines; no complete audible strategy.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no revision to earlier Prologue/Abydos/Kaiser/Shiba Seki claims.
+- **BA-C019: FRIENDSHIP AS STATED MOTIVE** — Nel and Akane name Alice a friend worth retrieving. Local victory has not returned her or established her consent/safety.
+
+No new claim ID, model, frozen prediction or side-source admission. Elevator mechanism, Nel/Toki condition, tower access, deadline and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E022 claim transitions — active Key process and failed forced-binary certainty
+
+- **BA-C001/BA-C016: REVISE / COMPLICATE** — Rio concedes guard defeat, suspects her resource fortress enabled the feared process, then again chooses solitary command/sacrifice. Sensei's secure questions ask whether a two-sacrifice trolley framing overlooks helpers; Yuuka/Noa act before any result. E001 Himari dissent forbids taking Sensei's inward “consulted nobody” literally.
+- **BA-C002–C004, C007, C010–C011: LOCAL SYSTEM RISK STRENGTHENED** — Key announces protocol/ark activation and resource capture, communication degrades, Rio observes city change and reports follower appearances. The exact data amount, disconnection harm, world-end inevitability and ark completion remain interested/unverified.
+- **BA-C005–C006: COALITION CONTINUES** — Nel's handoff, club entry, Chihiro's search and Yuuka/Noa's remote intervention create alternatives to Rio's sole actor. Outcome of the power command is next-unit unknown.
+- **BA-C008: VOICE BOUNDED** — eleven choices, one two-option branch, duplicate convergence, inward Sensei lines, and `AMAS A`/Alice/Rio role-label anomalies limit exact audible ethical dialogue.
+- **BA-C019: NAME/BELONGING UNDER DIRECT ATTACK** — Key treats “Alice” as an unwanted friend-given name and says her surface personality is isolated. Physical access does not restore agency, consent or club home.
+- **BA-C009, C012–C015, C017–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki mechanisms unchanged.
+
+No new durable claim ID pending chapter checkpoint, no model/frozen prediction or side-source admission. Key identity/architecture, true personality state, disconnect risk, power-cut result, Rio survival, Alice rescue and maximum Kivotos effect remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E023 claim transitions — immediate system cutoff and risky alternative
+
+- **BA-C001/BA-C016: FORCED BINARY REVISED DOWN LOCALLY** — Yuuka/Noa stop the resource process without Rio dying; Engineering, Eimi/C&C and Himari widen feasible responses. The proposed mind-dive may still exact grave cost and has not begun.
+- **BA-C002–C004, C007, C010–C011: THREAT BOUNDED, NOT ERASED** — Key reports shutdown, while followers continue regrouping and Himari warns of Alice-personality replacement. Neither permanent victory nor inevitable world end is supported.
+- **BA-C005–C006: DISTRIBUTED CAPACITY STRENGTHENED** — Key's zero-force claim is contradicted by Engineering's return; Yuuka/Noa's choice, entrance defenders and Himari/Yuzu plan break single-controller accounts.
+- **BA-C008: ATTRIBUTION/CONSENT FIREWALL** — `u:0041` Himari, `u:0048` Rio and `u:0064-0065` Rio have turn/voice tension; Sensei `u:0073` is inward. Only Yuzu explicitly volunteers on-page.
+- **BA-C019: ALICE NOT RESTORED** — the new plan aims at her isolated personality, but no dive, reply or safe reunion occurs.
+- **BA-C009, C012–C015, C017–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki mechanisms unchanged.
+
+No new durable claim ID, model/frozen prediction or side-source admission. Power permanence, follower containment, dive feasibility/consent, Alice personality and Rio accountability remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E024 claim delta — chosen identity versus assigned function
+
+- **BA-C001/BA-C016:** friends' rescue allows Alice to articulate what she wants; their support is agency-preserving, not an adult or technical cancellation of risk.
+- **BA-C002–C004, C007, C010–C011:** Key's displayed injuries are real evidence of danger but not proof Alice must disappear or that world destruction is inevitable. Alice's `かもしれない` expresses fear/possibility. Her chosen hero response narrows assigned-destiny claims without certifying global safety.
+- **BA-C005–C006:** Momoi's prize/club account credits Alice's contribution within a distributed making and recognition process, not sole authorship or solely Sensei's rescue.
+- **BA-C008:** early label flips and numerous `心の声` lines remain quarantined. Alice's direct `アリスになりたい` and `そう決めた` lines are secure in-space self-report.
+- **BA-C019:** Alice's name and belonging receive direct first-person and friend-language support against Key's “Princess” designation. Physical awakening, stable safety and institutional belonging remain open.
+- **BA-C009, C012–C015, C017–C018:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Key's final condition and Alice's external state remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E025 claim delta — immediate success with open duties
+
+- **BA-C001/BA-C016:** collective effort averts the immediate crisis and Alice resumes ordinary chosen participation; Himari's unfinished facility work and Rio's flight retain adult/institutional duties.
+- **BA-C002–C004, C007, C010–C011:** narrator's possible Kivotos threat is averted, but Himari explicitly says underlying matters remain unresolved. No inevitable world end or universal final safety conclusion.
+- **BA-C005–C006:** the coalition and club remain distributed agents. Sensei's presence at aftermath events does not make the teacher sole author of rescue, new game or governance response.
+- **BA-C008:** one two-option C&C choice reconverges; inward Sensei `u:0070` and numerous label flips bar a composite speech/persona.
+- **BA-C019:** Alice's name and participation visibly carry into club life, while new creative work is only planned and permanent council status remains open.
+- **BA-C009, C012–C015, C017–C018:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Rio accountability, Eridu technical closure and durable club security stay OPEN; contextual backfill **DEFER** pending arc boundary.
+
+## MAIN V002 C002 checkpoint adjudication
+
+- **BA-C001/C016 — STRENGTHEN WITH RISK DUTY:** Alice's choice is heard and coalition alternatives avert the immediate forced binary; continuing safety/accountability remains required.
+- **BA-C002–C004/C007/C010–C011 — REVISE/NARROW:** Sensei's bounded contribution, Rio's coercive adult-duty claim and the distributed rescue prevent sole-savior or blanket custody conclusions.
+- **BA-C005–C006 — PRESERVE REJECTED:** no omnipotent Sensei or inherently incapable students. E021 Rio's Sensei-only authorship is explicitly corrected.
+- **BA-C008 — STRENGTHEN FIREWALL:** inward thought, branch choices and label corruption limit speech/persona inference.
+- **BA-C009 — REVISE TO BOUNDED NEW EVIDENCE:** Key is a provisional distinct speaker with local action; architecture, persistence and ontology are open.
+- **BA-C019 — STRENGTHEN/EXTEND:** creative value, recognition and actual belonging remain non-substitutable, now also against safety classification.
+- **BA-C020 — OPEN NEW, STRONG CHAPTER-LOCAL:** a technical/function classification can warrant investigation but cannot by itself determine a speaking person's chosen identity or justify an exclusive lethal remedy; Alice's first-person choice and E025 external return matter without proving her power harmless. [Checkpoint `7](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) defines scope and future test.
+- **BA-C012–C015/C017–C018 — NO DIRECT GLOBAL TEST.**
+
+No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Complete-arc contextual side-source backfill decision: **DEFER**, pending a verified route and specific question. V003 C001 E001 remains unopened.
