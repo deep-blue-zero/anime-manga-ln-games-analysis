@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -529,3 +529,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Site lead:** Noa supplies Eridu coordinates; Yuuka says Alice is likely in its central tower. Live location is not directly observed. Yuuka/Noa say their positions allow help only this far and ask the coalition to stop Rio; Sensei explicitly agrees.
 - **Access hypothesis:** Engineering infers a freight train may have delivered construction materials and offers to find the line. This is conditional on material provenance; no route or entry is yet verified. Predicted anti-intruder defenses and Rio surveillance are risk models, not observed full specifications.
 - **Operational division:** C&C plans frontal diversion of Rio/Toki; club/Engineering/Sensei plan rear retrieval; Veritas promises remote defense hacking. The win condition is Alice's retrieval before coalition defeat. All are prospective assignments, not completed action.
+
+## V002 C002 E013 institutional delta — freight leg succeeds, perimeter not mastered
+
+- **Eridu facility:** source location names an internal central isolation facility. Himari says Rio confines Alice there and plans halo destruction; Rio says the factual description is not wrong. Her own liberty and the exact Alice cell/procedure remain unshown. Rio's `99.9999%`/`99%` forecasts are uncalibrated self-reports.
+- **Transport:** Utaha says the party arrived on an unmanned freight train, directly validating one E012 access hypothesis. Veritas is credited with hacking the train system; how much of the city system that covers is not established.
+- **Local security:** a drone appears. Hare reports suppressing it before exposure and hacking nearby network; this is a local participant account, not proof of full stealth or control over all Eridu monitoring. Kotama warns unseen surprises may remain.
+- **C&C diversion:** Asuna reports a thirtieth target, Karin says there are unexpectedly many, Akane judges the noisy diversion achieved, and Toki appears. The tactical objective of drawing attention has local support, but neither all-defense defeat nor Alice rescue follows.

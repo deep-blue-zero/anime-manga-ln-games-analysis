@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_PLUS_V002_C002_E012
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_PLUS_V002_C002_E013
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001 through checkpoints, plus BA:main:002:002:001-012; side-source classes remain unreviewed; BA:main:002:002:013 remains unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001 through checkpoints, plus BA:main:002:002:001-013; side-source classes remain unreviewed; BA:main:002:002:014 remains unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:002:002:013
+next_unopened_main_unit: BA:main:002:002:014
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:002:002:013
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V002_C002_E012` provisional boundary, inheriting the `MAIN_V002_C001` checkpoint:
+This index answers four questions at the `MAIN_V002_C002_E013` provisional boundary, inheriting the `MAIN_V002_C001` checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020 and V002 C002 E001-E012;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020 and V002 C002 E001-E013;
 - current checkpoint: `MAIN_V002_C001`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `74 / 310` canonical units;
+- main-story coverage: `75 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:002:002:013`.
+- next unopened main unit: `BA:main:002:002:014`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,28 +74,28 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004, E010-E016, E019-E020 and V002 C002 E002-E012; explicit coalition assent after E011 inward response | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004, E010-E016, E019-E020 and V002 C002 E002-E013; arrives by freight, thanks Veritas, inward preparation not audible command | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Momoi | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E008/E011-E012; retrieval call/tower objective, “runaway” rhetoric not free-exit proof | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Midori | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E006-E011; creative care, Momoi reunion and uncertainty over Rio's label | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E020 and C002 E002-E010; protocol danger, guilt, pressured protective farewell and departure with Rio; cause/control unresolved | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E020 and C002 E002-E010/E013; silent facility-side cue after pressured departure, no halo outcome or control evidence | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Yuzu | `ANALYZED` in V002 C001 E005-E006, E009-E011/E013, E016-E020 and C002 E002-E003/E006-E012; dialogue wish and private C&C-success forecast | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Utaha | `ANALYZED` in V002 C001 E007/E012-E014 and C002 E005/E012; conditional freight-route proposal, Supernova claim and Engineering aid | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hibiki | `ANALYZED` in V002 C001 E007/E012-E014 and C002 E005/E012; freight-train existence testimony and Engineering coalition role | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Utaha | `ANALYZED` in V002 C001 E007/E012-E014 and C002 E005/E012-E013; confirms freight arrival and credits Veritas train access, with nearby voice flips | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hibiki | `ANALYZED` in V002 C001 E007/E012-E014 and C002 E005/E012-E013; freight-train testimony followed by arrival and Veritas-credit line | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kotori | `ANALYZED` in V002 C001 E007/E012-E013/E020 and C002 E005/E012; Engineering support and teasing explanation under label flips | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Yuuka | `ANALYZED` in V002 C001 E002, E008-E009, E012-E015, E020 and C002 E012; Rio objection, Eridu records/budget allegation and likely tower lead | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Noa | `ANALYZED` in V002 C002 E012; first substantial speech, deleted-record/budget tracing, Eridu coordinates and role-bounded help | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hare | `ANALYZED` in V002 C001 E012-E013 and C002 E006-E008/E011; technical limit, robot-contact hypothesis and post-abduction request for guidance | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Maki | `ANALYZED` in V002 C001 E012-E013/E017 and C002 E006-E007/E011-E012; Veritas remote-defense-hack promise, not completed bypass | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Kotama | `ANALYZED` in V002 C001 E012 and C002 E006-E007/E011-E012; emergency appraisal and Toki obstacle, Veritas remote task | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Akane | `ANALYZED` in V002 C001 E012-E014/E017 and C002 E005/E007/E011-E012; C&C front-role assignment and Koyuki speculation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hare | `ANALYZED` in V002 C001 E012-E013 and C002 E006-E008/E011/E013; reports pre-detection drone suppression and local network hack, scope unverified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Maki | `ANALYZED` in V002 C001 E012-E013/E017 and C002 E006-E007/E011-E013; monitors train party, no demonstrated all-defense bypass | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kotama | `ANALYZED` in V002 C001 E012 and C002 E006-E007/E011-E013; warns unseen Eridu surprises may remain despite local monitoring | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Akane | `ANALYZED` in V002 C001 E012-E014/E017 and C002 E005/E007/E011-E013; C&C front diversion underway, judges noisy objective reached | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Karin | `ANALYZED` in V002 C001 E014/E019 and C002 E004/E007/E011; earlier combat/inquiry plus post-abduction exchange with role-label cautions | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Asuna | `ANALYZED` in V002 C001 E014-E015/E019 and C002 E004/E007; reported Rio task and rapid C&C containment, exact tactics limited by labels | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Nel | `ANALYZED` in V002 C001 E016-E017/E019 and C002 E005/E007/E009-E012; authors C&C-front diversion and Alice-before-defeat win condition | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Rio | `ANALYZED` in V002 C002 E001/E008-E010; public threat/halo proposal becomes effective Toki/AMAS seizure; adult-duty and Eliza-effect claims unverified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Toki | `ANALYZED` in V002 C002 E009-E010; C&C callsign zero four, follows Rio's weapon authorization and restrains Nel; exact method/E001 identity unverified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Himari | `ANALYZED` in V002 C002 E001; Mirror-test testimony, opposed junior framing, hack/escape and unknown interception | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Rio | `ANALYZED` in V002 C002 E001/E008-E010/E013; Eridu-fortress purpose, uncalibrated forecast and persistence despite Himari's dissent | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Toki | `ANALYZED` in V002 C002 E009-E010/E013; gives full name Asuma Toki and appears at C&C diversion, battle outcome/E001 identity unverified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Himari | `ANALYZED` in V002 C002 E001/E013; directly rejects Rio's abduction/confinement/halo plan inside Eridu; intervening arrival/status unknown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sumire | `ANALYZED` in V002 C002 E004; jogging, repeated Alice encounters and exercise/adventure translation; 20-km plan not completion | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kirara | `ANALYZED` in V002 C002 E004 brief Gehenna-student reply to C&C questioning; leadership knowledge uncertain | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Erika | `ANALYZED` in V002 C002 E004 brief Gehenna-student guess about leadership; not verified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -144,9 +144,9 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Karin | L; sniper role and duel aftermath | M for target-pattern, cover and Alice-infirmary appraisal | L against club/Utaha; Nel team | M within C&C sniper role | GAP | M in secure lines | M; fire and floor-blast aftermath | M; E019 shooter position and medical inference unverified |
 | Asuna | L; linked fight and team aftermath | M for intuition, opponent appraisal and response to Nel | L against club/Sensei, with Akane/Nel | M within C&C 01 role | GAP | M in secure/private-aside lines | M; beam harm and later survival | M; recovery specifics and ordinary self unknown |
 | Nel | M; defender, independent test, refusal and post-defeat guilt | M for challenge, refusal and diversion/win-condition design | M with Alice/C&C/Sensei across play and crises | M within C&C role; command contested | GAP | M; rough refusal and tactical speech secure | M; protective refusal, restraint and planned counter | M; Rio surveillance, Toki diversion and success untested |
-| Rio | M; covert thesis now public under visible harm | M for secrecy, monitoring admission, destruction proposal and effective seizure | L with Himari/Alice/Nel under conflict | M; Seminar president, claimed C&C/AMAS command | GAP | M in secure formal/dehumanizing lines; flips excluded | M; Nel refusal, Toki/AMAS success | M; origin, world forecast, halo outcome and sole-remedy necessity unverified |
-| Toki | L; new C&C role | L; authorization compliance and local restraint | L; C&C seniors/Nel/Sensei address | L; callsign zero four, Rio weapon | GAP | L; short formal orders; flips excluded | M; successful local restraint only | L; exact weapon, E001 identity, motive and breadth unknown |
-| Himari | L; one direct confrontation plus reported earlier test | M for Mirror provision, truce correction and hack escape | L with Rio/Alice as absent junior | M; Veritas leader role and covert technical action | GAP | M; flamboyant self-style and truce line secure | M; Rio's detention and unknown intercept | M; fifth-C&C guess, Alice classification and final safety unresolved |
+| Rio | M; covert thesis public and contested at Eridu | M for secrecy, monitoring, destruction proposal and persistence | M with Himari/Alice/Nel under conflict | M; Seminar president and Eridu command | GAP | M in secure formal/forecast lines; flips excluded | M; Nel refusal, Toki/AMAS success, impending rescue | M; uncalibrated percentages, origin, halo outcome and sole-remedy necessity |
+| Toki | L; C&C role, full name now given | L; authorization compliance, restraint and response to diversion | L; C&C seniors/Nel/Sensei address | L; callsign zero four, Rio weapon | GAP | L; short formal greeting/orders; flips excluded | M; local restraint and pre-battle appearance | L; exact weapon, E001 identity, motive and fight result unknown |
+| Himari | M; renewed direct dissent at Eridu | M for Mirror provision, truce break, escape and refusal of halo plan | M in Rio dyad; Alice nearby/silent | M; Veritas role and covert action | GAP | M; self-style plus direct moral objection secure | M; Rio custody dispute and Eridu encounter | M; E001→Eridu transition, fifth-C&C guess and Alice safety unresolved |
 | Wakamo | L | L | L with Sensei | L | GAP | M | H | L |
 | Ayane | M | H in operational/institutional contexts | M | H | L | H | H | M |
 | Shiroko | H for knowledge/relation deltas; disposition unresolved | H in operational/epistemic contexts | H within Abydos; M elsewhere | H | L | M | H | H; solitary-risk counterexamples |
@@ -194,9 +194,9 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Karin | Sniper ID by Midori; Nel fondness is her appraisal; Gehenna answers uncertain | Club/engineers/Nel and Alice/Sensei in reported mission; private GAP | Secrecy objection and direct embarrassment/attention boundary | V002 C1 E014/E019 as routed; V002 C2 E004 scene 1 `u:0063-0120` with label cautions |
 | Asuna | Rio task is her report, not written order; leadership answers uncertain | C&C/Nel, Alice/Sensei and Gehenna interview; private GAP | Casual openness and oversharing, not global secrecy incapacity | V002 C1 E014-E015/E019 as routed; V002 C2 E004 scene 1 `u:0061-0086`, `u:0109-0121` with label cautions |
 | Nel | E009 refusal/E010 restraint; E012 surveillance forecast still untested | Alice/Sensei/C&C across duel, arcade, crisis and command conflict | Rough protective boundary plus concrete diversion authorship | V002 C1 E016-E019; V002 C2 E005/E007/E009-E011 as routed; E012 `u:0093-0123` |
-| Rio | Threat/summoning claims not audited; E010 local AMAS suppression narrated | Himari and direct Alice/club/Sensei/Nel conflict; no ordinary control | `エライザ効果`/adult-duty rhetoric is interested, not diagnosis | V002 C2 E001/E008-E009 as routed; E010 `u:0029-0066`, `u:0112-0119` with flips |
-| Toki | Rio authorization and local Nel restraint direct; weapon mechanism/E001 identity open | C&C/Rio/Nel/Sensei in one coercive scene | `イエス、マム` and warnings; too little for stable voice | V002 C2 E009 as routed; E010 `u:0004-0025` with flipped `u:0008-0009` |
-| Himari | Co-test account direct testimony; fifth-C&C identity a guess | Rio truce/antagonism, Alice absent; other dyads unreviewed | `超天才清楚系病弱美少女` self-styling amid strategic action | V002 C2 E001 scene 1 `u:0002-0024`, `u:0028-0053`, `u:0054-0080`; narration attribution caution |
+| Rio | Threat/summoning claims and percentages not calibrated; fortress purpose self-stated | Himari and Alice/club/Sensei/Nel conflict; no ordinary control | `エライザ効果`/adult-duty/`99%` rhetoric interested | V002 C2 E001/E008-E010 as routed; E013 `u:0004-0034` with `u:0028` caution |
+| Toki | Rio authorization/restraint direct; full name and diversion response, fight open | C&C/Rio/Nel/Sensei in linked coercive scenes | Formal `お待ちしておりました`; no broad baseline | V002 C2 E009-E010 as routed; E013 scene 2 `u:0011-0012` |
+| Himari | Co-test testimony direct, E013 moral objection renewed; Eridu arrival unexplained | Rio dyad, Alice silent nearby; other relations unreviewed | `超天才清楚系病弱美少女` and firm condemnation | V002 C2 E001 as routed; E013 `u:0002-0023` with `u:0003` label caution |
 | Sumire | 20-km jog announced, not completed; no fitness measurement | Alice frequent-jogging encounter and Sensei greeting only | Steady effort language and exercise/adventure mirroring | V002 C2 E004 scene 1 `u:0018-0055`; quarantine `u:0024-0026`, `u:0041-0051` |
 | Kirara | Current leader question elicits uncertainty, not a verified roster | Gehenna peer Erika and C&C questioners only | Brief confused reply, no stable ordinary baseline | V002 C2 E004 scene 1 `u:0119`, `u:0122-0125` |
 | Erika | Ibuki guess is not verified current leadership | Gehenna peer Kirara and C&C questioners only | One brief uncertain reply | V002 C2 E004 scene 1 `u:0124` |
@@ -236,16 +236,16 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Kotori | `UNMODELED` | `NONE` | technical/budget concern, corridor role and prize hosting | Linked work/ceremony cases; policy-cause conjecture and private relationship/decision unverified. |
 | Yuuka | `PARTIAL_MODEL` | `NONE` | evidence-revisable council gatekeeping now extended to Rio/Eridu record conflict | Budget allegation and tower location need independent check; linked council role and private breadth narrow. |
 | Noa | `UNMODELED` | `NONE` | one Seminar record/budget trace, coordinates and role-bounded aid | First substantial direct scene only; no verified full audit, ordinary preference or independent relationship control. |
-| Hare | `UNMODELED` | `NONE` | specialist no-save result, Mirror explanation, coalition framing and preparation | One operation, no private baseline, plan/benign-tool claims untested. Next: actual tactic and response to failed access or privacy objection. |
+| Hare | `UNMODELED` | `NONE` | specialist limits and reported local Eridu drone/network suppression | Linked technical operations only; full detection scope, independent/private control and failure response untested. |
 | Maki | `UNMODELED` | `NONE` | metadata/IP appraisal, reported opening/return and admitted `<Key>` limit | One technical problem, unclear bypass trace and secondhand Himari claim. Next: test Key or response to contrary file evidence. |
 | Kotama | `UNMODELED` | `NONE` | work-routing, confiscation account and admitted phone-message interest | One Veritas context, no actual intrusion or private ordinary control. Next: response to an explicit privacy refusal. |
-| Akane | `UNMODELED` | `NONE` | guard planning, interception, explosive escape and responsibility admission | One assignment, no ordinary baseline or detailed final fight. Next: independent response to canceled duty and Nel's inquiry. |
+| Akane | `UNMODELED` | `NONE` | guard planning, Toki roster testimony and local diversion-status appraisal | Linked assignments, no ordinary/private baseline; full Toki fight and rescue result unknown. |
 | Karin | `UNMODELED` | `NONE` | sniper appraisals and post-duel medical/pursuit assessment | Linked high-stakes role, no private control; treatment route and final damage unverified. |
 | Asuna | `UNMODELED` | `NONE` | intuition, opponent appraisal and C&C-team teasing after duel | Linked fight/team interaction, no secure ordinary/private contrast or attraction evidence. |
 | Nel | `UNMODELED` | `NONE` | test/no-pursuit, refusal and E012 frontal-diversion plan with bounded win condition | Linked contexts but no private control or tested general proportionality rule; plan execution unknown. Reassess at checkpoint. |
 | Rio | `UNMODELED` | `NONE` | covert/public threat claims, monitoring admission, destructive proposal and effective Toki/AMAS seizure | World-ending/summoning, Eliza-effect and sole-remedy claims unverified; no ordinary/private control. Reassess at chapter checkpoint. |
-| Toki | `UNMODELED` | `NONE` | self-stated C&C callsign, Rio-command compliance and local Nel restraint | One coercive episode, no exact weapon mechanism, motive, E001 identity confirmation or ordinary contrast. |
-| Himari | `UNMODELED` | `NONE` | Mirror-test testimony, opposed junior interpretation and technical escape | First direct meeting only; no independent ordinary/relationship contrast, fifth-C&C outcome open. |
+| Toki | `UNMODELED` | `NONE` | full name/callsign, Rio-command compliance, Nel restraint and diversion response | Linked coercive episodes, no exact weapon mechanism, motive, E001 identity confirmation or fight result. |
+| Himari | `UNMODELED` | `NONE` | Mirror-test testimony, opposed junior interpretation, escape and direct Eridu moral dissent | Crisis/Rio dyad only; E001→Eridu transition, ordinary/relationship contrast and Alice outcome open. |
 | Sumire | `UNMODELED` | `NONE` | one ordinary jogging/exercise encounter and reciprocal Alice acquaintance | Single exercise domain; announced 20 km not observed completion, private/institutional contrasts absent. |
 | Kirara | `UNMODELED` | `NONE` | one uncertain response to Gehenna leadership inquiry | No independent knowledge check, broader decision path or ordinary/private baseline. |
 | Erika | `UNMODELED` | `NONE` | one tentative Ibuki answer during Gehenna leadership inquiry | One line and no verified knowledge, motive or broader relationship evidence. |
@@ -596,3 +596,9 @@ Routing: [V002 C002 E011 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_
 Sensei asks Yuuka/Noa for Rio's destination. Noa reports a search of deleted/concealed-looking Seminar records and opaque budget flows; Yuuka alleges embezzlement and identifies recovered data on Rio's secretly built Eridu fortress city. These are concrete investigative leads but not an audited amount/authorization chain, and Akane's Koyuki link is speculation. Yuuka says Alice is likely at the central tower, not a live-confirmed position; Noa gives coordinates and says their official roles limit further help. Noa's first substantial direct speech adds one `UNMODELED`. Engineering forecasts defenses and conditionally infers that construction materials may have arrived by an unmanned freight line; it offers to find the route but has not done so. Utaha calls Supernova Engineering's taken invention, while colleagues tease a friend-rescue rationale through role-flipped `u:0072-0078`; neither motive nor sword condition is certified. Nel predicts Rio can monitor her own fortress, names Toki as a separate obstacle, and authors a frontal C&C diversion so the club/Engineering/Sensei can retrieve Alice from behind before the team is defeated. Veritas promises remote hacking. These are explicit distributed assignments, not executed breakthroughs or calibrated probabilities. Momoi's “runaway” phrase is rhetoric inconsistent with E011 narrated abduction. Sensei `choice:006`/`014` expressly assents, whereas the final “operation start” at `u:0132-0133` is inward. `choice:002` has two alternatives; thirteen other groups are singleton. Tracked totals: **21 `PARTIAL_MODEL` / 23 `UNMODELED`** across 44, none operational/validated, no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 Routing: [V002 C002 E012 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md) → `BA:main:002:002:012` canonical scene 1 and fourteen choice groups (`002` two-option). `BA:main:002:002:013` remains unopened. Coverage is **74 / 310**.
+
+## 44. V002 C002 E013 provisional coverage delta
+
+At Eridu's central isolation facility Himari condemns Rio's abduction/confinement/halo-destruction plan, and Rio says that act description is not wrong. Rio calls Eridu a fortress against future threats, accepts that Sensei and C&C will likely arrive, and cites `99.9999%` rescue and `99%` goal-success calculations without disclosed model/calibration. Himari's passage from E001 to this scene and her own freedom remain unshown; Alice has only a silent cue before the cut to the rescuers. The E012 freight-route inference now has a represented success: Utaha says the party arrived by unmanned train and Veritas is credited with train-system hacking. Hare reports a suddenly appeared drone was suppressed before detection and local network hacked; this is a bounded participant report, not universal stealth or all-Eridu control. Kotama warns of unseen surprises. Scene 2 shows C&C's noisy destruction; Asuna's “thirtieth” is a situated count, Karin says targets exceed expectation, and Akane judges the diversion objective locally achieved. Toki appears, now gives full name `飛鳥馬トキ` and says she awaited the seniors. No Toki battle result or Alice rescue follows. Role-label anomalies at scene 1 `u:0003`/`u:0028`/`u:0040-0041`/`u:0049-0051`, the two-option `choice:002` and Sensei's inward `u:0055` remain quarantined. Readiness stays **21 `PARTIAL_MODEL` / 23 `UNMODELED`** across 44, none operational/validated, no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+Routing: [V002 C002 E013 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md) → `BA:main:002:002:013` canonical scenes 1–2 and two choice groups (`002` two-option). `BA:main:002:002:014` remains unopened. Coverage is **75 / 310**.

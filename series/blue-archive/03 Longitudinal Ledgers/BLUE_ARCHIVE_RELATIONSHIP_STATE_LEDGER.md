@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -543,3 +543,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **NEL/C&C ↔ CLUB/SENSEI:** Nel offers C&C as a frontal diversion so the club/Engineering/Sensei can enter behind. This extends E011's solidarity into an assigned risk, not guaranteed success or unrestricted obedience.
 - **VERITAS ↔ COALITION:** Maki/Kotama promise remote defense hacking; other members' precise field placement is not shown.
 - **MOMOI/SENSEI ↔ ALICE:** Momoi names Alice's retrieval as the objective; Sensei's choice affirms participation. Momoi's “runaway” rhetoric does not make Alice's E010 departure free, and final Sensei `心の声` is not an audible command.
+
+## V002 C002 E013 relationship delta — Himari's dissent and coalition execution
+
+- **HIMARI ↔ RIO/ALICE:** Himari directly rejects Rio's confinement/halo aim at Eridu; Rio accepts the act description but hopes for understanding. Alice is silent nearby in the facility-side sequence; neither agreement nor Himari's freedom status is shown.
+- **VERITAS ↔ RESCUE PARTY:** train access and local network intervention make their E012 support operative. Hare warns that monitoring may miss surprises; help is not a promise of total safety.
+- **C&C ↔ TOKI/RIO:** C&C's noisy front draws Toki, who greets seniors by name/callsign. The confrontation is underway, not a result or proof she is free of Rio's direction.
+- **SENSEI/CLUB/ENGINEERING ↔ ALICE:** the party reaches Eridu, but no direct renewed Alice contact occurs. The silent Alice cue must not be treated as seeing or hearing her friends.

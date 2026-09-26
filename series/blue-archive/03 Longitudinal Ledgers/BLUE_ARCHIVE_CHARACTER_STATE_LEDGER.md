@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -628,6 +628,16 @@ Readiness remains 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operationa
 - **Momoi/Sensei:** Momoi states the tower objective and says Alice “ran away,” which does not supersede narrated abduction. Sensei explicitly agrees to Yuuka's request and the plan in choices, but `作戦開始` at `u:0132-0133` is `心の声`.
 
 Totals: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E013 delta — Eridu arrival and Toki's response
+
+- **Rio/Himari:** in Eridu's central isolation facility Himari names Alice's kidnapping/confinement/halo plan as abhorrent; Rio says the description is not wrong but persists. Rio forecasts Sensei+C&C rescue at `99.9999%` and her goal at `99%` without model/calibration; purposefully calls Eridu a fortress against future threats. Himari's transition from E001 is unexplained.
+- **Alice:** only a silent italic-labeled moment in facility-side sequence; no consent, halo action, exact cell or awareness of rescuers shown.
+- **Utaha/Hibiki/Hare/Maki/Kotama:** the party arrives via freight train; Veritas is credited with hacking its system and Hare reports suppressing a drone and local network before detection. Arrival is direct, hack/detection scope participant testimony; Kotama explicitly warns unseen risks remain.
+- **C&C/Toki:** Asuna reports a thirtieth destroyed target; Karin says more remain than expected; Akane says noisy diversion achieved. Toki appears, gives full name `飛鳥馬トキ` and awaits the seniors. No fight result or secure rear path.
+- **Sensei:** thanks/warns through one singleton choice; second choice has two alternative drone reactions; `u:0055` battle-preparation line is inward, not audible order.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V002 C002 E011 delta — Momoi returns and calls for retrieval
 

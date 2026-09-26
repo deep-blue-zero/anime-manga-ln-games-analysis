@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -690,3 +690,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Supernova as disputed object/person relation:** Utaha calls the sword Engineering's greatest invention and a taken asset after Rio dismissed it as a toy. Colleagues tease the friend-saving motive; material invention and Alice's personhood must not be collapsed into one another.
 - **Game-language strategy:** Toki becomes a `チートプレイヤー` analogy and Nel calls Alice's retrieval a `勝利条件`. Tactical framing helps assign tasks but cannot guarantee success or validate force.
 - **Agency across institutions:** Seminar dissent, Engineering transport inference, C&C diversion, Veritas remote aid and club retrieval distribute initiative. Sensei's explicit assent is real, while inward “operation start” cannot make the adult sole author.
+
+## V002 C002 E013 motif / callback delta — big-sister surveillance meets distributed entry
+
+- **Safehouse versus fortress:** E001 Himari's possible `セーフハウス` is refined by Rio herself as Eridu, a fortress for future threats. A monumental structure makes her conviction material but does not prove her forecasts.
+- **Big Sister's percentages:** Rio speaks in precise success probabilities while the rescuers arrive via an unexpected material route and Veritas suppresses one drone. The contrast tests claims of control without turning local success into proof Rio is ignorant of everything.
+- **Coalition starts to work:** Engineering's freight hypothesis becomes arrival, Veritas's systems role becomes a local hack report and C&C's distraction draws Toki. The still-absent Alice reunion keeps the chapter's relational goal separate from logistical progress.
+- **Silent captive / noisy front:** Alice has no new spoken position, while C&C creates visible explosions. The diversion is a means to make contact possible, not itself a solution to origin, safety or consent.

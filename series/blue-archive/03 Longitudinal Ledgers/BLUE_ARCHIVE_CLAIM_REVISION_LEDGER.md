@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E012 active provisional; E013 unopened
+current_sequential_boundary: MAIN_V002_C002_E013 active provisional; E014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1406,3 +1406,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. M
 - **BA-C019: INSTITUTIONAL SPLIT** — Seminar members and Engineering support Alice despite Rio's classification; standing, safety and durable belonging remain unresolved.
 
 No new claim ID, model, frozen prediction or side-source admission. Yuuka's embezzlement allegation, Koyuki link, tower location, rail access, fortress defense and actual rescue remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E013 claim transitions — access succeeds, ethics unresolved
+
+- **BA-C001–C004, C007, C010–C011: CONFRONTATION ADVANCES** — Himari renews direct moral dissent and Rio acknowledges the custody/halo-plan description while claiming necessity. The coalition reaches Eridu; neither Rio's world threat nor her destruction remedy is vindicated.
+- **BA-C005–C006: PRESERVE REJECTED** — Veritas enables freight/local network entry and C&C draws Toki. Sensei is present but not sole tactical author or security controller.
+- **BA-C008: BOUNDED** — two-option `choice:002`, singleton `choice:001` and inward preparation thought cannot be collapsed into an audible persona script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: CONDITIONAL COALITION** — institutional rescue effort becomes action while Alice's place and safety remain unsecured.
+
+No new claim ID, model, frozen prediction or side-source admission. Himari's intervening history, Alice halo state, Rio forecast calibration, total network control and Toki fight remain OPEN; contextual backfill **DEFER**.

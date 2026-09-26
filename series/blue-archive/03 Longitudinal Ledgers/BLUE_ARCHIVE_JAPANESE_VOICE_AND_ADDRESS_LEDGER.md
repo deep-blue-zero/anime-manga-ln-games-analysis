@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:012; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -951,3 +951,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `最大の発明品`/`奪っていった` is Utaha's Supernova framing; teased friendship motive has role-flipped speaker labels and cannot be a clean confession. `ビッグシスター`/`丸見え` is Nel's threat model, not verified omniscience.
 - `陽動作戦` divides front distraction from rear rescue; `勝利条件` names saving Alice before team defeat. Momoi's `勝手に家出した` is figurative/charged mission speech and cannot erase E011 narrated `誘拐`.
 - **Quarantine:** `u:0013-0016` flips Momoi/Noa/Yuuka; `u:0017-0018` duplicates Noa's acceptance after two-option `choice:002`; `u:0072-0078` flips Kotori/Momoi/Utaha and `u:0081` is role-uncertain. `u:0122` Yuzu parenthetical is forecast, not audited probability. Sensei `心の声` at `u:0027`/`u:0083`/`u:0094`/`u:0132-0133` remains inward. Fourteen choice groups, one two-option.
+
+## V002 C002 E013 delta — forecast percentages versus local outcomes
+
+- Rio's `99.9999%以上` rescue forecast and `99%以上` goal forecast have no disclosed calibration or derivation. Actual train arrival is not numeric validation. `私が正しいと信じる` names conviction. `要塞` is her stated Eridu purpose, not objective necessity.
+- Himari's `誘拐して都市に監禁`/`ヘイローを破壊しよう` describes custody/intent, and Rio says the description is `間違っていない`. No completed halo action. `中央隔離施設` is a scene location, not proof of Himari's own detention.
+- Utaha's `想定通り` unmanned train arrival is observed. `列車システムごとハッキング` is a participant method report; Hare's `バレる前に制圧`/`周辺のネットワーク` is local, not a global stealth theorem.
+- Asuna's `30台目` and Karin's `想定より数が多い` are situated count/appraisal. Akane's `陽動の目的は達成` is local noisy-objective judgment; Toki's `お待ちしておりました` says she expected the seniors.
+- **Quarantine:** scene 1 `u:0003` Himari label says her own name, `u:0028` Rio label addresses “Rio-sama,” `u:0040-0041` has role/voice tension, and `u:0049-0051` duplicates/flips Midori around Hare's report. `choice:002` has two alternatives; Sensei `u:0055` is inward. Alice's silence at `u:0035` precedes a cut to the rescue party and cannot put her among them.
