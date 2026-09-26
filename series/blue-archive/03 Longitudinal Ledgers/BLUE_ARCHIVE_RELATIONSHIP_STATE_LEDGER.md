@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -457,3 +457,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 ## MAIN_V002_C001 checkpoint relationship reconciliation
 
 The club's shared work and room become a conditional home for Alice and Yuzu; the apparent ranked loss exposes their distinct separation risks before the special prize preserves co-presence for now. Yuuka changes from gatekeeper/opponent to apologetic conditional administrator, not an unrestricted ally. Nel's independent interest, non-pursuit and “see you again” remain charged/ambiguous, not friendship or romance. Sensei is a support possibility, but E020 Schale placement was internal and unacted. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs; do not transfer audience-only `Divi:Sion` text into the group's relationships.
+
+## V002 C002 E001 relationship delta — truce collapses over Alice
+
+- **RIO ↔ HIMARI:** both testify to planning the prior Mirror/C&C test, but Himari explicitly corrects Rio's `同盟` to `休戦`. Their opposed interpretations of Alice end cooperation; Rio attempts detention and Himari evades AMAS. This is a changed tactical relationship, not evidence they were friends or that the full prior operation was consensual for Alice/club.
+- **RIO/HIMARI ↔ ALICE:** both classify the absent Alice through inherited terms, but one “weapon” and one “cute junior” reading collide. Alice does not hear them and her own bonds/choices are not overwritten by either researcher's label.
+- **HIMARI ↔ unknown C&C figure:** her interrupted `5番目のC&C` guess follows apparent escape. It is not a confirmed identity, encounter result or new named relationship.

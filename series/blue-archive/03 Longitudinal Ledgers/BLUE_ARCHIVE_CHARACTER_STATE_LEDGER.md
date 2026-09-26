@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -520,3 +520,12 @@ No new indexed subject or unit-level readiness promotion (sixteen `PARTIAL_MODEL
 ## MAIN_V002_C001 checkpoint character reconciliation
 
 [The canonical chapter checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) promotes Momoi, Midori, Alice, Yuzu and Yuuka to narrowly scoped `PARTIAL_MODEL` on distributed evidence, for **21 partial / 16 unmodeled** tracked subjects. Momoi's creative/belonging commitment is complicated by shortcuts and rashness; Midori's restraint coexists with raid participation; Alice's learning and protection coexist with dangerous misreadings and fear; Yuzu's action occurs with, not without, fear; Yuuka's evidentiary revision remains procedural and temporary. No standalone model, frozen prediction, or operational/validated readiness follows. All E001–E020 unit-level states remain historically fixed; later evidence must not be read backward.
+
+## V002 C002 E001 delta — covert classifiers enter direct evidence
+
+- **Rio:** first direct speech in this chapter asserts a recordless secret meeting, says she supplied C&C as a prior Alice-test crisis, agrees to research classifications, interprets Alice as an existential weapon by strong context, terminates collaboration and attempts to detain dissenting Himari. Her world-ending forecast and database claim are not externally verified; the `AMAS A` threat line is label-quarantined.
+- **Himari:** says she supplied Mirror for the joint test, uses conspicuous humorous self-styling, corrects “alliance” to truce, argues for Alice as a junior and anticipates Rio's detention attempt. AMAS stops after a hack/lighting interruption and she apparently escapes, then meets someone she guesses is fifth C&C. The encounter outcome is not shown.
+- **Alice:** is absent and not shown receiving the rival origin/threat classifications. Neither researchers' shared terms nor the unlabeled “weapon/junior” narration becomes her memory, proven ontology or new action evidence.
+- **C&C/Nel:** the earlier C&C crisis has newly disclosed co-planner testimony; it does not retroactively turn Nel's independent E019 test into an order or prove every defender's knowledge.
+
+Rio and Himari enter the index as `UNMODELED`, yielding 21 `PARTIAL_MODEL` / 18 `UNMODELED` across 39 tracked subjects. No existing readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

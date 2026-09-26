@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E020 checkpoint canonical; C002 E001 unopened
+current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1286,3 +1286,13 @@ No `BA-C019` is opened by E020 alone. Official special award, provisional counci
 [The canonical V002 C001 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) re-adjudicates all eighteen inherited claims without importing C002. `BA-C001`/`BA-C002` narrow: adult care matters but student making and council/jury response are more causally decisive here than an Abydos-style adult rescue. `BA-C005`/`BA-C006` remain rejected. `BA-C007`, `BA-C010`/`BA-C011` and `BA-C015`–`BA-C017` are pressure-tested by voluntary membership, decoy use, danger, audience exposure and a temporary reprieve; no morally pure outcome is asserted. `BA-C008` remains branch-bounded, `BA-C009` stays Prologue-scoped, `BA-C012`–`BA-C014` and `BA-C018` remain Volume 1 scoped without direct global retest.
 
 **`BA-C019` — OPEN NEW, strong chapter-local formulation:** Creative value has plural, non-substitutable tests. Collective making, a player's situated experience, public response, jury recognition and secure institutional belonging affect one another but cannot be collapsed into one metric or guaranteed shortcut. E005/E018 give Alice/Yuzu's reception accounts; E019 supplies actual publication and mixed first comments; E020 supplies a judge's `特別賞` under expanded `実用性` and Yuuka's merely `臨時の猶予`. This is not a universal claim that creative love assures quality or that every special prize should waive rules. Forward test: later evidence may strengthen, narrow or reject the proposed distinction. Side-source backfill remains **DEFER** until the complete Pavane arc. No frozen prospective character prediction exists (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E001 claim transitions — covert test disclosed to audience
+
+- **BA-C001–C004, C007, C010–C011: PRESSURE-TEST** — Rio's secrecy, staged C&C crisis and detention attempt put her protective/rationalizing claims in tension with Alice's and Himari's agency. Himari also supplied Mirror and hacked security; neither speaker's self-interpretation settles legitimate means.
+- **BA-C005–C006: PRESERVE REJECTED** — no Sensei action occurs, and the covert planners did not author the club's game or every student decision.
+- **BA-C008–C009: NO DIRECT TEST** — no Sensei choice or Shittim relational-system scene occurs; Alice-classification language is separately bounded.
+- **BA-C012–C014, C018: PRESERVE / NO DIRECT TEST** — no Kaiser/restaurant evidence. **BA-C015–C017: LIMITED MILLENNIUM TEST** — crisis design and proposed containment sharpen recipient-agency/proportionality questions but do not rewrite Abydos history.
+- **BA-C019: REVISE / COMPLICATE** — the chapter's creative-value and institutional-belonging distinction survives, but a separate hidden safety/origin classification threatens the room's apparent security. This unit does not validate either “weapon” or “junior” as complete ontology.
+
+No new claim ID yet. Rio/Himari's former co-planning is direct participant testimony; their classification terms, Rio's world-ending reading and Himari's fifth-C&C guess remain bounded. Club/Sensei knowledge is unchanged. Contextual backfill **DEFER**; no frozen prospective character prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

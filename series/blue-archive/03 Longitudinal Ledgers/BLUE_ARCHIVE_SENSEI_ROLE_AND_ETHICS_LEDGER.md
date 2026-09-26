@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -616,3 +616,7 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 ## MAIN_V002_C001 checkpoint Sensei/ethics reconciliation
 
 Sensei's student-requested help, bounded options, exposure to raid accountability, carrying offer and internal Schale refuge thought do not make them the product's author or sole rescuer. Nel's master-planner attribution is adversarial inference; E013 student/coalition planning stands. The final result comes from student work, a judge's exceptional recognition and Yuuka's conditional council decision. Preserve branch-conditioned tones and unheard thoughts separately. Sensei stays `PARTIAL_MODEL` with no operational rule or prospective test; Yuuka's Schale-complaint threat remains unresolved. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs this boundary.
+
+## V002 C002 E001 delta — absent teacher and covert conditions
+
+Sensei has no appearance, choice, speech or represented knowledge of Rio/Himari's secret meeting. Their retrospective claim that they supplied Mirror/C&C test conditions revises the audience's view of C001's threat architecture, not Sensei's observed choices or information at that time. Rio's attempt to detain Himari creates an adult/authority question for later source, but this unit does not let Sensei respond. No Sensei readiness change, standalone model or prospective adjudication (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).

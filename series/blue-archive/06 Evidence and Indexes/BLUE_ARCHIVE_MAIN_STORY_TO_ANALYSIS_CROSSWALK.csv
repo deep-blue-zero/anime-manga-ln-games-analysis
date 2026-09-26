@@ -61,7 +61,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 60,BA:main:002:001:018,MAIN_V002_C001_E018,時計じかけの花のパヴァーヌ,第18話;G.Bible,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E018_DEEP_READING.md
 61,BA:main:002:001:019,MAIN_V002_C001_E019,時計じかけの花のパヴァーヌ,第19話;ダブルオー,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E019_DEEP_READING.md
 62,BA:main:002:001:020,MAIN_V002_C001_E020,時計じかけの花のパヴァーヌ,第20話;ミレニアムプライス,5,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C001_E020_DEEP_READING.md
-63,BA:main:002:002:001,MAIN_V002_C002_E001,時計じかけの花のパヴァーヌ,第1話;密やかなる会談,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+63,BA:main:002:002:001,MAIN_V002_C002_E001,時計じかけの花のパヴァーヌ,第1話;密やかなる会談,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E001_DEEP_READING.md
 64,BA:main:002:002:002,MAIN_V002_C002_E002,時計じかけの花のパヴァーヌ,第2話;ゲーム開発部の平凡な日常,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 65,BA:main:002:002:003,MAIN_V002_C002_E003,時計じかけの花のパヴァーヌ,第3話;～アリス、冒険を始めます！～,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 66,BA:main:002:002:004,MAIN_V002_C002_E004,時計じかけの花のパヴァーヌ,第4話;～アリスと導かれる者たち～（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

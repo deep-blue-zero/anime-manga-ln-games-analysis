@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -605,3 +605,10 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 ## MAIN_V002_C001 checkpoint motif reconciliation
 
 The locked-secret sequence repeatedly exchanges access for a fresh limit until Bible's maxim returns the makers to labor and audience. Game fantasy is not mere escape: it gives Alice language, friends and a way to tell the creators what their work means, while also producing misreadings and risky action. Clubroom-home moves from shared play through combat-protection to provisional council extension. The special prize broadens `実用性` without making creative worth identical to ranked victory or permanent security. A separate 98%-restoration stinger interrupts celebration with audience-only uncertainty. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs.
+
+## V002 C002 E001 motif / callback delta — two definitions behind the celebration
+
+- **Secret cooperation reclassified:** Mirror and C&C are now named by their covert suppliers as a staged Alice test. The Chapter 1 club's game-making ordeal was real to its participants; the audience newly sees another layer of instrumental design, without erasing student authorship.
+- **Princess / weapon / junior:** shared mythic classification turns into incompatible practical meanings. Rio's threat reading and Himari's junior framing make Alice's C001 chosen belonging ethically salient but do not prove safety or danger.
+- **Rationality and performative play:** Himari uses exaggerated humor while anticipating arrest and hacking security; Rio literalizes a joke while keeping secret records and preparing force. Neither register alone certifies ethical or technical superiority.
+- **Home versus containment:** E020's provisional clubroom welcome is followed by a covert plan to classify/possibly contain Alice. The audience knows this conflict before the club does; the narrative creates suspense through unequal information, not through a revoked prize.

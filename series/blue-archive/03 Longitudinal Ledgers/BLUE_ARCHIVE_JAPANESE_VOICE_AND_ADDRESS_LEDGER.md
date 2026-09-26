@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:020; MAIN_V002_C001 is latest canonical checkpoint; BA:main:002:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:001; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -860,3 +860,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 ## MAIN_V002_C001 checkpoint language reconciliation
 
 `ゲームを愛しなさい` is artifact rhetoric, not a development algorithm; Alice's `面白い`/`夢` and Yuzu's audience-completion speech are situated personal reception; judge `実用性`/`特別賞` and Yuuka `臨時の猶予`/`保留` are institutional distinctions. Preserve `先生（心の声）` separately from audible direction, and branch-conditioned replies separately from simultaneous dialogue. E013–E020 role-flip clusters remain quarantined for individual voice even where event sequence is secure. Final `データ復旧率98.00％`/`Divi:Sion`/`AL-1S` text is unattributed. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs; no clean full-character Japanese register model exists.
+
+## V002 C002 E001 delta — opposed rationality and source-label limits
+
+- Himari's recurring `超天才清楚系病弱美少女` is performative self-styling; Rio's literal `貴女は私の姉ではない` answers a joke she does not accept. The exchange reveals a local interpretive mismatch, not a whole-person humor incapacity or medical proof.
+- Rio's `万全`/`機密`/`非合理的` are her official risk-management terms. Himari's `同盟ではなく、休戦` corrects the relationship label and limits claims of shared loyalty.
+- `鏡` as `手段` and C&C as `危機` are retrospective co-planner words. `無名の司祭`, `オーパーツ` and `名もなき神々の王女` are reported classificatory terms, not verified biography.
+- **Quarantine:** `世界を終焉に導く兵器` and `『かわいい後輩』ですよね♪` are separate unlabeled narration at `u:0042-0043`; the following dispute strongly suggests opposed Rio/Himari meanings but not exact printed speaker voice. `AMAS A`'s `u:0055` first-person detention line is Rio-like, not secure AMAS agency or Rio quotation. Rio's parenthetical `u:0061-0063` is interior inference about hack timing. Himari's `5番目のC&C` is interrupted guess, not confirmed membership.
