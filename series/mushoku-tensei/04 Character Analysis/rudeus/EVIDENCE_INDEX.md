@@ -1,18 +1,18 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V04"
+title: "Rudeus — reconstruction evidence routes through V05"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "56e1daa4bdc287cb9f2f3e4abbbea30be494628d"
-source_boundary: "Japanese LN V01–V04; retained V03 routes plus V04 model revision, publication/audit separate."
+basis_commit: "f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e"
+source_boundary: "Japanese LN V01–V05; preserved model history with V05 diagnostic revision1.2; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
@@ -50,3 +50,19 @@ Numbers resolve in [V04](../../02%20Sequential%20Readings/MT_V04_DEEP_READING.md
 | 009 / ordinary register | 012,014,018,020,022 | Comic hierarchy, identity performance, care and mild resentment; F008/F010/F013. |
 
 Later-source checks followed a frozen V03 rule set, but no specific outcome prediction or clean holdout is claimed. The model, not this index, owns the changed operational scope.
+
+
+## V05 additions for revision1.2
+
+The original tables remain source-era routes. New numbers resolve in [V05](../../02%20Sequential%20Readings/MT_V05_DEEP_READING.md); current cumulative interpretation is in the [checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md).
+
+| Rules / tests | V05 observations | Constraint |
+| --- | --- | --- |
+| 001; V12 | 001–003,012,016,018,021–022 | Ability, interpretation and support distinct; recognition errors despite technical skill. |
+| 003/009; V13 | 002,007,011,021,025 | Prompt rescue, transparent reunion and concealed status fiction are different uses of performance; C009/C011. |
+| 004/005; V14–15 | 007–013,015,025 | Rational apology versus bodily incapacity; care supports repair; later outburst and women misreading defeat global change. |
+| 007/008; V16 | 012–015,017,020–022 | Asked-for choices and resources, independent Eris information, incomplete trust/knowledge. |
+| 002/006; V17 | 012,018,021 | Reported teaching or a different customs trap is not a new equivalent test of tutoring/flood rule. UNTESTED in those domains. |
+| New states / ordinary | 001,007–015,020–025 | S047–049, ST09–11; meals, clothing, letters and professional courtesy supply bounded context. |
+
+No source-era test ID is renumbered. Revision1.2 adds six diagnostic checks, no registered prediction score. Later source knowledge remains unavailable in earlier selectors.

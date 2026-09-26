@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -128,3 +128,33 @@ Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanes
 | `MT-R-054` Luke → Fitts / court → trio | Luke offers practical comfort/help but fails ally during unwanted invitation; gossip becomes strength recognition after attack. | `023–026`; recognition does not end danger or establish fair hierarchy. |
 
 Missing-family/Sylphie relationships receive no invented current events. Boreas servitude is now questioned, not established as uniformly supplied by abduction. The extra's alias remains separate from any unverified earlier name.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / options | Observation and limit |
+| --- | --- | --- |
+| `MT-R-055` Rudeus → Paul | Entertaining account, accusation and retaliation → receives care, initiates reenacted reunion, accepts options and aid. | `007–012`; actual omissions and false inferences differ; later broad excuse is not the analyst's verdict. |
+| `MT-R-056` Paul → Rudeus | Assumes knowledge and capacity, strikes → listens/apologizes, supplies money, options and warning. | `006–007,009,011–014,020`; repair does not prove permanent reform. |
+| `MT-R-057` Paul ↔ Norn / Norn → Rudeus | Bodily care and attachment; daughter protects father and refuses brother despite pressure. | `004–007,015,020`; her experienced history differs from the men's shared account. |
+| `MT-R-058` Eris → Rudeus | Protective rage, awkward comfort and disagreement with forgiveness; independent information unshared. | `008,013,017`; care does not give a veto over his relationships. |
+| `MT-R-059` Rudeus → Eris | Accepts hunt, credits comfort, states respect for refusal, discloses Fittoa loss, permits meal with a condition. | `002,012–015,020`; intention is not durable consent practice; she may disagree. |
+| `MT-R-060` Ruijerd → party / old friend → Ruijerd | Listens, directs care and restrains Eris; old rescue becomes a letter and welcome. | `008,013–014,021`; extent of force partly unknown; friendship is not an institutional solution by itself. |
+| `MT-R-061` Geese → Paul/Rudeus | Corrects father, reports jail rescue plan, continues search. | `009,020`; omitted news and jinx motives remain partial. |
+| `MT-R-062` Vera → Shela / Rudeus → women | Diverts attention and shields; Rudy apologizes for infidelity accusation yet misreads gaze/fear. | `010`; practical care and continuing distress are not sexual availability. |
+| `MT-R-063` Shela/Vera/Alphonse → search/family | Funds, schedules, refugee help and resources expand options. | `005,010,014–015`; collective work is not Paul's sole achievement. |
+| `MT-R-064` Zenith/Lilia/Paul → Sylphie; women ↔ household | Reported teaching and negotiated domestic terms. | `012`; past report, not current encounter or proof of coercion's necessity. |
+| `MT-R-065` party → village / village → party | Effective hunt and publicity offer; thanks given but figurine and religious acceptance refused. | `016`; personal gratitude does not entail general reform. |
+| `MT-R-066` Eris ↔ Cliff | Intervenes, strikes, judges coordination, refuses proposal; Cliff admires and misreads. | `018–019`; refusal is unambiguous; talent grants no entitlement. |
+| `MT-R-067` Eris ↔ Therese | Child rescue with knight assistance; misread credit creates personal gratitude. | `019,022`; heroic appearance conceals fear and support. |
+| `MT-R-068` Therese → party | Jurisdiction, kinship and debt win passage and medicine; demon prejudice and uncomfortable handling remain. | `021–022`; exception helps without universal acceptance. |
+| `MT-R-069` Roxy ↔ parents | Spoken welcome doubted; tears/shared hug change immediate departure. | `023`; communication difference unchanged; three-day stay is not permanent repair. |
+| `MT-R-070` Roxy → pupil/missing people / companions | Corrects missed identity, values pupil, prioritizes remaining search with others. | `024`; embarrassment and biased praise coexist with care. |
+| `MT-R-071` Gustav → client | Accepts paid inquiry, delivers false certainty, recognizes error but withholds repair. | `026–028`; later harm announced, precise consequence not yet known. |
+| `MT-R-072` Ariel ↔ officials | Voice/presence restore loyalty; shared cover permits risky discretion; guards join. | `026`; official testimony idealizes, no impartial reform proved. |
+| `MT-R-073` Fitts ↔ guards/wards | Support magic protects wards; allies die protecting caster. | `027`; power is not invulnerability, witness's identity inference fails. |
+| `MT-R-074` Rudeus → Randolph / Shagall → Randolph | Excessive criticism followed by unseen business closure and recruitment. | `025`; shame visible, later career benefit unestablished. |
+
+The repaired father–son relation does not transfer automatically to Norn, Eris or the women present. Missing relatives retain prior independent stakes; no offstage consent, romance or identity is invented.

@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -130,3 +130,29 @@ Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanes
 | `MT-W-010` NEW | Court patronage places supporters in armed institutions; class rumor, legal pardon and obstructed inquiry shape survival. | `023–026`; represented strategy not success of future reign or complete political system. |
 
 Existing ledger homes remain sufficient; C013 and the Eris model add bounded responsibilities without new comparison/reception lanes. V05 checkpoint must examine whether usefulness/belonging or viewpoint merits an independent specialist, with source-grounded scope rather than predetermined themes.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Pattern / transition | V05 mechanism | Observations / limit |
+| --- | --- | --- |
+| `MT-F-001/009` STRENGTHEN | Paul's history precedes quarrel; women's reason known only to reader; Eris's day returns; embedded testimony has limited identity access. | `004–010,017–019,023–028`; alternate view is not global truth, final falsehood is explicit. |
+| `MT-F-002/007` REVISE | First encounter and reunion separated; week of aftermath resists closure; side episodes reorder elapsed time. | `007–020,023–028`; source order is not a day-exact chronology. |
+| `MT-F-003` REVISE | Notices, funds, customs, dual office and border delay regulate movement. | `005,014,017,021–022,026`; movement is not freedom or arrival home. |
+| `MT-F-004/005` STRENGTHEN | Shared routine, administrative care, teacher-specific skill and mutual defense make others' work causal. | `001,005,008–015,018–019,024,027`; gifts and aptitude remain real. |
+| `MT-F-006` REVISE | Disguise, meal, Cliff violence and food outburst use different comic frames around serious care/cost. | `003,015,018,025`; no universal reader response or author verdict. |
+| `MT-F-008/010/011` REVISE | Shared reenactment permits disclosure; rank fiction can fail; notices withheld through trust; inquiry closes prematurely. | `007,011,017,021,026–028`; scripts are not inherently manipulative, consultation is not omniscience. |
+| `MT-F-012` STRENGTHEN | Prompt rescue versus failed publicity; intended Superd credit misread as modesty. | `002,016,019`; gratitude has recipient-specific meaning. |
+| `MT-F-013` STRENGTHEN | Talented son, pupil reputation, novice rank and lost vocation test usefulness/belonging. | `006,012,017–018,024–025`; Norn, parents and comfort counter an exclusively transactional account. |
+| `MT-F-014` REVISE | Foresight works tactically and mundanely but does not provide identity/institutional understanding. | `003,015,021`; prediction is not omniscience. |
+| `MT-F-015` NEW | Embodied recognition through sick withdrawal, father's hands/tears, Eris's embrace and Roxy's parents. | `008,011,023`; bodily care enables local repair, not a universal nonverbal cure. |
+| `MT-F-016` NEW | Inquiry form separates testimony, inference, contradiction and chosen noncorrection. | `026–028`; C014 remains a working account, source explicitly labels false information. |
+| `MT-W-001/005` REVISE | Spell rank versus coordination, first human combat, status revealed in cook extra. | `018–019,025,027`; observed skill is not universal hierarchy proof. |
+| `MT-W-003/008/009` STRENGTHEN | Religion, slave property and tariffs constrain care; telepathy remains absent despite family recognition. | `005,016,021–024`; personal exception is not reform. |
+| `MT-W-006/010` REVISE | Actual family news, independent search and Ariel escape evidence add knowledge without settling fates. | `007,012,020,024,026–028`; future political effects withheld. |
+| `MT-W-011` NEW | Millis church factions/orders, split customs authority and jurisdiction create conflict/remedy. | `016,019,021–022`; local reports do not supply a complete constitution. |
+| `MT-W-012` NEW | Information work has clients, territorial limits, payment and correction costs. | `026–028`; one investigator does not represent all professionals. |
+
+The first cumulative checkpoint now owns the comparison across volumes. No overlapping standalone specialist is created merely for these themes; reconsider when an independent argument or role gap is earned. New bounded Paul/Ruijerd/Roxy models own operational rules, not these form/world patterns.

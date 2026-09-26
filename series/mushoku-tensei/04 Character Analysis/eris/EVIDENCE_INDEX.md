@@ -1,18 +1,18 @@
 ---
-title: "Eris — reconstruction evidence routes through V04"
+title: "Eris — reconstruction evidence routes through V05"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "56e1daa4bdc287cb9f2f3e4abbbea30be494628d"
-source_boundary: "Japanese LN V01–V04, direct Eris evidence V02–V04; first bounded model index, publication/audit separate."
+basis_commit: "f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e"
+source_boundary: "Japanese LN V01–V05; preserved model history with V05 diagnostic revision1.1; publication/audit separate."
 ---
 
 # Eris evidence routes
@@ -32,3 +32,18 @@ Local key Eris, LN_JP; global entity/subject IDs null. This index routes the [mo
 The [state](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md), [relationship](../../03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md), [claims](../../03%20Longitudinal%20Ledgers/MT_CLAIMS_AND_REVISIONS_LEDGER.md), [normative](../../03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md), [knowledge](../../03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md) and [form](../../03%20Longitudinal%20Ledgers/MT_FORM_THEMES_AND_WORLD_LEDGER.md) ledgers retain their respective ownership. Exact witnesses/maps are in the [source lock](../../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md).
 
 No clean holdout, independently confirmed hidden motives, later adult state or mature monograph is claimed. All model tests are retrospective; prior franchise exposure remains excluded as evidence.
+
+
+## V05 additions for revision1.1
+
+New numbers resolve in [V05](../../02%20Sequential%20Readings/MT_V05_DEEP_READING.md); [checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns cumulative comparison.
+
+| Rules / tests | V05 observations | Countercase / owner |
+| --- | --- | --- |
+| 001/006; V06 | 017–019 | Practical transfer, independent adventure, composure despite fear; forest mistake remains. |
+| 002/005; V07 | 008,013,015,019–020 | Care, retaliation, refusal and persistent distrust distinct; S053–054. |
+| 003; V08 | 013,017–018 | Saw notices but assumed Rudy knew; trust suppresses sharing, not lack of knowledge. |
+| 004; V09 | 018–019 | Cliff encounter does not validate peer-friendship repair rule; no new matching opportunity. |
+| Ordinary / autonomy | 001–002,015,017–020,022 | Dress, food, ambition, refusal, teachers and independent debt; more than protagonist attachment. |
+
+V05 adds focalized interior access without making Rudeus's earlier readings omniscient. Four new diagnostic checks retain initial retrospective history; none is a clean holdout.

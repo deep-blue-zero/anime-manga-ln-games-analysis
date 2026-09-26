@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -147,3 +147,43 @@ Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanes
 **`MT-NC-016`:** N022 → N045: Eris's excessive retaliation compared with nonviolent mentor defense and partly moderated peer fight. Changed relation and actual actions matter; not all violence gone.
 
 **`MT-NC-017`:** N016/N017/N039/N048: unwanted conduct, limited permission and dependent care recur across actors; affected-person access and comic framing differ. Neither gender nor protagonist status supplies a different consent rule. No overall endorsement or audience-effect claim.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Event / observations | Conduct, knowledge, power and framing | Criterion / strongest limit |
+| --- | --- | --- |
+| `MT-N-050` / `002–003` | Prompt child aid after bad experience, refusal to hear and misidentified rescuers; comic disguise. | Duty to aid and fair hearing both apply; no engineered delay, no automatically justified force. |
+| `MT-N-051` / `004` | Paul confirms old assault and retaliatory motive, recalls remorse. | Bodily autonomy/agency; younger-self label is no excuse, current service no cancellation. |
+| `MT-N-052` / `005–006` | Dependent child's care and collective rescue using privilege/force, deaths/opposition, later neglect. | Effective care credited; legal ownership is not moral consent; method criticism retained. |
+| `MT-N-053` / `007` | Father assumes knowledge, strikes first; son retaliates excessively; Norn intervenes. | Asymmetric initiation and mutual excess; grief/talent do not justify force. |
+| `MT-N-054` / `008,013` | Eris threatens revenge, Rui intervenes and causes bruise; comfort helps. | Proportionate force/care; exact restraint unseen, gendered duty and chosen concern coexist. |
+| `MT-N-055` / `009,011` | Mediation, rest, care and shared reenactment enable mutual repair. | Informed participation differs from manufactured danger; no universal forgiveness. |
+| `MT-N-056` / `010` | Survivor history accessible to reader; women work/protect, Rudy misreads and polices dress, men ignore discomfort. | Noncoercive attention/recognition; Paul's recovery appraisal is not proof, no diagnosis. |
+| `MT-N-057` / `012` | New refusal-respecting resolve, reported negotiated household and education. | Intention is not persistence; later arrangement is not retroactive consent or necessity proof. |
+| `MT-N-058` / `015,020` | Norn/Eris refusals remain after meal; father presses unity through fear. | Third parties' agency; time may help, without a guarantee. |
+| `MT-N-059` / `018` | Eris intervenes then excessively hits Cliff; adult stops worse; she accepts reckless provocation. | Proportionality; comedy can lighten attention but does not erase action. |
+| `MT-N-060` / `019` | Eris's first lethal rescue needs knight; fleeing attacker also killed; public calm/private fear. | Threat-specific necessity; bravery does not justify every killing. |
+| `MT-N-061` / `016,021–022` | Thanks and valid letter fail to gain general acceptance; personal obligation wins an exception. | Equal treatment; real help without institutional reform; forgery problem does not excuse categorical hostility. |
+| `MT-N-062` / `022` | Affectionate familial handling uncomfortable to Rudy; medicine improves Eris's options. | Welcome touch and care dependency differ; biological theory remains self-report. |
+| `MT-N-063` / `023–024` | Parents' care perceived through tears; Roxy admits missed meeting, then chooses further search. | Particular recognition without cure/pure-motive claims; nostalgia does not exonerate Nokopara. |
+| `MT-N-064` / `025` | Rudy abuses cook using status, companions remove him, he regrets; owner's view shows business loss. | Proportionality/repair; critique content does not license humiliation, later benefit unproved. |
+| `MT-N-065` / `026–028` | Official risks aid, guards die in protection; investigator recognizes false claim then chooses noncorrection. | Particular loyalty is not impartial justice; known error creates a distinct repair responsibility. |
+
+**`MT-NC-018`:** N027/N043/N050: delayed rescue versus immediate aid; promptness does not guarantee knowledge. C011 remains sensitive to the sequence of decisions.
+
+**`MT-NC-019`:** N042/N048/N052–055: warrior, patron and capacity burdens versus concrete care. Different powers and urgencies retained; C012/C013.
+
+**`MT-NC-020`:** N039/N046/N055–057/N064: particular restraint, new resolve and family repair versus other misconduct. No moral balance sheet or general cure; C002.
+
+**`MT-NC-021`:** N026/N030/N061: personal service and scapegoat recognition versus religious/official exclusion; benefit does not equal group acceptance.
+
+**`MT-NC-022`:** N010/N027/N055: concealed staging/delay versus mutually requested reunion. Performance alone cannot define coercion; C009.
+
+**`MT-NC-023`:** N053/N063/N065: missed facts, resisted recognition and knowingly uncorrected error require different responsibility judgments; C003/C014.
+
+**`MT-NC-024`:** N022/N045/N054/N059–060: Eris's loyalty, partial restraint, care, retaliation and defense operate under different conditions. No always-violent or always-justified rule.
+
+Criteria remain analyst judgments, separate from character law, narrator comedy, author intention or reception. No explicit sexual reconstruction or simulated scenario involving minors is used.

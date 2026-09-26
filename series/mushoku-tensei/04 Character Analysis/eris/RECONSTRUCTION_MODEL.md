@@ -1,18 +1,18 @@
 ---
-title: "Eris — bounded Japanese LN reconstruction through V04"
+title: "Eris — bounded Japanese LN reconstruction through V05"
 artifact_id: MT_ERIS_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "56e1daa4bdc287cb9f2f3e4abbbea30be494628d"
-source_boundary: "Japanese LN V01–V04; Eris evidence V02–V04; first bounded model prepared in V04 transaction, publication/audit separate."
+basis_commit: "f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e"
+source_boundary: "Japanese LN V01–V05; preserved model history with V05 diagnostic revision1.1; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
@@ -20,11 +20,11 @@ recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 
 This model is **BOUNDED_PROVISIONAL**, not a complete persona, diagnosis or mature monograph. It owns operational rules; the [evidence index](EVIDENCE_INDEX.md) routes canonical observations and the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns observed transitions. Local key `Eris`, continuity `LN_JP`, `character_entity_id: null`, `analysis_subject_id: null`. No global enrollment is implied.
 
-The source boundary is the locked Japanese V01–V04 corpus, with direct Eris evidence in V02–V04 and inspected illustrations used only as presentation evidence. Input was final audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`; this containing commit establishes subsequent publication. No later LN, WN, adaptation, performed voice, reception or remembered future supplies evidence. Prior familiarity persists. All tests here are retrospective fitting after V04, not blinded prediction.
+The source boundary is the locked Japanese V01–V05 corpus, with direct Eris evidence in V02–V05 and inspected illustrations used only as presentation evidence. Initial input was final audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`; revision1.1 uses final audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e` plus V05. The containing commit establishes subsequent publication. No later LN, WN, adaptation, performed voice, reception or remembered future supplies evidence. Prior familiarity persists. Initial V04 tests were retrospective fitting; V05 checks follow fixed rules but remain contaminated by prior familiarity, not blinded prediction.
 
 ## Scope and states
 
-Eris's initial resistance, later chosen practice, gift initiatives, refusal, displaced vulnerability and new friendships support a constrained model across more than one task and relation. V04 makes independent peer teaching and repair visible, but one extended friendship cluster does not establish a stable response with every peer. The available interiority remains largely mediated by Rudeus and her speech. An inference about what she wants must not be turned into a verbatim thought.
+Eris's initial resistance, later chosen practice, gift initiatives, refusal, displaced vulnerability and new friendships support a constrained model across more than one task and relation. V04 makes independent peer teaching and repair visible, but one extended friendship cluster does not establish a stable response with every peer. Earlier interiority was largely mediated by Rudeus and her speech. V05 adds focalized desire, fear and appraisal in an independent day; inferred motives outside that access still cannot become verbatim thoughts.
 
 | Selector | Applicable conditions | Observed state route / knowledge limit |
 | --- | --- | --- |
@@ -32,6 +32,8 @@ Eris's initial resistance, later chosen practice, gift initiatives, refusal, dis
 | `MT-EM-ST02` | V02 later learning, gifts and particular boundaries; respect for teachers and chosen reciprocity. | S012; V02:009,011–014. Affection and the future promise do not remove the right to refuse. |
 | `MT-EM-ST03` | V03 through V04 port/crossing: displacement, dependence, training, language practice, attachment and uneven participation. | S025–026/S038; V03:002,008–009,012,019–020; V04:001,003–004,008. Spoken language distinct from literacy; illness temporarily changes options. |
 | `MT-EM-ST04` | V04 village and departure: meaningful peer ties, teaching initiative, defended mentor, moderated but continuing violence. | S039; V04:016,018,021–022. Thirteen, soon fourteen; no later birthday or adult relationship state assumed. |
+| `MT-EM-ST05` | V05 independent hunt, Cliff conflict and first human killing. | S053; sees notices but assumes Rudy informed, applies several teachers' lessons, conceals fear. |
+| `MT-EM-ST06` | V05 care, disagreement over Paul, meal, passage and continued travel. | S054; values Rudy while resisting his father, creates independent reciprocal debt to Therese. |
 
 These selectors index conditions rather than create a second chronology. Travel fear does not erase learned skills; high sword competence does not imply literacy, cooking or perfect emotional regulation. Knowledge of family disaster beyond what she receives is unavailable.
 
@@ -41,12 +43,12 @@ Evidence labels such as V04:016 refer to the canonical observations linked by th
 
 | Rule / states | Trigger and relation | Supported appraisal, motive conflict and response range | Countercase, limit and discriminating observation |
 | --- | --- | --- | --- |
-| `MT-EM-001` / ST01–04 | A task becomes understandable through bodily demonstration, practical use or trusted repeated instruction. | Can persist intensely, return after frustration and apply an existing skill to a new task; valued competence and teacher attachment can sustain effort. | V02:006–011; V03:019–020; V04:001,003–004,018,022. Sword/dance and spoken language differ from literacy/magic. Failure despite available feedback would challenge automatic persistence; do not generate universal academic ability. |
-| `MT-EM-002` / ST01–04 | A valued person is threatened, demeaned or treated unjustly; her practical ability to act is salient. | Often intervenes directly and forcefully. Loyalty can compete with proportionality; later respect for the person defended or attachment to a friend can inhibit a blow or reduce its severity. | V03:008,012; V04:001,015–016,021. V04 nonviolent Ghislaine defense defeats always-hits; guild excess defeats generally-reformed. What reason is actually supplied for restraint matters; no invented hidden principle. |
-| `MT-EM-003` / ST02–04 | A trusted companion offers care or appears capable under displacement, illness or uncertainty. | Can accept help, express fear/need, defer a practical decision and also demand reassurance or overestimate the companion. Familiarity need not produce informed agreement. | V02:012,014; V03:008–009,012,019; V04:004,008. Her useful advice and refusals defeat passive dependency. A stated doubt or independent plan must remain possible; confidence in Rudy is not full access to his motives. |
+| `MT-EM-001` / ST01–06 | A task becomes understandable through bodily demonstration, practical use or trusted repeated instruction. | Can persist intensely, return after frustration and apply an existing skill to a new task; valued competence and teacher attachment can sustain effort. | V02:006–011; V03:019–020; V04:001,003–004,018,022. Sword/dance and spoken language differ from literacy/magic. Failure despite available feedback would challenge automatic persistence; do not generate universal academic ability. |
+| `MT-EM-002` / ST01–06 | A valued person is threatened, demeaned or treated unjustly; her practical ability to act is salient. | Often intervenes directly and forcefully. Loyalty can compete with proportionality; later respect for the person defended or attachment to a friend can inhibit a blow or reduce its severity. | V03:008,012; V04:001,015–016,021. V04 nonviolent Ghislaine defense defeats always-hits; guild excess defeats generally-reformed. What reason is actually supplied for restraint matters; no invented hidden principle. V05:008/013/018–020 adds care, excessive retaliation, defensive killing and continuing resentment; public calm may conceal fear, not prove regulation. |
+| `MT-EM-003` / ST02–06 | A trusted companion offers care or appears capable under displacement, illness or uncertainty. | Can accept help, express fear/need, defer a practical decision and also demand reassurance or overestimate the companion. Familiarity need not produce informed agreement. | V02:012,014; V03:008–009,012,019; V04:004,008. Her useful advice and refusals defeat passive dependency. V05:017 supplies the mechanism of a failed notice transfer: she knows relevant information but assumes he already has it. A stated doubt or independent plan must remain possible; confidence in Rudy is not full access to his motives or knowledge. |
 | `MT-EM-004` / ST04 only | Peer friendship provides shared activity and a chance to contribute. | Can initiate language teaching, value continued company, attempt explanation during conflict, partly moderate retaliation and eventually repair. Desire for friendship competes with anger and reluctance to apologize. | V04:018,021. One extended cluster, not independent replications; initiators of repair are the other girls, conversation only partly heard. Sustained refusal of valued peer contact under similar safe conditions would challenge extension. |
-| `MT-EM-005` / ST02–04 | Appreciation, a meaningful gift or a familiar boundary becomes explicit. | Can initiate reciprocal gifts/celebration, praise teaching and make particular choices about closeness; can also stop unwanted conduct and leave. | V02:008–009,012,014; V03:019–020; V04:004,008,018. Limited permission under care dependency is not unrestricted consent. Avoid treating either affection or defensive force as an unchanging default. |
-| `MT-EM-006` / ST01–04 | Wants a concrete answer, objects to a judgment, or asks to learn. | Written speech often states demands/refusals directly, repeats a simple evaluative term and grows emphatic under emotion. Hesitation, tears, quiet acceptance and private conversation also occur. | V02:007–009,014; V03:019; V04:004,016,021–022. Repeated emphatic praise while defending Ghislaine expresses commitment, not proof of complete reasons. No actor loudness/timbre or mechanical catchphrase rule. |
+| `MT-EM-005` / ST02–06 | Appreciation, a meaningful gift or a familiar boundary becomes explicit. | Can initiate reciprocal gifts/celebration, praise teaching and make particular choices about closeness; can also stop unwanted conduct and leave. | V02:008–009,012,014; V03:019–020; V04:004,008,018. Limited permission under care dependency is not unrestricted consent. Avoid treating either affection or defensive force as an unchanging default. |
+| `MT-EM-006` / ST01–06 | Wants a concrete answer, objects to a judgment, or asks to learn. | Written speech often states demands/refusals directly, repeats a simple evaluative term and grows emphatic under emotion. Hesitation, tears, quiet acceptance and private conversation also occur. | V02:007–009,014; V03:019; V04:004,016,021–022. Repeated emphatic praise while defending Ghislaine expresses commitment, not proof of complete reasons. No actor loudness/timbre or mechanical catchphrase rule. |
 
 ## Relationship conditioning and ordinary life
 
@@ -70,4 +72,16 @@ Reject outputs in which every choice serves Rudeus, all anger is defensive justi
 
 Task-sensitive learning, particular loyalties/refusal, ordinary travel behavior and written directness are BOUNDED_PROVISIONAL. Peer teaching/repair is narrowly provisional within ST04. General emotional regulation, unfamiliar politics, adult intimacy, clinical explanation and audiovisual performance are INSUFFICIENT_EVIDENCE. No domain is DOMAIN_READY.
 
-Version1.0 is the initial formulation. V05's cumulative checkpoint must compare new diagnostic opportunities, consider a substantial monograph only if its explanatory responsibilities are earned, and revisit whether Ruijerd/Roxy need separate models. Generated examples never become source evidence, and global curation remains separately owned.
+Version1.0 remains the initial formulation. The [V01–V05 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) performs the cumulative review, activates separate Ruijerd/Roxy/Paul models and retains the cross-volume literary argument there. Revision1.1 adds independent-day evidence without promoting general reliability. Generated examples never become source evidence, and global curation remains separately owned.
+
+
+## V05 diagnostic revision1.1
+
+| Test | Opportunity and result | Debt |
+| --- | --- | --- |
+| `MT-EM-V06` task/composure | Forest mistake followed by teacher-specific sensing/composure; superior sword skill still needs knight help (V05:017–019). |001 remains practical, not omniskill; visible calm does not prove lack of fear. |
+| `MT-EM-V07` loyalty/limits | Comforts Rudy, seeks revenge, submits reluctantly to meal and still distrusts Paul; refuses Cliff (008,013,015,019–020). |002/005 preserve separate agency and excessive force; forgiveness not contagious. |
+| `MT-EM-V08` trust/knowledge | Notices seen but not communicated because coordinator presumed informed (017). |003 strengthens overreliance mechanism; do not output ignorant Eris or omniscient Rudy. |
+| `MT-EM-V09` peer domain | Cliff conflict gives no replication of reciprocal friendship repair (018–019). |004 remains narrow ST04; new peer-repair transfer UNTESTED. |
+
+Her long-standing adventure wish, shopping choice and technical spell criticism are independent ordinary interests. The new internal account is especially useful where earlier outward posture was ambiguous. It does not erase the force used against Cliff or create general political expertise from saving a politically important child. Six rule IDs/five original tests remain; ST05–06 add conditions, not a rival event chronology. All readiness remains bounded, no adult state inferred.

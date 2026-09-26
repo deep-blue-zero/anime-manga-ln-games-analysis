@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V05 only; prior history preserved, V05 candidate updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -156,3 +156,41 @@ Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanes
 | Ghislaine and absent family/Sylphie | Prior readiness retained; Ghislaine's childhood newly reported, no current encounter. | No state inferred from unresolved identities, memories or absence. |
 
 Global IDs remain null; no curation enrollment, mature monograph or unqualified simulation readiness is claimed.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Event / local key | Prior → represented change / kind | Evidence and limit |
+| --- | --- | --- |
+| `MT-S-047` / Rudeus | Coordinating arrival → misidentified rescue/father fight, first whole-region disclosure. CONTEXT / KNOWLEDGE_CHANGE. | `001–003,007`; immediate duty and missed hearing coexist; actual information differs from Paul's assumption. |
+| `MT-S-048` / Rudeus | Hurt withdrawal → received care, embodied perspective reversal and particular reunion. RELATIONSHIP / KNOWLEDGE_CHANGE. | `008–013`; intellectual apology initially unusable; no general cure or durable consent proof. |
+| `MT-S-049` / Rudeus | Repaired dyad → revised search/return plan, partial empathy, later cook-directed outburst. PRACTICE / CONTEXT_CHANGE. | `010,012,014–016,020–022,025`; misreading and excessive authority persist. |
+| `MT-S-050` / Paul | V01 history → newly reported pre-disaster correction and observed retrospective care/search. REVEALED_NOT_NEW / CONTEXT_CHANGE. | `004–005`; assault motive admitted, Norn need concrete, multiple people's resources causal. |
+| `MT-S-051` / Paul | Active search → uncertainty, drinking/neglect and excessive demand at reunion. CONTEXT_CHANGE. | `005–007,015`; feared family deaths not facts, no diagnosis; initiates blow. |
+| `MT-S-052` / Paul | Challenged assumption → listens, revises child/capability appraisal, apologizes, resumes work/offers options. KNOWLEDGE / RELATIONSHIP / PRACTICE_CHANGE. | `009–015,020`; relapse history and unrepaired Norn/Eris relations prevent global reform. |
+| `MT-S-053` / Eris | Observed companion → independent wish, notice knowledge, skill and first human killing disclosed. REVEALED_NOT_NEW / COMPETENCE / CONTEXT_CHANGE. | `017–019`; thought access newly available, taunt/violence/support limits retained. |
+| `MT-S-054` / Eris | Protective anger → awkward comfort, continued dissent, meal and debt-based passage. RELATIONSHIP_CHANGE. | `008,013,015,020,022`; no automatic forgiveness, bruise encounter partly unavailable. |
+| `MT-S-055` / Ruijerd | Warrior-demand tension → listens/supports reunion, restrains Eris, reconnects with old beneficiary. PRACTICE / REVEALED_NOT_NEW. | `008,013–016,021–022`; degree of force unresolved, institutional expertise limited. |
+| `MT-S-056` / Roxy | Search near miss → parental reunion, admitted identification error, continuing search. KNOWLEDGE / RELATIONSHIP_CHANGE. | `023–024`; telepathy unchanged, pupil idealization persists; no present pupil reunion. |
+| `MT-S-057` / Sylphie | Missing post-separation development → Paul reports exercise, several teachers and silent healing before catastrophe. REVEALED_NOT_NEW. | `012`; not current encounter or proof forced ban necessary; identity/location still unknown. |
+| `MT-S-058` / Vera, Shela | Rudy's sexual/dislike account → reader receives trauma history and observes protective/administrative work. REVEALED_NOT_NEW. | `010,014–015`; Paul report bounded; fear continues alongside competence. |
+| `MT-S-059` / Norn | Earlier infant → displaced child attached to father, rejects attacking brother. CONTEXT / REVEALED_NOT_NEW. | `004–007,015,020`; refusal survives men's reunion, age estimates not forced precise. |
+| `MT-S-060` / Geese | Helpful traveler → old-party mediator and renewed searcher; jail initiative reported. REVEALED_NOT_NEW / PRACTICE_CHANGE. | `009,020`; jinx/withholding motives incomplete. |
+| `MT-S-061` / Therese | Rescued knight → authority/kinship assistance and personal demon exception. KNOWLEDGE / RELATIONSHIP_CHANGE. | `019,021–022`; retains prejudice; not universal ally. |
+| `MT-S-062` / Cliff | Praised novice → failed coordination, admiration, refused proposal and reported relocation. CONTEXT / KNOWLEDGE_CHANGE. | `018–019`; pride persists, destination not supplied here. |
+| `MT-S-063` / Fitts, Ariel, Luke | Announced flight → testimony of border/attack and corrected death rumor. CONTEXT / KNOWLEDGE_CHANGE. | `026–028`; Fitts identity unresolved, resourceful defense needs allies; later rule unknown. |
+| `MT-S-064` / Randolph | Struggling inherited business → shame and accepted recruitment after outburst. CONTEXT / DECISION_CHANGE. | `025`; martial status does not settle welfare of new career. |
+| `MT-S-065` / Gustav | Confident investigator → mistaken report, recognized contradiction and chosen noncorrection. KNOWLEDGE / PRACTICE_CHANGE. | `026–028`; self-interest explicit, announced political effects not yet narrated. |
+
+| Local key / domain | Current readiness and home | Calibration limit |
+| --- | --- | --- |
+| Rudeus / learning, coordination, register and particular repair | BOUNDED_PROVISIONAL; [model1.2](../04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/rudeus/EVIDENCE_INDEX.md). | Six new diagnostic checks; durable boundaries/high-stakes reliability insufficient, no clean holdout. |
+| Eris / practical learning, loyalty/refusal, independent appraisal | BOUNDED_PROVISIONAL; [model1.1](../04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/eris/EVIDENCE_INDEX.md). | Four new checks; general regulation/peer-repair transfer unproved. |
+| Paul / caregiving, capability expectations, correction | First BOUNDED_PROVISIONAL [model](../04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md)/[index](../04%20Character%20Analysis/paul/EVIDENCE_INDEX.md). | Relation-conditioned rules, no durable sobriety or universal noncoercion. |
+| Ruijerd / protection, classification, instruction, friendship | First BOUNDED_PROVISIONAL [model](../04%20Character%20Analysis/ruijerd/RECONSTRUCTION_MODEL.md)/[index](../04%20Character%20Analysis/ruijerd/EVIDENCE_INDEX.md). | History/testimony limits, no infallible judgment or hidden-motive certainty. |
+| Roxy / professional pride, teaching/search, communication | First BOUNDED_PROVISIONAL [model](../04%20Character%20Analysis/roxy/RECONSTRUCTION_MODEL.md)/[index](../04%20Character%20Analysis/roxy/EVIDENCE_INDEX.md). | Family repair local; no reliable search forecast or general romance persona. |
+| Others / admitted contexts | Preserve bounded ledger descriptions; no new broad package. | Sylphie/Zenith/Lilia partly reported; Geese motive gaps; court aliases/limited comparison; affected-person access uneven. |
+
+No DOMAIN_READY, mature monograph or global enrollment. The checkpoint documents why the cumulative argument stays there and why these three operational responsibilities are newly distinct.
