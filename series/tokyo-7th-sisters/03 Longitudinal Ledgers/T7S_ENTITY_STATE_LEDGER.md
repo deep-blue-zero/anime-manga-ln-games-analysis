@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.32"
+version: "11.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 130 complete i-n-g primary documents / T7S_B0080–T7S_B0131; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 133 complete i-n-g primary documents / T7S_B0080–T7S_B0132; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 268`; `directional_relationship_states = 476`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0131, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 274`; `directional_relationship_states = 484`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0132, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2659,3 +2659,40 @@ The [B0131](../02%20Readings/T7S_B0131_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0476` | Yumeno → Player, **lost recognition with later familiar address** | Does not recognize him on waking, accepts help and after second accident speaks in her old style. A:P47–52; B:P10–18; C:P31–53. Reciprocal `REL-0475`; no second-exam verdict. |
 
 `T7S_B0131_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, diagnostic label beyond clinician's bounded report, actual kiss or safety protocol.
+
+## B0132 Miwako's escort/fan roles and peer reception
+
+The [B0132](../02%20Readings/T7S_B0132_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.34, binds these updates. Existing Miwako `IDENTITY-0043`/`CHAR-0070`, Ferb `IDENTITY-0078`/`CHAR-0060`, Sumire `IDENTITY-0016`/`CHAR-0013`, Yumeno `IDENTITY-0087`/`CHAR-0069`, Jedah `IDENTITY-0047`/`CHAR-0036`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. Named Nick and unnamed band/spectators do not require new long-horizon identity routes for these bounded claims.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0070` / Miwako | Initially fears losing escort composure before favorite bands, agrees for peers, provides shade/hydration/seated guidance, then leads front-area enthusiasm and feels shame before peer reassurance and a new offer. | A:P2–61; B:P1–45; C:P1–80. No crowd-wide effect, individual risk consent, accepted contract or solo abandonment of care. |
+| `CHAR-0060` / Ferb | Wants to see a band with Miwako, recognizes her suppressed fan energy, invites front-area participation and later says her lead made the visit enjoyable; moves toward studio after offer. | A:P46–56; B:P3–36; C:P26–78. Not sole author of group risk or a booked performance. |
+| `CHAR-0013` / Sumire | Wants a first festival and Miwako's movement as inspiration, prepares food, is surprised by the front push and afterward reports enjoying it. | A:P10–50; B:P11–45; C:P37–53. Enjoyment is situated, not prior informed front-area assent. |
+| `CHAR-0069` / Yumeno | Jokes about physical closeness to women and is named for monitoring, later reports being absorbed in music at a girls-heavy substage and likes the front experience. | A:P15–54; B:P5–15; C:P3–55,71. No physical boundary incident shown here or durable reform from B0093/B0131. |
+| `CHAR-0036` / Jedah | Raises a ban concern, explores varied festival sound, praises Miwako's front energy and reports how hot another act's show can feel. | A:P13–19; B:P31–45; C:P22–53. Her policy remark is attributed; no verified venue legal rule. |
+| `CHAR-0003` / Coney | Proposes the audience learning trip, asks Miwako to guide, then reports a separate festival's rookie-stage offer. | A:P2–9,31–57; C:P64–72. No exact negotiation, terms, acceptance or official trio creation. |
+| `CHAR-0001` / Player | Requests experienced escort because he can only transport, warns against injury and later notes articles identifying idols. | A:P7–19,33–59; C:P56–63. No formal participant assent, publicity consent or media-remedy process shown. |
+| `UNIT-0002` / Nanasta | Sends members as audience to learn festival atmosphere; later receives an offer for Miwako/Yumeno/Ferb from another event. | A:P2–59; C:P60–80. KUONJI was not Nanasta's live, and the new trio/stage remains proposed. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0269` | Coney/Player know no current KUONJI offer; Miwako privately sees favorites in lineup and fears escort/fan conflict; peers want her guidance. | A:P2–61. No one has booked a live there. |
+| `KNOW-0270` | Miwako shares practical shade/hydration/seated options; the group sees food and varied stages; Yumeno says music displaced her initial reason for a substage. | B:P1–45. No real-world mosh rule, full contact log or safety guarantee. |
+| `KNOW-0271` | Miwako feels favorite band's front response is weak and accidentally calls out; Sumire worries about health, Ferb sees excited body/voice. | C:P1–31. Music and crowd quality are unreviewed except actor testimony. |
+| `KNOW-0272` | Miwako states crowd/escort risk, Ferb calls excuses un-rock-like, and Miwako leads peers toward the front. | C:P26–44. No individualized crowd-risk discussion is shown. |
+| `KNOW-0273` | Miwako fears she failed as role model; two spectators remark on a loud fan and four peers report enjoying her lead. | C:P45–59. Narrow witness set, not audience-wide or safety verdict. |
+| `KNOW-0274` | Articles identify some attendees as Nanasta; Coney reports offer from another festival for a rookie stage; Miwako says she has not refused. | C:P60–80. Contract, acceptance, later rehearsal/show and publicity permission unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0477` | Ferb → Miwako, **desire recognition and front invitation** | Asks whether she wants to go, later reads excited voice/body and challenges her to join the front. A:P46–56; C:P26–34. Reciprocal `REL-0478`; no override of Miwako's safety responsibility. |
+| `REL-0478` | Miwako → Ferb, **guide then reciprocal fan** | Agrees to escort, encourages her festival-stage hope, accepts front invitation and stops her leaving for studio alone after offer. A:P48–56; B:P32–36; C:P26–78. Reciprocal `REL-0477`; no signed trio. |
+| `REL-0479` | Sumire → Miwako, **first-festival learner and pleased witness** | Wants to observe Miwako's cool movement, brings food, worries at odd calls and later says front was exhilarating. A:P37–50; B:P11–27; C:P10–53. Reciprocal `REL-0480`; not blanket safety assent. |
+| `REL-0480` | Miwako → Sumire, **protective escort who reveals fan self** | Agrees partly for Sumire's first festival, teaches safe modes, then includes group in front experience. A:P48–52; B:P1–45; C:P35–55. Reciprocal `REL-0479`; no individualized risk check. |
+| `REL-0481` | Miwako → Yumeno, **intended monitoring with limited observed test** | Names need to watch Yumeno, then sees group enjoy music; no direct intervention is shown at substage. A:P48–54; B:P5–9; C:P45–55. Reciprocal `REL-0482`; safeguarding not certified. |
+| `REL-0482` | Yumeno → Miwako, **sexualizing joke then musical uptake** | Fantasizes about closeness, jokes at Miwako's teacher role and later praises intense listening. A:P15–18,39–54; B:P5–9,40; C:P39–55. Reciprocal `REL-0481`; no contact or durable reform. |
+| `REL-0483` | Coney → Miwako, **guide request and later opportunity report** | Recruits her for audience trip and later relays a different festival's offer. A:P2–9,31–57; C:P64–72. Reciprocal `REL-0484`; no contract. |
+| `REL-0484` | Miwako → Coney, **scoped assent and open answer** | Accepts escort after hesitation, then hears offer and tells Ferb she has not said no. A:P9–52; C:P64–78. Reciprocal `REL-0483`; not final acceptance. |
+
+`T7S_B0132_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new idol trio, booked second festival or public-media consent record.

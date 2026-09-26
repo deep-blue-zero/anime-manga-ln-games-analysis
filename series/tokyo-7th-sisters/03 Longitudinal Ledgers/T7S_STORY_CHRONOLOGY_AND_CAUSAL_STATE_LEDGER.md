@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.32"
+version: "11.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 130 complete i-n-g primary documents / T7S_B0080–T7S_B0131; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 133 complete i-n-g primary documents / T7S_B0080–T7S_B0132; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 493`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 502`; `last_closed_block = T7S_B0131`. The admitted horizon contains 365 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 130 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 499`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 512`; `last_closed_block = T7S_B0132`. The admitted horizon contains 368 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 133 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1636,3 +1636,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.33. [B0131](../02%20Readings/
 | `EDGE-0509` | `RECOVERY_WITH_RECURRENT_CONSENT_BREACH` | Familiar Yumeno in `EV-B0131-006` again presses for a kiss, while Hime refuses; personality restoration is not relational repair. |
 
 `T7S_B0131_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, split identity, neurological mechanism, actual kiss, second health clearance or consent repair.
+
+## B0132 Miwako's guided festival outing and separate-stage offer
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.34. [B0132](../02%20Readings/T7S_B0132_DEEP_READING.md) owns the A/B/C locator key. B0094/B0037/B0093/B0131/B0125 are bounded comparison horizons, not total fictional order. KUONJI is an audience trip without a booking; the later offer is from a different festival.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0132-001` | Coney/Player ask festival-experienced Miwako to escort members; lineup excitement almost makes her refuse, then Sumire/Ferb's hopes and Yumeno monitoring motivate assent. | A:P2–61; `KNOW-0269`; `REL-0477`–`0484`. No KUONJI performance offer or proven monitoring plan. |
+| `EV-B0132-002` | Miwako chooses shade, teaches multiple listening modes/hydration and shares food while peers explore music and stalls. | B:P1–45; `KNOW-0270`. No independent venue rule, safety certification or unwanted Yumeno contact shown. |
+| `EV-B0132-003` | At a favorite band's set Miwako suppresses excited calls and criticizes front energy privately; Ferb sees her body's response. | C:P1–31; `KNOW-0271`. Band sound/crowd level are Miwako's reports, not audited acoustics. |
+| `EV-B0132-004` | Ferb urges the front; Miwako names jostling/escort risk but pivots to lead the group there. | C:P26–44; `KNOW-0272`. Peers follow, but individual front-area risk assent/geometry unshown. |
+| `EV-B0132-005` | Two spectators remark on a loud attendee; Miwako is embarrassed, while Yumeno, Sumire, Jedah and Ferb say they enjoyed her lead. | C:P45–59; `KNOW-0273`. Local reception, not festival-wide impact or complete safety audit. |
+| `EV-B0132-006` | Later articles photograph/identify Nanasta members; Coney reports another festival's rookie-stage offer to Miwako/Yumeno/Ferb, and Miwako says she has not refused. | C:P60–80; `KNOW-0274`. No acceptance, contract, stable new unit or completed second live. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0510` | `FUTURE_FESTIVAL_PREPARATION_TO_GUIDE_REQUEST` | No current booking in `EV-B0132-001` → request for Miwako's experience as audience escort, not KUONJI stage work. |
+| `EDGE-0511` | `LINEUP_DESIRE_TO_ESCORT_CONFLICT` | Favorite performers in `EV-B0132-001` → Miwako fears excitement will compromise guidance and nearly declines. |
+| `EDGE-0512` | `PEER_HOPE_TO_SCOPED_ASSENT` | Sumire's first-festival wish and Ferb's question in `EV-B0132-001` → Miwako's agreement, not a transfer of all crowd-risk decisions to her. |
+| `EDGE-0513` | `BASE_AND_PLURAL_MODES_TO_INITIAL_SAFETY` | Shade, food, hydration/seated options in `EV-B0132-002` establish local care, not a universal festival protocol. |
+| `EDGE-0514` | `FAN_SUPPRESSION_TO_FERB_RECOGNITION` | Miwako's restrained calls in `EV-B0132-003` → Ferb names the desire to move closer; no external band-quality verdict. |
+| `EDGE-0515` | `FERB_CHALLENGE_TO_FRONT_PIVOT` | Ferb's invitation in `EV-B0132-004` → Miwako's group lead despite a jostling warning; risk not measured away. |
+| `EDGE-0516` | `FRONT_PARTICIPATION_TO_LOCAL_PRAISE` | Group movement in `EV-B0132-004` → peer pleasure/two spectator remarks in `EV-B0132-005`, not crowd-wide quantitative change. |
+| `EDGE-0517` | `PEER_PRAISE_TO_SHAME_REVISION` | Peers' feedback in `EV-B0132-005` revises Miwako's role-model embarrassment locally, without proving all decisions safe. |
+| `EDGE-0518` | `ARTICLE_IDENTIFICATION_TO_OTHER_FESTIVAL_OFFER` | Unplanned exposure in `EV-B0132-006` precedes Coney's reported new offer; exact publisher/selection mechanism not audited. |
+| `EDGE-0519` | `OFFER_WITHOUT_BOOKED_LIVE` | Miwako's “not said no” and Ferb's studio impulse in `EV-B0132-006` leave contract, trio status and performance open. |
+
+`T7S_B0132_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, KUONJI performance, stable trio unit, safety clearance or second-festival booking.

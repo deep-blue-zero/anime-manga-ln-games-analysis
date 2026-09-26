@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.32"
+version: "11.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 130 complete i-n-g primary documents / T7S_B0080–T7S_B0131; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 133 complete i-n-g primary documents / T7S_B0080–T7S_B0132; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 617`; `revisions = 42`; `predictions = 7`; `AV_reviews = 78`; `literary_findings = 617`. Claims are bounded to their stated B0001 through B0131 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 52 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 621`; `revisions = 42`; `predictions = 7`; `AV_reviews = 79`; `literary_findings = 621`. Claims are bounded to their stated B0001 through B0132 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 53 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1897,3 +1897,26 @@ Owner and A/B/C locator key: [B0131](../02%20Readings/T7S_B0131_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred forty dialogue-associated voice pages plus title cues, BGM/SFX and continuous accident action remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0131_CLOSE-20260926`: five bounded claims and one AV review; no medical recommendation, split identity, actual kiss, second safety verdict, consent repair, specialist or monograph promotion.
+
+## B0132 fan visibility, guide duty and media opportunity limits
+
+Owner and A/B/C locator key: [B0132](../02%20Readings/T7S_B0132_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.34. B0094/B0037/B0093/B0131/B0125 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0132-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Miwako's expertise includes both protective attendance practices and lived fan intensity; one need not negate the other, though front-area movement leaves individual risk preference unrecorded. | A:P20–61; B:P1–45; C:P6–55. No venue safety clearance. |
+| `CL-B0132-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Peers' delight revises Miwako's shame about breaking an ideal adult-guide pose, but does not prove every safety choice optimal or make Ferb solely responsible for the pivot. | C:P26–55. Group voices are local, not a crowd-control audit. |
+| `CL-B0132-003` | `BOUNDED_INFERENCE`; D1; high for limit | Article identification converts unplanned audience participation into a reported rookie-stage offer from another festival, not a KUONJI booking, accepted contract, stable trio or finished performance. | A:P2–6; C:P60–80. Photo rights, terms and later result unshown. |
+| `CL-B0132-004` | `BOUNDED_INFERENCE`; D1; high for limit | Yumeno's report that music absorbed her shows one day's redirected attention, not an enduring change to earlier sexualizing conduct or an observed violation in this crowd. | A:P15–18,39–54; B:P5–9; C:P3–5,39–55. Monitoring outcome limited. |
+
+### AV-0079 — festival-attendee costumes and unreviewed crowd/music
+
+- Questions/claims: whether selected sprites establish exact moshing, crowd size, musical quality, injury absence, publicity consent or a booked new trio; `CL-B0132-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed music, physical crowd safety, media and offer restrictions.
+- Selection: Miwako `adv_chara_134_01_01`, `134_02_05`; Ferb `127_03_01`; Sumire `008_06_01`; Yumeno `133_04_01`; Jedah `137_03_05`; Coney `002_01_01`. All 193 native pages and fourteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.34 binds seven media receipts.
+- Observed: Miwako shifts from ordinary to festival attire, with peers likewise costumed as attendees; this does not put Nanasta on the KUONJI stage. No crowd-density, article, contract or full band performance is visible in selected stills.
+- Native occurrence: command-only A:P0–1,62; B:P0,24,48; C:P0,42–44,58–59,79–80. C:P42–44 includes crowd/looping-sound state; C:P58–60 cuts from the festival to the article/offer frame.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred sixty dialogue-associated voice pages plus title cues, BGM/SFX and actual festival music remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0132_CLOSE-20260926`: four bounded claims and one AV review; no crowd-law verdict, safety clearance, article-rights finding, official new unit/show, specialist or monograph promotion.
