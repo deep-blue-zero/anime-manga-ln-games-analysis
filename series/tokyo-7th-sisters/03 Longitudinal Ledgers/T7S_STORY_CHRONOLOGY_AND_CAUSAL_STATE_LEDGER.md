@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.14"
+version: "11.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 76 complete i-n-g primary documents / T7S_B0080–T7S_B0113; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 79 complete i-n-g primary documents / T7S_B0080–T7S_B0114; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 395`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 368`; `last_closed_block = T7S_B0113`. The admitted horizon contains 311 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 76 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 400`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 375`; `last_closed_block = T7S_B0114`. The admitted horizon contains 314 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 79 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1157,3 +1157,32 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.15. [B0113](../02%20Readings/
 | `EDGE-0368` | `SWAP_COST_CORRECTS_UNIVERSAL_BENEFIT` | Kajika's reported loneliness in `EV-B0113-005` defeats Sawara's early universal-benefit account of `EV-B0113-002`; offered future sleepover is not observed repair. |
 
 `T7S_B0113_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0012` advanced; no new world/thread record, total i-n-g chronology, full sale audit or equal-consent fiction.
+
+## B0114 Suss study camp, rest boundary and unconsulted reward
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.16. [B0114](../02%20Readings/T7S_B0114_DEEP_READING.md) owns the A/B/C locator key. B0010 supplies the established fourteen-year-old/manager-boundary context. The father is an existing role route `IDENTITY-0031`, not a newly named character; menu order is not total chronology.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0114-001` | Musubi rebukes Suss's poor online-school marks; Suss receives an email she says is her father's warning to come home if results stay poor. Musubi, Haru and Sumire offer to help before a one-week-away retest. | A:P2–40; `KNOW-0173`; `THREAD-0013`. Musubi's residency/curriculum statement is her understanding, not verified law; father is not directly heard. |
+| `EV-B0114-002` | English-only texts make peer teaching harder; Musubi offers subject knowledge plus dictionary work and orders an immediate weeklong Nanasta study camp. Suss initially resists. | A:P41–72; C:P15–18; `KNOW-0174`; `UNIT-0002`. No complete curriculum or durable accommodation is documented. |
+| `EV-B0114-003` | Sumire cooks fried udon when Suss says hunger blocks study; Suss grows sleepy and says she cannot persist. The Player offers broad help. Sawara privately speaks with Suss, then Suss apologizes and explicitly requests tutoring. | B:P1–55; `KNOW-0175`; `REL-0349`–`0356`. Sawara's bargain is withheld here and disclosed later; a broad help offer is not specific contact assent. |
+| `EV-B0114-004` | Suss works through Musubi's diagram but nods off after three hours without a break. Sumire flags the duration; Musubi proposes one last problem and rest, citing bodily harm from overexertion. Sawara bars Player contact until results. | B:P56–96; `KNOW-0176`; `REL-0347`–`0352`. Local stopping point does not certify the full week safe. |
+| `EV-B0114-005` | Suss reports all retests passed, with Haru confirming passing marks. She thanks Sumire, Haru and Musubi. Sawara reveals she promised Suss access to the Player as a reward, citing his earlier broad offer, without his consultation; he objects as Suss seeks a hug. | C:P1–78; `KNOW-0177`; `REL-0347`–`0356`; `THREAD-0013`. No father response, future grades, unlimited reward completion or valid transferred consent. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0013` | Suss's plural belonging and professional/guardian boundaries remain `OPEN`. She fears leaving Nanasta after her father's conditional email and successfully works with peer support. Her chosen affection toward the Player is real, but Sawara cannot promise his intimate availability as a prize; the Player is excluded from the deal and later protests. The reported all-pass retest does not settle father agreement, immigration law, schooling arrangements or manager/minor boundaries. A:P17–72; B:P1–96; C:P1–78. |
+| `THREAD-0014` | Sawara's perceptive but intrusive care remains `OPEN`. She finds a reward that Suss finds motivating and enforces study-period distance, yet does so by treating the Player's nonspecific offer as authority to promise his person without asking. The local academic result does not make this a consent rule. B:P26–41,88–95; C:P36–78. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0369` | `FATHER_WARNING_TO_RETEST_URGENCY` | Suss's report in `EV-B0114-001` → fear of departure and peer study mobilization; no independent legal determination or father reply. |
+| `EDGE-0370` | `LANGUAGE_BARRIER_TO_DICTIONARY_WORK` | English-only materials in `EV-B0114-002` → Musubi's dictionary plan and Haru's later lookup help, not effortless expertise. |
+| `EDGE-0371` | `FOOD_AND_FATIGUE_INTERRUPT` | Sumire's meal and Suss's later drowsiness in `EV-B0114-003` delay work; nutritional causation is not assessed. |
+| `EDGE-0372` | `UNDISCLOSED_INCENTIVE_TO_STUDY` | Sawara's private proposal during `EV-B0114-003`, disclosed in `EV-B0114-005`, precedes Suss's renewed effort; exact motive share is unknown. |
+| `EDGE-0373` | `CARE_LIMITS_CRAMMING` | Three hours' fatigue in `EV-B0114-004` → Musubi's one-more-problem stopping point, correcting her earlier no-time-to-waste push. |
+| `EDGE-0374` | `PEER_WORK_TO_REPORTED_PASS` | Tutoring, lookup, food, Suss's work and rest precede reported all-pass result in `EV-B0114-005`; no controlled causal attribution or later grade trajectory. |
+| `EDGE-0375` | `BROAD_OFFER_MISUSED_AS_CONSENT` | Player's offer to help in `EV-B0114-003` → Sawara's unconsulted reward promise revealed in `EV-B0114-005`; his objection defeats a claimed authorization, irrespective of comic presentation. |
+
+`T7S_B0114_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0013`/`0014` advanced; no new world/thread record, immigration-law finding, total i-n-g chronology or transferred consent.

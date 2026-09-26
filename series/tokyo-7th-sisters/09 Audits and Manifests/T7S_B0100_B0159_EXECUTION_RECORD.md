@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.13"
+version: "1.14"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0113`.
-- Completed run blocks: **14/60**; completed run episodes: **36/174**.
-- Next: `T7S_B0114`, chapter `300860`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0114`.
+- Completed run blocks: **15/60**; completed run episodes: **39/174**.
+- Next: `T7S_B0115`, chapter `300870`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -50,7 +50,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0111` | `300830` | 臼田スミレ | アタシの特別なもの | `312200601 / 312200602 / 312200603` | CLOSED |
 | `T7S_B0112` | `300840` | 神城スイ | カ・ラ・ダが資本ッ！！ | `312200701 / 312200702 / 312200703` | CLOSED |
 | `T7S_B0113` | `300850` | 久遠寺シズカ | シズカ、奮闘 | `312200801 / 312200802 / 312200803` | CLOSED |
-| `T7S_B0114` | `300860` | アレサンドラ・スース | スースの勉強合宿！！ | `312200901 / 312200902 / 312200903` | AUTHORIZED_UNREAD |
+| `T7S_B0114` | `300860` | アレサンドラ・スース | スースの勉強合宿！！ | `312200901 / 312200902 / 312200903` | CLOSED |
 | `T7S_B0115` | `300870` | 晴海サワラ | 残念☆女王 | `312201001 / 312201002 / 312201003` | AUTHORIZED_UNREAD |
 | `T7S_B0116` | `300880` | 晴海カジカ | 2034年宇宙の旅？？ | `312201101 / 312201102 / 312201103` | AUTHORIZED_UNREAD |
 | `T7S_B0117` | `300890` | 晴海シンジュ | プレイ・ライク・ア・チャイルド | `312201201 / 312201202 / 312201203` | AUTHORIZED_UNREAD |
@@ -162,3 +162,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0113 closeout receipt
 
 [T7S_B0113](../02%20Readings/T7S_B0113_DEEP_READING.md): Shizuka accepts a Harumi fish-shop stay, learns that Kuonji-scale generosity can overwhelm local choice, observes Shinju’s customer-specific work and Sawara’s joy in it, then thanks working fans while selling merch; Kajika reports the paired mansion stay was lonely. All 202 pages, 185 text records and 17 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.15 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 137 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 14/60 blocks, 36/174 episodes; publication remains pending.
+
+## B0114 closeout receipt
+
+[T7S_B0114](../02%20Readings/T7S_B0114_DEEP_READING.md): Suss passes every retest after peer study, English-dictionary help and Musubi’s eventual rest limit; a father’s return warning and Sawara’s promised access to an unconsulted Player make the successful motivation ethically non-equivalent to consent. All 251 pages, 230 text records and 21 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.16 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 205 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 15/60 blocks, 39/174 episodes; publication remains pending.

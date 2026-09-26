@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.14"
+version: "11.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 76 complete i-n-g primary documents / T7S_B0080–T7S_B0113; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 79 complete i-n-g primary documents / T7S_B0080–T7S_B0114; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 543`; `revisions = 42`; `predictions = 7`; `AV_reviews = 60`; `literary_findings = 543`. Claims are bounded to their stated B0001 through B0113 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 34 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 547`; `revisions = 42`; `predictions = 7`; `AV_reviews = 61`; `literary_findings = 547`. Claims are bounded to their stated B0001 through B0114 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 35 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1481,3 +1481,26 @@ Owner and A/B/C locator key: [B0113](../02%20Readings/T7S_B0113_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred thirty-seven dialogue-associated voice pages plus title cues, BGM/SFX and any performed speech/live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0113_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, completed buyout, specialist or monograph promotion.
+
+## B0114 Suss school support, rest and unconsulted reward
+
+Owner and A/B/C locator key: [B0114](../02%20Readings/T7S_B0114_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.16. B0010 supplies bounded age/manager context, not a total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0114-001` | `BOUNDED_INFERENCE`; D1; high for plural inputs | Suss's work follows both her father's conditional warning and Sawara's later-revealed reward, with peer explanation and her own effort preceding a reported all-pass retest. | A:P17–40; B:P41–96; C:P1–63; `KNOW-0173`–`0177`. Causal shares, legal danger and future grades are unmeasured; neither mere discipline nor pure coercion captures the sequence. |
+| `CL-B0114-002` | `BOUNDED_INFERENCE`; D1; high | Musubi revises urgent cramming toward a local stopping point after observing three breakless hours and Suss's fatigue. | A:P57–71; B:P56–86; `EDGE-0373`. Passing does not prove unlimited study safe or full-week rest adequate. |
+| `CL-B0114-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for consent gap | Sawara's promise treats the Player as Suss's contingent reward without consulting him; his broad offer of help does not consent to intimate/romantic access, especially in a manager/fourteen-year-old relation. | B:P26–41,88–95; C:P36–78; `KNOW-0175`, `REL-0351`–`0352`. Comic framing and Suss's desire do not supply the missing assent; no unbounded promised access is shown completed. |
+| `CL-B0114-004` | `BOUNDED_INFERENCE`; D1; moderate-high | English-only materials expose limits in eager peer help, which Musubi's dictionary plan and Haru's lookup partially bridge; food/time observation add different support. | A:P35–72; B:P3–86; C:P12–34. A passed retest does not certify fluency, curriculum, guardian terms or a durable education system. |
+
+### AV-0061 — HoloCom warning, study camp and comic reward reveal
+
+- Questions/claims: whether stills/native states prove exact email text, legal status, test scores, physical contact timing/impact, consent, rest adequacy or performed reaction; `CL-B0114-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for school, guardian and consent claims.
+- Selection: Suss `adv_chara_011_01_04`; Musubi `adv_chara_004_01_06`; Sumire `adv_chara_008_01_01`; Sawara `adv_chara_012_01_03`; Haru `adv_chara_003_01_15`; HoloCom object `adv_obj_0014`. All 251 native pages and twenty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.16 binds six media receipts.
+- Observed: selected character bodies distinguish the study participants, and the communication item has a phone/contact icon; these do not display the father's actual message or the retest transcript.
+- Native occurrence: command-only A:P0–1,15,61,72; B:P0,2,9,15,32,40,56,87,96; C:P0,3–4,51,63,79–80. A:P15–17 presents a HoloCom alert; B:P56 changes into the concentrated tutoring sequence; C:P51–64 frames the reward promise as a later-disclosed scene. Shakes, fades and a red flash do not measure performed touch, harm or sound.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Two hundred five dialogue-associated voice pages plus title cues, BGM/SFX and any performed contact/reaction remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0114_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, legal advice, specialist or monograph promotion.

@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.14"
+version: "11.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 76 complete i-n-g primary documents / T7S_B0080–T7S_B0113; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 79 complete i-n-g primary documents / T7S_B0080–T7S_B0114; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 172`; `directional_relationship_states = 346`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0113, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 177`; `directional_relationship_states = 356`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0114, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2036,3 +2036,41 @@ The [B0113](../02%20Readings/T7S_B0113_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0346` | Kajika → Shizuka, **stated experience** | Explains the solitary mansion bed and receives an offer of future company. C:P82–88. Reciprocal `REL-0345`; this does not retroactively authorize the original swap. |
 
 `T7S_B0113_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, profit audit, readiness or monograph record.
+
+## B0114 Suss school effort and contingent access boundary
+
+The [B0114](../02%20Readings/T7S_B0114_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.16, binds these updates. Existing Suss `IDENTITY-0021`/`CHAR-0018`, father `IDENTITY-0031`, Musubi `CHAR-0006`, Haru `CHAR-0004`, Sumire `CHAR-0013`, Sawara `CHAR-0019`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. The father remains unnamed and unheard directly here.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0018` / Suss | Dismisses poor marks until a conditional father email, accepts a study camp, first delays, then asks seriously for help, works despite fatigue, reports passing all retests, and seeks the Player's affection as Sawara's promised reward. | A:P2–72; B:P1–96; C:P1–78. Her agency and work are real; exact legal danger, guardian reply, future schooling and manager/child contact terms are not established. |
+| `IDENTITY-0031` / Suss father | Is the source of an email Suss reports as requiring her to come home if poor grades continue. | A:P17–28. Exact wording beyond her report, authority, and response to the pass are not observed; retain earlier family-route limits. |
+| `CHAR-0006` / Musubi | Offers subject/dictionary tutoring, orders an urgent camp, teaches a diagram, recognizes exhaustion, limits that day's session, and hugs Suss after the passing result. | A:P2–71; B:P56–86; C:P19–28. Competent peer care is not formal teaching, a safe full-week schedule or legal advice. |
+| `CHAR-0004` / Haru | Worries Suss may leave, joins the teaching effort, later helps by looking up English meanings and celebrates the passing result. | A:P29–50; C:P15–18,29–34. Initial English difficulty is not inability to contribute; no fluency claim. |
+| `CHAR-0013` / Sumire | Says she can help, recognizes difficulty of English texts, cooks fried udon, flags three breakless hours and congratulates Suss. | A:P35–50; B:P3–21,66–85; C:P12–18. Food and timekeeping help do not determine academic causation. |
+| `CHAR-0019` / Sawara | Privately offers an affection-based incentive and imposes no Player contact until results, using his broad help offer as a warranty without asking him. | B:P26–41,88–95; C:P36–68. A passed test does not authorize promising another person's body or companionship. |
+| `CHAR-0001` / Player | Offers to help academically, is dismissed from the private talk and excluded during the study period, then objects when told he was promised as a reward and asks Suss to wait during physical approach. | B:P26–41,88–95; C:P32–78. Broad willingness to help is not specific consent; comic punishment does not settle responsibility. |
+| `UNIT-0002` / Nanasta | Hosts informal peer study and food support for a member facing a parent-linked return warning; the manager is turned into an unconsulted personal prize. | A:P29–72; B:P1–96; C:P1–78. No formal schooling, guardian agreement, safe schedule, or minor/manager contact protocol follows. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0173` | Suss reports her father's conditional return email, Musubi knows marks are poor, and peers know Suss fears leaving Nanasta. | A:P2–40. Musubi's immigration/curriculum statement is attributed, not verified law; father not heard directly. |
+| `KNOW-0174` | The peers discover textbooks are English-only; Musubi reasons a dictionary can bridge middle-school material, and Haru later reports lookup help. | A:P41–72; C:P15–18. No complete lesson plan, language proficiency measure or official curriculum decision. |
+| `KNOW-0175` | Player and peers see Suss hungry then drowsy; Sawara privately hears Suss, and only she/Suss know the promised reward before the later reveal. | B:P1–55; C:P51–63. Player's broad offer is not informed assent to the undisclosed promise. |
+| `KNOW-0176` | Sumire sees three hours without a break; Musubi observes yawns and tells Suss that illness from overwork would negate the test goal. | B:P56–86. The full week's sleep/rest pattern remains unreviewed. |
+| `KNOW-0177` | Suss, Haru and peers see/recount passing marks; Player learns the bargain only after the result and says he was not told. | C:P1–78. No father confirmation, later schooling result or unrestricted contact consent. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0347` | Musubi → Suss, **urgent tutor then rest-protective peer** | Demands immediate study, uses dictionary/subject knowledge, notices fatigue and stops after one more problem, then hugs in relief. A:P33–71; B:P56–86; C:P19–28. Reciprocal `REL-0348`; no formal education authority. |
+| `REL-0348` | Suss → Musubi, **resistance then chosen effort and thanks** | Initially protests camp, later asks sincerely for teaching and credits her care after passing. A:P57–71; B:P42–86; C:P19–28. Reciprocal `REL-0347`; not future academic permanence. |
+| `REL-0349` | Sawara → Suss, **motivating promise with third-party cost** | Privately offers Player access if she passes and bars contact meanwhile. B:P27–41,88–95; C:P51–63. Reciprocal `REL-0350`; Player was not consulted. |
+| `REL-0350` | Suss → Sawara, **acceptance of incentive** | Returns to study seriously and later seeks the promised reward. B:P42–55; C:P39–68. Reciprocal `REL-0349`; motivation does not supply Player consent. |
+| `REL-0351` | Sawara → Player, **unconsulted promise and exclusion** | Turns his vague help offer into a warranty, dismisses him and keeps him away until results. B:P26–41,88–95; C:P52–66. Reciprocal `REL-0352`; no authority over him. |
+| `REL-0352` | Player → Sawara, **broad aid then objection** | Offers general help, later asks how she motivated Suss and says he was never told of the deal. B:P26–29; C:P36–66. Reciprocal `REL-0351`; no informed specific authorization. |
+| `REL-0353` | Haru → Suss, **dictionary-mediated help** | Offers assistance despite initial English difficulty, looks up meanings and celebrates the pass. A:P29–50; C:P15–18,29–34. Reciprocal `REL-0354`; no teaching credential. |
+| `REL-0354` | Suss → Haru, **acknowledgment of help** | Thanks Haru for helping even after she had said the texts were hard to read. C:P15–18. Reciprocal `REL-0353`; no broad language claim. |
+| `REL-0355` | Sumire → Suss, **food and fatigue observation** | Cooks fried udon and later says the nonstop session is too long. B:P3–21,66–85. Reciprocal `REL-0356`; no clinical diet/sleep policy. |
+| `REL-0356` | Suss → Sumire, **meal thanks and resisted rest** | Enjoys/credits her cooking but initially pushes to finish despite Sumire's fatigue warning. B:P3–21,66–85; C:P12–15. Reciprocal `REL-0355`; food alone did not produce grades. |
+
+`T7S_B0114_CLOSE-20260926`: five actor-local knowledge records, five directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, legal determination, readiness or monograph record.
