@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.13"
+version: "11.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 73 complete i-n-g primary documents / T7S_B0080–T7S_B0112; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 76 complete i-n-g primary documents / T7S_B0080–T7S_B0113; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 390`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 361`; `last_closed_block = T7S_B0112`. The admitted horizon contains 308 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 73 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 395`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 368`; `last_closed_block = T7S_B0113`. The admitted horizon contains 311 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 76 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1129,3 +1129,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.14. [B0112](../02%20Readings/
 | `EDGE-0361` | `DEMAND_STRAINS_CARE_WORK` | Shop rush in `EV-B0112-004` → Hime's reported loss of Nanasta time and plea for rest. Peer help is visible, but capacity remains unresolved. |
 
 `T7S_B0112_CLOSE-20260926`: four chapter events, six bounded edges; existing `THREAD-0011` and `0007` advanced without new thread, world state, clinical advice, race verdict beyond report or total i-n-g chronology.
+
+## B0113 Shizuka at the fish shop and the unequal household exchange
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.15. [B0113](../02%20Readings/T7S_B0113_DEEP_READING.md) owns the A/B/C locator key. B0009 and B0011 are bounded household/shop context; native chapter routing is not a total fictional chronology.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0113-001` | Shizuka reports her grandfather disliked her Kuonji-group solution to a shopping-district question because it misses ordinary fans' lives. Wanting to know peers better, she accepts Sawara's offer to stay and work at the Harumi fish shop after the Player asks her. | A:P2–45; `KNOW-0168`; `THREAD-0012`. The grandfather's `ordinary people` category is his framing, not a mastered homogeneous class. |
+| `EV-B0113-002` | Sawara proposes a paired visit to Kuonji home. Shinju refuses to leave the shop; Kajika resists going alone but attendant Oosugi takes her. | A:P46–66; `KNOW-0169`; `REL-0343`–`0346`. Shizuka's agreement to her own visit does not grant consent for Kajika's. |
+| `EV-B0113-003` | Shizuka interprets fish-shop `マケる` as giving a luxury Kuonji knife with flounder. A crowd gathers; guards offer help and her helicopter-borne grandfather offers to buy all fish. Shinju cancels the knife, guards and buyout and forbids landing. | B:P1–45; `KNOW-0170`; `UNIT-0006`; `THREAD-0012`. Knife price/transfer, complete buyout, landing, and financial effects are unproved. |
+| `EV-B0113-004` | Shinju calls Shizuka a friend and guides a regular customer's fish purchase by knowing her husband's taste and cat, adding surplus stock. Shizuka sees heavy shop work and recognizes the cost of fans' earnings; Sawara says customer smiles and good fish make the work joyful. | C:P2–67; `KNOW-0171`; `REL-0339`–`0342`; `UNIT-0006`. A situated sale and labor account are not universal worker economics. |
+| `EV-B0113-005` | Shizuka thanks working fans at a public address, then invites Nanasta merchandise purchases. Sawara and Shinju report online notice, more customers and higher shop sales. Kajika returns and says her Kuonji-house night was lonely; Shizuka offers a future shared sleepover. | C:P68–88; `KNOW-0172`; `REL-0343`–`0346`; `UNIT-0002`; `THREAD-0012`. No net profit, durable exchange or completed future sleepover follows. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0012` | Shizuka's outward experience and Kuonji-resource reciprocity remain `OPEN`. Her chosen shop stay lets her see customer-specific judgment and work/fan cost, while her luxury promotion and grandfather's attempted intervention must be stopped by Shinju's shop boundary. Her later gratitude and merch invitation coexist. Kajika's involuntary lonely mansion stay prevents the exchange being recorded as equally beneficial. A:P2–66; B:P1–45; C:P2–88. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0362` | `REPORTED_CRITIQUE_TO_VOLUNTARY_STAY` | Grandfather's reported criticism and Shizuka's wish to learn in `EV-B0113-001` → her accepted Harumi stay; Sawara's offer is the proximate opportunity. |
+| `EDGE-0363` | `ASYMMETRIC_EXCHANGE_CONSENT` | Shizuka's chosen stay in `EV-B0113-001` is paired by Sawara with `EV-B0113-002`, but Shinju refuses and Kajika protests; no group-wide consent. |
+| `EDGE-0364` | `RESOURCE_SCALE_OVERFLOWS_SHOP` | A small-service lesson in `EV-B0113-003` → Shizuka's luxury-knife offer, crowd and proposed Kuonji support. Reputation and crowd are shown, completed transfer is not. |
+| `EDGE-0365` | `LOCAL_AUTHORITY_BOUNDS_INTERVENTION` | Shinju's refusal in `EV-B0113-003` stops the knife/guard/buyout proposals before completion; it does not negate friendship with Shizuka. |
+| `EDGE-0366` | `PARTICULAR_KNOWLEDGE_TO_SERVICE` | Shinju's knowledge of one regular household in `EV-B0113-004` → flounder recommendation and extra fish from surplus; no generic gift rule. |
+| `EDGE-0367` | `LABOR_EXPERIENCE_TO_PUBLIC_PITCH` | Shizuka's work and Sawara's account in `EV-B0113-004` precede the gratitude/merch address in `EV-B0113-005`; sequence supports local learning, not full ethical resolution or quantified sales causality. |
+| `EDGE-0368` | `SWAP_COST_CORRECTS_UNIVERSAL_BENEFIT` | Kajika's reported loneliness in `EV-B0113-005` defeats Sawara's early universal-benefit account of `EV-B0113-002`; offered future sleepover is not observed repair. |
+
+`T7S_B0113_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0012` advanced; no new world/thread record, total i-n-g chronology, full sale audit or equal-consent fiction.

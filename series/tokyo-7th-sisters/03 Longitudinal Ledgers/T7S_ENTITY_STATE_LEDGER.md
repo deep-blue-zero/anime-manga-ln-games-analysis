@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.13"
+version: "11.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 73 complete i-n-g primary documents / T7S_B0080–T7S_B0112; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 76 complete i-n-g primary documents / T7S_B0080–T7S_B0113; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 167`; `directional_relationship_states = 338`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0112, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 172`; `directional_relationship_states = 346`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0113, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2000,3 +2000,39 @@ The [B0112](../02%20Readings/T7S_B0112_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0338` | Sui → Player, **sharing and mild challenge** | Offers him half her doughnut, notes not overeating and wonders whether his body-capital phrase is deliberate. C:P32–40. Reciprocal `REL-0337`; local generosity does not settle professional boundaries. |
 
 `T7S_B0112_CLOSE-20260926`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
+
+## B0113 Shizuka household scale and Harumi shop knowledge
+
+The [B0113](../02%20Readings/T7S_B0113_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.15, binds these updates. Existing Shizuka `IDENTITY-0018`/`CHAR-0015`, grandfather `IDENTITY-0019`/`CHAR-0016`, Sawara `CHAR-0019`, Kajika `CHAR-0020`, Shinju `CHAR-0021`, Player `CHAR-0001`, Harumi shop `UNIT-0006` and Nanasta `UNIT-0002` suffice. Oosugi remains a locally named attendant, not a new longitudinal identity.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0015` / Shizuka | Accepts a fish-shop stay, mistakenly scales a service bonus to a luxury knife, apologizes when Shinju refuses Kuonji intervention, observes a regular-customer sale and physical labor, voices thanks to working fans while pitching merch, and offers Kajika a later sleepover. | A:P2–66; B:P1–45; C:P2–88. She learns locally, not all ordinary lives or a general economic ethic; no knife transfer or future sleepover is shown. |
+| `CHAR-0016` / grandfather | Reportedly criticizes Shizuka's remote stream answer, then calls from a helicopter offering to buy shop stock. Shinju rejects the buyout and landing. | A:P2–17; B:P32–45. Affection and resources are evident; realized purchase, landing and complete intervention are not. |
+| `CHAR-0019` / Sawara | Offers Shizuka shop/home experience, orchestrates Kajika's reluctant mansion placement, calls the shop's work enjoyable and later reports online attention. | A:P29–66; C:P46–81. Her universal-benefit assertion is contradicted by Kajika; reported attention lacks a traffic audit. |
+| `CHAR-0020` / Kajika | Protests being sent alone to Kuonji home and later says the huge solitary bed felt lonely, then receives Shizuka's future sleepover offer. | A:P46–66; C:P82–88. An enviable setting is not her consent or comfort; no repeat stay is shown. |
+| `CHAR-0021` / Shinju | Refuses to leave the shop, rejects the knife/guards/buyout, calls Shizuka a friend, shows a recommendation based on one regular's household, and reports more shop customers/sales. | A:P46–57; B:P37–45; C:P2–81. She is not angry at Shizuka, but the shop's authority remains hers; net profit and sustainable load are not known. |
+| `CHAR-0001` / Player | Asks Shizuka if she wants the visit, witnesses the rush, helps with heavy packing and comments on her public address. | A:P24–45; B:P22–45; C:P46–81. Concern and help do not decide the shop's finances or Kajika's consent. |
+| `UNIT-0006` / Harumi fish shop | Hosts Shizuka's work; Shinju retains discretion against Kuonji-scale additions, and later reports increased customers/sales after online notice. | A:P31–45; B:P1–45; C:P2–81. No measured profit, inventory, wages, safety or lasting promotion plan. |
+| `UNIT-0002` / Nanasta | Shizuka uses an idol public address to thank fans' labor and solicit merchandise purchases; shop work and idol work are compared. | C:P46–81. No audited merch result or fan-protection rule. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0168` | Shizuka reports her grandfather's criticism of a prior stream answer and knows she misses ordinary peer/fan experience; Player learns she wants the offered stay. | A:P2–45. Her understanding of `ordinary people` remains partial; the prior stream is narrated here rather than independently re-performed. |
+| `KNOW-0169` | Sawara asserts a reciprocal stay benefits all, whereas Shinju says she cannot leave the shop and Kajika resists going alone. | A:P46–66. One person's assent does not bind the others; Kajika's internal experience is not yet known to the group here. |
+| `KNOW-0170` | Customers recognize the offered knife's reputation; Player/Shizuka see a crowd; grandfather and guards propose intervention; Shinju says stop. | B:P1–45. Claimed knife value/ability, transfer, full-stock purchase and helicopter landing are not verified. |
+| `KNOW-0171` | Shinju knows a regular husband's taste and household cat, explains the surplus gift, and Shizuka hears Sawara's account of enjoyable work after seeing labor's weight. | C:P2–67. This is one local customer/work experience, not a universal class or shop-economic model. |
+| `KNOW-0172` | Sawara and Shinju report online attention, more customers and sales; Kajika explicitly reports loneliness at the mansion, and Shizuka offers future company. | C:P68–88. No net-profit audit or observed future sleepover. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0339` | Shinju → Shizuka, **friendship with shop boundary** | Stops her luxury promotion but says she is not angry, introduces her as friend and demonstrates regular-customer service. B:P37–45; C:P2–45. Reciprocal `REL-0340`; no unrestricted use of shop authority. |
+| `REL-0340` | Shizuka → Shinju, **apology and attentive learning** | Cancels promotion at Shinju's request, apologizes, observes her sale and recognizes more remains to learn. B:P37–45; C:P2–45. Reciprocal `REL-0339`; no complete class education. |
+| `REL-0341` | Sawara → Shizuka, **hospitality and labor account** | Offers her stay/work and explains fish-shop pleasure through goods and customer smiles. A:P29–45; C:P46–67. Reciprocal `REL-0342`; the paired Kajika transfer has a separate consent cost. |
+| `REL-0342` | Shizuka → Sawara, **chosen visit and revised respect** | Accepts hospitality, helps at work and takes in Sawara's account of its joy. A:P31–45; C:P46–67. Reciprocal `REL-0341`; not a universal labor verdict. |
+| `REL-0343` | Sawara → Kajika, **assigned mansion substitute** | Calls Oosugi despite Kajika's protest and claims everyone benefits. A:P46–66. Reciprocal `REL-0344`; no explicit assent from Kajika. |
+| `REL-0344` | Kajika → Sawara, **protest then corrective report** | Objects to going alone and later reports lonely sleep. A:P53–66; C:P82–88. Reciprocal `REL-0343`; neither wealth nor comedy cancels her report. |
+| `REL-0345` | Shizuka → Kajika, **later repair offer** | Invites a future shared sleepover after hearing Kajika was lonely. C:P82–88. Reciprocal `REL-0346`; no shown realization. |
+| `REL-0346` | Kajika → Shizuka, **stated experience** | Explains the solitary mansion bed and receives an offer of future company. C:P82–88. Reciprocal `REL-0345`; this does not retroactively authorize the original swap. |
+
+`T7S_B0113_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, profit audit, readiness or monograph record.
