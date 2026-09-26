@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.24"
+version: "11.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 106 complete i-n-g primary documents / T7S_B0080–T7S_B0123; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 109 complete i-n-g primary documents / T7S_B0080–T7S_B0124; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 583`; `revisions = 42`; `predictions = 7`; `AV_reviews = 70`; `literary_findings = 583`. Claims are bounded to their stated B0001 through B0123 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 44 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 587`; `revisions = 42`; `predictions = 7`; `AV_reviews = 71`; `literary_findings = 587`. Claims are bounded to their stated B0001 through B0124 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 45 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1711,3 +1711,26 @@ Owner and A/B/C locator key: [B0123](../02%20Readings/T7S_B0123_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred twenty-one dialogue-associated voice pages plus title cues, BGM/SFX and the live song remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0123_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, senior-route invention, dating-policy finding, specialist or monograph promotion.
+
+## B0124 reliance, backup competence and safety boundary
+
+Owner and A/B/C locator key: [B0124](../02%20Readings/T7S_B0124_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.26. B0086/B0118/B0105 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0124-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Mimi's permissioned cover solves visible immediate work and performer needs but reveals a single-point burden around the Player, not a formal backup structure or permanent competence ranking. | A:P2–61; B:P1–39. No complete accounts, stream or delegated-authority audit. |
+| `CL-B0124-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Mimi's older-sister competence and concealed fatigue coexist; the episode extends reliance from one-way service to her explicit request for help, without proving that either helper has unlimited capacity. | B:P1–47; C:P5–22,49–60; B0086. Neither false care nor self-sufficient mastery. |
+| `CL-B0124-003` | `BOUNDED_INFERENCE`; D1; high for uncertainty | Harasser rumor and Rona's unanswered call warrant concern but do not prove an attack; Mimi's alarm/solo pursuit and the ill Player's pursuit are improvised, not verified safe incident procedure. | C:P22–64. No route-risk or clinical clearance audit. |
+| `CL-B0124-004` | `BOUNDED_INFERENCE`; D1; high for report status | Coney's capture/police handoff and Rona contact are retrospective claims; Mimi's proposed lesson about relying on others for Coney remains prospective. | C:P65–79. No directly witnessed arrest, police record or Coney behavior change. |
+
+### AV-0071 — Mimi's substitute work and unreviewed threat response
+
+- Questions/claims: whether selected stills/native fields prove clinical diagnosis, accounting authority, stream quality, Rona attack, effective alarm, actual apprehension/police transfer or permanent Coney reliance; `CL-B0124-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for illness, work, safety and retrospective-incident restrictions.
+- Selection: Mimi `adv_chara_126_01_01`/`126_01_05`; Rona `adv_chara_005_01_04`; Tomoe `adv_chara_120_01_04`; Kyoko `adv_chara_123_01_01`; Xiao `adv_chara_147_01_05`; Coney `adv_chara_002_07_02`; Holocom objects `adv_obj_0027`/`0026`. All 192 native pages and eighteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.26 binds nine media receipts.
+- Observed: selected bodies bind helper, performers and warning messenger; Holocom objects depict active-message and no-answer states. They cannot locate Rona or prove a threat event. No arrest image is shown.
+- Native occurrence: command-only A:P0–1,11,21,36,45,62; B:P0,39–40,48; C:P0,4,34,41,64,78–79. C:P34–35 changes Holocom state; C:P64 shifts to route scene. Native cuts do not supply clinical, full-stream, capture or police evidence.
+- Outcome: `REVIEWED` for nine selected static composites and all native page-state segmentation. One hundred twenty dialogue-associated voice pages plus title cues, BGM/SFX and the full stream remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0124_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical/legal finding, specialist or monograph promotion.

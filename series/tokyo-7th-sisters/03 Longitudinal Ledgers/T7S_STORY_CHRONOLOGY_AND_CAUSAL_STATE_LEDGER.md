@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.24"
+version: "11.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 106 complete i-n-g primary documents / T7S_B0080–T7S_B0123; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 109 complete i-n-g primary documents / T7S_B0080–T7S_B0124; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 445`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 435`; `last_closed_block = T7S_B0123`. The admitted horizon contains 341 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 106 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 451`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 443`; `last_closed_block = T7S_B0124`. The admitted horizon contains 344 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 109 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1421,3 +1421,29 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.25. [B0123](../02%20Readings/
 | `EDGE-0442` | `PRIVACY_BOUNDARY_WITH_GROUP_CARE` | Player's blocking of covert observation in `EV-B0123-005` protects a private reply despite earlier collective concern and excitement. |
 
 `T7S_B0123_CLOSE-20260926`: five chapter events and six bounded edges; no new world/thread/unit, dating-policy, named-senior or total i-n-g chronology record.
+
+## B0124 Mimi's cover, hidden load and shared-risk limit
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.26. [B0124](../02%20Readings/T7S_B0124_DEEP_READING.md) owns the A/B/C locator key. B0086 supplies Mimi's prior relational older-sister account, B0118 Tomoe overload and B0105 Xiao context; menu order is not a fictional total chronology.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0124-001` | Player lists same-day administration/calls/stream, misses Rona's concern and hears Tomoe's nausea/failure fear while feeling dizzy, weak and unsteady. Mimi feels forehead heat and suspects a cold. | A:P2–54; `KNOW-0222`. No clinical diagnosis or safety clearance; Rona's need not yet disclosed. |
+| `EV-B0124-002` | Mimi offers cover; Player rests on sofa and locally approves her sample and access to nonconfidential accounting. She completes visible forms/calls as acting contact. | A:P55–61; B:P1–18; `KNOW-0223`. No standing credential, all-task audit or general finance-access rule. |
+| `EV-B0124-003` | Mimi offers Tomoe herb scent, which Tomoe says calms her, and adjusts Rona's stained costume after she finally speaks. Later a completed stream and thanks are reported. | B:P19–48; C:P1–9; `KNOW-0224`; `REL-0421`–`0424`. No clinical treatment, full readiness or performance review. |
+| `EV-B0124-004` | Kyoko praises Mimi and discounts Player; Mimi says she appeared assured for his rest, credits his many roles and admits exhaustion. | C:P5–22; `KNOW-0225`; `REL-0425`–`0426`. Local capability and hidden effort, not permanent replacement. |
+| `EV-B0124-005` | Xiao reports harasser rumor; Rona does not answer Kyoko's Holocom. Mimi takes alarm and goes alone, admits fear; recently ill Player follows and asks her to rely on him, and she names her overfunction habit. | C:P22–64; `KNOW-0226`; `REL-0419`–`0420`. No attack on Rona shown, safe-pursuit protocol or recovery assessment. |
+| `EV-B0124-006` | Coney later says she apprehended a harasser, handed him to police and told Rona; Mimi imagines teaching Coney to rely on others. | C:P65–79; `KNOW-0227`. Capture, transfer and Rona status are Coney's report, not directly witnessed. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0443` | `OVERLOAD_TO_MISSED_NEED` | Player's concentrated work/illness in `EV-B0124-001` → Rona's withheld costume concern and thin performer attention; no generalized competence verdict. |
+| `EDGE-0444` | `ILLNESS_TO_LOCAL_DELEGATION` | Mimi's concern in `EV-B0124-001` → Player's rest and permissioned cover in `EV-B0124-002`, not a formal backup appointment. |
+| `EDGE-0445` | `DELEGATION_TO_MEMBER_SUPPORT` | Mimi's temporary administrative cover in `EV-B0124-002` allows direct Tomoe/Rona care in `EV-B0124-003`; full stream quality remains uninspected. |
+| `EDGE-0446` | `PUBLIC_CONFIDENCE_WITH_HIDDEN_COST` | Mimi's poised cover in `EV-B0124-002`/`003` → Kyoko's praise and Mimi's later exhaustion disclosure in `EV-B0124-004`. |
+| `EDGE-0447` | `RUMOR_AND_UNANSWERED_CALL_TO_PURSUIT` | Xiao's report plus Holocom failure in `EV-B0124-005` → Mimi's solo search, without proving Rona was attacked. |
+| `EDGE-0448` | `PURSUIT_TO_RECIPROCAL_ASK` | Mimi's admitted fear in `EV-B0124-005` → Player's invitation to rely and her explicit request, despite his unresolved illness. |
+| `EDGE-0449` | `REPORTED_CAPTURE_TO_PROSPECTIVE_LESSON` | Coney's retrospective account in `EV-B0124-006` → Mimi's thought that Coney too could learn reliance; no changed Coney practice observed. |
+| `EDGE-0450` | `CARE_WITH_NO_PROTOCOL_PROOF` | Successful local substitution and claimed incident resolution in `EV-B0124-002`–`006` leave backup staffing, clinical, route-safety and police-verification processes unshown. |
+
+`T7S_B0124_CLOSE-20260926`: six chapter events and eight bounded edges; no new world/thread/unit record, medical or legal finding, durable protocol or total i-n-g chronology.

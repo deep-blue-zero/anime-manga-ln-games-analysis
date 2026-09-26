@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.24"
+version: "11.25"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 106 complete i-n-g primary documents / T7S_B0080–T7S_B0123; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 109 complete i-n-g primary documents / T7S_B0080–T7S_B0124; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 221`; `directional_relationship_states = 418`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0123, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 227`; `directional_relationship_states = 426`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0124, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2377,3 +2377,40 @@ The [B0123](../02%20Readings/T7S_B0123_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0418` | Rena → Honoka, **shared worry with reserved reply** | Discloses dilemma but answers privately and reports only the result. A:P27–58; C:P47–69. Reciprocal `REL-0417`; no obligation to show the meeting. |
 
 `T7S_B0123_CLOSE-20260926`: five actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, actual romance or formal policy record.
+
+## B0124 Mimi's cover and bounded reciprocal help
+
+The [B0124](../02%20Readings/T7S_B0124_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.26, binds these updates. Existing Mimi `IDENTITY-0042`/`CHAR-0065`, Rona `CHAR-0008`, Tomoe `CHAR-0029`, Kyoko `CHAR-0059`, Xiao `IDENTITY-0094`/`CHAR-0076`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0065` / Mimi | Notices Player's illness signs, wins local permission to cover forms/calls, supports Tomoe/Rona, later admits fatigue and seeks help after choosing a frightening solo route search. | A:P28–61; B:P1–48; C:P1–79. No permanent manager authority, clinical expertise or safe solo-intervention model. |
+| `CHAR-0001` / Player | Is overloaded/unwell, initially misses Rona's concern, accepts Mimi's help and nonconfidential-accounting review, sleeps, then runs after Mimi and invites reciprocal reliance. | A:P2–61; B:P1–18,41–48; C:P1–79. No diagnosed cold, proof of fitness to pursue or full safety governance. |
+| `CHAR-0008` / Rona | Hesitates to disclose stained costume to busy Player, tells Mimi and receives an adjustment, then thanks her after reported stream; later does not answer Holocom. | A:P4–10; B:P28–39; C:P1–4,29–40. Unanswered call is not proof of attack; direct post-threat voice absent. |
+| `CHAR-0029` / Tomoe | Fears revised choreography and nausea, says an offered herb scent calms her and prepares for the stream. | A:P16–20; B:P19–28. No medical treatment or full live-readiness verdict. |
+| `CHAR-0059` / Kyoko | Notices Rona's reluctance, critiques and later monitors Player, praises Mimi but hears her defense of his labor, attempts to contact Rona and warns Mimi about danger. | A:P7–26; C:P5–40. Her care is situated, not a risk-management protocol. |
+| `CHAR-0076` / Xiao | Reports hearing of a harasser near the park and alerts Kyoko/Mimi. | C:P22–32. Rumor-source credibility and exact threat not independently established. |
+| `CHAR-0003` / Coney | Is absent through daytime cover, later reports capturing a harasser, police handoff and conversation with Rona. | A:P22–24; C:P65–79. No directly witnessed arrest, police record or durable reliance change. |
+| `UNIT-0002` / Nanasta | Continues paperwork, company contact and a stream through temporary Mimi cover; the later route warning elicits improvised calls and searches. | A:P2–61; B:P1–48; C:P1–79. Local permission does not establish backup staffing, information-access or incident-response policy. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0222` | Player knows workload and bodily weakness; Kyoko sees Rona defer; Mimi feels forehead heat and suspects illness; Rona still holds costume concern. | A:P2–54. No clinical diagnosis or known Rona issue yet to Player. |
+| `KNOW-0223` | Mimi learns call/task details and asks about accounting access; Player expressly permits local review after judging it nonconfidential. | A:P55–61; B:P1–18. No standing authority or comprehensive quality check. |
+| `KNOW-0224` | Tomoe reports calming from herb scent; Rona reveals stain and sees Mimi's adjustment; later participants report stream completion. | B:P19–48; C:P1–9. No measured treatment or full broadcast assessment. |
+| `KNOW-0225` | Kyoko/Player observe Mimi's apparently easy cover; Mimi tells Kyoko she performed confidence partly for Player and feels exhausted. | B:P41–48; C:P5–22. No permanent comparative ranking. |
+| `KNOW-0226` | Xiao relays rumor; Kyoko gets no Holocom answer; Mimi/Player know only an inferred route risk until they meet. | C:P22–64. No observed assault; neither knows Coney's reported response yet. |
+| `KNOW-0227` | Coney claims capture/police transfer and Rona conversation; Player/Mimi hear her report and Mimi infers Coney's possible need for reciprocal help. | C:P65–79. No direct legal evidence or actual Coney uptake. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0419` | Mimi → Player, **permissioned cover and tentative reliance** | Handles local work, creates rest space, then asks if she can rely on him after fear. A:P28–61; B:P1–18; C:P49–60. Reciprocal `REL-0420`; no permanent manager replacement. |
+| `REL-0420` | Player → Mimi, **rest accepted then help offered** | Trusts her work, later runs after her and says she need not face danger alone. B:P1–18,41–48; C:P49–60. Reciprocal `REL-0419`; illness makes his protective capacity uncertain. |
+| `REL-0421` | Mimi → Rona, **private costume fix and route concern** | Makes room for Rona's delayed issue, adjusts costume and then pursues her after a warning. B:P28–39; C:P22–45. Reciprocal `REL-0422`; no proven encounter or full safety outcome. |
+| `REL-0422` | Rona → Mimi, **disclosure and thanks** | Shares the stain concern and thanks Mimi after stream. B:P28–39; C:P1–4. Reciprocal `REL-0421`; direct post-threat voice absent. |
+| `REL-0423` | Mimi → Tomoe, **situated calming offer** | Offers herb scent as Tomoe fears nausea and revised choreography. B:P19–28. Reciprocal `REL-0424`; no clinical treatment. |
+| `REL-0424` | Tomoe → Mimi, **reported relief** | Says the smell eases her and revises her dismissal of herbs. B:P22–28. Reciprocal `REL-0423`; not a durable anxiety cure. |
+| `REL-0425` | Kyoko → Mimi, **praise plus protective warning** | Recognizes cover work, hears hidden effort and warns against solo route search. C:P5–40. Reciprocal `REL-0426`; no operational safety plan. |
+| `REL-0426` | Mimi → Kyoko, **competence with correction** | Explains performed confidence, credits Player's labor and takes the search risk despite Kyoko's warning. C:P5–40. Reciprocal `REL-0425`; not a universal lesson to overfunction. |
+
+`T7S_B0124_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, diagnosis, police or readiness record.
