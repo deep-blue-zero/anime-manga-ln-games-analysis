@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.12"
+version: "2.13"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 12/60 blocks; i-n-g coverage is 70/280 episodes across 32 chapters. The next authorized but unread chapter is `300840` / **カ・ラ・ダが資本ッ！！** / 神城スイ, episodes `312200701 / 312200702 / 312200703`, assigned B0112.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 13/60 blocks; i-n-g coverage is 73/280 episodes across 33 chapters. The next authorized but unread chapter is `300850` / **シズカ、奮闘** / 久遠寺シズカ, episodes `312200801 / 312200802 / 312200803`, assigned B0113.
 
 ## Closed first i-n-g tranche
 
@@ -92,3 +92,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0109](T7S_B0109_DEEP_READING.md) | `300810` / 野ノ原ヒメ / きっと同じさ | `312200401 / 312200402 / 312200403` | `COMPLETE_BOUNDED` |
 | [T7S_B0110](T7S_B0110_DEEP_READING.md) | `300820` / 芹沢モモカ / 完全密着！次世代アイドル・モモカ | `312200501 / 312200502 / 312200503` | `COMPLETE_BOUNDED` |
 | [T7S_B0111](T7S_B0111_DEEP_READING.md) | `300830` / 臼田スミレ / アタシの特別なもの | `312200601 / 312200602 / 312200603` | `COMPLETE_BOUNDED` |
+| [T7S_B0112](T7S_B0112_DEEP_READING.md) | `300840` / 神城スイ / カ・ラ・ダが資本ッ！！ | `312200701 / 312200702 / 312200703` | `COMPLETE_BOUNDED` |

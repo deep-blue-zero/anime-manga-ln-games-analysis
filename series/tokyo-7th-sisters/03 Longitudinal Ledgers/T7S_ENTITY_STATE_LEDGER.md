@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.12"
+version: "11.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 70 complete i-n-g primary documents / T7S_B0080–T7S_B0111; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 73 complete i-n-g primary documents / T7S_B0080–T7S_B0112; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 162`; `directional_relationship_states = 330`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0111, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 167`; `directional_relationship_states = 338`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0112, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1964,3 +1964,39 @@ The [B0111](../02%20Readings/T7S_B0111_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0330` | Sumire → Shizuka, **comparison without substitution** | Initially projects art suitability onto Shizuka, then acknowledges own curiosity and tells the group about the club visit. A:P42–48; B:P11–25. Reciprocal `REL-0329`; Shizuka's lessons do not make either girl the sole qualified artist. |
 
 `T7S_B0111_CLOSE-20260926`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
+
+## B0112 Sui health knowledge and Hime shop load
+
+The [B0112](../02%20Readings/T7S_B0112_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.14, binds these updates. Existing Sui `IDENTITY-0017`/`CHAR-0014`, Hime `CHAR-0009`, Sumire `CHAR-0013`, Rona `CHAR-0008`, Coney `CHAR-0003`, Player `CHAR-0001`, Shizuka `CHAR-0015`, Nonohara shop `UNIT-0005` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0014` / Sui | Reports coach diet advice, loves Hime's tofu but overapplies it, accepts Sumire's liked-food substitution, shares a doughnut, later credits tofu shop after a reported swim win and underestimates the rush's burden on Hime. | A:P2–49; B:P1–46; C:P3–70. No diet-cause proof, clinical outcome, exact race details or reliable customer body-result promise. |
+| `CHAR-0009` / Hime | Offers many shop products and daily tofu, helps explain why tofu-only eating is narrow, praises the shop, then reports demand has left her without Nanasta time and asks Sui to ease it. | A:P15–43; B:P14–20,46; C:P20,45–70. Pride and sales do not demonstrate sustainable workload, profit or rest. |
+| `CHAR-0013` / Sumire | Anticipates Sui's single-mindedness, prepares a tofu hamburger based on a food Sui likes and voices a balanced-meal interpretation; later helps at the crowded shop and notes the interview's effect. | A:P11–14,37–48; B:P22–47; C:P4,47–66. A peer-cooked meal is not professional diet prescription or proof Sui's win came from it. |
+| `CHAR-0008` / Rona | Asks about Sui's current eating, brings okara doughnuts for a sweet break and shares them with the group before Coney consumes the remainder. | A:P7,25,38,47; B:P47–50; C:P1–30. Generosity and pleasure do not certify athletic nutrition or equal final allocation. |
+| `CHAR-0003` / Coney | Appears during doughnut sharing, eats more than initially admitted and apparently takes the remaining supply. | C:P9–31. Comic consumption does not become an endorsed food policy or nutritional finding. |
+| `CHAR-0001` / Player | Describes his own convenience-food pattern, asks Hime about tofu-only monotony, takes Sui's shared doughnut and urges her to protect a body he says is not hers alone; later helps at the shop. | A:P4,28–29; C:P27–49. Concern does not transfer bodily ownership or constitute a manager-approved health plan. |
+| `UNIT-0005` / Nonohara household and tofu shop | Provides product variety and, after Sui's reported win/endorsement, faces increased customer demand with Nanasta peer help and Hime's explicit capacity complaint. | A:P15–43; C:P42–70. No verified net revenue, staffing, pricing, promotional consent or lasting rest. |
+| `UNIT-0002` / Nanasta | Peers provide local food care and later shop labor, while Hime says the resulting demand prevents her from attending Nanasta. | A:P2–49; B:P22–52; C:P1–70. No formal diet, labor-sharing or sponsor/promotional framework. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0163` | Sui reports that a coach recommended diet review and plant protein to correct meat bias; Hime recognizes tofu as an example. | A:P2–24. The coach's exact full guidance, athlete history and medical facts are not independently shown. |
+| `KNOW-0164` | Sui knows a coach scolded her for eating too much and lists tofu with various toppings as her food; Hime and Shizuka recognize the narrowness. | B:P6–20. No full intake log, objective deficiency or health diagnosis. |
+| `KNOW-0165` | Sumire interprets the aim as balance/substitution and makes a tofu hamburger Sui says she enjoys. | B:P22–45. This is practical peer reasoning, not professional individualized advice or contest-cause evidence. |
+| `KNOW-0166` | Rona knows she prepared okara treats; Coney eats the supply, Player learns none remain, and Sui elects to share half of hers. | C:P1–40. Exact portions, nutrition, calorie intake and long-term moderation remain unmeasured. |
+| `KNOW-0167` | A victory interview reports Sui won and credited the tofu shop; visible customers arrive, ask for body outcomes, and Hime reports strain. | C:P42–70. Race time/field, causal diet role, customer outcomes, actual profits and Hime's later workload are unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0331` | Hime → Sui, **product care under capacity limit** | Offers many tofu varieties and daily delivery, later welcomes her praise but asks for relief from its demand effect. A:P15–43; B:P14–20; C:P45–70. Reciprocal `REL-0332`; no standing sponsor or delivery contract. |
+| `REL-0332` | Sui → Hime, **gratitude then burdensome endorsement** | Enjoys her tofu, publicly credits it after winning and responds to her fatigue with more tofu-as-stamina advice. A:P31–44; C:P53–70. Reciprocal `REL-0331`; appreciation does not measure causation or labor capacity. |
+| `REL-0333` | Sumire → Sui, **taste-aware correction** | Notices literalization, cooks a tofu hamburger and frames balance without rejecting Sui's favorite meat or Hime's product. A:P11–14; B:P22–45. Reciprocal `REL-0334`; not individualized clinical guidance. |
+| `REL-0334` | Sui → Sumire, **admission and acceptance** | Tells her about coach's scolding, tastes the meal and thanks her insight. B:P23–45. Reciprocal `REL-0333`; liking food is not measured nutrition or future adherence. |
+| `REL-0335` | Rona → Sui, **sweet respite** | Makes okara doughnuts for shared pleasure and a change of mood. B:P47–50; C:P1–20. Reciprocal `REL-0336`; no diet certification. |
+| `REL-0336` | Sui → Rona, **thanks and selective sharing** | Enjoys the doughnut, thanks Rona and later divides hers with the Player after Coney empties the supply. C:P3–40. Reciprocal `REL-0335`; not a general portion rule. |
+| `REL-0337` | Player → Sui, **concern with possessive language** | Asks about food, accepts shared doughnut and says her body is no longer hers alone. A:P4,28; C:P27–39. Reciprocal `REL-0338`; no ownership, contract or medical authority follows. |
+| `REL-0338` | Sui → Player, **sharing and mild challenge** | Offers him half her doughnut, notes not overeating and wonders whether his body-capital phrase is deliberate. C:P32–40. Reciprocal `REL-0337`; local generosity does not settle professional boundaries. |
+
+`T7S_B0112_CLOSE-20260926`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.

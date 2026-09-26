@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.12"
+version: "11.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 70 complete i-n-g primary documents / T7S_B0080–T7S_B0111; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 73 complete i-n-g primary documents / T7S_B0080–T7S_B0112; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 535`; `revisions = 42`; `predictions = 7`; `AV_reviews = 58`; `literary_findings = 535`. Claims are bounded to their stated B0001 through B0111 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 32 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 539`; `revisions = 42`; `predictions = 7`; `AV_reviews = 59`; `literary_findings = 539`. Claims are bounded to their stated B0001 through B0112 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 33 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1435,3 +1435,26 @@ Owner and A/B/C locator key: [B0111](../02%20Readings/T7S_B0111_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred forty-seven dialogue-associated voice pages plus title cues, BGM/SFX and any stream act remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0111_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, artist credential, specialist or monograph promotion.
+
+## B0112 Sui food logic, publicity and labor capacity
+
+Owner and A/B/C locator key: [B0112](../02%20Readings/T7S_B0112_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.14. B0005/B0109 are bounded Hime-load context, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0112-001` | `BOUNDED_INFERENCE`; D1; high | Sui turns second-hand plant-protein advice into overexclusive tofu eating; Sumire locally reframes through a liked-food tofu hamburger without shaming appetite. | A:P2–44; B:P7–45; `KNOW-0163`–`0165`. Coach's complete plan and clinical outcomes are absent; tofu is neither miracle nor useless. |
+| `CL-B0112-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Care for Sui's athlete body shifts labor onto Hime's shop when a public endorsement scales demand beyond her stated capacity. | B:P22–45; C:P42–70; `THREAD-0007`. Sales and peer help are real, but profit, staffing and sustainable rest are not established. |
+| `CL-B0112-003` | `BOUNDED_INFERENCE`; D1; high for causal limit | The reported race win and tofu praise do not prove a diet mechanism, and customers' hoped-for swimming/slimming outcomes are unsupported. | C:P42–63; `KNOW-0167`. The win may be accepted as reported without inferring race metrics or universal body results. |
+| `CL-B0112-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Sumire, Rona, Hime and Sui offer different local care, while Coney's consumption and the Player's possessive body phrase expose limits of sharing and managerial care. | B:P22–52; C:P1–40; `REL-0333`–`0338`. No comprehensive diet system, ownership or lasting provision is enacted. |
+
+### AV-0059 — food dialogue, reported swim win and shop rush
+
+- Questions/claims: whether static resources prove nutrition, race performance, customer count, health effect, shop capacity or causal victory; `CL-B0112-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for coach report, body claims and labor knowledge.
+- Selection: Sui `adv_chara_009_03_12`, `adv_chara_009_04_05`; Hime `adv_chara_006_01_05`; Sumire `adv_chara_008_01_11`; Rona `adv_chara_005_01_04`; Coney `adv_chara_002_03_09`. All 174 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.14 binds six media receipts.
+- Observed: Sui's selected school/club outfit and dark swimsuit are distinct presentations; Hime, Sumire, Rona and Coney remain distinct figures. The swimsuit accompanies a remembered interview, not viewed race motion or a measured diet result.
+- Native occurrence: command-only A:P0–1,21–23,45,49; B:P0,52; C:P0,15–16,25–26,41,52,55,69–70. C:P52–56 inserts a black-background Sui swimsuit still around victory recollection before returning to shop service. Scene effects do not show a race, quantity sold, nutrition values or medical outcomes.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twenty-eight dialogue-associated voice pages plus title cues, BGM/SFX and any race/live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0112_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, clinical plan, specialist or monograph promotion.

@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.12"
+version: "11.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 70 complete i-n-g primary documents / T7S_B0080–T7S_B0111; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 73 complete i-n-g primary documents / T7S_B0080–T7S_B0112; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 386`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 355`; `last_closed_block = T7S_B0111`. The admitted horizon contains 305 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 70 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 390`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 361`; `last_closed_block = T7S_B0112`. The admitted horizon contains 308 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 73 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1102,3 +1102,30 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.13. [B0111](../02%20Readings/
 | `EDGE-0355` | `PRESENT_CHOICE_WITH_OPEN_FUTURE` | Stage-like realization and later C:P96 statement in `EV-B0111-005` → current full-effort Nanasta choice, not a completed song, permanent exclusive vocation or repudiation of art. |
 
 `T7S_B0111_CLOSE-20260926`: five chapter events, six bounded edges; existing `THREAD-0010` advanced without new thread, world state, art commission, stream verdict or total i-n-g chronology.
+
+## B0112 Sui food rule, victory publicity and Hime labor addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.14. [B0112](../02%20Readings/T7S_B0112_DEEP_READING.md) owns the A/B/C locator key. B0005/B0109 supply bounded Hime household-load context; chapter-menu order does not establish a total chronology among i-n-g units. Coach, interviewer and customers have no stable invented identities.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0112-001` | Sui reports a coach asked for diet review before a swim competition, criticizing meat bias and mentioning plant protein. Hime offers tofu-shop varieties; Sui enjoys them, and Hime offers daily delivery. | A:P2–49; `KNOW-0163`; `REL-0331`–`0338`; `THREAD-0011`. Coach's full instruction, nutrition prescription and measured benefit are unavailable. |
+| `EV-B0112-002` | Sui later reports a coach's overeating reprimand and lists only tofu with different toppings. Sumire prepares a tofu hamburger to retain Sui's liked food and explains her interpretation of balanced meals; Sui likes it. | B:P1–46; `KNOW-0164`–`0165`; `REL-0331`–`0336`; `THREAD-0011`. No clinical plan, verified food composition or causal contest benefit follows. |
+| `EV-B0112-003` | Rona supplies okara doughnuts as a sweet change; Coney eats the remaining supply, and Sui shares her portion with Player while saying excess is unwise. Player says Sui's body is no longer hers alone. | B:P47–52; C:P1–40; `KNOW-0166`; `REL-0335`–`0338`; `UNIT-0002`. Treats are not a certified athletic diet; manager care is not ownership. |
+| `EV-B0112-004` | A reported swim win and Sui's interview praise bring customers to the Nonohara shop. Peers help serve; customers ask about becoming a swimmer or slimmer, and Sui responds broadly. Hime reports that the surge keeps her from Nanasta and asks for relief, while Sui suggests tofu for her stamina. | C:P42–70; `KNOW-0167`; `REL-0331`–`0338`; `THREAD-0007`; `UNIT-0005`. No viewed race, causal diet proof, customer outcome, verified profit or durable staffing/promotion plan. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0011` | Sui's single-minded protective/action model remains `OPEN`. B0112 shows a dietary version: she extends a coach's plant-protein example into tofu-only meals and is corrected through Sumire's practical food substitution. After a reported win she enthusiastically publicizes the shop while underweighting Hime's finite labor. The local food correction and Hime's request do not prove she will generalize balance to publicity or health claims. A:P2–49; B:P1–46; C:P42–70. |
+| `THREAD-0007` | Hime's shop/household labor remains `OPEN`. Her product expertise and offer benefit Sui, and Sui's interview brings demand. Peers help, but Hime says the surge prevents Nanasta attendance and asks Sui to slow it. No stable staffing, rest, pay or promotional boundary is enacted. A:P15–43; C:P42–70. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0356` | `ADVICE_TO_PRODUCT_EXAMPLE` | Sui's second-hand coach account in `EV-B0112-001` → Hime's tofu offer and Sui's acceptance; no complete coach plan is available. |
+| `EDGE-0357` | `LITERALIZATION_TO_EXCESS` | Sui's focused tofu intake after `EV-B0112-001` → reported overeating scolding in `EV-B0112-002`. Different toppings do not make a fully varied food pattern. |
+| `EDGE-0358` | `PRACTICAL_REFRAME` | Sumire's liked-food tofu hamburger in `EV-B0112-002` → Sui's acceptance of a more flexible interpretation. This is local understanding, not a certified nutrition plan or race cause. |
+| `EDGE-0359` | `SCARCITY_AND_SHARING` | Coney's doughnut depletion in `EV-B0112-003` → Sui's sharing with Player; the comic incident does not validate a portion rule. |
+| `EDGE-0360` | `PUBLICITY_CREATES_DEMAND` | Reported race win and Sui's interview praise in `EV-B0112-004` → shop rush. Sequence does not prove tofu caused victory or quantify revenue. |
+| `EDGE-0361` | `DEMAND_STRAINS_CARE_WORK` | Shop rush in `EV-B0112-004` → Hime's reported loss of Nanasta time and plea for rest. Peer help is visible, but capacity remains unresolved. |
+
+`T7S_B0112_CLOSE-20260926`: four chapter events, six bounded edges; existing `THREAD-0011` and `0007` advanced without new thread, world state, clinical advice, race verdict beyond report or total i-n-g chronology.
