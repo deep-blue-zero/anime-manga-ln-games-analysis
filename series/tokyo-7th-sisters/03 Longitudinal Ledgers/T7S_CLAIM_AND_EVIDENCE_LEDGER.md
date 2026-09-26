@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.6"
+version: "11.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 52 complete i-n-g primary documents / T7S_B0080–T7S_B0105; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 55 complete i-n-g primary documents / T7S_B0080–T7S_B0106; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 512`; `revisions = 42`; `predictions = 7`; `AV_reviews = 52`; `literary_findings = 512`. Claims are bounded to their stated B0001 through B0105 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 26 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 515`; `revisions = 42`; `predictions = 7`; `AV_reviews = 53`; `literary_findings = 515`. Claims are bounded to their stated B0001 through B0106 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 27 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1298,3 +1298,25 @@ Owner and A/B locator key: [B0105](../02%20Readings/T7S_B0105_DEEP_READING.md), 
 - Outcome: `REVIEWED` for selected stills and native segmentation. Eighty-seven dialogue-associated voice pages plus title cues, all BGM/SFX and any performance quality remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0105_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, health diagnosis, specialist or monograph promotion.
+
+## B0106 claims, visibility and static review
+
+Owner and A/B/C locator key: [B0106](../02%20Readings/T7S_B0106_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.8. B0002/B0079 comparisons are retrospective and do not create cross-chapter temporal order.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0106-001` | `BOUNDED_INFERENCE`; D1; high | Haru's cleaning is chosen and invites peer agency, but off-day participation is socially charged and cannot be made into a standing free-labor expectation. | A:P2–40; B:P1–13; `REL-0285`–`0286`. Sumire's reluctance, stated reasons and fatigue defeat both automatic-consent and pure-exploitation readings. |
+| `CL-B0106-002` | `THEMATIC_INTERPRETATION`; D1; high | Idol visibility both rewards and constrains ordinary public work; Haru's park invitation offers optional co-work instead of spectatorship, with explicit refusal and mixed motives retained. | B:P14–52; C:P1–26; `KNOW-0135`. Neither a secret campaign nor universal crowd control is evidenced. |
+| `CL-B0106-003` | `ETHICAL_INSTITUTIONAL_INTERPRETATION`; D1; moderate-high | An audience rumor creates live expectations after the fact; Coney's reported permission and the performers' specific assent yield one improvisational response without validating a preplanned campaign or full event governance. | C:P28–75; `KNOW-0136`–`0137`; `UNIT-0002`. Coney's avoidance of cleaning and her stage role coexist; no displayed permit, pay or safety audit. |
+
+### AV-0053 — office, street, park and elided performance
+
+- Questions/claims: whether native presentation verifies site changes, participants, crowd quantity, cleaning completeness, stage permission or live quality; `CL-B0106-001`–`003`.
+- Priority/modality: `AV-B` for still/native-state review; `AV-D` for attributed crowd, permission and live reports.
+- Selection: exact composites Haru `adv_chara_003_02_04`, Kajika `adv_chara_013_01_08`, Shizuka `adv_chara_010_01_08`, Sumire `adv_chara_008_01_05`, Coney `adv_chara_002_03_01`. All 174 native pages and fourteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.8 binds five media receipts.
+- Observed: Haru's red hair, dark school jacket and raised fists; Kajika's orange-red hair and sailor-style top; Shizuka's dark hair and cream school outfit; Sumire's orange hair and light top; Coney's pink hair, glasses and pink suit. Static costume/expression does not quantify cleaning, crowd, time, motive or stage performance.
+- Native occurrence: command-only A:P0–1,16,41; B:P0,31,53; C:P0,9,27,62,64,76–77. Native background references change office `bg_002.jpg.enc` → street `bg_029.jpg.enc` → park `bg_035.jpg.enc` → office; C:P27 and P64 fades separate invitation/rumor and announcement/aftermath. Generic `adv_chara_027_01` triple slots at C:P27 do not identify three stable individuals.
+- Outcome: `REVIEWED` for five selected stills and all native page-state segmentation. One hundred seventeen dialogue-associated voice pages plus title cues, all BGM/SFX and the elided live remain unauditioned; performed quality, actual crowd timing and full permit status are `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0106_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, specialist or monograph promotion.

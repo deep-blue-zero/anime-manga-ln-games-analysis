@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.6"
+version: "2.7"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 6/60 blocks; i-n-g coverage is 52/280 episodes across 26 chapters. The next authorized but unread chapter is `300780` / **Tokyo-7th お掃除大作戦！** / 春日部ハル, episodes `312200101 / 312200102 / 312200103`, assigned B0106.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 7/60 blocks; i-n-g coverage is 55/280 episodes across 27 chapters. The next authorized but unread chapter is `300790` / **ワン・ステップ・フォワード** / 天堂寺ムスビ, episodes `312200201 / 312200202 / 312200203`, assigned B0107.
 
 ## Closed first i-n-g tranche
 
@@ -86,3 +86,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0103](T7S_B0103_DEEP_READING.md) | `300750` / 玉坂マコト / ナイトメア・オン・セブンスストリート | `202003401 / 202003402` | `COMPLETE_BOUNDED` |
 | [T7S_B0104](T7S_B0104_DEEP_READING.md) | `300760` / 桂木カヅミ / マイ・ノート、マイ・ラブ | `202003501 / 202003502` | `COMPLETE_BOUNDED` |
 | [T7S_B0105](T7S_B0105_DEEP_READING.md) | `300770` / シャオ・ヘイフォン / シャオ・ハイ・ヌーン | `202003601 / 202003602` | `COMPLETE_BOUNDED` |
+| [T7S_B0106](T7S_B0106_DEEP_READING.md) | `300780` / 春日部ハル / Tokyo-7th お掃除大作戦！ | `312200101 / 312200102 / 312200103` | `COMPLETE_BOUNDED` |

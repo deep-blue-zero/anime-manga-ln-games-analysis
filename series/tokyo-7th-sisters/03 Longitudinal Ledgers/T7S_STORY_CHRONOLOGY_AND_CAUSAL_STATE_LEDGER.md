@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.6"
+version: "11.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 52 complete i-n-g primary documents / T7S_B0080–T7S_B0105; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 55 complete i-n-g primary documents / T7S_B0080–T7S_B0106; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 358`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 319`; `last_closed_block = T7S_B0105`. The admitted horizon contains 287 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 52 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 362`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 323`; `last_closed_block = T7S_B0106`. The admitted horizon contains 290 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 55 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -941,3 +941,27 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.7. [B0105](../02%20Readings/T
 | `EDGE-0319` | `RECLASSIFIES_GIFT` | Sumire's `EV-B0105-004` reward answers the loss in `EV-B0105-003` with a separate, consented dessert. Xiao can accept care within her training vocabulary without a completed transformation. |
 
 `T7S_B0105_CLOSE-20260925`: four chapter events, one open training/care thread and four chapter-local conceptual/causal edges; no new world state or cross-chapter chronology edge.
+
+## B0106 off-day labor, public address and rumor addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.8. [B0106](../02%20Readings/T7S_B0106_DEEP_READING.md) owns the A/B/C locator key. B0002's cleaning/recruitment history and B0079's care/overwork caution are retrospective comparisons, not cross-chapter time edges.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0106-001` | Haru organizes an off-day Nanasta office cleaning with Kajika, Shizuka, Sumire and the Player. The peers finish and clean Coney's desk without asking, discarding what Kajika calls unmistakable trash. Haru still wants more cleaning and proposes the city. | A:P2–40; `KNOW-0134`; `REL-0285`–`0288`; `UNIT-0002`. Peers state reasons for joining, but no standing off-day work duty or consent to every desk item is proved. |
+| `EV-B0106-002` | The group cleans part of the shopping district. Shopkeepers thank them, peers renew voluntary reasons, and idol recognition gathers a crowd; the Player directs retreat. Haru values being known yet regrets unfinished ordinary work. | B:P1–52; `KNOW-0135`; `REL-0285`–`0288`; `THREAD-0004` annotation. No actual photo, citywide completion or stable public-access rule follows. |
+| `EV-B0106-003` | Park visitors recognize the group. Haru invites them to help; one declines, another joins, and participation grows. An unsupported campaign/live rumor then circulates, and Haru apologizes for the unmet expectation. | C:P1–36; `KNOW-0136`; `REL-0287`–`0288`; `UNIT-0002`. An invitation is not a planned publicity campaign, and some volunteers also seek idol proximity. |
+| `EV-B0106-004` | Coney reports stage permission from Shizuka's grandfather, asks the performers about a live, and the group assents. Haru announces it. After the elided act, the group reports enjoyment and returns to a cleaned office. | C:P37–75; `KNOW-0137`; `REL-0289`–`0290`; `UNIT-0002`. Reported stage access is not a displayed full permit; performed quality, attendance, pay and event safety are unreviewed. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0004` | Haru's continuing choice and cost of idol-care work receive one chapter-local instance: she mobilizes off-day cleaning, sees fame obstruct its ordinary completion, then authors a public invitation. This does not resolve workload or prove her private reason beyond her words. A:P2–40; B:P38–52; C:P10–26,71–75. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0320` | `SCALES_PROPOSAL` | Completion of office cleaning in `EV-B0106-001` → Haru's proposed city-scale work; desire and title do not prove entire-city execution. |
+| `EDGE-0321` | `PUBLIC_VISIBILITY_CONSTRAINS` | Recognition and crowd growth in `EV-B0106-002` → retreat and unfinished shopping-street work, prompting the park attempt. |
+| `EDGE-0322` | `INVITATION_REFRAMES` | Haru's invitation in `EV-B0106-003` → optional co-work for some onlookers; explicit refusal and idol attraction limit a universal-civic-conversion claim. |
+| `EDGE-0323` | `RUMOR_CREATES_EXPECTATION` | Unplanned live rumor in `EV-B0106-003` → Coney's reported permission and specific performer decision in `EV-B0106-004`; later performance does not make the earlier event an actual campaign. |
+
+`T7S_B0106_CLOSE-20260925`: four chapter events and four chapter-local dependency edges; existing `THREAD-0004` advanced without a new thread, world state or cross-chapter chronology edge.

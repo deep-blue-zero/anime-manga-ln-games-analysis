@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.6"
+version: "11.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 52 complete i-n-g primary documents / T7S_B0080–T7S_B0105; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 55 complete i-n-g primary documents / T7S_B0080–T7S_B0106; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 133`; `directional_relationship_states = 284`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0105, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 137`; `directional_relationship_states = 290`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0106, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1756,3 +1756,35 @@ The [B0105](../02%20Readings/T7S_B0105_DEEP_READING.md) A/B key, witness `T7S_GA
 | `REL-0284` | Xiao → Player, **loss and hurt** | Cries over the consumed dessert even as she claims trial success. B:P22–29,37. Reciprocal `REL-0283`; no personal enmity or formal complaint established. |
 
 `T7S_B0105_CLOSE-20260925`: one stable identity route, one character state, four actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations. No readiness decision, monograph or specialist promotion.
+
+## B0106 Haru, peers and local public-work state
+
+The [B0106](../02%20Readings/T7S_B0106_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.8, binds the chapter-local updates. Existing Haru `IDENTITY-0004`/`CHAR-0004`, Sumire `CHAR-0013`, Kajika `CHAR-0020`, Shizuka `CHAR-0015`, Player `CHAR-0001`, Coney `CHAR-0003` and Nanasta `UNIT-0002` suffice. Generic passersby and shopkeepers are not given invented stable identities.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0004` / Haru | Organizes off-day cleaning, expands its imagined scope, feels the conflict between recognition and ordinary public help, and invites park visitors to join. She separately assents to announcing a permitted live and later values others' enjoyment. | A:P2–40; B:P1–52; C:P10–75. Shizuka's deeper-motive reading is not certified, and no durable civic project or safe workload follows. |
+| `CHAR-0013` / Sumire | Questions off-day labor but joins because cleanliness matters and being the only person resting feels wrong; helps retreat from a crowd and later agrees to the live. | A:P6–24; B:P6–44; C:P20,32,51,68–71. Her own reason is mixed; no universal availability or freedom from social pressure is established. |
+| `CHAR-0020` / Kajika | Cleans Coney's desk while claiming only obvious trash was discarded; helps in her hometown and speaks for participants after the park invitation; reports enjoyment of the live. | A:P18–23; B:P8,21,36,39; C:P18,29–31,53,70. Good intent does not prove every desk item was authorized or account for crowd safety. |
+| `CHAR-0015` / Shizuka | Joins as service/public encounter, senses more than tidiness in Haru's disappointment, identifies her grandfather as Coney's stage-permission source and agrees to the live. | A:P3–5,26–30; B:P9,20,37,45–48; C:P3,43–53,69. Her interpretation of Haru's interior remains an attributed inference, not privileged knowledge. |
+| `CHAR-0001` / Player | Joins cleaning, directs retreat from public crowd, guesses the park will be less conspicuous, sees Haru's invitation as uncalculated, and asks Coney not to re-mess her desk. | A:P10,20,24; B:P19,29–35,42,49–52; C:P4–8,21–23,33–35,48,66–67. His park-safety expectation is disproved by renewed recognition; no complete event governance follows. |
+| `CHAR-0003` / Coney | Avoids the office cleaning, then reports fast access to her grandfather-linked stage permission and solicits specific group assent for a park live. | C:P37–63,65–67. The source shows neither the full permit nor Coney carrying the earlier labor; her organizational help does not cancel the asymmetry. |
+| `UNIT-0002` / Nanasta | A voluntary but socially charged off-day cleanup becomes public co-work, then an unplanned live after an audience rumor and reported stage permission. | A:P2–40; B:P1–52; C:P1–75. No campaign, standing unpaid-labor norm, civic partnership, crowd procedure, verified full permit or technical performance claim. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0134` | The office team knows the room is cleaned and that Coney's desk was touched without asking; Kajika says only items obvious to her were discarded. | A:P17–24. Coney's prior wishes and the exact contents' full status remain unknown. |
+| `KNOW-0135` | Haru recognizes increased idol visibility and learns it can interrupt the shopping-street cleaning she wanted to finish; the Player guesses the park will be safer. | B:P14–52. The guess is not established knowledge, and Haru's hidden motive is not inferred from Shizuka's remark. |
+| `KNOW-0136` | Some park visitors believe the cleanup is a campaign leading to a live; Kajika and the Player know no such plan or venue has been announced/prepared. | C:P28–36. The rumor's origin and prevalence are unknown; later live does not make it a preexisting plan. |
+| `KNOW-0137` | Coney states she has obtained stage permission from Shizuka's grandfather, and the performers hear and assent to her live proposal. | C:P37–63. Independent permit text, full legal/safety scope, pay and technical production remain unavailable. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0285` | Haru → Sumire, **invitation with renewed opt-out** | Receives Sumire's help and says peers need not spend their off day on her wish. A:P6–15; B:P7–13. Reciprocal `REL-0286`; no assignment of unpaid duty. |
+| `REL-0286` | Sumire → Haru, **willing but pressured-by-belonging help** | Joins, complains, assists retreat and consents to the live. A:P6–24; B:P6–44; C:P51,68–71. Reciprocal `REL-0285`; no unconstrained permanent availability. |
+| `REL-0287` | Haru → Player, **expanding purpose and public action** | Proposes city/park cleaning, then addresses visitors directly after the Player fears another crowd. A:P34–40; B:P49–52; C:P8–25. Reciprocal `REL-0288`; no preplanned crowd strategy is shown. |
+| `REL-0288` | Player → Haru, **facilitation and bounded interpretation** | Participates, manages retreats, proposes park relocation and reads her invitation as characteristically uncalculated. A:P10,20; B:P29,49–52; C:P8,21–23. Reciprocal `REL-0287`; his interpretation is not private-motive certainty or guaranteed safety. |
+| `REL-0289` | Coney → Haru, **reported stage access and delegated public address** | Reports permission, asks the performers' will and asks Haru to announce to the people she invited. C:P37–63. Reciprocal `REL-0290`; not a standing contract or consent bypass. |
+| `REL-0290` | Haru → Coney, **specific acceptance** | Accepts the group's decision and publicly announces the live after Coney's request. C:P50–63. Reciprocal `REL-0289`; no future on-demand live obligation. |
+
+`T7S_B0106_CLOSE-20260925`: four actor-local knowledge states, three directional relationship pairs and existing-actor/unit annotations. No new identity, character, unit, readiness or monograph record.

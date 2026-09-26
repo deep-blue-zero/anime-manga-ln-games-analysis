@@ -4,7 +4,7 @@
   "artifact_type": "analytical_coverage_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "2.6",
+  "version": "2.7",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -27,18 +27,18 @@
     {
       "path": "T7S_COVERAGE_AND_ROUTING.jsonl",
       "role": "CURRENT_OR_CONSUMED",
-      "data_records": 373,
-      "bytes": 554929,
-      "sha256": "84b68436fcf3388e24a2ff7373a3db952a641492a66abcc5697b270a979be0ab",
-      "membership_sha256": "926a43a10fa7a7043b821e3d5b8d5356818031969f6c2985bfd72da0d569b17c"
+      "data_records": 376,
+      "bytes": 560989,
+      "sha256": "f58660e54b322e52135922f030b6782f9ccb130a488420cafce009f412ed6f38",
+      "membership_sha256": "c9061858545515c6c7d0b769e244c4d87efd1ee472bcc5b4dd81a12a79e26cf1"
     },
     {
       "path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
       "role": "ROUTED_OR_UNCONSUMED",
-      "data_records": 1217,
-      "bytes": 680510,
-      "sha256": "42fb361bae63a1b555c298d19d70dfb7976ccab893eca9974a98ea048ee77824",
-      "membership_sha256": "1f274aa31f260f3511bb2e2e88c4ebc1cb5d869c9648721704f81e2531a14f68"
+      "data_records": 1214,
+      "bytes": 678479,
+      "sha256": "9fba947ffe5a73f99c53a6f8a2907be23041b10ad07aaabf28ba09f35125aceb",
+      "membership_sha256": "7d4d07401f18a533d09fb9cd4615c6c72584947f83c40fc2040fce70f8a71227"
     }
   ],
   "transition": {
@@ -47,12 +47,12 @@
     "reason": "Preserve the complete authored ledger below the repository's per-file review threshold without dropping decisions, histories, routes, or defaults.",
     "semantic_change": "NONE"
   },
-  "current_effective_state_sha256": "5e978302ce4e7f00964f865bfc68965bb4660b58d37d4acacd4e410c28a3b53c",
+  "current_effective_state_sha256": "9e665ae64441978d20c651b99f353cedd4a5c3533dea1f56c3bfc6f6584f85a6",
   "latest_state_transition": {
-    "operation": "T7S_B0105_CLOSE",
+    "operation": "T7S_B0106_CLOSE",
     "date": "2026-09-25",
-    "moved_scenario_records": 2,
-    "unchanged_other_effective_records": 1588,
+    "moved_scenario_records": 3,
+    "unchanged_other_effective_records": 1587,
     "historical_shard_transition_preserved": true
   }
 }
