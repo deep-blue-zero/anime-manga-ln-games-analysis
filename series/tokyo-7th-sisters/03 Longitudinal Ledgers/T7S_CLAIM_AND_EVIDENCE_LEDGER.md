@@ -4,16 +4,16 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.0"
+version: "11.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 40 complete i-n-g primary documents / T7S_B0080–T7S_B0099; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 42 complete i-n-g primary documents / T7S_B0080–T7S_B0100; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 # Tokyo 7th Sisters claim and evidence ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 494`; `revisions = 42`; `predictions = 7`; `AV_reviews = 46`; `literary_findings = 494`. Claims are bounded to their stated B0001 through B0099 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first twenty complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 497`; `revisions = 42`; `predictions = 7`; `AV_reviews = 47`; `literary_findings = 497`. Claims are bounded to their stated B0001 through B0100 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first twenty-one complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1165,3 +1165,26 @@ Predictions are frozen descriptions of their stated horizons. Future correctness
 `T7S_EPISODE_NANASUTA_CLOSE-20260913` adds 18 claims, `REV-0040`–`0042`, one bounded seventeen-composite/nine-background static-visual record, and one queued performed-voice/music record covering 989 references. It distinguishes public contradiction from proven commercial harm, affection from specific attention, competence from self-sufficiency, enabling interpretation from recipient authorship, shared reference from sameness, cooperation from natural compatibility, strategic appropriation from production control, sincere intent from successful reception, support from substitution, and repair from retroactive authorization. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness; no character monograph or specialist synthesis is promoted.
 
 `T7S_ING_B0080_B0099_CLOSE-20260924` adds 20 chapter-bounded claims and `AV-0046` across 40 episodes. It distinguishes recognition from treatment, support from substitution, beneficial result from authorized means, solidarity from a harmless premise, grief from resolved perfectionism, role from authority script, legacy from replication, concern from verified knowledge, praise from generic approval, charm from accountability, repair from closure, instruction from replacement, innocent reciprocity from imposed sexual meaning, opportunity from allocation, connection from consent, ambition from prestige maximization, activation from structural rescue, and repair from restoration. No monograph or performed-audio claim is promoted.
+
+## B0100 claims and presentation review
+
+The owner is [B0100](../02%20Readings/T7S_B0100_DEEP_READING.md); its A/B key supplies exact scripts and zero-based page locators under `c20260909-r484` / `T7S_GAME_OFFLINE_JA_R484`. These claims admit only this chapter; comparison to B0041 is retrospective, not a chronology edge.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0100-001` | `THEMATIC_INTERPRETATION`; D1; high within chapter | Delayed arrival becomes accidental audience formation, while reciprocal desire to share the stage gives the journey its destination. | `EV-B0100-001`–`003`; A:P21–57; B:P1–7,37–46. Good-deeds-rewarded is a useful rival but overstates intention in the thief/cat encounters; discovery mechanism and durable fandom remain unknown. |
+| `CL-B0100-002` | `BOUNDED_INFERENCE`; D1; high | Saori's anticipated rejection is contradicted by the sisters' represented inclusion wish, but desired presence does not establish adequate protection. | `KNOW-0117`; `REL-0259`–`0260`; A:P48–57; B:P1–12,32–46. Care is not denied; clinical fitness and changed procedure are unproved. |
+| `CL-B0100-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | The ambulance's conversion from accident response to entrance spectacle preserves comic pleasure and bodily cost simultaneously. | B:P23–46; `/Item` at B:P24; `AV-0047`. A purely punitive account loses community joy; a resilience-only account suppresses hospital refusal and unverified recovery. No acoustic or runtime inference. |
+
+### AV-0047 — Saori variants and ambulance identification
+
+- Question/claims: distinguish static injury-associated design and the actual object from inferred medical state or performed spectacle; `CL-B0100-002`–`003`.
+- Priority/modality: `AV-B` selected static identity check; `AV-D` for text-supported causal and knowledge findings.
+- Selection/context: `adv_chara_144_01_01`, `_02`, `_03` in the complete chapter; the base presentation is already present at A:P13. `adv_obj_0069` is invoked at B:P24 `/Item`. All 107 native pages and 17 command-only states were reviewed.
+- Reviewer/tool/date: local analytical execution, hash-resolved native-offset compositing and direct image inspection, 2026-09-25. The source-lock receipt binds body/face hashes and offsets.
+- Observed: orange hair; white head wrap and facial dressings; white blouse, blue checked collar/skirt and red ribbon; unchanged raised two-finger hand poses with three face configurations. Object is a white/red ambulance illustration with street inset.
+- Interpretation/limit: no progressively updated wound map, clinical diagnosis, gesture timing, vehicle motion or crash mechanism follows from those assets. Native fades/shakes/sound references establish script states, not measured runtime.
+- Outcome: `STATIC_QUESTION_RESOLVED`; no dependent static claim withheld. All 54 voice-reference pages and BGM/SFX remain unauditioned. Performed voice, singing and timing claims are withheld; a later monograph still requires actual listening under the governing protocol.
+- Claim operation: admit the three bounded claims above without silently revising earlier formulations or frozen predictions. No new revision ID is required; no specialist promotion.
+
+`T7S_B0100_CLOSE-20260925`: three claims and one AV review added; 42 revisions and seven frozen predictions preserved unchanged.

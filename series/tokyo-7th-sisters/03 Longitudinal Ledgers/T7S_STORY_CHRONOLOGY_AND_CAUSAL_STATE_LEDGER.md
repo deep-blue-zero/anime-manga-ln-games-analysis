@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.0"
+version: "11.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 40 complete i-n-g primary documents / T7S_B0080–T7S_B0099; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 42 complete i-n-g primary documents / T7S_B0080–T7S_B0100; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 338`; `world_state_records = 25`; `thread_records = 42`; `chronology_and_dependency_edges = 298`; `last_closed_block = T7S_B0099`. The admitted horizon contains 275 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first forty admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 341`; `world_state_records = 25`; `thread_records = 43`; `chronology_and_dependency_edges = 301`; `last_closed_block = T7S_B0100`. The admitted horizon contains 277 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first forty-two admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -804,3 +804,25 @@ History starts with `INIT-20260909`: schemas, zero state, and source routes esta
 `T7S_EPISODE_NANASUTA_CLOSE-20260913` admits the exact seventeen-primary-document EPISODE NANASUTA family and adds twelve events, one world state, two threads, and fifteen typed edges. It follows Kyoko/Ferb through image anxiety and person-specific rehearsal, Sumire/Kazumi through privacy breach and mismatch-compatible media strategy, and Haru/Shirayuki/the child through shelter, failed gift, circulating courage, and labor-supported repair. Detailed reconstruction stays in B0077–B0079; [T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md](../07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) integrates causal state and [T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md](../07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) owns the deletion-tested rain/umbrella and care-circulation argument. Seventeen exact character states and nine backgrounds were reviewed; all 989 voice-reference pages remain unauditioned. All eleven 2034 Main families are now consumed, but the complete 2034-era release remains pending and 2053 semantic admission remains blocked.
 
 `T7S_ING_B0080_B0099_CLOSE-20260924` admits the first twenty complete native i-n-g chapters as forty exact primary documents and adds `EV-B0080-001`–`EV-B0099-001`. Each compact event routes the complete local chapter chain to its canonical reading; table order is the prescribed portfolio route rather than a cross-chapter chronology. The transaction adds no world-state record, thread record, or chronology/dependency edge because no supported relation requires one. All 2,624 pages and 190 command-only states were reviewed; performed audio remains unauditioned, later i-n-g chapters remain unopened, and all 2053 semantics remain blocked.
+
+## B0100 bounded i-n-g state addition
+
+This is a separately placed ordinary-life interval, not a sequel inferred from menu order. All records below use witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.2 and the exact A/B locator key in [B0100](../02%20Readings/T7S_B0100_DEEP_READING.md). Earlier states and prospective readings remain intact.
+
+| ID | Position and factual/causal record | State delta, threads, and evidence |
+| --- | --- | --- |
+| `EV-B0100-001` | Saori attributes lateness to a broken alarm, receives repeated impacts while hurrying to the sisters' shopping-district live, accidentally intercepts a thief and finds a cat, then deliberately warns an elder of a falling pot. The waiting group lacks this account. | A:P2–57; `CHAR-0038`; `KNOW-0117`; `THREAD-0043`. Different degrees of agency are retained; no clinical diagnosis or total chronology. |
+| `EV-B0100-002` | Broadcast timing pressures the Player to remove absent Saori from formation; Kajika objects because sharing Nanasta friends with her hometown matters. After a vehicle impact Saori arrives by ambulance and reports first aid and transport. | B:P1–31; `REL-0259`–`0260`; `KNOW-0117`–`0118`. Desired inclusion precedes explanation. Her account does not establish fitness to perform. |
+| `EV-B0100-003` | Kajika asks about injury, Saori asserts ability, and four encountered beneficiaries arrive as supporters. Saori cannot explain how they found her; the group invites the crowd to enjoy the live. | B:P32–48; `KNOW-0118`; `UNIT-0002`; `THREAD-0043`. Reunion and invitation, not a complete performed set, durable fandom or recovery, are shown. |
+
+| ID | State | Evidence and limit |
+| --- | --- | --- |
+| `THREAD-0043` | `CLOSED_LOCAL`: delayed arrival/incomplete live formation resolves at the stage reunion. | `EV-B0100-001`–`003`. Medical outcome and later performance remain unknown; no fabricated cure or continuing clinical storyline. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0299` | `CONSTRAINS` | Broadcast deadline → waiting/formation decision in `EV-B0100-002`; Kajika's inclusion objection changes the immediate plan, not broadcast time. |
+| `EDGE-0300` | `ENABLES` | Encounters in `EV-B0100-001` → new supporters in `EV-B0100-003`; their means of identifying Saori and locating the show is unknown. |
+| `EDGE-0301` | `ENABLES_WITHOUT_PROVING_FITNESS` | Saori's reported first aid and ambulance lift → reunion in `EV-B0100-002`–`003`; no medical clearance follows. |
+
+`T7S_B0100_CLOSE-20260925`: add three events, one locally closed thread and three non-temporal dependency edges. No world-state record or cross-chapter `BEFORE` relation is warranted.

@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.0"
+version: "2.1"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche is closed: `T7S_B0080`–`T7S_B0099`, twenty complete native i-n-g chapters and forty episode records. Each chapter has a canonical targeted-case reading, text-and-static review, coverage reconciliation, and cumulative state handoff. The next prescribed but unopened case is layer `300720`, **ラン・サヲリ・ラン**, under 夜舞サヲリ / `NM-ING-200330`, episodes `202003101` and `202003102`.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The authorized [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) is now active; B0100 closes two more episodes, bringing i-n-g coverage to 42/280 episodes across 21 complete chapters. The next authorized but unopened chapter is `300730` / シラユキ・イン・ワンダーランド / family `200340`, episodes `202003201` and `202003202`.
 
 ## Closed first i-n-g tranche
 
@@ -75,3 +75,9 @@ The first mandated tranche is closed: `T7S_B0080`–`T7S_B0099`, twenty complete
 - The 86 unique Main transcript attachments are already represented by 87 closed Main occurrences and are not portfolio inputs a second time.
 - Tutorial, navigation, event-mechanics, blank, and duplicate-opening resources do not create new narrative events.
 - Performed audio remains unreviewed unless a later artifact explicitly records audition and locator evidence.
+
+## Continuous-run closed cases
+
+| Block | Chapter | Episodes | Status |
+| --- | --- | --- | --- |
+| [T7S_B0100](T7S_B0100_DEEP_READING.md) | `300720` / 夜舞サヲリ / ラン・サヲリ・ラン | `202003101 / 202003102` | `COMPLETE_BOUNDED` |

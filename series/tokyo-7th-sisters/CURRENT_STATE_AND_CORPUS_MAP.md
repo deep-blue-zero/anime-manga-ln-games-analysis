@@ -4,16 +4,16 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.1"
+version: "12.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 40 non-Main i-n-g episodes / T7S_B0080–T7S_B0099 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 42 non-Main i-n-g episodes / T7S_B0080–T7S_B0100 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -38,18 +38,22 @@ project_initialization:
     - "09 Audits and Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md"
   sequential_analysis_lock: open
 substantive_findings_at_bootstrap: false
-execution_scope: next_major_story_unit_complete
+execution_scope: continuous_sequential_60_major_blocks
 sequential_execution:
-  latest_operation: T7S_ING_B0080_B0099_CLOSE
-  status: COMPLETE_BOUNDARY
-  authorized_continuation: "No additional story source is open; next prescribed candidate remains metadata-only"
-  episode_ids: ["202001101", "202001102", "202001201", "202001202", "202001301", "202001302", "202001401", "202001402", "202001501", "202001502", "202001601", "202001602", "202001701", "202001702", "202001801", "202001802", "202001901", "202001902", "202002001", "202002002", "202002101", "202002102", "202002201", "202002202", "202002301", "202002302", "202002401", "202002402", "202002501", "202002502", "202002601", "202002602", "202002701", "202002702", "202002801", "202002802", "202002901", "202002902", "202003001", "202003002"]
-  script_ids: ["scout_041_01_01.json__5574dd10d3af0d42", "scout_041_01_03.json__d5f035a78e7c3749", "scout_042_01_01.json__99ecd1a35abb3284", "scout_042_01_03.json__3ce4ba12c291e605", "scout_043_01_01.json__c8047e6f485f6073", "scout_043_01_03.json__7722f6c116884eab", "scout_044_01_01.json__15644133881b9cd3", "scout_044_01_03.json__f525848d0ec3add8", "scout_045_01_01.json__37c43e7ffd1d0144", "scout_045_01_03.json__251e15c016a5ba2a", "scout_046_01_01.json__685807f4f1866805", "scout_046_01_03.json__11d9d0d57d3a83f5", "scout_047_01_01.json__89c3073b14531e33", "scout_047_01_03.json__54aa3d0b0654c8f1", "scout_048_01_01.json__dc5be3a33a92189a", "scout_048_01_03.json__0d4aa734e59e3689", "scout_049_01_01.json__e8451ec6cf0a9cd4", "scout_049_01_03.json__614dd483932cbf10", "scout_050_01_01.json__9f5ac0f4e17c3780", "scout_050_01_03.json__7fe92c3e3b420639", "scout_051_01_01.json__7a2a6e6369f8adcf", "scout_051_01_03.json__d5c812ea91329291", "scout_052_01_01.json__69531669a998774b", "scout_052_01_03.json__8df1e6c179838968", "scout_081_01_01.json__50d9050e014846c9", "scout_081_01_03.json__f3b0ad95a2c8a6dd", "scout_082_01_01.json__312179e87ee349d1", "scout_082_01_03.json__a477648aa044487c", "scout_083_01_01.json__54047400e2aaad03", "scout_083_01_03.json__7386a76042693404", "scout_084_01_01.json__50cbc54adcd47aa2", "scout_084_01_03.json__688044377d8e400b", "scout_085_01_01.json__a2f0c4ae2baade70", "scout_085_01_03.json__f05ff0a67c90bd89", "scout_086_01_01.json__ce53371e0698251e", "scout_086_01_03.json__0325ce74c3cefe45", "scout_087_01_01.json__ddf6e3b435c36987", "scout_087_01_03.json__f9601d404d6b0182", "scout_088_01_01.json__8768cd44ae2c6eca", "scout_088_01_03.json__bbf43e5db5b24503"]
-  episode_scope: "twenty complete i-n-g layers 300520–300710 / T7S_B0080–T7S_B0099"
-  committed_high_water: "2,624 pages; 2,434 text records; 190 command-only pages; 40 selected composites; cumulative ledgers integrated; performed audio unauditioned"
-  next_candidate_episode_id: "202003101"
-  next_candidate_family_layer_id: "200330"
-  next_candidate_status: METADATA_ONLY_NOT_OPEN
+  mode: continuous_sequential
+  latest_operation: T7S_B0100_CLOSE
+  status: ACTIVE
+  authorized_start: T7S_B0100
+  terminal_boundary: T7S_B0159
+  committed_high_water: T7S_B0100
+  completed_run_blocks: 1
+  remaining_run_blocks: 59
+  confirmation_between_units: false
+  execution_record: "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md"
+  next_candidate_episode_id: "202003201"
+  next_candidate_family_layer_id: "200340"
+  next_candidate_native_chapter_layer_id: "300730"
+  next_candidate_status: AUTHORIZED_NOT_YET_CONSUMED
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -58,7 +62,7 @@ major_story_structures:
     native_main_families_total: 11
     closed_main_families: 11
     remaining_main_family_layer_ids: []
-    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079 plus first twenty complete i-n-g chapters / T7S_B0080–T7S_B0099"
+    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079 plus first twenty-one complete i-n-g chapters / T7S_B0080–T7S_B0100"
     eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
     non_main_portfolio_status: IN_PROGRESS
     declared_character_release: NOT_STARTED
@@ -77,7 +81,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**The first twenty 2034 non-Main i-n-g analytical blocks are closed.** [T7S_B0080–T7S_B0099](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) cover forty complete episode documents with text, all command-only states, representative static presentation, coverage reconciliation, and cumulative ledger integration. Performed audio remains unauditioned. The 2034 stack remains `IN_PROGRESS`, the next i-n-g case is metadata-only and unopened, and every 2053 semantic operation remains blocked.
+**B0100 is closed; the authorized B0100–B0159 run is active (1/60 blocks).** The [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) binds the 174-episode plan, exact completed membership and next candidate. [B0100](02%20Readings/T7S_B0100_DEEP_READING.md) adds 107 fully reviewed pages and selected static assets to the prior forty-episode i-n-g tranche. Performed audio remains unauditioned; the 2034 era release is incomplete and every 2053 semantic operation remains blocked.
 
 ## Governing and cumulative homes
 
@@ -230,14 +234,16 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 | Scope | Inventoried | Semantically screened | Factually reconstructed | Closely analyzed | Integrated state |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Main | 364 | 235 | 235 | 235 | 235 |
-| Sub | 755 | 0 | 0 | 0 | 0 |
-| Event | 231 | 0 | 0 | 0 | 0 |
-| Additional scripts / logical occurrences | 228 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 | 86 / 87 |
-| Supplemental records | 30,991 | 0 | 0 | 0 | 0 |
+| Sub | 755 | 744 | 42 | 42 | 42 |
+| Event | 231 | 231 | 0 | 0 | 0 |
+| Additional scripts / logical occurrences | 228 unique scripts | 219 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 |
+| Supplemental records | 30,991 | 26,844 | 0 | 0 | 0 |
 
-The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The forty T7S_B0080–T7S_B0099 Sub documents are also consumed; all other Sub/Event and remaining additional/supplemental frontiers remain `NOT_STARTED`.
+Screening counts are recomputed from the logical ledger, expanding shard-local defaults. The Sub screening count includes the one excluded crossover episode; only 743 Sub episodes belong to the eligible 2034 portfolio. Supplemental screening counts use active leaf tranches only and do not double-count the two inactive split parents. Screening/routing is not reconstruction or audiovisual review.
 
-Across B0001–B0099 the repository now contains 99 bounded readings, 338 causal events, twenty-five world states, forty-two threads, 298 typed edges, 90 bounded identity routes, 72 character states, 116 epistemic states, 258 directional relationship states, twenty-five unit/institution states, twenty-nine retained R2 readiness decisions, 494 literary claims, forty-two revisions, seven frozen predictions, and forty-six bounded AV-review records. The first i-n-g tranche adds 40 primary episodes / 2,624 pages / 2,434 text records / 190 command-only pages / 1,866 voice-reference pages and 40 reviewed protagonist composites. No total order among those chapters or against Main is inferred; no performed-audio claim, monograph, or new specialist synthesis is promoted.
+The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The forty-two T7S_B0080–T7S_B0100 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
+
+Across B0001–B0100 the repository now contains 100 bounded readings, 341 causal events, twenty-five world states, forty-three threads, 301 typed edges, 90 bounded identity routes, 72 character states, 118 epistemic states, 260 directional relationship states, twenty-five unit/institution states, twenty-nine retained R2 readiness decisions, 497 literary claims, forty-two revisions, seven frozen predictions, and forty-seven bounded AV-review records. The i-n-g horizon totals 42 primary episodes / 2,731 pages / 2,524 text records / 207 command-only pages / 1,920 voice-reference pages. B0100 adds three reviewed Saori composites and one object to the prior forty composites. No total order among those chapters or against Main is inferred; no performed-audio claim, monograph, or new specialist synthesis is promoted.
 
 ## Major-story-structure transition state
 
@@ -301,7 +307,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. Inside the routed non-Main portfolio, the first twenty complete i-n-g chapters are closed through `T7S_B0099`. The next prescribed chapter is metadata-only `300720` / **ラン・サヲリ・ラン** / 夜舞サヲリ, episodes `202003101`–`202003102`; it is not opened by this closeout. Physical source order remains a routing axis, not a fabricated total chronology, and no 2053 semantic material is authorized.
+There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. Inside the routed non-Main portfolio, twenty-one complete i-n-g chapters are closed through `T7S_B0100`. The next authorized but unread chapter is `300730` / **シラユキ・イン・ワンダーランド** / 有栖シラユキ, episodes `202003201`–`202003202`, assigned B0101. The continuous run ends after B0159; publication remains pending completion and audit of all sixty blocks. Physical source order remains a routing axis, not a fabricated total chronology, and no 2053 semantic material is authorized.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -340,3 +346,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-09-24 — V1 / 11.1: open T7S_B0080 on complete i-n-g layer `300520`; reconstruct all 78 Japanese text records across episodes `202001101`–`202001102`; preserve command/static presentation, performed-audio, closeout, and cumulative-integration obligations; and leave all later portfolio and 2053 scope unopened.
 - 2026-09-24 — V1 / 12.0: close T7S_B0080–T7S_B0099 as twenty complete i-n-g targeted cases; reconcile forty episode records, all 2,624 pages and 190 command-only states; review forty selected composites; integrate causal/entity/claim state; preserve performed-audio and total-chronology limits; and stop before metadata-only chapter `300720`.
 - 2026-09-24 — V1 / 12.1: preserve the complete 1,590-record coverage state as one manifest-bound logical ledger over disjoint current-or-consumed and routed-or-unconsumed shards; retain identical effective semantics while bringing each physical artifact below the repository review threshold.
+
+- 2026-09-25 — V1 / 12.2: close B0100 with 277 admitted primary documents total; activate the bounded 60-block run through B0159, preserve earlier historical receipts, and route unopened B0101. See its execution record for current ledger counts and verification.

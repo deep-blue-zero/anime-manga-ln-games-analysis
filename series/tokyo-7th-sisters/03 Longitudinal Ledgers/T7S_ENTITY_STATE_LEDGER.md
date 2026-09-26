@@ -4,16 +4,16 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.0"
+version: "11.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 40 complete i-n-g primary documents / T7S_B0080–T7S_B0099; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 42 complete i-n-g primary documents / T7S_B0080–T7S_B0100; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 # Tokyo 7th Sisters entity state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 90`; `character_states = 72`; `epistemic_states = 116`; `directional_relationship_states = 258`; `unit_states = 25`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0099. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 90`; `character_states = 72`; `epistemic_states = 118`; `directional_relationship_states = 260`; `unit_states = 25`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0100, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1562,3 +1562,28 @@ Capabilities:
 ## Character discovery boundary
 
 The local ledger routes analytical identity/state; it is not a parallel global character registry. Eligible reviewed monographs/models may later support discovery by the curation agent. That process alone writes the global character registry and generated index. No character-upsert file or repository-wide reconstruction score is created by this bootstrap.
+
+## B0100 chronology-qualified state annotations
+
+The following additions are current evidence for the named stable IDs, not replacements for their separately dated Main states. [B0100](../02%20Readings/T7S_B0100_DEEP_READING.md) owns reconstruction and exact A/B page locators; witness and source-lock 12.2 apply throughout.
+
+| Existing stable ID | Added chapter-bounded state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0038` / `yamai-saori` | Wants to sing with each Harumi sister; persists after involuntary collisions and deliberate protection of an elder, refuses a hospital suggestion, later calls an ambulance collision fortunate because it enables arrival. | A:P13–51; B:P9–19,27–35. First aid and quick recovery are her reports; no verified clearance, universal generosity rule or chronology relative to B0041. |
+| `CHAR-0001` / Player | Balances deadline and inclusion, worries privately, accepts waiting until the limit, then ends the reunion with safety-first language. | A:P53–57; B:P1–7,20–22,32–46. A maxim is not a changed procedure. |
+| `CHAR-0019` / Sawara | Provides food for the sponsored local live and receives Saori's extraordinary arrival through spectacular-entrance humor. | A:P2–9; B:P23–31,44. Liveliness does not independently verify safety. |
+| `CHAR-0020` / Kajika | Wants her hometown to meet Nanasta friends, resists exclusion, then directly asks about Saori's injuries and singing capacity. | B:P1–7,33–36. Desire and concern coexist with reliance on Saori's assurance. |
+| `CHAR-0021` / Shinju | Supports performing together, initially reads the ambulance as production staging, and jokes that misfortune has become fans. | B:P1–7,23–31,43. This local state does not revise her separately established 2043 endpoint. |
+| `UNIT-0002` / Nanasta | Shop sponsorship, hospitality and fixed broadcast time support a hometown appearance; peer inclusion restores the intended formation and unexpected supporters expand its public. | A:P2–9; B:P1–7,37–46. No new standing unit, sponsor policy, safety procedure or durable fan count. |
+
+| ID | Knowledge/provenance state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0117` | Saori expects anger/disappointment while the sisters argue for her inclusion. Reader access to her obstacles exceeds the waiting group's knowledge. | A:P13–57; B:P1–12; `EV-B0100-001`–`002`. Expected blame is not the group's established belief; no omniscient mutual understanding. |
+| `KNOW-0118` | The group hears Saori's ambulance/first-aid explanation. The returning supporters reveal a connection she had not intentionally advertised; even she does not know their discovery route. | B:P27–41; `EV-B0100-002`–`003`. Clinical clearance and a fan-routing mechanism remain unknown. |
+
+| ID | Direction | Change and counterpart |
+| --- | --- | --- |
+| `REL-0259` | Saori → Harumi sisters | Specific shared-performance desire sustains her journey; she expects to have disappointed them and rejoins their stage. A:P21–51; B:P9–12,34–36. Reciprocal `REL-0260`; harm endured is not proof of unlimited obligation. |
+| `REL-0260` | Harumi sisters → Saori | Kajika argues for waiting and checks injury; Shinju supports inclusion and reads the arrival as staging; Sawara celebrates increased liveliness. B:P1–7,23–46. Reciprocal `REL-0259`; their different responses are not collapsed into identical knowledge or effective safeguarding. |
+
+`T7S_B0100_CLOSE-20260925`: add two epistemic and two reciprocal directional states; annotate five existing character IDs and Nanasta. No new identity, character, unit or readiness record. No voice capability or monograph promotion; existing readiness horizons stay frozen.

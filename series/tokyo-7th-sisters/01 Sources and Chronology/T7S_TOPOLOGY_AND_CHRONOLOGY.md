@@ -4,16 +4,16 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.0"
+version: "12.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 40 non-Main i-n-g documents / T7S_B0080–T7S_B0099 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 42 non-Main i-n-g documents / T7S_B0080–T7S_B0100 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 # Tokyo 7th Sisters source topology and chronology
@@ -242,7 +242,7 @@ The [completion audit](../09%20Audits%20and%20Manifests/T7S_EPISODE_NANASUTA_COM
 
 The [passed routing audit](../09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) partitions every Sub/Event episode, every non-catalog scenario resource, and every supplemental record without asserting a fabricated cross-family chronology. It admits 743 Sub and 231 Event episodes to the 2034 portfolio horizon; holds eleven 2053-side birthday episodes behind the release gate; and separates one explicit Hololive crossover. Native parent links remain topology edges rather than `BEFORE` claims.
 
-The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. The first twenty i-n-g chapters are now closed through layer `300710`; the next unopened bounded case is layer `300720`, episodes `202003101`–`202003102`. Screening and routing still do not establish a fabricated cross-family chronology or performed-audio evidence.
+The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. B0100 additionally closes chapter `300720`, episodes `202003101`–`202003102`, at source orders 137–138 (107 pages, 90 text records, 17 command-only pages, 54 unauditioned voice references). The next authorized, unopened chapter is `300730`, episodes `202003201`–`202003202`. All order claims remain chapter-local.
 
 ## First twenty i-n-g targeted cases
 
@@ -250,7 +250,7 @@ The mandated source-routing sequence opens with native Sub top layer `100010` an
 
 Table order records the prescribed analytical route, not a total diegetic chronology. Each front episode precedes its paired back episode; no broader before/after relation among the twenty chapters or against Main is inferred without independent dialogue evidence. All command states and forty selected first/last protagonist composites were reviewed. Performed voice, singing, BGM, and SFX remain unauditioned.
 
-The next routed but unopened native chapter is `300720` / **ラン・サヲリ・ラン**, under family `200330` / 夜舞サヲリ, episodes `202003101` and `202003102` at source-order indexes 137–138. It remains metadata-only after this closeout; every 2053 semantic source remains blocked.
+The active [B0100–B0159 execution record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) binds the complete next-sixty metadata plan and distinguishes completed B0100 from unread B0101–B0159. No 2053 semantic source is admitted.
 
 ## Revision history
 
@@ -280,3 +280,5 @@ The next routed but unopened native chapter is `300720` / **ラン・サヲリ�
 - 2026-09-24 — V1 / 11.0: partition the complete non-Main inventory; route 974 eligible Sub/Event episodes and exact additional/supplemental tranches to factual homes; retain eleven 2053 birthday episodes and all other 2053 semantics behind the release gate; isolate the Hololive crossover; and authorize portfolios without introducing chronology edges.
 - 2026-09-24 — V1 / 11.1: open bounded T7S_B0080 on the two exact documents in i-n-g layer `300520`; record the complete local source envelope and local-order limit; begin text reconstruction without yet asserting static presentation, audio, block closure, or cumulative state integration.
 - 2026-09-24 — V1 / 12.0: close the first twenty complete i-n-g chapters as T7S_B0080–T7S_B0099; preserve chapter-local order and reject a fabricated total chronology; review all 2,624 pages, 190 command-only states, and forty selected composites; and leave layer `300720` metadata-only and unopened.
+
+- 2026-09-25 — V1 / 12.1: close complete Sub/i-n-g chapter 300720 as B0100 and route B0101 within the authorized sixty-block run; no cross-chapter temporal inference.

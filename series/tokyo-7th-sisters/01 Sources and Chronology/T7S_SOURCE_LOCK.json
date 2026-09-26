@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.1",
+  "version": "12.2",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -27,7 +27,7 @@
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "T7S_B0001 through T7S_B0079 remain closed for all 235 native Main primary documents and admitted attachments/choices. T7S_B0080 through T7S_B0099 close the first twenty complete 2034 non-Main i-n-g chapters: 40 primary episodes, 2,624 pages, 2,434 text records, and all 190 command-only pages, with representative static presentation reviewed and cumulative ledgers integrated. The remaining eligible 2034 non-Main portfolios remain routed but unreconstructed. Eleven 2053-side Sub episodes, nine 2053 additional resources, 4,024 2053 supplemental records, and all 2053 Main semantics remain quarantined; one Hololive episode and 123 crossover supplemental records remain outside the 2034 game-continuity release.",
+  "scope_admission": "T7S_B0001 through T7S_B0079 remain closed for all 235 native Main primary documents and admitted attachments/choices. T7S_B0080 through T7S_B0099 close the first twenty complete 2034 non-Main i-n-g chapters: 40 primary episodes, 2,624 pages, 2,434 text records, and all 190 command-only pages, with representative static presentation reviewed and cumulative ledgers integrated. The remaining eligible 2034 non-Main portfolios remain routed but unreconstructed. Eleven 2053-side Sub episodes, nine 2053 additional resources, 4,024 2053 supplemental records, and all 2053 Main semantics remain quarantined; one Hololive episode and 123 crossover supplemental records remain outside the 2034 game-continuity release. T7S_B0100 additionally closes chapter 300720 (two primary episodes, 107 pages, 90 text records, 17 command-only pages); the B0100–B0159 run is active, not complete.",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -128,7 +128,8 @@
       "T7S_B0096",
       "T7S_B0097",
       "T7S_B0098",
-      "T7S_B0099"
+      "T7S_B0099",
+      "T7S_B0100"
     ],
     "in_progress_blocks": [],
     "consumed_sources": [
@@ -2713,12 +2714,42 @@
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0099_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003101",
+        "script_id": "scout_089_01_01.json__db528778e1db1b91",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0100_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003102",
+        "script_id": "scout_089_01_03.json__b1a455e04bfec1c7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0100_DEEP_READING.md"
       }
     ],
-    "next_candidate_episode_id": "202003101",
-    "next_candidate_native_chapter_layer_id": "300720",
-    "next_candidate_status": "METADATA_ONLY_NOT_OPEN: next prescribed i-n-g chapter is 300720 / ラン・サヲリ・ラン / 夜舞サヲリ / episodes 202003101–202003102; remaining 2034 non-Main stays routed and all 2053 semantics remain blocked",
-    "authorized_story_boundary_complete": true
+    "next_candidate_episode_id": "202003201",
+    "next_candidate_native_chapter_layer_id": "300730",
+    "next_candidate_status": "AUTHORIZED_CONTINUOUS_RUN_NOT_YET_CONSUMED: B0101; terminal boundary B0159",
+    "authorized_story_boundary_complete": false
   },
   "collection_manifest": {
     "sha256": "f8127e578c3e350fca526b3f60315cedce2ef5de82d456d92962ca19364877b1",
@@ -4062,7 +4093,7 @@
       "routed_path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
       "routed_bytes": 688668,
       "routed_sha256": "b3bfb469125aa05cfcf63c2646474a848ae39d679f3f0300b4d446e4ecff7724",
-      "routed_membership_sha256": "af17e208f415b0ed2624e6c6a1667acff6ba87930c4dda7408efa221be668af7",
+      "routed_membership_sha256": "af17e208f415b0ed2624e6c6a1667acff6ba87932c4dda7408efa221be668af7",
       "manifest_path": "T7S_COVERAGE_AND_ROUTING_MANIFEST.json",
       "manifest_bytes": 2421,
       "manifest_sha256": "1c3b5cecf8c3affb4e45ca38dc2503df47b4b2525b87ea1b626758df60007aab",
@@ -4094,7 +4125,101 @@
         "resolution_status": "copied_and_probed",
         "review": "BYTE_AND_RELATION_RECOVERY_ONLY; NOT_LISTENED_OR_VIEWED"
       }
-    ]
+    ],
+    "b0100_close_verification": {
+      "operation": "T7S_B0100_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "202003101",
+        "202003102"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "202003101",
+          "script_id": "scout_089_01_01.json__db528778e1db1b91",
+          "source_sha256": "77ce4edd2a02dfd43045b004b2f0631130d4b848aad82df8a3631d0cc06739cf",
+          "decoded_sha256": "c83737c24fe905ae122a398fcc9299d85c3541ef8064586020d549a134cc7156",
+          "normalized_sha256": "7bd13baaf3c0d2750f3fa9c1be2b21bcda31397b1e000dec12387e3a2f0ef1fe",
+          "structured_sha256": "7bd13baaf3c0d2750f3fa9c1be2b21bcda31397b1e000dec12387e3a2f0ef1fe",
+          "pages": 58,
+          "text_records": 49,
+          "command_only_pages": 9,
+          "voice_pages": 27,
+          "native_pages_verified": 58
+        },
+        {
+          "episode_id": "202003102",
+          "script_id": "scout_089_01_03.json__b1a455e04bfec1c7",
+          "source_sha256": "ec2ae7fb3026b65763b8e3c78d38331d854e5456f7751f0e94842a7d8f6c0aa0",
+          "decoded_sha256": "9c34e0c0785c31205e338efd36775ae0d1f7ef869cdf0213fe5607887e20f131",
+          "normalized_sha256": "701439c47e50013f1099c68e53b9cd8353e8ff2b074246a80481c7dc546ac271",
+          "structured_sha256": "701439c47e50013f1099c68e53b9cd8353e8ff2b074246a80481c7dc546ac271",
+          "pages": 49,
+          "text_records": 41,
+          "command_only_pages": 8,
+          "voice_pages": 27,
+          "native_pages_verified": 49
+        }
+      ],
+      "totals": {
+        "pages": 107,
+        "text_records": 90,
+        "command_only_pages": 17,
+        "voice_pages": 54,
+        "visual_refs": 970
+      },
+      "native_packet_sha256": "67b5b5ff23ffaf2ad1b365992580e04a1da0ae687ae00b73787f833499e2afe7",
+      "dialogue_packet_sha256": "b50ce4228a8befcd26f408a0bf51289b2a8ab0d99cab31512ba0a2c43cb84d51",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_144_01_01",
+          "body": "adv_chara_144_01.png",
+          "body_sha256": "20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e",
+          "face": "adv_chara_144_01_01.png",
+          "face_sha256": "0053bcd17594dda6eaad535480776a89040ccd77a5dec68e97d01666651bf7c0",
+          "native_face_offset": [
+            120,
+            74
+          ],
+          "output_sha256": "399bb9344c170367460db6429a432ce79587937a515b68b27ff185193fdc93bf"
+        },
+        {
+          "resource": "adv_chara_144_01_02",
+          "body": "adv_chara_144_01.png",
+          "body_sha256": "20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e",
+          "face": "adv_chara_144_01_02.png",
+          "face_sha256": "65cd13cbe3a95acd7e20cdbbcbd9a481417d7a79465c58649391550c59ab0a21",
+          "native_face_offset": [
+            120,
+            74
+          ],
+          "output_sha256": "73bb9a9c4e3ccdb50b9c9d3ee2ba518a537fdb31424f0a5f154b4edc4141a532"
+        },
+        {
+          "resource": "adv_chara_144_01_03",
+          "body": "adv_chara_144_01.png",
+          "body_sha256": "20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e",
+          "face": "adv_chara_144_01_03.png",
+          "face_sha256": "2bab9ec0eddb5ca11051d49b2714267809d6965d75a56ca837d7147a40dadd55",
+          "native_face_offset": [
+            120,
+            74
+          ],
+          "output_sha256": "fce4fa840b78e077a55999b9fee26166bd8e611434d6931e5e29a8d639b83fdf"
+        },
+        {
+          "resource": "adv_obj_0069",
+          "body": "adv_obj_0069.png",
+          "body_sha256": "f260112b43f0be320b021020fe0300eca3c92c883ebaf92334e3097c604b1f0d",
+          "output_sha256": "a86095001df60d947da617149accedc57768ba17edaf1f263115a860641214cf"
+        }
+      ],
+      "coverage_effective_state_sha256": "e96f0bf0e651e3f3f75580e725b2b78c04b96c7227562650b679b6c80f703800",
+      "execution_record": "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md",
+      "boundary": "All native pages and text pointers verified; selected static composites inspected; no authored choices or inline movies; performed audio not reviewed; no later-block semantic evidence used.",
+      "mechanical_correction": "Correct historical routed-membership transcription 87930c to 87932c after recomputation against unchanged pre-B0100 routed membership and the original manifest; historical file/effective-state hashes remain unchanged."
+    }
   },
   "limits": [
     "Extraction completeness is not analytical, listening or visual-review completeness",
@@ -4102,7 +4227,8 @@
     "All 2053 semantic sources remain blocked; crossover routes remain outside the 2034 game-continuity release",
     "Repeated decoded hashes preserve distinct logical occurrence identities",
     "Unresolved/compound speakers and unbound media documents remain unresolved",
-    "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied"
+    "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied",
+    "At source-lock 12.2, B0100 is additionally closed; the authorized 60-block run through B0159 remains active. Earlier version-labelled receipts describe their historical horizons."
   ],
   "future_witness_admission_fields": [
     "witness_id",
