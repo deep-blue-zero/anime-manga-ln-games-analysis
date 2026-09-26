@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.47"
+version: "11.48"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 175 complete i-n-g primary documents / T7S_B0080–T7S_B0146; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 178 complete i-n-g primary documents / T7S_B0080–T7S_B0147; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 96`; `character_states = 78`; `epistemic_states = 370`; `directional_relationship_states = 572`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0146, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 96`; `character_states = 78`; `epistemic_states = 378`; `directional_relationship_states = 580`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0147, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3206,3 +3206,45 @@ The [B0146](../02%20Readings/T7S_B0146_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0572` | Rona → Musubi, **requesting experienced technique** | Asks how to teach choreography and hears suggestion. B:P59–60. Reciprocal `REL-0571`; not a transfer of formal trainee responsibility. |
 
 `T7S_B0146_CLOSE-20260926`: one new chapter-local identity, one bounded child character state, eight epistemic states, four directional relationship pairs and existing-actor/unit annotations; no recruited minor or inferred likeness.
+
+## B0147 Hime, Shizuka and the false-cousin presentation
+
+The [B0147](../02%20Readings/T7S_B0147_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.49, binds these updates. Existing Hime `IDENTITY-0009`/`CHAR-0009`, mother `IDENTITY-0010`/`CHAR-0010`, father `IDENTITY-0011`/`CHAR-0011`, brother `IDENTITY-0012`, sister `IDENTITY-0013`, Shizuka `IDENTITY-0018`/`CHAR-0015`, Sui `IDENTITY-0017`/`CHAR-0014`, Haru `CHAR-0004`, Rona `CHAR-0008`, Player `CHAR-0001`, Coney `CHAR-0003`, shop/household `UNIT-0005` and Nanastar `UNIT-0002` suffice. `久遠寺ヒメ` is a staged cousin claim, not new identity. Generic guest/servant/intruder art does not warrant a long-horizon route.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0009` / Hime | Promises deceased mother growth, accompanies lonely Shizuka, learns formal manners/dance despite discomfort, passes as cousin, resents Player's failure to recognize her, pursues intruder and asks for identity-aware dance. | A:P2–157; B:P2–135; C:P1–128. No actual Kuonji kinship, injury/security clearance, romance or total femininity change. |
+| `CHAR-0015` / Shizuka | Names party as family duty rather than enjoyment, welcomes Hime, trains her, presents false cousin, facilitates surprise Player arrival, enjoys night and praises Hime's revealed style. | A:P23–100; B:P2–135; C:P1–127. Friendship and deception coexist; her approval does not certify class equality or chase safety. |
+| `CHAR-0011` / Hime's father | Sends daughter to Nanastar with household support, privately affirms beauty and recalls deceased wife's ballroom/escort hope. | A:P3–19,142–151. Mother perspective is his memory; durable shop work redistribution unknown. |
+| `CHAR-0010` / Hime's mother | Continues as Hime's absent/deceased addressee; father recalls her childhood expectation of adult beauty and ballroom escort. | A:P10–18,146–157; C:P114–119. No present speech, independent approval, death circumstances or mandated femininity. |
+| `CHAR-0001` / Player | Invited without Hime's knowledge, dances with disguised Hime, mistakes her for new prospect, then recognizes and praises the already known Hime. | B:P69–135; C:P95–126. No second recruit, romantic declaration or informed knowledge of cousin lie to guests. |
+| `CHAR-0003` / Coney | Teaches etiquette while Player is away, threatens dinner denial during lesson and secretly arranges his party invitation. | A:P78–137; B:P71–77. Comic trainer authority is not a food deprivation protocol or consent to surprise. |
+| `CHAR-0014` / Sui | Practices as Hime's ballroom partner and urges serious care to avoid a fall. | A:P122–137. No attendance at Kuonji party shown. |
+| `CHAR-0004` / Haru | Suggests dress changes and helps prepare Hime, with playful pursuit while Hime is in painful heels. | A:P57–71,92–100. Her enthusiasm does not make all clothing changes freely chosen. |
+| `CHAR-0008` / Rona | Studies dining manners in parallel to help Hime and offers doughnuts after dinner threat. | A:P106–117. No confirmed delivery or attendance at party. |
+| `UNIT-0005` / Nonohara household/shop | Father/siblings assist Hime's departure; tofu knowledge and delivery-trained legs remain active within her party presentation and chase. | A:P2–19; B:P39–40; C:P50–52. No altered ownership, formal staffing or elite kinship. |
+| `UNIT-0002` / Nanastar | Peers support Hime's training and Player recognizes additional performance capacity. | A:P23–137; B:P69–135; C:P95–128. Not party sponsor or new recruitment. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0371` | Hime addresses mother; father and children see departure, father identifies deceased wife's portrait and believes daughter already lovely. | A:P2–19. Mother's current view cannot be known. |
+| `KNOW-0372` | Shizuka says party purpose/expected loneliness; Hime/peers hear formal conditions, and Hime agrees to attend. | A:P23–74. Her acceptance follows visible pressure; neither unlimited assent nor refusal. |
+| `KNOW-0373` | Trainers see Hime's difficulty; Hime knows heel pain/food threat; father tells her his memory of mother's ballroom wish. | A:P78–157. Later doughnuts/mother approval unshown. |
+| `KNOW-0374` | Shizuka/Hime know the cousin identity is false; guests take `久遠寺ヒメ` as a Kuonji relation and praise her; Shizuka reports joy. | B:P2–52. No actual class/kinship change. |
+| `KNOW-0375` | Coney/Shizuka know Player surprise; Player thinks partner is cousin/new prospect, while Hime knows him and is hurt by his failure to notice. | B:P56–135. Player's intent is scouting, not a proved romantic preference. |
+| `KNOW-0376` | Security announces a paparazzo; Hime sees camera-bearing fleeing man; guests/staff see disruption, maid pushed and wine spilled. | C:P10–80. Photo contents, injury, detention and final security disposition unknown. |
+| `KNOW-0377` | Hime/Shizuka know wig falls; guests praise energetic supposed Kuonji daughter, not explicitly her real identity. | C:P81–94. Public kinship correction unshown. |
+| `KNOW-0378` | Player realizes partner is Nonohara Hime and praises her further range; Hime hears, connects dance to mother's remembered wish and asks him to lead. | C:P95–128. Neither maternal present view nor romance established. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0573` | Hime → Shizuka, **accompanying a lonely friend while protecting her** | Volunteers, trains, checks enjoyment and confronts intruder. A:P23–74; B:P2–52; C:P1–80. Reciprocal `REL-0574`; safety questions remain. |
+| `REL-0574` | Shizuka → Hime, **welcoming company through a staged cousin role** | Says no coercion, teaches/introduces her and praises wig-off Hime. A:P36–72; B:P2–52; C:P81–94. Reciprocal `REL-0573`; false kinship and pressure remain. |
+| `REL-0575` | Hime → Player, **hurt at misrecognition then identity-aware invitation** | Dances hidden, asks why he cannot see her, later invites him knowing she is Hime. B:P80–135; C:P95–126. Reciprocal `REL-0576`; no confession. |
+| `REL-0576` | Player → Hime, **second mistaken scout and later explicit praise** | Praises unknown partner, then affirms same recruited Hime's potential and accepts dance. B:P80–135; C:P95–126. Reciprocal `REL-0575`; no second hire. |
+| `REL-0577` | Father → Hime, **release, affirmation and maternal memory** | Sends her out, says she is lovely and tells remembered ballroom wish. A:P3–19,142–151. Reciprocal `REL-0578`; no present mother consent. |
+| `REL-0578` | Hime → father/household, **affection without relinquishing shop role** | Entrusts younger siblings with shop, hears father's memory and still names tofu/route skills at party. A:P2–19,142–157; B:P39–40; C:P50–52. Reciprocal `REL-0577`; workload balance unknown. |
+| `REL-0579` | Coney → Hime, **demanding preparation and secret test** | Coaches, threatens dinner denial and arranges Player invitation. A:P78–137; B:P71–77. Reciprocal `REL-0580`; helpful result does not make every method sound. |
+| `REL-0580` | Hime → Coney, **participation and later anger at surprise** | Accepts lessons, questions Coney's expertise and blames her when Player appears. A:P78–137; B:P71–77,135. Reciprocal `REL-0579`; no informed advance choice on surprise shown. |
+
+`T7S_B0147_CLOSE-20260926`: eight actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new kinship/identity or romance route.

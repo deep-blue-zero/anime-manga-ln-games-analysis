@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.47"
+version: "11.48"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 175 complete i-n-g primary documents / T7S_B0080–T7S_B0146; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 178 complete i-n-g primary documents / T7S_B0080–T7S_B0147; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 679`; `revisions = 42`; `predictions = 7`; `AV_reviews = 93`; `literary_findings = 679`. Claims are bounded to their stated B0001 through B0146 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 67 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 684`; `revisions = 42`; `predictions = 7`; `AV_reviews = 94`; `literary_findings = 684`. Claims are bounded to their stated B0001 through B0147 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 68 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2244,3 +2244,27 @@ Owner and A/B/C locator key: [B0146](../02%20Readings/T7S_B0146_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. One hundred ninety-five dialogue-associated voice pages plus title cues, BGM/SFX and actual performed music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0146_CLOSE-20260926`: five bounded claims and one AV review; no exact-copy mandate, child-care/venue clearance, new idol member, technical song certification, specialist or monograph promotion.
+
+## B0147 role expansion, false kinship and bounded protective action
+
+Owner and A/B/C locator key: [B0147](../02%20Readings/T7S_B0147_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.49. B0005/B0109 are bounded comparisons, not complete i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0147-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Hime adds formal dress/dance to her repertoire without discarding tofu-shop labor, forceful speech or protective initiative; authenticity is not confined to either elite or casual presentation. | A:P88–157; B:P23–52,97–105; C:P36–128. Formal training has costs and is not universally required. |
+| `CL-B0147-002` | `BOUNDED_INFERENCE`; D1; high for status/limit | Shizuka's real joy and Hime's care coexist with fabricated cousin entry, training pressure and an undisclosed Player surprise; acceptance at the party does not establish real kinship or unrestricted consent. | A:P36–137; B:P23–35,67–92. Guests' belief is not genealogical evidence. |
+| `CL-B0147-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Player's misrecognition hurts Hime even while his eventual praise recognizes her previously unseen capacity; the final dance requests recognition of the same Hime in a new style. | B:P80–135; C:P95–128. No romantic confession or erased hurt. |
+| `CL-B0147-004` | `BOUNDED_INFERENCE`; D1; high for limit | Camera-bearing intruder is confronted and chased, but camera contents, injuries, custody and security disposition are unshown; Hime's protective intent is not itself an approved risk procedure. | C:P10–80. Comic victory does not certify incident closure. |
+| `CL-B0147-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Mother-directed promise and father's remembered ballroom image lend meaning to Hime's chosen escort/dance without turning an absent mother into current authority or proving romance. | A:P10–18,142–157; C:P109–128. Maternal response cannot be observed. |
+
+### AV-0094 — Hime's continuous dress and changed hair presentation
+
+- Questions/claims: whether native states distinguish new Hime identity from presentation, show mother's portrait, prove Kuonji kinship, reveal camera contents or certify injury/security outcome; `CL-B0147-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for voice/music, kinship, maternal perspective and incident disposition limits.
+- Selection: Hime school `adv_chara_006_01_01`, long-wig party `006_07_01`, chase `006_06_01`, short-hair party `006_08_01`; Shizuka party `010_04_01`; Coney training `002_12_01`; father `028_01`, brother `029_01`, sister `030_01`; guest `038_01`; intruder `041_01`; tofu-shop foreground `adv_obj_0008`; Sui school `009_03_01`. All 425 native pages and eighty-three command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.49 binds thirteen media receipts.
+- Observed: long wig and short hair attach to same Hime dress/body presentation; role characters are generic line art. `adv_obj_0008` is tofu shop facade, not inspectable mother portrait. Camera sprite indicates carried apparatus, not photo contents or completed custody.
+- Native occurrence: command-only A:P0–2,13,20–22,26,75–77,84–87,97,99,102–105,118–121,138–141,158; B:P0–1,11–14,20,36–38,53–55,94–96,136; C:P0,9,21–24,26–28,30–32,34,40,42,44–47,53–56,58–60,67–68,72,74–75,78,83,94,120,128. B's party cuts and C's chase/wig states separate location and appearance without forensic aftermath.
+- Outcome: `REVIEWED` for thirteen selected static resources and all native page-state segmentation. Two hundred fifty-four dialogue-associated voice pages plus title cues, BGM/SFX and actual dance music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0147_CLOSE-20260926`: five bounded claims and one AV review; no real cousin, incident clearance, romantic certification, specialist or monograph promotion.

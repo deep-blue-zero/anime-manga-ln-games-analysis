@@ -4,7 +4,7 @@
   "artifact_type": "analytical_coverage_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "2.47",
+  "version": "2.48",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -27,18 +27,18 @@
     {
       "path": "T7S_COVERAGE_AND_ROUTING.jsonl",
       "role": "CURRENT_OR_CONSUMED",
-      "data_records": 496,
-      "bytes": 800906,
-      "sha256": "10aa2622cdb3295f75d3bf18c8f68a129daa538b4dbc6f8bfe979e67a9400ad8",
-      "membership_sha256": "2c638aa323e0a047a9184bcc95b295f990e488c585fac52363f8d455bd49f061"
+      "data_records": 499,
+      "bytes": 806936,
+      "sha256": "68e1936519e6d9f7fefbf00b8f627e3e6839f9bd3fae81f860159dc5c49693c3",
+      "membership_sha256": "ab26dd434f7de331b9d625640cae7c128cdd9721e5a063a1b492f32ac8303883"
     },
     {
       "path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
       "role": "ROUTED_OR_UNCONSUMED",
-      "data_records": 1094,
-      "bytes": 597231,
-      "sha256": "d7af31edd458f88a7480a9c8c2dffe307b18aa54f74bc8f60519892b967e1dc0",
-      "membership_sha256": "fb9f77bd0519cfc0a6936e0cdb7a85270154dfc092619efed3874dc8bfdef35b"
+      "data_records": 1091,
+      "bytes": 595197,
+      "sha256": "e14e1a291b3e49fedea7d506637fbc054fd58600a1b810b2957740f6ea1ba541",
+      "membership_sha256": "8473338b1d58f474df0b5ca6ba0003e32b85f0aa46969e7ca2b5ab47c085d43e"
     }
   ],
   "transition": {
@@ -47,9 +47,9 @@
     "reason": "Preserve the complete authored ledger below the repository's per-file review threshold without dropping decisions, histories, routes, or defaults.",
     "semantic_change": "NONE"
   },
-  "current_effective_state_sha256": "92b75d0212d443164d63d6b98de7ffb61f1860f76f68a52268c0e9a189024e3e",
+  "current_effective_state_sha256": "67371b476ac26f94faf25419118d6c93d9e014a2a72be4cef3f660c4e96740dc",
   "latest_state_transition": {
-    "operation": "T7S_B0146_CLOSE",
+    "operation": "T7S_B0147_CLOSE",
     "date": "2026-09-26",
     "moved_scenario_records": 3,
     "unchanged_other_effective_records": 1587,

@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.47"
+version: "11.48"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 175 complete i-n-g primary documents / T7S_B0080–T7S_B0146; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 178 complete i-n-g primary documents / T7S_B0080–T7S_B0147; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 595`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 665`; `last_closed_block = T7S_B0146`. The admitted horizon contains 410 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 175 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 603`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 677`; `last_closed_block = T7S_B0147`. The admitted horizon contains 413 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 178 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2081,3 +2081,35 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.48. [B0146](../02%20Readings/
 | `EDGE-0672` | `MENTORING_TO_RONA_NEW_AMBITION` | Girl's aspiration helps Rona state future courage-giving goal in `EV-B0146-008`; future reach unmeasured. |
 
 `T7S_B0146_CLOSE-20260926`: eight chapter events and eleven bounded edges; the original withdrawal, park performance, later contest and refused recruitment remain distinct.
+
+## B0147 Hime's party disguise, protective action and recognition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.49. [B0147](../02%20Readings/T7S_B0147_DEEP_READING.md) owns the A/B/C locator key. B0005/B0109 are bounded family/work comparisons, not a complete dated interval. The fictitious `久遠寺ヒメ` is a performed alias for `IDENTITY-0009`, not a new kin or person route.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0147-001` | Family helps Hime leave tofu shop; she addresses deceased mother's portrait; father says she is already lovely. | A:P2–19; `KNOW-0371`. Mother is absent/dead, not present judge; selected shop art is not her portrait. |
+| `EV-B0147-002` | Shizuka expects lonely affiliate party; Hime offers company and, learning formal requirements, accepts training after Shizuka says no coercion. | A:P23–74; `KNOW-0372`. Invitation is care under social pressure, not effortless/free of obligation. |
+| `EV-B0147-003` | Coney, Shizuka, Haru, Rona and Sui teach etiquette, attire and dance; father recalls mother's ballroom fantasy; Hime fears overexpectation. | A:P78–157; `KNOW-0373`. Foot pain and threatened dinner denial are stated; no delivered doughnuts or mother's present wishes. |
+| `EV-B0147-004` | At party Shizuka introduces wigged Hime as cousin `久遠寺ヒメ`; male guests accept class/kinship performance and Shizuka enjoys company. | B:P2–52; `KNOW-0374`. False cousin claim remains false; no status transfer. |
+| `EV-B0147-005` | Coney-arranged surprise Player invites disguised Hime to dance, fails to know her and tries to scout her; Hime asks why he cannot notice. | B:P56–135; `KNOW-0375`. Mistaken prospect is existing Hime, not second recruitment/romance proof. |
+| `EV-B0147-006` | Security announces paparazzo; Hime chases camera-bearing intruder who pushes maid/spills wine, discards heels and reaches him. | C:P10–80; `KNOW-0376`. Camera contents, physical injuries, arrest and protocol remain unverified. |
+| `EV-B0147-007` | Hime loses wig and fears ruining party; guests praise supposed Kuonji daughter's energy, Shizuka says she was the center. | C:P81–94; `KNOW-0377`. Guests do not explicitly learn/accept actual tofu-shop class identity. |
+| `EV-B0147-008` | Player now recognizes and praises Nonohara Hime's range; Hime asks him to lead identity-aware dance, recalling mother's wish. | C:P95–128; `KNOW-0378`. No romance declaration or completion of every maternal hope. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0673` | `HOUSEHOLD_AID_TO_HIME_DEPARTURE` | Siblings/father enable Hime's routine Nanastar travel in `EV-B0147-001`; lasting labor shares unknown. |
+| `EDGE-0674` | `MOTHER_ADDRESS_TO_BEAUTY_GOAL` | Hime's repeated private promise in `EV-B0147-001` frames growth, not mother's present judgment. |
+| `EDGE-0675` | `SHIZUKA_LONELINESS_TO_HIME_OFFER` | Hime volunteers in `EV-B0147-002`; friendship pressure and later training remain. |
+| `EDGE-0676` | `PARTY_GATEKEEPING_TO_FORMAL_TRAINING` | Elite dress/etiquette conditions generate `EV-B0147-003`, not inherent inability of a tofu-shop daughter. |
+| `EDGE-0677` | `TRAINING_TO_SUCCESSFUL_MASQUERADE` | Hime can enact false cousin in `EV-B0147-004`; performance is not actual kinship. |
+| `EDGE-0678` | `SECRET_INVITATION_TO_PLAYER_MISRECOGNITION` | Coney/Shizuka surprise yields `EV-B0147-005`; no shown Hime advance consent to that surprise. |
+| `EDGE-0679` | `PLAYER_SECOND_SCOUT_TO_HIME_HURT` | Player praises unknown prospect but fails to identify Hime in `EV-B0147-005`; same person. |
+| `EDGE-0680` | `INTRUSION_TO_HIME_PURSUIT` | Hime acts protectively in `EV-B0147-006`; no authority/safety adjudication. |
+| `EDGE-0681` | `PURSUIT_TO_WIG_REVEAL` | Hime's appearance changes in `EV-B0147-007`; no literal transformation or second identity. |
+| `EDGE-0682` | `PUBLIC_REACTION_TO_SHIZUKA_ENJOYMENT` | Guests/Shizuka enjoy lively Hime in `EV-B0147-007`; class pretense remains uncorrected. |
+| `EDGE-0683` | `RECOGNITION_TO_IDENTITY_AWARE_DANCE` | Player's praise and Hime's request in `EV-B0147-008` join new dress to known Hime, no romance proof. |
+| `EDGE-0684` | `FATHER_MEMORY_TO_HIME_ESCORT_CHOICE` | Mother's remembered fantasy resonates with Hime's Player choice in `EV-B0147-003`,`008`, without present maternal consent. |
+
+`T7S_B0147_CLOSE-20260926`: eight chapter events and twelve bounded edges; a fictitious cousin alias, camera incident and affectionate dance do not create kinship, security clearance or romantic finding.
