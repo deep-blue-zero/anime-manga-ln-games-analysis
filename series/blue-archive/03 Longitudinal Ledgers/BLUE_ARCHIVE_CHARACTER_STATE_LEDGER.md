@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -648,3 +648,12 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operationa
 - **Sensei:** choice checks Momoi; Momoi asks for help. The apparent acceptance/planning line at `u:0091` is `心の声`, not secure spoken commitment.
 
 Readiness remains 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E014 delta — Toki's specific miss and the coalition's surface advance
+
+- **Toki:** says Rio knows C&C's and Sensei's entire plan, reports an order to suppress disobedient C&C, names Akane's explosive specialty and predicts infiltration. She admits a frontal approach was unexpected and wrongly infers Nel is with the rear. These constrain a claimed foresight/competence domain; they do not establish Rio's global ignorance or Toki's battle outcome.
+- **Akane/Karin/Asuna/Nel:** Akane explosively tests Toki and speaks a courteous challenge; Karin and Asuna react, with some label/register tension. Nel arrives for a rematch and says defeating Toki first avoids later interception before helping Alice. Her reason is stated, but victory and rescue are future.
+- **Hibiki/Kotori/Hare:** Hibiki reports obstructing drones cleared. Hare calculates a route to the central tower, while saying Alice is only probably there. Full Eridu security and a live location are unverified.
+- **Momoi/Maki/Sensei:** Momoi announces surface access and urges advance; Maki cheers. Sensei's two lines are inward thoughts, not audible tactical commands. Alice is not contacted, and Momoi receives no medical reassessment.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -959,3 +959,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Utaha's `想定通り` unmanned train arrival is observed. `列車システムごとハッキング` is a participant method report; Hare's `バレる前に制圧`/`周辺のネットワーク` is local, not a global stealth theorem.
 - Asuna's `30台目` and Karin's `想定より数が多い` are situated count/appraisal. Akane's `陽動の目的は達成` is local noisy-objective judgment; Toki's `お待ちしておりました` says she expected the seniors.
 - **Quarantine:** scene 1 `u:0003` Himari label says her own name, `u:0028` Rio label addresses “Rio-sama,” `u:0040-0041` has role/voice tension, and `u:0049-0051` duplicates/flips Midori around Hare's report. `choice:002` has two alternatives; Sensei `u:0055` is inward. Alice's silence at `u:0035` precedes a cut to the rescue party and cannot put her among them.
+
+## V002 C002 E014 delta — “all grasped” against “unexpected”
+
+- Toki's `すべて把握`/`全て` and later `思惑など分かっております` assert comprehensive knowledge. Her own `想定外` for the frontal approach and surprise at Nel's entrance are explicit local counterevidence. `私がここにいる事もあなた方の作戦の内` is a question/inference, not direct capture of the plan.
+- `指示に背いて行動しているC&Cを制圧せよ` is Toki's report of Rio's order. Akane's polite `挨拶` and `見くびってもらっては困ります` carry combat threat; Nel's rough `リベンジマッチ`/`倒した「後」` join pride with a prospective route to help Alice.
+- Hibiki's `邪魔なドローンは、全部` refers to obstructing drones, not every city drone. Hare's `おそらく` keeps the tower location provisional even as `ルートを算出` gives a usable route.
+- **Quarantine:** Asuna-labeled `u:0026` sounds unusually Akane-like; `u:0037-0039` have voice/response tension. Sensei `u:0064` and malformed-quote `u:0070` remain `心の声`. No choice groups; the `罠` next-title card is not an already witnessed trap.

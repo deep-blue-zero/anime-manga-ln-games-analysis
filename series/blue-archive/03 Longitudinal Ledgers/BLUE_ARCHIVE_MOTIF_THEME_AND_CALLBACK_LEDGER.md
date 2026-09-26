@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -697,3 +697,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Big Sister's percentages:** Rio speaks in precise success probabilities while the rescuers arrive via an unexpected material route and Veritas suppresses one drone. The contrast tests claims of control without turning local success into proof Rio is ignorant of everything.
 - **Coalition starts to work:** Engineering's freight hypothesis becomes arrival, Veritas's systems role becomes a local hack report and C&C's distraction draws Toki. The still-absent Alice reunion keeps the chapter's relational goal separate from logistical progress.
 - **Silent captive / noisy front:** Alice has no new spoken position, while C&C creates visible explosions. The diversion is a means to make contact possible, not itself a solution to origin, safety or consent.
+
+## V002 C002 E014 motif / callback delta — Big Sister's misread and rematch before rescue
+
+- **Big Sister as fallible reader:** Toki's “all understood” surveillance rhetoric immediately meets her `想定外` at the frontal attack and wrong guess that Nel is free elsewhere. The callback complicates E013's precise forecasts without proving Rio lacks all useful monitoring.
+- **Secret agents in the open:** Toki prepares for infiltration; C&C's visible, loud front reverses her genre expectation. Akane's courteous “greeting” is explosive rather than hospitable, a situated fighting register rather than a stable peaceful promise.
+- **Game victory versus rescue:** Nel's rematch and “beat you *before* saving the kid” sets a sequence like E012's `勝利条件`, but winning that duel is neither shown nor sufficient by itself for Alice's return.
+- **Tower as hopeful coordinate:** the rear reaches open city and Hare draws a route to a probable center. Movement creates possibility, not a proof of Alice's location or the repair of BA-C019 belonging.

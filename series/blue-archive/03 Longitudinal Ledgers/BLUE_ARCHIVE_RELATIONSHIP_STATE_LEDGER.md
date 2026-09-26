@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -550,3 +550,9 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **VERITAS ↔ RESCUE PARTY:** train access and local network intervention make their E012 support operative. Hare warns that monitoring may miss surprises; help is not a promise of total safety.
 - **C&C ↔ TOKI/RIO:** C&C's noisy front draws Toki, who greets seniors by name/callsign. The confrontation is underway, not a result or proof she is free of Rio's direction.
 - **SENSEI/CLUB/ENGINEERING ↔ ALICE:** the party reaches Eridu, but no direct renewed Alice contact occurs. The silent Alice cue must not be treated as seeing or hearing her friends.
+
+## V002 C002 E014 relationship delta — same-team opposition and separated rescue branches
+
+- **TOKI ↔ C&C/RIO:** Toki addresses the others as seniors and reports Rio ordered suppression of disobedient C&C. Her obedience is visible, not proof that C&C shares Rio's judgment or that she understands every team movement. Akane's polite challenge and Asuna's casual teasing mark opposition; an Asuna-labeled formal surrender line is voice-uncertain.
+- **NEL ↔ TOKI/ALICE:** Nel appears at the front, wants a rematch after E009–E010 and says defeating Toki first will prevent interception before helping Alice. This adds a tactical reason alongside wounded pride; neither victory nor Alice contact follows.
+- **CLUB/ENGINEERING/VERITAS/SENSEI ↔ ALICE:** Momoi and the rear group emerge at the surface, and Hare navigates toward Alice's *probable* tower location. The bond motivates pursuit, not a represented reunion, consent conversation or secure restoration of place.

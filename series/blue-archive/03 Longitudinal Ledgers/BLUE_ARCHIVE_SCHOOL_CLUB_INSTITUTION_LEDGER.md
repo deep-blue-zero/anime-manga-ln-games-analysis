@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -536,3 +536,9 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Transport:** Utaha says the party arrived on an unmanned freight train, directly validating one E012 access hypothesis. Veritas is credited with hacking the train system; how much of the city system that covers is not established.
 - **Local security:** a drone appears. Hare reports suppressing it before exposure and hacking nearby network; this is a local participant account, not proof of full stealth or control over all Eridu monitoring. Kotama warns unseen surprises may remain.
 - **C&C diversion:** Asuna reports a thirtieth target, Karin says there are unexpectedly many, Akane judges the noisy diversion achieved, and Toki appears. The tactical objective of drawing attention has local support, but neither all-defense defeat nor Alice rescue follows.
+
+## V002 C002 E014 institutional delta — C&C command split, bounded local access
+
+- **Order and fracture:** Toki says Rio ordered her to suppress C&C for disobeying instructions. Akane/Karin/Asuna oppose her and Nel joins their front. Formal C&C roster membership does not entail uniform allegiance to Rio's Alice policy. Toki's quotation is a participant report of the order, not an independent command record.
+- **Security knowledge:** Toki knows Akane's specialty and identifies the delaying logic, but admits the frontal approach surprised her and incorrectly assumes Nel is with the rear. Her knowledge has tactical content and demonstrated limits; this does not map Rio's entire surveillance system.
+- **Rear access:** Hibiki reports every *obstructing* drone down, Momoi says the group reaches outside, and Hare calculates a main-street route to the probable central tower site. Neither all Eridu defenses neutralized nor Alice's live position/tower access is verified.

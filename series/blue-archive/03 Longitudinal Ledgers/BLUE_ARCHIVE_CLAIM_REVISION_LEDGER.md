@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E013 active provisional; E014 unopened
+current_sequential_boundary: MAIN_V002_C002_E014 active provisional; E015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1416,3 +1416,13 @@ No new claim ID, model, frozen prediction or side-source admission. Yuuka's embe
 - **BA-C019: CONDITIONAL COALITION** — institutional rescue effort becomes action while Alice's place and safety remain unsecured.
 
 No new claim ID, model, frozen prediction or side-source admission. Himari's intervening history, Alice halo state, Rio forecast calibration, total network control and Toki fight remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E014 claim transitions — a plan advances while foresight fails locally
+
+- **BA-C001–C004, C007, C010–C011: TACTICAL ETHICS OPEN** — Toki reports a Rio order to suppress C&C and Nel pursues a rematch before Alice rescue. The coalition's access does not establish that every force choice is necessary or that Rio's remedy is justified.
+- **BA-C005–C006: PRESERVE REJECTED** — Nel/C&C handle the front, Hibiki/Kotori report local drone clearance, Hare navigates and Momoi pushes onward; Sensei's two lines are inward, not sole command.
+- **BA-C008: BOUNDED** — no choice group; `心の声` at `u:0064`/`0070` cannot be inflated into an audible persona script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: PURSUIT, NOT RETURN** — a route to Alice's probable tower location is computed, but she remains unseen and her place insecure.
+
+Toki's broad `すべて把握` claim meets her admitted `想定外` frontal approach and wrong Nel-placement inference. This revises the local surveillance assessment, not the entire Rio threat model. No new claim ID, model, frozen prediction or side-source admission; battle, route, Alice location/halo state and defense scope remain OPEN. Contextual backfill **DEFER**.

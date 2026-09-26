@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:013; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:014; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -668,3 +668,7 @@ Sensei approaches Yuuka/Noa for a location and asks them to search. `choice:002`
 ## V002 C002 E013 delta — participant in access, not sole security controller
 
 Sensei arrives with the party by freight train, thanks Veritas and says to be careful through `choice:001`. `choice:002` contains two alternative reactions to the drone, one identifying it as Rio's; the alternatives are not cumulative utterances. Hare reports suppression/local network hack, Akane says the diversion works, and Toki appears, all without an adult-authored visible tactic. Sensei's `u:0055` “battle preparation” is `心の声`, not an audible field command. Neither E012's spoken assent nor this presence makes Sensei the sole rescuer. No readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E014 delta — inward encouragement during plural advance
+
+Sensei is absent from Toki's front-line view and present with the rear group. The `u:0064` “tighten up” and `u:0070` thanks/“let's go” lines are `心の声`, not secure audible orders; the latter also has a malformed opening quote. Momoi announces surface access, Hare calculates the probable tower route, and the group advances without a displayed adult-authored tactical intervention. There are zero choice groups, no Alice contact or rescue, and no readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
