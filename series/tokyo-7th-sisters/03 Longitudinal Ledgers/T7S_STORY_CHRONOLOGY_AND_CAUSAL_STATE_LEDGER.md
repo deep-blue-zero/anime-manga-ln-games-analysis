@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.28"
+version: "11.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 118 complete i-n-g primary documents / T7S_B0080–T7S_B0127; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 121 complete i-n-g primary documents / T7S_B0080–T7S_B0128; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 467`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 465`; `last_closed_block = T7S_B0127`. The admitted horizon contains 353 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 118 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 474`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 474`; `last_closed_block = T7S_B0128`. The admitted horizon contains 356 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 121 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1525,3 +1525,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.29. [B0127](../02%20Readings/
 | `EDGE-0472` | `RETURN_WITH_EXTERNAL_OUTCOME_OPEN` | Miu's next-day energy in `EV-B0127-005` follows her stated intent but does not prove the friend's exact answer or lasting schedule repair. |
 
 `T7S_B0127_CLOSE-20260926`: five chapter events and seven bounded edges; no new world/thread/unit, stable friend identity, completed external repair or total i-n-g chronology.
+
+## B0128 Monaka's school tour under a mistaken acting requirement
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.30. [B0128](../02%20Readings/T7S_B0128_DEEP_READING.md) owns the A/B/C locator key. B0090/B0125/B0039/B0040 are bounded comparison horizons, not a total fictional sequence. Four schools occur in this chapter's local order; access permissions and their relation to other chapters are not inferred.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0128-001` | Monaka accepts a minor drama role described as a high-school girl, says she is a freeter and did not attend high school while looking for her desired path. | A:P2–31; `KNOW-0244`. The described role does not yet specify its café setting; no general educational conclusion. |
+| `EV-B0128-002` | Kazumi suggests school observation; Musubi warns outsiders could cause trouble; Jedah offers support and Monaka chooses all four friends' schools. | A:P32–45; B:P1–8; `KNOW-0245`. No formal visitor consent or school research arrangement shown. |
+| `EV-B0128-003` | At Ferb's school two fans recognize her, and Monaka's admiring conversation eclipses the intended observation. | B:P9–35; `KNOW-0246`; `REL-0447`–`0448`. Particular fans, not a school-wide popularity measure. |
+| `EV-B0128-004` | Jedah describes online/monthly attendance and daytime student access; her friend Jesse welcomes the visitors, and Monaka communicates about fashion with gesture support. | B:P37–81; `KNOW-0247`; `REL-0449`–`0450`. Local welcome does not prove institutional visitor permission or English fluency. |
+| `EV-B0128-005` | Monaka praises Kazumi's idol costumes in classmates' hearing despite her request for quiet; Kazumi says she will leave early. | C:P1–17; `KNOW-0248`; `REL-0451`–`0452`. Classmates know the report, not the underlying costumes by direct witness. |
+| `EV-B0128-006` | Musubi fears being discovered with Monaka at her school; an idol-club president recognizes Monaka, heads to announce a live, and Musubi refuses. | C:P18–38; `KNOW-0249`; `REL-0453`–`0454`. No announcement, authorized live or performance shown. |
+| `EV-B0128-007` | Monaka thanks peers for their school lives; later says the completed filming was of a high-school café worker and needed no school knowledge. | C:P39–55; `KNOW-0249`. Neither shoot quality nor elapsed interval nor unanimous peer satisfaction is shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0473` | `ROLE_DESCRIPTION_TO_PERCEIVED_SCHOOL_GAP` | Minor role description and Monaka's self-described non-attendance in `EV-B0128-001` → felt need for school atmosphere, not objectively necessary research. |
+| `EDGE-0474` | `PEER_SUGGESTION_TO_IMPROVISED_TOUR` | Kazumi's proposal and Jedah's support in `EV-B0128-002` → all-school plan despite Musubi's access warning; no permission record. |
+| `EDGE-0475` | `FERB_RECOGNITION_TO_RESEARCH_DISPLACEMENT` | Ferb's two fans in `EV-B0128-003` → Monaka's praise conversation and forgotten observation, not a general school survey. |
+| `EDGE-0476` | `JEDAH_GUIDANCE_TO_LOCAL_WELCOME` | Jedah identifies the group as friends in `EV-B0128-004` → Jesse's welcome and fashion exchange, without institution-wide authorization. |
+| `EDGE-0477` | `PRAISE_WITHOUT_DISCRETION_TO_KAZUMI_RETREAT` | Monaka's costume disclosures in `EV-B0128-005` → overheard speculation and Kazumi's expressed departure; benign intent does not erase objection. |
+| `EDGE-0478` | `FAN_RECOGNITION_TO_UNAPPROVED_LIVE_PROPOSAL` | Club president's excitement and Monaka's playful offer in `EV-B0128-006` → move toward broadcast room; no completed announcement/live. |
+| `EDGE-0479` | `MUSUBI_REFUSAL_TO_OPEN_EVENT_OUTCOME` | Musubi's explicit refusal in `EV-B0128-006` preserves her position, while the cut leaves others' later actions unseen. |
+| `EDGE-0480` | `CAFE_REVEAL_TO_RESEARCH_PREMISE_REVISION` | Monaka's post-shoot report in `EV-B0128-007` → school observation was not required for this role; filmed result unreviewed. |
+| `EDGE-0481` | `UNNEEDED_RESEARCH_WITH_RETAINED_SOCIAL_EFFECT` | The reveal in `EV-B0128-007` does not cancel the witnessed welcome, embarrassment, refusal and Monaka's gratitude in `EV-B0128-003`–`006`. |
+
+`T7S_B0128_CLOSE-20260926`: seven chapter events and nine bounded edges; no new world, thread or stable school-unit state, school-access finding, completed live, acting verdict or total i-n-g chronology.

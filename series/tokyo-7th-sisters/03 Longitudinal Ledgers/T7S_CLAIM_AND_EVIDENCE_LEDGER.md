@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.28"
+version: "11.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 118 complete i-n-g primary documents / T7S_B0080–T7S_B0127; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 121 complete i-n-g primary documents / T7S_B0080–T7S_B0128; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 599`; `revisions = 42`; `predictions = 7`; `AV_reviews = 74`; `literary_findings = 599`. Claims are bounded to their stated B0001 through B0127 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 48 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 603`; `revisions = 42`; `predictions = 7`; `AV_reviews = 75`; `literary_findings = 603`. Claims are bounded to their stated B0001 through B0128 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 49 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1803,3 +1803,26 @@ Owner and A/B/C locator key: [B0127](../02%20Readings/T7S_B0127_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred twenty-six dialogue-associated voice pages plus title cues, BGM/SFX and the full streamed performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0127_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, external-friend verdict, specialist or monograph promotion.
+
+## B0128 school observation, visibility and consent limits
+
+Owner and A/B/C locator key: [B0128](../02%20Readings/T7S_B0128_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.30. B0090/B0125/B0039/B0040 are bounded comparison horizons, not a total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0128-001` | `BOUNDED_INFERENCE`; D1; high | The acting brief produces a perceived need for school knowledge, while the visits mainly expose Monaka to particular friends' school lives; the later café setting removes the alleged role requirement without negating the encountered relations. | A:P2–45; B:P9–81; C:P39–53. No filmed-scene quality or general acting-method verdict. |
+| `CL-B0128-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Monaka's praise can connect people and overrun privacy or participation boundaries; Ferb's fans and Jesse welcome aspects of it, Kazumi requests discretion, and Musubi refuses the improvised live. | B:P11–35,46–81; C:P1–38. Comic tone is not consent; visitor rules, announcement and show outcome unverified. |
+| `CL-B0128-003` | `BOUNDED_INFERENCE`; D1; high for limit | Monaka describes non-enrollment as an open-ended search rather than permanent rejection; Jedah offers a different situated schooling pattern, not a universal alternative or legal/educational recommendation. | A:P20–31; B:P37–45. No later enrollment, comparative policy or population inference. |
+| `CL-B0128-004` | `BOUNDED_INFERENCE`; D1; high for limit | The final reveal revises the production premise, not the visit's social costs; neither the idol-club president's planned announcement nor Monaka's report of filming proves a school live, an accepted event or a successful drama performance. | C:P22–55. Cut-away and unauditioned/unseen media keep outcomes open. |
+
+### AV-0075 — Monaka's school disguise and school-life visibility
+
+- Questions/claims: whether outfit stills establish enrollment, visitor authorization, spoken-language fluency, a school live, or the acting result; `CL-B0128-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for school authorization, actual event, performed delivery and filmed-scene restrictions.
+- Selection: Monaka `adv_chara_130_01_02`, `130_02_01`, `130_02_04`; Ferb `127_01_01`; Jedah `137_01_01`; Kazumi `146_01_01`; Musubi `004_01_07`, `004_01_11`. All 185 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.30 binds eight media receipts.
+- Observed: Monaka's blazer/skirt, glasses and accessories make a schoolgirl presentation visible against her ordinary outfit; peer outfits are distinct. Stills do not establish student status, access permission, others' consent or full scene timing.
+- Native occurrence: command-only A:P0–1,17–20,45; B:P0,8,25,36,73,82; C:P0,17,38,46,54–55. Native cuts separate the acting question, four schools, wrap-up and later filming report; none supplies an unshown live or a precise filming interval.
+- Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred thirty-four dialogue-associated voice pages plus title cues, BGM/SFX, full school activity and finished drama scene remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0128_CLOSE-20260926`: four bounded claims and one AV review; no school policy, acting-quality verdict, prior claim rewrite, specialist or monograph promotion.

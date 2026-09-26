@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.28"
+version: "11.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 118 complete i-n-g primary documents / T7S_B0080–T7S_B0127; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 121 complete i-n-g primary documents / T7S_B0080–T7S_B0128; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 243`; `directional_relationship_states = 446`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0127, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 249`; `directional_relationship_states = 454`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0128, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2515,3 +2515,39 @@ The [B0127](../02%20Readings/T7S_B0127_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0446` | Miu → Player, **limited question with retained privacy** | Declines exit, asks if friendship endures when meetings decline, then leaves to prepare. A:P28–43. Reciprocal `REL-0445`; she does not disclose the full friend problem to him. |
 
 `T7S_B0127_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, friend-response or policy record.
+
+## B0128 Monaka's peer access and school-life visibility
+
+The [B0128](../02%20Readings/T7S_B0128_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.30, binds these updates. Existing Monaka `IDENTITY-0086`/`CHAR-0068`, Ferb `IDENTITY-0078`/`CHAR-0060`, Jedah `IDENTITY-0047`/`CHAR-0036`, Kazumi `IDENTITY-0046`/`CHAR-0035`, Musubi `IDENTITY-0006`/`CHAR-0006`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. Jesse's given name and the role-only students/club president do not require invented long-horizon identity routes for this local encounter.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0068` / Monaka | Receives a minor acting offer, reports choosing work while seeking her path before high school, visits four schools in a student outfit, connects through exuberant praise, misses Kazumi's privacy cue, playfully entertains a live and later reveals the café setting. | A:P2–45; B:P1–81; C:P1–55. No later school enrollment, revised punctuality, acting result or blanket harmlessness. |
+| `CHAR-0060` / Ferb | Guides Monaka at her school, receives praise from two student fans and becomes embarrassed when Monaka expands it. | B:P7–35. Two fans do not measure campus-wide reputation or her consent to extended praise. |
+| `CHAR-0036` / Jedah | Describes her school's online/monthly pattern, guides the group, identifies them honestly to Jesse and encourages Monaka's conversation. | A:P25–29,35; B:P37–81. Her account is situated; no verified school-wide visitor policy. |
+| `CHAR-0035` / Kazumi | Suggests observation, expects quiet at her own school, explicitly asks Monaka to speak less loudly about idol costumes and withdraws after classmates overhear. | A:P12–13,32; C:P1–17. No full consent to costume disclosure or confirmed actual early departure. |
+| `CHAR-0006` / Musubi | Warns an outsider visit could cause trouble, worries about student-council-president visibility and emphatically refuses a spontaneous school live. | A:P34–45; C:P18–45. No proof a broadcast or school disciplinary process occurred. |
+| `CHAR-0001` / Player | Relays the minor drama offer and a high-school-girl description and suggests Monaka fits it. | A:P2–11. He is not shown authorizing the school visits or evaluating the filmed scene. |
+| `UNIT-0002` / Nanasta | Provides the setting for the acting offer and peer-organized response to Monaka's concern. | A:P2–45; C:P47–53. No formal school-access process, visitor consent, event contract or production assessment shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0244` | Monaka/Player/peers know a minor high-school-girl role is offered; Monaka says she is a freeter and has not attended high school because she first sought her desired path. | A:P2–31. None yet establishes the scene is at a café; her account is not a diagnosis or policy claim. |
+| `KNOW-0245` | Kazumi proposes school observation, Musubi knows outsider discovery could cause a scene, and the group proceeds with support. | A:P32–45; B:P1–8. No permission from schools or production is displayed. |
+| `KNOW-0246` | Two Ferb-school students recognize her streams; Monaka learns of their fandom, Ferb hears Monaka's praise, and Musubi notices observation was forgotten. | B:P9–35. No measured campus-wide fame or school survey. |
+| `KNOW-0247` | Jedah reports her school arrangement, introduces friends to Jesse, and Monaka learns Jesse welcomes them despite her own language anxiety. | B:P37–81. Gesture-mediated fashion conversation is not proof of English fluency. |
+| `KNOW-0248` | Kazumi hears her private costume image described publicly; classmates react to Monaka's account, and Musubi reads Kazumi's embarrassment. | C:P1–17. Classmates' direct visual knowledge and later rumor reach are unknown. |
+| `KNOW-0249` | Musubi knows an idol-club president is excited and refuses a live; Monaka later tells peers the shoot required no school setting. | C:P18–55. The planned announcement, event, filmed scene and each peer's final judgment remain unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0447` | Monaka → Ferb, **admiring but overlong public praise** | Joins two fans in praising Ferb, then forgets the observation purpose. B:P9–35. Reciprocal `REL-0448`; no presumed approval of every detail. |
+| `REL-0448` | Ferb → Monaka, **guide and embarrassed recipient** | Leads the first visit, blushes/protests the volume of praise and later recalls the chaos. B:P7–35; C:P39–40. Reciprocal `REL-0447`; no durable harm inferred. |
+| `REL-0449` | Jedah → Monaka, **candid guide and language encourager** | Names friends to Jesse, invites Monaka to converse and praises her rapport. B:P37–81. Reciprocal `REL-0450`; no official visitor sponsorship. |
+| `REL-0450` | Monaka → Jedah, **curiosity and situated uptake** | Asks about school pattern, relies on Jedah's translation and finds rapport with Jesse through fashion. B:P37–81. Reciprocal `REL-0449`; no English proficiency verdict. |
+| `REL-0451` | Monaka → Kazumi, **unfiltered compliment and exposure** | Publicly praises catsuit/flight-attendant looks despite Kazumi's quiet request. C:P1–15. Reciprocal `REL-0452`; intent does not authorize disclosure. |
+| `REL-0452` | Kazumi → Monaka, **discretion request and withdrawal** | Asks Monaka not to say it loudly and says she is leaving after classmates react. C:P1–17. Reciprocal `REL-0451`; no full later reconciliation shown. |
+| `REL-0453` | Monaka → Musubi, **all-school insistence and live improvisation** | Includes Musubi's school despite warning, then proposes one song to please the fan. A:P37–45; C:P18–37. Reciprocal `REL-0454`; no authority to commit Musubi. |
+| `REL-0454` | Musubi → Monaka, **risk warning and express refusal** | Fears student-council visibility, rejects the spontaneous live, later accepts Monaka's happiness with evident fatigue. A:P34–45; C:P18–53. Reciprocal `REL-0453`; no event or access approval. |
+
+`T7S_B0128_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, school unit, visitor-permission, show or post-shoot reputation record.
