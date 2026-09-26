@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.21"
+version: "11.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 97 complete i-n-g primary documents / T7S_B0080–T7S_B0120; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 100 complete i-n-g primary documents / T7S_B0080–T7S_B0121; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 430`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 416`; `last_closed_block = T7S_B0120`. The admitted horizon contains 332 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 97 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 435`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 423`; `last_closed_block = T7S_B0121`. The admitted horizon contains 335 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 100 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1351,3 +1351,27 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.22. [B0120](../02%20Readings/
 | `EDGE-0423` | `ROLE_RESIDUE_AFTER_RETURN` | Formal deference in `EV-B0120-004` → Chacha's continued `お嬢様` address in `EV-B0120-005`; playful continuation, not binding service obligation. |
 
 `T7S_B0120_CLOSE-20260926`: five chapter events and six bounded edges; no new world/thread/unit record, historical-authenticity claim, contract finding, complete café-event audit or total i-n-g chronology.
+
+## B0121 Kyoko's horror offer, rehearsal and bounded broadcast report
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.23. [B0121](../02%20Readings/T7S_B0121_DEEP_READING.md) owns the A/B/C locator key. B0031/B0077 and B0041/B0091 supply bounded Kyoko/Ei context; B0119's Saori injuries are a comparison horizon, not an established previous fictional day.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0121-001` | Player brings Kyoko a prime-time horror-special offer after advocacy, assuming her horror viewing makes an abandoned-hospital shoot a fit. Kyoko's excitement about the offer gives way to alarm at the format. | A:P2–44; `KNOW-0207`. No assent to the specified shoot at the initial announcement; casting criteria beyond his assumption unverified. |
+| `EV-B0121-002` | Ei explains Kyoko watches from frightened curiosity. Player apologizes and offers to substitute someone else; Kyoko explicitly insists on taking the job and organizes a Nanasta night rehearsal. | B:P1–33; `KNOW-0208`; `REL-0401`–`0404`. Choice is stated; no risk assessment or fear cure shown. |
+| `EV-B0121-003` | During the three-checkpoint rehearsal, Saori trips over a cable and topples a light, Makoto appears under Player's desk, and Tomoe's crying in a costume room sounds ghostly. Kyoko startles, grabs Player and later asks for his hand. | C:P1–62; `KNOW-0209`. Each local scare has a mundane person/cause; Saori equipment hazard and Tomoe distress remain material, with no injury diagnosis. |
+| `EV-B0121-004` | Kyoko learns Player will attend location and feels less frightened; he privately notes she will be alone while cameras run. | C:P63–71; `KNOW-0210`. Support is conditional; exact shoot/crew/safety arrangement unknown. |
+| `EV-B0121-005` | Player later reports a well-received location shoot and possible repeat interest. Kyoko gripped his arm between takes and asked secrecy. Ei relays an online male-ghost rumor, then identifies the visible figure as Player. | C:P74–103; `KNOW-0211`; `REL-0401`–`0404`. Full broadcast, reach, privacy outcome and future commission uninspected; no confirmed ghost. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0424` | `MISREAD_INTEREST_TO_UNSUITED_OFFER` | Kyoko's horror viewing → Player's initially mistaken format assumption in `EV-B0121-001`; interest is not tolerance. |
+| `EDGE-0425` | `CORRECTION_TO_OFFERED_EXIT` | Ei's fear knowledge in `EV-B0121-002` → Player's apology and alternative offer, not cancellation imposed on Kyoko. |
+| `EDGE-0426` | `EXPLICIT_CHOICE_TO_REHEARSAL` | Kyoko's insistence in `EV-B0121-002` → her self-proposed night rehearsal, without making fear disappear. |
+| `EDGE-0427` | `APPARENT_GHOST_TO_ORDINARY_CAUSE` | Apparent scares in `EV-B0121-003` → Saori/Makoto/Tomoe identifications; local explanations do not adjudicate all spiritual claims. |
+| `EDGE-0428` | `REHEARSAL_TO_SUPPORT_EXPECTATION` | Player's presence in `EV-B0121-003` → Kyoko's conditional comfort in `EV-B0121-004`, while camera-on solitude remains expected. |
+| `EDGE-0429` | `PRIVATE_SUPPORT_TO_FRAME_RUMOR` | Kyoko's off-camera arm-gripping and Player's partial frame appearance in `EV-B0121-005` → a male-ghost rumor that Ei resolves as Player, with no actual footage audit. |
+| `EDGE-0430` | `REPORTED_SUCCESS_WITH_UNRESOLVED_FEAR` | Positive shoot report in `EV-B0121-005` coexists with Kyoko's need for support and secrecy; success is not fear cure or site-safety proof. |
+
+`T7S_B0121_CLOSE-20260926`: five chapter events and seven bounded edges; no new world/thread/unit record, paranormal finding, external-production safety audit or total i-n-g chronology.

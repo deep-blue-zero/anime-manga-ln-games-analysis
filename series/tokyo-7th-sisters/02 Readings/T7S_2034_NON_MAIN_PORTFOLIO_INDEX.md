@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.21"
+version: "2.22"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 21/60 blocks; i-n-g coverage is 97/280 episodes across 41 chapters. The next authorized but unread chapter is `300930` / **怖がりプリンセス** / 上杉・ウエバス・キョーコ, episodes `312201601 / 312201602 / 312201603`, assigned B0121.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 22/60 blocks; i-n-g coverage is 100/280 episodes across 42 chapters. The next authorized but unread chapter is `300940` / **ナイショの話** / 西園ホノカ, episodes `312201701 / 312201702 / 312201703`, assigned B0122.
 
 ## Closed first i-n-g tranche
 
@@ -101,3 +101,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0118](T7S_B0118_DEEP_READING.md) | `300900` / 白鳥トモエ / 誰かのためのスワン・ソング | `312201301 / 312201302 / 312201303` | `COMPLETE_BOUNDED` |
 | [T7S_B0119](T7S_B0119_DEEP_READING.md) | `300910` / 榎並マドカ / 中学生アイドル日記 | `312201401 / 312201402 / 312201403` | `COMPLETE_BOUNDED` |
 | [T7S_B0120](T7S_B0120_DEEP_READING.md) | `300920` / 折笠アユム / ぽえっと大作戦！アユ、本場のメイドさんになるですぅ！ | `312201501 / 312201502 / 312201503` | `COMPLETE_BOUNDED` |
+| [T7S_B0121](T7S_B0121_DEEP_READING.md) | `300930` / 上杉・ウエバス・キョーコ / 怖がりプリンセス | `312201601 / 312201602 / 312201603` | `COMPLETE_BOUNDED` |

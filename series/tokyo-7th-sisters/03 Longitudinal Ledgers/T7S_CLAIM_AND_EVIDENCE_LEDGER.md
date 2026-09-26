@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.21"
+version: "11.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 97 complete i-n-g primary documents / T7S_B0080–T7S_B0120; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 100 complete i-n-g primary documents / T7S_B0080–T7S_B0121; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 571`; `revisions = 42`; `predictions = 7`; `AV_reviews = 67`; `literary_findings = 571`. Claims are bounded to their stated B0001 through B0120 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 41 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 575`; `revisions = 42`; `predictions = 7`; `AV_reviews = 68`; `literary_findings = 575`. Claims are bounded to their stated B0001 through B0121 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 42 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1642,3 +1642,26 @@ Owner and A/B/C locator key: [B0120](../02%20Readings/T7S_B0120_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred twelve dialogue-associated voice pages plus title cues, BGM/SFX and the café event remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0120_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, real-contract finding, specialist or monograph promotion.
+
+## B0121 fear, choice and production evidence limit
+
+Owner and A/B/C locator key: [B0121](../02%20Readings/T7S_B0121_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.23. B0031/B0077/B0041/B0091/B0119 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0121-001` | `BOUNDED_INFERENCE`; D1; high | Player mistakes horror interest for solo-location tolerance, corrects after Ei's disclosure, and Kyoko then explicitly chooses the specific work. | A:P21–44; B:P1–33. Neither initially informed assent nor simple coercion. |
+| `CL-B0121-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kyoko's professional choice and need for off-camera support coexist; reported success does not certify that camera-on/location support or fear management was adequate. | B:P15–33; C:P60–83. No full shoot protocol or fear cure. |
+| `CL-B0121-003` | `BOUNDED_INFERENCE`; D1; high for local causes | Rehearsal ghosts are reclassified as Saori's cable/light accident, Makoto under a desk and Tomoe crying; the mundane reveal still exposes an actual equipment hazard and distress. | C:P14–62. No paranormal event, medical outcome or universal negation of Ei's other claims. |
+| `CL-B0121-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The reported broadcast ghost is Player caught in frame, while private off-camera reliance and Kyoko's secrecy request leave the image boundary delicate, not demonstrably violated on purpose. | C:P74–103. Full footage, audience metrics, deliberate disclosure and future offer unverified. |
+
+### AV-0068 — Kyoko's fear states and unreviewed TV production
+
+- Questions/claims: whether static variants, native shakes/flashes and post-shoot dialogue prove measured fear, ghost activity, physical injury, abandoned-hospital safety, full broadcast performance, audience size or privacy outcome; `CL-B0121-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for supernatural, safety, shoot and broadcast restrictions.
+- Selection: Kyoko `adv_chara_123_01_01` and alarmed `adv_chara_123_01_08`; Ei `adv_chara_131_01_01`; Saori `adv_chara_145_01_01`; Makoto `adv_chara_144_02_03`; Tomoe `adv_chara_120_01_05`. All 185 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.23 binds six media receipts.
+- Observed: selected Kyoko expressions differ; Tomoe's selected tearful state aligns with her crying reveal. Stills do not time a startle, establish injury or display an external location.
+- Native occurrence: command-only A:P0–1,45; B:P0,34; C:P0,10–11,14,29–30,40,43–44,72–73,81,102–103. Background/character changes separate Nanasta checkpoints and the post-shoot report. Shakes/flashes/sound references are staging fields, not proof of paranormal activity.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred three dialogue-associated voice pages plus title cues, BGM/SFX, the location shoot and broadcast remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0121_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, supernatural finding, specialist or monograph promotion.

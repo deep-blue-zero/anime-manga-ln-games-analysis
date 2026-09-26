@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.21"
+version: "11.22"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 97 complete i-n-g primary documents / T7S_B0080–T7S_B0120; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 100 complete i-n-g primary documents / T7S_B0080–T7S_B0121; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 206`; `directional_relationship_states = 400`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0120, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 211`; `directional_relationship_states = 404`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0121, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2280,3 +2280,34 @@ The [B0120](../02%20Readings/T7S_B0120_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0400` | Chacha → Ayumu, **accepted preferential service joke** | Is pleased by the role treatment and asks Ayumu for tea later. C:P44–53,68–75. Reciprocal `REL-0399`; no legal master/servant relation. |
 
 `T7S_B0120_CLOSE-20260926`: four actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, class status or employment-contract record.
+
+## B0121 Kyoko's informed choice and relational support
+
+The [B0121](../02%20Readings/T7S_B0121_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.23, binds these updates. Existing Kyoko `IDENTITY-0077`/`CHAR-0059`, Ei `IDENTITY-0049`/`CHAR-0037`, Saori `CHAR-0038`, Makoto `CHAR-0030`, Tomoe `CHAR-0029`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0059` / Kyoko | Fear of ghosts/horror coexists with attraction to scary stories and a chosen prime-time job. She proposes practice, asks Player for proximity, completes a reportedly successful shoot, and wants her off-camera arm-gripping kept private. | A:P2–44; B:P15–33; C:P1–103. Neither coerced submission nor proven fear cure; full broadcast uninspected. |
+| `CHAR-0037` / Ei | Knows Kyoko cannot comfortably watch horror alone, corrects Player's mistaken fit assumption, sets three rehearsal checkpoints and later identifies the rumored male ghost as Player after viewing footage. | A:P2–10; B:P1–23; C:P1–4,74–103. Her spirit comments remain attributed; no actual ghost established here. |
+| `CHAR-0038` / Saori | Returns to clear a live prop, trips over a cable and topples a light during the rehearsal. | C:P14–25. A visible workspace hazard, without injury severity or causal relation to B0119's reports. |
+| `CHAR-0030` / Makoto | Appears beneath Player's desk and insists no objects but she belong there, frightening the others differently. | C:P31–42. Her claim is a character boundary/assertion, not an authorized exclusive workspace right. |
+| `CHAR-0029` / Tomoe | Is found crying through a solitary overnight self-reproach session in the costume room. | C:P45–62. Her stated distress is real within the scene; no clinical inference or total chronology against B0118. |
+| `CHAR-0001` / Player | Advocates to the producer, initially misreads Kyoko's horror viewing, apologizes and offers exit, supports rehearsal and shoot, and is later recognized as the supposed filmed ghost. | A:P21–44; B:P1–33; C:P1–103. No full safety, camera, privacy or broadcast control demonstrated. |
+| `UNIT-0002` / Nanasta | Houses Kyoko's self-proposed night rehearsal, with Ei's checkpoints and a cable/light accident; external TV production remains distinct. | B:P26–33; C:P1–73. No hazard-remediation, overnight-access or external-location protocol documented. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0207` | Player knows he secured an offer but assumes Kyoko's horror viewing implies format comfort; Kyoko learns the proposed hospital shoot only after initial excitement. | A:P21–44. No initial informed acceptance or producer selection logic shown. |
+| `KNOW-0208` | Ei reveals Kyoko's fear to Player; he revises his assumption and offers withdrawal; Kyoko knows the format and explicitly chooses the work anyway. | B:P1–33. Choice is not a production-safety certificate. |
+| `KNOW-0209` | Kyoko/Player initially misidentify noises, then learn Saori's fall, Makoto's presence and Tomoe's crying; Saori reports the cable/light cause. | C:P14–62. No paranormal event or injury outcome established. |
+| `KNOW-0210` | Kyoko learns Player will be on location and takes comfort; Player privately anticipates separation while camera runs. | C:P63–71. Exact crew/location practice unknown to both reader and ledger. |
+| `KNOW-0211` | Player reports favorable producer response; he/Kyoko know of off-camera support and secrecy request; Ei relays online rumor and identifies Player in the footage. | C:P74–103. Source does not show full recording, viewers, future booking or privacy outcome. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0401` | Player → Kyoko, **corrected offer and proximity** | Advocates, apologizes for wrong fit assumption, offers exit, accompanies practice/location, and inadvertently appears in frame. A:P21–44; B:P1–33; C:P1–103. Reciprocal `REL-0402`; no comprehensive production plan. |
+| `REL-0402` | Kyoko → Player, **chosen work with conditional reliance** | Insists on accepting, asks him near, grips his arm off camera and asks secrecy. B:P15–33; C:P1–103. Reciprocal `REL-0401`; not proof of fearlessness or permanent dependency. |
+| `REL-0403` | Ei → Kyoko, **knowledge and teasing support** | Knows her frightened viewing pattern, warns against strain, sets checkpoints and jokes about a broadcast ghost. A:P2–10; B:P1–33; C:P74–103. Reciprocal `REL-0404`; supernatural remarks are attributed. |
+| `REL-0404` | Kyoko → Ei, **defensive trust and disclosure** | Denies fear, receives Ei's warning, then challenges her online rumor and hides possible enjoyment. A:P2–10; B:P15–33; C:P74–103. Reciprocal `REL-0403`; no permanent openness inferred. |
+
+`T7S_B0121_CLOSE-20260926`: five actor-local knowledge records, two directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, diagnosis or ghost record.

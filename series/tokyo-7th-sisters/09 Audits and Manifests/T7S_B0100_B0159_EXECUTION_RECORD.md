@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.20"
+version: "1.21"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0120`.
-- Completed run blocks: **21/60**; completed run episodes: **57/174**.
-- Next: `T7S_B0121`, chapter `300930`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0121`.
+- Completed run blocks: **22/60**; completed run episodes: **60/174**.
+- Next: `T7S_B0122`, chapter `300940`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -57,7 +57,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0118` | `300900` | 白鳥トモエ | 誰かのためのスワン・ソング | `312201301 / 312201302 / 312201303` | CLOSED |
 | `T7S_B0119` | `300910` | 榎並マドカ | 中学生アイドル日記 | `312201401 / 312201402 / 312201403` | CLOSED |
 | `T7S_B0120` | `300920` | 折笠アユム | ぽえっと大作戦！アユ、本場のメイドさんになるですぅ！ | `312201501 / 312201502 / 312201503` | CLOSED |
-| `T7S_B0121` | `300930` | 上杉・ウエバス・キョーコ | 怖がりプリンセス | `312201601 / 312201602 / 312201603` | AUTHORIZED_UNREAD |
+| `T7S_B0121` | `300930` | 上杉・ウエバス・キョーコ | 怖がりプリンセス | `312201601 / 312201602 / 312201603` | CLOSED |
 | `T7S_B0122` | `300940` | 西園ホノカ | ナイショの話 | `312201701 / 312201702 / 312201703` | AUTHORIZED_UNREAD |
 | `T7S_B0123` | `300950` | 荒木レナ | 放課後のラブソング | `312201801 / 312201802 / 312201803` | AUTHORIZED_UNREAD |
 | `T7S_B0124` | `300960` | 二川ミミ | リライ・オン・ミー | `312201901 / 312201902 / 312201903` | AUTHORIZED_UNREAD |
@@ -190,3 +190,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0120 closeout receipt
 
 [T7S_B0120](../02%20Readings/T7S_B0120_DEEP_READING.md): Ayumu learns a formal Victorian-themed maid register for a café event, finds Kazumi's period-framed hierarchy unsuitable to ordinary café service, then returns to her preferred poe-kyun style after a reportedly trouble-free event while a playful Chacha honorific persists. All 162 pages, 145 text records and 17 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.22 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 112 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 21/60 blocks, 57/174 episodes; publication remains pending.
+
+## B0121 closeout receipt
+
+[T7S_B0121](../02%20Readings/T7S_B0121_DEEP_READING.md): Kyoko chooses a frightening horror-special assignment after the Player corrects his mistaken inference that horror viewing meant comfort with a solo shoot; a Nanasta rehearsal exposes mundane scares and an equipment hazard, and the reportedly well-received shoot leaves fear, off-camera support and a misidentified Player-in-frame rumor. All 185 pages, 166 text records and 19 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.23 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 103 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 22/60 blocks, 60/174 episodes; publication remains pending.
