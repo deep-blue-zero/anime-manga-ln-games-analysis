@@ -705,3 +705,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `■■■`: the robots' represented speech is opaque; no intention, language, or command can be reconstructed from it.
 - `戦闘の指揮をお願いします`: Midori explicitly delegates tactical direction to Sensei after spotting encirclement.
 - **Source caution:** `u:0013` is an impossible self-rebuke under Momoi attribution; `u:0022-0023` are alternative responses to `choice:001`, not consecutive speech.
+## V002 C001 E004 delta — machine register, inscription, corrupted names
+
+- `資格がありません` / `入室権限` / `先生の「生徒」`: the unknown facility voice executes an access classification. It does not verify a school roll or ethical right.
+- `下部の扉`: the literal lower opening is the floor; preserve the sudden danger implicit in the reveal.
+- `AL-IS` is Momoi's initial reading; `AL-1S` is Midori's digit-one correction. `アリス` is a later practical name tentatively affirmed by the girl, not a literal expansion of the marking.
+- `本機の自我、記憶、目的は消失状態` and `接触許可対象への遭遇時、本機の敵対意思は発動しません` are the girl's self-reports; their technical truth and range are unverified.
+- `回答不可` / `深層意識における第一反応`: identical response after mutually exclusive Sensei questions, supplying no identity or site explanation.
+- `偽装`: Midori's explicit term for the suspected plan to present her as a Millennium student, not a completed fraudulent act.
+- **Attribution quarantine:** scene-1 `u:0006-0008`, `u:0069-0070`; scene-2 `u:0003-0006`, `u:0011-0012`, `u:0016-0025` (and related role-flipped turns) cannot ground precise Momoi/Midori/Alice voice rules. `choice:002` and `choice:003` each have mutually exclusive branches with duplicated convergence lines.

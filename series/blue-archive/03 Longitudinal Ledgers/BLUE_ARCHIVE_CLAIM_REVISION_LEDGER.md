@@ -1128,3 +1128,11 @@ No `BA-C019` is opened before repeated evidence distinguishes a Millennium-wide 
 - **BA-C009–C018: PRESERVE / not directly tested** — neither the robots nor the ruins should inherit Volume 1's organizational conclusions by analogy alone.
 
 No `BA-C019` is opened. Momoi's lost-coordinate/legend inference remains an actor hypothesis, Himari's `かもしれない` remains a hedge, and robot provenance remains unknown. Contextual backfill remains **DEFER**.
+## V002 C001 E004 claim transitions — classified access, dependent newcomer
+
+- **BA-C001–C004, C007: STRENGTHEN / pressure-test** — Sensei materially protects students after an unexplained gate decision, while the sisters' relation to a vulnerable newcomer tests whether help respects the helped person's agency.
+- **BA-C005–C006: PRESERVE REJECTED** — the adult does not know the factory or girl's identity, and the students make different care/instrumental judgments rather than exhibiting generic incapacity.
+- **BA-C008: STRENGTHEN** — two optional tone/questions groups converge; neither answer produces an origin, identity, or safety guarantee.
+- **BA-C009–C018: PRESERVE / not directly tested** — no warrant to assign Volume 1's institutional actors or ethical outcome to the unknown factory or proposed school-status maneuver.
+
+Do not open `BA-C019` on this single encounter. Classification-versus-belonging is a candidate motif, not a settled claim. `AL-1S`, `アリス`, and student status remain separate. Contextual backfill remains **DEFER**.

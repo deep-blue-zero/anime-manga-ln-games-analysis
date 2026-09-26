@@ -340,3 +340,12 @@ E002 adds contextual and knowledge evidence, not a defensible operational rule: 
 - **Yuuka/Yuzu:** absent; no change to their personal state.
 
 Momoi/Midori receive material contextual reconstruction evidence without readiness promotion; Sensei gains a requested-command context, not an operational rule. `scene:001:u:0013` is internally misattributed; `u:0022-0023` are branch alternatives.
+## V002 C001 E004 delta — protective discovery, uncertain personhood and recruitment
+
+- **Momoi:** protects the found girl by bringing/clothing her, proposes `アリス`, then identifies her as a possible club-survival recruit. Care and instrumental interest coexist. Her GSC-weapon idea is expressly doubtful; no robot provenance is learned.
+- **Midori:** corrects the inscription from `AL-IS` to `AL-1S`, attends to bodily dignity and uncertain origin, thanks Sensei for the fall protection, and names a proposed Millennium-student `偽装` risk. Corrupt sibling labels limit precise voice attribution.
+- **Alice / `AL-1S`:** first directly observed; wakes and requests explanation, reports absent self/memory/purpose data and conditionally nonhostile intent, accepts `アリス` as a provisional name, mouths hardware. Prior identity, age, sentience, safety, and membership capacity remain OPEN; initial readiness `UNMODELED`.
+- **Sensei:** receives unexplained facility authorization, physically cushions the sisters, and may ask either identity/place or contact-authorization meaning; neither branch gets a concrete answer.
+- **Yuuka/Yuzu/Himari:** absent; no individual behavioral update. `G.Bible` remains unfound.
+
+Material context-specific reconstruction evidence does not yield a standalone rule or readiness promotion. No frozen prediction exists (`NO_DIAGNOSTIC_OPPORTUNITY`). Scene-1 `u:0006-0008`, `u:0069-0070` and scene-2 `u:0003-0006`, `u:0011-0012`, `u:0016-0025` contain impossible or suspect speaker labels.

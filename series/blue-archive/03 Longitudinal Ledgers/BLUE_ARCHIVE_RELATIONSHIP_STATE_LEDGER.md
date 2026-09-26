@@ -324,3 +324,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI/MIDORI ↔ SENSEI:** Momoi directs hiding and accepts Sensei's factory cue; Midori requests combat command only when encirclement emerges. The teacher is an invited participant/possible tactical coordinator, not yet owner of their creative mission.
 - **CLUB ↔ VERITAS/HIMARI:** coordinates/help and metaphor are reported by Momoi, not directly spoken by Veritas or Himari; no lasting alliance terms are established.
 - **GROUP ↔ ROBOTS:** observed patrol/convergence creates an immediate adversarial practical relation, but robot intent, command, and identity are unknown.
+## V002 C001 E004 relationship delta — rescue before belonging
+
+- **MOMOI/MIDORI ↔ SENSEI:** Sensei's body buffers their fall, and Midori thanks them; the facility grants the sisters derivative access as Sensei's `生徒`. That automated classification does not settle prior consent, school registration, or personal obligation.
+- **SISTERS ↔ ALICE:** clothing and removal from the robot site are concrete care. Naming is tentatively affirmed; Momoi's subsequent recruitment invitation has no shown informed acceptance. Dependent stranger and potential club resource are simultaneous, ethically unsettled relations.
+- **MOMOI ↔ MIDORI:** they disagree about the newcomer and the proposed false-student route while preserving shared rescue. Corrupt labels prevent precise allocation of every club-room argument.
+- **GROUP ↔ FACTORY/ROBOTS:** robots stop pursuing at its threshold; the gate recognizes Sensei and derives companions' access. No builder, ownership, allegiance, or motive is established.

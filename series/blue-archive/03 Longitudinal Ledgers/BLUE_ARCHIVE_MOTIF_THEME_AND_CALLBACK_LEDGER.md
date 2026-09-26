@@ -465,3 +465,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **`ゲームの聖書` as shortcut temptation:** Momoi hopes legendary knowledge will rapidly yield a prize-worthy sequel; Midori's advertisement analogy resists treating a promise as evidence.
 - **Game quest / actual risk:** an object hunt becomes hiding, robots, and encirclement; fantasy-hero framing now has bodily stakes.
 - **Requested command:** Sensei's observation of refuge and Midori's request repeat the V001 bounded-command pattern in a new institutional context without proving full-series universality.
+## V002 C001 E004 motif / callback delta — classification and shelter
+
+- **Access versus belonging:** the facility's `資格` category first excludes the sisters then includes them derivatively through Sensei; the club then considers membership for a girl whose school status is unknown. Neither classification equals a freely chosen relationship.
+- **The door beneath:** an apparently helpful opening becomes a fall, and Sensei's cushion turns procedural access into bodily responsibility.
+- **Name from a misread mark:** `AL-IS` becomes corrected `AL-1S`, then a provisionally accepted `アリス`; a readable label must not replace recovered biography.
+- **Care versus use:** the sisters clothe and shelter Alice before Momoi sees a membership solution. Genuine care is not negated, but her dependence makes recruitment more ethically charged than an ordinary invitation.
+- **Game language tested:** Momoi's RPG-corpse joke and hardware fascination coexist with a vulnerable, possibly artificial person; game framing is not sufficient to explain her status.
+- **Unfound object:** searching for a legendary design shortcut has instead produced a person. The source does not establish that Alice is `G.Bible` or the intended prize.

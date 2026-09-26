@@ -313,3 +313,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Himari:** a source-qualified `かもしれない` metaphor is reported. It is not a verified transport/collection mechanism for forgotten objects.
 - **G.Bible:** reportedly a legendary creator's work containing a game-making secret. Current location, form, authenticity, and effect remain unverified despite the unmapped last-operation coordinate.
 - **Factory-like structure:** Sensei sees a possible shelter during robot convergence; safety/ownership are unknown.
+## V002 C001 E004 institutional delta — eligibility is not enrollment
+
+- **Unknown factory:** an unidentified voice names Momoi/Midori ineligible, grants Sensei entry, then extends access to the sisters as teacher-accompanying `生徒`; it opens a floor door. This demonstrates a local access rule, not its author, rightful jurisdiction, or Millennium/GSC ownership.
+- **Robots:** cease pursuit at the threshold; their relation to the gate, factory, GSC, and `G.Bible` remains OPEN. Momoi's secret-weapon speculation is self-doubted.
+- **Game Development Club:** Momoi recovers two survival routes, prize or increased membership, and directly invites the newly found girl. Midori identifies a possible Millennium-student `偽装`; no paperwork, admission, membership acceptance, or Yuuka decision occurs here.
+- **GSC/Valkyrie:** possible outside contacts are discussed and deferred in label-corrupt dialogue; neither institution acts. The ethical cost of delay is open.
+- **`AL-1S` / `G.Bible`:** the former is a body marking, not verified school/identity documentation; the latter remains unfound and unlinked to the girl by direct evidence.

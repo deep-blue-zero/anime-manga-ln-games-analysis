@@ -499,3 +499,10 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - **Tactical contribution:** Sensei spots a factory-like refuge as robots converge; Momoi accepts the cue and Midori explicitly requests combat command. No battle outcome appears here.
 - **Authority structure:** danger brings a domain-specific request for adult coordination without converting the club's search goal or earlier risk decision into Sensei's property.
 - **Reconstruction:** useful context for the established bounded-command mechanism, no standalone-model promotion; `NO_DIAGNOSTIC_OPPORTUNITY` for frozen predictions.
+## V002 C001 E004 delta — bodily protection without explanatory authority
+
+- **Choice topology:** three scene-1 groups: singleton muffled location; sincere-relief versus gain/loss joke followed by branch-conditioned duplicate thanks; and two distinct questions followed by one duplicated non-answer. No option discovers Alice's identity or site purpose.
+- **Access:** the unknown voice grants Sensei primary entry and the sisters derivative `生徒` access. A machine's authorization is not Sensei's knowledge, endorsement, or proof of legitimate institutional jurisdiction.
+- **Care:** Sensei cushions the sisters after the floor drops. Immediate physical protection is observed, not lasting injury, universal self-sacrifice, or retroactive approval of the hazard.
+- **New dependent person:** Sensei's optional questions do not control Alice's naming, custody, or membership. The group's duty of care is complicated by her memory-loss report and the club's recruitment incentive; no informed consent to membership is shown.
+- **Reconstruction:** bounded care context, not a standalone adult model or frozen-prediction success (`NO_DIAGNOSTIC_OPPORTUNITY`).
