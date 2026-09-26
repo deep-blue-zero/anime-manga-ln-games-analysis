@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.9"
+version: "11.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 61 complete i-n-g primary documents / T7S_B0080–T7S_B0108; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 64 complete i-n-g primary documents / T7S_B0080–T7S_B0109; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 523`; `revisions = 42`; `predictions = 7`; `AV_reviews = 55`; `literary_findings = 523`. Claims are bounded to their stated B0001 through B0108 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 29 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 527`; `revisions = 42`; `predictions = 7`; `AV_reviews = 56`; `literary_findings = 527`. Claims are bounded to their stated B0001 through B0109 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 30 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1366,3 +1366,26 @@ Owner and A/B/C locator key: [B0108](../02%20Readings/T7S_B0108_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and any performed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0108_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical verdict, specialist or monograph promotion.
+
+## B0109 fever, ordinary care and non-scarce kinship
+
+Owner and A/B/C locator key: [B0109](../02%20Readings/T7S_B0109_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.11. Rona's earlier B0005 family-help promise is an explicit anchor; no total chronology among i-n-g chapters.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0109-001` | `BOUNDED_INFERENCE`; D1; high | Hime's difficulty stopping a lesson and quick return to the tofu shop keep B0005's overfunctioning question open, although others supply a real day of household help. | A:P11–46; C:P58–65; `THREAD-0007`. A local rest and morning assistance do not establish a durable workload rule or prove nobody helped. |
+| `CL-B0109-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sui and Rona's care competition converts Hime's immediate needs into proof of their own closeness; broken dishes, child-chase and feeding delay show comic but material costs, while later joint work preserves partial value. | A:P47–54; B:P11–36; C:P7–17,39–56. The helpers are not uniformly incapable, and care is not certified by good intent alone. |
+| `CL-B0109-003` | `BOUNDED_INFERENCE`; D1; high for knowledge limit, moderate for emotional meaning | Hime's sleeping hem grip is interpreted by Rona and father as welcome dependence; it motivates an explicit father-hosted overnight stay but is not a conscious Hime invitation or medical finding. | C:P19–38; `KNOW-0151`. The sleep talk supports affection without transferring private intent or consent certainty. |
+| `CL-B0109-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Reciprocal jealousy reveals that Hime's bond is not a scarce prize; Rona and Sui agree sometimes to become her older sisters, making care reversible without replacing Hime's familial or shop identity. | C:P39–78; `REL-0313`–`0314`. `たまには` is bounded; no adoption, explicit romance, settled household work or Hime knowledge of the pact. |
+
+### AV-0056 — fevered Hime, household meal and scene cuts
+
+- Questions/claims: whether static stills prove fever degree, care duration, dish count, conscious sleep consent, recovery or durable kinship change; `CL-B0109-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for actor knowledge and family-role claims.
+- Selection: Hime `adv_chara_006_01_09`, `adv_chara_006_05_11`; Rona `adv_chara_005_01_10`; Sui `adv_chara_009_03_08`; Momoka `adv_chara_007_02_07`; porridge `adv_obj_0107`; fruit jelly `adv_obj_0108`. All 174 native pages and nineteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.11 binds seven media receipts.
+- Observed: selected Hime stills show school clothing and blue check pajamas; Rona, Sui and Momoka remain distinct presented figures; porridge and fruit-jelly objects visualize food supplied by Sumire and Kajika. These states do not show cooking by Rona/Sui or medical recovery.
+- Native occurrence: command-only A:P0–1,10,33,54; B:P0,10,14,21,23,27,37; C:P0,18,25,38,57,79–80. Shake/SFX at B:P14,21 and B:P27 frame mishaps; C:P4–5 displays food, C:P25–38 cuts to the sleep scene, and C:P57–58 cuts to morning. Effects do not inventory dishes, diagnose illness or measure rest.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred thirty-three dialogue-associated voice pages plus title cues, BGM/SFX remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0109_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, diagnosis, specialist or monograph promotion.

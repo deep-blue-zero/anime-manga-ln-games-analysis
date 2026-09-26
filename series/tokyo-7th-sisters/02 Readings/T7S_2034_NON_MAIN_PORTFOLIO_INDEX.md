@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.9"
+version: "2.10"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 9/60 blocks; i-n-g coverage is 61/280 episodes across 29 chapters. The next authorized but unread chapter is `300810` / **きっと同じさ** / 野ノ原ヒメ, episodes `312200401 / 312200402 / 312200403`, assigned B0109.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 10/60 blocks; i-n-g coverage is 64/280 episodes across 30 chapters. The next authorized but unread chapter is `300820` / **完全密着！次世代アイドル・モモカ** / 芹沢モモカ, episodes `312200501 / 312200502 / 312200503`, assigned B0110.
 
 ## Closed first i-n-g tranche
 
@@ -89,3 +89,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0106](T7S_B0106_DEEP_READING.md) | `300780` / 春日部ハル / Tokyo-7th お掃除大作戦！ | `312200101 / 312200102 / 312200103` | `COMPLETE_BOUNDED` |
 | [T7S_B0107](T7S_B0107_DEEP_READING.md) | `300790` / 天堂寺ムスビ / ワン・ステップ・フォワード | `312200201 / 312200202 / 312200203` | `COMPLETE_BOUNDED` |
 | [T7S_B0108](T7S_B0108_DEEP_READING.md) | `300800` / 角森ロナ / ウィッシュ・ユー・アー・ヒア | `312200301 / 312200302 / 312200303` | `COMPLETE_BOUNDED` |
+| [T7S_B0109](T7S_B0109_DEEP_READING.md) | `300810` / 野ノ原ヒメ / きっと同じさ | `312200401 / 312200402 / 312200403` | `COMPLETE_BOUNDED` |

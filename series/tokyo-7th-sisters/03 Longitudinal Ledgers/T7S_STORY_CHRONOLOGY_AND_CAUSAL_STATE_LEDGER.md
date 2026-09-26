@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.9"
+version: "11.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 61 complete i-n-g primary documents / T7S_B0080–T7S_B0108; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 64 complete i-n-g primary documents / T7S_B0080–T7S_B0109; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 372`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 337`; `last_closed_block = T7S_B0108`. The admitted horizon contains 296 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 61 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 377`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 343`; `last_closed_block = T7S_B0109`. The admitted horizon contains 299 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 64 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1022,3 +1022,30 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.10. [B0108](../02%20Readings/
 | `EDGE-0337` | `INTERRUPTED_INTENT` | Coney's private adult uncertainty in `EV-B0108-003` frames her C:P69–70 unfinished Nanasta clause in `EV-B0108-005`; the missing predicate cannot be filled with a specific plan. |
 
 `T7S_B0108_CLOSE-20260926`: five chapter events, seven bounded edges; existing `THREAD-0002` and `0006` advanced without new thread, world state, performance verdict or total i-n-g chronology.
+
+## B0109 Hime illness, competitive care and reversible sister roles addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.11. [B0109](../02%20Readings/T7S_B0109_DEEP_READING.md) owns the A/B/C locator key. Rona explicitly recalls B0005's promise to aid Hime's family; no chapter-menu total order among i-n-g cases follows.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0109-001` | Hime sways and is feverish during voice practice; she resists missing a lesson while peers work, then agrees to rest after the Player, Sui and Rona urge it. Momoka's lovesickness/sore-throat jokes do not diagnose anyone. | A:P2–32; `KNOW-0148`; `REL-0309`–`0312`; `THREAD-0007`. No thermometer result, clinical diagnosis or sick-leave rule. |
+| `EV-B0109-002` | Hime lacks energy for housework. After their lesson and the Player's permission, Sui and Rona arrive, recall the earlier family-help promise, and compete to be the better nurse. Sui breaks dishes; Rona falls while dressing Hime's younger brother, whose sister proposes a fake-doughnut diversion. | A:P34–54; B:P1–37; `KNOW-0149`; `REL-0309`–`0314`; `UNIT-0005`. The father jokes about five plates, not an exact count; the children and father remain agents. |
+| `EV-B0109-003` | Sumire's porridge and Kajika's jelly help supply dinner. Sui and Rona argue over feeding Hime until she asks them to hurry. Later Hime falls asleep holding their hems; Rona and father infer that she wants closeness, and father invites an overnight stay. | C:P1–38; `KNOW-0150`–`0151`; `REL-0309`–`0314`; `UNIT-0005`. Sleeping grip is not conscious verbal assent or proof of medical recovery. |
+| `EV-B0109-004` | Hime's sleep talk names both friends. Rona and Sui admit reciprocal jealousy about each other's Hime bond, apologize for rivalry and agree sometimes to care for her as older sisters. | C:P39–56; `KNOW-0151`–`0152`; `REL-0313`–`0314`; `THREAD-0007`. Hime does not hear the private pact; no adoption, romance verdict or permanent role reversal. |
+| `EV-B0109-005` | Next morning Hime advertises tofu at the shop while Rona and Sui help and appear closer. They do not explain the pact to Hime, saying only that they cherish the same thing; the Player and Momoka infer a referent. | C:P58–80; `KNOW-0152`; `REL-0309`–`0314`; `UNIT-0005`. Energetic appearance is not medical clearance or lasting redistribution of shop work. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0007` | Hime's care/household burden remains `OPEN`. B0109 gives one explicit day of rest and previously promised household help, but Rona/Sui's contest can make receiving care harder. Their private agreement to sometimes become older sisters offers reciprocal support without changing Hime's whole role. She is back working at the tofu shop next morning; no durable load rule is visible. A:P11–46; B:P1–37; C:P1–80. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0338` | `ILLNESS_CONSTRAINS_WORK` | Hime's fever and peer intervention in `EV-B0109-001` → her same-day departure/rest and the household need in `EV-B0109-002`; no diagnosis or standing sick leave follows. |
+| `EDGE-0339` | `PROMISE_TO_LOCAL_ACTION` | Rona's A:P45 explicit recollection of B0005's family-help promise → Sui and Rona's one-day household work in `EV-B0109-002`. It orders the recalled promise before this case, not all i-n-g chapters. |
+| `EDGE-0340` | `COMPETITION_IMPAIRS_CARE` | The nursing contest in `EV-B0109-002` → broken dishes, a child chase and delayed feeding in `EV-B0109-003`; partial completed help is not negated. |
+| `EDGE-0341` | `INTERPRETED_DEPENDENCE` | Sleeping hem grip in `EV-B0109-003` → Rona/father inference and father's overnight invitation. It is not Hime's conscious verbal request. |
+| `EDGE-0342` | `RECIPROCAL_DISCLOSURE` | Hime's sleep talk and the girls' recognition of their rivalry in `EV-B0109-003`–`004` → mutual jealousy disclosure and a sometimes-reversed sister-role agreement. Hime remains outside this knowledge. |
+| `EDGE-0343` | `LOCAL_PRACTICE_NOT_POLICY` | The private pact in `EV-B0109-004` → joint shop help in `EV-B0109-005`, while Hime's return to work prevents a durable burden-sharing conclusion. |
+
+`T7S_B0109_CLOSE-20260926`: five chapter events, six bounded edges including one explicit B0005 anchor; existing `THREAD-0007` advanced without new thread, world state, diagnosis or total i-n-g chronology.

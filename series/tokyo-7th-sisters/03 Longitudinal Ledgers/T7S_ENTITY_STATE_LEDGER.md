@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.9"
+version: "11.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 61 complete i-n-g primary documents / T7S_B0080–T7S_B0108; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 64 complete i-n-g primary documents / T7S_B0080–T7S_B0109; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 147`; `directional_relationship_states = 308`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0108, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 152`; `directional_relationship_states = 314`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0109, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1860,3 +1860,37 @@ The [B0108](../02%20Readings/T7S_B0108_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0308` | Player → Coney, **accompaniment with contact** | Disagrees with her continuation decision, then follows Rona and promises to call if needed. B:P34,40–54. Reciprocal `REL-0307`; no full agreement or safety finding. |
 
 `T7S_B0108_CLOSE-20260926`: five actor-local knowledge states, five directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
+
+## B0109 Hime household care and reciprocal jealousy
+
+The [B0109](../02%20Readings/T7S_B0109_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.11, binds these updates. Existing Hime `IDENTITY-0009`/`CHAR-0009`, Rona `CHAR-0008`, Sui `CHAR-0014`, father `CHAR-0011`, Momoka `CHAR-0012`, Player `CHAR-0001`, Nonohara household/shop `UNIT-0005` and Nanasta `UNIT-0002` suffice. The unnamed siblings do not receive invented identity routes.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0009` / Hime | Works through fever until others intervene, accepts rest and one day of friends' help, yields to being fed while asking the rivals to stop delaying, then works at the tofu shop the next morning. | A:P8–46; B:P1–9; C:P1–38,58–78. Fever is character/Player observation, not diagnosis; morning work does not prove full recovery or durable labor redistribution. |
+| `CHAR-0008` / Rona | Notices Hime's illness, invokes the B0005 family promise, helps with children imperfectly, competes with Sui, then admits jealousy and volunteers sometimes to be the older sister. | A:P11–53; B:P24–36; C:P1–56,63–72. Friendship is not an exclusive claim over Hime or proof of professional child-care skill. |
+| `CHAR-0014` / Sui | Urges Hime to rest, helps at home but breaks dishes and contests the feeding role, then admits envy of Rona's younger-sister bond and agrees to share care. | A:P6–51; B:P11–22; C:P1–56,63–71. Her intent is real, but some actions burden the household; no permanent caregiving competence or role replacement. |
+| `CHAR-0011` / Hime's father | Receives kitchen help, declines to make broken dishes decisive, interprets Hime's sleeping grip as desire for closeness and invites the friends to stay in another room. | B:P11–22; C:P21–37. His reading of an unconscious gesture is an inference; exact dish loss, finances and long-term shop staffing remain unknown. |
+| `CHAR-0012` / Momoka | Jokes about lovesickness and a sore throat to escape lesson, then notices next-morning Hime/Rona/Sui closeness and infers the shared referent. | A:P3–5,12–17,30–32; C:P61–77. Her jokes are not a romance, disease or medical finding. |
+| `CHAR-0001` / Player | Checks Hime's forehead, directs rest, permits Sui/Rona's post-lesson visit, questions Hime's quick return to shop work and partly infers the two friends' private reason. | A:P19–31,41; C:P59,74. No thermometer reading, clinical clearance, documented sick leave or direct access to the private conversation. |
+| `UNIT-0005` / Nonohara household and tofu shop | Hime's illness exposes childcare, meals, dishes and shop work; father and siblings act alongside a one-day peer intervention and next-morning help. | A:P34–54; B:P1–37; C:P1–80. No durable staffing, child-care, illness or home-visitor protocol; Hime resumes work quickly. |
+| `UNIT-0002` / Nanasta | Player and peers prioritize Hime's rest, release friends to help after lessons, and supply porridge/jelly via Sumire/Kajika. | A:P19–45; C:P4–5. No standing sick-leave or paid care system, and the friends' competition is not institutional procedure. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0148` | The group observes Hime's flushed face and unsteadiness; the Player calls her fever high, and Hime knows she cannot keep up ordinary housework. | A:P8–35. No objective temperature, pathogen, clinical diagnosis or duration is known. |
+| `KNOW-0149` | Rona remembers a prior promise to aid Hime's family. Sui and Rona believe they can help, but learn by breaking dishes, falling and following the younger sister's trick that care is materially difficult. | A:P38–53; B:P11–36. The father's five-plate joke is not an audited breakage count. |
+| `KNOW-0150` | Sui and Rona know Sumire supplied porridge and Kajika jelly; Hime knows the meal is ready but must ask the rivals to stop arguing and feed her. | C:P1–17. No claim the pair cooked the food or that the delay caused measured harm. |
+| `KNOW-0151` | Hime is asleep while holding both girls' hems and murmuring their names; Rona and father infer she wants their presence and father invites them to stay. | C:P26–40. No conscious Hime request or clinical recovery can be inferred from sleep. |
+| `KNOW-0152` | Rona and Sui privately learn each envied the other's bond and agree to care for Hime together; Hime sees their morning closeness but is not told why. | C:P43–78. Player/Momoka's closing inference does not transfer the private explanation to Hime. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0309` | Rona → Hime, **promised help with imperfect care** | Notices illness, invokes family-help promise, aids younger child, competes over feeding, then offers to be an older sister sometimes. A:P11–53; B:P24–36; C:P11–56. Reciprocal `REL-0310`; no exclusive bond or caregiving guarantee. |
+| `REL-0310` | Hime → Rona, **accepted help and familiar bond** | Agrees to rest/one-day care, sleeps holding Rona's hem and later talks to her while asleep, then sees her shop help. A:P25–46; C:P26–40,58–78. Reciprocal `REL-0309`; sleeping motion is not conscious assent to the private pact. |
+| `REL-0311` | Sui → Hime, **care with rivalry and repair** | Urges rest, offers kitchen work, breaks dishes, vies to feed Hime and then promises sometimes to reverse the older-sister role. A:P27–51; B:P11–22; C:P7–56. Reciprocal `REL-0312`; no flawless practical care. |
+| `REL-0312` | Hime → Sui, **reliance and unspoken affection** | Lets Sui help for a day, sleeps gripping her hem, says her name in sleep and sees her shop help the next morning. A:P29–46; C:P26–40,58–78. Reciprocal `REL-0311`; no explicit romantic confession or permanent role change. |
+| `REL-0313` | Rona → Sui, **jealousy disclosed then collaboration** | Confesses envy of Sui's Hime closeness, apologizes for competing and joins a sometimes-older-sister pact and morning help. C:P43–56,63–72. Reciprocal `REL-0314`; no claim the earlier competition was harmless. |
+| `REL-0314` | Sui → Rona, **reciprocal envy and shared care** | Says she envied Rona's real-younger-sister treatment, hears Rona's admission and proposes mutual care for Hime. C:P47–56,63–71. Reciprocal `REL-0313`; Hime has not been told their pact. |
+
+`T7S_B0109_CLOSE-20260926`: five actor-local knowledge states, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.

@@ -4,7 +4,7 @@
   "artifact_type": "analytical_coverage_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "2.9",
+  "version": "2.10",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -27,18 +27,18 @@
     {
       "path": "T7S_COVERAGE_AND_ROUTING.jsonl",
       "role": "CURRENT_OR_CONSUMED",
-      "data_records": 382,
-      "bytes": 573121,
-      "sha256": "7249051c428e69b20f66a5226866ad888a43b226919b4df85cc0294d87755d76",
-      "membership_sha256": "fcfa33def5c232e8e44195ffbdcb46c790ac5303d770305f6261552594a2f9b2"
+      "data_records": 385,
+      "bytes": 579191,
+      "sha256": "1dd8e0ee67cb2429efb69a960f9c9df542638596accae66578a2daf03b4de001",
+      "membership_sha256": "33f18feb37187c8710244ce2fc0cc5c4f77932519d40fd469ccddf5d72acebfa"
     },
     {
       "path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
       "role": "ROUTED_OR_UNCONSUMED",
-      "data_records": 1208,
-      "bytes": 674417,
-      "sha256": "21c50d49328120ce53880f474c3774c15629960aac6efd1579aac4c0bcacfe6d",
-      "membership_sha256": "efc8d5d615a7c08c590d8b369780a371c68952d313d10c95148d7cd89194c7b5"
+      "data_records": 1205,
+      "bytes": 672387,
+      "sha256": "26b250d7a6cd62b971da596448dc005e1582dddab48e8d5cf3e5f757a9183dce",
+      "membership_sha256": "4c2d16cae802f5019e72e051c3132dee1a4667027e90bbb04f78dfcf74c31c13"
     }
   ],
   "transition": {
@@ -47,9 +47,9 @@
     "reason": "Preserve the complete authored ledger below the repository's per-file review threshold without dropping decisions, histories, routes, or defaults.",
     "semantic_change": "NONE"
   },
-  "current_effective_state_sha256": "77068d1eeb0b37184509d42494db30438f0296bdd2a3e4ba3c823e947aca87dc",
+  "current_effective_state_sha256": "77af28b7cc3f60b2c53fe46e4e47d8356250c6dff4849348d5de66ddd7ca7772",
   "latest_state_transition": {
-    "operation": "T7S_B0108_CLOSE",
+    "operation": "T7S_B0109_CLOSE",
     "date": "2026-09-26",
     "moved_scenario_records": 3,
     "unchanged_other_effective_records": 1587,
