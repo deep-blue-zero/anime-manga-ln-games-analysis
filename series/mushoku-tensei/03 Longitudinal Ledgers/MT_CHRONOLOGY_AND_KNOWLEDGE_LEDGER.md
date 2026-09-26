@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -243,3 +243,34 @@ Prior V01–V06 bodies remain historical and unchanged. The current source bound
 | `MT-K-076` Recruitment | Third-year group discusses Zanoba, Cliff, Galfarion and Rudy; Fitts responds with conspicuous recognition. | `030`; neither identity resolution nor invitation delivery established here. |
 
 The late source explicitly corrects some motives and leaves others attributed. Narration's future-oriented comments about lingering adventurers are bounded statements about that represented group, not a universal causal law or new current knowledge for the protagonists.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Chronology | Anchored order | Observation and limit |
+| --- | --- | --- |
+| `MT-T-043` | Official opening year422/five years after displacement; northern dragon trip occupies seven days before message arrival. | `001–003`; bard framing mediates account, no literal one-day expedition. |
+| `MT-T-044` | Winter delay, invitation/inquiry/refusal, dream advice and farewell → spring journey/enrollment; Rudy explicitly fifteen. | `003–007`; spring423 plausible inference, not explicit date imposed on every scene. |
+| `MT-T-045` | Enrollment and library/dormitory events → school routine → failed craft teaching → market purchase. | `008–016`; interludes interrupt sequence with recollection. |
+| `MT-T-046` | Juli learns for about a month; broken figure revealed → defeat, roughly day-long confinement and release → epilogue routine. | `016–028`; epilogue says three months since enrollment, earlier intervals do not cleanly sum; preserve tension. |
+| `MT-T-047` | Sylphiette's second interlude revisits current school relations; meal extra returns to routine, westbound epilogue thread unresolved. | `026–030`; exact synchronization not forced, no narrated arrival. |
+
+| Knowledge | Holder and change | Observation and limit |
+| --- | --- | --- |
+| `MT-K-077` Official closure | Eris reported dead and funding ended; analyst's admitted V06 evidence contradicts death. | `001`; institutional record not ontological closure. |
+| `MT-K-078` Search delivery | Rudy actually receives Elinalise's Zenith-location report and her reassurance. | `002–003`; location, condition and rescue remain different claims. |
+| `MT-K-079` Choice advice | Invitation explained; initial refusal changes after Hitogami promises cure route and threatens regret. | `004–005`; adviser purpose/outcome unverified. |
+| `MT-K-080` Curse | Elinalise reports necessity and enjoyment; illness represented; Rudy guesses crystal mechanism. | `005`; partial bodily evidence not complete causal theory. |
+| `MT-K-081` School knowledge | Rudy misreads Fitts, learns rules/status/kinship and receives books; political explanation of Zanoba partly inferred. | `006–009`; Cliff's Eris report and Silent stories remain attributed. |
+| `MT-K-082` Identity roles | Sylphiette appears alongside named Fitts; hair/glasses clues and permission to use Fitts suggest role/disguise. | `010,026`; no explicit mechanism or comprehensive attribution; maintain uncertainty. |
+| `MT-K-083` Sylphiette history | Own account credits multiple teachers, service relationships and reported parental deaths. | `010–011`; history/recollection not all newly occurring change. |
+| `MT-K-084` Craft assumptions | Rudy learns mana/precision limits; consultation changes goal structure; Zanoba's prior idea was inhibited. | `013`; group diagnosis not proof slavery necessary. |
+| `MT-K-085` Juli | Parents both sold, seller's blame unverified; child learning partly confirms possibility; greater language skill than expected. | `014–016`; no parental life/death verdict or universal age law. |
+| `MT-K-086` Disciple concealment | Zanoba's viewpoint reveals fear of reporting failure and distinction from Roxy fixation. | `018`; source interior access does not supply Rudy this whole account. |
+| `MT-K-087` Available objection | Elinalise challenges retaliation; Rudy later recognizes crime and imagines Ruijerd's criticism. | `019,022`; ethical reasons available without governing choice. |
+| `MT-K-088` Captive information | Rudy minimizes assault in explanation; washable marks represented as permanent; frightened denial prevents complaint. | `021–025`; controllers' knowledge differs from targets/public. |
+| `MT-K-089` Undisclosed name | Sylphiette has not named herself; Ariel/Luke assumed she had; jealousy is her interpretation. | `026–027`; Rudy not shown knowingly rejecting a declared identity. |
+| `MT-K-090` Child fear | Rudy sees fear but initially counts only direct hitting; remembered threats/captivity supply wider context. | `028,030`; confidence/compliance remain partly inferred without Juli POV. |
+| `MT-K-091` Open identities/causes | Watchers and six-armed traveler described without full named resolution; cure/displacement remain unresolved. | `029`; plausible earlier-person links are inference, no future meeting admitted. |

@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -217,3 +217,33 @@ Prior V01–V06 bodies remain historical and unchanged. The current source bound
 | `MT-R-113` School allies → potential recruits | Discuss capable students and outsiders, with Fitts visibly invested in Rudy's name. | `030`; proposal not acceptance, recognition not completed identity proof. |
 
 Reciprocity requires separate directional records. Affection, gratitude, practical reliance and correct understanding do not appear or disappear together; no later reunion or offstage consent is supplied.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Directed event | Initiative, constraint and change | Observation / limit |
+| --- | --- | --- |
+| `MT-R-114` Elinalise → Rudy | Delivers news, accompanies, offers professional/contextual knowledge and objects to retaliation. | `002–005,019,029`; assurance not independent Zenith verification. |
+| `MT-R-115` Rudy → Soldat | Shares work and farewell, acknowledges possible membership absent search. | `002–003`; attachment survives chosen nonmembership. |
+| `MT-R-116` Hitogami → Rudy | Withheld explanation and cure promise redirect decision. | `004`; benefit/purpose unverified, advice not mutual trust. |
+| `MT-R-117` Fitts → Rudy | Exam, books, testimony, research and private approach supply distinct forms of help. | `006,008–009,012,025`; no automatic Sylphiette attribution or pure corrective role. |
+| `MT-R-118` Rudy → Fitts | Misreads attention, expresses gratitude, shares technique, seeks advice and accepts privacy boundary. | `006–013,025`; closeness not recognition/cure. |
+| `MT-R-119` Rudy → Zanoba | Resumes teaching, persists after failure, accepts production reframing, retaliates for figure. | `007,013,018–022`; pedagogy and violence are separate choices. |
+| `MT-R-120` Zanoba → Rudy | Reverence/fear inhibit disclosure, shared revenge delights, later meal disagreement voiced. | `013,018,022,030`; deference conditional rather than absolute. |
+| `MT-R-121` Fitts / buyers → Juli | Attend distress, purchase, treat, name and plan instruction. | `014–016`; collective care with collective participation in ownership. |
+| `MT-R-122` Rudy → Juli | Blocks blow, projects despair, offers death, teaches, rejects branding, initially misunderstands fear. | `015–016,028–030`; better lesson does not release ownership. |
+| `MT-R-123` Zanoba → Juli | Brother-linked naming, pupil recognition, growing care and defense against meal demands. | `016,028,030`; complete psychological cause inferred by Rudy, not confirmed. |
+| `MT-R-124` Juli → buyers/teachers | Says she does not want to die, learns, fears displeasure, acts after a promise of no anger and smiles after effort. | `015–016,028,030`; no inward monologue or unrestricted agreement. |
+| `MT-R-125` Linia/Pursena → Zanoba | Rank contest includes defeated disciple and destroyed figure. | `017–018`; property harm real, later violence not authorized. |
+| `MT-R-126` Rudy → Linia/Pursena | Defeat, capture, assault/deprivation, threats and imposed superior status. | `019–025`; non-graphic agency record, later friendliness not retrospective permission. |
+| `MT-R-127` Fitts / Zanoba → captives | Fitts urges release and provides practical help, yet also marks the captives; Zanoba proposes extreme punishments that Rudy rejects. | `022–024`; distinguish proposed/rejected injuries from executed acts. |
+| `MT-R-128` Captives → Rudy/public | Submit to end danger, deny harm under fear; later social contact confers anti-bullying advantage. | `023–025,028`; no free-allegiance assumption. |
+| `MT-R-129` Sylphiette → Rudy | Memories, affection, imagined exclusivity, withheld name and desire for equality. | `010–011,026–027`; only explicitly attributable self-account, no resolved Fitts substitution. |
+| `MT-R-130` Ariel / attendants → Sylphiette | Care, encouragement and time offered within service and recruitment aims. | `010,026–027`; political utility does not prove false affection. |
+| `MT-R-131` Sylphiette → Ariel/attendants | Loyal service, friendship, awareness of use, actual refusal and concern about instrumental approach. | `010,026–027`; not legal slavery or complete passivity. |
+| `MT-R-132` Luke / Ariel → Rudy | Initially blame under assumed disclosed identity; premise corrected through Sylphiette's admission. | `007,026`; correction known to readers/attendants not full shared clarification. |
+| `MT-R-133` Zanoba / Fitts → teacher and pupil | Challenge overloaded meal demands and supply a different view of the demands on her. | `030`; collaborative improvement remains within existing authority. |
+
+Fitts is retained as a source-attributed role/name, not newly asserted as a separate biological person or silently merged with Sylphiette. The identity arrangement remains a specific open question. C015 asks whether subsequent contact permits meaningful refusal and repair rather than merely continued interaction.

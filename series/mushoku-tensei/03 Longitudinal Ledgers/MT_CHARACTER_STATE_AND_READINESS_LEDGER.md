@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -263,3 +263,37 @@ Prior V01–V06 bodies remain historical and unchanged. The current source bound
 | Soldat, Suzanne, Timothy, Elise, Ariel, Fitts and others | Source-bound descriptions maintained here and in other ledgers; standalone packages deferred. | Material actions and partial interior access warrant analysis but no redundant or broad model on this transaction. |
 
 No DOMAIN_READY, mature monograph, generated scenario evidence or global enrollment. Sara's independent work and changing appraisal make her new operational responsibility distinct from simply modeling Rudy's interlocutor.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Event / local key | Prior → represented change / kind | Observation and constraint |
+| --- | --- | --- |
+| `MT-S-098` / Rudeus | Mobile work/search → receives Elinalise's message, considers travel and school, changes plan after dream promise. KNOWLEDGE / CONTEXT_CHANGE. | `001–005`; location report is not rescued mother; cure promise unverified. |
+| `MT-S-099` / Rudeus | Adventurer → university special student, wins exam, needs local rules and social witnesses. CONTEXT / PRACTICE_CHANGE. | `006–009`; technical transfer coexists with misreading and public vulnerability. |
+| `MT-S-100` / Rudeus | New enrollment → research partnership, study routine, technique sharing and selective privacy respect. RELATIONSHIP / PRACTICE_CHANGE. | `008,012`; bodily difficulty persists; Fitts identity unresolved. |
+| `MT-S-101` / Rudeus | Failed craft teacher → accepts production reframing, purchases and teaches child. KNOWLEDGE / PRACTICE_CHANGE. | `013–016`; adaptive means coexist with ownership and projected despair. |
+| `MT-S-102` / Rudeus | Angered by figure loss → planned victory, abusive captivity, reduced anger after repair possibility, enforced submission. CONTEXT / REVEALED_NOT_NEW. | `019–025`; hears objection, recognizes crime, retains control. |
+| `MT-S-103` / Rudeus | Apparent restored order → school pleasure, notices Juli's fear, offers choice after meal disagreement. PRACTICE / KNOWLEDGE_CHANGE. | `028–030`; limited correction, no emancipation or general repair. |
+| `MT-S-104` / Zanoba | Reunited disciple → persistent but unsuccessful craft pupil, hesitates to suggest helper. CONTEXT / REVEALED_NOT_NEW. | `007,013–014`; strength not precision, hierarchy inhibits information. |
+| `MT-S-105` / Zanoba | Purchaser/teacher's assistant → names child after brother, cares, fears reporting broken figure, welcomes revenge. RELATIONSHIP / REVEALED_NOT_NEW. | `016,018,022`; interior access differentiates art devotion and Rudy's Roxy fixation. |
+| `MT-S-106` / Zanoba | Reverent follower → increasing care and explicit disagreement about Juli's meal demands. PRACTICE / REVEALED_NOT_NEW. | `028,030`; brother-based care mechanism is Rudy's guess; ownership persists. |
+| `MT-S-107` / Sylphiette | Former village pupil → present service, training, study, friendship and reported bereavement. REVEALED_NOT_NEW / CONTEXT_CHANGE. | `010`; multiple mentors; service simile not legal slavery; exclude unassigned Fitts acts. |
+| `MT-S-108` / Sylphiette | Affection and imagined marriage → desire for exclusivity qualified by fear of losing Rudy. REVEALED_NOT_NEW. | `011`; hypothetical accommodation is not future consent. |
+| `MT-S-109` / Sylphiette | Possible reunion → withheld name, fear of delayed disclosure, actual refusal and equality/recruitment conflict. KNOWLEDGE / CONTEXT_CHANGE. | `026–027`; attendants' premise corrected; disguise mechanism unresolved. |
+| `MT-S-110` / Fitts role | Recognition of prospective recruit → examiner, research helper and defender; later participant in punishment and selective privacy exchange. CONTEXT / RELATIONSHIP_CHANGE. | `006,008–009,012–013,023–025,030`; actions retained under source attribution, no automatic identity merge. |
+| `MT-S-111` / Juliette | Enslaved, hungry child → purchased, treated, named and taught; intermittent skill, fear, chosen effort and smile. CONTEXT / PRACTICE_CHANGE. | `014–016,028,030`; no focalized interior, manumission or free labor agreement. |
+| `MT-S-112` / Linia and Pursena | Informal school rulers/property destroyers → defeated, confined, assaulted and intimidated into subordinate status; later sociability. CONTEXT / RELATIONSHIP_CHANGE. | `007,017–025,028`; wrongdoing does not cancel victimization; later ease not retroactive consent. |
+| `MT-S-113` / Elinalise, Ariel and Luke | Messenger arrives; school ties and desires develop; attendants correct assumption about disclosed name. KNOWLEDGE / CONTEXT_CHANGE. | `003–005,010,019,026–029`; separate individual acts, no universal benevolence or offstage knowledge. |
+
+| Local package / domain | Readiness and current route | Calibration and limit |
+| --- | --- | --- |
+| Rudeus / practical learning, contextual coordination, teaching and selected speech | BOUNDED_PROVISIONAL [model1.5](../04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/rudeus/EVIDENCE_INDEX.md). | Nine rules; ST21–26; V31–37 retrospective checks; selective boundary respect is not general reliability. |
+| Zanoba / craft, masterhood, constrained disclosure and pupil care | First BOUNDED_PROVISIONAL [model1.0](../04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/zanoba/EVIDENCE_INDEX.md). | Five rules, four states, six retrospective tests; dissent countercase; no generalized political/parental persona. |
+| Sylphiette / explicit self-account, learning, attachment, service and inhibited disclosure | First BOUNDED_PROVISIONAL [model1.0](../04%20Character%20Analysis/sylphiette/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/sylphiette/EVIDENCE_INDEX.md). | Five rules, five states, six retrospective tests; only explicitly attributable V01/V08 behavior, Fitts actions excluded pending identity mechanism. |
+| Eris, Paul, Roxy, Ruijerd, Sara | Existing bounded packages reviewed without material update. | V08 reports/memories/imagined judgment supply no new direct sequence by them; previous ceilings retained. |
+| Fitts, Juliette, Elinalise, Ariel, other students | Source-bound descriptions here; standalone operational packages deferred. | Identity, viewpoint and sampling limits named in reading; no global registry changes. |
+
+No DOMAIN_READY, mature monograph, clean holdout or generated-scenario evidence. New revelations of prior habits are not automatically new dispositions.

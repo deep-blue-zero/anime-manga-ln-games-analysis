@@ -1,18 +1,18 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V07"
+title: "Rudeus — reconstruction evidence routes through V08"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "0e72e531278055c0dbb7a6054285337a1cc37a93"
-source_boundary: "Japanese LN V01–V07; preserved history with V07 revision 1.4; publication/audit separate."
+basis_commit: "523625ec4a57b95dec7d5acbb217bae5cc7ba5d3"
+source_boundary: "Japanese LN V01–V08; preserved history with V08 revision 1.5; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
@@ -89,3 +89,20 @@ Numbers resolve in [V07](../../02%20Sequential%20Readings/MT_V07_DEEP_READING.md
 | 006 / knowledge; V30 | 025–027 | No equivalent flood trigger or delivery of Sara's/Elinalise's reader-only information. |
 
 Shared states S084–088 correspond to model ST16–20; C001/002/009/012–014 record revisions. R095–110, N080–091 and K064–074 supply relational, normative and knowledge dependencies. New Sara model/index are separate responsibilities, not generated extensions of Rudy. Retrospective checks do not create primary evidence or a clean predictive score.
+
+
+## V08 additions — revision 1.5
+
+V08 references resolve in the [reading](../../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings). The [targeted checkpoint](../../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns C015; this index does not duplicate source observations.
+
+| Rules / tests | V08 observations | Shared records and limit |
+| --- | --- | --- |
+| 001 / V31 |006,012–016,020,030|S099–103; C001/008; transferred skill and task limits, not ethical competence. |
+| 002 / V32 |013–016,030|S101/103; N099–101/109; adaptive instruction within continued ownership. |
+| 005 / V33 |012,015–025,028–030|N098–106/108–109; selective autonomy respect, not a global empathy rule. |
+| 008 / V34 |008,012–016,023–024,030|R117–123/127/133; consultation can coordinate unjust projects. |
+| 003/009 / V35 |006,023–025|K088; C009/014/015; distinguish concealment, force and public quiet. |
+| 004 / V36 |009,012,025–028|S099–100/103; K089–090; available witness correction, no cure or identity resolution. |
+| 006/007 / V37 |022,026|N104; K082/089; no equivalent trigger, imagined judgment not new Ruijerd act. |
+
+New selectors ST21–26 map to shared S098–103. Prior test IDs V01–30 and earlier evidence routes are retained. No clean holdout or later-canon source is admitted.

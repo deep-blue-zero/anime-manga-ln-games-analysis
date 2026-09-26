@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -259,3 +259,39 @@ Prior V01–V06 bodies remain historical and unchanged. The current source bound
 **`MT-NC-036`:** N061/N069/N074/N084/N092 compare personal aid and effective protection with continuing institutional harm or coercive tactics. Local benefit does not establish fair systems or necessary means.
 
 The criteria are explicit analyst judgments, not claims about universal readers or creator intent. Non-graphic choice summaries preserve youth, power, uncertainty and affected-person access; no generated sexual scenario is evidence.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Event / observation | Conduct, power, affected access and framing | Criterion and bounded judgment |
+| --- | --- | --- |
+| `MT-N-094` / `001–003` | Official funding closure and reported death coexist with scattered survivors; messenger finally arrives. | Administrative finality does not establish survivor welfare; truthful delivery credited without rescue claim. |
+| `MT-N-095` / `004–005` | Conditional cure promise redirects choice; sleeping touch violates access; curse and pleasure accounts remain distinct. | Informed choice/bodily autonomy; involuntary condition not fault, chosen intrusion remains misconduct. |
+| `MT-N-096` / `006–009,017` | School privilege, bullying and false accusation; Fitts supplies testimony backed by force, politically favored students avoid expulsion. | Protection meaningful; selective enforcement and intimidation not fair process. |
+| `MT-N-097` / `010–011,026–027` | Sylphiette values care and knows instrumental use; fears losing love, wants equality, actually refuses one suggestion. | Constrained agency; imagined accommodation not future consent, slave simile not legal status. |
+| `MT-N-098` / `012,025` | Rudy shares technique and honors collaborator's refusal/private restriction. | Real local respect; comparison with captives disproves automatic generalization. |
+| `MT-N-099` / `013–014` | Collaborative production plan uses slave purchase; group rebukes sexist remark while accepting ownership. | Better diagnosis does not legitimate objective; legal normality not consent or necessity. |
+| `MT-N-100` / `014–015` | Market neglect, fetters and threatened blow; Fitts cares, Rudy blocks blow then offers death through projected despair. | Aid credited; child refusal of death cannot authorize purchase/labor. |
+| `MT-N-101` / `016` | Treatment, food, naming, no branding and pupil status within continued ownership. | Improved conditions distinct from freedom; unintelligible naming question not informed choice. |
+| `MT-N-102` / `018–020` | Broken property, planned retaliation, explicit Elinalise objection, overwhelming victory. | Proportionality and bodily security; no-killing decision limits one harm without licensing others. |
+| `MT-N-103` / `021` | Bound girls assaulted under medical pretext; fear/anger explicit, youth/power imbalance retained non-graphically. | Consent absent; no intercourse/no cure does not erase assault; graphic reproduction unnecessary. |
+| `MT-N-104` / `022` | Repairable figure reduces anger; acknowledged criminality followed by deterrence; mutilation/sale rejected. | Selective limits real, recognition insufficient; repaired object not repair owed to persons. |
+| `MT-N-105` / `023` | Consultation follows minimized account; Fitts urges release, yet day-long deprivation and threats have produced submission, followed by further punishment. | Captive agreement not free affiliation; help-seeking can coordinate abuse. |
+| `MT-N-106` / `024–025` | Washable marks described as permanent; fear helps silence complaint; narration closes pleasantly. | Reversible injury and coercive fear differ; public quiet not informed vindication. |
+| `MT-N-107` / `026–027` | Withheld name, attendants' false assumption, recruitment interest and fear of instrumental appearance. | Clarification responsibility without forcing disclosure; affection and political use coexist. |
+| `MT-N-108` / `028` | Juli fears teachers despite care; girls' sociability and status shield Rudy from bullying. | Direct blows not sole harm route; later contact not retroactive consent; ownership persists. |
+| `MT-N-109` / `030` | Overloaded meal demand challenged by Zanoba/Fitts, followed by offered choice, effort and praise. | Better instruction and possible joy credited; observer cannot certify free consent or full confidence. |
+
+**`MT-NC-037`:** N092/N096/N102–106 compare school bullying, strategic humiliation and captive punishment. Prior wrongdoing supplies responsibility for property harm, not permission for assault; unequal enforcement remains visible.
+
+**`MT-NC-038`:** N098/N103/N105 compare respected privacy with violated bodily autonomy. The interests differ in scale, but same-volume conduct establishes selective use of permission rather than universal inability to understand refusal.
+
+**`MT-NC-039`:** N084/N099–101/N109 compare free aid, purchase, protection and teaching. Improvement of a child's situation is real without becoming a free labor agreement; no counterfactual proof of enslavement's necessity.
+
+**`MT-NC-040`:** N097/N101/N107–109 compare service, ownership and pupil care without collapsing legal status. Affection may be chosen within dependency; hypothetical marriage concessions and a child's smile cannot certify future/free agreement.
+
+**`MT-NC-041`:** N089/N104/N106/N108 compare actual interpersonal injury with correction of information, repaired property and public silence. C015 records the missing repair outcome; complaint constrained by fear cannot validate closure.
+
+These are explicit analyst criteria. No creator-intention, universal reception, diagnosis or generated sexual scenario is claimed.

@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -210,3 +210,30 @@ Prior V01–V06 bodies remain historical and unchanged. The current source bound
 | `MT-W-015` NEW | School office, sponsorship, expulsion decisions, asymmetric species hearing and powerful recruits become political resources. | `028–030`; institutional success does not establish factual completeness or just methods. |
 
 Author-profile comments about escape are paratextual statements, not clinical instruction or a conclusive moral verdict on every departure (`030`). The [targeted checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the immediate comparative argument. Existing architecture accommodates these distinctions; no new source lane or redundant specialist is activated.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Pattern / world record | V08 mechanism | Observation and limit |
+| --- | --- | --- |
+| `MT-F-001/009` REVISE | Bard frame, Zanoba interiority and Sylphiette self-account redistribute knowledge; Juli extra stays Rudy-focalized. | `001,010–011,018,026–030`; correction local, identity and child motives remain limited. |
+| `MT-F-002/007` REVISE | Official year, winter/spring and month summaries coexist with interludes and compressed epilogue. | `001–005,012–016,028`; preserve inconsistent-looking intervals rather than invent calendar. |
+| `MT-F-004/005` STRENGTHEN | Books, testimony, technical transfer, production diagnosis and debate over lesson demands distribute learning. | `006–016,030`; coordination does not imply just objective. |
+| `MT-F-006/010` REVISE | Sexualized jokes, animal/accents humor, medical excuse and happy ending coexist with fear/deprivation; images juxtapose captivity and voluntary intimacy. | `007,019–025`; form not universal reader effect or exculpation. |
+| `MT-F-008/011/019` REVISE | Face-saving politeness, withheld name, false permanent mark and intimidated denial create different audience structures. | `006,017–018,024–027`; no single performance-to-deception rule. |
+| `MT-F-012/013` REVISE | Gifts, masterhood, service and ownership redistribute obligation; naming/teaching can personalize an unfree relation. | `010–018,027–030`; warmth neither wholly transactional nor proof of freedom. |
+| `MT-F-014/016` STRENGTHEN | Official death report, cure promise, parental reports and role clues require proposition-level certainty. | `001–005,010,014,026,029`; no outside-canon completion. |
+| `MT-F-015/017/018` REVISE | Roxy ritual and ruined figure organize anger; school belonging and pleasure grow without cure or general ethical change. | `002,012,018–025,028`; object repair supplies an uneven ending. |
+| `MT-F-020` NEW | Technical problem reframed from individual ability to divided labor while the child's freedom is excluded from the goal. | `013–016`; effective practical reasoning may preserve coercion. |
+| `MT-F-021` NEW | Restored object → reduced anger → frightened public denial → satisfied narrative ending, reopened by child fear. | `022–025,028`; C015 distinguishes outcomes rather than declaring all closure false. |
+| `MT-F-022` NEW | Ordinary meal coda reveals dissent/cognitive load and visible success without providing child's interiority. | `030`; local correction and uncertain consent coexist. |
+| `MT-W-001/005` STRENGTHEN | Spell disruption transfers, matchups matter, strength/precision and mana differ, silent casting develops unevenly. | `006,012–016,020`; no universal child-learning law. |
+| `MT-W-003/009` REVISE | Normalized slave market, legal exceptions, purchaser reliability and family sale shape child options. | `014–016`; seller blame not verified, ownership persists despite treatment. |
+| `MT-W-006/012` REVISE | Reputation finally routes Elinalise to recipient; official disaster record and public school story remain selective. | `001–004,017`; no rescued-mother conclusion. |
+| `MT-W-015` REVISE | Special-student exemptions, class dining, donor/family influence and informal rank qualify inclusive rules. | `007–009,017,023–028`; protection and impartiality separate. |
+| `MT-W-016` NEW | Library conservation, restricted healing knowledge and transfer taboo constrain university inquiry. | `008,012`; access expanded but neither universal nor politically neutral. |
+| `MT-W-017` NEW | Reported curse combines material constraint, represented illness, pleasure and speculative crystal explanation. | `005`; account does not establish full mechanism or erase agency. |
+
+The targeted V08 checkpoint leaves the V01–V05 cumulative argument historical and the required V10/V15 reviews pending. Existing ledger architecture remains adequate; no adaptation, reception or new external source lane is activated.

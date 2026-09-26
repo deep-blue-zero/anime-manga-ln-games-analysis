@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V07 only; prior history preserved, V07 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V08 only; prior history preserved, V08 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -185,3 +185,28 @@ Prior V01–V06 bodies remain historical and unchanged. The current source bound
 | `MT-CR-081` / `MT-C-014` | Known error differs from ignorance → track recognized contrary evidence, inquiry permission, privacy and deliberate manufacture of audience ignorance. | REVISE; `006,010,015,018,025,028–029`; incomplete advice may help, privacy loss remains separate. | What was known before statement/action, who could correct it; knowledge/normative/checkpoint. |
 
 No new numbered claim is required. These are bounded interpretive revisions, with reports and conjectures labeled in their evidence routes. V07's freeze registered questions rather than scored outcome predictions; no clean holdout or retrospectively successful forecast is claimed.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Revision / claim | Prior → V08 formulation | Disposition / observation / countercase | Test and dependent homes |
+| --- | --- | --- | --- |
+| `MT-CR-082` / `MT-C-001` | Uneven recovery → useful learning and school pleasure coexist with unresolved bodily difficulty and misconduct. | STRENGTHEN; `006,012–013,021,028–030`. | Distinguish competence, pleasure, consent and cure; Rudy/model/checkpoint. |
+| `MT-CR-083` / `MT-C-002` | Care beside harm → concrete protection/teaching and selective privacy coexist with ownership and captive abuse despite available objections. | REVISE; `012–025,028–030`; genuine care retained. | Comparable power/refusal opportunities; normative/model005. |
+| `MT-CR-084` / `MT-C-003` | Corrective viewpoint fallible → bard frame, Zanoba fear and Sylphiette non-disclosure correct different propositions without supplying Juli interiority. | STRENGTHEN; `001,010–011,018,026–030`. | Proposition-specific access; knowledge/form/models. |
+| `MT-CR-085` / `MT-C-004` | Historical Sylphie refusal/consequence → preserved beside present love and imagined accommodation. | PRESERVE; `010–011,026–027` do not change V01 consent. | No retroactive authorization; Sylphiette model/normative. |
+| `MT-CR-086` / `MT-C-005` | Household care and harmful means → preserved historical conclusion. | PRESERVE; present analogies are not fresh access to original crisis. | No revision from unrelated warmth; normative. |
+| `MT-CR-087` / `MT-C-006` | Benefit does not prove coercive separation necessary → school/craft learning likewise does not prove ownership necessary. | STRENGTHEN comparison; `013–016,030`; original history unchanged. | Separate feasible learning from imposed institution; checkpoint. |
+| `MT-CR-088` / `MT-C-007` | Independent agency → Sylphiette study/refusal, Zanoba dissent, Elinalise objection and Juli's constrained choices remain causal. | STRENGTHEN; `010–019,026–030`; agency includes harmful actions. | What choices remain materially available; models/relations. |
+| `MT-CR-089` / `MT-C-008` | Task-specific capacity → magic transfer, strength/precision mismatch, distributed production and cognitive load require different solutions. | STRENGTHEN; `006,012–016,020,030`. | Technical success not ethical verdict; models001/002/world. |
+| `MT-CR-090` / `MT-C-009` | Distinct performance mechanisms → institutional report, face-saving courtesy, withheld name, false threat and minimized ending separated. | REVISE; `001,006,017–018,024–027`. | Audience knowledge/purpose/contestability; form/knowledge. |
+| `MT-CR-091` / `MT-C-010` | Reputation routes message → actual Elinalise delivery now established, rescue still not. | REVISE; `002–004`; assurances remain attributed. | Next direct verification, not repeated hearsay; knowledge. |
+| `MT-CR-092` / `MT-C-011` | Decision order before gratitude → market care precedes purchase, but rescue from conditions cannot supply ownership consent. | STRENGTHEN; `014–016`; earlier rescue conclusions preserved. | Sequence plus alternatives, no gratitude-to-permission inference; normative. |
+| `MT-CR-093` / `MT-C-012` | Support dimensions separate → shared inquiry/intimacy and school pleasure coexist with uncertainty and selective respect. | REVISE; `008–012,025–028`; no cure or resolved identity. | Distinct relationship conditions; Rudy/Sylphiette models. |
+| `MT-CR-094` / `MT-C-013` | Affection/usefulness not identical → masterhood, service, ownership and imposed rank differ even where care is real. | REVISE; `010–018,023,027–030`. | Refusal without lost safety/resources; relations/checkpoint. |
+| `MT-CR-095` / `MT-C-014` | Knowledge responsibility differentiated → moral objection heard but bypassed; false permanence and public denial exploit unequal knowledge. | REVISE; `019,022–026,028`; not every failure is missing information. | Available correction before action; normative/models. |
+| `MT-CR-096` / `MT-C-015` NEW | Restored property, public quiet and continued contact are distinct from affected-person repair. | NEW bounded claim; `022–025,028–030`; genuine local comfort/learning remain. | Seek uncoerced complaint/refusal, acknowledgment and changed terms; checkpoint/normative/relations. |
+
+C015 gives a newly salient closure mechanism its own responsibility rather than renaming C002: it asks which outcome licenses an ending and whose account can contest it. Its strong source-bound basis is figure restoration, frightened denial and continuing Juli fear. It is not a whole-series claim that all reconciliations are false. No clean holdout or registered forecast was tested.
