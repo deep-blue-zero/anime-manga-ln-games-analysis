@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E023 active provisional; E024 unopened
+current_sequential_boundary: MAIN_V002_C002_E024 active provisional; E025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1518,3 +1518,14 @@ No new durable claim ID pending chapter checkpoint, no model/frozen prediction o
 - **BA-C009, C012–C015, C017–C018: NO DIRECT GLOBAL TEST** — earlier Prologue/Abydos/Kaiser/Shiba Seki mechanisms unchanged.
 
 No new durable claim ID, model/frozen prediction or side-source admission. Power permanence, follower containment, dive feasibility/consent, Alice personality and Rio accountability remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E024 claim delta — chosen identity versus assigned function
+
+- **BA-C001/BA-C016:** friends' rescue allows Alice to articulate what she wants; their support is agency-preserving, not an adult or technical cancellation of risk.
+- **BA-C002–C004, C007, C010–C011:** Key's displayed injuries are real evidence of danger but not proof Alice must disappear or that world destruction is inevitable. Alice's `かもしれない` expresses fear/possibility. Her chosen hero response narrows assigned-destiny claims without certifying global safety.
+- **BA-C005–C006:** Momoi's prize/club account credits Alice's contribution within a distributed making and recognition process, not sole authorship or solely Sensei's rescue.
+- **BA-C008:** early label flips and numerous `心の声` lines remain quarantined. Alice's direct `アリスになりたい` and `そう決めた` lines are secure in-space self-report.
+- **BA-C019:** Alice's name and belonging receive direct first-person and friend-language support against Key's “Princess” designation. Physical awakening, stable safety and institutional belonging remain open.
+- **BA-C009, C012–C015, C017–C018:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Key's final condition and Alice's external state remain OPEN; contextual backfill **DEFER**.

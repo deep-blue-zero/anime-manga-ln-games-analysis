@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -708,3 +708,7 @@ Sensei thanks immobile Nel, joins the top-floor party and asks Rio/Alice-status 
 ## V002 C002 E023 delta — local aid validates a question, not an all-save prediction
 
 Key reports resource failure/system shutdown after Yuuka/Noa's independent decision. Engineering and Eimi/C&C supply additional barriers; Himari returns with a risky Alice-focused dive plan. This makes E022's secure “overlooked helpers?” questions locally productive and avoids Rio's immediate solo sacrifice, but does not validate the inward all-save wish as an achieved ending. Sensei praises Yuuka in `choice:001` and asks Himari what must be done in `choice:003`; the `u:0073` “let's go” is `心の声`, not a spoken command or consent from every would-be entrant. Yuzu explicitly volunteers; Rio warns of no-return risk. Four choices are singleton. No adult omniscience, safe dive, Alice restoration, standalone model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E024 delta — supporting Alice's own answer
+
+The dive yields Alice's mental-space response and grave guilt/self-erasure wish under Key's selected injury footage. Momoi, Midori and Yuzu lead with concrete shared evidence and friendship, not a technical guarantee; Alice herself states that she wants to be Alice and a hero. Sensei's secure `choice:003` completes the no-abandonment thought, and `choice:004-005` affirm possibility/children rhetorically. Numerous adjacent Sensei lines are `心の声`, not an audible adult monologue; `u:0090` privately wishes to hear Alice's feelings. Ethical support means making room for her own decision while retaining care for real injuries and danger. Rio's surprise and the club's wake-up question prevent an all-save or medical-success claim. Five singleton choices; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

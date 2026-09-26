@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -749,3 +749,12 @@ Key enters `UNMODELED` as a separate provisional speaking subject, not merged in
 - **Yuzu/Sensei/Alice:** Yuzu explicitly volunteers if Alice can be brought back; Sensei's `u:0073` assent is inward. Preparations finish without actual entry, Alice self-report or restored agency.
 
 Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E024 character-state delta — Alice chooses a name in the dive
+
+- **Alice:** responds in mental space, then accepts Key's displayed injuries as grounds to blame herself and contemplate disappearance. Momoi, Midori and Yuzu answer with shared creative history and friendship. Alice says she wants continued adventures and directly chooses `勇者` and `アリス`; she draws the in-space sword and rejects the assigned Princess/destruction function. This is a strong first-person crisis choice, not proof of external awakening, stable post-crisis capacity or harmless power.
+- **Key:** displays Eridu surveillance and insists that Alice's origin/power determines destruction. Its `理解……不能` fragment and silence follow Alice's light; final persistence, embodiment and control are not established.
+- **Momoi/Midori/Yuzu:** give concrete, distributed counterhistory rather than a technical safety guarantee. Yuzu names Alice `仲間（友達）`; Midori and Sensei recall the no-abandonment game rule. The friends ask whether Alice has awakened after the mental exchange.
+- **Rio/Sensei:** Rio is surprised and questions her calculations; Sensei has bounded spoken choice support and many inward assurances. Neither supplies an omniscient safety result.
+
+Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operational/validated; Alice's existing partial model gains an in-dive decision but no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

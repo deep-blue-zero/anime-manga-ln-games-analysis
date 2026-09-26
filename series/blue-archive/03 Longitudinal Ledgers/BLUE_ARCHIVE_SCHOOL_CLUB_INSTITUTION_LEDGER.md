@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -608,3 +608,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Budget/accountability:** Yuuka accuses Rio of misappropriating Seminar funds for Eridu and promises later reprimand. This is not a completed financial audit or formal sanction.
 - **Alice rescue apparatus:** Rio confirms dive equipment; Himari proposes analyzing Alice's mind, opening access and waking her, warning of priest activity. Rio warns entrants may never return. The “only Game Development Department and Sensei” statement occurs under suspect Rio labels and remains a plan claim, not exhaustive proof.
 - **Procedure state:** preparation completes but no entry, personhood recovery, protocol final defeat or medical outcome is printed.
+
+## V002 C002 E024 institutional delta — club evidence within a hazardous rescue
+
+- **Dive executed locally:** the club/Sensei reach Alice's mental space and obtain direct answers. No externally observed medical awakening, safe extraction protocol or technical closure is printed; the friends explicitly ask whether she woke.
+- **Game Development Department:** Momoi cites the `TSC2` special prize and continued club as evidence Alice helped make and sustain something valued. This does not change the C001 checkpoint's temporary council reprieve into permanent recognition or transfer all creative credit to Alice.
+- **Key/Eridu system:** Key shows city surveillance and asserts a programmed destructive function. Its local silence after Alice's chosen light does not prove deletion, neutralization of the ark threat or the safety of Supernova.
+- **Rio governance:** Rio's surprise challenges her forecast but does not resolve budget accountability, Alice custody, halo threat, school membership or a lawful risk process.

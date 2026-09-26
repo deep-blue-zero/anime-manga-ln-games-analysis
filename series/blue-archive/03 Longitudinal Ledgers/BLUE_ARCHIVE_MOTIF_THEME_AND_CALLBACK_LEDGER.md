@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -773,3 +773,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Enemy technology remade:** Engineering's Avant-Garde-kun Mk.2 turns a defeated obstacle into ally, continuing maker/use/reception themes. Space-battleship rhetoric is imaginative design motivation, not a verified weapon spec.
 - **Rescue moves inward:** after guard and resource fights, Himari's proposed `精神世界` dive reframes the aim as waking Alice's own personality, preserving the distinction between physical access and restored agency. It is hazardous and untested.
 - **Accountability postponed:** Yuuka promises Rio a later budget reckoning, pairing emergency aid with institutional correction rather than treating crisis success as exoneration.
+
+## V002 C002 E024 motif / callback delta — the game job is not destiny
+
+- **Memories against curated footage:** Key shows genuine injuries as a total verdict; Momoi counters with the special prize, club survival, shared play and changed Nel relation. Both histories matter; the second defeats “only harm” without denying the first.
+- **No-abandonment becomes reciprocal:** Alice's earlier protagonist maxim returns from her friends, who refuse to abandon her. Their answer lets Alice decide rather than installing a new imposed identity.
+- **Making versus programming:** Momoi's `転職` and the club's ability to make new stories oppose Key's predetermined “Princess” function. The motif does not establish technical immunity from Alice's weapon.
+- **Name and light:** Alice chooses `アリス` and `勇者` and turns the mental-space sword/light against Key's destruction-purpose claim. This is visible symbolic and local resistant action, not proof of physical recovery or permanent system defeat.

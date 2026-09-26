@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -619,3 +619,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ENGINEERING ↔ COALITION/KEY:** the club returns with modified Avant-Garde-kun and engages followers, contradicting Key's zero-force claim. Their group contribution is visible; individual design credits have label tension.
 - **HIMARI ↔ RIO/ALICE:** Himari returns from isolation, says she anticipated further Rio trouble, and proposes waking Alice rather than sacrificing her or Rio. Rio confirms equipment and voices serious risk; reconciliation or full trust is not shown.
 - **YUZU ↔ ALICE/SENSEI:** Yuzu volunteers for the dangerous retrieval conditional on helping Alice. Sensei's own `u:0073` assent is inward. Alice remains without secure response, so friendship motivates action without confirmed reciprocity in this state.
+
+## V002 C002 E024 relationship delta — directly answered friendship
+
+- **ALICE ↔ MOMOI/MIDORI/YUZU:** Alice now responds in the dive, fears her presence hurts them and asks whether she can continue adventures together. Momoi cites concrete shared work and offers a revisable job, Midori returns Alice's no-abandonment maxim, and Yuzu calls her `仲間（友達）`. Alice chooses to remain Alice/their hero; reciprocity is shown in-space, not yet physically reunited or safe.
+- **ALICE ↔ KEY:** Key uses real injury footage to press an exclusive guilt and “Princess” fate. Alice rejects that purpose and chooses her own name/class; Key's silence does not establish permanent severance.
+- **SENSEI ↔ ALICE/CLUB:** secure choices support the club's no-abandonment and possibility language; many apparent assurances are inward. Sensei neither creates Alice's decision alone nor proves her external awakening.
+- **RIO ↔ ALICE/COALITION:** Rio is surprised by what she regards as impossible and questions her calculation; her prior coercive act, possible accountability and future response remain unresolved.

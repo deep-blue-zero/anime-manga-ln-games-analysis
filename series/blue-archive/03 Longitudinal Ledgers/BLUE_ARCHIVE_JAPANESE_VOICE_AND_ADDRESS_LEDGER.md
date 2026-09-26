@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:023; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:024 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:024; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1031,3 +1031,9 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Noa reports initial coordinate-only help and Yuuka's `最後まで何とかしないと` decision. Yuuka `予算を横領` is an accusation, not completed audit.
 - Himari's `トリガーAI` and `精神世界`/`ダイブ設備` proposal are diagnosis/plan with `u:0048` attribution tension; Rio `二度と戻って来れなく` warns of serious dive risk. Yuzu `やります` is explicit volunteering.
 - **Quarantine:** `u:0003-0004` Midori labels include “Noa-senpai”; `u:0019` Sensei inward malformed quote; `u:0026-0028` Hibiki labels mix styles, `u:0034` Momoi label questions a prior Momoi-like line. `u:0041` Himari label voices Rio-addressed question; `u:0048` and `u:0064-0065` Rio labels likely voice Himari's technical answers. Sensei `u:0073` is inward, not an audible dive order. Four singleton choices; `u:0077` next-title card.
+
+## V002 C002 E024 delta — name, class and speaker-label quarantine
+
+- Alice `魔王`/`勇者` and `キヴォトスを滅ぼすかもしれない` express a feared possibility, then a chosen job. `アリスは勇者になりたい`/`アリスになりたい` and `アリスがそう決めたからです` are direct self-definition in mental space.
+- Momoi `ただのジョブ`/`転職` makes assigned role revisable; Yuzu `仲間（友達）` explicitly joins party and friend address. Key's `世界を滅ぼすため` remains its function claim, not certified identity. `光属性` is Alice's scene-local game register.
+- **Quarantine:** `u:0008` Alice label voices an Alice-addressing friend, `u:0010` Momoi label voices Alice-like recognition, `u:0012` Yuzu label sounds Momoi, and `u:0038` Midori label says “Midori is right.” `u:0111` narrator voices collective club refrain. Sensei `u:0019`/`0023`/`0026`/`0054`/`0063`/`0090`/`0099-0100`/`0113`/`0115`/`0137`/`0141` are inward; `choice:003-005` are secure choice text. Alice's italics do not prove external audibility. Five singleton choices; `u:0142` next-title card.
