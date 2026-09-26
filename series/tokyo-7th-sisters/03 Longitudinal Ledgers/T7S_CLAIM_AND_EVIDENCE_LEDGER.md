@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.5"
+version: "11.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 50 complete i-n-g primary documents / T7S_B0080–T7S_B0104; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 52 complete i-n-g primary documents / T7S_B0080–T7S_B0105; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -20,13 +20,13 @@ last_updated: 2026-09-25
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first twenty complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 26 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 509`; `revisions = 42`; `predictions = 7`; `AV_reviews = 51`; `literary_findings = 509`. Claims are bounded to their stated B0001 through B0104 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 25 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 512`; `revisions = 42`; `predictions = 7`; `AV_reviews = 52`; `literary_findings = 512`. Claims are bounded to their stated B0001 through B0105 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 26 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1276,3 +1276,25 @@ Owner and A/B locator key: [B0104](../02%20Readings/T7S_B0104_DEEP_READING.md), 
 - Outcome: `REVIEWED` for selected static and native segmentation. Eighty-seven dialogue-associated voice pages plus title cues, all BGM/SFX and any performed quality are unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0104_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, inferred romance, specialist or monograph promotion.
+
+## B0105 claims and exact static review
+
+Owner and A/B locator key: [B0105](../02%20Readings/T7S_B0105_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.7. B0038/B0102 are retrospective context without a cross-chapter time edge.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0105-001` | `BOUNDED_INFERENCE`; D1; high | Xiao's pleasure in Kazumi's picture book challenges her own rule that training must be difficult, while her declared failure shows she has not yet revised the rule. | A:P0–20; `KNOW-0130`. Kazumi's “suited” language may be patronizing, but a deliberate trick is not evidenced. |
+| `CL-B0105-002` | `THEMATIC_INTERPRETATION`; D1; high for narrow success, moderate for growth implication | The guarded cream puff is not eaten by Xiao, satisfying her stated abstinence condition, but the manner of its removal and her hurt make that criterion inadequate to judge strength. Sumire's separate reward opens a less punitive meaning for receiving food. | A:P21–48; B:P1–46; `THREAD-0047`; `REL-0281`–`0284`. No full-day fast, health assessment or durable cure. |
+| `CL-B0105-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kazumi, Murasaki and Sumire offer differentiated peer care while the Player's mistake exposes the gap between shared-space appearances and someone's actual stakes; the ending remains local, not a safeguarding rule. | A:P7–48; B:P6–51; `UNIT-0002`. Sumire's idol-smile line can also renew pressure; no malicious Player intent or guaranteed reception is inferred. |
+
+### AV-0052 — still pastries and unstaged duration
+
+- Questions/claims: whether static objects distinguish Xiao's tests and Sumire's reward, depict the asserted full-day period or support physical-health/performance claims; `CL-B0105-001`–`003`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for dialogue attribution and Xiao's claimed success.
+- Selection: Xiao `adv_chara_147_01_01`, `03`, `04`; Sumire `adv_chara_008_01_02`; objects `adv_obj_0075`, `0076`, `0077`. All 103 native pages and six command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.7 binds the seven receipts.
+- Observed: Xiao's three faces share dark-purple looped hair, yellow eyes, green patterned top and yellow waist tie; the third selected face depicts crying. The first object is a yellow-topped pastry, the second a red-fruit cream puff, the third a similar puff without visible red fruit. The stills do not establish composition, tasted quality, actual abstinence duration or mental/physical strength.
+- Native occurrence: command-only A:P18–19,39 and B:P0,52–53 mark title/subtitle, scene fade and ending. A:P21–34 stages `adv_obj_0075`, B:P2–21 `adv_obj_0076`, and B:P39–43 `adv_obj_0077`; flash/shake fields do not provide independently viewed motion or timing.
+- Outcome: `REVIEWED` for selected stills and native segmentation. Eighty-seven dialogue-associated voice pages plus title cues, all BGM/SFX and any performance quality remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0105_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, health diagnosis, specialist or monograph promotion.

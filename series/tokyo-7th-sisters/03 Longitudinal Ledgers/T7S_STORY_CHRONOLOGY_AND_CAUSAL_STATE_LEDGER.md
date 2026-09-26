@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.5"
+version: "11.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 50 complete i-n-g primary documents / T7S_B0080–T7S_B0104; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 52 complete i-n-g primary documents / T7S_B0080–T7S_B0105; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 354`; `world_state_records = 25`; `thread_records = 46`; `chronology_and_dependency_edges = 315`; `last_closed_block = T7S_B0104`. The admitted horizon contains 285 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 50 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 358`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 319`; `last_closed_block = T7S_B0105`. The admitted horizon contains 287 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 52 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -917,3 +917,27 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.6. [B0104](../02%20Readings/T
 | `EDGE-0315` | `ENABLES_BOUNDED_INVITATION` | Rona and Musubi's appreciation and revised request in `EV-B0104-003` → Kazumi's prospective writing attempt and chosen idol-activity conversation. No unconditional friendship or readership right. |
 
 `T7S_B0104_CLOSE-20260925`: three chapter events, one open authorship/access thread and four chapter-local causal/interpretive edges; no new world state or cross-chapter chronology edge.
+
+## B0105 self-denial, scale and care addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.7. [B0105](../02%20Readings/T7S_B0105_DEEP_READING.md) owns the A/B locator key. B0038's account of Xiao's mental-training motive and B0102's Murasaki labor evidence are retrospective comparisons; no cross-chapter time edge is added.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0105-001` | Xiao struggles with a difficult book; Kazumi recommends a beloved, substantial picture book. Xiao delights in it but classifies pleasure as failed training. | A:P0–20; `IDENTITY-0094`; `CHAR-0076`; `KNOW-0130`; `REL-0277`–`0278`. Kazumi did not reveal a planned trap; delight does not prove a durable reading practice. |
+| `EV-B0105-002` | Xiao offers an okara-cheese donut to tired, breakfast-skipping Murasaki as a refusal test. Murasaki dislikes sweets and urges Xiao to eat before lesson; Xiao accepts the bite and names her test failed. Sumire then counsels smaller ordinary steps, while Xiao says she wants rapid strength without burdening peers. | A:P21–48; `KNOW-0131`; `REL-0279`–`0282`; `THREAD-0047`. The scene neither solves Murasaki's work/rest burden nor diagnoses Xiao's physical health. |
+| `EV-B0105-003` | Xiao guards a favorite strawberry cream puff for an asserted day-long abstinence trial. Peers worry; lesson is delayed; the Player mistakes it for a gift and eats it despite Murasaki's warning, just as Xiao considers quitting. Xiao says she succeeded yet cries over the loss. | B:P1–37; `KNOW-0132`; `REL-0283`–`0284`; `THREAD-0047`. No elapsed full day, intentional malice, lasting growth or medical condition is established. |
+| `EV-B0105-004` | Sumire offers a cream puff she made in anticipation and calls it a reward, not failure. Xiao accepts, thanks her and smiles through tears; Kazumi contrasts fit friendship with irrational trials, while Coney scolds the Player. | B:P38–51; `KNOW-0133`; `REL-0281`–`0284`; `UNIT-0002` annotation. The local repair is not a permanent training solution, mandatory smile rule or institutional procedure. |
+
+| ID | State | Evidence and limit |
+| --- | --- | --- |
+| `THREAD-0047` | `OPEN`: Xiao still wants strong-hearted idol practice and not to burden peers. Sumire's appropriately scaled counsel and reward supply one alternative to punitive refusal; Xiao receives it in this moment. | A:P40–48; B:P38–47. No durable training regimen, resolved fear or proof of what her master intended. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0316` | `TESTS_CRITERION` | The pleasure of Kazumi's book in `EV-B0105-001` → Xiao's verdict that enjoyable reading cannot count as hard mental training; the inference is hers. |
+| `EDGE-0317` | `REPEATS_TEST` | The donut refusal in `EV-B0105-002` repeats the difficulty-as-growth premise of `EV-B0105-001`; Murasaki's practical counter-need produces eating, not a measured failure of idol capacity. |
+| `EDGE-0318` | `NARROW_SUCCESS_WITH_COST` | The Player's unknowing consumption in `EV-B0105-003` satisfies Xiao's don't-eat-that-puff rule while generating distress; narrow success does not settle the larger growth goal. |
+| `EDGE-0319` | `RECLASSIFIES_GIFT` | Sumire's `EV-B0105-004` reward answers the loss in `EV-B0105-003` with a separate, consented dessert. Xiao can accept care within her training vocabulary without a completed transformation. |
+
+`T7S_B0105_CLOSE-20260925`: four chapter events, one open training/care thread and four chapter-local conceptual/causal edges; no new world state or cross-chapter chronology edge.

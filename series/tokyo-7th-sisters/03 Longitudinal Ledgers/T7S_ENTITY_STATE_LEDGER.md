@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.5"
+version: "11.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 50 complete i-n-g primary documents / T7S_B0080–T7S_B0104; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 52 complete i-n-g primary documents / T7S_B0080–T7S_B0105; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -20,13 +20,13 @@ last_updated: 2026-09-25
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first twenty complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 26 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`identity_routes = 93`; `character_states = 75`; `epistemic_states = 129`; `directional_relationship_states = 276`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0104, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 133`; `directional_relationship_states = 284`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0105, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1715,3 +1715,44 @@ The [B0104](../02%20Readings/T7S_B0104_DEEP_READING.md) A/B key, witness `T7S_GA
 The previously committed B0102 actor-local Musubi row used `CHAR-0005` in error. This closeout corrects that row's ID alone to `CHAR-0006`, the existing Musubi state. `CHAR-0005` remains Haru's younger brother. The B0102 row's description, evidence, event/claim IDs and analysis are otherwise unchanged; no new record or reinterpretation is introduced. All other earlier ledger bodies remain byte-preserved.
 
 `T7S_B0104_CLOSE-20260925`: four actor-local knowledge states, two directional relationship pairs and bounded annotations to existing characters/unit; no new identity, character, unit, readiness or monograph record.
+
+## B0105 Xiao identity, training and relational care
+
+The [B0105](../02%20Readings/T7S_B0105_DEEP_READING.md) A/B key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.7, binds the chapter-local additions. The literal speaker label `シャオ・ヘイフォン` is retained separately from the ASCII local token. The B0038 reading had described Xiao as one of seven performers but did not instantiate a stable identity or character record; this chapter does. Existing Kazumi `CHAR-0035`, Murasaki `CHAR-0074`, Sumire `CHAR-0013`, Player `CHAR-0001`, Coney `CHAR-0003` and Nanasta `UNIT-0002` suffice.
+
+| ID / local subject | Literal source identity and bounded route | Confidence, evidence, and unresolved obligation |
+| --- | --- | --- |
+| `IDENTITY-0094` / `xiao-heifeng` | Literal label `シャオ・ヘイフォン`; self-reference `シャオ` and `わたし`. She is the Nanasta idol who names the three mental-training exercises in this chapter. | High for B0105 document-local identity, A:P0–48; B:P1–46; `EV-B0105-001`–`004`. Machine identity remains unresolved; the local ASCII token is not an external Romanization adjudication, and costume or trial does not create another subject. |
+
+| ID / local subject | Bounded character state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0076` / `xiao-heifeng` | **B0105 local state:** wants to become a strong, competent idol without burdening companions; repeatedly equates mental growth with difficult refusal, then receives Sumire's made-for-her reward after a narrow success leaves her crying. | A:P0–48; B:P1–46; `EV-B0105-001`–`004`; `THREAD-0047`. B0038 supplies separately bounded master/mental-training context, not a prescription for these specific food trials. No cure, diagnosis, actual full-day fast or lasting performance change is established. |
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0035` / Kazumi | Offers a substantial childhood picture book and later calls fit friendship preferable to irrational trials. | A:P1–17; B:P6–16,47. Her suited-to-the-reader language may sound condescending; no perfect pedagogical authority follows. |
+| `CHAR-0074` / Murasaki | Reports late shop help and missed breakfast, refuses sweet food, urges Xiao to eat before lesson, warns the Player not to touch the guarded puff and comforts Xiao. | A:P23–38; B:P7–30. Her B0102 work strain is independently attested but not proven resolved or temporally ordered by this case. |
+| `CHAR-0013` / Sumire | Advises ordinary graduated training, prepares an anticipated cream-puff reward and gives Xiao permission to eat it. | A:P42–48; B:P9–12,38–46. Her idol-smile injunction is attributed advice, not universal norm; one gift does not establish a permanent support plan. |
+| `CHAR-0001` / Player | Mistakes the puff for a gift, ignores Murasaki's warning, eats it and is blamed when Xiao cries. | B:P15–36,49–50. No intent to sabotage Xiao or knowledge of the full trial is shown. |
+| `CHAR-0003` / Coney | Scolds the Player on seeing Xiao cry, before the group settles into Sumire's reward scene. | B:P32–36,49. This is a comic local response, not a formal disciplinary process. |
+| `UNIT-0002` / Nanasta | Peers notice Xiao's increasingly taxing trials and delay entry to dance lesson; several offer distinct care, while the Player misreads a shared-space food object. | A:P40–48; B:P6–51. No food, training, scheduling or emotional-safeguarding policy is established. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0130` | Xiao knows she enjoyed Kazumi's picture book, but believes enjoyment defeats the difficulty she seeks as mental training. | A:P0–20. The first part is witnessed self-report; the disqualification is her rule, not a measured failure. |
+| `KNOW-0131` | Xiao knows Murasaki skipped breakfast and wants to avoid burdening companions; Sumire learns the latter is tied to Xiao's wish for rapid strength. | A:P23–48. Murasaki's exact nutritional state and the group's true judgment of Xiao's capacity are not known. |
+| `KNOW-0132` | Xiao knows the guarded puff has been eaten and declares the narrow abstinence condition met while feeling hurt. The Player believed it was a gift despite Murasaki's warning. | B:P15–37. Neither a full day of abstinence nor deliberate Player malice is established. |
+| `KNOW-0133` | Xiao learns Sumire made a separate puff for her and accepts Sumire's framing of it as a reward rather than a failed test. | B:P38–46. No proof the original strength belief or fear of burdening others is durably revised. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0277` | Kazumi → Xiao, **suited-book offer** | Recommends her favored picture book after Xiao struggles and defends its seriousness. A:P3–17. Reciprocal `REL-0278`; no deliberate trap is shown. |
+| `REL-0278` | Xiao → Kazumi, **trust then self-judgment** | Welcomes the recommendation, delights in it and calls enjoyable reading failed training. A:P8–20. Reciprocal `REL-0277`; no final rejection of Kazumi or the book. |
+| `REL-0279` | Xiao → Murasaki, **material concern** | Offers a donut when she hears Murasaki missed breakfast. A:P23–30. Reciprocal `REL-0280`; the offer is also Xiao's refusal exercise and misfits Murasaki's tastes. |
+| `REL-0280` | Murasaki → Xiao, **practical countercare** | Urges Xiao to eat before rehearsal, feeds her a bite and later warns the Player and comforts her. A:P29–38; B:P19–30. Reciprocal `REL-0279`; no durable care arrangement. |
+| `REL-0281` | Sumire → Xiao, **graduated counsel and anticipatory gift** | Suggests ordinary steps and makes a reward puff because she expected Xiao's preoccupation. A:P42–48; B:P38–46. Reciprocal `REL-0282`; smiling is not compulsory proof of recovery. |
+| `REL-0282` | Xiao → Sumire, **received care** | Initially resists easy training, then asks permission to accept the gift, thanks Sumire and smiles through tears. A:P43–47; B:P39–46. Reciprocal `REL-0281`; no total conversion. |
+| `REL-0283` | Player → Xiao, **unwitting trial disruption** | Eats the guarded puff despite warning, then takes comic responsibility. B:P15–36,49–50. Reciprocal `REL-0284`; no intentional cruelty shown. |
+| `REL-0284` | Xiao → Player, **loss and hurt** | Cries over the consumed dessert even as she claims trial success. B:P22–29,37. Reciprocal `REL-0283`; no personal enmity or formal complaint established. |
+
+`T7S_B0105_CLOSE-20260925`: one stable identity route, one character state, four actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations. No readiness decision, monograph or specialist promotion.

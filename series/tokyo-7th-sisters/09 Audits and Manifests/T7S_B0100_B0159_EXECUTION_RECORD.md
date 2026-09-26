@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.4"
+version: "1.5"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0104`.
-- Completed run blocks: **5/60**; completed run episodes: **10/174**.
-- Next: `T7S_B0105`, chapter `300770`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0105`.
+- Completed run blocks: **6/60**; completed run episodes: **12/174**.
+- Next: `T7S_B0106`, chapter `300780`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -41,7 +41,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0102` | `300740` | 越前ムラサキ | グッドナイト・パープル | `202003301 / 202003302` | CLOSED |
 | `T7S_B0103` | `300750` | 玉坂マコト | ナイトメア・オン・セブンスストリート | `202003401 / 202003402` | CLOSED |
 | `T7S_B0104` | `300760` | 桂木カヅミ | マイ・ノート、マイ・ラブ | `202003501 / 202003502` | CLOSED |
-| `T7S_B0105` | `300770` | シャオ・ヘイフォン | シャオ・ハイ・ヌーン | `202003601 / 202003602` | AUTHORIZED_UNREAD |
+| `T7S_B0105` | `300770` | シャオ・ヘイフォン | シャオ・ハイ・ヌーン | `202003601 / 202003602` | CLOSED |
 | `T7S_B0106` | `300780` | 春日部ハル | Tokyo-7th お掃除大作戦！ | `312200101 / 312200102 / 312200103` | AUTHORIZED_UNREAD |
 | `T7S_B0107` | `300790` | 天堂寺ムスビ | ワン・ステップ・フォワード | `312200201 / 312200202 / 312200203` | AUTHORIZED_UNREAD |
 | `T7S_B0108` | `300800` | 角森ロナ | ウィッシュ・ユー・アー・ヒア | `312200301 / 312200302 / 312200303` | AUTHORIZED_UNREAD |
@@ -126,3 +126,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0104 closeout receipt
 
 [T7S_B0104](../02%20Readings/T7S_B0104_DEEP_READING.md): Rona and Musubi read Kazumi’s misplaced novel without consent, then receive an authored, limited opening: Kazumi may continue the story and joins a meal conversation about idol work, while the original privacy breach remains. All 111 pages, 103 text records and 8 command-only pages are reviewed; 5 exact static composites were inspected. Source-lock 12.6 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 87 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries, except the documented B0102 Musubi stable-ID correction CHAR-0005 → CHAR-0006 in the entity ledger. Coverage moves 2 records while preserving the other 1588 effective records. Current run: 5/60 blocks, 10/174 episodes; publication remains pending.
+
+## B0105 closeout receipt
+
+[T7S_B0105](../02%20Readings/T7S_B0105_DEEP_READING.md): Xiao treats difficult refusal as mental strength; an accessible book, an eaten donut and the Player’s unknowing removal of her guarded cream puff reveal the cost, while Sumire’s prepared reward makes receiving care compatible with effort. All 103 pages, 97 text records and 6 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.7 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 87 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 2 records while preserving the other 1588 effective records. Current run: 6/60 blocks, 12/174 episodes; publication remains pending.
