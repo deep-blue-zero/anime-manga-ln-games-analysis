@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.10"
+version: "11.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 64 complete i-n-g primary documents / T7S_B0080–T7S_B0109; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 67 complete i-n-g primary documents / T7S_B0080–T7S_B0110; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 377`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 343`; `last_closed_block = T7S_B0109`. The admitted horizon contains 299 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 64 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 381`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 349`; `last_closed_block = T7S_B0110`. The admitted horizon contains 302 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 67 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1049,3 +1049,29 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.11. [B0109](../02%20Readings/
 | `EDGE-0343` | `LOCAL_PRACTICE_NOT_POLICY` | The private pact in `EV-B0109-004` → joint shop help in `EV-B0109-005`, while Hime's return to work prevents a durable burden-sharing conclusion. |
 
 `T7S_B0109_CLOSE-20260926`: five chapter events, six bounded edges including one explicit B0005 anchor; existing `THREAD-0007` advanced without new thread, world state, diagnosis or total i-n-g chronology.
+
+## B0110 Momoka documentary portrait and production boundary addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.12. [B0110](../02%20Readings/T7S_B0110_DEEP_READING.md) owns the A/B/C locator key. B0006 supplies prior Momoka selective-interest context, not an asserted adjacency or a total i-n-g chronology. The in-story program narrator is a claim-making voice, not omniscient authority.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0110-001` | `情熱列島` films Momoka at Nanasta. Musubi urges her to attend a 777☆SISTERS lesson, learns the camera was running and asks that the exchange not be filmed. Momoka then describes anime, games and invented occupational labels while the narrator frames free behavior as idol appeal. | A:P2–48; `KNOW-0153`–`0154`; `REL-0315`–`0316`; `THREAD-0009`. Voice acting is unperformed; `キング・モモカ` is a suggestion, not a used handle. No contract or response to Musubi's immediate request is shown. |
+| `EV-B0110-002` | Sumire, Haru, Kajika and Musubi describe Momoka's lateness, sofa use, influence and welcome freedom; the narrator blends mixed testimony into a positive influence claim. Days later Momoka concentrates on an anime, not secret idol preparation. | A:P49–58; B:P1–7; `KNOW-0153`–`0155`; `REL-0315`–`0322`. Peer affection and scheduling cost coexist; selective interest is not incapacity. |
+| `EV-B0110-003` | Momoka misses a full-group rehearsal to find limited `チューバックス`. The group cannot check her dance part, she apologizes and offers snacks, then asks to delay again. Musubi calls for work to start. Afterward peers acknowledge both trouble and a comforting stable presence, which the narrator recasts as natural indispensability. | B:P9–46; `KNOW-0155`; `REL-0315`–`0322`; `THREAD-0009`. Later warmth does not restore lost rehearsal time or reveal Momoka's unspoken interior. |
+| `EV-B0110-004` | The program reports a later successful stream and dance; fans send snacks. At broadcast viewing, Player and Sumire note narratorial/editing beautification, Musubi says the segment she asked not to show was aired, and Rona is moved by the portrait. Momoka sleeps after overnight anime watching; the Player says this would not be shown to home viewers. | C:P1–27; `KNOW-0156`–`0157`; `REL-0315`–`0322`; `THREAD-0009`. Actual full performance, raw edit, consent terms and any remedy are not available. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0009` | Momoka's selective interest, real performance capability and recurring-work burden remain `OPEN`. B0110 shows intense anime viewing, snack-motivated lateness that delays group rehearsal, genuine later effort and a reported successful live. An edited documentary turns her natural manner into a fixed public promise while a peer's filming objection is ignored. Neither the good outcome nor screen appeal settles her sustained work choice or institutional production consent. A:P2–58; B:P1–46; C:P1–27. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0344` | `CAMERA_CHANGES_PEER_BOUNDARY` | Camera awareness in `EV-B0110-001` → Musubi's specific do-not-film request; later screening is a distinct noncompliant event, not retroactive assent. |
+| `EDGE-0345` | `SELECTIVE_ATTENTION` | Momoka's anime/game talk in `EV-B0110-001` and concentrated viewing in `EV-B0110-002` → evidence of focused preference, not a proven voice-acting job or generalized work capacity. |
+| `EDGE-0346` | `PREFERENCE_HAS_GROUP_COST` | Limited-snack pursuit in `EV-B0110-003` → late arrival and blocked dance-part check. A later good live cannot erase this local preparation cost. |
+| `EDGE-0347` | `AFFECTION_QUALIFIES_CONFLICT` | Peers' comments after `EV-B0110-003` → genuine appreciation alongside the complaint; positive testimony does not make the delay harmless. |
+| `EDGE-0348` | `EDITING_SHAPES_INFERENCE` | Mixed scenes and peer testimony in `EV-B0110-001`–`003` → polished narration and Rona's moved reading in `EV-B0110-004`. The program's fixed-smile forecast exceeds shown future evidence. |
+| `EDGE-0349` | `BOUNDARY_BREACH_CONFIRMED` | Musubi's A:P21 objection in `EV-B0110-001` → her C:P13 statement in `EV-B0110-004` that the unwanted segment aired. The full contract and remedy remain unknown. |
+
+`T7S_B0110_CLOSE-20260926`: four chapter events, six bounded edges; existing `THREAD-0009` advanced without new thread, world state, audited stream footage or total i-n-g chronology.

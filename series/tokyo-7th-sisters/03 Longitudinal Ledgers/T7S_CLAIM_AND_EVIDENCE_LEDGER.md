@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.10"
+version: "11.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 64 complete i-n-g primary documents / T7S_B0080–T7S_B0109; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 67 complete i-n-g primary documents / T7S_B0080–T7S_B0110; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 527`; `revisions = 42`; `predictions = 7`; `AV_reviews = 56`; `literary_findings = 527`. Claims are bounded to their stated B0001 through B0109 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 30 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 531`; `revisions = 42`; `predictions = 7`; `AV_reviews = 57`; `literary_findings = 531`. Claims are bounded to their stated B0001 through B0110 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 31 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1389,3 +1389,26 @@ Owner and A/B/C locator key: [B0109](../02%20Readings/T7S_B0109_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred thirty-three dialogue-associated voice pages plus title cues, BGM/SFX remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0109_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, diagnosis, specialist or monograph promotion.
+
+## B0110 Momoka production image, work and consent
+
+Owner and A/B/C locator key: [B0110](../02%20Readings/T7S_B0110_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.12. B0006 is contextual prior evidence, not a chapter-menu total order.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0110-001` | `BOUNDED_INFERENCE`; D1; high | The documentary makes an appealing but over-complete natural-idol image from Momoka's authentic play and mixed peer testimony; the narrator's future-smile forecast exceeds shown evidence. | A:P2–58; B:P1–46; C:P1–25; `KNOW-0153`. Neither total fabrication nor neutral omniscience follows. |
+| `CL-B0110-002` | `BOUNDED_INFERENCE`; D1; high | Momoka's snack-search lateness has a real group rehearsal cost while her later effort and reported successful live remain real within the narrated evidence. | B:P9–45; C:P1–6; `THREAD-0009`. Good outcome does not erase lost preparation or prove unsustainable incapacity. |
+| `CL-B0110-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for objection/airing, moderate for governance | Musubi asks not to film an embarrassing peer-correction moment and later says it aired; the positive broadcast and Player's entertainment framing do not answer the non-subject member's production boundary. | A:P18–22; C:P10–19; `KNOW-0157`. Full agreements and remedy are unavailable; no claim every camera shot was unauthorized. |
+| `CL-B0110-004` | `BOUNDED_INFERENCE`; D1; moderate-high | The group's sincere affection and Rona's moved response can be effects of an edited yet partly authentic portrait; sleeping Momoka and the rehearsal cost remain within the same person rather than discrediting all praise. | B:P38–45; C:P10–27; `REL-0317`–`0322`. No inner-state omniscience, completed footage audit or durable labor conversion. |
+
+### AV-0057 — static interview, rehearsal and broadcast framing
+
+- Questions/claims: whether selected stills prove a full television edit, performed stream quality, voice-acting work, camera consent, or an unchanging smile; `CL-B0110-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for narrator, peer and consent knowledge claims.
+- Selection: Momoka `adv_chara_007_01_01`, `adv_chara_007_02_06`, `adv_chara_007_02_04`; Musubi `adv_chara_004_01_06`; Haru `adv_chara_003_02_03`; Rona `adv_chara_005_01_04`. All 134 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.12 binds six media receipts.
+- Observed: Momoka's selected pink-accented ordinary outfit remains continuous across differing expressions; Musubi, Haru and Rona appear as distinct peers. Expressions and static costume cannot establish actual broadcast cut order, inner states or dance quality.
+- Native occurrence: command-only A:P0–1,6,24,48,58; B:P0,8,15,37,46; C:P0,9,26–27. Slide/fade states separate interviews, rehearsal and viewing; C:P0's live-associated background precedes the later office view, with no continuous act shown. Textual complaint and commentary, not a raw video file, establish the local edit claim.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Eighty-five dialogue-associated voice pages plus title cues, BGM/SFX and any reported performed live remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0110_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, performed-media verdict, specialist or monograph promotion.

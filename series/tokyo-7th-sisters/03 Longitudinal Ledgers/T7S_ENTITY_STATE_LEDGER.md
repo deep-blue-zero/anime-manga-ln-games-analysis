@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.10"
+version: "11.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 64 complete i-n-g primary documents / T7S_B0080–T7S_B0109; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 67 complete i-n-g primary documents / T7S_B0080–T7S_B0110; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 152`; `directional_relationship_states = 314`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0109, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 157`; `directional_relationship_states = 322`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0110, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1894,3 +1894,38 @@ The [B0109](../02%20Readings/T7S_B0109_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0314` | Sui → Rona, **reciprocal envy and shared care** | Says she envied Rona's real-younger-sister treatment, hears Rona's admission and proposes mutual care for Hime. C:P47–56,63–71. Reciprocal `REL-0313`; Hime has not been told their pact. |
 
 `T7S_B0109_CLOSE-20260926`: five actor-local knowledge states, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
+
+## B0110 Momoka screen persona and knowledge of the edit
+
+The [B0110](../02%20Readings/T7S_B0110_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.12, binds these updates. Existing Momoka `IDENTITY-0015`/`CHAR-0012`, Musubi `CHAR-0006`, Haru `CHAR-0004`, Sumire `CHAR-0013`, Rona `CHAR-0008`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. The program narrator/camera team and fans receive no invented personal identities.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0012` / Momoka | Jokes about easy earnings, insists anime/games help sustain idol work, concentrates on viewing, misses rehearsal seeking snacks, later works hard in a stream reported successful and sleeps after overnight anime. | A:P4–47; B:P1–45; C:P1–25. Neither unearned voice-acting label nor unused game handle is a career fact; screen smile is not a future invariant. |
+| `CHAR-0006` / Musubi | Presses Momoka to attend shared lessons, asks camera not to show a scolding moment, protests full-group rehearsal lateness and later says the unwanted segment aired. She also says Momoka's trouble seldom fractures relations. | A:P10–22,54–55; B:P10–39; C:P3,13. Her objection is specific; no full production agreement or remedy is shown. |
+| `CHAR-0004` / Haru | Reports Momoka's extreme lateness and appealing freedom, suggests waiting for her at rehearsal, later values the absence of a suffering face, gives her fan-sent snacks and says sleeping Momoka is ordinary too. | A:P51–53; B:P13,32,43–44; C:P4,20–24. Care is sincere but cannot establish Momoka never suffers or excuse the lost practice. |
+| `CHAR-0013` / Sumire | Wants less lateness, starts rehearsal without Momoka if needed, describes the naturalness she envies and later names the broadcast as beautifying editing. | A:P50; B:P11,25,41–42; C:P18. Admiration and burden awareness coexist. |
+| `CHAR-0008` / Rona | Notes the missing dance part at rehearsal, later says Momoka maintains a familiar group atmosphere and is moved by the aired portrayal of her care. | B:P12,24,40; C:P17. Emotional response does not grant access to Momoka's unspoken intent or raw footage. |
+| `CHAR-0001` / Player | Redirects an anime digression, comments on narrator power at broadcast and says sleeping Momoka would not be shown to viewers. | A:P33; C:P11–12,19,23. Entertainment framing does not answer Musubi's complaint or establish a consent safeguard. |
+| `UNIT-0002` / Nanasta | Receives documentary exposure, experiences a delayed full-group rehearsal, reports a later successful stream and receives a fan snack gift; a non-subject member's unwanted footage is aired. | A:P2–58; B:P9–46; C:P1–27. No verified consent review, edit approval, correction process, durable attendance plan or measured audience response. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0153` | The program narrator repeatedly interprets Momoka as naturally free and permanently smiling, while the on-page scenes show countervailing rehearsal cost and private sleep. | A:P2–58; B:P1–46; C:P1–8. Voiceover is an in-story production claim, not omniscient future knowledge. |
+| `KNOW-0154` | Momoka says anime/games help her continue and proposes voice actor/`キング・モモカ` labels, while acknowledging no voice-acting work. She knows the camera is running before Musubi does. | A:P7–47. Proposed labels do not establish credits, alias use or Momoka's full consent to broadcast every shot. |
+| `KNOW-0155` | The group knows Momoka is missing from a needed dance-part check and learns her snack-search reason. Peers report both trouble and relational ease. | B:P9–45. Their testimony does not recover time or prove she has no unshown distress. |
+| `KNOW-0156` | The program reports a successful later stream and dance, and a fan snack gift is shown; none of the present evidence supplies the full performed act. | C:P1–8. Technical quality, audience size and complete production edit remain unreviewed. |
+| `KNOW-0157` | After broadcast Musubi says her unwanted moment aired; Player/Sumire recognize framing, Rona emotionally interprets the portrait, and Haru reports Momoka's overnight anime before office sleep. | C:P10–25. The raw footage, agreement, remedy and Momoka's unspoken feelings remain unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0315` | Momoka → Musubi, **resistance then partial compliance** | Dodges lesson, reveals camera has been running, arrives late to group rehearsal, apologizes and then prepares when pressed. A:P10–22; B:P16–35. Reciprocal `REL-0316`; none of this authorizes broadcasting Musubi's objection. |
+| `REL-0316` | Musubi → Momoka, **scheduling correction and qualified affection** | Insists on shared lesson and timely full-group rehearsal, later says Momoka causes trouble without usually breaking relations. A:P10–22; B:P19–39. Reciprocal `REL-0315`; camera complaint is against production use, not proof she rejects Momoka. |
+| `REL-0317` | Momoka → Haru, **shared work and fan reception** | Arrives late, later takes part in a stream reported successful and receives fan snacks Haru passes on. B:P16–35; C:P1–6. Reciprocal `REL-0318`; performed quality and full audience response are not audited. |
+| `REL-0318` | Haru → Momoka, **patient regard with idealization risk** | Waits briefly, says Momoka's ease helps peers and that she never shows pain, gives fan-sent snacks and recognizes sleeping as ordinary too. A:P51–53; B:P13,43–44; C:P4,20–24. Reciprocal `REL-0317`; visible expression cannot certify inner absence of suffering. |
+| `REL-0319` | Momoka → Sumire, **present-interest disruption** | Delays a shared lesson after a snack search and later offers the unusual flavor; Sumire voices both frustration and admiration. B:P16–42. Reciprocal `REL-0320`; later success does not repay time automatically. |
+| `REL-0320` | Sumire → Momoka, **critique and envy** | Wants less lateness, sees Momoka's natural self-expression as enviable and calls the final edit beautifying. A:P50; B:P11,41–42; C:P18. Reciprocal `REL-0319`; critique is not hostility. |
+| `REL-0321` | Momoka → Rona, **unspoken group effect** | Her late arrival blocks Rona's dance-part check, while Rona later attributes familiar group atmosphere to her. B:P12,16–40. Reciprocal `REL-0322`; Momoka does not state the edited program's altruistic interpretation herself. |
+| `REL-0322` | Rona → Momoka, **concern and edited-image reception** | Worried about the absent part, praises Momoka's stabilizing presence and feels moved by the broadcast. B:P12,40; C:P17. Reciprocal `REL-0321`; emotional reading is not direct access to Momoka's mind. |
+
+`T7S_B0110_CLOSE-20260926`: five actor-local knowledge states, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, readiness or monograph record.
