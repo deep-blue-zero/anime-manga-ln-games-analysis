@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.30"
+version: "11.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 124 complete i-n-g primary documents / T7S_B0080–T7S_B0129; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 127 complete i-n-g primary documents / T7S_B0080–T7S_B0130; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 607`; `revisions = 42`; `predictions = 7`; `AV_reviews = 76`; `literary_findings = 607`. Claims are bounded to their stated B0001 through B0129 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 50 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 612`; `revisions = 42`; `predictions = 7`; `AV_reviews = 77`; `literary_findings = 612`. Claims are bounded to their stated B0001 through B0130 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 51 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1849,3 +1849,27 @@ Owner and A/B/C locator key: [B0129](../02%20Readings/T7S_B0129_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static composites and all native page-state segmentation. One hundred four dialogue-associated voice pages plus title cues, BGM/SFX, continuous show and Coney's reported recording remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0129_CLOSE-20260926`: four bounded claims and one AV review; no literal-magic, media-rights, child-belief durability, official-show, specialist or monograph promotion.
+
+## B0130 family-role comedy, heat preparation and child-stage limits
+
+Owner and A/B/C locator key: [B0130](../02%20Readings/T7S_B0130_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.32. B0129's Mikola and this chapter's Magiko are differently titled; menu adjacency is not total chronology or a common production.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0130-001` | `BOUNDED_INFERENCE`; D1; high for limit | Momoka's public “Papa” joke and Manon's pleased uptake make a provisional outing role; the later sleeping “Papa” wish has no fixed referent and cannot create a father/guardian identity route. | A:P35–45,69–89; C:P41–45. No waking clarification or legal relationship. |
+| `CL-B0130-002` | `BOUNDED_INFERENCE`; D1; high | The long sunny queue exposes the Player's forgotten-drink lapse and prompts a withdrawal threshold; Coney's bag supports continuing but does not document measured heat safety or an institutional protocol. | B:P11–57. No injury or clinical clearance evidenced. |
+| `CL-B0130-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Momoka's calculated child-line use and pranks coexist with concrete care in sharing drink and escorting Manon; a single virtue or vice label flattens the episode. | A:P35–89; B:P1–31,60–70; C:P1–12. No generalized guardianship competence. |
+| `CL-B0130-004` | `BOUNDED_INFERENCE`; D1; high for limit | Coney's host/selection surprise leads to a staged hostage-rescue that leaves Manon delighted, but prior child/escort assent is not shown; happy aftermath is not a release or a harm diagnosis. | C:P13–40. Continuous staging and permissions unreviewed. |
+| `CL-B0130-005` | `BOUNDED_INFERENCE`; D1; high for limit | B0130 names Magiko, distinct from B0129's Mikola; shared magical-girl imagery cannot prove a sequel, the requested B0129 official show or a total fictional ordering. | B0129 A:P0–15; B0130 A:P17–25, C:P19–23. Native menu adjacency is routing only. |
+
+### AV-0077 — mall trip sprites and unreviewed live show
+
+- Questions/claims: whether selected stills prove family status, heat severity, child-stage assent, full show content, sleep-talk referent or Magiko/Mikola identity; `CL-B0130-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for safety, stage consent, full performance and family-identity restrictions.
+- Selection: Manon `adv_chara_132_01_01`, `132_01_03`, `132_01_04`; Momoka `007_02_03`, `007_02_05`; Coney `002_05_03`, `002_03_11`. All 208 native pages and twenty-seven command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.32 binds seven media receipts.
+- Observed: expression/attire variants for the two attendees and Coney's host-like presentation. No full mall crowd, medical measurement, Magiko action, custody record or consent exchange appears in these selected composites.
+- Native occurrence: command-only A:P0–1,13,47,54–55,67–68,89; B:P0,9–10,32–33,41,44–46,53,58–59,68,71; C:P0,12,26,44–45. Cuts separate mall frame, setup, queue, kit recollection, restroom and show aftermath; one-shot/stop-flag sound states do not supply performed-audio evidence.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred six dialogue-associated voice pages plus title cues, BGM/SFX and the continuous mall character show remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0130_CLOSE-20260926`: five bounded claims and one AV review; no father/guardian, heat injury/clearance, prior stage consent, cross-anime sequel, specialist or monograph promotion.

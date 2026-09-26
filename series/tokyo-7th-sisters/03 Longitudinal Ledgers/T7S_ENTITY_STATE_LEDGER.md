@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.30"
+version: "11.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 124 complete i-n-g primary documents / T7S_B0080–T7S_B0129; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 127 complete i-n-g primary documents / T7S_B0080–T7S_B0130; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 255`; `directional_relationship_states = 460`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0129, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 262`; `directional_relationship_states = 468`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0130, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2587,3 +2587,38 @@ The [B0129](../02%20Readings/T7S_B0129_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0460` | Ei → Saori, **accepted task and surprised question** | Accepts the show for Manon, acts with Saori, then asks in shock whether she was filmed. A:P41–45; C:P17–72. Reciprocal `REL-0459`; filming consent unestablished. |
 
 `T7S_B0129_CLOSE-20260926`: six actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no extra anime-character identity, official-show agreement or recording release.
+
+## B0130 Manon's outing and actor-specific care knowledge
+
+The [B0130](../02%20Readings/T7S_B0130_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.32, binds these updates. Existing Manon `IDENTITY-0068`/`CHAR-0053`, Momoka `IDENTITY-0015`/`CHAR-0012`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. “Papa” is not a new identity route; Magiko is a fictional show character, not Mikola from B0129.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0053` / Manon | Requests a Magiko outing, joins Momoka's playful “Papa” address, waits in heat, accepts drink/restroom help, delights in the show and later murmurs a wish to go out with “Papa” again. | A:P14–89; B:P1–70; C:P1–45. No father referent, legal relationship, heat injury or advance stage assent inferred. |
+| `CHAR-0012` / Momoka | Volunteers, uses Manon's child queue access and family joke, reluctantly shares juice, escorts her to the restroom, delays return to tease Player and is visibly absorbed by the show. | A:P30–89; B:P1–70; C:P1–40. Specific help coexists with self-interest/prank; no general guardian reliability finding. |
+| `CHAR-0003` / Coney | Offers time off, gives the group a prepacked cooling/drink bag and unexpectedly hosts the Magiko show, reportedly directing the staged selection of Manon. | A:P14–46; B:P41–57; C:P13–40. Host arrangement, kit adequacy, production/child assent and full show unverified. |
+| `CHAR-0001` / Player | Agrees to accompany Manon, worries about public misreading, forgets drinks, recognizes heat risk, uses Coney's kit, relies on Momoka's restroom help and is startled by the stage capture. | A:P14–89; B:P1–70; C:P1–45. No formal parental role, medical safety audit or advance stage authorization shown. |
+| `UNIT-0002` / Nanasta | Coney makes schedule space and provides supplies for a child member's leisure trip; three members/staff share an improvised escort arrangement. | A:P14–46; B:P41–57; C:P13–40. No documented child safety, public-venue, stage participation or kinship policy. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0256` | Manon knows a flyer advertises Magiko at the mall; Player initially mistakes Magiko for a friend; Coney/Momoka learn of the outing and support it. | A:P14–46. Not B0129's Mikola show or a sequel premise. |
+| `KNOW-0257` | Momoka knows she is play-acting “Papa” for bystanders; Manon repeats it and says the trip makes her happy, while Player rejects a literal family reading. | A:P69–89. Strangers' guesses do not identify a parent. |
+| `KNOW-0258` | Momoka expects a short child line, then all see crowd/sun; Player recognizes forgotten drinks and says continued unsupported waiting is risky. | B:P1–40. No medical readings, diagnosis or exact wait duration. |
+| `KNOW-0259` | Player/Momoka/Manon discover Coney's supplies only at the queue crisis and decide they can continue. | B:P41–57. Kit contents seen/described; sufficient individual intake and clinical safety unverified. |
+| `KNOW-0260` | Momoka/Manon know their restroom route; Player does not know why they are late and considers escalation, then learns Momoka delayed to watch him. | B:P60–70; C:P1–12. No actual disappearance or formal incident. |
+| `KNOW-0261` | Player recognizes Coney as host only at the show; later Coney recounts rescue, while Player says she steered the villain toward Manon and he worried. | C:P13–40. Prior child/escort assent and full staging plan unshown. |
+| `KNOW-0262` | Manon sleep-talks “Papa” and wanting another outing; Player hears but does not get a waking explanation. | C:P41–45; A:P74–88. Referent remains ambiguous despite earlier joke. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0461` | Player → Manon, **affectionate but fallible escort** | Agrees to trip, helps with food, shares/obtains drinks and worries during stage capture. A:P25–88; B:P20–57; C:P13–40. Reciprocal `REL-0462`; no paternal/legal role. |
+| `REL-0462` | Manon → Player, **invitation, play label and open dream wish** | Asks him to accompany her, joins “Papa” joke and later sleep-talks a wish. A:P17–88; C:P41–45. Reciprocal `REL-0461`; sleeping referent unconfirmed. |
+| `REL-0463` | Momoka → Manon, **mixed tactical and concrete peer care** | Uses child line, shares juice, escorts her to restroom and cheers the show. A:P35–46; B:P1–70; C:P13–40. Reciprocal `REL-0464`; no standing guardian role. |
+| `REL-0464` | Manon → Momoka, **welcome to companionship and assistance** | Welcomes her to trip, accepts drink/restroom help and shares show excitement. A:P35–46; B:P26–29,60–67; C:P13–40. Reciprocal `REL-0463`; no permanent sibling status. |
+| `REL-0465` | Coney → Player, **schedule and preparedness with surprise hosting** | Arranges time off, packs supplies, hosts show and reportedly directs Manon's stage role. A:P23–29; B:P41–57; C:P13–40. Reciprocal `REL-0466`; no advance briefing proven. |
+| `REL-0466` | Player → Coney, **gratitude followed by stage alarm** | Accepts schedule/kit help, praises supplies, then questions her unexpected hosting and worries at Manon's capture. A:P27–29; B:P47–57; C:P17–33. Reciprocal `REL-0465`; no full event negotiation shown. |
+| `REL-0467` | Momoka → Player, **public role prank and anxiety tease** | Calls him “Papa” for the audience and delays return after restroom to watch him worry. A:P74–85; C:P3–8. Reciprocal `REL-0468`; neither episode makes her a daughter. |
+| `REL-0468` | Player → Momoka, **embarrassed resistance and practical reliance** | Objects to public label, asks her to share drink and relies on her to escort Manon. A:P74–88; B:P20–31,60–70; C:P1–8. Reciprocal `REL-0467`; no formal care contract. |
+
+`T7S_B0130_CLOSE-20260926`: seven actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no parent, sibling, guardian, Magiko/Mikola equivalence or medical record.

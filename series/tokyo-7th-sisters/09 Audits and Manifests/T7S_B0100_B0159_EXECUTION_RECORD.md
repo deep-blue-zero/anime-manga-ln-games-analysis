@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.29"
+version: "1.30"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0129`.
-- Completed run blocks: **30/60**; completed run episodes: **84/174**.
-- Next: `T7S_B0130`, chapter `301020`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0130`.
+- Completed run blocks: **31/60**; completed run episodes: **87/174**.
+- Next: `T7S_B0131`, chapter `301030`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -66,7 +66,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0127` | `300990` | 逢原ミウ | ディア・マイ・フレンド | `312202201 / 312202202 / 312202203` | CLOSED |
 | `T7S_B0128` | `301000` | 雲巻モナカ | 学校へ行こう！ | `312202301 / 312202302 / 312202303` | CLOSED |
 | `T7S_B0129` | `301010` | 逝橋エイ | ショウ・アップで巫女魔法 | `312202401 / 312202402 / 312202403` | CLOSED |
-| `T7S_B0130` | `301020` | 星柿マノン | 魔法少女に会いに行こう！ | `312202501 / 312202502 / 312202503` | AUTHORIZED_UNREAD |
+| `T7S_B0130` | `301020` | 星柿マノン | 魔法少女に会いに行こう！ | `312202501 / 312202502 / 312202503` | CLOSED |
 | `T7S_B0131` | `301030` | 堺屋ユメノ | ユメノ・アムネシア | `312202601 / 312202602 / 312202603` | AUTHORIZED_UNREAD |
 | `T7S_B0132` | `301040` | 浅見ミワコ | ミワコ・ロック・フェスティバル | `312202701 / 312202702 / 312202703` | AUTHORIZED_UNREAD |
 | `T7S_B0133` | `301050` | ターシャ・ロマノフスキー | 迷走！憧れのジェーンシチナ | `312202801 / 312202802 / 312202803` | AUTHORIZED_UNREAD |
@@ -226,3 +226,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0129 closeout receipt
 
 [T7S_B0129](../02%20Readings/T7S_B0129_DEEP_READING.md): Ei reluctantly agrees to a one-day Mikola show for Manon, values the children's immediate joy but rejects recurring work; a reported company offer follows Coney's recording, which Ei learns about only afterward, leaving circulation, rights and consent unresolved. All 156 pages, 143 text records and 13 command-only pages are reviewed; 8 exact static composites were inspected. Source-lock 12.31 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 104 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 30/60 blocks, 84/174 episodes; publication remains pending.
+
+## B0130 closeout receipt
+
+[T7S_B0130](../02%20Readings/T7S_B0130_DEEP_READING.md): Manon, Momoka and Player reach a Magiko mall show after heat and supply trouble mitigated by Coney's bag; Momoka's practical care coexists with teasing, the staged rescue delights Manon without shown advance consent, and a later sleeping 'Papa' remains referentially open. All 208 pages, 181 text records and 27 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.32 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 106 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 31/60 blocks, 87/174 episodes; publication remains pending.

@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.30"
+version: "11.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 124 complete i-n-g primary documents / T7S_B0080–T7S_B0129; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 127 complete i-n-g primary documents / T7S_B0080–T7S_B0130; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 480`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 483`; `last_closed_block = T7S_B0129`. The admitted horizon contains 359 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 124 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 487`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 492`; `last_closed_block = T7S_B0130`. The admitted horizon contains 362 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 127 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1580,3 +1580,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.31. [B0129](../02%20Readings/
 | `EDGE-0490` | `COMPANY_REQUEST_WITH_NO_ACCEPTANCE` | New official-show proposal in `EV-B0129-006` changes the audience for Ei's work but does not override her stated limit or establish a contract. |
 
 `T7S_B0129_CLOSE-20260926`: six chapter events and nine bounded edges; no new world, thread, character identity, rights clearance, official show or total i-n-g chronology.
+
+## B0130 Manon's Magiko outing, queue risk and staged inclusion
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.32. [B0130](../02%20Readings/T7S_B0130_DEEP_READING.md) owns the A/B/C locator key. B0129's heroine is Mikola, whereas this chapter names Magiko; motif/menu adjacency does not establish sequel, common production or total chronology. A:P2–12 is a present mall frame followed by setup flashback and return.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0130-001` | Manon asks to attend a Magiko show; Coney offers schedule cover, Player agrees to accompany her, and Momoka volunteers. | A:P14–46; `KNOW-0256`. No parental/legal relation or formal care protocol shown. |
+| `EV-B0130-002` | Food-court outing becomes a public “Papa” joke initiated by Momoka; Manon joins and says she enjoys the three-person trip. | A:P48–89; `KNOW-0257`; `REL-0461`–`0462`, `0467`–`0468`. Passersby's family guesses are not kinship evidence. |
+| `EV-B0130-003` | Child-priority queue is crowded and partly exposed to sun; Player forgot drinks, Momoka shares hers, and he judges waiting further unsafe. | B:P1–40; `KNOW-0258`. No measured heat, symptoms, injury or general queue rule. |
+| `EV-B0130-004` | Coney's earlier bag yields frozen sports drink, cooling pack and glucose/salt supplies, allowing a continued wait. | B:P41–57; `KNOW-0259`; `REL-0465`–`0466`. Immediate mitigation, not medical clearance. |
+| `EV-B0130-005` | Momoka escorts Manon to the restroom, delays their return to tease Player, and the group reaches front row at audience turnover. | B:P60–70; C:P1–12; `KNOW-0260`; `REL-0463`–`0464`. Not an actual disappearance; care and prank coexist. |
+| `EV-B0130-006` | Coney hosts the show, later says Magiko rescues a front-row child; Player reports Coney steered a villain to take Manon, who afterward cries happily. | C:P13–40; `KNOW-0261`. Prior participation assent and complete stage performance unshown. |
+| `EV-B0130-007` | Sleeping Manon murmurs “Papa” and wishes to go out together again after the earlier public joke. | A:P74–88; C:P41–45; `KNOW-0262`. Referent not resolved; no new father or guardian identity. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0491` | `CHILD_REQUEST_TO_ACCOMPANIED_OUTING` | Manon's desire and concern about going alone in `EV-B0130-001` → Player/Momoka escort, with Coney arranging time off. |
+| `EDGE-0492` | `PUBLIC_GAZE_TO_PERFORMED_FAMILY_LABEL` | Passersby's guesses in `EV-B0130-002` → Momoka's exaggerated “Papa” routine and Manon's uptake, not literal kinship. |
+| `EDGE-0493` | `SHORTCUT_EXPECTATION_TO_HEAT_EXPOSURE` | Momoka's child-line strategy in `EV-B0130-003` meets unexpectedly long sunny wait; no universal child-access rule. |
+| `EDGE-0494` | `MISSING_DRINKS_TO_SHARED_SUPPLY` | Player's omission in `EV-B0130-003` → request for Momoka's juice to Manon, but the drink later runs out. |
+| `EDGE-0495` | `RECOGNIZED_RISK_TO_CONEY_KIT` | Player's decision not to keep waiting without support in `EV-B0130-003` → use of prepared cooling/drink supplies in `EV-B0130-004`; no clinical clearance. |
+| `EDGE-0496` | `HYDRATION_TO_RESTROOM_ASSISTANCE` | Drink in `EV-B0130-004` → Manon's restroom request and Momoka's accompaniment in `EV-B0130-005`; no generalized custody status. |
+| `EDGE-0497` | `ASSISTANCE_WITH_DELAYED_RETURN` | Momoka's real help in `EV-B0130-005` is followed by a teasing delay that worries Player; return is shown. |
+| `EDGE-0498` | `HOST_INTERVENTION_TO_SURPRISE_STAGE_ROLE` | Coney's host/selection role in `EV-B0130-006` produces Manon's staged capture/rescue and Player's worry, without prior assent evidence. |
+| `EDGE-0499` | `POST_SHOW_JOY_WITH_AMBIGUOUS_PAPA` | Manon's happy fatigue in `EV-B0130-006` precedes her sleeping wish in `EV-B0130-007`; neither joy nor prior joke fixes the referent. |
+
+`T7S_B0130_CLOSE-20260926`: seven chapter events and nine bounded edges; no new world, thread, guardian identity, heat-safety verdict, stage-consent record or cross-anime chronology.
