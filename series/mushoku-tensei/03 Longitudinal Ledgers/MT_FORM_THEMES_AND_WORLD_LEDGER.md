@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Accepted Japanese LN V01 observations only; locator map retained and byte-verified; local closure publication pending; no V02 evidence."
+source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
 ---
 
 # Form, themes, and world ledger
@@ -56,3 +56,26 @@ Witness `MT-LNJP-V01` only; evidence IDs resolve in the [V01 reading](../02%20Se
 | `MT-W-005` / swords and labyrinths | Paul's combat performance is witnessed; styles, ranks and labyrinth lore are mostly his explanation or Rudeus's books. Ghislaine's sword-king rank is conveyed by Paul and the employment exchange. | `015–016`; do not promote illustrative stories about legendary depths or inherited prowess into observed geographical facts. |
 
 The paratext's epigraph and cast/design art are identified in the V01 reading. They can establish how this edition presents a prospective reader with the cast, not plot events or an authorial endorsement. The colophon reports an expanded book adaptation of a web serial; no line-level textual-history finding exists because no WN witness has been admitted or compared.
+
+## V02 pattern revisions and additions — 2026-09-26 UTC
+
+V01 rows remain the historical first formulation. Current scope V01–V02; evidence numbers below refer to [V02 observations](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. Source accounts and institutional generalizations stay attributed.
+
+| Pattern / disposition | New mechanism or qualification | Evidence / confidence and destination |
+| --- | --- | --- |
+| `MT-F-001` STRENGTHEN | Player-script analogies explicitly fail at inaccessible other minds; Ghislaine, Roxy and montage figures supply independent but fallible appraisals. | `001–003,011,014–019`; strong formal inference. Existing voice domain sufficient; specialist deferred. |
+| `MT-F-002` REVISE | Employment-time ellipses and repeated progress cards give way to expanded birthdays, global simultaneity, six-month epilogue and century-framed extra. | `006–019`; observation of structure. Publication order, event order and reader knowledge must be separate. |
+| `MT-F-003` REVISE | Chosen learning/outings, imposed removal and involuntary displacement create different kinds of expanded movement. | `007,010,017–019`; working thematic hypothesis, not all travel equated with freedom. |
+| `MT-F-004` STRENGTHEN | Language guide, teacher exchange, practical numeracy and dance transfer specify social mechanisms behind skill. | `006–011`; high-confidence bounded theme; unusual aptitude also retained. |
+| `MT-F-005` STRENGTHEN | Wages/rest, gifts, guard's continuing labor, transregional letter work and search broaden care beyond household service. | `007–013,015,018–019`; strong inference. Both class support and constrained agency retained. |
+| `MT-F-006` REVISE | Sleeping-child plate/comic fantasy; gift-induced restraint; later self-critique followed by reward rhetoric; Roxy affected-person refusal. | `006,009,014–015`; competing formal pressures, not universal reader response. All source images inspected. |
+| `MT-F-007` NEW | Lists and scripts promise legibility: plan, timetable, status cards, history, languages; emergency/missing-person lists expose different limits and stakes. | `003,006–008,010,014,018`; strong formal inference. Status cards' compliance field is not an adequate agency measure. |
+| `MT-F-008` NEW | Public accounts are made: politically credited rescue, birthday lineage exposure, heroic history, future goddess cult. | `004,008,010,012–013,019`; strong pattern, no claim all history false. Wider specialist considered at next checkpoint. |
+| `MT-F-009` NEW | Disaster displaces narration as well as bodies: Roxy's aftermath and Ghislaine's extra give others consequential action outside Rudy's access. | `015–019`; strong formal inference; cause and reunion not revealed. |
+| `MT-W-001` REVISE | Silent casting does not transfer easily to Eris/Ghislaine/Roxy; staff increases output but complicates control. | `006,009–011,015,017`; observed limits and character explanations kept distinct; no universal growth law. |
+| `MT-W-002/004` REVISE | Kinship hiring, reported male-child succession transfers, paid instruction and Roxy's contract shape choices; refugee loss exceeds hunger alone. | `001,007,012–015,018`; local/reported practices, not complete national law. |
+| `MT-W-003` REVISE | Embedded history adds human aggression, slavery and treaty accounts; Ghislaine reports ethnic fetishization. | `010–011`; historical narrative remains attributed; neither universal species trait nor verified origin myth. |
+| `MT-W-005` REVISE | Ghislaine demonstrates rank-relevant combat and detailed teaching; style fit, battle aura and prospective referrals are her expert judgments. | `003,006,011,017,019`; her prowess has contextual limits. Legendary claims receive partial encounter evidence, not blanket verification. |
+| `MT-W-006` NEW | Regional displacement is reported through survivors; missing/dead boards and guild messages mediate recovery. | `017–019`; world-changing event observed/reported, mechanism unresolved. Knowledge ledger owns holder/time distinctions. |
+
+**V02 pivot review:** retain these six ledger homes. Add questions about dispersed information, altered resource access, and legend-making rather than forcing the new material into a preselected arc. No WN, reception or audiovisual source entered. The internal extra's long future frame is admitted only as V02 narrative, with knowledge boundaries intact. Next scheduled cumulative checkpoint remains V05.

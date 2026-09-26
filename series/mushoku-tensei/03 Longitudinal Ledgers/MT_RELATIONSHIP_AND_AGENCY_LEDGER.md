@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Accepted Japanese LN V01 observations only; locator map retained and byte-verified; local closure publication pending; no V02 evidence."
+source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
 ---
 
 # Relationship and agency ledger
@@ -57,3 +57,26 @@ The owner approved the V01 reading after its synopsis revision. Its hash-only lo
 | `MT-R-012` `Ghislaine ↔ Rudeus` | Proposed reciprocal instruction: sword teaching for reading and arithmetic; at the V01 ending only the arrangement and her request are known. | `016`; neither party's later teaching is observed. |
 
 **V01 directional limit:** The house calls Lilia “family” while her wage and servant history persist; the word does not erase employment dependency. Sylphie's closeness is not evidence of unrestricted access to her body or her future. The five-year separation is Paul's decision, with its effectiveness and consent unresolved. Later evidence must be linked as new events rather than silently converted into current V01 motives.
+
+## V02 directed events — 2026-09-26 UTC
+
+The V01 events remain historical. New evidence numbers below refer to [V02 canonical observations](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. Current scope V01–V02; input audited commit `eaf159559c6fc76ddd820178d7588545f08c351d`.
+
+| Event / direction | Initiative, constraints and changed options | Evidence / reciprocity and limit |
+| --- | --- | --- |
+| `MT-R-013` Rudeus → Eris | Engineers fear to obtain employment/cooperation, rescues and teaches, later coordinates rest and adaptive practice. | `001–008`; helpful outcomes do not prove the staged scheme necessary. Financial/class asymmetry is complex: pupil's household employs him, he controls practical knowledge. |
+| `MT-R-014` Eris → Rudeus | Rejects teacher, later grants familiar address, returns to practice, wants to give a book, initiates birthdays and staff gift. | `004,007–009,012`; choices establish reciprocity beyond obedience, not unrestricted physical permission. |
+| `MT-R-015` Rudeus → Eris | Particular restraint while she cherishes gifts; later exceeds limited permission, recognizes disregard and apologizes. | `009,014`; regained hope becomes entitlement to a future prize in his account. No demonstrated transfer of new vow yet. |
+| `MT-R-016` Eris → Rudeus | Stops a violation, leaves, returns to forgive on this occasion and sets a five-year limit. | `014`; no irrevocable contract over future intimacy; her return does not ratify the violation. |
+| `MT-R-017` Ghislaine → Rudeus | Protects life, cautions against overconfidence, adapts sword instruction and considers another teacher conditional on his wishes. | `003,006–007,011,017`; gratitude and fallible appraisal both present. |
+| `MT-R-018` Rudeus → Ghislaine | Patient literacy/magic instruction, formal learner recognition, food reserved while she works; also sexualizes her and exploits her distraction role. | `006–012`; her artistic wish to record herself differs from his intention. Respect is not complete mutual understanding. |
+| `MT-R-019` Ghislaine → Eris | Longstanding teaching/protection, personal ring, later urgent search. | `006–009,011,017,019`; duty persists on holiday; disorientation produces harmful force beyond controlled rescue. |
+| `MT-R-020` Eris → Ghislaine | Admires expertise, listens to experience, treasures ring, seeks additional practice. | `006–009,011`; relationship predates Rudy and retains independent significance. |
+| `MT-R-021` Roxy → Rudeus | Creates substantial guide, maintains correspondence, independently chooses search for him. | `010,015,018`; he is a respected pupil, not her declared lover. Idealization can obscure his limits. |
+| `MT-R-022` Rudeus → Roxy | Gratitude and study depend on her labor; likeness made and sold without demonstrated permission disturbs her on arrival. | `010`; narrator's comedy does not settle her experience. |
+| `MT-R-023` Philip/Sauros/Hilda → Rudeus/Eris | Resources, belonging and gratitude coexist with violence, gendered performance and proposed marital/political recruitment. | `004–005,008,012–013`; Hilda's grief is Philip-reported, her embrace observed. Affection need not be fictitious for constraints to be real. |
+| `MT-R-024` Roxy → prince/court | Refuses coercion, uses contract/relative status, leaves at term end and repels attack. | `015`; court's judgment protects its interests as recorded; no broad equality guarantee. |
+| `MT-R-025` Paul → scattered family/Rudeus | Protects Norn per message, requests assistance, prioritizes missing wives/Aisha and assigns Rudy a northern search. | `018`; Rudy not shown reading message. Trust and delegated burden coexist; necessity remains untested. |
+| `MT-R-026` Ghislaine → Vigo / Vigo → Ghislaine | Her search-driven intervention enables his survival; he recognizes a protective purpose, accompanies her and later memorializes her. | `019`; their immediate directions partly coincide, their goals and later knowledge differ. Cult does not establish her endorsement. |
+
+**Reviewed limits:** no new direct Sylphie→Rudeus event; his recollection is not her choice. No missing-person listing proves death. Relationship states after displacement are not simply household states moved intact to a new place.

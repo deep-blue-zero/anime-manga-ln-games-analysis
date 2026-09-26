@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Accepted Japanese LN V01 observations only; locator map retained and byte-verified; local closure publication pending; no V02 evidence."
+source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
 ---
 
 # Claims and revisions ledger
@@ -52,3 +52,21 @@ The historical initial state above is preserved. Current scope is **MT-LNJP-V01 
 | `MT-C-007` | Roxy, Lilia, Zenith and Sylphie each have choices, labor and/or constraints not reducible to Rudeus's improvement. `STRONG_INFERENCE` | `004,006–009,011–016`: employment, self-education, domestic care, refusal and protest. Access remains uneven, especially Sylphie's interiority. | Preserve plurality without inventing offstage agency. |
 
 **Revision register:** V01 was the first narrative unit, so earlier analytical claims were absent. During V01, provisional character reports were corrected rather than promoted: Lilia's aversion is not simply dislike of children (`004`); the supposed fabricated injury of the bullying child is withdrawn after later information (`010`); a manual's fixed-capacity assertion is contradicted by Rudeus's observed short-term trials without establishing a universal replacement rule (`005`). Future material revises these IDs with a dated prior formulation and dependent-home review; the V01 entering freeze remains intact.
+
+## V02 revision register — 2026-09-26 UTC
+
+Input: audited V01 commit `eaf159559c6fc76ddd820178d7588545f08c351d`. The V01 formulations above remain historical. Current scope is V01–V02, with V02 observations owned by [the V02 reading](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings); numbers below mean `MT-E-LNJP-V02-NNN`. No later source contributes. Publication/audit of this transaction is tracked separately in the current entrypoint.
+
+| Revision ID / claim | Prior → current bounded formulation | Transition; evidence and counterreading | Confidence / discriminating test / dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-008` / `MT-C-001` | V01 supported learning → repeated instruction, resources and institutions causally support competence in both volumes. | STRENGTHEN; `001,006–012,017`. Unusual aptitude remains real; failed chantless teaching and limited sword aptitude reject effortless transfer. | Strong inference, high within scope. Compare performance when supports change; character/form ledgers. |
+| `MT-CR-009` / `MT-C-002` | V01 uneven consent-sensitive restraint → recognition, particular restraint and continued entitlement coexist through V02. | STRENGTHEN; `003,005,006,009,014`. The gift-night restraint is a real negative case to absolute incapacity; the later violation defeats a generalized change claim. | Strong inference, high. Future promise is not demonstrated persistence or irrevocable consent; normative/relationship/state ledgers. |
+| `MT-CR-010` / `MT-C-003` | V01 alternative focalizers qualify Rudy → V02 widens access while making some alternative judgments contestable. | STRENGTHEN; `011,015–019`. Ghislaine's minimization and romantic guesses, Roxy's idealization and powerful observers' suspicion prevent treating alternate access as truth certification. | Strong formal inference, high. Track each disclosure's holder and limits; knowledge/form ledgers. |
+| `MT-CR-011` / `MT-C-004,005` | V01 Sylphie boundary/family-meeting findings → unchanged historical conclusions. | PRESERVE; no new direct testimony about Sylphie's injury or the household allegation's later consequences. V02 `014` is comparison, not replacement evidence. | No-material-revision after review. Do not infer offstage reconciliation; normative/relationship ledgers. |
+| `MT-CR-012` / `MT-C-006` | V01 separation's efficacy wholly open → the job now yields learning, work and relationships, and Rudy positively reappraises the support. | REVISE; `002,006–012`. No controlled alternative demonstrates that ambush/no-contact terms caused or were necessary for these benefits; Sylphie's outcome still unknown. | High for represented benefits/reappraisal, unresolved for necessity and other child's development. State/relationship/knowledge ledgers. |
+| `MT-CR-013` / `MT-C-007` | V01 secondary aims irreducible to protagonist growth → Eris, Ghislaine and Roxy add substantial independent choice, labor and limits. | STRENGTHEN; `005–019`. Hilda's backstory remains Philip-mediated; many absent people lack current access. | Strong inference, high. Do not invent unseen autonomy; state/relationship/form ledgers. |
+| `MT-CR-014` / `MT-C-008` | New claim: adaptive teaching works by matching task, existing competence, motivation and resources. | OPEN as longitudinal claim; `006–008,010–011`. Rudeus's insistence that kidnapping was prerequisite is an untested counterfactual; rest, explanation and shared practice demonstrably matter. | Strong V02 inference, no universal teaching law. Test changed learners/settings and failed transfer; state/form/normative ledgers. |
+| `MT-CR-015` / `MT-C-009` | New claim: status and narrative accounts distribute credibility, opportunity and control, with consequential mistakes. | OPEN; `004–005,008,010,012–013,015–019`. Kinship protects and recruits; official rescue account and later cult select different meanings. Institutions can enable refusal as well as constrain it. | Strong V02 pattern, not a total social theory. Test who can contest an account and at what cost; all relevant topical ledgers. |
+| `MT-CR-016` / `MT-C-010` | New claim: displacement separates agency from secure knowledge of outcomes. | OPEN; `017–019`. Search choices and Ghislaine's survival are represented; destinations, reunions and cause remain partly or wholly unknown. | High for bounded observation, working hypothesis for longitudinal structure. Compare message reception and route choices; chronology/relationship/form ledgers. |
+
+No registered entering outcome prediction existed. V02 answers questions without manufacturing successful forecasts. A new targeted maintenance review is frozen in V02 Section L; V05/V10/V15 cumulative reviews remain due.

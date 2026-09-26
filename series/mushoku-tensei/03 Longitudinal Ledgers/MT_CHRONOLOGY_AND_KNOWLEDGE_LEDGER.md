@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Accepted Japanese LN V01 observations only; locator map retained and byte-verified; local closure publication pending; no V02 evidence."
+source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
 ---
 
 # Chronology and knowledge ledger
@@ -62,3 +62,29 @@ Witness `MT-LNJP-V01`; observation IDs resolve in the [V01 reading](../02%20Sequ
 | `MT-K-007` Roxy's later progress | Rudeus and reader learn from her letter that she reports Shiron court work and water-king level after leaving. | `015`; no direct inspection of her offstage life or later LN. |
 
 The age claims “34” and later self-characterization as mentally over 40 belong to Rudeus's own arithmetic and rhetoric (`001,006,013`); age at this volume's close is seven in his new life (`MT-T-006`). Physical development, remembered experience, social treatment and demonstrated judgment remain separate variables. Do not enter a sum as a world fact.
+
+## V02 chronology and knowledge changes — 2026-09-26 UTC
+
+Input audited V01 commit `eaf159559c6fc76ddd820178d7588545f08c351d`. Numbers below refer to [V02 observations](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. The V01 rows remain fixed historical states.
+
+| Chronology ID | Anchor/order through V02 | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-008` | Arrival: Rudeus seven, Eris nine; pursuit prologue precedes explanatory reset to arrival. | `001–004`; age explicit, opening narrative order differs from event order. |
+| `MT-T-009` | Abduction/employment → about a month of instruction → roughly another half year → rest-day system; first outing/history account names K414. | `003–007,010`; rounded summaries not forced to exact dates. |
+| `MT-T-010` | Roughly one year since arrival: Eris ten; dance, gifts, sphere observation. Later Rudy nine/two years since arrival, language study and letter. | `008–011`; Ghislaine's half-year conversational acquisition can fall within his year of study. |
+| `MT-T-011` | Rudeus ten/Eris twelve: birthday and boundary episode, then staff demonstration and catastrophe. | `012–017`; planned holy spell interrupted. Extra explicitly dates displacement year K417 (`part0027` p54–55). |
+| `MT-T-012` | Epilogue: Roxy arrives six months after regional disappearance. | `018`; travel chronology explicit; no exact arrival date invented. |
+| `MT-T-013` | Extra: a century-later cult frame returns to K417 for Vigo/Ghislaine battle, then traces cult formation. | `019`; V02 itself contains this future reach. Main cast does not gain that later knowledge. |
+
+| Knowledge ID / proposition | Holder, update and reader access | Evidence / boundary |
+| --- | --- | --- |
+| `MT-K-008` Abduction plan vs reality | Rudy/Philip know staged design; Eris does not. Rudy discovers real danger. Philip later reports Thomas's betrayal and managed official attribution. | `001–004`; investigation not directly witnessed; reader must not infer Eris learns every backstage fact. |
+| `MT-K-009` Eris's reasons and limits | Rudy guesses repeatedly; her return to dance practice, gift initiative and direct refusal provide action/speech. Ghislaine's romantic interpretations are conjectural. | `008,011–014`; no blanket mind-reading. |
+| `MT-K-010` Language and history | Rudy learns through books, Ghislaine and Roxy; embedded cosmology/history remain attributed. Roxy letter confirms effort and reports likeness distress. | `010–011`; no external historical verification. |
+| `MT-K-011` Household lineage and sons | Political secrecy and succession customs become available to Rudy by gradual report, culminating in Philip's explanation. | `012–013`; Hilda's interior motives not independently narrated. |
+| `MT-K-012` Disaster cause | Roxy/Perugius compare light to summoning; others suspect, speculate or identify an unexplained deviation. Rudy has not caused the represented anomaly by completing his planned spell. | `015–017`; no culprit/mechanism established; no later-franchise explanation permitted. |
+| `MT-K-013` Missing versus dead | Roxy sees separate boards and Paul's message; reader learns Norn with Paul as his report, wives/Aisha missing. | `018`; Rudy's reception of message unshown; absence from death list is not proof of safety. |
+| `MT-K-014` Ghislaine's survival and purpose | Reader/Vigo encounter her after displacement; she asks after children and receives geographic information. | `019`; no demonstrated reunion or confirmed route success. Vigo never learns eventual fate in this extra. |
+| `MT-K-015` Legend versus experience | Vigo's memorial and later collective cult recast Ghislaine's intervention; reader has causal account unavailable to later worshippers. | `019`; no claim that Ghislaine knows or authorizes cult. |
+
+**Unresolved witness details:** anomaly direction differs within Roxy scene (`part0020` p379 east / p476 west). Extra commander spelling varies (`part0027` p172/214 クライン, p207 クラウン), with loose troop recounting around p136/145–146. Preserve these as source irregularities; neither silently normalize nor construct additional characters/events. These details do not block the recovered event order. Physical ages, remembered past and self-attributed total age remain distinct.

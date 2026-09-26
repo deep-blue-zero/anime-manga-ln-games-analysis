@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Accepted Japanese LN V01 observations only; locator map retained and byte-verified; local closure publication pending; no V02 evidence."
+source_boundary: "Japanese LN V01–V02 observations; V01 published and audited, V02 analytical/evidence closure prepared with retained map; publication/audit separately tracked."
 ---
 
 # Normative framing ledger
@@ -54,3 +54,29 @@ The source is `MT-LNJP-V01`; IDs link the [canonical reading](../02%20Sequential
 | `MT-N-009` `010,016` | Paul fears dependency and arranges employment/education; he strikes, binds and removes his seven-year-old son without hearing him, imposes five years without Sylphie contact, while she tries to stop it. His motive and reservations get a later viewpoint. | Concern about dependence is supported; necessity/proportionality of this force and absolute duration is **unresolved**. His earlier lesson about listening and apology creates a visible contradictory paternal practice, not automatic proof of either hypocrisy as stable essence or justified exceptionalism. Outcomes unavailable at V01. |
 
 **Matched-case comparison `MT-NC-001`:** `MT-N-004` versus `MT-N-009` tests Paul's principle that the strong should listen and not use force casually; his first error is admitted, his later force is deliberated but still unconsented. Difference in purpose and duration matters; the shared asymmetry does too. **Comparison `MT-NC-002`:** `MT-N-005` versus `MT-N-006` separates completed physical override from subsequent fantasy and restraint, avoiding an invented equivalence. V01 supports scene/volume-level findings only. No percentage, morality score, reader effect or creator intention is claimed.
+
+## V02 normative records and comparisons — 2026-09-26 UTC
+
+Source observation numbers resolve in [V02](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. All accounts are non-graphic. Current scope V01–V02; V01 conclusions are preserved. Judgments name analyst criteria and do not assert audience effect or creator intent.
+
+| Event / observations | Conduct, conditions, framing and consequences | Bounded evaluation / consequential alternative |
+| --- | --- | --- |
+| `MT-N-010` / `001–004` | Rudy seven/Eris nine; staged abduction approved by father becomes actual danger. Rudy uses withheld complete healing, false threats and conditional aid; genuine rescue skills remain insufficient without Ghislaine. | Wrong under noncoercive-care criterion. Emergency cooperation may justify quiet/coordination, not manufactured fear or the initial scheme. Narrator's later necessity claim lacks a counterfactual test. |
+| `MT-N-011` / `005` | Patriarchs demand humiliating gendered request; Rudy ends routine after mixed motives, including noticing Eris's aversion and fearing retaliation. Comedy exposes adult preferences. | Specific reform observed; broad autonomy principle unproved. Her coerced performance is not freely expressed agreement. |
+| `MT-N-012` / `006` | Sleeping child's bodily boundary violated; she responds defensively. Prose and split illustration supply comic sexualized framing. | Wrong under bodily-autonomy criterion; defensive blow differs from arbitrary aggression. Comic treatment can minimize harm even when resistance is represented. |
+| `MT-N-013` / `006–008,011–012` | Patient practice, practical examples, wage protection, rest, food saved for working guard, collaborative dance and gifts. | Positive care under attentive-help criterion; employment, self-interest and status also operate. These benefits are genuine without cancelling misconduct. |
+| `MT-N-014` / `009` | After Eris tenth birthday, seeing her cherish gifts interrupts intended touching while asleep. He actually refrains. | Diagnostic local restraint, not absence of opportunity. Later override prevents generalization; no supernatural efficacy inferred from ring metaphor. |
+| `MT-N-015` / `012–013` | Succession custom separates sons from mother per Philip; affection becomes marriage pressure and political proposal involving daughter. | Wrong to treat a child's choices as bargaining assets. Protective provision and grief explain behavior without making coercion voluntary. Hilda backstory mediated. |
+| `MT-N-016` / `014` | Rudy ten/Eris twelve; he exceeds limited permission, she stops him/leaves; self-reproach recognizes care and limits of game scripts. Apology and particular forgiveness followed by future-boundary promise and his guaranteed-reward interpretation. | Clear violation under consent criterion. Recognition and stated restraint are real, durable transfer UNTESTED. Future consent remains revisable; entitlement persists. No graphic quotation or generated scenario. |
+| `MT-N-017` / `015` | Fifteen-year-old prince uses unwanted contact, threats and private force against Roxy; her perspective names aversion, contract allows refusal, she departs/defends herself. | Clear coercion under autonomy criterion. Institutional response is framed around losing valuable employee, not stated general justice. Her teacher self-blame should not absorb prince's agency. |
+| `MT-N-018` / `016–017` | Revenge/suspicion leads to preemptive attack; oath backed by recognized rank ends it, no apology. Rudy then shields Eris from catastrophe. | Suspicion is insufficient justification for lethal attack. Actual protection deserves specific credit; it is not redemption by cancellation. Prestige distributes credibility unevenly. |
+| `MT-N-019` / `018` | Refugees grieve despite food, information incomplete; Paul organizes family search, Roxy chooses to seek overlooked Rudy. | Care through practical choice under uncertainty. Trust in Rudy also assigns burden; no result yet verifies appropriateness. Material sufficiency does not settle wellbeing. |
+| `MT-N-020` / `019` | Ghislaine's search-driven disorientation and powerful violence coincide with military deception; Vigo survives, others die, cult celebrates rescue. | Protective intent and beneficiary gratitude do not establish justified indiscriminate force. Narrative shows contingencies and conflicting purposes; later heroic label is not a complete ethical account. |
+
+**`MT-NC-003`:** V01 `MT-N-005/006` versus V02 `MT-N-012/014/016`: compare refusal, sleeping vulnerability, actual restraint, recognition and future commitment. Different age/relationship stages matter; persistence is not established merely by repeated apologies. `MT-C-002` strengthened.
+
+**`MT-NC-004`:** V02 `MT-N-010` versus `MT-N-013`: engineered helplessness and adaptive education both precede improved cooperation, but only the latter's actual mechanisms are observed across routine tasks. Do not infer the former necessary from temporal priority. `MT-C-008` opened.
+
+**`MT-NC-005`:** `MT-N-016` versus `MT-N-017`: each includes refusal and sexual entitlement; access differs sharply, as do authority, age, contractual protection and consequences. This supports a specific framing comparison, not a mechanically identical penalty standard or complete endorsement verdict.
+
+**`MT-NC-006`:** V01 `MT-N-009` versus V02 `MT-N-010/015`: adult protection and future opportunity coexist with imposed choices. New job benefits revise the outcome question but do not prove coercion necessary. `MT-C-006,009` updated.
