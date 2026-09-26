@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.48"
+version: "11.49"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 178 complete i-n-g primary documents / T7S_B0080–T7S_B0147; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 181 complete i-n-g primary documents / T7S_B0080–T7S_B0148; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 603`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 677`; `last_closed_block = T7S_B0147`. The admitted horizon contains 413 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 178 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 611`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 688`; `last_closed_block = T7S_B0148`. The admitted horizon contains 416 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 181 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2113,3 +2113,34 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.49. [B0147](../02%20Readings/
 | `EDGE-0684` | `FATHER_MEMORY_TO_HIME_ESCORT_CHOICE` | Mother's remembered fantasy resonates with Hime's Player choice in `EV-B0147-003`,`008`, without present maternal consent. |
 
 `T7S_B0147_CLOSE-20260926`: eight chapter events and twelve bounded edges; a fictitious cousin alias, camera incident and affectionate dance do not create kinship, security clearance or romantic finding.
+
+## B0148 Momoka's imagined nonwork becomes bodily overwork
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.50. [B0148](../02%20Readings/T7S_B0148_DEEP_READING.md) owns the A/B/C locator key. Native market, medical and employment assertions are actor speech within fiction; no contemporary legal/financial guidance follows. B0147 is a menu horizon only.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0148-001` | Momoka complains about lessons/work and searches effortless-income page; Player says workload rose for group but Momoka not uniquely burdened. | A:P2–35; `KNOW-0379`. No schedule/legal audit; search page not reliable advice. |
+| `EV-B0148-002` | Sawara/Player discuss stocks and insider examples; Momoka takes simplified share-work restriction as escape route. | A:P36–79; `KNOW-0380`. In-world legal claims not verified; no automatic CM ban established. |
+| `EV-B0148-003` | Momoka reports purchase with parental allowance permission; delayed dividend news and day-trader mention spur active trading. | A:P84–121; `KNOW-0381`. No amount, account, actual return or safe strategy. |
+| `EV-B0148-004` | Momoka follows markets, buys perfume-firm shares by Sumire cue and explains Arrival 99 CM prospect to Player; leaves for London market. | B:P1–76; `KNOW-0382`. Forecast, public grant and client legitimacy actor-supplied, not independently vetted. |
+| `EV-B0148-005` | Overnight market attention displaces sleep and lessons; peers report missed session and no Holocom response. | C:P1–36; `KNOW-0383`. Exact exposure/positions unknown; idol schedule also not audited. |
+| `EV-B0148-006` | Momoka collapses en route; clinician states malnutrition/overwork; Momoka says screen fixation and poor eating; doctor initially blames idol agency. | C:P37–70; `KNOW-0384`. Episode-level clinical statement, not full record/recovery; attribution contested. |
+| `EV-B0148-007` | Sawara points out trading has become more work than Momoka wanted; Momoka says she will quit. | C:P76–111; `KNOW-0385`. Persuasion local, no relapse prevention or formal plan. |
+| `EV-B0148-008` | Momoka reports closing brokerage position, spending proceeds on media and asking for very light idol work with equal pay after CM offer. | C:P116–139; `KNOW-0386`. No financial statements, medical clearance or accepted employment terms. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0685` | `WORK_AVOIDANCE_TO_INCOME_SEARCH` | Momoka's goal motivates `EV-B0148-001`, without proving actual agency overwork. |
+| `EDGE-0686` | `SHARE_LAW_DIALOGUE_TO_FALSE_ESCAPE` | Simplified examples prompt Momoka's interpretation in `EV-B0148-002`; not external law. |
+| `EDGE-0687` | `DIVIDEND_DELAY_TO_ACTIVE_TRADING` | Player's day-trading mention redirects `EV-B0148-003`; no investment endorsement. |
+| `EDGE-0688` | `PEER_TREND_CUE_TO_SPECULATIVE_PURCHASE` | Sumire perfume report occasions claimed buy in `EV-B0148-004`; future price unknown. |
+| `EDGE-0689` | `RESEARCH_VOCABULARY_TO_CLIENT_TRUST` | Player relies on Momoka's Arrival 99 account in `EV-B0148-004`, not independent diligence. |
+| `EDGE-0690` | `GLOBAL_MARKET_ATTENTION_TO_SLEEP_LOSS` | Trading reports in `EV-B0148-005` link to tiredness/missed lesson, not precise hours. |
+| `EDGE-0691` | `SCREEN_AND_MEAL_NEGLECT_TO_CLINICAL_COLLAPSE` | Momoka's account and clinician finding align in `EV-B0148-006`; wider medical history unknown. |
+| `EDGE-0692` | `CLINICIAN_ASSUMPTION_TO_MANAGER_ACCOUNTABILITY` | Doctor questions Player in `EV-B0148-006` without trading detail; safeguarding still open. |
+| `EDGE-0693` | `SAWARA_MIRROR_TO_MOMOKA_EXIT_DECISION` | Her own anti-work premise persuades Momoka in `EV-B0148-007`; no guaranteed durability. |
+| `EDGE-0694` | `REPORTED_EXIT_TO_SPENDING` | Momoka says proceeds were spent in `EV-B0148-008`; no audited profit or cash balance. |
+| `EDGE-0695` | `HEALTH_EVENT_TO_WORK_BARGAIN` | Momoka invokes real collapse to resist new CM in `EV-B0148-008`; terms not agreed. |
+
+`T7S_B0148_CLOSE-20260926`: eight chapter events and eleven bounded edges; no certified trade result, legal rule, sponsor due diligence or medical recovery.

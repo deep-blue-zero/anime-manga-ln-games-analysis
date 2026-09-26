@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.48"
+version: "11.49"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 178 complete i-n-g primary documents / T7S_B0080–T7S_B0147; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 181 complete i-n-g primary documents / T7S_B0080–T7S_B0148; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 684`; `revisions = 42`; `predictions = 7`; `AV_reviews = 94`; `literary_findings = 684`. Claims are bounded to their stated B0001 through B0147 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 68 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 689`; `revisions = 42`; `predictions = 7`; `AV_reviews = 95`; `literary_findings = 689`. Claims are bounded to their stated B0001 through B0148 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 69 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2268,3 +2268,27 @@ Owner and A/B/C locator key: [B0147](../02%20Readings/T7S_B0147_DEEP_READING.md)
 - Outcome: `REVIEWED` for thirteen selected static resources and all native page-state segmentation. Two hundred fifty-four dialogue-associated voice pages plus title cues, BGM/SFX and actual dance music remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0147_CLOSE-20260926`: five bounded claims and one AV review; no real cousin, incident clearance, romantic certification, specialist or monograph promotion.
+
+## B0148 nonwork paradox, clinical risk and non-advice boundary
+
+Owner and A/B/C locator key: [B0148](../02%20Readings/T7S_B0148_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.50. Native future-market dialogue is not a current legal/financial authority.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0148-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Momoka's proposed escape from idol labor becomes screen labor severe enough to crowd out food/sleep; Sawara's argument works by Momoka's own goal. | A:P2–28,84–121; B:P1–76; C:P1–111. Clinician-stated collapse remains real, not mere gag. |
+| `CL-B0148-002` | `BOUNDED_INFERENCE`; D1; high for limit | Rapid market vocabulary/client explanation does not verify portfolio return, predictive skill, sponsor legitimacy or suitability; investment and CM facts remain unverified character reports. | A:P65–113; B:P1–75; C:P116–120. No statements or diligence file. |
+| `CL-B0148-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Doctor initially blames idol agency without trade details; Momoka reports self-directed screen/meal neglect, while minor-performer monitoring and rest still require attention. | C:P1–81. Neither total agency blame nor total absolution is shown. |
+| `CL-B0148-004` | `BOUNDED_INFERENCE`; D1; high | Reported exit/spent proceeds has no audited amount or profit; cast's insider/stock-work examples are fictional dialogue, not a categorical real-world legal rule. | A:P36–70,84–113; C:P116–139. No law or financial guidance promoted. |
+| `CL-B0148-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Final illness-based job avoidance is comic bargaining using a genuine prior collapse; it neither proves recovery nor establishes accepted reduced workload/equal pay. | C:P116–139. CM remains proposed. |
+
+### AV-0095 — Holocom and generic clinical presentation
+
+- Questions/claims: whether native visuals show actual prices, trade receipts, clinical chart, work contract or recovery; `CL-B0148-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for market/legal, medical follow-up and sponsor-contract restrictions.
+- Selection: Momoka `adv_chara_007_02_01`, `007_01_01`; Musubi `004_01_06`; Sumire `008_01_01`; Sawara `012_01_01`; Kajika `013_01_01`; Shinju `014_01_01`; clinician role `027_01`; Holocom `adv_obj_0027`. All 339 native pages and thirty-eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.50 binds nine media receipts.
+- Observed: Momoka has two ordinary outfit/face states, not a second identity; Holocom prop is a generic device, not a legible brokerage or medical record. Clinician is non-individuated line art.
+- Native occurrence: command-only A:P0–1,14,64,72,80–83,104,114,121; B:P0,41,71,76; C:P0,8–10,22,29–31,36,43–46,72–75,112–115,139. Office/hospital/later-day transitions do not establish specific trades or recovery.
+- Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and clinical/market primary records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0148_CLOSE-20260926`: five bounded claims and one AV review; no investment/legal prescription, profit audit, sponsor clearance, medical recovery, specialist or monograph promotion.

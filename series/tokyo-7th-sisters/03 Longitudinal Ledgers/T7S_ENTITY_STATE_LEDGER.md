@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.48"
+version: "11.49"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 178 complete i-n-g primary documents / T7S_B0080–T7S_B0147; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 181 complete i-n-g primary documents / T7S_B0080–T7S_B0148; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 96`; `character_states = 78`; `epistemic_states = 378`; `directional_relationship_states = 580`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0147, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 96`; `character_states = 78`; `epistemic_states = 386`; `directional_relationship_states = 588`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0148, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3248,3 +3248,42 @@ The [B0147](../02%20Readings/T7S_B0147_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0580` | Hime → Coney, **participation and later anger at surprise** | Accepts lessons, questions Coney's expertise and blames her when Player appears. A:P78–137; B:P71–77,135. Reciprocal `REL-0579`; no informed advance choice on surprise shown. |
 
 `T7S_B0147_CLOSE-20260926`: eight actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new kinship/identity or romance route.
+
+## B0148 Momoka's trading, care network and information limits
+
+The [B0148](../02%20Readings/T7S_B0148_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.50, binds these updates. Existing Momoka `IDENTITY-0015`/`CHAR-0012`, Sawara `IDENTITY-0022`/`CHAR-0019`, Shinju `IDENTITY-0024`/`CHAR-0021`, Kajika `IDENTITY-0023`/`CHAR-0020`, Musubi `CHAR-0006`, Sumire `CHAR-0013`, Player `CHAR-0001` and Nanastar `UNIT-0002` suffice. Clinician `医者` has a generic role silhouette, not a new named longitudinal person.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0012` / Momoka | Seeks effortless income, buys shares and day-trades by report, acquires sector vocabulary, evades lessons, collapses after missed sleep/food, says she stops and later asks for light work/pay parity. | A:P2–121; B:P1–76; C:P1–139. No audited P&L, legal expertise, medical clearance or agreed schedule. |
+| `CHAR-0019` / Sawara | Introduces share/dividend discussion in simplified terms, then persuades Momoka by showing trading contradicts her wish not to work. | A:P29–56,90–98; C:P76–111,124–136. Her market/legal examples are not independent legal guidance; persuasion not treatment. |
+| `CHAR-0021` / Shinju | Warns Player's examples will spur Momoka and challenges oversimplified day trading; voices concern at skipped lessons. | A:P31–70,88–120. Her caution does not establish real market law/returns. |
+| `CHAR-0020` / Kajika | Observes Momoka's vocabulary, reports absence/exhaustion, worries and welcomes her safe hospital visit. | A:P6–27; B:P1–15,63–74; C:P1–62,76–107. No independent financial or clinical expertise. |
+| `CHAR-0006` / Musubi | Repeatedly enforces lessons, notes health/work disruption and worries at hospital, later challenges Momoka's spending/avoidance. | A:P2–121; B:P1–75; C:P1–139. Discipline neither causes all collapse nor supplies medical follow-up. |
+| `CHAR-0013` / Sumire | Supplies perfume/trend observation that prompts Momoka purchase, sees sleep at lessons and accompanies concern. | B:P14–39; C:P1–70,76–121. Her consumer taste is not a reliable share-price forecast. |
+| `CHAR-0001` / Player | Mentions share-work and day-trading ideas, takes Momoka's CM-client explanation as reassurance, visits hospital, considers safety and later offers CM. | A:P9–117; B:P42–75; C:P32–139. No verified legal counsel, sponsor diligence, workload audit or completed CM agreement. |
+| `UNIT-0002` / Nanastar | Has increased post-festival activity, missed Momoka lessons, an unfamiliar CM prospect and a member's collapse; peers check on her. | A:P2–13; B:P42–75; C:P1–139. No full employment, sponsor or safeguarding audit; member's private trading is not Nanastar-directed work. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0379` | Momoka perceives idol work as too much; Player thinks her own workload is not unusually high; others hear her internet shortcut search. | A:P2–35. No measured schedule/law finding. |
+| `KNOW-0380` | Sawara/Player/Musubi discuss share ownership and insider examples; Momoka infers stockholding could keep work away. | A:P36–79. These are character explanations; actual legal scope unknown. |
+| `KNOW-0381` | Momoka says parents approved allowance-based purchase; Sawara gives a delayed-dividend estimate, Player mentions day trades, Shinju warns. | A:P84–121. No account statement or future return. |
+| `KNOW-0382` | Sumire says perfume popular; Momoka treats it as buy cue and tells Player Arrival 99's background/service/grants; Player thanks her. | B:P1–76. Trend, subsidy and client facts not independently verified. |
+| `KNOW-0383` | Peers see missed lesson, sleepiness and notification fixation; Momoka reports overnight trades after New York market fall. | C:P1–36. Exact trade risk, sleep/food tally unknown to peers. |
+| `KNOW-0384` | Momoka reports collapse and poor eating; clinician states malnutrition/overwork and initially assumes agency cause; Player hears both. | C:P37–70. Full clinical record and long-term recovery absent. |
+| `KNOW-0385` | Sawara reframes trading as work; Momoka acknowledges mismatch and says she quits, also remembering neglected leisure. | C:P76–111. No guaranteed durable exit. |
+| `KNOW-0386` | Momoka reports all trading ended and proceeds spent; others hear; Player offers CM and Momoka requests less work/equal pay. | C:P116–139. No statement, accepted terms or medical clearance. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0581` | Sawara → Momoka, **market talk revised into goal-based intervention** | Explains in-world trading concepts, then names contradiction between avoiding work and collapsing from trade work. A:P36–56,90–98; C:P76–111. Reciprocal `REL-0582`; no legal/medical expertise claim. |
+| `REL-0582` | Momoka → Sawara, **selective attention and accepted reframing** | Takes stock idea, later calls Sawara genius and says she will quit. A:P34–70; C:P98–109. Reciprocal `REL-0581`; no verified account closure until later self-report. |
+| `REL-0583` | Musubi → Momoka, **lesson discipline with health concern** | Stops departures, calls after missed lesson and worries at hospital, later protests spending/avoidance. A:P2–121; C:P1–139. Reciprocal `REL-0584`; no imposed medical plan. |
+| `REL-0584` | Momoka → Musubi, **evasion amid real collapse** | Uses jokes to avoid lessons, does miss one and later invokes illness to resist CM. A:P2–121; C:P1–139. Reciprocal `REL-0583`; real illness not negated by comic evasion. |
+| `REL-0585` | Player → Momoka, **misleading examples, worry and proposed work** | Gives stock/day-trade prompts, accepts her client facts, visits hospital, offers CM after reported exit. A:P43–117; B:P47–75; C:P32–139. Reciprocal `REL-0586`; no verified due diligence or accepted new schedule. |
+| `REL-0586` | Momoka → Player, **opportunistic interpretations and bargaining** | Treats examples as escape, offers client knowledge, calls from hospital and requests light work/equal pay. A:P57–79; B:P53–70; C:P37–139. Reciprocal `REL-0585`; no completed contract. |
+| `REL-0587` | Sumire → Momoka, **consumer cue and concern** | Shares popular perfume, then reports lesson sleep/missing and accompanies hospital visit. B:P14–39; C:P1–70. Reciprocal `REL-0588`; no investment recommendation. |
+| `REL-0588` | Momoka → Sumire, **using taste as a speculative signal** | Asks about perfume and buys by brand, later neglects lesson with Sumire present. B:P16–40; C:P1–31. Reciprocal `REL-0587`; price outcome unknown. |
+
+`T7S_B0148_CLOSE-20260926`: eight actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new medical institution/identity or financial expert route.
