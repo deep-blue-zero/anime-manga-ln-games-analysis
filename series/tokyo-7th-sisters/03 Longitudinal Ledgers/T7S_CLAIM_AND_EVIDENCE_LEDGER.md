@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.4"
+version: "11.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 48 complete i-n-g primary documents / T7S_B0080–T7S_B0103; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 50 complete i-n-g primary documents / T7S_B0080–T7S_B0104; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 506`; `revisions = 42`; `predictions = 7`; `AV_reviews = 50`; `literary_findings = 506`. Claims are bounded to their stated B0001 through B0103 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 24 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 509`; `revisions = 42`; `predictions = 7`; `AV_reviews = 51`; `literary_findings = 509`. Claims are bounded to their stated B0001 through B0104 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 25 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1254,3 +1254,25 @@ Owner and A/B locator key: [B0103](../02%20Readings/T7S_B0103_DEEP_READING.md), 
 - Outcome: `REVIEWED` for selected static and native segmentation. Sixty-two dialogue-associated voice pages plus title cues, all BGM/SFX and the praised solo are unauditioned; performed-solo quality, vocal affect, sound timing and precise dream-cut timing are `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0103_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction or prior claim rewrite, new romance status, specialist or monograph promotion.
+
+## B0104 claims, access and static review
+
+Owner and A/B locator key: [B0104](../02%20Readings/T7S_B0104_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.6. B0039/B0078 are retrospective comparisons; no cross-chapter temporal order is added.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0104-001` | `BOUNDED_INFERENCE`; D1; high | Kazumi resists *required* intimacy as a performance method but authors one specific peer exchange by accepting dinner and choosing idol activity as a topic. | A:P14–34; B:P52–62; `REL-0273`–`0276`. The friend-minded fictional protagonist is not proof she secretly wanted every approach or that solo work was false. |
+| `CL-B0104-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high for breach, moderate for reception | Sincere manuscript praise and a later welcome coexist with a real privacy violation; appreciation does not grant retrospective permission or ownership of Kazumi's writing. | A:P36–41; B:P1–43,52–56; `KNOW-0127`–`0128`. Rona's early protectiveness and Kazumi's eventual effort do not erase the explicit B:P32,37 objections. |
+| `CL-B0104-003` | `THEMATIC_INTERPRETATION`; D1; moderate-high | Rona's move from treating fiction as direct knowledge of Kazumi to requesting more of the created story makes expression a negotiable relation rather than an autobiographical key. | B:P47–66; `THREAD-0046`; `KNOW-0129`. Kazumi still does not endorse Rona's earlier inference; a sequel, general readership and Player access are not shown. |
+
+### AV-0051 — static notebook-scene cues and glasses discrepancy
+
+- Questions/claims: whether sprite presentation depicts the Player's glasses-off compliment, literal manuscript content or the timing of Kazumi's exit; `CL-B0104-001`–`003`.
+- Priority/modality: `AV-B` for image/native-state review; `AV-D` for actor-spoken manuscript and access claims.
+- Selection: exact native-offset composites Kazumi `adv_chara_146_01_01`–`03`, Rona `adv_chara_005_01_09`, Musubi `adv_chara_004_01_05`. All 111 native pages and eight command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-25; source-lock 12.6 binds media receipts.
+- Observed: the three selected Kazumi sprites retain glasses, dark-purple hair, gold hairpins, an orange skirt and a held book/notebook. A:P10 text calls her glasses-off look cool, but that look is not shown by these static sprites. Selected Rona has a worried closed-eye expression; Musubi a stern school-uniform pose. These stills do not depict literal story prose or consent.
+- Native occurrence: command-only A:P0–1,35 and B:P0,21,63,67–68 mark title/subtitle, fades/scene changes, SFX reference and end cards. B:P63 `AutoMoveFrame: 0` does not establish enacted elapsed time or heard sound.
+- Outcome: `REVIEWED` for selected static and native segmentation. Eighty-seven dialogue-associated voice pages plus title cues, all BGM/SFX and any performed quality are unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0104_CLOSE-20260925`: three bounded claims and one AV review; no frozen prediction, prior claim rewrite, inferred romance, specialist or monograph promotion.

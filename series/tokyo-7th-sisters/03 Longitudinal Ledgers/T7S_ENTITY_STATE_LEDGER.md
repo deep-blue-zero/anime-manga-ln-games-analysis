@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.4"
+version: "11.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 48 complete i-n-g primary documents / T7S_B0080–T7S_B0103; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 50 complete i-n-g primary documents / T7S_B0080–T7S_B0104; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 93`; `character_states = 75`; `epistemic_states = 125`; `directional_relationship_states = 272`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0103, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 93`; `character_states = 75`; `epistemic_states = 129`; `directional_relationship_states = 276`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0104, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -1635,7 +1635,7 @@ The [B0102](../02%20Readings/T7S_B0102_DEEP_READING.md) A/B key, witness `T7S_GA
 
 | Existing stable ID | Added local state | Evidence and retained limit |
 | --- | --- | --- |
-| `CHAR-0005` / Musubi | Values effort and collective alignment, objects to Murasaki's readiness to leave, then gives specific timing/weight corrections and welcomes continued joint practice. | A:P2–9,12–33; B:P42–49. Her Hime/Kajika comparison does not establish that labor burdens are interchangeable. |
+| `CHAR-0006` / Musubi | Values effort and collective alignment, objects to Murasaki's readiness to leave, then gives specific timing/weight corrections and welcomes continued joint practice. | A:P2–9,12–33; B:P42–49. Her Hime/Kajika comparison does not establish that labor burdens are interchangeable. |
 | `CHAR-0003` / Coney | Notices Murasaki's self-containment, visits the workplace, narrates a childhood friend's idol difficulty and shared dream, offers group support and oversleeps the following morning. | A:P35–44; B:P2–38,52–55. Her account is not a present-day sighting of Hami or a disclosure of Nicole to Murasaki. |
 | `CHAR-0001` / Player | Struggles to combine a reprimand with respect for family circumstances, then sees improved rehearsal without knowing Coney's intervention; mistakes her one late arrival for simple laxity. | A:P11–20,25,34–36; B:P40,44,50–54. He has Coney's message, not the bar conversation. |
 | `UNIT-0002` / Nanasta | Shared rehearsal receives Murasaki's renewed contribution; Musubi supplies practical correction while Coney promises support. | A:P21–32; B:P29–30,42–50. No standing policy or concrete labor accommodation is enacted. |
@@ -1683,3 +1683,35 @@ All references use the [B0103](../02%20Readings/T7S_B0103_DEEP_READING.md) A/B l
 | `REL-0272` | Player → Makoto, **actor-local/dream-qualified** | Avoids, objects to the restroom intrusion and plans a manager boundary; later dreams of wanting her exclusive gaze. A:P0–57; B:P40–69. Reciprocal `REL-0271`; no delivered boundary, waking romantic assent or actual dependency diagnosis. |
 
 `T7S_B0103_CLOSE-20260925`: two actor-local knowledge states and one reciprocal presentation-qualified pair; annotations to existing Player, Makoto, Coney, Haru, Yumeno and Nanasta records. No new identity, character, unit, readiness or monograph record.
+
+## B0104 private-authorship and peer-access annotations
+
+The [B0104](../02%20Readings/T7S_B0104_DEEP_READING.md) A/B key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.6, binds these chapter-local updates. Existing Kazumi `IDENTITY-0046` and `CHAR-0035`, Rona `CHAR-0008`, Musubi `CHAR-0006`, Player `CHAR-0001`, and Nanasta `UNIT-0002` suffice. The fictional protagonist creates no identity route.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0035` / Kazumi | Defends reflective solo practice, objects to manuscript access without asking and resists reading fiction as autobiography. She accepts specific appreciation, promises to try a continuation and chooses idol activity for a meal conversation. | A:P7–31; B:P22–62. No comprehensive forgiveness, completed sequel, permanent social conversion, romance identity or general reading permission. |
+| `CHAR-0008` / Rona | Initially seeks friendship as a performance aid and tries to shield the found notebook. After warning Musubi, she reads too, praises the novel, overinfers Kazumi's real feelings, then asks for more of Kazumi's created story and invites her to dinner. | A:P14–41; B:P1–62. Her initial protective instinct does not negate her participation in the breach. |
+| `CHAR-0006` / Musubi | Asks to see the notebook, reads despite warning, responds fervently and requests an autograph, then asks for a continuation and joins the meal invitation. | B:P3–20,29–43,53–59. Literary appreciation does not answer Kazumi's objection or establish consent. |
+| `CHAR-0001` / Player | Praises Kazumi's steps, privately wants Rona to break her “wall,” later concludes idols connect through expression and wishes to read the novel. | A:P2–34; B:P64–66. He has not read it; his concluding generalization is not a privacy safeguard or proof the boundary was harmless. |
+| `UNIT-0002` / Nanasta | Rona and Musubi make a peer connection around writing outside managerial direction, but do so through an initial breach; Kazumi's later specific invitation shows selective agency. | B:P1–66. No standing manuscript-access norm, apology procedure or institutional privacy policy is enacted. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0126` | Rona understands Kazumi says friendship is not a prerequisite for performance and recognizes the forgotten named notebook as her written novel. | A:P14–41. She does not thereby know Kazumi's private motives or have reading permission. |
+| `KNOW-0127` | Rona and Musubi know the portion of the manuscript they read and report a dream-seeking, friend-minded protagonist with meetings, partings and love. | B:P10–43. This is reader testimony about fiction, not direct evidence of Kazumi's biography, complete manuscript text or quality of an unheard performance. |
+| `KNOW-0128` | Kazumi learns the peers read without asking and hears their strong admiration; she explicitly identifies the first as unacceptable. | B:P22–56. Her later promise does not revoke that local boundary or grant general access. |
+| `KNOW-0129` | The Player sees the others have gone after his absence, infers expression helped them connect and says he wants to read the novel. | B:P64–66. He does not know its contents or have Kazumi's permission. |
+
+| ID | Direction and boundary | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0273` | Rona → Kazumi, **friendship bid and revised reader request** | Wants closeness, participates in unpermitted reading, praises the manuscript, then requests future created work and dinner. A:P14–34; B:P1–62. Reciprocal `REL-0274`; no unrestricted intimacy or reader entitlement. |
+| `REL-0274` | Kazumi → Rona, **selective response** | Rejects compulsory friendship/performance coupling, protests notebook reading, then accepts the limited writing and dinner invitations with her own topic choice. A:P15–31; B:P25–62. Reciprocal `REL-0273`; no total forgiveness or conversion. |
+| `REL-0275` | Musubi → Kazumi, **admiring but boundary-crossing reader** | Reads despite warning, praises and requests autograph/continuation, then joins dinner. B:P3–20,29–43,53–59. Reciprocal `REL-0276`; no consent for initial reading or future blanket access. |
+| `REL-0276` | Kazumi → Musubi, **objection and bounded inclusion** | Names the reading wrongful, resists the “teacher” pose, then includes Musubi in the specific continuation and conversation opening. B:P32–62. Reciprocal `REL-0275`; no proof the breach is forgiven. |
+
+### B0102 stable-ID correction receipt
+
+The previously committed B0102 actor-local Musubi row used `CHAR-0005` in error. This closeout corrects that row's ID alone to `CHAR-0006`, the existing Musubi state. `CHAR-0005` remains Haru's younger brother. The B0102 row's description, evidence, event/claim IDs and analysis are otherwise unchanged; no new record or reinterpretation is introduced. All other earlier ledger bodies remain byte-preserved.
+
+`T7S_B0104_CLOSE-20260925`: four actor-local knowledge states, two directional relationship pairs and bounded annotations to existing characters/unit; no new identity, character, unit, readiness or monograph record.

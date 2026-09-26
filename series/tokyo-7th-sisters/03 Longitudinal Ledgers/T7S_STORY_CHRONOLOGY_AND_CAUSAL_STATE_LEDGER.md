@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.4"
+version: "11.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 48 complete i-n-g primary documents / T7S_B0080–T7S_B0103; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 50 complete i-n-g primary documents / T7S_B0080–T7S_B0104; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-25
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 351`; `world_state_records = 25`; `thread_records = 45`; `chronology_and_dependency_edges = 311`; `last_closed_block = T7S_B0103`. The admitted horizon contains 283 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 48 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 354`; `world_state_records = 25`; `thread_records = 46`; `chronology_and_dependency_edges = 315`; `last_closed_block = T7S_B0104`. The admitted horizon contains 285 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 50 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -894,3 +894,26 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.5. [B0103](../02%20Readings/T
 | `EDGE-0311` | `EVIDENCE_QUALIFIER` | Explicit waking and the Player's question in `EV-B0103-003` → limit on treating `EV-B0103-001`–`002` as fully objective waking events. The onset and final call remain unresolved. |
 
 `T7S_B0103_CLOSE-20260925`: three presentation-qualified events and three non-temporal edges; existing `THREAD-0019` advanced without a new thread, world state or cross-chapter chronology edge.
+
+## B0104 manuscript access and chosen conversation addition
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.6. [B0104](../02%20Readings/T7S_B0104_DEEP_READING.md) owns the A/B locator key. B0039/B0078 comparisons are retrospective, not cross-chapter time edges. The fictional protagonist is not Kazumi's certified autobiography.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0104-001` | After rehearsal, Kazumi asks to leave for a new book. Rona proposes closeness for better performance; the Player privately wants her to breach Kazumi's “wall.” Kazumi defends an ideal of reflective solo idol practice and leaves; Rona then finds Kazumi's named novel notebook. | A:P2–41; `KNOW-0126`; `REL-0273`–`0274`. The Player's glasses-off compliment is textual, not confirmed by the selected sprite; Kazumi's ideal does not prove permanent social refusal. |
+| `EV-B0104-002` | Rona first tries to protect the misplaced notebook. Musubi reads despite Rona's warning, Rona joins, and both praise the story when Kazumi returns. Kazumi objects to the unpermitted reading; their plot description concerns fiction. | B:P1–43; `KNOW-0127`–`0128`; `REL-0273`–`0276`; `THREAD-0046`. Sincere admiration does not constitute an apology, consent or biography of Kazumi. |
+| `EV-B0104-003` | Kazumi refuses to equate the novel with her own life. Rona asks for more of the created story, Kazumi promises to try, and she accepts dinner with Rona and Musubi while choosing idol activity as a topic. The Player, absent during the exchange, wants to read but has not received access. | B:P44–66; `KNOW-0129`; `REL-0273`–`0276`; `THREAD-0046`; `UNIT-0002` annotation. Neither a completed sequel nor a general readership right follows. |
+
+| ID | State | Evidence and limit |
+| --- | --- | --- |
+| `THREAD-0046` | `OPEN`: Kazumi says she will try to continue an unplanned private novel after Rona and Musubi ask to read more. Their initial access was unpermitted; the future manuscript and its distribution remain Kazumi's choice. | B:P32–37,52–56,66. No completion date, finished novel, publication, broad authorization or Player access. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0312` | `MOTIVATES_SEARCH` | Rona's failed A:P14–34 friendship approach in `EV-B0104-001` → her expressed wish to understand Kazumi, not a license to read the found manuscript. |
+| `EDGE-0313` | `BREACH_AND_RECEPTION` | Unauthorized reading in `EV-B0104-002` → the peers' specific praise and Kazumi's simultaneous objection. Appreciation does not retrospectively erase the breach. |
+| `EDGE-0314` | `REVISES_CLAIM` | Kazumi's fiction/reality warning in `EV-B0104-003` → Rona's shift from inferred inner truth to requesting more of the created story. Kazumi need not endorse Rona's earlier inference. |
+| `EDGE-0315` | `ENABLES_BOUNDED_INVITATION` | Rona and Musubi's appreciation and revised request in `EV-B0104-003` → Kazumi's prospective writing attempt and chosen idol-activity conversation. No unconditional friendship or readership right. |
+
+`T7S_B0104_CLOSE-20260925`: three chapter events, one open authorship/access thread and four chapter-local causal/interpretive edges; no new world state or cross-chapter chronology edge.

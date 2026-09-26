@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.4"
+version: "2.5"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 4/60 blocks; i-n-g coverage is 48/280 episodes across 24 chapters. The next authorized but unread chapter is `300760` / **マイ・ノート、マイ・ラブ** / 桂木カヅミ, episodes `202003501 / 202003502`, assigned B0104.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 5/60 blocks; i-n-g coverage is 50/280 episodes across 25 chapters. The next authorized but unread chapter is `300770` / **シャオ・ハイ・ヌーン** / シャオ・ヘイフォン, episodes `202003601 / 202003602`, assigned B0105.
 
 ## Closed first i-n-g tranche
 
@@ -84,3 +84,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0101](T7S_B0101_DEEP_READING.md) | `300730` / 有栖シラユキ / シラユキ・イン・ワンダーランド | `202003201 / 202003202` | `COMPLETE_BOUNDED` |
 | [T7S_B0102](T7S_B0102_DEEP_READING.md) | `300740` / 越前ムラサキ / グッドナイト・パープル | `202003301 / 202003302` | `COMPLETE_BOUNDED` |
 | [T7S_B0103](T7S_B0103_DEEP_READING.md) | `300750` / 玉坂マコト / ナイトメア・オン・セブンスストリート | `202003401 / 202003402` | `COMPLETE_BOUNDED` |
+| [T7S_B0104](T7S_B0104_DEEP_READING.md) | `300760` / 桂木カヅミ / マイ・ノート、マイ・ラブ | `202003501 / 202003502` | `COMPLETE_BOUNDED` |
