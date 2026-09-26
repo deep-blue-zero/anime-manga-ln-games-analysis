@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -527,3 +527,11 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ALICE ↔ FRIENDS/SENSEI:** Alice names Momoi, Midori, Yuzu, Nel, Sensei and others in fearing future injury, thanks them for shared adventures, and departs with Rio. The farewell expresses attachment and self-sacrifice under pressure, not repudiation of prior friendship or secure consent to halo destruction.
 - **MIDORI/YUZU/SENSEI ↔ ALICE:** Midori invokes her hero sword, Sensei directly asks for discussion rather than unquestioning belief in Rio, and Yuzu remains afraid/help-seeking. The inability to intervene is narrated AMAS restraint, not indifference or a voluntary surrender of their bond.
 - **RIO ↔ SENSEI:** Rio asks the adult to enact her exclusionary risk calculus and offers a future apology if hurt. Sensei's printed objection protects student status but is not accepted. Rio's acknowledgment of adult distress is not a correction of Alice's treatment.
+
+## V002 C002 E011 relationship delta — refusing a coerced ending
+
+- **MOMOI ↔ MIDORI/CLUB:** Momoi's awake return relieves Midori's immediate uncertainty but does not medically certify recovery. Their familiar teasing and Midori's intense response coexist with the new Alice emergency.
+- **MOMOI ↔ ALICE:** Momoi says Rio's classification is secondary to her refusal to lose Alice this way, rejects the farewell as a final ending and initiates retrieval. This is an expressed bond and proposal, not proof the safety question is irrelevant or that reunion has occurred.
+- **NEL ↔ ALICE/MOMOI/C&C:** Nel asks whether Alice understood the threatened halo destruction, refuses a comforting excuse for her own defeat and endorses Momoi's aim. Akane and another C&C voice align; exact Karin/Asuna assent at `u:0087` is attribution-cautioned.
+- **YUZU/MIDORI ↔ ALICE:** Midori asks whether the accusation might be true; Yuzu admits uncertainty but seeks Alice's own account and a conversation with Rio. Doubt does not mean abandonment.
+- **SENSEI ↔ GROUP:** Hare asks for guidance, Momoi asks for help, and Sensei inwardly accepts thinking of a method. No audible promise or enacted rescue is shown.

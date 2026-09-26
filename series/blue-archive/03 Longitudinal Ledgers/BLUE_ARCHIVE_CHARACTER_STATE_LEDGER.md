@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -616,5 +616,15 @@ Totals: 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validate
 - **Rio:** directs Toki and AMAS to take Alice, warns Midori/Yuzu not to move, argues Sensei's adult duty should override feeling, calls care an `エライザ効果`, denies Alice life/student status, and says the sword's shutdown proves her point. These are actions/claims, not proven ontology or proportionate remedy; her later apology offer does not undo the seizure.
 - **Alice:** after Supernova's power goes out, repeats the demon-king/non-life/non-student frame, says she will disappear to protect Sensei, Momoi and friends, and leaves with Rio. Her concern, pain and gratitude are direct. Causation and free, informed consent to destruction are not established under threat and immobilization.
 - **Sensei/Midori/Yuzu:** Sensei's choice asks Alice not to accept Rio's words unquestioningly and to talk; Midori invokes Alice's hero sword; Yuzu warns during the fight. None can stop the departure. Narration confirms local AMAS immobilization; Momoi receives no medical update.
+
+Readiness remains 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E011 delta — Momoi returns and calls for retrieval
+
+- **Momoi:** reappears awake after E008's two-day unconsciousness. Says she feels fully recovered through potion/level-up imagery, not a medical clearance. Admits she does not understand the difficult threat claim but rejects Alice's farewell and calls for bringing her back. This is post-injury agency, not a technical risk verdict.
+- **Nel:** regrets watching Alice taken, refuses teammates' excuse for her failed intervention, asks whether Alice understood halo destruction, and backs Momoi's retrieval call. Her self-account and questions do not prove Toki's general superiority or Alice's consent state.
+- **Akane/Toki:** Akane says Toki was known to exist as Rio-dedicated C&C callsign zero four/bodyguard, yet she first met her at the ambush. This is participant roster knowledge; Toki's private motive and E001 identity are open.
+- **Midori/Yuzu/Hare:** Midori asks if Rio's demon-king label could be true; Yuzu wants to hear Alice and persuade Rio, while Hare asks Sensei how to proceed. These are uncertainty and care, not a settled diagnosis or plan.
+- **Sensei:** choice checks Momoi; Momoi asks for help. The apparent acceptance/planning line at `u:0091` is `心の声`, not secure spoken commitment.
 
 Readiness remains 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

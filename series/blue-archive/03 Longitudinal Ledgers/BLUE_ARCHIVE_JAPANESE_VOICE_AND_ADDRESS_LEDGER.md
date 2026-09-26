@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -935,3 +935,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Alice's `アリスが消えるとします`, `怪我させたくない`, `幸せでした` and repetition of `生命体ではない`/`生徒ではない` show present protection motive and uptake of Rio's frame under coercion, not independently validated identity or unpressured consent.
 - `光の剣はもうない`/`これで証明は終わり` is Rio's rhetorical claim after Sensei inwardly notes Supernova's power loss. The method/permanence is not printed; loss of a hero sign is not proof of ontology.
 - **Quarantine:** `u:0008-0009` prints mode/rough speech on the wrong actors; `u:0053` prints Rio-like halo threat as Alice; `u:0055-0057` prints Midori-like defense as Rio; `u:0070-0072` prints Nel-like rough demands as Toki. Speaker identity at `u:0019` and exact movement mechanics are uncertain. Sensei `心の声` at `u:0011`/`u:0028`/`u:0037`/`u:0062`/`u:0085`/`u:0091` is inward even when apparently answered. Six choice groups are singleton.
+
+## V002 C002 E011 delta — “whatever she is” is an action priority
+
+- Narrated `誘拐され` retrospectively names Rio's taking; `ヘイローを破壊することが目的` repeats her purpose. Neither is a report that destruction occurred. Momoi's `体力も全快`/potion-level metaphors are playful self-report, not medical clearance.
+- Nel's `理解して、納得した上で` asks whether Alice understood/accepted the threat; it supplies no affirmative answer. Akane's `存在は、知っておりました` but `実際に対面したのは初めて` bounds prior Toki acquaintance.
+- Yuzu says `よくわからない` and wants `気持ちを、ちゃんと聞いて、お話したい`. Momoi's `そんな事どうでもいいの` explicitly brackets the `魔王` label to reject this farewell; it is not a claim that safety never matters.
+- `まともなエンディングですらない` is Momoi's story/game-language refusal of forced finality. Nel's `殴り返せばいい`/`取り戻せばいい` is rough action advocacy, not a measured proportionality rule.
+- **Quarantine:** early C&C styles at `u:0004-0006`/`u:0011-0012` shift; `u:0056` Momoi label is Midori-like; `u:0061-0063` and `u:0077-0078` swap roles; `u:0087` Karin label has Asuna-like casual style. Sensei `心の声` at `u:0049`/`u:0090-0091` is unheard. Five choices are singleton.

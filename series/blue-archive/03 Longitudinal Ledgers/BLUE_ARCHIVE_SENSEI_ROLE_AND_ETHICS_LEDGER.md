@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -656,3 +656,7 @@ Sensei hears Rio's public AL-1S/Divi:Sion classification, monitoring-miss admiss
 ## V002 C002 E010 delta — adult-care dispute under failed intervention
 
 Rio appeals to Sensei as an emotion-resistant adult who should act first, then denies Alice's life/student standing and calls Sensei's care `エライザ効果`. These are contested premises of her demand, not a settled description of adult responsibility. Sensei's printed choice objects to hurting a student and `choice:006` urges Alice to discuss rather than swallow Rio's account; neither establishes a technical counterdiagnosis or stops the seizure. `u:0037` and `u:0091` are `心の声` despite apparent replies. Final narration confirms AMAS immobilizes the group until Rio and Alice depart. Sensei is neither sole rescuer nor shown to accept Rio's calculus. Six choices are singleton; no readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E011 delta — asked to help, not author of the coalition
+
+Sensei's choices check Nel's possible injury, recall Rio's `武装`, call for organizing the situation, address Midori and ask Momoi about her body. None resolves origin, consent, medical status or a rescue tactic. Hare asks Sensei what they should do; Momoi independently arrives and initiates retrieving Alice, while Nel/C&C join. Momoi then explicitly asks Sensei for help. `u:0091` prints an apparent yes/plan response as `先生（心の声）`, so it cannot be presented as secure audible promise or operational command. Five choices are singleton. No model/readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

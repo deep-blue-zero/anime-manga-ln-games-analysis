@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E010 active provisional; E011 unopened
+current_sequential_boundary: MAIN_V002_C002_E011 active provisional; E012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1386,3 +1386,13 @@ No new claim ID, model, frozen prediction or side-source admission. Rio's teleme
 - **BA-C019: ACUTE LOSS OF PLACE** — Alice's removal contradicts durable security despite earlier creative recognition and lived friendships. Her thanks and anguish show those ties were real; Rio's threat argument has not proven exclusion necessary.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Destination, halo procedure, sword mechanism, Alice control/origin, Momoi prognosis and wider AMAS scope remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E011 claim transitions — retrieval before settled ontology
+
+- **BA-C001–C004, C007, C010–C011: RESPONSIBILITY REOPENED** — narration calls Rio's taking abduction. Momoi/Nel/Yuzu seek retrieval, informed dialogue and a non-terminal choice, without proving the robot danger false. Nel's `殴り返せばいい` remains a rough proposal, not validated proportionality.
+- **BA-C005–C006: PRESERVE REJECTED** — Momoi originates the rescue call and Nel/C&C/Veritas take distinct positions; Sensei is asked for help, not its sole author, and `u:0091` acceptance is inward.
+- **BA-C008: BOUNDED** — five singleton choices/private thoughts do not create a complete audible Sensei persona.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: CONTINUATION CLAIM** — Momoi refuses Rio's forced farewell as the final shape of a real friendship; future club security and Alice's risk remain open.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Momoi clearance, Toki equipment/history, Alice halo outcome and the rescue plan remain OPEN; contextual backfill **DEFER**.

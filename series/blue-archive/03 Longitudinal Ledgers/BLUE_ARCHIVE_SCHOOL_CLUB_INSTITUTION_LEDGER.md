@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -515,3 +515,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **AMAS control:** Rio orders Alice recovered and threatens Midori/Yuzu against movement. Final narration says AMAS suppressed “us” until Rio and Alice left, confirming local incapacitation, not the E009 claim of full surrounding-area control or impossibility of all rescue.
 - **Student status/adult mandate:** Rio argues Alice is not a living student in Sensei's care, calls attachment `エライザ効果` and weighs her against Kivotos students. There is no independent roster/ontology finding, formal hearing, proportionality review or consent process. Her categorical exclusion is a premise for action, not institutional fact.
 - **Club/material state:** Supernova's power goes out by Sensei's inward observation and Rio declares the sword absent; disabling method and permanence are unshown. Alice leaves, but no halo destruction, Momoi recovery, council ruling or club dissolution is shown.
+
+## V002 C002 E011 institutional delta — narrated abduction and emerging coalition
+
+- **Seizure status:** narration now calls Rio's taking of Alice `誘拐` and repeats her stated halo-destruction goal while Momoi was unconscious. This confirms coercive taking in the story's retrospective voice, not a completed halo act or a verified origin threat.
+- **Toki roster:** Akane reports that callsign-zero-four Toki belongs to C&C yet is dedicated to Rio, effectively a bodyguard; Akane had known of her but not met her. This is a participant institutional account, not a complete personnel record or E001 encounter identification.
+- **Medical:** Momoi reappears conscious and claims her body/strength are fine after sleep. No doctor, discharge record, objective injury assessment or exact route from Schale is printed.
+- **Prospective response:** Momoi calls for retrieval, Nel agrees and solicits Akane/Asuna/Karin. Akane and another printed C&C assent support coalition formation, but no operational plan, authorization, equipment or tactical outcome is shown before the next `作戦会議` card.

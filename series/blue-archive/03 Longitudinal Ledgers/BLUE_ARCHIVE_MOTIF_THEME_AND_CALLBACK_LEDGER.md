@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:010; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:011; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -676,3 +676,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **“Adult” care inverted:** Rio calls Sensei's attachment an `エライザ効果` and demands cold adult judgment. This echoes earlier adult-responsibility claims while replacing uncertain care with a contested categorical exclusion; the comparison does not revise earlier story facts.
 - **Protection as coerced withdrawal:** Alice uses the club's bonds as the reason to vanish, repeating Rio's non-life/non-student frame. Her thanks for adventures preserves the reality of belonging precisely as it is threatened.
 - **The rescue team immobilized:** Nel's defiance and friends' objections do not prevent AMAS/Toki seizure. Narrated helplessness records local failure, not a completed halo destruction or permanent end of the bond.
+
+## V002 C002 E011 motif / callback delta — contesting the ending
+
+- **A game ending refused:** Momoi calls Alice's forced farewell not even a proper `エンディング`. Her familiar game register now names the ethical failure of treating a coerced parting as a settled terminal state.
+- **Potion/level-up return:** after two days unconscious, Momoi portrays herself as fully replenished by sleep and a found potion. The comedy gives her agency back but must not be medicalized into proof of full recovery.
+- **Uncertainty with dialogue:** Midori asks if `魔王` could be true; Yuzu admits she does not know and wants Alice's own feelings heard. This preserves risk inquiry while resisting a unilateral verdict.
+- **C&C reoriented:** Nel's E009 refusal becomes post-defeat retrieval resolve, and Akane reports the previously unknown-to-her-in-person Toki as Rio-dedicated. Formal roster relation and lived team loyalty are not identical.
