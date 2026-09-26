@@ -1136,3 +1136,12 @@ No `BA-C019` is opened. Momoi's lost-coordinate/legend inference remains an acto
 - **BA-C009–C018: PRESERVE / not directly tested** — no warrant to assign Volume 1's institutional actors or ethical outcome to the unknown factory or proposed school-status maneuver.
 
 Do not open `BA-C019` on this single encounter. Classification-versus-belonging is a candidate motif, not a settled claim. `AL-1S`, `アリス`, and student status remain separate. Contextual backfill remains **DEFER**.
+
+## V002 C001 E005 claim transitions — benevolent motive, questionable means
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — care for Yuzu and Alice coexists with an explicit false-member/document plan; Alice's consent to play is not consent to identity registration.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is absent; student creators show ingenuity, poor design, criticism, support and emotional vulnerability, not simple competence or incapacity.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice group.
+- **BA-C009–C018: PRESERVE / no direct generalization** — Millennium club/prize/housing stakes require their own account.
+
+No new claim ID yet. Alice's game response and Yuzu's gratitude complicate a rank-only assessment without certifying product quality or the enrollment plan. Contextual backfill remains **DEFER**.

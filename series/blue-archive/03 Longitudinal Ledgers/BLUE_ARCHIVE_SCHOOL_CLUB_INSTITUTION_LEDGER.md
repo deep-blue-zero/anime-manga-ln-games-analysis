@@ -320,3 +320,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Game Development Club:** Momoi recovers two survival routes, prize or increased membership, and directly invites the newly found girl. Midori identifies a possible Millennium-student `偽装`; no paperwork, admission, membership acceptance, or Yuuka decision occurs here.
 - **GSC/Valkyrie:** possible outside contacts are discussed and deferred in label-corrupt dialogue; neither institution acts. The ethical cost of delay is open.
 - **`AL-1S` / `G.Bible`:** the former is a body marking, not verified school/identity documentation; the latter remains unfound and unlinked to the girl by direct evidence.
+
+## V002 C001 E005 institutional delta — proposed documents, absent registrar
+
+- **Membership/identity route:** Momoi names `学生登録` and `学生証` as intended steps, alongside clothing, a weapon and speech coaching; her late visit finds no one, so no card, registration, weapon or admission is evidenced.
+- **Club refuge:** Momoi reports Yuzu would lose her `居場所` and cannot go back to the dorm if the club closes. This sharpens stakes but is not yet Yuzu's own account or verified school-housing policy.
+- **Product evaluation:** the poorly ranked game itself shows misleading tutorial and convoluted writing; Alice nevertheless completes it and responds positively. Yuuka's ranking evidence is neither wholly disproved nor a monopoly on worth.
+- **Yuzu:** directly introduced as club president, hidden in the locker since the group returned. Her thanks establishes reception, not a formal decision on Alice's membership. GSC, Valkyrie, Yuuka and a registrar do not act in the unit.

@@ -330,3 +330,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **SISTERS ↔ ALICE:** clothing and removal from the robot site are concrete care. Naming is tentatively affirmed; Momoi's subsequent recruitment invitation has no shown informed acceptance. Dependent stranger and potential club resource are simultaneous, ethically unsettled relations.
 - **MOMOI ↔ MIDORI:** they disagree about the newcomer and the proposed false-student route while preserving shared rescue. Corrupt labels prevent precise allocation of every club-room argument.
 - **GROUP ↔ FACTORY/ROBOTS:** robots stop pursuing at its threshold; the gate recognizes Sensei and derives companions' access. No builder, ownership, allegiance, or motive is established.
+
+## V002 C001 E005 relationship delta — critique, teaching, recognition
+
+- **MOMOI ↔ MIDORI:** the sisters disagree about Alice's false-member plan and game quality yet cooperate under a shared concern for Yuzu's club refuge. Midori's participation is not settled agreement with the means.
+- **CLUB ↔ ALICE:** Alice agrees to play, receives guidance, persists through punishing design and gives a positive, tearful response. No informed consent to official club membership or identity work is shown.
+- **YUZU ↔ ALICE:** Yuzu's first direct contact is grateful recognition of the player's words/tears, after hidden observation. This does not reveal why Yuzu hid or establish a prior relationship.
+- **MOMOI/MIDORI ↔ YUZU:** Momoi reports club-loss housing stakes; Yuzu independently shows longing for positive game reception. Neither fact alone certifies the other or supplies Yuzu's full private situation.

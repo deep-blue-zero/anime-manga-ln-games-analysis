@@ -473,3 +473,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Care versus use:** the sisters clothe and shelter Alice before Momoi sees a membership solution. Genuine care is not negated, but her dependence makes recruitment more ethically charged than an ordinary invitation.
 - **Game language tested:** Momoi's RPG-corpse joke and hardware fascination coexist with a vulnerable, possibly artificial person; game framing is not sufficient to explain her status.
 - **Unfound object:** searching for a legendary design shortcut has instead produced a person. The source does not establish that Alice is `G.Bible` or the intended prize.
+
+## V002 C001 E005 motif / callback delta — a difficult game as contact zone
+
+- **Refuge versus disguise:** the club is said to be Yuzu's place; saving it drives a plan to manufacture Alice's student legibility. One person's shelter may risk another's agency.
+- **Critical rating versus witnessed joy:** the game has demonstrable craft flaws, yet Alice's reported fun/replay desire and tears matter deeply to its makers. Quality and received meaning need not collapse into one scale.
+- **Instruction as trap:** B means failure while A progresses; Momoi calls unpredictability romantic, Midori sees unfair design. Alice's retries make play a learning site but not costless pedagogy.
+- **Borrowed speech:** Alice's RPG register expands from machine definitions; imitation can enable contact without yet being authentic self-description.
+- **Hidden president revealed:** Yuzu heard the response from the locker, giving a literal audience to the previously absent stake in club survival. Her motive for hiding remains open.

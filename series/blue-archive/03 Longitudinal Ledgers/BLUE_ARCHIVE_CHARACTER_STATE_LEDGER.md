@@ -349,3 +349,13 @@ Momoi/Midori receive material contextual reconstruction evidence without readine
 - **Yuuka/Yuzu/Himari:** absent; no individual behavioral update. `G.Bible` remains unfound.
 
 Material context-specific reconstruction evidence does not yield a standalone rule or readiness promotion. No frozen prediction exists (`NO_DIAGNOSTIC_OPPORTUNITY`). Scene-1 `u:0006-0008`, `u:0069-0070` and scene-2 `u:0003-0006`, `u:0011-0012`, `u:0016-0025` contain impossible or suspect speaker labels.
+
+## V002 C001 E005 delta — deliberate disguise and a player's reception
+
+- **Momoi:** says club loss would deprive Yuzu of a place and reports she cannot return to the dorm; plans student registration, ID and speech coaching for Alice. Her after-hours visit yields no card. Defends deceptive game design, then values Alice's tears over critics' reviews. Yuzu's housing facts remain Momoi's report.
+- **Midori:** calls the membership scheme `偽装`, sees speech as a detection risk, participates for Yuzu's sake, criticizes the game's misleading tutorial and observes Alice's changing register. Her concern and cooperation coexist.
+- **Alice:** clearly self-designates `アリス`, agrees to *play* despite not fully grasping the surrounding aim, retries after game-over, completes the game with help, borrows RPG register and cries after a positive evaluation. This is no consent to registration and no stable age/personality rule.
+- **Yuzu:** directly appears from the locker, says she was hidden there since the group returned from the ruins, and thanks Alice for saying the game was fun and worth replaying. Her hiding motive/dorm story is not her own testimony here. Initial readiness `UNMODELED`.
+- **Sensei/Yuuka:** absent; no direct behavioral sample or institutional decision.
+
+This is material context/knowledge/relationship evidence but no defensible standalone model or readiness promotion. Extensive role-flipped labels in `u:0013-0019`, `u:0033-0043`, `u:0069-0070`, `u:0090`, `u:0096-0097`, `u:0121-0135` are quarantined. `NO_DIAGNOSTIC_OPPORTUNITY` against frozen predictions.

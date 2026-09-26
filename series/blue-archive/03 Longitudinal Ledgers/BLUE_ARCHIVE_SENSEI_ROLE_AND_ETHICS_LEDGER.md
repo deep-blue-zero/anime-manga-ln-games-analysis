@@ -506,3 +506,9 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - **Care:** Sensei cushions the sisters after the floor drops. Immediate physical protection is observed, not lasting injury, universal self-sacrifice, or retroactive approval of the hazard.
 - **New dependent person:** Sensei's optional questions do not control Alice's naming, custody, or membership. The group's duty of care is complicated by her memory-loss report and the club's recruitment incentive; no informed consent to membership is shown.
 - **Reconstruction:** bounded care context, not a standalone adult model or frozen-prediction success (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E005 delta — no Sensei appearance, continuing care question
+
+- No Sensei line, structural action, or selectable choice is represented. Do not credit Sensei with the ID plan, teaching, or Alice's game response.
+- Alice explicitly agrees to play; this limited consent cannot transfer to the planned registration/ID. The club's benevolent Yuzu motive leaves the newcomer-agency problem unresolved.
+- No new Sensei reconstruction rule or frozen-prediction test arises (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).

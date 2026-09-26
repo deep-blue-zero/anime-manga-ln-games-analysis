@@ -714,3 +714,13 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `回答不可` / `深層意識における第一反応`: identical response after mutually exclusive Sensei questions, supplying no identity or site explanation.
 - `偽装`: Midori's explicit term for the suspected plan to present her as a Millennium student, not a completed fraudulent act.
 - **Attribution quarantine:** scene-1 `u:0006-0008`, `u:0069-0070`; scene-2 `u:0003-0006`, `u:0011-0012`, `u:0016-0025` (and related role-flipped turns) cannot ground precise Momoi/Midori/Alice voice rules. `choice:002` and `choice:003` each have mutually exclusive branches with duplicated convergence lines.
+
+## V002 C001 E005 delta — name, imitation, and role-flipped attribution
+
+- `偽装`, `学生登録`, `学生証`: explicit planned identity work; the only reported ID visit finds nobody, so these are not completed-document terms.
+- `ユズの居場所`: Momoi's refuge claim, not Yuzu's direct housing account.
+- `肯定。本機の名称、アリスです`: secure direct Alice self-designation; a present name, not verified original identity.
+- `Bボタン` / `Aボタン`: literal obedience causes game over; deviation progresses. Midori's critique and Momoi's design ideal differ.
+- `草食系` / `植物人間`: game-text malapropism, not Alice's linguistic error. `勇者よ、汝が同意を求めるならば、私はそれを肯定しよう` is context-borrowed game register.
+- `こ、ろ、し、て……`: comic overload after long play, not secure evidence of enduring self-harm intent.
+- **Attribution quarantine:** `u:0013-0019`, `u:0033-0043`, `u:0069-0070`, `u:0090`, `u:0096-0097`, `u:0121-0135` contain impossible speaker/register pairings. Positive game response is supported by the exchange, tears, and Yuzu's later direct testimony, but these corrupted turns cannot establish precise creator/Alice voice. No Sensei choice group occurs.
