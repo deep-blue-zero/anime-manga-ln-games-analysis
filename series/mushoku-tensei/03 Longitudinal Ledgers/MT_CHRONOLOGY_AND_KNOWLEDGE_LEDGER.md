@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -115,3 +115,36 @@ Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese 
 | `MT-K-024` Palace cause/newcomer | Narrator says monster teleported; Derrick considers conspiracy then receives rescue as answered prayer. Girl is unnamed and white-haired. | `021–022`; no proved divine mechanism, later identity or Rudy knowledge. |
 
 Source-appraisal variation: Rudy first attributes an attack's partial hit to his aim, later considers evasion (`014–015`); retain changed explanation. Ruijerd initially senses fighting, then the party finds six dead veterans; precise opportunity for earlier intervention is not supplied (`015`). Neither licenses an invented rescue choice. V02 source irregularities remain as recorded, not silently repaired.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Chronology | Anchor / order | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-019` | Wenport: Rudeus11 after recent birthday, Eris13; about one year since displacement. | `001`; resolves age at new admission, does not rewrite V03 freeze. |
+| `MT-T-020` | Eye gift → roughly one week calibration → staff-sale encounter; fifteen-day wait before arranged crossing. | `002–005,008`; do not add overlapping summaries as exact calendar. |
+| `MT-T-021` | Port rescue/capture → week of confinement, Geese arrives around fifth day, fire/attack ends detention. | `009–015`; Ruijerd's concurrent rescues/negotiations explain delay. |
+| `MT-T-022` | Three-month rainy-season residence, week/month markers; Eris soon14 at departure. | `016–021`; no subsequent birthday narrated. |
+| `MT-T-023` | Forest road approximately one month, mountain passage three days, then Millis border. | `022`; capital/home not yet reached. |
+| `MT-T-024` | Roxy interlude overlaps port training, leaves after three days; narrator offers longer-stay counterfactual. | `006–007`; narrative order differs from event overlap, not a completed meeting. |
+| `MT-T-025` | Fitts extra returns to catastrophe and approximately the following year; later escape announced. | `023–026`; not simply events after main ending, no completed foreign journey. |
+
+| Knowledge / proposition | Holder / update | Evidence and limit |
+| --- | --- | --- |
+| `MT-K-025` Fare/alternatives | Party learns institutional price; Rudy conceals staff sale, Ruijerd later challenges and changes decision. | `001,005`; anti-terror explanation guessed, no all-party informed consensus. |
+| `MT-K-026` Hitogami/Kishirika | Rudy gets advice, claimed counterfactual and observed eye gift; distrust persists. | `002–003`; useful outcome not proof of benevolent providence or all historical claims. |
+| `MT-K-027` Eye/ability | Practice reveals branching/timing limits; battle reveals interpretation/physical gaps. | `003–004,014`; future sight not omniscience or guaranteed victory. |
+| `MT-K-028` Missed meeting | Roxy holds distorted rumor and fear; reader sees Ruijerd's actual curiosity and overlapping training. | `006–007`; neither knows full near encounter, no message reception by Rudy. |
+| `MT-K-029` Gallus plan | Initial rescue/gratitude story → hostage disclosure and later reconstruction reveal faction sabotage/abduction. | `005,009–015`; initial trust not retroactively informed, alleged buyer identities remain partial. |
+| `MT-K-030` Killing self-account | Rudy claims no previous murderous intent while authorizing killings; reader retains V03 flood preparation. | `009`; personal animus/direct killing distinctions possible but not explicit reconciliation. |
+| `MT-K-031` Arrest/care need | Gyes misreads scene, Gustav doubts and orders no harm, Ruijerd assumes warrior self-sufficiency. | `011–012,019`; reader has disparate access, no blanket innocent-history claim. |
+| `MT-K-032` Boreas labor | Rudy suspects connection between noble demand and household servants but explicitly lacks origins, tells Eris nothing. | `015`; source-grounded suspicion, not established household acquisition history. |
+| `MT-K-033` Ghislaine/family letters | Gyes's childhood account challenged by pupils; Rudy remembers forgotten search/letter plans. | `016,018`; no current Ghislaine encounter or completed family communication. |
+| `MT-K-034` Sacred beast/history | Lakrana translates gratitude and denial of Rudy-as-hero, reports long maturation/world-saving tradition. | `020`; translation/tradition not independently proved prophecy or chronology. |
+| `MT-K-035` Geese/Great Powers | Geese reports party breakup and old Ruijerd rescue; ranking/history supplied by companions. | `022`; unnamed couple remains unnamed; automatic updates only reported. |
+| `MT-K-036` Fitts/rumor | Narrator supplies alias and displacement history; nobles misattribute Eris-tutor biography; identity phrase interrupted. | `023–025`; no explicit earlier name. Boy presentation differs from V03 girl description; do not repair using foreknowledge. |
+| `MT-K-037` Court threat/relief | Reader sees Grabel/Darius planning, Fitts kills attacker, official inquiry fails; nightmares cease afterward. | `024–026`; Rudy knows none of this here, single cause of relief unestablished. |
+
+Appraisal and textual details stay distinct: suspect biography is not a missing source, and roughly timed episodes need not share an exact calendar. V02 source irregularities and earlier knowledge rows remain preserved.

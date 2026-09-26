@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -102,3 +102,29 @@ Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese 
 | `MT-R-038` Institutions/public → party | Guild enables work but polices reporting; extortion exploits violation; guards assign innocence/guilt by age and feared identity. | `007,016–017`; wrongdoing and discriminatory blame both actual dimensions. |
 
 No direct new Sylphie→Rudeus, missing-family reunion or successful Roxy-search event is established. The extra's unnamed arrival supplies no authorized identity shortcut.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / changed options | Observations and limit |
+| --- | --- | --- |
+| `MT-R-039` Rudeus → Ruijerd | Refuses abandonment, proposes costly staff sacrifice in secret, accepts challenged meaning and smuggling revision. | `001,005`; loyalty not complete disclosure. |
+| `MT-R-040` Ruijerd → Rudeus/Eris | Protects gift relationship, changes practical plan, yet assigns warrior independence after capture. | `005,011,019`; care and excessive expectation coexist. |
+| `MT-R-041` Rudeus → Eris | Recognizes effort grievance; supplies unpoliced illness care/restraint then pressures terms; conceals dangerous job. | `004,008–009`; affection/promise not general consent practice. |
+| `MT-R-042` Eris → Rudeus | Voices asymmetry, seeks care, defends against mistreatment and admires teaching. | `004,008,015,018`; limited permission/dependence and retaliation distinguished. |
+| `MT-R-043` Eris → Ghislaine / Gyes | Defends independent mentor loyalty without striking; supplies concrete later learning evidence. | `016,018`; no new present Ghislaine action; Gyes's earlier hurt not erased. |
+| `MT-R-044` Eris ↔ Minitoona/Tersena | Teaches, plays, resists insults, partially limits retaliation; girls initiate reconciliation, mutual tearful farewell. | `018,021`; friendship self-directed, discussion partly inaccessible, no total nonviolence. |
+| `MT-R-045` Roxy ↔ Elinalise/Talhand | Shared search, care, incompatible priorities and errors shape route/missed contact. | `006–007`; Roxy own damage/omission retained, others' reported curse/history not disproved by her appraisal. |
+| `MT-R-046` Rudeus/Ruijerd → captives | Healing/release/protection joined to killing, gratitude demand and missing aftercare plan. | `009–011`; beneficiaries' thanks not full assessment of means. |
+| `MT-R-047` Gyes/Lakrana → Rudeus | Mistaken coercion → apology, gratitude/hospitality; Gyes later enforces daughter's boundary. | `011–012,015,018,020`; different episodes have different factual grounds. |
+| `MT-R-048` Rudeus → village | Resentment yields to immediate rescue and chosen aid; later asks consent for paid guard work. | `013,015,017`; civic help not personal innocence or universal self-sacrifice. |
+| `MT-R-049` Geese → Rudeus/party | Vest, tactical aid, cooking and social negotiation secure temporary companionship. | `012,014,022`; not permanent party entry, old biography attributed. |
+| `MT-R-050` Rudeus → Geese | Performance shifts to gratitude, suspicion/resentment partly recognized, advocacy for teaching Eris. | `012,022`; genuine debt does not authenticate every report. |
+| `MT-R-051` Geese → Eris | Refuses requested cooking instruction using superstition arising from reported loss. | `022`; combat-only explanation withdrawn, personal pain does not prove causal rule. |
+| `MT-R-052` Sacred beast ↔ Rudeus | Independent combat help, translated food provision and everyday affection; Rudy adjusts expectations of child understanding. | `014,020`; no hero prophecy confirmed or complete understanding presumed. |
+| `MT-R-053` Ariel → Fitts / Fitts → Ariel | Shelter/search bargain and political use, coercive teasing then shared comfort; fearful service develops chosen renewed defense. | `023–026`; hoped unconditional acceptance untested, care does not erase dependence. |
+| `MT-R-054` Luke → Fitts / court → trio | Luke offers practical comfort/help but fails ally during unwanted invitation; gossip becomes strength recognition after attack. | `023–026`; recognition does not end danger or establish fair hierarchy. |
+
+Missing-family/Sylphie relationships receive no invented current events. Boreas servitude is now questioned, not established as uniformly supplied by abduction. The extra's alias remains separate from any unverified earlier name.

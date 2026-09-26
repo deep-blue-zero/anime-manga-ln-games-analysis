@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -112,3 +112,38 @@ Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese 
 **`MT-NC-010`:** N023 versus N031: voluntary restraint and outside containment must not be credited to the same internal change mechanism; affected person's labor and continuing refusal remain visible. C002/C012.
 
 **`MT-NC-011`:** N026/N030/N032: actual beneficial service, threatening identity performance and agreed duels produce different recognition. No pure hair-only experiment and no need to erase misconduct to condemn group persecution.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Event / observations | Conduct, capacity/power, access, tone and consequence | Analyst criterion / strongest qualification |
+| --- | --- | --- |
+| `MT-N-035` / `001,005` | Eleven-year-old Rudy's secret gift sacrifice challenged by protector; shared reasons change plan, Eris absent. | Informed agency: self-sacrifice can disregard others' stakes; correction real, transparency incomplete. |
+| `MT-N-036` / `002` | Intrusion on Kishirika protested; extraordinary gift delivered painfully without Rudy's understood agreement; comic/toughness framing. | Bodily autonomy: help/reward not permission. Apparent age and reported biography distinct; non-graphic account only. |
+| `MT-N-037` / `003–004` | Immediate stranger rescue, practice and sparring; teacher uses defeat to check pride, Eris voices unequal effort. | Attentive aid/pedagogy: real help, contested timing, gift and effort both causal; no guaranteed repair. |
+| `MT-N-038` / `006–007` | Roxy search with fallible fear, companion diversion, destructive interruption/repair and omitted requests. | Responsibility proportional to each actual choice; no single-person blame or invented search success. |
+| `MT-N-039` / `008` | Rudy11/Eris13; unpoliced illness restraint with promise/trust, then pressure over dependent care and limited permission. | Autonomy: actual restraint credited; later pressure not freely expanded blanket consent. Fantasy/comedy centers his struggle. |
+| `MT-N-040` / `009–010` | Children rescued/healed, captors killed with Rudy's agreement/no-escape instruction; personal nonkilling self-account. | Proportionate force: rescuer's good purpose does not prove every killing necessary; delegated violence not innocence. |
+| `MT-N-041` / `010,021` | Injured children receive practical help but gratitude demanded, gendered pain standard and sexualized appraisal; later spontaneous thanks. | Attentive noncoercive care: benefits real, consent/gratitude not interchangeable, visual inference no forensic finding. |
+| `MT-N-042` / `011–012,019` | False arrest/mistreatment, failed hearing, comic jail advertisement; Ruijerd assumes warrior self-care; elder disputes. | Fair hearing/care: false accusation wrong despite prior collaboration; competence assumption not proof of actual capacity. |
+| `MT-N-043` / `013–014` | Fire escape interrupted by immediate rescue, resentment subordinated, cooperative survival; allies killed, Gallus captured alive. | Preventable-harm/aid: unlike V03 no deliberate rescue delay; reward talk does not erase sequence. Victory not sole achievement or cancellation. |
+| `MT-N-044` / `015` | Abduction market, treaty breach/bribery reports, formal apology and Eris retaliation; Boreas link suspected only. | Anti-coercion/proportionality: system matters; apology not full repair, harmful prior response not license for unlimited revenge. |
+| `MT-N-045` / `016,021` | Eris holds back from striking Gyes; later partly moderates fight with younger friend and reconciles. | Proportionate response: distinct relation-conditioned restraint, no general nonviolence; partial friend account acknowledged. |
+| `MT-N-046` / `017–020` | Asked-for village assistance, daily rescues, respect for pupil's teaching paired with voyeuristic concealment stopped by father. | Credit actual service/agency; external restraint not internal reform. False earlier accusation distinct from legitimate new privacy concern. |
+| `MT-N-047` / `022` | Geese helps with vest/skill yet refuses Eris teaching based on reported old loss; care and exclusion. | Fair opportunity: grief explains superstition, not proof that teaching causes ruin. His own labor insecurity has independent stakes. |
+| `MT-N-048` / `023–025` | Fitts about10, dependent displaced subordinate; Luke comforts, Ariel sexualized pressure explicitly difficult to refuse, then genuine shared comfort. | Autonomy: withdrawing as joke does not erase pressure; later comfort neither false nor evidence pressure necessary. Fitts's hope not tested guarantee. |
+| `MT-N-049` / `024,026` | Enslaved young-presenting assassin exploited by Darius then sent to kill; Fitts lethal defense, injury/self-aid, status gain and ongoing attacks. | Slavery defeats inference of consent from acquiescence; exact assassin age unverified. Defense necessity differs from captive execution, no universal violence endorsement. |
+
+**`MT-NC-012`:** N016/N023/N031 → N039/N046: new comparable unpoliced restraint, then pressure and external privacy enforcement. Real local change, incomplete transfer; C002/model005.
+
+**`MT-NC-013`:** N027 → N037/N041/N043: engineered rescue delay, immediate aid and explicit gratitude demand coexist across different situations. Motive vocabulary alone cannot classify causal action; C011/model003.
+
+**`MT-NC-014`:** N029 → N040/N042: prepared V03 flood, V04 denial of murderous intent, delegated killing and unexecuted jail escape thoughts differ. Preserve tension rather than adding completed violence or innocence.
+
+**`MT-NC-015`:** N030/N035/N042/N048: supportive reliance can ease burden or impose it through warrior expectations and patron dependency. Distinct powers/ages/urgencies preclude exact equivalence; C012/C013.
+
+**`MT-NC-016`:** N022 → N045: Eris's excessive retaliation compared with nonviolent mentor defense and partly moderated peer fight. Changed relation and actual actions matter; not all violence gone.
+
+**`MT-NC-017`:** N016/N017/N039/N048: unwanted conduct, limited permission and dependent care recur across actors; affected-person access and comic framing differ. Neither gender nor protagonist status supplies a different consent rule. No overall endorsement or audience-effect claim.

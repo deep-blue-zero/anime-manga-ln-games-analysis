@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -105,3 +105,28 @@ Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese 
 | `MT-W-008` NEW | Migurd telepathy report explains Roxy exclusion; mixed-species village/town practices require translation and local learning. | `003,005,019–020`; no universal cultural claim or species psychology. |
 
 Targeted V03 review adds the living bounded Rudeus model and C011/C012; these ledger homes remain sufficient for broader thematic questions. Monograph and separate specialists not yet promoted. No textual-history comparison, adaptation or reception lane opened. Cumulative V05 review remains pending.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Pattern / transition | Mechanism through V04 | Observations / limit |
+| --- | --- | --- |
+| `MT-F-001/009` STRENGTHEN | Roxy's repeated training scene, Ruijerd's capture judgment and palace access correct partial accounts. | `006–007,011,019,023–026`; new viewpoint not every belief true. |
+| `MT-F-002/007` REVISE | Deferred crossing, slow combat forecasts, day-counted prison and week/month rain routine; extra overlaps earlier story time. | `001–003,008–026`; list/rank is not complete understanding. |
+| `MT-F-003` REVISE | Tariff, sea, jail, rain and road regulate passage through different material and institutional constraints. | `001,008–015,022`; mobility not full freedom or arrival home. |
+| `MT-F-004/005` STRENGTHEN | Eye practice, prior barrier/weather instruction, triage, clothing, cooking and peer teaching make distributed labor causal. | `003–005,008–010,013–014,017–018,022`; exceptional power retained. |
+| `MT-F-006` REVISE | Merlin conflict, prison performance, crying Eris and comic cooking refusal organize different attention; care follows coercive teasing in extra. | `008,012,016,022,025`; not interchangeable tonal effects or universal audience responses. |
+| `MT-F-008` STRENGTHEN | Rumor, false noble biography, self-assigned hero name and family memory shape recognition. | `001,006–007,014–016,023`; true fragments can produce false attribution. |
+| `MT-F-010/011` REVISE | Announced options conceal a sacrifice; inconvenient advice corrects it; village consultation changes action. | `001,005,017`; retained secrecy and excessive trust limit process. |
+| `MT-F-012` REVISE | Immediate rescue precedes favor language; demanded and spontaneous gratitude differ; animal thanks lack full comprehension. | `003,010,013,020–022`; no gratitude-as-absolution rule. |
+| `MT-F-013` NEW | Usefulness distributes belonging and care burdens: Geese's lost niche, Eris's desired work, warrior independence, Fitts's fear. | `018–022,024–025`; C013 working cross-context theme, gifts/care qualify exclusivity; specialist decision V05. |
+| `MT-F-014` NEW | Bracketed foresight separates sensing a motion, interpreting it and acting within bodily time. | `003–004,014`; formal device produces suspense despite predictive power, not infallibility. |
+| `MT-W-001/005` REVISE | Foresight, sound-magic imitation, combat roles and named styles have demonstrated local limits; Great Powers report is historically qualified. | `002–004,011,014,017,022`; no verified universal hierarchy/mechanism. |
+| `MT-W-003/008` REVISE | Ethnic fare exclusion, fear-driven near miss, local language and contextual customs constrain cooperation. | `001,006–007,010–011,017,022`; individual exception not prejudice cured. |
+| `MT-W-006` REVISE | Search routes miss; Fitts's displaced service adds a survivor history without message transfer to Rudy. | `006–007,023–026`; cause/fates and alias identity remain bounded. |
+| `MT-W-009` NEW | Seasonal ecology, smuggling factions, noble demand, treaty and port officials link movement to abducted labor. | `008–015,022`; specific treaty not universal abolition, Boreas origins suspicion only. |
+| `MT-W-010` NEW | Court patronage places supporters in armed institutions; class rumor, legal pardon and obstructed inquiry shape survival. | `023–026`; represented strategy not success of future reign or complete political system. |
+
+Existing ledger homes remain sufficient; C013 and the Eris model add bounded responsibilities without new comparison/reception lanes. V05 checkpoint must examine whether usefulness/belonging or viewpoint merits an independent specialist, with source-grounded scope rather than predetermined themes.

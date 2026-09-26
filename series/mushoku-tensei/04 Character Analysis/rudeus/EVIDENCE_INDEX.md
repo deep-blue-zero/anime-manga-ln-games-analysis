@@ -1,18 +1,18 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V03"
+title: "Rudeus — reconstruction evidence routes through V04"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "687a13ac1a661270ab566c9e1a6028acd607d846"
-source_boundary: "Japanese LN V01–V03; curated index for first bounded Rudeus model, publication/audit separate."
+basis_commit: "56e1daa4bdc287cb9f2f3e4abbbea30be494628d"
+source_boundary: "Japanese LN V01–V04; retained V03 routes plus V04 model revision, publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
@@ -34,3 +34,19 @@ This index maps rules to canonical observations; it owns no source transcript or
 Full meanings and revision histories reside in the [claims](../../03%20Longitudinal%20Ledgers/MT_CLAIMS_AND_REVISIONS_LEDGER.md), [state](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md), [relationship](../../03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md), [normative](../../03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md), [knowledge](../../03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md) and [form](../../03%20Longitudinal%20Ledgers/MT_FORM_THEMES_AND_WORLD_LEDGER.md) ledgers. Source hashes, paragraph-map identity and coverage are owned by the [source lock](../../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md).
 
 No claimed holdout is clean of prior franchise exposure. V03 observations are newly inspected primary evidence, but the model is fitted after inspection. Generated examples, future identities and external summaries are excluded. Monograph and optional focused state history are not yet created; the shared ledger remains the sole owner of observed state chronology.
+
+## V04 additions for revision1.1
+
+Numbers resolve in [V04](../../02%20Sequential%20Readings/MT_V04_DEEP_READING.md); the earlier table remains the V03 input routes, not the current evidence ceiling.
+
+| Rules / checks | V04 observations | Material constraint / topical route |
+| --- | --- | --- |
+| 001/002; V06 | 001,003–004,008,010,014,017–018,022 | Gift/practice, failed interpretation, complementary skills and respect for Eris's teaching; S033/S036–037/C001/C008. |
+| 003; V07 | 003,005,009–010,013 | Immediate aid precedes motive shorthand, while secrecy and demanded gratitude persist; CR037/NC013. |
+| 004; V08 | 001–002,011–012 | Ridicule does not automatically disable; captivity still matters; S035/N042. |
+| 005; V09 | 004–005,008,018,021 | Unpoliced restraint versus pressure and external enforcement; S034/N039/N046/NC012. |
+| 006; V11 | 009,012–014 | Different threats/plans and participated violence; no executed arson or innocence fiction; K030/N040/NC014. |
+| 007/008; V10 | 001,005,011,017,019,022 | Costly correction, selective consultation and burdens of trust; CR038/R039–040/NC015. |
+| 009 / ordinary register | 012,014,018,020,022 | Comic hierarchy, identity performance, care and mild resentment; F008/F010/F013. |
+
+Later-source checks followed a frozen V03 rule set, but no specific outcome prediction or clean holdout is claimed. The model, not this index, owns the changed operational scope.

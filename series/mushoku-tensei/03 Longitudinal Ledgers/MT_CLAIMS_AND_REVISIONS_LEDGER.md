@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V03 only; prior history preserved, V03 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V04 only; prior history preserved, V04 candidate updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -91,3 +91,25 @@ Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese 
 | `MT-CR-027` / `MT-C-012` | New: reciprocal reliance and consultation reduce private decision burden, imperfectly. | OPEN; `018–020`. Useful contribution immediate; secrecy, leader authority and outside enforcement qualify it. | Moderate process claim. Test inconvenient dissent and pre-harm consultation; model007–008/state/relationship. |
 
 The V03 checkpoint activates a bounded living Rudeus model with retrospective contrast tests. No unregistered question becomes a prediction success. No model is DOMAIN_READY. V05 cumulative review remains due.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Revision / claim | Prior → current formulation | Transition / source / strongest qualification | Test and dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-028` / `MT-C-001` | Selective supported competence → gifts, practice, interpretation and complementary roles jointly matter. | STRENGTHEN; `001,003–005,008,010,013–014,017,022,026`; extraordinary aptitude real, not universally sufficient. | High bounded inference; new task/support contrast; state/form/models. |
+| `MT-CR-029` / `MT-C-002` | Actual restraint with recurring misconduct → new unpoliced restraint/immediate help, later pressure and intrusion. | STRENGTHEN; `008–010,013,018,021,025`; care neither cancels harm nor becomes fictitious because harm persists. | High; comparable unpoliced transfer; normative/relationships/model005. |
+| `MT-CR-030` / `MT-C-003` | Fallible perspectives → corrections include self-inconsistency, mistaken benevolent trust and hopeful dependency judgment. | STRENGTHEN; `006–007,009,011–012,019–020,023–026`; independent narration may establish local facts, not every motive. | High; holder/proposition audit; form/knowledge. |
+| `MT-CR-031` / `MT-C-004,005` | V01 findings → unchanged historical formulation. | PRESERVE; no direct new affected-person account of those original events. | No-material revision; comparisons retained separately. |
+| `MT-CR-032` / `MT-C-006` | Job benefits without necessity proof → remains bounded. | PRESERVE; new uses of teaching not controlled counterfactual; unresolved alias not Sylphie outcome evidence. | Necessity unresolved; state/knowledge. |
+| `MT-CR-033` / `MT-C-007` | Independent aims → substantial peer world, Roxy search, Geese work and court agency. | STRENGTHEN; `006–007,016–026`; limited access to captives/assassin/absent people still matters. | High; ordinary choices beyond protagonist utility; Eris model/state/relations/form. |
+| `MT-CR-034` / `MT-C-008` | Task/learner fit → also access to instruction and socially valued work. | REVISE; `003–006,016–018,021–023`; Geese refuses instruction, anatomy limits imitation, Eris initiates teaching. | High; new learner/teacher contexts; models/state/form. |
+| `MT-CR-035` / `MT-C-009` | Accounts distribute access/blame → recognition can also impose burdens or fail against institutional barriers. | STRENGTHEN; `001,005–007,011,014–016,019,022–026`; actual goodwill remains real. | High; whether informed recognition changes constraints; all topical homes. |
+| `MT-CR-036` / `MT-C-010` | Destinations known, causes/fates open → expanded dispersed survivor histories, continued failed information transfer. | REVISE; `006–007,015–016,023–026`; future court escape announced not completed, no Rudy reunion/message. | High local observation; track actual reception; chronology/form. |
+| `MT-CR-037` / `MT-C-011` | Gratitude optimization can narrow rescue attention → reward wording alone cannot identify delayed-help mechanism. | REVISE; `003,009–010,013–014`; immediate fire rescue is countercase, explicit gratitude demand persists. | High; compare sequence before motive shorthand; model003/normative. |
+| `MT-CR-038` / `MT-C-012` | Reliance/consultation reduce burden imperfectly → can also transfer burden through miscalibrated trust/dependency. | REVISE; `005,011–014,017–022,024–026`; actual corrected choices prevent an all-coercion reading. | Strong bounded inference; costly disclosure/expressed needs; models/relations/state. |
+| `MT-CR-039` / `MT-C-013` | New: perceived usefulness distributes belonging and obligation, sometimes narrowing choice. | OPEN; `018–022,024–025`; Geese's lost role, Eris's desired task, warrior expectations and Fitts's fear; voluntary gifts/care challenge exclusively transactional account. | Moderate cross-context thematic inference. Test affection/help independent of performance; existing ledgers sufficient, specialist review V05. |
+
+V04 checks interrogate previously fixed model rules, but no outcome prediction was registered and prior familiarity remains. New Eris model is retrospectively fitted. V05 cumulative checkpoint must assess V01–V05 and artifact responsibilities, not just count supportive rows.
