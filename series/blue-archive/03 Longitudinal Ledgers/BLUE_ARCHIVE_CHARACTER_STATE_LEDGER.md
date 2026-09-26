@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -465,3 +465,13 @@ Karin and Asuna enter coverage as `UNMODELED` on distinct direct role choices, s
 - **Sensei:** receives Momoi's apology and may encourage or apologize for limited power; Yuuka plans a formal protest. The alternatives are not cumulative choices or proof of personal culpability.
 
 No new indexed subject or readiness change (sixteen `PARTIAL_MODEL`, twenty `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine scene 3 `u:0003-0014`, scene 5 `u:0012-0013`, scene 8 `u:0002-0023`; retain choice branches for scene 7 `u:0035-0040`.
+
+## V002 C001 E016 delta — Mirror possession, Nel encounter and Yuzu's diversion
+
+- **Alice:** confirms she physically holds `鏡`, identifies fear for the first time while hiding from Nel and estimates a near-zero chance of winning an immediate fight. She volunteers to cover the rear. The estimate is subjective/situated, and Mirror's technical function and safe extraction remain untested.
+- **Yuzu:** faces Nel, claims the false identity of Seminar's `ユズキ` and a false berserk-robot emergency, diverting her from the hiding party. She later says she feared dying and is glad to have helped. This directly performs her earlier rescue commitment, but one deceptive high-pressure act is not a cross-context courage model.
+- **Nel:** returns to the store, nearly locates the group and accepts Yuzu's apparent emergency. She securely says combat requires `度胸` more than weapon or experience and sees potential in Yuzu. Her return reason and exact later personalized praise are unavailable; enter as `UNMODELED`.
+- **Momoi/Midori:** hide from Nel, then Momoi urges quick departure and Midori states the task is incomplete and begins another fight. Neither the safe return nor `G.Bible` unlock is shown.
+- **Sensei:** is present and asked for direction, but the only printed reply is `先生（心の声）`, not secure audible command or choice.
+
+Readiness is sixteen `PARTIAL_MODEL`, twenty-one `UNMODELED`; no standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine scene 1 `u:0006-0019` (all-Alice labels) and `u:0069-0076` (Yuzu/Nel role flips).

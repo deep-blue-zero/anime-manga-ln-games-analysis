@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -409,3 +409,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Alice room/EMP:** Alice reads the power event and Hare's hacked-setting change as permission to manipulate electronic doors and escapes toward the store, then returns to companions. This confirms mobility/agency and planned cue awareness, not exact technical trace or prior consent details.
 - **Discipline:** Yuuka threatens unconditional one-week suspension or confinement, which Midori says would miss Millennium Prize, and a Schale complaint for Sensei. Threats are not final sanctions. Momoi's imagined mild `謹慎` fallback is exposed as ungrounded.
 - **Beam/result:** a beam from unlabeled firing narration, strongly associated with Alice's return/railgun, disables Asuna and nearly half the robots by Yuuka/Asuna reports. Akane prepares another fight; Mirror, file unlock and prize outcome remain absent. Rooftop Karin/Utaha voice corruption precludes person-specific motive claims.
+
+## V002 C001 E016 institutional delta — seizure breached, objective not reached
+
+- **Store/Mirror:** the group reaches the damaged seized-goods room; the early all-Alice-labeled discovery cluster has no secure finder. Yuzu's later question and Alice's answer confirm Alice physically holds `鏡`. This resolves retrieval/possession only, not removal from the building, authorization or a working `G.Bible` bypass.
+- **Nel/C&C:** Nel appears at the store despite E012's report that she was away. The return cause is not shown. Her near-discovery makes the store actively defended even after Alice's beam and the earlier system compromise.
+- **False emergency:** Yuzu presents herself as Seminar's `ユズキ` and claims seized robots are berserk while Akane/Karin contain them. This is a cover story to move Nel, not verified student-council membership or robot malfunction. The E015 robot retask remains the known prior account.
+- **Remaining route:** Yuzu warns of combat robots ahead, states Veritas room and `G.Bible` as destination and objective, and Midori calls for battle. The file is still locked/unread and extraction, sanction and contest outcome remain open.

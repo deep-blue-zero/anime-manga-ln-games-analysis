@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -561,3 +561,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Captured companion becomes agent:** Alice uses the planned power/hack cue to leave the room and chooses comrades over a solo rush to Mirror. The RPG party principle moves from E012 declaration toward an observed choice, without erasing the earlier custody cost.
 - **Adult limits named openly:** Sensei may urge persistence or apologize for insufficient power; Yuuka may protest to Schale. This reprises agency-preserving adult help under external accountability, not teacher omnipotence or automatic guilt.
 - **Spectacle and attribution:** one beam reverses the local balance and disables Asuna/robots by report, yet its shooter lines are unlabeled; the rooftop “club” defense dialogue is label-flipped. Narrative payoff cannot justify laundering uncertain person motives.
+
+## V002 C001 E016 motif / callback delta — found means, unfinished end
+
+- **The object is not the answer:** Mirror moves from seized target to Alice's hand, but Yuzu explicitly says `G.Bible` is the purpose. A possession payoff does not deliver password access, creative method or the game itself.
+- **Rescue by frightened action:** Yuzu's earlier shared-room resolve and Alice-rescue promise become a real intervention before Nel. Her fear remains present; `度胸` is demonstrated as acting amid fear, not absence of fear or a battle win.
+- **A defender diverted by a safety story:** Yuzu protects the hidden party through a false emergency; Nel responds to what she takes as a containment need. Care/role language operates on both sides of the deception and does not make the raid's authority settled.
+- **Heroic claim versus measured threat:** Alice calls Mirror world-saving while privately estimating almost no chance against Nel. RPG-scale speech and immediate vulnerability coexist; neither should overwrite the other.
+- **Collective safe return as an unspoken wish:** Sensei's internal hope is followed by the students' movement toward more robots. The callback is an ethical desire, not a guaranteed outcome or a spoken adult command.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -416,3 +416,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **YUUKA ↔ CLUB/SENSEI:** Yuuka names formal suspension/confinement and a possible Schale complaint, instead of Momoi's imagined mild room restriction. Her opposition is an institutional accountability act, with adjudication unshown.
 - **ASUNA ↔ TWINS/C&C:** Asuna privately admires the twins' teamwork while opposing their escape; later reports severe hit effects, with Akane checking and protecting her. Adversarial respect and physical vulnerability coexist.
 - **KARIN ↔ UTAHA/HIBIKI/AKANE:** rooftop contact and interruption of Karin's support persist, but scene 3/8 labels flip too extensively to assign a club-belonging argument or junior's motive to either rooftop speaker. External Akane/Hare reports support tactical consequence only.
+
+## V002 C001 E016 relationship delta — a threatened party is protected by Yuzu
+
+- **YUZU ↔ ALICE/MOMOI/MIDORI/SENSEI:** Yuzu knowingly steps before Nel and uses a false council identity/emergency to redirect her. The group survives the immediate hiding crisis, and Yuzu says she is glad to help. E013's rescue promise now has performed protection, not yet safe extraction or a proof she is generally fearless.
+- **NEL ↔ YUZU:** Nel responds to an apparent colleague and articulates `度胸` as a combat value. Their encounter is based on Yuzu's deception; it is not a verified new friendship or proof Nel knows her real affiliation. Personalized praise/farewell labels later flip and are not person-voice evidence.
+- **ALICE ↔ PARTY:** Alice holds Mirror, but Yuzu insists `G.Bible` remains the aim; Alice offers rearguard coverage and the twins move toward another fight. Fellowship continues as distributed work under danger, not achieved rescue.
+- **SENSEI ↔ PARTY:** Momoi seeks advice while hidden and Alice later asks for direction. Sensei's only printed response is internal thought wishing for everyone's safe return; do not convert it to a spoken order.

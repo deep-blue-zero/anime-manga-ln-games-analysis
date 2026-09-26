@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -818,3 +818,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Alice's `EMP発動`/`ハレ先輩のハッキング` and `アリス、脱出します` are her direct plan interpretation and decision. Her `仲間のことを諦めたりしませんでした` links game wording to the actual return, not blanket proof of prior decoy consent.
 - `魔力充電、100%`/`光よ` occur in unlabeled narration before a beam; Alice is the strong contextual attribution, not explicitly printed as shooter. Yuuka's `半分近く` is an effect estimate.
 - Sensei `choice:001` offers `諦めないで` or self-blame; scene 7 `u:0035-0040` are route-conditioned reactions. **Attribution quarantine:** scene 3 `u:0003-0014` and scene 8 `u:0002-0023` contain extensive Karin/Utaha role flips; do not mine them for individual club-value or junior-care voice.
+
+## V002 C001 E016 delta — courage, false register and private teacher line
+
+- Alice's internal `恐怖……初めての感情` and `成功確率……ほぼ0%` name a new subjective state and immediate danger forecast, not a calibrated global inability. Her later `人類と世界を救う` is heroic framing of Mirror, not technical verification.
+- Yuzu says `生徒会「セミナー」所属の、ユズキ` and `戦闘ロボットが暴走` as a disguise/cover. These statements must not enter her factual affiliation or the robot ledger as true. Her `目的は「鏡」じゃなくて……「G.Bible」` securely distinguishes means from goal.
+- Nel's securely labeled `戦闘で一番大事なのは、武器でも経験でもねぇ` / `度胸だ` expresses her local combat criterion. Later first-person `あたし`/personalized praise appears under Yuzu labels and cannot be mined as a clean Nel voice sample without silently repairing the source.
+- Hare's message terminates in corrupt symbols; do not reconstruct its final instruction. Sensei `先生（心の声）` is not an audible command. **Attribution quarantine:** scene 1 `u:0006-0019` all labeled Alice despite multiple voices, and `u:0069-0076` flips Yuzu/Nel and self-addresses Yuzu.

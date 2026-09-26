@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:015; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:016; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E015 active provisional; E016 unopened
+current_sequential_boundary: MAIN_V002_C001_E016 active provisional; E017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1235,3 +1235,12 @@ No `BA-C019` is opened. E013's trapped-Akane state is revised by her direct expl
 - **BA-C009–C018: PRESERVE / no direct global test** — this Millennium sanction/security episode supplies no Abydos/Kaiser revision.
 
 No `BA-C019` is opened. Alice's escape/reunion is represented, but the unlabeled beam attribution is inferential, the rooftop debate has role-flipped labels, and Mirror, discipline, combat outcome and `G.Bible` remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E016 claim transitions — intermediate possession, continued exposure
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — the coalition now holds Mirror, while Nel nearly discovers them and robots still block the Veritas route. Yuzu's false emergency protects companions but incurs an authority/truthfulness cost; neither goal possession nor a rescue motive settles the raid's legitimacy or proportionality.
+- **BA-C005–C006: PRESERVE REJECTED** — Alice identifies fear and chooses rearguard work, Yuzu redirects Nel, Nel responds from limited knowledge, and the twins coordinate continuation. No single all-knowing adult solves the event.
+- **BA-C008: LIMITED TEST / PRESERVE** — Sensei is asked for direction but the printed response is `先生（心の声）`. There is no secure audible order, new branch or demonstrated student obedience to score.
+- **BA-C009–C018: PRESERVE / no direct global test** — the Millennium seizure and diversion do not revise Abydos/Kaiser mechanisms.
+
+No `BA-C019` is opened. Mirror possession is now observed, but the all-Alice discovery cluster does not identify the finder, Yuzu's berserk-robot claim is cover, later Yuzu/Nel labels flip, and escape, bypass, sanction and `G.Bible` contents remain OPEN. Contextual backfill remains **DEFER**.
