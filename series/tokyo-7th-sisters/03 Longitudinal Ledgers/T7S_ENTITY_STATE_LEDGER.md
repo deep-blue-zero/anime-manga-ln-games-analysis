@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.27"
+version: "11.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 115 complete i-n-g primary documents / T7S_B0080–T7S_B0126; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 118 complete i-n-g primary documents / T7S_B0080–T7S_B0127; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 238`; `directional_relationship_states = 438`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0126, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 243`; `directional_relationship_states = 446`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0127, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2481,3 +2481,37 @@ The [B0126](../02%20Readings/T7S_B0126_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0438` | Coney → Player, **trade admission and harm denial** | Names the doughnut/tofu exchange while denying violence. C:P23–39. Reciprocal `REL-0437`; no motive beyond food preference shown. |
 
 `T7S_B0126_CLOSE-20260926`: six actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, legal or medical finding.
+
+## B0127 Miu's friendship information gap and team repair
+
+The [B0127](../02%20Readings/T7S_B0127_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.29, binds these updates. Existing Miu `IDENTITY-0085`/`CHAR-0067`, Murasaki `IDENTITY-0092`/`CHAR-0074`, Honoka `IDENTITY-0083`/`CHAR-0063`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. The offscreen friend receives no stable character route.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0067` / Miu | Worries repeated idol-work refusals are costing a close friendship, has not disclosed the work, resists a forced work/play ranking, intends honest conversation and returns ready to rehearse. | A:P0–49; B:P1–48; C:P1–60. Friend's direct response and durable capacity allocation unshown. |
+| `CHAR-0074` / Murasaki | Wants more trio practice, initially dismisses Miu's outside bond and assumes the friend knows idol context, then apologizes for imposing her own priorities and rehearses with Honoka while Miu considers. | B:P1–48; C:P35–60. No full performance judgment or concrete revised timetable. |
+| `CHAR-0063` / Honoka | Interrupts the conflict, brings her own moved-away-friend experience and asks both peers to think carefully, helping local reconciliation. | B:P31–48; C:P35–60. Her experience is situated, not a guarantee for Miu's friend. |
+| `CHAR-0003` / Coney | Asks the missing disclosure question, recalls a friend still valued despite absence and encourages Miu to speak honestly. | A:P45–49; B:P47–48; C:P1–34. Ambiguous “tofu girl” aside does not fix a friend identity or timeline. |
+| `CHAR-0001` / Player | Offers to adjust the stream if Miu has an important reason to leave, answers her adult-friendship question and notices unresolved concern without learning the full explanation. | A:P11–49. No complete schedule intervention or knowledge of the friend conversation. |
+| `UNIT-0002` / Nanasta | Plans a trio stream, receives post-show desire for more practice and has members negotiate an outside-friendship burden informally. | A:P11–49; B:P1–48; C:P35–60. No documented accommodation, external-disclosure or standing calendar policy. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0239` | Miu knows the source of worry; Player/peers see distraction and Holocom contact but not its content. He offers exit; she declines and asks a friendship-distance question. | A:P0–49. No displayed messages. |
+| `KNOW-0240` | Murasaki/Honoka know Miu misses friend time; Murasaki assumes friend knows about idol work, while Miu has not yet disclosed the contrary. | B:P1–30; C:P8–13. Initial judgment lacks decisive context. |
+| `KNOW-0241` | Honoka shares her own separation experience; Murasaki recognizes her measure was too narrow and apologizes. | B:P31–48. No completed calendar choice. |
+| `KNOW-0242` | Coney learns friend is unaware of idol work; Miu explains guilt; Coney claims friendship persists despite long absence and advises disclosure. | C:P1–33. No direct friend account or verified Coney-friend identity. |
+| `KNOW-0243` | Miu reports a new understanding and returns to practice; Murasaki/Honoka witness team repair but do not hear an exact friend response. | C:P35–60. External outcome remains open. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0439` | Murasaki → Miu, **work-first judgment then apology** | Presses for rehearsal, dismisses friend priority, later concedes imposing her values. B:P1–48; C:P35–55. Reciprocal `REL-0440`; no final timetable. |
+| `REL-0440` | Miu → Murasaki, **resisted ranking and returned teammate** | Says friendship concern matters, rejects performance indifference and later apologizes/rejoins practice. B:P1–34; C:P35–58. Reciprocal `REL-0439`; no outside-friend outcome. |
+| `REL-0441` | Honoka → Miu, **protective perspective mediation** | Stops escalation, speaks from own separation, invites reflection and welcomes return. B:P31–48; C:P35–60. Reciprocal `REL-0442`; no universal solution. |
+| `REL-0442` | Miu → Honoka, **heard pause and renewed trio work** | Accepts the break in argument and returns to both peers for practice. B:P31–45; C:P35–60. Reciprocal `REL-0441`; no full show audit. |
+| `REL-0443` | Coney → Miu, **disclosure-focused confidence** | Elicits missing fact, offers own distance-friend account and encourages honest talk. C:P1–33. Reciprocal `REL-0444`; cannot promise friend's reaction. |
+| `REL-0444` | Miu → Coney, **private confession and chosen next step** | Explains nondisclosure/guilt and says she will visit the friend. C:P8–30. Reciprocal `REL-0443`; meeting unshown. |
+| `REL-0445` | Player → Miu, **adjustment offer without full context** | Offers to excuse her from stream and shares adult friendship experience. A:P19–43. Reciprocal `REL-0446`; not a documented accommodation. |
+| `REL-0446` | Miu → Player, **limited question with retained privacy** | Declines exit, asks if friendship endures when meetings decline, then leaves to prepare. A:P28–43. Reciprocal `REL-0445`; she does not disclose the full friend problem to him. |
+
+`T7S_B0127_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, friend-response or policy record.

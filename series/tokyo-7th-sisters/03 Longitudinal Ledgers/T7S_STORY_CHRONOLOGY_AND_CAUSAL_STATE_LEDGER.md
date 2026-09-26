@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.27"
+version: "11.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 115 complete i-n-g primary documents / T7S_B0080–T7S_B0126; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 118 complete i-n-g primary documents / T7S_B0080–T7S_B0127; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 462`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 458`; `last_closed_block = T7S_B0126`. The admitted horizon contains 350 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 115 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 467`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 465`; `last_closed_block = T7S_B0127`. The admitted horizon contains 353 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 118 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1501,3 +1501,27 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.28. [B0126](../02%20Readings/
 | `EDGE-0465` | `SURVIVAL_WITH_UNRESOLVED_SAFETY` | Saori's return and fall account in `EV-B0126-006` revise the death story but leave prior wetness and loss-of-consciousness evaluation open. |
 
 `T7S_B0126_CLOSE-20260926`: six chapter events, eight bounded edges and existing `THREAD-0022` advanced; no new world/thread/unit, crime, diagnosis or total i-n-g chronology record.
+
+## B0127 Miu's undisclosed idol work and two valued memberships
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.29. [B0127](../02%20Readings/T7S_B0127_DEEP_READING.md) owns the A/B/C locator key. B0089/B0102/B0084/B0125 are bounded comparison horizons; menu order is not total fictional chronology. Miu's outside friend is unnamed and never directly heard here.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0127-001` | Miu struggles with Holocom contact, is distracted during trio stream planning, declines Player's offer to be excused and asks whether friendship survives infrequent meetings. | A:P0–49; `KNOW-0239`. No message text, sender identity or emergency established. |
+| `EV-B0127-002` | After the stream, Murasaki proposes more practice; Miu fears further friend absence. Murasaki calls work prior and judges the friend as if she knew Miu's idol role; Miu objects. | B:P1–30; `KNOW-0240`; `REL-0439`–`0440`. Performance dissatisfaction reported, not a full technical live verdict. |
+| `EV-B0127-003` | Honoka halts the argument, describes distance from old friends and asks for reflection. Murasaki apologizes for imposing her own measure and proposes that she/Honoka can practice meanwhile. | B:P31–48; `KNOW-0241`; `REL-0441`–`0442`. Local repair, not a negotiated schedule. |
+| `EV-B0127-004` | Coney learns Miu has not disclosed idol work to the friend, offers her own example of friendship across absence and urges honest speech; Miu says she will go to the friend. | C:P1–33; `KNOW-0242`; `REL-0443`–`0444`. Friend meeting, answer and Coney's ambiguous “tofu girl” identity unverified. |
+| `EV-B0127-005` | Next day Miu rejoins Murasaki/Honoka, accepts/apologizes after Murasaki's apology and wants to finish a dance step, saying she better understands friendship. | C:P35–60; `KNOW-0243`; `REL-0439`–`0442`. No direct external-friend response, durable calendar or full live result. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0466` | `UNDISCLOSED_WORK_TO_FRIENDSHIP_STRAIN` | Miu's repeated idol-work refusals without explanation in `EV-B0127-001`/`002` → fear of losing friend, without direct friend testimony. |
+| `EDGE-0467` | `WORK_NEED_TO_FALSE_PREMISE_JUDGMENT` | Murasaki's rehearsal request in `EV-B0127-002` → judgment that friend should understand idol work, though `EV-B0127-004` reveals friend does not know. |
+| `EDGE-0468` | `MEDIATION_TO_PERSPECTIVE_REVISION` | Honoka's lived comparison in `EV-B0127-003` → Murasaki's apology and end of immediate argument, not timetable resolution. |
+| `EDGE-0469` | `DISCLOSURE_GAP_TO_HONEST_CONVERSATION_INTENT` | Coney's question in `EV-B0127-004` exposes the missing premise and Miu decides to speak; actual encounter unshown. |
+| `EDGE-0470` | `ABSENCE_MODEL_WITH_NO_GUARANTEE` | Coney's own friendship-across-distance account in `EV-B0127-004` helps Miu reconsider, not a universal prediction of her friend's reaction. |
+| `EDGE-0471` | `LOCAL_APOLOGY_TO_REHEARSAL_RETURN` | Murasaki's apology and Miu's new resolve in `EV-B0127-005` permit trio rehearsal; no finished performance verdict. |
+| `EDGE-0472` | `RETURN_WITH_EXTERNAL_OUTCOME_OPEN` | Miu's next-day energy in `EV-B0127-005` follows her stated intent but does not prove the friend's exact answer or lasting schedule repair. |
+
+`T7S_B0127_CLOSE-20260926`: five chapter events and seven bounded edges; no new world/thread/unit, stable friend identity, completed external repair or total i-n-g chronology.

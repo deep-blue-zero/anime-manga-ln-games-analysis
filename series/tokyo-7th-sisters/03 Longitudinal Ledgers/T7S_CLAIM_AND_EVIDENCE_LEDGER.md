@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.27"
+version: "11.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 115 complete i-n-g primary documents / T7S_B0080–T7S_B0126; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 118 complete i-n-g primary documents / T7S_B0080–T7S_B0127; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 595`; `revisions = 42`; `predictions = 7`; `AV_reviews = 73`; `literary_findings = 595`. Claims are bounded to their stated B0001 through B0126 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 47 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 599`; `revisions = 42`; `predictions = 7`; `AV_reviews = 74`; `literary_findings = 599`. Claims are bounded to their stated B0001 through B0127 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 48 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1780,3 +1780,26 @@ Owner and A/B/C locator key: [B0126](../02%20Readings/T7S_B0126_DEEP_READING.md)
 - Outcome: `REVIEWED` for nine selected static composites and all native page-state segmentation. One hundred fifty-five dialogue-associated voice pages plus title cues, BGM/SFX remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0126_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, crime/diagnosis finding, specialist or monograph promotion.
+
+## B0127 friendship disclosure and rehearsal choice limits
+
+Owner and A/B/C locator key: [B0127](../02%20Readings/T7S_B0127_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.29. B0089/B0102/B0084/B0125 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0127-001` | `BOUNDED_INFERENCE`; D1; high | Miu's repeated absences and nondisclosure jointly strain a friendship; Murasaki's first judgment assumes a fact the friend does not know. | A:P18–40; B:P11–30; C:P8–18. Friend's own interpretation unvoiced. |
+| `CL-B0127-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Honoka's interruption and Murasaki's apology allow friendship and work to stay serious simultaneously, without establishing that either must always win or that a schedule is solved. | B:P14–48; C:P1–4,35–58. No durable accommodation plan. |
+| `CL-B0127-003` | `BOUNDED_INFERENCE`; D1; high for limit | Coney's long-distance friendship example motivates honest speech but does not prove Miu's friend accepted disclosure; Miu's stated intent and later energy leave the actual encounter offscreen. | C:P8–33,35–60. No external-friend verdict or identity from tofu aside. |
+| `CL-B0127-004` | `BOUNDED_INFERENCE`; D1; moderate-high | Murasaki's revision repairs the local team relation enough for Miu to return to rehearsal, while performance quality and practical time allocation remain open. | B:P20–48; C:P35–60. Apology is not an audited calendar. |
+
+### AV-0074 — Miu's Holocom contact and unreviewed friend conversation
+
+- Questions/claims: whether selected stills/native object prove sender, message text, friend's reaction, final stream quality, enduring friendship or a negotiated schedule; `CL-B0127-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for external-friend, performance and schedule restrictions.
+- Selection: Miu `adv_chara_129_02_04`, `129_02_01`, `129_02_05`; Murasaki `adv_chara_149_01_01`; Honoka `adv_chara_124_01_01`; Coney `adv_chara_002_03_01`; Holocom `adv_obj_0027`. All 160 native pages and seventeen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.29 binds seven media receipts.
+- Observed: Miu's expressions vary while Holocom object shows an active interface, not sender/text. No outside friend body or message content is selected/shown.
+- Native occurrence: command-only A:P1,5,9–10,17,26,49; B:P0,5,35,46,48; C:P0,31,34,59–60. Holocom appears A:P5–7,17 and B:P5–8; cuts separate the later peer conflict, Coney counsel and next-day return.
+- Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred twenty-six dialogue-associated voice pages plus title cues, BGM/SFX and the full streamed performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0127_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, external-friend verdict, specialist or monograph promotion.

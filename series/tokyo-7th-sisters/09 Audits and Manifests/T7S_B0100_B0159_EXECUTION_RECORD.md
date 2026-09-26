@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.26"
+version: "1.27"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0126`.
-- Completed run blocks: **27/60**; completed run episodes: **75/174**.
-- Next: `T7S_B0127`, chapter `300990`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0127`.
+- Completed run blocks: **28/60**; completed run episodes: **78/174**.
+- Next: `T7S_B0128`, chapter `301000`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -63,7 +63,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0124` | `300960` | 二川ミミ | リライ・オン・ミー | `312201901 / 312201902 / 312201903` | CLOSED |
 | `T7S_B0125` | `300970` | 瀬戸ファーブ | ファーブ・ウィズアウト・ベース | `312202001 / 312202002 / 312202003` | CLOSED |
 | `T7S_B0126` | `300980` | 鳳チャチャ | 座椅子探偵 | `312202101 / 312202102 / 312202103` | CLOSED |
-| `T7S_B0127` | `300990` | 逢原ミウ | ディア・マイ・フレンド | `312202201 / 312202202 / 312202203` | AUTHORIZED_UNREAD |
+| `T7S_B0127` | `300990` | 逢原ミウ | ディア・マイ・フレンド | `312202201 / 312202202 / 312202203` | CLOSED |
 | `T7S_B0128` | `301000` | 雲巻モナカ | 学校へ行こう！ | `312202301 / 312202302 / 312202303` | AUTHORIZED_UNREAD |
 | `T7S_B0129` | `301010` | 逝橋エイ | ショウ・アップで巫女魔法 | `312202401 / 312202402 / 312202403` | AUTHORIZED_UNREAD |
 | `T7S_B0130` | `301020` | 星柿マノン | 魔法少女に会いに行こう！ | `312202501 / 312202502 / 312202503` | AUTHORIZED_UNREAD |
@@ -214,3 +214,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0126 closeout receipt
 
 [T7S_B0126](../02%20Readings/T7S_B0126_DEEP_READING.md): A motionless Saori is misclassified as a murder victim; Chacha's costume-led inquiry finds some real clues but coerces unsafe tests on Player and invites false car and Coney-culpability inferences, until Saori returns and reports a wet-shoe fall and fainting without clinical follow-up. All 228 pages, 210 text records and 18 command-only pages are reviewed; 9 exact static composites were inspected. Source-lock 12.28 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 155 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 27/60 blocks, 75/174 episodes; publication remains pending.
+
+## B0127 closeout receipt
+
+[T7S_B0127](../02%20Readings/T7S_B0127_DEEP_READING.md): Miu's idol schedule strains a close friendship she has not told about her work; Murasaki initially judges from a false premise, Honoka prompts reconsideration, Coney recommends honest disclosure, and Miu returns to team rehearsal without the external friend's response or durable scheduling solution being shown. All 160 pages, 143 text records and 17 command-only pages are reviewed; 7 exact static composites were inspected. Source-lock 12.29 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 126 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 28/60 blocks, 78/174 episodes; publication remains pending.
