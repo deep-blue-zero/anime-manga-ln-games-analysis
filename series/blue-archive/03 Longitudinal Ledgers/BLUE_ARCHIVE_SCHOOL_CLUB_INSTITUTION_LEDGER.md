@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -482,3 +482,9 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Engineering:** Kotori/Utaha/Hibiki are replenishing equipment. Alice says her railgun/`光の剣` is working and precious; no inspection, repairs or certified safe operating condition are shown. Sensei's ceiling-damage line is printed inward, and the engineers' sacrifice remark is situated, not a blanket institutional permission.
 - **C&C duty:** Akane reminds Nel of a chairperson's mission notice and an agreed one-hour game limit, ending further arcade play. The notice's content, elapsed play time and relation to E004's Gehenna inquiry are unverified.
 - **Club creative work:** the publicly welcomed “adventure” ends without progress on Yuzu's idea quest. Sweet “rewards,” social affection and arcade bonding cannot be counted as a new game design, prize entry or council standing change.
+
+## V002 C002 E006 institutional delta — unexplained finds and contingent Schale role
+
+- **Veritas find:** narration counts five odd robots in the clubroom; Kotama says Millennium outskirts as site, Maki reports at least twenty more. Manufacturer, ownership and acquisition chain are not established. Their port/seam absence prevents even a fault diagnosis in the represented examination.
+- **Risk invitation:** Maki invites the game club partly for inspiration, while Veritas asks Sensei in case dangerous materials require Schale cooperation. Neither danger status nor formal Schale action is yet decided; Sensei says they cannot identify the objects.
+- **Activation:** machines move during Alice's state change; Kotama denies triggering them. `AL-1S`/`ATRAHASIS` speech is not a complete institutional incident report or proof of the E001 hypotheses. No evacuation, custody action, harm or governance ruling is shown.

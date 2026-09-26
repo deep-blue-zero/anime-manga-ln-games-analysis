@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -568,3 +568,13 @@ Totals **21 `PARTIAL_MODEL` / 21 `UNMODELED`** across 42, none operational/valid
 - **Kotori/Utaha/Hibiki:** meet Alice while replenishing equipment; ask railgun condition and hear her attachment, without inspection or new safety certification. Generic student supporters remain anonymous, not new tracked character subjects.
 
 No new named tracked subject or readiness promotion: 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E006 delta — Alice/device discontinuity without causal closure
+
+- **Alice:** silent before saying she has seen the Veritas finds; then devices activate and she speaks `起動開始`/`プロトコルATRAHASISを実行します`. The incomplete `私の大切な` narration is unattributed. Recognition, cause, intent, control, protocol effect and future awareness are unknown. Existing club-domain `PARTIAL_MODEL` remains but cannot cover this state.
+- **Hare/Kotama/Maki:** report five room robots and Maki's twenty-plus remaining outside; find no power button, port or seam and cannot determine even whether fault exists. Maki's history-making excitement and Kotama's junk prior are hypotheses, not findings. Kotama denies operating the objects when they move.
+- **Yuzu/Momoi/Midori:** support Yuzu's difficult visit, notice the machines' change and Alice's abnormal state; no diagnosis or resolution is shown. Some speaker labels flip.
+- **Sensei:** invited partly for possible Schale help if dangerous, explicitly cannot identify the objects and internally reacts to activation; no intervention or secret E001 knowledge is shown.
+- **Unknown printed label:** `무명사제 디비전 A 1` appears at two role-inconsistent lines and is not entered as a stable person model.
+
+No new tracked subject/readiness promotion: 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated. No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

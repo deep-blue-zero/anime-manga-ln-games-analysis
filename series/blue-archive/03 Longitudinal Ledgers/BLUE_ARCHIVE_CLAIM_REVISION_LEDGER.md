@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
 supersedes: []
@@ -1336,3 +1336,13 @@ No new claim ID, model, prediction or side-source admission; E001 and E003 unres
 - **BA-C019: NARROW / NEGATIVE TEST** — public affection and a valued day do not deliver the requested creative idea. Alice explicitly says Yuzu's task made no progress, limiting any easy “social inspiration guarantees product” reading.
 
 No new claim ID, side-source admission, model or frozen prediction. E001 covert threat, E003 contest result and Akane's mission contents remain open; contextual backfill **DEFER**.
+
+## V002 C002 E006 claim transitions — threat pressure before causal proof
+
+- **BA-C001–C004, C007, C010–C011: HIGH PRESSURE / NO ADJUDICATION** — unidentified machines move as Alice's speech changes, raising agency and protection questions. Trigger, voluntary control and consequence remain unknown.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei explicitly cannot identify the find; Veritas's technical limits and club reactions remain their own.
+- **BA-C008: NO PERSONALITY TEST** — ten singleton choices and several private thoughts do not classify the AL-1S state.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Shittim/Kaiser/Abydos/Shiba Seki mechanism is revised.
+- **BA-C019: COMPLICATE** — creative belonging and provisional room security coexist with an unclassified Alice/device risk; neither creative value nor Rio/Himari's hypotheses can substitute for a causal safety account.
+
+No new claim ID, side-source backfill, model or frozen prediction. Alice's recognition, the printed label, protocol, machine origin and outcome remain OPEN; contextual backfill **DEFER**.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -491,3 +491,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ALICE ↔ NEL:** a reported repeated arcade relationship is now visible. Alice says the former enemy is now an ally/game companion; Nel wants rematches and coaching. Their play/understanding is real, but Alice fears losing her Sensei day and complains of hunger/time, while Nel insists on more play. Residual maid-outfit aversion persists.
 - **NEL ↔ AKANE:** Akane enforces an agreed game-time limit and recalls a mission notice, limiting Nel's recreational persistence. This does not identify the mission or prove every earlier match was forced.
 - **ALICE ↔ SENSEI:** Alice says their adventure was fun, admits the idea quest failed and asks for future adventures; the sole reply agrees. Sensei's `u:0088` thought cannot be treated as spoken before Alice's reaction.
+
+## V002 C002 E006 relationship delta — supported visit, sudden inaccessible state
+
+- **YUZU ↔ CLUB:** Yuzu struggles to reach Veritas; Momoi/Midori/Alice offer encouragement and Alice physical support. This is a fresh ordinary support instance, not proof Yuzu is comfortable in unfamiliar rooms.
+- **ALICE ↔ CLUB/SENSEI:** the room knows Alice as their friend; her pause and protocol speech alarm them. Yuzu notices change, Sensei inwardly calls to her, but no dialogue establishes that Alice hears them, recognizes them in this state or has rejected them.
+- **VERITAS ↔ CLUB/SENSEI:** Maki brings both groups to examine a find with unclear risk. The combined gathering is not a consented Alice-identity experiment on the present evidence, even though E001 gives the audience separate covert-test knowledge.
+- **RIO/HIMARI ↔ ALICE:** absent and unmentioned in the room; their E001 interpretations do not become the club's understanding merely because an AL-1S line appears.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -899,3 +899,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `50戦50勝` is Alice's reported game history; `ゲームは1日1時間` is Akane's reminder of an agreement. Neither is an independently displayed audit of fifty games or exact session duration.
 - `一時的に敵` → `今は味方`/`仲間` is Alice's direct reclassification; `弱くなっている確率が高い` is a Momoi-attributed, unverified power inference. `メイド服が少し苦手` and `ユズのクエストを進める事はできませんでした` are explicit limiting statements.
 - **Attribution quarantine:** plaza scene `u:0007-0015` prints Alice across other-student speech; arcade `u:0004-0012`, `u:0017-0031` and `u:0060-0068` flip Alice/Nel person-reference; `u:0073` appears Akane-like under Alice. Sensei scene-2 `u:0017`/`u:0036` and scene-3 `u:0014`/`u:0046`/`u:0069`/`u:0088` are `心の声`. Scene-1 `choice:001` and scene-3 `choice:008` have alternate phrasings; two other choices have malformed leading quotes.
+
+## V002 C002 E006 delta — hypothesis language and AL-1S attribution firewall
+
+- `世紀の大発見` is Maki's excited forecast; `ガラクタ` is Kotama's statistical prior, not a classification of these five objects. `電源ボタン`/`接続ポート`/`継ぎ目` absent by Veritas inspection, while Hare says `故障なのかさえも分から`.
+- `合計5体` is narrator room count; `少なくともまだあと20体` is Maki's outside report. `ゲーム機の音` is Midori's reported perception with unverified source.
+- Alice's `見たことあります` is vague recognition. `起動開始` and `プロトコルATRAHASISを実行します` are Alice-labeled speech, but neither establishes mechanism or completion. The repeated `＜＜＜私の大切な…………＞＞＞` is unlabeled narration, not secure Alice memory.
+- **Quarantine:** Korean-script `무명사제 디비전 A 1` labels both `u:0054` (human-like horror reaction) and `u:0104` (`AL-1S` boot notice); neither can become a clean named speaker or verified ontology. `u:0033`, `u:0073-0076` and `u:0088-0090` also have person-role anomalies. Sensei `心の声` at `u:0002`/`u:0052`/`u:0095`/`u:0103`/`u:0106` is unheard; ten printed choices are singleton.

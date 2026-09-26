@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -640,3 +640,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **The trap move travels without its inhibitor:** Alice cites Yuzu's E002 `ハメ技` as permitted game content against Nel, who protests. Learning a tactic and learning its friend-play ethics are different processes.
 - **Enemy to ally, not no-friction:** Alice says Nel is now a game companion, but maid clothing still bothers her and repeated matches consume time/food. Akane's one-hour limit contains the arcade loop; reconciliation is plural and conditional.
 - **Light adventure and dark interruption:** Alice closes a fun but unsuccessful inspiration day with a heroic future, then narration withdraws the assumption ordinary days will simply continue. The foreboding is audience-facing, not proof Alice knows the E001 threat.
+
+## V002 C002 E006 motif / callback delta — creative curiosity becomes inaccessible machinery
+
+- **Romance versus junk prior:** Maki's world-historical excitement and Kotama's likely-junk caution bracket a find neither can open. Activation invalidates simple inertness, not automatically one interpretation of origin or danger.
+- **A room of five, a wider field reported:** the narrator's five objects and Maki's twenty-plus outside expand possible exposure, but source levels differ; physical count and reported remaining number must not be collapsed.
+- **The second Alice clock:** E020's audience-only `Divi:Sion`/98% stinger and E001's researcher conflict now have a new `AL-1S`/`ATRAHASIS` echo. These are callbacks and pressures, not a solved causal diagram or proof Alice's club identity was false.
+- **Ordinary support meets an unreadable state:** friends help Yuzu enter and react to Alice's change, while Sensei and Veritas cannot explain it. E005's belonging and pleasure remain real but do not confer technical security.

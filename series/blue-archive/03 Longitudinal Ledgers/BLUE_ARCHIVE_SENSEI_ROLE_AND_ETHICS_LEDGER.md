@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:005; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:006; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -636,3 +636,7 @@ Sensei follows Alice's initiative from campus to outskirts, meets Sumire, and he
 ## V002 C002 E005 delta — shared day without task success
 
 Sensei may introduce themself as Schale teacher or mascot in scene-1 `choice:001`, not both. They witness Alice's public welcome and railgun affection; the ceiling-damage line is `心の声` despite an apparent response. At Nel's arcade pull, a printed choice objects that they are busy on the adventure, but play continues until Akane intervenes. After dusk Sensei's alternative question phrasings elicit Alice's nuanced Nel account. `u:0088` says the day was fun but is labeled inward, so it is not secure spoken reassurance; the next choice asks Alice's view, and she says the idea quest failed but asks for future companionship. The sole reply agrees. No design result or E001 covert knowledge is attributed to Sensei; no readiness promotion/model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E006 delta — explicit adult epistemic limit at activation
+
+Veritas invites Sensei because Schale help may matter *if* the find proves dangerous. Sensei attends but answers `分からないかも` when asked whether they identify it. Their later concern and calls to Alice are `心の声`; no audible command, rescue or causal explanation is shown before the cut. Ten printed choices are singleton, and none reveals access to Rio/Himari's E001 secret. This is a strong counterexample to an omniscient/automatic adult-fix reading, not a verdict that responsibility ends with uncertainty. No readiness change, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
