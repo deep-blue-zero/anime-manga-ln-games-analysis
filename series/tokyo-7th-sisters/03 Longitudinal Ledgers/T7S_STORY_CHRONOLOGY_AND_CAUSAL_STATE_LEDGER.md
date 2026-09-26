@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.50"
+version: "11.51"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 184 complete i-n-g primary documents / T7S_B0080–T7S_B0149; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 187 complete i-n-g primary documents / T7S_B0080–T7S_B0150; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 619`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 699`; `last_closed_block = T7S_B0149`. The admitted horizon contains 419 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 184 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 628`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 713`; `last_closed_block = T7S_B0150`. The admitted horizon contains 422 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 187 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2175,3 +2175,38 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.51. [B0149](../02%20Readings/
 | `EDGE-0706` | `PLAYER_INJURY_TO_CONEY_COVER` | Coney reports about a week of work cover in `EV-B0149-008`; exact staffing/medical plan unknown. |
 
 `T7S_B0149_CLOSE-20260926`: eight chapter events and eleven bounded edges; performed show by report/stream is distinct from listened song, accident audit and resolved intimacy.
+
+## B0150 Sui, Masaru and a reward called a date
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.52. [B0150](../02%20Readings/T7S_B0150_DEEP_READING.md) owns the A/B/C locator key. A opens on Sui's date-planning request, then returns to earlier coaching; this is presentation order rather than a simple forward sequence. B0008 is a bounded Sui prince-language comparison, not a final identity adjudication. Masaru has one named chapter-local identity `IDENTITY-0097`; ordinary/swim generic role sprites do not make separate boys.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0150-001` | Sui asks Nanastar peers to plan a date, then recounts how the request arose. | A:P0–31,198–204; `KNOW-0395`. Opening title/word does not establish adult romance. |
+| `EV-B0150-002` | Peers secretly follow Sui and see named schoolboy Masaru at running practice; Sui later states school/coaching relationship. | A:P32–114; `KNOW-0396`. Kajika/Sumire object; generic sprites are not unique likeness. |
+| `EV-B0150-003` | Earlier Masaru challenges idol Sui in swimming, loses, then asks training; she coaches/times repeated drills for meet. | A:P115–173; `KNOW-0397`. No professional authorization, guardian assent or training-load audit. |
+| `EV-B0150-004` | Masaru messages first place, asks reward date after Sui limits price; later admits missed personal best that Sui had inferred. | A:P174–204; C:P70–89; `KNOW-0398`. No official meet sheet/precise times, request not pre-authorized as romance. |
+| `EV-B0150-005` | Susu/Shizuka propose expensive adult-coded places; Sumire/Susu press clothing try-ons; Shinju questions seriousness then apologizes. | B:P1–73; `KNOW-0399`. Later outfit purchase does not erase earlier resistance. |
+| `EV-B0150-006` | Shinju asks what Sui and Masaru actually wish to do; Sui chooses plan from mutual enjoyment. | B:P74–83; `KNOW-0400`. No guardian/logistical consent shown. |
+| `EV-B0150-007` | Sui/Masaru play in pool, eat and ride attractions; peers covertly follow a second time. | C:P2–69; `KNOW-0401`. Pair report enjoyment; privacy/safety audit absent. |
+| `EV-B0150-008` | Masaru discloses missed best, Sui values effort/win, he declares himself Sui's fan and she jokes date secret. | C:P70–116; `KNOW-0402`. No adult romance or claim that result never matters. |
+| `EV-B0150-009` | Peers conceal knowledge, joke about lady/escort/buddy roles, then slips expose spying; Sui protests. | C:P117–149; `KNOW-0403`. No apology/permission repair shown; prince/gender identity not finally settled. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0707` | `DATE_REQUEST_TO_EXPLANATORY_FLASHBACK` | `EV-B0150-001` frames rather than chronologically precedes coaching `002`–`004`. |
+| `EDGE-0708` | `EARLY_DEPARTURES_TO_PEER_SURVEILLANCE` | Suspicions produce unpermitted first following in `EV-B0150-002`; concern is not consent. |
+| `EDGE-0709` | `IDOL_CHALLENGE_TO_SWIM_COACHING` | Masaru loses challenge and asks aid in `EV-B0150-003`; no romance inference. |
+| `EDGE-0710` | `COACHING_TO_REPORTED_MEET_WIN` | Sui times improvement and Masaru reports first place in `EV-B0150-003`–`004`; official times absent. |
+| `EDGE-0711` | `WIN_TO_REWARD_DATE_REQUEST` | Masaru asks after Sui grants bounded reward in `EV-B0150-004`; she later chooses to proceed. |
+| `EDGE-0712` | `DATE_LABEL_TO_MISMATCHED_PLANS` | Adult-price/travel/fashion scripts in `EV-B0150-005` do not fit boy/budget or Sui's style. |
+| `EDGE-0713` | `SHINJU_REFRAME_TO_MUTUAL_INTEREST_PLAN` | `EV-B0150-006` redirects from form to shared recreation, not a full child-safeguarding plan. |
+| `EDGE-0714` | `MUTUAL_PLAN_TO_RECREATION` | Pool/food/rides in `EV-B0150-007` are shown as enjoyable; safety/logistics unknown. |
+| `EDGE-0715` | `PEER_CURIOSITY_TO_SECOND_SURVEILLANCE` | Peers follow outing in `EV-B0150-007`; their concern does not make it authorized. |
+| `EDGE-0716` | `CONCEALED_BEST_TO_DISCLOSURE` | Masaru admits omission in `EV-B0150-008`; placing and personal best remain separate. |
+| `EDGE-0717` | `SUI_RECOGNITION_TO_MASARU_FAN_DECLARATION` | She values effort and he names himself fan in `EV-B0150-008`; no adult commitment. |
+| `EDGE-0718` | `SECRET_JOKE_TO_PRIVACY_IRONY` | Sui asks for discretion while peers have listened in `EV-B0150-008`–`009`. |
+| `EDGE-0719` | `SURVEILLANCE_SLIPS_TO_SUI_PROTEST` | Peers' detailed knowledge exposes second following in `EV-B0150-009`; no repair shown. |
+| `EDGE-0720` | `ESCORT_ROLE_TO_BUDDY_JOKE` | Competing lady/buddy descriptions in `EV-B0150-009` do not settle Sui's identity. |
+
+`T7S_B0150_CLOSE-20260926`: nine chapter events and fourteen bounded edges; meet report, child coaching, date word and peer surveillance retain separate evidentiary/ethical states.

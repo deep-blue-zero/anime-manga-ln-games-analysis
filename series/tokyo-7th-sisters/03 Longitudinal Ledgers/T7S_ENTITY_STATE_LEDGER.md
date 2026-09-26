@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.50"
+version: "11.51"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 184 complete i-n-g primary documents / T7S_B0080–T7S_B0149; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 187 complete i-n-g primary documents / T7S_B0080–T7S_B0150; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 96`; `character_states = 78`; `epistemic_states = 394`; `directional_relationship_states = 596`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0149, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 97`; `character_states = 79`; `epistemic_states = 403`; `directional_relationship_states = 604`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0150, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3326,3 +3326,48 @@ The [B0149](../02%20Readings/T7S_B0149_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0596` | Player → Coney, **reliance on operational cover during injury** | She reports covering his work and chastises him at hospital; no detailed handover is shown. A:P21–56; C:P157–167. Reciprocal `REL-0595`; no clinical/workload audit. |
 
 `T7S_B0149_CLOSE-20260926`: eight actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no clinical, romantic or performed-audio certification.
+
+## B0150 Sui and chapter-local Masaru
+
+The [B0150](../02%20Readings/T7S_B0150_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.52, binds these updates. Existing Sui `IDENTITY-0017`/`CHAR-0014`, Shinju `IDENTITY-0024`/`CHAR-0021`, Kajika `IDENTITY-0023`/`CHAR-0020`, Sumire `CHAR-0013`, Shizuka `CHAR-0015`, Susu `CHAR-0018`, Momoka `CHAR-0012`, Player `CHAR-0001`, Coney `CHAR-0003` and Nanastar `UNIT-0002` remain distinct from named pupil Masaru `IDENTITY-0097`/`CHAR-0079`. Wakasagi Swimming School is context, not a newly constituted idol unit or verified coaching authority.
+
+| ID / local subject | Literal source identity and bounded route | Confidence, evidence, and unresolved obligation |
+| --- | --- | --- |
+| `IDENTITY-0097` / `sui-swim-pupil-masaru` | Literal `マサル`; self-introduces as Wakasagi Swimming School pupil, challenges Sui, trains with her, reports meet win, requests outing and discloses missed personal best. | High for chapter-local continuity; A:P62–173,179–193; C:P2–116. No surname, exact age/grade, personalized portrait, official meet result, guardian consent or future relationship. `042_01`/`043_01` are generic scene-role variants. |
+
+| Existing/new stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0014` / Sui | Coaches Masaru after a challenge, reports time improvements, celebrates his message, takes reward-date seriously, finds mutual outing plan, values win/effort, playfully tests lady/buddy language and protests peer surveillance. | A:P0–204; B:P1–83; C:P2–149. No professional certification, adult romance, gender identity reversal or full privacy repair. |
+| `CHAR-0079` / Masaru | Named schoolboy swimmer asks training and improves by Sui's report, says he wins meet but not personal best, requests date, enjoys outing, calls himself Sui's fan. | A:P62–193; C:P2–116. No exact age, official timing, training safety, romantic status or future contact. |
+| `CHAR-0021` / Shinju | Initially questions whether a schoolboy's date warrants such planning, apologizes and redirects Sui toward mutual interests rather than date conventions. | B:P1–79. Her classmate comparison is not authoritative psychology of every child. |
+| `CHAR-0020` / Kajika | Questions first following, helps plan, covertly watches outing and later nearly reveals that observation. | A:P40–100; B:P1–82; C:P7–149. Concern does not authorize surveillance. |
+| `CHAR-0013` / Sumire | Objects to Momoka's detective act, helps plan but joins clothing pressure and both followings, critiques gender convention and tries to cover slips. | A:P14–100; B:P13–82; C:P7–149. Her lady definition is one norm, not Sui's self-definition. |
+| `CHAR-0015` / Shizuka | Suggests high-cost travel, enjoys covert observation, covers peers' final knowledge with a false smile inference. | A:P38–100; B:P23–83; C:P7–145. Care and boundary breach coexist. |
+| `CHAR-0018` / Susu | Offers adult-coded night-view dinner and presses Sui to dress for date. | B:P1–59. Unaffordable/age-mismatched plan not taken; forced try-ons not erased by later purchase. |
+| `CHAR-0012` / Momoka | Frames both followings as spy games, jokes about younger boy/date and later names Sui/Masaru buddies. | A:P19–100; C:P7–149. Humor does not confer access or romance proof. |
+| `UNIT-0002` / Nanastar | Peers help with plan and also conduct two unauthorized followings; Sui balances idol work with swimmer coaching. | A:P0–204; B:P1–83; C:P2–149. No formal child-athlete program, monitoring authorization or new member. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0395` | Sui knows named date requester/history but group initially hears only the label, prompting speculation. | A:P0–31,198–204. Companion identity emerges later in telling. |
+| `KNOW-0396` | Peers secretly see Sui and Masaru, speculate sibling/romance, then learn his name/school/coach relation directly. | A:P32–114. Speculations are refuted/incomplete; following unauthorized. |
+| `KNOW-0397` | Sui recounts challenge/loss/request; she and Masaru know drills and timed improvements, peers hear her account. | A:P115–173. No coaching permit or official timing. |
+| `KNOW-0398` | Sui receives Masaru's first-place message and reward request; Masaru withholds non-best result until later; Sui says she inferred omission. | A:P174–204; C:P70–89. Official scoreboard absent. |
+| `KNOW-0399` | Group proposes date options, sees Sui reject expensive plans and protest clothing try-ons; Shinju initially underestimates then apologizes. | B:P1–73. Purchase does not certify consent to every try-on. |
+| `KNOW-0400` | Shinju asks mutual-interest question; Sui takes it as planning key. | B:P74–83. Boy/guardian preferences not independently canvassed. |
+| `KNOW-0401` | Sui/Masaru know recreation; covert peers observe pool/food/rides without their awareness. | C:P2–69. No formal supervision or full safety record. |
+| `KNOW-0402` | Masaru confesses missed personal best; Sui says she knew and values effort/win; he declares fandom and hears secrecy joke; spies overhear. | C:P70–116. No adult romance or full private consent to observers. |
+| `KNOW-0403` | Peers know from spying, initially hide it; slips let Sui infer second following and protest. | C:P117–149. No apology, permission or lasting trust resolution. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0597` | Sui → Masaru, **competitive coaching becoming effort-sensitive care** | Accepts challenge, teaches/times, celebrates result, plans shared play and affirms his work despite missed best. A:P62–193; C:P2–116. Reciprocal `REL-0598`; no certified coaching or romance. |
+| `REL-0598` | Masaru → Sui, **challenge, reward request and declared fandom** | Insults idol, asks training, reports win, requests outing, admits missed best and thanks her as fan. A:P62–193; C:P2–116. Reciprocal `REL-0597`; child autonomy and safety remain. |
+| `REL-0599` | Shinju → Sui, **doubt revised into useful reframing** | First questions intensity for schoolboy, apologizes, asks what both want. B:P60–79. Reciprocal `REL-0600`; no universal age model. |
+| `REL-0600` | Sui → Shinju, **explaining serious reciprocity** | Says Masaru worked and deserves her effort; receives mutual-interest question gratefully. B:P60–79. Reciprocal `REL-0599`; not romantic commitment. |
+| `REL-0601` | Sumire → Sui, **planning help with clothing/privacy overreach** | Offers outfit ideas, joins enforced try-ons and covert follows, later critiques lady definition. A:P55–100; B:P36–71; C:P7–149. Reciprocal `REL-0602`; helpful intent not consent. |
+| `REL-0602` | Sui → Sumire/peers, **seeking help then protesting access** | Asks date advice, protests clothing pressure and eventually recognizes spying. A:P0–31; B:P36–59; C:P117–149. Reciprocal `REL-0601`; no full repair shown. |
+| `REL-0603` | Kajika → Sui, **concern that crosses surveillance boundary** | Questions first following but participates in it and second; nearly reveals observation. A:P40–100; C:P7–149. Reciprocal `REL-0604`; no permission. |
+| `REL-0604` | Sui → Kajika, **trust in peer help with later objection** | Receives planning support then asks why group knows outing details and calls following awful. B:P1–83; C:P117–149. Reciprocal `REL-0603`; no apology recorded. |
+
+`T7S_B0150_CLOSE-20260926`: one new named chapter-local boy identity/character, nine epistemic states, four directional relationship pairs and existing-actor/unit annotations; no romance, professional child coaching or identity-resolution promotion.

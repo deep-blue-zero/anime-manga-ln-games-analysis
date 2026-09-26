@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.50"
+version: "11.51"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 184 complete i-n-g primary documents / T7S_B0080–T7S_B0149; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 187 complete i-n-g primary documents / T7S_B0080–T7S_B0150; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 694`; `revisions = 42`; `predictions = 7`; `AV_reviews = 96`; `literary_findings = 694`. Claims are bounded to their stated B0001 through B0149 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 70 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 699`; `revisions = 42`; `predictions = 7`; `AV_reviews = 97`; `literary_findings = 699`. Claims are bounded to their stated B0001 through B0150 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 71 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2316,3 +2316,27 @@ Owner and A/B/C locator key: [B0149](../02%20Readings/T7S_B0149_DEEP_READING.md)
 - Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. Two hundred eighty-seven dialogue-associated voice pages plus title cues, BGM/SFX and actual solo performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0149_CLOSE-20260926`: five bounded claims and one AV review; no song certification, clinical diagnosis, explicit romance, specialist or monograph promotion.
+
+## B0150 youth mentorship, date framing and privacy
+
+Owner and A/B/C locator key: [B0150](../02%20Readings/T7S_B0150_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.52. B0008 is a bounded Sui comparison, not gender-finality authority.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0150-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sui and Masaru move from idol challenge to reciprocal respect; first place and missed personal best coexist, while Sui values effort and Masaru names fandom. | A:P101–193; C:P70–102. No official timing or result-never-matters doctrine. |
+| `CL-B0150-002` | `BOUNDED_INFERENCE`; D1; high for limit | Reward “date” is shared recreation between older coach and schoolboy; neither title, secret-idol joke nor clothing establishes adult romance or relationship status. | A:P174–204; B:P1–83; C:P2–116. Age/power/safety boundaries remain. |
+| `CL-B0150-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Shinju's mutual-interest question corrects adult-cost/gender templates; Sui's escorting “lady” and peers' “buddy” jokes leave her prince/gender self-definition open. | B:P1–83; C:P117–149. No normative reversal. |
+| `CL-B0150-004` | `BOUNDED_INFERENCE`; D1; high | Timed improvements and reported meet win do not certify professional coaching, guardian consent, safe training volume, pool supervision or official meet results. | A:P64–173; C:P2–69. No child-athlete protocol shown. |
+| `CL-B0150-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Two secret followings give peers unconsented access to Sui/Masaru; final joking flight does not cancel Sui's explicit protest or the child's privacy interest. | A:P32–100; C:P2–15,108–149. No repair shown. |
+
+### AV-0097 — Sui outfit states and generic Masaru role icons
+
+- Questions/claims: whether native art individuates Masaru, proves exact age/meet timing, certifies aquatic safety or resolves romance/gender/privacy; `CL-B0150-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for child-sport/guardian, privacy and future relationship restrictions.
+- Selection: Sui school `adv_chara_009_03_01`, swim `009_04_01`, outing casual `009_08_01`; Masaru generic ordinary `042_01` and swim-flashback `043_01`; Susu `011_01_01`; Shinju `014_01_01`; Sumire `008_01_01`; Shizuka `010_01_01`; Momoka `007_02_01`; Kajika `013_01_01`. All 439 native pages and eighty-one command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.52 binds eleven media receipts.
+- Observed: Sui's school/swim/casual outfit states retain one person; Masaru's two one-layer line-art variants are generic and cannot identify age or separate boys. Outing art cannot establish permission, supervision or private romance.
+- Native occurrence: command-only A:P2–3,12–13,28–31,39,51–54,73–76,97–100,110,115–117,123–125,130,141–142,144–145,148,172–173,175–176,178,194–197,204; B:P0,19–22,32–35,53–56,83; C:P0–1,12–15,33–36,45–48,61–64,113–116,149. A flashback and C scene cuts distinguish narrated antecedent from outing.
+- Outcome: `REVIEWED` for eleven selected static resources and all native page-state segmentation. Two hundred ninety-eight dialogue-associated voice pages plus title cues, BGM/SFX and exact performance/meet records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0150_CLOSE-20260926`: five bounded claims and one AV review; no official meet certification, age precision, athletic clearance, adult romance, gender-finality claim, specialist or monograph promotion.
