@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.16"
+version: "11.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 82 complete i-n-g primary documents / T7S_B0080–T7S_B0115; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 85 complete i-n-g primary documents / T7S_B0080–T7S_B0116; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 182`; `directional_relationship_states = 364`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0115, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 187`; `directional_relationship_states = 372`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0116, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2109,3 +2109,37 @@ The [B0115](../02%20Readings/T7S_B0115_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0364` | Momoka → Sawara, **envy of voice opportunity** | Calls refusal wasteful and imagines herself in the role. B:P48–56. Reciprocal `REL-0363`; no production agreement. |
 
 `T7S_B0115_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, contract result, readiness or monograph record.
+
+## B0116 Kajika staged role, felt danger and museum casting
+
+The [B0116](../02%20Readings/T7S_B0116_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.18, binds these updates. Existing Kajika `IDENTITY-0023`/`CHAR-0020`, Shinju `CHAR-0021`, Haru `CHAR-0004`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice. `HAL777` and `Shi-3PO` are performed roles; neither creates a new real-person route or revises Harumi family history.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0020` / Kajika | Is placed in a surprise space scenario, feels unsure of a cosmic-idol role, tries tasks, completes a dance under a fictional threat to Player, grieves a fictional sister farewell, and later says the experience was partly enjoyable and mildly confidence-building; Coney reports museum guide casting. | A:P21–59; B:P1–75; C:P1–70. No actual solo debut, space travel, prior briefing, secure job terms or durable self-confidence proof. |
+| `CHAR-0021` / Shinju | Performs a `Shi-3PO` robot/sister role that stages protective sacrifice and elicits Kajika's sorrow. | C:P21–43,44–50. Role lines about false memories and robot identity are script fiction, not Shinju biography or actual self-sacrifice. |
+| `CHAR-0004` / Haru | Voices/plays `HAL777` in the museum scenario and later explains the intended guide-character work, tour and voice test. | A:P35–59; B:P1–75; C:P1–25,44–50. Machine/apocalypse claims belong to the script, not her own world knowledge; no performed vocal assessment. |
+| `CHAR-0003` / Coney | Proposes cosmic idol, arranges the surprise immersive trial while subjects sleep, later says it yielded Kajika's guide casting and retrospectively claims a deeper plan. | A:P10–20; B:P14–23; C:P44–70. Tea contents, device/safety protocol, casting authority and original intent beyond her statements are unverified. |
+| `CHAR-0001` / Player | Frames hypothetical solo promotion without consulting Kajika, experiences disorienting scenario and reported shocks, supports her under ejection threat, then objects to the staged setup even after she calls it enjoyable. | A:P0–59; B:P1–75; C:P1–70. His praise of the dance is not a technical AV verdict, and Kajika's acceptance does not replace his own consent. |
+| `UNIT-0002` / Nanasta | A potential guide-character job is routed through an unannounced staged experience with Haru/Shinju role work; Kajika's selection is reported. | A:P0–20; C:P44–65. No formal solo project, museum contract, participant briefing, pay, safety, consent or debrief procedure is shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0183` | Player thinks Kajika might lack confidence and imagines solo positioning; Coney knows there is no actual solo-debut project before suggesting space. | A:P0–20. Kajika has not endorsed the diagnosis or any proposed image. |
+| `KNOW-0184` | Kajika/Player see a starry cockpit and are told by `HAL777` they are far from Earth in a spacefaring 2034. | A:P21–59; C:P44–53. These are accepted or questioned within a staged experience, not true chronology/technology evidence. |
+| `KNOW-0185` | Player describes mild shocks; Kajika sees punishment after failures and believes a later ejection threat enough to dance for him. | B:P27–75. Actual electrical mechanism/voltage, true ejection capacity and dance quality remain unverified. |
+| `KNOW-0186` | Kajika hears fictional annihilation and `Shi-3PO`'s farewell and reacts with grief, later saying it felt sad. | C:P1–43,56–61. No actual Seventh Strike apocalypse, erased memory or sister death. |
+| `KNOW-0187` | Coney/Haru disclose museum framing; Player reports being moved in while asleep and questions tea; Coney reports Kajika's guide casting, Kajika reports enjoyment/confidence, Player objects. | C:P44–70. Tea composition, advance consent, formal role terms and durable outcomes unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0365` | Kajika → Player, **protective effort under fabricated stakes** | Performs after fearing his ejection and later says she had wanted to save him. B:P49–72. Reciprocal `REL-0366`; no proof the threat was necessary or real. |
+| `REL-0366` | Player → Kajika, **encouragement and bounded praise** | Reassures her after failures, discourages overexertion under threat and calls her dance perfect. B:P27–72. Reciprocal `REL-0365`; praise is in-scene, not technical review. |
+| `REL-0367` | Coney → Kajika, **surprise trial and claimed opportunity** | Engineers the unannounced fiction and reports guide selection afterward. A:P10–20; C:P44–65. Reciprocal `REL-0368`; no prior informed permission shown. |
+| `REL-0368` | Kajika → Coney, **positive but mixed retrospective response** | Says she was surprised, grieved, enjoyed much and gained some confidence. C:P56–65. Reciprocal `REL-0367`; this does not retroactively authorize the setup. |
+| `REL-0369` | Shinju → Kajika, **performed sacrificial sister** | Acts `Shi-3PO` in a scripted farewell that Kajika experiences as loss. C:P21–43. Reciprocal `REL-0370`; actual sibling relation remains unchanged. |
+| `REL-0370` | Kajika → Shinju, **grief for staged separation** | Pleads that the robot/sister come with them and later names sadness. C:P26–43,56–61. Reciprocal `REL-0369`; no real Shinju sacrifice. |
+| `REL-0371` | Coney → Player, **unannounced setup** | Has him moved to the facility asleep and says the result is acceptable; tea concern remains unverified. C:P44–65. Reciprocal `REL-0372`; no prior consent or safety audit. |
+| `REL-0372` | Player → Coney, **non-forgiveness despite result** | Says the stunt was overdone, questions the tea and refuses to treat Kajika's casting/enjoyment as absolution. C:P44–67. Reciprocal `REL-0371`; not an adjudicated harm finding. |
+
+`T7S_B0116_CLOSE-20260926`: five actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, literal space ontology, readiness or monograph record.

@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.16"
+version: "11.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 82 complete i-n-g primary documents / T7S_B0080–T7S_B0115; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 85 complete i-n-g primary documents / T7S_B0080–T7S_B0116; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 551`; `revisions = 42`; `predictions = 7`; `AV_reviews = 62`; `literary_findings = 551`. Claims are bounded to their stated B0001 through B0115 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 36 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 555`; `revisions = 42`; `predictions = 7`; `AV_reviews = 63`; `literary_findings = 555`. Claims are bounded to their stated B0001 through B0116 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 37 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1527,3 +1527,26 @@ Owner and A/B/C locator key: [B0115](../02%20Readings/T7S_B0115_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. Eighty-nine dialogue-associated voice pages plus title cues, BGM/SFX and any performed runway/news/voice work remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0115_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, career contract, literal legendary-room fact, specialist or monograph promotion.
+
+## B0116 Kajika staged agency and frame correction
+
+Owner and A/B/C locator key: [B0116](../02%20Readings/T7S_B0116_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.18. B0011/B0113 are bounded sister/consent context, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0116-001` | `BOUNDED_INFERENCE`; D1; high | The chapter's space/robot/apocalypse propositions are scripted museum fiction, while Kajika's response inside that fiction and the real surprise setup belong to the actual story level. | A:P21–59; B:P1–75; C:P1–55; `EDGE-0384`, `0388`. Costumes/detail do not literalize space travel; fiction can still elicit real action/feeling. |
+| `CL-B0116-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Kajika's protective achievement is elicited through manufactured danger to Player and an unannounced immersive setup; reported casting and her later enjoyment do not supply prior informed consent. | B:P27–75; C:P44–65; `KNOW-0185`–`0187`. Her agency is real, while precise physical shock/tea mechanism and danger are unverified. |
+| `CL-B0116-003` | `BOUNDED_INFERENCE`; D1; moderate-high | Player's initial solo-brand puzzle is not Kajika's chosen career; the trial reveals person-directed effort and a modest self-reported confidence gain, not a cosmic/solo debut or validated training method. | A:P0–20; B:P49–72; C:P54–62. Museum guide casting is reported without formal terms. |
+| `CL-B0116-004` | `BOUNDED_INFERENCE`; D1; high for divergent reports | Kajika's mixed positive response and Player's objection are simultaneous actor-specific judgments; neither can cancel the other, and Coney's after-the-fact deep-plan claim is uncorroborated. | C:P44–70; `EDGE-0389`. Do not make one participant's retrospective feeling a group consent rule. |
+
+### AV-0063 — space costume and robot role inside a museum fiction
+
+- Questions/claims: whether visual/sound references prove actual spaceflight, machine identity, electric voltage, bodily peril, precise dance/voice performance, drugged tea, casting terms or consent; `CL-B0116-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` for staged-world attribution, bodily setup and actor knowledge.
+- Selection: Kajika `adv_chara_013_01_01`, `adv_chara_013_04_08`; Shinju role `adv_chara_014_05_05`, `adv_chara_014_05_06`; Coney `adv_chara_002_03_01`; Haru `adv_chara_003_01_02`. All 207 native pages and fifteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.18 binds six media receipts.
+- Observed: Kajika's ordinary and space-suit bodies and Shinju's robot-like performance costume materially mark staged roles. No still establishes their literal occupation/ontology or a physical space journey.
+- Native occurrence: command-only A:P16–17,59; B:P0,36,42,44,65–66,75; C:P0,22–23,43,70. A:P16–17 titles the scenario after a pre-title management exchange; B:P65–66 cuts to black after the dance; C:P22–43 emphasizes the staged robot intervention/farewell. Shocks, flashes and sound references cannot determine voltage, performed contact, dance precision or lived danger.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred fifteen dialogue-associated voice pages plus title cues, BGM/SFX and any performed dance/guide speech remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0116_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, real apocalypse/robot promotion, specialist or monograph promotion.

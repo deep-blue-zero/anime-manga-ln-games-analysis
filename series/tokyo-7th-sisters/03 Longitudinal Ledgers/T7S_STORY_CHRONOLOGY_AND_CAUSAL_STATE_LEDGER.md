@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.16"
+version: "11.17"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 82 complete i-n-g primary documents / T7S_B0080–T7S_B0115; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 85 complete i-n-g primary documents / T7S_B0080–T7S_B0116; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 405`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 382`; `last_closed_block = T7S_B0115`. The admitted horizon contains 317 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 82 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 410`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 389`; `last_closed_block = T7S_B0116`. The admitted horizon contains 320 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 85 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1214,3 +1214,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.17. [B0115](../02%20Readings/
 | `EDGE-0382` | `CORRECTION_WITHOUT_CONFIRMED_UPTAKE` | Shinju's `EV-B0115-005` explanation challenges Player's earlier expansion/legend inference; his closing `migratory bird` image is not a settled production plan. |
 
 `T7S_B0115_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0014` advanced; no new world/thread record, supernatural room, total i-n-g chronology or career-fit verdict beyond partial reports.
+
+## B0116 Kajika's framed space trial and unequal retrospective consent
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.18. [B0116](../02%20Readings/T7S_B0116_DEEP_READING.md) owns the A/B/C locator key and the fiction/reveal distinction. B0011/B0113 give bounded Kajika sister/choice context; menu order is not total chronology. `HAL777` and `Shi-3PO` are performed story roles, not new actual-world identities, machine species or world states.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0116-001` | Player imagines a possible Kajika solo image without an existing solo project or her input; Coney proposes `cosmic idol`. | A:P0–20; `KNOW-0183`; `THREAD-0014`. No authorized solo plan, sexy image adoption or travel decision. |
+| `EV-B0116-002` | In an immersive space frame, Kajika/Player awaken disoriented in a cockpit set; Haru-voiced `HAL777` asserts spaceflight and routine 2034 launches. | A:P21–59; `KNOW-0184`; `WORLD-0025` remains unchanged. The later museum reveal defeats literal space-history uptake. |
+| `EV-B0116-003` | Framed trials attach described light electric shocks for Kajika's failures to Player and threaten his space ejection; Kajika dances after exercise to protect him, and he praises her effort. | B:P1–75; `KNOW-0185`; `REL-0365`–`0372`. Actual voltage/dance precision unverified; ejection is fictional threat. |
+| `EV-B0116-004` | `HAL777` narrates false Earth destruction/machine rule, and Shinju-as-`Shi-3PO` stages a protective farewell that Kajika experiences as grief. | C:P1–43; `KNOW-0186`; `REL-0369`–`0370`. No real apocalypse, implanted family memory, robot sacrifice or loss of Shinju. |
+| `EV-B0116-005` | Coney reveals a space-museum guide audition/experience, while Player says they were moved inside asleep and questions earlier tea. Coney reports Kajika's guide casting. Kajika says she enjoyed much of it, felt sadness and gained some confidence; Player says he does not forgive the method. | C:P44–70; `KNOW-0187`; `THREAD-0014`; `UNIT-0002`. No tea-composition proof, informed prior assent, formal casting/pay/safety terms or future confidence measurement. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0014` | Kajika's chosen support motive and separate assent remain `OPEN`. The Player first imagines solo branding without her participation. In Coney's unannounced museum fiction Kajika decides to protect him, completes the presented dance, and later reports pleasure, grief and a little more confidence; this is not proof that she needed deceptive peril or wished a solo debut. The Player's distinct objection and unknown sleep/tea mechanism preserve the consent boundary. A:P0–59; B:P1–75; C:P1–70. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0383` | `UNCONSULTED_BRAND_PROBLEM_TO_STAGED_PITCH` | Player's hypothetical solo-position problem in `EV-B0116-001` → Coney's cosmic-idol idea, without Kajika's stated solo request. |
+| `EDGE-0384` | `FRAME_ENTRY_NOT_WORLD_CHANGE` | Discontinuity into `EV-B0116-002` → space-ship presentation; `EV-B0116-005` later identifies it as a museum scenario, not actual 2034 travel. |
+| `EDGE-0385` | `FAILURE_PUNISHES_OTHER` | Trial failure in `EV-B0116-003` → represented electrical punishment of Player and Kajika's guilt; device impact remains unknown. |
+| `EDGE-0386` | `THREAT_TO_PROTECTIVE_EFFORT` | Fictional ejection threat in `EV-B0116-003` → Kajika's chosen fatigued dance for Player; achievement is not evidence the false threat was ethically needed. |
+| `EDGE-0387` | `SCRIPTED_FAREWELL_TO_REAL_FEELING` | `Shi-3PO` sacrifice scene in `EV-B0116-004` → Kajika's reported sadness in `EV-B0116-005`, without an actual sibling death. |
+| `EDGE-0388` | `REVEAL_RECLASSIFIES_CLAIMS` | Museum disclosure in `EV-B0116-005` bounds `EV-B0116-002`/`004` as fiction and limits the trial's real job result to reported guide casting. |
+| `EDGE-0389` | `DIVERGENT_RETROSPECTIVE_JUDGMENT` | Kajika's enjoyment/confidence and Player's non-forgiveness in `EV-B0116-005` coexist; neither retroactively grants the other advance consent. |
+
+`T7S_B0116_CLOSE-20260926`: five chapter events, seven bounded edges and existing `THREAD-0014` advanced; no new real world/thread state, robot identity, literal 2034 space history or consent-by-outcome rule.
