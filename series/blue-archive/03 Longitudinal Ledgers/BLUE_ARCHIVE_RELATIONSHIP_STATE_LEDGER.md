@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -400,3 +400,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **MOMOI/MIDORI/SENSEI ↔ AKANE/NOAH:** their entry is enabled by a system that rejects defenders' fingerprints and traps Akane and reportedly Noah. The opposition is not an abstract security score; persons are confined, with emergency access outcome unshown.
 - **MIDORI ↔ SENSEI:** Midori asks physical handholding in the dark and later seeks tactical advice. One retreat choice elicits student resistance; coordinated trust includes disagreement, not blanket obedience.
 - **AKANE ↔ C&C:** she calls offline `01`/Asuna and receives an anonymous `02` message claiming the club is in range. Do not infer the sender's identity, weapon or completed rescue.
+
+## V002 C001 E014 relationship delta — allied cover, defender escape, unexpected welcome
+
+- **UTAHA/HIBIKI ↔ CLUB:** Utaha takes Karin's rooftop attention with her chair, while she credits Hibiki's distant indirect fire; Momoi/Midori observe stopped sniping and hurry. No permanent safety or victory is proven.
+- **KARIN ↔ CLUB/ENGINEERS:** Karin targets the club and appraises Utaha's chair, then faces a threat from a separate angle. Her anti-club certainty is qualified by actual counterplay, not by a shown surrender.
+- **AKANE ↔ YUUKA/COALITION:** Akane destroys the shutter, reports facility damage reluctantly to Yuuka, asks the club location and pursues. A failed call/outage interrupts coordination, not her willingness to act.
+- **MIDORI ↔ SENSEI:** Midori cautions the teacher about dark footing, continuing concrete situational care under risk without a Sensei choice or new intimacy claim.
+- **ASUNA ↔ SENSEI/CLUB:** Asuna says she waited to meet both, corrects her address to `先生`, then declares her enjoyment of combat. This is a first direct opposed encounter, not evidence of private familiarity or a fight result.

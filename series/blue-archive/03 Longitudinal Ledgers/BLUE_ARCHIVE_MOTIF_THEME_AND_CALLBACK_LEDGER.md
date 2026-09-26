@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -545,3 +545,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Authorized by a compromised system:** Akane/Noah fail fingerprint checks while the intruding trio receives an approval chime. The machine's `承認` echoes Alice's E004/E011 access labels without transferring their legitimacy; authentication and rightful authority part company.
 - **Rescue obligation created by a plan:** Yuzu promises to retrieve Alice from custody, and Momoi fears a failed follow-up would make that confinement pointless. Fellowship creates obligations to a friend used as decoy, not merely a triumphant party metaphor.
 - **Adult hand, not adult monopoly:** Midori asks Sensei to hold hands in darkness and call phase two, then the group can resist a retreat variant. Earlier bounded-adult and care motifs recur inside student initiative.
+
+## V002 C001 E014 motif / callback delta — certainty interrupted
+
+- **Control statements fail locally:** Momoi's floor-control boast meets sniper fire; Karin's certain-hit claim meets a chair and indirect artillery; E013's shutter trap meets Akane's explosives. Neither side's control vocabulary guarantees a durable result.
+- **A chair as cover:** Utaha's walking `雷の玉座` turns an extravagant engineering object into cover/diversion, while its fall keeps the invention from functioning as an invulnerable mascot.
+- **Open roof, hidden arc:** Karin argues the roof's lack of cover favors her; Utaha uses its lack of ceiling to admit Hibiki's curved fire. One physical feature supports rival readings depending on vantage and collaboration.
+- **Rescue and risk remain paired:** the club hurries toward Mirror while Alice remains in custody, Akane pursues and Sensei walks through darkness after sniper fire. A fellowship goal continues to generate duties it has not yet fulfilled.
+- **Intuition against calculation:** Asuna's self-described `予感` puts her where the calculated plan expected no C&C member. Her arrival tests the plan, not a verified supernatural faculty.

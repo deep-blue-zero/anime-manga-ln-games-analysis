@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -564,3 +564,10 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - At an unexpected defender, Sensei may recommend breakthrough or retreat. The route-conditioned responses converge on continuing for Alice, and Sensei's final common option agrees. The retreat variant is not followed, a specific counterexample to unqualified adult-command obedience.
 - Alice is detained as a planned decoy, and Akane/Noah are trapped by compromised security. Sensei participates in the operation but the source does not establish who secured Alice's informed consent or evaluated confinement/emergency-egress costs. Do not assume adult presence ethically authorizes all tactics.
 - Sensei remains `PARTIAL_MODEL`; no standalone model or frozen prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E014 delta — vulnerable participant under layered threat
+
+- Sensei accompanies the club near Karin's live sniper fire; the source does not show Sensei hit, directing Utaha/Hibiki or making a new choice. The immediate engineer diversion is student-authored protection with unknown lasting safety.
+- After an outage, Midori explicitly warns Sensei of dark footing. This is ordinary concrete care inside a high-risk, ethically unresolved raid, not a romantic/private relationship inference.
+- Asuna initially mistakes Sensei's status as a senior, corrects to `先生`, says she has wanted to meet them and begins a fight with the club. This is her first on-page address and an acute encounter, not a durable social bond or consent to violence.
+- Sensei remains `PARTIAL_MODEL` with no new adult rule or frozen-prediction result (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C001_E013 active provisional; E014 unopened
+current_sequential_boundary: MAIN_V002_C001_E014 active provisional; E015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1217,3 +1217,12 @@ No `BA-C019` is opened. Maki's original-file conclusion has specific metadata/IP
 - **BA-C009–C018: PRESERVE / no direct global test** — Millennium security exploitation does not import Abydos/Kaiser mechanisms.
 
 No `BA-C019` is opened. A Trojan report, spoofed feed and differential lockout make the replacement trap strongly supported, but full technical path, every affected person, Mirror retrieval and anonymous call sign 02 remain OPEN. Contextual backfill remains **DEFER**.
+
+## V002 C001 E014 claim transitions — local success yields to adaptive defense
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — engineer coordination shields the moving club from sniper pressure, but Akane physically escapes the shutter and Asuna waits at the approach. The protective/retrieval goal remains active, with participant and Sensei risk unreconciled.
+- **BA-C005–C006: PRESERVE REJECTED** — no adult-wide solution appears. Karin, Utaha/Hibiki, Akane and Asuna exercise independent tactical judgments, each with uncertain results.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice or new secure command.
+- **BA-C009–C018: PRESERVE / no direct global test** — no evidence connects this Millennium conflict to Abydos/Kaiser systems.
+
+No `BA-C019` is opened. E013's trapped-Akane state is revised by her direct explosive escape, while the blackout's timing/mechanism, Karin's final condition, Mirror retrieval and Asuna battle remain OPEN. Do not resolve E013's anonymous `02` through proximity alone. Contextual backfill remains **DEFER**.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -443,3 +443,14 @@ Hare, Maki, Kotama and Akane enter the coverage index on distinct direct role de
 - **Sensei:** affirm/check-engineers alternatives converge on a duplicated Trojan report; a single phase-start cue follows student request. At an unexpected defender, advance/retreat options receive route-conditioned reactions and reconverge on going forward; a retreat suggestion is not adopted.
 
 No new indexed subject or readiness promotion (sixteen `PARTIAL_MODEL`, eighteen `UNMODELED`), standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). Quarantine scene 2 `u:0014-0016`, scene 5 `u:0020`, `u:0024-0026` and preserve branch conditions at scene 2 `u:0007-0008` and scene 9 `u:0016-0019`.
+
+## V002 C001 E014 delta — sniper diversion and broken containment
+
+- **Momoi/Midori:** Momoi's claim of floor control is interrupted by long-range shots; Midori identifies Karin and reports a 13.97 mm near-hit, then tells the group to move while engineers engage. Midori again warns Sensei of dark footing. Neither completed store access nor ballistic measurements are independently audited.
+- **Karin:** directly shoots from a third-building rooftop, updates her target-pattern appraisal and examines Utaha's frontal chair counter. Her `100%` hit forecast is not a result; indirect fire changes the situation and sniping stops, but her injury/retreat is unseen.
+- **Utaha/Hibiki:** Utaha presents `雷の玉座`, which Karin says resists a shot but falls; an indirect blast follows, credited by Utaha to Hibiki across the tower. Coordinated diversion is visible, not a verified permanent stop or exact artillery damage.
+- **Akane:** destroys the shutter she was trapped behind, reports reluctant damage to school facilities, and resumes pursuit toward the store. A beep/failed Yuuka call leads her to suspect power cutoff; cause/duration unconfirmed.
+- **Asuna:** appears at the store approach, identifies herself as call sign 01 and says she waited on intuition to meet Sensei and the club. She expresses enjoyment of combat and begins confrontation; no result or omniscient knowledge follows.
+- **Sensei:** remains in the exposed moving group; Midori warns of darkness and Asuna addresses them as `先生` after an initial mistaken senior term. No choice or new adult action is shown.
+
+Karin and Asuna enter coverage as `UNMODELED` on distinct direct role choices, so readiness is sixteen `PARTIAL_MODEL`, twenty `UNMODELED`. No standalone model or frozen-prediction result (`NO_DIAGNOSTIC_OPPORTUNITY`). E013's anonymous call sign 02 is not explicitly identified as Karin here. Quarantine scene 1 `u:0004` for exact speaker voice.

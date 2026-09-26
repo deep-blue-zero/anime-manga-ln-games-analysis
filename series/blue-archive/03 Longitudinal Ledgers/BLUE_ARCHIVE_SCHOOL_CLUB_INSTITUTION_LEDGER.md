@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -391,3 +391,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Camera split:** Yuuka's feed shows recorded Momoi/Midori while Akane actually meets Maki/Kotori; cloud disconnection/reset reveals them. Momoi's description and defender correction corroborate spoofing, though exact exploit path is unseen.
 - **Confinement:** Akane is trapped behind second shutter; operator says Noah and other council members are trapped and Noah's print fails. Momoi's belief all officers are isolated is unverified. This is a security-function inversion with unassessed safety and emergency-egress implications.
 - **Residual defense:** Asuna is unlocated/offline; anonymous `Call Sign 02` claims the club is in range. No sender identity or combat result is available, and Mirror has not been obtained.
+
+## V002 C001 E014 institutional delta — layered counterdefense
+
+- **Karin:** directly occupies the third-school-building roof and fires at the moving club, with wall damage and repeated shots. Midori identifies a 13.97 mm anti-materiel round. Exact hit geometry and future shots remain unverified.
+- **Engineering cover:** Utaha deploys the all-weather bipedal `雷の玉座`; Karin says a shot fails to penetrate but it falls. Curved fire follows, which Utaha credits to Hibiki across the tower. Club reports the sniping stops, not that Karin is defeated or the chair remains functional.
+- **Akane/shutters:** Akane uses explosives to destroy the second shutter, directly ending her E013 confinement. She reports reluctance to damage school facilities, then proceeds toward the seized store. Earlier attacker control did not permanently contain C&C.
+- **Outage/EMP:** Akane loses Yuuka contact and suspects power interruption; Momoi/Midori report darkness and infer their engineers' planned tactic succeeded. No on-page device activation, six-second measurement or tower-wide security state is supplied.
+- **Asuna/call signs:** Asuna waits at the store approach and directly names herself C&C `01`, resolving Akane's earlier `01` call. E013's anonymous `02` remains unassigned; Karin's nearby sniper role alone is not a sufficient explicit identification.
+- **Mirror:** the group is near the seized-goods store but Asuna begins confrontation before retrieval. No file bypass or Alice rescue is shown.

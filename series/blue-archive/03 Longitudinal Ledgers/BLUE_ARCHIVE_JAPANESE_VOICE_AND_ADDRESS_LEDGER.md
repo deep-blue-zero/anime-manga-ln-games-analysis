@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:001:013; MAIN_V001_C002 remains latest canonical checkpoint
+source_boundary: Sequential main-story reading through BA:main:002:001:014; MAIN_V001_C002 remains latest canonical checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -799,3 +799,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - System output approves `才羽モモイ、才羽ミドリ、先生` but rejects Akane's and Noah's prints. Machine authorization here is technically manipulated access, not legitimate council consent.
 - Akane offers `コールサイン・ゼロスリー` while claiming a secret name; Midori uses `アカネ先輩`. `From Call Sign 02` gives no secure sender identity. The Korean-rendered `시스템` is the system speaker label, not a character voice sample.
 - Scene 2 Sensei choices are affirm/check engineers, then a single `作戦開始！`; scene 9 offers `突破しよう` or `……逃げよっか？`, then common `……よし、行こう！`. `scene:009:u:0016-0019` are branch reactions, not simultaneous contradictory speech. **Attribution quarantine:** scene 2 `u:0014-0016`, scene 5 `u:0020`, `u:0024-0026` are role/response inconsistent.
+
+## V002 C001 E014 delta — numerical bravado, designed cover and intuition
+
+- Momoi's `この生徒会専用フロアは私の思うがまま` is immediately contradicted by Karin's shots. Midori's `13.97mm`/`あと5cm` are situated hazard appraisals, not independent ballistic proof.
+- Karin's `100%命中` and Utaha's initially anonymous `0％` are strategic opposing forecasts, not scored predictions or permanent ability rules. `雷の玉座`/`雷ちゃん` names and personifies an engineered combat chair; one surviving shot does not prove invulnerability.
+- Utaha's `天井すらもね` cues curved fire from Hibiki's claimed position across the tower. Akane's `シャッターは無理やり破壊しました` overturns prior containment in a direct, destructive report.
+- Akane's `電力を遮断` is a question after failed contact; Momoi/Midori's later outage/plan-success interpretation is not a recorded six-second EMP audit.
+- Asuna's `何となく`, `予感とか直感` are her own explanation for waiting. Her `先輩` correction to `先生`, `コールサイン・ゼロワン`, and `戦うのが大好き` provide secure first voice/address evidence but no omniscience or combat result. E013's anonymous `02` stays unassigned.
+- No Sensei choice. **Attribution quarantine:** scene 1 `u:0003-0004` warning/response labels are inconsistent, especially `u:0004`; do not build Hare or Momoi voice rules from the conflict.
