@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.33"
+version: "11.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 133 complete i-n-g primary documents / T7S_B0080–T7S_B0132; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 136 complete i-n-g primary documents / T7S_B0080–T7S_B0133; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 621`; `revisions = 42`; `predictions = 7`; `AV_reviews = 79`; `literary_findings = 621`. Claims are bounded to their stated B0001 through B0132 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 53 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 625`; `revisions = 42`; `predictions = 7`; `AV_reviews = 80`; `literary_findings = 625`. Claims are bounded to their stated B0001 through B0133 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 54 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1920,3 +1920,26 @@ Owner and A/B/C locator key: [B0132](../02%20Readings/T7S_B0132_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected static composites and all native page-state segmentation. One hundred sixty dialogue-associated voice pages plus title cues, BGM/SFX and actual festival music remain unauditioned/unseen and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0132_CLOSE-20260926`: four bounded claims and one AV review; no crowd-law verdict, safety clearance, article-rights finding, official new unit/show, specialist or monograph promotion.
+
+## B0133 adult-image aspiration, child-role work and listening limits
+
+Owner and A/B/C locator key: [B0133](../02%20Readings/T7S_B0133_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.35. B0130/B0127/B0132 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0133-001` | `BOUNDED_INFERENCE`; D1; moderate-high | Tasha's adult imitation is partly a bid for Player praise, work and shared time, not merely cosmetic fashion; her hoped looks-to-work link remains unproved. | A:P0–23; B:P6–24; C:P47–58. No adult job obtained. |
+| `CL-B0133-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | The Player's schoolbag-ad role concern is intelligible, but repeated child-role advice suppresses present agency until Miu enables a bounded, age-suitable conversation and lesson request. | A:P36–54; B:P6–24; C:P31–70. No adult-style assignment or completed lesson. |
+| `CL-B0133-003` | `BOUNDED_INFERENCE`; D1; high for limit | Comedic reactions do not establish advance consent to Tasha's touch of Mimi or a durable privacy response to Player's unannounced dorm entry. | A:P26–47. Mimi's later teasing and Player's apology are local. |
+| `CL-B0133-004` | `BOUNDED_INFERENCE`; D1; high for limit | Mutual apology and permission for Miu's lesson repair communication, not adulthood, new work, guaranteed manager attention or the more sexualized implication of Tasha's desired reaction. | C:P47–81. The requested lesson/result and any scheduling changes are unshown. |
+
+### AV-0080 — adult-model aspiration and selected speaker sprites
+
+- Questions/claims: whether native visuals show Tasha becoming adult, a completed makeup lesson, the clay object, body-contact consent or new work; `CL-B0133-001`–`004`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed voice, bodily interaction beyond dialogue, future job and safeguarding restrictions.
+- Selection: Tasha `adv_chara_135_01_01`, `135_01_03`; Mimi `126_01_01`; Miu `129_02_04`; Miwako `134_01_01`; Matsuri `138_01_04`. All 172 native pages and ten command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.35 binds six media receipts.
+- Observed: Tasha's two stills retain a blue outfit with altered expression/pose; older models and Matsuri are visually distinguishable. These stills show no adult transformation, makeup outcome, touch geometry, privacy practice or work assignment.
+- Native occurrence: command-only A:P24–25,55; B:P0,25,33; C:P0,77,80–81. Flash/shake/fade and subtitle cues mark transitions/surprise, not independent consent evidence.
+- Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred four dialogue-associated voice pages plus title cues, BGM/SFX and performed delivery remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0133_CLOSE-20260926`: four bounded claims and one AV review; no puberty prescription, body-contact consent clearance, adultification approval, specialist or monograph promotion.

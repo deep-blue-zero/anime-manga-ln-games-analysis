@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.33"
+version: "11.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 133 complete i-n-g primary documents / T7S_B0080–T7S_B0132; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 136 complete i-n-g primary documents / T7S_B0080–T7S_B0133; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 499`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 512`; `last_closed_block = T7S_B0132`. The admitted horizon contains 368 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 133 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 505`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 522`; `last_closed_block = T7S_B0133`. The admitted horizon contains 371 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 136 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1664,3 +1664,31 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.34. [B0132](../02%20Readings/
 | `EDGE-0519` | `OFFER_WITHOUT_BOOKED_LIVE` | Miwako's “not said no” and Ferb's studio impulse in `EV-B0132-006` leave contract, trio status and performance open. |
 
 `T7S_B0132_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, KUONJI performance, stable trio unit, safety clearance or second-festival booking.
+
+## B0133 Tasha's adult-model aspiration and repaired listening
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.35. [B0133](../02%20Readings/T7S_B0133_DEEP_READING.md) owns the A/B/C locator key. B0130/B0127/B0132 are comparison horizons, not total fictional order. `ジェーンシチナ` and `太夫` are Tasha's terms/analogy, the latter corrected by the Player.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0133-001` | Tasha watches Miwako/Mimi/Miu model and wants to become an admired grown `ジェーンシチナ`. | A:P0–23; `KNOW-0275`; `REL-0485`–`0492`. Tasha does not receive their casting. |
+| `EV-B0133-002` | At the dorm Tasha touches Mimi's chest to model clay; Mimi is surprised/ticklish, and the Player enters without knocking, apologizes, then scolds Tasha. | A:P26–55; `KNOW-0276`. No advance touch assent or durable privacy rule shown. |
+| `EV-B0133-003` | At the sea Tasha pursues adult appearance through enka imagery, milk and makeup; the Player notes lipstick during a schoolbag ad, urges childlike appeal, and they quarrel. | B:P1–32; `KNOW-0277`. No biological maturation effect or adequate response to her hidden motive. |
+| `EV-B0133-004` | Matsuri offers a comic game regimen; the Player again promises future growth; Miu interrupts, offers suitable makeup and asks him to listen to the wish to change. | C:P1–53; `KNOW-0278`. No adult-style assignment authorized. |
+| `EV-B0133-005` | Tasha says she sought Player praise, more work and time with him; he recognizes the listening failure, and both apologize. | C:P54–66; `KNOW-0279`. Her hoped causal link from looks to work remains unproved. |
+| `EV-B0133-006` | Tasha asks to learn makeup from Miu; Player agrees and promises to wait as she grows. | C:P67–81; `KNOW-0280`. The lesson, new work and future adult state are not shown. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0520` | `MODELING_PRAISE_TO_TASHA_ASPIRATION` | Manager-facing reactions at `EV-B0133-001` precede Tasha's ideal; no casting or age transition follows. |
+| `EDGE-0521` | `UNASKED_MOTIVE_TO_BODY_EXPERIMENT` | Tasha's desired adult form in `EV-B0133-002` drives clay/touch; motive does not itself license Mimi's body use. |
+| `EDGE-0522` | `DORM_ENTRY_TO_PRIVACY_OBJECTION` | Player's unannounced entry in `EV-B0133-002` draws teasing/apology; no enduring access policy is established. |
+| `EDGE-0523` | `WORK_ROLE_MISMATCH_TO_MANAGER_RESTRICTION` | Lipstick during a schoolbag ad in `EV-B0133-003` gives a real role concern, not a complete answer to Tasha's desire. |
+| `EDGE-0524` | `CHILD_ROLE_ANSWER_TO_QUARREL` | Repeated wait/grow advice in `EV-B0133-003` and `004` misses present recognition need and prompts refusal to talk. |
+| `EDGE-0525` | `MATSURI_DIVERSION_TO_UNMET_MODEL` | Matsuri's joke in `EV-B0133-004` does not fit the adult women Tasha named; no training regimen is adopted. |
+| `EDGE-0526` | `MIU_INTERVENTION_TO_DISCLOSURE` | Miu's listening challenge in `EV-B0133-004` makes room for Tasha's own motive in `005`, not a mandate for adult styling. |
+| `EDGE-0527` | `MOTIVE_DISCLOSURE_TO_MUTUAL_APOLOGY` | Tasha's account in `EV-B0133-005` changes Player's response and yields mutual apologies, not a work-allocation guarantee. |
+| `EDGE-0528` | `SCOPED_REQUEST_TO_MAKEUP_PERMISSION` | Direct question in `EV-B0133-006` secures a Miu-led lesson, not evidence of its completion. |
+| `EDGE-0529` | `FUTURE_WAIT_WITH_OPEN_RESULT` | Tasha's gradual aspiration and Player's wait in `EV-B0133-006` leave adulthood, jobs, attention and safeguarding open. |
+
+`T7S_B0133_CLOSE-20260926`: six chapter events and ten bounded edges; no new world, thread, completed makeup result, adult-role casting, biological maturation rule or privacy/consent clearance.

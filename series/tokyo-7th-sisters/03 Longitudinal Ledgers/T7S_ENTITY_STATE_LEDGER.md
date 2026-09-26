@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.33"
+version: "11.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 133 complete i-n-g primary documents / T7S_B0080–T7S_B0132; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 136 complete i-n-g primary documents / T7S_B0080–T7S_B0133; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 274`; `directional_relationship_states = 484`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0132, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 280`; `directional_relationship_states = 492`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0133, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2696,3 +2696,38 @@ The [B0132](../02%20Readings/T7S_B0132_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0484` | Miwako → Coney, **scoped assent and open answer** | Accepts escort after hesitation, then hears offer and tells Ferb she has not said no. A:P9–52; C:P64–78. Reciprocal `REL-0483`; not final acceptance. |
 
 `T7S_B0132_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new idol trio, booked second festival or public-media consent record.
+
+## B0133 Tasha's recognition request and peer mediation
+
+The [B0133](../02%20Readings/T7S_B0133_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.35, binds these updates. Existing Tasha `IDENTITY-0069`/`CHAR-0054`, Miu `IDENTITY-0085`/`CHAR-0067`, Mimi `IDENTITY-0042`/`CHAR-0065`, Miwako `IDENTITY-0043`/`CHAR-0070`, Matsuri `IDENTITY-0088`/`CHAR-0071` and Player `CHAR-0001` suffice. Photographer is an unnamed local role, not a new long-horizon identity.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0054` / Tasha | Watches older models, pursues an adult image through touch/clay, sea, milk and cosmetics, quarrels after being told to wait, then names desire for Player praise, work and shared time and asks for Miu's lesson. | A:P13–55; B:P1–32; C:P1–81. Her appearance/work theory unproved; no adult transformation, completed lesson or touch permission. |
+| `CHAR-0067` / Miu | Models in the opening shoot, observes conflict, calls the Player to listen, offers Tasha age-suitable cosmetics and helps restore conversation. | A:P0–12,28–54; C:P36–71. No claim she has taught the lesson or that she approves adult-style casting. |
+| `CHAR-0065` / Mimi | Models, is touched unexpectedly during Tasha's clay inquiry, calls it ticklish and teases Player for unannounced dorm entry. | A:P0–12,27–48. Later humor is not documented advance touch assent or privacy remediation. |
+| `CHAR-0070` / Miwako | Models at the shoot and becomes one of Tasha's named adult examples; Tasha later seeks her cosmetics. | A:P0–23,51–54; B:P8–12. No shown loan, coaching or new Tasha assignment by Miwako. |
+| `CHAR-0071` / Matsuri | Offers a comic game-input route to becoming an older sister and is confused after being asked to apologize. | C:P8–30,64–79. Not the adult image Tasha requests or an effective developmental regimen. |
+| `CHAR-0001` / Player | Praises adult models, scolds Tasha and foregrounds child-role appeal without hearing her motive, then accepts Miu's correction, apologizes and permits a suitable makeup lesson. | A:P0–55; B:P5–32; C:P1–81. Valid work-role concern does not imply complete listening; no new work or standing boundary practice shown. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0275` | Tasha sees adult models receive Player attention and states her `ジェーンシチナ` ideal; Player first hears it as admiration/study. | A:P0–23. Her private praise/work/time motive is not yet disclosed. |
+| `KNOW-0276` | Tasha treats Mimi's body as a clay model, Mimi reacts with surprise/ticklishness, Player encounters it after entering without knocking. | A:P26–55. No prior consent or privacy agreement documented. |
+| `KNOW-0277` | Player knows lipstick has disrupted a schoolbag-ad role; Tasha hears his childlike-appeal advice as dismissal and says she wants adulthood now. | B:P1–32. Milk/sea is her expectation, not a verified biological mechanism. |
+| `KNOW-0278` | Matsuri hears the aspiration via Tasha; Miu says she heard the office argument and identifies an unasked reason, while Player repeats growth advice. | C:P1–53. Miu's prospective lesson is not yet performed. |
+| `KNOW-0279` | Tasha discloses the hoped path from adult attractiveness to Player praise, more work and time; Player admits not listening, and both apologize. | C:P54–66. No guarantee that his scheduling changes. |
+| `KNOW-0280` | Tasha explicitly requests permission to learn from Miu; Player assents and says he will wait for her gradual growth. | C:P67–81. Cosmetic outcome, adult role and future relationship terms unknown. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0485` | Tasha → Player, **recognition bid then direct disclosure** | Reads praise for older models as a desired response, resists dismissal, then asks for praise, work and time and apologizes. A:P13–55; B:P8–31; C:P54–74. Reciprocal `REL-0486`; no promised job or adult intimacy. |
+| `REL-0486` | Player → Tasha, **role protection with listening repair** | Scolds adult imitation, stresses current child role, then acknowledges missed motive, apologizes and permits a suitable lesson. A:P36–55; B:P5–32; C:P31–75. Reciprocal `REL-0485`; not an adult-casting decision. |
+| `REL-0487` | Miu → Tasha, **peer advocacy and scoped instruction offer** | Interrupts to defend a wish to change, invites Tasha to speak and offers suitable makeup. C:P36–71. Reciprocal `REL-0488`; lesson unshown. |
+| `REL-0488` | Tasha → Miu, **trust in mediator/teacher** | Accepts Miu's interruption and asks Player if she may learn from Miu. C:P44–71. Reciprocal `REL-0487`; no completed styling. |
+| `REL-0489` | Miu → Player, **corrective challenge to manager** | Asks why he recruits those wanting change yet blocks Tasha without listening. C:P36–53. Reciprocal `REL-0490`; not a demand to sexualize a minor. |
+| `REL-0490` | Player → Miu, **correction accepted and teaching delegated** | Hears the challenge, apologizes to Tasha and entrusts an age-suitable lesson to Miu. C:P47–71. Reciprocal `REL-0489`; no completed pedagogical outcome. |
+| `REL-0491` | Tasha → Mimi, **unsolicited bodily model** | Touches Mimi's chest while trying to shape clay and identify adult form. A:P27–35. Reciprocal `REL-0492`; motive does not supply advance permission. |
+| `REL-0492` | Mimi → Tasha, **surprised then teasing reaction** | Initially yelps, then calls contact ticklish. A:P27–35. Reciprocal `REL-0491`; no documented prior agreement. |
+
+`T7S_B0133_CLOSE-20260926`: six actor-local knowledge records, four directional relationship pairs and existing-actor annotations; no new idol unit, job assignment, makeup result or retrospective consent finding.
