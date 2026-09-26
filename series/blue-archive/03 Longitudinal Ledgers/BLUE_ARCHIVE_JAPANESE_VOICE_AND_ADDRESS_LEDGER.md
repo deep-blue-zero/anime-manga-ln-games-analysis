@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE JAPANESE VOICE AND ADDRESS LEDGER
@@ -733,3 +733,12 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - `学生証` names the visible card; `生徒名簿にもヴェリタスがハッキ……いや、登録` retains Momoi's self-interruption and attribution, not a verified lawful enrollment.
 - `仲間` is both RPG-party and club language; Alice's joining formula shows uptake but not knowledge of the roster method.
 - **Attribution quarantine:** `u:0005`, `u:0014-0017`, `u:0048`, `u:0057` conflict with address or turn logic. Do not infer exact Yuzu/Momoi/Midori/Alice voice from them. No Sensei choice group occurs.
+
+## V002 C001 E007 delta — names, specifications, and role-flipped dialogue
+
+- `マイスター` is Midori's Millennium term for specialist makers/repairers. Momoi's universal personal-weapon claim is not a formal rule text.
+- `人類を27回救い`/`魔王軍との46回` is RPG-derived claimed experience, not real combat history.
+- `宇宙戦艦搭載用レールガン`, `実弾兵器`, and `光の剣：スーパーノヴァ` describe/name the prototype. `ビーム砲は、ロマン` is not cleanly reconciled with live-round railgun language.
+- `140kg以上`, `200kgを超えます` are engineering specifications; `1トン以上と推定` and `ナノマシンによって「自己修復」` are Utaha's later estimate/inference, not measured origin facts.
+- `資格` is Utaha's late-imposed weapon test, different from the factory's automated entry category. Scene 3 confirms result but not tactics.
+- **Attribution quarantine:** scene-1 `u:0004`; scene-2 `u:0009-0013`, `u:0040`, `u:0062`, `u:0074-0076`, `u:0095-0097`, `u:0133-0137`; scene-3 `u:0004`, `u:0008`. These corrupt precise Utaha/Hibiki/Kotori/Alice voice routing. No Sensei choices.

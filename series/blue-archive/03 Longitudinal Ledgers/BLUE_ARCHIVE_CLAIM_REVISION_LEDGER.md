@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -1154,3 +1154,12 @@ No new claim ID yet. Alice's game response and Yuzu's gratitude complicate a ran
 - **BA-C009–C018: PRESERVE / no direct global test** — do not flatten the Millennium card/club situation into Volume 1 institutions.
 
 No `BA-C019` yet; identity legibility versus chosen belonging is a recurring candidate but chapter outcome remains open. Contextual backfill remains **DEFER**.
+
+## V002 C001 E007 claim transitions — weapon choice and late qualification
+
+- **BA-C001–C004, C007: PRESSURE-TEST** — Alice's preference is honored after proving unusual strength, but unsafe indoor firing and an imposed-after-offer test reveal that enabling agency also requires risk, notice and accountability.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei is absent; student engineers show skill, error, resource conflict and hypothesis-making, while Alice shows unusual ability without a complete self-account.
+- **BA-C008: NO DIRECT TEST** — no Sensei choice/action.
+- **BA-C009–C018: PRESERVE / no direct global test** — the engineers' budget/eligibility problem is not automatically the Volume 1 debt/land pattern.
+
+No `BA-C019` yet. Utaha's nanomachine/combat-purpose account is an inference from body observations, not a source-verified biography. Contextual backfill remains **DEFER**.

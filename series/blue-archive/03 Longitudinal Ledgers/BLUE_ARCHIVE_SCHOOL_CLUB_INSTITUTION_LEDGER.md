@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
@@ -334,3 +334,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **Membership:** Momoi calls Alice an official companion and Alice uses `仲間` affirmatively. Interpersonal participation, roster legibility and lawful school/club admission remain distinct; no Yuuka/council ruling or audited registry record appears.
 - **Speech:** repeated gaming creates fast reading and fantasy diction; Momoi calls it refined, Midori still unnatural. Natural school-speech competence is not independently demonstrated.
 - **Weapon/tour:** Momoi names a weapon as the remaining task and offers a Millennium tour; neither acquisition nor tour occurs. Factory provenance and `G.Bible` remain unresolved.
+
+## V002 C001 E007 institutional delta — prototype allocation and qualification
+
+- **Engineering Club:** directly visited; Midori describes Millennium `マイスター` hardware specialists. Utaha offers available prototypes, Hibiki assesses novice fit, Kotori supplies project/budget explanation. Their space-battleship/railgun plan is suspended on reported cost, roughly 70% of the half-year budget for the prototype; no budget record is independently audited.
+- **Railgun:** `光の剣：スーパーノヴァ`, described as a space-battleship live-round prototype, reportedly over 140 kg with recoil over 200 kg. Alice lifts and fires it, damaging the ceiling. Utaha later permits gift and requests handles/strap; safe use/repair remain open.
+- **Qualification:** Utaha calls a drone/robot test `資格` only after her initial take-any-prototype offer. Scene 3 confirms a passing outcome but not tactics or prior informed agreement. These devices were previously requested for disposal; no ruins-robot identity is shown.
+- **Alice's body:** Utaha estimates ton-class grip and infers nanomachine repair/combat design. These remain engineer hypotheses, not proven origin. Formal school/club standing and Veritas roster provenance stay unverified.

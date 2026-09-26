@@ -1,19 +1,19 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_E001_E006
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_E001_E007
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
-source_boundary: "Canonical Prologue and Volume 1 Chapters 1–2 through checkpoint, plus BA:main:002:001:001–006; side-source classes remain unreviewed; BA:main:002:001:007 remains unopened"
+source_boundary: "Canonical Prologue and Volume 1 Chapters 1–2 through checkpoint, plus BA:main:002:001:001–007; side-source classes remain unreviewed; BA:main:002:001:008 remains unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:002:001:007
+next_unopened_main_unit: BA:main:002:001:008
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:002:001:007
 
 ## 0. Responsibility
 
-This index answers four questions at the current `V002 C001 E006` provisional boundary, with `MAIN_V001_C002` still the latest canonical checkpoint:
+This index answers four questions at the current `V002 C001 E007` provisional boundary, with `MAIN_V001_C002` still the latest canonical checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, and V002 C001 E001-E006;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, and V002 C001 E001-E007;
 - current checkpoint: `MAIN_V001_C002`; recovered analytical basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `48 / 310` canonical units;
+- main-story coverage: `49 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:002:001:007`.
+- next unopened main unit: `BA:main:002:001:008`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -77,10 +77,13 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Sensei | `ANALYZED` in Prologue/V001 C001-C002/V002 C001 E001-E004; structural and optional choice evidence kept separate | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Momoi | `ANALYZED` in V002 C001 E001-E006; club advocacy, search, recruitment, ID/Veritas claim and creator reception, corrupt attribution excluded | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Midori | `ANALYZED` in V002 C001 E001-E006; uncertainty, false-status warning, teaching, game critique and skewed-speech appraisal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E006; first contact, games, register transfer, card receipt and `仲間` uptake, not verified lawful enrollment | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Momoi | `ANALYZED` in V002 C001 E001-E007; advocacy/search/recruitment and Engineering Club weapon request, corrupt attribution excluded | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Midori | `ANALYZED` in V002 C001 E001-E007; uncertainty, identity warning, teaching, critique and Engineering Club encounter | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Alice / `AL-1S` (provisional) | `ANALYZED` in V002 C001 E004-E007; first contact, games, ID, chosen railgun, discharge and passed qualification, origin unverified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Yuzu | `ANALYZED` in V002 C001 E005-E006; locker disclosure, gratitude, direct welcome and game-sharing offer | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Utaha | `ANALYZED` in V002 C001 E007; prototype allocation, late qualification and combat-design inference, not verified origin | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hibiki | `ANALYZED` in V002 C001 E007; novice pistol offer, firing warning, adaptation and field-data appraisal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kotori | `ANALYZED` in V002 C001 E007; technical explanation, budget protest and qualification-result concession | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Yuuka | `ANALYZED` in V002 C001 E002 only; secure accountant/contest/extension speech, with label-corrupt segments excluded | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Wakamo | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ayane | `ANALYZED` in C001 E001-E020 and C002 committee investigation, governance, rescue, epilogue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -113,8 +116,11 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Arona | L | L | M with Sensei | M | L | M; new school-orientation sample | M | L |
 | Momoi | M for creative value, search inference and reported Yuzu refuge | M for contest/search, invitation and credential plan | L with Midori/Sensei/Alice/Yuzu | M; club advocacy, claimed Veritas roster work | L | M in secure lines only | M; robot danger and club loss | M; evidence/authorization gaps and instrumental pressure |
 | Midori | M for uncertainty, design critique and observed learning | M for false-status warning, teaching and speech correction | L with Momoi/Sensei/Alice/Yuzu | L; illustrator role | L | M in secure lines | M; robot danger and club loss | M; critique can coexist with participation |
-| Alice / `AL-1S` (provisional) | M within immediate language/relationship change; prior state GAP | M within play and `仲間` uptake; informed enrollment GAP | L with rescuers/Yuzu | L for card receipt, authorized status GAP | L for situated play only | M for RPG register; ordinary transfer GAP | L; found dormant, then game overload | M; no endless-stamina or informed-ID inference |
+| Alice / `AL-1S` (provisional) | M for language, relationship and observed capacity; prior state GAP | M for play, `仲間` and railgun choice; risk judgment narrow | L with rescuers/Yuzu/engineers | L for card/qualification; authorized status GAP | L for situated play only | M for RPG register; ordinary transfer GAP | M; robot site, game overload, firing/test | M; no origin/self-repair or safe-use inference |
 | Yuzu | L; prior hidden presence now disclosed | L; gratitude and welcome/game offer | L with Alice and club | L; named president, no observed governance choice | GAP; locker is not domestic baseline | L; hesitant gratitude with corrupted later turns | L; club-loss pressure via Momoi report | GAP; hiding motive/dorm status unknown |
+| Utaha | L; one professional encounter | M for conditional gift/test and inference | L with Alice/team | M; Engineering Club gatekeeping | GAP | M in secure lines | M; costly weapon and test | M; nanomachine/combat-design hypothesis unverified |
+| Hibiki | L; one technical setting | L for novice fit, warning and modification | L with Alice/team | M within design role | GAP | L; some label corruption | M; discharge/test aftermath | M; Bluetooth novelty does not prove user safety |
+| Kotori | L; one technical setting | L for cost concern and result acceptance | L with Alice/team | M within explainer/resource role | GAP | M theatrical explanation; corrupt turns excluded | M; blast and test | M; specifications are report, not independent audit |
 | Yuuka | L; office/private distinction glimpsed | M for conditional extension | L with Momoi/Sensei | M; accountant role | GAP | M in secure lines; corruption quarantined | M; club-dispute pressure | M; flexibility counters cold stereotype |
 | Wakamo | L | L | L with Sensei | L | GAP | M | H | L |
 | Ayane | M | H in operational/institutional contexts | M | H | L | H | H | M |
@@ -149,8 +155,11 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Arona | Technical knowledge limits explicit; Millennium dispute unknown | Sensei dyad; broader private/social GAP | Teasing, hurt, repair | P E002; V001 C1 E001; V002 C1 E001 |
 | Momoi | Discloses coordinate/Himari, Yuzu-refuge and Veritas roster claims; independent checks absent | Sibling/Sensei/council/newcomer contexts; no private control | Game-role labels, creator pride and reframing | V002 C1 E001-E005 as routed; E006 `u:0024`, `u:0047-0063`; attribution cautions |
 | Midori | Challenges legend, distinguishes `AL-1S`, recognizes `偽装` and RPG-register skew | Sibling/Sensei/newcomer/Yuzu contexts; no private control | Corrective speech, frightened fall, game-design criticism | V002 C1 E001-E005 as routed; E006 `u:0025`, `u:0036-0044`, `u:0052`; attribution cautions |
-| Alice / `AL-1S` (provisional) | Reports missing data; situated language and party-role learning, card provenance unknown | Rescuers/Yuzu, self-declared `仲間`; legal membership not established | Play/recommendation reactions are situated, not age or physiology proof | V002 C1 E004-E005 as routed; E006 `u:0006-0010`, `u:0019-0043`, `u:0049-0056` |
+| Alice / `AL-1S` (provisional) | Missing-data report, game learning and card provenance gap; Utaha's origin inference not verified | Rescuers/Yuzu/engineers; self-declared `仲間`, chosen railgun, legal membership unsettled | Game-derived hero language affects weapon appraisal | V002 C1 E004-E006 as routed; E007 scene 2 `u:0067-0118`, scene 3 result with label cautions |
 | Yuzu | Reports hidden observation; dorm/refuge only Momoi's claim | Direct welcome and game offer to Alice; club familiar context, private motive unknown | Hesitant greeting and game interest, but recommendation dispute labels corrupt | V002 C1 E005 `u:0142-0165`; E006 `u:0002-0013`, `u:0045`; no retroactive E004 knowledge transfer |
+| Utaha | Knows prototype specs/cost, infers Alice body purpose without verification | Engineering gatekeeper, one club/novice interaction; private GAP | `ロマン` rhetoric is professional/creative, not private leisure | V002 C1 E007 scene 2 `u:0002-0007`, `u:0059-0060`, `u:0081-0091`, `u:0120-0144`; scene 3 `u:0001-0013` |
+| Hibiki | Evaluates novice fit and practical modification; motives outside design unknown | Engineering team/Alice only | Gadget add-ons are design preference in role, not general play | V002 C1 E007 scene 2 `u:0015-0027`, `u:0105-0126`; scene 3 `u:0007` |
+| Kotori | Reports budget/specs, later concedes test result; independent records absent | Engineering team/Alice only | Explanatory flourish is role-limited | V002 C1 E007 scene 2 `u:0035-0057`, `u:0089`, `u:0116-0119`, `u:0137`; scene 3 `u:0003` |
 | Yuuka | Knows school evaluation and prize terms; ruin plan not disclosed to her | Public accountant dispute and brief Sensei-directed embarrassment; private life GAP | Nickname objection and dry correction, with corrupted turn labels excluded | V002 C1 E002 secure Yuuka turns within `u:0002-0013`, `u:0021-0024`, `u:0033-0058`, `u:0075-0084` |
 | Wakamo | Cause of destabilization unknown | Acute Sensei encounter only | Insufficient ordinary control | P E002 |
 | Ayane | Repeated evidence grading; mandate changes distinguish role from personality | Committee/Sensei/outsider procedure; private thin | Frustrated straight-role responses, not broad play | C1 E008/E013/E020; C2 E006/E013/E017/E020 |
@@ -181,8 +190,11 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Arona | `UNMODELED` | `NONE` | system-partner/triage observations only | Narrow Sensei dyad and unresolved ontology. Next: repeated ordinary/technical uncertainty contexts without importing future explanations. |
 | Momoi | `UNMODELED` | `NONE` | advocacy, reported refuge, overconfident search, shelter, credential procurement claim, creative pride | One mission; roster method/authorization, newcomer knowledge, ordinary counterexample and attribution unresolved. Next: response if false-status route is challenged. |
 | Midori | `UNMODELED` | `NONE` | critical loyalty, false-status warning, teaching and correction of RPG-skewed speech | One mission, corrupt labels, no independent/private contrast or response to actual credential. Next: action when card risk sharpens. |
-| Alice / `AL-1S` (provisional) | `UNMODELED` | `NONE` | self-designation, play/retry, situated speech expansion and `仲間` response | Origin, ordinary autonomy, durable preference, informed card/roster understanding and legal status unknown. Next: choice outside game with secure attribution. |
+| Alice / `AL-1S` (provisional) | `UNMODELED` | `NONE` | self-designation, play/retry, `仲間`, specific railgun desire and unusual lift/firing ability | Origin, safe control, actual construction, ordinary autonomy, informed status understanding unknown. Next: consequence/repair after unsafe discharge. |
 | Yuzu | `UNMODELED` | `NONE` | gratitude, direct welcome/game offer, hidden-observation report | Two adjacent club scenes; hiding/dorm circumstances, governance and independent ordinary interaction unknown. Next: her own account and distinct choice. |
+| Utaha | `UNMODELED` | `NONE` | prototype gatekeeping, exceptional gift, late test and body-design hypothesis | One role-heavy case; no independent/private baseline, origin hypothesis unverified. Next: response to safety/resource consequence. |
+| Hibiki | `UNMODELED` | `NONE` | novice assessment, warning, weapon adaptation and test-data interest | One engineering case; no ordinary/private contrast or independent decision. Next: behavior under conflicting user-safety/data interests. |
+| Kotori | `UNMODELED` | `NONE` | technical explanation, budget resistance and acceptance of test result | One engineering case with corrupt turns; no private or repeat decision. Next: evidence under a non-ceremonial resource disagreement. |
 | Yuuka | `UNMODELED` | `NONE` | school-accountant allocation argument, harsh evaluation, conditional extension, and Sensei-directed embarrassment | One scene, corrupt turn labels, no independent/private contrast or later follow-through. Next: secure role conflict and post-extension action. |
 | Wakamo | `UNMODELED` | `NONE` | first-contact destabilization and polite/destructive contrast only | Motive/ordinary baseline absent. Next: source-admitted contextual evidence; do not infer romance from intensity. |
 | Ayane | `PARTIAL_MODEL` | `NONE` | evidence-sensitive committee governance, emergency coordination, route authorship | Private/non-operator behavior thin. Next: ordinary dyad and personally implicated evidence-versus-loyalty conflict. |
@@ -204,7 +216,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Kaiser director (role actor) | `PARTIAL_MODEL` | `NONE` | creditor/force leverage, proxy control and morale-breaking | Executive-role evidence is not whole-person psychology. Next: independently constrained decision/response to lost leverage. |
 | Shiba Seki master (role actor) | `PARTIAL_MODEL` | `NONE` | hospitality, repair acceptance and service continuity across material loss | Service role only; private aims/family unknown. Next: distinct ordinary disagreement or relationship contrast. |
 
-Sixteen subjects have distributed `PARTIAL_MODEL` mechanisms; eleven remain `UNMODELED` after Yuzu's first direct appearance. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is currently `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Aru and Serika are the nearest future pilot candidates because the main story supplies both pressure and some low-stakes/social evidence, but the current tranche intentionally stops at `PARTIAL_MODEL`.
+Sixteen subjects have distributed `PARTIAL_MODEL` mechanisms; fourteen remain `UNMODELED` after the three Engineering Club subjects enter on distinct direct decisions. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is currently `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Aru and Serika are the nearest future pilot candidates because the main story supplies both pressure and some low-stakes/social evidence, but the current tranche intentionally stops at `PARTIAL_MODEL`.
 
 ### 5.1 Domain-specific readiness
 
@@ -219,6 +231,9 @@ Sixteen subjects have distributed `PARTIAL_MODEL` mechanisms; eleven remain `UNM
 | Midori | U | U | U | U | U |
 | Alice / `AL-1S` (provisional) | U | U | U | U | U |
 | Yuzu | U | U | U | U | U |
+| Utaha | U | U | U | U | U |
+| Hibiki | U | U | U | U | U |
+| Kotori | U | U | U | U | U |
 | Yuuka | U | U | U | U | U |
 | Wakamo | U | U | U | U | U |
 | Ayane | P | U | P (committee) | P | P (operator) |
@@ -353,4 +368,10 @@ Routing: [V002 C001 E005 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_
 
 Alice's game-shaped social learning continues through rapid overnight play and a self-declared `仲間` response to a presented student ID. This materially expands situated evidence but does not establish her stamina in general, natural school speech, legal enrollment, or informed understanding of Momoi's self-interrupted Veritas `ハッキ……登録` report. Momoi's material card changes the prior no-card state; roster alteration and authorization remain unverified. Midori questions the speech outcome; Yuzu welcomes Alice. No subject changes readiness: sixteen `PARTIAL_MODEL`, eleven `UNMODELED`, none operational/validated. No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
-Routing: [V002 C001 E006 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E006_DEEP_READING.md) → `BA:main:002:001:006` canonical scene 1. The next unopened unit is `BA:main:002:001:007`.
+Routing: [V002 C001 E006 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E006_DEEP_READING.md) → `BA:main:002:001:006` canonical scene 1. Its historical next unit was `BA:main:002:001:007`, now recorded below.
+
+## 17. V002 C001 E007 provisional coverage delta
+
+Alice gains directly observed, unusual lift/firing capacity and a specific railgun preference, but the ceiling blast and off-page qualification result do not establish safe general weapon control, original combat design, or nanomachine repair. Utaha's numerical grip estimate and body-purpose account remain hypotheses. Utaha, Hibiki and Kotori enter as `UNMODELED` because each has a distinct direct professional decision/appraisal; one shared workshop crisis offers no private or cross-context mechanism. Momoi/Midori gain resource and Alice-capability context, no readiness promotion. Counts are sixteen `PARTIAL_MODEL`, fourteen `UNMODELED`, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+Routing: [V002 C001 E007 reading](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) → `BA:main:002:001:007` canonical scenes 1–3. The next unopened unit is `BA:main:002:001:008`.

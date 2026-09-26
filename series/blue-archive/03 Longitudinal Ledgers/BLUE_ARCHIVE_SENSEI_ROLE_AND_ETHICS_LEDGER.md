@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
@@ -518,3 +518,9 @@ The chapter strongly supports responsible adulthood while rejecting adult suprem
 - No Sensei action or choice is represented; the student ID and claimed roster alteration must not be attributed to Sensei or adult authorization.
 - Alice's `仲間` declaration is an affirmative interpersonal response, not proof she was informed of the `ハッキ……登録` method. The adult-agency claim remains under pressure from student-controlled institutional means.
 - No Sensei reconstruction rule or frozen-prediction test (`NO_MATERIAL_RECONSTRUCTION_DELTA`; `NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C001 E007 delta — armed agency without Sensei
+
+- Sensei does not appear, speak, command the test, or choose Alice's weapon. No Sensei branch or reconstruction rule is supplied (`NO_MATERIAL_RECONSTRUCTION_DELTA`).
+- Alice's expressed preference is honored only after an unexpected physical/qualification trial; her unsafe indoor firing and the workshop damage complicate the ethic of enabling choice without preparation or informed risk assessment.
+- Utaha's test is an engineering gate, not an adult rescue or a Schale authorization. No frozen prediction is testable (`NO_DIAGNOSTIC_OPPORTUNITY`).

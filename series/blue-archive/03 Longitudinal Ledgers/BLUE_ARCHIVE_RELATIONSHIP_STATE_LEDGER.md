@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE RELATIONSHIP STATE LEDGER
@@ -344,3 +344,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - **CLUB ↔ ALICE:** Alice anticipates continued play and declares herself a joining `仲間` after receiving an ID. Her voiced belonging is real within the scene, but does not establish knowledge of the card's altered provenance or formal club admission.
 - **MOMOI ↔ MIDORI:** Momoi calls game-derived speech refined and proceeds to weapon planning; Midori says it remains skewed. Their differing evaluation continues within cooperation.
 - **CLUB ↔ VERITAS:** Momoi reports Veritas roster work in a self-corrected hacking phrase; no Veritas member appears or confirms the relationship.
+
+## V002 C001 E007 relationship delta — preference, gift, test
+
+- **ALICE ↔ ENGINEERING CLUB:** Alice chooses a named railgun against initial practical advice. Utaha honors the choice after a lift/discharge and late combat test, while Kotori voices budget objection and Hibiki offers safer alternatives/adaptation. This is conditional institutional inclusion, not unqualified acceptance.
+- **GAME DEVELOPMENT CLUB ↔ ENGINEERING CLUB:** Momoi requests a weapon, Utaha offers prototypes, then changes the terms for the expensive one. The unit ends with a gift, not an enduring alliance or proof the damaged ceiling is repaired.
+- **MOMOI/MIDORI ↔ ALICE:** the sisters witness capability beyond their assumptions; Momoi presses the gift and Midori asks whether Utaha really permits the transfer. Alice's chosen weapon remains distinct from the sisters' initial plan to equip her.
+- **UTAHA/HIBIKI/KOTORI:** the engineering trio differs in decision roles—Utaha decides, Hibiki designs/records, Kotori explains and protests cost.

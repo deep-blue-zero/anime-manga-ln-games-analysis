@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE MOTIF / THEME / CALLBACK LEDGER
@@ -489,3 +489,11 @@ The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/
 - **Legibility without legitimacy:** the student card gives visible form to the club's desired status; Momoi's `ハッキ……登録` preserves the ethical gap between database presence and authorized belonging.
 - **Affirmed `仲間`:** Alice's own party-like declaration strengthens social inclusion without retroactively consenting to hidden credential production.
 - **The remaining weapon:** the plan's next item exposes another gap between being treated as a student and having an understood, chosen role in the school.
+
+## V002 C001 E007 motif / callback delta — romance of invention, qualification, harm
+
+- **RPG artifact made material:** the name `光の剣` activates Alice's desire for a real railgun; earlier borrowed game experience cannot substitute for firearms training, yet her physical ability is real.
+- **`ロマン` and scarce budgets:** Engineering Club ambition echoes the Game Development Club's creative-value defense, but the 70%-budget prototype and ceiling damage expose external costs.
+- **Qualification returns:** E004's automated access `資格` and E007's late engineering `資格` classify people differently; neither establishes legitimate school status or comprehensively judges Alice.
+- **Choice versus safe use:** Alice chooses, lifts and fires; respecting preference is not equivalent to protecting workers or managing recoil and blast.
+- **Expert inference versus origin:** Utaha reads the body as combat-designed/self-repairing, but the episode ends on `君はいったい……？`, an unanswered question rather than a reveal.

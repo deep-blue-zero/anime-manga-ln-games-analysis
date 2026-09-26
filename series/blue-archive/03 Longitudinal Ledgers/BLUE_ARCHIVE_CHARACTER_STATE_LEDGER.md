@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # BLUE ARCHIVE CHARACTER STATE LEDGER
@@ -369,3 +369,14 @@ This is material context/knowledge/relationship evidence but no defensible stand
 - **Sensei/Yuuka:** absent; no direct state change. No weapon or tour occurs yet.
 
 Material contextual evidence, no readiness promotion or standalone model; `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine `u:0005`, `u:0014-0017`, `u:0048`, `u:0057` for exact speaker claims.
+
+## V002 C001 E007 delta — chosen railgun, unsafe discharge, engineer inference
+
+- **Alice:** reacts strongly to `光の剣：スーパーノヴァ`, asks for it, lifts the reported 140 kg-plus railgun, fires indoors and damages the ceiling, then passes a combat qualification whose tactics are not shown. This proves unusual situated capacity, not safe handling, original design or nanomachine repair.
+- **Momoi/Midori:** bring Alice under a school weapon norm; Momoi's money hypothesis is corrected by the weight issue, while Midori witnesses Alice's unexpected strength. Neither sister knew Alice's physical limits beforehand.
+- **Utaha:** offers prototypes, first resists the giant gun on practical grounds, grants it after the demonstration, imposes a late qualification and later infers combat design/self-repair from observed body/strength. Her inference is not a fact about Alice's maker. First direct readiness `UNMODELED`.
+- **Hibiki:** offers a novice-suitable plastic pistol, warns before the blast, accepts handle/strap modification and sees possible field-data value. First direct readiness `UNMODELED`.
+- **Kotori:** explains prototype/budget, protests the costly gift, participates in qualification and concedes after the result. First direct readiness `UNMODELED`.
+- **Sensei/Yuzu:** absent. No source establishes that the test drones are the ruins robots.
+
+Material context and resource evidence, no standalone model or promotion; `NO_DIAGNOSTIC_OPPORTUNITY`. Quarantine role-flipped labels in scene-1 `u:0004`, scene-2 `u:0009-0013`, `u:0040`, `u:0062`, `u:0074-0076`, `u:0095-0097`, `u:0133-0137`, scene-3 `u:0004`, `u:0008`.
