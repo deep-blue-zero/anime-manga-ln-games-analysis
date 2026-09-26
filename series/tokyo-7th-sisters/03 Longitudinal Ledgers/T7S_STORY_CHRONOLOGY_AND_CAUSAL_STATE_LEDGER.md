@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.49"
+version: "11.50"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 181 complete i-n-g primary documents / T7S_B0080–T7S_B0148; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 184 complete i-n-g primary documents / T7S_B0080–T7S_B0149; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 611`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 688`; `last_closed_block = T7S_B0148`. The admitted horizon contains 416 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 181 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 619`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 699`; `last_closed_block = T7S_B0149`. The admitted horizon contains 419 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 184 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2144,3 +2144,34 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.50. [B0148](../02%20Readings/
 | `EDGE-0695` | `HEALTH_EVENT_TO_WORK_BARGAIN` | Momoka invokes real collapse to resist new CM in `EV-B0148-008`; terms not agreed. |
 
 `T7S_B0148_CLOSE-20260926`: eight chapter events and eleven bounded edges; no certified trade result, legal rule, sponsor due diligence or medical recovery.
+
+## B0149 Sumire seeks a witness while finding her stage reason
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.51. [B0149](../02%20Readings/T7S_B0149_DEEP_READING.md) owns the A/B/C locator key. B0007 is a bounded comparison to Sumire's early view of the Player, not a complete elapsed chronology. The solo song itself is cut away; Player's stream report and Sumire's postshow speech support occurrence but not technical/audio/audience assessment.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0149-001` | Earlier group live draws cheers for Sumire; peers praise her and Player responds late/distracted. | A:P0–20; `KNOW-0387`. His preoccupation is visible but motive not yet disclosed; no song-quality audit. |
+| `EV-B0149-002` | Player proposes solo live with some chorus support for growth; Sumire initially lacks same goal but agrees because he sees potential; peers commit. | A:P21–84; `KNOW-0388`. Coney's romance reading is joke, not confession; solo burden remains. |
+| `EV-B0149-003` | Sumire rehearses while Player absent; she reports not meeting him for over two weeks and seeks direct evaluation. | B:P2–44; `KNOW-0389`. Durations actor-reported; peers' praise does not replace requested feedback. |
+| `EV-B0149-004` | Sumire sends complaints about absent/slow replies, finds Coney covering office work during Player's Sendai trip and asks Player to attend live. | B:P49–128; `KNOW-0390`. Future tour planned, not held; his remote reply taken as promise. |
+| `EV-B0149-005` | Momoka phones fragmentary accident/injury news; Sumire drops microphone, cannot stand and rests; Coney lets her find her reason. | C:P1–83; `KNOW-0391`. Hospital/severity initially unknown; no diagnosis of leg weakness. |
+| `EV-B0149-006` | Sumire considers stopping show, recalls Player's dream/back as radiant and returns saying she will perform. | C:P84–128; `KNOW-0392`. Reason is self-found, not proof absence/concern solved. |
+| `EV-B0149-007` | Show occurs across cut; Player says he watched stream from hospital, judges it good; Sumire tells him she feared for him but wanted to shine. | C:P129–152; `KNOW-0393`. No live sound/audience audit or accident mechanism. |
+| `EV-B0149-008` | Sumire offers hospital care during off time, asks Seven Sisters comparison; Player limits streamed comparison; she leaves an intimate thought unfinished and asks him to watch her. | C:P157–203; `KNOW-0394`. Coney covers work roughly a week; no confession, guaranteed recovery or future tour. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0696` | `GROUP_STAGE_TO_SOLO_PROPOSAL` | Sumire's praised stage in `EV-B0149-001` triggers Player's offer in `002`, not her preexisting solo goal. |
+| `EDGE-0697` | `MANAGER_GROWTH_FRAME_TO_QUALIFIED_ACCEPTANCE` | Sumire accepts `EV-B0149-002` because he sees possible shine; she says the future-goal language feels alien. |
+| `EDGE-0698` | `SOLO_PREPARATION_TO_MANAGER_ABSENCE` | Player's production work coexists with nonattendance in `EV-B0149-003`–`004`; not a contradiction resolved by busyness. |
+| `EDGE-0699` | `ABSENCE_TO_WITNESS_NEED` | Sumire's messages/darkness in `EV-B0149-003`–`004` specify desired feedback, not mere applause. |
+| `EDGE-0700` | `REMOTE_PROMISE_TO_SHOWDAY_EXPECTATION` | Sumire treats Player's reply as attendance promise in `EV-B0149-004`–`005`; unforeseeable accident not shown in advance. |
+| `EDGE-0701` | `FRAGMENTARY_ACCIDENT_TO_ACUTE_DISTRESS` | Momoka's call in `EV-B0149-005` destabilizes Sumire; injury/severity information absent. |
+| `EDGE-0702` | `REST_AND_REFLECTION_TO_OWN_REASON` | Coney gives space and Sumire recalls radiant back in `EV-B0149-006`; no universal protocol. |
+| `EDGE-0703` | `OWN_REASON_TO_OFFSCREEN_PERFORMANCE` | Sumire exits toward stage, later accounts support occurrence in `EV-B0149-007`; audio/crowd unknown. |
+| `EDGE-0704` | `STREAM_VIEW_TO_BOUNDED_PRAISE` | Player praises `EV-B0149-007` but refuses definitive Seven Sisters comparison in `008`. |
+| `EDGE-0705` | `RECOVERED_CONTACT_TO_WATCH_ME_REQUEST` | Hospital conversation in `EV-B0149-008` asks for sustained recognition; unfinished thought not confession. |
+| `EDGE-0706` | `PLAYER_INJURY_TO_CONEY_COVER` | Coney reports about a week of work cover in `EV-B0149-008`; exact staffing/medical plan unknown. |
+
+`T7S_B0149_CLOSE-20260926`: eight chapter events and eleven bounded edges; performed show by report/stream is distinct from listened song, accident audit and resolved intimacy.

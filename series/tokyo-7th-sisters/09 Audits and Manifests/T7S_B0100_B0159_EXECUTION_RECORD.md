@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.48"
+version: "1.49"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0148`.
-- Completed run blocks: **49/60**; completed run episodes: **141/174**.
-- Next: `T7S_B0149`, chapter `301210`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0149`.
+- Completed run blocks: **50/60**; completed run episodes: **144/174**.
+- Next: `T7S_B0150`, chapter `301220`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -85,7 +85,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0146` | `301180` | 角森ロナ | 誰かの光 | `612200301 / 612200302 / 612200303` | CLOSED |
 | `T7S_B0147` | `301190` | 野ノ原ヒメ | おヒメ様の貴婦人修行 | `612200401 / 612200402 / 612200403` | CLOSED |
 | `T7S_B0148` | `301200` | 芹沢モモカ | モモカ・オブ・ストリート | `612200501 / 612200502 / 612200503` | CLOSED |
-| `T7S_B0149` | `301210` | 臼田スミレ | あなたの背中 | `612200601 / 612200602 / 612200603` | AUTHORIZED_UNREAD |
+| `T7S_B0149` | `301210` | 臼田スミレ | あなたの背中 | `612200601 / 612200602 / 612200603` | CLOSED |
 | `T7S_B0150` | `301220` | 神城スイ | ア・リトル・ボーイ・ミーツ・ガール | `612200701 / 612200702 / 612200703` | AUTHORIZED_UNREAD |
 | `T7S_B0151` | `301230` | 久遠寺シズカ | わたしの名前 | `612200801 / 612200802 / 612200803` | AUTHORIZED_UNREAD |
 | `T7S_B0152` | `301240` | アレサンドラ・スース | プリンシパル・プリンシプル | `612200901 / 612200902 / 612200903` | AUTHORIZED_UNREAD |
@@ -302,3 +302,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0148 closeout receipt
 
 [T7S_B0148](../02%20Readings/T7S_B0148_DEEP_READING.md): Momoka seeks passive income through shares/day trading, develops selective market knowledge but misses lessons and collapses from clinician-stated malnutrition and overwork; Sawara reframes trading as more labor, Momoka reports exit/spending proceeds, and later work-rest bargaining remains unsettled. All 339 pages, 301 text records and 38 command-only pages are reviewed; 9 exact static composites were inspected. Source-lock 12.50 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 243 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 49/60 blocks, 141/174 episodes; publication remains pending.
+
+## B0149 closeout receipt
+
+[T7S_B0149](../02%20Readings/T7S_B0149_DEEP_READING.md): The Player proposes Sumire's solo live but misses weeks of rehearsals and the show after reported injury; Sumire finds her own reason to perform, he praises a stream view, and she asks him to watch her closely without an explicit romantic confession or song audit. All 420 pages, 341 text records and 79 command-only pages are reviewed; 8 exact static composites were inspected. Source-lock 12.51 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 287 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 50/60 blocks, 144/174 episodes; publication remains pending.

@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.49"
+version: "11.50"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 181 complete i-n-g primary documents / T7S_B0080–T7S_B0148; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 184 complete i-n-g primary documents / T7S_B0080–T7S_B0149; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 689`; `revisions = 42`; `predictions = 7`; `AV_reviews = 95`; `literary_findings = 689`. Claims are bounded to their stated B0001 through B0148 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 69 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 694`; `revisions = 42`; `predictions = 7`; `AV_reviews = 96`; `literary_findings = 694`. Claims are bounded to their stated B0001 through B0149 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 70 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2292,3 +2292,27 @@ Owner and A/B/C locator key: [B0148](../02%20Readings/T7S_B0148_DEEP_READING.md)
 - Outcome: `REVIEWED` for nine selected static resources and all native page-state segmentation. Two hundred forty-three dialogue-associated voice pages plus title cues, BGM/SFX and clinical/market primary records remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0148_CLOSE-20260926`: five bounded claims and one AV review; no investment/legal prescription, profit audit, sponsor clearance, medical recovery, specialist or monograph promotion.
+
+## B0149 manager presence, self-authored stage motive and omitted confession
+
+Owner and A/B/C locator key: [B0149](../02%20Readings/T7S_B0149_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.51. B0007 is a bounded comparison, not a complete fictional timeline.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0149-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Player's ambition creates solo opportunity but remote production labor does not supply the feedback/presence Sumire asks for; his busyness and her unmet need remain jointly true. | A:P21–84; B:P2–128. No full managerial calendar audit. |
+| `CL-B0149-002` | `BOUNDED_INFERENCE`; D1; high for limit | Fragmentary accident news and Sumire's acute inability to rise are staged, but neither injury severity nor a diagnosis of her temporary weakness is available; later performance cannot erase that uncertainty. | C:P20–128. Coney's pause is local, not universal crisis policy. |
+| `CL-B0149-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sumire finds a stage reason by joining her own wish to shine with the Player's previously admired forward dream, not by merely obeying his growth assignment or forgetting fear. | B:P95–128; C:P84–152,184–203. Seven Sisters comparison remains unproven. |
+| `CL-B0149-004` | `BOUNDED_INFERENCE`; D1; high | Solo show occurs across cut; Player's streamed praise and Sumire's account do not provide listened song/audience audit, medical chart or complete operational aftermath. | C:P116–180. No technical superiority or injury resolution certified. |
+| `CL-B0149-005` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Sumire's unfinished “then…” and request that he watch her carry intimacy, but neither Coney's joke nor Player's confused response constitutes an explicit romance confession. | A:P31–56; C:P184–203. Omitted words stay unknown. |
+
+### AV-0096 — Sumire's prior stage and solo-day states
+
+- Questions/claims: whether static assets show performed solo, audience verdict, Player injury details, a concrete confession or future comparison to Seven Sisters; `CL-B0149-001`–`005`.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song, injury and unstated relationship restrictions.
+- Selection: Sumire earlier stage `adv_chara_008_05_02`, ordinary `008_01_08`, solo-day `008_07_01`; Coney `002_03_01`; Haru stage `003_06_04`; Hime stage `006_03_01`; Rona stage `005_07_01`; generic clinical role `027_01`. All 420 native pages and seventy-nine command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.51 binds eight media receipts.
+- Observed: Sumire's stage/ordinary/solo-day bodies remain one subject; selected costume indicates preparation, not heard performed solo. The generic clinical silhouette supplies no injury mechanism or diagnosis.
+- Native occurrence: command-only A:P3–6,18–20,38–41,62–65,85; B:P0–1,12,14–17,45–48,52–55,59–62,67–70,74–77,115–118,127,129; C:P0,19,49,51–54,80–83,101,106,111–115,124–128,133,153–156,167,203. C:P124–133 cuts from backstage/decision to hospital; no inline movie/performed song in admitted set.
+- Outcome: `REVIEWED` for eight selected static resources and all native page-state segmentation. Two hundred eighty-seven dialogue-associated voice pages plus title cues, BGM/SFX and actual solo performance remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0149_CLOSE-20260926`: five bounded claims and one AV review; no song certification, clinical diagnosis, explicit romance, specialist or monograph promotion.

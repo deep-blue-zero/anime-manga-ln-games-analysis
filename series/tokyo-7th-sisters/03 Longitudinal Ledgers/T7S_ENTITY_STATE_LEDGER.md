@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.49"
+version: "11.50"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 181 complete i-n-g primary documents / T7S_B0080–T7S_B0148; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 184 complete i-n-g primary documents / T7S_B0080–T7S_B0149; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 96`; `character_states = 78`; `epistemic_states = 386`; `directional_relationship_states = 588`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0148, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 96`; `character_states = 78`; `epistemic_states = 394`; `directional_relationship_states = 596`; `unit_states = 27`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0149, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3287,3 +3287,42 @@ The [B0148](../02%20Readings/T7S_B0148_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0588` | Momoka → Sumire, **using taste as a speculative signal** | Asks about perfume and buys by brand, later neglects lesson with Sumire present. B:P16–40; C:P1–31. Reciprocal `REL-0587`; price outcome unknown. |
 
 `T7S_B0148_CLOSE-20260926`: eight actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no new medical institution/identity or financial expert route.
+
+## B0149 Sumire's work, distress and reciprocal attention
+
+The [B0149](../02%20Readings/T7S_B0149_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.51, binds these updates. Existing Sumire `IDENTITY-0016`/`CHAR-0013`, Player `CHAR-0001`, Coney `CHAR-0003`, Haru `CHAR-0004`, Hime `CHAR-0009`, Rona `CHAR-0008`, Momoka `CHAR-0012` and Nanastar `UNIT-0002` suffice. No new person/unit is created; the clinician/hospital are generic and the Player's mechanism/diagnosis unknown.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0013` / Sumire | Receives solo opportunity, rehearses without desired Player feedback, is distressed by injury news, chooses to perform, visits hospital, asks to be watched and leaves an intimate thought unfinished. | A:P0–84; B:P2–128; C:P1–203. No technical song verdict, clinical cause of momentary leg weakness or explicit confession. |
+| `CHAR-0001` / Player | Proposes solo live, travels/works on preparations, misses rehearsal and live after injury, praises streamed show and declines ungrounded Seven Sisters comparison. | A:P13–65; B:P35–128; C:P129–203. Busy support does not erase communication gap; injury mechanism and medical status unverified. |
+| `CHAR-0003` / Coney | Mistakes solo proposal for love-talk, covers office and later hospital-leave work, offers Sumire rest but asks peers to let her find her reason. | A:P21–56; B:P78–114; C:P34–83,157–167. Joke not romantic proof; withholding reason not a general care protocol. |
+| `CHAR-0004` / Haru | Praises stage and joins chorus/support, reports Player absent, wants to speak to Sumire after accident but respects Coney's boundary. | A:P7–10,66–84; B:P2–44; C:P1–79. No evidence she could perform the solo in Sumire's place. |
+| `CHAR-0009` / Hime | Praises Sumire, joins chorus, notices manager absent, receives Momoka's incomplete accident call and tries to find hospital. | A:P7–84; B:P18–44; C:P20–79. Does not learn actual injury severity before Sumire decision. |
+| `CHAR-0008` / Rona | Praises Sumire and joins support, notices Player absence and fears injury news. | A:P8–84; B:P18–44; C:P1–79. No independent clinical fact or substitute solo. |
+| `CHAR-0012` / Momoka | Relays brief accident/injury report to Hime, then cannot be reached before show. | C:P20–32. Information source, location and reason for limited contact unknown. |
+| `UNIT-0002` / Nanastar | Produces solo-centered show with chorus peers, absent Player and Coney covering operations; actual performance occurs by later accounts. | A:P42–84; B:P2–128; C:P1–203. No contingency protocol, technical show audit, injury/sick-leave staffing plan or future Sendai performance. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0387` | Sumire/peers see earlier applause; Player hears request to judge her shine but is distracted. | A:P0–20. Reason for preoccupation not yet stated. |
+| `KNOW-0388` | Player knows solo proposal/growth aim; Sumire hears but says she lacks that explicit future goal; Coney jokes romance, peers learn support roles. | A:P21–84. Joke is not disclosure. |
+| `KNOW-0389` | Sumire reports over-two-week nonmeeting and needs Player's feedback; peers know absences, while he is elsewhere preparing. | B:P2–44. No exact independent attendance log. |
+| `KNOW-0390` | Sumire sends complaint/request and receives attendance reply; Coney knows Sendai business, interprets Player effort as support, but Sumire feels cold/alone. | B:P49–128. Interpretation does not replace direct contact. |
+| `KNOW-0391` | Hime hears Momoka's fragmentary injury report; group lacks hospital/severity; Sumire feels unable to stand; Coney knows she needs pause. | C:P20–83. No diagnosis or completed communications. |
+| `KNOW-0392` | Sumire privately recalls Player's earlier ambition/back and decides to perform; peers see her return but not all private reasoning. | C:P84–128. Not proof worry ended. |
+| `KNOW-0393` | Player says his injury is not serious by his view and doctor prevented travel; he watched stream, praises show; Sumire tells fear/motive. | C:P129–152. No clinical chart or listened/audience performance audit. |
+| `KNOW-0394` | Coney reports work cover; Sumire hears Player's comparison limit, keeps “then…” unsaid and asks for attention; Player agrees but misses nuance. | C:P157–203. No explicit romantic proposition or guaranteed follow-up. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0589` | Player → Sumire, **opportunity without timely presence, then bounded praise** | Proposes solo, works away, misses show through injury, watches stream and agrees to watch her. A:P42–65; B:P35–128; C:P129–203. Reciprocal `REL-0590`; production work not substitute for desired feedback. |
+| `REL-0590` | Sumire → Player, **seeking witness and a shared horizon** | Accepts because he sees shine, sends complaints/attendance request, performs while worried, asks him to watch closely. A:P49–81; B:P2–128; C:P84–203. Reciprocal `REL-0589`; no completed confession. |
+| `REL-0591` | Coney → Sumire, **rest and self-authored decision space** | Offers break after accident news, asks peers not to supply her reason and later teases Player. C:P34–83,157–167. Reciprocal `REL-0592`; not a universal withholding rule. |
+| `REL-0592` | Sumire → Coney, **accepting pause then returning by choice** | Moves to dressing room, returns saying reason found; earlier hears Coney interpret Player's effort. B:P78–114; C:P34–128. Reciprocal `REL-0591`; private reason only partly disclosed. |
+| `REL-0593` | Haru → Sumire, **chorus support and offered conversation** | Praises preparation and wishes to talk during crisis. A:P66–84; B:P2–44; C:P50–75. Reciprocal `REL-0594`; not substitutable solo voice. |
+| `REL-0594` | Sumire → Haru/peers, **accepting help while retaining solo choice** | Thanks chorus friends, later returns and leads them toward stage. A:P66–84; C:P116–128. Reciprocal `REL-0593`; not proof she needed no manager contact. |
+| `REL-0595` | Coney → Player, **humorous pressure and operational cover** | Teases love talk, demands show attendance and later covers work with complaints. A:P21–56; C:P1–18,157–167. Reciprocal `REL-0596`; work cover not endless capacity. |
+| `REL-0596` | Player → Coney, **reliance on operational cover during injury** | She reports covering his work and chastises him at hospital; no detailed handover is shown. A:P21–56; C:P157–167. Reciprocal `REL-0595`; no clinical/workload audit. |
+
+`T7S_B0149_CLOSE-20260926`: eight actor-local knowledge records, four directional relationship pairs and existing-actor/unit annotations; no clinical, romantic or performed-audio certification.
