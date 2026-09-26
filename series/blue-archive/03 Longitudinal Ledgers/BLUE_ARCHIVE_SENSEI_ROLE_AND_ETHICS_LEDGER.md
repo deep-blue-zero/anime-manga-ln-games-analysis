@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -648,3 +648,7 @@ Sensei's urgent wishes to stop Alice and have others help are `心の声`, not a
 ## V002 C002 E008 delta — care without causal omniscience
 
 Sensei brings/helps bring Momoi to Schale's infirmary by narration, checks a console that will not power on, and is troubled by unknown Alice/device links. Midori/Yuzu ask what to do about Alice's seclusion; Sensei's choices reassure them and volunteer to speak with her. The `u:0040-0044` permission/entry-looking lines are `心の声`, so no secure audible permission script should be inferred. Alice voices guilt/amnesia, and Sensei urges calm, but no technical or emotional cure occurs before Rio arrives. Eleven choices are singleton; no readiness promotion, model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E009 delta — contesting the remedy without owning the facts
+
+Sensei hears Rio's public AL-1S/Divi:Sion classification, monitoring-miss admission and forecast without being given independent technical proof. The printed choice `合理、非合理の問題じゃないよ` contests reducing Alice's fate to Rio's rationality frame; it does not deny Momoi's injury, diagnose the devices or prove harmlessness. Rio appears to answer Sensei `心の声` at `u:0041`, `u:0072` and `u:0092`, but those inward lines are not secure audible objections. Seven choice groups are singleton. Nel, not Sensei, directly refuses the abduction order; Toki's attack begins before any result. No adult rescue, unilateral override, halo outcome, readiness promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

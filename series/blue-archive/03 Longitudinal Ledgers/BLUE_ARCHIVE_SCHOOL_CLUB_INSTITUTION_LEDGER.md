@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -501,3 +501,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Forensic leads:** Hare suspects robot contact, Midori recalls Momoi's game console starting during Alice's change, and Sensei recalls ruins provenance. The console no longer powers on for Sensei; the `Divi:Sion`/`<Key>` link is an open question, not a completed technical finding.
 - **Club space:** Alice is staying shut inside the clubroom after the fire; Midori/Yuzu have repeatedly tried contact. Extent of damage, access status and permanent clubroom/council standing are not formally determined here.
 - **Council authority:** Rio appears in person as Millennium president and offers “truth.” This is not yet an official evidentiary hearing or a verified classification; her disclosure begins only after the E008 cutoff.
+
+## V002 C002 E009 institutional delta — surveillance failure and contested coercive authority
+
+- **Classification/incident:** Rio, speaking as Seminar president, labels Alice AL-1S/Divi:Sion commander and admits one robot escaped what she believed was complete C&C/AMAS tracking. This is a participant admission and interpretation, not a verified incident audit, origin registry or finding that Alice summoned every robot.
+- **Proposed remedy:** Rio says Alice's disappearance and halo destruction in a safe place are the only solution. No due process, independent technical test, alternative risk reduction or actual destruction is shown. Momoi's E008 medical condition receives no update.
+- **Command chain:** Rio calls C&C her direct agents and orders Nel to recover Alice. Nel rejects the assignment as kidnapping an uninformed same-school student. The institution's asserted command authority is thus not equivalent to unconditional compliance. `AMAS A`-labeled perimeter and recovery lines are role-corrupt; neither perimeter control nor AMAS independent will is verified.
+- **Contingency:** Rio says she anticipated Nel's refusal and summoned only her, then calls Toki. Toki identifies as C&C callsign zero four and ambushes Nel. Membership self-identification is direct; the earlier fifth-C&C encounter and outcome remain unconfirmed.

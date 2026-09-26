@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -921,3 +921,10 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Alice's unknown `セーブデータ`, no-tutorial and repeated-play analogies describe body response without conscious memory. `何も、思い出せません` limits memory; `全部、アリスがやった` is guilty self-attribution, not complete causal proof.
 - Rio's `危惧していた通り`/`「真実」を教えにきた` are her framed assessment and promised disclosure. `u:0062` has unidentified speaker until later entrance/identification; E009 content must not be imported.
 - Sensei `心の声` at `u:0010`/`u:0017`/`u:0022`/`u:0026`/`u:0032`/`u:0040-0044`/`u:0063` remains inward despite apparent dialogue/entry. Eleven choice groups are singleton.
+
+## V002 C002 E009 delta — dehumanizing address and refusal register
+
+- Rio's `ソレ`, `普通の生徒ではない`, `ただの機械`, `魔王` and `ヘイローを破壊` move from ontology claim through game analogy to proposed destruction. `名もなき神々の王女AL-1S` appears as a narration title in her reveal, not a separately authenticated classification.
+- `私の仮説は証明された` and `唯一`/`一つだけ` are Rio's evidentiary and exclusivity claims. Her `完全にこちらのミス`/`私の不手際` is an admitted monitoring error, not audited reach of C&C/AMAS surveillance.
+- Alice's `勇者`/`みんなと一緒に`/`クエスト` expresses her desired role and attachment under shock, not a factual rebuttal of all risk. Nel's rough `誘拐` refusal and `同じ学園の生徒`/`なんもわかってねぇヤツ` mark a reasoned boundary; Rio's `私的な感情はない` claim cannot overwrite it.
+- **Quarantine:** `u:0028-0030` Alice label reads as Midori; `u:0062-0066` Alice label as Rio; `u:0069-0070` Alice label as Midori; `u:0108-0109` `AMAS A` carries Rio-like first person; `u:0122-0123` Nel/Rio labels swap. Neither exact voice nor independent AMAS agency follows from those labels. Rio apparently responds to Sensei `心の声` at `u:0041`/`u:0072`/`u:0092`; `u:0132`/`u:0140` are also private. Seven printed choices are singleton.

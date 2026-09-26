@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -661,3 +661,11 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Game-machine and `<Key>` echoes:** Midori's console-start report and Sensei's ruins memory call back to E017/E020 `<Key>`/`Divi:Sion`, but the source asks whether they connect and the console now fails to start. A motif is not a decoded system diagram.
 - **Save data without recall:** Alice uses her habitual game language for a terrifying body/memory split. Her self-blame expresses care for Momoi while not resolving whether she chose or controlled the attack.
 - **Rio's “truth” arrives into vulnerability:** the president names an anticipated concern just as Alice asks what to do. Her timing/claim exerts authority, but its substantive truth and ethical use await later source.
+
+## V002 C002 E009 motif / callback delta — imposed demon king and disobedient guard
+
+- **Hero/game language inverted:** Rio appropriates Alice's cherished `勇者` register to name her `魔王` and treat a protocol-state injury as her chosen villain role. The analogy has emotional force and unresolved causation; Alice's wish to quest with friends is a present countervoice.
+- **“Truth” versus test:** E008's promised truth becomes an interested classification with an admitted monitoring miss. The local incident is real, but the leap to Alice as summoner/world ender remains hypothesis, not a completed scientific callback to E001.
+- **Bomb/safety imagery:** Rio's “disassembly” metaphor resolves into halo destruction. Technical risk language cannot hide the represented proposed action or its missing necessity proof.
+- **From enemy/ally play to refusal:** E005 Alice's Nel ally/arcade bond and E007 C&C rescue meet Rio's command claim. Nel declines to abduct an uninformed fellow student, giving institutional obedience a concrete limit without turning her into a universal protector.
+- **Fifth C&C echo:** Toki's callsign-zero-four introduction after Rio's contingency recalls E001 Himari's fifth-member guess, but the earlier encounter's identity is still not directly confirmed. The next battle is withheld.

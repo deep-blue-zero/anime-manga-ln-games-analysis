@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -598,3 +598,13 @@ Readiness remains 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operationa
 - **Yuzu/Sensei:** Yuzu/Midori worry about Alice; Sensei offers to speak with her, but several apparent entry lines are `心の声` and no emotional resolution is shown.
 
 Totals/readiness unchanged: 21 `PARTIAL_MODEL` / 21 `UNMODELED` across 42, none operational/validated; no model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E009 delta — public classification, refusal and new C&C entry
+
+- **Rio:** presents Alice as `AL-1S`/`Divi:Sion` commander and world-ending `魔王`, admits a missed robot in her C&C/AMAS monitoring, then asserts that the incident proved Alice attracts ruin robots. The local danger is real; the origin, attraction and scale are not independently established. She proposes destroying Alice's halo, says she wants to protect all, and orders Nel to recover Alice. These are an interested causal argument, destructive proposal, self-report and command—not a completed protection.
+- **Alice:** says she does not understand the imposed identity and wanted to be a hero who plays/quests with friends. Her grief and wish are direct state evidence, not proof she controlled E007 or that the technical risk is unreal.
+- **Nel:** directly rejects kidnapping an uninformed same-school student, despite Rio's claimed direct command authority. This is independent, relationship-sensitive refusal; whether it is a broad stable decision rule awaits further contrasting evidence. She is then ambushed from behind; no combat result is shown.
+- **Toki:** first direct appearance, names herself C&C callsign zero four and greets seniors/Sensei after the surprise attack. Add as `UNMODELED`; her motive, earlier E001 identity and result remain open.
+- **Midori/Sensei/Yuzu:** Midori disputes the unilateral game “setting,” Sensei's printed choice rejects rationality as the sufficient ethical frame, and Yuzu appeals to Sensei. No technical counterproof or rescue follows in this unit.
+
+Totals: 21 `PARTIAL_MODEL` / 22 `UNMODELED` across 43, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

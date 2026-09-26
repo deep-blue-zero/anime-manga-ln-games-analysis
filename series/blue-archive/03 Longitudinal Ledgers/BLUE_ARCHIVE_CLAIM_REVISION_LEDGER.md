@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E001 active provisional; E002 unopened
+current_sequential_boundary: MAIN_V002_C002_E009 active provisional; E010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1366,3 +1366,13 @@ No new claim ID, model, prediction or side-source admission. Momoi condition, Al
 - **BA-C019: PRESSURE-TEST** — creative belonging and provisional institutional standing do not prevent medical harm or risk classification; earlier bonds remain historically real, and safety is another non-substitutable test.
 
 No new claim ID, model, frozen prediction or side-source admission. Rio's promised disclosure, Momoi prognosis and console/`<Key>`/`Divi:Sion` mechanism remain OPEN; contextual backfill **DEFER**.
+
+## V002 C002 E009 claim transitions — disputed threat and failed unconditional command
+
+- **BA-C001–C004, C007, C010–C011: ACUTE ETHICAL TEST** — Rio proposes Alice's disappearance and halo destruction from an asserted all-Kivotos threat. The observed local attack and Momoi injury demand safety response, yet Alice's intent, summoning mechanism, scale and necessity of this remedy remain unproved. Nel independently refuses abduction.
+- **BA-C005–C006: PRESERVE REJECTED** — Sensei's objection is ethical, not a sole causal solution; Alice, Midori and Nel supply distinct testimony/action.
+- **BA-C008: BOUNDED** — seven singleton choices and inward lines, some apparently answered, cannot become a full audible Sensei persona.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no direct Prologue/Shittim/Abydos/Kaiser/Shiba Seki amendment. Means/recipient-agency parallels are thematic comparisons.
+- **BA-C019: SHARP PRESSURE** — Rio's risk category threatens Alice's place and halo, but C001 creative recognition and E005 ordinary bonds remain real. Belonging is not a safety demonstration; a threat forecast is not a proven sole-remedy authorization.
+
+No new claim ID, model, frozen prediction or side-source admission. Rio's telemetry/perimeter claims, Alice origin/control, Momoi prognosis, Toki's E001 identity and the confrontation outcome remain OPEN; contextual backfill **DEFER**.

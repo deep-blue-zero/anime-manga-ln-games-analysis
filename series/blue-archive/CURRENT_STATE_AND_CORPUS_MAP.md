@@ -18,17 +18,17 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E008.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints are complete; `MAIN_V002_C002` is active-provisional through E009.**
 
-The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001's covert Rio/Himari Alice-classification conflict remains unshared. E002–E005 establish ordinary club play, a failed inspiration quest, social welcome and a constrained Nel arcade bond. E006–E007 show unknown devices activating, Alice's `AL-1S`/`ATRAHASIS` state, a local attack and C&C containment. E008 confirms Momoi remains unconscious after two days at Schale, while Alice isolates, self-blames and reports no memory of the actions. Hare/Midori's trigger leads and the dead console remain unproven; Rio arrives promising “truth,” not yet stating or validating it. Coverage is **70 / 310** units; all seven ledgers have provisional E001–E008 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
+The canonical Chapter 2 checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs the complete first Pavane chapter: student-made `TSC2` earns a special prize but only temporary council security, while `BA-C019` distinguishes making, reception, recognition and durable belonging. V002 C002 E001's covert Rio/Himari conflict is now partially disclosed by Rio to Alice, the club and Sensei in E009; Himari's opposed interpretation remains unshared. E002–E005 establish ordinary club play, a failed inspiration quest, social welcome and a constrained Nel arcade bond. E006–E007 show unknown devices activating, Alice's `AL-1S`/`ATRAHASIS` state, a local attack and C&C containment. E008 confirms Momoi remains unconscious after two days at Schale, while Alice isolates, self-blames and reports no memory. E009 has Rio assert an AL-1S/Divi:Sion world-scale threat, admit a monitoring miss and propose halo destruction; those threat and sole-remedy claims remain unverified. Nel refuses Rio's abduction order, and Toki enters as C&C callsign zero four before any fight result. Coverage is **71 / 310** units; all seven ledgers have provisional E001–E009 deltas above the C001 checkpoint. Contextual backfill is **DEFER** until the complete Pavane arc boundary.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio/Himari, and E004 Sumire/Kirara/Erika, as `UNMODELED`, yielding **21 partial / 21 unmodeled** tracked subjects. E006–E008 limit Alice's partial model to ordinary-club contexts: local protocol danger, later amnesia/guilt and Momoi's two-day unconsciousness do not yield voluntariness or a stable mechanism. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:009` remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; E001 added Rio/Himari, E004 Sumire/Kirara/Erika, and E009 Toki as `UNMODELED`, yielding **21 partial / 22 unmodeled** tracked subjects. E006–E009 limit Alice's partial model to ordinary-club contexts: local protocol danger, later amnesia/guilt and Rio's classification do not yield voluntariness or a stable mechanism. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:002:002:010` remains unopened.
 
 Current sequential authority:
 
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md` — **active_provisional**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md` — **active_provisional**;
-- main-story coverage: **70 / 310 canonical main units deep-read**;
+- main-story coverage: **71 / 310 canonical main units deep-read**;
 - `02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md` — **canonical Prologue synthesis authority**;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md` — **active_provisional**, Abydos dispatch/request unit;
 - `02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md` — **active_provisional**, first face-to-face Abydos/resupply-defense unit;
@@ -101,6 +101,7 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E006_DEEP_READING.md` — **active_provisional**, Veritas find and technical limits / Alice-device activation / source-label quarantine;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E007_DEEP_READING.md` — **active_provisional**, local attack / Maki interruption / C&C containment / Momoi alarm;
 - `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E008_DEEP_READING.md` — **active_provisional**, Momoi unconscious two days / Alice amnesia-guilt / console hypotheses / Rio “truth” entry;
+- `02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E009_DEEP_READING.md` — **active_provisional**, Rio's public threat classification / proposed halo destruction / Nel refusal / Toki entry;
 - next crosswalk unit: `BA:main:002:002:009`.
 
 The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present E020 boundary above.
@@ -365,7 +366,8 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MAIN_V002_C001_E012_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V002_C001_E020_DEEP_READING.md` — Veritas appraisal, Mirror raid, C&C defense, file disclosure, contest entry, special award and conditional club reprieve, `active_provisional`;
 - `BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md` — canonical twenty-unit Pavane Chapter 1 synthesis, claim and reconstruction-readiness authority;
 - `BLUE_ARCHIVE_MAIN_V002_C002_E001_DEEP_READING.md` — covert Rio/Himari meeting, retrospective Mirror/C&C test testimony and unresolved fifth-C&C encounter, `active_provisional`;
-- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first sixty-three marked complete and the remainder pending.
+- `BLUE_ARCHIVE_MAIN_V002_C002_E002_DEEP_READING.md` through `BLUE_ARCHIVE_MAIN_V002_C002_E009_DEEP_READING.md` — ordinary club play, device incident, Momoi injury and Rio/Nel/Toki confrontation, `active_provisional`;
+- `BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv` — 310 canonical main units, first seventy-one marked complete and the remainder pending.
 
 ### Active cumulative ledgers
 
@@ -377,21 +379,21 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:002:002:001` provisionally, inheriting the canonical `MAIN_V002_C001` checkpoint. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:002:002:009` provisionally, inheriting the canonical `MAIN_V002_C001` checkpoint. They are mutable infrastructure, not frozen releases.
 
 ### Character reconstruction state
 
 - specification: canonical and populated;
-- coverage index: canonical and provisionally updated through V002 C002 E001;
+- coverage index: canonical and provisionally updated through V002 C002 E009;
 - bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
 - standalone reconstruction models: none;
-- readiness: twenty-one `PARTIAL_MODEL` subjects, eighteen `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
+- readiness: twenty-one `PARTIAL_MODEL` subjects, twenty-two `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
 - prospective prediction registers: none;
 - global reconstruction capability records: deliberately unpopulated.
 
 ### Not yet created
 
-- `MAIN_V002_C002_E002` and subsequent main-story deep readings;
+- `MAIN_V002_C002_E010` and subsequent main-story deep readings;
 - event-priority index;
 - character monographs;
 - standalone character reconstruction models and validation registers;
@@ -445,22 +447,22 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E008.**
+**`対策委員会編` Chapter 1 and Chapter 2, and `時計じかけの花のパヴァーヌ` Chapter 1, including all three mandatory checkpoints, are complete. Pavane Chapter 2 is active through E009.**
 
 The current authorized range continues in order. The next crosswalk unit is:
 
-- story ID: `BA:main:002:002:009`;
-- scope: `MAIN_V002_C002_E009`;
+- story ID: `BA:main:002:002:010`;
+- scope: `MAIN_V002_C002_E010`;
 - arc: `時計じかけの花のパヴァーヌ`;
-- source title: `第9話;残酷な真実（１）`.
+- source title: `第10話;残酷な真実（２）`.
 
-Use the V002 C001 checkpoint as latest canonical synthesis and E001–E008 as prospective supplements. E007 confirms local danger but not Rio's world-ending scale or Alice's voluntary agency. E008 directly resolves Momoi's condition only to two-day unconsciousness at Schale, without prognosis or precise injury cause. Alice's bodily `セーブデータ` analogy and no-memory report coexist with guilt but do not prove literal file, origin or intent. Hare's robot-contact and Midori's console-activation leads are distinct; Sensei's console will not start, and `Divi:Sion`/`<Key>` links remain questions. Rio arrives promising “truth” but its content has not yet been read. Preserve Korean speaker-label and inward-thought quarantines; Alice's `PARTIAL_MODEL` remains ordinary-club scoped, no frozen prediction.
+Use the V002 C001 checkpoint as latest canonical synthesis and E001–E009 as prospective supplements. E007 confirms local danger but not Rio's world-ending scale or Alice's voluntary agency. E008 resolves Momoi's condition only to two-day unconsciousness at Schale, without prognosis or precise injury cause. Alice's `セーブデータ` analogy and no-memory report coexist with guilt but do not prove literal file, origin or intent. E009 makes Rio's classification, monitoring admission and proposed halo destruction explicit, but origin, robot-attraction mechanism, scale and sole-remedy necessity remain unverified. Nel refuses an abduction order; Toki enters before outcome. Preserve speaker-label and inward-thought quarantines; Alice's `PARTIAL_MODEL` remains ordinary-club scoped, no frozen prediction.
 
 The next permitted story operation is the unit above under these controls.
 
 Before narrative access:
 
-1. retain the Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints, their source-facing readings and `MAIN_V002_C002_E001` as the complete prior-information boundary;
+1. retain the Prologue, `MAIN_V001_C001`, `MAIN_V001_C002` and `MAIN_V002_C001` checkpoints, their source-facing readings and `MAIN_V002_C002_E001-E009` as the complete prior-information boundary;
 2. preserve the Chapter 2 contextual-backfill decision `DEFER`;
 3. use the character coverage index to identify any diagnostic reconstruction questions without converting them into predictions after exposure;
 4. if a formal character rule is to be prospectively tested, freeze its exact state, knowledge, relationship, conditions, alternatives, and disconfirming observation in a committed register first;
@@ -1072,3 +1074,13 @@ The next unopened source is `BA:main:002:002:008` / `MAIN_V002_C002_E008`, `第8
 - Rio enters, identifies herself and promises “truth.” Her earlier E001 classification remains her hypothesis and is not yet fully disclosed to this group. Tracked totals/readiness unchanged **21 `PARTIAL_MODEL` / 21 `UNMODELED`** across 42, none operational/validated; no new claim ID, model, frozen prediction or side-source backfill.
 
 The next unopened source is `BA:main:002:002:009` / `MAIN_V002_C002_E009`, `第9話;残酷な真実（１）`.
+
+## V002 C002 E009 state delta
+
+- `MAIN_V002_C002` is active-provisional through E009; coverage is **71 / 310**. V002 C001 remains latest canonical checkpoint.
+- Rio publicly classifies Alice as an AL-1S/Divi:Sion commander and world-ending `魔王`, admits a robot escaped what she thought was complete C&C/AMAS surveillance, and proposes Alice's disappearance/halo destruction. The local incident is real, but robot attraction, scale and unique remedy remain her unverified inferences.
+- Alice says she wanted to be a hero who plays/quests with friends; Midori rejects imposed identity. Sensei's choice contests rationality as a sufficient frame but supplies no technical diagnosis; several apparent Sensei objections are `心の声`.
+- Rio's assertion that C&C obey without private feeling is immediately contradicted by Nel's refusal to kidnap an uninformed fellow student. `AMAS A`-labeled perimeter/recovery lines are corrupt and do not verify encirclement. Toki enters, self-identifies as C&C callsign zero four and ambushes Nel; the fight result and E001 fifth-member identification are open.
+- Toki raises tracked totals to **21 `PARTIAL_MODEL` / 22 `UNMODELED`** across 43; none operational/validated. No new claim ID, standalone model, frozen prediction or contextual side-source backfill.
+
+The next unopened source is `BA:main:002:002:010` / `MAIN_V002_C002_E010`, `第10話;残酷な真実（２）`.

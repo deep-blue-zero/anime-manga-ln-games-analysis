@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:008; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:009; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -512,3 +512,11 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **ALICE ↔ MOMOI/CLUB:** Alice secludes herself, refuses contact and calls Momoi's injury her fault despite amnesia for her actions. This is a real relational rupture and guilty appraisal, not proof she knowingly chose the protocol attack. Midori/Yuzu keep reaching out.
 - **SENSEI ↔ ALICE:** Sensei volunteers to handle a conversation and asks Alice about seclusion/food through printed choices. Inwardly labeled entry lines cannot be laundered into secure spoken permission; their care does not immediately resolve guilt.
 - **RIO ↔ CLUB/SENSEI:** Rio enters as president and asserts she has “truth” to share. Her E001 research/containment position is audience background, not yet a disclosed shared account in this room. Himari remains absent.
+
+## V002 C002 E009 relationship delta — denial of friendship versus protective refusal
+
+- **RIO ↔ ALICE/CLUB:** Rio publicly tells Alice and friends the AL-1S/Divi:Sion theory, casts former friendship as suspect and urges Alice's disappearance/halo destruction. Her speech is an intervention in an existing bond, not proof the bond was false. Alice expresses wanting ordinary shared quests. Himari's E001 dissent is still absent from the room.
+- **NEL ↔ ALICE:** the former duelist/arcade companion now refuses to abduct Alice as an uninformed same-school student. Her reason is explicit, though neither a formal friendship promise nor an unlimited protection guarantee follows.
+- **RIO ↔ NEL/C&C:** Rio's claim of feeling-free obedience fails in Nel's direct refusal. Rio describes Nel's disobedience as habitual and calls Toki as a contingency; those appraisals are her interested account, not independent trait measurement.
+- **TOKI ↔ NEL/C&C/SENSEI:** Toki greets “seniors” and Sensei, states C&C callsign zero four, and rear-ambushes Nel. This establishes a hostile first shown interaction, not a completed rivalry, personal motive or proof she was Himari's E001 unknown encounter.
+- **SENSEI/MIDORI/YUZU ↔ ALICE:** Midori contests imposed identity, Sensei's choice rejects a purely rationality-based framing and Yuzu seeks help. No displayed rescue or resolution of Alice's fear occurs.
