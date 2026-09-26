@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.26"
+version: "11.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 112 complete i-n-g primary documents / T7S_B0080–T7S_B0125; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 115 complete i-n-g primary documents / T7S_B0080–T7S_B0126; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`identity_routes = 94`; `character_states = 76`; `epistemic_states = 232`; `directional_relationship_states = 432`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0125, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 94`; `character_states = 76`; `epistemic_states = 238`; `directional_relationship_states = 438`; `unit_states = 26`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0126, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -2445,3 +2445,39 @@ The [B0125](../02%20Readings/T7S_B0125_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0432` | Ferb → Kazumi, **book uptake and reciprocal time** | Reads the recommended book, hears Kazumi's qualified ordinary-life account and credits the shared outing. C:P8–54. Reciprocal `REL-0431`; no claim all song work should stop. |
 
 `T7S_B0125_CLOSE-20260926`: five actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, clinical or final-track record.
+
+## B0126 Chacha's coercive detection and Saori's return
+
+The [B0126](../02%20Readings/T7S_B0126_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.28, binds these updates. Existing Chacha `IDENTITY-0044`/`CHAR-0066`, Kajika `CHAR-0020`, Saori `CHAR-0038`, Makoto `CHAR-0030`, Madoka `CHAR-0062`, Hime `CHAR-0009`, Coney `CHAR-0003`, Player `CHAR-0001` and Nanasta `UNIT-0002` suffice.
+
+| Existing stable ID | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0066` / Chacha | Calls culprit hunt pointless, dons detective persona, rejects locker hypothesis, forces Player into river and pressures car reenactment, finds Coney's food-trade clues, then says she knew Saori was alive and enjoyed the diversion. | A:P42–60; B:P1–108; C:P1–55. Observation skill is mixed with withheld information and coercion; prior knowledge not independently proven. |
+| `CHAR-0020` / Kajika | Finds Saori, assumes death, supplies wetness/locker concern, assists Chacha and later finds bent grass; relieved by Saori's return. | A:P2–60; B:P1–108; C:P1–43. Her route clue is observation, not proof of car impact. |
+| `CHAR-0038` / Saori | Is found motionless, later says she became wet, returned to change, slipped on wet shoes and fainted, then walks into group debate. | A:P2–21; C:P33–49. No diagnosis, explanation of original wetness or fitness-to-work result. |
+| `CHAR-0030` / Makoto | Initially infers Player would be suspected, offers hiding him, then correctly identifies locker dividers while hinting familiarity with his own locker. | A:P24–40; B:P13–23. No actual legal suspicion or authorized private-locker access established. |
+| `CHAR-0062` / Madoka | Reports Saori disappeared after splash, witnesses Chacha push Player and is alarmed for him. | A:P27–40; B:P26–58. Her sightline report does not establish Saori's mechanism. |
+| `CHAR-0009` / Hime | Urges a culprit hunt, reports giving wet Saori a towel/tofu and relays a neighbor's apparent ghost collision. | A:P31–39; B:P61–78; C:P28–43. Secondhand driver story not verified collision. |
+| `CHAR-0003` / Coney | Admits trading doughnut for Saori's tofu and denies injuring her when others infer homicide. | C:P8–39. Food exchange is not evidence of violence. |
+| `CHAR-0001` / Player | Prematurely assumes murder, allows Chacha to direct inquiry, explicitly refuses painful locker/river/road tests but is physically pushed into two and guilted toward the third. | A:P4–60; B:P1–108; C:P1–53. No consent to specific hazards, actual road collision or post-immersion assessment. |
+| `UNIT-0002` / Nanasta | Apparent emergency becomes amateur detective exercise with false suspect escalation and no shown health assessment after Saori's fainting. | A:P2–60; B:P1–108; C:P1–55. Comedy does not instantiate safety or police protocol. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0233` | Group sees still Saori/props and assumes crime; Chacha says pursuit is pointless but does not clearly tell others Saori is alive. | A:P2–60. No actual death/clinical finding or legal suspicion. |
+| `KNOW-0234` | Kajika/Chacha see water trace; Makoto knows locker structure, disconfirming hiding hypothesis. | B:P1–23. Does not determine why Saori visited locker area. |
+| `KNOW-0235` | Madoka recalls splash; forced river test shows a sightline illusion; Hime reports wet Saori/towel/tofu. | B:P24–73. Saori's exact wetness cause unresolved. |
+| `KNOW-0236` | Hime relays neighbor's apparent collision; Kajika finds bent grass; Chacha infers Saori's impact/return. | B:P74–108. No driver interview, verified collision or Saori confirmation. |
+| `KNOW-0237` | Chacha notices food traces; Coney acknowledges trade; group attributes violence without supporting evidence. | C:P1–32. Actual inference overreach remains separate from admitted exchange. |
+| `KNOW-0238` | Saori reports her wet-shoe fall/fainting; group revises death/culprit premise; Chacha retrospectively claims she knew and sought entertainment. | C:P33–55. No clinical follow-up or independent validation of Chacha's earlier knowledge. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0433` | Chacha → Player, **coercive assistant assignment** | Orders locker entry, pushes him into river and guilt-pressures car reenactment; later calls it entertainment. A:P51–60; B:P6–108; C:P46–53. Reciprocal `REL-0434`; no blanket consent. |
+| `REL-0434` | Player → Chacha, **help with specific refusals** | Agrees to assist truth search but resists unsafe tests and objects after the reveal. A:P50–60; B:P6–108; C:P46–53. Reciprocal `REL-0433`; no actual car strike. |
+| `REL-0435` | Kajika → Saori, **alarm and clue-seeking care** | Responds to stillness, searches for explanation and is relieved at her return. A:P2–60; B:P1–108; C:P33–43. Reciprocal `REL-0436`; does not substitute for health assessment. |
+| `REL-0436` | Saori → Kajika, **reappearing peer with fall account** | Returns alive and explains slip/fainting to shocked group including Kajika. C:P33–44. Reciprocal `REL-0435`; no detailed health follow-up. |
+| `REL-0437` | Player → Coney, **premature culprit accusation** | Takes food-trade admission as homicide implication before Saori returns. C:P22–39. Reciprocal `REL-0438`; not a proven offense. |
+| `REL-0438` | Coney → Player, **trade admission and harm denial** | Names the doughnut/tofu exchange while denying violence. C:P23–39. Reciprocal `REL-0437`; no motive beyond food preference shown. |
+
+`T7S_B0126_CLOSE-20260926`: six actor-local knowledge records, three directional relationship pairs and existing-actor/unit annotations; no new identity, character, unit, legal or medical finding.

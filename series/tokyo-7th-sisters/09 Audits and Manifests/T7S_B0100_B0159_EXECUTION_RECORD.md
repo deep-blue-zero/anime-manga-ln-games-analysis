@@ -4,7 +4,7 @@ artifact_id: T7S_B0100_B0159_EXECUTION_RECORD
 artifact_type: execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.25"
+version: "1.26"
 status: in_progress
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,9 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 
 ## Live checkpoint
 
-- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0125`.
-- Completed run blocks: **26/60**; completed run episodes: **72/174**.
-- Next: `T7S_B0126`, chapter `300980`, still unconsumed.
+- State: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0126`.
+- Completed run blocks: **27/60**; completed run episodes: **75/174**.
+- Next: `T7S_B0127`, chapter `300990`, still unconsumed.
 - Source capabilities exercised: exact native/structured/text equality, complete native-page inspection, hash-resolved static asset reconstruction and direct visual inspection. Performed audio and runtime timing remain unreviewed; dependent claims are withheld.
 - Publication: `NOT_STARTED_FOR_THIS_RUN`; final non-forced push, remote readback, source audit, housekeeping and exact-head integration status are required after all sixty units close.
 
@@ -62,7 +62,7 @@ Database SHA-256: `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2e
 | `T7S_B0123` | `300950` | 荒木レナ | 放課後のラブソング | `312201801 / 312201802 / 312201803` | CLOSED |
 | `T7S_B0124` | `300960` | 二川ミミ | リライ・オン・ミー | `312201901 / 312201902 / 312201903` | CLOSED |
 | `T7S_B0125` | `300970` | 瀬戸ファーブ | ファーブ・ウィズアウト・ベース | `312202001 / 312202002 / 312202003` | CLOSED |
-| `T7S_B0126` | `300980` | 鳳チャチャ | 座椅子探偵 | `312202101 / 312202102 / 312202103` | AUTHORIZED_UNREAD |
+| `T7S_B0126` | `300980` | 鳳チャチャ | 座椅子探偵 | `312202101 / 312202102 / 312202103` | CLOSED |
 | `T7S_B0127` | `300990` | 逢原ミウ | ディア・マイ・フレンド | `312202201 / 312202202 / 312202203` | AUTHORIZED_UNREAD |
 | `T7S_B0128` | `301000` | 雲巻モナカ | 学校へ行こう！ | `312202301 / 312202302 / 312202303` | AUTHORIZED_UNREAD |
 | `T7S_B0129` | `301010` | 逝橋エイ | ショウ・アップで巫女魔法 | `312202401 / 312202402 / 312202403` | AUTHORIZED_UNREAD |
@@ -210,3 +210,7 @@ Preflight and structural checks certify only their covered mechanics; they do no
 ## B0125 closeout receipt
 
 [T7S_B0125](../02%20Readings/T7S_B0125_DEEP_READING.md): Ferb's first outside-Nanasta composition commission is stalled by an 'ordinary high-school life' brief and excessive bass playing with a bleeding finger; a manager-imposed stop and imperfectly assented peer watch lead to shared-time insight and a new melody, while renewed perfection pressure leaves work safety open. All 149 pages, 136 text records and 13 command-only pages are reviewed; 6 exact static composites were inspected. Source-lock 12.27 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 101 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 26/60 blocks, 72/174 episodes; publication remains pending.
+
+## B0126 closeout receipt
+
+[T7S_B0126](../02%20Readings/T7S_B0126_DEEP_READING.md): A motionless Saori is misclassified as a murder victim; Chacha's costume-led inquiry finds some real clues but coerces unsafe tests on Player and invites false car and Coney-culpability inferences, until Saori returns and reports a wet-shoe fall and fainting without clinical follow-up. All 228 pages, 210 text records and 18 command-only pages are reviewed; 9 exact static composites were inspected. Source-lock 12.28 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 155 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies unchanged outside current summaries. Coverage moves 3 records while preserving the other 1587 effective records. Current run: 27/60 blocks, 75/174 episodes; publication remains pending.

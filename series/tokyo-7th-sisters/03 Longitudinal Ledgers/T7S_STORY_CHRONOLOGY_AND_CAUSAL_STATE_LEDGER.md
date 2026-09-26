@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.26"
+version: "11.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 112 complete i-n-g primary documents / T7S_B0080–T7S_B0125; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 115 complete i-n-g primary documents / T7S_B0080–T7S_B0126; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 456`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 450`; `last_closed_block = T7S_B0125`. The admitted horizon contains 347 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 112 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 462`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 458`; `last_closed_block = T7S_B0126`. The admitted horizon contains 350 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 115 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -1471,3 +1471,33 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.27. [B0125](../02%20Readings/
 | `EDGE-0457` | `REFRESHMENT_WITH_RECURRENT_PRESSURE` | Ferb's fun and melody in `EV-B0125-004`/`005` coexist with covert shop playing and next-day perfection vow; the risk pattern remains open. |
 
 `T7S_B0125_CLOSE-20260926`: five chapter events and seven bounded edges; no new world/thread/unit record, clinical clearance, final-song verdict or total i-n-g chronology.
+
+## B0126 false death premise, unsafe tests and bounded correction
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.28. [B0126](../02%20Readings/T7S_B0126_DEEP_READING.md) owns the A/B/C locator key. B0119/B0121 supply bounded Saori injury context; no total fictional order follows from i-n-g menu routing. Chacha's detective costume is a role performance, not certified investigative authority.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0126-001` | Kajika/Player find Saori unresponsive with broken tofu, doughnut, peace sign and wet hair/dry clothing; group presumes murder and worries Player will be suspected. Chacha says culprit hunting is pointless but leads an inquiry. | A:P2–60; `KNOW-0233`; `THREAD-0022`. No clinical check, death confirmation or actual police suspicion. |
+| `EV-B0126-002` | Water drops lead to locker hypothesis. Chacha has Kajika press protesting Player into a divided locker; Makoto shows even a smaller person cannot fit. | B:P1–23; `KNOW-0234`; `REL-0433`–`0434`. A hypothesis is rejected through a painful test, not a proven Saori route. |
+| `EV-B0126-003` | Madoka recalls a splash and disappearance; Chacha pushes unwilling Player into river, showing how he vanishes from one sightline. Hime reports seeing wet Saori, giving towel and tofu. | B:P24–73; `KNOW-0235`; `REL-0433`–`0434`. Possible mechanism, not proof Saori entered river that way; no safety evaluation. |
+| `EV-B0126-004` | Hime relays neighbor's apparent ghost-car collision. Chacha presses Player to reenact being hit; he refuses, then is guilted toward agreement. Kajika finds bent grass before any car test, and Chacha infers a car-strike return to Nanasta. | B:P74–108; `KNOW-0236`. No actual reenactment, verified collision or Saori confirmation. |
+| `EV-B0126-005` | Chacha links Saori's doughnut, Coney's tofu crumbs and soy sauce. Coney admits trading donut for tofu; group falsely escalates that to murder guilt. | C:P1–32; `KNOW-0237`; `REL-0437`–`0438`. Trade not causal proof of fall or violence. |
+| `EV-B0126-006` | Saori reappears and says she came back to change after getting wet, then slipped in wet shoes and fainted. Chacha claims she knew and calls the search boredom relief. | C:P33–55; `KNOW-0238`; `THREAD-0022`. Earlier wetness/road event unresolved; no clinical follow-up shown. |
+
+| ID | Existing responsibility, bounded update |
+| --- | --- |
+| `THREAD-0022` | Saori's injury/performer-safety burden remains `OPEN`. Here a reported slip is followed by loss of consciousness and mistaken death; neither the team's dramatic search nor her return documents assessment of the fainting or related work safety. A:P2–21; C:P33–49. No retrospective diagnosis or total order against B0119/B0121. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0458` | `UNASSESSED_STILLNESS_TO_FALSE_DEATH_PREMISE` | Saori's state/props in `EV-B0126-001` → group murder story without a shown health check. |
+| `EDGE-0459` | `PREMATURE_SUSPICION_TO_AMATEUR_INQUIRY` | Fear of Player as suspect in `EV-B0126-001` → group culprit hunt, not an actual police accusation. |
+| `EDGE-0460` | `LOCKER_TEST_TO_HYPOTHESIS_REJECTION` | Coerced fitting test in `EV-B0126-002` → rejection of hiding-in-locker account; no necessity for the pain shown. |
+| `EDGE-0461` | `SPLASH_TO_POSSIBLE_SIGHTLINE` | Madoka's splash in `EV-B0126-003` → Chacha's forced river demonstration; a possible perception mechanism, not verified Saori history. |
+| `EDGE-0462` | `ROAD_REPORT_TO_UNPROVEN_IMPACT_STORY` | Neighbor's secondhand car report and bent grass in `EV-B0126-004` → Chacha's inferred strike/return; Saori does not confirm. |
+| `EDGE-0463` | `FOOD_CLUES_TO_EXCHANGE_ONLY` | Doughnut, tofu crumbs and soy sauce in `EV-B0126-005` → Coney's admitted trade, not culpability. |
+| `EDGE-0464` | `TRADE_TO_FALSE_GUILT_ESCALATION` | Group's leap after `EV-B0126-005` → accusation that Coney harmed Saori; `EV-B0126-006` contradicts the homicide premise. |
+| `EDGE-0465` | `SURVIVAL_WITH_UNRESOLVED_SAFETY` | Saori's return and fall account in `EV-B0126-006` revise the death story but leave prior wetness and loss-of-consciousness evaluation open. |
+
+`T7S_B0126_CLOSE-20260926`: six chapter events, eight bounded edges and existing `THREAD-0022` advanced; no new world/thread/unit, crime, diagnosis or total i-n-g chronology record.

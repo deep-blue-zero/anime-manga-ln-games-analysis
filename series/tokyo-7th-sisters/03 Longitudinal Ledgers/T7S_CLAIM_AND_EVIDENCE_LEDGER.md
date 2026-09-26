@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.26"
+version: "11.27"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 112 complete i-n-g primary documents / T7S_B0080–T7S_B0125; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 115 complete i-n-g primary documents / T7S_B0080–T7S_B0126; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-26
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`claims = 591`; `revisions = 42`; `predictions = 7`; `AV_reviews = 72`; `literary_findings = 591`. Claims are bounded to their stated B0001 through B0125 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 46 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 595`; `revisions = 42`; `predictions = 7`; `AV_reviews = 73`; `literary_findings = 595`. Claims are bounded to their stated B0001 through B0126 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 47 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1757,3 +1757,26 @@ Owner and A/B/C locator key: [B0125](../02%20Readings/T7S_B0125_DEEP_READING.md)
 - Outcome: `REVIEWED` for six selected static composites and all native page-state segmentation. One hundred one dialogue-associated voice pages plus title cues, BGM/SFX, the melody and final commercial remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0125_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, medical clearance, specialist or monograph promotion.
+
+## B0126 false premise, mixed clues and coercive procedure
+
+Owner and A/B/C locator key: [B0126](../02%20Readings/T7S_B0126_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.28. B0119/B0121/B0088/B0120 are bounded comparison horizons, not total i-n-g chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0126-001` | `BOUNDED_INFERENCE`; D1; high | Stillness and props are converted into a murder premise without a shown health check; Saori's return revises death, but her fainting remains a safety issue without assessment. | A:P2–60; C:P33–50; `THREAD-0022`. Neither homicide nor medical clearance. |
+| `CL-B0126-002` | `BOUNDED_INFERENCE`; D1; high | Locker structure and food traces support narrow findings, while river demonstration and ghost-car rumor remain unverified hypotheses about Saori's route. | B:P1–108; C:P1–43. Detective costume/confidence is no complete reconstruction. |
+| `CL-B0126-003` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Chacha uses Player as a test object despite specific refusals and later admits the inquiry relieved boredom; comic staging does not supply consent or make river/road tests safe. | B:P6–17,34–58,79–108; C:P46–53. Road collision proposed but not performed. |
+| `CL-B0126-004` | `BOUNDED_INFERENCE`; D1; high | Coney's admitted doughnut/tofu exchange is mistaken for violence when the group again treats clue contact as guilt; Saori's account disconfirms the crime story. | C:P8–43. No claim the trade itself was invented. |
+
+### AV-0073 — broken tofu, detective costume and unreviewed health state
+
+- Questions/claims: whether selected stills/native effects prove Saori's death/injury severity, river mechanism, road collision, Coney culpability, Player's consent or safe recovery; `CL-B0126-001`–`004`.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for medical, coercion and crime restrictions.
+- Selection: Chacha `adv_chara_128_01_03` and detective `adv_chara_128_02_04`; Kajika `adv_chara_013_01_06`; Saori `adv_chara_145_01_01`; Makoto `adv_chara_144_01_04`; Madoka `adv_chara_121_01_03`; Hime `adv_chara_006_01_19`; Coney `adv_chara_002_03_06`; tofu object `adv_obj_0117`. All 228 native pages and eighteen command-only pages reviewed.
+- Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.28 binds nine media receipts.
+- Observed: detective clothing marks Chacha's performance; broken tofu object shows fragments. Neither is a forensic or health assessment, and selected Saori body does not certify consciousness at every page.
+- Native occurrence: command-only A:P0–1,8,12–13,61; B:P0,24–25,43,59–60,109; C:P0,39–40,54–55. Tofu object around A:P9–12; B transitions among locker/river/road/return; C slide follows accusation. Exact impacts and sound effects remain unauditioned.
+- Outcome: `REVIEWED` for nine selected static composites and all native page-state segmentation. One hundred fifty-five dialogue-associated voice pages plus title cues, BGM/SFX remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`.
+
+`T7S_B0126_CLOSE-20260926`: four bounded claims and one AV review; no frozen prediction, prior claim rewrite, crime/diagnosis finding, specialist or monograph promotion.
