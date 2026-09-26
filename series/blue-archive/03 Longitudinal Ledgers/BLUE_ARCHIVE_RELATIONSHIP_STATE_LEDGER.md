@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -570,3 +570,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **EIMI ↔ HIMARI:** Eimi comes to Himari after recalling the pudding condition and says she would rather eat together. Himari explicitly enjoys waiting for rescue by her junior; the bond is direct but its formal roster/history remain unspecified here.
 - **HIMARI/EIMI ↔ VERITAS/OTHER JUNIORS:** Himari says she has many dependable juniors as Veritas struggles and Mirror startup appears. The editing implies a wider support network; precise coordination and messages between branches are unshown.
 - **CHIHIRO ↔ REAR PARTY:** Chihiro arrives when the weapon slows and checks whether everyone is safe. Her helpful contact is direct, but no Alice encounter or durable safety is established.
+
+## V002 C002 E017 relationship delta — aid crosses club lines
+
+- **CHIHIRO ↔ HIMARI/VERITAS/SENSEI:** Chihiro credits Himari's Mirror preparation, asks Veritas to hold the link and takes Sensei navigation. “Vice-president”/former-leader address gives local hierarchy, while exact earlier device-seizure intent is only inferred.
+- **SUMIRE ↔ ALICE/CHIHIRO/SENSEI:** Sumire says news of Alice moved her to help. Chihiro thanks her for access assistance; E004 training acquaintance now has a costly rescue action, not a formal membership change.
+- **ENGINEERING ↔ MOMOI/CLUB:** Engineering defeats a local obstacle, then stops from exhaustion and entrusts continuation to Momoi's group. Momoi thanks them; Utaha gives her an unnamed object. Trust/handoff is shown, not a guarantee of later function.
+- **RIO ↔ COALITION/ALICE:** Chihiro reports displacing Rio from network control; Rio and Alice are absent from this exchange. No renewed consent conversation or final relation repair occurs.

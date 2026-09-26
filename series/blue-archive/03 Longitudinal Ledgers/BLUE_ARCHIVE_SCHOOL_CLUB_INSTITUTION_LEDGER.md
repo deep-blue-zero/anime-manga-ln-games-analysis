@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -556,3 +556,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Himari/Eimi chain:** Eimi calls Himari `部長` and helps her. Their exact club name, operational authority and rescue route are not specified in this source; do not import a roster.
 - **Veritas:** its own room location is explicit. Maki/Hare report network failure, and Hare identifies missing jamming preparation as a mistake. Exact source, duration and geographic scope of the disruption are not independently audited.
 - **Mirror/Chihiro:** a monitor announces `Optimus Mirror System`/`鏡` startup. Chihiro appears as Avant-Garde-kun slows. The sequence suggests intervention but does not identify the startup operator, prove link restoration or document the slow-down mechanism.
+
+## V002 C002 E017 institutional delta — fragile counter-control
+
+- **Mirror method:** Chihiro explicitly says she used Mirror to hack Eridu's network and remove Rio from that control path. Firewall response threatens the route, and Veritas is assigned maintenance. The claim is participant testimony backed by renewed navigation/weapon slowing, not proof of permanent city takeover or Rio's physical absence.
+- **Access:** Chihiro credits Himari's preparation and Sumire's help with the seized-device access. Maki/Utaha speculate the original confiscation itself was a planted contingency; its exact planning chain is not audited. `u:0020-0021` labels are corrupt.
+- **Engineering:** a remote speaker is deployed, followed by convergent local defeat reports for Avant-Garde-kun. Its extreme specifications are makers' claims; precise defeat mechanism and larger defense status are unknown. The trio cannot continue from reported exertion, not independently assessed injury.
+- **Handoff:** Chihiro navigates while the remaining party moves; Utaha gives Momoi an unnamed object for emergency use. No supply/device inventory entry or future use is inferred.

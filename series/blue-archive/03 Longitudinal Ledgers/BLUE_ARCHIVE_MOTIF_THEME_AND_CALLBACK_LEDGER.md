@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -718,3 +718,10 @@ The locked-secret sequence repeatedly exchanges access for a fresh limit until B
 - **Walking together versus lone lever:** Himari's `歩幅` critique opposes Rio's E015 self-cast lever-puller. Eimi's wish to share pudding gives the abstract reliance-on-juniors theme a small ordinary relational texture amid crisis.
 - **Mirror callback:** `Optimus Mirror System`/`鏡` returns the C001 Mirror object into an apparent rescue context. The text announces startup but withholds operator, path and full function; the callback is not itself a complete technological explanation.
 - **Calm at the brink:** Utaha's composed `危機一髪` and Chihiro's timely entrance contrast the frightened Veritas room. No complete reversal, defeated weapon or Alice return occurs here.
+
+## V002 C002 E017 motif / callback delta — mirror route and overbuilt speaker
+
+- **Mirror from curiosity to counter-control:** C001's `G.Bible`/Mirror object becomes an explicitly named Eridu network tool by Chihiro's account. The callback establishes a useful route while the reacting firewall prevents a clean “technology solves all” ending.
+- **A speaker as weaponized excess:** Engineering's absurd specifications turn toolmaking into comedy and then a local combat result. Manufacturer boast, actual launch and enemy defeat are distinct evidence levels.
+- **Raid boss defeated, quest ongoing:** Momoi calls Avant-Garde-kun a raid boss, but Chihiro immediately says the real task remains. One obstacle's defeat is not Alice's rescue or full fortress capitulation.
+- **Help with limits:** Sumire volunteers, Veritas maintains a fragile path and Engineering hands off while exhausted. The coalition's multiplicity is strength without each helper becoming inexhaustible.

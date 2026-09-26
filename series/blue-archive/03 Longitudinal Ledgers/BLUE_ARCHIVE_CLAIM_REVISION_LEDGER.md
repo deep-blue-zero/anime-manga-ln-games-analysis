@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E016 active provisional; E017 unopened
+current_sequential_boundary: MAIN_V002_C002_E017 active provisional; E018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1446,3 +1446,13 @@ The local Eridu partition confirms a defensive capacity while not validating Rio
 - **BA-C019: HELP, NOT RESTORATION** — junior help continues against Alice's exclusion, but Alice is absent and secure belonging unshown.
 
 No new claim ID, model, frozen prediction or side-source admission. Eimi and Chihiro enter `UNMODELED`; Rio/Himari relationship interpretation, Mirror operator/path, restored communication, weapon outcome and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E017 claim transitions — local obstacle defeated, rescue unfinished
+
+- **BA-C001–C004, C007, C010–C011: COUNTERMEASURE, NOT VERDICT** — Chihiro identifies a Mirror-enabled Eridu hack and Engineering defeats Avant-Garde-kun locally. Rio's checkmate forecast weakens, but threat scale, Alice status, all-force proportionality and unique-remedy necessity remain unresolved.
+- **BA-C005–C006: PRESERVE REJECTED** — Sumire helps obtain access, Chihiro/Veritas maintain/navigate, Engineering deploys the speaker and Momoi's party continues. Sensei's final Alice-return assurance is inward, not sole audible plan.
+- **BA-C008: BOUNDED** — six choice groups, one with alternatives, multiple inward lines and a duplicate Yuzu line forbid a single cumulative Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: ACTING FOR RETURN** — friends and acquaintances keep the retrieval open; Alice's present voice, danger and secure place remain absent.
+
+No new claim ID, model, frozen prediction or side-source admission. Mirror path duration, Rio's control, Engineering specs/condition, Utaha's gift and Alice fate remain OPEN. Contextual backfill **DEFER**.

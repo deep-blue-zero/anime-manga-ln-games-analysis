@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -680,3 +680,7 @@ Rio again asks Sensei to accept a sacrifice calculus, now via `トロッコ問�
 ## V002 C002 E016 delta — no adult-only escape from checkmate
 
 Rio says even Schale's teacher must accept her `合理的な判断` after C&C isolation. This is her anticipated capitulation, not Sensei's assent. Himari disputes Rio's `独善`, Eimi comes for Himari, Mirror startup appears and Chihiro arrives as the rear weapon slows; none is an adult-alone intervention. Sensei's `scene:002:u:0025` question about Utaha's calm is malformed-quote `心の声`, while `choice:001` warns danger and `choice:002` recognizes Chihiro. Both choices are singleton. No Alice recovery, completed defeat, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E017 delta — delegated navigation and inward rescue assurance
+
+Chihiro directly takes Sensei navigation while Veritas maintains Mirror; Engineering's speaker and Sumire's help supply distinct student initiatives. Sensei has four singleton scene-1 choices and two scene-2 groups, the latter `choice:002` two-alternative. Inward `鏡` recognition, assent, confusion about the speaker, concern for exhausted Engineering and `必ずアリスを連れ戻してくる` are `心の声`, not a secure audible command/promise. Utaha's subsequent response can follow Momoi's spoken continuation pledge. The adult remains a participant in plural rescue, with no Alice recovery, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

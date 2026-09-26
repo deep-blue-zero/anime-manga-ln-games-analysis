@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:016; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -677,3 +677,13 @@ Totals unchanged: 21 `PARTIAL_MODEL` / 23 `UNMODELED` across 44, none operationa
 - **Sensei/Momoi/Yuzu:** Sensei has two singleton choices—warning and recognition—plus one malformed inward thought. Momoi/Yuzu notice the weapon slowing; no defeat or Alice contact follows.
 
 Totals become 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E017 delta — Mirror method and exhausted engineering handoff
+
+- **Chihiro/Veritas:** Chihiro says she used Himari-prepared Mirror to hack Eridu's network, assigns Maki/Kotama maintenance and takes Sensei navigation. Firewall response threatens the path; future maintenance success is not certified. `u:0001` and `u:0020-0021` have label errors.
+- **Sumire:** appears after helping Chihiro access the seized Mirror, says Alice's plight motivated her, and offers endurance against drones. Exact retrieval steps/monitoring escape are role-cautioned; E004 acquaintance is a prior context, not a full profile.
+- **Utaha/Hibiki/Kotori:** deploy a heavily featured remote speaker; Hibiki/Momoi report Avant-Garde-kun defeated. The trio says exertion prevents further travel and hands off to the remaining party. Utaha gives Momoi an unidentified emergency-use item; neither exact mechanism nor item identity is shown.
+- **Momoi/Yuzu/Sensei:** Momoi thanks Engineering and says her group will continue; Yuzu's team-credit line duplicates. Sensei's six choices include one two-option group, while several `心の声` lines—including a future Alice-return assurance—are not audible commands/promises.
+- **Rio/Alice:** Chihiro reports removing Rio from network control, not physical defeat; Alice remains unseen.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
