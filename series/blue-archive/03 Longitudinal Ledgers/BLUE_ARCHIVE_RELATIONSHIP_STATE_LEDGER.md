@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -577,3 +577,10 @@ The club's shared work and room become a conditional home for Alice and Yuzu; th
 - **SUMIRE ↔ ALICE/CHIHIRO/SENSEI:** Sumire says news of Alice moved her to help. Chihiro thanks her for access assistance; E004 training acquaintance now has a costly rescue action, not a formal membership change.
 - **ENGINEERING ↔ MOMOI/CLUB:** Engineering defeats a local obstacle, then stops from exhaustion and entrusts continuation to Momoi's group. Momoi thanks them; Utaha gives her an unnamed object. Trust/handoff is shown, not a guarantee of later function.
 - **RIO ↔ COALITION/ALICE:** Chihiro reports displacing Rio from network control; Rio and Alice are absent from this exchange. No renewed consent conversation or final relation repair occurs.
+
+## V002 C002 E018 relationship delta — reunion restores the rescue priority
+
+- **C&C ↔ NEL/TOKI:** Karin/Asuna return to Nel despite Toki's split. Rio orders Toki away, so no group win over her is established. Akane reminds Nel that Alice retrieval, not finishing a grudge match, is the purpose; Nel accepts.
+- **C&C ↔ SENSEI/CLUB:** the groups meet at the tower exterior. Akane recounts the first fight; Sensei's understanding is mediated by her report. They share the rescue objective without having reached Alice.
+- **RIO ↔ TOKI:** Rio explicitly does not blame Toki for the setback, takes prediction responsibility, orders regrouping and authorizes the higher-grade suit. Toki's obedience is visible, not a complete private motive.
+- **RIO ↔ SENSEI/ALICE:** Rio singles Sensei out as a possible variable and invokes a suit originally meant for her “Princess” target. This is her interpretation and contingency, not proof Sensei alone caused the coalition's progress or Alice consented to being an enemy.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -685,5 +685,14 @@ Totals become 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/va
 - **Utaha/Hibiki/Kotori:** deploy a heavily featured remote speaker; Hibiki/Momoi report Avant-Garde-kun defeated. The trio says exertion prevents further travel and hands off to the remaining party. Utaha gives Momoi an unidentified emergency-use item; neither exact mechanism nor item identity is shown.
 - **Momoi/Yuzu/Sensei:** Momoi thanks Engineering and says her group will continue; Yuzu's team-credit line duplicates. Sensei's six choices include one two-option group, while several `心の声` lines—including a future Alice-return assurance—are not audible commands/promises.
 - **Rio/Alice:** Chihiro reports removing Rio from network control, not physical defeat; Alice remains unseen.
+
+Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E018 delta — C&C rejoins, tower gate and Abi-Eshuh
+
+- **Toki:** considers herself faster with Rio's weapon but unable to settle Nel despite terrain change; Karin's shot and Asuna's maze exit restore C&C support. Rio orders withdrawal after Veritas takes Avant-Garde-kun control, and Toki complies rather than being defeated. She reappears at tower and activates Abi-Eshuh by direct narration; capability/outcome open.
+- **Karin/Asuna/Akane/Nel:** Karin self-identifies callsign zero two and backs Nel, Asuna emerges from the maze, Akane says the diversion no longer serves Alice retrieval and Nel accepts. Asuna's “luck” is Akane's appraisal, not a measured power. Some reunion/retreat speaker labels are corrupt.
+- **Chihiro/Momoi/Midori/Yuzu/Sensei:** Chihiro navigates the rear to central tower exterior and reasons from required facility/power concentration that Alice is likely inside. Both branches meet. Exact Alice position and halo machinery are not observed; Sensei route/tower lines are inward and seven choices singleton.
+- **Rio:** admits prediction failure and control loss for Avant-Garde-kun, yet speculates Sensei alone explains her disrupted calculations. She claims all defenses were destroyed, a broad statement without inventory proof, and authorizes Abi-Eshuh originally intended for the “Princess” she identifies with Alice. No threat ontology or necessity established.
 
 Totals unchanged: 21 `PARTIAL_MODEL` / 25 `UNMODELED` across 46, none operational/validated; no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

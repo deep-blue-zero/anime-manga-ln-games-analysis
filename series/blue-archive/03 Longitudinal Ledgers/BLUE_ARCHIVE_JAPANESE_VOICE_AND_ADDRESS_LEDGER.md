@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -988,3 +988,11 @@ Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT
 - Maki `もしかして` and Utaha `かな` hedge the claim that the original Mirror confiscation was Himari's intentional trap. Chihiro's `ファイアウォールが反応`/`パスが切れる前` bounds counter-control duration.
 - The makers call their device `最新式遠隔スピーカー` and advertise extreme features. Local `倒せた`/`倒した` gives victory over Avant-Garde-kun; exact mechanism and claimed engineering specifications are not audited. Utaha's `これ` is a demonstrative with no object name.
 - **Quarantine:** `scene:001:u:0001` Chihiro label calls “Chihiro-senpai”; `u:0020-0021` Momoi label voices helper explanation. Scene 2 `u:0026-0027` Yuzu line duplicates. Sensei `心の声` at scene 1 `u:0011`/`0036` and scene 2 `u:0004`/`0011`/`0035`/`0043` is private even if someone seems to answer; `u:0035` has malformed quote. Six choice groups total, scene-2 `choice:002` two-option.
+
+## V002 C002 E018 delta — probability claims versus changed terrain
+
+- Toki's `速度は明らかに` is self-appraisal; `勝敗がつかない` describes stalemate. Her `データがリアルタイムで更新` interprets Nel's closing range without explaining mechanism. Karin's `コールサインゼロツー` is direct self-identification.
+- Asuna's `迷ってた` and Akane's `幸運` narrate a local maze escape, not a verified general luck power. Toki's `確率的にあり得ない` is a contradicted forecast, not statistical evidence.
+- Rio's `制御権が奪われてしまった` and `予測不足による失敗` acknowledge a local control/prediction setback. Her `防衛システムをすべて壊して` and `貴方が関わったからかしら` remain broad claims, not a full inventory or sole-Sensei causal finding.
+- Chihiro's `相応の施設が必要なんじゃないかな` and tower power concentration are inference premises; `答えは明白` is confidence, not Alice sighting. Rio's `本来は「名もなき神々の王女」との戦闘用` is intended suit target, not ontology proof.
+- **Quarantine:** `u:0028` Rio label voices Nel; `u:0031-0033` and `u:0053-0056` have C&C style/label tension. Sensei `u:0041`/`0045`/`0059`/`0065`/`0097` are inward. Narrator `u:0058` explicitly mediates Akane's debrief. Seven choices singleton; scene 2 is next-title card only.

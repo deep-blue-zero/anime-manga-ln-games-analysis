@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -563,3 +563,10 @@ The Millennium results gate, Alice's voluntary-membership check, seized-tool sec
 - **Access:** Chihiro credits Himari's preparation and Sumire's help with the seized-device access. Maki/Utaha speculate the original confiscation itself was a planted contingency; its exact planning chain is not audited. `u:0020-0021` labels are corrupt.
 - **Engineering:** a remote speaker is deployed, followed by convergent local defeat reports for Avant-Garde-kun. Its extreme specifications are makers' claims; precise defeat mechanism and larger defense status are unknown. The trio cannot continue from reported exertion, not independently assessed injury.
 - **Handoff:** Chihiro navigates while the remaining party moves; Utaha gives Momoi an unnamed object for emergency use. No supply/device inventory entry or future use is inferred.
+
+## V002 C002 E018 institutional delta — exterior access, new gate weapon
+
+- **Front defense:** Toki's terrain-based partition no longer keeps Karin/Asuna from Nel. Rio reports Veritas took Avant-Garde-kun control and orders Toki to withdraw. This is a local command/asset setback, not all-Eridu-system defeat despite Rio's later “all defenses” wording.
+- **Tower lead:** Chihiro guides the rear to the central tower exterior and says Eridu power concentrates there. She infers a halo-destruction procedure would need comparable facilities; no live Alice sighting or apparatus audit confirms it.
+- **Mission revision:** Akane stops the diversion and C&C reunites with Sensei/club to retrieve Alice. This is a changed assignment after circumstances shift, not a completed extraction.
+- **Abi-Eshuh:** Rio authorizes a `パワードスーツシステム` she says was built for the Princess threat. Narration confirms activation and battle start. No loadout, capability, damage, legality, personhood finding or proportionality process is shown.

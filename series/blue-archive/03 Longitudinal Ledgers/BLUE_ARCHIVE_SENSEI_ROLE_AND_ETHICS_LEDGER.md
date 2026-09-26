@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -684,3 +684,7 @@ Rio says even Schale's teacher must accept her `合理的な判断` after C&C is
 ## V002 C002 E017 delta — delegated navigation and inward rescue assurance
 
 Chihiro directly takes Sensei navigation while Veritas maintains Mirror; Engineering's speaker and Sumire's help supply distinct student initiatives. Sensei has four singleton scene-1 choices and two scene-2 groups, the latter `choice:002` two-alternative. Inward `鏡` recognition, assent, confusion about the speaker, concern for exhausted Engineering and `必ずアリスを連れ戻してくる` are `心の声`, not a secure audible command/promise. Utaha's subsequent response can follow Momoi's spoken continuation pledge. The adult remains a participant in plural rescue, with no Alice recovery, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V002 C002 E018 delta — Rio's Sensei-variable attribution is not causal proof
+
+Sensei follows Chihiro's route, meets C&C at tower exterior, asks after Toki and replies about terrain, the weapon and next obstacle through seven singleton choices. `u:0041`/`0045`/`0059`/`0065`/`0097` are `心の声` and cannot become an audible field script. Akane's narrated debrief is the source for Sensei's C&C-fight understanding. Rio asks if Sensei's involvement is the variable that broke her calculations, but Sumire, Veritas/Chihiro, Engineering, C&C and Momoi have all visibly contributed. Her hypothesis does not promote sole-adult authorship. No tower entry, Alice rescue, readiness/model promotion or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

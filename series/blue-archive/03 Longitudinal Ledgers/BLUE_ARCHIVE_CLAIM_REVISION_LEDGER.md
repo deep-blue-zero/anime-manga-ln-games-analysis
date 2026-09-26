@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:017; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:002:002:018; MAIN_V002_C001 remains latest canonical checkpoint; BA:main:002:002:019 unopened
 checkpoint_boundary: MAIN_V002_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002_E017 active provisional; E018 unopened
+current_sequential_boundary: MAIN_V002_C002_E018 active provisional; E019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1456,3 +1456,13 @@ No new claim ID, model, frozen prediction or side-source admission. Eimi and Chi
 - **BA-C019: ACTING FOR RETURN** — friends and acquaintances keep the retrieval open; Alice's present voice, danger and secure place remain absent.
 
 No new claim ID, model, frozen prediction or side-source admission. Mirror path duration, Rio's control, Engineering specs/condition, Utaha's gift and Alice fate remain OPEN. Contextual backfill **DEFER**.
+
+## V002 C002 E018 claim transitions — tower exterior and a new force threshold
+
+- **BA-C001–C004, C007, C010–C011: NEW FORCE, ETHICS OPEN** — Rio acknowledges local predictive/control failure yet authorizes a Princess-targeted powered suit against the rescuers. Design purpose does not prove Alice ontology or force necessity.
+- **BA-C005–C006: PRESERVE REJECTED** — Rio speculates Sensei is the variable; the observed success remains distributed across C&C, Veritas/Chihiro, Engineering, Sumire and Momoi. Akane redirects Nel from revenge to the shared objective.
+- **BA-C008: BOUNDED** — seven singleton choices and multiple `心の声` lines cannot become an audible full Sensei script.
+- **BA-C009, C012–C018: NO DIRECT GLOBAL TEST** — no Prologue/Abydos/Kaiser/Shiba Seki revision.
+- **BA-C019: EXTERIOR, NOT BELONGING** — the coalition reaches the probable holding tower, but Alice remains unseen and not returned.
+
+No new claim ID, model, frozen prediction or side-source admission. Maze/reunion mechanism, tower-location inference, Abi-Eshuh capabilities, Rio defense inventory and Alice fate remain OPEN. Contextual backfill **DEFER**.
