@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -918,3 +918,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SENSEI:** Mika says Sensei has repeatedly sought a prison visit and she refused, interpreting noncompulsion as consistent with Sensei. This is Mika's report, not access records or completed visit.
 - **HANAKO ↔ MIKA:** Hanako raises an unproven gentler-first-plan/panic and Nagisa-protection theory, provoking Mika's resistance and Seia-survival doubt. Hanako promises secrecy then shares with Sensei, admits hurt and considers apology; trust boundary not repaired.
 - **SENSEI ↔ HANAKO/STUDENTS:** Sensei's choices argue for teacher trust despite betrayal risk and continued effort, while the key “believe paradise” and future Nagisa/Mika visits are inward. Hanako accepts mutual outreach without knowing outcome; no actual new visit.
+
+## V003 C003 E004 relationship delta — formal and private channels
+
+- **HASUMI/MASHIRO ↔ KOHARU/JUSTICE:** Hasumi thinks of Koharu for a callout then remembers she is ill at home; Mashiro says she remains remedial-club assigned. Care/recognition is not yet reinstatement.
+- **HANAKO ↔ SISTERHOOD:** Hanako works for days sorting documents; Marie apologizes for her fright, Hinata banter is label-unstable. Practical help continues without an observed new bargain.
+- **SENSEI ↔ MAKOTO/IROHA:** Makoto mistakes first formal encounter for anti-Prefect alliance; Iroha corrects on Sensei's behalf. No mutual political alignment is shown.
+- **SENSEI ↔ AKO/HINA:** Ako is startled by untracked Trinity visit, Hina escorts Sensei and connects their perspective-taking to trust. Sensei explicitly says they trust Hina; Hina says only Sensei knows of her wish to rest. This is a bounded private disclosure, not actual retirement.

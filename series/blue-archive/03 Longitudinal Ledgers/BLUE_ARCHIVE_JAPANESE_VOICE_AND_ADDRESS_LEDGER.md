@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1316,3 +1316,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0096-0097` Mika tags use “Mika-san” in Hanako's third-person psychohistory; `u:0113` Mika tag asks whether “Mika-san” feared Arius killing Nagisa; `u:0127` Hanako tag calls herself a traitor in Mika-like voice; `u:0142` Mika tag calls the theory “speculation” in Hanako-like context. Retain source ambiguity and Hanako's explicit `推測`, not a stable narrator motive.
 - Hanako's fifth-rule `楽園` analogy concerns impossibility of **proving** another's `本心`; it does not state another person's acts are unknowable. Sensei `choice:005` calls proof probably impossible; the “therefore believe” passage `u:0182-0184` is `心の声`. `choice:007` has two alternatives about teacher/adult trust and must not be collapsed into one spoken sentence.
 - Sensei `u:0158-0159` is inward speculation yet Hanako replies at `u:0160`; no telepathy inference. `u:0191-0193` inwardly hopes for future visits, not present speech. Identical Hanako `u:0194-0196` are convergence duplicates. `u:0199` next-title card only.
+
+## V003 C003 E004 delta — corrections, thoughts and time card
+
+- Scene 1 `u:0014/0016/0019` tag Hanako while addressing “Hanako-san”/reacting Hinata-like; `u:0015/0017/0020` carry Hanako-style teasing/work complaint. Do not infer exact contact from literal labels. Mashiro's `まだ補習授業部の所属` is a current club-status correction, not a formal committee ruling.
+- Scene 2 Makoto's `協力`/Prefect-destruction interpretation is corrected by Iroha's `形式的` visit and `今日初めて` first meeting. `u:0008` Makoto tag admonishes talk in the other's presence, a local voice inversion. `choice:007` has two alternatives and Hina `u:0040/0041` repeats convergence.
+- Hina's `引退` discussion is then narrowed by her own `少し疲れたから休みたい` and `先生以外はまだ誰も知らない`; it is private intention, not enacted resignation. Sensei `u:0056` is `心の声` despite Hina's direct reply `u:0057`: no mind-reading inference. `調印式` at `u:0061` is future; narrator `u:0063` says signing **day** arrives, not that a signature occurred.
+- Ten Sensei choice groups, only seventh two-option. `u:0064` is forward title only; no E005 event is admitted.

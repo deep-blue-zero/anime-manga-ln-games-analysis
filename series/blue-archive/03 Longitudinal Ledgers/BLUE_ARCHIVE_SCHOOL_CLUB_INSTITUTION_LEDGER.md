@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -787,3 +787,7 @@ In the Tea Party inspector's inquiry, Azusa says Seia proposed a false-death dec
 ## V003 C003 E003 institutional delta — interrogation and risk claims
 
 Mika says she has undergone repeated questioning and supplied Arius contact/Squad composition. She identifies Arius Squad as a student-council-president-created unit and guesses Saori knows district entry; no file, roster, map or independent confirmation is shown. Mika and Nagisa both currently assess Arius's immediate treaty-stage force as diminished/containable, not a guarantee of no threat. Mika's proposed coercion of Azusa is not carried out; Nagisa corrects a torture taunt as old Holy Council practice and says she will not allow such methods. The prison setting remains direct, but sentence and procedure absent. Nagisa says a protective fear for Mika shaped the search for Seia's attacker; it cannot retrospectively legalize academic collective sanction. Hanako's alternative Mika-motive reconstruction is a psychological hypothesis, whereas the order–Squad–Azusa explosion chain is better corroborated by C002 admissions/C003 E002 testimony. No treaty signature, Seia awakening, Azusa inquiry outcome or actual Schale prison visit occurs.
+
+## V003 C003 E004 institutional delta — attendance preparations, not signature
+
+Ichika reports a school equipment tank taken by an unidentified actor, seeking Hasumi's help. Mashiro states Koharu is still a remedial-club member despite prior pass; Hasumi reports illness/home absence. No recovery, medical proof or Justice reinstatement. Hanako reports days of Sisterhood document sorting, an actual implementation of her future-help commitment without a defined political task. At Pandemonium Hall, Makoto claims chair status and imagines Schale assistance against Prefect Team; Iroha expressly says this is Sensei's first formal visit in anticipation of Eden Treaty participation. No alliance or anti-Prefect action. Ako/Hina are occupied with treaty work; Hina returns early to escort Sensei, privately discusses wanting rest but does not resign. Narrator advances to signing **day**, without recording a signature, treaty text, ratification or Hina retirement.

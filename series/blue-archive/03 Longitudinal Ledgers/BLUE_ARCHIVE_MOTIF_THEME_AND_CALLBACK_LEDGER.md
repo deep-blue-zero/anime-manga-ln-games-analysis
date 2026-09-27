@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1070,3 +1070,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Accusation versus private truth:** Mika insists she is a killer/traitor, Hanako hypothesizes protective panic and initial abduction, and both dispute access to motive. Observable order, explosion and surrender cannot certify one hidden heart.
 - **Fifth old rule returns:** Hanako analogizes unprovable paradise to another person's inner truth; Sensei's choice-conditioned response is trust/action under uncertainty. This is not a doctrine of ignoring evidence or waiving accountability.
 - **Retaliation self-correction:** Hanako admits breaching her secrecy promise to Mika and says a teasing investigation became harmful, continuing her chapter-long pattern of care mixed with sharp manipulation.
+
+## V003 C003 E004 motif / callback delta — ordinary work before ceremony
+
+- **Passed yet not restored:** Mashiro's current remedial-club designation for Koharu resists a too-neat “academic pass equals institutional return” ending. The practical aftermath lags the exam score.
+- **Help as work:** Hanako's promised Sisterhood assistance becomes days of document sorting, mixing voluntary commitment, fatigue and sexualized teasing; neither a pure reward nor proven coercion.
+- **Institutional fantasy corrected:** Makoto transforms a formal meeting into an imagined alliance to destroy Prefect Team; Iroha's correction reprises the need to test rhetoric against actual mandate.
+- **Trust as multiview practice:** Hina recaps the traitor as only one perspectival truth and Sensei's continued effort as belief in students, echoing C003 E003 without making facts relative or wrongs vanish.
+- **Rest under peace promise:** Ako hopes treaty reduces Hina's work, while Hina privately wants a break and minimizes “retirement.” Signing day approaches, but neither peace nor rest has materialized.

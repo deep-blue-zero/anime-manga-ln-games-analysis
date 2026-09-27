@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E003
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E004
 generation: V1
-version: "1.89"
+version: "1.90"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–003 provisionally; 127/310 main units; side-source classes unreviewed; BA:main:003:003:004 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–004 provisionally; 128/310 main units; side-source classes unreviewed; BA:main:003:003:005 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:003:004
+next_unopened_main_unit: BA:main:003:003:005
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:003:004
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C003_E003` provisional boundary, inheriting canonical `MAIN_V003_C002`:
+This index answers four questions at the `MAIN_V003_C003_E004` provisional boundary, inheriting canonical `MAIN_V003_C002`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E003;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E004;
 - current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
-- main-story coverage: `127 / 310` canonical units;
+- main-story coverage: `128 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:003:004`.
+- next unopened main unit: `BA:main:003:003:005`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,10 +74,10 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through C003 E003; choice-conditioned teacher trust under unprovable inner motive, future visits inward | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through C003 E004; formal Gehenna visit, Hina trust exchange and signing-day approach | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C003 E001 dream-framed past encounter and Sakurako report: healed blast wounds, still asleep | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Koharu | `ANALYZED` through V003 C002 E019; exhausted yet officially passes third exam at 91, Hasumi encouragement relayed | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hanako | `ANALYZED` through C003 E003; proposes unverified Mika-motive theory, admits harmful secrecy breach, discusses trust | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Koharu | `ANALYZED` through C003 E004 via Hasumi illness report and Mashiro's still-remedial-club correction; no direct scene | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hanako | `ANALYZED` through C003 E004; reports days of Sisterhood document work, label-unstable Hinata banter | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through C003 E002; fake-death operation account and Sakurako's formal Trinity status declaration | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mika | `ANALYZED` through C003 E003; prison self-account/denial, report of refusing Sensei visits, Hanako motive challenge | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E001; explains retention-oriented appeal for Hanako, apologizes, some adjacent labels cautioned | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -88,11 +88,11 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Misaki | `ANALYZED` in C002 E020; suffering-as-life line and mediated question, silent sign labels cautioned | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Atsuko | `ANALYZED` in C002 E020; named silent cue amid reported “princess” signing, exact sign untranscribed | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Tsurugi | `ANALYZED` through V003 C002 E006; now has direct chase cry after earlier silent cues, adjacent labels invert | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hasumi | `ANALYZED` through V003 C002 E019 via Justice member's relayed encouragement/apology; no direct present speech or reinstatement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hasumi | `ANALYZED` through C003 E004; reports Koharu home ill and responds to Ichika's stolen-tank call | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sena | `ANALYZED` in V003 C002 E007; Emergency Medicine head conducts pickup with macabre injury language, no treatment shown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mashiro | `ANALYZED` in V003 C001 E004 and C002 E001 silent committee vignette | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Makoto | `ANALYZED` in V003 C002 E005 conference recollection; misidentifies and insults Hasumi, ignores Iroha correction | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Iroha | `ANALYZED` in V003 C002 E005; corrects Makoto using documents and attempts de-escalation, one label inversion | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mashiro | `ANALYZED` through C003 E004; notes fatigue, states Koharu still remedial-club assigned and volunteers for callout | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Makoto | `ANALYZED` through C003 E004; imagines first formal Schale visit as anti-Prefect alliance, corrected by Iroha | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Iroha | `ANALYZED` through C003 E004; corrects Makoto that Sensei's visit is formal and no alliance exists | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ichika | `ANALYZED` in V003 C002 E005-E006 calls; narrows raid report, says Tsurugi launched and committee members pursue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Junko | `ANALYZED` through V003 C002 E011; reports Gourmet escape/pursuit remotely and later cheers route progress | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Akari | `ANALYZED` through V003 C002 E011; accompanies escaped Haruna and falsely calls Fuuka's seized vehicle a willing loan | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -139,8 +139,8 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Hifumi | `ANALYZED` through C003 E002; reports Nagisa apology and directly refuses hatred in recollected exchange | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Chinatsu | `ANALYZED` in Prologue/C001 E020; C002 Prefect settlement and E017 support | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Iori | `ANALYZED` in C001 E020; C002 Prefect conflict, correction, and E017 support/boundary gag | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Ako | `ANALYZED` in C001 E020; C002 E001-E002 custody rationale and discipline; E011/E017 Prefect contexts | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hina | `ANALYZED` through V003 C002 E007; Gehenna-side treaty proponent gives a distributed-ETO countermodel and asks Sensei to protect club | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Ako | `ANALYZED` through C003 E004; treaty workload, surprise at Sensei's Trinity visit and Hina's early return | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hina | `ANALYZED` through C003 E004; escorts Sensei, articulates perspectival trust and privately wants rest, no resignation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Nagisa | `ANALYZED` through C003 E003; prison confrontation and first-person protective-fear account, no repaired relation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Black Suit (role actor) | `ANALYZED` in C001 E012/E017; C002 recruitment, contract, Gematria separation and adult confrontation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaiser director (role actor) | `ANALYZED` in C001 E012; C002 E010-E011 integrated offices, occupation, defeat/aftermath | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -154,8 +154,8 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
 | Seia | M; treaty frame, dream-framed fatalism/visitor interpretation and prognosis | L; asks visitor's intent rather than fleeing by own account | L; visitor and Sensei address | L; Tea Party member targeted, formal remit thin | GAP | M; dream/italic and modal language | M; healed wounds but persistent sleep by Sakurako report | H; foresight, historical exchange and recovery unverified |
-| Koharu | M; prior despair now countered by 91-point official pass | M; persists exhausted, score passes below her 100-point vow | M; Hasumi message and remedial peers | M; third official pass, committee return not shown | M; prior camp/visit hope | M; anxious perfection language corrected by result | M; overnight strain and successful exam | H; grade return, Hasumi actions, institutional repair and private breadth open |
-| Hanako | M; exit motive, 100 pass, no-withdrawal and Mika theory | M; tests theory, breaches secrecy then self-corrects | M; Azusa/club, Sisterhood and adversarial Mika | M; pass, future Sisterhood tie | M; club joy/teasing | M; frank care and inference/register cautions | M; crisis, postmortem and moral overreach | H; Mika motive, future duty and private breadth open |
+| Koharu | M; prior despair countered by 91 pass, now illness reported | M; prior exam effort, no E004 decision | M; Hasumi thinks of her, Mashiro knows assignment | M; still remedial club, Justice return not shown | M; prior camp/visit hope | M; absent in E004 | M; overnight strain and reported illness | H; grade return, direct health and private breadth open |
+| Hanako | M; no-withdrawal, Mika theory and document-work complaint | M; help actually performed for days | M; club, Sisterhood and adversarial Mika | M; pass plus practical Sisterhood work | M; teasing/outing desire | M; complaint under label inversion | M; crisis then tiring aftermath | H; work terms, Mika motive and private breadth open |
 | Azusa | M; defection, 97 pass and false-death account | M; claims coordinated decoy to fool Squad | M; club/Hanako/Seia-Mine by report | M; Sakurako declares formal Trinity status | M; wants learning/places/friend time | M; `vanitas` and inquiry under label inversion | M; explosion/defense/exam | H; blast harm, inquiry and Arius pursuit open |
 | Mika | M; anti-peace plan, prison self-account and contested hidden motive | M; refuses Sensei visits, resists Hanako interpretation | M; Nagisa/Hanako confrontation and Seia doubt | M; direct confinement, process unknown | L; prison comforts no broad baseline | M; self-accusation/denial tension, labels cautioned | M; confession, surrender and pressure | H; intended harm, deeper motive, process and repair unresolved |
 | Marie | M; retention wish and apology now explicit | L; sought Sakurako's aid for Hanako | M; Hanako/Sakurako and Sensei contact | L; Sisterhood member, authority limited | GAP | M; secure caring lines amid some label conflict | L; aid bargain/postmortem | H; precise official authority and private baseline open |
@@ -166,11 +166,11 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Misaki | L; suffering-as-life line and mediated question | GAP; no independent tactic | L; Saori/Hiyori and possible princess mediation | L; Arius-side association only | GAP | L; direct line, silence/sign labels uncertain | L; prepares under command | H; exact signer, referent, role and ordinary/private control absent |
 | Atsuko | L; one named silent cue | GAP | L; co-presence, reported princess association uncertain | L; Arius-side association only | GAP | GAP; no transcribed speech/sign | L; present at preparation | H; exact sign, decision, title and baseline absent |
 | Tsurugi | L; silent cues then E006 chase cry | L; launches pursuit by Ichika report | L; committee co-presence and Junko encounter | L; chair title from Koharu/Iroha context | GAP | L; one battle cry, neighboring labels inverted | L; raid pursuit | H; injuries, arrest, exact authority and ordinary/private motives open |
-| Hasumi | M; Koharu care and E019 relayed encouragement/apology | M; earlier Schale handoff, current action unprinted | M; Koharu/Sensei/committee and Gehenna meeting | M; Justice vice-chair and grade-return bar | L; sweets encounter under self-restraint | M; formal care plus anger, current voice mediated | M; treaty optics/absence during exam | H; reason for nonhelp, repair action, grade return and private breadth open |
+| Hasumi | M; Koharu care and E004 illness recollection | M; answers stolen-tank call with Mashiro | M; Koharu/Sensei/committee | M; Justice vice-chair and grade bar | L; sweets encounter | M; direct action voice now, prior message mediated | M; treaty optics and callout | H; Koharu reinstatement, theft outcome and private breadth open |
 | Sena | L; injury/death idiom in one pickup | L; conducts transport loading | L; Hina and detainee contact only | L; Emergency Medicine head by self-introduction | GAP | L; macabre correction and brisk clinical register | L; reported three injured plus hostage | H; actual diagnosis, treatment, disposition and ordinary baseline unknown |
-| Mashiro | L; capture report | L; reports arrest | L; Hasumi/Azusa/Koharu co-presence | L; Justice Realization field role | GAP | L; one secure report | L; contested capture context | M; independent decision path and private baseline absent |
-| Makoto | L; one meeting's offended self-image | L; misidentifies and ignores correction | L; Iroha/Hasumi conference only | L; Pandemonium role self-claimed, scope not audited | GAP | L; boast/insult register | L; failed conference | H; broader politics, decisions and ordinary/private contrast open |
-| Iroha | L; one corrective exchange | L; invokes paperwork and urges retreat | L; Makoto/Hasumi conference only | L; Pandemonium participant | GAP | L; flat correction, u32 label caution | L; meeting breakdown | H; own authority, motives and ordinary/private breadth open |
+| Mashiro | L; report, fatigue and Koharu status correction | L; volunteers for tank callout | L; Hasumi/Tsurugi committee tie | L; Justice Realization field role | GAP | L; aspiration/precise status wording | L; repeated duties | H; callout outcome and private baseline absent |
+| Makoto | L; two meetings' inflated self-reading | L; projects anti-Prefect alliance absent evidence | L; Iroha/Sensei and Hasumi contexts | L; Pandemonium chair self-claimed | GAP | L; boast, u8 label caution | L; treaty preparation | H; actual plan, authority and ordinary/private contrast open |
+| Iroha | L; recurrent Makoto correction | L; states formal-visit boundary | L; Makoto/Sensei and Hasumi contexts | L; Pandemonium participant | GAP | L; flat factual correction | L; treaty preparation | H; own authority and ordinary/private breadth open |
 | Ichika | L; one phone report | L; updates force/target/identity | L; Hasumi professional call | L; Justice Realization reporting role | GAP | L; colloquial report register | L; reported aquarium incident | H; sources, field action, independent decision and private context open |
 | Junko | L; raid, pickup and resumed chase | L; coordinates escape/reunion remotely | L; Gourmet group context | L; Gourmet Research membership | GAP | L; protest/cheer, one crisis | L; Prefect pursuit | H; outcome, ordinary preferences and independent baseline open |
 | Akari | L; food quest, arm concern and false car-loan gloss | L; guides party while Fuuka captive | L; Gourmet/Fuuka coercion and Sensei aid | L; Gourmet Research membership | GAP | L; playful star register | L; detention escape/pursuit | H; diagnosis, coercion limits and ordinary behavior open |
@@ -216,7 +216,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Chinatsu | L | M in procedure/risk contexts | M toward Sensei/Iori | H within narrow Prefect context | GAP | M with anomalies quarantined | H | M |
 | Iori | M for role/context variation | M within enforcement/correction contexts | M within Prefect/Sensei | H within narrow Prefect context | GAP | M with anomalies quarantined | H | M |
 | Ako | M for role correction | M for threat/custody rationale | M toward Hina/Sensei | H within Prefect mandate dispute | GAP | M with shift clusters quarantined | H | M |
-| Hina | M; old intelligence, treaty motive and retirement hope distinguished | H within mandate/aid, M for treaty countermodel | M toward Ako/Hoshino/Sensei and Sena | H; Prefect command, ETO structure actor-described | GAP | M; official warning and weary self-report | H | H; ETO charter, Makoto prognosis and private baseline open |
+| Hina | M; treaty motive and private rest wish, no actual retirement | H within mandate/aid, M for perspective-trust reading | M toward Ako/Sensei and earlier others | H; Prefect command, ETO actor-described | GAP | M; weary/private disclosure, thought-response caution | H | H; retirement decision, treaty outcome and private baseline open |
 | Nagisa | M; suspect rationale, Hifumi apology and protective-fear testimony | M; visits/presses Mika, rejects torture | M; Hifumi and Mika under strain | M; host, claimed bypass and time-bounded Arius risk | L; no broad ordinary baseline | M; remorse, fear and direct questions | M; prison conflict, no medical exam | H; procedural accountability, treaty and private breadth open |
 | Black Suit (role actor) | M; knowledge/affiliation revealed | H within coercive bargaining | M toward Hoshino/Sensei/director | H within asserted Gematria role | GAP | H for formal coercive discourse | H | H |
 | Kaiser director (role actor) | M; offices revealed and loss reported | H within creditor/force domination | M toward committee/contractors/Black Suit | H | GAP | M | H | H |
@@ -1060,3 +1060,9 @@ Routing: [V003 C003 E002 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 In Trinity prison, Mika says she has given investigators Arius Squad details and reports refusing repeated Sensei visits; neither interrogation file nor access log is shown. She and Nagisa both assess Arius as a limited immediate treaty-stage threat, a forecast rather than validated force inventory. Nagisa rejects an old-council torture method and later says Seia's apparent death made her fear she was next, so she sought the culprit partly to keep Mika from being left alone. That first-person motive complicates but cannot justify her earlier collective sanction. Mika insists Gehenna hatred and her own wrongdoing suffice, while Nagisa asks why childhood friends were targeted; they part unreconciled. Hanako proposes an **unverified** original kidnapping plan, panic after false death and exposure to protect Nagisa, citing Mika's surrender on Seia-survival news. Mika rejects being psychoanalyzed and continues conflicting kill/no-halo-destruction self-descriptions. Hanako promises not to share her theory, then tells Sensei, recognizes the injury and considers apology. Their later fifth-old-rule analogy compares unprovable paradise to another's unprovable inner truth; Sensei's choice-conditioned trust is an ethical response under uncertainty, not proof of innocence or a waived duty to investigate. Several tags invert (`u:0027/0033/0061/0096-0097/0113/0127/0142`); inward Sensei speculation receives an apparent Hanako reply, and `u:0194-0196` repeat convergence. No subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** remains academically/formally narrowed but accountability and treaty outcomes open. E004 unopened.
 
 Routing: [V003 C003 E003 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E003_DEEP_READING.md) → `BA:main:003:003:003`, one scene, 198 represented numbered units and eight Sensei choice groups (seventh two-option). Coverage is **127 / 310**.
+
+## 99. V003 C003 E004 provisional coverage delta
+
+Ichika phones that an unidentified actor took a school equipment tank; Mashiro notes repeated-duty fatigue and explicitly says Koharu remains **in the remedial club**, while Hasumi reports Koharu home ill. This is narrower than a direct health or Justice-return finding and qualifies Seia's C002 forecast. Hanako says she has spent days sorting Sisterhood documents and wants an outing; Marie apologizes, but Hanako/Hinata body-contact labels invert at `u:0014/0016/0019`. At Pandemonium Hall, Makoto assumes a Schale alliance against the Prefect Team; Iroha says this is Sensei's **first, formal** visit for Eden attendance and denies cooperation. Makoto `u:0008` is voice-suspect. Ako discovers Sensei visited Trinity earlier and hopes treaty will reduce Hina's workload. Hina returns early, escorts Sensei and interprets perspectival checking as continued trust in students. Sensei directly says Hina is trusted. Hina says only Sensei knows of her wish for “retirement,” immediately reframing it as wanting rest; no departure occurs. Sensei's inward `u:0056` is answered by Hina, a representation anomaly, not mind-reading. Narrator advances time to **signing day**, not a signature. Scene 2 has ten Sensei choices, seventh two-option with duplicated Hina convergence. No subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** remains narrowed but Koharu's formal return open; E005 unopened.
+
+Routing: [V003 C003 E004 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md) → `BA:main:003:003:004`, two scenes, 84 represented numbered units and ten Sensei choice groups (seventh two-option). Coverage is **128 / 310**.

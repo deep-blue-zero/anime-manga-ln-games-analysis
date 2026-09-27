@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1144,3 +1144,13 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Arius/Saori:** Mika says Squad was formed by Arius's student council president and that Saori may know district entry; these are her claims, not inspected hierarchy/intelligence. No new subject or direct Saori sample.
 
 No subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E004 character-state delta — formal visits before signing
+
+- **Koharu/Hasumi/Mashiro:** Hasumi reports Koharu home with a cold, while Mashiro says she still belongs to remedial club; no direct Koharu exam aftermath or Justice reinstatement. Hasumi/Mashiro volunteer to answer Ichika's reported stolen-tank call. All remain `UNMODELED`.
+- **Hanako/Hinata/Marie:** Hanako says she has spent days sorting Sisterhood documents rather than going out; Marie apologizes and calls her frightening. Hanako/Hinata labels invert around body-contact banter, so precise actions and voice are uncertain. All `UNMODELED`.
+- **Makoto/Iroha:** Makoto imagines Schale alliance to break Prefect Team and calls herself Pandemonium chair; Iroha says the first-time visit is merely formal for treaty attendance. No alliance or action. Both `UNMODELED`.
+- **Ako/Hina:** Ako is surprised Sensei already visited Trinity, hopes treaty reduces Hina's work and reacts to Hina's early return. Hina escorts Sensei, interprets multi-perspective truth/trust, and privately says she wants rest, with no announced or completed retirement. Ako `PARTIAL_MODEL`, Hina `PARTIAL_MODEL`.
+- **Sensei:** attends formal Gehenna contact, says Trinity work remains, affirms trust in Hina and receives Hina's private rest disclosure; an inward retirement question receives a response anomaly. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -877,3 +877,7 @@ Sensei gives Hanako a spoken singleton acknowledgment of her effort, reacts to N
 ## V003 C003 E003 delta — belief under uncertainty, not exoneration
 
 Mika reports Sensei repeatedly came to prison and did not compel her after refusals; no direct visit/access log is printed. In dialogue with Hanako, Sensei offers hypothetical alternative motives but accepts a simplistic one may be too speculative. The fifth-rule analogy leads to choices about inability to prove another's inner truth and a teacher/adult commitment to believe students even when betrayal is possible. `choice:007` has two alternatives, not a single merged doctrine; `u:0182-0184` “believe paradise” is inward. This ethic is not evidence that Mika did no harm, that Nagisa's coercion was justified, or that accountability should stop. Sensei inwardly hopes Nagisa and Mika may speak honestly and plans future visits after the treaty, not a completed reconciliation. Hanako's echoing final effort line is convergence-duplicated. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E004 delta — formal attendance and Hina's interpretive trust
+
+Sensei meets Makoto/Iroha only for formal Eden attendance; Makoto imagines an alliance to destroy Prefect Team, directly denied by Iroha. Ako learns Sensei already visited Trinity, but no obligation to notify her is printed. Hina escorts Sensei, asks what remains, and interprets continued multi-perspective checking as trust in students; Sensei explicitly says they trust Hina too. This is not blanket belief in every claim or completed Trinity repair. Hina privately says she wants rest after the treaty; no resignation is enacted. `choice:007` branches but converges; `u:0056` is inward despite Hina's answer, so no telepathy. Narrator reaches treaty-signing day, not completed ceremony; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

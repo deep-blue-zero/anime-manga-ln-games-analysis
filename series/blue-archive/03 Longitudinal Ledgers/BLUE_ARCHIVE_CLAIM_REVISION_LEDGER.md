@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E003 active provisional; E004 unopened
+current_sequential_boundary: MAIN_V003_C003_E004 active provisional; E005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1928,3 +1928,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E004 unopened.
+
+## V003 C003 E004 claim delta — day arrives, signature still future
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hina interprets Sensei's refusal of a single traitor narrative as continuing multi-perspective work grounded in trust; Sensei directly says they trust Hina. This is an ethical posture, not evidence all information is equally true or a completed intervention.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mashiro says Koharu remains in remedial club despite the certified pass; Seia's C002 return forecast is not yet fulfilled on-page. Iroha corrects Makoto's imaginary Schale/Pandemonium anti-Prefect alliance: the first meeting is formal for treaty attendance. Narrator reaches signing day only, without signed treaty or results.
+- **BA-C008 — STRENGTHEN:** Ichika's stolen-tank report, Makoto's plan fantasy, Hina/Ako workload forecasts, C003 `u:0056` inward question receiving Hina's response and inverted Hanako/Hinata labels require source/voice distinctions.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E005 unopened.
