@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E006 active provisional; C004 E007 unopened
+current_sequential_boundary: MAIN_V003_C004_E007 active provisional; C004 E008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2189,3 +2189,12 @@ No new durable claim ID, model, frozen prediction or side-source admission. Golc
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. E001 firing outcome, Squad-task delivery and tomorrow's hearing remain open; C004 E007 unopened.
+
+## V003 C004 E007 claim delta — aid without a lethal bargain
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** anonymous crowd guilt and Mika's “all Saori” attribution exceed proof; wall breach/escape is materially supported, but no retaliatory attack or hearing outcome. Saori's Beatrice identification and basilica lead narrow the search without verifying Atsuko's current location or ritual.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei accepts a prior shooter's student plea, insists on equal conversation and removes halo bombs rather than taking Saori's offered lethal authority. Technical safety and rescue outcome remain unproven.
+- **BA-C008 — STRENGTHEN:** reported Seia medical signs, Saori's retrospective bargain, Mika's distress and narrator-backed bomb confiscation/destruction have separate warrant. Saori survives E001, but other Squad fates remain unknown.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E008 unopened.

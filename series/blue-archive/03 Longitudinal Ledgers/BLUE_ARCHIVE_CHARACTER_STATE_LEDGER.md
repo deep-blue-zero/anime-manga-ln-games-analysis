@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E007 character-state delta — escape, plea and nonlethal aid
+
+- **Mika:** under crowd blame and Seia's illness, concludes falsely that no forgiveness/recovery is possible, then shifts to total blame of Saori and threatens Saori's loved ones. A wall breach and student-reported escape occur; weapon retrieval/attack unshown. `UNMODELED`.
+- **Saori:** survives the E001 firing threat, says Atsuko was captured and peers scattered with unknown fates, identifies Beatrice, reports a likely basilica sanctuary/dawn sacrifice and pleads to Sensei. Admits shooting Sensei and offers a halo bomb against herself; accepts its confiscation. `UNMODELED`.
+- **Sensei:** seeks equal standing, agrees to help prior shooter Saori as a student, confiscates all halo bombs, destroys the detonator and proposes rejoining Misaki/Hiyori. No rescue or technical bomb audit. `PARTIAL_MODEL`.
+- **Seia/Nagisa/Atsuko:** Seia's worsening convulsions/bleeding and Nagisa's hospital journey are anonymous reports; no diagnosis. Atsuko's location/deadline are Saori's account, not a current sighting. All `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E006 character-state delta — interrupted meeting and uncertain warning
 

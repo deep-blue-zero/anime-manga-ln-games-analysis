@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -993,3 +993,7 @@ Sensei has no printed choice, voice or action in this episode. In Seia's apparen
 ## V003 C004 E006 delta — uncertain warning, independent travel
 
 Sensei has no choice or audible speech. Inwardly they think Seia's voice may have been heard, dismiss it as possibly mistaken and register unease. Narration says an email with unknown sender led them to a deserted-feeling town; Sensei recognizes Saori there, but neither message source nor Saori's purpose is printed. The transcript does not show Sensei knowingly obeying Seia's plea to flee or knowingly walking into Beatrice's asserted task. Adult agency and vulnerability are both open; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E007 delta — help without lethal control
+
+Sensei asks Saori to stand and seeks an equal talk before assessing her Beatrice/Atsuko account. Inwardly they decide to help the student who previously shot them; aloud they ground aid in not dismissing a student's request. This does not erase Saori's admitted attempted killing. When she offers a halo bomb and detonator as a self-punishment guarantee, Sensei refuses that frame, confiscates all bombs and destroys the trigger. Saori's “cannot explode without it” is unverified engineering testimony, not a global safety finding. Sensei proposes rejoining Misaki/Hiyori and departs, with rescue future. Fourteen choice groups, three paired convergences; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

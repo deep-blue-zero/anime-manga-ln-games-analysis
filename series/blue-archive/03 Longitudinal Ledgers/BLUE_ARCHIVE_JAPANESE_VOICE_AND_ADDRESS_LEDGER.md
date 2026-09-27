@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1524,3 +1524,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Seia's first `君のせいではない` at `scene:001:u:0021` is italic/inward; her later `君のせいではない。これは……私が招いた失敗` at `u:0051` is direct speech to Mika. Do not treat the earlier retraction as already communicated.
 - Beatrice's basilica address to Seia (`u:0032-0035`) appears in a crosscut after Seia's consciousness falters; Mika/Justice lines (`u:0037-0039`) remain local bedside speech. The layout supports linked perspective, not an unmarked physical transfer.
 - Scene 2 `u:0003-0004` duplicates the same unknown-origin-email narration. Sensei's Seia-voice thought is explicitly uncertain; Saori speaks only `……`. No Sensei choices; `u:0008` is E007 title only.
+
+## V003 C004 E007 delta — voices, echoes and a nonlethal correction
+
+- Unattributed `声` lines (`u:0001-0014/0051/0065/0067`) report emergency and accuse Mika; no stable person voice or causation can be assigned. Seia `u:0052-0054` repeats E006's earlier accusation as an echo in Mika's distressed sequence, not a fresh contradictory verdict after her audible retraction.
+- Mika's repeated `私のせい` shifts to `全部` directed at Saori; the absolutist register is psychological escalation, not a source-certified conspiracy map. Her `ごめんね～★` at the wall breach does not trivialize the threat.
+- Saori's `彼女` is disambiguated by her later Beatrice description/name (`u:0093-0096`); retrospective lines are her testimony. Her prior shot at Sensei is first-person `私は、お前を撃った` (`u:0111`).
+- Fourteen Sensei groups include paired `001/012/013` with convergent responses. The `choice:010-011` correction takes **all bombs**, and inward `u:0121/0123` prints detonator destruction, not a hypothetical. `u:0129` is E008 title only.

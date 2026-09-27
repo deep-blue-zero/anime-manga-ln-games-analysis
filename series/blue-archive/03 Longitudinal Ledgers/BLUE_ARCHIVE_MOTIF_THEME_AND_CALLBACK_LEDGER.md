@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1287,3 +1287,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Causal blame checked:** Seia's fear initially lands on Mika bringing Sensei, then she explicitly retracts blame and calls the crisis her own failure. This limits the simple “Mika caused everything” narrative without settling the prior harm.
 - **Warning across uncertain channels:** Seia's plea to Sensei and Sensei's faint impression of her voice mirror the dream/reality boundary; no reliable message delivery is yet shown.
 - **Altar/wing:** Beatrice's sanctuary and Seia's fear of summoning connect visually to the catastrophe vision, but the ritual function is still her inference; the title cannot certify a literal broken wing or outcome.
+
+## V003 C004 E007 motif / callback delta — rival fairy tales and chosen restraint
+
+- **Fairy tale inverted:** Mika calls hoped-for repair a false fairy tale, then converts hurt into a simple Saori-as-origin story. The latter is emotionally intelligible but contradicted by multiple agency layers already on record.
+- **Sacrifice recounted:** Saori says Atsuko was raised as a `生贄` and that conquest was sold as a way out. Her own offered life/bomb repeats sacrifice logic; Sensei refuses to hold a lethal threat over her.
+- **Teacher despite injury:** Saori admits shooting Sensei, who nonetheless treats her plea as a student's request and enforces a safety boundary. Care is neither amnesty nor unconditional trust.
+- **Two dawns:** Nagisa's planned hearing and Saori's reported ritual converge on next morning, but neither is completed here; urgency does not certify the exact timetable.

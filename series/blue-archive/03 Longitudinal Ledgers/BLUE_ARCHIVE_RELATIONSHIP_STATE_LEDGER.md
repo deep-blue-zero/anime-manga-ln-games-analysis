@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1130,3 +1130,11 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SEIA ↔ BEATRICE:** Beatrice directly addresses Seia as an eavesdropper within a basilica perception/dream crosscut. Reciprocal contact is stronger than E005's passive overhearing, but physical location and mechanism remain unaudited.
 - **SEIA ↔ SENSEI:** she calls for Sensei to flee; Sensei later inwardly thinks they may have heard her. This is suggestive crosscut, not certain transmission or comprehension.
 - **SENSEI ↔ SAORI:** Sensei sees Saori in an empty-feeling town reached from an anonymous email; Saori is silent. Meeting intent and Beatrice-task compliance remain open.
+
+## V003 C004 E007 relationship delta — shame, threat and bounded trust
+
+- **MIKA ↔ SEIA/NAGISA/SENSEI:** Mika believes tomorrow's shared hearing dream is gone after Seia's illness and crowd hostility. Her conclusion that Seia never forgave her is not Seia's present testimony; escape threatens the planned process.
+- **MIKA ↔ SAORI/SQUAD:** Mika makes Saori the sole cause of all harm and threatens those dear to her. This is a dangerous intention, not demonstrated Saori sole authorship or accomplished revenge.
+- **SAORI ↔ ATSUKO/PEERS:** Saori pleads for Atsuko, reports other members missing and blames her own failed protection. No reunion/casualty count yet.
+- **SENSEI ↔ SAORI:** Saori offers total obedience and a lethal bomb against herself; Sensei asks equal conversation, chooses aid despite being shot and disarms her instead. This is bounded trust, not exoneration.
+- **SEIA ↔ MIKA/CROWD:** anonymous voices accuse Mika during Seia's medical crisis, while others object; the accusation has no established cause.

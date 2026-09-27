@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -903,3 +903,7 @@ Within Seia's apparent lucid-dream witness scene, Beatrice claims Arius territor
 ## V003 C004 E006 institutional delta — bedside help and claimed hidden sanctuary
 
 Mika says a Justice member normally watches her and waited outside for the private talk; during Seia's visible collapse Mika calls for help and a Justice member says they will fetch someone. No medic arrives or clinical outcome is shown. The crosscut Beatrice calls the place Arius basilica/sanctuary and says other Gematria members have not visited, but neither physical site nor access control is inspected from outside Seia's impaired perception. Sensei independently follows an email with unknown sender into an isolated town and sees Saori. There is no verified institutional summons, hearing, adjudication, Squad order delivery or casualty report.
+
+## V003 C004 E007 institutional delta — emergency, escape and sanctuary lead
+
+Unattributed responders report Seia's convulsions/bleeding, seek Rescue Knights/Sisterhood and say Nagisa is on the way to hospital; these are not verified treatment outcomes. Schale is unreachable by their report, not proven incapacitated. Hostile voices infer Mika caused Seia's crisis without evidence, while a wall breach and a Trinity student's escape report establish Mika's departure from custody. Saori identifies Beatrice as Arius representative/Madam and gives the Arius Basilica underground sanctuary as Atsuko's probable location, with dawn ritual by report. Neither current possession, physical site inspection, rescue, hearing nor formal expulsion follows. Sensei confiscates Saori's halo bombs/detonator; device safety remains Saori's claim.
