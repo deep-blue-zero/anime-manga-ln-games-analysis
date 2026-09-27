@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -819,3 +819,7 @@ Seia, in a dream frame, argues venue/representative qualification made a distort
 ## V003 C003 E011 institutional delta — emergency delegation and ambulance passage
 
 Marie says an extremist faction independently issued an emergency summons, then guarantees Sakurako previously asked Hanako to act as Sisterhood commander if absent. Officers accept and Hanako directs command reconstruction, ceasefire, wounded search and witness gathering; written delegation, completion and reach over Tea Party remain unverified. A Pater faction martial-law demand is reported, not enacted. Shinon reports emergency meetings and hears combat without seeing it, explicitly lacking casualty data; emergency declarations are her question. Justice receives conflicting calls with Tsurugi/Hasumi absent; Koharu is summoned/identifies confiscated-items post, a work cue not formal reinstatement from remedial club. At Trinity fifth gate, students threaten Sena's Gehenna ambulance despite patient claim. Hanae/Serina oppose it, Suzumi deploys a flashbang, students withdraw, and Sena identifies shot Sensei as patient. No full force audit, hospital arrival or final prognosis. Mine reputation/Rescue Knights prior ties are reports, not direct Mine action. Mai, Hanae, Serina, Suzumi and Reisa newly enter narrow index coverage.
+
+## V003 C003 E012 institutional delta — preliminary investigation, not attribution
+
+Sisterhood relays Rescue Knights' report that Sensei is in their room after heavy bleeding, properly given first aid, apparently not immediately dying but still unconscious. This is secondhand care status, not clinical chart/final prognosis. A Sisterhood analyst rules out a ramjet and places launch inside Trinity district without exact origin; this overturns Hina's E007 engine conjecture and weakens external-Gehenna attribution without identifying a Trinity school attacker. Restored blast camera footage reportedly matches Sisters' battle reports; the content is not fully transcribed, and Hanako's Justina name must be read alongside E008's mimesis label. Hanako builds a broad no-solution/erasure theory only under explicit `仮定` and dozens of leaps, so no institutional conclusion, order or validated countermeasure follows. Sisters' Gehenna fight continues by report; cessation from E011 is not yet shown.

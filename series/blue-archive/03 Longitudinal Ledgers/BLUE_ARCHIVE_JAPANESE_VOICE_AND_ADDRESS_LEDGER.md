@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1381,3 +1381,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Justice member `メンバー…だよね` recognizes Koharu provisionally; her `押収品の管理室？` is self-identified assigned post, not registrar notice. Mika `ナギちゃん` remains unlocated.
 - Gate students assume Gehenna patient; Sena says only `負傷者` before later `シャーレの[USERNAME]先生` reveal. Mine “breaks/fixes” is student reputation and Hanae `よく言ってます` is a colleague report, not direct Mine voice.
 - Suzumi's flashbang warning `？？？` then direct apology identifies intervention by context; effects and authorization not certified. Reisa's italic boast is one narrow sample. No Sensei choice groups; scene 4 `u:0049` is E012 title only.
+
+## V003 C003 E012 delta — tentative health, origin and worst-case modality
+
+- Official `団員の情報によると` relays Rescue Knights' medical report; `命に別状は無さそう` is tentative, while `意識を取り戻せてない` marks continued unconsciousness. Do not translate it into full recovery or death.
+- Analyst `ラムジェットエンジンのものではありません` directly rejects Hina's E007 question; `詳しい位置は特定できませんが` qualifies `トリニティ自治区の内部` as district-level, not exact launch pad or perpetrator.
+- `映像が復旧`/`報告と一致` says restored footage matches Sisters' reports but transcribes no detailed frames. Hanako `ユスティナ聖徒会` is a recognition label; E008 `複製（ミメシス）` still distinguishes appearances from literal ancient bodies.
+- Hanako `仮定に過ぎません`, `数十にも渡る飛躍`, `万が一` and interrogative `存在しない……？` explicitly prevent certainty about no solution or both-school erasure. Her `アミューズパークの怪談` is an inward allusion, not a reviewed source. No Sensei choices; `u:0038` is E013 title only.

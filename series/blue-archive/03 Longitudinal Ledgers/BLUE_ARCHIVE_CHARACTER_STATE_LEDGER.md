@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E012 character-state delta — provisional synthesis under fear
+
+- **Hanako:** asks for Sensei's condition, receives secondhand first-aid/unconsciousness report, hears analyst reject ramjet/place launch inside Trinity, and identifies Justina-looking figures in restored footage context. She explicitly calls her broad catastrophe theory a hypothesis requiring dozens of leaps. `UNMODELED`; insight is not verified omniscience.
+- **Sensei:** reported in Rescue Knights room after heavy blood loss and first aid, apparently not in immediate mortal danger, still unconscious. No direct medical chart or recovery. `PARTIAL_MODEL`.
+- **Marie:** witnesses Hanako's recognition and worry without endorsing a causal theory. `UNMODELED`.
+- **Hina/Gehenna:** Hina's E007 ramjet conjecture is contradicted by analyst report; Gehenna blame remains unproven despite Sisters' field combat with Gehenna. Hina `PARTIAL_MODEL`, no new direct sample.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E011 character-state delta — decentralized care and command
 

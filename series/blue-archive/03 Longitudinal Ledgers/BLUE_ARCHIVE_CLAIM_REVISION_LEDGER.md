@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E011 active provisional; E012 unopened
+current_sequential_boundary: MAIN_V003_C003_E012 active provisional; E013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2000,3 +2000,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, model, frozen prediction or side-source admission. Mai, Hanae, Serina, Suzumi and Reisa enter narrow `UNMODELED`: **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E012 unopened.
+
+## V003 C003 E012 claim delta — evidence narrows, theory remains theory
+
+- **BA-C001/C016 — QUALIFY:** Sensei is a treated but unconscious patient according to Sisterhood's relayed Rescue Knights report, unable to direct current inquiry; apparent immediate survival does not prove recovery.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** analyst rejects Hina's ramjet idea and preliminarily places launch inside Trinity district, narrowing Gehenna missile attribution without certifying a Trinity-school culprit or precise Arius launch site. Restored footage/field report leads Hanako to name Justina-looking foes; mimesis/identity remains separately sourced. Hanako's existential no-solution forecast is explicitly a multi-leap hypothesis, not narrator outcome.
+- **BA-C008 — STRENGTHEN:** secondhand medical report, analyst technical result, untranscribed video, Sisterhood combat report, Hanako's visual label and inward theory have distinct evidential weight. The amusement-park story allusion is not admitted as an analyzed side source.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E013 unopened.

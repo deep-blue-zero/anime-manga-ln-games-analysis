@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -982,3 +982,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SENA ↔ RESCUE KNIGHTS/SUZUMI:** Sena's Gehenna ambulance is defended by Trinity healers and vigilante; care crosses school border before they learn Sensei's identity. No ongoing intergroup arrangement or hospital handoff.
 - **SUZUMI ↔ REISA:** Reisa briefly calls for a shared vigilante moment; Suzumi departs on patrol, so no joint action shown.
 - **MIKA ↔ NAGISA/SEIA:** Mika's unlocated speech to Nagisa invokes Seia's story frame; it supplies neither contact nor medical knowledge.
+
+## V003 C003 E012 relationship delta — concern without direct contact
+
+- **HANAKO ↔ SENSEI:** Hanako asks urgently about Sensei and hears relayed treatment/unconsciousness status. Relief and worry coexist; no visit or direct Sensei reply.
+- **HANAKO ↔ MARIE/SISTERHOOD:** an analyst supplies preliminary launch/video information; Hanako identifies the apparent guardians and exposes her own severe but explicitly tentative theory to Marie. Marie does not confirm it.
+- **HINA ↔ HANAKO/EVIDENCE:** the analyst's non-ramjet result corrects Hina's earlier inward guess without a direct meeting or moral judgment of Hina.
+- **TRINITY ↔ GEHENNA:** Sisters reportedly still fight Gehenna while evidence suggests launch inside Trinity district; neither fact proves a school sanctioned the Arius strike.

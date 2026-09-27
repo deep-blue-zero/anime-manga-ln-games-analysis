@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1135,3 +1135,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Rumor as armed border:** gate students prioritize Gehenna labeling over the ambulance's medical claim until Rescue Knights/Suzumi force a pause; the victim is revealed to be Sensei after de-escalation.
 - **Mine's absent reputation:** “breaks, Knights heal” comedy backfires as a rhetorical appeal; it describes social memory, not actual Mine action in this unit.
 - **Sisterhood inheritance as contingency:** E006's historical guardian lineage contrasts with Marie's practical, witness-backed but unfiled succession request to Hanako.
+
+## V003 C003 E012 motif / callback delta — making a map under incomplete evidence
+
+- **From technical suspicion to measured correction:** Hina's E007 ramjet image is ruled out by Sisterhood analysis; this models revision without automatically replacing one false culprit with another.
+- **Patient under the ledger:** Sensei moves from vulnerable transit to reported treatment room, still unconscious; student inquiry must proceed without a speaking teacher.
+- **Old guardians on new footage:** Hanako names the Justina appearance while prior Arius sources call it mimesis; visual resemblance and ontology remain split.
+- **No-solution fear as self-labeled hypothesis:** Hanako's many linked motifs—Council, catacombs, Arius, Eden—generate a catastrophe forecast that she herself flags as leap-filled, not a validated future.
+- **Erasure analogy:** her inward memory of Arius after First Council echoes Saori's grievance but cannot certify total past erasure or inevitable present repetition.
