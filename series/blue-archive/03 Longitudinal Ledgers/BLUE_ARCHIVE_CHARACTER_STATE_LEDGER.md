@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -847,6 +847,16 @@ Narration confirms outdoor/lobby and group pool cleaning, then pool filling only
 - **Azusa/Hanako:** in a simultaneous lobby scene Azusa admits unfamiliar-place sleeplessness, says she may keep watch and claims five-day no-sleep training. Hanako notices tiredness and advises care. No attack, validated endurance or evidence Hanako's own lobby purpose is sinister.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E013 character-state delta — diagnostic initiative
+
+- **Hifumi:** after a late night, co-prepares and administers a partial prior-year-paper mock, compares group performance with the 60-point target, proposes targeted help and repeated checks, and offers Momo Friends rewards. These are concrete leadership acts, not proof of teaching efficacy or resolution of her private Nagisa conflict.
+- **Azusa:** organizes waking, accepts the mock and responds with unusual explicit delight to Peroro and other Momo Friends items, pledging effort for a reward in mission language. Mock 33 versus official first 32 is not a comparable gain; her E012 sleep condition is not resolved.
+- **Hanako:** narrator gives mock 4; she tentatively affirms Hifumi's report of a much higher first-year record. Why her current scores are low remains unshown.
+- **Koharu:** narrator gives mock 15; she voices discomfort during forced shower handling and rejects the character reward. Comic framing does not establish consent or stable dislike of the group.
+- **Sensei:** helps Hifumi prepare the practice paper and gives her credit. No independently shown exam rescue, protective action or tutoring effect. Hifumi's 68 passes locally; three peers fail.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Some printed role labels invert, especially around help assignments and reward conversation.
 
 ## V003 C001 E010 character-state delta — camp routines before second test
 

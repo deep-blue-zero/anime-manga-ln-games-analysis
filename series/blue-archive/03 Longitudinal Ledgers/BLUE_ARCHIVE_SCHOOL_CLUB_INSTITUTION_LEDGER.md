@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -678,3 +678,7 @@ Narration confirms exterior weeds/clutter cleared, corridor sweeping/wiping repe
 ## V003 C001 E012 institutional delta — preferred investigation and fallback expulsion
 
 Hifumi confirms the joint three-exam failure would expel all and says she has not told the other students. In her recollection Nagisa says she chiefly wants a traitor found quickly, not particular exam scores; expulsion is the last resort if suspect identification fails. She selected Hifumi for her Schale connection and expects Sensei's presence to restrain the hypothetical actor. These are interested institutional design claims, not audited procedures, intelligence or demonstrated deterrence. The group separately confirms no pool play on day one and intends full study from tomorrow. Sensei occupies another room; no second exam, expulsion or procedural appeal is shown.
+
+## V003 C001 E013 institutional delta — local mock, official condition unchanged
+
+Hifumi and Sensei prepare a 60-minute, 100-point mock from a partial set of prior Trinity questions/answers, with a local 60-point threshold. Narration confirms administration and scores: Hanako 4, Azusa 33, Koharu 15 fail, Hifumi 68 pass. These are **mock** results, not the official second sitting or an alteration of the first. They do not satisfy the E006 joint-pass condition. Hifumi proposes targeted help and regular future mocks but no later execution is yet shown. She reports a high earlier first-year score for Hanako, tentatively acknowledged by Hanako, without explaining current failures. A Momo Friends reward is offered for good performance, not documented as a formal school incentive rule. Nagisa's alleged bypass, traitor intelligence and exam-control threat receive no direct institutional test here. Speaker-label inversions constrain exact peer-helper assignment in `scene:002:u:0053-0054`.

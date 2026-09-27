@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -768,3 +768,7 @@ Hifumi coordinates maintenance, Koharu/Hanako/Azusa contribute, and narrator con
 ## V003 C001 E012 delta — promising to carry a student's imposed burden
 
 Sensei now expressly locates their separate room and offers the group call-if-needed support. In their room Hifumi discloses Nagisa's secret informer assignment, which she cannot reconcile with peer loyalty. Sensei labels her kind, says she need not carry that task and promises to address it, then asks her to think of what she can do. This is an ethically salient boundary on conscripting a student into surveillance, but `私が、どうにか解決する` is an untested adult undertaking: no method, consent process, protection guarantee, test appeal or traitor evidence is printed. Sensei's earlier E009 `私のやり方` remains undefined. Nagisa's claim that Sensei functions as a restraint on a traitor is not independently validated. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E013 delta — assist diagnosis without owning student initiative
+
+Hifumi says Sensei helped late into the previous night to shape a partial prior-paper mock; this is a narrower observed/attested educational contribution than an inferred cure. Sensei starts the mock through a singleton choice and later explicitly credits Hifumi's work rather than taking its authorship. The diagnostic plan and reward are Hifumi's, and the 4/33/15/68 mock scores give no causal teaching-effect estimate or official joint pass. Sensei neither addresses Nagisa nor shows the protective mechanism promised in E012. A parenthesized reaction to Hifumi and other singleton choices are not multiple ethical branches or public instructions. Koharu's shower protests receive no represented adult response, so do not invent intervention or approval. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

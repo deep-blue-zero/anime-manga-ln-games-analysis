@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1119,3 +1119,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `scene:001:u:0016-0020` has Hifumi/Azusa labels over farewell/heart-marked and Justice Realization-style objections that appear role-swapped; avoid secure Azusa voice attribution. Sensei's `あっちの部屋` in singleton choice now specifies a separate room, not a co-sleep invitation.
 - Sensei's `scene:002:u:0003-0004` repeats Nagisa's E009 expulsion admission as remembered lines; `u:0032-0047` prints Hifumi's recalled prior Nagisa dialogue, with `ゴミ箱`/`蓋` dehumanizing analogy and attempted retraction. These are not simultaneous new conversations. Hifumi's `みんな、同じ学校の生徒` invokes shared peer status against informer duty; her `誰にも言わないように` recounts an imposed secrecy instruction.
 - Azusa's `5日間ぐらいなら寝なくても問題無い` is an endurance claim under admitted unfamiliar-place sleeplessness, not medical fact. Hanako's `そういうお話ではなく`/`無理しないで` is concern rather than validation. Twelve Sensei choices are singleton, including silence; `私が、どうにか解決` is a promise, not completed solution. `scene:003:u:0016` is title card.
+
+## V003 C001 E013 delta — diagnostic language, mission reward and label conflicts
+
+- Hifumi `闇雲に勉強` contrasts undirected work with first finding `何ができて何ができない`. Her `本番と一緒` refers to the mock's 60-minute/100-point/60-point format, not demonstrated equivalence of item difficulty. `第1次補習授業部模試` is a mock, not the official `第2次特別学力試験`. Narrator scores 4/33/15/68 are secure; cross-test gain/loss is not.
+- Azusa's `可愛い`/`ふわふわ` surprise and `任務を果たして` bridge aesthetic delight and her established mission register. Hifumi's `ペロロ様` honorific defends the toy as a bird. Mr. Nikolai's `善悪の彼方` is Hifumi's in-world gift description. Koharu's reward rejection and shower `脱がさないで`/`シャンプーが目に` remain their immediate speech acts; Hanako's `裸の付き合い` does not annul protest.
+- Scene 2 `u:0003-0009`, `u:0053-0054`, `u:0091-0093`, `u:0105-0107` and `u:0110` have role/first-person conflicts. Do not canonize the printed label as secure voice where it contradicts self-address and turn-taking. Scene 2 `u:0001` absent, five Sensei choices singleton, `u:0114` title card. Parenthesized `choice:003`/`u:0061` do not become public instructional speech.

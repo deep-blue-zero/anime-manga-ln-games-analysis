@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E012 active provisional; E013 unopened
+current_sequential_boundary: MAIN_V003_C001_E013 active provisional; E014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1674,3 +1674,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. B
 - **Other families:** no direct global test.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hifumi's earlier information actions, suspect identity, teaching and protection results remain OPEN.
+
+## V003 C001 E013 claim delta — diagnostic activity is not official rescue
+
+- **BA-C001/C016 — STRENGTHEN locally, QUALIFY outcome:** Hifumi initiates a concrete diagnostic routine and Sensei assists/credits her. The practice paper supplies no controlled evidence of learning gains or fulfillment of Sensei's E012 protective promise.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE/COMPLICATE:** a sincere support practice occurs inside Nagisa's professedly punitive structure. Its four mock scores and local “pass” do not constitute the official second sitting, validate the bypass, identify a saboteur or reverse the threatened fallback.
+- **BA-C008 — STRENGTHEN:** narrator-confirmed 4/33/15/68 scores, Hifumi's partial prior-year-paper preparation and proposed future mocks carry distinct evidential weights. Numerous inverted speaker labels and five singleton Sensei choices cannot be normalized into secure individual utterances or branching proof.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; the reward/shared-interest interaction invites only a bounded comparison question.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; actual official second result, Hanako score cause, study response and Nagisa remedy remain OPEN.

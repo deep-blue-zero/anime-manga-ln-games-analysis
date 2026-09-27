@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -864,3 +864,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Cleaning/eating versus suspect sorting:** Hifumi cites the shared first day against Nagisa's command to collect peer information. The E011 ordinary-care acts gain explicit ethical weight without proving no traitor exists.
 - **Lid and burden:** Nagisa's recollected “Schale lid” reduces Sensei's presence to containment; Sensei's reply instead tries to free Hifumi from informer duty. The counterimage is a proposed responsibility shift, not a realized escape from institutional power.
 - **Night watch versus sleep:** Azusa recodes discomfort in an unfamiliar place as a guard role and extreme endurance claim; Hanako's concern asks for rest. There is no observed attack or verified five-day capacity.
+
+## V003 C001 E013 motif / callback delta — measurement and play as care
+
+- **Threatened exam versus diagnostic mock:** Hifumi converts the exam format into an instrument for locating gaps, with a self-made paper from partial earlier material. Both tests still show only her passing; distinct papers prevent an improvement plot from numerical increments alone.
+- **Private burden into public work:** following E012's refusal to inform on classmates, Hifumi visibly organizes non-suspicious peer study. The juxtaposition supports a local alternative action, not causal proof that Sensei's reassurance solved the threat.
+- **Peroro as bridge:** Hifumi's beloved mascot surprises Azusa into direct delight while Koharu rejects it and Hanako teases. Shared taste creates a bounded contact point, not automatic friendship or academic success. The in-world philosophy-book reward need not be mapped to an external author.
