@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -965,3 +965,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **ATSUKO ↔ HIYORI/SAORI:** Hiyori mediates silent Atsuko's apparent view that Sensei disrupted plan and Azusa mattered; exact sign content and unnamed forecast source remain uncertain.
 - **SEIA ↔ SENSEI:** Seia introduces herself in an expressly uncertain dream and says time is twisted; no verified waking meeting, physical location or causality.
 - **HINA ↔ HIYORI/MISAKI:** Hiyori intercepts again, Misaki calls Hina fallen, but Hina acts thereafter. No permanent defeat or reconciled force relation.
+
+## V003 C003 E010 relationship delta — coerced belonging and reciprocal suspicion
+
+- **SAORI ↔ AZUSA:** Saori wins an initial frontal exchange, then alternates tactical correction, exclusive-home claim and halo-destruction challenge. Azusa asks purpose, infers force motive while Saori asks whether she will flee; no exit, reconciliation or final duel is shown.
+- **SAORI ↔ SENSEI:** Saori calls Sensei a lying adult and believes they were disposed of. E009 Sena's immediate treatment remains the last medical observation, not displaced by her claim.
+- **SEIA ↔ SENSEI:** in dream framing Seia explains promise mechanics while admitting observation through Sensei's dream, not prior omniscience; no physical meeting.
+- **ATSUKO ↔ SAORI/AZUSA:** Atsuko gestures a possible intervention, Saori tells “Princess” not now; tag inversion and no sign transcription keep the proposal uncertain.
+- **TRINITY RESERVES ↔ GEHENNA RESERVES/AKO:** each blames the other for Arius violence; Ako simultaneously orders casualty rescue and urgent Hina search despite her wound. No school-to-school perpetrator finding.

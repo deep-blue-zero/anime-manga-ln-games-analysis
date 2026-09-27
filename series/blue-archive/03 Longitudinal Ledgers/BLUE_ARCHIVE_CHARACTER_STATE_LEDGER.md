@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,17 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E010 character-state delta — explanation, pressure and blame
+
+- **Seia:** dream-frame exposition about binding promises, First Council re-enactment, mimesis and Gematria; expressly says she learned via Sensei's dream, not prior full foresight. Her immortal-army/Gematria explanation remains situated testimony. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** Saori describes cruise-missile strike and alleged treaty alteration, presses Azusa with exclusive-home rhetoric, then plans underground Trinity attack. Misaki supplies a claimed clause/old faction right and estimates reserves; Hiyori calls covenant genuine. All `UNMODELED`; no inspected document or mechanism.
+- **Azusa:** loses initial frontal exchange, asks purpose, infers mimesis force motive and may be trying to flee after Saori notices a plush; neither exit nor tactic is shown. Formal Trinity student status not revoked. `UNMODELED`.
+- **Atsuko:** gestures but `u:0065` Atsuko-tagged self-address is a label fault; precise proposal untranscribed. `UNMODELED`.
+- **Ako:** injured, orders victim rescue and searches for Hina while blaming Trinity; no direct evidence Trinity attacked. `PARTIAL_MODEL`.
+- **Sensei/Hina:** Sensei absent from waking action, appears only in Seia's dream address and Saori's mistaken “disposed of” assertion. Hina absent from reserve frame; her E009 rescue is not negated by Misaki's Hina-less force appraisal. Both `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 55 `UNMODELED` across 76**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E009 character-state delta — claimed ETO seizure and wounded adult
 

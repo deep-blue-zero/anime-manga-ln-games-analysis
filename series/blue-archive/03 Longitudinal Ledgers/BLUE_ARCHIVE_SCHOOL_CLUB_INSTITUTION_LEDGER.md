@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -811,3 +811,7 @@ An Arius student says treaty signing has been made, but no signature, document o
 ## V003 C003 E009 institutional delta — Arius's claimed ETO takeover
 
 Saori directly says Arius signed Eden **in Trinity's place** at the old cathedral and Squad therefore became ETO. This advances E008's anonymous Arius claim to identified leadership testimony, while no signed document, ceremony, substitute authority or neutral ratification appears. Saori claims historical right as First Council enforcers and that Trinity classified/oppressed Arius as a conflict source; these are her partisan historical allegations. She now declares Gehenna/Trinity suppression targets for literal removal, explicit attack policy but no lawful ETO mandate or achieved extermination. Hina is locally declared down then rallies; Sena's emergency vehicle reaches Sensei, confirms gunshot with non-vital trajectory but dangerous bleeding, and begins first aid. Misaki reports escape, destination and full medical outcome unshown. No proof absent Trinity/Gehenna leaders are dead. Azusa's formally recognized Trinity status from E002 is not voided by Saori's “no home” pronouncement. Seia's final appearance is dream-framed, not institutional reappearance.
+
+## V003 C003 E010 institutional delta — alleged treaty insertion and reserve escalation
+
+Seia, in a dream frame, argues venue/representative qualification made a distorted First Council re-enactment and claims a special mimesis of covenant guardians; she says she learned via Sensei's dream and did not foresee all details. Saori says Arius stole Eden by missile strike and bent treaty text, while Misaki orally quotes an apparent ETO intervention clause plus added designation of Arius Squad. Their Arius-faction qualification and old-enforcer right remain partisan constitutional claims, not inspected charter/signature. Hiyori calls the precept genuine; no technical audit. Saori claims mimesis force secured, plans underground Trinity rear attack and awaits Maestro's promised tactical weapon, not yet acquired. Trinity reserves blame Gehenna for Arius missile/backstab; injured Ako blames Trinity for Hina and directs rescue/search. These reciprocal attributions are not evidence either school caused the blast, but they show dangerous mobilization. No completed district penetration, delivered weapon, verified legal ETO or treaty document.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1118,3 +1118,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Home denied versus home made:** Saori says Azusa has no place at Trinity/Schale, contradicting Sakurako's formal student recognition and Hifumi's durable gift/care without resolving Azusa's trauma.
 - **Hina falls and rises:** a local “finally down” report is undone by her renewed rescue move, preserving injury rather than heroic invincibility.
 - **Dream after bleeding:** Seia's uncertain dream encounter follows Sensei's clouding consciousness; interpretive access expands in a framed space without establishing objective future knowledge.
+
+## V003 C003 E010 motif / callback delta — sweet lie, bitter manufacture
+
+- **Promise as weapon:** Seia's old-story contract examples and Saori/Misaki's purported ETO clause make the same “binding word” motif ethical and predatory; no reviewed treaty text resolves it.
+- **Paradise misnamed:** Arius says the Eden covenant legitimizes suppression, while Seia calls the apparent council a distorted re-enactment; legal/sacred language conceals fabricated outcome.
+- **Sweet lie versus durable gift:** Saori names Azusa's Trinity belonging a `甘い嘘` just as she notices the first-friend plush; her exclusivity rhetoric does not erase official status or prior care.
+- **Misinformation as second explosion:** Trinity and Gehenna reserves blame each other for the Arius strike, risking the conflict the treaty was meant to forestall.
+- **Personal revenge widens war:** Saori's plan to erase even trees where Azusa lived turns abstract inherited grievance into direct punishment of a defector's home.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1364,3 +1364,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Misaki `倒れた` is local collapse report; Hina subsequently moves, so not death/permanent defeat. Saori `銃弾は当たっている` is cross-supported by Sena `銃で撃たれました` and serious `出血`, while Saori `死ぬはず` is a forecast contradicted as immediate certainty by Sena's non-vital path/first-aid scene.
 - Hiyori quotes apparent Atsuko meaning at `u:0039`, but Atsuko is silent; no direct-sign transcription. Saori's `人殺し`/`居場所は無い` is coercive alienation toward Azusa, not status registrar language.
 - Seia `君の夢の中…私の夢の中かもしれない` and `時間の流れ…捻じれて` are explicit uncertainty/self-report, not verified dream-sharing or physical waking. Six Sensei choice groups, all singleton; `u:0071` is E010 title only.
+
+## V003 C003 E010 delta — alleged clause, dream observation and labels
+
+- Seia's promise/contract `読み取れないかい` is an interpretive analogy. Her Abydos/Gematria memory and scriptures are reported grounds, not fresh primary inspection. `事前に全て知っていたわけではない` and `君の夢を通じて、観測` expressly limit prophetic prior knowledge.
+- Misaki's apparent quotation of treaty clauses at `u:0054-0055` is a participant's oral account; no physical text appears. Her `まだ形式としては、権限` is partisan faction-right reasoning. Saori `ねじ曲げた` admits manipulation; Hiyori `戒律は本物` is her assertion.
+- `u:0030` Misaki tag has Hiyori-like hesitant voice; `u:0065` Atsuko tag addresses “Atsuko,” a clear inversion. Atsuko's `u:0064` gesture remains undecoded. Saori `先生も既に片付けた` is belief/boast, not E009 medical outcome.
+- Saori `甘い嘘` and `居場所` are coercive relational claims. Her `ヘイローを破壊してみろ`/`限り` assert a lethal necessity theory, not tested law. `ぬいぐるみ？` and `また逃げる気か` suggest flight, not a completed escape or specified trick.
+- Trinity reserve claims Gehenna missile/backstab, while Ako claims Trinity harmed Hina; neither is direct observation of perpetrator. Misaki `戦術兵器` is a still-promised future delivery. No Sensei choices; `u:0118` is E011 title only.

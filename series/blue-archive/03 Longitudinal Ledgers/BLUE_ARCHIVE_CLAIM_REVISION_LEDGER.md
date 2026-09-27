@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E009 active provisional; E010 unopened
+current_sequential_boundary: MAIN_V003_C003_E010 active provisional; E011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1982,3 +1982,12 @@ No new durable claim ID, model, frozen prediction or side-source admission. Maes
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E010 unopened.
+
+## V003 C003 E010 claim delta — alleged clause and manufactured school conflict
+
+- **BA-C001/C016 — QUALIFY:** Seia's outside-adult contract analogy and Saori's “bad adult” accusation are interpretive positions, not proof Sensei knew the trap or that student friendship was false. Sena's E009 care is not superseded by Saori's death belief.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Saori/Misaki describe missile and a purported added clause assigning ETO to Arius Squad, the strongest in-story account yet but still oral participant testimony without inspected instrument/authority. Seia supplies dream-observed covenant/mimesis theory and disavows prior complete knowledge. Both schools' reserves wrongly blame the other for Arius attack, an observed escalation pathway, while Saori plans future underground attack and awaits Maestro's tactical weapon. No conquest/weapon delivery or final signature audit.
+- **BA-C008 — STRENGTHEN:** Seia's dream explanation, Misaki's constitutional rationale, quoted-but-uninspected treaty wording, Hiyori's “real covenant” claim, Saori's halo necessity theory, Atsuko tag inversion, school accusations and future plans require distinct warrants.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E011 unopened.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -901,3 +901,7 @@ Sensei asks what will happen to Hasumi/Tsurugi/Hinata, protests their rear-guard
 ## V003 C003 E009 delta — wounded teacher and emergency dependence
 
 Sensei is confronted by Saori's Squad, asks about identity/claimed ETO takeover and sees a gun muzzle. After Hina calls Sena, Saori says her bullet hit; Sena directly confirms gunshot, non-vital path and dangerous bleeding and begins first aid. Sensei feels abdominal heat and clouding consciousness. Saori expects a non-Kivotos outsider to die, but that is attacker prediction, not medical outcome. Hina/Sena enable immediate escape; no completed recovery or adult counterattack. Seia then appears in a dream-uncertain frame, not direct physical contact or verified prophetic instruction. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E010 delta — absent body, contested adult example
+
+Sensei has no waking direct act or choice in E010. Dream-framed Seia uses Sensei's Abydos experience as a contract-boundary analogy, then says she observed present mechanics through Sensei's dream rather than advance omniscience. Saori calls Sensei a manipulative adult who fed Azusa sweet lies and says they have been disposed of; those are adversarial beliefs, not a verified betrayal or death. E009's last grounded body state is Sena's first aid for serious non-vital gunshot. Adult care is contested rhetorically, not adjudicated by Saori's speech. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
