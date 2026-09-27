@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V032
+inspected_through_volume: V033
 row_count: 146
-state: CURRENT_THROUGH_V032
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -188,3 +188,7 @@ state: CURRENT_THROUGH_V032
 | RAG-CHR-144 | RAG-E-V032-001 through RAG-E-V032-004 | Mini answers Chizuru's question; subsequently a moving truck clears family property, Kazuya helps store boxes, and an accidental confined encounter ends without a kiss. | The testimony precedes the removal and storeroom event. | Exact dates and the neighbor's understanding are unstated. |
 | RAG-CHR-145 | RAG-E-V032-005 through RAG-E-V032-009 | The three residents shop for replacement goods, eat together, and Kazuya privately reassesses his idealized view of Chizuru. | Practical preparation and his interior conclusion follow the storeroom event. | His conclusion is not spoken to Chizuru in this passage. |
 | RAG-CHR-146 | RAG-E-V032-010 through RAG-E-V032-012 | Back at the house, they deal with a spider; later Chizuru invites Kazuya to a night convenience-store errand, before a separate cafe cut opens. | The late errand precedes the cafe cut in story presentation. | The cafe's exact date relative to the walk is not yet fixed. |
+| RAG-CHR-147 | RAG-E-V033-001 through RAG-E-V033-004 | Kazuya wakes from a confession dream; Mini's belated April 8 birthday celebration becomes a Twister game and ends with a three-person photograph. | Dream, birthday report, game, and photo appear in this order. | The precise day of the game and date of the dream are not given. |
+| RAG-CHR-148 | RAG-E-V033-005 through RAG-E-V033-008 | Umi arrives at Sayuri's house, offers incense, then speaks with Chizuru outside and renews his confession; she begins to respond and apologizes before he says he does not want to hear her answer yet. | The house visit and street conversation are continuous. | The full prior cafe talk, her intended answer, and exact elapsed interval are omitted. |
+| RAG-CHR-149 | RAG-E-V033-009 through RAG-E-V033-011 | After Umi leaves, Kazuya and Mini process what they overheard; later Chizuru borrows a book and asks Kazuya on a date. | His shock precedes her direct invitation. | Neither event reveals her final inquiry result. |
+| RAG-CHR-150 | RAG-E-V033-011, RAG-E-V033-012 | The pair begin discussing their proposed date before a family call recalls Kazuya's prior childcare commitment. | Destination talk precedes the interruption and volume cut. | The date and volunteer commitment have not yet been shown occurring. |

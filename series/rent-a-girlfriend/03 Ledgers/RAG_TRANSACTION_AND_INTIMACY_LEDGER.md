@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V032
+inspected_through_volume: V033
 row_count: 164
-state: CURRENT_THROUGH_V032
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -206,3 +206,7 @@ state: CURRENT_THROUGH_V032
 | RAG-TXN-162 | Storeroom proximity during box moving | Chizuru grants task-specific room access; a neighbor and falling boxes leave Kazuya above her. | She permits him to stay still briefly until they can separate safely. | Situational permission does not authorize a kiss or wider bodily access. | They blush and separate without a kiss; RAG-E-V032-002 through RAG-E-V032-004. |
 | RAG-TXN-163 | Replacement shopping and meal | Chizuru invites two housemates to compare appliances and eat during the family-house transition. | She directs her budget and preferences, and each participant can accept or decline ordinary company. | Domestic resemblance and Kazuya's appreciation do not constitute a permanent shared household. | Practical unpriced outing occurs with no changed status; RAG-E-V032-005 through RAG-E-V032-009. |
 | RAG-TXN-164 | Spider help, night errand, and birthday coupon | Chizuru requests a small task and later Kazuya's company, without presenting the accepted token. | Requests are local and negotiated through ordinary speech. | The coupon is not silently redeemed or converted into intimate obligation. | Help and shared drink occur; coupon remains unused; RAG-E-V032-010, RAG-E-V032-011. |
+| RAG-TXN-165 | Twister as Mini's belated birthday game | Three housemates agree to play a physical game; Mini advertises a romance-rehearsal theory. | Chizuru may adjust clothing, pause, and stop; Kazuya must honor local contact limits. | Game rules do not grant sexual access or make Mini an authority over the inquiry. | Proximity ends with no kiss and a group photo; RAG-E-V033-002 through RAG-E-V033-004. |
+| RAG-TXN-166 | Umi's family-altar access | Chizuru lets an acting friend and suitor offer incense for Sayuri. | She controls entry and may see him off; he may express grief and ask to speak. | House access and bereavement respect do not purchase a romantic answer. | The altar visit is real, followed by a separate confession outside; RAG-E-V033-005 through RAG-E-V033-008. |
+| RAG-TXN-167 | Umi's renewed confession | Umi says he likes Chizuru and says an immediate answer is not required. | Chizuru may answer or refuse; Umi chooses not to hear her answer after she starts to respond. | Prior closeness, friendship, and waiting create no claim to a favorable answer. | Her intended answer remains unspoken; RAG-E-V033-007, RAG-E-V033-008. |
+| RAG-TXN-168 | Chizuru's proposed date with Kazuya | She asks for chosen, unpriced two-person time and explicitly calls it a date. | Both may plan, adjust for existing commitments, or later decline; no rental booking or coupon redemption is shown. | The invitation does not erase Ruka, the family lie, or Chizuru's right to decide her feeling. | They start choosing a place before an unrelated family call interrupts; RAG-E-V033-010 through RAG-E-V033-012. |

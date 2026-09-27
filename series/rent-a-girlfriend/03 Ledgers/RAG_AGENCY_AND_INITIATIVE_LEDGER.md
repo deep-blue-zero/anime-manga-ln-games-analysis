@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V032
+inspected_through_volume: V033
 row_count: 208
-state: CURRENT_THROUGH_V032
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -250,3 +250,8 @@ state: CURRENT_THROUGH_V032
 | RAG-AGY-206 | Mini | Answer Chizuru's character question or impose a final romance label. | Gives favorable testimony, later relays the exchange to Kazuya, and joins a practical shopping trip. | Her advocacy becomes an information source and household help. | Her evaluation cannot decide Chizuru's private feeling; RAG-E-V032-001, RAG-E-V032-005 through RAG-E-V032-008. |
 | RAG-AGY-207 | Chizuru | Preserve family possessions alone or accept bounded help and practical company. | Asks Kazuya to move boxes, decides on replacement shopping with both housemates, then requests spider help and a night errand. | Controls access, budget, and specific requests during ordinary contact. | These decisions do not extend the residence or classify her feeling; RAG-E-V032-002, RAG-E-V032-005 through RAG-E-V032-011. |
 | RAG-AGY-208 | Kazuya | Exploit close contact or stay within a local limit; idealize or revise his view. | Keeps still when asked in the storeroom, helps with tasks, and privately recognizes that his former idealization missed Chizuru's ordinary self. | Restraint and interpretive correction coexist with intense desire. | His internal love statement is not audible to Chizuru or a mutual agreement; RAG-E-V032-003, RAG-E-V032-009, RAG-E-V032-010. |
+| RAG-AGY-209 | Mini | Celebrate her birthday ordinarily or stage proximity as a test. | Proposes Twister, directs play, and asks for a three-person photograph. | Creates group recreation but pressures a romantic reading. | Game participation does not validate her diagnosis or authorize contact beyond its local terms; RAG-E-V033-002 through RAG-E-V033-004. |
+| RAG-AGY-210 | Chizuru | Accept or refuse the game and regulate her comfort. | Elects to play, changes into shorts, names awkward closeness, ends the session, and joins a photo. | Her choices, not Mini's theory, set the game boundary. | No intimate permission or final feeling classification is granted; RAG-E-V033-002 through RAG-E-V033-004. |
+| RAG-AGY-211 | Umi | Keep romantic interest implicit or speak directly. | Visits Sayuri's altar and renews his confession outside; when Chizuru begins to respond, he says he does not want to hear her answer yet. | Makes his proposal explicit and chooses to postpone hearing a potentially unfavorable answer. | His choice does not establish her intended reply or authority over her decision; RAG-E-V033-006 through RAG-E-V033-008. |
+| RAG-AGY-212 | Chizuru | Respond to Umi and choose how to approach Kazuya. | Begins to respond to Umi and apologizes before he interrupts; later asks Kazuya on a date. | Initiates a distinct voluntary access route with Kazuya. | The date invitation does not retroactively answer Umi or settle her private classification; RAG-E-V033-008, RAG-E-V033-010, RAG-E-V033-011. |
+| RAG-AGY-213 | Kazuya | Confront Chizuru about overheard speech or manage his own uncertainty. | Panics, listens to Mini, does not disclose the overhearing, and accepts Chizuru's date proposal while beginning to plan. | His agency remains mixed: he can accept direct initiative but has not resolved the information asymmetry. | His inner certainty is not Chizuru's commitment; RAG-E-V033-009 through RAG-E-V033-012. |

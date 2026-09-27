@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; character evidence inspected through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; character evidence inspected through V033."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V032
+inspected_through_volume: V033
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -194,6 +194,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E152 | CHI-S034 | RAG-E-V032-001 through RAG-E-V032-004 | Third-party testimony and bounded moving access | Receives Mini's view of Kazuya, requests moving help, gives task-bound access to her old room, and tells Kazuya to stay still briefly during an accidental storeroom trap. | Her inquiry and practical authority can coexist with embarrassed proximity. | No kiss or general bodily permission follows; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E153 | CHI-S034 | RAG-E-V032-005 through RAG-E-V032-008 | Household purchasing and public ordinary company | Invites both housemates shopping, weighs television size and price, selects mundane preferences, and proposes a meal. | Extends chosen ordinary access while retaining spending and setting choices. | A date-like label from Mini and Kazuya's gaze are not her romantic classification; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E154 | CHI-S034 | RAG-E-V032-010 through RAG-E-V032-012 | Task request, night initiative, and separate cafe contact | Asks for spider help, later invites Kazuya to a convenience store and shares a family drink memory; the story cuts to her at a cafe with a pale-haired companion. | Displays locally chosen company in more than one setting. | The coupon stays unused; companion identity and the meeting's meaning are not established; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E155 | CHI-S035 | RAG-E-V033-002 through RAG-E-V033-004 | Group game and local boundary | Accepts Mini's belated-birthday Twister game, changes into shorts, names awkward closeness, ends play, and joins a photograph. | Can participate while actively regulating comfort and contact. | Mini's rehearsal theory and physical proximity do not establish her romantic verdict; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E156 | CHI-S035 | RAG-E-V033-005 through RAG-E-V033-008 | Umi's visit and interrupted response | Recognizes Umi, admits a missed reply, permits incense at Sayuri's altar, begins to respond to his renewed confession, and apologizes before he says he does not want to hear her answer yet. | Allows bereavement access and attempts speech in a separate suitor's proposal. | Umi, not Chizuru, postpones hearing the answer; its content is unknown, and Kazuya's hidden listening is not shown known to her; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E157 | CHI-S035 | RAG-E-V033-010 through RAG-E-V033-012 | Named date initiative | Asks Kazuya to go out, explicitly calls it a date, says she wants to go together, and begins planning while respecting his prior commitment. | Moves beyond incidental errands to a chosen two-person prospective setting. | Date is not enacted, and her final feeling, motive, and public status remain open; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 
 ## State-change summary
 

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V032
+inspected_through_volume: V033
 row_count: 180
-state: CURRENT_THROUGH_V032
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -222,3 +222,7 @@ state: CURRENT_THROUGH_V032
 | RAG-FRM-178 | Shop-floor scale, television prices, massage-chair poses, and a meal alternate domestic decisions with Kazuya's erotic gaze. | Ordinary preferences become visible in a public three-person setting. | Chizuru's speech and budgeting anchor action more securely than reaction panels. | Visual couple resemblance does not certify status; RAG-E-V032-005 through RAG-E-V032-009. |
 | RAG-FRM-179 | The page-sized image of Kazuya accompanies an unballooned internal love statement, followed by memory panels of Chizuru's earlier words. | A visual climax occurs inside his interpretive viewpoint. | Past direct speech is replayed, while the current conclusion is his private thought. | Do not attribute the thought to Chizuru or claim she hears it; RAG-E-V032-009. |
 | RAG-FRM-180 | Night street and shared drink slow the pace after cramped domestic comedy; an abrupt cafe cut follows. | Quiet chosen company and a new conversation have different information scopes. | The cut opens a question rather than proving a link between them. | The pale-haired companion's identity and impact remain unresolved; RAG-E-V032-011, RAG-E-V032-012. |
+| RAG-FRM-181 | A confession dream opens into Kazuya's ordinary student day and a ticking household horizon. | Imagined certainty is immediately broken by waking and practical time. | The dream marks his desire, while May 13 is the real stated constraint. | Do not transfer dream speech to Chizuru; RAG-E-V033-001. |
+| RAG-FRM-182 | Twister's mat and bent poses echo prior cramped proximity, then a three-person photograph closes the scene. | The form tests discomfort and turns it into a group memento. | Spoken adjustments and the game stop determine the contact's scope. | An eroticized pose or photograph cannot establish intimacy or a couple; RAG-E-V033-002 through RAG-E-V033-004. |
+| RAG-FRM-183 | The altar interior gives way to a long street sight line, a parked-car hiding place, and silent reaction faces during Umi's confession. | The reader and eavesdroppers gain a speech event Chizuru does not know they heard. | Direct words identify Umi's interest; faces do not identify her private feeling. | Do not transform overhearing into a shared conversation or read a response from silence; RAG-E-V033-006 through RAG-E-V033-009. |
+| RAG-FRM-184 | Chizuru's explicit date word is enlarged through Kazuya's panicked focalization, then ordinary destination and phone-call panels resume. | Formal excitement marks the invitation's significance while postponing its execution. | Her actual invitation is direct, and his internal certainty is separate. | The volume ends before the date, regardless of the visual climax; RAG-E-V033-010 through RAG-E-V033-012. |

@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V032
+inspected_through_volume: V033
 row_count: 178
-state: CURRENT_THROUGH_V032
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -220,3 +220,7 @@ state: CURRENT_THROUGH_V032
 | RAG-REL-176 | Mini → Chizuru / Kazuya | Housemate testimony and relay | Mini answers Chizuru's character question and later tells Kazuya. | The inquiry now includes third-party testimony. | Her view is neither neutral omniscience nor Chizuru's conclusion; RAG-E-V032-001. |
 | RAG-REL-177 | Chizuru ↔ Kazuya / Mini | Temporary household, now with practical shopping | Chizuru requests moving help, invites both residents to replace goods, and eats with them. | Ordinary cooperation acquires material and financial detail. | May 13 still bounds Kazuya's stay; no mutual dating agreement; RAG-E-V032-002, RAG-E-V032-005 through RAG-E-V032-008. |
 | RAG-REL-178 | Chizuru ↔ Kazuya | Chosen night companionship within an unresolved inquiry | After a local spider-help request she invites him to a night errand and shares a small drink and family memory. | Direct, unpriced company expands beyond the three-person shopping trip. | Neither event redeems the coupon or declares romantic status; RAG-E-V032-010, RAG-E-V032-011. |
+| RAG-REL-179 | Mini ↔ Chizuru / Kazuya | Third housemate celebrating belated birthday | Stages Twister as a rehearsal theory; Chizuru accepts the game, changes clothes for comfort, ends it, and joins a group photo. | Household play gives the three a shared memory while the principals keep local bodily limits. | Mini's theory does not convert a game into a consent or romance test; RAG-E-V033-002 through RAG-E-V033-004. |
+| RAG-REL-180 | Umi → Chizuru | Acting friend and direct suitor | Visits Sayuri's altar, says he likes Chizuru, and postpones hearing her answer after an earlier confession. | Romantic interest is explicit; the prior V032 cafe companion is identified. | Bereavement respect and confession do not imply Chizuru's acceptance; RAG-E-V033-005 through RAG-E-V033-008. |
+| RAG-REL-181 | Chizuru → Umi | Recipient of renewed direct proposal | Begins to respond and apologizes before Umi says he does not want to hear an answer yet. | Her reply remains incomplete because he postpones hearing it. | Her intended answer is unshown; his delay is not her assent, rejection, or stated boundary; RAG-E-V033-008. |
+| RAG-REL-182 | Chizuru ↔ Kazuya | Temporary housemates with a newly proposed date | Chizuru invites him out, explicitly calls it a date, says she wants to go together, and begins discussing a destination. | Chosen unpriced access moves from incidental errands to a named prospective date. | The date has not occurred and the pair have not agreed they are boyfriend and girlfriend; RAG-E-V033-010 through RAG-E-V033-012. |

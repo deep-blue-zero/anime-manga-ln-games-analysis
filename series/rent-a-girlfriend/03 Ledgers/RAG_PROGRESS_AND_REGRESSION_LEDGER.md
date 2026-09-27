@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V032
+inspected_through_volume: V033
 row_count: 180
-state: CURRENT_THROUGH_V032
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -222,3 +222,7 @@ state: CURRENT_THROUGH_V032
 | RAG-PRG-178 | Investigation | THIRD_PARTY_TESTIMONY_WITH_UNRESOLVED_RESULT — Mini answers Chizuru's question about Kazuya. | Chizuru gathers another person's view instead of declaring an answer. | Mini's favorable report cannot identify Chizuru's own feeling. | RAG-E-V032-001 |
 | RAG-PRG-179 | Household and consent | PRACTICAL_CONTACT_WITH_LOCAL_LIMITS — moving help, shopping, a spider task, and chosen night company broaden ordinary access. | Continued cohabitation has material texture and voluntary initiative. | Storeroom proximity and shared drinks do not create sexual permission, dating status, or residence extension. | RAG-E-V032-002 through RAG-E-V032-011 |
 | RAG-PRG-180 | Interpretation and unresolved route | PRIVATE_REAPPRAISAL_AND_CAFE_CUT — Kazuya revises his idealized view internally; the final page opens a separate cafe conversation. | His appraisal improves while a new social contact may matter later. | His thought is unheard, and the cafe companion's identity and effect remain unknown. | RAG-E-V032-009, RAG-E-V032-012 |
+| RAG-PRG-181 | Consent and intervention | BOUNDED_PLAY_WITH_PRESSURE — Mini's Twister theory produces awkward movement, Chizuru's comfort adjustment, a stop, and a group photo. | The household can share play without treating it as a romantic verdict. | Forced proximity and an image do not supply wider permission or status. | RAG-E-V033-002 through RAG-E-V033-004 |
+| RAG-PRG-182 | Rival and information | EXPLICIT_PROPOSAL_WITH_INTERRUPTED_REPLY — Umi visits and renews his confession; Chizuru begins to respond, but he postpones hearing her answer. | Rival interest and Umi's chosen delay become explicit, with hidden listeners. | Chizuru's intended answer and the full prior cafe exchange remain omitted. | RAG-E-V033-005 through RAG-E-V033-009 |
+| RAG-PRG-183 | Investigation and access | CHOSEN_DATE_PROPOSAL — Chizuru directly invites Kazuya and names a date. | The inquiry gains a specific, unpriced two-person prospective setting. | No date outcome, final feeling classification, or truthful public status is established. | RAG-E-V033-010 through RAG-E-V033-012 |
+| RAG-PRG-184 | Household deadline | STATED_PRESSURE_WITH_UNCHANGED_TERM — Kazuya counts remaining residence time and fears the answer may not arrive before moving. | May 13 continues to shape his decisions. | V033 shows no amended residence term or completed exit. | RAG-E-V033-001, RAG-E-V033-009 |

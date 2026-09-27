@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V032
+inspected_through_volume: V033
 row_count: 186
-state: CURRENT_THROUGH_V032
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -228,3 +228,7 @@ state: CURRENT_THROUGH_V032
 | RAG-INF-184 | Mini answers Chizuru's character question and relays it to Kazuya. | Chizuru has testimony, while Kazuya knows only Mini's account of her response. | The information route is two-step and includes Mini's interpretation. | Kazuya cannot infer Chizuru's verdict from her question; RAG-E-V032-001. |
 | RAG-INF-185 | Kazuya recalls Chizuru's earlier first-person uncertainty and internally reaffirms affection during shopping. | Readers see his reconsideration; Chizuru hears no new declaration in this passage. | Focalization separates prior quoted speech from a fresh private thought. | Neither the recollection nor his thought supplies her present classification; RAG-E-V032-009. |
 | RAG-INF-186 | The closing cafe cut shows Chizuru and a pale-haired person discussing a belated White Day return. | The participants know the conversation; Kazuya's knowledge and the companion's identity are not established here. | A new information route opens without a supported consequence. | Do not assign the person a name or motive from this page alone; RAG-E-V032-012. |
+| RAG-INF-187 | V033 identifies the V032 cafe companion as Umi, who recognizes Kazuya at Sayuri's house. | Chizuru knows the cafe and message route; Kazuya learns Umi's presence from the visit, not the earlier cafe transcript. | A previously anonymous contact becomes a named acting-colleague route. | The cafe conversation's full contents and dates remain unshown; RAG-E-V032-012, RAG-E-V033-005, RAG-E-V033-006. |
+| RAG-INF-188 | Umi directly states that he likes Chizuru; she begins to respond and apologizes before he says he does not want to hear an answer yet; Kazuya and Mini overhear from concealment. | The speaker and recipient know the direct exchange, while the listeners receive it without disclosing their presence. | An explicit proposal and Umi's postponement enter the two housemates' information states. | Chizuru is not shown knowing they heard; neither listener learns her intended reply; RAG-E-V033-006 through RAG-E-V033-009. |
+| RAG-INF-189 | Mini interprets Umi's proposal as a threat and urges Kazuya to act while he replays earlier rival moments. | Their discussion occurs apart from Chizuru, who has not supplied them an answer about Umi or Kazuya. | A new fact is amplified by competing interpretation. | Mini's confidence and Kazuya's fear are not Chizuru's self-report; RAG-E-V033-009. |
+| RAG-INF-190 | Chizuru tells Kazuya she wants a date; he has not told her that he overheard Umi. | They share the prospective invitation and destination discussion but not the street-listening fact. | Direct access grows alongside a residual private information asymmetry. | An invitation is not a completed date or full truth correction; RAG-E-V033-010 through RAG-E-V033-012. |

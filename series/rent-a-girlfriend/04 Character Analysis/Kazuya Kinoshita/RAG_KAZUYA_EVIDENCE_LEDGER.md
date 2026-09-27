@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; character evidence inspected through V032."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; character evidence inspected through V033."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V032
+inspected_through_volume: V033
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -198,6 +198,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E158 | KAZ-S034 | RAG-E-V032-001 through RAG-E-V032-004 | Testimony reception, moving labor, and confined proximity | Hears Mini's report, helps remove family items, and keeps still when Chizuru asks during an accidental storeroom trap. | Can perform a practical task and obey a local bodily limit despite heightened desire. | His delight at Mini's report and the blushes do not establish her answer; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R024. |
 | RAG-KAZ-E159 | KAZ-S034 | RAG-E-V032-005 through RAG-E-V032-009 | Ordinary shopping and private appraisal revision | Joins a three-person goods trip, notices Chizuru's budgeting and everyday ease, recalls her earlier uncertainty, and internally reaffirms liking her. | Replaces part of an idealized image with attention to her observable ordinary conduct. | The large declaration is unballooned private thought, not speech she hears; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R024. |
 | RAG-KAZ-E160 | KAZ-S034 | RAG-E-V032-010, RAG-E-V032-011 | Small help and initiated night company | Helps remove a spider, accepts Chizuru's convenience-store invitation, and shares a drink and family-memory conversation. | Sustains low-stakes, unpriced contact while the move clock remains. | The coupon is not invoked and his pleasure does not imply a mutual dating decision; RAG-KAZ-R005, RAG-KAZ-R015, RAG-KAZ-R024. |
+| RAG-KAZ-E161 | KAZ-S035 | RAG-E-V033-001 through RAG-E-V033-004 | Dream, game, and consent anxiety | Wakes from a fantasy confession, worries over the May 13 clock, accepts Mini's Twister game, and struggles not to overread physical contact. | Can remain within a game despite strong desire and uncertainty. | Dream and poses are not Chizuru's answer or sexual permission; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R024. |
+| RAG-KAZ-E162 | KAZ-S035 | RAG-E-V033-005 through RAG-E-V033-009 | Overheard rival confession | Hears Umi say he likes Chizuru and then postpone hearing her interrupted reply; spirals over comparative worth. | A real rival speech intensifies an established anxious forecast pattern. | His fear does not report her intended answer; hidden listening is not direct disclosure; RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E163 | KAZ-S035 | RAG-E-V033-010 through RAG-E-V033-012 | Receiving a chosen date proposal | Almost raises the overheard exchange, accepts Chizuru's invitation, searches for a destination, and takes a family call about a prior commitment. | Can act on her explicit initiative while practical obligations re-enter the plan. | The date has not occurred and his enthusiasm does not make them an agreed couple; RAG-KAZ-R005, RAG-KAZ-R024. |
 
 ## State-change summary
 
