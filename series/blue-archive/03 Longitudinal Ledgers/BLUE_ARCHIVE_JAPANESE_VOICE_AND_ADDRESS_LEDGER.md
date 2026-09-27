@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1729,3 +1729,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 
 - The italicized crisis passage from `scene:002:u:0021-0052` retains speaker labels and continuous park context; typography alone does not license a dream reading. Saki's `装備だけの話じゃない` moves from material loss to SRT's mission; Miyako's `諦められない` is her own voiced resolve, not a squad consensus.
 - Sensei's singleton `choice:003` (`何かを望んでるわけじゃないよ`) and `choice:004` (`私は先生だから`) are sequentially printed, not paired variants. Saki's `シャベルの使い方が下手` limits competence, while Miyako's `助けられてしまったのは事実` acknowledges help without declaring trust. No performed voice admitted.
+
+## V004 C001 E012 voice delta — civic formality and elliptic threat
+
+- Rin's `行政委員会から、強い反発` is forecast, not quoted committee minutes; `沈黙は正解` interprets Sensei's non-answer. The title `雨に濡れた請求書` must not be promoted into an itemized bill when the text identifies a `設備補修の提案書`.
+- Kaya's gracious tea/`学籍データ` language to Sensei differs from `SRTみたいになってしまった` pressure on Kanna. `三本の矢` and `利害関係が合う人たち` stop before naming collaborators; do not supply names.
+- The late italic `？？？` speaks to Kaya and is called `最高のパートナー` / `専門家`; the source gives no name. Sensei's `scene:002:choice:001` contains paired apology/gratitude alternatives, not both uttered. No performed voice admitted.

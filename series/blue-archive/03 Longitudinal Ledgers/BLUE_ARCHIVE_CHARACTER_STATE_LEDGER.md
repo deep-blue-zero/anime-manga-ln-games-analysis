@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1698,3 +1698,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Saki / Moe / Miyu:** confront shelter failure and reported equipment loss. Saki doubts scavenging preserves SRT's mission, Moe rejects prolonged camp hardship, and Miyu asks Miyako to stop; after Sensei starts drainage work, Saki and Miyu join. This is disagreement plus local labor, not a settled vote to dissolve RABBIT.
 - **Miyako:** persists at the blocked drain and her SRT ideal even while privately doubting efficacy and losing hand sensation; accepts Sensei's manual assistance, reports partial park preservation and thanks them without agreeing to leave.
 - **Sensei:** checks the camp, handles a shovel poorly, helps clear the drain with students, returns wet and catches a cold by narration. The illness's course remains unknown.
+
+## V004 C001 E012 character-state delta — institutional refusals and double address
+
+- **Sensei:** seeks flood-damage park repairs through Rin, other council members and Kaya. Most contacted members refuse by narration; no allocation or repair follows. The Kaya response is paired apology/gratitude, then a printed nod to enjoyment with RABBIT.
+- **Rin:** distinguishes a public park repair from federal support for armed SRT campers, reports planned park removal and forecasts committee opposition; she refuses persuasion. Her reasoning is direct speech, not an inspected vote or demolition order.
+- **Kaya:** declines direct/park-nominal aid and says she can maintain student records. She later pressures Kanna on redevelopment, suggests aligned-interest partners and discloses she expected Sensei/RABBIT to hurt each other and separate. This is a material split between cordial public address and separate strategic expectation, without proving sabotage.
+- **Kanna / unnamed partner:** Kanna reports demolition delays due to armed rough sleepers and RABBIT's presence, then receives a coalition hint; exact armed group and coalition are unverified. Kaya's unnamed “expert” wants closer observation; identity and expertise remain open.

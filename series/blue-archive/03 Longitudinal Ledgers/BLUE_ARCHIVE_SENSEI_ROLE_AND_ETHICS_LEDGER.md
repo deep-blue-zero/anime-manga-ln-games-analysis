@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1125,3 +1125,7 @@ Sensei is Decartes's hostage and explicitly distinguishes RABBIT students from s
 ## V004 C001 E011 delta — labor instead of leverage
 
 Sensei internally chooses to check RABBIT in heavy rain, arrives as Miyako struggles at the blocked drain and begins shoveling without asking for a transfer concession (`scene:001:u:0002-0009;scene:002:u:0053-0064`). They need Saki's more competent handling, and the team jointly works; Miyako reports the park avoids complete inundation but most gear is lost. Sensei states no return is sought and `私は先生だから` in sequential singleton choices (`choice:003-004`), and Miyako thanks them while maintaining earlier limits. Narration then confirms Sensei catches a cold (`u:0080-0081`). Help is observable and costly, yet not a complete flood causal audit or blanket correction of E008's privacy breach. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E012 unopened.
+
+## V004 C001 E012 delta — proposal without institutional leverage
+
+Sensei brings a flood-damage park-repair proposal to Rin, then appeals to other council members and Kaya (`scene:001:u:0002-0021;scene:002:u:0002-0015`). Rin and Kaya refuse for stated institutional reasons, and narration confirms most others rebuff the request. No funding, repair or unilateral order follows. Sensei's silence lets Rin infer the proposal is for RABBIT; Kaya's paired response choices are alternatives, followed by a nod to enjoyment with the squad. Kaya's later expectation of Sensei/RABBIT estrangement is a counterweight to interpreting her public encouragement as sincere support, but cannot be assigned causal responsibility for prior dangers. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E013 unopened.

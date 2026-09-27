@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1035,3 +1035,7 @@ Decartes names a non-possession group, claims RABBIT has depleted its discarded 
 ## V004 C001 E011 institutional delta — storm pressure on an informal camp
 
 The park shelter fails under widespread heavy rain; spare sheeting runs out, and Saki/Moe report ruined ammunition and communications gear. Miyako warns a blocked drain threatens wider flooding, and narration confirms a joint clearing effort; she later reports no complete park inundation but most equipment lost. No disaster-office response, insurance/supply claim or complete material inventory appears. The squad's disagreement over whether park scavenging can preserve SRT's name is internal, not an official closure or reinstatement. Arona's trust in local councils is hope, not inspected response evidence.
+
+## V004 C001 E012 institutional delta — park redevelopment and coercive capacity
+
+Rin says `子ウサギ公園` is little used and scheduled for removal, and forecasts Administrative Committee backlash to direct SRT-camp support. Kaya says SRT's official closure makes direct funding awkward and the region is planned for redevelopment, while promising only student-record preservation; none of these documents or a completed database update is inspected. Narration confirms most federal members Sensei approaches decline. Kaya asks Kanna for `子ウサギタウン` construction progress. Kanna reports demolition delay from nearby rough sleepers with unusual firearms and remaining RABBIT campers; neither weapons nor individual identities are shown. Kaya urges a coalition of aligned interests but names no partners/order. Redevelopment and eviction are planned/reported, not completed.

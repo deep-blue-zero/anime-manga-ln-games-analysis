@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1319,3 +1319,7 @@ Decartes treats Sensei as an instrument to control RABBIT, while Sensei says the
 ## V004 C001 E011 relationship delta — visible help and narrow gratitude
 
 Saki, Moe and Miyu question continuing the camp; Miyako continues alone at the drain, preserving the SRT ideal but not persuading the others by speech. Sensei joins the practical task, Saki takes over a shovel, and Miyu helps; narration confirms group labor. Miyako accepts help despite prior rejection and thanks Sensei, while Saki frames the effort as unrewarded and Moe keeps teasing. This shifts local interaction from adversarial refusal toward acknowledged aid, not full trust, housing acceptance or squad agreement about its future.
+
+## V004 C001 E012 relationship delta — supportive address versus desired rupture
+
+Sensei asks Rin, other council members and Kaya for park repair help, but receives no authorized aid. Rin is frank about limits and declines persuasion. Kaya speaks warmly to Sensei and asks them to keep looking after RABBIT, then tells an unnamed partner she had expected the relationship to damage itself and end. This direct asymmetry qualifies trust in her earlier courtesy without identifying a prior plot. Kanna appears anxious in Kaya's progress review; Kaya uses responsibility/SRT-fate pressure and suggests additional aligned-interest actors. No new relationship with the unidentified expert is specified beyond Kaya's own “best partner” label.

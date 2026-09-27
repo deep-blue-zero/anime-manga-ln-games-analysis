@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E011 active provisional; C001 E012 unopened
+current_sequential_boundary: MAIN_V004_C001_E012 active provisional; C001 E013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2417,3 +2417,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E011 claim delta — costly help without transfer
 
 **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei aids RABBIT's own park-defense effort without a transfer bargain; Miyako directly acknowledges help, but distrust and Schale-move questions remain unresolved. A cold is a narrator-confirmed personal cost, not proof of universal beneficence. **BA-C008 — STRENGTHEN method:** Saki/Moe report lost ammunition/communications gear; Miyako reports no complete park inundation, and narration confirms joint drainage work. Do not infer an exact inventory, lightning mechanism or sole causal reason flooding is avoided. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E012 unopened.
+
+## V004 C001 E012 claim delta — repair refusal and Kaya's expectation
+
+**BA-C001/C016 — QUALIFY:** Sensei's repair proposal pursues the students' chosen camp but gains no federal help; effort is shown, not successful provision. **BA-C008 — STRENGTHEN method:** Rin/Kaya's administrative rationales, Kanna's demolition/weapon reports and Kaya's privately voiced expectation of Sensei–RABBIT rupture are different evidence kinds. Kaya's admission undercuts a simple supportive reading of her courtesy, but does not prove she caused prior attacks, weather or food scarcity. Most council refusals are narrated, not individually documented. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No named subject/readiness promotion: **21 partial / 76 unmodeled across 97**; unnamed partner stays role-level. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E013 unopened.
