@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1775,3 +1775,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Kanna's `どうして、それを` after Miyako names the transaction is a non-denial, then `手を汚さずに、正義を掲げ続けることなどできない` defends compromised public work; neither line supplies transaction amounts/signatures. Her `学籍データを抹消させられても` is threatened possibility, not completed sanction.
 - Sensei's `u:0050` and `u:0057` are `心の声` yet Kanna/others react nearby; preserve uncertainty over audibility. `choice:001` is paired; `u:0053-0054` repeats convergence.
 - `u:0072` is Kanna-tagged `それでは失礼します、公安局長`, self-address inconsistent with apparent departing voice. Quarantine exact speaker. `始末書を用意しておく` is prospective, not filed. No performed voice admitted.
+
+## V004 C001 E020 voice delta — anonymous source and named FOX
+
+- Shinon explicitly attributes the bribery account to `匿名希望の方`; the broadcast is public allegation, not a quoted legal finding. Kanna's `u:0010` bare backslash has no semantic dialogue content. Moe's investigation/cancellation lines are reports; Sensei's paired `scene:002:choice:001` variants do not establish coercion.
+- Decartes's `所確幸` gratitude and aroma-only `鶏の骨` “karaage” make a comic resource dispute, not edible aid. `scene:002:u:0047-0048` has Decartes-tagged retort to Decartes, preserving an attribution anomaly. Grenade calls are not blasts.
+- Scene 3 directly labels Yukino, Niko, Otogi and Kurumi, while earlier `？？？` remains unnamed at its own turns. `私たちの「クーデター」計画`, `SRTの復活` and `シャーレ廃絶` are explicit speaker intentions. No performed voice admitted.

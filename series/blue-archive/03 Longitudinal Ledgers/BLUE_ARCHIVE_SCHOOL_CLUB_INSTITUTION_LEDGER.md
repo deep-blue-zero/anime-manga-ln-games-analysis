@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1067,3 +1067,7 @@ Miyako deliberately triggers the archive alarm so Valkyrie defenders open a phys
 ## V004 C001 E019 institutional delta — Clover leaves Valkyrie custody
 
 At 01:00 RABBIT holds a rooftop ORP; Kanna reaches it and threatens possible school-record erasure. Miyako alleges the found record shows Kaiser-linked illegal rebates for redevelopment eviction; Kanna does not deny and defends dirty compromise while acknowledging rule obligations, but no full deal record or admission is quoted. Aerial harness extraction occurs. At 01:45 Miyako directly reports camp return, no squad injuries/missing members and Clover intact; she hands it to Sensei. The alleged mastermind is unknown, and no external authority has received or authenticated the evidence. Kanna's incident-report plan remains unfiled in text.
+
+## V004 C001 E020 institutional delta — public scrutiny and FOX coup intent
+
+Chronos broadcasts an anonymous-source Kaiser/Public Security bribery allegation and school-intrusion damage report; Kanna challenges their presence/source, not the case in a formal reply. Moe says the Federal Student Council has organized investigators and Kaiser cancelled redevelopment; neither primary document or inquiry result is opened. Decartes reports 所確幸 members returning, not a verified title/park status. Kaya directly says a separate Kaiser/“our side” link escaped discovery and the plan remains viable. She names FOX Squad seniors Yukino, Niko, Otogi and Kurumi and proposes RABBIT's participation in a coup; Yukino states SRT revival and Schale abolition as aims. No official reinstatement, takeover, recruitment or Schale closure occurs.

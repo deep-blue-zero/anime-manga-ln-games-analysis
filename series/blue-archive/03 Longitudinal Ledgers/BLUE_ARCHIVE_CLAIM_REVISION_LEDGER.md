@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E019 active provisional; C001 E020 unopened
+current_sequential_boundary: MAIN_V004_C001_E020 active provisional; V004 C002 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2449,3 +2449,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E019 claim delta — Kanna's non-denial and completed handoff
 
 **BA-C008 — REVISE evidence grade:** the archive record is carried out and handed to Sensei; Kanna's rooftop reply acknowledges public-rule obligation and defends dirty compromise rather than denying the charged bargain. This is convergent support, not a full transaction admission, mastermind identification or external legal finding. **BA-C001/C016 — QUALIFY:** Sensei takes adult follow-up after student-executed retrieval and a participant-reported safe return; their Kanna dialogue has `心の声` seams and no official action yet. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E020 unopened.
+
+## V004 C001 E020 claim delta — publicity, cancellation report and coup disclosure
+
+**BA-C008 — REVISE public/hidden state:** Chronos airs an anonymous-source bribery report; Moe reports a federal investigation team and Kaiser cancellation, but formal orders, findings and company notice are uninspected. Kaya directly admits an undiscovered Kaiser/“our side” link and proposes RABBIT's inclusion in a coup, while Yukino names SRT revival/Schale abolition goals. These are actor intentions, not a completed seizure or proof of the full secret link. **BA-C001/C016 — QUALIFY:** Sensei has Clover from E019, but E020 does not print disclosure method or direction of authorities. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Four FOX seniors enter `UNMODELED`: **21 partial / 80 unmodeled across 101**. No durable new claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. Stop before V004 C002 E001.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1749,3 +1749,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Kanna:** reaches the rooftop by her reported exterior-wall climb, threatens possible record erasure, does not deny Miyako's rebate allegation and instead defends dirty compromise while acknowledging public-rule ideals. She says she will prepare an incident report; no filing, formal confession or verdict is shown.
 - **Miyako / RABBIT:** confront Kanna with the found record, make an aerial harness extraction and directly return to camp at 01:45. Miyako reports no injuries, missing members or loss of Clover, closes the operation and gives evidence to Sensei; mastermind remains unknown.
 - **Sensei:** offers Kanna choice-oriented counsel with thought/speech seams, accepts the evidence/adult follow-up, carries sleeping students into tents and returns to Schale. No official submission or disposition is yet printed.
+
+## V004 C001 E020 character-state delta — public case and named FOX plan
+
+- **Shinon / Mai / Kanna:** Chronos broadcasts an anonymous-source Kaiser/Public Security bribery allegation and school-damage report. Kanna asks for the source and orders reporters off the grounds; no press confession or formal ruling occurs.
+- **Moe / Miyako / Decartes / RABBIT:** Moe reports a federal inquiry and Kaiser redevelopment cancellation; Miyako hopes that secures the park. Decartes reports 所確幸 members returning and offers fried chicken bones as a gratitude gift, prompting renewed quarrel but no shown attack.
+- **Kaya:** says the discovered case has not exposed a separate Kaiser/“our side” link, then proposes including RABBIT in an explicit coup plan. This is direct plan speech, not execution or RABBIT consent.
+- **Yukino / Niko / Otogi / Kurumi:** newly named FOX Squad seniors directly speak. Yukino is harsh about RABBIT readiness, boasts of a one-minute alarm-free escape counterfactual and names goals of SRT restoration and Schale abolition; Niko expresses reluctance to dirty juniors' hands, while Otogi/Kurumi voice acceptance. Individual private baselines and actual capacities are unknown.

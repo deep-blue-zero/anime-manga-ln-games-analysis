@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1509,3 +1509,7 @@ The one-way door turns a seemingly successful evidence hunt into a test of Miyak
 ## V004 C001 E019 motif / callback delta — justice under compromise, adult handoff
 
 Kanna's rhetoric pits clean exceptional justice against compromised everyday policing, while Miyako distinguishes their paths through repeated responsibility for choices rather than denying difficulty. Sensei's future-choice counsel echoes earlier student agency but does not erase public wrongdoing or automatically convert Kanna. The rooftop exit and 01:45 return complete the student-executed Clover mission, then the document crosses from students to the adult for institutional handling. This is a transition in accountability, not proof that possession of evidence yields justice. An unclaimed “mastermind” remains a participant inference.
+
+## V004 C001 E020 motif / callback delta — victory shadowed by the foxhole
+
+Clover's retrieval becomes public rumor and reportedly halts redevelopment, giving RABBIT and 所確幸 an apparent local reprieve but not a formal rights settlement. Decartes's inedible “gift” revives the food/waste conflict even after shared danger, keeping reconciliation comic and partial. Behind this relief, Kaya's hidden Kaiser-side link and named FOX seniors turn “SRT restoration” from RABBIT's protest ideal into a rival instrumental goal yoked to Schale abolition. The chapter closes on threatened recruitment of the very students whose autonomous mission exposed the first deal. No future coup success is guaranteed by the reveal.

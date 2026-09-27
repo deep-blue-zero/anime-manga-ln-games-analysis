@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1157,3 +1157,7 @@ Sensei remains outside the Valkyrie archive after E017's exclusion. Their paired
 ## V004 C001 E019 delta — choice counsel, then adult custody of evidence
 
 Sensei's inward address to Kanna is answered as if heard; paired and singleton choices urge conviction under difficulty and self-directed future choice (`scene:001:u:0050-0062;choice:001-003`). This supports agency rather than forcing a confession, but thought/speech seams restrict a literal transcript of public words. After RABBIT's aerial extraction and 01:45 camp return, Miyako gives Clover to Sensei and asks them to handle the adult-world next step; Sensei accepts and narration confirms the evidence received, sleeping students placed in tents and return to Schale (`scene:002:u:0002-0019`). No submission, exposure, prosecution or protective ruling is yet shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E020 unopened.
+
+## V004 C001 E020 delta — evidence custody without shown disclosure mechanism
+
+Chronos's anonymous-source broadcast and Moe's federal inquiry/Kaiser cancellation reports follow E019's handoff of Clover to Sensei, but E020 does not show Sensei supplying the source, threatening the council or directing an investigation (`scene:001:u:0002-0017;scene:002:u:0002-0014`). Sensei's paired answer denies coercion or alludes to complications; neither is a complete causal audit. The possible local benefit to RABBIT/所確幸 must not be credited solely to Sensei over the students' retrieval or presumed to be a formal legal victory. Kaya/FOX separately propose abolishing Schale, without Sensei's awareness or response shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); stop before V004 C002 E001.

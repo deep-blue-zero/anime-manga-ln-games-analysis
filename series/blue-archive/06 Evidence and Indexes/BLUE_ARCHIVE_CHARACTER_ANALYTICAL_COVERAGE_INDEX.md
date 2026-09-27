@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E019
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E020
 generation: V1
-version: "2.59"
+version: "2.60"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–019 provisionally; 195/310 main units; side-source classes unreviewed; BA:main:004:001:020 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–020 provisionally; 196/310 main units; side-source classes unreviewed; BA:main:004:002:001 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:004:001:020
+next_unopened_main_unit: BA:main:004:002:001
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:001:020
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V004_C001_E019` provisional boundary, inheriting canonical `MAIN_V003_C004`:
+This index answers four questions at the `MAIN_V004_C001_E020` provisional boundary, inheriting canonical `MAIN_V003_C004`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E019;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E020;
 - current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
-- main-story coverage: `195 / 310` canonical units;
+- main-story coverage: `196 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:004:001:020`.
+- next unopened main unit: `BA:main:004:002:001`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,11 +74,15 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V004 C001 E019; choice counsel to Kanna and receives Clover for adult follow-up | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Decartes | `ANALYZED` through V004 C001 E015; reports 所確幸 scattered by Public Security and warns of local sweep | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V004 C001 E020; holds Clover, disclosure method and inquiry role unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Decartes | `ANALYZED` through V004 C001 E020; reports group return and offers inedible fried-bone gift | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Yukino | `ANALYZED` in V004 C001 E020; FOX senior, critiques RABBIT and states revival/Schale-abolition aims | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Niko | `ANALYZED` in V004 C001 E020; FOX senior reluctant to dirty juniors' hands | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Otogi | `ANALYZED` in V004 C001 E020; named FOX senior assents to Kaya's proposal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kurumi | `ANALYZED` in V004 C001 E020; named FOX senior backs proposed junior involvement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sora | `ANALYZED` in V004 C001 E006; receives squad at Schale and describes discarded-food disposal arrangement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Kaya | `ANALYZED` through V004 C001 E012; declines repair aid, pressures Kanna and admits expected Sensei/RABBIT rupture | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Kanna | `ANALYZED` through V004 C001 E019; responds to rebate allegation with compromised-duty defense | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kaya | `ANALYZED` through V004 C001 E020; admits hidden Kaiser-side link and proposes RABBIT coup participation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kanna | `ANALYZED` through V004 C001 E020; questions Chronos leak and orders reporters off grounds | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kirino | `ANALYZED` through V004 C001 E018; challenges intruders, fires and reports all shots miss | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Fubuki | `ANALYZED` through V004 C001 E018; donut/cardboard decoy succeeds, mechanism and injury unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Saki | `ANALYZED` through V004 C001 E018; supports corridor advance and explicitly recognizes Miyako as captain | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -111,7 +115,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Iroha | `ANALYZED` through C003 E025; urges Makoto to rest and says matters settled, not complete audit | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ibuki | `ANALYZED` in C003 E007; reads flammable warning on airship boxes before blast | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Maestro | `ANALYZED` through C004 E005; dream-frame objection to Beatrice's weapon use of guardian copies | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mai | `ANALYZED` through V004 C001 E002; films Public Security setback with Shinon | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mai | `ANALYZED` through V004 C001 E020; co-broadcasts public bribery/intrusion allegations | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanae | `ANALYZED` through C004 E025 by Mine's treatment order; direct speech not secure in scene | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Serina | `ANALYZED` through C004 E025; responds to Mine's treatment mission, motto labels conflict | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Suzumi | `ANALYZED` in C003 E011; flashbang intervention and school-blind patient-protection statement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -123,7 +127,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Fuuka | `ANALYZED` through V003 C002 E011; bound/gagged in School Lunch car, then directly asks Haruna to let her off | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Izumi | `ANALYZED` through V003 C002 E011; back in remote Gourmet contact and still pursued by Prefect Team | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` through V004 C001 E012; rejects park-repair persuasion and reports planned removal/committee opposition | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Shinon | `ANALYZED` through V004 C001 E002; broadcasts police failure before drone loss | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Shinon | `ANALYZED` through V004 C001 E020; reports anonymous-source Kaiser/Public Security allegations | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Momoka | `ANALYZED` in C003 E005; federal press capacity aside | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ayumu | `ANALYZED` through V004 C001 E001; relays SRT/Valkyrie escalation and proposes Schale | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` through V004 C001 E011; worries about RABBIT's rain-exposed camp, without damage audit | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -180,6 +184,10 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
 | Decartes | L; one captor-to-defeated-leader sequence | M; hostage demand, armed order, ownership protest | L; Sensei and RABBIT as opponents | L; claims 所確幸 leadership, membership not audited | L; discarded-food preference | M; formal non-possession rhetoric under material desire | M; hostage and local defeat | H; E008 identity link contextual, E009 smoker unknown, legal title and private baseline absent |
+| Yukino | L; one present-plan appraisal | L; dismisses RABBIT readiness and states goals | L; Kaya/FOX, juniors by report | L; self/peer FOX framing | GAP | L; terse critical register | L; unexecuted coup discussion | H; actual capacity, past actions, private baseline and consent of juniors absent |
+| Niko | L; one present response | L; reluctant acceptance of junior involvement | L; Yukino/FOX and juniors by report | L; FOX senior frame | GAP | L; gentler address to Yukino | L; unexecuted coup discussion | H; sustained care, opposition strength, private baseline and action absent |
+| Otogi | L; one short assent | L; accepts proposal | L; Kaya/FOX only | L; FOX senior frame | GAP | L; casual assent | L; unexecuted coup discussion | H; independent motive, action and private baseline absent |
+| Kurumi | L; one short response | L; treats junior role as compensation | L; Kaya/FOX only | L; FOX senior frame | GAP | L; terse conditional register | L; unexecuted coup discussion | H; prior loss/accounting, action and private baseline absent |
 | Sora | L; welcoming contact and waste-handling explanation | L; offers collected goods, seeks clarification | L; Sensei by report, RABBIT in person | L; Schale office service role, title unaudited | L; low traffic and disposal routine | L; polite service register | L; notices Moe's condition | H; role scope, food safety, private baseline and repeated decisions absent |
 | Kaya | L; institutional briefing and policy pivot | M; asks transfer then offers Sensei discretion | L; Sensei/Kanna, Rin by report | M; GSC Defense Office, actual remit unaudited | GAP | M; formal exposition/casual principle dismissal | M; pending sanction | H; underlying records, formal authority, implementation and private baseline absent |
 | Kanna | L; dismissive-to-thanking arc, now forecasts sanction | M; changes local command choice, questions Saki | L; Sensei/Life Safety/Saki | M; Public Security command, GSC remit reported | GAP | M; threat/formal register | M; command and interview | H; actual award, sanction, law and private baseline unverified |
@@ -284,6 +292,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 |---|---|---|---|---|
 | Sensei | structural choice/`心の声` distinction persists; C003 E003 hypothetical motives and two-option trust choice do not verify Mika's heart | Hifumi credits local command; Mika reports refused visits; trust is future-facing; E008 bath presence breaches explicit privacy boundary | Care/play, ethical objection, club-protection and responsibility under uncertainty | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019; V002 C2 E002-E003/E009-E012; V003 C002 E007-E019; C003 E001-E003 |
 | Decartes | Names 所確幸 and says RABBIT consumed its meal supply; neither claim proves entitlement | Sensei/RABBIT only as adversaries; group relation asserted | Rhetorical contradiction is not a full comic or private profile | V004 C001 E010 `scene:001:u:0001-0090`; `scene:002:u:0001-0067` |
+| Yukino | Calls RABBIT unseasoned; boasts of one-minute alarm-free archive escape | Kaya/FOX peers; juniors only discussed | No ordinary/private sample | V004 C001 E020 `scene:003:u:0012-0025` |
+| Niko | Voices wish not to dirty juniors' hands but accepts pressure | Yukino/Kaya/FOX, no RABBIT meeting | No ordinary/private sample | V004 C001 E020 `scene:003:u:0013-0022` |
+| Otogi | Assents to Kaya's proposal with no independent rationale | FOX co-presence only | No ordinary/private sample | V004 C001 E020 `scene:003:u:0020` |
+| Kurumi | Says juniors should make up for circumstances; cause unspecified | FOX co-presence only | No ordinary/private sample | V004 C001 E020 `scene:003:u:0021` |
 | Sora | Expects Sensei-referred disposal helpers and notices Moe looks unwell | Only one RABBIT encounter, Sensei off-page | No hobby/private humor beyond service exchange | V004 C001 E006 `scene:002:u:0118-0134` |
 | Kaya | Gives Administrative Committee/`統括室` map, FOX account and SRT exception | Courts Sensei's assistance; RABBIT students absent | `u:0057` self-address and response to inward thought limit exact dialogue | V004 C001 E003; E004 `scene:001:u:0001-0068` |
 | Kanna | Kanna reads claimed GSC scores, closure and sanction route; no files shown | Sensei cooperation; Saki interrogation, Life Safety revised judgment | `狂犬` is self-invoked reputation, not verified conduct | V004 C001 E002; E003 `scene:002:u:0002-0033`; `scene:003:u:0002-0010` |
@@ -386,6 +398,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 |---|---|---|---|---|
 | Sensei | `PARTIAL_MODEL` | `NONE` | local support and choice-conditioned help, with E008 privacy counterexample | Teaching causality, consent/privacy boundaries, accountability handling and broader protection open. |
 | Decartes | `UNMODELED` | `NONE` | situated non-possession rhetoric, hostage coercion and ownership objection | One conflict, no independent entitlement audit, private or ordinary baseline, and exact E008/E009 identity split unresolved. |
+| Yukino | `UNMODELED` | `NONE` | one FOX readiness appraisal and stated coup goals | No tested escape feat, past record, private baseline or independent ethics. |
+| Niko | `UNMODELED` | `NONE` | one reluctance/acceptance statement about juniors | No repeated decisions, separate contexts or private baseline. |
+| Otogi | `UNMODELED` | `NONE` | one assent to proposed inclusion | One line; motive, history and independent choices absent. |
+| Kurumi | `UNMODELED` | `NONE` | one compensation-framed assent | One line; prior grievance, action and private baseline absent. |
 | Sora | `UNMODELED` | `NONE` | one Schale food-disposal/service interaction | Food safety, service authority, recurring conduct and private baseline unverified. |
 | Kaya | `UNMODELED` | `NONE` | federal briefing and conditional disposition offer | No inspected mandate, FOX file, formal order, decision outcome or private baseline. |
 | Kanna | `UNMODELED` | `NONE` | field command, rank appraisal and local reversal | Official file, sustained judgment, private baseline and custody outcome absent. |
@@ -492,6 +508,10 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 |---|---|---|---|---|---|
 | Sensei | P (structural) | U | P (structural) | P (choice-conditioned) | U (persona space requires separation) |
 | Decartes | U | U | U | U | U |
+| Yukino | U | U | U | U | U |
+| Niko | U | U | U | U | U |
+| Otogi | U | U | U | U | U |
+| Kurumi | U | U | U | U | U |
 | Sora | U | U | U | U | U |
 | Kaya | U | U | U | U | U |
 | Kanna | U | U | U | U | U |
@@ -1603,3 +1623,9 @@ Routing: [V004 C001 E018 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_
 At the rooftop, Kanna personally confronts RABBIT, threatens possible record erasure and responds to Miyako's rebate allegation by acknowledging public-rule obligations while defending dirty compromise. This non-denial supports, but does not fully confess, the unquoted transaction. Sensei's choice counsel to Kanna has `心の声` seams and no forced concession. Aerial harness extraction follows; at 01:45 Miyako directly reports the squad back at camp with no injuries/missing members and Clover intact. She gives the evidence to Sensei for adult-world follow-up, while identifying no mastermind. No official submission, authentication, investigation result or lasting Kanna change is shown. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E020 unopened.
 
 Routing: [V004 C001 E019 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E019_DEEP_READING.md) → `BA:main:004:001:019`, two scenes, 92 visible numbered units and five Sensei choice groups (one paired). Coverage is **195 / 310**.
+
+## 169. V004 C001 E020 provisional coverage delta
+
+Chronos broadcasts an anonymous-source Kaiser/Public Security bribery allegation, and Moe reports a federal inquiry team and Kaiser redevelopment cancellation; the broadcast is direct, but the formal actions and outcomes are not independently documented. Decartes reports 所確幸 members returned and offers fried chicken bones as a disputed “gift,” without durable peace. Kaya admits a separate undiscovered Kaiser/“our side” link, names FOX Squad's Yukino, Niko, Otogi and Kurumi by their direct presence, and proposes drawing RABBIT into a coup. Yukino states SRT revival and Schale abolition as aims. No RABBIT consent, takeover or closure is shown; E012's unnamed expert and E013's vendor remain unassigned. Four FOX seniors enter narrow `UNMODELED`: **21 `PARTIAL_MODEL` / 80 `UNMODELED` across 101**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. V004 C002 E001 unopened.
+
+Routing: [V004 C001 E020 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E020_DEEP_READING.md) → `BA:main:004:001:020`, three scenes, 91 visible numbered units and one paired Sensei choice group. Coverage is **196 / 310**.
