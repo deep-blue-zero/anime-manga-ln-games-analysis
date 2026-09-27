@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -840,3 +840,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Work seen versus learning measured:** Hifumi recognizes lesson material and passes, while the other three fail. The juxtaposition tests whether shared study yielded shared mastery; one result cannot isolate teaching quality, effort, test fit or motive.
 - **Status and self-presentation:** Koharu's E006 confident solo exit is contradicted by 11, while Hifumi's E007 sense that Hanako was able meets Hanako's 2 and her `雰囲気`/grade distinction. Neither contrast licenses a durable fraud or incapacity label.
 - **Conditional consequence materializes:** the first-failure camp moves from Hifumi's warning to narrator-confirmed decision. The undescribed third-failure threat stays suspended.
+
+## V003 C001 E009 motif / callback delta — care's container becomes a disposal box
+
+- **Love/help versus administrative elimination:** Nagisa's E003 “students needing love” contrasts with her explicit account that the club was designed to bypass ordinary checks and expel suspected students. This is an internal reversal in her representations, not proof every student is guilty or that the bypass is lawful.
+- **Chess/shared boat/box:** an asymmetric solitary chess position, `呉越同舟` antagonistic peace and a box of students create a field of strategic container metaphors. Only the treaty boat and disposal box are explicitly interpreted by Nagisa; no piece-to-person chess key is given.
+- **Teacher care as leverage:** Nagisa expects Sensei will not abandon students while hinting she can change exam conditions. Their `私のやり方` answer sets a possible agency boundary but has not yet protected anyone.

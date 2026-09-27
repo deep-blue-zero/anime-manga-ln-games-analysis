@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -662,3 +662,7 @@ Narration shows after-school self-study and a jump to the first special academic
 ## V003 C001 E008 institutional delta — threshold, first result and camp decision
 
 Hifumi reports a pass line of at least 60/100; narrator records Hifumi 72/pass, Azusa 32/fail, Koharu 11/fail and Hanako 2/fail and repeats three failures/one pass. The all-four rule is therefore unmet in the first sitting. Narrator `u:0044` says the remedial-club camp is decided, corroborating E007's reported trigger in practice. Camp is not yet shown and no details, appeal, second-exam date or third-failure sanction are supplied. Hifumi privately judges the paper basic and wonders whether it was a rescue measure; setter intent and equal treatment remain unknown. Her questions about whether Koharu sat a second-/third-year paper are speculation, not an alternate test record.
+
+## V003 C001 E009 institutional delta — claimed due-process bypass and treaty security
+
+Nagisa says ordinary Trinity failure/suspension/expulsion rules require checks and discussion, but the hastily made remedial club was adjusted to ignore them through some borrowed Schale authority and created to expel its members after repeated joint failure. Her procedural account and purpose are explicit self-disclosure, not an independently inspected rule or completed expulsion. She alleges one unidentified treaty saboteur among the four, gathered possible suspects in a disposable group and proposes that Sensei find the person; no evidence/identity or hearing is shown. Her account of a Trinity–Gehenna non-aggression treaty and proposed neutral ETO intervention is not signed treaty text or operating institution. She says exams lie under Tea Party control and cites possible future changes of range, site and difficulty, then swears her side did not manipulate the first sitting. No future change or independent audit is shown. E008's camp decision stands; no camp contents or second test yet.

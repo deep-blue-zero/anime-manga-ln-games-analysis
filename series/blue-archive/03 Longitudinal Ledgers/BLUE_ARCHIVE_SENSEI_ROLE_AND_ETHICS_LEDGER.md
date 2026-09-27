@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -752,3 +752,7 @@ Sensei privately regards the study as going well, asks singleton questions when 
 ## V003 C001 E008 delta — taught material recalled, outcomes diverge
 
 Hifumi's private exam thought explicitly recalls material Sensei explained and that the group studied; this is the first narrow testimony of actual explanation, without a printed lesson or independent pedagogy record. Sensei announces scores through a singleton choice at Hifumi's request and privately urges her to hold steady after distress. Hifumi passes but three peers fail; no inference that Sensei caused either result, could waive camp, or chose an equitable response is justified. The narrator decides camp; Sensei has no shown appeal, new teaching plan or school-rule command. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E009 delta — teacher role used as procedural cover
+
+Nagisa says she enlisted Schale authority in an expulsion-oriented special club, thereby using Sensei's tutoring participation in the “box” she constructed. Her confession raises a concrete conflict between educational duty and punitive security delegation; it does not prove Sensei knew the design at E003 or that Nagisa's bypass is lawful. Sensei asks about the feared sanction and later answers `私のやり方` to the traitor request. That is a boundary on being drafted into Nagisa's exact method, not a complete rescue plan or refusal of all investigation. Nagisa's expectation Sensei will not abandon students and her conditional future exam-change examples are leverage over the care relationship, not actual manipulations. Her first-test oath remains unverified. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

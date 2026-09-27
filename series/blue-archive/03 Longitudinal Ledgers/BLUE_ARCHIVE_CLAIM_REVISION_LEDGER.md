@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E008 active provisional; E009 unopened
+current_sequential_boundary: MAIN_V003_C001_E009 active provisional; E010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1633,3 +1633,14 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; score causes, camp program, later sittings and third-failure consequence remain OPEN.
+
+## V003 C001 E009 claim delta — rescue structure confessed as disposal design
+
+- **BA-C001/C016 — STRENGTHEN/COMPLICATE:** Sensei's `私のやり方` refuses automatic conversion of teaching into suspect-hunting or collective expulsion, but no student protection is yet achieved. Nagisa leverages her belief Sensei will not abandon students; do not call that consent.
+- **BA-C002–C004/C007/C010–C011 — REVISE locally:** Nagisa now says the remedial club was created for expulsion and adjusted to bypass usual Trinity discipline procedure with some Schale authority. This directly revises her E003 benevolent presentation and “treaty not very related” characterization as *her own account*. The underlying legal instrument, intelligence, treaty status and real power to expel are not independently audited.
+- **BA-C008 — STRENGTHEN:** treaty mechanics `u:0022-0028` are italic Nagisa framing; twelve Sensei choices are singleton and include silence. Her first-exam nonmanipulation oath and conditional future exam-change examples are not observed audit/change events. The chess pieces are not identified actors.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; procedural school belonging may be compared only after separate evidence.
+- **BA-C021 — OPEN NEW, CHAPTER-LOCAL:** a nominally supportive academic structure may be engineered as a procedural-disposal device under a security suspicion. E009 gives Nagisa's explicit purpose, alleged bypass and collective-box rationale, not verified lawfulness, a proved traitor, altered first exam or completed expulsion. This distinct educational-institution design claim is not swallowed by the broader responsible-adult or Schale-power claims.
+- **Other families:** no direct global test.
+
+No standalone model, frozen prediction or side-source admission. Backfill **DEFER**; suspected actor, treaty/ETO reality, actual procedure and future exam control remain OPEN.

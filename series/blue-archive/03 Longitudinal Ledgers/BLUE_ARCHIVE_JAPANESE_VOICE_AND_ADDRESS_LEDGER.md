@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1095,3 +1095,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hifumi's italic `u:0001-0004` contrasts perceived test familiarity and basic difficulty with her conjecture `救済措置`; `u:0008` checks overconfidence. Her `60点以上` is a participant threshold report corroborated for this sitting by the narrator's score/pass pairs, not a full charter.
 - Azusa's `紙一重` after 32 against the stated 60 is quipping or a mistaken appraisal, not a reliable near-miss fact. Koharu's `かなり難しかった` is situated self-appraisal; Hifumi's rapid questions about second-/third-year papers are unconfirmed guesses. Hanako's `雰囲気` versus `成績は別` declines to explain why she scored two; do not infer intent or broad intellectual incapacity.
 - Narrator `u:0014-0015/0017-0018/0022-0023/0030-0031` and `u:0039-0044` supply score/result and camp-outcome authority. Sensei `choice:001` is a single result-announcement option; `u:0038` is inward encouragement, not audible advice. `u:0045` is a next-title card.
+
+## V003 C001 E009 delta — institutional euphemism to disposal metaphor
+
+- Nagisa's E003 `愛を必要としている` description of remedial students now meets her own `生徒を退学させるために`, `箱` and `ゴミ`/whole-box disposal talk (`u:0019,0036-0037,0048`). These are her admissions/metaphors, not objective “trash” status or proof any one student betrayed Trinity. Her `ごめんなさい` and permission to revile her recognize harm but do not erase the threat.
+- Italic `u:0022-0028` carries Nagisa-framed treaty/ETO account and `呉越同舟` shared-boat metaphor. Keep its status as associated exposition; a treaty text, working ETO or guaranteed deterrence is not inspected. Her `恐らくは唯一` marks a belief/argument, not logical necessity.
+- `手のひらの上` plus examples of suddenly changed scope, venue or difficulty are conditional leverage; `如何なる操作も行っておりません` is her sworn first-exam denial, not independent certification. Twelve singleton Sensei choice groups, including silence, do not create a multi-option moral branch; `私のやり方` is a bounded self-direction claim. `u:0061` is a next-title card.
