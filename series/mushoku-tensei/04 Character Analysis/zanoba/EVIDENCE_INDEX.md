@@ -4,19 +4,21 @@ artifact_id: MT_ZANOBA_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
-source_boundary: "Japanese LN V01–V11; V11 revision 1.3, historical evidence and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.4, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Zanoba evidence routes
+
+Current revision1.4 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key Zanoba, LN_JP; global IDs null. [Model](RECONSTRUCTION_MODEL.md) owns six rules, nine selectors and sixteen retrospective tests through V11. V06 numbers resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), V08 in [V08](../../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings).
 
@@ -63,3 +65,18 @@ New selectors: ST05 (S129). Prior test/evidence routes remain historical. No DOM
 | Rule006 | Extend006 narrowly to ST09 (016): offers practical household help and leaves decision with Rudy while retaining research/Juli responsibilities; no global noninterference rule. |
 
 Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.
+
+## V13 additions for revision 1.4
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST10–ST11 and checks V17–V19. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 11 states and 19 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST10 (003/014) retains own doll purpose and values Juli figure; not all work reducible to service of R. |
+| 002 | ST10–11 (003/013/031) supplies divided device/array construction; success depends on several skills, doll core remains unfinished. |
+| 003 | No equivalent shame-delayed disclosure trigger; ordinary technical explanation not evidence permanent candor. |
+| 004 | Horse broken after warning (003) gives disappointment without represented comparable retaliation; do not force new violence or call silence proof universal restraint. |
+| 005 | ST10 Juli work recognition (014) broadens craft care; possession/history not erased by appreciation. |
+| 006 | ST10–11 help (003/013/031) is concrete collaboration; useful to R but not a repeat of acute-distress caregiving trigger. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

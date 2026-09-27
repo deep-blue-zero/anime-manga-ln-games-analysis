@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -465,3 +465,40 @@ Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japane
 | Lilia, Zenith and expedition cast | Expanded evidence/state ledger; new operational packages deferred. | Concentrated contexts and uneven interior access; do not force package symmetry. |
 
 All models BOUNDED_PROVISIONAL; no DOMAIN_READY or global enrollment. Rudeus monograph remains V01–V10. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns maintenance reasoning.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| State / local key | Prior → V13 state / kind | Observations / limitation |
+| --- | --- | --- |
+| `MT-S-198` / Rudeus | Grieving new parent → repeated care, research, teaching and skill acquisition. PRACTICE/CONTEXT. |003/007–008/012–016; capacity and interpreted intention remain distinct, no universal competence. |
+| `MT-S-199` / Rudeus | Family authority assumed → corrections about privacy, work, permission and dependence. KNOWLEDGE/PRACTICE. |004–010/015/020/032; some apologies and changed judgments, repeated intrusive conduct persists. |
+| `MT-S-200` / Rudeus | Anticipates Sara rejection → admits avoidance/rebound, repairs companionship. RELATIONSHIP. |025–027; romance explicitly closed; future fidelity promise immediately qualified in thought. |
+| `MT-S-201` / Roxy | New spouse/teacher → professional recognition, specialist instruction and successful escort leadership. PRACTICE. |002/004/010/015–016/024; teaching exhaustion and own work choice matter. |
+| `MT-S-202` / Roxy | Household insecurity → voiced limits, birthday preparation and reported fuller acceptance. RELATIONSHIP. |017–018/021/023; report after hat scene, not retroactive proof of comfort. |
+| `MT-S-203` / Sylphiette | New mother/co-spouse → continuing paid work, explicit bodily principle, welcome and negotiated terms. PRACTICE/RELATIONSHIP. |004/015/017–018/020/023/025/027–028/032; insecurity and agency coexist; no unlimited marriage permission. |
+| `MT-S-204` / Norn | Requested lessons → wanted but difficult training, authorship, birthday recognition. PRACTICE. |008–009/014/020–022; injuries and unwanted affection not erased by desire to learn. |
+| `MT-S-205` / Norn | Reader/brother incompletely informed → established council work disclosed. REVEALED_NOT_NEW. |028/032; work already over a year old, not caused by latest sword lessons or permission. |
+| `MT-S-206` / Aisha | Skilled household worker → garden expertise, defended secret, sibling celebration and Lucy care. PRACTICE. |010/014/020–022/028; withheld grief not excluded by cheer, blackmail and dependence remain. |
+| `MT-S-207` / Zenith | Altered communication → initiates childcare, recurring smiles and family recognition. OBSERVED_CHANGE. |007/012/022/028; experience, cause and recovery remain unknown. |
+| `MT-S-208` / Lilia | Caregiver enforcing rank → matching gifts recognize both daughters while service hierarchy persists. PRACTICE. |020/022; local flexibility, no complete institutional reversal. |
+| `MT-S-209` / Sara | Missed V07 apology → professional advancement, intended repair, explicit friendship and romance boundary. PRACTICE/RELATIONSHIP. |025–026; current aims not hidden renewed courtship; offstage career mainly report. |
+| `MT-S-210` / Cliff | Ongoing researcher → concrete prosthetic collaboration, dependence critique and modest wedding. PRACTICE. |003/006/013/018–019; advice not mind access; drug use/knowledge unshown. |
+| `MT-S-211` / Zanoba | Doll research → prosthetic hand/leg work, shared array construction, craft recognition. PRACTICE. |003/013–014/031; own purpose retained, autonomous doll/core unfinished. |
+| `MT-S-212` / Elinalise | Returning partner → marriage preparation, practical help and intimate mediation. PRACTICE. |018–019/028; Cliff declines funding, no assumed administration of received drug. |
+| `MT-S-213` / Nanahoshi | Researcher with prior distress → continuing illness, social correction/care, experimental breakthrough. PRACTICE/CONTEXT. |029–031/033; progress and joy not cure or abandonment of return aim. |
+| `MT-S-214` / Linia and Pursena | Graduation approaches → chosen duel to avoid imposed marriage, separate intended departures. PRACTICE. |030; plans not completed careers; same-bus account rumor. |
+| `MT-S-215` / Eris | Intensive training → accepts counter-style problem, reciprocal exchange and purposeful rest. PRACTICE. |034–037; Rudeus uninformed; further-year result belongs narrator projection. |
+| `MT-S-216` / Nina and Isolte | Uneven initial appraisal → complementary skills, mediation and shared training. PRACTICE. |034–037; unconscious Isolte not consulted initially, prejudice only locally corrected. |
+| `MT-S-217` / Suzanne | Former party companion → married parent, daughter loss and independent work/care arrangements reported. REVEALED_NOT_NEW. |011/026; premature daughter died after birth, outward lightness not grief absence. |
+
+| Package | Current decision | Debt |
+| --- | --- | --- |
+| Rudeus1.10; Roxy1.4; Sylphiette1.5; Norn1.2; Aisha1.2 | Revise existing model/index pairs. | Specific permission, independent work and hidden information, not global family harmony. |
+| Sara1.1; Cliff1.3; Zanoba1.4; Elinalise1.3; Nanahoshi1.3; Eris1.5 | Revise existing model/index pairs. | New opportunity for repair, collaboration, illness and reciprocal learning; reports/projections qualified. |
+| Paul1.3; Ruijerd1.2 | Reviewed, byte-preserved. | Remembrance/attributed teaching not new present conduct. |
+| Other named people | Ledger coverage; standalone models deferred. | Uneven contextual/interior access; do not manufacture symmetrical packages. |
+
+All models remain BOUNDED_PROVISIONAL with null global IDs. No DOMAIN_READY. Rudeus monograph remains V01–V10; the required V15 cumulative checkpoint is still prospective.

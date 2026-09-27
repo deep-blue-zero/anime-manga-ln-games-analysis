@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -310,3 +310,28 @@ Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-CR-156` / `MT-C-015` | Completion plural → rescue, survival, return, birth and renewed purpose have noninterchangeable costs. | STRENGTHEN;015–034; no global redemption, perfect family or terminal grief verdict. |
 
 Next discriminating tests concern sustained care allocation, informed inconvenient choices, nonviolent disagreement, corrected appraisal and independently grounded disclosure. All revisions are retrospective and source-bounded through V12; no C016 is added merely for a major plot event.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V13 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-157` / `MT-C-001` | Differentiated capacity → devices, teaching and team matchups make competence task-specific. | STRENGTHEN;003/013–016/024/031/034–036; mana/rank no universal outcome ladder. |
+| `MT-CR-158` / `MT-C-002` | Care/harm coexist → routine affection and protection repeatedly test voiced boundaries. | REVISE;004–010/015/018/020; apologies and agreed intimacy do not erase other overrides. |
+| `MT-CR-159` / `MT-C-003` | Outside access corrects self-account → direct speech, work disclosed late and separate focalization correct anticipated motives. | STRENGTHEN;006/010–012/025–026/032/034–037; corrections not universal interpreter authority. |
+| `MT-CR-160` / `MT-C-004` | Original refusal stays bounded and real. | PRESERVE;015/018/020 new permission distinctions do not retroactively authorize V01 conduct. |
+| `MT-CR-161` / `MT-C-005` | Household protection/injury distinct → changed gifts/care modify practice within continuing rank. | REVISE;020/022/028; recognition not erasure of family origins or hierarchy. |
+| `MT-CR-162` / `MT-C-006` | Forced separation's necessity remains unproved. | PRESERVE;025–026/034–037 different voluntary/disrupted paths do not validate the original coercion. |
+| `MT-CR-163` / `MT-C-007` | Independent purpose → teaching, craft, council work, Sara's career and graduates' choices exceed R's aims. | STRENGTHEN;002–004/014/024/026/030–032; reports and plans bounded. |
+| `MT-CR-164` / `MT-C-008` | Distributed learning → feedback changes local procedure and judgment. | STRENGTHEN;003/010/013–016/031–037; repeated intrusion limits global transfer. |
+| `MT-CR-165` / `MT-C-009` | Proposition-level status → rumor, diagnostic guess, fruit inference and prolepsis need separate admission. | REVISE;005/011–012/029–031/037; character confidence not verification. |
+| `MT-CR-166` / `MT-C-010` | Rescue achieved with unknown condition → expert access proposed, cause/cure still open. | PRESERVE_OPEN;012/028–029/033; no meeting or diagnosis yet. |
+| `MT-CR-167` / `MT-C-011` | Help cannot purchase partner choice → gratitude can explain attachment without ranking another's worth. | REVISE;003–004/025–027; Sara's boundary and rebuke constrain comparison. |
+| `MT-CR-168` / `MT-C-012` | Plural aid → recognition, functional routine and reconciliation improve without ending grief or illness. | REVISE;007/010–012/022–026/029–031; cheerful presentation not symptom/grief absence. |
+| `MT-CR-169` / `MT-C-013` | Household inequality → wages, childcare, service rank, school status and tribal marriage distribute options. | STRENGTHEN;006/019–022/028/030/032; real choice and constraint coexist. |
+| `MT-CR-170` / `MT-C-014` | Responsibility depends on knowledge/means → specific apology/correction matters, benevolence insufficient permission. | STRENGTHEN;004–010/015/020/025–026/032; corrected appraisal not complete changed practice. |
+| `MT-CR-171` / `MT-C-015` | Completion plural → settled routines, graduation and experiment finish different tasks while opening others. | REVISE;022–033/037; no perfect family, full recovery or universal skill completion. |
+
+Discriminating next opportunities: costly consultation before action, recognition of independent work, respected inconvenient refusal, confirmed expert knowledge and specific repair without renewed entitlement. These are prospective questions, not scored forecasts. C001–015 retained; no new master claim created for volume count.

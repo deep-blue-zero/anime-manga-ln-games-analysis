@@ -1,21 +1,23 @@
 ---
-title: "Norn — Japanese LN evidence routes through V12"
+title: "Norn — Japanese LN evidence routes through V13"
 artifact_id: MT_NORN_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-27"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.1, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.2, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Norn evidence routes
+
+Current revision1.2 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.1 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -44,5 +46,20 @@ The [model](RECONSTRUCTION_MODEL.md) owns six rules, five states and eight retro
 | 004 | ST07 (031) requests sword teaching while still dissenting; desired learning not completed skill. |
 | 005 | ST06 (026) receives actual loss after earlier appeal; no sole responsibility for adult choices/outcome. |
 | 006 | ST07 (029–031) invokes faith alongside betrayal objection; religious reason neither exhaustive nor automatically irrational. Accepts Syl decision without full agreement. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V13 additions for revision 1.2
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST08–ST09 and checks V12–V14. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 9 states and 14 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | Cliff dependence interpretation (006) is attributed, not direct Norn fear proof. ST08 protest/privacy (008/020) must not be reduced to protector-loss anxiety. |
+| 002 | ST08–09 learning/work (008/014/032) does not replicate old public humiliation trigger; ordinary struggle is not withdrawal or inability. |
+| 003 | No new equivalent privately reconsidered family-conflict scene. Rapport/cooperation (021/028) cannot establish generalized empathic accuracy. |
+| 004 | ST08–09 (008/014/020/032) supplies actual effort, authorship, boundaries and preexisting council competence. Her independence is not created when brother notices it. |
+| 005 | No renewed urgent rescue appeal; father memory and birthday (022) not a new causal-responsibility test. |
+| 006 | No fresh religious-adviser dilemma; Cliff opinion about her dependence (006) cannot substitute for her own speech. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -330,3 +330,28 @@ Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-W-030` | Same teleport pair reused; marriage/custom/gender assertions and hair stigma represented. |024–025/030/033; specific route test, attributed social generalizations, no comprehensive cultural law. |
 
 Grave, keepsakes and childbirth connect inheritance to practical obligations. Zenith's actions limit narratorial labels without supplying her inaccessible voice. Written form only: no adaptation, reception or performed voice admitted.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Form record | V13 mechanism | Evidence / alternatives |
+| --- | --- | --- |
+| `MT-F-040` | Opening flashback and ordinary-work montage make repeated practice visible after crisis. |001–014; chronology is not simple uninterrupted present; interval happiness has actual labor. |
+| `MT-F-041` | Withheld water-lesson object produces sexual comic misdirection. |015; reveal revises event classification without undoing voiced refusal/physical pressure. |
+| `MT-F-042` | Revised anticipated motives drive plant, childcare, Sara and council episodes. |010/012/025–026/032; self-correction meaningful, original first-person inference not fact. |
+| `MT-F-043` | Wedding light, parallel hat portraits, comic duel and fruit joy select different emotional registers. |019/023/030–031; illustrations do not diagnose recovery, certify consent or prove motives. |
+| `MT-F-044` | Sports commentary is interrupted by Nanahoshi's protest; personal wounds resist pure spectacle. |030; humor and represented consequences coexist. |
+| `MT-F-045` | Sword-school shifting appraisal plus final future projection widen reader access beyond Rudeus. |034–037; attributed confidence/advice distinguished, no later-source admission. |
+
+| World record | V13 rule or represented institution | Limit |
+| --- | --- | --- |
+| `MT-W-031` | Mana activation/cancellation, prosthetic hand/leg and collaboration materially extend capacity. |003/013; limited sensation/cost, exceptions and unfinished autonomous doll retained; sales only proposed. |
+| `MT-W-032` | Lightning instruction uses compressed magic; Electric shocks its caster in trial. |015–016; R king-level water, Syl saint-level; combat/battle-aura extension untested. |
+| `MT-W-033` | Responsive garden plant is judged through Aisha practice/Roxy expertise and negotiated safeguards. |010; categorical threat corrected, animation mechanism unknown. |
+| `MT-W-034` | Ceremony seating, school privilege, paid care, service rank and expected tribal marriage shape opportunity. |019–022/028/030/032; situated accounts not exhaustive cultural law. |
+| `MT-W-035` | Layered summoning arrays produce watermelon rather than target cabbage; precision help proposed. |031/033; origin inferred from seedlessness, attendance right not unlimited expertise or actual visit. |
+| `MT-W-036` | Sword/Water/Battle styles generate a local three-way advantage rather than transitive ranking. |034–036; styles and individual training contexts matter; Gal's Orsted confidence unverified. |
+
+The bilingual epigraph and author-profile tolerance statement are paratextual frames, not universal narrator truth or ethical permission. Written/visual novel evidence only; no acoustic voice, adaptation or reception added.

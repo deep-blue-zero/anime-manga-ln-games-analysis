@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -425,3 +425,43 @@ Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-K-170` | Nanahoshi's minor school help reported without details. | V12 reading C/E, spine20p671–672; no established changed ultimate motive. |
 
 No former-parent death cause is learned from the dream. Family-search completion is personal, not a verified global end to the displacement's consequences. All earlier knowledge records retain original disclosure ceilings.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V13 ordering | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-072` | Opening teaching-day return looks back to a week after V12 home arrival; later routine moves forward. |001–002; narrated first does not mean after every V12 event. |
+| `MT-T-073` | One month and further three-month markers organize practice/research; wedding follows another month. |008/013–019; preserve relative markers, no invented exact dates. |
+| `MT-T-074` | Shopping two weeks after wedding, fishing and delayed tenth birthdays when sisters already eleven. |020–023; birthday ritual age distinct from actual age. |
+| `MT-T-075` | Autumn approaches winter, escort/reconciliation, graduation and experiment several days later. |024–033; R approaches eighteen, Lucy a little over one; approximate year/half-year accounts not forced into day precision. |
+| `MT-T-076` | Norn council work disclosed after more than a year of existing participation. |032; started before R's return and latest sword lessons. |
+| `MT-T-077` | Interlude includes a month of counter-style training and final further-year projection. |034–037; do not synchronize projected performance with main-sequence present or claim V14 read. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-171` | Roxy corrects whose research permission R can give. |004; he does not own collaborators' access rights. |
+| `MT-K-172` | Linia admits spreading Seven Powers rumor. |005; rumor success not verified rank. |
+| `MT-K-173` | Cliff proposes dependency/fear explanation for Norn's earlier accommodation. |006; persuasive perspective, not Norn's direct testimony or proof Elinalise coached him. |
+| `MT-K-174` | R tests Lucy for reincarnation without decisive result. |007; care commitment independent of answer, no reincarnation diagnosis. |
+| `MT-K-175` | Norn requests privacy; R discovers admirers and writes rules without consulting her. |008–009; protective motive not affected-person knowledge. |
+| `MT-K-176` | Aisha and Roxy correct R's categorical plant danger judgment. |010; local safeguards negotiated; animation cause unresolved. |
+| `MT-K-177` | Suzanne reports premature daughter's later death and care arrangements. |011; light delivery does not establish absence of grief; later Sara supplies career context. |
+| `MT-K-178` | R imagines Zenith deliberately harming Lucy, then rejects baseless fear; observes care. |012; imagined threat no intention evidence, smiles no confirmed recovery. |
+| `MT-K-179` | Water-lesson aim disclosed after sexual framing; voiced pressure remains factual. |015; information withheld from reader does not delete resistance. |
+| `MT-K-180` | R infers magical compression, observes Lightning exhaustion and Electric self-shock. |016; battle-aura use untested; Syl Saint, not King. |
+| `MT-K-181` | Wives disclose uncertainty and later direct mutual agreement. |017–018; R's destiny counterfactual not cosmological fact; Cliff drug knowledge/use unshown. |
+| `MT-K-182` | Family recognizes Zenith smile; letter reveals Paul's earlier birthday wish. |022; dead father's present approval unavailable. |
+| `MT-K-183` | Roxy later describes first felt acceptance after Syl's hat gift. |023; timing is retrospective report, not omniscient access at the gift. |
+| `MT-K-184` | R's anticipated rejection differs from Sara's intended apology; both discuss former motives. |025–026; her explicit romance closure governs current interpretation. |
+| `MT-K-185` | R privately qualifies fidelity vow; Syl supplies specific future terms. |027; no shared knowledge of Eris thought or unlimited authorization. |
+| `MT-K-186` | R guesses lifestyle cause of Nanahoshi's symptoms. |029; symptom observation/treatment response separate from unverified diagnosis. |
+| `MT-K-187` | R mistakes graduation duel as challenge to himself; Nana corrects spectacle attitude. |030; departure rumor not witnessed shared journey. |
+| `MT-K-188` | Experimental fruit initially lacks settled origin; seedlessness supports R's later inference. |031; not independent origin verification or precision summoning success. |
+| `MT-K-189` | Syl reveals Norn's sustained council work; R revises overload objection. |032; brother's ignorance is not absence of work. |
+| `MT-K-190` | Nanahoshi proposes Perugius precision help and possible Zenith inquiry; invitation terms reported. |033; visit/cure not performed or promised as fact. |
+| `MT-K-191` | Reader gains sword-school access unavailable to R; Gal's confidence and Nina's advice remain attributed. |034–037; projected future result not imported later-volume evidence. |
+
+Earlier knowledge ceilings remain immutable. New disclosed old events are not silently dated to the day the reader learns them.

@@ -1,22 +1,24 @@
 ---
-title: "Aisha — bounded Japanese LN reconstruction through V12"
+title: "Aisha — bounded Japanese LN reconstruction through V13"
 artifact_id: MT_AISHA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-27"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.1, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.2, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Aisha: competence, rank and negotiated room for herself
+
+Current revision1.2 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.1 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -34,6 +36,8 @@ The new package is warranted by planning under travel constraints, school/work b
 | `MT-AM-ST04` | Pregnancy/expedition preparations and home role; V11:014/020. | Organizes and mediates naming compromise, but needs adult backup and feels anxiety; CONTEXT. |
 | `MT-AM-ST05` | V12 Household reception and mother reunion under shared grief. | S192; role performance obscures inhibited joy. |
 | `MT-AM-ST06` | V12 Family criticism and childbirth assistance. | S192; learned competence, own judgment and dependency coexist. |
+| `MT-AM-ST07` | V13 Garden expertise and contested privacy. | S206; leverage and negotiated safeguards under dependency. |
+| `MT-AM-ST08` | V13 Recognition, shared birthday and Lucy cooperation. | S206; service role and personal wants coexist. |
 
 Do not give ST01 later household permissions or assume every request is a concealed plan. Her relative age and trained capacity do not remove childhood dependency. Her later desires and any remembered franchise biography remain outside this model.
 
@@ -57,11 +61,11 @@ D0 DIRECT supports represented acts and attributed dialogue; D1 NEAR_ANALOG is c
 
 | Rule / states | Trigger, appraisal and aims | Supported range / negative constraint | Countercase / discriminating test |
 | --- | --- | --- | --- |
-| `MT-AM-001` / ST01–04 | A concrete travel/work objective can be advanced through available information, effort and adult permission/protection. | Can plan, calculate, study or organize effectively; may overwork or need support. Do not infer effortless or universal mastery. | V10:024; V11:001/003/014/020. Exhaustion and failed chantless transfer constrain competence. Repeated failure to use clearly available familiar skills would narrow reliability. V12: ST05–06 (027/033) extends organization and coached birth assistance; not independent universal midwife competence. |
-| `MT-AM-002` / ST02–03 | An authority sets a negotiable condition for a role or preference she wants. | Can identify leverage, mirror register, bargain and satisfy terms; asks for wages and personal room. Motive need not be exclusively deceptive or selfless. | V11:001/003/012. Declines excessive pay; a freely abandoned favorable bargain despite unchanged desired goal would test strength. V12: No new analogous explicit bargain with negotiable terms. Formal role expression (027) not proof of manipulation. |
-| `MT-AM-003` / ST01–03 | Differential treatment activates learned inferior birth rank or comparison with Norn. | Can protest unfairness, disclose hurt or belittle the sibling; logical explanation may produce partial acceptance without full emotional repair. | V10:030; V11:003/009/012. R's equal-sister assurance and reduced belittling qualify permanence; unprompted equal regard on a comparable status conflict would challenge persistence. V12: ST06 (031) rebukes Norn statement implying Lilia illegitimacy; cutting delivery remains, no complete sibling repair. |
-| `MT-AM-004` / ST03–04 | A household need fits practiced service skills, while personal wants remain constrained by the role. | Can perform attentive work and organize others, yet ask for pay, rest, leisure and decoration. Service preference does not prove free adult employment or absent personal aims. | V11:012/014/020. Adult backup explicitly needed; repeated refusal of familiar feasible chosen work solely for inconvenience would narrow transfer. V12: ST05–06 (027/033) skilled service coexists restrained personal joy and reunion; maternal discipline remains, no free adult employment. |
-| `MT-AM-005` / ST02–04 | Familiar family interaction allows a request or mild conflict to be expressed through role-aware speech. | Can switch formal presentation, teasing and direct complaint; distress can disrupt capable performance. No universally cheerful or calculating persona. | V11:001/003/012/020. Fairness hurt and departure anxiety counter complete composure; similar low-risk request voiced without strategy would qualify any overbroad register rule. V12: ST05–06 (027/031/033) formal speech, tears, sibling critique and direct rebuke vary by situation; R misreads restraint, no transparent calculated persona. |
+| `MT-AM-001` / ST01–04 | A concrete travel/work objective can be advanced through available information, effort and adult permission/protection. | Can plan, calculate, study or organize effectively; may overwork or need support. Do not infer effortless or universal mastery. | V10:024; V11:001/003/014/020. Exhaustion and failed chantless transfer constrain competence. Repeated failure to use clearly available familiar skills would narrow reliability. V12: ST05–06 (027/033) extends organization and coached birth assistance; not independent universal midwife competence. V13: ST07 (010/021) shows practiced garden/fishing success rather than effortless omniscience; plant animation cause stays unknown. |
+| `MT-AM-002` / ST02–03 | An authority sets a negotiable condition for a role or preference she wants. | Can identify leverage, mirror register, bargain and satisfy terms; asks for wages and personal room. Motive need not be exclusively deceptive or selfless. | V11:001/003/012. Declines excessive pay; a freely abandoned favorable bargain despite unchanged desired goal would test strength. V12: No new analogous explicit bargain with negotiable terms. Formal role expression (027) not proof of manipulation. V13: ST07 (010) adds secret-shrine leverage in dispute over plant survival and specific conditions; coercive tactic not evidence all earlier warmth calculated. |
+| `MT-AM-003` / ST01–03 | Differential treatment activates learned inferior birth rank or comparison with Norn. | Can protest unfairness, disclose hurt or belittle the sibling; logical explanation may produce partial acceptance without full emotional repair. | V10:030; V11:003/009/012. R's equal-sister assurance and reduced belittling qualify permanence; unprompted equal regard on a comparable status conflict would challenge persistence. V12: ST06 (031) rebukes Norn statement implying Lilia illegitimacy; cutting delivery remains, no complete sibling repair. V13: ST08 matching gifts/birth recognition (022) supplies local inclusion; no full erasure of hierarchy, grief or sibling rivalry. |
+| `MT-AM-004` / ST03–04 | A household need fits practiced service skills, while personal wants remain constrained by the role. | Can perform attentive work and organize others, yet ask for pay, rest, leisure and decoration. Service preference does not prove free adult employment or absent personal aims. | V11:012/014/020. Adult backup explicitly needed; repeated refusal of familiar feasible chosen work solely for inconvenience would narrow transfer. V12: ST05–06 (027/033) skilled service coexists restrained personal joy and reunion; maternal discipline remains, no free adult employment. V13: ST07–08 (010/020/028) includes outside interests, wanted recognition and care cooperation. Competence/cheer neither free adult service nor absence of mourning. |
+| `MT-AM-005` / ST02–04 | Familiar family interaction allows a request or mild conflict to be expressed through role-aware speech. | Can switch formal presentation, teasing and direct complaint; distress can disrupt capable performance. No universally cheerful or calculating persona. | V11:001/003/012/020. Fairness hurt and departure anxiety counter complete composure; similar low-risk request voiced without strategy would qualify any overbroad register rule. V12: ST05–06 (027/031/033) formal speech, tears, sibling critique and direct rebuke vary by situation; R misreads restraint, no transparent calculated persona. V13: ST07–08 (010/020–022) differentiates teasing, leverage, requests and birthday response; R cannot infer all feelings from cheerful style. |
 
 ## Retrospective checks and readiness
 
@@ -86,5 +90,17 @@ Familiar household planning, role bargaining, fairness protest and stated leisur
 | `MT-AM-V08` | Hospitality completed before mother embrace (027). | 001/004 competence not absent need or affection. |
 | `MT-AM-V09` | Norn permits joy, R retracts resentment inference (027). | 005 outside appraisal not inner fact. |
 | `MT-AM-V10` | Criticizes brother/sister and assists under Lilia guidance (031/033). | 001/003/005 independent judgment with childhood dependency. |
+
+Earlier IDs and calibration rows remain. D0 DIRECT covers represented acts, attributed reports and interiority; D1 NEAR_ANALOG is limited to named contexts. Scene confidence high, mechanism confidence moderate. No numerical forecast, clean holdout, diagnosis, future knowledge, global enrollment or DOMAIN_READY. All admitted domains remain BOUNDED_PROVISIONAL; unsupported contexts require abstention.
+
+## V13 diagnostic checks and revision 1.2
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) own source evidence; V13 reading Section K owns this maintenance decision. Current totals: 5 rules, 8 selectors and 13 retrospective checks. New applicability is limited by each rule's V13 qualification.
+
+| Test | V13 opportunity / outcome | Result / debt |
+| --- | --- | --- |
+| `MT-AM-V11` | Defends plant through expertise and leverage, negotiates conditions (010). | 001/002 situated knowledge, privacy intrusion and blackmail both retained. |
+| `MT-AM-V12` | Preferences extend beyond service, gifts recognize equal daughter status (020/022). | 003/004 local recognition without rank abolition. |
+| `MT-AM-V13` | Cooperates around Lucy after sibling rivalry (028). | 004/005 local agreement, not proof universal repair. |
 
 Earlier IDs and calibration rows remain. D0 DIRECT covers represented acts, attributed reports and interiority; D1 NEAR_ANALOG is limited to named contexts. Scene confidence high, mechanism confidence moderate. No numerical forecast, clean holdout, diagnosis, future knowledge, global enrollment or DOMAIN_READY. All admitted domains remain BOUNDED_PROVISIONAL; unsupported contexts require abstention.

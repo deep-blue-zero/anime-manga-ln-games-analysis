@@ -1,22 +1,24 @@
 ---
-title: "Nanahoshi — bounded Japanese LN reconstruction through V11"
+title: "Nanahoshi — bounded Japanese LN reconstruction through V13"
 artifact_id: MT_NANAHOSHI_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
-source_boundary: "Japanese LN V01–V11; V11 revision 1.2, historical evidence and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.3, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Nanahoshi evidence routes
+
+Current revision1.3 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key Nanahoshi, continuity LN_JP; global IDs null. The [model](RECONSTRUCTION_MODEL.md) initially owned five rules and six retrospective tests; current counts and V10 constraints are in the model. Observation numbers below resolve in [V09](../../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. Shared IDs resolve in the [state](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md), [knowledge](../../03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md), [normative](../../03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md) and [relationship](../../03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md) ledgers.
 
@@ -48,3 +50,18 @@ No duplicate source chronology, generated evidence or global enrollment. BOUNDED
 | Rule006 | No repeated major crisis in V11; ST05–06 remains a narrowly observed episode, not predictively validated by calmer sociability. |
 
 Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.
+
+## V13 additions for revision 1.3
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST09–ST10 and checks V14–V16. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 10 states and 16 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST09–10 (029/031/033) continues staged return research despite illness; success/joy no cure or acceptance of permanent exile. |
+| 002 | ST10 (031) explicitly distributes array design, craft, enchantment and mana among collaborators; limited attendance can serve containment as well as access. |
+| 003 | ST10 third-stage fruit result (031) is success with wrong target, not exact preliminary-failure repetition. Precision remains next research problem. |
+| 004 | ST10 (031/033) supplies specific guest/invitation rules and proposed contact; partial opening not universal waiver of boundaries or independently verified origin. |
+| 005 | No new shared-origin causal-blame confrontation. Rebuking R at duel (030) is an ordinary normative disagreement, not replicated displacement apology. |
+| 006 | No new perceived terminal project failure. ST09–10 symptoms and fruit joy (029/031) cannot be scored as relapse/cure of ST05 distress. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

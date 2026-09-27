@@ -1,21 +1,23 @@
 ---
-title: "Roxy — reconstruction evidence routes through V12"
+title: "Roxy — reconstruction evidence routes through V13"
 artifact_id: MT_ROXY_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.3, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.4, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Roxy evidence routes
+
+Current revision1.4 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.3 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -57,5 +59,20 @@ Source-owned observations in [V10](../../02%20Sequential%20Readings/MT_V10_DEEP_
 | 004 | ST08–10 (008–009/019/023–024) recognition error and late marriage information differ from denial. Explicit pregnancy correction updates a false premise; no all-context candor. |
 | 005 | ST07 parents memory (007) is retrospective, not a new telepathy/family-reunion opportunity. This narrow rule remains UNTESTED. |
 | 006 | ST08–10 (009/020–024/030/032) includes direct requests, explanation, confession and refusal despite affection; outward composure not proof of comfort. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V13 additions for revision 1.4
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST11–ST12 and checks V18–V21. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 12 states and 21 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST11 (002/010/015–016/024) expands teaching, plant expertise and field planning; mana exhaustion and need for backup constrain ability, own work choice remains. |
+| 002 | ST11 (002/004/016) contrasts her expertise with inflated master praise and her request to be introduced as wife as well as teacher; pupil success does not erase her work or limits. |
+| 003 | No new missing-family search opportunity. ST11 escort care is professional aid, not repeated search-priority trigger. |
+| 004 | ST12 (017/023) exposes insecurity and later felt welcome; no repeated recognition/identity-denial trial, so not a generalized resistance-to-facts test. |
+| 005 | ST12 hat gift (023) is a near analogy for perceptible belonging, not a repetition of inaccessible Migurd telepathy. Parents visit is discussed/declined now (002), not actual reunion. |
+| 006 | ST11–12 (004/010/015/017/023–024) offers correction, refusal, specialist explanation and explicit acceptance report. Resistance remains genuine after lesson reveal; no generic compliant spouse voice. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

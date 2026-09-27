@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -445,3 +445,37 @@ Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-NC-066` | Norn permits Aisha voice, then assumes Syl's voice. |027/029–031; contextual agency, no uniformly accurate advocate. |
 | `MT-NC-067` | Public welcome versus private abandonment fear and asymmetric standard. |030; choice and constrained terms coexist; test later inconvenient terms. |
 | `MT-NC-068` | Paul's death/R's parenthood versus historical coercion and renewed violent thought. |014–017/029/033–034; development real in named practices, no universal moral completion. |
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / affected-person access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-181` | R offers others' research access; Roxy corrects authority. |004; support for spouse's work does not authorize coworkers' participation. |
+| `MT-N-182` | Linia false rumor, R tail-pulling/threat followed by apology. |005; prior wrongdoing not permission for retaliation; apology specific. |
+| `MT-N-183` | Cliff names material dependence in Norn's earlier agreement. |006; relevant constraint, not proof of her unspoken fear or nullification of all agency. |
+| `MT-N-184` | Wanted sword instruction includes bruises, quit threat and revised severity. |008; Norn's wish to continue and R's doubts both retained. |
+| `MT-N-185` | Admirers protest harshness while objectifying Norn; R regulates without consulting her. |009; protection can coexist unilateral control and possessive social framing. |
+| `MT-N-186` | R enters Aisha's private room/drawers, discovers plant; she uses secret shrine as leverage, he covers mouth. |010; age/dependence and each specific action separated; correct plant knowledge no all-purpose vindication. |
+| `MT-N-187` | Suzanne's bereavement and Zenith's care are interpreted from limited access. |011–012; cheer not grief absence; imagined deliberate harm promptly disowned, no factual intent. |
+| `MT-N-188` | R restrains reluctant Roxy during lesson request; Syl rejects marriage as blanket permission. |015; comic reveal does not erase pressure; later agreed instruction matters separately. |
+| `MT-N-189` | Wives articulate insecurity, boundaries and particular mutual agreement. |017–018/020/027; choice and unequal standards coexist; no permanent universal permission. |
+| `MT-N-190` | Elinalise mediates while receiving aphrodisiac; later use and Cliff knowledge unrepresented. |018; retain precise gap, do not assert dosing or informed agreement. |
+| `MT-N-191` | R hugs/kisses protesting Norn while other people ask for or welcome affection. |020; identical intention does not equal preferred treatment. |
+| `MT-N-192` | Aisha recognition beyond service, equal sister gifts and Lilia birth-status statement. |020/022; local acknowledgment with continuing worker hierarchy. |
+| `MT-N-193` | R avoids Sara, then apologizes; she offers own apology and explicitly closes romance. |025–026; no obligation to cure him, no hidden renewed invitation, no ranking women by usefulness. |
+| `MT-N-194` | Graduates choose duel within imposed-marriage pressure; spectators joke, Nana protests and aids. |030; choice constrained, wound healing refused but ordinary care accepted. |
+| `MT-N-195` | R distrusts Norn workload until learning long-standing independent success. |032; correction meaningful, permission hierarchy persists. |
+| `MT-N-196` | Nina/Eris agree training arrangement while Isolte unconscious; later reciprocal learning. |035–037; eventual collaboration not retroactive consultation. |
+
+| Contrast | V13 longitudinal test | Result / next opportunity |
+| --- | --- | --- |
+| `MT-NC-069` | Family safety/affection versus privacy, protest and consultation. |008–010/020/032; selective improvement, durable respect still testable. |
+| `MT-NC-070` | Comic lesson reveal versus actual refusal/pressure; later intimate agreement. |015/018; permission event-specific, neither all scenes consensual nor all agreement void. |
+| `MT-NC-071` | Gratitude/repayment versus Sara's independent career and closed romance. |024–027; repair without romantic reward possible, future boundary should remain explicit. |
+| `MT-NC-072` | Gifts/smiles/progress versus continuing hierarchy, grief and illness. |011–012/022/028–031; visible improvement not universal cure or equality. |
+| `MT-NC-073` | Narrated independent activity versus protagonist's delayed awareness. |002/014/024/026/032/034–037; knowledge correction not origin of others' agency. |
+
+Marital material treated non-graphically. Character health explanations remain attributed literary evidence, not medical guidance. The author-profile tolerance statement does not resolve specific consent or power questions.

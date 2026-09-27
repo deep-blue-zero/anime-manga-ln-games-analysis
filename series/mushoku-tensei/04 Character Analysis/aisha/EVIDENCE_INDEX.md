@@ -1,21 +1,23 @@
 ---
-title: "Aisha — Japanese LN evidence routes through V12"
+title: "Aisha — Japanese LN evidence routes through V13"
 artifact_id: MT_AISHA_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-27"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.1, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.2, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Aisha evidence routes
+
+Current revision1.2 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.1 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -42,5 +44,19 @@ The [model](RECONSTRUCTION_MODEL.md) owns five rules, four states and seven retr
 | 003 | ST06 (031) rebukes Norn statement implying Lilia illegitimacy; cutting delivery remains, no complete sibling repair. |
 | 004 | ST05–06 (027/033) skilled service coexists restrained personal joy and reunion; maternal discipline remains, no free adult employment. |
 | 005 | ST05–06 (027/031/033) formal speech, tears, sibling critique and direct rebuke vary by situation; R misreads restraint, no transparent calculated persona. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V13 additions for revision 1.2
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST07–ST08 and checks V11–V13. The [model](RECONSTRUCTION_MODEL.md) owns 5 rules, 8 states and 13 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST07 (010/021) shows practiced garden/fishing success rather than effortless omniscience; plant animation cause stays unknown. |
+| 002 | ST07 (010) adds secret-shrine leverage in dispute over plant survival and specific conditions; coercive tactic not evidence all earlier warmth calculated. |
+| 003 | ST08 matching gifts/birth recognition (022) supplies local inclusion; no full erasure of hierarchy, grief or sibling rivalry. |
+| 004 | ST07–08 (010/020/028) includes outside interests, wanted recognition and care cooperation. Competence/cheer neither free adult service nor absence of mourning. |
+| 005 | ST07–08 (010/020–022) differentiates teasing, leverage, requests and birthday response; R cannot infer all feelings from cheerful style. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

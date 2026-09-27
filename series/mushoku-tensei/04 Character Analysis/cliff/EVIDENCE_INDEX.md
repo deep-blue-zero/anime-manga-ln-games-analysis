@@ -1,22 +1,24 @@
 ---
-title: "Cliff — bounded Japanese LN reconstruction through V11"
+title: "Cliff — bounded Japanese LN reconstruction through V13"
 artifact_id: MT_CLIFF_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
-source_boundary: "Japanese LN V01–V11; V11 revision 1.2, historical evidence and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.3, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Cliff evidence routes
+
+Current revision1.3 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key Cliff, continuity LN_JP; global IDs null. The [model](RECONSTRUCTION_MODEL.md) initially owned five rules and six retrospective tests; current counts and V10 constraints are in the model. Observation numbers below resolve in [V09](../../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. Shared IDs resolve in the [state](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md), [knowledge](../../03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md), [normative](../../03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md) and [relationship](../../03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md) ledgers.
 
@@ -47,3 +49,17 @@ No duplicate source chronology, generated evidence or global enrollment. BOUNDED
 | Rule005 | Extend005 to ST09 (033–034): notices tears and supplies role-based help, discloses limits; initially dismissive speech hurts, recipient objects, useful outcome not therapeutic infallibility. |
 
 Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.
+
+## V13 additions for revision 1.3
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST10–ST11 and checks V13–V15. The [model](RECONSTRUCTION_MODEL.md) owns 5 rules, 11 states and 15 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST10–11 (003/013/028/031) yields concrete device/array contributions and continued schooling; no universal solitary genius or completed curse cure. |
+| 002 | No comparable new hierarchy-reversal trial; shared work (003/031) continues established collaboration, not a fresh test of initial contempt. |
+| 003 | No equivalent attack on partner. ST10 candid rebuke of R (006) is verbal perspective-taking, not replicated physical escalation. |
+| 004 | ST11 (019) marriage/home choices extend chosen commitment under limited resources; financial help declined, lifelong outcome and curse solution remain open. |
+| 005 | ST10 (006) articulates dependency and offers church help; informed advice still inference about Norn. Attribution to El coaching is R guess. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

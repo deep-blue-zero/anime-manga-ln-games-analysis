@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.12"
+version: "1.13"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -372,3 +372,36 @@ Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-R-218` / parents/caregivers → Lucy | Birth support, affection and new declared duty. |033–034; no demonstrated long-term parenting performance; hair stigma persists. |
 
 Directions sharing a row are linked only for the represented exchange, not collapsed into identical motives. No marriage label supplies universal consent; no act of mourning assigns every survivor the same obligation or recovery timetable.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V13 exchange / information | Limit / next test |
+| --- | --- | --- |
+| `MT-R-219` / Roxy → Rudeus | Corrects research permission, plant judgment, teaches advanced water and voices limits. |004/010/015–016; teacher expertise and spouse status distinct. |
+| `MT-R-220` / Rudeus → Roxy | Supports job, admires work, pressures request, offers reassurance and backup. |002/015/017/024; care not universal respect for refusal or professional ownership. |
+| `MT-R-221` / Sylphiette → Rudeus | States marriage is no blanket permission, encourages Sara repair, offers specific future terms. |015/025/027; terms not unlimited spouse acquisition, insecurity remains. |
+| `MT-R-222` / Rudeus → Sylphiette | Affection/reassurance and stated fidelity coexist private Eris qualification. |004/017/027; unspoken thought not shared household agreement. |
+| `MT-R-223` / Sylphiette ↔ Roxy | Particular mutual agreement and hat gift/received recognition. |018/023; Roxy's acceptance description is later report; no identical motives assumed. |
+| `MT-R-224` / Norn → Rudeus | Requests privacy, persists in lessons, refuses affection and pursues outside work. |008/020/032; desire for teaching no general bodily permission. |
+| `MT-R-225` / Rudeus → Norn | Scales lessons, administers fan-club rules, kisses despite protest, revises council objection. |008–009/020/032; safety and affection coexist unilateral authority. |
+| `MT-R-226` / Aisha → Rudeus | Defends plant with expertise/leverage, wants recognition beyond labor. |010/020; dependent child with strategy, not transparent manipulator or adult employee. |
+| `MT-R-227` / Rudeus → Aisha | Intrudes privately, accepts plant correction with conditions, recognizes varied preferences. |010/020–022; learning local, secrecy and coercion still visible. |
+| `MT-R-228` / Norn ↔ Aisha | Shared birthday and observed cooperation around Lucy. |022/028; overheard truce not proof all sibling rivalry ended. |
+| `MT-R-229` / Lilia → daughters | Matching gifts acknowledge Paul's two daughters. |022; household service hierarchy not abolished. |
+| `MT-R-230` / Zenith ↔ household | Initiated care and smiles receive shared recognition. |007/012/022/028; no invented interior speech or diagnosed recovery. |
+| `MT-R-231` / Cliff → Rudeus | Practical collaboration and critique of treating dependent women as acquired objects. |003/006/013; advice useful, interpretation of Norn still attributed. |
+| `MT-R-232` / Zanoba ↔ researchers | Prosthetic/doll/array collaboration includes autonomous craft purposes and Juli's work. |003/013–014/031; R is contributor, not sole creator or owner. |
+| `MT-R-233` / Cliff ↔ Elinalise | Modest wedding, proposed financial help declined, continued schooling. |018–019/028; later fidelity/lifespan outcome untested; drug administration unshown. |
+| `MT-R-234` / Suzanne → Rudeus | Shares family loss/work and parenting experience. |011; casual manner not grief resolution or universal care prescription. |
+| `MT-R-235` / Sara → Rudeus | Intended apology, frank past discussion, praise with comparison rebuke, explicit friendship. |025–026; romance closed, no covert invitation inferred. |
+| `MT-R-236` / Rudeus → Sara | Avoidance hurts, apology offered, rebound motive admitted, unwanted touch restrained. |025–026; actual repair without making her a failed treatment provider. |
+| `MT-R-237` / Roxy → escort party | Professional knowledge and practical leadership; recruitment declined for current work. |024; agency not merely husband's protection or reward. |
+| `MT-R-238` / Nanahoshi → graduates / researchers | Rebukes spectacle, assists wounded friend, shares joy and proposes next research contact. |030–033; sociability and ongoing return aim/illness coexist. |
+| `MT-R-239` / Linia ↔ Pursena | Duel selects divergent paths within expected-marriage constraint; wound memory preserved. |030; chosen contest not absence of coercive context; rumor not shared journey fact. |
+| `MT-R-240` / Eris ↔ Nina / Isolte | Complementary training, shared Ruijerd-derived technique, mediated understanding and rest advice. |034–037; unconsciously assigned partner initially unconsulted, advice partly invented. |
+| `MT-R-241` / remembered Paul / Ruijerd → present interpretation | Letter/memory/attributed teaching inform gift, parenting and training. |011/022/036–037; no current speech, approval or new encounter invented. |
+
+Shared rows indicate a particular exchange, not identical motives or power. Independent work is not dated to the moment Rudeus learns of it. Every plan remains distinct from its later realization.

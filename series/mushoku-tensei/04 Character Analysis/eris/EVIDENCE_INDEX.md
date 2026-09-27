@@ -1,21 +1,23 @@
 ---
-title: "Eris — reconstruction evidence routes through V10"
+title: "Eris — reconstruction evidence routes through V13"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
-source_boundary: "Japanese LN V01–V10; V10 revision 1.4, historical routes preserved."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.5, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Eris evidence routes
+
+Current revision1.5 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key Eris, LN_JP; global entity/subject IDs null. This index routes the [model](RECONSTRUCTION_MODEL.md) to canonical observations, never a second source chronology. VNN:NNN abbreviates `MT-E-LNJP-VNN-NNN`.
 
@@ -72,3 +74,18 @@ New selectors: ST09 (S130), ST10 (S130). Prior test/evidence routes remain histo
 ## V10 additions — revision 1.4
 
 [V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `027–029` support new selectors ST11 / shared S153 and tests V18, V19, V20. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.
+
+## V13 additions for revision 1.5
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST12–ST13 and checks V21–V23. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 13 states and 23 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST12–13 (034–037) adds matchup-specific defeat, shared technique and chosen rest; intense effort now permits modification, rank not transitive ladder. |
+| 002 | No equivalent threat-to-loved-person trigger. Training bouts are agreed/structured differently; do not translate combat success into protective proportionality. |
+| 003 | ST13 advice accepted partly through remembered R (037); Nina account partly invented, no new informed reunion with R or knowledge of his marriage. |
+| 004 | ST12–13 (035–036) provides reciprocal peer exchange after complementary skill recognized; Isolte initially unconscious/unconsulted, so later collaboration not retroactive permission. |
+| 005 | No comparable intimate boundary or gift encounter; memory and bath choice (037) do not authorize imagined current romance. |
+| 006 | ST12–13 (036–037) gives concrete explanation, listening and direct request for clarification; Isolte mediation improves uptake, no rigid inarticulate persona. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

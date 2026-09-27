@@ -1,22 +1,24 @@
 ---
-title: "Norn — bounded Japanese LN reconstruction through V12"
+title: "Norn — bounded Japanese LN reconstruction through V13"
 artifact_id: MT_NORN_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-27"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.1, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.2, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Norn: safety, comparison and chosen preparation
+
+Current revision1.2 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.1 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -35,6 +37,8 @@ The operational advance over a ledger description is variation: family conflict,
 | `MT-NOM-ST05` | One month later, worry, church practice and Cliff conversation; V11:032–034. | Self-blame not proven causal verdict; chosen study/prayer, long-term effect unknown; PRACTICE/KNOWLEDGE. |
 | `MT-NOM-ST06` | V12 Death report, visible injury, grief and support for Aisha. | S191; effort acknowledged, counterfactual impossibility unproved. |
 | `MT-NOM-ST07` | V12 Marriage objection, excessive proxy speech, remaining attachment and lessons. | S191; unresolved disagreement not relationship rejection. |
+| `MT-NOM-ST08` | V13 Sword learning, privacy, authorship and birthday. | S204; wants instruction and refuses particular touch. |
+| `MT-NOM-ST09` | V13 Council work disclosed after established participation. | S205; revealed old activity, independent of new instruction. |
 
 Do not put ST03's confidence in ST02 or give any state the reader's full travel knowledge. Rudeus does not know the whole account she supplies to the reader. Her belief that he will not hit her is an appraisal, not a reliable prediction of every future circumstance. The exact present age should not be reconstructed by summing uncertain travel intervals; she is represented as a dependent child, with limited resources and real choices.
 
@@ -60,12 +64,12 @@ D0 DIRECT supports actions and explicit interiority; D1 NEAR_ANALOG applies only
 
 | Rule / states | Trigger, appraisal and competing aims | Supported range / negative constraint | Countercase and possible disconfirmation |
 | --- | --- | --- | --- |
-| `MT-NOM-001` / ST01–02 | A trusted protector may be lost or a feared family member controls safety; reasons can be understood without felt security. | Can resist separation, seek a familiar protector or request distance while still wanting the family together. Do not equate reluctance with inability to understand. | V10:030–032; V11:003/009. Trust can change through observed care; repeated safe comparable separation freely welcomed would narrow persistence. V12: ST06 (026) brings actual protector death, not merely separation fear; grief and visible-injury correction need distinct context. |
-| `MT-NOM-002` / ST02 | Public comparison and knowledge gaps make competence/acceptance feel unattainable, amid an already feared relationship. | Can interpret permission as rejection, avoid contact or withdraw; rumors may intensify fear. No default diagnosis or inference of low innate capacity. | V11:007/009. Later friends and requested teaching counter invariant incapacity. Comparable criticism met with prompt clarification would qualify the mechanism. V12: No new equivalent public comparison/withdrawal trigger; mourning (026) cannot be scored against old withdrawal rule. |
-| `MT-NOM-003` / ST02–03 | Her own hurt makes another person's conflict intelligible; the feared person visibly admits uncertainty and does not coerce. | Can privately reconsider, approach, apologize and accept comfort; full explanation need not be shared. No sole-rescuer or guaranteed instantaneous cure. | V11:009–010. Her reflection precedes encounter; continued rejection under a comparable newly safe interaction would challenge transfer. V12: ST06–07 (026–031) revises accusation through evidence and perceives Aisha needs, but oversteps speaking for Syl. Empathy is contextual, not uniform accuracy. |
-| `MT-NOM-004` / ST03 | A manageable learning/peer opportunity permits a self-chosen aim rather than forced comparison. | Can ask for instruction, protect friend privacy and contribute authored work. Affection does not eliminate refusal. | V11:011. Pride of brother not proof of talent; repeated abandonment of similarly chosen accessible work would narrow persistence, not prove laziness. V12: ST07 (031) requests sword teaching while still dissenting; desired learning not completed skill. |
-| `MT-NOM-005` / ST04–05 | Family rescue seems urgent while her own capacity is inadequate, followed by absence of news. | Can appeal to a more capable relative, attempt too much, then worry about costs to others and her own causal role. Do not certify sole responsibility or predict actual death. | V11:016/032–033. Accepts bounded home role; new proportionate help without self-blame would qualify broadening. V12: ST06 (026) receives actual loss after earlier appeal; no sole responsibility for adult choices/outcome. |
-| `MT-NOM-006` / ST05 | An inherited practice or trusted-role adviser offers meaning for helpless waiting, but explanation has moral or practical gaps. | Can seek comfort, question efficacy, disclose worry, challenge a lesson and adopt a chosen effort/prayer routine. No automatic credulity or religious rejection. | V11:032–034, one extended cluster. Her abandonment objection is a countercase to passive assent; future similar advice accepted without scrutiny would test scope. V12: ST07 (029–031) invokes faith alongside betrayal objection; religious reason neither exhaustive nor automatically irrational. Accepts Syl decision without full agreement. |
+| `MT-NOM-001` / ST01–02 | A trusted protector may be lost or a feared family member controls safety; reasons can be understood without felt security. | Can resist separation, seek a familiar protector or request distance while still wanting the family together. Do not equate reluctance with inability to understand. | V10:030–032; V11:003/009. Trust can change through observed care; repeated safe comparable separation freely welcomed would narrow persistence. V12: ST06 (026) brings actual protector death, not merely separation fear; grief and visible-injury correction need distinct context. V13: Cliff dependence interpretation (006) is attributed, not direct Norn fear proof. ST08 protest/privacy (008/020) must not be reduced to protector-loss anxiety. |
+| `MT-NOM-002` / ST02 | Public comparison and knowledge gaps make competence/acceptance feel unattainable, amid an already feared relationship. | Can interpret permission as rejection, avoid contact or withdraw; rumors may intensify fear. No default diagnosis or inference of low innate capacity. | V11:007/009. Later friends and requested teaching counter invariant incapacity. Comparable criticism met with prompt clarification would qualify the mechanism. V12: No new equivalent public comparison/withdrawal trigger; mourning (026) cannot be scored against old withdrawal rule. V13: ST08–09 learning/work (008/014/032) does not replicate old public humiliation trigger; ordinary struggle is not withdrawal or inability. |
+| `MT-NOM-003` / ST02–03 | Her own hurt makes another person's conflict intelligible; the feared person visibly admits uncertainty and does not coerce. | Can privately reconsider, approach, apologize and accept comfort; full explanation need not be shared. No sole-rescuer or guaranteed instantaneous cure. | V11:009–010. Her reflection precedes encounter; continued rejection under a comparable newly safe interaction would challenge transfer. V12: ST06–07 (026–031) revises accusation through evidence and perceives Aisha needs, but oversteps speaking for Syl. Empathy is contextual, not uniform accuracy. V13: No new equivalent privately reconsidered family-conflict scene. Rapport/cooperation (021/028) cannot establish generalized empathic accuracy. |
+| `MT-NOM-004` / ST03 | A manageable learning/peer opportunity permits a self-chosen aim rather than forced comparison. | Can ask for instruction, protect friend privacy and contribute authored work. Affection does not eliminate refusal. | V11:011. Pride of brother not proof of talent; repeated abandonment of similarly chosen accessible work would narrow persistence, not prove laziness. V12: ST07 (031) requests sword teaching while still dissenting; desired learning not completed skill. V13: ST08–09 (008/014/020/032) supplies actual effort, authorship, boundaries and preexisting council competence. Her independence is not created when brother notices it. |
+| `MT-NOM-005` / ST04–05 | Family rescue seems urgent while her own capacity is inadequate, followed by absence of news. | Can appeal to a more capable relative, attempt too much, then worry about costs to others and her own causal role. Do not certify sole responsibility or predict actual death. | V11:016/032–033. Accepts bounded home role; new proportionate help without self-blame would qualify broadening. V12: ST06 (026) receives actual loss after earlier appeal; no sole responsibility for adult choices/outcome. V13: No renewed urgent rescue appeal; father memory and birthday (022) not a new causal-responsibility test. |
+| `MT-NOM-006` / ST05 | An inherited practice or trusted-role adviser offers meaning for helpless waiting, but explanation has moral or practical gaps. | Can seek comfort, question efficacy, disclose worry, challenge a lesson and adopt a chosen effort/prayer routine. No automatic credulity or religious rejection. | V11:032–034, one extended cluster. Her abandonment objection is a countercase to passive assent; future similar advice accepted without scrutiny would test scope. V12: ST07 (029–031) invokes faith alongside betrayal objection; religious reason neither exhaustive nor automatically irrational. Accepts Syl decision without full agreement. V13: No fresh religious-adviser dilemma; Cliff opinion about her dependence (006) cannot substitute for her own speech. |
 
 ## Retrospective checks and readiness
 
@@ -91,5 +95,17 @@ Fear/appraisal in these family settings, ordinary learning/peer boundaries and t
 | `MT-NOM-V09` | Effort acknowledged after report/injury, grief remains (026). | 001/003 no universal grief ranking or counterfactual certainty. |
 | `MT-NOM-V10` | Enables Aisha voice, then speaks for Syl (027/029–030). | 003 same person accurate and overreaching under different conditions. |
 | `MT-NOM-V11` | Retains objection yet asks lessons and values brother (031). | 004/006 attachment not enforced agreement. |
+
+Earlier IDs and calibration rows remain. D0 DIRECT covers represented acts, attributed reports and interiority; D1 NEAR_ANALOG is limited to named contexts. Scene confidence high, mechanism confidence moderate. No numerical forecast, clean holdout, diagnosis, future knowledge, global enrollment or DOMAIN_READY. All admitted domains remain BOUNDED_PROVISIONAL; unsupported contexts require abstention.
+
+## V13 diagnostic checks and revision 1.2
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) own source evidence; V13 reading Section K owns this maintenance decision. Current totals: 6 rules, 9 selectors and 14 retrospective checks. New applicability is limited by each rule's V13 qualification.
+
+| Test | V13 opportunity / outcome | Result / debt |
+| --- | --- | --- |
+| `MT-NOM-V12` | Requests privacy and continues wanted but bruising lessons (008). | 004 preference specific; training conditions still matter. |
+| `MT-NOM-V13` | Contributes story, refuses unwanted affection (014/020). | 004 authorship/attachment no blanket bodily permission. |
+| `MT-NOM-V14` | Long-established council work corrects R objection (032). | 004 competence predates disclosure;002 not tested by unrelated task. |
 
 Earlier IDs and calibration rows remain. D0 DIRECT covers represented acts, attributed reports and interiority; D1 NEAR_ANALOG is limited to named contexts. Scene confidence high, mechanism confidence moderate. No numerical forecast, clean holdout, diagnosis, future knowledge, global enrollment or DOMAIN_READY. All admitted domains remain BOUNDED_PROVISIONAL; unsupported contexts require abstention.

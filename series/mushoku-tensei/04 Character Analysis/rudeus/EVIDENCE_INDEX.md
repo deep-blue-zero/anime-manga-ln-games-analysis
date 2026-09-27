@@ -1,21 +1,23 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V12"
+title: "Rudeus — reconstruction evidence routes through V13"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.9, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.10, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
+
+Current revision1.10 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.9 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -164,5 +166,23 @@ Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospec
 | 007 | No current shared Ruijerd encounter; earlier memory/green-hair association (033) is not a new interpersonal test. |
 | 008 | ST43/45–46 (011/014/022–024/027/030) includes time for group inquiry, deferred spouse agreement and a care decision where he would permit no objection. Consultation remains selective. |
 | 009 | ST43–46 (001/012/017–018/024–027/034) distinguishes forecast, genre convention, totalizing label and correction. His imagined Paul and inferred Lise lie do not become facts. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V13 additions for revision 1.10
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST47–ST49 and checks V68–V73. The [model](RECONSTRUCTION_MODEL.md) owns 9 rules, 49 states and 73 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST47 (003/013/016/031) adds prosthetic use, compressed magic and shared experiments; self-shock, costly devices and imperfect result constrain transfer. |
+| 002 | ST47–48 (008/014/032) contrasts wanted Norn teaching and excessive severity; her council work predates latest instruction, so do not credit him with creating it. |
+| 003 | ST48 (009–010/031) includes unilateral admirer rules, secret shrine leverage and private containment purpose for attendance restrictions; not every protection plan is a fully coordinated script. |
+| 004 | ST49 (025) supplies anticipated rejection/avoidance without acute grief collapse; reachable conversation and Syl encouragement permit repair. Distinct from ST44 bereavement. |
+| 005 | ST47–49 (005/010/012/015/020/025–026) includes apologies, care and restrained touch beside resisted lesson request and unwanted kiss. Familiarity does not predict permission-sensitive restraint. |
+| 006 | No equivalent Eris-return entrapment trigger; training pressure and household authority do not make this specific rule universal. |
+| 007 | No new Ruijerd encounter. His teaching appears through Eris (036), unavailable to R; no new R reciprocity test. |
+| 008 | ST47–48 (004/009/015/032) requires authority limits: others research not his to grant, Norn unconsulted in club rules, later workload objection corrected. Collaboration and consultation remain selective. |
+| 009 | ST47–49 (007/010–012/025/029–032) separates comic speculation, diagnosis guess, rumor and inference from learned correction. Self-correction cannot retroactively turn earlier guesses into facts. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

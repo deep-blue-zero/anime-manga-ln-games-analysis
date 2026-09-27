@@ -1,21 +1,23 @@
 ---
-title: "Elinalise — Japanese LN evidence routes through V12"
+title: "Elinalise — Japanese LN evidence routes through V13"
 artifact_id: MT_ELINALISE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.2, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.3, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Elinalise evidence routes
+
+Current revision1.3 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.2 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -60,5 +62,20 @@ Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospec
 | 004 | No fresh reputation/kinship concealment trigger. Invoked grandmother duty (024) is an accepted relationship, not repeat ST04. |
 | 005 | ST10 (019/024) protects fidelity and values friendship while advising asymmetric household change; cannot assume every party fully informed. |
 | 006 | ST09–10 (002/013/019/024/028) apology, firm refusal, persuasion and shared-responsibility language; pregnancy denial contradicts premise but exact lie intent remains unverified. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V13 additions for revision 1.3
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST11–ST12 and checks V17–V19. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 12 states and 19 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST11–12 (018–019/028) includes practical preparation and help; no new expedition leadership test. |
+| 002 | ST11 mediation (018) not an invitation to her own intimacy or proof curse-driven universal availability. Drug receipt not documented use. |
+| 003 | ST11–12 (018–019) mediation and declined financial offer require others decisions remain distinct; no automatic claim every negotiation is fully informed. |
+| 004 | No new reputation/kinship concealment trigger. Wedding family participation does not retrospectively remove past fear. |
+| 005 | ST11–12 (019/028) marriage and continued work/study extend chosen bond; lifelong fidelity and lifespan effects remain forecast, not tested outcome. |
+| 006 | ST11–12 (018–019) social fluency and mediation coexist incomplete access to private terms; no invented Cliff drug dialogue. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

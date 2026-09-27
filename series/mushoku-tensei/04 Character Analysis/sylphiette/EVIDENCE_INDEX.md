@@ -4,19 +4,21 @@ artifact_id: MT_SYLPHIETTE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
-source_boundary: "Japanese LN V01–V12; V12 revision 1.4, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
+source_boundary: "Japanese LN V01–V13; V13 revision 1.5, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Sylphiette evidence routes
+
+Current revision1.5 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.4 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -84,5 +86,21 @@ Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospec
 | 005 | ST15 (030) is household equality discussion, not new political recruitment test; work loyalty to Ariel not silently revoked by motherhood. |
 | 006 | No repeated culpable-catastrophe accusation trigger; grief report (026) not equivalent attack opportunity. |
 | 007 | No repeated subordinate-invitation enforcement trigger; intervention toward Norn (030) not same hierarchy decision. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V13 additions for revision 1.5
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST17–ST18 and checks V25–V28. The [model](RECONSTRUCTION_MODEL.md) owns 7 rules, 18 states and 28 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST17 (016) participates in instruction and reaches saint-level water, not R king-level result. Different outcome does not mean absent study. |
+| 002 | ST17–18 (017/023/025/028) combines practical welcome, work and encouragement; attachment need not eliminate insecurity or independent ties. |
+| 003 | ST17 insecurity (017) is not delayed-name situation. ST18 direct encouragement (025) further limits any generalized inhibition rule. |
+| 004 | ST17–18 (015/018/020/027) explicitly rejects blanket marital permission and negotiates particular terms; warm welcome, fear and agency coexist. |
+| 005 | ST17 continuing work/grades/politics (020/028) does not repeat recruitment dilemma; Ariel affiliation not silently ended by marriage or motherhood. |
+| 006 | No new displacement-blame assault trigger; ordinary household discussions cannot count as successful restraint test. |
+| 007 | No repeated invitation-to-subordinate coercion trigger; her welcome/hat gift (023) is a different decision context. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
