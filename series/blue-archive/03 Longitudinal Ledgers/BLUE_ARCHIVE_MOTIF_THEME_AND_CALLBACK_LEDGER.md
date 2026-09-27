@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -858,3 +858,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Maintenance as lived care:** weeds, lobby furniture and pool are materially cleaned; Hanako's bedding plan adds unverified further care. This ordinary work in a potentially punitive institution does not absolve its governance.
 - **Impermanence/action:** Azusa reads abandonment as `vanitas` but rejects it as a reason to withhold today's effort; Hanako calls for play before tomorrow's study. Their future-oriented act complicates a simple nihilism or laziness reading.
 - **Delayed pleasure:** cleaning/filling consumes daylight, so the hoped-for pool recreation is deferred by material time. Play is an invitation, not an already realized party.
+
+## V003 C001 E012 motif / callback delta — peer care resists the box
+
+- **Cleaning/eating versus suspect sorting:** Hifumi cites the shared first day against Nagisa's command to collect peer information. The E011 ordinary-care acts gain explicit ethical weight without proving no traitor exists.
+- **Lid and burden:** Nagisa's recollected “Schale lid” reduces Sensei's presence to containment; Sensei's reply instead tries to free Hifumi from informer duty. The counterimage is a proposed responsibility shift, not a realized escape from institutional power.
+- **Night watch versus sleep:** Azusa recodes discomfort in an unfamiliar place as a guard role and extreme endurance claim; Hanako's concern asks for rest. There is no observed attack or verified five-day capacity.

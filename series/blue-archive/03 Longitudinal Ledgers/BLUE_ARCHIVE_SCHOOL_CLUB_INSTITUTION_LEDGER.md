@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -674,3 +674,7 @@ The group arrives at Trinity's long-unused annex camp. Hifumi says they will sta
 ## V003 C001 E011 institutional delta — annex maintenance, no new exam
 
 Narration confirms exterior weeds/clutter cleared, corridor sweeping/wiping repeated, lobby dust/furniture cleaned and group pool cleaning completed. Classroom and gym appear as empty location headings, not printed actions. Hanako proposes bedding wash/mattress replacement/ventilation, but each step's completion is not separately shown. Filling the pool takes until dusk, so swimming is not evidenced. The annex is being made habitable by students during the camp; this does not make Nagisa's alleged procedural bypass lawful or disclose her purpose to them. No score, second exam, expulsion or treaty act occurs; Hanako's lake-water safety remark is unverified.
+
+## V003 C001 E012 institutional delta — preferred investigation and fallback expulsion
+
+Hifumi confirms the joint three-exam failure would expel all and says she has not told the other students. In her recollection Nagisa says she chiefly wants a traitor found quickly, not particular exam scores; expulsion is the last resort if suspect identification fails. She selected Hifumi for her Schale connection and expects Sensei's presence to restrain the hypothetical actor. These are interested institutional design claims, not audited procedures, intelligence or demonstrated deterrence. The group separately confirms no pool play on day one and intends full study from tomorrow. Sensei occupies another room; no second exam, expulsion or procedural appeal is shown.

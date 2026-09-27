@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -764,3 +764,7 @@ Hifumi expects Sensei to remain at the annex for the week; `choice:001` agrees t
 ## V003 C001 E011 delta — students complete work, adult observes
 
 Hifumi coordinates maintenance, Koharu/Hanako/Azusa contribute, and narrator confirms cleaning while pool filling slips to dusk. Sensei's scene-6 `u:0002` is inward “about done?” and their only choice is a singleton impression of Hanako's look. No teacher-led assignment, safety certification, approval to drink lake-sourced water, completed swimming plan or educational intervention is shown. Student agency in ordinary shared-space care persists alongside Nagisa's concealed institutional threat; one cannot infer Sensei has neutralized it. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E012 delta — promising to carry a student's imposed burden
+
+Sensei now expressly locates their separate room and offers the group call-if-needed support. In their room Hifumi discloses Nagisa's secret informer assignment, which she cannot reconcile with peer loyalty. Sensei labels her kind, says she need not carry that task and promises to address it, then asks her to think of what she can do. This is an ethically salient boundary on conscripting a student into surveillance, but `私が、どうにか解決する` is an untested adult undertaking: no method, consent process, protection guarantee, test appeal or traitor evidence is printed. Sensei's earlier E009 `私のやり方` remains undefined. Nagisa's claim that Sensei functions as a restraint on a traitor is not independently validated. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

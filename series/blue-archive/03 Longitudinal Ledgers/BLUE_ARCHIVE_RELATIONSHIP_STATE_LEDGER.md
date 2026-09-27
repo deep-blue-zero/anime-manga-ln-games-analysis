@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -705,3 +705,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **HIFUMI ↔ KOHARU/HANAKO/AZUSA:** Hifumi delegates cleaning, Koharu demonstrates lobby work, Hanako proposes bedding and pool tasks, and Azusa accepts corridor work then joins pool preparation. This is observed collaboration, not proof of academic parity or knowledge of Nagisa's plan.
 - **HANAKO ↔ AZUSA/KOHARU:** Hanako's play invitation elicits Azusa's present-effort reply; Koharu initially objects on exam relevance and swimwear, then grants local permission. No durable closeness or coercive control is established.
 - **SENSEI ↔ GROUP:** Sensei appears as inward observer with one singleton reaction; the narrator credits the group for cleaning. No demonstrated adult-led tactical, scholastic or safety decision.
+
+## V003 C001 E012 relationship delta — secrecy, refusal and care
+
+- **NAGISA → HIFUMI/SENSEI:** Hifumi recalls Nagisa recruiting her as a secret peer informant because of her Schale link, treating Sensei as a proposed “lid” and threatening Hifumi with the fallback. The direction of pressure is now explicit; Hifumi's assignment is not voluntary enthusiasm.
+- **HIFUMI ↔ SENSEI:** Hifumi seeks a night conversation, shares the expulsion/traitor burden and rejects sorting classmates; Sensei calls her kind, offers to handle the issue and invites her own contribution. She reports relief, while actual protection and her future decisions remain unknown.
+- **HANAKO ↔ AZUSA:** Hanako notices poor rest and asks Azusa not to overdo guard duty; Azusa admits unfamiliar-place sleep difficulty but claims training endurance. Concern is shown, not proven intimacy or a diagnosis. Azusa thinks Hifumi is walking, not shown to know her confidential conversation.

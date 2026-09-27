@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -838,6 +838,15 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across
 - **Sensei:** inwardly observes progress and gives one singleton reaction; no demonstrated instruction or disciplinary intervention.
 
 Narration confirms outdoor/lobby and group pool cleaning, then pool filling only by dusk. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E012 character-state delta — Hifumi under a secret assignment
+
+- **Hifumi:** confirms no first-night pool play and urges rest for next day's study. Unable to sleep, she visits Sensei and discloses knowledge of collective expulsion and Nagisa's prior secret directive to find a supposed traitor. She says she cannot treat students with whom she cleaned/ate as suspects. This is an ethical impasse under threatened inclusion in the penalty, not proof she identified anyone or told peers.
+- **Nagisa:** Hifumi recalls Nagisa saying suspect identification, not exam scores, is her primary aim; collective expulsion is a final measure, while Hifumi's Schale link and Sensei's presence serve as a proposed “lid.” The coercive speech is now visible as recollection; traitor intelligence, legal authority and efficacy remain unverified.
+- **Sensei:** names the risk/task, reassures Hifumi, says they will handle it and urges her own contribution; no actual remedy or suspect finding yet. The other room is now explicitly identified in Sensei's invitation.
+- **Azusa/Hanako:** in a simultaneous lobby scene Azusa admits unfamiliar-place sleeplessness, says she may keep watch and claims five-day no-sleep training. Hanako notices tiredness and advises care. No attack, validated endurance or evidence Hanako's own lobby purpose is sinister.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C001 E010 character-state delta — camp routines before second test
 

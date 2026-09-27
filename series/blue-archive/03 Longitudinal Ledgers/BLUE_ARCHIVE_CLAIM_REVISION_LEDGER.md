@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E011 active provisional; E012 unopened
+current_sequential_boundary: MAIN_V003_C001_E012 active provisional; E013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1664,3 +1664,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. B
 - **Other families:** no direct global test.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; water safety, recreation, second exam and school-security outcome remain OPEN.
+
+## V003 C001 E012 claim delta — secret parallel recruitment meets a student boundary
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei takes the suspect-finding burden from Hifumi in words and asks her to choose what she can do, preserving a local agency boundary. `私がどうにか解決` is an untested promise, not proof of control over exams or expulsion.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** Hifumi's recalled Nagisa exchange says intelligence gathering/traitor identification is the immediate goal and collective expulsion a fallback; Hifumi's Schale relationship was used in recruitment, and she was warned she too would suffer if the effort failed. This sharpens E009's professed design without proving the intelligence, lawfulness or deterrence. Hifumi knew the assignment but had not told club peers in her account; E010-E011 did not show her disclosure.
+- **BA-C008 — STRENGTHEN:** E009 `生徒を退学させるため` is repeated as Sensei memory; Nagisa `scene:002:u:0032-0047` is recalled prior speech, not present conversation. Twelve Sensei groups are singleton; `scene:001:u:0016-0020` label/voice flips and a simultaneous lobby scene prevent false knowledge sharing.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hifumi's earlier information actions, suspect identity, teaching and protection results remain OPEN.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:012; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:012` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1113,3 +1113,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Azusa's `vanitas vanitatum` at an unused pool is paired with her own `今日最善を尽くさない理由にはならない`. Hanako glosses the ancient phrase as “all is vain,” then invites pool restoration/play now. This is a situated dialogue about impermanence and action, not a validated cosmology or permanent despair. Former pool activity is Azusa's conjecture.
 - Hanako's wet-uniform/bikini teasing and Koharu's permission concern a local clothing negotiation. Hanako's italic lake-water potability assertion `scene:006:u:0063` is a claim, not verified drinking-water advice. Sensei `choice:001` is a singleton frightened impression, not observed coercion.
 - Scene-1 `u:0004-0005` and scene-6 `u:0011-0012` have label/voice conflict; scene-6 `u:0003-0005` also warrants caution. Scenes 4–5 print locations only, no utterances. Italic `u:0061-0065` may compress action/speech; narrator `u:0066-0067` securely says cleaning completed, filling delayed until dusk, not a swim. `u:0068` is title card.
+
+## V003 C001 E012 delta — quoted assignment, private burden and sleep boast
+
+- `scene:001:u:0016-0020` has Hifumi/Azusa labels over farewell/heart-marked and Justice Realization-style objections that appear role-swapped; avoid secure Azusa voice attribution. Sensei's `あっちの部屋` in singleton choice now specifies a separate room, not a co-sleep invitation.
+- Sensei's `scene:002:u:0003-0004` repeats Nagisa's E009 expulsion admission as remembered lines; `u:0032-0047` prints Hifumi's recalled prior Nagisa dialogue, with `ゴミ箱`/`蓋` dehumanizing analogy and attempted retraction. These are not simultaneous new conversations. Hifumi's `みんな、同じ学校の生徒` invokes shared peer status against informer duty; her `誰にも言わないように` recounts an imposed secrecy instruction.
+- Azusa's `5日間ぐらいなら寝なくても問題無い` is an endurance claim under admitted unfamiliar-place sleeplessness, not medical fact. Hanako's `そういうお話ではなく`/`無理しないで` is concern rather than validation. Twelve Sensei choices are singleton, including silence; `私が、どうにか解決` is a promise, not completed solution. `scene:003:u:0016` is title card.
