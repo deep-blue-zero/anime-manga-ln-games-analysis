@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1268,3 +1268,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Mika's `あの時は騙してごめん`/`うん、それは嘘` retracts the earlier armed-alliance characterization; `本当に平和条約` is her new assertion. `和解したかった` preserves part of her earlier motive, but `ゲヘナを…消し去りたい` and `全面戦争` expose its anti-peace end. `スケープゴート` explicitly makes Azusa a proposed blame-bearing victim, not a validated attacker.
 - Mika `私の指示だよ` admits ordering the Seia attack; `ヘイローを破壊しろとは言ってない` denies a lethal order. `自然とああなっちゃった` is evasive as to actual result. Azusa's `ち、違う……あれは……` is interrupted and cannot be treated as a complete confession or exoneration.
 - Sensei `scene:001:u:0036` and `u:0077` are `心の声`; the first does not require Mika to hear it. All four choices are singleton. `シスターフッド！？` at scene 2 `u:0024` is a character's surprised identification from cathedral-side approach, not narrator certification. `u:0025` is forward title only.
+## V003 C002 E018 delta — Sisterhood voice conflict and relief
+
+- `scene:001:u:0008-0009` tag the exception-to-custom intervention and Mika-custody declaration as `マリー`, but Mika immediately addresses `歌住サクラコ`. Marie's coughing peace invocation at `u:0006` and Hinata's `お邪魔します` at `u:0007` are secure narrow voices; the official declaration's exact individual speaker is quarantined while Sisterhood-level action stands.
+- Hanako's `ちょっとした約束` confirms some commitment to Sisterhood, but Mika's emphatic `何を支払った` is a question, not proof of payment type. Hanako withholds terms. Mika's cathedral “cleanup” and refusal to surrender are prospective threats, not observed destruction.
+- Scene 2 `u:0005` `ハナコちゃんのことを、見くびったから？` and `u:0008` `アズサちゃんが、裏切ったから？` are tagged Hanako/Azusa yet continue Mika's self-question sequence, not safe direct self-descriptions by those two. Mika's “largest variable” assessment is her reasoning, not narrator causality.
+- Mika's `多分、事故だった` and Seia frailty assertion are hedged self-exculpation. Hanako's `無事` is immediately qualified by `傷が治らなくて、まだ目が覚めていない`: alive does not mean healed. Hanako cuts off `助けてくれたのは` and asks that the rescuer speak directly, so no identity inference.
+- Mika `降参` is direct surrender, not formal processed arrest. `et omnia vanitas` is Mika's variant invocation in a threat about Saori; Azusa `それでも…足掻いて` directly rejects passive fatalism.
+- Sensei `u:0046` and `u:0050` are `心の声`. Mika `あの言葉を聞いた時` refers to having heard a supportive line earlier, not to hearing `u:0050` now. One singleton choice in scene 2; `u:0055` forward title only.

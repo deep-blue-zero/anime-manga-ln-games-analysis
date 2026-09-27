@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -851,3 +851,6 @@ Sensei appears at the camp gym confrontation, giving a singleton `待ってた�
 ## V003 C002 E017 delta — bounded command against a confessed war project
 
 Hifumi directly says Sensei's direction helped the group incapacitate the first Arius attackers, a retrospective causal attribution stronger than E016's inward cue but limited to that engagement. Sensei's four singleton responses recognize Mika, question the treaty and hostship motive, and include a silent option. Two `心の声` reactions (`どうして` and startled anger) are not public speeches, even though Mika's dialogue follows the former. Mika notices an angry look and later calls Schale's adult involvement troublesome after an unprinted interval; this shows resistance but no quantified adult capability or resolved battle. Her explicit plan for Gehenna's erasure, Azusa's scapegoating and Seia attack poses a concrete ethical challenge to E009's non-suspect-sorting promise, while Nagisa's safety, Justice mobilization and students' final exam remain unachieved. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E018 delta — cause ascribed to Schale, standing extended to an adversary
+
+Sensei's only choice is silent. Mika, after an unprinted loss sequence and Sisterhood's arrival, says bringing Schale was her largest mistake and identifies Sensei as the overlooked variable. This confirms her experienced resistance, not sole causation: Hanako, Azusa, the club and autonomous Sisterhood have visible roles. The two `心の声` lines about Mika cannot be treated as current speech; Mika says an earlier supportive utterance made her happy, consistent with support that need not waive accountability. Mika declines hearing Sensei now and surrenders, while Seia remains injured/unconscious by Hanako's report, Nagisa's medical status unknown and exam unresolved. No adult custody decision or legal intervention is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

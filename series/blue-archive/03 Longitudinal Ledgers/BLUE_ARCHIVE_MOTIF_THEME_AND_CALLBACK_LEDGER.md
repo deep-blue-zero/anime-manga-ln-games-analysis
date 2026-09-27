@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1020,3 +1020,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Friendship, trust and hard world:** Mika says Nagisa is too gentle for a “bright school story” and justifies confinement; Sensei's angry response contrasts with her asserted inevitability of betrayal. Her admission of possible Hifumi harm in E015 now reads against a consciously instrumental plan, but her inner life remains actor report.
 - **Seia as unresolved catalyst:** Mika admits giving the attack order but denies halo-destruction intent and deflects exact execution to Azusa. This strengthens the event's political centrality while leaving the human cost and responsibility chain unclosed.
 - **Independent institution at the edge:** a cathedral-side arrival identified questioningly as Sisterhood threatens Mika's “all stalling orders work” premise without yet showing the group's own decision or battle outcome.
+## V003 C002 E018 motif / callback delta — institutions outside Tea Party reach
+
+- **A third institution intervenes:** Sisterhood's declared exception to nonintervention tests Mika's assumption that Tea Party channels can stall everyone. Hanako's undisclosed promise matters, but cost and future obligation are not yet known.
+- **Defeat is plural:** Mika identifies Sensei as the forgotten variable, but Azusa's active defection, Hanako's bargain/strategy and Sisterhood arrival are represented. The motif of adult support works through a coalition rather than replacing students or independent organizations.
+- **Seia alive, not recovered:** Hanako says the supposed lost friend is alive but wounded/unconscious under guard outside Trinity. Mika's relief and surrender follow, yet surviving is not equivalent to healed, cleared or reconciled. The rescuer's withheld name resists premature closure.
+- **Vanitas and resistance recur:** Mika warns Azusa of endless pursuit and says `et omnia vanitas`; Azusa answers with `それでも` and continued struggle. The chapter's title and E014 maxim now become a live future-oriented choice without guaranteed safety.
+- **Support remembered, not magically transmitted:** Mika recalls a prior Sensei ally-line after an inward echo, then says goodbye. Ethical standing for a student can remain emotionally salient even while her acts demand accountability; the scene shows neither acquittal nor sentence.

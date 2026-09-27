@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E017 active provisional; E018 unopened
+current_sequential_boundary: MAIN_V003_C002_E018 active provisional; E019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1872,3 +1872,11 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia mechanics, Justice orders, Sisterhood, Nagisa and exam remain OPEN.
+## V003 C002 E018 claim delta — autonomous intervention and reported survival
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Mika retrospectively calls Sensei the largest variable and Schale invitation her mistake after defeat. This is actor causal interpretation, not erasure of Hanako's planning, Azusa's defense or Sisterhood's intervention. The inward support echo is not current mind-reading or achieved restorative care.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Sisterhood appears, announces exceptional intervention and intended custody of Mika for incitement/attempted injury. This visibly contests Mika's claimed universal stalling, but no completed arrest/legal review is shown. Hanako reports Seia alive, outside Trinity, wounded/unconscious under Mine; her exact rescuer remains deliberately undisclosed and no direct medical record appears. Mika surrenders after hearing the survival report and an unprinted defeat sequence. Final exam, Nagisa's condition and Azusa's institutional safety remain open.
+- **BA-C008 — STRENGTHEN:** Marie tags on the custody declaration conflict with Mika addressing Sakurako; scene 2 self-question lines have Hanako/Azusa tags. Mika's “accident/frailty” claim and Hanako's Seia report are nonidentical provenance; Sensei's inward supportive echo cannot be heard by Mika now.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+Hinata and Sakurako join the index as narrow `UNMODELED` subjects; Mine is mention-only. **21 partial / 47 unmodeled across 68**, no operational/validated model. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; pact terms, rescuer, custody, Nagisa and exam remain OPEN.

@@ -120,7 +120,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 119,BA:main:003:002:015,MAIN_V003_C002_E015,エデン条約編,第15話;火蓋は切られて,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E015_DEEP_READING.md
 120,BA:main:003:002:016,MAIN_V003_C002_E016,エデン条約編,第16話;激戦,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E016_DEEP_READING.md
 121,BA:main:003:002:017,MAIN_V003_C002_E017,エデン条約編,第17話;そんな世界も（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E017_DEEP_READING.md
-122,BA:main:003:002:018,MAIN_V003_C002_E018,エデン条約編,第18話;そんな世界も（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+122,BA:main:003:002:018,MAIN_V003_C002_E018,エデン条約編,第18話;そんな世界も（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E018_DEEP_READING.md
 123,BA:main:003:002:019,MAIN_V003_C002_E019,エデン条約編,第19話;第3次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 124,BA:main:003:002:020,MAIN_V003_C002_E020,エデン条約編,第20話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 125,BA:main:003:003:001,MAIN_V003_C003_E001,エデン条約編,第1話;ポストモーテム（１）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

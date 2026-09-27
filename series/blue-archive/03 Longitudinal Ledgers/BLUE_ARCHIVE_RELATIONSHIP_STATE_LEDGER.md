@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -871,3 +871,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **MIKA ↔ SENSEI/REMEDIAL CLUB:** Mika admits deceiving Sensei about treaty nature, asks for Nagisa, threatens to eliminate obstacles, and recognizes Schale resistance as troublesome. Hifumi credits Sensei's earlier command against a local Arius group; no observed Mika defeat or negotiated settlement.
 - **KOHARU ↔ HASUMI/JUSTICE:** Koharu says she sent Hasumi a message. Hanako expects Justice action, while Mika claims a stand-down; the reply and actual decision are absent.
 - **SISTERHOOD ↔ CONFLICT:** an Arius student identifies approaching cathedral-side students questioningly as Sisterhood. This suggests autonomous intervention but does not yet prove membership, alliance or outcome.
+## V003 C002 E018 relationship delta — surrender without completed repair
+
+- **HANAKO ↔ SISTERHOOD:** Hanako says a small promise enabled intervention; Sisterhood declares it will cross custom and seek Mika's custody. Mika asks what Hanako paid, but Hanako does not answer. No durable bargain terms or individual Sakurako/Marie authorship can be reconstructed from conflicted labels.
+- **MIKA ↔ SEIA:** Mika admits concern/relief when Hanako reports Seia lives but remains unconscious and wounded. Mika's accident/frailty account is self-defense, and no Seia response, apology exchange or verified medical record appears.
+- **MIKA ↔ SENSEI/CLUB:** after defeat Mika calls Sensei the overlooked variable, says inviting Schale was her mistake, surrenders and recalls genuine happiness at a prior supportive sentence. Sensei's current echoes are inward; Mika declines current dialogue. Surrender does not repair Nagisa/Seia/club harm.
+- **MIKA ↔ AZUSA/SAORI:** Mika warns Azusa of Trinity nonprotection and Saori pursuit; Azusa acknowledges risk and vows to resist. Threat is unproven future, not an accomplished estrangement or capture.
+- **SISTERHOOD ↔ TEA PARTY:** the declaration explicitly calls intervention in Tea Party infighting contrary to prior custom. Its institutional independence is exercised here, but legal authority, arrest completion and future relation are open.

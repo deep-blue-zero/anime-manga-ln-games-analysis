@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1080,3 +1080,13 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across
 - **Seia/Nagisa:** neither speaks in present scene. Mika reports ordering Seia attacked but denies lethal instruction; medical history unresolved. Nagisa remains missing from the Arius attackers and has no shown care.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E018 character-state delta — surrender and Seia report
+
+- **Mika:** recognizes Sisterhood intervention, threatens to continue, then after an unshown turn calls herself defeated and identifies inviting Schale as her overlooked variable. Hanako's report that Seia lives visibly relieves her; she directly surrenders and says others may decide her fate. She denies intent to kill Seia, floats accident/frailty as uncertain self-defense, warns Azusa of future pursuit and recalls gratitude for Sensei's earlier support. None of this verifies Seia mechanics, formal custody or full repentance. `UNMODELED`.
+- **Hanako:** reveals only that a “small promise” brought Sisterhood; exact terms/price withheld. She gives detailed report that Seia lives outside Trinity but remains injured/unconscious under Rescue Knights head Mine, then deliberately withholds rescuer identity. These are her testimony, not independent medical documentation. `UNMODELED`.
+- **Azusa:** rejects Mika's forecast of endless pursuit and says she will resist until the end. No successful protection or next-day academic result; `UNMODELED`.
+- **Sensei:** silent singleton during Mika's defeat analysis; Mika attributes her loss to inviting Schale. Inward-marked supportive line is an echo of prior hearing, not current audible reassurance. `PARTIAL_MODEL`.
+- **Marie/Hinata/Sakurako:** Marie appears coughing and invokes peace; Hinata directly apologetically enters. Sisterhood announces exceptional intervention and intended Mika custody, with `u:0008-0009` tagged Marie while Mika addresses Sakurako next. Hinata and Sakurako become narrowly tracked `UNMODELED` subjects; exact official speaker/individual decision role quarantined. Marie remains `UNMODELED`.
+- **Seia/Mine:** Hanako says Seia alive but not awake, with unhealed wounds, guarded outside Trinity by Rescue Knights head Mine. Seia does not speak; Mine is mentioned only, not a newly represented index subject.
+
+Readiness: **21 `PARTIAL_MODEL` / 47 `UNMODELED` across 68**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
