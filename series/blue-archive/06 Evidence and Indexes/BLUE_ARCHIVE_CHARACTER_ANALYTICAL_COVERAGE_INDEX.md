@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E002
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E003
 generation: V1
-version: "2.14"
+version: "2.15"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–002 provisionally; 151/310 main units; side-source classes unreviewed; BA:main:003:004:003 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–003 provisionally; 152/310 main units; side-source classes unreviewed; BA:main:003:004:004 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:004:003
+next_unopened_main_unit: BA:main:003:004:004
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:004:003
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C004_E002` provisional boundary, inheriting canonical `MAIN_V003_C003`:
+This index answers four questions at the `MAIN_V003_C004_E003` provisional boundary, inheriting canonical `MAIN_V003_C003`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E002;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E003;
 - current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
-- main-story coverage: `151 / 310` canonical units;
+- main-story coverage: `152 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:003:021`.
+- next unopened main unit: `BA:main:003:004:004`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,12 +74,12 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through C004 E002; attends leaders' postmortem and agrees to continue, choices converge | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Seia | `ANALYZED` through C003 E025; directly invites Nagisa/Mika to talk through unprovable hearts | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through C004 E003; visits Mika, elicits hearing attendance, then hears Seia's vision, choices converge | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Seia | `ANALYZED` through C004 E003; directly reports illness/time confusion and a world-ending vision, not a verified future | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C003 E025; reports new remedial recurrence without expulsion, administrative record unseen | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C003 E025; joins same-four remedial recurrence with loneliness joke | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through C003 E025; says next exam range unlearned, remains with friends; safety threat persists | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mika | `ANALYZED` through C003 E025; letter to Nagisa voiced, later Tea Party banter label-cautioned | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mika | `ANALYZED` through C004 E003; directly caged, fears harm to friends and agrees to attend tomorrow's hearing | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sakurako | `ANALYZED` through C004 E002; shares inquiry gaps, says Hanako pact ended and proposes route witnesses | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -153,7 +153,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Iori | `ANALYZED` through C003 E021; notes Ako/Ayane reunion after western-move assent | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ako | `ANALYZED` through C003 E021; offers Abydos opponent-analysis data, receipt and accuracy unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hina | `ANALYZED` through C003 E020; directs westward move and accepts Justice/Abydos aid | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Nagisa | `ANALYZED` through C004 E002; admits student burden, trusts Mika and plans hearing defense, predicts expulsion | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Nagisa | `ANALYZED` through C004 E003; reports distinct sanction stages and abuse, seeks Mika's hearing attendance and defense | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Black Suit (role actor) | `ANALYZED` in C001 E012/E017; C002 recruitment, contract, Gematria separation and adult confrontation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaiser director (role actor) | `ANALYZED` in C001 E012; C002 E010-E011 integrated offices, occupation, defeat/aftermath | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Shiba Seki master (role actor) | `ANALYZED` in C001 hospitality/destruction; C002 E003 repair, E017 stall reopening, E020 work continuity | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1266,3 +1266,9 @@ Routing: [V003 C004 E001 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Nagisa, Mine and Sakurako convene an active post-Eden review: Mine directly reports that Seia returned to school but is sicker and room-confined after Mine's treatment; Nagisa acknowledges her part in the remedial four's burden and chooses to trust/defend Mika at tomorrow's hearing while forecasting possible expulsion. The hearing itself is not shown. Sisterhood analysis lacks proof for the Justina-looking force; missile provenance and Arius district remain unknown despite catacomb/ruin evidence and Azusa's changing-map report. Mika's supply record is not proof of district-route knowledge. Mine accuses Nagisa of coercing Azusa; Nagisa denies it, and severe `u:0096-0104` speaker inversions prevent a clean per-line dispute transcript. Sakurako says Hanako's pact ended, and Sensei agrees to stay with leaders as they seek to spare the four further political work. No E001 firing outcome appears. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E003 unopened.
 
 Routing: [V003 C004 E002 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E002_DEEP_READING.md) → `BA:main:003:004:002`, one scene, 176 visible numbered units and fourteen Sensei choice groups (three with two alternatives). Coverage is **151 / 310**.
+
+## 124. V003 C004 E003 provisional coverage delta
+
+Nagisa reports completed Pater exclusion and predetermined Tea Party disqualification, while school expulsion remains her forecast. She reports stone-throwing, belongings burned and denunciation, whereas a hostile crowd and Justice restraint are directly visible. Mika is caged, treats self-exclusion as protection for Nagisa/Seia, mistakes Seia's illness-based meal refusal for hatred, then agrees to attend tomorrow's hearing after Sensei offers to visit Seia. No hearing, apology or Seia attendance agreement is printed. Seia directly appears in a treatment room, reports dream/reality and time confusion, and says a dream messenger showed her the world's end; the catastrophic future is a claimed vision, not verified fact. Scene 2 `u:0041` has a suspect Justice-member label. E001 firing-order casualties remain unseen. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E004 unopened.
+
+Routing: [V003 C004 E003 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E003_DEEP_READING.md) → `BA:main:003:004:003`, three scenes, 131 visible numbered units and twenty-four Sensei choice groups (seven with two alternatives). Coverage is **152 / 310**.

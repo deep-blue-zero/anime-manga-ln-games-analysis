@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1259,3 +1259,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Trust under a hearing:** Nagisa's E003 C003 fear-for-Mika and E025 talk invitation now become a choice to defend Mika despite uncertainty; it is not exoneration or successful persuasion.
 - **Adults/leaders carry mud:** Nagisa/Sakurako aim to spare Hifumi, Hanako, Koharu and Azusa further institutional conflict, while Sensei agrees to continue. This reassigns burden prospectively, without sealing students away.
 - **Labyrinth:** catacombs and rotating encrypted maps keep the Arius route unknown despite several clues; the metaphor should not become a solved map.
+
+## V003 C004 E003 motif / callback delta — mercy, cage and an unclosed future
+
+- **Princess versus cage:** Mika's fairy-tale tower performance meets Sensei's correction to confinement; play does not erase punishment or explain its justice.
+- **Mercy versus deserved cost:** `Kyrie eleison` makes a plea for mercy that Mika resists while she accepts the song, and she treats self-exclusion as protection for Nagisa/Seia. Her attendance decision opens speech rather than proving forgiveness or leniency.
+- **Misread refusal:** Mika interprets Seia's declined meal as hatred despite Seia's illness explanation; the callback to C003 personal forgiveness is relationally possible but not yet enacted face to face.
+- **Dream ending:** Seia's present illness and claimed catastrophic glimpse renew the paradise/fatalism frame. The vision remains reported knowledge, not an accomplished or inevitable end.

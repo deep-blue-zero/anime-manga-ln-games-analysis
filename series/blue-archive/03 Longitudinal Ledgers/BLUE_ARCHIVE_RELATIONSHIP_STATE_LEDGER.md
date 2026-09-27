@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1101,3 +1101,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **NAGISA ↔ MIKA:** Nagisa resists route-concealment suspicion, chooses trust and plans a hearing defense; neither Mika's truthfulness nor the hearing result is shown.
 - **NAGISA/SAKURAKO/SENSEI ↔ REMEDIAL FOUR:** Nagisa admits causal responsibility for their burden, Sakurako says Hanako's contract ended, and Sensei agrees to keep working with leaders. The four are absent from this meeting; their consent/response unshown.
 - **MINE ↔ SEIA/AZUSA:** Mine reports treating Seia and defends Azusa from an assumed interrogation, then hears it was voluntary by Nagisa's account. Her care is direct claim, accusation not demonstrated fact.
+
+## V003 C004 E003 relationship delta — visiting, attendance and misread care
+
+- **NAGISA ↔ MIKA:** Nagisa reports social punishment and wants to defend Mika; Mika initially declines a hearing to avoid harming Nagisa's authority, then agrees after Sensei's intervention. Nagisa has not yet learned the decision on-page, and the hearing has not occurred.
+- **MIKA ↔ SEIA:** Seia declined Mika's meal because she felt ill, while Mika reads it as hatred and says she has not apologized. Sensei cites Seia's earlier personal forgiveness and proposes a meeting; Seia has not consented to join the hearing or spoken directly with Mika here.
+- **SENSEI ↔ MIKA/SEIA:** Sensei visits Mika, offers to seek Seia and listens to Seia's current illness/vision account. The visit produces Mika's attendance agreement, not restored trust, forgiveness procedure or safety.
+- **MIKA ↔ CROWD/JUSTICE:** hostile protest and Justice restraint are directly shown; individual stone-throwing and property destruction are Nagisa's reports, not observed perpetrator identities.

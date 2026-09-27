@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E002 active provisional; C004 E003 unopened
+current_sequential_boundary: MAIN_V003_C004_E003 active provisional; C004 E004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2153,3 +2153,12 @@ No new durable claim ID, model, frozen prediction or side-source admission. Beat
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 Squad firing-order result still unseen; C004 E003 unopened.
+
+## V003 C004 E003 claim delta — attendance chosen, vision reported
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Nagisa distinguishes completed Pater expulsion and decided Tea Party disqualification from forecast school expulsion. Mika's new agreement to attend is not the hearing, pardon or adjudicated penalty.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei's visit and promise to seek Seia make a previously refused hearing discussable for Mika. She consents to attend; neither apology nor reconciliation is completed.
+- **BA-C008 — STRENGTHEN:** Nagisa's reported stone-throwing/burned property differs from directly printed protest; Mika's interpretation of Seia's refusal conflicts with Seia's illness explanation; Seia's present symptoms and asserted dream-vision have different epistemic standing.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 firing-order result and tomorrow's hearing remain unshown; C004 E004 unopened.

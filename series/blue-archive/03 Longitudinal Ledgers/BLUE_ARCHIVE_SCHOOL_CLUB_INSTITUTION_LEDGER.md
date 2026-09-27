@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -887,3 +887,7 @@ Arius students encircle Squad and seek Madam's confirmation. Beatrice self-names
 ## V003 C004 E002 institutional delta — active review, no final orders
 
 Nagisa, Mine and Sakurako meet Sensei for post-Eden information-sharing/cleanup. Sisterhood handles some analysis; Mine claims an old Johannine/Rescue Knight stake in Tea Party affairs, but labels and charter basis are not audited. Mine reports Seia back at school yet worse and confined to her room; Mika remains imprisoned, with a hearing only scheduled for tomorrow. Nagisa wants the remedial four spared further political work, Sakurako says her Hanako agreement ended and Sensei agrees to stay. Justina cause lacks supporting evidence; missile provenance and Arius district remain unknown despite catacomb/ruin clues and changing encrypted maps by Azusa report. Mika's supply record does not prove route knowledge. No trial, verdict, treaty instrument, student exclusion order or Squad-firing outcome is printed.
+
+## V003 C004 E003 institutional delta — distinct sanction stages
+
+Nagisa reports Mika already excluded from the Pater faction and says loss of Tea Party qualification at tomorrow's hearing is predetermined. School expulsion is Nagisa's expected next sanction, not a present order. She reports abuse in custody and damaged/burned belongings; direct protest and Justice crowd control are separately visible. Mika is still caged and says chapel worship/hymn listening remain obligatory. Her choice to attend does not validate the hearing's fairness or produce its outcome. Seia appears in a treatment room and gives her own account of ill health/vision, not a certified institutional prognosis. E001 Squad casualties, treaty instrument and Arius route remain unaudited.

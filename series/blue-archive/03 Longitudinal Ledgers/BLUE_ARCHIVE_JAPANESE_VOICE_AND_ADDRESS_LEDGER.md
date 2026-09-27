@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1499,3 +1499,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0003` gives Mine's self-introduction under a Nagisa tag; `u:0004-0005` duplicate the converged reply to `choice:002`. `u:0006-0008/0015-0020/0035/0045-0046` mix institutional self-reference and other-person address under mismatched tags. Do not claim a stable voice sample or speaker-specific constitutional right from those lines.
 - `u:0096-0104` switches accusation, denial and correction over Azusa's supposed interrogation with obvious self/other address conflicts; `u:0132-0157` similarly inverts Mika-route hypothesis and apology turns. Nagisa's `u:0108-0113/0148-0155/0171-0175` first-person burden, trust and forecast remain comparatively secure.
 - Fourteen Sensei choice groups include two-option `002/006/013` with duplicate convergent printed responses; `choice:005/009/010` are parenthetical inward-style lines, not secret investigations. `退学になると思います` is Nagisa's prediction for tomorrow's hearing, not a final order.
+
+## V003 C004 E003 delta — cage language, mercy and a vision's voice
+
+- Mika plays at `お姫様`/tower language, which Sensei corrects to an actual cage. Her dislike of `Kyrie eleison`'s mercy request does not mean she rejects the hymn's music.
+- `正義実現委員会部員` at scene 2 `u:0041` sounds like a familiar peer/Mika address to Seia; do not mine it for a Justice member's stable voice. Seia's illness-based meal refusal is printed in subsequent turns, whereas Mika's hated-by-Seia conclusion is her interpretation.
+- Seia's scene 3 present first-person account of confused dream/time boundaries is direct self-report. Her italic claim that she saw the world end is prophetic content, not narrator certification. Twenty-four Sensei choice groups, seven with two convergent alternatives; scene 3 `u:0020` is the E004 title card.

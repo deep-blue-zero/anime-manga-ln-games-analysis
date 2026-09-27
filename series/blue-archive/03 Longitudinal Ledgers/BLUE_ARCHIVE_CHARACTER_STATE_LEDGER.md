@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E003 character-state delta — hearing decision and Seia's condition
+
+- **Nagisa:** reports Pater expulsion and already-decided Tea Party disqualification, forecasts school expulsion, and seeks to defend Mika. She reports abuse in custody; Sensei directly encounters a hostile crowd, not every past act. `UNMODELED`.
+- **Mika:** remains caged, initially plans to skip the hearing to spare Nagisa/Seia, and mistakes Seia's illness-based declined meal for hatred. She reports burned keepsakes and roll-cake meals, then agrees to attend after Sensei offers a Seia visit. Hearing, apology and Seia's agreement remain future. `UNMODELED`.
+- **Seia:** directly greets Sensei in a treatment room, says dream/reality and time boundaries blur, and reports a world-ending vision from a dream messenger. This is first-person illness/vision evidence, not a confirmed future or diagnosis. `UNMODELED`.
+- **Sensei:** accepts Nagisa's request, visits Mika, relays Seia's earlier personal forgiveness and offers a Seia visit, eliciting Mika's attendance decision; then hears Seia's account. Twenty-four choice groups include seven two-option convergences. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E002 character-state delta — accountable inquiry and trust
 
