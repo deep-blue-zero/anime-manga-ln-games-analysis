@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1266,3 +1266,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Mercy versus deserved cost:** `Kyrie eleison` makes a plea for mercy that Mika resists while she accepts the song, and she treats self-exclusion as protection for Nagisa/Seia. Her attendance decision opens speech rather than proving forgiveness or leniency.
 - **Misread refusal:** Mika interprets Seia's declined meal as hatred despite Seia's illness explanation; the callback to C003 personal forgiveness is relationally possible but not yet enacted face to face.
 - **Dream ending:** Seia's present illness and claimed catastrophic glimpse renew the paradise/fatalism frame. The vision remains reported knowledge, not an accomplished or inevitable end.
+
+## V003 C004 E004 motif / callback delta — apocalypse versus nearby repair
+
+- **Dream time:** Seia cannot sort nightmare, future and past; the tower/crimson sky/black light imagery is vivid but not causally or temporally certified.
+- **Princess to fable:** Seia recalls Mika's adored princess status and inwardly calls her a failed villainess turned fable subject. This complicates Mika's cage performance without making public hatred deserved or her entire past known.
+- **Forgiveness not communicated:** Seia's dream-experienced pardon lacked an actual face-to-face `ごめんね`. Both decide to speak, turning the metaphor of rescue toward a concrete requested meeting.
+- **Distant danger/nearby person:** Sensei's collective-inquiry warning redirects Seia from solitary Gematria pursuit to Mika. The apparent Gematria gathering immediately reappears in sleep, preserving the unresolved external threat without validating Seia's hypothesis.

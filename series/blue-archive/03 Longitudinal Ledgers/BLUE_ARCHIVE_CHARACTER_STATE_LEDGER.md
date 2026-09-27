@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E004 character-state delta — Seia's hypothesis and chosen repair
+
+- **Seia:** directly describes the tower/world-end vision, says its time/truth are unknown, and reports self-endangering lucid-dream wandering with increasing difficulty waking. She explicitly calls Gematria involvement a guess. After Sensei redirects her to Mika, she recognizes forgiveness happened in dream rather than a delivered conversation, requests a private meeting and commits to tomorrow's hearing. Later Gematria names occur in her dream frame. `UNMODELED`.
+- **Mika:** absent directly. Seia interprets her public hatred/self-harm and sees her own survival as Mika's support; those are Seia's readings, not Mika's fresh testimony. The administrator is asked to fetch Mika but does not yet deliver her on-page. `UNMODELED`.
+- **Nagisa:** narration confirms Sensei informs her of Mika and Seia's intended hearing attendance and she thanks Sensei. Neither hearing nor revised sanction is shown. `UNMODELED`.
+- **Sensei:** cautions Seia against solitary dangerous Gematria pursuit, recommends evidence/cooperation and immediate care for Mika, then relays the attendance news to Nagisa. This is bounded guidance, not a solved investigation. `PARTIAL_MODEL`.
+- **Black Suit/Maestro/Beatrice:** named or speaking in Seia's apparent lucid dream; no new secure real-world activity or subject promotion.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E003 character-state delta — hearing decision and Seia's condition
 

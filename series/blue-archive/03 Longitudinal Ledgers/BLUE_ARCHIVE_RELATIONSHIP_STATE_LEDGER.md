@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1108,3 +1108,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SEIA:** Seia declined Mika's meal because she felt ill, while Mika reads it as hatred and says she has not apologized. Sensei cites Seia's earlier personal forgiveness and proposes a meeting; Seia has not consented to join the hearing or spoken directly with Mika here.
 - **SENSEI ↔ MIKA/SEIA:** Sensei visits Mika, offers to seek Seia and listens to Seia's current illness/vision account. The visit produces Mika's attendance agreement, not restored trust, forgiveness procedure or safety.
 - **MIKA ↔ CROWD/JUSTICE:** hostile protest and Justice restraint are directly shown; individual stone-throwing and property destruction are Nagisa's reports, not observed perpetrator identities.
+
+## V003 C004 E004 relationship delta — mutual intent before meeting
+
+- **SEIA ↔ MIKA:** Seia recognizes that her prior forgiveness was dream-delivered, not received by Mika; she acknowledges mutual failure to apologize, requests a private meeting and intends hearing attendance. Mika already agreed in E003, but the two have not met here.
+- **SENSEI ↔ SEIA:** Sensei questions risky lucid-dream/Gematria pursuit, proposes collective evidence gathering and prompts attention to Mika. Seia accepts the redirection; no clinical recovery or solved vision follows.
+- **SENSEI ↔ NAGISA:** narration confirms Sensei relays the planned Mika/Seia attendance, and Nagisa thanks them. This closes the E003 communication gap, not the hearing result.
+- **SEIA ↔ GEMATRIA FIGURES:** apparent Black Suit/Maestro/Beatrice contact occurs in her lucid-dream perspective; do not promote it to a verified real-world meeting or allegiance.

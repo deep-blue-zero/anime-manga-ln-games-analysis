@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E003 active provisional; C004 E004 unopened
+current_sequential_boundary: MAIN_V003_C004_E004 active provisional; C004 E005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2162,3 +2162,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 firing-order result and tomorrow's hearing remain unshown; C004 E004 unopened.
+
+## V003 C004 E004 claim delta — risk bounded, dream belief corrected
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia separately agrees to attend Mika's hearing, asks for a private pre-hearing talk, and Nagisa is narratively informed. No meeting, sentence mitigation or hearing outcome follows on-page.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei challenges Seia's self-endangering solo search, calls for evidence and cooperation, and directs attention to Mika. This is care/agency guidance, not an assumption of all causal control.
+- **BA-C008 — STRENGTHEN:** Seia expressly cannot classify her vision as nightmare, past or future; outside-origin intuition and Gematria blame are not observations. Her prior forgiveness is reclassified as dream-experienced, not delivered directly; the apparent Gematria meeting is dream-framed.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 firing outcome, Mika meeting and hearing remain unseen; C004 E005 unopened.

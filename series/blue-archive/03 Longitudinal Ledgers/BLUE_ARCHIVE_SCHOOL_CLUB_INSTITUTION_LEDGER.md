@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–003; BA:main:003:004:004 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -891,3 +891,7 @@ Nagisa, Mine and Sakurako meet Sensei for post-Eden information-sharing/cleanup.
 ## V003 C004 E003 institutional delta — distinct sanction stages
 
 Nagisa reports Mika already excluded from the Pater faction and says loss of Tea Party qualification at tomorrow's hearing is predetermined. School expulsion is Nagisa's expected next sanction, not a present order. She reports abuse in custody and damaged/burned belongings; direct protest and Justice crowd control are separately visible. Mika is still caged and says chapel worship/hymn listening remain obligatory. Her choice to attend does not validate the hearing's fairness or produce its outcome. Seia appears in a treatment room and gives her own account of ill health/vision, not a certified institutional prognosis. E001 Squad casualties, treaty instrument and Arius route remain unaudited.
+
+## V003 C004 E004 institutional delta — hearing attendance coordinated
+
+Seia asks a Tea Party administrator to fetch Mika for private conversation; the administrator says they will check with Nagisa, not that the order was completed. Seia says she will join tomorrow's hearing as the person harmed and believes her presence may reduce Mika's penalty; this is her legal/procedural expectation, not an adjudication. Narration confirms Sensei informs Nagisa that Mika and Seia intend to attend, receives her thanks and returns to Schale. Gematria appears only in Seia's lucid-dream frame, with no audited institutional operation or causal proof of the apocalyptic vision. No hearing, sanction, treaty instrument or Squad-firing result is printed.
