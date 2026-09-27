@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1164,3 +1164,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SEIA:** Mika says Seia's supposed death grieved her despite anger and denies intending lethal harm; her account is not a completed apology to Seia.
 - **SENSEI ↔ MIKA:** Sensei arrives, tells Mika to return/wait and promises later explanation, then goes into catacombs with Squad. Mika reacts with shock and does not explicitly agree.
 - **SENSEI ↔ SQUAD:** the group enters the underground route together, under deadline, while Mika and Arius pursuers remain outside; no district arrival.
+
+## V003 C004 E012 relationship delta — pursued care, recalled coercion
+
+- **MIKA ↔ SENSEI/SQUAD:** Mika recognizes Sensei's rescue motive but still promises to chase Squad for revenge and fears Sensei's disapproval. E011's refusal to yield Squad was not forgiveness.
+- **HIYORI ↔ AZUSA/SAORI:** Hiyori recalls first meeting Azusa at a coercive training site and Saori running toward an abused child; the exact intervention/result is cut off.
+- **SENSEI ↔ SAORI/MISAKI/HIYORI:** Sensei brings medicine; Misaki administers it, accepts rest and rotates watch, allowing Sensei/Hiyori to sleep. This is distributed care, not verified recovery.
+- **SEIA ↔ MIKA/SENSEI:** Seia self-blames for hurting Mika, plans apology with Nagisa/others and warns Sensei from a liminal state; no delivered warning or meeting yet.

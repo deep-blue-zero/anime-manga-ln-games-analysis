@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -923,3 +923,7 @@ Misaki says the route is known to Arius students, with no time for alternatives;
 ## V003 C004 E011 institutional delta — catacomb entry, not district arrival
 
 Mika's escape is confirmed by her direct presence; her current school/Tea Party legal status is not altered on-page. Under an approximately 28-minute group estimate, Mika clashes with Squad, then Sensei and Squad enter the catacombs. Arius pursuers explicitly report that route entry and decide to pursue before full closure. This is the first direct crossing of the underground access threshold, not proof they reached Arius district. Pursuers say Squad betrayed/fled Arius and their task is disposal; those are operational claims, not an inspected adjudication. Last order to fire has no printed outcome.
+
+## V003 C004 E012 institutional delta — former district and training abuse
+
+Misaki says the site reached after catacomb passage is a former Arius district/ruin later used as a training ground after an internal civil war about ten years prior; the current district is farther ahead. Hiyori remembers a child beaten for refusing an adult order there and identifies it as where she met Azusa. These insider accounts reveal coercive institutional history but are not archival corroboration or an entire outcome scene. Saori's fever halts the advance; the group rests under rotating watch. Seia's liminal basilica/ritual claims remain her own unreceived warning, not a certified district event.

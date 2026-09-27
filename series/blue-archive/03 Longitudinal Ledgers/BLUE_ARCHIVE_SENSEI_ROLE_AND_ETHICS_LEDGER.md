@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1013,3 +1013,7 @@ Misaki/Hiyori count on Sensei at the route, while Saori explicitly directs Squad
 ## V003 C004 E011 delta — triage with a promised return
 
 Sensei loses Squad contact, hears gunshots, reaches their Mika confrontation and asks her to return/wait at Trinity with a promise to explain later. Under time pressure Sensei then enters catacombs with Squad; the two `choice:001` alternatives converge, while `choice:002` marks the crossing. This is a bounded rescue priority, not consent from Mika, a settlement of her grievance or guaranteed return. Sensei later inwardly asks whether she escaped for revenge and what happened at Trinity, confirming knowledge gaps. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E012 delta — practical aid, shared watch, message unknown
+
+Sensei asks about the ruined training site and listens to a partial abuse memory, then inwardly produces antipyretic as Saori collapses. Misaki gives it to Saori, who swallows; Sensei proposes rest, Misaki organizes rotating guard and urges Sensei to sleep. Adult help is practical and distributed, with no proven drug effect or rescue solution. Seia's subsequent liminal speech asks Sensei to flee and not bear all problems, but repeatedly doubts that it reaches them; Sensei has no responding choice/action in that frame. Eight choice groups, one paired convergence; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E012 character-state delta — rest, remembered violence and liminal warning
+
+- **Mika:** hears an Arius student's Atsuko/basilica account, recognizes Sensei's aid motive yet explicitly resolves to keep pursuing Squad for revenge despite fear of Sensei's judgment. `UNMODELED`.
+- **Saori:** collapses with high fever by Misaki's touch after days of reported injury/sleeplessness; swallows antipyretic and rests under watch, with no measured recovery. `UNMODELED`.
+- **Misaki/Hiyori:** identify an old training ground rather than current district; Hiyori recalls childhood coercive training/meeting Azusa, Misaki gives medicine and organizes rotating watch. Their history report is bounded. Both `UNMODELED`.
+- **Sensei:** supplies carried antipyretic, proposes rest and sits to sleep; Seia's later liminal speech has no confirmed reception. `PARTIAL_MODEL`.
+- **Seia:** says a dream attack/contact damaged her “vessel,” forecasts danger and Atsuko death, explicitly does not know ritual details or whether Sensei hears. Plans Nagisa-aided Mika repair and warning, neither fulfilled. `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E011 character-state delta — direct clash and catacomb entry
 

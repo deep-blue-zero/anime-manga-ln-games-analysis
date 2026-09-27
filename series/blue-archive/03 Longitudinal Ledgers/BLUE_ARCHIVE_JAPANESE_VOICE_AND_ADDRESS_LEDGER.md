@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E012 delta — old-site correction and uncertain voice
+
+- `昔はそうだったけど、今はただの跡地` (`u:0021`) and `本当の自治区はもう少し先` (`u:0023`) prevent the title `アリウス自治区` from being treated as current-district arrival. Hiyori's Azusa/child-beating memory is testimony, not narrated historical scene.
+- `choice:006` has two mundane alternatives and duplicate convergent Hiyori responses `u:0051-0052`. Sensei inwardly produces medicine; Misaki directs Saori to swallow. Do not infer both optional inventory descriptions were voiced.
+- Seia's `届くか分からない` (`u:0081/0089`), `何をしようとしているのかは依然として判明していない` and `推測` (`u:0071-0072`) constrain the liminal warning. `u:0093` is E013 title.
 
 ## V003 C004 E010 delta — Mika reuses the crowd's insult
 

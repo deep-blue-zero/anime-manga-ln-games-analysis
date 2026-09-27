@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E011 active provisional; C004 E012 unopened
+current_sequential_boundary: MAIN_V003_C004_E012 active provisional; C004 E013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2233,3 +2233,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E012 unopened.
+
+## V003 C004 E012 claim delta — ruins, care and uncertain reception
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika's revenge resolve persists; Squad calls the reached site former district/training ground, with current district farther ahead. Civil-war/abuse memories are participant testimony.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei provides antipyretic and suggests rest; Misaki administers it and coordinates watch. No clinical efficacy, completed rescue or sole-adult-care inference.
+- **BA-C008 — STRENGTHEN:** Seia explicitly doubts message delivery and ritual knowledge; dream attack, outside-being contact, apocalypse and Atsuko death are her account/forecast, not audited future.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E013 unopened.
