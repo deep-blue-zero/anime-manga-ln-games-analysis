@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E021 character-state delta — diversion and sanctuary arrival
+
+- **Mika:** volunteers to draw the title-linked Barbara threat away while Saori's group rescues Atsuko, thanks Sensei for saying another chance remains and urges Saori onward. The split occurs; no fight or outcome is printed. `UNMODELED`.
+- **Saori/Hiyori/Misaki:** reach the basilica's inner sanctuary with Sensei. Saori calls for Atsuko; Misaki says Atsuko appears only unconscious, a visual appraisal without clinical or halo confirmation. All remain `UNMODELED`.
+- **Atsuko/Beatrice:** Atsuko is directly seen, apparently unconscious, not yet extracted. Beatrice greets Sensei as enemy; physical embodiment and ritual result remain unaudited. Both `UNMODELED`.
+- **Sensei:** voices only a singleton caution to Mika and inwardly recognizes Beatrice; does not direct Mika's choice or complete the rescue. `PARTIAL_MODEL`.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E022 unopened.
 
 ## V003 C004 E020 character-state delta — title-linked Barbara threat
 

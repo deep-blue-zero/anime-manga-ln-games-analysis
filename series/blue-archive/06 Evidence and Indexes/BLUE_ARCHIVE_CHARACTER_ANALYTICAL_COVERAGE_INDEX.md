@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E020
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E021
 generation: V1
-version: "2.32"
+version: "2.33"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–020 provisionally; 169/310 main units; side-source classes unreviewed; BA:main:003:004:021 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–021 provisionally; 170/310 main units; side-source classes unreviewed; BA:main:003:004:022 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:004:021
+next_unopened_main_unit: BA:main:003:004:022
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:004:021
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C004_E020` provisional boundary, inheriting canonical `MAIN_V003_C003`:
+This index answers four questions at the `MAIN_V003_C004_E021` provisional boundary, inheriting canonical `MAIN_V003_C003`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E020;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E021;
 - current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
-- main-story coverage: `169 / 310` canonical units;
+- main-story coverage: `170 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:004:021`.
+- next unopened main unit: `BA:main:003:004:022`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,20 +74,20 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through C004 E019; rejoins Squad, offers Mika conditional return/help and chance-making pledge | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through C004 E021; cautions Mika during her diversion and reaches sanctuary with Squad | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C004 E019; meets unnamed perceiving voice within daydream-like place | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C003 E025; reports new remedial recurrence without expulsion, administrative record unseen | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C003 E025; joins same-four remedial recurrence with loneliness joke | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through C004 E018 by Saori report; original reconciliation role later spy/attack, not present | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mika | `ANALYZED` through C004 E019; hears apology/chance offer, claims expulsion decided without record | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mika | `ANALYZED` through C004 E021; volunteers Barbara diversion, thanks Sensei; outcome open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sakurako | `ANALYZED` through C004 E002; shares inquiry gaps, says Hanako pact ended and proposes route witnesses | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saori | `ANALYZED` through C004 E019; rejoins Sensei/Misaki/Hiyori, reacts to early ritual | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hiyori | `ANALYZED` through C004 E019; reunites with injured Saori, notes sunrise not yet reached | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Misaki | `ANALYZED` through C004 E019; says could not dissuade Sensei, reacts to early ritual | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Atsuko | `ANALYZED` through C004 E014 by Beatrice report; called royal-blood path offering, ritual outcome unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Beatrice | `ANALYZED` through C004 E019; starts rite before dawn, forecasts Atsuko halo break and orders Barbara | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saori | `ANALYZED` through C004 E021; reaches sanctuary and calls to Atsuko; rescue open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hiyori | `ANALYZED` through C004 E021; identifies basilica inner sanctuary | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Misaki | `ANALYZED` through C004 E021; tentatively judges Atsuko only unconscious | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Atsuko | `ANALYZED` through C004 E021; seen apparently unconscious in sanctuary, not extracted | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Beatrice | `ANALYZED` through C004 E021; greets Sensei as enemy in sanctuary exchange; rite result open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Barbara | `ANALYZED` in C004 E020; title-linked Justina saint threat directly encountered, silent and outcome open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Golconda | `ANALYZED` in C004 E005 dream frame; mediates dispute and names Beatrice's Arius territory, identity relation open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Decalcomania | `ANALYZED` in C004 E005 dream frame; italic interjection, identity relation to Golconda unresolved | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1388,3 +1388,9 @@ Routing: [V003 C004 E019 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 The title names **Saint Barbara**; after Beatrice's E019 order, Saori/Hiyori/Misaki directly react to an incoming Justina saint force. Hiyori calls it stronger than “that tactical weapon,” doubts they can face it, and Misaki says it does not stop. This supports a narrow directly encountered, silent Barbara subject, not an audited capability ranking, independent Barbara decision, injury, battle outcome or successful halo/ritual effect. Barbara adds one `UNMODELED` subject: **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated. No standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). The next-title card announces E021; Chapter 4 continues through E027, so no checkpoint is issued here. E021 unopened.
 
 Routing: [V003 C004 E020 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E020_DEEP_READING.md) → `BA:main:003:004:020`, two scenes, six visible numbered units (scene 2 is only the next-title card) and no Sensei choice. Coverage is **169 / 310**.
+
+## 142. V003 C004 E021 provisional coverage delta
+
+Mika volunteers to draw the title-linked Barbara threat away, thanks Sensei for the possibility of another chance and separates from the party; neither fight nor diversion outcome is printed. Saori, Hiyori, Misaki and Sensei reach the basilica's inner sanctuary. Saori calls to Atsuko, and Misaki tentatively says she is only unconscious; this is neither clinical/halo verification nor completed extraction. Beatrice greets Sensei as enemy. No new tracked subject or readiness promotion: **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated. No standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E022 unopened.
+
+Routing: [V003 C004 E021 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E021_DEEP_READING.md) → `BA:main:003:004:021`, two scenes, 25 visible numbered units and one singleton Sensei choice. Coverage is **170 / 310**.

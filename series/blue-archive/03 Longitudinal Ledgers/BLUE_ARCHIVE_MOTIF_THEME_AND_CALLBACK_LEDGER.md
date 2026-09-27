@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1381,3 +1381,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Saint as weapon:** Barbara's title-linked force reaches the protagonists, realizing E017/E019's threat at encounter level while leaving her form, agency and effect opaque.
 - **Overwhelming not omnipotent:** Hiyori's tactical-weapon comparison and fear register emergency scale, not an absolute power ranking or certain defeat.
 - **Cliff still open:** the E021 title points toward a sanctuary, but E020 does not show arrival, Atsuko's fate or completion of Beatrice's rite.
+
+## V003 C004 E021 motif / callback delta — chance made tactical
+
+- **Pursuer as diversion:** Mika's prior pursuit becomes a voluntary delaying role for the rescue party. The action concretizes her wish for another chance without proving self-forgiveness, pardon or successful protection.
+- **Sanctuary crossed:** the named inner sanctuary is now reached, moving an earlier destination into present space while leaving the altar/rite and extraction unresolved.
+- **Apparent reprieve:** Atsuko looks unconscious rather than visibly dead to Misaki, but the appraisal's modal wording keeps Beatrice's halo threat open.

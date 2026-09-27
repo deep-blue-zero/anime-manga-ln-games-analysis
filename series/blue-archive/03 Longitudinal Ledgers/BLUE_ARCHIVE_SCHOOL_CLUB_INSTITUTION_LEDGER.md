@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -959,3 +959,7 @@ Mika says expulsion is decided, but no new formal school instrument is inspected
 ## V003 C004 E020 institutional delta — Justina saint encounter, no completed rite
 
 The E020 title names Barbara, and Hiyori recognizes the incoming force as a Justina saint after Beatrice's E019 command. This is enough for a narrow directly encountered Barbara row, not for a certified history of Justina sainthood, autonomy or copied mechanics. Saori/Hiyori/Misaki perceive severe destructive pressure and continued approach. Hiyori's “greater than that tactical weapon” is comparative testimony, not an instrumented test. No completed halo break, Beatrice transformation, saint defeat, basilica entry or school governance change is printed.
+
+## V003 C004 E021 institutional delta — inner sanctuary reached
+
+Hiyori explicitly identifies the basilica's inner sanctuary after Mika's diversion splits the party. This resolves physical arrival, not Arius control, altar mechanics or Beatrice's rite. Misaki's tentative unconsciousness appraisal of Atsuko is not an institutional or clinical finding and gives no halo verdict. Beatrice greets Sensei directly; no inspected instrument changes Trinity discipline, ETO authority or Squad status.

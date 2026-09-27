@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1049,3 +1049,7 @@ Sensei reunites with Saori and says they will save Atsuko together. To Mika they
 ## V003 C004 E020 delta — no printed adult tactic against Barbara
 
 Saori/Hiyori/Misaki react to a title-linked Justina saint's force and continuing approach. Sensei has no direct line or choice in the six visible units, so E019's rescue/chance pledge cannot be converted into an E020 command, protection result or use of special resources. Barbara's power comparison is Hiyori's impression. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E021 unopened.
+
+## V003 C004 E021 delta — student-chosen diversion, adult concern
+
+Mika chooses to draw the threat away; Sensei's sole singleton choice asks her to be careful. Sensei neither orders the sacrifice nor claims it is safe, and the party proceeds with Saori to the sanctuary. Their inward naming of Beatrice and presence at Atsuko's apparently unconscious body show attention, not a completed protection or ritual reversal. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E022 unopened.
