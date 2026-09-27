@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E007 active provisional; C004 E008 unopened
+current_sequential_boundary: MAIN_V003_C004_E008 active provisional; C004 E009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2198,3 +2198,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E008 unopened.
+
+## V003 C004 E008 claim delta — reprieve offers and a held bridge
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Hiyori says she refused a return-for-betrayal offer; Misaki and Saori confirm hearing kill-Sensei amnesty terms. This supports message delivery but not offer fidelity, actual pardon or attack.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei reassures Hiyori, helps former adversaries and warns Misaki of immediate danger. Saori's intervention holds Misaki at the bridge; no jump or durable safety is established.
+- **BA-C008 — STRENGTHEN:** Hiyori's Schale-dungeon rumor, `u:0041` tag fault, Misaki's self-harm risk/history by Saori report, and the midnight **entrance** target remain distinct.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. Entry, rescue, Seia's illness and Mika's escape remain open; C004 E009 unopened.

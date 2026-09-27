@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -907,3 +907,7 @@ Mika says a Justice member normally watches her and waited outside for the priva
 ## V003 C004 E007 institutional delta — emergency, escape and sanctuary lead
 
 Unattributed responders report Seia's convulsions/bleeding, seek Rescue Knights/Sisterhood and say Nagisa is on the way to hospital; these are not verified treatment outcomes. Schale is unreachable by their report, not proven incapacitated. Hostile voices infer Mika caused Seia's crisis without evidence, while a wall breach and a Trinity student's escape report establish Mika's departure from custody. Saori identifies Beatrice as Arius representative/Madam and gives the Arius Basilica underground sanctuary as Atsuko's probable location, with dawn ritual by report. Neither current possession, physical site inspection, rescue, hearing nor formal expulsion follows. Sensei confiscates Saori's halo bombs/detonator; device safety remains Saori's claim.
+
+## V003 C004 E008 institutional delta — reported conditional amnesties
+
+Hiyori reports being offered Arius return for informing on Saori, then says she declined; Misaki and Saori state they were offered forgiveness for killing Sensei, with Saori saying her version differed. These align with Beatrice's E005 claim of a Squad reprieve tactic but do not show an enforceable pardon or universal identical terms. An Arius pursuer is locally stopped as Hiyori is found; Misaki is found on an abandoned bridge. The group commits to reach an Arius entrance by midnight, about ninety minutes by their reckoning, well before the reported dawn rite. No official route clearance, district entry, rescue, hearing or institutional treatment result is printed.

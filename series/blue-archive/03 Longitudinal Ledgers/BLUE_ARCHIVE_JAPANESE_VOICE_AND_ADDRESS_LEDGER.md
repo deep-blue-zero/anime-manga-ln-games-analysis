@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1531,3 +1531,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Mika's repeated `私のせい` shifts to `全部` directed at Saori; the absolutist register is psychological escalation, not a source-certified conspiracy map. Her `ごめんね～★` at the wall breach does not trivialize the threat.
 - Saori's `彼女` is disambiguated by her later Beatrice description/name (`u:0093-0096`); retrospective lines are her testimony. Her prior shot at Sensei is first-person `私は、お前を撃った` (`u:0111`).
 - Fourteen Sensei groups include paired `001/012/013` with convergent responses. The `choice:010-011` correction takes **all bombs**, and inward `u:0121/0123` prints detonator destruction, not a hypothetical. `u:0129` is E008 title only.
+
+## V003 C004 E008 delta — anxious rumor, refusal and `vanitas`
+
+- Hiyori's rumored Schale dungeon (`scene:001:u:0013`) is an anxiety narrative, not setting fact. Her `もう断った` at `u:0037` is a direct refusal self-report; `u:0041` is Saori-tagged but uses Hiyori-like deferential first person, so quarantine ownership.
+- Misaki and Saori's `先生を始末すれば` (`scene:002:u:0013-0016`) indicates heard reprieve terms, not a directive they enact here. Misaki's `vanitas vanitatum` at `u:0032` is her fatalistic voice, not the narrator's judgment.
+- Saori's `今まで何度やっても` at `u:0045` asserts a prior pattern of self-harm risk without enumerating cases. Misaki's reply does not prove clinical recovery. Nine singleton Sensei choices; `u:0060` is E009 title.

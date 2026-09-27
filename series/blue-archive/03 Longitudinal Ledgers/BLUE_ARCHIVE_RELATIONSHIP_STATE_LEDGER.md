@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1138,3 +1138,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SAORI ↔ ATSUKO/PEERS:** Saori pleads for Atsuko, reports other members missing and blames her own failed protection. No reunion/casualty count yet.
 - **SENSEI ↔ SAORI:** Saori offers total obedience and a lethal bomb against herself; Sensei asks equal conversation, chooses aid despite being shot and disarms her instead. This is bounded trust, not exoneration.
 - **SEIA ↔ MIKA/CROWD:** anonymous voices accuse Mika during Seia's medical crisis, while others object; the accusation has no established cause.
+
+## V003 C004 E008 relationship delta — choosing the same boat
+
+- **HIYORI ↔ SAORI:** Hiyori says she refused an Arius return offer in exchange for Saori's whereabouts; Saori offers to let her take it, and Hiyori resists being presumed likely to betray. The bond survives the offer but their future safety does not follow.
+- **HIYORI ↔ SENSEI:** she initially fears punishment and a rumored dungeon, then hears Sensei explicitly offer rescue help. Her terror does not establish Sensei's intent.
+- **MISAKI ↔ SAORI/HIYORI:** Misaki's edge-side threat and futility challenge confront Saori's determined rescue response; Misaki agrees to accompany the group. No completed jump, lasting recovery or uncoerced independent enthusiasm is inferred.
+- **SQUAD ↔ SENSEI:** Misaki and Saori acknowledge an amnesty-for-killing-Sensei offer, while Sensei judges they have not acted on it here and remains with them. Conditional trust is not a guarantee.

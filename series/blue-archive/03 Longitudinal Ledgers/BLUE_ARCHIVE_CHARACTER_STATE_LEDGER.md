@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–007; BA:main:003:004:008 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E008 character-state delta — Squad reunion and bridge risk
+
+- **Hiyori:** found alive, initially believes Schale punishment/dungeon rumor, then accepts Sensei's direct help. Reports refusing an offer to reveal Saori for Arius return, despite her own fear and uncertainty. `UNMODELED`.
+- **Saori:** offers Hiyori freedom to betray her, accepts Hiyori's refusal and later confirms a kill-Sensei amnesty offer. At Misaki's bridge risk she vows to follow/resuscitate her and refers to previous attempts; no jump occurs. `UNMODELED`.
+- **Misaki:** directly present on a dangerous bridge, voices futility and a self-harm threat, then agrees to help rescue Atsuko after Saori's intervention, partly under leader authority. No durable recovery or rescue. `UNMODELED`.
+- **Sensei:** reassures Hiyori, explicitly joins Atsuko-rescue effort, judges Saori has not killed them, and warns Misaki away from the edge. Does not supply an existential answer or completed safety intervention. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E007 character-state delta — escape, plea and nonlethal aid
 
