@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1077,3 +1077,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hasumi `規定上は何の問題もありません` is her procedural assertion; Koharu's `凶悪犯`/`悪党`/`変態`/`バカ` are pejorative judgments, not verified offenses or school categories.
 - `scene:001:u:0012` is labelled Koharu while announcing “last is Shimoe Koharu” in third person. The name/reveal is reinforced by narration `u:0020-0022`; exact speaking voice at `u:0012` is not secure. `u:0015-0019` are name-card syllables, not speech.
 - Koharu `死にたい` follows public embarrassment and Hanako's innuendo; preserve acute comic context rather than promoting it to a lasting self-harm state. Azusa `一ヵ月は立てこもれる` is a conditional boast, not a demonstrated capacity. Sensei `頑張ってみるね` and Hifumi `出来るだけ頑張ります` are effort pledges, not outcomes. Three singleton choice groups; `u:0035` next-title card.
+
+## V003 C001 E006 delta — mission register, address consent and collective syntax
+
+- Hifumi `全員同時に合格する` and `一度でも全員同時に合格` specify one common passing sitting within up to three; `u:0049` rejects solo exit. Azusa recasts sittings as `ミッション` and after-school class as `特殊訓練`, an interpretive register rather than proof of a combat curriculum.
+- Hifumi's `転校` comes from documents, then Azusa directly confirms it; `u:0050` explains her first-year exam placement by curricular difference. Do not equate her E004 second-year student status with first-year exam level. Hanako requests `アズサちゃん` and receives permission; broader `ちゃん`/`仲間` wording is her overture, not established intimacy. Koharu explicitly rejects `先輩` and `馴れ馴れしく` treatment; Azusa says `親しいふり` is unnecessary for shared benefit, not impossible friendship.
+- Koharu's `飛び級`/`本当の力を隠してた` and predicted first-year success are self-account/forecast. Hanako's “emotional up/down” appraisal is one local view. Scene `u:0001` absent, `u:0002` omitted introductions, `u:0059` narrated lesson start, `u:0060` title card; one singleton Sensei choice.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -650,3 +650,7 @@ At Justice Realization's classroom, Koharu guards the space and says Hanako was 
 ## V003 C001 E005 institutional delta — four-member club and committee return bar
 
 Hasumi says the Tea Party request and Schale teacher role mean taking Hanako/Azusa is permissible under regulations; no written regulation, release form or adjudication is shown. Koharu's opposition yields to her senior's account. Narrator identifies Koharu as the fourth first-year remedial student, gives three consecutive failing grades and says she cannot return to Justice Realization until her grades improve. This is a stronger status record than E002's later expulsion fear, but not an expulsion finding; threshold, timing and school-wide academic rule remain open. Hifumi says all four are gathered and the real problem now begins. No completed study plan or exam result.
+
+## V003 C001 E006 institutional delta — three chances for one joint pass
+
+Hifumi reports a special academic exam with up to three sittings; all four must pass simultaneously in one to end remedial lessons. She assigns Sensei schedule coordination and varied supplementary teaching, and corrects Koharu that individual high performance does not permit solo club graduation. These statements are the operative in-scene rule, not a viewed exam charter or grade threshold. Azusa reports a recent transfer and first-year exam placement due differing prior curriculum; Hifumi cites documents for transfer, then Azusa confirms it. Koharu reports taking second-year tests repeatedly to skip a grade and forecasts success on first-year tests; her records/cause remain uninspected. Narrator confirms daily after-school special lessons subsequently begin, but supplies no content or result.

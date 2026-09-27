@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E005 active provisional; E006 unopened
+current_sequential_boundary: MAIN_V003_C001_E006 active provisional; E007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1603,3 +1603,13 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; exact grade threshold, committee-return timing and educational outcome remain OPEN.
+
+## V003 C001 E006 claim delta — synchronized passes, not individual exit
+
+- **BA-C001/C016:** Hifumi's all-four pass condition and correction of Koharu make mutual dependence explicit; narrator confirms daily classes began, but teaching quality, choice and result remain open.
+- **BA-C002–C004/C007/C010–C011:** three-sitting rule, exam-level placements and Sensei remit are participant accounts, not inspected regulation. Koharu's repeated-acceleration explanation is not an audited cause of E005 failing marks.
+- **BA-C008:** narrated introductions are omitted, `u:0001` absent and `u:0059` is a narrated time bridge; one singleton Sensei greeting cannot support a broad teacher persona. Hanako's emotional appraisals and Koharu's future score forecast remain statements, not outcomes.
+- **BA-C019/C020:** task-bound companionship and conditional institutional return are comparison questions, not generalized Pavane mechanisms.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; exact test rules and later performance remain OPEN.

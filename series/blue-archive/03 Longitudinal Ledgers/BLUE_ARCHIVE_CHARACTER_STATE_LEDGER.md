@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -804,3 +804,11 @@ Hasumi and Mashiro enter `UNMODELED`. Totals **21 `PARTIAL_MODEL` / 33 `UNMODELE
 ## V003 C001 E005 character-state delta — Koharu's academic bar revealed
 
 Hasumi says Tea Party-authorized Schale teaching permits Sensei to take Hanako and Azusa under the regulations; Koharu objects, then defers. Koharu mocks the remedial club until the narrator identifies her as its fourth member, with three consecutive failing marks and a bar on returning to Justice Realization until grades improve. Her shock and embarrassment are secure; `u:0012` third-person reveal is mislabelled as Koharu and not a voice sample. Hifumi confirms four assembled, asks for effort and pledges her own. Hanako jokes and Azusa claims she could hold out one month in this classroom; neither supplies a study plan or demonstrated ability. Koharu's `死にたい` is situated embarrassment, not a diagnosed enduring intent. No readiness change: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E006 character-state delta — common exam, divergent reasons
+
+- **Hifumi:** explains up to three special exams and a simultaneous four-person pass condition, assigns Sensei coordination/tutoring, then corrects Koharu's belief that a solo high mark permits exit. Narration confirms daily lessons begin; no scores.
+- **Koharu:** resists familiar address/seniority, claims repeated second-year exams for acceleration caused her failing marks, predicts first-year success, and leaves after the group-rule correction. Her explanation is self-report, not independently checked cause.
+- **Azusa/Hanako:** Azusa confirms recent transfer, reports first-year exam placement due curriculum difference, and frames the group as mutual benefit rather than compulsory friendship. Hanako seeks `ちゃん` address and accepts no in-club seniority; social appraisal is situated.
+
+No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

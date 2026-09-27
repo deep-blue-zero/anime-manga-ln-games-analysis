@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -740,3 +740,7 @@ Sensei learns Hifumi missed a test for a hobby. `choice:001` is silent, and “c
 ## V003 C001 E005 delta — request for students, promise of effort
 
 Sensei asks Hasumi to take Hanako and Azusa to the remedial club; Hasumi says the transfer is permitted under her reading of rules, while Koharu objects. Sensei does not personally adjudicate charges or write a release order in the text. When Hifumi says the four have assembled and asks for help, Sensei's singleton `choice:003` promises to try. This is a bounded educational commitment, not a guarantee of grades, disciplinary pardon, or unlimited Schale command. Koharu's embarrassed `死にたい` and Azusa's holdout boast are not converted by Sensei into a diagnosis or tactical plan. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E006 delta — assigned work versus shown teaching
+
+Hifumi asks Sensei to coordinate schedules and provide varied supplementary lessons for an all-four pass within three sittings. Sensei's one printed singleton choice is a greeting; no lesson, feedback, grade decision or disciplinary action is shown. Narration later reports daily after-school lessons began, which supports activity at the group level but not a particular teacher technique or efficacy. Adult role and shared student dependence are now explicit; the ethical quality of intervention and the exam's fairness remain untested. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

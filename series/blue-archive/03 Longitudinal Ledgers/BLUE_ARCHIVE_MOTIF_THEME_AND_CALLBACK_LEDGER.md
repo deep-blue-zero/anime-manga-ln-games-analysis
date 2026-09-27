@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -822,3 +822,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **The fourth member reveal:** Koharu condemns remedial membership as shameful immediately before her own failing marks and return-to-committee bar are narrated. The juxtaposition tests status stigma, not a proven moral conversion.
 - **Conditional belonging:** her Justice Realization return depends on improved grades. This echoes prior school-recognition concerns without equating Trinity discipline to Pavane's club approval.
 - **Help as effort, not instant rescue:** Hasumi's procedural opening and Hifumi/Sensei pledges assemble the group, but the text withholds the educational method and result.
+
+## V003 C001 E006 motif / callback delta — shared success versus solo status
+
+- **All four or none:** one simultaneous pass within three sittings makes peer dependence a structural feature; Koharu's imagined solo quick exit fails at the rule level before any exam occurs.
+- **Mission and instruction:** Azusa translates class into training/missions, while Hifumi defines academic evaluation and asks Sensei for schedule/teaching work. The gap in register does not imply sabotage or an actual security operation.
+- **Address without forced intimacy:** Hanako's `ちゃん` overture, Koharu's no-seniority boundary and Azusa's mutual-benefit framing show that cooperation can begin without an agreed friendship script.

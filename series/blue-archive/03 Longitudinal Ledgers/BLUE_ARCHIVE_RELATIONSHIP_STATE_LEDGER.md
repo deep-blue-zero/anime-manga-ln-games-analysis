@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -668,3 +668,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **HASUMI → KOHARU/SENSEI:** Hasumi corrects Koharu's objection, interpreting Tea Party/Schale authority as permitting the two detainees' transfer. Koharu yields to her senior, not to an independently shown rule text.
 - **KOHARU ↔ REMEDIAL PEERS:** Koharu publicly stigmatizes Hanako/Azusa and the “fool” club, then is announced as the fourth member herself. The text shows shock/embarrassment, not apology, reconciliation or permanent hostility.
 - **HIFUMI ↔ FOUR/SENSEI:** Hifumi confirms all four are present and asks Sensei for help; both pledge to try. Hanako addresses her as president, Azusa adds a classroom-holdout boast. No learning plan or durable group trust yet.
+
+## V003 C001 E006 relationship delta — task cooperation before friendship
+
+- **HIFUMI → GROUP/SENSEI:** Hifumi sets all-four success and Sensei scheduling/tutoring remit, then corrects Koharu's solo-exit assumption. This is a leadership action, not proof peers accept it or tutoring succeeds.
+- **HANAKO ↔ AZUSA/KOHARU:** Hanako asks Azusa's permission for `ちゃん` and calls the three companions; Koharu rejects imposed seniority/familiarity. Hanako accepts the no-seniority norm. Address consent is bounded; no stable closeness or hostility yet.
+- **AZUSA ↔ PEERS:** Azusa accepts transfer disclosure, describes cooperation as mutual benefit and says she is unfamiliar with seniority. Her position avoids pretending intimacy, not a perpetual ban on relationship growth.
+- **KOHARU ↔ GROUP:** Koharu predicts quick solo success and departs despite Hifumi's correction. Her institutional status anxiety now meets a collective exam rule; actual future choice remains open.
