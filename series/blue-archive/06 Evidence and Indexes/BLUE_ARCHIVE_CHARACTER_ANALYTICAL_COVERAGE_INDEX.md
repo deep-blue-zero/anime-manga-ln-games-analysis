@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E002
 generation: V1
-version: "2.41"
+version: "2.42"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001 provisionally; 177/310 main units; side-source classes unreviewed; BA:main:004:001:002 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–002 provisionally; 178/310 main units; side-source classes unreviewed; BA:main:004:001:003 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:004:001:002
+next_unopened_main_unit: BA:main:004:001:003
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:001:002
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V004_C001_E001` provisional boundary, inheriting canonical `MAIN_V003_C004`:
+This index answers four questions at the `MAIN_V004_C001_E002` provisional boundary, inheriting canonical `MAIN_V003_C004`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E002;
 - current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
-- main-story coverage: `177 / 310` canonical units;
+- main-story coverage: `178 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:004:001:002`.
+- next unopened main unit: `BA:main:004:001:003`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,7 +74,14 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V004 C001 E001; accepts Rin's report corrections and requested SRT assignment | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V004 C001 E002; authorizes Life Safety and credits its local success | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kanna | `ANALYZED` in V004 C001 E002; Public Security director; rejects then supports Life Safety, forecasts custody route | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kirino | `ANALYZED` in V004 C001 E002; Life Safety officer; civilian-safety push and surprising hit on Miyako | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Fubuki | `ANALYZED` in V004 C001 E002; Life Safety officer; reluctant, impersonates Saki and extracts countersign | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saki | `ANALYZED` in V004 C001 E002; RABBIT tactician; thermal targeting and anti-closure, contests Miyako | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Moe | `ANALYZED` in V004 C001 E002; RABBIT support; bomb/drone fire and admitted ammunition expenditure | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyako | `ANALYZED` in V004 C001 E002; RABBIT leader; negotiation-leverage aim and Kirino-shot inference | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyu | `ANALYZED` in V004 C001 E002; RABBIT sniper; drone measurement, home-loss fear and password trap | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C004 E027; reports prophetic-dream loss as deal price, last vision withheld | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C004 E026; quietly sends preserved Mika accessories via Ichika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C004 E026; finds damaged ancient catacomb map with Ui, restoration unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -101,7 +108,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Iroha | `ANALYZED` through C003 E025; urges Makoto to rest and says matters settled, not complete audit | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ibuki | `ANALYZED` in C003 E007; reads flammable warning on airship boxes before blast | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Maestro | `ANALYZED` through C004 E005; dream-frame objection to Beatrice's weapon use of guardian copies | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mai | `ANALYZED` in C003 E011; urges Chronos colleague Shinon to retreat from conflict alley | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mai | `ANALYZED` through V004 C001 E002; films Public Security setback with Shinon | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanae | `ANALYZED` through C004 E025 by Mine's treatment order; direct speech not secure in scene | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Serina | `ANALYZED` through C004 E025; responds to Mine's treatment mission, motto labels conflict | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Suzumi | `ANALYZED` in C003 E011; flashbang intervention and school-blind patient-protection statement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -113,7 +120,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Fuuka | `ANALYZED` through V003 C002 E011; bound/gagged in School Lunch car, then directly asks Haruna to let her off | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Izumi | `ANALYZED` through V003 C002 E011; back in remote Gourmet contact and still pursued by Prefect Team | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` through V004 C001 E001; corrects Schale paperwork and delegates SRT response after reports | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Shinon | `ANALYZED` through C003 E011; bounded conflict reporting and retreat with Mai | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Shinon | `ANALYZED` through V004 C001 E002; broadcasts police failure before drone loss | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Momoka | `ANALYZED` in C003 E005; federal press capacity aside | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ayumu | `ANALYZED` through V004 C001 E001; relays SRT/Valkyrie escalation and proposes Schale | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` through V004 C001 E001; reassures Sensei before Rin's administrative meeting | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -169,6 +176,13 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Subject | State / development | Decision path | Directed relationships | Institution / role | Ordinary life | Written Japanese | Crisis / pressure | Negative constraints |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
+| Kanna | L; initial contempt revised after local result | L; accepts Schale support | L; Sensei/Kirino/Fubuki | M; Public Security command | GAP | M; harsh-to-formal register | M; force depletion/custody | H; private baseline, actual award and legal remit unaudited |
+| Kirino | L; eager service and surprised marksmanship | L; acts under Schale plan | L; Fubuki/Kanna/Miyako | M; Life Safety officer | GAP | M; formal `本官` with excited slips | M; public-park arrest | H; intended aim, shooting consistency and private life unknown |
+| Fubuki | L; reluctance then tactical deception | L; improvises countersign reversal | L; Kirino/Miyu/Sensei | M; Life Safety officer | GAP | M; casual/leave-focused | M; smoke and impersonation | H; full tactic, long-term diligence and private life unknown |
+| Saki | L; tactical competence and command challenge | L; target lock and anti-closure stand | L; Moe/Miyako/Miyu | M; RABBIT/SRT | GAP | M; terse command/shaming | M; active protest | H; reasons for command dispute, injury and ordinary life unknown |
+| Moe | L; spectacle costs support ammo | L; chooses broad drone fire | L; Saki/Miyako | M; RABBIT support | GAP | M; gleeful explosive register | M; siege | H; ammo scope, private baseline and future restraint unknown |
+| Miyako | L; negotiation discipline and misread shot | M; limits unnecessary fire, plans reposition | L; squad/Sensei/Kirino | M; RABBIT lead by exchange | GAP | M; measured/direct adult refusal | M; hit and custody | H; actual injury, command legitimacy and adult-distrust history unknown |
+| Miyu | L; precise spotting plus placelessness fear | L; challenges impostor, then yields countersign | L; Saki/Fubuki | L; RABBIT sniper | GAP | M; hesitant register/measurement | M; smoke trap | H; injury, home future and ordinary/private baseline unknown |
 | Seia | M; treaty frame, dream-framed interpretation and C004 E026 direct waking return | M; mobilizes rescue after an undisclosed daydream deal | M; Sensei/Nagisa/Mika contact | M; Tea Party rescue coordination, formal remit thin | GAP | M; modal and philosophical register | M; awake/present but still coughing | H; deal terms, medical recovery, foresight and relationship repair unverified |
 | Koharu | M; prior despair countered by 91 pass, now illness reported | M; prior exam effort, no E004 decision | M; Hasumi thinks of her, Mashiro knows assignment | M; still remedial club, Justice return not shown | M; prior camp/visit hope | M; absent in E004 | M; overnight strain and reported illness | H; grade return, direct health and private breadth open |
 | Hanako | M; no-withdrawal, Mika theory and document-work complaint | M; help actually performed for days | M; club, Sisterhood and adversarial Mika | M; pass plus practical Sisterhood work | M; teasing/outing desire | M; complaint under label inversion | M; crisis then tiring aftermath | H; work terms, Mika motive and private breadth open |
@@ -263,6 +277,13 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Knowledge/state clarity | Public/private and relationship breadth | Humor/play coverage | Diagnostic current routes |
 |---|---|---|---|---|
 | Sensei | structural choice/`心の声` distinction persists; C003 E003 hypothetical motives and two-option trust choice do not verify Mika's heart | Hifumi credits local command; Mika reports refused visits; trust is future-facing ethical posture | Care/play, ethical objection, club-protection and responsibility under uncertainty | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019; V002 C2 E002-E003/E009-E012; V003 C002 E007-E019; C003 E001-E003 |
+| Kanna | Field command and reported closure/transfer, no documents | Schale cooperation and Life Safety reappraisal | Derision gives way to thanks, not full relationship repair | V004 C001 E002 `scene:001:u:0011-0061/0108-0127`; `scene:002:u:0085-0122` |
+| Kirino | Civilian-safety argument and surprise hit | Kanna/Sensei/Fubuki and Miyako confrontation | Effort→justice self-credit not proof of intentional false aim | V004 C001 E002 `scene:001:u:0039-0054/0130-0139`; `scene:002:u:0068-0084` |
+| Fubuki | Reluctant deployment, smoke/password deception | Sensei/Kirino and impersonated Saki/Miyu | Old-method/leave remarks; `u:0090-0091` suspect | V004 C001 E002 `scene:002:u:0021-0047/0092-0102` |
+| Saki | Thermal targeting, drone lock and resistance slogan | Moe/Miyako/Miyu | Elite identity produces internal pressure | V004 C001 E002 `scene:001:u:0003-0010/0062-0109`; `scene:002:u:0048-0062` |
+| Moe | Drone fire and self-reported full support-ammo spend | Saki/Miyako, public GSC address | Spectacle is not a stable whole-person portrait | V004 C001 E002 `scene:001:u:0063-0106`; `scene:002:u:0054-0062` |
+| Miyako | Negotiation leverage, no-resupply caution and shot inference | Squad command friction, direct anti-adult refusal | Inward tactical misread is not Kirino intent | V004 C001 E002 `scene:001:u:0069-0099`; `scene:002:u:0063-0084/0112-0114` |
+| Miyu | Coordinates precise; no-school-home fear; password compromise | Saki admonition, Fubuki deception | Fatalistic speech in crisis not durable outlook | V004 C001 E002 `scene:001:u:0079-0100`; `scene:002:u:0010-0051/0106-0107` |
 | Seia | Treaty/paradise frame; C003 E021 retracts forced proof demand; C004 E026 awake rescue organizer | Directly reunites with Mika/Nagisa; undisclosed daydream deal and cough limit mechanism/health | Prophecy/fatalism and `それでも` claims remain hers | V003 C001 E001; C002 E018/E020; C003 E001/E021/E025; C004 E026 `scene:001:u:0022-0051` |
 | Koharu | Third official 91/pass; E022 uses certified pass/effort to reject retroactive negation | Peer defense of Azusa; committee return not shown | 100-point pledge not required for success | V003 C001 E002-E011; C002 E006-E019; C003 E022 `scene:001:u:0015` |
 | Hanako | Third official 100/pass, no-withdrawal, and E003 Mika-motive conjecture | E022 directly denies Saori can erase Azusa's acquired life | Nudity joke is false policy; psychological theory not mind access | V003 C001 E002-E016; C002 E002-E019; C003 E001-E003/E022 `scene:001:u:0014` |
@@ -355,6 +376,13 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Current readiness | Standalone model | Strongest currently supported use | Material blockers |
 |---|---|---|---|---|
 | Sensei | `PARTIAL_MODEL` | `NONE` | local support, consent check and choice-conditioned trust under uncertainty | Teaching causality, actual future visits, accountability handling and broader protection open. |
+| Kanna | `UNMODELED` | `NONE` | field command, rank appraisal and local reversal | Official file, sustained judgment, private baseline and custody outcome absent. |
+| Kirino | `UNMODELED` | `NONE` | civilian-protection commitment and surprising hit | Deliberate aim unconfirmed; broader competence and ordinary/private life missing. |
+| Fubuki | `UNMODELED` | `NONE` | smoke/countersign deception despite reluctance | One operation, suspect lines, motive breadth and private baseline missing. |
+| Saki | `UNMODELED` | `NONE` | thermal targeting and anti-closure protest | Command legitimacy, ordinary life, custody and injury outcomes open. |
+| Moe | `UNMODELED` | `NONE` | spectacular drone fire with ammo cost | Full ammunition scope, restraint outside crisis and private baseline absent. |
+| Miyako | `UNMODELED` | `NONE` | negotiation-leverage leadership and adult distrust | False-aim inference, legal status, history and ordinary baseline open. |
+| Miyu | `UNMODELED` | `NONE` | spotting precision plus compromised password under stress | Medical status, home future and broader independent decision evidence missing. |
 | Seia | `UNMODELED` | `NONE` | treaty frame, proof-demand revision and C004 direct waking rescue organization | Daydream deal terms, clinical recovery, foresight and successful relationship repair unverified. |
 | Koharu | `UNMODELED` | `NONE` | final official 91/pass after distress and procedural loss; mediated Hasumi encouragement | Committee return, administrative repair and private baseline unresolved. |
 | Hanako | `UNMODELED` | `NONE` | no-withdrawal, 100/pass, Sisterhood help and self-corrected Mika probing | Mika inner motive, repaired secrecy breach, future duties and private breadth open. |
@@ -451,6 +479,13 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Subject | Institutional / professional | Familiar ordinary interaction | Friendship / care in evidenced relations | Conflict / high-stakes decisions | Written-register constraints |
 |---|---|---|---|---|---|
 | Sensei | P (structural) | U | P (structural) | P (choice-conditioned) | U (persona space requires separation) |
+| Kanna | U | U | U | U | U |
+| Kirino | U | U | U | U | U |
+| Fubuki | U | U | U | U | U |
+| Saki | U | U | U | U | U |
+| Moe | U | U | U | U | U |
+| Miyako | U | U | U | U | U |
+| Miyu | U | U | U | U | U |
 | Seia | U | U | U | U | U |
 | Koharu | U | U | U | U | U |
 | Hanako | U | U | U | U | U |
@@ -535,7 +570,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Kaiser director (role actor) | P (creditor/command) | U | U | P (leverage/threat) | P (administrative threat) |
 | Shiba Seki master (role actor) | P (hospitality) | P (service encounter) | P (community contact) | U | P (service/reassurance) |
 
-For **all 87 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
+For **all 94 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
 
 ## 6. Evidence concentration and sampling bias
 
@@ -1445,3 +1480,9 @@ The [canonical V003 C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_0
 Rin recognizes Schale's field reputation while directly correcting Sensei's report/expense format, stamp position and formal register. Ayumu reports planned SRT school removal and a squad-sized park occupation, then successive Valkyrie Security/Public Security failures and media escalation; these are administrative reports, not direct battle or inspected closure authority. Rin first retains GSC responsibility, then requests Schale help; Sensei accepts, and Rin defers the paperwork. Arona's earlier hospitality expectation is not borne out. No individual SRT protester is seen or tracked, and no field outcome is shown. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated. No standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E002 unopened.
 
 Routing: [V004 C001 E001 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E001_DEEP_READING.md) → `BA:main:004:001:001`, one scene, 109 visible numbered units and ten Sensei choice groups (five paired). Coverage is **177 / 310**.
+
+## 151. V004 C001 E002 provisional coverage delta
+
+Four directly speaking RABBIT members (Saki, Moe, Miyako, Miyu) and three Valkyrie officers (Kanna, Kirino, Fubuki) enter as narrow `UNMODELED` subjects. Their first unit supplies tactical, institutional and conflict behavior, not enough ordinary/private or cross-context evidence for a model. Kanna's closure/transfer/legal account and future-disposition forecast remain attributed; Kirino's hit is direct but Miyako's deliberate-false-aim theory is not confirmed. Fubuki's impersonation exploits Miyu's countersign under pressure; Miyu's actual injury is unknown. Sensei's student-equality stance and the two Life Safety students' local success extend his bounded role without proving a complete solo plan. Readiness is **21 `PARTIAL_MODEL` / 73 `UNMODELED` across 94**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E003 unopened.
+
+Routing: [V004 C001 E002 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E002_DEEP_READING.md) → `BA:main:004:001:002`, two scenes, 263 visible numbered units and 13 Sensei choice groups (five paired). Coverage is **178 / 310**.

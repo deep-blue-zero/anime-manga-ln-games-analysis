@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1085,3 +1085,7 @@ The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_�
 ## V004 C001 E001 delta — accountable Schale work and requested help
 
 Rin insists Sensei correct field reports and expenses; administrative accuracy is a genuine part of Schale's adult duty, not trivialized by past rescues. Sensei accepts correction and tentatively offers crisis help, but Rin initially preserves GSC responsibility. Only after successive reported Valkyrie failures does Rin request Schale intervention and defer the paperwork herself; Sensei accepts via choice alternatives. No student contact, protest de-escalation or tactical result is printed. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); V004 C001 E002 unopened.
+
+## V004 C001 E002 delta — equal student standing in a tactical gamble
+
+Sensei arrives with Rin's introduction and receives Kanna's field cooperation. Against Kanna's allegedly unbridgeable elite gap, Sensei voices `みんな「生徒」に変わりは無い` and calls on Kirino/Fubuki under accepted Schale responsibility (`scene:001:choice:008;u:0125-0139`). Life Safety's local victory and Sensei's credit to them show student agency rather than a solo adult rescue, but the actual planning is mostly off-page: Fubuki cites Sensei's psychological read and Kirino says the position matched Sensei's prediction. The exchange is not evidence that risk was zero, that all abilities are equal, that RABBIT's distrust is mere petulance, or that Sensei controls their legal fate. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E003 unopened.

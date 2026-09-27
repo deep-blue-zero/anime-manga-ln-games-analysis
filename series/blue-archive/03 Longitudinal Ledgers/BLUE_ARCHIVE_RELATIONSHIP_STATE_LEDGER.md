@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1279,3 +1279,7 @@ The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_�
 - **AYUMU ↔ RIN/SENSEI:** Ayumu repeatedly escalates new reports and proposes Schale's help; this is advice from an administrative colleague, not authority over the protesting students.
 - **ARONA ↔ SENSEI:** Arona tries to reassure Sensei about Rin's invitation before the correction session; her hospitality forecast is optimistic, not corroborated by Rin's purpose.
 - **SRT GROUP ↔ GSC/VALKYRIE:** their occupation and reported force defeat create an adversarial operational relation, but no student has spoken or been individually identified.
+
+## V004 C001 E002 relationship delta — fractured command and refused adult
+
+Within RABBIT, Miyako seeks disciplined negotiation and resource restraint; Saki contests her command and Moe invokes the absent president to loosen obligation, while Miyu needs protection rather than elite shaming. This is friction inside a still-acting squad, not proven dissolution. Kanna begins dismissive of Kirino/Fubuki, then thanks them after their result; no reward/transfer is granted. Sensei takes operational responsibility and publicly credits the two students, but RABBIT rejects contact: Miyako's direct adult distrust cannot be flattened to Kanna's loss-irritation gloss. Shinon/Mai's broadcast and Kanna's camera objection remain a press–police boundary, not personal enmity.

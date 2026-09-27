@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -995,3 +995,7 @@ The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_�
 ## V004 C001 E001 institutional delta — SRT removal and federal escalation
 
 Rin says GSC requires handwritten official amounts in kanji numerals, proper stamp placement and formal report style; she corrects Schale submissions, though the full rule text is not reproduced. Ayumu reports planned SRT Special Academy removal and a squad-sized park occupation against it. Rin describes SRT as a former elite Special Response Team school under the missing president, but no closure order or student grievance is inspected. Valkyrie Security and then Public Security are reported defeated; Rin calls Schale only after these failures and says Valkyrie will support Sensei. Request is actual; field arrival/support and outcome are future.
+
+## V004 C001 E002 institutional delta — custody without adjudication
+
+Kanna identifies SRT's RABBIT first-years and reports school closure and intended transfer to Valkyrie Security, but no closure/transfer instrument is inspected. Public Security's force-first effort fails; under Schale responsibility, remaining Valkyrie personnel support Life Safety's local subdual. Kirino alleges illegal weapons and public-park occupation; the episode does not supply a statute or charge sheet. Kanna says questioning is next and predicts GSC Defense Office disposition because the council was involved; no interrogation or penalty has occurred. Kronos filming and a destroyed relay drone add public visibility without evidentiary completeness.

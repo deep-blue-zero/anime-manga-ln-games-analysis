@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1663,3 +1663,10 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 
 - Mika's `悪役登場☆` and `魔女でも見たみたい` at scene 2 `u:0005-0007` perform cheerfulness around an adversarial encounter and echo E007 crowd language; they do not establish a settled ordinary mood or completed violence.
 - Saori's `先生は安全が確保されたら、後ろからついてこい` is a direct protective instruction. The predicted `エリート兵` are not yet directly visible. One singleton Sensei choice; scene 2 `u:0008` is E011 title.
+
+## V004 C001 E002 delta — authority, register, and a false Saki
+
+- Saki's clipped tactical commands and `SRT特殊学園は終わらない` protest contrast Miyako's measured `交渉に有利な立場` and `不要な射撃`, while Moe's `ド派手`/`全部` excitement becomes an actual ammunition-cost claim (`scene:001:u:0003-0008/0062-0106;scene:002:u:0054-0062`).
+- Miyu's hesitant `こわい`/`帰れる場所` self-talk coexists with precise altitude/range/bearing. She detects an impostor's wrong voice and speech style but reveals the `クローバー`→`ニンジン` response when Fubuki reverses the challenge (`scene:001:u:0079-0100;scene:002:u:0010-0047`). Fubuki's italic `不審者` lines are a performed deception, not Saki's true register.
+- Kanna's hierarchy of `エリートとそうでない生徒` is opposed by Sensei's singleton `みんな「生徒」に変わりは無い` (`scene:001:u:0121-0127;choice:008`). The latter is a normative category, not a literal equivalence of weapons/skill.
+- Miyako's inward `わざと違う方向` is a tactical interpretation; Kirino's `命中しました！？！？` signals surprise. `scene:002:u:0090-0091` are Fubuki-tagged but fit Kirino's self-praise/security-transfer register; quarantine precise voice rather than silently reassign. No performed voice admitted.

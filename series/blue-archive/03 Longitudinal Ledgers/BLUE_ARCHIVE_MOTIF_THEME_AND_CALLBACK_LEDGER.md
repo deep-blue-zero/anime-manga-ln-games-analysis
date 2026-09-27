@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1437,3 +1437,7 @@ The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_�
 - **Paperwork after heroics:** Rin's numerals/stamp/style corrections return the adult role to traceable administration after the Eden rescue, without undoing field value.
 - **Missing president, widening vacuum:** Rin treats SRT's former elite-school role and repeated federal incidents as post-disappearance governance strain; this is her frame, not a legal abolition record.
 - **Escalation ladder:** Security then Public Security fail by report, while media arrives; the comedy of Sensei escaping paperwork coexists with a serious threat whose opponents have not spoken.
+
+## V004 C001 E002 motif / callback delta — rank and the lost home
+
+SRT's `閉校を取り消せ` demand becomes individual: Saki insists the school remains as long as they resist, while Miyu realizes she cannot simply go home. The external elite status that Kanna treats as decisive also becomes Saki's tool for shaming Miyu; Sensei's `みんな「生徒」` and Life Safety's subdual complicate rank as a moral or tactical absolute. Drone spectacle consumes Moe's support ammunition, making visible a cost that Miyako had forecast. The `クローバー`/`ニンジン` password lets a nominal security procedure become the opening for deception. No full future-home, transfer or disciplinary outcome is implied.

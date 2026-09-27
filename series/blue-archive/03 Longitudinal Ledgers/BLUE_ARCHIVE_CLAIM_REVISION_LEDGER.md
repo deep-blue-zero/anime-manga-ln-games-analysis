@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E001 active provisional; C001 E002 unopened
+current_sequential_boundary: MAIN_V004_C001_E002 active provisional; C001 E003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2377,3 +2377,7 @@ The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_�
 - **BA-C002–C004/C007/C010–C011/C021 and BA-C019/C020 — PRESERVE:** no direct test of prior story claims.
 
 No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 66 unmodeled across 87**; backfill **DEFER**. V004 C001 E002 unopened.
+
+## V004 C001 E002 claim delta — tactical attribution and under-ranked students
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's `みんな「生徒」` stance leads to deploying Kirino/Fubuki with Valkyrie support; Kanna directly recognizes their local success, but Sensei's off-page tactical plan and broader pedagogical mechanism remain unverified. **BA-C008 — STRENGTHEN evidence discipline:** Kanna's closure/transfer and Kirino's illegal-weapons labels are attributed institutional claims; Miyako's deliberate-false-aim explanation is her inference, whereas Kirino's surprise is direct counterweight. A gunshot near Miyu is not an injury certificate. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Seven new `UNMODELED` subjects bring readiness to **21 partial / 73 unmodeled across 94**. No new durable claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E003 unopened.
