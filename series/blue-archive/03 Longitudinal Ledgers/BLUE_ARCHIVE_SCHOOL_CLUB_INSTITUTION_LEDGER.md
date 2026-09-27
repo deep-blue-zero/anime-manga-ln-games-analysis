@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -975,3 +975,7 @@ Mika sees an old choir room with organ, scores and gramophone and infers Arius r
 ## V003 C004 E024 institutional delta — Beatrice's local loss and Gematria claim
 
 Beatrice herself protests that her ritual was interrupted and claims intact Barbara/Arius/mimesis resources after she is found down. The first is consistent with the local fight outcome; remaining assets are uninspected. Golconda directly names Gematria membership and intends to retrieve her, but no formal custody, sanction or destination is printed. His bomb-manufacturer claim and admission of no verified halo-destruction test delimit technical evidence; planned disposal is not completion. Atsuko is awake but severely injured by participant report, and no school, ETO or Trinity disciplinary instrument is changed.
+
+## V003 C004 E025 institutional delta — accountability offer, district entry
+
+Saori names GSC, Trinity and Correction Bureau as possible places to send her; no authority accepts or issues a disposition. Sensei reports Beatrice fled and expects no repeat harm, but Atsuko's broader “all oppression gone” statement is participant judgment, not audited governance transfer. Justice troops are reported/directed through multiple Arius catacomb entrances; Mine reaches the district, cites Seia's rescue instruction, orders Serina/Hanae to treat Arius students and intended future casualties, and declares a liberation/rescue mission. Entry and orders are real, not completed liberation, treatment or Mika extraction. Atsuko's mask-device mechanism is a hypothesis, not a certified safety protocol.

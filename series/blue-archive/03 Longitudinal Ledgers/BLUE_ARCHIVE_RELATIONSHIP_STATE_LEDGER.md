@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1247,3 +1247,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **BEATRICE ↔ SAORI/SQUAD:** Beatrice selects Saori as replacement sacrifice; Saori offers herself and Misaki protests. Beatrice then falls after omitted combat, leaving the coercive relation locally interrupted.
 - **SENSEI ↔ SQUAD/BEATRICE:** Sensei names students precious and opposes Beatrice's teaching; Saori credits Sensei's help. No audited combat method.
 - **GOLCONDA ↔ BEATRICE/SENSEI:** Golconda self-identifies in the present, intends to take Beatrice back and warns Sensei not to interfere. Departure/custody are not separately shown.
+
+## V003 C004 E025 relationship delta — reciprocal future and Mika return
+
+- **SAORI ↔ SENSEI/SQUAD:** Saori asks Sensei to choose punishment; Misaki protests the lone burden, and Atsuko asks about her unknown desires/future. Sensei offers an answer she must find herself. Saori reports first felt permission to exist, not settled guilt or treatment.
+- **ATSUKO ↔ SENSEI:** she thanks Sensei and offers a mask-device explanation; Sensei presents conditional future mask use/care as alternatives. Her serious injury is not erased.
+- **SENSEI ↔ MIKA:** Sensei comes to her while she expects abandonment/death, repeats alliance and takes out the adult card. Mika is surprised but still warns against the saint threat; rescue outcome awaits the next unit.
+- **MINE/RESCUE KNIGHTS ↔ ARIUS STUDENTS:** Mine names them as needing care and orders treatment even while preparing to create wounded in battle. This is declared inclusive rescue, not confirmed delivered care.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,13 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E025 delta — responsibility, mask hypothesis and address
+
+- Sensei's `逃げたよ` is a report of Beatrice's exit; `思う` in `もう二度とみんなを苦しめる事はないと思う` marks expectation, not verified permanent incapacity. Atsuko's `多分` and `思う` limit her mask/device explanation; Beatrice's protective motive remains inferred.
+- Saori's `私がすべての元凶` is self-accusatory compression. Sensei's `心の声` at `u:0029-0038,0044,0060-0061` contrasts actual wrongdoing with responsibility for a world causing child suffering, and imagines teacherhood; responsive dialogue complicates audibility but cannot erase tags. `u:0046-0047` has likely attribution inversion.
+- `生きていても……いいのか` is Saori's existential question; Sensei's audible `その答えは、自分で見つけようね` and later guarantee keep authorship of the answer with her. `大切なお姫様` for Mika is inward; her reaction proves Sensei's presence, not exact hearing of that phrase.
+- `大人のカードを取り出す` denotes retrieval, not activation/payment. Scene 2 `u:0017-0018` repeats Serina tags across opposed motto positions; exclude these from individual voice baseline.
 
 ## V003 C004 E024 delta — mercy, false teaching and untested bomb
 

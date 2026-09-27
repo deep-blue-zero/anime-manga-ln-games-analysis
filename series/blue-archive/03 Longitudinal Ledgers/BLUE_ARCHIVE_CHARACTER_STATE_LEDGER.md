@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E025 character-state delta — chosen life and rescue return
+
+- **Saori:** offers herself to Sensei for official punishment, over-totalizes blame, then admits she has never considered her own tastes/future. After Squad/Sensei responses, directly says she can first imagine being allowed in the world. This is a consequential local self-state, not discharge or durable cure. `UNMODELED`.
+- **Atsuko:** thankful and speaking, offers a tentative mask/protection-device hypothesis; asks Saori about an ordinary future and says Arius oppression is gone, which is her broad appraisal. Serious prior injuries still require follow-up. `UNMODELED`.
+- **Mika:** reports enduring the force until dawn, injured and wanting to return with Sensei but self-excluding as unworthy. Sensei arrives and draws an adult card; no card effect or extraction. `UNMODELED`.
+- **Sensei:** says Beatrice escaped and probabilistically will not hurt Squad again; frames child suffering as adult responsibility, redirects Saori to discover a life and returns for Mika. Only card retrieval is printed. `PARTIAL_MODEL`.
+- **Mine/Serina/Hanae:** Mine directly enters Arius with Justice/Rescue Knights, orders treatment including Arius girls and future wounded, and announces rescue of Sensei/Mika. No completed district liberation or care result. Existing `UNMODELED` subjects; label anomalies constrain Serina/Hanae voice.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E026 unopened.
 
 ## V003 C004 E024 character-state delta — Atsuko speaks, Beatrice falls
 

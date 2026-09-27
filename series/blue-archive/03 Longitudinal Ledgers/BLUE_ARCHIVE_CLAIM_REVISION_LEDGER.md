@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E024 active provisional; C004 E025 unopened
+current_sequential_boundary: MAIN_V003_C004_E025 active provisional; C004 E026 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2341,3 +2341,11 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 - **BA-C002–C004/C007/C010–C011 — STRENGTHEN:** Squad and Atsuko reunite directly. Mika's rear-guard effect is suggested by absent reinforcements/Kyrie but not combat-audited. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Golconda's existing row gains direct-present evidence; readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E025 unopened.
+
+## V003 C004 E025 claim delta — life responsibility and new rescue front
+
+- **BA-C001/C016 — STRENGTHEN:** Sensei separates Saori's real wrongdoing from the adult-created world of suffering and redirects responsibility toward her own future. Sensei returns for Mika and draws the adult card, but no activation/effect/cost is printed.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Saori offers accountability and reports first believing she may exist; Mika says she held the line until dawn. Mine/Justice enter Arius and declare rescue/treatment, with outcomes still open.
+- **BA-C008 — QUALIFY:** Atsuko hypothesizes mask-triggered protection at the prior bomb event; neither technical mechanism nor Beatrice motive is inspected. Sensei reports Beatrice escaped, while permanent harmlessness is only `思う`. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E026 unopened.

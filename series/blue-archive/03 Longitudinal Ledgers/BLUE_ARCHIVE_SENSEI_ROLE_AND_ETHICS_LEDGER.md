@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1065,3 +1065,7 @@ Sensei has no present line or choice. Mika recalls Sensei's earlier rescue with 
 ## V003 C004 E024 delta — protective address, no savior audit
 
 Sensei audibly forbids Beatrice to address “my precious students,” with alternative condemnation/refusal lines in `choice:003`. The inward `黙れ` is not automatically voiced. Squad credits Sensei's assistance when Atsuko wakes; this proves relational recognition and a local rescue outcome, not a printed tactic or complete medical cure. Sensei challenges Golconda's attempt to leave, but the latter's bomb provenance and effect claims are untested testimony, not a reason to presume actual detonation or safe disposal. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E025 unopened.
+
+## V003 C004 E025 delta — responsibility without totalizing punishment
+
+Sensei inwardly accepts Saori's wrongdoing but rejects deserved childhood suffering, assigning adult responsibility for a world producing it. The dialogue pivots to Saori's obligation to live/find her own answer; actual legal accountability is neither waived nor adjudicated. Sensei offers adult confidence that she can find it, then leaves to help another student. At Mika's danger Sensei directly promises alliance, names her a problem student without abandoning her, and takes out the adult card. Activation, combat effect, cost and final extraction are unprinted. The `心の声`/spoken boundary is uneven where Saori reacts, so fine audibility remains uncertain. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E026 unopened.
