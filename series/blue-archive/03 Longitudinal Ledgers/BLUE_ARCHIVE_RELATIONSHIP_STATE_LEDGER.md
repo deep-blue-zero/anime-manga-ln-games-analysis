@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1157,3 +1157,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SQUAD ↔ SENSEI:** Misaki/Hiyori rely on Sensei's presence; Saori orders Squad to clear danger before Sensei follows. No printed combat teamwork here.
 - **MIKA ↔ SAORI/SQUAD:** Mika directly confronts Saori after E007's revenge threat, calling her apparent shock a “witch” look. No shot, attack or negotiation is printed.
 - **SQUAD ↔ BEATRICE/PURSUERS:** the group anticipates preparation/elite guards, but Mika is the only newly visible obstacle; the predicted force is still hypothetical in this unit.
+
+## V003 C004 E011 relationship delta — parted at the passage
+
+- **MIKA ↔ SAORI/SQUAD:** Mika attacks and threatens equal loss, then hears Arius pursuers also intend to dispose of Squad. Her `私のもの` refusal to hand them over preserves her own claim, not proof of forgiveness or safety.
+- **MIKA ↔ SEIA:** Mika says Seia's supposed death grieved her despite anger and denies intending lethal harm; her account is not a completed apology to Seia.
+- **SENSEI ↔ MIKA:** Sensei arrives, tells Mika to return/wait and promises later explanation, then goes into catacombs with Squad. Mika reacts with shock and does not explicitly agree.
+- **SENSEI ↔ SQUAD:** the group enters the underground route together, under deadline, while Mika and Arius pursuers remain outside; no district arrival.

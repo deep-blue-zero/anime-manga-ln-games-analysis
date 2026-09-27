@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E010 active provisional; C004 E011 unopened
+current_sequential_boundary: MAIN_V003_C004_E011 active provisional; C004 E012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2224,3 +2224,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C008 — STRENGTHEN:** route-preparation guesses and direct Mika arrival must not be merged into a proven joint plan. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E011 unopened.
+
+## V003 C004 E011 claim delta — passage and unresolved confrontation
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika self-reports no lethal order, admits her own damaging choices and threatens Squad; Arius pursuers call Squad defectors. Neither version is a full legal/command audit or a completed revenge outcome.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei promises Mika later explanation but chooses immediate Squad passage; adult help is triage under deadline, not total conflict resolution.
+- **BA-C008 — STRENGTHEN:** opener repetition, Hiyori-tag inversions, duplicated pursuer line and last firing order constrain attribution/outcome. Catacomb entry, unlike district entry, is directly supported.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E012 unopened.

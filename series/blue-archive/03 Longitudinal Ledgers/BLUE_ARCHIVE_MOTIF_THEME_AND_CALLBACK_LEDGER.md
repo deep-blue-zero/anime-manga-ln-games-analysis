@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1313,3 +1313,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Threshold still closed:** Squad plans forced passage, but Mika arrives before the predicted guard clash or crossing. Physical proximity to Arius is not access.
 - **Witch/villain loop:** Mika recycles the crowd's `魔女` accusation as a playful taunt; performance overlays her E007 revenge intent without neutralizing it.
 - **Protective order:** Saori places Squad in front of Sensei, complicating the simple former-assailant versus victim relation.
+
+## V003 C004 E011 motif / callback delta — own claim and lost home
+
+- **Equal pain:** Mika moves from being called a witch to demanding Squad lose as much as she feels she lost; the symmetry is a proposed punishment, not justice certified by narration.
+- **Doll/hound figures:** Mika taunts Squad's poor fight and later recognizes from pursuers that Arius also treats them as failed tools. This may complicate her hostility without yet ending it.
+- **Threshold crossed only once:** Sensei/Squad enter catacombs, while Mika stays outside before a firing order. The district and sanctuary remain ahead.
+- **Promise deferred:** Sensei promises explanation to Mika but leaves under urgent rescue pressure; whether this restores trust or is received as abandonment remains open.

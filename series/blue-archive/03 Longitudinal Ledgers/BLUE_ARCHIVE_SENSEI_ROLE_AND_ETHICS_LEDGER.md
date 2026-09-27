@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1009,3 +1009,7 @@ Sensei's single choice asks how catacomb interiors change. Arius pursuers prepar
 ## V003 C004 E010 delta — students assign a protected place
 
 Misaki/Hiyori count on Sensei at the route, while Saori explicitly directs Squad to lead and Sensei to follow only when safe. Sensei's singleton choice is surprised reciprocity, not tactical command. Mika arrives before the predicted battle. The formation expresses a protective student decision and adult participation, without proving Sensei's combat ability, entry or resolution. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E011 delta — triage with a promised return
+
+Sensei loses Squad contact, hears gunshots, reaches their Mika confrontation and asks her to return/wait at Trinity with a promise to explain later. Under time pressure Sensei then enters catacombs with Squad; the two `choice:001` alternatives converge, while `choice:002` marks the crossing. This is a bounded rescue priority, not consent from Mika, a settlement of her grievance or guaranteed return. Sensei later inwardly asks whether she escaped for revenge and what happened at Trinity, confirming knowledge gaps. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

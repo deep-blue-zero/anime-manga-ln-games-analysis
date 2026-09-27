@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -919,3 +919,7 @@ Squad describes roughly 300 known Trinity catacomb entrances, few real entries, 
 ## V003 C004 E010 institutional delta — known route, contested approach
 
 Misaki says the route is known to Arius students, with no time for alternatives; Saori chooses forced passage and predicts trained guards. This is an operational plan, not an inspected deployment or completed entry. Mika appears at the approach before any guard engagement. Her presence does not establish formal cooperation with Beatrice or current Tea Party authority after E007's escape.
+
+## V003 C004 E011 institutional delta — catacomb entry, not district arrival
+
+Mika's escape is confirmed by her direct presence; her current school/Tea Party legal status is not altered on-page. Under an approximately 28-minute group estimate, Mika clashes with Squad, then Sensei and Squad enter the catacombs. Arius pursuers explicitly report that route entry and decide to pursue before full closure. This is the first direct crossing of the underground access threshold, not proof they reached Arius district. Pursuers say Squad betrayed/fled Arius and their task is disposal; those are operational claims, not an inspected adjudication. Last order to fire has no printed outcome.

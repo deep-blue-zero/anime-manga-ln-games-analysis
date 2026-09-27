@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1542,6 +1542,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 
 - Scene 1 `u:0011` is Saori-tagged but deferential `ます` about the entrance; `u:0012-0014` Hiyori tags contain a more declarative/leader-like warning. `u:0020-0022` and scene 2 `u:0004-0006` similarly invert command/response styles. Preserve group-level content without confident per-person voice assignment.
 - `逃げ出した猟犬` is Saori's self-positioning under Arius pursuit, not a formal class. Hiyori's `大人の力` is her appraisal of an unprinted clash, not an observed Sensei action transcript. One singleton Sensei choice; scene 2 `u:0007` is E010 title.
+
+## V003 C004 E011 delta — repeated opener and collapsed labels
+
+- `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
+- Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
+- Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
 
 ## V003 C004 E010 delta — Mika reuses the crowd's insult
 

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–011; BA:main:003:004:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E011 character-state delta — direct clash and catacomb entry
+
+- **Mika:** attacks Squad, recounts unwanted Seia death/halo destruction, admits her own excess and demands equivalent loss. Sensei's arrival shocks her; she remains outside, learns pursuers hunt Squad and refuses to hand them over before an unprinted firing order. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** exhausted in combat; Misaki pain cries, Saori warns to scatter, group runs into catacombs with Sensei. Hiyori-tag inversions limit individual tactical speech. All `UNMODELED`.
+- **Sensei:** follows gunshots, arrives, asks Mika to return/wait and promises explanation, then enters catacombs with Squad. No resolution of Mika or confirmed district arrival. `PARTIAL_MODEL`.
+- **Arius pursuers:** directly confirm Squad entered catacombs, say they are pursuing/disposing of defectors and order fire at the outside confrontation; no named subject or casualty.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E010 character-state delta — approach and Mika interception
 
