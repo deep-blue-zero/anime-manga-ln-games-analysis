@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Agency and initiative ledger
@@ -299,3 +299,10 @@ state: CURRENT_THROUGH_V033
 | RAG-AGY-240 | Chizuru and Kazuya | State rather than guess. | She asks about his girlfriend and Mami; he directly says he likes her. | Their known information becomes more explicit. | She gives no final reply; RAG-E-V039-005, -009. |
 | RAG-AGY-241 | Mami | Clarify and probe at an unexpected meeting. | Asks if Kazuya and Chizuru are dating and says Hakuba is not her boyfriend. | Contact replaces silent observation. | No date obstruction; RAG-E-V039-006 through -008. |
 | RAG-AGY-242 | Chizuru | Offer ordinary time at home. | Reveals her Shibuya sighting and invites Kazuya to watch a drama. | Voluntary companionship continues before May 17. | No relationship verdict; RAG-E-V039-010. |
+
+## V040 close additions
+
+| RAG-AGY-243 | Chizuru | Distinguish a person from a rental alias. | Calls him Kazuya and raises what he calls her. | Makes their naming practice discussable. | No couple classification; RAG-E-V040-001. |
+| RAG-AGY-244 | Ruka and Kazuya | Participate in move-related shopping under incomplete information. | She helps choose a keyholder; he tells her the move is next week. | Shared activity and logistics become concrete. | He omits Chizuru cohabitation and date; RAG-E-V040-002 through -004. |
+| RAG-AGY-245 | Chizuru | Share an inherited professional model and prepare for May 17. | Invites Sayuri film viewing, confirms departure, privately reviews the venue. | Her goal and participation are self-authored. | Her answer remains open; RAG-E-V040-005 through -007. |
+| RAG-AGY-246 | Chizuru and Kazuya | Proceed despite rain and crowding. | Both depart, she asks about Ruka and later invites umbrella sharing; he apologizes for accidental train contact. | The formal date begins through joint action. | No completed date or intimacy license; RAG-E-V040-008 through -012. |

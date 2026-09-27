@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Repetition and visual form ledger
@@ -269,3 +269,11 @@ state: CURRENT_THROUGH_V033
 | RAG-FRM-210 | Oversized fortune percentages follow Chizuru's partly hidden input. | The game externalizes romance as playful data. | Both see 78% and 90%; input remains hers. | Fortune is not evidence of actual probability; RAG-E-V039-004. |
 | RAG-FRM-211 | Mami's abrupt appearance breaks the Joypolis sequence. | Third-party contact interrupts private play. | Her direct question replaces silent watching. | The scene does not itself change the formal date; RAG-E-V039-006 through -008. |
 | RAG-FRM-212 | A plain confession and later household television displace spectacle. | Direct words and ordinary time carry more evidence than ride results. | Both scenes are present action. | No final response follows; RAG-E-V039-009, -010. |
+
+## V040 close additions
+
+| RAG-FRM-213 | Given names and rental alias receive repeated reaction frames. | Person and role distinction becomes a conversational problem. | Chizuru's and Kazuya's actual speech anchors it. | His blush is not her answer; RAG-E-V040-001. |
+| RAG-FRM-214 | Key, credit card and fish keyholder recur through shopping and date preparation. | Tangible objects link resources, move, affection and concealment. | Ruka sees only part of the situation. | Possession does not prove informed approval; RAG-E-V040-002, -003, -008. |
+| RAG-FRM-215 | Sayuri's film contrasts with Kazuya's performance-monitoring thoughts. | An inherited acting goal sits beside his romantic goal. | Chizuru names Sayuri as her ideal. | Film footage is not new direct historical action; RAG-E-V040-005. |
+| RAG-FRM-216 | Rain, separate umbrellas and crowded-train compression disrupt the controlled itinerary. | Weather converts his ideal route into a practical and bodily test. | Departure, accidental contact, apology and travel are observed. | Focalized erotic imagery is not consent; RAG-E-V040-008 through -010. |
+| RAG-FRM-217 | A piano-key umbrella frames Chizuru's final request at the Joypolis threshold. | A small chosen intimacy replaces Kazuya's attempt to perfect every gesture. | She directly asks to share it. | The cutoff withholds the date result; RAG-E-V040-012. |

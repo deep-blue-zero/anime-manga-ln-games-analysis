@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Progress and regression ledger
@@ -269,3 +269,11 @@ state: CURRENT_THROUGH_V033
 | RAG-PRG-210 | Mami pressure | DIRECT_CONTACT | Mami probes couple status, denies Hakuba is boyfriend and privately reacts. | No intervention; RAG-E-V039-006 through -008. |
 | RAG-PRG-211 | Time and housing | CLOCK_ADVANCES | Six days remain to May 17 as home companionship continues. | No May 18 move logistics or changed residence; RAG-E-V039-010. |
 | RAG-PRG-212 | Acting world | NO_NEW_CONSEQUENCE | Miho does not carry her V038 tension into a substantive exchange. | RAG-PRED-152 not supported. |
+
+## V040 close additions
+
+| RAG-PRG-213 | Date execution | PROGRESS_WITH_OPEN_OUTCOME | Both leave on May 17, reach Joypolis and continue despite rain. | Venue activity and final answer remain future; RAG-E-V040-008 through -012. |
+| RAG-PRG-214 | Direct personhood and agency | PROGRESS_WITH_OPEN_RESPONSE | Naming, Sayuri film, private preparation, Ruka question and umbrella request show Chizuru's choices. | No couple agreement; RAG-E-V040-001, -005, -007, -009, -012. |
+| RAG-PRG-215 | Ruka truth debt | REGRESSION_AND_PARTIAL_DISCLOSURE | Kazuya says a move is imminent but hides cohabitation and date while accepting her help. | The trial and informed separation remain unresolved; RAG-E-V040-002, -003. |
+| RAG-PRG-216 | Housing | CLOCK_ADVANCES | New-home key and next-week move statement make logistics tangible. | May 18 transition is not executed; RAG-E-V040-003. |
+| RAG-PRG-217 | Mami pressure | NO_NEW_CONSEQUENCE | Mami has no meaningful V040 appearance. | RAG-PRED-155 not supported. |

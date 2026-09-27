@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.40"
+version: "1.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V039."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V040."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -66,13 +66,14 @@ model_basis:
     - RAG-JP-EPUB-V037
     - RAG-JP-EPUB-V038
     - RAG-JP-EPUB-V039
-  admitted_through_volume: V039
+    - RAG-JP-EPUB-V040
+  admitted_through_volume: V040
   narrative_time_boundary: "after the nursery outing, her household honesty request, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V039 narrative evidence is admitted."
+    - "No post-V040 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru has directly explained the silence and operationalized inquiry, but its result and any final mutual classification remain unavailable."
 coverage:
@@ -2030,3 +2031,7 @@ V038 gives Chizuru an independent clothing dilemma, voluntary presence at Joypol
 ## V039 local validation
 
 V039 shows repeated self-authored choices within the unplanned Joypolis visit: photo, rides, romance-category fortune, direct questions about Kazuya's girlfriend and Mami, and later television at home. She says support helps an actor while the individual still must act. She hears Kazuya's plain statement that he likes her and indicates awareness, but offers no final answer. A playful 90% compatibility result is not her romantic classification. She also reveals that she saw him shopping, closing a prior information asymmetry (RAG-E-V039-001 through -005, -009, -010).
+
+## V040 local validation
+
+V040 continues her self-authored inquiry: she raises given-name and rental-alias language, invites Kazuya to watch Sayuri's film, names Sayuri as her acting ideal, privately reviews the date, and proceeds in rain. She asks about Ruka, distinguishes this day from a rental-girlfriend role, and asks Kazuya to share her umbrella. These are direct local choices and ethical questions. They do not certify a final romantic classification, an informed Ruka arrangement, or general bodily consent after the crowded-train accident (RAG-E-V040-001, -005 through -012).

@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Information and deception ledger
@@ -277,3 +277,10 @@ state: CURRENT_THROUGH_V033
 | RAG-INF-218 | Mami asks about Chizuru and Kazuya; Kazuya describes a planned date without official status; Mami denies Hakuba is her boyfriend. | Each gains information directly, with gaps about motive and feeling. | V038's one-sided observation becomes dialogue. | Do not infer a complete relationship history; RAG-E-V039-006, -007. |
 | RAG-INF-219 | Chizuru asks if Kazuya still likes Mami; he says the old feeling changed and states that he likes Chizuru. | His present attachment becomes explicit to her. | Reduces ambiguity about his side of the inquiry. | She gives no reciprocal verdict; RAG-E-V039-009. |
 | RAG-INF-220 | Chizuru tells Kazuya she had seen him shopping in Shibuya. | He learns of her previously covert observation. | One information asymmetry from V038 closes. | Her motive for watching is not fully confessed; RAG-E-V039-010. |
+
+## V040 close additions
+
+| RAG-INF-221 | Kazuya names Ichinose as the person he likes while confronting his Mizuhara habit. | Chizuru hears the referent directly. | The rental alias distinction becomes explicit. | She gives no reciprocal verdict; RAG-E-V040-001. |
+| RAG-INF-222 | Ruka learns Kazuya has a new key and moves next week. | She lacks the Chizuru cohabitation and May 17 date facts he withholds. | Disclosure is partial and audience-specific. | A keyholder gift is not informed approval; RAG-E-V040-002, -003. |
+| RAG-INF-223 | Chizuru speaks of Sayuri's acting as an ideal and privately checks the date plan. | Kazuya hears the film discussion; her later resolve is private. | Her self-defined goal and inquiry remain distinct. | Kazuya does not know every private thought; RAG-E-V040-005, -007. |
+| RAG-INF-224 | Chizuru asks if Ruka is all right on the date. | She knows the trial remains a concern, but not all Kazuya's omissions. | Ethical pressure is voiced inside the date. | Neither her question nor his answer establishes Ruka's informed consent; RAG-E-V040-009. |

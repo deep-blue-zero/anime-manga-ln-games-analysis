@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.40"
+version: "1.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; character evidence inspected through V037."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V039
+inspected_through_volume: V040
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -224,6 +224,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E184 | KAZ-S040 | RAG-E-V039-005 | Direct status answer and support | Tells Chizuru he has no girlfriend and hears her recognize his earlier support. | Gains direct information about her valuation of his help. | Recognition is not an inquiry verdict; RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E185 | KAZ-S040 | RAG-E-V039-006 through RAG-E-V039-009 | Mami encounter and confession | Says a date is planned but he and Chizuru are not official; later distinguishes old Mami feeling and plainly says he likes Chizuru. | His present commitment is communicated without claiming her agreement. | She gives no acceptance; RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E186 | KAZ-S040 | RAG-E-V039-010 | Remaining days | Prepares clothing, learns she saw him shopping, and accepts shared television time. | Maintains ordinary contact while awaiting the date. | Formal date and housing move remain future; RAG-KAZ-R003. |
+| RAG-KAZ-E187 | KAZ-S040 | RAG-E-V040-001 | Names and personhood | Struggles to replace “Mizuhara” with “Ichinose” and clarifies that the latter is the person he likes. | Makes his intended referent explicit to Chizuru. | No reciprocation or official status follows; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E188 | KAZ-S040 | RAG-E-V040-002 through RAG-E-V040-004 | Ruka and the move | Gains card access and a keyholder with Ruka, tells her he moves next week, but hides Chizuru cohabitation and date. | Material preparation and audience-specific concealment coexist. | Ruka's kindness is not informed approval or separation; RAG-KAZ-R016, RAG-KAZ-R024. |
+| RAG-KAZ-E189 | KAZ-S040 | RAG-E-V040-005 through RAG-E-V040-008 | Film and preparation | Watches Sayuri film with Chizuru, prepares for May 17, and proceeds despite rain. | Support and practical follow-through replace a merely imagined date. | Neither effort nor planning establishes her answer; RAG-KAZ-R001, RAG-KAZ-R024. |
+| RAG-KAZ-E190 | KAZ-S040 | RAG-E-V040-009 through RAG-E-V040-012 | Date under constraint | Compliments her, hears Ruka concern, apologizes after forced train proximity, asks about her reaction, and accepts umbrella invitation. | Direct communication improves amid imperfect conditions. | Accident and invitation are local, not broad intimate consent; RAG-KAZ-R003, RAG-KAZ-R024. |
 
 ## State-change summary
 

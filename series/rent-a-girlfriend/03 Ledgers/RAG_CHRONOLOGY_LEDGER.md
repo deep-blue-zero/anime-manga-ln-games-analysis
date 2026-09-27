@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Chronology ledger
@@ -230,3 +230,9 @@ state: CURRENT_THROUGH_V033
 | RAG-CHR-171 | RAG-E-V039-001 through RAG-E-V039-005 | The unplanned Joypolis preview proceeds through tickets, games, attractions and direct discussion. | Remains before May 17. | Its exact calendar day is not fixed here. |
 | RAG-CHR-172 | RAG-E-V039-006 through RAG-E-V039-009 | The pair meet Mami with Hakuba; Kazuya and Chizuru later discuss Mami and he confesses plainly. | No official couple status follows. | Do not infer Hakuba's status from accompanying Mami. |
 | RAG-CHR-173 | RAG-E-V039-010 | The final chapter marks six days before May 17; clothing preparation and shared television follow. | May 17 date and May 18 move remain ahead. | Calendar anchor need not date every earlier preview scene. |
+
+## V040 close additions
+
+| RAG-CHR-174 | RAG-E-V040-001 through RAG-E-V040-005 | Naming, Ruka key encounter and Sayuri film occur before the planned date. | The new-home key makes the approaching move concrete. | Exact days for these scenes are not fixed by the chapter labels. |
+| RAG-CHR-175 | RAG-E-V040-006, RAG-E-V040-007 | Two-day countdown and explicit May 16 preparation precede May 17. | The nine o'clock departure is confirmed. | Preparation is not date execution. |
+| RAG-CHR-176 | RAG-E-V040-008 through RAG-E-V040-012 | On May 17 the pair depart in heavy rain, travel by train and reach Joypolis. | Formal date is underway at V040 end. | No date completion or May 18 move is shown. |

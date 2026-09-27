@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.44"
+version: "1.45"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039 inspected and closed; V040 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040 inspected and closed; V040 predictions adjudicated; V041+ narrative evidence excluded."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -800,3 +800,14 @@ These tests were written after V039 was closed and before inspecting any V040 na
 | RAG-PRED-154 | Chizuru responds through her own direct speech or action to Kazuya's plain confession or their ordinary shared time. | RAG-E-V039-009, -010 | She has no response or self-authored choice relating to him. |
 | RAG-PRED-155 | Mami's Hakuba clarification and question about Kazuya's status yield further private reflection, contact, or decision. | RAG-E-V039-006 through -008 | Mami has no subsequent meaningful appearance or action. |
 | RAG-PRED-156 | The approaching May 18 housing deadline produces an explicit logistical action, boundary statement, or revised residence plan. | RAG-E-V036-006, RAG-E-V039-010 | The housing deadline remains only background. |
+
+## Adjudicated predictions from the V039 boundary
+
+| Prediction ID | Adjudication | V040 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-153 | SUPPORTED | May 17 departure and Joypolis arrival follow the preparations; RAG-E-V040-006 through -012. | Date remains in progress at the cutoff. |
+| RAG-PRED-154 | SUPPORTED_IN_LIMITED_SENSE | Chizuru authors naming, Sayuri viewing, planning, Ruka concern and umbrella request; RAG-E-V040-001, -005, -007, -009, -012. | No final reciprocal answer to the V039 confession. |
+| RAG-PRED-155 | NOT SUPPORTED | Mami has no meaningful appearance or action in V040. | V039 ambiguity cannot be carried forward as observed V040 conduct. |
+| RAG-PRED-156 | SUPPORTED | New-home key, next-week move statement to Ruka and Chizuru's key awareness; RAG-E-V040-002, -003. | The move itself and final residence terms remain future. |
+
+No V041 prediction is frozen: V040 is the authorized terminal boundary for this run.

@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Transaction and intimacy ledger
@@ -246,3 +246,11 @@ state: CURRENT_THROUGH_V033
 | RAG-TXN-187 | Photo, rides and compatibility fortune | Chizuru initiates activities including romance-category play. | Affectionate attention can be explored without a rental script. | No implied romantic or sexual consent; RAG-E-V039-001 through -004. |
 | RAG-TXN-188 | Direct confession | Kazuya says he likes Chizuru after she asks about Mami. | His intention becomes explicit rather than purchased or inferred. | She gives no partnership agreement; RAG-E-V039-009. |
 | RAG-TXN-189 | Shared home television | Chizuru invites him to spend optional evening time together. | Ordinary intimacy continues in cohabitation. | It does not cancel the May 18 move; RAG-E-V039-010. |
+
+## V040 close additions
+
+| RAG-TXN-190 | Credit card and date resources | Kazuya obtains payment capacity with Ruka's help. | Date expenses are concretely prepared. | A card is not a rental booking or Ruka's informed consent; RAG-E-V040-002. |
+| RAG-TXN-191 | Keyholder and shop accident | Ruka chooses a fish keyholder; an accidental fall creates bodily proximity. | Her gift and the collision have different consent meanings. | No negotiated sexual escalation; RAG-E-V040-003, -004. |
+| RAG-TXN-192 | Sayuri film and shared viewing | Chizuru invites Kazuya into chosen family-memory time. | Access is offered without payment. | It does not grant a relationship label; RAG-E-V040-005. |
+| RAG-TXN-193 | May 17 date and train contact | Both choose the outing; crowding causes close accidental touch and Kazuya apologizes. | Distinguishes date consent from touch caused by transit. | No broad bodily permission or final status; RAG-E-V040-008 through -011. |
+| RAG-TXN-194 | Shared umbrella invitation | Chizuru asks for closeness under her umbrella before Joypolis. | This is her specific choice in the rain. | The date is still in progress; RAG-E-V040-012. |

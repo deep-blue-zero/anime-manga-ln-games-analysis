@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Directed relationship state ledger
@@ -265,3 +265,10 @@ state: CURRENT_THROUGH_V033
 | RAG-REL-206 | Chizuru ↔ Kazuya | His love explicit, her inquiry open | He says directly that he likes her; she indicates awareness without accepting or rejecting. | Their information is less asymmetric. | No couple declaration; RAG-E-V039-009. |
 | RAG-REL-207 | Mami ↔ Kazuya | Exes in direct contact | She probes his status with Chizuru and denies Hakuba is her boyfriend. | Their talk complicates his prior attachment. | No demonstrated reconciliation or obstruction; RAG-E-V039-006 through -008. |
 | RAG-REL-208 | Chizuru ↔ Kazuya | Housemates sharing optional leisure | She invites him to watch a drama at home. | Everyday closeness continues before the date. | Housing deadline and inquiry unchanged; RAG-E-V039-010. |
+
+## V040 close additions
+
+| RAG-REL-209 | Chizuru ↔ Kazuya | Named-person inquiry, answer still open | She raises names; he identifies Ichinose as the person he likes. | The rental alias loses some conversational hold. | No official mutual couple status; RAG-E-V040-001. |
+| RAG-REL-210 | Ruka ↔ Kazuya | Affectionate claimant under partial disclosure | She helps with his card and move keyholder; he withholds Chizuru residence and date. | Care and concealment coexist. | No informed breakup or renewed agreement; RAG-E-V040-002 through -004. |
+| RAG-REL-211 | Chizuru ↔ Kazuya | Shared family-film time and prepared outing | She offers Sayuri film and confirms May 17 participation. | Ordinary closeness joins self-defined acting goal. | Inquiry answer remains open; RAG-E-V040-005 through -007. |
+| RAG-REL-212 | Chizuru ↔ Kazuya | Unpaid formal date in progress | They depart in rain, travel closely, discuss Ruka and the non-rental frame, and reach Joypolis after umbrella invitation. | Direct, chosen contact replaces planning. | Accidental train touch and umbrella do not establish generalized consent; RAG-E-V040-008 through -012. |

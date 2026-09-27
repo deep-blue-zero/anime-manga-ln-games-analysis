@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.40"
+version: "1.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; character evidence inspected through V037."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V039
+inspected_through_volume: V040
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -220,6 +220,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E178 | CHI-S040 | RAG-E-V039-005 | Loneliness and support | Asks whether Kazuya has a girlfriend, explains solitary action, and credits his prior help. | Joins personal inquiry to an acting analogy. | Her gratitude is not a request that he decide for her; RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E179 | CHI-S040 | RAG-E-V039-009 | Mami question and confession | Asks whether Kazuya still likes Mami and hears him say he likes Chizuru. | Learns his present stance in plain words. | She neither accepts nor rejects; RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E180 | CHI-S040 | RAG-E-V039-010 | Shibuya disclosure and evening invitation | Reveals her earlier shopping sighting and asks him to watch a drama at home. | Closes a private information gap and authors more ordinary time. | May 17 and May 18 remain open; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E181 | CHI-S040 | RAG-E-V040-001 | Naming choice | Calls him Kazuya and questions his use of the Mizuhara alias; hears him identify Ichinose as the one he likes. | Directly tests person-versus-role language. | She does not yet answer the romantic inquiry; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E182 | CHI-S040 | RAG-E-V040-005 | Sayuri film and vocation | Offers shared viewing and names her grandmother as a lasting acting ideal. | Her professional aspiration and family memory remain self-authored. | Retrospective film is not new direct Sayuri behavior; RAG-CHI-R003, RAG-CHI-R024. |
+| RAG-CHI-E183 | CHI-S040 | RAG-E-V040-006 through RAG-E-V040-009 | Prepared participation and Ruka concern | Confirms the date, privately reviews the plan, goes out in rain and asks if Ruka is all right. | Chooses participation without dropping the third-party issue. | Concern is not full knowledge of Ruka's situation or final answer; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E184 | CHI-S040 | RAG-E-V040-010 through RAG-E-V040-012 | Non-rental frame and umbrella | Treats crowded-train accident as such, distinguishes this outing from a rental role, and asks Kazuya to share her umbrella. | Sets the local terms of ordinary closeness. | No official couple status or general bodily permission; RAG-CHI-R003, RAG-CHI-R024. |
 
 ## State-change summary
 

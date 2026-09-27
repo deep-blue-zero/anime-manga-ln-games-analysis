@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V037; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V040; character evidence inspected through V037."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V037
+inspected_through_volume: V040
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -76,6 +76,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E036 | MIN-S014 | RAG-E-V036-011, RAG-E-V036-012 | Date advice and bodily information | Celebrates the agreed date, urges high-effort planning, and later mentions a mole she saw on Chizuru's thigh. | Continues social coaching but also crosses into a private bodily topic. | Her optimism and observation are not Chizuru's consent or verdict; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E037 | MIN-S015 | RAG-E-V037-001, RAG-E-V037-002 | Enthusiasm and game setting | Asks Chizuru about the date and joins a `Bounce Off` game with both principals. | Sustains an ordinary shared-house occasion while pressing a romantic interpretation. | Chizuru's caution outranks Mini's optimism; RAG-MIN-R002, RAG-MIN-R003. |
 | RAG-MIN-E038 | MIN-S015 | RAG-E-V037-007 | Separate hotpot rehearsal | Eats with Kazuya, draws out preferences and warns against overmanaged or interrogative date talk. | Her support becomes practical coaching. | She does not know Chizuru's final answer or attend the agreed date; RAG-MIN-R002, RAG-MIN-R003. |
+| RAG-MIN-E039 | MIN-S015 | RAG-E-V040-007, RAG-E-V040-008 | Final date encouragement | Offers date-oriented advice and encouragement as Kazuya prepares; sees the unexpected rain. | Continues a familiar support role before the principals depart. | She does not control Chizuru's answer or accompany the outing; RAG-MIN-R002, RAG-MIN-R003. |
 
 ## State-change summary
 

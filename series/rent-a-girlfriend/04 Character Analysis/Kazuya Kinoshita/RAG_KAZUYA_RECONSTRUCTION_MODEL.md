@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.40"
+version: "1.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V039."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V040."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -66,13 +66,14 @@ model_basis:
     - RAG-JP-EPUB-V037
     - RAG-JP-EPUB-V038
     - RAG-JP-EPUB-V039
-  admitted_through_volume: V039
+    - RAG-JP-EPUB-V040
+  admitted_through_volume: V040
   narrative_time_boundary: "after the nursery outing, minor household truth and privacy incidents, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V039 narrative evidence is admitted."
+    - "No post-V040 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -2050,3 +2051,7 @@ V038 turns his itinerary research into an unplanned, real Joypolis preview with 
 ## V039 local validation
 
 V039 directly tests his planned date behavior in a longer unplanned Joypolis visit. He shares costs and games, allows Chizuru to choose activities, and answers her relationship questions. After an unexpected meeting with Mami, he distinguishes an old attachment from his current feeling and plainly says he likes Chizuru. That is an explicit declaration from him, not a reciprocal couple agreement. The final six-day lead-up shows continued preparation and ordinary home companionship while May 17 and May 18 remain ahead (RAG-E-V039-001 through -010).
+
+## V040 local validation
+
+V040 tests his ability to act in a date whose weather and transit cannot be optimized. He confirms resources and timing, leaves with Chizuru in heavy rain, apologizes for accidental contact, and asks about her response rather than relying solely on imagined scoring. Naming Ichinose as the person he likes is more precise than the old rental alias. The positive test is bounded: he still withholds cohabitation and the May 17 date from Ruka while telling her only about the approaching move. Her fish keyholder is not informed approval. The outing reaches Joypolis but neither its outcome nor Chizuru's answer is shown (RAG-E-V040-001 through -012).

@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V036, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V040, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -52,13 +52,14 @@ model_basis:
     - RAG-JP-EPUB-V035
     - RAG-JP-EPUB-V036
     - RAG-JP-EPUB-V037
-  admitted_through_volume: V036
+    - RAG-JP-EPUB-V040
+  admitted_through_volume: V040
   narrative_time_boundary: "after a laundry interruption and a newly proposed three-person card game"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
   model_revision: "1.8"
   prior_knowledge_limitations:
-    - "No post-V037 narrative evidence is admitted."
+    - "No post-V040 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
@@ -549,3 +550,7 @@ V036 extends Mini's task-generating support through her cosplay stall and celebr
 ## V037 local validation
 
 V037 extends Mini's intervention from encouragement to a separate hotpot rehearsal with Kazuya. She helps elicit preferences and emphasizes ordinary conversational pacing while Chizuru independently frames the date and its uncertainty. Mini remains a coach, not a substitute source for Chizuru's answer (RAG-E-V037-001, RAG-E-V037-007).
+
+## V040 local validation
+
+V040 adds limited confirmation of Mini's familiar coaching role: she encourages Kazuya before May 17 and notices the rain. The principals themselves agree on the departure, proceed, and manage the date. Mini does not witness Chizuru's private resolve or authorize a romantic conclusion, so this small update does not change her PARTIAL_MODEL readiness or resolve the confidentiality and independent-goal gaps (RAG-E-V040-007, -008).
