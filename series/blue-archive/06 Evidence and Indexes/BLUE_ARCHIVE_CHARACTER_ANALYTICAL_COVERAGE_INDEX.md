@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001
 generation: V1
-version: "2.12"
+version: "2.13"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints; 149/310 main units; side-source classes unreviewed; BA:main:003:004:001 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001 provisionally; 150/310 main units; side-source classes unreviewed; BA:main:003:004:002 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:004:001
+next_unopened_main_unit: BA:main:003:004:002
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:004:001
 
 ## 0. Responsibility
 
-This index answers four questions at the canonical `MAIN_V003_C003` chapter checkpoint:
+This index answers four questions at the `MAIN_V003_C004_E001` provisional boundary, inheriting canonical `MAIN_V003_C003`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,9 +61,9 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E025;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001;
 - current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
-- main-story coverage: `149 / 310` canonical units;
+- main-story coverage: `150 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
 - next unopened main unit: `BA:main:003:003:021`.
@@ -83,10 +83,11 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sakurako | `ANALYZED` through C003 E002; offers Sisterhood guarantee and declares Azusa's Trinity papers official | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saori | `ANALYZED` through C003 E024; hurt/coughing, fears unnamed “her,” initially balks at Atsuko's flight plan | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hiyori | `ANALYZED` through C003 E022; assesses Justina degradation and Squad defeat, not independently certified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Misaki | `ANALYZED` through C003 E023; “not yet” interrupts near-ending assessment, reserve unidentified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Atsuko | `ANALYZED` through C003 E025; inward flower/happiness wish for Azusa, while anonymous pursuit threatens Squad | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saori | `ANALYZED` through C004 E001; considers unused halo bomb, inwardly fears loss of purpose without Atsuko | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hiyori | `ANALYZED` through C004 E001; fearful under encirclement, follows Saori/Atsuko dispute | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Misaki | `ANALYZED` through C004 E001; reports depleted ammunition and dangerous Saori wound, warns Atsuko | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Atsuko | `ANALYZED` through C004 E001; self-surrenders for a promised Squad release, actual safety unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Beatrice | `ANALYZED` in C004 E001; self-names, swears release, orders sunrise ritual then killing of remaining Squad | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mine | `ANALYZED` in C003 E025; returns to Rescue Knights and apologizes, wider role/health open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Tsurugi | `ANALYZED` through C003 E020; directly present as Hina accepts Justice aid, no medical clearance | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hasumi | `ANALYZED` through C003 E020; offers aid and recalls prior work beside Chinatsu | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -175,7 +176,8 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Saori | M; repeated orders, E006 coordinated attack | M; missile/team timing and task split | L; Azusa/Squad, Atsuko addressed `姫` | L; command role, formal hierarchy unknown | GAP | M; direct command register; gestures untranscribed | M; operation launched, blast observed | H; exact impact, team's success, motive/private baseline open |
 | Hiyori | L; anxious expectation of unnamed painful start | GAP; no independent choice | L; Saori/Misaki and reported princess | L; Arius-side association only | GAP | L; stammer and rain discomfort | L; anticipatory fear | H; operation, role, sign content, ordinary/private control absent |
 | Misaki | L; suffering-as-life line and mediated question | GAP; no independent tactic | L; Saori/Hiyori and possible princess mediation | L; Arius-side association only | GAP | L; direct line, silence/sign labels uncertain | L; prepares under command | H; exact signer, referent, role and ordinary/private control absent |
-| Atsuko | M; E024 learned-hatred account and E025 Azusa wish | M; proposes joint flight, not achieved | M; Saori/Azusa/Squad | L; Arius-side, “royal blood” reference not fully audited | GAP | M; direct and italic speech, earlier sign unknown | M; defeat/escape threat | H; teacher of hatred, actual refuge, private baseline and threat outcome open |
+| Atsuko | M; E024 learned-hatred account, E025 wish, C004 self-surrender | M; proposes flight then coerced exchange | M; Saori/Azusa/Squad/Beatrice | L; Arius-side, royal-blood target by situation | GAP | M; direct and italic speech, two C004 labels suspect | M; encirclement and ritual threat | H; teacher of hatred, actual safety, private baseline and ritual outcome open |
+| Beatrice | L; self-identification and contradictory pledge/order | L; commands capture/ritual and Squad killing | L; Atsuko/Squad/Arius students | L; “Madam” command role, wider remit unaudited | GAP | L; oath then betrayal | L; pursuit encirclement | H; origin, ritual aim, power, actual casualties and private baseline open |
 | Mine | L; returns/apologizes after protective absence | L; return shown, wider decision path absent | L; Serina/Rescue Knights welcome | L; Rescue Knights leader by address | GAP | L; brief apology/return | L; crisis aftermath | H; intervening medical timeline, authority and ordinary/private baseline open |
 | Tsurugi | L; attack readiness and polite Sensei recognition | L; halts hall quarrel, earlier chase by report | L; Sensei/committee and rival-security context | L; Justice chair by context | GAP | L; laughter and polite address, nearby labels inverted | M; raid pursuit and signing-site control | H; exact authority, ordinary/private contrast and wider response open |
 | Hasumi | M; Koharu care and E004 illness recollection | M; answers stolen-tank call with Mashiro | M; Koharu/Sensei/committee | M; Justice vice-chair and grade bar | L; sweets encounter | M; direct action voice now, prior message mediated | M; treaty optics and callout | H; Koharu reinstatement, theft outcome and private breadth open |
@@ -264,7 +266,8 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Saori | E022 inward shared-suffering grievance and direct threat to deny Azusa's Trinity learning | Azusa estrangement and Squad loyalty under reported defeat | Futility rhetoric is motive evidence, not achieved erasure | V003 C002 E013/E020; C003 E006 and E022 `scene:001:u:0007-0013` |
 | Hiyori | E022 reports Justina degradation and no remaining cards; mechanism/outcome unverified | Addresses Saori as leader; shared Squad loss assessment | Stammer/rain aversion from earlier crisis, not whole baseline | V003 C002 E020; C003 E022 `scene:001:u:0002-0005` |
 | Misaki | Says suffering proves life earlier; E022 addresses leader only | Saori/Hiyori, signer uncertain | Silence/sign representation not stable voice evidence | V003 C002 E020; C003 E022 `scene:001:u:0001` |
-| Atsuko | E024 direct learned-hatred account and flight proposal; E025 wish | Saori/Azusa/Squad relation clear, actual safety and autonomy after escape open | Earlier silent signs not decoded; later direct/italic speech | V003 C002 E020; C003 E024 `scene:001:u:0011-0031`; E025 `u:0074-0083` |
+| Atsuko | E024 learned-hatred account; C004 elects surrender under coercion | Saori/Azusa/Squad relation clear, promised release immediately betrayed | Earlier silent signs not decoded; C004 `u:0028/0039` label cautions | V003 C002 E020; C003 E024/E025; C004 E001 `scene:001:u:0021-0051` |
+| Beatrice | Self-named promise then order to kill remainder | Atsuko/Squad/Arius students under asymmetric command | Oath register contradicts immediate command | V003 C004 E001 `scene:001:u:0041-0064` |
 | Mine | Direct return/apology after earlier protective reports | Serina/Rescue Knights welcome, intervening history unshown | One brief direct register, no ordinary sample | V003 C003 E025 `scene:001:u:0028-0033` |
 | Tsurugi | Checks Hasumi's anger, stays against Arius, while prior hall recognition remains | Sensei/Hasumi/Justice under attack | Quiet command contrasts violent battle cry | V003 C003 E006 `scene:001:u:0010-0026`; E007 `scene:001:u:0083-0107` |
 | Hasumi | Reports Justice combat loss and missing people, chooses evacuation over retaliation | Koharu/committee tie, Tsurugi checks anger | Crisis restraint; no injury diagnosis | V003 C001 E004-E005/E015; C002 E019; C003 E007 `scene:001:u:0082-0107` |
@@ -351,7 +354,8 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Saori | `UNMODELED` | `NONE` | coordinated attack commands after reported missile launch | Impact, team execution, “doll,” hierarchy, motive and private response unresolved. |
 | Hiyori | `UNMODELED` | `NONE` | anxious reply and princess-sign report in one Arius scene | Operation, own role, sign meaning and ordinary/private response absent. |
 | Misaki | `UNMODELED` | `NONE` | suffering line and mediated question in one Arius scene | Silent-tag/sign conflict, referent, decisions and private baseline unresolved. |
-| Atsuko | `UNMODELED` | `NONE` | E024 learned-hatred challenge and proposed joint flight; E025 flower wish | Historical mechanism, actual refuge, target of pursuit and ordinary/private baseline open. |
+| Atsuko | `UNMODELED` | `NONE` | learned-hatred challenge, flower wish and C004 self-surrender | Historical mechanism, coerced promise's outcome, ritual threat and private baseline open. |
+| Beatrice | `UNMODELED` | `NONE` | C004 self-naming, promise, ritual order and immediate betrayal | Actual capture/death, ritual mechanism, formal authority and ordinary/private baseline open. |
 | Mine | `UNMODELED` | `NONE` | direct return and apology to Rescue Knights | One short return scene; clinical timeline, decisions, wider care practice and private baseline open. |
 | Tsurugi | `UNMODELED` | `NONE` | hall identification plus restraint of Hasumi and anti-Arius stand | Final fight, exact authority and ordinary/private baseline unresolved. |
 | Hasumi | `UNMODELED` | `NONE` | reports losses and chooses Sensei evacuation after Tsurugi restraint | Missing-person outcomes, Justice capacity, Koharu formal return and private breadth open. |
@@ -512,7 +516,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Kaiser director (role actor) | P (creditor/command) | U | U | P (leverage/threat) | P (administrative threat) |
 | Shiba Seki master (role actor) | P (hospitality) | P (service encounter) | P (community contact) | U | P (service/reassurance) |
 
-For **all 82 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
+For **all 83 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
 
 ## 6. Evidence concentration and sampling bias
 
@@ -1250,3 +1254,9 @@ Routing: [V003 C003 E025 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 ## 121. V003 C003 canonical checkpoint coverage reconciliation
 
 [The twenty-five-unit C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) governs all prior provisional E001–E025 observations. It keeps the C002 narrator-certified four-pass intact while separating E025's same-four remedial recurrence and Koharu's no-expulsion assurance from independent administrative orders. It recognizes Mine's direct return, Seia's present talk invitation, Nagisa's self-reported intact halo, Hina's direct return, Sensei's survival/card action and Atsuko's learned-hatred flight proposal without promoting any to full medical/legal closure or a tested character model. Arius/Seia/Hiyori/Misaki's ETO and Justina accounts remain source-limited, Maestro's form incomplete, and the anonymous royal-blood order leaves Squad safety open. No new durable claim ID or readiness promotion: **21 `PARTIAL_MODEL` / 61 `UNMODELED` across 82**, none operational/validated. Standalone models remain `NONE`, no frozen prediction or held-out response exists (`NO_DIAGNOSTIC_OPPORTUNITY`), and side-source backfill stays **DEFER**. The next main source is `BA:main:003:004:001`, unopened.
+
+## 122. V003 C004 E001 provisional coverage delta
+
+After the C003 checkpoint, Arius students encircle the escaped Squad. Misaki reports depleted ammunition/stamina and a dangerous Saori wound; Saori considers but does not use a halo-destruction bomb. Atsuko chooses to surrender for a promise that the others be freed, and the responder directly self-identifies as Beatrice. Beatrice swears the promise, orders Atsuko masked and unharmed for a sunrise ritual, then commands the remaining Squad killed; an Arius student orders fire, but no gunshot impact or casualty is printed. `u:0028/0039` labels are locally suspect. This is the first directly named Beatrice evidence, not retroactive E025 quote repair. She becomes one new narrow `UNMODELED` subject: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E002 unopened.
+
+Routing: [V003 C004 E001 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E001_DEEP_READING.md) → `BA:main:003:004:001`, one scene, 68 visible numbered units and no Sensei choices. Coverage is **150 / 310**.

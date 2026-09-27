@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -879,3 +879,7 @@ Nagisa says her halo survived and receives a letter from imprisoned Mika, withou
 ## V003 C003 checkpoint institutional reconciliation
 
 The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) distinguishes local cross-school coalition from a formally audited treaty/ETO transfer. Arius claims signature and a Squad clause, while Seia/Hiyori/Misaki supply mechanism hypotheses/reports; no instrument is inspected. Sisterhood, Rescue Knights, Justice, Prefect Team and Abydos have direct bounded actions, but no institution monopolizes the response. The narrator-certified C002 exam pass coexists with E025's same-four remedial recurrence and Koharu's no-expulsion assurance; school/Justice paperwork is unseen. Mine returns, Mika remains under reported confinement, and the escaped Squad faces a fresh anonymous order. C004 E001 unopened.
+
+## V003 C004 E001 institutional delta — Madam's promise and ritual plan
+
+Arius students encircle Squad and seek Madam's confirmation. Beatrice self-names, promises to release others for Atsuko, orders her masked/uninjured and sets a sunrise ritual, then directs the remainder killed. This reveals a command chain and specific bad-faith order, not a completed capture, ritual, exact royal-blood doctrine or final casualty count. Misaki reports Saori's wound and depleted resources; Saori's halo bomb remains unused. No treaty, ETO or school-status finding changes in this one unit.

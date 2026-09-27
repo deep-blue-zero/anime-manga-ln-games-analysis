@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1245,3 +1245,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## V003 C003 checkpoint motif reconciliation
 
 The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) reads `vanitas`/futility against concrete continued effort, the four's certified pass and recurring study, the flower in concrete, and Hifumi/Atsuko's different refusals of a fixed killer identity. “Paradise” shifts from a coercive proof test to Seia's qualified invitation to act and speak under uncertainty; it is not empirically certified. ETO/Justina copying and the card remain incomplete mechanisms. The last anonymous order prevents motif-level hope from being mistaken for durable safety. C004 E001 unopened.
+
+## V003 C004 E001 motif / callback delta — name-bound promise without fidelity
+
+- **Sacrifice versus choice:** Saori offers to buy time with a halo bomb, while Atsuko makes a first claimed autonomous decision to surrender. Both choices occur inside a lethal encirclement, not free alternatives.
+- **Name as guarantee tested:** Atsuko asks the Madam to swear by her name; Beatrice names herself, then orders the remainder killed. The name's performative pledge has no protective enforcement here.
+- **Futility returns inward:** Saori cannot imagine a next destination and asks what she lives for if Atsuko is lost; this is current despair, not narrator-certified meaninglessness.
+- **Unfinished violence:** `撃て` leaves the attempted betrayal at a cliff, not an observed casualty or destroyed halo.

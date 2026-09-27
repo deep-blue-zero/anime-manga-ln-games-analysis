@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1087,3 +1087,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## V003 C003 checkpoint relationship reconciliation
 
 The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) retains both Azusa's threatened lethal separation and Hifumi/peer intervention; the former does not erase the latter. Atsuko offers Saori a shared exit from taught hatred, but no clear assent or secure refuge follows. Hina accepts practical help from Justice/Abydos without proof of lasting friendship or treaty. Seia directly invites Nagisa/Mika to talk after prison/attack history, not completed forgiveness or legal relief. Sensei accompanies Azusa after her own decision, not as sole author of her future. C004 E001 unopened.
+
+## V003 C004 E001 relationship delta — Atsuko offered herself, promise betrayed
+
+- **ATSUKO ↔ SAORI/MISAKI/HIYORI:** Atsuko offers surrender to spare the three; Misaki warns of death, Saori protests and inwardly questions purpose without her. No assent to Saori's defense plan or safe release.
+- **ATSUKO ↔ BEATRICE:** Atsuko demands a name-bound pledge to spare Squad. Beatrice directly promises then orders their killing, establishing immediate bad faith; ritual and capture outcomes remain pending.
+- **SQUAD ↔ ARIUS PURSUERS:** encirclement and firing order are direct. The `u:0065-0067` ellipses do not establish who was hit or killed.
+- **SENSEI/AZUSA ↔ SQUAD:** no direct interaction in this episode; C003 relationship findings remain prior authority.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003 checkpoint canonical; C004 E001 unopened
+current_sequential_boundary: MAIN_V003_C004_E001 active provisional; C004 E002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2135,3 +2135,12 @@ No new durable claim ID, model, frozen prediction or side-source admission. Mine
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) is canonical authority for these chapter-local dispositions. No new durable claim ID, model, frozen prediction or side-source admission; **21 partial / 61 unmodeled across 82**; backfill **DEFER**. C004 E001 unopened.
+
+## V003 C004 E001 claim delta — a named promise is broken
+
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE, QUALIFY:** Beatrice self-identifies after E025's anonymous order, promises Squad release in exchange for Atsuko, then orders the rest killed. This is direct betrayal, not completed death, full ritual knowledge or retroactive E025 name certainty.
+- **BA-C001/C016 — PRESERVE:** Sensei is not present; Atsuko independently proposes a coerced sacrifice, Saori another, neither outcome complete.
+- **BA-C008 — STRENGTHEN:** `u:0028/0039` labels conflict with address/context, while Misaki's injury report, Saori's unused bomb, Beatrice's promise/order and the Arius student's `撃て` have different warrant.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Beatrice adds one narrow `UNMODELED` subject: **21 partial / 62 unmodeled across 83**; backfill **DEFER**. C004 E002 unopened.

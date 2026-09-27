@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E001 character-state delta — coerced decision, named betrayer
+
+- **Atsuko:** chooses self-surrender to spare Squad and demands a name-bound promise, despite Misaki's warning of death. Her no-safe-place self-blame is perspective under encirclement, not objective exhaustive knowledge; `UNMODELED`.
+- **Saori/Misaki/Hiyori:** Misaki reports low ammunition/stamina and dangerous Saori wound; Saori considers halo bomb and proposes to buy time, then inwardly questions life without Atsuko. Neither bomb use nor casualties shown. All `UNMODELED`.
+- **Beatrice:** self-identifies, swears to spare the others, orders Atsuko unharmed for a sunrise ritual, then orders the remainder killed. New named `UNMODELED` subject; office/mechanism and execution outcome open.
+- **Sensei/Azusa:** absent from direct action in this unit; prior checkpoint states unchanged.
+
+Beatrice adds one narrow tracked subject: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 checkpoint character-state reconciliation
 

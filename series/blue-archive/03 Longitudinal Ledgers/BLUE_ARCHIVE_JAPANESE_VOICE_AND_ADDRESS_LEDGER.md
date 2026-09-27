@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1487,3 +1487,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## V003 C003 checkpoint voice / address reconciliation
 
 The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) preserves the chapter's contrasts: `心の声`/singleton choice versus audible teacher speech; Azusa-perspectival `ナレーション` versus direct farewell; Seia dream/forecast versus E025 present talk; Atsuko's italic/direct ambiguity versus her secure flight proposal; Mika's relayed letter versus physical meeting; and repeated Hiyori/Justice-member/Mika tags versus secure line ownership. `証明でも何でもない` forbids turning Seia's belief metaphor into formal proof. The anonymous halo-destruction order has no named speaker. C004 E001 unopened.
+
+## V003 C004 E001 delta — self-naming and adversarial label faults
+
+- `u:0028` is Saori-tagged but its `サオリ` address/`もういいよ` turn reads Atsuko-like; `u:0039` is Arius-student-A-tagged but asks whether “you'll let everyone go,” likely Atsuko-like. Do not assign either securely. Saori's and Atsuko's other direct lines support their plans without repair.
+- `？？？` self-identifies `私「ベアトリーチェ」` at `u:0047` after a student seeks Madam's confirmation. This prospectively names C004's speaker; it does not rewrite C003 E025's anonymous label within that sealed reading.
+- Beatrice's `お約束` at `u:0047` is contradicted by her `すべて始末なさい` at `u:0062`; the student's `撃て` is an order, not a narrated gunshot. Saori's `何のために……生きているんだ` is italic inward speech. `u:0068` is E002 title only.

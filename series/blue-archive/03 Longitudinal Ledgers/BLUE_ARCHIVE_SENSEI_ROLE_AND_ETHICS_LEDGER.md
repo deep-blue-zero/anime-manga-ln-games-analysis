@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -969,3 +969,7 @@ Sensei has no choice or direct speech. Inward lines report hearing the four reme
 ## V003 C003 checkpoint Sensei-role reconciliation
 
 The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) holds adult responsibility and adult limits together. Sensei bleeds/unconsciously receives care, wakes, locally interrupts Mika's abuse, chooses to accompany Azusa and inwardly takes out a card. The card's cost/effect are not audited and the Squad escapes; the adult cannot be treated as invulnerable or sole causal agent. Students and institutions perform care, analysis, refusal and coalition-building while Sensei's later reaction to their recurring club is comic rather than a new punitive policy. No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E001 unopened.
+
+## V003 C004 E001 delta — absent adult, coercive sacrifice
+
+Sensei has no printed choice, speech or action. Saori proposes a dangerous delaying stand, and Atsuko chooses to surrender in hope of saving the others. The latter is a real decision under coercion, not proof she consented freely to Beatrice's ritual. Beatrice's immediate violation of her oath shows why an adult/authority's named promise cannot be treated as protective without conduct; her student status/office is not a basis for trusting it. No new adult-role inference, standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
