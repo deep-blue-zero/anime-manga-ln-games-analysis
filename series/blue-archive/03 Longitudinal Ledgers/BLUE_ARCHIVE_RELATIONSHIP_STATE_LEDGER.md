@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -771,3 +771,11 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **HANAKO ↔ SENSEI:** Hanako sees the adult's help as good faith under a misused authority, thanks them, and accepts their thanks for future effort. Neither concludes a standing alliance or adjudicates the adult's E015 deception.
 - **KOHARU ↔ GROUP:** Koharu notices Hifumi/Hanako/Sensei together late and misreads the tableau; no hearing of secret sanctions or actual relationship change is represented.
 - **HANAKO ↔ NAGISA/MIKA:** she infers Nagisa may have designed the club and discounts Mika as likely architect. Her Koharu-hostage guess converges independently with Mika E001, not from a shown conversation with Mika or the selection record.
+
+## V003 C002 E004 relationship delta — disclosed affection, partial disclosure
+
+- **AZUSA ↔ HIFUMI/KOHARU/GROUP:** Azusa calls study with Koharu and Hifumi's help enjoyable; Hifumi hugs her and Azusa complains of slight breathlessness. Shared ordinary life gains direct reciprocal evidence. This is not automatic knowledge of Azusa's secret plan or a settled school identity.
+- **HANAKO ↔ AZUSA:** Hanako follows E003's concern with a direct request to reduce night watch and share trap-setting, and Azusa agrees to take care. The resulting assurance has not been tested; their trust remains exposed to the E002 Marie counterexample and Azusa's own future-betrayal fear.
+- **AZUSA ↔ SENSEI:** Sensei calls her kind after she says she wants no peers hurt; Azusa pushes back against child treatment and voices possible betrayal. Adult approval is not a full confession, safety audit or protective bargain.
+- **HIFUMI ↔ HANAKO/PAST:** Hanako repeats secondhand masked-swimsuit lore while Hifumi is silent; no new clubmate knowledge of Hifumi's V001 criminal-role label is shown.
+- **GROUP ↔ LEISURE:** Koharu resists sexualized framing and suggests rest, but admits interest in a nearby walk; Sensei agrees and Azusa prepares. Narrator confirms they set out, not what they do or whether any rule is violated.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -939,5 +939,15 @@ Readiness: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/v
 - **Azusa:** absent; Hanako's observations extend concern beyond E012's insomnia/watch account but do not establish destination, plan, amount of sleep or illness. No betrayal inference follows.
 - **Sensei:** inwardly says they share what they know of hidden club circumstances with Hanako, thanks her future-effort promise and ends the meeting for rest. Exact words, authority audit and practical protection remain unshown.
 - **Koharu:** wakes, sees Hifumi/Hanako leaving Sensei's room and interprets a tableau through her pejorative register. No evidence she heard the substantive meeting.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E004 character-state delta — everyday joy and feared breach
+
+- **Azusa:** sleeps later than recent habit in a storm, talks in sleep about cute/fluffy things, and later says club study, meals, laundry and cleaning are all enjoyable. She thanks Hifumi and says studying with Koharu is fun (line labels partly inverted). She reports never visiting the sea and tentatively calls the annex familiar. She admits her night “watch” was an excuse for setting booby traps, asserts malicious-only placement despite Marie's benign E002 triggering, promises to communicate and says she does not want peers harmed. Her `いつか裏切ってしまうかもしれない` is a possible/fearful future breach, not an admitted act or E017 plan content. Sleep, trap audit, intent and future conduct remain open.
+- **Hanako:** apologizes for forgetting exposed laundry, turns storm/power disruption into group talk, warns Azusa to sleep and tell others of trap work, and later organizes a local night outing. The E003 personal reason for deliberate low marks stays withheld; playful nakedness/curfew statements are not factual certification.
+- **Hifumi:** offers concern over wet clothes and Azusa's rest, responds emotionally to Azusa's thanks with a hug, and inwardly notices Marie refutes Azusa's “safe routes” assurance. Silence at the masked-swimsuit-gang rumor does not disclose V001 involvement to this group.
+- **Koharu:** protests underwear/swimsuit and later naked-walk framing, recommends rest, questions school rules and admits interest in the outing. No official law or sexual act is established by her hyperbolic speech.
+- **Sensei:** offers a rain-as-sleep possibility, calls Azusa kind and agrees to the walk; no trap inspection, betrayal finding or official teaching outcome.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

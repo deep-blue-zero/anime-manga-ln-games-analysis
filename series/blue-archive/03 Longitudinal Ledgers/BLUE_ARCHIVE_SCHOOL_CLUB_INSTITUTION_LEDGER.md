@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -710,3 +710,7 @@ The narrator labels the **second remedial-club mock** and gives Hanako 8, Azusa 
 ## V003 C002 E003 institutional delta — sanction knowledge and intended underperformance
 
 Hifumi says two **official** special exams remain and failure on both means all four must leave Trinity. Hanako objects that ordinary school procedure requires grounds and process; Sensei inwardly says they share hidden circumstances, after which Hanako refers to Schale's `超法規的権限`. This is a disclosure and participant interpretation of Nagisa's E009 design, not a displayed authorization, lawful bypass, or enacted expulsion. Hanako directly acknowledges intentional low marks and ignorance of the collective sanction; she promises future effort to avoid others' expulsion without an observed next official mark. Her self-report materially revises the prior explanatory gap, not the already narrated exam/mocks. She infers a treaty-suspect container and possible Azusa-paper/Koharu-hostage rationales; Hifumi confirms Nagisa's private traitor-search task, not the existence of a traitor. Azusa/Koharu are not shown informed of expulsion; Koharu's final room-exit observation is not overhearing. No treaty decision, formal security finding, exam alteration, grade remediation or sanction occurs.
+
+## V003 C002 E004 institutional delta — camp interruption and unreviewed security
+
+Storm-soaked laundry and an apparent lightning-associated power outage stop the machine; no causes beyond speakers' guess or infrastructure diagnosis are established. Narration eventually confirms rewashing and taking the remaining day for rest; no lesson, official second test, grade, institutional sanction or trap inspection occurs. Azusa admits setting annex booby traps under a night-watch excuse and says they guard only malicious routes, but Marie's E002 benign activation is a direct false-positive counterexample. No security authorization, hazard map, removal or medical review is shown. Hanako's aquarium and amusement-park talk is brochure/rumor level; her Sisterhood-sourced masked-swimsuit gang story gives no proof the club knows Hifumi's V001 role. Koharu asserts clothing/public-decency and curfew prohibitions without inspected rules. Hanako proposes a nearby Trinity night walk, Sensei supports it, and narrator confirms it begins; no actual destination, offense or safe return is yet documented. Academic collective-expulsion and treaty mechanisms remain open.

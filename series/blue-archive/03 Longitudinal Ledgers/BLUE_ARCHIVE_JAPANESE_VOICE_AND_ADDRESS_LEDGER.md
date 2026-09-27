@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1170,3 +1170,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hifumi's `あと2回` concerns remaining **official** tests after E008; E002's second mock did not consume one. Hanako first calls ordinary expulsion `校則的に成り立ちません`, then hears Sensei's unprinted explanation and speaks of `シャーレの超法規的権限`. That wording is her uptake, not inspected rule text.
 - Hanako's `というところですか` marks the treaty-suspect-box conclusion as inference. `人質という観点なら` for Koharu is conditional, not independent verification of Mika's E001 guess. `書類の時点で怪しかった` does not say she knows Arius origin or Mika's forgery. `狡猾な猫ちゃん` and `洗濯物` are critical figurations; Sensei's inward reaction recalls a worse word without a new disclosure.
 - Labels invert around `u:0008-0015`, `u:0045-0047`, `u:0055-0059`, `u:0071` and `u:0096`. E003's secure backbone is Hanako's clearly sustained confession/inference, Hifumi's direct `ナギサ様` order at `u:0077` and Sensei's inward statement at `u:0030`. Do not force every anomalous line into a speaker profile. Nine singleton choices; `u:0101` is a next-title card, not the swimsuit event.
+
+## V003 C002 E004 delta — joy, possibility and ironic rumor
+
+- Azusa's `一つ一つが楽しい` and `知らなかったことを知れる` explicitly articulate everyday learning pleasure. `もうここは、「慣れない場所」じゃないからかもしれない` is her tentative account for late waking, not a settled medical/sleep cause. `海…一度も行ったことない` is narrow autobiography.
+- `見張りは言い訳` retracts her night-watch explanation in favor of trap-setting. `悪意…ルートにだけ`/`安全面に問題は無い` are safety assurances contradicted by Marie's E002 non-hostile triggering; Hifumi inwardly calls this out. `いつか裏切ってしまうかもしれない` is modal/future, not a confession or quotation of Nagisa's suspect label. `全てが無意味` recalls `vanitas` alongside E011's present-effort view.
+- Hanako's `ゴールドマグロ` exhibit claim is brochure-level/actor report; the amusement-park noise is expressly `噂`. Sisters reportedly told her of a masked-swimsuit criminal group, producing dramatic irony given V001 Hifumi, but no shown recognition by Hanako. Koharu's `犯罪`/`公然淫猥罪` and later `校則違反` are her assertions, not certified code. Hanako's `裸` walk/play is explicitly corrected.
+- Scene 1 `u:0017` jumps ~one hour ahead, then `u:0024` returns ~40 minutes; scene 2's power loss and recovery frame the conversation. Labels invert at scene 1 `u:0004-0005`, `u:0018-0023`, `u:0049-0050` and scene 2 `u:0036-0041`. All five choice groups are singleton, and `scene:002:u:0124` is a title card.

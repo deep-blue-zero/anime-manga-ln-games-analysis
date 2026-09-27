@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E003 active provisional; E004 unopened
+current_sequential_boundary: MAIN_V003_C002_E004 active provisional; E005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1751,3 +1751,12 @@ Marie enters as a tracked `UNMODELED` subject; no new durable claim ID, standalo
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global adjudication.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hanako's reason, Azusa's nights and next official result remain OPEN.
+
+## V003 C002 E004 claim delta — belonging under unreviewed defense
+
+- **BA-C001/C016 — QUALIFY:** Sensei participates in care/leisure, praises Azusa's intention and supports a nearby outing, but neither investigates the false-positive trap nor implements the promised protection. Azusa's objection to child treatment limits what Sensei's praise proves relationally.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Azusa explicitly values learning/shared life, undercutting Mika's E017 “does she learn?” stigma, while she also admits trap work and fears she might someday betray trust. Both are direct speech; neither settles traitor guilt, E017 plan content, lawful collective sanction or official exam. Marie's E002 trigger falsifies Azusa's E004 malicious-route-only safety assurance as a reliable outcome claim.
+- **BA-C008 — STRENGTHEN:** scene 1's jump/backtrack, storm cause guess, subjective dream, Sisterhood hearsay, Hifumi's Masked Swimsuit Gang dramatic irony, actor self-report, conditional betrayal and narrator-confirmed laundry/walk must be kept separate. Spoken “naked” play is contradicted by Koharu, not a narrator fact.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; Alice's chosen identity is not imported as Azusa's mechanism.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; trap safety, Azusa plan, future outing and official exam remain OPEN.

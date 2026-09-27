@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -800,3 +800,7 @@ Sensei receives Hifumi's second-mock result through singleton choices and praise
 ## V003 C002 E003 delta — disclosure without procedural rescue
 
 Sensei asks whether Hanako's Azusa concern should wait, then supports Hifumi and Hanako hearing it together. After Hifumi discloses possible all-four expulsion, Sensei's `心の声` says they explain what they know of the club's hidden affairs; exact words and legal basis remain unprinted. This is more openness to an affected student than the earlier secret-keeping posture, but not an audited Schale authorization or a documented challenge to Nagisa. Sensei thanks Hanako's promise to try on later tests; no pass or protection is achieved. Hanako's concern that Azusa may need sleep and her somewhat forceful suggestion are not met with a printed clinical/safeguarding plan. Sensei ends the consultation in favor of rest, while Koharu misreads the room-exit tableau. Nine singleton choices provide no alternate ethical outcome; neither private-room impropriety nor resolution of Mika's Azusa-protection request is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E004 delta — praise amid a failed safety assurance
+
+Sensei's singleton choices suggest rain may affect Azusa's sleep, observe Hanako's enjoyment, tell Azusa that Hanako worried, call Azusa kind and agree to a nearby night walk. These are bounded interpersonal actions, not an academic intervention, clinical assessment or adjudication of E017's plan. Azusa replies to “kind” by rejecting child treatment and voicing a possible future betrayal; the adult has no printed investigation or reassurance after that interrupted line. The previous day's Marie trap activation directly undercuts Azusa's “malicious-only routes” assurance, and no adult trap audit/removal is shown. Sensei's outing assent leads to a narrator-confirmed departure, but legality, supervision and outcome are not yet observed. The group rests after laundry; this is not official second-test preparation evidence. Five singleton choices give no divergent ethical path. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

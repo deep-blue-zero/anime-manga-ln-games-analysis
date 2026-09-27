@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -917,3 +917,11 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Proof versus admitted motive:** E016's privately obtained perfect-paper discrepancy and E002's 8 point mock now meet Hanako's explicit `わざと` admission. One uncertainty closes (intentional low marks); her `個人的な理由` leaves the causal/moral question open.
 - **Laundry metaphor becomes policy criticism:** E002's common laundry joke returns as Hanako's comparison for four students processed together, a situated critique of Nagisa's alleged bulk disposal. Metaphor does not establish actual legal procedure.
 - **Watching without knowing:** Hanako has noticed Azusa leaving, yet cannot say what she does. She infers the club's suspect design while still lacking Mika's private E001 history. Koharu at the end sees a room-exit tableau but does not hear its content—another limit of proximity as knowledge.
+
+## V003 C002 E004 motif / callback delta — false-positive defense and chosen ordinary life
+
+- **Drying/cleaning as shared vulnerability:** E002's common-laundry offer becomes soaked clothes, power loss, rewash and rest. Hanako apologizes; peers distribute the cost instead of assigning blame. The comic “party” emerges from material limits, not a narrator-confirmed nude event.
+- **Learning as belonging:** Azusa directly enjoys lessons, meals, cleaning and new knowledge, and tentatively calls the annex familiar. This gives scene-level counterevidence to Mika's E017 student-status challenge, without removing E017's unknown plan or E004's fear of betrayal.
+- **Security that harms care:** Azusa's trap rationale is benevolent by her account, yet Marie already triggered it. Hifumi notices the false-positive. E003's worry about late nights gains a partial explanation, not a guarantee that all night work was defensive or safe.
+- **Masks and swimsuits:** Hanako's secondhand masked-swimsuit “criminal group” story intersects V001 Hifumi's actual role; Hifumi's silence gives irony, not proof of disclosure or Nagisa's Hifumi dossier.
+- **Rain to night walk:** thunder interrupts work and enables camp talk; after restored power/laundry, Hanako opens a new leisure choice. Narrator confirms only its beginning, so outcome and rule implications wait.
