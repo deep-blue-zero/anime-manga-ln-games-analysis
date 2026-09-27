@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1034,3 +1034,11 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Access no longer blocked in fact:** after E014's predicted isolation, the party runs to the venue and a Justice member welcomes them. The narrative does not erase the earlier coercive design or explain the perimeter; it simply shows that an assumed impossible route was traversed.
 - **Hasumi's deferred repair:** her encouragement/apology travels through a committee member, preserving Koharu's Justice bond while leaving actual reconciliation/reinstatement future.
 - **“Nevertheless” made measurable:** Azusa's resistance maxim becomes both battlefield defection and a 97-point formal pass; Hanako explicitly credits Azusa for that stance. Causal teaching mechanism and long-term safety remain separate.
+
+## V003 C002 E020 motif / callback delta — premature ending
+
+- **A “good story” with a false end-credit:** Seia lists likely individual restorations and a scheduled signature, then explicitly says the credits are too early. The chapter closes a hard-won academic problem while reopening an unbounded peace/security future; the forecast is hers, not a depicted catastrophe.
+- **Prison versus repair:** Seia's Mika-confinement report gives E018 surrender a new institutional status, yet `もしかしたら` permanent separation and actual accountability/relationship repair remain open. Its apparent closure cannot substitute for process.
+- **Clouds and rain:** Seia's threatening clouds and Saori's immediate dark-cloud/rain forecast bind framed dread to Arius preparation. The imagery does not establish a weather mechanism or make Saori's unnamed action the proven total cause of disaster.
+- **`Vanitas` versus `それでも`:** Saori addresses Azusa with inescapability/body-memory rhetoric; the narrator repeats the Latin refrain. E018 Azusa had answered futility with resistance, and E019 certified a concrete pass. E020 tests that stance prospectively but does not annul it.
+- **Continuity, not conclusion:** `To be Continued in Chapter 3` directs the forward firewall; no Chapter 3 event enters C002 synthesis.

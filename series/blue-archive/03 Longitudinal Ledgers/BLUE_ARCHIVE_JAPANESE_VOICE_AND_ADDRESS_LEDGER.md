@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1282,3 +1282,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - The decisive `第3次特別学力試験` line at `u:0082` is followed by Hanako `100`, Azusa `97`, Koharu `91` and Hifumi `94`, each `合格`, then `補習授業部ー全員合格`. These are new narrator facts; the prior recap lines repeat earlier scores and cannot be counted as newly taken tests.
 - Koharu's `満点取る` is a pledge; 91 is pass but not 100. Azusa's `どんな結果であれ…決まる` is participant stakes language, with no specific printed administrative decree. Hasumi's `頑張ってください`/`力になれなくてごめんなさい` are transmitted by a Justice member, not Hasumi's present speech; `いつか必ず` is a future promise.
 - Sensei's two choices are singleton spoken encouragement/entry cues. `u:0041` is `先生（心の声）`, so “exam start” is not a shown audible invigilation order. `u:0088` is next-title card.
+
+## V003 C002 E020 delta — forecast modality and mediated sign
+
+- Seia `戻れるはず` for Koharu, `恐らく` for Hanako, `きっと` for Azusa and `戻れるだろう` for Hifumi are differently confident future appraisals, not narrated administrative outcomes. `ミカは学園の監獄に幽閉された` is her present-tense report; `もしかしたらもう二度と` is only a possibility. `ナギサは…調印しに行くだろう` forecasts a signing, not the signature.
+- `全ては、破局へと収束していく` and approaching `暗雲` belong to Seia's ominous frame, not confirmed Chapter 3 history. `u:0016` is italic Seia-associated address; her unlocated voice does not demonstrate bodily awakening after E018.
+- Saori's `準備しろ` is a direct command; `お前は抜け出すことはできない` and `体は覚えている` are future coercive claims. `u:0032` is narrator-tagged Latin/Japanese `Vanitas vanitatum et omnia vanitas` despite Saori's `曰く` preface. The refrain is not securely a new Saori voice sample.
+- Hiyori calls someone `姫ちゃん` and reports sign language; Misaki paraphrases a question about `あの子`. Silent `ミサキ` tags at `u:0020/0023`, later silent `アツコ` at `u:0026` and absent sign transcription prohibit a precise signer/content identification. No stated referent for “that child.” E020 has no Sensei choice; `u:0033` is a Chapter 3 card.

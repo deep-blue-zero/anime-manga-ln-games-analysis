@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -767,3 +767,7 @@ Marie and Hinata appear from the cathedral side, and Sisterhood declares interve
 ## V003 C002 E019 institutional delta — third official four-pass result
 
 At 7:50 a.m. Azusa pushes the fatigued club toward the announced venue. They arrive and a Justice Realization member welcomes them, relaying Hasumi's encouragement/apology; no direct Hasumi order or perimeter revision is printed. This defeats Hanako's E014 prediction of inevitable physical exclusion at the moment of entry, but does not explain the reported document-protection cordon or the committee's authority. The narrator's retrospective scorecard separates first official, local mocks 1–6 and second official paper-loss failure. The **third official special exam** yields **Hanako 100, Azusa 97, Koharu 91, Hifumi 94—all pass**, with explicit `補習授業部ー全員合格`. E006's all-four simultaneous academic condition is met under the raised 90-point line. No formal expulsion order can now be inferred from academic failure, but administrative exit, Koharu's Justice reinstatement, consequences of earlier paper loss, Nagisa's authority, treaty status and grade correction are not separately narrated.
+
+## V003 C002 E020 institutional delta — reported prison, unsigned treaty
+
+Seia recognizes the four's certified academic pass and says Koharu should now return to Justice Realization; this is a forecast, not a direct committee notice or observed reinstatement. Her Hanako/Azusa/Hifumi future statements likewise do not document school records. Seia reports Mika `学園の監獄に幽閉された`, advancing E018's surrender to a specific reported confinement state, while leaving arrest route, governing process, sentence and duration unknown. She expects Nagisa to go sign Eden as scheduled; no direct Nagisa medical clearance, movement, signature, ratification or treaty implementation is shown. Saori orders an unnamed preparation among Arius associates; Hiyori, Misaki and silent Atsuko become represented, but no operation or target is stated in the exchange. Seia's catastrophe forecast and the Chapter 3 continuation card prevent describing the treaty crisis as institutionally settled. Side-source backfill remains deferred.

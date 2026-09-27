@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -884,3 +884,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **KOHARU ↔ HASUMI/JUSTICE:** a Justice member welcomes the group and relays Hasumi's encouragement, apology and promise of later repair. Hasumi's direct knowledge/action and Koharu's grade-based return remain unprinted.
 - **SENSEI ↔ CLUB:** Sensei accompanies and offers two singleton prompts. The result fulfills a pass-oriented promise in outcome, but neither exclusive adult causation nor formal disciplinary settlement is shown.
 - **HANAKO ↔ AZUSA:** Hanako says Azusa taught her not to give up, reversing E013's teacher-credit direction. It marks mutual influence without resolving their distinct Arius/elite-track futures.
+
+## V003 C002 E020 relationship delta — reported distance and threatened return
+
+- **SEIA ↔ REMEDIAL CLUB:** in a locationless Sensei-addressed frame Seia credits the four's own pass and interprets their likely individual continuities. She does not exchange speech with them, and her future readings are not their confirmed post-exam choices.
+- **SEIA ↔ MIKA/NAGISA:** Seia reports Mika imprisoned and fears they may never meet; she expects Nagisa to sign. Neither party replies. Seia's earlier injury report is not resolved by this framed voice.
+- **SAORI ↔ AZUSA:** Saori addresses absent Azusa with an inescapability/body-memory claim. This contests Azusa's E014 declared defection and E018 resistance but shows no capture, submission or future contact.
+- **SAORI ↔ HIYORI/MISAKI/ATSUKO:** Saori commands preparation and quiets discussion; Hiyori voices anxiety, Misaki gives a suffering-as-life response and mediates a possible “princess” question. Atsuko appears silently, but exact sign content and whether Misaki-tagged silence should be reassigned remain uncertain. These are narrow group dynamics, not a complete hierarchy or private relationship model.

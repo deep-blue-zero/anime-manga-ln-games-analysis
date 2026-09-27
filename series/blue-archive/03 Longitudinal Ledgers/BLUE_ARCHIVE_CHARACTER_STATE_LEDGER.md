@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1100,3 +1100,13 @@ Readiness: **21 `PARTIAL_MODEL` / 47 `UNMODELED` across 68**, none operational/v
 - **Hasumi:** Justice member relays supportive message, apology and future repair promise. Hasumi does not directly appear and reason she could not help remains unknown. `UNMODELED`.
 
 All four narrator-marked third official passes confirm the local academic condition. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 47 `UNMODELED` across 68**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E020 character-state delta — epilogue as prognosis
+
+- **Seia:** speaks in a location/time-undefined framing passage, acknowledges the four students' E019 pass, predicts their return/continuity with modal language and warns of impending catastrophe. Her voiced framing does not prove recovery from Hanako's E018 injured/unconscious report or omniscient future knowledge. `UNMODELED`.
+- **Mika/Nagisa:** Seia reports Mika confined in school prison and forecasts Nagisa will sign the treaty. Neither appears; confinement procedure, Nagisa's medical state and actual signing remain unshown. Both `UNMODELED`.
+- **Saori:** directly orders preparation and tells absent Azusa she cannot escape and will remember “truth.” This is a coercive future claim, not an observed capture or recovered memory. `UNMODELED`.
+- **Hiyori/Misaki/Atsuko:** Hiyori fears the start of an unnamed painful event; Misaki responds, then apparently interprets a “princess” sign/question about an unnamed child. Silence tags conflict with a simple signer attribution, and Atsuko has only a named silent cue. Three new narrow `UNMODELED` subjects; no operational or private breadth.
+- **Azusa/club:** Seia's future readings and Saori's threat do not supersede their certified academic pass or demonstrate their later status; Azusa does not speak in E020.
+
+Readiness: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C003 E001 remains unopened pending C002 checkpoint.

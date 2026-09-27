@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E019 active provisional; E020 unopened
+current_sequential_boundary: MAIN_V003_C002_E020 active provisional; C003 E001 unopened pending C002 checkpoint
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1888,3 +1888,12 @@ Hinata and Sakurako join the index as narrow `UNMODELED` subjects; Mine is menti
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; administrative status, Nagisa, Mika, treaty and Azusa safety remain OPEN.
+
+## V003 C002 E020 claim delta — academic victory, conditional peace future
+
+- **BA-C001/C016 — QUALIFY:** Seia explicitly credits the club's own effort for passing, compatible with but not isolating Sensei's support. Sensei has no present choice or action.
+- **BA-C002–C004/C007/C010–C011/C021 — RESOLVE/OPEN by domain:** the E019 pass stands. Seia says Koharu should return to Justice, Hanako probably will not quit, Azusa surely can study and Hifumi probably resumes daily life; the modal future statements cannot become administrative orders. Seia reports Mika imprisoned but no legal process or duration. Nagisa's scheduled treaty signature is forecast, not accomplished; the E015 gunfire has no direct medical closure. Saori orders preparation and threatens Azusa, leaving external security and peace-process outcome open.
+- **BA-C008 — STRENGTHEN:** Seia's locationless framing, `はず`/`恐らく`/`だろう` future markers, her catastrophe prognosis, mediated nonverbal “princess” question and narrator-tagged `vanitas` refrain must not be flattened into equal narrator facts. Misaki silence tags and Atsuko's later silent tag limit exact sign attribution.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+Hiyori, Misaki and Atsuko join as narrow `UNMODELED` subjects: **21 partial / 50 unmodeled across 71**. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; C002 synthesis is required before opening C003 E001.

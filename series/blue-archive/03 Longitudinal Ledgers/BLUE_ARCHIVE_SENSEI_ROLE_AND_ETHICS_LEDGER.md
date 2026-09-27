@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -857,3 +857,7 @@ Sensei's only choice is silent. Mika, after an unprinted loss sequence and Siste
 ## V003 C002 E019 delta — pass outcome without sole-author rescue
 
 Sensei joins the exhausted club at the venue and gives singleton prompts to enter and face the last test; the `第3次特別学力試験……開始！` at `u:0041` is inward, not a public proctor command. Narrator certifies all four formal passes at 100/97/91/94. This fulfills the result named in E009's pass-oriented choice and is consistent with sustained adult support, but E019 does not isolate Sensei's causal contribution from Hifumi/Hanako teaching, Azusa/Koharu effort, and changed access conditions. The second official paper-loss failure and E015 Nagisa gunfire remain ethical/institutional questions; no Schale appeal, treatment or formal exoneration is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E020 delta — student-owned success, adult witness
+
+Sensei has no choice, spoken action or direct reply in E020. Seia addresses “you” in an unlocated frame and says the students won their pass by their own strength; this supports an agency-preserving reading of E019 without proving adult instruction had no effect. She expects individual returns, prison and a signature, then warns of catastrophe, but Sensei neither endorses those prognoses nor makes a new plan. Saori's Azusa threat makes the protection obligation future-facing again, without a shown adult counteraction. Do not convert Seia's apparent access to future outcomes into a verified Sensei knowledge state. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
