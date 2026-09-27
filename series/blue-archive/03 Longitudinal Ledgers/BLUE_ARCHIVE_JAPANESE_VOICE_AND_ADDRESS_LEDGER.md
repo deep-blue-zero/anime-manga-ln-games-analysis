@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1083,3 +1083,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hifumi `全員同時に合格する` and `一度でも全員同時に合格` specify one common passing sitting within up to three; `u:0049` rejects solo exit. Azusa recasts sittings as `ミッション` and after-school class as `特殊訓練`, an interpretive register rather than proof of a combat curriculum.
 - Hifumi's `転校` comes from documents, then Azusa directly confirms it; `u:0050` explains her first-year exam placement by curricular difference. Do not equate her E004 second-year student status with first-year exam level. Hanako requests `アズサちゃん` and receives permission; broader `ちゃん`/`仲間` wording is her overture, not established intimacy. Koharu explicitly rejects `先輩` and `馴れ馴れしく` treatment; Azusa says `親しいふり` is unnecessary for shared benefit, not impossible friendship.
 - Koharu's `飛び級`/`本当の力を隠してた` and predicted first-year success are self-account/forecast. Hanako's “emotional up/down” appraisal is one local view. Scene `u:0001` absent, `u:0002` omitted introductions, `u:0059` narrated lesson start, `u:0060` title card; one singleton Sensei choice.
+
+## V003 C001 E007 delta — extended voice/label inversion in study and exam
+
+- Study begins with Azusa addressing Hanako (`u:0002`); the next Azusa-labelled polite explanation and Hanako-labelled “understood” (`u:0003-0004`) fit inverted turn roles. `u:0007-0011` pair “Koharu-chan” address with Koharu/Hanako labels in conflict; `u:0013-0021` similarly mismatch “Hanako” address, the epic/ancient-language responses, Latin recognition and self-report “learned long ago.” Do not silently correct the source or assign divisibility, epic or Latin fluency to an individual from these lines. `Gaudium et Spes` is a referenced phrase/title within the exchange, not an audited historical or theological assertion.
+- Hifumi's secure `ハナコちゃんが何だかとってもすごく` / `アズサちゃんも学習意欲たっぷり` is her observation, not confirmed marks. Her `合宿` report names a first-failure contingency; her `3次試験まで全て落ちてしまったら` stops short of stating a consequence. Sensei `choice:001-002` each contain one question; `u:0023` and `u:0038` are inner voice.
+- On exam day, Hifumi-labelled `エリートの力` (`u:0039`) resembles Koharu's prior self-presentation, while Koharu-labelled hesitant `頑張ります` (`u:0040`) and `u:0041-0042` suggest further shift. Treat the four replies as a group-level moment, not secure voice exemplars. `u:0033` is a day-jump and `u:0043` a next-title card, not scores.

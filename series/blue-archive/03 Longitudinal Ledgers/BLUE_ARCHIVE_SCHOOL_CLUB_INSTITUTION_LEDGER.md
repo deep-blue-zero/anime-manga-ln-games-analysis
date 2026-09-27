@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -654,3 +654,7 @@ Hasumi says the Tea Party request and Schale teacher role mean taking Hanako/Azu
 ## V003 C001 E006 institutional delta — three chances for one joint pass
 
 Hifumi reports a special academic exam with up to three sittings; all four must pass simultaneously in one to end remedial lessons. She assigns Sensei schedule coordination and varied supplementary teaching, and corrects Koharu that individual high performance does not permit solo club graduation. These statements are the operative in-scene rule, not a viewed exam charter or grade threshold. Azusa reports a recent transfer and first-year exam placement due differing prior curriculum; Hifumi cites documents for transfer, then Azusa confirms it. Koharu reports taking second-year tests repeatedly to skip a grade and forecasts success on first-year tests; her records/cause remain uninspected. Narrator confirms daily after-school special lessons subsequently begin, but supplies no content or result.
+
+## V003 C001 E007 institutional delta — first-failure camp, undisclosed terminal risk
+
+Narration shows after-school self-study and a jump to the first special academic exam day; no paper, grading, result or camp occurs. Hifumi says Tea Party directed a `合宿` if anyone fails the first sitting. She breaks off when describing failure through the third sitting and declines Sensei's question about whether something bad would happen. Thus the first-failure camp is a reported group contingency, while the later consequence remains unknown; do not infer expulsion, venue, duration, compulsory powers or exact threshold from her silence. Her observation that Hanako seems able and Azusa motivated is not an academic record, especially given repeated study-line speaker-label conflicts.

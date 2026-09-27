@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -744,3 +744,7 @@ Sensei asks Hasumi to take Hanako and Azusa to the remedial club; Hasumi says th
 ## V003 C001 E006 delta — assigned work versus shown teaching
 
 Hifumi asks Sensei to coordinate schedules and provide varied supplementary lessons for an all-four pass within three sittings. Sensei's one printed singleton choice is a greeting; no lesson, feedback, grade decision or disciplinary action is shown. Narration later reports daily after-school lessons began, which supports activity at the group level but not a particular teacher technique or efficacy. Adult role and shared student dependence are now explicit; the ethical quality of intervention and the exam's fairness remain untested. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E007 delta — questions and inward encouragement, no grade agency
+
+Sensei privately regards the study as going well, asks singleton questions when Hifumi mentions camp and hints at a third-failure risk, and inwardly wishes all four calm effort on first-exam day. No classroom instruction by Sensei, welfare escalation, answer about the feared sanction, test modification, grade or pass result is printed. Asking about consequence does not itself show knowledge of it or power to prevent it. Hifumi's appraisal and the students' short exam-day replies do not establish teaching efficacy. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

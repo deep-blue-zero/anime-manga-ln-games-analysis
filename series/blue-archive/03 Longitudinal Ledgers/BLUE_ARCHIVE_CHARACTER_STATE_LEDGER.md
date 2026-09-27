@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -810,5 +810,13 @@ Hasumi says Tea Party-authorized Schale teaching permits Sensei to take Hanako a
 - **Hifumi:** explains up to three special exams and a simultaneous four-person pass condition, assigns Sensei coordination/tutoring, then corrects Koharu's belief that a solo high mark permits exit. Narration confirms daily lessons begin; no scores.
 - **Koharu:** resists familiar address/seniority, claims repeated second-year exams for acceleration caused her failing marks, predicts first-year success, and leaves after the group-rule correction. Her explanation is self-report, not independently checked cause.
 - **Azusa/Hanako:** Azusa confirms recent transfer, reports first-year exam placement due curriculum difference, and frames the group as mutual benefit rather than compulsory friendship. Hanako seeks `ちゃん` address and accepts no in-club seniority; social appraisal is situated.
+
+No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E007 character-state delta — study confidence before first result
+
+- **Hifumi:** judges Hanako academically able and Azusa eager from the study period, expresses relief, then reports a Tea Party instruction to hold camp if anyone fails the first exam. She evades a question about what happens after all three attempts fail. Her appraisal, optimism and worry are not grades or proof of the undisclosed sanction.
+- **Hanako/Azusa/Koharu:** study exchanges include math, epic and ancient-language material; several labels conflict with address/turn-taking, so exact knowledge and defensiveness cannot be safely assigned line by line. Hifumi's secure appraisal supports only her situated impression. Short exam-day lines likewise do not establish who is ready or their scores; Koharu's acceleration forecast remains untested.
+- **Sensei:** privately sees the study as going well, asks two singleton questions about camp and consequence, and inwardly wishes the four calm effort on exam day. No teaching act or result is printed.
 
 No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

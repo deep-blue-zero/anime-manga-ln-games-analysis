@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -675,3 +675,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **HANAKO ↔ AZUSA/KOHARU:** Hanako asks Azusa's permission for `ちゃん` and calls the three companions; Koharu rejects imposed seniority/familiarity. Hanako accepts the no-seniority norm. Address consent is bounded; no stable closeness or hostility yet.
 - **AZUSA ↔ PEERS:** Azusa accepts transfer disclosure, describes cooperation as mutual benefit and says she is unfamiliar with seniority. Her position avoids pretending intimacy, not a perpetual ban on relationship growth.
 - **KOHARU ↔ GROUP:** Koharu predicts quick solo success and departs despite Hifumi's correction. Her institutional status anxiety now meets a collective exam rule; actual future choice remains open.
+
+## V003 C001 E007 relationship delta — collaborative study under shared threat
+
+- **HANAKO/AZUSA ↔ PEERS:** a question-and-answer study exchange covers several subjects, supporting group-level cooperation after E006's task-bound agreement. Repeated label/turn inversions prevent secure line-by-line tutor/learner assignments or proof of friendship.
+- **HIFUMI → GROUP/SENSEI:** Hifumi observes apparent ability and motivation, expresses relief and confides Tea Party's first-failure camp instruction to Sensei. She withholds the feared third-failure consequence when asked; trust/disclosure is partial, not a demonstrated plan to mislead.
+- **SENSEI ↔ GROUP:** Sensei privately approves and wishes all four well, asks about the camp and consequence. No one is shown responding to a specific lesson or test intervention; group support is not outcome.

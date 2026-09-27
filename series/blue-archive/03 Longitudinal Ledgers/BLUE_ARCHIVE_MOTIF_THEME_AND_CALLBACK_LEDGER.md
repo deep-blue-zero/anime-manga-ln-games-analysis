@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -828,3 +828,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **All four or none:** one simultaneous pass within three sittings makes peer dependence a structural feature; Koharu's imagined solo quick exit fails at the rule level before any exam occurs.
 - **Mission and instruction:** Azusa translates class into training/missions, while Hifumi defines academic evaluation and asks Sensei for schedule/teaching work. The gap in register does not imply sabotage or an actual security operation.
 - **Address without forced intimacy:** Hanako's `ちゃん` overture, Koharu's no-seniority boundary and Azusa's mutual-benefit framing show that cooperation can begin without an agreed friendship script.
+
+## V003 C001 E007 motif / callback delta — competence, hope and hidden consequence
+
+- **Visible effort versus grade:** varied study questions and Hifumi's relief unsettle a simple “remedial equals incapable” stigma, but labels prevent assigning exact expertise and no grade verifies success. Hifumi's own missed-test history prompts her speculation about Hanako, not proof of a shared cause.
+- **Collective risk escalates:** the E006 all-four rule makes any one failed first sitting a group failure; Hifumi now reports an ensuing camp, while a third-failure consequence remains deliberately unsaid. Institutional care and pressure coexist as a question, not a settled verdict.
+- **Title before outcome:** the narrator moves from study to first exam day, then a next-title card. Anticipatory optimism, tension and Sensei's inward support cannot be converted into achievement.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:006; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E006 active provisional; E007 unopened
+current_sequential_boundary: MAIN_V003_C001_E007 active provisional; E008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1613,3 +1613,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. B
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; exact test rules and later performance remain OPEN.
+
+## V003 C001 E007 claim delta — first exam approaches, sanction withheld
+
+- **BA-C001/C016:** Sensei's private encouragement and two inquiries register concern, not pedagogical efficacy or ability to avert consequences. Student work is visible but line-specific skill attribution is unstable.
+- **BA-C002–C004/C007/C010–C011:** Hifumi reports a Tea Party camp order if anyone fails the first exam and anxiously cuts off the prospect of failure through the third. The reported first-failure contingency has not activated; the later sanction is undisclosed, not proved expulsion or an audited policy.
+- **BA-C008:** `u:0002-0021` repeatedly cross speaker labels, address and turn-taking; `u:0039-0042` have similar exam-day voice tension. Sensei's private thoughts, two singleton question choices, narrator's exam-day jump and `u:0043` title card cannot be collapsed into dialogue, intervention or scores.
+- **BA-C019/C020:** conditional academic/club belonging remains a limited comparison question, not direct Pavane recurrence.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; first exam result, camp terms, third-failure consequence and Hanako's earlier failure cause remain OPEN.
