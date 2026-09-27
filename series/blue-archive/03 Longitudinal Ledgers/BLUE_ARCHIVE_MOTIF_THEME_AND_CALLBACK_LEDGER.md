@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1368,3 +1368,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Second chance:** Saori wonders whether a good adult earlier could have changed her life; Mika confesses the same wish and refuses to deny it by killing Saori. Neither is thereby acquitted, formally forgiven or assured future belonging.
 - **Vanitas rejected, blame over-totalized:** Saori calls learned hatred and `すべては虚しい` false, but then assigns all harm to herself. The first is explicit self-revision; the second is not an objective causal map.
 - **Bomb withheld:** E007's confiscation recurs in Saori's answer to Mika, narrowing this confrontation's lethal means without proving what Mika's unfinished conditional meant.
+
+## V003 C004 E019 motif / callback delta — manufactured chances against manufactured scarcity
+
+- **Infinite possibility:** Sensei offers to make another chance when absent, without denying Mika's wrongdoing. The inward infinity image is commitment to continued effort, not an oracle of success.
+- **Witch versus student:** Mika repeats `魔女`; Sensei inwardly calls her a harmful but still addressable student, preserving responsibility without fatal identity.
+- **Clock revoked:** Beatrice refuses to wait for the expected sunrise, so the mission's participant deadline was never a reliable constraint on her ritual.
+- **Liminal elsewhere:** Seia's unnamed daydream visitor opens a new possible contact, not a confirmed rescue or physical Hyakkiyako arrival.

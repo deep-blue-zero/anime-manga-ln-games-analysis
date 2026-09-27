@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -951,3 +951,7 @@ Saori estimates one hour to sunrise; this sets group urgency but does not inspec
 ## V003 C004 E018 institutional delta — transfer proposal diverted into covert operations
 
 Mika's retrospectively printed pre-Seia/coup proposal would have secretly transferred one Arius student to Trinity under her Tea Party patronage to demonstrate coexistence; it was a **proposal**, not an approved admission or implemented exchange. Saori says Azusa was originally selected as its symbol. Beatrice privately orders Saori to reject the reconciliation while preserving contact for Trinity intelligence and reinforcing school hatred. Later Saori reports a Seia halo-bomb kill assignment and Azusa's deployment because of Trinity knowledge; Mika's later spy/coup request follows presumed Seia death. The source strongly differentiates original reconciliation, Beatrice's subversion and subsequent conspiracy, while written orders, exact Seia attack result and formal transfer records remain unseen. Mika's present local non-execution of Saori is not a Trinity disciplinary decision.
+
+## V003 C004 E019 institutional delta — promised return and accelerated rite
+
+Mika says expulsion is decided, but no new formal school instrument is inspected; the earlier Tea Party disqualification and school-expulsion forecast remain distinct. Sensei offers a **conditional** return together to Trinity after Atsuko is saved, not a binding school readmission. Beatrice states she has monitored the party and will begin the rite before sunrise, negating Squad's assumed dawn schedule; her forecast of imminent Atsuko halo destruction and self-elevation is not a completed act. She commands Barbara to silence Sensei, but no saint response or intervention is printed. Seia's unidentified daydream contact supplies no verified physical district travel or school/institutional outcome.

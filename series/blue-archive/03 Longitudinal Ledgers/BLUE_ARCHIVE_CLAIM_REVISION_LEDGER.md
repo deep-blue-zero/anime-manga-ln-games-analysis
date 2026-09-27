@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E018 active provisional; C004 E019 unopened
+current_sequential_boundary: MAIN_V003_C004_E019 active provisional; C004 E020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2293,3 +2293,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C008 — PRESERVE:** retrospective Seia-halo-bomb kill order is described, but no new Seia physical status or blast-mechanism proof. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E019 unopened.
+
+## V003 C004 E019 claim delta — chances promised, dawn no longer a deadline
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Sensei names Mika's harm and earlier reconciliation in private appraisal while offering a conditional Trinity return; no pardon or school ruling follows.
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei returns to injured Saori, offers Mika help and says chances can be made. The more expansive infinite-possibility/adult pledge is inner thought, normative not predictive.
+- **BA-C008 — QUALIFY:** Beatrice says she will not wait until sunrise, starts a rite and orders Barbara against Sensei; halo destruction/elevation/action remain future or unprinted. Seia's new daydream visitor is unidentified, not physical-recovery proof.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E020 unopened.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1041,3 +1041,7 @@ Saori explicitly tells Sensei not to return across the rubble and entrusts Atsuk
 ## V003 C004 E018 delta — earlier safeguard recalled, unexplained reappearance
 
 Saori answers Mika that she lacked a halo-breaking bomb because Sensei confiscated it, directly corroborating E007's student-to-adult handoff in a new conversation. This adult safeguard narrows Saori's options but cannot alone explain Mika's refusal to kill; Mika gives her own second-chance reason before the exchange. Sensei's inner thought at `u:0243` recalls the confiscation and both students then respond to Sensei's presence. The return after E017 departure is direct by their reactions, but route, timing and any voiced version of the inner line are unshown. No explicit Sensei choice in this unit and no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E019 delta — apology without absolution, chance without guarantee
+
+Sensei reunites with Saori and says they will save Atsuko together. To Mika they apologize for a failure to explain or face her, cite a student's life as the reason for aiding Saori, and propose a joint Trinity return after rescue. Sensei promises help and choice lines say chances exist/can be made; the longer appraisal of Mika's wrongdoing, goodness and repeated adult opportunity-making remains inward. This adult ethic refuses fatal `witch` identity without erasing accountability, yet cannot itself issue a school pardon or guarantee a future. Beatrice's accelerated ritual interrupts. Ten choice groups, two paired; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

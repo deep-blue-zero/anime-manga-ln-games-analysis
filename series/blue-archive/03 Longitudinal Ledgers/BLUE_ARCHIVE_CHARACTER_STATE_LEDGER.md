@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E019 character-state delta — chance pledge and early ritual
+
+- **Sensei:** directly rejoined Saori with Misaki/Hiyori, apologizes to Mika for insufficient conversation, cites Atsuko's endangered life, proposes returning together to Trinity after rescue and promises help/chances. A nuanced assessment of Mika and infinite-chance commitment are inner thought, not guaranteed externally heard or administratively enacted. `PARTIAL_MODEL`.
+- **Mika:** hears Sensei's apology/future offer, self-labels witch and says school expulsion is decided, then wonders if another chance exists. Her status claim is not an inspected order. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** reunite, with Hiyori noting Saori is hurt; react when Beatrice moves the ritual before sunrise. No medical clearing or Atsuko outcome. All `UNMODELED`.
+- **Beatrice:** claims location watch, ends her spectacle, announces immediate rite and imminent Atsuko halo break/elevation; orders Barbara to silence Sensei. Timing/intent directly stated, successful effect unshown. `UNMODELED`.
+- **Seia:** in a daydream-like place she tentatively calls Hyakkiyako, meets an unnamed voice that seems to recognize her; neither identity nor physical travel/awakening confirmed. `UNMODELED`.
+
+Barbara remains named/addressed without direct response or action; the unidentified dream voice is not a stable named subject. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E018 character-state delta — original reconciliation and shared second-chance longing
 

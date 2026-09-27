@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1210,3 +1210,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SAORI ↔ AZUSA/SQUAD:** Saori reports originally choosing Azusa as a reconciliation symbol, later as spy/Seia-attack participant, and now asks whether Azusa found an answer to happiness. Her retrospective self-blame for Atsuko/Hiyori/Misaki is broad but not their full agency map.
 - **MIKA ↔ SAORI:** injured Saori offers herself for retaliation; Mika refuses because killing would deny her own possibility of mercy. Local violence stops, but pardon, affection, safety and school outcomes remain open.
 - **SENSEI ↔ SAORI/MIKA:** Saori tells Mika Sensei confiscated halo bombs; both react to Sensei's arrival. No route or voiced version of the inner thought is supplied.
+
+## V003 C004 E019 relationship delta — one rescue party, an offered future
+
+- **SENSEI ↔ SAORI/MISAKI/HIYORI:** Sensei explicitly says Atsuko's rescue will continue with Saori. Misaki admits she could not dissuade them and Hiyori welcomes injured Saori; reunion is real, intervening route unknown.
+- **SENSEI ↔ MIKA:** Sensei apologizes for not explaining/facing her, gives student-life risk as reason to aid Saori, proposes joint Trinity return after Atsuko and offers help/chances. Mika doubts her own eligibility; no acceptance, pardon or school decision is shown.
+- **BEATRICE ↔ SQUAD/SENSEI/ATSUKO:** Beatrice cuts off the exchange, advances the rite and orders Barbara to silence Sensei. Threat relation intensifies without printed result.
+- **SEIA ↔ UNKNOWN VOICE:** a daydream speaker perceives Seia and asks why she arrived; identity and benevolence unknown.
