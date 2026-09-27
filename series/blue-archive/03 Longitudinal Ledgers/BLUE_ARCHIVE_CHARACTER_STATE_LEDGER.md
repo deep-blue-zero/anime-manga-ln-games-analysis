@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -1756,3 +1756,7 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Moe / Miyako / Decartes / RABBIT:** Moe reports a federal inquiry and Kaiser redevelopment cancellation; Miyako hopes that secures the park. Decartes reports 所確幸 members returning and offers fried chicken bones as a gratitude gift, prompting renewed quarrel but no shown attack.
 - **Kaya:** says the discovered case has not exposed a separate Kaiser/“our side” link, then proposes including RABBIT in an explicit coup plan. This is direct plan speech, not execution or RABBIT consent.
 - **Yukino / Niko / Otogi / Kurumi:** newly named FOX Squad seniors directly speak. Yukino is harsh about RABBIT readiness, boasts of a one-minute alarm-free escape counterfactual and names goals of SRT restoration and Schale abolition; Niko expresses reluctance to dirty juniors' hands, while Otogi/Kurumi voice acceptance. Individual private baselines and actual capacities are unknown.
+
+## V004 C001 checkpoint reconciliation — provisional sequence consolidated
+
+The chapter closes with RABBIT back at 子ウサギ公園 after retrieving Clover, Saki's explicit recognition of Miyako's captaincy and Miyako's handoff to Sensei. The group remains materially precarious and formally closed; its future park/SRT status is unawarded. Kanna's challenged compromise and Kaya's named FOX coup plan are distinct state tracks. Yukino, Niko, Otogi and Kurumi are newly named narrow subjects, not resolved identities of earlier anonymous interlocutors. Readiness remains 21 partial / 80 unmodeled across 101; Chapter 2 unopened.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-27
 
 ## Current boundary
 
-Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1781,3 +1781,7 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Shinon explicitly attributes the bribery account to `匿名希望の方`; the broadcast is public allegation, not a quoted legal finding. Kanna's `u:0010` bare backslash has no semantic dialogue content. Moe's investigation/cancellation lines are reports; Sensei's paired `scene:002:choice:001` variants do not establish coercion.
 - Decartes's `所確幸` gratitude and aroma-only `鶏の骨` “karaage” make a comic resource dispute, not edible aid. `scene:002:u:0047-0048` has Decartes-tagged retort to Decartes, preserving an attribution anomaly. Grenade calls are not blasts.
 - Scene 3 directly labels Yukino, Niko, Otogi and Kurumi, while earlier `？？？` remains unnamed at its own turns. `私たちの「クーデター」計画`, `SRTの復活` and `シャーレ廃絶` are explicit speaker intentions. No performed voice admitted.
+
+## V004 C001 checkpoint reconciliation — precision before performance
+
+Chapter 1's speaker-tag anomalies, repeated convergence lines and `心の声` responses remain quarantined at their episode routes; no “corrected” performance script or voice model is promoted. Particular traps: E010 Decartes-tagged SRT/mercenary line, E014 Moe self-question, E015 Kirino budget recall splice, E018 Miyu `お前` turns, E019 Kanna-tagged self-address and E020 Decartes-tagged opposing retort. `リベート` is hypothesis in E016, participant-read record in E017 and public anonymous-source allegation in E020, not one undifferentiated fact. The four FOX names are direct E020 labels; E012's expert and E013's seller are not assigned by voice resemblance. No performed voice admitted.

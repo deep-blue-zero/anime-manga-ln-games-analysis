@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -1355,3 +1355,7 @@ Miyako confronts Kanna with the found record; Kanna moves from threat to a bitte
 ## V004 C001 E020 relationship delta — gratitude outside, instrumentalization within
 
 RABBIT sees Chronos coverage and hears of inquiry/cancellation by Moe; Miyu fears retaliation, Saki expects public attention to occupy police, and Miyako hopes to remain at camp. Decartes says their group is returning and thanks the squad, yet the bone “karaage” quarrel reopens hostility without a printed attack. Kaya sees RABBIT as possible coup assets and frames FOX members as seniors; Yukino/Niko/Otogi/Kurumi express different degrees of readiness/reluctance. RABBIT never hears this proposal in the scene and gives no consent. The E012 expert and E013 vendor are not individually identified by this reveal.
+
+## V004 C001 checkpoint reconciliation — bounded trust and rival senior claim
+
+Miyako thanks Sensei after drainage, later trusts them with Clover and adult follow-up; that does not retroactively consent to E008 privacy intrusion or settle formal housing. Saki moves from challenging Miyako's appointed captaincy to affirming her actual E018 result, while Miyako still credits team cooperation. Kanna grants Sensei a temporary reprieve, then defends compromised policing under Miyako's evidence challenge, without reconciliation. Decartes alternates hostility and gratitude but no stable alliance follows. Kaya/FOX discuss RABBIT as juniors and possible coup resources without RABBIT's knowledge or consent. Next chapter remains unopened.

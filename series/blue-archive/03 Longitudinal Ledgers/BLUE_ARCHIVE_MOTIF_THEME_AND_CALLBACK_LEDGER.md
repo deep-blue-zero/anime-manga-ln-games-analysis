@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-27
 
 ## Current boundary
 
-Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -1513,3 +1513,7 @@ Kanna's rhetoric pits clean exceptional justice against compromised everyday pol
 ## V004 C001 E020 motif / callback delta — victory shadowed by the foxhole
 
 Clover's retrieval becomes public rumor and reportedly halts redevelopment, giving RABBIT and 所確幸 an apparent local reprieve but not a formal rights settlement. Decartes's inedible “gift” revives the food/waste conflict even after shared danger, keeping reconciliation comic and partial. Behind this relief, Kaya's hidden Kaiser-side link and named FOX seniors turn “SRT restoration” from RABBIT's protest ideal into a rival instrumental goal yoked to Schale abolition. The chapter closes on threatened recruitment of the very students whose autonomous mission exposed the first deal. No future coup success is guaranteed by the reveal.
+
+## V004 C001 checkpoint reconciliation — belonging, waste and institutional capture
+
+RABBIT's SRT name first survives as a self-chosen protest under material scarcity, then as a student-run investigative duty. Discarded food/drums prove other people have stakes in “waste,” while Decartes's non-possession rhetoric repeatedly protects possessions. Adult help can be enabling, deceptive or privacy-invasive; relationship repair requires specific acts and admits limits. Clover makes a corruption suspicion evidentiary without final judgment. E020's FOX coup plan appropriates the same SRT restoration language for Schale abolition, setting two future visions in tension without reading the next chapter.

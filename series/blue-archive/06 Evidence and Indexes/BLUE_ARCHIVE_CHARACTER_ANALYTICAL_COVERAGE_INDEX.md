@@ -1,18 +1,18 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E020
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_CHECKPOINT
 generation: V1
-version: "2.60"
+version: "2.61"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–020 provisionally; 196/310 main units; side-source classes unreviewed; BA:main:004:002:001 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then MAIN_V004_C001 checkpoint canonically; 196/310 main units; side-source classes unreviewed; BA:main:004:002:001 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
-current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
+current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md"
 next_unopened_main_unit: BA:main:004:002:001
 ---
 
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:002:001
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V004_C001_E020` provisional boundary, inheriting canonical `MAIN_V003_C004`:
+This index answers four questions at the canonical `MAIN_V004_C001` checkpoint boundary, inheriting earlier checkpoints through `MAIN_V003_C004`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -62,7 +62,7 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 All rows inherit:
 
 - analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E020;
-- current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
+- current checkpoint: `MAIN_V004_C001`; prior Prologue/V001/V002/V003 checkpoint basis remains lineage;
 - main-story coverage: `196 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
@@ -1629,3 +1629,7 @@ Routing: [V004 C001 E019 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_
 Chronos broadcasts an anonymous-source Kaiser/Public Security bribery allegation, and Moe reports a federal inquiry team and Kaiser redevelopment cancellation; the broadcast is direct, but the formal actions and outcomes are not independently documented. Decartes reports 所確幸 members returned and offers fried chicken bones as a disputed “gift,” without durable peace. Kaya admits a separate undiscovered Kaiser/“our side” link, names FOX Squad's Yukino, Niko, Otogi and Kurumi by their direct presence, and proposes drawing RABBIT into a coup. Yukino states SRT revival and Schale abolition as aims. No RABBIT consent, takeover or closure is shown; E012's unnamed expert and E013's vendor remain unassigned. Four FOX seniors enter narrow `UNMODELED`: **21 `PARTIAL_MODEL` / 80 `UNMODELED` across 101**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. V004 C002 E001 unopened.
 
 Routing: [V004 C001 E020 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E020_DEEP_READING.md) → `BA:main:004:001:020`, three scenes, 91 visible numbered units and one paired Sensei choice group. Coverage is **196 / 310**.
+
+## 170. V004 C001 checkpoint reconciliation
+
+The canonical [V004 C001 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md) reconciles all twenty episode readings at **196 / 310**. RABBIT's park protest, material pressures, contested resources and Miyako's re-earned captaincy are retained alongside Sensei's useful but ethically mixed aid. Clover is retrieved and given to Sensei, the public bribery allegation airs, and Moe reports inquiry/cancellation; formal investigative, property and school-status outcomes remain open. Kaya/FOX's separately stated coup proposal is unexecuted. The four FOX seniors are narrow `UNMODELED`, bringing the index to **21 `PARTIAL_MODEL` / 80 `UNMODELED` across 101**. No operational or validated row, standalone model, held-out test or prospective prediction exists; side-source backfill remains **DEFER**. `BA:main:004:002:001` is unopened.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-27
 
 ## Current boundary
 
-Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -1071,3 +1071,7 @@ At 01:00 RABBIT holds a rooftop ORP; Kanna reaches it and threatens possible sch
 ## V004 C001 E020 institutional delta — public scrutiny and FOX coup intent
 
 Chronos broadcasts an anonymous-source Kaiser/Public Security bribery allegation and school-intrusion damage report; Kanna challenges their presence/source, not the case in a formal reply. Moe says the Federal Student Council has organized investigators and Kaiser cancelled redevelopment; neither primary document or inquiry result is opened. Decartes reports 所確幸 members returning, not a verified title/park status. Kaya directly says a separate Kaiser/“our side” link escaped discovery and the plan remains viable. She names FOX Squad seniors Yukino, Niko, Otogi and Kurumi and proposes RABBIT's participation in a coup; Yukino states SRT revival and Schale abolition as aims. No official reinstatement, takeover, recruitment or Schale closure occurs.
+
+## V004 C001 checkpoint reconciliation — retrieval, publicity and an unexecuted coup
+
+SRT remains officially closed in Kaya's account and RABBIT's camp is not formally authorized. Park demolition/redevelopment, Kaiser Construction, Kaiser Industry arms and Public Security eviction become linked first by participant hypothesis, then an archive record Miyako identifies and Kanna's non-denial. Chronos airs anonymous-source allegations; Moe reports federal inquiry and company cancellation, with no primary decisions inspected. Clover reaches Sensei; public filing and legal result are absent. Kaya separately admits a hidden Kaiser/“our side” link and proposes a FOX/RABBIT coup to restore SRT and abolish Schale. FOX names are direct, but RABBIT participation and takeover are not. Backfill DEFER; V004 C002 E001 unopened.

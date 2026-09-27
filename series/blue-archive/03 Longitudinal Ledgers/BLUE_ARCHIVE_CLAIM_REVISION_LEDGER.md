@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
-checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E020 active provisional; V004 C002 E001 unopened
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+current_sequential_boundary: MAIN_V004_C001 checkpoint canonical; V004 C002 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2453,3 +2453,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E020 claim delta — publicity, cancellation report and coup disclosure
 
 **BA-C008 — REVISE public/hidden state:** Chronos airs an anonymous-source bribery report; Moe reports a federal investigation team and Kaiser cancellation, but formal orders, findings and company notice are uninspected. Kaya directly admits an undiscovered Kaiser/“our side” link and proposes RABBIT's inclusion in a coup, while Yukino names SRT revival/Schale abolition goals. These are actor intentions, not a completed seizure or proof of the full secret link. **BA-C001/C016 — QUALIFY:** Sensei has Clover from E019, but E020 does not print disclosure method or direction of authorities. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Four FOX seniors enter `UNMODELED`: **21 partial / 80 unmodeled across 101**. No durable new claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. Stop before V004 C002 E001.
+
+## V004 C001 checkpoint reconciliation — evidence ladder fixed
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** support for student choice, local release, drainage aid, reprieve and evidence custody coexist with privacy breach, tactical deception, imperfect knowledge and unresolved adult follow-through. **BA-C008 — REVISE:** E016 hypothesis → E017 participant-inspected Clover record → E019 Kanna non-denial plus evidence handoff → E020 public anonymous-source allegation and Moe's inquiry/cancellation report; no full transaction file, formal legal ruling or hidden Kaya/FOX link mechanism is admitted. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new durable claim ID, model or frozen prediction; 21 partial / 80 unmodeled across 101, backfill DEFER. V004 C002 E001 unopened.

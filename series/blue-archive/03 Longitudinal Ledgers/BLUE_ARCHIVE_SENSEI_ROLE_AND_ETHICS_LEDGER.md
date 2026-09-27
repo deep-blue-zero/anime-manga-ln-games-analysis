@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-27
 
 ## Current boundary
 
-Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 ### Structural Sensei
 
@@ -1161,3 +1161,7 @@ Sensei's inward address to Kanna is answered as if heard; paired and singleton c
 ## V004 C001 E020 delta — evidence custody without shown disclosure mechanism
 
 Chronos's anonymous-source broadcast and Moe's federal inquiry/Kaiser cancellation reports follow E019's handoff of Clover to Sensei, but E020 does not show Sensei supplying the source, threatening the council or directing an investigation (`scene:001:u:0002-0017;scene:002:u:0002-0014`). Sensei's paired answer denies coercion or alludes to complications; neither is a complete causal audit. The possible local benefit to RABBIT/所確幸 must not be credited solely to Sensei over the students' retrieval or presumed to be a formal legal victory. Kaya/FOX separately propose abolishing Schale, without Sensei's awareness or response shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); stop before V004 C002 E001.
+
+## V004 C001 checkpoint reconciliation — answerability without innocence
+
+Sensei supports RABBIT's local autonomy through release, food, drainage labor and a Kanna reprieve, while failing to secure park repairs and remaining physically outside the Clover infiltration. E008's unconsented bath presence, E010's false food lure and E013's optional false food-source line materially qualify trust; tactical success does not erase those acts. The students retrieve Clover, and Sensei accepts it for an adult-world next step that Chapter 1 does not show completed. `心の声`-tagged responsibility/choice counsel cannot be flattened into uniformly public promises. No claim of sole rescue, legal protection or transparent disclosure; no frozen prediction, side-source admission or Chapter 2 reading.
