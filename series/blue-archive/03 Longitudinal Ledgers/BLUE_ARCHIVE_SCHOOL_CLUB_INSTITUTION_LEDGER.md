@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -971,3 +971,7 @@ Beatrice claims to exploit royal-blood mystic power and outside-Kivotos force, c
 ## V003 C004 E023 institutional delta — Arius choir room, personal mercy
 
 Mika sees an old choir room with organ, scores and gramophone and infers Arius received schooling comparable to Trinity's; the material setting is direct, curriculum equivalence remains her inference. Her `赦す` is personal forgiveness of Squad, not Trinity disciplinary reversal or Arius amnesty. The unnamed approaching force is barred by her declaration, not a confirmed defeat of Beatrice's summoned basilica troops. No formal school or ritual disposition occurs.
+
+## V003 C004 E024 institutional delta — Beatrice's local loss and Gematria claim
+
+Beatrice herself protests that her ritual was interrupted and claims intact Barbara/Arius/mimesis resources after she is found down. The first is consistent with the local fight outcome; remaining assets are uninspected. Golconda directly names Gematria membership and intends to retrieve her, but no formal custody, sanction or destination is printed. His bomb-manufacturer claim and admission of no verified halo-destruction test delimit technical evidence; planned disposal is not completion. Atsuko is awake but severely injured by participant report, and no school, ETO or Trinity disciplinary instrument is changed.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,13 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E024 delta — mercy, false teaching and untested bomb
+
+- `Kyrie eleison` is heard in the sanctuary; Beatrice calls it `慈悲を語る歌` and rejects its presence in `私の領地`. Her explicit `生徒は憎悪を軽蔑を……呪いを謳わなければ` and `私たちに搾取される存在` reveal her program in direct speech, not just hostile inference.
+- Sensei's `黙れ` at `scene:001:u:0013` is `心の声`; `私の大切な生徒に話しかけるな` is voiced choice. `choice:003` alternatives accuse false teaching or refuse forgiveness, and Beatrice's duplicate reaction does not make both alternatives jointly uttered.
+- Atsuko's `きっと全部、終わったよ` is explicitly tentative; it cannot override Misaki's `外傷がひどい。血を流しすぎてる`. Golconda's `一度も確認できませんでした` denies a verified halo-destruction test, while `廃棄する予定` is future disposal, not a completed act.
+- Golconda's `舞台装置（マクガフィン）` and story-control language are his interpretive rhetoric. Beatrice's `まだ` asset inventory is her protest after losing, not independent capability verification.
 
 ## V003 C004 E023 delta — witch story, forgiveness and Kyrie
 

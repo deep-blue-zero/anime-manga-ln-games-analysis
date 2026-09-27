@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E024 character-state delta — Atsuko speaks, Beatrice falls
+
+- **Atsuko:** initially still hanging/away with severe external injuries and blood loss by Misaki's appraisal, then wakes, recognizes Squad and says she is all right. Directly alive/conscious now; sustained medical and halo condition unverified. `UNMODELED`.
+- **Saori/Hiyori/Misaki:** Saori offers herself when Beatrice demands a new sacrifice and later pleads for Atsuko to wake; Misaki rejects Saori's offer and appraises Atsuko's injuries. Their reunion includes relief and gratitude but not a comprehensive medical clearing. All `UNMODELED`.
+- **Beatrice:** sees Kyrie in her territory, openly insists on student hatred/extraction, threatens Saori and transforms again. After an unprinted fight she is down and protests ritual interference while claiming remaining forces/mimesis. Final custody/outcome open. `UNMODELED`.
+- **Golconda:** now directly self-names and speaks in the present, proposes retrieving Beatrice, offers literary judgment and claims bomb manufacture/untested halo effect. Direct-presence baseline strengthens without a readiness promotion. `UNMODELED`.
+- **Sensei:** audibly protects “my precious students,” objects to Beatrice's teaching and challenges Golconda's departure; no printed battle method or bomb detonation. `PARTIAL_MODEL`. **Mika/Barbara:** absence of Beatrice's reinforcements is observed; Mika's exact clash and Barbara status unshown.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E025 unopened.
 
 ## V003 C004 E023 character-state delta — Mika's personal forgiveness
 

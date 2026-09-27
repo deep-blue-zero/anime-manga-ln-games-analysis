@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1240,3 +1240,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SAORI/SQUAD:** Mika directly forgives them and hopes for their healing/future after admitting she wanted equal pain. The speech occurs apart from Squad; Saori's hearing or reciprocal forgiveness is not evidenced.
 - **MIKA ↔ SENSEI/KOHARU:** Mika fondly remembers their earlier rescue and believes Sensei will help Squad, yet excludes herself from a happy ending. This does not negate the previous direct chance offer.
 - **MIKA ↔ APPROACHING FORCE:** she tells unnamed plural addressees they cannot pass and promises to hold them. E022's summons makes reinforcements plausible, but composition, confrontation and success are not printed.
+
+## V003 C004 E024 relationship delta — Squad reunites, Gematria retrieves
+
+- **SAORI/HIYORI/MISAKI ↔ ATSUKO:** they find Atsuko badly hurt, call to her and receive direct waking speech. Saori thanks her for living; Atsuko reassures Saori and recognizes all three. This repairs immediate contact, not health or future security.
+- **BEATRICE ↔ SAORI/SQUAD:** Beatrice selects Saori as replacement sacrifice; Saori offers herself and Misaki protests. Beatrice then falls after omitted combat, leaving the coercive relation locally interrupted.
+- **SENSEI ↔ SQUAD/BEATRICE:** Sensei names students precious and opposes Beatrice's teaching; Saori credits Sensei's help. No audited combat method.
+- **GOLCONDA ↔ BEATRICE/SENSEI:** Golconda self-identifies in the present, intends to take Beatrice back and warns Sensei not to interfere. Departure/custody are not separately shown.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E023 active provisional; C004 E024 unopened
+current_sequential_boundary: MAIN_V003_C004_E024 active provisional; C004 E025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2333,3 +2333,11 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 - **BA-C008 — PRESERVE:** no new ritual or halo observation. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E024 unopened.
+
+## V003 C004 E024 claim delta — live Atsuko, interrupted rite, untested bomb
+
+- **BA-C008/C021 — REVISE/QUALIFY:** Atsuko directly wakes and speaks after Misaki reports severe injury/blood loss, so E021's unconscious-only observation is superseded but recovery/halo status is not secured. Beatrice is down and calls the ritual obstructed; she claims retained Barbara/troops/mimesis, unverified. Golconda claims he made Sensei's bomb and says no one ever confirmed a halo-destruction effect. This sharply limits any asserted proof of lethality without establishing safety.
+- **BA-C001/C016 — STRENGTHEN:** Sensei calls Squad precious students and denounces Beatrice's false teaching; Saori thanks Sensei after Atsuko wakes. The intervening fight tactic is omitted.
+- **BA-C002–C004/C007/C010–C011 — STRENGTHEN:** Squad and Atsuko reunite directly. Mika's rear-guard effect is suggested by absent reinforcements/Kyrie but not combat-audited. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Golconda's existing row gains direct-present evidence; readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E025 unopened.

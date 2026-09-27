@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–024; BA:main:003:004:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1061,3 +1061,7 @@ Beatrice claims an adult duty to ascend and save all through a “small” stude
 ## V003 C004 E023 delta — remembered rescue and uneven hope
 
 Sensei has no present line or choice. Mika recalls Sensei's earlier rescue with Koharu and trusts Sensei to help Squad, but judges her own life too late for the fairy-tale ending. That makes the prior adult chance offer a live unresolved tension: it neither guarantees Mika's recovery nor authorizes treating her self-condemnation as final. Her forgiveness and rear guard are student-authored. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E024 unopened.
+
+## V003 C004 E024 delta — protective address, no savior audit
+
+Sensei audibly forbids Beatrice to address “my precious students,” with alternative condemnation/refusal lines in `choice:003`. The inward `黙れ` is not automatically voiced. Squad credits Sensei's assistance when Atsuko wakes; this proves relational recognition and a local rescue outcome, not a printed tactic or complete medical cure. Sensei challenges Golconda's attempt to leave, but the latter's bomb provenance and effect claims are untested testimony, not a reason to presume actual detonation or safe disposal. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E025 unopened.
