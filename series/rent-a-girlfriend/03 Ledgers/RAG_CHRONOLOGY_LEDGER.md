@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 141
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V031
+row_count: 143
+state: CURRENT_THROUGH_V031
 ```
 
 ## Records
@@ -183,3 +183,5 @@ state: CURRENT_THROUGH_V030
 | RAG-CHR-139 | RAG-E-V030-001 through RAG-E-V030-005 | Kazuya moves into the family house, receives a separate room and key, Mini joins, and daily bath/sink/cat routines follow. | The offer becomes actual residence after the family/Ruka conversations. | The scenes do not establish a long-term residential endpoint. |
 | RAG-CHR-140 | RAG-E-V030-006 | On April 16 Kazuya realizes Chizuru's birthday is April 19, three days away, and she asks him not to prepare a present. | Explicit dates constrain the near-term birthday question. | No birthday celebration occurs in V030. |
 | RAG-CHR-141 | RAG-E-V030-007, RAG-E-V030-008 | Mami's public meeting and Kazuya's apology precede Sumi's unexpected house visit; Sumi treats his cut and they discuss the birthday. | Distinguishes encounters and audiences before the V030 cut. | Exact elapsed hours and later acts remain unshown. |
+| RAG-CHR-142 | RAG-E-V031-001 through RAG-E-V031-007 | On April 19, Kazuya attends Chizuru's performance; the troupe celebrates her, Sumi arrives with another cake, the household celebrates near midnight, and Chizuru accepts Kazuya's coupon after Sumi's departure. | Stage, troupe, household, and private talk are distinct same-day sequences. | Precise performance and arrival clock times are not given. |
+| RAG-CHR-143 | RAG-E-V031-008 through RAG-E-V031-010 | After the birthday, roughly one week of shared residence has passed; Kazuya identifies May 13 as his planned new-apartment move, Mini probes progress, and the bath conversation ends with Chizuru requesting Mini's view of him. | The deadline and interrogation follow the birthday, while a final answer has not yet occurred. | The exact date of the bath and whether May 13 becomes the actual move day remain unknown. |

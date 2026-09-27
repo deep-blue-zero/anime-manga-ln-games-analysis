@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030 inspected and closed; V031 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031 inspected and closed; V032 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-current_claim_count: 114
+inspected_through_volume: V031
+current_claim_count: 119
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V030__V031_ENTERING_FREEZE
+state: CURRENT_THROUGH_V031__V032_ENTERING_FREEZE
 ```
 
 ## Current claims
@@ -157,6 +157,11 @@ state: CURRENT_THROUGH_V030__V031_ENTERING_FREEZE
 | RAG-CLM-112 | The birthday request distinguishes an explicit no-present limit from Kazuya's desire for a modest acknowledgment; neither giving nor acceptance occurs in V030. | OBSERVATION | RAG-E-V030-006, RAG-E-V030-008 | Sumi's counsel cannot waive Chizuru's boundary. | ADDED and supported in V030. |
 | RAG-CLM-113 | Mami's initiated meeting and Kazuya's apology reopen contact while her purpose remains indeterminate. | OBSERVATION | RAG-E-V030-007 | Surface warmth, probing, and early departure support multiple motives. | ADDED and supported in V030. |
 | RAG-CLM-114 | Sumi's practical first aid and quiet birthday counsel recur as bounded care without speaking for Chizuru or resolving her own relation to Kazuya. | STRONG_INFERENCE | RAG-E-V030-008 | No birthday outcome or Chizuru response follows. | ADDED and supported in V030. |
+| RAG-CLM-115 | The April 19 birthday has distinct troupe, friendship, and household celebrations; Kazuya's belief that Chizuru has no other celebrants is too narrow. | STRONG_INFERENCE | RAG-E-V031-001 through RAG-E-V031-005 | Recognition does not erase bereavement or determine a romantic choice. | ADDED and supported in V031. |
+| RAG-CLM-116 | Chizuru revises the practical no-present boundary herself, invites Kazuya's gift, and accepts one improvised service coupon. | OBSERVATION | RAG-E-V030-006, RAG-E-V031-003, RAG-E-V031-006, RAG-E-V031-007 | Coupon use and the relation's status remain open. | ADDED in V031; refines V030-local RAG-CLM-112. |
+| RAG-CLM-117 | Chizuru credits Kazuya's bereavement support and says she cares about him, yet explicitly cannot classify the feeling as romantic love and continues to investigate. | OBSERVATION | RAG-E-V031-004, RAG-E-V031-010 | Neither gratitude nor lack of dislike is a completed romantic answer. | ADDED and supported in V031. |
+| RAG-CLM-118 | Cohabitation has a May 13 exit horizon and gives Mini an opportunity for an intrusive private-progress probe; domestic proximity does not supply consent or a dating result. | STRONG_INFERENCE | RAG-E-V031-008 through RAG-E-V031-010 | The planned move and investigation outcome are not yet shown. | ADDED and supported in V031. |
+| RAG-CLM-119 | Sumi now knows that Kazuya and Mini reside with Chizuru, while the volume shows no new Ruka or Mami information move or reaction. | OBSERVATION | RAG-E-V031-002, RAG-E-V031-011 | Absence in V031 does not forecast permanent absence or settle either outsider's motive. | ADDED and supported in V031. |
 
 ## Competing hypotheses
 
@@ -581,6 +586,26 @@ The V021-V030 block ended at the V030 checkpoint. The following V031 predictions
 | RAG-PRED-120 | Mami's renewed meeting and unfinished response to Kazuya's apology produce an observable follow-up, reframing, or access decision by either participant. | RAG-E-V030-007 | V031 supplies no further consequence of their meeting. |
 
 The entering state is a bounded three-person residence in Chizuru's inherited house, not an established dating relationship. Her investigation has ordinary observation but no final answer. Ruka lacks the true residence location; Nagomi retains a false couple premise. Chizuru's birthday, Mami's renewed contact, and the eventual house disposition remain unresolved. These predictions are prospective tests, not claims that any event occurs in V031.
+
+## Adjudicated predictions from the V030 boundary
+
+| Prediction ID | Adjudication | V031 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-117 | SUPPORTED | The troupe and household celebrate, Chizuru clarifies the no-present request, and she accepts Kazuya's coupon; RAG-E-V031-001 through RAG-E-V031-007. | No romantic classification follows. |
+| RAG-PRED-118 | SUPPORTED | Sumi discovers the residence, the bath route raises privacy, and Kazuya names May 13 as the new-apartment move; RAG-E-V031-002, RAG-E-V031-008 through RAG-E-V031-010. | The exit has not occurred. |
+| RAG-PRED-119 | DISCONFIRMED IN V031 | The inspected main continuity shows no additional Ruka-related concealment act, disclosure, status discussion, changed access, or confrontation. | The prior concealment remains unresolved. |
+| RAG-PRED-120 | DISCONFIRMED IN V031 | The inspected main continuity shows no Mami follow-up, reframing, or access decision after the public meeting. | Her motives and future contact remain open. |
+
+## Frozen predictions for V032
+
+These tests were written after V031 was closed and before inspecting any V032 narrative image. They use only the V031 boundary and carry no claim about V032's cover, contents, preview, or later events.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-121 | Chizuru's direct request for Mini's view of Kazuya produces a substantive testimony, question, correction, refusal, or other observable consequence for her inquiry. | RAG-E-V031-010 | V032 provides no continuation or consequence of the initiated request. |
+| RAG-PRED-122 | The named May 13 housing exit produces a move preparation, deadline negotiation, schedule change, stated pressure, or revised residence decision. | RAG-E-V031-008 | V032 supplies no practical or stated consequence of the exit horizon. |
+| RAG-PRED-123 | Chizuru's accepted service coupon produces a redemption attempt, specific request, negotiated limit, or explicit decision to defer its use. | RAG-E-V031-007 | V032 contains no mention or consequence of the accepted coupon. |
+| RAG-PRED-124 | The shared-house inquiry produces another direct question, observation, competing interpretation, privacy boundary, or provisional answer between Chizuru, Kazuya, and/or Mini. | RAG-E-V031-004, RAG-E-V031-008 through RAG-E-V031-010 | V032 supplies no observable inquiry or boundary consequence. |
 
 ## Open evidence questions
 

@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 172
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V031
+row_count: 175
+state: CURRENT_THROUGH_V031
 ```
 
 ## Records
@@ -214,3 +214,6 @@ state: CURRENT_THROUGH_V030
 | RAG-REL-170 | Kazuya ↔ Ruka / Nagomi | Uninformed rival and family audiences | Kazuya conceals Chizuru-house residence from Ruka and leaves Nagomi's genuine-couple inference uncorrected. | The household deepens an information asymmetry beyond V029's concern. | Neither audience's reaction to full facts is known; RAG-E-V030-001. |
 | RAG-REL-171 | Kazuya ↔ Mami | Former partners after public exposure | Mami seeks a public meeting; Kazuya apologizes; she asks and leaves without a settled explanation. | Direct contact resumes, with no named endpoint. | Attraction, retaliation, forgiveness, and business motive are underdetermined; RAG-E-V030-007. |
 | RAG-REL-172 | Kazuya ↔ Sumi | Friend and support-seeker in a new domestic setting | Sumi arrives, treats his cut, hears birthday worry, and offers quiet perspective. | Her prior adaptive care recurs in practical and conversational form. | She does not speak for Chizuru or receive a romantic answer; RAG-E-V030-008. |
+| RAG-REL-173 | Chizuru ↔ troupe / Sumi / household | Birthday recipient in professional, friend, and domestic circles | The troupe celebrates after her performance; Sumi brings a separate cake and privately listens; the housemates wait, toast, and give gifts. | Chizuru accepts plural care rather than only Kazuya's imagined exclusive rescue. | Recognition does not determine vocational outcome or romantic classification; RAG-E-V031-001 through RAG-E-V031-007. |
+| RAG-REL-174 | Chizuru ↔ Kazuya | Cohabiting in an unresolved investigation | She credits his bereavement support, receives his performance praise and coupon, but says she cannot yet name romantic love. | Chosen contact and affection become explicit alongside continuing uncertainty. | No mutual dating agreement or coupon redemption; RAG-E-V031-004, RAG-E-V031-006, RAG-E-V031-007. |
+| RAG-REL-175 | Mini ↔ Chizuru | Housemate and advocate pressing for progress | Mini joins her in the bath, asks intrusive questions, and is asked what sort of person Kazuya is. | The intermediary becomes a source Chizuru chooses to consult, even as she resists simplification. | Mini's testimony and Chizuru's result are deferred; RAG-E-V031-009, RAG-E-V031-010. |

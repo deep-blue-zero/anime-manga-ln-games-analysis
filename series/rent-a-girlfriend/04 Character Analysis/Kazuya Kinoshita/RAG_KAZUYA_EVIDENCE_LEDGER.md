@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; character evidence inspected through V031."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V029
+inspected_through_volume: V031
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -192,6 +192,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E152 | KAZ-S032 | RAG-E-V030-003 through RAG-E-V030-005 | Domestic routine and misreading | Negotiates bath/sink proximity, fantasizes about shared intimacy, and reads Chizuru's general cleanliness remark personally. | Ordinary observation extends without reliable interpretation of her private feeling. | No shared bath, sex, or romantic answer; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R024. |
 | RAG-KAZ-E153 | KAZ-S032 | RAG-E-V030-006, RAG-E-V030-008 | Birthday boundary and practical support | Learns April 19 is imminent, hears the no-present request, cuts a finger, receives Sumi's bandage, and considers modest acknowledgment. | His care intent remains susceptible to all-or-nothing fear but can be revised through concrete counsel. | Intention is not a completed gift or Chizuru's acceptance; RAG-KAZ-R002, RAG-KAZ-R015, RAG-KAZ-R024. |
 | RAG-KAZ-E154 | KAZ-S032 | RAG-E-V030-007 | Public apology to Mami | Meets Mami after her message and apologizes for his lies and trouble while she leaves her purpose unstated. | Can offer direct accountability to a former partner outside a confrontation. | Her response and his full understanding of her history remain unknown; RAG-KAZ-R001, RAG-KAZ-R003. |
+| RAG-KAZ-E155 | KAZ-S033 | RAG-E-V031-001, RAG-E-V031-002 | Performance spectatorship and birthday planning | Attends Chizuru's play, admires her acting, and learns that her troupe also celebrates while Sumi arrives at home with a cake. | His hope to support her is tested against real other sources of recognition. | His reading of Chizuru's isolation cannot erase colleagues and friends; RAG-KAZ-R002, RAG-KAZ-R024. |
+| RAG-KAZ-E156 | KAZ-S033 | RAG-E-V031-003, RAG-E-V031-006, RAG-E-V031-007 | Revised gift boundary and unpriced promise | Learns his reading of the no-present request was too broad, praises Chizuru's performance, and offers service coupons; she accepts one. | Can convert anxious care into a bounded gift after receiving direct permission. | Acceptance is not redemption or mutual dating; RAG-KAZ-R003, RAG-KAZ-R015, RAG-KAZ-R024. |
+| RAG-KAZ-E157 | KAZ-S033 | RAG-E-V031-008 | Residence clock and progress anxiety | Counts roughly one week of cohabitation, tells Mini he cannot read Chizuru's inquiry, and names May 13 as the planned move. | His desire for an answer remains vulnerable to a deadline and speculative sexual metrics. | The anxious forecast is not Chizuru's conclusion; RAG-KAZ-R002, RAG-KAZ-R024. |
 
 ## State-change summary
 
@@ -227,6 +230,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S030 — direct questioner and patient inquiry participant under expanding ordinary access:** asks about the kisses, restates his feeling without demanding an immediate answer, supports Chizuru's work choice, accepts her investigation, resumes direct messaging and private time, apologizes to Kibe, and performs task-bound labor in Chizuru's childhood home.
 - **KAZ-S031 — displaced, anxious prospective housemate:** loses neighboring housing, confronts limited independent options, confesses while drunk, then accepts Chizuru's sober one-month separate-room offer with Mini also invited; investigation and Ruka status remain unresolved.
 - **KAZ-S032 — anxious housemate under explicit limits and new concealment:** takes a key and separate room, overreads ordinary proximity, hides residence from Ruka and Nagomi, apologizes to Mami, and receives Sumi's aid and counsel about Chizuru's no-present request without completing a birthday gesture.
+- **KAZ-S033 — birthday helper under an expiring household clock:** attends Chizuru's performance, accepts correction of his no-present inference, offers an accepted service coupon, and worries about the May 13 move without receiving her romantic answer.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 

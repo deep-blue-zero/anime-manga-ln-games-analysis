@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 180
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V031
+row_count: 183
+state: CURRENT_THROUGH_V031
 ```
 
 ## Records
@@ -222,3 +222,6 @@ state: CURRENT_THROUGH_V030
 | RAG-INF-178 | Kazuya tells Ruka a family-home destination and lets Nagomi continue assuming genuine dating. | Both audiences lack the actual Chizuru-house arrangement, while Kazuya and the housemates know it. | V029's possible asymmetry becomes active concealment. | Neither Ruka nor Nagomi receives the full truth or an informed response opportunity; RAG-E-V030-001. |
 | RAG-INF-179 | Chizuru states household terms and a no-present request before her April 19 birthday. | Kazuya receives explicit practical limits but overreads some ordinary phrases through desire and anxiety. | Direct speech and private focalization must remain distinct. | The no-present wording neither invites a gift nor forbids all care; RAG-E-V030-002, RAG-E-V030-004, RAG-E-V030-006. |
 | RAG-INF-180 | Mami asks about Kazuya's apology without declaring her purpose; Sumi hears only the birthday concern and treats his cut. | Kazuya cannot know Mami's endpoint, and Sumi does not receive Chizuru's private answer. | The two meetings distribute partial knowledge differently. | Neither woman's response supplies Chizuru's feeling classification; RAG-E-V030-007, RAG-E-V030-008. |
+| RAG-INF-181 | Sumi arrives expecting Chizuru and finds Kazuya and Mini residing at the family house. | A trusted friend gains the true housing fact that Ruka and Nagomi have not been shown receiving. | Audience asymmetry widens without immediate exposure or confrontation. | Sumi's knowledge does not establish what she will tell others; RAG-E-V031-002. |
+| RAG-INF-182 | Chizuru clarifies that the no-present request was addressed to Kazuya and accepts his later coupon. | Kazuya's universal-ban inference is corrected by the speaker who owns the boundary. | Direct clarification improves the local information state. | It does not authorize unlimited service or answer the love question; RAG-E-V031-003, RAG-E-V031-006, RAG-E-V031-007. |
+| RAG-INF-183 | Chizuru tells Sumi she cannot classify her feeling as love, later tells Mini she is still trying, and asks Mini for her view of Kazuya. | Sumi and Mini receive different direct views of the same unresolved inquiry. | The uncertainty is voiced by Chizuru rather than inferred solely from Kazuya's anxiety. | Neither witness can supply her final answer, and Mini has not yet answered the request; RAG-E-V031-004, RAG-E-V031-010. |

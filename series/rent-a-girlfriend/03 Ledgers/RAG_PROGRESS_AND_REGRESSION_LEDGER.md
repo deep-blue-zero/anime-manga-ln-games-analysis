@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 174
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V031
+row_count: 177
+state: CURRENT_THROUGH_V031
 ```
 
 ## Records
@@ -216,3 +216,6 @@ state: CURRENT_THROUGH_V030
 | RAG-PRG-172 | Audience truth | NEW_CONCEALMENT_COST — Kazuya misstates his residence to Ruka and leaves Nagomi's false couple premise intact. | Greater intimacy with one audience increases the information debt to others. | Their informed reactions are untested. | RAG-E-V030-001 |
 | RAG-PRG-173 | Birthday care | REQUESTED_LIMIT_WITH_UNPERFORMED_INTENTION — Chizuru says no present, and Sumi helps Kazuya consider a modest acknowledgment. | Care becomes a specific boundary test rather than a general romantic proof. | No birthday outcome or gift acceptance is shown. | RAG-E-V030-006, RAG-E-V030-008 |
 | RAG-PRG-174 | Former-partner contact | REOPENED_MAMI_ROUTE_WITH_OPAQUE_END — she initiates a meeting and hears Kazuya's apology. | Silence after the resort is broken without resolving her goal. | Warm presentation and abrupt exit do not identify motive. | RAG-E-V030-007 |
+| RAG-PRG-175 | Birthday care | PLURAL_RECOGNITION_AND_REVISED_GIFT_LIMIT — the troupe and household celebrate, and Chizuru accepts Kazuya's coupon after clarifying her request. | The local no-present impasse resolves by Chizuru's own choice. | Recognition and gift acceptance do not settle romance. | RAG-E-V031-001 through RAG-E-V031-007 |
+| RAG-PRG-176 | Investigation | DIRECT_UNCERTAINTY_WITH_CONTINUED_TEST — Chizuru tells Sumi she cannot classify care as love and asks Mini for testimony. | Her inquiry becomes more directly evidenced but remains unfinished. | Mini's advocacy and Kazuya's anxiety cannot stand in for an answer. | RAG-E-V031-004, RAG-E-V031-010 |
+| RAG-PRG-177 | Household horizon | EXPLICIT_EXIT_CLOCK_WITH_PRIVACY_FRICTION — May 13 is named and Mini's bath tactic crosses a private boundary. | Domestic access carries practical time and consent costs. | The move has not occurred; no romance is purchased by proximity. | RAG-E-V031-008 through RAG-E-V031-010 |

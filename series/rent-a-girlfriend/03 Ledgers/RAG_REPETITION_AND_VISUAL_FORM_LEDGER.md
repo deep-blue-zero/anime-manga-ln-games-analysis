@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 172
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V031
+row_count: 176
+state: CURRENT_THROUGH_V031
 ```
 
 ## Records
@@ -214,3 +214,7 @@ state: CURRENT_THROUGH_V030
 | RAG-FRM-170 | A neighborhood cat moves from Kazuya's room to Chizuru's family yard amid laundry and Sayuri memory. | The animal gives household continuity and an observational bridge. | Gentle action is visible while Kazuya's loneliness theory remains a hypothesis. | The cat cannot answer Chizuru's romantic inquiry; RAG-E-V030-005. |
 | RAG-FRM-171 | Calendar and phone screens introduce April 19 and Mami's message; an apology scene ends before explanatory closure. | Specific timing makes the birthday actionable while the former-partner route remains open. | Interfaces convey contact and deadline, not private motive. | No completed birthday gesture or Mami endpoint; RAG-E-V030-006, RAG-E-V030-007. |
 | RAG-FRM-172 | Sumi's arrival, cut finger, bandaging hands, and quiet pauses replace Kazuya's spiraling interior monologue with care. | A small injury supports a concrete, local response and a second perspective on the birthday. | The hand image is an act of treatment, not an intimacy claim. | Bonus pages and teaser cannot supply subsequent outcome; RAG-E-V030-008, RAG-E-V030-009. |
+| RAG-FRM-173 | Stage ensemble, two cakes, and repeated moon/house views move Chizuru from professional visibility to a private welcome. | The birthday sequence contains several different observers and givers. | Repetition corrects Kazuya's solitary-rescuer picture without making every celebration equivalent. | Neither troupe acclaim nor house cake is a final acting or romantic outcome; RAG-E-V031-001 through RAG-E-V031-005. |
+| RAG-FRM-174 | Sumi's quiet private conversation and Chizuru's direct speech interrupt Kazuya's anxious interpretation. | Chizuru distinguishes comfort and gratitude from an as-yet-unknown love classification. | Viewpoint shift supplies evidence of uncertainty from the focal character herself. | Framing and expression cannot be overruled by assumed hidden love; RAG-E-V031-004. |
+| RAG-FRM-175 | Coupons, bear sweater, altar photographs, and the May 13 date give four objects different temporal directions. | A gift can be worn now, a coupon may be used later, family memory persists, and residence has a planned end. | Material repetition measures care without flattening grief or deadline into a single status. | No redeemed coupon, healed bereavement, or completed move is shown; RAG-E-V031-005 through RAG-E-V031-008. |
+| RAG-FRM-176 | Eroticized bath entrances and reaction panels surround Chizuru's explicit distinction between not disliking and loving. | Mini's comic pressure exposes rather than resolves the inquiry. | The scene's visual provocation is checked by voiced hesitation and a request for testimony. | The shared bath is Mini and Chizuru; nudity is not a Kazuya-Chizuru sexual event; RAG-E-V031-009, RAG-E-V031-010. |

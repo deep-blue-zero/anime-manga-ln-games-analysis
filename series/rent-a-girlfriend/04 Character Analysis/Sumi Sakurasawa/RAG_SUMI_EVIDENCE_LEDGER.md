@@ -4,13 +4,13 @@ artifact_id: RAG_SUMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V030; direct conduct through V030 after a silent V028 appearance."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V031; direct conduct through V031 after a silent V028 appearance."
 ---
 
 # Sumi Sakurasawa evidence ledger
@@ -26,8 +26,8 @@ japanese_name: 桜沢墨
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V028
-last_direct_conduct_volume: V018
+inspected_through_volume: V031
+last_direct_conduct_volume: V031
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -63,6 +63,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-SUM-E022 | SUM-S005 | RAG-E-V018-018 | Later integration by Kazuya; consequence | Kazuya integrates the excursion's lesson into his support plan. | Confirms that Sumi's intervention changes another character's available action model. | Kazuya remains responsible for the later plan and outcome. | RAG-SUM-R006 |
 | RAG-SUM-E023 | SUM-S005 | RAG-E-V028-012 | Silent campus appearance; negative information boundary | Appears near the April 7 campus sequence without an observed exchange. | Re-establishes physical presence in Kazuya's university environment after a long conduct gap. | No speech, action, knowledge state, motive, or relationship consequence is shown, so no new temporal state or model rule follows. | none; appearance limit only |
 | RAG-SUM-E024 | SUM-S006 | RAG-E-V030-008 | House visit, first aid, and birthday counsel | Appears at Chizuru's house while she is absent, bandages Kazuya's cut finger, and listens to his worry about the no-present request. | Repeats adaptive practical care after a long conduct gap and helps him consider a bounded acknowledgment. | Her counsel cannot waive Chizuru's limit or establish a birthday outcome; RAG-SUM-R002, RAG-SUM-R003, RAG-SUM-R006. |
+| RAG-SUM-E025 | SUM-S007 | RAG-E-V031-002, RAG-E-V031-003, RAG-E-V031-005, RAG-E-V031-006 | Birthday visit and gift | Brings a second cake, learns the house arrangement, joins the surprise, and gives Chizuru a bear sweater. | Prepared care reaches Chizuru directly in a friend setting. | Sumi does not own Chizuru's response to Kazuya; RAG-SUM-R002, RAG-SUM-R003, RAG-SUM-R006. |
+| RAG-SUM-E026 | SUM-S007 | RAG-E-V031-003, RAG-E-V031-004 | Private listening after bereavement | Hugs Chizuru, asks about the person who supported her, and listens as Chizuru distinguishes care from an unclassified love feeling. | Low-pressure inquiry and physical comfort provide a direct confidant route. | Sumi hears uncertainty, not a secret completed answer; RAG-SUM-R002, RAG-SUM-R003. |
 
 ## State-change summary
 
@@ -72,8 +74,11 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - SUM-S004 — family-context supporter: visits Sayuri with flowers and uses a phone memo to ask about the film.
 - SUM-S005 — friend-framed support teacher: listens to a new grief problem, rejects solitary-strength logic, ends the transaction, self-funds an excursion, and models play plus direct encouragement.
 - SUM-S006 — practical visitor and birthday confidant: visits the family house, treats Kazuya's cut finger, and helps him think about Chizuru's no-present limit without speaking for her.
+- SUM-S007 — birthday giver and private listener: brings cake and a sweater, learns the active residence, offers Chizuru comfort, and hears her unclassified feeling without claiming a diagnosis.
 
 V013-V016 and V019-V027 supply no material new Sumi conduct. V028 supplies only a silent campus appearance; V029 has no direct conduct. V030 resumes practical care after that long gap without resolving her own unheard romantic feeling.
+
+V031 gives a direct Chizuru-facing instance: Sumi's prepared cake and sweater are accepted, and she listens to Chizuru's uncertainty without claiming to know the answer (RAG-E-V031-002 through RAG-E-V031-006). The active three-person residence becomes known to her, but no onward disclosure is shown.
 
 ## Written-speech and ordinary-conduct notes
 

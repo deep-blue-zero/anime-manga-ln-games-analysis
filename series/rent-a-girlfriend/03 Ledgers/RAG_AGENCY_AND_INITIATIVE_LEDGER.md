@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 202
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V031
+row_count: 205
+state: CURRENT_THROUGH_V031
 ```
 
 ## Records
@@ -244,3 +244,6 @@ state: CURRENT_THROUGH_V030
 | RAG-AGY-200 | Chizuru | Open unrestricted cohabitation or set workable terms. | Gives Kazuya a separate room/key, states the month and three-person frame, and discusses common use and costs. | Converts a shelter offer into an operating household while retaining choice. | Domestic generosity is not a romantic answer; RAG-E-V030-002 through RAG-E-V030-004. |
 | RAG-AGY-201 | Mami | Leave earlier exposure unaddressed or request a meeting. | Messages Kazuya, meets him publicly, probes his apology, and ends the talk without stating an endpoint. | Reopens former-partner access under her own timing. | Motive and planned next step remain unshown; RAG-E-V030-007. |
 | RAG-AGY-202 | Sumi and Kazuya | Avoid an awkward birthday boundary or handle concrete need. | Sumi visits, bandages his cut, and listens; Kazuya resolves to consider a modest acknowledgment. | Practical care and a second perspective counter his all-or-nothing fear. | Sumi cannot authorize a present for Chizuru, and no gift is given; RAG-E-V030-008. |
+| RAG-AGY-203 | Sumi | Offer a birthday gesture or avoid imposing. | Brings a separate cake and sweater, listens privately, and hugs Chizuru without assigning her feeling. | Friendship gives Chizuru a chosen listener and material care. | Sumi does not waive Chizuru's limits or decide for her; RAG-E-V031-002 through RAG-E-V031-006. |
+| RAG-AGY-204 | Chizuru | Preserve an absolute no-gift rule or clarify and revise it. | Welcomes the gathering, distinguishes her earlier request, asks for Kazuya's gift, accepts one coupon, and later explains that inquiry is ongoing. | She controls the local boundary and voices her own epistemic limit. | The coupon and care are not a dating agreement; RAG-E-V031-003, RAG-E-V031-004, RAG-E-V031-006, RAG-E-V031-007, RAG-E-V031-010. |
+| RAG-AGY-205 | Mini | Wait for Chizuru's process or force a progress check. | Presses Kazuya, enters Chizuru's bath, challenges her, and is asked for testimony about Kazuya. | Intermediary pressure opens a direct conversation but oversteps privacy. | Mini's enthusiasm is not consent or diagnostic authority; RAG-E-V031-008 through RAG-E-V031-010. |

@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V030; character evidence inspected through V030, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V031; character evidence inspected through V031, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V029
+inspected_through_volume: V031
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -62,6 +62,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E022 | MIN-S007 | RAG-E-V029-004 through RAG-E-V029-008 | Displacement response and forceful housing intervention | Faces building closure, proposes family-house cohabitation, contacts Chizuru at the bar, and offers herself as a third resident. | Coordinates a practical solution while continuing romantic interpretation. | Her initiative is not a substitute for Chizuru's consent or a reliable love diagnosis; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E023 | MIN-S007 | RAG-E-V029-008, RAG-E-V029-009, RAG-E-V029-012 | Kiss suggestion, taxi interruption, and accepted invitation | Suggests a kiss test, is stopped, calls transport, interrupts the approach, and later accepts Chizuru's house invitation. | Her mediation has both boundary-testing and concrete logistical effects. | The suggestion does not authorize an intimate test; no completed kiss is shown; RAG-MIN-R002, RAG-MIN-R004, RAG-MIN-R006. |
 | RAG-MIN-E024 | MIN-S008 | RAG-E-V030-002 through RAG-E-V030-004 | Third-resident implementation and commentary | Moves belongings into the house, coordinates bath access, and comments on Kazuya's anxious interpretations. | Her practical third-party role becomes enacted residence, not just proposal. | Her romantic diagnosis remains an interpretation, and residence grants no authority over the principals' private answer; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E025 | MIN-S009 | RAG-E-V031-003, RAG-E-V031-005 | Birthday co-hosting | Waits at the house with Sumi and Kazuya, improvises a party sign, and helps welcome Chizuru. | Proactive organization can support a chosen social event. | The positive event does not validate her diagnosis of Chizuru's feeling; RAG-MIN-R001, RAG-MIN-R003. |
+| RAG-MIN-E026 | MIN-S009 | RAG-E-V031-008 through RAG-E-V031-010 | Progress pressure and bath intrusion | Presses Kazuya for milestones, enters Chizuru's bath, and demands a simple progress account; Chizuru instead asks her view of Kazuya. | Her role shifts from household support to intimate interrogation and possible testimony. | Intrusion is not authorized by her helpful purpose; testimony and answer are pending; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 
 ## State-change summary
 
@@ -73,6 +75,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S006 — outcome-seeking intermediary after direct recontact: asks for the result, learns that investigation rather than classification followed, and immediately generates possible tests whose authority remains only speculative.
 - MIN-S007 — displaced logistical intermediary and invited third housemate: advocates cohabitation, crosses a boundary with a suggested kiss demonstration, arranges the taxi, and later accepts Chizuru's separate invitation into a bounded household.
 - MIN-S008 — active third resident and informal interpreter: moves into the family house, participates in facility coordination, and comments on Kazuya's anxious reading without acquiring authority over Chizuru's answer.
+- MIN-S009 — birthday organizer and intrusive progress witness: helps welcome Chizuru, presses Kazuya for milestones, enters Chizuru's bath, and receives a request for her view of Kazuya.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -81,6 +84,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - She frequently treats relational inertia as a problem to solve, which produces useful disclosure and nonconsensual engineering in the same evidence set.
 - V027 shows the same duality without logistical deception: direct pressure and selective relay help end paralysis, while confident labeling and unrequested mediation remain authorization risks.
 - V028 preserves that calibration problem after success: Mini accurately learns that inquiry began but fills the unspecified method with her own compatibility theories (RAG-E-V028-005).
+- V031 adds a positive birthday-organizing instance and a sharper privacy limit: she creates a welcome, then intrudes into Chizuru's bath to demand progress. Chizuru's subsequent request for testimony does not retroactively authorize the entrance (RAG-E-V031-003, RAG-E-V031-005, RAG-E-V031-008 through RAG-E-V031-010).
 - She can state her own privacy boundary clearly and can admit a deception after direct questioning.
 - Ordinary-life coverage includes university adjacency, creator/streamer identity, room access, group work, public peer contact, and confidant visits; independent friendships, family, finances, creator routine, and non-support goals remain thin.
 

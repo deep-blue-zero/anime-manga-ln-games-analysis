@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.31"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 158
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V031
+row_count: 161
+state: CURRENT_THROUGH_V031
 ```
 
 ## Records
@@ -200,3 +200,6 @@ state: CURRENT_THROUGH_V030
 | RAG-TXN-156 | Actual room, key, facilities, and bath scheduling | Chizuru provides shelter and discusses household costs and shared-use logistics; Mini occupies the third place. | Residents can negotiate chores, timing, privacy, and exit when the month ends. | The key and unpriced access do not purchase romance, imply shared bathing, or override a refusal. | Separate turns and common sink coexist with continued inquiry; RAG-E-V030-002 through RAG-E-V030-004. |
 | RAG-TXN-157 | Birthday acknowledgment after a no-present request | Chizuru asks Kazuya not to buy a gift amid displacement and limited money; Sumi later helps him think about care. | Kazuya can speak, listen, or offer a modest noncoercive gesture subject to Chizuru's response. | Desire to celebrate cannot negate her explicit boundary or infer acceptance in advance. | Only an intention develops; no gift transaction or birthday result is depicted; RAG-E-V030-006, RAG-E-V030-008. |
 | RAG-TXN-158 | Sumi's first aid | Kazuya cuts his finger and Sumi applies a bandage. | He receives specific practical care, which he could decline or stop. | Bodily contact for treatment supplies no broader romantic permission. | Local injury care occurs without a couple-status change; RAG-E-V030-008. |
+| RAG-TXN-159 | Two birthday cakes and Sumi's sweater | The troupe, friend, and housemates provide distinct unpriced recognition and a gift. | Chizuru can receive, question, or decline each gesture. | Neither gift nor friendship purchases a romantic answer or erases grief. | She accepts celebration and sweater; RAG-E-V031-001 through RAG-E-V031-006. |
+| RAG-TXN-160 | Kazuya's improvised service coupons | Chizuru reopens her earlier no-present limit and accepts one coupon after Kazuya offers practical availability. | She may later specify a task; he may negotiate the actual use. | An open-ended slogan is not literal unlimited consent or a contract for intimacy. | A token is accepted, but no service is redeemed; RAG-E-V031-006, RAG-E-V031-007. |
+| RAG-TXN-161 | Mini's shared bath with Chizuru | Mini intrudes into a private bath to push the relationship inquiry. | Chizuru objects and limits what can be inferred from her answer. | Nude proximity between the women gives neither Mini nor Kazuya authority over Chizuru's status. | Direct discussion yields uncertainty and a request for testimony, not a couple decision; RAG-E-V031-009, RAG-E-V031-010. |

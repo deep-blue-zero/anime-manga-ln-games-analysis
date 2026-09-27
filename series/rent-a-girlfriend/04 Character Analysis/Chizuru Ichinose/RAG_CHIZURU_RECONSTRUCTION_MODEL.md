@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V030."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V031."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -57,13 +57,14 @@ model_basis:
     - RAG-JP-EPUB-V028
     - RAG-JP-EPUB-V029
     - RAG-JP-EPUB-V030
-  admitted_through_volume: V030
-  narrative_time_boundary: "after implementing a bounded three-person household and stating a no-present birthday request, without a final feeling answer"
+    - RAG-JP-EPUB-V031
+  admitted_through_volume: V031
+  narrative_time_boundary: "after plural birthday care, gift-boundary clarification, and direct accounts to Sumi and Mini that her feeling remains unclassified"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.30"
+  model_revision: "1.31"
   prior_knowledge_limitations:
-    - "No post-V030 narrative evidence is admitted."
+    - "No post-V031 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru has directly explained the silence and operationalized inquiry, but its result and any final mutual classification remain unavailable."
 coverage:
@@ -1573,7 +1574,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S032
 valid_from_source: "V030 0005"
-valid_until_source: null
+valid_until_source: "V031 0004"
 entry_conditions:
   - "Kazuya and Mini begin occupying Chizuru's family house under her one-month invitation."
 active_goals:
@@ -1603,6 +1604,42 @@ uncertainties:
   - "Her investigation result and any completed sober test."
   - "Her response to any later birthday acknowledgment."
   - "The house's disposition and informed response of outside audiences."
+~~~
+
+### CHI-S033 — birthday recipient and explicit investigator
+
+~~~yaml
+state_id: CHI-S033
+valid_from_source: "V031 0005"
+valid_until_source: null
+entry_conditions:
+  - "Her birthday and stage performance occur during the temporary three-person residence."
+active_goals:
+  - receive chosen care without outsourcing her romantic classification
+  - continue investigating whether Kazuya's importance to her is romantic love
+known_propositions:
+  - "Kazuya supported her after Sayuri's death and is seriously concerned for her."
+  - "The troupe and Sumi care for her independently of Kazuya."
+  - "Kazuya's service coupon is hers to request or defer."
+relationship_conditions:
+  - "She tells Sumi of Kazuya's importance but not a resolved romantic answer."
+  - "She resists Mini's simple progress metric and asks what Mini has observed of Kazuya."
+changed_from_previous:
+  - BIRTHDAY_CARE_RECEIVED
+  - GIFT_LIMIT_CLARIFIED_AND_COUPON_ACCEPTED
+  - FEELING_UNCERTAINTY_DIRECTLY_VOICED
+  - MINI_TESTIMONY_REQUESTED
+evidence_refs:
+  - RAG-E-V031-001
+  - RAG-E-V031-003
+  - RAG-E-V031-004
+  - RAG-E-V031-005
+  - RAG-E-V031-006
+  - RAG-E-V031-007
+  - RAG-E-V031-010
+uncertainties:
+  - "Whether Mini's testimony changes her judgment."
+  - "The coupon's future use, the household exit, and a final status answer."
 ~~~
 
 ## Behavioral rules
@@ -1944,7 +1981,7 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work competes with family care; a practical need creates temporary private access; a researched film proposal requires feasibility review and bounded project consent.
 
-Require extra assumptions: sustained private friendship routine beyond the observed inquiry period, an affirmative private romantic answer, durable cohabitation beyond the one-month offer, sexual intimacy, a wider acting-career result, durable bereavement recovery, or behavior after V029.
+Require extra assumptions: sustained private friendship routine beyond the observed inquiry period, an affirmative private romantic answer, durable cohabitation beyond the one-month offer, sexual intimacy, a wider acting-career result, durable bereavement recovery, or behavior after V031.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
@@ -1955,5 +1992,7 @@ V028 validates the next step of the role-conflict sequence: Chizuru converts ini
 V029 validates a constrained extension of the bounded-care rule: Chizuru identifies her mother at the altar, speaks of a hypothetical shared-laughter marriage, acknowledges loneliness while drinking, resists Mini's simple inference, and later soberly offers a separate room for one month with Mini invited (RAG-E-V029-001, RAG-E-V029-003, RAG-E-V029-007 through RAG-E-V029-012). Quake shielding is Kazuya's safety action; a taxi interrupts the contemplated drunken kiss. The model can predict the form of a practical, limited access choice, but cannot equate it with final romantic classification, stable household routine, or Ruka settlement.
 
 V030 confirms that the housing offer is operational rather than symbolic. Chizuru assigns space, key, and shared-use routines, then specifies a no-present birthday boundary in light of Kazuya's costs (RAG-E-V030-002 through RAG-E-V030-006). This supports rule-governed access and continuing ordinary observation, but the cat scene and Kazuya's interpretation of a general remark do not reveal her private classification. The model still abstains on a final answer, duration beyond the month, birthday outcome, and informed Ruka or family response.
+
+V031 supplies rare direct calibration. Chizuru receives distinct theater, Sumi, and household care; corrects Kazuya's overbroad reading of her gift request; and accepts his coupon. With Sumi she credits Kazuya's bereavement support while saying she cannot yet classify her feeling as romantic love. With Mini she rejects the equation of not disliking with loving and asks for another observer's testimony (RAG-E-V031-001 through RAG-E-V031-010). The model can represent active inquiry and bounded gratitude but must abstain on a final answer, any inferred sexual permission, and whether Mini's account is decisive.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named professional, family-welfare, identity, vocational, and bounded-care domains. It assigns no global capability grade and preserves motive underdetermination.

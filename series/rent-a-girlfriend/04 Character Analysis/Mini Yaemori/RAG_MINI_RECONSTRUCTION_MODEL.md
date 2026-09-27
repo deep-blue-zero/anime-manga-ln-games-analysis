@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V030, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V031, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -45,13 +45,14 @@ model_basis:
     - RAG-JP-EPUB-V028
     - RAG-JP-EPUB-V029
     - RAG-JP-EPUB-V030
-  admitted_through_volume: V030
-  narrative_time_boundary: "after Mini actually moves into the three-person house and comments on ordinary bath and access routines"
+    - RAG-JP-EPUB-V031
+  admitted_through_volume: V031
+  narrative_time_boundary: "after co-hosting Chizuru's birthday and pressing her for progress in the bath, where Chizuru asks Mini's view of Kazuya"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.4"
+  model_revision: "1.5"
   prior_knowledge_limitations:
-    - "No post-V030 narrative evidence is admitted."
+    - "No post-V031 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
@@ -341,7 +342,7 @@ uncertainties:
 ~~~yaml
 state_id: MIN-S008
 valid_from_source: "V030 0005"
-valid_until_source: null
+valid_until_source: "V031 0004"
 entry_conditions:
   - "Chizuru's one-month invitation becomes an occupied three-person household."
 active_goals:
@@ -361,6 +362,39 @@ evidence_refs:
 uncertainties:
   - "Whether she respects a firm no-intervention request."
   - "Whether her feeling theory is accurate."
+~~~
+
+### MIN-S009 — birthday organizer and intrusive progress witness
+
+~~~yaml
+state_id: MIN-S009
+valid_from_source: "V031 0005"
+valid_until_source: null
+entry_conditions:
+  - "The shared house gives Mini direct access to the birthday and subsequent ordinary routines."
+active_goals:
+  - help Chizuru feel celebrated
+  - hasten an answer she believes will favor Kazuya
+known_propositions:
+  - "Chizuru accepts the birthday gathering and Kazuya's service coupon."
+  - "Kazuya has not received a romantic answer and faces a May 13 move."
+  - "Chizuru says she is still investigating and asks Mini's view of Kazuya."
+relationship_conditions:
+  - "A housemate and supporter may be consulted but cannot decide Chizuru's status."
+changed_from_previous:
+  - BIRTHDAY_HOSTING
+  - PROGRESS_DEMAND
+  - BATH_PRIVACY_INTRUSION
+  - REQUESTED_AS_KAZUYA_WITNESS
+evidence_refs:
+  - RAG-E-V031-003
+  - RAG-E-V031-005
+  - RAG-E-V031-008
+  - RAG-E-V031-009
+  - RAG-E-V031-010
+uncertainties:
+  - "What testimony she gives and whether Chizuru accepts it."
+  - "Whether Mini can respect a firm privacy or nonintervention limit."
 ~~~
 
 ## Behavioral rules
@@ -478,7 +512,7 @@ Use Japanese manga written speech only. Mini tends toward explicit labels, enthu
 
 Supported with caution: a stalled measurable group project; a concealed collaboration she accidentally discovers; Kazuya and Chizuru separately giving her incomplete accounts; an opportunity to create private access; direct challenge to a logistical deception; a peer encounter in which her supporter identity is visible.
 
-Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's final investigation method, or any post-V030 relationship result.
+Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's final investigation method, or any post-V031 relationship result.
 
 Abstain whenever the outcome requires treating Mini's romantic theory as fact, granting permission she was not given, or converting a useful campaign intervention into general moral or professional reliability. Generated scenarios cannot become canon evidence.
 
@@ -489,3 +523,5 @@ The model remains `PARTIAL_MODEL`. V028 supplies the immediate consequence of Mi
 V029 supports Mini's response-form prediction under a housing crisis: she diagnoses, pushes a concrete shared-house proposal, recruits Chizuru, offers herself as a third resident, and coordinates transport (RAG-E-V029-004 through RAG-E-V029-012). Chizuru later accepts a bounded household proposal, but rejects Mini's suggested kiss demonstration and does not endorse her love label. Practical success strengthens logistical initiative without upgrading diagnostic accuracy or intervention authorization.
 
 V030 confirms actual move-in and mundane facility negotiation (RAG-E-V030-002, RAG-E-V030-003). Mini can manage practical proximity and offer commentary, but no result validates her romantic diagnosis or establishes restraint under a firm stop request. Local readiness remains PARTIAL_MODEL.
+
+V031 separates successful birthday organization from intrusive romantic engineering. Mini helps create a welcome for Chizuru, then asks Kazuya for milestones and enters Chizuru's bath to press for an answer. Chizuru does not adopt Mini's simple equation of care with love; instead she asks Mini what sort of person Kazuya is (RAG-E-V031-003, RAG-E-V031-005, RAG-E-V031-008 through RAG-E-V031-010). This is a possible information role for Mini, not a validated diagnosis or permission to intrude. Readiness remains PARTIAL_MODEL.

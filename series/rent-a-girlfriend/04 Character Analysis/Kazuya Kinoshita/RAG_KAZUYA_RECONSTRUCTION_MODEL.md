@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V030."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V031."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -57,13 +57,14 @@ model_basis:
     - RAG-JP-EPUB-V028
     - RAG-JP-EPUB-V029
     - RAG-JP-EPUB-V030
-  admitted_through_volume: V030
-  narrative_time_boundary: "after entering the one-month household, concealing residence from Ruka and Nagomi, meeting Mami, and receiving Sumi's first aid and birthday counsel"
+    - RAG-JP-EPUB-V031
+  admitted_through_volume: V031
+  narrative_time_boundary: "after Chizuru's birthday, her acceptance of one service coupon, and Kazuya's recognition of the May 13 housing clock"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.30"
+  model_revision: "1.31"
   prior_knowledge_limitations:
-    - "No post-V030 narrative evidence is admitted."
+    - "No post-V031 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -1590,7 +1591,7 @@ uncertainties:
 ~~~yaml
 state_id: KAZ-S032
 valid_from_source: "V030 0005"
-valid_until_source: null
+valid_until_source: "V031 0004"
 entry_conditions:
   - "Kazuya enters Chizuru's one-month, three-person house arrangement after losing apartment access."
 active_goals:
@@ -1623,6 +1624,40 @@ uncertainties:
   - "Whether he respects Chizuru's birthday limit in action."
   - "When he corrects Ruka and Nagomi and how they respond."
   - "Whether the household ends on schedule or yields a direct answer."
+~~~
+
+### KAZ-S033 — birthday helper under an expiring household clock
+
+~~~yaml
+state_id: KAZ-S033
+valid_from_source: "V031 0005"
+valid_until_source: null
+entry_conditions:
+  - "Chizuru's April 19 birthday arrives during the three-person house stay."
+active_goals:
+  - support Chizuru's acting and birthday without violating her stated limit
+  - obtain a clearer inquiry result before the May 13 apartment move
+known_propositions:
+  - "Her troupe and Sumi offer their own birthday care; he is not her sole source of recognition."
+  - "Chizuru has clarified the gift boundary and accepted one of his service coupons."
+  - "He knows the intended housing exit date, but not Chizuru's private answer."
+relationship_conditions:
+  - "Birthday appreciation and an accepted gift coexist with no mutual dating status."
+  - "Ruka and Nagomi have not been shown receiving corrected housing or dating facts."
+changed_from_previous:
+  - PERFORMANCE_WITNESSED
+  - NO_PRESENT_SCOPE_CORRECTED
+  - UNPRICED_SERVICE_COUPON_ACCEPTED
+  - MAY_13_EXIT_HORIZON_NAMED
+evidence_refs:
+  - RAG-E-V031-001
+  - RAG-E-V031-003
+  - RAG-E-V031-006
+  - RAG-E-V031-007
+  - RAG-E-V031-008
+uncertainties:
+  - "What Chizuru will request using the coupon."
+  - "Whether the house stay ends on May 13 and when she reaches an answer."
 ~~~
 
 ## Behavioral rules
@@ -1962,7 +1997,7 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the one-month arrangement, or any post-V030 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the one-month arrangement, or any post-V031 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
@@ -1973,5 +2008,7 @@ V028 validates a discriminating countercondition to the ambiguity-collapse rule:
 V029 tests material disruption against the V028 patient-inquiry behavior. Kazuya shields Chizuru during a quake, worries that displacement will end access, names Ruka and financial constraints, expresses feeling while drunk, and accepts a sober limited room offer (RAG-E-V029-002 through RAG-E-V029-012). Practical care and direct objection are supported, while emotional forecast and sexualized interpretation remain unreliable. The interrupted near-kiss and temporary cohabitation supply no evidence for mature reciprocal intimacy or mutual dating status.
 
 V030 tests ordinary residence against the same anxious appraisal. He accepts room, key, and separate bath use, but sexualizes proximity and misreads general speech. He also avoids the harder audience truth by concealing his destination from Ruka and leaving Nagomi's premise intact. His Mami apology is a counterexample to total inability to address prior wrong, while Sumi's bandage and counsel give him a concrete route under Chizuru's no-present request (RAG-E-V030-001 through RAG-E-V030-008). No birthday action, relationship answer, or informed rival response is observed; do not forecast success as accomplished.
+
+V031 tests the birthday constraint in action. Kazuya watches the play, sees the troupe and Sumi provide independent care, and accepts Chizuru's correction that her no-present request was not a ban on any gesture. His improvised coupon and vocational praise receive direct acceptance, supporting a bounded adaptive-help rule; his anxiety about progress and the May 13 move remains exaggerated, and he still lacks her answer (RAG-E-V031-001 through RAG-E-V031-008). Do not infer a redeemed coupon, romantic assent, or truthful settlement with Ruka from this local success.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

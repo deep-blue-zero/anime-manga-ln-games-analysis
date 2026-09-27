@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; character evidence inspected through V031."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V029
+inspected_through_volume: V031
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -187,6 +187,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E145 | CHI-S032 | RAG-E-V030-001 through RAG-E-V030-004 | Implemented household boundaries | Welcomes Kazuya, assigns separate space, gives a key, and discusses one-month, three-person, cost, laundry, bath, and common-area use. | Converts a sober offer into chosen daily access under explicit rules. | No automatic couplehood or unrestricted intimacy; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E146 | CHI-S032 | RAG-E-V030-004, RAG-E-V030-005 | Ordinary speech and remembered domestic care | Shares sink routine, remarks generally about conscientious people, and interacts with Peter, a cat connected to the family's feeding habits. | Small, nonprofessional acts become observable without requiring romantic performance. | Kazuya's interpretation of a phrase or cat behavior cannot resolve her private feeling; RAG-CHI-R004, RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E147 | CHI-S032 | RAG-E-V030-006 | Birthday cost and boundary | Acknowledges the upcoming April 19 birthday and requests no present during Kazuya's housing and money strain. | States a specific limit while allowing the matter to become discussable. | No birthday outcome or blanket ban on care is shown; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E148 | CHI-S033 | RAG-E-V031-001, RAG-E-V031-003, RAG-E-V031-005 | Performance and plural birthday care | Performs with the troupe, receives their cake, accepts the house gathering and Sumi's separate cake, and pauses before the family altar. | Professional and private recognition coexist with continuing bereavement. | Neither stage applause nor birthday care proves a career result or completed grief; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E149 | CHI-S033 | RAG-E-V031-004 | Direct feeling account to Sumi | Credits Kazuya's bereavement support but says she cannot determine whether her feeling is romantic love and intends to face the question. | Supplies first-person uncertainty rather than leaving her state entirely to Kazuya's inference. | Care and gratitude are not silently equivalent to a final answer; RAG-CHI-R024. |
+| RAG-CHI-E150 | CHI-S033 | RAG-E-V031-006, RAG-E-V031-007 | Boundary clarification and accepted gift | Clarifies the no-present request, receives Sumi's sweater, asks for Kazuya's gift, and selects one coupon after hearing his praise of her acting. | Revises a practical rule herself without surrendering relationship authority. | Redemption and status remain open; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E151 | CHI-S033 | RAG-E-V031-009, RAG-E-V031-010 | Privacy and continued inquiry with Mini | Objects to Mini's bath intrusion and simplistic progress pressure, distinguishes not disliking from loving, and asks what Mini knows of Kazuya. | Maintains an incomplete inquiry while seeking another observer's account. | No kiss test or final choice follows; RAG-CHI-R016, RAG-CHI-R024. |
 
 ## State-change summary
 
@@ -222,6 +226,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S030 — direct investigator expanding ordinary and family access under rival-harm accounting:** apologizes and explains the silence, distinguishes the provider role from her whole person, promises an answer, asks directly about Ruka, sustains unpriced communication and vocational access, and invites Kazuya into task-bound childhood-house labor without final romantic classification.
 - **CHI-S031 — displaced householder offering a bounded inquiry setting:** identifies maternal loss, acknowledges loneliness during a drunken conversation, and later soberly offers one month of separate-room shelter to Kazuya and invites Mini, without resolving the investigation or house disposition.
 - **CHI-S032 — temporary host governing ordinary observation:** implements a separate room, key, facility and expense terms for a three-person month, continues ordinary interaction and inherited household care, and specifies a no-present birthday limit without giving an investigation answer.
+- **CHI-S033 — birthday recipient and explicit investigator:** accepts plural care, clarifies the gift request, tells Sumi her feeling is unclassified, and asks Mini for testimony while resisting a simple progress metric.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 
