@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1057,3 +1057,7 @@ Mika chooses to draw the threat away; Sensei's sole singleton choice asks her to
 ## V003 C004 E022 delta — not judge or savior, teacher beside students
 
 Beatrice claims an adult duty to ascend and save all through a “small” student sacrifice, projecting absolute judgment/salvation power onto Sensei. Sensei's inward statements deny judge, savior and absolute status or a right to judge; the voiced answer is simply `生徒たちのための先生だよ`. Sensei then offers Squad presence and joint effort. This makes the role-limited ethic explicit while preserving the distinction between inner thought and audible choices, including `choice:002`'s alternatives. The omitted clash yields Beatrice's distress, not an auditable Sensei tactic. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E023 unopened.
+
+## V003 C004 E023 delta — remembered rescue and uneven hope
+
+Sensei has no present line or choice. Mika recalls Sensei's earlier rescue with Koharu and trusts Sensei to help Squad, but judges her own life too late for the fairy-tale ending. That makes the prior adult chance offer a live unresolved tension: it neither guarantees Mika's recovery nor authorizes treating her self-condemnation as final. Her forgiveness and rear guard are student-authored. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E024 unopened.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -967,3 +967,7 @@ Hiyori explicitly identifies the basilica's inner sanctuary after Mika's diversi
 ## V003 C004 E022 institutional delta — claimed rite and emergency command
 
 Beatrice claims to exploit royal-blood mystic power and outside-Kivotos force, casts an Agnus dei sacrifice as necessary, and displays what she calls a higher adult form. These are her claims and appearance reactions, not an instrumented ritual audit. Post-cut she reports failing authority/power and doubts completion, then commands Barbara and all basilica forces to protect her. Orders do not establish response. No inspected halo break, final rite disposition, rescue or school-governance change follows.
+
+## V003 C004 E023 institutional delta — Arius choir room, personal mercy
+
+Mika sees an old choir room with organ, scores and gramophone and infers Arius received schooling comparable to Trinity's; the material setting is direct, curriculum equivalence remains her inference. Her `赦す` is personal forgiveness of Squad, not Trinity disciplinary reversal or Arius amnesty. The unnamed approaching force is barred by her declaration, not a confirmed defeat of Beatrice's summoned basilica troops. No formal school or ritual disposition occurs.

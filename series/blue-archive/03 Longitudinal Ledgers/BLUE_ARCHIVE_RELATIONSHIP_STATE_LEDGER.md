@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1234,3 +1234,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **BEATRICE ↔ SENSEI:** Beatrice offers a shared absolute-adult horizon and asks for assent; Sensei rejects the premise and names teacher-for-students as role. The conflict is ethical and tactical, not an agreed account of either's powers.
 - **SENSEI ↔ SAORI/HIYORI/MISAKI:** Sensei promises presence and joint effort; the three answer and aim to save Atsuko. This is explicit coalition under pressure, with the clash itself skipped.
 - **BEATRICE ↔ SQUAD/ATSUKO:** Misaki/Hiyori reappraise Madame's form as monstrous, while Beatrice treats an unspecified “small sacrifice” as necessary in the established Atsuko ritual context. She orders Barbara and all basilica troops back for protection; response unshown.
+
+## V003 C004 E023 relationship delta — Mika forgives absent Squad
+
+- **MIKA ↔ SAORI/SQUAD:** Mika directly forgives them and hopes for their healing/future after admitting she wanted equal pain. The speech occurs apart from Squad; Saori's hearing or reciprocal forgiveness is not evidenced.
+- **MIKA ↔ SENSEI/KOHARU:** Mika fondly remembers their earlier rescue and believes Sensei will help Squad, yet excludes herself from a happy ending. This does not negate the previous direct chance offer.
+- **MIKA ↔ APPROACHING FORCE:** she tells unnamed plural addressees they cannot pass and promises to hold them. E022's summons makes reinforcements plausible, but composition, confrontation and success are not printed.

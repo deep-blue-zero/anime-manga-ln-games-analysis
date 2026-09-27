@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1393,3 +1393,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Lamb as expendable student:** Beatrice names an Agnus dei “small sacrifice” as necessary for universal rescue; the unit exposes the coercive arithmetic rather than endorsing it.
 - **Adult ideal fork:** Beatrice's ascent, total judgment and universal cure oppose Sensei's limited teacher role and solidarity with suffering students.
 - **Monster unmasked, power unstable:** Squad's description of Madame's form as monstrous reverses her great-adult self-image; her later reported power failure checks the triumphal transformation claim without ending the rite.
+
+## V003 C004 E023 motif / callback delta — Kyrie for the other girls
+
+- **Fairy tale reallocated:** Mika recalls Koharu/Sensei rescuing her yet denies herself the princess/protagonist place, assigning the rescue stage to Sensei and Squad. This is her story-frame, not narrator fate.
+- **Mercy against symmetry:** personal `赦す` and prayer for Squad reject the `公平に不幸` revenge calculus she explicitly names.
+- **Choir room and mercy music:** Arius's old scores/organ/gramophone make shared schooling imaginable to Mika; the apparently self-starting music and `Kyrie Eleison` echo her prayer without an established supernatural cause.

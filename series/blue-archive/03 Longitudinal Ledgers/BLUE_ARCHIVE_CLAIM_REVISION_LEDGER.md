@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E022 active provisional; C004 E023 unopened
+current_sequential_boundary: MAIN_V003_C004_E023 active provisional; C004 E024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2325,3 +2325,11 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 - **BA-C002–C004/C007/C010–C011 — STRENGTHEN locally:** Squad assents to fight/save Atsuko; Beatrice's post-cut distress establishes a setback, not the tactic or complete victory. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E023 unopened.
+
+## V003 C004 E023 claim delta — pardon distinct from exoneration
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Mika admits equal-pain revenge and directly replaces it with personal forgiveness/prayer for Squad's future, then promises another rear guard. Her inferred Saori psychology and pursuer identity remain bounded; neither combat result nor reconciliation reception is shown.
+- **BA-C001/C016 — QUALIFY:** Mika trusts Sensei to help Squad but says her own happy ending is too late. This self-disqualification is in tension with Sensei's chance-making pledge, not a formal ruling or proof of adult failure.
+- **BA-C008 — PRESERVE:** no new ritual or halo observation. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E024 unopened.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–023; BA:main:003:004:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,14 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E023 character-state delta — Mika's personal forgiveness
+
+- **Mika:** hurt/exhausted but continuing in an Arius choir room; recalls Koharu/Sensei help and her fairy-tale wish, then rejects “witch” happiness for herself. She names equal-pain revenge, empathizes with Squad's desire for rescue, personally forgives them and prays for a future chance. She offers to hold unidentified approaching blockers. These are direct present speech, with fight/outcome absent. `UNMODELED`.
+- **Saori/Squad:** their motives and future are reconstructed by Mika, not directly voiced by them here; no reception of her pardon, rescue completion or legal absolution. `UNMODELED`.
+- **Sensei:** appears only in Mika's memory and confidence that aid will continue, not as a present speaker. `PARTIAL_MODEL`. **Koharu:** likewise remembered as having protected Mika, no new present action.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E024 unopened.
 
 ## V003 C004 E022 character-state delta — rival adult claims and Beatrice setback
 
