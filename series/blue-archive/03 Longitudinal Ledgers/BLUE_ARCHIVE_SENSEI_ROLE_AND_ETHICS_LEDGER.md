@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -796,3 +796,7 @@ Sensei asks Mika to explain Arius/ETO, presses her Seia slip and location, asks 
 ## V003 C002 E002 delta — open-door availability with a safety blind spot
 
 Sensei receives Hifumi's second-mock result through singleton choices and praises the group's effort. The 8/58/49/64 results are not the official second exam, standardized learning gains or a causal test of their instruction. They decline Hanako's offer to include their own clothes in group laundry and silently agree to Hifumi's later request to talk about Hanako. When an unidentified voice knocks, Sensei opens without confirming identity; Hanako remarks on the risk. This is a narrow lapse in entry caution, not a witnessed hostile breach. Hanako wants advice about Azusa but Hifumi interrupts, and Sensei asks both to calm down amid a misunderstanding the narrator says is resolved. The adult has not yet heard either planned concern, nor acted on Mika's E017 request to protect Azusa or E012's burden-transfer offer. The first of eleven choice groups has two converging surprise options; none establishes a hidden ethical branch or private-room misconduct. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E003 delta — disclosure without procedural rescue
+
+Sensei asks whether Hanako's Azusa concern should wait, then supports Hifumi and Hanako hearing it together. After Hifumi discloses possible all-four expulsion, Sensei's `心の声` says they explain what they know of the club's hidden affairs; exact words and legal basis remain unprinted. This is more openness to an affected student than the earlier secret-keeping posture, but not an audited Schale authorization or a documented challenge to Nagisa. Sensei thanks Hanako's promise to try on later tests; no pass or protection is achieved. Hanako's concern that Azusa may need sleep and her somewhat forceful suggestion are not met with a printed clinical/safeguarding plan. Sensei ends the consultation in favor of rest, while Koharu misreads the room-exit tableau. Nine singleton choices provide no alternate ethical outcome; neither private-room impropriety nor resolution of Mika's Azusa-protection request is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

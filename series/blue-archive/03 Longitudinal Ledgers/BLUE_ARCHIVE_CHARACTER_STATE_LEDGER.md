@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -931,3 +931,13 @@ No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` acr
 - **Sensei:** declines shared personal laundry, agrees to hear Hifumi, opens to an unknown voice and receives Hanako first, then requests calm during mutual misunderstanding. No protection, tutoring outcome or private evidence assessment is completed.
 
 Readiness: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E003 character-state delta — intentional marks and shared risk
+
+- **Hanako:** reports Azusa's night absences and perceived anxiety, prioritizes sleep/health, learns the collective-expulsion contingency, and explicitly says her low marks were intentional. She apologizes for an unintended group risk, declines to explain a private reason and promises future effort sufficient to avoid expulsion; no official pass is yet shown. She independently infers a Nagisa-led suspect box, then plans to speak with Azusa and check other leads. This strengthens a **situated deliberative sample**, not a full motive/personality model.
+- **Hifumi:** reveals the two remaining official-exam stakes and Nagisa's traitor-finding request to Hanako. Her E016 paper-based inference is now corroborated by Hanako's self-report; the privacy issue in seeing the papers remains. She asks why she herself is among suspects, showing she does not know Mika's E001 Black Market rationale.
+- **Azusa:** absent; Hanako's observations extend concern beyond E012's insomnia/watch account but do not establish destination, plan, amount of sleep or illness. No betrayal inference follows.
+- **Sensei:** inwardly says they share what they know of hidden club circumstances with Hanako, thanks her future-effort promise and ends the meeting for rest. Exact words, authority audit and practical protection remain unshown.
+- **Koharu:** wakes, sees Hifumi/Hanako leaving Sensei's room and interprets a tableau through her pejorative register. No evidence she heard the substantive meeting.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

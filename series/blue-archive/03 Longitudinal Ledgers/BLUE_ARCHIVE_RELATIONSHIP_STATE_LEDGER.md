@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -763,3 +763,11 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **HIFUMI ↔ HANAKO/SENSEI:** Hifumi asks Sensei to talk about Hanako, after her E016 old-paper report. The E002 concern remains unvoiced when Hanako arrives first; Hifumi's embarrassed reaction and scolding end with a clothing change, not an evaluation of Hanako's grades or intent.
 - **HANAKO ↔ AZUSA/SENSEI:** Hanako seeks Sensei about Azusa, following Marie's visit, but is interrupted before saying why. The swimsuit tableau is a misunderstanding corrected by narration, not a verified intimate relationship or disclosure.
 - **GROUP ↔ STUDY:** Hifumi praises Koharu's displayed mark and Azusa's near threshold, and the Momo Friends incentive matters to Azusa. A further shared mock and laundry proposal show ordinary cohabitation but neither homogeneous agreement nor joint academic success.
+
+## V003 C002 E003 relationship delta — trust expands unevenly
+
+- **HANAKO ↔ AZUSA:** Hanako's E002 intended consultation is now explicitly about Azusa's nights, apparent anxiety and health. She intends to talk to Azusa, not to denounce her; the student is absent and has not answered. Her later paperwork suspicion is a separate institutional inference, not proof she regards Azusa as guilty.
+- **HIFUMI ↔ HANAKO:** Hifumi reveals shared expulsion exposure, confronts Hanako using the old answer-sheet report, and receives a self-confession plus apology/effort pledge. This expands mutual knowledge and accountability but not Hanako's private reason. Hifumi also shares Nagisa's coercive task with Hanako; Azusa/Koharu are not shown receiving it.
+- **HANAKO ↔ SENSEI:** Hanako sees the adult's help as good faith under a misused authority, thanks them, and accepts their thanks for future effort. Neither concludes a standing alliance or adjudicates the adult's E015 deception.
+- **KOHARU ↔ GROUP:** Koharu notices Hifumi/Hanako/Sensei together late and misreads the tableau; no hearing of secret sanctions or actual relationship change is represented.
+- **HANAKO ↔ NAGISA/MIKA:** she infers Nagisa may have designed the club and discounts Mika as likely architect. Her Koharu-hostage guess converges independently with Mika E001, not from a shown conversation with Mika or the selection record.

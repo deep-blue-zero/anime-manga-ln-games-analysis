@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E002 active provisional; E003 unopened
+current_sequential_boundary: MAIN_V003_C002_E003 active provisional; E004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1742,3 +1742,12 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test; other claim families receive no global test.
 
 Marie enters as a tracked `UNMODELED` subject; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official second exam, Sisterhood concern, Azusa's E017 plan and the two consultations remain OPEN.
+
+## V003 C002 E003 claim delta — confession and suspect-container inference
+
+- **BA-C001/C016 — QUALIFY:** Sensei helps reveal a hidden consequence to Hanako and appreciates her promised effort, while Hanako warns that Azusa's health may be at risk. Neither informational openness nor thanks is a completed protection method, safe-sleep intervention or academic rescue.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN locally:** Hanako **confirms** the core of Hifumi's E016 intentional-low-mark inference, says she did not know collective expulsion was at stake, and promises to try later. That is actor testimony about intention, not a motive disclosure or verified future grade. She independently infers a treaty-suspect club and Nagisa design; Hifumi confirms the earlier secret hunt. The suspect box gains a participant-side diagnosis, but lawful Schale bypass, roster rationales and guilt are not independently established.
+- **BA-C008 — STRENGTHEN:** distinct layers include Hifumi's earlier paper inspection, Hanako's explicit confession, her speculative suspect mapping, Hifumi's remembered Nagisa order, Sensei's unprinted inwardly noted explanation, and Koharu's comic tableau reading. Label inversions constrain speaker-specific evidence.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global adjudication.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hanako's reason, Azusa's nights and next official result remain OPEN.

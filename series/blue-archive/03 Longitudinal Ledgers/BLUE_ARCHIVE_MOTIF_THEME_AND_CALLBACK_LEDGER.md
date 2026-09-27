@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -910,3 +910,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Scores as comic doubling versus institutional limit:** Hanako's 2/4/8 patter makes progress-shaped numbers out of mixed official/mock sittings and three further hypothetical tries. E016's prior perfect-paper report keeps the discrepancy open; comic arithmetic cannot close the official joint-pass condition.
 - **Mediated thanks and reputation:** Marie's student relays gratitude for Azusa; `氷の魔女` circulates as a contrary rumor. Neither mediation creates a full character verdict, and the rescued person's own words are absent.
 - **Crossed disclosures:** Hifumi plans to discuss Hanako, Hanako plans to discuss Azusa, and a swimwear/late-visit misunderstanding prevents either substantive conversation. The narrator confirms social repair, not epistemic revelation. Marie's unfinished “I am well, but…” likewise preserves a Sisterhood knowledge gap.
+
+## V003 C002 E003 motif / callback delta — health, confession and suspect laundry
+
+- **Rest against institutional peril:** Hanako sees Azusa's apparent sleeplessness as a bodily risk and initially treats failure as lesser. Hifumi's disclosure changes her information state: the sanction is collective expulsion, not mere ordinary failure. The correction need not make forced sleep ethically uncomplicated.
+- **Proof versus admitted motive:** E016's privately obtained perfect-paper discrepancy and E002's 8 point mock now meet Hanako's explicit `わざと` admission. One uncertainty closes (intentional low marks); her `個人的な理由` leaves the causal/moral question open.
+- **Laundry metaphor becomes policy criticism:** E002's common laundry joke returns as Hanako's comparison for four students processed together, a situated critique of Nagisa's alleged bulk disposal. Metaphor does not establish actual legal procedure.
+- **Watching without knowing:** Hanako has noticed Azusa leaving, yet cannot say what she does. She infers the club's suspect design while still lacking Mika's private E001 history. Koharu at the end sees a room-exit tableau but does not hear its content—another limit of proximity as knowledge.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1163,3 +1163,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `ブービートラップ` is explained by Azusa directly after the Hifumi-labelled `侵入者か` line at `scene:001:u:0029`. `scene:002:u:0037-0041` likewise swaps Marie/Hifumi/Azusa/Koharu labels against vocatives and first-person references during the bullying/Justice report. Preserve the attributed text and the recoverable proposition, not a silently “fixed” voice transcript. `氷の魔女` is an attributed rumor Marie questions.
 - Marie's `私は……ですが……` after Hanako's welfare remark is deliberately unfinished. Hanako's `私も、成績が良くないので` is her present-tense self-description, not adjudication of E016's reported old tests. `scene:002:u:0053` and `u:0059` have apparent Hanako/Marie swaps; `u:0063-0068` invert students during underwear/laundry debate, so individual consent/protest assignments are limited.
 - Hanako says she came about `アズサちゃんのこと`, while Hifumi said she wished to discuss `ハナコちゃんのこと`. Scene 3 `u:0017-0019` has further label/address conflicts; narrator `u:0020-0021` confirms mutual misunderstanding and clothes change but neither concern's content. Choice 001 has two surprise options that converge; ten other choice groups are singleton. Scene 3 `u:0022` is a title card, not the promised consultation.
+
+## V003 C002 E003 delta — confession, inference and hidden dialogue
+
+- Hanako's `私のあの点数はわざとです` is a direct intentional-score admission, sharply stronger than Hifumi's earlier `わざと…としか思えません` inference. `個人的な理由`/`言えません` withholds *why*; `今後の試験は頑張ります` is a prospective effort pledge, not a certified pass.
+- Hifumi's `あと2回` concerns remaining **official** tests after E008; E002's second mock did not consume one. Hanako first calls ordinary expulsion `校則的に成り立ちません`, then hears Sensei's unprinted explanation and speaks of `シャーレの超法規的権限`. That wording is her uptake, not inspected rule text.
+- Hanako's `というところですか` marks the treaty-suspect-box conclusion as inference. `人質という観点なら` for Koharu is conditional, not independent verification of Mika's E001 guess. `書類の時点で怪しかった` does not say she knows Arius origin or Mika's forgery. `狡猾な猫ちゃん` and `洗濯物` are critical figurations; Sensei's inward reaction recalls a worse word without a new disclosure.
+- Labels invert around `u:0008-0015`, `u:0045-0047`, `u:0055-0059`, `u:0071` and `u:0096`. E003's secure backbone is Hanako's clearly sustained confession/inference, Hifumi's direct `ナギサ様` order at `u:0077` and Sensei's inward statement at `u:0030`. Do not force every anomalous line into a speaker profile. Nine singleton choices; `u:0101` is a next-title card, not the swimsuit event.

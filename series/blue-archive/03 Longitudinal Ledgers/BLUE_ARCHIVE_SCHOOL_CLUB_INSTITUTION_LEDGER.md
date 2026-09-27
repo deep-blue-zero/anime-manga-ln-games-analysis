@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:003; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -706,3 +706,7 @@ Mika describes the First Council's Trinity federation, Arius dissent and violent
 ## V003 C002 E002 institutional delta — club mock and Sisterhood report
 
 The narrator labels the **second remedial-club mock** and gives Hanako 8, Azusa 58, Koharu 49 (fail), Hifumi 64 (pass). E013's first mock was 4/33/15/68 respectively; Hifumi compares Koharu explicitly and Hanako folds E008's 2 official mark into a joke. No comparable test form or official second sitting is displayed. One pass does not satisfy E006's simultaneous four-pass rule, but this mock itself is not the formal exit decision. The club's residential routine now includes a proposed common laundry run, not a verified new school policy or completed laundering. Marie is a Sisterhood visitor bearing an absent student's bullying report and thanks; her report ties that incident to the Justice Realization/Azusa tear-gas-storehouse fight already narrated in E004, but distorted-information pathway, perpetrator and precise sequence are not independently audited. The Sisterhood's confidential concern, if any, remains unstated. Azusa's annex traps actually fire on Marie, a security false positive with no described institutional investigation or medical finding. Nagisa's traitor allegation, treaty, exam controls and possible expulsion receive no direct institutional resolution.
+
+## V003 C002 E003 institutional delta — sanction knowledge and intended underperformance
+
+Hifumi says two **official** special exams remain and failure on both means all four must leave Trinity. Hanako objects that ordinary school procedure requires grounds and process; Sensei inwardly says they share hidden circumstances, after which Hanako refers to Schale's `超法規的権限`. This is a disclosure and participant interpretation of Nagisa's E009 design, not a displayed authorization, lawful bypass, or enacted expulsion. Hanako directly acknowledges intentional low marks and ignorance of the collective sanction; she promises future effort to avoid others' expulsion without an observed next official mark. Her self-report materially revises the prior explanatory gap, not the already narrated exam/mocks. She infers a treaty-suspect container and possible Azusa-paper/Koharu-hostage rationales; Hifumi confirms Nagisa's private traitor-search task, not the existence of a traitor. Azusa/Koharu are not shown informed of expulsion; Koharu's final room-exit observation is not overhearing. No treaty decision, formal security finding, exam alteration, grade remediation or sanction occurs.
