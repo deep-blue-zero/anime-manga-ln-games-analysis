@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE CHARACTER STATE LEDGER
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:002:001:003` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -771,3 +771,992 @@ Totals remain **21 `PARTIAL_MODEL` / 26 `UNMODELED` across 47**, none operationa
 ## MAIN V002 C002 checkpoint reconciliation — state, not a safety all-clear
 
 The canonical [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the closed twenty-five-unit chapter. Alice's narrow partial model gains a crisis sequence (device-linked harm, coerced departure, in-dive self-choice, external club return) but not global weapon safety or stable cross-context behavior. Momoi/Midori/Yuzu retain narrow club/pressure models; Rio, Toki, Himari, Nel and Key remain `UNMODELED`. E025 narrator/Himari distinguish immediate crisis prevention from ongoing system work. Totals **21 / 26 across 47**, none operational/validated; no retroactive prediction validation.
+
+## V003 C001 E001 character-state delta — Seia's interpretive introduction
+
+Seia enters as a speaking subject who describes the Eden Treaty as a trust-building peace process, reports its meaning lost after the GSC president vanished, interprets the fifth ancient rule's paradise paradox and asks Sensei to witness a bitter story. This is a single reflective address, not independently verified treaty authority or a behavioral rule. Sensei supplies no choice, reply or enacted response. Seia enters `UNMODELED`: totals **21 `PARTIAL_MODEL` / 27 `UNMODELED` across 48**, none operational/validated, no standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E002 character-state delta — remedial fear and Tea Party meeting
+
+- **Koharu:** blames Sensei for hard study, cites Justice Realization Committee absences and fears expulsion would end her membership. Her defense is challenged by Azusa; actual cause of failure/ruling is not audited.
+- **Hanako/Azusa:** Hanako corrects unfair teacher blame, provokes a comic boundary-testing exchange; Azusa says she will endure humiliation to avoid expulsion and reads the tussle tactically. Label flips bar precise physical attribution or a generalized trait.
+- **Hifumi/Sensei:** Hifumi redirects toward pooling ideas under a one-week expulsion fear and asks for help. Sensei's three singleton choices include willingness to try, not successful tutoring.
+- **Nagisa/Mika:** in the rewind Nagisa introduces her Tea Party host office and Mika is introduced under a suspect Mika speaker label; invitation purpose remains unseen.
+
+Koharu, Hanako, Azusa and Mika enter `UNMODELED`. Totals **21 `PARTIAL_MODEL` / 31 `UNMODELED` across 52**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E003 character-state delta — Tea Party care, friction and school assignment
+
+- **Nagisa:** controls the host's method, reports rotating-presidency history and an exceptional remedial need, corrects demeaning student language, then apologizes after an irritated roll-cake threat. Treaty detail is withheld. This is one mixed institutional/social scene, not a stable temperament or fully verified rulebook.
+- **Mika:** prefers conversational ice-breaking, teases Nagisa and reports ten-year childhood familiarity; she proposes Schale help amid treaty workload and frames `先生` as guide. Her `面倒ごと` language is challenged; actual student regard remains unproven. `u:0002` is Nagisa-labeled but Mika-voiced.
+- **Sensei/Hifumi/Seia:** Sensei conditionally accepts teaching, asks about treaty and third president, then recognizes Hifumi from the roster. Hifumi invokes unavoidable circumstances without explaining grades. Mika/Nagisa report Seia hospitalized/absent, not independently shown.
+
+No new tracked subject or readiness promotion: **21 `PARTIAL_MODEL` / 31 `UNMODELED` across 52**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E004 character-state delta — hobby cost, confinement and capture
+
+- **Hifumi:** admits skipping an exam for a Peroro surprise performance, first invokes a schedule mistake then apologizes. Nagisa presses her into temporary club presidency by calling her an honor student and invoking reciprocal “love”; Hifumi objects to the grade characterization, expresses discomfort, then plans to meet peers with Sensei. Her earlier hobby expertise now has an actual school-duty cost; no global irresponsibility rule.
+- **Koharu/Hanako:** Koharu guards the Justice Realization room, says strangers made her cautious, and reacts to Hanako's swimsuit/loose-cell appearance with punitive hyperbole. Hanako confidently argues, but her claim the cell was open conflicts with Koharu's lock claim; no escape mechanism or statutory death penalty is established.
+- **Azusa/Hasumi/Mashiro:** Mashiro reports capturing Azusa; narrator describes a large tear-gas-storehouse incident and resisted arrest. Azusa's ammunition/torture-training statements are her claims. Hasumi returns and recognizes Sensei, without a broader individual sample.
+
+Hasumi and Mashiro enter `UNMODELED`. Totals **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E005 character-state delta — Koharu's academic bar revealed
+
+Hasumi says Tea Party-authorized Schale teaching permits Sensei to take Hanako and Azusa under the regulations; Koharu objects, then defers. Koharu mocks the remedial club until the narrator identifies her as its fourth member, with three consecutive failing marks and a bar on returning to Justice Realization until grades improve. Her shock and embarrassment are secure; `u:0012` third-person reveal is mislabelled as Koharu and not a voice sample. Hifumi confirms four assembled, asks for effort and pledges her own. Hanako jokes and Azusa claims she could hold out one month in this classroom; neither supplies a study plan or demonstrated ability. Koharu's `死にたい` is situated embarrassment, not a diagnosed enduring intent. No readiness change: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E006 character-state delta — common exam, divergent reasons
+
+- **Hifumi:** explains up to three special exams and a simultaneous four-person pass condition, assigns Sensei coordination/tutoring, then corrects Koharu's belief that a solo high mark permits exit. Narration confirms daily lessons begin; no scores.
+- **Koharu:** resists familiar address/seniority, claims repeated second-year exams for acceleration caused her failing marks, predicts first-year success, and leaves after the group-rule correction. Her explanation is self-report, not independently checked cause.
+- **Azusa/Hanako:** Azusa confirms recent transfer, reports first-year exam placement due curriculum difference, and frames the group as mutual benefit rather than compulsory friendship. Hanako seeks `ちゃん` address and accepts no in-club seniority; social appraisal is situated.
+
+No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E008 character-state delta — first score distribution
+
+- **Hifumi:** privately recognizes Sensei-explained and group-studied material on the paper, calls it basic and speculates it may be a rescue measure. She reports a 60/100 pass line, earns a narrated 72/pass, initially assumes Hanako passed, then is shaken by three failures. Material overlap is her perception; rescue intent is conjecture, not an exam-setting fact.
+- **Azusa/Koharu/Hanako:** narrator scores 32, 11 and 2 respectively, each failing. Azusa's `紙一重` quip is not a near miss under the stated line. Koharu's quick-success forecast fails for this sitting, although her past test history is not audited. Hanako distinguishes studious appearance from grades; neither her two-point cause nor intentionality is established.
+- **Sensei:** announces results when asked and inwardly urges Hifumi to steady herself. Hifumi's thought supplies a narrow report of Sensei explaining tested material; actual pedagogical process, differential uptake and next intervention are not shown.
+
+Narrator confirms camp is decided, not carried out. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E009 character-state delta — Nagisa's declared design
+
+- **Nagisa:** discusses solitary hobby chess, then explicitly says the club was made to expel students, claims ordinary checks can be bypassed through a hastily adjusted club and some Schale authority, alleges an unidentified treaty saboteur among the four, and asks Sensei to find them. She admits concentrating suspects for possible group expulsion, apologizes, and hints future exam conditions could change while swearing her side did not manipulate the first test. Purpose/intent are direct self-disclosure; legality, intelligence and oath truth are not independently checked. One hobby and one institutional crisis do not support a broad private model.
+- **Sensei:** asks about the terminal sanction and reason, hears the treaty/security case, and states they will handle it in their own way. A sympathetic reading of Nagisa's disclosure is not acceptance of the collective-disposal plan; no suspect finding or student rescue follows.
+- **Hifumi/four students/Seia/Mika:** absent from this conversation. E008 scores still stand, but no club member is identified as traitor or shown to know the plan. Seia's earlier treaty verdict and Mika's workload account remain distinct situated claims.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E016 character-state delta — Hanako paper report and rule-five question
+
+- **Hanako:** teases Koharu with a hypothetical swimsuit/underwear/paint distinction and proof rhetoric; reacts to Azusa's approximate fifth-rule recollection by asking whether she met Seia. Hifumi later reports Hanako's prior-year perfect answer sheets across first–third-year tests, including advanced third-year material. This strong situated report complicates simple enduring inability, but does not establish current intent or motive. Hanako also asks whether Azusa kept watch again; result unknown.
+- **Azusa:** explicitly credits Hifumi's lost morning rest to mock preparation, offers washing assistance which Hifumi declines, and recalls the fifth old rule only approximately. She does not confirm Seia contact or a source for the quotation; `vanitas`/transfer association remains Hanako's unfinished inference.
+- **Hifumi:** privately brings Sensei the broader papers finding, acknowledges “peeking,” revises her sudden-decline idea and infers Hanako is intentionally failing. This is her inference, not an observed confession. Next morning she notices Sensei missing.
+- **Sensei/Mika:** Sensei hears the report and later meets Mika at the filled pool; Mika says she came to check how Sensei is doing. No intervention, swim or treaty intelligence yet.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Scene-1 labels conflict around the old-rule transition.
+
+## V003 C001 E017 character-state delta — Azusa named, protection asked
+
+- **Sensei:** explicitly rejects Nagisa's suspect-hunting proposal as outside their role, says they side with students including Mika, and asks her reason for naming Azusa. No actual protection method, exam intervention or proved neutral position under conflicting interests.
+- **Mika:** says Nagisa does not know her independent visit, claims she advocated Sensei's teacher invitation to secure a third party, names Azusa as Nagisa's purported traitor and asks Sensei to protect her. These are actor testimony, not independent facts about intelligence, Arius or her full motive.
+- **Azusa/Saori:** Azusa answers an unlocated unknown-speaker query that a plan is proceeding so far; the plan's aim, timing, relation to treaty and speaker identity remain unknown. Saori has a named silent cue and is newly tracked `UNMODELED`, not proven speaker of the `？？？` lines. Azusa's prior study/peer conduct remains real and guilt is unproved.
+- **Nagisa/Hifumi/Hanako/Koharu:** no direct appearance in the pool conversation/intercut (apart from Mika's references). Hifumi's own Nagisa directive, Hanako's score puzzle and Koharu's Hasumi claim remain separate.
+
+The canonical V003 C001 checkpoint reconciles these seventeen units without a traitor verdict or official second-exam outcome. Readiness: **21 `PARTIAL_MODEL` / 34 `UNMODELED` across 55**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E001 character-state delta — Mika's history and self-implication
+
+- **Mika:** narrates Arius's exclusion and fears an ETO “armed alliance,” retracts the Seia hospitalization account by alleging a halo-breaking attack, admits secretly forging Azusa's Trinity registration, and describes a hoped-for Arius reconciliation. She says her knowledge of Azusa is limited, constructs differentiated reasons Nagisa might suspect all four and calls her own account one-sided. Her candid admissions do not independently verify history, Seia's condition, institutional intent or Azusa's knowledge.
+- **Azusa/Seia:** absent as direct speakers; Mika's account newly bears on their origin/condition but cannot overwrite E017's opaque plan or E001's Seia-associated typographic scene. No betrayal, death or attacker is established.
+- **Hanako/Koharu/Hifumi:** Mika ascribes brilliance/secrets to Hanako, hostage value against Justice Realization to Koharu and Black Market/criminal contact to Hifumi. V001 and E016 provide bounded context for Hifumi/Hanako, not traitor findings or proof Nagisa has this exact rationale.
+- **Hasumi/Tsurugi/Mashiro:** a short Justice Realization insert shows Hasumi angry at Gehenna/Pandemonium Society and beginning an unfinished declaration; Tsurugi and Mashiro appear silently. Tsurugi newly tracked `UNMODELED`; motive, action and vignette timing open.
+- **Sensei:** asks clarifying questions and about Mika's welfare, hears the one-sided account, then returns to the group. No choice between Mika/Nagisa or executed Azusa protection.
+
+Readiness: **21 `PARTIAL_MODEL` / 35 `UNMODELED` across 56**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E015 character-state delta — Koharu's claimed mission and Hasumi's private call
+
+- **Koharu:** partly accepts Sensei's care, claims an elite secret assignment from Hasumi to monitor the club, and says her weak academic showing is a fake. The claim is uncorroborated and conflicts with narrator-confirmed failures; the context supports possible face-saving but not certainty of invention. In the confiscated-items room she appears to finish placing something and later says she is okay after an opaque Hasumi talk.
+- **Sensei:** escorts Koharu, offers `コハルはコハル` identity affirmation but also jokes about concealment and uses a choice explicitly marked as misleading Hasumi with a teaching-book pretext. They leave Hasumi/Koharu to speak privately, overhear only fragments, ask if Koharu is well and depart with her. Neither spotless care nor completed harm is justified.
+- **Hasumi:** finds them in the room, restates the grade-based access bar, accepts the claimed teaching-book purpose, and asks for a private committee conversation. No confirmation of Koharu's spy mission or intelligible directive emerges.
+- **Tsurugi:** named by Koharu as chair; no direct appearance. No new tracked subject.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E011 character-state delta — work and a delayed swim
+
+- **Hifumi:** delegates weeds/corridor work with heat warning, accepts Koharu's lobby experience and Hanako's bedding/pool proposals. Organizing becomes visible work; no exam improvement shown.
+- **Koharu:** gives mask/dust/wet-wipe steps from claimed committee experience; narrator confirms lobby dust/furniture cleaned. Later resists then locally permits Hanako's bikini-under-uniform choice. Some adjacent labels remain inverted.
+- **Hanako:** proposes laundry/mattress/ventilation, argues for pool cleanup/play before sustained study, helps with water cleaning and negotiates swimwear. No causal explanation of E008's 2 or proof of a daytime swim.
+- **Azusa:** accepts corridor/amenities assignment, reflects on the unused pool through `vanitas vanitatum`, then explicitly says impermanence is no reason not to do one's best today. Past pool use and broader philosophy remain uncertain.
+- **Sensei:** inwardly observes progress and gives one singleton reaction; no demonstrated instruction or disciplinary intervention.
+
+Narration confirms outdoor/lobby and group pool cleaning, then pool filling only by dusk. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E012 character-state delta — Hifumi under a secret assignment
+
+- **Hifumi:** confirms no first-night pool play and urges rest for next day's study. Unable to sleep, she visits Sensei and discloses knowledge of collective expulsion and Nagisa's prior secret directive to find a supposed traitor. She says she cannot treat students with whom she cleaned/ate as suspects. This is an ethical impasse under threatened inclusion in the penalty, not proof she identified anyone or told peers.
+- **Nagisa:** Hifumi recalls Nagisa saying suspect identification, not exam scores, is her primary aim; collective expulsion is a final measure, while Hifumi's Schale link and Sensei's presence serve as a proposed “lid.” The coercive speech is now visible as recollection; traitor intelligence, legal authority and efficacy remain unverified.
+- **Sensei:** names the risk/task, reassures Hifumi, says they will handle it and urges her own contribution; no actual remedy or suspect finding yet. The other room is now explicitly identified in Sensei's invitation.
+- **Azusa/Hanako:** in a simultaneous lobby scene Azusa admits unfamiliar-place sleeplessness, says she may keep watch and claims five-day no-sleep training. Hanako notices tiredness and advises care. No attack, validated endurance or evidence Hanako's own lobby purpose is sinister.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E013 character-state delta — diagnostic initiative
+
+- **Hifumi:** after a late night, co-prepares and administers a partial prior-year-paper mock, compares group performance with the 60-point target, proposes targeted help and repeated checks, and offers Momo Friends rewards. These are concrete leadership acts, not proof of teaching efficacy or resolution of her private Nagisa conflict.
+- **Azusa:** organizes waking, accepts the mock and responds with unusual explicit delight to Peroro and other Momo Friends items, pledging effort for a reward in mission language. Mock 33 versus official first 32 is not a comparable gain; her E012 sleep condition is not resolved.
+- **Hanako:** narrator gives mock 4; she tentatively affirms Hifumi's report of a much higher first-year record. Why her current scores are low remains unshown.
+- **Koharu:** narrator gives mock 15; she voices discomfort during forced shower handling and rejects the character reward. Comic framing does not establish consent or stable dislike of the group.
+- **Sensei:** helps Hifumi prepare the practice paper and gives her credit. No independently shown exam rescue, protective action or tutoring effect. Hifumi's 68 passes locally; three peers fail.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Some printed role labels invert, especially around help assignments and reward conversation.
+
+## V003 C001 E014 character-state delta — study reciprocity and an embarrassing object
+
+- **Azusa/Koharu:** continue studying late and exchange a geometry question/help; the printed roles invert in the explanation and praise, so exact solver attribution is constrained. Koharu's bag produces a book Hanako calls `R18`, leading to visible distress; she says it was accidentally retained confiscated property, without independent proof.
+- **Hanako:** teases the pair and presses a vivid reading of the book, then suggests discreet return. Her rule/contents assertions and old-library rumor are not verified; the apparent apology line is mislabelled.
+- **Hifumi:** proposes a face-saving confiscation hypothesis and worries about inventory discrepancy; neither claim proves book history.
+- **Sensei:** offers to accompany Koharu, and narrator confirms they head for the clubroom. No arrival or completed return.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E010 character-state delta — camp routines before second test
+
+- **Hifumi:** says the group will live/study in the Trinity annex for a week until exam two, corrects Azusa's battle-camp interpretation, and accepts Hanako's cleaning-first plan with a pacing rather than cramming rationale. These are leadership actions, not demonstrated teaching or score gains.
+- **Azusa:** scouts and proposes a hypothetical defense, lists preparation and explosive materials, but also directly says she will study, pass the second sitting if possible and avoid burdening peers. Threats, gear and follow-through remain unverified.
+- **Hanako/Koharu:** Hanako offers a specific dust/health cleanup reason, appears in swimwear, then narrator confirms she changes to gym clothes after Koharu protests. Koharu's `死刑`/`アウト` and imagined co-sleep are situated objections, not law or actual teacher conduct. Label inversions limit some individual lines.
+- **Sensei:** offers week-long availability and then encourages peer interaction with a call-if-needed boundary; no exact sleeping place or second-exam impact shown.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E007 character-state delta — study confidence before first result
+
+- **Hifumi:** judges Hanako academically able and Azusa eager from the study period, expresses relief, then reports a Tea Party instruction to hold camp if anyone fails the first exam. She evades a question about what happens after all three attempts fail. Her appraisal, optimism and worry are not grades or proof of the undisclosed sanction.
+- **Hanako/Azusa/Koharu:** study exchanges include math, epic and ancient-language material; several labels conflict with address/turn-taking, so exact knowledge and defensiveness cannot be safely assigned line by line. Hifumi's secure appraisal supports only her situated impression. Short exam-day lines likewise do not establish who is ready or their scores; Koharu's acceleration forecast remains untested.
+- **Sensei:** privately sees the study as going well, asks two singleton questions about camp and consequence, and inwardly wishes the four calm effort on exam day. No teaching act or result is printed.
+
+No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E002 character-state delta — second mock and Marie's visit
+
+- **Hifumi:** presents the second mock results, encourages Koharu/Azusa and corrects Azusa's reward-first framing. She later requests a private Sensei talk about Hanako, but the substantive concern is not yet spoken. Her first-hand teaching/effect claim does not grow from an unstandardized score comparison.
+- **Azusa:** 58/fail on this mock; invests in the Momo Friends reward. She directly describes having placed annex-entry/escape-path traps, apologizes when they catch Marie, and confirms opposition to numerical bullying. The helped student's report is mediated and her ammunition/endurance counterfactual is not performance validation. E017's separate plan remains unknown.
+- **Koharu:** 49/fail and proud of a higher mark than the previous mock's 15; says she hid real ability, without confirming the earlier acceleration story. Gives Marie water after the trap. Some laundry turns are speaker-inverted.
+- **Hanako:** 8/fail and comically projects the 2→4→8 pattern; still no direct cause of low scores despite E016's old-paper report. Knows Marie, describes their tie minimally, calls her current grades poor, and seeks Sensei privately about Azusa before being interrupted. Swimwear called pajamas is corrected after Hifumi objects, not an actual private consultation outcome.
+- **Marie:** first directly speaking Sisterhood visitor. Relays a student's thanks to Azusa, is caught in the trap, accepts Koharu's water, alludes to an unfinished worry while Hanako offers an escort. Origin/report verification and her exact worry are open. New `UNMODELED` row.
+- **Sensei:** declines shared personal laundry, agrees to hear Hifumi, opens to an unknown voice and receives Hanako first, then requests calm during mutual misunderstanding. No protection, tutoring outcome or private evidence assessment is completed.
+
+Readiness: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E003 character-state delta — intentional marks and shared risk
+
+- **Hanako:** reports Azusa's night absences and perceived anxiety, prioritizes sleep/health, learns the collective-expulsion contingency, and explicitly says her low marks were intentional. She apologizes for an unintended group risk, declines to explain a private reason and promises future effort sufficient to avoid expulsion; no official pass is yet shown. She independently infers a Nagisa-led suspect box, then plans to speak with Azusa and check other leads. This strengthens a **situated deliberative sample**, not a full motive/personality model.
+- **Hifumi:** reveals the two remaining official-exam stakes and Nagisa's traitor-finding request to Hanako. Her E016 paper-based inference is now corroborated by Hanako's self-report; the privacy issue in seeing the papers remains. She asks why she herself is among suspects, showing she does not know Mika's E001 Black Market rationale.
+- **Azusa:** absent; Hanako's observations extend concern beyond E012's insomnia/watch account but do not establish destination, plan, amount of sleep or illness. No betrayal inference follows.
+- **Sensei:** inwardly says they share what they know of hidden club circumstances with Hanako, thanks her future-effort promise and ends the meeting for rest. Exact words, authority audit and practical protection remain unshown.
+- **Koharu:** wakes, sees Hifumi/Hanako leaving Sensei's room and interprets a tableau through her pejorative register. No evidence she heard the substantive meeting.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E006 character-state delta — safety-first intervention
+
+- **Hasumi:** asks Ichika to restrain Tsurugi, then seeks remedial-club/Schale help to avoid a visibly Trinity–Gehenna clash near the treaty. She includes Koharu in field action earlier than expected and later orders split pursuit, invoking Trinity territory. Optics and jurisdiction are her situated claims; no capture/result is printed.
+- **Koharu:** eagerly accepts fighting beside Sensei/Hasumi, showing continuing committee attachment without a grade-bar lift or formal reinstatement.
+- **Sensei/Azusa/Hifumi/Hanako:** Sensei accepts intervention and specifies safety first. Azusa follows their first proper combat command and offers herself for use; Hifumi is startled and Hanako assents. No executed safety tactic or academic result is yet shown.
+- **Ichika/Tsurugi:** Ichika reports Tsurugi launched despite warning and may have hit a wall; later Tsurugi has a direct chase cry amid label inversions. No validated structural damage, injury or secure arrest. Tsurugi remains `UNMODELED`, not newly modeled.
+- **Haruna/Junko/Akari/Izumi/Fuuka:** the tuna meal is apparently disrupted, group separates under pursuit, Izumi protests being left, Akari appears weakened and Junko encounters Tsurugi. Fuuka has no E006 update; E005 gagged status is not resolved.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 44 `UNMODELED` across 65**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E005 character-state delta — diet reversal and aquarium raid
+
+- **Hasumi:** E001's interrupted Gehenna-angry `これから私は` now continues as a public diet pledge after Makoto's body-focused humiliation, not an anti-treaty vow. Koharu says she restricted food since, but narrator later shows Hasumi enjoying parfait with three before her; not proof she ate all three. Hasumi proposes mutual silence about the group outing and her dessert, encourages Koharu's study/committee return, and takes Ichika's reported incursion initially as possible treaty sabotage before correction. This expands role/private-pressure evidence without a full model.
+- **Koharu:** admires but fears Hasumi's anger, worries about her eating, is caught on the purportedly forbidden outing and accepts mutual discretion. She tells Hasumi she wants to stay with her but doubts rapid grade improvement, then pledges effort after Hasumi's encouragement. E015's asserted spy role remains uncorroborated.
+- **Makoto/Iroha:** Makoto confuses Hasumi with Tsurugi, objectifies and insults her, misconstrues appearance as a conference tactic; Iroha cites paperwork and repeatedly corrects/de-escalates. Both newly directly speaking `UNMODELED`, not enough for whole-person psychology.
+- **Ichika:** new phone voice reports an incursion, narrows Hasumi's Prefect Team/company-scale conjecture to four, names the aquarium and later Gourmet Research/Haruna. Source of full report and outcome unverified. New `UNMODELED`.
+- **Haruna/Junko/Akari/Izumi/Fuuka:** Haruna voices a food-first rationale for taking the gold tuna and orders escape/cooking; Junko worries about Trinity/security, Akari endorses the fish quest, Izumi carries/handles a thrashing fish and reports pursuit. Fuuka is gagged and protests; Haruna's “consent” interpretation is invalidated by the gag. Five new `UNMODELED` subjects; their prior ordinary/private baselines remain absent.
+- **Sensei/Hifumi/Hanako/Azusa:** group night walk reaches a shop; Sensei/Hifumi support Koharu's mock improvement, Hanako teases Hasumi and Azusa seeks sweets. No official result or intervention in the aquarium event yet.
+
+Eight new subjects total: **21 `PARTIAL_MODEL` / 44 `UNMODELED` across 65**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Satsuki only mentioned; generic committee members/clerk not new rows.
+
+## V003 C002 E004 character-state delta — everyday joy and feared breach
+
+- **Azusa:** sleeps later than recent habit in a storm, talks in sleep about cute/fluffy things, and later says club study, meals, laundry and cleaning are all enjoyable. She thanks Hifumi and says studying with Koharu is fun (line labels partly inverted). She reports never visiting the sea and tentatively calls the annex familiar. She admits her night “watch” was an excuse for setting booby traps, asserts malicious-only placement despite Marie's benign E002 triggering, promises to communicate and says she does not want peers harmed. Her `いつか裏切ってしまうかもしれない` is a possible/fearful future breach, not an admitted act or E017 plan content. Sleep, trap audit, intent and future conduct remain open.
+- **Hanako:** apologizes for forgetting exposed laundry, turns storm/power disruption into group talk, warns Azusa to sleep and tell others of trap work, and later organizes a local night outing. The E003 personal reason for deliberate low marks stays withheld; playful nakedness/curfew statements are not factual certification.
+- **Hifumi:** offers concern over wet clothes and Azusa's rest, responds emotionally to Azusa's thanks with a hug, and inwardly notices Marie refutes Azusa's “safe routes” assurance. Silence at the masked-swimsuit-gang rumor does not disclose V001 involvement to this group.
+- **Koharu:** protests underwear/swimsuit and later naked-walk framing, recommends rest, questions school rules and admits interest in the outing. No official law or sexual act is established by her hyperbolic speech.
+- **Sensei:** offers a rain-as-sleep possibility, calls Azusa kind and agrees to the walk; no trap inspection, betrayal finding or official teaching outcome.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E007 character-state delta — Hina's treaty countermodel
+
+- **Hina:** arrives with Emergency Medicine while treating her Prefect presence as mere accompaniment for political optics. Challenges whether Schale's Trinity teaching is neutral, retracts the implied accusation, hears an unprinted Sensei briefing and argues ETO authority will be distributed across Nagisa, Makoto and other school leaders. Says she promoted the treaty on Gehenna's side hoping for order and possible retirement; asks Sensei to protect the club. These are situated actor explanations, not charter/vote records or a committed resignation. Existing narrow `PARTIAL_MODEL` unchanged.
+- **Sensei:** accepts Hasumi's intermediary transfer, trusts Hina enough to discuss the current affair, and answers yes to her specific club-protection question. Exact briefing and practical protection are unshown.
+- **Hasumi:** considers the immediate incident contained but knows politically sensitive disposition remains; assigns the three detainees and Fuuka to Gehenna through Sensei/Schale. Izumi's absence limits the “contained” claim.
+- **Sena:** new Gehenna Emergency Medicine head, quotes a three-injured/one-hostage delivery list, uses corpse/injury mix-ups and confirms loading. No corpse, treatment result or private baseline. New `UNMODELED`.
+- **Haruna/Junko/Akari/Fuuka/Izumi:** first three describe being caught and appear at transfer; Akari reports an abnormal arm angle, Junko nausea, and Fuuka can speak and feels rescued. Izumi is explicitly lost near the border; no capture. Haruna promises possible future hospitality, not an enacted relationship.
+- **Koharu/Azusa/Hanako/Hifumi:** Koharu delights in first Hasumi co-fight and feeling useful, Azusa says the day was fun, Hanako reiterates effort, Hifumi calls for sleep/study. No official exam or secret-disclosure update.
+
+Readiness **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Juri mentioned only, not added.
+
+## V003 C002 E008 character-state delta — mock success before Nagisa's return
+
+- **Azusa:** reports pre-dawn study and repeated predicted questions, scores 73/pass on the third club mock, and calls Hifumi's Peroro Doctor her first present from a friend. Her excited lifelong-keeping pledge is a present sentiment, not a verified future outcome; E017 plan remains unknown.
+- **Hifumi:** leads the third mock and promised prize ceremony, marks the four-pass result as reason for hope while urging one more careful study day. She recommends the studious Peroro Doctor to Azusa, gives credit to Azusa's own effort, and tells Hanako she still does not know her hidden burden. Label conflicts around Koharu/Hanako praise and apology limit fine-grained voice attribution.
+- **Koharu/Hanako:** Koharu scores 61/pass on the mock and celebrates an elite self-image without official grade-bar relief. Hanako scores 69/pass, calls it luck and accepts Hifumi's care, without revealing why she previously suppressed scores.
+- **Sensei:** helps announce the mock and later reiterates to Nagisa that they will deal with the alleged traitor issue in their own way. This renews refusal of her selection task, not a named suspect or implemented protection.
+- **Nagisa:** reframes camp as a way to observe students, asks Sensei for a culprit judgment and whether Mika contacted them. No evidence of surveillance, response to her final question or altered sanction mechanism is shown.
+
+Readiness remains **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The 69/73/61/75 passes belong to the **third club mock**, not the official second special examination.
+
+## V003 C002 E009 character-state delta — Nagisa's suspect taxonomy
+
+- **Nagisa:** explicitly gives four different reasons for selecting the club: Koharu as leverage over Gehenna-angry Hasumi, Hanako's deliberate low marks with unknown intent, Azusa's suspicious background/alleged repeated violence, and intelligence naming beloved Hifumi as a criminal-group leader. She argues that other minds cannot be proven and expulsion is necessary for treaty success. This is a situated, fear-laden actor rationale, not a validated dossier, guilt verdict or lawful necessity. Her own affection for Hifumi does not cancel her proposed sanction. Remains `UNMODELED`.
+- **Sensei:** inwardly rejects spending time suspecting students, says their effort should be rewarded, begins a Hifumi explanation but is interrupted, then challenges Nagisa's selective suspicion. Choice `009` has two alternative promises, not both mandatory; no actual cure, exam pass or procedure change. Existing narrow `PARTIAL_MODEL`.
+- **Koharu/Hanako/Azusa/Hifumi:** all are spoken about, not direct speaking actors in E009. Hanako's E003 intentionality, Hifumi's V001 imposed “Faust” cover and Azusa's mixed prior record are distinct earlier evidence; none is transformed into proven treaty guilt by Nagisa's report. Hifumi's current criminal leadership remains unverified.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Official second exam still unopened.
+
+## V003 C002 E010 character-state delta — disclosed danger and deadline action
+
+- **Azusa:** first mourns possible club separation with `虚しい` language, then, after the posted exam change, notices the 3 a.m. deadline, urges immediate departure and counsels struggling before despair. In Gehenna she chooses to force a path past ransom-threatening thugs. These are concrete time-sensitive decisions, not proof her hidden E017 plan or broad outlook has changed. Remains `UNMODELED`.
+- **Koharu:** offers Azusa future Justice Realization classroom contact before knowing her own grade fate; later learns the expulsion stake and fears committee return becoming impossible. No grade-bar lift or actual expulsion. Her invitation is a prospective bond.
+- **Hanako:** reassures Azusa that friendship need not end with club dissolution, inwardly infers Nagisa used mock results to alter the official exam and speaks about expulsion, then helps shift the group to action. Nagisa authorship/information channel remain unverified; E003's private motive remains withheld.
+- **Hifumi:** expects a pass and friendly graduation, then reads notice changes that exceed her own reported 90-point experience. Apologizes for concealment after Sensei's explanation. Her hope is sincere but not a scored official result.
+- **Sensei:** acknowledges effort, inwardly considers sharing the sanction and actually explains from the beginning in choice `004`, then agrees to depart. The exact words and any appeal/protection method are unshown. Existing narrow `PARTIAL_MODEL`.
+
+No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; generic thugs excluded. No standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E011 character-state delta — arrived on time, failed by lost papers
+
+- **Hifumi/Koharu/Hanako/Azusa:** the party navigates a hostile Gehenna route and reunites at the posted venue by Azusa's 2:45 reading. Narrator later marks all four **official** second-exam failures because papers are lost, not because their answers scored below 90. Hifumi is alarmed and checks Sensei's safety; Koharu cries over papers; Azusa reports they were blown away; Hanako treats the escalation as a challenge. No academic ability downgrade, immediate expulsion or legal remedy is shown.
+- **Azusa:** proposes force at a Prefect checkpoint but explicitly denies making the first officer impact; later reports her/ Hanako's diversion failed and identifies a strong unnamed twin-tailed officer, not an audited identity. She recognizes the modified projectile and urgency; technical appraisal is hers. Remains `UNMODELED`.
+- **Haruna/Akari/Junko/Izumi:** Haruna/Akari reappear after reported detention escape and guide Sensei's party, while Junko/Izumi communicate under pursuit. This is situational aid, not settled escape outcome, pardon or unconditional alliance.
+- **Fuuka:** again bound and gagged in the School Lunch vehicle's trunk, then directly asks Haruna to let her off. Akari's “loan/friendship” and Haruna's “cheering” glosses contradict her represented protest. Freedom/safety unresolved; `UNMODELED`.
+- **Nagisa:** recorded message accompanies intact exam papers in a modified shell and says monitoring continues. The recording cannot hear the group in real time; whether she authored E010 notice or tipped Hot Spring workers remains unknown. `UNMODELED`.
+- **Sensei:** reunites with Hifumi/Koharu, acknowledges safety and supports beginning the exam. No successful E009 pass promise or evidence of a live conversation with the recording.
+
+No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; Prefect/Hot Spring generic members excluded. No standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E012 character-state delta — exhausted final-chance group
+
+- **Koharu:** rejects further strain, explicitly names the “Trinity traitor” suspicion and fears expulsion will bar Justice Realization return. Calls herself stupid while crying after real effort and E011 paper-loss failure; this is situated distress, not measured intelligence. E008 third mock 61/pass remains prior evidence. `UNMODELED`.
+- **Hifumi:** reminds the club that the third official special exam in about a week is the last chance, urges shared problem-solving, later searches for a method and proposes rest. She has no found remedy and doubts 90-point attainment. `PARTIAL_MODEL` unchanged.
+- **Hanako:** initially sexualizes “pooling ideas” amid label-inverted teasing, then appreciates Sensei's student-side stance by reference to an off-page account. Back at camp, she treats further Nagisa obstruction as a concern and gently but firmly tells overworked Hifumi to rest, offering help to both Hifumi and Koharu. Her E003 hidden personal motive remains withheld; `UNMODELED`.
+- **Azusa:** returns to camp after expecting club farewell, then is quiet through Koharu's traitor-language distress. Her scene-1 martial interpretation of the label-corrupted gag does not establish a tested technique or hidden-plan disclosure. `UNMODELED`.
+- **Sensei:** gives only a continued-effort choice, inwardly regrets what they said to Nagisa, and is said by Hanako to have acted for the students. The inward line is not shown audible; no successful appeal/plan or official third result. `PARTIAL_MODEL`.
+- **Nagisa/Mika:** narrator says attempts to find/communicate with each fail; this does not establish deliberate hiding, guilt or permanent disappearance. No direct new dialogue.
+
+No subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E013 character-state delta — rehearsal and an accelerated order
+
+- **Hanako:** scores 100 on fourth, fifth and sixth club mocks; Hifumi credits her careful teaching. Hanako credits the others, reports days of poor sleep, monitors the noticeboard and notices the quiet main building. She has silent tags around Saori's private order, but no printed hearing/understanding line. E003's hidden reason for earlier low marks remains withheld; `UNMODELED`.
+- **Azusa:** scores 82/fail, 94/pass, 91/pass across the three local mocks; agrees rest is strategy before the exam. Saori then commands a next-morning operation to destroy Nagisa's halo. Azusa protests accelerated risk and unfinished preparation, then verbally agrees to prepare and recites `vanitas vanitatum`. This narrows E017's plan but not her eventual decision or inner belief; `UNMODELED`.
+- **Koharu:** scores 74/fail, 90/pass, 83/fail; fears another last-minute procedural change and proposes studying until 100. Her self-doubt in E012 is not a fixed ability measure, and group urging to rest does not establish final readiness; `UNMODELED`.
+- **Hifumi:** scores 79/fail, 93/pass, 89/fail; credits Hanako, reassures Koharu, hopes a simple final paper may help and argues for sleep. This is contingent optimism amid variable mocks, not a predicted official pass; `PARTIAL_MODEL` unchanged.
+- **Saori:** previously silently named at C001 E017, now directly gives Azusa an accelerated order, names Nagisa's halo as target, cites Seia and invokes `vanitas vanitatum`. The narrow command sample does not establish independent historical truth or an operational model; `UNMODELED`.
+- **Sensei/Nagisa/Seia:** Sensei offers two singleton reassurance choices but no tested safeguard. Nagisa and Seia are spoken-about targets/references, not speaking participants; no completed harm or verified Seia history.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E014 character-state delta — Azusa and Hanako disclose
+
+- **Azusa:** returns trembling, admits Arius origin, false Trinity paperwork and Nagisa-halo mission. She says Arius will attack tomorrow but that she personally chose from the start to protect Nagisa, gave Arius false status reports and intends to stop the attack. Hanako formulates the “double spy” label; Azusa's own statements support self-directed refusal, not a demonstrated successful counter-operation or complete historical audit. She admits deception/hurt, but cannot bear to abandon club learning, friends and hoped-for sea/festival/amusement-park experiences. She names peace/treaty effects as her rationale, a forecast rather than independently proven causality. `UNMODELED`.
+- **Hanako:** reports Sisterhood-derived 19th-annex isolation and deduces exam access/Hasumi risks, not a witnessed cordon. Her story of a pressured “someone” includes a recalled line explicitly naming Urawa Hanako as a likely Tea Party appointee. She says that person deliberately failed exams to escape a lonely, performative school life, strongly identifying the motive withheld at E003 with herself while leaving external verification open. She apologizes for needling Azusa, finds value in shared ordinary life and proposes protecting Nagisa plus four 90+ passes. Tactics not disclosed; `UNMODELED`.
+- **Hifumi/Koharu:** are shocked by the reported cordon and Azusa's confession. Koharu proposes explaining to Hasumi; Hanako cautions that such help could cost Hasumi her role, unproven as a rule. Hifumi suggests outside help and responds to the temporal collision. Neither rejects Azusa in a printed final verdict. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
+- **Sensei:** hears the confession, directly rejects Azusa's sole-blame claim and names distrust as an original cause. Subsequent trust counterfactuals are inward. Final effort line is inward, not a field order. `PARTIAL_MODEL`.
+- **Saori/Mika/Nagisa/Seia/Hasumi:** none speaks in the present scene. Azusa reports Saori's imminent Arius strike but guesses the details of Mika's recruitment; Hanako infers possible Mika scapegoating and Hasumi sanction. Seia speaks only in Hanako's retrospective portrayal. No new directly witnessed official action.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E015 character-state delta — operational opposition
+
+- **Azusa:** reports firing a full close-range 5.56 mm magazine into Nagisa and estimates one hour of unconsciousness; no medical assessment/awakening is shown. She says her longtime nightly preparations include traps/trenches around school, and ambushes Arius team IV while claiming to have secured the target and prioritizing the exam. This confirms overt opposition to Arius, not safe/noninjurious protection or complete victory. `UNMODELED`.
+- **Hanako:** directly reaches Nagisa's safehouse, claims broad safehouse intelligence/guard clearance, pressures her over Hifumi/Koharu and falsely implies a separate commander/Hifumi “friendship game” message. Later she acknowledges personal retaliation and expects eventual correction, neither making it harmless nor showing repair. She suspects an unidentified “real traitor” and plans false-information bait but explicitly lacks firm evidence. `UNMODELED`.
+- **Nagisa:** is startled by Hanako and admits she may have wronged Hifumi yet does not regret action for a greater cause. After Azusa's reported volley she is absent when Arius reaches the safehouse; medical status/location unverified. `UNMODELED`.
+- **Arius generic students/commander:** teams IV/V/VI/VIII report readiness; a commander launches, seeks the missing target and continues despite Azusa's warning. No new individual named subject; team IV's reported ambush gives no clinical outcome.
+- **Sensei/Hifumi/Koharu/Hasumi:** no present dialogue. Hifumi is used in Hanako's false message and grievance, not shown commanding the operation. Justice notification is Azusa's claim, not a visible Hasumi response.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E016 character-state delta — camp defense
+
+- **Azusa:** is reported to enter the camp with the target, says she hid Nagisa, anticipates the enemy's barricade-breach choice and sees Claymore/IED traps activate. E015's claimed preparation now has direct effects, though casualties, Nagisa's care and final outcome remain unknown. `UNMODELED`.
+- **Hanako:** observes the attacker's numbers reduced; no precise count or kill claim. She is with the four-student gym stand, but late repeated Hifumi labels preclude confident attribution of the playful or tactical lines. `UNMODELED`.
+- **Hifumi/Koharu:** directly react as the Arius commander corners four students in the gym. Hifumi has secure startled `u:0036` but `u:0037-0041` repeat her label across incompatible registers; no stable new Hifumi combat method. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
+- **Sensei:** physically with the group, gives one singleton “waiting” response; the final “let's go” is inward, not audible command. `PARTIAL_MODEL`.
+- **Nagisa/Arius commander:** Nagisa does not speak and her medical state remains unshown. The commander reports incoming units/Squad contact, orders a noisy breach, persists through traps and confronts the four; generic role actor, no new tracked subject.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E017 character-state delta — Mika's declared design
+
+- **Mika:** calls herself the “real Trinity traitor”; says she ordered Justice to stand down and preemptively stalled Tea Party-reachable opposition; declares Arius future armed backing, removal of Nagisa/moderates, her host accession and war to erase Gehenna. She admits her E001 martial-alliance story misled Sensei and calls the treaty genuine peace, while claiming her Arius reconciliation wish was real within anti-Gehenna aims. She explicitly plans to scapegoat Azusa for Nagisa's attack. She admits ordering Seia attacked but denies ordering halo destruction, offering only a vague account of the actual outcome. These are direct self-incriminating and partly self-exculpatory statements, not executed war or forensic Seia record. `UNMODELED`.
+- **Azusa:** confirms the first Arius group combat-incapacitated, estimates unexpectedly large reinforcements, warns Sensei Mika appears strong and is pressed to explain Seia's attack. Her response is interrupted; no individual guilt or full account can be assigned. `UNMODELED`.
+- **Hanako:** expects Justice after Koharu's contact, then sees no movement and challenges Mika over Seia. The scene-2 independent-group line is label-unstable; no confirmed Sisterhood aid yet. `UNMODELED`.
+- **Koharu/Hifumi:** Koharu reports messaging Hasumi, without reply shown. Hifumi credits Sensei's tactical leadership after local victory and is shocked by Mika/Seia revelations. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
+- **Sensei:** present after victory; four singleton responses question Mika's treaty and political aim. The “why” and anger reaction are inward/visually inferred, not a direct new command. Mika calls Schale's adult involvement troublesome after an unprinted clash. `PARTIAL_MODEL`.
+- **Seia/Nagisa:** neither speaks in present scene. Mika reports ordering Seia attacked but denies lethal instruction; medical history unresolved. Nagisa remains missing from the Arius attackers and has no shown care.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E018 character-state delta — surrender and Seia report
+
+- **Mika:** recognizes Sisterhood intervention, threatens to continue, then after an unshown turn calls herself defeated and identifies inviting Schale as her overlooked variable. Hanako's report that Seia lives visibly relieves her; she directly surrenders and says others may decide her fate. She denies intent to kill Seia, floats accident/frailty as uncertain self-defense, warns Azusa of future pursuit and recalls gratitude for Sensei's earlier support. None of this verifies Seia mechanics, formal custody or full repentance. `UNMODELED`.
+- **Hanako:** reveals only that a “small promise” brought Sisterhood; exact terms/price withheld. She gives detailed report that Seia lives outside Trinity but remains injured/unconscious under Rescue Knights head Mine, then deliberately withholds rescuer identity. These are her testimony, not independent medical documentation. `UNMODELED`.
+- **Azusa:** rejects Mika's forecast of endless pursuit and says she will resist until the end. No successful protection or next-day academic result; `UNMODELED`.
+- **Sensei:** silent singleton during Mika's defeat analysis; Mika attributes her loss to inviting Schale. Inward-marked supportive line is an echo of prior hearing, not current audible reassurance. `PARTIAL_MODEL`.
+- **Marie/Hinata/Sakurako:** Marie appears coughing and invokes peace; Hinata directly apologetically enters. Sisterhood announces exceptional intervention and intended Mika custody, with `u:0008-0009` tagged Marie while Mika addresses Sakurako next. Hinata and Sakurako become narrowly tracked `UNMODELED` subjects; exact official speaker/individual decision role quarantined. Marie remains `UNMODELED`.
+- **Seia/Mine:** Hanako says Seia alive but not awake, with unhealed wounds, guarded outside Trinity by Rescue Knights head Mine. Seia does not speak; Mine is mentioned only, not a newly represented index subject.
+
+Readiness: **21 `PARTIAL_MODEL` / 47 `UNMODELED` across 68**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E019 character-state delta — official simultaneous pass
+
+- **Hanako:** final third special exam **100/pass** after prior mock 100/100/100; credits Azusa's influence in not giving up. This confirms academic performance under the raised bar, not an external audit of E014 elite-seat history. `UNMODELED`.
+- **Azusa:** drives the group onward at 7:50 despite exhaustion, says not to give up and scores **97/pass**. Her academic success does not solve Saori threat, forged-paper status or Seia history. `UNMODELED`.
+- **Koharu:** visibly exhausted after all-night movement/week of little sleep, hopes for 100 and scores **91/pass**. Her E012 “stupid” cry is not a valid ability conclusion. Member relays Hasumi's encouragement/apology, but no direct reinstatement. `UNMODELED`.
+- **Hifumi:** exhausted, steadies Koharu, urges effort and scores **94/pass**. Her E013 sixth mock 89/fail did not predict official failure. `PARTIAL_MODEL`.
+- **Sensei:** accompanies group to venue, offers two singleton entry/last-test cues, with exam-start line inward. No exclusive teaching effect or formal administrative ruling shown. `PARTIAL_MODEL`.
+- **Hasumi:** Justice member relays supportive message, apology and future repair promise. Hasumi does not directly appear and reason she could not help remains unknown. `UNMODELED`.
+
+All four narrator-marked third official passes confirm the local academic condition. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 47 `UNMODELED` across 68**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E020 character-state delta — epilogue as prognosis
+
+- **Seia:** speaks in a location/time-undefined framing passage, acknowledges the four students' E019 pass, predicts their return/continuity with modal language and warns of impending catastrophe. Her voiced framing does not prove recovery from Hanako's E018 injured/unconscious report or omniscient future knowledge. `UNMODELED`.
+- **Mika/Nagisa:** Seia reports Mika confined in school prison and forecasts Nagisa will sign the treaty. Neither appears; confinement procedure, Nagisa's medical state and actual signing remain unshown. Both `UNMODELED`.
+- **Saori:** directly orders preparation and tells absent Azusa she cannot escape and will remember “truth.” This is a coercive future claim, not an observed capture or recovered memory. `UNMODELED`.
+- **Hiyori/Misaki/Atsuko:** Hiyori fears the start of an unnamed painful event; Misaki responds, then apparently interprets a “princess” sign/question about an unnamed child. Silence tags conflict with a simple signer attribution, and Atsuko has only a named silent cue. Three new narrow `UNMODELED` subjects; no operational or private breadth.
+- **Azusa/club:** Seia's future readings and Saori's threat do not supersede their certified academic pass or demonstrate their later status; Azusa does not speak in E020.
+
+Readiness: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C003 E001 remains unopened pending C002 checkpoint.
+
+## V003 C002 canonical checkpoint reconciliation
+
+[The C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) governs the completed twenty-unit character synthesis. Four official passes are direct narrator facts; Mika's prison is Seia's report, and the school/treaty futures are not observed. Hiyori, Misaki and Atsuko stay narrowly `UNMODELED`, yielding **21 partial / 50 unmodeled across 71**. C003 E001 remains unopened.
+
+## V003 C003 E001 character-state delta — dream and postmortem
+
+- **Seia:** in a dream-framed earlier secret-room encounter says she has occasional future-true dreams, expects an Azusa-named visitor and interprets resistance beneath Arius `vanitas`. Her self-report does not validate predictive power, a current bodily awakening or a complete attack transcript. Later Sakurako reports explosion wounds healed but continued unexplained sleep; `UNMODELED`.
+- **Azusa:** the `？？？` interlocutor addressed as Azusa denies prior halo destruction, describes learned lethal means and a planned special bomb, but is silent after Seia's killer-identity question. Hanako later reports her room entry about an hour before the explosion and calls her apparent execution actor. Dream framing and mediated reports constrain act/intent attribution; `UNMODELED`.
+- **Hanako:** apologizes to Marie and directly says she no longer intends to leave Trinity, citing the remedial club's `足掻いて` lesson. She accepts bounded future Sisterhood help in principle, teasing with a false nudity plan; no formal withdrawal cancellation or defined duty. `UNMODELED`.
+- **Sakurako/Marie:** Sakurako explains Mine's false-death protection by report, later sleep status, and a noncoercive future-help request amid Sisterhood policy change. Marie says she sought help to keep Hanako at school and apologizes; she is not credited with a written rule. Both `UNMODELED`.
+- **Sensei/Hifumi:** Sensei appears tired, offers a self-limitation choice, identifies Hanako as their student and checks consent; first choice branches/converges. Hifumi is silently present at an inspector summons, without decision. Sensei/Hifumi remain narrow `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Mine and the Tea Party inspector remain reported/generic role actors.
+
+## V003 C003 E002 character-state delta — regularization and prison visit
+
+- **Azusa:** says she detonated Seia's room to fake death at Seia's direction with Mine designated to hide her, fooling Arius Squad. She says Saori gave the order and she did not know Seia remained asleep; no bomb-effect audit. Sakurako now declares Azusa's papers official and her formally Trinity's student. `UNMODELED`.
+- **Seia/Mine:** represented Seia offers wisdom without guarantee in Azusa's recounting, even while disagreeing with paradise-proof thinking. Mine's participation remains Azusa/Sakurako report; Seia's wounds healed but unconsciousness unexplained. Seia `UNMODELED`; Mine mention-only.
+- **Sakurako:** asserts institutional guarantee/regularization for Azusa and acknowledges Arius unresolved. Formal voice here is secure, unlike C002 E018's declaration attribution. `UNMODELED`.
+- **Nagisa/Hifumi:** in Hanako's Hifumi-sourced recollection, Nagisa apologizes for suspecting Hifumi and Hifumi asks her not to continue apologizing; Nagisa later directly visits imprisoned Mika. Hifumi `PARTIAL_MODEL`, Nagisa `UNMODELED`.
+- **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V004 C001 E001 character-state delta — paperwork and SRT response
+
+- **Rin:** calls Sensei, acknowledges Schale's field reputation, then directly corrects expense/report errors and initially retains GSC responsibility for an SRT protest. After two reported Valkyrie failures, asks Sensei to intervene and defers paperwork. Her authority and pragmatism are direct, SRT closure/force outcomes partly secondhand. `UNMODELED`.
+- **Ayumu:** brings successive reports of SRT park occupation, Security Bureau defeat, Public Security Bureau sniping/trap defeat and media escalation; proposes Schale after Valkyrie failures. The reports are attributed, not field inspection. `UNMODELED`.
+- **Sensei/Arona:** Sensei receives correction, offers help and accepts Rin's request; choice alternatives include comic reactions and must remain separated. Arona predicts hospitality/softens anticipated reprimand, not foreknowledge of crisis. Sensei `PARTIAL_MODEL`; Arona existing `UNMODELED`.
+- **SRT protesters:** a roughly squad-sized group is reported occupying a park over school removal; no individuated member is seen or tracked yet. Valkyrie units' defeat is reported, with no injury count.
+
+Readiness stays **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). V004 C001 E002 unopened.
+
+## V003 C004 checkpoint character-state reconciliation
+
+The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) governs E001–E027: Atsuko is directly alive/awake after severe injury, Saori breaks Beatrice's bargain then leaves Squad to seek a life answer, Mika forgives Squad and is found by a student-led rescue but still faces hearing, and Seia is awake with a reported prophecy-loss price and undisclosed final vision. Beatrice's local rite is interrupted, not technically audited or globally eradicated. Existing readiness remains **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**; C004 introduced Beatrice, Golconda, Decalcomania, Barbara and Ui as narrow subjects, no operational/validated model or frozen prediction. V004 C001 E001 unopened.
+
+## V003 C004 E027 character-state delta — hopeful separation, precarious work
+
+- **Saori:** leaves Squad after asking Misaki to care for them, then seeks difficult/high-paid Black Market work. She self-labels criminal/wanted and encounters executive wage deductions to zero. The written contract, charge basis and later life path are not audited. `UNMODELED`.
+- **Atsuko/Misaki/Hiyori:** continue without Saori. Misaki fears placeless pursuit and the delegated burden; Atsuko invokes Azusa's flower/`vanitas` resistance, hopes Saori returns and identifies Sensei as watcher. These are future commitments/predictions, not achieved safety. All `UNMODELED`.
+- **Seia:** directly says prophetic dreams will cease as the cost of escaping “that dream” and defers the last vision's discussion. No long-term test or disclosed future content. `UNMODELED`.
+- **Haruka/Aru/Mutsuki/Kayoko:** Haruka intimidates a Black Market executive under an apparently misread Aru request and mentions future bomb placement; Aru reacts in surprise, Mutsuki laughs and Kayoko anticipates trouble. No explosion or completed change in Haruka's pattern. Existing rows/readiness unchanged.
+- **Sensei/Mika:** Sensei inwardly proposes beginning Mika's hearing, but no testimony or verdict is printed. Mika appears silently near Nagisa/Seia; no additional legal or medical finding.
+
+Readiness stays **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E027 is the last source unit; checkpoint pending before V004 C001 E001.
+
+## V003 C004 E026 character-state delta — coalition returns Mika
+
+- **Seia:** directly awake/present and organizing rescue, reports an unnamed daydream encounter and small deal without terms. Her cough/medical condition is not fully cleared. She comes to Mika, urges reciprocal help for Sensei. `UNMODELED`.
+- **Mika/Nagisa:** Mika is directly found/secured by Justice, reunites with Seia/Nagisa, expresses love and apology, receives saved accessories and asks treatment/preparation before hearing. Nagisa joins rescue and offers apology, but exact adjacent labels are unstable. No hearing result or full repair. Both `UNMODELED`.
+- **Ichika/Hasumi/Tsurugi:** Ichika directly finds/escorts Sensei/Mika and delivers Koharu's items; Hasumi commands route/withdrawal and Tsurugi appears in force. No injury/force outcome audit. `UNMODELED`.
+- **Azusa/Hanako/Koharu:** Azusa supplies catacomb patterns and asks rescue of Atsuko/other Squad as former family; Hanako locates an old map with Ui; Koharu preserved Mika's belongings and routes them through Ichika while acknowledging remedial-club assignment. All `UNMODELED`.
+- **Ui:** first direct, self-identifying-by-Hanako archive conversation; responds reluctantly to a request to restore a damaged catacomb map. Restoration not shown. New narrow `UNMODELED`.
+- **Sensei:** is found/secured by Justice and intends to attend Mika's hearing; now recipient of student mobilization, not sole rescuer. `PARTIAL_MODEL`.
+
+Readiness becomes **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E027 unopened.
+
+## V003 C004 E025 character-state delta — chosen life and rescue return
+
+- **Saori:** offers herself to Sensei for official punishment, over-totalizes blame, then admits she has never considered her own tastes/future. After Squad/Sensei responses, directly says she can first imagine being allowed in the world. This is a consequential local self-state, not discharge or durable cure. `UNMODELED`.
+- **Atsuko:** thankful and speaking, offers a tentative mask/protection-device hypothesis; asks Saori about an ordinary future and says Arius oppression is gone, which is her broad appraisal. Serious prior injuries still require follow-up. `UNMODELED`.
+- **Mika:** reports enduring the force until dawn, injured and wanting to return with Sensei but self-excluding as unworthy. Sensei arrives and draws an adult card; no card effect or extraction. `UNMODELED`.
+- **Sensei:** says Beatrice escaped and probabilistically will not hurt Squad again; frames child suffering as adult responsibility, redirects Saori to discover a life and returns for Mika. Only card retrieval is printed. `PARTIAL_MODEL`.
+- **Mine/Serina/Hanae:** Mine directly enters Arius with Justice/Rescue Knights, orders treatment including Arius girls and future wounded, and announces rescue of Sensei/Mika. No completed district liberation or care result. Existing `UNMODELED` subjects; label anomalies constrain Serina/Hanae voice.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E026 unopened.
+
+## V003 C004 E024 character-state delta — Atsuko speaks, Beatrice falls
+
+- **Atsuko:** initially still hanging/away with severe external injuries and blood loss by Misaki's appraisal, then wakes, recognizes Squad and says she is all right. Directly alive/conscious now; sustained medical and halo condition unverified. `UNMODELED`.
+- **Saori/Hiyori/Misaki:** Saori offers herself when Beatrice demands a new sacrifice and later pleads for Atsuko to wake; Misaki rejects Saori's offer and appraises Atsuko's injuries. Their reunion includes relief and gratitude but not a comprehensive medical clearing. All `UNMODELED`.
+- **Beatrice:** sees Kyrie in her territory, openly insists on student hatred/extraction, threatens Saori and transforms again. After an unprinted fight she is down and protests ritual interference while claiming remaining forces/mimesis. Final custody/outcome open. `UNMODELED`.
+- **Golconda:** now directly self-names and speaks in the present, proposes retrieving Beatrice, offers literary judgment and claims bomb manufacture/untested halo effect. Direct-presence baseline strengthens without a readiness promotion. `UNMODELED`.
+- **Sensei:** audibly protects “my precious students,” objects to Beatrice's teaching and challenges Golconda's departure; no printed battle method or bomb detonation. `PARTIAL_MODEL`. **Mika/Barbara:** absence of Beatrice's reinforcements is observed; Mika's exact clash and Barbara status unshown.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E025 unopened.
+
+## V003 C004 E023 character-state delta — Mika's personal forgiveness
+
+- **Mika:** hurt/exhausted but continuing in an Arius choir room; recalls Koharu/Sensei help and her fairy-tale wish, then rejects “witch” happiness for herself. She names equal-pain revenge, empathizes with Squad's desire for rescue, personally forgives them and prays for a future chance. She offers to hold unidentified approaching blockers. These are direct present speech, with fight/outcome absent. `UNMODELED`.
+- **Saori/Squad:** their motives and future are reconstructed by Mika, not directly voiced by them here; no reception of her pardon, rescue completion or legal absolution. `UNMODELED`.
+- **Sensei:** appears only in Mika's memory and confidence that aid will continue, not as a present speaker. `PARTIAL_MODEL`. **Koharu:** likewise remembered as having protected Mika, no new present action.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E024 unopened.
+
+## V003 C004 E022 character-state delta — rival adult claims and Beatrice setback
+
+- **Beatrice:** claims an ongoing royal-blood/outside-power rite and a higher “great adult” form; after a cut to omitted action she reports failing `権能`, wonders whether the rite was unfinished and summons Barbara/all basilica troops. Claimed ascension is not certified, and no final defeat is shown. `UNMODELED`.
+- **Sensei:** directly rejects absolute judge/savior identity and names themselves a teacher for students; inwardly denies the right to judge and capacity to erase all suffering/evil. Offers to stay with Squad against Beatrice. `PARTIAL_MODEL`.
+- **Saori/Hiyori/Misaki:** respond to Beatrice's apparent transformed form and agree to fight/save Atsuko. Misaki calls Madame's “real” form a monster; Hiyori questions former submission, but some Hiyori labels have register mismatch. They are strained after the cut and Saori urges action before reinforcements. All `UNMODELED`.
+- **Atsuko/Mika/Barbara:** no new direct Atsuko medical/halo or Mika-diversion result. Barbara is summoned back, but return not printed; all `UNMODELED`.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E023 unopened.
+
+## V003 C004 E021 character-state delta — diversion and sanctuary arrival
+
+- **Mika:** volunteers to draw the title-linked Barbara threat away while Saori's group rescues Atsuko, thanks Sensei for saying another chance remains and urges Saori onward. The split occurs; no fight or outcome is printed. `UNMODELED`.
+- **Saori/Hiyori/Misaki:** reach the basilica's inner sanctuary with Sensei. Saori calls for Atsuko; Misaki says Atsuko appears only unconscious, a visual appraisal without clinical or halo confirmation. All remain `UNMODELED`.
+- **Atsuko/Beatrice:** Atsuko is directly seen, apparently unconscious, not yet extracted. Beatrice greets Sensei as enemy; physical embodiment and ritual result remain unaudited. Both `UNMODELED`.
+- **Sensei:** voices only a singleton caution to Mika and inwardly recognizes Beatrice; does not direct Mika's choice or complete the rescue. `PARTIAL_MODEL`.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E022 unopened.
+
+## V003 C004 E020 character-state delta — title-linked Barbara threat
+
+- **Barbara:** E019 names/orders her, and E020's title plus Hiyori's identification of a Justina saint link the protagonists' directly felt, apparently overwhelming force to Barbara. No direct speech, visual mechanism, quantified power or outcome. Newly narrow `UNMODELED`.
+- **Saori/Hiyori/Misaki:** react to the incoming/unstoppable threat; Hiyori compares it to a prior tactical weapon, a participant impression rather than measured ranking. No outcome or injury report. All remain `UNMODELED`.
+
+Readiness becomes **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E021 unopened.
+
+## V003 C004 E019 character-state delta — chance pledge and early ritual
+
+- **Sensei:** directly rejoined Saori with Misaki/Hiyori, apologizes to Mika for insufficient conversation, cites Atsuko's endangered life, proposes returning together to Trinity after rescue and promises help/chances. A nuanced assessment of Mika and infinite-chance commitment are inner thought, not guaranteed externally heard or administratively enacted. `PARTIAL_MODEL`.
+- **Mika:** hears Sensei's apology/future offer, self-labels witch and says school expulsion is decided, then wonders if another chance exists. Her status claim is not an inspected order. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** reunite, with Hiyori noting Saori is hurt; react when Beatrice moves the ritual before sunrise. No medical clearing or Atsuko outcome. All `UNMODELED`.
+- **Beatrice:** claims location watch, ends her spectacle, announces immediate rite and imminent Atsuko halo break/elevation; orders Barbara to silence Sensei. Timing/intent directly stated, successful effect unshown. `UNMODELED`.
+- **Seia:** in a daydream-like place she tentatively calls Hyakkiyako, meets an unnamed voice that seems to recognize her; neither identity nor physical travel/awakening confirmed. `UNMODELED`.
+
+Barbara remains named/addressed without direct response or action; the unidentified dream voice is not a stable named subject. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E018 character-state delta — original reconciliation and shared second-chance longing
+
+- **Saori:** present injured and self-declares local defeat. Retrospective shows early protective intervention, coercive adult submission, original Azusa-reconciliation plan and Beatrice's later intelligence order; she acknowledges complicity, disavows `vanitas` as truth, asks if happiness is possible and offers Mika retaliation. Total self-blame is her interpretation, not sole-cause proof. `UNMODELED`.
+- **Mika:** early dialogue directly proposes gradual Trinity–Arius reconciliation through an Arius transfer before Seia/coup; later asks for a spy after presumed Seia death. In present, refuses to execute defeated Saori because she too wanted mercy and a second chance. This is local non-execution, not complete institutional repair. `UNMODELED`.
+- **Beatrice:** in retrospective directly orders rejection of reconciliation while retaining Mika for Trinity intelligence and reinforcing hatred. Her manipulation gains a printed backstage instance, without validating all her historical control claims. `UNMODELED`.
+- **Azusa:** absent from present; Saori says originally intended as reconciliation symbol, later assigned Seia attack/spy task. Her untranscribed past reply and present welfare are not inferred. `UNMODELED`.
+- **Sensei:** prior confiscation of Saori's halo bombs is confirmed by Saori to Mika; physically reappears at end by both students' reaction, with return route and inner-line voicing unclear. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E017 character-state delta — split rescue and liminal Color name
+
+- **Saori:** reports one hour to sunrise, asks Sensei to continue to Atsuko, stays with Mika and says she accepts a causal share of Mika's suffering. Uses a discarded prohibited-production weapon by her report and resolves to resist; duel outcome open. `UNMODELED`.
+- **Mika:** alternates “anyone” and specifically hated Saori as desired target, admits wishing Sensei stayed, casts her/the hound as fatal villains and names thermobaric grenades. Pain cues occur; no winner or stable motive ranking. `UNMODELED`.
+- **Sensei/Misaki/Hiyori:** Misaki argues detour around collapse risks missing Atsuko, leaves final decision to Sensei; Sensei inwardly chooses the rescue objective, and Mika confirms departure. No arrival. Sensei `PARTIAL_MODEL`; Misaki/Hiyori `UNMODELED`.
+- **Beatrice/Seia:** Beatrice addresses Seia in liminal frame, claims outside-ritual exposure altered her mystery and names `色彩` while admitting Gematria ignorance. She predicts unfinished Barbara weapon; Seia refuses to stop seeking escape. Neither physical waking nor weapon deployment. Both `UNMODELED`.
+
+Barbara is named only in Beatrice's future-facing plan and is not promoted as a directly encountered tracked subject. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E016 character-state delta — corridor discovery and Saori isolation
+
+- **Mika:** says she reduced the collapse's force for fear Sensei would be caught and is pleased Saori remains isolated. The obstruction is visible; device/force calibration and subsequent duel are not. `UNMODELED`.
+- **Saori:** leads Squad to old school and becomes trapped opposite Sensei/Misaki/Hiyori after falling columns; says she is unhurt and hears Mika. Exact injury survey and escape route remain open. `UNMODELED`.
+- **Misaki/Hiyori:** enter the old school/corridor, assess Mika's possible Sensei-isolation tactic, warn of falling column and seek Saori through rubble. Several Hiyori tags are suspect; person-specific tactical inference limited. Both `UNMODELED`.
+- **Sensei:** dodges the falling column and reports immediate safety, but is physically separated from Saori. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E015 character-state delta — Mika's temporary subdual and loss account
+
+- **Mika:** refuses Sensei's stop appeal, is temporarily subdued by Squad/Sensei according to Saori and her own pain reaction, then leaves still demanding Saori pay a cost. Privately fears Trinity expulsion, loss of Nagisa and Sensei contact, and self-erasure if Squad goes unpunished. These are fears/self-labels, not a legal verdict or confirmed homicide. `UNMODELED`.
+- **Sensei:** inwardly wants Mika to stop; scene 2 choice alternatives either tentatively reassure her about Seia or ask her to return without further hurt. Neither alternative is guaranteed spoken together, and inward thoughts have a response seam. Follows Squad after Mika departs. `PARTIAL_MODEL`.
+- **Saori/Misaki/Hiyori:** Saori says Mika was subdued after skipped combat; Squad expects further pursuit and expresses intent to continue via the old-school corridor, but `u:0039-0045` mis-tags several personal/tactical lines as Hiyori. Exact individual assignments remain quarantined. All `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E014 character-state delta — Beatrice self-disclosure and Mika recontact
+
+- **Beatrice:** directly addressed as Madame, speaks over communication, admits shaping hatred/falsehood and using occupation as a pretext for her royal-blood/path objective; claims path control, full surveillance and sole Gematria success. Her mechanisms and universal self-assessment remain unverified. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** see a changed town and Justina-looking force, reason toward a one-time path objective under several suspect speaker tags. Saori hears Beatrice call the mission accomplished and concludes the promise was bad faith; Hiyori/Misaki fear encirclement. Scene 2 puts Saori before Mika again, without printed battle details. All `UNMODELED`.
+- **Mika:** directly reappears face-to-face, says she attempted a clash with Sensei-led Squad and it failed; this is her appraisal, not a shown tactic or final revenge abandonment. `UNMODELED`.
+- **Sensei:** rejects Beatrice's knowledge offer linked to Atsuko's sacrifice, inwardly condemns her abuse of teaching/learning, and cues Squad against a disposal order. The inner-thought/reply adjacency does not establish a voiced war declaration. `PARTIAL_MODEL`.
+- **Atsuko:** absent; Beatrice calls her the royal-blood offering and claims she supplied a one-time path, without a shown ritual completion or death. `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E013 character-state delta — coercive childhood account and unlocated corridor
+
+- **Saori:** Hiyori says fever has subsided after medicine; Saori wakes, can move and recommits to Atsuko rescue, while Misaki cautions that normal condition has not returned. Saori's italic retrospect supplies her perspective on obedience-for-Atsuko/others bargain; she proposes an old-school corridor learned from Atsuko but does not know its location. `UNMODELED`.
+- **Misaki/Hiyori:** recount Madame's violent/hatred teaching as childhood participants, including punishment of Azusa/Atsuko. Misaki's Atsuko lineage, hereditary office and sacrifice account mixes received history, rumor and direct affectionate memory; Hiyori retains fear of angry adults. Both `UNMODELED`.
+- **Atsuko:** not directly present; by Misaki's account descended from a former council president, was kindly to Squad and masked voice/face after Saori removed her from proposed sacrifice. Her capture remains Squad report; royal genealogy/corridor are not archival proof. `UNMODELED`.
+- **Mika:** separately appears at an Arius-district location, asks guards for basilica and reacts in pain after an attack order. No quantified injury or clash outcome. `UNMODELED`.
+- **Sensei:** asks Squad for its history, listens through a disturbing adult-abuse account, then agrees to try Saori's unlocated corridor plan. No independent observation of the past or received Seia message. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E012 character-state delta — rest, remembered violence and liminal warning
+
+- **Mika:** hears an Arius student's Atsuko/basilica account, recognizes Sensei's aid motive yet explicitly resolves to keep pursuing Squad for revenge despite fear of Sensei's judgment. `UNMODELED`.
+- **Saori:** collapses with high fever by Misaki's touch after days of reported injury/sleeplessness; swallows antipyretic and rests under watch, with no measured recovery. `UNMODELED`.
+- **Misaki/Hiyori:** identify an old training ground rather than current district; Hiyori recalls childhood coercive training/meeting Azusa, Misaki gives medicine and organizes rotating watch. Their history report is bounded. Both `UNMODELED`.
+- **Sensei:** supplies carried antipyretic, proposes rest and sits to sleep; Seia's later liminal speech has no confirmed reception. `PARTIAL_MODEL`.
+- **Seia:** says a dream attack/contact damaged her “vessel,” forecasts danger and Atsuko death, explicitly does not know ritual details or whether Sensei hears. Plans Nagisa-aided Mika repair and warning, neither fulfilled. `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E011 character-state delta — direct clash and catacomb entry
+
+- **Mika:** attacks Squad, recounts unwanted Seia death/halo destruction, admits her own excess and demands equivalent loss. Sensei's arrival shocks her; she remains outside, learns pursuers hunt Squad and refuses to hand them over before an unprinted firing order. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** exhausted in combat; Misaki pain cries, Saori warns to scatter, group runs into catacombs with Sensei. Hiyori-tag inversions limit individual tactical speech. All `UNMODELED`.
+- **Sensei:** follows gunshots, arrives, asks Mika to return/wait and promises explanation, then enters catacombs with Squad. No resolution of Mika or confirmed district arrival. `PARTIAL_MODEL`.
+- **Arius pursuers:** directly confirm Squad entered catacombs, say they are pursuing/disposing of defectors and order fire at the outside confrontation; no named subject or casualty.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E010 character-state delta — approach and Mika interception
+
+- **Misaki/Saori/Hiyori:** describe a known passage with no time for alternatives and choose forced passage. Saori predicts elite guards and orders Squad first, Sensei only after safe. None fights on-page; all `UNMODELED`.
+- **Mika:** directly appears at the approach after escape, says she predicted their route and performs villain/witch language. Her exact route knowledge, intent beyond the E007 threat and next action remain open. `UNMODELED`.
+- **Sensei:** one surprised reciprocal choice as Squad counts on them, no printed tactical command or crossing. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E009 character-state delta — route and unprinted battle
+
+- **Misaki/Saori/Hiyori:** give a group-level account of changing catacombs, coded routes, lost access and one time-limited entrance. They meet Arius pursuers; post-combat speech says those foes fell unexpectedly easily. Numerous labels invert, limiting individual voice. All `UNMODELED`.
+- **Sensei:** one inquiry choice about the route; Hiyori attributes the offscreen result to frightening/impressive adult power. No printed command, weapon or unique tactic. `PARTIAL_MODEL`.
+- **Arius pursuers:** two role-labeled students spot Squad and call combat preparation; no named subject or independently printed casualty.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E008 character-state delta — Squad reunion and bridge risk
+
+- **Hiyori:** found alive, initially believes Schale punishment/dungeon rumor, then accepts Sensei's direct help. Reports refusing an offer to reveal Saori for Arius return, despite her own fear and uncertainty. `UNMODELED`.
+- **Saori:** offers Hiyori freedom to betray her, accepts Hiyori's refusal and later confirms a kill-Sensei amnesty offer. At Misaki's bridge risk she vows to follow/resuscitate her and refers to previous attempts; no jump occurs. `UNMODELED`.
+- **Misaki:** directly present on a dangerous bridge, voices futility and a self-harm threat, then agrees to help rescue Atsuko after Saori's intervention, partly under leader authority. No durable recovery or rescue. `UNMODELED`.
+- **Sensei:** reassures Hiyori, explicitly joins Atsuko-rescue effort, judges Saori has not killed them, and warns Misaki away from the edge. Does not supply an existential answer or completed safety intervention. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E007 character-state delta — escape, plea and nonlethal aid
+
+- **Mika:** under crowd blame and Seia's illness, concludes falsely that no forgiveness/recovery is possible, then shifts to total blame of Saori and threatens Saori's loved ones. A wall breach and student-reported escape occur; weapon retrieval/attack unshown. `UNMODELED`.
+- **Saori:** survives the E001 firing threat, says Atsuko was captured and peers scattered with unknown fates, identifies Beatrice, reports a likely basilica sanctuary/dawn sacrifice and pleads to Sensei. Admits shooting Sensei and offers a halo bomb against herself; accepts its confiscation. `UNMODELED`.
+- **Sensei:** seeks equal standing, agrees to help prior shooter Saori as a student, confiscates all halo bombs, destroys the detonator and proposes rejoining Misaki/Hiyori. No rescue or technical bomb audit. `PARTIAL_MODEL`.
+- **Seia/Nagisa/Atsuko:** Seia's worsening convulsions/bleeding and Nagisa's hospital journey are anonymous reports; no diagnosis. Atsuko's location/deadline are Saori's account, not a current sighting. All `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E006 character-state delta — interrupted meeting and uncertain warning
+
+- **Seia:** directly meets Mika, coughs/shakes and loses responsiveness, perceives Beatrice/basilica in a dream-linked crosscut, then audibly says the crisis is her own fault and Mika is not to blame. She tries to warn Sensei of danger; delivery is uncertain. No diagnosis, altar mechanism or recovery. `UNMODELED`.
+- **Mika:** arrives promptly for private talk, notices Seia's illness, calls Justice help and expresses distress. She hears Seia's direct correction, but no full apology/forgiveness conversation follows. `UNMODELED`.
+- **Beatrice:** addresses Seia in the apparent basilica as an eavesdropper and claims other Gematria have not visited; stronger reciprocal dream-contact evidence, not a physical-travel or completed-ritual audit. `UNMODELED`.
+- **Sensei/Saori:** Sensei follows an unknown-origin email to a deserted-feeling town, uncertainly hears Seia and sees silent Saori. Neither ambush, motive nor outcome is shown. Sensei `PARTIAL_MODEL`; Saori `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E005 character-state delta — dream-intrusion and coercion claims
+
+- **Seia:** witnesses an apparent Gematria exchange in a lucid-dream frame, becomes alarmed by a claimed Squad threat to Sensei, then coughs/struggles to move and conditionally infers a shared Arius/Gematria origin. Mika arrives and greets her; no response can be securely attributed at `u:0102`. `UNMODELED`.
+- **Beatrice:** within that frame claims to use Maestro's mimesis, Black Suit technology and Golconda text as weapons; calls hate a child-control tool and Squad disposable; insists Sensei must die; says she prepares an Arius altar and offered Squad reprieve for killing Sensei. Her plan is explicit, execution unshown. `UNMODELED`.
+- **Black Suit/Maestro:** in-frame disagreement over Beatrice's use of copies; Black Suit prefers recruiting Sensei, Maestro values Sensei. Earlier Abydos evidence remains separate from this dream-witness scene. Both `UNMODELED`.
+- **Golconda/Decalcomania:** two newly named/label-present narrow subjects in the apparent exchange, with a mediating role and recurring italic interjection respectively. Exact identity relation and `u:0044` label fault unresolved; both `UNMODELED`.
+- **Mika/Sensei/Squad:** Mika greets Seia; Sensei and Squad are discussed but neither appears in direct action. Beatrice's alleged kill-for-reprieve message is not an observed attack or acceptance.
+
+Two new narrow tracked subjects: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E004 character-state delta — Seia's hypothesis and chosen repair
+
+- **Seia:** directly describes the tower/world-end vision, says its time/truth are unknown, and reports self-endangering lucid-dream wandering with increasing difficulty waking. She explicitly calls Gematria involvement a guess. After Sensei redirects her to Mika, she recognizes forgiveness happened in dream rather than a delivered conversation, requests a private meeting and commits to tomorrow's hearing. Later Gematria names occur in her dream frame. `UNMODELED`.
+- **Mika:** absent directly. Seia interprets her public hatred/self-harm and sees her own survival as Mika's support; those are Seia's readings, not Mika's fresh testimony. The administrator is asked to fetch Mika but does not yet deliver her on-page. `UNMODELED`.
+- **Nagisa:** narration confirms Sensei informs her of Mika and Seia's intended hearing attendance and she thanks Sensei. Neither hearing nor revised sanction is shown. `UNMODELED`.
+- **Sensei:** cautions Seia against solitary dangerous Gematria pursuit, recommends evidence/cooperation and immediate care for Mika, then relays the attendance news to Nagisa. This is bounded guidance, not a solved investigation. `PARTIAL_MODEL`.
+- **Black Suit/Maestro/Beatrice:** named or speaking in Seia's apparent lucid dream; no new secure real-world activity or subject promotion.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E003 character-state delta — hearing decision and Seia's condition
+
+- **Nagisa:** reports Pater expulsion and already-decided Tea Party disqualification, forecasts school expulsion, and seeks to defend Mika. She reports abuse in custody; Sensei directly encounters a hostile crowd, not every past act. `UNMODELED`.
+- **Mika:** remains caged, initially plans to skip the hearing to spare Nagisa/Seia, and mistakes Seia's illness-based declined meal for hatred. She reports burned keepsakes and roll-cake meals, then agrees to attend after Sensei offers a Seia visit. Hearing, apology and Seia's agreement remain future. `UNMODELED`.
+- **Seia:** directly greets Sensei in a treatment room, says dream/reality and time boundaries blur, and reports a world-ending vision from a dream messenger. This is first-person illness/vision evidence, not a confirmed future or diagnosis. `UNMODELED`.
+- **Sensei:** accepts Nagisa's request, visits Mika, relays Seia's earlier personal forgiveness and offers a Seia visit, eliciting Mika's attendance decision; then hears Seia's account. Twenty-four choice groups include seven two-option convergences. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E002 character-state delta — accountable inquiry and trust
+
+- **Nagisa:** hosts postmortem, admits the remedial four bore burdens partly caused by her, wants to keep them out, chooses to trust/defend Mika at tomorrow's hearing and forecasts expulsion. She relays Arius/Seia/Azusa information with acknowledged gaps; `UNMODELED`.
+- **Mine:** directly claims Seia treatment and reports school return with worsened health/room confinement; scrutinizes Tea Party responsibility and worries Azusa was coerced, without proof of interrogation. Early/mid labels invert. `UNMODELED`.
+- **Sakurako:** says Sisterhood handles analysis, does not know all its secrets, considers Hanako pact ended and proposes Saori/Mika as route witnesses. No complete catacomb map or Mika lie proof. `UNMODELED`.
+- **Seia/Mika/Azusa/Hanako:** absent as direct speakers; Seia's health/contract account, Mika's supply record/denial, Azusa's map account and Hanako's released obligation are mediated. Existing readiness unchanged.
+- **Sensei:** fourteen printed choices, three two-option convergences; agrees to continue with leaders and hears Nagisa's forecast. No direct fix/hearing outcome. `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E001 character-state delta — coerced decision, named betrayer
+
+- **Atsuko:** chooses self-surrender to spare Squad and demands a name-bound promise, despite Misaki's warning of death. Her no-safe-place self-blame is perspective under encirclement, not objective exhaustive knowledge; `UNMODELED`.
+- **Saori/Misaki/Hiyori:** Misaki reports low ammunition/stamina and dangerous Saori wound; Saori considers halo bomb and proposes to buy time, then inwardly questions life without Atsuko. Neither bomb use nor casualties shown. All `UNMODELED`.
+- **Beatrice:** self-identifies, swears to spare the others, orders Atsuko unharmed for a sunrise ritual, then orders the remainder killed. New named `UNMODELED` subject; office/mechanism and execution outcome open.
+- **Sensei/Azusa:** absent from direct action in this unit; prior checkpoint states unchanged.
+
+Beatrice adds one narrow tracked subject: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 checkpoint character-state reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) governs E001–E025: Azusa's prospective lethal self-definition is not accomplished killing; Hifumi and the four friends materially contest isolation, while Atsuko directly argues the Squad's hatred was learned and proposes flight. Sensei is shot, medically attended, physically wakes and later draws an adult card, none of which certifies complete health or sole rescue. Hina, Nagisa, Mine and Seia reappear with different degrees of direct evidence; no universal medical clearance follows. Mika refuses opportunistic war and Seia invites future Tea Party talk, not amnesty or completed repair. Mine is newly directly present, adding one narrow `UNMODELED` subject. Readiness: **21 `PARTIAL_MODEL` / 61 `UNMODELED` across 82**, none operational/validated; C004 E001 unopened.
+
+## V003 C003 E025 character-state delta — bounded returns and unresolved threat
+
+- **Makoto/Iroha:** italic comic aftermath: Makoto wants retaliation and Iroha urges rest, says the hair was fire-damaged and matters are already settled. No new operation or complete health finding. Both `UNMODELED`.
+- **Nagisa/Mika/Seia:** Nagisa self-reports halo intact; a letter from Mika is relayed with voiced demands. Seia is addressed by name and greets Nagisa/Mika, proposing honest talk despite unprovable hearts. `u:0034-0036/0049-0052` speaker labels are suspect; no completed reconciliation, office restoration or full medical clearance. All `UNMODELED`.
+- **Mine/Serina:** Mine physically returns to Rescue Knights, apologizes, and receives Serina/group relief. This is Mine's first direct named presence after mention/report; formal duty/health details remain unprinted. Both `UNMODELED`.
+- **Hifumi/Azusa/Koharu/Hanako/Sensei:** the same four recur in remedial setting with individual reasons; Koharu reports no expulsion this time. Sensei's collapse is inwardly marked comedy. Hifumi/Sensei `PARTIAL_MODEL`; the others `UNMODELED`.
+- **Atsuko/unknown order giver:** Atsuko inwardly wishes Azusa ongoing learning and recalls the flower. A `？？？` orders “royal blood” recaptured and permits others' halo destruction; neither identity nor fulfillment is shown. Atsuko `UNMODELED`; no new named subject.
+
+Mine added as a narrow tracked `UNMODELED` subject; no readiness promotion: **21 `PARTIAL_MODEL` / 61 `UNMODELED` across 82**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C003 checkpoint pending.
+
+## V003 C003 E024 character-state delta — Atsuko's dissent and the card encounter
+
+- **Atsuko:** directly proposes that Saori stop and flee with her, credits Azusa for seeing their hatred as learned, and recognizes Azusa's new life. Her italic opening receives a Saori response despite mode ambiguity; actual escape/safety is unshown. `UNMODELED`.
+- **Saori:** injured/coughing, warns Atsuko against speaking for fear of an unnamed “her,” predicts return to Arius means death, and initially balks at fleeing. Scene 2 confirms coughing, not medical prognosis; `UNMODELED`.
+- **Azusa/Sensei:** Azusa breathes hard, reacts to Maestro's manifestation and urges flight. Sensei's two singleton choices and inward “adult card” action mark response, while the card's cost/effect is not independently measured. Azusa `UNMODELED`, Sensei `PARTIAL_MODEL`.
+- **Maestro:** appears, calls his work `崇高`, recognizes the card and later says his shown form was incomplete; promised completion is future. `UNMODELED`.
+- **Hiyori/Misaki:** Squad escape search fails by narration, but scene 2 `u:0011-0015` repeatedly labels Hiyori across incompatible turns; do not assign each bleak opinion to her. Both `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E023 character-state delta — accompanied stand, uninspected reserve
+
+- **Saori/Misaki/Hiyori:** Misaki briefly says “not yet” after near-ending talk; Saori alludes to an unnamed thing beneath the old cathedral and proposes a last battle. Neither resource nor outcome is printed. All `UNMODELED`.
+- **Azusa/Hifumi/Hanako/Koharu:** Azusa chooses pursuit, sends Hifumi to rest because of injury, names her three friends in farewell and tells Saori she is not alone. Hifumi wants to accompany but accepts the sendoff; Hanako infers an underground means and Koharu wishes safety. None demonstrates a guaranteed return or final victory. Azusa/Hanako/Koharu `UNMODELED`, Hifumi `PARTIAL_MODEL`.
+- **Sensei:** a singleton choice to accompany Azusa is direct; subsequent “let's go” lines are inward. No new intervention result or legal ETO audit. `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E022 character-state delta — Saori's grievance and Azusa's resolve
+
+- **Saori:** after Hiyori's no-cards assessment, she rejects surrender, privately recalls shared suffering and publicly vows to negate Azusa's Trinity learning. This is threatened erasure and grief, not completed harm; `UNMODELED`.
+- **Azusa:** asks Saori to give up, then says she will struggle again even if all seems futile. Her inward “I won't lose again” is resolve, not certified victory or safety; `UNMODELED`.
+- **Hanako/Koharu:** Hanako denies Saori can erase the past; Koharu invokes the narrator-certified group pass and effort as irreducible. Neither speaks an administrative closure order; both `UNMODELED`.
+- **Hiyori/Misaki:** Hiyori assesses Justina failure and Squad defeat, while Misaki only addresses Saori. Assessment is not technical verification; both `UNMODELED`.
+- **Sensei/Hifumi/Seia:** no new direct appearance or speech in this unit; prior boundary remains.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E021 character-state delta — tactical data and Seia's concession
+
+- **Ako/Ayane/Hoshino/Chinatsu:** Ako offers analyzed opponent data to Abydos and addresses Ayane familiarly; the dataset/delivery are unshown. Chinatsu says support is ready, Hoshino directs movement. Ako/Chinatsu/Hoshino/Ayane remain narrow `PARTIAL_MODEL`.
+- **Shiroko/Serika/Nonomi/Iori:** Shiroko/Serika voice readiness, Nonomi likes friendly tone, Iori calls the Ako–Ayane exchange reunion-like. No battle effect. Shiroko/Serika/Nonomi/Iori retain prior readiness.
+- **Seia:** identifies the forced paradise YES/NO proof demand as misplaced, concedes Sensei's reframe while saying belief is not formal proof. No physical awakening or verified metaphysics. `UNMODELED`.
+- **Sensei:** absent from direct action/choices; Seia attributes a conceptual answer to them, without a new spoken sample. `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E020 character-state delta — local cross-school movement
+
+- **Hina/Iori:** Hina reports a center opening and directs a western move; Iori accepts. Hina agrees to Justice/Abydos assistance and leads movement without a new health report. Both `PARTIAL_MODEL`.
+- **Hasumi/Tsurugi/Chinatsu:** Hasumi offers aid and recalls prior shoulder-to-shoulder work with Chinatsu; Tsurugi is present and Iori recognizes the Justice chair. Co-presence does not certify full recovery. Hasumi/Tsurugi `UNMODELED`, Chinatsu `PARTIAL_MODEL`.
+- **Hoshino/Serika:** Hoshino offers Abydos support and playfully requests Hina use her name, while Serika notes Hoshino's own office-title address. No durable personal reconciliation or battle result. Hoshino/Serika `PARTIAL_MODEL`.
+- **Sensei/Seia/Saori/Azusa:** no direct new speech or action; E019 ETO and confrontation results remain open.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E019 character-state delta — Hifumi's refusal and Hina's return
+
+- **Hifumi/Azusa:** Hifumi reaches Azusa, dons Faust mask/identity to contest separate worlds, and states she will stay close. Her narration-tagged “our story” montage expresses a preferred happy ending, not assured outcome. Azusa hears but acceptance/final safety unshown. Hifumi `PARTIAL_MODEL`; Azusa `UNMODELED`.
+- **Hoshino/Shiroko/Nonomi/Serika/Ayane:** Abydos directly arrives in comic masked-group solidarity; their crime-boss/idol exaggerations are not stable institutional self-models. Existing readiness unchanged; `u:0077` Shiroko self-address is mislabeled.
+- **Hina/Ako/Iori:** Hina appears directly after being missing, voices inability/retirement, admits wanting Sensei's care, then says “retirement” was a bid to lean on others and rejoins Ako awaiting direction. No healed/officially resigned state. `u:0088-0090` Iori labels suspect. All `PARTIAL_MODEL`.
+- **Hasumi/Tsurugi:** Justice allies appear, but `u:0082-0087` inverted names make per-person “healed/not yet” claims unsafe; no exact clearance. Both `UNMODELED`.
+- **Saori/Misaki/Hiyori/Seia/Sensei:** Saori asserts futility and infinite Justina. Sensei inwardly claims a rival ETO; Misaki reports control disruption, Hiyori/Seia infer contract ambiguity. Sensei `PARTIAL_MODEL`, others `UNMODELED`; no verified legal mechanism or final combat result.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E018 character-state delta — resolve to reach Azusa
+
+- **Sensei:** checks responsive Hasumi/Tsurugi and other injured allies, thanks Sena, promises Ako to seek Hina, and offers Hifumi help. Choices are bounded, not an accomplished search/rescue; injury clearance unshown. `PARTIAL_MODEL`.
+- **Hifumi/Hanako/Koharu:** Hifumi fears ordinary status leaves her powerless, then commits to help Azusa. Koharu insists loneliness matters regardless of rank; Hanako pledges to accompany. Koharu's duplicated line at `u:0038-0039` is choice convergence. Hifumi `PARTIAL_MODEL`, Hanako/Koharu `UNMODELED`.
+- **Hasumi/Tsurugi/Sena/Chinatsu/Ako/Iori:** Hasumi and Tsurugi respond despite earlier grave reports; Sena says adult treatment worked enough for this encounter. Chinatsu, Ako and Iori remain hurt/under care. Ako says Hina absent/unreachable, not recovered or dead. Sena/Hasumi/Tsurugi `UNMODELED`; Chinatsu/Ako/Iori `PARTIAL_MODEL`.
+- **Seia/Azusa/Saori:** Seia narrates convergence and advance, not a full audit. Azusa again declares willingness to kill/stop Saori; Saori vows revenge for Atsuko. No final duel result. All `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E017 character-state delta — the motive account stays plural
+
+- **Koharu:** refuses to let Pater militants attack Mika despite calling herself stupid/uninformed, then receives Sensei's direct praise. This is protective agency without formal Justice reinstatement. `UNMODELED`.
+- **Sensei:** arrives at the prison confrontation after waking, asks militants to cease violence, praises Koharu, checks Mika and is recognized by Tea Party/Sisterhood/Justice voices. No medical clearance, broader plan or completed peace action. `PARTIAL_MODEL`.
+- **Mika:** retains Gehenna dislike but cannot explain her present refusal to command war. An apparent recollection shows a simple Arius outreach wish, later war/host rationalization and inward distress over believed Seia death. She apologizes to Seia and wants to see her/Nagisa, without delivered reconciliation or exoneration. `UNMODELED`.
+- **Seia:** revisits harsh judgment of Mika, infers a search for reasons behind dislike, admits she still knows too little, and says she forgives Mika/may need forgiveness herself. Crosscut speech is not proven heard by Mika or a legal pardon. `UNMODELED`.
+- **Nagisa/Hanako/Marie:** Nagisa speaks only in apparent recollection, not as located present survivor. Hanako/Marie react to Sensei's reappearance without new command outcome. All `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E016 character-state delta — survival, factional refusal and waking
+
+- **Saori/Atsuko/Azusa:** E014's bomb detonates; Seia reports Saori badly injured but halo intact and Atsuko shielded her. Atsuko nods and Seia says she is alive. Saori vows revenge. Azusa recognizes both survive, still sees Justina and seeks another way to stop Saori; no second action yet. All `UNMODELED`.
+- **Maestro:** senses weaker “royal blood,” worries about experiment and references an unidentified woman's preparation; no secure protector/technical identification. `UNMODELED`.
+- **Sena/Hina/Ako:** Sena directs mass rescue and receives a member's report that Ako coordinates Prefects and Hina was badly hurt/unconscious. Ako then discovers Hina absent from the infirmary; destination and condition unknown. Sena `UNMODELED`; Hina/Ako `PARTIAL_MODEL`.
+- **Hanako/Marie/Mika/Koharu:** Hanako tries to block a Pater war declaration and is ordered seized; no completed custody shown. Marie hears Sakurako critically ill by report. Mika refuses militants seeking her war order without retracting personal Gehenna hatred; they turn hostile, and Koharu intervenes against group bullying despite a Justice member saying she cannot formally return yet. All `UNMODELED`.
+- **Sensei/Serina/Hanae/Seia:** Sensei physically opens eyes/sits up; Serina confirms awakening and Hanae warns against moving. Seia speaks in crosscut and is not shown bodily awake. Sensei `PARTIAL_MODEL`; others `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E015 character-state delta — Seia revises her viewing boundary
+
+- **Seia:** labels violence the true tragic ending, then admits she has not looked beyond it and initially refuses to inspect a painful epilogue. Sensei's challenges unsettle her; she chooses to keep watching through the end despite fear. This is a change in witness method, not physical awakening or proven future reversal. `UNMODELED`.
+- **Sensei:** in the dream frame questions Seia's stopping point, offers five choice groups and inwardly states a duty to return to students. Seia warns their body remains unhealed. No direct waking action or new clinician report. `PARTIAL_MODEL`.
+- **Azusa/Trinity/Gehenna/Arius:** Seia interprets their conflict as proof of unavoidable tragedy; none appears to answer her here, and E014's device outcome remains unopened in this unit.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E014 character-state delta — ambush and tactical friendship
+
+- **Azusa:** traps the waterway, draws Saori into pursuit and escapes a declared checkmate. She questions whose resentment she learned in Arius, holds the first-friend plush, then apparently uses it to carry a device Saori recognizes from the Seia attack. Her sobbing apologies signal cost without proving detonation, death or renunciation. `UNMODELED`.
+- **Saori:** sees the tactical weapon, orders Trinity advance, interprets the Justina intervention limit, pursues Azusa and argues that murderous intent rather than tools matters. She threatens Hifumi, predicts the plush will draw Azusa back, then spots the hidden object and warns Atsuko. Her overconfident predictions are not narrator findings. `UNMODELED`.
+- **Misaki/Hiyori/Atsuko:** Misaki glosses Atsuko's signs with admitted uncertainty, warns of traps and later says collapse has immobilized her. Hiyori estimates a three-hour absence and cries in pain, with no confirmed prognosis. Atsuko blocks Azusa, gestures an unprinted proposal, later objects to Saori's pressure and receives a warning to flee. All `UNMODELED`; no precise sign-language content beyond speaker gloss.
+- **Sensei/Hifumi:** neither acts or speaks here; Hifumi is Saori's threatened target and remembered gift-giver, not a witnessed victim. Sensei's E012 reported status unchanged.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E013 character-state delta — Azusa's prospective killer identity
+
+- **Azusa:** meets Hifumi, attributes the crisis and Seia's continuing coma to herself, and announces an intent to break Saori's halo. Her claim that training makes her a killer and no happy ending exists is a current self-understanding and planned act, not evidence of a completed killing, sole causation or exhausted alternatives. Her direct gratitude for learning and time in the remedial club complicates that self-definition. `UNMODELED`.
+- **Hifumi:** calls Azusa by name, disputes her global blame, hopes Sensei wakes and invokes unfulfilled sea/anime promises while asking her to stay. The medical hope and possible alternative are not proven outcomes. `PARTIAL_MODEL`.
+- **Seia:** voices confidence that Hanako and Hifumi can see impending destruction, but her dream-adjacent frame does not establish waking location or infallible foresight. `UNMODELED`.
+- **Sensei/Hanako/Saori:** absent from direct scene action. Sensei's recovery, Hanako's ability and Saori's future condition are discussed or predicted, not observed anew.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E012 character-state delta — provisional synthesis under fear
+
+- **Hanako:** asks for Sensei's condition, receives secondhand first-aid/unconsciousness report, hears analyst reject ramjet/place launch inside Trinity, and identifies Justina-looking figures in restored footage context. She explicitly calls her broad catastrophe theory a hypothesis requiring dozens of leaps. `UNMODELED`; insight is not verified omniscience.
+- **Sensei:** reported in Rescue Knights room after heavy blood loss and first aid, apparently not in immediate mortal danger, still unconscious. No direct medical chart or recovery. `PARTIAL_MODEL`.
+- **Marie:** witnesses Hanako's recognition and worry without endorsing a causal theory. `UNMODELED`.
+- **Hina/Gehenna:** Hina's E007 ramjet conjecture is contradicted by analyst report; Gehenna blame remains unproven despite Sisters' field combat with Gehenna. Hina `PARTIAL_MODEL`, no new direct sample.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E011 character-state delta — decentralized care and command
+
+- **Mai:** Chronos colleague asks Shinon to retreat to safety; one narrow work sample. New `UNMODELED`.
+- **Hanae/Serina:** Rescue Knights confront students threatening Sena's ambulance because a patient remains protected regardless of school. Their Mine comments are reputation/colleague testimony, not this scene's Mine action. Both new `UNMODELED`.
+- **Suzumi/Reisa:** Suzumi uses a flashbang to disrupt would-be ambulance attackers and advocates school-blind medical aid; full force effects/authority unknown. Reisa calls in briefly as self-styled vigilante ace, no joint deployment shown. Both new `UNMODELED`.
+- **Hanako/Marie:** Marie guarantees a Sakurako contingency request for Hanako; officers accept, and Hanako begins building command/ceasefire/triage/information steps. Hanako's effectiveness and written authority remain unproved. Both `UNMODELED`.
+- **Hifumi/Koharu/Azusa:** Hifumi chooses to seek Azusa and sends peers to duties; Azusa not found. Koharu is summoned by Justice and identifies confiscated-items post, not an official reinstatement. Hifumi `PARTIAL_MODEL`; Koharu/Azusa `UNMODELED`.
+- **Sena/Sensei:** Sena's ambulance reaches the fifth gate and she reveals Sensei shot; no hospital or recovery yet. Sena `UNMODELED`, Sensei `PARTIAL_MODEL`.
+- **Mika:** one unlocated address to Nagisa/Seia's story; no status of either established. `UNMODELED`.
+
+Five new subjects yield **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E010 character-state delta — explanation, pressure and blame
+
+- **Seia:** dream-frame exposition about binding promises, First Council re-enactment, mimesis and Gematria; expressly says she learned via Sensei's dream, not prior full foresight. Her immortal-army/Gematria explanation remains situated testimony. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** Saori describes cruise-missile strike and alleged treaty alteration, presses Azusa with exclusive-home rhetoric, then plans underground Trinity attack. Misaki supplies a claimed clause/old faction right and estimates reserves; Hiyori calls covenant genuine. All `UNMODELED`; no inspected document or mechanism.
+- **Azusa:** loses initial frontal exchange, asks purpose, infers mimesis force motive and may be trying to flee after Saori notices a plush; neither exit nor tactic is shown. Formal Trinity student status not revoked. `UNMODELED`.
+- **Atsuko:** gestures but `u:0065` Atsuko-tagged self-address is a label fault; precise proposal untranscribed. `UNMODELED`.
+- **Ako:** injured, orders victim rescue and searches for Hina while blaming Trinity; no direct evidence Trinity attacked. `PARTIAL_MODEL`.
+- **Sensei/Hina:** Sensei absent from waking action, appears only in Seia's dream address and Saori's mistaken “disposed of” assertion. Hina absent from reserve frame; her E009 rescue is not negated by Misaki's Hina-less force appraisal. Both `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 55 `UNMODELED` across 76**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E009 character-state delta — claimed ETO seizure and wounded adult
+
+- **Saori:** directly identifies Squad, says Arius signed for Trinity and now is ETO, claims old enforcer right and vows both schools' eradication. Her legal/history claims remain unverified. She says a bullet hit Sensei and expects death, then uses injury to challenge Azusa's refuge; no death. `UNMODELED`.
+- **Sensei/Sena/Arona:** Sensei is shot, feels abdominal heat and consciousness blur. Sena confirms non-vital gunshot but serious bleeding, begins first aid and promises survival; no final prognosis. Arona does not speak in E009. Sensei `PARTIAL_MODEL`, Sena `UNMODELED`.
+- **Hina:** falls exhausted by Misaki's account, then rallies to call Sena and enable evacuation; not proven healed or permanently defeated. `PARTIAL_MODEL`.
+- **Azusa:** returns to Squad and repeatedly questions Saori's attack on Sensei; no resolution/fight outcome. Saori's “no home” rhetoric does not void official Trinity status. `UNMODELED`.
+- **Seia:** appears to Sensei in a frame she calls their dream or hers, with twisted time sense; no physical waking confirmation. `UNMODELED`.
+- **Misaki/Hiyori/Atsuko:** Misaki reports Hina down and later escape; `u:0005/0007` labels invert. Hiyori mediates Atsuko's untranscribed apparent reply; no direct Atsuko proposition. All `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 55 `UNMODELED` across 76**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E008 character-state delta — mimesis bargain and rear guard
+
+- **Maestro:** self-identifies, disdains students, says it will help copy guardian “dignity,” cites royal-blood `戒命` and an experiment, and requests agreed underground guidance. These are unverified actor claims, with ontology/role limited. Newly tracked `UNMODELED`.
+- **Atsuko:** addressed by Arius after “doll” transaction report; fearful/“wooden doll?” tags follow, and Maestro speaks of lineage, but her precise bargain, sign meaning and agency remain opaque. `UNMODELED`.
+- **Hina:** arrives despite Team III, directs Sensei handoff and proposes breaking encirclement while visibly hurt; does not complete escape or prove immunity. `PARTIAL_MODEL`.
+- **Tsurugi/Hasumi/Hinata:** Tsurugi continues tiring combat; Hasumi and Hinata join her in a rear guard so Sensei can leave. Hasumi's “leadership nearly destroyed” is organizational appraisal of absence, not a death finding. All `UNMODELED`.
+- **Sensei:** objects to others' risk and notices Hina's wound, then inward action says they run to her; no command of a successful escape. `PARTIAL_MODEL`.
+- **Misaki/Hiyori:** Hiyori reports Hina defeated her force before mimesis emergence; Misaki sees Hina arrive. Both `UNMODELED`.
+
+One new subject yields **21 `PARTIAL_MODEL` / 55 `UNMODELED` across 76**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E007 character-state delta — injured site and allied deception
+
+- **Ibuki:** named speaker notices flammable/handling-warning boxes just before a second explosion; no outcome for her is printed. New narrow `UNMODELED`.
+- **Makoto/Iroha:** Makoto explicitly self-claims prior Arius collusion and sham treaty assent for a strike on Trinity/Hina, then treats airship as Arius gift. Iroha challenges the bargain and says she was duped. `u:0046/0055` tags invert, so exact Iroha lines require context. Both `UNMODELED`.
+- **Hina/Hiyori/Saori:** Hina inwardly forms missile/engine/charge hypotheses, then focuses on Sensei; Hiyori notes she still stands and Saori orders her trapped. Hina `PARTIAL_MODEL`; Hiyori/Saori `UNMODELED`.
+- **Hifumi/Koharu/Hanako/Azusa:** Hifumi seeks absent Azusa, Koharu worries for Justice, Hanako tries to keep the group together; Azusa's safety remains an estimate. Hifumi `PARTIAL_MODEL`; others `UNMODELED`.
+- **Arona/Sensei/Hinata:** Arona reports attempted protection and fading power; Sensei wakes unable to move, Hinata extracts them with strength, reports no apparent injury. No clinical or technical audit. Arona `UNMODELED`, Sensei `PARTIAL_MODEL`, Hinata `UNMODELED`.
+- **Hasumi/Tsurugi:** visibly hurt and resisting Arius; Hasumi reports mass Justice incapacity and missing leaders, then Tsurugi calms her and stays to fight as she evacuates Sensei. No later combat outcome. Both `UNMODELED`.
+- **Mika:** one alarmed `ナギちゃん？` without location or confirmed information. `UNMODELED`.
+
+One new subject yields **21 `PARTIAL_MODEL` / 54 `UNMODELED` across 75**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E006 character-state delta — tense hall and active Arius plan
+
+- **Tsurugi:** interrupts a Justice/Prefect line quarrel, identifies Sensei and leaves for duty; startling laughter contrasts with polite embarrassment toward Sensei. Early `u:0012-0013` tags invert; secure later speech remains narrow. `UNMODELED`.
+- **Hinata:** personally de-escalates, admits self-doubt about previous help, guides Sensei, describes current Sisterhood service and historical Justina lineage. Her policy-cause thought is tentative; catacombs explicitly rumor. `UNMODELED`.
+- **Hina/Ako:** Hina says ETO is intended to constrain Makoto, Prefect Committee will continue and Ako's personal worry can wait until after ceremony. Hina `PARTIAL_MODEL`, Ako `PARTIAL_MODEL`; no retirement enacted.
+- **Saori/Misaki/Hiyori/Atsuko:** coordinated launch and team assignments reveal operation roles. Atsuko's gestures remain untranscribed, though Saori addresses her `姫` directly. Hiyori expects suffering; Misaki reiterates pessimism. All `UNMODELED`.
+- **Azusa:** reacts and departs as incoming sound/blast develops, suspecting Saori without a printed destination or intervention. `UNMODELED`.
+- **Sensei:** mistaken for outsider, then recognized/escorted; inward thanks and admiration receive apparent responses but cannot establish telepathy. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 53 `UNMODELED` across 74**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E005 character-state delta — broadcast and informal gathering
+
+- **Shinon:** Chronos reporter offers a public account of venue, history, Sisterhood and forecast ETO. Her conjecture/sarcasm is not institutional authority. Newly tracked `UNMODELED`.
+- **Momoka/Ayumu:** Momoka gives an informal Federal Student Council capacity explanation; Ayumu rebukes her. Narrow work-facing samples only; both newly tracked `UNMODELED`.
+- **Rin:** confirms the president remains missing, declines uncertain details and gives district nonintervention rationale. Shinon's indifference gloss is not Rin's position. Existing `UNMODELED`.
+- **Hanako/Koharu/Hifumi/Azusa:** hold an informal “effective” graduation gathering, not formal club closure. Koharu says she remains with Justice but no reinstatement notice appears. Azusa treasures Hifumi's first-friend gift and allows Hifumi's happy-ending taste while acknowledging lasting wounds. Hifumi `PARTIAL_MODEL`; others `UNMODELED`.
+- **Sensei:** students hope to talk later and assume treaty busyness; Sensei only inwardly thinks the cathedral hall is boring. Existing `PARTIAL_MODEL`.
+
+Three new subjects yield **21 `PARTIAL_MODEL` / 53 `UNMODELED` across 74**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E003 character-state delta — prison self-account and conjecture
+
+- **Nagisa:** directly visits imprisoned Mika, rejects torture as old Holy Council rather than current Sisterhood method, says she had sought a culprit largely to protect Mika if she herself were next after Seia. This is motive testimony, not justification for the club's coercive design. She inwardly rejects Mika's “happy ending” and presses why childhood friends were targeted; no repair yet. `UNMODELED`.
+- **Mika:** says she told interrogators her Arius contact/Squad knowledge, speculates Arius supply threat is low, and reports refusing Sensei's repeated visit requests. She insists Gehenna hatred and her own choices suffice, with conflicting kill/no-halo-destruction self-framings. She resists Hanako's psychological theory, then asks again if Seia truly lives. Direct criminal responsibility remains, hidden motive unresolved; `UNMODELED`.
+- **Hanako:** proposes unverified initial-abduction/panic and Nagisa-protection hypotheses from Sisterhood information and Mika's surrender; then distinguishes them from the supportable action chain. She promises Mika secrecy, later tells Sensei, admits hurtful overreach and contemplates apology. `UNMODELED`.
+- **Sensei:** present in Hanako's later discussion, presents multiple hypothetical motives and a choice-conditioned teacher-trust ethic under unknowable hearts. Several key lines are inward/future plans, not current contact with Mika or Nagisa. `PARTIAL_MODEL`.
+- **Arius/Saori:** Mika says Squad was formed by Arius's student council president and that Saori may know district entry; these are her claims, not inspected hierarchy/intelligence. No new subject or direct Saori sample.
+
+No subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E004 character-state delta — formal visits before signing
+
+- **Koharu/Hasumi/Mashiro:** Hasumi reports Koharu home with a cold, while Mashiro says she still belongs to remedial club; no direct Koharu exam aftermath or Justice reinstatement. Hasumi/Mashiro volunteer to answer Ichika's reported stolen-tank call. All remain `UNMODELED`.
+- **Hanako/Hinata/Marie:** Hanako says she has spent days sorting Sisterhood documents rather than going out; Marie apologizes and calls her frightening. Hanako/Hinata labels invert around body-contact banter, so precise actions and voice are uncertain. All `UNMODELED`.
+- **Makoto/Iroha:** Makoto imagines Schale alliance to break Prefect Team and calls herself Pandemonium chair; Iroha says the first-time visit is merely formal for treaty attendance. No alliance or action. Both `UNMODELED`.
+- **Ako/Hina:** Ako is surprised Sensei already visited Trinity, hopes treaty reduces Hina's work and reacts to Hina's early return. Hina escorts Sensei, interprets multi-perspective truth/trust, and privately says she wants rest, with no announced or completed retirement. Ako `PARTIAL_MODEL`, Hina `PARTIAL_MODEL`.
+- **Sensei:** attends formal Gehenna contact, says Trinity work remains, affirms trust in Hina and receives Hina's private rest disclosure; an inward retirement question receives a response anomaly. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V004 C001 E002 character-state delta — RABBIT and Life Safety
+
+- **Sensei:** accepts delegated Schale responsibility, rejects Kanna's elite/non-elite divide, and credits Kirino/Fubuki after their local success; the exact unseen planning steps and consequences of SRT custody are open.
+- **Kanna:** Public Security director/field commander, initially disparages Life Safety, then enables its support under Schale and revises her performance judgment; she forecasts higher-office disposition, not a settled sanction.
+- **Kirino/Fubuki:** Kirino prioritizes civilian safety and obtains a surprising hit; Fubuki is reluctant, exploits Miyu's password challenge and wants leave. Their distinct contributions must not be merged; `scene:002:u:0090-0091` are speaker-suspect.
+- **Saki/Moe/Miyako/Miyu:** Saki is tactically assertive and anti-closure yet resists Miyako's command; Moe prefers spectacle and spends her available support ammo; Miyako defines force as negotiation leverage and limits unnecessary fire; Miyu is skilled at drone measurements but fearful of losing home and vulnerable to an impersonation trap. Local subdual does not establish injury degrees or a durable squad breakup.
+- **Shinon/Mai:** media reporting now directly witnesses the Public Security setback and loses a relay drone; neither performs a casualty or legal audit.
+
+## V004 C001 E003 character-state delta — distinct SRT motives
+
+- **Saki:** reports near-perfect academic/practical SRT record and no prior rule violation as Kanna's file summary; gives strict constant-readiness/wolf identity, then admits she wanted a first chance at wasteful fire. This complicates rather than cancels discipline.
+- **Moe:** says SRT's heavy weapons, not longing for RABBIT companionship, drive her refusal; her weapons-scale claims and Kirino's past shopping-street rumor are unaudited.
+- **Miyu:** volunteers sniper role, age/birthday/pebble hobby and says she fears being forgotten in new ties; Miyako sometimes looks after her. Fubuki's Life Safety suggestion is declined, not a transfer.
+- **Miyako:** says transfer refusal is not anti-Valkyrie but a commitment to SRT's allegedly interest-independent justice; blames her own command, rejects unfamiliar Sensei's praise and vows persistence despite poor odds. Her institutional assessment is her belief.
+- **Sensei/Kanna/Kaya:** Sensei prioritizes welfare and a question about Miyako's reason, states personal inability to reverse closure immediately. Kanna forecasts severe federal sanction but shows no decision. Kaya self-introduces as Defense Office member; no policy answer yet.
+
+## V004 C001 E004 character-state delta — Kaya's conditional offer
+
+- **Kaya:** explains a purported federal Administrative Committee/`統括室` division and Defense oversight of Valkyrie, contrasts SRT's presidential exception, reports FOX's earlier attack and RABBIT's subsequent pressure, then offers Sensei broad RABBIT disposition discretion while excluding SRT revival. Her personal anti-closure preference and proposed protection of school records are stated; no council order or completed intervention appears.
+- **Sensei:** the `心の声` objects to forcing an unwanted school path, but its apparent uptake by Kaya is an attribution seam. Sensei asks whether personal disposition authority is appropriate; no final exercise of it is printed.
+- **Kanna/Rin/RABBIT/FOX:** Kanna is present as field executor and appears not securely attributed at `u:0057`; Rin's attempted talks and FOX attack are Kaya's reports. FOX remains a role-level team without named members. RABBIT's school records and placement remain unsettled.
+
+## V004 C001 E005 character-state delta — release without trust
+
+- **Sensei:** communicates a local release and asks the four students their preferred next step, offers Schale rest/living, denies lurid suspicions, and accepts their park choice without demanding gratitude or trust. The release line's `心の声` tag is anomalous; no signed disposition/record order is shown.
+- **Miyako:** still self-blames the failed operation; Saki rejects sole-leader responsibility after closure. Miyako refuses Schale comfort as inconsistent with the protest, accepts the park and explicitly retains adult distrust.
+- **Saki/Moe/Miyu:** Saki anticipates expulsion and states future hostility; Moe predicts fantastical worse punishment then wants rest, and Miyu panics over both penalty and sudden Schale trust. The squad agrees to park camping but has not yet arrived. `u:0053-0059` label patterns prevent certain individual assignment of regimented-training/field-ground preferences.
+- **Kaya/Kanna:** neither directly speaks in this scene; Sensei reports Administrative Committee involvement, not a reproduced official order. Kaya's E004 offer is the immediate prior context, not a full legal audit.
+
+## V004 C001 E006 character-state delta — park scarcity and food leverage
+
+- **Sensei:** checks the park after release, objects to mines, offers noodles, then raises Valkyrie transfer at the hunger point before arranging a Schale surplus-food route through Sora. Direct coercion/withholding is not shown, but the proposal is pressure-sensitive.
+- **Miyako:** admits water-only conditions after first denying need; refuses to trade SRT conviction for food/comfort, accepts an address note without changing stance and internally calls the surplus arrangement humiliating.
+- **Saki/Moe/Miyu:** Saki's defense readiness and manual prestige coexist with lack of food and mine risk; Moe cannot locate her own buried mine and values weaponry/spectacle, then readily takes the discarded-food job; Miyu reports frozen school account and fears starvation. No blast, actual famine or verified bank notice appears.
+- **Sora:** first directly present at Schale office, says Sensei arranged a discarded-goods disposal task and has collected goods. Her first narrow sample does not verify food safety or longer-term supply.
+
+## V004 C001 E007 character-state delta — food, hygiene and an operation
+
+- **RABBIT:** boxed meals from E006 now sustain at least short-term eating, but flavor allocation exposes friction and Miyako's own expensive choice under a restraint lecture. Four days without showers creates acknowledged hygiene difficulty, not a diagnosed illness.
+- **Miyako:** still distrusts Sensei/Schale's private facilities, yet adopts the adult's drum-bath idea and orders Moe to find a resource site. This is an announced operation, not completed acquisition.
+- **Sensei:** checks welfare, offers a shower and suggests a drum-can bath after refusal; accepts no direct trust. Saki/Miyako's threats do not become violence.
+- **Moe/Saki/Miyu:** Moe confirms waste lunches solved food temporarily; Saki is embarrassed about hygiene; Miyu's `u:0054-0055` apparent self-reply on missile/toilet dirtiness is attribution-suspect.
+
+## V004 C001 E008 character-state delta — rescue, bath and privacy breach
+
+- **Saki/Miyako:** Saki contests federal-appointed leadership, takes this operation, falters under an unscripted guard encounter and misplaces Miyu but chooses teammate rescue over the drum. Miyako cedes command, then supports rescue, reports safe return and credits Saki despite errors. This local repair does not resolve long-term authority.
+- **Miyu/Moe:** Miyu loses radio access, fears abandonment and is directly retrieved; Moe provides remote monitoring, readies bath supplies and later receives Miyako's missile order, with no impact shown.
+- **Sensei:** participates at port, proposes drum camouflage that locally works, later remains present during students' bath without their consent. The squad objects and threatens force; no injury/strike is confirmed. This is a material ethical counterexample to uncomplicated trustworthiness.
+- **Unidentified park-neighbor group:** role-level voices claim RABBIT consumed nearly all discarded lunches/scrap and an unnamed leader orders weapons under `無所有` rhetoric. No named individual, attack or verified inventory appears.
+
+## V004 C001 E009 character-state delta — Kirino's patrol and Sensei's loss
+
+- **Kirino:** combines actual patrol talk with local food-stall enthusiasm, asks whether RABBIT harmed Sensei, offers ongoing Valkyrie help, relays armed-wanderer/scrap-theft rumor and school budget strain. Transfer to Security remains a hope.
+- **Sensei:** gives choice-conditioned reassurance to Kirino, finishes shopping, is confronted by a distinct unidentified speaker, inhales smoke and loses consciousness by narration. The `麻酔` thought is a conjecture; captor, destination and medical condition beyond unconsciousness are unknown.
+- **RABBIT / unidentified alley group:** neither appears directly. Rumor and chronological proximity to E008 do not identify the armed wanderers or smoker with either group.
+
+## V004 C001 E010 character-state delta — Decartes, lure, withdrawal
+
+- **Decartes:** self-identifies as 所確幸 leader, claims RABBIT depleted discarded meals, holds Sensei, demands future yakiniku boxes and mobilizes armed associates. After a skipped clash, reports burned possessions and protests taking supplies despite non-possession doctrine. The E008 alley leader connection is strong but not directly self-cross-referenced; E009's individual smoker remains unidentified.
+- **Sensei:** explicitly rejects Decartes's subordinate framing for RABBIT, uses a nonexistent wagyu bento as a rescue lure, and later has mutually exclusive supply-purchase / leave-goods choice text. Declines Decartes's invitation.
+- **Miyako / Saki / Miyu / Moe:** answer the food lure, coordinate and survive the local clash by their report; Miyako considers goods as compensation, then directs departure without taking them. Saki and Miyu choose withdrawal, Moe is disappointed by the false meal. Injury and property audits remain absent.
+
+## V004 C001 E011 character-state delta — storm and manual solidarity
+
+- **Arona:** worries about region-wide rain and RABBIT's exposed tents, without a measured damage report; Sensei decides to check them.
+- **Saki / Moe / Miyu:** confront shelter failure and reported equipment loss. Saki doubts scavenging preserves SRT's mission, Moe rejects prolonged camp hardship, and Miyu asks Miyako to stop; after Sensei starts drainage work, Saki and Miyu join. This is disagreement plus local labor, not a settled vote to dissolve RABBIT.
+- **Miyako:** persists at the blocked drain and her SRT ideal even while privately doubting efficacy and losing hand sensation; accepts Sensei's manual assistance, reports partial park preservation and thanks them without agreeing to leave.
+- **Sensei:** checks the camp, handles a shovel poorly, helps clear the drain with students, returns wet and catches a cold by narration. The illness's course remains unknown.
+
+## V004 C001 E012 character-state delta — institutional refusals and double address
+
+- **Sensei:** seeks flood-damage park repairs through Rin, other council members and Kaya. Most contacted members refuse by narration; no allocation or repair follows. The Kaya response is paired apology/gratitude, then a printed nod to enjoyment with RABBIT.
+- **Rin:** distinguishes a public park repair from federal support for armed SRT campers, reports planned park removal and forecasts committee opposition; she refuses persuasion. Her reasoning is direct speech, not an inspected vote or demolition order.
+- **Kaya:** declines direct/park-nominal aid and says she can maintain student records. She later pressures Kanna on redevelopment, suggests aligned-interest partners and discloses she expected Sensei/RABBIT to hurt each other and separate. This is a material split between cordial public address and separate strategic expectation, without proving sabotage.
+- **Kanna / unnamed partner:** Kanna reports demolition delays due to armed rough sleepers and RABBIT's presence, then receives a coalition hint; exact armed group and coalition are unverified. Kaya's unnamed “expert” wants closer observation; identity and expertise remain open.
+
+## V004 C001 E013 character-state delta — anonymous seller and a shared meal
+
+- **Unnamed part-time seller:** sells Sensei inari, reports local Kaiser Construction redevelopment and possible cancellation as rumor, speculates about park students' “dream,” invites information and gives leftovers for hungry children. The final emphatic `先生` address shows recognition of role but not identity, motive or link to the E012 expert/SRT seniors.
+- **Sensei:** purchases inari twice, withholds park information in either paired phrasing, asserts teacher duty to support dreams and brings the food to RABBIT. One camp choice can verbally misdescribe its source; narration of purchase governs the event.
+- **Miyako / Saki / Miyu / Moe:** share the meal by narration. Miyako recalls inari-loving SRT seniors, worries about damaged firepower and requests repairs; Saki vows resistance, Miyu fears Black Market harm, and Moe offers to handle resupply. All future outcomes remain open.
+
+## V004 C001 E014 character-state delta — Moe's proposed barter fails
+
+- **Moe:** proposes trading damaged SRT missiles/bombs for functional arms, calls familiar Kaiser Industry salesman, admits an unusable account, requests fuel-air bombs/white-phosphorus rounds, then pivots to auctions after the merchant says stock is gone. A message arrives, but no exchange or sender is printed.
+- **Miyako / Miyu / Saki:** Miyako rejects bank robbery as contrary to public protection and questions past bomb spending; Miyu asks if the VVIP history might be embezzlement; Saki questions the auction market. These are challenges, not a resolved accounting case.
+- **Sensei / anonymous salesman:** Sensei's bank-robbery guess is rejected, and they question Moe's rust minimization/private bombs. The salesman recognizes Moe and reports all inventory bought by an anonymous customer, then cancels the proposed barter. Buyer identity and prior funding remain unknown.
+
+## V004 C001 E015 character-state delta — sale aftermath and Public Security arrival
+
+- **RABBIT:** reacts to a large all-cash purchase of rusty missiles by a masked buyer; Saki suspects possible counterfeit notes without checking. Moe wants ordnance, Saki argues for fuel/cooking and limits of firepower, and Miyako estimates partial fighting recovery without an itemized inventory.
+- **Decartes:** seeks RABBIT's help and reports 所確幸 scattered by an unusually armed Public Security raid. The specific prior raid and sweep breadth are self-report; at the cut, a Public Security student does directly arrive.
+- **Saki / Miyu / Sensei:** Saki gives an explicitly incomplete HEIAP estimate and Kaiser Industry possibility; Miyu infers Valkyrie may have bought the stock but doubts its budget. Sensei's Kanna guess is paired/conditional, and Kirino budget lines appear as a likely recall splice rather than a confirmed park visit.
+- **Unnamed actors:** the masked missile buyer, E014's anonymous stock buyer, metaphor speaker and arriving Public Security student are not securely identified with each other or Kanna.
+
+## V004 C001 E016 character-state delta — Kanna's limit and Clover resolve
+
+- **Kanna:** personally identifies, disputes park authorization, claims sponsor-backed arms/numeric advantage and a decided redevelopment, then withdraws for the day at Sensei's request. She estimates month-end as the limit before force; sponsor, contract and legal basis remain uninspected.
+- **Sensei:** interrupts a leave-or-fight ultimatum to obtain time, proposes a rebate hypothesis while marking it conjecture, and supports RABBIT's investigation choice. A responsibility promise is `心の声`-tagged despite Miyako's answer, so its spoken status is suspect.
+- **Miyako / Saki / Miyu / Moe:** recognize improved opposing arms, build a conditional corporate rebate model, acknowledge its evidentiary gap, discuss server/infiltration risks and reclaim SRT's investigative self-image. Miyako announces Clover Operation, without completed entry or proof.
+
+## V004 C001 E017 character-state delta — record found, exit blocked
+
+- **Miyako / Saki / Miyu:** infiltrate Valkyrie at 23:30. Saki finds a one-week-old Kaiser Industry record and hands it to Miyako, who identifies it as Clover evidence of a Public Security rebate involving redevelopment. Miyu inadvertently closes an archive door lacking an inside handle. No escape or public use of evidence is printed.
+- **Moe:** supports remotely from camp, reports camera hack and a roughly 30-minute refresh limit, decodes the archive door in about three minutes. Security bypass is local/temporary, not proven full-system control.
+- **Sensei:** explicitly left behind because the entry is difficult and discovery may trigger shooting; paired choices offer apology or rear-line support. The team, not Sensei, performs the entry and discovery.
+
+## V004 C001 E018 character-state delta — archive escape and captain recognition
+
+- **Miyu:** closes one-way archive door to avoid discovery, expresses severe self-blame/death wishes under pressure, later affirms trust in Miyako and observes local escape success. No attempt, lasting diagnosis or injury is printed.
+- **Miyako:** falters under command guilt, accepts a team-centered prompt, deliberately triggers an alarm to have guards open the door, then coordinates corridor cover and sensor deception. Saki/Moe/Miyu explicitly recognize her current captaincy; Miyako still credits the team. Full building exit remains unshown.
+- **Saki / Moe:** Saki presses accountability and later affirms Miyako's unique tactical result; Moe remotely manipulates a heat sensor to activate sprinklers/fire doors. Guards notice possible C4/lithium danger, but no blast is narrated.
+- **Fubuki / Kirino / Sensei:** Fubuki falls for a donut/cardboard trap with mechanism skipped and later memory uncertain; Kirino fires at passing RABBIT and reports all shots missed. Sensei's support appears while still physically off-site, with a thought-tag seam.
+
+## V004 C001 E019 character-state delta — Kanna's defense and evidence handoff
+
+- **Kanna:** reaches the rooftop by her reported exterior-wall climb, threatens possible record erasure, does not deny Miyako's rebate allegation and instead defends dirty compromise while acknowledging public-rule ideals. She says she will prepare an incident report; no filing, formal confession or verdict is shown.
+- **Miyako / RABBIT:** confront Kanna with the found record, make an aerial harness extraction and directly return to camp at 01:45. Miyako reports no injuries, missing members or loss of Clover, closes the operation and gives evidence to Sensei; mastermind remains unknown.
+- **Sensei:** offers Kanna choice-oriented counsel with thought/speech seams, accepts the evidence/adult follow-up, carries sleeping students into tents and returns to Schale. No official submission or disposition is yet printed.
+
+## V004 C001 E020 character-state delta — public case and named FOX plan
+
+- **Shinon / Mai / Kanna:** Chronos broadcasts an anonymous-source Kaiser/Public Security bribery allegation and school-damage report. Kanna asks for the source and orders reporters off the grounds; no press confession or formal ruling occurs.
+- **Moe / Miyako / Decartes / RABBIT:** Moe reports a federal inquiry and Kaiser redevelopment cancellation; Miyako hopes that secures the park. Decartes reports 所確幸 members returning and offers fried chicken bones as a gratitude gift, prompting renewed quarrel but no shown attack.
+- **Kaya:** says the discovered case has not exposed a separate Kaiser/“our side” link, then proposes including RABBIT in an explicit coup plan. This is direct plan speech, not execution or RABBIT consent.
+- **Yukino / Niko / Otogi / Kurumi:** newly named FOX Squad seniors directly speak. Yukino is harsh about RABBIT readiness, boasts of a one-minute alarm-free escape counterfactual and names goals of SRT restoration and Schale abolition; Niko expresses reluctance to dirty juniors' hands, while Otogi/Kurumi voice acceptance. Individual private baselines and actual capacities are unknown.
+
+## V004 C001 checkpoint reconciliation — provisional sequence consolidated
+
+The chapter closes with RABBIT back at 子ウサギ公園 after retrieving Clover, Saki's explicit recognition of Miyako's captaincy and Miyako's handoff to Sensei. The group remains materially precarious and formally closed; its future park/SRT status is unawarded. Kanna's challenged compromise and Kaya's named FOX coup plan are distinct state tracks. Yukino, Niko, Otogi and Kurumi are newly named narrow subjects, not resolved identities of earlier anonymous interlocutors. Readiness remains 21 partial / 80 unmodeled across 101; Chapter 2 unopened.
