@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E014 active provisional; E015 unopened
+current_sequential_boundary: MAIN_V003_C001_E015 active provisional; E016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1694,3 +1694,13 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; book provenance, club reaction, second exam and Nagisa plan remain OPEN.
+
+## V003 C001 E015 claim delta — care and concealment in one adult response
+
+- **BA-C001/C016 — COMPLICATE:** Sensei's `コハルはコハル` reply gives Koharu a local experience of being considered, yet `バレないように` and the explicit `良い感じに誤魔化す` choice use concealment. Hasumi accepts a teaching-book explanation without inspecting the contested book. Adult support cannot be scored as transparent procedural repair or automatic wrong from this partial record.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE:** Koharu's improvised-seeming spy claim is not independent proof of Hasumi's order, knowledge of Hifumi's Nagisa assignment, the alleged traitor or the club's lawfulness. Her narrator-confirmed prior failures remain despite `フェイク` self-description.
+- **BA-C008 — STRENGTHEN:** Hasumi's access-bar statement directly supports the rule as she administers it. Koharu's mission/grade claim is self-report. `これで良し` in the confiscated-items room suggests action but does not audit inventory. Private dialogue is fragmentary and cannot be completed from `本来の`/`先生`/an angry line. Fifteen Sensei choices are singleton.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hasumi's private words, Koharu's actual mission, book provenance, official second test and protection outcome remain OPEN.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -876,3 +876,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Study reference becomes disciplinary object:** Koharu seeks a reference book for a second problem but pulls out a disputed `R18` volume, shifting the group from learning to exposure/shame. Her confiscation explanation remains a claim; no objective title, ownership or school-law proof is supplied.
 - **Shower callback with cost:** Hanako reuses E013's `裸の付き合い` to tease emerging peer cooperation. Koharu rejects the implication, and later becomes tearful after more teasing; convivial comedy cannot erase expressed discomfort.
 - **Care or concealment:** Hifumi offers a possible explanation, Hanako suggests quietly putting the item back, and Sensei accompanies Koharu. These gestures may ease embarrassment but the plot has not shown accountable return or a Hasumi response.
+
+## V003 C001 E015 motif / callback delta — identity under a contested rule
+
+- **“Elite spy” versus documented grades:** Koharu recasts remedial placement and visible weakness as `フェイク` under a `スパイ` role, against E005/E008/E013 academic evidence. The contradiction is meaningful self-presentation, not license to claim a verified assignment or deliberate exam failure.
+- **Adult care mixed with evasion:** Sensei first suggests hiding better and then affirms Koharu beyond a fixed label; in Hasumi's room Sensei explicitly misleads with a teaching-book rationale. The episode tests whether compassion and institutional accountability can coexist, but does not yet settle the ethics of this specific concealment.
+- **Opaque private authority:** Hasumi's access bar is audible; her subsequent committee talk becomes broken fragments after Sensei leaves. This evidentiary withholding must not be filled with the just-heard spy claim or with E012's Nagisa mission.

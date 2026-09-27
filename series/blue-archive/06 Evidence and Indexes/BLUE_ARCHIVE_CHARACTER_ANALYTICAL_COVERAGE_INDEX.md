@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_E014
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_E015
 generation: V1
-version: "1.62"
+version: "1.63"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 through checkpoints, plus BA:main:003:001:001-014; 101/310 main units analyzed; side-source classes unreviewed; BA:main:003:001:015 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 through checkpoints, plus BA:main:003:001:001-015; 102/310 main units analyzed; side-source classes unreviewed; BA:main:003:001:016 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:001:015
+next_unopened_main_unit: BA:main:003:001:016
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:001:015
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C001_E014` provisional boundary, inheriting the canonical `MAIN_V002_C002` checkpoint:
+This index answers four questions at the `MAIN_V003_C001_E015` provisional boundary, inheriting the canonical `MAIN_V002_C002` checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025 and V003 C001 E001-E014;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025 and V003 C001 E001-E015;
 - current checkpoint: `MAIN_V002_C002`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `101 / 310` canonical units;
+- main-story coverage: `102 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:001:015`.
+- next unopened main unit: `BA:main:003:001:016`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,13 +74,13 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V002 C002 and V003 C001 E014; heads with Koharu to clubroom, no completed return/protective remedy | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V002 C002 and V003 C001 E015; affirms Koharu but misleads Hasumi; no Nagisa remedy | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` in V003 C001 E001 only; treaty/paradise interpretation and unanswered witness appeal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Koharu | `ANALYZED` in V003 C001 E002 future group and E004-E008/E010-E011/E013-E014 earlier scenes; disputed confiscated-book account | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Koharu | `ANALYZED` in V003 C001 E002 future group and E004-E008/E010-E011/E013-E015 earlier scenes; unverified Hasumi-spy self-claim | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` in V003 C001 E002 future group and E004-E008/E010-E014 earlier scenes; teases Koharu, suggests quiet return | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` in V003 C001 E002 future group and E004-E008/E010-E014 earlier scenes; peer-study exchange with Koharu, labels conflict | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mika | `ANALYZED` in V003 C001 E002-E003 Tea Party terrace; friend/host friction, teacher/delegation framing; E002/E003 label conflicts | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hasumi | `ANALYZED` in V003 C001 E004-E005; permits transfer to Sensei under her reading of Tea Party/Schale rule | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hasumi | `ANALYZED` in V003 C001 E004-E005/E015; restates Koharu's grade-based access bar and speaks privately, content obscured | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mashiro | `ANALYZED` in V003 C001 E004 only; reports Azusa apprehended in the act | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -119,7 +119,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Mutsuki | `ANALYZED` in C001 E008-E020; C002 E001-E003 and E014-E018 social framing/coalition | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kayoko | `ANALYZED` in C001 E008-E020; C002 E001-E003 and E014-E018 tactical decomposition/coalition | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Haruka | `ANALYZED` in C001 E008-E020; C002 E003 life-debt/guilt and later explosive aid | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hifumi | `ANALYZED` in V001 C001/C002 and V003 C001 E002-E008/E010-E014; proposes Koharu's possible confiscation account | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hifumi | `ANALYZED` in V001 C001/C002 and V003 C001 E002-E008/E010-E014; E015 private Koharu/Hasumi scene does not update her | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Chinatsu | `ANALYZED` in Prologue/C001 E020; C002 Prefect settlement and E017 support | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Iori | `ANALYZED` in C001 E020; C002 Prefect conflict, correction, and E017 support/boundary gag | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ako | `ANALYZED` in C001 E020; C002 E001-E002 custody rationale and discipline; E011/E017 Prefect contexts | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -813,3 +813,9 @@ Routing: [V003 C001 E013 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Narration confirms study continues late after E013. Azusa asks Koharu a geometry question, and the pair exchange help and praise, but the explanation/thanks labels invert against first-person cues; no exact competence ranking or exam gain is established. Hanako teases the pair about E013's shower, which Koharu resists. Koharu pulls a book from her bag while seeking a reference; Hanako alleges `R18` marking and describes imagined explicit content, while Koharu denies ownership and becomes visibly distressed. Hifumi proposes that it was a Justice Realization confiscated item accidentally retained; Koharu confirms the account, but no seizure record/ownership proof appears. Hanako's rule claim and library rumor are unverified. Hifumi warns of possible inventory trouble; Hanako recommends quiet return. Sensei offers to accompany Koharu, and narration confirms only departure toward the committee clubroom, not return or Hasumi's response. `u:0044-0045` also have label conflict. No subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED`** across 54, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** receives no traitor/sanction test. E015 remains unopened.
 
 Routing: [V003 C001 E014 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E014_DEEP_READING.md) → `BA:main:003:001:014`, one scene, 62 represented numbered units and one singleton Sensei choice. Coverage is **101 / 310**.
+
+## 72. V003 C001 E015 provisional coverage delta
+
+Koharu tells Sensei the disputed book was an accident, almost says she usually hides such items, then objects when Sensei suggests concealment. Sensei also tells her not to be fixed by labels and `コハルはコハル`; she says she partly feels considered. She claims to be an elite spy ordered by Hasumi to monitor the remedial club, with academic weakness `フェイク`. Her hesitation before naming Hasumi, hedges about Tsurugi and E005/E008/E013 documented grades make this self-presentation **unverified**, neither a confirmed order nor proof of deliberate exam failure; it must not merge with Hifumi's E012 Nagisa mission. In Justice Realization's confiscated-items room Koharu says `これで良し`, suggesting a placement but without inventory/ownership audit. Hasumi finds them, directly restates Koharu's grade-based access ban and accepts Sensei's explicitly misleading teaching-book explanation. She then speaks privately with Koharu while Sensei waits next door; only broken phrases and a raised `それではダメなんです！` are heard. Their topic/decision cannot be reconstructed. Koharu says she is okay afterward, and they depart. Sensei's care and admitted evasion form a mixed ethics sample, not a completed remedy. Tsurugi is mentioned only, not a new speaking subject. No subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED`** across 54, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** is not tested by Koharu's uncorroborated claim. E016 remains unopened.
+
+Routing: [V003 C001 E015 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E015_DEEP_READING.md) → `BA:main:003:001:015`, two scenes, 64 represented numbered units and fifteen singleton Sensei choices. Coverage is **102 / 310**.

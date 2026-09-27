@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1131,3 +1131,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Azusa's `コハル、質問` begins a same-topic problem exchange. `u:0005-0008` are labeled Azusa while apparently answering her own question; `u:0010` under Koharu praises a Justice Realization elite, and `u:0012-0013` under Azusa claim that elite identity. Treat the exchange and mutual help as secure, exact explanatory voice as unstable.
 - Hanako `裸の付き合い`/`深いところ` sexualizes E013's shower; Koharu explicitly rejects the implication. Hanako says `R18` is printed and `校則でも禁止されていたと思います`, where `と思います` marks uncertainty about the rule. Her elaborate content description is extrapolation, not a page-by-page inspection. `禁書` in the old-library basement is a rumor by her own `噂` wording.
 - Hifumi's `差し押さえた品を、つい入れたまま` is a proposed explanation; Koharu accepts it, but the script does not independently verify custody. `u:0044-0045` both bear Azusa labels although one addresses Hanako and the next apologizes for overdoing it: neither is secure Azusa voice. Sensei `choice:001` is a singleton accompaniment offer. Narrator `向かうことになった` confirms heading toward, not arriving or returning. `u:0062` is title card.
+
+## V003 C001 E015 delta — assertion, discretion and partial hearing
+
+- Koharu's aborted `いつものはちゃんと隠……`, `本当に間違い` and `ノーカン` expose tension between shame, concealment and her absolutist `エッチなのはダメ！死刑！！` rhetoric. Sensei `バレないように` is an actual printed suggestion, not an endorsed school rule. `無理に縛られなくて良い`/`コハルはコハル` is identity-affirming language which Koharu says partly communicates care, not a promise of secrecy or a verified book exception.
+- `スパイ`, `フェイク` and `エリート` are Koharu's self-presentation. Her hesitation before `ハスミ先輩` and `多分` about Tsurugi mark weak asserted authority/knowledge. Her repeated `秘密` and faith a teacher will not tell others do not establish an actual Hasumi directive. Do not merge with Hifumi's separate E012 informer assignment.
+- Scene 2 `良い感じに誤魔化す` is an explicit misleading *choice description*; Hasumi's `授業に使う書籍` is her uptake of an unprinted explanation, not inspected book contents. `本来の……`/`それではダメなんです！`/`先生…………を……` in the next-room talk are intentionally truncated; Sensei hears fragments, not a complete order. `大丈夫` is Koharu's answer, not an objective welfare certification. Scene 2 `u:0001` absent; twelve plus three singleton choices; `u:0032` title card.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -686,3 +686,7 @@ Hifumi and Sensei prepare a 60-minute, 100-point mock from a partial set of prio
 ## V003 C001 E014 institutional delta — disputed confiscation and destination only
 
 Narration confirms late study, but no new exam or grade. Hifumi suggests Koharu accidentally retained a Justice Realization confiscated book; Koharu says she managed seized items and that this volume is one. No seizure record, inventory, ownership or school rule is shown. Hanako claims `R18` marking, speculates about the book's contents and says she thinks school rules forbid it; her old-library forbidden-books story is rumor. Hifumi raises possible inventory discrepancy, Hanako proposes clandestine return, Sensei offers accompaniment, and narration confirms Sensei and Koharu set out toward the committee clubroom. This is not a confirmed return, a Hasumi decision or a valid procedure. The chapter title names the vice-chair, but Hasumi does not appear in E014.
+
+## V003 C001 E015 institutional delta — access bar and misleading exception
+
+Koharu and Sensei reach Justice Realization's confiscated-items room; Koharu's `これで良し` suggests a placement, but there is no inventory audit or independent validation of seizure. Hasumi directly says Koharu should not enter until grades improve, corroborating the E005 return/access bar as an actively administered rule. Sensei's choice explicitly misleads; Hasumi takes their reason as teaching books and allows it, without investigating the disputed item or lifting Koharu's grade bar. Hasumi's private committee talk is only fragmentarily heard; it cannot corroborate Koharu's newly claimed spy task or establish a new order. Koharu names Tsurugi as committee chair, without an appearance or direct institutional record. The academic second sitting, collective sanction and Nagisa's asserted bypass remain untested.

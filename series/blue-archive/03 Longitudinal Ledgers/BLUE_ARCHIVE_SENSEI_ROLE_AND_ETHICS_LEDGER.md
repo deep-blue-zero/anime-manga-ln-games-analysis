@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -776,3 +776,7 @@ Hifumi says Sensei helped late into the previous night to shape a partial prior-
 ## V003 C001 E014 delta — accompaniment before adjudication
 
 Sensei's one singleton choice offers to accompany Koharu after she says the book was accidentally retained confiscated property; narrator confirms they head to Justice Realization's clubroom. This is actual supportive presence, but neither a verified provenance finding nor permission to evade inventory/accountability. Hanako hopes Sensei's presence might moderate Hasumi's response; that is her expectation, not a demonstrated use of Schale authority. No arrival, return, discipline, grade change or implementation of the E012 Nagisa-protection promise follows. Adult role cannot be scored as either completed rescue or covert cover on this single departure. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E015 delta — care coexists with deception
+
+Sensei's singleton choices include suggesting Koharu hide contraband better, pressing the inconsistency of her `死刑` rule, then saying she need not be trapped by labels and `コハルはコハル`. Koharu reports feeling partly considered. The adult's words cannot be sanitized into consistent legal or educational guidance. At the confiscated-items room Sensei explicitly chooses `良い感じに誤魔化す`, and Hasumi accepts a teaching-book account; no independent evidence shows it is true. Sensei then honors Hasumi's request to step out, hears only fragments, and asks Koharu if she is okay before they depart. Privacy is respected in form, though the attempted overhearing and deception complicate the ethical sample. No protective intervention against Nagisa, grade remedy or authenticated Koharu-spy directive is shown. Fifteen choice groups are singleton, not alternative moral paths. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
