@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V036."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V038."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -64,13 +64,14 @@ model_basis:
     - RAG-JP-EPUB-V035
     - RAG-JP-EPUB-V036
     - RAG-JP-EPUB-V037
+    - RAG-JP-EPUB-V038
   admitted_through_volume: V036
   narrative_time_boundary: "after the nursery outing, her household honesty request, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V037 narrative evidence is admitted."
+    - "No post-V038 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru has directly explained the silence and operationalized inquiry, but its result and any final mutual classification remain unavailable."
 coverage:
@@ -2020,3 +2021,7 @@ V036 shows locally chosen public help at Mini's booth, an explicit request for K
 ## V037 local validation
 
 V037 gives Chizuru direct control of date terms: she tells Mini that feeling cannot change on command, asks for an ordinary date, texts a hotpot preference, privately commits at Sayuri's grave, and proposes leaving together from home at 9 a.m. These actions confirm deliberate participation and ongoing inquiry without a completed verdict (RAG-E-V037-001, RAG-E-V037-003, RAG-E-V037-005, RAG-E-V037-006, RAG-E-V037-010).
+
+## V038 local validation
+
+V038 gives Chizuru an independent clothing dilemma, voluntary presence at Joypolis and unusually clear advice about what an ordinary date requires. She wants to be thought cute, but does not translate that private wish into a verdict. With Kazuya she asks for walking pace, conversation and mutual choices, then offers a reciprocal lunch/ice-cream payment arrangement. These are direct choices within an open inquiry (RAG-E-V038-003, -005, -008, -009).

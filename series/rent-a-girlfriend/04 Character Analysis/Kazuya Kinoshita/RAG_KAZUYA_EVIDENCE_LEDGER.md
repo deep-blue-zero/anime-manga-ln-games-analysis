@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; character evidence inspected through V037."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V037
+inspected_through_volume: V038
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -216,6 +216,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E176 | KAZ-S039 | RAG-E-V037-004 | Kuri's advice and private purchase | Hears a numbered-date sexual theory, imagines a hotel and buys condoms while recognizing this is the first unpaid date. | His anxiety turns a contingency into intrusive fantasy. | Purchase does not imply Chizuru consent; RAG-KAZ-R003, RAG-KAZ-R005. |
 | RAG-KAZ-E177 | KAZ-S039 | RAG-E-V037-005, RAG-E-V037-007, RAG-E-V037-008 | Hotpot and itinerary rehearsal | Accepts Chizuru's hotpot preference, eats a separate trial meal with Mini, and drafts Joypolis and an evening walk. | Planning improves through inquiry but remains partly overcontrolled. | Mini is not a proxy and draft activities are not jointly agreed; RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E178 | KAZ-S039 | RAG-E-V037-010 | Shared-house departure revision | Accepts Chizuru's point that they can leave together and changes his note to 9 a.m. from home. | Revises his plan around her direct input. | The date and May 18 move remain future; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E179 | KAZ-S040 | RAG-E-V038-001, RAG-E-V038-003, RAG-E-V038-004 | Material and route preparation | Buys shoes, postpones a clothes choice and tests the Tokyo Teleport-Joypolis route. | Makes the prospective date logistically concrete. | His imagined Chizuru dialogue is not mutual agreement; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E180 | KAZ-S040 | RAG-E-V038-005, RAG-E-V038-006 | Unplanned shared preview | Encounters Chizuru during the check and explores Joypolis with her. | Gains firsthand feedback beyond simulated planning. | This is not May 17's date; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E181 | KAZ-S040 | RAG-E-V038-008, RAG-E-V038-009 | Listening at lunch | Hears Chizuru ask for mutual pace, conversation and his own preferences; negotiates food and payment. | Starts to understand reciprocity beyond a flawless escort. | Her advice is not a love verdict; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E182 | KAZ-S040 | RAG-E-V038-011 | Concern at close | Notices her preparation and worries he may have imposed by inviting her. | Respectful restraint coexists with self-doubt. | His inference is not Chizuru's stated reluctance; RAG-KAZ-R003. |
 
 ## State-change summary
 

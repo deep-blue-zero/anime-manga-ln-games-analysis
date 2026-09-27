@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
 ---
 
 # Information and deception ledger
@@ -261,3 +261,11 @@ state: CURRENT_THROUGH_V033
 | RAG-INF-208 | Kuri conveys a numbered-date sexual script; Kazuya buys condoms and imagines escalation. | Chizuru is not party to that exchange or purchase. | Exposes a major private assumption gap. | Neither peer advice nor possession supplies consent; RAG-E-V037-004. |
 | RAG-INF-209 | Mini eats hotpot with Kazuya and advises him about conversational pacing. | Mini knows his anxious planning; Chizuru does not attend this meal. | A support contact shapes his preparation. | Mini cannot report Chizuru's private feeling; RAG-E-V037-007. |
 | RAG-INF-210 | Chizuru asks about leaving together and accepts his 9 a.m. time; a separate closing image shows Mami. | The principals share departure logistics; Mami's knowledge and purpose are undisclosed. | Secures a narrow shared plan while opening a new reader question. | No date execution or third-party intervention yet; RAG-E-V037-010, RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-INF-211 | Chizuru covertly sees Kazuya shop and wonders about her own date clothing. | Chizuru knows his effort; Kazuya does not know of her observation. | Asymmetric information shapes her private preparation. | No purchase or romantic answer established; RAG-E-V038-003. |
+| RAG-INF-212 | Kazuya inspects Joypolis; Chizuru unexpectedly joins him. | Both know of the venue preview and speak directly there. | His private option becomes shared experience. | Future itinerary remains adjustable; RAG-E-V038-004 through RAG-E-V038-006. |
+| RAG-INF-213 | Chizuru says an ordinary date needs reciprocal pace, conversation and choice. | Kazuya hears her directly at Joypolis and lunch. | Explicit speech corrects his inferred success score. | Advice is not a final relationship verdict; RAG-E-V038-008, RAG-E-V038-009. |
+| RAG-INF-214 | Mami privately questions her feelings and silently sees Kazuya with Chizuru. | Mami gains an observation; neither principal knows she watched. | Adds a third-party information asymmetry. | No proven plan, contact or intervention; RAG-E-V038-002, RAG-E-V038-007. |
+| RAG-INF-215 | Miho's severe acting-world thoughts are given to the reader. | Miho's viewpoint is not shared with Chizuru or Kazuya. | Introduces professional-world uncertainty. | Do not impute her claims to Chizuru; RAG-E-V038-010. |

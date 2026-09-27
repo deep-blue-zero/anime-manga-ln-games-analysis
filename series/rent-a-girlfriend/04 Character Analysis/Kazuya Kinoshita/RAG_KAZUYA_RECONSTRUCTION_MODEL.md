@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V036."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V038."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -64,6 +64,7 @@ model_basis:
     - RAG-JP-EPUB-V035
     - RAG-JP-EPUB-V036
     - RAG-JP-EPUB-V037
+    - RAG-JP-EPUB-V038
     - RAG-JP-EPUB-V035
   admitted_through_volume: V036
   narrative_time_boundary: "after the nursery outing, minor household truth and privacy incidents, and an unresolved card game"
@@ -71,7 +72,7 @@ model_basis:
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V037 narrative evidence is admitted."
+    - "No post-V038 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -2041,3 +2042,7 @@ V036 supplies a stronger direct-request case: after a May 18 lease fixes the hou
 ## V037 local validation
 
 V037 shows a more reciprocal planning attempt: Kazuya asks Chizuru for preferences, accepts hotpot, rehearses a meal with Mini, and revises the morning departure to her chosen shared-house start. Kuri's sexual advice, a condom purchase, weather searches and an overfull Joypolis itinerary expose continuing pressure to overread a first unpaid date. His strongest reliable progress is responding to Chizuru's words, not his privately designed success score (RAG-E-V037-003 through RAG-E-V037-010).
+
+## V038 local validation
+
+V038 turns his itinerary research into an unplanned, real Joypolis preview with Chizuru. The bought shoes and route check show practical commitment, but his simulated perfect date is corrected by her direct request for shared pace, talk and his own preferences. Their lunch is reciprocal and unpaid, yet not the formal May 17 outing. His final fear of having imposed is an inference about her, not her spoken answer (RAG-E-V038-003 through RAG-E-V038-011).

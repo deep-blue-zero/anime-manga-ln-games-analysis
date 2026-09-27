@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
 ---
 
 # Directed relationship state ledger
@@ -251,3 +251,10 @@ state: CURRENT_THROUGH_V033
 | RAG-REL-198 | Kazuya ↔ Mini | Friend and planning coach | Eat hotpot and discuss what an ordinary conversation might require. | Support shifts from cheering to rehearsal. | Mini is not the date partner or inquiry judge; RAG-E-V037-007. |
 | RAG-REL-199 | Kazuya ↔ Kuri | Friends discussing dating | Kuri offers sexual theories; Kazuya's mind races and he buys condoms. | Peer script competes with actual first-date evidence. | No Chizuru consent is conveyed; RAG-E-V037-004. |
 | RAG-REL-200 | Mami ↔ principals | Prior contact, presently separate | Appears at another location in the final main-story cut. | Reintroduces her to reader attention. | No direct interaction, knowledge, or motive established; RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-REL-201 | Chizuru ↔ Kazuya | Housemates preparing an unpaid date | Their unplanned Joypolis preview and lunch provide real shared time. | Both experience a venue Kazuya had only drafted. | Formal date and inquiry remain open; RAG-E-V038-005 through -009. |
+| RAG-REL-202 | Chizuru ↔ Kazuya | Reciprocal choice under test | Chizuru asks him to bring his own tastes and share pace; she offers a later ice-cream purchase. | Reduces pure escort/client framing. | No couple declaration or later ice cream shown; RAG-E-V038-008, -009. |
+| RAG-REL-203 | Mami ↔ principals | Silent third-party observer | Mami sees the pair together from a cafe. | Her information changes without theirs changing. | No approach or effect yet; RAG-E-V038-007. |
+| RAG-REL-204 | Miho ↔ Chizuru | Acting-world peer, tension emerging | Miho voices private cynicism and seems unsettled near Chizuru. | Adds a distinct professional comparison. | No specific conflict is settled; RAG-E-V038-010. |

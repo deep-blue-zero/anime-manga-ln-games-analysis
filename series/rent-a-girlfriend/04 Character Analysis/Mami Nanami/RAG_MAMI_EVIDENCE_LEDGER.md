@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; character evidence inspected through V037."
 ---
 
 # Mami Nanami evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 七海麻美
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V037
+inspected_through_volume: V038
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -78,6 +78,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MAM-E038 | MAM-S011 | RAG-E-V026-009, RAG-E-V026-015 | Repeated bodily proof demand after verbal accounts | Demands a kiss to validate Kazuya's claimed relation, then disputes the first kiss's visibility and demands repetition. | Escalates from factual accusation to control over what embodied evidence the audience must accept. | Coercive verification supplies no neutral authority, and Chizuru's compliance does not validate Mami's framing or establish private status. | RAG-MAM-R003, RAG-MAM-R008, RAG-MAM-R010, RAG-MAM-R011 |
 | RAG-MAM-E039 | MAM-S012 | RAG-E-V030-007 | Initiated meeting and unresolved apology | Messages Kazuya, meets him for tea, asks what he means by his apology, and ends the encounter without an explicit goal. | Public former-partner access resumes after the failed Paradise separation. | Her expression and short talk cannot identify forgiveness, renewed romance, surveillance, or future strategy; RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R010. |
 | RAG-MAM-E040 | MAM-S013 | RAG-E-V037-011 | Isolated closing appearance | Appears at a separate location in the final main-story image after the date-planning chapters. | Restores reader attention to her unresolved position. | No contact, observation of the principals, or motive is established; RAG-MAM-R001, RAG-MAM-R003. |
+| RAG-MAM-E041 | MAM-S014 | RAG-E-V038-002 | Salon reflection | Reconsiders whether she has ever been in love while recalling Kazuya and speaking with a salon employee. | Gives her own uncertain interiority after an isolated appearance. | Employee opinion is not independent proof of her motive; RAG-MAM-R001, RAG-MAM-R003. |
+| RAG-MAM-E042 | MAM-S014 | RAG-E-V038-007 | Silent mall observation | Sees Kazuya and Chizuru together from a cafe without approaching them. | Changes her information while leaving the principals unaware. | No follow-up action or contact in V038; RAG-MAM-R001, RAG-MAM-R003. |
 
 ## State-change summary
 

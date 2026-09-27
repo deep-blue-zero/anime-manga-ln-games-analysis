@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; character evidence inspected through V037."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V037
+inspected_through_volume: V038
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -213,6 +213,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E171 | CHI-S039 | RAG-E-V037-003, RAG-E-V037-005 | Ordinary-date and hotpot preferences | Says she wants a normal date for mutual knowledge and later texts that hotpot sounds good. | Gives direct terms and a concrete taste. | No exact restaurant or full itinerary is approved; RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E172 | CHI-S039 | RAG-E-V037-006 | Sayuri grave visit | Cleans the grave, names her decision to go on the date, and determines to find an answer herself. | Privately confirms considered participation. | No answer has been communicated to Kazuya; RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E173 | CHI-S039 | RAG-E-V037-009, RAG-E-V037-010 | Practical departure initiative | Asks about the date plan, suggests leaving from the shared house, accepts 9 a.m., and says she looks forward to it. | Makes a bilateral logistical decision. | An agreed start is not a completed outing or couple status; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E174 | CHI-S040 | RAG-E-V038-001, RAG-E-V038-003 | Private preparation and clothing question | Worries she raised expectations, sees Kazuya shopping and tests outfits while wondering why she wants him to think her cute. | Makes her own anticipatory investment visible. | No purchase or final verdict; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E175 | CHI-S040 | RAG-E-V038-005, RAG-E-V038-006 | Actual Joypolis encounter | Meets Kazuya at the venue and proposes exploring together. | Moves from unseen observer to active participant. | Preview is not the scheduled date; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E176 | CHI-S040 | RAG-E-V038-008, RAG-E-V038-009 | Ordinary-date standard and lunch | Asks for shared pace and talk, invites Kazuya's preferences, and proposes paying later for ice cream. | Articulates reciprocity in direct speech. | No relationship answer or later ice cream is shown; RAG-CHI-R016, RAG-CHI-R024. |
 
 ## State-change summary
 

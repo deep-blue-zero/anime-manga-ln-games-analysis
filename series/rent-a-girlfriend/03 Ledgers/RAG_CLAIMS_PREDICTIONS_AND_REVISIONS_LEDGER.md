@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.42"
+version: "1.43"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037 inspected and closed; V038 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038 inspected and closed; V039 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -760,3 +760,23 @@ These tests were written after V037 was closed and before inspecting any V038 na
 | RAG-PRED-146 | Chizuru's ordinary-date standard or still-open inquiry is tested by her own speech, private reflection, or behavior, rather than inferred only from Kazuya. | RAG-E-V037-001, RAG-E-V037-003, RAG-E-V037-006 | V038 contains no Chizuru-centered response to the date. |
 | RAG-PRED-147 | The May 18 move deadline prompts a concrete logistics action, changed housing plan, or explicit boundary conversation. | RAG-E-V036-006, RAG-E-V037-008, RAG-E-V037-010 | The deadline stays background with no action or discussion. |
 | RAG-PRED-148 | Mami's closing appearance produces a direct action, contact, or new information relevant to the principals. | RAG-E-V037-011 | Her isolated appearance has no consequence in V038. |
+
+## Adjudicated predictions from the V037 boundary
+
+| Prediction ID | Adjudication | V038 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-145 | SUPPORTED, narrow | Kazuya tests the Joypolis route, encounters Chizuru, and they revise the method toward mutual conversation; RAG-E-V038-004 through -009. | This is an unplanned preview, not the May 17 outing; 9 a.m. and hotpot are not revised. |
+| RAG-PRED-146 | SUPPORTED | Chizuru questions why she wants to look cute and directly explains the reciprocal date she wants; RAG-E-V038-003, -008. | No inquiry verdict. |
+| RAG-PRED-147 | NOT SUPPORTED | No packing, changed housing plan or boundary conversation occurs. | May 18 remains future background. |
+| RAG-PRED-148 | SUPPORTED, narrow | Mami reflects privately and later sees the principals together; RAG-E-V038-002, -007. | She makes no contact or intervention. |
+
+## Frozen predictions for V039
+
+These tests were written after V038 was closed and before inspecting any V039 narrative image. They use only the V038 boundary.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-149 | The Joypolis/lunch preview produces a concrete adjustment, conversation or reminder before the scheduled May 17 date. | RAG-E-V038-005 through -009 | V039 never returns to the date arrangements. |
+| RAG-PRED-150 | Chizuru's ordinary-date inquiry gains a further self-authored observation or action rather than only Kazuya's interpretation. | RAG-E-V038-003, -008 | She has no further direct response. |
+| RAG-PRED-151 | Mami's sighting of the pair yields a subsequent private decision, contact or action. | RAG-E-V038-002, -007 | Mami does not recur or act. |
+| RAG-PRED-152 | Miho's acting-world tension becomes a specific exchange or consequential workplace act involving Chizuru. | RAG-E-V038-010 | No further Miho/Chizuru interaction occurs. |

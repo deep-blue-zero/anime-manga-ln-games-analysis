@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
 ---
 
 # Repetition and visual form ledger
@@ -253,3 +253,11 @@ state: CURRENT_THROUGH_V033
 | RAG-FRM-200 | Phone messages, menu screens, itinerary notes, and weather forecasts surround Kazuya's search. | Digital detail makes his anxiety and information-gathering visible. | Her actual texts must be distinguished from his drafts. | A researched option is not a joint commitment; RAG-E-V037-003 through RAG-E-V037-005, RAG-E-V037-008. |
 | RAG-FRM-201 | Hotel fantasy panels and comic alarm follow Kuri's third-date theory. | Subjective sexual possibility is staged as escalation pressure. | The actual object is his purchase. | No sex or Chizuru consent is shown; RAG-E-V037-004. |
 | RAG-FRM-202 | The 9 a.m. correction of a handwritten meeting point precedes a cut to Mami. | A small domestic fact receives document-level confirmation; the final cut opens another thread. | Chizuru's spoken terms outrank Kazuya's provisional schedule. | Mami's appearance does not alter the agreed departure; RAG-E-V037-010, RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-FRM-203 | Shoe shops and outfit trials mirror the principals' separate preparation. | Both worry about presentation before an unpaid date. | Chizuru's private question and Kazuya's purchase are observable. | Imagined outfits are not committed date attire; RAG-E-V038-003. |
+| RAG-FRM-204 | Route map and sheltered walkway precede an unexpected real encounter. | Distinguishes Kazuya's anticipated date from Chizuru's actual arrival. | The venue preview is lived, while prior simulated dialogue is not. | Do not collapse rehearsal into May 17; RAG-E-V038-004, -005. |
+| RAG-FRM-205 | Retro arcade, mall signage, food menus and bill make choices concrete. | Ordinary objects expose the limits of an optimized itinerary. | Chizuru repeatedly speaks and acts on preference. | A menu option is not an agreed future stop; RAG-E-V038-006, -008, -009. |
+| RAG-FRM-206 | Mami is shown watching across cafe space. | Spatial separation makes her new knowledge visible. | Principals do not address her. | No intervention follows; RAG-E-V038-007. |
+| RAG-FRM-207 | Miho's first-person text overlays the theater, away from the mall sequence. | Separates a new professional worldview from Chizuru's date speech. | Miho self-identifies and narrates her own thoughts. | Her cynicism is not the text's omniscient verdict; RAG-E-V038-010. |

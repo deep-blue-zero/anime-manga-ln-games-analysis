@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
 ---
 
 # Agency and initiative ledger
@@ -283,3 +283,11 @@ state: CURRENT_THROUGH_V033
 | RAG-AGY-230 | Kazuya | Choose between peer sexual script and first-date restraint. | Hears Kuri's advice, buys condoms, imagines escalation, but recognizes this is the first unpaid date. | His actual purchase is a private contingency. | Chizuru has not consented to sex; RAG-E-V037-004. |
 | RAG-AGY-231 | Mini and Kazuya | Rehearse ordinary conversation. | Eat hotpot together and discuss taste, plans and overmanagement. | Mini's coaching gives him a practical test. | The rehearsal is not Chizuru's date; RAG-E-V037-007. |
 | RAG-AGY-232 | Chizuru and Kazuya | Agree where and when to depart. | She suggests leaving from their shared home; he says 9 a.m. and she accepts, saying she looks forward to it. | A concrete bilateral condition displaces his uncertain meeting point. | The date remains future; RAG-E-V037-010. |
+
+## V038 close additions
+
+| RAG-AGY-233 | Kazuya | Prepare his appearance and route. | Buys shoes, defers clothing choice and checks the Tokyo Teleport-Joypolis path. | Material effort narrows some practical uncertainty. | His simulated date is not Chizuru's assent; RAG-E-V038-003, -004. |
+| RAG-AGY-234 | Chizuru | Decide whether and how to prepare. | Covertly sees his shopping, examines date outfits and privately wonders why she wants him to think her cute. | Her preparation is self-directed, with unresolved motive. | No outfit purchase or verdict shown; RAG-E-V038-003. |
+| RAG-AGY-235 | Chizuru and Kazuya | Turn a route check into joint exploration. | She meets him at Joypolis and suggests they go inside; they play and select lunch. | A real preview tests the planned venue and their shared tempo. | This is not the scheduled May 17 date; RAG-E-V038-005, -006, -008. |
+| RAG-AGY-236 | Chizuru | Specify her ordinary-date terms. | Urges mutual pace, conversation and Kazuya's own choices; offers to buy ice cream after lunch. | Moves from being escorted to reciprocal participation. | No final love answer or completed ice cream shown; RAG-E-V038-008, -009. |
+| RAG-AGY-237 | Mami and Miho | Observe or interpret the principals from outside. | Mami silently sees the pair; Miho privately assesses acting-world sociability. | New external viewpoints arise. | Neither contacts or changes the date; RAG-E-V038-007, -010. |

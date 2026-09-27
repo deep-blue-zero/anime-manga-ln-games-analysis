@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
 ---
 
 # Transaction and intimacy ledger
@@ -233,3 +233,9 @@ state: CURRENT_THROUGH_V033
 | RAG-TXN-180 | Kuri's sexual script | Kuri suggests escalation; Kazuya buys condoms privately and imagines a hotel. | Chizuru has not entered that transaction or agreed to intimacy. | Preparation cannot substitute for consent. | No sexual event occurs; RAG-E-V037-004. |
 | RAG-TXN-181 | Mini's hotpot rehearsal | Mini and Kazuya purchase and eat a meal while discussing date conversation. | A friend models preference-sharing. | This is not a paid or private outing with Chizuru. | Advice remains third-party conjecture; RAG-E-V037-007. |
 | RAG-TXN-182 | Shared-house departure | Chizuru suggests leaving home together at 9 a.m. rather than meeting elsewhere. | The practical choice is jointly accepted in an unpaid context. | Leaving together does not establish couple status or complete the date. | It is a future condition; RAG-E-V037-010. |
+
+## V038 close additions
+
+| RAG-TXN-183 | Pre-date Joypolis preview | Chizuru and Kazuya enter together after an accidental meeting. | Shared amusement occurs outside rental-work terms. | It is not the scheduled date and implies no final status. | RAG-E-V038-005, -006. |
+| RAG-TXN-184 | Joint lunch and bill | They choose a cafe meal; Chizuru says the invited party may pay her own share and suggests buying later ice cream if he pays. | Explicit reciprocity interrupts client/escort assumptions. | No later ice-cream purchase is shown. | RAG-E-V038-008, -009. |
+| RAG-TXN-185 | Chizuru's ordinary-date advice | She asks Kazuya to bring his own preferences, share pace and allow conversation. | Intimacy is approached through negotiated attention. | Her guidance is not romantic or sexual consent. | RAG-E-V038-008, -009. |

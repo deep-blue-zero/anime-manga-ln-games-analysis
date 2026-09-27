@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
 ---
 
 # Progress and regression ledger
@@ -253,3 +253,11 @@ state: CURRENT_THROUGH_V033
 | RAG-PRG-200 | Housing clock | FUTURE_DEADLINE_SALIENT | Kazuya frames May 17 as the day before the scheduled May 18 move. | No packing, contract change, or actual exit; RAG-E-V037-008, RAG-E-V037-010. |
 | RAG-PRG-201 | Sexual expectation | PRIVATE_RISK_OF_OVERREADING | Kuri's advice and a condom purchase amplify Kazuya's fantasies. | No Chizuru assent or completed sexual contact; RAG-E-V037-004. |
 | RAG-PRG-202 | Third-party pressure | OPEN | Mini coaches through a separate hotpot meal; Mami appears only in a final cut. | No family correction, Sumi contact, or Mami intervention; RAG-E-V037-007, RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-PRG-203 | Date method | RECIPROCAL_PROGRESS | Chizuru joins the Joypolis preview and asks for shared pace and unscripted conversation. | No final answer; RAG-E-V038-005, -008. |
+| RAG-PRG-204 | Kazuya planning | MIXED | Buys shoes and checks route, yet keeps imagining a score and worries about burdening her. | Effort is useful but can become projection; RAG-E-V038-003, -004, -011. |
+| RAG-PRG-205 | Mami pressure | NEW_PRIVATE_OBSERVATION | Mami asks herself about love and later watches the pair from a cafe. | No contact or interference yet; RAG-E-V038-002, -007. |
+| RAG-PRG-206 | Housing clock | UNCHANGED | May 18 remains ahead; no packing or revised boundary appears. | RAG-PRED-147 not supported; RAG-E-V038-011. |
+| RAG-PRG-207 | Acting world | NEW_OBSERVER_THREAD | Miho's professional disaffection and discomfort with Chizuru enter the record. | No established effect on the date; RAG-E-V038-010. |

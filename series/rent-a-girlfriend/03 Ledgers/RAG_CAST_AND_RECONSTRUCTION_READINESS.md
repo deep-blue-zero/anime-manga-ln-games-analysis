@@ -4,13 +4,13 @@ artifact_id: RAG_CAST_AND_RECONSTRUCTION_READINESS
 artifact_type: cast_reconstruction_readiness
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.40"
+version: "1.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; V001-V037 inspected and closed, checkpoint and local audits through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; V001-V038 inspected and closed, checkpoint and local audits through V030."
 ---
 
 # Cast and reconstruction readiness
@@ -35,7 +35,7 @@ Update after each eligible volume only when inspected evidence materially affect
 initialized: true
 inspected_through_volume: V033
 row_count: 14
-state: CURRENT_THROUGH_V037__PROMOTION_AUDITED_THROUGH_V030
+state: CURRENT_THROUGH_V038__PROMOTION_AUDITED_THROUGH_V030
 ```
 
 ## Project-local cast router
@@ -44,9 +44,9 @@ No listed person has been enrolled or graded in the global character registry by
 
 | Local character key | Preferred name / verified aliases | First evidence | Evidence ledger / model / monograph | Observed and missing domains | Local readiness | Last review |
 |---|---|---|---|---|---|---|
-| RAG-LOCAL-KAZUYA | Kazuya Kinoshita; 木ノ下和也 | RAG-E-V001-001 | `04 Character Analysis/Kazuya Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md`; `RAG_KAZUYA_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V037: asks for Chizuru's preferences, accepts hotpot, rehearses with Mini, drafts an itinerary, and revises the May 17 start to 9 a.m. from their shared home. Missing: honest accounting for the Umi overhearing, durable full honesty, workable Ruka separation, corrected dating lie, coupon use, final date outcome, and acknowledged reciprocal partnership. | OPERATIONAL_CANDIDATE | V037 close |
-| RAG-LOCAL-CHIZURU | Chizuru Ichinose; rental alias Chizuru Mizuhara / 水原千鶴; campus surname Ichinose / 一ノ瀬 | RAG-E-V001-002 | `04 Character Analysis/Chizuru Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md`; `RAG_CHIZURU_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V037: articulates uncertainty, requests an ordinary date, texts a hotpot preference, decides privately to attend, and agrees to a 9 a.m. shared departure. Missing: ring return, corrected dating lie, inquiry answer, planned aquarium date outcome, sustained household outcome, and final shared classification. | OPERATIONAL_CANDIDATE | V037 close |
-| RAG-LOCAL-MAMI | Mami Nanami; 七海麻美 | RAG-E-V001-001 | `04 Character Analysis/Mami Nanami/RAG_MAMI_EVIDENCE_LEDGER.md`; `RAG_MAMI_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V037: reappears in one separate final image without contact or stated intention. Missing: final motive, broad current family and ordinary routine, desired endpoint, exact phone-screen preparation, response to the failed separation outcome, and whether renewed contact is romantic, strategic, or something else. | PARTIAL_MODEL | V037 close |
+| RAG-LOCAL-KAZUYA | Kazuya Kinoshita; 木ノ下和也 | RAG-E-V001-001 | `04 Character Analysis/Kazuya Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md`; `RAG_KAZUYA_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V038: buys shoes, checks the Joypolis route, shares an unplanned preview and lunch with Chizuru, and hears her direct advice about mutual pace and conversation. Missing: honest accounting for the Umi overhearing, durable full honesty, workable Ruka separation, corrected dating lie, coupon use, final date outcome, and acknowledged reciprocal partnership. | OPERATIONAL_CANDIDATE | V038 close |
+| RAG-LOCAL-CHIZURU | Chizuru Ichinose; rental alias Chizuru Mizuhara / 水原千鶴; campus surname Ichinose / 一ノ瀬 | RAG-E-V001-002 | `04 Character Analysis/Chizuru Ichinose/RAG_CHIZURU_EVIDENCE_LEDGER.md`; `RAG_CHIZURU_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V038: sees Kazuya preparing, privately considers her own clothes, joins him at Joypolis, and asks for an ordinary date with mutual choices and time to talk. Missing: ring return, corrected dating lie, inquiry answer, planned aquarium date outcome, sustained household outcome, and final shared classification. | OPERATIONAL_CANDIDATE | V038 close |
+| RAG-LOCAL-MAMI | Mami Nanami; 七海麻美 | RAG-E-V001-001 | `04 Character Analysis/Mami Nanami/RAG_MAMI_EVIDENCE_LEDGER.md`; `RAG_MAMI_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V038: privately questions love at a salon and silently sees Kazuya and Chizuru together from a cafe, without contact. Missing: final motive, broad current family and ordinary routine, desired endpoint, exact phone-screen preparation, response to the failed separation outcome, and whether renewed contact is romantic, strategic, or something else. | PARTIAL_MODEL | V038 close |
 | RAG-LOCAL-NAGOMI | Nagomi Kinoshita; 木ノ下和 | RAG-E-V001-003 | `04 Character Analysis/Nagomi Kinoshita/RAG_NAGOMI_EVIDENCE_LEDGER.md`; no model; no monograph | Observed through V036: discusses her paid outing with Kazuya and says she wanted to spend time with Chizuru and see her work; the family misconception is not corrected. Missing: broader independent routine and response after the residual dating lie is corrected. | UNMODELED | V036 close |
 | RAG-LOCAL-SAYURI | Sayuri Ichinose; former screen name Sayuri Otori / 鳳小百合; 一ノ瀬小百合 | RAG-E-V001-006 | `04 Character Analysis/Sayuri Ichinose/RAG_SAYURI_EVIDENCE_LEDGER.md`; no model; no monograph | Direct conduct is observed through V018; V030 adds Chizuru's memory of neighborhood cat feeding in the inherited house, not a new direct action by Sayuri. Missing: complete factual belief about the couple, exact diagnosis and death mechanism, broader independent life, and prospective validation. | UNMODELED | V030 historical review |
 | RAG-LOCAL-MINI | Mini Yaemori; 八重森みに | RAG-E-V013-012 | `04 Character Analysis/Mini Yaemori/RAG_MINI_EVIDENCE_LEDGER.md`; `RAG_MINI_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V037: asks Chizuru about the date and rehearses an ordinary hotpot conversation with Kazuya while advising against overmanagement. Missing: broader history, independent goals, confidentiality and restraint under a firm stop request, and reliable romantic diagnosis. | PARTIAL_MODEL | V037 close |
@@ -59,4 +59,4 @@ No listed person has been enrolled or graded in the global character registry by
 | RAG-LOCAL-UMI | Umi; 海くん; surname not established through V033 | RAG-E-V004-011 | `04 Character Analysis/Umi/RAG_UMI_EVIDENCE_LEDGER.md`; no model; no monograph | Direct conduct through V033: acting-colleague promotion, Kazuya producer recognition, Sayuri-altar visit, and an explicit renewed confession to Chizuru followed by her non-answer. Missing: surname, broader history, independent routine, long-term motive, prior private conversation's content, and response to a final answer. | UNMODELED | V033 close |
 | RAG-LOCAL-SUMI | Sumi Sakurasawa; 桜沢墨 | RAG-E-V005-014 | `04 Character Analysis/Sumi Sakurasawa/RAG_SUMI_EVIDENCE_LEDGER.md`; `RAG_SUMI_RECONSTRUCTION_MODEL.md`; no monograph | Observed through V036: privately reflects on the V035 sighting and what Chizuru told her of uncertainty, without learning the paid booking context or contacting the pair. Missing: broad spontaneous speech, stable independent provider competence, independent goals, conflict response, and Kazuya's reception of her romantic feeling. | PARTIAL_MODEL | V036 close |
 
-The cast router records identity and artifact availability only. Character-state history belongs in each listed evidence ledger; operational rules belong in the six listed models. V037 updates Kazuya, Chizuru, Mini, Kuribayashi, and Mami evidence homes. Kazuya, Chizuru, and Mini models change within their existing readiness grades; Kuribayashi remains evidence-only, and Mami has only an isolated closing appearance. No readiness promotion is made. The V030 fourteen-row review and deliberate nonpromotions remain the latest block promotion audit in `07 Audits and Handoffs/RAG_CHARACTER_ANALYSIS_PROMOTION_AUDIT_V030.md`.
+The cast router records identity and artifact availability only. Character-state history belongs in each listed evidence ledger; operational rules belong in the six listed models. V038 updates Kazuya, Chizuru, and Mami evidence homes and models. Miho Takashiro enters the narrative at this boundary but has insufficient evidence for a reconstruction model. No readiness promotion is made. The V030 fourteen-row review and deliberate nonpromotions remain the latest block promotion audit in `07 Audits and Handoffs/RAG_CHARACTER_ANALYSIS_PROMOTION_AUDIT_V030.md`.

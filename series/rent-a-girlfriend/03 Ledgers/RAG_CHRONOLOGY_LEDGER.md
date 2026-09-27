@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
 ---
 
 # Chronology ledger
@@ -217,3 +217,10 @@ state: CURRENT_THROUGH_V033
 | RAG-CHR-164 | RAG-E-V037-004, RAG-E-V037-005 | Kuri's sexual advice and Kazuya's purchase occur while Chizuru privately considers and texts a hotpot preference. | Parallel preparation yields unequal information. | Fantasy is not actual intercourse or a shared plan. |
 | RAG-CHR-165 | RAG-E-V037-006 through RAG-E-V037-008 | Chizuru visits Sayuri's grave; Mini and Kazuya eat a separate hotpot rehearsal; Kazuya drafts Joypolis, food, and walking options. | May 17 and May 18 remain future. | Draft activities are not completed. |
 | RAG-CHR-166 | RAG-E-V037-009 through RAG-E-V037-011 | Chizuru and Kazuya agree to depart from home at 9 a.m.; he revises the plan, then the narrative cuts to Mami. | This is the closing pre-date state. | Mami has no direct contact in this volume. |
+
+## V038 close additions
+
+| RAG-CHR-167 | RAG-E-V038-001 through RAG-E-V038-003 | After the 9 a.m. agreement, Kazuya and Chizuru prepare separately; Mami visits a salon. | All still precedes May 17. | Exact preparatory day is not explicitly fixed. |
+| RAG-CHR-168 | RAG-E-V038-004 through RAG-E-V038-006 | Kazuya checks the Odaiba route, encounters Chizuru and explores Joypolis with her. | An actual pre-date preview is completed. | Imagined future-date panels are not present action. |
+| RAG-CHR-169 | RAG-E-V038-007 through RAG-E-V038-009 | Mami sees the pair; the principals choose and eat lunch while discussing date method and payment. | Mami now has an observation unknown to them. | No contact or later ice cream confirmed. |
+| RAG-CHR-170 | RAG-E-V038-010, RAG-E-V038-011 | Miho's acting-world interiority and Kazuya's final concern close the volume. | Formal date and move still future. | Miho's thoughts are her own; no housing event. |
