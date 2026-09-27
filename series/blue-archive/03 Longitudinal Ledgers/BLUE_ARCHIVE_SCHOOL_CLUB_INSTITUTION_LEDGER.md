@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -983,3 +983,7 @@ Saori names GSC, Trinity and Correction Bureau as possible places to send her; n
 ## V003 C004 E026 institutional delta — coalition headquarters, hearing ahead
 
 Justice directly finds Sensei/Mika and Hasumi orders a secured route; Nagisa names an Arius restoration-operation headquarters. Seia is awake and reports mobilizing Sisterhood, Rescue Knights and Justice after an unnamed daydream deal; Nagisa's willingness to surrender authority for Mika is Seia's report, not an enacted office transfer. Azusa contributes changing-route knowledge; Hanako and newly speaking Ui locate a damaged old Justina map, with restoration unshown. Koharu says she remains in the remedial club while secretly returning seized/burn-surviving accessories. Mika's hearing is explicitly imminent, not conducted, and no Trinity status ruling or school reintegration is printed.
+
+## V003 C004 E027 institutional delta — hearing threshold and unverified wages
+
+Sensei inwardly says to begin Mika's hearing, but no proceedings, judgment or school status ruling appear. Squad leaves Saori and voices concern over residence/legal pursuit; neither exclusion nor refuge is administratively inspected. Seia reports prophetic-dream loss as an escape price, not a clinical finding. The Black Market executive claims a student 1,000-yen rate, halves it for alleged dropout, adds fees/food/15% silence deduction and declares zero wage; no contract or calculation is independently available. Haruka's intimidation and future bomb-placement talk do not establish an actual blast or police case.

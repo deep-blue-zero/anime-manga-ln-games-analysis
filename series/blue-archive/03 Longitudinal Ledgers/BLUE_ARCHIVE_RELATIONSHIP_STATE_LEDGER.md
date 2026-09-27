@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1261,3 +1261,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ KOHARU:** Koharu quietly preserves and sends Mika's surviving accessories; Mika recognizes her effort and thanks her while acknowledging earlier harm. Koharu is absent from the handoff reception.
 - **AZUSA ↔ SQUAD:** Azusa asks rescue of Atsuko and the others as former family despite their attacks/crimes; this is her ongoing attachment, not reciprocal forgiveness or Squad rejoining.
 - **STUDENTS ↔ SENSEI/MIKA:** Ichika/Justice find them, Hasumi routes withdrawal, Seia/Nagisa/Sisterhood/Rescue Knights mobilize, Hanako/Ui search route evidence. The distributed care has a completed finding but not all downstream safety outcomes.
+
+## V003 C004 E027 relationship delta — Squad separates without severing care
+
+- **SAORI ↔ MISAKI/HIYORI/ATSUKO:** Saori leaves Misaki in charge; Misaki feels the burden and Atsuko expects eventual return. Separation is real, future reunion not shown.
+- **ATSUKO/MISAKI/HIYORI ↔ SENSEI/AZUSA:** Atsuko cites Azusa's flower resistance and Sensei's watchful care as reasons to persist, without a direct present meeting with either.
+- **SAORI ↔ BLACK MARKET EXECUTIVE:** he exploits her precarious status with claimed deductions and blackmail; she departs with no wage. The exact contractual basis is uninspected.
+- **HARUKA ↔ ARU/PS68:** Haruka intimidates the executive under a misread Aru instruction; Aru protests, Mutsuki laughs and Kayoko anticipates consequences. No bomb result or corrected trust pattern is shown.

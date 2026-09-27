@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E026 active provisional; C004 E027 unopened
+current_sequential_boundary: MAIN_V003_C004_E027 active provisional; C004 checkpoint pending; V004 C001 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2357,3 +2357,11 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 - **BA-C008 — REVISE/QUALIFY:** Seia is directly awake and present, but her daydream deal remains unidentified and no clinical mechanism is supplied. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 Ui enters as one narrow `UNMODELED` tracked subject: **21 partial / 66 unmodeled across 87**, none operational/validated. No new durable claim ID, standalone model, frozen prediction or side-source admission; backfill **DEFER**. C004 E027 unopened.
+
+## V003 C004 E027 claim delta — epilogue resists total closure
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Saori leaves Squad to seek an answer and wages, while Misaki predicts pursuit/homelessness and Atsuko claims a possible shared happy ending. These are active futures, not institutional settlement or return.
+- **BA-C008 — QUALIFY:** Seia says loss of prophetic dreams is the deal's price and withholds the last vision. Report is not a longitudinal test or the predicted event itself.
+- **BA-C001/C016 — STRENGTHEN narrowly:** Squad expects Sensei's witness/support; Sensei inwardly marks hearing start, not outcome. Volume 1 Aru/Haruka command-misreading and Black Market exploitation recur, without a new claim ID or external-side evidence. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 66 unmodeled across 87**; backfill **DEFER**. C004 checkpoint pending before V004 C001 E001.

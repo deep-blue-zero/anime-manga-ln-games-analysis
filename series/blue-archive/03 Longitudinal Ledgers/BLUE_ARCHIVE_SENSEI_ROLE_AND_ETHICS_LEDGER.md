@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1073,3 +1073,7 @@ Sensei inwardly accepts Saori's wrongdoing but rejects deserved childhood suffer
 ## V003 C004 E026 delta — students clear the route for Sensei
 
 Justice finds Sensei and Mika after student-led route work; Seia says they must illuminate Sensei's path rather than continuously borrow his power. This is direct reciprocal rescue, not an inference that the adult card did or did not operate offscreen. Sensei's only choice greets Ichika, while later inward thought gives the friends room to talk and intends to attend Mika's still-future hearing. The hearing's accountability is preserved alongside affection. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E027 unopened.
+
+## V003 C004 E027 delta — watched future, not guaranteed ending
+
+Sensei has no new voiced line or choice. Atsuko names Sensei as someone watching over Squad while they face an insecure road, which is her trust, not a signed protection commitment. Sensei inwardly marks the start of Mika's hearing, but no result follows; student-made relational repair cannot substitute for a formal decision. Seia's choice of present cooperation reinforces a bounded, reciprocal adult-student horizon. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 checkpoint pending before V004 C001 E001.

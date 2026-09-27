@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E027 character-state delta — hopeful separation, precarious work
+
+- **Saori:** leaves Squad after asking Misaki to care for them, then seeks difficult/high-paid Black Market work. She self-labels criminal/wanted and encounters executive wage deductions to zero. The written contract, charge basis and later life path are not audited. `UNMODELED`.
+- **Atsuko/Misaki/Hiyori:** continue without Saori. Misaki fears placeless pursuit and the delegated burden; Atsuko invokes Azusa's flower/`vanitas` resistance, hopes Saori returns and identifies Sensei as watcher. These are future commitments/predictions, not achieved safety. All `UNMODELED`.
+- **Seia:** directly says prophetic dreams will cease as the cost of escaping “that dream” and defers the last vision's discussion. No long-term test or disclosed future content. `UNMODELED`.
+- **Haruka/Aru/Mutsuki/Kayoko:** Haruka intimidates a Black Market executive under an apparently misread Aru request and mentions future bomb placement; Aru reacts in surprise, Mutsuki laughs and Kayoko anticipates trouble. No explosion or completed change in Haruka's pattern. Existing rows/readiness unchanged.
+- **Sensei/Mika:** Sensei inwardly proposes beginning Mika's hearing, but no testimony or verdict is printed. Mika appears silently near Nagisa/Seia; no additional legal or medical finding.
+
+Readiness stays **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E027 is the last source unit; checkpoint pending before V004 C001 E001.
 
 ## V003 C004 E026 character-state delta — coalition returns Mika
 

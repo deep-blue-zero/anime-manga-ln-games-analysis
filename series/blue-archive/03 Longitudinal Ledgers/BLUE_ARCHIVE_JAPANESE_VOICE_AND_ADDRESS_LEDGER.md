@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,13 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E027 delta — future modality, wage claim and coda
+
+- Atsuko's `サッちゃんは帰ってくるよ` / `きっとハッピーエンド` are future hope, not arrival or guaranteed outcome. Misaki's `居場所はない` and itinerant forecast are fear/assessment, not audited legal exclusion across three schools.
+- Seia's `もう予知夢を視る事はないだろう` is a modal self-report of the `代償` for leaving the dream; the last dream's content is explicitly deferred. Sensei's hearing-start line is `心の声` and no procedural step follows.
+- The executive's `契約書にも書かれております`, 1,000→500 yen claim, fees, blackmail and `0円` result are adversarial representations; no contract or ledger is printed. Saori's `中退` status is the executive's assertion, not a verified school record.
+- Haruka's `「挨拶」` is a command-interpretation failure under Aru loyalty, as her later apology confirms Aru meant something else. `爆弾を設置` is future intent, not explosion. Self-harm language in `u:0105` is distressed speech, not an outcome.
 
 ## V003 C004 E026 delta — rescued relation and speaker-label caution
 
