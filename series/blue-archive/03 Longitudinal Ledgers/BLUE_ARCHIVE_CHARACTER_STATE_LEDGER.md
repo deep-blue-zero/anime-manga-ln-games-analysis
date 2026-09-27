@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1672,3 +1672,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Miyako:** still distrusts Sensei/Schale's private facilities, yet adopts the adult's drum-bath idea and orders Moe to find a resource site. This is an announced operation, not completed acquisition.
 - **Sensei:** checks welfare, offers a shower and suggests a drum-can bath after refusal; accepts no direct trust. Saki/Miyako's threats do not become violence.
 - **Moe/Saki/Miyu:** Moe confirms waste lunches solved food temporarily; Saki is embarrassed about hygiene; Miyu's `u:0054-0055` apparent self-reply on missile/toilet dirtiness is attribution-suspect.
+
+## V004 C001 E008 character-state delta — rescue, bath and privacy breach
+
+- **Saki/Miyako:** Saki contests federal-appointed leadership, takes this operation, falters under an unscripted guard encounter and misplaces Miyu but chooses teammate rescue over the drum. Miyako cedes command, then supports rescue, reports safe return and credits Saki despite errors. This local repair does not resolve long-term authority.
+- **Miyu/Moe:** Miyu loses radio access, fears abandonment and is directly retrieved; Moe provides remote monitoring, readies bath supplies and later receives Miyako's missile order, with no impact shown.
+- **Sensei:** participates at port, proposes drum camouflage that locally works, later remains present during students' bath without their consent. The squad objects and threatens force; no injury/strike is confirmed. This is a material ethical counterexample to uncomplicated trustworthiness.
+- **Unidentified park-neighbor group:** role-level voices claim RABBIT consumed nearly all discarded lunches/scrap and an unnamed leader orders weapons under `無所有` rhetoric. No named individual, attack or verified inventory appears.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1705,3 +1705,10 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - The boxed-meal argument dramatizes Saki/Moe competition; Miyako's `質を争うのはナンセンス` is immediately tested by her own `唐揚げ弁当` selection (`scene:002:u:0002-0024`). Moe's `当面の解決` is a temporary food claim, not permanent security.
 - Saki's `4日もシャワー浴びてない` changes the apparent smell from Sensei's self-consciousness to the squad's hygiene shame (`u:0035-0042`). The Schale-shower accusations `信頼できない大人`/`変質者` are beliefs/insults, not proof of misconduct (`u:0043-0051`).
 - `u:0054-0055` print a missile-to-toilet suggestion and immediate objection both as Miyu; quarantine the second's voice and do not infer the proposal was implemented. `ドラム缶` becomes a practical bath image, then Miyako's `ニンジン作戦` names the planned acquisition, not its result (`u:0056-0071`). No performed voice admitted.
+
+## V004 C001 E008 delta — command code and object-voice comic frame
+
+- `RABBIT1`/`RABBIT2`/`キャンプRABBIT` encode operational roles; Saki challenges Miyako's leader status as `上からそう指示された`, then Miyako cedes this operation (`scene:001:u:0002-0038`). `u:0033-0034` Miyu self-replies, `u:0040` Saki says “Saki-chan,” `u:0054` Miyako seems to answer her own warning and `u:0057-0058` guard self-replies. Attribute only robust group/action facts.
+- Guards' `コソ泥` and Miyako's `廃棄予定`/no-loss claim are opposing characterizations, not legal adjudication. Saki's fiction-like drum-agent story supports her tactical willingness, not a real historical agent (`scene:001:u:0010-0019;scene:002:u:0028-0040`).
+- `ドラム缶` as a speaker label masks Saki until `私だっての` (`scene:002:u:0048-0075`). `scene:003:u:0013` Saki-tagged third-person self-mockery is suspect.
+- At the bath, Saki's `生徒の入浴姿を見るとかアウト` is direct objection. Sensei's `流れ`/`見張り役` paired explanations do not establish consent; Miyako's `ミサイルを` and Moe's `喰らえ` lack a depicted impact (`scene:003:u:0042-0051`). The alley `無所有` rhetoric belongs to an unidentified speaker, not a named character (`scene:004:u:0002-0013`). No performed voice admitted.

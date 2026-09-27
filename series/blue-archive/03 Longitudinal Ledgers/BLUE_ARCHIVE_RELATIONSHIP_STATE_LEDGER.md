@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1303,3 +1303,7 @@ Sensei returns to check the squad; Saki and Moe have fortified the public park, 
 ## V004 C001 E007 relationship delta — aid remains unwelcome but ideas travel
 
 Saki/Moe argue over lunch and Miyu is denied her choice; Miyako tries to restrain them while making a premium selection. The squad recognizes temporary food access yet still attributes possible humiliating intent to Sensei. When Sensei notices hygiene distress, Saki/Miyako threaten distance and reject Schale's shower over privacy/distrust. Nonetheless Miyako accepts the drum-bath concept and commands Moe to seek drums. This is selective use of an idea, not trust, thanks or new Schale membership.
+
+## V004 C001 E008 relationship delta — authority challenge and mutual rescue
+
+Saki attacks Miyako's federally appointed captaincy, takes temporary command and discovers theory/practice difficulty; Miyako warns, then cooperates and later credits Saki for success. Saki chooses Miyu's rescue over cargo, personally retrieves her and still scolds her fear. This is care under tension, not full equality or solved distrust. Sensei's barrel disguise suggestion is accepted for the rescue even though Saki says she dislikes following them. Later the squad objects to Sensei's presence during its bath and escalates to an order for a missile; no strike is printed. Unidentified neighbors interpret RABBIT as resource-taking outsiders and arm themselves, but no direct encounter yet.

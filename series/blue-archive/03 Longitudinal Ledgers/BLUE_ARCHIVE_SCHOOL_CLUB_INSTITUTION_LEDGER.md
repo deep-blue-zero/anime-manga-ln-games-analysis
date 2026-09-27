@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1019,3 +1019,7 @@ E005's proposed park camp is directly present the next morning. Saki/Moe use tra
 ## V004 C001 E007 institutional delta — short-term food, no hygiene infrastructure
 
 Moe confirms Schale discarded boxed meals have temporarily addressed food, narrowing E006's open actual-use question. The park camp lacks showers/affordable bath access, and four unwashed days are reported; washing faces with park water is possible but not equivalent to a proper bath. The squad refuses Schale's shower on trust/privacy grounds. Miyako orders Moe to search a resource-management system for drums and announces a bath-acquisition operation; no target, ownership, consent, procurement or result is printed. Public park mine risk from E006 is not resolved here.
+
+## V004 C001 E008 institutional delta — port salvage dispute and local resource conflict
+
+The squad reaches D.U. port after monitoring shifts and claims scheduled-disposal drums can be taken without financial loss; no owner permission, disposal schedule or title is inspected. Guards instead treat it as theft and engage. Miyako reports the drum objective reached and no injuries, the team rescues Miyu, and narration confirms park return under fire while wearing drums. Moe prepares supplies, and the squad actually bathes in drum cans. Whether this procurement was lawful/safe is separate from functional success. In an alley, unnamed people say RABBIT has taken almost all discarded food and repair scrap on which they relied; their leader orders weapons, but their identities, stores and any attack remain unverified/open.

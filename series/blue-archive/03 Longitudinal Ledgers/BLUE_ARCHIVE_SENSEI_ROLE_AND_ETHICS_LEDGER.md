@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1109,3 +1109,7 @@ Sensei visits to check welfare, voices concern about public traps, and offers fo
 ## V004 C001 E007 delta — a useful idea without trusted access
 
 Sensei returns after several days, observes the food dispute and checks whether the squad is ill. They explain four days without showers and reject Schale's shower as unsafe because they still distrust the adult (`scene:002:u:0002-0051`). Sensei suggests a drum-can bath, which Miyako adopts into a self-directed resource search (`u:0055-0070`). The adult provides a possible solution without controlling the plan, yet no permission or safe acquisition is established. Prior E006 hunger-pressure remains a live limitation; E007 does not retroactively erase it. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E008 unopened.
+
+## V004 C001 E008 delta — help does not license proximity
+
+Sensei accompanies the port attempt, questions taking drums rather than asking, and suggests a barrel-camouflage maneuver that locally aids Miyu's rescue and return (`scene:001:u:0006-0019;scene:002:u:0028-0085`). At the bath Sensei remains present and offers to watch for visitors, then gives a “flow” or “watch” answer when challenged (`scene:003:u:0029-0051`). The students never grant consent to be observed bathing; Saki explicitly calls it out, and Miyako orders a missile. No impact is shown, but the privacy breach materially qualifies any safe-adult reading. Tactical usefulness and adult ethics must remain separate. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E009 unopened.

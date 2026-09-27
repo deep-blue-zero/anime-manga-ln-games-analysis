@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1461,3 +1461,7 @@ The park as protest home now has water, shade and defensive traps but no food; S
 ## V004 C001 E007 motif / callback delta — rank under ordinary need
 
 Food arrives but dignity, equitable allocation and hygiene do not automatically follow. Miyako's rationing sermon collides with choosing the costliest meal, a small self-exception paralleling Saki's E003 discipline exception. SRT field toughness meets four-day bathing difficulty; refusals of Schale aid turn privacy and autonomy into active constraints. Sensei's old-fashioned drum bath is mocked then operationalized, showing helpful input without automatic adult command authority. The Carrot Operation name is introduced as a plan, not yet a triumph.
+
+## V004 C001 E008 motif / callback delta — possession and consent
+
+The drum both solves hygiene and becomes an absurd disguise that carries the team through fire. Saki's manual-based certainty fails at the unplanned guard and isolated Miyu, but rescue priority and cooperation salvage the mission; “elite” skill is tested by contingency, not denied entirely. A bath brings a rare shared ordinary pleasure and a hoped SRT future, then Sensei's presence violates the privacy boundary the group had named in E007. The alley leader's `無所有` ideal opposes RABBIT's material scavenging, while reported depletion of discarded meals/scrap reveals that “waste” can support someone else. The contest over possession and consent is unresolved.
