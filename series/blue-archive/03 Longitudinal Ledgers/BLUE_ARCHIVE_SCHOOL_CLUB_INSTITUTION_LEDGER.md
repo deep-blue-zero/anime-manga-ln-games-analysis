@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -714,3 +714,7 @@ Hifumi says two **official** special exams remain and failure on both means all 
 ## V003 C002 E004 institutional delta — camp interruption and unreviewed security
 
 Storm-soaked laundry and an apparent lightning-associated power outage stop the machine; no causes beyond speakers' guess or infrastructure diagnosis are established. Narration eventually confirms rewashing and taking the remaining day for rest; no lesson, official second test, grade, institutional sanction or trap inspection occurs. Azusa admits setting annex booby traps under a night-watch excuse and says they guard only malicious routes, but Marie's E002 benign activation is a direct false-positive counterexample. No security authorization, hazard map, removal or medical review is shown. Hanako's aquarium and amusement-park talk is brochure/rumor level; her Sisterhood-sourced masked-swimsuit gang story gives no proof the club knows Hifumi's V001 role. Koharu asserts clothing/public-decency and curfew prohibitions without inspected rules. Hanako proposes a nearby Trinity night walk, Sensei supports it, and narrator confirms it begins; no actual destination, offense or safe return is yet documented. Academic collective-expulsion and treaty mechanisms remain open.
+
+## V003 C002 E005 institutional delta — failed meeting, camp rule and aquarium response
+
+Koharu locates Hasumi's earlier Gehenna anger after an Eden Treaty-related meeting; Makoto's body-focused misidentification and Iroha's corrections show the meeting's interpersonal breakdown, and Koharu says the conference failed. No official minutes, ETO decision or Gehenna executive attack are shown. The formerly truncated Hasumi “declaration” is a diet pledge, not a Justice Realization deployment order. Her requested peer food monitoring is personal and potentially burdensome, not a school regulation. At a shop, Hasumi says the remedial campers were supposedly forbidden to leave and proposes reciprocal non-reporting of their outing and her parfaits; the underlying written camp rule/exception remains uninspected. Hasumi's Koharu exhortation names study and eventual Justice Realization return, echoing E015 fragments but not resolving whether any covert directive existed. Ichika's Justice Realization call reports suspected Gehenna fire/raid, then narrows to four Gourmet Research members, aquarium and gold tuna. Haruna's directly shown group takes the fish for eating by her stated purpose, with gagged School Lunch head Fuuka; initial gunfire, exact force, capture and ownership/valuation are not independently audited. The phone's resale hypothesis is not Haruna's motive. Makoto, Iroha, Ichika, Junko, Akari, Haruna, Fuuka and Izumi are new direct named subjects; Satsuki is mention only.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -779,3 +779,11 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **AZUSA ↔ SENSEI:** Sensei calls her kind after she says she wants no peers hurt; Azusa pushes back against child treatment and voices possible betrayal. Adult approval is not a full confession, safety audit or protective bargain.
 - **HIFUMI ↔ HANAKO/PAST:** Hanako repeats secondhand masked-swimsuit lore while Hifumi is silent; no new clubmate knowledge of Hifumi's V001 criminal-role label is shown.
 - **GROUP ↔ LEISURE:** Koharu resists sexualized framing and suggests rest, but admits interest in a nearby walk; Sensei agrees and Azusa prepares. Narrator confirms they set out, not what they do or whether any rule is violated.
+
+## V003 C002 E005 relationship delta — reciprocal secrecy, pressure and coercion
+
+- **HASUMI ↔ KOHARU:** Koharu respects/fears Hasumi and worries about her reduced eating; Hasumi urges study, says she wants Koharu back in Justice Realization and expects Sensei help. Koharu wants to stay with her and promises effort while doubting quick improvement. This is direct relational support under the existing grade bar, not proof of Koharu's E015 claimed spy role.
+- **HASUMI ↔ SENSEI/GROUP:** they meet at the dessert shop in reciprocal embarrassment. Hasumi suggests both ignore the other's deviation: group camp outing versus her parfaits. Sensei normalizes hunger and praises Koharu's mark, but no formal exception or promise to carry Koharu through the exam is voiced.
+- **MAKOTO ↔ IROHA/HASUMI:** Makoto repeatedly ignores Iroha's corrections and objectifies Hasumi; Iroha attempts to preserve factual role assignment and de-escalate. No durable treaty relationship can be inferred from this one broken meeting.
+- **ICHIKA ↔ HASUMI:** Ichika supplies a field alert and revises scale/target as data arrive; Hasumi initially overinterprets treaty risk, then hears the four-person aquarium account. Phone relationship is professional, private breadth absent.
+- **GOURMET RESEARCH ↔ FUUKA:** Haruna/Junko/Akari/Izumi coordinate the tuna escape; Fuuka is gagged and vocalizes protest while Haruna falsely attributes consent. No voluntary cooking agreement or outcome is shown. All named newcomers remain `UNMODELED`.

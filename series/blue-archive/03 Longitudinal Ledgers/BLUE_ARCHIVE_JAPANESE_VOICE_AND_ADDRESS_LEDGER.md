@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1177,3 +1177,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `見張りは言い訳` retracts her night-watch explanation in favor of trap-setting. `悪意…ルートにだけ`/`安全面に問題は無い` are safety assurances contradicted by Marie's E002 non-hostile triggering; Hifumi inwardly calls this out. `いつか裏切ってしまうかもしれない` is modal/future, not a confession or quotation of Nagisa's suspect label. `全てが無意味` recalls `vanitas` alongside E011's present-effort view.
 - Hanako's `ゴールドマグロ` exhibit claim is brochure-level/actor report; the amusement-park noise is expressly `噂`. Sisters reportedly told her of a masked-swimsuit criminal group, producing dramatic irony given V001 Hifumi, but no shown recognition by Hanako. Koharu's `犯罪`/`公然淫猥罪` and later `校則違反` are her assertions, not certified code. Hanako's `裸` walk/play is explicitly corrected.
 - Scene 1 `u:0017` jumps ~one hour ahead, then `u:0024` returns ~40 minutes; scene 2's power loss and recovery frame the conversation. Labels invert at scene 1 `u:0004-0005`, `u:0018-0023`, `u:0049-0050` and scene 2 `u:0036-0041`. All five choice groups are singleton, and `scene:002:u:0124` is a title card.
+
+## V003 C002 E005 delta — cliff-hanger completion and coerced “consent”
+
+- E001 Hasumi's `これから私は……` completes as `今度こそダイエットをします`. `万魔殿！！ゲヘナっ！！` remains situated anger but cannot become an anti-treaty military vow. Makoto's `戦略兵器` is her presumed Tsurugi label and `デカ女` an insult to Hasumi, not neutral classifications. Iroha explicitly corrects chair/vice-chair and invokes advance documents; `scene:002:u:0032` is Makoto-labelled but Iroha-voiced by syntax/continuity.
+- Koharu's `あんまりご飯も食べない`/`ずっと…守って` are partial observer claims. Narrator `パフェを三つ目の前にして、美味しそうに食べている` confirms Hasumi eating amid three parfaits, not all three consumed. Hasumi's `合宿中の外出が禁じられていたはず` includes `はず`, not inspected written policy; `見なかったことに` is deliberate mutual discretion.
+- Hasumi's `本来の目標`/`ただ目の前の勉強の話だけをしているわけでは` and `それではダメなんです`/`先生も` echo E015 fragments, but do not specify an elite-spy task. `scene:002:u:0078` is Koharu-labelled yet sounds like Hasumi receiving grade praise.
+- Ichika's `推測される`, `との情報` and `多分` mark attributed intelligence/resale conjecture. Hasumi's `きっとエデン条約を邪魔` is immediate conjecture, later revised by four-person/aquarium detail. Haruna's `食べるか、死ぬか` is rhetoric; Fuuka's muffled protests through an explicitly named `猿ぐつわ` cannot be glossed as assent. Seven Sensei choice groups are singleton; `u:0131` is a next-title card.

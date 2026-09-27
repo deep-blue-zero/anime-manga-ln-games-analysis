@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -925,3 +925,11 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Security that harms care:** Azusa's trap rationale is benevolent by her account, yet Marie already triggered it. Hifumi notices the false-positive. E003's worry about late nights gains a partial explanation, not a guarantee that all night work was defensive or safe.
 - **Masks and swimsuits:** Hanako's secondhand masked-swimsuit “criminal group” story intersects V001 Hifumi's actual role; Hifumi's silence gives irony, not proof of disclosure or Nagisa's Hifumi dossier.
 - **Rain to night walk:** thunder interrupts work and enables camp talk; after restored power/laundry, Hanako opens a new leisure choice. Narrator confirms only its beginning, so outcome and rule implications wait.
+
+## V003 C002 E005 motif / callback delta — appetite and misread threats
+
+- **Anger misresolved:** E001 left Hasumi's declaration hanging after Gehenna fury; E005 gives a diet pledge born of Makoto's humiliating misidentification/body remarks. A political-looking cliff-hanger resolves to embodied vulnerability without disproving the treaty's broader danger.
+- **Food and self-restraint:** Hasumi recruits peers to police meals, Koharu praises her adherence, then three parfaits and night hunger expose a gap between pledge and observed behavior. No moralized medical/weight conclusion follows.
+- **The suspect lens meets an aquarium:** Hasumi leaps from an incursion report to Prefect/Pandemonium and treaty sabotage. Ichika narrows the facts; Haruna voices a food motive for the gold tuna. The episode performs the danger of totalizing security inference without establishing every phone allegation's truth.
+- **Consent under gag:** Haruna theatrically treats Fuuka's muffled protest as endorsement. Akari notes speech is blocked; the text marks non-consent more strongly than Haruna's self-serving translation.
+- **Mutual concealment and academic care:** The unauthorized-seeming camp outing and Hasumi's dessert prompt `見なかったことに`, while Hasumi's Koharu study support is sincere speech under an access/grade bar. Reciprocal discretion is not institutional exoneration.

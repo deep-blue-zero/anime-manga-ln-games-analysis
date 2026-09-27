@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E004 active provisional; E005 unopened
+current_sequential_boundary: MAIN_V003_C002_E005 active provisional; E006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1760,3 +1760,12 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test; Alice's chosen identity is not imported as Azusa's mechanism.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; trap safety, Azusa plan, future outing and official exam remain OPEN.
+
+## V003 C002 E005 claim delta — non-treaty vow and narrowed alert
+
+- **BA-C001/C016 — QUALIFY:** Sensei endorsed the night walk E004; Hasumi now says camp outing was barred and proposes mutual concealment while observed with dessert against her pledge. Sensei normalizes hunger and praises Koharu's mock trend, without checking the rule or obtaining an official result. Care and procedural evasion remain entangled.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE locally:** the C002 E001 unfinished Hasumi declaration is disclosed as dieting, not anti-Gehenna/treaty retaliation. Makoto's offensive conference behavior supports Hasumi's anger but reveals no treaty vote or ETO act. Ichika's alarm causes Hasumi to posit treaty sabotage, then narrows to four Gourmet Research actors and an aquarium. Haruna directly voices a food motive; Ichika's resale explanation is a guess. No actual Gehenna executive conspiracy or final response follows.
+- **BA-C008 — STRENGTHEN:** Koharu recollection, embedded conference dramatization, Hasumi's public pledge, later narrator sight of parfaits, phone intelligence, Makoto/Iroha label conflict, Haruna's rhetoric and gagged Fuuka are different evidence classes. E015 fragments are echoed by Hasumi's Koharu encouragement without fully reconstructing the earlier private talk or validating an “elite spy” order.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other claim families receive no global adjudication.
+
+Eight named `UNMODELED` subjects enter; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; aquarium outcome, camp rule, private Koharu directive and official second exam remain OPEN.

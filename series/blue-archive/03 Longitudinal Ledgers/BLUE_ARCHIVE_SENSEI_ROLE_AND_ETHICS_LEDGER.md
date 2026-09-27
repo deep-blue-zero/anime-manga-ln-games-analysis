@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -804,3 +804,7 @@ Sensei asks whether Hanako's Azusa concern should wait, then supports Hifumi and
 ## V003 C002 E004 delta — praise amid a failed safety assurance
 
 Sensei's singleton choices suggest rain may affect Azusa's sleep, observe Hanako's enjoyment, tell Azusa that Hanako worried, call Azusa kind and agree to a nearby night walk. These are bounded interpersonal actions, not an academic intervention, clinical assessment or adjudication of E017's plan. Azusa replies to “kind” by rejecting child treatment and voicing a possible future betrayal; the adult has no printed investigation or reassurance after that interrupted line. The previous day's Marie trap activation directly undercuts Azusa's “malicious-only routes” assurance, and no adult trap audit/removal is shown. Sensei's outing assent leads to a narrator-confirmed departure, but legality, supervision and outcome are not yet observed. The group rests after laundry; this is not official second-test preparation evidence. Five singleton choices give no divergent ethical path. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E005 delta — academic encouragement and reciprocal concealment
+
+Sensei accompanies the four to a late-night dessert shop after E004 assent. Hasumi states campers should not have gone out, hedged as `禁じられていたはず`, then proposes both sides pretend not to have seen each other because she is eating against her public diet pledge. Sensei does not visibly contest or verify the camp rule; E004 assent plus E005 silence therefore cannot be represented as an authorized exception. They normalize night hunger and tell Hasumi Koharu's marks are rising, with Hifumi reinforcing the forecast. This refers to mock results and is supportive, not an official pass guarantee. Hasumi's later “Sensei will surely help” is her expectation, not Sensei's new explicit contract. Koharu is encouraged but remains under a grade-based committee return bar. The subsequent aquarium alert produces no printed Sensei response yet. Seven singleton choices, including silence and concern, do not form branching ethical outcomes; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

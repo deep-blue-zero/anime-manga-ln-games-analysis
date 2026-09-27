@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:004; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -941,6 +941,17 @@ Readiness: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/v
 - **Koharu:** wakes, sees Hifumi/Hanako leaving Sensei's room and interprets a tableau through her pejorative register. No evidence she heard the substantive meeting.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E005 character-state delta — diet reversal and aquarium raid
+
+- **Hasumi:** E001's interrupted Gehenna-angry `これから私は` now continues as a public diet pledge after Makoto's body-focused humiliation, not an anti-treaty vow. Koharu says she restricted food since, but narrator later shows Hasumi enjoying parfait with three before her; not proof she ate all three. Hasumi proposes mutual silence about the group outing and her dessert, encourages Koharu's study/committee return, and takes Ichika's reported incursion initially as possible treaty sabotage before correction. This expands role/private-pressure evidence without a full model.
+- **Koharu:** admires but fears Hasumi's anger, worries about her eating, is caught on the purportedly forbidden outing and accepts mutual discretion. She tells Hasumi she wants to stay with her but doubts rapid grade improvement, then pledges effort after Hasumi's encouragement. E015's asserted spy role remains uncorroborated.
+- **Makoto/Iroha:** Makoto confuses Hasumi with Tsurugi, objectifies and insults her, misconstrues appearance as a conference tactic; Iroha cites paperwork and repeatedly corrects/de-escalates. Both newly directly speaking `UNMODELED`, not enough for whole-person psychology.
+- **Ichika:** new phone voice reports an incursion, narrows Hasumi's Prefect Team/company-scale conjecture to four, names the aquarium and later Gourmet Research/Haruna. Source of full report and outcome unverified. New `UNMODELED`.
+- **Haruna/Junko/Akari/Izumi/Fuuka:** Haruna voices a food-first rationale for taking the gold tuna and orders escape/cooking; Junko worries about Trinity/security, Akari endorses the fish quest, Izumi carries/handles a thrashing fish and reports pursuit. Fuuka is gagged and protests; Haruna's “consent” interpretation is invalidated by the gag. Five new `UNMODELED` subjects; their prior ordinary/private baselines remain absent.
+- **Sensei/Hifumi/Hanako/Azusa:** group night walk reaches a shop; Sensei/Hifumi support Koharu's mock improvement, Hanako teases Hasumi and Azusa seeks sweets. No official result or intervention in the aquarium event yet.
+
+Eight new subjects total: **21 `PARTIAL_MODEL` / 44 `UNMODELED` across 65**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Satsuki only mentioned; generic committee members/clerk not new rows.
 
 ## V003 C002 E004 character-state delta — everyday joy and feared breach
 
