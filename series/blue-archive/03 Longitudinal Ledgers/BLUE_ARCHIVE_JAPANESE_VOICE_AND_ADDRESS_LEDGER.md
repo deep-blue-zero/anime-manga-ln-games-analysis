@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1149,3 +1149,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Sensei `その提案は、断った` and `私の役目とは違う` make E009 `私のやり方` an explicit refusal of Nagisa's proposed search, not refusal to teach or to care. `私は、生徒たちの味方だよ` and `ミカの味方でもあるよ` are direct declarations; Mika's `誰の味方でもない` challenge notes conflicting interpretation, not a proven contradiction.
 - Mika's `裏切り者` and `白洲アズサ` are her naming of Nagisa's supposed target; `アリウス分校` is her reported origin. `「何かを学ぶ」ことが無い生徒` questions the student label from Mika's standpoint, not objective enrollment status or proof Azusa cannot learn. `守ってほしい` is a protective request with unspecified action and no printed Sensei acceptance.
 - Mika `何も教えず` follows Sensei's silence, but E009 directly recorded Nagisa's partial explanation. `u:0046`/`u:0048` are `？？？` voices around silent named Saori `u:0047`; do not attribute them securely. Azusa `今のところ、計画通り` establishes only her reported plan progress. Eleven choice groups are singleton, including silence; `u:0059` is the chapter-continuation card. The V003 C001 checkpoint now governs synthesis, while exact voice/topology stays here.
+
+## V003 C002 E001 delta — confession, hypothesis and named monster
+
+- Mika `第一回公会議`/`徹底的に弾圧` historical sequence uses `だって`, `はず`, `かもしれない`, `多分` and admits ignorance of Arius's current location. `武力同盟` and `巨大な怪物（リヴァイアサン）` are her treaty interpretation/metaphor, not a ratified ETO charter or literal entity. Hypothetical attacks on GSC/Millennium are not Nagisa's stated plans.
+- `セイアちゃんは入院中なんかじゃない／ヘイローを、壊された` explicitly reverses Mika's E003 hospitalization story and is her serious allegation, not an independently witnessed death/attack. She says the culprit is not known. `生徒名簿…全部捏造` is Mika's self-incriminating admission of forged Azusa papers; Azusa's consent/knowledge is not thereby supplied.
+- `人質` for Koharu and `ハスミちゃんも知ってたはず` are Mika's inferred leverage/knowledge, with `多分` and `と思う` elsewhere. Hifumi's Black Market/criminal-contact report has known V001 context but the pejorative description is not a proven present plot. Mika distinguishes Azusa-as-false-background, her own anti-treaty politics and Nagisa-as-Leviathan as rival `裏切り者` meanings. She explicitly says `一方的なお話` and offers a binary; Sensei only asks if she herself is okay.
+- Scene 2 begins with a silent Tsurugi/Mashiro classroom insert and Hasumi's `万魔殿！！ゲヘナっ！！` outburst; `これから私は……` never completes. Mika `scene:002:u:0010` resumes exposition under the same heading; do not infer a complete Hasumi vow or stable chronology. Ten plus three singleton Sensei choices; `scene:002:u:0046` next-title card.

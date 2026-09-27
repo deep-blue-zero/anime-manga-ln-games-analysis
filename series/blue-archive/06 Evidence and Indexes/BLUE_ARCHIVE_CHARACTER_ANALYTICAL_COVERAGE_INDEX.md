@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_CHECKPOINT
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_CHECKPOINT_PLUS_C002_E001
 generation: V1
-version: "1.65"
+version: "1.66"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 plus V003 C001 through checkpoints; BA:main:003:001:001-017 analyzed; 104/310 main units; side-source classes unreviewed; BA:main:003:002:001 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 plus V003 C001 through checkpoints, then BA:main:003:002:001 provisionally; 105/310 main units; side-source classes unreviewed; BA:main:003:002:002 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:002:001
+next_unopened_main_unit: BA:main:003:002:002
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:002:001
 
 ## 0. Responsibility
 
-This index answers four questions at the canonical `MAIN_V003_C001` checkpoint:
+This index answers four questions at the `MAIN_V003_C002_E001` provisional boundary, inheriting the canonical `MAIN_V003_C001` checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025 and V003 C001 E001-E017;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017 and V003 C002 E001;
 - current checkpoint: `MAIN_V003_C001`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `104 / 310` canonical units;
+- main-story coverage: `105 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:002:001`.
+- next unopened main unit: `BA:main:003:002:002`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -79,10 +79,11 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Koharu | `ANALYZED` in V003 C001 E002 future group and E004-E008/E010-E011/E013-E016 earlier scenes; rejects nude-pool idea | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` in V003 C001 E002 future group and E004-E008/E010-E014/E016 earlier scenes; Hifumi reports perfect prior-year papers, motive open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through V003 C001 checkpoint; Mika names her suspected target, unlocated plan reply has unknown aim | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mika | `ANALYZED` through V003 C001 checkpoint; names Azusa and asks protection; invitation/origin claims unaudited | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mika | `ANALYZED` through V003 C001 and C002 E001; admits forged Azusa admission, alleges Seia attack and offers partisan treaty history | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Saori | `ANALYZED` in V003 C001 E017 silent named intercut cue; unknown adjacent voices not securely hers | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hasumi | `ANALYZED` in V003 C001 E004-E005/E015; restates Koharu's grade-based access bar and speaks privately, content obscured | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mashiro | `ANALYZED` in V003 C001 E004 only; reports Azusa apprehended in the act | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Tsurugi | `ANALYZED` in V003 C002 E001 silent named Justice Realization vignette; E015 was mention only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hasumi | `ANALYZED` in V003 C001 E004-E005/E015 and C002 E001; Gehenna outburst, unfinished declaration | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mashiro | `ANALYZED` in V003 C001 E004 and C002 E001 silent committee vignette | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Momoi | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E008/E011-E012/E014-E025; new-genre study with returned Alice | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -125,7 +126,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Iori | `ANALYZED` in C001 E020; C002 Prefect conflict, correction, and E017 support/boundary gag | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ako | `ANALYZED` in C001 E020; C002 E001-E002 custody rationale and discipline; E011/E017 Prefect contexts | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hina | `ANALYZED` in C002 E001-E002 mandate correction; E011 stale Hoshino intelligence; E017 bounded aid | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Nagisa | `ANALYZED` through V003 C001 checkpoint; E017 Mika speaks about her, no new direct Nagisa action | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Nagisa | `ANALYZED` through V003 C001 checkpoint; C002 E001 Mika's account of her motives is not direct Nagisa action | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Black Suit (role actor) | `ANALYZED` in C001 E012/E017; C002 recruitment, contract, Gematria separation and adult confrontation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaiser director (role actor) | `ANALYZED` in C001 E012; C002 E010-E011 integrated offices, occupation, defeat/aftermath | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Shiba Seki master (role actor) | `ANALYZED` in C001 hospitality/destruction; C002 E003 repair, E017 stall reopening, E020 work continuity | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -143,6 +144,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Azusa | M; arrest, transfer and admitted sleep difficulty | L; task cooperation, no-sabotage claim | L; peers/Justice Realization contact | M; first-year placement report and first exam 32/fail | M; camp ordinary work, 32/fail and sleep trouble | M; mission register plus `vanitas`/present effort, E007/E010 labels cautioned | M; arrest, exam failure and sleep/anxiety context | H; prior school, original offense, score causes and harm unverified |
 | Mika | L; terrace familiarity/teacher framing | L; presses Schale delegation and guest small talk | L; Nagisa/Sensei, ten-year friendship self-report | L; council workload/rotating host reported | L; proposed small talk, not lived private sample | L; secure playful lines, E002 u4/E003 u2 conflicts | L; treaty busyness reported | M; staffing, student regard and history not independently checked |
 | Saori | L; silent named E017 cue only | GAP; no secure decision | L; juxtaposed with Azusa/unknown voices, relation unproved | GAP; affiliation not directly stated | GAP | GAP; adjacent `？？？` voices unattributed | L; plan intercut context, no secure action | H; identity, voice, chronology, affiliation and motives open |
+| Tsurugi | L; silent named vignette cue only | GAP; no secure decision | L; committee co-presence, no interaction | L; Koharu calls her chair in E015, not independently ruled on | GAP | GAP; no direct speech | L; Hasumi outburst context only | H; action, voice, role specifics, date and motives open |
 | Hasumi | L; arrival/recognition and permission | L; invokes rule to correct Koharu | L; Koharu/Mashiro/Azusa/Sensei co-presence | M; Justice Realization procedural role | GAP | L; short formal lines | L; Azusa capture/transfer | M; regulation text, prior Sensei connection and private baseline absent |
 | Mashiro | L; capture report | L; reports arrest | L; Hasumi/Azusa/Koharu co-presence | L; Justice Realization field role | GAP | L; one secure report | L; contested capture context | M; independent decision path and private baseline absent |
 | Rin | L | M | L | H | GAP | M | H | L |
@@ -205,6 +207,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Azusa | E012 admits unfamiliar-place sleeplessness and offers watch; no new score | Hasumi/Mashiro field contact and club peers; private GAP | E002 tactical appraisal is not proven skill; E006 mission register not military assignment | V003 C001 E002 scene 1; E004 scene 2; E006 `u:0008-0050`; E008 `u:0017-0021`; E010 scene 1 `u:0015-0037`; E011 scene 6 `u:0018-0031`; E012 scene 3 `u:0003-0013` |
 | Mika | Terrace purpose now known as remedial request; reporter of treaty workload, not treaty contents | Nagisa friendship of ten years is her report; Sensei guest exchange narrow | Small-talk proposal and teasing are local, not whole ordinary baseline | V003 C001 E002 scene 2 `u:0002-0005`; E003 `u:0001-0107`, `u:0002` label conflict |
 | Saori | Named silent cue; unknown voices not secure | Intercut near Azusa with no stated relation or private context | No ordinary/play sample | V003 C001 E017 `scene:001:u:0046-0049` |
+| Tsurugi | E015 chair title from Koharu; E001 C002 is silent cue only | Hasumi/Mashiro committee co-presence, no secure interaction | No ordinary/play sample | V003 C001 E015 `scene:001:u:0026-0028` mention; C002 E001 `scene:002:u:0002-0009` |
 | Hasumi | E005 permits transfer as her rule interpretation; no regulation text or prior Sensei account | Justice Realization team/Sensei encounter only | No ordinary/play sample | V003 C001 E004 scene 2 `u:0065-0070`; E005 `u:0001-0009` |
 | Mashiro | One capture report, no independently shown field tactics | Justice Realization team/Azusa encounter only | No ordinary/play sample | V003 C001 E004 scene 2 `u:0065-0070` |
 | Rin | One administrative state; wider knowledge unknown | Formal Sensei/GSC relation; private GAP | Very little | P checkpoint |
@@ -263,9 +266,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Koharu | `UNMODELED` | `NONE` | first-test 11/fail plus demonstrated lobby cleaning and pool-clothing objection | E007/E010/E011 labels conflict; past test history, paper level and response to failure open. |
 | Hanako | `UNMODELED` | `NONE` | 2/fail, camp care and concern for Azusa's poor rest | Two-point cause/intent, lobby purpose, water safety and durable intimacy unverified. |
 | Azusa | `UNMODELED` | `NONE` | study effort, present-effort claim and unlocated E017 plan reply | Plan aim, alleged betrayal/Arius origin, Seia contact, sleep and next official score unverified. |
-| Mika | `UNMODELED` | `NONE` | named-suspect disclosure with a protective request and student-ally challenge | Intelligence/source, invitation agency, Arius account, larger problem and private motives unverified. |
+| Mika | `UNMODELED` | `NONE` | admitted forged Azusa admission, articulated reconciliation motive and rival ETO/traitor framing | Seia/First Council/Arius records, Azusa knowledge, Nagisa selection and own full motives unaudited. |
 | Saori | `UNMODELED` | `NONE` | silent named E017 intercut presence only | Unknown voices, relation to Azusa, location/time, institution, motives and ordinary response unverified. |
-| Hasumi | `UNMODELED` | `NONE` | rule-invoking release permission and correction of Koharu | Regulation text, independent value contrast, prior relation and private control absent. |
+| Tsurugi | `UNMODELED` | `NONE` | silent named Justice Realization classroom cue | Chair title only Koharu's account; no direct speech, decision, chronology or ordinary/private control. |
+| Hasumi | `UNMODELED` | `NONE` | grade-based Koharu access rule plus situated Gehenna outburst | Vignette occasion/declaration, treaty stance, expulsion knowledge and private control absent. |
 | Mashiro | `UNMODELED` | `NONE` | reported red-handed Azusa capture | One field report; own tactics, reasoning and ordinary/private control absent. |
 | Rin | `UNMODELED` | `NONE` | Prologue administrative-crisis interpretation only | One crisis, no ordinary/private breadth. Next: independently evidenced routine and non-Sensei relations; verify supplemental route first. |
 | Arona | `UNMODELED` | `NONE` | system-partner/triage observations only | Narrow Sensei dyad and unresolved ontology. Next: repeated ordinary/technical uncertainty contexts without importing future explanations. |
@@ -835,3 +839,9 @@ Routing: [V003 C001 E016 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Mika independently visits the filled-pool site by her account and guesses Nagisa sought a “Trinity traitor.” Her inference that Nagisa gave Sensei no reason/details overstates E009's recorded disclosure, though E009 withheld the suspect's identity and supporting intelligence. Sensei explicitly says they refused Nagisa's proposed search as outside the teacher role, declares alliance with students and with Mika, and receives her objection that universal alliance could mean no concrete side. Mika says she initiated Sensei's club invitation for a Trinity/Gehenna-external third party, names Shirasu Azusa as Nagisa's target, asserts Arius-branch origin and asks Sensei to protect her. Those are interested actor claims, not verified school history or guilt. An unlocated intercut has a silent named Saori cue, unknown-speaker prompts and Azusa's `今のところ、計画通り`; the plan's content/chronology and the unknown voices remain unresolved. Mika's “does she learn/is she a student?” question is a stigmatizing challenge, not a status determination. Eleven Sensei choices are singleton; the Chapter 2 card does not show the future. The V003 C001 checkpoint reconciles the full chapter: actual educational care and Nagisa's professed disposal design coexist, while culprit, legality, exam control and protection remain open. Saori is newly tracked `UNMODELED` because directly named in the intercut, not because an unknown voice can be attributed to her. Readiness is **21 `PARTIAL_MODEL` / 34 `UNMODELED` across 55**, none operational/validated, no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** is strengthened chapter-locally without a verdict. V003 C002 E001 remains unopened.
 
 Routing: [V003 C001 E017 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E017_DEEP_READING.md) → `BA:main:003:001:017`, one scene, 59 represented numbered units and eleven singleton Sensei choices. [V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md) is the canonical chapter authority. Coverage is **104 / 310**.
+
+## 75. V003 C002 E001 provisional coverage delta
+
+Mika gives a partisan account of Trinity's First Council, Arius opposition/suppression and a proposed ETO as concentrated Trinity–Gehenna armed power, counter to Nagisa's E009 neutral-peacekeeper framing; no historical records or signed treaty are inspected. Her proposed Nagisa attack on GSC/Millennium is speculation. Mika explicitly retracts the Seia-hospitalization account and alleges an unknown assailant broke Seia's halo under a public hospital cover; Seia's condition/attacker and E001 scene chronology are not independently settled. Mika admits forging Azusa's admission/roster without Nagisa to make her a symbol of Arius reconciliation, while acknowledging limited knowledge of Azusa. This supplies a background-falsification account, **not** proof Azusa consented or sabotaged the treaty. Mika differentiates Nagisa's supposed reasons for suspecting Hanako (ability/secrets/grade change), Koharu (possible Justice Realization hostage), Hifumi (Black Market/criminal-association reports) and Azusa (forged background); V001 Hifumi and E016 Hanako evidence give bounded context, not guilt or a verified Nagisa selection memo. A Justice Realization insert shows Hasumi furious at Gehenna/Pandemonium, with silent Tsurugi and Mashiro, but cuts off her declaration. Tsurugi becomes a new directly represented `UNMODELED` subject; generic members are not separate model rows. Mika reframes “traitor” variously as Azusa, anti-treaty herself or Nagisa as `リヴァイアサン`, calls her story one-sided and poses a forced choice. Sensei asks whether Mika herself is okay, then returns to the group; no bargain/protection action is shown. Thirteen singleton choices, a scene-2 narration overlay and a next-title card prevent false chronology or assent. Readiness: **21 `PARTIAL_MODEL` / 35 `UNMODELED` across 56**, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** gains heterogeneous-suspicion hypotheses without an adjudicated traitor/expulsion. C002 E002 remains unopened.
+
+Routing: [V003 C002 E001 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_E001_DEEP_READING.md) → `BA:main:003:002:001`, two scenes, 149 represented numbered units and thirteen singleton Sensei choices. Coverage is **105 / 310**.

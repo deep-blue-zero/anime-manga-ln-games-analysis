@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -896,3 +896,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Proof/paradise and accusation:** E001/E016's proof question gains an immediate epistemic test: Mika names Azusa, and an intercut confirms Azusa has a plan, while its aim remains unseen. Neither name nor “plan” proves betrayal. The Chapter 2 card defers adjudication.
 
 The V003 C001 checkpoint preserves these as chapter-local motifs, not settled full-series axioms.
+
+## V003 C002 E001 motif / callback delta — council, armed peace and symbol
+
+- **First Council/Eden Treaty replay:** Mika sees a prior unification that excluded/crushed Arius and fears a new Trinity–Gehenna force will repeat it. This reframes Nagisa's E009 ETO as contested peacekeeping/armed alliance; historical mechanism and future use are not independently shown.
+- **A student as reconciliation proof:** Mika hoped forged-in Azusa would demonstrate an Arius student can live happily in Trinity. That benevolent aspiration also makes Azusa a political symbol without shown consent and sits uneasily beside Mika's limited knowledge of Azusa's E017 plan.
+- **Monster/traitor reversibility:** Mika labels Nagisa's potential Leviathan build a betrayal while acknowledging she herself opposes the treaty and Azusa is called false-background “spy.” The word `裏切り者` shifts with political vantage; no guilt determination follows from the metaphor.
+- **Seia's “truth” under cover:** Mika says hospitalization is a cover for an attack, testing E001/E016 proof language at the level of testimony versus publicly verifiable status. The story has not established which account an independent record would support.

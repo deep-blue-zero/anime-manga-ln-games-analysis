@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -846,6 +846,16 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across
 - **Nagisa/Hifumi/Hanako/Koharu:** no direct appearance in the pool conversation/intercut (apart from Mika's references). Hifumi's own Nagisa directive, Hanako's score puzzle and Koharu's Hasumi claim remain separate.
 
 The canonical V003 C001 checkpoint reconciles these seventeen units without a traitor verdict or official second-exam outcome. Readiness: **21 `PARTIAL_MODEL` / 34 `UNMODELED` across 55**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E001 character-state delta — Mika's history and self-implication
+
+- **Mika:** narrates Arius's exclusion and fears an ETO “armed alliance,” retracts the Seia hospitalization account by alleging a halo-breaking attack, admits secretly forging Azusa's Trinity registration, and describes a hoped-for Arius reconciliation. She says her knowledge of Azusa is limited, constructs differentiated reasons Nagisa might suspect all four and calls her own account one-sided. Her candid admissions do not independently verify history, Seia's condition, institutional intent or Azusa's knowledge.
+- **Azusa/Seia:** absent as direct speakers; Mika's account newly bears on their origin/condition but cannot overwrite E017's opaque plan or E001's Seia-associated typographic scene. No betrayal, death or attacker is established.
+- **Hanako/Koharu/Hifumi:** Mika ascribes brilliance/secrets to Hanako, hostage value against Justice Realization to Koharu and Black Market/criminal contact to Hifumi. V001 and E016 provide bounded context for Hifumi/Hanako, not traitor findings or proof Nagisa has this exact rationale.
+- **Hasumi/Tsurugi/Mashiro:** a short Justice Realization insert shows Hasumi angry at Gehenna/Pandemonium Society and beginning an unfinished declaration; Tsurugi and Mashiro appear silently. Tsurugi newly tracked `UNMODELED`; motive, action and vignette timing open.
+- **Sensei:** asks clarifying questions and about Mika's welfare, hears the one-sided account, then returns to the group. No choice between Mika/Nagisa or executed Azusa protection.
+
+Readiness: **21 `PARTIAL_MODEL` / 35 `UNMODELED` across 56**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C001 E015 character-state delta — Koharu's claimed mission and Hasumi's private call
 

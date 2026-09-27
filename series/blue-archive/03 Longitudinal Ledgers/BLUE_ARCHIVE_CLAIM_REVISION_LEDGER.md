@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001 checkpoint canonical; V003 C002 E001 unopened
+current_sequential_boundary: MAIN_V003_C002_E001 active provisional; E002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1724,3 +1724,12 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global adjudication.
 
 `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md` is now the canonical chapter synthesis. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; V003 C002 E001 unopened.
+
+## V003 C002 E001 claim delta — treaty force and heterogeneous suspicions
+
+- **BA-C001/C016 — QUALIFY:** Sensei does not accept Mika's `守るか／探すか` or `ナギちゃん／私` binary, asks about Mika's welfare and returns to the group. This is attentive response, not an Azusa-protection guarantee or adjudication.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** Mika admits forging Azusa's Trinity record, gives an interested Arius-reconciliation rationale, and claims the club contains different political leverage/suspicion types. Her ETO-as-armed-alliance reading counters Nagisa's neutral-peacekeeper presentation without an inspected treaty. Hanako's prior ability, Koharu-as-hostage, Hifumi criminal link and Azusa-as-spy are distinct actor-level claims with different partial contextual tests, not four proved threats. Actual bypass, treaty force and collective expulsion remain open.
+- **BA-C008 — STRENGTHEN:** First Council/Arius history, Seia's halo allegation and Nagisa/Hasumi mental states are Mika reports or inferences; the Hasumi vignette confirms anger but not her unfinished declaration or ETO stance. Mika's “hospital” reversal concerns her own earlier account. The 13 Sensei groups are singleton and the final forced choice gets no acceptance.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia status, Azusa knowledge, Arius history, exam and protection outcome remain OPEN.

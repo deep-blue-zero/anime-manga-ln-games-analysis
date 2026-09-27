@@ -103,7 +103,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 102,BA:main:003:001:015,MAIN_V003_C001_E015,エデン条約編,第15話;正義実現委員会の副委員長（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E015_DEEP_READING.md
 103,BA:main:003:001:016,MAIN_V003_C001_E016,エデン条約編,第16話;小さな隙間,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E016_DEEP_READING.md
 104,BA:main:003:001:017,MAIN_V003_C001_E017,エデン条約編,第17話;トリニティの裏切り者,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_checkpoint_canonical,BLUE_ARCHIVE_MAIN_V003_C001_E017_DEEP_READING.md
-105,BA:main:003:002:001,MAIN_V003_C002_E001,エデン条約編,第1話;巨大な怪物,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+105,BA:main:003:002:001,MAIN_V003_C002_E001,エデン条約編,第1話;巨大な怪物,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E001_DEEP_READING.md
 106,BA:main:003:002:002,MAIN_V003_C002_E002,エデン条約編,第2話;シスターフッド,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 107,BA:main:003:002:003,MAIN_V003_C002_E003,エデン条約編,第3話;深夜の密会,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 108,BA:main:003:002:004,MAIN_V003_C002_E004,エデン条約編,第4話;水着パーティー,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

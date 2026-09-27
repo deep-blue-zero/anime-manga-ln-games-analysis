@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -698,3 +698,7 @@ Hifumi reports finding Hanako's prior-year answer sheets for all first–third-y
 ## V003 C001 E017 institutional delta and canonical checkpoint
 
 Mika says she arranged Sensei's remedial teacher invitation over Nagisa's objection because she wanted a Trinity/Gehenna-external party; that is her actor account, not an inspected delegation file. She names Azusa as Nagisa's suspected traitor and claims Arius-branch origin, a politically charged provenance not yet verified by records. She asks protection, not expulsion. Azusa's unlocated `計画通り` line shows a plan but not its content or relation to treaty security. Sensei explicitly refuses Nagisa's investigative request. The annex, club, first official failure and mock remain as previously recorded; no second official examination, procedure audit, lawful expulsion, treaty signature or student-status adjudication occurs. The V003 C001 checkpoint now governs the chapter's institution synthesis; V003 C002 is unopened.
+
+## V003 C002 E001 institutional delta — federation history, alleged cover and suspicion map
+
+Mika describes the First Council's Trinity federation, Arius dissent and violent expulsion; its minutes/location/current conditions are not inspected. She frames the proposed ETO as a Trinity–Gehenna armed alliance, contrasting Nagisa's E009 neutral peacekeeping account; no treaty text or operating force is shown. Mika alleges Seia's “hospitalization” is a cover for a halo-breaking attack, says Tea Party knows, and cannot name the culprit. She admits forging Azusa's roster/admission without Nagisa and wanted Arius reconciliation; no record audit or Azusa consent appears. Her differentiated club-selection account makes Hanako an upper-echelon secrets concern, Koharu a possible Justice Realization hostage, Hifumi a Black Market/criminal-association concern and Azusa a false-background suspect. These are Mika's claims/inferences, not a verified Nagisa selection memo or four guilty students. The Justice Realization insert shows Hasumi's anger at Gehenna but not her unfinished declaration or knowledge of Koharu's expulsion. Tsurugi appears silently for the first time; no new club rule, official exam or sanction is enacted.

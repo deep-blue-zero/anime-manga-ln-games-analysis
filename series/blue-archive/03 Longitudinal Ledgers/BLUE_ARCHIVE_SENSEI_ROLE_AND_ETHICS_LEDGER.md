@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -788,3 +788,7 @@ Hifumi privately reports to Sensei that Hanako apparently achieved perfect resul
 ## V003 C001 E017 delta and canonical checkpoint — student-side refusal
 
 Sensei tells Mika they refused Nagisa's traitor-search request because it differs from their role, making the E009 self-directed answer explicit. They claim to side with students in general and Mika in particular, then ask why Mika reveals Azusa's name. Mika says this assurance pleases her but tests whether it can mean anything when students/institutions conflict. No agreement to a particular transaction, investigative standard, physical protection, academic remedy or treaty intervention is printed. The unlocated Azusa-plan line does not make her guilty. E015's misleading Hasumi pretext remains a counterweight to a clean procedural reading of adult care. Eleven singleton choices include silence, not branching authority. The canonical V003 C001 checkpoint treats this as an **unfulfilled but explicit role commitment**, with held-out response and operational capability untested (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E001 delta — hearing a one-sided case without choosing its binary
+
+Sensei asks Mika to explain Arius/ETO, presses her Seia slip and location, asks about the claimed Azusa transfer, and finally asks whether Mika herself will be okay. Mika says she feels cared for, but the text ends with her departure and Sensei's return to the group; there is no printed assent to `アズサを守るのか、裏切り者を見つけるのか` or a protection method. Sensei's earlier student-side declaration remains ethically demanding but untested under Mika's account of forged admission and competing school fears. Private `先生（心の声）` and thirteen singleton choices do not become a public investigation or consent to Mika's historical claims. No academic intervention, treaty adjudication or Nagisa procedural challenge occurs. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

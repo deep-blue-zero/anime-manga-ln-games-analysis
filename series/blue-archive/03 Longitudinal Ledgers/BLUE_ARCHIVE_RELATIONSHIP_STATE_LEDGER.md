@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:002:001` provisionally above the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -748,3 +748,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **HIFUMI ↔ GROUP:** absent from this scene; her E012 refusal to suspect classmates and E013–E016 study work remain intact, not knowledge of Mika's disclosure.
 
 The V003 C001 checkpoint is the canonical relationship synthesis. Readiness becomes 21 partial / 34 unmodeled across 55 with Saori's new minimal row.
+
+## V003 C002 E001 relationship delta — attempted reconciliation and constrained adult
+
+- **MIKA ↔ AZUSA/ARIUS:** Mika admits secretly forging Azusa's admission as a hoped-for symbol of reconciliation, while acknowledging she knows Azusa only incompletely. Protection is requested but the student's knowledge/consent and reciprocal trust are unshown.
+- **MIKA ↔ NAGISA/SEIA:** she claims Nagisa/Seia opposed an Arius overture, fears Nagisa's ETO power, and reverses her earlier Seia hospitalization account with a halo-breaking allegation. These are Mika's relationship/political narratives; neither Seia nor Nagisa replies here.
+- **MIKA ↔ SENSEI:** she asks for trust and Azusa protection but says the account is one-sided, then poses a protect-versus-investigate binary. Sensei asks whether she will be all right, which she reads as personal concern; no formal alliance or protection bargain is accepted.
+- **HASUMI ↔ COMMITTEE:** in an insert Hasumi rages at Gehenna/Pandemonium while Tsurugi/Mashiro and generic members are present. The interrupted declaration and unknown occasion prevent a durable treaty-position or Koharu-hostage inference. Tsurugi now has a direct silent appearance, not a relational model.
