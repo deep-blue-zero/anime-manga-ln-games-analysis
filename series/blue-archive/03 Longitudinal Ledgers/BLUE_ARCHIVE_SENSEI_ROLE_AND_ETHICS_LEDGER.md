@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -816,3 +816,7 @@ Sensei accepts Hasumi's request that Schale and the remedial group intervene in 
 ## V003 C002 E007 delta — neutral-looking handoff and specific protection promise
 
 Sensei accepts Hasumi's request to convey three captured Gourmet students and Fuuka to Gehenna through Schale, reducing the appearance of a Justice–Prefect conflict. Hina confirms Gehenna similarly presents Emergency Medicine as the arriving body. This is a concrete intermediary action, but the political labels do not alone certify neutrality or a valid custody process. Sensei briefs Hina on present circumstances and prospects; the narrator summarizes rather than printing the contents. Hina's responses show she heard “Trinity traitor” and an armed-alliance framing, but not that every Mika/Nagisa/Seia detail was given. Sensei directly says they trust Hina, who calls such trust a flaw without explanation. Hina's departing question `補習授業部のことは、先生が守るのよね` gets Sensei's `うん`. This explicitly renews the protection commitment after E017 and E006 safety-first, with no shown method for averting collective expulsion or resolving competing students' interests. Two branch-looking choices in scene 3 converge, and the rest are singleton; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E008 delta — educational hope and reiterated refusal
+
+Sensei joins the third club mock's start/result ceremony and gives simple encouragement as all four receive local passes. The narrator, not Sensei, marks 69/73/61/75; Hifumi leads the mock and reward. This is evidence of continued teacher support, not a controlled teaching-effect finding or proof of official second-exam success. When Nagisa asks who the supposed Trinity traitor is, Sensei's singleton choice says `前と同じになるけど、私は私のやり方で対処するよ`. It carries forward E017's refusal of her suspect hunt and E007's club-protection commitment without naming a student, certifying innocence, disclosing Mika's talk or specifying a lawful academic remedy. Nagisa then asks about Mika; no reply appears. The pressure remains live at the official-exam eve. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

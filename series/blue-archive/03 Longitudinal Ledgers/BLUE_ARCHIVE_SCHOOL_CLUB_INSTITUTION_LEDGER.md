@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -726,3 +726,7 @@ Ichika's phone call says Tsurugi has already rushed out and other Justice Realiz
 ## V003 C002 E007 institutional delta — mediated custody and contested ETO governance
 
 Haruna/Junko/Akari speak as caught while Fuuka is with them; Izumi remains lost near the Trinity border. Hasumi says the incident is contained and would normally be disposed by Justice Realization but proposes Gehenna Prefect jurisdiction for political timing. She asks Sensei/Schale to make the actual handoff, a mediator presentation rather than documented neutral authority. At the bridge Sena cites a three-injured/one-hostage delivery list, introduces Gehenna Emergency Medicine leadership, and confirms loading; Hina says its arrival—not the Prefect Team's—is the public story, with her mere accompaniment. No death, medical diagnosis, custody file, signed agreement or eventual sanction appears. Hina says ETO authority would be split between Nagisa, Makoto and other Tea Party/Pandemonium members, not Nagisa alone, and that she promoted Gehenna's treaty for possible order/retirement. These are actor institutional claims, not reviewed charter/vote rules or implemented ETO. Hina worries about Schale neutrality and asks Sensei to protect the remedial club, receiving yes; the grade/expulsion procedure and official second exam remain untouched. Sena is new direct `UNMODELED`; Juri is mention only.
+
+## V003 C002 E008 institutional delta — mock pass is not the sanction gate
+
+The club's third **internal mock** is narrator-marked 69/73/61/75, four passes under its stated local standard. Azusa says two days remain to the second `特別学力試験`, and after a time skip Hifumi says that official examination is tomorrow. The different mock papers are not controlled measures, and no official second sitting, simultaneous-pass certification, grade-bar lift, expelled-student outcome or Nagisa rule change occurs. Hifumi's present forecast is not a formal school result. Nagisa says the camp was arranged to observe the students, then directly asks Sensei for a supposed Trinity traitor; this corroborates the continuing suspect-selection purpose as her account, not a lawful investigation record. Sensei reiterates an independent approach; Nagisa asks about Mika but receives no printed response. The live educational benefit and punitive design coexist without adjudication.

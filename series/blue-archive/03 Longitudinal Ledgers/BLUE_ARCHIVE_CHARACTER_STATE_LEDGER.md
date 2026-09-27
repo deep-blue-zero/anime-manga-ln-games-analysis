@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -983,3 +983,13 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across
 - **Koharu/Azusa/Hanako/Hifumi:** Koharu delights in first Hasumi co-fight and feeling useful, Azusa says the day was fun, Hanako reiterates effort, Hifumi calls for sleep/study. No official exam or secret-disclosure update.
 
 Readiness **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Juri mentioned only, not added.
+
+## V003 C002 E008 character-state delta — mock success before Nagisa's return
+
+- **Azusa:** reports pre-dawn study and repeated predicted questions, scores 73/pass on the third club mock, and calls Hifumi's Peroro Doctor her first present from a friend. Her excited lifelong-keeping pledge is a present sentiment, not a verified future outcome; E017 plan remains unknown.
+- **Hifumi:** leads the third mock and promised prize ceremony, marks the four-pass result as reason for hope while urging one more careful study day. She recommends the studious Peroro Doctor to Azusa, gives credit to Azusa's own effort, and tells Hanako she still does not know her hidden burden. Label conflicts around Koharu/Hanako praise and apology limit fine-grained voice attribution.
+- **Koharu/Hanako:** Koharu scores 61/pass on the mock and celebrates an elite self-image without official grade-bar relief. Hanako scores 69/pass, calls it luck and accepts Hifumi's care, without revealing why she previously suppressed scores.
+- **Sensei:** helps announce the mock and later reiterates to Nagisa that they will deal with the alleged traitor issue in their own way. This renews refusal of her selection task, not a named suspect or implemented protection.
+- **Nagisa:** reframes camp as a way to observe students, asks Sensei for a culprit judgment and whether Mika contacted them. No evidence of surveillance, response to her final question or altered sanction mechanism is shown.
+
+Readiness remains **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The 69/73/61/75 passes belong to the **third club mock**, not the official second special examination.

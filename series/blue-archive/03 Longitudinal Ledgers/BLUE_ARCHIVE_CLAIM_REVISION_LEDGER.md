@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E007 active provisional; E008 unopened
+current_sequential_boundary: MAIN_V003_C002_E008 active provisional; E009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1787,3 +1787,12 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 Sena enters `UNMODELED`; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; treaty charter, actual club protection, Gehenna custody and official exam remain OPEN.
+
+## V003 C002 E008 claim delta — hopeful mock versus coercive observation
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei repeats to Nagisa that they will address the matter in their own way rather than name a traitor. The renewed boundary follows the E017 refusal and E007 protection promise, but no protective instrument, examination authority or outcome appears.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN tension:** narrator-marked third **club mock** scores 69/73/61/75 give all four local passes; Hifumi's official-pass forecast remains prospective because the second **special academic examination** is tomorrow, not completed. Nagisa explicitly describes camp as a student-observation device and asks for a traitor, preserving the punitive/suspect design alongside actual learning and Azusa–Hifumi friendship. Neither four mock passes nor Nagisa's demand identifies guilt or validates expulsion/bypass.
+- **BA-C008 — STRENGTHEN:** narrator scores, Azusa's friendship self-report, Hifumi's forecast, Hanako's “luck” framing, label conflicts near `u:0012/0033/0037/0044`, inward Nagisa `u:0098` and her direct `u:0099` question have different evidence status. No response or Mika-talk disclosure can be inferred from the title card.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official second result, Hanako's motive and Nagisa's evidence/authority remain OPEN.

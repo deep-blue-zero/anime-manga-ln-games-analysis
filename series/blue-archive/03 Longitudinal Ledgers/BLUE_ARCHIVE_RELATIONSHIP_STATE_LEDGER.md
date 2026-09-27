@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -803,3 +803,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **KOHARU ↔ HASUMI/GROUP:** Hasumi thanks the group and Koharu savors first combat beside her, feeling useful. This deepens belonging despite her formal grade bar. Hanako gently returns her to academic effort; no reinstatement or official pass.
 - **GOURMET RESEARCH ↔ GEHENNA AUTHORITY:** Haruna/Junko/Akari expect/undergo transfer; Hina postpones Haruna's explanation, Akari asks Sena for an arm exam, and Fuuka is relieved. Izumi absent, no full reconciliation or medical outcome.
 - **SENA ↔ HINA:** Hina identifies Sena's Emergency Medicine role as less politically exposed, Sena calls Hina Prefect chair and focuses on loading/injury language. One professional encounter, no private breadth; Sena new `UNMODELED`.
+
+## V003 C002 E008 relationship delta — self-named friendship and renewed pressure
+
+- **AZUSA ↔ HIFUMI:** Azusa accepts Hifumi's choice of Peroro Doctor, thanks her and explicitly calls it the first present she has received from a friend. Hifumi credits Azusa's work and is pleased, although surprised by the intensity of Azusa's vow. This is a direct current friendship appraisal, not evidence of lifelong gift retention or an explanation of E017's plan.
+- **HIFUMI ↔ HANAKO:** Hifumi is relieved by Hanako's 69-point mock and says she still does not know Hanako's prior burden; Hanako thanks her in a label-unstable exchange. Care is clear, but intimacy does not equal motive disclosure.
+- **REMEDIAL GROUP ↔ SENSEI:** all four celebrate mock passes and resume study, with Sensei announcing results/encouraging. The prospective official examination and collective-sanction threat remain separate from club morale.
+- **NAGISA ↔ SENSEI/MIKA:** Nagisa again solicits a traitor judgment; Sensei maintains their own-method boundary. She asks about Mika's contact, but no answer, disclosure or changed alliance is shown. Nagisa's possible knowledge source is unknown.

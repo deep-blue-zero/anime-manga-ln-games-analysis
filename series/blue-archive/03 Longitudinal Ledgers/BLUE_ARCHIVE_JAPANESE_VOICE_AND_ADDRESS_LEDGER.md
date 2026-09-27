@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1199,3 +1199,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hina's `中立的な組織だったはず` is a neutrality concern, not a legal finding. Sensei's detailed explanation at `scene:003:u:0040` is narrator-summarized, not printed speech. Choice `010` alternatives both deny an unidentified odd scene; choice `011` alternatives converge on duplicate Hina `u:0048-0049`. Do not infer two independent confirmations or reconstruct the odd scene.
 - Hina's `少なくとも私はそうは思わない` and `私はそう考えてる` explicitly mark her peace-treaty reading as position. `ナギサが単身で統制`, `同様の権限` and `分割` form her structural claim; `理論的にはあり得る` leaves collusive abuse open. `多分、何も考えてない` about Makoto is a guess. `引退するのもアリかな` is possibility, not resignation.
 - Hina's `補習授業部のことは、先生が守るのよね` receives Sensei's singleton `うん`, a direct specific protection promise. `scene:003:u:0084` is a title card. Scene 3 has nineteen choice groups, two with alternatives; scene 2 has three singletons.
+
+## V003 C002 E008 delta — mock register, first-friend gift and renewed inquiry
+
+- `第3次補習授業部模試` at `u:0014/0022` is the **third club mock**, while `第2次特別学力試験` at `u:0007/0081` is the approaching **second official special exam**. Shared `次` numbering must not collapse the institutions. Narrator `合格` marks mock scores 69/73/61/75; Hifumi's `合格できるはず` is her forecast of the future official sitting.
+- `u:0012` is Koharu-labelled but unusually polite with `♡`, `u:0033` Koharu-labelled praise names “Koharu-chan,” `u:0037` Hanako-labelled praise names “Hanako-chan,” and `u:0044` Hifumi-labelled apology follows Hanako's response. These are attribution cautions, not license to auto-correct all names. Scores and the broader encouragement exchange remain clear.
+- Azusa's `友達からもらった初めてのプレゼント` names Hifumi as a friend from Azusa's own perspective; `一生大切にする` is a vow, not verified duration. Her repeated `カバ` and Hifumi's `鳥` correction form affectionate hobby comedy, not a real animal-classification claim.
+- Nagisa's `裏切り者` question is direct at `u:0095`; Sensei's singleton `私は私のやり方で対処する` at choice `006` refuses her requested method without naming a target. Nagisa `u:0098` is inward-marked, whereas `u:0099` directly asks about Mika; no answer follows. Six choice groups are singleton; `u:0100` is a title card.

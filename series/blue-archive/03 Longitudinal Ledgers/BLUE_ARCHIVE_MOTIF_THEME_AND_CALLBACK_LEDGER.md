@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -949,3 +949,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Treaty as distributed power:** Hina's equal Makoto/other-leader ETO control answers Mika's Leviathan fear with an institutional veto story. Both are actor models; the text has not supplied a charter, and Hina admits hypothetical collective collusion.
 - **Adult trust and burden:** Sensei's trust disarms Hina while she calls it a flaw; her exit question elicits a specific promise to protect the four. The promise raises, rather than settles, the still-hidden expulsion mechanism.
 - **Ordinary worth after conflict:** Koharu's joy at useful action with Hasumi and Azusa's “fun” echo E004's club-life value, while Hifumi/Hanako turn back toward sleep and exam work.
+
+## V003 C002 E008 motif / callback delta — local hope under a watchful design
+
+- **Third mock versus second official exam:** E013 and C002 E002 established club diagnostics; narrator now marks all four passing 69/73/61/75. Repeated tests make effort and encouragement visible, but differing papers and the still-future official sitting keep hopeful trajectory separate from a legally decisive group pass.
+- **Chosen gift as belonging:** E013's promised Momo Friends incentive becomes Hifumi's actual Peroro Doctor gift. Azusa calls it her first gift from a friend, extending E004's ordinary-life delight into a self-named relationship without closing her hidden plan.
+- **Observation as double use:** Camp lets Hifumi/Sensei support real study and friendship while Nagisa says it was arranged to observe possible traitors. The same shared time therefore bears care and surveillance functions; Nagisa's final question turns the reward's warmth back into institutional pressure.
+- **Tomorrow and the title-card cut:** Hifumi asks for one more day's effort, then Nagisa presses Sensei before the official exam. The forward `黒い手` card identifies no actor or outcome within E008.
