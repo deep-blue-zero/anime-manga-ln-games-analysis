@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E005 active provisional; C004 E006 unopened
+current_sequential_boundary: MAIN_V003_C004_E006 active provisional; C004 E007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2180,3 +2180,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, model, frozen prediction or side-source admission. Golconda and Decalcomania add two narrow label-present `UNMODELED` subjects, identity relation open: **21 partial / 64 unmodeled across 85**; backfill **DEFER**. E001 firing outcome, Squad-task delivery and Mika–Seia repair remain unshown; C004 E006 unopened.
+
+## V003 C004 E006 claim delta — health crisis and unknown-source meeting
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika and Seia meet privately, but Seia's crisis interrupts repair. Her audible `君のせいではない` corrects her own immediate accusation; no full mutual apology or hearing follows.
+- **BA-C001/C016 — QUALIFY:** Sensei feels an uncertain Seia voice, follows an unknown-origin email and encounters Saori. No attack, sender identity or successful warning is demonstrated.
+- **BA-C008 — STRENGTHEN:** direct Mika/Justice help-call and Seia symptoms contrast with crosscut Beatrice/basilica perception; Seia's altar/apocalypse link remains inference. Duplicate scene 2 narration is one arrival description.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. E001 firing outcome, Squad-task delivery and tomorrow's hearing remain open; C004 E007 unopened.

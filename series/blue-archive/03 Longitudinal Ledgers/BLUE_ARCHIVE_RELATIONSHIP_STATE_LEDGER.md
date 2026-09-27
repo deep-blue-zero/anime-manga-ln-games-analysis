@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1123,3 +1123,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **BEATRICE ↔ MIKA:** she credits Mika's Arius visit and Trinity invitation as inspirations; this is Beatrice's use of Mika's actions, not proof Mika understood her agenda.
 - **MIKA ↔ SEIA:** Mika arrives and says hello; a Mika-tagged `……ミカ` next turn is suspect. The requested reunion starts at a greeting but no apology or private conversation is printed.
 - **SEIA ↔ SENSEI:** Seia inwardly fears for Sensei after the claimed Squad task and wants to warn someone, but physical communication is not shown.
+
+## V003 C004 E006 relationship delta — meeting starts under illness
+
+- **MIKA ↔ SEIA:** Mika arrives for the requested private talk, notices Seia's shaking, asks for help and stays distressed. Seia audibly says Mika is not to blame for the present crisis. No substantive apology, reciprocal forgiveness or durable repair is printed.
+- **SEIA ↔ BEATRICE:** Beatrice directly addresses Seia as an eavesdropper within a basilica perception/dream crosscut. Reciprocal contact is stronger than E005's passive overhearing, but physical location and mechanism remain unaudited.
+- **SEIA ↔ SENSEI:** she calls for Sensei to flee; Sensei later inwardly thinks they may have heard her. This is suggestive crosscut, not certain transmission or comprehension.
+- **SENSEI ↔ SAORI:** Sensei sees Saori in an empty-feeling town reached from an anonymous email; Saori is silent. Meeting intent and Beatrice-task compliance remain open.

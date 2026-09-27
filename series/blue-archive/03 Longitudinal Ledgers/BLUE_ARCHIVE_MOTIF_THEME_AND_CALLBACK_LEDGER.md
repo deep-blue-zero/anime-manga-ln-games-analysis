@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1280,3 +1280,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Hatred as instrument:** Beatrice inwardly says Arius hatred controls children, Treaty provides access to guardian power and Squad is disposable; this darkens Atsuko's C003 claim that hatred was taught, without proving every causal step.
 - **Adult antagonist:** Black Suit/Maestro imagine Sensei as possible ally, Beatrice as required elimination. The opposed “meanings” of Sensei echo previous asymmetric-power conflict rather than one unified Gematria will.
 - **Near meeting interrupted by distant threat:** Seia plans Mika repair, then emerges ill from a dream meeting with a claimed danger to Sensei; Mika arrives at the cliff. Presence is not apology or reconciliation.
+
+## V003 C004 E006 motif / callback delta — broken wing and interrupted apology
+
+- **Near care against remote dread:** Mika comes for private repair and immediately tends to visibly failing Seia, while Seia's perception is pulled to the distant Arius altar. Proximity does not guarantee communicative availability.
+- **Causal blame checked:** Seia's fear initially lands on Mika bringing Sensei, then she explicitly retracts blame and calls the crisis her own failure. This limits the simple “Mika caused everything” narrative without settling the prior harm.
+- **Warning across uncertain channels:** Seia's plea to Sensei and Sensei's faint impression of her voice mirror the dream/reality boundary; no reliable message delivery is yet shown.
+- **Altar/wing:** Beatrice's sanctuary and Seia's fear of summoning connect visually to the catastrophe vision, but the ritual function is still her inference; the title cannot certify a literal broken wing or outcome.

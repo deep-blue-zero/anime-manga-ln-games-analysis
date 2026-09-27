@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E006 character-state delta — interrupted meeting and uncertain warning
+
+- **Seia:** directly meets Mika, coughs/shakes and loses responsiveness, perceives Beatrice/basilica in a dream-linked crosscut, then audibly says the crisis is her own fault and Mika is not to blame. She tries to warn Sensei of danger; delivery is uncertain. No diagnosis, altar mechanism or recovery. `UNMODELED`.
+- **Mika:** arrives promptly for private talk, notices Seia's illness, calls Justice help and expresses distress. She hears Seia's direct correction, but no full apology/forgiveness conversation follows. `UNMODELED`.
+- **Beatrice:** addresses Seia in the apparent basilica as an eavesdropper and claims other Gematria have not visited; stronger reciprocal dream-contact evidence, not a physical-travel or completed-ritual audit. `UNMODELED`.
+- **Sensei/Saori:** Sensei follows an unknown-origin email to a deserted-feeling town, uncertainly hears Seia and sees silent Saori. Neither ambush, motive nor outcome is shown. Sensei `PARTIAL_MODEL`; Saori `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E005 character-state delta — dream-intrusion and coercion claims
 

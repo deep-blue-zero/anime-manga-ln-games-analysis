@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1518,3 +1518,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `ゴルコンダ` and italic `デカルコマニー` enter as distinct labels at `u:0010-0011`; repeated `そういうこった！` is Decalcomania's tag in this source. `u:0044` is Golconda-tagged but thanks “Decalcomania … no, Golconda,” so do not infer a settled identity relationship or clean voice ownership from that turn.
 - `u:0048` is Black-Suit-tagged yet thanks Black Suit for a defense system; this cannot be a secure Black Suit self-report. `u:0102` is Mika-tagged `……ミカ。` after Mika greets Seia, likely an inverted reply, but precise speaker remains quarantined.
 - Beatrice's italic `u:0052-0055` is inward exposition within Seia's dream-witness sequence, not heard by Mika or Sensei. Seia's `関係があるとしたら` at `u:0094` is conditional synthesis. No Sensei choices; `u:0103` is E006 title only.
+
+## V003 C004 E006 delta — audible correction versus inward retraction
+
+- Seia's first `君のせいではない` at `scene:001:u:0021` is italic/inward; her later `君のせいではない。これは……私が招いた失敗` at `u:0051` is direct speech to Mika. Do not treat the earlier retraction as already communicated.
+- Beatrice's basilica address to Seia (`u:0032-0035`) appears in a crosscut after Seia's consciousness falters; Mika/Justice lines (`u:0037-0039`) remain local bedside speech. The layout supports linked perspective, not an unmarked physical transfer.
+- Scene 2 `u:0003-0004` duplicates the same unknown-origin-email narration. Sensei's Seia-voice thought is explicitly uncertain; Saori speaks only `……`. No Sensei choices; `u:0008` is E007 title only.

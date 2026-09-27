@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–006; BA:main:003:004:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -899,3 +899,7 @@ Seia asks a Tea Party administrator to fetch Mika for private conversation; the 
 ## V003 C004 E005 institutional delta — Arius-control claims in a dream frame
 
 Within Seia's apparent lucid-dream witness scene, Beatrice claims Arius territory, extensive control of students, exploitation of hate, Treaty/guardian power, borrowed mimesis/technology/text, an altar and a Squad kill-for-reprieve task against Sensei. Golconda and Black Suit echo some territory/Abydos context but do not inspect governance, ritual or command delivery. Maestro disputes use of his copies; Black Suit says no collective veto, not that all members endorse killing Sensei. Two label-present subjects, Golconda and Decalcomania, are tracked narrowly without resolving their identity relation. Mika reaches Seia's room for a greeting only; tomorrow's hearing and E001 firing result remain open.
+
+## V003 C004 E006 institutional delta — bedside help and claimed hidden sanctuary
+
+Mika says a Justice member normally watches her and waited outside for the private talk; during Seia's visible collapse Mika calls for help and a Justice member says they will fetch someone. No medic arrives or clinical outcome is shown. The crosscut Beatrice calls the place Arius basilica/sanctuary and says other Gematria members have not visited, but neither physical site nor access control is inspected from outside Seia's impaired perception. Sensei independently follows an email with unknown sender into an isolated town and sees Saori. There is no verified institutional summons, hearing, adjudication, Squad order delivery or casualty report.
