@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -998,3 +998,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **`Vanitas` qualified:** Azusa explicitly pairs emptiness with doing one's best today and continuing resistance. Hanako adopts that extension and moves from exit to action. E013's command recitation was therefore incomplete as a full value model.
 - **The exam and the assassination converge:** 9 a.m. is both the announced exam and Arius operation start; a reported document-protection perimeter may make the exam unreachable. Hanako's two-part rescue/pass answer refuses the forced choice, but remains only a proposal.
 - **Teasing and correction:** Hanako retells club chores/outing with scandalous exaggeration; friends correct the facts while the underlying enjoyment remains. This is a callback to C001 cleaning and C002 ordinary-life dialogue, not an unobserved naked event.
+## V003 C002 E015 motif / callback delta — the “traitor” who attacks the attackers
+
+- **A mask inside a mask:** Hanako acts out Nagisa's two-traitor story, invents a commander and plants a hurtful friendship line. Azusa is indeed a false-paper Arius infiltrator, but overtly attacks Arius for exam time. The same label now marks opposed allegiances; a single suspicion box is inadequate.
+- **Protection by incapacitation:** E014's proposed defense of Nagisa becomes Azusa's reported close-range full-magazine volley and missing target. The text refuses an easy equation of protective intention with harmless means. Medical and custody consequences remain open.
+- **Information as battlefield:** Hanako hopes to feed an unnamed “real traitor” false information, while Arius cites unnamed information that Justice will not move. These mirrored opaque channels create tension without identifying a culprit or proving either channel works.
+- **Preparation recontextualized:** E003/E004 night absences and traps now have Azusa's claimed trenches/guerrilla-delay purpose. The Marie false positive persists as a cost of defensive secrecy, not an erased mistake.
+- **Exam time as constraint:** Azusa says she needs to finish fighting to take the exam, preserving the E014 double objective. No exam access, marks or fulfilled reunion appear.

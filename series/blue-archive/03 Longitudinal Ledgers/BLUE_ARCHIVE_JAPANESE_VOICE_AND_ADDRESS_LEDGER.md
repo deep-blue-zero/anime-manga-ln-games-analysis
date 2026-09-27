@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1248,3 +1248,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hanako's “that person” memory voices at `u:0136-0144` include a named `浦和ハナコ` near-appointment claim and anonymous `？？？` self-negation; Seia's `寂しくはないかい` appears in the narrated retrospective, not current-room dialogue. Hanako's `試験をわざと台無しにして` supplies a personal-motive explanation, with external particulars unverified.
 - Azusa's `全ては虚しい` gains the qualifying maxim `今日最善を尽くさない理由にはならない` and `抵抗し続ける`. Hanako's eroticized pool/walk/naked callback is explicitly corrected by Azusa/Hifumi/Koharu; it is a teasing register, not literal clothing evidence.
 - Sensei choices 001-004 are singleton. `u:0101-0103` and `u:0200` are `心の声`; Hanako can respond to the audible `choice:003` without hearing the inward list. `半日で転覆` is joking grandiosity immediately narrowed to taking/passing the exam. `u:0201` is next-title only.
+## V003 C002 E015 delta — feigned command and disputed information
+
+- Hanako's `合計87個のセーフハウス`/rotation and “guards handled” are her assertions to Nagisa. `動くな` is a direct threat/command, unlike her preceding flirtatious register. Nagisa's `悪い事をしたかもしれません` concedes possible harm to Hifumi while `後悔はしていません` explicitly retains greater-cause justification.
+- `指揮官は別にいます` and the quoted `お友達ごっこ` message are part of Hanako's deception; `u:0047-0049` identifies the latter as her own Hifumi-related retaliation. Do not assign Hifumi direct authorship or treat Nagisa's startled inference as a solved traitor identity.
+- Azusa's `目標を確保` and one-hour `はず` accompany her statement that a full 5.56 mm magazine hit at close range. The duration is an estimate, not a doctor/narrator finding. `正義実現委員会に報告は届いてる` is a warning claim; `（ピッ）` does not identify a recipient.
+- Hanako marks `私の推測通りなら`, `証拠は無い` and `個人的にはほぼ確信` about the “real traitor.” Arius-side `あの情報`/`情報が正しければ` similarly indicate claimed information, not proven leak provenance. The generic student A/commander turn sequence around `u:0075-0077` does not license a stable single speaker for the bluff judgment.
+- Azusa's italicized radio-style lines at `u:0068-0072` still give her clear opposition to Arius and urgency about the exam; they do not prove injury counts or official Justice action. No Sensei choice; `u:0079` is a forward title only.

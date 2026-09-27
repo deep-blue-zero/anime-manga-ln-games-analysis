@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1050,5 +1050,14 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across
 - **Hifumi/Koharu:** are shocked by the reported cordon and Azusa's confession. Koharu proposes explaining to Hasumi; Hanako cautions that such help could cost Hasumi her role, unproven as a rule. Hifumi suggests outside help and responds to the temporal collision. Neither rejects Azusa in a printed final verdict. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
 - **Sensei:** hears the confession, directly rejects Azusa's sole-blame claim and names distrust as an original cause. Subsequent trust counterfactuals are inward. Final effort line is inward, not a field order. `PARTIAL_MODEL`.
 - **Saori/Mika/Nagisa/Seia/Hasumi:** none speaks in the present scene. Azusa reports Saori's imminent Arius strike but guesses the details of Mika's recruitment; Hanako infers possible Mika scapegoating and Hasumi sanction. Seia speaks only in Hanako's retrospective portrayal. No new directly witnessed official action.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E015 character-state delta — operational opposition
+
+- **Azusa:** reports firing a full close-range 5.56 mm magazine into Nagisa and estimates one hour of unconsciousness; no medical assessment/awakening is shown. She says her longtime nightly preparations include traps/trenches around school, and ambushes Arius team IV while claiming to have secured the target and prioritizing the exam. This confirms overt opposition to Arius, not safe/noninjurious protection or complete victory. `UNMODELED`.
+- **Hanako:** directly reaches Nagisa's safehouse, claims broad safehouse intelligence/guard clearance, pressures her over Hifumi/Koharu and falsely implies a separate commander/Hifumi “friendship game” message. Later she acknowledges personal retaliation and expects eventual correction, neither making it harmless nor showing repair. She suspects an unidentified “real traitor” and plans false-information bait but explicitly lacks firm evidence. `UNMODELED`.
+- **Nagisa:** is startled by Hanako and admits she may have wronged Hifumi yet does not regret action for a greater cause. After Azusa's reported volley she is absent when Arius reaches the safehouse; medical status/location unverified. `UNMODELED`.
+- **Arius generic students/commander:** teams IV/V/VI/VIII report readiness; a commander launches, seeks the missing target and continues despite Azusa's warning. No new individual named subject; team IV's reported ambush gives no clinical outcome.
+- **Sensei/Hifumi/Koharu/Hasumi:** no present dialogue. Hifumi is used in Hanako's false message and grievance, not shown commanding the operation. Justice notification is Azusa's claim, not a visible Hasumi response.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

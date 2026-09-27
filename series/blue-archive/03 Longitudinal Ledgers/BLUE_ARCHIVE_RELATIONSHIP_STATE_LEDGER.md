@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -851,3 +851,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **HANAKO ↔ AZUSA/CLUB:** Hanako's painful interrogation gives way to empathy through a self-identifying account of elite pressure and attempted departure. Her specific inference that Azusa stayed for shared ordinary joy is tentatively accepted by Azusa. Hanako now asks the group to let her devise a way to defend Nagisa and pass together; no tactic or unanimous operational commitment is yet printed.
 - **KOHARU ↔ HASUMI/JUSTICE:** Koharu wants to explain; Hanako argues Hasumi might lack context and incur expulsion for helping. This is fear for a mentor/committee bond, not a confirmed Hasumi refusal or rule.
 - **MIKA ↔ ARIUS/NAGISA:** Azusa says Arius deceived Mika but lacks details; Hanako posits future blame-shifting. Mika's own E001 forged-admission and reconciliation account remains distinct and unadjudicated.
+## V003 C002 E015 relationship delta — coercive performance and active defection
+
+- **HANAKO ↔ NAGISA:** Hanako reaches Nagisa's refuge, commands her to stay still and confronts her over Hifumi/Koharu. Nagisa admits she may have hurt Hifumi yet refuses regret. Hanako's staged Hifumi-friendship message deliberately shocks her; promised later clarification is not observed. This is adversarial pressure, not reconciled dialogue.
+- **AZUSA ↔ NAGISA:** Azusa says she secured Nagisa through close-range full-magazine fire and expects temporary unconsciousness. Protective strategic aim and serious direct violence coexist; no healing, consent or safe custody is shown.
+- **AZUSA ↔ ARIUS:** Arius commander expects its “spy,” then team IV reports her betrayal and ambush. Azusa says she took their target and needs to reach the exam. This is observed active defection from Arius's immediate mission, not proof she defeated the force.
+- **HANAKO ↔ AZUSA:** Hanako assigns diversion; Azusa reports old traps/trenches and accepts a later regrouping point. Their co-plan is underway but the future rendezvous and “real traitor” hypothesis remain untested.
+- **HIFUMI ↔ NAGISA:** Hifumi is absent. Nagisa's conditional remorse is spoken to Hanako; Hanako's false message cannot be imputed to Hifumi or treated as a relationship-ending statement.

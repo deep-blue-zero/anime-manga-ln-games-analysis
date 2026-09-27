@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E014 active provisional; E015 unopened
+current_sequential_boundary: MAIN_V003_C002_E015 active provisional; E016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1848,3 +1848,11 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; cordon, Hasumi knowledge, Mika position, operative plan, Nagisa safety and third exam remain OPEN.
+## V003 C002 E015 claim delta — counterattack with unresolved cost
+
+- **BA-C001/C016 — PRESSURE:** Hanako's defense of Hifumi uses a deliberately hurtful false commander message, and Azusa's intended “protection” entails reported full-magazine close-range fire on Nagisa. An ethical rescue finding requires the unshown medical/safety result and proportionate alternatives; no Sensei sanction appears.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Arius teams begin their operation; Azusa openly acts against them and Arius finds the target missing. Her claimed traps/trenches now supply purpose for earlier night activity, but E004's benign-visitor false positive remains. Hanako's “real traitor” idea is explicitly a nearly certain personal hypothesis **without firm proof**; neither her proposed disinformation effect nor Arius's claim that Justice cannot move identifies a leaker or proves institutional capture. Nagisa concedes possible wrong to Hifumi yet defends the greater cause. The third exam and actual expulsion remain unshown.
+- **BA-C008 — STRENGTHEN:** Hanako's 87-safehouse count/guard-clearance and Azusa's one-hour unconscious estimate, Justice alert and force-duration claim are actor reports. Arius team's search/ambush reports and Nagisa's prior spoken reaction have narrower direct support. No narrator medical finding, leak channel or Justice dispatch is printed.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa's condition, Arius outcome, Justice response, suspected traitor and exam remain OPEN.
