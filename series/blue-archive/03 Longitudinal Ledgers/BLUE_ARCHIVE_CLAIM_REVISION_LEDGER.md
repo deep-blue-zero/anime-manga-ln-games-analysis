@@ -4,14 +4,14 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:002:002:025 and canonical MAIN_V002_C002 checkpoint; BA:main:003:001:001 unopened
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V002_C002 checkpoint canonical; V003 C001 E001 unopened
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+current_sequential_boundary: MAIN_V004_C001 checkpoint canonical; V004 C002 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -1553,3 +1553,907 @@ No new claim ID, standalone model, frozen prediction or side-source admission. R
 - **BA-C012–C015/C017–C018 — NO DIRECT GLOBAL TEST.**
 
 No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Complete-arc contextual side-source backfill decision: **DEFER**, pending a verified route and specific question. V003 C001 E001 remains unopened.
+
+## V003 C001 E001 claim delta — trust, proof and a speaker's forecast
+
+- **BA-C001/C016:** Seia asks Sensei to witness unpleasant truth; no response or actual intervention tests responsible attention yet.
+- **BA-C002–C004/C007/C010–C011:** treaty “duty” is her normative appeal, not an independently shown Schale power or institutional treaty outcome.
+- **BA-C008:** zero choices and italic Seia passage bar Sensei persona and audible-dialogue inference.
+- **BA-C019/C020:** paradise/treaty analogy does not retest Pavane creative value or Alice's function/identity; preserve separate claims.
+- **Other families:** no direct global test.
+
+No new claim ID on one monologue, standalone model, frozen prediction or side-source admission. Seia's treaty-nullity assessment, paradise interpretation and president-intent sarcasm are not objective findings. Backfill remains **DEFER**.
+
+## V003 C001 E002 claim delta — educational help before the political explanation
+
+- **BA-C001/C016:** Hifumi proposes collective problem-solving and Sensei offers bounded effort; no result or fully voluntary institutional process yet.
+- **BA-C002–C004/C007/C010–C011:** Koharu's teacher blame is challenged, not established. Nagisa's Tea Party introduction does not yet define Schale's treaty role.
+- **BA-C008:** three singleton choices, role-label flips and a future-to-past cut prohibit composite speech and knowledge leakage.
+- **BA-C019/C020:** no direct Pavane test; new Trinity school/peace setting must earn its own claim evidence.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Expulsion rule/timetable and Tea Party purpose remain OPEN; backfill **DEFER**.
+
+## V003 C001 E003 claim delta — conditional pedagogy and classified treaty
+
+- **BA-C001/C016:** Sensei's `私にできることであれば` accepts a bounded teaching assignment; no educational outcome or demonstrated authority to avert expulsion.
+- **BA-C002–C004/C007/C010–C011:** Nagisa proposes exceptional Schale authority and a special club, not a proved lawful/routine rule. Her “not very related” treaty claim is in tension with Mika's workload rationale, not yet a contradiction of fact.
+- **BA-C008:** `u:0002` voice/label conflict, `choice:008`/`010` alternatives, inward reactions and exact duplicates `u:0071-0072`/`0088-0089` bar composite persona or inflated decision counts.
+- **BA-C019/C020:** no direct Pavane test; Nagisa's “students needing love” correction and Mika's nuisance language pose a new dignity-versus-delegation question, not its resolution.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Treaty text/status, roster causes, temporary-club process, Seia's condition and tutoring results remain OPEN; backfill **DEFER**.
+
+## V003 C001 E004 claim delta — student agency under remedial and disciplinary pressure
+
+- **BA-C001/C016:** Hifumi's confessed exam skip and reluctant, reciprocity-framed president appointment complicate an uncomplicated “student-led” educational-rescue reading. Her subsequent plan is her action, not proof the appointment was unpressured or successful.
+- **BA-C002–C004/C007/C010–C011:** Koharu's `死刑`/`死罪` and `公共破廉恥罪` are hyperbole, not verified rules. Hanako's confinement and Azusa's arrest show enforcement, but mandate, proportionality, original charges and outcomes remain open.
+- **BA-C008:** Hifumi's “cold eyes” is her interpretation of Sensei silence; Sensei's `choice:002` says apology is not owed personally. Hanako's italic reply, title-card name syllables and the malformed IED gloss need attribution/formatting quarantine.
+- **BA-C019/C020:** no direct Pavane test; temporary remedial membership may become an institutional-belonging contrast only with more evidence.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hifumi's test record, detention process and Azusa's original offense remain OPEN.
+
+## V003 C001 E005 claim delta — return condition and bounded release
+
+- **BA-C001/C016:** Hifumi/Sensei commit effort with the four assembled, not tutoring success or proof the exceptional appointment was fully voluntary.
+- **BA-C002–C004/C007/C010–C011:** Hasumi's rule-permission claim permits transfer in her account; exact regulation/paperwork remains uninspected. Narrator states Koharu's three failing marks and return-to-committee condition, not expulsion or completed removal from school.
+- **BA-C008:** `u:0012` third-person Koharu reveal under a Koharu label is quarantined; narrator name syllables and final title card are not dialogue. Sensei's three choices are singleton.
+- **BA-C019/C020:** conditional institutional belonging becomes a comparison question, not a new Pavane-style generalization.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; exact grade threshold, committee-return timing and educational outcome remain OPEN.
+
+## V003 C001 E006 claim delta — synchronized passes, not individual exit
+
+- **BA-C001/C016:** Hifumi's all-four pass condition and correction of Koharu make mutual dependence explicit; narrator confirms daily classes began, but teaching quality, choice and result remain open.
+- **BA-C002–C004/C007/C010–C011:** three-sitting rule, exam-level placements and Sensei remit are participant accounts, not inspected regulation. Koharu's repeated-acceleration explanation is not an audited cause of E005 failing marks.
+- **BA-C008:** narrated introductions are omitted, `u:0001` absent and `u:0059` is a narrated time bridge; one singleton Sensei greeting cannot support a broad teacher persona. Hanako's emotional appraisals and Koharu's future score forecast remain statements, not outcomes.
+- **BA-C019/C020:** task-bound companionship and conditional institutional return are comparison questions, not generalized Pavane mechanisms.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; exact test rules and later performance remain OPEN.
+
+## V003 C001 E007 claim delta — first exam approaches, sanction withheld
+
+- **BA-C001/C016:** Sensei's private encouragement and two inquiries register concern, not pedagogical efficacy or ability to avert consequences. Student work is visible but line-specific skill attribution is unstable.
+- **BA-C002–C004/C007/C010–C011:** Hifumi reports a Tea Party camp order if anyone fails the first exam and anxiously cuts off the prospect of failure through the third. The reported first-failure contingency has not activated; the later sanction is undisclosed, not proved expulsion or an audited policy.
+- **BA-C008:** `u:0002-0021` repeatedly cross speaker labels, address and turn-taking; `u:0039-0042` have similar exam-day voice tension. Sensei's private thoughts, two singleton question choices, narrator's exam-day jump and `u:0043` title card cannot be collapsed into dialogue, intervention or scores.
+- **BA-C019/C020:** conditional academic/club belonging remains a limited comparison question, not direct Pavane recurrence.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; first exam result, camp terms, third-failure consequence and Hanako's earlier failure cause remain OPEN.
+
+## V003 C001 E008 claim delta — measured failure and activated camp
+
+- **BA-C001/C016:** Hifumi privately recalls Sensei explaining tested material and herself passes, but three peers fail. Teacher input is now reported more specifically, not demonstrated sufficient or equal; no follow-up educational decision is printed.
+- **BA-C002–C004/C007/C010–C011:** Hifumi reports 60/100 as the pass line, and narrator score/outcome pairs are Hifumi 72/pass, Azusa 32/fail, Koharu 11/fail, Hanako 2/fail. Narrator confirms camp decided after the failed joint sitting. This strengthens E007's first-failure report while leaving paper-setting, camp details and terminal sanction uninspected. Hifumi's “rescue measure” inference is not a confirmed policy.
+- **BA-C008:** E007's confident group and Koharu-solo forecasts are locally disconfirmed; neither Koharu's prior acceleration history nor Hanako's motive is thereby proved false or true. Hifumi's italic thoughts, Sensei's one singleton result announcement, narrator score captions and inward encouragement remain distinct. Azusa's `紙一重` is not an accurate numeric claim.
+- **BA-C019/C020:** conditional club belonging may be compared, but no direct Pavane recurrence test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; score causes, camp program, later sittings and third-failure consequence remain OPEN.
+
+## V003 C001 E009 claim delta — rescue structure confessed as disposal design
+
+- **BA-C001/C016 — STRENGTHEN/COMPLICATE:** Sensei's `私のやり方` refuses automatic conversion of teaching into suspect-hunting or collective expulsion, but no student protection is yet achieved. Nagisa leverages her belief Sensei will not abandon students; do not call that consent.
+- **BA-C002–C004/C007/C010–C011 — REVISE locally:** Nagisa now says the remedial club was created for expulsion and adjusted to bypass usual Trinity discipline procedure with some Schale authority. This directly revises her E003 benevolent presentation and “treaty not very related” characterization as *her own account*. The underlying legal instrument, intelligence, treaty status and real power to expel are not independently audited.
+- **BA-C008 — STRENGTHEN:** treaty mechanics `u:0022-0028` are italic Nagisa framing; twelve Sensei choices are singleton and include silence. Her first-exam nonmanipulation oath and conditional future exam-change examples are not observed audit/change events. The chess pieces are not identified actors.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; procedural school belonging may be compared only after separate evidence.
+- **BA-C021 — OPEN NEW, CHAPTER-LOCAL:** a nominally supportive academic structure may be engineered as a procedural-disposal device under a security suspicion. E009 gives Nagisa's explicit purpose, alleged bypass and collective-box rationale, not verified lawfulness, a proved traitor, altered first exam or completed expulsion. This distinct educational-institution design claim is not swallowed by the broader responsible-adult or Schale-power claims.
+- **Other families:** no direct global test.
+
+No standalone model, frozen prediction or side-source admission. Backfill **DEFER**; suspected actor, treaty/ETO reality, actual procedure and future exam control remain OPEN.
+
+## V003 C001 E010 claim delta — ordinary camp care within concealed institutional risk
+
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei offers availability without occupying the students' shared room or directing their entire routine; Hanako proposes cleanup and Hifumi coordinates it. Exact lodging and learning effect remain unshown.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE/COMPLICATE:** E008's camp decision now produces a one-week annex stay until exam two. Hifumi's student-facing account is study-oriented; no member is shown knowing E009's expulsion design or alleged traitor. Camp arrival does not implement a disciplinary bypass or validate Nagisa's intelligence.
+- **BA-C008 — STRENGTHEN:** both scenes lack represented `u:0001`, scene-2 Hifumi `u:0003-0004` duplicates after a two-option choice, and several role labels invert. Azusa's hypothetical threat plan and mine claims are not attack/deployment facts; Koharu's punitive rhetoric remains comic.
+- **BA-C019/C020 — PRESERVE:** shared-place care is only a contrast question, not a direct Pavane mechanism.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; camp outcome, security reality and second exam remain OPEN.
+
+## V003 C001 E011 claim delta — completed maintenance, uncompleted recreation
+
+- **BA-C001/C016:** Hifumi delegates and Koharu/Hanako/Azusa act; narrator confirms cleaning progress and pool work without assigning it to Sensei. This supports narrow student agency in routine care, not educational rescue.
+- **BA-C002–C004/C007/C010–C011/C021:** cooperation in a habitable annex is not proof the club's institutional design is benign, that a traitor exists, or that any student knows Nagisa's E009 plan. No second exam or expulsion.
+- **BA-C008:** empty scene 4/5 headings carry locations but no events; cross-label `scene:001:u:0004-0005` and `scene:006:u:0011-0012` constrain exact attribution. Italic water snippets and one singleton Sensei choice are not independent scene/safety findings. Narrator ends pool filling at dusk, not swimming.
+- **BA-C019/C020:** shared-space maintenance remains comparison only.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; water safety, recreation, second exam and school-security outcome remain OPEN.
+
+## V003 C001 E012 claim delta — secret parallel recruitment meets a student boundary
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei takes the suspect-finding burden from Hifumi in words and asks her to choose what she can do, preserving a local agency boundary. `私がどうにか解決` is an untested promise, not proof of control over exams or expulsion.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** Hifumi's recalled Nagisa exchange says intelligence gathering/traitor identification is the immediate goal and collective expulsion a fallback; Hifumi's Schale relationship was used in recruitment, and she was warned she too would suffer if the effort failed. This sharpens E009's professed design without proving the intelligence, lawfulness or deterrence. Hifumi knew the assignment but had not told club peers in her account; E010-E011 did not show her disclosure.
+- **BA-C008 — STRENGTHEN:** E009 `生徒を退学させるため` is repeated as Sensei memory; Nagisa `scene:002:u:0032-0047` is recalled prior speech, not present conversation. Twelve Sensei groups are singleton; `scene:001:u:0016-0020` label/voice flips and a simultaneous lobby scene prevent false knowledge sharing.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hifumi's earlier information actions, suspect identity, teaching and protection results remain OPEN.
+
+## V003 C001 E013 claim delta — diagnostic activity is not official rescue
+
+- **BA-C001/C016 — STRENGTHEN locally, QUALIFY outcome:** Hifumi initiates a concrete diagnostic routine and Sensei assists/credits her. The practice paper supplies no controlled evidence of learning gains or fulfillment of Sensei's E012 protective promise.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE/COMPLICATE:** a sincere support practice occurs inside Nagisa's professedly punitive structure. Its four mock scores and local “pass” do not constitute the official second sitting, validate the bypass, identify a saboteur or reverse the threatened fallback.
+- **BA-C008 — STRENGTHEN:** narrator-confirmed 4/33/15/68 scores, Hifumi's partial prior-year-paper preparation and proposed future mocks carry distinct evidential weights. Numerous inverted speaker labels and five singleton Sensei choices cannot be normalized into secure individual utterances or branching proof.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; the reward/shared-interest interaction invites only a bounded comparison question.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; actual official second result, Hanako score cause, study response and Nagisa remedy remain OPEN.
+
+## V003 C001 E014 claim delta — peer help and unverified property account
+
+- **BA-C001/C016 — QUALIFY:** Sensei offers to go with Koharu and narrator confirms departure, but the text does not show return, due process or resolution. Hifumi's prompted confiscation explanation and Hanako's stealth suggestion raise a care/procedure tension without adjudicating it.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE:** narration confirms study continues; neither better scores nor any traitor investigation or sanction occurs. The book incident does not test Nagisa's allegation.
+- **BA-C008 — STRENGTHEN:** geometry/thanks lines and `u:0044-0045` carry role-label conflicts. Hanako's `R18` and rule/lore claims, Hifumi's hypothesis and Koharu's adoption, and a destination rather than completed return require different evidence grades. One Sensei choice is singleton.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; book provenance, club reaction, second exam and Nagisa plan remain OPEN.
+
+## V003 C001 E015 claim delta — care and concealment in one adult response
+
+- **BA-C001/C016 — COMPLICATE:** Sensei's `コハルはコハル` reply gives Koharu a local experience of being considered, yet `バレないように` and the explicit `良い感じに誤魔化す` choice use concealment. Hasumi accepts a teaching-book explanation without inspecting the contested book. Adult support cannot be scored as transparent procedural repair or automatic wrong from this partial record.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE:** Koharu's improvised-seeming spy claim is not independent proof of Hasumi's order, knowledge of Hifumi's Nagisa assignment, the alleged traitor or the club's lawfulness. Her narrator-confirmed prior failures remain despite `フェイク` self-description.
+- **BA-C008 — STRENGTHEN:** Hasumi's access-bar statement directly supports the rule as she administers it. Koharu's mission/grade claim is self-report. `これで良し` in the confiscated-items room suggests action but does not audit inventory. Private dialogue is fragmentary and cannot be completed from `本来の`/`先生`/an angry line. Fifteen Sensei choices are singleton.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hasumi's private words, Koharu's actual mission, book provenance, official second test and protection outcome remain OPEN.
+
+## V003 C001 E016 claim delta — prior mastery and unproven present intent
+
+- **BA-C001/C016 — OPEN test:** Sensei receives Hifumi's privacy-tinged report of Hanako's papers, but no response, consent inquiry or educational intervention is shown. Mika's check-in is not a Schale mandate or treaty exchange.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE:** Hifumi's reported perfect prior-year first–third-year papers weaken an enduring-inability account of Hanako's current 2/4, but `わざと試験に落ちている` is still her inference. Neither the motive nor Nagisa's alleged traitor is identified. No official second exam or expulsion.
+- **BA-C008 — STRENGTHEN:** Hanako's proof/truth provocation and Azusa's approximate fifth-rule memory are not an authenticated “seven rules” text; Hanako's Seia question is not proven Azusa–Seia contact. Scene-1 label swaps, Hifumi's uninspected paper report/stronger inference, and a next-title card must remain separate.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hanako motive, old-rule provenance, Azusa/Seia link, Mika purpose and exam outcome remain OPEN.
+
+## V003 C001 E017 claim delta and canonical checkpoint transition
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei explicitly refuses Nagisa's traitor hunt as outside their role and declares `生徒たちの味方`, including Mika. This sharpens E009 `私のやり方` but does not complete Hifumi's requested protection or resolve student-interest conflicts; E015's admitted misleading pretext complicates simple transparency.
+- **BA-C002–C004/C007/C010–C011 — REVISE locally:** Mika says she arranged the teacher invitation for a third party and names Azusa as Nagisa's target. Her “Nagisa told you nothing” inference conflicts with the E009 disclosed rationale, though Nagisa supplied no evidence/identity. Arius origin is Mika's account, not a verified school record. The procedural bypass and treaty intelligence remain unreviewed.
+- **BA-C008 — STRENGTHEN:** Mika's actor report, E009 conversation, Sensei silence/refusal, E017's unlocated intercut with unknown voices, and next-title card must remain separate. Azusa's `計画通り` establishes an undisclosed plan, not its content or guilt.
+- **BA-C021 — STRENGTHEN, CHAPTER-LOCAL OPEN:** Nagisa's professed support-as-disposal design is corroborated as a pressure structure by Hifumi's parallel coercive task and Mika's named target. Actual traitor, legality, exam manipulation and expulsion remain open; no collective-guilt judgment is canonical.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global adjudication.
+
+`BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md` is now the canonical chapter synthesis. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; V003 C002 E001 unopened.
+
+## V003 C002 E001 claim delta — treaty force and heterogeneous suspicions
+
+- **BA-C001/C016 — QUALIFY:** Sensei does not accept Mika's `守るか／探すか` or `ナギちゃん／私` binary, asks about Mika's welfare and returns to the group. This is attentive response, not an Azusa-protection guarantee or adjudication.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** Mika admits forging Azusa's Trinity record, gives an interested Arius-reconciliation rationale, and claims the club contains different political leverage/suspicion types. Her ETO-as-armed-alliance reading counters Nagisa's neutral-peacekeeper presentation without an inspected treaty. Hanako's prior ability, Koharu-as-hostage, Hifumi criminal link and Azusa-as-spy are distinct actor-level claims with different partial contextual tests, not four proved threats. Actual bypass, treaty force and collective expulsion remain open.
+- **BA-C008 — STRENGTHEN:** First Council/Arius history, Seia's halo allegation and Nagisa/Hasumi mental states are Mika reports or inferences; the Hasumi vignette confirms anger but not her unfinished declaration or ETO stance. Mika's “hospital” reversal concerns her own earlier account. The 13 Sensei groups are singleton and the final forced choice gets no acceptance.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia status, Azusa knowledge, Arius history, exam and protection outcome remain OPEN.
+
+## V003 C002 E002 claim delta — care, defense and nested testimony
+
+- **BA-C001/C016 — QUALIFY:** Sensei remains approachable, declines Hanako's personal-laundry offer, and helps dissolve the nighttime misunderstanding. Opening to an unidentified visitor is a local safety lapse, not an assault outcome. Neither Hifumi's Hanako concern nor Hanako's Azusa concern reaches substantive disclosure, so the protective commitment is still untested.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE/QUALIFY:** the second *mock* gives one pass/three fails, not an official second-exam result. Azusa's care for a bullied student is relayed through Marie, while Azusa's traps catch Marie; these heterogeneous actions do not establish or refute treaty sabotage. Hanako's 8 and E016 old-paper discrepancy do not adjudicate her motive. No collective sanction, exam manipulation or verified Nagisa suspicion arises.
+- **BA-C008 — STRENGTHEN:** narrator-listed scores, Hifumi's score interpretation, Hanako's comic arithmetic, Azusa's admissions, Marie's nested bullying/Justice account, a rejected rumor and actor-label inversions must be kept at different certainty levels. The narrator confirms the nighttime misunderstanding is repaired but not either intended consultation's content.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other claim families receive no global test.
+
+Marie enters as a tracked `UNMODELED` subject; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official second exam, Sisterhood concern, Azusa's E017 plan and the two consultations remain OPEN.
+
+## V003 C002 E003 claim delta — confession and suspect-container inference
+
+- **BA-C001/C016 — QUALIFY:** Sensei helps reveal a hidden consequence to Hanako and appreciates her promised effort, while Hanako warns that Azusa's health may be at risk. Neither informational openness nor thanks is a completed protection method, safe-sleep intervention or academic rescue.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN locally:** Hanako **confirms** the core of Hifumi's E016 intentional-low-mark inference, says she did not know collective expulsion was at stake, and promises to try later. That is actor testimony about intention, not a motive disclosure or verified future grade. She independently infers a treaty-suspect club and Nagisa design; Hifumi confirms the earlier secret hunt. The suspect box gains a participant-side diagnosis, but lawful Schale bypass, roster rationales and guilt are not independently established.
+- **BA-C008 — STRENGTHEN:** distinct layers include Hifumi's earlier paper inspection, Hanako's explicit confession, her speculative suspect mapping, Hifumi's remembered Nagisa order, Sensei's unprinted inwardly noted explanation, and Koharu's comic tableau reading. Label inversions constrain speaker-specific evidence.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global adjudication.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hanako's reason, Azusa's nights and next official result remain OPEN.
+
+## V003 C002 E004 claim delta — belonging under unreviewed defense
+
+- **BA-C001/C016 — QUALIFY:** Sensei participates in care/leisure, praises Azusa's intention and supports a nearby outing, but neither investigates the false-positive trap nor implements the promised protection. Azusa's objection to child treatment limits what Sensei's praise proves relationally.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Azusa explicitly values learning/shared life, undercutting Mika's E017 “does she learn?” stigma, while she also admits trap work and fears she might someday betray trust. Both are direct speech; neither settles traitor guilt, E017 plan content, lawful collective sanction or official exam. Marie's E002 trigger falsifies Azusa's E004 malicious-route-only safety assurance as a reliable outcome claim.
+- **BA-C008 — STRENGTHEN:** scene 1's jump/backtrack, storm cause guess, subjective dream, Sisterhood hearsay, Hifumi's Masked Swimsuit Gang dramatic irony, actor self-report, conditional betrayal and narrator-confirmed laundry/walk must be kept separate. Spoken “naked” play is contradicted by Koharu, not a narrator fact.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; Alice's chosen identity is not imported as Azusa's mechanism.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; trap safety, Azusa plan, future outing and official exam remain OPEN.
+
+## V003 C002 E005 claim delta — non-treaty vow and narrowed alert
+
+- **BA-C001/C016 — QUALIFY:** Sensei endorsed the night walk E004; Hasumi now says camp outing was barred and proposes mutual concealment while observed with dessert against her pledge. Sensei normalizes hunger and praises Koharu's mock trend, without checking the rule or obtaining an official result. Care and procedural evasion remain entangled.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE locally:** the C002 E001 unfinished Hasumi declaration is disclosed as dieting, not anti-Gehenna/treaty retaliation. Makoto's offensive conference behavior supports Hasumi's anger but reveals no treaty vote or ETO act. Ichika's alarm causes Hasumi to posit treaty sabotage, then narrows to four Gourmet Research actors and an aquarium. Haruna directly voices a food motive; Ichika's resale explanation is a guess. No actual Gehenna executive conspiracy or final response follows.
+- **BA-C008 — STRENGTHEN:** Koharu recollection, embedded conference dramatization, Hasumi's public pledge, later narrator sight of parfaits, phone intelligence, Makoto/Iroha label conflict, Haruna's rhetoric and gagged Fuuka are different evidence classes. E015 fragments are echoed by Hasumi's Koharu encouragement without fully reconstructing the earlier private talk or validating an “elite spy” order.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other claim families receive no global adjudication.
+
+Eight named `UNMODELED` subjects enter; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; aquarium outcome, camp rule, private Koharu directive and official second exam remain OPEN.
+
+## V003 C002 E006 claim delta — negotiated optics versus actual deployment
+
+- **BA-C001/C016 — QUALIFY:** Sensei agrees to Hasumi's request and adds `安全第一`, a meaningful stated constraint under immediate danger but not an observed harm-prevention result. Koharu's temporary co-action is not institutional reinstatement.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Hasumi explicitly seeks a remedial-club/Schale solution so the Gehenna Gourmet incident is not read as Justice Realization versus Gehenna near the Eden Treaty. Ichika reports Tsurugi/committee already deploying, and scene 2 shows Hasumi-led pursuit; the preferred public framing may fail and is not a lawful authority finding. No treaty saboteur or collective-expulsion outcome emerges.
+- **BA-C008 — STRENGTHEN:** Ichika's phone warning, Azusa's estimated blast distance, Hasumi's stated optics rationale, fish-food reaction, Izumi abandonment and scene-2 label inversion have separate evidential weights. Do not infer who caused an explosion, exact fish state, injury or arrest.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; raid resolution and official exam remain OPEN.
+
+## V003 C002 E007 claim delta — distributed ETO control and explicit protection promise
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei actually performs Schale intermediary transfer work and explicitly answers yes when Hina asks if they will protect the remedial club. This is a narrower, stronger promise than E017's general student-side claim, but there is no academic/legal safeguard, official result or audited handoff authority. Trusting Hina with a sensitive, unprinted briefing has unresolved discretion costs.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE locally:** Hina says ETO power is divided among Nagisa, equal Makoto authority and other Tea Party/Pandemonium members; one-person capture is unlikely, although she concedes collective collusion conceivable. She calls it a peace treaty and says she promoted it for Gehenna order/possible retirement. This contests Mika's E001 armed-Leviathan forecast and adds Gehenna-side motive, but without charter, Makoto response, vote rules or tested ETO conduct. Schale/Emergency Medicine labels are actor-designed political optics, not proof of neutrality.
+- **BA-C008 — STRENGTHEN:** Haruna/Junko/Akari self-report capture, Izumi direct lost scene, Sena delivery list, narrator-supported loading, Fuuka free speech, Hina's actor constitutional model, unprinted Sensei briefing and duplicate choice convergence cannot be collapsed into a single official record. Three caught plus one hostage is narrower than “all Gourmet members.”
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+Sena enters `UNMODELED`; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; treaty charter, actual club protection, Gehenna custody and official exam remain OPEN.
+
+## V003 C002 E008 claim delta — hopeful mock versus coercive observation
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei repeats to Nagisa that they will address the matter in their own way rather than name a traitor. The renewed boundary follows the E017 refusal and E007 protection promise, but no protective instrument, examination authority or outcome appears.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN tension:** narrator-marked third **club mock** scores 69/73/61/75 give all four local passes; Hifumi's official-pass forecast remains prospective because the second **special academic examination** is tomorrow, not completed. Nagisa explicitly describes camp as a student-observation device and asks for a traitor, preserving the punitive/suspect design alongside actual learning and Azusa–Hifumi friendship. Neither four mock passes nor Nagisa's demand identifies guilt or validates expulsion/bypass.
+- **BA-C008 — STRENGTHEN:** narrator scores, Azusa's friendship self-report, Hifumi's forecast, Hanako's “luck” framing, label conflicts near `u:0012/0033/0037/0044`, inward Nagisa `u:0098` and her direct `u:0099` question have different evidence status. No response or Mika-talk disclosure can be inferred from the title card.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official second result, Hanako's motive and Nagisa's evidence/authority remain OPEN.
+
+## V003 C002 E009 claim delta — epistemic uncertainty weaponized as sanction
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei prioritizes the students' effort and challenges Nagisa's selective suspicion. Choice `009` offers two alternative promises—help Nagisa leave distrust or make the group pass. Neither is an achieved intervention or official outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** Nagisa gives a four-part selection rationale directly: Koharu as Hasumi control, Hanako intentional marks, Azusa's alleged uncontrollability and Hifumi's alleged criminal leadership. E003 directly supports Hanako's intentionality; V001 supplies Hifumi's imposed `ファウスト` cover in a real armed bank action; Azusa's E001 forged entry was Mika's work and E002/E004 evidence is mixed. None establishes treaty sabotage or a proportionate lawful expulsion. Nagisa converts unprovability of hearts into `退学させるしかない`, a coercive inference rather than a demonstrated necessity.
+- **BA-C008 — STRENGTHEN:** Nagisa's inputs are actor claims with distinct prior provenance. Sensei's attempted Hifumi explanation is cut off, `u:0001/0032` are inward, choice `009` branches, `u:0027-0028` duplicate, and E010's title card is not an exam result.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa's sources/authority, student motives and official exam remain OPEN.
+
+## V003 C002 E010 claim delta — posted procedural escalation and group warning
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei explains the expulsion threat to Koharu and Azusa after Hanako's remark, replacing an uneven secret circle with a broader warning. The exact explanation is summarized, not printed; no appeal, sanction bypass or official pass has yet been secured.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** a posted Trinity notice, read by Hifumi/Hanako, announces roughly triple range, pass line 60→90, 3 a.m. timing and a Gehenna ruined-building venue. This concretizes the C001 E009 threatened exam-control mechanism, but the issuer, legality and actual application are not inspected. Hanako infers Nagisa received their mock scores and authored an expulsion move; E009 intent makes it plausible, **not** proven communication or signature. Koharu/Azusa learn three-failure expulsion in the unprinted Sensei explanation, but the exact all-four clause/bypass details conveyed are unknown.
+- **BA-C008 — STRENGTHEN:** distinguish direct posted notice text, Hifumi's “posted yesterday” observation, Hanako's author/surveillance/absence-rule inferences, group-level risk disclosure, generic thugs' kidnapping proposal and a crying thug after Azusa's `強行突破`. No exam result, actual kidnapping, audited route force or new named subject follows.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official examination terms/outcome and notice authority remain OPEN.
+
+## V003 C002 E011 claim delta — official failure by paper loss
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei reaches the posted venue and reconnects with the students, but E009's choice-conditioned pass promise has not materialized: the narrator marks all four officially failed for lost papers. No formal appeal, protective exception or live negotiation with Nagisa appears.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE locally:** the second **official** examination is now a definite all-four failure, but `試験用紙紛失` is a procedural loss, not a four-person 90-point inability finding. The group arrived by 2:45 and found intact papers. Generic Hot Spring workers cite an unknown tip to blast the address; the papers vanish. Nagisa's recording/delivery and monitoring claim do not identify that tip source or prove she organized demolition. E010 notice issuer/authority likewise remain unaudited. At most, this is a second failed opportunity under the previously stated three-sitting rule, not an observed immediate expulsion.
+- **BA-C008 — STRENGTHEN:** Azusa denies firing the checkpoint's first impact; Gourmet help coexists with Fuuka's bound/gagged renewed protest. A two-hour pursuit montage, unverified L118 provenance inference, noninteractive recording, unknown-source hot-spring tip, and narrator-marked outcome have separate evidentiary weights.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; tip attribution, document authority, paper recovery/appeal, third exam and sanction remain OPEN.
+
+## V003 C002 E012 claim delta — exhaustion and six-day last chance
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei inwardly regrets their Nagisa confrontation, and Hanako thanks the teacher after hearing an off-page account; the only direct current choice promises continued effort. No appeal, lawful countermeasure or achieved pass is shown.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Hifumi names the third official special exam in about a week the last chance; narrator fixes six days remaining. Koharu explicitly knows the “Trinity traitor” label and fears losing Justice Realization, extending E010's disclosed-risk boundary without printing the exact prior explanation. Nagisa and Mika cannot be found/contacted in this episode, so no direct institutional review occurs. Hanako's “all possible obstruction” and fear of more Nagisa moves are actor appraisals, not proof Nagisa tipped E011's developers.
+- **BA-C008 — STRENGTHEN:** E011 lost papers cannot be read as Koharu's stupidity; E012's self-deprecation is acute distress. Scene-1 sexualized teasing has label/role inversions, Sensei `u:0014` is inward, Hanako's `そのお話を聞いた限り` implies off-page disclosure, and “one week” is approximate against narrator six days.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; third exam, appeal, leader locations and protection method remain OPEN.
+## V003 C002 E013 claim delta — study evidence beside a private attack order
+
+- **BA-C001/C016 — PRESSURE:** Sensei reassures the club twice through singleton choices, but E013 shows no protection against either an unseen exam change or Saori's order. The adult's knowledge of the private conversation is not shown.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** the fourth club mock is 100/82/74/79, the fifth 100/94/90/93 (all pass), the sixth 100/91/83/89 (only Hanako/Azusa pass), in Hanako/Azusa/Koharu/Hifumi order. These are local rehearsals, not official results or controlled comparable measures. Hanako reports 90, prior range, 9 a.m. at Trinity's 19th annex room 32 as current final-exam terms. A one-time joint mock pass does not erase subsequent variance, E011's procedural failure or the risk of another change.
+- **BA-C008 — STRENGTHEN:** Saori's direct instruction fixes Nagisa's halo as the claimed target and tomorrow morning as the accelerated action time; Azusa resists timing then agrees to prepare. Saori's Seia comparison is a claim, not an independently verified replay. Hanako's silent tags do not prove she heard it. The `vanitas vanitatum` recitation need not equal Azusa's settled belief.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia incident, Hanako's knowledge, Azusa's eventual action and final exam remain OPEN.
+## V003 C002 E014 claim delta — confession and a proposed two-part answer
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei rejects Azusa's total self-blame and identifies failure to trust in a spoken singleton; the more detailed Nagisa/Mika counterfactuals are inward. Hanako then takes planning initiative. Neither adult encouragement nor student agency has yet secured access, protection or a pass.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/STRENGTHEN:** Azusa now directly states Arius origin, forged Trinity standing, Nagisa-halo assignment, false reports to Arius and her own decision to protect Nagisa. This seriously qualifies E009's suspicion but remains participant testimony about covert history and future intent, not completed rescue. Hanako's autobiographical disclosure supplies her own escape-from-pressured-school motive for E003's deliberate low grades, not sabotage guilt. Her Sisterhood-derived report says Tea Party document protection will isolate the 19th annex and main building is under martial law; the order/deployment and hypothesized Hasumi expulsion are not directly audited. Exam and Arius operation are both stated to begin **9 a.m.**; Hanako proposes defending Nagisa **and** all four reaching 90, without an exposed tactic or result.
+- **BA-C008 — STRENGTHEN:** Azusa explicitly lacks Mika-recruitment details and guesses; Hanako's scapegoat inference, recollected elite solicitations and security conclusions are differentiated from direct confession. Sensei's inward trust list need not be audible; Seia's recollected line is not present-time contact. Hanako's clothing/nakedness callback is corrected by peers, not literalized.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; cordon, Hasumi knowledge, Mika position, operative plan, Nagisa safety and third exam remain OPEN.
+## V003 C002 E015 claim delta — counterattack with unresolved cost
+
+- **BA-C001/C016 — PRESSURE:** Hanako's defense of Hifumi uses a deliberately hurtful false commander message, and Azusa's intended “protection” entails reported full-magazine close-range fire on Nagisa. An ethical rescue finding requires the unshown medical/safety result and proportionate alternatives; no Sensei sanction appears.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Arius teams begin their operation; Azusa openly acts against them and Arius finds the target missing. Her claimed traps/trenches now supply purpose for earlier night activity, but E004's benign-visitor false positive remains. Hanako's “real traitor” idea is explicitly a nearly certain personal hypothesis **without firm proof**; neither her proposed disinformation effect nor Arius's claim that Justice cannot move identifies a leaker or proves institutional capture. Nagisa concedes possible wrong to Hifumi yet defends the greater cause. The third exam and actual expulsion remain unshown.
+- **BA-C008 — STRENGTHEN:** Hanako's 87-safehouse count/guard-clearance and Azusa's one-hour unconscious estimate, Justice alert and force-duration claim are actor reports. Arius team's search/ambush reports and Nagisa's prior spoken reaction have narrower direct support. No narrator medical finding, leak channel or Justice dispatch is printed.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa's condition, Arius outcome, Justice response, suspected traitor and exam remain OPEN.
+## V003 C002 E016 claim delta — traps verified, outcome withheld
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei stands with the four and gives a singleton `待ってたよ`, but the final mobilization is inward and the episode ends before combat outcome. Physical presence is not a verified tactical order, healing act or pass safeguard.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** an Arius student reports Azusa brought the target to the camp, Azusa says she hid her, and the barricade breach triggers Claymore/IED defenses. Hanako says enemy numbers fell, without a count or clinical finding. The commander reports reinforcements about to enter and Squad busy elsewhere; no arrival, Squad task or formal wider war is shown. The reported site perimeter and final exam remain separate and unresolved.
+- **BA-C008 — STRENGTHEN:** late `ヒフミ` tags collapse unlike registers/roles, so no new stable Hifumi combat persona or speaker-specific plan can be inferred. Arius commander force/inventory claims, student transport report and visualized trap reactions have different evidentiary weights.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa care, Arius losses, gym outcome, Justice response and exam remain OPEN.
+## V003 C002 E017 claim delta — self-confessed anti-peace coup
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hifumi directly credits Sensei's command for disabling the first Arius group, while Mika calls Schale's adult presence troublesome after an unprinted encounter. This supports bounded coordination, not solo-combat omnipotence or a completed protection/pass outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE strongly:** Mika calls herself the real traitor, claims a renewed Justice stand-down and prior Tea Party-reach obstruction, admits E001's martial-alliance portrayal of the Eden Treaty was a lie, and calls it genuine peace. She says Arius support, Nagisa's removal, her host succession and a Gehenna-eradicating war are her purpose; Azusa is to be scapegoated. These are material self-incriminating admissions with some on-scene correlation (Justice nonresponse, Arius arrival), not certified order records or achieved coup. Mika further admits ordering Seia attacked but denies a halo-destruction instruction and withholds a clear incident account. The first local Arius group is combat-incapacitated, but much larger reinforcements arrive by Azusa's estimate. Koharu has contacted Hasumi; no response yet. A cathedral-side force is identified questioningly as Sisterhood, not yet verified aid.
+- **BA-C008 — STRENGTHEN:** scene 1 `u:0055-0060/0080` “Arius student A” tags conflict with Mika's first-person continuous exposition; scene 2 `u:0021-0022` has a similar discontinuity. Sensei `u:0036` is inward, and Mika's post-thought response is not proof of mind-reading. Strong actor admission, self-serving qualification and uncertain speaker labels are not interchangeable.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia mechanics, Justice orders, Sisterhood, Nagisa and exam remain OPEN.
+## V003 C002 E018 claim delta — autonomous intervention and reported survival
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Mika retrospectively calls Sensei the largest variable and Schale invitation her mistake after defeat. This is actor causal interpretation, not erasure of Hanako's planning, Azusa's defense or Sisterhood's intervention. The inward support echo is not current mind-reading or achieved restorative care.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Sisterhood appears, announces exceptional intervention and intended custody of Mika for incitement/attempted injury. This visibly contests Mika's claimed universal stalling, but no completed arrest/legal review is shown. Hanako reports Seia alive, outside Trinity, wounded/unconscious under Mine; her exact rescuer remains deliberately undisclosed and no direct medical record appears. Mika surrenders after hearing the survival report and an unprinted defeat sequence. Final exam, Nagisa's condition and Azusa's institutional safety remain open.
+- **BA-C008 — STRENGTHEN:** Marie tags on the custody declaration conflict with Mika addressing Sakurako; scene 2 self-question lines have Hanako/Azusa tags. Mika's “accident/frailty” claim and Hanako's Seia report are nonidentical provenance; Sensei's inward supportive echo cannot be heard by Mika now.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+Hinata and Sakurako join the index as narrow `UNMODELED` subjects; Mine is mention-only. **21 partial / 47 unmodeled across 68**, no operational/validated model. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; pact terms, rescuer, custody, Nagisa and exam remain OPEN.
+## V003 C002 E019 claim delta — final official academic success
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei accompanies and gives singleton encouragement/entry prompts, but the exam start cue is inward and the scorecard cannot isolate adult instruction as cause. E009's pass-oriented branch is fulfilled in outcome, not necessarily by a method printed here.
+- **BA-C002–C004/C007/C010–C011/C021 — RESOLVE narrow academic test:** narrator gives third special exam Hanako 100, Azusa 97, Koharu 91, Hifumi 94, all `合格`, followed by `補習授業部ー全員合格`. The simultaneous all-four requirement from E006 is met. The prior second official `試験用紙紛失` remains a distinct procedural failure, not a retroactive scored ability test. Mocks 1–6 and the first official result are retrospective recap, not fresh sittings or comparable-form data. No formal club exit, Koharu Justice reinstatement, institutional liability, sanction paper or treaty settlement appears.
+- **BA-C008 — STRENGTHEN:** direct venue welcome by Justice member qualifies E014's no-entry forecast without revealing how the cordon changed; Hasumi's encouragement/apology is relayed, not direct dialogue. 7:50 departure and arrival imply time to sit, not an exact arrival timestamp. Sensei `u:0041` is inward.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; administrative status, Nagisa, Mika, treaty and Azusa safety remain OPEN.
+
+## V003 C002 E020 claim delta — academic victory, conditional peace future
+
+- **BA-C001/C016 — QUALIFY:** Seia explicitly credits the club's own effort for passing, compatible with but not isolating Sensei's support. Sensei has no present choice or action.
+- **BA-C002–C004/C007/C010–C011/C021 — RESOLVE/OPEN by domain:** the E019 pass stands. Seia says Koharu should return to Justice, Hanako probably will not quit, Azusa surely can study and Hifumi probably resumes daily life; the modal future statements cannot become administrative orders. Seia reports Mika imprisoned but no legal process or duration. Nagisa's scheduled treaty signature is forecast, not accomplished; the E015 gunfire has no direct medical closure. Saori orders preparation and threatens Azusa, leaving external security and peace-process outcome open.
+- **BA-C008 — STRENGTHEN:** Seia's locationless framing, `はず`/`恐らく`/`だろう` future markers, her catastrophe prognosis, mediated nonverbal “princess” question and narrator-tagged `vanitas` refrain must not be flattened into equal narrator facts. Misaki silence tags and Atsuko's later silent tag limit exact sign attribution.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+Hiyori, Misaki and Atsuko join as narrow `UNMODELED` subjects: **21 partial / 50 unmodeled across 71**. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; C002 synthesis is required before opening C003 E001.
+
+## V003 C002 canonical checkpoint reconciliation
+
+[The C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) is canonical authority for the twenty-unit synthesis. **BA-C021** is strong and **partially resolved**: actual remediation/all-four academic passing defeats the exam-failure expulsion route, while Nagisa's procedural design, second-exam paper loss, formal reinstatement, Seia/Nagisa care and treaty completion remain open. Mika's self-confession materially revises the insider case but does not complete forensic or legal proof. BA-C001/C016 are agency-preserving but ethically qualified by the defensive violence; BA-C008 strengthens through source/voice distinctions. No new durable claim ID, model, prediction or side-source backfill. C003 E001 unopened.
+
+## V003 C003 E001 claim delta — protective deception, uncertain attack transcript
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei names Hanako as a student and checks whether she actually wants to accept Sisterhood help; Sakurako rejects forced recruitment. This is consent-sensitive local practice, not a complete audit of Hanako's future obligations or Sensei's post-incident work.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Sakurako reports Mine deliberately spread a false halo-destruction/death account and hid Seia, then says blast wounds have healed but Seia remains asleep for an unknown reason. This clarifies C002's survival report while preserving its earlier time and lack of direct medical chart. Hanako directly disavows school withdrawal, and the actual Sisterhood bargain is future help rather than forced membership. Azusa's apparent execution role, special bomb and the one-hour interval are still not fully adjudicated; the Tea Party inspector only calls her in.
+- **BA-C008 — STRENGTHEN:** scene 1 is dream-framed and uses `？？？`/italic voice; Seia's `予知夢` is self-claim, the lethal-method discussion is interlocutor testimony, Sakurako's timeline is report, and the nude-attendance idea is explicitly a Hanako joke denied by Sakurako. Do not promote any into omniscient fact or true policy.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E002 unopened.
+
+## V003 C003 E002 claim delta — false-death coordination and formal student status
+
+- **BA-C001/C016 — QUALIFY:** Sensei expresses a future wish to help Nagisa/Mika, but Sakurako supplies Azusa's document guarantee and Hifumi exercises her own forgiveness/limit. Do not assign the institutional outcome solely to Sensei.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Azusa says she executed a room explosion to counterfeit Seia's death with Seia's consent and Mine as follow-on protector, fooling Squad. This cross-supports E001 Sakurako's protective-deception account without proving all mechanics or harmlessness. Sakurako explicitly declares Azusa's papers official and her formally a Trinity student, a real local status resolution, while acknowledging Arius unresolved. Nagisa's Hifumi apology revises one suspect relation but not procedural accountability. Direct prison scene corroborates Mika confinement, without sentence or reconciliation.
+- **BA-C008 — STRENGTHEN:** E002's inquiry turns, Seia advice flashback, Azusa-tagged third-person defense at `u:0023-0024`, Hanako-tagged Azusa-like reassurance at `u:0026`, Hanako's Hifumi-sourced Nagisa meeting and `？？？` “friendship game” echo are not uniform first-person fact. Scene 2's prison location is direct.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E003 unopened.
+
+## V003 C003 E003 claim delta — trust without proven inner truth
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's choice-conditioned trust of students despite possible betrayal is an ethical starting posture under limited knowledge, not proof of innocence, a ban on inquiry or a guarantee of reconciliation. Repeated attempts to see imprisoned Mika are Mika-context report; future visits are inward plans.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Nagisa says fear for Mika motivated her hunt after Seia's false-death report, complicating the institutional story but not licensing collective expulsion. Mika continues to own the attack and anti-Gehenna stance, even as Hanako proposes an initial nonlethal plan and panic-driven escalation. Hanako's theory has suggestive circumstantial observations (Mika's exposure, surrender after Seia survival) but no independent access to motive; Mika denies it. The factual action chain/order–Squad–Azusa explosion remains distinct from the unresolved inner motive and from Seia's present harm.
+- **BA-C008 — STRENGTHEN:** speaker inversions at `u:0027/0033/0061/0096-0097/0113/0127/0142`, Sensei `心の声` followed by Hanako reply, and duplicated `u:0194-0196` require quarantine. A “true heart” analogy is a philosophical claim, not scene-certified access to anyone's mind.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E004 unopened.
+
+## V003 C003 E004 claim delta — day arrives, signature still future
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hina interprets Sensei's refusal of a single traitor narrative as continuing multi-perspective work grounded in trust; Sensei directly says they trust Hina. This is an ethical posture, not evidence all information is equally true or a completed intervention.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mashiro says Koharu remains in remedial club despite the certified pass; Seia's C002 return forecast is not yet fulfilled on-page. Iroha corrects Makoto's imaginary Schale/Pandemonium anti-Prefect alliance: the first meeting is formal for treaty attendance. Narrator reaches signing day only, without signed treaty or results.
+- **BA-C008 — STRENGTHEN:** Ichika's stolen-tank report, Makoto's plan fantasy, Hina/Ako workload forecasts, C003 `u:0056` inward question receiving Hina's response and inverted Hanako/Hinata labels require source/voice distinctions.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E005 unopened.
+
+## V003 C003 E005 claim delta — forecast is not implementation
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** the four sustain care and future plans without Sensei present. Their wish for later conversation does not erase student agency.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Shinon's ETO/shared-resolution projection is broadcast, not treaty text, witnessed assent or formation. Rin's district-autonomy rationale and Momoka's capacity aside differ from federal indifference. Hanako's `実質的` graduation party and Koharu's Justice affiliation do not override E004's current club assignment or certify reinstatement. No signature is shown.
+- **BA-C008 — STRENGTHEN:** reporter conjecture, anonymous venue source, journalists' unanswered questions, Rin's answer, Momoka's aside, student plans and Sensei's inward line are separate authority layers. SRT/tower questions are not findings; broadcast interruption has no proven cause.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Shinon, Momoka and Ayumu enter narrow `UNMODELED`: **21 partial / 53 unmodeled across 74**; backfill **DEFER**. E006 unopened.
+
+## V003 C003 E006 claim delta — peace apparatus under direct attack
+
+- **BA-C001/C016 — QUALIFY:** Tsurugi and Hinata recognize/guide Sensei amid committee rivalry; adult access depends on student recognition, not innate procedural immunity. Sensei does not prevent the visible attack.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Arius operation start is narrator-marked, Misaki reports missile already launched/five minutes out, Saori orders coordinated entrances around intended cathedral collapse, and an explosion is narrated. This is more than Seia's catastrophe forecast, but exact impact, collapse, casualties and team success are unshown. Hina's ETO-as-shackle is political intention, not implemented treaty. Hinata's Justina lineage/history is member testimony, not ancient enforcement demonstrated. Signature still absent.
+- **BA-C008 — STRENGTHEN:** Justice/Tsurugi tags invert, repeated line and inward Sensei replies caution voice. Hinata's venue agreement is hearsay, catacombs `噂` and Sisterhood policy cause `かもしれません`; Shinon's arrivals are broadcast. Atsuko gestures are nonverbal but not proposition-transcribed; “doll” remains unidentified.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 53 unmodeled across 74**; backfill **DEFER**. E007 unopened.
+
+## V003 C003 E007 claim delta — blast harm and confessional betrayal
+
+- **BA-C001/C016 — REVISE/QUALIFY:** Arona says she tried to shield Sensei, Hinata physically rescues them, and Hasumi/Tsurugi prioritize evacuation and resistance. Survival depends on several student/companion acts; no singular adult rescue or invulnerability follows.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** cathedral fire/spire collapse and Hasumi's mass Justice-incapacity report confirm major attack harm. Makoto self-claims long Arius collusion and sham treaty assent, undercutting public treaty posture, but precise bargain, control and ultimate outcome remain unverified. Iroha's deception account, Ibuki's boxes and a second blast suggest Arius double-cross without showing device agent or deaths. Team II/III/V operational reports advance E006 orders; Nagisa/Sakurako and many Gehenna are missing, not dead. Justina clothing recognition is not ancient identity proof.
+- **BA-C008 — STRENGTHEN:** Hina's ramjet/interception/placed-charge reasoning is internal hypothesis; Makoto/Iroha tags invert at `u:0046/0055`; Mika's location is unmarked; Hasumi's losses are participant report; Hinata's catacomb route is a question and old-garment ID a visual match. Arona's protection/fading is self-report.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Ibuki enters narrow `UNMODELED`: **21 partial / 54 unmodeled across 75**; backfill **DEFER**. E008 unopened.
+
+## V003 C003 E008 claim delta — reported signature, replica terminology
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hasumi, Tsurugi and Hinata hold a retreat corridor while Hina accepts Sensei; Sensei resists leaving them, then moves. Distributed protection does not make the adult a sole rescuer or the students expendable in a proven outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** an Arius student says treaty signing `為された`, but no neutral or direct signing scene appears. Arius calls Justina-like foes `複製（ミメシス）` and Maestro claims to copy guardian dignity; this revises E007's visual mystery toward reproduction without a verified mechanism. Maestro's royal-blood `戒命`/experiment and underground `教義` are actor claims; Hina/Hasumi appraise immediate escape and leadership damage without certifying death or final defeat.
+- **BA-C008 — STRENGTHEN:** combatant statement, Maestro's self-serving explanation, Hiyori's defeat report, Hasumi's near-collapse appraisal and Hina's tactical limits occupy different evidence layers; `u:0029-0031` silent assent is tag-context ambiguous.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Maestro enters narrow `UNMODELED`: **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E009 unopened.
+
+## V003 C003 E009 claim delta — participant signature claim and medical confirmation
+
+- **BA-C001/C016 — REVISE:** Sensei is medically confirmed shot/bleeding and needs Hina/Sena's aid; adult vulnerability and student/medical agency sharply bound a sole-rescuer reading. No final health outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Saori now first-person claims Arius signed for Trinity and became ETO, then declares both schools suppression targets. This is strong actor intent/participant assertion, not a witnessed signature, legal authority, validated First Council right or completed eradication. Saori's “Azusa has no home” rhetoric is counterposed with Sakurako's E002 formal Trinity declaration and student friendship; no automatic nullification.
+- **BA-C008 — STRENGTHEN:** `u:0005/0007` voice tags invert, `u:0022-0024` generic Justina label is suspect, `彼女` at `u:0026` is unnamed, Hiyori's Atsuko-sign gloss is mediated, Saori's death forecast differs from Sena's immediate clinical account, and Seia's dream framing forbids physical-awakening inference.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E010 unopened.
+
+## V003 C003 E010 claim delta — alleged clause and manufactured school conflict
+
+- **BA-C001/C016 — QUALIFY:** Seia's outside-adult contract analogy and Saori's “bad adult” accusation are interpretive positions, not proof Sensei knew the trap or that student friendship was false. Sena's E009 care is not superseded by Saori's death belief.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Saori/Misaki describe missile and a purported added clause assigning ETO to Arius Squad, the strongest in-story account yet but still oral participant testimony without inspected instrument/authority. Seia supplies dream-observed covenant/mimesis theory and disavows prior complete knowledge. Both schools' reserves wrongly blame the other for Arius attack, an observed escalation pathway, while Saori plans future underground attack and awaits Maestro's tactical weapon. No conquest/weapon delivery or final signature audit.
+- **BA-C008 — STRENGTHEN:** Seia's dream explanation, Misaki's constitutional rationale, quoted-but-uninspected treaty wording, Hiyori's “real covenant” claim, Saori's halo necessity theory, Atsuko tag inversion, school accusations and future plans require distinct warrants.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E011 unopened.
+
+## V003 C003 E011 claim delta — emergency coordination without central certainty
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** students and medical responders exercise distributed care while Sensei is wounded: Hifumi searches Azusa, Koharu answers Justice summons, Hanako coordinates, Sena transports, Rescue Knights/Suzumi defend patient access. This does not erase Sensei's importance or prove all efforts succeed.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Marie reports Sakurako's contingency delegation and officers accept Hanako's command plan, advancing E001 help into real emergency role without inspected order/completed ceasefire. Koharu's Justice work cue does not formally supersede E004 remedial status. Faction martial-law demands and both-school conflict are reported, not lawful declarations.
+- **BA-C008 — STRENGTHEN:** Shinon's uncertainty/emergency-declaration question, Sisterhood reports and Hina blame, Marie's guarantee, `u:0018` Hanako tag inversion, Justice orders, Mine reputation, flashbang effects and Sena's later patient reveal have distinct warrant.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Mai, Hanae, Serina, Suzumi and Reisa enter narrow `UNMODELED`: **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E012 unopened.
+
+## V003 C003 E012 claim delta — evidence narrows, theory remains theory
+
+- **BA-C001/C016 — QUALIFY:** Sensei is a treated but unconscious patient according to Sisterhood's relayed Rescue Knights report, unable to direct current inquiry; apparent immediate survival does not prove recovery.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** analyst rejects Hina's ramjet idea and preliminarily places launch inside Trinity district, narrowing Gehenna missile attribution without certifying a Trinity-school culprit or precise Arius launch site. Restored footage/field report leads Hanako to name Justina-looking foes; mimesis/identity remains separately sourced. Hanako's existential no-solution forecast is explicitly a multi-leap hypothesis, not narrator outcome.
+- **BA-C008 — STRENGTHEN:** secondhand medical report, analyst technical result, untranscribed video, Sisterhood combat report, Hanako's visual label and inward theory have distinct evidential weight. The amusement-park story allusion is not admitted as an analyzed side source.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E013 unopened.
+
+## V003 C003 E013 claim delta — voiced necessity versus achieved act
+
+- **BA-C001/C016 — QUALIFY:** Sensei remains absent from direct action; Azusa uses the E009 gunshot as guilt evidence and Hifumi hopes for awakening, neither changing the E012 medical report.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia's end-of-Trinity prediction is her assertion atop Hanako's expressly speculative E012 chain. Azusa declares a halo-destruction plan as the sole answer, without executing it or proving alternatives impossible. Her claim to have caused all harm does not override E002's more differentiated Seia protective deception or formal Trinity status.
+- **BA-C008 — STRENGTHEN:** coded-message sender inference, Seia's dream-adjacent overview, Azusa's prospective “killer” self-label, narration-tagged thanks, Hifumi's hopeful prognosis and their direct dialogue require distinct evidential treatment.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E014 unopened.
+
+## V003 C003 E014 claim delta — device recognition without outcome
+
+- **BA-C001/C016 — PRESERVE:** Sensei has no new voice/health report; Saori's threat to Hifumi does not establish adult response.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Squad now sees a supposed tactical weapon and Saori orders advance, but effect and deployment are not inspected. Saori's covenant-intervention classification is her uncertain tactical reading, not legal revocation of Azusa's Trinity papers. Azusa's ambush challenges Saori's “futile resistance” claim but ends without certified halo destruction.
+- **BA-C008 — STRENGTHEN:** empty location headings, Atsuko gestures through Misaki, Saori's scriptural quotation/procurement non-answer, local collapse, threatened Hifumi, plush-device recognition and absence of a post-warning explosion are distinct evidence limits.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E015 unopened.
+
+## V003 C003 E015 claim delta — an ending without an inspected epilogue
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's dream-frame choices prioritize returning to help students over abstract proof, but the unit shows no physical awakening or completed aid. Seia's unhealed-body warning is not a direct chart.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia pronounces the treaty and story irreparably tragic, then admits she has not seen beyond her “ending.” That limits fatalism without establishing a happy result; signed-document and future peace questions remain open.
+- **BA-C008 — STRENGTHEN:** Seia's viewpoint, her admitted viewing gap, five branch-convergent Sensei choices, dream-frame inward lines, and anomalous `水着/下着` response are not equivalent narrator/medical evidence. Sensei's fear/sleep inference is not a proven etiology.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E016 unopened.
+
+## V003 C003 E016 claim delta — lived aftermath defeats a closed ending
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei physically awakens and states intent to confront accumulated hate; Serina/Hanae still warn of injury, and no completed intervention follows. Distributed rescue/governance arose before waking.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Azusa's explosive ambush does not break Saori/Atsuko's halos, and Squad's assault is delayed, refuting Seia's E015 certified-killing rhetoric without proving overall victory. Pater's Sisterhood-collusion suspicion and claimed rival detention are partisan; no war declaration or legitimate host order. Mika refuses to authorize others' hate while keeping her own Gehenna aversion; Koharu remains formally outside Justice by member statement despite intervention.
+- **BA-C008 — STRENGTHEN:** blast aftermath and Atsuko nod, Seia protector counterfactual, Maestro's cryptic observation, triage/leader reports, Hina empty-bed scene, Pater's coercion claims, `u:0065-0071`/`u:0110` tag uncertainty and direct Sensei awakening require separate authority.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E017 unopened.
+
+## V003 C003 E017 claim delta — local adult intervention and incomplete inner truth
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's physical presence stops one militant confrontation and publicly affirms Koharu's stand, but this does not restore her formal Justice post, establish medical clearance or settle factional crisis. Student initiative precedes the adult request.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika's apparent retrospective Arius friendship wish, later Gehenna-war rationalization, present dislike/refusal and apology complicate a single-motive model. Seia's personal forgiveness and admitted ignorance do not confirm Hanako's abduction hypothesis, deliver reconciliation or cancel responsibility. Nagisa in the apparent recollection is not located in the present.
+- **BA-C008 — STRENGTHEN:** an unmarked retrospective sequence, Mika's inward thought, Seia's crosscut interpretation, direct Koharu stand, Sensei's local intervention and wider reappearance are not interchangeable evidence. The militants' local departure is not a global stand-down.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E018 unopened.
+
+## V003 C003 E018 claim delta — shared help remains a plan
+
+- **BA-C001/C016 — STRENGTHEN:** Sensei responds to wounded allies and promises Hifumi/Hina help; Hifumi/Koharu/Hanako make the Azusa-support decision themselves. No completed search or medical clearance.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia narrates budding Trinity–Gehenna reliance and Justina advance, not verified treaty peace or a coalition operation. Azusa's renewed lethal intent does not establish achieved necessity or outcome. E016 formal Koharu bar remains despite Sensei's E017 praise.
+- **BA-C008 — STRENGTHEN:** E016 secondhand Hasumi/Tsurugi grave condition is updated by direct responsiveness; Ako's failed Hina contact differs from a discovered location. `u:0038-0039` is duplicate choice convergence and `u:0056-0057` inward-response anomaly.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E019 unopened.
+
+## V003 C003 E019 claim delta — rival ETO claim and chosen narrative
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hifumi directly crosses Azusa's exclusion and Sensei supports students' own desired story; Sensei also answers Hina's overlooked need. No final rescue, unilateral adult solution or guaranteed happy ending.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Sensei declares a competing ETO and Misaki reports Justina-control confusion. Seia's Schale-as-presidential-proxy account and Hiyori's two-ETO mechanism are situated inferences, not examined treaty authority. Hina retracts the retirement claim and rejoins coordination; no healing certificate.
+- **BA-C008 — STRENGTHEN:** Hifumi/Abydos mask theatrics and actor boasts, `u:0029/0035/0077/0082-0090` tag inversions, narration-tagged manifesto, weather questions, inward ETO statement, Seia legal speculation and direct Justina disruption must not be collapsed into one evidential grade.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID yet; chapter checkpoint should reconsider the ETO/narrative-agency pattern. No new subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E020 unopened.
+
+## V003 C003 E020 claim delta — cooperation, not completed treaty
+
+- **BA-C001/C016 — QUALIFY:** Hina and peers coordinate directly; no fresh Sensei command or adult monopoly over tactical agency appears.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Gehenna Prefects, Trinity Justice and Abydos committee members agree to a local maneuver. This improves E018's general rapprochement claim but does not establish a signed treaty, lasting ceasefire, lawful ETO replacement or enemy defeat.
+- **BA-C008 — STRENGTHEN:** Hina's “center opened” is an actor report; Hasumi's prior joint-work allusion, accepted aid and reciprocal name/title banter are direct social evidence; destination and combat outcome are unprinted.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E021 unopened.
+
+## V003 C003 E021 claim delta — reframing a proof demand
+
+- **BA-C001/C016 — QUALIFY:** Ako/Chinatsu/Abydos students organize practical information/support without new Sensei command; Seia credits Sensei's conceptual move, not an achieved adult-only victory.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia's ETO-versus-ETO framing and fifth-old-rule concession concern what must be proved before action, not inspected treaty authority or empirical proof paradise exists. E019 Justina disruption remains unmeasured here.
+- **BA-C008 — STRENGTHEN:** Ako's data offer is direct but dataset/delivery/effect are not inspected; Seia's “believing is proof” proposal is immediately self-qualified as not formal proof.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E022 unopened.
+
+## V003 C003 E022 claim delta — lived history cannot be negated by decree
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Hiyori judges Justina depleted and the Squad defeated, but neither mechanism nor final battle is verified. Saori's vow to erase Azusa's Trinity experience is opposed by Hanako, Koharu and Azusa; no formal Trinity status change is shown.
+- **BA-C008 — STRENGTHEN:** Hiyori's participant assessment, Saori/Azusa italic inner voice and Koharu's reference to the independently narrator-certified pass have different evidentiary reach.
+- **BA-C001/C016 — QUALIFY:** students directly answer Saori without Sensei appearing in this unit. Their response preserves agency, not a predicted final rescue.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E023 unopened.
+
+## V003 C003 E023 claim delta — an alleged remaining underground means
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Saori's “that” beneath the old cathedral and last-battle declaration revise Hiyori/Misaki's near-ending assessment, without identifying or verifying a weapon, mechanism or result.
+- **BA-C001/C016 — QUALIFY:** Azusa decides to go, protects injured Hifumi from joining and relies on Sensei's chosen accompaniment plus her friends' support. This is neither lone adult rescue nor achieved safety.
+- **BA-C008 — STRENGTHEN:** distinguish Saori's unnamed allusion, Hanako's inference, Azusa's promised return, printed Sensei choice and later inward voice.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E024 unopened.
+
+## V003 C003 E024 claim delta — learned hatred, incomplete form, failed search
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Atsuko calls the Squad's hatred learned and proposes flight, but does not identify its teacher or achieve safety. Maestro's manifested doctrine is questioned by Atsuko and later admitted incomplete by him; neither its full mechanism nor his future completion is proved.
+- **BA-C001/C016 — QUALIFY:** Sensei appears to take out an adult card after Azusa warns of danger. Maestro describes its life/time cost and unknowable source/limits, which remain his claims rather than independently audited mechanics or proof of adult-only rescue.
+- **BA-C008 — STRENGTHEN:** narration certifies that the search for Squad failed but only conjectures an unidentified underground route. Scene 2 repeated Hiyori tags bar precise individual attitudes; italic Atsuko/Saori lines and Sensei inward action also require mode control.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E025 unopened.
+
+## V003 C003 E025 claim delta — epilogue is recurrence, not total closure
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Nagisa self-reports survival, Mine returns and Seia directly addresses Nagisa/Mika, but treaty validity, complete medical recovery, formal Tea Party settlement and reparative dialogue remain open. The same four students recur in Remedial Club; C002's pass is not cancelled.
+- **BA-C001/C016 — QUALIFY:** Sensei's comic inward reaction to recurring students does not erase their separate agency or prove new expulsion. Atsuko's hope for Azusa is her perspective, not a delivered message or guaranteed future.
+- **BA-C008 — STRENGTHEN:** letter voicing, italic montage, `u:0034-0036/0049-0052` label conflicts, character assurances and the anonymous kill/capture order have distinct evidentiary weight. The order is a real threat, not a completed act.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Mine becomes one narrow tracked `UNMODELED` subject; readiness **21 partial / 61 unmodeled across 82**; backfill **DEFER**. C003 chapter checkpoint required before C004 E001.
+
+## V003 C003 checkpoint claim reconciliation
+
+- **BA-C001/C016 — STRENGTHEN, QUALIFY:** Sensei's vulnerable survival, bounded local help, accompaniment and card response coexist with student rescue, Hifumi's intervention, Atsuko's dissent and cross-school aid. No single-agent salvation rule.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE by domain:** prior four-pass academic fact persists; treaty/ETO legality, mimesis mechanism, medical disposition, school process and Squad safety have different proof states. Learned hatred is Atsuko's meaningful challenge, not a complete causal archive.
+- **BA-C008 — STRENGTHEN:** narrator event, forensic preliminary report, interested confession, prophecy, inward wish, letter voicing and tag faults cannot be flattened into a single certainty.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) is canonical authority for these chapter-local dispositions. No new durable claim ID, model, frozen prediction or side-source admission; **21 partial / 61 unmodeled across 82**; backfill **DEFER**. C004 E001 unopened.
+
+## V003 C004 E001 claim delta — a named promise is broken
+
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE, QUALIFY:** Beatrice self-identifies after E025's anonymous order, promises Squad release in exchange for Atsuko, then orders the rest killed. This is direct betrayal, not completed death, full ritual knowledge or retroactive E025 name certainty.
+- **BA-C001/C016 — PRESERVE:** Sensei is not present; Atsuko independently proposes a coerced sacrifice, Saori another, neither outcome complete.
+- **BA-C008 — STRENGTHEN:** `u:0028/0039` labels conflict with address/context, while Misaki's injury report, Saori's unused bomb, Beatrice's promise/order and the Arius student's `撃て` have different warrant.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Beatrice adds one narrow `UNMODELED` subject: **21 partial / 62 unmodeled across 83**; backfill **DEFER**. C004 E002 unopened.
+
+## V003 C004 E002 claim delta — incomplete inquiry and a hearing forecast
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Sakurako/Mine/Nagisa continue aftermath analysis, explicitly lacking evidence for Justina hypotheses and Arius location. Nagisa's missile-technology account, Azusa rotating-map report, Seia protection theory and Mika-route suspicion are not equivalent to inspected records or final sanction.
+- **BA-C001/C016 — QUALIFY:** Nagisa acknowledges her share of the remedial four's burden, Sakurako says Hanako's pact is over, and Sensei agrees to stay with leaders. Shielding intent does not certify students' exclusion or institutional remedy.
+- **BA-C008 — STRENGTHEN:** Mine's carer report of worsened Seia health, continued technical unknowns, accusation/rebuttal over Azusa and severe speaker-label inversions require a provenance-by-line reading. Nagisa's choice to trust Mika is not an innocence finding.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 Squad firing-order result still unseen; C004 E003 unopened.
+
+## V003 C004 E003 claim delta — attendance chosen, vision reported
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Nagisa distinguishes completed Pater expulsion and decided Tea Party disqualification from forecast school expulsion. Mika's new agreement to attend is not the hearing, pardon or adjudicated penalty.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei's visit and promise to seek Seia make a previously refused hearing discussable for Mika. She consents to attend; neither apology nor reconciliation is completed.
+- **BA-C008 — STRENGTHEN:** Nagisa's reported stone-throwing/burned property differs from directly printed protest; Mika's interpretation of Seia's refusal conflicts with Seia's illness explanation; Seia's present symptoms and asserted dream-vision have different epistemic standing.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 firing-order result and tomorrow's hearing remain unshown; C004 E004 unopened.
+
+## V003 C004 E004 claim delta — risk bounded, dream belief corrected
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia separately agrees to attend Mika's hearing, asks for a private pre-hearing talk, and Nagisa is narratively informed. No meeting, sentence mitigation or hearing outcome follows on-page.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei challenges Seia's self-endangering solo search, calls for evidence and cooperation, and directs attention to Mika. This is care/agency guidance, not an assumption of all causal control.
+- **BA-C008 — STRENGTHEN:** Seia expressly cannot classify her vision as nightmare, past or future; outside-origin intuition and Gematria blame are not observations. Her prior forgiveness is reclassified as dream-experienced, not delivered directly; the apparent Gematria meeting is dream-framed.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 firing outcome, Mika meeting and hearing remain unseen; C004 E005 unopened.
+
+## V003 C004 E005 claim delta — apparent Gematria dispute and assassination claim
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY/STRENGTHEN locally:** Beatrice's in-frame admissions treat Arius hatred as control, Squad as expendable, Treaty/guardian power as instrumental and an altar as her plan. These claims do not supply audited governance, a completed ritual or Mika's knowledge of Beatrice's hidden use.
+- **BA-C001/C016 — QUALIFY:** Black Suit/Maestro favor Sensei engagement while Beatrice demands elimination and claims Squad was offered reprieve for killing Sensei. No actual attack or accepted offer is shown.
+- **BA-C008 — STRENGTHEN:** Seia's lucid-dream viewpoint, `u:0044/0048/0102` speaker faults, Beatrice's self-account and Seia's conditional causal inference must not be collapsed into external certainty.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Golconda and Decalcomania add two narrow label-present `UNMODELED` subjects, identity relation open: **21 partial / 64 unmodeled across 85**; backfill **DEFER**. E001 firing outcome, Squad-task delivery and Mika–Seia repair remain unshown; C004 E006 unopened.
+
+## V003 C004 E006 claim delta — health crisis and unknown-source meeting
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika and Seia meet privately, but Seia's crisis interrupts repair. Her audible `君のせいではない` corrects her own immediate accusation; no full mutual apology or hearing follows.
+- **BA-C001/C016 — QUALIFY:** Sensei feels an uncertain Seia voice, follows an unknown-origin email and encounters Saori. No attack, sender identity or successful warning is demonstrated.
+- **BA-C008 — STRENGTHEN:** direct Mika/Justice help-call and Seia symptoms contrast with crosscut Beatrice/basilica perception; Seia's altar/apocalypse link remains inference. Duplicate scene 2 narration is one arrival description.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. E001 firing outcome, Squad-task delivery and tomorrow's hearing remain open; C004 E007 unopened.
+
+## V003 C004 E007 claim delta — aid without a lethal bargain
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** anonymous crowd guilt and Mika's “all Saori” attribution exceed proof; wall breach/escape is materially supported, but no retaliatory attack or hearing outcome. Saori's Beatrice identification and basilica lead narrow the search without verifying Atsuko's current location or ritual.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei accepts a prior shooter's student plea, insists on equal conversation and removes halo bombs rather than taking Saori's offered lethal authority. Technical safety and rescue outcome remain unproven.
+- **BA-C008 — STRENGTHEN:** reported Seia medical signs, Saori's retrospective bargain, Mika's distress and narrator-backed bomb confiscation/destruction have separate warrant. Saori survives E001, but other Squad fates remain unknown.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E008 unopened.
+
+## V003 C004 E008 claim delta — reprieve offers and a held bridge
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Hiyori says she refused a return-for-betrayal offer; Misaki and Saori confirm hearing kill-Sensei amnesty terms. This supports message delivery but not offer fidelity, actual pardon or attack.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei reassures Hiyori, helps former adversaries and warns Misaki of immediate danger. Saori's intervention holds Misaki at the bridge; no jump or durable safety is established.
+- **BA-C008 — STRENGTHEN:** Hiyori's Schale-dungeon rumor, `u:0041` tag fault, Misaki's self-harm risk/history by Saori report, and the midnight **entrance** target remain distinct.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. Entry, rescue, Seia's illness and Mika's escape remain open; C004 E009 unopened.
+
+## V003 C004 E009 claim delta — timed route, offscreen victory
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Squad's coded/rotating catacomb account and midnight closure narrow urgency but are not an independently surveyed map. Arius pursuers appear and a later appraisal reports an easy result, not inspected fight mechanics or district entry.
+- **BA-C001/C016 — QUALIFY:** “adult power” is Hiyori's response to offscreen success; Sensei's only printed choice asks about the changing route.
+- **BA-C008 — STRENGTHEN:** `u:0011-0014/0020-0022` and scene 2 `u:0004-0006` label/style inversions require group-level attribution.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. Actual district entry and Atsuko rescue remain open; C004 E010 unopened.
+
+## V003 C004 E010 claim delta — formation before contact
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Squad chooses the known route and Mika appears there; no proven Beatrice guard deployment, route crossing or battle outcome.
+- **BA-C001/C016 — STRENGTHEN locally:** Saori allocates danger to Squad and keeps Sensei behind until safe, a direct protective formation rather than a completed rescue.
+- **BA-C008 — STRENGTHEN:** route-preparation guesses and direct Mika arrival must not be merged into a proven joint plan. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E011 unopened.
+
+## V003 C004 E011 claim delta — passage and unresolved confrontation
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika self-reports no lethal order, admits her own damaging choices and threatens Squad; Arius pursuers call Squad defectors. Neither version is a full legal/command audit or a completed revenge outcome.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei promises Mika later explanation but chooses immediate Squad passage; adult help is triage under deadline, not total conflict resolution.
+- **BA-C008 — STRENGTHEN:** opener repetition, Hiyori-tag inversions, duplicated pursuer line and last firing order constrain attribution/outcome. Catacomb entry, unlike district entry, is directly supported.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E012 unopened.
+
+## V003 C004 E012 claim delta — ruins, care and uncertain reception
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika's revenge resolve persists; Squad calls the reached site former district/training ground, with current district farther ahead. Civil-war/abuse memories are participant testimony.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei provides antipyretic and suggests rest; Misaki administers it and coordinates watch. No clinical efficacy, completed rescue or sole-adult-care inference.
+- **BA-C008 — STRENGTHEN:** Seia explicitly doubts message delivery and ritual knowledge; dream attack, outside-being contact, apocalypse and Atsuko death are her account/forecast, not audited future.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E013 unopened.
+
+## V003 C004 E013 claim delta — an insider history with explicit rumor and an unlocated route
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Misaki/Hiyori's participant childhood account specifies Madame's hate and no-home teaching, but her official authority, Atsuko genealogy and sacrifice chronology are not independent records. Saori's retrospective supports a coercive rescue bargain from her perspective.
+- **BA-C001/C016 — STRENGTHEN locally:** Hiyori reports fever down and Saori wakes but remains impaired; Sensei asks for testimony and assents to the students' route plan. Neither full medical recovery nor corridor access follows.
+- **BA-C008 — PRESERVE:** Seia's E012 voice is not confirmed as received; Mika separately meets Arius guards and reacts to attack, with clash outcome open.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E014 unopened.
+
+## V003 C004 E014 claim delta — adult predation stated, path mechanism claimed
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE:** Beatrice self-identifies as Madame and explicitly admits hatred/falsehood pedagogy, calling Trinity/Gehenna occupation a control pretext. Her path-once-connected and royal-blood original objective are actor admissions, not a technical audit; Squad's preliminary treaty-cancellation inference has tag faults.
+- **BA-C001/C016 — STRENGTHEN:** Sensei refuses sacrifice-bought truth and opposes adult-as-predator learning abuse. The strongest condemnation is inward, so Beatrice's response is a serialization gap, not proof of spoken declaration.
+- **BA-C008 — PRESERVE:** neither Seia's apocalypse nor outside entity is confirmed by Beatrice's truth pitch. Mika self-reports a failed attempt in a scene cut, with no observed tactics.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E015 unopened.
+
+## V003 C004 E015 claim delta — local subdual without repair
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Mika ties revenge to feared expulsion, loss of Sensei/Nagisa and absence of meaning if Squad avoids punishment. Her killer label and no-future forecast are not adjudications. Saori/Mika report a temporary subdual after skipped combat, followed by Mika's departure/renewed intent.
+- **BA-C001/C016 — QUALIFY:** Sensei inwardly wants to stop Mika; one paired choice offers either probable Seia safety or return/non-harm appeal. Do not merge alternatives or infer a voiced inner-thought command.
+- **BA-C008 — PRESERVE:** Seia's status is not newly observed. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E016 unopened.
+
+## V003 C004 E016 claim delta — real corridor, selective obstruction
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** old-school/corridor location cards confirm the route exists and is reached. Mika's stated force-reduction/isolation intent aligns with a visible collapse separating Saori, but not with an inspected device or measured harm.
+- **BA-C001/C016 — QUALIFY:** Sensei dodges and answers safe locally; physical separation constrains immediate aid to Saori. A full rescue or basilica arrival is still open.
+- **BA-C008/C019/C020 — PRESERVE:** no Seia or Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E017 unopened.
+
+## V003 C004 E017 claim delta — triage, unstable revenge and Color named
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Mika's anyone/Saori statements resist a simple target ranking; Saori accepts responsibility for Mika's losses without proving sole cause. Their weapon exchange begins but no duel conclusion follows. Sensei leaves toward Atsuko by Saori's request under a participant one-hour clock.
+- **BA-C001/C016 — QUALIFY:** Misaki describes the detour/rescue tradeoff and yields final decision to Sensei. Continuing rescue is urgent triage, not evidence Saori is safe or disposable.
+- **BA-C008 — STRENGTHEN:** Beatrice names `色彩` while disclaiming Gematria knowledge and describes Seia's exposure/`mystery`-to-`terror` mechanism as her own account. Barbara is an unfinished projected weapon, not a present entity or new tracked subject.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E018 unopened.
+
+## V003 C004 E018 claim delta — the reconciliation proposal predates its weaponization
+
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/STRENGTHEN:** retrospective dialogue directly shows Mika's initial pre-Seia/pre-coup reconciliation and Arius transfer proposal; Beatrice separately orders Saori to reject that aim and retain intelligence contact. Saori says Azusa's original role was symbol, not spy, before Seia-attack/coup pivots. Her and Mika's later guilt/total-cause interpretations remain distinct from these printed events.
+- **BA-C001/C016 — STRENGTHEN:** Mika refuses to kill defeated Saori, citing her own wish for a second chance; Saori directly confirms Sensei confiscated halo bombs. Sensei physically returns, with route and inner-line audibility open.
+- **BA-C008 — PRESERVE:** retrospective Seia-halo-bomb kill order is described, but no new Seia physical status or blast-mechanism proof. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E019 unopened.
+
+## V003 C004 E019 claim delta — chances promised, dawn no longer a deadline
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Sensei names Mika's harm and earlier reconciliation in private appraisal while offering a conditional Trinity return; no pardon or school ruling follows.
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei returns to injured Saori, offers Mika help and says chances can be made. The more expansive infinite-possibility/adult pledge is inner thought, normative not predictive.
+- **BA-C008 — QUALIFY:** Beatrice says she will not wait until sunrise, starts a rite and orders Barbara against Sensei; halo destruction/elevation/action remain future or unprinted. Seia's new daydream visitor is unidentified, not physical-recovery proof.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E020 unopened.
+
+## V003 C004 E020 claim delta — Barbara as directly encountered narrow subject
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN narrowly:** E019's named Barbara order and E020's saint title/reaction support a direct encounter with the title-linked threat. Hiyori's comparison to a tactical weapon is not measured capability and no battle outcome follows.
+- **BA-C001/C016/C008 — PRESERVE:** no shown Sensei tactic, rescue, halo result, path mechanism or Seia update. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+Barbara enters as one narrow `UNMODELED` tracked subject: **21 partial / 65 unmodeled across 86**, none operational/validated. No new durable claim ID, standalone model, frozen prediction or side-source admission; backfill **DEFER**. C004 E021 unopened.
+
+## V003 C004 E021 claim delta — sanctuary reached, rescue open
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Mika independently chooses the Barbara diversion and Saori's party reaches the basilica's inner sanctuary. The prior route/arrival uncertainty is resolved locally, but diversion success, reconciliation and battle result are unshown.
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei accepts Mika's split and cautions her; the students carry the tactic and approach. No adult command or completed rescue is printed.
+- **BA-C008 — QUALIFY:** Misaki's visual “only unconscious” report does not confirm Beatrice's imminent halo-break forecast, but cannot refute it without medical/halo inspection. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E022 unopened.
+
+## V003 C004 E022 claim delta — adult-role refusal, unconfirmed ascension
+
+- **BA-C001/C016 — STRENGTHEN:** Sensei directly rejects Beatrice's absolute judge/savior framing and audibly identifies as a teacher for students, then offers to stand with Squad. Inner thought gives the rights/capacity limits, not a transcript of what Beatrice hears.
+- **BA-C008/C021 — QUALIFY:** Beatrice claims an active royal-blood/outside-power rite and elevated form, but after an omitted clash says her power is failing and wonders if the rite was incomplete. Complete ascension, halo destruction and final defeat remain unverified.
+- **BA-C002–C004/C007/C010–C011 — STRENGTHEN locally:** Squad assents to fight/save Atsuko; Beatrice's post-cut distress establishes a setback, not the tactic or complete victory. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E023 unopened.
+
+## V003 C004 E023 claim delta — pardon distinct from exoneration
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Mika admits equal-pain revenge and directly replaces it with personal forgiveness/prayer for Squad's future, then promises another rear guard. Her inferred Saori psychology and pursuer identity remain bounded; neither combat result nor reconciliation reception is shown.
+- **BA-C001/C016 — QUALIFY:** Mika trusts Sensei to help Squad but says her own happy ending is too late. This self-disqualification is in tension with Sensei's chance-making pledge, not a formal ruling or proof of adult failure.
+- **BA-C008 — PRESERVE:** no new ritual or halo observation. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E024 unopened.
+
+## V003 C004 E024 claim delta — live Atsuko, interrupted rite, untested bomb
+
+- **BA-C008/C021 — REVISE/QUALIFY:** Atsuko directly wakes and speaks after Misaki reports severe injury/blood loss, so E021's unconscious-only observation is superseded but recovery/halo status is not secured. Beatrice is down and calls the ritual obstructed; she claims retained Barbara/troops/mimesis, unverified. Golconda claims he made Sensei's bomb and says no one ever confirmed a halo-destruction effect. This sharply limits any asserted proof of lethality without establishing safety.
+- **BA-C001/C016 — STRENGTHEN:** Sensei calls Squad precious students and denounces Beatrice's false teaching; Saori thanks Sensei after Atsuko wakes. The intervening fight tactic is omitted.
+- **BA-C002–C004/C007/C010–C011 — STRENGTHEN:** Squad and Atsuko reunite directly. Mika's rear-guard effect is suggested by absent reinforcements/Kyrie but not combat-audited. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Golconda's existing row gains direct-present evidence; readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E025 unopened.
+
+## V003 C004 E025 claim delta — life responsibility and new rescue front
+
+- **BA-C001/C016 — STRENGTHEN:** Sensei separates Saori's real wrongdoing from the adult-created world of suffering and redirects responsibility toward her own future. Sensei returns for Mika and draws the adult card, but no activation/effect/cost is printed.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Saori offers accountability and reports first believing she may exist; Mika says she held the line until dawn. Mine/Justice enter Arius and declare rescue/treatment, with outcomes still open.
+- **BA-C008 — QUALIFY:** Atsuko hypothesizes mask-triggered protection at the prior bomb event; neither technical mechanism nor Beatrice motive is inspected. Sensei reports Beatrice escaped, while permanent harmlessness is only `思う`. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E026 unopened.
+
+## V003 C004 E026 claim delta — student-led extraction and present Seia
+
+- **BA-C001/C016 — STRENGTHEN:** Justice finds/holds Sensei and Mika through Seia/Azusa-guided routes, exemplifying the students reciprocally rescuing the adult. Seia explicitly says the relation should not rely only on Sensei.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Mika survives to a direct reunion with Seia/Nagisa, receives Koharu-saved belongings and prepares for a still-future hearing. Azusa asks safety for former Squad despite their wrongs. No formal pardon or hearing ruling.
+- **BA-C008 — REVISE/QUALIFY:** Seia is directly awake and present, but her daydream deal remains unidentified and no clinical mechanism is supplied. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+Ui enters as one narrow `UNMODELED` tracked subject: **21 partial / 66 unmodeled across 87**, none operational/validated. No new durable claim ID, standalone model, frozen prediction or side-source admission; backfill **DEFER**. C004 E027 unopened.
+
+## V003 C004 E027 claim delta — epilogue resists total closure
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Saori leaves Squad to seek an answer and wages, while Misaki predicts pursuit/homelessness and Atsuko claims a possible shared happy ending. These are active futures, not institutional settlement or return.
+- **BA-C008 — QUALIFY:** Seia says loss of prophetic dreams is the deal's price and withholds the last vision. Report is not a longitudinal test or the predicted event itself.
+- **BA-C001/C016 — STRENGTHEN narrowly:** Squad expects Sensei's witness/support; Sensei inwardly marks hearing start, not outcome. Volume 1 Aru/Haruka command-misreading and Black Market exploitation recur, without a new claim ID or external-side evidence. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 66 unmodeled across 87**; backfill **DEFER**. C004 checkpoint pending before V004 C001 E001.
+
+## MAIN V003 C004 checkpoint claim reconciliation
+
+The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) reconciles E001–E027. **BA-C001/C016 — STRENGTHEN/QUALIFY:** bounded teacher care plus reciprocal student rescue, no card-power audit. **BA-C002–C004/C007/C010–C011/C021 — REVISE by domain:** local rite interrupted and Atsuko/Mika found, but hearing, health, livelihood and governance open. **BA-C008 — STRENGTHEN evidence calibration:** actor ritual/halo/mask/bomb claims remain distinct from direct waking and unprinted battle. **BA-C019/C020 — PRESERVE.** No new durable claim ID or standalone model. Readiness **21 partial / 66 unmodeled across 87**, none operational/validated; frozen prediction `NONE` (`NO_DIAGNOSTIC_OPPORTUNITY`); side-source backfill **DEFER**. V004 C001 E001 unopened.
+
+## V004 C001 E001 claim delta — paperwork and delegated federal crisis
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Rin praises Schale's field work but requires accurate documents, then asks Sensei to stop the SRT park occupation only after reported Valkyrie failures. This supports accountable, requested adult assistance rather than independent command over GSC affairs.
+- **BA-C008 — STRENGTHEN method:** SRT closure, squad size, Valkyrie defeats, powerful weapons and Kronos escalation are Ayumu/Rin reports, not inspected orders or battle transcripts; no protester motive is heard.
+- **BA-C002–C004/C007/C010–C011/C021 and BA-C019/C020 — PRESERVE:** no direct test of prior story claims.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 66 unmodeled across 87**; backfill **DEFER**. V004 C001 E002 unopened.
+
+## V004 C001 E002 claim delta — tactical attribution and under-ranked students
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's `みんな「生徒」` stance leads to deploying Kirino/Fubuki with Valkyrie support; Kanna directly recognizes their local success, but Sensei's off-page tactical plan and broader pedagogical mechanism remain unverified. **BA-C008 — STRENGTHEN evidence discipline:** Kanna's closure/transfer and Kirino's illegal-weapons labels are attributed institutional claims; Miyako's deliberate-false-aim explanation is her inference, whereas Kirino's surprise is direct counterweight. A gunshot near Miyu is not an injury certificate. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Seven new `UNMODELED` subjects bring readiness to **21 partial / 73 unmodeled across 94**. No new durable claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E003 unopened.
+
+## V004 C001 E003 claim delta — four motives and official-looking records
+
+**BA-C008 — STRENGTHEN/DIFFERENTIATE:** E003 directly tests the E001–E002 outsider frame. Saki's strict SRT identity coexists with her confessed desire to try wasteful fire; Moe names weapons, Miyu fear of social erasure, Miyako non-partisan justice. Neither Kanna's GSC-file scores, Kirino's shopping-street rumor, nor the narrator's `不適格`/`保留` stamps establish a final legal disposition. **BA-C001/C016 — QUALIFY:** Sensei listens and asks about conditions but cannot personally reverse a council closure; Miyako's distrust persists. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Kaya enters narrow `UNMODELED` coverage; **21 partial / 74 unmodeled across 95**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E004 unopened.
+
+## V004 C001 E004 claim delta — reported federal history and offered discretion
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's noncoercive stance toward student paths is printed as inward thought, not secure audible negotiation; Kaya independently voices an offer of broad disposition discretion whose use is not yet shown. **BA-C008 — STRENGTHEN method:** Kaya's Administrative Committee map, presidential SRT mandate, FOX attack/fire/injuries, possible record erasure and her own authority claims are participant briefing, not inspected files or implemented decisions. `u:0057` self-address and `u:0051-0052` inner-thought response remain attribution anomalies. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new tracked subject/readiness change: **21 partial / 74 unmodeled across 95**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E005 unopened.
+
+## V004 C001 E005 claim delta — practical freedom, persistent opposition
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** the students respond to a represented release and select park camping; Sensei offers but does not force Schale lodging or trust. The release line is `心の声`-tagged and no custody/record instrument is inspected. **BA-C008 — STRENGTHEN method:** Saki/Moe's predicted expulsion/experiments and Schale bugging/abuse rumors are fears/speculation, not outcomes. `u:0053-0059` labels compromise specific voice attribution. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new subject/readiness promotion: **21 partial / 74 unmodeled across 95**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E006 unopened.
+
+## V004 C001 E006 claim delta — help with leverage risk
+
+**BA-C001/C016 — REVISE/QUALIFY:** Sensei's E005 non-demanding release is followed by an E006 transfer proposal during acute hunger, which the squad reasonably reads as bargaining. The later note/Sora waste-disposal route supplies apparent food access without a printed transfer condition, but does not erase the pressure of the earlier question. **BA-C008 — STRENGTHEN method:** Moe's uncertain mine location, Miyu's frozen-account report, Saki's safety objection, Sora's discard description and the squad's verbal assent to ramen are not detonation, bank file, toxicity audit or completed meal. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Sora enters narrow `UNMODELED` coverage: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E007 unopened.
+
+## V004 C001 E007 claim delta — temporary food resolution, hygiene open
+
+**BA-C001/C016 — QUALIFY:** Sensei's welfare visit and drum-bath suggestion are locally useful, but the direct Schale shower offer is refused and no bath occurs. **BA-C008 — STRENGTHEN method:** Moe confirms E006's waste meals addressed food for the present; this is neither permanent supply nor safety audit. Saki's four-day hygiene report and Miyako's operation order are direct, while illness, procurement, authorization and success are future/open. `u:0054-0055` Miyu self-reply is voice-suspect. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness change: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E008 unopened.
+
+## V004 C001 E008 claim delta — effective rescue, breached privacy
+
+**BA-C001/C016 — REVISE/QUALIFY:** Sensei's barrel camouflage suggestion helps return with Miyu, but unconsented presence during the squad's bath is directly challenged; “watching” is not established permission. Adult help is not automatically ethical. **BA-C008 — STRENGTHEN method:** Miyako's no-loss disposal claim and guard theft accusation conflict without an ownership audit; team no-injury reports and narrated park return are stronger local outcomes. Alley voices' scarcity account is a report, not verified stock. The missile order has no printed strike. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No individually tracked subject/readiness promotion: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E009 unopened.
+
+## V004 C001 E009 claim delta — rumor versus narrated incapacitation
+
+**BA-C001/C016 — QUALIFY:** Sensei's market reassurance to Kirino is choice-conditioned/incomplete, and an unknown smoker later incapacitates them; no attacker identity or wider protective-role conclusion follows. **BA-C008 — STRENGTHEN method:** Kirino's armed-wanderer theft story and schoolwide budget/munition shortage are reports; Sensei's `麻酔` is conjecture, whereas smoke inhalation and loss of consciousness are narrated. Do not equate the two `？？？` stretches or identify the late actor with the E008 leader. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new tracked subject/readiness change: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E010 unopened.
+
+## V004 C001 E010 claim delta — captivity, deception and contested goods
+
+**BA-C001/C016 — REVISE/QUALIFY:** Sensei denies being RABBIT's commander but falsely advertises a wagyu bento to summon them; the supply purchase is one of two choice alternatives, not an enacted universal rescue ethic. **BA-C008 — STRENGTHEN method:** Decartes's food entitlement and property claim, Miyako's warning-shot/restitution account, and post-clash squad reports must remain distinct from narrated flight, apparent injury-free withdrawal and actual failure to take goods. The E009 smoker is still unidentified; the E008 leader link is contextual. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Decartes enters narrow UNMODELED coverage: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E011 unopened.
+
+## V004 C001 E011 claim delta — costly help without transfer
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei aids RABBIT's own park-defense effort without a transfer bargain; Miyako directly acknowledges help, but distrust and Schale-move questions remain unresolved. A cold is a narrator-confirmed personal cost, not proof of universal beneficence. **BA-C008 — STRENGTHEN method:** Saki/Moe report lost ammunition/communications gear; Miyako reports no complete park inundation, and narration confirms joint drainage work. Do not infer an exact inventory, lightning mechanism or sole causal reason flooding is avoided. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E012 unopened.
+
+## V004 C001 E012 claim delta — repair refusal and Kaya's expectation
+
+**BA-C001/C016 — QUALIFY:** Sensei's repair proposal pursues the students' chosen camp but gains no federal help; effort is shown, not successful provision. **BA-C008 — STRENGTHEN method:** Rin/Kaya's administrative rationales, Kanna's demolition/weapon reports and Kaya's privately voiced expectation of Sensei–RABBIT rupture are different evidence kinds. Kaya's admission undercuts a simple supportive reading of her courtesy, but does not prove she caused prior attacks, weather or food scarcity. Most council refusals are narrated, not individually documented. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No named subject/readiness promotion: **21 partial / 76 unmodeled across 97**; unnamed partner stays role-level. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E013 unopened.
+
+## V004 C001 E013 claim delta — sale, rumor and identity restraint
+
+**BA-C001/C016 — QUALIFY:** Sensei pays for food and shares it, but a choice variant says it was found; the adult's stated duty to support student dreams is explicit, not proof of a complete support outcome. **BA-C008 — STRENGTHEN method:** Kaiser Construction/subway/demolition and cancellation remain the seller's rumor (against E012's independently voiced redevelopment plan); narrator confirms the purchase and meal sharing. The seller's former friends/juniors and Miyako's SRT-senior memory form a clue, not an identity match. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new named subject/readiness promotion: **21 partial / 76 unmodeled across 97**. Anonymous seller stays role-level; no model, frozen prediction, durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E014 unopened.
+
+## V004 C001 E014 claim delta — failed barter, unknown arms buyer
+
+**BA-C001/C016 — QUALIFY:** Sensei's bank-robbery prompt is rejected and brief objections do not amount to supervision of Moe's high-hazard arms proposal. **BA-C008 — STRENGTHEN method:** Moe's account of personal past purchases, Miyako/Miyu's accounting suspicion, the salesman's VVIP/anonymous-stock report and the actual cancelled transaction are distinct. No completed barter, shipment or buyer identity follows; a new auction message is only an unread lead. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E015 unopened.
+
+## V004 C001 E015 claim delta — cash sale, raid report and direct arrival
+
+**BA-C001/C016 — QUALIFY:** Sensei's Kanna naming is a choice alternative, and no new protective result follows before the cut. **BA-C008 — STRENGTHEN method:** the cash-sale aftermath is directly spoken/seen, but no transaction scene or banknote test; Decartes reports an earlier Public Security raid, Saki gives an incomplete HEIAP/Kaiser inference, Miyu hypothesizes Valkyrie bought stock, and an unnamed Public Security student directly arrives. Do not collapse these into a proven purchaser, weapon source or past shooter. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No named subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E016 unopened.
+
+## V004 C001 E016 claim delta — reprieve and conditional rebate model
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei secures a direct temporary Public Security withdrawal and supports RABBIT's own decision; their liability promise has a `心の声` label conflict and does not establish legal coverage. **BA-C008 — STRENGTHEN method:** Kanna's sponsor-backed procurement/eviction authority, Moe's Kaiser-brand recognition, Miyako's conditional Kaiser Construction/Industry rebate theory, and Kanna's actual withdrawal are separate. Sensei and Miyako explicitly say the suspected transaction is unproved. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E017 unopened.
+
+## V004 C001 E017 claim delta — archive support, not adjudication
+
+**BA-C008 — REVISE evidence grade:** a Public Security archive record labeled Kaiser Industry and dated one week prior is found; Miyako reads it as Clover evidence of an illegal rebate involving 子ウサギタウン. This strongly advances the E016 hypothesis from speculation, but full ledger content, authenticity, transfer chain and adjudication are not printed. Her forecast that it can stop Public Security is untested, and exit is now blocked. **BA-C001/C016 — QUALIFY:** Sensei is intentionally excluded from physical infiltration and only has paired off-site responses; student action drives discovery. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E018 unopened.
+
+## V004 C001 E018 claim delta — local tactical success, unclosed risk
+
+**BA-C001/C016 — QUALIFY:** Sensei offers support from outside the archive; the thought-tagged trust prompt cannot replace Miyako's own command and teammate execution. **BA-C008 — STRENGTHEN method:** a deliberate alarm enables archive exit, temperature falsification visibly triggers sprinklers/fire doors, and Kirino reports every shot misses; these are bounded effects. The C4/lithium object has no printed blast or casualty result, Fubuki's trap mechanism is skipped, and whole-building exfiltration/admissibility remain open. Saki's captain endorsement is direct local relation evidence. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E019 unopened.
+
+## V004 C001 E019 claim delta — Kanna's non-denial and completed handoff
+
+**BA-C008 — REVISE evidence grade:** the archive record is carried out and handed to Sensei; Kanna's rooftop reply acknowledges public-rule obligation and defends dirty compromise rather than denying the charged bargain. This is convergent support, not a full transaction admission, mastermind identification or external legal finding. **BA-C001/C016 — QUALIFY:** Sensei takes adult follow-up after student-executed retrieval and a participant-reported safe return; their Kanna dialogue has `心の声` seams and no official action yet. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E020 unopened.
+
+## V004 C001 E020 claim delta — publicity, cancellation report and coup disclosure
+
+**BA-C008 — REVISE public/hidden state:** Chronos airs an anonymous-source bribery report; Moe reports a federal investigation team and Kaiser cancellation, but formal orders, findings and company notice are uninspected. Kaya directly admits an undiscovered Kaiser/“our side” link and proposes RABBIT's inclusion in a coup, while Yukino names SRT revival/Schale abolition goals. These are actor intentions, not a completed seizure or proof of the full secret link. **BA-C001/C016 — QUALIFY:** Sensei has Clover from E019, but E020 does not print disclosure method or direction of authorities. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Four FOX seniors enter `UNMODELED`: **21 partial / 80 unmodeled across 101**. No durable new claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. Stop before V004 C002 E001.
+
+## V004 C001 checkpoint reconciliation — evidence ladder fixed
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** support for student choice, local release, drainage aid, reprieve and evidence custody coexist with privacy breach, tactical deception, imperfect knowledge and unresolved adult follow-through. **BA-C008 — REVISE:** E016 hypothesis → E017 participant-inspected Clover record → E019 Kanna non-denial plus evidence handoff → E020 public anonymous-source allegation and Moe's inquiry/cancellation report; no full transaction file, formal legal ruling or hidden Kaya/FOX link mechanism is admitted. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new durable claim ID, model or frozen prediction; 21 partial / 80 unmodeled across 101, backfill DEFER. V004 C002 E001 unopened.

@@ -86,115 +86,115 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 85,BA:main:002:002:023,MAIN_V002_C002_E023,時計じかけの花のパヴァーヌ,第23話;王女のためのパヴァーヌ（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md
 86,BA:main:002:002:024,MAIN_V002_C002_E024,時計じかけの花のパヴァーヌ,第24話;自分がなりたいもの,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E024_DEEP_READING.md
 87,BA:main:002:002:025,MAIN_V002_C002_E025,時計じかけの花のパヴァーヌ,第25話;ミレニアムサイエンススクール,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V002_C002_E025_DEEP_READING.md
-88,BA:main:003:001:001,MAIN_V003_C001_E001,エデン条約編,第1話;プロローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-89,BA:main:003:001:002,MAIN_V003_C001_E002,エデン条約編,第2話;補習授業部,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-90,BA:main:003:001:003,MAIN_V003_C001_E003,エデン条約編,第3話;ティーパーティー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-91,BA:main:003:001:004,MAIN_V003_C001_E004,エデン条約編,第4話;補習授業部の生徒たち（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-92,BA:main:003:001:005,MAIN_V003_C001_E005,エデン条約編,第5話;補習授業部の生徒たち（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-93,BA:main:003:001:006,MAIN_V003_C001_E006,エデン条約編,第6話;自己紹介をしましょう！,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-94,BA:main:003:001:007,MAIN_V003_C001_E007,エデン条約編,第7話;試験勉強,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-95,BA:main:003:001:008,MAIN_V003_C001_E008,エデン条約編,第8話;第1次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-96,BA:main:003:001:009,MAIN_V003_C001_E009,エデン条約編,第9話;水面下に揺らめく影,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-97,BA:main:003:001:010,MAIN_V003_C001_E010,エデン条約編,第10話;合宿、スタート！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-98,BA:main:003:001:011,MAIN_V003_C001_E011,エデン条約編,第11話;大掃除！,6,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-99,BA:main:003:001:012,MAIN_V003_C001_E012,エデン条約編,第12話;合宿初日の夜,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-100,BA:main:003:001:013,MAIN_V003_C001_E013,エデン条約編,第13話;補習授業部の模擬試験,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-101,BA:main:003:001:014,MAIN_V003_C001_E014,エデン条約編,第14話;正義実現委員会の副委員長（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-102,BA:main:003:001:015,MAIN_V003_C001_E015,エデン条約編,第15話;正義実現委員会の副委員長（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-103,BA:main:003:001:016,MAIN_V003_C001_E016,エデン条約編,第16話;小さな隙間,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-104,BA:main:003:001:017,MAIN_V003_C001_E017,エデン条約編,第17話;トリニティの裏切り者,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-105,BA:main:003:002:001,MAIN_V003_C002_E001,エデン条約編,第1話;巨大な怪物,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-106,BA:main:003:002:002,MAIN_V003_C002_E002,エデン条約編,第2話;シスターフッド,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-107,BA:main:003:002:003,MAIN_V003_C002_E003,エデン条約編,第3話;深夜の密会,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-108,BA:main:003:002:004,MAIN_V003_C002_E004,エデン条約編,第4話;水着パーティー,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-109,BA:main:003:002:005,MAIN_V003_C002_E005,エデン条約編,第5話;真夜中の大騒ぎ（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-110,BA:main:003:002:006,MAIN_V003_C002_E006,エデン条約編,第6話;真夜中の大騒ぎ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-111,BA:main:003:002:007,MAIN_V003_C002_E007,エデン条約編,第7話;新しい視点,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-112,BA:main:003:002:008,MAIN_V003_C002_E008,エデン条約編,第8話;差し込む希望,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-113,BA:main:003:002:009,MAIN_V003_C002_E009,エデン条約編,第9話;黒い手,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-114,BA:main:003:002:010,MAIN_V003_C002_E010,エデン条約編,第10話;第2次特別学力試験（１）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-115,BA:main:003:002:011,MAIN_V003_C002_E011,エデン条約編,第11話;第2次特別学力試験（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-116,BA:main:003:002:012,MAIN_V003_C002_E012,エデン条約編,第12話;再び原点へと,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-117,BA:main:003:002:013,MAIN_V003_C002_E013,エデン条約編,第13話;それでも,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-118,BA:main:003:002:014,MAIN_V003_C002_E014,エデン条約編,第14話;こくはく,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-119,BA:main:003:002:015,MAIN_V003_C002_E015,エデン条約編,第15話;火蓋は切られて,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-120,BA:main:003:002:016,MAIN_V003_C002_E016,エデン条約編,第16話;激戦,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-121,BA:main:003:002:017,MAIN_V003_C002_E017,エデン条約編,第17話;そんな世界も（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-122,BA:main:003:002:018,MAIN_V003_C002_E018,エデン条約編,第18話;そんな世界も（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-123,BA:main:003:002:019,MAIN_V003_C002_E019,エデン条約編,第19話;第3次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-124,BA:main:003:002:020,MAIN_V003_C002_E020,エデン条約編,第20話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-125,BA:main:003:003:001,MAIN_V003_C003_E001,エデン条約編,第1話;ポストモーテム（１）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-126,BA:main:003:003:002,MAIN_V003_C003_E002,エデン条約編,第2話;ポストモーテム（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-127,BA:main:003:003:003,MAIN_V003_C003_E003,エデン条約編,第3話;ポストモーテム（３）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-128,BA:main:003:003:004,MAIN_V003_C003_E004,エデン条約編,第4話;それから,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-129,BA:main:003:003:005,MAIN_V003_C003_E005,エデン条約編,第5話;エデン条約調印式（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-130,BA:main:003:003:006,MAIN_V003_C003_E006,エデン条約編,第6話;エデン条約調印式（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-131,BA:main:003:003:007,MAIN_V003_C003_E007,エデン条約編,第7話;火と灰に染まる日（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-132,BA:main:003:003:008,MAIN_V003_C003_E008,エデン条約編,第8話;火と灰に染まる日（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-133,BA:main:003:003:009,MAIN_V003_C003_E009,エデン条約編,第9話;憎悪の確認,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-134,BA:main:003:003:010,MAIN_V003_C003_E010,エデン条約編,第10話;甘い嘘,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-135,BA:main:003:003:011,MAIN_V003_C003_E011,エデン条約編,第11話;加速する混乱（１）,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-136,BA:main:003:003:012,MAIN_V003_C003_E012,エデン条約編,第12話;加速する混乱（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-137,BA:main:003:003:013,MAIN_V003_C003_E013,エデン条約編,第13話;届かない向こう側,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-138,BA:main:003:003:014,MAIN_V003_C003_E014,エデン条約編,第14話;暗闇の中で,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-139,BA:main:003:003:015,MAIN_V003_C003_E015,エデン条約編,第15話;五つ目の古則への答え,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-140,BA:main:003:003:016,MAIN_V003_C003_E016,エデン条約編,第16話;いくつかの欠片たち,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-141,BA:main:003:003:017,MAIN_V003_C003_E017,エデン条約編,第17話;憎しみの正体,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-142,BA:main:003:003:018,MAIN_V003_C003_E018,エデン条約編,第18話;迷わずに,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-143,BA:main:003:003:019,MAIN_V003_C003_E019,エデン条約編,第19話;私たちの物語,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-144,BA:main:003:003:020,MAIN_V003_C003_E020,エデン条約編,第20話;楽園の名前は（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-145,BA:main:003:003:021,MAIN_V003_C003_E021,エデン条約編,第21話;楽園の名前は（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-146,BA:main:003:003:022,MAIN_V003_C003_E022,エデン条約編,第22話;楽園の名前は（３）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-147,BA:main:003:003:023,MAIN_V003_C003_E023,エデン条約編,第23話;古聖堂の地下に,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-148,BA:main:003:003:024,MAIN_V003_C003_E024,エデン条約編,第24話;誰の憎しみ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-149,BA:main:003:003:025,MAIN_V003_C003_E025,エデン条約編,第25話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-150,BA:main:003:004:001,MAIN_V003_C004_E001,エデン条約編,第1話;プロローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-151,BA:main:003:004:002,MAIN_V003_C004_E002,エデン条約編,第2話;不揃いなティーパーティー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-152,BA:main:003:004:003,MAIN_V003_C004_E003,エデン条約編,第3話;檻の中のお姫様,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-153,BA:main:003:004:004,MAIN_V003_C004_E004,エデン条約編,第4話;夢と蜃気楼の狭間で,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-154,BA:main:003:004:005,MAIN_V003_C004_E005,エデン条約編,第5話;不可解な探求者,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-155,BA:main:003:004:006,MAIN_V003_C004_E006,エデン条約編,第6話;折れてしまった羽,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-156,BA:main:003:004:007,MAIN_V003_C004_E007,エデン条約編,第7話;選択と決断,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-157,BA:main:003:004:008,MAIN_V003_C004_E008,エデン条約編,第8話;「アリウススクワッド」,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-158,BA:main:003:004:009,MAIN_V003_C004_E009,エデン条約編,第9話;アリウス自治区へ（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-159,BA:main:003:004:010,MAIN_V003_C004_E010,エデン条約編,第10話;アリウス自治区へ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-160,BA:main:003:004:011,MAIN_V003_C004_E011,エデン条約編,第11話;追撃者,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-161,BA:main:003:004:012,MAIN_V003_C004_E012,エデン条約編,第12話;アリウス自治区,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-162,BA:main:003:004:013,MAIN_V003_C004_E013,エデン条約編,第13話;私たちのこれまで,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-163,BA:main:003:004:014,MAIN_V003_C004_E014,エデン条約編,第14話;邂逅,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-164,BA:main:003:004:015,MAIN_V003_C004_E015,エデン条約編,第15話;残されたもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-165,BA:main:003:004:016,MAIN_V003_C004_E016,エデン条約編,第16話;地下回廊,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-166,BA:main:003:004:017,MAIN_V003_C004_E017,エデン条約編,第17話;対決,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-167,BA:main:003:004:018,MAIN_V003_C004_E018,エデン条約編,第18話;もう一人の私たち,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-168,BA:main:003:004:019,MAIN_V003_C004_E019,エデン条約編,第19話;無限の可能性,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-169,BA:main:003:004:020,MAIN_V003_C004_E020,エデン条約編,第20話;聖女バルバラ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-170,BA:main:003:004:021,MAIN_V003_C004_E021,エデン条約編,第21話;至聖所へ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-171,BA:main:003:004:022,MAIN_V003_C004_E022,エデン条約編,第22話;[ruby=神の子羊]Agnus dei[/ruby],2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-172,BA:main:003:004:023,MAIN_V003_C004_E023,エデン条約編,第23話;少女たちのためのキリエ（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-173,BA:main:003:004:024,MAIN_V003_C004_E024,エデン条約編,第24話;少女たちのためのキリエ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-174,BA:main:003:004:025,MAIN_V003_C004_E025,エデン条約編,第25話;大切な人,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-175,BA:main:003:004:026,MAIN_V003_C004_E026,エデン条約編,第26話;これからの私たち,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-176,BA:main:003:004:027,MAIN_V003_C004_E027,エデン条約編,第27話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-177,BA:main:004:001:001,MAIN_V004_C001_E001,カルバノの兎編,第1話;統制不能な特殊部隊,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-178,BA:main:004:001:002,MAIN_V004_C001_E002,カルバノの兎編,第2話;招かれざる客,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-179,BA:main:004:001:003,MAIN_V004_C001_E003,カルバノの兎編,第3話;それぞれの事情,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-180,BA:main:004:001:004,MAIN_V004_C001_E004,カルバノの兎編,第4話;別側面の事情,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-181,BA:main:004:001:005,MAIN_V004_C001_E005,カルバノの兎編,第5話;消えない不信,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-182,BA:main:004:001:006,MAIN_V004_C001_E006,カルバノの兎編,第6話;食料調達を始めよう,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-183,BA:main:004:001:007,MAIN_V004_C001_E007,カルバノの兎編,第7話;ニンジン作戦（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-184,BA:main:004:001:008,MAIN_V004_C001_E008,カルバノの兎編,第8話;ニンジン作戦（２）,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-185,BA:main:004:001:009,MAIN_V004_C001_E009,カルバノの兎編,第9話;這い寄る影,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-186,BA:main:004:001:010,MAIN_V004_C001_E010,カルバノの兎編,第10話;無所有と焼肉弁当,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-187,BA:main:004:001:011,MAIN_V004_C001_E011,カルバノの兎編,第11話;大雨注意報,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-188,BA:main:004:001:012,MAIN_V004_C001_E012,カルバノの兎編,第12話;雨に濡れた請求書,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-189,BA:main:004:001:013,MAIN_V004_C001_E013,カルバノの兎編,第13話;おいなりさん,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-190,BA:main:004:001:014,MAIN_V004_C001_E014,カルバノの兎編,第14話;物々交換,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-191,BA:main:004:001:015,MAIN_V004_C001_E015,カルバノの兎編,第15話;ささやかで確実な敗北,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-192,BA:main:004:001:016,MAIN_V004_C001_E016,カルバノの兎編,第16話;リベート,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-193,BA:main:004:001:017,MAIN_V004_C001_E017,カルバノの兎編,第17話;クローバー作戦（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-194,BA:main:004:001:018,MAIN_V004_C001_E018,カルバノの兎編,第18話;クローバー作戦（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-195,BA:main:004:001:019,MAIN_V004_C001_E019,カルバノの兎編,第19話;大人の時間,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
-196,BA:main:004:001:020,MAIN_V004_C001_E020,カルバノの兎編,第20話;狐穴,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+88,BA:main:003:001:001,MAIN_V003_C001_E001,エデン条約編,第1話;プロローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E001_DEEP_READING.md
+89,BA:main:003:001:002,MAIN_V003_C001_E002,エデン条約編,第2話;補習授業部,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E002_DEEP_READING.md
+90,BA:main:003:001:003,MAIN_V003_C001_E003,エデン条約編,第3話;ティーパーティー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E003_DEEP_READING.md
+91,BA:main:003:001:004,MAIN_V003_C001_E004,エデン条約編,第4話;補習授業部の生徒たち（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E004_DEEP_READING.md
+92,BA:main:003:001:005,MAIN_V003_C001_E005,エデン条約編,第5話;補習授業部の生徒たち（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E005_DEEP_READING.md
+93,BA:main:003:001:006,MAIN_V003_C001_E006,エデン条約編,第6話;自己紹介をしましょう！,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E006_DEEP_READING.md
+94,BA:main:003:001:007,MAIN_V003_C001_E007,エデン条約編,第7話;試験勉強,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E007_DEEP_READING.md
+95,BA:main:003:001:008,MAIN_V003_C001_E008,エデン条約編,第8話;第1次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E008_DEEP_READING.md
+96,BA:main:003:001:009,MAIN_V003_C001_E009,エデン条約編,第9話;水面下に揺らめく影,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E009_DEEP_READING.md
+97,BA:main:003:001:010,MAIN_V003_C001_E010,エデン条約編,第10話;合宿、スタート！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E010_DEEP_READING.md
+98,BA:main:003:001:011,MAIN_V003_C001_E011,エデン条約編,第11話;大掃除！,6,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E011_DEEP_READING.md
+99,BA:main:003:001:012,MAIN_V003_C001_E012,エデン条約編,第12話;合宿初日の夜,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E012_DEEP_READING.md
+100,BA:main:003:001:013,MAIN_V003_C001_E013,エデン条約編,第13話;補習授業部の模擬試験,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E013_DEEP_READING.md
+101,BA:main:003:001:014,MAIN_V003_C001_E014,エデン条約編,第14話;正義実現委員会の副委員長（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E014_DEEP_READING.md
+102,BA:main:003:001:015,MAIN_V003_C001_E015,エデン条約編,第15話;正義実現委員会の副委員長（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E015_DEEP_READING.md
+103,BA:main:003:001:016,MAIN_V003_C001_E016,エデン条約編,第16話;小さな隙間,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E016_DEEP_READING.md
+104,BA:main:003:001:017,MAIN_V003_C001_E017,エデン条約編,第17話;トリニティの裏切り者,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_checkpoint_canonical,BLUE_ARCHIVE_MAIN_V003_C001_E017_DEEP_READING.md
+105,BA:main:003:002:001,MAIN_V003_C002_E001,エデン条約編,第1話;巨大な怪物,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E001_DEEP_READING.md
+106,BA:main:003:002:002,MAIN_V003_C002_E002,エデン条約編,第2話;シスターフッド,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E002_DEEP_READING.md
+107,BA:main:003:002:003,MAIN_V003_C002_E003,エデン条約編,第3話;深夜の密会,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E003_DEEP_READING.md
+108,BA:main:003:002:004,MAIN_V003_C002_E004,エデン条約編,第4話;水着パーティー,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E004_DEEP_READING.md
+109,BA:main:003:002:005,MAIN_V003_C002_E005,エデン条約編,第5話;真夜中の大騒ぎ（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E005_DEEP_READING.md
+110,BA:main:003:002:006,MAIN_V003_C002_E006,エデン条約編,第6話;真夜中の大騒ぎ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E006_DEEP_READING.md
+111,BA:main:003:002:007,MAIN_V003_C002_E007,エデン条約編,第7話;新しい視点,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E007_DEEP_READING.md
+112,BA:main:003:002:008,MAIN_V003_C002_E008,エデン条約編,第8話;差し込む希望,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E008_DEEP_READING.md
+113,BA:main:003:002:009,MAIN_V003_C002_E009,エデン条約編,第9話;黒い手,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E009_DEEP_READING.md
+114,BA:main:003:002:010,MAIN_V003_C002_E010,エデン条約編,第10話;第2次特別学力試験（１）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E010_DEEP_READING.md
+115,BA:main:003:002:011,MAIN_V003_C002_E011,エデン条約編,第11話;第2次特別学力試験（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E011_DEEP_READING.md
+116,BA:main:003:002:012,MAIN_V003_C002_E012,エデン条約編,第12話;再び原点へと,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E012_DEEP_READING.md
+117,BA:main:003:002:013,MAIN_V003_C002_E013,エデン条約編,第13話;それでも,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E013_DEEP_READING.md
+118,BA:main:003:002:014,MAIN_V003_C002_E014,エデン条約編,第14話;こくはく,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E014_DEEP_READING.md
+119,BA:main:003:002:015,MAIN_V003_C002_E015,エデン条約編,第15話;火蓋は切られて,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E015_DEEP_READING.md
+120,BA:main:003:002:016,MAIN_V003_C002_E016,エデン条約編,第16話;激戦,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E016_DEEP_READING.md
+121,BA:main:003:002:017,MAIN_V003_C002_E017,エデン条約編,第17話;そんな世界も（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E017_DEEP_READING.md
+122,BA:main:003:002:018,MAIN_V003_C002_E018,エデン条約編,第18話;そんな世界も（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E018_DEEP_READING.md
+123,BA:main:003:002:019,MAIN_V003_C002_E019,エデン条約編,第19話;第3次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E019_DEEP_READING.md
+124,BA:main:003:002:020,MAIN_V003_C002_E020,エデン条約編,第20話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_checkpoint_canonical,BLUE_ARCHIVE_MAIN_V003_C002_E020_DEEP_READING.md
+125,BA:main:003:003:001,MAIN_V003_C003_E001,エデン条約編,第1話;ポストモーテム（１）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E001_DEEP_READING.md
+126,BA:main:003:003:002,MAIN_V003_C003_E002,エデン条約編,第2話;ポストモーテム（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E002_DEEP_READING.md
+127,BA:main:003:003:003,MAIN_V003_C003_E003,エデン条約編,第3話;ポストモーテム（３）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E003_DEEP_READING.md
+128,BA:main:003:003:004,MAIN_V003_C003_E004,エデン条約編,第4話;それから,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md
+129,BA:main:003:003:005,MAIN_V003_C003_E005,エデン条約編,第5話;エデン条約調印式（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E005_DEEP_READING.md
+130,BA:main:003:003:006,MAIN_V003_C003_E006,エデン条約編,第6話;エデン条約調印式（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md
+131,BA:main:003:003:007,MAIN_V003_C003_E007,エデン条約編,第7話;火と灰に染まる日（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md
+132,BA:main:003:003:008,MAIN_V003_C003_E008,エデン条約編,第8話;火と灰に染まる日（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E008_DEEP_READING.md
+133,BA:main:003:003:009,MAIN_V003_C003_E009,エデン条約編,第9話;憎悪の確認,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E009_DEEP_READING.md
+134,BA:main:003:003:010,MAIN_V003_C003_E010,エデン条約編,第10話;甘い嘘,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md
+135,BA:main:003:003:011,MAIN_V003_C003_E011,エデン条約編,第11話;加速する混乱（１）,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E011_DEEP_READING.md
+136,BA:main:003:003:012,MAIN_V003_C003_E012,エデン条約編,第12話;加速する混乱（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E012_DEEP_READING.md
+137,BA:main:003:003:013,MAIN_V003_C003_E013,エデン条約編,第13話;届かない向こう側,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E013_DEEP_READING.md
+138,BA:main:003:003:014,MAIN_V003_C003_E014,エデン条約編,第14話;暗闇の中で,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E014_DEEP_READING.md
+139,BA:main:003:003:015,MAIN_V003_C003_E015,エデン条約編,第15話;五つ目の古則への答え,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E015_DEEP_READING.md
+140,BA:main:003:003:016,MAIN_V003_C003_E016,エデン条約編,第16話;いくつかの欠片たち,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md
+141,BA:main:003:003:017,MAIN_V003_C003_E017,エデン条約編,第17話;憎しみの正体,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E017_DEEP_READING.md
+142,BA:main:003:003:018,MAIN_V003_C003_E018,エデン条約編,第18話;迷わずに,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E018_DEEP_READING.md
+143,BA:main:003:003:019,MAIN_V003_C003_E019,エデン条約編,第19話;私たちの物語,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E019_DEEP_READING.md
+144,BA:main:003:003:020,MAIN_V003_C003_E020,エデン条約編,第20話;楽園の名前は（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E020_DEEP_READING.md
+145,BA:main:003:003:021,MAIN_V003_C003_E021,エデン条約編,第21話;楽園の名前は（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E021_DEEP_READING.md
+146,BA:main:003:003:022,MAIN_V003_C003_E022,エデン条約編,第22話;楽園の名前は（３）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E022_DEEP_READING.md
+147,BA:main:003:003:023,MAIN_V003_C003_E023,エデン条約編,第23話;古聖堂の地下に,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E023_DEEP_READING.md
+148,BA:main:003:003:024,MAIN_V003_C003_E024,エデン条約編,第24話;誰の憎しみ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E024_DEEP_READING.md
+149,BA:main:003:003:025,MAIN_V003_C003_E025,エデン条約編,第25話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md
+150,BA:main:003:004:001,MAIN_V003_C004_E001,エデン条約編,第1話;プロローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E001_DEEP_READING.md
+151,BA:main:003:004:002,MAIN_V003_C004_E002,エデン条約編,第2話;不揃いなティーパーティー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E002_DEEP_READING.md
+152,BA:main:003:004:003,MAIN_V003_C004_E003,エデン条約編,第3話;檻の中のお姫様,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E003_DEEP_READING.md
+153,BA:main:003:004:004,MAIN_V003_C004_E004,エデン条約編,第4話;夢と蜃気楼の狭間で,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E004_DEEP_READING.md
+154,BA:main:003:004:005,MAIN_V003_C004_E005,エデン条約編,第5話;不可解な探求者,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E005_DEEP_READING.md
+155,BA:main:003:004:006,MAIN_V003_C004_E006,エデン条約編,第6話;折れてしまった羽,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E006_DEEP_READING.md
+156,BA:main:003:004:007,MAIN_V003_C004_E007,エデン条約編,第7話;選択と決断,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E007_DEEP_READING.md
+157,BA:main:003:004:008,MAIN_V003_C004_E008,エデン条約編,第8話;「アリウススクワッド」,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E008_DEEP_READING.md
+158,BA:main:003:004:009,MAIN_V003_C004_E009,エデン条約編,第9話;アリウス自治区へ（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E009_DEEP_READING.md
+159,BA:main:003:004:010,MAIN_V003_C004_E010,エデン条約編,第10話;アリウス自治区へ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E010_DEEP_READING.md
+160,BA:main:003:004:011,MAIN_V003_C004_E011,エデン条約編,第11話;追撃者,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E011_DEEP_READING.md
+161,BA:main:003:004:012,MAIN_V003_C004_E012,エデン条約編,第12話;アリウス自治区,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E012_DEEP_READING.md
+162,BA:main:003:004:013,MAIN_V003_C004_E013,エデン条約編,第13話;私たちのこれまで,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E013_DEEP_READING.md
+163,BA:main:003:004:014,MAIN_V003_C004_E014,エデン条約編,第14話;邂逅,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E014_DEEP_READING.md
+164,BA:main:003:004:015,MAIN_V003_C004_E015,エデン条約編,第15話;残されたもの,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E015_DEEP_READING.md
+165,BA:main:003:004:016,MAIN_V003_C004_E016,エデン条約編,第16話;地下回廊,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E016_DEEP_READING.md
+166,BA:main:003:004:017,MAIN_V003_C004_E017,エデン条約編,第17話;対決,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E017_DEEP_READING.md
+167,BA:main:003:004:018,MAIN_V003_C004_E018,エデン条約編,第18話;もう一人の私たち,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E018_DEEP_READING.md
+168,BA:main:003:004:019,MAIN_V003_C004_E019,エデン条約編,第19話;無限の可能性,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E019_DEEP_READING.md
+169,BA:main:003:004:020,MAIN_V003_C004_E020,エデン条約編,第20話;聖女バルバラ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E020_DEEP_READING.md
+170,BA:main:003:004:021,MAIN_V003_C004_E021,エデン条約編,第21話;至聖所へ,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E021_DEEP_READING.md
+171,BA:main:003:004:022,MAIN_V003_C004_E022,エデン条約編,第22話;[ruby=神の子羊]Agnus dei[/ruby],2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E022_DEEP_READING.md
+172,BA:main:003:004:023,MAIN_V003_C004_E023,エデン条約編,第23話;少女たちのためのキリエ（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E023_DEEP_READING.md
+173,BA:main:003:004:024,MAIN_V003_C004_E024,エデン条約編,第24話;少女たちのためのキリエ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E024_DEEP_READING.md
+174,BA:main:003:004:025,MAIN_V003_C004_E025,エデン条約編,第25話;大切な人,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E025_DEEP_READING.md
+175,BA:main:003:004:026,MAIN_V003_C004_E026,エデン条約編,第26話;これからの私たち,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E026_DEEP_READING.md
+176,BA:main:003:004:027,MAIN_V003_C004_E027,エデン条約編,第27話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E027_DEEP_READING.md
+177,BA:main:004:001:001,MAIN_V004_C001_E001,カルバノの兎編,第1話;統制不能な特殊部隊,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E001_DEEP_READING.md
+178,BA:main:004:001:002,MAIN_V004_C001_E002,カルバノの兎編,第2話;招かれざる客,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E002_DEEP_READING.md
+179,BA:main:004:001:003,MAIN_V004_C001_E003,カルバノの兎編,第3話;それぞれの事情,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E003_DEEP_READING.md
+180,BA:main:004:001:004,MAIN_V004_C001_E004,カルバノの兎編,第4話;別側面の事情,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E004_DEEP_READING.md
+181,BA:main:004:001:005,MAIN_V004_C001_E005,カルバノの兎編,第5話;消えない不信,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E005_DEEP_READING.md
+182,BA:main:004:001:006,MAIN_V004_C001_E006,カルバノの兎編,第6話;食料調達を始めよう,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E006_DEEP_READING.md
+183,BA:main:004:001:007,MAIN_V004_C001_E007,カルバノの兎編,第7話;ニンジン作戦（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E007_DEEP_READING.md
+184,BA:main:004:001:008,MAIN_V004_C001_E008,カルバノの兎編,第8話;ニンジン作戦（２）,4,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E008_DEEP_READING.md
+185,BA:main:004:001:009,MAIN_V004_C001_E009,カルバノの兎編,第9話;這い寄る影,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E009_DEEP_READING.md
+186,BA:main:004:001:010,MAIN_V004_C001_E010,カルバノの兎編,第10話;無所有と焼肉弁当,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E010_DEEP_READING.md
+187,BA:main:004:001:011,MAIN_V004_C001_E011,カルバノの兎編,第11話;大雨注意報,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E011_DEEP_READING.md
+188,BA:main:004:001:012,MAIN_V004_C001_E012,カルバノの兎編,第12話;雨に濡れた請求書,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E012_DEEP_READING.md
+189,BA:main:004:001:013,MAIN_V004_C001_E013,カルバノの兎編,第13話;おいなりさん,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E013_DEEP_READING.md
+190,BA:main:004:001:014,MAIN_V004_C001_E014,カルバノの兎編,第14話;物々交換,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E014_DEEP_READING.md
+191,BA:main:004:001:015,MAIN_V004_C001_E015,カルバノの兎編,第15話;ささやかで確実な敗北,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E015_DEEP_READING.md
+192,BA:main:004:001:016,MAIN_V004_C001_E016,カルバノの兎編,第16話;リベート,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E016_DEEP_READING.md
+193,BA:main:004:001:017,MAIN_V004_C001_E017,カルバノの兎編,第17話;クローバー作戦（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E017_DEEP_READING.md
+194,BA:main:004:001:018,MAIN_V004_C001_E018,カルバノの兎編,第18話;クローバー作戦（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E018_DEEP_READING.md
+195,BA:main:004:001:019,MAIN_V004_C001_E019,カルバノの兎編,第19話;大人の時間,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E019_DEEP_READING.md
+196,BA:main:004:001:020,MAIN_V004_C001_E020,カルバノの兎編,第20話;狐穴,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E020_DEEP_READING.md
 197,BA:main:004:002:001,MAIN_V004_C002_E001,カルバノの兎編,第1話;キツネの見る夢,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 198,BA:main:004:002:002,MAIN_V004_C002_E002,カルバノの兎編,第2話;ウサギの見る夢,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 199,BA:main:004:002:003,MAIN_V004_C002_E003,カルバノの兎編,第3話;餌,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
