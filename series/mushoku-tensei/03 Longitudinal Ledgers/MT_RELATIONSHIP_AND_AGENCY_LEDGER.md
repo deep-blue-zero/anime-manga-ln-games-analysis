@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Bootstrap only; V01 not narratively inspected, no source observations admitted."
+source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -35,9 +35,9 @@ Record A-to-B and B-to-A separately when supported. Append events and update cur
 
 `NOT_STARTED`: zero narrative observations and zero substantive records. V01 is only structurally inspected for source usability. No absent phenomenon or character trait is inferred from the empty ledger. First update requires a separately authorized V01 reading.
 
-## V01 pilot candidate — 2026-09-25 (pending durable locator map)
+## V01 accepted records — read 2026-09-25; closure prepared 2026-09-26 UTC
 
-The observations below are provisional and the LN high-water mark remains `null`; the hash-only locator map has not been durably placed in the evidence plane.
+The owner approved the V01 reading after its synopsis revision. Its hash-only locator map is durably retained and byte-verified as recorded in the [source lock](../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md). The records below are accepted within V01; their interpretations and uncertainties are unchanged. The [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) distinguishes this local closure candidate from pending branch publication and exact-head audit. The bootstrap zero state above remains historical.
 
 `MT-LNJP-V01` only. Observation numbers below resolve in the [V01 reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md). These are directional relations, not reciprocal labels or global registry entries.
 
@@ -57,3 +57,134 @@ The observations below are provisional and the LN high-water mark remains `null`
 | `MT-R-012` `Ghislaine ↔ Rudeus` | Proposed reciprocal instruction: sword teaching for reading and arithmetic; at the V01 ending only the arrangement and her request are known. | `016`; neither party's later teaching is observed. |
 
 **V01 directional limit:** The house calls Lilia “family” while her wage and servant history persist; the word does not erase employment dependency. Sylphie's closeness is not evidence of unrestricted access to her body or her future. The five-year separation is Paul's decision, with its effectiveness and consent unresolved. Later evidence must be linked as new events rather than silently converted into current V01 motives.
+
+## V02 directed events — 2026-09-26 UTC
+
+The V01 events remain historical. New evidence numbers below refer to [V02 canonical observations](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. Current scope V01–V02; input audited commit `eaf159559c6fc76ddd820178d7588545f08c351d`.
+
+| Event / direction | Initiative, constraints and changed options | Evidence / reciprocity and limit |
+| --- | --- | --- |
+| `MT-R-013` Rudeus → Eris | Engineers fear to obtain employment/cooperation, rescues and teaches, later coordinates rest and adaptive practice. | `001–008`; helpful outcomes do not prove the staged scheme necessary. Financial/class asymmetry is complex: pupil's household employs him, he controls practical knowledge. |
+| `MT-R-014` Eris → Rudeus | Rejects teacher, later grants familiar address, returns to practice, wants to give a book, initiates birthdays and staff gift. | `004,007–009,012`; choices establish reciprocity beyond obedience, not unrestricted physical permission. |
+| `MT-R-015` Rudeus → Eris | Particular restraint while she cherishes gifts; later exceeds limited permission, recognizes disregard and apologizes. | `009,014`; regained hope becomes entitlement to a future prize in his account. No demonstrated transfer of new vow yet. |
+| `MT-R-016` Eris → Rudeus | Stops a violation, leaves, returns to forgive on this occasion and sets a five-year limit. | `014`; no irrevocable contract over future intimacy; her return does not ratify the violation. |
+| `MT-R-017` Ghislaine → Rudeus | Protects life, cautions against overconfidence, adapts sword instruction and considers another teacher conditional on his wishes. | `003,006–007,011,017`; gratitude and fallible appraisal both present. |
+| `MT-R-018` Rudeus → Ghislaine | Patient literacy/magic instruction, formal learner recognition, food reserved while she works; also sexualizes her and exploits her distraction role. | `006–012`; her artistic wish to record herself differs from his intention. Respect is not complete mutual understanding. |
+| `MT-R-019` Ghislaine → Eris | Longstanding teaching/protection, personal ring, later urgent search. | `006–009,011,017,019`; duty persists on holiday; disorientation produces harmful force beyond controlled rescue. |
+| `MT-R-020` Eris → Ghislaine | Admires expertise, listens to experience, treasures ring, seeks additional practice. | `006–009,011`; relationship predates Rudy and retains independent significance. |
+| `MT-R-021` Roxy → Rudeus | Creates substantial guide, maintains correspondence, independently chooses search for him. | `010,015,018`; he is a respected pupil, not her declared lover. Idealization can obscure his limits. |
+| `MT-R-022` Rudeus → Roxy | Gratitude and study depend on her labor; likeness made and sold without demonstrated permission disturbs her on arrival. | `010`; narrator's comedy does not settle her experience. |
+| `MT-R-023` Philip/Sauros/Hilda → Rudeus/Eris | Resources, belonging and gratitude coexist with violence, gendered performance and proposed marital/political recruitment. | `004–005,008,012–013`; Hilda's grief is Philip-reported, her embrace observed. Affection need not be fictitious for constraints to be real. |
+| `MT-R-024` Roxy → prince/court | Refuses coercion, uses contract/relative status, leaves at term end and repels attack. | `015`; court's judgment protects its interests as recorded; no broad equality guarantee. |
+| `MT-R-025` Paul → scattered family/Rudeus | Protects Norn per message, requests assistance, prioritizes missing wives/Aisha and assigns Rudy a northern search. | `018`; Rudy not shown reading message. Trust and delegated burden coexist; necessity remains untested. |
+| `MT-R-026` Ghislaine → Vigo / Vigo → Ghislaine | Her search-driven intervention enables his survival; he recognizes a protective purpose, accompanies her and later memorializes her. | `019`; their immediate directions partly coincide, their goals and later knowledge differ. Cult does not establish her endorsement. |
+
+**Reviewed limits:** no new direct Sylphie→Rudeus event; his recollection is not her choice. No missing-person listing proves death. Relationship states after displacement are not simply household states moved intact to a new place.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / changed options | Observation / limit |
+| --- | --- | --- |
+| `MT-R-027` Rudeus → Ruijerd | Chooses provisional trust, offers reputation work, controls disguise and partial information, negotiates killing limit but uses fear himself. | `002,004,006,011–013`; empathy and instrumental dependence coexist. |
+| `MT-R-028` Ruijerd → Rudeus/Eris | Rescues, escorts, teaches, feeds/protects; also kills and intimidates under protective code. | `002,005,011–012`; care does not guarantee proportionate force or good category judgment. |
+| `MT-R-029` Ruijerd → Rudeus | Takes public blame and later offers escort without reputation repayment; credits incomplete protective account. | `017–018`; sacrifice changes choices, not complete absolution or knowledge. |
+| `MT-R-030` Rudeus → Ruijerd | Chooses continued help after payment condition removed; identifies shared exclusion but differentiates histories. | `018–020`; gratitude genuine; concealed publicity allocation persists. |
+| `MT-R-031` Rudeus → Eris | Comforts fear and refrains in one comparable opportunity, yet later intrudes and requires others' enforcement. | `009,020`; recognition distinct from durable respect. |
+| `MT-R-032` Eris → Rudeus | Yields outing, values gift, protects him from grip, expresses excessive faith, raises grievance and gives advice. | `008–009,012,019–020`; care, refusal and pressure coexist; not unrestricted permission. |
+| `MT-R-033` Party → each member | Consultation channel includes Eris, preserves leader's final decision, changes practical plans; shared training and enforcement. | `019–020`; not equal information/authority or always followed. |
+| `MT-R-034` Roxy/parents → travelers; Rudy → parents | Guide/pendant enable access; parents supply money/sword without demanding daughter return; pupil provides news and promises contact. | `003`; promise not completed communication; absent Roxy motives not recreated. |
+| `MT-R-035` Rudeus/Ruijerd → Jalil/Veskel; pair → clients/party | Killing/threats constrain bargain; pair supplies actual skilled work and publicity, later flees; Rudy releases and thanks them. | `011–013,016–017`; useful labor not freely negotiated contract or repaired past harm. |
+| `MT-R-036` Trio ↔ Kurt/Meisel/clients | Service and rescue elicit genuine gratitude; delay causes irreversible loss; incomplete knowledge shapes credit and later fear. | `010,014,016–017`; sincere praise not moral verification. |
+| `MT-R-037` Derrick → Ariel / Ariel → Derrick | Urges crown, risks and loses life protecting; she initially doubts him, seeks help, then accepts dying request. | `021–022`; reciprocity changes, future rule untested. Political program not pure universal good. |
+| `MT-R-038` Institutions/public → party | Guild enables work but polices reporting; extortion exploits violation; guards assign innocence/guilt by age and feared identity. | `007,016–017`; wrongdoing and discriminatory blame both actual dimensions. |
+
+No direct new Sylphie→Rudeus, missing-family reunion or successful Roxy-search event is established. The extra's unnamed arrival supplies no authorized identity shortcut.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / changed options | Observations and limit |
+| --- | --- | --- |
+| `MT-R-039` Rudeus → Ruijerd | Refuses abandonment, proposes costly staff sacrifice in secret, accepts challenged meaning and smuggling revision. | `001,005`; loyalty not complete disclosure. |
+| `MT-R-040` Ruijerd → Rudeus/Eris | Protects gift relationship, changes practical plan, yet assigns warrior independence after capture. | `005,011,019`; care and excessive expectation coexist. |
+| `MT-R-041` Rudeus → Eris | Recognizes effort grievance; supplies unpoliced illness care/restraint then pressures terms; conceals dangerous job. | `004,008–009`; affection/promise not general consent practice. |
+| `MT-R-042` Eris → Rudeus | Voices asymmetry, seeks care, defends against mistreatment and admires teaching. | `004,008,015,018`; limited permission/dependence and retaliation distinguished. |
+| `MT-R-043` Eris → Ghislaine / Gyes | Defends independent mentor loyalty without striking; supplies concrete later learning evidence. | `016,018`; no new present Ghislaine action; Gyes's earlier hurt not erased. |
+| `MT-R-044` Eris ↔ Minitoona/Tersena | Teaches, plays, resists insults, partially limits retaliation; girls initiate reconciliation, mutual tearful farewell. | `018,021`; friendship self-directed, discussion partly inaccessible, no total nonviolence. |
+| `MT-R-045` Roxy ↔ Elinalise/Talhand | Shared search, care, incompatible priorities and errors shape route/missed contact. | `006–007`; Roxy own damage/omission retained, others' reported curse/history not disproved by her appraisal. |
+| `MT-R-046` Rudeus/Ruijerd → captives | Healing/release/protection joined to killing, gratitude demand and missing aftercare plan. | `009–011`; beneficiaries' thanks not full assessment of means. |
+| `MT-R-047` Gyes/Lakrana → Rudeus | Mistaken coercion → apology, gratitude/hospitality; Gyes later enforces daughter's boundary. | `011–012,015,018,020`; different episodes have different factual grounds. |
+| `MT-R-048` Rudeus → village | Resentment yields to immediate rescue and chosen aid; later asks consent for paid guard work. | `013,015,017`; civic help not personal innocence or universal self-sacrifice. |
+| `MT-R-049` Geese → Rudeus/party | Vest, tactical aid, cooking and social negotiation secure temporary companionship. | `012,014,022`; not permanent party entry, old biography attributed. |
+| `MT-R-050` Rudeus → Geese | Performance shifts to gratitude, suspicion/resentment partly recognized, advocacy for teaching Eris. | `012,022`; genuine debt does not authenticate every report. |
+| `MT-R-051` Geese → Eris | Refuses requested cooking instruction using superstition arising from reported loss. | `022`; combat-only explanation withdrawn, personal pain does not prove causal rule. |
+| `MT-R-052` Sacred beast ↔ Rudeus | Independent combat help, translated food provision and everyday affection; Rudy adjusts expectations of child understanding. | `014,020`; no hero prophecy confirmed or complete understanding presumed. |
+| `MT-R-053` Ariel → Fitts / Fitts → Ariel | Shelter/search bargain and political use, coercive teasing then shared comfort; fearful service develops chosen renewed defense. | `023–026`; hoped unconditional acceptance untested, care does not erase dependence. |
+| `MT-R-054` Luke → Fitts / court → trio | Luke offers practical comfort/help but fails ally during unwanted invitation; gossip becomes strength recognition after attack. | `023–026`; recognition does not end danger or establish fair hierarchy. |
+
+Missing-family/Sylphie relationships receive no invented current events. Boreas servitude is now questioned, not established as uniformly supplied by abduction. The extra's alias remains separate from any unverified earlier name.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / options | Observation and limit |
+| --- | --- | --- |
+| `MT-R-055` Rudeus → Paul | Entertaining account, accusation and retaliation → receives care, initiates reenacted reunion, accepts options and aid. | `007–012`; actual omissions and false inferences differ; later broad excuse is not the analyst's verdict. |
+| `MT-R-056` Paul → Rudeus | Assumes knowledge and capacity, strikes → listens/apologizes, supplies money, options and warning. | `006–007,009,011–014,020`; repair does not prove permanent reform. |
+| `MT-R-057` Paul ↔ Norn / Norn → Rudeus | Bodily care and attachment; daughter protects father and refuses brother despite pressure. | `004–007,015,020`; her experienced history differs from the men's shared account. |
+| `MT-R-058` Eris → Rudeus | Protective rage, awkward comfort and disagreement with forgiveness; independent information unshared. | `008,013,017`; care does not give a veto over his relationships. |
+| `MT-R-059` Rudeus → Eris | Accepts hunt, credits comfort, states respect for refusal, discloses Fittoa loss, permits meal with a condition. | `002,012–015,020`; intention is not durable consent practice; she may disagree. |
+| `MT-R-060` Ruijerd → party / old friend → Ruijerd | Listens, directs care and restrains Eris; old rescue becomes a letter and welcome. | `008,013–014,021`; extent of force partly unknown; friendship is not an institutional solution by itself. |
+| `MT-R-061` Geese → Paul/Rudeus | Corrects father, reports jail rescue plan, continues search. | `009,020`; omitted news and jinx motives remain partial. |
+| `MT-R-062` Vera → Shela / Rudeus → women | Diverts attention and shields; Rudy apologizes for infidelity accusation yet misreads gaze/fear. | `010`; practical care and continuing distress are not sexual availability. |
+| `MT-R-063` Shela/Vera/Alphonse → search/family | Funds, schedules, refugee help and resources expand options. | `005,010,014–015`; collective work is not Paul's sole achievement. |
+| `MT-R-064` Zenith/Lilia/Paul → Sylphie; women ↔ household | Reported teaching and negotiated domestic terms. | `012`; past report, not current encounter or proof of coercion's necessity. |
+| `MT-R-065` party → village / village → party | Effective hunt and publicity offer; thanks given but figurine and religious acceptance refused. | `016`; personal gratitude does not entail general reform. |
+| `MT-R-066` Eris ↔ Cliff | Intervenes, strikes, judges coordination, refuses proposal; Cliff admires and misreads. | `018–019`; refusal is unambiguous; talent grants no entitlement. |
+| `MT-R-067` Eris ↔ Therese | Child rescue with knight assistance; misread credit creates personal gratitude. | `019,022`; heroic appearance conceals fear and support. |
+| `MT-R-068` Therese → party | Jurisdiction, kinship and debt win passage and medicine; demon prejudice and uncomfortable handling remain. | `021–022`; exception helps without universal acceptance. |
+| `MT-R-069` Roxy ↔ parents | Spoken welcome doubted; tears/shared hug change immediate departure. | `023`; communication difference unchanged; three-day stay is not permanent repair. |
+| `MT-R-070` Roxy → pupil/missing people / companions | Corrects missed identity, values pupil, prioritizes remaining search with others. | `024`; embarrassment and biased praise coexist with care. |
+| `MT-R-071` Gustav → client | Accepts paid inquiry, delivers false certainty, recognizes error but withholds repair. | `026–028`; later harm announced, precise consequence not yet known. |
+| `MT-R-072` Ariel ↔ officials | Voice/presence restore loyalty; shared cover permits risky discretion; guards join. | `026`; official testimony idealizes, no impartial reform proved. |
+| `MT-R-073` Fitts ↔ guards/wards | Support magic protects wards; allies die protecting caster. | `027`; power is not invulnerability, witness's identity inference fails. |
+| `MT-R-074` Rudeus → Randolph / Shagall → Randolph | Excessive criticism followed by unseen business closure and recruitment. | `025`; shame visible, later career benefit unestablished. |
+
+The repaired father–son relation does not transfer automatically to Norn, Eris or the women present. Missing relatives retain prior independent stakes; no offstage consent, romance or identity is invented.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Directed event | Initiative / constraint / available options | Observation and limit |
+| --- | --- | --- |
+| `MT-R-075` Rudeus → companions | Requests detour help and accepts ideas while withholding adviser; later broadly discloses to Rui after direct question. | `002,004,019`; cooperation not initial informed agreement; Eris not present for full night disclosure. |
+| `MT-R-076` Ruijerd → Rudeus | Immediate bodily care, hostage rescue, defense, relevant inquiry and equal farewell. | `002,010,016,019–020`; care survives warrior status, power has limits. |
+| `MT-R-077` Rudeus → Ruijerd | Protective secrecy → qualified hope, privacy for tears, acknowledged autonomy and valued pendant. | `002,019–020`; no full metaphysical certainty, no right to extend escort indefinitely. |
+| `MT-R-078` Eris → Ruijerd / Ruijerd → Eris | Sustained practice, meaningful recognition, farewell instruction and guarded emotion. | `014,020,024`; new report of training hit qualifies Rudy's account; no invulnerability. |
+| `MT-R-079` Rudeus → Aisha | Prompt rescue/care and defense against assigned role coexist with esteem management and misleading conditional offer. | `005–006,012–013`; not pure exploitation or perfect honesty. |
+| `MT-R-080` Aisha → Rudeus | Seeks aid, questions reputation, recognizes alias, chooses admiration and later service interest. | `006,013,029`; age, upbringing and overcredited rescue limit fully independent judgment. |
+| `MT-R-081` Lilia → Rudeus / Rudeus → Lilia | Lilia offers devotion and proposed daughter service; Rudeus rejects sole credit and the proposal, supplies funds and travel advice. | `011–012`; Lilia knows the escorts and court, while gratitude and subordinate dependence persist. |
+| `MT-R-082` Lilia → Aisha | Teaches useful skills, protects from immediate threat, imposes future role; rare praise/embrace. | `012,029–031`; affection real, choices constrained. |
+| `MT-R-083` Aisha → Lilia | Resists unexplained purpose, teases through superior information, welcomes unexpected affection. | `029,031`; changed admiration does not validate all prior controls. |
+| `MT-R-084` Ginger / soldiers → captives / Zanoba | Separate plans under hostage pressure; craft interest recruits force, freed families enable action. | `007–010`; lethal methods and withheld information remain, not one Rudy plan. |
+| `MT-R-085` Zanoba ↔ Rudeus | Craft admiration creates pupil/master authority; liberation bargained for, later gratitude/fear and injury coexist. | `009–011`; no harmless eccentric or universally benevolent teacher. |
+| `MT-R-086` Orsted → party / Nanahoshi → Orsted | Initial departure turns to attack at Hitogami name; intervention followed by reported healing. | `015–018`; motives/knowledge mechanism unresolved, help does not erase attempted killing. |
+| `MT-R-087` Hitogami ↔ Rudeus | Negotiated advice, beneficial outcome, challenged omission and partially accepted explanation. | `002,011,017`; noticed contradiction survives; actual motive not established. |
+| `MT-R-088` Rudeus → Eris | Credits training yet retains child framing; care/promise, respects solitude and choice; assumes shared future then rejection. | `014,018,021–023,026`; boundary failures and hidden fear remain. |
+| `MT-R-089` Eris → Rudeus | Protects/tends, idealizes capacity, sees vulnerability, seeks family and chooses distance to train. | `016,018,023–025`; burden self-theory contradicted by actual care; destination deliberately withheld. |
+| `MT-R-090` Ghislaine / Alphonse → Eris | Personal welfare versus domain restoration, competing proposals, training accompaniment versus cover story. | `021–022,025–026`; no single retainer speaks her full intentions. |
+| `MT-R-091` Rudeus / Alphonse → reconstruction | Practical defenses and continuing domain work despite personal rupture. | `026`; initial desolation not absence of all rebuilding; no proof equitable recovery. |
+| `MT-R-092` Roxy → missing family / companions | Gives up reward and reunion, questions vague lead, joins split message mission. | `027–028`; others contribute ideas/access; no completed delivery. |
+| `MT-R-093` Kishirika / Badigadi / Elinalise / Talhand → search | Sight, private transport access and divided travel expand possibilities; personal preferences persist. | `027–028`; Roxy misknows sailing party, restriction remains general. |
+| `MT-R-094` Paul → Lilia / father → Lilia | Historical assault and flight versus refusal to force marriage and alternative employment route. | `030`; causal setting not excuse, later family attachment not retroactive consent. |
+
+Reciprocity is tested by information and options, not only declarations of love or thanks. The two central departures have different communication structures and cannot be collapsed into a universal abandonment pattern.
