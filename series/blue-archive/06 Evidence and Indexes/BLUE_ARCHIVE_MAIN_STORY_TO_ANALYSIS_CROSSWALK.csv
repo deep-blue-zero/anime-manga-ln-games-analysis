@@ -96,7 +96,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 95,BA:main:003:001:008,MAIN_V003_C001_E008,エデン条約編,第8話;第1次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E008_DEEP_READING.md
 96,BA:main:003:001:009,MAIN_V003_C001_E009,エデン条約編,第9話;水面下に揺らめく影,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E009_DEEP_READING.md
 97,BA:main:003:001:010,MAIN_V003_C001_E010,エデン条約編,第10話;合宿、スタート！,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E010_DEEP_READING.md
-98,BA:main:003:001:011,MAIN_V003_C001_E011,エデン条約編,第11話;大掃除！,6,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+98,BA:main:003:001:011,MAIN_V003_C001_E011,エデン条約編,第11話;大掃除！,6,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E011_DEEP_READING.md
 99,BA:main:003:001:012,MAIN_V003_C001_E012,エデン条約編,第12話;合宿初日の夜,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 100,BA:main:003:001:013,MAIN_V003_C001_E013,エデン条約編,第13話;補習授業部の模擬試験,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 101,BA:main:003:001:014,MAIN_V003_C001_E014,エデン条約編,第14話;正義実現委員会の副委員長（１）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

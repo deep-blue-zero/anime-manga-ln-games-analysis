@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -699,3 +699,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **AZUSA ↔ HIFUMI/PEERS:** Hifumi counters Azusa's combat-camp model; Azusa explicitly pledges second-exam study and no burden on others while retaining a security-preparation register. No peer has accepted the imagined defense plan, and the listed mines are not deployed.
 - **HANAKO ↔ HIFUMI/KOHARU:** Hanako's cleanup proposal is adopted by Hifumi and tolerated by Koharu; later Koharu protests Hanako's swimsuit and narrator confirms Hanako changes. One negotiated boundary does not prove either durable intimacy or antagonism.
 - **SENSEI ↔ GROUP:** Hifumi expects Sensei's week-long presence and receives a supportive singleton reply; Sensei then asks the students to connect with each other and call if needed. Exact room arrangement and availability in practice remain open.
+
+## V003 C001 E011 relationship delta — work assignment and pool persuasion
+
+- **HIFUMI ↔ KOHARU/HANAKO/AZUSA:** Hifumi delegates cleaning, Koharu demonstrates lobby work, Hanako proposes bedding and pool tasks, and Azusa accepts corridor work then joins pool preparation. This is observed collaboration, not proof of academic parity or knowledge of Nagisa's plan.
+- **HANAKO ↔ AZUSA/KOHARU:** Hanako's play invitation elicits Azusa's present-effort reply; Koharu initially objects on exam relevance and swimwear, then grants local permission. No durable closeness or coercive control is established.
+- **SENSEI ↔ GROUP:** Sensei appears as inward observer with one singleton reaction; the narrator credits the group for cleaning. No demonstrated adult-led tactical, scholastic or safety decision.

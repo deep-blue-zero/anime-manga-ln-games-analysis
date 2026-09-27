@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1107,3 +1107,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Azusa's `偵察`/`兵舎`/`集中訓練`/`任務`/`敵襲` frame the academic camp as a security mission, while `迷惑は、かけたくない` expressly limits her aim to studying and not burdening peers. Her mine/IED list is self-report, not a deployed arsenal. Hifumi's `戦いに来たのではなく、勉強をしに` directly contests the framing.
 - Hanako's naked/shared-sleep teasing and later health-based `お掃除` proposal are separate registers, neither a demonstrated assault nor proof that two points reflected deliberate failure. Koharu's `エッチなのは禁止！死刑！！` and `アウト` mark protest/hyperbole, not campus penal code.
 - Scene 1 `u:0010-0011` and `u:0067-0068`, scene 2 `u:0005-0010` have role/label tension. Both scenes lack `u:0001`. Scene-2 `choice:001` has two alternatives followed by identical Hifumi `u:0003-0004` convergence, not two separate approvals. Narrator `scene:002:u:0021` confirms Hanako changes into gym clothes; `u:0022` is title card.
+
+## V003 C001 E011 delta — `vanitas` answered by present effort
+
+- Azusa's `vanitas vanitatum` at an unused pool is paired with her own `今日最善を尽くさない理由にはならない`. Hanako glosses the ancient phrase as “all is vain,” then invites pool restoration/play now. This is a situated dialogue about impermanence and action, not a validated cosmology or permanent despair. Former pool activity is Azusa's conjecture.
+- Hanako's wet-uniform/bikini teasing and Koharu's permission concern a local clothing negotiation. Hanako's italic lake-water potability assertion `scene:006:u:0063` is a claim, not verified drinking-water advice. Sensei `choice:001` is a singleton frightened impression, not observed coercion.
+- Scene-1 `u:0004-0005` and scene-6 `u:0011-0012` have label/voice conflict; scene-6 `u:0003-0005` also warrants caution. Scenes 4–5 print locations only, no utterances. Italic `u:0061-0065` may compress action/speech; narrator `u:0066-0067` securely says cleaning completed, filling delayed until dusk, not a swim. `u:0068` is title card.

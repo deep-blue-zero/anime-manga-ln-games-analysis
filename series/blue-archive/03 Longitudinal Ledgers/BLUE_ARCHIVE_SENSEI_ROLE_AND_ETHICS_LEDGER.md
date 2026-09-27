@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -760,3 +760,7 @@ Nagisa says she enlisted Schale authority in an expulsion-oriented special club,
 ## V003 C001 E010 delta — accessible adult, student-organized camp
 
 Hifumi expects Sensei to remain at the annex for the week; `choice:001` agrees to be relied on. When students debate sharing rooms, `choice:002` instead invites their own interaction and offers call-if-needed support. `choice:003` encourages cleaning. This is bounded presence, not a documented sleeping arrangement, full-time surveillance, endorsement of Koharu's imagined co-sleep scenario or completed protective intervention against Nagisa's plan. Hanako originates the health/cleaning proposal and Hifumi organizes it; Sensei does not claim the students' work as their own. Scene-2 `choice:001` has two clothing comments converging on duplicate Hifumi lines, not a real ethical choice fork. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E011 delta — students complete work, adult observes
+
+Hifumi coordinates maintenance, Koharu/Hanako/Azusa contribute, and narrator confirms cleaning while pool filling slips to dusk. Sensei's scene-6 `u:0002` is inward “about done?” and their only choice is a singleton impression of Hanako's look. No teacher-led assignment, safety certification, approval to drink lake-sourced water, completed swimming plan or educational intervention is shown. Student agency in ordinary shared-space care persists alongside Nagisa's concealed institutional threat; one cannot infer Sensei has neutralized it. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

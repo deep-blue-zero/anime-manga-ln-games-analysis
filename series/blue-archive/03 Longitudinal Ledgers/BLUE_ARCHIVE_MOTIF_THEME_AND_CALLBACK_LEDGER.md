@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -852,3 +852,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Support space versus hidden disposal design:** the annex is materially habitable and the students plan practical care there, while E009's institutional danger remains audience/Sensei knowledge. The visible camp is neither proof of benign governance nor proof the students know they are suspects.
 - **Preparation languages:** Azusa maps the site as a defensible position, Hanako as a health/cleaning problem, and Hifumi as a one-week pacing task. Distinct operational imaginations coexist without any observed attack or study result.
 - **Bounded adult proximity:** Sensei offers help on call while the students negotiate room use and clothing. This is a modest agency-preserving pattern, not a completed solution to the exam/expulsion threat.
+
+## V003 C001 E011 motif / callback delta — repair against `vanitas`
+
+- **Maintenance as lived care:** weeds, lobby furniture and pool are materially cleaned; Hanako's bedding plan adds unverified further care. This ordinary work in a potentially punitive institution does not absolve its governance.
+- **Impermanence/action:** Azusa reads abandonment as `vanitas` but rejects it as a reason to withhold today's effort; Hanako calls for play before tomorrow's study. Their future-oriented act complicates a simple nihilism or laziness reading.
+- **Delayed pleasure:** cleaning/filling consumes daylight, so the hoped-for pool recreation is deferred by material time. Play is an invitation, not an already realized party.

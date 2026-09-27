@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E010 active provisional; E011 unopened
+current_sequential_boundary: MAIN_V003_C001_E011 active provisional; E012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1654,3 +1654,13 @@ No standalone model, frozen prediction or side-source admission. Backfill **DEFE
 - **Other families:** no direct global test.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; camp outcome, security reality and second exam remain OPEN.
+
+## V003 C001 E011 claim delta — completed maintenance, uncompleted recreation
+
+- **BA-C001/C016:** Hifumi delegates and Koharu/Hanako/Azusa act; narrator confirms cleaning progress and pool work without assigning it to Sensei. This supports narrow student agency in routine care, not educational rescue.
+- **BA-C002–C004/C007/C010–C011/C021:** cooperation in a habitable annex is not proof the club's institutional design is benign, that a traitor exists, or that any student knows Nagisa's E009 plan. No second exam or expulsion.
+- **BA-C008:** empty scene 4/5 headings carry locations but no events; cross-label `scene:001:u:0004-0005` and `scene:006:u:0011-0012` constrain exact attribution. Italic water snippets and one singleton Sensei choice are not independent scene/safety findings. Narrator ends pool filling at dusk, not swimming.
+- **BA-C019/C020:** shared-space maintenance remains comparison only.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; water safety, recreation, second exam and school-security outcome remain OPEN.

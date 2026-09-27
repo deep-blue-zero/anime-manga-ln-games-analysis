@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -828,6 +828,16 @@ Narrator confirms camp is decided, not carried out. No new subject/readiness pro
 - **Hifumi/four students/Seia/Mika:** absent from this conversation. E008 scores still stand, but no club member is identified as traitor or shown to know the plan. Seia's earlier treaty verdict and Mika's workload account remain distinct situated claims.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E011 character-state delta — work and a delayed swim
+
+- **Hifumi:** delegates weeds/corridor work with heat warning, accepts Koharu's lobby experience and Hanako's bedding/pool proposals. Organizing becomes visible work; no exam improvement shown.
+- **Koharu:** gives mask/dust/wet-wipe steps from claimed committee experience; narrator confirms lobby dust/furniture cleaned. Later resists then locally permits Hanako's bikini-under-uniform choice. Some adjacent labels remain inverted.
+- **Hanako:** proposes laundry/mattress/ventilation, argues for pool cleanup/play before sustained study, helps with water cleaning and negotiates swimwear. No causal explanation of E008's 2 or proof of a daytime swim.
+- **Azusa:** accepts corridor/amenities assignment, reflects on the unused pool through `vanitas vanitatum`, then explicitly says impermanence is no reason not to do one's best today. Past pool use and broader philosophy remain uncertain.
+- **Sensei:** inwardly observes progress and gives one singleton reaction; no demonstrated instruction or disciplinary intervention.
+
+Narration confirms outdoor/lobby and group pool cleaning, then pool filling only by dusk. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C001 E010 character-state delta — camp routines before second test
 

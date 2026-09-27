@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:011; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:011` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -670,3 +670,7 @@ Nagisa says ordinary Trinity failure/suspension/expulsion rules require checks a
 ## V003 C001 E010 institutional delta — annex occupancy and second-test horizon
 
 The group arrives at Trinity's long-unused annex camp. Hifumi says they will stay a week until the second special academic exam, identifies usable beds, gym/showers, a walkable main campus and apparent dining equipment, and organizes cleaning before study. These are situated observations/plans, not a facility audit, finished cleaning or grade improvement. Sensei is expected to stay for the period; the precise lodging assignment is not printed. The narrator confirms Hanako changes from swimwear to gym clothes after a group dispute. No expelled student, treaty investigation or altered exam appears; Nagisa's E009 design remains unannounced to the group in this unit.
+
+## V003 C001 E011 institutional delta — annex maintenance, no new exam
+
+Narration confirms exterior weeds/clutter cleared, corridor sweeping/wiping repeated, lobby dust/furniture cleaned and group pool cleaning completed. Classroom and gym appear as empty location headings, not printed actions. Hanako proposes bedding wash/mattress replacement/ventilation, but each step's completion is not separately shown. Filling the pool takes until dusk, so swimming is not evidenced. The annex is being made habitable by students during the camp; this does not make Nagisa's alleged procedural bypass lawful or disclose her purpose to them. No score, second exam, expulsion or treaty act occurs; Hanako's lake-water safety remark is unverified.
