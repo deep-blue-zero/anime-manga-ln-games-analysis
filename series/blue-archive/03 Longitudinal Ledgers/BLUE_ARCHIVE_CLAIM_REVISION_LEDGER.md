@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E016 active provisional; E017 unopened
+current_sequential_boundary: MAIN_V003_C002_E017 active provisional; E018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1864,3 +1864,11 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa care, Arius losses, gym outcome, Justice response and exam remain OPEN.
+## V003 C002 E017 claim delta — self-confessed anti-peace coup
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hifumi directly credits Sensei's command for disabling the first Arius group, while Mika calls Schale's adult presence troublesome after an unprinted encounter. This supports bounded coordination, not solo-combat omnipotence or a completed protection/pass outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE strongly:** Mika calls herself the real traitor, claims a renewed Justice stand-down and prior Tea Party-reach obstruction, admits E001's martial-alliance portrayal of the Eden Treaty was a lie, and calls it genuine peace. She says Arius support, Nagisa's removal, her host succession and a Gehenna-eradicating war are her purpose; Azusa is to be scapegoated. These are material self-incriminating admissions with some on-scene correlation (Justice nonresponse, Arius arrival), not certified order records or achieved coup. Mika further admits ordering Seia attacked but denies a halo-destruction instruction and withholds a clear incident account. The first local Arius group is combat-incapacitated, but much larger reinforcements arrive by Azusa's estimate. Koharu has contacted Hasumi; no response yet. A cathedral-side force is identified questioningly as Sisterhood, not yet verified aid.
+- **BA-C008 — STRENGTHEN:** scene 1 `u:0055-0060/0080` “Arius student A” tags conflict with Mika's first-person continuous exposition; scene 2 `u:0021-0022` has a similar discontinuity. Sensei `u:0036` is inward, and Mika's post-thought response is not proof of mind-reading. Strong actor admission, self-serving qualification and uncertain speaker labels are not interchangeable.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia mechanics, Justice orders, Sisterhood, Nagisa and exam remain OPEN.

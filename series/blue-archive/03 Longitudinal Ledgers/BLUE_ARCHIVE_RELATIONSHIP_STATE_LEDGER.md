@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -864,3 +864,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **AZUSA ↔ NAGISA:** Arius says Azusa carried the target into camp; Azusa says Nagisa is hidden. Location is narrowed, but care, consciousness and consent remain unknown after E015's gunfire.
 - **REMEDIAL CLUB ↔ SENSEI:** Sensei is present and answers “waiting,” with final encouragement inward. This supports shared exposure/solidarity, not sole adult command or demonstrated rescue.
 - **ARIUS COMMANDER ↔ “SQUAD”:** he reports contact and says Squad has a separate task; neither specific members nor their action are shown. The line cannot be used to import later relations or motives.
+## V003 C002 E017 relationship delta — Mika names the hidden alliance
+
+- **MIKA ↔ NAGISA/SEIA:** Mika says she targeted Nagisa to stop a real peace treaty, intended her removal/confinement, and ordered Seia attacked while denying lethal instruction. Their prior friendship and Seia's condition cannot neutralize the direct hostile order; neither target is present to answer.
+- **MIKA ↔ ARIUS/AZUSA:** Mika claims she secretly supported Arius as future armed backing for hostship and war, and explicitly intends Azusa as scapegoat for Nagisa's assault. The corrupted `u:0055-0060` labels caution exact speech attribution but not the surrounding Mika-context plan. Azusa's interrupted Seia response gives no full counter-history.
+- **MIKA ↔ SENSEI/REMEDIAL CLUB:** Mika admits deceiving Sensei about treaty nature, asks for Nagisa, threatens to eliminate obstacles, and recognizes Schale resistance as troublesome. Hifumi credits Sensei's earlier command against a local Arius group; no observed Mika defeat or negotiated settlement.
+- **KOHARU ↔ HASUMI/JUSTICE:** Koharu says she sent Hasumi a message. Hanako expects Justice action, while Mika claims a stand-down; the reply and actual decision are absent.
+- **SISTERHOOD ↔ CONFLICT:** an Arius student identifies approaching cathedral-side students questioningly as Sisterhood. This suggests autonomous intervention but does not yet prove membership, alliance or outcome.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -758,3 +758,6 @@ Arius role-tagged students report teams IV/V/VI/VIII prepared and target located
 ## V003 C002 E016 institutional delta — camp militarized, treaty exam still untested
 
 Arius student A reports Azusa brought Nagisa to the remedial camp; an Arius commander confronts an apparently fortified building with two entrances, one barricaded. He orders an explosive breach despite noise, saying Squad has contacted him about incoming reinforcements and broader Trinity conflict may need anticipation. This is an actor's force report and contingency, not actual reinforcement arrival or formal declaration. The breach meets Azusa-anticipated Claymore and IED traps; Hanako says the enemy force has fallen substantially. No casualty number, medical outcome or completed defense is shown. Azusa says Nagisa is hidden, without present care/custody verification. The commander later says Squad is busy elsewhere, then pursues the four students to a gym ambush with Sensei present. The late repeated Hifumi tags prevent exact student-role attribution. No Justice Realization deployment/response, treaty document status, third official exam, pass, exclusion or Nagisa recovery is displayed.
+## V003 C002 E017 institutional delta — insider coup claim and independent arrival
+
+Azusa says the first Arius camp group is wholly combat-incapacitated, with Hifumi crediting Sensei's command. Hanako expects Justice Realization after Koharu's Hasumi message and Nagisa irregularity, but no response is shown. More Arius units arrive unexpectedly; Azusa estimates battalion scale/nearly half Arius, not an audited roster. Mika appears, self-identifies as the real traitor, claims a renewed Justice stand-down and broad Tea Party-reach stalling, and says Arius is to become Trinity's public force. Her admissions fit the visible nonresponse and Arius presence but do not expose formal orders. She retracts E001's martial-alliance portrayal, calling Eden a real peace treaty; text/legal mechanics remain uninspected. She proposes Nagisa's removal, her own hostship, replacement of moderates with Arius, possible new council and full war against Gehenna. This is an announced coup/war program, not completed institutional transfer. She explicitly intends Azusa as Nagisa-attack scapegoat. Mika admits ordering Seia attacked but denies ordering halo destruction, leaving actual action and medical outcome unresolved. Cathedral-side students approach and an Arius student exclaims Sisterhood; no verified deployment/command or combat result yet. The final special exam and Nagisa's care remain open.

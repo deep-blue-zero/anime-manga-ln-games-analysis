@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1068,5 +1068,15 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across
 - **Hifumi/Koharu:** directly react as the Arius commander corners four students in the gym. Hifumi has secure startled `u:0036` but `u:0037-0041` repeat her label across incompatible registers; no stable new Hifumi combat method. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
 - **Sensei:** physically with the group, gives one singleton “waiting” response; the final “let's go” is inward, not audible command. `PARTIAL_MODEL`.
 - **Nagisa/Arius commander:** Nagisa does not speak and her medical state remains unshown. The commander reports incoming units/Squad contact, orders a noisy breach, persists through traps and confronts the four; generic role actor, no new tracked subject.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E017 character-state delta — Mika's declared design
+
+- **Mika:** calls herself the “real Trinity traitor”; says she ordered Justice to stand down and preemptively stalled Tea Party-reachable opposition; declares Arius future armed backing, removal of Nagisa/moderates, her host accession and war to erase Gehenna. She admits her E001 martial-alliance story misled Sensei and calls the treaty genuine peace, while claiming her Arius reconciliation wish was real within anti-Gehenna aims. She explicitly plans to scapegoat Azusa for Nagisa's attack. She admits ordering Seia attacked but denies ordering halo destruction, offering only a vague account of the actual outcome. These are direct self-incriminating and partly self-exculpatory statements, not executed war or forensic Seia record. `UNMODELED`.
+- **Azusa:** confirms the first Arius group combat-incapacitated, estimates unexpectedly large reinforcements, warns Sensei Mika appears strong and is pressed to explain Seia's attack. Her response is interrupted; no individual guilt or full account can be assigned. `UNMODELED`.
+- **Hanako:** expects Justice after Koharu's contact, then sees no movement and challenges Mika over Seia. The scene-2 independent-group line is label-unstable; no confirmed Sisterhood aid yet. `UNMODELED`.
+- **Koharu/Hifumi:** Koharu reports messaging Hasumi, without reply shown. Hifumi credits Sensei's tactical leadership after local victory and is shocked by Mika/Seia revelations. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
+- **Sensei:** present after victory; four singleton responses question Mika's treaty and political aim. The “why” and anger reaction are inward/visually inferred, not a direct new command. Mika calls Schale's adult involvement troublesome after an unprinted clash. `PARTIAL_MODEL`.
+- **Seia/Nagisa:** neither speaks in present scene. Mika reports ordering Seia attacked but denies lethal instruction; medical history unresolved. Nagisa remains missing from the Arius attackers and has no shown care.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1261,3 +1261,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `クレイモア` and `IED（即席爆発装置）` are explicit device labels during attacks; cries and Hanako's `だいぶ減りました` do not specify fatalities. The commander `これ以上トラップが無い` is an adversary assertion, not narrator inventory.
 - `u:0037-0041` repeatedly tags `ヒフミ` despite menacing, playful-heart, polite-introductory and militarized voices. Preserve the group-level ambush and quarantine exact speaker assignment; do not create a Hifumi “extermination” stable trait. The commander's “four” refers to the student group, with Sensei subsequently present.
 - Sensei `choice:001` is singleton `待ってたよ`; `scene:001:u:0042` is `心の声` and not a direct field order. Scene 2 `u:0001` is only the E017 title card.
+## V003 C002 E017 delta — “real traitor” and corrupted political voice
+
+- Mika's italicized `私が本当の、「トリニティの裏切り者」` is explicit self-claim; `黒幕登場` is theatrical self-framing. `正義実現委員会は動かないよ。私が…待機命令` and Tea Party-wide stalling are her assertions, partly consistent with no visible Justice motion but not a written order.
+- `u:0055-0060` and `u:0080` are tagged `アリウスの生徒A`, yet first-person references to prior talk with Sensei, initiating the Arius deal and secretly supporting it continue Mika's answer. Quarantine exact voice/label rather than creating a new generic student's independent autobiography. Scene 2 `u:0021-0022` likewise shifts oddly: an apparent “Mika” line identifies an independent group after Mika asks why Tea Party restraints failed.
+- Mika's `あの時は騙してごめん`/`うん、それは嘘` retracts the earlier armed-alliance characterization; `本当に平和条約` is her new assertion. `和解したかった` preserves part of her earlier motive, but `ゲヘナを…消し去りたい` and `全面戦争` expose its anti-peace end. `スケープゴート` explicitly makes Azusa a proposed blame-bearing victim, not a validated attacker.
+- Mika `私の指示だよ` admits ordering the Seia attack; `ヘイローを破壊しろとは言ってない` denies a lethal order. `自然とああなっちゃった` is evasive as to actual result. Azusa's `ち、違う……あれは……` is interrupted and cannot be treated as a complete confession or exoneration.
+- Sensei `scene:001:u:0036` and `u:0077` are `心の声`; the first does not require Mika to hear it. All four choices are singleton. `シスターフッド！？` at scene 2 `u:0024` is a character's surprised identification from cathedral-side approach, not narrator certification. `u:0025` is forward title only.

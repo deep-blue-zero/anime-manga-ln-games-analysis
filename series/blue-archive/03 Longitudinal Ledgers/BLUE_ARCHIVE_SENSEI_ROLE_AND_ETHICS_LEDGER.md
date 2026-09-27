@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:017; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -848,3 +848,6 @@ Sensei has no dialogue, choice or direct presence in E015. Hanako's E014 “Scha
 ## V003 C002 E016 delta — present at the defensive stand, no proven command outcome
 
 Sensei appears at the camp gym confrontation, giving a singleton `待ってたよ` after the four students are cornered. The following `じゃあ補習授業部、行こう` is explicitly inward. The preceding apparent `殲滅戦` request sits in a run of corrupted repeated Hifumi labels, so one cannot assign it securely or infer that Sensei audibly ordered lethal force. Presence with exposed students matters to the E009 promise, but no completed combat, casualty assessment, Nagisa medical care, exam access or adult safeguard follows. The chapter still needs a proportionality account of the explosive trap defense and Nagisa's E015 shooting; E016 supplies no verdict. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E017 delta — bounded command against a confessed war project
+
+Hifumi directly says Sensei's direction helped the group incapacitate the first Arius attackers, a retrospective causal attribution stronger than E016's inward cue but limited to that engagement. Sensei's four singleton responses recognize Mika, question the treaty and hostship motive, and include a silent option. Two `心の声` reactions (`どうして` and startled anger) are not public speeches, even though Mika's dialogue follows the former. Mika notices an angry look and later calls Schale's adult involvement troublesome after an unprinted interval; this shows resistance but no quantified adult capability or resolved battle. Her explicit plan for Gehenna's erasure, Azusa's scapegoating and Seia attack poses a concrete ethical challenge to E009's non-suspect-sorting promise, while Nagisa's safety, Justice mobilization and students' final exam remain unachieved. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
