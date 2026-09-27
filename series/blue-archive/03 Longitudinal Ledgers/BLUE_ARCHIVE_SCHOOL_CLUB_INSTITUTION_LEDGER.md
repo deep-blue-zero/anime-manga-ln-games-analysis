@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1003,3 +1003,7 @@ Kanna identifies SRT's RABBIT first-years and reports school closure and intende
 ## V004 C001 E003 institutional delta — interviews and closure authority
 
 Four `977-R` interrogation records list named students/interviewers. Narration stamps Saki, Moe and Miyu `不適格` and Miyako `保留` without a rubric, decision-maker or legal effect; do not turn this into adjudicated status. Kanna reads purported GSC academic files for Saki and reports a council closure decision and strong request for heavier punishment; neither underlying file nor closure instrument appears. She expects detention then a federal decision, possibly loss of school-transfer eligibility in the worst case. These are forecasts, not imposed penalties. Kaya self-identifies with the Federal Student Council Defense Office and enters before explaining her stance.
+
+## V004 C001 E004 institutional delta — GSC structure by Kaya's account
+
+Kaya says the Federal Student Council consists of eleven-section `行政委員会` plus Rin's special `統括室`; her Defense Office directs Valkyrie but SRT allegedly held a presidential cross-jurisdiction immediate-response exception. She reports presidential absence created a responsibility vacuum and advanced-gear deployment problem. Her FOX raid/fire/injury account is uncorroborated in this source; no FOX member is named. She forecasts record erasure and conditional alternative if RABBIT accepts Valkyrie, then offers Sensei disposition authority and promised Defense cooperation while saying SRT revival is beyond reach. These are conflicting policy possibilities and an explicit offer, not inspected authorization, completed custody/record changes or voted closure repeal.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1287,3 +1287,7 @@ Within RABBIT, Miyako seeks disciplined negotiation and resource restraint; Saki
 ## V004 C001 E003 relationship delta — loyalty without one motive
 
 Saki identifies strongly with SRT and resists Kanna's intimidation, yet her admission softens the flawless-rule persona. Moe says she would gladly part with the current RABBIT members, so squad solidarity cannot be inferred from shared protest; this remains one interview statement, not a completed separation. Miyu reports Miyako sometimes caring for her despite limited closeness overall; transfer threatens recognition more than safety. Miyako acknowledges Sensei's skill but rejects praise from a near-stranger and treats his welfare question as possible quid pro quo. Kanna thanks Sensei for cooperation while predicting council control; Kaya enters before any answer.
+
+## V004 C001 E004 relationship delta — Kaya courts Sensei
+
+Kaya thanks Schale for absorbing federal burdens, values RABBIT's elite potential and asks Sensei to persuade them toward Valkyrie; after an apparent response to Sensei's inward objection, she professes respect for students' dreams and offers Schale broad disposition discretion with Defense Office support. This is a political/administrative approach, not proof Sensei accepts a coercive bargain or that the students trust either actor. Kaya reports Rin's post-FOX talks; Rin does not speak here. `u:0057` seems to address Kaya as Defense head under a Kaya tag, so Kanna's exact reaction is quarantined.

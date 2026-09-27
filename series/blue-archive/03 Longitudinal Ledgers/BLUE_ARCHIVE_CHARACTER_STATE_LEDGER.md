@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1645,3 +1645,9 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Miyu:** volunteers sniper role, age/birthday/pebble hobby and says she fears being forgotten in new ties; Miyako sometimes looks after her. Fubuki's Life Safety suggestion is declined, not a transfer.
 - **Miyako:** says transfer refusal is not anti-Valkyrie but a commitment to SRT's allegedly interest-independent justice; blames her own command, rejects unfamiliar Sensei's praise and vows persistence despite poor odds. Her institutional assessment is her belief.
 - **Sensei/Kanna/Kaya:** Sensei prioritizes welfare and a question about Miyako's reason, states personal inability to reverse closure immediately. Kanna forecasts severe federal sanction but shows no decision. Kaya self-introduces as Defense Office member; no policy answer yet.
+
+## V004 C001 E004 character-state delta — Kaya's conditional offer
+
+- **Kaya:** explains a purported federal Administrative Committee/`統括室` division and Defense oversight of Valkyrie, contrasts SRT's presidential exception, reports FOX's earlier attack and RABBIT's subsequent pressure, then offers Sensei broad RABBIT disposition discretion while excluding SRT revival. Her personal anti-closure preference and proposed protection of school records are stated; no council order or completed intervention appears.
+- **Sensei:** the `心の声` objects to forcing an unwanted school path, but its apparent uptake by Kaya is an attribution seam. Sensei asks whether personal disposition authority is appropriate; no final exercise of it is printed.
+- **Kanna/Rin/RABBIT/FOX:** Kanna is present as field executor and appears not securely attributed at `u:0057`; Rin's attempted talks and FOX attack are Kaya's reports. FOX remains a role-level team without named members. RABBIT's school records and placement remain unsettled.

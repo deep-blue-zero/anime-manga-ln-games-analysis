@@ -178,7 +178,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 177,BA:main:004:001:001,MAIN_V004_C001_E001,カルバノの兎編,第1話;統制不能な特殊部隊,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E001_DEEP_READING.md
 178,BA:main:004:001:002,MAIN_V004_C001_E002,カルバノの兎編,第2話;招かれざる客,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E002_DEEP_READING.md
 179,BA:main:004:001:003,MAIN_V004_C001_E003,カルバノの兎編,第3話;それぞれの事情,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E003_DEEP_READING.md
-180,BA:main:004:001:004,MAIN_V004_C001_E004,カルバノの兎編,第4話;別側面の事情,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+180,BA:main:004:001:004,MAIN_V004_C001_E004,カルバノの兎編,第4話;別側面の事情,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,complete,02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E004_DEEP_READING.md
 181,BA:main:004:001:005,MAIN_V004_C001_E005,カルバノの兎編,第5話;消えない不信,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 182,BA:main:004:001:006,MAIN_V004_C001_E006,カルバノの兎編,第6話;食料調達を始めよう,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 183,BA:main:004:001:007,MAIN_V004_C001_E007,カルバノの兎編,第7話;ニンジン作戦（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

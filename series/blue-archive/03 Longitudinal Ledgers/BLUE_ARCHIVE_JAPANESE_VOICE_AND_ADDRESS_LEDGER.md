@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1678,3 +1678,10 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Miyu's hesitant self-disclosure includes age, birthday and `小石探し`; `人から忘れられるのが、怖い` specifies fear of erasure, not generic fear of Valkyrie violence (`u:0080-0100`).
 - Miyako distinguishes dislike of Valkyrie from loss of SRT and defines `正義` as truth-grounded, stable across interests. Her `保留` stamp does not equal legal acquittal; Kanna's `不適格` stamps' procedure is unexplained (`u:0114-0159`). Sensei's paired introduction converges, while `今すぐ私だけでどうにかするのは、ちょっと難しい` is a voiced limit, not hidden ability.
 - Kaya's formal self-introduction `連邦生徒会所属、防衛室のカヤ` begins a voice sample, not yet an institutional decision. No performed voice admitted.
+
+## V004 C001 E004 delta — bureaucratic explanation and attribution seam
+
+- Kaya's formal exposition names `行政委員会` (eleven parts), Rin's `統括室` and her `防衛室`, while distinguishing ordinary Valkyrie direction from SRT's claimed presidential exception (`scene:001:u:0008-0025`). Keep these Japanese institutional terms rather than silently equating offices.
+- Her `FOX小隊` attack, fire and injury account is retrospective testimony; `私もまた、そのような意見を持つひとり` identifies a professed pro-continuation stance, not vote evidence (`u:0026-0043`).
+- Sensei's `生徒たちが望まない進路を、強制することはできないよ` is tagged `心の声`, followed by Kaya's `なるほど`; this does not license mind-reading or a guaranteed spoken statement (`u:0051-0054`). `u:0057` has Kaya ask `ぼ、防衛室長……？` despite her own office, a likely label inversion whose exact voice is unconfirmed.
+- Kaya's casual `原則なんて知ったことではありませんね！` and later formal `先生にお任せします` express a local pivot/offer; neither phrase constitutes a written council order. No performed voice admitted.

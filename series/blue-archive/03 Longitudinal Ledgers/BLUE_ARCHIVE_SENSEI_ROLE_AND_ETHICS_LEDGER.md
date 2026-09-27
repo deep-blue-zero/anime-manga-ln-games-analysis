@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1093,3 +1093,7 @@ Sensei arrives with Rin's introduction and receives Kanna's field cooperation. A
 ## V004 C001 E003 delta — welfare inquiry without closure power
 
 In the interrogation Sensei's first substantive question asks Miyako about living conditions (`scene:002:choice:002`), which she suspects could be a coercive exchange for information. Sensei instead asks whether the transfer refusal is hatred of Valkyrie, hears her SRT-specific justice account, offers limited reassurance she does not accept, and asks what she needs. When she requests closure reversal, Sensei explicitly says this is difficult for one adult to do immediately (`choice:003-010`). That combination of listening and stated limit resists an omnipotent-savior inference; it has not yet changed Miyako's decision. Sensei then asks Kanna about fate and GSC consultation, prompting Kaya's entrance but no answer. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E004 unopened.
+
+## V004 C001 E004 delta — consent before placement
+
+Kaya proposes saving RABBIT's affiliation by persuading them into Valkyrie; Sensei's marked inward line refuses forcing students into an unwanted path (`scene:001:u:0044-0054`). Her apparent answer to it is a representation anomaly, so the exact spoken negotiation cannot be reconstructed. Kaya later offers Sensei unusually broad discretion over RABBIT's fate while excluding school revival; Sensei asks whether deciding is appropriate, with no decision/exercise yet (`u:0055-0068`). This tests the adult's responsibility under exceptional authority without proving coercion, omnipotence or a legal transfer. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E005 unopened.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1445,3 +1445,7 @@ SRT's `閉校を取り消せ` demand becomes individual: Saki insists the school
 ## V004 C001 E003 motif / callback delta — four versions of belonging
 
 The interviews turn E002's shared `閉校を取り消せ` into nonidentical stakes: Saki's disciplined wolf identity, Moe's weapons access, Miyu's continuity of recognition and Miyako's consistent-justice ideal. Kirino mistakenly reads Moe through a camaraderie script; Miyako explicitly rejects an anti-Valkyrie motive. The record's `不適格`/`保留` stamps offer procedural comedy and threat without an explained legal endpoint. Saki's desired single breach of discipline and Miyako's self-blame complicate idealized institutional self-descriptions. Sensei's welfare question meets Miyako's suspicion of adult bargaining; his inability to reverse closure keeps care separate from omnipotence.
+
+## V004 C001 E004 motif / callback delta — exceptional power and responsibility vacuum
+
+Kaya's SRT history reframes E003 Miyako's interest-independent justice ideal: according to Kaya, a presidential cross-jurisdiction exception gave SRT reach but left no accepted supervisor after the president vanished. The supposed solution of forced transfer would preserve elite human capital at the cost of chosen paths. Sensei's inward objection to coercion and Kaya's later offer echo earlier adult-power versus student-agency motifs, but the scene stops before a disposition. Kaya's “principle” dismissal is not by itself institutional reform. FOX's alleged violence and RABBIT's local protest are different episodes; their precise causal relation is Kaya's narrative.
