@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -839,3 +839,6 @@ Sensei's singleton response to Hifumi's appeal is `私も頑張るね`: shared e
 ## V003 C002 E013 delta — trust in work, unknown private danger
 
 Sensei's two singleton choices encourage the group: they will likely be all right, and should trust their effort. This sits beside three club mocks whose fifth all-pass is followed by a sixth with two failures; reassurance is ethical/morale support, not a calibrated prediction or ensured official result. Hifumi credits Hanako's teaching, and the adult does not appropriate that labor. Hifumi/Hanako/Azusa urge Koharu and each other to rest after days of little sleep, preserving student care rather than an adult-only solution. Saori's accelerated Nagisa-halo order is printed privately after the group pledge; no line shows Sensei heard it, knew the target, or could intervene. E009's pass/protection commitment remains unfulfilled and newly pressured, not falsified by a future event E013 has not shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E014 delta — resist total blame while students lead
+
+Sensei receives Hifumi/Hanako/Koharu in their room and hears Azusa's confession. Two spoken singleton choices reject Azusa's claim that she alone caused all the trouble and locate the original cause in inability to trust; this is an ethical diagnosis, not a verified complete causal model of Nagisa's notices or E011's lost papers. The following specific missed-trust examples involving Nagisa, Mika, Hasumi and the club are `心の声`, not necessarily available to Hanako; her later reply can address the prior audible choice. Hanako's own demanding interrogation, apology and two-part plan show student-driven moral reasoning and initiative. Sensei's `まあ` response to being called a Schale “master key” is not authorization to overthrow the school, and the final `とりあえず頑張ろう` is inward. No adult tactical intervention, official safeguard, achieved exam access or Nagisa rescue appears. The E009 protection/pass promise remains an open obligation, with no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

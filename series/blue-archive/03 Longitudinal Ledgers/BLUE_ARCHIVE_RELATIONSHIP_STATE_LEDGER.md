@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -844,3 +844,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **AZUSA ↔ HIFUMI/KOHARU/HANAKO/SENSEI:** Azusa accepts the group's rest counsel and joins a spoken commitment to pass. Her later Saori call is not shown to the others; the apparent coexistence of club belonging and hidden obligation is not proof she has chosen the latter.
 - **SAORI ↔ AZUSA:** Saori gives a fixed next-morning order and invokes shared `vanitas vanitatum` language. Azusa raises risk/unfinished preparation, then says she will prepare. This supports an asymmetrical command relation with room for hesitation, not unqualified enthusiasm, completed obedience or freely consented violence.
 - **SAORI/AZUSA ↔ NAGISA/SEIA:** Saori names Nagisa's halo as target and compares the requested act with Seia. The episode gives no direct Nagisa/Seia encounter and no independent Seia-event verification.
+## V003 C002 E014 relationship delta — confession receives a counteroffer
+
+- **AZUSA ↔ CLUB/SENSEI:** Azusa confesses false papers, original Arius mission and hidden counterdecision, shakes and asks to be hated. Hifumi/Koharu are shocked and confused; Sensei rejects her claim of sole fault. Hanako first presses the betrayal and later apologizes, recognizes her confession/attachment and offers a joint path. The club's final trust outcome is not yet tested in action.
+- **AZUSA ↔ ARIUS/SAORI/NAGISA:** Azusa says she has falsely reassured Arius while intending to protect Nagisa, a self-described double-agent position. E013 Saori's command and E014 Azusa testimony support conflict, but no completed defection, direct Nagisa contact or rescue is shown.
+- **HANAKO ↔ AZUSA/CLUB:** Hanako's painful interrogation gives way to empathy through a self-identifying account of elite pressure and attempted departure. Her specific inference that Azusa stayed for shared ordinary joy is tentatively accepted by Azusa. Hanako now asks the group to let her devise a way to defend Nagisa and pass together; no tactic or unanimous operational commitment is yet printed.
+- **KOHARU ↔ HASUMI/JUSTICE:** Koharu wants to explain; Hanako argues Hasumi might lack context and incur expulsion for helping. This is fear for a mentor/committee bond, not a confirmed Hasumi refusal or rule.
+- **MIKA ↔ ARIUS/NAGISA:** Azusa says Arius deceived Mika but lacks details; Hanako posits future blame-shifting. Mika's own E001 forged-admission and reconciliation account remains distinct and unadjudicated.

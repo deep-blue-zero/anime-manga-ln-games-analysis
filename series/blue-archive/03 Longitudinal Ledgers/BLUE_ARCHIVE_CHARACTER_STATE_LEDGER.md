@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1041,5 +1041,14 @@ No subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66*
 - **Hifumi:** scores 79/fail, 93/pass, 89/fail; credits Hanako, reassures Koharu, hopes a simple final paper may help and argues for sleep. This is contingent optimism amid variable mocks, not a predicted official pass; `PARTIAL_MODEL` unchanged.
 - **Saori:** previously silently named at C001 E017, now directly gives Azusa an accelerated order, names Nagisa's halo as target, cites Seia and invokes `vanitas vanitatum`. The narrow command sample does not establish independent historical truth or an operational model; `UNMODELED`.
 - **Sensei/Nagisa/Seia:** Sensei offers two singleton reassurance choices but no tested safeguard. Nagisa and Seia are spoken-about targets/references, not speaking participants; no completed harm or verified Seia history.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E014 character-state delta — Azusa and Hanako disclose
+
+- **Azusa:** returns trembling, admits Arius origin, false Trinity paperwork and Nagisa-halo mission. She says Arius will attack tomorrow but that she personally chose from the start to protect Nagisa, gave Arius false status reports and intends to stop the attack. Hanako formulates the “double spy” label; Azusa's own statements support self-directed refusal, not a demonstrated successful counter-operation or complete historical audit. She admits deception/hurt, but cannot bear to abandon club learning, friends and hoped-for sea/festival/amusement-park experiences. She names peace/treaty effects as her rationale, a forecast rather than independently proven causality. `UNMODELED`.
+- **Hanako:** reports Sisterhood-derived 19th-annex isolation and deduces exam access/Hasumi risks, not a witnessed cordon. Her story of a pressured “someone” includes a recalled line explicitly naming Urawa Hanako as a likely Tea Party appointee. She says that person deliberately failed exams to escape a lonely, performative school life, strongly identifying the motive withheld at E003 with herself while leaving external verification open. She apologizes for needling Azusa, finds value in shared ordinary life and proposes protecting Nagisa plus four 90+ passes. Tactics not disclosed; `UNMODELED`.
+- **Hifumi/Koharu:** are shocked by the reported cordon and Azusa's confession. Koharu proposes explaining to Hasumi; Hanako cautions that such help could cost Hasumi her role, unproven as a rule. Hifumi suggests outside help and responds to the temporal collision. Neither rejects Azusa in a printed final verdict. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
+- **Sensei:** hears the confession, directly rejects Azusa's sole-blame claim and names distrust as an original cause. Subsequent trust counterfactuals are inward. Final effort line is inward, not a field order. `PARTIAL_MODEL`.
+- **Saori/Mika/Nagisa/Seia/Hasumi:** none speaks in the present scene. Azusa reports Saori's imminent Arius strike but guesses the details of Mika's recruitment; Hanako infers possible Mika scapegoating and Hasumi sanction. Seia speaks only in Hanako's retrospective portrayal. No new directly witnessed official action.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

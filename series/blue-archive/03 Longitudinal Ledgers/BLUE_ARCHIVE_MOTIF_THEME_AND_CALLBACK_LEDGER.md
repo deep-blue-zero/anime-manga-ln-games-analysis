@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -990,3 +990,11 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **The empty building:** Hanako sees the main building go unnaturally quiet while the final exam is relocated to the 19th annex. The spatial image creates concern but supplies no culprit, and her planned noticeboard watch is vigilance, not foreknowledge.
 - **`Vanitas` returns as command code:** Saori's phrase and Azusa's recitation convert C001 E011's individual nihilism/effort contrast into an Arius-linked operational cue. It is juxtaposed with six days of study, two Sensei affirmations of effort and Azusa's friend-bond history; neither phrase nor labor alone settles her future choice.
 - **Two mornings collide:** the announced final examination and Saori's accelerated order both fall tomorrow morning. The text creates an unresolved collision rather than showing a completed attack or missed exam.
+## V003 C002 E014 motif / callback delta — confession as refusal to vanish
+
+- **“Traitor” splits:** Azusa's self-identification validates hidden Arius admission and Nagisa assignment but also carries a claimed self-authored choice to protect the target. Nagisa's one-box E009 suspect logic is narratively stressed: deceit occurred, yet the decisive intended betrayal may be of Arius's command. No official guilt verdict follows.
+- **Trust versus isolation:** Sensei locates an original cause in mistrust, with inward missed-trust counterfactuals for Nagisa/Mika. Hanako first names Azusa's lies then values the costly choice to confess rather than disappear. The ethical answer is relational disclosure, not the abolition of security risk.
+- **School as prison or possibility:** Hanako's self-identifying retrospective links high achievement/elite recruitment to alienation and deliberate exam ruin. Azusa's unlikely full effort and desire for ordinary experiences make the same club a place worth resisting for. This revises the “bad student” or “suspect” labels without erasing actual deception.
+- **`Vanitas` qualified:** Azusa explicitly pairs emptiness with doing one's best today and continuing resistance. Hanako adopts that extension and moves from exit to action. E013's command recitation was therefore incomplete as a full value model.
+- **The exam and the assassination converge:** 9 a.m. is both the announced exam and Arius operation start; a reported document-protection perimeter may make the exam unreachable. Hanako's two-part rescue/pass answer refuses the forced choice, but remains only a proposal.
+- **Teasing and correction:** Hanako retells club chores/outing with scandalous exaggeration; friends correct the facts while the underlying enjoyment remains. This is a callback to C001 cleaning and C002 ordinary-life dialogue, not an unobserved naked event.

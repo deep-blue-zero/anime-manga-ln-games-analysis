@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1240,3 +1240,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - The initial `？？？` speaker is identified when Azusa says `サオリ`, followed by the `サオリ` tag. `明日の午前中` and `約束の場所` are specific timing/site instructions but the site's location is not printed. `ナギサのヘイローを破壊する` is Saori's lethal-target formulation; `セイアの時のように` is an analogy/claim rather than forensic proof of a prior act.
 - Saori's `vanitas vanitatum` call and Azusa's `全ては虚しいもの` response form a shared formula. Azusa recites its fatalistic proposition and says she never forgot; the source does not certify her inward agreement. Her `まだ準備ができてない` and `リスクが大きすぎる` register objection to acceleration before `準備しておく` compliance.
 - Hanako's two silent tags are not dialogue or an explicit eavesdropping statement. Both Sensei choices are singleton reassurance, not mutually coexisting branches. `u:0081` is the next-title card `こくはく` only.
+## V003 C002 E014 delta — confession, reported security and retrospective voices
+
+- Azusa's `トリニティの裏切り者` is self-identification in a confession, while `私自身の判断だ` directly states the anti-Arius counterdecision. `u:0055-0058` use italicized character names within the confession; the immediate spoken reactions and later explicit statements support disclosed mission content, but typography alone cannot establish a completed attack or inner-only narration. `自分のせい`/`全て` is self-blame, not a verified causal allocation of every exam obstruction.
+- Hanako's `シスターフッドの方々に少し会ってきた` grounds an off-page report, not a direct Tea Party order. `恐らく` (no entry), `でしょう` (Hasumi expulsion) and `ようですね` (Nagisa intent) mark inference; `ティーパーティーからの要請` does not name Nagisa as signatory.
+- Azusa explicitly says `詳細は知らないけれど` before guessing Mika was sold reconciliation. Hanako's subsequent Mika scapegoat scenario is `おそらく` and interrogative. Neither overrides Mika's own E001 account.
+- Hanako's “that person” memory voices at `u:0136-0144` include a named `浦和ハナコ` near-appointment claim and anonymous `？？？` self-negation; Seia's `寂しくはないかい` appears in the narrated retrospective, not current-room dialogue. Hanako's `試験をわざと台無しにして` supplies a personal-motive explanation, with external particulars unverified.
+- Azusa's `全ては虚しい` gains the qualifying maxim `今日最善を尽くさない理由にはならない` and `抵抗し続ける`. Hanako's eroticized pool/walk/naked callback is explicitly corrected by Azusa/Hifumi/Koharu; it is a teasing register, not literal clothing evidence.
+- Sensei choices 001-004 are singleton. `u:0101-0103` and `u:0200` are `心の声`; Hanako can respond to the audible `choice:003` without hearing the inward list. `半日で転覆` is joking grandiosity immediately narrowed to taking/passing the exam. `u:0201` is next-title only.

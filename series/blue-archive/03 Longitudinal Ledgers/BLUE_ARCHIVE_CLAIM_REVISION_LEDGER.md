@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:014; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:015 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E013 active provisional; E014 unopened
+current_sequential_boundary: MAIN_V003_C002_E014 active provisional; E015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1840,3 +1840,11 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia incident, Hanako's knowledge, Azusa's eventual action and final exam remain OPEN.
+## V003 C002 E014 claim delta — confession and a proposed two-part answer
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei rejects Azusa's total self-blame and identifies failure to trust in a spoken singleton; the more detailed Nagisa/Mika counterfactuals are inward. Hanako then takes planning initiative. Neither adult encouragement nor student agency has yet secured access, protection or a pass.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/STRENGTHEN:** Azusa now directly states Arius origin, forged Trinity standing, Nagisa-halo assignment, false reports to Arius and her own decision to protect Nagisa. This seriously qualifies E009's suspicion but remains participant testimony about covert history and future intent, not completed rescue. Hanako's autobiographical disclosure supplies her own escape-from-pressured-school motive for E003's deliberate low grades, not sabotage guilt. Her Sisterhood-derived report says Tea Party document protection will isolate the 19th annex and main building is under martial law; the order/deployment and hypothesized Hasumi expulsion are not directly audited. Exam and Arius operation are both stated to begin **9 a.m.**; Hanako proposes defending Nagisa **and** all four reaching 90, without an exposed tactic or result.
+- **BA-C008 — STRENGTHEN:** Azusa explicitly lacks Mika-recruitment details and guesses; Hanako's scapegoat inference, recollected elite solicitations and security conclusions are differentiated from direct confession. Sensei's inward trust list need not be audible; Seia's recollected line is not present-time contact. Hanako's clothing/nakedness callback is corrected by peers, not literalized.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; cordon, Hasumi knowledge, Mika position, operative plan, Nagisa safety and third exam remain OPEN.
