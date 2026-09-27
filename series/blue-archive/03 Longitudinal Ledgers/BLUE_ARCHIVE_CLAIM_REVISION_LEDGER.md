@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
-checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E020 active provisional; C003 E001 unopened pending C002 checkpoint
+source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
+current_sequential_boundary: MAIN_V003_C002 checkpoint canonical; C003 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1897,3 +1897,7 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 Hiyori, Misaki and Atsuko join as narrow `UNMODELED` subjects: **21 partial / 50 unmodeled across 71**. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; C002 synthesis is required before opening C003 E001.
+
+## V003 C002 canonical checkpoint reconciliation
+
+[The C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) is canonical authority for the twenty-unit synthesis. **BA-C021** is strong and **partially resolved**: actual remediation/all-four academic passing defeats the exam-failure expulsion route, while Nagisa's procedural design, second-exam paper loss, formal reinstatement, Seia/Nagisa care and treaty completion remain open. Mika's self-confession materially revises the insider case but does not complete forensic or legal proof. BA-C001/C016 are agency-preserving but ethically qualified by the defensive violence; BA-C008 strengthens through source/voice distinctions. No new durable claim ID, model, prediction or side-source backfill. C003 E001 unopened.

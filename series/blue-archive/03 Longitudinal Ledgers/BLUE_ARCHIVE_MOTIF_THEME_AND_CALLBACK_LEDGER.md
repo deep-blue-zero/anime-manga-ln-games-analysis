@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
+checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1042,3 +1042,7 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Clouds and rain:** Seia's threatening clouds and Saori's immediate dark-cloud/rain forecast bind framed dread to Arius preparation. The imagery does not establish a weather mechanism or make Saori's unnamed action the proven total cause of disaster.
 - **`Vanitas` versus `それでも`:** Saori addresses Azusa with inescapability/body-memory rhetoric; the narrator repeats the Latin refrain. E018 Azusa had answered futility with resistance, and E019 certified a concrete pass. E020 tests that stance prospectively but does not annul it.
 - **Continuity, not conclusion:** `To be Continued in Chapter 3` directs the forward firewall; no Chapter 3 event enters C002 synthesis.
+
+## V003 C002 canonical checkpoint reconciliation
+
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) holds the paired pattern: genuine student effort and certified pass inside coercive exam architecture; anti-fatalist `それでも` against Arius's `vanitas`, without a guaranteed safe ending. Seia's premature-credit frame preserves the chapter's unresolved political and medical future.

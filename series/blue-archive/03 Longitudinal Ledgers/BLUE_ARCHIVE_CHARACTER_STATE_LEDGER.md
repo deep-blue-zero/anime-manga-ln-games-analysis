@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
+checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1110,3 +1110,7 @@ All four narrator-marked third official passes confirm the local academic condit
 - **Azusa/club:** Seia's future readings and Saori's threat do not supersede their certified academic pass or demonstrate their later status; Azusa does not speak in E020.
 
 Readiness: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C003 E001 remains unopened pending C002 checkpoint.
+
+## V003 C002 canonical checkpoint reconciliation
+
+[The C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) governs the completed twenty-unit character synthesis. Four official passes are direct narrator facts; Mika's prison is Seia's report, and the school/treaty futures are not observed. Hiyori, Misaki and Atsuko stay narrowly `UNMODELED`, yielding **21 partial / 50 unmodeled across 71**. C003 E001 remains unopened.

@@ -1,18 +1,18 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_CHECKPOINT_PLUS_C002_E001_E020
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS
 generation: V1
-version: "1.85"
+version: "1.86"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 plus V003 C001 through checkpoints, then BA:main:003:002:020 provisionally pending C002 checkpoint; 124/310 main units; side-source classes unreviewed; BA:main:003:003:001 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints; 124/310 main units; side-source classes unreviewed; BA:main:003:003:001 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
-current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md"
+current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
 next_unopened_main_unit: BA:main:003:003:001
 ---
 
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:003:001
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C002_E020` provisional boundary pending C002 synthesis, inheriting the canonical `MAIN_V003_C001` checkpoint:
+This index answers four questions at the canonical `MAIN_V003_C002` checkpoint boundary:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -62,11 +62,11 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 All rows inherit:
 
 - analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017 and V003 C002 E001-E020;
-- current checkpoint: `MAIN_V003_C001`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
+- current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
 - main-story coverage: `124 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:003:001`, gated by C002 checkpoint.
+- next unopened main unit: `BA:main:003:003:001`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -1038,3 +1038,7 @@ Routing: [V003 C002 E019 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Seia, in an unlocated Sensei-addressed frame, credits the club's E019 pass to its members and forecasts Koharu's Justice return, Hanako's stay, Azusa's continued study and Hifumi's ordinary life with differing future/hedged language. These are not printed committee/school orders. She reports Mika now confined in a school prison, but no intake, hearing, sentence or durable separation is shown. She expects Nagisa to go sign Eden; the signature and E015 gunfire recovery are not witnessed. Her “good story” is immediately qualified by a premature-end-credit warning and a catastrophe/dark-cloud prognosis, not narrator-certified future fact. Saori orders an unnamed preparation among Hiyori, Misaki and silent Atsuko; Hiyori fears suffering, Misaki says suffering proves life and appears to mediate a “princess” sign question about an unnamed child. Silent tags and no sign transcription forbid precise attribution or referent. Saori claims absent Azusa cannot escape and will remember a truth; neither is tested. The Latin `vanitas` line is narrator-tagged, and the terminal card promises Chapter 3 without supplying its content. Hiyori, Misaki and Atsuko join as three narrow `UNMODELED` subjects: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** resolves the academic threshold but remains open on formal administration and Saori's next move. C003 E001 unopened pending the C002 checkpoint.
 
 Routing: [V003 C002 E020 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_E020_DEEP_READING.md) → `BA:main:003:002:020`, one scene, 33 numbered units and no Sensei choices. Coverage is **124 / 310**.
+
+## 95. V003 C002 canonical checkpoint reconciliation
+
+[The twenty-unit C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) now governs all provisional E001–E020 observations. It certifies the narrator's four-pass academic result and distinguishes it from Nagisa's still-unreviewed procedural authority, E011 paper-loss responsibility, Koharu's formal return, Nagisa's health, treaty signature and Azusa's future safety. Mika's direct self-confession is strong actor evidence for an anti-peace insider design, not a written-order audit or a completed coup. Seia's unlocated E020 voice does not demonstrate physical recovery; her prison statement is a report and treaty/catastrophe lines are forecast. No readiness promotion accompanies synthesis: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; all standalone models remain `NONE` and no held-out prediction exists (`NO_DIAGNOSTIC_OPPORTUNITY`). Side-source backfill remains **DEFER**. The next main source is `BA:main:003:003:001`, unopened.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
+checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -771,3 +771,7 @@ At 7:50 a.m. Azusa pushes the fatigued club toward the announced venue. They arr
 ## V003 C002 E020 institutional delta — reported prison, unsigned treaty
 
 Seia recognizes the four's certified academic pass and says Koharu should now return to Justice Realization; this is a forecast, not a direct committee notice or observed reinstatement. Her Hanako/Azusa/Hifumi future statements likewise do not document school records. Seia reports Mika `学園の監獄に幽閉された`, advancing E018's surrender to a specific reported confinement state, while leaving arrest route, governing process, sentence and duration unknown. She expects Nagisa to go sign Eden as scheduled; no direct Nagisa medical clearance, movement, signature, ratification or treaty implementation is shown. Saori orders an unnamed preparation among Arius associates; Hiyori, Misaki and silent Atsuko become represented, but no operation or target is stated in the exchange. Seia's catastrophe forecast and the Chapter 3 continuation card prevent describing the treaty crisis as institutionally settled. Side-source backfill remains deferred.
+
+## V003 C002 canonical checkpoint reconciliation
+
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) certifies the academic all-four outcome while leaving expulsion-rule legality, paper-loss responsibility, Justice reinstatement and treaty signature unverified. Mika's coup program is self-confessed but not completed; Sisterhood's intervention is direct, its custody process unshown; Seia's prison statement is a report. No side-source backfill or C003 content is admitted.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
+checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1289,3 +1289,7 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `全ては、破局へと収束していく` and approaching `暗雲` belong to Seia's ominous frame, not confirmed Chapter 3 history. `u:0016` is italic Seia-associated address; her unlocated voice does not demonstrate bodily awakening after E018.
 - Saori's `準備しろ` is a direct command; `お前は抜け出すことはできない` and `体は覚えている` are future coercive claims. `u:0032` is narrator-tagged Latin/Japanese `Vanitas vanitatum et omnia vanitas` despite Saori's `曰く` preface. The refrain is not securely a new Saori voice sample.
 - Hiyori calls someone `姫ちゃん` and reports sign language; Misaki paraphrases a question about `あの子`. Silent `ミサキ` tags at `u:0020/0023`, later silent `アツコ` at `u:0026` and absent sign transcription prohibit a precise signer/content identification. No stated referent for “that child.” E020 has no Sensei choice; `u:0033` is a Chapter 3 card.
+
+## V003 C002 canonical checkpoint reconciliation
+
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) keeps official/mocked exam language, `心の声`, conflicting person tags, actor confession, medical report and modal Seia forecasts in separate evidence classes. In particular E020's narrator-tagged `vanitas` is not a secure Saori utterance and its title card supplies no C003 content.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
+checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -861,3 +861,7 @@ Sensei joins the exhausted club at the venue and gives singleton prompts to ente
 ## V003 C002 E020 delta — student-owned success, adult witness
 
 Sensei has no choice, spoken action or direct reply in E020. Seia addresses “you” in an unlocated frame and says the students won their pass by their own strength; this supports an agency-preserving reading of E019 without proving adult instruction had no effect. She expects individual returns, prison and a signature, then warns of catastrophe, but Sensei neither endorses those prognoses nor makes a new plan. Saori's Azusa threat makes the protection obligation future-facing again, without a shown adult counteraction. Do not convert Seia's apparent access to future outcomes into a verified Sensei knowledge state. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 canonical checkpoint reconciliation
+
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) strengthens a bounded, agency-preserving adult role: Sensei rejects student surveillance, supports the group and receives local command credit, while students and independent Sisterhood perform decisive work. Nagisa gunfire and explosive defense remain ethically/medically unclosed. The four-pass does not establish sole adult teaching causality or erase future protection duties.

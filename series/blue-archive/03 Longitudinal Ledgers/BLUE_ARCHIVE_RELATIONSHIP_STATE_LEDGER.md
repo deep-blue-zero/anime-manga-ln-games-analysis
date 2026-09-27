@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020; MAIN_V003_C001 remains latest canonical checkpoint pending C002 synthesis; BA:main:003:003:001 unopened
+checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -891,3 +891,7 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **SEIA ↔ MIKA/NAGISA:** Seia reports Mika imprisoned and fears they may never meet; she expects Nagisa to sign. Neither party replies. Seia's earlier injury report is not resolved by this framed voice.
 - **SAORI ↔ AZUSA:** Saori addresses absent Azusa with an inescapability/body-memory claim. This contests Azusa's E014 declared defection and E018 resistance but shows no capture, submission or future contact.
 - **SAORI ↔ HIYORI/MISAKI/ATSUKO:** Saori commands preparation and quiets discussion; Hiyori voices anxiety, Misaki gives a suffering-as-life response and mediates a possible “princess” question. Atsuko appears silently, but exact sign content and whether Misaki-tagged silence should be reassigned remain uncertain. These are narrow group dynamics, not a complete hierarchy or private relationship model.
+
+## V003 C002 canonical checkpoint reconciliation
+
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) recognizes the four-student collective pass, Azusa–Hifumi gift and Hanako–Azusa reciprocal influence as actual relationship evidence. It does not assert permanent club identity, a repaired Mika–Seia/Nagisa bond, completed Hasumi–Koharu reinstatement or Azusa's safety from Saori. C003 E001 remains unopened.
