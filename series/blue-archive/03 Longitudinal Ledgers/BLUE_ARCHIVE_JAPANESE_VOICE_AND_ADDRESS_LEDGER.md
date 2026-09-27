@@ -5,12 +5,12 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE JAPANESE VOICE AND ADDRESS LEDGER
@@ -1219,3 +1219,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - The read notice says `試験範囲を、既存の範囲から約三倍` and `合格ラインを60点から90点`. `約` makes the range approximate; 90 is the announced line, not a score. Hifumi reads `ゲヘナ自治区第15エリア77番街、廃墟の1階` and Azusa reads `深夜の3時`. The notice issuer is not quoted. Hanako's italic `ナギサさんが何かしらの手段で把握` is her inference, not narrator certification.
 - Sensei's choice `003` is parenthetical inward consideration, whereas choice `004` says `一から説明をする` and Koharu/Azusa react to the expulsion condition. The explanatory speech is not printed. Azusa's `最後まで足掻く` is urgent perseverance, not assent to fairness. Hanako's `無法地帯` is a characterization, not a comprehensive Gehenna fact.
 - Scene 2 alternates generic `チンピラ` and Korean `깡패` tags. Do not make named subject rows or exact speaker IDs from script variation. Kidnap/ransom is a proposal, not a completed act. Scene 3 thug cry and Koharu's polite `通らせてもらいますね` support passage, not exact weapons or injuries. Five Sensei choices are singleton; `scene:003:u:0006` is a title card.
+
+## V003 C002 E011 delta — recorded authority and paper-loss result
+
+- Prefect A/B address the Trinity uniforms as a suspected attack, but Azusa says `まだ手は出してない` and Hanako says the shot came from far behind. A generic officer cry cannot become an Azusa shooting line. The later `ツインテールの風紀委員` is not named.
+- Akari's `快く貸して` and `美しい友情` claim Fuuka voluntarily loaned the car; Fuuka's gagged protests and Hanako's bound-in-trunk observation refute assent. Fuuka's later `もう車は良いから降ろして` is intelligible direct refusal, which Haruna misrenders as `応援`. Do not promote ironic coercion glosses into relational facts.
+- Nagisa's `録画映像` explicitly denies live hearing at `u:0106`. The `u:0107` Hanako tag sounds like continuation of the recorded instruction, so its precise voice is quarantined. `引き続きモニタリング` is Nagisa's assertion, not a printed surveillance feed. `お気を付けて（・   ・   ・   ・   ・   ・   ・   ・   ・）` carries menace/spacing without naming a blast source.
+- Narrator `試験用紙紛失（不合格）` at `u:0123-0126`, then `全員不合格` at `u:0132`, is official-result language about lost papers, not numerical marks. `u:0133` is next-title only. Nine Sensei choices are singleton; choice `006` is parenthetical inward restraint rather than a spoken query.

@@ -5,12 +5,12 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE RELATIONSHIP STATE LEDGER
@@ -824,3 +824,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **SENSEI/HIFUMI/HANAKO ↔ KOHARU/AZUSA:** Hanako's expulsion reference elicits first-heard shock; Sensei explains from the beginning and Hifumi apologizes for concealment. The hidden sanction is now at least partly shared, while exact unprinted explanation and separate Nagisa/Mika intelligence remain partitioned.
 - **AZUSA ↔ GROUP:** Azusa takes a lead in timekeeping, departure and route breakthrough. Others follow while frightened or joking. This is situated emergency coordination, not a permanent command hierarchy.
 - **CLUB ↔ GEHENNA STRANGERS:** generic thugs target the Trinity uniforms for prospective ransom. The party passes after a confrontation, with no durable tie, known casualty or new character identity.
+
+## V003 C002 E011 relationship delta — uneasy aid and renewed captivity
+
+- **SENSEI/REMEDIAL CLUB ↔ GOURMET RESEARCH:** Haruna/Akari choose to guide the group through Gehenna, presenting it as thanks for an earlier encounter, while Junko/Izumi coordinate remotely under pursuit. Sensei thanks them and Hifumi is confused. The temporary help does not erase earlier aquarium conflict, establish a durable alliance or certify everyone's safety after the vehicle enters the river.
+- **FUUKA ↔ GOURMET RESEARCH:** Fuuka is bound/gagged in the car trunk and later explicitly asks to get out. Akari's loan/friendship and Haruna's cheering glosses are false against her protest. No consent repair or release is shown.
+- **REMEDIAL GROUP ↔ EACH OTHER/SENSEI:** chaotic diversion separates Azusa/Hanako from Hifumi/Koharu and Sensei for a time. All reunite at the advertised venue by 2:45, with Sensei expressing relief; later all share the lost-paper failure. Exact routes and enduring post-failure support remain open.
+- **NAGISA ↔ GROUP:** a recorded message delivers instructions and an asserted monitoring claim but is not interactive. No one receives a direct answer from her, and her relationship to the unknown Hot Spring tip is not established.

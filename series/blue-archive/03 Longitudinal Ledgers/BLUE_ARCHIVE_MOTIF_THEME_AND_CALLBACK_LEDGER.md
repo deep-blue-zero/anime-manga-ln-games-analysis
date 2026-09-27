@@ -5,12 +5,12 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE MOTIF / THEME / CALLBACK LEDGER
@@ -969,3 +969,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **The goalposts move:** E008's four-person third-mock pass under a 60 line meets a notice raising the official line to 90 and range roughly threefold. This materializes Nagisa's earlier threatened procedural pressure without proving who authored the notice or whether it will be enforced as written.
 - **Foreknowledge and secrecy:** Hanako's known expulsion danger escapes the smaller E003 circle when Koharu/Azusa hear it. Sensei chooses explanation, but the actual content is unprinted; a shared threat does not mean shared access to Nagisa/Mika/Hina secrets.
 - **A test made spatially hostile:** the academic venue is advertised in Gehenna at 3 a.m.; the group's route meets an explicit ransom threat. Azusa's `最後まで足掻く` turns E009's abstract promise to “make them pass” into student action, without demonstrating that combat was required by a legitimate exam.
+
+## V003 C002 E011 motif / callback delta — the exam that measures no answers
+
+- **Academic effort versus procedural survival:** E008's four-pass club mock and E010's enlarged official notice culminate in a second official sitting where all four fail by lost papers. The result is institutionally decisive but measures no printed answer quality; effort and scoring have been decoupled.
+- **The hostile road becomes the classroom:** Gehenna checkpoint, Gourmet escape aid, two-hour pursuit and 2:45 arrival fulfill the E010 spatial-threat setup. Yet arriving before the 3 a.m. start does not protect the test site itself. A ruin with no visible invigilator and shell-borne papers turns school procedure into a war-zone object.
+- **False consent recurs:** E005 gagged Fuuka and E007 relief are followed by E011 bound-in-trunk protest. Akari's loan/friendship and Haruna's cheering claims reprise the same coercive joke; gratitude for Gourmet guidance cannot erase it.
+- **Recorded voice and unknown hand:** Nagisa's recording cannot respond; anonymous Hot Spring workers cite an unknown tip. The E009 “black hand” title does not authorize filling that missing link with Nagisa, even though she benefits from/participates in the surrounding exam design.

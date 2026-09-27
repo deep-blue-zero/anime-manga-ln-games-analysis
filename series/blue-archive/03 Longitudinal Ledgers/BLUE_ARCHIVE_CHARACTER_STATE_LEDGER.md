@@ -5,12 +5,12 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE CHARACTER STATE LEDGER
@@ -1011,3 +1011,14 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across
 - **Sensei:** acknowledges effort, inwardly considers sharing the sanction and actually explains from the beginning in choice `004`, then agrees to depart. The exact words and any appeal/protection method are unshown. Existing narrow `PARTIAL_MODEL`.
 
 No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; generic thugs excluded. No standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E011 character-state delta — arrived on time, failed by lost papers
+
+- **Hifumi/Koharu/Hanako/Azusa:** the party navigates a hostile Gehenna route and reunites at the posted venue by Azusa's 2:45 reading. Narrator later marks all four **official** second-exam failures because papers are lost, not because their answers scored below 90. Hifumi is alarmed and checks Sensei's safety; Koharu cries over papers; Azusa reports they were blown away; Hanako treats the escalation as a challenge. No academic ability downgrade, immediate expulsion or legal remedy is shown.
+- **Azusa:** proposes force at a Prefect checkpoint but explicitly denies making the first officer impact; later reports her/ Hanako's diversion failed and identifies a strong unnamed twin-tailed officer, not an audited identity. She recognizes the modified projectile and urgency; technical appraisal is hers. Remains `UNMODELED`.
+- **Haruna/Akari/Junko/Izumi:** Haruna/Akari reappear after reported detention escape and guide Sensei's party, while Junko/Izumi communicate under pursuit. This is situational aid, not settled escape outcome, pardon or unconditional alliance.
+- **Fuuka:** again bound and gagged in the School Lunch vehicle's trunk, then directly asks Haruna to let her off. Akari's “loan/friendship” and Haruna's “cheering” glosses contradict her represented protest. Freedom/safety unresolved; `UNMODELED`.
+- **Nagisa:** recorded message accompanies intact exam papers in a modified shell and says monitoring continues. The recording cannot hear the group in real time; whether she authored E010 notice or tipped Hot Spring workers remains unknown. `UNMODELED`.
+- **Sensei:** reunites with Hifumi/Koharu, acknowledges safety and supports beginning the exam. No successful E009 pass promise or evidence of a live conversation with the recording.
+
+No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; Prefect/Hot Spring generic members excluded. No standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

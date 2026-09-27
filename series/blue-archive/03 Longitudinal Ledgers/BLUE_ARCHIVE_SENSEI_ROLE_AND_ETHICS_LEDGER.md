@@ -5,12 +5,12 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
@@ -828,3 +828,7 @@ Sensei's inward `誰かを疑うことに時間を費やすつもりは無い` a
 ## V003 C002 E010 delta — ending secrecy, following students' lead
 
 Sensei praises the four students' effort before Hifumi discovers last-minute exam changes. A parenthetical choice reflects that the expulsion risk should now be shared; the subsequent `一から説明をする` leads to Koharu's shocked three-failure restatement, Azusa's understanding and Hifumi's apology. This is a material correction to the E003 knowledge asymmetry, although the teacher's exact explanation is unprinted and may not cover every joint-pass, treaty or Schale bypass detail. Sensei assents to Azusa's immediate departure plan rather than imposing a new plan; scene 2 confirms the party enters Gehenna. The team encounters ransom-threatening thugs and moves past them, but the transcript does not give Sensei a distinct tactical command, force choice or protective remedy there. No appeal against the notice, completed exam or achieved E009 choice promise appears. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E011 delta — on-time presence cannot save the papers
+
+Sensei reaches the Gehenna checkpoint with the group; no direct command causes the officer's first impact, which Azusa denies delivering. Sensei accepts Haruna/Akari's temporary guidance while Fuuka remains bound, a care/consent tension the source does not show the teacher resolving. During the extended pursuit the party splits; Sensei later reunites with Hifumi/Koharu at the posted venue and expresses relief they are safe, while Azusa/Hanako arrive by 2:45. The found Nagisa message is explicitly recorded and cannot hear Sensei's address. Sensei supports starting, but the official second exam ends with all four papers lost and `不合格`. The E009 branch promising to make them pass is thus unfulfilled at this sitting; the text gives no adult appeal, proof of deliberate sabotage, final disciplinary decision or third-attempt plan. A safety check to Hifumi is answered inwardly, not necessarily audibly. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

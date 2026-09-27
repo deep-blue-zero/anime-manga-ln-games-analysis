@@ -4,14 +4,14 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E010 active provisional; E011 unopened
+current_sequential_boundary: MAIN_V003_C002_E011 active provisional; E012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -1814,3 +1814,12 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official examination terms/outcome and notice authority remain OPEN.
+
+## V003 C002 E011 claim delta — official failure by paper loss
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei reaches the posted venue and reconnects with the students, but E009's choice-conditioned pass promise has not materialized: the narrator marks all four officially failed for lost papers. No formal appeal, protective exception or live negotiation with Nagisa appears.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE locally:** the second **official** examination is now a definite all-four failure, but `試験用紙紛失` is a procedural loss, not a four-person 90-point inability finding. The group arrived by 2:45 and found intact papers. Generic Hot Spring workers cite an unknown tip to blast the address; the papers vanish. Nagisa's recording/delivery and monitoring claim do not identify that tip source or prove she organized demolition. E010 notice issuer/authority likewise remain unaudited. At most, this is a second failed opportunity under the previously stated three-sitting rule, not an observed immediate expulsion.
+- **BA-C008 — STRENGTHEN:** Azusa denies firing the checkpoint's first impact; Gourmet help coexists with Fuuka's bound/gagged renewed protest. A two-hour pursuit montage, unverified L118 provenance inference, noninteractive recording, unknown-source hot-spring tip, and narrator-marked outcome have separate evidentiary weights.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; tip attribution, document authority, paper recovery/appeal, third exam and sanction remain OPEN.

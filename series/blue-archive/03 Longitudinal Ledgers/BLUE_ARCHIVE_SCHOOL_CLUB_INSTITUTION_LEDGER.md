@@ -5,12 +5,12 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
@@ -738,3 +738,7 @@ Nagisa explains her own student-selection logic: Koharu was placed to constrain 
 ## V003 C002 E010 institutional delta — published terms and threatened access
 
 The Trinity noticeboard displays a notice, read aloud by Hanako/Hifumi, that expands the second special exam's range to about three times, raises the announced pass threshold 60→90, and moves the sitting to a first-floor Gehenna ruin in Area 15/Street 77 at 3 a.m. Hifumi says it was posted only yesterday. The quoted notice carries institutional appearance but no named author, statutory authority, fairness review or actual administered paper. Hanako's deduction that Nagisa learned the third-mock scores and arranged expulsion is plausible given E009 and C001 E009, not proven from this notice. Koharu/Azusa now hear of three-failure expulsion after Sensei's summarized explanation; no full transcript establishes which collective-rule or bypass provisions were conveyed. The group travels into Gehenna, where generic thugs threaten kidnapping for ransom and are overcome sufficiently for forward movement. This is a concrete access burden but not proof of arrival, official test implementation, institutional security policy or final sanction.
+
+## V003 C002 E011 institutional delta — official paper-loss failure
+
+The club reaches the E010 posted Gehenna address by Azusa's 2:45 a.m. reading despite a Prefect checkpoint and two-hour pursuit. The checkpoint officers report a supposed Justice Realization attack after recognizing Koharu, but Azusa denies causing the first impact and the rearward shooter remains unidentified. Gourmet Research reports escaping Prefect detention amid a separate Hot Spring Development Club urban incident and gives the group a dangerous ride, while coercively holding Fuuka. At the venue a modified L118 projectile contains intact exam papers and a Nagisa **recording**, not a live invigilator; her monitoring statement is unverified by a displayed system. Generic Hot Spring members cite an **unknown** tip to possible hot-spring ground at the same address and order blasting. The narrator then marks all four second-special-exam results `試験用紙紛失（不合格）` and `全員不合格`. This is an official failed-sitting record without numerical scores or demonstrated lack of knowledge. It does not document immediate expulsion after two failures, any appeal, third sitting or signed inquiry into who tipped the developers. E010 notice author and exam procedure legality remain unaudited.
