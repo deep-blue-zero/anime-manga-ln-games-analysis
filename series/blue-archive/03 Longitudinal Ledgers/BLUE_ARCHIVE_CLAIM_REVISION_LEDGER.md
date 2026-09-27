@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E010 active provisional; E011 unopened
+current_sequential_boundary: MAIN_V003_C003_E011 active provisional; E012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1991,3 +1991,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E011 unopened.
+
+## V003 C003 E011 claim delta — emergency coordination without central certainty
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** students and medical responders exercise distributed care while Sensei is wounded: Hifumi searches Azusa, Koharu answers Justice summons, Hanako coordinates, Sena transports, Rescue Knights/Suzumi defend patient access. This does not erase Sensei's importance or prove all efforts succeed.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Marie reports Sakurako's contingency delegation and officers accept Hanako's command plan, advancing E001 help into real emergency role without inspected order/completed ceasefire. Koharu's Justice work cue does not formally supersede E004 remedial status. Faction martial-law demands and both-school conflict are reported, not lawful declarations.
+- **BA-C008 — STRENGTHEN:** Shinon's uncertainty/emergency-declaration question, Sisterhood reports and Hina blame, Marie's guarantee, `u:0018` Hanako tag inversion, Justice orders, Mine reputation, flashbang effects and Sena's later patient reveal have distinct warrant.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Mai, Hanae, Serina, Suzumi and Reisa enter narrow `UNMODELED`: **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E012 unopened.

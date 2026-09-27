@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1126,3 +1126,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Sweet lie versus durable gift:** Saori names Azusa's Trinity belonging a `甘い嘘` just as she notices the first-friend plush; her exclusivity rhetoric does not erase official status or prior care.
 - **Misinformation as second explosion:** Trinity and Gehenna reserves blame each other for the Arius strike, risking the conflict the treaty was meant to forestall.
 - **Personal revenge widens war:** Saori's plan to erase even trees where Azusa lived turns abstract inherited grievance into direct punishment of a defector's home.
+
+## V003 C003 E011 motif / callback delta — small offices under broken center
+
+- **Distributed roles after leader absence:** Hifumi searches, Hanako organizes, Koharu reports to Justice, and medical responders protect transport; care persists despite a wounded Sensei and missing school leaders.
+- **Confiscation room returns:** Koharu's old room becomes her current work cue amid emergency, neither triumphant formal reinstatement nor simple exclusion.
+- **The reporter steps back:** Shinon admits she cannot see the fighting or count harm and follows Mai to safety, replacing E005's confident broadcast frame with bounded observation.
+- **Rumor as armed border:** gate students prioritize Gehenna labeling over the ambulance's medical claim until Rescue Knights/Suzumi force a pause; the victim is revealed to be Sensei after de-escalation.
+- **Mine's absent reputation:** “breaks, Knights heal” comedy backfires as a rhetorical appeal; it describes social memory, not actual Mine action in this unit.
+- **Sisterhood inheritance as contingency:** E006's historical guardian lineage contrasts with Marie's practical, witness-backed but unfiled succession request to Hanako.

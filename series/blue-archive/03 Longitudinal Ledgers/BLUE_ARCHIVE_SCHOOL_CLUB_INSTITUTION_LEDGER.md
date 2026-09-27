@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -815,3 +815,7 @@ Saori directly says Arius signed Eden **in Trinity's place** at the old cathedra
 ## V003 C003 E010 institutional delta — alleged treaty insertion and reserve escalation
 
 Seia, in a dream frame, argues venue/representative qualification made a distorted First Council re-enactment and claims a special mimesis of covenant guardians; she says she learned via Sensei's dream and did not foresee all details. Saori says Arius stole Eden by missile strike and bent treaty text, while Misaki orally quotes an apparent ETO intervention clause plus added designation of Arius Squad. Their Arius-faction qualification and old-enforcer right remain partisan constitutional claims, not inspected charter/signature. Hiyori calls the precept genuine; no technical audit. Saori claims mimesis force secured, plans underground Trinity rear attack and awaits Maestro's promised tactical weapon, not yet acquired. Trinity reserves blame Gehenna for Arius missile/backstab; injured Ako blames Trinity for Hina and directs rescue/search. These reciprocal attributions are not evidence either school caused the blast, but they show dangerous mobilization. No completed district penetration, delivered weapon, verified legal ETO or treaty document.
+
+## V003 C003 E011 institutional delta — emergency delegation and ambulance passage
+
+Marie says an extremist faction independently issued an emergency summons, then guarantees Sakurako previously asked Hanako to act as Sisterhood commander if absent. Officers accept and Hanako directs command reconstruction, ceasefire, wounded search and witness gathering; written delegation, completion and reach over Tea Party remain unverified. A Pater faction martial-law demand is reported, not enacted. Shinon reports emergency meetings and hears combat without seeing it, explicitly lacking casualty data; emergency declarations are her question. Justice receives conflicting calls with Tsurugi/Hasumi absent; Koharu is summoned/identifies confiscated-items post, a work cue not formal reinstatement from remedial club. At Trinity fifth gate, students threaten Sena's Gehenna ambulance despite patient claim. Hanae/Serina oppose it, Suzumi deploys a flashbang, students withdraw, and Sena identifies shot Sensei as patient. No full force audit, hospital arrival or final prognosis. Mine reputation/Rescue Knights prior ties are reports, not direct Mine action. Mai, Hanae, Serina, Suzumi and Reisa newly enter narrow index coverage.

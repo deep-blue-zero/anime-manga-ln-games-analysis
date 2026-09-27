@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,18 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E011 character-state delta — decentralized care and command
+
+- **Mai:** Chronos colleague asks Shinon to retreat to safety; one narrow work sample. New `UNMODELED`.
+- **Hanae/Serina:** Rescue Knights confront students threatening Sena's ambulance because a patient remains protected regardless of school. Their Mine comments are reputation/colleague testimony, not this scene's Mine action. Both new `UNMODELED`.
+- **Suzumi/Reisa:** Suzumi uses a flashbang to disrupt would-be ambulance attackers and advocates school-blind medical aid; full force effects/authority unknown. Reisa calls in briefly as self-styled vigilante ace, no joint deployment shown. Both new `UNMODELED`.
+- **Hanako/Marie:** Marie guarantees a Sakurako contingency request for Hanako; officers accept, and Hanako begins building command/ceasefire/triage/information steps. Hanako's effectiveness and written authority remain unproved. Both `UNMODELED`.
+- **Hifumi/Koharu/Azusa:** Hifumi chooses to seek Azusa and sends peers to duties; Azusa not found. Koharu is summoned by Justice and identifies confiscated-items post, not an official reinstatement. Hifumi `PARTIAL_MODEL`; Koharu/Azusa `UNMODELED`.
+- **Sena/Sensei:** Sena's ambulance reaches the fifth gate and she reveals Sensei shot; no hospital or recovery yet. Sena `UNMODELED`, Sensei `PARTIAL_MODEL`.
+- **Mika:** one unlocated address to Nagisa/Seia's story; no status of either established. `UNMODELED`.
+
+Five new subjects yield **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E010 character-state delta — explanation, pressure and blame
 

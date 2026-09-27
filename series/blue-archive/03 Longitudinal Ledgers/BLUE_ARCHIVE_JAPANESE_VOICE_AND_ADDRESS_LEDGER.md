@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1372,3 +1372,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0030` Misaki tag has Hiyori-like hesitant voice; `u:0065` Atsuko tag addresses “Atsuko,” a clear inversion. Atsuko's `u:0064` gesture remains undecoded. Saori `先生も既に片付けた` is belief/boast, not E009 medical outcome.
 - Saori `甘い嘘` and `居場所` are coercive relational claims. Her `ヘイローを破壊してみろ`/`限り` assert a lethal necessity theory, not tested law. `ぬいぐるみ？` and `また逃げる気か` suggest flight, not a completed escape or specified trick.
 - Trinity reserve claims Gehenna missile/backstab, while Ako claims Trinity harmed Hina; neither is direct observation of perpetrator. Misaki `戦術兵器` is a still-promised future delivery. No Sensei choices; `u:0118` is E011 title only.
+
+## V003 C003 E011 delta — command report versus order and patient identity
+
+- Marie `一部の過激派が独断` reports a faction's unauthorized emergency summons; `きっとハナコさんしか` is her confidence, not a formal appointment. Her later `私が保証します` gives direct witness support to Sakurako's contingency request, still without written delegation.
+- Shinon `交戦が繰り広げられているのか` and `宣言を準備しようとしているのでしょうか` mark uncertain inference/question, not a witnessed school battle or emergency declaration. Mai's retreat request is direct work speech.
+- Scene 2 `u:0018` Hanako tag says “Urawa Hanako-san?” and is a label inversion; do not assign the surprised officer's voice to Hanako. Hanako's `u:0037-0038` parenthesized apologies/prayers are inward, not orders.
+- Justice member `メンバー…だよね` recognizes Koharu provisionally; her `押収品の管理室？` is self-identified assigned post, not registrar notice. Mika `ナギちゃん` remains unlocated.
+- Gate students assume Gehenna patient; Sena says only `負傷者` before later `シャーレの[USERNAME]先生` reveal. Mine “breaks/fixes” is student reputation and Hanae `よく言ってます` is a colleague report, not direct Mine voice.
+- Suzumi's flashbang warning `？？？` then direct apology identifies intervention by context; effects and authorization not certified. Reisa's italic boast is one narrow sample. No Sensei choice groups; scene 4 `u:0049` is E012 title only.

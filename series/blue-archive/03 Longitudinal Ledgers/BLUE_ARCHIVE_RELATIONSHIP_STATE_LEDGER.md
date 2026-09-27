@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -973,3 +973,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SEIA ↔ SENSEI:** in dream framing Seia explains promise mechanics while admitting observation through Sensei's dream, not prior omniscience; no physical meeting.
 - **ATSUKO ↔ SAORI/AZUSA:** Atsuko gestures a possible intervention, Saori tells “Princess” not now; tag inversion and no sign transcription keep the proposal uncertain.
 - **TRINITY RESERVES ↔ GEHENNA RESERVES/AKO:** each blames the other for Arius violence; Ako simultaneously orders casualty rescue and urgent Hina search despite her wound. No school-to-school perpetrator finding.
+
+## V003 C003 E011 relationship delta — separation for local duties
+
+- **HIFUMI ↔ AZUSA/HANAKO/KOHARU:** Hifumi chooses to search Azusa and urges friends to answer separate emergency duties; she promises contact if found, but no sighting/return occurs.
+- **MARIE/SAKURAKO ↔ HANAKO:** Marie says Sakurako privately designated Hanako as acting Sisterhood commander if absent and guarantees it to officers. Hanako accepts coordination; written mandate and Sakurako's fate unverified.
+- **KOHARU ↔ JUSTICE:** a member calls her back and she identifies confiscated-items room as post; current participation is observed, formal club-status change not.
+- **SENA ↔ RESCUE KNIGHTS/SUZUMI:** Sena's Gehenna ambulance is defended by Trinity healers and vigilante; care crosses school border before they learn Sensei's identity. No ongoing intergroup arrangement or hospital handoff.
+- **SUZUMI ↔ REISA:** Reisa briefly calls for a shared vigilante moment; Suzumi departs on patrol, so no joint action shown.
+- **MIKA ↔ NAGISA/SEIA:** Mika's unlocated speech to Nagisa invokes Seia's story frame; it supplies neither contact nor medical knowledge.

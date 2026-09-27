@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–010; BA:main:003:003:011 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–011; BA:main:003:003:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -905,3 +905,7 @@ Sensei is confronted by Saori's Squad, asks about identity/claimed ETO takeover 
 ## V003 C003 E010 delta — absent body, contested adult example
 
 Sensei has no waking direct act or choice in E010. Dream-framed Seia uses Sensei's Abydos experience as a contract-boundary analogy, then says she observed present mechanics through Sensei's dream rather than advance omniscience. Saori calls Sensei a manipulative adult who fed Azusa sweet lies and says they have been disposed of; those are adversarial beliefs, not a verified betrayal or death. E009's last grounded body state is Sena's first aid for serious non-vital gunshot. Adult care is contested rhetorically, not adjudicated by Saori's speech. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E011 delta — patient as shared obligation
+
+Sensei has no direct voice or choice, remaining a gunshot patient in Sena's ambulance. Trinity gate students initially threaten the vehicle as Gehenna's; Hanae/Serina/Suzumi defend medical passage before learning the patient is Sensei. Sena's later identity disclosure triggers shock and confirms E009's transport continues, but no hospital arrival or recovery is shown. Hifumi/Hanako/Koharu also split to pursue local obligations without Sensei directing them. The case supports cross-school care as an independently articulated norm and adult vulnerability, not sole adult agency. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
