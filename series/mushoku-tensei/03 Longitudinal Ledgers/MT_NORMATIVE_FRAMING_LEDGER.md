@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -512,3 +512,42 @@ Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-NC-078` | Successful escape/training versus collateral cost and independent purpose. |019–022/035–036; result alone not normative vindication. |
 
 Health and compulsion material is literary evidence, non-graphic and attributed. Analyst value judgments are separated from narrator/speaker beliefs; no universal diagnosis or redemption verdict follows.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / affected-person access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-212` | Diary grief accompanies abandonment, predation, betrayal and revenge. |002–007; reported branch, non-graphic; loss explains context not every choice. |
+| `MT-N-213` | Living wives give comfort and state touch/repair limits. |004; concealed cause prevents fully informed reassurance, no blanket permission. |
+| `MT-N-214` | Wives reject comfort-only role and reserve independent rescue judgment. |008; specific negotiated arrangement, not permanent subordination. |
+| `MT-N-215` | Eris marriage discussed through jealousy, conditions and actual meeting requirement. |009/013; predicted assent not present agreement. |
+| `MT-N-216` | Hitogami threatens family while offering unenforceable noninterference. |010/015; useful advice does not validate bargain or coercion. |
+| `MT-N-217` | R understands Nana's debt yet presses her into opposed plan. |012; sympathy and regret coexist with instrumental success; gratitude not consent. |
+| `MT-N-218` | Hostage idea abandoned under ethical self-comparison and practical risk. |012; mixed reasons do not erase decision, decision not universal ethical transformation. |
+| `MT-N-219` | Collaborators contribute specialized labor, while refusals/limits remain. |014–015; paid/helpful work not informed assent to all undisclosed stakes. |
+| `MT-N-220` | El refuses combat and corrects paternity suspicion; Roxy asks to receive affection. |015–016; bodily knowledge/preferences retained, pregnancy not sole source of belonging. |
+| `MT-N-221` | R tries selective confidence; Roxy requires Syl inclusion, R corrects course. |018; prompted change meaningful, wives' concern not full plan endorsement. |
+| `MT-N-222` | Women undertake separate rescue risks and contest unilateral sacrifice. |020–022; guilt not proof of responsibility for defeat; no single heroine owns all care. |
+| `MT-N-223` | Orsted threatens family then offers healing/protection/employment. |023; choice under duress, no absolute guarantee or retroactive free contract. |
+| `MT-N-224` | R gropes without invitation; later proposal reached through speech. |025–026; comic blow and later marriage do not rewrite permission. |
+| `MT-N-225` | Norn keeps marriage objection while requiring kind treatment of Eris. |027; person accepted without compelled doctrinal conversion. |
+| `MT-N-226` | Intimacy includes R assent and ignored pace preference under comic reversal. |028; preserve both, non-graphic; gender reversal not automatic ethical verdict. |
+| `MT-N-227` | R hides new visit, later negotiates family time/pay and accepts companion. |029/031; protective secrecy recurs, specified terms improve but do not erase coerced origin. |
+| `MT-N-228` | Eris apologizes for valued object; Syl restrains real anger. |033; domestic learning and accommodation not costless harmony. |
+| `MT-N-229` | Roxy misreads competence; work trial fails through another misreading. |034; no universal teacher infallibility or malicious exclusion inferred. |
+| `MT-N-230` | Eris intimidates Richard to defend Norn; wives independently ready to help. |035; narrator labels threat bluff, force remains; others not helpless. |
+| `MT-N-231` | Eris finds meaning in Zenith smile/felt response. |036; no independently established consent, speech or cure on Zenith's behalf. |
+
+| Contrast | V15 longitudinal test | Result / remaining limit |
+| --- | --- | --- |
+| `MT-NC-079` | Understanding another's reasons versus allowing those reasons to alter one's plan. |011–012/018; Nana pressure contrasts with Roxy's successful disclosure correction. |
+| `MT-NC-080` | Protection through exclusion versus affected people's chosen risk and competence. |008/018/020–022/029; fear explains but does not settle decision rights. |
+| `MT-NC-081` | Coerced service versus specified family/time/pay safeguards. |010/023/031; improvement is prospective and does not cleanse origin. |
+| `MT-NC-082` | Consent to relationship versus consent to particular contact/pacing. |004/009/025–028; preserve actual assent and actual limits together. |
+| `MT-NC-083` | Useful role versus unconditional belonging and changeable competence. |016–017/033–035; complementarity can support care without fixing identities. |
+| `MT-NC-084` | Apparent narrative reward versus still-open obligations. |024–038; survival/marriage meaningful, no universal redemption or harm cancellation. |
+
+The cumulative review retains strong hopeful and critical readings without averaging their factual differences. Depiction, character judgment, framing, analyst judgment and unsupported author/reception attribution remain separate.

@@ -1,21 +1,23 @@
 ---
-title: "Norn — Japanese LN evidence routes through V13"
+title: "Norn — Japanese LN evidence routes through V15"
 artifact_id: MT_NORN_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-27"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.2, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.3, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Norn evidence routes
+
+Current revision1.3 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.2 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -61,5 +63,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | ST08–09 (008/014/020/032) supplies actual effort, authorship, boundaries and preexisting council competence. Her independence is not created when brother notices it. |
 | 005 | No renewed urgent rescue appeal; father memory and birthday (022) not a new causal-responsibility test. |
 | 006 | No fresh religious-adviser dilemma; Cliff opinion about her dependence (006) cannot substitute for her own speech. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.3
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST10–ST11 and checks V15–V17. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 11 states and 17 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST10 (018) asks whether dangerous departure avoidable, different from original feared-relative safety. Wants brother alive without proving ignorance or total abandonment fear. |
+| 002 | ST11 Richard pressure (035) is a coercive encounter with a schoolmate at home, not the same comparison/withdrawal condition; resistance is observed but not global fear cure. |
+| 003 | ST10–11 (027/035) accepts Eris as person while dissenting from plural marriage, appreciates defense; no equivalent private family-reconsideration test or omniscient empathy. |
+| 004 | ST10–11 (016/025/027/035) specific instruction, intimacy objection and resistance retain ordinary agency. Admiration for protector not inferred romantic desire. |
+| 005 | ST10 (018) suggests avoiding fight rather than demanding dangerous rescue; different role, near analogy only. No causal responsibility for R decision or actual defeat. |
+| 006 | ST10 (027) maintains doctrinal objection while demanding good treatment, differentiating persons from rule. No faith abandonment or newly tested adviser dilemma. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

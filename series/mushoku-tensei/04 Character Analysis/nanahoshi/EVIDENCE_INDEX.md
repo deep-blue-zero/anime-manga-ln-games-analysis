@@ -1,22 +1,24 @@
 ---
-title: "Nanahoshi — bounded Japanese LN reconstruction through V14"
+title: "Nanahoshi — bounded Japanese LN reconstruction through V15"
 artifact_id: MT_NANAHOSHI_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.4, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.5, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Nanahoshi evidence routes
+
+Current revision1.5 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.4 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -80,5 +82,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | ST11–12 (013/023) discloses bodily precautions and personal home ties under distress; selective openness does not waive research/privacy boundaries universally. |
 | 005 | ST11 account (013) clarifies why shared origin does not mean shared reason to remain; not renewed culpability accusation or apology. |
 | 006 | ST11 fear/tears under illness (013) are not the earlier perceived terminal experiment-failure trigger. Tea permits continued activity but does not prove psychological or permanent physical cure; future failure only elder report. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.5
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST13–ST14 and checks V20–V22. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 14 states and 22 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST13–14 (011–012/017) continues analytical work/home-oriented knowledge; future-purpose theory expressly provisional. Present treatment/return goal not cured or abandoned by helping R. |
+| 002 | ST13–14 (011–012/014/017) reciprocal help is pressured when debt invoked against contrary recommendation. Agreement under family appeal not free adoption of R plan or romantic consent. |
+| 003 | No repeated controlled preliminary experiment failure. Diary critique and temporal hypothesis (011) cannot validate persistence across that exact trigger. |
+| 004 | ST13–14 full reading/objections (011–012) show active boundaries and candor; eventual help does not erase stated objection. Information she receives is not permission to transfer all private knowledge. |
+| 005 | ST13 revisits shared-origin causal questions as hypothesis (011), not renewed accusation or confirmed culpability. R post hoc critique retained. |
+| 006 | No present terminal experiment-failure collapse. Diary adverse future uncertain, not confirmed suicide or new psychological endpoint; current clinical/return outcome unproved. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

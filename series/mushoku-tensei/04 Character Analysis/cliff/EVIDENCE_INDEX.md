@@ -1,22 +1,24 @@
 ---
-title: "Cliff — bounded Japanese LN reconstruction through V14"
+title: "Cliff — bounded Japanese LN reconstruction through V15"
 artifact_id: MT_CLIFF_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.4, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.5, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Cliff evidence routes
+
+Current revision1.5 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.4 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -77,5 +79,19 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 003 | ST12 (012) extends verbal confrontation to refusal of aid for vulnerable acquaintance; no insult-to-partner or physical attack. El intervention limits escalation. |
 | 004 | ST12–13 (005/014/022) already knew El history before marriage and remains partner; new dependence on her guidance, no completed cure or lifespan solution. |
 | 005 | ST12–13 (012/014/017/019–022) duty becomes unsolicited charity, reward request for Nana, accepted runner role and treatment. Local initiative exceeds narrow response-to-received-help trigger but remains bounded. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.5
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST14–ST15 and checks V19–V21. The [model](RECONSTRUCTION_MODEL.md) owns 5 rules, 15 states and 21 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST14–15 (014–015/019) systems improve function and healing; pregnancy identification useful. Local results do not complete curse cure or verify all enemy advice. |
+| 002 | ST15 initial paternity question corrected by El experience (015) is relational information update, not peer-rival hierarchy replication; no new equivalent score. |
+| 003 | No insult-defense or vulnerable-stranger refusal confrontation. Diary death (002) not current trigger or outcome. |
+| 004 | ST15 (015) pregnancy knowledge changes shared situation; surprise/suspicion followed by correction. No proof curse cured or entire future secure. |
+| 005 | ST14 (014–015/019) contributes specialized time and care under collective need; helper has finite skills, no responsibility to guarantee victory. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

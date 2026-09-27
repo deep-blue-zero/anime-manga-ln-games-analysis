@@ -1,21 +1,23 @@
 ---
-title: "Elinalise — Japanese LN evidence routes through V14"
+title: "Elinalise — Japanese LN evidence routes through V15"
 artifact_id: MT_ELINALISE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.4, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.5, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Elinalise evidence routes
+
+Current revision1.5 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.4 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -94,5 +96,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | ST13 historical withholding (005) extends reputation concern with hope/Zenith/grief considerations, not a new denial of Syl kinship. Cliff already informed before wedding; Syl remains uninformed about this history. |
 | 005 | ST13–14 (005/012/014/022) informed commitment and practical care reinforced; curse, memories and long-term prospects remain unresolved. |
 | 006 | ST13–14 measured historical explanation, urgent restraint and runner persuasion (005/012/019–022) vary by situation; no permanently carefree or all-knowing mediator. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.5
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST15–ST16 and checks V23–V25. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 16 states and 25 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST15 (014–015) supplies contacts/training rather than joining battle; useful aid can take bounded form. No fresh own expedition combat performance. |
+| 002 | ST16 pregnancy/curse pause (015) alters current needs, not universal sexual availability or permanent release from curse. |
+| 003 | ST15–16 (014–015) pragmatic aid plus explicit combat refusal; no new universal matchmaking or intervention rule. |
+| 004 | No fresh kinship/reputation-denial trigger. Pregnancy revealed by R before Cliff knows (015) is not evidence Syl learned El ancient history; earlier audience ceiling preserved. |
+| 005 | ST16 (015) explains paternity and experience to Cliff, accepts diagnosis; shared future gains particular fact without guaranteed cure or marriage perfection. |
+| 006 | ST15–16 practical arranging, refusal and corrective speech (014–015) show situational register, not permanent carefree compliance. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

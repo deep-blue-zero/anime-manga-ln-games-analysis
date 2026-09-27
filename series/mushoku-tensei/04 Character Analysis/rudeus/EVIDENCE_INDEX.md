@@ -1,21 +1,23 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V14"
+title: "Rudeus — reconstruction evidence routes through V15"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.11, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.12, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
+
+Current revision1.12 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.11 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -206,3 +208,23 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 009 | ST50–52 (003/013/017/027–034) distinguishes revised guesses, self-ownership language, manipulation by detailed counterfactual and tentative testimony testing. Private identifiers/rat corroborate specific propositions, not omniscient future knowledge. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.12
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST53–ST55 and checks V80–V87. The [model](RECONSTRUCTION_MODEL.md) owns 9 rules, 55 states and 87 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST53–55 (005/014–015/019/029–031): reads critically, credits differentiated labor and uses practiced tools. Armor loses; diary methods/skills not automatically learned; asks explicit service terms. Technical adjustment transfers more reliably than interpersonal insight. |
+| 002 | ST53–55 no sustained equivalent R teaching scene. Eris teaching Norn (025) corrects his appraisal; collaborators instruct him. Do not score general assistance as teaching success. |
+| 003 | ST53–55 (008–012/018/025/029) concealment and selective confidence recur under protective fear. Roxy prompts actual correction; he understands Nana debt yet pressures her. This is a near analogy for control of another experience, not the original staged-rescue trigger. |
+| 004 | ST53–55 (001–004/010/019/023–024) vivid anticipated loss and overwhelming opponent disrupt him despite technical activity. Rescue/dependence permit continued action; changed patron does not establish universal fear extinction. |
+| 005 | ST53–55 (004–005/008/012/018/026–032) care includes small acts, accepted correction and specific terms, but sympathy can coexist with instrumental pressure. No rule that recognizing reasons ensures honoring them. |
+| 006 | ST54–55 (019/023/031) under existential force bargains for family, accepts constrained alliance then negotiates limits. Historical Eris trap not replicated; no claim every alternative exhausted or all service now voluntary. |
+| 007 | Ruijerd invoked to understand Nana debt (012), no current encounter or equivalent shared-exclusion test. Analogy clarifies awareness while conduct still pressures friend; no scored fresh validation. |
+| 008 | ST53–55 (014/018/020–023/026/029/031) differentiated collaboration and others initiative are decisive. Delegating tasks can coexist with monopolizing judgment; admitting companions/terms is local correction. |
+| 009 | ST53–55 (001–013/025/029–036) separates some diary claims/hypotheses and affirms own identity, yet repeats Eris misreading and selective disclosure. Stillbirth explanation is attributed inference; insight/relief not complete knowledge. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+Current cumulative interpretation: [V01–V15 monograph](CHARACTER_MONOGRAPH_V01_V15.md); the [V01–V10 monograph](CHARACTER_MONOGRAPH.md) remains an unchanged historical argument. The model continues to own operational rules.

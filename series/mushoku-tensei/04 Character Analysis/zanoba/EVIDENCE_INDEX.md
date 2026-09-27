@@ -4,19 +4,21 @@ artifact_id: MT_ZANOBA_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.5, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.6, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Zanoba evidence routes
+
+Current revision1.6 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.5 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -95,5 +97,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | ST13 rescue violence (019–021) responds to imminent capture/injury, not art insult. Throwing Kishirika instrumentally requires criticism without misclassifying trigger. |
 | 005 | ST13 Julie figure used for narrow concession (025); appreciation of her work does not itself establish emancipation or new caregiving test. |
 | 006 | ST12–13 (014/016/019–021) practical help under danger extends capability with context: he protects R while admitting different feelings and can be injured. Courage is not limitless empathy. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.6
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST14–ST14 and checks V23–V24. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 14 states and 24 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST14 construction (014–015) draws on research motivation but does not supply new figurine-market or art-recognition trial. Diary replica (005) remains alternative-self report. |
+| 002 | ST14 (014–015/019) mechanical work has indispensable effects alongside Cliff systems/R materials. Whole-device failure against Orsted not proof Zanoba craft failed; fine-control limits not universally cured. |
+| 003 | No comparable shame-delayed disclosure. Diary apology (005) not present speech; no new validation. |
+| 004 | No new art-insult violent trigger. Armor test injury (015) is experiment participation, not aggression or unlimited invulnerability. |
+| 005 | Julie counterexample in R thoughts (015) does not establish new caregiving terms or emancipation. No comparable current pupil-welfare test. |
+| 006 | ST14 (014–015/019) costly project work extends concrete help. His injury and specialized role limit invulnerable/omnicompetent ally reading. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

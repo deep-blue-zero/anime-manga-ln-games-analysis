@@ -4,19 +4,21 @@ artifact_id: MT_SYLPHIETTE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.6, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.7, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Sylphiette evidence routes
+
+Current revision1.7 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.6 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -120,5 +122,21 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 005 | ST20 return to Ariel work (026) does not replicate recruitment dilemma; motherhood and temporary childcare assignment have not terminated service. |
 | 006 | No new displacement-cause blame attack. Her own fear of accusation during Nana collapse (010) is different and cannot count as replication. |
 | 007 | No subordinate-invitation coercion trigger. Agreeing to remain home under R reasoning (015) is not independent endorsement of universal hierarchy. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.7
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST21–ST23 and checks V32–V35. The [model](RECONSTRUCTION_MODEL.md) owns 7 rules, 23 states and 35 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST21–22 (014/019/022) contributes broad magic/circles and counter-magic practice that R uses in fight; she also heals/rescues. Do not assign R combat acts to her or turn skill into all-domain superiority. |
+| 002 | ST21–23 (004/008/014/018/022/033/035) care includes objections, labor, rescue and restrained anger. Competence is active participation, not feeling no cost or permanently abandoning own commitments. |
+| 003 | ST21 direct concern about concealment (008–009) differs from delayed-name fear trigger. Jealousy and requested inclusion are explicit, no new proof every old disclosure anxiety resolved. |
+| 004 | ST21–23 (008–009/018/022/027/033/035) conditions, jealousy, correction and chosen help coexist; welcome Eris and restraint over board do not imply universal consent or angerlessness. |
+| 005 | ST21 Ariel advocacy remains represented outside main threat (008); no fresh recruitment choice. Motherhood and rescue have not supplied a new permanent retirement decision. |
+| 006 | No equivalent displacement-blame accusation. ST22 guilt over armor faith (022) is self-appraisal after failure, not proof of causal responsibility or same trigger. |
+| 007 | No repeated subordinate invitation/punishment trigger. Household role negotiation and defense of Norn at the household entrance (008/035) cannot validate earlier punitive advice rule. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

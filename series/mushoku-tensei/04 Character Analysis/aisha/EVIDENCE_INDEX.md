@@ -1,21 +1,23 @@
 ---
-title: "Aisha — Japanese LN evidence routes through V13"
+title: "Aisha — Japanese LN evidence routes through V15"
 artifact_id: MT_AISHA_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-27"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.2, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.3, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Aisha evidence routes
+
+Current revision1.3 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.2 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -58,5 +60,19 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 003 | ST08 matching gifts/birth recognition (022) supplies local inclusion; no full erasure of hierarchy, grief or sibling rivalry. |
 | 004 | ST07–08 (010/020/028) includes outside interests, wanted recognition and care cooperation. Competence/cheer neither free adult service nor absence of mourning. |
 | 005 | ST07–08 (010/020–022) differentiates teasing, leverage, requests and birthday response; R cannot infer all feelings from cheerful style. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.3
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST09–ST10 and checks V14–V16. The [model](RECONSTRUCTION_MODEL.md) owns 5 rules, 10 states and 16 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST09–10 (017/020/027) crop and hospitality use knowledge/labor/support; limited seed/soil prevent universal agricultural mastery. Practical competence not effortless. |
+| 002 | No equivalent explicit negotiable bargain. Welcoming Eris through learned rescue debt (020) is initiative, not evidence every action manipulates terms. |
+| 003 | ST09–10 sibling teasing (016) not a fresh birth-ranking confrontation. No conclusion hierarchy or rivalry cured by shared meal/help. |
+| 004 | ST09–10 (017–020/027/033) service includes own wish for R return, practical complaints and mediation; capability does not establish unconstrained employment or no need for care. |
+| 005 | ST09–10 (016/018/020/027/033) teasing, direct need, formal welcome and complaint vary by context. R may not replace her stated wish with an assumed interchangeable provider. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

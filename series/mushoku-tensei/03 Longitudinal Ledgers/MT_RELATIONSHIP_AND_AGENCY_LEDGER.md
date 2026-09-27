@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -439,3 +439,43 @@ Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-R-265` / Eris ↔ Nina / Gino / Gal | Distinct aims, adaptive win, rank, intended departure and peers' renewed training. |035–036; no present R reunion or actual Orsted victory. |
 
 The elder's reported future relations are not silently merged into current directed edges. Earlier freezes retain knowledge ceilings, and future diary content remains unadmitted through V14.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V15 exchange / information | Limit / remaining test |
+| --- | --- | --- |
+| `MT-R-266` / diarist → living reader | Losses, accusations, research and regret transmitted in partial record. |001–007; not current household relations or transferred skill. |
+| `MT-R-267` / Rudeus ↔ Sylphiette / Roxy | Seeks comfort without cause; receives mutual repair and limits. |004; living answers exceed dead-future roles, no full informed guarantee. |
+| `MT-R-268` / Rudeus → Aisha / Lilia | Small attention, proposed gift and thanks after reading. |005; real action, no emancipation or permanent change proved. |
+| `MT-R-269` / wives → Rudeus | Name overprotection, negotiate home defense and independent rescue. |008; their competence and decision rights stated directly. |
+| `MT-R-270` / household ↔ prospective Eris | Conditional discussion before meeting, jealousy and reservation retained. |009/013; elder forecast no substitute for all parties' answers. |
+| `MT-R-271` / Hitogami → Rudeus | Threat, command and technically useful advice. |010/015; perceived alternatives narrowed, promise unenforceable. |
+| `MT-R-272` / Rudeus ↔ Nanahoshi | Full account and critical reading lead to disagreement and pressured assistance. |011–012; candid information does not equal respected judgment. |
+| `MT-R-273` / Eris ↔ Nina / Isolte | Anxiety, punch, reassurance, reading assistance and competing letter interpretations. |013; friendship and limits, no magically completed literacy. |
+| `MT-R-274` / Eris / Ghislaine → Rudeus | Choose departure on Orsted warning. |013; rescue purpose precedes marriage response, travel imperfect. |
+| `MT-R-275` / Cliff / Zanoba / Roxy / Syl → armor project | Differentiated technical, supervisory and training contributions. |014–015/019; no guaranteed victory or full knowledge of all danger. |
+| `MT-R-276` / Perugius / Ariel / El → preparation | Refusal, contacts and instruction according to own constraints. |014–015; no universal coalition under protagonist command. |
+| `MT-R-277` / Elinalise ↔ Cliff / Rudeus | Pregnancy disclosed, diagnosis and paternity correction; combat refused. |015; curse pause not cure, diary counterparts separate. |
+| `MT-R-278` / Roxy ↔ household | Pregnancy announcement, existing acceptance and request for affection. |016; no reduction to teacher or childbearing role. |
+| `MT-R-279` / Aisha / Nana → household | Small rice crop and transmitted recipe create shared pleasure. |017; work/soil/seed limits retained, Roxy wants attention too. |
+| `MT-R-280` / Norn / Aisha / Lilia → departing Rudeus | Alternative questioned, personal return wanted, waiting voiced. |018; family not merely passive objects of sacrifice. |
+| `MT-R-281` / Roxy / Syl → Rudeus | Joint consultation prevents selective disclosure; request retreat/return. |018; not unrestricted approval of ambush or reincarnation disclosure. |
+| `MT-R-282` / Aisha / Lilia → Eris | Learned rescue debt becomes independent hospitality. |020; family had discussed arrival beyond R knowledge. |
+| `MT-R-283` / Eris ↔ wives / Ghislaine | Initial accusation revised; joint rescue with distinct roles/risks. |020–022; pride remains, help not single-person miracle. |
+| `MT-R-284` / Orsted → Rudeus / family | Victory, threats, protection/work offer and healing. |023–024; duress and limited guarantee, not free initial bargain. |
+| `MT-R-285` / Rudeus ↔ Eris / Ghislaine | Silence misread; adviser prompts receptive speech; mutual proposal. |025–026; combat no longer decides love, understanding incomplete. |
+| `MT-R-286` / wives / siblings / Lilia → Eris / Rudeus | Welcome, labor concerns, dissent and practical accommodation. |027; Norn doctrine retained, Zenith reaction interpreted. |
+| `MT-R-287` / Ghislaine ↔ Rudeus / prospective Ariel | Sauros revenge aim prompts proposed political connection. |027; meeting and coup unperformed. |
+| `MT-R-288` / Rudeus ↔ Eris | Intimacy, assent/pacing tension and present morning. |028; own five-year story still wanted, no blanket permission. |
+| `MT-R-289` / Eris → Rudeus → Orsted | Follows concealed visit, joins conditional conversation; rebirth heard. |029; partnership corrects exclusion locally, other wives still uninformed. |
+| `MT-R-290` / Orsted ↔ Rudeus | Attributed history, proposed guardian, diary transfer and negotiated terms. |029–031; explanation not omniscience, routine performance untested. |
+| `MT-R-291` / Eris ↔ Rudeus / uninformed wives | Identity continuity affirmed; future origin disclosure intended. |032; knowledge not household-wide. |
+| `MT-R-292` / Eris ↔ Syl / Aisha | Domestic mistake, restrained anger, explanation and apology. |033; reciprocal adjustment with actual costs. |
+| `MT-R-293` / Roxy ↔ Eris / school | Help misdirected by rank assumptions, trial fails through gesture misreading. |034; independent error, not malice or inherent inability. |
+| `MT-R-294` / Eris / wives → Norn / Richard | Defense through different available means; misleading power claim corrected. |035; Eris threat bluff, Norn admiration not romance, wives already capable. |
+| `MT-R-295` / Eris → Zenith / household | Smile interpreted as welcome; earlier decision to marry consolidated. |036; no established Zenith speech, telepathy or full recovery. |
+
+Directed edges preserve the source of initiative and limits on knowledge. The diary's alternative relations, interlude's earlier events and current postmarriage terms are kept distinct. No later source or inferred future consent enters this ledger.

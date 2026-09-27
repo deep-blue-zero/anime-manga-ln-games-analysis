@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -527,3 +527,31 @@ Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-S-232` / elder visitor | Claims later Rudeus identity and branch history, demonstrates powers, dies. ATTRIBUTED/OBSERVED. |029–032; identity support and rat warning strong locally; no younger model overwrite or new operational package. |
 
 Eight model/index pairs revised: Rudeus1.11, Roxy1.5, Sylphiette1.6, Zanoba1.5, Cliff1.4, Elinalise1.4, Nanahoshi1.4, Eris1.6. Paul1.3, Ruijerd1.2, Norn1.2, Aisha1.2 and Sara1.1 are reviewed and byte-preserved: no material new operational opportunity. New prominent figures stay ledger-level pending sufficient contexts and architecture need. All models BOUNDED_PROVISIONAL, null global IDs; no DOMAIN_READY or clean forecast. [V14 checkpoint](../05%20Checkpoint%20Syntheses/MT_V14_TESTIMONY_AND_AGENCY_CHECKPOINT.md) governs testimony distinctions; V15 cumulative review remains due.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| State / local key | Prior → V15 state / kind | Observations / limitation |
+| --- | --- | --- |
+| `MT-S-233` / Rudeus | Recipient of unread diary → critical but frightened reader of another self. KNOWLEDGE/PRACTICE. |001–007; current care and self-implication, no inherited powers or current diary deaths. |
+| `MT-S-234` / Rudeus | Protective organizer → coerced planner, selectively candid collaborator and defeated attacker. CONTEXT/PRACTICE. |008–019; understands pressure yet applies it to Nanahoshi; prompted disclosure real. |
+| `MT-S-235` / Rudeus | Rescued dependent → healed spouse, Eris's partner and provisional employee negotiating terms. RELATIONSHIP/PRACTICE. |020–032; concealment recurs, reincarnation not yet told to two wives. |
+| `MT-S-236` / Roxy | Working spouse → contributor, confirmed pregnant partner, disclosure advocate and rescuer. PRACTICE/CONTEXT. |004/008–009/014/016/018/022; asks affection, sets limits; not only teacher. |
+| `MT-S-237` / Roxy | Competent helper → mistaken reader of Eris's willingness to teach, continuing colleague/housemate. KNOWLEDGE. |034–035; explicit error, neither malice nor universal infallibility. |
+| `MT-S-238` / Sylphiette | Requests openness → negotiates role, contributes expertise and initiates rescue. PRACTICE. |008–009/014/018/020/022; jealousy, guilt and agency coexist. |
+| `MT-S-239` / Sylphiette | Existing wife → household mediator welcoming Eris's distinct contribution. RELATIONSHIP. |027/033/035; restrained anger real, complementarity not fixed incapacity. |
+| `MT-S-240` / Eris | Achieved fighter intending return → letter reader, protector and calibrated combatant. PRACTICE/KNOWLEDGE. |013/020–022; literacy mediated, training works without defeating Orsted. |
+| `MT-S-241` / Eris | Anxious newcomer → mutually acknowledged spouse, household participant, informed listener to rebirth account. RELATIONSHIP. |025–028/032–036; interlude reveals earlier reasons, no universal composure. |
+| `MT-S-242` / Nanahoshi | Grateful recovering researcher → skeptical reader, hypothesis-maker and pressured collaborator. PRACTICE. |011–012/014/017; reluctant assent not shared judgment, theory expressly provisional. |
+| `MT-S-243` / Zanoba | Research helper → specialized armor builder and injured tester. PRACTICE. |014–015/019; present work separate from diarist's future losses and replica. |
+| `MT-S-244` / Cliff | Researcher/helper → armor-systems contributor and informed expectant father. PRACTICE/KNOWLEDGE. |014–015/019; diagnostic correction, curse not cured; diary death not present. |
+| `MT-S-245` / Elinalise | Practical supporter → pregnancy-informed helper who declines combat. CONTEXT/PRACTICE. |014–015; asserts bodily experience, pause not permanent curse removal. |
+| `MT-S-246` / Norn | Student with own work → questions danger, retains marriage objection, receives specific teaching and resists pressure. PRACTICE. |016/018/025/027/035; admiration not romance, disagreement not rejection. |
+| `MT-S-247` / Aisha | Skilled dependent sibling → cultivator, direct family claimant and initiator of Eris hospitality. PRACTICE. |005/017–020/027/033; effort/support, service hierarchy and teasing retained. |
+| `MT-S-248` / Orsted | Feared enemy → victorious coercive recruiter and attributed source of operational/history claims. REVEALED/RELATIONSHIP. |019/023–024/029–031; limited guarantee, no ordinary employment record yet. |
+| `MT-S-249` / Hitogami | Suspect adviser → admitted adversary combining threats and useful advice. REVEALED. |010/015; confessions and cosmology attributed, not omniscient narrator. |
+| `MT-S-250` / Ghislaine | Companion on return → rescuer, conversation adviser and bearer of Sauros-related political aim. PRACTICE. |013/022/026–027; Ariel meeting proposed, not completed. |
+
+Ten existing pairs revised: Rudeus1.12, Roxy1.6, Sylphiette1.7, Zanoba1.6, Cliff1.5, Elinalise1.5, Nanahoshi1.5, Eris1.7, Norn1.3, Aisha1.3. Paul1.3, Ruijerd1.2 and Sara1.1 remain byte-preserved after no-new-equivalent-opportunity review. New major powers remain ledger-level, all packages BOUNDED_PROVISIONAL, global IDs null, no DOMAIN_READY or predictive score. [Cumulative checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V15_MAINTENANCE_CHECKPOINT.md) reviews adequacy and the distinct new Rudeus monograph. V15 is terminal for this authorization.

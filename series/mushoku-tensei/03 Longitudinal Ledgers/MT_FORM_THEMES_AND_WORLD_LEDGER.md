@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -381,3 +381,31 @@ Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-W-043` | Eris gains Sword King/full transmission through local technique/result. |036; Emperor conditional on another fight, God path declined; named ranks not transitive universal outcomes. |
 
 Time suspension, arrested aging, lifespan difference and time travel share a theme without being one settled mechanism. Written/visual LN evidence only; no adaptation, acoustic performance or later source admitted.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Form record | V15 mechanism | Evidence / alternatives |
+| --- | --- | --- |
+| `MT-F-052` | Embedded first-person diary lets current self identify with and criticize another self. |001–007; material gaps and present interruptions prevent seamless future omniscience. |
+| `MT-F-053` | Living wives' speech interrupts the emotional authority of reported deaths. |004/008–009; reassurance is actual but not informed about everything. |
+| `MT-F-054` | Skepticism and labeled hypothesis coexist with pressure to act. |010–012/015; uncertainty does not suspend action or justify every means. |
+| `MT-F-055` | External Eris/Orsted access and rescue rewind exceed R first-person knowledge. |013/019–022; retrospective revelation not earlier character knowledge. |
+| `MT-F-056` | Defeat preserves effects of preparation while ending solitary-victory expectation. |014–024; survival occurs through initiative and a coercive new relation. |
+| `MT-F-057` | Spoken proposal displaces duel; present morning revises V06 absence. |025–028; meaningful local repair without completed understanding. |
+| `MT-F-058` | Final interlude returns before proposal, exposes reciprocal mistakes and independent belonging. |033–036; later discourse, earlier story time. |
+| `MT-F-059` | Diary object images, asymmetric combat plate, women's handclasp and divergent bilingual maxim. |037–038; visual/paratextual emphasis not new events or one authorial moral. |
+
+| World record | V15 rule or institution | Limit |
+| --- | --- | --- |
+| `MT-W-044` | Diary disease/cure restriction, research and time experiment reported. |002/005–007; no imported medical certainty, present powers or exhaustive history. |
+| `MT-W-045` | Hitogami's fate/descendant claims and admitted earlier falsehoods. |010/015; mechanical advice tested more narrowly than cosmic/safety claims. |
+| `MT-W-046` | Nanahoshi temporal/energy/missing-person model. |011; all explicitly hypothetical, disaster cause unproved. |
+| `MT-W-047` | Armor combines systems/materials/labor, absorption can disrupt own magic, body healing does not refill mana. |014–015/019–022; particular combat effects, no real-world weapons physics. |
+| `MT-W-048` | Orsted bracelet, mana limits, guardians and enemy-operation claims. |024/029; bracelet observed/causal account attributed, guardian unperformed. |
+| `MT-W-049` | Laplace history/factors and possible original stillbirth. |030; Orsted report/inference, factors not personal identity, R connection partly inference. |
+| `MT-W-050` | Restricted cure, school donor authority and negotiated service terms differ. |002/023/031/035; institutional power cannot be inferred from a claimant's confidence. |
+
+Written/visual Japanese LN evidence only. Current pregnancies, reported alternative pregnancies, chronological rewinds and planned next actions are not merged. No afterword, adaptation or later source is admitted.

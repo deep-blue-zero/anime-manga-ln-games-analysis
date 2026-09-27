@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -502,3 +502,46 @@ Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-K-210` | Reader sees Eris technique/rank/return intention, R not informed. |035–036; Sword King/full transmission actual, Emperor conditional, Orsted victory projected. |
 
 Current events, disclosed past, unverified counterfactual, elder future testimony, nested hearsay and reader-only interlude are separate records. No old freeze or earlier character state acquires V14 knowledge.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V15 ordering | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-083` | Morning after elder: letter written, diary opened before actual sending. |001/010–011; current sequence distinct from embedded diary. |
+| `MT-T-084` | Diary ranges from ordinary domestic days through losses, research and decades of aging. |001–007; dates/gaps unreliable, reports and omissions not exact exhaustive chronology. |
+| `MT-T-085` | Wives' consultation, hostile dream and posted letter precede castle consultation and Eris's received letter. |008–013; no exact transit calendar inferred. |
+| `MT-T-086` | Preparation names first, second and third months; pregnancy announcements and meal precede farewell. |014–018; distinct pregnancies, crop small, no future birth admitted. |
+| `MT-T-087` | Ambush precedes rescue; later chapter rewinds to Eris's arrival and party formation. |019–023; source order differs from action order. |
+| `MT-T-088` | Roughly ten-day aftermath precedes proposal, marriage and Orsted visit. |024–032; final interlude returns to days after fight/before proposal. |
+| `MT-T-089` | Completion of Orsted's diary reading, guardian summoning, employment assignments and remaining origin disclosure lie beyond cutoff. |029–032/036; promised or planned, not completed. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-211` | R reads diary material, recognizes gaps and self-continuity. |001–007; older abilities and reports not young experience. |
+| `MT-K-212` | R receives alternative Roxy/Cliff/Syl/Eris/companion losses and causal accounts. |002–006; encountered events inside testimony, hearsay and blame distinct; no present deaths. |
+| `MT-K-213` | Living wives comfort R without knowing diary cause. |004; actual voiced boundaries/repair, not anticipated future assent. |
+| `MT-K-214` | Syl viewpoint notices concealment; wives state roles and Eris conditions. |008–009; miko cover not full elder account, Nana romance speculation not Nana statement. |
+| `MT-K-215` | Hitogami claims descendant threat/fate and commands Orsted killing. |010; adversarial claims, Syl alternative fate not known by speaker. |
+| `MT-K-216` | Nana receives fuller account and reads diary herself. |011; skepticism and adverse-future uncertainty remain, no confirmed suicide. |
+| `MT-K-217` | Nana develops temporal/causal hypothesis; R recognizes some post hoc reasoning. |011; expressly all hypothesis, not verified displacement mechanism. |
+| `MT-K-218` | R understands Nana debt but overrides her recommendation through pressure. |012; recognition precedes instrumental choice, reluctant help not agreement. |
+| `MT-K-219` | Eris receives mediated letter; friends debate missing love declaration and household terms. |013; postscript drives departure, no marriage answer yet. |
+| `MT-K-220` | Hitogami admits earlier claims false; advice works locally. |015; empirical device utility does not verify safety promise or all new claims. |
+| `MT-K-221` | El pregnancy disclosed to Cliff and diagnosed; Roxy announces own pregnancy publicly. |015–016; curse pause not cure, separate reported-future pregnancies excluded. |
+| `MT-K-222` | Roxy insists on Syl inclusion; both hear immediate Orsted/Hitogami danger. |018; rebirth remains undisclosed, concern not endorsement of all tactics. |
+| `MT-K-223` | Reader sees home initiative and rescue party formation after fight begins in discourse. |020–022; R cannot have used reader's later information in earlier planning. |
+| `MT-K-224` | Orsted offers conditional protection; R perceives vocal hesitation, others curse-affected suspicion. |023; neither side's motive reading is omniscience. |
+| `MT-K-225` | Body restored, bracelet present, no recent dreams; its function later explained. |024/029; short observation and attributed mechanism separate. |
+| `MT-K-226` | R misreads Eris silence despite diary lesson, then hears actual feelings. |025–026; conversation supplies new correction, not automatic knowledge from old future. |
+| `MT-K-227` | Household responds to marriage; Norn's disagreement persists. |027; Zenith slap interpreted, Ghislaine/Ariel meeting only proposed. |
+| `MT-K-228` | R discloses reincarnation to Orsted with Eris present. |029–030; Roxy/Syl not informed, curse/history/prediction distinguished. |
+| `MT-K-229` | Orsted reports Laplace history/factors and infers probable original stillbirth. |030; factors not identity, reassurance not independent proof; disaster unresolved. |
+| `MT-K-230` | R negotiates pay/time and gives diary; Orsted skims pages, full reading to follow, R to return tomorrow; Eris accepts identity continuity. |031–032; actual terms/object transfer, future performance untested. |
+| `MT-K-231` | Interlude reveals Eris anxiety and Roxy's explicit misreading of willingness to teach. |033–034; revelation of earlier state, not new postmarital deterioration. |
+| `MT-K-232` | Richard's claimed power is challenged; narrator identifies Eris threat as bluff. |035; no established murder intent, no invented Norn romance. |
+| `MT-K-233` | Eris interprets Zenith smile/felt response and chooses marriage. |036; no verified speech, telepathy or recovery; choice earlier than main proposal. |
+
+The present, embedded branch, disclosed past, claimed cosmic history, hypotheses and reader-only access remain separately attributed. Earlier freezes and knowledge ceilings are preserved.

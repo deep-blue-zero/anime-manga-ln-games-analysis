@@ -1,21 +1,23 @@
 ---
-title: "Eris — reconstruction evidence routes through V14"
+title: "Eris — reconstruction evidence routes through V15"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.6, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.7, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Eris evidence routes
+
+Current revision1.7 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.6 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -104,5 +106,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | ST15 Nina/Gino remain competitors with own plans (036); no fresh friendship repair trial or inferred agreement to Eris sacrifice. |
 | 005 | No represented new intimate negotiation with R. Elder marital advice (031) is not her present consent or a communicated relationship agreement. |
 | 006 | ST14–15 (035–036) direct answers and refusal to seek title by killing teacher reflect particular aims; limited speech does not mean inability to reason. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.7
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST16–ST18 and checks V27–V32. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 18 states and 32 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST16–18 (013/021–022/025/034–035) uses specific learned techniques, teaches Norn and adapts under superior opponent. Institutional misreading and earlier punch limit all-domain discipline; title not equal Orsted strength. |
+| 002 | ST16–17 (013/020–022/035) acts protectively, cooperates and risks self; proportionality contextual. Threat at the household entrance explicitly bluff, not intent to murder; rescue not solo victory. |
+| 003 | ST16–18 (013/025–028/032–036) attachment includes insecurity, actual words, willingness to accept genuine rejection and choice to belong. Silence does not equal rejection; original future diary report not present consent. |
+| 004 | ST16 Nina/Isolte friendship includes reassurance and punch (013); ST18 wives offer new peer accommodation (033–035), near analogy not repetition of every old friendship conflict. |
+| 005 | ST17–18 (025–028) actual proposal and intimacy now test communication. Spoken mutual agreement replaces duel; her force/pacing and R assent both retained. No blanket consent from marriage. |
+| 006 | ST16–18 (013/020–026/032–036) limited/ambiguous speech creates mistakes but she can reason, apologize, teach and ask identity question. Literacy aid does not establish independent complete reading; felt Zenith answer not verified speech. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

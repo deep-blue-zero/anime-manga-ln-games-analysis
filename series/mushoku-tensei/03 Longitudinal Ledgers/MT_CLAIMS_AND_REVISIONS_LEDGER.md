@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.14"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -360,3 +360,28 @@ Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-CR-186` / `MT-C-015` | Completion plural → successful rescue opens ongoing treatment; diary/letter begin unfinished work. | REVISE;023/027/034/036; no new life or reunion completed. |
 
 No new master claim. The disclosure checkpoint sharpens these existing claims. Next tests concern specific corroboration, inclusion of affected people, consultation with Nana and direct Eris contact. These remain prospective questions with prior exposure declared.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V15 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-187` / `MT-C-001` | Power cannot guarantee rescue → collaborative capacities work locally while armor loses and diary power fails relation. | REVISE;002/005/014–015/019–022; future capacities not inherited. |
+| `MT-CR-188` / `MT-C-002` | Care and harm coexist → protective fear can motivate both rescue and knowingly pressured help. | STRENGTHEN;010/012/022–023/035; explanation not exculpation. |
+| `MT-CR-189` / `MT-C-003` | Corroboration proposition-specific → access includes diary gaps, skeptical reading, mistaken expertise and selective disclosure. | REVISE;001–013/018/029–036; report/hypothesis/act separate. |
+| `MT-CR-190` / `MT-C-004` | Original refusals preserved → new touch limits, assent and pacing judged event by event. | PRESERVE/EXTEND_APPLICATION;004/009/025–028; marriage not blanket permission. |
+| `MT-CR-191` / `MT-C-005` | Protection and secrecy → wives contest comfort-only role and act independently. | REVISE;008–009/018/020/022/027; fear remains, current family not dead diary family. |
+| `MT-CR-192` / `MT-C-006` | Forced separation necessity unproved. | PRESERVE;013/025–028; achieved reunion does not retroactively justify coercion. |
+| `MT-CR-193` / `MT-C-007` | Independent purposes → Eris/household/Nana/helper actions exceed R's assigned roles. | STRENGTHEN;008–018/020–022/027/033–036; no fixed goddess types. |
+| `MT-CR-194` / `MT-C-008` | Distributed learning → technical transfer and conversational correction differ in reliability. | REVISE;014–015/019/025–026/033–034; insight does not automatically transfer. |
+| `MT-CR-195` / `MT-C-009` | Layered testimony → embedded self, rewinds, mistaken experts and interlude redistribute access. | STRENGTHEN;001–007/011/020/030/033–038; no omniscient cosmology from detailed speech. |
+| `MT-CR-196` / `MT-C-010` | New threat with unresolved causes → fate, temporal purpose and ancient history have distinct attributed sources. | REVISE;010–011/030; disaster explanation still unproved. |
+| `MT-CR-197` / `MT-C-011` | Debt enables or constrains → gratitude used for welcome and pressure, specified terms improve undefined service. | REVISE;012/020/023/031; later terms do not erase coercive origin. |
+| `MT-CR-198` / `MT-C-012` | Aid without universal restoration → body/relationship repair real, ongoing conditions and lost-branch lives not restored. | REVISE;007/024/026/036; Zenith smile no recovered speech. |
+| `MT-CR-199` / `MT-C-013` | Institutions constrain options → restricted cure, donor claims and employment show access/authority distinctions. | STRENGTHEN;002/023/027/029/031/034–035; claim to power not actual entitlement. |
+| `MT-CR-200` / `MT-C-014` | Responsibility includes consultation → other people successfully correct some choices while concealment/pressure recur. | REVISE;008/012/018/025–026/029/031–032; correctability bounded, not complete transparency. |
+| `MT-CR-201` / `MT-C-015` | Completion plural → defeat/reunion/admission close local problems, open service, care and disclosure obligations. | REVISE;019–036/038; no next mission, guardian or full future security established. |
+
+No new master claim is required. The cumulative checkpoint and new scoped Rudeus monograph develop the relations among existing claims while retaining contrary cases. V15 closes the authorized reading boundary, not the entire published series or every in-story obligation.

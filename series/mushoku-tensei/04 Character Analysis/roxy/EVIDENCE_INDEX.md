@@ -1,21 +1,23 @@
 ---
-title: "Roxy — reconstruction evidence routes through V14"
+title: "Roxy — reconstruction evidence routes through V15"
 artifact_id: MT_ROXY_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
-source_boundary: "Japanese LN V01–V14; V14 revision 1.5, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.6, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Roxy evidence routes
+
+Current revision1.6 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.5 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -91,5 +93,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | ST13 exclusion is external discriminatory policy, not identity denial by Roxy. ST14 pregnancy hint (033) not enough to infer a diagnosis process or hidden fear. |
 | 005 | ST13–14 comfort/welcome (002/026/033) are near analogies for belonging, not Migurd communication-channel replication. Perugius still excludes her after figurine concession. |
 | 006 | ST13–14 (002/015/026/033) voiced preference, actual agreement, promised embrace and request for disclosure. Elder future-death report grants neither present knowledge nor implied consent. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.6
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST15–ST17 and checks V25–V29. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 17 states and 29 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST15–17 (008/014/022/034–035) retains classroom responsibility, supervises and finds specialist, plans withdrawal. Misreading of willingness to teach demonstrates competence not universal interpretive accuracy. |
+| 002 | ST17 Error about Eris willingness to teach (034) differs from gifted-pupil/master comparison; no new equivalent humility trigger. It limits any broad expert-infallibility extrapolation. |
+| 003 | ST16 rescue (022) is practical help to threatened partner, a near analogy rather than missing-family search/reunion. Pregnancy increases cost, not guarantee all danger manageable. |
+| 004 | ST15–17 confirmed pregnancy and rank-based assumption about willingness to teach (016/034) do not reproduce Migurd identity denial. No inferred secret shame or diagnosis from those unrelated acts. |
+| 005 | ST16–17 (016/027/035) existing acceptance and household welcome are near analogies of belonging; no new Migurd communication-channel replication. |
+| 006 | ST15–17 (004/008–009/016/018/022/027/034–035) permits closeness with limits, asks affection, requires Syl inclusion, rescues and welcomes Eris conditionally. Teacher/help role does not suppress preferences or prevent mistaken judgment. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
