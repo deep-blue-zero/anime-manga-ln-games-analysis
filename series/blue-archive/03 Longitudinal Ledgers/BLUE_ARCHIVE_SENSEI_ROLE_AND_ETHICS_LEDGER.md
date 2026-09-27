@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1001,3 +1001,7 @@ Sensei asks Saori to stand and seeks an equal talk before assessing her Beatrice
 ## V003 C004 E008 delta — rescue support amid coercion and despair
 
 Sensei directly reassures Hiyori and tells her the aim is Atsuko's rescue, contradicting her dungeon/punishment fantasy. At the bridge, Sensei observes Misaki's danger, judges Saori has not acted on the reported kill-Sensei offer, and warns Misaki not to move farther. Saori supplies the direct anti-jump intervention; Sensei does not answer Misaki's `vanitas` challenge with a claimed universal meaning. Misaki joins the group, but neither adult support nor Saori's pledge certifies long-term safety or successful rescue. Nine singleton choices, no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E009 delta — effect without printed tactic
+
+Sensei's single choice asks how catacomb interiors change. Arius pursuers prepare for battle; the next scene has Misaki surprised at ease and Hiyori naming “adult power” as impressive/frightening. This supports a bounded assistance/effect reading but gives Sensei no printed order, expenditure, attack or sole causal claim. The group moves onward without confirmed district entry or rescue. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

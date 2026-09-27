@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E008 active provisional; C004 E009 unopened
+current_sequential_boundary: MAIN_V003_C004_E009 active provisional; C004 E010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2207,3 +2207,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. Entry, rescue, Seia's illness and Mika's escape remain open; C004 E009 unopened.
+
+## V003 C004 E009 claim delta — timed route, offscreen victory
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Squad's coded/rotating catacomb account and midnight closure narrow urgency but are not an independently surveyed map. Arius pursuers appear and a later appraisal reports an easy result, not inspected fight mechanics or district entry.
+- **BA-C001/C016 — QUALIFY:** “adult power” is Hiyori's response to offscreen success; Sensei's only printed choice asks about the changing route.
+- **BA-C008 — STRENGTHEN:** `u:0011-0014/0020-0022` and scene 2 `u:0004-0006` label/style inversions require group-level attribution.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. Actual district entry and Atsuko rescue remain open; C004 E010 unopened.

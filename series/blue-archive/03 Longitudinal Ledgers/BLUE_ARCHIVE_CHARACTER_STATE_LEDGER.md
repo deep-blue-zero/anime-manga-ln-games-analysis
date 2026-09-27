@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,14 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E009 character-state delta — route and unprinted battle
+
+- **Misaki/Saori/Hiyori:** give a group-level account of changing catacombs, coded routes, lost access and one time-limited entrance. They meet Arius pursuers; post-combat speech says those foes fell unexpectedly easily. Numerous labels invert, limiting individual voice. All `UNMODELED`.
+- **Sensei:** one inquiry choice about the route; Hiyori attributes the offscreen result to frightening/impressive adult power. No printed command, weapon or unique tactic. `PARTIAL_MODEL`.
+- **Arius pursuers:** two role-labeled students spot Squad and call combat preparation; no named subject or independently printed casualty.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E008 character-state delta — Squad reunion and bridge risk
 

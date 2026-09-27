@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1537,3 +1537,8 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Hiyori's rumored Schale dungeon (`scene:001:u:0013`) is an anxiety narrative, not setting fact. Her `もう断った` at `u:0037` is a direct refusal self-report; `u:0041` is Saori-tagged but uses Hiyori-like deferential first person, so quarantine ownership.
 - Misaki and Saori's `先生を始末すれば` (`scene:002:u:0013-0016`) indicates heard reprieve terms, not a directive they enact here. Misaki's `vanitas vanitatum` at `u:0032` is her fatalistic voice, not the narrator's judgment.
 - Saori's `今まで何度やっても` at `u:0045` asserts a prior pattern of self-harm risk without enumerating cases. Misaki's reply does not prove clinical recovery. Nine singleton Sensei choices; `u:0060` is E009 title.
+
+## V003 C004 E009 delta — route statement under label inversion
+
+- Scene 1 `u:0011` is Saori-tagged but deferential `ます` about the entrance; `u:0012-0014` Hiyori tags contain a more declarative/leader-like warning. `u:0020-0022` and scene 2 `u:0004-0006` similarly invert command/response styles. Preserve group-level content without confident per-person voice assignment.
+- `逃げ出した猟犬` is Saori's self-positioning under Arius pursuit, not a formal class. Hiyori's `大人の力` is her appraisal of an unprinted clash, not an observed Sensei action transcript. One singleton Sensei choice; scene 2 `u:0007` is E010 title.

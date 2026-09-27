@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -911,3 +911,7 @@ Unattributed responders report Seia's convulsions/bleeding, seek Rescue Knights/
 ## V003 C004 E008 institutional delta — reported conditional amnesties
 
 Hiyori reports being offered Arius return for informing on Saori, then says she declined; Misaki and Saori state they were offered forgiveness for killing Sensei, with Saori saying her version differed. These align with Beatrice's E005 claim of a Squad reprieve tactic but do not show an enforceable pardon or universal identical terms. An Arius pursuer is locally stopped as Hiyori is found; Misaki is found on an abandoned bridge. The group commits to reach an Arius entrance by midnight, about ninety minutes by their reckoning, well before the reported dawn rite. No official route clearance, district entry, rescue, hearing or institutional treatment result is printed.
+
+## V003 C004 E009 institutional delta — coded catacomb access
+
+Squad describes roughly 300 known Trinity catacomb entrances, few real entries, periodic internal route change and encrypted route notices. Fleeing Squad no longer gets codes but reports one remaining usable entrance until the date change; this is insider testimony, not surveyed geography, mechanism proof or guaranteed rescue. Arius students confront the group before that entry; later dialogue says the battle went unexpectedly well. No current code, exact entrance, crossing, casualty count or completed access to Arius district is printed.

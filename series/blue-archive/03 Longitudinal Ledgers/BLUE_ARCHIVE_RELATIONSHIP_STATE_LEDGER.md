@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–008; BA:main:003:004:009 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1145,3 +1145,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HIYORI ↔ SENSEI:** she initially fears punishment and a rumored dungeon, then hears Sensei explicitly offer rescue help. Her terror does not establish Sensei's intent.
 - **MISAKI ↔ SAORI/HIYORI:** Misaki's edge-side threat and futility challenge confront Saori's determined rescue response; Misaki agrees to accompany the group. No completed jump, lasting recovery or uncoerced independent enthusiasm is inferred.
 - **SQUAD ↔ SENSEI:** Misaki and Saori acknowledge an amnesty-for-killing-Sensei offer, while Sensei judges they have not acted on it here and remains with them. Conditional trust is not a guarantee.
+
+## V003 C004 E009 relationship delta — travel together under pursuit
+
+- **SQUAD ↔ ARIUS PURSUERS:** two role-labeled pursuers recognize Squad and order combat; the subsequent dialogue treats them as beaten, without printed blow-by-blow or casualty status.
+- **SQUAD ↔ SENSEI:** Sensei asks about the route, then remains with the group through an offscreen clash. Hiyori's “adult power” appraisal suggests help but cannot isolate Sensei's exact causal contribution.
+- **SAORI/MISAKI/HIYORI:** all continue toward the entrance despite unstable individual line labels; E008's immediate alliance persists, not verified district access.
