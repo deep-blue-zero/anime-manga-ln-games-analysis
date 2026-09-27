@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1055,3 +1055,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HOSHINO/SHIROKO/SERIKA/CHINATSU ↔ COALITION:** readiness/support cues precede Hoshino's move order; outcomes absent.
 - **SEIA ↔ SENSEI:** Seia credits Sensei with rejecting a coercive proof question and says she was wrong; this is an intellectual response, not new physical dialogue or Seia's medical recovery.
 - **AZUSA ↔ HIFUMI/SAORI:** no direct change in this unit; E019 contact and duel outcome remain open.
+
+## V003 C003 E022 relationship delta — Saori confronts Azusa's separate path
+
+- **SAORI ↔ AZUSA:** Saori's inward shared-suffering memory turns to a spoken threat to negate Azusa's Trinity experience; Azusa urges surrender and privately resolves not to lose. Their former common life is acknowledged, not reconciled; no final duel result.
+- **HANAKO/KOHARU ↔ AZUSA:** both answer Saori on the validity of Azusa's acquired life, with Koharu anchoring it in the group's pass/effort. This is direct peer defense, not proof they can ensure Azusa's safety.
+- **HIYORI/MISAKI ↔ SAORI:** they address their leader; Hiyori states their means are exhausted and they have lost. No Saori assent or Arius institutional capitulation.
+- **SENSEI/HIFUMI ↔ AZUSA:** no new speech in this short unit; E019 contact remains the last direct relational step.

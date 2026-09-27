@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E021
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E022
 generation: V1
-version: "2.07"
+version: "2.08"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–021 provisionally; 145/310 main units; side-source classes unreviewed; BA:main:003:003:022 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–022 provisionally; 146/310 main units; side-source classes unreviewed; BA:main:003:003:023 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:003:022
+next_unopened_main_unit: BA:main:003:003:023
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:003:022
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C003_E021` provisional boundary, inheriting canonical `MAIN_V003_C002`:
+This index answers four questions at the `MAIN_V003_C003_E022` provisional boundary, inheriting canonical `MAIN_V003_C002`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,9 +61,9 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E021;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E022;
 - current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
-- main-story coverage: `145 / 310` canonical units;
+- main-story coverage: `146 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
 - next unopened main unit: `BA:main:003:003:021`.
@@ -75,17 +75,17 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
 | Sensei | `ANALYZED` through C003 E019; answers Hina's need, inwardly claims rival ETO and supports student dreams | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Seia | `ANALYZED` through C003 E019; proposes Schale/presidential proxy as uncertain ETO mechanism | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Koharu | `ANALYZED` through C003 E018; rejects leaving Azusa alone and joins Hifumi's aid plan | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hanako | `ANALYZED` through C003 E018; affirms Hifumi and joins Azusa-aid plan, no completed rescue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Azusa | `ANALYZED` through C003 E019; Hifumi directly refuses separate worlds; Azusa's acceptance still open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Seia | `ANALYZED` through C003 E021; withdraws forced paradise-proof demand, denies belief is formal proof | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Koharu | `ANALYZED` through C003 E022; invokes certified pass and work against Saori's attempted negation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hanako | `ANALYZED` through C003 E022; directly rejects Saori's ability to erase Azusa's experience | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Azusa | `ANALYZED` through C003 E022; urges Saori to stop, vows renewed struggle, no duel result | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mika | `ANALYZED` through C003 E017; apparent Arius-outreach recollection, doubted war rationale, apology/wishes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sakurako | `ANALYZED` through C003 E002; offers Sisterhood guarantee and declares Azusa's Trinity papers official | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saori | `ANALYZED` through C003 E019; claims infinite Justina/futility, reacts to reported control disruption | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hiyori | `ANALYZED` through C003 E014; estimates Squad absence, encounters traps and cries in pain; status open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Misaki | `ANALYZED` through C003 E014; glosses Atsuko gestures, warns of traps/collapse and reports immobilization | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saori | `ANALYZED` through C003 E022; inward shared-suffering grievance becomes spoken threat to negate Azusa's Trinity experience | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hiyori | `ANALYZED` through C003 E022; assesses Justina degradation and Squad defeat, not independently certified | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Misaki | `ANALYZED` through C003 E022; addresses Saori as leader without a new tactical claim | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Atsuko | `ANALYZED` through C003 E016; shields Saori, injured but nods/survives; protector unknown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Tsurugi | `ANALYZED` through C003 E020; directly present as Hina accepts Justice aid, no medical clearance | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hasumi | `ANALYZED` through C003 E020; offers aid and recalls prior work beside Chinatsu | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -251,17 +251,17 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Knowledge/state clarity | Public/private and relationship breadth | Humor/play coverage | Diagnostic current routes |
 |---|---|---|---|---|
 | Sensei | structural choice/`心の声` distinction persists; C003 E003 hypothetical motives and two-option trust choice do not verify Mika's heart | Hifumi credits local command; Mika reports refused visits; trust is future-facing ethical posture | Care/play, ethical objection, club-protection and responsibility under uncertainty | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019; V002 C2 E002-E003/E009-E012; V003 C002 E007-E019; C003 E001-E003 |
-| Seia | Treaty/paradise frame, E020 prognosis and C003 dream-framed visitor encounter; persistent sleep reported | Addresses possible Azusa in dream-framed past, not proven current waking speech | Prophecy/fatalism claims and `それでも` interpretation remain hers | V003 C001 E001; C002 E018/E020; C003 E001 `scene:001:u:0002-0048` and scene 2 `u:0010-0022` |
-| Koharu | Third official 91/pass after two failures; earlier “stupid” self-description directly countered | Hasumi encouragement/apology relayed; committee return not shown | 100-point pledge not required for success | V003 C001 E002-E011; C002 E006-E019, esp. E019 `scene:001:u:0019-0087` |
-| Hanako | Third official 100/pass, no-withdrawal, and explicit E003 Mika-motive conjecture | Secrecy promise to Mika breached, harm acknowledged; Sisterhood tie remains | Nudity joke is false policy; psychological theory not mind access | V003 C001 E002-E016; C002 E002-E019; C003 E001-E003, esp. E003 `scene:001:u:0081-0198` |
-| Azusa | Third official 97/pass; reports Seia/Mine false-death scheme, Sakurako declares formal status | Saori command by her report; Seia counsel and Hanako/Hifumi support under label caution | `Vanitas`/`それでも` not killer identity; decoy explosion still has cost | V003 C001 E004-E017; C002 E002-E019; C003 E001-E002, esp. E002 `scene:001:u:0001-0038` |
+| Seia | Treaty/paradise frame; E021 retracts forced YES/NO proof demand while denying formal proof | Dream-framed voice not proven physically awake; credits Sensei's interpretation | Prophecy/fatalism and `それでも` claims remain hers | V003 C001 E001; C002 E018/E020; C003 E001 and E021 `scene:002:u:0001-0014` |
+| Koharu | Third official 91/pass; E022 uses certified pass/effort to reject retroactive negation | Peer defense of Azusa; committee return not shown | 100-point pledge not required for success | V003 C001 E002-E011; C002 E006-E019; C003 E022 `scene:001:u:0015` |
+| Hanako | Third official 100/pass, no-withdrawal, and E003 Mika-motive conjecture | E022 directly denies Saori can erase Azusa's acquired life | Nudity joke is false policy; psychological theory not mind access | V003 C001 E002-E016; C002 E002-E019; C003 E001-E003/E022 `scene:001:u:0014` |
+| Azusa | Third official 97/pass; official Trinity status; E022 renewed-struggle resolve, not result | Saori threatens her separate life; Hanako/Koharu defend it | `Vanitas`/`それでも` not killer identity; decoy explosion still has cost | V003 C001 E004-E017; C002 E002-E019; C003 E001-E002/E022 `scene:001:u:0006-0017` |
 | Mika | E017 admission persists; E003 self-accusation/no-lethal-order tension and Hanako challenge | Nagisa/Hanako visits, Sensei visits refused by her report; no repair | Prison banter and self-protective simplification cannot prove full motive | V003 C001 E002-E003/E017; C002 E001/E017-E018/E020; C003 E002-E003, esp. E003 `scene:001:u:0002-0147` |
 | Marie | E002 intermediary, E018 peace invocation; C003 retention appeal and apology | Seeks Sakurako aid to keep Hanako at Trinity | Caring register situated, some adjacent labels uncertain | V003 C002 E002/E018; C003 E001 `scene:002:u:0031-0052` |
 | Hinata | Physically frees Sensei, hypothesizes catacomb entry and identifies old Justina attire | Sensei/Justice/Sisterhood under crisis | Historical visual recognition, not identity proof | V003 C003 E006-E007 `scene:001:u:0075-0094`; `scene:002:u:0005-0009` |
 | Sakurako | Postmortem/Mine account, future help and Azusa's official-paper declaration | Sisterhood guarantee for Azusa, Hanako/Marie/Sensei conference | Formal concern and comedy correction, no private baseline | V003 C002 E018; C003 E001; E002 `scene:001:u:0028-0040` |
-| Saori | E006 commands missile-timed cathedral assault and underground team | Azusa estrangement, named Squad coordination; private GAP | Imperatives secure; “doll”/Atsuko sign content uncertain | V003 C002 E013/E020; C003 E006 `scene:002:u:0038-0065` |
-| Hiyori | Anxiously expects an unnamed painful start | Saori/Misaki and reported princess sign | Stammer/rain aversion from one crisis | V003 C002 E020 `scene:001:u:0018-0028` |
-| Misaki | Says suffering proves life, mediates question | Saori/Hiyori, signer uncertain | Silence/sign representation not stable voice evidence | V003 C002 E020 `scene:001:u:0019-0025` |
+| Saori | E022 inward shared-suffering grievance and direct threat to deny Azusa's Trinity learning | Azusa estrangement and Squad loyalty under reported defeat | Futility rhetoric is motive evidence, not achieved erasure | V003 C002 E013/E020; C003 E006 and E022 `scene:001:u:0007-0013` |
+| Hiyori | E022 reports Justina degradation and no remaining cards; mechanism/outcome unverified | Addresses Saori as leader; shared Squad loss assessment | Stammer/rain aversion from earlier crisis, not whole baseline | V003 C002 E020; C003 E022 `scene:001:u:0002-0005` |
+| Misaki | Says suffering proves life earlier; E022 addresses leader only | Saori/Hiyori, signer uncertain | Silence/sign representation not stable voice evidence | V003 C002 E020; C003 E022 `scene:001:u:0001` |
 | Atsuko | Silent gestures, directly addressed `姫` by Saori | Squad co-presence; autonomous decision unknown | No transcribed sign or ordinary sample | V003 C002 E020 `scene:001:u:0026`; C003 E006 `scene:002:u:0042-0062` |
 | Tsurugi | Checks Hasumi's anger, stays against Arius, while prior hall recognition remains | Sensei/Hasumi/Justice under attack | Quiet command contrasts violent battle cry | V003 C003 E006 `scene:001:u:0010-0026`; E007 `scene:001:u:0083-0107` |
 | Hasumi | Reports Justice combat loss and missing people, chooses evacuation over retaliation | Koharu/committee tie, Tsurugi checks anger | Crisis restraint; no injury diagnosis | V003 C001 E004-E005/E015; C002 E019; C003 E007 `scene:001:u:0082-0107` |
@@ -1218,3 +1218,9 @@ Routing: [V003 C003 E020 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Ako tells Abydos she has analyzed the opponent and will send data, while Ayane recognizes her and Ako greets Ayane by full name. Iori calls it a reunion, Nonomi approves the tone, Chinatsu says support is prepared and Hoshino gives the go cue after Hoshino/Shiroko/Serika signal readiness. These are direct local cross-school planning and relationship cues, not an inspected data packet, proof of analytic accuracy, confirmed receipt or victory. Seia frames the contest as ETO against ETO, contests a forced YES/NO paradise-proof demand, interprets Sensei as declining that demand and says she was mistaken about the story. Her imagined nearby/believed paradise is expressly not formal proof. No empirical paradise, valid ETO authority, completed battle or physical Seia awakening follows from this scene. No new named subject or readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E022 unopened.
 
 Routing: [V003 C003 E021 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E021_DEEP_READING.md) → `BA:main:003:003:021`, two scenes, 26 visible numbered units and no Sensei choices. Coverage is **145 / 310**.
+
+## 117. V003 C003 E022 provisional coverage delta
+
+Hiyori says Justina no longer works properly because of two ETOs, that remaining Saints and Ambrosius leave the Squad no cards, and that they have lost. This is a participant assessment consistent with E019 disruption, not an independently verified mechanism or narrator-certified final outcome. Saori's italic shared-suffering grievance becomes direct speech threatening to negate Azusa's Trinity learning and experience. Hanako denies the possibility, Koharu cites the group's actual exam pass and effort, and Azusa resolves to struggle again even if the world is futile. Their peer defense and Azusa's inward “I won't lose again” do not prove duel victory, reconciliation, medical safety or formal club/Justice disposition. No new named subject or readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E023 unopened.
+
+Routing: [V003 C003 E022 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E022_DEEP_READING.md) → `BA:main:003:003:022`, two scenes, 18 visible numbered units and no Sensei choices; scene 2 is the E023 title card only. Coverage is **146 / 310**.

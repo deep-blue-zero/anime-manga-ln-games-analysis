@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1458,3 +1458,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Ako `分析しました、データをお送りします` promises to send, not evidence the data were received or correct. Her `お久しぶり` to full-name Ayane indicates familiarity without dating the prior contact.
 - Seia `YESかNOかを強いられる` calls the fifth-rule demand coercive; she attributes `答える必要はない` to Sensei rather than quoting a new Sensei choice. `信じることによって、証明` is immediately qualified by `証明でも何でもない`, so do not translate it as formal proof.
 - `私の負け`/`間違っていた` mark Seia's own revision, while `大人は…勝ってしまう` is reflective generalization, not a test of omnipotence. No Sensei choices; scene 2 `u:0015` is E022 title only.
+
+## V003 C003 E022 delta — inner grievance, spoken negation, inner resolve
+
+- Hiyori's `私たちの負けだ` is a participant's defeat assessment following `まともに動作してない`, not a narrator-announced combat result. `ETOが二つ` remains her mechanism account, not a legal ruling.
+- Saori's italic `一緒に苦しんだ` and `お前だけが意味を持つのか` are inward grievance, followed by direct `全て否定してやる`. Preserve the mode shift and prospective verb: the threat has not already erased Azusa's lived history.
+- Koharu's `無かったことにはならない` invokes the group's pass/effort; Azusa's direct `足掻いてみせる` and italic `もう負けない` express intended struggle, not an E022-certified victory. No Sensei choices; scene 2 `u:0001` is E023 title only.

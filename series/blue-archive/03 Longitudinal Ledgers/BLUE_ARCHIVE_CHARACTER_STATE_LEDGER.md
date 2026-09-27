@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E022 character-state delta — Saori's grievance and Azusa's resolve
+
+- **Saori:** after Hiyori's no-cards assessment, she rejects surrender, privately recalls shared suffering and publicly vows to negate Azusa's Trinity learning. This is threatened erasure and grief, not completed harm; `UNMODELED`.
+- **Azusa:** asks Saori to give up, then says she will struggle again even if all seems futile. Her inward “I won't lose again” is resolve, not certified victory or safety; `UNMODELED`.
+- **Hanako/Koharu:** Hanako denies Saori can erase the past; Koharu invokes the narrator-certified group pass and effort as irreducible. Neither speaks an administrative closure order; both `UNMODELED`.
+- **Hiyori/Misaki:** Hiyori assesses Justina failure and Squad defeat, while Misaki only addresses Saori. Assessment is not technical verification; both `UNMODELED`.
+- **Sensei/Hifumi/Seia:** no new direct appearance or speech in this unit; prior boundary remains.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E021 character-state delta — tactical data and Seia's concession
 

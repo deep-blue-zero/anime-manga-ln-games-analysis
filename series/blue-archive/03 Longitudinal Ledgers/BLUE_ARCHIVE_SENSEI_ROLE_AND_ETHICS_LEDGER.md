@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -949,3 +949,7 @@ Sensei has no direct new speech or choice. Hina, Iori, Hasumi, Tsurugi, Chinatsu
 ## V003 C003 E021 delta — credited reframing, no new adult act
 
 Sensei has no new direct speech or action while Ako offers tactical data, Chinatsu readies support and Hoshino cues movement. Seia says Sensei's answer to the fifth old rule is that its forced YES/NO proof need not govern care/action; she concedes that belief is not formal proof. This is her interpretation of an earlier teacher stance, not evidence the adult alone won a battle, caused paradise to exist or lawfully replaced the ETO. Student cooperation remains directly observable. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E022 delta — students defend the record of their own work
+
+Sensei has no printed speech, choice or action. Hanako and Koharu reject Saori's attempt to deny Azusa's Trinity experience, and Azusa vows to keep struggling even under a possible futility premise. Koharu's evidence is the independently certified group pass and effort, not a new adult pronouncement. Hiyori's reported Arius defeat does not prove Sensei's ETO authority or the duel's final outcome. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

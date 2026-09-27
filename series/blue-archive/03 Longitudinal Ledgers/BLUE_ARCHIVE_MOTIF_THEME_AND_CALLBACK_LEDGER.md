@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1213,3 +1213,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Reunion as infrastructure:** Ako and Ayane's recognized familiarity makes cross-school intelligence exchange socially possible, but the data itself remains uninspected.
 - **ETO opposition remains a frame:** Seia names two competing visions, while no new ritual/legal audit resolves either claimant.
 - **The next move:** Chinatsu's readiness and Hoshino's “go” extend E020's coalition movement, without transforming planning into victory.
+
+## V003 C003 E022 motif / callback delta — the irreversibility of lived effort
+
+- **Futility versus persistence:** Saori's `全ては虚しい` returns the vanitas/gray-world claim as an accusation; Azusa does not prove futility false but chooses to struggle despite it.
+- **The passed exam as fact:** Koharu's answer makes E019's certified group pass and work a concrete history Saori cannot retroactively undo, without implying formal club/Justice dispositions are resolved.
+- **Blue sky and differentiated future:** Saori envies Azusa under `青空` after shared suffering; this casts C002 Seia's contingent student futures as contested, not magically equal.
+- **Tactical depletion is not a full ending:** Hiyori's no-cards line narrows Arius options in her view but the duel and E023 underground story remain unopened.
