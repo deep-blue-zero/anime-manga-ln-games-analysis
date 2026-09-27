@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -973,3 +973,7 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## V003 C004 E001 delta — absent adult, coercive sacrifice
 
 Sensei has no printed choice, speech or action. Saori proposes a dangerous delaying stand, and Atsuko chooses to surrender in hope of saving the others. The latter is a real decision under coercion, not proof she consented freely to Beatrice's ritual. Beatrice's immediate violation of her oath shows why an adult/authority's named promise cannot be treated as protective without conduct; her student status/office is not a basis for trusting it. No new adult-role inference, standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E002 delta — leaders assume the postmortem burden
+
+Sensei attends Nagisa/Mine/Sakurako's meeting and has fourteen choice groups, including three two-option convergences. Nagisa takes partial responsibility for earlier harm to the remedial four and wants them outside remaining political conflict; Sakurako says Hanako's bargain ended. Sensei agrees to continue working with the leaders, which is a present commitment rather than completed protection or sole investigative capacity. Nagisa's trust in Mika is hers, not a Sensei command or legal finding. Parenthetical choice lines and inner discomfort are not unseen inquiries. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

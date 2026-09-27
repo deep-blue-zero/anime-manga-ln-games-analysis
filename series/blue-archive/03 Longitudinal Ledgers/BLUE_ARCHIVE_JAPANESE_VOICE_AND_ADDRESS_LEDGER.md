@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1493,3 +1493,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0028` is Saori-tagged but its `サオリ` address/`もういいよ` turn reads Atsuko-like; `u:0039` is Arius-student-A-tagged but asks whether “you'll let everyone go,” likely Atsuko-like. Do not assign either securely. Saori's and Atsuko's other direct lines support their plans without repair.
 - `？？？` self-identifies `私「ベアトリーチェ」` at `u:0047` after a student seeks Madam's confirmation. This prospectively names C004's speaker; it does not rewrite C003 E025's anonymous label within that sealed reading.
 - Beatrice's `お約束` at `u:0047` is contradicted by her `すべて始末なさい` at `u:0062`; the student's `撃て` is an order, not a narrated gunshot. Saori's `何のために……生きているんだ` is italic inward speech. `u:0068` is E002 title only.
+
+## V003 C004 E002 delta — dense institutional label inversion
+
+- `u:0003` gives Mine's self-introduction under a Nagisa tag; `u:0004-0005` duplicate the converged reply to `choice:002`. `u:0006-0008/0015-0020/0035/0045-0046` mix institutional self-reference and other-person address under mismatched tags. Do not claim a stable voice sample or speaker-specific constitutional right from those lines.
+- `u:0096-0104` switches accusation, denial and correction over Azusa's supposed interrogation with obvious self/other address conflicts; `u:0132-0157` similarly inverts Mika-route hypothesis and apology turns. Nagisa's `u:0108-0113/0148-0155/0171-0175` first-person burden, trust and forecast remain comparatively secure.
+- Fourteen Sensei choice groups include two-option `002/006/013` with duplicate convergent printed responses; `choice:005/009/010` are parenthetical inward-style lines, not secret investigations. `退学になると思います` is Nagisa's prediction for tomorrow's hearing, not a final order.

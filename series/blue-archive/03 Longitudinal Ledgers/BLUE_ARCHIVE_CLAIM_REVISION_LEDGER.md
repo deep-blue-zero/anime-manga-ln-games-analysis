@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E001 active provisional; C004 E002 unopened
+current_sequential_boundary: MAIN_V003_C004_E002 active provisional; C004 E003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2144,3 +2144,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, model, frozen prediction or side-source admission. Beatrice adds one narrow `UNMODELED` subject: **21 partial / 62 unmodeled across 83**; backfill **DEFER**. C004 E002 unopened.
+
+## V003 C004 E002 claim delta — incomplete inquiry and a hearing forecast
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Sakurako/Mine/Nagisa continue aftermath analysis, explicitly lacking evidence for Justina hypotheses and Arius location. Nagisa's missile-technology account, Azusa rotating-map report, Seia protection theory and Mika-route suspicion are not equivalent to inspected records or final sanction.
+- **BA-C001/C016 — QUALIFY:** Nagisa acknowledges her share of the remedial four's burden, Sakurako says Hanako's pact is over, and Sensei agrees to stay with leaders. Shielding intent does not certify students' exclusion or institutional remedy.
+- **BA-C008 — STRENGTHEN:** Mine's carer report of worsened Seia health, continued technical unknowns, accusation/rebuttal over Azusa and severe speaker-label inversions require a provenance-by-line reading. Nagisa's choice to trust Mika is not an innocence finding.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 Squad firing-order result still unseen; C004 E003 unopened.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E002 character-state delta — accountable inquiry and trust
+
+- **Nagisa:** hosts postmortem, admits the remedial four bore burdens partly caused by her, wants to keep them out, chooses to trust/defend Mika at tomorrow's hearing and forecasts expulsion. She relays Arius/Seia/Azusa information with acknowledged gaps; `UNMODELED`.
+- **Mine:** directly claims Seia treatment and reports school return with worsened health/room confinement; scrutinizes Tea Party responsibility and worries Azusa was coerced, without proof of interrogation. Early/mid labels invert. `UNMODELED`.
+- **Sakurako:** says Sisterhood handles analysis, does not know all its secrets, considers Hanako pact ended and proposes Saori/Mika as route witnesses. No complete catacomb map or Mika lie proof. `UNMODELED`.
+- **Seia/Mika/Azusa/Hanako:** absent as direct speakers; Seia's health/contract account, Mika's supply record/denial, Azusa's map account and Hanako's released obligation are mediated. Existing readiness unchanged.
+- **Sensei:** fourteen printed choices, three two-option convergences; agrees to continue with leaders and hears Nagisa's forecast. No direct fix/hearing outcome. `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 62 `UNMODELED` across 83**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E001 character-state delta — coerced decision, named betrayer
 

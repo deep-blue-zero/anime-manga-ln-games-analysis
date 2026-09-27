@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1094,3 +1094,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **ATSUKO ↔ BEATRICE:** Atsuko demands a name-bound pledge to spare Squad. Beatrice directly promises then orders their killing, establishing immediate bad faith; ritual and capture outcomes remain pending.
 - **SQUAD ↔ ARIUS PURSUERS:** encirclement and firing order are direct. The `u:0065-0067` ellipses do not establish who was hit or killed.
 - **SENSEI/AZUSA ↔ SQUAD:** no direct interaction in this episode; C003 relationship findings remain prior authority.
+
+## V003 C004 E002 relationship delta — uncomfortable external accountability
+
+- **NAGISA ↔ MINE/SAKURAKO:** Mine presses Tea Party accountability/Seia care and later worries Azusa was interrogated; Sakurako shares inquiry work and counters overreach. Label inversions limit exact turns, but tension and independent oversight are secure.
+- **NAGISA ↔ MIKA:** Nagisa resists route-concealment suspicion, chooses trust and plans a hearing defense; neither Mika's truthfulness nor the hearing result is shown.
+- **NAGISA/SAKURAKO/SENSEI ↔ REMEDIAL FOUR:** Nagisa admits causal responsibility for their burden, Sakurako says Hanako's contract ended, and Sensei agrees to keep working with leaders. The four are absent from this meeting; their consent/response unshown.
+- **MINE ↔ SEIA/AZUSA:** Mine reports treating Seia and defends Azusa from an assumed interrogation, then hears it was voluntary by Nagisa's account. Her care is direct claim, accusation not demonstrated fact.

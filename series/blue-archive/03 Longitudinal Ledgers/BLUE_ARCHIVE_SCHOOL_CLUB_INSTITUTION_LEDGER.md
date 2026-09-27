@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001; BA:main:003:004:002 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–002; BA:main:003:004:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -883,3 +883,7 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## V003 C004 E001 institutional delta — Madam's promise and ritual plan
 
 Arius students encircle Squad and seek Madam's confirmation. Beatrice self-names, promises to release others for Atsuko, orders her masked/uninjured and sets a sunrise ritual, then directs the remainder killed. This reveals a command chain and specific bad-faith order, not a completed capture, ritual, exact royal-blood doctrine or final casualty count. Misaki reports Saori's wound and depleted resources; Saori's halo bomb remains unused. No treaty, ETO or school-status finding changes in this one unit.
+
+## V003 C004 E002 institutional delta — active review, no final orders
+
+Nagisa, Mine and Sakurako meet Sensei for post-Eden information-sharing/cleanup. Sisterhood handles some analysis; Mine claims an old Johannine/Rescue Knight stake in Tea Party affairs, but labels and charter basis are not audited. Mine reports Seia back at school yet worse and confined to her room; Mika remains imprisoned, with a hearing only scheduled for tomorrow. Nagisa wants the remedial four spared further political work, Sakurako says her Hanako agreement ended and Sensei agrees to stay. Justina cause lacks supporting evidence; missile provenance and Arius district remain unknown despite catacomb/ruin clues and changing encrypted maps by Azusa report. Mika's supply record does not prove route knowledge. No trial, verdict, treaty instrument, student exclusion order or Squad-firing outcome is printed.
