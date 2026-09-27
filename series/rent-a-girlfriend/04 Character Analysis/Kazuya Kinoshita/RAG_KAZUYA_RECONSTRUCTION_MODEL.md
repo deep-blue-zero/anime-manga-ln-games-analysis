@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V038."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V039."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -65,14 +65,14 @@ model_basis:
     - RAG-JP-EPUB-V036
     - RAG-JP-EPUB-V037
     - RAG-JP-EPUB-V038
-    - RAG-JP-EPUB-V035
-  admitted_through_volume: V036
+    - RAG-JP-EPUB-V039
+  admitted_through_volume: V039
   narrative_time_boundary: "after the nursery outing, minor household truth and privacy incidents, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V038 narrative evidence is admitted."
+    - "No post-V039 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -2046,3 +2046,7 @@ V037 shows a more reciprocal planning attempt: Kazuya asks Chizuru for preferenc
 ## V038 local validation
 
 V038 turns his itinerary research into an unplanned, real Joypolis preview with Chizuru. The bought shoes and route check show practical commitment, but his simulated perfect date is corrected by her direct request for shared pace, talk and his own preferences. Their lunch is reciprocal and unpaid, yet not the formal May 17 outing. His final fear of having imposed is an inference about her, not her spoken answer (RAG-E-V038-003 through RAG-E-V038-011).
+
+## V039 local validation
+
+V039 directly tests his planned date behavior in a longer unplanned Joypolis visit. He shares costs and games, allows Chizuru to choose activities, and answers her relationship questions. After an unexpected meeting with Mami, he distinguishes an old attachment from his current feeling and plainly says he likes Chizuru. That is an explicit declaration from him, not a reciprocal couple agreement. The final six-day lead-up shows continued preparation and ordinary home companionship while May 17 and May 18 remain ahead (RAG-E-V039-001 through -010).

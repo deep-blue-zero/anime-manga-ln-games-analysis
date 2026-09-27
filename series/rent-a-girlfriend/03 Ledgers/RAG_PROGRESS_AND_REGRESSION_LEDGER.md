@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
 ---
 
 # Progress and regression ledger
@@ -261,3 +261,11 @@ state: CURRENT_THROUGH_V033
 | RAG-PRG-205 | Mami pressure | NEW_PRIVATE_OBSERVATION | Mami asks herself about love and later watches the pair from a cafe. | No contact or interference yet; RAG-E-V038-002, -007. |
 | RAG-PRG-206 | Housing clock | UNCHANGED | May 18 remains ahead; no packing or revised boundary appears. | RAG-PRED-147 not supported; RAG-E-V038-011. |
 | RAG-PRG-207 | Acting world | NEW_OBSERVER_THREAD | Miho's professional disaffection and discomfort with Chizuru enter the record. | No established effect on the date; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-PRG-208 | Reciprocal date practice | PROGRESS | Chizuru chooses games, rides, a romance quiz and conversation. | Preview remains distinct from May 17; RAG-E-V039-001 through -005. |
+| RAG-PRG-209 | Expressed feeling | PROGRESS_WITH_OPEN_RESPONSE | Kazuya plainly says he likes Chizuru after her question about Mami. | No answer or official partnership; RAG-E-V039-009. |
+| RAG-PRG-210 | Mami pressure | DIRECT_CONTACT | Mami probes couple status, denies Hakuba is boyfriend and privately reacts. | No intervention; RAG-E-V039-006 through -008. |
+| RAG-PRG-211 | Time and housing | CLOCK_ADVANCES | Six days remain to May 17 as home companionship continues. | No May 18 move logistics or changed residence; RAG-E-V039-010. |
+| RAG-PRG-212 | Acting world | NO_NEW_CONSEQUENCE | Miho does not carry her V038 tension into a substantive exchange. | RAG-PRED-152 not supported. |

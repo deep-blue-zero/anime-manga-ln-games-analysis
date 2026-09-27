@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; character evidence inspected through V037."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V038
+inspected_through_volume: V039
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -216,6 +216,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E174 | CHI-S040 | RAG-E-V038-001, RAG-E-V038-003 | Private preparation and clothing question | Worries she raised expectations, sees Kazuya shopping and tests outfits while wondering why she wants him to think her cute. | Makes her own anticipatory investment visible. | No purchase or final verdict; RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E175 | CHI-S040 | RAG-E-V038-005, RAG-E-V038-006 | Actual Joypolis encounter | Meets Kazuya at the venue and proposes exploring together. | Moves from unseen observer to active participant. | Preview is not the scheduled date; RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E176 | CHI-S040 | RAG-E-V038-008, RAG-E-V038-009 | Ordinary-date standard and lunch | Asks for shared pace and talk, invites Kazuya's preferences, and proposes paying later for ice cream. | Articulates reciprocity in direct speech. | No relationship answer or later ice cream is shown; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E177 | CHI-S040 | RAG-E-V039-001 through RAG-E-V039-004 | Playful choices | Proposes entry and photo, selects rides and a romance compatibility category. | Exercises ordinary-date agency and tests proximity. | A 90% fortune is not a feeling verdict; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E178 | CHI-S040 | RAG-E-V039-005 | Loneliness and support | Asks whether Kazuya has a girlfriend, explains solitary action, and credits his prior help. | Joins personal inquiry to an acting analogy. | Her gratitude is not a request that he decide for her; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E179 | CHI-S040 | RAG-E-V039-009 | Mami question and confession | Asks whether Kazuya still likes Mami and hears him say he likes Chizuru. | Learns his present stance in plain words. | She neither accepts nor rejects; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E180 | CHI-S040 | RAG-E-V039-010 | Shibuya disclosure and evening invitation | Reveals her earlier shopping sighting and asks him to watch a drama at home. | Closes a private information gap and authors more ordinary time. | May 17 and May 18 remain open; RAG-CHI-R016, RAG-CHI-R024. |
 
 ## State-change summary
 

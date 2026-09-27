@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
 ---
 
 # Directed relationship state ledger
@@ -258,3 +258,10 @@ state: CURRENT_THROUGH_V033
 | RAG-REL-202 | Chizuru ↔ Kazuya | Reciprocal choice under test | Chizuru asks him to bring his own tastes and share pace; she offers a later ice-cream purchase. | Reduces pure escort/client framing. | No couple declaration or later ice cream shown; RAG-E-V038-008, -009. |
 | RAG-REL-203 | Mami ↔ principals | Silent third-party observer | Mami sees the pair together from a cafe. | Her information changes without theirs changing. | No approach or effect yet; RAG-E-V038-007. |
 | RAG-REL-204 | Miho ↔ Chizuru | Acting-world peer, tension emerging | Miho voices private cynicism and seems unsettled near Chizuru. | Adds a distinct professional comparison. | No specific conflict is settled; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-REL-205 | Chizuru ↔ Kazuya | Unpaid pre-date companions | Voluntary Joypolis play, shared fear and direct questions extend the preview. | Both test an ordinary date's reciprocity. | No May 17 execution; RAG-E-V039-001 through -005. |
+| RAG-REL-206 | Chizuru ↔ Kazuya | His love explicit, her inquiry open | He says directly that he likes her; she indicates awareness without accepting or rejecting. | Their information is less asymmetric. | No couple declaration; RAG-E-V039-009. |
+| RAG-REL-207 | Mami ↔ Kazuya | Exes in direct contact | She probes his status with Chizuru and denies Hakuba is her boyfriend. | Their talk complicates his prior attachment. | No demonstrated reconciliation or obstruction; RAG-E-V039-006 through -008. |
+| RAG-REL-208 | Chizuru ↔ Kazuya | Housemates sharing optional leisure | She invites him to watch a drama at home. | Everyday closeness continues before the date. | Housing deadline and inquiry unchanged; RAG-E-V039-010. |

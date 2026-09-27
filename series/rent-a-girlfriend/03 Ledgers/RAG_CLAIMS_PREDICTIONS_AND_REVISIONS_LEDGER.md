@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.43"
+version: "1.44"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038 inspected and closed; V039 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039 inspected and closed; V040 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -780,3 +780,23 @@ These tests were written after V038 was closed and before inspecting any V039 na
 | RAG-PRED-150 | Chizuru's ordinary-date inquiry gains a further self-authored observation or action rather than only Kazuya's interpretation. | RAG-E-V038-003, -008 | She has no further direct response. |
 | RAG-PRED-151 | Mami's sighting of the pair yields a subsequent private decision, contact or action. | RAG-E-V038-002, -007 | Mami does not recur or act. |
 | RAG-PRED-152 | Miho's acting-world tension becomes a specific exchange or consequential workplace act involving Chizuru. | RAG-E-V038-010 | No further Miho/Chizuru interaction occurs. |
+
+## Adjudicated predictions from the V038 boundary
+
+| Prediction ID | Adjudication | V039 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-149 | SUPPORTED | The Joypolis preview continues through shared activities and a direct cafe conversation; the last chapter renews formal-date preparation; RAG-E-V039-001 through -005, -010. | The May 17 date is still future. |
+| RAG-PRED-150 | SUPPORTED | Chizuru chooses rides and the romance category, asks about girlfriend and Mami, and offers home television; RAG-E-V039-001 through -005, -009, -010. | No final answer to her inquiry. |
+| RAG-PRED-151 | SUPPORTED | Mami meets Kazuya, probes couple status, clarifies Hakuba is not her boyfriend, and privately reflects; RAG-E-V039-006 through -008. | She does not obstruct the scheduled date. |
+| RAG-PRED-152 | NOT SUPPORTED | No consequential Miho/Chizuru exchange or workplace act appears. | Do not recast unrelated scenes as Miho action. |
+
+## Frozen predictions for V040
+
+These tests were written after V039 was closed and before inspecting any V040 narrative image. They use only the V039 boundary.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-153 | The six-day lead-up yields a concrete preparation, exchange, or choice about the May 17 date, potentially its execution. | RAG-E-V039-009, -010 | V040 has no new date-related action or discussion. |
+| RAG-PRED-154 | Chizuru responds through her own direct speech or action to Kazuya's plain confession or their ordinary shared time. | RAG-E-V039-009, -010 | She has no response or self-authored choice relating to him. |
+| RAG-PRED-155 | Mami's Hakuba clarification and question about Kazuya's status yield further private reflection, contact, or decision. | RAG-E-V039-006 through -008 | Mami has no subsequent meaningful appearance or action. |
+| RAG-PRED-156 | The approaching May 18 housing deadline produces an explicit logistical action, boundary statement, or revised residence plan. | RAG-E-V036-006, RAG-E-V039-010 | The housing deadline remains only background. |

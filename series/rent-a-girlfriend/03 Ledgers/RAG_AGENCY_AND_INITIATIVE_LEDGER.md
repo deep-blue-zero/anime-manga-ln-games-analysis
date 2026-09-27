@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
 ---
 
 # Agency and initiative ledger
@@ -291,3 +291,11 @@ state: CURRENT_THROUGH_V033
 | RAG-AGY-235 | Chizuru and Kazuya | Turn a route check into joint exploration. | She meets him at Joypolis and suggests they go inside; they play and select lunch. | A real preview tests the planned venue and their shared tempo. | This is not the scheduled May 17 date; RAG-E-V038-005, -006, -008. |
 | RAG-AGY-236 | Chizuru | Specify her ordinary-date terms. | Urges mutual pace, conversation and Kazuya's own choices; offers to buy ice cream after lunch. | Moves from being escorted to reciprocal participation. | No final love answer or completed ice cream shown; RAG-E-V038-008, -009. |
 | RAG-AGY-237 | Mami and Miho | Observe or interpret the principals from outside. | Mami silently sees the pair; Miho privately assesses acting-world sociability. | New external viewpoints arise. | Neither contacts or changes the date; RAG-E-V038-007, -010. |
+
+## V039 close additions
+
+| RAG-AGY-238 | Chizuru | Choose an activity and shared image. | Proposes entry, wins a claw prize and initiates the photo booth. | Makes the preview her experience too. | Neither the photo nor play settles her inquiry; RAG-E-V039-001. |
+| RAG-AGY-239 | Chizuru | Test attraction in a playful setting. | Selects Wild Wing and changes the compatibility category to romance. | Direct choice displaces Kazuya's safer friend framing. | A fortune score is not a declaration; RAG-E-V039-002 through -004. |
+| RAG-AGY-240 | Chizuru and Kazuya | State rather than guess. | She asks about his girlfriend and Mami; he directly says he likes her. | Their known information becomes more explicit. | She gives no final reply; RAG-E-V039-005, -009. |
+| RAG-AGY-241 | Mami | Clarify and probe at an unexpected meeting. | Asks if Kazuya and Chizuru are dating and says Hakuba is not her boyfriend. | Contact replaces silent observation. | No date obstruction; RAG-E-V039-006 through -008. |
+| RAG-AGY-242 | Chizuru | Offer ordinary time at home. | Reveals her Shibuya sighting and invites Kazuya to watch a drama. | Voluntary companionship continues before May 17. | No relationship verdict; RAG-E-V039-010. |

@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V038."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V039."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -65,13 +65,14 @@ model_basis:
     - RAG-JP-EPUB-V036
     - RAG-JP-EPUB-V037
     - RAG-JP-EPUB-V038
-  admitted_through_volume: V036
+    - RAG-JP-EPUB-V039
+  admitted_through_volume: V039
   narrative_time_boundary: "after the nursery outing, her household honesty request, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V038 narrative evidence is admitted."
+    - "No post-V039 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru has directly explained the silence and operationalized inquiry, but its result and any final mutual classification remain unavailable."
 coverage:
@@ -2025,3 +2026,7 @@ V037 gives Chizuru direct control of date terms: she tells Mini that feeling can
 ## V038 local validation
 
 V038 gives Chizuru an independent clothing dilemma, voluntary presence at Joypolis and unusually clear advice about what an ordinary date requires. She wants to be thought cute, but does not translate that private wish into a verdict. With Kazuya she asks for walking pace, conversation and mutual choices, then offers a reciprocal lunch/ice-cream payment arrangement. These are direct choices within an open inquiry (RAG-E-V038-003, -005, -008, -009).
+
+## V039 local validation
+
+V039 shows repeated self-authored choices within the unplanned Joypolis visit: photo, rides, romance-category fortune, direct questions about Kazuya's girlfriend and Mami, and later television at home. She says support helps an actor while the individual still must act. She hears Kazuya's plain statement that he likes her and indicates awareness, but offers no final answer. A playful 90% compatibility result is not her romantic classification. She also reveals that she saw him shopping, closing a prior information asymmetry (RAG-E-V039-001 through -005, -009, -010).

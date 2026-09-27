@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
 ---
 
 # Information and deception ledger
@@ -269,3 +269,11 @@ state: CURRENT_THROUGH_V033
 | RAG-INF-213 | Chizuru says an ordinary date needs reciprocal pace, conversation and choice. | Kazuya hears her directly at Joypolis and lunch. | Explicit speech corrects his inferred success score. | Advice is not a final relationship verdict; RAG-E-V038-008, RAG-E-V038-009. |
 | RAG-INF-214 | Mami privately questions her feelings and silently sees Kazuya with Chizuru. | Mami gains an observation; neither principal knows she watched. | Adds a third-party information asymmetry. | No proven plan, contact or intervention; RAG-E-V038-002, RAG-E-V038-007. |
 | RAG-INF-215 | Miho's severe acting-world thoughts are given to the reader. | Miho's viewpoint is not shared with Chizuru or Kazuya. | Introduces professional-world uncertainty. | Do not impute her claims to Chizuru; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-INF-216 | A compatibility activity prints 78% friendship and 90% romance after Chizuru selects romance. | Both see the result; Chizuru alone controls her hidden input. | The game prompts shared attention to romance. | The output is in-story fortune, not objective knowledge; RAG-E-V039-004. |
+| RAG-INF-217 | Chizuru asks whether Kazuya has a girlfriend; he says no. | Both hear a direct current-status answer. | Clears a basic factual question in their date inquiry. | Being single does not decide their status; RAG-E-V039-005. |
+| RAG-INF-218 | Mami asks about Chizuru and Kazuya; Kazuya describes a planned date without official status; Mami denies Hakuba is her boyfriend. | Each gains information directly, with gaps about motive and feeling. | V038's one-sided observation becomes dialogue. | Do not infer a complete relationship history; RAG-E-V039-006, -007. |
+| RAG-INF-219 | Chizuru asks if Kazuya still likes Mami; he says the old feeling changed and states that he likes Chizuru. | His present attachment becomes explicit to her. | Reduces ambiguity about his side of the inquiry. | She gives no reciprocal verdict; RAG-E-V039-009. |
+| RAG-INF-220 | Chizuru tells Kazuya she had seen him shopping in Shibuya. | He learns of her previously covert observation. | One information asymmetry from V038 closes. | Her motive for watching is not fully confessed; RAG-E-V039-010. |

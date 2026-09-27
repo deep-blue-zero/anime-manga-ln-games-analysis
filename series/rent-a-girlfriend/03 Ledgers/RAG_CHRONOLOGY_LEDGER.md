@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
 ---
 
 # Chronology ledger
@@ -224,3 +224,9 @@ state: CURRENT_THROUGH_V033
 | RAG-CHR-168 | RAG-E-V038-004 through RAG-E-V038-006 | Kazuya checks the Odaiba route, encounters Chizuru and explores Joypolis with her. | An actual pre-date preview is completed. | Imagined future-date panels are not present action. |
 | RAG-CHR-169 | RAG-E-V038-007 through RAG-E-V038-009 | Mami sees the pair; the principals choose and eat lunch while discussing date method and payment. | Mami now has an observation unknown to them. | No contact or later ice cream confirmed. |
 | RAG-CHR-170 | RAG-E-V038-010, RAG-E-V038-011 | Miho's acting-world interiority and Kazuya's final concern close the volume. | Formal date and move still future. | Miho's thoughts are her own; no housing event. |
+
+## V039 close additions
+
+| RAG-CHR-171 | RAG-E-V039-001 through RAG-E-V039-005 | The unplanned Joypolis preview proceeds through tickets, games, attractions and direct discussion. | Remains before May 17. | Its exact calendar day is not fixed here. |
+| RAG-CHR-172 | RAG-E-V039-006 through RAG-E-V039-009 | The pair meet Mami with Hakuba; Kazuya and Chizuru later discuss Mami and he confesses plainly. | No official couple status follows. | Do not infer Hakuba's status from accompanying Mami. |
+| RAG-CHR-173 | RAG-E-V039-010 | The final chapter marks six days before May 17; clothing preparation and shared television follow. | May 17 date and May 18 move remain ahead. | Calendar anchor need not date every earlier preview scene. |

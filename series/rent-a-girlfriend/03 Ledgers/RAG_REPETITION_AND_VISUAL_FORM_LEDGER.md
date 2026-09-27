@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
 ---
 
 # Repetition and visual form ledger
@@ -261,3 +261,11 @@ state: CURRENT_THROUGH_V033
 | RAG-FRM-205 | Retro arcade, mall signage, food menus and bill make choices concrete. | Ordinary objects expose the limits of an optimized itinerary. | Chizuru repeatedly speaks and acts on preference. | A menu option is not an agreed future stop; RAG-E-V038-006, -008, -009. |
 | RAG-FRM-206 | Mami is shown watching across cafe space. | Spatial separation makes her new knowledge visible. | Principals do not address her. | No intervention follows; RAG-E-V038-007. |
 | RAG-FRM-207 | Miho's first-person text overlays the theater, away from the mall sequence. | Separates a new professional worldview from Chizuru's date speech. | Miho self-identifies and narrates her own thoughts. | Her cynicism is not the text's omniscient verdict; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-FRM-208 | The photo booth turns an awkward close pose into a tangible image. | Physical proximity is playful yet uncomfortable for Kazuya. | Chizuru directly initiates the activity. | A photograph is no couple-status proof; RAG-E-V039-001. |
+| RAG-FRM-209 | Ride spectacle alternates with wait lines and quiet conversation. | The experience disrupts Kazuya's ideal score while opening interaction. | Fear, enjoyment and the cafe exchange are shown. | Do not assign his interior anxiety to Chizuru; RAG-E-V039-002, -003, -005. |
+| RAG-FRM-210 | Oversized fortune percentages follow Chizuru's partly hidden input. | The game externalizes romance as playful data. | Both see 78% and 90%; input remains hers. | Fortune is not evidence of actual probability; RAG-E-V039-004. |
+| RAG-FRM-211 | Mami's abrupt appearance breaks the Joypolis sequence. | Third-party contact interrupts private play. | Her direct question replaces silent watching. | The scene does not itself change the formal date; RAG-E-V039-006 through -008. |
+| RAG-FRM-212 | A plain confession and later household television displace spectacle. | Direct words and ordinary time carry more evidence than ride results. | Both scenes are present action. | No final response follows; RAG-E-V039-009, -010. |

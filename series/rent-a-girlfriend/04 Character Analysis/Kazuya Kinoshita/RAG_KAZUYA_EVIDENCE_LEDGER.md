@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; character evidence inspected through V037."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; character evidence inspected through V037."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V038
+inspected_through_volume: V039
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -220,6 +220,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E180 | KAZ-S040 | RAG-E-V038-005, RAG-E-V038-006 | Unplanned shared preview | Encounters Chizuru during the check and explores Joypolis with her. | Gains firsthand feedback beyond simulated planning. | This is not May 17's date; RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E181 | KAZ-S040 | RAG-E-V038-008, RAG-E-V038-009 | Listening at lunch | Hears Chizuru ask for mutual pace, conversation and his own preferences; negotiates food and payment. | Starts to understand reciprocity beyond a flawless escort. | Her advice is not a love verdict; RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E182 | KAZ-S040 | RAG-E-V038-011 | Concern at close | Notices her preparation and worries he may have imposed by inviting her. | Respectful restraint coexists with self-doubt. | His inference is not Chizuru's stated reluctance; RAG-KAZ-R003. |
+| RAG-KAZ-E183 | KAZ-S040 | RAG-E-V039-001 through RAG-E-V039-004 | Improvised Joypolis play | Shares tickets, games, photo and rides; his scripted expectations give way to fear and her choices. | Experiences reciprocal activity rather than simply escorting. | Fortune results and physical reflex do not prove her feelings; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E184 | KAZ-S040 | RAG-E-V039-005 | Direct status answer and support | Tells Chizuru he has no girlfriend and hears her recognize his earlier support. | Gains direct information about her valuation of his help. | Recognition is not an inquiry verdict; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E185 | KAZ-S040 | RAG-E-V039-006 through RAG-E-V039-009 | Mami encounter and confession | Says a date is planned but he and Chizuru are not official; later distinguishes old Mami feeling and plainly says he likes Chizuru. | His present commitment is communicated without claiming her agreement. | She gives no acceptance; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E186 | KAZ-S040 | RAG-E-V039-010 | Remaining days | Prepares clothing, learns she saw him shopping, and accepts shared television time. | Maintains ordinary contact while awaiting the date. | Formal date and housing move remain future; RAG-KAZ-R003. |
 
 ## State-change summary
 

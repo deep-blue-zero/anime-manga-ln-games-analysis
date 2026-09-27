@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V038; inspected and closed through V038."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V039; inspected and closed through V039."
 ---
 
 # Transaction and intimacy ledger
@@ -239,3 +239,10 @@ state: CURRENT_THROUGH_V033
 | RAG-TXN-183 | Pre-date Joypolis preview | Chizuru and Kazuya enter together after an accidental meeting. | Shared amusement occurs outside rental-work terms. | It is not the scheduled date and implies no final status. | RAG-E-V038-005, -006. |
 | RAG-TXN-184 | Joint lunch and bill | They choose a cafe meal; Chizuru says the invited party may pay her own share and suggests buying later ice cream if he pays. | Explicit reciprocity interrupts client/escort assumptions. | No later ice-cream purchase is shown. | RAG-E-V038-008, -009. |
 | RAG-TXN-185 | Chizuru's ordinary-date advice | She asks Kazuya to bring his own preferences, share pace and allow conversation. | Intimacy is approached through negotiated attention. | Her guidance is not romantic or sexual consent. | RAG-E-V038-008, -009. |
+
+## V039 close additions
+
+| RAG-TXN-186 | Joypolis tickets and games | They split admission and voluntarily play together. | Explicit cost sharing keeps the preview outside rental terms. | It is not the May 17 date; RAG-E-V039-001. |
+| RAG-TXN-187 | Photo, rides and compatibility fortune | Chizuru initiates activities including romance-category play. | Affectionate attention can be explored without a rental script. | No implied romantic or sexual consent; RAG-E-V039-001 through -004. |
+| RAG-TXN-188 | Direct confession | Kazuya says he likes Chizuru after she asks about Mami. | His intention becomes explicit rather than purchased or inferred. | She gives no partnership agreement; RAG-E-V039-009. |
+| RAG-TXN-189 | Shared home television | Chizuru invites him to spend optional evening time together. | Ordinary intimacy continues in cohabitation. | It does not cancel the May 18 move; RAG-E-V039-010. |
