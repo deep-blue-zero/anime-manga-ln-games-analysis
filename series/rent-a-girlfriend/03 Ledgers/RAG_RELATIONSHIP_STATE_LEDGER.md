@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
 ---
 
 # Directed relationship state ledger
@@ -227,3 +227,11 @@ state: CURRENT_THROUGH_V033
 | RAG-REL-183 | Chizuru ↔ Kazuya | Temporary housemates with a date proposal redirected by an older obligation | Chizuru joins his nursery visit, sees his care, helps a child, and says she enjoyed the day. | Voluntary two-person time reaches a family/work context. | The aquarium date, inquiry verdict, and mutual partnership remain unshown; RAG-E-V034-001 through RAG-E-V034-005. |
 | RAG-REL-184 | Harumi ↔ Kazuya and Chizuru | Mother and nursery worker receiving her son's housemate | Harumi welcomes Chizuru and gives a specific positive account of Kazuya's conduct with children. | Chizuru hears family testimony in the same setting as observable behavior. | Maternal approval cannot certify Chizuru's feeling or the couple status; RAG-E-V034-002 through RAG-E-V034-005. |
 | RAG-REL-185 | Chizuru ↔ Kazuya ↔ Mini | Three temporary housemates navigating shared use | Soap and laundry incidents expose truth and privacy friction; Mini later organizes a shared television/game evening. | Ordinary living together continues with local boundary corrections. | Game cards and household familiarity do not confer sexual access or relationship status; RAG-E-V034-007 through RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-REL-186 | Chizuru ↔ Kazuya / Mini | Housemates finishing a themed group game | Cards are ordered; Chizuru clarifies that a 100-point extravagant proposal is an example, not her requirement. | A potentially misleading romantic prompt receives a direct limit. | The loved person remains unidentified; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-REL-187 | Chizuru ↔ Kibe | Kazuya's friend consulted by Chizuru | She asks what Kazuya is like; he describes loyal care and asks whether she likes him. | The inquiry expands to an external friendship witness. | His question is not answered aloud and his knowledge remains incomplete; RAG-E-V035-003, RAG-E-V035-004. |
+| RAG-REL-188 | Chizuru ↔ Kazuya | Temporary housemates with local illness-care trust | She discloses difficult menstrual days, permits him into her room, eats his meal, requests a sweet, and thanks him. | Unpriced care and first-person bodily disclosure increase ordinary trust. | No permanent room access or truthful couple status is established; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-REL-189 | Chizuru ↔ Nagomi | Rental provider and family elder with partial truth | Nagomi books Chizuru, apologizes for professional judgment, and voices a bridal hope. | Their relation gains a paid but personally consequential outing. | Nagomi still assumes a genuine couple; Chizuru has not promised marriage; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-REL-190 | Sumi → Chizuru / Nagomi | Distant observer | Sumi sees the women at the arcade. | Possible future contact context is visually seeded. | No interaction or informed conclusion is shown; RAG-E-V035-011. |

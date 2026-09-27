@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V034, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V035, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -49,13 +49,14 @@ model_basis:
     - RAG-JP-EPUB-V032
     - RAG-JP-EPUB-V033
     - RAG-JP-EPUB-V034
-  admitted_through_volume: V034
+    - RAG-JP-EPUB-V035
+  admitted_through_volume: V035
   narrative_time_boundary: "after a laundry interruption and a newly proposed three-person card game"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
   model_revision: "1.8"
   prior_knowledge_limitations:
-    - "No post-V034 narrative evidence is admitted."
+    - "No post-V035 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
@@ -534,3 +535,7 @@ V032 supplies a directly requested testimony instance: Mini answers Chizuru's qu
 V033 gives another mixed test. Mini turns her belated birthday into a Twister game framed as romantic rehearsal and secures a three-person photo; after secretly hearing Umi's confession, she urges Kazuya to act rather than assume defeat (RAG-E-V033-002 through RAG-E-V033-004, RAG-E-V033-006 through RAG-E-V033-009). Her intervention pattern and capacity to comfort recur, but neither the game nor her rival analysis certifies Chizuru's feeling. Readiness remains PARTIAL_MODEL, with confidentiality and restraint under a firm stop still underobserved.
 
 V034 repeats Mini's habit of making shared-house moments into socially charged tests. She arrives during an awkward laundry discovery with her own forgotten clothes and teases the principals; later she organizes a television evening and `ito` with a romantic-partner prompt (RAG-E-V034-008 through RAG-E-V034-010). These actions show initiative and familiarity with group play, not a proven plan behind the laundry timing or reliable insight into Chizuru's answer. Readiness remains PARTIAL_MODEL; the unresolved game and lack of a firm stop request cannot validate her interpretive authority or restraint.
+
+## V035 local validation
+
+V035 continues Mini's pattern of turning group and household moments into prompts for the principals. She reads Chizuru's game answer as a possible clue and teases Kazuya during and after the care episode, but Chizuru herself grants room access and defines her own needs (RAG-E-V035-001, RAG-E-V035-002, RAG-E-V035-006, RAG-E-V035-008). This supports initiative and imperfect calibration, not interpretive authority or a new readiness grade.

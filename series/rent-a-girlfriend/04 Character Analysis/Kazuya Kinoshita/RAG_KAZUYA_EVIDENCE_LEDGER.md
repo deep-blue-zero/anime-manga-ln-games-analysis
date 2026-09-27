@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; character evidence inspected through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; character evidence inspected through V034."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V034
+inspected_through_volume: V035
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -205,6 +205,9 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E165 | KAZ-S036 | RAG-E-V034-006, RAG-E-V034-007 | Domestic idealization and minor lie | Imagines married life during breakfast and falsely claims to use shared body soap before admitting the fact under Chizuru's questioning. | His wish for favorable appraisal can still generate avoidant falsehood over a trivial matter. | The correction is reactive and the imagined marriage is not shared speech; RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E166 | KAZ-S036 | RAG-E-V034-008 | Accidental privacy breach and partial disclosure | Opens the communal washer, sees intimate garments, panics, tries to explain, and is interrupted by Mini's own laundry admission. | A concrete privacy problem exposes his shame and imperfect attempt at candor. | The encounter is not shown as intentional searching, and his relief does not prove full disclosure; RAG-KAZ-R003, RAG-KAZ-R005. |
 | RAG-KAZ-E167 | KAZ-S036 | RAG-E-V034-009, RAG-E-V034-010 | Shared game and self-scoring | Joins Mini's `ito` game, draws 56, and privately treats the number as an analogue of his modest self-worth. | Repeats anxious quantification despite Chizuru's stated need for honesty. | A randomized card does not measure his value or her opinion; RAG-KAZ-R002, RAG-KAZ-R024. |
+| RAG-KAZ-E168 | KAZ-S037 | RAG-E-V035-001 through RAG-E-V035-003 | Game interpretation and housing forecast | Interprets his 56 card through self-worth, listens to Chizuru distinguish a 100-point proposal from her own desire, and tentatively names the following month's 18th or 19th for moving. | His anxious comparison continues even after her spoken qualifier. | The number is random, her loved person's identity unstated, and the exit date tentative; RAG-KAZ-R002, RAG-KAZ-R024. |
+| RAG-KAZ-E169 | KAZ-S037 | RAG-E-V035-005 through RAG-E-V035-007 | Bounded physical care | Misidentifies Chizuru's discomfort at first, then buys supplies, cooks a meal, enters only when she permits it, and offers future help. | Practical care becomes possible without purchase or public performance. | Internet assumptions and indirect questioning still hamper calibration; room access and gratitude do not grant bodily or romantic access; RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R024. |
+| RAG-KAZ-E170 | KAZ-S037 | RAG-E-V035-008, RAG-E-V035-012 | Care acknowledgment and received family fact | Tells Chizuru he wanted to help and later hears that Nagomi rented her. | Receives a new fact bearing on the shared family deception. | No correction to Nagomi or completed relationship discussion is shown; RAG-KAZ-R003, RAG-KAZ-R024. |
 
 ## State-change summary
 

@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
 ---
 
 # Chronology ledger
@@ -195,3 +195,10 @@ state: CURRENT_THROUGH_V033
 | RAG-CHR-151 | RAG-E-V034-001 through RAG-E-V034-005 | The childcare commitment redirects the proposed date to Harumi's nursery; Chizuru volunteers to join, watches Kazuya work, comforts a child, and hears Harumi's appraisal. | This is the next shared outing after the family call. | The exact date and a later aquarium outing are not established. |
 | RAG-CHR-152 | RAG-E-V034-006 through RAG-E-V034-008 | Later household breakfast, a rainy-evening soap conversation, and a separate laundry accident occur during continuing cohabitation. | The presented scenes progress from routine to two privacy/truth incidents. | Their exact dates and intervals are unstated. |
 | RAG-CHR-153 | RAG-E-V034-009, RAG-E-V034-010 | Mini proposes a shared television evening and then a game of `ito`; the romantic-partner theme and number cards appear before the chapter cut. | Game rules precede the visible cards and Chizuru's silent reaction. | The ordering result and her stated interpretation are deferred. |
+
+## V035 close additions
+
+| RAG-CHR-154 | RAG-E-V035-001, RAG-E-V035-002 | The `ito` game resolves; Chizuru asks about the move day and Kazuya tentatively estimates next month's 18th or 19th. | The estimate follows the prior May 13 plan and may represent a changed expectation. | No fixed reschedule or actual exit is shown. |
+| RAG-CHR-155 | RAG-E-V035-003, RAG-E-V035-004 | On April 27 Chizuru asks Kibe for a private appraisal of Kazuya; Kibe asks about her feeling but receives no stated answer. | A dated external consultation follows the card game. | The precise duration of the cafe exchange is not material. |
+| RAG-CHR-156 | RAG-E-V035-005 through RAG-E-V035-008 | During a following two-day menstrual-pain episode, Kazuya buys supplies, cooks, enters by permission, and Chizuru asks for a childhood sweet before resting; they discuss it the next morning. | The care episode spans a night and morning. | Exact calendar date is not printed in the cited sequence. |
+| RAG-CHR-157 | RAG-E-V035-009 through RAG-E-V035-012 | Chizuru later performs rental work for Nagomi in Shinjuku; Sumi sees the pair at an arcade; Chizuru then tells Kazuya of the booking. | Paid outing, silent sighting, and household disclosure occur in that order. | No full relationship correction occurs before the V035 cut. |

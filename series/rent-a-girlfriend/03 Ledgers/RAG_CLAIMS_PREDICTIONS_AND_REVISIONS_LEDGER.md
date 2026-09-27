@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.39"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034 inspected and closed; V035 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035 inspected and closed; V036 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -700,3 +700,23 @@ These tests are written after V034 was closed and before inspecting any V035 nar
 - How will the operating one-month household respond to privacy, cost, and exit decisions, and when will Ruka receive an accurate account of Kazuya's residence?
 - Will Chizuru's April 19 no-present request permit any chosen acknowledgment, and how will she respond if Kazuya attempts one?
 - Why did Mami renew contact, and what did she make of Kazuya's apology?
+
+## Adjudicated predictions from the V034 boundary
+
+| Prediction ID | Adjudication | V035 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-133 | SUPPORTED | The group completes the `ito` round and Chizuru explicitly qualifies her 100-point proposal example; RAG-E-V035-001, RAG-E-V035-002. | A random number is not her Kazuya rating or personal demand. |
+| RAG-PRED-134 | SUPPORTED, shifted situation | Chizuru directly names a private bodily condition, negotiates care, and later recognizes the uncorrected family dating lie; RAG-E-V035-005 through RAG-E-V035-008, RAG-E-V035-010 through RAG-E-V035-012. | There is no final romantic truth confession or full family correction. |
+| RAG-PRED-135 | DISCONFIRMED IN V035 | No substantive childcare or nursery reference appears in V035. | Kibe's separate character testimony cannot be backdated to the nursery. |
+| RAG-PRED-136 | SUPPORTED | Chizuru asks about the move day; Kazuya tentatively estimates a later date; she later permits bounded room entry during menstrual pain; RAG-E-V035-002, RAG-E-V035-005 through RAG-E-V035-007. | Neither a fixed move reschedule nor the aquarium outing occurs. |
+
+## Frozen predictions for V036
+
+These tests were written after V035 was closed and before inspecting any V036 narrative image. They use only the V035 boundary and carry no claim about V036's cover, contents, preview, or later events.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-137 | Chizuru's disclosure that Nagomi rented her produces a direct conversation, question, family-truth decision, changed contact, or explicitly stated deferral with Kazuya. | RAG-E-V035-010 through RAG-E-V035-012 | V036 gives no further consequence of the booking disclosure. |
+| RAG-PRED-138 | Nagomi's apology and still-present bridal expectation produce a further reflection, response, correction attempt, or contact involving Chizuru or the Kinoshita family. | RAG-E-V035-011, RAG-E-V035-012 | V036 supplies no observable consequence of Nagomi's revised but incomplete understanding. |
+| RAG-PRED-139 | Sumi's silent arcade sighting produces a direct meeting, message, question, decision to withhold, or observable consequence for her information state. | RAG-E-V035-011 | V036 leaves Sumi's sighting without an observable consequence. |
+| RAG-PRED-140 | The ongoing inquiry and tentative later move estimate produce a practical date, residence, work, or relationship-status question, choice, or stated boundary. | RAG-E-V035-002, RAG-E-V035-004, RAG-E-V035-008, RAG-E-V035-009 | V036 contains no observable consequence for the inquiry, work, or housing horizon. |

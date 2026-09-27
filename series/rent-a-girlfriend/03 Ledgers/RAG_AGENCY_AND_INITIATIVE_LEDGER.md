@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
 ---
 
 # Agency and initiative ledger
@@ -259,3 +259,11 @@ state: CURRENT_THROUGH_V033
 | RAG-AGY-215 | Kazuya and Chizuru | Act in a setting neither controls as a couple. | He capably plays with and attends to children; she perseveres with kendama and comforts an anxious child. | Care and competence become directly observable to each other. | Do not infer future parenthood or mutual status from the children’s questions; RAG-E-V034-002 through RAG-E-V034-005. |
 | RAG-AGY-216 | Chizuru and Kazuya | Conceal a minor household discrepancy or ask and answer plainly. | Chizuru asks about soap use; Kazuya initially lies, then admits it after she presses him. | She explicitly makes honesty part of the investigation's terms. | His correction is reactive, not evidence of consistent transparency; RAG-E-V034-007. |
 | RAG-AGY-217 | Mini | Let ordinary shared time occur or create a game with diagnostic overtones. | Invites the residents to watch television and then introduces `ito` with a romantic-partner theme. | Supplies a third-party frame while the principals choose to play. | Her selected theme cannot dictate Chizuru's answer; RAG-E-V034-009, RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-AGY-218 | Chizuru | Treat an assigned game value as self-disclosure or state its limits. | Gives an elaborate 100-point proposal example, then says it is not her own requirement and that a simple gesture from a loved person would suffice. | Corrects the interpretation before Mini or Kazuya can make the game answer her inquiry. | She does not identify that loved person; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-AGY-219 | Chizuru and Kibe | Seek peer testimony or leave Kazuya's character to assumption. | Chizuru asks Kibe what Kazuya is like; he supplies loyal testimony and asks if she likes him, but drops the demand after her reaction. | Adds a second friend witness while preserving her answer control. | His account is partial; her blush is not a statement; RAG-E-V035-003, RAG-E-V035-004. |
+| RAG-AGY-220 | Chizuru and Kazuya | Hide pain or negotiate local care and privacy. | She tells him her period is difficult, grants room entry, accepts food and a requested sweet; he cooks and offers help. | Bodily vulnerability produces bounded, unpriced cooperation. | No general room access or relationship outcome follows; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-AGY-221 | Nagomi | Retain a professional prejudice or revise it in direct speech. | Books Chizuru, spends an outing with her, apologizes for judging rental work, and voices a hoped-for bridal future. | Combines genuine repair with continuing family expectation. | She still lacks the corrected couple status; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-AGY-222 | Chizuru | Let Nagomi's outing stay private or tell Kazuya. | Returns and directly says Nagomi rented her. | Begins sharing a consequential family/professional encounter. | The disclosure stops before the family truth or inquiry is resolved; RAG-E-V035-012. |

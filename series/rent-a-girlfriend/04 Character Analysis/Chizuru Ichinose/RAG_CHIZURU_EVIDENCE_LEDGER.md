@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; character evidence inspected through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; character evidence inspected through V034."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V034
+inspected_through_volume: V035
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -201,6 +201,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E159 | CHI-S036 | RAG-E-V034-006, RAG-E-V034-007 | Shared routine and truth boundary | Prepares breakfast and later challenges Kazuya's false answer about body soap, saying honesty matters during her investigation. | Makes a practical norm of truthful ordinary interaction explicit. | She does not declare the inquiry complete or a romantic penalty; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E160 | CHI-S036 | RAG-E-V034-008 | Washer privacy reaction | Encounters Kazuya holding an intimate garment after his accidental washer opening; she appears embarrassed as Mini arrives with her own forgotten laundry. | Shows a local bodily-privacy limit within continued cohabitation. | Do not infer permission, final rupture, or ownership of every garment solely from Kazuya's guess; RAG-CHI-R002, RAG-CHI-R016. |
 | RAG-CHI-E161 | CHI-S036 | RAG-E-V034-009, RAG-E-V034-010 | Chosen game participation and silent card reaction | Agrees to a television/game evening, says two-person company would also be acceptable while Mini is away, and holds a 100 card under a romantic-partner theme before the cut. | Accepts a bounded social setting while the narrative withholds her interpretation. | The game number and facial reaction are not a spoken evaluation of Kazuya; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E162 | CHI-S037 | RAG-E-V035-001, RAG-E-V035-002 | Game meaning and move inquiry | Separates the elaborate 100-point proposal example from what she personally requires and asks when Kazuya will move. | States a conditional preference for something simple from a loved person and keeps the time boundary live. | She does not identify that person or fix an exit date; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E163 | CHI-S037 | RAG-E-V035-003, RAG-E-V035-004 | Solicited peer testimony | Independently asks Kibe about Kazuya and reacts to his direct question about her feeling. | Expands her inquiry beyond Kazuya's self-report to a friend with history. | Kibe's loyalty and her visible reaction cannot supply a first-person romantic answer; RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E164 | CHI-S037 | RAG-E-V035-005 through RAG-E-V035-008 | Vulnerability, permission, and received care | Names difficult menstrual days, permits Kazuya into her room, eats his meal, requests a Sayuri-associated sweet, and later thanks him. | Controls access while allowing specific unpriced support. | Local trust, gratitude, and ambivalence do not settle dating status; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E165 | CHI-S037 | RAG-E-V035-009 through RAG-E-V035-012 | Professional work and family-deception pressure | Continues rental work, meets Nagomi as a paying client, receives her apology and bridal hope, then tells Kazuya of the booking. | The still-false couple premise becomes newly salient in her own reflection. | Considering a possible work exit is not quitting; she has not corrected Nagomi or answered the inquiry; RAG-CHI-R001, RAG-CHI-R004, RAG-CHI-R016. |
 
 ## State-change summary
 

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
 ---
 
 # Repetition and visual form ledger
@@ -230,3 +230,11 @@ state: CURRENT_THROUGH_V033
 | RAG-FRM-186 | Extreme faces and the enlarged soap bottle turn a minor supply discrepancy into a crisis in Kazuya's focalization. | His fear of evaluation is made visible against Chizuru's simple truth request. | The first answer and correction are both explicit speech acts. | Comic disproportion does not make the lie imaginary or a relationship verdict; RAG-E-V034-007. |
 | RAG-FRM-187 | Intimate laundry and Kazuya's clenched hand are magnified before Mini's arrival breaks the feared two-person confrontation. | The panel sequence dramatizes privacy uncertainty and defensive overinterpretation. | The washer event is accidental as presented; Chizuru's embarrassment is visible. | Neither a garment close-up nor Mini's tease proves consent or total ownership; RAG-E-V034-008. |
 | RAG-FRM-188 | `ito` card close-ups show 56 and 100 while Chizuru's face remains wordless at the final cut. | Numerical certainty is offered as a visual lure, then interpretive completion is withheld. | Rules make these assigned game values, not interpersonal grades. | The silent close-up cannot answer her investigation; RAG-E-V034-009, RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-FRM-189 | `ito` cards and Chizuru's proposal imagery move from an exact 100 to a spoken correction. | A numeric reveal tempts a personal-score reading. | Her explicit qualification outranks the card and Mini's suggestion. | The game does not rate Kazuya or identify a beloved; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-FRM-190 | Kibe's direct question is followed by memory and blush close-ups, then his decision to stop asking. | Reaction imagery keeps a potent ambiguity visible. | The missing spoken answer remains missing despite Kibe's confidence. | No confession can be transcribed from expression; RAG-E-V035-004. |
+| RAG-FRM-191 | Kazuya's internet snippets and alarmed faces contrast with Chizuru's plain bodily explanation, bowl, sweet, and quiet doorway. | Comic overthinking is set against local, practical acts. | Chizuru's request and permission, not Kazuya's web theory, govern care. | Physical vulnerability is not a romance certificate; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-FRM-192 | Fashion displays and arcade machines precede Nagomi's serious apology and wedding image. | Consumer brightness carries a paid date into family expectation. | The rental frame and elder's subjective hope remain separately legible. | A bridal mental picture is not an actual marriage plan; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-FRM-193 | Sumi appears across an arcade sightline rather than in the women's conversational frame. | Visual presence creates audience asymmetry without dialogue. | The scene shows seeing, not hearing. | No witness report or confrontation occurs; RAG-E-V035-011. |

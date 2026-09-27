@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
 ---
 
 # Progress and regression ledger
@@ -230,3 +230,10 @@ state: CURRENT_THROUGH_V033
 | RAG-PRG-186 | Household honesty | SMALL_LIE_CORRECTED_AFTER_CHALLENGE — Kazuya misstates his soap use, then acknowledges the lie when asked. | Chizuru articulates a truth norm for the ongoing investigation. | The initial lie remains a regression; no broad correction follows. | RAG-E-V034-007 |
 | RAG-PRG-187 | Privacy and routine | ACCIDENTAL_LAUNDRY_ACCESS — an open washer exposes intimate garments, Kazuya tries to disclose the incident, and Mini's arrival changes the scene. | Shared-house privacy receives a concrete stress test. | Embarrassment is not sexual permission or a final rupture. | RAG-E-V034-008 |
 | RAG-PRG-188 | Third-party staging | GAME_QUESTION_UNRESOLVED — Mini's `ito` rules and romantic theme yield number cards before a cut. | Another staged prompt reaches the principals. | A random card cannot stand in for Chizuru's spoken answer. | RAG-E-V034-009, RAG-E-V034-010 |
+
+## V035 close additions
+
+| RAG-PRG-189 | Chizuru's inquiry | EXTERNAL_TESTIMONY_ADDED | Asks Kibe about Kazuya and hears his friendship account; Kibe's direct liking question goes unanswered. | Evidence gathering advances without a romantic verdict; RAG-E-V035-003, RAG-E-V035-004. |
+| RAG-PRG-190 | Kazuya's ordinary care | BOUNDED_PROGRESS | Cooks for Chizuru during her period and responds to a concrete sweet request after she grants room entry. | Care is real, while internet stereotypes and overinterpretation remain active; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-PRG-191 | Family truth | PRESSURE_INCREASED | Nagomi repairs part of her professional prejudice but continues to imagine a wedding; Chizuru feels the unresolved deception and tells Kazuya of the booking. | Partial repair makes the remaining false couple status more salient, not corrected; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-PRG-192 | Housing clock | UNCERTAIN_REVISION | Kazuya gives a tentative later move estimate when Chizuru asks. | May 13 should no longer be repeated as an unquestioned exact deadline; no new fixed date exists; RAG-E-V035-002. |

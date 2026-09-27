@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
 ---
 
 # Information and deception ledger
@@ -236,3 +236,12 @@ state: CURRENT_THROUGH_V033
 | RAG-INF-192 | Kazuya gives a false answer about shared body soap before correcting it. | Chizuru notices the supply discrepancy and asks him directly; he fears a negative inference. | She states that lying is incompatible with her ongoing investigation even over a small fact. | The correction does not erase the first lie or reveal a final answer; RAG-E-V034-007. |
 | RAG-INF-193 | Kazuya encounters intimate laundry by accident and tries to report it; Mini supplies her own forgotten-laundry fact. | Each resident has partial knowledge of whose items were left in the shared machine. | A privacy mishap and disclosure are partly clarified through group presence. | Do not assign ownership of every garment from Kazuya's guess or infer deliberate voyeurism; RAG-E-V034-008. |
 | RAG-INF-194 | An `ito` game assigns hidden numbers and a romantic desirability topic. | Players know their own card; others must infer relative values from stated analogies. | The game creates a structured information gap at the volume boundary. | Kazuya's 56 and Chizuru's 100 are game cards, not reciprocal relationship scores; RAG-E-V034-009, RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-INF-195 | Chizuru qualifies the 100-point `ito` example as a game analogy, not her personal proposal demand. | All three players hear the correction; Kazuya still privately wonders whether he is the loved person. | Explicit speech narrows what the card can prove. | No direct romantic identification; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-INF-196 | Chizuru asks Kibe for his view of Kazuya; Kibe asks whether she likes Kazuya and withdraws before receiving an answer. | Kibe knows he was consulted and saw her reaction; Kazuya is not shown hearing the exchange. | Third-party testimony enters the inquiry under an information asymmetry. | Kibe's interpretation is not Chizuru's declaration; RAG-E-V035-003, RAG-E-V035-004. |
+| RAG-INF-197 | Chizuru directly tells Kazuya about her period and later permits room entry; Mini learns enough to tease his response. | Kazuya gains a local private fact and permission; Mini's knowledge is narrower than Chizuru's whole experience. | Ordinary disclosure reduces an immediate misunderstanding. | Do not turn a bodily fact into generalized access; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-INF-198 | Nagomi books a rental outing and apologizes for professional prejudice while still speaking as if Chizuru will marry Kazuya. | Nagomi understands the occupation but not the residual false dating premise; Chizuru recognizes the remaining deception. | A partial truth can support sincere apology while leaving a pivotal false inference intact. | No correction occurs in the outing; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-INF-199 | Sumi sees Chizuru and Nagomi together at an arcade, without shown conversation or knowledge of the booking. | Sumi gains a visual observation only. | Keeps a possible future witness distinct from an informed participant. | Do not assign identities, motive, or paid context to Sumi; RAG-E-V035-011. |
+| RAG-INF-200 | Chizuru tells Kazuya that Nagomi rented her after returning home. | Kazuya gains the booking fact. | Opens an opportunity for a more complete family discussion. | The volume cuts before his response or a correction; RAG-E-V035-012. |

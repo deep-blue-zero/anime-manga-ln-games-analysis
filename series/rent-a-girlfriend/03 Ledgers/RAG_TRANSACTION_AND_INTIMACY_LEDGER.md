@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
 ---
 
 # Transaction and intimacy ledger
@@ -214,3 +214,9 @@ state: CURRENT_THROUGH_V033
 | RAG-TXN-170 | Shared body soap | A common household supply raises a question about use and replenishment. | Chizuru may ask; Kazuya may clarify his actual use. | Material sharing is no basis for deception or romantic scoring. | His initial false answer is corrected under her direct truth request; RAG-E-V034-007. |
 | RAG-TXN-171 | Shared washer and private clothing | The washer is communal; intimate garments remain inside when Kazuya opens it. | Accidental encounter should be disclosed and items left to their owners. | Communal machine access grants no right to inspect personal clothing. | He panics and tries to tell Chizuru; Mini arrives with her own forgotten laundry; RAG-E-V034-008. |
 | RAG-TXN-172 | Mini's television invitation and `ito` game | The housemates agree to a shared entertainment activity and a themed card game. | Each may join, stop, and choose how to describe a private number under rules. | The game cannot force a truthful confession or romantic verdict. | A desirability theme and cards appear, but explanations remain incomplete; RAG-E-V034-009, RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-TXN-173 | Resolved `ito` romantic theme | Three housemates use assigned values to make game analogies. | Chizuru can clarify what her example does and does not mean. | No assigned number or ideal scenario can bind her to a proposal requirement. | Cards are revealed and she disclaims personal desire for extravagance; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-TXN-174 | Menstrual-pain care in a shared house | Chizuru tells Kazuya of difficult first days; he buys supplies, cooks, and offers help. | She controls room entry and can accept or decline each act; she requests a familiar sweet. | Practical care grants no wider bodily access, debt, or romantic result. | She eats and thanks him under local permission; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-TXN-175 | Nagomi's rental booking | An elder who knows the occupation pays for Chizuru's professional time. | Chizuru accepts the booked outing and explains work features; Nagomi chooses to apologize and shop. | Payment neither corrects the family lie nor buys a bridal commitment. | They spend time together, with unresolved genuine-couple belief; RAG-E-V035-009 through RAG-E-V035-012. |

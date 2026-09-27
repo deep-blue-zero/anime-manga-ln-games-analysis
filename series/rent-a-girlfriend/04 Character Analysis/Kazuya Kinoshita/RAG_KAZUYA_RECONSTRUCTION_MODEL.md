@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V034."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V035."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -61,13 +61,15 @@ model_basis:
     - RAG-JP-EPUB-V032
     - RAG-JP-EPUB-V033
     - RAG-JP-EPUB-V034
-  admitted_through_volume: V034
+    - RAG-JP-EPUB-V035
+    - RAG-JP-EPUB-V035
+  admitted_through_volume: V035
   narrative_time_boundary: "after the nursery outing, minor household truth and privacy incidents, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V034 narrative evidence is admitted."
+    - "No post-V035 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -2021,3 +2023,11 @@ V033 tests whether an actual outside confession collapses that partial restraint
 V034 adds a discriminating ordinary-competence case: Kazuya keeps his nursery commitment and behaves naturally and skillfully with children under Chizuru's direct observation and Harumi's independent appraisal (RAG-E-V034-001 through RAG-E-V034-005). This narrows the previous gap in noncrisis care, without granting general parenting competence. The later soap scene also shows that favorable-appraisal pressure can trigger even a trivial lie; Chizuru must press before he corrects it. His accidental laundry discovery produces an imperfect attempt at disclosure, and the `ito` card 56 activates self-deprecating scoring (RAG-E-V034-006 through RAG-E-V034-010). The rule is conditional competence alongside persistent shame-driven avoidance, not a uniform virtue or a fixed inability to tell the truth. The game remains unresolved and gives no access to Chizuru's answer.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.
+
+## V035 local validation
+
+V035 adds an ordinary care test: Kazuya misreads Chizuru's menstrual discomfort at first, but purchases supplies, cooks, enters only with her permission, and offers help. His self-deprecating reading of the game card and indirect search for instructions show that practical initiative still coexists with shame and uncertainty (RAG-E-V035-001 through RAG-E-V035-008). He receives the fact of Nagomi's rental booking at the end; this does not show a family correction or romantic answer.
+
+## V035 local validation
+
+V035 adds an ordinary care test: Kazuya misreads Chizuru's menstrual discomfort at first, but purchases supplies, cooks, enters only with her permission, and offers help. His self-deprecating reading of the game card and indirect search for instructions show that practical initiative still coexists with shame and uncertainty (RAG-E-V035-001 through RAG-E-V035-008). He receives the fact of Nagomi's rental booking at the end; this does not show a family correction or romantic answer.

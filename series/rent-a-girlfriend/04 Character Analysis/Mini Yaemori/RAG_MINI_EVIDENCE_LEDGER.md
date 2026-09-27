@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V034; character evidence inspected through V034, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V035; character evidence inspected through V034, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V034
+inspected_through_volume: V035
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -70,6 +70,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E030 | MIN-S011 | RAG-E-V033-006 through RAG-E-V033-009 | Overhearing and rival interpretation | Hides with Kazuya, hears Umi's confession and his decision to postpone hearing Chizuru's answer, then urges Kazuya to act rather than concede. | Supplies encouragement after a real new information event. | She does not know Chizuru's intended answer and has not gained permission to share the overheard exchange; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E031 | MIN-S012 | RAG-E-V034-008 | Forgotten laundry and third-party interruption | Arrives at the washer after Kazuya's accidental discovery, says she too forgot laundry, and teases the embarrassed residents. | Her timing changes how an awkward privacy incident is handled. | The page does not establish a calculated setup or ownership of every garment; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E032 | MIN-S012 | RAG-E-V034-009, RAG-E-V034-010 | Television invitation and themed card-game staging | Invites the housemates to watch comedy and proposes `ito`, selecting a romantic-partner desirability prompt. | Again supplies a low-stakes group activity with potential diagnostic pressure. | Game participation and assigned numbers cannot certify anyone's romantic feeling; RAG-MIN-R001, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E033 | MIN-S013 | RAG-E-V035-001, RAG-E-V035-002 | Game interpretation and pressure | Participates in resolving the `ito` rankings and treats Chizuru's conditional example as a possible romantic clue. | Repeats her third-party interpretive role. | Chizuru expressly keeps the elaborate example separate from her personal requirement; Mini's reading is not Chizuru's answer; RAG-MIN-R001, RAG-MIN-R003. |
+| RAG-MIN-E034 | MIN-S013 | RAG-E-V035-006, RAG-E-V035-008 | Household intermediary | Learns of Chizuru's period, teases Kazuya's secrecy, and later comments on the pair's care episode. | Makes a private household moment socially legible while encouraging action. | She does not grant room access or know Chizuru's final romantic classification; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 
 ## State-change summary
 
